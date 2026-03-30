@@ -374,6 +374,30 @@
 
     .article:last-child { border-bottom: 0; }
 
+    .article-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .article-header .article-title {
+      flex: 1;
+      margin: 0;
+    }
+    .copy-btn {
+      flex-shrink: 0;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--text-3);
+      cursor: pointer;
+      padding: 4px;
+      line-height: 0;
+      opacity: 0;
+      transition: opacity .15s, color .15s;
+    }
+    .article:hover .copy-btn { opacity: 1; }
+    .copy-btn:hover { color: var(--accent); border-color: var(--accent); }
+    .copy-btn.copied { color: var(--success, #4ade80); border-color: var(--success, #4ade80); opacity: 1; }
     .article-title {
       margin: 0;
       font-size: 16px;
@@ -622,6 +646,14 @@
       }).format(date).replace(',', '');
     }
 
+    function copyArticle(btn, title, brief) {
+      const text = title + '\n' + brief;
+      navigator.clipboard.writeText(text).then(() => {
+        btn.classList.add('copied');
+        setTimeout(() => btn.classList.remove('copied'), 1200);
+      });
+    }
+
     function escapeHtml(str = '') {
       return str.replace(/[&<>"']/g, char => ({
         '&': '&amp;',
@@ -717,7 +749,12 @@
           }
           const articlesHtml = (source.articles || []).map(article => `
             <article class="article">
-              <h4 class="article-title"><a href="${escapeHtml(article.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></h4>
+              <div class="article-header">
+                <h4 class="article-title"><a href="${escapeHtml(article.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></h4>
+                <button class="copy-btn" title="复制标题和内容" onclick="copyArticle(this, '${escapeHtml(article.title).replace(/'/g, "\\'")}', '${escapeHtml(article.brief).replace(/'/g, "\\'")}')">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                </button>
+              </div>
               <p class="article-brief">${escapeHtml(article.brief)}</p>
               <div class="article-meta">
                 <span>${escapeHtml(article.source_name || source.name)}</span>
