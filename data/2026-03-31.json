@@ -1,0 +1,506 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T03:51:56.367833+08:00",
+  "sections": [
+    {
+      "category": "优选站点",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "Apple Intelligence Accidentally Goes Live in China Before Regulatory Approval",
+              "brief": "苹果在中国市场意外提前上线了Apple Intelligence功能，部分iPhone用户在设置界面中看到了可用的AI功能选项，但苹果并未做出任何官方宣布。苹果随后迅速撤回了这些功能。此次事故源于系统错误，而非正式发布。苹果目前正与阿里巴巴合作推进Apple Intelligence在中国的落地，但必须获得中国国家互联网信息办公室的审批。当前该功能仍依赖谷歌反向图像搜索等被禁服务，短期内无法在中国正常使用。华为、小米等本土品牌已在AI功能上占据先发优势，苹果在竞争中明显落后。",
+              "source_url": "https://www.macrumors.com/2026/03/30/apple-intelligence-china-mistake/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T03:48:00+08:00"
+            },
+            {
+              "title": "New Siri Features Absent From iOS 26.5 Beta, Likely Pushed to iOS 27 in September",
+              "brief": "苹果发布的iOS 26.5首个开发者测试版中并未包含任何新的Apple Intelligence Siri功能，这意味着用户可能要等到今年九月的iOS 27才能看到期待已久的Siri升级。苹果最初计划在iOS 26.4中推出新Siri功能，但因准确性问题于今年二月宣布推迟。尽管内部测试人员曾在iOS 26.5中使用过完整的Apple Intelligence Siri功能集，但公测版本中并未出现这些功能。iOS 27预计将包含独立的Siri聊天机器人应用，使该助手具备与Gemini、ChatGPT等AI聊天机器人相当的能力。苹果在2024年WWDC上承诺的功能已多次延期，但只要在2026年底前交付即可算兑现承诺。",
+              "source_url": "https://www.macrumors.com/2026/03/30/ios-26-5-no-new-siri-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T03:06:00+08:00"
+            },
+            {
+              "title": "iOS 26.5 Beta Continues RCS End-to-End Encryption Testing for iPhone and Android Messages",
+              "brief": "苹果在iOS 26.5首个测试版中重新启用了RCS消息端到端加密功能，继续推进iPhone与Android用户之间的通信安全。该功能此前在iOS 26.4测试版中出现过，但在正式版发布前被移除。用户可在设置应用的消息选项中找到端到端加密开关，默认处于开启状态。启用加密的对话会显示锁形标识。目前该功能仍处于测试阶段，并非所有设备和运营商都能使用。iPhone之间的iMessage一直支持端到端加密，Android用户之间的RCS消息也有加密，但跨平台RCS通信此前一直缺乏加密保护，这一局面有望在iOS 26.5中得到改善。",
+              "source_url": "https://www.macrumors.com/2026/03/30/ios-26-5-beta-rcs-encryption/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T02:43:00+08:00"
+            },
+            {
+              "title": "First macOS Tahoe 26.5 Beta Now Available for Developers",
+              "brief": "苹果向开发者推送了macOS Tahoe 26.5的首个测试版，距离macOS Tahoe 26.4正式版发布仅过去六天。开发者可通过系统设置中的软件更新选项下载该版本，需启用Beta更新并拥有免费开发者账号。macOS Tahoe 26.5有可能引入部分Apple Intelligence Siri功能，但近期传闻表明这些新功能更可能被推迟至iOS 27。目前该测试版仅面向开发者开放，预计一至两周内将推出公测版。此前macOS Tahoe 26.4已修复了60个安全漏洞，包括一个可被利用获取root权限的漏洞。",
+              "source_url": "https://www.macrumors.com/2026/03/30/apple-seeds-macos-tahoe-26-5-beta-1/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T02:43:00+08:00"
+            },
+            {
+              "title": "Apple Seeds First iOS 26.5 and iPadOS 26.5 Betas to Developers",
+              "brief": "苹果向开发者推送了iOS 26.5和iPadOS 26.5的首个测试版，距离iOS 26.4正式版发布仅一周。注册开发者可通过设置应用中的通用-软件更新选项下载。iOS 26.5可能引入端到端加密RCS消息功能，以及欧盟要求的第三方可穿戴设备通知转发和近场配对功能。苹果目前正在测试端到端加密的RCS消息功能，这可能在该版本中实现。关于新Apple Intelligence Siri功能，种种迹象表明这些功能将被推迟至iOS 27，尽管苹果在2024年WWDC上已做出承诺。iOS 27预计将在今年六月的WWDC上亮相。",
+              "source_url": "https://www.macrumors.com/2026/03/30/apple-seeds-first-ios-26-5-beta/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T02:39:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "Apple rolls out macOS Sonoma 14.8.6 and macOS Sequoia 15.7.6 Release Candidates",
+              "brief": "苹果在发布macOS 26.5、iOS 26.5等新一代系统测试版的同时，还推出了macOS Sonoma 14.8.6和macOS Sequoia 15.7.6的RC候选版本。由于此前没有经过任何Beta测试阶段就直接发布RC版，这两个更新很可能将在短期内向公众正式推送。macOS Sonoma 14.8.5和macOS Sequoia 15.7.5上周刚刚发布，修复了两个系统共60个安全漏洞，其中包括至少一个可被应用利用获取root权限的漏洞。苹果尚未公布新RC版本的更新日志，但预计将以安全修复为主。这些旧版系统的持续维护对无法升级到macOS Tahoe的用户尤为重要。",
+              "source_url": "https://9to5mac.com/2026/03/30/apple-rolls-out-macos-sonoma-14-8-6-and-macos-sequoia-15-7-6-release-candidates/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T03:54:00+08:00"
+            },
+            {
+              "title": "iOS 26.5 beta arrives with no Gemini-powered AI features as focus shifts to iOS 27",
+              "brief": "iOS 26.5首个测试版如期发布，但其中不含任何Gemini驱动的Siri或Apple Intelligence新功能，苹果的AI开发重心已明确转向iOS 27。苹果在2024年6月发布Apple Intelligence时承诺的功能已多次延期，从最初的iOS 18到iOS 26.4再到26.5，现在看来至少要等到今年九月的iOS 27。2026年1月，苹果和谷歌宣布合作，下一代Apple Foundation Models将基于谷歌Gemini模型构建。据报道苹果曾将iOS 26.4定为首个Gemini功能的目标版本，但因开发进度不达预期而调整计划。iOS 27预计将在六月WWDC上以测试版形式亮相，届时将带来完整的AI功能升级。",
+              "source_url": "https://9to5mac.com/2026/03/30/ios-26-5-beta-arrives-with-no-gemini-powered-ai-features-as-focus-shifts-to-ios-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T03:49:00+08:00"
+            },
+            {
+              "title": "iOS 26.5 might add new in-app options for subscriptions",
+              "brief": "iOS 26.5首个测试版的发布说明中透露了App Store内购订阅即将迎来的新变化，一种按月付费、12个月承诺的订阅计划。该方案本质上是年度订阅的一种变体，用户按月支付费用但需承诺12个月的使用周期，预计可享受一定折扣优惠。苹果在Beta 1的开发者发布说明中多次提及该功能，包括读取和指定此类订阅的定价信息。目前尚不清楚苹果是用新模式替代现有的年度订阅选项，还是将其作为额外的订阅层级推出。在订阅服务日益普及的今天，为开发者和用户提供更灵活的付费选项具有实际意义。",
+              "source_url": "https://9to5mac.com/2026/03/30/ios-26-5-might-add-new-in-app-options-for-subscriptions/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T03:40:00+08:00"
+            },
+            {
+              "title": "iOS 26.5 adds new Apple Maps feature for trending places",
+              "brief": "iOS 26.5首个测试版带来了Apple Maps的全新功能推荐地点，用户点击搜索框后即可看到基于附近热门趋势、近期搜索记录等因素生成的个性化地点推荐。该功能是苹果上周宣布的Apple Maps广告计划的配套功能之一。在当前测试版中，推荐地点已经能根据用户的搜索行为实时刷新，且目前尚未出现广告内容。苹果计划今年夏天在美国和加拿大为Apple Maps引入广告，推荐地点功能预计将与广告系统协同工作。该功能目前仍处于早期测试阶段，后续版本中将持续优化推荐算法和展示效果。",
+              "source_url": "https://9to5mac.com/2026/03/30/ios-26-5-adds-new-apple-maps-feature-for-trending-places/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T03:01:00+08:00"
+            },
+            {
+              "title": "Meta testing paid Instagram service that lets users secretly view Stories",
+              "brief": "Meta正在菲律宾、日本和墨西哥等市场测试Instagram的付费订阅服务Instagram Plus，月费约2美元。该服务包含多项专有功能：用户可以在不让发布者知晓的情况下查看其Stories内容，查看谁重新观看了自己的Stories，在关注者和亲密好友之外创建自定义受众群组，将Stories延长至24小时以上，以及搜索Stories的观看者列表。此举是Meta今年一月宣布的付费服务战略的落地动作，旨在为旗下Instagram、WhatsApp和Facebook打造订阅收入来源。Instagram Plus的模式明显借鉴了Snapchat+的成功经验，后者自2022年推出以来已积累了数百万订阅用户，成为重要的非广告收入来源。",
+              "source_url": "https://9to5mac.com/2026/03/30/meta-testing-paid-instagram-service-that-lets-users-secretly-view-stories/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T02:58:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Samsung's new Galaxy Tab S11 Ultra 'Pro Keyboard' is half a laptop for $399",
+              "brief": "三星突然为Galaxy Tab S11 Ultra推出了一款全新的Pro Keyboard键盘配件，售价高达399美元，几乎是现有Book Cover Keyboard Slim的两倍价格，比苹果13英寸iPad Pro的Magic Keyboard还贵50美元。该键盘通过背部POGO pin连接平板，内置全尺寸QWERTY键盘、Galaxy AI专属按键和加大14.6%的触控板，无需蓝牙连接也不含电池，完全由平板供电。键盘厚度仅5.3毫米，重636克，与平板合体后总重约1.3公斤，接近MacBook Air的重量。不过早期评测反馈不佳，指出键盘缺少背光、不保护平板背面，且铰链耐用性堪忧。目前仅在美国和韩国市场销售。",
+              "source_url": "https://9to5google.com/2026/03/30/samsung-galaxy-tab-s11-pro-keyboard-released/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T01:20:00+08:00"
+            },
+            {
+              "title": "Galaxy S26 Ultra vs. iPhone 17 Pro Max: Is Samsung falling behind?",
+              "brief": "三星Galaxy S26 Ultra与苹果iPhone 17 Pro Max的对比评测引发关注。在设计上，苹果对iPhone 17 Pro Max进行了多年来的首次重大外观变革，采用全新全金属机身，而三星则延续了去年的设计语言，给人原地踏步的感觉。屏幕方面，三星仍以近乎无边框的小挖孔屏领先苹果的Dynamic Island，新增的隐私显示功能可限制可视角度。软件层面，三星的Galaxy AI套件配合Gemini功能在AI移动应用方面处于领先位置，而苹果的AI能力仍显得不够灵活和智能。两家旗舰在各自软件生态内的性能体验已无明显差异，但苹果在创新方面今年明显更为积极。",
+              "source_url": "https://9to5google.com/2026/03/30/galaxy-s26-ultra-vs-iphone-17-pro-max-is-samsung-falling-behind-video/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T00:30:00+08:00"
+            },
+            {
+              "title": "These Samsung Galaxy phones are set to add AirDrop",
+              "brief": "三星Galaxy手机即将获得苹果AirDrop跨平台文件传输支持。继Galaxy S26系列之后，更多三星设备将添加该功能。开发者通过侧载最新版Quick Share应用发现，S25系列、S24系列、S23系列、S22系列、Galaxy Z Fold 7以及多款Galaxy A系列手机均已出现与Apple设备共享的菜单选项。不过目前该功能尚未真正可用，测试中这些设备无法被iPhone或MacBook发现。三星和谷歌此前已明确表示计划将Quick Share与AirDrop的兼容性推广至更广泛的安卓生态。谷歌此前已在Pixel 10系列上率先实现了该功能。",
+              "source_url": "https://9to5google.com/2026/03/30/samsung-galaxy-airdrop-support-list-sideloading/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T00:15:00+08:00"
+            },
+            {
+              "title": "Gemini Live's voices don't sound like they should",
+              "brief": "谷歌Gemini Live的语音功能近期出现了严重退化，多种预设语音的音色、语速和口音发生了明显变化，与用户最初设置时的体验大相径庭。以模仿英式口音的Capella语音选项为例，其发音模式已大幅改变，语速变慢、音调降低，有时还会混入澳大利亚口音或美式口音。重启Gemini应用后口音会暂时恢复正常，但会逐渐变形为混合音色。此外，音频伪影如爆裂声、嘶嘶声也频繁出现。这一问题可能与近期的Gemini Live 3.1 Flash Live更新有关，旧版AI模型切换时往往会导致语音特性变化。谷歌尚未就此问题发表回应。",
+              "source_url": "https://9to5google.com/2026/03/30/gemini-lives-voices-dont-sound-like-they-should/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T00:08:00+08:00"
+            },
+            {
+              "title": "Samsung built a motion sickness app for Galaxy Buds, but you can try it on any earbuds",
+              "brief": "三星推出了一款名为Hearapy的应用，可通过播放特定音频频率来缓解晕车症状。该应用的工作原理是播放100Hz的低频正弦波，持续约60秒，刺激内耳平衡系统帮助大脑更好地处理运动信息，效果可持续约两小时。日本名古屋大学的研究人员提供了相关数据支持。虽然三星将Hearapy定位为Galaxy Buds的配套应用，但它实际上可以在Google Play Store上下载，适用于任何能输出100Hz频率的耳机设备。实际测试显示，使用Jabra Elite Gen 2等第三方耳机也能正常运行。该应用为安卓用户免费提供了一种无需屏幕遮挡的晕车解决方案。",
+              "source_url": "https://9to5google.com/2026/03/30/samsung-built-a-motion-sickness-app-for-galaxy-buds/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T00:07:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data",
+              "brief": "Meta正寄希望于最高法院近期关于ISP不对其网络上盗版行为承担责任的裁决，以帮助其应对因通过BitTorrent下载AI训练数据而引发的侵权诉讼。原告Entrepreneur Media指控Meta通过播种约80TB的盗版作品构成帮助侵权，因为Meta了解BitTorrent的工作原理，其下载行为必然导致文件被上传分享。这一指控比另一起图书作者集体诉讼中的直接侵权指控更容易证明。Meta辩称原告未能证明其与任何特定第三方共享了受保护作品，也未能证明Meta实际知晓具体的侵权行为。最高法院大法官索托马约尔的协同意见警告该裁决可能削弱了DMCA的激励结构，这对Meta的抗辩策略可能产生影响。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-31T03:04:00+08:00"
+            },
+            {
+              "title": "F1 in Japan: Oh no, what have they done to all the fast corners?",
+              "brief": "2026赛季F1日本大奖赛暴露了新规下混合动力系统的严重问题。新赛车采用400千瓦内燃机加350千瓦电机的组合，配备1.1千瓦时电池，但铃鹿赛道制动区域稀少，导致每圈仅能回收约3.65兆焦耳的能量，远低于允许的8兆焦耳。这意味着电机全功率输出只能维持不到12秒。车手不得不在高速弯道松油滑行，130R弯道的通过速度较去年降低了50公里/小时。更危险的是不同车辆之间的速度差最高可达70公里/小时，Haas车手Bearman为躲避慢速Alpine车辆发生碰撞，承受了50G的冲击。F1将于4月9日召开危机会议讨论解决方案，可能的方案包括增大电池、增加燃油流量或限制电机功率。",
+              "source_url": "https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-31T01:22:00+08:00"
+            },
+            {
+              "title": "After 16 years and $8 billion, the military's new GPS software still doesn't work",
+              "brief": "美国太空军的GPS下一代运行控制系统OCX历经16年、耗资80亿美元后仍无法正常运行，五角大楼可能考虑彻底取消该项目。RTX公司（原雷神）于2010年获得该合同，原计划2016年以37亿美元完成交付。太空军去年7月正式接收了该系统，但后续测试发现大量未解决的系统问题。空军助理部长Ainsworth向国会作证时承认，该系统在所有子系统中都存在广泛问题。由于OCX迟迟无法上线，军方不得不对旧版GPS控制系统进行改造以支持GPS III卫星和M-code军用信号，这些信号对对抗乌克兰和中东战场上的GPS干扰和欺骗至关重要。太空军正在评估包括取消项目在内的多种方案。",
+              "source_url": "https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-31T01:11:00+08:00"
+            },
+            {
+              "title": "Trump convenes God Squad to override Endangered Species Act, up oil production",
+              "brief": "特朗普政府将召集被称为上帝委员会的濒危物种委员会，讨论是否为墨西哥湾所有联邦监管的化石燃料运营豁免《濒危物种法》保护。国防部长以国家安全为由提出豁免请求，这在此前近50年的历史上从未有过。豁免对象包括海龟和仅存51只个体的鲸鱼物种。生物多样性中心提起诉讼试图阻止会议，但联邦法官上周五拒绝了禁令请求。美国石油产量正处于历史高位附近，墨西哥湾联邦水域去年日产190万桶石油。专家质疑增加产量对国家安全并无即时益处，但符合特朗普的钻探优先政策。此前该委员会仅召开过少数几次会议，仅批准过两次豁免。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-30T21:30:00+08:00"
+            },
+            {
+              "title": "What happened to Amelia Earhart? New book takes on the case.",
+              "brief": "Rachel Hartigan出版了新书《迷失：Amelia Earhart的三次神秘死亡与一段非凡人生》，深入探讨了这位传奇女飞行员1937年环球飞行途中失踪之谜。Hartigan曾在2017年和2019年两次参加国家地理资助的尼库马罗罗岛探险搜寻活动。书中梳理了关于Earhart命运的三大主流理论：迷航坠海、流落荒岛、被日军俘获。Hartigan最初对荒岛假说颇为信服，探险队发现了1930年代的拉链扣和小刀等物品，训练有素的尸体搜索犬也在露营地有所反应。但这些证据均未直接关联到Earhart本人，没有发现骨骼遗骸。作者目前认为最可能的解释是最简单的那个：她迷航后耗尽燃料坠入大海。",
+              "source_url": "https://arstechnica.com/science/2026/03/what-happened-to-amelia-earhart-new-book-takes-on-the-case/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-30T20:31:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "The Galaxy Tab S11 Ultra's Pro Keyboard somehow costs even more than we feared",
+              "brief": "三星Galaxy Tab S11 Ultra的Pro Keyboard键盘在美国正式开售，售价399美元，高于韩国市场的约合338美元。该键盘采用铝制机身，配备全尺寸QWERTY键盘、触控板（较上代增大14.6%）以及专属Galaxy AI和DeX按键，通过背部POGO pin连接平板供电，无需蓝牙或内置电池。提供灰色和银色两种配色选择。这一价格相当于256GB Wi-Fi版平板价格的三分之一，而现有Book Cover Keyboard Slim的价格约为其一半。尽管键盘质感出色，但399美元的定价对大多数用户而言门槛过高，早期用户的反馈也反映出对该价格的普遍不满。",
+              "source_url": "https://www.androidauthority.com/galaxy-tab-s11-ultra-pro-keyboard-us-price-3653241/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T03:46:00+08:00"
+            },
+            {
+              "title": "Google TV Streamer still 20% off, but not for long!",
+              "brief": "Google TV Streamer在亚马逊大春季促销中继续享受8折优惠，售价79.99美元，优惠20美元。该促销活动将于3月31日太平洋时间晚上11:59结束。Google TV Streamer运行Google TV/Android TV系统，可直接访问Google Play Store获取各类流媒体应用，支持Google Cast投屏、Google Assistant语音控制和Google Home智能家居管理。硬件方面采用联发科MT8696处理器和4GB内存，性能较前代Chromecast提升22%，存储空间翻倍至32GB。设备采用桌面式设计而非隐藏式，附带更大更符合人体工学的遥控器，并新增查找遥控器功能。两种配色Porcelain和Hazel均可享受折扣。",
+              "source_url": "https://www.androidauthority.com/google-tv-streamer-deal-14-3653239/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T03:02:00+08:00"
+            },
+            {
+              "title": "This might be the least annoying budget projector yet",
+              "brief": "Aurzen发布了EAZZE D1 Air平价投影仪，最大卖点是支持65W USB-C PD供电，可使用兼容充电宝驱动，大幅提升了便携性，这在同价位产品中较为少见。设备提供原生1080p分辨率，支持HDR10和4K输入，搭载杜比音频双8W立体声扬声器，配备TOF传感器实现实时自动对焦和自动梯形校正。内置Netflix、Prime Video、YouTube等正版流媒体应用，支持双频Wi-Fi和蓝牙5.2。背部配备HDMI、USB、音频输出和USB-C接口，可调支架支持墙面到天花板的投影。建议最大投影尺寸约100英寸，光源寿命约30000小时。该投影仪定位入门级，目前在亚马逊以199.99美元开售。",
+              "source_url": "https://www.androidauthority.com/aurzen-eazze-d1-air-launch-3653212/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T02:54:00+08:00"
+            },
+            {
+              "title": "OnePlus shutdown rumors have our readers split right down the middle",
+              "brief": "Android Authority针对OnePlus可能关停全球业务的传闻进行了读者投票调查，超过7000人参与投票，结果几乎对半开：50.4%认为OnePlus今年将关停或停止运营，49.6%认为不会。这一接近完美的分裂反映了围绕该品牌未来的不确定性。评论区的讨论更多指向对OnePlus近年演变方向的失望，而非对其即将消失的恐惧。许多用户认为OnePlus在7系列之后就走了下坡路，涨价、缺乏差异化硬件、与OPPO关系日益紧密等问题被反复提及。也有人认为OnePlus更可能缩减规模或退回部分市场，而非完全消失。部分用户仍对OnePlus 13的影像质量给予高度评价，表示如果品牌关闭将不知该选哪家手机。",
+              "source_url": "https://www.androidauthority.com/oneplus-shutdown-this-year-poll-result-3653218/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T02:50:00+08:00"
+            },
+            {
+              "title": "That new White House app looks all sorts of problematic under the hood",
+              "brief": "美国白宫上周推出的新版官方应用在技术层面暴露了多个安全隐患。开发者对应用进行逆向分析后发现，该应用本质上是一个WordPress驱动的内容聚合门户，但存在严重的安全问题。应用内含注入自定义JavaScript的代码，可绕过GDPR提示、Cookie通知甚至登录界面，这可能违反第三方网站的使用协议。应用还从外部第三方代码库实时加载大量代码，任何库被入侵都将直接威胁用户安全。此外，该应用还具备定期收集用户位置信息的基础设施。分析者认为这些不尊重第三方知识产权的做法和可疑的安全实践令人尴尬，但对于当前美国政府的行事风格而言并不令人意外。",
+              "source_url": "https://www.androidauthority.com/white-house-app-teardown-3653195/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T23:35:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "Meta is testing an Instagram Plus subscription service with exclusive features",
+              "brief": "Meta正在少数国家测试Instagram Plus付费订阅服务，菲律宾市场的月费约1.07美元，墨西哥约2.15美元，并提供首月免费试用。该服务聚焦Stories功能，包含多项专属特性：在不让对方看到的情况下预览他人Stories、将Stories延长24小时、创建多个受众分组、查看谁重新观看了自己的Stories、搜索观看者列表、创建聚光灯Stories，以及使用超级爱心反应。Meta发言人表示测试旨在了解用户对高级功能集的价值偏好。这一模式明显借鉴了Snapchat+的成功经验。Meta近期还加大了Meta Verified订阅的推广力度，并开始测试Instagram字幕链接分享功能和Facebook非订阅用户链接分享限制等策略。",
+              "source_url": "https://www.engadget.com/social-media/meta-is-testing-an-instagram-plus-subscription-service-with-exclusive-features-181215180.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T02:12:00+08:00"
+            },
+            {
+              "title": "OkCupid settles FTC case on alleged misuse of its users' personal data",
+              "brief": "Match Group旗下约会应用OkCupid与美国联邦贸易委员会就一起追溯至2014年的用户数据滥用诉讼达成和解。FTC指控OkCupid在未告知用户且未提供退出选项的情况下，将300万张用户照片分享给第三方AI公司Clarifai用于面部识别和内容审核模型训练。OkCupid当时的隐私政策声明不会与非关联第三方共享个人信息，但FTC认为Clarifai不符合允许的共享对象类别。和解协议将永久禁止Match Group和OkCupid运营方Humor Rainbow对数据收集目的和用户选择权作出不实陈述。OkCupid否认任何不当行为，表示不涉及金钱处罚，该指控不反映公司当前的数据实践，已进一步加强了隐私保护和数据治理措施。",
+              "source_url": "https://www.engadget.com/cybersecurity/okcupid-settles-ftc-case-on-alleged-misuse-of-its-users-personal-data-175159228.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T01:52:00+08:00"
+            },
+            {
+              "title": "50 years of Apple pushing tech forward, for better or worse",
+              "brief": "Engadget回顾了苹果成立50年来在淘汰旧技术方面的标志性决策。1998年iMac G3取消软驱全面转向USB和互联网；2007年iPhone取代iPod成为主力音乐设备，苹果逐步停产了整个iPod产品线至2022年；同年iPhone的触摸屏键盘淘汰了物理键盘，为软件键盘的多语言支持和表情符号输入打开了大门；2008年MacBook Air取消内置光驱，推动超薄笔记本电脑时代的到来。文章认为苹果在大多数情况下正确预见了技术发展方向，提前推动了本将不可避免的转型。这些变革虽然在短期内给部分用户带来不便，但时间证明了苹果的判断基本正确。文章以亚瑟奎勒库奇的名言收尾：谋杀你的宠儿。",
+              "source_url": "https://www.engadget.com/big-tech/50-years-of-apple-pushing-tech-forward-for-better-or-worse-170025862.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T01:00:00+08:00"
+            },
+            {
+              "title": "Uber to acquire Berlin-based chauffeur hailing app to ramp up its luxury travel efforts",
+              "brief": "Uber宣布收购柏林创业公司Blacklane，以加速布局豪华出行市场。Blacklane成立于2011年，充当独立本地司机服务与寻求高端出行体验的旅客之间的中介平台，目前在全球60多个国家的至少500个城市提供服务。服务范围包括按需叫车、城际长途出行、带航班追踪的机场接送以及按小时预约。交易尚需监管部门批准，预计2026年底前完成。此次收购发生在Uber几周前推出仅限邀请的Uber Elite豪华出行服务之后。与此同时，另一家豪华出行平台Wheely本月也在美国市场以纽约为首发城市登场，市场竞争日趋激烈。",
+              "source_url": "https://www.engadget.com/transportation/uber-to-acquire-berlin-based-chauffeur-hailing-app-to-ramp-up-its-luxury-travel-efforts-163855603.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T00:38:00+08:00"
+            },
+            {
+              "title": "Microsoft's research assistant can now use multiple AI models simultaneously",
+              "brief": "微软为Microsoft 365 Copilot的Researcher研究工具推出了新功能，可同时调用OpenAI的ChatGPT和Anthropic的Claude两个AI模型来提升研究质量。新推出的Critique功能让GPT生成初始回答后由Claude进行精炼，形成反馈循环以提高事实准确性、分析广度和呈现质量，类似于学术和专业研究中的同行评审流程。微软称该升级在Deep Research准确性、完整性和客观性基准上得分高于Perplexity的最新深度研究模型。此外还提供了Model Council替代方案，用户可同时获得Anthropic和OpenAI的并排回答及对比报告。两项功能目前已在Microsoft 365 Copilot的Frontier早期访问计划中提供。",
+              "source_url": "https://www.engadget.com/ai/microsofts-research-assistant-can-now-use-multiple-ai-models-simultaneously-154558628.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-30T23:45:00+08:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "微软组建新团队开发原生Windows 11应用",
+              "brief": "微软正在组建一个新的工程团队，专注于开发100%原生的Windows应用。不过有消息称这一计划可能仅限于新的Windows 11应用，而非对现有应用的改造。这反映了微软在推动Windows应用生态向原生性能方向发展的战略调整。",
+              "source_url": "https://www.landiannews.com/archives/112397.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31 10:55:26+08:00"
+            },
+            {
+              "title": "萨姆奥尔特曼的世界基金会出售6,500万美元的WLD 该代币较峰值价格已跌去97%",
+              "brief": "OpenAI CEO萨姆奥尔特曼联合发起的WorldCoin项目的世界基金会，日前通过场外交易向四家交易对手出售了价值6500万美元的WLD代币，首批交易于3月20日完成，平均单价0.27美元。按此计算约售出2.39亿个WLD代币。受此利空消息影响，WLD一度跌至0.24美元，较2024年3月11.82美元的历史峰值已下跌97%。WorldCoin项目旨在通过虹膜识别确认用户真实人类身份，构建全球性的身份与金融网络以应对AI时代的身份验证难题。更严峻的是，占WLD总供应量52.5%的社区代币将于7月23日大规模解锁，届时可能引发更大的抛售压力。",
+              "source_url": "https://www.landiannews.com/archives/112396.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-30T11:39:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "苹果Apple Intelligence国行Beta版开始分批上线",
+              "brief": "苹果AI功能Apple Intelligence的国行Beta版本已开始在用户设备上分批出现。此前该功能因中国市场的合规审核而延迟推出，此次上线标志着苹果AI战略正式进入中国。首批体验的用户已可在设备设置中看到相关选项，但覆盖范围预计逐步扩大。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555794.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31 02:51:47+08:00"
+            },
+            {
+              "title": "腾讯国行Switch今日起逐步停运，e商店停止售卖",
+              "brief": "腾讯代理的国行Nintendo Switch从今日起开始逐步停运服务，电子商店已停止游戏销售。这意味着国行Switch用户将无法再购买新游戏，已有游戏的在线服务也将分阶段关闭。这一决定反映了任天堂对中国市场战略的调整，用户需关注后续的数据迁移和服务安排。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1555778.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31 00:26:58+08:00"
+            },
+            {
+              "title": "多数美国人将AI视为威胁，担忧就业和教育影响",
+              "brief": "最新调查显示，大多数美国民众将AI技术视为主要威胁，主要担忧集中在AI对就业市场的冲击和对教育体系的负面影响。受访者中超过半数认为AI将导致大量工作岗位消失，同时担心学生过度依赖AI工具削弱独立思考能力。这一情绪可能影响美国AI相关政策的制定方向。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555792.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31 02:50:23+08:00"
+            },
+            {
+              "title": "机器人在莫哈韦沙漠完成100兆瓦光伏设备安装",
+              "brief": "一台自主作业机器人在美国莫哈韦沙漠成功完成了100兆瓦规模的光伏面板安装工作。这是机器人在大型太阳能电站建设中的一次重要突破，展示了自动化技术在可再生能源领域的应用潜力。该技术有望降低太阳能电站的建设成本和工期。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555790.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31 02:48:49+08:00"
+            },
+            {
+              "title": "力箭二号火箭首飞成功，成本逼近SpaceX",
+              "brief": "中国力箭二号运载火箭完成首次飞行任务并取得成功，标志着中国商业航天在降本增效方面取得重要进展。据分析该火箭的发射成本已接近SpaceX猎鹰9号的水平，显示中国民营航天企业正在快速追赶国际领先水平。此次发射成功将推动中国低轨卫星组网建设。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1555780.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31 00:27:33+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "工业富联完成5亿元股份回购并拟注销",
+              "brief": "工业富联宣布已完成5亿元的股份回购计划，并拟将回购股份全部注销。这一操作将减少公司总股本，在一定程度上提升每股收益水平。作为苹果等科技巨头的重要代工合作伙伴，工业富联此举体现了对自身长期发展前景的信心。",
+              "source_url": "https://36kr.com/newsflashes/3745358247412224",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 03:35:25+08:00"
+            },
+            {
+              "title": "Mistral融资8.3亿美元在欧洲建设AI数据中心",
+              "brief": "法国AI初创公司Mistral完成8.3亿美元融资，计划在欧洲建设由英伟达芯片驱动的AI数据中心。这笔融资将帮助Mistral在与OpenAI和谷歌等巨头的竞争中加强算力基础设施。Mistral作为欧洲本土AI领军企业，此举也体现了欧盟发展自主AI能力的战略意图。",
+              "source_url": "https://36kr.com/newsflashes/3745372464497158",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 03:49:53+08:00"
+            },
+            {
+              "title": "天数智芯2025年营收10.34亿元，同比增长91.6%",
+              "brief": "国产AI芯片公司天数智芯公布2025年全年业绩，实现营收10.34亿元，同比增长91.6%。这一增长反映了国产AI芯片在国内市场的强劲需求，尤其是在大模型训练和推理场景中。天数智芯已成为国内AI芯片领域的重要玩家，正加速追赶国际头部厂商。",
+              "source_url": "https://36kr.com/newsflashes/3745441341162248",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 04:59:57+08:00"
+            },
+            {
+              "title": "顺丰控股回购资金上限调至60亿元",
+              "brief": "顺丰控股将股份回购资金总额调整为不低于30亿元且不超过60亿元。作为中国快递物流行业的龙头企业，顺丰此举旨在稳定股价和提升投资者信心。回购资金规模的上调显示公司对现金流状况和业务前景的乐观预期。",
+              "source_url": "https://36kr.com/newsflashes/3745389728530950",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 04:07:27+08:00"
+            },
+            {
+              "title": "美的集团拟65亿至130亿元回购A股股份",
+              "brief": "美的集团宣布计划以65亿元至130亿元的总金额回购A股股份。此次大规模回购彰显了管理层对公司未来发展的信心，也被视为在当前市场环境下向投资者传递积极信号的举措。回购完成后股份将予以注销，有助于提升每股收益和股东价值。",
+              "source_url": "https://36kr.com/newsflashes/3745402673316613",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 04:20:37+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "联想天禧AI Claw内测启动，可免费使用云端大模型",
+              "brief": "联想天禧AI Claw智能设备内测正式启动，内测期间用户可免费使用云端超大模型服务。这款产品整合了联想的AI能力，支持多种智能办公和生活场景。内测阶段将收集用户反馈以优化产品体验，正式版预计在内测结束后推出。",
+              "source_url": "https://www.ithome.com/0/934/267.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30 23:03:41+08:00"
+            },
+            {
+              "title": "奇瑞QQ3 EV上市订单达56879台，5.89万元起",
+              "brief": "奇瑞QQ3 EV纯电小车正式上市，限时起售价5.89万元，上市后迅速获得超过5.6万台订单。这款微型电动车瞄准城市代步市场，凭借亲民价格和小巧车身吸引了大量首次购车用户。其热销反映了国内新能源汽车市场对低价位纯电车型的旺盛需求。",
+              "source_url": "https://www.ithome.com/0/934/269.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30 23:14:40+08:00"
+            },
+            {
+              "title": "OPPO Pad 5 Pro平板现身官网，搭载骁龙8至尊版",
+              "brief": "OPPO Pad 5 Pro平板已在官网亮相，据消息人士透露该机将搭载第五代骁龙8至尊版处理器。这是OPPO在高端平板市场的最新力作，预计将与iPad Pro和三星Galaxy Tab S11系列展开竞争。具体售价和上市日期尚未公布。",
+              "source_url": "https://www.ithome.com/0/934/271.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30 23:38:53+08:00"
+            },
+            {
+              "title": "凌晨惊喜：Apple Intelligence国行Beta版分批上线",
+              "brief": "苹果Apple Intelligence国行Beta版本于今日凌晨开始分批向用户推送。首批收到更新的用户已在设备设置中看到AI功能选项，包括智能写作、图像生成等功能。这是苹果AI功能在经历中国合规审核后首次正式向国内用户开放，预计将逐步扩大覆盖范围。",
+              "source_url": "https://www.ithome.com/0/934/276.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-31 03:20:08+08:00"
+            },
+            {
+              "title": "苹果影像新传感器基本确定1/1.12英寸，超广角或升级OIS",
+              "brief": "据供应链消息，苹果正在测试的新影像传感器基本确定为1/1.12英寸大底方案，这将显著提升iPhone的暗光拍摄能力。同时超广角镜头也在考虑增强OIS光学防抖性能。这些升级预计将在iPhone 18 Pro系列中应用，进一步巩固苹果在移动影像领域的领先地位。",
+              "source_url": "https://www.ithome.com/0/934/270.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30 23:22:37+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon's Big Spring Sale",
+              "brief": "Aqara U400智能门锁在亚马逊大春季促销中迎来首次降价，从269.99美元降至229.49美元。作为首款支持超宽带技术的Apple Home Key智能锁，U400集成了苹果U1超宽带芯片，用户靠近门锁时即可实现免提解锁，无需掏出手机。除Home Key外，该锁还支持触摸屏密码、指纹识别和传统钥匙等多种开锁方式。这是一款基于Matter-over-Thread协议的智能锁，兼容多种智能家居生态系统，但需要Thread边界路由器支持。The Verge评测编辑Jennifer Pattison Tuohy表示，这是她体验过的最可靠的免提解锁方案。Aqara U400被认为是iPhone用户最值得考虑的智能门锁之一。",
+              "source_url": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T15:47:46-04:00"
+            },
+            {
+              "title": "A new RCS update could connect iPhone and Android video calls, someday",
+              "brief": "全球移动通信系统协会GSMA宣布，已正式敲定的RCS Universal Profile 4.0标准将引入消息发起视频通话功能，允许用户在一对一或群组RCS聊天中直接发起视频通话。该功能支持通话中途加入和通话记录同步到聊天时间线。一旦全面部署，RCS将首次在原生消息应用层面实现跨品牌、跨网络的统一视频通话能力。不过苹果和谷歌目前尚未宣布支持该功能，用户何时能在iMessage和Android Messages之间直接发起跨平台视频通话仍不确定。新标准还增加了文本格式化支持和更高质量的多媒体传输能力。在此之前，用户仍需依赖FaceTime、Meet、Zoom等独立应用进行跨平台视频沟通。",
+              "source_url": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T13:19:31-04:00"
+            },
+            {
+              "title": "Dyson's ultra-thin PencilVac Fluffycones is tougher to resist at $150 off",
+              "brief": "戴森PencilVac Fluffycones超薄手持吸尘器在亚马逊大春季促销中降至449.99美元，较原价优惠150美元，创下历史新低。这款吸尘器直径与戴森吹风机相当，重量不足四磅，设计极为轻薄，能够深入机器人吸尘器和其他手持吸尘器难以触及的角落和边缘。内置绿色LED灯可照亮地面便于发现灰尘，四个锥形滚刷设计可有效吸取长发而不缠绕。该产品并非设计用于大面积清洁或地毯吸尘，55空气瓦的吸力也明显弱于戴森入门级无线吸尘器V8。电池续航约20至30分钟，更适合作为机器人吸尘器的补充工具进行快速清洁。The Verge评测称其为过度工程化但令人愉悦的不必要好物。",
+              "source_url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T12:27:31-04:00"
+            },
+            {
+              "title": "A new manufacturing process uses lasers to seal paper packaging instead of glue",
+              "brief": "德国四家弗劳恩霍夫研究所的研究人员开发了一种名为Papure的新型纸包装密封工艺，利用一氧化碳激光器代替胶水或塑料实现纸张密封。该工艺首先通过扫描电子显微镜和X射线光电子能谱分析纸张的化学成分，确认其是否适合无添加物密封。然后用CO激光快速加热纸张表面，将木质素、半纤维素和纤维素转化为短链化合物，生成类似天然胶水的可熔裂解产物。测试显示，仅3毫米宽、2厘米长的密封带可承受44磅的载荷。研究人员已建造了实验室规模的模块化纸张加工装置，目标是在今年九月底前实现每分钟10个包装的中试生产能力。该技术有望大幅提高纸包装的可回收性。",
+              "source_url": "https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T12:01:01-04:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "'It Does Seem Like It Would Make a Great Movie': Mario Galaxy Star Charlie Day Keen for Luigi's Mansion Spinoff",
+              "brief": "超级马里奥大电影中路易吉的配音演员Charlie Day表示，他对拍摄路易吉鬼屋题材的衍生电影充满热情。在超级马里奥银河大电影即将上映之际，Day在接受采访时表示路易吉鬼屋非常适合改编成电影，可以加入更多适合儿童观看的惊吓元素。此前马里奥配音演员Chris Pratt也曾透露好莱坞有过关于路易吉鬼屋电影的讨论。随着任天堂在大银幕上不断扩大其角色宇宙，引入了银河公主罗莎琳娜、星际火狐、皮克敏等角色，粉丝期待衍生作品也在情理之中。另一个可能的衍生方向是大金刚独立电影，此前已发现相关商标注册。超级马里奥银河大电影将于4月1日在全球影院上映。",
+              "source_url": "https://www.ign.com/articles/it-does-seem-like-it-would-make-a-great-movie-mario-galaxy-star-charlie-day-keen-for-luigis-mansion-spinoff",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T00:28:00+08:00"
+            },
+            {
+              "title": "Nightholme, a New 3-Player Horror Game, Shows Off 9 Minutes of Narrated Gameplay",
+              "brief": "Nightholme是一款由刺客信条系列前创意总监Alex Amancio打造的三人合作恐怖狩猎游戏，提供了9分钟的解说式实机演示。玩家将扮演Grimrunner角色，在一个被腐化的开放世界中行动，最多12名玩家同时参与同一场次。游戏开始时玩家需要饮用Nocturn药剂来决定本轮的变形形态，可选择猎杀Gloomfiend首领获取Terror Seed，完成任务，或干扰其他玩家夺取其战利品。游戏提供潜行和战斗双重玩法路线，核心体验围绕多人恐怖狩猎展开。Nightholme目前正在PC平台开发中，Steam愿望单已开放，计划今年夏天启动封闭测试。",
+              "source_url": "https://www.ign.com/articles/nightholme-narrated-gameplay-3-player-horror-game",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T00:00:00+08:00"
+            },
+            {
+              "title": "The Well Is Not Empty, a New Retro-3D Horror Game, Announced for PC",
+              "brief": "The Well Is Not Empty是一款由tweakEra开发的第一人称复古风格心理恐怖游戏，采用刻意模仿PS1时代画风的视觉设计。玩家将探索一个缺水村庄下方的黑暗废弃地下结构，调查井底发生的异常事件，发现隐藏秘密并努力生存。游戏中需要启动腐朽的机械装置来照亮黑暗，使用生锈的勺子挖掘隧道，穿行于废弃通道。开发者表示希望玩家在享受精彩冒险的同时始终感受到恐惧和绝望的情绪，将其形容为温馨式恐怖体验。该作已登陆Steam平台开放愿望单，计划近期发售。",
+              "source_url": "https://www.ign.com/articles/the-well-is-not-empty-a-new-retro-3d-horror-game-announced-for-pc",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T00:00:00+08:00"
+            },
+            {
+              "title": "Arc Raiders Flashpoint Update Breakdown Includes First Look at New Enemy and Map Condition",
+              "brief": "Embark Studios公布了Arc Raiders Flashpoint更新的详细内容，包括新敌人Vaporizer Arc单位的首次亮相。Vaporizer是一种使用激光攻击的无人机型敌人，喜欢成群行动。更新还引入了新的Close Scrutiny地图条件，玩家可争夺重兵把守的Arc Assessor掉落的稀有组件。武器方面新增Dolabra能量霰弹枪和Canto冲锋枪，以及可在周围区域周期性通电提供保护的Surge Coil部署装置。Flashpoint是Arc Raiders四部大型扩展中的第三部，将于3月31日上线PC、PS5和Xbox Series X/S平台。最终章Riven Tides预计四月发布，将带来新地图和大型Arc威胁。",
+              "source_url": "https://www.ign.com/articles/arc-raiders-flashpoint-update-breakdown-includes-first-look-at-new-enemy-and-map-condition",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T23:59:00+08:00"
+            },
+            {
+              "title": "'Nintendo Is Absolutely Furious': Former Employee Says Mario, Zelda Developer in 'Uncharted Territory' Following Major Leaks",
+              "brief": "任天堂前员工Kit Ellis表示，公司对上周的严重泄露事件绝对愤怒，这些泄露详细披露了2026年和2027年的Switch 2游戏发布计划。知名爆料人Natethehate几乎完整公开了任天堂未来12个月以上的发行时间表，包括塞尔达传说：时之笛重制版将于圣诞季推出、Star Fox新作和Switch Sports新作将于今夏发布，以及备受期待的新3D马里奥平台游戏将推迟至2027年。Ellis指出这对依赖惊喜营销的任天堂是重大打击，这种全面泄露是前所未见的局面。此前任天堂虽经历过多次泄露，但从未如此系统性地被曝光完整的发行计划。任天堂目前尚未就此发表评论，据报道不计划在六月Nintendo Direct之前举办大型发布会。",
+              "source_url": "https://www.ign.com/articles/nintendo-is-absolutely-furious-former-employee-says-mario-zelda-developer-in-uncharted-territory-following-major-leaks",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T23:29:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "木星闪电释放的能量相当于原子弹爆炸",
+              "brief": "科学家利用NASA朱诺号探测器的仪器测量了木星上的闪电，发现其释放的能量是地球闪电的100到10000倍。地球闪电一次释放约10亿焦耳能量，而木星最强闪电释放约10万亿焦耳，相当于2400吨TNT炸药，约为广岛原子弹威力的六分之一。根据朱诺号对木星风暴中闪电频率的研究，平均每秒出现三次闪电，这意味着风暴每分钟释放的能量相当于多颗原子弹爆炸。闪电被认为在地球生命演化过程中发挥了重要作用，木星上的闪电同样可能促进复杂的化学反应过程，为这颗气态巨行星大气层中的化学多样性提供驱动力。",
+              "source_url": "https://www.solidot.org/story?sid=83917",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T04:05:00+08:00"
+            },
+            {
+              "title": "蜜蜂和蜂鸟在工作期间吸入了微量的酒",
+              "brief": "加州伯克利大学的研究人员发现蜜蜂和蜂鸟在采蜜过程中会摄入微量酒精。花蜜中含有微量乙醇相当普遍，在分析的29种植物花蜜样本中有26种检测到了乙醇。大多数样本浓度极低，但有一个样本达到0.056%。虽然听起来微不足道，但相比授粉昆虫的体重，它们每天摄入的酒精量并不小。一只安氏蜂鸟每天饮入相当于自身体重0.5到1.5倍的花蜜，估计每天每公斤体重大约摄入0.2克乙醇。不过由于它们持续在花朵间穿梭，酒精会被迅速代谢掉，不太可能醉酒。实验室测试显示蜂鸟乐意饮用酒精含量约1%的花蜜，但浓度达到2%时访问次数会急剧下降。",
+              "source_url": "https://www.solidot.org/story?sid=83916",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T02:44:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "发现频道：最近10日的热门排行榜[2026年第13期]",
+              "brief": "小众软件论坛发布2026年第13期发现频道近10日热门排行榜。排名首位的是ccg-gateway，这是一个支持Claude Code、Codex和Gemini的智能网关及效率工具。排名第二的是PaperBanana，一款AI科研绘图工具。该排行榜由系统自动生成，数据来源于小众软件论坛发现频道的用户互动热度。小众软件论坛发现频道是中文互联网上为数不多的坚持分享优质小众软件和工具的社区平台，每周定期发布热门排行榜帮助用户发现有价值的新工具。",
+              "source_url": "https://www.appinn.com/faxian-top10-2613/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-30T17:00:00+08:00"
+            },
+            {
+              "title": "复活节福利来了！VideoProc狂欢开启：21款软件免费送，总价值$1118！",
+              "brief": "VideoProc推出复活节限时促销活动，旗下AI多媒体增强软件VideoProc Converter AI v7.7限时免费领取正版激活码，支持Windows和Mac平台，仅需输入邮箱即可获取。该软件提供AI视频修复、超分辨率放大、视频压缩、屏幕录制和多媒体下载等功能。同时推出买一送四活动，终身版售价低至37.95美元，附赠系统优化、PDF处理、照片修复等四款工具。此外还联合多家厂商推出21款实用软件限时免费赠送，包括AI图像抠图、系统清理、PDF编辑、远程控制等工具，每日可领取一款，所有赠品均为正版授权。活动总价值超过1118美元。",
+              "source_url": "https://www.appinn.com/videoproc-26-easter/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-27T18:50:00+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
