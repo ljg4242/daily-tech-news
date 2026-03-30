@@ -124,6 +124,166 @@
               "published_at": "2026-03-29T23:50:00+00:00"
             }
           ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "杜比起诉SnapChat侵犯AV1编解码器专利，开源免版税承诺面临质疑",
+              "brief": "杜比实验室本周对Snap提起诉讼，指控其侵犯与AV1视频编解码器相关的专利。AV1由包括亚马逊、苹果、谷歌、微软、Mozilla和Netflix在内的开放媒体联盟开发，标榜为开放且免版税的视频编解码器替代方案。然而杜比的诉讼对这一承诺提出了挑战。目前美国针对HEVC/H.265编解码器已有大量专利诉讼，诺基亚和InterDigital等专利持有者向硬件厂商和流媒体服务商追讨许可费用，但针对AV1的诉讼较为罕见。杜比声称Snap在 Snapchat应用中使用的AV1实现侵犯了其专利。",
+              "source_url": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-28T04:31:00+08:00"
+            },
+            {
+              "title": "法官裁定特朗普与赫格塞思无权将Anthropic列入黑名单",
+              "brief": "美国联邦法官Rita Lin批准了Anthropic的初步禁令请求，裁定国防部长赫格塞思和特朗普政府无权将Anthropic列为供应链风险并实施黑名单措施。法官在命令中描述此举为典型的第一修正案报复行为，认为国防部将Anthropic列为风险的原因是其通过媒体公开质疑政府合同做法的所谓敌对态度，而非基于实际的国家安全威胁证据。官员们在未考虑限制性更小的替代方案或提供紧急安全风险证据的情况下采取了极端行动。该裁定要求政府停止对Anthropic的黑名单惩罚措施。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-28T03:49:00+08:00"
+            },
+            {
+              "title": "索尼再次上调PS5价格，涨幅达100至150美元",
+              "brief": "索尼宣布在美国再次上调PlayStation 5各型号价格，距离上次涨价仅八个月。数字版从500美元涨至600美元，光驱版从550美元涨至650美元，PS5 Pro从750美元大幅涨至900美元。而2025年初这三款机型分别售价450、500和700美元。索尼将涨价归因于存储芯片短缺导致内存和存储成本上升，这一问题自去年底开始影响PC组件并逐步蔓延至各类消费电子产品。此前索尼、微软和任天堂在2025年均因特朗普政府的进口关税和组件短缺宣布过涨价。",
+              "source_url": "https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-28T03:57:00+08:00"
+            },
+            {
+              "title": "OpenAI为Codex新增插件功能，拓展纯编程之外的用途",
+              "brief": "OpenAI为其AI编程工具Codex添加了插件支持功能，旨在缩小与Anthropic Claude Code和谷歌Gemini CLI在功能上的差距。插件包可包含技能提示、应用集成和MCP服务器配置，使用户能够针对特定任务配置Codex，实现组织内跨用户的复用。虽然高级用户此前已能通过自定义指令和MCP服务器实现类似功能，但新插件系统提供了一键安装体验，降低使用门槛。Codex应用现已新增可搜索的插件库板块。",
+              "source_url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-28T05:53:00+08:00"
+            },
+            {
+              "title": "美国司法部确认FBI局长帕特尔个人邮箱遭伊朗关联黑客入侵",
+              "brief": "美国司法部向路透社确认，FBI局长Kash Patel的个人电子邮箱遭到与伊朗有关的黑客组织Handala Hack Team入侵。该黑客组织在其网站上宣称帕特尔现在已成为成功入侵受害者名单中的一员，并嘲讽FBI的安全防护不过是个笑话。黑客分享了帕特尔2010至2019年间的多份文件和照片。Handala组织声称此次攻击是对帕特尔此前誓言要追捕他们的报复行动。路透社无法独立验证泄露邮件的真实性，但司法部表示这些邮件似乎确系真实。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-03-28T00:24:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "谷歌地图为Android Auto新增AI电动车行程规划功能",
+              "brief": "谷歌本周起为Android Auto上的谷歌地图推出AI驱动的电动车电池预测功能，覆盖16个主要汽车品牌的数十万辆电动车。该系统结合谷歌能源模型与实时路况、道路海拔和天气数据，提供更精确的续航估算。用户在谷歌地图中添加车辆品牌和型号后，设置目的地即可查看预计耗电量，输入当前电量后应用会沿途推荐充电站点，并估算到达时剩余电量和包含充电时间的预计到达时间。该功能需要谷歌地图25.44及以上版本。",
+              "source_url": "https://www.androidauthority.com/google-maps-android-auto-ev-trip-planning-3653027/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T23:30:57+08:00"
+            },
+            {
+              "title": "Pixel 11早期渲染图曝光：边框收窄，摄像头模组重新设计",
+              "brief": "基于CAD设计数据的早期谷歌Pixel 11渲染图由Android Headlines制作曝光，展示了谷歌下一代旗舰手机的设计方向。渲染图显示Pixel 11在屏幕边框方面有所缩减，同时摄像头横条模组进行了重新设计。谷歌预计将在今年夏季发布Pixel 11系列。该渲染图基于硬件详细测量数据制作，虽然并非官方发布，但通常能较为准确地反映最终产品外观。此前三星Galaxy Z Fold 8 Wide的类似CAD渲染图也已被公开。",
+              "source_url": "https://www.androidauthority.com/pixel-11-renders-3653150/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T22:45:47+08:00"
+            },
+            {
+              "title": "谷歌钱包App测试全新彩色卡片界面 redesign",
+              "brief": "谷歌正在扩展Google Wallet应用的界面重新设计测试，最新发现的证据显示单张卡券页面将采用全新彩色界面。在新版设计中，打开每张卡券即可在首页看到更多详细信息，包括ID名称、编号、添加日期和相关设置的快捷入口，而当前界面需要点击右上角三点菜单才能访问这些信息。谷歌自今年一月以来一直在测试Wallet应用的网格布局替代现有列表设计，目前新界面尚未面向广大用户推出。",
+              "source_url": "https://www.androidauthority.com/google-wallet-pass-redesign-3653076/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T19:43:20+08:00"
+            },
+            {
+              "title": "三星开始向Galaxy Z Fold 6和Z Flip 6推送One UI 8.5 Beta",
+              "brief": "三星开始向Galaxy Z Fold 6和Galaxy Z Flip 6推送One UI 8.5首个Beta版本，更新范围涵盖韩国和印度市场，标志着全球发布的开始。One UI 8.5稳定版已随Galaxy S26系列、Galaxy A37和A57等新机一同发布，三星目前继续为旧设备进行Beta测试。此前Galaxy S25系列已推送至第八个Beta版本，三星还承诺Galaxy S24也将获得One UI 8.5 Beta。",
+              "source_url": "https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-8-5-beta-2-3653049/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T17:54:59+08:00"
+            },
+            {
+              "title": "分析：安卓诈骗应用的主要源头并非侧载而是Google Play商店",
+              "brief": "原文抓取失败，基于RSS标题编写。Android Authority发布分析文章指出，如果谷歌认真对待安卓平台上的诈骗问题，需要关注比侧载更大的隐患。文章分析了Google Play商店内部存在的诈骗应用问题，认为官方商店的诈骗应用数量和危害实际上可能超过侧载渠道，对谷歌将安全问题归咎于侧载的说法提出质疑。该文章引发了对安卓生态安全治理方向的讨论。",
+              "source_url": "https://www.androidauthority.com/play-store-more-scams-than-sideloading-3652203/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-30T17:00:40+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "微软Copilot Researcher新增多模型协作功能，结合GPT和Claude提升研究质量",
+              "brief": "微软在Copilot Cowork发布公告中推出了名为Critique的新功能，应用于Microsoft 365 Copilot的Researcher工具。该功能采用多模型协作架构，先由OpenAI GPT生成初步回答，再由Anthropic Claude进行优化和改进，形成强大的反馈循环。微软称这种架构在事实准确性、分析广度和呈现质量方面都能提供更高质量的结果。Researcher工具专为需要多步骤的复杂研究任务设计，微软声称其升级后在自动化研究评估中的得分有所提升。",
+              "source_url": "https://www.engadget.com/ai/microsofts-research-assistant-can-now-use-multiple-ai-models-simultaneously-154558628.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-30T23:45:58+08:00"
+            },
+            {
+              "title": "微软确认今年Xbox Games Showcase将于6月7日举行",
+              "brief": "微软正式确认2026年Xbox Games Showcase将于6月7日美国东部时间下午1点举行，恰逢Summer Game Fest周末。展示结束后将紧接着播出Gears of War: E-Day的深度介绍直播。活动将通过YouTube、Twitch和Facebook等平台以超过40种语言进行直播，包括美国和英国手语，并提供英语音频描述。这将是Asha Sharma领导微软游戏部门以来的首个Xbox Games Showcase，届时可能会公布下一代Xbox主机Project Helix的更多细节。",
+              "source_url": "https://www.engadget.com/gaming/xbox/this-years-xbox-games-showcase-is-set-for-june-7-134942027.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-30T21:49:42+08:00"
+            },
+            {
+              "title": "Bluesky推出AI助手Attie，帮助用户用自然语言构建自定义社交信息流",
+              "brief": "Bluesky首席创新官Jay Graber及其Exploration团队推出了一款名为Attie的AI助手，帮助用户创建自定义社交信息流。Attie基于Bluesky的AT Protocol开源框架构建，用户可通过自然语言提示词生成信息流，无需编程知识。例如用户可以输入显示电子音乐或代理基础设施相关帖子的请求。Graber将Attie描述为代理式社交应用，表示使用体验更像对话而非配置软件。Attie网站已上线，用户可试用该功能。",
+              "source_url": "https://www.engadget.com/ai/blueskys-next-product-is-an-ai-assistant-that-helps-build-custom-social-media-feeds-163140902.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-30T00:31:40+08:00"
+            },
+            {
+              "title": "奥地利计划推行14岁以下儿童社交媒体禁令",
+              "brief": "奥地利政府宣布将推出针对未成年人的社交媒体保护措施，其中包括禁止14岁以下儿童使用社交媒体的法规。奥地利副总理Andreas Babler表示，政府将于6月底前正式提交法案，措施涵盖新的年龄限制、提升媒体素养以及为社交平台制定明确规则。奥地利此次的限制年龄比澳大利亚的16岁以下禁令更为宽松，但比其他欧洲国家更为严格。西班牙和英国等国也在考虑类似禁令。奥地利政府未详细说明具体执行规则。",
+              "source_url": "https://www.engadget.com/social-media/austria-is-pursuing-a-social-media-ban-for-kids-under-14-190755295.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-29T03:07:55+08:00"
+            },
+            {
+              "title": "报道称Meta下一代AI眼镜将专为近视用户设计处方镜片版本",
+              "brief": "据Bloomberg报道，Meta和Ray-Ban即将推出两款专为处方镜片用户设计的AI智能眼镜，分别为矩形和圆形款式，将通过传统处方眼镜渠道销售。这两款并非Meta Ray-Ban AI眼镜的新一代产品，而是针对戴眼镜人群的专项版本。产品预计下周公布，可能是此前在FCC文件中被发现的代号Scriber和Blazer的产品，文件描述其为生产设备，意味着即将进入市场。用户目前已可为现有Meta Ray-Ban眼镜添加处方镜片，但这是首次推出专门为此设计的型号。",
+              "source_url": "https://www.engadget.com/wearables/metas-next-ai-glasses-are-reportedly-designed-with-prescription-lenses-in-mind-162730768.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-29T00:27:30+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "Pixel 11最新泄露图显示更窄边框和全黑摄像头模组设计",
+              "brief": "由Android Headlines分享的Pixel 11泄露渲染图展示了谷歌下一代旗舰手机的设计变化，包括更窄的屏幕边框和全黑色的后置摄像头模组。谷歌预计将在今年夏季正式发布Pixel 11系列。渲染图基于硬件尺寸数据制作，虽然并非官方确认，但能够较为准确地反映产品最终外观设计方向。",
+              "source_url": "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T23:52:41+08:00"
+            },
+            {
+              "title": "微软宣布Xbox Games Showcase将于6月7日举行",
+              "brief": "微软确认2026年Xbox Games Showcase将于6月7日在线直播，活动结束后将紧接着播出Gears of War: E-Day的深度介绍。这是Xbox每年最重要的展示活动，也是Asha Sharma接管微软游戏部门后的首次 showcase。活动将在YouTube、Twitch和Facebook等平台进行超过40种语言的全球直播。",
+              "source_url": "https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T21:18:57+08:00"
+            },
+            {
+              "title": "vivo X300 Ultra在中国发布，主打专业影像拍摄",
+              "brief": "vivo今日在中国正式发布X300 Ultra旗舰手机，定位专业摄影。该机搭载强大的影像系统，配备专业级摄像头配置，支持多种专业拍摄模式。作为vivo的年度影像旗舰，X300 Ultra在视频拍摄和照片画质方面均有显著提升。该机已在中国市场开售，vivo将其描述为专为追求专业摄影体验的用户打造的旗舰产品。",
+              "source_url": "https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T20:30:00+08:00"
+            },
+            {
+              "title": "Okta CEO：AI代理身份认证是安全领域的下一个前沿",
+              "brief": "Okta联合创始人兼CEOTodd McKinnon在Decoder播客节目中讨论了AI代理身份认证作为安全领域下一个前沿的重要性。McKinnon认为随着AI代理在企业中越来越多地执行任务，这些代理需要类似人类的身份认证机制来确保安全性。他还谈到了在OpenClaw等AI代理工具普及时代下企业安全面临的挑战，以及为应对SaaS行业变革所做的准备，强调保持警惕态度的必要性。",
+              "source_url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T23:15:00+08:00"
+            },
+            {
+              "title": "回顾QuickTime的诞生：苹果如何改变多媒体计算的格局",
+              "brief": "The Verge发布专题文章回顾苹果QuickTime的发明历史。1991年苹果推出QuickTime，这是个人电脑上首个广泛使用的多媒体框架，彻底改变了计算机处理视频和音频的方式。文章详细讲述了QuickTime从概念到实现的开发过程，以及它如何为后续的多媒体技术发展奠定基础。QuickTime的出现使得在个人电脑上播放视频成为可能，开创了多媒体计算的新纪元。",
+              "source_url": "https://www.theverge.com/tech/902721/quicktime-history-apple",
+              "source_name": "The Verge",
+              "published_at": "2026-03-30T21:05:17+08:00"
+            }
+          ]
         }
       ]
     },
@@ -207,6 +367,206 @@
               "source_url": "https://www.landiannews.com/archives/112401.html",
               "source_name": "蓝点网",
               "published_at": "2026-03-30T08:30:32+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "Xbox Games Showcase定档6月，战争机器E-Day将成为年度主打标题并举办独立直面会",
+              "brief": "微软正式宣布Xbox Games Showcase将于6月举行，并确认战争机器新作Gears of War: E-Day将成为今年展示会的标题作品，随后将举办独立的Gears of War: E-Day Direct直面会，提供更深入的游戏介绍。这将是Xbox今年最重要的游戏展示活动。",
+              "source_url": "https://www.ign.com/articles/xbox-games-showcase-announced-for-june-gears-of-war-e-day-this-years-headline-title-getting-dedicated-direct",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T21:08:04+08:00"
+            },
+            {
+              "title": "Crimson Desert热修复补丁让游戏变得太简单，玩家要求增加困难难度",
+              "brief": "原文抓取失败，基于RSS标题编写。Crimson Desert的最新补丁获得了玩家好评，但部分玩家反馈游戏难度因此降低，认为修复使游戏变得过于简单。这些玩家正在社区中呼吁开发团队增加高难度模式，以提供更具挑战性的游戏体验。Crimson Desert是一款备受期待的开放世界动作冒险游戏。",
+              "source_url": "https://www.ign.com/articles/crimson-desert-patches-are-delighting-fans-but-some-say-theyre-making-the-game-too-easy-and-now-want-a-hard-difficulty-mode",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T22:00:58+08:00"
+            },
+            {
+              "title": "Epic Games裁员事件升级：被裁员工含晚期癌症患者将失去人寿保险",
+              "brief": "原文抓取失败，基于RSS标题编写。Epic Games首席执行官Tim Sweeney对Fortnite裁员事件作出回应。据报道，被裁员工中包括一名患有晚期癌症的员工，该员工将因此失去人寿保险。此消息在游戏社区引发强烈反响和批评，要求Epic Games对此事给出合理解释和处理方案。",
+              "source_url": "https://www.ign.com/articles/epic-games-boss-tim-sweeny-responds-after-fortnite-layoffs-revealed-to-include-employee-with-terminal-cancer-who-will-lose-life-insurance",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T18:08:36+08:00"
+            },
+            {
+              "title": "索尼PlayStation Plus四月游戏再次泄露，另一款游戏似乎确认",
+              "brief": "原文抓取失败，基于RSS标题编写。PlayStation Plus四月免费游戏的阵容再次被泄露，继之前的消息后又有一款游戏标题似乎得到确认。索尼每月公布的PS Plus免费游戏阵容通常会在正式公布前被提前泄露，此次泄露的来源和真实性尚待索尼官方确认。",
+              "source_url": "https://www.ign.com/articles/playstation-plus-games-for-april-leak-again-with-another-title-now-seemingly-confirmed",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T20:18:21+08:00"
+            },
+            {
+              "title": "上古卷轴：Blades手游将于6月30日正式关服",
+              "brief": "原文抓取失败，基于RSS标题编写。Bethesda宣布其移动端RPG游戏上古卷轴：Blades将于6月30日正式关闭服务器，停止运营。该游戏最初于2019年发布，曾在iOS和Android平台上线。此次关服决定意味着玩家将无法再访问游戏内容。此前已有多个大型手游宣布停止运营。",
+              "source_url": "https://www.ign.com/articles/the-elder-scrolls-blades-mobile-rpg-set-to-shut-down-for-good-in-june",
+              "source_name": "IGN",
+              "published_at": "2026-03-30T18:04:25+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "U盘闲置6年后数据还在吗？实测结果来了",
+              "brief": "小众软件发布了一项关于U盘长期数据保存能力的实测文章。作者对一枚闲置6年的U盘进行数据读取测试，验证长期不使用后存储在U盘中的数据是否仍然完好。测试结果对关心数据长期保存的用户具有实用参考价值，涉及闪存介质的电荷衰减等物理特性对数据完整性的影响。",
+              "source_url": "https://www.appinn.com/usb-flash-drive-data-retention-6-years/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-30T16:46:49+08:00"
+            },
+            {
+              "title": "98.5%的人不知道：SSH居然还有个隐藏菜单",
+              "brief": "原文抓取失败，基于RSS标题编写。小众软件介绍了SSH的一个鲜为人知的隐藏菜单功能。文章指出绝大多数用户并不了解SSH的这个实用功能，并通过实际操作演示了如何访问和使用该隐藏菜单。该功能可能包含诊断信息、调试选项或其他高级配置入口，对系统管理员和开发者具有实用价值。",
+              "source_url": "https://www.appinn.com/ssh-hidden-menu-most-people-dont-know/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-29T16:31:36+08:00"
+            },
+            {
+              "title": "iPhone已能替你干活：不打开App剪视频、分析健康数据、整理歌单等11个案例",
+              "brief": "原文抓取失败，基于RSS标题编写。小众软件介绍了iPhone自动化功能的11个实际使用案例，展示了用户无需打开对应App即可完成剪视频、分析健康数据、整理歌单等操作的方法。文章通过具体案例演示了iOS快捷指令和自动化功能的实用潜力，帮助用户提升日常使用效率。",
+              "source_url": "https://www.appinn.com/iphone-automation-11-real-use-cases/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-28T17:00:13+08:00"
+            },
+            {
+              "title": "Open Minis：可能是iOS端最强AI Agent",
+              "brief": "原文抓取失败，基于RSS标题编写。小众软件介绍了Open Minis这款iOS平台的AI代理应用，称其可能是iOS端功能最强大的AI代理工具。该应用支持多种AI模型的调用和自动化操作，用户可以在iPhone上通过自然语言指令完成复杂任务。",
+              "source_url": "https://www.appinn.com/open-minis/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-27T17:19:28+08:00"
+            },
+            {
+              "title": "GitHub Copilot政策变更：默认使用用户数据训练AI，但可手动关闭",
+              "brief": "原文抓取失败，基于RSS标题编写。小众软件报道了GitHub Copilot的数据使用政策变更，新政策默认使用用户交互数据来训练AI模型，但用户可以手动选择关闭此功能。文章提醒开发者关注自身代码数据的隐私安全，并提供了关闭数据训练的设置方法。",
+              "source_url": "https://www.appinn.com/updates-to-github-copilot-interaction-data-usage-policy/",
+              "source_name": "小众软件",
+              "published_at": "2026-03-26T10:55:59+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "亚马逊斥资40亿美元加速布局美国乡村次日达送货服务",
+              "brief": "亚马逊宣布投入40亿美元加强美国乡村地区的物流配送能力，目标是实现乡村地区的次日达服务。此举是亚马逊持续扩大配送网络覆盖范围的最新举措，旨在缩小城乡配送速度差距，提升乡村用户的购物体验。随着电商竞争加剧，物流配送能力已成为关键竞争优势。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555772.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-30T22:52:51+08:00"
+            },
+            {
+              "title": "ChatGPT应用商店起步遇冷：挑战苹果生态先解决这些问题",
+              "brief": "cnBeta报道分析OpenAI推出的ChatGPT应用商店目前起步阶段表现不佳的现状。文章指出ChatGPT应用商店要实现对标苹果App Store的雄心，需要先解决应用质量参差不齐、用户发现机制不完善、开发者生态建设不足等问题。AI应用商店模式能否成功仍存在诸多不确定性。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555768.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-30T22:48:30+08:00"
+            },
+            {
+              "title": "PS5 Pro涨价在即，国外出现玩家争相抢购局面",
+              "brief": "cnBeta报道随着索尼即将上调PS5 Pro价格的消息传出，海外市场已出现玩家争相抢购PS5 Pro的局面。此前Ars Technica报道称PS5 Pro将从750美元涨至900美元，涨幅达150美元。涨价消息推动消费者赶在新价格生效前购买，多地零售商库存出现紧张。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1555764.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-30T21:51:27+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro屏幕贴膜谍照曝光：灵动岛开孔明显收窄",
+              "brief": "cnBeta报道了疑似iPhone 18 Pro的屏幕贴膜谍照，显示灵动岛的开孔尺寸相比前代有明显收窄。这暗示苹果可能在iPhone 18 Pro上进一步缩小灵动岛面积，为用户带来更大的显示区域。不过贴膜谍照的参考价值有限，最终设计仍需以苹果官方发布为准。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555750.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-30T19:11:59+08:00"
+            },
+            {
+              "title": "FTC警告Visa和万事达等支付公司不得干预商业运营",
+              "brief": "cnBeta报道美国联邦贸易委员会向Visa、万事达等支付公司发出警告，要求其不得干预商户的商业运营决策。FTC此举旨在保护商户权益，防止支付巨头利用其市场地位对商户施加不当压力。该警告反映了监管机构对支付行业竞争秩序和商户自主权问题的持续关注。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1555770.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-30T22:49:18+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪快讯",
+          "articles": [
+            {
+              "title": "法国AI创企Mistral筹集8.3亿美元，将在欧洲建设英伟达芯片驱动的AI算力中心",
+              "brief": "36氪快讯报道法国人工智能公司Mistral已完成新一轮8.3亿美元融资，计划在欧洲建设由英伟达芯片驱动的AI计算中心。此举旨在加强欧洲本土AI基础设施能力，减少对美国AI算力的依赖。Mistral是欧洲最具代表性的AI模型公司之一，此次大规模融资和基建投资显示出欧洲AI产业的快速发展势头。",
+              "source_url": "https://36kr.com/newsflashes/3745372464497158?f=rss",
+              "source_name": "36氪快讯",
+              "published_at": "2026-03-30T19:49:53+08:00"
+            },
+            {
+              "title": "美的集团拟65亿至130亿元回购A股股份",
+              "brief": "36氪快讯报道美的集团宣布拟以65亿元至130亿元的资金规模回购公司A股股份。此次大规模回购显示了公司对自身价值的信心，也可能用于股权激励或注销以提升每股收益。美的集团是中国最大的家电制造商之一，近年来持续加大在机器人自动化和智能家居领域的投入。",
+              "source_url": "https://36kr.com/newsflashes/3745402673316613?f=rss",
+              "source_name": "36氪快讯",
+              "published_at": "2026-03-30T20:20:37+08:00"
+            },
+            {
+              "title": "天数智芯2025年营收10.34亿元，同比增长91.6%",
+              "brief": "36氪快讯报道国产AI芯片公司天数智芯公布2025年全年业绩，实现营收10.34亿元，同比增长91.6%。天数智芯是国内重要的GPU芯片设计公司，专注于通用计算GPU的研发和产业化。营收接近翻倍的增长反映了国产AI算力芯片市场需求的持续旺盛。",
+              "source_url": "https://36kr.com/newsflashes/3745441341162248?f=rss",
+              "source_name": "36氪快讯",
+              "published_at": "2026-03-30T20:59:57+08:00"
+            },
+            {
+              "title": "热门中概股美股盘前多数走强，爱奇艺涨超11%",
+              "brief": "36氪快讯报道热门中概股在美股盘前交易中多数走高，其中爱奇艺涨幅超过11%领涨中概股。美股大型科技股盘前也多数上涨，亚马逊涨超1%。市场情绪整体偏向乐观，中概股和科技股双双走强。",
+              "source_url": "https://36kr.com/newsflashes/3745429469872897?f=rss",
+              "source_name": "36氪快讯",
+              "published_at": "2026-03-30T20:47:52+08:00"
+            },
+            {
+              "title": "澜起科技2025年净利润22.36亿元，同比增长58.4%",
+              "brief": "36氪快讯报道澜起科技公布2025年度业绩，实现净利润22.36亿元，同比增长58.4%。澜起科技是内存接口芯片领域的龙头企业，受益于AI算力需求带动的服务器内存升级周期，业绩实现快速增长。公司产品包括DDR5内存接口芯片和PCIe Retimer等。",
+              "source_url": "https://36kr.com/newsflashes/3745353261482246?f=rss",
+              "source_name": "36氪快讯",
+              "published_at": "2026-03-30T19:30:21+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "曝苹果影像板块测试新传感器基本确定1/1.12英寸，超广角也在考虑升级OIS防抖",
+              "brief": "IT之家报道苹果正在影像板块测试新的传感器，基本确定为1/1.12英寸大底传感器。此外超广角镜头也在考虑升级OIS光学防抖功能。这些升级预计将用于未来的iPhone机型，有望显著提升iPhone的拍照和视频拍摄体验。苹果近年来持续在影像系统上加大投入，与竞争对手展开差异化竞争。",
+              "source_url": "https://www.ithome.com/0/934/270.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30T23:22:37+08:00"
+            },
+            {
+              "title": "OPPO Pad 5 Pro平板现身官网，消息称新机将搭载第五代骁龙8至尊版处理器",
+              "brief": "IT之家报道OPPO Pad 5 Pro平板电脑已出现在OPPO官网，消息称该平板将搭载高通第五代骁龙8至尊版处理器。作为OPPO的新一代旗舰平板产品，Pad 5 Pro在性能配置上全面升级，预计将在屏幕、续航和生产力功能方面也有显著提升。具体发布时间和完整配置参数有待官方正式公布。",
+              "source_url": "https://www.ithome.com/0/934/271.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30T23:38:53+08:00"
+            },
+            {
+              "title": "联想天禧AI Claw内测正式启动，期间可免费使用云端超大模型",
+              "brief": "IT之家报道联想天禧AI Claw内测正式启动，参与内测的用户可免费使用云端超大模型。AI Claw是联想推出的人工智能助手产品，此次内测旨在收集用户反馈以优化产品体验。联想近年来在AI PC和AI助手领域持续布局，AI Claw是其AI战略的重要组成部分。",
+              "source_url": "https://www.ithome.com/0/934/267.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30T23:03:41+08:00"
+            },
+            {
+              "title": "华为WATCH 5系列推送花粉Beta版更新，处理器型号公开",
+              "brief": "IT之家报道华为WATCH 5系列开始推送HarmonyOS 6.0.0.328花粉Beta版更新。此次更新值得关注的是，华为在更新日志中公开了WATCH 5系列搭载的处理器型号为Kirin W80。华为WATCH 5系列是华为最新一代智能手表产品，搭载自研芯片。",
+              "source_url": "https://www.ithome.com/0/934/264.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30T22:39:54+08:00"
+            },
+            {
+              "title": "消息称美光尝试垂直堆叠GDDR内存：在标准GDDR与HBM之间开辟新路",
+              "brief": "IT之家报道美光正在尝试垂直堆叠GDDR内存技术，试图在标准GDDR和HBM之间开辟一条新的产品路线。垂直堆叠技术有望在不采用HBM复杂封装的情况下大幅提升GDDR内存的带宽和容量。如果成功商业化，该技术将为中端GPU和AI加速器提供更具成本效益的高带宽内存解决方案。",
+              "source_url": "https://www.ithome.com/0/934/260.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-30T22:23:28+08:00"
             }
           ]
         }
