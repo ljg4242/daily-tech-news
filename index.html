@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>每日科技资讯</title>
+  <meta name="color-scheme" content="dark light" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&display=swap');
+
+    :root {
+      --bg: #f5f4ef;
+      --bg-elev: #ffffff;
+      --bg-panel: #eeece4;
+      --bg-muted: #e4e0d3;
+      --text: #171817;
+      --text-soft: #5e5d58;
+      --text-faint: #8b887f;
+      --line: #d6d1c2;
+      --accent: #275df5;
+      --accent-soft: rgba(39, 93, 245, 0.1);
+      --accent-strong: #1536c9;
+      --good: #0d8d66;
+      --shadow: 0 0 0 1px rgba(23, 24, 23, 0.04), 0 12px 28px rgba(17, 19, 22, 0.08);
+      --radius: 16px;
+      --radius-sm: 10px;
+      --content-width: 1560px;
+    }
+
+    :root[data-theme="dark"] {
+      --bg: #0b0d10;
+      --bg-elev: #12161b;
+      --bg-panel: #11151a;
+      --bg-muted: #171c22;
+      --text: #f2f5f7;
+      --text-soft: #acb7c2;
+      --text-faint: #72808c;
+      --line: #222931;
+      --accent: #86a8ff;
+      --accent-soft: rgba(134, 168, 255, 0.12);
+      --accent-strong: #bdd1ff;
+      --good: #6ae3b1;
+      --shadow: 0 0 0 1px rgba(255,255,255,0.03), 0 20px 40px rgba(0,0,0,0.26);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: 'JetBrains Mono', 'IBM Plex Mono', 'SFMono-Regular', 'Consolas', monospace;
+      background:
+        linear-gradient(to bottom, rgba(127,127,127,0.04), transparent 120px),
+        repeating-linear-gradient(to bottom, transparent 0 27px, rgba(127,127,127,0.04) 27px 28px),
+        var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    a { color: inherit; }
+    button, select, input { font: inherit; color: inherit; }
+
+    .shell {
+      width: min(calc(100vw - 24px), var(--content-width));
+      margin: 12px auto;
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
+      gap: 12px;
+      align-items: start;
+    }
+
+    .panel {
+      background: color-mix(in srgb, var(--bg-elev) 94%, transparent);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(8px);
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 12px;
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      max-height: calc(100vh - 24px);
+      overflow: auto;
+    }
+
+    .brand {
+      display: grid;
+      gap: 10px;
+    }
+
+    .eyebrow {
+      color: var(--good);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(26px, 3vw, 34px);
+      line-height: 1;
+      letter-spacing: -0.04em;
+      font-weight: 800;
+    }
+
+    .subtitle {
+      margin: 0;
+      color: var(--text-soft);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .controls,
+    .meta-grid,
+    .toc,
+    .source-filter-box {
+      border: 1px solid var(--line);
+      background: var(--bg-panel);
+      border-radius: 14px;
+      padding: 12px;
+    }
+
+    .block-title {
+      margin: 0 0 10px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--text-faint);
+    }
+
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .meta-card {
+      background: var(--bg-elev);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+    }
+
+    .meta-label {
+      display: block;
+      font-size: 11px;
+      color: var(--text-faint);
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .meta-value {
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .control-row {
+      display: grid;
+      gap: 10px;
+    }
+
+    select,
+    input[type="search"] {
+      width: 100%;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: var(--bg-elev);
+      padding: 11px 12px;
+      outline: none;
+    }
+
+    select:focus,
+    input[type="search"]:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-soft);
+    }
+
+    .theme-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .theme-btn,
+    .jump-btn,
+    .filter-chip {
+      border: 1px solid var(--line);
+      background: var(--bg-elev);
+      border-radius: 999px;
+      padding: 8px 12px;
+      cursor: pointer;
+      transition: border-color 120ms ease, background 120ms ease, color 120ms ease;
+    }
+
+    .theme-btn:hover,
+    .jump-btn:hover,
+    .filter-chip:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .theme-btn.active,
+    .filter-chip.active {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: var(--accent-strong);
+    }
+
+    .toc-list,
+    .source-filter-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .jump-btn {
+      text-decoration: none;
+      font-size: 12px;
+    }
+
+    .main {
+      min-width: 0;
+      padding: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .hero {
+      padding: 18px;
+      display: grid;
+      gap: 14px;
+      background:
+        linear-gradient(135deg, var(--bg-elev), color-mix(in srgb, var(--bg-elev) 62%, var(--accent-soft))),
+        var(--bg-elev);
+    }
+
+    .hero-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .hero h2 {
+      margin: 0;
+      font-size: clamp(22px, 3vw, 32px);
+      letter-spacing: -0.05em;
+      line-height: 1;
+    }
+
+    .hero-note {
+      color: var(--text-soft);
+      font-size: 13px;
+      line-height: 1.7;
+      max-width: 70ch;
+      margin: 0;
+    }
+
+    .hero-status {
+      min-width: 220px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+      background: rgba(0,0,0,0.06);
+    }
+
+    :root[data-theme="dark"] .hero-status { background: rgba(255,255,255,0.03); }
+
+    .hero-status strong,
+    .hero-status span {
+      display: block;
+    }
+
+    .hero-status strong {
+      font-size: 12px;
+      letter-spacing: 0.1em;
+      color: var(--text-faint);
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    .hero-status span {
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .section-card {
+      padding: 14px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: end;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 10px;
+    }
+
+    .section-title {
+      margin: 0;
+      font-size: 18px;
+      letter-spacing: -0.03em;
+    }
+
+    .section-stats {
+      color: var(--text-faint);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .sources {
+      display: grid;
+      gap: 12px;
+    }
+
+    .source-card {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      overflow: hidden;
+      background: var(--bg-panel);
+    }
+
+    .source-card.hidden-by-filter {
+      display: none;
+    }
+
+    .source-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      background: color-mix(in srgb, var(--bg-muted) 80%, transparent);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .source-name {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .source-badge {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-faint);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 8px;
+      white-space: nowrap;
+    }
+
+    .articles {
+      display: grid;
+    }
+
+    .article {
+      padding: 14px;
+      display: grid;
+      gap: 10px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .article:last-child { border-bottom: 0; }
+
+    .article-title {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.5;
+      font-weight: 700;
+    }
+
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+
+    .article-title a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+
+    .article-brief {
+      margin: 0;
+      color: var(--text-soft);
+      font-size: 14px;
+      line-height: 1.75;
+      white-space: pre-wrap;
+    }
+
+    .article-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-faint);
+    }
+
+    .article-meta span {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 4px 8px;
+      background: var(--bg-elev);
+    }
+
+    .status,
+    .empty-state {
+      padding: 24px;
+      border: 1px dashed var(--line);
+      border-radius: 16px;
+      color: var(--text-soft);
+      background: var(--bg-panel);
+    }
+
+    .status strong,
+    .empty-state strong {
+      display: block;
+      color: var(--text);
+      margin-bottom: 8px;
+      font-size: 15px;
+    }
+
+    .footer-note {
+      color: var(--text-faint);
+      text-align: center;
+      padding: 12px 0 4px;
+      font-size: 12px;
+    }
+
+    @media (max-width: 1120px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        position: relative;
+        top: auto;
+        max-height: none;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .shell {
+        width: min(calc(100vw - 12px), var(--content-width));
+        margin: 6px auto;
+        gap: 8px;
+      }
+      .sidebar,
+      .main,
+      .hero,
+      .section-card {
+        padding: 12px;
+      }
+      .meta-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .hero-top,
+      .section-head,
+      .source-head {
+        flex-direction: column;
+        align-items: start;
+      }
+      .article,
+      .source-head {
+        padding: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar panel">
+      <div class="brand">
+        <div class="eyebrow">Daily tech feed</div>
+        <h1>每日科技资讯</h1>
+        <p class="subtitle">给阿索用的信息终端。默认展开，减少跳转，尽量把当天值得扫一眼的内容一次看完。</p>
+      </div>
+
+      <section class="controls">
+        <h2 class="block-title">控制台</h2>
+        <div class="control-row">
+          <label>
+            <div class="block-title">日期</div>
+            <select id="dateSelect" aria-label="选择日期"></select>
+          </label>
+          <label>
+            <div class="block-title">站点筛选</div>
+            <input id="sourceSearch" type="search" placeholder="输入站点名，例如 MacRumors" autocomplete="off" />
+          </label>
+          <div>
+            <div class="block-title">主题</div>
+            <div class="theme-row" id="themeButtons">
+              <button class="theme-btn" data-theme-value="system" type="button">跟随系统</button>
+              <button class="theme-btn" data-theme-value="dark" type="button">深色</button>
+              <button class="theme-btn" data-theme-value="light" type="button">浅色</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="meta-grid" id="metaGrid">
+        <div class="meta-card">
+          <span class="meta-label">日期</span>
+          <div class="meta-value" id="metaDate">--</div>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">板块</span>
+          <div class="meta-value" id="metaSections">--</div>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">站点</span>
+          <div class="meta-value" id="metaSources">--</div>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">文章</span>
+          <div class="meta-value" id="metaArticles">--</div>
+        </div>
+      </section>
+
+      <section class="toc" id="tocBox">
+        <h2 class="block-title">板块跳转</h2>
+        <div class="toc-list" id="tocList"></div>
+      </section>
+
+      <section class="source-filter-box" id="sourceFilterBox">
+        <h2 class="block-title">站点快速筛选</h2>
+        <div class="source-filter-list" id="sourceFilterList"></div>
+      </section>
+    </aside>
+
+    <main class="main panel">
+      <section class="hero panel">
+        <div class="hero-top">
+          <div>
+            <div class="eyebrow" id="heroEyebrow">Loading</div>
+            <h2 id="heroDate">正在载入…</h2>
+          </div>
+          <div class="hero-status">
+            <strong>生成时间</strong>
+            <span id="generatedAt">--</span>
+          </div>
+        </div>
+        <p class="hero-note" id="heroNote">先读取 data/index.json，默认加载最新一期。支持历史切换、站点筛选、亮暗主题切换。</p>
+      </section>
+
+      <div id="app">
+        <div class="status"><strong>初始化中</strong>正在读取数据索引…</div>
+      </div>
+
+      <div class="footer-note">静态页面 · Vanilla JS · 适合直接部署到 Vercel</div>
+    </main>
+  </div>
+
+  <script>
+    const state = {
+      availableDates: [],
+      currentDate: null,
+      data: null,
+      sourceFilter: '',
+      themePreference: localStorage.getItem('daily-tech-theme') || 'system',
+      systemDarkMedia: window.matchMedia('(prefers-color-scheme: dark)')
+    };
+
+    const els = {
+      app: document.getElementById('app'),
+      dateSelect: document.getElementById('dateSelect'),
+      sourceSearch: document.getElementById('sourceSearch'),
+      themeButtons: [...document.querySelectorAll('.theme-btn')],
+      tocList: document.getElementById('tocList'),
+      sourceFilterList: document.getElementById('sourceFilterList'),
+      heroEyebrow: document.getElementById('heroEyebrow'),
+      heroDate: document.getElementById('heroDate'),
+      heroNote: document.getElementById('heroNote'),
+      generatedAt: document.getElementById('generatedAt'),
+      metaDate: document.getElementById('metaDate'),
+      metaSections: document.getElementById('metaSections'),
+      metaSources: document.getElementById('metaSources'),
+      metaArticles: document.getElementById('metaArticles')
+    };
+
+    function applyTheme(theme) {
+      const resolved = theme === 'system'
+        ? (state.systemDarkMedia.matches ? 'dark' : 'light')
+        : theme;
+      document.documentElement.dataset.theme = resolved;
+      els.themeButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.themeValue === theme));
+    }
+
+    function setTheme(theme) {
+      state.themePreference = theme;
+      localStorage.setItem('daily-tech-theme', theme);
+      applyTheme(theme);
+    }
+
+    function formatDate(dateString) {
+      const date = new Date(dateString + 'T00:00:00');
+      return new Intl.DateTimeFormat('zh-CN', {
+        year: 'numeric', month: 'long', day: 'numeric', weekday: 'short'
+      }).format(date);
+    }
+
+    function formatDateTime(value) {
+      if (!value) return '--';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return value;
+      return new Intl.DateTimeFormat('zh-CN', {
+        month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false
+      }).format(date).replace(',', '');
+    }
+
+    function escapeHtml(str = '') {
+      return str.replace(/[&<>"']/g, char => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char]));
+    }
+
+    function showStatus(title, text) {
+      els.app.innerHTML = `<div class="status"><strong>${escapeHtml(title)}</strong>${escapeHtml(text)}</div>`;
+    }
+
+    async function fetchJson(path) {
+      const res = await fetch(path, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`${path} 读取失败 (${res.status})`);
+      return res.json();
+    }
+
+    async function loadIndex() {
+      const dates = await fetchJson('./data/index.json');
+      if (!Array.isArray(dates) || dates.length === 0) throw new Error('data/index.json 为空');
+      state.availableDates = [...dates].sort((a, b) => b.localeCompare(a));
+      renderDateOptions();
+    }
+
+    function renderDateOptions() {
+      els.dateSelect.innerHTML = state.availableDates
+        .map(date => `<option value="${date}">${date}</option>`)
+        .join('');
+      if (state.currentDate) els.dateSelect.value = state.currentDate;
+    }
+
+    async function loadDate(date) {
+      state.currentDate = date;
+      els.dateSelect.value = date;
+      showStatus('正在加载', `读取 ${date}.json ...`);
+      state.data = await fetchJson(`./data/${date}.json`);
+      render();
+    }
+
+    function getSourceNames() {
+      const names = new Set();
+      for (const section of state.data?.sections || []) {
+        for (const source of section.sources || []) names.add(source.name);
+      }
+      return [...names].sort((a, b) => a.localeCompare(b));
+    }
+
+    function getStats() {
+      const sections = state.data?.sections || [];
+      const sourceCount = sections.reduce((sum, section) => sum + (section.sources?.length || 0), 0);
+      const articleCount = sections.reduce((sum, section) => sum + (section.sources || []).reduce((acc, source) => acc + (source.articles?.length || 0), 0), 0);
+      return { sectionCount: sections.length, sourceCount, articleCount };
+    }
+
+    function renderSidebarData() {
+      const stats = getStats();
+      els.metaDate.textContent = state.data?.date || '--';
+      els.metaSections.textContent = String(stats.sectionCount);
+      els.metaSources.textContent = String(stats.sourceCount);
+      els.metaArticles.textContent = String(stats.articleCount);
+      els.heroEyebrow.textContent = `Latest loaded · ${stats.articleCount} briefs`;
+      els.heroDate.textContent = formatDate(state.data.date);
+      els.generatedAt.textContent = formatDateTime(state.data.generated_at);
+      els.heroNote.textContent = `共 ${stats.sectionCount} 个板块，${stats.sourceCount} 个站点，${stats.articleCount} 篇简讯。文章全部展开，适合从上往下快速扫读。`;
+
+      els.tocList.innerHTML = (state.data.sections || []).map((section, index) =>
+        `<a class="jump-btn" href="#section-${index}">${escapeHtml(section.category)}</a>`
+      ).join('');
+
+      const filter = state.sourceFilter.trim().toLowerCase();
+      els.sourceFilterList.innerHTML = getSourceNames().map(name => {
+        const active = filter && name.toLowerCase() === filter;
+        return `<button type="button" class="filter-chip ${active ? 'active' : ''}" data-source-chip="${escapeHtml(name)}">${escapeHtml(name)}</button>`;
+      }).join('');
+    }
+
+    function render() {
+      if (!state.data) return;
+      renderSidebarData();
+      const filter = state.sourceFilter.trim().toLowerCase();
+      let visibleSourceCount = 0;
+      let visibleArticleCount = 0;
+
+      const html = (state.data.sections || []).map((section, sectionIndex) => {
+        const renderedSources = (section.sources || []).map(source => {
+          const matches = !filter || source.name.toLowerCase().includes(filter);
+          if (matches) {
+            visibleSourceCount += 1;
+            visibleArticleCount += source.articles?.length || 0;
+          }
+          const articlesHtml = (source.articles || []).map(article => `
+            <article class="article">
+              <h4 class="article-title"><a href="${escapeHtml(article.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></h4>
+              <p class="article-brief">${escapeHtml(article.brief)}</p>
+              <div class="article-meta">
+                <span>${escapeHtml(article.source_name || source.name)}</span>
+                <span>${escapeHtml(formatDateTime(article.published_at))}</span>
+              </div>
+            </article>
+          `).join('');
+
+          return `
+            <section class="source-card ${matches ? '' : 'hidden-by-filter'}">
+              <div class="source-head">
+                <h3 class="source-name">${escapeHtml(source.name)}</h3>
+                <span class="source-badge">${source.articles?.length || 0} articles</span>
+              </div>
+              <div class="articles">${articlesHtml}</div>
+            </section>
+          `;
+        }).join('');
+
+        const sectionSourceCount = (section.sources || []).filter(source => !filter || source.name.toLowerCase().includes(filter)).length;
+        const sectionArticleCount = (section.sources || []).reduce((sum, source) => {
+          if (filter && !source.name.toLowerCase().includes(filter)) return sum;
+          return sum + (source.articles?.length || 0);
+        }, 0);
+
+        return `
+          <section class="section-card panel" id="section-${sectionIndex}">
+            <div class="section-head">
+              <div>
+                <div class="eyebrow">Section ${String(sectionIndex + 1).padStart(2, '0')}</div>
+                <h3 class="section-title">${escapeHtml(section.category)}</h3>
+              </div>
+              <div class="section-stats">${sectionSourceCount} 站点 · ${sectionArticleCount} 篇</div>
+            </div>
+            <div class="sources">${renderedSources || ''}</div>
+          </section>
+        `;
+      }).join('');
+
+      els.app.innerHTML = html || '<div class="empty-state"><strong>没有可显示的内容</strong>当前日期下没有 sections。</div>';
+
+      if (filter && visibleSourceCount === 0) {
+        els.app.innerHTML = `<div class="empty-state"><strong>没有匹配站点</strong>当前筛选词为 “${escapeHtml(state.sourceFilter)}”，可清空后查看全部内容。</div>`;
+      }
+    }
+
+    function bindEvents() {
+      els.dateSelect.addEventListener('change', () => loadDate(els.dateSelect.value).catch(handleError));
+      els.sourceSearch.addEventListener('input', event => {
+        state.sourceFilter = event.target.value.trim();
+        render();
+      });
+
+      document.addEventListener('click', event => {
+        const chip = event.target.closest('[data-source-chip]');
+        if (!chip) return;
+        const value = chip.getAttribute('data-source-chip');
+        state.sourceFilter = state.sourceFilter.toLowerCase() === value.toLowerCase() ? '' : value;
+        els.sourceSearch.value = state.sourceFilter;
+        render();
+      });
+
+      els.themeButtons.forEach(btn => {
+        btn.addEventListener('click', () => setTheme(btn.dataset.themeValue));
+      });
+
+      const mediaListener = () => applyTheme(state.themePreference);
+      if (typeof state.systemDarkMedia.addEventListener === 'function') {
+        state.systemDarkMedia.addEventListener('change', mediaListener);
+      } else if (typeof state.systemDarkMedia.addListener === 'function') {
+        state.systemDarkMedia.addListener(mediaListener);
+      }
+    }
+
+    function handleError(error) {
+      console.error(error);
+      els.app.innerHTML = `<div class="status"><strong>加载失败</strong>${escapeHtml(error.message || String(error))}</div>`;
+    }
+
+    async function init() {
+      applyTheme(state.themePreference);
+      bindEvents();
+      await loadIndex();
+      const latest = state.availableDates[0];
+      await loadDate(latest);
+    }
+
+    init().catch(handleError);
+  </script>
+</body>
+</html>
