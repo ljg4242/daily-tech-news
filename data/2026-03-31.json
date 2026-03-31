@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T15:36:08.613292+08:00",
+  "generated_at": "2026-03-31T16:52:01.514602+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Opera Neon doubles down on agentic browsing with MCP support",
+              "brief": "Opera 为其 AI 浏览器 Neon 加入 MCP 支持，允许 ChatGPT、Claude、Lovable、n8n 等外部代理更直接地调用浏览器能力，在网页内执行搜索、整理、比较和操作任务。Opera 表示，这项更新建立在 Tasks、Cards、Do、Make 等原有代理式功能之上，继续把 Neon 推向更强调自动执行与工作流整合的浏览体验。",
+              "source_url": "https://9to5mac.com/2026/03/31/opera-neon-doubles-down-on-agentic-browsing-with-mcp-support/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T16:00:00+08:00"
+            },
+            {
               "title": "Apple introduces privacy rules for third-party access to notifications and Live Activities",
               "brief": "苹果公布针对第三方访问通知内容和 Live Activities 的新隐私规则，进一步收紧这类高敏感数据的调用范围。新规范明确指出，通知可能包含消息、邮件、医疗提醒等个人信息，因此开发者若想读取完整内容，需满足更严格条件并遵守用途限制。苹果希望借此降低用户敏感信息被过度收集和滥用的风险。",
               "source_url": "https://9to5mac.com/2026/03/30/apple-introduces-privacy-rules-for-third-party-access-to-notifications-and-live-activities/",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/03/30/apple-subsidiary-fined-in-the-uk-for-breaching-russia-sanctions-rules/",
               "source_name": "9to5Mac",
               "published_at": "2026-03-31T09:19:13+08:00"
-            },
-            {
-              "title": "iOS 26.5 beta 1: Here are all the new features",
-              "brief": "iOS 26.5 Beta 1 带来一批分散但方向明确的新变化，包括 Apple Maps 广告准备、RCS 端到端加密支持推进，以及若干系统层面的小幅更新。和大版本升级相比，这次更多是把尚未落地的功能继续推进到可用阶段，同时补充接口与文案，为后续正式版面向更多用户开放打基础。",
-              "source_url": "https://9to5mac.com/2026/03/30/ios-26-5-beta-1-here-are-all-the-new-features/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-03-31T08:38:04+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch",
+              "brief": "三星 Galaxy S26 系列虽然零售版起步存储已提升到 256GB，但英国市场近期出现了一款 128GB 的 Galaxy S26 Enterprise Edition。该机面向企业客户而非普通零售渠道，售价约为 871 英镑，明显低于当地 256GB 标准版约 1160 英镑的价格，显示三星仍在特定商用产品线中保留更低容量、更低门槛的配置选择。",
+              "source_url": "https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T16:10:35+08:00"
+            },
+            {
+              "title": "This messaging app wins on every front, except the one that matters",
+              "brief": "Android Authority 对 Signal、WhatsApp 与 Viber 进行体验比较，认为 Signal 在界面简洁、隐私设计和整体使用逻辑上更克制，没有像不少即时通讯应用那样不断堆叠花哨功能。不过文章也指出，Signal 最大的问题仍是用户规模和关系链不足。即便产品完成度更高，若亲友与工作联系人没有迁移过去，它依然很难取代主流通讯工具的位置。",
+              "source_url": "https://www.androidauthority.com/signal-vs-viber-vs-whatsapp-3653107/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T16:00:18+08:00"
+            },
+            {
               "title": "Walmart’s next Onn device could replace your ageing Chromecast with Google TV",
               "brief": "沃尔玛下一款 Onn 流媒体设备信息曝光，新品可能成为旧款 Chromecast with Google TV 的平价替代。泄露显示，这款 4K Streaming Stick 将支持 4K 输出，采用 Realtek 芯片，规格上已追平甚至超过部分旧机型。对于仍在用老款 Google TV 设备的用户来说，这可能是一条成本更低的升级路径。",
               "source_url": "https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/android-auto-signal-strength-bug-3653399/",
               "source_name": "Android Authority",
               "published_at": "2026-03-31T12:14:13+08:00"
-            },
-            {
-              "title": "Android’s new developer verification rollout begins, sideloading changes are next",
-              "brief": "谷歌已经开始推送 Android 新的开发者验证机制，虽然普通用户暂时感知不强，但它将直接影响未来侧载安装体验。按照新规则，未经验证的应用很快需要通过更复杂的高级侧载流程，或者借助 ADB 才能安装。谷歌正在把开发者身份、应用可信度和侧载限制整合为一套更严格的安卓分发体系。",
-              "source_url": "https://www.androidauthority.com/android-developer-verification-rollout-sideloading-flow-3653395/",
-              "source_name": "Android Authority",
-              "published_at": "2026-03-31T11:37:10+08:00"
-            },
-            {
-              "title": "Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test",
-              "brief": "Meta 正在菲律宾、墨西哥等少数市场测试 Instagram Plus 订阅服务。订阅者可获得一组围绕 Stories 的新功能，例如把动态延长到 48 小时，或在查看别人 Stories 时隐藏浏览痕迹。定价看起来并不高，但这项测试也显示 Meta 正尝试把更多社交行为和隐私感知功能打包成可付费卖点。",
-              "source_url": "https://www.androidauthority.com/instagram-plus-subscription-test-3653387/",
-              "source_name": "Android Authority",
-              "published_at": "2026-03-31T09:33:33+08:00"
             }
           ]
         },
@@ -249,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Another Starlink satellite has inexplicably exploded",
+              "brief": "SpaceX 再有一颗 Starlink 卫星在轨出现异常并失联，空间追踪公司 LeoLabs 观测到其解体后形成大量碎片。这已是继 2025 年 12 月类似事件后的又一次爆炸事故。SpaceX 仅表示卫星遭遇“异常情况”，暂未公开更具体原因。连续两次事故让外界再次关注大规模卫星星座在轨安全、碎片管理以及后续调查透明度问题。",
+              "source_url": "https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T16:19:52+08:00"
+            },
+            {
               "title": "150 million users later, Roblox competitor Rec Room is shutting down",
               "brief": "拥有约 1.5 亿用户的 Roblox 竞品 Rec Room 宣布关闭。公司表示，团队始终没能找到可持续盈利的商业模式，即便产品积累了可观用户规模，仍无法支撑长期运营。这个结果再次说明，用户增长与平台生存并不等价，UGC 社交游戏平台在内容生态、留存与变现之间依然面临极高难度。",
               "source_url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
               "source_name": "The Verge",
               "published_at": "2026-03-30T13:38:08-04:00"
-            },
-            {
-              "title": "A new RCS update could connect iPhone and Android video calls, someday",
-              "brief": "RCS Universal Profile 4.0 新规范加入了对跨消息应用视频通话互通的支持设想，未来可能让 iPhone 与 Android 之间的视频通话体验进一步打通。不过这仍停留在标准层面的推进，距离真正落地还有不小距离。即便如此，RCS 正在从文本通信继续扩展到更复杂的跨平台实时互动。",
-              "source_url": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
-              "source_name": "The Verge",
-              "published_at": "2026-03-30T13:19:31-04:00"
             }
           ]
         }
@@ -414,6 +414,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "Arch Linux全新的基于TUI文本用户界面的安装器发布 将成为默认安装器",
+              "brief": "Arch Linux 发布 Archinstall 4.0 安装器，最大变化是改用基于 Textual 框架的 TUI 文本界面，并将逐步成为默认安装方式。新版本除界面重做外，还加入虚拟机启动 ISO 指引、firewalld 区域化管理、GRUB UKI 与全盘 LUKS 参数支持、加利西亚语支持等改进，同时移除了 NTFS 根文件系统支持，整体更贴近现代终端使用体验。",
+              "source_url": "https://www.landiannews.com/archives/112421.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T16:18:21+08:00"
+            },
+            {
+              "title": "苹果计划推出APP内购分期付款 但需要承诺订阅12个月 提前取消会额外收费",
+              "brief": "苹果计划为 App Store 订阅引入一种“按月付款、但承诺 12 个月”的新计费方案。开发者可让用户分期支付全年订阅费用，但若提前取消，可能需要承担额外费用。iOS 26.5 Beta 1 开发者文档已出现相关说明，不过苹果暂未明确这是替代现有年付方案，还是新增一种合同型订阅选项。是否采用，后续仍取决于开发者的实际配置。",
+              "source_url": "https://www.landiannews.com/archives/112420.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T16:00:22+08:00"
+            },
+            {
+              "title": "免费开蹬：支持1M窗口 千问Qwen3.6在OpenRouter上预览可免费用",
+              "brief": "阿里通义千问团队已在 OpenRouter 上预览发布 Qwen3.6 Plus，预览阶段向所有用户免费开放调用。该模型支持 1M 上下文窗口、最高 65.5K 输出，OpenRouter 页面显示平均响应时间约 1.22 秒、吞吐量约每秒 55 个 token。用户可按 OpenAI 兼容接口接入到 OpenClaw、OpenCode 等智能体工具，但平台同时提示调用数据会被用于模型改进。",
+              "source_url": "https://www.landiannews.com/archives/112419.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T15:29:06+08:00"
+            },
+            {
               "title": "紧急安全提醒：OpenClaw也受Axios供应链投毒影响 请用户立即检查",
               "brief": "蓝点网发出紧急安全提醒，指出 OpenClaw 也可能受到 Axios 供应链投毒事件波及。文章建议已部署相关机器人的用户立即排查环境，一旦发现异常迹象，应尽快轮换密钥并重建系统或运行环境。由于此次恶意版本通过新增隐藏依赖投放远控木马，风险并不局限于单一项目，使用 Axios 的开发环境都应提高警惕。",
               "source_url": "https://www.landiannews.com/archives/112418.html",
@@ -426,27 +447,6 @@
               "source_url": "https://www.landiannews.com/archives/112417.html",
               "source_name": "蓝点网",
               "published_at": "2026-03-31T13:00:54+08:00"
-            },
-            {
-              "title": "即日起开发者可以注册安卓新的侧载认证 注册后即可让用户免解锁安装应用",
-              "brief": "谷歌现已向开发者开放新的安卓侧载认证流程。开发者在官方后台完成验证并获得签名后，用户安装相关 APK 时可免去额外的“解锁”步骤；而未经认证的应用将被系统拦截，只能走高级流程等待 24 小时或通过 ADB 安装。新机制标志着安卓正在把侧载自由与分发可信度重新做平衡。",
-              "source_url": "https://www.landiannews.com/archives/112416.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-03-31T12:38:42+08:00"
-            },
-            {
-              "title": "紧急安全提醒：开源库Axios遭到黑客投毒 请使用该库的开发者立即检查",
-              "brief": "Axios 在 NPM 平台遭遇供应链攻击，黑客通过控制维护者账号发布了带毒版本 axios@1.14.1 和 axios@0.30.4。恶意代码并非直接写在 Axios 主体里，而是通过隐藏依赖植入远程访问木马。蓝点网建议在 3 月 31 日前后安装或升级过该库的开发者立刻降级、轮换密钥，必要时重建环境。",
-              "source_url": "https://www.landiannews.com/archives/112415.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-03-31T12:19:46+08:00"
-            },
-            {
-              "title": "谷歌向用户推出Google Drive勒索软件检测和文件恢复 帮助用户抵御勒索加密",
-              "brief": "谷歌宣布面向用户推出 Google Drive 勒索软件检测与文件恢复能力。系统会根据短时间内大量文件被改动等特征识别可疑加密行为，并在发现异常时暂停同步。此前该功能已进行测试，如今开始更广泛提供。不过主动检测主要面向商业与企业用户，个人与家庭用户则可使用批量回滚进行恢复。",
-              "source_url": "https://www.landiannews.com/archives/112414.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-03-31T11:52:08+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "3岁女童20秒内还原三阶魔方 破世界纪录",
-              "brief": "来自吉林延吉的 3 岁女孩王玥琛以 19 秒完成三阶魔方还原，创造“最小年龄在 20 秒内还原三阶魔方”的 WRCA 世界纪录。她半年前才接触魔方，随后在启蒙老师和世界纪录保持者指导下快速进步。这一成绩既体现了儿童早期训练的潜力，也让魔方这项智力运动再次受到广泛关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1555914.htm",
+              "title": "Opera Neon引入MCP连接器 开放浏览器控制权给外部AI代理",
+              "brief": "Opera 为 AI 浏览器 Neon 加入 MCP 连接器，允许外部代理更直接地接管浏览器中的检索、整理与执行流程。借助这一能力，ChatGPT、Claude、n8n 等工具可以与 Neon 的代理式浏览功能联动，在多网页上下文中完成更复杂的自动化任务。Opera 继续把 Neon 从“带 AI 的浏览器”推向“可被其他 AI 调度的浏览器工作台”。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555930.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:20:02+08:00"
+              "published_at": "2026-03-31T16:23:53+08:00"
             },
             {
-              "title": "RTX 60规格全曝光：光追翻倍、单卡跑DLSS5 别急着信",
-              "brief": "有关 NVIDIA 下一代 GeForce RTX 60 系列的爆料近日流出，内容涉及 Rubin 架构、第六代 Tensor 核心、第五代 RT 核心，甚至宣称单卡可驱动 DLSS 5 级别效果。但随后有媒体泼冷水称，相关游戏芯片甚至尚未流片，连最终命名都未确定，因此这些详细参数现阶段更接近猜测而非可信定案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555912.htm",
+              "title": "国行版苹果AI上线后又被撤回 苹果：正积极推进落地中国",
+              "brief": "国行版 Apple Intelligence 曾在部分中国大陆 iPhone 和 iPad 上短暂出现并可下载启用，但苹果随后确认这是由软件问题导致的意外上线，相关异常现已修复。苹果表示，Apple 智能在中国市场的正式推出仍取决于监管审批，目前团队正持续推进本地落地。此前短暂开放的功能包括实时翻译、照片处理、视觉识别等多项设备端 AI 能力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555928.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:19:18+08:00"
+              "published_at": "2026-03-31T16:22:10+08:00"
             },
             {
-              "title": "四曲面屏重出江湖 iPhone 20将搭载1.1毫米极窄边框",
-              "brief": "爆料称苹果 20 周年纪念版 iPhone 20 将采用 1.1 毫米极窄边框与四曲面瀑布屏设计，整机正面视觉接近一块完整玻璃。为实现这种真全面屏效果，苹果还需要把前摄和面容识别组件放到屏幕下方。不过相关技术目前仍面临透光率和识别精度不足等难题，短期内能否顺利落地仍待观察。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555910.htm",
+              "title": "每10股写成每股 交行更正分红公告并致歉",
+              "brief": "交通银行发布更正公告称，在此前披露的 2025 年度利润分配方案中，因校对失误将“每 10 股分配现金股利 3.247 元”误写成“每股分配 3.247 元”，造成分红金额表述放大 10 倍，引发市场关注。交行已就此致歉，并表示将加强信息披露文件的编制和复核流程。按正式方案计算，2025 年全年现金分红总额为 286.92 亿元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555926.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:19:02+08:00"
+              "published_at": "2026-03-31T16:21:42+08:00"
             },
             {
-              "title": "比尔·盖茨：下一代发电技术已经近在眼前",
-              "brief": "比尔·盖茨在得州一场能源峰会上表示，随着全球到 2050 年的电力需求可能升至当前三倍，下一代发电技术已变得越来越关键。他特别提到地热、先进核能等方向的突破，并认为电气化和脱碳进程都依赖这些新方案更快落地。随着风光发电占比提升，能源系统正在进入更强调多元创新的阶段。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555908.htm",
+              "title": "硅谷隐秘初创公司“无脑克隆人”项目曝光 亿万富翁为长寿押注的极端实验？",
+              "brief": "生物技术初创公司 R3 Bio 被曝研究培育不具意识的人类克隆体或“器官囊”，希望以此替代动物实验，并进一步作为器官移植来源。报道显示，这一项目已吸引部分硅谷长寿投资者和亿万富翁资金支持，但其涉及的“无脑克隆体”设想在科学界和伦理领域迅速引发争议。外界关注点集中在技术可行性、监管边界与人类实验伦理风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555924.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:18:04+08:00"
+              "published_at": "2026-03-31T16:18:34+08:00"
             },
             {
-              "title": "张雪机车夺冠带疯门店 4.3万起820RR同款预定排队两个月 驾龄不满一年不予销售",
-              "brief": "张雪机车在 WSBK 葡萄牙站夺冠后，相关同款车型迅速带动品牌热度飙升。媒体走访显示，多地线下门店咨询和试驾人数显著增加，售价 4.3 万元起的 820RR 预订已经排到两个月后，部分门店甚至对驾龄未满一年的用户限制销售。赛事成绩正快速转化为中国机车品牌的市场关注度与订单。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555906.htm",
+              "title": "深圳新规：长期占位不缴费的“僵尸车”将罚款并纳入征信",
+              "brief": "深圳正就《机动车道路临时停放管理办法》公开征求意见，拟对长期占位却不缴费的“僵尸车”实施行政处罚，并纳入信用约束。新规意在解决长期以来认定标准不清、执法权限分散、正规车位内车辆难以拖移等治理难题。与此同时，深圳也在继续推广潮汐停车和长停月卡等配套措施，希望以疏堵结合的方式缓解城市停车资源被长期占用的问题。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555922.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:17:41+08:00"
+              "published_at": "2026-03-31T15:51:39+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "歌尔股份旗下潍坊电子公司增资至约18.7亿元",
-              "brief": "天眼查信息显示，歌尔股份旗下潍坊电子公司近期完成增资，注册资本升至约 18.7 亿元。此类变更通常反映出集团在相关业务板块继续加码投入，可能服务于制造扩产、业务整合或后续资本运作。虽然快讯本身信息有限，但作为歌尔体系内主体，资本动作仍值得关注。",
-              "source_url": "https://36kr.com/newsflashes/3746522093224712?f=rss",
+              "title": "名创优品：第四季度营收62.5亿元，同比增长32.7%",
+              "brief": "名创优品披露 2026 财年第四季度业绩，单季营收为 62.5 亿元，同比增长 32.7%。从公开信息看，这一季度公司仍延续较快增长节奏，门店扩张、产品结构与海外业务表现继续受到市场关注。财报快讯暂未在标题中同步披露利润等更完整指标，后续仍需结合正式财报与管理层说明，观察其增长质量、门店效率以及全球化业务对整体业绩的带动情况。",
+              "source_url": "https://36kr.com/newsflashes/3746607164965634?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31 15:19:21  +0800"
+              "published_at": "2026-03-31 16:45:53  +0800"
             },
             {
-              "title": "长安汽车获批L4级Robotaxi测试牌照",
-              "brief": "长安汽车已通过重庆永川区相关部门联合审议，正式拿到 L4 级 Robotaxi 测试牌照，成为具备全合规、全场景 L4 级无人驾驶实测资格的车企。牌照意味着其后续可在更真实、更完整的道路场景中推进无人出租车测试。对国内车企来说，这类资质既关乎技术验证，也关系到自动驾驶商业化节奏。",
-              "source_url": "https://36kr.com/newsflashes/3746514461704969?f=rss",
+              "title": "央行：持续做好货币金融总量统计和结构性专项统计",
+              "brief": "中国人民银行召开 2026 年调查统计工作电视会议，提出要持续完善金融业综合统计制度和标准，做好货币金融总量统计与结构性专项统计。会议同时要求高质量完成金融“五篇大文章”统计、地方政府融资平台债务统计，并进一步发挥国家金融基础数据库作用，为宏观调控、风险防范和高质量发展提供更及时、更有前瞻性的数据信息支撑。",
+              "source_url": "https://36kr.com/newsflashes/3746597639913985?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31 15:11:35  +0800"
+              "published_at": "2026-03-31 16:36:12  +0800"
             },
             {
-              "title": "国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-              "brief": "国行 iPhone 设置页一度短暂出现“Apple 智能与 Siri”入口，引发外界对 Apple Intelligence 中国版上线的猜测，但相关入口很快被撤回。苹果回应称，这是软件问题导致部分中国设备曾短暂下载并启用其他地区适用模型，现已修复。至于正式落地时间，苹果表示仍取决于监管审批，正在积极推进。",
-              "source_url": "https://36kr.com/newsflashes/3746508453937667?f=rss",
+              "title": "B站官宣将下线猜你喜欢算法",
+              "brief": "哔哩哔哩宣布将从明天零点起下线“猜你喜欢”算法，不再按用户喜好推荐主页内容，同时上线新的推荐算法机制。按官方说法，平台首页推荐逻辑将发生调整，不再沿用当前常见的兴趣画像式分发模式。由于发布时间恰逢 3 月 31 日，外界也在观望这项改动究竟是一次真实的推荐系统调整，还是与愚人节活动联动的特别策划。",
+              "source_url": "https://36kr.com/newsflashes/3746593138049796?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31 15:05:28  +0800"
+              "published_at": "2026-03-31 16:31:37  +0800"
             },
             {
-              "title": "A股三大指数集体收跌，CPO概念下挫",
-              "brief": "3 月 31 日 A 股三大指数集体收跌，其中沪指跌 0.8%，深成指跌 1.81%，创业板指跌 2.7%。板块方面，CPO、锂矿和煤炭股跌幅居前，市场整体风险偏好走弱。作为盘中快讯，这则消息主要反映当日行情概况，对观察资金情绪与题材轮动仍有参考价值。",
-              "source_url": "https://36kr.com/newsflashes/3746504424587784?f=rss",
+              "title": "财政部：1-2月国有企业营业总收入同比增长0.2%",
+              "brief": "财政部公布数据显示，2026 年 1 至 2 月国有企业营业总收入为 125655.0 亿元，同比增长 0.2%；利润总额为 6266.2 亿元，同比下降 2.0%；应交税费 10932.5 亿元，同比下降 2.3%。同期国有企业资产负债率为 65.4%，较上年同期上升 0.5 个百分点，反映出年初国企整体经营收入基本持平、利润端略有承压。",
+              "source_url": "https://36kr.com/newsflashes/3746588366062342?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31 15:01:22  +0800"
+              "published_at": "2026-03-31 16:26:46  +0800"
             },
             {
-              "title": "皖能电力旗下新能创业投资公司增资至约78.2亿元",
-              "brief": "工商信息显示，皖能电力旗下新能创业投资公司已完成增资，注册资本升至约 78.2 亿元。快讯未披露更多业务细节，但从资本规模变化看，这一动作大概率与能源投资布局、项目储备或产业基金运作有关。结合新能源领域持续扩张的大背景，母公司后续投资动作值得继续观察。",
-              "source_url": "https://36kr.com/newsflashes/3746489505923845?f=rss",
+              "title": "乘联分会：2026年2月乘用车智能化指数为34.3",
+              "brief": "乘联分会发布数据显示，2026 年 2 月乘用车智能化指数为 34.3，其中智能座舱指数为 36.1、智能驾驶指数为 37.2、舱外智能指数为 21.6。分项表现显示，车内交互和辅助驾驶能力仍是当前智能化配置推进较快的方向，而车外感知与联动相关能力整体水平相对更低，这份指数也继续为观察车企智能化配置普及程度提供参考。",
+              "source_url": "https://36kr.com/newsflashes/3746583924622088?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31 14:46:12  +0800"
+              "published_at": "2026-03-31 16:22:15  +0800"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Steam 2026 年度住宅与居所游戏节开启：《焕家物语》44.1 元、《冲就完事模拟器 2》74.8 元等",
-              "brief": "Steam 2026 年“住宅与居所游戏节”现已开启，活动聚焦装修、清洁、布置和生活模拟等主题作品，多款游戏同步打折，例如《焕家物语》降至 44.1 元，《冲就完事模拟器 2》为 74.8 元。对喜欢轻度经营和居家氛围类作品的玩家来说，这一主题节能更集中地发现同类新作与折扣内容。",
-              "source_url": "https://www.ithome.com/0/934/540.htm",
+              "title": "华硕推出 Prime RTX 5080 EVO 显卡，相较原版取消均热板",
+              "brief": "华硕推出 Prime RTX 5080 EVO 显卡，新版在尺寸和频率规格上与原版接近，但产品说明中删去了均热板相关表述，结构示意图里也未再显示对应部件。均热板通常用于提升热量在散热模组中的均匀传导，因此这次调整意味着 Prime RTX 5080 EVO 在散热配置上出现缩减。华硕暂未说明这一变化对实际温度和噪声表现会带来多大差异。",
+              "source_url": "https://www.ithome.com/0/934/594.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T15:12:36+08:00"
+              "published_at": "2026-03-31T16:39:59+08:00"
             },
             {
-              "title": "OPPO K15 Pro+ 手机参数公布：天玑 9500s 芯片、6.78 英寸 1.5K 165Hz 高刷屏",
-              "brief": "OPPO K15 Pro+ 关键参数现已曝光，新机将搭载天玑 9500s 芯片，配备 6.78 英寸 1.5K 分辨率、165Hz 高刷屏，主打性能与高刷新视觉体验。按照目前信息，它在屏幕和芯片规格上都瞄准中高端区间。如果价格策略合适，这款机型有望在今年竞争激烈的性能机市场争取一席之地。",
-              "source_url": "https://www.ithome.com/0/934/539.htm",
+              "title": "7.98 万元起，一汽-大众全新速腾 S 汽车上市",
+              "brief": "一汽-大众全新速腾 S 正式上市，起售价为 7.98 万元。新车采用几何张力前脸与溜背式车身设计，提供 17 英寸轮毂、贯穿式尾灯以及可发光车标。座舱配备 12.9 英寸中控屏和 10.25 英寸仪表，并加入电子怀挡、30 色氛围灯和电动座椅等配置。动力方面提供 1.5L 发动机配 6AT，以及 1.5T Evo2 发动机配 7 速双离合两种版本。",
+              "source_url": "https://www.ithome.com/0/934/591.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T15:10:38+08:00"
+              "published_at": "2026-03-31T16:36:34+08:00"
             },
             {
-              "title": "雷军公布小米 MiMo-V2-Pro 大模型最新“战绩”，Text Arena 榜单刷新突破全球前五",
-              "brief": "雷军公布了小米 MiMo-V2-Pro 大模型的最新成绩，称其在 Text Arena 榜单中的排名已刷新并进入全球前五。虽然快讯没有展开更多评测细节，但这一表态显示小米希望继续强化其在大模型赛道上的存在感，并把榜单表现作为对外展示技术进展与产品竞争力的重要信号。",
-              "source_url": "https://www.ithome.com/0/934/538.htm",
+              "title": "不再根据喜好推荐主页内容：B站官宣明天零点下线猜你喜欢算法，并上线新算法",
+              "brief": "哔哩哔哩官方公众号宣布，将从明天零点起下线“猜你喜欢”算法，不再依据用户兴趣画像为主页内容做推荐，并会同步上线新的推荐算法。此举若属实，意味着 B 站首页分发逻辑将出现明显变化，试图减少用户被单一兴趣路径持续锁定的情况。不过消息发布时间正好临近 4 月 1 日，也让不少用户怀疑这可能与愚人节活动有关。",
+              "source_url": "https://www.ithome.com/0/934/590.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T15:09:20+08:00"
+              "published_at": "2026-03-31T16:36:14+08:00"
             },
             {
-              "title": "我国研究团队发现天然超绝热材料，首次实现月壤单颗粒热导率精准测定",
-              "brief": "我国研究团队宣布发现一种天然超绝热材料，并首次实现对月壤单颗粒热导率的精准测定。相关成果有助于更深入理解月壤的热学性质，对未来月面探测、着陆器热管理以及月球基地建设等场景都具有基础研究价值。对行星科学来说，这是一次兼具方法突破和应用潜力的进展。",
-              "source_url": "https://www.ithome.com/0/934/537.htm",
+              "title": "苹果回应“Apple 智能意外上线国行 iPhone”：现已修复，正在积极推进落地中国",
+              "brief": "苹果回应称，国行 iPhone 上短暂出现并可下载启用的 Apple 智能属于软件问题导致的意外开放，目前异常已修复。苹果表示，这项功能在中国大陆市场的正式上线仍需等待监管审批，公司正在积极推进落地。此前短暂可用的 Beta 版包含实时翻译、视觉智能、照片消除、写作工具、Genmoji 和图乐园等能力，但部分功能当时也存在激活失败现象。",
+              "source_url": "https://www.ithome.com/0/934/586.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T15:08:08+08:00"
+              "published_at": "2026-03-31T16:30:12+08:00"
             },
             {
-              "title": "领克首款旅行车官宣命名领克 07 GT，年内正式发布",
-              "brief": "领克宣布其首款旅行车正式命名为领克 07 GT，并确认将在年内发布。命名结果来自用户投票，也说明品牌希望借旅行车这一相对小众但辨识度强的细分品类继续扩大产品线。若延续领克近年的设计和电气化路线，07 GT 有望成为国产品牌在旅行车市场的一次重要试探。",
-              "source_url": "https://www.ithome.com/0/934/536.htm",
+              "title": "太空拼车：中国商火公布 2026-2027 长征系列火箭发射机会概览",
+              "brief": "中国商业火箭发布 2026 至 2027 年长征系列火箭发射机会概览，向市场集中展示未来两年可供商业客户拼单搭载的发射窗口与运力安排。这类“太空拼车”模式通常面向中小卫星和多任务协同发射需求，能够降低单颗卫星入轨门槛并提高火箭运力利用率。随着商业航天需求持续增加，标准化发射档期和配套服务正成为产业竞争的重要一环。",
+              "source_url": "https://www.ithome.com/0/934/585.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T15:07:04+08:00"
+              "published_at": "2026-03-31T16:30:11+08:00"
             }
           ]
         }
