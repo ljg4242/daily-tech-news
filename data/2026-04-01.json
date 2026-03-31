@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T02:48:00.515688+08:00",
+  "generated_at": "2026-04-01T04:43:36.397030+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI Brings ChatGPT to CarPlay for Hands-Free Voice Conversations",
+              "brief": "OpenAI 已为 ChatGPT iPhone 应用加入 CarPlay 支持，用户现在可在车机界面中直接用语音提问和发出请求。该能力基于苹果在 iOS 26.4 向第三方语音对话类应用开放的 CarPlay 接口实现，开发者还需获得专门授权。按照规则，交互必须以语音为主，不能展示文字或图片回复，界面需使用苹果规定的语音控制模板。使用这一功能需要 iPhone 升级到 iOS 26.4 或更高版本，且目前不支持通过唤醒词直接调用。",
+              "source_url": "https://www.macrumors.com/2026/03/31/openai-chatgpt-carplay/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-01T03:34:20+08:00"
+            },
+            {
+              "title": "Apple Celebrates 50th Anniversary With Employee Gifts, Plans Finale Concert at Apple Park",
+              "brief": "苹果在 4 月 1 日迎来成立 50 周年之际，向员工发放了一套纪念礼品，包括 T 恤、徽章和限量海报，设计均采用周年庆使用的彩虹涂鸦风苹果标识。园区提示牌显示，这些纪念品将开放领取至 4 月 30 日。苹果自 3 月起已在纽约、成都、伦敦、温哥华和悉尼等地举行演出与 Today at Apple 活动，并计划在 Apple Park 为员工举办压轴演出，为整轮 50 周年庆祝活动收尾。",
+              "source_url": "https://www.macrumors.com/2026/03/31/apple-50th-anniversary-employee-gifts/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-01T02:54:30+08:00"
+            },
             {
               "title": "苹果为 AirPods Max 2 发布新固件",
               "brief": "苹果在 AirPods Max 2 正式发售前发布了新固件版本 8E251。AirPods Max 2 搭载 H2 芯片，相较前代 H1 带来了实时翻译、自适应音频、响度抑制、语音隔离等新功能，新固件可能针对这些特性进行了优化。用户需将耳机放在 iPhone、iPad 或 Mac 附近并连接蓝牙，再将设备连入 Wi-Fi，同时用 USB-C 线为耳机供电，等待至少 30 分钟即可完成固件更新。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/03/31/airtag-1-major-discount/",
               "source_name": "MacRumors",
               "published_at": "2026-04-01T01:30:00+08:00"
-            },
-            {
-              "title": "iOS 27 的 Siri 将支持一次发出多个指令",
-              "brief": "据报道，苹果计划在iOS 27中让Siri支持在单次查询中处理多个命令，例如用户可一次性让Siri获取路线并将其通过信息发送给他人。此前Siri仅能逐条执行指令，无法解析含多个组成部分的查询。此次升级属于苹果自2024年6月起推进的Apple Intelligence计划的一部分，Siri将具备更多个人上下文理解能力、屏幕内容识别能力及跨应用操作能力。苹果还在测试集成AI的新键盘，可提供语法修正和同义词建议。",
-              "source_url": "https://www.macrumors.com/2026/03/31/siri-ios-27-multiple-requests/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-01T00:43:51+08:00"
-            },
-            {
-              "title": "伊朗警告苹果可能是潜在打击目标",
-              "brief": "伊朗伊斯兰革命卫队今日在Telegram发文警告称，在与美国及以色列的持续冲突中，苹果是该国可能打击的美国大型企业之一。该帖子列出了18家被视为合法目标的公司，包括苹果、微软、谷歌、Meta、IBM、思科、特斯拉、波音、英伟达、摩根大通等，指控这些公司充当美国政府的间谍。这一声明涉及敏感地缘政治话题，引发了广泛关注。",
-              "source_url": "https://www.macrumors.com/2026/03/31/iran-reportedly-warns-apple-potential-target/",
-              "source_name": "MacRumors",
-              "published_at": "2026-03-31T23:54:29+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "苹果为 AirPods Max 2 发布独立固件更新",
-              "brief": "苹果在 AirPods Max 2 发售前夕发布了固件版本 8E251，这是一周内第二次为 AirPods 产品线推送固件。此前苹果已为 AirPods Pro 3、AirPods Pro 2 和 AirPods 4 推送了 8B39 版本。由于 AirPods Max 2 同样搭载 H2 芯片，业界曾推测两者使用相同固件，但事实证明苹果为新款耳机准备了独立的固件包。苹果尚未公布具体更新内容。",
-              "source_url": "https://9to5mac.com/2026/03/31/apple-releases-new-airpods-max-2-firmware-update/",
+              "title": "iOS 26.4 has convenient change for iPhone personal hotspot users",
+              "brief": "iOS 26.4 在“设置-个人热点”页面加入了更直观的数据使用统计，近期使用过热点时，页面底部会出现新的“Data Usage”入口。进入后，用户可以按设备查看各自通过热点消耗的数据量，更容易掌握 iPad、MacBook 等终端的流量占用情况。对于使用限量流量套餐、经常在外通过 iPhone 共享网络的人来说，这项改动能直接在系统内完成核对，不再需要靠运营商账单或人工估算来判断热点使用情况。",
+              "source_url": "https://9to5mac.com/2026/03/31/ios-26-4-makes-it-easy-to-see-whos-using-your-personal-hotspot/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-01T02:17:56+08:00"
+              "published_at": "2026-04-01T04:38:25+08:00"
             },
             {
-              "title": "苹果50周年纪念歌单回顾经典广告音乐",
-              "brief": "苹果即将迎来成立50周年，有编辑整理了一份Apple Music歌单，收录了苹果在广告和产品发布会上使用过的经典歌曲。其中包括2007年Feist的《1234》配合iPod nano广告走红、2008年Coldplay《Viva La Vida》在iTunes首发登上年度销量冠军、Yael Naim《New Soul》为MacBook Air广告增色等。这些歌曲通过苹果的营销推广进入主流视野，成为科技与音乐交汇的文化符号。",
-              "source_url": "https://9to5mac.com/2026/03/31/get-ready-to-celebrate-apples-50th-with-the-perfect-playlist/",
+              "title": "9to5Mac Daily: March 31, 2026 – iOS 26.5 beta 1 changes, more",
+              "brief": "9to5Mac 发布了 2026 年 3 月 31 日的 Daily 播客更新，节目围绕 iOS 26.5 beta 1 的新变化展开，并提到苹果将更多原生 Apple Music 体验带入汽车场景，以及 iOS 26.4 新增的一项 iCloud 功能。文章同时给出 Apple Podcasts、Overcast、Spotify 和 RSS 等订阅方式，并提供无广告版本与额外内容的会员支持入口。整篇内容主要是对当日苹果新闻与播客主题的汇总，方便读者快速找到节目与相关报道。",
+              "source_url": "https://9to5mac.com/2026/03/31/daily-march-31-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-01T02:09:11+08:00"
+              "published_at": "2026-04-01T04:21:33+08:00"
             },
             {
-              "title": "保罗麦卡特尼将在苹果园区举办50周年庆典演出",
-              "brief": "前披头士乐队成员保罗麦卡特尼将在今晚于Apple Park彩虹舞台上举办演唱会，庆祝苹果公司成立50周年。Reddit用户分享了麦卡特尼昨晚在园区进行彩排的照片，彩虹结构已被改造成完整的演唱会舞台，配有舞台灯光和两侧大屏幕。苹果员工未获邀携带同伴入场，演出将仅限内部人员参加。此前苹果已在纽约Grand Central和伦敦Battersea门店分别举办了Alicia Keys和Mumford & Sons的演出。",
-              "source_url": "https://9to5mac.com/2026/03/31/paul-mccartney-heading-apples-50th-anniversary-bash-at-apple-park-tonight/",
+              "title": "Save over 30% on David Pogue’s new ‘Apple: The First 50 years’ book",
+              "brief": "在苹果迎来 50 周年之际，David Pogue 新书《Apple: The First 50 Years》正在促销，折扣幅度超过三成。该书超过 600 页，收录 150 多位关键人物的新访谈，包括 Steve Wozniak、John Sculley、Jony Ive 等，也涵盖多位现任设计师、工程师和高管。报道强调，这本书以大量采访和彩图资料回顾苹果半个世纪的发展历程，并指出作者获得了苹果少见的合作与访问支持，因此被视为一部内容颇为完整的苹果史著作。",
+              "source_url": "https://9to5mac.com/2026/03/31/david-pogue-releases-new-apple-the-first-50-years-book/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-01T01:57:26+08:00"
+              "published_at": "2026-04-01T04:01:08+08:00"
             },
             {
-              "title": "Sonos 推出299美元便携式 AirPlay 2 音箱",
-              "brief": "Sonos今日发布全新Sonos Play便携音箱，售价299美元，支持蓝牙和AirPlay 2，填补了高端Move 2与入门级Roam 2之间的市场空白。该音箱配备充电底座和可拆卸挂环，续航达24小时，支持IP67防水，并可充当移动电源为手机充电。首次实现蓝牙模式下可将最多三台Sonos Play或Move 2音箱无线串联播放。同期发布的还有无麦克风版Era 100 SL，售价189美元。",
-              "source_url": "https://9to5mac.com/2026/03/31/sonos-announces-two-new-products-including-299-portable-airplay-2-speaker/",
+              "title": "App Store Connect adds 11 new languages for localized app metadata",
+              "brief": "苹果宣布 App Store Connect 新增 11 种应用元数据本地化语言，包含孟加拉语、古吉拉特语、卡纳达语、马拉雅拉姆语、马拉地语、奥里亚语、旁遮普语、斯洛文尼亚语、泰米尔语、泰卢固语和乌尔都语。随着这次扩展，开发者现已可以在 App Store Connect 中用 50 种语言管理应用名称、描述和关键词等本地化信息。苹果表示，这将帮助开发者更准确地覆盖不同语言和市场的用户，进一步提升应用在更多地区的发现度和触达能力。",
+              "source_url": "https://9to5mac.com/2026/03/31/app-store-connect-adds-11-new-languages-for-localized-app-metadata/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-01T01:30:00+08:00"
+              "published_at": "2026-04-01T04:00:15+08:00"
             },
             {
-              "title": "iOS 27 可能为 iPhone 键盘带来智能替换词功能",
-              "brief": "据彭博社报道，苹果正在测试iOS 27中的新键盘系统，在现有自动更正功能基础上增加替代词建议，类似Grammarly的写作辅助工具。此前苹果在iOS 26.4中已改善了键盘算法的准确性，而iOS 27的升级可能更为深度，有望借助Apple Intelligence实现更智能的单词替换建议，但该功能可能仅限于支持AI的iPhone机型。苹果将于6月8日WWDC正式揭晓iOS 27的全部新功能。",
-              "source_url": "https://9to5mac.com/2026/03/31/ios-27-might-give-iphones-keyboard-a-new-autocorrect-feature/",
+              "title": "Here’s Apple’s special 50th anniversary merch for employees",
+              "brief": "苹果 50 周年员工纪念套装已在社交平台曝光，整套礼品包含一件 T 恤、一张海报和一枚徽章，统一印有周年纪念标识以及“50 Years of Thinking Different”字样。这句口号也呼应了 Tim Cook 先前为周年庆发布的公开信标题。报道提到，这批纪念品为员工专属，配套照片展示了礼盒和设计细节，属于 Apple Park 周年庆活动的一部分，也与苹果近期在全球多个城市展开的 50 周年庆祝安排相呼应。",
+              "source_url": "https://9to5mac.com/2026/03/31/heres-apples-special-50th-anniversary-merch-for-employees/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-01T00:27:33+08:00"
+              "published_at": "2026-04-01T03:27:29+08:00"
             }
           ]
         },
@@ -89,32 +89,39 @@
           "name": "9to5Google",
           "articles": [
             {
-              "title": "Google Find Hub 网页版将支持追踪标签和耳机",
-              "brief": "Google Find Hub正在推出网页版定位功能，用户可通过浏览器直接追踪已配对的智能标签和蓝牙耳机等设备。此前Find Hub主要依赖移动端应用进行设备定位，网页版的加入让用户在桌面端也能快速查看设备位置。该功能扩展了Google的设备追踪生态，与苹果的Find My网络在跨平台体验上形成竞争。",
-              "source_url": "https://9to5google.com/2026/03/31/find-hub-website/",
+              "title": "Gemini app rolls out new glow on Android and moves Temporary chat",
+              "brief": "Google 正在为 Android 版 Gemini 应用调整界面，新的发光动效开始上线，同时“Temporary chat”临时聊天入口的位置也被重新安排。此次更新聚焦视觉层面的统一和交互入口的整理，目的是让临时对话模式更容易被发现和调用。报道标题显示，变化已开始面向 Android 用户推送，属于 Gemini 应用持续迭代中的一次界面更新，重点在于优化聊天体验和功能布局，而不是新增独立的底层模型能力。",
+              "source_url": "https://9to5google.com/2026/03/31/gemini-app-new-glow/",
               "source_name": "9to5Google",
-              "published_at": "2026-04-01T02:11:52+08:00"
+              "published_at": "2026-04-01T04:06:08+08:00"
             },
             {
-              "title": "Google 发布 Veo 3.1 Lite 视频生成模型",
-              "brief": "Google正式推出Veo 3.1 Lite视频生成模型，进一步巩固其在AI视频生成领域的布局。Veo 3.1 Lite是此前Veo系列的轻量化版本，在保持较好生成质量的同时降低了计算资源需求，使更多开发者和创作者能够使用视频生成功能。Google持续加码视频生成赛道，与OpenAI的Sora等竞品展开正面竞争。",
-              "source_url": "https://9to5google.com/2026/03/31/veo-3-1-lite/",
+              "title": "Nothing plans to release AI smart glasses next year after CEO Carl Pei changes mind",
+              "brief": "Nothing 原本考虑在明年推出一款 AI 智能眼镜，但 CEO Carl Pei 现已改变想法，公司不再按这一节奏推进。报道指出，这一决定意味着 Nothing 至少在短期内不会跟随当前智能眼镜热潮给出量产产品，而是重新评估相关方向。标题层面释放的信息很明确：公司内部路线出现调整，原本面向明年的 AI 眼镜计划被收回，Carl Pei 的态度变化直接影响了这一硬件项目的时间表与去留。",
+              "source_url": "https://9to5google.com/2026/03/31/nothing-plans-ai-smart-glasses/",
               "source_name": "9to5Google",
-              "published_at": "2026-04-01T01:28:19+08:00"
+              "published_at": "2026-04-01T03:50:20+08:00"
             },
             {
-              "title": "Google Home 更新支持西班牙语 Gemini 和智能家居控制优化",
-              "brief": "Google Home平台迎来一系列更新，其中包括Gemini助手新增西班牙语支持，以及智能家居控制体验的改进。这些更新是Google持续推进智能家居生态系统国际化的体现，西班牙语的加入使Gemini能够覆盖更多用户群体。智能家居控制的优化涉及设备联动和场景管理等方面的提升。",
-              "source_url": "https://9to5google.com/2026/03/31/google-homes-latest-updates-include-gemini-in-spanish-improved-smart-home-controls/",
+              "title": "Google Store Certified Refurbished adds Pixel 8a, expands to Amazon",
+              "brief": "Google 扩大了官方认证翻新手机计划，Pixel 8a 已加入 Google Store 的 Certified Refurbished 阵容，同时翻新机销售渠道也进一步扩展到 Amazon。这样一来，除官网之外，用户还可通过亚马逊购买部分官方翻新 Pixel 设备。报道强调，这次更新同时涉及机型扩容和渠道增加，两项变化都在围绕更低门槛销售旧款 Pixel 展开，让希望以更低价格购买 Google 手机的消费者有了更多正规来源和可选入口。",
+              "source_url": "https://9to5google.com/2026/03/31/pixel-certified-refurbished-amazon/",
               "source_name": "9to5Google",
-              "published_at": "2026-04-01T00:45:00+08:00"
+              "published_at": "2026-04-01T03:38:05+08:00"
             },
             {
-              "title": "YouTube 对话式 Ask 按钮开始向电视端应用推送",
-              "brief": "YouTube正在将其对话式Ask按钮推广到电视端应用，用户可在观看视频时通过该功能直接向AI提问获取相关信息。此前该功能已率先在移动端和网页端上线，电视端的加入让大屏用户也能享受到AI互动体验。这一功能基于Google的对话式AI技术，用户可针对视频内容进行实时问答。",
-              "source_url": "https://9to5google.com/2026/03/31/youtubes-ask-button-hits-tv-app/",
+              "title": "Quick Share’s little-known shortcut lets you share to another Android phone by tapping it",
+              "brief": "Quick Share 其实提供了一项不太被注意到的捷径：用户可通过贴近或轻触另一台 Android 手机，更快地把内容分享过去。报道将这一做法描述为隐藏较深的小技巧，核心是减少常规菜单选择步骤，让发送端和接收端更自然地建立分享动作。标题显示，这项能力并非新产品，而是现有 Quick Share 体系里容易被忽略的使用方式，重点在于提升面对面分享时的效率和便捷性。",
+              "source_url": "https://9to5google.com/2026/03/31/quick-share-tap-to-share-little-known-shortcut/",
               "source_name": "9to5Google",
-              "published_at": "2026-04-01T00:39:08+08:00"
+              "published_at": "2026-04-01T03:33:00+08:00"
+            },
+            {
+              "title": "Google Photos is losing some of its editing shortcuts to ‘reduce accidental triggers’",
+              "brief": "Google Photos 正在移除部分图片编辑快捷入口，原因是希望减少误触发情况。此次调整并非增加新工具，而是对现有编辑界面做减法，把一些容易误点的捷径收回，以降低用户在浏览照片时意外进入编辑动作的概率。报道标题表明，Google 将这一变化归因于交互层面的取舍：牺牲一部分直达效率，换取更少误操作和更稳定的日常使用体验，属于面向产品细节的界面优化。",
+              "source_url": "https://9to5google.com/2026/03/31/google-photos-loses-editing-shortcuts-to-reduce-accidental-triggers/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-01T02:45:00+08:00"
             }
           ]
         },
@@ -162,18 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "ExpressVPN 推出注重隐私的 AI 平台 ExpressAI",
-              "brief": "ExpressVPN宣布推出首款AI产品ExpressAI，主打隐私保护。该平台承诺用户输入的数据不会用于训练AI模型，也不会被人工审核。ExpressAI使用了包括OpenAI和Nvidia在内的五家公司的现成AI模型，而非自研。德国网络安全公司Cure53已对其进行了安全审计，认为其整体架构设计良好但仍需改进。ExpressAI作为捆绑包的一部分提供，月费20美元，同时包含ExpressVPN和密码管理器等产品。",
-              "source_url": "https://www.androidauthority.com/expressvpn-expressai-3653606/",
+              "title": "Deal frenzy: All Amazon Echo speakers are on sale (Last day!)",
+              "brief": "亚马逊在 Big Spring Sale 最后一天对多款 Echo 音箱降价，Echo Dot 第五代售价降至 39.99 美元，Echo Dot Max 为 74.99 美元，Echo Studio 为 189.99 美元。报道指出，这些优惠覆盖不同配色版本，活动将在当晚 11:59 PM PDT 结束。文章重点并非新品发布，而是提醒消费者在促销收尾阶段选购智能音箱，强调 Echo 系列原本定价已具竞争力，叠加本轮折扣后购买门槛进一步降低。",
+              "source_url": "https://www.androidauthority.com/amazon-echo-dot-5th-gen-dot-max-studio-deals-3653641/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-01T01:37:01+08:00"
+              "published_at": "2026-04-01T04:36:48+08:00"
             },
             {
-              "title": "Google Play 商店投屏类应用被曝充斥大量欺诈软件",
-              "brief": "一项调查报告显示，Google Play商店的投屏/屏幕镜像类别被少数开发者网络主导，这些网络通过虚假开发者账号运营超过280款应用，累计安装量达18亿次。这些应用不仅无法正常投屏，还会弹出无法关闭的广告、提供立即收费的免费试用，以及每周25.99美元的订阅。该调查由合法投屏应用LocalCast的开发者发起，他在发现自家应用上全是竞品广告后展开调查。Google已确认正在调查此事。",
-              "source_url": "https://www.androidauthority.com/google-play-shady-cast-to-tv-apps-3653542/",
+              "title": "Google will now sell you a refurbished Pixel 8a for $339",
+              "brief": "Google 宣布将 Pixel 8a 纳入官方翻新机销售名单，定价 339 美元，较该机最初 499 美元的售价低了 160 美元。除 Google Store 外，Google 也表示会通过 Amazon 销售翻新手机，扩大官方二手机的购买渠道。报道称，这意味着 Pixel 8a 与 Pixel 8、Pixel 7 Pro、Pixel 7、Pixel 7a 一起进入翻新阵容，为希望以更低预算入手 Pixel 设备的用户提供更多正规选择。",
+              "source_url": "https://www.androidauthority.com/google-pixel-8a-refurbs-3653720/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-01T01:25:31+08:00"
+              "published_at": "2026-04-01T04:32:22+08:00"
+            },
+            {
+              "title": "TikTok just slid a hidden game into your DMs",
+              "brief": "TikTok 在私信中悄悄加入了一款隐藏小游戏，支持单聊和群聊使用。用户只需发送一个表情符号并点击，就能直接进入游戏，在快速节奏里挑战好友成绩。报道提到，这是一款围绕跳跃玩法展开的轻量小游戏，整体设计延续了 TikTok 一贯强调即时上手和碎片化体验的产品风格。它并没有被单独放进游戏专区，而是藏在私信流程里，作为一项全球可用的彩蛋式功能上线。",
+              "source_url": "https://www.androidauthority.com/tiktok-easter-egg-hidden-game-dms-3653709/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T04:24:10+08:00"
+            },
+            {
+              "title": "Google introduces a new video generation model as OpenAI shutters Sora app",
+              "brief": "Google 推出了新的 AI 视频生成模型 Veo 3.1 Lite，面向希望在自家产品中集成视频生成能力的开发者。报道称，该模型主打成本与实用性平衡，720p 含音频视频生成的起步价格低至每秒 5 美分，同时 Veo 3.1 Fast 也将在下月降价。新模型既是 Google 持续投入视频生成领域的最新动作，也让开发者在 OpenAI 关闭 Sora 应用之际，多了一个可用于商业场景的付费视频生成方案。",
+              "source_url": "https://www.androidauthority.com/google-veo-3-1-lite-3653697/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T03:32:38+08:00"
+            },
+            {
+              "title": "It took a year, but YouTube for TV is finally getting this feature from the mobile app",
+              "brief": "YouTube 正在把对话式 AI 工具带到电视端应用，这项“Ask”功能此前只在移动端和网页端提供，经过一年后终于扩展到 TV App。报道提到，电视上的新入口会附带若干建议提问，帮助用户更快理解可提问的内容与方式。此次更新的重点是把已在其他平台上线的 AI 交互补齐到大屏端，而不是推出全新独占功能，意味着 YouTube 的多端体验正在继续向统一化靠拢。",
+              "source_url": "https://www.androidauthority.com/youtube-for-tv-conversational-ai-tool-3653619/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T03:24:28+08:00"
             }
           ]
         },
@@ -181,39 +209,39 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "Google 与 Steph Curry 合作预告新款健康可穿戴设备",
-              "brief": "NBA球星斯蒂芬库里在其Instagram上发布了一段15秒的视频预告，暗示一款与Google合作的新健康可穿戴设备即将亮相。视频中库里手腕上佩戴了一条灰橙色手带，形状类似Whoop手环，结尾出现Google标志和全新健康关系即将到来的字样。库里去年与Google签订了多年合作担任性能顾问。值得注意的是，Whoop同日宣布获得5.75亿美元融资，估值达100亿美元。Google表示更多细节将在近期公布。",
-              "source_url": "https://www.engadget.com/wearables/googles-performance-advisor-steph-curry-teases-probable-new-wearable-183612209.html",
+              "title": "Toyota's still trying to make hydrogen fuel cells happen",
+              "brief": "丰田将加入戴姆勒卡车与沃尔沃集团 2020 年共同成立的燃料电池合资公司 cellcentric，三方后续会围绕燃料电池单元的研发与生产展开合作。丰田社长佐藤恒治表示，希望与在商用领域经验深厚的伙伴共同推进“氢能社会”建设。报道显示，这项合作把丰田在乘用车领域超过 30 年的燃料电池积累，与欧洲商用车企业的产业化能力结合起来，继续押注氢燃料电池在重型运输等场景中的长期应用前景。",
+              "source_url": "https://www.engadget.com/transportation/toyotas-still-trying-to-make-hydrogen-fuel-cells-happen-202237728.html?src=rss",
               "source_name": "Engadget",
-              "published_at": "2026-04-01T02:36:12+08:00"
+              "published_at": "2026-04-01T04:22:37+08:00"
             },
             {
-              "title": "英国反垄断机构调查微软是否具有垄断地位",
-              "brief": "英国竞争与市场管理局宣布将对微软展开调查，评估其是否可被认定为具有战略市场地位。CMA表示对微软在云服务、生产力软件、Teams、Copilot以及Windows等领域涉嫌限制竞争存在重大关切。若获认定SMS资格，CMA将有权对微软采取行动，调查将于5月启动。此外CMA还在跟进2025年对微软和亚马逊的云市场调查，两家公司已就出口费用和互操作性达成协议，以降低英国客户使用多云服务的成本。",
-              "source_url": "https://www.engadget.com/big-tech/the-uks-antitrust-regulator-is-looking-into-microsofts-possible-monopoly-power-182221704.html",
+              "title": "Tesla's robotaxis are reportedly remotely driven by humans, sometimes",
+              "brief": "特斯拉在致美国参议员 Ed Markey 的信中承认，其机器人出租车在极少数情况下会由远程人工操作员临时接管驾驶。报道指出，其他自动驾驶公司通常只让人工协助车辆脱困，而特斯拉允许远程人员直接控制车辆，这种做法更少见。特斯拉将其解释为在其他干预手段用尽后的最终冗余措施。相关说法再次说明，所谓全自动运营背后仍保留人工兜底机制，且介入方式比竞争对手更深入。",
+              "source_url": "https://www.engadget.com/transportation/teslas-robotaxis-are-reportedly-remotely-driven-by-humans-sometimes-200639550.html?src=rss",
               "source_name": "Engadget",
-              "published_at": "2026-04-01T02:22:21+08:00"
+              "published_at": "2026-04-01T04:06:39+08:00"
             },
             {
-              "title": "Meta 将大幅减少用 PG-13 评级描述 Instagram 青少年账户",
-              "brief": "Meta宣布自4月15日起大幅减少在Instagram青少年账户功能中使用电影PG-13分级标准。此前美国电影协会向Meta发出停止侵权函，指控其声称Instagram青少年账户内容控制标准等同于PG-13评级是虚假和误导性的，可能损害MPA公共形象。Meta更新了相关博客文章，添加免责声明说明社交媒体与电影之间存在诸多差异，MPA并未对Instagram内容进行评级或背书。Meta此前以PG-13来类比青少年账户对露骨内容和不当语言的过滤效果。",
-              "source_url": "https://www.engadget.com/social-media/meta-will-substantially-reduce-describing-instagram-teen-accounts-as-pg-13-175912683.html",
+              "title": "TikTok adds in-app Cameo integration for creators",
+              "brief": "TikTok 与 Cameo 达成整合，创作者现在可以直接在 TikTok 视频中添加 Cameo 链接，粉丝无需离开应用就能发起个性化视频请求。对于尚未加入 Cameo 的 TikTok 创作者，新的流程也支持直接完成注册。报道提到，Cameo 过去主要依靠名人定制视频服务，如今正把 TikTok 创作者作为增长更快的人才类别之一。此次合作的重点是把视频定制请求前移到 TikTok 内部，缩短从内容观看到下单请求的路径。",
+              "source_url": "https://www.engadget.com/social-media/tiktok-adds-in-app-cameo-integration-for-creators-195411895.html?src=rss",
               "source_name": "Engadget",
-              "published_at": "2026-04-01T01:59:12+08:00"
+              "published_at": "2026-04-01T03:54:11+08:00"
             },
             {
-              "title": "超级马里奥动画重播画面异常，疑遭 AI 画质增强过度处理",
-              "brief": "美国广播频道MeTV Toons开始重播1989年经典动画《超级马里奥兄弟超级秀》，但观众发现画面质量异常。据Kotaku报道，这些剧集疑似经过了低质量AI超分辨率算法处理，导致画面过度平滑，角色外观与原版明显不同，标题卡甚至被错误识别为The Suele Mario Bros。此次重播可能借势即将上映的《超级马里奥银河电影》吸引关注。该动画原版仅播出一季共65集，以职业摔跤手Lou Albano饰演真人马里奥的片段闻名。",
-              "source_url": "https://www.engadget.com/entertainment/tv-movies/the-super-mario-bros-cartoon-is-back-but-looks-really-weird-thanks-to-ai-171536332.html",
+              "title": "A Palworld horror-themed dating sim spinoff is on the way",
+              "brief": "《幻兽帕鲁》开发商 Pocketpair 公布了一款名为《Palworld: More Than Just Pals》的衍生作，类型被描述为带有恐怖元素的恋爱模拟游戏。官方介绍称，故事发生在一所神秘学校中，玩家既可以与原作中的帕鲁发展关系，也可能面对更古怪甚至带有黑色幽默色彩的设定。报道特别提到，开发团队强调这不是愚人节玩笑，Steam 页面和系统需求也已上线，说明项目已进入正式公开阶段。",
+              "source_url": "https://www.engadget.com/gaming/a-palworld-horror-themed-dating-sim-spinoff-is-on-the-way-185429664.html?src=rss",
               "source_name": "Engadget",
-              "published_at": "2026-04-01T01:15:39+08:00"
+              "published_at": "2026-04-01T02:54:29+08:00"
             },
             {
-              "title": "DoorDash 与 Rivian 分拆公司 Also 合作开发自动驾驶配送",
-              "brief": "DoorDash宣布与Rivian分拆出来的微出行公司Also达成战略合作，将投资Also以加速自动驾驶配送的规模化部署。Also的首款商用产品是3500美元的TM-B电动自行车，而更适合配送场景的TM-Q四轮电动车设计用于在自行车道中运载货物。此前亚马逊已在去年10月同意采购数千辆TM-Q用于最后一公里配送。作为合作的一部分，DoorDash联合创始人Stanley Tang将加入Also董事会。据TechCrunch报道，此次合作使Also估值突破10亿美元。",
-              "source_url": "https://www.engadget.com/transportation/evs/doordash-partners-with-rivian-spinoff-also-for-autonomous-delivery-vehicles-163240124.html",
+              "title": "Iran threatens imminent attacks on US tech companies in the Middle East",
+              "brief": "伊朗伊斯兰革命卫队威胁将打击美国科技公司在中东的运营设施，并要求 18 家企业的员工立即离开办公地点，附近居民也应尽快撤离。报道点名的企业包括苹果、谷歌、Meta、英伟达、微软、甲骨文、特斯拉、惠普、英特尔、戴尔、思科和 IBM 等。消息显示，在地区冲突背景下，科技企业及其数据中心、办公设施正越来越多被纳入安全风险范围，中东高科技基础设施面临的外部威胁明显上升。",
+              "source_url": "https://www.engadget.com/big-tech/iran-threatens-imminent-attacks-on-us-tech-companies-in-the-middle-east-184841155.html?src=rss",
               "source_name": "Engadget",
-              "published_at": "2026-04-01T00:32:40+08:00"
+              "published_at": "2026-04-01T02:48:41+08:00"
             }
           ]
         },
@@ -240,6 +268,20 @@
               "source_url": "https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability",
               "source_name": "The Verge",
               "published_at": "2026-04-01T01:36:22+08:00"
+            },
+            {
+              "title": "Samsung’s new app claims to alleviate motion sickness using sound",
+              "brief": "三星推出了一款声称可缓解晕动症的新应用，核心做法是在约 60 秒内播放 100Hz 的正弦波音调。报道援引相关说法称，这种声音干预有望把晕动症症状的缓解效果延续到两小时左右。文章重点围绕应用提出的使用方式和宣称效果展开，强调它试图用听觉刺激而非药物或实体设备来减轻乘车、乘船等场景中的不适感，属于三星在健康辅助方向上的一次较为特别的软件尝试。",
+              "source_url": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T15:56:26-04:00"
+            },
+            {
+              "title": "Anker&#8217;s power bank with built-in cables is one of my favorite gadgets, and it&#8217;s cheaper than usual",
+              "brief": "The Verge 推荐的一款 Anker 自带线移动电源目前售价低于平时。文章称，这款产品在实际测试中可为 M1 版 MacBook Air、iPhone 16 和多台电子阅读器快速充电，因此被作者视为日常最常用的随身配件之一。报道重点不是发布新品，而是围绕现有产品的使用体验和当前折扣做出推荐，强调自带线设计减少额外携带充电线的麻烦，也让它在多设备出行场景中更方便。",
+              "source_url": "https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T15:36:35-04:00"
             }
           ]
         }
@@ -292,45 +334,59 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "武汉数十辆无人驾驶出租车集体故障趴窝，已致多起事故",
-              "brief": "武汉多辆萝卜快跑无人驾驶出租车在三环线上集体故障趴窝，导致多起追尾事故并造成数公里交通堵塞。有车主行车记录仪显示，至少3辆萝卜快跑停留在快车道上，其中一辆被后方车辆追尾。据当地交警透露，此次故障涉及约八十到一百台车辆，系萝卜快跑系统问题，乘客虽可按按钮开门但无法在环线上下车。交警表示当天救援了大量被困乘客。截至发稿，萝卜快跑方面尚未对此事做出回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555998.htm",
+              "title": "苹果50周年：向员工发放纪念礼品 计划在Apple Park举办收官演唱会",
+              "brief": "苹果为庆祝公司成立 50 周年，向员工准备了纪念 T 恤、徽章和限量海报，整套礼品围绕彩虹涂鸦风周年标识设计，并开放至 4 月 30 日领取。报道还梳理了苹果 3 月以来在纽约、成都、伦敦、温哥华和悉尼等地举行的演出、灯光秀和 Today at Apple 主题活动。按照安排，苹果还将在 Apple Park 为员工举办一场压轴演出，作为这轮全球 50 周年庆祝活动的收尾。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556010.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T01:25:54+08:00"
+              "published_at": "2026-04-01T03:46:10+08:00"
             },
             {
-              "title": "改进版Siri据称将在iOS 27中支持单次处理多个指令",
-              "brief": "消息称苹果正在为Siri开发更彻底的升级版本，计划在iOS 27、macOS 27和iPadOS 27中支持一句话同时处理多个任务，例如先设定计时器再查询天气。与当前Siri只能逐项执行请求不同，新版将先理解整句语义，再依次完成对应操作。知情人士称该功能目前仍处于内部测试阶段，可能会在2026年WWDC上正式公布，但不一定在系统首发时就完全开放，而是以后续更新形式逐步上线。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555996.htm",
+              "title": "伊朗威胁将在中东打击多家美国科技巨头的资产",
+              "brief": "伊朗伊斯兰革命卫队表示，将从周三晚间开始打击多家美国科技巨头在中东的资产，并要求相关企业员工立即撤离办公地点。声明涉及 Meta、英伟达、甲骨文、特斯拉、惠普、英特尔、IBM 等公司，唯一被提及的非美国企业是总部位于阿联酋的 G42。报道还回顾称，伊朗今年 3 月曾以无人机袭击阿联酋和巴林的亚马逊数据中心，显示科技基础设施正在成为地区冲突中的高风险目标。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556008.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T00:52:09+08:00"
+              "published_at": "2026-04-01T02:58:49+08:00"
             },
             {
-              "title": "巴菲特表示即便爱泼斯坦丑闻曝光，仍不后悔向盖茨基金会捐款",
-              "brief": "巴菲特表示，尽管爱泼斯坦相关文件曝光后牵出盖茨与其往来内容，他仍不后悔向盖茨基金会累计捐赠约360亿美元，并称自己从未见过爱泼斯坦，也未与其有过联系。巴菲特透露，在事情澄清之前，他没有与盖茨讨论这起丑闻，部分原因是自己不想被卷入宣誓作证。盖茨则已就与爱泼斯坦的关系向基金会员工道歉，并坚决否认有关个人不当行为的指控。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555994.htm",
+              "title": "Google Veo 3.1 Lite视频模型发布",
+              "brief": "Google 发布 Veo 3.1 Lite 视频模型，主打更低成本的大规模视频生成。该模型支持文本生成视频和图像生成视频，可输出 720p 与 1080p 画质，并兼容 16:9 横屏与 9:16 竖屏两种常见比例，生成速度与 Veo 3.1 Fast 相同。开发者可选择 4 秒、6 秒或 8 秒视频时长，费用随时长变化。Google 表示，新模型将从当日起登陆 Gemini API 和 Google AI Studio，继续降低视频生成能力的接入门槛。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556006.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T00:32:47+08:00"
+              "published_at": "2026-04-01T02:58:09+08:00"
             },
             {
-              "title": "iPhone 13半价换电池活动遭吐槽：预约成功到店却无货",
-              "brief": "多位网友反映，参与iPhone 13半价换电池活动时，虽然连续多周卡点抢到预约名额，但到店后仍被告知电池缺货，只能登记等待后续到货再排单处理。消费者质疑预约系统与库存管理脱节，导致花费精力抢到的预约号变成“空头支票”。授权店方面解释称，目前iPhone 13全系电池供应紧张，预约由门店维护，而配件发货由上游控制，信息不同步才造成了预约成功却无法更换的情况。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555992.htm",
+              "title": "NASA Artemis II载人登月发射过程将制作为Apple Vision Pro沉浸式视频",
+              "brief": "NASA 阿耳忒弥斯 II 载人绕月任务的发射过程将被制作成面向 Apple Vision Pro 的沉浸式视频。负责拍摄的 Cosmic Perspective 已在发射台内安装 Blackmagic 沉浸式摄像机，后续还会增加更多机位。报道指出，阿耳忒弥斯 II 是阿耳忒弥斯计划首次载人飞行，任务周期约 10 天，具有强烈象征意义。采用 180 度立体视频和空间音频格式后，观众将在 Vision Pro 中更直接感受火箭升空时的推力、火光与现场氛围。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1556004.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T00:22:20+08:00"
+              "published_at": "2026-04-01T02:54:29+08:00"
             },
             {
-              "title": "苹果专利显示未来iPhone或可通过呼气检测高胆固醇等健康风险",
-              "brief": "苹果最新获批专利显示，未来iPhone等设备可能内置无吹嘴呼气传感系统，用于检测与糖尿病、高胆固醇等代谢异常相关的生物标志物。方案通过红外光束照射呼出气体，再由传感器识别目标分子的变化，并结合数据库进行异常比对，必要时向用户发出健康提醒。专利还提到可结合可见光和红外摄像头测量用户与传感窗口的距离，自动校准检测过程。这一功能目前仍停留在专利阶段。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555990.htm",
+              "title": "苹果三款老设备被列入“过时”与“淘汰”名单",
+              "brief": "苹果更新了产品支持名单，将 2017 款 MacBook Air 列为“过时产品”，并把所有版本的 iPad mini 4 以及 32GB 版 Apple TV HD 列入“淘汰产品”。按照苹果定义，停售超过 5 年但不到 7 年的设备属于“过时”，仍可能获得有限维修支持；停售超过 7 年的设备则进入“淘汰”阶段，不再提供官方硬件维修或服务。此次调整意味着这三款老设备的售后保障进一步收紧。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556002.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T00:21:18+08:00"
+              "published_at": "2026-04-01T02:52:41+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Games Workshop Reveals First Ever Official Artwork of 'Post-Ascension' Perturabo in the 'Modern' Warhammer 40,000 Universe — and He's Absolutely Massive",
+              "brief": "Games Workshop 首次公开《战锤 40K》现代时间线中“升魔后”佩图拉博的官方形象设定图，这幅插画来自即将推出的《Eye of Terror: Reign of Iron》。报道回顾了角色背景：这位帝皇之子在荷鲁斯叛乱后退入恐惧之眼，成为混沌恶魔王子，并在一万年间经营自己的恶魔世界。新图像的公布意味着这一长期只存在于设定描述中的形态终于得到正式视觉呈现，也为新书揭示其针对帝国的新计划做铺垫。",
+              "source_url": "https://www.ign.com/articles/games-workshop-reveals-first-ever-official-artwork-of-post-ascension-perturabo-in-the-modern-warhammer-40000-universe-and-hes-absolutely-massive",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T01:52:25+08:00"
+            },
+            {
+              "title": "The Odyssey, Spider-Man: Brand New Day, and Dune: Part Three Star Zendaya Reveals She May 'Go Into Hiding' After This Year So People Don't Get 'Sick' of Her",
+              "brief": "赞达亚在接受采访时表示，担心今年作品集中上映后观众会“看腻”自己，因此打算在这一轮宣传与上映结束后暂时淡出公众视线。报道提到，她今年将接连带来《The Drama》以及《亢奋》第三季，后续还涉及《奥德赛》《蜘蛛侠：Brand New Day》和《沙丘：第三部》等项目。她的原话强调，对外界支持心怀感激，但也希望在高曝光阶段之后短暂“躲起来”，以免持续刷屏带来审美疲劳。",
+              "source_url": "https://www.ign.com/articles/the-odyssey-spider-man-brand-new-day-and-dune-part-three-star-zendaya-reveals-she-may-go-into-hiding-after-this-year-so-people-dont-get-sick-of-her",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T00:41:38+08:00"
+            },
             {
               "title": "Supergirl 新预告大量展示 Jason Momoa 饰演的 Lobo",
               "brief": "DC新片《Supergirl》发布全新预告片，大量展示了Jason Momoa饰演的外星佣兵Lobo。预告中Lobo驾驶太空摩托Spacehog制造混乱，并与Supergirl联手在酒吧中对抗反派。Momoa此前曾多次表示Lobo是他最想扮演的漫画角色。影片由Milly Alcock主演Supergirl，Matthias Schoenaerts饰演反派Krem，剧情围绕Supergirl拯救中毒的超级狗Krypto展开。该片是DC宇宙重启计划的重要组成部分。",
@@ -339,11 +395,18 @@
               "published_at": "2026-04-01T00:29:15+08:00"
             },
             {
-              "title": "宜家与宝可梦 Pokopia 联动，推出线上岛屿和线下活动",
-              "brief": "任天堂Switch 2生活模拟游戏《宝可梦Pokopia》宣布与宜家展开跨界联动。从4月1日起，日本多家宜家门店将设置Pokopia主题打卡点，包括集章活动、贴纸和主题餐食。线上方面，玩家可访问游戏内的IKEA岛，该岛由宜家员工搭建，以皮卡丘和卡比兽为主题建筑装饰。Pokopia销量已突破220万份，目前正举办Hoppip活动。此次联动将持续至6月30日。",
-              "source_url": "https://www.ign.com/articles/theres-an-ikea-crossover-coming-to-pokemon-pokopia",
+              "title": "IGN Live 2026: Tickets Now on Sale",
+              "brief": "IGN 宣布 2026 年 IGN Live 门票正式开售，活动将于 6 月 6 日至 7 日在洛杉矶市中心的 Magic Box @ The Reef 举行。早鸟票单日 15 美元、周末套票 30 美元。报道介绍，本届活动将包含名人访谈、舞台节目、可上手试玩的游戏、电影与电视内容展示、周边商品和大量赠品等，同时全球观众也可通过 IGN 各平台观看重点环节直播。整篇内容主要是对线下活动时间、地点、票价和现场安排的集中说明。",
+              "source_url": "https://www.ign.com/articles/ign-live-2026-tickets-now-on-sale",
               "source_name": "IGN",
-              "published_at": "2026-03-31T23:05:03+08:00"
+              "published_at": "2026-04-01T00:00:22+08:00"
+            },
+            {
+              "title": "Ed Sheeran Turned Down Fortnite Concert, Collaborated With Pokémon Instead",
+              "brief": "Ed Sheeran 回忆曾被管理团队询问是否愿意像 Travis Scott 一样在《堡垒之夜》中举办合作演出，但他当时拒绝了，因为自己并不玩这款游戏。他表示，只有真正会使用或喜欢的产品，才愿意把自己的名字与之放在一起。报道进一步提到，正因为没有接下《堡垒之夜》合作，Sheeran 后来转而与自己更熟悉的《宝可梦》展开联动，并在 2022 年为歌曲《Celestial》推出了带有宝可梦元素的音乐视频。",
+              "source_url": "https://www.ign.com/articles/ed-sheeran-turned-down-fortnite-concert-collaborated-with-pokemon-instead",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T23:31:47+08:00"
             }
           ]
         },
@@ -370,6 +433,20 @@
               "source_url": "https://36kr.com/newsflashes/3746848980763143",
               "source_name": "36氪",
               "published_at": "2026-03-31T20:51:52+08:00"
+            },
+            {
+              "title": "宁德时代：控股股东拟无偿捐赠500万股公司股份",
+              "brief": "宁德时代公告称，控股股东厦门瑞庭投资有限公司已与上海交通大学教育发展基金会签订捐赠协议，拟无偿捐赠所持 500 万股公司 A 股无限售流通股，占总股本约 0.11%。公告说明，这部分股份未来产生的全部收益及所得资金都将注入“曾毓群教育发展基金”，用于支持上海交通大学教育事业发展。此次安排由控股股东发起，重点在于以股权收益持续支持高校教育投入，而不是上市公司层面的经营交易。",
+              "source_url": "https://36kr.com/newsflashes/3746857494086150?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 21:00:32  +0800"
+            },
+            {
+              "title": "德明利：预计一季度净利润31.5亿元–36.5亿元",
+              "brief": "德明利预计 2026 年第一季度归属于上市公司股东的净利润为 31.5 亿元至 36.5 亿元，而上年同期为亏损 6908.77 万元。公告释放的信息非常直接：公司一季度业绩同比出现明显反转，并预计实现大幅盈利。报道没有展开更多业务层面的解释，核心内容集中在业绩预告本身，即净利润区间和与去年同期亏损状态的鲜明对比，这也是投资者最关注的关键信息。",
+              "source_url": "https://36kr.com/newsflashes/3746855888978436?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-03-31 20:58:54  +0800"
             }
           ]
         },
@@ -403,6 +480,13 @@
               "source_url": "https://www.ithome.com/0/934/689.htm",
               "source_name": "IT之家",
               "published_at": "2026-03-31T22:52:01+08:00"
+            },
+            {
+              "title": "《幻兽♡帕鲁》恋爱模拟游戏最新宣传片公布：支持中文，发售日未定",
+              "brief": "Pocketpair 公布了《幻兽♡帕鲁》恋爱模拟衍生作的新宣传片，官方确认游戏支持中文，但暂未公布发售日期。宣传内容中，Pocketpair CEO 沟部拓郎以及发行负责人和社区经理 Bucky 均有出镜。官方表示，这并不是一款普通校园恋爱模拟游戏，作品还将加入恐怖、解谜和时空轮回等元素。结合新预告来看，这款以《幻兽帕鲁》世界观延展出的衍生项目正以更混合化的玩法与叙事方向推进。",
+              "source_url": "https://www.ithome.com/0/934/688.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-03-31T22:36:15+08:00"
             }
           ]
         }
