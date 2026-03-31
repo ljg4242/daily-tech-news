@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T00:57:59.314557+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": []
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "Claude Code源码因Source Map打包失误大规模泄露",
+              "brief": "Anthropic因发布流程失误，在Claude Code最新版本中误打包完整Source Map，导致约1900个TypeScript源文件、超过51.2万行未经混淆代码被公开。泄露内容不涉及模型权重、训练数据或后端服务，但暴露了产品内部机制，包括信息收集策略、部分账号风控特征以及名为“Undercover Mode”的内部模式。该模式会在员工向公开仓库提交代码时隐藏AI身份并移除相关标记。事件迅速引发开发者社区围观和镜像传播。",
+              "source_url": "https://www.landiannews.com/archives/112422.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T21:58:05+08:00"
+            },
+            {
+              "title": "Arch Linux发布全新TUI安装器Archinstall 4.0",
+              "brief": "Arch Linux团队发布Archinstall 4.0安装程序，最大变化是采用基于Textual框架的TUI文本界面，取代旧有curses方案，带来更现代化的终端安装体验，并降低菜单维护复杂度。新版本还增加了虚拟机启动说明、支持firewalld区域防火墙管理、GRUB UKI与全盘LUKS参数处理、加利西亚语支持，并移除了NTFS根文件系统支持。该版本将成为2026年4月1日ISO快照中的默认安装器。",
+              "source_url": "https://www.landiannews.com/archives/112421.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T16:18:21+08:00"
+            },
+            {
+              "title": "苹果拟支持12个月承诺制的App内购分期付款",
+              "brief": "苹果在iOS 26.5 Beta 1开发者更新日志中提到，将允许开发者配置“按月付款但承诺订阅12个月”的应用内购方案。用户可以像月付一样分期支付，但如果提前取消，可能需承担额外费用。文章指出，这类机制与Adobe部分订阅模式相似，低月费背后实际绑定全年承诺，因此如果用户中途退订，成本可能显著上升。最终是否采用此类方案仍取决于开发者配置，用户也需注意阅读订阅条款。",
+              "source_url": "https://www.landiannews.com/archives/112420.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T16:00:22+08:00"
+            },
+            {
+              "title": "Qwen3.6 Plus预览版在OpenRouter免费开放，支持1M上下文",
+              "brief": "阿里巴巴千问团队已在OpenRouter提前上线Qwen3.6 Plus预览版，所有用户均可免费调用，无论账户是否充值。该模型支持100万上下文窗口和最高6.55万输出，OpenRouter页面显示其平均响应时间约1.22秒、吞吐量每秒55个Token。文章指出，模型采用混合架构，提升了效率和可扩展性，可被配置到OpenClaw、OpenCode等智能体中使用。但调用时输入输出等数据会被收集用于改进模型，不适合敏感环境。",
+              "source_url": "https://www.landiannews.com/archives/112419.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T15:29:06+08:00"
+            },
+            {
+              "title": "蓝点网提醒OpenClaw用户排查Axios供应链投毒风险",
+              "brief": "蓝点网发布安全提醒称，因Axios恶意版本供应链攻击，使用Axios的OpenClaw项目也可能受影响，尤其是在3月31日前后执行过安装或更新操作的环境。文章建议用户按照给出的排查命令检查axios可疑版本、恶意依赖plain-crypto-js以及macOS、Linux和Windows上的RAT落地痕迹。如果检测到风险特征，应立即轮换各类密钥，并尽可能重装受影响环境，以降低潜在入侵后果。",
+              "source_url": "https://www.landiannews.com/archives/112418.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-03-31T15:05:16+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "改进版Siri据称将在iOS 27中支持单次处理多个指令",
+              "brief": "消息称苹果正在为Siri开发更彻底的升级版本，计划在iOS 27、macOS 27和iPadOS 27中支持一句话同时处理多个任务，例如先设定计时器再查询天气。与当前Siri只能逐项执行请求不同，新版将先理解整句语义，再依次完成对应操作。知情人士称该功能目前仍处于内部测试阶段，可能会在2026年WWDC上正式公布，但不一定在系统首发时就完全开放，而是以后续更新形式逐步上线。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555996.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-01T00:52:09+08:00"
+            },
+            {
+              "title": "巴菲特表示即便爱泼斯坦丑闻曝光，仍不后悔向盖茨基金会捐款",
+              "brief": "巴菲特表示，尽管爱泼斯坦相关文件曝光后牵出盖茨与其往来内容，他仍不后悔向盖茨基金会累计捐赠约360亿美元，并称自己从未见过爱泼斯坦，也未与其有过联系。巴菲特透露，在事情澄清之前，他没有与盖茨讨论这起丑闻，部分原因是自己不想被卷入宣誓作证。盖茨则已就与爱泼斯坦的关系向基金会员工道歉，并坚决否认有关个人不当行为的指控。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555994.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-01T00:32:47+08:00"
+            },
+            {
+              "title": "iPhone 13半价换电池活动遭吐槽：预约成功到店却无货",
+              "brief": "多位网友反映，参与iPhone 13半价换电池活动时，虽然连续多周卡点抢到预约名额，但到店后仍被告知电池缺货，只能登记等待后续到货再排单处理。消费者质疑预约系统与库存管理脱节，导致花费精力抢到的预约号变成“空头支票”。授权店方面解释称，目前iPhone 13全系电池供应紧张，预约由门店维护，而配件发货由上游控制，信息不同步才造成了预约成功却无法更换的情况。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555992.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-01T00:22:20+08:00"
+            },
+            {
+              "title": "苹果专利显示未来iPhone或可通过呼气检测高胆固醇等健康风险",
+              "brief": "苹果最新获批专利显示，未来iPhone等设备可能内置无吹嘴呼气传感系统，用于检测与糖尿病、高胆固醇等代谢异常相关的生物标志物。方案通过红外光束照射呼出气体，再由传感器识别目标分子的变化，并结合数据库进行异常比对，必要时向用户发出健康提醒。专利还提到可结合可见光和红外摄像头测量用户与传感窗口的距离，自动校准检测过程。这一功能目前仍停留在专利阶段。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555990.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-01T00:21:18+08:00"
+            },
+            {
+              "title": "Claude Code源码疑因npm包内source map文件泄露",
+              "brief": "报道称，Anthropic发布到npm的@anthropic-ai/claude-code包中误包含source map文件，导致外界可从编译后的JavaScript直接回溯到原始TypeScript源码。泄露内容涵盖约1900个文件、超过51.2万行代码，涉及核心API引擎、工具权限模型、命令系统、多智能体协作及尚未公开的功能开关。文章指出，这并非Anthropic首次出现类似问题，事件可能带来知识产权与安全风险，已集成Claude Code的组织应关注官方后续修补通知。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555988.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-03-31T23:55:45+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
