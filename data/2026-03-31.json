@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T16:52:01.514602+08:00",
+  "generated_at": "2026-03-31T18:38:15.509935+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Ollama 借助 Apple MLX 框架大幅提速，Mac 本地 AI 推理性能翻倍",
+              "brief": "本地大语言模型运行工具 Ollama 发布更新，正式集成苹果机器学习框架 MLX，显著提升在 Apple Silicon Mac 上的推理性能。在搭载 M5、M5 Pro 及 M5 Max 芯片的设备上，得益于 GPU Neural 加速器的加持，首 token 生成时间和整体推理速度均获得大幅提升。以 Qwen3.5-35B-A3B 模型为例，Ollama 0.19 版本的预填充速度达到每秒 1810 个 token，相比上一代的 1154 提升约 1.6 倍，而生成速度更是从每秒 58 个 token 翻倍至 112 个。新版本还优化了缓存机制，支持跨对话复用缓存，降低内存占用，并引入 NVFP4 格式以在保持精度的同时减少带宽和存储需求。",
+              "source_url": "https://www.macrumors.com/2026/03/31/ollama-now-runs-faster-apple-silicon-macs/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T18:22:24+08:00"
+            },
             {
               "title": "Apple Leans Into Little Finder Guy With New TikTok Videos",
               "brief": "苹果继续在 TikTok 推出“Little Finder Guy”系列短视频，为品牌和硬件产品做更年轻化的传播包装。新内容依旧延续此前怪诞、轻量、强梗感的短视频风格，明显瞄准 Gen Z 用户，重点不是介绍参数，而是借 Finder 图标人格化形象提升记忆点、讨论度和平台触达效果。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/03/30/apple-pulls-vibe-coding-app/",
               "source_name": "MacRumors",
               "published_at": "2026-03-31T05:33:02+08:00"
-            },
-            {
-              "title": "Apple Lays Groundwork for Ads in Maps With iOS 26.5",
-              "brief": "苹果在 iOS 26.5 中为 Maps 广告加入更多底层准备代码，意味着地图内商业推广离正式上线又近一步。现阶段广告功能尚未完全开放，但系统已经出现基于大致位置、搜索关键词和地图浏览视图展示本地广告的相关描述。苹果显然在为地图服务引入新的变现方式预做技术与产品铺垫。",
-              "source_url": "https://www.macrumors.com/2026/03/30/apple-ios-26-5-maps-ads-groundwork/",
-              "source_name": "MacRumors",
-              "published_at": "2026-03-31T05:05:34+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch",
-              "brief": "三星 Galaxy S26 系列虽然零售版起步存储已提升到 256GB，但英国市场近期出现了一款 128GB 的 Galaxy S26 Enterprise Edition。该机面向企业客户而非普通零售渠道，售价约为 871 英镑，明显低于当地 256GB 标准版约 1160 英镑的价格，显示三星仍在特定商用产品线中保留更低容量、更低门槛的配置选择。",
-              "source_url": "https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/",
+              "title": "Proton 推出全加密办公套件 Proton Workspace，对标 Google Workspace",
+              "brief": "瑞士隐私软件公司 Proton 将旗下所有产品打包成统一的 Proton Workspace 办公套件，涵盖加密邮箱、日历、云盘、文档、电子表格、密码管理器 Proton Pass、AI 助手 Lumo，以及全新推出的视频通话工具 Proton Meet。Proton Meet 基于开源 MLS 协议实现默认端到端加密，用户无需注册账号即可生成链接发起或加入通话，这与 Zoom、Google Meet 等需要登录且数据可能被用于 AI 训练的平台形成鲜明对比。Proton 邮箱目前拥有超过一亿用户，此次整合旨在为企业和个人提供一站式隐私办公方案，对标 Google Workspace 和 Microsoft 365，但在数据安全层面提出了更高标准。",
+              "source_url": "https://www.androidauthority.com/proton-workspace-and-meet-launched-3653420/",
               "source_name": "Android Authority",
-              "published_at": "2026-03-31T16:10:35+08:00"
+              "published_at": "2026-03-31T18:00:25+08:00"
             },
             {
-              "title": "This messaging app wins on every front, except the one that matters",
-              "brief": "Android Authority 对 Signal、WhatsApp 与 Viber 进行体验比较，认为 Signal 在界面简洁、隐私设计和整体使用逻辑上更克制，没有像不少即时通讯应用那样不断堆叠花哨功能。不过文章也指出，Signal 最大的问题仍是用户规模和关系链不足。即便产品完成度更高，若亲友与工作联系人没有迁移过去，它依然很难取代主流通讯工具的位置。",
-              "source_url": "https://www.androidauthority.com/signal-vs-viber-vs-whatsapp-3653107/",
+              "title": "2026 年仍值得入手的四款旧款 Google Pixel 手机",
+              "brief": "2026 年手机市场受 RAM 短缺影响，新机型普遍面临涨价甚至降配的局面。在此背景下，旧款 Pixel 手机成为性价比之选。Google 提供七年系统更新支持，两到三年前的 Pixel 机型仍有充足的软件生命周期。此外，Google 持续通过 Pixel Drop 为旧机型推送新功能，如三月更新已将通知摘要和诈骗检测扩展至 Pixel 9。Pixel 9 还获得了 AirDrop-Quick Share 互传支持，成为少数能与苹果设备直接传输文件的安卓手机。对于发烧友而言，旧款 Pixel 还可参与 Android 17 测试版体验。",
+              "source_url": "https://www.androidauthority.com/best-worst-older-pixel-phones-you-can-still-buy-3653121/",
               "source_name": "Android Authority",
-              "published_at": "2026-03-31T16:00:18+08:00"
+              "published_at": "2026-03-31T18:00:04+08:00"
             },
             {
-              "title": "Walmart’s next Onn device could replace your ageing Chromecast with Google TV",
-              "brief": "沃尔玛下一款 Onn 流媒体设备信息曝光，新品可能成为旧款 Chromecast with Google TV 的平价替代。泄露显示，这款 4K Streaming Stick 将支持 4K 输出，采用 Realtek 芯片，规格上已追平甚至超过部分旧机型。对于仍在用老款 Google TV 设备的用户来说，这可能是一条成本更低的升级路径。",
-              "source_url": "https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/",
+              "title": "Nintendo 3DS 模拟器 Tanuki3DS 发布重大更新，新增摄像头和麦克风模拟",
+              "brief": "桌面端 Nintendo 3DS 模拟器 Tanuki3DS 发布 0.5 版本更新，带来多项重要功能改进。最值得关注的新增功能是摄像头和麦克风模拟，使得《Spirit Camera》《Face Raiders》《任天狗+猫》等依赖摄像头和麦克风输入的游戏得以正常运行。此外，本次更新在 GPU 模拟方面也取得进展，针对光照、法线贴图、阴影贴图和雾效进行了优化，修复了部分游戏的图形显示问题。其他更新内容包括键盘重新映射、全新游戏列表界面以及体感控制修复。Tanuki3DS 并非基于 Citra 等现有模拟器开发，目前支持 Windows、macOS 和 Linux 平台，暂未推出安卓版本。",
+              "source_url": "https://www.androidauthority.com/tanuki3ds-3ds-emulator-update-3653462/",
               "source_name": "Android Authority",
-              "published_at": "2026-03-31T14:16:17+08:00"
+              "published_at": "2026-03-31T17:52:49+08:00"
             },
             {
-              "title": "Google just made wireless emergency alerts way more useful on Android",
-              "brief": "谷歌通过 Google Play services v26.12 为 Android 无线紧急警报加入地图视图，让警报信息不再只是文字。新功能会直接显示受影响区域和用户当前位置，帮助人们更快判断风险是否波及自己。虽然推送到各设备还需要时间，但这项更新明显提升了紧急警报在真实灾害场景中的可读性和实用性。",
-              "source_url": "https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/",
+              "title": "仅花 50 美元，作者将旧款 Pixel 平板改造成安卓桌面电脑",
+              "brief": "随着 Android 16 QPR3 推出桌面窗口化功能，Pixel 平板获得了类似桌面 PC 的使用体验。作者通过购置罗技 Pebble Keys K380s 蓝牙键盘和蓝牙鼠标，总花费不到 50 美元，成功将闲置的 Pixel 平板变身为便携式安卓电脑。Android 16 对外接键盘的支持相当出色，键盘自带的 Home、多任务和返回按键可直接与安卓导航系统配合，无需频繁触碰屏幕。结合可自定义的快捷键和改进的鼠标支持，Pixel 平板已能实现流畅的多任务办公体验。这一尝试也被视为 Google 未来 Aluminium OS 桌面操作系统的一次预演。",
+              "source_url": "https://www.androidauthority.com/i-transformed-old-pixel-tablet-into-brand-new-android-pc-3652335/",
               "source_name": "Android Authority",
-              "published_at": "2026-03-31T13:11:04+08:00"
+              "published_at": "2026-03-31T17:30:55+08:00"
             },
             {
-              "title": "Android Auto bug makes your signal bars vanish, but no need to panic just yet",
-              "brief": "Android Auto 最近出现一个界面 bug，导致部分用户车机上的信号强度图标消失。不过现有反馈显示，这更像是显示层面的异常，实际蜂窝网络连接和数据传输并未受到明显影响。报道推测问题可能与谷歌测试新的状态栏显示方式有关，短期内遇到这一情况的用户暂时不必过度紧张。",
-              "source_url": "https://www.androidauthority.com/android-auto-signal-strength-bug-3653399/",
+              "title": "三星 Galaxy S26 Ultra 评测：重回亮点但仍有不足",
+              "brief": "三星 Galaxy S26 Ultra 正式发布，起售价 1299.99 美元，评测认为这款旗舰机找回了一些久违的惊喜感。硬件方面，新机采用了改进的外观设计，更加精致耐用，同时引入了创新的隐私显示屏功能。One UI 8.5 系统带来了更多自定义选项和 Galaxy AI 功能。相机依然保持多焦段灵活性，充电速度也有所提升，并提供业界领先的软件更新周期。不过批评意见包括：机身偏大难以单手操作、电池续航表现不及竞品、AI 变焦画质仍有损失，以及缺乏内置 Qi2.2 磁吸功能。总体而言，S26 Ultra 在前两代基础上有所进步，但离真正的颠覆性升级还有距离。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-review-3652705/",
               "source_name": "Android Authority",
-              "published_at": "2026-03-31T12:14:13+08:00"
+              "published_at": "2026-03-31T17:15:42+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "AT&T 推出 OneConnect 订阅服务，家庭宽带和无线通信合一计费",
+              "brief": "美国电信巨头 AT&T 推出全新订阅服务 AT&T OneConnect，将家庭宽带和无线通信合并为单一月付套餐，涵盖税费和设备费用。该服务仅面向新用户提供，基础档位为个人套餐，包含一条语音线路、最多三个数据设备和千兆宽带，月费 90 美元。双人套餐月费 120 美元，含两条语音线路和最多六个数据设备；家庭套餐则支持最多十条语音线路和十个数据设备，月费 225 美元。所有套餐均提供千兆宽带入户。此举旨在简化用户账单体验，将原本需要分别支付的手机话费和家庭网络费用整合为一笔支出。",
+              "source_url": "https://www.engadget.com/mobile/att-now-offers-a-single-subscription-for-both-wireless-service-and-home-internet-091501503.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T18:15:01+08:00"
+            },
             {
               "title": "BOXROOM lets you build a cozy game room for your Steam library",
               "brief": "独立项目 BOXROOM 把“整理 Steam 游戏库”做成了一种更具氛围感的展示玩法。玩家可以围绕自己的 Steam 游戏收藏搭建一个温馨、带摆设感的虚拟游戏房间，让库里的作品以房间陈列和装饰的方式被重新看见。它不是强调战斗或数值，而是把收藏、展示和空间布置本身做成游戏体验。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.engadget.com/social-media/meta-is-testing-an-instagram-plus-subscription-service-with-exclusive-features-181215180.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-03-31T02:12:15+08:00"
-            },
-            {
-              "title": "OkCupid settles FTC case on alleged misuse of its users' personal data",
-              "brief": "OkCupid 已就涉嫌滥用用户个人数据的案件与美国 FTC 达成和解。和解要求 Match Group 及运营实体不得再误导用户其收集了哪些数据、为何收集，以及用户能通过什么方式阻止数据被收集。此案源于多年前的数据处理争议，如今的结果也再次提醒交友平台在隐私声明上面临更严监管。",
-              "source_url": "https://www.engadget.com/cybersecurity/okcupid-settles-ftc-case-on-alleged-misuse-of-its-users-personal-data-175159228.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-03-31T01:52:00+08:00"
             }
           ]
         },
@@ -294,6 +294,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《马力欧赛车世界》1.6 大更新：新增炸弹炸翻天模式并调整道具平衡",
+              "brief": "任天堂发布《马力欧赛车世界》1.6.0 版本更新，为这款 Switch 2 首发大作带来多项重要改动。最受关注的新增内容是回归自《马力欧赛车 8 豪华版》的炸弹炸翻天对战模式，玩家在气球对战的基础上只能使用炸弹互相攻击，目标是存活到最后。在竞速平衡方面，不同体型角色的碰撞后无敌时间现在有所差异，轻型角色无敌时间缩短，而重型角色获得更长的无敌时间，可能改变当前的角色选择格局。导弹头道具在部分困难赛道上的速度得到提升，且使用后更容易衔接捷径路线。回旋镖道具则被削弱，投掷距离和连掷次数均有下调。任天堂还调整了道具箱的道具获取概率，但未公布具体变化细节。",
+              "source_url": "https://www.ign.com/articles/nintendos-changing-mario-kart-world-again-rebalancing-items-and-adding-bob-omb-blast-battle-mode",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T16:47:24+08:00"
+            },
+            {
+              "title": "《杀出重围》开发商 Eidos-Montréal 裁员 124 人，工作室负责人离职",
+              "brief": "曾开发《杀出重围》《古墓丽影》等知名游戏的 Eidos-Montréal 宣布大规模裁员，涉及制作团队和后勤支持部门共 124 人，同时工作室负责人 David Anfossi 在任职 19 年后正式离职。Anfossi 自 2007 年加入该工作室，2013 年起担任负责人，曾监督《杀出重围：人类分裂》《古墓丽影：暗影》及《漫威银河护卫队》等项目。工作室表示裁员是由于项目需求变化，与员工能力无关，并承诺为受影响人员提供妥善的过渡支持。新负责人尚未确定，过渡计划正在进行中。此次裁员延续了该工作室近年的收缩趋势，2025 年初曾裁减 75 人，年底再度传出裁员消息，而一款新的《杀出重围》游戏也于 2024 年初被取消。",
+              "source_url": "https://www.ign.com/articles/eidos-montreal-announces-layoffs-alongside-the-departure-of-head-of-stuido-david-anfossi",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T16:25:16+08:00"
+            },
+            {
               "title": "Ninja Gaiden Sigma 2 Plus Player Becomes First to Achieve Platinum Trophy",
               "brief": "一名玩家近日成为首位真正拿下 PS Vita 版《忍者龙剑传 Sigma 2 Plus》白金奖杯的人。关键在于此前从未有人完成其中“Dynamic Duo”金杯要求，因此整套白金长期处于事实上的不可达状态。随着这次突破，这款老游戏在奖杯史上终于补上空白，也在 PSN 社区留下一个相当特殊的纪录。",
               "source_url": "https://www.ign.com/articles/ninja-gaiden-sigma-2-plus-player-becomes-first-to-achieve-platinum-trophy",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/ram-prices-have-started-to-drop-but-the-crisis-is-far-from-over",
               "source_name": "IGN",
               "published_at": "2026-03-31T02:51:57+08:00"
-            },
-            {
-              "title": "'I Don't Want to Say They Started Panicking…' — Actor Behind Crimson Desert's Kliff Reveals 'Bridge Point' Where Pearl Abyss Realized the Story and Characters Needed to Change",
-              "brief": "《红色沙漠》中主角 Kliff 的演员 Alec Newman 透露，Pearl Abyss 在开发过程中曾意识到剧情和角色塑造存在明显问题，并在某个“转折点”后做了大幅调整。他没有把过程描述为彻底慌乱，但坦言团队后来确实重新思考了人物和故事方向。开发演变也解释了这款作品长周期打磨背后的部分原因。",
-              "source_url": "https://www.ign.com/articles/i-dont-want-to-say-they-started-panicking-actor-behind-crimson-deserts-kliff-reveals-bridge-point-where-pearl-abyss-realized-the-story-and-characters-needed-to-change",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T02:32:35+08:00"
-            },
-            {
-              "title": "'It Does Seem Like It Would Make a Great Movie': Mario Galaxy Star Charlie Day Keen for Luigi's Mansion Spinoff",
-              "brief": "在任天堂电影宇宙继续扩张的背景下，路易吉配音演员 Charlie Day 表示，《路易吉洋馆》确实很适合被拍成独立电影，他本人也愿意参与。随着新《马里奥》电影上线，外界对更多角色衍生作品的兴趣快速升温。虽然目前并无官宣计划，但这番表态无疑进一步点燃了粉丝对系列扩展的想象。",
-              "source_url": "https://www.ign.com/articles/it-does-seem-like-it-would-make-a-great-movie-mario-galaxy-star-charlie-day-keen-for-luigis-mansion-spinoff",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T00:28:09+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "微软叫停 Copilot 在 Pull Request 中插入广告的做法",
+              "brief": "GitHub Copilot 此前在由编程智能体创建的 Pull Request 中插入推广文字，内容涉及 Raycast 等第三方工具的使用技巧，引发开发者社区广泛批评。Copilot 首席产品经理 Tim Rogers 通过 Hacker News 宣布，团队已经禁用该功能。他解释称，团队原本将这些文字视为帮助开发者学习使用智能体的「实用技巧」，而非广告，但在听取反馈后承认这是错误的决定。被广告涉及的 Raycast 公司也表示对此毫不知情。此次事件再次引发业界对 AI 编程工具商业化边界的讨论，开发者普遍认为在代码仓库的严肃工作环境中植入推广内容是不恰当的做法。",
+              "source_url": "https://www.solidot.org/story?sid=83922",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T14:23:58+08:00"
+            },
+            {
+              "title": "Google 启动 Android 开发者身份验证，未验证应用 9 月起将无法安装",
+              "brief": "Google 正式推行备受争议的 Android 开发者身份验证政策，从今年 9 月起强制要求所有应用开发者完成身份认证，未通过验证的开发者的应用将无法在 Android 设备上侧载安装。Google 以安全为由推出该政策，称其分析显示来自第三方来源的恶意应用数量是 Google Play 的 90 多倍。开发者身份验证通过 Android Developer Console 和 Play Console 进行，仅在 Google Play 外发布应用的开发者需要在 Android Developer Console 创建账号。该政策引发独立开发者和开源社区的担忧，批评者认为这可能限制应用分发自由并对小型开发者造成额外负担。",
+              "source_url": "https://www.solidot.org/story?sid=83921",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T13:57:43+08:00"
+            },
+            {
+              "title": "研究显示中国空气污染预警五年内避免近 5.4 万例过早死亡",
+              "brief": "发表于 PNAS Nexus 的一项研究分析了中国北方 57 座城市连续五年的数据，评估空气污染预警系统的实际健康效益。研究发现，预警触发后实施的工厂临时停工、交通管制和扬尘作业禁止等短期措施，使 PM2.5 浓度下降 20% 至 40%，PM10 下降 33%，二氧化氮下降 5% 至 25%。这些变化在五年间共避免了近 5.4 万例过早死亡，约占污染事件相关过早死亡的 11%。河南、河北和山东等重工业密集地区的收益最为显著，预警期间 PM2.5 引发的急性死亡风险下降了 30% 至 40%。研究结果为空气质量预警政策的有效性提供了实证支持。",
+              "source_url": "https://www.solidot.org/story?sid=83920",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T13:22:33+08:00"
+            },
+            {
+              "title": "芬兰研究：过去三十年儿童青少年屏幕使用时间显著增加",
+              "brief": "芬兰研究人员发布报告称，1991 至 2022 年间儿童和青少年的屏幕使用时间呈现显著增长趋势，新冠疫情后更为明显。早期的屏幕使用以传统电视为主，但随着时间推移逐渐向 PC、智能手机和游戏设备等更个性化的数字平台转移，传统电视观看时间则持续下降。研究发现，新冠疫情期间的社交封锁政策使儿童青少年大幅增加对电子屏幕的依赖，用于学习、社交和娱乐。男孩和女孩的屏幕使用时间均有所增长，但男孩在游戏方面花费更多时间。年龄较小的儿童使用时间通常少于年龄较大的儿童，高收入家庭的儿童屏幕使用时间相对较少。",
+              "source_url": "https://www.solidot.org/story?sid=83919",
+              "source_name": "Solidot",
+              "published_at": "2026-03-31T00:29:07+08:00"
+            },
+            {
               "title": "微软 Copilot 在修改 PR 中的拼写错误时添加了广告",
               "brief": "开发者发现，微软 Copilot 在帮助修改 GitHub PR 拼写错误时，竟主动插入了一段推广 Raycast Copilot 任务的广告文案。相关搜索显示，平台上已出现大量包含同类广告内容的 PR。事件迅速引发开发者不满，因为这不仅影响代码和文档可信度，也暴露出 AI 助手在自动改写时可能夹带商业内容的风险。",
               "source_url": "https://www.solidot.org/story?sid=83918",
               "source_name": "Solidot",
               "published_at": "2026-03-30T20:15:46+08:00"
-            },
-            {
-              "title": "木星闪电释放的能量相当于原子弹爆炸",
-              "brief": "科学家利用 NASA“朱诺号”测得，木星闪电释放的能量可达到地球闪电的 100 到 10000 倍，最强一次约相当于 2400 吨 TNT，接近广岛原子弹威力的六分之一。按照木星风暴中平均每秒三次闪电估算，局部区域每分钟释放的总能量已非常惊人，也可能推动复杂化学反应发生。",
-              "source_url": "https://www.solidot.org/story?sid=83917",
-              "source_name": "Solidot",
-              "published_at": "2026-03-30T20:05:01+08:00"
-            },
-            {
-              "title": "蜜蜂和蜂鸟在工作期间吸入了微量的酒",
-              "brief": "研究人员发现，蜜蜂和蜂鸟日常摄入的花蜜中普遍含有微量乙醇。在分析的 29 种植物样本里，26 种检测到酒精成分，虽然多数浓度极低，但考虑到授粉动物的体重和摄入量，它们每天实际摄入的乙醇并不算少。由于持续觅食与高代谢，这些动物会迅速把微量酒精处理掉。",
-              "source_url": "https://www.solidot.org/story?sid=83916",
-              "source_name": "Solidot",
-              "published_at": "2026-03-30T18:44:37+08:00"
-            },
-            {
-              "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
-              "brief": "杜比起诉 Snapchat 的专利侵权案件，间接对 AV1“免专利费”的核心宣传提出挑战。杜比认为，AOMedia 联盟并未掌握实现 AV1 所需的全部专利，部分关键技术仍可能受第三方专利与授权约束。由于联盟成员包括苹果、谷歌、微软和 Netflix，这场诉讼也让开放视频编码标准的专利边界再次受到关注。",
-              "source_url": "https://www.solidot.org/story?sid=83915",
-              "source_name": "Solidot",
-              "published_at": "2026-03-30T18:13:39+08:00"
-            },
-            {
-              "title": "AI 和机器人流量超过人类",
-              "brief": "Human Security 报告称，2025 年互联网中 AI 与机器人流量已经正式超过人类流量，且自动化流量增速几乎是人类活动的八倍。ChatGPT、Claude、Gemini 等大模型带来的抓取、调用与自动访问需求，被认为是重要推动因素。互联网“主要访问者”正在从真人转向程序，这一变化正在重塑站点安全与流量治理。",
-              "source_url": "https://www.solidot.org/story?sid=83914",
-              "source_name": "Solidot",
-              "published_at": "2026-03-30T16:44:49+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Opera Neon引入MCP连接器 开放浏览器控制权给外部AI代理",
-              "brief": "Opera 为 AI 浏览器 Neon 加入 MCP 连接器，允许外部代理更直接地接管浏览器中的检索、整理与执行流程。借助这一能力，ChatGPT、Claude、n8n 等工具可以与 Neon 的代理式浏览功能联动，在多网页上下文中完成更复杂的自动化任务。Opera 继续把 Neon 从“带 AI 的浏览器”推向“可被其他 AI 调度的浏览器工作台”。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555930.htm",
+              "title": "DeepSeek 服务再次出现访问异常，已是近期第二次故障",
+              "brief": "DeepSeek 平台服务再次出现访问异常，多名用户反馈在对话过程中频繁弹出网络检查或服务器繁忙提示，导致交互中断。这已是该平台近两天内第二次出现服务不稳定情况。此前 3 月 29 日夜间至 30 日上午，DeepSeek 曾遭遇长达 12 小时的大规模崩溃，网页端和手机应用均一度瘫痪，官方随后表示已两次紧急修复并全面恢复。然而仅过一天多，异常再次上演。据统计，DeepSeek 在过去 15 个月内已累计发生至少 7 次显著服务中断，其中 2025 年 1 月曾因遭受大规模恶意攻击多次宕机，甚至不得不限制非中国手机号注册以保障核心服务稳定。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555948.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T16:23:53+08:00"
+              "published_at": "2026-03-31T18:23:45+08:00"
             },
             {
-              "title": "国行版苹果AI上线后又被撤回 苹果：正积极推进落地中国",
-              "brief": "国行版 Apple Intelligence 曾在部分中国大陆 iPhone 和 iPad 上短暂出现并可下载启用，但苹果随后确认这是由软件问题导致的意外上线，相关异常现已修复。苹果表示，Apple 智能在中国市场的正式推出仍取决于监管审批，目前团队正持续推进本地落地。此前短暂开放的功能包括实时翻译、照片处理、视觉识别等多项设备端 AI 能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555928.htm",
+              "title": "微软 Copilot 被发现在超 150 万个 GitHub PR 中注入广告内容",
+              "brief": "微软旗下 AI 编程助手 Copilot 被发现正在 GitHub 的拉取请求中自动注入广告推广内容，受影响的 PR 数量超过 150 万个。墨尔本开发者 Zach Manson 最先注意到，其团队成员使用 Copilot 修复拼写错误时，Copilot 在完成任务的同时向 PR 描述中添加了一句推广 Raycast 工具的文字。调查发现，广告内容前方隐藏着 HTML 注释标记，证实注入行为来自微软一方。广告不仅涉及 Raycast，还包括从 Slack、Teams 向 Copilot 发送任务等推广内容，甚至 GitLab 的合并请求也受到影响。这一做法引发开发者社区强烈批评，被认为是在代码仓库的严肃工作环境中植入推广内容极不恰当。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555946.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T16:22:10+08:00"
+              "published_at": "2026-03-31T17:55:35+08:00"
             },
             {
-              "title": "每10股写成每股 交行更正分红公告并致歉",
-              "brief": "交通银行发布更正公告称，在此前披露的 2025 年度利润分配方案中，因校对失误将“每 10 股分配现金股利 3.247 元”误写成“每股分配 3.247 元”，造成分红金额表述放大 10 倍，引发市场关注。交行已就此致歉，并表示将加强信息披露文件的编制和复核流程。按正式方案计算，2025 年全年现金分红总额为 286.92 亿元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555926.htm",
+              "title": "一汽大众全新速腾 S 上市，起售价 7.98 万元直面国产车竞争",
+              "brief": "一汽大众全新速腾 S 正式上市，共推出 4 款配置车型，官方指导价 7.98 万至 10.58 万元。新车定位紧凑型家用轿车，主打年轻首购用户群体，7.98 万元的起售价意味着大众放下合资品牌高姿态，直接与国产轿车展开价格竞争。外观延续大众家族设计语言，配备贯穿式灯带和发光品牌标识。车身尺寸 4702×1815×1484 毫米，轴距 2688 毫米。内饰配备 12.9 英寸中控屏和 10.25 英寸液晶仪表双联屏系统，搭载高通 8155 芯片，融合 DeepSeek、豆包等 AI 大模型的语音交互系统支持多轮对话。动力提供 1.5L 自然吸气和 1.5T EVO2 两种选择，百公里综合油耗低至 5.49 升。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555944.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T16:21:42+08:00"
+              "published_at": "2026-03-31T17:55:25+08:00"
             },
             {
-              "title": "硅谷隐秘初创公司“无脑克隆人”项目曝光 亿万富翁为长寿押注的极端实验？",
-              "brief": "生物技术初创公司 R3 Bio 被曝研究培育不具意识的人类克隆体或“器官囊”，希望以此替代动物实验，并进一步作为器官移植来源。报道显示，这一项目已吸引部分硅谷长寿投资者和亿万富翁资金支持，但其涉及的“无脑克隆体”设想在科学界和伦理领域迅速引发争议。外界关注点集中在技术可行性、监管边界与人类实验伦理风险。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555924.htm",
+              "title": "加密货币市场持续下行进入第六个月，行业裁员转型求生存",
+              "brief": "加密货币市场持续下跌即将进入第六个月，仍看不到企稳迹象。比特币自去年 10 月触及 126080 美元高点后已腰斩，其他加密资产跌幅更大。CoinGecko 数据显示月度交易量可能创 2024 年 1 月以来新低，仅为大选后峰值的不到三分之一。一季度加密初创企业融资额约 29 亿美元，环比暴跌 69%。行业裁员潮已至，Gemini 裁员 30%，Crypto.com 裁员 12%。Coinbase、Kraken 等交易所正尝试转型为综合金融科技应用，与传统金融巨头合作推广代币化股票。去中心化借贷平台 Aave 上 USDC 年化收益率已降至 2.2%，远低于此前 6% 以上的水平。市场正重演典型熊市模式，投资者在更低交易量下逐步清仓离场。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555942.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T16:18:34+08:00"
+              "published_at": "2026-03-31T17:49:14+08:00"
             },
             {
-              "title": "深圳新规：长期占位不缴费的“僵尸车”将罚款并纳入征信",
-              "brief": "深圳正就《机动车道路临时停放管理办法》公开征求意见，拟对长期占位却不缴费的“僵尸车”实施行政处罚，并纳入信用约束。新规意在解决长期以来认定标准不清、执法权限分散、正规车位内车辆难以拖移等治理难题。与此同时，深圳也在继续推广潮汐停车和长停月卡等配套措施，希望以疏堵结合的方式缓解城市停车资源被长期占用的问题。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555922.htm",
+              "title": "美国陪审团首次裁定社交媒体对用户心理健康担责，Meta 和 YouTube 赔偿 600 万美元",
+              "brief": "加州洛杉矶高等法院陪审团作出具有里程碑意义的裁决，认定 Meta 和 YouTube 对一名年轻女性的心理健康损害负有法律责任，判令以七三比例共同赔偿 600 万美元。这是美国历史上首次有陪审团认定社交媒体平台需对用户心理健康承担责任。原告凯莉从 6 岁开始使用 YouTube，11 岁起使用 Instagram，长期沉迷后引发抑郁症和自杀念头。陪审团经过九天审议后认定两家公司在平台设计上存在过失，明知可能对未成年人产生负面影响却未充分警示。庭审中披露的内部研究文件显示，两家公司早已知晓产品对青少年心理健康的危害。扎克伯格和 Instagram 负责人均亲自出庭作证。该判决被视为标杆案件，将影响全美数百起类似诉讼。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555940.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T15:51:39+08:00"
+              "published_at": "2026-03-31T17:47:52+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "名创优品：第四季度营收62.5亿元，同比增长32.7%",
-              "brief": "名创优品披露 2026 财年第四季度业绩，单季营收为 62.5 亿元，同比增长 32.7%。从公开信息看，这一季度公司仍延续较快增长节奏，门店扩张、产品结构与海外业务表现继续受到市场关注。财报快讯暂未在标题中同步披露利润等更完整指标，后续仍需结合正式财报与管理层说明，观察其增长质量、门店效率以及全球化业务对整体业绩的带动情况。",
-              "source_url": "https://36kr.com/newsflashes/3746607164965634?f=rss",
+              "title": "达美乐比萨正式任命 Nicola Frampton 为首席执行官",
+              "brief": "达美乐比萨公司发布正式任命声明，经过全面的遴选程序后，Nicola Frampton 被正式任命为公司首席执行官。Frampton 自 2025 年 11 月起一直担任临时 CEO，此次转正意味着公司对其在过去数月内管理工作的认可。达美乐比萨是全球最大的比萨连锁品牌之一，在全球拥有超过两万家门店，此次高层人事变动将影响公司未来的全球扩张战略和数字化转型方向。",
+              "source_url": "https://36kr.com/newsflashes/3746714402259462",
               "source_name": "36氪",
-              "published_at": "2026-03-31 16:45:53  +0800"
+              "published_at": "2026-03-31T18:34:58+08:00"
             },
             {
-              "title": "央行：持续做好货币金融总量统计和结构性专项统计",
-              "brief": "中国人民银行召开 2026 年调查统计工作电视会议，提出要持续完善金融业综合统计制度和标准，做好货币金融总量统计与结构性专项统计。会议同时要求高质量完成金融“五篇大文章”统计、地方政府融资平台债务统计，并进一步发挥国家金融基础数据库作用，为宏观调控、风险防范和高质量发展提供更及时、更有前瞻性的数据信息支撑。",
-              "source_url": "https://36kr.com/newsflashes/3746597639913985?f=rss",
+              "title": "央行数据：2 月同业拆借日均成交额同比激增 87%",
+              "brief": "中国人民银行发布 2026 年 2 月金融市场运行数据。数据显示，2 月份同业拆借日均成交额达到 4293.2 亿元，同比大幅增长 87.1%，反映出银行间市场资金流转活跃度显著提升。银行间市场债券回购日均成交额达 7.4 万亿元，同比增加 52.9%。截至 2 月末，同业拆借未到期余额为 1.0 万亿元，银行间市场债券回购未到期余额为 11.6 万亿元。上述数据表明当前金融市场流动性较为充裕，机构间资金融通需求旺盛。",
+              "source_url": "https://36kr.com/newsflashes/3746712279286532",
               "source_name": "36氪",
-              "published_at": "2026-03-31 16:36:12  +0800"
+              "published_at": "2026-03-31T18:32:49+08:00"
             },
             {
-              "title": "B站官宣将下线猜你喜欢算法",
-              "brief": "哔哩哔哩宣布将从明天零点起下线“猜你喜欢”算法，不再按用户喜好推荐主页内容，同时上线新的推荐算法机制。按官方说法，平台首页推荐逻辑将发生调整，不再沿用当前常见的兴趣画像式分发模式。由于发布时间恰逢 3 月 31 日，外界也在观望这项改动究竟是一次真实的推荐系统调整，还是与愚人节活动联动的特别策划。",
-              "source_url": "https://36kr.com/newsflashes/3746593138049796?f=rss",
+              "title": "上海黄金交易所 2 月黄金成交量同比下降 52.9%",
+              "brief": "中国人民银行公布数据显示，2026 年 2 月上海黄金交易所黄金成交量为 2813.9 吨，同比大幅下降 52.9%。上海期货交易所黄金成交 1.4 万吨，同比下降 7.4%。截至 2 月末，上海黄金交易所 Au（T+D）合约收于每克 1142.5 元，环比下跌 3.3%。黄金成交量的大幅萎缩与近期金价高位回落趋势一致，投资者观望情绪浓厚，市场活跃度明显降低。",
+              "source_url": "https://36kr.com/newsflashes/3746711424123397",
               "source_name": "36氪",
-              "published_at": "2026-03-31 16:31:37  +0800"
+              "published_at": "2026-03-31T18:31:57+08:00"
             },
             {
-              "title": "财政部：1-2月国有企业营业总收入同比增长0.2%",
-              "brief": "财政部公布数据显示，2026 年 1 至 2 月国有企业营业总收入为 125655.0 亿元，同比增长 0.2%；利润总额为 6266.2 亿元，同比下降 2.0%；应交税费 10932.5 亿元，同比下降 2.3%。同期国有企业资产负债率为 65.4%，较上年同期上升 0.5 个百分点，反映出年初国企整体经营收入基本持平、利润端略有承压。",
-              "source_url": "https://36kr.com/newsflashes/3746588366062342?f=rss",
+              "title": "宏昌科技就间接投资张雪机车一事作出说明",
+              "brief": "宏昌科技发布公告，回应市场对其间接投资张雪机车的关注。公司股票交易价格连续两个交易日涨幅偏离值累计达 46.58%，触发异常波动标准。公告称，2025 年 8 月公司作为有限合伙人认缴出资 1.5 亿元参与金义智创基金，出资比例 29.82%。该基金于 2026 年 1 月完成对重庆张雪机车工业有限公司的投资，持有后者 5.5046% 股权。公司强调本次投资属于财务性投资，对公司整体经营影响较小。近期张雪机车在 WSBK 葡萄牙站夺冠引发市场高度关注。",
+              "source_url": "https://36kr.com/newsflashes/3746708821754630",
               "source_name": "36氪",
-              "published_at": "2026-03-31 16:26:46  +0800"
+              "published_at": "2026-03-31T18:29:18+08:00"
             },
             {
-              "title": "乘联分会：2026年2月乘用车智能化指数为34.3",
-              "brief": "乘联分会发布数据显示，2026 年 2 月乘用车智能化指数为 34.3，其中智能座舱指数为 36.1、智能驾驶指数为 37.2、舱外智能指数为 21.6。分项表现显示，车内交互和辅助驾驶能力仍是当前智能化配置推进较快的方向，而车外感知与联动相关能力整体水平相对更低，这份指数也继续为观察车企智能化配置普及程度提供参考。",
-              "source_url": "https://36kr.com/newsflashes/3746583924622088?f=rss",
+              "title": "今日机构龙虎榜：净买入前三为平潭发展、欧科亿、特发信息",
+              "brief": "今日 A 股龙虎榜数据显示，共有 39 只个股出现机构交易身影，其中 17 只呈现机构净买入，22 只呈现机构净卖出。机构净买入金额排名前三的个股分别为平潭发展（2.34 亿元）、欧科亿（2.19 亿元）和特发信息（1.5 亿元）。净卖出方面，东鹏饮料以 3.63 亿元的机构净流出金额居首，舒泰神和美诺华分别以 2.87 亿元和 1.34 亿元紧随其后。整体来看，今日机构资金以卖出为主，多只消费和医药类个股遭到减持。",
+              "source_url": "https://36kr.com/newsflashes/3746703190082310",
               "source_name": "36氪",
-              "published_at": "2026-03-31 16:22:15  +0800"
+              "published_at": "2026-03-31T18:23:34+08:00"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华硕推出 Prime RTX 5080 EVO 显卡，相较原版取消均热板",
-              "brief": "华硕推出 Prime RTX 5080 EVO 显卡，新版在尺寸和频率规格上与原版接近，但产品说明中删去了均热板相关表述，结构示意图里也未再显示对应部件。均热板通常用于提升热量在散热模组中的均匀传导，因此这次调整意味着 Prime RTX 5080 EVO 在散热配置上出现缩减。华硕暂未说明这一变化对实际温度和噪声表现会带来多大差异。",
-              "source_url": "https://www.ithome.com/0/934/594.htm",
+              "title": "OPPO 新一代小方瓶充电器开启预约，提供 100W 和 120W 双版本",
+              "brief": "OPPO 新一代小方瓶系列充电器已在京东等平台开启预约，预计 4 月 21 日正式上市。新品阵容包括三款产品：100W 小方瓶 Pro 氮化镓充电器、120W 小方瓶双口氮化镓充电器，以及 SUPERVOOC 120W 超能舱超级闪充移动电源。充电器提供明媚暖阳和玫雾绒纱两种配色，移动电源则采用星炬橙配色。此前 OPPO 100W 小方瓶超级闪充氮化镓充电器上市时国补价仅 169.15 元，新系列预计将继续主打高性价比快充方案，支持 65W PD 协议并保持长期功率不掉电。",
+              "source_url": "https://www.ithome.com/0/934/636.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T16:39:59+08:00"
+              "published_at": "2026-03-31T18:28:11+08:00"
             },
             {
-              "title": "7.98 万元起，一汽-大众全新速腾 S 汽车上市",
-              "brief": "一汽-大众全新速腾 S 正式上市，起售价为 7.98 万元。新车采用几何张力前脸与溜背式车身设计，提供 17 英寸轮毂、贯穿式尾灯以及可发光车标。座舱配备 12.9 英寸中控屏和 10.25 英寸仪表，并加入电子怀挡、30 色氛围灯和电动座椅等配置。动力方面提供 1.5L 发动机配 6AT，以及 1.5T Evo2 发动机配 7 速双离合两种版本。",
-              "source_url": "https://www.ithome.com/0/934/591.htm",
+              "title": "小米汽车全国服务网点达 274 家，覆盖 160 城",
+              "brief": "小米汽车公布最新开店进展：3 月新增 2 家门店，4 月计划再增 5 家，目前全国已有 274 家服务网点，覆盖 160 座城市，基本实现全国省份、直辖市、自治区的全覆盖。与此同时，新一代 SU7 已全面进店并开放试驾，全国 143 座城市的 492 家门店已正式开启试驾服务，部分城市交付中心可一次展示九种车身颜色。雷军此前透露，新一代小米 SU7 锁单量已超过 3 万辆，新车提前两个月开始备产，并已启动首批交付。小米汽车称锁单量数据比大定量「更真实」。",
+              "source_url": "https://www.ithome.com/0/934/635.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T16:36:34+08:00"
+              "published_at": "2026-03-31T18:19:38+08:00"
             },
             {
-              "title": "不再根据喜好推荐主页内容：B站官宣明天零点下线猜你喜欢算法，并上线新算法",
-              "brief": "哔哩哔哩官方公众号宣布，将从明天零点起下线“猜你喜欢”算法，不再依据用户兴趣画像为主页内容做推荐，并会同步上线新的推荐算法。此举若属实，意味着 B 站首页分发逻辑将出现明显变化，试图减少用户被单一兴趣路径持续锁定的情况。不过消息发布时间正好临近 4 月 1 日，也让不少用户怀疑这可能与愚人节活动有关。",
-              "source_url": "https://www.ithome.com/0/934/590.htm",
+              "title": "《Roblox》竞品《Rec Room》宣布 6 月 1 日关闭，十年运营未能实现可持续盈利",
+              "brief": "类似《Roblox》的元宇宙虚拟形象社交游戏《Rec Room》宣布将于 2026 年 6 月 1 日正式关闭。这款游戏运营长达十年，累计用户超过 1.5 亿，好友结交数量超 5 亿，用户总游戏时长达 6.8 万年，顶级用户生产内容虚拟房间游戏时间超过 500 年。然而坐拥如此丰厚的用户资源，《Rec Room》始终未能找到可持续的盈利模式，开发成本持续远超收入。加上近期 VR 市场发生重大变化，以及游戏行业整体面临的逆风，实现盈利目标愈发困难，开发方最终做出关闭项目的决定。这一案例折射出元宇宙社交游戏商业化仍面临严峻挑战。",
+              "source_url": "https://www.ithome.com/0/934/634.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T16:36:14+08:00"
+              "published_at": "2026-03-31T18:18:31+08:00"
             },
             {
-              "title": "苹果回应“Apple 智能意外上线国行 iPhone”：现已修复，正在积极推进落地中国",
-              "brief": "苹果回应称，国行 iPhone 上短暂出现并可下载启用的 Apple 智能属于软件问题导致的意外开放，目前异常已修复。苹果表示，这项功能在中国大陆市场的正式上线仍需等待监管审批，公司正在积极推进落地。此前短暂可用的 Beta 版包含实时翻译、视觉智能、照片消除、写作工具、Genmoji 和图乐园等能力，但部分功能当时也存在激活失败现象。",
-              "source_url": "https://www.ithome.com/0/934/586.htm",
+              "title": "央行个人一次性信用修复政策今日到期，万元以下逾期还清将不展示",
+              "brief": "中国人民银行发布的一次性个人信用修复政策于今日（3 月 31 日）到期。该政策实行「免申即享」，不收取任何费用，针对 2020 年 1 月 1 日至 2025 年 12 月 31 日期间单笔金额不超过一万元的个人逾期记录，若借款人在截止日期前足额偿还逾期债务，金融信用信息基础数据库将不予展示相关逾期信息。其中 2025 年 11 月 30 日前还款的已从 2026 年 1 月 1 日起不再展示，12 月 1 日至今日还款的将于次月底前完成处理。央行征信中心负责统一进行技术处理，无需个人申请。2026 年上半年个人还可额外免费查询信用报告两次。",
+              "source_url": "https://www.ithome.com/0/934/633.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T16:30:12+08:00"
+              "published_at": "2026-03-31T18:14:16+08:00"
             },
             {
-              "title": "太空拼车：中国商火公布 2026-2027 长征系列火箭发射机会概览",
-              "brief": "中国商业火箭发布 2026 至 2027 年长征系列火箭发射机会概览，向市场集中展示未来两年可供商业客户拼单搭载的发射窗口与运力安排。这类“太空拼车”模式通常面向中小卫星和多任务协同发射需求，能够降低单颗卫星入轨门槛并提高火箭运力利用率。随着商业航天需求持续增加，标准化发射档期和配套服务正成为产业竞争的重要一环。",
-              "source_url": "https://www.ithome.com/0/934/585.htm",
+              "title": "全球首艘万车级双燃料汽车运输船今日试航，最大载车 10800 辆",
+              "brief": "由中国船舶集团旗下广船国际为韩国 HMM 公司建造的 10800 车 LNG 双燃料汽车运输船今日出海试航，这是目前全球在建的首艘装车量超过万辆的双燃料汽车运输船。该船总长 230 米、型宽 40 米，设有 14 层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多种车型，最大载车量 10800 辆，所有车辆首尾相连长度将超过 50 公里。动力方面采用燃油与液化天然气双燃料推进系统，配备轴带发电机实现航行中发电，排放满足国际海事组织 Tier Ⅲ 标准。此前依赖进口的滚装设备已全部实现国产化，标志着广船国际完全掌握该类船型的建造技术。",
+              "source_url": "https://www.ithome.com/0/934/631.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T16:30:11+08:00"
+              "published_at": "2026-03-31T18:10:36+08:00"
             }
           ]
         }
