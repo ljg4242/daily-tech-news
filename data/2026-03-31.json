@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T18:44:38.057358+08:00",
+  "generated_at": "2026-03-31T20:54:09.266721+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 20 或采用全新曲面设计，边框缩至1.1毫米",
+              "brief": "多方消息显示，苹果20周年纪念款iPhone或将迎来重大设计变革。新设备预计配备1.1毫米超窄边框，相比iPhone 17 Pro的1.44毫米进一步收窄，并采用弧面显示玻璃与抛光中框无缝衔接的全新造型。此外，苹果曾评估三星的面板下摄像头方案，但因成像质量不达标而未采纳。取而代之的是更小尺寸的灵动岛或挖孔屏方案，配合三星Polar ID面部认证系统。虽然消息来源的可信度尚未得到验证，但这些传闻方向与多位知名分析师此前的预测大体一致。",
+              "source_url": "https://www.macrumors.com/2026/03/31/iphone-20-rumored-to-feature-radical-curved-design/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T20:28:42+08:00"
+            },
+            {
+              "title": "亚马逊低轨卫星网络将为达美航空提供机上高速Wi-Fi",
+              "brief": "亚马逊宣布与达美航空达成多年合作协议，将于2028年开始在其航班上部署Amazon Leo卫星互联网服务。首批计划覆盖500架飞机，每架配备一套专用相控阵天线，支持最高1Gbps下载速度和400Mbps上传速度。该服务基于数千颗低轨卫星构建的星座网络运行，轨道高度约600公里。所有达美航空SkyMiles会员均可免费使用该机上Wi-Fi。亚马逊CEO安迪·贾西表示，Leo的设计目标是为全球数十亿缺乏可靠网络连接的人群提供高速互联网接入。",
+              "source_url": "https://www.macrumors.com/2026/03/31/amazon-leo-satellite-internet-delta-flights-2028/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T20:01:25+08:00"
+            },
+            {
+              "title": "苹果为欧盟第三方可穿戴设备通知转发设定隐私规则",
+              "brief": "为配合欧盟《数字市场法》互操作性要求，苹果在iOS 26.5测试版中新增了实时活动转发功能，并在开发者许可协议中制定了严格的数据使用规范。新规明确禁止第三方将转发的通知数据用于广告投放、用户画像、模型训练或位置追踪，同时禁止将数据存储在服务器或云端，仅允许在目标配件设备上解密。转发信息不得修改内容含义，且接收设备不得与包括用户iPhone在内的其他设备共享数据或加密密钥。即使未使用相关框架的开发者，苹果也保留了在用户授权下转发通知的权利。",
+              "source_url": "https://www.macrumors.com/2026/03/31/apple-sets-privacy-rules-live-activities-alerts/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-31T19:41:56+08:00"
+            },
             {
               "title": "Ollama 借助 Apple MLX 框架大幅提速，Mac 本地 AI 推理性能翻倍",
               "brief": "本地大语言模型运行工具 Ollama 发布更新，正式集成苹果机器学习框架 MLX，显著提升在 Apple Silicon Mac 上的推理性能。在搭载 M5、M5 Pro 及 M5 Max 芯片的设备上，得益于 GPU Neural 加速器的加持，首 token 生成时间和整体推理速度均获得大幅提升。以 Qwen3.5-35B-A3B 模型为例，Ollama 0.19 版本的预填充速度达到每秒 1810 个 token，相比上一代的 1154 提升约 1.6 倍，而生成速度更是从每秒 58 个 token 翻倍至 112 个。新版本还优化了缓存机制，支持跨对话复用缓存，降低内存占用，并引入 NVFP4 格式以在保持精度的同时减少带宽和存储需求。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/03/30/apple-tiktok-little-finder-guy/",
               "source_name": "MacRumors",
               "published_at": "2026-03-31T07:47:00+08:00"
-            },
-            {
-              "title": "Safari Technology Preview Turns 10: A Decade of Testing Apple's Web Technologies",
-              "brief": "Safari Technology Preview 迎来发布十周年。这个独立测试版浏览器长期承担着苹果 Web 技术的前置验证工作，让开发者和普通用户可以提前体验 Safari 的新功能、渲染改进与兼容性修复。十年下来，它已经成为苹果测试网页标准实现、收集反馈并迭代正式版 Safari 的固定通道。",
-              "source_url": "https://www.macrumors.com/2026/03/30/safari-technology-preview-10th-anniversary/",
-              "source_name": "MacRumors",
-              "published_at": "2026-03-31T07:22:00+08:00"
-            },
-            {
-              "title": "Everything New in iOS 26.5 Beta 1",
-              "brief": "苹果发布 iOS 26.5 首个测试版，继续为系统补充新功能并做细节调整。已曝光改动包括 Apple Maps 广告相关底层准备、RCS 端到端加密推进以及若干界面与系统行为更新。整体看，这一版更像是在现有 iOS 26 基础上补齐功能拼图，为后续正式版上线做铺垫。",
-              "source_url": "https://www.macrumors.com/2026/03/30/everything-new-in-ios-26-5-beta-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-03-31T06:43:50+08:00"
-            },
-            {
-              "title": "Apple Pulls Vibe Coding App 'Anything' From App Store, Escalating Enforcement",
-              "brief": "苹果已将主打“vibe coding”的应用 Anything 从 App Store 下架，显示其对相关生成式 AI 编程工具的审核和执法力度正在提升。此次处理不仅影响单个应用上架状态，也反映出苹果正在更严格审视这类产品在内容生成、合规表述以及商店规则上的边界，平台治理态度明显收紧。",
-              "source_url": "https://www.macrumors.com/2026/03/30/apple-pulls-vibe-coding-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-03-31T05:33:02+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple Music 自适应主题在深色模式下频现闪光弹引发用户不满",
+              "brief": "iOS 26.4更新后，Apple Music的自适应界面设计引发大量深色模式用户投诉。当用户在夜间点击封面为白色或浅色背景的专辑时，整个界面会随之变为高亮度主题，对习惯在暗光环境使用手机的用户造成强烈视觉冲击。Apple Music社区论坛上相关讨论持续升温。目前可采取的临时方案是启用增强对比度辅助功能，该设置可使歌曲列表区域在深色模式下保持传统的白字黑底样式，但顶部区域仍会显示白色渐变。用户可在系统设置中为Apple Music单独开启此选项，避免影响其他应用的显示效果。",
+              "source_url": "https://9to5mac.com/2026/03/31/the-new-adaptive-apple-music-design-draws-complaints-from-dark-mode-users/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T20:35:15+08:00"
+            },
+            {
+              "title": "苹果年龄验证扩展至新加坡和韩国，英国新增多种认证方式",
+              "brief": "苹果正在全球范围内推进年龄验证机制，目前已在英国、新加坡和韩国三地上线。英国方面，除了原有的苹果账号时长验证外，新增了信用卡验证、驾照扫描以及多种官方认证年龄卡的支持。未完成年龄验证的用户将被按未成年人标准管理，网络内容过滤和通信安全功能将自动开启。新加坡和韩国地区的用户则可通过信用卡或驾照完成验证，但不接受护照、借记卡和礼品卡。这项措施是各国陆续出台在线服务年龄管控法规后，苹果为旗下应用生态合规所做出的调整。",
+              "source_url": "https://9to5mac.com/2026/03/31/apple-continues-to-roll-out-age-verification-around-the-world-more-uk-methods/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T20:31:01+08:00"
+            },
+            {
+              "title": "世界备份日提醒：三份备份策略守护你的苹果设备数据",
+              "brief": "每年3月31日的世界备份日再次提醒用户重视数据安全。个人设备中存储的照片、视频、日历、财务记录和密码等数据一旦丢失可能造成无法挽回的损失。业界建议遵循一份等于零份两份等于一份的原则，对重要数据至少保留三份副本，其中一份存储在异地。苹果设备用户可通过iCloud实现自动备份，iPhone和iPad可在设置中一键开启，Mac用户则可通过Time Machine将数据备份至外接硬盘或网络存储。鉴于全球每周约有14万块硬盘发生故障每分钟有113部手机丢失或被盗定期备份的重要性不言而喜。",
+              "source_url": "https://9to5mac.com/2026/03/31/heres-how-to-backup-your-apple-devices-on-world-backup-day/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-03-31T19:40:10+08:00"
+            },
             {
               "title": "Opera Neon doubles down on agentic browsing with MCP support",
               "brief": "Opera 为其 AI 浏览器 Neon 加入 MCP 支持，允许 ChatGPT、Claude、Lovable、n8n 等外部代理更直接地调用浏览器能力，在网页内执行搜索、整理、比较和操作任务。Opera 表示，这项更新建立在 Tasks、Cards、Do、Make 等原有代理式功能之上，继续把 Neon 推向更强调自动执行与工作流整合的浏览体验。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/03/30/apple-introduces-privacy-rules-for-third-party-access-to-notifications-and-live-activities/",
               "source_name": "9to5Mac",
               "published_at": "2026-03-31T11:21:46+08:00"
-            },
-            {
-              "title": "Ninth Circuit unanimously denies Apple’s rehearing requests in Epic Games case",
-              "brief": "美国第九巡回上诉法院一致驳回苹果在 Epic Games 案中的再审请求，意味着此前对苹果不利的裁定继续维持。苹果原本希望通过同席法官复审或全院复审翻盘，但法院没有接受。案件焦点仍在 App Store 规则与开发者引流限制，这一进展也让苹果后续继续上诉到更高法院的压力进一步加大。",
-              "source_url": "https://9to5mac.com/2026/03/30/ninth-circuit-unanimously-denies-apples-rehearing-requests-in-epic-games-case/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-03-31T10:14:51+08:00"
-            },
-            {
-              "title": "Apple stopped selling 14 products in March, including 3 with no replacements",
-              "brief": "苹果在 3 月共停售 14 款产品，其中有些属于常规迭代后被新品接替，但也有 3 款设备在下架后暂时没有明确接班者。文章指出，除了版本替换之外，苹果还直接终止了部分产品线，显示这轮调整不只是清库存，而是一次更明显的产品结构收缩与重排。",
-              "source_url": "https://9to5mac.com/2026/03/30/apple-stopped-selling-14-products-in-march-including-3-with-no-replacements/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-03-31T09:31:51+08:00"
-            },
-            {
-              "title": "Apple subsidiary fined in the UK for breaching Russia sanctions rules",
-              "brief": "苹果一家子公司因违反英国对俄制裁规定被罚。英国主管部门指出，企业虽然依赖关联公司处理付款与制裁审查，但法律责任仍由实际付款主体承担。官方通报认为，相关安排没有让涉事公司免于合规义务。这起处罚再次说明跨国企业在制裁框架下委托第三方处理流程，也不能回避最终责任。",
-              "source_url": "https://9to5mac.com/2026/03/30/apple-subsidiary-fined-in-the-uk-for-breaching-russia-sanctions-rules/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-03-31T09:19:13+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星月份安全更新打破自定义字体功能引发用户吐槽",
+              "brief": "三星于月份发布的5号安全补丁导致部分Galaxy手机用户的自定义字体功能失效。多位用户在Reddit上反映升级后无法切换字体且切换过程中会影响原有字体的可用性。这一问题可能与修复字体签名验证漏洞CVE-2026-20989有关该补丁加强了对字体加密签名的验证导致部分第三方字体被阻止。好消息是通过Galaxy商店下载的字体仍可正常使用不过大量第三方字体并不在商店上架。受影响用户涵盖One UI 8和One UI 8.5两个版本。",
+              "source_url": "https://www.androidauthority.com/samsung-custom-fonts-march-2026-update-3653473/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T19:21:26+08:00"
+            },
+            {
+              "title": "谷歌美国用户终于可以更换Gmail用户名了",
+              "brief": "谷歌正式向美国所有Google账户用户开放更换Gmail用户名功能这意味着用户可以将账号中@前面的部分修改为新的名称。更换后原地址将保留为备用地址用户仍可通过旧地址登录或接收邮件。每个账户每12个月可更换一次一生限制三次更换机会。用户可在Google账户设置中进入个人信息选项下的邮箱功能中操作。这一功能去年开始小范围测试现已全面铺开。",
+              "source_url": "https://www.androidauthority.com/change-google-account-gmail-username-usa-rollout-3653478/",
+              "source_name": "Android Authority",
+              "published_at": "2026-03-31T19:08:14+08:00"
+            },
+            {
               "title": "Proton 推出全加密办公套件 Proton Workspace，对标 Google Workspace",
               "brief": "瑞士隐私软件公司 Proton 将旗下所有产品打包成统一的 Proton Workspace 办公套件，涵盖加密邮箱、日历、云盘、文档、电子表格、密码管理器 Proton Pass、AI 助手 Lumo，以及全新推出的视频通话工具 Proton Meet。Proton Meet 基于开源 MLS 协议实现默认端到端加密，用户无需注册账号即可生成链接发起或加入通话，这与 Zoom、Google Meet 等需要登录且数据可能被用于 AI 训练的平台形成鲜明对比。Proton 邮箱目前拥有超过一亿用户，此次整合旨在为企业和个人提供一站式隐私办公方案，对标 Google Workspace 和 Microsoft 365，但在数据安全层面提出了更高标准。",
               "source_url": "https://www.androidauthority.com/proton-workspace-and-meet-launched-3653420/",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/tanuki3ds-3ds-emulator-update-3653462/",
               "source_name": "Android Authority",
               "published_at": "2026-03-31T17:52:49+08:00"
-            },
-            {
-              "title": "仅花 50 美元，作者将旧款 Pixel 平板改造成安卓桌面电脑",
-              "brief": "随着 Android 16 QPR3 推出桌面窗口化功能，Pixel 平板获得了类似桌面 PC 的使用体验。作者通过购置罗技 Pebble Keys K380s 蓝牙键盘和蓝牙鼠标，总花费不到 50 美元，成功将闲置的 Pixel 平板变身为便携式安卓电脑。Android 16 对外接键盘的支持相当出色，键盘自带的 Home、多任务和返回按键可直接与安卓导航系统配合，无需频繁触碰屏幕。结合可自定义的快捷键和改进的鼠标支持，Pixel 平板已能实现流畅的多任务办公体验。这一尝试也被视为 Google 未来 Aluminium OS 桌面操作系统的一次预演。",
-              "source_url": "https://www.androidauthority.com/i-transformed-old-pixel-tablet-into-brand-new-android-pc-3652335/",
-              "source_name": "Android Authority",
-              "published_at": "2026-03-31T17:30:55+08:00"
-            },
-            {
-              "title": "三星 Galaxy S26 Ultra 评测：重回亮点但仍有不足",
-              "brief": "三星 Galaxy S26 Ultra 正式发布，起售价 1299.99 美元，评测认为这款旗舰机找回了一些久违的惊喜感。硬件方面，新机采用了改进的外观设计，更加精致耐用，同时引入了创新的隐私显示屏功能。One UI 8.5 系统带来了更多自定义选项和 Galaxy AI 功能。相机依然保持多焦段灵活性，充电速度也有所提升，并提供业界领先的软件更新周期。不过批评意见包括：机身偏大难以单手操作、电池续航表现不及竞品、AI 变焦画质仍有损失，以及缺乏内置 Qi2.2 磁吸功能。总体而言，S26 Ultra 在前两代基础上有所进步，但离真正的颠覆性升级还有距离。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-review-3652705/",
-              "source_name": "Android Authority",
-              "published_at": "2026-03-31T17:15:42+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Shark发布BlastBoss多功能吹风机室内外兼用售价150美元",
+              "brief": "SharkNinja推出全新清洁工具BlastBoss外观类似手持吸尘器但功能更像叶吹机最高风速可达每小时240公里。该设备专为室内外两用设计随机附带三种附件包括延伸杆和精准喷嘴方便清理沙发缝隙和家电下方等狭窄空间。设备重量不足1.5磅无绳便携并可调低风速用于日常除尘。另一特色附件BlastBroom可在吹散碎屑的同时完成地面清扫。产品已通过SharkNinja官网和亚马逊发售提供木炭灰、鸽子白、草莓粉、天空蓝和鼠尾草绿五种配色定价149.99美元。",
+              "source_url": "https://www.theverge.com/tech/902550/shark-blastboss-blower-adjustable-broom-accessory-price-availability",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T20:30:00+08:00"
+            },
+            {
+              "title": "苹果50周年回顾：史蒂夫乔布斯出走年代的成就与失误",
+              "brief": "在苹果公司成立50周年之际The Verge刊发长文回顾1985年至1997年间即乔布斯离开苹果的12年。这段时期常被简化为乔布斯被解雇后公司走向衰落的故事但实际情况更为复杂。在时任CEO约翰斯卡利的领导下苹果完成了Mac平台的关键改造推出了PowerBook笔记本电脑等具有深远影响的产品。虽然这段时期也存在不少失误但苹果并非简单地等待乔布斯回归而是在产品线调整和技术演进方面做出了奠定未来基础的重要决策为日后的复兴积累了经验和资本。",
+              "source_url": "https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T20:00:00+08:00"
+            },
+            {
+              "title": "Belkin内置电池Switch 2保护壳大促降价超35%",
+              "brief": "Belkin为任天堂Switch 2打造的充电保护壳在亚马逊大春季促销中迎来大幅降价这款内置10000毫安时电池的保护壳原价69.99美元促销期间通过专属优惠码可降至约45.49美元降幅超过35%。该保护壳在保护游戏机的同时还能为其持续供电对于经常外出携带Switch 2的玩家来说是目前市面上最好的拉链式收纳方案之一。此次促销为限时活动感兴趣的玩家需要尽快下单以免错过优惠价格。",
+              "source_url": "https://www.theverge.com/gadgets/902603/belkin-charging-case-nintendo-switch-2-amazon-big-spring-sale-2026-deal",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T20:00:00+08:00"
+            },
+            {
+              "title": "苹果50周年视觉回顾：从彩色iMac到排队抢购iPhone的时代",
+              "brief": "为庆祝苹果公司成立50周年The Verge推出了一组精心编排的视觉历史长文从1977年Apple II广告讲起一路回顾了Macintosh的发布、乔布斯系领带的早期照片、1984年广告中女性向IBM面孔挥锤的经典画面、Bondi Blue iMac的惊艳亮相以及人们在苹果零售店外彻夜排队等候iPhone发售的场景。文章以丰富的历史照片呈现了苹果从反叛创业公司到全球科技巨头的演变历程展现了其产品设计语言从缤纷多彩的塑料机箱到极简铝制机身的转变之路。",
+              "source_url": "https://www.theverge.com/tech/901418/apple-history-photos",
+              "source_name": "The Verge",
+              "published_at": "2026-03-31T19:00:00+08:00"
+            },
+            {
               "title": "Another Starlink satellite has inexplicably exploded",
               "brief": "SpaceX 再有一颗 Starlink 卫星在轨出现异常并失联，空间追踪公司 LeoLabs 观测到其解体后形成大量碎片。这已是继 2025 年 12 月类似事件后的又一次爆炸事故。SpaceX 仅表示卫星遭遇“异常情况”，暂未公开更具体原因。连续两次事故让外界再次关注大规模卫星星座在轨安全、碎片管理以及后续调查透明度问题。",
               "source_url": "https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded",
               "source_name": "The Verge",
               "published_at": "2026-03-31T16:19:52+08:00"
-            },
-            {
-              "title": "150 million users later, Roblox competitor Rec Room is shutting down",
-              "brief": "拥有约 1.5 亿用户的 Roblox 竞品 Rec Room 宣布关闭。公司表示，团队始终没能找到可持续盈利的商业模式，即便产品积累了可观用户规模，仍无法支撑长期运营。这个结果再次说明，用户增长与平台生存并不等价，UGC 社交游戏平台在内容生态、留存与变现之间依然面临极高难度。",
-              "source_url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
-              "source_name": "The Verge",
-              "published_at": "2026-03-30T20:29:33-04:00"
-            },
-            {
-              "title": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
-              "brief": "The Verge 汇总了亚马逊春季大促中一批适合“春季清洁”场景的优惠商品，涵盖扫地机器人、电动螺丝刀、空气净化器等家务与整理类设备。文章本身偏消费导购，重点是帮助读者从大量促销中快速锁定实用工具。如果正准备换新清洁设备，这份清单属于比较省时间的筛选入口。",
-              "source_url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
-              "source_name": "The Verge",
-              "published_at": "2026-03-30T19:28:48-04:00"
-            },
-            {
-              "title": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale",
-              "brief": "支持 Apple Home Key 且带有 UWB 超宽带功能的智能门锁迎来首次明显降价，赶上亚马逊春季大促。UWB 的加入意味着 iPhone 在靠近门锁时可实现更自然、更精确的无感解锁体验，这也是相关产品的一大卖点。此次折扣让这类仍偏新鲜的苹果生态门锁门槛有所下降。",
-              "source_url": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
-              "source_name": "The Verge",
-              "published_at": "2026-03-30T15:47:46-04:00"
-            },
-            {
-              "title": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
-              "brief": "Beats 面向运动场景的新款 Powerbeats Fit 在亚马逊春季大促期间降价 30 美元。文章认为，这款耳机对 iPhone 和 Android 用户都比较友好，同时具备更稳固的佩戴结构，适合健身、跑步等容易掉耳机的场景。对想买一副价格相对可控、又偏运动导向耳机的用户来说，这是一次不错的入手机会。",
-              "source_url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
-              "source_name": "The Verge",
-              "published_at": "2026-03-30T13:38:08-04:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "迪士尼据报有意收购Epic Games等待合适时机",
+              "brief": "知情人士透露迪士尼内部多名高管有意收购《堡垒之夜》开发商Epic Games目前在等待最佳出手时机。迪士尼此前已向Epic投资15亿美元双方合作开发了大量迪士尼、漫威和星球大战主题的皮肤内容并计划推出专属迪士尼虚拟世界模式。Epic最近因2025年玩家活跃度下滑裁员约1000人但《堡垒之夜》和Unreal Engine仍是其核心资产。知情人士指出Epic由创始人蒂姆斯威尼通过投票权控制公司是否出售完全取决于他本人。迪士尼被视为Epic最自然的归宿但并非所有迪士尼高管都支持这笔收购。",
+              "source_url": "https://www.ign.com/articles/disney-reportedly-keen-on-buying-fortnite-developer-epic-games-but-waiting-for-right-moment",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T18:41:03+08:00"
+            },
+            {
+              "title": "JoJo奇妙冒险Steel Ball Run第二阶段播出时间仍不明朗",
+              "brief": "Netflix近日发布了JoJo的奇妙冒险第七部Steel Ball Run的最新预告片展示了第二阶段的部分新画面但仅标注将于2026年播出未给出具体日期或播出方式。第一集已于3月19日上线但后续内容是以单集形式还是分批剧集形式发布至今未有明确说明。此前第六部Stone Ocean曾采取类似策略先放出一批剧集数月后再续播剩余内容。这种非传统的播出节奏给粉丝带来了不少困惑。目前2026年的动画阵容依然强劲包括《葬送的芙莉莲》第二季和《攻壳机动队》新作等重磅作品。",
+              "source_url": "https://www.ign.com/articles/when-is-steel-ball-run-jojos-bizarre-adventure-episode-2-out-its-complicated",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T18:10:54+08:00"
+            },
+            {
+              "title": "VR社交游戏Rec Room在十周年之际宣布关闭",
+              "brief": "运营近十年的VR社交平台Rec Room宣布将于6月1日正式关闭服务器。这款曾吸引超过1.5亿玩家累计在线时长达68000年的虚拟社交空间始终未能实现可持续盈利。开发商Against Gravity表示运营成本长期高于收入随着VR市场萎缩和游戏行业整体遇冷盈利之路愈发艰难最终不得不做出关停决定。从即日起新用户无法注册好友添加功能已停用所有付费会员资格将延续至6月1日。创作者将无法再制作可变现的用户生成内容已获得的虚拟货币需在5月18日前提取。",
+              "source_url": "https://www.ign.com/articles/vr-social-game-rec-room-is-shutting-down-on-its-10th-anniversary-our-costs-always-ended-up-overwhelming-the-revenue-we-brought-in",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T17:39:20+08:00"
+            },
+            {
+              "title": "《辐射》第二季成Prime Video史上第二大回归剧集",
+              "brief": "亚马逊公布《辐射》第二季上线13周内全球观看人数达8300万在Prime Video回归剧集中仅次于《侠探杰克》第二季排名第二超越了《指环王：力量之戒》第二季和《侠探杰克》第三季。第二季采用周播模式而非第一季的一次性放出但依然取得了强劲表现。加上第二季的带动第一季全球累计观看人数已突破1亿。第三季已确认制作预计今年夏天开拍故事将前往科罗拉多州掘尸者已踏上旅途但是否会直接到达新地点还有待观察。",
+              "source_url": "https://www.ign.com/articles/amazon-says-fallout-season-2-audience-trails-only-reacher-season-2-among-returning-series-on-prime-video",
+              "source_name": "IGN",
+              "published_at": "2026-03-31T17:29:33+08:00"
+            },
+            {
               "title": "《马力欧赛车世界》1.6 大更新：新增炸弹炸翻天模式并调整道具平衡",
               "brief": "任天堂发布《马力欧赛车世界》1.6.0 版本更新，为这款 Switch 2 首发大作带来多项重要改动。最受关注的新增内容是回归自《马力欧赛车 8 豪华版》的炸弹炸翻天对战模式，玩家在气球对战的基础上只能使用炸弹互相攻击，目标是存活到最后。在竞速平衡方面，不同体型角色的碰撞后无敌时间现在有所差异，轻型角色无敌时间缩短，而重型角色获得更长的无敌时间，可能改变当前的角色选择格局。导弹头道具在部分困难赛道上的速度得到提升，且使用后更容易衔接捷径路线。回旋镖道具则被削弱，投掷距离和连掷次数均有下调。任天堂还调整了道具箱的道具获取概率，但未公布具体变化细节。",
               "source_url": "https://www.ign.com/articles/nintendos-changing-mario-kart-world-again-rebalancing-items-and-adding-bob-omb-blast-battle-mode",
               "source_name": "IGN",
               "published_at": "2026-03-31T16:47:24+08:00"
-            },
-            {
-              "title": "《杀出重围》开发商 Eidos-Montréal 裁员 124 人，工作室负责人离职",
-              "brief": "曾开发《杀出重围》《古墓丽影》等知名游戏的 Eidos-Montréal 宣布大规模裁员，涉及制作团队和后勤支持部门共 124 人，同时工作室负责人 David Anfossi 在任职 19 年后正式离职。Anfossi 自 2007 年加入该工作室，2013 年起担任负责人，曾监督《杀出重围：人类分裂》《古墓丽影：暗影》及《漫威银河护卫队》等项目。工作室表示裁员是由于项目需求变化，与员工能力无关，并承诺为受影响人员提供妥善的过渡支持。新负责人尚未确定，过渡计划正在进行中。此次裁员延续了该工作室近年的收缩趋势，2025 年初曾裁减 75 人，年底再度传出裁员消息，而一款新的《杀出重围》游戏也于 2024 年初被取消。",
-              "source_url": "https://www.ign.com/articles/eidos-montreal-announces-layoffs-alongside-the-departure-of-head-of-stuido-david-anfossi",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T16:25:16+08:00"
-            },
-            {
-              "title": "Ninja Gaiden Sigma 2 Plus Player Becomes First to Achieve Platinum Trophy",
-              "brief": "一名玩家近日成为首位真正拿下 PS Vita 版《忍者龙剑传 Sigma 2 Plus》白金奖杯的人。关键在于此前从未有人完成其中“Dynamic Duo”金杯要求，因此整套白金长期处于事实上的不可达状态。随着这次突破，这款老游戏在奖杯史上终于补上空白，也在 PSN 社区留下一个相当特殊的纪录。",
-              "source_url": "https://www.ign.com/articles/ninja-gaiden-sigma-2-plus-player-becomes-first-to-achieve-platinum-trophy",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T03:48:38+08:00"
-            },
-            {
-              "title": "Sony Is Putting Its SD and CFExpress Memory Card Production on Hold Thanks to AI",
-              "brief": "索尼已暂时停止多款 SD 和 CFexpress 存储卡的接单，原因是全球存储供应紧张，而 AI 带动的需求持续挤压产能。报道指出，内存、显卡和游戏主机等多个领域都受到类似影响，索尼暂未给出恢复时间。对于需要高速卡的摄影和视频用户来说，接下来价格和供货都可能继续承压。",
-              "source_url": "https://www.ign.com/articles/sony-is-putting-its-sd-and-cfexpress-memory-card-production-on-hold-thanks-to-ai",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T03:22:21+08:00"
-            },
-            {
-              "title": "RAM Prices Have Started To Drop, But the Crisis Is Far From Over",
-              "brief": "自 2025 年底一路飙升后，RAM 价格终于开始出现回落迹象，但市场距离真正恢复稳定仍然很远。报道认为，AI 超大规模客户此前推高了需求和价格，而现在只是从峰值略有回调。也就是说，内存危机还没有结束，普通消费者与 PC 用户短期内仍难期待价格迅速回到过去的友好水平。",
-              "source_url": "https://www.ign.com/articles/ram-prices-have-started-to-drop-but-the-crisis-is-far-from-over",
-              "source_name": "IGN",
-              "published_at": "2026-03-31T02:51:57+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "DeepSeek 服务再次出现访问异常，已是近期第二次故障",
-              "brief": "DeepSeek 平台服务再次出现访问异常，多名用户反馈在对话过程中频繁弹出网络检查或服务器繁忙提示，导致交互中断。这已是该平台近两天内第二次出现服务不稳定情况。此前 3 月 29 日夜间至 30 日上午，DeepSeek 曾遭遇长达 12 小时的大规模崩溃，网页端和手机应用均一度瘫痪，官方随后表示已两次紧急修复并全面恢复。然而仅过一天多，异常再次上演。据统计，DeepSeek 在过去 15 个月内已累计发生至少 7 次显著服务中断，其中 2025 年 1 月曾因遭受大规模恶意攻击多次宕机，甚至不得不限制非中国手机号注册以保障核心服务稳定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555948.htm",
+              "title": "广东7月起实施快递新规：未经收件人同意不得擅自放驿站",
+              "brief": "广东省出台快递新规明确自2026年7月1日起快递企业将快件投放至驿站等末端服务设施前须征得收件人同意并告知免费保管期限和超时收费标准。若收件人不在约定地址且无法电话联系快递企业应提供至少两次免费投递且两次之间需有合理时间间隔。对服务质量不满意的用户可向快递企业投诉企业须在7日内处理并告知结果。对处理结果不满或投诉未获及时处理的用户可向邮政管理机构申诉管理机构须在30日内答复。这一规定旨在规范快递最后一公里服务保障消费者知情权和选择权。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555960.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T18:23:45+08:00"
+              "published_at": "2026-03-31T20:30:48+08:00"
             },
             {
-              "title": "微软 Copilot 被发现在超 150 万个 GitHub PR 中注入广告内容",
-              "brief": "微软旗下 AI 编程助手 Copilot 被发现正在 GitHub 的拉取请求中自动注入广告推广内容，受影响的 PR 数量超过 150 万个。墨尔本开发者 Zach Manson 最先注意到，其团队成员使用 Copilot 修复拼写错误时，Copilot 在完成任务的同时向 PR 描述中添加了一句推广 Raycast 工具的文字。调查发现，广告内容前方隐藏着 HTML 注释标记，证实注入行为来自微软一方。广告不仅涉及 Raycast，还包括从 Slack、Teams 向 Copilot 发送任务等推广内容，甚至 GitLab 的合并请求也受到影响。这一做法引发开发者社区强烈批评，被认为是在代码仓库的严肃工作环境中植入推广内容极不恰当。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555946.htm",
+              "title": "美国民调：AI使用率上升但七成人担心就业受冲击",
+              "brief": "最新民调显示美国人对人工智能的日常使用正在增加但对就业影响的担忧也在同步加深。表示从未使用AI的受访者比例从去年的33%降至27%用AI搜索和研究话题的使用率较一年前跃升37个百分点。然而约76%的美国人几乎不信任或仅偶尔信任AI这一比例与去年基本持平。就业焦虑尤为突出70%的受访者担心AI会减少就业机会其中Z世代焦虑最高达81%。直接担心自己工作被AI取代的在职者比例从21%升至30%。此外80%的受访者不愿接受AI担任直属上司75%认为企业AI使用透明度不足74%认为政府监管力度不够。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555958.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T17:55:35+08:00"
+              "published_at": "2026-03-31T19:54:24+08:00"
             },
             {
-              "title": "一汽大众全新速腾 S 上市，起售价 7.98 万元直面国产车竞争",
-              "brief": "一汽大众全新速腾 S 正式上市，共推出 4 款配置车型，官方指导价 7.98 万至 10.58 万元。新车定位紧凑型家用轿车，主打年轻首购用户群体，7.98 万元的起售价意味着大众放下合资品牌高姿态，直接与国产轿车展开价格竞争。外观延续大众家族设计语言，配备贯穿式灯带和发光品牌标识。车身尺寸 4702×1815×1484 毫米，轴距 2688 毫米。内饰配备 12.9 英寸中控屏和 10.25 英寸液晶仪表双联屏系统，搭载高通 8155 芯片，融合 DeepSeek、豆包等 AI 大模型的语音交互系统支持多轮对话。动力提供 1.5L 自然吸气和 1.5T EVO2 两种选择，百公里综合油耗低至 5.49 升。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555944.htm",
+              "title": "Proton推出隐私优先办公套件Workspace正式对标微软Office",
+              "brief": "隐私科技公司Proton发布全新办公套件Proton Workspace提供端到端加密的邮件、日历、云盘、文档、表格、视频会议和VPN等一站式服务直接对标微软Office和谷歌Workspace。套件分两档定价标准版年费12.99美元含全部基础功能高级版年费19.99美元额外提供更大存储空间和Lumo隐私AI助手等进阶功能。现有Business Suite付费用户将自动免费升级至标准版。Proton强调其产品代码开源底层架构避开美国情报监控体系用户数据不会被用于AI模型训练。公司表示越来越多企业倾向于一次性采购整套服务以摆脱对大型科技公司的生态依赖。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555956.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T17:55:25+08:00"
+              "published_at": "2026-03-31T19:47:16+08:00"
             },
             {
-              "title": "加密货币市场持续下行进入第六个月，行业裁员转型求生存",
-              "brief": "加密货币市场持续下跌即将进入第六个月，仍看不到企稳迹象。比特币自去年 10 月触及 126080 美元高点后已腰斩，其他加密资产跌幅更大。CoinGecko 数据显示月度交易量可能创 2024 年 1 月以来新低，仅为大选后峰值的不到三分之一。一季度加密初创企业融资额约 29 亿美元，环比暴跌 69%。行业裁员潮已至，Gemini 裁员 30%，Crypto.com 裁员 12%。Coinbase、Kraken 等交易所正尝试转型为综合金融科技应用，与传统金融巨头合作推广代币化股票。去中心化借贷平台 Aave 上 USDC 年化收益率已降至 2.2%，远低于此前 6% 以上的水平。市场正重演典型熊市模式，投资者在更低交易量下逐步清仓离场。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555942.htm",
+              "title": "Ollama借助苹果MLX框架实现Mac端大幅加速",
+              "brief": "本地AI推理工具Ollama发布0.19预览版正式支持苹果MLX框架在Mac上的运行速度获得显著提升。得益于苹果新一代芯片中的GPU神经加速器搭载M系列芯片的Mac用户将体验到更快的模型推理性能。本次更新还优化了内存管理策略在长时间使用场景下更高效地利用系统统一内存使本地AI编码工具和聊天助手在持续会话中保持流畅交互。Ollama表示此次升级将特别有利于在macOS上运行个人助理类模型以及代码助手类代理的用户。目前预览版仅支持阿里通义千问Qwen3.5模型后续将逐步扩展支持范围建议用户在配备32GB以上统一内存的Mac上运行。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555954.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T17:49:14+08:00"
+              "published_at": "2026-03-31T19:44:24+08:00"
             },
             {
-              "title": "美国陪审团首次裁定社交媒体对用户心理健康担责，Meta 和 YouTube 赔偿 600 万美元",
-              "brief": "加州洛杉矶高等法院陪审团作出具有里程碑意义的裁决，认定 Meta 和 YouTube 对一名年轻女性的心理健康损害负有法律责任，判令以七三比例共同赔偿 600 万美元。这是美国历史上首次有陪审团认定社交媒体平台需对用户心理健康承担责任。原告凯莉从 6 岁开始使用 YouTube，11 岁起使用 Instagram，长期沉迷后引发抑郁症和自杀念头。陪审团经过九天审议后认定两家公司在平台设计上存在过失，明知可能对未成年人产生负面影响却未充分警示。庭审中披露的内部研究文件显示，两家公司早已知晓产品对青少年心理健康的危害。扎克伯格和 Instagram 负责人均亲自出庭作证。该判决被视为标杆案件，将影响全美数百起类似诉讼。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555940.htm",
+              "title": "2025年新能源车险承保亏损57亿元高赔付车系达143个",
+              "brief": "行业数据显示2025年新能源汽车保险保费收入1900亿元提供风险保障金额159万亿元但承保亏损57亿元同比仅减亏1亿元综合成本率同比下降1.3个百分点。新能源汽车规模车系数量达429个其中赔付率超过100%的高赔付车系有143个较上年增加6个。保费持续上涨的同时保险公司仍在亏损形成了车主嫌贵但险企也亏钱的尴尬局面。监管部门表示将通过适当方式把高赔付率车系数据反馈给汽车生产企业推动其完善车辆安全性和维修经济性设计以降低车辆全生命周期使用成本。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1555952.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-03-31T17:47:52+08:00"
+              "published_at": "2026-03-31T19:42:11+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "达美乐比萨正式任命 Nicola Frampton 为首席执行官",
-              "brief": "达美乐比萨公司发布正式任命声明，经过全面的遴选程序后，Nicola Frampton 被正式任命为公司首席执行官。Frampton 自 2025 年 11 月起一直担任临时 CEO，此次转正意味着公司对其在过去数月内管理工作的认可。达美乐比萨是全球最大的比萨连锁品牌之一，在全球拥有超过两万家门店，此次高层人事变动将影响公司未来的全球扩张战略和数字化转型方向。",
-              "source_url": "https://36kr.com/newsflashes/3746714402259462",
+              "title": "智元机器人与港中文达成战略合作共建具身智能联合平台",
+              "brief": "智元机器人与香港中文大学举行战略合作启动仪式宣布共建具身智能产学研联合平台。根据协议双方将通过产学研深度协同推动前沿研究与工程实践的紧密结合加速具身智能技术在更广泛场景中的落地探索。在人才培育方面双方计划建立常态化的高层次人才联合培养机制。这一合作标志着具身智能领域产学研融合迈出重要一步有望为该行业的技术突破和人才培养提供新的范式。",
+              "source_url": "https://36kr.com/newsflashes/3746832399892997",
               "source_name": "36氪",
-              "published_at": "2026-03-31T18:34:58+08:00"
+              "published_at": "2026-03-31T20:35:00+08:00"
             },
             {
-              "title": "央行数据：2 月同业拆借日均成交额同比激增 87%",
-              "brief": "中国人民银行发布 2026 年 2 月金融市场运行数据。数据显示，2 月份同业拆借日均成交额达到 4293.2 亿元，同比大幅增长 87.1%，反映出银行间市场资金流转活跃度显著提升。银行间市场债券回购日均成交额达 7.4 万亿元，同比增加 52.9%。截至 2 月末，同业拆借未到期余额为 1.0 万亿元，银行间市场债券回购未到期余额为 11.6 万亿元。上述数据表明当前金融市场流动性较为充裕，机构间资金融通需求旺盛。",
-              "source_url": "https://36kr.com/newsflashes/3746712279286532",
+              "title": "诚邦股份拟定增募资不超1亿元扩产嵌入式存储芯片",
+              "brief": "诚邦股份发布公告拟以简易程序向特定对象发行股票募集资金总额不超过1亿元。本次募资将主要用于嵌入式存储芯片扩产项目以及补充流动资金。嵌入式存储芯片广泛应用于智能手机、平板电脑和物联网设备等领域随着下游市场需求持续增长扩产有助于公司抓住市场机遇提升产能和市场份额。定增方案的简易程序意味着审批流程相对高效有利于公司尽快完成融资推进项目建设。",
+              "source_url": "https://36kr.com/newsflashes/3746830228095495",
               "source_name": "36氪",
-              "published_at": "2026-03-31T18:32:49+08:00"
+              "published_at": "2026-03-31T20:32:48+08:00"
             },
             {
-              "title": "上海黄金交易所 2 月黄金成交量同比下降 52.9%",
-              "brief": "中国人民银行公布数据显示，2026 年 2 月上海黄金交易所黄金成交量为 2813.9 吨，同比大幅下降 52.9%。上海期货交易所黄金成交 1.4 万吨，同比下降 7.4%。截至 2 月末，上海黄金交易所 Au（T+D）合约收于每克 1142.5 元，环比下跌 3.3%。黄金成交量的大幅萎缩与近期金价高位回落趋势一致，投资者观望情绪浓厚，市场活跃度明显降低。",
-              "source_url": "https://36kr.com/newsflashes/3746711424123397",
+              "title": "腾讯桌面智能体WorkBuddy上线微信小程序版本",
+              "brief": "腾讯自研桌面智能体WorkBuddy正式上线微信小程序版本支持云上与电脑双模式运行。用户可通过语音识别发送指令并直接发送文件和图片还能将WorkBuddy生成的文件、图片和视频等内容下载到手机端。WorkBuddy是腾讯在AI智能体领域的重要布局此前已推出桌面版此次小程序版本的上线进一步降低了使用门槛让用户无需安装客户端即可在手机上便捷调用AI桌面智能体功能体现了腾讯在多端AI助手生态上的持续投入。",
+              "source_url": "https://36kr.com/newsflashes/3746823696139014",
               "source_name": "36氪",
-              "published_at": "2026-03-31T18:31:57+08:00"
+              "published_at": "2026-03-31T20:26:09+08:00"
             },
             {
-              "title": "宏昌科技就间接投资张雪机车一事作出说明",
-              "brief": "宏昌科技发布公告，回应市场对其间接投资张雪机车的关注。公司股票交易价格连续两个交易日涨幅偏离值累计达 46.58%，触发异常波动标准。公告称，2025 年 8 月公司作为有限合伙人认缴出资 1.5 亿元参与金义智创基金，出资比例 29.82%。该基金于 2026 年 1 月完成对重庆张雪机车工业有限公司的投资，持有后者 5.5046% 股权。公司强调本次投资属于财务性投资，对公司整体经营影响较小。近期张雪机车在 WSBK 葡萄牙站夺冠引发市场高度关注。",
-              "source_url": "https://36kr.com/newsflashes/3746708821754630",
+              "title": "英伟达投资20亿美元于Marvell合作研发硅光子技术",
+              "brief": "英伟达与Marvell宣布达成战略合作双方将联合研发硅光子技术英伟达同时向Marvell投资20亿美元。硅光子技术利用光信号替代电信号进行芯片间数据传输有望大幅提升数据中心的通信带宽和能效比是下一代高性能计算基础设施的关键技术之一。这笔投资体现了英伟达在AI算力生态上的全面布局除了GPU和网络交换芯片外还通过资本合作深入到光互连领域为未来超大规模AI集群的数据传输瓶颈提前寻找解决方案。",
+              "source_url": "https://36kr.com/newsflashes/3746822323896840",
               "source_name": "36氪",
-              "published_at": "2026-03-31T18:29:18+08:00"
+              "published_at": "2026-03-31T20:24:45+08:00"
             },
             {
-              "title": "今日机构龙虎榜：净买入前三为平潭发展、欧科亿、特发信息",
-              "brief": "今日 A 股龙虎榜数据显示，共有 39 只个股出现机构交易身影，其中 17 只呈现机构净买入，22 只呈现机构净卖出。机构净买入金额排名前三的个股分别为平潭发展（2.34 亿元）、欧科亿（2.19 亿元）和特发信息（1.5 亿元）。净卖出方面，东鹏饮料以 3.63 亿元的机构净流出金额居首，舒泰神和美诺华分别以 2.87 亿元和 1.34 亿元紧随其后。整体来看，今日机构资金以卖出为主，多只消费和医药类个股遭到减持。",
-              "source_url": "https://36kr.com/newsflashes/3746703190082310",
+              "title": "优必选2025年收入增长53%人形机器人成第一大收入来源",
+              "brief": "优必选在港交所公告2025年全年收入同比增长53.3%至20.01亿元年内亏损由11.6亿元收窄至7.9亿元。全尺寸具身智能人形机器人成为公司第一大收入来源收入达8.2亿元同比增长超过22倍销量1079台同比增长近360倍毛利4.48亿元。公司全年研发投入超5亿元占营收比例达25.6%。这一业绩标志着人形机器人从实验室走向商业化的重要拐点优必选在该赛道的先发优势正在转化为实实在在的收入增长。",
+              "source_url": "https://36kr.com/newsflashes/3746814836458242",
               "source_name": "36氪",
-              "published_at": "2026-03-31T18:23:34+08:00"
+              "published_at": "2026-03-31T20:17:08+08:00"
             }
           ]
         },
@@ -534,39 +534,84 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "OPPO 新一代小方瓶充电器开启预约，提供 100W 和 120W 双版本",
-              "brief": "OPPO 新一代小方瓶系列充电器已在京东等平台开启预约，预计 4 月 21 日正式上市。新品阵容包括三款产品：100W 小方瓶 Pro 氮化镓充电器、120W 小方瓶双口氮化镓充电器，以及 SUPERVOOC 120W 超能舱超级闪充移动电源。充电器提供明媚暖阳和玫雾绒纱两种配色，移动电源则采用星炬橙配色。此前 OPPO 100W 小方瓶超级闪充氮化镓充电器上市时国补价仅 169.15 元，新系列预计将继续主打高性价比快充方案，支持 65W PD 协议并保持长期功率不掉电。",
-              "source_url": "https://www.ithome.com/0/934/636.htm",
+              "title": "华为汪涛接任轮值董事长任期自4月1日起",
+              "brief": "华为宣布汪涛将自2026年4月1日起担任轮值董事长任期至9月30日。汪涛现任华为副董事长此前曾担任华为意大利和瑞士子公司总经理、无线网络产品线总裁、ICT战略与Marketing总裁等多个核心管理岗位拥有丰富的国际化运营和技术管理经验。华为实行轮值董事长制度每半年轮换一次此前由徐直军担任轮值董事长。此次人事调整是华为治理架构的常规安排汪涛将在接下来的半年中主导公司战略方向和重大决策。",
+              "source_url": "https://www.ithome.com/0/934/658.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T18:28:11+08:00"
+              "published_at": "2026-03-31T20:16:01+08:00"
             },
             {
-              "title": "小米汽车全国服务网点达 274 家，覆盖 160 城",
-              "brief": "小米汽车公布最新开店进展：3 月新增 2 家门店，4 月计划再增 5 家，目前全国已有 274 家服务网点，覆盖 160 座城市，基本实现全国省份、直辖市、自治区的全覆盖。与此同时，新一代 SU7 已全面进店并开放试驾，全国 143 座城市的 492 家门店已正式开启试驾服务，部分城市交付中心可一次展示九种车身颜色。雷军此前透露，新一代小米 SU7 锁单量已超过 3 万辆，新车提前两个月开始备产，并已启动首批交付。小米汽车称锁单量数据比大定量「更真实」。",
-              "source_url": "https://www.ithome.com/0/934/635.htm",
+              "title": "神行者全球首搭骁龙8397座舱芯片首发宁德时代骁遥电池",
+              "brief": "神行者在新品发布会上宣布其新车将全球首批搭载高通骁龙座舱平台至尊版芯片骁龙8397并全球首发宁德时代全地形专用骁遥增混电池。骁龙8397集成Oryon CPU、新一代Adreno GPU以及专用Hexagon NPU支持多显示屏、高清语音识别和增强现实HUD等先进功能。这是高通2024年10月发布的最新一代汽车座舱平台标志着智能座舱芯片性能进入新的阶段。神行者新车还全球首搭华为896线激光雷达在智驾硬件配置上同样处于行业领先水平。",
+              "source_url": "https://www.ithome.com/0/934/657.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T18:19:38+08:00"
+              "published_at": "2026-03-31T20:06:15+08:00"
             },
             {
-              "title": "《Roblox》竞品《Rec Room》宣布 6 月 1 日关闭，十年运营未能实现可持续盈利",
-              "brief": "类似《Roblox》的元宇宙虚拟形象社交游戏《Rec Room》宣布将于 2026 年 6 月 1 日正式关闭。这款游戏运营长达十年，累计用户超过 1.5 亿，好友结交数量超 5 亿，用户总游戏时长达 6.8 万年，顶级用户生产内容虚拟房间游戏时间超过 500 年。然而坐拥如此丰厚的用户资源，《Rec Room》始终未能找到可持续的盈利模式，开发成本持续远超收入。加上近期 VR 市场发生重大变化，以及游戏行业整体面临的逆风，实现盈利目标愈发困难，开发方最终做出关闭项目的决定。这一案例折射出元宇宙社交游戏商业化仍面临严峻挑战。",
-              "source_url": "https://www.ithome.com/0/934/634.htm",
+              "title": "华为2025年营收8809亿元智能汽车业务增长72%",
+              "brief": "华为发布2025年年度业绩报告全球销售收入达8809亿元人民币研发投入1923亿元占营收约21.8%。分业务来看ICT基础设施业务营收3750亿元同比增长2.6%终端业务营收3444亿元同比增长1.6%云计算业务321亿元同比降低3.5%数字能源业务773亿元同比增长12.7%智能汽车解决方案业务450亿元同比大幅增长72.1%成为增速最快的板块。轮值董事长孟晚舟表示2025年华为整体经营稳健鸿蒙生态跨越了体验临界点未来将围绕联接、计算、云、终端和智能驾驶等战略高地持续加大研发投入。",
+              "source_url": "https://www.ithome.com/0/934/656.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T18:18:31+08:00"
+              "published_at": "2026-03-31T20:03:24+08:00"
             },
             {
-              "title": "央行个人一次性信用修复政策今日到期，万元以下逾期还清将不展示",
-              "brief": "中国人民银行发布的一次性个人信用修复政策于今日（3 月 31 日）到期。该政策实行「免申即享」，不收取任何费用，针对 2020 年 1 月 1 日至 2025 年 12 月 31 日期间单笔金额不超过一万元的个人逾期记录，若借款人在截止日期前足额偿还逾期债务，金融信用信息基础数据库将不予展示相关逾期信息。其中 2025 年 11 月 30 日前还款的已从 2026 年 1 月 1 日起不再展示，12 月 1 日至今日还款的将于次月底前完成处理。央行征信中心负责统一进行技术处理，无需个人申请。2026 年上半年个人还可额外免费查询信用报告两次。",
-              "source_url": "https://www.ithome.com/0/934/633.htm",
+              "title": "吉利博越REV增程SUV上市限时价10.79万元起",
+              "brief": "吉利博越REV增程SUV正式上市推出三个版本限时售价10.79万元起。新车搭载全栈自研11合1增程电驱系统增程器热效率达47.26%馈电油耗4.95升每百公里。搭载神盾金砖电池纯电续航最高375公里综合续航1525公里号称同级最长。电池系统通过军工级安全认证支持3C快充30%至80%充电约15分钟并具备6千瓦外放电功能。车身轴距2778毫米后排地板纯平放倒后可形成1.93米平整空间。智能座舱配备Flyme Auto系统、16扬声器音响和15英寸W-HUD抬头显示。",
+              "source_url": "https://www.ithome.com/0/934/655.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T18:14:16+08:00"
+              "published_at": "2026-03-31T20:01:34+08:00"
             },
             {
-              "title": "全球首艘万车级双燃料汽车运输船今日试航，最大载车 10800 辆",
-              "brief": "由中国船舶集团旗下广船国际为韩国 HMM 公司建造的 10800 车 LNG 双燃料汽车运输船今日出海试航，这是目前全球在建的首艘装车量超过万辆的双燃料汽车运输船。该船总长 230 米、型宽 40 米，设有 14 层车库甲板，可灵活装载电动汽车、氢能源汽车及重型卡车等多种车型，最大载车量 10800 辆，所有车辆首尾相连长度将超过 50 公里。动力方面采用燃油与液化天然气双燃料推进系统，配备轴带发电机实现航行中发电，排放满足国际海事组织 Tier Ⅲ 标准。此前依赖进口的滚装设备已全部实现国产化，标志着广船国际完全掌握该类船型的建造技术。",
-              "source_url": "https://www.ithome.com/0/934/631.htm",
+              "title": "影石Insta360 GO 3S复古玩家限定版开箱：腰平取景器加持",
+              "brief": "影石Insta360推出GO 3S运动相机复古玩家限定版套装售价1758元起部分地区国补后低至1494元。套装包含GO 3S单相机仅39克、复古腰平取景器、拓展电池和磁吸挂绳等配件。取景器通过镜片反射实现物理取景底部拆下盖板后可切换为自拍模式。相机内置多种复古风格滤镜可模拟富士和理光等热门相机的调色效果并默认启用Pureshot 2.0模式利用算法优化暗光画质。单相机续航38分钟搭配拓展电池可达76分钟视频最大支持4K 30fps。",
+              "source_url": "https://www.ithome.com/0/934/653.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T18:10:36+08:00"
+              "published_at": "2026-03-31T20:00:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Amazon大春季促销最后一天：Pixel、Galaxy及配件优惠汇总",
+              "brief": "Amazon大春季促销即将结束多款热门产品迎来史低价。谷歌Pixel 10系列最高直降300美元其中Pixel 10 Pro优惠250美元可用于机型及翻新机。三星Galaxy Tab S11平板优惠120美元Galaxy Tab A11+则降至202美元史低。此外Galaxy Buds 4 Pro耳机获得首次现金折扣或搭配S26/Ultra购买可享175美元优惠。谷歌Nest Wi-Fi Pro路由器打55折降至90美元历史最低价。大量智能家居和手机配件也参与了本次促销活动。",
+              "source_url": "https://9to5google.com/2026/03/31/last-day-best-big-spring-sale-deals/",
+              "source_name": "9to5Google",
+              "published_at": "2026-03-31T19:50:04+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "Shark推出室内外两用叶吹机BlastBoss风速达240公里",
+              "brief": "Shark品牌新推出的BlastBoss打破了叶吹机只能户外使用的限制它可用于院子扫落叶也适合室内清理碎屑。设备重量不到1.5磅无绳设计配备可调风速最高达每小时240公里。随机附带延伸棒精准喷嘴及名为BlastBroom的扫帚附件可在吹散碎屑的同时完成清扫。该产品已开售定价150美元提供多种配色可选其多功能设计让叶吹机这一品类开始向室内清洁工具转型。",
+              "source_url": "https://www.engadget.com/home/the-shark-blastboss-is-a-leaf-blower-that-can-be-used-indoors-123011878.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T20:30:11+08:00"
+            },
+            {
+              "title": "Proton推出端到端加密视频会议服务Proton Meet",
+              "brief": "隐私守护型互联网服务商Proton发布全新视频会议平台Proton Meet继续扩展其对抗谷歌和微软的产品矩阵。该服务采用端到端加密原则用户无需Proton账号即可加入会议也可匿名主持且不保留日志。免费用户可发起最多4人的匿名通话注册账户可支持最多50人、最长1小时的会议。此外Proton还推出了月费8美元的Meet Professional方案。加上Meet后Proton已基本覆盖了谷歌核心服务包括邮件日历网盘文档表格和密码管理器。",
+              "source_url": "https://www.engadget.com/apps/proton-adds-a-secure-video-conferencing-service-called-meet-to-its-toolbox-121729143.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T20:17:29+08:00"
+            },
+            {
+              "title": "SpaceX一颗Starlink卫星失联并解体",
+              "brief": "SpaceX确认卫星34343号于3月29日在轨道运行期间发生异常并失去联系事件发生时卫星位于约560公里高度。公司将跟踪可检测的碎片表明卫星已解体。由于轨道高度较低残骸对国际空间站和Artemis II任务均无威胁。轨道检测公司LeoLabs表示此事件与2025年12月的另一起类似异常事件相似两者均由内部能量源引发而非撞击太空垃圾或其他对象。SpaceX已承诺确定根本原因后将迅速实施必要的纠正措施。",
+              "source_url": "https://www.engadget.com/science/space/spacex-loses-contact-with-one-of-its-starlink-satellites-115538554.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T19:55:38+08:00"
+            },
+            {
+              "title": "Meta在部分国家测试Instagram Plus订阅服务",
+              "brief": "Meta正在菲律宾和墨西哥等少数国家测试名为Instagram Plus的付费订阅服务。该服务提供多项Stories相关功能包括为故事创建多个受众群体、查看谁浏览了你的故事、延长故事时长超过24小时、创建聚光灯故事以及用于反应的超级心心功能。其中一项名为预览的功能可让付费用户查看他人故事而不会被显示在观众列表中。这一模式与Snapchat的付费订阅服务类似后者已成为该公司非广告收入的重要驱动力。",
+              "source_url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111408830.html",
+              "source_name": "Engadget",
+              "published_at": "2026-03-31T19:14:08+08:00"
             }
           ]
         }
