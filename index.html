@@ -521,10 +521,6 @@
             <div class="block-title">日期</div>
             <select id="dateSelect" aria-label="选择日期"></select>
           </label>
-          <label>
-            <div class="block-title">站点筛选</div>
-            <input id="sourceSearch" type="search" placeholder="输入站点名，例如 MacRumors" autocomplete="off" />
-          </label>
           <div>
             <div class="block-title">主题</div>
             <div class="theme-row" id="themeButtons">
@@ -561,7 +557,7 @@
       </section>
 
       <section class="source-filter-box" id="sourceFilterBox">
-        <h2 class="block-title">站点快速筛选</h2>
+        <h2 class="block-title">站点快速跳转</h2>
         <div class="source-filter-list" id="sourceFilterList"></div>
       </section>
     </aside>
@@ -594,7 +590,7 @@
       availableDates: [],
       currentDate: null,
       data: null,
-      sourceFilter: '',
+      sourceFilter: '',  // legacy, no longer used
       themePreference: localStorage.getItem('daily-tech-theme') || 'system',
       systemDarkMedia: window.matchMedia('(prefers-color-scheme: dark)')
     };
@@ -602,7 +598,6 @@
     const els = {
       app: document.getElementById('app'),
       dateSelect: document.getElementById('dateSelect'),
-      sourceSearch: document.getElementById('sourceSearch'),
       themeButtons: [...document.querySelectorAll('.theme-btn')],
       tocList: document.getElementById('tocList'),
       sourceFilterList: document.getElementById('sourceFilterList'),
@@ -697,11 +692,14 @@
     }
 
     function getSourceNames() {
-      const names = new Set();
+      // Return source names in page order (main first, then more)
+      const names = [];
       for (const section of state.data?.sections || []) {
-        for (const source of section.sources || []) names.add(source.name);
+        for (const source of section.sources || []) {
+          if (!names.includes(source.name)) names.push(source.name);
+        }
       }
-      return [...names].sort((a, b) => a.localeCompare(b));
+      return names;
     }
 
     function getStats() {
@@ -728,8 +726,7 @@
 
       const filter = state.sourceFilter.trim().toLowerCase();
       els.sourceFilterList.innerHTML = getSourceNames().map(name => {
-        const active = filter && name.toLowerCase() === filter;
-        return `<button type="button" class="filter-chip ${active ? 'active' : ''}" data-source-chip="${escapeHtml(name)}">${escapeHtml(name)}</button>`;
+        return `<a class="filter-chip" href="#source-${name.replace(/[^a-zA-Z0-9\u4e00-\u9fff]/g, '')}">${escapeHtml(name)}</a>`;
       }).join('');
     }
 
@@ -764,7 +761,7 @@
           `).join('');
 
           return `
-            <section class="source-card ${matches ? '' : 'hidden-by-filter'}">
+            <section class="source-card ${matches ? '' : 'hidden-by-filter'}" id="source-${source.name.replace(/[^a-zA-Z0-9\u4e00-\u9fff]/g, '')}">
               <div class="source-head">
                 <h3 class="source-name">${escapeHtml(source.name)}</h3>
                 <span class="source-badge">${source.articles?.length || 0} articles</span>
@@ -803,19 +800,6 @@
 
     function bindEvents() {
       els.dateSelect.addEventListener('change', () => loadDate(els.dateSelect.value).catch(handleError));
-      els.sourceSearch.addEventListener('input', event => {
-        state.sourceFilter = event.target.value.trim();
-        render();
-      });
-
-      document.addEventListener('click', event => {
-        const chip = event.target.closest('[data-source-chip]');
-        if (!chip) return;
-        const value = chip.getAttribute('data-source-chip');
-        state.sourceFilter = state.sourceFilter.toLowerCase() === value.toLowerCase() ? '' : value;
-        els.sourceSearch.value = state.sourceFilter;
-        render();
-      });
 
       els.themeButtons.forEach(btn => {
         btn.addEventListener('click', () => setTheme(btn.dataset.themeValue));
