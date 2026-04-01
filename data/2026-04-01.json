@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T16:45:54.001440+08:00",
+  "generated_at": "2026-04-01T18:43:31.556689+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果将为 DarkSword 漏洞罕见发布 iOS 18 安全更新",
+              "brief": "苹果表示将于周三为仍停留在 iOS 18 的设备推送安全更新，用于修补名为 DarkSword 的漏洞。该漏洞可在用户访问含恶意代码的网站后静默接管 iPhone。iOS 26 已内置相关防护，但这次更新会覆盖仍可升级却尚未升级的 iOS 18 用户。苹果称开启自动更新的设备可自动收到补丁，并再次建议受支持机型尽快升级到 iOS 26。",
+              "source_url": "https://www.macrumors.com/2026/04/01/apple-ios-18-patch-darksword-exploit/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-01T18:04:25+08:00"
+            },
             {
               "title": "工程师为 iPhone 17 Pro 做出可用的 Lightning 接口",
               "brief": "瑞士工程师 Ken Pillonel 为 iPhone 17 Pro 制作了一款特别外壳，把原本已经改用 USB-C 的手机重新接回一个可正常工作的 Lightning 接口。这个项目被他形容为对读者“想看反向改造”请求的玩笑式回应，暂时没有商品化计划。外壳采用定制电路板、3D 打印 TPU 结构和 MagSafe 对位设计，延续了他此前给 iPhone X 改 USB-C、为 AirPods Max 推出 USB-C 改装方案的折腾路线。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/03/31/openai-chatgpt-carplay/",
               "source_name": "MacRumors",
               "published_at": "2026-04-01T03:34:20+08:00"
-            },
-            {
-              "title": "Apple Celebrates 50th Anniversary With Employee Gifts, Plans Finale Concert at Apple Park",
-              "brief": "苹果在 4 月 1 日迎来成立 50 周年之际，向员工发放了一套纪念礼品，包括 T 恤、徽章和限量海报，设计均采用周年庆使用的彩虹涂鸦风苹果标识。园区提示牌显示，这些纪念品将开放领取至 4 月 30 日。苹果自 3 月起已在纽约、成都、伦敦、温哥华和悉尼等地举行演出与 Today at Apple 活动，并计划在 Apple Park 为员工举办压轴演出，为整轮 50 周年庆祝活动收尾。",
-              "source_url": "https://www.macrumors.com/2026/03/31/apple-50th-anniversary-employee-gifts/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-01T02:54:30+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "读者票选：Nothing Phone 4a Pro 的最佳替代机是 Pixel 10a",
+              "brief": "Android Authority 针对 Nothing Phone 4a Pro 的替代机型发起投票，接近 2 万名读者参与。结果显示，Google Pixel 10a 以约 27% 的得票率排在首位，成为最受欢迎的替代选择。原文提到，Nothing Phone 4a Pro 以独特设计、相机和电池表现受到关注，但在同价位市场仍有不少竞争者，而 Pixel 10a 被视为更稳妥的选择。",
+              "source_url": "https://www.androidauthority.com/best-nothing-phone-4a-pro-alternative-poll-results-3653037/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T18:00:53+08:00"
+            },
+            {
+              "title": "体验 Pixel 新增交通模式后，我已经不想在公交和地铁上离开它了",
+              "brief": "Google 面向 Pixel 推出的交通模式在延迟一段时间后终于上线。作者在 Pixel 10 Pro XL 上实测后表示，这项功能会针对公交和地铁等公共交通场景减少打扰，首先允许用户设置更合适的通知音量，从而避免乘车时被大量提醒干扰。由于作者日常高度依赖公共交通，这项模式被认为能更直接改善通勤过程中的使用体验。",
+              "source_url": "https://www.androidauthority.com/i-tried-pixel-new-transit-mode-3653587/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T17:30:49+08:00"
+            },
+            {
+              "title": "Pixel 11 Pro 可能终于取消体温传感器，而我并不介意",
+              "brief": "继 Pixel 11 外观曝光后，Pixel 11 Pro 的 CAD 渲染图也已出现。除相机模组改为整块黑色玻璃、取消前代双色设计外，更受关注的变化是机身可能移除体温传感器。原文指出，这个传感器已经在三代 Pixel Pro 机型上出现，但作者认为它并非高频实用功能，因此如果谷歌在新机上删去这一硬件，也不会影响自己对 Pixel 11 Pro 的兴趣。",
+              "source_url": "https://www.androidauthority.com/google-pixel-11-pro-no-temperature-sensor-good-why-3653548/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T17:00:39+08:00"
+            },
+            {
+              "title": "三星可能正在准备一款神秘的新 Galaxy Buds 产品",
+              "brief": "开发者在三星 Galaxy Buds 应用中发现了一个此前未见的新名称“Galaxy Buds Able”。它与 Galaxy Buds 4、Galaxy Buds 4 Pro 一同出现在设备列表中，但对应的型号编号又不符合三星现有耳机产品的命名规律。原文据此判断，三星可能正在筹备一款新的 Galaxy Buds 系列产品，只是目前尚无法确认它究竟属于耳机新品还是采用了不同类别的命名方式。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-buds-able-3653700/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-01T17:00:14+08:00"
+            },
+            {
               "title": "ChatGPT 登陆 CarPlay，Android Auto 仍未放开同类能力",
               "brief": "随着 iOS 26.4 放开第三方纯语音对话类应用接入 CarPlay，iPhone 用户现在可以在车内通过 CarPlay 使用 ChatGPT。报道指出，这类应用必须以语音为主，不得显示文本和图片，也不能控制车辆或 iPhone 功能，目前也没有唤醒词，用户需要手动打开应用。文章同时对比称，Google 虽然允许自家的 Gemini 出现在车载平台上，但仍未向第三方聊天机器人开放类似的 Android Auto 类别支持。",
               "source_url": "https://www.androidauthority.com/chatgpt-apple-carplay-vs-android-auto-3653922/",
               "source_name": "Android Authority",
               "published_at": "2026-04-01T16:27:29+08:00"
-            },
-            {
-              "title": "Dolphin 模拟器加入 Game Boy Player 支持",
-              "brief": "Dolphin 模拟器新增了对 Game Boy Player 的支持，相当于把当年连接在 GameCube 底部、用于运行 GB、GBC 与 GBA 游戏的官方外设搬进了模拟器。开发团队使用的并不是全新方案，而是调动了 Dolphin 自 2021 年起就已内置的 mGBA 组件。GitHub 上已经能看到相关提交记录，部分提交还暗示这项能力未来可能会来到 Android 端，让用户直接在 Dolphin 里运行掌机游戏。",
-              "source_url": "https://www.androidauthority.com/dolphin-game-boy-player-support-3653927/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-01T16:21:12+08:00"
-            },
-            {
-              "title": "4 月值得尝试的 5 款新 Android 应用",
-              "brief": "Android Authority 发布了 2026 年 4 月的新应用月度推荐，列出近期发现的 5 款值得一试的 Android 应用与游戏，涵盖出行和 PDF 处理等不同场景。文章重点提到 Adaptive Theme，它可以利用手机环境光传感器在明暗变化时自动切换深色与浅色模式，用户还能自定义触发阈值。报道还把 PaperKnife+ 点名为今年表现亮眼的 PDF 工具之一，整体延续该栏目每月固定的精选推荐形式。",
-              "source_url": "https://www.androidauthority.com/best-new-android-apps-games-april-2026-3653008/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-01T16:00:26+08:00"
-            },
-            {
-              "title": "Google Fi 用户遭遇移动数据故障",
-              "brief": "多名 Google Fi 用户反映自己无法使用移动数据，还有人收到“SIM 卡已不再处于激活状态”的系统提示，部分用户的通话功能也受到影响。Android Authority 整理用户反馈称，暂时可行的变通方式是在 Fi 应用里关闭再重新开启“拨打非美国号码”功能，但有些人随后仍会再次遇到同样问题。Google 已在官方支持页面挂出横幅确认这一故障，并表示正在推进修复。",
-              "source_url": "https://www.androidauthority.com/google-fi-mobile-data-sim-issues-3653900/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-01T15:10:06+08:00"
-            },
-            {
-              "title": "OPPO 发布概念智能雨伞 Find U，内置 4K 屏与微型推进器",
-              "brief": "OPPO 公布了一款名为 Find U 的概念智能雨伞，产品宣称采用与 Find N6 相同的铰链技术，可承受 60 万次开合。伞内侧配备可显示内容的 4K 屏幕，手柄支持长按切换配色、调用摄像头和指纹解锁，还加入太阳能充电、自干燥与抗风功能。官方介绍中甚至提到微型推进器可在强风环境下提供最高 0.5G 的前向助力，预定发售日期写为 4 月 31 日。",
-              "source_url": "https://www.androidauthority.com/oppo-find-u-smart-umbrella-3653907/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-01T13:55:04+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "升级后的 Slack AI 现在可以分析你的工作方式",
+              "brief": "Salesforce 发布新版 Slack，并把更多 AI 功能整合进 Slackbot。新增能力包括转录、笔记整理、深度研究，以及与 Salesforce 其他产品的联动。新版还加入所谓“可复用技能”，允许团队把一项任务定义为完整流程，之后由机器人按需执行。原文指出，这些更新延续了 Salesforce 更广泛的 AI 转向，也让 Slack 在协作工具之外，进一步承担自动化和工作流编排角色。",
+              "source_url": "https://www.engadget.com/general/slacks-upgraded-ai-can-analyze-how-you-work-103007261.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-01T18:30:07+08:00"
+            },
+            {
+              "title": "观看阿耳忒弥斯计划首次载人任务升空",
+              "brief": "NASA 计划于 4 月 1 日执行阿耳忒弥斯计划下的首次载人飞行任务 Artemis II，发射窗口自美国东部时间 18:24 开始，持续两小时。任务将在佛罗里达肯尼迪航天中心起飞，搭载 4 名宇航员开展为期 10 天的绕月飞行。NASA 表示发射日天气有 80% 概率满足条件，工程团队也已在 3 月 31 日完成太空发射系统火箭的关键健康检查，并将系统切换至最终配置。",
+              "source_url": "https://www.engadget.com/science/space/watch-the-first-crewed-artemis-mission-take-flight-092800981.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-01T17:28:00+08:00"
+            },
             {
               "title": "Dinosaur Polo Club 突袭发布免费合作游戏 RTFM",
               "brief": "曾开发《Mini Metro》和《Mini Motorways》的工作室 Dinosaur Polo Club 突然发布了一款名为《Read the F*cking Manual》的免费合作游戏，已在 Itch.io 上面向 PC 和 Mac 平台免费提供。游戏以科技客服工作为背景，一名玩家扮演\"故障排除者\"持有设备手册但看不到屏幕，另一名玩家作为\"终端操作员\"需要口头描述屏幕内容。游戏强调信任与沟通，根据双方是否如实描述情况设有不同结局，整体风格带有悬疑恐怖元素。该项目最初源自游戏开发即兴创作活动，由工作室内部小团队完成。",
@@ -228,26 +242,19 @@
               "source_url": "https://www.engadget.com/transportation/toyotas-still-trying-to-make-hydrogen-fuel-cells-happen-202237728.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-01T04:22:37+08:00"
-            },
-            {
-              "title": "Tesla's robotaxis are reportedly remotely driven by humans, sometimes",
-              "brief": "特斯拉在致美国参议员 Ed Markey 的信中承认，其机器人出租车在极少数情况下会由远程人工操作员临时接管驾驶。报道指出，其他自动驾驶公司通常只让人工协助车辆脱困，而特斯拉允许远程人员直接控制车辆，这种做法更少见。特斯拉将其解释为在其他干预手段用尽后的最终冗余措施。相关说法再次说明，所谓全自动运营背后仍保留人工兜底机制，且介入方式比竞争对手更深入。",
-              "source_url": "https://www.engadget.com/transportation/teslas-robotaxis-are-reportedly-remotely-driven-by-humans-sometimes-200639550.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-01T04:06:39+08:00"
-            },
-            {
-              "title": "TikTok adds in-app Cameo integration for creators",
-              "brief": "TikTok 与 Cameo 达成整合，创作者现在可以直接在 TikTok 视频中添加 Cameo 链接，粉丝无需离开应用就能发起个性化视频请求。对于尚未加入 Cameo 的 TikTok 创作者，新的流程也支持直接完成注册。报道提到，Cameo 过去主要依靠名人定制视频服务，如今正把 TikTok 创作者作为增长更快的人才类别之一。此次合作的重点是把视频定制请求前移到 TikTok 内部，缩短从内容观看到下单请求的路径。",
-              "source_url": "https://www.engadget.com/social-media/tiktok-adds-in-app-cameo-integration-for-creators-195411895.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-01T03:54:11+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "百度萝卜快跑机器人出租车在路上集体卡死引发混乱",
+              "brief": "The Verge 援引彭博社图片和现场情况称，百度 Apollo 机器人出租车在中国道路上出现集体停滞，车辆在交通中冻结不动，进而造成混乱。文章将此事件归入 AI 与交通领域交叉问题，焦点放在自动驾驶系统在真实路况中的异常表现，以及由此对道路秩序产生的直接影响。原文没有把重点放在新功能发布，而是聚焦这次运行失灵本身及其造成的现场后果。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+              "source_name": "The Verge",
+              "published_at": "2026-04-01T06:39:52-04:00"
+            },
             {
               "title": "Evercade 推出新款 Nexus 掌机，搭载更大屏幕和双摇杆",
               "brief": "复古游戏掌机品牌Evercade发布了新款Nexus掌机，配备5.89英寸屏幕，较前代EXP-R的4.3英寸大幅增大，分辨率从800x480提升至840x512，屏幕比例也从4:3改为16:9。Nexus新增双摇杆设计，为支持3D游戏做好准备。该掌机不含应用商店，不能运行ROM文件，采用官方游戏卡带模式，首发随附Banjo-Kazooie和Banjo-Tooie的新版本。预售价199.99美元，4月1日开启预订，预计10月发货。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
               "source_name": "The Verge",
               "published_at": "2026-03-31T21:14:30-04:00"
-            },
-            {
-              "title": "亚马逊 2026 春季大促最新优惠持续更新",
-              "brief": "The Verge 持续更新亚马逊2026年春季大促的最新折扣，称活动将持续到当晚11点59分。整理内容显示，本轮促销覆盖个人音频、家庭影院升级、电子游戏、移动配件、便携音箱和适合春季出行的各类数码产品。文章还提到，许多价格被其他大型零售商同步匹配，因此消费者未必只能在亚马逊下单。整体来看，这是一篇实时追踪型汇总，重点在于帮助读者快速查看活动尾声仍可入手的主要低价商品。",
-              "source_url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
-              "source_name": "The Verge",
-              "published_at": "2026-03-31T20:45:00-04:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "ClawdHub 技能中心发布中国镜像站",
-              "brief": "蓝点网报道称，ClawdHub 技能中心面向中国用户推出镜像站，由字节跳动火山引擎提供赞助和中国 CDN 加速服务。用户在通过 OpenClaw 搜索、安装技能时，可指定镜像域名 cn.clawhub-mirror.com，以获得更快、更稳定的访问体验。报道还给出了追加 --registry 参数的命令形式，并称镜像站同步提供 ClawdHub 的全部技能内容。",
-              "source_url": "https://www.landiannews.com/archives/112431.html",
+              "title": "Codex 再次重置额度，官方称因未知问题和大规模封号释放算力",
+              "brief": "蓝点网称，OpenAI Codex 团队再次为用户重置配额。文章援引说法称，近期团队观察到用户更频繁触发额度限制，虽然尚未查明具体原因，但为了避免影响使用，先行重置配额作为补偿。另一项背景是 OpenAI 对批量注册并消耗大量算力的欺诈 ChatGPT 账号进行了大规模封禁，由此释放出部分计算资源，也使更多正常用户能够重新获得可用额度。",
+              "source_url": "https://www.landiannews.com/archives/112455.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-01T16:33:32+08:00"
+              "published_at": "2026-04-01T18:16:55+08:00"
             },
             {
-              "title": "三星在 OneUI 8.5 中移除自定义字体支持引发用户不满",
-              "brief": "三星在 OneUI 8.5 中取消了第三方自定义字体支持，用户升级后若未 root 将无法继续安装自定义字体，这一变化引发了不少不满。报道指出，三星曾在 3 月安全公告中提到旧版字体设置存在签名验证不当问题，可能被物理攻击者利用，因此加强了安全验证。当前只有三星应用商店内已验证字体仍可使用，想恢复第三方字体基本只能依赖 root 方案。",
-              "source_url": "https://www.landiannews.com/archives/112430.html",
+              "title": "微软重新发布 Windows 11 可选更新 KB5086672，替代被撤回补丁",
+              "brief": "微软重新向 Windows 11 24H2 与 25H2 用户发布可选更新 KB5086672，用来替代此前因循环安装问题被撤回的 KB5079391。原补丁在安装时会出现 0x80073712 等错误，导致系统反复下载和安装失败。新版本修复了这一安装异常，同时保留了 KB5079391 原本包含的更新内容。文章提醒，这类预览性质的可选更新主要用于测试稳定性，追求稳定的用户不宜主动安装。",
+              "source_url": "https://www.landiannews.com/archives/112454.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-01T12:29:55+08:00"
+              "published_at": "2026-04-01T17:58:31+08:00"
             },
             {
-              "title": "谷歌将 Axios 供应链攻击归因于朝鲜黑客组织 UNC1069",
-              "brief": "谷歌威胁情报小组表示，近期针对开源库 Axios 的供应链攻击可追溯到朝鲜黑客组织 UNC1069，动机主要与经济利益有关。报告称，攻击者通过恶意依赖投放 WAVESHAPER.V2 后门，其基础设施和后门家族均与 UNC1069 过往活动存在重叠。该后门具备系统侦察、命令执行和文件枚举等能力，谷歌认为此次行动很可能仍以窃取加密钱包信息或相关资产为目标。",
-              "source_url": "https://www.landiannews.com/archives/112429.html",
+              "title": "技嘉控制中心 GCC 出现远程代码执行漏洞，官方催促用户尽快升级",
+              "brief": "技嘉发布安全公告称，预装在其主板和笔记本上的技嘉控制中心 GCC 存在高危漏洞，攻击者可借此远程写入任意文件，进一步执行代码、提升权限或访问用户文件。受影响版本为 25.07.21.01 及更早版本，问题与软件中的配对功能有关。技嘉已经发布 GCC 25.12.10.01 版修复下载路径管理、消息处理和命令加密等问题，并建议已安装该软件的用户立即升级。",
+              "source_url": "https://www.landiannews.com/archives/112453.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-01T12:07:11+08:00"
+              "published_at": "2026-04-01T17:40:57+08:00"
             },
             {
-              "title": "Anthropic 要求 GitHub 下架超 8100 个含 Claude Code 源码仓库",
-              "brief": "Claude Code 源码泄露后，Anthropic 已向 GitHub 发出 DMCA 通知，要求删除超过 8100 个包含相关代码的仓库。报道称，GitHub 已对被指侵权的父仓库及其大量分支执行下架处理，原因是举报方认为整个仓库均含受版权保护内容。文章同时指出，这类下架动作主要发生在 GitHub 平台内，已经流散到其他渠道或被开发者本地保存的代码，并不会因此被彻底清除。",
-              "source_url": "https://www.landiannews.com/archives/112428.html",
+              "title": "思科遭供应链攻击，内部及部分客户项目源码被窃取",
+              "brief": "蓝点网称，思科在一轮由 Trivy 相关投毒事件引发的供应链攻击中受损，攻击者借助恶意 GitHub Action 进入其构建和开发环境，窃取了多项凭据以及 300 多个私有仓库数据。被克隆的仓库中包括部分企业客户和美国政府机构项目。文章称，思科已发现被盗 AWS 凭据被用于访问云资源，目前正在隔离受影响系统、重装环境，并对无法确认是否泄露的密钥开展大规模轮换。",
+              "source_url": "https://www.landiannews.com/archives/112433.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-01T11:09:03+08:00"
+              "published_at": "2026-04-01T17:22:48+08:00"
             },
             {
-              "title": "英伟达开始推送 DLSS 4.5 动态帧生成与 6 倍多帧生成",
-              "brief": "英伟达通过 Nvidia App 测试版向用户推出 DLSS 4.5 更新，为 RTX 50 系显卡带来动态多帧生成调节和最高 6 倍多帧生成。报道称，动态模式会根据显卡实际负载自动调整帧生成倍率，在高负载场景提升流畅度，在负载降低时再回落以节省资源。新增的 6 倍模式则可在路径追踪 4K 游戏中把帧率较 4 倍模式进一步提高，启用条件是安装 595.79 或更高版本驱动。",
-              "source_url": "https://www.landiannews.com/archives/112427.html",
+              "title": "Claude Code 团队回应源码泄露：人为失误，将提高自动化程度",
+              "brief": "Claude Code 主要开发者 Boris Cherny 回应源码泄露事件时表示，问题源于生产部署流程中的手动步骤发生失误。文章称，团队在打包发布时误把包含大量未混淆数据的 MAP 文件一并带入生产环境，进而暴露了产品内部结构。Anthropic 已向 GitHub 发出大量 DMCA 删除请求，要求移除传播泄露内容的仓库。开发团队表示后续会减少人工操作、增加自动化检查，并让 Claude Code 参与校验结果。",
+              "source_url": "https://www.landiannews.com/archives/112432.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-01T11:00:35+08:00"
+              "published_at": "2026-04-01T16:46:00+08:00"
             }
           ]
         },
@@ -334,45 +334,59 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "华强北出现内存抛售潮：DDR5 低价背后是库存挤压",
-              "brief": "cnBeta 报道称，华强北近期出现 DDR5 内存条低价抛售，有商户甚至给出 1950 元一条的价格。文章将原因归结为前期涨价过快压制终端需求、中小商家盲目囤货后面临资金周转压力，以及部分拆机内存以低价流入市场。报道同时提到，原厂价格仍较坚挺，一些业内人士认为这更像渠道库存调整，不足以改变存储产业的整体上行趋势。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556140.htm",
+              "title": "伊朗战事冲击航空煤油供应，航空公司进入危机应对状态",
+              "brief": "cnBeta 援引行业信息称，中东局势升级正显著冲击航空煤油供应，亚洲与欧洲航司面临成本和供给双重压力。报道提到，冲突已波及全球约五分之一原油供应，航空煤油价格在短时间内翻倍，而该燃料储存周期有限，进一步放大了紧张局面。多家航司已上调票价或加收燃油附加费，部分公司开始削减航线、压缩班次，并把现金保留和调整运力视为当前最紧迫任务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556158.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T16:22:03+08:00"
+              "published_at": "2026-04-01T18:23:35+08:00"
             },
             {
-              "title": "联想 YOGA AI Mini 主机首发 5499 元",
-              "brief": "联想发布 YOGA AI Mini 主机，首发价 5499 元，搭载英特尔 Ultra 5 325 处理器、16GB LPDDR5X-8533 内存和 512GB PCIe 4.0 SSD。文章称该机配备 DingOS 系统，可实时解析用户意图并进行主动适配，同时内置完整的 Claw 方案，支持一键安装智能助手和语音交互。接口方面包括双雷电 4、USB-C、HDMI 与 2.5G 网口，整体定位一台强调本地 AI 使用体验的小型主机。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556138.htm",
+              "title": "Claude 负责人回应源码泄露：不会让员工背锅，这是无心之失",
+              "brief": "cnBeta 报道，Claude 相关负责人就源码泄露事件表示，这次事故属于无心错误，不应简单归咎于个别员工，真正的问题在于流程、文化和基础设施。回应中提到，当前部署流程中仍存在本应自动化却由人工完成的步骤，团队已经着手修改，并将在后续继续增强自动化。文章还提到，Anthropic 当天已迅速向 GitHub 发出大量 DMCA 请求，要求删除基于泄露源码衍生的项目仓库。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556156.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T16:21:54+08:00"
+              "published_at": "2026-04-01T17:26:07+08:00"
             },
             {
-              "title": "工业电商平台万物集被曝跑路，总部人去楼空",
-              "brief": "报道称，工业电商平台万物集被多家供应商指称拖欠货款，总部办公室已上锁，常熟仓库办公室也被贴上封条。已有供应商表示自己被拖欠超过 330 万元，维权群中涉及的供应商超过 500 家，总欠款规模据称逾 2 亿元。公开资料显示，万物集前身为固安捷中国，2020 年完成管理层收购并独立运营，2022 年更名后继续主打工业品数字化采购服务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556136.htm",
+              "title": "Irdeto 更新 Denuvo 引发热议，虚拟机破解路径仍未被压住",
+              "brief": "cnBeta 关注 Denuvo 加密方案与虚拟机破解之间的新一轮对抗。文章称，Irdeto 已对 Denuvo 作出更新，试图阻止利用虚拟机进行破解的方式，但此前相关绕过方案仍能在较短时间内重新生效。原文把虚拟机管理程序的出现视为 Denuvo 长期垄断局面的转折点，并指出玩家与厂商在快速破解问题上的态度并不一致。下一款搭载 Denuvo 的大型作品将于 4 月 17 日推出，届时效果可能进一步显现。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1556154.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T16:21:41+08:00"
+              "published_at": "2026-04-01T17:16:43+08:00"
             },
             {
-              "title": "美加墨世界杯 48 支参赛队全部确定",
-              "brief": "2026 年美加墨世界杯的 48 支参赛球队已经全部确定，揭幕战定于 6 月 12 日 3 点进行。报道列出了从 A 组到 L 组的完整分组，并指出如果阿根廷和葡萄牙都以小组头名出线且一路晋级，那么梅西和 C 罗可能在四分之一决赛首次于世界杯赛场相遇。文章重点围绕赛程签位和分组结果展开，梳理了本届扩军后世界杯的首轮对阵格局。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1556134.htm",
+              "title": "美国出现电动车“铁锈带”，高油价也没能扭转投资降温",
+              "brief": "cnBeta 报道称，美国多家原本服务电动车扩产计划的零部件工厂正处于闲置或低利用率状态，形成被称作“电动车铁锈带”的景象。文章以麦格纳的一座大型工厂为例，说明车企在缩减激进电动车投资后，供应链随之陷入产能过剩和设备闲置。尽管近期国际油价上升，但车企并未因此迅速重回纯电路线，而是继续转向混动或放缓投入，相关产能转型预计仍需 18 至 24 个月。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556152.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T16:20:37+08:00"
+              "published_at": "2026-04-01T17:15:59+08:00"
             },
             {
-              "title": "三星与 SK 海力士加大在华投资扩产升级",
-              "brief": "cnBeta 援引报道指出，三星和 SK 海力士正显著增加在中国工厂的投资。三星西安工厂 2025 年将获得 4654 亿韩元注资，并已量产第八代 V-NAND；SK 海力士无锡工厂和大连工厂也分别获得大幅追加投资，用于 DRAM 与 NAND 工艺升级。文章认为，两家厂商在华扩产和制程更新将影响未来几年全球存储芯片的供应能力，并更直接服务于 AI 服务器与数据中心的高容量存储需求。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556132.htm",
+              "title": "特斯拉 Model S / X 宣布停产，仅余库存车可选",
+              "brief": "cnBeta 称，特斯拉已官宣停止 Model S 和 Model X 车型生产，后续市场仅剩库存车辆可供购买。文章同时提到，特斯拉正把更多资源投向 Optimus 人形机器人项目，目标是实现年产百万台，并计划在 6 月底前完成相关产线改造。报道还称，Optimus 已完成精准抓取与自主导航测试，量产准备进度达到 89%，核心零部件国产化率提升至 65%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556150.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-01T16:13:01+08:00"
+              "published_at": "2026-04-01T16:55:29+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《红色沙漠》两周销量突破 400 万份",
+              "brief": "Pearl Abyss 宣布开放世界动作冒险游戏《红色沙漠》发售两周销量已达 400 万份。该作首日卖出 200 万份，5 天突破 300 万份，随后又在一周多时间里新增 100 万份。原文指出，游戏上市初期在 Steam 上的用户评价一度为“褒贬不一”，但随着开发团队连续推出重要补丁，加入仓库箱、更多可召唤坐骑等内容后，评价已提升至“特别好评”，同时 Steam 在线峰值也继续增长。",
+              "source_url": "https://www.ign.com/articles/crimson-desert-sells-4-million-copies-in-2-weeks-as-pearl-abyss-open-world-action-adventure-continues-its-hot-streak",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T15:51:29+08:00"
+            },
+            {
+              "title": "专访：《恋与深空》如何把“一见钟情”的科学机制融入游戏设计",
+              "brief": "IGN 在旧金山 GDC Festival of Gaming 期间采访了《恋与深空》开发团队，讨论这款女性向游戏如何把“一见钟情”背后的心理学机制转化为产品设计。文章提到，玩家会通过 Xavier、Zayne、Rafayel、Sylus 和 Caleb 等角色建立情感连接，而每日签到等常见手游机制在本作中被重新包装成“被珍视”的体验。开发团队还在多场演讲中解释了其围绕浪漫主题、科幻战斗和长期黏性的设计思路。",
+              "source_url": "https://www.ign.com/articles/exclusive-interview-how-love-and-deepspace-harnessed-the-science-behind-love-at-first-sight",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T15:26:20+08:00"
+            },
             {
               "title": "《暗影蜘蛛侠》将以喜剧类目参与艾美奖评选",
               "brief": "由尼古拉斯·凯奇主演的真人剧集《Spider-Noir》确认将以喜剧类目参加艾美奖评选。该剧将于5月25日在 MGM+ 首播，并于5月27日在 Prime Video 面向全球上线，故事设定在大萧条时期的漫威宇宙，主角为本·帕克版本的暗影蜘蛛侠。剧集由《蜘蛛侠：平行宇宙》团队中的菲尔·洛德和克里斯托弗·米勒参与监制。若报名成功，它将与《Hacks》《大楼里唯一的谋杀案》《Shrinking》等作品同场竞争。",
@@ -393,20 +407,6 @@
               "source_url": "https://www.ign.com/articles/call-of-duty-players-arent-happy-about-the-new-dave-chappelle-tracer-pack-for-black-ops-7",
               "source_name": "IGN",
               "published_at": "2026-04-01T05:17:24+08:00"
-            },
-            {
-              "title": "Scream 8 on the Way After Scream 7's Record-Breaking $200 Million Box Office Success, Poker Face Showrunners Writing the Script",
-              "brief": "《惊声尖叫7》全球票房突破2亿美元，创下该系列历史最高纪录，超越1996年首部1.73亿美元的成绩。趁此势头，制片方已宣布将制作《惊声尖叫8》，剧本由《扑克脸》联合剧集主管莉拉和诺拉·祖克曼执笔。《惊声尖叫7》的成功证明了这一经典恐怖片IP在历经近三十年后依然具有强大的市场号召力，续作的快速推进也显示出片方对该系列的信心。",
-              "source_url": "https://www.ign.com/articles/scream-8-on-the-way-after-scream-7s-record-breaking-200-million-box-office-success-poker-face-showrunners-writing-the-script",
-              "source_name": "IGN",
-              "published_at": "2026-04-01T05:10:25+08:00"
-            },
-            {
-              "title": "Square Enix 愚人节再次发布 Nier 系列新项目预告",
-              "brief": "Square Enix 在愚人节前夕通过官方账号发布了一款名为《NieR: Cosmic Horror》的新项目预告，文案写道\"虚无中诞生的是希望，还是名为救赎的绝望\"，并标注\"Coming Soon\"。由于发布的特殊时间节点，玩家对此持谨慎态度。Nier 系列多年来反复出现类似操作：官方频繁发布新项目预告，但最终产品往往并非粉丝期待的核心续作，而是音乐会巡演、书籍、舞台剧、动漫、漫画或跨界活动等形式。自《尼尔：自动人形》之后，玩家期盼一款真正的 AAA 级续作已近十年，此次\"宇宙恐怖\"项目的真实性质仍不明朗。",
-              "source_url": "https://www.ign.com/articles/square-enix-is-once-again-taunting-us-with-a-nier-related-tease-this-time-on-april-fools-day",
-              "source_name": "IGN",
-              "published_at": "2026-04-01T04:23:46+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "1688 获“驰名商标”司法认定",
-              "brief": "36 氪报道称，阿里巴巴旗下源头厂货平台 1688 近日被依法认定为“驰名商标”。根据相关法律规定，这意味着 1688 将获得跨类别保护和反淡化保护等更高等级的法律保护待遇，针对攀附商标的侵权行为将面临更高门槛和成本。报道还提到，1688 近年来设立了法律服务中心，为平台商家在实际经营场景中提供专业法律支持，作为品牌保护之外的配套措施。",
-              "source_url": "https://36kr.com/newsflashes/3748011675419141?f=rss",
+              "title": "甘肃能化拟收购金昌化工 100% 股权，股票 4 月 2 日起停牌",
+              "brief": "甘肃能化公告称，正在筹划通过发行股份及支付现金的方式，购买控股股东甘肃能源化工投资集团持有的金昌化工 100% 股权，并同步募集配套资金。公司已申请自 4 月 2 日开市起停牌，可转债也将同时停牌并暂停转股。公告预计将在不超过 10 个交易日内披露本次交易方案，当前披露内容主要围绕筹划中的资产收购安排和停牌时间表。",
+              "source_url": "https://36kr.com/newsflashes/3748134599361282?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-01 16:34:38  +0800"
+              "published_at": "2026-04-01 18:39:40  +0800"
             },
             {
-              "title": "英国 3 月制造业 PMI 终值为 51",
-              "brief": "36 氪快讯援引界面消息称，英国 3 月制造业 PMI 终值为 51，低于预期的 51.4。原文仅给出这一终值及市场预期数据，没有展开更多背景或分项指标说明。这条快讯主要反映最新制造业景气度数据与市场预期之间的差异，用于更新当月英国制造业运行情况，也说明市场对英国制造业恢复力度的预期略高于最终公布结果。",
-              "source_url": "https://36kr.com/newsflashes/3748011466162694?f=rss",
+              "title": "机构今日净买入神剑股份等 19 股，净卖出中利集团 7290 万元",
+              "brief": "盘后龙虎榜数据显示，4 月 1 日共有 37 只个股出现机构席位，其中 19 只获机构净买入，18 只遭机构净卖出。净买入金额前三的是神剑股份、益方生物和凯莱英，分别为 1.81 亿元、6155 万元和 5724 万元；净卖出金额前三的是中利集团、巨力索具和深南电 A，分别净流出 7290 万元、6028 万元和 5725 万元。数据来源为当日龙虎榜公开信息。",
+              "source_url": "https://36kr.com/newsflashes/3748127515689478?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-01 16:34:25  +0800"
+              "published_at": "2026-04-01 18:32:28  +0800"
             },
             {
-              "title": "阿里发布图像生成与编辑统一模型 Wan2.7-Image",
-              "brief": "36 氪报道称，阿里巴巴发布图像生成与编辑统一模型 Wan2.7-Image。该模型提供文生图、图生组图、图像指令编辑和交互式编辑等全链路能力，并新增“调色盘”功能用于更精准地控制色彩表现。报道同时提到，Wan2.7-Image 可实现“千人千面”的图像生成与编辑效果，定位为覆盖生成到编辑多个环节的一体化模型，强调统一工作流和更细粒度的编辑控制。",
-              "source_url": "https://36kr.com/newsflashes/3748005350769412?f=rss",
+              "title": "喜临门因涉嫌信息披露违法违规被证监会立案",
+              "brief": "喜临门公告称，公司近日收到中国证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。当前公开内容未披露更具体的违法细节，核心信息集中在监管部门已正式启动调查程序。该消息以公司公告为基础发布，意味着后续若有调查结论、处罚决定或进一步说明，仍需等待监管和公司层面的后续披露。",
+              "source_url": "https://36kr.com/newsflashes/3748124960686849?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-01 16:28:12  +0800"
+              "published_at": "2026-04-01 18:29:52  +0800"
             },
             {
-              "title": "德国五大研究机构下调 2026 年经济增长预期",
-              "brief": "36 氪援引央视新闻称，德国五大经济研究机构在春季联合经济预测报告中下调了 2026 年和 2027 年德国经济增长预期。报告指出，受当前中东局势引发的能源价格冲击影响，德国经济复苏明显放缓，预计 2026 年增长 0.6%、2027 年增长 0.9%，分别较去年秋季预测下调 0.6 和 0.4 个百分点。报道核心是这份联合预测对德国未来两年增速判断的同步转弱。",
-              "source_url": "https://36kr.com/newsflashes/3748001230390024?f=rss",
+              "title": "文远知行与 Grab 在新加坡启动自动驾驶出行服务",
+              "brief": "文远知行与 Grab 宣布，在新加坡榜鹅地区正式启动 Ai.R 自动驾驶出行服务的公开运营。根据公告，即日起公众可在当地居民社区内体验这项服务，文章将其称为新加坡首个自动驾驶公共出行服务。当前披露重点是项目的落地范围和开放体验时间，显示双方合作已从测试阶段进一步走向面向公众的实际运营。",
+              "source_url": "https://36kr.com/newsflashes/3748122538607366?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-01 16:24:00  +0800"
+              "published_at": "2026-04-01 18:27:24  +0800"
             },
             {
-              "title": "韩国 3 月半导体出口额同比大增 151.4%",
-              "brief": "36 氪援引界面消息称，韩国产业通商部发布的 3 月进出口数据显示，韩国当月出口额同比增长 48.3%，达到 861.3 亿美元，创下单月新高。其中半导体出口额同比大增 151.4%，首次突破 300 亿美元至 328.3 亿美元。汽车出口同比增长 2.2% 至 63.7 亿美元，石油产品出口也增长 54.9% 至 51 亿美元，显示半导体继续充当韩国出口增长的最强拉动力。",
-              "source_url": "https://36kr.com/newsflashes/3747993654706949?f=rss",
+              "title": "赛力斯 3 月新能源汽车销量 2.27 万辆，同比增长 20.74%",
+              "brief": "赛力斯公告显示，公司 3 月新能源汽车销量为 2.27 万辆，同比增长 20.74%。快讯披露的信息较为简洁，核心仅围绕单月新能源汽车销量及同比增幅。文章未展开更详细的车型结构、季度累计销量或区域表现，但从公告口径来看，赛力斯在 3 月实现了同比正增长，延续了公司在新能源车业务上的月度交付披露节奏。",
+              "source_url": "https://36kr.com/newsflashes/3748120125506309?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-01 16:16:18  +0800"
+              "published_at": "2026-04-01 18:24:57  +0800"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "赛力斯 3 月新能源汽车销量 2.27 万辆，同比增长 20.74%",
+              "brief": "IT之家汇总赛力斯披露的产销数据称，公司 3 月新能源汽车销量为 2.27 万辆，同比增长 20.74%。其中赛力斯汽车销量为 20234 辆，同比增长 47.74%。从总量看，公司 3 月总产量 26609 辆，同比增长 4.49%，总销量 27484 辆，同比增长 11.68%。文章重点围绕月度产销成绩，说明其新能源业务和整体销量均保持同比增长。",
+              "source_url": "https://www.ithome.com/0/935/068.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-01T18:16:21+08:00"
+            },
+            {
+              "title": "蔚来 3 月交付 35486 台新车，同比增长 136%，累计交付破百万",
+              "brief": "蔚来公布 3 月交付成绩，当月共交付新车 35486 台，同比增长 136.0%。其中乐道品牌交付 6877 台，同比增长 42.7%，firefly 萤火虫品牌交付 6119 台，环比增长 130.3%。公司 2026 年一季度累计交付 83465 台，同比增长 98.3%，累计交付总量达到 1081057 台。文章还提到，全新 ES8 完成第 8 万台交付，蔚来 2026 款 ES6、EC6、ET5 和 ET5T 将于 4 月 2 日上市。",
+              "source_url": "https://www.ithome.com/0/935/057.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-01T17:55:18+08:00"
+            },
+            {
+              "title": "比亚迪 3 月销量 300222 辆，环比接近翻番",
+              "brief": "比亚迪披露 3 月新能源汽车销量为 300222 辆，较 2 月的 190190 辆环比增长 98.44%，同比则下滑 20.45%。其中乘用车销量 295693 辆，纯电车型销售 147601 辆，插混车型销售 148092 辆，乘用车及皮卡海外销量 119591 辆，同比增长 65.2%。文章还提到，比亚迪 3 月动力及储能电池装机总量约 21.255GWh，并宣布第 5000 座闪充站及首批高速闪充站投入运营。",
+              "source_url": "https://www.ithome.com/0/935/056.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-01T17:50:53+08:00"
+            },
+            {
+              "title": "《降世神通传奇：格斗游戏》确认 7 月 2 日发售，售价 29.99 美元",
+              "brief": "IT之家称，《降世神通传奇：格斗游戏》已确认于 7 月 2 日发售，采用 2D 手绘风格，定价 29.99 美元。文章提到，本作支持联机对战，PC 版最低配置为酷睿 i5-7500 或锐龙 5 2600，显卡需 GTX 970 或 RX 570，并预留 3.6GB 可用存储空间。除 PC 外，游戏还将同步登陆 PS5、Xbox Series 平台，Switch 1 与 Switch 2 版本则会稍晚推出。",
+              "source_url": "https://www.ithome.com/0/935/055.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-01T17:43:20+08:00"
+            },
+            {
               "title": "理想汽车 3 月交付超 4.1 万辆，累计交付超 163 万辆",
               "brief": "IT 之家报道，理想汽车截至 2026 年 3 月 31 日的累计交付量已超过 163 万辆，其中 3 月单月交付突破 4.1 万辆。文章同时更新了理想的渠道与补能网络：其零售店已覆盖全国 160 个城市，共有 517 家门店，服务中心及授权维修店达到 552 家，超级充电站则运营 4057 座、配备 22439 个充电位，继续扩展交付和售后服务能力。",
               "source_url": "https://www.ithome.com/0/935/005.htm",
               "source_name": "IT之家",
               "published_at": "2026-04-01T16:32:34+08:00"
-            },
-            {
-              "title": "荣耀 MagicBook Pro 2026 屏幕与配置继续曝光",
-              "brief": "荣耀继续预热 2026 款 MagicBook Pro 系列，公布了 14 英寸和 16 英寸机型的屏幕与核心配置。MagicBook Pro 14 采用 14.6 英寸 3120×2080 OLED 触控屏，支持 120Hz 刷新率和 700 尼特峰值亮度；16 英寸版本配备 3072×1920 的 165Hz LCD 屏。两款机型都搭载第三代英特尔酷睿 Ultra 处理器，标配 92Wh 电池并支持双 M.2 扩展，强调高分辨率显示与长续航兼顾。",
-              "source_url": "https://www.ithome.com/0/935/004.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-01T16:29:35+08:00"
-            },
-            {
-              "title": "小米 4 月超级服务周开启，77 款机型可八折换电池",
-              "brief": "小米宣布 2026 年 4 月超级服务周开启，活动期间包括 REDMI 14C 在内的 77 款手机可享受电池更换八折优惠。IT 之家整理了大量机型的活动价，覆盖小米 10 至小米 15 系列，以及多代 REDMI Note、K 系列和折叠屏机型。报道提醒，活动适用于电池性能出现异常衰减的设备，为用户提供集中售后维修折扣，也让多款旧机型拥有更低门槛的官方换电池机会。",
-              "source_url": "https://www.ithome.com/0/935/003.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-01T16:25:06+08:00"
-            },
-            {
-              "title": "我国首次发布国家级动物疫病智能诊断模型平台",
-              "brief": "中国动物疫病预防控制中心宣布，国家级动物疫病智能诊断模型平台已正式发布，可结合专业数据库和兽医领域专属模型，为 670 多种畜禽疫病提供在线辅助诊断。IT 之家还提到，兽医卫生综合信息平台的“兽医实验室资源共享”模块同步升级上线，整合实验设施、科研项目、检测能力和科研成果等资源，面向相关院校、机构和实验室开放使用。",
-              "source_url": "https://www.ithome.com/0/935/002.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-01T16:24:47+08:00"
-            },
-            {
-              "title": "LPDDR4 一年涨 7 倍，树莓派再调价并推出 3GB 版 Raspberry Pi 4",
-              "brief": "IT 之家报道称，受 LPDDR4 价格在一年内大幅上涨影响，树莓派进一步调整产品售价，并新增 3GB 内存版 Raspberry Pi 4，定价 83.75 美元。新机型加入后，Raspberry Pi 4 将形成 1GB、2GB、3GB、4GB、8GB 五档内存配置。报道还提到，部分产品涨价幅度明显，其中 Raspberry Pi 500 键盘电脑的 unit only 版本涨幅尤为显著，反映内存成本对整机售价的持续传导。",
-              "source_url": "https://www.ithome.com/0/935/001.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-01T16:18:20+08:00"
             }
           ]
         },
@@ -533,6 +533,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "Windows 12 正式发布：微软称修好了 Windows 11 的核心缺点",
+              "brief": "小众软件发文称，微软于 2026 年 4 月 1 日正式发布 Windows 12，并把重点放在修复 Windows 11 长期被诟病的体验问题，而不是继续增加新功能。文中列出的改动包括开始菜单支持自由拖动与分组、右键菜单不再需要“显示更多选项”、文件管理器响应更快、系统搜索不再联网、可使用本地账户登录，以及更新和通知机制减少打扰。文章同时给出了独立页面供用户查看详情。",
+              "source_url": "https://www.appinn.com/windows-12-260401/",
+              "source_name": "小众软件",
+              "published_at": "2026-04-01T16:18:14+08:00"
+            },
             {
               "title": "10 款免费又好用的 GitHub 开源工具",
               "brief": "小众软件整理了 10 款值得关注的 GitHub 开源工具，涵盖把 MacBook 变成“触摸屏”的旧项目、自托管视频下载与播放工具 MyTube、把邮件转发到 Telegram 的 smtp_to_telegram、在 iPhone 上运行 AI 生成网页应用的“豆腐”，以及批量图片转换工具和网页转 Markdown 工具等。文章强调，这些项目大多免费开源，适合折腾和日常效率场景。",
