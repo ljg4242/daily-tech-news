@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T06:45:00.775947+08:00",
+  "generated_at": "2026-04-01T08:49:14.949262+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "AirTag 2 gets its first firmware update since January launch",
+              "brief": "苹果于3月31日为AirTag 2推送了首版固件更新，版本号从出厂预装的3.0.41升级至3.0.45。该更新以静默方式自动安装，用户无法手动触发。苹果目前未公布本次更新的具体内容，这是AirTag 2自1月26日上市以来的首次固件更新。AirTag 2搭载第二代超宽带芯片，定位范围更广，扬声器音量较上代提升50%。苹果还为其配备了行业首创的反追踪保护功能，包括跨平台告警和频繁变更的蓝牙唯一标识符。AirTag 2单个售价29美元，四件装售价99美元。",
+              "source_url": "https://9to5mac.com/2026/03/31/airtag-2-gets-its-first-firmware-update-since-january-launch/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-01T07:47:01+08:00"
+            },
+            {
+              "title": "Ollama adopts MLX for faster AI performance on Apple silicon Macs",
+              "brief": "本地AI模型运行工具Ollama发布了0.19预览版，该版本基于苹果机器学习框架MLX构建，可在Apple芯片Mac上利用统一内存架构提升本地AI模型运行速度。Ollama支持macOS、Linux和Windows平台，允许用户在本地设备上加载并运行来自Hugging Face等开源社区的大语言模型。新版在M5、M5 Pro和M5 Max芯片上还能调用GPU神经加速器，进一步缩短首Token生成时间和提升每秒Token生成速率。Ollama表示，这一更新使个人助手和编码代理等应用在本地运行更快。不过官方建议用户使用统一内存超过32GB的Mac设备，以获得较好的运行体验。",
+              "source_url": "https://9to5mac.com/2026/03/31/ollama-adopts-mlx-for-faster-ai-performance-on-apple-silicon-macs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-01T07:18:24+08:00"
+            },
+            {
               "title": "伊朗将苹果等美国公司列为\"恐怖主义公司\"",
               "brief": "伊朗伊斯兰革命卫队在 Telegram 发布声明，将 18 家在中东地区运营的美国科技和金融公司列为\"恐怖主义公司\"，其中包括苹果、波音、思科、谷歌、IBM、摩根大通、Meta、微软、英伟达和特斯拉。IRGC 称这些公司为美国政府的间谍机构，协助设计和追踪恐怖袭击目标，并要求这些公司的员工立即离开工作场所以保全性命，同时呼吁各公司方圆一公里内的居民撤离。此前 IRGC 本月早些时候曾发出过类似警告，当时正值无人机袭击对亚马逊在该地区的基础设施造成破坏之后。",
               "source_url": "https://9to5mac.com/2026/03/31/apple-among-us-firms-iran-labels-terrorist-companies-as-it-threatens-attacks/",
@@ -68,26 +82,33 @@
               "source_url": "https://9to5mac.com/2026/03/31/oscar-nominee-stellan-skarsgard-to-star-in-untitled-apple-tv-thriller-series/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-01T05:25:19+08:00"
-            },
-            {
-              "title": "库克敲响纳斯达克开市钟庆祝苹果成立 50 周年",
-              "brief": "苹果 CEO 蒂姆·库克在 Apple Park 远程敲响纳斯达克开市钟，庆祝公司成立 50 周年。纳斯达克主席兼 CEO 阿迪娜·弗里德曼致辞感谢苹果 50 年来在设计、芯片和软件领域不断突破创新。库克在讲话中回顾了苹果从乔布斯车库里起步的创业故事，强调公司始终致力于打造让普通人也能改变世界的工具。他表示苹果将继续突破技术极限，释放人类潜力，赋能用户去塑造未来。苹果多位高管包括约翰·特纳斯、格雷格·乔斯维亚克等均出席了此次活动。",
-              "source_url": "https://9to5mac.com/2026/03/31/watch-tim-cook-ring-the-nasdaq-opening-bell-as-part-of-apples-50th-anniversary-celebrations/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-01T04:55:07+08:00"
-            },
-            {
-              "title": "iOS 26.4 has convenient change for iPhone personal hotspot users",
-              "brief": "iOS 26.4 在“设置-个人热点”页面加入了更直观的数据使用统计，近期使用过热点时，页面底部会出现新的“Data Usage”入口。进入后，用户可以按设备查看各自通过热点消耗的数据量，更容易掌握 iPad、MacBook 等终端的流量占用情况。对于使用限量流量套餐、经常在外通过 iPhone 共享网络的人来说，这项改动能直接在系统内完成核对，不再需要靠运营商账单或人工估算来判断热点使用情况。",
-              "source_url": "https://9to5mac.com/2026/03/31/ios-26-4-makes-it-easy-to-see-whos-using-your-personal-hotspot/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-01T04:38:25+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google making screen-less Fitbit band & here's Steph Curry wearing it",
+              "brief": "谷歌正在以Fitbit品牌开发一款无屏幕健身手环，计划于今年晚些时候发布。NBA金州勇士队球星斯蒂芬·库里日前在社交媒体上展示了佩戴该手环的画面，引发关注。谷歌确认与库里合作打造这款特别产品。该设备采用灰色织物材质与橙色内衬，定位为纯健康追踪型穿戴产品，不配备显示屏，用户需通过手机应用查看运动和健康数据。新品将与Fitbit应用中的AI私人健康教练功能联动，该应用近期已新增生理期分析、心理健康监测及饮食饮水追踪等服务。",
+              "source_url": "https://9to5google.com/2026/03/31/fitbit-screen-less-band/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-01T08:35:17+08:00"
+            },
+            {
+              "title": "Gmail rolling out AI Inbox beta for AI Ultra subscribers",
+              "brief": "谷歌正在为AI Ultra订阅用户推出Gmail AI收件箱测试版功能。该功能利用人工智能技术对邮件进行智能分类和优先级排序，帮助用户更高效地管理收件箱内容。AI Ultra是谷歌推出的高级订阅计划，提供包括Gemini大模型在内的多项AI服务。Gmail AI收件箱功能可以自动识别重要邮件、整理推广信息，并根据用户习惯优化收件箱布局。此次测试版的上线标志着谷歌在电子邮件管理领域进一步深化人工智能技术的应用。",
+              "source_url": "https://9to5google.com/2026/03/31/gmail-ai-inbox-beta-ultra/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-01T07:37:11+08:00"
+            },
+            {
+              "title": "Some Google Fi users lose mobile data in 'SIM card is no longer active' outage",
+              "brief": "部分谷歌Fi用户遭遇移动数据服务中断，设备屏幕上显示SIM卡不再有效的错误提示，导致受影响用户无法使用移动网络上网和收发短信。谷歌Fi是谷歌旗下的虚拟运营商服务，依赖T-Mobile等运营商网络提供蜂窝数据连接。此次故障涉及SIM卡激活状态异常，部分用户尝试重启设备和重新插拔SIM卡均未能解决问题。谷歌尚未公开说明具体受影响用户数量和预计修复时间，建议用户联系客服获取帮助。",
+              "source_url": "https://9to5google.com/2026/03/31/google-fi-sim-no-data/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-01T07:23:08+08:00"
+            },
             {
               "title": "Pixel Watch LTE 版本推送 2026 年 3 月/4 月更新",
               "brief": "谷歌开始为 Pixel Watch LTE 版本推送 2026 年 3 月/4 月的系统更新。与此同时，Fitbit 公开预览版新增了食物与饮水记录功能，该应用的重新设计也已面向免费用户开放。此次更新覆盖 Pixel Watch 的 LTE 连接型号，进一步完善健康监测和日常追踪体验。谷歌持续通过软件更新为 Pixel Watch 系列带来新功能和优化。",
@@ -101,33 +122,19 @@
               "source_url": "https://9to5google.com/2026/03/31/gemini-app-new-glow/",
               "source_name": "9to5Google",
               "published_at": "2026-04-01T04:06:08+08:00"
-            },
-            {
-              "title": "Nothing plans to release AI smart glasses next year after CEO Carl Pei changes mind",
-              "brief": "Nothing 原本考虑在明年推出一款 AI 智能眼镜，但 CEO Carl Pei 现已改变想法，公司不再按这一节奏推进。报道指出，这一决定意味着 Nothing 至少在短期内不会跟随当前智能眼镜热潮给出量产产品，而是重新评估相关方向。标题层面释放的信息很明确：公司内部路线出现调整，原本面向明年的 AI 眼镜计划被收回，Carl Pei 的态度变化直接影响了这一硬件项目的时间表与去留。",
-              "source_url": "https://9to5google.com/2026/03/31/nothing-plans-ai-smart-glasses/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-01T03:50:20+08:00"
-            },
-            {
-              "title": "Google Store Certified Refurbished adds Pixel 8a, expands to Amazon",
-              "brief": "Google 扩大了官方认证翻新手机计划，Pixel 8a 已加入 Google Store 的 Certified Refurbished 阵容，同时翻新机销售渠道也进一步扩展到 Amazon。这样一来，除官网之外，用户还可通过亚马逊购买部分官方翻新 Pixel 设备。报道强调，这次更新同时涉及机型扩容和渠道增加，两项变化都在围绕更低门槛销售旧款 Pixel 展开，让希望以更低价格购买 Google 手机的消费者有了更多正规来源和可选入口。",
-              "source_url": "https://9to5google.com/2026/03/31/pixel-certified-refurbished-amazon/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-01T03:38:05+08:00"
-            },
-            {
-              "title": "Quick Share’s little-known shortcut lets you share to another Android phone by tapping it",
-              "brief": "Quick Share 其实提供了一项不太被注意到的捷径：用户可通过贴近或轻触另一台 Android 手机，更快地把内容分享过去。报道将这一做法描述为隐藏较深的小技巧，核心是减少常规菜单选择步骤，让发送端和接收端更自然地建立分享动作。标题显示，这项能力并非新产品，而是现有 Quick Share 体系里容易被忽略的使用方式，重点在于提升面对面分享时的效率和便捷性。",
-              "source_url": "https://9to5google.com/2026/03/31/quick-share-tap-to-share-little-known-shortcut/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-01T03:33:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "Running local models on Macs gets faster with Ollama's MLX support",
+              "brief": "本地大语言模型运行工具 Ollama 已正式引入对苹果开源机器学习框架 MLX 的支持。与此同时，Ollama 还改进了缓存性能，并新增对英伟达 NVFP4 模型压缩格式的支持，显著降低了特定模型的显存占用。上述改进将大幅提升搭载 Apple Silicon 芯片（M1 及以上）的 Mac 设备在运行本地模型时的性能表现。目前该功能以预览形式在 Ollama 0.19 版本中提供，当前仅支持阿里巴巴 Qwen3.5 的 350 亿参数版本，且需至少 32GB 内存的 Apple Silicon Mac。",
+              "source_url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-01T07:00:23+08:00"
+            },
             {
               "title": "RFK Jr.推动解除 14 种被禁肽类注射疗法的限制",
               "brief": "美国卫生与公众服务部长小罗伯特·肯尼迪正在推动 FDA 解除对 14 种注射用肽类疗法的限制，这些疗法此前因缺乏有效性和安全性数据而被禁止生产。肯尼迪公开声称自己是这类疗法的\"忠实粉丝\"，并曾在播客节目中为其推广。肽类药物在网红和生物黑客群体中流行，被宣传可治疗各种疾病、逆转衰老，但多数缺乏临床试验支持。值得注意的是，肯尼迪同时是疫苗怀疑论者，长期质疑疫苗安全性数据的充分性。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-01T04:00:20+08:00"
-            },
-            {
-              "title": "《超级少女》首支正式预告片发布",
-              "brief": "华纳兄弟发布了 DC 新片《超级少女》首支正式预告片，米莉·阿尔科克饰演卡拉·佐-艾尔。该角色曾在《超人》片尾短暂亮相，此次将展开独立的星际复仇之旅。与表弟超人不同，卡拉亲眼目睹氪星毁灭，性格更加冷峻。影片中她将与少年露西·玛丽·诺尔联手对抗主要反派黄丘的克莱姆。杰森·莫玛饰演的外星赏金猎人洛博也将登场。影片预计今年夏季上映，由马蒂亚斯·修纳尔茨、大卫·克伦霍茨等加盟出演。",
-              "source_url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-01T03:50:50+08:00"
             }
           ]
         },
@@ -270,18 +270,18 @@
               "published_at": "2026-04-01T01:36:22+08:00"
             },
             {
-              "title": "Claude Code 泄露代码曝光虚拟宠物和常驻代理等未发布功能",
-              "brief": "Anthropic 发布 Claude Code 2.1.88 更新后，用户发现其安装包中包含带有源映射文件的 TypeScript 代码库，泄露代码总量超过 51.2 万行。开发者在代码中发现了多个未发布的功能，其中包括一个类似拓麻歌子的虚拟宠物，可以\"坐在输入框旁边对你的编码做出反应\"。代码中还出现了一个名为\"KAIROS\"的常驻代理功能，以及其他关于 Claude 的内部指令和记忆架构设计。此次泄露为外界提供了深入了解这款 AI 编程工具内部运作机制的难得窗口。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+              "title": "The AirPods Pro 3 are nearly matching their best-ever price for Amazon's Big Spring Sale",
+              "brief": "苹果 AirPods Pro 3 在亚马逊大春季促销中降至 199 美元，较原价 249 美元优惠 50 美元，为该产品历史第二低价。AirPods Pro 3 搭载 H2 芯片，支持 AI 实时翻译、对话感知等功能，主动降噪表现在 iPhone 用户群体中处于领先水平。沃尔玛同期也以相同价格销售。",
+              "source_url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
               "source_name": "The Verge",
-              "published_at": "2026-03-31T18:24:19-04:00"
+              "published_at": "2026-03-31T19:53:47-04:00"
             },
             {
-              "title": "Govee 四只装变色智能灯泡亚马逊促销仅 27 美元",
-              "brief": "亚马逊春季大促期间，Govee Smart A19 LED 智能灯泡四只装在亚马逊和 Govee 官方渠道降至 26.99 美元，较原价优惠 13 美元，接近历史最低价。该灯泡支持 Matter 协议，兼容主流智能家居平台，可显示超过 1600 万种颜色，支持音乐同步功能，用户可在同一房间内添加多个灯泡营造不同氛围效果。促销活动截至 3 月 31 日当天结束。",
-              "source_url": "https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal",
+              "title": "Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale",
+              "brief": "亚马逊大春季促销期间，多款充电配件继续降价，涉及 Anker、Twelve South、Baseus 等品牌，折扣最高达到 50%。本轮优惠覆盖 3 合 1 磁吸充电座、25000mAh 大容量移动电源、Qi2 无线充电板和耐用数据线等产品。The Verge 指出，这次促销整体力度虽不及黑五或 Prime Day，但在充电配件品类中仍有不少值得关注的低价选择。",
+              "source_url": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
               "source_name": "The Verge",
-              "published_at": "2026-03-31T17:59:47-04:00"
+              "published_at": "2026-03-31T19:00:00-04:00"
             }
           ]
         }
@@ -374,6 +374,27 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "Spider-Noir, Nicolas Cage to Campaign in the Emmys' Comedy Category",
+              "brief": "由尼古拉斯·凯奇主演的真人剧集《Spider-Noir》将于5月25日登陆MGM+频道，5月27日在Prime Video全球上线。该剧背景设定在大萧条时期的漫威宇宙，凯奇饰演本·帕克版蜘蛛侠暗影，而非彼得·帕克。剧集由《蜘蛛侠：平行宇宙》制片人菲尔·洛德和克里斯托弗·米勒监制。制作方已确认该剧将报名角逐艾美奖喜剧类奖项，可能与《Hacks》《大楼里唯一的谋杀案》《Shrinking》等热门剧集展开竞争。",
+              "source_url": "https://www.ign.com/articles/spider-noir-nicolas-cage-to-campaign-in-the-emmys-comedy-category",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T07:02:34+08:00"
+            },
+            {
+              "title": "Call of Duty Players Aren't Happy About the New Dave Chappelle Tracer Pack for Black Ops 7",
+              "brief": "动视在《使命召唤：黑色行动7》第三赛季博客中公布了与戴夫·查佩尔电影《Half Baked》联名的追踪弹药包，引发玩家不满。此次4月20日活动大幅缩水，仅推出一个捆绑包，取消了限时模式和特别活动。相比之下，2025年《黑色行动6》曾推出联合行动限时模式、高级艺术活动、塞斯·罗根皮肤以及将核爆镇改造为火焰镇等丰富内容。此前动视曾承诺黑色行动7将回归写实风格，不再沿用前作皮肤，此举令玩家感到被背叛。",
+              "source_url": "https://www.ign.com/articles/call-of-duty-players-arent-happy-about-the-new-dave-chappelle-tracer-pack-for-black-ops-7",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T05:17:24+08:00"
+            },
+            {
+              "title": "Scream 8 on the Way After Scream 7's Record-Breaking $200 Million Box Office Success, Poker Face Showrunners Writing the Script",
+              "brief": "《惊声尖叫7》全球票房突破2亿美元，创下该系列历史最高纪录，超越1996年首部1.73亿美元的成绩。趁此势头，制片方已宣布将制作《惊声尖叫8》，剧本由《扑克脸》联合剧集主管莉拉和诺拉·祖克曼执笔。《惊声尖叫7》的成功证明了这一经典恐怖片IP在历经近三十年后依然具有强大的市场号召力，续作的快速推进也显示出片方对该系列的信心。",
+              "source_url": "https://www.ign.com/articles/scream-8-on-the-way-after-scream-7s-record-breaking-200-million-box-office-success-poker-face-showrunners-writing-the-script",
+              "source_name": "IGN",
+              "published_at": "2026-04-01T05:10:25+08:00"
+            },
+            {
               "title": "Square Enix 愚人节再次发布 Nier 系列新项目预告",
               "brief": "Square Enix 在愚人节前夕通过官方账号发布了一款名为《NieR: Cosmic Horror》的新项目预告，文案写道\"虚无中诞生的是希望，还是名为救赎的绝望\"，并标注\"Coming Soon\"。由于发布的特殊时间节点，玩家对此持谨慎态度。Nier 系列多年来反复出现类似操作：官方频繁发布新项目预告，但最终产品往往并非粉丝期待的核心续作，而是音乐会巡演、书籍、舞台剧、动漫、漫画或跨界活动等形式。自《尼尔：自动人形》之后，玩家期盼一款真正的 AAA 级续作已近十年，此次\"宇宙恐怖\"项目的真实性质仍不明朗。",
               "source_url": "https://www.ign.com/articles/square-enix-is-once-again-taunting-us-with-a-nier-related-tease-this-time-on-april-fools-day",
@@ -386,27 +407,6 @@
               "source_url": "https://www.ign.com/articles/the-super-mario-galaxy-movie-opens-the-door-to-a-full-super-smash-bros-film-where-any-nintendo-character-can-appear-in-the-future",
               "source_name": "IGN",
               "published_at": "2026-04-01T03:00:34+08:00"
-            },
-            {
-              "title": "宫本茂称马里奥登上大银幕后才真正成为\"一个完整的人\"",
-              "brief": "任天堂传奇设计师宫本茂在接受 IGN 采访时表示，马里奥在经过 40 年的进化后，通过电影实现了从二维插画到三维建模再到\"人\"的蜕变。宫本茂认为马里奥在电影中经历了各种挣扎、情感起伏，真正成长为一个立体的角色。他仍会亲自用笔在照明娱乐的 CG 画稿上标注自己的修改想法，延续手绘马里奥时代的创作方式。宫本茂将马里奥的演变与米老鼠相比较，认为米老鼠伴随动画技术进化，而马里奥则伴随数字技术不断成长。",
-              "source_url": "https://www.ign.com/articles/shigeru-miyamoto-says-mario-became-a-person-when-he-hit-the-big-screen",
-              "source_name": "IGN",
-              "published_at": "2026-04-01T03:00:00+08:00"
-            },
-            {
-              "title": "宫本茂致力于让皮克敏出现在所有任天堂产品中",
-              "brief": "宫本茂在接受采访时表示，将皮克敏融入任天堂所有产品是他的\"使命\"而非单纯的请求。他解释说《超级马里奥银河》的星际世界观天然适合皮克敏的出现，因此他一直在期待照明娱乐能想出怎样的创意。这解释了近年来皮克敏频繁现身的现象：从环球影城任天堂世界主题公园，到《马里奥高尔夫》《马里奥赛车》《马里奥制造》《动物森友会》等数十款游戏中以隐藏彩蛋或服装形式出现。去年任天堂还发布了一段皮克敏在婴儿房搬动物品的短片，展示了宫本茂对皮克敏的偏爱如何渗透到任天堂的方方面面。",
-              "source_url": "https://www.ign.com/articles/shigeru-miyamoto-says-hes-on-a-mission-to-include-pikmin-in-everything-nintendo",
-              "source_name": "IGN",
-              "published_at": "2026-04-01T03:00:00+08:00"
-            },
-            {
-              "title": "照明娱乐 CEO 称宫本茂是马里奥电影最重要的观众",
-              "brief": "照明娱乐创始人兼 CEO 克里斯·梅勒丹德里在接受 IGN 采访时表示，与宫本茂的合作是他职业生涯中最独特的经历。双方在创作过程中并非预先规划哪些角色出场，而是在制作过程中自然发现和产生创意。宫本茂提到整个制作团队都深爱任天堂，这让他们能从团队提出的想法中感受到久违的惊喜，整个过程就像参观一座怀旧博物馆。这种\"发现式\"的创作方式确保了每个加入电影的角色都经过宫本茂的直觉判断，确认融合感是否自然恰当。",
-              "source_url": "https://www.ign.com/articles/illumination-ceo-says-when-making-the-super-mario-galaxy-movie-miyamoto-san-is-also-the-most-important-audience-member",
-              "source_name": "IGN",
-              "published_at": "2026-04-01T03:00:00+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "宁德时代控股股东拟无偿捐赠500万股公司股份",
-              "brief": "宁德时代公告显示，公司控股股东厦门瑞庭投资有限公司与上海交通大学教育发展基金会签订捐赠协议，拟无偿捐赠持有的公司500万股A股无限售流通股，占公司总股本的0.11%。捐赠股份产生的全部收益及所得资金将注入曾毓群教育发展基金，用于支持上海交通大学教育事业发展。以当前股价计算，这笔捐赠价值超过百亿元。",
-              "source_url": "https://36kr.com/newsflashes/3746857494086150",
+              "title": "安徽：支持支付物业费提取住房公积金",
+              "brief": "安徽省省直住房公积金管理分中心发布通知，扩大住房公积金提取范围。缴存职工及其配偶可提取住房公积金用于支付合肥市行政区域内自有住房物业费；缴存职工及其配偶、父母、子女可提取住房公积金用于支付合肥市城市更新住房改造项目中个人承担的费用。同时扩大重大疾病提取病种范围，住院治疗重大疾病可提取住房公积金，病种由原9种扩大至35种。",
+              "source_url": "https://36kr.com/newsflashes/3747541658698496?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31T21:00:32+08:00"
+              "published_at": "2026-04-01 08:36:30  +0800"
             },
             {
-              "title": "德明利预计一季度净利润超31亿元，同比扭亏为盈",
-              "brief": "德明利发布公告预计2026年第一季度归属于上市公司股东的净利润为31.5亿元至36.5亿元，而上年同期亏损6908.77万元，实现大幅扭亏为盈。作为存储芯片行业的重要企业，德明利的业绩反转反映了存储芯片市场在AI和数据中心需求推动下的强劲复苏。",
-              "source_url": "https://36kr.com/newsflashes/3746855888978436",
+              "title": "现货黄金日内涨幅扩大至1%",
+              "brief": "4月1日，现货黄金日内涨幅扩大至1%，报价4716.79美元/盎司。该条快讯仅披露了盘中最新涨幅与价格水平，显示金价在当日交易时段继续上行。随着现货黄金突破更高点位，贵金属行情再度受到市场关注。原文未进一步说明本轮上涨的具体触发因素，也未披露期货市场、美元指数或其他资产的同步表现。",
+              "source_url": "https://36kr.com/newsflashes/3747533114557193?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31T20:58:54+08:00"
+              "published_at": "2026-04-01 08:27:49  +0800"
             },
             {
-              "title": "广汽集团子公司优湃能源拟19.2亿元转让昆仑蓝钻12%股权",
-              "brief": "广汽集团发布公告，子公司优湃能源拟将持有的新疆昆仑蓝钻矿业开发有限公司12%股权转让给控股股东广汽工业集团，转让对价约19.2亿元。以本次资产评估价格估算，此次股权转让连同会计核算方式调整预计将为广汽集团2026年合并报表归母净利润增加约8.9亿元。昆仑蓝钻为矿业开发公司，此次股权转让属于广汽集团内部资产结构优化。",
-              "source_url": "https://36kr.com/newsflashes/3746854151455233?f=rss",
+              "title": "华西证券：高端锂电+PCB产品放量，铜箔行业迎来量利上行期",
+              "brief": "华西证券研报指出，铜箔属于重资产行业，核心原材料铜价较高，对现金流占用大，前期新增产能有限。在动力及储能电池需求快速增长的背景下，产能供给偏紧，加工费呈上涨趋势。AI技术快速发展带动PCB铜箔规模放量，进一步挤占锂电铜箔产能。PCB铜箔产品性能要求高、工艺难度大，加工费空间可观，有望带动供应商盈利能力提升。",
+              "source_url": "https://36kr.com/newsflashes/3747530811834885?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31T20:57:08+08:00"
+              "published_at": "2026-04-01 08:25:28  +0800"
             },
             {
-              "title": "巴菲特：股市估值仍缺乏吸引力，苹果仍是伯克希尔最大持仓",
-              "brief": "沃伦·巴菲特在近期表态中指出当前股票市场估值仍然缺乏吸引力，如果市场出现大幅下跌，伯克希尔·哈撒韦公司将动用现金进行投资。巴菲特同时强调苹果仍然是伯克希尔最大的单一投资项目，并表示卖出苹果股票为时过早。此番言论发出之际，全球市场正面临地缘政治和宏观经济等多重不确定性。伯克希尔近年来持续积累了大规模现金储备，市场普遍关注其何时以及如何部署这些资金。",
-              "source_url": "https://36kr.com/newsflashes/3746850659058433?f=rss",
+              "title": "中信证券：用电增速回归常态，结构变化重塑需求",
+              "brief": "中信证券研报显示，2025年我国全社会用电量同比增长5%，较2024年回落1.8个百分点，GDP用电弹性系数自2020年以来首次回落至1.0。报告认为，用电需求放缓主要受传统高耗能行业景气度下行和新兴高端制造业增速阶段性回落影响，但第二产业用电仍具韧性，新能源汽车充换电服务与算力基础设施扩张则支撑了第三产业用电需求。",
+              "source_url": "https://36kr.com/newsflashes/3747524129505795?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31T20:53:35+08:00"
+              "published_at": "2026-04-01 08:18:40  +0800"
             },
             {
-              "title": "美股大型科技股盘前普涨，英伟达涨超1%",
-              "brief": "美股大型科技股盘前普遍上涨，英伟达、英特尔、特斯拉、微软、亚马逊、谷歌、Meta均涨超1%，苹果涨0.92%。中概股方面同样走强，名创优品涨超8%，小马智行和爱奇艺涨超2%，蔚来和腾讯音乐涨超1%。巴菲特表示当前股票市场估值仍缺乏吸引力，但若出现大幅下跌伯克希尔将动用现金，苹果仍为其最大单一投资。",
-              "source_url": "https://36kr.com/newsflashes/3746848980763143",
+              "title": "谷歌或将推出无屏幕可穿戴设备",
+              "brief": "谷歌正以 Fitbit 品牌开发一款无屏幕健身手环，计划在今年晚些时候推出，并与改版后的 Fitbit 应用及其中的 AI 私人健康教练功能联动。该产品定位无屏幕可穿戴设备，目标对标 Whoop 与 Oura 所在的细分市场。原文披露的信息主要集中在产品形态、发布时间和配套软件功能，尚未给出更完整的硬件规格、价格与上市安排。",
+              "source_url": "https://36kr.com/newsflashes/3747522659091209?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-03-31T20:51:52+08:00"
+              "published_at": "2026-04-01 08:17:11  +0800"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果 AirTag 2 迎来首个固件更新，版本升级至 3.0.45",
-              "brief": "苹果为第二代 AirTag 推送了首个固件更新，版本号从 3.0.41 升级至 3.0.45。AirTag 2 于 2026 年 1 月发布，此次是上市以来首次固件升级。以往 AirTag 新固件会在两周内分批推送，而本次更新已面向所有 AirTag 2 用户即时开放。苹果未公布具体更新内容，过往类似更新通常以漏洞修复和性能优化为主。用户可在\"查找\"App 中查看固件版本，固件通过配对 iPhone 无线自动安装，无法手动触发更新。",
-              "source_url": "https://www.ithome.com/0/934/693.htm",
+              "title": "消息称谷歌正研发无屏 Fitbit 健身手环，NBA 球星库里已提前上手",
+              "brief": "消息称谷歌正开发一款无屏幕 Fitbit 健身手环，预计将在今年晚些时候发布。NBA 球星斯蒂芬·库里已在社交媒体上提前展示该设备，谷歌也确认他正与研发团队合作打造一款特别产品。该手环采用灰色织物外观与橙色内衬，不配备显示屏，将与新版 Fitbit 应用中的 AI 私人健康管家功能联动，硬件本体则单独定价销售。",
+              "source_url": "https://www.ithome.com/0/934/720.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-01T06:41:47+08:00"
+              "published_at": "2026-04-01T08:28:17+08:00"
             },
             {
-              "title": "微软弃用 Win11/10 的 SaRA 命令行工具，推荐改用 Get Help",
-              "brief": "微软正式宣布弃用Windows 11和Windows 10中的SaRA命令行诊断工具，称此举旨在提升系统安全性。从2026年3月10日及之后发布的Windows更新中，SaRA已被从Win11 25H2、24H2、23H2及Win10 22H2中移除，Server版本同样受影响。微软推荐用户改用Get Help命令行工具，其功能与SaRA类似。原有SaRA脚本无法复用，但GetHelpCmdLine覆盖了所有使用场景。SaRA曾用于自动排查Microsoft 365、Office、Outlook及Windows相关故障。",
-              "source_url": "https://www.ithome.com/0/934/692.htm",
+              "title": "落实未成年人禁令不力，澳大利亚拟起诉 YouTube、Instagram 等五大社交平台",
+              "brief": "澳大利亚未成年人社交媒体禁令生效后的首份合规报告显示，相关平台已关闭约500万个账号，但仍有大量未成年人绕过年龄验证继续注册或使用账号。监管机构对受审查的10个平台中一半“高度不满”，正准备认定其中5个平台未采取足够措施阻止未成年人注册。一旦被认定存在系统性违规，平台最高可能面临4950万澳元罚款，是否起诉预计将在年中前决定。",
+              "source_url": "https://www.ithome.com/0/934/719.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T23:15:24+08:00"
+              "published_at": "2026-04-01T08:24:56+08:00"
             },
             {
-              "title": "荣耀 WIN 游戏本猎人武器库首曝，支持联动发光 LOGO",
-              "brief": "荣耀WIN游戏本的猎人武器库软件首次曝光，支持可发光LOGO的色彩切换及灯效主题联动。该游戏本已官宣4月发布，定位高端性能旗舰，对标联想拯救者Y9000P至尊版。配置方面将搭载英特尔酷睿Ultra 9 290HX Plus处理器和RTX 5070显卡，性能释放超过250W。荣耀同时公布了360W氮化镓适配器，可单独购买并支持其他机型。",
-              "source_url": "https://www.ithome.com/0/934/691.htm",
+              "title": "谷歌最亲民 AI 视频模型 Veo 3.1 Lite 登场，生成 720P 每秒 0.05 美元",
+              "brief": "谷歌推出轻量化 AI 视频模型 Veo 3.1 Lite，支持文本生成视频和图像生成视频，可输出 720p 或 1080p 分辨率，并提供 4 秒、6 秒和 8 秒三种生成时长。该模型目前面向 Google AI Studio 的付费开发者开放，720p 生成价格为每秒 0.05 美元。谷歌同时宣布，自 4 月 7 日起下调 Veo 3.1 Fast 的视频生成价格，其中 720p 和 1080p 费用均将进一步降低。",
+              "source_url": "https://www.ithome.com/0/934/718.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T23:08:10+08:00"
+              "published_at": "2026-04-01T08:22:11+08:00"
             },
             {
-              "title": "Meta 推出两款雷朋智能眼镜处方镜片新品，499 美元起",
-              "brief": "Meta与雷朋母公司依视路陆逊梯卡合作，推出两款支持处方镜片的雷朋智能眼镜新品，美国起售价499美元，4月14日上市。新款眼镜配备超弹铰链、可更换鼻托和可调节镜腿，以适配不同面部轮廓。IDC数据显示2025年全球智能眼镜出货量达960万副，其中Meta占据约76%份额，预计2026年将增长至1340万副。此前Meta推出的799美元内置显示屏版本因供不应求而推迟全球发售。",
-              "source_url": "https://www.ithome.com/0/934/690.htm",
+              "title": "Salesforce 全面重塑 Slack：新增 30 项功能，AI 助手 Slackbot 能力大增",
+              "brief": "Salesforce 宣布为 Slack 引入 30 项新功能，未来数月陆续上线，重点升级 AI 助手 Slackbot 的自动化与协作能力。新版 Slackbot 支持可复用 AI 技能、会议转录与智能总结、调用外部服务和工具，并能将任务流转到 Agentforce 等智能助手平台。官方还表示，Slackbot 可结合聊天记录、应用数据和日程信息生成执行方案，并根据场景自动安排后续协作。",
+              "source_url": "https://www.ithome.com/0/934/717.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T23:01:48+08:00"
+              "published_at": "2026-04-01T08:20:11+08:00"
             },
             {
-              "title": "飞利浦 32M2N8900X 31.5 英寸 4K 240Hz QD-OLED 显示器开售",
-              "brief": "飞利浦Evnia 32M2N8900X显示器正式开售，售价6999元。该显示器采用31.5英寸4K分辨率Penta Tandem QD-OLED面板，刷新率240Hz，配合BlackGlow AR 3.0零雾度光学层，环境光反射较上代降低40%。HDR峰值亮度1000尼特，GtG响应速度0.03ms，动态对比度150万比1，支持原生10-Bit色深和99.5% DCI-P3色域。接口包括2个HDMI 2.1、1个DP 2.1和2个USB-C，并内置双5W扬声器。",
-              "source_url": "https://www.ithome.com/0/934/689.htm",
+              "title": "谷歌 Pixel 11 Pro 手机渲染图曝光：Tensor G6 芯片、联发科 M90 调制解调器",
+              "brief": "Pixel 11 Pro 渲染图曝光，机身尺寸为 152.7×71.8×8.4 毫米，与 Pixel 10 Pro 基本接近，仅在长宽厚上略有收窄。新机背部相机模组取消了此前的彩色拼接设计，改为整块深色玻璃覆盖镜头区域，正面继续采用 6.3 英寸 OLED 显示屏。消息称该机将搭载谷歌自研 Tensor G6 芯片，并改用联发科 M90 调制解调器，作为新的基带方案。",
+              "source_url": "https://www.ithome.com/0/934/716.htm",
               "source_name": "IT之家",
-              "published_at": "2026-03-31T22:52:01+08:00"
+              "published_at": "2026-04-01T08:08:53+08:00"
             }
           ]
         }
