@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T04:42:32.122526+08:00",
+  "generated_at": "2026-04-04T06:43:20.567352+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "新款 Apple TV 因 Siri 延期继续推迟，已知升级点汇总",
+              "brief": "苹果新一代 Apple TV 预计还要再等几个月，主要原因是公司希望与新一版 Siri 和相关 AI 功能一同发布，但这些功能已推迟到 2026 年 9 月以后。现有爆料显示，新机外观基本不会变化，仍是现款黑色方形机身，重点升级将放在芯片，可能采用 A17 Pro 或更新型号，并有望带来更强图形性能、更高能效以及更多内存支持。",
+              "source_url": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-04T05:56:47+08:00"
+            },
             {
               "title": "苹果发布 iOS 26.5、iPadOS 26.5 与 macOS Tahoe 26.5 首个公测版",
               "brief": "苹果向公开测试用户推送了 iOS 26.5、iPadOS 26.5、macOS Tahoe 26.5、watchOS 26.5 和 tvOS 26.5 的首个公测版本，距离开发者测试版发布仅过去四天，其中 iOS 和 iPadOS 当天还先向开发者补发了新版测试包。现阶段已知变化包括地图中的“推荐地点”功能、为后续地图广告做准备，以及再次测试 iPhone 与安卓之间 RCS 消息的端到端加密；欧盟地区还在测试第三方穿戴设备的近距配对、通知转发和实时活动支持。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/04/03/apple-refurbished-m4-ipad-pro/",
               "source_name": "MacRumors",
               "published_at": "2026-04-04T02:14:49+08:00"
-            },
-            {
-              "title": "苹果向开发者推送修订版 iOS 26.5 与 iPadOS 26.5 首个测试版",
-              "brief": "苹果在首次发布四天后，再次向开发者推送修订版 iOS 26.5 和 iPadOS 26.5 Beta 1，用户可通过系统设置中的软件更新下载。报道指出，这次重新发布的原因尚未公开，但很可能是为了修复首个版本中不适合等到 Beta 2 再处理的问题。现阶段这些系统版本仍未带来备受关注的新 Siri 能力，主要变化集中在错误修复和后续功能打磨上。",
-              "source_url": "https://www.macrumors.com/2026/04/03/apple-seeds-ios-26-5-revised-beta-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-04T01:58:19+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "9to5Mac Daily：4 月 3 日苹果动态汇总",
+              "brief": "9to5Mac 当天的播客节目汇总了几条苹果相关动态，包括苹果信用卡账单金额为何常显得不够直观、苹果笔记本出货表现预计将优于整体 PC 市场，以及 Apple Fitness 负责人 Jay Blahnik 将在任职 13 年后于 7 月离任。节目继续通过常规播客平台分发，并把这些话题作为当天苹果生态新闻的重点内容进行回顾。",
+              "source_url": "https://9to5mac.com/2026/04/03/daily-april-3-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-04T05:40:19+08:00"
+            },
+            {
+              "title": "争议 AI 应用开发商起诉苹果，指控 App Store 下架缺乏依据",
+              "brief": "旧金山 AI 公司 Ex-Human 起诉苹果，称旗下 Botify 和 Photify AI 两款应用被 App Store 以“欺诈或不诚实活动”为由下架，但苹果并未明确说明具体触发原因。诉讼还指控苹果扣留约 50 万美元收入。两款应用此前都曾因内容争议受到关注，其中一款涉及未成年人角色聊天机器人，另一款则被指可生成未经同意的露骨人物图像。",
+              "source_url": "https://9to5mac.com/2026/04/03/developer-behind-controversial-ai-apps-sues-apple-over-app-store-takedowns/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-04T05:34:05+08:00"
+            },
+            {
+              "title": "HomeKit Weekly：Onvis 智能按键适合为访客提供 Apple Home 控制入口",
+              "brief": "Onvis Smart Button 是一款基于 Thread 的电池供电遥控器，可在 Apple Home 环境中控制灯泡、插座或场景。设备提供 5 个按键，每个按键支持单击、双击和长按三种触发方式，最多可对应 3 组 HomeKit 操作。文章认为，与其为访客配置 Home Key 或共享更复杂的家庭权限，不如直接提供这类实体按键，既省去手机和 Siri 操作，也能完全留在苹果本地家庭系统中运行。",
+              "source_url": "https://9to5mac.com/2026/04/03/onvis-smart-button/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-04T05:34:00+08:00"
+            },
+            {
+              "title": "高内存版 Mac Studio 交付延至 4 至 5 个月，512GB 选项已下架",
+              "brief": "苹果 Mac Studio 的高配内存版本出现明显供货紧张。搭载 M3 Ultra、升级到 256GB 内存的机型目前下单后预计要等 4 到 5 个月才能发货，时间已推迟到 8 月或 9 月。此前提供的 512GB 内存配置也已被苹果取消销售。报道认为，持续的长周期交付反映出顶级内存配置需求和库存压力并存，也给后续 Ultra 芯片产品规划带来挑战。",
+              "source_url": "https://9to5mac.com/2026/04/03/mac-studio-delivery-4-5-months-out-for-top-ram-after-apple-dropped-512gb-option/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-04T05:28:48+08:00"
+            },
+            {
               "title": "iFixit 拆解 AirPods Max 2：延续旧设计，维修难点依旧",
               "brief": "iFixit 拆解显示，苹果新一代 AirPods Max 2 沿用了前代整体设计，内部改动也很有限。其在视频中直接使用初代 AirPods Max 的拆机手册就完成了拆解，说明维修工具以及部分内部部件可能继续通用。与此同时，耳罩内部仍大量使用胶水，拆解时容易拉扯到排线，维修门槛没有明显降低。报道还提到，虽然内部布局具有一定模块化特征，USB-C 接口理论上可以更换，但实际操作仍需先拆掉大量组件，而苹果依旧没有为该产品线提供官方替换零件和维修手册。",
               "source_url": "https://9to5mac.com/2026/04/03/ifixit-tears-down-the-new-airpods-max-2-isnt-surprised/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-04T04:39:21+08:00"
-            },
-            {
-              "title": "Apple TV+ 今夏将迎来三部回归剧集，包括《足球教练》第四季",
-              "brief": "Apple TV+ 今年夏天将上线三部回归剧集，其中最受关注的是《足球教练》第四季。报道援引主演 Hannah Waddingham 的说法称，新一季预计 8 月播出，剧情将围绕 Ted 回到里士满、执教一支女子足球队展开。与此同时，悬疑剧《Sugar》第二季将于 6 月 19 日首播，之后按周更新至 8 月 7 日，继续讲述私家侦探 John Sugar 在洛杉矶追查失踪案并卷入更大阴谋的故事。Apple TV+ 还确认《Women in Blue》第二季也会在今夏回归，延续其西语原创内容布局。",
-              "source_url": "https://9to5mac.com/2026/04/03/apple-tv-has-three-series-returning-this-summer-including-a-long-awaited-hit/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-04T04:31:00+08:00"
-            },
-            {
-              "title": "苹果发布 iPadOS 26.5、watchOS 26.5 等多个系统公测版",
-              "brief": "苹果启动了 26.5 系列系统的新一轮公测，已向用户开放 iPadOS 26.5、tvOS 26.5、watchOS 26.5、HomePod 26.5 等版本。这些更新紧随本周早些时候发布的开发者测试版，以及当天更新过的 iOS 和 iPadOS 测试包。报道指出，当前测试中可见的新功能较少，已发现的变化主要是 iOS 与 iPadOS 地图新增“推荐地点”，以及一些与应用内订阅和欧盟地区功能相关的线索。文章认为，后续 beta 2 或 beta 3 仍可能加入更多改动，但也不排除 26.5 会保持小版本定位，把更重要的新功能留到 WWDC 前后公布的下一代系统。",
-              "source_url": "https://9to5mac.com/2026/04/03/apple-releases-public-betas-for-ipados-26-5-watchos-26-5-and-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-04T04:07:04+08:00"
-            },
-            {
-              "title": "macOS 26.5 首个公测版上线，当前以修复与稳定性更新为主",
-              "brief": "苹果现已向公开测试用户提供 macOS Tahoe 26.5 的首个公测版。报道指出，与上一版 macOS 26.4 带来的充电上限、Safari 紧凑标签页回归以及 Rosetta 退场提示不同，26.5 当前看起来更像一次以问题修复和稳定性改进为主的小版本更新，暂未发现明显的新功能。此次公测版构建号为 25F5042g，与开发者测试版一致。安装方式方面，用户需先加入苹果公开测试计划，随后在系统设置的“通用—软件更新”中打开 Beta 更新选项并选择 macOS Tahoe 26 公测通道即可获取。",
-              "source_url": "https://9to5mac.com/2026/04/03/macos-26-5-public-beta-1-now-available-heres-how-to-install-it/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-04T04:06:24+08:00"
-            },
-            {
-              "title": "苹果发布首个 iOS 26.5 公测版",
-              "brief": "苹果已向公开测试用户推送 iOS 26.5 首个公测版本。报道称，这一版本目前没有加入基于 Gemini 的 AI 功能，但已经带来几项可见变化，其中最容易发现的是 Apple 地图搜索中新增“推荐地点”功能。苹果也继续在测试 RCS 消息端到端加密，并在欧洲地区尝试向第三方配件推送实时活动。此外，系统中还出现了年付订阅按月分期且提供折扣的相关迹象。整体来看，iOS 26.5 目前更像一次小幅更新，主要变化集中在局部功能完善和少量新特性的早期测试。",
-              "source_url": "https://9to5mac.com/2026/04/03/apple-releases-first-ios-26-5-public-beta/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-04T04:03:37+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google 推出 Pixel“Now Playing”独立应用后的首个更新",
+              "brief": "Google 面向 Pixel 的“Now Playing”独立应用迎来上线后的首次更新。这项原本集成在 Android System Intelligence 中的歌曲识别功能，在被拆分成独立应用后新增了历史记录、发现入口以及跳转音乐服务等能力，但也一度引发锁屏不再显示“点按查看当前播放内容”以及历史同步异常等问题。此次更新被视为首轮修复，重点在于恢复核心识别与显示体验。",
+              "source_url": "https://9to5google.com/2026/04/03/pixel-now-playing-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-04T04:59:59+08:00"
+            },
             {
               "title": "周五 Android 应用限免与优惠汇总：LUNA Shadow、Growbot、Lara Croft GO 等",
               "brief": "9to5Google 关联频道本周五继续整理 Android 应用与游戏优惠，名单包含 LUNA Shadow、Growbot、The Longing、Lara Croft GO 等多款作品，覆盖解谜、冒险与策略等不同类型。此类汇总通常以限时降价和短期免费领取为主，方便用户集中查看 Google Play 当前可入手的内容。对于会定期补充手游库存、又不想逐个搜索商店折扣的 Android 用户来说，这类日更清单依然是高效率的省钱入口。",
@@ -122,24 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "马斯克据称要求参与 SpaceX IPO 的银行同步购买 Grok 订阅",
+              "brief": "《纽约时报》援引知情人士称，凡是参与 SpaceX 首次公开募股项目的银行、律所、审计机构和其他顾问，被要求同时采购 xAI 的 Grok 聊天机器人服务。部分银行据称已同意为此投入数千万美元，并开始将 Grok 接入内部 IT 系统。报道指出，SpaceX 本周已提交 IPO 文件，而这项绑定销售安排发生在 SpaceX 收购 xAI 两个月之后。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-04T05:17:01+08:00"
+            },
+            {
+              "title": "研究称部分 AI 用户出现“认知让渡”，更容易放弃独立判断",
+              "brief": "宾夕法尼亚大学研究人员提出“认知让渡”概念，用来描述用户在面对大语言模型回答时，倾向于把本应由自己完成的分析和判断交给 AI。实验结果显示，很多参与者即使面对存在明显问题的答案，也会直接接受。研究同时比较了时间压力和外部激励等因素，认为 AI 的权威外观正在塑造一种新的决策模式，即人类越来越依赖自动化输出而不是自身推理。",
+              "source_url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-04T05:06:15+08:00"
+            },
+            {
+              "title": "特朗普推动 AI 数据中心建设受阻，关税与电力设备短缺成主因",
+              "brief": "美国政府把加速 AI 数据中心建设视为与中国竞争的重要任务，但报道指出，实际推进过程中正遭遇严重瓶颈。彭博社称，今年美国近一半计划中的数据中心项目可能被延期或取消，核心原因是变压器、开关设备和电池等电力基础设施部件供应不足，而这些产品长期依赖中国制造。美国本土产能目前无法补上缺口，导致大量项目迟迟无法进入建设阶段。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-04T04:43:14+08:00"
+            },
+            {
+              "title": "OpenClaw 修复高危漏洞，研究人员警告其权限设计放大安全风险",
+              "brief": "Ars Technica 报道称，OpenClaw 最近修复了三个高危安全漏洞，其中一项编号为 CVE-2026-33579 的问题允许仅具备设备配对权限的攻击者静默获取管理员权限。由于 OpenClaw 本身被设计为可代替用户操作电脑、访问账号和本地文件，一旦权限被提升，攻击者可直接接管与实例相连的大量资源。研究人员据此提醒用户，应严肃看待这类代理式工具带来的整体安全暴露面。",
+              "source_url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-04T04:30:15+08:00"
+            },
+            {
               "title": "意大利法院裁定 Netflix 需就多年涨价向用户退款",
               "brief": "意大利罗马一家法院裁定，Netflix 过去数年的部分涨价行为不合法，平台需要向受影响订阅者退还费用，单个用户获得的退款金额最高可达 500 欧元。报道指出，推动此案的消费者组织还表示，如果 Netflix 不同步下调当前价格，将继续提起诉讼。此案的影响不仅在于退款本身，也再次把流媒体平台是否能在未充分说明依据的情况下持续提价，推到了欧洲消费者保护框架下接受审视。",
               "source_url": "https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-04T01:41:51+08:00"
-            },
-            {
-              "title": "美国电动车普及加速：有人大涨，也有人明显掉队",
-              "brief": "Ars Technica 结合美国一季度市场表现梳理电动车采用情况，指出在海湾局势推高油价的背景下，电动车吸引力进一步上升。文章提到，美国平均油价较此前每加仑上涨近 1 美元，部分车企因此迎来两位数增长，但也有厂商出现两位数下滑，显示市场并非同步受益。报道把焦点放在品牌间分化、燃油成本变化与消费者选择之间的关系，用销量走势呈现出美国电动车市场当前“此消彼长”的格局。",
-              "source_url": "https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-03T23:00:23+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "意大利法院裁定 Netflix 多次涨价违法，部分用户或可获退款",
+              "brief": "罗马一家法院裁定，Netflix 在意大利自 2017 年至 2024 年间实施的多轮订阅涨价存在违法问题，原因是合同未充分说明未来可能调整价格或条款的依据。提起诉讼的消费者组织认为，这些涨价不符合意大利消费者法。若裁定最终生效，受影响的当地订阅者可能获得退款，并按更低价格继续订阅。不过 Netflix 已对该判决提出上诉。",
+              "source_url": "https://www.androidauthority.com/netflix-price-hikes-refund-court-ruling-italy-3654909/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-04T05:26:55+08:00"
+            },
+            {
+              "title": "Pixel 用户称 Now Playing 应用更新后开始恢复正常",
+              "brief": "Pixel 在 3 月功能更新中把“Now Playing”从系统组件拆分为独立应用后，不少用户反馈锁屏上的“点按查看正在播放内容”消失，历史记录同步也出现异常。Android Authority 报道称，部分受影响用户目前已收到应用更新通知，并表示锁屏提示重新出现，说明 Google 已开始修复此前的问题。只是这一修复还未覆盖所有设备，仍有用户表示功能尚未完全恢复。",
+              "source_url": "https://www.androidauthority.com/now-playing-app-may-be-fixed-3654896/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-04T05:06:22+08:00"
+            },
             {
               "title": "微软 Copilot 使用条款写明“仅供娱乐用途”",
               "brief": "Android Authority 报道称，微软在 Copilot 的使用条款中明确写入“Copilot 仅供娱乐用途”的表述，这一措辞比常见的“请核对 AI 输出内容”类提醒更进一步。文章指出，随着生成式 AI 被越来越多人用于工作和日常任务，厂商通常会强调模型可能出错、需要用户自行判断，但微软的免责声明显得格外严格。报道同时提到，微软近来仍在持续宣传 Copilot 的商业和办公应用场景，因此这段条款也引发了用户对其法律风险控制与实际产品定位之间关系的讨论。",
@@ -160,26 +202,19 @@
               "source_url": "https://www.androidauthority.com/baseus-x1-pro-security-camera-deal-3654874/",
               "source_name": "Android Authority",
               "published_at": "2026-04-04T02:58:50+08:00"
-            },
-            {
-              "title": "大疆 OSMO Pocket 4 包装再泄露，多项规格曝光",
-              "brief": "大疆即将发布的 OSMO Pocket 4 再次提前泄露，这次流出的包装背面信息一次性确认了多项关键规格。根据曝光内容，新机支持 14 档动态范围、内置 107GB 存储、最高 800MB/s 传输速度以及 2 倍无损变焦等特性。此前外界已经从其他爆料中得知它会搭载 1545mAh 电池，如今包装信息进一步补全了产品轮廓。对关注便携 Vlog 相机的用户来说，这次泄露基本把新一代 Pocket 的核心卖点提前摆到了台面上。",
-              "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4-packaging-3654856/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-04T02:10:33+08:00"
-            },
-            {
-              "title": "三星新款宽屏折叠机外形再曝光，One UI 9 固件出现线索",
-              "brief": "三星传闻中的更宽版折叠屏手机又出现了新线索。Android Authority 在最新 One UI 9 固件中发现了相关图形资源，再次展示了这款设备比现有 Galaxy Z Fold 系列更横向展开的机身比例。此前市场已经流出过 CAD 图和多次爆料，普遍认为三星计划在标准 Fold 与 Flip 之外，再推出一款更宽的新形态机型，以回应市场对于折叠屏外屏可用性和整体比例的持续讨论。",
-              "source_url": "https://www.androidauthority.com/z-fold-8-wide-shape-3654820/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-04T01:24:11+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "哈珀柯林斯与 AI 动画公司 Toonstar 合作，将图书改编为数字剧集",
+              "brief": "出版商哈珀柯林斯宣布与 AI 动画工作室 Toonstar 合作，把旗下部分图书 IP 改编为数字剧集，首个项目将是 Lisa Greenwald 的《Friendship List》系列，并计划同步推出图像小说。Toonstar 以使用 AI 简化动画制作流程而受到关注，其联合创始人曾表示，借助相关技术，完整动画集数的制作速度可提升约 80%，成本则可比行业常规低 90%。",
+              "source_url": "https://www.engadget.com/ai/ai-animation-studio-toonstar-will-turn-books-into-digital-shows-for-harpercollins-211419155.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-04T05:14:19+08:00"
+            },
             {
               "title": "《使命召唤：黑色行动》前主创 Jason Blundell 宣布新工作室 Magic Fractal",
               "brief": "曾参与《使命召唤：黑色行动》系列创作的 Jason Blundell 宣布成立新游戏工作室 Magic Fractal Studios。消息是在他与前 Dark Outlaw Games 同事 JC Farmer 的直播中公开的，距离索尼关闭 Dark Outlaw Games 仅过去一周多。当前外界对 Magic Fractal 所知不多，公开信息主要只有工作室标志和社交账号。报道回顾称，Dark Outlaw 甚至在首个项目正式公布前就已结束运营，而 Blundell 此前透露该团队并未开发实时服务型游戏。Magic Fractal 也是他 2020 年离开动视暴雪后的第三家新工作室，此前他还曾领导后已关闭的 Deviation Games。",
@@ -207,19 +242,19 @@
               "source_url": "https://www.engadget.com/entertainment/streaming/march-madness-2026-how-to-watch-the-final-four-154903746.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-04T02:33:38+08:00"
-            },
-            {
-              "title": "Take-Two 裁撤 AI 部门负责人及部分团队成员",
-              "brief": "《GTA》开发商 Rockstar 母公司 Take-Two 似乎已经裁撤 AI 部门负责人 Luke Dicken 及其团队中的部分员工。Dicken 在 LinkedIn 上确认自己与团队的任期已经结束，而这支团队原本负责开发支持游戏制作流程的 AI 工具。报道没有提到具体裁员人数，但这一动作显示，在游戏行业整体收缩和 AI 投入重新排序的背景下，即便是大型发行商，也在重新评估内部生成式技术与辅助开发项目的优先级。",
-              "source_url": "https://www.engadget.com/gaming/take-two-laid-off-the-head-its-ai-division-and-an-undisclosed-number-of-staff-182824338.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-04T02:28:24+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "NASA 已解决阿耳忒弥斯二号任务中的 Outlook 故障",
+              "brief": "在阿耳忒弥斯二号飞往月球途中，任务指挥官 Reid Wiseman 曾向地面报告，个人计算设备上的两个 Microsoft Outlook 都无法正常工作。NASA 随后通过远程方式接入他所使用的 Surface Pro 设备进行处理。飞行主管 Judd Frieling 在之后的发布会上确认，这一邮件客户端故障已经被解决。这个小插曲也成为此次载人登月任务途中一个颇具现实感的技术故障案例。",
+              "source_url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+              "source_name": "The Verge",
+              "published_at": "2026-04-03T16:53:48-04:00"
+            },
             {
               "title": "OpenAI 负责 AGI 落地的高管 Fidji Simo 将暂时休假",
               "brief": "The Verge 援引一份内部备忘录称，OpenAI 负责 AGI 落地的高管 Fidji Simo 因神经免疫系统疾病将休医疗假，时间为“接下来几周”。在她休假期间，OpenAI 总裁 Greg Brockman 将接管产品事务，并继续推进公司的“超级应用”计划；业务层面则由首席战略官 Jason Kwon、首席财务官 Sarah Friar 与首席营收官 Denise Dresser 共同负责。备忘录还提到，OpenAI 首席市场官 Kate Rouch 也决定离职以专注健康问题，Gary Briggs 将临时接替其职责，并与相关高管共同推进继任人选的招聘工作。",
@@ -247,13 +282,6 @@
               "source_url": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
               "source_name": "The Verge",
               "published_at": "2026-04-03T11:34:10-04:00"
-            },
-            {
-              "title": "Anker 五口旅行充电器降至历史低价",
-              "brief": "The Verge 当天整理的优惠里，Anker 一款小型五口旅行充电器来到历史最低价。文章同时还提到三星 Galaxy Watch Ultra 以及一本聚焦苹果崛起历程的新书也在促销名单中。报道重点放在这款体积小、适合出行收纳的旅行适配器，认为它能够同时满足多设备充电需求，因此在差旅场景中颇具吸引力。对想趁折扣补齐旅行充电装备的读者来说，这次价格下探是文章强调的核心信息。",
-              "source_url": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-04-03T11:10:31-04:00"
             }
           ]
         }
