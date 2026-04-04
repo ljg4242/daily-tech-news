@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T18:44:29.483693+08:00",
+  "generated_at": "2026-04-04T20:42:41.610803+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Android 侧载新规惹争议，作者干脆用 AI 自做 APK 安装器",
+              "brief": "Android 即将收紧侧载流程，普通安装之外新增更繁琐的高级步骤，部分场景还要等待 24 小时，这让经常装 APK 的用户明显受影响。作者认为直接用 ADB 虽然可行，但找可执行文件、连设备、粘贴路径的流程过于折腾，于是尝试借助 AI 编程工具，用 Go 和 Bubble Tea 框架做了一个专注 APK 安装的终端应用，集成无线调试配对、文件浏览和安装包解包等功能。",
+              "source_url": "https://www.androidauthority.com/tiny-apk-installer-app-3651857/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-04T20:00:40+08:00"
+            },
+            {
+              "title": "Android Authority：三星把 2 亿像素传感器放在了不该放的位置",
+              "brief": "文章认为，三星连续多年在 Ultra 机型主摄上使用 2 亿像素方案，确实带来了全分辨率拍摄、后期裁切和 2 倍到 4 倍无损裁切变焦等优势，尤其适合没有长焦的中端手机。但放在配备独立 3 倍长焦的 Ultra 上，这种收益被明显削弱。作者指出，三星更该把高像素能力投入长焦镜头，或至少先升级已经显得老旧的 3 倍 1000 万像素长焦，以提升远摄表现的实际价值。",
+              "source_url": "https://www.androidauthority.com/samsung-200mp-sensor-wrong-camera-3652191/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-04T19:00:08+08:00"
+            },
+            {
               "title": "我在安卓上试用了 NextDNS，它成了我最喜欢的手机广告拦截方案",
               "brief": "作者在对比安卓广告拦截方式后，重新尝试了评论区频繁被提到的 NextDNS，并很快改变了看法。NextDNS 不是独立应用，而是一种可自定义的托管 DNS 服务，用户可以叠加屏蔽列表和其他规则，只允许需要的网络请求通过。由于它依赖 DNS 端点而非专用 App，这套方案不仅能用于安卓，也能覆盖支持自定义 DNS 的更多设备，兼顾灵活性与跨平台使用体验。",
               "source_url": "https://www.androidauthority.com/nextdns-android-3652644/",
@@ -188,26 +202,19 @@
               "source_url": "https://www.androidauthority.com/completely-switched-qi2-power-banks-3654539/",
               "source_name": "Android Authority",
               "published_at": "2026-04-04T17:45:43+08:00"
-            },
-            {
-              "title": "Nothing Phone 4a Pro 把设计感和性价比一起压进了 500 美元以内",
-              "brief": "评测认为，Nothing Phone 4a Pro 延续了品牌一贯鲜明的设计语言，并将这种辨识度首次正式带入美国中端市场。新机在外观、系统体验、电池续航和屏幕表现上都拿出了较强完成度，同时配备更灵活的影像组合，整体定价控制在 500 美元以内，因而显得颇具吸引力。文章也提到它仍有短板，包括超广角和变焦成像不够稳定、不支持无线充电，以及美国运营商频段兼容性和软件更新策略较弱。",
-              "source_url": "https://www.androidauthority.com/nothing-phone-4a-pro-review-3651036/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-04T17:30:41+08:00"
-            },
-            {
-              "title": "我每次拿到安卓新机都会先设置的 5 件事，用来提升效率",
-              "brief": "作者从自己频繁被手机分心的经历出发，总结了每次更换安卓手机都会优先完成的五项设置，希望减少无意识刷机带来的时间浪费。文中重点提到第三方启动器是核心环节，例如使用更极简的 Niagara Launcher，把主屏控制在少量常用应用和低刺激视觉元素之内，从而降低通知、色彩和图标对注意力的牵引。作者认为，这些设置不能完全阻止分心，但能明显减少无目的跳转，节省精力。",
-              "source_url": "https://www.androidauthority.com/things-i-set-up-android-phone-boost-productivity-3653524/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-04T17:00:15+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "本周值得关注的独立游戏：3D《超级食肉男孩》、投币混战与西部魂系新作",
+              "brief": "Engadget 汇总了本周值得留意的独立游戏动态，其中包括把系列招牌高难度平台玩法带入三维空间的《超级食肉男孩 3D》、带有混乱投币机制的新作，以及一款 2D 西部魂系游戏和一款围绕初恋展开的叙事作品。文章还提到 4 月 9 日举行的新一届 Triple-i Initiative 展示会将公布发售日期、玩法演示和 8 款新作，同时 Day of the Devs 夏季数字发布会也仍在接受开发者报名。",
+              "source_url": "https://www.engadget.com/gaming/super-meat-boy-3d-coin-pushing-chaos-and-other-new-indie-games-worth-checking-out-110000960.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-04T19:00:00+08:00"
+            },
             {
               "title": "哈珀柯林斯与 AI 动画公司 Toonstar 合作，将图书改编为数字剧集",
               "brief": "出版商哈珀柯林斯宣布与 AI 动画工作室 Toonstar 合作，把旗下部分图书 IP 改编为数字剧集，首个项目将是 Lisa Greenwald 的《Friendship List》系列，并计划同步推出图像小说。Toonstar 以使用 AI 简化动画制作流程而受到关注，其联合创始人曾表示，借助相关技术，完整动画集数的制作速度可提升约 80%，成本则可比行业常规低 90%。",
@@ -235,19 +242,26 @@
               "source_url": "https://www.engadget.com/science/space/the-artemis-ii-crew-snapped-some-mesmerizing-photos-of-earth-183610493.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-04T02:36:10+08:00"
-            },
-            {
-              "title": "2026 年 NCAA“疯狂三月”四强赛观看方式汇总",
-              "brief": "随着 2026 年 NCAA 男女篮锦标赛进入四强阶段，Engadget 整理了本周末比赛的观看方式。文章指出，男女赛事都可以通过流媒体收看，但不同场次分布在不同频道和平台上，部分内容还需要电视账号登录验证，想完整追赛往往得准备不止一块屏幕。对于从分区赛一路追到最后阶段、又担心错过关键场次的观众来说，这类平台与转播入口汇总能在决赛周前提供更清晰的收看路线。",
-              "source_url": "https://www.engadget.com/entertainment/streaming/march-madness-2026-how-to-watch-the-final-four-154903746.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-04T02:33:38+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "《超级食肉男孩 3D》评测：换成三维后，受苦依旧上头",
+              "brief": "The Verge 认为，《超级食肉男孩 3D》虽然从经典 2D 平台动作转向了 3D 视角，但系列最核心的体验并没有改变。主角依然拥有轻飘却精准的跳跃手感，关卡仍充满锯片、激光、尖刺、导弹和移动平台等致命障碍，失败后几乎立即重来，让玩家不断在短关卡中试错、修正路线。地面残留的血迹还会成为下一次挑战的视觉提示，因此游戏依旧保留了那种令人抓狂却又极具成就感的节奏。",
+              "source_url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
+              "source_name": "The Verge",
+              "published_at": "2026-04-04T08:00:00-04:00"
+            },
+            {
+              "title": "一款用来追踪影视、播客和几乎所有内容的应用",
+              "brief": "本期 The Verge《Installer》栏目把名为 Sofa 的应用列为重点推荐，认为它适合统一记录电视剧、电影、播客以及其他想看、想听内容，帮助用户把分散在不同平台上的清单集中管理。文章同时还整理了本周值得尝试的其他新东西，包括一款面向联邦宇宙的新应用、一部新的马力欧电影消息、一款更安全的视频聊天工具等，延续了该栏目每周为读者筛选软件、硬件和娱乐内容的固定形式。",
+              "source_url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+              "source_name": "The Verge",
+              "published_at": "2026-04-04T08:00:00-04:00"
+            },
             {
               "title": "安克 Nebula P1 投影仪评测：便携投影里的音响强项",
               "brief": "Anker 推出的 Nebula P1 并不是最轻便、也不是最亮的 Google TV 便携投影仪，而且机身没有内置电池，使用时仍需外接电源。它的主要卖点在于可拆分的一对扬声器，能够组成真正的左右声道，声音表现明显优于许多一体式便携投影产品。评测认为，这款售价 799 美元、促销价 639 美元的设备更强调音频体验，在旅行和房车场景中有一定吸引力。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
               "source_name": "The Verge",
               "published_at": "2026-04-03T16:53:48-04:00"
-            },
-            {
-              "title": "OpenAI 负责 AGI 落地的高管 Fidji Simo 将暂时休假",
-              "brief": "The Verge 援引一份内部备忘录称，OpenAI 负责 AGI 落地的高管 Fidji Simo 因神经免疫系统疾病将休医疗假，时间为“接下来几周”。在她休假期间，OpenAI 总裁 Greg Brockman 将接管产品事务，并继续推进公司的“超级应用”计划；业务层面则由首席战略官 Jason Kwon、首席财务官 Sarah Friar 与首席营收官 Denise Dresser 共同负责。备忘录还提到，OpenAI 首席市场官 Kate Rouch 也决定离职以专注健康问题，Gary Briggs 将临时接替其职责，并与相关高管共同推进继任人选的招聘工作。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-              "source_name": "The Verge",
-              "published_at": "2026-04-03T16:22:59-04:00"
-            },
-            {
-              "title": "联想 Legion Go 2 售价半年内最高上涨 650 美元",
-              "brief": "The Verge 报道称，百思买目前已将联想掌机 Legion Go 2 的售价上调至 1499 美元起，搭载 Ryzen Z2 Extreme 的高配版更达到 1999 美元。相比六个月前 1349 美元的价格，后者上调了 650 美元。文章指出，这使得该机型的价格已接近甚至超过部分更高性能设备，也约为同芯片配置 Xbox Ally X 的两倍。报道将这一变化与近期全球内存价格上涨和硬件成本压力联系起来，认为游戏硬件市场正受到明显冲击，并提醒类似涨价趋势未来可能进一步波及其他 Windows 掌机产品。",
-              "source_url": "https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware",
-              "source_name": "The Verge",
-              "published_at": "2026-04-03T15:19:14-04:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "律师滥用 AI 编造虚假案例的事件正快速增加",
+              "brief": "研究人员 Damien Charlotin 建立的全球数据库显示，律师在法庭文件中滥用 AI 生成并引用根本不存在的判例，相关事件在 2025 年明显激增，而且近来几乎每天都有新案例出现。他统计到的记录已超过 1200 起，其中美国占 831 起，香港也有 2 起。文章提到，法院虽然过去已对类似行为作出处罚，但威慑效果有限，如今部分地区开始提高惩罚力度，例如俄勒冈州就有律师因此被勒令支付 109700 美元罚款和诉讼费用。",
+              "source_url": "https://www.solidot.org/story?sid=83961",
+              "source_name": "Solidot",
+              "published_at": "2026-04-04T18:28:00+08:00"
+            },
             {
               "title": "Gentoo GNU/Hurd 真的发布了，并不只是愚人节玩笑",
               "brief": "Gentoo Linux 在 4 月 1 日宣布把 GNU Hurd 作为主要内核，看上去像愚人节段子，但项目随后确认确实发布了 Gentoo GNU/Hurd 移植版本。文章介绍，采用微内核架构的 GNU Hurd 已经发展超过 35 年，却至今仍未发布 1.0 正式版，最近一次版本更新停留在 2016 年的 v0.9。Gentoo 也提醒，这个移植版目前仍属实验性质，官方更建议先通过 QEMU 模拟器体验，有兴趣的人也可以尝试在真实硬件上运行。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=83957",
               "source_name": "Solidot",
               "published_at": "2026-04-03T22:55:23+08:00"
-            },
-            {
-              "title": "北美发现距今至少 1.2 万年的古老骰子",
-              "brief": "考古学家在《American Antiquity》期刊发表研究，称在怀俄明州、科罗拉多州和新墨西哥州的晚更新世福尔松地层中，发现了距今至少 1.2 万年的骰子，被认为是美洲原住民使用的最早赌博器物。报道指出，这一时间比旧大陆已知同类活动还要早约六千年。研究者据此认为，古代北美原住民很早就已理解并运用机会、随机性和概率等概念，相关游戏与赌博活动在当地文化中也拥有相当久远的历史。",
-              "source_url": "https://www.solidot.org/story?sid=80999",
-              "source_name": "Solidot",
-              "published_at": "2026-04-03T00:00:01+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "滴滴开放打车 Skill，“龙虾”里叫车全程无需切换 App",
-              "brief": "滴滴出行宣布开放打车 Skill，可把地址解析、价格预估、路线规划、司机匹配、订单追踪和周边搜索等能力接入“龙虾”。用户在对话中说出起点和终点后，就能直接查看不同车型预估价格并确认下单，也可以用“10 分钟后出发”或“明早 8 点”这类自然语言发起预约。系统还支持记录常用地址、车型和手机号等偏好信息，并可通过 MCP Key 完成接入配置。",
-              "source_url": "https://www.ithome.com/0/936/024.htm",
+              "title": "vivo X300s 维修备件价格公布：主板最高 3480 元，电池 199 元",
+              "brief": "vivo 公布了 X300s 手机维修备件价格，其中电池为 199 元，后盖 255 元，前置摄像头 105 元，后置主摄 355 元，潜望长焦 295 元，广角摄像头 105 元，充电器和数据线分别为 209 元与 69 元。主板根据容量版本不同，价格从 2680 元到 3480 元不等。IT之家同时提醒，该机在保修范围内更换屏幕、电池、主板和摄像头均为 0 元；超出保修后，维修总费用按配件费加 50 元人工费计算，同次送修更换多个部件只收一次人工费。",
+              "source_url": "https://www.ithome.com/0/936/044.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-04T18:09:30+08:00"
+              "published_at": "2026-04-04T20:32:21+08:00"
             },
             {
-              "title": "联想 Lenovo 800 光能蓝牙键盘国行开售：黑暗续航 30 天，售价 249 元",
-              "brief": "联想 Lenovo 800 光能蓝牙键盘已在国内上市，售价 249 元。产品厚度仅 12 毫米，提供 2° 和 7° 两档倾角调节，重量约 650 克，并支持蓝牙 5.1 与最多三台设备切换连接。IT之家提到，这款键盘的能耗只有普通键盘的四分之一，在纯黑暗环境下满电可连续使用约 30 天，达到电力平衡所需照度约为 200lux。设备还内置 50F 超级电容，耐久次数可达 20000 次循环。",
-              "source_url": "https://www.ithome.com/0/936/020.htm",
+              "title": "《暗影诅咒：地狱复刻版》解除 Steam 国区限制，售价 110 元",
+              "brief": "《暗影诅咒：地狱复刻版》现已解除 Steam 国区限制，国区售价 110 元，为全球第三低价格，游戏支持中文，目前好评率约为 83.51%。这款作品重制自 2011 年原版《Shadows of the Damned》，玩家将继续扮演狩魔猎人加西亚与骷髅伙伴约翰逊深入冥界营救爱人。复刻版在保留第三人称射击和光暗交互机制的基础上，改用即时演算过场，提升画面细节，并新增四套服装与支持继承进度的“新游戏+”模式。",
+              "source_url": "https://www.ithome.com/0/936/043.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-04T18:07:38+08:00"
+              "published_at": "2026-04-04T20:30:22+08:00"
             },
             {
-              "title": "搭载锐龙嵌入式 R2544，ACEMAGIC 阿迈奇 NAS 迷你主机 N3A 上市",
-              "brief": "ACEMAGIC 推出面向 NAS 场景的迷你主机 N3A，搭载锐龙嵌入式 R2544 处理器，最高加速频率 3.7GHz。新机采用 4 个 3.5 英寸 SATA 盘位加 2 个 M.2 2280 PCIe Gen3×4 盘位的 4+2 设计，网络部分提供 2.5GbE 与 1GbE 各一个接口。机身配备 microSD 读卡器、10Gbps USB-C、HDMI 2.0 和 DP 1.4，采用铝合金一体成型外壳、热插拔硬盘架与双风扇散热系统，准系统预售价 1698 元。",
-              "source_url": "https://www.ithome.com/0/936/015.htm",
+              "title": "抖音网页版一度出现网络故障，现已恢复访问",
+              "brief": "IT之家报道称，抖音网页版今晚一度出现网络异常，导致部分用户访问受阻，页面无法正常打开。文章标题随后更新为“已恢复”，意味着这次突发故障已经得到处理。虽然报道未披露更具体的故障原因与影响范围，但从更新节奏来看，此次异常持续时间应相对有限，主要影响的是通过网页端访问抖音的用户。该事件也反映出高频在线服务一旦出现波动，仍会迅速对用户访问体验造成直接影响。",
+              "source_url": "https://www.ithome.com/0/936/042.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-04T17:45:48+08:00"
+              "published_at": "2026-04-04T20:08:05+08:00"
             },
             {
-              "title": "vivo X300 Ultra 维修备件价格公布：屏幕优惠价 1320 元，主板 3300 元起",
-              "brief": "vivo 公布了 X300 Ultra 的维修备件价格，其中屏幕优惠价为 1320 元，电池 199 元，后盖 350 元；主板按容量版本区分，12GB+256GB 为 3300 元，最高配 16GB+1TB 则为 4200 元。影像模组方面，前摄 125 元，后置主摄 820 元，潜望镜头 790 元，广角镜头 450 元，多光谱镜头 95 元。官方同时说明，保内更换屏幕、电池、主板和摄像头均免费，保外维修需另加 50 元人工费，单次送修更换多个部件也只收一次。",
-              "source_url": "https://www.ithome.com/0/936/013.htm",
+              "title": "别克至境 E7 展车到店，4 月 10 日预售，综合续航超 1600 公里",
+              "brief": "别克至境 E7 SUV 展车现已到店，并将于 4 月 10 日开启预售。新车采用家族化外观设计，车长 4850mm、轴距 2850mm，车内提供四座悬浮层座椅、零重力副驾、银离子冷暖箱以及 7.1.4 杜比全景声 20 扬声器音响等配置。安全方面，车辆搭载基于 Momenta R6 强化学习大模型的主动安全系统，并使用最高强度 2100MPa 的超高强钢。动力部分配备真龙插混 Pro 系统，CLTC 纯电续航 235 公里，综合续航达到 1630 公里。",
+              "source_url": "https://www.ithome.com/0/936/041.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-04T17:35:19+08:00"
+              "published_at": "2026-04-04T20:03:40+08:00"
             },
             {
-              "title": "中国首款 WSBK 冠军摩托车张雪 820RR 量产下线，售价 4.38 万元起",
-              "brief": "张雪机车宣布 820RR 正式量产下线，并将其称为中国首款 WSBK 冠军摩托车。官方信息显示，2026 款 500RR 与 820RR 在 3 月 21 日开启预订后，100 小时内大定订单超过 5543 台，创下国产中排量仿赛车型预订纪录。其中 820RR 售价 4.38 万元起，最大马力 135PS，零百加速 2.81 秒。与此同时，品牌要求驾龄未满一年的新手不得购买该车型，违规销售的经销商将受到处罚。",
-              "source_url": "https://www.ithome.com/0/936/011.htm",
+              "title": "何小鹏：不会做 10 万元以下汽车，规模有了但价值太小",
+              "brief": "何小鹏在谈及产品策略时表示，小鹏不会进入 10 万元以下汽车市场，原因是这类车型虽然可能带来销量规模，但利润空间太低、商业价值有限。他强调，小鹏更看重能够带来更高毛利的产品区间。IT之家同时提到，2026 款小鹏 MONA M03 已于 4 月 2 日上市，售价 11.98 万至 15.18 万元，搭载 AI 天玑 6.0 系统，并在部分版本首发图灵 AI 芯片，实现高速、城市和快速路场景的智能辅助驾驶覆盖，最高续航达到 640 公里。",
+              "source_url": "https://www.ithome.com/0/936/040.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-04T17:15:59+08:00"
+              "published_at": "2026-04-04T19:47:37+08:00"
             }
           ]
         },
