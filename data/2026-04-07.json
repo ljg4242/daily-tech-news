@@ -1,6 +1,6 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T17:50:27.665886+08:00",
+  "generated_at": "2026-04-07T20:03:12.976298+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Gemini 终于将支持壁纸配色主题，向其他谷歌应用看齐",
+              "brief": "谷歌正在测试为 Gemini 添加基于壁纸的主题配色功能。Gemini 作为谷歌应用的一部分，并非独立应用，目前仍使用传统的白蓝配色方案。测试中的变化出现在 Gemini 浮动覆盖层中，召唤 Gemini 时可以看到轻微着色的浮动栏和 Gemini Live 按钮。谷歌 2021 年推出壁纸主题引擎 Material You，后被 Material 3 Expressive 接替，但 Gemini 和 Play Store 等少数应用一直未适配。此次更新可能标志着这些应用将全面跟进。",
+              "source_url": "https://www.androidauthority.com/google-gemini-material-color-theme-3655366/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-07T18:31:52+08:00"
+            },
+            {
+              "title": "调查显示近 70% 用户经常遇到 Android Auto 连接问题",
+              "brief": "Android Authority 在报道 Android Auto 连接问题后发起的读者调查显示，近 70% 的受访者表示经常遇到 Android Auto 连接问题。另有 17.5% 表示问题偶发，仅 10.5% 表示 Android Auto 运行完美。综合来看，超过 85% 的受访者曾在某个时候遭遇连接故障。问题主要集中在 Pixel 和三星手机用户，有线连接受影响最大。谷歌已承认问题并表示修复正在推送中，但调查显示 Android Auto 存在更广泛的可靠性问题。",
+              "source_url": "https://www.androidauthority.com/android-auto-connection-issues-poll-results-3655220/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-07T18:30:50+08:00"
+            },
+            {
+              "title": "三星手机隐藏的指纹神技：不同手指打开不同应用",
+              "brief": "三星 Good Lock 应用中的 Routines+ 插件支持一项鲜为人知的指纹功能：用户可以设置不同手指的指纹直接打开不同应用。例如左手拇指打开 Instagram，右手食指打开笔记应用。设置方法为：先在设置中注册多个指纹，然后在 Good Lock 的 Routines+ 插件中进入「指纹到网站」功能，为每个指纹分配对应的应用快捷方式。这项功能将指纹传感器从单纯的解锁工具升级为高效的多应用启动器。",
+              "source_url": "https://www.androidauthority.com/samsung-phone-open-apps-fingerprint-sensor-hack-how-to-3654359/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-07T18:00:46+08:00"
+            },
             {
               "title": "首款骁龙8 Elite掌机芯片名存实亡，已被悄然改为高通Dragonwing Q8",
               "brief": "AYN去年推出的Odin 3游戏掌机曾以搭载骁龙8 Elite处理器为卖点，但近日厂商要求媒体将芯片名称改为高通Dragonwing Q8。据悉此举系高通方面要求。Dragonwing系列原本面向物联网和工业领域，但新芯片的规格与骁龙8 Elite完全一致，包括3nm工艺、4.32GHz Oryon八核CPU和Adreno 830 GPU，型号为CQ8725S。AYN已更新产品页面，删除所有骁龙8 Elite相关描述。",
@@ -21,27 +42,246 @@
               "source_url": "https://www.androidauthority.com/death-samsung-messages-good-why-3655062/",
               "source_name": "Android Authority",
               "published_at": "2026-04-07T17:30:48+08:00"
+            }
+          ]
+        },
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "可折叠 iPhone 设计曝光：假机模型图流出",
+              "brief": "爆料人 Sonny Dickson 分享了首批 iPhone 18 Pro、iPhone 18 Pro Max 和可折叠 iPhone 的假机模型图片，与此前流传的设计传闻一致。可折叠 iPhone 采用护照式外形，完全不同于以往任何 iPhone 设计。该设备预计配备 7.8 英寸内屏，采用 iPad 风格的 4:3 宽高比，外屏 5.5 英寸，钛合金边框仅 4.5 毫米。从模型来看，可折叠 iPhone 后盖可能采用全玻璃设计，相机模组并未延伸至设备全宽，约覆盖背面四分之三。",
+              "source_url": "https://www.macrumors.com/2026/04/07/foldable-iphone-design-revealed/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-07T19:23:31+08:00"
             },
             {
-              "title": "MacBook Neo印证了Google Pixel策略的正确性：体验比参数更重要",
-              "brief": "作者使用MacBook Neo三周后认为，这款599美元的笔记本电脑体现了够用就好的产品哲学，不追求极致屏幕和散热，而是让浏览、写作和流媒体等日常体验足够流畅。这与Google Pixel系列的思路如出一辙：屏幕够亮、震动反馈够好、系统够流畅、拍照一次成片，用户就不会在意边框稍宽或少一颗摄像头。文章认为苹果和谷歌都在走一条精细的平衡路线，在成本与体验之间寻找最优解。",
-              "source_url": "https://www.androidauthority.com/macbook-neo-google-pixel-strategy-3654761/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T17:00:49+08:00"
+              "title": "苹果更新液态玻璃设计展示页面，秀出第三方应用适配成果",
+              "brief": "苹果发布了更新版液态玻璃设计展示画廊，展示第三方应用在 iOS 26、iPadOS 26 和 macOS 26 中采用液态玻璃美学的效果。画廊包含多款 iPhone 和 iPad 应用截图，对比 iOS 18 与 iOS 26 的设计差异。AllTrails、Carrot Weather、Fantastical、Trello 等应用均已适配液态玻璃元素，包括标签栏、导航按钮和底部工具栏。传闻 iOS 27 系列系统将继续沿用液态玻璃风格，但可能新增全局透明度调节滑块。",
+              "source_url": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-07T07:14:04+08:00"
             },
             {
-              "title": "Google相册终于加入视频倍速播放功能，支持五档变速",
-              "brief": "Google正式为Android版Google相册推出视频播放速度调节功能，用户现可选择0.25倍、0.5倍、1倍、1.5倍和2倍五档速度。操作方式为点击视频右上角三点菜单选择播放速度，选定后下次播放自动沿用。Google承认这是用户长期呼吁的功能。目前iOS和网页版尚未公布上线时间，预计后续将覆盖全平台。",
-              "source_url": "https://www.androidauthority.com/google-photos-video-playback-speed-3655319/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T16:46:39+08:00"
+              "title": "部分 iPhone 应用出现来源标注为「苹果」的神秘更新",
+              "brief": "App Store 上部分应用近期出现了来源标注为苹果而非开发者的更新通知。更新说明写道：「此次来自苹果的更新将改善该应用的功能，不包含新功能。」涉及应用包括 Candy Crush Soda Saga、Catan Universe、VLC 等多款应用，涵盖近期更新和长期未更新的应用。有开发者表示苹果在未更改版本号和内容的情况下插入了该文本。目前尚不清楚苹果具体修改了什么，MacRumors 在分析其中一款应用代码后未发现明显变化。",
+              "source_url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-07T06:21:34+08:00"
             },
             {
-              "title": "Gemini正在测试类似ChatGPT的Projects功能，可将对话分组管理",
-              "brief": "Google从去年12月开始在Gemini中开发名为Projects的对话分组功能，类似ChatGPT的文件夹系统，允许用户将不同对话归类到指定项目中。近日有用户在Gemini网页版发现该选项已出现，悬停对话时三点菜单中新增添加到项目入口。不过目前功能尚不能正常使用，仍处于小范围测试阶段。这一功能将大幅改善重度用户的对话管理体验。",
-              "source_url": "https://www.androidauthority.com/gemini-projects-folder-organize-3655323/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T16:24:43+08:00"
+              "title": "iPhone Fold 进入试产阶段，预计 2026 年内发布",
+              "brief": "据国内爆料人「刹那数码」透露，苹果合作伙伴富士康已开始对 iPhone Fold 进行试产。试产完成后，如无问题，苹果计划于 7 月启动量产。最新传闻显示 iPhone Fold 可能不会在 9 月与 iPhone 18 Pro 同步上市，最晚可能推迟至 12 月。该设备预计合盖时屏幕约 5.5 英寸，展开后约 7.8 英寸，采用 4:3 宽高比，展开厚度仅 4.5 毫米，由于超薄设计将不配备长焦镜头和 Face ID，转而采用类似 iPad 的 Touch ID 侧边按钮。",
+              "source_url": "https://www.macrumors.com/2026/04/06/iphone-fold-trial-production/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-07T05:28:05+08:00"
+            },
+            {
+              "title": "苹果请求法院暂停 App Store 佣金争议，拟向最高法院上诉",
+              "brief": "苹果计划就 App Store 佣金限制和藐视法庭裁决向美国最高法院提出上诉。苹果在 4 月 3 日提交的文件中请求第九巡回上诉法院暂缓由北加州地区法院裁定合理佣金的计划，担心地区法院做出裁决后最高法院可能推翻。苹果提议维持当前免佣金链接模式，待最高法院回复后再行推进。此前 2025 年 4 月，苹果被裁定违反 2021 年关于允许开发者引导用户使用第三方购买链接的禁令，该禁令源于 Epic Games 诉讼案。",
+              "source_url": "https://www.macrumors.com/2026/04/06/apple-epic-games-supreme-court-petition/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-07T04:32:29+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "可折叠 iPhone 或因工程问题推迟至 2027 年发布",
+              "brief": "据日经新闻报道，苹果在可折叠 iPhone 的早期试产阶段遇到了超出预期的工程问题，可能导致首批出货推迟数月。多名知情人士透露，零部件供应商已被告知折叠 iPhone 的生产计划将延迟。4 月是工程验证测试的关键阶段，苹果和供应链正加紧解决问题，但现有方案不足以完全克服工程挑战，需要更多时间。此前苹果计划在 2026 年秋季发布这款设备。",
+              "source_url": "https://9to5mac.com/2026/04/07/iphone-fold-launch-could-be-delayed-into-2027-after-reported-engineering-problems/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-07T19:05:46+08:00"
+            },
+            {
+              "title": "可折叠 iPhone 尺寸曝光：与 iPhone 18 Pro 对比一览",
+              "brief": "爆料人 Sonny Dickson 分享了可折叠 iPhone 假机模型的照片，与 iPhone 18 Pro 和 iPhone 18 Pro Max 的模型一同出镜。从图片来看，折叠 iPhone 采用护照式的宽扁造型，合盖状态下比 iPhone 18 Pro 明显更宽更短。该设备预计内屏 7.8 英寸，外屏 5.5 英寸，展开厚度仅 4.5 毫米，采用 4:3 宽高比设计，整体形态更接近 iPad 而非传统智能手机。",
+              "source_url": "https://9to5mac.com/2026/04/07/iphone-fold-foldable-size-dimensions/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-07T18:29:52+08:00"
+            },
+            {
+              "title": "Apple @ Work 播客：苹果进军企业市场的决心",
+              "brief": "9to5Mac 推出 Apple @ Work 播客新一期节目，探讨苹果在企业市场的布局战略。节目讨论了苹果如何通过 Mac、iPhone 和 iPad 等产品线深入企业级市场，以及苹果在商务领域的最新举措和合作伙伴关系。播客围绕「苹果意味着商业」这一主题，分析了苹果产品在企业环境中的竞争力和增长潜力。",
+              "source_url": "https://9to5mac.com/2026/04/07/apple-means-business/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-07T18:00:00+08:00"
+            },
+            {
+              "title": "宇航员用 iPhone 17 Pro 拍下月球远端绝美照片",
+              "brief": "NASA Artemis II 任务指挥官 Reid Wiseman 在 Orion 飞船接近月球时，使用 iPhone 17 Pro 的 8 倍变焦拍摄了月球远端的切比雪夫陨石坑照片。宇航员们关闭了舱内所有灯光以获得更好的拍摄效果。Artemis II 于 4 月 1 日发射执行为期十天的载人绕月任务，4 月 6 日以距地球 252,756 英里的距离打破了阿波罗 13 号保持 56 年的人类太空飞行最远纪录。",
+              "source_url": "https://9to5mac.com/2026/04/06/moonshot-on-iphone-astronaut-reid-wiseman-snaps-unbelievable-photo-of-the-lunar-surface/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-07T10:17:09+08:00"
+            },
+            {
+              "title": "9to5Rewards 抽奖活动：MacBook Pro 和 BenQ 4K 纳米雾面显示器",
+              "brief": "9to5Mac 推出最新一期 9to5Rewards 抽奖活动，奖品包括 MacBook Pro 笔记本电脑和 BenQ 4K 纳米雾面显示器。活动面向所有用户开放，参与者可通过指定方式注册参与抽奖。MacBook Pro 搭载苹果最新芯片，BenQ 4K 显示器采用纳米雾面技术，减少屏幕反光，适合专业创作和日常使用。",
+              "source_url": "https://9to5mac.com/2026/04/06/9to5rewards-giveaway-macbook-pro-and-benq-4k-nano-gloss-monitor/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-07T08:32:58+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Anthropic 与谷歌达成协议，将使用下一代 TPU 为 Claude 提供算力",
+              "brief": "Anthropic 在官方博客宣布，已与谷歌和博通签署协议，将获得多吉瓦级下一代 TPU 算力，预计 2027 年开始上线。这些算力将用于训练前沿 Claude 模型，满足日益增长的用户需求。新增算力大部分部署在美国境内，是 Anthropic 此前承诺 500 亿美元加强美国计算基础设施的延伸。Anthropic 表示 2026 年 Claude 服务需求大幅增长，年消费超百万美元的企业客户数量在不到两个月内翻倍。",
+              "source_url": "https://9to5google.com/2026/04/06/anthropic-inks-deal-with-google-to-power-claude-with-next-gen-tpus/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-07T09:15:00+08:00"
+            },
+            {
+              "title": "谷歌 Pixel 10a 日本首发独占「雅蓝」配色，与 HERALBONY 联名",
+              "brief": "谷歌在日本推出 Pixel 10a 独占的「雅蓝」（Isai Blue）配色，这是一种接近深海军蓝的色调，成为该机型的第五种配色。谷歌与创意公司 HERALBONY 合作设计了这款特别版，256GB 存储版本附赠专属防摔壳和贴纸，还内置由 HERALBONY 签约艺术家创作的专属壁纸和主题包。雅蓝版已在日本开放预购，5 月 20 日发货，售价 79,900 日元起，Google Store 提供以旧换新加价优惠至 4 月 27 日。",
+              "source_url": "https://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-07T08:55:00+08:00"
+            },
+            {
+              "title": "Android 2026 年 4 月 Google 系统更新内容一览",
+              "brief": "谷歌发布了 2026 年 4 月 Android 系统更新日志。Google Play services v26.13 带来了多项改进：车载系统新增 QR 码登录确认功能，位置共享 API 得到优化，系统管理服务安全性和稳定性更新，以及钱包服务修复。Google Play Store v50.9 也同步更新。用户可通过设置中 Google 服务路径查看和更新。部分功能可能需要数月才能全面推送。",
+              "source_url": "https://9to5google.com/2026/04/06/april-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-07T06:58:21+08:00"
+            },
+            {
+              "title": "Google Photos 新增「AI 增强」按钮和视频播放速度控制",
+              "brief": "谷歌相册正在向全球 Android 用户推送「AI 增强」按钮，用户轻点即可利用 AI 自动调整照片的光线和对比度，实现一键美化。同时，视频播放速度控制功能也开始推送，用户可在视频三点菜单中选择 0.25 倍到 2 倍速播放。谷歌表示这是用户长期要求的功能。AI 增强按钮的推送范围更广，视频速度控制仍处于较早阶段，两者都将在近期陆续上线。",
+              "source_url": "https://9to5google.com/2026/04/06/google-photos-adding-ai-enhance-video-playback-speed-control/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-07T04:10:46+08:00"
+            },
+            {
+              "title": "周一安卓应用优惠：Lumino City、Greak 等限时免费",
+              "brief": "9to5Toys 汇总了周一安卓平台的应用优惠和限免信息。值得关注的包括 Lumino City（一款纸艺风格解谜游戏）、Greak: Memories of Azur（横版动作冒险游戏）以及 Conquistadorio 等多款应用和游戏。这些优惠多为限时活动，感兴趣用户可尽快前往 Google Play 商店下载获取。",
+              "source_url": "https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-07T03:19:06+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "英特尔全力押注先进芯片封装技术",
+              "brief": "英特尔在新墨西哥州 Rio Rancho 的芯片工厂正全力推进先进芯片封装业务。该工厂曾于 2007 年停产，2024 年 1 月重新启用后获得了包括美国 CHIPS 法案 5 亿美元拨款在内的数十亿美元投资。先进封装涉及将多个小芯片整合到单颗定制芯片上，英特尔 CEO 陈立武称封装是公司与竞争对手的重大差异化优势。在 AI 驱动算力需求激增的背景下，英特尔希望借此从台积电手中争夺更多市场份额。",
+              "source_url": "https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-07T17:00:03+08:00"
+            },
+            {
+              "title": "Artemis II 宇航员创人类最远飞行纪录，月球景观令人震撼",
+              "brief": "NASA Artemis II 任务指挥官 Reid Wiseman 带领四名宇航员在 4 月 6 日打破了 1970 年阿波罗 13 号保持 56 年的人类太空飞行最远距离纪录，飞船距地球超过 248,655 英里。Wiseman 在直播中感叹月球景象超乎想象。宇航员关闭舱内灯光用 iPhone 拍摄了月球远端高清照片，Orion 飞船最远将达到 252,756 英里后返航，预计 4 月 10 日溅落在圣地亚哥附近海域。",
+              "source_url": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-07T11:50:32+08:00"
+            },
+            {
+              "title": "败诉后 RFK Jr 修改 CDC 疫苗顾问小组章程以扩大自身权力",
+              "brief": "美国卫生部长小罗伯特·肯尼迪在联邦法官上月临时阻止其任命的疫苗顾问后，修改了 CDC 免疫实践咨询委员会（ACIP）的章程。此前法官裁定肯尼迪任命的成员大多缺乏相关领域专业知识，不符合公平代表要求。新章程似乎赋予肯尼迪更广泛的权力来挑选成员并放宽任职要求。此前肯尼迪曾解雇了 ACIP 全部 17 名专家，法官的裁决暂停了该小组的所有活动。",
+              "source_url": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-07T06:34:11+08:00"
+            },
+            {
+              "title": "通用机器人 AI 模型 GEN-1 达到 99% 可靠性，可执行多种物理操作",
+              "brief": "机器人学习公司 Generalist 发布了 GEN-1 物理 AI 系统，宣称在广泛的物理技能上实现了生产级成功率。GEN-1 建立在去年 11 月发布的 GEN-0 概念验证基础上，利用「数据手」穿戴设备捕获人类操作物体时的微动作和视觉信息。公司已收集超过 50 万小时的物理交互数据用于训练。新模型能够应对突发状况并即兴调整动作，实现折叠纸盒、修理吸尘器等多种任务。",
+              "source_url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-07T06:18:33+08:00"
+            },
+            {
+              "title": "法院裁定预测市场的体育投注属于「互换交易」，不受州法律管辖",
+              "brief": "美国联邦上诉法院以 2:1 裁定，新泽西州不能对预测平台 Kalshi 的体育投注进行监管，因为美国商品期货交易委员会（CFTC）拥有排他性管辖权。Kalshi 在 CFTC 注册为指定合约市场，去年获得初步禁令阻止新泽西州博彩执法部门执行相关州法。法院多数意见认为联邦商品交易法排除了直接干预在 DCM 上交易的互换产品的州法，进一步确立了联邦对预测市场的专属监管权。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-07T05:56:36+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "晨间速报：苹果可折叠 iPhone 可能延期发布",
+              "brief": "据日经新闻报道，苹果在可折叠 iPhone 的早期试产阶段遇到了超出预期的工程问题，可能导致首批出货推迟数月。零部件供应商已被告知生产计划将延迟，苹果正在积极解决问题。此外，CFTC 起诉伊利诺伊、亚利桑那和康涅狄格三州试图监管预测市场，要求联邦政府对预测市场拥有唯一管辖权。OpenAI 为 CarPlay 带来了 ChatGPT 语音模式，三星 2026 年新款音箱和回音壁也已上市。",
+              "source_url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111523424.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-07T19:15:23+08:00"
+            },
+            {
+              "title": "Artemis II 宇航员用 iPhone 拍出碾压级月球照片",
+              "brief": "NASA 宇航员 Reid Wiseman 在 Artemis II 任务中使用 iPhone 17 Pro 的 8 倍变焦拍摄了月球远端的切比雪夫陨石坑照片，画面效果令人惊叹。宇航员关闭舱内全部灯光以提升拍摄质量。Artemis II 于 4 月 1 日发射执行十天绕月任务，4 月 6 日以距地球 252,756 英里的距离打破阿波罗 13 号保持 56 年的最远飞行纪录。机组已于 4 月 6 日晚完成月球飞掠，正在返回地球途中，预计 4 月 10 日在圣地亚哥附近海域降落。",
+              "source_url": "https://www.engadget.com/science/space/artemis-ii-astronaut-puts-all-of-our-iphone-moon-photos-to-shame-093740553.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-07T17:37:40+08:00"
+            },
+            {
+              "title": "报道称苹果可折叠 iPhone 因工程问题可能延期",
+              "brief": "日经新闻援引多方消息报道，苹果在可折叠 iPhone 早期试产阶段遇到超出预期的工程问题，可能导致首批出货延迟数月。一名消息人士表示当前情况可能危及量产时间表，4 月是工程验证测试的关键阶段。苹果原计划在 2026 年秋季与 iPhone 18 一同发布折叠 iPhone，但铰链和屏幕耐久性方面的制造问题可能导致项目推迟至 2027 年。零部件供应商已被告知生产计划将延迟。",
+              "source_url": "https://www.engadget.com/mobile/smartphones/report-apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813819.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-07T15:38:13+08:00"
+            },
+            {
+              "title": "亚马逊与 USPS 达成新协议，邮递量将削减 20%",
+              "brief": "亚马逊与美国邮政服务（USPS）达成初步协议，将 USPS 配送量削减 20%。此前亚马逊曾威胁削减三分之二的配送量，最终幅度有所缓和。亚马逊是 USPS 最大客户，占其业务量的 15% 和 60 亿美元收入。20% 的削减仍可能导致 USPS 超过 10 亿美元的收入损失。亚马逊原合同于 2026 年 9 月到期，去年 USPS 曾突然退出谈判并启动新招标程序，随后重新与亚马逊展开磋商。",
+              "source_url": "https://www.engadget.com/general/amazons-new-usps-deal-will-see-postal-deliveries-cut-by-20-percent-054608944.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-07T13:46:08+08:00"
+            },
+            {
+              "title": "英雄联盟 KeSPA 杯将在 Disney+ 全球直播",
+              "brief": "迪士尼与韩国电子竞技协会（KeSPA）达成合作，多场电竞赛事将在 Disney+ 全球直播。合作内容包括 2026 年电竞冠军亚洲锦标赛（4 月 24-26 日，含街头霸王 6、铁拳 8 等项目）、2026 年英雄联盟 KeSPA 杯，以及 2026 年亚运会爱知·名古屋的预选赛。此前 KeSPA 赛事仅在亚洲地区通过 Disney+ 播出，此次合作扩展至全球范围，但观众可能需要订阅 Disney+ 才能观看此前在 Twitch 和 YouTube 免费直播的赛事。",
+              "source_url": "https://www.engadget.com/gaming/the-league-of-legends-kespa-cup-will-air-globally-on-disney-224455083.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-07T06:44:55+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "可折叠 iPhone 假机模型曝光，同期传出延期消息",
+              "brief": "爆料人 Sonny Dickson 在 Bluesky 分享了可折叠 iPhone 假机模型的照片，与 iPhone 18 Pro 和 18 Pro Max 模型一同出镜。Dickson 以准确获取手机厂商提供给配件商的假机模型著称。该模型展示了折叠 iPhone 异常宽阔的外形，与传统 iPhone 设计截然不同。与此同时，日经新闻报道称该设备在早期工程验证测试中遇到了生产问题，可能导致出货时间比其他 iPhone 延迟数月。iPhone 18 Pro 模型则与去年的 17 Pro 外观相近。",
+              "source_url": "https://www.theverge.com/tech/907856/iphone-fold-dummy-design-delay-production",
+              "source_name": "The Verge",
+              "published_at": "2026-04-07T07:27:04-04:00"
+            },
+            {
+              "title": "Gemini 优化心理危机干预界面，方便用户更快获得帮助",
+              "brief": "谷歌宣布更新 Gemini 的心理健康危机响应机制。此前 Gemini 在检测到用户可能处于自杀或自残危机时会弹出「帮助可用」模块，新版本将此优化为一键式界面，使用户能更快获得帮助。更新还包含更具同理心的回复设计，旨在鼓励用户寻求援助。这一变更正值谷歌面临多起诉讼，其中一起不当死亡案指控 Gemini「指导」一名男子自杀。谷歌表示此次更新旨在改善危机时刻的用户体验。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+              "source_name": "The Verge",
+              "published_at": "2026-04-07T06:09:57-04:00"
+            },
+            {
+              "title": "威斯康星州长否决色情网站年龄验证法案",
+              "brief": "威斯康星州州长 Tony Evers 否决了一项要求居民在访问色情网站前验证年龄的法案（AB 105）。Evers 在致州议会的信中写道，该法案对试图访问受宪法保护内容的成年人施加了侵入性负担。该法案要求超过三分之一内容被认定对未成年人有害的网站实施合理的年龄验证方式。目前全美已有超过二十个州通过了类似的年龄验证法律，包括亚利桑那、佛罗里达、德克萨斯等州。",
+              "source_url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+              "source_name": "The Verge",
+              "published_at": "2026-04-06T17:47:15-04:00"
+            },
+            {
+              "title": "Artemis II 宇航员打破飞行距离纪录，以已故妻子之名命名月球陨石坑",
+              "brief": "Artemis II 机组在 4 月 6 日下午打破了阿波罗 13 号保持 56 年的人类太空飞行最远距离纪录——超过 248,655 英里。机组以这一历史性时刻举行了月球陨石坑命名仪式，第一个以飞船 Integrity 命名，第二个则更个人化：指挥官 Wiseman 以已故妻子 Carroll 的名字命名了一个月球上的亮点。这一幕让全组人员在月球轨道上相拥。Artemis II 于 4 月 1 日发射执行十天绕月任务。",
+              "source_url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+              "source_name": "The Verge",
+              "published_at": "2026-04-06T16:40:11-04:00"
+            },
+            {
+              "title": "当前 MacBook 最佳优惠汇总",
+              "brief": "2026 年苹果 MacBook 产品线迎来重大变化，除传统的 M 系列芯片外，此前仅用于 iPhone 的 A 系列芯片也进入了笔记本产品线。599 美元起售的 MacBook Neo 使产品线覆盖更多价位和尺寸。文章汇总了 MacBook Neo、MacBook Air 和 MacBook Pro 各型号的当前最佳折扣信息，帮助消费者根据不同需求和预算找到合适的优惠。所有新款 MacBook 均运行最新的 macOS 26 操作系统。",
+              "source_url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+              "source_name": "The Verge",
+              "published_at": "2026-04-06T14:50:06-04:00"
             }
           ]
         }
@@ -54,39 +294,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "长源东谷拟发行股份收购襄阳康豪机电工程100%股权，股票4月8日复牌",
-              "brief": "长源东谷发布公告称，公司正在筹划以发行股份方式收购襄阳康豪机电工程有限公司100%股权并募集配套资金。公司第五届董事会第十五次会议已审议通过交易相关议案，因构成关联交易，关联董事已回避表决。根据上交所相关规定，公司股票将于2026年4月8日开市起复牌。",
-              "source_url": "https://36kr.com/newsflashes/3756567880925959?f=rss",
+              "title": "华友钴业：2025年净利润61.1亿元，同比增长47.07%",
+              "brief": "华友钴业发布 2025 年业绩报告，全年实现净利润 61.1 亿元，同比增长 47.07%。公司业绩增长主要受益于新能源产业链对钴、镍等核心原材料的需求持续增长，以及公司在印尼等地的镍钴项目产能释放。华友钴业作为全球领先的钴产品供应商，近年来积极布局海外资源和前驱体材料业务。",
+              "source_url": "https://36kr.com/newsflashes/3756692554679048?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 17:38:27  +0800"
+              "published_at": "2026-04-07 19:45:17  +0800"
             },
             {
-              "title": "金杯汽车与自变量机器人在沈阳成立合资公司，注册资本1500万元",
-              "brief": "爱企查App显示，金智变量机器人科技（沈阳）有限公司近日在沈阳成立，法定代表人为丁侃，注册资本1500万元人民币。公司经营范围涵盖智能机器人研发、智能机器人销售、工业机器人制造等领域。股东信息显示，该公司由金杯汽车股份有限公司和自变量机器人科技（深圳）有限公司共同持股，标志着金杯汽车正式布局机器人赛道。",
-              "source_url": "https://36kr.com/newsflashes/3756567061414408?f=rss",
+              "title": "兆易创新：实控人朱一明拟减持1.60%股份",
+              "brief": "兆易创新公告，公司实际控制人朱一明计划通过集中竞价减持不超过 700 万股、大宗交易减持不超过 421 万股，合计减持不超过 1121 万股，占公司总股本 1.60%。减持计划将持续至 2026 年 7 月 29 日。兆易创新是国内领先的存储芯片和 MCU 设计企业，实控人减持通常引发市场对公司前景的关注。",
+              "source_url": "https://36kr.com/newsflashes/3756685429900040?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 17:37:37  +0800"
+              "published_at": "2026-04-07 19:38:02  +0800"
             },
             {
-              "title": "金龙汽车3月客车销量3088辆同比下降33%，一季度累计增长9.8%",
-              "brief": "金龙汽车发布3月产销快报，当月客车销售量3088辆，同比下降33.45%。不过从一季度整体来看，公司累计销售客车1.21万辆，较去年同期增长9.80%。单月销量大幅下滑与季度累计增长形成反差，可能与去年同期基数较高及交付节奏波动有关。",
-              "source_url": "https://36kr.com/newsflashes/3756554444374533?f=rss",
+              "title": "*ST国华：首次触及市值退市风险警示",
+              "brief": "*ST 国华公告，2026 年 4 月 7 日公司股票收盘价为 3.71 元/股，对应总市值 4.91 亿元，当日首次触及总市值低于 5 亿元的情形。若连续二十个交易日收盘总市值均低于 5 亿元，公司股票将被深交所终止上市且不进入退市整理期。此外公司预计 2025 年度扣非净利润为负值且扣除后营业收入低于 3 亿元，可能同时触及财务类终止上市情形。",
+              "source_url": "https://36kr.com/newsflashes/3756681883190020?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 17:24:47  +0800"
+              "published_at": "2026-04-07 19:34:25  +0800"
             },
             {
-              "title": "宁德时代旗下时代电服在呼和浩特成立新科技公司，聚焦换电设施",
-              "brief": "爱企查App显示，呼和浩特时代电服科技有限公司近日成立，法定代表人为谢刚义，注册资本1000万元人民币。公司经营范围包括新能源汽车换电设施销售、蓄电池租赁、电动汽车充电基础设施运营等。股东信息显示该公司由宁德时代旗下时代电服科技有限公司全资持股，进一步扩大宁德时代在充换电领域的布局。",
-              "source_url": "https://36kr.com/newsflashes/3756550916621065?f=rss",
+              "title": "OpenAI 要求加利福尼亚州和特拉华州调查马斯克",
+              "brief": "OpenAI 敦促加利福尼亚州和特拉华州的总检察长调查马斯克可能存在的不当和反竞争行为。这一举措反映了 OpenAI 与马斯克之间持续升级的法律和商业争端。马斯克此前曾多次对 OpenAI 的商业化转型提出批评和法律挑战，OpenAI 此次主动要求监管机构介入调查，标志着双方矛盾进一步激化。",
+              "source_url": "https://36kr.com/newsflashes/3756675303146248?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 17:21:12  +0800"
+              "published_at": "2026-04-07 19:27:44  +0800"
             },
             {
-              "title": "云澎科技完成A+轮融资，聚焦AI赋能膳食营养健康产业",
-              "brief": "浙江云澎科技有限公司宣布完成A+轮融资，由亚投睿才和金华金婺赋能两家投资机构共同投资。云澎科技以AI赋能健康生活、数智引领产业未来为核心战略，打造以膳食营养健康为中心的全场景解决方案。公司表示本轮融资将用于布局AI+健康产业新赛道，拓展业务边界。",
-              "source_url": "https://36kr.com/newsflashes/3756549382767368?f=rss",
+              "title": "深信服：拟8000万元-9000万元回购公司股份",
+              "brief": "深信服公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于 8000 万元且不超过 9000 万元，回购价格不超过 120 元/股。回购股份将用于实施员工持股计划或股权激励计划，回购期限为自董事会审议通过之日起 12 个月内。深信服是国内网络安全和云计算领域的主要厂商，股份回购通常被市场视为公司对自身价值的认可信号。",
+              "source_url": "https://36kr.com/newsflashes/3756670345773576?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 17:19:38  +0800"
+              "published_at": "2026-04-07 19:22:41  +0800"
             }
           ]
         },
@@ -127,6 +367,185 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1556884.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-07T16:33:02+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《黎明杀机》开发商明确表态：永远不会推出续作",
+              "brief": "Behaviour Interactive 在 GDC 上明确表示《黎明杀机》不会推出续作。合作主管 Mathieu Cote 和创意总监 Dave Richard 表示，虽然在开发过程中考虑过制作续作或重制版，但这对玩家永远没有意义。Richard 指出玩家在游戏中投入了大量时间和金钱，团队更希望将游戏拖拽着进入下一个十年，而不是让玩家从零开始购买新游戏。开发团队强调目标是让新玩家在任何时候加入都感觉这是一款当下的游戏，而非怀旧之作。",
+              "source_url": "https://www.ign.com/articles/were-not-going-to-do-a-dead-by-daylight-2-developer-kills-possibility-of-a-sequel",
+              "source_name": "IGN",
+              "published_at": "2026-04-03T06:31:22+08:00"
+            },
+            {
+              "title": "《宝可梦 Pokopia》玩家用百变怪吸干了整个海洋",
+              "brief": "一位名叫 Mindycane 的《宝可梦 Pokopia》玩家利用百变怪的吸水能力，耗时约 6 小时吸干了游戏 Bleak Beach 区域的整个海洋和所有陆地，仅剩不可移除的底层和剧情关键结构。该玩家此前在 Withering Wasteland 建造了一座巨型城堡城市，声称吸干海洋是为了建造海底城堡。更令人担忧的是，该玩家还威胁要对 Rocky Ridge 区域的岩浆海洋下手。这一极限操作展示了游戏物理系统的惊人可塑性。",
+              "source_url": "https://www.ign.com/articles/one-deranged-pokmon-pokopia-player-has-slurped-up-the-entire-ocean",
+              "source_name": "IGN",
+              "published_at": "2026-04-03T06:19:12+08:00"
+            },
+            {
+              "title": "《Peak》开发商回击「懒惰开发」指责：更新是福利而非权利",
+              "brief": "针对社交媒体上关于《Peak》开发商 Landfall 开发周期懒惰的指责，Landfall 官方账号回应称：我们和联合开发商 Aggro Crab 都不是运营型服务工作室，任何更新都是福利而非权利。自上线不到一年以来，《Peak》已获得三次大型更新、多次修补和两个全新生物群落，第三个也计划推出。Landfall 表示游戏行业过去就是发布即完成的状态，他们已经远远超出了这个标准。",
+              "source_url": "https://www.ign.com/articles/any-update-is-a-bonus-not-a-right-says-peak-dev-in-response-to-lazy-dev-cycle-accusations",
+              "source_name": "IGN",
+              "published_at": "2026-04-03T05:25:42+08:00"
+            },
+            {
+              "title": "《浴血黑帮》续集剧集公布卡司：Jamie Bell 出演 Duke Shelby",
+              "brief": "Netflix 和 BBC 联合出品的《浴血黑帮》续集剧集公布首批卡司，Jamie Bell 将出演成年版 Duke Shelby，Charlie Heaton（《怪奇物语》）也加入主演阵容。故事设定在 1950 年代，即二战结束十年后，Duke 成为更老练、更有野心、更危险的角色。其他卡司包括 Jessica Brown Findlay、Lashana Lynch 和 Lucy Karczewski。该剧正在伯明翰拍摄，由创作者 Steven Knight 编剧。",
+              "source_url": "https://www.ign.com/articles/peaky-blinders-sequel-series-casts-jamie-bell-charlie-heaton-and-more-first-photo-of-duke-shelby-revealed",
+              "source_name": "IGN",
+              "published_at": "2026-04-03T05:23:11+08:00"
+            },
+            {
+              "title": "Brian Cox 加入《嗜血法医：复活》第二季",
+              "brief": "《继承之战》主演 Brian Cox 确认加盟 Paramount+ 剧集《嗜血法医：复活》第二季，将饰演 Dom Framt，又名「纽约开膛手」。该角色在第一季中被提及但未露面，被描述为多年前在纽约制造恐慌的连环杀手，虽不再活跃杀人，但找到了新的方式延续自己的恶名。Cox 此前曾在 1986 年电影《孽欲杀人夜》中饰演汉尼拔·莱克特。该剧第二季将由 Michael C. Hall 继续出演 Dexter Morgan。",
+              "source_url": "https://www.ign.com/articles/brian-cox-joins-cast-of-dexter-resurrection-season-2",
+              "source_name": "IGN",
+              "published_at": "2026-04-03T04:37:26+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "Linux 准备移除对 i486 CPU 的支持",
+              "brief": "Linux 内核计划移除对 i486 CPU 的支持，相关补丁「移除 M486/M486SX/ELAN 支持」预计将合并到 Linux 7.1 中。英特尔于 1989 年推出 25MHz i486 CPU，后续型号一直生产到 2007 年。Linux 内核过去几年已多次考虑放弃 i486 支持，作者 Linus Torvalds 近日再次表态不应再浪费精力维护这一古老架构。i486 的继任者是 1993 年推出的奔腾处理器。",
+              "source_url": "https://www.solidot.org/story?sid=83977",
+              "source_name": "Solidot",
+              "published_at": "2026-04-07T17:48:15+08:00"
+            },
+            {
+              "title": "Sam Altman 能被信任吗？",
+              "brief": "《纽约客》发表长文，从 2023 年秋季 OpenAI 董事会未遂政变切入，援引未公开的内部备忘录，详述了 OpenAI 争议性 CEO Sam Altman 过去十几年的经历。文章引用了他在 Y Combinator 首批创业营同学、2013 年自杀的 Aaron Swartz 的评价，称 Altman 永远不可被信任。微软在 2023 年未遂政变中支持了 Altman，但如今双方关系紧张，微软高管认为他可能作为骗子留在人们记忆中。",
+              "source_url": "https://www.solidot.org/story?sid=83976",
+              "source_name": "Solidot",
+              "published_at": "2026-04-07T17:15:34+08:00"
+            },
+            {
+              "title": "日本越来越多的家庭没有电视",
+              "brief": "日本 29 岁以下单身男性拥有电视的比例仅为 58.0%，较 2005 年的 96.8% 和 2015 年的 76.2% 大幅下降。两人以上家庭电视拥有率也从 2000 至 2013 年的 99% 以上降至 94.4%。2025 年日本人每日平均媒体接触时间为 440 分钟，其中电视仅占约四分之一，而 2006 年电视占比超过半数。这一趋势反映了日本家庭媒体消费习惯的根本性转变。",
+              "source_url": "https://www.solidot.org/story?sid=83975",
+              "source_name": "Solidot",
+              "published_at": "2026-04-07T15:45:53+08:00"
+            },
+            {
+              "title": "调查显示俄罗斯 46% 的用户曾用过 VPN",
+              "brief": "俄罗斯被列入黑名单的网站高达 470 万个，包括 Facebook、Instagram、YouTube 和 X 等主要社交平台，VPN 已成为数百万俄罗斯人的日常必需品。据估计俄罗斯 VPN 使用率位居全球第二，约 37.6% 的网民依赖 VPN。Institute of Social Marketing 在 2025 年的调查发现 46% 的受访者至少使用过一次 VPN。由于无法完全禁止 VPN，移动运营商正考虑对跨境流量收取高额费用，使访问国际互联网成为少数人的特权。",
+              "source_url": "https://www.solidot.org/story?sid=83974",
+              "source_name": "Solidot",
+              "published_at": "2026-04-07T15:34:22+08:00"
+            },
+            {
+              "title": "Artemis II 创下了人类太空飞行最遥远纪录",
+              "brief": "NASA Artemis II 于 4 月 6 日创下人类太空飞行最远距离纪录。该任务正在执行载人绕月飞行，Orion 飞船飞行了 248,655 英里，超过 1970 年阿波罗 13 号保持的纪录。飞船最远将达到 252,756 英里，之后返回地球，预计 4 月 10 日溅落在圣地亚哥海岸附近。Artemis II 于 4 月 1 日发射，为期十天，目前任务还剩四天。",
+              "source_url": "https://www.solidot.org/story?sid=83972",
+              "source_name": "Solidot",
+              "published_at": "2026-04-07T14:29:31+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "Desktoptop 3.1多屏版，中文名：这他妈才叫桌面多屏版！",
+              "brief": "Desktoptop 是一款 Windows 桌面增强软件，可一键将所有桌面图标悬浮在屏幕最顶端，解决打开窗口后难以访问桌面的痛点。用户无需最小化窗口即可直接操作桌面文件，支持拖拽和快捷键。3.1 版本采用全新自绘方案，支持多显示器场景，取代了此前无法多屏的桌面劫持方案。开发者以豪放的中文命名著称，此前作品包括「窗口洞洞波」「曹操快切」等。",
+              "source_url": "https://www.appinn.com/desktoptop-3-1/",
+              "source_name": "小众软件",
+              "published_at": "2026-04-07T11:57:49+08:00"
+            },
+            {
+              "title": "高性价比 SSD VPS 提供商 CloudCone 优惠码，最低 83 元人民币/年",
+              "brief": "CloudCone 推出优惠码 EASTERSAVER 可享 8 折优惠，最低配置（2 核 CPU、1GB 内存、20GB SSD、3TB 流量）仅需 11.99 美元/年，约合 83 元人民币。更高配置的 2GB 内存版本 18.8 美元/年。CloudCone 位于美国密苏里州机房，采用 RAID-10 存储，此前曾发生服务器故障导致数据丢失，目前套餐已升级存储方案。支持支付宝充值，但注意套餐无法升级。",
+              "source_url": "https://www.appinn.com/cloudcone-ssd-vps/",
+              "source_name": "小众软件",
+              "published_at": "2026-04-06T14:09:21+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "因未能找到合适的运营方 360doc个人图书馆将在5月1日关停服务器",
+              "brief": "360doc 个人图书馆宣布将于 2026 年 5 月 1 日停止所有服务。该网站年初曾发布无偿转让公告，希望有团队接手运营，但最终未能找到合适接手方。360doc 自 2005 年上线至今已服务二十载，拥有超过八千万用户和 11 亿篇文章。即日起网站暂停新内容发布，但登录、数据备份、VIP 退费和钱包提现功能仍正常开放。用户需在 5 月 1 日前完成数据备份。",
+              "source_url": "https://www.landiannews.com/archives/112535.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-07T18:23:36+08:00"
+            },
+            {
+              "title": "谷歌趋势 Google Trends 页面已更新为现代化风格 更方便比较搜索数据",
+              "brief": "谷歌趋势页面迎来久违的界面升级，采用全新现代化设计风格。新版功能与旧版差异不大，仍最多支持同时对比 8 个关键词的搜索趋势，可查询 2004 年以来的数据。新版本新增 Gemini AI 功能，用户输入关键词后 AI 会推荐相关关键词方便对比。每个关键词配有专属颜色和图标，图表对比更加直观。谷歌表示新趋势页面面向记者、内容创作者和研究人员，方便获取数据洞察。",
+              "source_url": "https://www.landiannews.com/archives/112534.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-07T17:22:40+08:00"
+            },
+            {
+              "title": "提醒：WordPress 去除目录插件 WPML 更新后出现异常 建议立即切换替代插件",
+              "brief": "WordPress 插件 No Category Base WPML 更新后出现严重异常，该插件本用于去除 URL 路径中的 Category 目录，但最新版会在前端源代码中添加多个 OG 属性和 Favicon 属性，导致网站显示异常。该插件已被 WordPress 官方下架。由于禁用该插件会导致已发布内容链接报错，站长需先安装替代插件并启用后再禁用 WPML，实现无缝过渡。蓝点网自身也受到影响，浏览器选项卡无法正常加载网站 LOGO。",
+              "source_url": "https://www.landiannews.com/archives/112533.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-07T16:59:30+08:00"
+            },
+            {
+              "title": "从5月开始 OneDrive 从云端删除文件时将不再出现在本地回收站 只能云端恢复",
+              "brief": "微软宣布从 2026 年 5 月开始，通过云端删除的 OneDrive 文件将不再出现在本地回收站或废纸篓中，用户只能从云端回收站恢复文件。对于已下载到本地的文件，云端删除后文件将直接消失而非移入回收站。此次变更是为了提升大型文件库的同步性能，使删除和恢复操作更加可预测。该变更将逐步向全球 Windows 和 macOS 版 OneDrive 用户推送，企业管理员也无法在管理中心禁用此功能。",
+              "source_url": "https://www.landiannews.com/archives/112532.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-07T15:36:10+08:00"
+            },
+            {
+              "title": "X/Twitter 推出 MCP 服务器 允许 OpenClaw 等通过 API 执行操作",
+              "brief": "X/Twitter 面向开发者公开了 FastMCP Server 仓库，允许 OpenClaw、Claude Code、Cursor 等 AI 智能体通过 MCP 协议调用 X API 执行搜索帖子、创建内容、点赞、转发等操作。该仓库于 2026 年 1 月建立，采用本地 HTTP 服务器形式运行，支持 OAuth 1.0a 认证和白名单调用机制。需要注意的是，使用前必须开通付费 X API 权限，MCP 服务器本身并不能免费操作 X 平台。",
+              "source_url": "https://www.landiannews.com/archives/112531.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-07T14:30:46+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "海信推出 Vidda 小钢炮 S Mini 电视：180Hz Mini LED + AG 抗光层，可选 55-75 英寸，1999 元起",
+              "brief": "海信推出 Vidda 小钢炮 S Mini 系列电视，搭载 180Hz Mini LED 面板，支持 10-Bit 色彩和 96% DCI-P3 色域覆盖，配备 AG 抗光层和 LR 低反射膜，最高亮度 600 尼特，内置传感器可自动调节色温和亮度。该系列提供 55、65、75 英寸三个尺寸，1999 元起。电视内置 3 单元扬声器加 1.2L 独立低音炮，功率达 120W，支持蓝牙 5.4 和 Wi-Fi 6，提供 2 个 HDMI 2.1 接口。",
+              "source_url": "https://www.ithome.com/0/936/703.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-07T19:35:03+08:00"
+            },
+            {
+              "title": "领克 10+ 汽车以 1 分 40 秒 14 成绩超越 Taycan GT，刷新亚洲山脊赛道圈速第一",
+              "brief": "领克 10+ 纯电轿车在亚洲山脊赛道以 1 分 40 秒 14 的圈速成绩超越保时捷 Taycan GT，刷新该赛道纪录。领克 10+ 搭载前后双电机智能四驱系统，综合功率 680kW（925 马力），可选装碳纤维大尾翼、黄色高性能四活塞定钳和 21 英寸锻造轮毂等性能套件。该车型定位中大型纯电运动轿车，预计第二季度上市。",
+              "source_url": "https://www.ithome.com/0/936/702.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-07T19:21:59+08:00"
+            },
+            {
+              "title": "全国多地老牌高速公路收费期限届满，陆续进入免费通行时代",
+              "brief": "全国多地建设于上世纪八九十年代的老牌高速公路因收费期限到期且贷款还清，正陆续进入集中免费期。广州华南快速干线一期被称为「广州最贵上班路」，将于 2026 年 8 月 7 日起永久终止收费。此前广佛高速、广州北环高速、武汉天河机场高速及湖南长永高速等已停止收费。不过此类高速免费属于「贷款修路、收费还贷」模式的契约兑现，并非全面政策调整。",
+              "source_url": "https://www.ithome.com/0/936/701.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-07T19:09:12+08:00"
+            },
+            {
+              "title": "小米胡馨心「内部揭秘」REDMI K90 Max：行业罕有金属轴承、金属散热鳍片，新机本月登场",
+              "brief": "小米产品经理胡馨心透露 REDMI K90 Max 的风冷散热细节，该机采用行业罕有的金属轴承和金属散热鳍片，辅以悬浮密封架构，可从根源防主板进水且不折损电池电量。新机是小米手机首款搭载风冷主动散热方案的产品，支持 165Hz 高刷电竞屏，整机通过 IP66/68/69 防水大满贯认证。开启风扇虽然耗电，但因降低温度和功耗，实际能抵消大部分额外电量消耗。新机本月登场。",
+              "source_url": "https://www.ithome.com/0/936/700.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-07T19:08:59+08:00"
+            },
+            {
+              "title": "2026 年清明节假期国内出游 1.35 亿人次，同比增长 6.8%",
+              "brief": "文化和旅游部数据显示，2026 年清明节假期全国国内出游 1.35 亿人次，同比增长 6.8%。安徽、贵州等多地中小学放春假形成最长 6 天连休，显著带动家庭出游。航空和高铁乘客中未成年人占比提升，800 公里以上出行旅客人数增幅明显。亲子游订单金额占全国旅游总订单的 37%，成为市场核心群体。各地还将赏花踏青与文旅消费深度融合，推动赏花经济创新发展。",
+              "source_url": "https://www.ithome.com/0/936/698.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-07T18:56:50+08:00"
             }
           ]
         }
