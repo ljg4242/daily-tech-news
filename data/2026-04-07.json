@@ -1,287 +1,26 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T07:50:45.934801+08:00",
+  "generated_at": "2026-04-07T09:49:32.750139+08:00",
   "sections": [
     {
       "category": "主要",
       "sources": [
         {
-          "name": "MacRumors",
-          "articles": [
-            {
-              "title": "苹果更新液态玻璃设计展示画廊，继续推广 iOS 26 与 macOS 26 新视觉风格",
-              "brief": "苹果近日更新了液态玻璃设计展示画廊，展示第三方应用如何在 iOS 26、iPadOS 26 和 macOS 26 中采用这一全新视觉风格。画廊包含多款 iPhone 和 iPad 应用的截图，对比了 iOS 18 与 iOS 26 的设计差异。AllTrails、Carrot Weather、Fantastical、Kroger、SketchPro、Trello 和 Le Monde 等应用均已适配液态玻璃元素，包括标签栏、导航按钮和底部工具栏等。苹果还展示了弹出菜单和独立搜索按钮等新设计元素。有传闻称 iOS 27 将继续保留液态玻璃风格，并可能推出系统级透明度调节功能。",
-              "source_url": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-07T07:14:04+08:00"
-            },
-            {
-              "title": "部分 iPhone 应用出现「来自苹果」的神秘更新",
-              "brief": "过去一周，部分 iPhone 应用在 App Store 上出现了标注「来自苹果」的神秘更新说明，内容为「此次来自苹果的更新将改善该应用的功能，不包含新功能」。涉及应用包括 Candy Crush Soda Saga、Mortal Kombat、VLC 等多款知名应用。有开发者表示苹果在版本号和内容与之前相同的更新中插入了这段文字，被更新的应用既有长期未更新的老应用，也有近期刚更新过的新应用。MacRumors 分析了其中一款应用的代码未发现明显变化，苹果尚未对此事作出回应。",
-              "source_url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-07T06:21:34+08:00"
-            },
-            {
-              "title": "iPhone Fold 进入试产阶段，为2026年发布做准备",
-              "brief": "据中国爆料者Instant Digital透露，苹果合作伙伴富士康已启动iPhone Fold的试产工作。试产阶段是量产前的关键环节，苹果计划在7月进入量产，前提是试产期间不出现问题。目前iPhone Fold仍计划在2026年发布，但最新传闻显示不会在9月随iPhone 18 Pro同步上市，可能推迟至12月。该设备采用折叠设计，闭合时约5.5英寸，展开后约7.8英寸，采用4:3宽高比，展开厚度仅4.5毫米，因超薄设计取消了长焦镜头和Face ID，改用类似iPad的Touch ID侧边按钮，并致力于将折叠痕迹最小化。",
-              "source_url": "https://www.macrumors.com/2026/04/06/iphone-fold-trial-production/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-07T05:28:05+08:00"
-            },
-            {
-              "title": "苹果请求法院暂停App Store费用争议，同时准备向最高法院上诉Epic案",
-              "brief": "苹果计划就与Epic Games之间持续的法律纠纷向美国最高法院提起上诉。在4月3日的法庭文件中，苹果请求第九巡回上诉法院暂缓由北加州地方法院决定App Store佣金费率的计划，担心地方法院确定费率后最高法院可能全面推翻原裁定。苹果希望维持当前不收取佣金的安排，即开发者可在应用中添加非App Store购买链接且苹果不收取费用。2024年双方曾要求最高法院介入但被拒绝。2025年4月苹果因违反2021年禁令被认定藐视法庭，该禁令要求允许开发者引导用户通过应用内链接进行第三方购买。",
-              "source_url": "https://www.macrumors.com/2026/04/06/apple-epic-games-supreme-court-petition/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-07T04:32:29+08:00"
-            },
-            {
-              "title": "Netflix 推出免费儿童游戏应用，与 Apple Arcade 展开竞争",
-              "brief": "Netflix 面向八岁及以下儿童推出全新 Netflix Playground 应用，提供芝麻街、小猪佩奇等热门动画角色的游戏，无广告无内购，所有 Netflix 会员均可使用。该应用支持 iPhone 和 iPad，是 Netflix 自 2021 年涉足游戏领域后首次为儿童打造专属游戏空间。Apple Arcade 采用类似模式但需单独订阅，而 Netflix 将游戏纳入现有会员体系，含广告的基础方案仅 8.99 美元。该应用已在美、加、英、澳等六国上线，4 月 28 日全球推出。",
-              "source_url": "https://www.macrumors.com/2026/04/06/netflix-playground-kids-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-07T02:32:20+08:00"
-            }
-          ]
-        },
-        {
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "集体诉讼指控苹果抓取数百万 YouTube 视频用于 AI 训练",
-              "brief": "一项拟议的集体诉讼指控苹果在训练人工智能模型时抓取了数百万个 YouTube 视频。该诉讼认为苹果未经授权使用了大量受版权保护的视频内容，违反了创作者的知识产权。这起案件是科技公司因 AI 训练数据来源问题面临的最新法律挑战之一。随着人工智能技术的快速发展，训练数据的合法性和版权问题已成为业界和法律界关注的焦点。目前苹果尚未对此诉讼作出公开回应。",
-              "source_url": "https://9to5mac.com/2026/04/06/proposed-class-action-accuses-apple-of-scraping-millions-of-youtube-videos-for-ai-training/",
+              "title": "9to5Rewards 抽奖：免费赢取 MacBook Pro 和 BenQ 4K Nano Gloss 显示器",
+              "brief": "9to5Mac 启动新一轮抽奖活动，用户有机会赢取一台 MacBook Pro 和 BenQ 4K Nano Gloss 显示器。该活动面向所有读者开放，参与者只需按照页面指引完成简单步骤即可获得抽奖资格。BenQ 这款 4K 显示器采用 Nano Gloss 涂层技术，可有效减少屏幕反射，适合专业创意工作者使用。活动详情和参与方式已在 9to5Mac 官网公布。",
+              "source_url": "https://9to5mac.com/2026/04/06/9to5rewards-giveaway-macbook-pro-and-benq-4k-nano-gloss-monitor/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-07T06:57:38+08:00"
+              "published_at": "2026-04-07T08:32:58+08:00"
             },
             {
-              "title": "苹果从中国区App Store下架Jack Dorsey的加密通讯应用Bitchat",
-              "brief": "苹果已从中国区App Store下架了Jack Dorsey旗下Block公司开发的去中心化通讯应用Bitchat。该应用通过蓝牙低功耗网状网络实现点对点加密通信，无需互联网或中央服务器，使政府难以通过传统网络审查手段进行管控。Bitchat在马达加斯加、乌干达、尼泊尔等多国抗议活动中曾发挥重要作用。Dorsey在X平台分享了苹果应用审核团队的下架通知，确认该应用及其TestFlight测试版在中国已不可用，但在其他地区仍可下载。",
-              "source_url": "https://9to5mac.com/2026/04/06/apple-pulls-jack-dorseys-messaging-app-from-the-chinese-app-store/",
+              "title": "9to5Mac 播客日报：Mac Studio 延期发货，iPhone 随宇航员上太空",
+              "brief": "9to5Mac 每日播客更新，本期涵盖两大热点话题。其一，苹果 Mac Studio 出现延期发货情况，引发用户对产能和供应链的猜测。其二，NASA 阿耳忒弥斯 2 号任务宇航员携带 iPhone 17 Pro Max 前往月球途中，用其拍摄了地球照片，展示了 iPhone 在极端环境下的成像能力。播客还对近期苹果生态的其他动态进行了讨论和解读。",
+              "source_url": "https://9to5mac.com/2026/04/06/daily-april-6-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-07T05:15:15+08:00"
-            },
-            {
-              "title": "苹果准备在Epic Games案中再次向最高法院发起挑战",
-              "brief": "苹果计划就Epic Games案向美国最高法院提起上诉，请求第九巡回上诉法院暂缓由北加州地方法院决定App Store合理佣金费率的计划。苹果担忧地方法院确定费率后，最高法院可能推翻原裁定，导致需多次调整费用结构。目前开发者可在应用中添加外部购买链接且无需向苹果支付佣金，苹果希望维持这一现状直到最高法院做出裁决。此前2024年双方的最高法院上诉请求均被驳回。",
-              "source_url": "https://9to5mac.com/2026/04/06/apple-gears-up-for-another-supreme-court-round-in-epic-games-saga/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-07T04:49:56+08:00"
-            },
-            {
-              "title": "iOS 26.4带来四项实用新功能备受好评",
-              "brief": "苹果于3月底发布的iOS 26.4更新带来了多项新功能。其中Apple Music新增AI驱动的Playlist Playground功能，用户可通过文字描述生成播放列表，还新增演唱会发现和全屏专辑背景。新增8个表情符号包括芭蕾舞者、扭曲面孔和虎鲸等。CarPlay现支持语音AI聊天机器人集成，可接入Google Gemini和ChatGPT语音模式。此外还新增了减少视觉刺激的无障碍设置、快捷指令自动化充电限制以及提醒事项紧急标记功能。",
-              "source_url": "https://9to5mac.com/2026/04/06/ios-26-4-is-coming-here-are-my-four-favorite-new-features/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-07T04:04:04+08:00"
-            },
-            {
-              "title": "AI编程工具推动App Store新应用数量激增84%",
-              "brief": "2026年第一季度App Store新增应用达23.58万款，同比增长84%，扭转了近十年来新应用上线量持续下滑的趋势。这一激增主要归功于Anthropic的Claude Code和OpenAI的Codex等AI编程工具的普及，这些工具使非程序员也能通过自然语言创建应用，同时让专业开发者更高效地生成代码。然而应用激增也给苹果的审核基础设施带来压力，部分开发者反馈审批时间延长，苹果已开始对违反审核指南的AI生成应用采取限制措施。",
-              "source_url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-07T03:59:23+08:00"
-            }
-          ]
-        },
-        {
-          "name": "9to5Google",
-          "articles": [
-            {
-              "title": "Android 2026 年 4 月 Google 系统更新内容一览",
-              "brief": "谷歌发布了 2026 年 4 月 Android Google 系统更新。Google Play services v26.13 带来多项改进：账号管理方面，用户通过二维码在 Android Automotive 设备登录 Google 账号时将显示请求设备名称；位置与上下文功能得到优化，位置共享 API 经过改进并引入新的位置请求；系统管理服务在安全性和稳定性方面均有提升。Google Play Store v50.9 也同步更新。用户可在设置中检查更新，但新功能并非立即全面推送，部分功能可能需要数月才能完全上线。",
-              "source_url": "https://9to5google.com/2026/04/06/april-2026-google-system-updates/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-07T06:58:21+08:00"
-            },
-            {
-              "title": "Google Photos新增AI增强按钮和视频倍速播放功能",
-              "brief": "Google Photos正在向全球Android用户推出AI Enhance按钮，用户只需轻点即可一键优化照片的光线和对比度。与此同时，Google Photos的视频播放器新增倍速控制功能，用户可在0.25倍到2倍速之间自由调整。该功能通过视频的三点菜单访问，Google表示这是用户长期期待的功能。AI Enhance按钮已在全球范围推出，视频倍速播放功能正在逐步推送中。",
-              "source_url": "https://9to5google.com/2026/04/06/google-photos-adding-ai-enhance-video-playback-speed-control/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-07T04:10:46+08:00"
-            },
-            {
-              "title": "周一 Android 应用特惠：Lumino City、Greak 等多款应用限免",
-              "brief": "9to5Google 汇总了周一 Android 平台的应用优惠信息，包括 Lumino City、Greak、Conquistadorio 等多款游戏和工具类应用降价或免费。同时报道了苹果周末促销活动，M5 MacBook Air 创下历史最低价，Apple Watch Ultra 3 等产品也有大幅折扣。",
-              "source_url": "https://9to5toys.com/2026/04/06/monday-android-app-deals-free-lumino-city-greak/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-07T03:19:06+08:00"
-            },
-            {
-              "title": "Google Play 商店新增应用评论搜索功能，同时移除设备型号筛选",
-              "brief": "Google Play 商店正在推出评论关键词搜索功能，用户现在可以快速搜索其他用户的评论内容，方便查找特定问题的反馈。不过与此同时，Google 移除了「此设备型号」筛选选项，该功能原本可帮助用户查看与自己设备相关的评论。「最新版本」筛选已移至页面顶部标签栏。Google 未正式宣布这些变更，但已在最新版 Play Store 更新中广泛推送。",
-              "source_url": "https://9to5google.com/2026/04/06/android-play-store-search-app-reviews/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-07T02:15:00+08:00"
-            },
-            {
-              "title": "Google AI Edge Eloquent：无需订阅的离线语音听写应用",
-              "brief": "谷歌推出AI Edge Eloquent语音听写应用，支持将口语实时转写为文字并自动整理为通顺文本。用户可开启完全离线模式保护隐私，也可接入Gemini增强文本润色效果。应用提供要点提取、正式化、缩短等文本处理工具，支持从Gmail导入常用词汇以提升识别准确率，还提供历史记录和自定义词典功能。谷歌强调该应用无订阅费用且不设使用上限。",
-              "source_url": "https://9to5google.com/2026/04/06/google-ai-edge-eloquent-app/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-07T01:00:34+08:00"
-            }
-          ]
-        },
-        {
-          "name": "Ars Technica",
-          "articles": [
-            {
-              "title": "败诉后，小肯尼迪修改章程扩大对 CDC 疫苗顾问委员会的控制权",
-              "brief": "美国卫生部长小罗伯特·肯尼迪修改了联邦疫苗顾问委员会的章程，赋予自己更大的成员任命权并放宽成员资质要求。此前联邦法官裁定肯尼迪亲自挑选的顾问缺乏相关领域专业知识，暂停了其所有活动，并暂时撤回了该委员会此前对联邦疫苗政策的修改。法官明确指出非专家组成的委员会无法体现相关科学领域的公平均衡观点。肯尼迪此前解雇了疾控中心免疫实践咨询委员会全部17名专家，新章程的修改实质上绕开了法院的限制。",
-              "source_url": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-07T06:34:11+08:00"
-            },
-            {
-              "title": "机器人 AI 模型 GEN-1 达到 99% 可靠率，从折纸箱到修吸尘器样样行",
-              "brief": "机器人学习公司 Generalist 发布了 GEN-1 物理 AI 系统，号称在广泛的物理技能上达到生产级成功率，能够处理过去需要人类灵巧双手才能完成的任务。该模型能应对突发干扰并自主创新操作方式。GEN-1 基于此前的 GEN-0 概念验证模型构建，公司通过数据手穿戴设备收集了超过50万小时的物理交互数据用于训练。这一突破展示了机器人 AI 在实际生产环境中替代人工操作的可能性，标志着物理 AI 迈向规模化应用的重要一步。",
-              "source_url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-07T06:18:33+08:00"
-            },
-            {
-              "title": "预测市场体育投注被判为「互换交易」，豁免于各州法律监管",
-              "brief": "美国联邦上诉法院裁定，新泽西州无权监管预测平台 Kalshi 上的体育投注，因为美国商品期货交易委员会对该类平台拥有排他性管辖权。法院以2:1的多数意见认为，联邦法律优先于州赌博法，Kalshi 的体育投注合约属于互换交易范畴。Kalshi 作为 CFTC 注册的指定合约市场，去年已获得初步禁令阻止新泽西州执法。这一裁决是联邦层面关于预测市场监管权的首个重要判决，可能对各州试图监管 Polymarket 等类似平台的努力产生深远影响。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-07T05:56:36+08:00"
-            },
-            {
-              "title": "特朗普新预算案再度大幅削减科研经费",
-              "brief": "特朗普政府发布了2027财年预算提案，延续去年被国会大幅否决的削减路线。国家科学基金会和环保署的预算将被腰斩，国家卫生研究院将被削减50亿美元。NASA也将面临大幅经费削减。文件充斥着政治色彩浓厚的语言，重提了右翼多年来关注的多项议题。去年国会几乎无视了类似提案，维持了相对稳定的科研预算。分析人士认为，即使国会不愿配合，行政机构仍可通过其他方式对科研体系造成实质性损害。",
-              "source_url": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-07T05:40:40+08:00"
-            },
-            {
-              "title": "OpenAI 内部人士不信任 CEO：问题就是萨姆·奥特曼",
-              "brief": "《纽约客》发布长篇调查，采访了超过100名与奥特曼有过工作接触的人士，并12次采访奥特曼本人。受访者普遍将奥特曼描绘为一个讨好型人物，会在追求权力的同时告诉别人他们想听的话。该报道与 OpenAI 同日发布的超级智能安全政策建议形成鲜明对比——OpenAI 承诺将保持透明、监控AI脱离人类控制等极端风险，但内部人士对其能否真正践行承诺表示严重怀疑。一位董事会成员认为奥特曼的核心问题是始终把自己放在第一位。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-07T05:23:36+08:00"
-            }
-          ]
-        },
-        {
-          "name": "Android Authority",
-          "articles": [
-            {
-              "title": "UGREEN Uno USB-C 100W编织数据线降至10美元以下",
-              "brief": "UGREEN Uno USB-C 100W数据线（6.6英尺版）现以9.35美元在亚马逊促销，比原价优惠6.64美元。该数据线采用编织设计和铝合金接口，一端配有可显示充电状态的小屏幕，支持最高100W充电功率和480Mbps数据传输速率。6.6英尺长度满足日常使用需求，其他长度版本也同步促销但折扣幅度较小。限时特价中，恢复原价时间未定。",
-              "source_url": "https://www.androidauthority.com/ugreen-uno-usb-c-cable-100w-deal-3655135/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T05:05:36+08:00"
-            },
-            {
-              "title": "苹果MacBook Air M5上市不到一个月即创历史新低价",
-              "brief": "苹果MacBook Air M5发布不到一个月，13英寸型号已在亚马逊降至949.99美元，优惠149.01美元，创历史新低。该优惠适用于银色、天蓝色和星光色版本，午夜色版本仅优惠50美元。MacBook Air M5搭载M5芯片和16GB内存，配备13.6英寸Retina显示屏，支持DCI-P3色域，电池续航最长18小时视频播放或15小时网页浏览，机身仅0.44英寸厚、重2.7磅。",
-              "source_url": "https://www.androidauthority.com/apple-macbook-air-m5-deal-3655136/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T04:31:57+08:00"
-            },
-            {
-              "title": "苹果折叠屏iPhone据报已投入生产，Android厂商压力骤增",
-              "brief": "据爆料者Majin Bu在X平台透露，苹果首款折叠屏iPhone已在富士康进入生产阶段，称其不再只是传闻而是真实产品。如果属实，苹果的折叠屏计划可能比预期进展更快。该设备预计采用更宽的设计方案，类似初代Pixel Fold和OPPO Find N的形态，而非三星多年来偏好的窄长比例，并可能带来iPad式的分屏多任务界面。这一消息对即将发布的Galaxy Z Fold 8等Android折叠屏机型构成竞争压力。",
-              "source_url": "https://www.androidauthority.com/apple-iphone-fold-in-production-rumor-3655190/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T04:31:48+08:00"
-            },
-            {
-              "title": "今日限时特惠：Amazon eero 6 Mesh 路由系统降至历史最低价",
-              "brief": "Amazon eero 6 Mesh 路由器三件套目前降至 139.99 美元的历史最低价，比原价便宜 60 美元，但优惠仅限今天。这款 2021 年发布的路由器覆盖面积约 420 平方米，支持最高 500Mbps 网速，可同时连接超过 75 台设备，兼容 Alexa 并内置 Zigbee 智能家居中枢功能。对于大多数家庭而言，这套系统性能绰绰有余。",
-              "source_url": "https://www.androidauthority.com/amazon-eero-6-mesh-wifi-system-deal-3655137/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T03:40:24+08:00"
-            },
-            {
-              "title": "三星 Galaxy Z Fold 8 宽屏版动画曝光，新屏幕比例令人期待",
-              "brief": "Android Authority 在 One UI 9 早期固件中发现了 Galaxy Z Fold 8 宽屏版的新动画和界面素材。三星预计今年夏天推出这款采用更宽屏幕比例的新折叠手机。此前已有 CAD 渲染图和 One UI 9 截图流出，新发现的封面屏幕镜像功能动画进一步确认了这款设备的屏幕形态，显示出三星正为折叠屏产品线引入更多尺寸选择。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-wide-animation-3655143/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-07T03:26:39+08:00"
-            }
-          ]
-        },
-        {
-          "name": "Engadget",
-          "articles": [
-            {
-              "title": "英雄联盟 KeSPA 杯全球转播权花落 Disney+",
-              "brief": "迪士尼与韩国电子竞技协会达成合作，Disney+ 将成为 2026 年亚洲电子竞技锦标赛、英雄联盟 KeSPA 杯及 2026 年亚运会部分预选赛事的全球独家直播平台。这是双方合作的升级版——去年 Disney+ 仅在亚洲地区直播相关赛事。首批赛事为 4 月 24 至 26 日的亚洲电子竞技锦标赛，涵盖《街头霸王6》《拳皇 XV》《铁拳 8》和 eFootball 系列等项目。然而，许多赛事此前在 Twitch 或 YouTube 上免费观看，订阅付费门槛可能影响观众规模，电竞转播权的碎片化趋势也引发担忧。",
-              "source_url": "https://www.engadget.com/gaming/the-league-of-legends-kespa-cup-will-air-globally-on-disney-224455083.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-07T06:44:55+08:00"
-            },
-            {
-              "title": "联邦上诉法院裁定新泽西州无权禁止 Kalshi 预测市场",
-              "brief": "美国第三巡回上诉法院以 2:1 裁定，新泽西州无权监管预测市场 Kalshi 的体育投注业务，该监管权属于美国商品期货交易委员会。该判决是联邦层面关于在线预测市场监管权的首个重要裁定。预测市场允许用户对各类事件结果下注，从体育赛事到军事行动均可投注。该领域已出现大规模内幕交易迹象，据分析不到 0.04% 的 Polymarket 账户获取了超过 70% 的利润，总额达 37 亿美元。目前多州对 Kalshi 和 Polymarket 提起法律诉讼，CFTC 也反诉亚利桑那、康涅狄格和伊利诺伊三州试图自行监管预测市场。",
-              "source_url": "https://www.engadget.com/big-tech/new-jersey-has-no-right-to-ban-kalshis-prediction-market-us-appeals-court-rules-214448284.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-07T05:44:48+08:00"
-            },
-            {
-              "title": "苹果将再次向最高法院上诉，与 Epic Games 的法律战升级",
-              "brief": "苹果与 Epic Games 的法律纠纷再次升温，苹果第二次向美国最高法院提出上诉申请，要求审查其通过第三方支付系统收取佣金的权限。此前最高法院曾拒绝审理苹果关于允许开发者使用第三方支付的案件，此次聚焦的是佣金比例限制问题。Epic Games 近期刚与 Google 达成和解，Fortnite 于三月重返 Google Play 商店，但 Epic 去年已裁员逾千人。",
-              "source_url": "https://www.engadget.com/big-tech/apple-will-again-appeal-to-the-supreme-court-in-battle-with-epic-games-193551758.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-07T03:35:51+08:00"
-            },
-            {
-              "title": "三位 YouTuber 起诉苹果非法抓取视频训练 AI 模型",
-              "brief": "h3h3 Productions、MrShortGameGolf 和 Golfholics 三个 YouTube 频道在加州联邦法院对苹果提起集体诉讼，指控苹果违反《数字千年版权法》，通过绕过 YouTube 受控流媒体架构抓取受版权保护的视频用于训练 AI 模型。这些创作者此前已对 Meta、Nvidia、ByteDance 和 Snap 提起类似诉讼。此前 OpenAI、微软和 Perplexity 也因类似版权问题遭到起诉。",
-              "source_url": "https://www.engadget.com/ai/three-youtubers-accuse-apple-of-illegal-scraping-to-train-its-ai-models-181028745.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-07T02:10:28+08:00"
-            },
-            {
-              "title": "NASA 阿尔忒弥斯二号机组飞出地球最远距离，刷新 54 年纪录",
-              "brief": "NASA 阿尔忒弥斯二号任务四名宇航员飞至月球以外约 5000 英里处，距地球超过 25 万英里，打破了 1970 年阿波罗 13 号保持的人类最远飞行纪录。机组成员包括 NASA 的里德·怀斯曼、维克多·格洛弗、克里斯蒂娜·科赫和加拿大航天局的杰里米·汉森，他们成为自 1972 年阿波罗 17 号以来首批穿越月球的人类。宇航员将拍摄月球远侧高清图像，并短暂观测日食。",
-              "source_url": "https://www.engadget.com/science/space/nasas-artemis-ii-crew-just-flew-farther-away-from-earth-than-anyone-ever-has-before-180259867.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-07T02:03:00+08:00"
-            }
-          ]
-        },
-        {
-          "name": "The Verge",
-          "articles": [
-            {
-              "title": "威斯康星州长否决色情网站年龄验证法案",
-              "brief": "威斯康星州州长Tony Evers否决了一项要求居民在访问色情网站前进行年龄验证的法案。Evers在致议会的信中表示，该法案对试图访问受宪法保护内容的成年人施加了侵入性负担。该法案要求超过三分之一内容被认为对未成年人有害的网站实施合理年龄验证措施，如要求用户出示政府签发的身份证件。目前美国已有超过二十个州通过了类似的年龄验证法规，包括亚利桑那、佛罗里达、乔治亚、密苏里、德克萨斯和弗吉尼亚等州。",
-              "source_url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
-              "source_name": "The Verge",
-              "published_at": "2026-04-06T17:47:15-04:00"
-            },
-            {
-              "title": "Artemis II宇航员打破56年前纪录，为月球环形山命名",
-              "brief": "NASA Artemis II任务的四名宇航员在周一打破了1970年Apollo 13任务保持56年的纪录，飞行距离超过248655英里，成为有史以来离地球最远的人类。宇航员们在月球轨道中以环形山命名仪式纪念这一时刻，他们为两座月球环形山提议了名字，第一座以飞船名称Integrity命名，第二座以指挥官Reid Wiseman已故妻子Carroll的名字命名，描述为月球上的一个亮点。宇航员们在命名仪式中互相拥抱，场面感人。",
-              "source_url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
-              "source_name": "The Verge",
-              "published_at": "2026-04-06T16:40:11-04:00"
-            },
-            {
-              "title": "2026 年 MacBook 全系优惠汇总",
-              "brief": "The Verge 汇总了当前 MacBook 全系列的最佳优惠。2026 年苹果笔记本产品线更加丰富，搭载 A 系列芯片的 MacBook Neo 起售价仅 599 美元，同时 M 系列芯片机型覆盖中高端市场，均运行最新 macOS 26 系统。文章按机型分类整理了 MacBook Neo、MacBook Air 和 MacBook Pro 的折扣信息，帮助消费者根据预算和需求选择合适的型号。",
-              "source_url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-              "source_name": "The Verge",
-              "published_at": "2026-04-06T14:50:06-04:00"
-            },
-            {
-              "title": "DJI Mic Mini 便携麦克风降至历史最低价 60 美元",
-              "brief": "DJI Mic Mini 无线麦克风目前在 Amazon 降至 59.99 美元的历史最低价，含两个发射器，比原价便宜 20 美元。这款麦克风仅重 10 克，适合在 TikTok、Instagram 和 YouTube 上创作内容的用户。相比手机或相机自带麦克风，DJI Mic Mini 能录制更清晰的音频，体积小巧便于随身携带，是移动端内容创作者的理想选择。",
-              "source_url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-04-06T14:22:01-04:00"
-            },
-            {
-              "title": "无人驾驶出租车公司拒绝披露远程操控员介入频率",
-              "brief": "美国参议员埃德·马基对七家无人驾驶出租车公司展开调查，要求披露远程辅助操作员的使用情况和介入频率，但多家公司拒绝提供关键信息。调查涉及 Aurora、May Mobility、Motional、Nuro、Tesla、Waymo 和 Amazon 旗下 Zoox。Tesla 是唯一承认允许远程操作员控制车辆的公司，Waymo 则是唯一使用海外远程代理的企业。这一调查引发了公众对自动驾驶安全透明度的关注。",
-              "source_url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
-              "source_name": "The Verge",
-              "published_at": "2026-04-06T14:15:51-04:00"
+              "published_at": "2026-04-07T07:53:39+08:00"
             }
           ]
         }
@@ -291,179 +30,28 @@
       "category": "更多",
       "sources": [
         {
-          "name": "IGN",
-          "articles": [
-            {
-              "title": "黎明杀机开发商明确表态不会开发续作",
-              "brief": "Behaviour Interactive在GDC上明确表示不会推出黎明杀机2。创意总监Dave Richard表示，尽管团队曾考虑过做续作或重制版，但对玩家而言从未有意义。玩家在游戏中投入了大量时间和金钱，不应被迫从头开始。合作伙伴负责人Mathieu Cote以收获日2和守望先锋的续作困境为例，表示更愿意将现有游戏拖入下一个时代，让新玩家感觉这是一款当前的活跃的游戏，而非怀旧产品。",
-              "source_url": "https://www.ign.com/articles/were-not-going-to-do-a-dead-by-daylight-2-developer-kills-possibility-of-a-sequel",
-              "source_name": "IGN",
-              "published_at": "2026-04-03T06:31:22+08:00"
-            },
-            {
-              "title": "宝可梦Pokopia疯狂玩家用百变怪吸干了整个海洋",
-              "brief": "一位宝可梦Pokopia玩家利用百变怪的吸水能力，花费约6小时将Bleak Beach区域的整个海洋吸干。该玩家此前已在Withering Wasteland建造了一座巨型城堡，吸海是为了在海底建造水下城堡。更令人震惊的是，该玩家不仅吸干了海水，还移除了几乎所有的陆地层，只保留了支撑剧情相关结构的平台。该玩家还暗示计划对Rocky Ridge区域的岩浆海洋动手。",
-              "source_url": "https://www.ign.com/articles/one-deranged-pokmon-pokopia-player-has-slurped-up-the-entire-ocean",
-              "source_name": "IGN",
-              "published_at": "2026-04-03T06:19:12+08:00"
-            },
-            {
-              "title": "PEAK开发商回应懒惰开发指责：更新是额外福利而非权利",
-              "brief": "游戏开发商Landfall在社交媒体上回应网友对其开发节奏的批评，表示我们不是服务型游戏工作室，任何更新都是额外福利而非玩家的权利。该游戏自发布不到一年以来已获得三次重大更新，新增了两个生物群落，第三个也在计划中。开发商指出，过去游戏发布后根本没有更新，Landfall已经做得远超行业惯例。这番回应引发了关于独立游戏开发商义务边界的讨论。",
-              "source_url": "https://www.ign.com/articles/any-update-is-a-bonus-not-a-right-says-peak-dev-in-response-to-lazy-dev-cycle-accusations",
-              "source_name": "IGN",
-              "published_at": "2026-04-03T05:25:42+08:00"
-            },
-            {
-              "title": "浴血黑帮续集剧集公布演员阵容，杰米·贝尔出演杜克·谢尔比",
-              "brief": "Netflix和BBC联合制作的浴血黑帮续集剧集公布主要演员阵容，杰米·贝尔将出演成年版杜克·谢尔比，查理·希顿、杰西卡·布朗·芬德利、拉什纳·林奇等也将出演。故事设定在二战后1950年代的伯明翰，距前作电影浴血黑帮：不朽之人事件十年之后。创作者史蒂文·奈特表示对新阵容感到振奋，剧集目前正在伯明翰的Digbeth Loc. Studios拍摄中。",
-              "source_url": "https://www.ign.com/articles/peaky-blinders-sequel-series-casts-jamie-bell-charlie-heaton-and-more-first-photo-of-duke-shelby-revealed",
-              "source_name": "IGN",
-              "published_at": "2026-04-03T05:23:11+08:00"
-            },
-            {
-              "title": "布莱恩·考克斯加盟嗜血法医：复活第二季",
-              "brief": "凭借继承之战闻名的演员布莱恩·考克斯将加盟嗜血法医：复活第二季，饰演纽约开膛手Dom Framt一角。该角色在第一季中被提及但未出镜，被描述为一名多年前在纽约制造恐怖的连环杀手，虽已不再活跃作案，但找到了新的方式延续其恶名，继续骚扰当年谋杀案的幸存者。考克斯曾在1986年电影孽欲杀人夜中饰演汉尼拔·莱克特，其他代表作包括X战警2、特洛伊、谍影重重系列等。",
-              "source_url": "https://www.ign.com/articles/brian-cox-joins-cast-of-dexter-resurrection-season-2",
-              "source_name": "IGN",
-              "published_at": "2026-04-03T04:37:26+08:00"
-            }
-          ]
-        },
-        {
-          "name": "Solidot",
-          "articles": [
-            {
-              "title": "德国公开俄罗斯勒索软件组织REvil头目的身份",
-              "brief": "德国联邦刑事警察局公开了俄罗斯勒索软件组织GandCrab和REvil头目UNKN的真实身份。31岁的Daniil Maksimovich Shchukin于2019至2021年间在德国实施了至少130起计算机破坏和勒索行动。他与另一名俄罗斯人Anatoly Sergeevitsch Kravchuk共同勒索了近200万欧元，造成经济损失逾3500万欧元。GandCrab和REvil首创了双重勒索模式——先收取赎金提供解密密钥，再收取费用换取不公开被盗数据的承诺。GandCrab在2019年成功勒索超20亿美元后宣布解散，随后以REvil的名义重新亮相。",
-              "source_url": "https://www.solidot.org/story?sid=83970",
-              "source_name": "Solidot",
-              "published_at": "2026-04-06T23:30:33+08:00"
-            }
-          ]
-        },
-        {
-          "name": "小众软件",
-          "articles": [
-            {
-              "title": "高性价比SSD VPS提供商CloudCone优惠码，最低83元人民币/年",
-              "brief": "CloudCone推出最新优惠码EASTERSAVER，可享8折优惠，最低仅需11.99美元/年（约83元人民币/年）。推荐套餐包括2核CPU/1GB内存/20GB SSD/3TB流量的入门款，以及3核CPU/2GB内存/30GB SSD/4TB流量的进阶款。CloudCone采用RAID-10存储，提供1个IPv4和3个IPv6地址，机房位于美国密苏里州。此前CloudCone曾因服务器故障导致用户数据丢失，现已升级存储方案。",
-              "source_url": "https://www.appinn.com/cloudcone-ssd-vps/",
-              "source_name": "小众软件",
-              "published_at": "2026-04-06T14:09:21+08:00"
-            },
-            {
-              "title": "Flare：一个应用聚合RSS、X、微博、Mastodon等所有社交平台",
-              "brief": "开源跨平台应用Flare支持在一个应用中聚合浏览RSS、X、微博、Mastodon、Bluesky、Misskey和Nostr等多个社交平台的内容，所有账户汇聚为一条混合时间线。支持跨平台发布内容、AI翻译（提供预翻译功能）、本地关键词过滤和离线历史记录。该应用覆盖Android、iOS、macOS、Windows和Linux平台，开源无广告。未来计划添加Meta Threads和Discourse论坛支持，以及网页客户端和AI个人趋势功能。",
-              "source_url": "https://www.appinn.com/flareapp-moe/",
-              "source_name": "小众软件",
-              "published_at": "2026-04-05T16:07:07+08:00"
-            }
-          ]
-        },
-        {
           "name": "蓝点网",
           "articles": [
             {
-              "title": "俄罗斯打击VPN行为导致银行系统大范围瘫痪",
-              "brief": "俄罗斯监管机构调整防火墙拦截策略出现失误，导致过滤系统过载无法处理正常流量，造成全国银行系统大面积瘫痪。银行系统通常依赖VPN进行加密跨网连接，被拦截后ATM机无法取款、刷卡交易中断、银行应用无法登录。当日俄罗斯主要支付方式仅有现金。此外，俄罗斯监管机构还在敦促IT公司和电商平台屏蔽VPN连接并上报异常行为，苹果已按要求停止在俄提供支付服务以阻止用户订阅VPN应用。",
-              "source_url": "https://www.landiannews.com/archives/112503.html",
+              "title": "微软开始提醒用户：Microsoft Publisher 将于今年 10 月正式关闭",
+              "brief": "微软已开始在 Microsoft 365 账户中弹出警告，提醒用户 Microsoft Publisher 将于 2026 年 10 月关闭，届时用户将无法继续使用该软件或打开相关文件。Publisher 是一款主要用于排版和印刷的办公软件，通常随 Office 自动安装，但大多数用户很少使用。微软建议用户转向 Word、PowerPoint 和 Designer 等替代方案。部分长期依赖 Publisher 布局控制和对齐工具的老用户对此表示不满，特别是在学校、图书馆和小型办公室中，迁移将带来额外的时间和成本。",
+              "source_url": "https://www.landiannews.com/archives/112523.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-05T13:08:13+08:00"
+              "published_at": "2026-04-07T09:30:20+08:00"
             },
             {
-              "title": "Windows 11 24H2即将结束支持，微软将强制升级至25H2",
-              "brief": "Windows 11 24H2消费者版（家庭版和专业版）将于2026年10月结束支持，届时将无法获得安全更新和技术支持。微软正在采取措施自动将非托管设备升级至25H2版本，支持文档中明确表示这是继续获得更新的唯一方式。对于企业环境中的托管设备，升级由IT管理员决定。微软强调25H2只是小幅更新，与24H2相比没有重大改动，升级后不太会产生兼容性问题。Windows 10用户仍可选择是否升级到Windows 11。",
-              "source_url": "https://www.landiannews.com/archives/112502.html",
+              "title": "亚马逊计划以 90 亿美元收购苹果卫星服务商 Globalstar，壮大卫星网络",
+              "brief": "亚马逊正计划以约 90 亿美元收购 Globalstar，以加速建设其 Amazon Leo 卫星网络，与 SpaceX 星链展开竞争。Globalstar 目前为 iPhone 17 等机型提供卫星紧急通信服务，苹果持有该公司 20% 股份并包揽了约 85% 的卫星容量。亚马逊看中的不仅是已发射的卫星，还有 Globalstar 拥有的 L 波段和 S 波段频谱许可证。不过这笔交易的最大变数在于苹果，一旦 Globalstar 被收购，苹果的卫星服务可能受制于竞争对手，因此苹果可能不会同意这项收购。",
+              "source_url": "https://www.landiannews.com/archives/112522.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-05T10:43:26+08:00"
+              "published_at": "2026-04-07T09:00:20+08:00"
             },
             {
-              "title": "NASA批准宇航员携带iPhone 17 Pro Max进入太空，但禁用联网和蓝牙",
-              "brief": "NASA经严格审查后允许阿尔忒弥斯2号宇航员携带iPhone 17 Pro Max进入太空，但禁用网络连接和蓝牙功能，主要用于拍照和录像。审查重点关注智能手机的易碎性问题，工程团队制定了玻璃破碎后在失重环境中收集清理碎片的详细方案才获批准。NASA还测试了如何固定手机防止在微重力环境下漂浮，最终部分手机被塞入宇航服口袋并通过拉链固定。苹果强调这说明iPhone符合太空长期使用的严苛要求，但并未参与审查流程。",
-              "source_url": "https://www.landiannews.com/archives/112501.html",
+              "title": "苹果或为 RCS 消息添加加密提示条，提醒用户消息是否受到保护",
+              "brief": "部分升级到 iOS 26.4 的用户发现，iMessage 消息上方出现了端到端加密（E2EE）提示条，这被认为是苹果为 RCS 消息加密所做的准备。苹果已在 iOS 26.5 Beta 中为 RCS 富媒体消息引入加密支持，但由于 RCS 用于跨平台通信，是否能启用加密取决于对方设备的支持情况。未来苹果将在 iMessage 和 RCS 消息上都标注是否加密，提醒用户注意隐私保护。如果 RCS 消息未被加密，用户发送的内容可能被运营商等中间方截获。",
+              "source_url": "https://www.landiannews.com/archives/112507.html",
               "source_name": "蓝点网",
-              "published_at": "2026-04-05T10:27:17+08:00"
-            }
-          ]
-        },
-        {
-          "name": "cnBeta",
-          "articles": [
-            {
-              "title": "奈飞首次推出儿童游戏应用Playground",
-              "brief": "奈飞推出全新儿童游戏应用Playground，专为8岁及以下儿童设计，包含在各级会员资格中。应用内提供小猪佩奇、苏斯博士霍顿和芝麻街等离线游戏，确保无广告、无应用内购买及额外费用。此举旨在加深与家庭用户的互动，儿童内容历来有助于降低用户取消订阅率。目前该应用已在美国、加拿大、英国、澳大利亚、菲律宾和新西兰上线，计划本月底在全球推出。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1556772.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-07T03:57:08+08:00"
-            },
-            {
-              "title": "英特尔寻求与大型科技公司达成芯片封装合作协议",
-              "brief": "英特尔正着手在新墨西哥州工厂大规模生产其最新封装技术，并调整战略为客户提供更多选择，允许他们利用英特尔完成生产流程中的部分环节。随着芯片设计日益复杂，先进封装技术对下一代AI系统的制造变得与芯片本身同等重要。不过部分潜在客户可能仍持谨慎态度，会考虑执行风险及与现有供应商的关系，投资者将关注已完成的收购及资本投入作为英特尔代工战略成效的参考指标。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556770.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-07T03:56:07+08:00"
-            },
-            {
-              "title": "分析师：MacBook Neo或推动苹果股价上涨20%",
-              "brief": "多位分析师看好MacBook Neo的市场前景，认为这款售价599美元的经济型笔记本电脑将为苹果打开巨大市场机会。目前Mac电脑保有量仅2.6亿台，远低于iPhone的15亿台。分析师测算，若苹果拿下经济型笔记本市场10%份额，每股收益可额外增加3美分。Neo还将迫使竞争对手在提价和削减配置之间两难抉择。苹果还通过溢价囤积存储芯片的策略挤压竞争对手空间，尽管短期毛利率可能下降，但可通过市场份额增长和订阅服务收入弥补。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556768.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-07T01:20:37+08:00"
-            },
-            {
-              "title": "OpenAI发布政策提案应对AI引发的就业冲击",
-              "brief": "OpenAI发布政策提案，建议各国政府应对人工智能可能导致的大规模失业问题。提案指出随着AI降低企业用工需求，经济活动结构将发生转变，企业利润和资本收益扩大，而劳动收入和工资税依赖降低，这将影响社保和医疗补助等项目的资金来源。OpenAI建议政府转而提高资本利得税和企业所得税，让医疗和退休福利与个人绑定而非随工作变动，并制定常识性AI监管规则保护未成年人和应对国家安全威胁。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556766.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-07T01:20:09+08:00"
-            },
-            {
-              "title": "AMD锐龙9 9950X3D2售价曝光：全球首款208MB双堆叠缓存CPU",
-              "brief": "AMD锐龙9 9950X3D2预售价格曝光，海外预售价接近1000美元。该处理器是全球首款双CCD同时堆叠3D缓存的CPU，两个CCD各配备64MB 3D缓存，加上原生16MB二级缓存和64MB三级缓存，总缓存容量达208MB。基于Zen5架构，16核32线程，加速频率5.6GHz，TDP为200W。AMD表示其综合性能比单堆叠的9950X3D高出5%至10%，渲染和数据科学测试提升可达7%至13%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1556764.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-07T00:20:38+08:00"
-            }
-          ]
-        },
-        {
-          "name": "36氪",
-          "articles": [
-            {
-              "title": "「木头姐」研判：AI对医疗健康领域影响深远",
-              "brief": "凯茜·伍德旗下 ARK Invest 发布研报，认为人工智能将对医疗健康领域产生深远影响。AI 技术正加速药物研发、疾病诊断和个性化治疗方案的落地，有望显著降低医疗成本并提升诊疗效率。ARK 长期看好 AI 与生命科学交叉领域的投资机会，认为该方向将成为未来科技投资的核心赛道之一。",
-              "source_url": "https://36kr.com/newsflashes/3755985279894277?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-04-07 07:45:48  +0800"
-            },
-            {
-              "title": "外围扰动难动摇市场中期上行根基，机构建议逢低布局产业趋势向上行业",
-              "brief": "A股迎来清明假期后首个交易日。假期期间日韩市场震荡上涨，国际油价与金价走势分化，市场风险偏好略有提升。业内人士研判，短期美以伊冲突的不确定性仍压制市场风险偏好，但并未动摇A股中长期上行根基，市场有望在二季度继续向上。后市配置方面，建议逢低布局政策支持和产业趋势向上的行业，成长方向仍是本轮行情最强主线，AI算力、半导体、存储、创新药等细分领域值得关注。",
-              "source_url": "https://36kr.com/newsflashes/3755966404133381?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-04-07 07:43:29  +0800"
-            },
-            {
-              "title": "2026年成猪周期「最艰难的一年」，养殖企业多方式「过冬」",
-              "brief": "国内生猪期货主力合约价格跌至9370元/吨的历史新低，现货生猪出栏均价跌破10元/公斤，为近十余年最低水平。2026年被视为猪周期中最艰难的一年。今年以来国家已开展两批中央生猪收储托底猪价，但猪价已跌破行业平均成本线，养殖端普遍陷入亏损。分析人士认为在产能实质性去化前，猪价将维持低位震荡。养殖企业正通过降本增效、优化财务结构和拓展海外市场等方式应对周期低谷。",
-              "source_url": "https://36kr.com/newsflashes/3755963257700867?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-04-07 07:41:18  +0800"
-            },
-            {
-              "title": "银行年报数据显示净息差今年有望企稳",
-              "brief": "已有20余家A股上市银行披露2025年年报，包括6家国有大行和9家股份制银行。数据显示尽管净息差仍在收窄，但银行正逐步走出营收负增长困境。过去三年非利息收入有效弥补了净利息收入下滑的缺口。积极变化是，随着净息差收窄节奏放缓，多家上市银行净利息收入由负转正，带动整体营收扭转前两年持续负增长态势。",
-              "source_url": "https://36kr.com/newsflashes/3755962449969922?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-04-07 07:38:29  +0800"
-            },
-            {
-              "title": "三井住友金融集团与日本生命保险商讨设立5000亿日元私募信贷基金",
-              "brief": "三井住友金融集团与日本生命保险正在商讨设立一只初始资本至少5000亿日元（约合31亿美元）的私募信贷基金。该基金预计将为杠杆收购、房地产交易及夹层交易提供融资，两家机构正在研究潜在合资企业的管理架构。最终规模和资本承诺等关键细节仍在讨论中，该架构也可能允许其他投资者参与，从而随时间推移扩大平台规模。",
-              "source_url": "https://36kr.com/newsflashes/3755961535627785?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-04-07 07:35:32  +0800"
+              "published_at": "2026-04-07T08:30:19+08:00"
             }
           ]
         },
@@ -471,39 +59,79 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "OpenAI 对人工智能经济的愿景：公共财富基金、机器人税与四天工作制",
-              "brief": "OpenAI 发布经济框架提案，围绕三大目标：更广泛分配 AI 驱动的繁荣、构建降低系统性风险的防护机制、确保 AI 能力的普及。提案建议将税收负担从劳动力转向资本，可能对高收入群体的 AI 收益征收更高税率，还提出机器人税概念。OpenAI 还提议设立公共财富基金让所有美国人自动持有 AI 企业股权，以及补贴无薪资削减的四天工作制。提案承认 AI 风险不止于失业，还包括政府或恶意主体的滥用，建议制定危险 AI 管控方案并设立新监管机构。",
-              "source_url": "https://www.ithome.com/0/936/322.htm",
+              "title": "NASA 阿耳忒弥斯 2 号成功飞掠月球背面，创造载人航天新距离纪录",
+              "brief": "NASA 阿耳忒弥斯 2 号任务飞船「诚信号」成功飞掠月球背面，抵达距地球约 406771 公里的最远点，刷新了 1972 年阿波罗 17 号以来的人类航天最远距离纪录。宇航员在飞掠过程中对月球表面进行了数小时观测，重点目标包括直径 965 公里的东方海盆地。飞船还在近月点仅 6545 公里高度掠过月球，并经历了约 53 分钟的日全食。任务共动用 32 台相机记录影像，宇航员细致描述了从未被人类亲眼见过的月球背面地貌。",
+              "source_url": "https://www.ithome.com/0/936/350.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T07:36:23+08:00"
+              "published_at": "2026-04-07T09:36:07+08:00"
             },
             {
-              "title": "苹果折叠 iPhone Fold 渲染图再曝：后摄缩小凸起，整体更精致",
-              "brief": "最新曝光的 iPhone Fold 渲染图显示，苹果进一步缩小了摄像头凸起并调整背部面板设计，追求更精致的视觉平衡。iPhone Fold 采用书本式横向折叠机制，展开后内屏提供类似平板的体验，外屏作为常规手机使用。苹果正在致力于解决屏幕折痕问题，适配折叠屏的 iOS 27 系统预计将引入并排多任务处理功能，以充分发挥大屏优势。",
-              "source_url": "https://www.ithome.com/0/936/321.htm",
+              "title": "微软 MVP 实战分享：10 分钟为 Win11 应用添加本地 AI 功能，无需云付费",
+              "brief": "微软 MVP 展示了如何利用 Windows AI APIs 在约 10 分钟内为 Win11 应用集成 AI 功能。该方案无需调用云 API、无需付费，仅需数行代码即可调用 Phi Silica 本地语言模型、AI 文本识别和图像处理等功能。演示以开源应用 Xkcd Viewer 为例，通过集成 Image Description API 为漫画图片生成语音解说，帮助视障用户。唯一限制是用户需拥有支持 NPU 的 Windows 11 AI+ PC 设备。",
+              "source_url": "https://www.ithome.com/0/936/349.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T07:30:13+08:00"
+              "published_at": "2026-04-07T09:33:50+08:00"
             },
             {
-              "title": "科学家首次捕捉到存储材料原子级「开关」过程，为更小更快存储铺路",
-              "brief": "莫纳什大学与日本研究团队借助先进电子显微镜，首次在原子层面捕捉到萤石型铁电体存储材料的开关过程。研究发现开关过程并非单步完成，而是经过此前未知的中间原子结构，通过改变材料成分可控制这一过程。该发现揭示了数据存储中电学状态翻转的原子机制，为设计更快、更稳定且能效更高的存储材料提供了原子尺度的路线图，有望突破当前存储器件在小型化和能效方面的技术极限。",
-              "source_url": "https://www.ithome.com/0/936/320.htm",
+              "title": "小米卢伟冰确认 REDMI K90 至尊版仍将推出，定位低于 Max",
+              "brief": "小米集团总裁卢伟冰在微博确认，REDMI K90 至尊版依然存在，产品定位为 K90 至尊版 < K90 Max < K90 Pro Max。此前发布的 K90 Max 搭载天玑 9500 处理器，配备风冷主动散热系统，号称 K 系列有史以来最强「性能魔王」。据博主爆料，K90 Max 起售价预计在 3500 元左右，而后续的至尊版定位介于 K90 和 K90 Max 之间，预计搭载天玑 9500、1.5K 165Hz 屏幕和 8000mAh 级大电池。",
+              "source_url": "https://www.ithome.com/0/936/348.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T07:29:53+08:00"
+              "published_at": "2026-04-07T09:32:27+08:00"
             },
             {
-              "title": "事故率极低、后果不严重，美监管机构终止对特斯拉智能召唤功能的调查",
-              "brief": "美国国家公路交通安全管理局终止了对特斯拉真智能召唤功能的调查，认为该功能可能不存在安全缺陷。该功能于2024年9月推出，车主可通过手机操控车辆低速自动行驶。2025年1月因数十起碰撞事故报告启动调查后发现，在数百万次操作中仅不到百分之一引发事故，且通常仅造成轻微财产损失，未出现人员受伤或死亡。特斯拉已发布多次软件更新优化摄像头遮挡检测和物体识别功能。",
-              "source_url": "https://www.ithome.com/0/936/319.htm",
+              "title": "海尔发布 AI 人感浴霸圆月 C1：支持 1℃ 精准调温，首发 1299 元",
+              "brief": "海尔推出 AI 人感浴霸圆月 C1，主打 AI 智能人感功能全天候在线，支持人感照明、人感吹风和人感换气三大模式。产品配备 2830W 高效制热模块，支持 App 无极调光、AI 智能预约和 1℃ 精准调温，除菌率超过 99%。该浴霸首发价 1299 元，可叠加政府数码家电补贴享受额外优惠。",
+              "source_url": "https://www.ithome.com/0/936/347.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T07:23:33+08:00"
+              "published_at": "2026-04-07T09:30:20+08:00"
             },
             {
-              "title": "国家安全部发布 Token 安全警示：谨防「囤词元能暴富」等骗局",
-              "brief": "国家安全部发布词元（Token）安全警示，指出当前词元使用中存在三大隐患：泄露劫持风险，不法分子可通过XSS攻击等方式窃取词元获取用户隐私；伪造篡改风险，缺乏加密的词元可能被伪造管理员身份绕过系统验证；诈骗陷阱风险，各类词元骗局层出不穷。国安部特别强调囤词元能暴富、场外交易赚差价等行为涉嫌非法金融活动，提醒公众认清词元是数字身份凭证而非投资品，优先选择正规平台和加密传输通道，不参与非法加密货币交易。",
-              "source_url": "https://www.ithome.com/0/936/318.htm",
+              "title": "英特尔 Nova Lake 处理器曝光：采用 Xe3/Xe3P GPU，AX 高阶变体被取消",
+              "brief": "据爆料者消息，英特尔 Nova Lake 处理器将搭载 Xe3 图形引擎，Nova Lake P 则升级为 Xe3P 图形引擎。与此同时，英特尔已决定取消在 Nova Lake 中推出 AX 高阶变体的计划，首个 AX 处理器将推迟到后续的 Razer Lake 架构中登场。此前已有信息显示 Nova Lake-S 桌面版最高可达 44 核并配备 288MB bLLC 缓存，移动端 Nova Lake HX 则为 28 核设计。",
+              "source_url": "https://www.ithome.com/0/936/346.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T07:22:05+08:00"
+              "published_at": "2026-04-07T09:28:23+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "特斯拉上海超级工厂第一季度交付 21.3 万辆，同比增长 23.5%",
+              "brief": "特斯拉中国公布数据显示，上海超级工厂 3 月交付量超 8.56 万辆，环比大幅增长 46%。整个第一季度，上海超级工厂共交付电动车 21.3 万辆，同比增长 23.5%。这一成绩显示出特斯拉在中国市场的产能和交付能力持续提升，也反映出国内新能源汽车消费需求依然强劲。",
+              "source_url": "https://36kr.com/newsflashes/3756094781866497?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-07 09:37:11  +0800"
+            },
+            {
+              "title": "钠离子电池企业「珈钠能源」完成 A+ 轮数亿元融资",
+              "brief": "珈钠能源宣布完成 A+ 轮数亿元融资，投资方包括深圳储能基金和亿纬锂能等机构。本轮融资将用于钠离子电池关键材料的技术迭代、产能扩张以及全球市场拓展。钠离子电池被视为锂电池的重要补充方案，具有原材料丰富、成本较低等优势，在储能和低速电动车领域具有广阔应用前景。",
+              "source_url": "https://36kr.com/newsflashes/3756093840916997?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-07 09:36:14  +0800"
+            },
+            {
+              "title": "SpaceX 据悉计划于五月底公开其首次公开募股招股说明书",
+              "brief": "据财联社报道，SpaceX 计划于五月底公开其首次公开募股（IPO）招股说明书，并将在 IPO 路演启动前一天，面向整个承销团的 125 位财务分析师举行线上会议。SpaceX 作为全球最有价值的私营航天企业，其 IPO 长期受到资本市场高度关注，此次信息披露标志着上市进程进入实质性推进阶段。",
+              "source_url": "https://36kr.com/newsflashes/3756089359712775?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-07 09:31:40  +0800"
+            },
+            {
+              "title": "A 股三大指数集体高开，折叠屏概念走强",
+              "brief": "A 股三大指数集体高开，沪指高开 0.1%，深成指高开 0.3%，创业板指高开 0.42%。板块方面，折叠屏概念走强，福蓉科技一字涨停；海运、精细化工、电子元器件板块领涨，同宇新材涨超 10%，联盛化学涨超 7%。能源设备、贵金属、油气板块跌幅居前，准油股份跌停，赤峰黄金跌超 1%。",
+              "source_url": "https://36kr.com/newsflashes/3756085315552004?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-07 09:27:34  +0800"
+            },
+            {
+              "title": "央行 4 月 7 日开展 5 亿元 7 天期逆回购操作",
+              "brief": "4 月 7 日，央行公开市场开展 5 亿元 7 天期逆回购操作，操作利率为 1.40%。同日人民币对美元中间价调升 75 个基点，报 6.8854。逆回购操作是央行调节市场流动性的常用工具，此次操作规模和利率维持在近期水平，表明货币政策保持稳健基调。",
+              "source_url": "https://36kr.com/newsflashes/3756083045401095?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-07 09:25:15  +0800"
             }
           ]
         }
