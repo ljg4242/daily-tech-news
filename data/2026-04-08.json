@@ -1,6 +1,6 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T05:48:34.800722+08:00",
+  "generated_at": "2026-04-08T09:54:27.912077+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "WhatsApp 推出全新 CarPlay 原生应用",
+              "brief": "WhatsApp 更新后新增完整 CarPlay 原生界面，用户可直接在车载屏幕上查看最近聊天、通话记录和常用联系人，支持语音输入发送消息和拨打电话。此前 WhatsApp 的 CarPlay 集成仅限 Siri 语音操作，功能有限。更新至 iPhone 最新版本即可在兼容 CarPlay 的车辆上使用。",
+              "source_url": "https://www.macrumors.com/2026/04/07/whatsapp-gets-new-carplay-app/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-08T07:32:35+08:00"
+            },
+            {
+              "title": "HomePod mini 2 现有传闻汇总：设计不变、芯片大升级",
+              "brief": "HomePod mini 已上市超过两千天，下一代产品预计外观保持不变但会新增配色。芯片将从 S5 升级至 S9 或更新款，为计算音频提供更强性能。此外可能搭载苹果 N1 芯片支持 Wi-Fi 7 和蓝牙 6。设备需等待新版 Siri 上线，目前预计随 iOS 27 在九月推出，届时智能助手能力将大幅提升。",
+              "source_url": "https://www.macrumors.com/2026/04/07/homepod-mini-2-rumor-recap/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-08T06:03:35+08:00"
+            },
             {
               "title": "Aqara W200 恒温器评测：首款支持 Apple 自适应温度和清洁能源引导的北美智能恒温器",
               "brief": "Aqara 推出首款面向北美市场的恒温器 W200，支持 Matter 协议，集成存在传感器、Thread 和 Zigbee 网关功能。W200 率先支持 iOS 26 新增的 Apple 自适应温度功能，可根据离家、回家、睡眠状态自动调节温度以节省能源；清洁能源引导则会在电网清洁度较高时安排加热或制冷。设备配备方形触控屏，支持手势操作，可直接在面板或 HomeKit 中控制。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/review/apple-the-first-50-years-book/",
               "source_name": "MacRumors",
               "published_at": "2026-04-08T03:11:04+08:00"
-            },
-            {
-              "title": "Apple Studio Display XDR 获 FDA 批准，可用于诊断放射科",
-              "brief": "苹果营销主管 Greg Joswiak 确认，Studio Display XDR 的医学影像校准功能已获美国 FDA 批准。放射科医生现在可在搭载 macOS 26.4 的 Mac 上连接该显示器，使用 DICOM 医学影像预设来查看医学图像，无需再购买专用医学影像显示器。该显示器 VESA 版售价 2899 美元，比多数专业医学影像显示器更经济。苹果还需在其他国家取得相应医疗认证，才能将这一功能推广至美国以外地区。",
-              "source_url": "https://www.macrumors.com/2026/04/07/studio-display-xdr-fda-clearance/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-08T03:04:06+08:00"
-            },
-            {
-              "title": "iPhone Fold 预计如期九月发布，驳斥延期传闻",
-              "brief": "据彭博社 Mark Gurman 报道，苹果 iPhone Fold 的开发进展顺利，将按照惯例在九月与 iPhone 18 Pro 同期开售，驳斥了日经此前关于工程延期可能导致推迟至 2027 年的说法。iPhone Fold 的屏幕设计复杂可能导致初期供货紧张，分析师郭明錤此前也提到量产挑战可能引发缺货，但未提及延期。目前该机仍处于工程验证阶段，尚未正式量产，近期工厂人员接触原型机增多，导致了信息混杂。Gurman 也表示时间安排并非最终确定。",
-              "source_url": "https://www.macrumors.com/2026/04/07/iphone-fold-september-launch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-08T01:35:28+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "Apple 发表论文揭示 AI 驱动的界面原型生成工具",
-              "brief": "Apple 研究团队公布一项新研究，展示一款利用 AI 帮助开发者快速构建应用界面原型的工具。该工具可根据自然语言描述自动生成 UI 组件和布局方案，旨在加速从设计概念到可交互原型的开发流程。研究细节显示工具在理解界面设计规范和组件层级方面有较强表现。",
-              "source_url": "https://9to5mac.com/2026/04/07/apple-study-details-an-ai-powered-tool-that-helps-developers-build-interface-prototypes/",
+              "title": "WhatsApp 改进版 CarPlay 体验已向所有 iPhone 用户开放",
+              "brief": "WhatsApp 正式向所有 iPhone 用户推出改进版 CarPlay 体验，提供全新的原生车载界面。用户可直接在车载屏幕上浏览最近的聊天记录、通话历史和收藏联系人，通过语音听写快速发送消息或拨打电话。此次更新从此前有限的 Siri 语音操作升级为完整可视化界面，大幅提升了驾驶场景下的通讯便利性。",
+              "source_url": "https://9to5mac.com/2026/04/07/whatsapps-improved-carplay-experience-is-now-available-to-all-iphone-users/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-08T05:17:33+08:00"
+              "published_at": "2026-04-08T08:59:08+08:00"
             },
             {
-              "title": "M5 MacBook Air 定位转变：不再是苹果入门之选，目标用户是谁？",
-              "brief": "随着 MacBook 产品线调整，M5 MacBook Air 已不再担当苹果笔记本入门机型的角色。文章分析了该产品在新定位下的目标用户群体——介于基础办公需求和专业生产力之间的中端用户，探讨其在性能、便携性和价格之间的平衡是否仍有吸引力。",
-              "source_url": "https://9to5mac.com/2026/04/07/m5-macbook-air-is-no-longer-apples-entry-point-so-who-is-it-for-now-video/",
+              "title": "播客：Claude 更新频率引发讨论",
+              "brief": "9to5Mac 最新一期 Overtime 播客以「每次呼吸都有 Claude 新更新」为题，讨论了 Anthropic 旗下 AI 助手 Claude 的密集迭代节奏。节目同时涵盖苹果生态系统话题，包括 iPhone Fold 可折叠手机的机身尺寸与现有 iPhone 18 Pro 的对比分析，展现了科技行业当前快速变化的产品格局。",
+              "source_url": "https://9to5mac.com/2026/04/07/9to5mac-overtime-066-every-time-i-breathe-theres-a-new-claude-update/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-08T04:25:13+08:00"
+              "published_at": "2026-04-08T08:42:02+08:00"
             },
             {
-              "title": "iOS 26 新增一款广受好评的 iPhone 铃声",
-              "brief": "iOS 26 操作系统为 iPhone 用户带来全新铃声选项，编辑分享了其中最受欢迎的一款。新铃声在设计上兼顾辨识度和悦耳度，用户可在设置中的声音选项里试听并更换。文章提供了试听链接，方便读者直接体验。",
-              "source_url": "https://9to5mac.com/2026/04/07/ios-26-added-my-favorite-new-iphone-ringtone-listen-here/",
+              "title": "watchOS 26.4 修复 Apple Watch 健身应用长期痛点",
+              "brief": "watchOS 26.4 更新解决了 Apple Watch 健身应用中一个被用户长期投诉的问题。此次更新改善了锻炼过程中的数据显示和交互体验，让用户在运动时能更便捷地查看关键健身数据。这一修复回应了 Apple Watch 用户社区的强烈呼声，提升了日常运动追踪的实用性。",
+              "source_url": "https://9to5mac.com/2026/04/07/watchos-26-4-fixes-a-major-apple-watch-workout-app-complaint/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-08T04:21:18+08:00"
+              "published_at": "2026-04-08T07:31:52+08:00"
             },
             {
-              "title": "Studio Display XDR 获 FDA 医学影像认证",
-              "brief": "苹果 Studio Display XDR 的医学影像功能已获得美国 FDA 批准。放射科医生可在运行 macOS 26.4 的 Mac 上使用该显示器查看 DICOM 标准医学图像，无需专用医学影像显示器。这款显示器售价 2899 美元（含 VESA 支架），相比专业医学影像设备更具性价比。苹果还需在其他国家获得相应认证才能将此功能推广至海外。",
-              "source_url": "https://9to5mac.com/2026/04/07/studio-display-xdr-medical-imaging-feature-fda-clearance/",
+              "title": "Apple Arcade 需要独立于 App Store 的「始终允许」功能",
+              "brief": "有观点认为 Apple Arcade 应增设独立于 App Store 的「始终允许」家长控制选项。当前家长若想让孩子自由畅玩 Apple Arcade 游戏，必须放宽整个 App Store 的下载权限限制，这一设计给家庭共享使用场景带来不便。建议苹果为订阅制游戏服务单独设置权限开关，实现更精细化的家长管控。",
+              "source_url": "https://9to5mac.com/2026/04/07/apple-arcade-could-use-an-always-allow-feature-thats-separate-from-app-store/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-08T03:00:00+08:00"
+              "published_at": "2026-04-08T07:21:32+08:00"
             },
             {
-              "title": "CarPlay 最佳使用技巧和隐藏功能",
-              "brief": "9to5Mac 整理了 Apple CarPlay 最实用的技巧合集，涵盖日常驾驶中可能忽略的隐藏功能。文章介绍了如何更高效地使用导航、音乐播放、消息回复等核心功能，以及自定义界面布局、Sight 语音控制等进阶用法，帮助用户充分发挥 CarPlay 在车内体验中的潜力。",
-              "source_url": "https://9to5mac.com/2026/04/07/best-carplay-features-tips/",
+              "title": "Apple TV+ 越南纪录片获三项艾美奖提名",
+              "brief": "Apple TV+ 一部六集越南题材纪录片获得三项新闻与纪录艾美奖提名。该系列深入探索了越南的历史变迁与社会文化，获得行业最高奖项认可，进一步证明了 Apple TV+ 在纪录片领域的制作水准，也体现了该流媒体平台持续推进内容多元化的战略成果。",
+              "source_url": "https://9to5mac.com/2026/04/07/apple-tv-six-part-vietnam-docuseries-picks-up-3-news-documentary-emmy-nominations/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-08T02:57:44+08:00"
+              "published_at": "2026-04-08T06:28:02+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "Valve 为 Apple Vision Pro 带来原生 Steam Link 应用",
+              "brief": "Valve 宣布将 Steam Link 本地串流游戏应用带到 Apple Vision Pro 混合现实头显，用户可通过局域网将 Mac 或 PC 上的 Steam 游戏无线串流到头显中游玩。需注意该应用仅支持传统 2D 游戏串流，不支持 VR 游戏。此前用户只能通过 ALVR 等第三方工具实现类似功能，Valve 的官方应用提供了更稳定便捷的体验。目前可通过 TestFlight 申请测试，支持最高 4K 分辨率和全景模式动态曲面调节。",
+              "source_url": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-08T06:21:21+08:00"
+            },
+            {
+              "title": "维修性分析报告：苹果和联想笔记本得分最低",
+              "brief": "美国公共利益研究小组（PIRG）发布 2026 年设备维修性评估报告，苹果在笔记本维修性上获得 C-，手机维修性仅获 D-，均为行业最低。报告基于法国维修性指数体系，分析了十款最新笔记本和手机的拆解难度、维修文档和零部件获取便利性等因素。不过报告也指出 MacBook Neo 是苹果在维修性方向上迈出的积极一步。PIRG 呼吁厂商将法国的维修透明度要求推广至全球市场。",
+              "source_url": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-08T06:08:32+08:00"
+            },
+            {
               "title": "我们的 AI「统治者」们到底出了什么问题？",
               "brief": "Ars Technica 长文剖析 AI 行业现状，以 OpenAI CEO Sam Altman 的博客文章为切入点，批评其将 AI 发展描绘为纯粹正面的「温和奇点」叙事。文章指出 Altman 等行业领袖对 AI 风险轻描淡写，频繁用科幻式愿景代替严肃讨论，呼吁业界正视大规模失业等潜在负面影响。",
               "source_url": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-08T02:00:20+08:00"
-            },
-            {
-              "title": "测试显示 Google AI Overviews 准确率仅约 90%，每小时生成数百万条错误信息",
-              "brief": "一项分析测试发现，Google 搜索的 AI Overviews 功能在回答问题时约有 10% 的概率给出错误或误导性信息。考虑到 Google 搜索每小时处理数以百万计的查询，这意味着 AI Overviews 可能每小时向用户展示数百万条不准确的内容。虽然 90% 的准确率看似不错，但对于搜索引擎而言，10% 的错误率意味着大量用户正在获取错误信息，引发对 AI 搜索可靠性的广泛质疑。",
-              "source_url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-08T00:53:55+08:00"
-            },
-            {
-              "title": "Linux 内核正式移除 Intel 486 处理器支持",
-              "brief": "Linux 内核维护者正在推进移除对 Intel i486 处理器的支持。这款诞生于 1989 年的处理器采用 600 纳米以上制程工艺，Linux 开发者认为即便为 486 支持多花一秒钟也是浪费。此举将简化内核代码库，释放维护资源专注于现代硬件优化。486 用户虽然可以在旧版本内核上继续运行，但将无法获得未来的安全更新和功能改进。",
-              "source_url": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-08T00:39:12+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "MNN 便携显示器降至不到 50 美元史低价",
+              "brief": "MNN 15.6 英寸便携显示器在亚马逊限时促销中降至 49.98 美元，较原价节省 40 美元。该显示器配备全高清 IPS 面板，支持 HDR 和 1670 万色显示，内置扬声器，提供两个 USB-C 接口（需设备支持雷电 3.0 或 USB 3.1）和 mini HDMI 输入。附赠智能保护套可兼作横竖屏支架，是数字游民扩展屏幕的高性价比选择。",
+              "source_url": "https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-08T08:37:42+08:00"
+            },
+            {
+              "title": "Muse 推出脑电波监测智能唤醒功能",
+              "brief": "Muse 为其 S Athena 头带新增 Smart Wakeup 功能，通过 EEG 脑电图传感器直接监测大脑活动，在用户设定的起床窗口内检测到浅睡阶段时用轻柔声音唤醒用户。与依赖运动或心率的智能闹钟不同，该功能基于脑电信号和数千个夜晚的睡眠数据训练，更精准地判断最佳唤醒时机。需搭配 Muse S Athena 头带和每月 13 美元的高级订阅使用。",
+              "source_url": "https://www.androidauthority.com/muse-introduces-smart-wakeup-3655663/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-08T07:15:55+08:00"
+            },
+            {
+              "title": "Nebula Mars 3 便携投影仪降价 250 美元",
+              "brief": "Anker 旗下 Nebula Mars 3 便携投影仪在亚马逊降至 799.99 美元，折扣 250 美元。该投影仪拥有 1080p 分辨率、1000 ANSI 流明亮度，最大可投射 200 英寸画面。内置 Android TV 11.0 系统可直接安装流媒体应用，配备 40 瓦三扬声器系统和 185Wh 电池，续航可达 5 小时，远超同类产品的典型两小时续航。",
+              "source_url": "https://www.androidauthority.com/nebula-mars-3-portable-projector-deal-3655565/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-08T06:20:50+08:00"
+            },
+            {
+              "title": "亚马逊紧急推送 Kindle 修复更新",
+              "brief": "亚马逊开始向 Kindle 设备推送 5.19.3.0.1 版本更新，此版本旨在替代此前因大量用户报告严重 Bug 而被紧急撤回的 5.19.3 版本。更新日志与前版相同，主要包括改善 USB 传输 PDF 文件的支持，使侧载文档获得类似原生 Kindle 文件的文本选择、高亮和笔记功能。Scribe 用户可直接在 PDF 上书写，彩色机型也支持彩色显示。",
+              "source_url": "https://www.androidauthority.com/amazon-kindle-april-update-3655649/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-08T05:55:29+08:00"
+            },
+            {
               "title": "三星 Galaxy Watch Ultra 2 泄露：可能同时推出 4G 和 5G 两个版本",
               "brief": "三星服务器上出现型号为 SM-L715F 的固件文件，被认为属于 Galaxy Watch Ultra 2 的 4G/LTE 版本。此前 SM-L716 已在 IMEI 数据库中出现，推测为 5G 版本。分析认为三星可能在不同地区发售不同版本：5G 型号面向韩国和美国市场，4G 版本面向全球其他地区。",
               "source_url": "https://www.androidauthority.com/galaxy-watch-ultra-2-4g-3655637/",
               "source_name": "Android Authority",
               "published_at": "2026-04-08T05:35:07+08:00"
-            },
-            {
-              "title": "Gemini 覆盖层和 Live 模式深度解析：Android 版迎来六大界面变化",
-              "brief": "通过 APK 拆解 Google 应用 17.13.61 版本，发现 Gemini 应用正在酝酿六项界面更新。覆盖层方面：更细的图标、语音输入波形动画、新的底部操作面板，以及覆盖层内直接显示回复内容。Live 模式方面：不再跳转新屏幕，原地启动对话，底部新增双击静音和键盘退出等操作按钮。",
-              "source_url": "https://www.androidauthority.com/gemini-overlay-and-live-ui-changes-3655577/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-08T04:23:08+08:00"
-            },
-            {
-              "title": "Google 发布 Pixel 手机四月更新：修复安全漏洞和应用崩溃问题",
-              "brief": "Google 推出 2026 年 4 月安全补丁，覆盖从 Pixel 6 起的所有机型及 Pixel 平板。本次更新主要修复应用和游戏崩溃问题，修补一个严重级别和多个高危安全漏洞，不包含新功能。用户可通过 OTA 自动接收更新，也可从 Google 官网下载完整 OTA 镜像或出厂镜像手动刷入。",
-              "source_url": "https://www.androidauthority.com/android-16-april-update-pixel-phones-3655628/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-08T03:58:33+08:00"
-            },
-            {
-              "title": "Anker 555 八合一 USB-C 集线器降至 2026 年最低价",
-              "brief": "Anker 555 八合一 USB-C 集线器目前在亚马逊创下 2026 年最低价，仅售 39.98 美元，节省 14 美元。这款集线器通过单个 USB-C 接口扩展出 8 个端口，包括 85W PD 充电、两个 USB-A 3.0、SD 和 microSD 读卡器、以太网口以及两个支持 4K 60Hz 的 HDMI 输出接口，适合需要双屏办公和频繁移动办公的用户。折扣为限时优惠，上一次出现此价格还是 2025 年底。",
-              "source_url": "https://www.androidauthority.com/anker-555-usb-c-hub-8-in-1-deal-3655566/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-08T03:33:40+08:00"
-            },
-            {
-              "title": "谷歌澄清 Wear OS 6.1 更新混淆：新的是模拟器而非系统更新",
-              "brief": "谷歌澄清了近期 Wear OS 6.1 被标记为新的原因。此前开发者文档中出现的 New 标签引发了用户困惑，以为 Wear OS 6.1 又有新版本推送。实际上该标签指的是 Android Studio 中新增的 Wear OS 6.1 模拟器，而非面向用户的系统更新。Wear OS 6.1 早在 2025 年 12 月就已开始向 Pixel Watch 用户推送。",
-              "source_url": "https://www.androidauthority.com/wear-os-6-1-new-3655583/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-08T03:16:46+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "马斯克修改 OpenAI 诉讼请求：1500 亿美元赔偿归非营利分支",
+              "brief": "埃隆·马斯克在针对 OpenAI 的诉讼中修改了诉状，要求将 1500 亿美元赔偿金判给 OpenAI 非营利分支而非个人所得，同时寻求将 CEO 阿尔特曼从非营利董事会中除名。马斯克于 2024 年提起诉讼，称 OpenAI 放弃非营利身份转为营利公司是对其作为共同创始捐赠者的欺诈，实质上已成为微软的闭源子公司。庭审日期临近，双方交锋预计将更加激烈。",
+              "source_url": "https://www.engadget.com/ai/elon-musk-wants-any-damages-from-his-openai-lawsuit-given-to-the-ai-companys-nonprofit-arm-223337225.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-08T06:33:37+08:00"
+            },
+            {
+              "title": "Anthropic 启动 Project Glasswing：用 AI 防御 AI 网络攻击",
+              "brief": "Anthropic 宣布发起 Project Glasswing 计划，联合亚马逊、苹果、谷歌、微软、英伟达等十余家科技巨头和金融机构，利用 AI 技术加固关键软件系统防御。参与方将使用 Anthropic 未公开发布的 Claude Mythos Preview 模型增强各自安全项目。Anthropic 称该模型已发现数千个可利用漏洞，涵盖所有主流操作系统和浏览器。此前 Anthropic 因拒绝为五角大楼解除安全护栏而被国防部列为供应链风险。",
+              "source_url": "https://www.engadget.com/ai/anthropic-launches-project-glasswing-an-effort-to-prevent-ai-cyberattacks-with-ai-214939773.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-08T05:49:39+08:00"
+            },
             {
               "title": "X（推特）升级应用内图片编辑器，新增 Grok 对话式编辑功能",
               "brief": "X 平台为其应用内图片编辑器推出更新，用户可通过文字提示让 xAI 的 Grok 对照片进行对话式编辑，类似 Google Photos 的 Gemini 编辑功能。新编辑器还新增模糊面部、在图片上添加文字和涂鸦等功能。此前 X 曾因用户滥用 Grok 生成不当内容而限制其图片生成权限至付费用户。",
@@ -228,26 +242,19 @@
               "source_url": "https://www.engadget.com/apps/movie-tracking-app-binge-uses-apples-live-activities-to-warn-about-jump-scares-184840127.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-08T02:48:40+08:00"
-            },
-            {
-              "title": "英特尔加入马斯克 Terafab 项目，合作建造 AI 芯片工厂",
-              "brief": "英特尔宣布将协助马斯克设计和建造位于得克萨斯州奥斯汀的 Terafab 工厂。该项目由 SpaceX、Tesla 和 xAI 联合发起，目标是每年产出 1 太瓦的算力芯片用于 AI 和机器人领域。英特尔表示其在芯片设计、制造和封装方面的能力将加速 Terafab 的目标。目前英特尔自身也面临产能挑战，亚利桑那州的两座芯片工厂尚未达到满产状态。",
-              "source_url": "https://www.engadget.com/ai/intel-gets-on-board-with-musks-terafab-project-182200144.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-08T02:22:00+08:00"
-            },
-            {
-              "title": "英国前 Meta 员工涉嫌下载 3 万张 Facebook 用户私密照片",
-              "brief": "一名英国前 Meta 员工正接受调查，被指控开发软件绕过 Facebook 内部安全系统，非法下载约 3 万张用户的私密照片。Meta 在一年多前发现该违规行为后立即解雇了该员工，通知了受影响用户，并将案件移交给执法部门。伦敦大都会警察局网络犯罪部门目前正负责调查此案。",
-              "source_url": "https://www.engadget.com/social-media/uk-meta-employee-reportedly-downloaded-30000-private-photos-from-facebook-users-181058081.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-08T02:10:58+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Nothing CMF Buds 2A 降噪耳机限时降至 19.99 美元史低价",
+              "brief": "Nothing 旗下 CMF Buds 2A 无线耳机在亚马逊限时促销中降至 19.99 美元，较原价优惠 29 美元，创历史最低价。这款平价耳机支持主动降噪和通透模式，提供 42 分贝降噪深度、可调节均衡器和配套 App 控制，三种配色可选。对于不到 20 美元的价格而言，功能配置相当出色，是预算有限用户的高性价比选择。",
+              "source_url": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-04-07T18:16:21-04:00"
+            },
             {
               "title": "亚马逊将终止对 2012 年及更早的 Kindle 和 Kindle Fire 设备支持",
               "brief": "亚马逊宣布自 2026 年 5 月 20 日起，2012 年及之前发布的 Kindle 电子阅读器和 Kindle Fire 设备将无法通过 Kindle 商店购买、借阅或下载新内容。用户仍可阅读已下载的书籍，并可通过 Kindle 移动应用、网页版和新设备访问已购内容。但若在截止日期后注销或恢复出厂设置，旧设备将无法重新注册。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
               "source_name": "The Verge",
               "published_at": "2026-04-07T15:05:00-04:00"
-            },
-            {
-              "title": "三星 Galaxy S26 Ultra 首次降价 200 美元",
-              "brief": "三星 Galaxy S26 Ultra 256GB 版本首次降价，在亚马逊、三星官网和百思买同步降至 1099.99 美元，降幅 200 美元。整个 S26 产品线均有折扣，Ultra 版仅比 S26 Plus 贵 100 美元。该机独占的 Privacy Display 功能可在旁人侧视时屏蔽屏幕内容，被评测人员认为是通勤场景下的值得购买亮点。",
-              "source_url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
-              "source_name": "The Verge",
-              "published_at": "2026-04-07T14:16:52-04:00"
             }
           ]
         }
@@ -414,6 +414,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "Chrome 浏览器自动下载 3~5GB 端侧 AI 模型，用不上可禁用删除",
+              "brief": "谷歌浏览器会在用户不知情的情况下自动下载约 3~5GB 的端侧 AI 模型权重文件（weights.bin），用于 Gemini Nano 等本地 AI 功能。蓝点网发现安装三个版本的 Chrome 合计占用约 15GB 空间，排查后发现是自动下载的模型文件。如不需要此功能，需先在 chrome://flags 中禁用 optimization-guide-on-device-model 和 Gemini Nano 相关实验性选项，重启后再手动删除权重文件，否则删除后会自动重新下载。",
+              "source_url": "https://www.landiannews.com/archives/112538.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-08T09:30:20+08:00"
+            },
+            {
+              "title": "微软回应 Copilot「仅供娱乐」条款：必应时代遗留内容，将修改措辞",
+              "brief": "微软被发现其 Microsoft Copilot 使用条款中写明产品「仅供娱乐用途」，且不保证回复不侵犯他人权利。此事在社交媒体引发批评，被认为与微软将 Copilot 定位为企业级强大工具的营销策略相矛盾。微软回应称该措辞是 Copilot 最初作为必应搜索辅助服务推出时的遗留内容，已不反映产品当前用途，承诺在下次使用条款更新时进行修改。",
+              "source_url": "https://www.landiannews.com/archives/112537.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-08T09:00:19+08:00"
+            },
+            {
+              "title": "Telegram 新增 Bot to Bot 通信，支持 AI 智能体协作",
+              "brief": "Telegram 正式支持机器人之间的 Bot to Bot 通信模式，机器人现在可以直接与其他机器人对话交互。用户可在 BotFather 中为指定机器人启用此权限，随后将多个不同职能的 AI 智能体机器人添加到同一群组中，实现协作解决复杂任务的场景，例如设置执行机器人和监督机器人分工合作。此举被视为 Telegram 在 AI 智能体时代的积极布局。",
+              "source_url": "https://www.landiannews.com/archives/112536.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-08T08:30:16+08:00"
+            },
+            {
               "title": "360doc 个人图书馆将于 5 月 1 日关停",
               "brief": "免费网络文章收藏平台 360doc 个人图书馆因未能找到合适的接手运营方，将于 5 月 1 日彻底关停服务器。年初该网站曾发布无偿转让公告，希望有能力的团队接手继续运营，但最终无人接手。360doc 作为早期中文互联网的个人文摘收藏平台，承载了大量用户的收藏内容，关停后用户数据将无法恢复。",
               "source_url": "https://www.landiannews.com/archives/112535.html",
@@ -426,27 +447,6 @@
               "source_url": "https://www.landiannews.com/archives/112534.html",
               "source_name": "蓝点网",
               "published_at": "2026-04-07T17:22:40+08:00"
-            },
-            {
-              "title": "WordPress 插件 WPML 更新异常，建议立即切换替代方案",
-              "brief": "WordPress 去除目录路径插件 No Category Base WPML 更新后出现严重异常，会在前端源代码中擅自添加 OG 属性和 Favicon 等不属于该插件工作范围的代码，还可能导致网站异常。目前该插件已被 WordPress 官方下架，建议使用该插件的站长立即切换至替代插件，避免对网站 SEO 和正常运行造成影响。",
-              "source_url": "https://www.landiannews.com/archives/112533.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-07T16:59:30+08:00"
-            },
-            {
-              "title": "5 月起 OneDrive 云端删除文件不再出现在本地回收站",
-              "brief": "微软宣布从 2026 年 5 月开始，OneDrive 在云端删除的文件将不再移动到本地回收站，用户只能通过云端回收站恢复。当前如果云端删除的文件已下载到本地，OneDrive 会将其移至本地回收站，用户可本地恢复后重新同步。这一变更意味着云端文件管理与本地彻底解耦，用户需要更注意云端回收站的保留期限。",
-              "source_url": "https://www.landiannews.com/archives/112532.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-07T15:36:10+08:00"
-            },
-            {
-              "title": "X/Twitter 推出 MCP 服务器，支持 AI 智能体通过 API 操作",
-              "brief": "社交平台 X 推出 FastMCP Server 仓库，允许 OpenClaw 等 AI 智能体通过 MCP 协议调用 X API 执行操作。不过该服务并非免费，用户需要先开通付费 X API 并完成账户授权后才能使用 MCP 服务器。这意味着 AI 智能体可以自动化地在 X 上执行发帖、搜索、获取信息等操作，但使用门槛和成本相对较高。",
-              "source_url": "https://www.landiannews.com/archives/112531.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-07T14:30:46+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "热门中概股美股盘前多数下跌，蔚来跌超 1%",
-              "brief": "美股盘前交易时段，热门中概股普遍走低，其中蔚来汽车跌幅超过 1%。近期美股市场受全球贸易政策不确定性影响波动加剧，中概股整体承压。投资者对中美关系和关税政策的担忧持续影响市场情绪，科技和新能源汽车板块尤其敏感。",
-              "source_url": "https://36kr.com/newsflashes/3756758498427654?f=rss",
+              "title": "深圳前海探索与港交所建立低空经济企业上市快速通道",
+              "brief": "深圳前海合作区发布《金融赋能低空经济产业高质量发展十二条措施》征求意见稿，提出在前海股权交易中心设立低空经济专区，推出「入板即贷」专项融资服务。鼓励面向低空经济企业开展上市培育和合规辅导，梯次衔接沪深主板、创业板、科创板等多层次资本市场，推动更多企业通过绿色通道挂牌新三板，并探索与香港交易所建立低空经济企业上市快速通道。",
+              "source_url": "https://36kr.com/newsflashes/3757518465565190?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 20:52:21  +0800"
+              "published_at": "2026-04-08 09:45:26  +0800"
             },
             {
-              "title": "美股大型科技股盘前多数下跌，Arm 跌超 4%",
-              "brief": "美股大型科技股盘前交易普遍走弱，芯片设计公司 Arm 跌幅超过 4%。Arm 股价近期波动较大，市场对 AI 芯片概念的估值重估和半导体行业周期性调整是主要压力来源。整体科技板块在关税和利率预期不确定性下承压。",
-              "source_url": "https://36kr.com/newsflashes/3756756860453381?f=rss",
+              "title": "恒生科技指数涨幅扩大至 4%",
+              "brief": "港股恒生科技指数涨幅扩大至 4%，恒生指数同步上涨 2.88%。今日市场情绪积极，科技板块领涨，多只科技权重股表现强劲。同期沪深两市成交额突破 5000 亿元，深证成指涨逾 3%，上证指数涨 1.29%，创业板指涨 3.71%，沪深京三市上涨个股超 5100 只，市场呈现普涨格局。",
+              "source_url": "https://36kr.com/newsflashes/3757516890751746?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 20:50:41  +0800"
+              "published_at": "2026-04-08 09:43:50  +0800"
             },
             {
-              "title": "赛微电子参股子公司瑞典 Silex 拟在瑞典纳斯达克 IPO",
-              "brief": "赛微电子公告其参股子公司瑞典 Silex 计划在瑞典纳斯达克交易所进行首次公开募股。Silex 是全球领先的 MEMS（微机电系统）代工企业，拥有先进的晶圆制造能力。此次 IPO 有望为 Silex 提供更多资金支持其产能扩张和技术研发，赛微电子作为参股方也将受益于估值提升。",
-              "source_url": "https://36kr.com/newsflashes/3756752263545346?f=rss",
+              "title": "沪深两市成交额突破 5000 亿元",
+              "brief": "沪深两市成交额今日突破 5000 亿元大关。深证成指涨逾 3%，上证指数涨 1.29%，创业板指涨 3.71%。沪深京三市上涨个股超 5100 只，市场呈现全面上涨态势，投资者情绪明显回暖，资金入场意愿增强。",
+              "source_url": "https://36kr.com/newsflashes/3757516631048704?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 20:46:01  +0800"
+              "published_at": "2026-04-08 09:43:34  +0800"
             },
             {
-              "title": "伯恩斯坦：iPhone 17 系列 2 月全球销量大涨 26%",
-              "brief": "投资机构伯恩斯坦数据显示，苹果 iPhone 17 系列在 2 月份全球销量同比增长 26%，需求表现强劲。这一增长为苹果下一代产品 iPhone 18 和 iPhone Fold 的发布奠定了良好基础。强劲的 iPhone 17 销量也表明苹果在高端智能手机市场的品牌号召力依然稳固。",
-              "source_url": "https://36kr.com/newsflashes/3756749477347843?f=rss",
+              "title": "深证成指涨逾 3%，市场全面走强",
+              "brief": "深证成指今日涨幅超过 3%，上证指数涨 1.29%，创业板指涨 3.71%。沪深京三市上涨个股超过 5100 只，市场呈现普涨格局。此外据新浪财经报道，SK 海力士计划本月开始向戴尔全面供应专为 AI 任务设计的个人电脑先进存储解决方案。",
+              "source_url": "https://36kr.com/newsflashes/3757513956066051?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 20:43:11  +0800"
+              "published_at": "2026-04-08 09:40:51  +0800"
             },
             {
-              "title": "亿纬锂能拟投资 110 亿元建设两家储能电池基地",
-              "brief": "亿纬锂能公告计划合计投资 110 亿元人民币，建设两家储能和动力电池生产基地。这一大规模投资反映了中国新能源电池行业持续扩张的态势，储能市场在电网侧和用户侧需求增长推动下进入快速发展期。亿纬锂能作为国内头部电池企业之一，通过产能扩张巩固市场地位。",
-              "source_url": "https://36kr.com/newsflashes/3756746843914761?f=rss",
+              "title": "迪士尼在亚洲和欧洲 53 个地区上线 Disney+ ESPN 频道",
+              "brief": "迪士尼宣布已在欧洲和亚太地区 53 个国家和地区通过 Disney+ 应用推出 ESPN 频道，初期内容因市场而异，未来一年将扩展至数千场直播赛事。这标志着迪士尼加速整合旗下流媒体和体育内容资源，进一步丰富 Disney+ 平台在海外市场的体育内容供给，提升国际订阅用户价值。",
+              "source_url": "https://36kr.com/newsflashes/3757511143719688?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-07 20:40:30  +0800"
+              "published_at": "2026-04-08 09:37:59  +0800"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "米哈游《原神》PS4 版正式停止更新",
-              "brief": "米哈游宣布《原神》PS4 版本正式停止更新，该版本已于 2025 年 9 月从 PlayStation Store 下架，商品销售随后关闭，现已进入停止更新阶段。PS4 玩家的后续游戏活动需迁移至 PS5 或其他平台，进度不受影响。米哈游建议使用 PS4 游玩的玩家尽快转移至 PS5 或其他设备继续体验。",
-              "source_url": "https://www.ithome.com/0/936/755.htm",
+              "title": "首批医保便捷支付地区名单公布，推进刷脸支付和一码支付",
+              "brief": "国家医保局公布首批医保便捷支付推进地区名单，覆盖全国 32 个省份及兵团，包括北京、上海、广州、深圳等主要城市。计划大力推进刷脸支付、一码支付、移动支付和信用支付等新型支付方式，力争三年左右建成医保便捷支付体系。此举旨在提升就医缴费效率，减少排队等候时间，让参保群众享受更便捷的医保结算体验。",
+              "source_url": "https://www.ithome.com/0/936/804.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T23:55:12+08:00"
+              "published_at": "2026-04-08T09:43:44+08:00"
             },
             {
-              "title": "Netflix《海贼王》真人剧第三季官宣明年回归",
-              "brief": "Netflix 正式宣布《海贼王》真人剧第三季阿拉巴斯坦篇将于 2027 年上线，并发布先导 PV。本季围绕沙漠王国阿拉巴斯坦展开，草帽一伙将面对王下七武海之一克洛克达尔及其组织巴洛克工作社的阴谋。根据第二季制作进度推测，去年 11 月开拍的第三季可能在明年下半年播出。",
-              "source_url": "https://www.ithome.com/0/936/754.htm",
+              "title": "数毛社评测《赛博朋克 2077》PS5 Pro 版：光追大幅提升但仍有局限",
+              "brief": "Digital Foundry 发布《赛博朋克 2077》PS5 Pro 版技术评测。更新新增三种性能模式，光追专业模式搭载光线追踪反射和环境光遮蔽，通过 PSSR 将 1440P 超分至 4K，画质较基础版 PS5 显著提升。不过光追反射仅出现在窗户和光滑车身上，其余场景仍依赖屏幕空间技术。光追模式目标 60 帧，性能模式搭配 VRR 可达 90 帧。评测认可整体提升但指出物体突然加载等老问题依然存在。",
+              "source_url": "https://www.ithome.com/0/936/800.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T23:40:45+08:00"
+              "published_at": "2026-04-08T09:41:28+08:00"
             },
             {
-              "title": "索尼测试 PS5 主页新 UI，支持 L1/R1 快速切换导航",
-              "brief": "索尼正在向 PS5 测试计划（Beta Program）用户推送新版系统主页 UI。新界面将 PS Store、游戏、游戏库等选项独立为顶部导航栏标签页，玩家可通过手柄 L1/R1 按键快速切换。整体设计比现行 UI 更加整洁易用。目前该更新仅限测试用户，预计未来一段时间内推送到正式版系统。",
-              "source_url": "https://www.ithome.com/0/936/753.htm",
+              "title": "振华推出全景曲面玻璃中塔机箱 M801，支持 E-ATX 主板",
+              "brief": "振华发布 M801 全景曲面玻璃中塔机箱，支持 E-ATX 主板和最长 425mm 显卡，兼容 ATX 电源和 165mm 高处理器散热器。前置预装 2 组 120mm 连体风扇，后置预装 120mm 风扇，顶部支持 280/360 冷排。I/O 面板提供灯控键、两个 USB-A 5Gbps、一个 USB-C 和音频接口。在台湾地区售价 1990 新台币（约合 429 元人民币）。",
+              "source_url": "https://www.ithome.com/0/936/799.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T23:19:12+08:00"
+              "published_at": "2026-04-08T09:37:45+08:00"
             },
             {
-              "title": "首款国产车规级 MCU 芯片 DF30 稳步推进量产上车",
-              "brief": "国内首颗实现全产业链国产化闭环的高性能车规级 MCU 芯片 DF30 正在稳步推进量产上车。该芯片基于自主开源 RISC-V 架构，是汽车 ECU（电子控制单元）的核心芯片，负责实时计算并输出控制指令驱动发动机。此前车规级 MCU 长期依赖进口，东风汽车表示不久后将实现 100% 自主可控的中国芯。",
-              "source_url": "https://www.ithome.com/0/936/752.htm",
+              "title": "工信部等十部门印发《人工智能科技伦理审查与服务办法》",
+              "brief": "工信部等十部门联合印发《人工智能科技伦理审查与服务办法（试行）》，针对人工智能科技活动建立伦理审查制度。办法涵盖一般程序、简易程序、专家复核程序和应急程序，重点围绕人类福祉、公平公正、可控可信、透明可解释等方面开展审查。需要专家复核的活动主要包括人机融合系统、具有舆论动员能力的算法模型和高度自主决策系统三类。办法与现行数据安全法等法规协同，违规将依法处罚。",
+              "source_url": "https://www.ithome.com/0/936/795.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T23:18:07+08:00"
+              "published_at": "2026-04-08T09:31:36+08:00"
             },
             {
-              "title": "曝《宝可梦：冠军》手游版 6 月上线，采用免费游玩内购模式",
-              "brief": "据爆料《宝可梦：冠军》手游版将于 6 月上线，采用免费游玩加道具内购的收费模式，宝可梦主要通过抽卡方式招募，每天可免费试玩招募一次。游戏支持段位对战和私人切磋，玩家可获得 VP 点数强化队伍。此外可通过宝可梦 Home 将 Switch 版作品中的宝可梦带入手游，涵盖主机端和移动端大多数现有宝可梦。",
-              "source_url": "https://www.ithome.com/0/936/751.htm",
+              "title": "Linux 打印系统 CUPS 爆出高危漏洞，可零点击提权至 root",
+              "brief": "Linux 打印系统 CUPS 被发现两个高危安全漏洞（CVE-2026-34980 和 CVE-2026-34990），攻击者可利用漏洞链从网络访问入手，以 root 权限写入任意文件甚至覆盖 sudoers.d 目录完全控制系统。前者源于打印任务属性处理缺陷可远程代码执行，后者在默认配置下即可被本地无特权用户利用获取管理令牌。截至 2026 年 4 月 5 日，虽然修复代码已存在，但官方最新版本 2.4.16 仍受影响，尚未发布修补版本。",
+              "source_url": "https://www.ithome.com/0/936/794.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-07T23:12:57+08:00"
+              "published_at": "2026-04-08T09:25:10+08:00"
             }
           ]
         }
