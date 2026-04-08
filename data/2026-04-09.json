@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T03:50:39.090315+08:00",
+  "generated_at": "2026-04-09T05:52:15.149441+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "报告称 iPhone 占据 2025 年第四季度全球畅销手机前十中的五席",
-              "brief": "Counterpoint Research 的最新统计显示，2025 年第四季度全球最畅销的 10 款智能手机中，有 5 款来自苹果，其中 iPhone 17 Pro Max 位居榜首，iPhone 17 和 iPhone 17 Pro 分列第二、第三。榜单其余席位主要由三星和小米占据。报告称，前十机型合计贡献了当季全球手机销量的 23%，仅 iPhone 17 Pro Max 一款就占到 5%，而 iPhone 16 则是全年唯一持续进入前十的 iPhone 机型。",
-              "source_url": "https://9to5mac.com/2026/04/08/report-iphones-accounted-for-half-of-the-top-10-best-selling-smartphones-in-q4-2025/",
+              "title": "苹果现已开售 MacBook Neo、iPhone 17e、Studio Display XDR 等官方维修零件",
+              "brief": "苹果更新自助维修商店，新增 MacBook Neo、iPhone 17e、iPad Air M4、MacBook Air M5、MacBook Pro M5、新款 Studio Display 和 Studio Display XDR 等产品的官方零件与工具。用户可购买或租用所需维修工具，并结合苹果提供的官方维修手册自行更换部件。可提供的零件覆盖 iPhone 17e 背板和扬声器，以及 Studio Display XDR 的外壳、风扇和主板等，MacBook Neo 也因较高可维修性而受到关注。",
+              "source_url": "https://9to5mac.com/2026/04/08/you-can-now-buy-official-repair-parts-for-macbook-neo-iphone-17e-studio-display-xdr-more/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-09T03:43:32+08:00"
+              "published_at": "2026-04-09T05:03:44+08:00"
             },
             {
-              "title": "Tubi 成为首个接入 ChatGPT 应用生态的流媒体服务",
-              "brief": "流媒体平台 Tubi 已在 ChatGPT 的应用商店上线，成为首个原生接入该生态的视频服务。用户安装后，可通过 @Tubi 用自然语言描述想看的内容，例如体育题材电影或特定情绪氛围，系统会返回 Tubi 库中的对应片单，并可直接跳转到网页端播放。Tubi 表示，这项整合希望把内容发现过程延伸到用户越来越常使用的 AI 对话场景中，让推荐和选片通过聊天完成。",
-              "source_url": "https://9to5mac.com/2026/04/08/chatgpt-just-added-its-first-streaming-video-app-heres-what-it-can-do/",
+              "title": "iOS 26.4.1 修复导致 iCloud 数据无法同步的 iPhone 漏洞",
+              "brief": "苹果发布 iOS 26.4.1，修复了 iOS 26.4 中影响 iCloud 数据同步的问题。此前开发者发现，运行 26.4 的 iPhone 无法接收 iCloud 变更通知，导致依赖 CloudKit 的应用无法及时同步数据，既影响第三方应用，也波及苹果自家的 Passwords 共享密码功能。开发者只能向苹果提交错误报告并等待系统修补。该问题同样存在于 iPadOS 26.4，但未影响 macOS Tahoe 26.4，升级到 iOS 26.4.1 后即可解决。",
+              "source_url": "https://9to5mac.com/2026/04/08/iphone-icloud-sync-bug-apple-passwords-fixed/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-09T03:20:54+08:00"
+              "published_at": "2026-04-09T04:56:29+08:00"
             },
             {
-              "title": "传 iPhone 18 Pro 将简化相机控制键功能",
-              "brief": "有关 iPhone 18 Pro 的爆料称，苹果可能会调整现有的 Camera Control 相机控制键，移除电容滑动等复杂交互，仅保留按压相关的核心功能。现有设计虽然支持缩放、曝光和风格切换等操作，但也因误触和学习成本引发争议。若传闻属实，苹果将在下一代机型上把这一按键收缩为更直接的相机启动与触发工具，尝试用更少的功能换取更稳定的使用体验。",
-              "source_url": "https://9to5mac.com/2026/04/08/iphone-18-pros-rumored-camera-feature-could-prove-that-less-is-more/",
+              "title": "iPadOS 26.4 为重度用户加入隐藏窗口提示功能",
+              "brief": "iPadOS 26.4 新增一项面向多窗口用户的提示功能。当用户启动某个已经打开多个窗口、且其中部分窗口处于隐藏状态的应用时，系统会弹出“X Hidden Windows”提示，并允许一键显示全部已打开窗口。提示会从应用图标位置展开，作用类似旧版 iPadOS 15 中的 Shelf 功能。随着 iPadOS 26 放宽多任务限制、支持任意数量窗口和自由缩放，这项新设计被用来帮助用户更快找回分散在后台的窗口。",
+              "source_url": "https://9to5mac.com/2026/04/08/ipados-26-4-adds-convenient-new-feature-for-ipad-power-users/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-09T03:19:54+08:00"
+              "published_at": "2026-04-09T04:45:04+08:00"
             },
             {
-              "title": "Overcast 更新加入播客逐字稿功能",
-              "brief": "播客应用 Overcast 发布 2026.04 版本更新，正式向所有用户开放逐字稿功能。用户在节目封面页左滑即可查看转录内容，若节目支持章节信息，逐字稿会显示在章节页旁侧，并随播放进度自动滚动。开发者 Marco Arment 表示，大多数播客都能提供该功能；对于暂无官方逐字稿的节目，支持 AI 的 iOS 26 设备也可以自动生成转录文本。后续路线图还包括逐字稿搜索、AI 摘要、自动章节与带字幕片段分享等功能。",
-              "source_url": "https://9to5mac.com/2026/04/08/overcast-launches-podcast-transcripts-in-new-app-update-for-iphone/",
+              "title": "iOS 26.4.1 面向 iPhone 用户发布，主打错误修复",
+              "brief": "苹果现已向 iPhone 用户推送 iOS 26.4.1，版本号为 23E254，可通过“设置—通用—软件更新”下载安装。官方更新说明非常简短，仅表示该版本为 iPhone 带来错误修复，并未列出详细变更。iOS 26.4 此前为 Apple Music、Apple Podcasts、提醒事项等加入了多项新功能，因此此次更新预计主要集中在修补相关问题。苹果安全更新页面目前也没有为 iOS 26.4.1 列出新的 CVE 条目。",
+              "source_url": "https://9to5mac.com/2026/04/08/ios-26-4-1-now-available-for-iphone-users/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-09T03:00:48+08:00"
+              "published_at": "2026-04-09T04:08:00+08:00"
             },
             {
-              "title": "Day One 推出 Gold 订阅，加入 AI 摘要与 Daily Chat",
-              "brief": "日记应用 Day One 调整订阅体系，将原有高级版更名为 Silver，并新增面向 AI 功能的 Gold 档位。Gold 年费 74.99 美元，提供 Daily Chat 对话式写日记、AI 深入追问、图片生成、条目摘要和标题建议等功能。官方称，Daily Chat 支持文字和语音输入，能结合用户过往对话内容生成符合原有语气和情绪的日记草稿。Day One 同时强调，这些新特性为可选项，内容仍保持端到端加密，未来也在探索更多本地 AI 方案。",
-              "source_url": "https://9to5mac.com/2026/04/08/day-one-journaling-app-introduces-gold-plan-with-ai-summaries-and-daily-chat/",
+              "title": "苹果翻新商店上架 M5 MacBook Pro，基础存储配置与新机不同",
+              "brief": "苹果已在翻新商店上架 M5 MacBook Pro，但该机型的基础存储配置与当前在售新机存在差异。14 英寸 M5 MacBook Pro 初发时为 512GB SSD、售价 1599 美元，上月苹果调整产品线后将起步存储提升到 1TB，起售价也升至 1699 美元。此次翻新版仍基于旧配置，512GB 版本优惠 240 美元后售价 1359 美元。相比之下，亚马逊在售的全新 1TB 版本价格为 1549 美元，提供更大容量。",
+              "source_url": "https://9to5mac.com/2026/04/08/discounted-m5-macbook-pro-hits-apple-refurb-store-with-key-storage-distinction/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-09T02:28:09+08:00"
+              "published_at": "2026-04-09T04:06:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "YouTube Shorts 将用 AI 生成与你外貌和声音相似的虚拟形象",
+              "brief": "YouTube 宣布为 Shorts 引入 AI 虚拟形象功能，用户可通过录制“实时自拍”完成面部与声音采集，系统随后生成可在短视频中使用的拟真分身。每次基于提示词生成的视频片段最长 8 秒，可连续创建多个片段，初次设置后也能随时重录更新外观。平台表示自拍视频和语音仅用于生成头像，其他人无法调用该分身创作新 Shorts。生成内容会带有水印、SynthID 与 C2PA 标签，并附带 AI 生成说明。",
+              "source_url": "https://9to5google.com/2026/04/08/youtube-shorts-ai-avatar/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-09T05:39:47+08:00"
+            },
+            {
+              "title": "Gemini 应用开始推送“笔记本”，用于整理聊天与文件",
+              "brief": "Google 正在为 Gemini 应用上线“笔记本”功能，把聊天记录、文件和其他资料集中到一个可复用的知识空间中，并与 NotebookLM 打通。侧边栏新增 Notebooks 区域，聊天菜单中也加入“添加到笔记本”选项，用户可将文件、云端硬盘内容、网页或粘贴文本汇总到同一笔记本，再基于这些来源继续向 Gemini 提问。系统支持开启或关闭笔记本记忆、添加回答风格说明，同时会把 Gemini 中的对话同步到 NotebookLM 作为来源使用。",
+              "source_url": "https://9to5google.com/2026/04/08/gemini-app-notebooks/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-09T05:09:52+08:00"
+            },
+            {
+              "title": "TCL NXTPAPER 70 Pro 发布：类纸屏幕配合 199 美元定价",
+              "brief": "TCL 推出售价 199 美元的 NXTPAPER 70 Pro，这款中端 Android 手机配备联发科 Dimensity 7300、8GB 内存、256GB 存储、6.9 英寸 120Hz IPS LCD 屏幕和 Android 16，并提供 5000 万像素主摄、800 万像素超广角和 3200 万像素前摄。设备还具备 IP68 防尘防水、5200mAh 电池、33W 有线充电及手写笔支持。其核心卖点是 NXTPAPER 类纸显示技术，采用哑光表面并加入低蓝光与防闪烁优化，目前在美国由 T-Mobile 和 Metro 独家销售。",
+              "source_url": "https://9to5google.com/2026/04/08/tcl-nxtpaper-70-pro-release-specs-price/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-09T03:30:00+08:00"
+            },
             {
               "title": "US Mobile 预告结合 Starlink 的手机与家庭网络套餐",
               "brief": "US Mobile CEO Ahmed Khattak 在 Reddit 透露，公司即将公布一项结合移动通信与家庭网络的混合套餐，当前阶段会接入 Starlink，并计划把服务范围覆盖美国、加拿大和墨西哥主要网络。方案还将配套可随身携带的小型 Starlink 天线，用于在偏远地区联网。帖子称该 Starlink 部分不会设置流量上限，整套订阅价格将低于每月 50 美元，但手机服务内容和具体定价结构仍待完整发布说明。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5toys.com/2026/04/08/android-app-deals-free-mega-man-x-ace-attorney/",
               "source_name": "9to5Google",
               "published_at": "2026-04-09T01:12:34+08:00"
-            },
-            {
-              "title": "美国消费者组织报告称 Pixel 在可维修性上领先苹果和三星",
-              "brief": "美国公共利益研究组织 US PIRG 发布《Failing the Fix 2026》报告，对美国四大手机品牌的可维修性进行排名，结果显示 Motorola 获得 B+，Google Pixel 为 C-，三星为 D，苹果为 D-。报告数据主要来自欧盟能源标签产品注册库，评分重点考察拆解难度，同时也纳入维修文档、备件供应和软件更新年限等因素。文章指出，Google 近年来持续提升设备维修友好度，例如让 Pixel Watch 4 首次支持完整维修，并为 Pixel Buds 2a 的充电盒加入可更换电池。",
-              "source_url": "https://9to5google.com/2026/04/08/google-pixel-repairability-iphone-samsung-report/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-09T00:45:00+08:00"
-            },
-            {
-              "title": "三星将于 4 月 10 日在美国再次补货 Galaxy Z TriFold",
-              "brief": "三星宣布将于 4 月 10 日在美国官网和部分 Samsung Experience 门店重新发售 Galaxy Z TriFold，此前该机在 1 月上市后曾多次迅速售罄，并一度被视为即将停售。官网页面已更新补货倒计时，指向美国东部时间 4 月 10 日上午 9 点开售。除线上渠道外，洛杉矶、明尼苏达、纽约、休斯敦和得州等地的指定体验店也会同步上架。报道提到，这可能会是三星最后一次直接销售这款机型。",
-              "source_url": "https://9to5google.com/2026/04/08/samsung-galaxy-z-trifold-restock-us/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-09T00:16:00+08:00"
-            },
-            {
-              "title": "摩托罗拉在新机发布后上调美国 Moto G 系列售价",
-              "brief": "摩托罗拉在新款 Moto G Stylus 公布后，随即上调了美国市场多款既有 Moto G 机型的价格，其中 Moto G 与 Moto G Power 均上涨 100 美元，Moto G Play 上涨 70 美元。调整后，Moto G Play 从 179 美元升至 249 美元，Moto G 从 199 美元升至 299 美元，Moto G Power 则从 299 美元升至 399 美元。报道指出，厂商尚未说明原因，但文中提到存储器件成本上涨、整机制造费用增加，可能是此次调价的背景。",
-              "source_url": "https://9to5google.com/2026/04/08/motorola-increases-moto-g-pricing/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-08T23:59:13+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "LinkedIn 扫描用户浏览器扩展引发争议并遭两起诉讼",
+              "brief": "LinkedIn 因扫描用户浏览器扩展程序信息而在美国加州北区联邦法院遭遇两起集体诉讼。起诉方认为，平台会在 Chrome 及其他基于 Chromium 的浏览器中识别用户安装的扩展，但对这一行为的披露和用途说明不足。LinkedIn 承认会进行扫描，不过称此举是为了识别未经同意抓取用户数据、违反服务条款的扩展程序。争议还牵涉发布 BrowserGate 报告的 Fairlinked 及曾因抓取数据被封禁账号的 Teamfluence。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-09T05:08:06+08:00"
+            },
+            {
+              "title": "与伊朗有关的黑客干扰美国关键基础设施站点运行",
+              "brief": "美国 FBI、CISA、NSA、EPA、能源部和美国网络司令部联合发布警告，称自 2026 年 3 月以来，与伊朗有关的高级持续威胁组织已在多个美国关键基础设施站点干扰 PLC 可编程逻辑控制器运行，受影响领域包括政府设施、污水处理和能源系统。相关机构表示，部分受害单位已经出现运营中断和经济损失。被针对的设备包括 Rockwell Automation 旗下 Allen-Bradley PLC，安全公司 Censys 还发现有 5219 台相关设备暴露在互联网上。",
+              "source_url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-09T04:49:11+08:00"
+            },
+            {
+              "title": "Meta 超级智能实验室发布首个公开模型 Muse Spark",
+              "brief": "Meta 宣布推出 Muse 系列首个模型 Muse Spark，这也是成立不足一年的 Superintelligence Labs 首次对外发布成果。Meta 将其称为对既有 AI 路线的“从头重构”，并强调它与此前开源的 Llama 系列形成明显区隔。Muse Spark 为专有模型，但扎克伯格表示未来 Muse 家族仍会包含新的开源模型。Meta 还计划让模型利用 Instagram、Facebook 和 Threads 上的公开内容，为地点和热点话题问题提供带引用的回答，并在后续加入更多基于用户分享内容的功能。",
+              "source_url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-09T03:59:10+08:00"
+            },
+            {
+              "title": "数字设备正在让我们的隐私权面临风险",
+              "brief": "乔治·华盛顿大学法学教授 Andrew Guthrie Ferguson 在新书《Your Data Will Be Used Against You》中讨论了数字设备如何让个人隐私更容易被执法系统调用。报道指出，导航、健身追踪、智能家居和家庭安防设备在带来便利的同时，也持续生成大量私人数据，而法律对警方和检方何时、如何获取并使用这些数据仍缺乏清晰边界。Ferguson 将这种现象称为“自我监控”，认为人们日常制造的数据正在扩大被调查和定罪时可被引用的信息范围。",
+              "source_url": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-09T03:17:30+08:00"
+            },
+            {
               "title": "摩托罗拉多款入门手机突然涨价，最高上调 50%",
               "brief": "摩托罗拉在没有预告的情况下上调了 2026 款 Moto G 系列多款机型售价。原本 180 美元的 Moto G Play 现报 250 美元，200 美元的 Moto G 涨至 300 美元，Moto G Power 也从 300 美元升至 400 美元，涨幅分别达到 38%、50% 和 33%。此前刚发布的 Moto G Stylus 2026 也比上代贵出 100 美元。报道认为，这轮涨价与持续中的存储与内存芯片短缺密切相关，反映出手机硬件成本仍在承压。",
               "source_url": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-09T02:39:08+08:00"
-            },
-            {
-              "title": "马斯克修改对 OpenAI 的诉讼请求，称赔偿将归还其非营利机构",
-              "brief": "埃隆·马斯克已修改针对 OpenAI 及其首席执行官萨姆·奥特曼的诉讼请求，明确表示若法院认定存在不当收益，追回的资金应返还给 OpenAI 的慈善非营利机构，而非归马斯克个人所有。马斯克律师称，他不会为自己索取任何赔偿，而是要求把从公共慈善机构中被拿走的利益归还原处。此举发生在法官质疑其赔偿计算方式之后，先前马斯克一方曾援引专家估算，认为相关不当收益可能接近 1340 亿美元。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-09T01:37:06+08:00"
-            },
-            {
-              "title": "伊朗要求经过霍尔木兹海峡的油轮以加密货币支付通行费",
-              "brief": "伊朗方面表示，在为期两周的停火期间，经过霍尔木兹海峡的油轮将被要求支付加密货币形式的通行费，并申报所载货物，以便评估费用和实施检查。伊朗石油、天然气和石化产品出口商联盟发言人称，此举旨在监控海峡进出船只，防止利用停火期转运武器。相关表态还暗示，船只可能需要靠近伊朗海岸北侧航道通行；而在当天稍晚，伊朗又宣布暂停油轮穿越海峡，以回应以色列对黎巴嫩的打击。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-09T01:25:34+08:00"
-            },
-            {
-              "title": "Steam 客户端文件显示 Valve 或在开发帧率预估功能",
-              "brief": "最新 Steam 客户端更新中的 JSON 文本显示，Valve 可能正在准备一项“帧率预估器”功能，用于根据其他 Steam 用户上传的数据，给出特定硬件配置下的游戏预计帧率。相关描述写明，用户可选择某款应用以及 CPU、GPU 和内存等 PC 配置，查看对应的帧率图表，并同时看到用于训练估算结果的匹配数据条目数量。这项功能建立在 Valve 今年 2 月开始收集匿名帧率与硬件信息的基础上，目前尚未正式发布。",
-              "source_url": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-08T23:37:04+08:00"
-            },
-            {
-              "title": "亚马逊将从 5 月起停止老款 Kindle 访问 Kindle 商店",
-              "brief": "亚马逊已通知部分 Kindle 用户，自 5 月 20 日起，所有 2012 年及更早推出的 Kindle 设备将无法再从 Kindle 商店购买或下载电子书，受影响范围最早可追溯到 2007 年初代 Kindle。已下载到设备中的图书仍可继续阅读，但这些设备之后不能再获取新书；如果恢复出厂设置，也将无法重新登录亚马逊账户。公告列出的机型包括 Kindle 1、2 代、DX、Kindle Keyboard、Kindle 4、Kindle Touch、Kindle 5 和初代 Kindle Paperwhite 等。",
-              "source_url": "https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-08T23:26:57+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Galaxy S25 Ultra 获得独特的水下拍摄模式",
+              "brief": "三星正把 Ocean Mode 下放到 Galaxy S25 Ultra。这个水下摄影模式最早在 2025 年为 Galaxy S24 Ultra 推出，目的是帮助海洋学家进行珊瑚礁修复记录，后来才在 Galaxy S26 Ultra 上面向更广泛用户开放。如今只要设备运行 One UI 8.5 Beta，并更新 Expert RAW 应用，S25 Ultra 用户也能获得这一专门针对水下环境优化的拍摄功能。",
+              "source_url": "https://www.androidauthority.com/galaxy-s25-ultra-ocean-mode-3655993/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-09T05:16:36+08:00"
+            },
+            {
+              "title": "苹果 MacBook Air M5 13 英寸和 15 英寸现均降价 150 美元",
+              "brief": "苹果最新一代 MacBook Air M5 正在亚马逊迎来上市后不久的低价促销，其中 13 英寸 16GB+512GB 版本降至 949 美元，15 英寸同配置降至 1149 美元。报道指出，这批机型 3 月 11 日才刚发布，短时间内就出现 150 美元优惠并不常见。活动覆盖大多数配色，仅银色版本比其他颜色贵 0.99 美元。",
+              "source_url": "https://www.androidauthority.com/apple-macbook-air-m5-deal-2-3655945/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-09T04:13:32+08:00"
+            },
+            {
+              "title": "Gmail 目前出现邮件收发延迟",
+              "brief": "Google 已确认 Gmail 正遭遇服务异常，部分用户发送和接收邮件会出现明显延迟。根据 Google Workspace 状态页，这次问题并非完全宕机，而是影响消息投递速度，因此未必像全面停机那样引发大量外部报警。Google 表示已知悉故障并正在修复，但目前尚未给出明确的恢复时间表。",
+              "source_url": "https://www.androidauthority.com/gmail-service-disruption-3655971/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-09T04:05:04+08:00"
+            },
             {
               "title": "Apple Watch Ultra 3 在亚马逊降至今年新低价",
               "brief": "Android Authority 报道称，Apple Watch Ultra 3 目前在亚马逊开启限时优惠，部分配色售价降至 699.99 美元，较原价便宜 99.01 美元，创下该型号 2026 年以来的最低价。文章指出，这款手表采用钛金属机身，屏幕亮度可达 3000 尼特，并提供 ECG、血氧、睡眠追踪、心率监测、碰撞检测与紧急求救等健康和安全功能，同时具备 100 米防水能力和最长 42 小时续航。",
@@ -181,33 +202,19 @@
               "source_url": "https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/",
               "source_name": "Android Authority",
               "published_at": "2026-04-09T03:05:07+08:00"
-            },
-            {
-              "title": "Anker SOLIX C300 便携电站限时降至 229.99 美元",
-              "brief": "Anker SOLIX C300 便携式储能电源正在亚马逊参加 Lightning Deal 限时促销，售价降至 229.99 美元，比原价便宜 69.01 美元。文章提到，这款设备容量为 288Wh，持续输出功率 300W、峰值可达 600W，机身尺寸约为 6.5×6.3×9.5 英寸，重量 9.1 磅，定位为小型但功能完整的户外与应急电源。它配备 3 个标准交流插座和多个 USB-C 接口，可为手机、平板、笔记本乃至小型家电供电。",
-              "source_url": "https://www.androidauthority.com/anker-solix-c300-portable-power-station-deal-2-3655947/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-09T02:22:14+08:00"
-            },
-            {
-              "title": "Google Maps 或将加入基于 Gemini 的“Tell Maps”投稿工具",
-              "brief": "在 Google Maps for Android 26.15.01.894202351 测试版中，Android Authority 发现了一项名为“Tell Maps”的新功能迹象。该功能似乎会以类似聊天机器人的界面帮助用户向地图提交地点更新、补充信息或发帖内容，并以“Post and update with AI”的入口出现。此前谷歌已宣布利用 Gemini 协助用户为上传到 Maps 的照片生成说明文字，而这项新工具则进一步把 AI 扩展到整个贡献流程，目的是降低普通用户参与地图内容维护的门槛。",
-              "source_url": "https://www.androidauthority.com/tell-maps-gemini-3655906/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-09T02:05:13+08:00"
-            },
-            {
-              "title": "三星将于 4 月 10 日再次发售 Galaxy Z TriFold",
-              "brief": "三星确认 Galaxy Z TriFold 将于 2026 年 4 月 10 日重新开售，消费者可通过三星官网或指定 Samsung Experience Store 购买这款三折叠手机。该机在美国 1 月底上市后，由于库存有限且需求高于预期，几次补货都很快售罄，随后一度被认为已接近停售。此次恢复销售的渠道包括官网以及位于加州、明尼苏达州、纽约州和得州等地的多家体验店，文章同时再次提到该机定价高达 2899 美元。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-trifold-returns-3655898/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-09T01:10:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "DoorDash 与 Wing 扩大无人机送餐合作，新增亚特兰大地区",
+              "brief": "DoorDash 与 Alphabet 旗下无人机配送公司 Wing 宣布把合作范围扩展到亚特兰大都会区。靠近 Tanger Outlets Locust Grove 的符合条件用户，现在可在 DoorDash 上下单并选择无人机配送，官方称最快 20 分钟即可送达。首批支持的餐厅包括 Molinos Mexican Grill、Koji Japanese Steakhouse 和 Sabrosos Mexican Restaurant，能否使用服务仍取决于订单重量、体积以及收货地址是否在飞行范围内。",
+              "source_url": "https://www.engadget.com/transportation/doordash-and-wing-are-expanding-their-drone-delivery-partnership-to-atlanta-201133191.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-09T04:11:33+08:00"
+            },
             {
               "title": "Xbox 将允许玩家隐藏成就列表中的游戏",
               "brief": "微软正通过 Xbox Insiders 预览计划测试一项新功能，让用户可以把部分游戏从个人成就列表中隐藏，无论这些游戏是否已经完成。被隐藏的作品仍会计入 Gamerscore，总分不会受影响，但玩家可以更自由地整理公开档案。与此同时，微软还在调整成就系统的视觉呈现，包括新的动画和通知样式，并为已拿满全部成就的游戏提供更醒目的标记与筛选能力。官方称，隐藏游戏一直是预览用户呼声最高的功能之一。",
@@ -235,6 +242,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "OpenAI 提出经济政策建议后，华盛顿方面给出回应",
+              "brief": "The Verge 的华盛顿专栏把焦点放在 OpenAI 提交的一系列经济政策建议，以及这些提议在美国首都监管与政治圈引发的即时反应。文章由长期报道科技游说与政府关系的记者 Tina Nguyen 撰写，延续其对 AI 政策、第二任特朗普政府和大型科技公司博弈的关注，试图梳理 OpenAI 在政策层面的主张及 DC 内部的看法。",
+              "source_url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+              "source_name": "The Verge",
+              "published_at": "2026-04-08T16:14:00-04:00"
+            },
+            {
               "title": "The Verge 重新理解 iPhone Air：它更像一台模块化手机",
               "brief": "The Verge 在一篇体验文章中重新评价了 iPhone Air，认为这款设备的真正使用逻辑并不在于单机能力，而在于围绕 MagSafe 配件与第二台手机形成的“模块化”组合。作者最初对 iPhone Air 持保留态度，但在看到用户把它与另一部更强的手机搭配使用后，开始意识到其超轻薄设计与外接配件策略的意义：它并非追求面面俱到，而是以牺牲部分能力换取体积和重量优势，再通过钱包、电池等附件补足场景需求。",
               "source_url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
@@ -261,13 +275,6 @@
               "source_url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
               "source_name": "The Verge",
               "published_at": "2026-04-08T12:56:43-04:00"
-            },
-            {
-              "title": "Meta 以新模型 Muse Spark 重返 AI 竞争",
-              "brief": "Meta Superintelligence Labs 推出首个模型 Muse Spark，并已在美国上线 Meta AI 应用与网站。公司表示，未来几周该模型还会扩展到 WhatsApp、Instagram、Facebook、Messenger 以及 Meta 智能眼镜，并逐步覆盖更多国家。Meta 将其描述为专门为自家产品打造的模型，同时会通过私有预览 API 向部分合作伙伴开放。文章提到，Muse Spark 支持调度多个 AI 子代理协作处理请求，目标是在 Meta 的产品体系内提升回答速度与任务处理能力。",
-              "source_url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-              "source_name": "The Verge",
-              "published_at": "2026-04-08T12:12:54-04:00"
             }
           ]
         }
@@ -325,6 +332,18 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1557102.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-09T02:34:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "苹果发布 iOS / iPadOS 26.4.1 正式版",
+              "brief": "苹果现已推送 iOS / iPadOS 26.4.1 正式版，IT之家称后续会继续补充具体更新内容。现阶段页面主要整理了 iOS 26 系列从 2025 年 9 月至 2026 年 4 月的版本发布时间线，包括 iOS 26 正式版、多个 Beta、RC，以及最近的 iOS 26.5 Beta 1（v2）和 26.4 正式版，方便用户对照当前系统所处的更新节奏。",
+              "source_url": "https://www.ithome.com/0/937/204.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-09T04:30:10+08:00"
             }
           ]
         }
