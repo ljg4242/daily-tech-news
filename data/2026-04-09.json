@@ -1,6 +1,6 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T05:52:15.149441+08:00",
+  "generated_at": "2026-04-09T07:50:04.972722+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,66 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果发布 Safari Technology Preview 241，修复多项网页引擎问题",
+              "brief": "苹果发布 Safari Technology Preview 241，这是面向未来正式版 Safari 的实验性浏览器更新。新版本集中修复和改进了辅助功能、动画、CSS、Canvas、表单、HTML、图像、JavaScript、媒体、网络、渲染、Web API、WebRTC 等多个模块，可在 macOS Sequoia 与 macOS Tahoe 上安装，并继续通过系统软件更新向已下载用户推送。",
+              "source_url": "https://www.macrumors.com/2026/04/08/apple-releases-safari-technology-preview-241/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-09T06:05:43+08:00"
+            },
+            {
+              "title": "苹果美国与澳大利亚两家直营店即将临时关闭",
+              "brief": "苹果宣布位于美国加州 Rancho Cucamonga 的 Apple Victoria Gardens 将自 4 月 11 日晚起因翻新临时停业，秋季恢复营业，期间会在商场内启用临时门店接待顾客。澳大利亚布里斯班附近的 Apple Chermside 也将从 4 月 29 日起暂停营业，苹果暂未说明具体原因，外界预计同样与门店升级改造有关。",
+              "source_url": "https://www.macrumors.com/2026/04/08/two-apple-stores-temporarily-closing/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-09T05:56:21+08:00"
+            },
+            {
+              "title": "苹果发布 iOS 26.4.1 与 iPadOS 26.4.1，小版本更新聚焦修复",
+              "brief": "苹果正式推送 iOS 26.4.1 和 iPadOS 26.4.1，距离 26.4 上线约两周。此次更新的构建号为 23E254，官方说明仅提到包含未具体展开的错误修复，未列出新的安全修补内容。符合条件的 iPhone 和 iPad 用户可通过“设置—通用—软件更新”下载安装，苹果同时仍在测试后续版本 iOS 26.5 与 iPadOS 26.5。",
+              "source_url": "https://www.macrumors.com/2026/04/08/apple-releases-ios-26-4-1/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-09T04:09:27+08:00"
+            },
+            {
+              "title": "苹果加入 Anthropic 安全计划，拟用 AI 排查系统与浏览器漏洞",
+              "brief": "Anthropic 公布名为 Project Glasswing 的新计划，允许少数合作伙伴使用其未公开的 Mythos Preview 模型查找并修复操作系统和浏览器中的安全漏洞。Anthropic 表示该模型已发现数千个零日漏洞，首批合作方包括苹果、谷歌、微软、英伟达等公司。苹果预计会把它用于 Safari 以及 iOS、macOS、watchOS、tvOS、visionOS 等平台的防御性安全工作。",
+              "source_url": "https://www.macrumors.com/2026/04/08/apple-anthropic-project-glasswing/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-09T04:00:00+08:00"
+            },
+            {
               "title": "折叠屏 iPhone Ultra 价格区间曝光",
               "brief": "彭博记者马克·古尔曼称，苹果计划在 9 月发布传闻已久的折叠屏 iPhone，产品名可能为 iPhone Ultra，在美国售价预计将突破 2000 美元门槛。按现有高存储版本定价推算，顶配机型甚至可能接近 2800 美元，成为迄今最贵的 iPhone。现有爆料还提到，这款新机采用书本式内折方案，配备 7.7 英寸内屏和 5.3 英寸外屏，后置双摄、前置单摄，并改用集成 Touch ID 的电源键。",
               "source_url": "https://www.macrumors.com/2026/04/08/iphone-ultra-price-range-revealed/",
               "source_name": "MacRumors",
               "published_at": "2026-04-09T02:30:28+08:00"
-            },
-            {
-              "title": "Woot 再次大幅折扣出售 Apple Watch Solo Loop 表带",
-              "brief": "Woot 本周再次推出 Apple Watch Solo Loop 与 Braided Solo Loop 表带促销，价格分别降至 14.99 美元和 29.99 美元，达到此前同类活动的低点。此次销售的商品均为全新，并附带一年 Apple 有限保修。活动主要覆盖苹果已停售的旧配色，提供 1 到 12 号多种尺寸，但不同尺码下的颜色与款式库存并不一致。",
-              "source_url": "https://www.macrumors.com/2026/04/08/woots-apple-watch-band-sale-4/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-09T01:41:20+08:00"
-            },
-            {
-              "title": "Astropad 推出面向 AI 工作流的 Mac 远程桌面应用 Workbench",
-              "brief": "Astropad 发布新应用 Workbench，可让用户通过 iPhone 和 iPad 远程控制 Mac，并查看、重连或重启正在运行的 AI 任务。该应用提供 Mac、iPhone 与 iPad 原生版本，主打随时监控个人 AI 代理。它支持高保真低延迟串流、语音转文字输入、手势与键鼠控制，并提供统一虚拟显示和 AES-256 加密。免费版每天可使用 20 分钟，付费版为每月 10 美元或每年 50 美元。",
-              "source_url": "https://www.macrumors.com/2026/04/08/astropad-workbench-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-09T01:20:57+08:00"
-            },
-            {
-              "title": "报道称 iPhone Air 2、iPhone 18e 和标准版 iPhone 18 将于明年春季发布",
-              "brief": "彭博社记者 Mark Gurman 称，苹果计划在 2027 年春季发布 iPhone Air 2、iPhone 18e 和标准版 iPhone 18，发布时间预计落在明年 3 月或 4 月。现有多份报道已提到苹果将改为春秋两次分批发布 iPhone，这次消息进一步明确了 Air 2 的时间点。报道还称，iPhone 18e 与 iPhone 18 可能主要升级为 A20 芯片，而下一代 Air 预计将加入第二颗后摄、更大电池和均热板散热。",
-              "source_url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-09T00:38:45+08:00"
-            },
-            {
-              "title": "2024 款 iPad mini 与 2026 款 iPad Air 选购差异汇总",
-              "brief": "苹果今年推出搭载 M4 的第八代 iPad Air，而第七代 iPad mini 发布于 2024 年，两者起售价仅相差 100 美元，因此形成直接对比。新款 iPad Air 延续去年的设计，新增更大统一内存、N1 无线芯片、Wi‑Fi 7、蓝牙 6 和 C1X 调制解调器；iPad mini 则配备 A17 Pro、8GB 内存，并支持 Apple Pencil Pro。两者在外观和功能上相近，主要差异集中在屏幕尺寸、重量与芯片性能定位。",
-              "source_url": "https://www.macrumors.com/guide/2024-ipad-mini-vs-2026-ipad-air/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-09T00:22:22+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果在反垄断诉讼取证阶段，向韩国三星索取内部业务资料",
+              "brief": "在美国司法部针对苹果的反垄断诉讼进入证据交换阶段后，苹果请求法院依据《海牙取证公约》向韩国三星电子发出正式司法协助函，要求提供其智能手机、智能手表和应用商店业务的内部报告、市场分析与经营数据。此前三星美国子公司已拒绝提交相关材料，称文件仅由韩国母公司掌握，苹果因此转向跨境取证程序继续推进举证。",
+              "source_url": "https://9to5mac.com/2026/04/08/apple-seeks-internal-data-from-samsung-in-south-korea-in-ongoing-antitrust-case/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-09T07:37:50+08:00"
+            },
+            {
+              "title": "iOS 26.4.1 默认启用企业设备“失窃设备保护”",
+              "brief": "苹果更新企业支持文档，确认升级到 iOS 26.4.1 和 iPadOS 26.4.1 后，企业管理设备也会默认开启“失窃设备保护”。这项功能此前已先在普通消费级设备上默认启用，当设备离开常用地点时，会要求 Face ID 或 Touch ID 执行密码、账户等敏感操作，并对部分高风险改动增加一小时安全延迟，以降低失窃后被他人接管的风险。",
+              "source_url": "https://9to5mac.com/2026/04/08/stolen-device-protection-now-enabled-by-default-for-enterprise-devices-in-ios-26-4-1/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-09T07:11:32+08:00"
+            },
+            {
+              "title": "欧洲最大苹果博物馆在荷兰乌得勒支向公众开放",
+              "brief": "位于荷兰乌得勒支的新 Apple Museum 已于 4 月 2 日正式开放，对外展示超过 2.1 万平方英尺的苹果相关收藏。据介绍，这里汇集了全球规模最大的苹果藏品之一，馆内设有多个主题空间，并复原了乔布斯父母家车库等经典场景，同时也回顾了乔布斯离开苹果后在 NeXT 的经历。博物馆由基金会与 50 多名志愿者共同策划搭建。",
+              "source_url": "https://9to5mac.com/2026/04/08/europes-largest-apple-museum-opens-to-the-public-in-the-netherlands/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-09T06:25:08+08:00"
+            },
             {
               "title": "苹果现已开售 MacBook Neo、iPhone 17e、Studio Display XDR 等官方维修零件",
               "brief": "苹果更新自助维修商店，新增 MacBook Neo、iPhone 17e、iPad Air M4、MacBook Air M5、MacBook Pro M5、新款 Studio Display 和 Studio Display XDR 等产品的官方零件与工具。用户可购买或租用所需维修工具，并结合苹果提供的官方维修手册自行更换部件。可提供的零件覆盖 iPhone 17e 背板和扬声器，以及 Studio Display XDR 的外壳、风扇和主板等，MacBook Neo 也因较高可维修性而受到关注。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/04/08/iphone-icloud-sync-bug-apple-passwords-fixed/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-09T04:56:29+08:00"
-            },
-            {
-              "title": "iPadOS 26.4 为重度用户加入隐藏窗口提示功能",
-              "brief": "iPadOS 26.4 新增一项面向多窗口用户的提示功能。当用户启动某个已经打开多个窗口、且其中部分窗口处于隐藏状态的应用时，系统会弹出“X Hidden Windows”提示，并允许一键显示全部已打开窗口。提示会从应用图标位置展开，作用类似旧版 iPadOS 15 中的 Shelf 功能。随着 iPadOS 26 放宽多任务限制、支持任意数量窗口和自由缩放，这项新设计被用来帮助用户更快找回分散在后台的窗口。",
-              "source_url": "https://9to5mac.com/2026/04/08/ipados-26-4-adds-convenient-new-feature-for-ipad-power-users/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-09T04:45:04+08:00"
-            },
-            {
-              "title": "iOS 26.4.1 面向 iPhone 用户发布，主打错误修复",
-              "brief": "苹果现已向 iPhone 用户推送 iOS 26.4.1，版本号为 23E254，可通过“设置—通用—软件更新”下载安装。官方更新说明非常简短，仅表示该版本为 iPhone 带来错误修复，并未列出详细变更。iOS 26.4 此前为 Apple Music、Apple Podcasts、提醒事项等加入了多项新功能，因此此次更新预计主要集中在修补相关问题。苹果安全更新页面目前也没有为 iOS 26.4.1 列出新的 CVE 条目。",
-              "source_url": "https://9to5mac.com/2026/04/08/ios-26-4-1-now-available-for-iphone-users/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-09T04:08:00+08:00"
-            },
-            {
-              "title": "苹果翻新商店上架 M5 MacBook Pro，基础存储配置与新机不同",
-              "brief": "苹果已在翻新商店上架 M5 MacBook Pro，但该机型的基础存储配置与当前在售新机存在差异。14 英寸 M5 MacBook Pro 初发时为 512GB SSD、售价 1599 美元，上月苹果调整产品线后将起步存储提升到 1TB，起售价也升至 1699 美元。此次翻新版仍基于旧配置，512GB 版本优惠 240 美元后售价 1359 美元。相比之下，亚马逊在售的全新 1TB 版本价格为 1549 美元，提供更大容量。",
-              "source_url": "https://9to5mac.com/2026/04/08/discounted-m5-macbook-pro-hits-apple-refurb-store-with-key-storage-distinction/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-09T04:06:00+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "特朗普政府拟要求保险公司上交联邦雇员详细医疗记录",
+              "brief": "美国人事管理局被曝计划要求 65 家保险公司按月提交联邦雇员、退休人员及其家属的详细医疗数据，范围可能覆盖诊断信息、处方、就诊记录、医生备注、治疗方案和费用数据，涉及人数超过 800 万。该机构称此举是为监督福利计划并确保保险方案具备竞争力与可负担性，但法律和医疗政策专家认为说明过于模糊，已对隐私与合规风险提出强烈质疑。",
+              "source_url": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-09T06:00:11+08:00"
+            },
+            {
               "title": "LinkedIn 扫描用户浏览器扩展引发争议并遭两起诉讼",
               "brief": "LinkedIn 因扫描用户浏览器扩展程序信息而在美国加州北区联邦法院遭遇两起集体诉讼。起诉方认为，平台会在 Chrome 及其他基于 Chromium 的浏览器中识别用户安装的扩展，但对这一行为的披露和用途说明不足。LinkedIn 承认会进行扫描，不过称此举是为了识别未经同意抓取用户数据、违反服务条款的扩展程序。争议还牵涉发布 BrowserGate 报告的 Fairlinked 及曾因抓取数据被封禁账号的 Teamfluence。",
               "source_url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
@@ -155,19 +162,19 @@
               "source_url": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-09T03:17:30+08:00"
-            },
-            {
-              "title": "摩托罗拉多款入门手机突然涨价，最高上调 50%",
-              "brief": "摩托罗拉在没有预告的情况下上调了 2026 款 Moto G 系列多款机型售价。原本 180 美元的 Moto G Play 现报 250 美元，200 美元的 Moto G 涨至 300 美元，Moto G Power 也从 300 美元升至 400 美元，涨幅分别达到 38%、50% 和 33%。此前刚发布的 Moto G Stylus 2026 也比上代贵出 100 美元。报道认为，这轮涨价与持续中的存储与内存芯片短缺密切相关，反映出手机硬件成本仍在承压。",
-              "source_url": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-09T02:39:08+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "初代 AirTag 四件套降至 59.99 美元，二代发布后旧款继续清仓",
+              "brief": "在第二代 AirTag 已经上市后，百思买目前将初代 AirTag 四件套降价至 59.99 美元，较原价便宜 39.01 美元。报道认为，新一代虽然带来更强的 U2 芯片、更响的扬声器和改进的蓝牙连接，但整体使用方式与上一代差异不大。借助苹果“查找”网络和超宽带定位能力，初代产品依然能够完成物品追踪与近距离精确查找，因此当前折扣凸显其性价比。",
+              "source_url": "https://www.androidauthority.com/apple-airtag-4-pack-deal-17-3655944/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-09T07:08:14+08:00"
+            },
             {
               "title": "Galaxy S25 Ultra 获得独特的水下拍摄模式",
               "brief": "三星正把 Ocean Mode 下放到 Galaxy S25 Ultra。这个水下摄影模式最早在 2025 年为 Galaxy S24 Ultra 推出，目的是帮助海洋学家进行珊瑚礁修复记录，后来才在 Galaxy S26 Ultra 上面向更广泛用户开放。如今只要设备运行 One UI 8.5 Beta，并更新 Expert RAW 应用，S25 Ultra 用户也能获得这一专门针对水下环境优化的拍摄功能。",
@@ -195,19 +202,19 @@
               "source_url": "https://www.androidauthority.com/apple-watch-ultra-3-deal-3655946/",
               "source_name": "Android Authority",
               "published_at": "2026-04-09T03:17:13+08:00"
-            },
-            {
-              "title": "摩托罗拉多款 2026 款 Moto G 手机集体涨价",
-              "brief": "摩托罗拉已悄悄上调多款主打性价比的 2026 款手机价格。根据官网最新标价，Moto G Play 由 179.99 美元涨到 249.99 美元，Moto G 由 199.99 美元涨到 299.99 美元，Moto G Power 也从 299.99 美元上调至 399.99 美元。报道认为，这轮涨价很可能与持续中的内存芯片短缺有关，相关压力未来也可能波及摩托罗拉后续的折叠屏产品。",
-              "source_url": "https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-09T03:05:07+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星 Galaxy Z TriFold 将于本周五在美国迎来最后一批发售",
+              "brief": "Engadget 援引 Android Police 报道称，三星计划在 4 月 10 日向美国市场补充最后一批 Galaxy Z TriFold 库存，这款售价接近 3000 美元的三折叠手机此前上市仅三个月便已停产。报道提到，三星似乎正在清理剩余库存。虽然这款产品在 CES 2026 的上手体验中展现出较好的体积与重量平衡，但复杂结构和高售价让它并未被规划为大规模长期销售机型。",
+              "source_url": "https://www.engadget.com/mobile/smartphones/youll-have-one-more-chance-to-buy-samsungs-pricey-galaxy-z-trifold-this-friday-225222969.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-09T06:52:22+08:00"
+            },
             {
               "title": "DoorDash 与 Wing 扩大无人机送餐合作，新增亚特兰大地区",
               "brief": "DoorDash 与 Alphabet 旗下无人机配送公司 Wing 宣布把合作范围扩展到亚特兰大都会区。靠近 Tanger Outlets Locust Grove 的符合条件用户，现在可在 DoorDash 上下单并选择无人机配送，官方称最快 20 分钟即可送达。首批支持的餐厅包括 Molinos Mexican Grill、Koji Japanese Steakhouse 和 Sabrosos Mexican Restaurant，能否使用服务仍取决于订单重量、体积以及收货地址是否在飞行范围内。",
@@ -339,11 +346,79 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果发布 iOS / iPadOS 26.4.1 正式版",
-              "brief": "苹果现已推送 iOS / iPadOS 26.4.1 正式版，IT之家称后续会继续补充具体更新内容。现阶段页面主要整理了 iOS 26 系列从 2025 年 9 月至 2026 年 4 月的版本发布时间线，包括 iOS 26 正式版、多个 Beta、RC，以及最近的 iOS 26.5 Beta 1（v2）和 26.4 正式版，方便用户对照当前系统所处的更新节奏。",
-              "source_url": "https://www.ithome.com/0/937/204.htm",
+              "title": "微软修复 Win11 23H2 搜索无结果或空白显示问题",
+              "brief": "微软确认，Windows 11 23H2 此前因服务器端 Bing 更新引发的搜索异常正在通过逐步推送的方式修复。该更新原本用于优化搜索性能，却导致部分用户在系统搜索中遇到无响应或仅显示空白结果的问题。微软称受影响用户数量有限，设备只要保持联网且未通过组策略禁用 Web 搜索，就会自动收到并应用此次修复，无需手动执行复杂操作。",
+              "source_url": "https://www.ithome.com/0/937/219.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-09T04:30:10+08:00"
+              "published_at": "2026-04-09T07:34:09+08:00"
+            },
+            {
+              "title": "IT 之家 4 月 9 日早报汇总苹果、阿里、微信与 B 站等动态",
+              "brief": "IT 之家发布 4 月 9 日早报，汇总了当天多条科技与互联网动态，包括阿里巴巴升级通义大模型事业部、苹果启动三年期 iPhone 重构计划、微信官方详解三项滑动交互功能、B 站宣布播放页暂停广告将于 4 月 10 日上线等内容。早报还涵盖小米充电宝新国标升级、华为新机与高铁宠物托运等消息，属于多条资讯的晨间集中整理。",
+              "source_url": "https://www.ithome.com/0/937/218.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-09T07:32:18+08:00"
+            },
+            {
+              "title": "美国法院驳回 Anthropic 请求，国防部黑名单措施暂不叫停",
+              "brief": "美国上诉法院拒绝了 Anthropic 在案件审理期间暂缓执行国防部制裁措施的请求，意味着其被列为供应链风险实体的认定暂时继续生效。法院认为，Anthropic 面临的损害主要是经济性的，而政府在军事冲突期间如何获取关键人工智能技术涉及更高公共利益。Anthropic 仍可继续与其他政府机构合作，但在国防部相关合同和项目上继续受限，案件将被加速审理。",
+              "source_url": "https://www.ithome.com/0/937/217.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-09T07:32:01+08:00"
+            },
+            {
+              "title": "京津冀消协联合约谈洲际酒店，指其会员条款多项涉嫌侵权",
+              "brief": "京津冀三地消费者协会联合约谈洲际酒店集团在华运营方，指出其官网和 App 会员条款中存在多项可能侵害消费者权益的内容，包括强制境外仲裁、排除中国法律适用、限制集体维权以及赋予经营者过宽的单方修改和免责权利。消协组织要求企业限期全面修订相关条款，若整改不到位，将考虑采取包括公益诉讼在内的进一步措施。",
+              "source_url": "https://www.ithome.com/0/937/216.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-09T07:29:53+08:00"
+            },
+            {
+              "title": "比亚迪与肯德基合作车机点餐和闪充站，主打“车充饱、人吃饱”",
+              "brief": "比亚迪宣布与肯德基达成战略合作，围绕“车充饱、人吃饱”构建车生活补能场景。用户可通过比亚迪车机语音完成肯德基点餐与支付，到店后直接取餐，并在配套闪充站同步为车辆补能。双方称该方案可在约 9 分钟内同时完成用餐与充电。相关智能点餐功能将率先落地方程豹钛 7 车型，并逐步扩展到比亚迪旗下更多主力品牌。",
+              "source_url": "https://www.ithome.com/0/937/215.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-09T07:21:25+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "亚马逊将停止支持旧款 Kindle 设备",
+              "brief": "36 氪援引新浪财经消息称，亚马逊将停止为部分旧款 Kindle 设备提供支持。原文未进一步展开涉及的具体机型、停止支持的时间点以及受影响功能范围，但该消息意味着部分早期 Kindle 阅读器后续可能无法继续获得维护、兼容更新或相关在线服务支持。亚马逊尚未在报道中同步披露更完整的官方说明。",
+              "source_url": "https://36kr.com/newsflashes/3758808857821697?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-09 07:46:01  +0800"
+            },
+            {
+              "title": "OpenAI：企业业务收入占比已超过 40%",
+              "brief": "OpenAI 首席营收官丹妮丝·德雷瑟表示，在消费者业务持续增长的同时，企业业务目前已贡献公司超过 40% 的收入，并有望在 2026 年底前与消费者业务规模相当。她同时透露，Codex 的周活跃用户刚刚突破 300 万。该表态显示 OpenAI 正在加快把企业市场培育成与面向个人用户业务并重的第二增长支柱。",
+              "source_url": "https://36kr.com/newsflashes/3758807110664966?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-09 07:44:13  +0800"
+            },
+            {
+              "title": "多家基金公司发布二季度策略，继续看好 AI 等中长期方向",
+              "brief": "多家公募基金公司近日公布二季度投资策略，普遍认为在近期市场波动背景下，A 股中长期向好趋势仍有望延续，建议从盈利改善和相对低估值两个方向寻找结构性机会。行业层面，AI 依然是多家机构重点布局的主线之一，此外创新药和新能源等板块也被反复提及，成为下一阶段值得持续观察的配置方向。",
+              "source_url": "https://36kr.com/newsflashes/3758806608183817?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-09 07:41:44  +0800"
+            },
+            {
+              "title": "马斯克据称再次重组 xAI 工程团队，并推动与 SpaceX 更紧密整合",
+              "brief": "36 氪援引新浪财经消息称，在 SpaceX 筹备历史性 IPO 之际，马斯克正在推动 xAI 与 SpaceX 进一步靠拢，同时对 xAI 工程团队展开新一轮大规模重组。内部备忘录显示，SpaceX 星链项目高级副总裁迈克尔·尼科尔斯已出任 xAI 总裁。知情人士称，xAI 认为自身在竞争中明显落后，正通过组织调整和资源整合加快追赶。",
+              "source_url": "https://36kr.com/newsflashes/3758803331498503?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-09 07:39:24  +0800"
+            },
+            {
+              "title": "OpenAI 据称考虑在 IPO 中预留部分股份给散户投资者",
+              "brief": "36 氪快讯提到，OpenAI 据称计划在未来 IPO 中拿出一部分股份面向散户投资者开放。当前报道未给出具体比例、参与方式和时间安排，但若消息属实，这意味着 OpenAI 在推进资本市场计划时，可能考虑引入更广泛的个人投资者参与，而不只面向机构资金分配。相关细节仍有待公司后续进一步说明。",
+              "source_url": "https://36kr.com/newsflashes/3758809544376833?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-09 07:38:47  +0800"
             }
           ]
         }
