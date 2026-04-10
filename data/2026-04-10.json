@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T19:56:34.415205+08:00",
+  "generated_at": "2026-04-10T21:54:47.903936+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Gmail 端到端加密登陆 iOS，面向 Workspace 用户",
+              "brief": "谷歌已将 Gmail 面向 Workspace 用户的端到端加密扩展至 iOS 和 Android，用户首次可直接在移动版 Gmail 中原生撰写并阅读加密邮件。该功能属于 Gmail 的客户端侧加密方案，此前仅限桌面端，移动端使用时不再需要额外应用或独立邮件门户。现在已向 Rapid Release 和 Scheduled Release 域开放，需 Enterprise Plus 配合 Assured Controls 系列附加包，管理员还要先在控制台启用 iOS 与 Android 客户端。",
+              "source_url": "https://www.macrumors.com/2026/04/10/gmail-end-to-end-encryption-comes-to-ios/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-10T20:45:36+08:00"
+            },
             {
               "title": "苹果车钥匙功能将支持雷克萨斯车型",
               "brief": "迹象显示苹果正准备把 Car Key 车钥匙功能扩展到雷克萨斯，MacRumors 在苹果后端代码中发现了与该品牌相关的新增引用。此前丰田的支持也是先在代码中被提前发现，随后于 2 月上线 2026 款 RAV4。雷克萨斯现有数字钥匙依赖丰田服务器，而苹果方案可直接存入钱包、通过 NFC 解锁，支持免认证快捷模式；丰田 2 月曾确认 2026 款雷克萨斯 ES 将率先获得增强数字钥匙功能。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/04/09/mac-os-x-cheetah-nintendo-wii/",
               "source_name": "MacRumors",
               "published_at": "2026-04-10T07:25:41+08:00"
-            },
-            {
-              "title": "IDC：2026年第一季度Mac出货量增长9%，跑赢整体PC市场",
-              "brief": "IDC估算显示，苹果Mac在2026年第一季度出货量同比增长9%，增速高于同期整体PC市场的2.5%。苹果以620万台出货量位列全球第四，高于去年同期的570万台，全球PC市场份额也从8.9%升至9.5%。报告称增长受新品发布及对零部件成本上升的担忧带动，其中去年末发布的M5 MacBook Pro被视为主要推动因素。",
-              "source_url": "https://www.macrumors.com/2026/04/09/apple-mac-shipments-q1-2026/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-10T06:21:27+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "亚马逊推出“Prime Video Ultra”，功能更多、价格更高",
+              "brief": "亚马逊面向美国现有Prime会员推出新的无广告档位Prime Video Ultra，月费4.99美元，取代此前月费2.99美元的无广告方案。新计划的定位不只是去掉广告，也把高画质和多人观看能力作为卖点。具体来说，4K/UHD串流改为Ultra独享，同时播放数从3路增至5路，离线下载上限也由25部提高到100部。",
+              "source_url": "https://9to5mac.com/2026/04/10/amazon-launches-prime-video-ultra-with-new-features-higher-price/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T21:24:16+08:00"
+            },
+            {
+              "title": "YouTube Premium美国区将涨价，最高每月多付4美元",
+              "brief": "标题显示，YouTube Premium将在美国上调价格，涨幅最高可达每月4美元。可输入摘要正文却并未展开订阅调价，而是写到Gemini应用正在推出notebooks功能，用于整理聊天与文件，并与NotebookLM集成。因此，现有材料没有说明具体套餐、生效时间，或哪些美国用户会受到这次价格调整影响。",
+              "source_url": "https://9to5google.com/2026/04/10/youtube-premium-us-price-hike/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T20:49:57+08:00"
+            },
+            {
+              "title": "Tribit StormBox Micro 3：我最喜欢的旅行音箱更好了，也更便宜了",
+              "brief": "Tribit推出StormBox Micro 3，这款作者旅行时常带的小型蓝牙音箱迎来幅度不大的更新，而且首发价格更低。文章称，新老两代在外观上几乎没有区别，定位仍是体积小、价格不高但音量和音质超出预期的便携产品。关键变化包括输出功率从10W升至13W，电池增至4800mAh，续航由12小时翻倍到24小时，防水等级也从IP67提升到IP68。",
+              "source_url": "https://9to5mac.com/2026/04/10/tribit-stormbox-micro-3-my-favorite-travel-speaker-just-got-better-and-cheaper/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T19:50:23+08:00"
+            },
             {
               "title": "WhatsApp 将把状态更新带到聊天标签页顶部",
               "brief": "WhatsApp 正在测试把状态更新入口带到 Chats 标签页顶部，用户未来可在主聊天列表更快查看联系人动态。此前 Android 测试版已出现相关线索，如今 TestFlight 版本也加入对应引用，说明 Meta 正在为双平台铺路；该区域默认不会常驻显示，需在聊天列表顶部下拉呼出，界面类似 Instagram 的横向动态栏，会按联系频率优先展示更相关状态，末尾还能查看已静音联系人的更新，且内容仍会在 24 小时后消失。",
@@ -61,33 +82,26 @@
               "source_url": "https://9to5mac.com/2026/04/09/survival-horror-game-cronos-the-new-dawn-coming-natively-to-apple-silicon-macs/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-10T10:44:06+08:00"
-            },
-            {
-              "title": "报告称苹果 2026 年第一季度 Mac 出货量增长 9%",
-              "brief": "最新市场报告显示，苹果在 2026 年第一季度的 Mac 出货量同比增长 9%，在整体 PC 市场竞争仍然激烈的背景下保持扩张。增长一方面反映出苹果自研芯片产品线的持续吸引力，另一方面也说明 Mac 在高端与轻薄办公市场的需求仍然稳固。对于苹果来说，这样的季度表现有助于进一步巩固其在全球 PC 市场中的份额与品牌势能。",
-              "source_url": "https://9to5mac.com/2026/04/09/report-apple-saw-9-growth-in-mac-shipments-during-q1-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-10T10:19:07+08:00"
-            },
-            {
-              "title": "Adobe 低处理相机应用扩大支持范围，新增部分 iPad 与 iPhone 17e",
-              "brief": "Adobe 主打低处理风格的相机应用进一步扩大设备兼容名单，开始支持部分 iPad 以及 iPhone 17e。该应用的核心卖点是尽量减少传统手机摄影中常见的重度算法修饰，让用户获得更自然、更接近原始影像观感的照片。此次扩展说明 Adobe 正把这类轻算法拍摄体验从少数机型推广到更多苹果设备，以覆盖更广泛的移动创作场景。",
-              "source_url": "https://9to5mac.com/2026/04/09/adobes-low-processing-camera-app-expands-support-to-select-ipads-and-the-iphone-17e/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-10T09:35:59+08:00"
-            },
-            {
-              "title": "基努·里维斯主演的 Apple TV+ 新片现已上线",
-              "brief": "由基努·里维斯主演的一部 Apple TV+ 新电影现已正式上线流媒体平台，成为苹果近期在原创影视内容上的又一部重点作品。苹果近年持续通过头部演员、导演与类型化题材强化 Apple TV+ 的内容吸引力，这次新片上线也延续了其以明星阵容带动订阅关注的策略。对平台而言，新片发布既是内容补充，也是争夺流媒体用户时长的重要节点。",
-              "source_url": "https://9to5mac.com/2026/04/09/new-apple-tv-movie-starring-keanu-reeves-now-available-to-stream/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-10T09:12:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星 Galaxy Z TriFold 将于美东时间10点最后一次开售",
+              "brief": "三星 Galaxy Z TriFold 将在美东时间上午10点迎来最后一次上线发售，这是文中最核心的销售信息。输入摘要同时写到，Gemini 应用正推出“notebooks”功能，用来整理聊天与文件，并与 NotebookLM 集成。文中还明确强调这是最后一轮开售，并围绕用户如何入手这款设备展开说明。",
+              "source_url": "https://9to5google.com/2026/04/10/samsungs-galaxy-z-trifold-final-restock/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-10T20:00:00+08:00"
+            },
+            {
+              "title": "部分谷歌 Pixel 手机近期更新后出现开机循环问题",
+              "brief": "部分谷歌 Pixel 手机在近期更新后出现开机循环问题，这是文中给出的核心事件。输入摘要同时写到，Gemini 应用正推出“notebooks”功能，用于整理聊天与文件，并与 NotebookLM 集成。文章还明确指出，受影响情况发生在最近更新之后，相关修复方案目前正在推进中。",
+              "source_url": "https://9to5google.com/2026/04/10/google-pixel-bootloop-issue-march-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-10T19:30:00+08:00"
+            },
             {
               "title": "YouTube Premium将在美国涨价，月费最高上调4美元",
               "brief": "YouTube Premium即将在美国上调订阅价格，月费涨幅最高可达4美元。标题信息显示，此次调整面向美国市场，涉及的是YouTube Premium订阅费用变化，而非产品功能或服务范围更新。当前可确认的关键细节包括适用地区为美国、变动对象为Premium会员、价格上调幅度最高为每月4美元。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5toys.com/2026/04/09/today-android-app-deals-free-argos-choice-skel-defense/",
               "source_name": "9to5Google",
               "published_at": "2026-04-10T02:21:05+08:00"
-            },
-            {
-              "title": "PixelNowPlaying恢复了“点击即可查看正在播放的内容”锁屏搜索功能",
-              "brief": "Pixel 的“正在播放”功能重新带回锁屏上的“点按查看正在播放内容”搜索入口。更新重点是让用户在锁屏界面更直接地查看和搜索当前识别到的音乐信息，把原本熟悉的入口方式重新加入体验，方便用户在不解锁或少量操作的情况下继续使用这项环境音乐识别与检索能力，并更快确认周围播放的歌曲。",
-              "source_url": "https://9to5google.com/2026/04/09/pixel-now-playing-search/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-10T01:36:12+08:00"
-            },
-            {
-              "title": "三星悄然上调了两款GalaxyZFold7机型的价格",
-              "brief": "三星悄悄上调了两款 Galaxy Z Fold 7 机型的售价。此次变化针对同一代折叠屏产品中的两个版本，重点并非发布新配置，而是价格层面的调整，意味着用户在购买这两款 Galaxy Z Fold 7 时需要面对更高的官方定价，也反映出该系列部分型号的入手门槛进一步提高。",
-              "source_url": "https://9to5google.com/2026/04/09/samsung-increased-price-galaxy-z-fold-7/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-10T01:29:39+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "T-Mobile 推出新买一赠一优惠：两条线路只付一条钱",
+              "brief": "美国运营商T-Mobile推出新的买一赠一加线活动，用户新增一条付费语音线路后，可再获一条免费线路。该促销延续其近年频繁进行的免费加线策略，但申请者账户里必须先有两条已付费线路，且新增的付费线与免费线都需连续保留至少一年。适用套餐包括Go5G Plus、Go5G Next、Experience More和Experience Beyond；若免费抵扣因变更失效，可在90天内恢复，优惠代码为ID260383。",
+              "source_url": "https://www.androidauthority.com/t-mobile-april-bogo-offer-3656569/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T21:32:34+08:00"
+            },
+            {
+              "title": "Galaxy Z Flip 8 渲染图首曝，外观延续前代设计",
+              "brief": "Galaxy Z Flip 8的首批渲染图已曝光，显示三星下一代小折叠手机在外观上与前代相比变化不大。泄露信息称，新机展开尺寸约为166.8×75.4×6.6毫米，折叠后约为85.4×75.4×13.2毫米，相比Flip 7仅在合上时薄了0.5毫米。外屏预计仍为4.1英寸，内屏仍为6.9英寸；三星据传将在2026年7月于伦敦同场发布Flip 8、Fold 8和Fold 8 Wide。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-renders-leak-3656575/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T21:06:58+08:00"
+            },
+            {
               "title": "Fitbit让用户更容易理解心肺适能水平，但暂未向所有人开放",
               "brief": "谷歌在 Fitbit 应用中新一轮公开预览中，把 Gemini 驱动的“个人健康教练”与 VO2 Max 心肺适能指标放到更突出位置，帮助用户理解有氧能力。Fitbit 过去虽提供“心肺适能评分”，但并非核心入口，如今该功能已扩展至 37 个国家和 32 种语言。用户可直接询问 VO2 Max 的含义、是否改善以及如何提升，应用还会结合个人习惯补充说明。",
               "source_url": "https://www.androidauthority.com/fitbit-vo2-max-public-preview-3656553/",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/silly-tech-problems-ive-fixed-3655154/",
               "source_name": "Android Authority",
               "published_at": "2026-04-10T18:00:35+08:00"
-            },
-            {
-              "title": "读者认同 Android 必须成熟，但少有人喜欢它如今的样子",
-              "brief": "Android Authority 对读者发起关于“最佳 Android 时代”的投票后发现，许多人认同系统需要现代化，但并不喜欢当前走向。此次调查获得超过 2200 张选票，其中 39% 的受访者最偏爱“自由、开放、选择更多”的旧版 Android。结果与谷歌近期收紧应用安装等基础性调整形成呼应，也反映出不少老用户更怀念 2010 年代中期的系统理念与使用体验。",
-              "source_url": "https://www.androidauthority.com/best-android-version-vision-poll-results-3656468/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-10T18:00:11+08:00"
-            },
-            {
-              "title": "试过后，我才知道自己多需要 Gemini 定时操作",
-              "brief": "作者试用 Gemini 的定时操作后，发现它能在固定时间自动执行提示词并生成内容，明显减轻健忘带来的负担。该功能可用于日报、周报、新闻摘要和日程更新，但个人账号仅限 Google AI Pro 或 Ultra，工作和学校账号也受 Workspace 版本限制。用户可先在聊天中调好提示，再要求其按周或按月重复；手机端完成后会推送通知，聊天列表也会以蓝点标出新内容。",
-              "source_url": "https://www.androidauthority.com/gemini-scheduled-actions-3654445/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-10T17:30:38+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "YouTube Premium 美国价格上调",
+              "brief": "YouTube将上调美国Premium全线订阅价格，用户自2026年6月账单周期起支付更高费用。此次调整通过邮件通知订阅者而非公开宣布，覆盖个人、家庭、Lite和Music Premium方案。其中特别是个人版由14美元涨至16美元，家庭版由23美元涨至27美元；Premium包含YouTube、YouTube Kids和YouTube Music免广告、离线与后台播放权益。",
+              "source_url": "https://www.engadget.com/social-media/youtube-premiums-us-pricing-is-going-up-132121683.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T21:21:21+08:00"
+            },
+            {
+              "title": "微软开始移除 Windows 11 中不必要的 Copilot 按钮",
+              "brief": "微软已向Windows Insider推送新版记事本，移除应用内Copilot品牌和图标，并把原Copilot菜单改为“写作工具”。这一调整延续了其上月提出的弱化Copilot展示计划，原因是用户批评其被强行加入多款应用且体验不一致。当前按钮已换成笔形图标，设置中的AI字样被删，关闭相关功能的选项被移到“高级功能”，截图工具里的相关入口也开始消失。",
+              "source_url": "https://www.engadget.com/ai/microsoft-starts-removing-unnecessary-copilot-buttons-in-windows-11-120346728.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T20:03:46+08:00"
+            },
             {
               "title": "晨间速览：亚马逊承诺其卫星互联网今年启动",
               "brief": "亚马逊CEO安迪·贾西在年度信中表示，公司的卫星互联网服务Leo将于2026年年中投入运营。作为与星链竞争的重要布局，亚马逊称该服务将提供更快的上下行速度、更低成本，并与旗下其他产品直接整合。贾西称下载速率最高可达1Gbps，但公司未进一步说明年中服务的具体形态，仅提到部分合作伙伴已试用一段时间。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/ai/openai-has-a-new-100-chatgpt-pro-plan-to-better-match-up-with-claude-062705626.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-10T14:27:05+08:00"
-            },
-            {
-              "title": "苹果将关闭三家美国门店 含首家工会门店",
-              "brief": "苹果宣布将在今年夏天永久关闭美国三家零售店，分别位于康涅狄格州特朗布尔、加州埃斯孔迪多和马里兰州陶森。其中陶森门店曾是苹果首家完成工会化并与公司签订合同的零售店，因此格外受到关注。苹果在声明中称，相关商场多家零售商撤离、经营状况持续下滑，关闭决定因此作出，这三家门店预计都将在 6 月结束营业。",
-              "source_url": "https://www.engadget.com/big-tech/apple-is-closing-three-us-stores-including-the-first-to-unionize-225941912.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-10T06:59:41+08:00"
-            },
-            {
-              "title": "《合金装备》真人电影项目再次重启",
-              "brief": "停滞多年的《合金装备》真人电影改编项目再次启动，这次将由《死神来了：血脉》导演 Zach Lipovsky 与 Adam B. Stein 负责推进。报道称，索尼旗下哥伦比亚影业正借双方新的优先合作协议重启该片。把这款知名潜行动作游戏改编成电影的尝试最早可追溯到 2006 年，如今项目再度回到开发轨道，但距离真正上映仍有较长制作周期。",
-              "source_url": "https://www.engadget.com/entertainment/tv-movies/the-metal-gear-solid-movie-is-back-on-with-final-destination-bloodlines-directors-in-charge-214914374.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-10T05:49:14+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Cloudflare 为 AI 代理做了一个“WordPress”",
+              "brief": "Cloudflare 发布开源网站系统 EmDash，试图通过让 AI 代理接管网站来解决其所称 WordPress 无法处理的核心问题。该产品仍处于抢先体验阶段，但因界面酷似翻新版 WordPress，已在社区引发争议。Cloudflare 将其称为 WordPress 的“精神继任者”，这一说法被创始人 Matt Mullenweg 公开反驳，并质疑它是在为更多 Cloudflare 服务导流。",
+              "source_url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
+              "source_name": "The Verge",
+              "published_at": "2026-04-10T09:30:00-04:00"
+            },
+            {
+              "title": "以每小时 2.5 万英里的速度做舱内设计",
+              "brief": "这篇报道聚焦 NASA 如何为阿耳忒弥斯二号任务的猎户座飞船设计舱内空间，在高速飞行与严苛环境中尽量兼顾乘员的相对舒适。该任务将绕过月球背面，返航时再入地球大气层被视为全程最戏剧化、也可能最危险的阶段。文章以外界对返回舱及舱内宇航员的关注为切口，审视这套内部设计背后的取舍。",
+              "source_url": "https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design",
+              "source_name": "The Verge",
+              "published_at": "2026-04-10T09:01:55-04:00"
+            },
+            {
+              "title": "OpenAI 的恐惧与厌恶",
+              "brief": "《The Vergecast》最新一期聚焦 OpenAI 与 Sam Altman 的领导风波，讨论谁适合掌管影响深远的人工智能。背景是 Altman 曾短暂被解除 CEO 职务，几天后又回归，并开始更长期地重塑组织结构。节目还围绕《纽约客》本周刊出的深度人物报道展开，并穿插谈到 vibe-coding、DIY 项目以及 Brendan Carr 等话题。",
+              "source_url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+              "source_name": "The Verge",
+              "published_at": "2026-04-10T08:23:18-04:00"
+            },
+            {
+              "title": "Snap 下一代 AR 眼镜继续采用高通方案",
+              "brief": "Snap 表示将继续与高通合作，计划于今年推出的面向消费者 AR 眼镜 Specs 将采用 Snapdragon XR 芯片。作为背景，Snap 已研发智能眼镜约十年，首款带摄像头的 Spectacles 于 2016 年上市，但近几代可叠加数字内容的 AR 版本尚未向大众销售。双方此次宣布达成多年期战略协议，并称将共同把更多设备端能力带到 Specs 平台。",
+              "source_url": "https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses",
+              "source_name": "The Verge",
+              "published_at": "2026-04-10T08:00:00-04:00"
+            },
+            {
               "title": "Z世代对AI又爱又恨",
               "brief": "盖洛普本周发布报告称，美国Z世代对AI的热情明显降温，但仍未停止使用。调查基于今年2至3月近1600名14至29岁受访者，显示随着AI更深入进入学校和工作场景，反感上升、期待下降，不少年轻人却仍觉得离不开它。仅18%表示有希望、22%感到兴奋，低于去年的27%和36%；31%表示愤怒，焦虑约40%基本持平。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
               "source_name": "The Verge",
               "published_at": "2026-04-10T07:23:28-04:00"
-            },
-            {
-              "title": "YouTube Premium 涨价",
-              "brief": "YouTube Premium 在美国上调订阅价格，新账户已按新价执行，现有用户也开始陆续收到通知。个人标准版月费从13.99美元涨至15.99美元，最多五人的家庭版从22.99美元涨至26.99美元。仅去除“大部分”广告且不含 YouTube Music 的 Premium Lite 也从7.99美元升至8.99美元。",
-              "source_url": "https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T07:23:06-04:00"
-            },
-            {
-              "title": "微软开始移除 Windows 11 应用中的 Copilot 按钮",
-              "brief": "微软开始从 Windows 11 应用中移除被视为“非必要”的 Copilot 按钮，以减少过多入口。最新 Windows Insider 版记事本已用“写作工具”菜单取代 Copilot 按钮，截图工具在选择截取区域时也不再显示该入口。此次调整属于微软修复 Windows 11 计划的一部分，照片、Widgets 等应用也会跟进，但相关 AI 功能本身仍会保留。",
-              "source_url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T05:22:06-04:00"
-            },
-            {
-              "title": "ChatGPT 推出每月 100 美元 Pro 订阅档位",
-              "brief": "OpenAI 为 ChatGPT 新增每月 100 美元的 Pro 订阅方案，价格显著高于现有每月 20 美元的 Plus 套餐。The Verge 指出，新档位的主要卖点是可获得更多 Codex 工具使用额度，以满足更高频的开发与生成需求。此举意味着 OpenAI 正进一步细分付费层级，把重度用户与普通订阅者区分开来，也让其面向专业用户的商业化路径更明确。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-              "source_name": "The Verge",
-              "published_at": "2026-04-09T18:57:15-04:00"
-            },
-            {
-              "title": "The Verge 汇总当前 Apple Watch 最值得入手的优惠",
-              "brief": "The Verge 更新了 Apple Watch 折扣汇总页面，整理当前仍可购买到的主要优惠型号与价格变化。报道指出，降幅最大的主要集中在定位更高的高端机型，但最新一代主力款式同样也有一定折扣空间。文章以导购形式帮助读者比较不同版本的售价与促销情况，并根据产品定位区分标准款、旗舰款和更高配置选择，方便在促销周期内快速做决定。",
-              "source_url": "https://www.theverge.com/21289209/best-apple-watch-deals",
-              "source_name": "The Verge",
-              "published_at": "2026-04-09T18:30:00-04:00"
             }
           ]
         }
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "阿耳忒弥斯二号将以约10.7公里/秒返回地球并溅落",
-              "brief": "NASA表示，阿耳忒弥斯二号将在完成历史性载人绕月后返回地球并实施海上溅落。这次任务被视为后续载人登月前的关键试飞，因阿耳忒弥斯一号曾暴露隔热罩异常烧蚀问题，团队已调整再入路线以降低风险。按计划，飞船再入时峰值温度约2760℃、速度最高10657米/秒，宇航员获救后将由海军和军方协助离舱并送往回收船医疗舱。",
-              "source_url": "https://www.ithome.com/0/937/965.htm",
+              "title": "华硕 ROG 幻世神 Cronox 机箱国行开售：9.2 英寸副屏，2399 元",
+              "brief": "华硕 ROG 幻世神 Cronox 机箱在国内首次开售，定价 2399 元，主打 9.2 英寸可调角度副屏。该机箱支持背插款式并提供 8 条扩展槽，采用曲面钢化玻璃、拉丝铝合金边框、金属脚座和环境灯效设计。副屏为 1920×462 的 IPS LCD，支持仪表板、通知和时钟显示，前置接口含 2 个 20Gbps USB-C 与 4 个 5Gbps USB-A。",
+              "source_url": "https://www.ithome.com/0/937/995.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-10T19:47:44+08:00"
+              "published_at": "2026-04-10T21:46:10+08:00"
             },
             {
-              "title": "极氪001五周年纪念版上市，36.5万元起",
-              "brief": "极氪001五周年纪念版正式上市，起售价36.5万元。新车围绕性能与纪念属性升级，采用黑色撞顶加冰川银配色、红底车标、碳纤维尾翼和后视镜，并配22英寸暗影黑锻造轮毂。车辆基于900V架构打造，最大马力925匹，0至100公里/小时加速2.91秒，配103度麒麟电池，CLTC续航最高680公里，支持6C充电，10%至80%最快10分钟。",
-              "source_url": "https://www.ithome.com/0/937/964.htm",
+              "title": "TOZO 发布 Open X2 Pro 开放式耳机：15.4mm 动圈、带屏充电盒，1299 元",
+              "brief": "TOZO 推出 Open X2 Pro 开放式耳机，定价 1299 元，配备带屏充电盒和 15.4mm 动圈单元。该产品支持动态空间音频、体感控制、LDAC 高清音频解码和高级 EQ，并可通过配套应用调整均衡器、场景模式及查找耳机等功能。续航方面，耳机单次最长 9 小时，搭配充电盒最高可达 36 小时，同时支持 AI 语音控制。",
+              "source_url": "https://www.ithome.com/0/937/994.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-10T19:46:03+08:00"
+              "published_at": "2026-04-10T21:40:00+08:00"
             },
             {
-              "title": "焕新极氪007和007GT上市，限时19.39万元起",
-              "brief": "焕新极氪007和007GT正式上市，限时售价19.39万元起。两款车型延续900V高压架构，并升级NVIDIA DRIVE Thor-U智驾芯片，007前脸新增动感通风口，且均可选含性能内饰和锻造轮毂的FR-LINE套装。新车提供单电机与双电机版本，最高续航905公里，零百加速最快2.73秒，轴距均为2925毫米。",
-              "source_url": "https://www.ithome.com/0/937/963.htm",
+              "title": "《饥荒：异域》正式公布，已上架 Steam",
+              "brief": "科雷正式公布《饥荒：异域》，这款《饥荒》新作已上架 Steam，但发售日期等信息尚未公布。官方称游戏将带来全新的生存体验，玩家可单人或与朋友一起采集、建造、耕种与探索，在程序生成的陌生环境中对抗怪物、暗影与未知。作品还加入多层荒野、独特气候和会蔓延的迷雾等机制。",
+              "source_url": "https://www.ithome.com/0/937/993.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-10T19:39:51+08:00"
+              "published_at": "2026-04-10T21:35:59+08:00"
             },
             {
-              "title": "小米2026款REDMI G25显示器开售，599元",
-              "brief": "小米2026款REDMI G25 24.5英寸显示器已发售，售价599元。该机面向电竞场景，采用1080P 240Hz面板，支持8-Bit色彩显示，覆盖100%sRGB与95% DCI-P3色域。支架支持俯仰调节，显示器本体兼容VESA 75×75毫米壁挂，接口提供1个DP 1.4、1个HDMI 2.0和1个3.5毫米音频口。",
-              "source_url": "https://www.ithome.com/0/937/962.htm",
+              "title": "法国政府将弃用 Windows，转向 Linux 开源方案",
+              "brief": "法国政府正推进从微软 Windows 转向 Linux 的开源替代方案，以减少对美国软件的依赖并强化数字主权。参与部门包括企业总局、国家网络安全局和国家采购总局，计划以“三步走”在今年秋季敲定工作站系统、杀毒、AI、数据库、协作与虚拟化方案。另有约 8 万名国家健康保险员工已从 Teams、Zoom、Dropbox 迁移至本土办公套件。",
+              "source_url": "https://www.ithome.com/0/937/992.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-10T19:37:12+08:00"
+              "published_at": "2026-04-10T21:27:36+08:00"
             },
             {
-              "title": "荣耀X80i首销，1999元起",
-              "brief": "荣耀X80i开启首销，起售价1999元，提供多种存储版本和四款配色。该机主打大电池与护眼屏配置，采用6.6英寸1.5K荣耀绿洲OLED屏，支持120Hz刷新率、3840Hz调光和6500nits峰值亮度。核心规格包括天玑6500 Elite处理器、7000mAh电池、5000万像素影像、立体声双扬声器，并配备荣耀鸿燕通信、AI实体按键和金属中框。",
-              "source_url": "https://www.ithome.com/0/937/959.htm",
+              "title": "一汽奥迪 A6L e-tron 上市：可选华为乾崑智驾，30.98 万起",
+              "brief": "一汽奥迪 A6L e-tron 正式上市，售价 30.98 万至 43.98 万元，高配车型可选华为乾崑智驾。新车延续家族式设计，座舱采用三屏交互并标配增强现实抬头显示，智驾版配备双激光雷达，支持高速和城区领航辅助。车辆提供后驱与四驱版本，CLTC 续航最高 815 公里，基于 800 伏架构，10% 充至 80% 最快 20 分钟。",
+              "source_url": "https://www.ithome.com/0/937/990.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-10T19:30:26+08:00"
+              "published_at": "2026-04-10T21:27:02+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "广安爱众董事李常兵被立案调查并实施留置",
-              "brief": "广安爱众公告称，公司收到广安市纪委监委通知，董事李常兵被立案调查并实施留置，董事会同时收到其辞职申请。公告补充称，李常兵因个人原因申请辞去第八届董事会董事职务，此次变动属于公司已披露的人事事项。公司表示，依据公司法和公司章程，其辞职不会导致董事会成员人数低于法定最低人数，辞职申请自送达董事会之日起生效。",
-              "source_url": "https://36kr.com/newsflashes/3760947022070277?f=rss",
+              "title": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+              "brief": "热门中概股在美股盘前集体走强，理想汽车涨幅超过3%，领跑主要个股。36氪消息显示，截至发稿，百度涨超2%，蔚来、腾讯音乐、爱奇艺均涨超1%，整体表现以普涨为主。与此同时，阿克布涨0.81%，京东涨0.74%，拼多多涨0.58%，但小鹏集团跌0.58%，哔哩哔哩跌0.38%，板块内部仍有分化。",
+              "source_url": "https://36kr.com/newsflashes/3761013323678473?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-10 19:53:09  +0800"
+              "published_at": "2026-04-10 21:00:35  +0800"
             },
             {
-              "title": "华远控股四连板：重组或涉控股股东，不涉公司重大资产重组",
-              "brief": "华远控股公告称，公司股价4月10日继续涨停，连续4个交易日累计涨幅达46.41%，并披露实际控制人筹划重组的提示信息。背景是公司控股股东华远集团来函称，北京市西城区国资委拟对下属部分一级企业集团进行重组，相关安排可能涉及华远集团。公司同时强调，此次事项不涉及上市公司重大资产重组，也不会导致实际控制人发生变更，截至公告披露日仍处于筹划阶段，结果存在不确定性。",
-              "source_url": "https://36kr.com/newsflashes/3760923574387460?f=rss",
+              "title": "美股大型科技股盘前普涨，Meta涨超1%",
+              "brief": "美股大型科技股盘前多数上涨，Meta涨幅超过1%，在主要科技股中表现居前。36氪消息显示，截至发稿，特斯拉、亚马逊、谷歌、微软和英伟达均录得不同程度上涨，盘前整体情绪偏暖。具体看，特斯拉涨0.47%，亚马逊涨0.36%，谷歌涨0.32%，微软涨0.24%，英伟达涨0.07%，苹果则下跌0.5%，走势并不完全一致。",
+              "source_url": "https://36kr.com/newsflashes/3761007768797704?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-10 19:52:14  +0800"
+              "published_at": "2026-04-10 20:54:56  +0800"
             },
             {
-              "title": "潘功胜会见桥水创始人瑞·达利欧",
-              "brief": "央行消息显示，2026年4月9日，中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧，双方就多项经济金融议题进行了交流。此次会面围绕中国和全球经济金融形势展开，同时涉及中国宏观经济政策与中美经贸关系等背景议题。已披露信息主要限于会见安排与交流方向，公告未进一步说明更多会谈成果、后续安排或新增合作内容。",
-              "source_url": "https://36kr.com/newsflashes/3760944273981957?f=rss",
+              "title": "江特电机拟参与发起设立低空经济协同创新研究院",
+              "brief": "江特电机公告称，公司拟与院士团队及上海市浦东新区院士专家工作站联合会，共同发起设立“低空经济协同创新研究院”。根据近日签署的联合发起人合作协议，研究院将围绕低空经济关键技术与应用开展协同创新。核心方向包括低空飞行器高性能电机、软包电芯、电驱系统、轻量化与高可靠技术，以及低空物流、eVTOL、无人机动力能源一体化方案和相关政策法规、安全体系研究。",
+              "source_url": "https://36kr.com/newsflashes/3760995893248769?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-10 19:50:21  +0800"
+              "published_at": "2026-04-10 20:50:44  +0800"
             },
             {
-              "title": "天猫与长安启源合作布局新能源整车销售",
-              "brief": "长安启源在4月10日春季新车发布会上宣布与天猫达成合作，双方将布局新能源整车销售业务，并共同推出首款“天猫甄选好车”。此次发布会同步推出A06与Q05两款车型，合作车型为全新Q05，原文仅披露该车搭载激光，未展开说明具体配置。天猫汽车总经理颜仲透露，新车将以电商补贴形式销售，具体配置与售价将于4月24日北京车展期间公布，并在天猫独家发售。",
-              "source_url": "https://36kr.com/newsflashes/3760931793715720?f=rss",
+              "title": "潜能恒信：副总经理张卉解除留置",
+              "brief": "潜能恒信公告称，副总经理张卉已解除留置，目前已能正常履行副总经理职责。公司此前披露，张卉曾被监察机关立案调查并实施留置，此次公告主要对该事项的最新进展进行更新。除人事状态变化外，公司同步表示当前生产经营管理情况正常，公告信息重点集中在留置解除与职责恢复两方面。",
+              "source_url": "https://36kr.com/newsflashes/3760994964210439?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-10 19:44:36  +0800"
+              "published_at": "2026-04-10 20:47:46  +0800"
             },
             {
-              "title": "百度伐谋Agent 2.0再登MLE-Bench榜首",
-              "brief": "百度智能云近日宣布，企业级算法自主优化智能体“百度伐谋Agent 2.0”再次登顶机器学习工程基准MLE-Bench，并刷新SOTA成绩。该基准由OpenAI主导设立，收录75个来自Kaggle竞赛的真实工程难题，是此次成绩的评测背景。百度同时披露，伐谋Agent 2.0正式版本将于今年5月在Create 2026百度AI开发者大会发布，目前公告未给出更详细的产品功能信息。",
-              "source_url": "https://36kr.com/newsflashes/3760913826120455?f=rss",
+              "title": "美国3月CPI同比上升3.3%",
+              "brief": "美国3月消费者价格指数同比上涨3.3%，环比上涨0.9%，显示当月通胀数据继续走高。已公布数据显示，能源价格是本次CPI变动中的重要拉动因素，使整体环比表现受到明显影响。分项来看，美国3月CPI中能源价格环比上涨10.9%，创下2005年以来最大涨幅，这也是此次数据披露中的关键细节。",
+              "source_url": "https://36kr.com/newsflashes/3760995979608837?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-10 19:40:18  +0800"
+              "published_at": "2026-04-10 20:42:57  +0800"
             }
           ]
         },
