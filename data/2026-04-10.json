@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T05:49:46.542947+08:00",
+  "generated_at": "2026-04-10T09:51:57.862433+08:00",
   "sections": [
     {
       "category": "主要",
@@ -28,12 +28,47 @@
               "source_url": "https://www.macrumors.com/2026/04/09/apple-releases-macos-tahoe-26-4-1/",
               "source_name": "MacRumors",
               "published_at": "2026-04-10T01:18:45+08:00"
+            },
+            {
+              "title": "iOS 27 即将推出的 10 多项新功能",
+              "brief": "苹果将在距离 WWDC 2026 仅三个月时准备发布 iOS 27，这一版本被视为更接近外界原本期待的升级。报道提到，原定随 iOS 26 推出的新版 Siri 因开发进度问题可能延后到 iOS 27，同时系统还会加入新的 Apple Intelligence 功能。为了配合预计在 9 月登场的折叠屏 iPhone，苹果也会调整界面布局，在展开状态下提供类似 iPad 的双应用并排和侧边栏体验，但设备仍运行 iOS，不支持 iPad 应用。",
+              "source_url": "https://www.macrumors.com/2026/03/13/10-new-features-coming-in-ios-27/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-14T05:13:02+08:00"
+            },
+            {
+              "title": "苹果以纽约惊喜 Alicia Keys 演唱会开启 50 周年庆祝活动",
+              "brief": "苹果在纽约大中央车站门店临时关闭后，实际举办了一场 Alicia Keys 惊喜演唱会，为公司即将到来的 50 周年庆祝活动揭幕。苹果事先仅低调邀请部分 YouTuber 和媒体到场，没有公布演出嘉宾，直到 Alicia Keys 现身登台。现场可见库克、Greg Joswiak、Deirdre O'Brien 和 John Ternus 等高管，周边公众也能围观。报道还回顾了 Alicia Keys 过去与苹果音乐活动和 Vision Pro 内容合作的关联，并指出未来两周半内还会有更多周年庆安排。",
+              "source_url": "https://www.macrumors.com/2026/03/13/apple-50th-anniversary-alicia-keys-concert/",
+              "source_name": "MacRumors",
+              "published_at": "2026-03-14T03:25:22+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "FBI 通过 iPhone 通知数据找回已删除的 Signal 消息",
+              "brief": "一场美国案件庭审披露，FBI 曾从被告 iPhone 中提取通知记录，即便设备上的 Signal 已被删除，仍恢复出部分收到的消息内容。关键在于系统通知历史会把消息预览写入数据库，而这些数据可能在应用卸载后继续保留。相关情况再次说明，端到端加密应用本身并不等于通知层同样不留痕，锁屏和通知预览设置会直接影响信息暴露范围。",
+              "source_url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T07:42:46+08:00"
+            },
+            {
+              "title": "收藏者用视频汇集 50 年苹果电脑开机声",
+              "brief": "一位苹果收藏者为纪念苹果五十周年，制作视频展示 44 台苹果台式机和笔记本的开机声、提示音与启动旋律。视频覆盖从 Apple I 到多个稀有机型与原型机的大量设备，也让外界看到这些老机器至今仍能成功开机。整段内容按年代串联出苹果硬件声音设计的演变过程，成为近期用户自发纪念苹果五十周年中颇受关注的一支作品。",
+              "source_url": "https://9to5mac.com/2026/04/09/apple-collector-showcases-50-years-of-mac-startup-sounds-video/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T05:40:00+08:00"
+            },
+            {
+              "title": "研究人员披露绕过苹果智能防护的提示注入方法",
+              "brief": "两篇 RSAC 博文披露，研究人员把两类攻击方式组合后，成功通过提示注入让苹果本地模型执行攻击者控制的指令，并据此分析了苹果智能的过滤链路。由于苹果并未公开模型输入输出过滤的全部细节，研究团队主要依据实验结果反推其工作方式。报道同时提到，苹果随后已针对这一手法加强防护，以降低类似绕过再次发生的可能。",
+              "source_url": "https://9to5mac.com/2026/04/09/researchers-detail-how-a-prompt-injection-attack-bypassed-apple-intelligence-protections/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-10T04:39:06+08:00"
+            },
             {
               "title": "iOS26的消息应用对一项基本功能进行了重大升级",
               "brief": "iOS26中对一项基本功能进行了重大人工智能升级：搜索。现在，“消息”应用程序搜索可让您使用自然语言并查看相关结果对于许多iPhone用户来说，“消息”可能是他们最常用且保存数据最多的应用程序之一。根据您的设备设置，“消息”可以保存您多年前的对话-包括链接、照片和其他媒体。这就是为什么“消息”很容易填满iCloud存储空间。",
@@ -94,48 +129,119 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "美国卫生部长修改 CDC 顾问委员会章程",
+              "brief": "美国卫生与公共服务部长小罗伯特·肯尼迪修改了 CDC 免疫实践咨询委员会 ACIP 的章程，在文本中加入多处反疫苗阵营常用表述，并扩大可参与群体范围。Ars Technica 认为，这一改动可能让长期处于主流公共卫生体系边缘的团体更容易进入 CDC 相关讨论。由于 ACIP 长期负责为美国疫苗接种政策提供建议，章程变化被视为可能影响后续公共卫生决策。",
+              "source_url": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-10T06:32:37+08:00"
+            },
+            {
+              "title": "Anthropic 让 Claude 接受 20 小时心理治疗式评估",
+              "brief": "Anthropic 在最新 244 页系统卡中披露，公司让新模型 Claude Mythos 接受约 20 小时带有精神分析色彩的评估与访谈，希望借此理解模型的人格稳定性与行为倾向。该公司称 Mythos 是迄今“心理状态最稳定”的模型，也是能力最强的前沿模型之一，但并未向公众普遍开放。相关做法显示，AI 公司开始尝试借助心理学框架评估模型特征，而不只依赖传统基准测试。",
+              "source_url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-10T05:20:31+08:00"
+            },
+            {
+              "title": "临床试验显示基因编辑也可治疗 β 地中海贫血",
+              "brief": "一项临床试验结果显示，改进后的基因编辑流程也能用于治疗 β 地中海贫血，通过重新激活胎儿时期的血红蛋白基因来改善患者状况。CRISPR 技术被寄予厚望已久，但真正走到安全、稳定、可临床应用的路径推进较慢。此次结果意味着同类编辑策略在镰状细胞病之外，也开始对另一种血液疾病显示出有效性，为后续治疗方案扩展提供了依据。",
+              "source_url": "https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-10T04:28:48+08:00"
+            },
+            {
+              "title": "Nutanix 称已从 VMware 手中争取三万家客户",
+              "brief": "在 Broadcom 收购 VMware 后，围绕价格、授权和合作方式的不满持续发酵，虚拟化厂商 Nutanix 宣称已借机争取到约三万家原 VMware 客户。报道援引西联汇款高管说法称，企业在与 Broadcom 合作时遇到过挑战。Broadcom 整合 VMware 后多次调整产品与订阅模式，竞争对手也持续把客户迁移作为重点宣传方向，企业级虚拟化市场的替换潮因此升温。",
+              "source_url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-10T03:44:31+08:00"
+            },
+            {
               "title": "阿耳忒弥斯二号宇航员还没有完全意识到他们经历的严重性",
               "brief": "发自内心对于阿尔忒弥斯二号宇航员来说，他们经历的严重性还没有完全体现出来，“实际上，我现在一想到这件事就感到发冷。我的手掌在出汗。”斯蒂芬·克拉克–2026年4月9日下午2:19|11猎户座飞船太阳能电池阵列机翼上的一台摄像机在阿耳忒弥斯二号飞越月球期间捕捉到了月球遮住太阳的景象。",
               "source_url": "https://arstechnica.com/space/2026/04/astronauts-recall-the-sci-fi-experience-of-flying-in-the-shadow-of-the-moon/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-10T02:19:49+08:00"
-            },
-            {
-              "title": "特朗普任命的法官拒绝阻止特朗普将人类人工智能技术列入黑名单",
-              "brief": "Anthropic被列入黑名单特朗普任命的法官拒绝阻止特朗普将Anthropic人工智能技术列入黑名单上诉法院驳回了Anthropic的紧急暂缓动议。乔恩·布罗德金–2026年4月9日下午2:07|19图片来源：GettyImages|图片联盟图片来源：GettyImages|图片联盟文本设置故事文本尺寸小标准大宽度*标准宽链接标准橙色*仅限订阅者了解更多最小化至导航。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-10T02:07:56+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
-          "articles": []
+          "articles": [
+            {
+              "title": "雷蛇新款游戏耳机把 2.4GHz 接收器做进充电盒",
+              "brief": "雷蛇发布 Hammerhead V3 HyperSpeed 无线游戏耳机，最大特点是充电盒同时兼作 2.4GHz 无线接收器，为游戏场景提供更直接的连接方式。新品还支持蓝牙 6.0、最长 40 小时续航，并配备官方称较前代提升 50% 的混合主动降噪。雷蛇同时推出价格更低的 Hammerhead V3 X HyperSpeed，保留核心思路，但取消 ANC 与蓝牙 6.0 支持。",
+              "source_url": "https://www.androidauthority.com/razer-hammerhead-v3-hyperspeed-gaming-earbuds-launch-3656420/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T05:50:07+08:00"
+            },
+            {
+              "title": "Gemini 新增可交互模拟帮助理解复杂概念",
+              "brief": "Google 宣布为 Gemini 推出一项新能力，聊天机器人现在可以生成可交互的模拟和模型，用于帮助用户理解复杂主题。对于很多需要视觉化解释的概念，单纯文字说明往往不够直观，而这一更新正是把演示过程直接嵌入交互中。Android Authority 表示，该功能已从当天开始向所有用户逐步上线，成为 Gemini 在教学和解释场景中的新补充。",
+              "source_url": "https://www.androidauthority.com/google-gemini-interactive-simulations-3656405/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T05:03:11+08:00"
+            },
+            {
+              "title": "三星上调 Galaxy Z Fold 7 高配版美国售价",
+              "brief": "三星已在美国上调 512GB 与 1TB 版 Galaxy Z Fold 7 的售价，暂时仍保留 256GB 基础版原价不变。报道指出，摩托罗拉本周也刚对多款手机提价，手机市场正出现一波令人不快的涨价趋势。Galaxy Z Fold 7 本就定位高价折叠屏，此次调价让高配版本购买门槛进一步抬高，也反映出零部件成本与市场环境变化正向终端价格传导。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-7-price-hike-3656391/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T04:37:44+08:00"
+            },
+            {
+              "title": "Pixel AI 语音信箱测试自定义问候语功能",
+              "brief": "Google 正在 Beta 版中为 Pixel 的 Take a Message 语音留言功能加入自定义问候语，允许用户录制最长 60 秒的留言，并保存多条录音进行管理。新界面采用 Material 3 风格，支持重命名、删除以及设置默认问候语，当前启用内容会以星标显示。这个更新把原本较固定的 AI 语音信箱体验变得更个人化，也让未接来电回复更接近传统语音信箱用法。",
+              "source_url": "https://www.androidauthority.com/google-pixel-take-message-custom-greetings-beta-3656384/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T04:17:56+08:00"
+            },
+            {
+              "title": "YouTube Music 专辑页面现在也能发表评论",
+              "brief": "YouTube Music 已更新专辑页面，用户现在和单曲、播客一样，可以直接在整张专辑下方留言互动。评论原本就是 YouTube 体系的重要组成部分，这次扩展意味着音乐应用内又多了一个公开表达观点的位置。无论用户喜欢与否，专辑评论区的加入都让听众对专辑整体而非单首歌曲的反馈更集中，也让 YouTube Music 的社交属性进一步向主站靠拢。",
+              "source_url": "https://www.androidauthority.com/youtube-music-album-comments-3656368/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-10T04:14:26+08:00"
+            }
+          ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "苹果将关闭三家美国门店 含首家工会门店",
+              "brief": "苹果宣布将在今年夏天永久关闭美国三家零售店，分别位于康涅狄格州特朗布尔、加州埃斯孔迪多和马里兰州陶森。其中陶森门店曾是苹果首家完成工会化并与公司签订合同的零售店，因此格外受到关注。苹果在声明中称，相关商场多家零售商撤离、经营状况持续下滑，关闭决定因此作出，这三家门店预计都将在 6 月结束营业。",
+              "source_url": "https://www.engadget.com/big-tech/apple-is-closing-three-us-stores-including-the-first-to-unionize-225941912.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T06:59:41+08:00"
+            },
+            {
+              "title": "《合金装备》真人电影项目再次重启",
+              "brief": "停滞多年的《合金装备》真人电影改编项目再次启动，这次将由《死神来了：血脉》导演 Zach Lipovsky 与 Adam B. Stein 负责推进。报道称，索尼旗下哥伦比亚影业正借双方新的优先合作协议重启该片。把这款知名潜行动作游戏改编成电影的尝试最早可追溯到 2006 年，如今项目再度回到开发轨道，但距离真正上映仍有较长制作周期。",
+              "source_url": "https://www.engadget.com/entertainment/tv-movies/the-metal-gear-solid-movie-is-back-on-with-final-destination-bloodlines-directors-in-charge-214914374.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T05:49:14+08:00"
+            },
+            {
+              "title": "开发者把 Mac OS X 运行在任天堂 Wii 上",
+              "brief": "开发者 Bryan Keller 成功让一版早期 Mac OS X 在 2006 年推出的任天堂 Wii 上运行，把原本常见于 Mac 模拟器的方向完全反转。项目缘起于他多年前的想法，后来在看到他人将 Windows NT 移植到 Wii 后重新获得动力。为实现这一目标，他调整内核、补齐驱动并处理硬件兼容问题，最终让这台游戏主机真正启动了苹果旧版操作系统。",
+              "source_url": "https://www.engadget.com/computing/a-maverick-hacker-got-mac-os-x-running-on-a-wii-200800027.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T04:08:00+08:00"
+            },
+            {
+              "title": "Instagram 评论新增 15 分钟内编辑功能",
+              "brief": "Meta 已为 Instagram 评论加入编辑能力，用户可在评论发布后的 15 分钟内修改内容，给刚发出的留言留出补救窗口。这个机制与 Instagram 早前为私信提供的编辑方式相似，但此前评论一直只能删除后重发。现在用户点击自己刚发表的评论即可进入编辑流程，不过只能修改本人账号发布的内容，且功能仅限发出后短时间内使用。",
+              "source_url": "https://www.engadget.com/social-media/instagram-comments-can-now-be-edited-within-15-minutes-195000640.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-10T03:50:00+08:00"
+            },
             {
               "title": "爵士风格潜行动作游戏《ThickasThieves》将于5月20日登陆PC",
               "brief": "游戏PCJazzy潜行动作游戏《ThickasThieves》将于5月20日登陆PC来自OtherSideEntertainment的新项目最近放弃了PvP视角。杰西卡·康迪特(JessicaConditt)高级编辑UTC时间2026年4月9日星期四晚上7:33在Google上添加EngadgetUTC时间2026年4月9日星期四晚上7:33OtherSideEnte。",
               "source_url": "https://www.engadget.com/gaming/pc/jazzy-stealth-action-game-thick-as-thieves-hits-pc-on-may-20-193320746.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-10T03:33:20+08:00"
-            },
-            {
-              "title": "Netflix在其电视应用中添加了三款Jackbox游戏",
-              "brief": "游戏Netflix在其电视应用PlayFibbage、Quiplash和Drawful中添加了三款Jackbox游戏，可通过流媒体订阅免费使用。AnnaWashenko特约记者世界标准时间2026年4月9日星期四晚上7:02在Google上添加Engadget世界标准时间2026年4月9日星期四晚上7:02NetflixNetflix在其游戏阵容中添加了派对活动的重磅炸弹。",
-              "source_url": "https://www.engadget.com/gaming/netflix-adds-three-jackbox-games-to-its-tv-app-190220143.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-10T03:02:20+08:00"
-            },
-            {
-              "title": "另一款《饥荒》游戏即将推出",
-              "brief": "游戏另一款《饥荒》游戏即将推出《饥荒别处》为生存游戏增添了新的维度。IanCarlosCampbell特约记者世界标准时间2026年4月9日星期四下午6:44在Google上添加Engadget世界标准时间2026年4月9日星期四下午6:44开发商KleiEntertainment宣布推出《饥荒》的后续作品，为这款流行的生存游戏增添了新的深度感。",
-              "source_url": "https://www.engadget.com/gaming/another-dont-starve-game-is-on-the-way-184400774.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-10T02:44:00+08:00"
             }
           ]
         },
@@ -143,11 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "Instagram现在允许您编辑自己的评论",
-              "brief": "技术关闭此主题的技术帖子将添加到您的每日电子邮件摘要和主页源中。关注关注查看所有技术新闻关闭新闻此主题的帖子将添加到您的每日电子邮件摘要和主页源中。关注关注查看所有新闻元关闭此主题的元帖子将添加到您的每日电子邮件摘要和主页源中。关注关注查看全部MetaInstagram现在允许您编辑自己的评论发表评论后，您有15分钟的时间进行编辑。",
-              "source_url": "https://www.theverge.com/tech/909455/instagram-edit-comments",
+              "title": "ChatGPT 推出每月 100 美元 Pro 订阅档位",
+              "brief": "OpenAI 为 ChatGPT 新增每月 100 美元的 Pro 订阅方案，价格显著高于现有每月 20 美元的 Plus 套餐。The Verge 指出，新档位的主要卖点是可获得更多 Codex 工具使用额度，以满足更高频的开发与生成需求。此举意味着 OpenAI 正进一步细分付费层级，把重度用户与普通订阅者区分开来，也让其面向专业用户的商业化路径更明确。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
               "source_name": "The Verge",
-              "published_at": "2026-04-09T15:20:46-04:00"
+              "published_at": "2026-04-09T18:57:15-04:00"
+            },
+            {
+              "title": "The Verge 汇总当前 Apple Watch 最值得入手的优惠",
+              "brief": "The Verge 更新了 Apple Watch 折扣汇总页面，整理当前仍可购买到的主要优惠型号与价格变化。报道指出，降幅最大的主要集中在定位更高的高端机型，但最新一代主力款式同样也有一定折扣空间。文章以导购形式帮助读者比较不同版本的售价与促销情况，并根据产品定位区分标准款、旗舰款和更高配置选择，方便在促销周期内快速做决定。",
+              "source_url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+              "source_name": "The Verge",
+              "published_at": "2026-04-09T18:30:00-04:00"
+            },
+            {
+              "title": "佛罗里达州对 OpenAI 发起调查",
+              "brief": "佛罗里达州总检察长 James Uthmeier 已对 OpenAI 展开调查，理由是 ChatGPT 被指与部分犯罪行为存在关联。报道没有把调查定性为最终结论，而是显示州层级监管机构正把生成式 AI 的社会影响纳入执法视野。随着各地围绕 AI 责任、内容输出和潜在风险的审查持续增加，这起调查也反映出美国地方政府开始主动介入大型模型公司的合规问题。",
+              "source_url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+              "source_name": "The Verge",
+              "published_at": "2026-04-09T18:17:06-04:00"
+            },
+            {
+              "title": "电子前哨基金会宣布退出 X 平台",
+              "brief": "电子前哨基金会 EFF 宣布停止运营其 X 账号，理由是平台带来的传播效果和投入产出比已不再理想。机构表示，多年来它一直依靠这一平台接触数字权利与隐私议题受众，但近年曝光量和整体环境都出现明显变化。EFF 认为 X 在内容治理、平台文化和政策方向上持续恶化，因此决定把公共沟通重心转向 Bluesky、Mastodon、LinkedIn、Instagram 等其他平台。",
+              "source_url": "https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter",
+              "source_name": "The Verge",
+              "published_at": "2026-04-09T17:48:00-04:00"
+            },
+            {
+              "title": "约翰迪尔就维修权诉讼向农民支付 9900 万美元",
+              "brief": "农业设备公司约翰迪尔已同意就维修权集体诉讼支付 9900 万美元和解，并承诺在 10 年内向农民提供维修资料访问权限。长期以来，农民与维修倡导者批评大型设备厂商限制独立维修，导致设备维护成本与停机风险上升。此次和解意味着这起争议获得阶段性处理，也让维修资料开放问题从消费者电子领域继续扩展到大型农业机械。",
+              "source_url": "https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers",
+              "source_name": "The Verge",
+              "published_at": "2026-04-09T17:21:22-04:00"
             }
           ]
         }
@@ -226,32 +360,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "谷歌与英特尔深化AI基础设施合作伙伴关系",
-              "brief": "工作负载体系，标志着CPU在AI基础设施中的战略价值被重新审视定制IPU联合开发双方扩大基于ASIC的定制IPU联合开发，该合作始于2021年，旨在从主CPU卸载网络、存储和安全功能提高CPU利用率、提升效率，并在超大规模AI环境中实现更可预测的性能谷歌与英特尔的合作关系可追溯至近三十年前谷歌最初搭建服务器机架之时，此次协议是这一长期关系的实质性深化。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557296.htm",
+              "title": "苹果 Q1 Mac 出货量增长 9% 跑赢 PC 大盘",
+              "brief": "IDC 数据显示，苹果 2026 年第一季度 Mac 出货量约 620 万台，同比增长 9%，在全球传统 PC 市场中的表现明显好于整体 2.5% 的增速。苹果的市场份额由去年同期的 8.9% 升至约 9.5%，继续排在联想、惠普和戴尔之后位列第四。报告同时指出，零部件成本预期上涨和新品密集发布，共同推动了本季度 PC 出货回暖。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557308.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-10T03:31:37+08:00"
+              "published_at": "2026-04-10T06:51:53+08:00"
             },
             {
-              "title": "OpenAI推出面向Codex用户的每月100美元Pro订阅方案",
-              "brief": "此前于今年2月在macOS平台推出了Codex应用，为开发者提供基于人工智能的“代理式编程”工具。新的ChatGPTPro100美元版本，正是专门针对已超出Plus档使用需求的Codex用户设计。在此之前，ChatGPTPro仅提供200美元/月一个档位。据介绍，新的100美元Pro方案相较Plus提供5倍的Codex使用额度，并包含所有Pro级功能，包括专属模型访问。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557294.htm",
+              "title": "FreeBSD 基金会公布一批完全兼容笔记本名单",
+              "brief": "FreeBSD 基金会公布新一批与系统完全兼容的笔记本机型，覆盖联想、华硕、惠普、戴尔以及 Framework 等多个品牌。其评估会综合考量硬件识别情况、功能是否受限及用户反馈，其中 Wi‑Fi 和图形显示等关键部件权重更高。除满分机型外，还有不少设备虽未拿到最高分，但依然具备较高可用性，为准备安装 FreeBSD 的用户提供了更明确的选购参考。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557306.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-10T02:39:35+08:00"
+              "published_at": "2026-04-10T06:12:15+08:00"
             },
             {
-              "title": "Google Gemini 推出可生成交互式3D模型和模拟的新功能",
-              "brief": "拟时，会同时提供多种交互方式。用户不仅可以拖动旋转模型、放大细节，还可以通过滑块手动调整变量，或输入不同数值，从而实时观察变化结果。对于涉及物理过程或抽象概念的提问，这类交互式可视化有望成为一类新的答案形态。记者在实际体验中，以“生成一个月球绕地球公转的模拟”为例进行测试。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557292.htm",
+              "title": "EFF 宣布退出社交平台 X 转向其他渠道发声",
+              "brief": "电子前哨基金会 EFF 宣布离开社交平台 X，原因包括触达效果持续下滑，以及平台文化与政策环境变化。机构负责人表示，EFF 去年在 X 发布约 1500 条内容，全年曝光量仅约 1300 万次，和数年前相比明显缩水。EFF 强调，退出 X 不代表减少公共倡议，而是将继续通过 Bluesky、Mastodon、LinkedIn、Instagram、TikTok、Facebook 和 YouTube 等平台保持发声。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557304.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-10T02:25:00+08:00"
+              "published_at": "2026-04-10T06:11:36+08:00"
             },
             {
-              "title": "韦伯望远镜发现颠覆行星形成理论的新证据",
-              "brief": "行中心的CalebCañas领衔，卡内基科学研究所的ShubhamKanodia及多国科研团队参与完成。TOI-5205b的体积与木星相近，但其母恒星却是一颗体型远小得多的红矮星：恒星半径约为木星的四倍，质量约为太阳的40%。当行星从地球视线方向掠过恒星前方、发生“凌星”现象时，它会遮挡约6%的恒星光度。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1557290.htm",
+              "title": "欧洲最大苹果博物馆在荷兰开幕 展出 50 年产品",
+              "brief": "位于荷兰的欧洲最大苹果博物馆正式开门迎客，展览时间点也与苹果五十周年相呼应。场馆内陈列了苹果几十年来的大量硬件、配件、原型机、说明书和品牌物料，并通过不同主题空间讲述公司发展历程。除彩色 iMac G3 墙、车库复刻和 iPod 展区外，部分设备仍可运行，参观者能在指定区域上手体验这些历史产品。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1557302.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-10T02:18:50+08:00"
+              "published_at": "2026-04-10T06:08:46+08:00"
+            },
+            {
+              "title": "德国团队实现无压缩燃气轮机并成功发电",
+              "brief": "德国研究团队宣布在无压缩燃气轮机方向取得突破，成功在没有传统机械压缩机的系统中驱动涡轮并实际发电。新方案利用增压燃烧原理，通过燃烧室内爆轰波自然提高气体压力，绕开传统燃气轮机大量功率被压缩机消耗的问题。研究人员认为，该设计有望提升整体效率，尤其适合与氢燃料结合，为零碳发电和未来航空推进探索新的技术路径。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1557300.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-10T06:06:04+08:00"
             }
           ]
         },
@@ -294,6 +435,14 @@
               "published_at": "2026-04-10T01:27:06+08:00"
             }
           ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": []
+        },
+        {
+          "name": "36氪",
+          "articles": []
         }
       ]
     }
