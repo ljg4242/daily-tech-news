@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T20:24:27.528773+08:00",
+  "generated_at": "2026-04-11T21:53:59.053965+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "如何在不抹掉数据的情况下将现有 Mac 加入 Apple Business Manager",
+              "brief": "文章介绍了一种让已在用的 Mac 无需抹盘也能加入 Apple Business Manager 的办法，方便后续启用自动化设备注册。背景是企业里常有经零售渠道采购或并购接手的 Mac 不在管理平台中，而用 Apple Configurator 补录通常要先整机清除并备份恢复。文中提到的 add2abm 会临时移除初始设置标记并移动本地用户记录，让系统重新进入设置助理，同时保留硬盘上的现有数据。",
+              "source_url": "https://9to5mac.com/2026/04/11/apple-work-how-to-add-an-existing-mac-to-apple-business-manager-without-wiping-it/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-11T21:00:00+08:00"
+            },
+            {
+              "title": "上手体验：SkyDex 把日常查天气变成宝可梦冒险",
+              "brief": "SkyDex 把天气应用与宝可梦图鉴玩法结合起来，让用户在查看本地天气时按真实气象条件发现对应的宝可梦。背景是作者长期关注宝可梦相关新产品，这款应用因此引起兴趣，但它本质上仍是完整天气应用。文中称应用会随位置变化或天气变化出现不同角色，目标是收集初代关都地区 151 只宝可梦，同时提供气温、逐小时和 10 天天气等常规信息。",
+              "source_url": "https://9to5mac.com/2026/04/11/hands-on-skydex-turns-your-daily-weather-check-into-a-pokemon-adventure/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-11T21:00:00+08:00"
+            },
+            {
               "title": "App Store争端持续：苹果与Epic就暂缓令再交锋",
               "brief": "苹果与Epic围绕上诉法院的暂缓执行命令继续交锋，焦点是要求苹果放宽App Store替代支付规则的裁定是否应先暂停生效。背景是美国第九巡回上诉法院4月6日批准苹果3日提交的暂缓请求，Epic同日又提交两项动议要求重新考虑，并称按联邦上诉程序规则自己本应有10天答复期且未获合理提前通知。苹果最新回应称无须撤销暂缓，Epic也未证明开发者因此推迟采用替代支付；在寻求最高法院审查期间，苹果目前未对外链购买收取佣金。",
               "source_url": "https://9to5mac.com/2026/04/10/app-store-fight-continues-as-apple-and-epic-clash-over-court-ordered-stay/",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/04/10/report-apple-tops-global-smartphone-market-for-first-time-in-q1-as-overall-shipments-drop/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-11T06:55:45+08:00"
-            },
-            {
-              "title": "苹果预告将在 CHI 2026 展示 AI、无障碍和 AirPods Pro 3 研究",
-              "brief": "苹果宣布将参加4月13日至17日在西班牙巴塞罗那举行的CHI 2026，带来三篇研究论文和一场演示。研究主题涵盖借助设计师隐性反馈训练AI生成更完善界面、帮助开发者快速比较UI变化，以及为盲人提供街景图像描述。现场还会展示AirPods Pro 3重新设计的佩戴适配，依据逾一万份3D耳部扫描和超过十万小时的人体工学、声学与工业设计研究。",
-              "source_url": "https://9to5mac.com/2026/04/10/apple-previews-ai-accessibility-and-airpods-pro-3-research-for-chi-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-11T05:44:24+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026 年 4 月 10 日，Apple Store 关店等话题",
-              "brief": "这一期9to5Mac Daily汇总了苹果当天的几条主要动态，包括三家美国Apple Store将永久关闭。节目延续其工作日更新播客形式，集中整理苹果及周边生态的重要新闻，方便听众快速追踪当天话题。关键细节是本期还谈到2026年第一季度Mac出货量同比增长9%，以及爆料者提到的iPhone 18 Pro两项设计变化。",
-              "source_url": "https://9to5mac.com/2026/04/10/daily-april-10-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-11T05:17:46+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "我用 Google Drive 取代 NAS 一个月，几乎没察觉差别",
+              "brief": "作者因外出旅行一个月而关闭家中 NAS，改以随身 SSD 配合 Google Drive 访问和处理文件，发现大多数时候几乎感觉不到变化。文章称，云存储虽然不具备本地网络存储在断网可用、全天候在线和高速访问上的优势，但在跨设备同步、界面体验、链接分享与协作普及度上更方便；相比之下，NAS 更像自建服务器，还要自己负责搭建、维护和排障。",
+              "source_url": "https://www.androidauthority.com/replaced-nas-with-google-drive-ssd-3656540/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-11T20:00:39+08:00"
+            },
+            {
               "title": "iPadOS 26 多任务太差，作者改用安卓平板",
               "brief": "文章称，iPadOS 26 的多任务改版糟糕到让作者放弃长期使用的 iPad，转而更常用 Galaxy Tab S10 Plus。此前 iPad 分屏功能虽有限，但操作直观，Stage Manager 也已足够多数人使用。如今从应用切换器拖入分屏的方式被取消，用户需反复拖拽应用或点按类似 macOS 的窗口按钮完成布局，而相关界面元素又过小，进一步影响操作。",
               "source_url": "https://www.androidauthority.com/ipados-multitasking-sucks-prefer-android-3654697/",
@@ -155,19 +162,26 @@
               "source_url": "https://www.androidauthority.com/old-kindle-support-ending-wont-buy-another-model-why-3656440/",
               "source_name": "Android Authority",
               "published_at": "2026-04-11T17:30:50+08:00"
-            },
-            {
-              "title": "新版 Google Wallet 上手：修复了作者最在意的两大问题",
-              "brief": "Google 自 4 月 10 日起开始推送新版 Wallet，作者在 Pixel 10a 上体验后认为，这次改版解决了自己此前最不满意的两项通行证管理问题。旧版将所有通行证以纵向长卡片集中展示，占位大且首页难以聚焦常用内容。新版把通行证改为更紧凑的方形卡片，同样空间可显示更多项目，并允许用户只在首页显示已加星的通行证，仍保留长按调整顺序和点按查看详情等基础操作。",
-              "source_url": "https://www.androidauthority.com/google-wallet-app-2026-redesign-hands-on-3656685/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-11T17:00:48+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Engadget 评测汇总：华硕 ZenBook A16、AirPods Max 2、Sonos Play 和 LG Sound Suite",
+              "brief": "Engadget 发布最新评测汇总，回顾近期测试的多款消费电子产品，涵盖华硕 ZenBook A16、AirPods Max 2、Sonos Play 和 LG Sound Suite。编辑称自上次汇总后，团队已完整评测十多款设备。其中 ZenBook A16 因轻薄机身、OLED 屏、丰富接口和 Snapdragon X2 带来的性能提升尤受关注，但仍存在 Arm 兼容性和部分 PC 游戏支持限制。",
+              "source_url": "https://www.engadget.com/engadget-review-recap-asus-zenbook-a16-airpods-max-2-sonos-play-and-lg-sound-suite-133000521.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-11T21:30:00+08:00"
+            },
+            {
+              "title": "X 的消息应用 XChat 可能很快上线",
+              "brief": "X 的独立消息应用 XChat 已出现在 App Store，页面显示预计于 2026 年 4 月 17 日开放下载。马斯克早在 2025 年中就提过要升级 X 私信，并加入加密与全新架构，如今产品改为独立应用。它支持与 X 上任何人聊天和跨设备通话，并提供端到端加密、全员可见的编辑删除、防截屏、5 分钟消失消息、最多 481 人群聊，且承诺无广告、不跟踪用户。",
+              "source_url": "https://www.engadget.com/apps/xs-messaging-app-xchat-may-be-available-soon-114722904.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-11T19:47:22+08:00"
+            },
             {
               "title": "凶猛牛头怪、更多《CloverPit》及其他值得一试的独立游戏",
               "brief": "文章汇总本周值得关注的独立游戏新作、周末可玩的新品，以及未来将推出的作品。背景是最新一届 Triple-i Initiative 展示会信息密集，带来了《1000xResist》开发商 Sunset Visitor 新作首曝、《Don't Starve》后续消息等。细节上，《Thick as Thieves》公布发售日，《Windrose》确认抢先体验时间，《Neverway》给出发售窗口且 Steam 序章现已可玩。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.engadget.com/gaming/epic-is-reportedly-building-an-extraction-shooter-for-disney-220401382.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-11T07:29:51+08:00"
-            },
-            {
-              "title": "FAA 正鼓励游戏玩家投身空中交通管制工作",
-              "brief": "美国联邦航空管理局正以“玩家技能可迁移”为切入点，招募游戏玩家申请空中交通管制岗位，报名将于4月17日开放。背景是美国空管员长期短缺，相关流失趋势自2010年代持续，并在2020年代疫情期间进一步恶化。细节上，FAA 在新广告中把游戏与指挥航班调度类比，并称从业满三年的平均年薪约为15.5万美元；审计报告显示，2025年底在岗人数为13,164人，较2015年少6%。",
-              "source_url": "https://www.engadget.com/gaming/the-faa-is-encouraging-gamers-to-get-jobs-in-air-traffic-control-230308014.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-11T07:03:08+08:00"
-            },
-            {
-              "title": "男子涉嫌向萨姆·奥特曼住宅投掷燃烧瓶",
-              "brief": "旧金山警方称，一名20岁男子涉嫌向OpenAI首席执行官萨姆·奥特曼位于北滩社区的住宅投掷燃烧瓶，造成外侧大门起火。警方在当天清晨接报后展开调查，约一小时后又在处理一宗扬言烧毁建筑的警情时将其逮捕，涉事地点据报为OpenAI总部。公司确认无人受伤，嫌疑人已被拘押，并正协助执法部门继续调查。",
-              "source_url": "https://www.engadget.com/ai/a-man-allegedly-threw-a-molotov-cocktail-at-sam-altmans-house-210444731.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-11T05:04:44+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "买一款优秀的 Switch 2 USB-C 底座，不必花超过 50 美元",
+              "brief": "文章测试了两款适配 Switch 2 的第三方 USB-C 底座，认为在功能几乎一致的情况下，消费者没有必要为更贵产品多花钱。背景是任天堂在 Switch 2 上更改了手柄无线协议和 USB-C 视频输出方式，令配件厂商需要重新适配。作者指出，目前已有两款可靠替代方案，硬件表现并非短板，主要差别仍在价格。",
+              "source_url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+              "source_name": "The Verge",
+              "published_at": "2026-04-11T09:30:00-04:00"
+            },
+            {
+              "title": "恶魔题材和弹珠游戏是天作之合",
+              "brief": "《Devils on the Moon Pinball》把恶魔意象与弹珠台玩法结合，成为 Playdate 上一款轻巧且讨喜的便携作品。文章以经典游戏《Devil’s Crush》作对照，说明这种题材与追逐高分的熟悉循环为何格外契合。作者还提到，这款新作几乎把标题字面化，并以更小巧的设备填补了自己长期依赖 Wii U 才能获得的那种体验。",
+              "source_url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+              "source_name": "The Verge",
+              "published_at": "2026-04-11T09:00:00-04:00"
+            },
+            {
+              "title": "伊朗如何在“烂梗发帖”上压过白宫",
+              "brief": "文章回顾伊朗战争初期的舆论战，认为当白宫忙着发布带有游戏化风格的帖子时，伊朗政权反而在传播层面占了上风。作者指出，现实本就更有利于伊朗一方，但其并未摆脱迷雾与虚假信息的既有套路，而是进一步转向廉价、粗糙的 AI 宣传内容，延续原有的信息操控方式。",
+              "source_url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+              "source_name": "The Verge",
+              "published_at": "2026-04-11T09:00:00-04:00"
+            },
+            {
+              "title": "这部新剧正在拿科技兄弟开涮",
+              "brief": "本周《Installer》聚焦一部嘲讽“科技兄弟”的新剧，并继续整理编辑最近最值得关注的科技与娱乐内容。文章同时点到阿耳忒弥斯二号照片，以及新的《星球大战》和《宝可梦》相关内容。作者还提到自己最近在改装旧 iPod、用 DualShot Recorder 拍视频，并让 Stream Deck Mini 控制办公室灯光，延续栏目一贯的清单式分享。",
+              "source_url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+              "source_name": "The Verge",
+              "published_at": "2026-04-11T08:00:00-04:00"
+            },
+            {
               "title": "固态电池的“圣杯”终于要来了？",
               "brief": "芬兰初创公司Donut Lab宣称在固态电池上取得突破，让这项常被称为电池“圣杯”的技术再次成为焦点。固态电池长期被视为电动车和储能领域的重要目标，但多年来始终受制于性能、成本与制造难度之间的平衡。报道称，无论外界是否完全相信Donut Lab的表述，这一进展看起来都不只是炒作，说明相关技术已有比口号更扎实的基础。",
               "source_url": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
               "source_name": "The Verge",
               "published_at": "2026-04-11T07:00:00-04:00"
-            },
-            {
-              "title": "如今 FAA 说，游戏玩家能缓解空管员短缺",
-              "brief": "美国联邦航空管理局在4月17日年度空管招聘窗口开启前，推出面向游戏玩家的招募宣传，试图缓解持续多年的空中交通管制员短缺。背景是美国政府问责局今年1月称，过去十年美国空管人数约下降6%。关键细节是运输部监察长办公室同时指出，FAA仍面临合格教员不足、培训容量受限等培训难题，合格人选要真正上岗依然不易。",
-              "source_url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T16:50:51-04:00"
-            },
-            {
-              "title": "20岁男子因涉嫌向萨姆·奥特曼住宅投掷燃烧瓶被捕",
-              "brief": "旧金山警方逮捕一名20岁男子，指其周五清晨向OpenAI首席执行官萨姆·奥特曼位于俄罗斯山的住宅投掷燃烧瓶。背景是监控在美东时间早上7点前拍到事发经过，当天稍晚，一名与嫌疑人描述相符的人又在OpenAI位于米慎湾的办公室外发出威胁。关键细节是其于约早上9点被捕，OpenAI表示无人受伤，公司正协助执法部门展开调查。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T16:16:57-04:00"
-            },
-            {
-              "title": "如何观看阿耳忒弥斯二号宇航员返回地球",
-              "brief": "阿耳忒弥斯二号任务的“猎户座”飞船即将把4名宇航员送回地球，相关报道介绍了观众如何关注这次返航。背景是机组完成了一次为期9天、绕月球背面飞行的任务，成员包括里德·怀斯曼、维克托·格洛弗、克里斯蒂娜·科赫和加拿大宇航员杰里米·汉森。关键细节是飞船将高速再入大气层，并预计在圣迭戈附近太平洋海域溅落。",
-              "source_url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T16:08:08-04:00"
-            },
-            {
-              "title": "微软允许 Windows 11 测试者无需 ViVeTool 解锁实验功能",
-              "brief": "微软将允许 Windows 11 测试者无需 ViVeTool 等第三方工具，直接开启实验性功能。此举是简化 Windows 预览体验计划的一部分，原有 Dev 和 Canary 通道将改为新的实验通道，现有 Beta 通道也会更新。微软表示，长期采用的受控功能分批发布常以 A/B 测试形式开放，导致测试者未必能及时用上已公布的新功能。",
-              "source_url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
-              "source_name": "The Verge",
-              "published_at": "2026-04-10T14:00:00-04:00"
             }
           ]
         },
@@ -294,18 +294,39 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "把 Firefox 所有扩展都装上会怎样",
+              "brief": "有人尝试在 Firefox 中安装官方扩展商店全部约 8.4 万个扩展，结果浏览器几乎无法使用。实验统计显示，这些扩展总容量 49.3GB，平均 584.9kB，最大扩展达 196.3MB，76.7% 为开源，34.3% 没有日活用户。加载到 65,335 个扩展后浏览器开始挂起卡死，全部装完后连 about:addons 页面都要约 6 小时才能打开。",
+              "source_url": "https://www.solidot.org/story?sid=84020",
+              "source_name": "Solidot",
+              "published_at": "2026-04-11T21:12:09+08:00"
+            },
+            {
+              "title": "全球夜间人造光亮度 8 年增 16%",
+              "brief": "研究人员分析卫星观测数据发现，2014 年至 2022 年全球夜间人造光总体亮度增加了 16%。相关论文发表于《自然》，并指出变化并不均匀，而是不同地区此消彼长形成拼图式格局。2022 年美国总亮度居首，中国、印度、加拿大和巴西随后；增长多与城市化、基建扩张和农村电气化有关，撒哈拉以南非洲与东南亚最明显。",
+              "source_url": "https://www.solidot.org/story?sid=84019",
+              "source_name": "Solidot",
+              "published_at": "2026-04-11T20:18:47+08:00"
+            },
+            {
+              "title": "涉嫌向 Sam Altman 住处投掷燃烧瓶的嫌疑人被捕",
+              "brief": "旧金山警方逮捕一名嫌疑人，称其涉嫌向 OpenAI 首席执行官 Sam Altman 住宅投掷燃烧装置，并在公司位于 Mission Bay 的总部外发表威胁言论。OpenAI 向员工通报称，事件发生在周五凌晨约 3:45，装置落在住宅附近后自行熄灭。事件未造成人员受伤，仅有轻微财产损失；公司表示办公楼照常开放，但可能加强安保。",
+              "source_url": "https://www.solidot.org/story?sid=84018",
+              "source_name": "Solidot",
+              "published_at": "2026-04-11T19:58:23+08:00"
+            },
+            {
+              "title": "Artemis II 宇航员返回地球",
+              "brief": "执行 Artemis II 绕月任务的四名宇航员已于 4 月 10 日下午在圣迭戈附近海域溅落返回地面。机组包括 NASA 宇航员 Reid Wiseman、Victor Glover、Christina Koch 和加拿大航天局宇航员 Jeremy Hansen，随后被直升机送往舰上接受初步体检。此次任务总飞行里程为 694,481 英里，刷新了 1970 年阿波罗 13 号保持的人类最远飞行纪录。",
+              "source_url": "https://www.solidot.org/story?sid=84017",
+              "source_name": "Solidot",
+              "published_at": "2026-04-11T19:17:40+08:00"
+            },
+            {
               "title": "阿根廷巴塔哥尼亚企鹅栖息地检出 PFAS",
               "brief": "研究人员在2022至2024年阿根廷巴塔哥尼亚海岸企鹅繁殖季，为54只麦哲伦企鹅佩戴硅胶被动取样器，结果在九成以上样本中检出PFAS。采样覆盖企鹅数天活动期间接触的水、空气和表面化学物质，样品回收后送至纽约州立大学布法罗检测。研究指出，这类被称为“永久化学品”的全氟和多氟烷基物质即使在偏远地区也已存在。",
               "source_url": "https://www.solidot.org/story?sid=84016",
               "source_name": "Solidot",
               "published_at": "2026-04-11T00:48:49+08:00"
-            },
-            {
-              "title": "FBI 借助 iPhone 通知数据恢复已删除的 Signal 消息",
-              "brief": "FBI在一宗涉及得州Alvarado的ICE Prairieland拘留设施燃放烟花和破坏财产的案件中，借助iPhone保存的通知数据库，恢复了已删除的Signal消息。虽然Signal采用端对端加密，但iPhone通知预览会把消息相关内容写入本地数据库；本案中被告未关闭预览，也未调整通知显示方式。结果即使应用已卸载，相关消息仍可被取回。",
-              "source_url": "https://www.solidot.org/story?sid=84015",
-              "source_name": "Solidot",
-              "published_at": "2026-04-10T23:55:54+08:00"
             }
           ]
         },
@@ -466,39 +487,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "曝京东“国民好车”新伙伴为长安深蓝，4月13日官宣",
-              "brief": "京东“国民好车”新伙伴被曝为长安深蓝，官方定于4月13日正式宣布合作信息。此前京东已预告将再揭晓一家合作主机厂，并计划今年在100个城市开设“国民好车”交付中心，面向京东汽车自营店用户提供更多购车与提车选择。报道还提到，这批交付中心将作为项目的重要落地配套，承接相关车辆交付服务。",
-              "source_url": "https://www.ithome.com/0/938/157.htm",
+              "title": "《生化危机：安魂曲》D 加密被破解，显存占用减少 1.5 至 2GB",
+              "brief": "《生化危机：安魂曲》的 D 加密已被“完美破解”，相关代码被完全移除，游戏性能因此获得更明显改善。此前黑客多靠关闭 Windows 安全功能绕过 D 加密，操作复杂且风险较高，残留代码也让提升有限。测试显示，该版本帧率约提升 5%，显存减少 1.5 至 2GB，内存最高减少 1GB，CPU 峰值更低、帧数更稳定。",
+              "source_url": "https://www.ithome.com/0/938/174.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-11T19:13:54+08:00"
+              "published_at": "2026-04-11T21:47:11+08:00"
             },
             {
-              "title": "东风日产回应李想喊话：尊重每一家同行，包括理想汽车",
-              "brief": "针对李想在朋友圈指称某日系品牌雇佣营销号和黑水军的表态，东风日产新能源品牌总经理王骞公开回应，称公司尊重每一家为中国汽车产业努力的同行，包括理想汽车。王骞于2024年底开始全面执掌东风日产新能源业务，公司近期正处于新能源产品密集投放期。公开信息显示，其一年内已连续推出N7、N6和NX8三款车型，覆盖轿车、SUV以及纯电、增程、插混三种路线。",
-              "source_url": "https://www.ithome.com/0/938/156.htm",
+              "title": "《红色沙漠》正式支持英特尔显卡，提供 XeSS 超采样与帧生成",
+              "brief": "《红色沙漠》最新版本已正式支持英特尔显卡，并加入 XeSS 超采样与帧生成功能。更新同时纳入 AMD Radeon Anti-Lag 2 低延迟技术，并修复启用英伟达 DLSS-RR 后屏幕扭曲效果出现噪点的问题，但文中提到英特尔显卡开启 XeSS 仍存在显示异常。主机端新增增强型光追和 PSSR 清晰度选项，整体稳定性、报错及部分内容功能也一并优化。",
+              "source_url": "https://www.ithome.com/0/938/173.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-11T19:11:22+08:00"
+              "published_at": "2026-04-11T21:45:38+08:00"
             },
             {
-              "title": "宇树机器人跑出10米/秒，刷新世界纪录",
-              "brief": "宇树机器人跑出10米每秒速度，报道称这一成绩刷新世界纪录，并已逼近博尔特百米冲刺的速度极限。官方资料显示，H1机器人曾在2025年8月以3.3米每秒创下人形机器人速度纪录，H1-2身高约178厘米、体重约70千克。王兴兴此前还表示，预计2026年年中人形机器人的百米冲刺速度有望跑进10秒。",
-              "source_url": "https://www.ithome.com/0/938/155.htm",
+              "title": "我国成功发射卫星互联网技术试验卫星",
+              "brief": "我国成功发射卫星互联网技术试验卫星，此次任务由捷龙三号运载火箭执行，也是该型火箭第 11 次飞行。捷龙三号是一款四级固体运载火箭，全长 31.8 米，起飞重量 140 吨，500 公里太阳同步轨道运载能力为 1.5 吨，具备零窗口、全方位发射和 72 小时内完成技术准备的能力。该卫星主要验证卫星互联网通信协议、组网及天地协同测控等关键技术。",
+              "source_url": "https://www.ithome.com/0/938/172.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-11T19:03:48+08:00"
+              "published_at": "2026-04-11T21:23:05+08:00"
             },
             {
-              "title": "米哈游与三星再联动：Galaxy S26 Ultra《崩坏：星穹铁道》配件礼盒4月24日韩国发售",
-              "brief": "米哈游与三星再次在韩国联动，Galaxy S26 Ultra《崩坏：星穹铁道》昔涟配件礼盒将于4月24日发售，限量2000套。该礼盒售价294000韩元，4月17日开启预售，若线下销售结束后仍有库存，三星将再安排线上发售。礼盒内容包括磁吸手机壳、亚克力音乐盒、立牌、卡包、钥匙扣、兑换码以及One UI定制主题。",
-              "source_url": "https://www.ithome.com/0/938/154.htm",
+              "title": "KSG 4 比 0 战胜狼队，夺得 2026《王者荣耀》KPL 春季赛冠军",
+              "brief": "2026 年《王者荣耀》KPL 春季赛总决赛中，苏州 KSG 以 4 比 0 击败重庆狼队，夺得队史首座联赛冠军。KSG 此前在季后赛曾从败者组连续淘汰深圳 DYG、北京 WB 和成都 AG 超玩会，完成“一穿三”后晋级决赛，这也是队史第二次闯入总决赛。官方信息显示，冠军战队将获得专属签名皮肤，KSG 选择了“西施-诗语江南”，4 月 16 日开放兑换。",
+              "source_url": "https://www.ithome.com/0/938/171.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-11T18:41:39+08:00"
+              "published_at": "2026-04-11T21:21:19+08:00"
             },
             {
-              "title": "New Blood创始人称Steam一周销量堪比主机平台数年总和",
-              "brief": "New Blood Interactive创始人表示，Steam一周销量几乎就能达到其游戏在主机平台数月甚至数年的总表现，凸显PC平台的规模优势。他同时承认，这一比较并不完全公平，因为工作室不少作品是在PC版发布多年后才登陆主机。受此差异影响，公司会优先考虑PC发行与更新，以避免主机平台较为复杂的认证流程。",
-              "source_url": "https://www.ithome.com/0/938/153.htm",
+              "title": "数毛社评 PS5/PS5 Pro 版《星空》：游戏依然出色，但崩溃等问题待解",
+              "brief": "数毛社评测认为，PS5 与 PS5 Pro 版《星空》整体仍有不错表现，但频繁崩溃等问题亟待解决。测试显示，PS5 性能模式室内场景接近稳定 60 帧，画质模式复杂场景可维持 30 帧；PS5 Pro 帧率有时更高，却会出现 PSSR 闪烁、噪点等伪影。两台主机都曾出现整机卡死需强制重启，且画质组合过多、HDR 表现也被指不理想。",
+              "source_url": "https://www.ithome.com/0/938/170.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-11T18:36:12+08:00"
+              "published_at": "2026-04-11T21:15:26+08:00"
             }
           ]
         }
