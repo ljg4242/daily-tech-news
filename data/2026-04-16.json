@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T04:09:53.046198+08:00",
+  "generated_at": "2026-04-16T06:09:20.431281+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "研究人员如何从MKBHD锁屏iPhone盗取1万美元",
+              "brief": "核心事件：研究人员利用NFC漏洞从锁屏iPhone盗取资金，Veritasium频道演示从YouTuber Marques Brownlee手机窃取1万美元。背景：该漏洞由萨里大学和伯明翰大学网络安全团队开发，利用Visa卡与iPhone的Express Transit模式，通过模拟公交终端标识绕过锁屏限制。细节：攻击需物理接触设备及专用硬件，包括NFC读卡器拦截支付通信，连接笔记本电脑收集数据后传输至一次性手机完成支付。此漏洞仅针对Visa卡与iPhone组合，不适用于Mastercard、美国运通卡或三星设备，苹果称其为Visa系统问题而非iPhone缺陷，实际发生概率较低。",
+              "source_url": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-16T05:13:27+08:00"
+            },
+            {
+              "title": "苹果送Siri工程师参加AI编程训练营 为全面升级做准备",
+              "brief": "核心事件：苹果将大批Siri工程师送往为期数周的AI编程训练营，学习使用AI工具进行编码。背景：此举发生在苹果预计于WWDC发布更智能Siri版本前两个月，因Siri团队被内部视为技术滞后，未能如期交付iOS 18的Apple Intelligence版Siri，导致组织架构调整。细节：训练期间约60名开发人员留守维护Siri，另60人评估性能；苹果AI负责人John Giannandrea已于2025年底离职，软件工程主管Craig Federighi接管AI开发，Vision Pro负责人Mike Rockwell领导Siri团队。苹果还与谷歌达成协议，未来Siri等功能将基于Gemini模型驱动。",
+              "source_url": "https://www.macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-16T04:19:23+08:00"
+            },
             {
               "title": "谷歌推出Mac原生Gemini AI应用",
               "brief": "谷歌于2026年4月15日正式发布Mac原生Gemini AI应用，标志着三大主流AI服务均已完成Mac平台布局。作为OpenAI和Anthropic之后最后一个推出专属Mac应用的AI服务，Gemini可通过Option+Space快捷键全局唤醒，支持屏幕内容分析、文件审阅及图像生成等功能。用户可将任意窗口共享给Gemini获取上下文协助，浏览器窗口需授权辅助功能权限。该应用兼容macOS 15及以上系统，免费版有使用限制，付费订阅分为月费7.99美元的AI Plus、19.99美元的AI Pro及249.99美元的AI Ultra三档。谷歌称此为构建个人化主动式桌面助手的第一步，未来数月将公布更多进展。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/04/15/apple-to-host-events-in-london-ahead-of-marathon/",
               "source_name": "MacRumors",
               "published_at": "2026-04-15T22:29:18+08:00"
-            },
-            {
-              "title": "Apple Watch Ultra 3迎来2026年迄今最低价，部分型号降价99美元",
-              "brief": "亚马逊近期推出Apple Watch Ultra 3的新优惠，部分型号降价99美元，这是2026年迄今追踪到的最佳价格。其中，自然色配锚蓝海洋表带款和自然色配蓝/亮蓝径迹回环款（中/大号）售价均为699.99美元，原价799美元。黑色配黑色米兰尼斯表带款（大号）和自然色米兰尼斯表带款（大号）售价799.99美元，原价899美元。这些优惠价格与历史最低价相差不到19美元，是2026年目前看到的最好价格。苹果手表Ultra 3于2025年9月发布，配备更亮的显示屏、新的手势控制和更快的芯片。",
-              "source_url": "https://www.macrumors.com/2026/04/15/apple-watch-ultra-3-99-off-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-15T22:22:02+08:00"
-            },
-            {
-              "title": "苹果因性化图像威胁将Grok从App Store下架",
-              "brief": "苹果在1月份私下警告埃隆·马斯克的xAI公司，除非该公司停止其聊天机器人Grok生成裸体和性化深度伪造内容，否则将从App Store中移除该应用。此前，Grok的AI功能因X用户分享由该应用生成的非自愿性化女性及儿童图像而受到审查，其中许多图像基于真人照片。苹果内部发现X和Grok均违反其App Store指南，并要求开发者提交内容审核计划。苹果最初拒绝了xAI的修复方案，认为“更改不够彻底”，并警告需要进一步修改，否则将下架Grok。经过多次沟通，苹果最终认定后续提交的版本改进足够，批准了该应用。这一披露由美国参议员致信苹果和谷歌要求下架两款应用所引发。",
-              "source_url": "https://www.macrumors.com/2026/04/15/apple-threatened-pull-grok-from-app-store/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-15T22:10:28+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "报告称App Store搜索建议和广告引导用户使用“裸体生成”应用",
+              "brief": "一份新报告指控苹果和谷歌的应用商店搜索建议及广告系统正在帮助用户发现可生成女性深度伪造裸体图像的“裸体生成”应用。报告指出，在搜索“nudify”等关键词时，近40%的顶部结果应用能生成裸露内容，部分甚至显示适合未成年人使用。调查发现，App Store中搜索“deepfake”的首个结果是FaceSwap Video应用的广告，该应用可将人物面部无缝移植到裸露视频中。另一款AI Face Swap应用也存在类似无限制换脸功能。尽管苹果和谷歌已被告知此事，但此类应用仍未被有效遏制。部分开发者承认使用Grok等工具生成图像，但声称不知其能产生极端内容，并承诺加强审核。",
+              "source_url": "https://9to5mac.com/2026/04/15/new-report-claims-app-store-search-suggestions-and-ads-steered-users-to-nudify-apps/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T06:04:50+08:00"
+            },
+            {
+              "title": "报告：2026年苹果将推动OLED笔记本增长，智能手机需求放缓",
+              "brief": "Counterpoint Research报告显示，2026年智能手机OLED面板需求因内存成本上升而低于预期，其中可折叠OLED预计增长34%（原估46%），柔性OLED增长持平，刚性OLED将下降15%。与此同时，OLED笔记本市场预计将实现33%的同比增长，主要驱动力来自苹果计划为MacBook Pro机型转向OLED显示屏，以及高端AI PC的持续扩张——其较高均价有助于抵消内存成本压力。整体OLED市场（含平板、显示器、车载等）在2026年的出货量预计与去年持平，智能手机的疲软将被显示器（增长45%）、平板（增长13%）及车载显示的增长所抵消。",
+              "source_url": "https://9to5mac.com/2026/04/15/apple-to-drive-oled-notebook-growth-in-2026-amid-smartphone-slowdown-per-report/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T05:24:00+08:00"
+            },
+            {
+              "title": "报告：苹果将派遣Siri工程师参加为期数周的AI编程训练营",
+              "brief": "据报道，苹果将抽调“不到200名”Siri工程师参加为期数周的AI编程技能训练营，以提升他们利用AI编程工具的能力。此举表明苹果认为部分Siri团队需要跟上编程领域的快速变革，因为Anthropic的Claude Code和OpenAI的Codex等AI编程助手已显著改变开发效率。消息称，AI编码工具已在苹果软件工程等部门广泛采用，部分团队为Claude Code分配了高额预算。训练营后，约60名核心Siri开发成员将留任，另有60人将负责评估Siri性能及安全性。这一安排正值WWDC26（6月8日）前夕，苹果预计将发布基于谷歌Gemini模型的重构版AI驱动Siri。",
+              "source_url": "https://9to5mac.com/2026/04/15/report-apple-to-send-siri-engineers-to-multi-week-ai-coding-bootcamp/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T04:57:09+08:00"
+            },
+            {
+              "title": "iOS 26.4为主屏幕新增全新“氛围音乐”小组件",
+              "brief": "iOS 26.4引入了两款全新的“氛围音乐”小组件，专注于提供一键播放功能。较小的小组件支持单一播放列表，较大的则提供四个“心情”选项（放松、高效、睡眠、健康）的一键播放按钮。用户可自定义每个心情对应的音乐，既可选择苹果内置的预设播放列表（如睡眠声音、睡前节拍等），也可关联自定义播放列表。这些小组件基于去年在控制中心首发的“氛围音乐”功能构建，但目前仅支持Apple Music，Spotify用户无法使用。要自定义小组件，用户需长按小组件并选择“编辑小组件”进行设置。",
+              "source_url": "https://9to5mac.com/2026/04/15/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T04:26:03+08:00"
+            },
+            {
               "title": "苹果称乔恩·普罗瑟仅部分遵守iOS 26泄密案传票",
               "brief": "苹果就iOS 26设计细节泄密案向法院提交最新进展报告。核心事件是苹果指控泄密者乔恩·普罗瑟未完全遵守传票要求。背景源于苹果起诉前工程师和泄密者拉马乔蒂窃取商业机密，涉及iOS 26未发布信息。细节显示，拉马乔蒂已配合调查并提供设备供取证，而普罗瑟虽承认收到传票，但仅部分配合，此前法院已因其未及时应诉作出缺席判决。双方将继续通过有限证据开示推进案件，苹果计划完成第三方取证后安排普罗瑟补充证词。",
               "source_url": "https://9to5mac.com/2026/04/15/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-16T03:42:25+08:00"
-            },
-            {
-              "title": "微软推出大学优惠计划应对MacBook Neo竞争",
-              "brief": "微软启动“大学优惠”计划，旨在吸引学生用户远离苹果MacBook Neo。核心事件是微软联合宏碁、华硕、戴尔、惠普、联想等主流PC厂商，为美国大学生提供购买指定Windows 11电脑可获12个月免费Microsoft 365高级版和Xbox Game Pass Ultimate订阅。背景是苹果近期推出售价599美元的MacBook Neo，并对教育用户提供100美元折扣。细节显示，该优惠仅限新订阅用户，总价值超500美元，但分析认为其难以抵消MacBook Neo在性价比和整体质量上的优势，且微软365免费订阅对已有用户无吸引力。",
-              "source_url": "https://9to5mac.com/2026/04/15/microsoft-has-a-new-idea-on-how-to-deter-students-from-macbook-neo/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T03:40:36+08:00"
-            },
-            {
-              "title": "视频演示在受控环境下从锁定iPhone盗取1万美元",
-              "brief": "Veritasium视频展示一种利用iPhone NFC支付漏洞盗取资金的方法。核心事件是研究人员演示如何通过技术手段让锁定iPhone误以为支付终端是公共交通终端，从而绕过苹果“快捷交通”功能的安全限制。背景是该漏洞由教授布雷诺和乔西亚于2021年发现，至今未修复，仅适用于将Visa卡设为快捷交通选项的iPhone。细节显示，攻击需在高度受控环境下进行，通过特定黑客手段可提取高达1万美元，Visa称持卡人受零责任承诺保护，但承认漏洞在实际场景中极难发生。苹果表示问题根源在Visa端。",
-              "source_url": "https://9to5mac.com/2026/04/15/video-shows-how-to-steal-10000-from-locked-iphone-in-controlled-setting/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T03:30:42+08:00"
-            },
-            {
-              "title": "苹果今年将发布超15款新品，包括首款折叠iPhone",
-              "brief": "苹果计划在今年晚些时候推出超过15款新产品。核心事件包括iPhone 18系列将取消基础型号，转向超高端定位，并首次推出折叠屏iPhone Ultra。背景是苹果正加速产品线更新，涵盖iPhone、Mac、iPad及智能家居设备。细节显示，iPhone 18 Pro将配备可变光圈摄像头和新深红色，iPhone Air 2发布时间未定。Mac方面将更新M5版Mac Studio、Mac mini和iMac，并推出全新设计的M6 MacBook Pro。此外还将发布新款AirPods Pro、Apple Watch、iPad mini和基础款iPad，以及可能带摄像头的Apple TV 4K和新HomePod产品。",
-              "source_url": "https://9to5mac.com/2026/04/15/apple-will-launch-15-new-products-later-this-year-heres-whats-coming/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T02:19:22+08:00"
-            },
-            {
-              "title": "《Pluribus》第二季拍摄时间确定，秋季开机",
-              "brief": "核心事件：苹果科幻剧《Pluribus》第二季拍摄时间更新，计划于2026年秋季开机。背景：该剧第一季停播仅数月，创作团队一直对第二季进展保持沉默，仅表示编剧工作正在进行中。细节：演员Karolina Wydra在采访中透露，第二季预计在秋季开始拍摄，虽无具体日期，但这是首次明确的拍摄时间表。若拍摄顺利，剧集可能在2027年秋季首播，最晚或延至2028年。同时，苹果另一剧集《Severance》第三季也将开拍，预计2027年底播出，苹果可能避免两部剧集同时上线。",
-              "source_url": "https://9to5mac.com/2026/04/15/pluribus-season-2-just-got-an-exciting-release-timing-update/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T01:13:11+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "安卓手机不受长期存在的iPhone免解锁支付漏洞影响",
+              "brief": "近期Veritasium视频披露了一项长期存在的支付漏洞，攻击者可在用户未解锁iPhone的情况下完成大额交易。该漏洞利用交通系统的“快速模式”绕过锁屏验证，并借助Visa支付处理器的缺陷避免交易被标记。攻击需要特殊硬件和已root的安卓手机作为卡片模拟器。苹果将问题根源指向Visa，而Visa认为实际攻击难度较大。值得注意的是，安卓手机目前不受此漏洞影响：三星会标记交通模式下的大额交易，Google钱包虽支持锁屏支付，但要求屏幕必须点亮，并持续通过生物识别等功能加强安全防护。",
+              "source_url": "https://9to5google.com/2026/04/15/android-phones-arent-at-risk-of-long-standing-iphone-tap-to-pay-vulnerability-video/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-16T04:55:00+08:00"
+            },
             {
               "title": "YouTube测试在Shorts信息流中展示创作者帖子",
               "brief": "YouTube本周宣布，正在测试将“图片帖子和轮播图”引入Shorts信息流，以便更好地向订阅者展示此类内容。当帖子在Shorts中显示时，创作者最多可在单个帖子中展示10张图片，并添加文字叠加层和免版税音乐。YouTube表示，这是为扩展帖子格式而推出的“众多更新中的第一个”。该实验正在YouTube移动应用上全球范围内逐步推出，旨在帮助创作者通过新位置和新格式与受众建立联系。目前并非所有用户都能立即看到此功能，但YouTube似乎非常渴望推广它。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5toys.com/2026/04/15/today-android-app-deals-free-armed-emeth-poker-joker/",
               "source_name": "9to5Google",
               "published_at": "2026-04-16T01:43:01+08:00"
-            },
-            {
-              "title": "Vivo X300 Ultra全球发布，搭载卓越摄像功能",
-              "brief": "核心事件：Vivo X300 Ultra智能手机全球上市，主打专业级视频拍摄能力。背景：Vivo近年来在相机硬件领域持续创新，旨在缩小智能手机与专业无反相机之间的差距。细节：设备配备骁龙8 Elite Gen 5芯片、16GB RAM和最高1TB存储，搭载6000mAh电池和6.82英寸QHD+ LTPO OLED屏幕。相机系统包括三颗高性能定焦镜头：35mm主摄使用200MP索尼LYTIA 901传感器，85mm潜望式长焦镜头支持200MP和云台级防抖，14mm超广角镜头采用50MP LYTIA 818传感器，并可选配物理长焦扩展器。",
-              "source_url": "https://9to5google.com/2026/04/15/vivo-x300-ultra-goes-global-with-insane-videography-capabilities/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-16T00:34:07+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "美国太空军考虑将大量发射任务从ULA转移至SpaceX",
-              "brief": "美国太空军正评估将联合发射联盟（ULA）的“大量”发射任务转移给SpaceX。这一考虑源于ULA的“火神”火箭在不到两年内遭遇两次停飞，其固体火箭助推器喷嘴故障问题引发军方对可靠性的担忧。背景是“火神”火箭作为太空军两大主力运载器之一，自2024年首飞以来仅执行四次任务，却两次出现助推器异常，目前距离重返军事发射还需数月。细节显示，太空军高层承认“火神”火箭的困境将“绝对”影响五角大楼未来的火箭采购竞争，若SpaceX的飞船准备就绪，将获得优先考虑。",
-              "source_url": "https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/",
+              "title": "TotalRecall Reloaded工具发现Windows 11 Recall数据库的旁路入口",
+              "brief": "核心事件：安全研究人员发现名为TotalRecall Reloaded的工具能够绕过Windows 11 Recall功能的加密保护。背景：Recall是微软Copilot+ PC的AI功能，通过截图记录用户活动，最初因存储未加密数据引发隐私争议，微软随后加强安全措施，要求Windows Hello认证并默认关闭。细节：该工具在用户通过Windows Hello认证Recall后，仍能窃取Recall数据库信息，暴露了安全架构的潜在漏洞，尽管微软已对本地数据加密并改进敏感信息检测。",
+              "source_url": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
               "source_name": "Ars Technica",
-              "published_at": "2026-04-16T02:33:53+08:00"
+              "published_at": "2026-04-16T04:36:28+08:00"
             },
             {
-              "title": "FCC豁免网件公司免受外国路由器禁令限制，未解释原因",
-              "brief": "美国联邦通信委员会（FCC）宣布豁免网件公司的夜鹰和奥比系列路由器、电缆网关及调制解调器，使其免受针对外国制造路由器的全面禁令限制。这一决定基于特朗普政府时期出台的禁令，该禁令要求消费级路由器不得在海外生产，除非国防部或国土安全部认定其不构成国家安全风险。背景是网件成为首个获得豁免的主要消费路由器厂商，其快速通过了多机构审批流程。细节显示，豁免过程不透明，FCC未说明具体豁免原因，仅要求申请企业提交使用外国制造的理由及在美国建立或扩大生产的时间表计划。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+              "title": "谷歌发布适用于Windows和MacOS的新应用",
+              "brief": "核心事件：谷歌正式推出面向Windows的搜索应用和面向MacOS的Gemini应用。背景：谷歌产品通常以网页服务为主，但近年来开始扩展桌面端应用，Windows搜索应用自去年9月进入测试阶段。细节：Windows应用可通过Alt+Space快捷键随时调出浮动搜索界面，支持网页和本地文件搜索，集成AI概览和屏幕内容识别功能；MacOS应用则提供与网页版相同的Gemini AI体验。两款应用旨在为用户提供更便捷的桌面访问方式，目前Windows版仅支持英语。",
+              "source_url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
               "source_name": "Ars Technica",
-              "published_at": "2026-04-16T01:58:07+08:00"
+              "published_at": "2026-04-16T03:46:43+08:00"
             },
             {
-              "title": "Adobe将Creative Cloud带入类Claude Code领域",
-              "brief": "Adobe推出Firefly AI助手，标志着其创意工具战略的重大转变。这款基于聊天的界面能够跨多个Creative Cloud应用程序处理复杂的多模态项目，旨在为经验丰富的创意人员提供跨应用处理繁琐任务的高效方式，同时降低新手用户的入门门槛。与以往仅限于单个应用内的聊天提示不同，Firefly AI助手承诺跨应用协调工作流程，并定期与用户沟通确认。该工具类似于编程领域的Claude Code，允许用户在执行任务过程中随时插入澄清或补充信息，主要通过动态提供上下文信息的聊天界面运作。",
-              "source_url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+              "title": "波士顿动力机器狗借助谷歌AI实现仪表盘读数能力",
+              "brief": "核心事件：波士顿动力的Spot机器狗通过集成谷歌DeepMind的AI模型，能够准确读取工业设施中的模拟仪表和温度计。背景：机器人在工业巡检中常需处理复杂视觉任务，传统方法难以可靠解读模拟仪器。细节：谷歌新发布的Gemini Robotics-ER 1.6模型赋予机器人高级推理能力，使Spot能在移动中识别压力计、视镜等设备，该技术源于谷歌与波士顿动力的合作，旨在提升机器人在汽车工厂等环境中的自主巡检效率，目前已在现代汽车集团设施中进行测试。",
+              "source_url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
               "source_name": "Ars Technica",
-              "published_at": "2026-04-16T00:54:33+08:00"
+              "published_at": "2026-04-16T03:34:33+08:00"
             },
             {
-              "title": "福特CEO称美国就业至关重要，不能冒险进口中国汽车",
-              "brief": "福特CEO吉姆·法利表示，中国汽车进口可能危及近百万美国就业岗位，风险过高。他在采访中指出，中国拥有巨大的过剩产能，每年可额外生产2100万辆汽车，足以覆盖美国约1600万辆的年销量。法利强调制造业是美国的核心，失去这些出口将造成毁灭性打击，并表达了对中国汽车数据收集能力的网络安全担忧。尽管他曾称赞小米SU7等中国电动汽车，但相信福特即将推出的肯塔基州制造平价电动车具备竞争力。谈及去年新车价格上涨2%时，法利多次表示福特已与政府合作，特朗普关税政策“基本没有重大影响”。",
-              "source_url": "https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/",
+              "title": "Prime Video在NBA加时赛中显示技术故障提示",
+              "brief": "核心事件：亚马逊Prime Video在独家直播的NBA附加赛加时阶段突然中断，显示技术故障提示达两分钟。背景：该场迈阿密热火对阵夏洛特黄蜂的比赛仅通过Prime Video播出，吸引了大量球迷关注。细节：直播在加时赛关键时刻切断，观众错过了拉梅洛·鲍尔的得分镜头，直到22秒后才恢复；湖人球员勒布朗·詹姆斯在社交媒体上表达不满，事件引发球迷广泛抱怨，凸显了流媒体服务在独家赛事直播中的可靠性问题，尤其影响无法通过其他渠道观看的观众。",
+              "source_url": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
               "source_name": "Ars Technica",
-              "published_at": "2026-04-16T00:08:26+08:00"
+              "published_at": "2026-04-16T03:16:43+08:00"
             },
             {
-              "title": "《好兆头》第三季预告片预示神圣结局",
-              "brief": "Prime Video超自然喜剧《好兆头》第三季将以90分钟特别集完结。该剧改编自尼尔·盖曼和已故特里·普拉切特1990年的小说，讲述天使亚茨拉斐尔与恶魔克劳利历经千年成为朋友并共同阻止末日的故事。第二季中，大天使加百列失忆出现在书店，两人躲避天堂与地狱的追捕揭开谜团。季末揭示加百列为反对第二次末日计划而隐藏记忆，并与别西卜相爱私奔。此时梅塔特隆邀请亚茨拉斐尔接替加百列职位，克劳利向天使表白爱意。第三季将以此为基础展开最终篇章。",
-              "source_url": "https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion/",
+              "title": "新预告片首次展示《哥斯拉：负零》画面",
+              "brief": "核心事件：东宝公司在CinemaCon发布《哥斯拉：负零》首支预告片，该片是2023年奥斯卡获奖作品《哥斯拉：负一》的续集。背景：哥斯拉系列持续活跃，传奇影业的怪兽宇宙和苹果剧集同期推进，本片回归战后日本设定。细节：导演山崎贵表示影片延续前作主题，探索核爆象征与人性救赎，首支预告已在线发布；前作主角Koichi在击败哥斯拉后与受伤的Noriko重逢，而哥斯拉组织开始再生，续集将承接这一悬念，并成为首部为IMAX拍摄的日本电影。",
+              "source_url": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
               "source_name": "Ars Technica",
-              "published_at": "2026-04-15T23:45:42+08:00"
+              "published_at": "2026-04-16T02:50:41+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Vivo X300 FE全球发布：中端机型首次支持长焦扩展器",
+              "brief": "Vivo正式在全球发布X300 FE中端手机，这是该系列首次在FE型号上支持长焦扩展器配件。作为X300系列的简化版，X300 FE在处理器和相机系统上有所精简以降低价格，但保留了标志性的长焦扩展功能。该机搭载高通骁龙8 Gen 5移动平台，配备6.31英寸显示屏、12GB内存和最高512GB存储，内置6500mAh电池支持90W有线快充和40W无线充电。通过可选的Telephoto Extender Gen 2配件，可将焦距扩展至200mm等效，同时采用铝制框架和IP69防护等级。",
+              "source_url": "https://www.androidauthority.com/vivo-x300-fe-global-launch-3657947/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-16T04:54:26+08:00"
+            },
+            {
+              "title": "TCL推出Tab A1 Plus平板：12.2英寸大屏应对涨价趋势",
+              "brief": "TCL发布新款Android平板Tab A1 Plus，以299美元起售价应对当前平板市场价格上涨趋势。该设备配备12.2英寸2.4K分辨率120Hz刷新率LCD显示屏，搭载高通骁龙4 Gen 2处理器，内置6GB RAM（可扩展至10GB）和128GB存储（支持microSD扩展至2TB）。平板采用全金属一体机身设计，具备IP54防护等级，配备8000mAh大容量电池支持20W快充，并集成多项AI功能包括Gemini、Circle to Search等，同时支持分屏、浮动窗口等多任务操作模式。",
+              "source_url": "https://www.androidauthority.com/tcl-tab-a1-plus-launch-3657914/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-16T04:44:25+08:00"
+            },
             {
               "title": "ECOVACS DEEBOT T30S组合扫地机器人享63%史低折扣",
               "brief": "ECOVACS DEEBOT T30S组合扫地机器人正在亚马逊推出春季促销活动，原价1199.99美元的产品现仅售449美元，折扣幅度高达63%。这款全能清洁设备集成了扫地机器人和手持吸尘器，配备11000Pa强劲吸力和TruEdge自适应边缘拖地技术，能精准清洁家中各个角落。产品还具备先进导航避障功能，支持语音或手机App控制。根据合作网站DealHunt的AI分析，该产品评分达97分，当前价格比90日均价低639.18美元，创下历史新低。",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4-slow-shutter-3657876/",
               "source_name": "Android Authority",
               "published_at": "2026-04-16T02:46:42+08:00"
-            },
-            {
-              "title": "谷歌推出Mac原生Gemini应用进军苹果桌面生态",
-              "brief": "谷歌正式发布了macOS原生版Gemini应用，将其人工智能助手直接带入苹果桌面系统。用户可通过Option+Space快捷键快速唤出应用，并能共享屏幕窗口为Gemini提供上下文信息，使其能协助处理包括本地文件在内的各类任务。该应用支持图像生成和视频创作功能，标志着谷歌在苹果生态系统内的进一步扩张。此前报道显示谷歌已进行数月测试，虽然官方描述比早期“桌面智能”的说法更为温和，但发展方向保持一致。此举正值苹果推进自家Apple Intelligence计划之际，凸显了人工智能领域的生态竞争。",
-              "source_url": "https://www.androidauthority.com/google-gemini-app-on-mac-3657885/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-16T02:26:02+08:00"
-            },
-            {
-              "title": "Android XR四月更新引入新漏洞，谷歌正着手修复",
-              "brief": "Android XR平台四月更新后出现新漏洞，包括头部追踪不稳定和部分VR内容分辨率降低等问题。Android XR是谷歌去年底推出的混合现实操作系统，目前仍处于早期发展阶段。谷歌员工在Reddit社区确认，团队已注意到这些影响用户体验的问题，并正在积极调查修复方案。用户反馈称追踪卡顿导致头显几乎无法使用，VR180格式应用分辨率被限制在50%以下，导致视频明显像素化。谷歌表示修复方案将尽快推出，但未提供具体时间表。",
-              "source_url": "https://www.androidauthority.com/android-xr-april-bugs-3657873/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-16T01:42:34+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "微软推出高校优惠套餐，应对苹果500美元MacBook Neo挑战",
+              "brief": "核心事件：微软针对苹果面向学生推出的500美元MacBook Neo笔记本电脑，发布了名为“微软高校优惠”的应对方案。背景：苹果MacBook Neo以600美元（学生价500美元）的价格冲击Windows平价笔记本市场，微软此次回应旨在吸引学生群体。细节：该优惠套餐包含Microsoft 365 Premium订阅、Xbox Game Pass Ultimate、定制Xbox手柄及折扣笔记本电脑，声称提供额外500美元价值。合作零售商如百思买提供联想IdeaPad Slim 3x（搭载骁龙X芯片）降至500美元，沃尔玛HP Omnibook 3降至429美元。但服务部分价值存疑：高校常免费提供微软软件，Xbox订阅仅限新用户，定制手柄成为最直接福利。",
+              "source_url": "https://www.engadget.com/computing/laptops/microsofts-new-college-deal-is-a-half-hearted-answer-to-the-500-macbook-neo-215336362.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-16T05:53:36+08:00"
+            },
+            {
+              "title": "联邦陪审团裁定Live Nation构成垄断",
+              "brief": "核心事件：美国联邦陪审团裁定演唱会业务公司Live Nation（运营Ticketmaster平台）违反反垄断法，构成垄断。背景：该公司长期因票务高价和服务费问题受消费者诟病，司法部及多州检察官于2024年提起诉讼指控其垄断行为。细节：陪审团认定Live Nation违反联邦和州反垄断规则，但具体补救措施尚未由法官确定，可能包括强制出售Ticketmaster业务及赔偿金。尽管司法部上月已与Live Nation达成和解，其他诉讼方仍在继续行动。此外，联邦贸易委员会另案调查Live Nation是否与票务转售商合谋。公司很可能对裁决提出上诉，实际影响仍待观察。",
+              "source_url": "https://www.engadget.com/entertainment/music/federal-jury-finds-concert-business-live-nation-is-a-monopoly-203924011.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-16T04:39:24+08:00"
+            },
             {
               "title": "PlayStation Plus四月游戏库新增《地平线：零之曙光重制版》等七款作品",
               "brief": "索尼宣布PlayStation Plus四月游戏库更新，为订阅用户带来七款新游戏。核心新增包括《地平线：零之曙光重制版》《松鼠持枪》《弗兰克·斯通》等作品，涵盖动作、体育、恐怖等多种类型。其中《地平线：零之曙光重制版》和《狂野之心4》等四款游戏支持PS4和PS5平台，其余三款仅限PS5。更新将于4月21日正式上线，为玩家提供丰富的春季游戏选择。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/ai/google-unleashes-a-native-gemini-app-for-the-mac-170500185.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-16T01:05:00+08:00"
-            },
-            {
-              "title": "Recteq X-Fire Pro 825评测：智能双模烤炉能否取代传统燃气设备？",
-              "brief": "Recteq推出的X-Fire Pro 825智能烤炉采用双模设计，试图融合燃气烤炉的便捷性与木屑颗粒烤炉的风味优势。这款售价1550美元的产品配备独立控制的烟熏与烧烤模式，通过Wi-Fi实现智能温控，并采用全不锈钢结构确保耐用性。评测指出，该设备在直接火焰炙烤功能上表现突出，但颗粒储存仓容量较小，且部分高级功能仍有提升空间。作为少数真正实现“二合一”概念的烤炉，它为追求多功能烹饪体验的用户提供了新选择。",
-              "source_url": "https://www.engadget.com/home/kitchen-tech/recteq-x-fire-pro-825-review-a-smart-grill-that-pulls-double-duty-170000586.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-16T01:00:00+08:00"
-            },
-            {
-              "title": "Snap裁员16%并转向AI，约千名员工受影响",
-              "brief": "Snap宣布裁员约1000人，占员工总数的16%，同时关闭300多个空缺职位，公司将用人工智能替代部分人力。CEO埃文·斯皮格尔在内部备忘录中表示，这一“极其艰难”的决定预计将为公司节省超5亿美元成本，助力实现净利润盈利目标。受影响的员工将获得四个月遣散费及医疗福利。斯皮格尔强调，AI工具已帮助小团队在Snapchat+、广告平台优化等领域取得进展。这是Snap继2022年裁员20%后的又一次大规模调整，反映了科技行业通过AI提升效率的趋势。",
-              "source_url": "https://www.engadget.com/big-tech/snap-is-laying-off-16-percent-of-its-workforce-blames-ai-162456069.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-16T00:24:57+08:00"
             }
           ]
         },
@@ -339,6 +339,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "迪士尼世界恢复“女士们先生们”问候语，告别数年性别中立表达",
+              "brief": "核心事件：迪士尼世界神奇王国快线单轨列车广播中重新启用了“女士们先生们”的经典问候语。背景：该问候语于2021年被移除，作为迪士尼推动包容性政策的一部分，当时并未用新短语替代，导致广播脚本出现空缺。细节：此次恢复填补了该空缺，将广播恢复到接近疫情前的版本。迪士尼此前为转向性别中立语言进行了多年调整，包括修改烟花秀开场白、培训演职人员使用“大家好”等替代表达，并配合了其他包容性措施。目前迪士尼尚未就此发布官方声明，也不清楚这是否代表更广泛的政策调整。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1558248.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T05:24:19+08:00"
+            },
+            {
+              "title": "英伟达将于4月下旬暂停RTX 5060 Ti 8GB显卡供应，为期两周",
+              "brief": "核心事件：英伟达计划在4月下旬暂停RTX 5060 Ti 8GB显卡的供应，为期约两周。背景：此举旨在调整产能和稳定50系列显卡的整体供应节奏。细节：供应暂停可能导致部分地区面临库存快速消耗、价格波动或供货周期拉长的情况，用户在装机或升级时可能遇到更紧张的货源和更少的型号选择。英伟达未就此发布正式公告，但行业消息普遍认为这是公司为优化供应链所采取的阶段性措施。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558246.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T05:21:38+08:00"
+            },
+            {
+              "title": "苹果为Siri团队启动专属AI编程训练营，加速语音助手智能化升级",
+              "brief": "核心事件：苹果为Siri团队启动了专属的AI编程训练营，以加速语音助手的智能化升级。背景：Siri多年来在AI进展上被外界评价为缓慢，公司高层已将AI重塑Siri作为优先战略。细节：训练营内容覆盖从基础模型原理到实际工程部署的全流程，包括Prompt工程、检索增强生成、AI Agent框架和低延迟推理优化等。课程强调在隐私与安全前提下，将Siri与系统级应用深度整合，以实现更自然、上下文连贯的对话体验。苹果希望通过系统性再培训，将Siri升级为真正的“AI个人助理”。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558244.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T05:20:38+08:00"
+            },
+            {
               "title": "双重封锁致霍尔木兹海峡油轮锐减 全球能源通道受阻",
               "brief": "核心事件：霍尔木兹海峡因美伊双重封锁导致油轮通行量骤降，全球关键水道陷入紧张。背景：自冲突爆发以来，油价已上涨31%，美国试图通过封锁对伊朗施压，同时避免伊朗反封锁冲击全球经济。细节：美军称无船只突破封锁，9艘转向伊朗港口；伊朗声称有油轮成功突破，但装载原油的伊朗油轮多选择折返。目前所有进出波斯湾船只被限制在狭窄北侧航道，通行量远低于去年日均135艘水平，卫星图像显示伊朗在贾斯克终端有油轮活动但去向不明。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1558242.htm",
@@ -351,27 +372,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1558240.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-16T03:39:52+08:00"
-            },
-            {
-              "title": "谷歌发布原生macOS版Gemini应用",
-              "brief": "谷歌近日正式推出macOS原生版Gemini应用，标志着其桌面端AI布局迈出关键一步。该应用采用Liquid Glass设计语言，界面与网页版基本一致，支持模型切换、语音输入和侧边栏功能。核心亮点在于用户可直接共享屏幕内容或本地文件给Gemini，例如审阅图表时提问“关键结论是什么”，AI能即时生成摘要辅助工作。应用还集成生成图片、视频、音乐等工具，并支持Google Drive和相册内容调用。目前全球用户可在macOS 15及以上系统免费下载，谷歌表示这仅是构建“个人化、主动且强大”桌面智能助理的第一步，未来数月将公布更多进展。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558238.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T01:32:21+08:00"
-            },
-            {
-              "title": "英国灰海豹异常捕食海豚引关注",
-              "brief": "英国海域近期多次观测到灰海豹捕食真海豚的异常行为，引发野生动物专家担忧。传统上灰海豹主要以鱼类和小型无脊椎动物为食，但今年1月在威尔士海域首次发现成年雄性灰海豹袭击真海豚，类似事件在爱尔兰等地也有记录。专家分析，灰海豹体型庞大（雄性可达300公斤）、牙齿锋利，具备捕食优势，但食性突变可能源于偶然尝试后群体模仿。推测约20头特定个体掌握该技能，通过伏击或攻击健康不佳的落单海豚得手。目前原因尚未明确，但行为有扩散趋势，已导致海滨活动者担忧生态平衡。研究人员将继续监测以评估长期影响。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1558236.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T00:15:03+08:00"
-            },
-            {
-              "title": "亚马逊收购Globalstar对SpaceX的竞争影响",
-              "brief": "亚马逊以2亿美元收购卫星公司Globalstar，旨在为其尚未上线的低轨宽带卫星服务Leo新增直连手机能力，以与SpaceX的星链（Starlink）竞争。星链已通过T-Mobile等运营商提供有限手机直连服务。亚马逊此举被视为押注卫星移动通信市场的潜在增长，但该市场前景尚不明朗，消费者付费意愿有限。苹果作为Globalstar现有客户，依赖其提供iPhone卫星通信服务，收购解决了苹果对Globalstar稳定性的担忧。此外，另一家卫星公司AST SpaceMobile可能因亚马逊进入市场而面临竞争压力，其股价在消息公布后下跌11%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558234.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T00:02:20+08:00"
             }
           ]
         },
