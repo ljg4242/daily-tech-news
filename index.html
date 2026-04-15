@@ -644,8 +644,13 @@
       }).format(date).replace(',', '');
     }
 
+    function autoSpace(str) {
+      return str.replace(/([\u2e80-\u9fff\uf900-\ufaff\ufe30-\ufe4f])([a-zA-Z0-9])/g, '$1 $2')
+               .replace(/([a-zA-Z0-9])([\u2e80-\u9fff\uf900-\ufaff\ufe30-\ufe4f])/g, '$1 $2');
+    }
+
     function copyArticle(btn, title, brief) {
-      const text = title + '\n' + brief;
+      const text = autoSpace(title) + '\n' + autoSpace(brief);
       navigator.clipboard.writeText(text).then(() => {
         btn.classList.add('copied');
         setTimeout(() => btn.classList.remove('copied'), 1200);
