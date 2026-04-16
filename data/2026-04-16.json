@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T18:10:50.224747+08:00",
+  "generated_at": "2026-04-16T20:08:28.600873+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果Vision Pro拍摄以致命空难告终",
+              "brief": "2024年7月，英国截瘫冒险家克莱尔·洛马斯在约旦沙漠为苹果沉浸式视频系列《冒险》拍摄时遭遇致命空难。洛马斯因2012年使用机器人外骨骼完成伦敦马拉松而闻名，此次苹果与伦敦大西洋工作室合作拍摄，飞机上安装了摄像系统，事故发生时正在录制。洛马斯因伤势于数周后去世，年仅44岁。该集原计划展示瓦迪拉姆山谷和佩特拉古城等地标，预计2025年发布。制作人员曾对系列拍摄中的安全风险提出担忧，包括超时工作、恶劣环境及设备操作培训不足等问题。苹果随后派遣健康安全代表参与制作，但未记录其他重大伤害。空难后苹果与大西洋工作室继续合作，于2024年8月拍摄了科罗拉多集。",
+              "source_url": "https://www.macrumors.com/2026/04/16/apple-was-filming-aircraft-crash-for-vision-pro/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-16T19:38:41+08:00"
+            },
+            {
+              "title": "苹果代码中发现四项新智能功能，或随iOS 27推出",
+              "brief": "开发者在苹果后端代码中发现四项可能随iOS 27推出的新Apple Intelligence功能。视觉智能将新增两项能力：扫描食品营养标签获取信息并可能整合至健康应用，以及识别印刷电话号码/地址并添加至通讯录。钱包应用预计新增通过扫描活动票券、健身会员卡等生成数字通行证的功能，类似安卓的Google Wallet。Safari浏览器将推出基于标签页内容自动命名标签组的新AI功能。这些功能的具体实现尚不确定，代码字符串名称仅为推测。考虑到苹果正为iOS 27开发更智能的Siri并加强跨应用集成，发布时间点吻合。iOS 27将于6月全球开发者大会公布，9月随新iPhone发布。",
+              "source_url": "https://www.macrumors.com/2026/04/16/4-new-apple-intelligence-features-ios-27/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-16T19:13:25+08:00"
+            },
             {
               "title": "iPhone 18 Pro可变光圈相机进入生产阶段",
               "brief": "韩国ETNews报道称，苹果已开始为新款可变光圈相机系统提升供应链，该系统预计将于今年9月随iPhone 18 Pro和Pro Max首次亮相。苹果此前从未在iPhone上采用可变光圈技术，从iPhone 14 Pro到iPhone 17 Pro，主摄像头均使用固定的ƒ/1.78光圈。可变光圈允许相机控制进入传感器的光线量，在弱光条件下开大光圈以增加进光，在明亮场景下则缩小光圈避免过曝，同时还能让用户更好地控制景深。据今日报道引述的行业消息，中国供应商舜宇光学已开始生产驱动光圈机制的致动器，相机模块组装预计将在初夏进行，苹果的主要相机合作伙伴LG Innotek据称正筹备于6月或7月在其韩国龟尾工厂开始生产。",
@@ -28,26 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/04/15/apple-stops-signing-ios-26-4/",
               "source_name": "MacRumors",
               "published_at": "2026-04-16T07:12:26+08:00"
-            },
-            {
-              "title": "研究人员如何从MKBHD锁屏iPhone盗取1万美元",
-              "brief": "核心事件：研究人员利用NFC漏洞从锁屏iPhone盗取资金，Veritasium频道演示从YouTuber Marques Brownlee手机窃取1万美元。背景：该漏洞由萨里大学和伯明翰大学网络安全团队开发，利用Visa卡与iPhone的Express Transit模式，通过模拟公交终端标识绕过锁屏限制。细节：攻击需物理接触设备及专用硬件，包括NFC读卡器拦截支付通信，连接笔记本电脑收集数据后传输至一次性手机完成支付。此漏洞仅针对Visa卡与iPhone组合，不适用于Mastercard、美国运通卡或三星设备，苹果称其为Visa系统问题而非iPhone缺陷，实际发生概率较低。",
-              "source_url": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-16T05:13:27+08:00"
-            },
-            {
-              "title": "苹果送Siri工程师参加AI编程训练营 为全面升级做准备",
-              "brief": "核心事件：苹果将大批Siri工程师送往为期数周的AI编程训练营，学习使用AI工具进行编码。背景：此举发生在苹果预计于WWDC发布更智能Siri版本前两个月，因Siri团队被内部视为技术滞后，未能如期交付iOS 18的Apple Intelligence版Siri，导致组织架构调整。细节：训练期间约60名开发人员留守维护Siri，另60人评估性能；苹果AI负责人John Giannandrea已于2025年底离职，软件工程主管Craig Federighi接管AI开发，Vision Pro负责人Mike Rockwell领导Siri团队。苹果还与谷歌达成协议，未来Siri等功能将基于Gemini模型驱动。",
-              "source_url": "https://www.macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-16T04:19:23+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果泄露iOS 27四项新功能，包括钱包应用升级",
+              "brief": "苹果公司泄露了iOS 27系统的四项新功能，其中包括一项期待已久的钱包应用升级。这些信息是在苹果计划今年晚些时候推出超过15款新产品的背景下披露的。具体泄露的功能细节尚未完全公布，但钱包应用的改进被认为是此次更新的重点之一。",
+              "source_url": "https://9to5mac.com/2026/04/16/apple-leaks-four-ios-27-features-including-overdue-wallet-upgrade/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T19:54:48+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro全新摄像头功能开始生产",
+              "brief": "中国舜宇光学已开始为iPhone 18 Pro的可变光圈摄像头生产关键部件。这项技术能让用户控制照片景深，实现从人像虚化到全景清晰的多种效果。报道称，舜宇光学现在开始生产执行器，LG Innotech预计将在6月至7月间组装摄像头模组。虽然过去几代iPhone都有类似传闻，但现有证据表明iPhone 18 Pro系列很可能首次搭载该功能。",
+              "source_url": "https://9to5mac.com/2026/04/16/manufacturing-started-for-all-new-iphone-18-pro-camera-feature/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T19:21:35+08:00"
+            },
             {
               "title": "Opera将浏览器连接器功能扩展至Opera One和Opera GX",
               "brief": "Opera宣布将MCP兼容性从Neon浏览器扩展至Opera One和Opera GX浏览器。此前，仅订阅版Opera Neon支持MCP标准，允许用户将外部AI工具直接连接到实时浏览会话中。现在该功能向所有Opera One和Opera GX用户开放，用户可在设置中启用浏览器连接器，连接ChatGPT、Claude等大型语言模型，使AI能够直接访问网页内容、理解打开的标签页并执行操作，无需手动提供上下文信息。",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5google.com/2026/04/15/google-one-youtube-premium/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-16T07:20:23+08:00"
-            },
-            {
-              "title": "报告称App Store搜索建议和广告引导用户使用“裸体生成”应用",
-              "brief": "一份新报告指控苹果和谷歌的应用商店搜索建议及广告系统正在帮助用户发现可生成女性深度伪造裸体图像的“裸体生成”应用。报告指出，在搜索“nudify”等关键词时，近40%的顶部结果应用能生成裸露内容，部分甚至显示适合未成年人使用。调查发现，App Store中搜索“deepfake”的首个结果是FaceSwap Video应用的广告，该应用可将人物面部无缝移植到裸露视频中。另一款AI Face Swap应用也存在类似无限制换脸功能。尽管苹果和谷歌已被告知此事，但此类应用仍未被有效遏制。部分开发者承认使用Grok等工具生成图像，但声称不知其能产生极端内容，并承诺加强审核。",
-              "source_url": "https://9to5mac.com/2026/04/15/new-report-claims-app-store-search-suggestions-and-ads-steered-users-to-nudify-apps/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T06:04:50+08:00"
-            },
-            {
-              "title": "报告：2026年苹果将推动OLED笔记本增长，智能手机需求放缓",
-              "brief": "Counterpoint Research报告显示，2026年智能手机OLED面板需求因内存成本上升而低于预期，其中可折叠OLED预计增长34%（原估46%），柔性OLED增长持平，刚性OLED将下降15%。与此同时，OLED笔记本市场预计将实现33%的同比增长，主要驱动力来自苹果计划为MacBook Pro机型转向OLED显示屏，以及高端AI PC的持续扩张——其较高均价有助于抵消内存成本压力。整体OLED市场（含平板、显示器、车载等）在2026年的出货量预计与去年持平，智能手机的疲软将被显示器（增长45%）、平板（增长13%）及车载显示的增长所抵消。",
-              "source_url": "https://9to5mac.com/2026/04/15/apple-to-drive-oled-notebook-growth-in-2026-amid-smartphone-slowdown-per-report/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T05:24:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "沃尔玛新款60美元Onn 4K Pro谷歌电视盒即将上市，详情全披露",
+              "brief": "沃尔玛新款Onn 4K Pro谷歌电视盒已提前在部分门店上架，网站列表也同步出现，确认了产品细节。这款设备延续了沃尔玛Onn系列产品先于官方宣布即上市的模式，今年提供黑色和灰色两种配色。关键配置包括3GB内存、32GB存储，支持杜比视界HDR和Matter over Thread协议，可兼作智能家居中枢。接口方面配备百兆以太网、USB-A 2.0、USB-C供电口和HDMI输出，遥控器具备查找功能和背光。",
+              "source_url": "https://9to5google.com/2026/04/16/walmart-onn-4k-pro-google-tv-2026-refresh-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-16T19:05:00+08:00"
+            },
             {
               "title": "谷歌新款无屏Fitbit手环持续低调曝光，软件亦在开发中",
               "brief": "谷歌计划推出无屏幕的Fitbit手环，其“性能顾问”斯蒂芬·库里自1月起在社交媒体视频、新闻发布会等场合持续佩戴灰色/橙色版本。该设备外观纤薄，材质与Fitbit其他产品及Pixel Watch表带相似，整体设计类似Pixel Watch的性能表带，但去除了手表部分。",
@@ -115,19 +122,19 @@
               "source_url": "https://9to5google.com/2026/04/15/google-one-youtube-premium/",
               "source_name": "9to5Google",
               "published_at": "2026-04-16T07:19:59+08:00"
-            },
-            {
-              "title": "评测：Fender Elie 12多功能派对音箱兼具音质与设计巧思",
-              "brief": "核心事件：Fender Audio在CES 2026发布的Elie 12蓝牙音箱正式上市，以极简设计实现多功能与卓越音质。背景：作为Fender品牌授权方，Fender Audio专注消费级音频设备，其团队部分成员来自传统乐器部门。细节：音箱采用黑白双色可选设计，顶部饰以实心枫木贴面与仿皮革提手，旋钮布局模拟放大器操作感。左侧为蓝牙控制区，右侧配备低音/高音调节旋钮及输入选择功能。音量旋钮集成电源开关设计避免长按等待，操作反馈明确。虽采用哑光塑料材质而非金属旋钮，但阻尼适中无晃动感。整体设计在保留马歇尔音箱美学基因的同时，融入了Fender品牌历史元素。",
-              "source_url": "https://9to5google.com/2026/04/15/review-fender-elie-12/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-16T07:15:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "沙克尔顿环形山竞赛开启：贝索斯与中国谁将率先抵达？",
+              "brief": "今年晚些时候，美国和中国将分别发射航天器，竞相登陆月球南极附近的沙克尔顿环形山边缘区域，该区域蕴藏着大量水冰资源。这场竞赛的背景是，科学家利用NASA月球勘测轨道飞行器和韩国Danuri轨道器的ShadowCam仪器图像，首次详细揭示了环形山内部的黑暗区域。关键细节包括：贝索斯的蓝色起源公司建造的Endurance着陆器将成为史上最大月球着陆器，超过50多年前的阿波罗登月舱；中国的嫦娥七号任务则包含轨道器、巡视器和跳跃探测器，用于侦察隐藏的冰沉积。",
+              "source_url": "https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-16T19:00:26+08:00"
+            },
             {
               "title": "佛罗里达外科医生被控误切肝脏致患者死亡",
               "brief": "佛罗里达外科医生托马斯·沙克诺夫斯基因2024年一起严重医疗事故被大陪审团以二级过失杀人罪起诉。患者威廉·布莱恩原定接受微创脾脏切除手术，但沙克诺夫斯基在手术中错误地切除了其健康肝脏，并用手术吻合器切断了主要静脉，导致患者失血过多死亡，而脾脏却完好无损。州卫生部门调查显示，这并非该医生首次切错器官。2024年9月，州卫生官员已紧急吊销其行医执照。沙克诺夫斯基目前已被捕并获保释，若罪名成立将面临最高15年监禁。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-16T03:46:43+08:00"
-            },
-            {
-              "title": "波士顿动力机器狗借助谷歌AI实现仪表盘读数能力",
-              "brief": "核心事件：波士顿动力的Spot机器狗通过集成谷歌DeepMind的AI模型，能够准确读取工业设施中的模拟仪表和温度计。背景：机器人在工业巡检中常需处理复杂视觉任务，传统方法难以可靠解读模拟仪器。细节：谷歌新发布的Gemini Robotics-ER 1.6模型赋予机器人高级推理能力，使Spot能在移动中识别压力计、视镜等设备，该技术源于谷歌与波士顿动力的合作，旨在提升机器人在汽车工厂等环境中的自主巡检效率，目前已在现代汽车集团设施中进行测试。",
-              "source_url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-16T03:34:33+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌相册应借鉴的隐私功能：访客视图",
-              "brief": "作者在使用谷歌相册分享照片时，因滑动操作可能意外展示私人图片而感到不便。为解决此隐私问题，作者测试了替代应用Ente，发现其“访客视图”功能可锁定单张照片或整个相册供他人查看，防止对方滑动浏览其他内容或退出应用。该功能通过长按照片或相册菜单启用，访客仅能查看指定内容，按返回键会直接锁屏，有效保护了用户隐私。",
-              "source_url": "https://www.androidauthority.com/ente-guest-mode-feature-3657326/",
+              "title": "数千读者认为这款三星手机是Galaxy A57的最佳替代品",
+              "brief": "Android Authority社区就Galaxy A57的最佳替代品进行投票，超过2.2万张选票结果显示，29.6%的受访者认为三星Galaxy S25 FE是最佳选择。Galaxy A57作为三星中端主力机型，虽基础功能完善且价格适中，但竞品众多。Galaxy S25 FE定位略高于A系列，提供更快的芯片组、更好的制造质量、无线充电功能，且FE系列经常促销，价格可能低于Galaxy A57设备，因此成为全球多数市场的明智之选。",
+              "source_url": "https://www.androidauthority.com/best-galaxy-a57-alternative-poll-results-3658075/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-16T18:00:06+08:00"
+              "published_at": "2026-04-16T20:00:47+08:00"
             },
             {
-              "title": "AYN奥丁3掌机将支持Linux系统",
-              "brief": "AYN公司宣布为其奥丁3掌机提供初步的Linux系统支持。这意味着用户可将这款设备转变为基于Arm架构的高性能Linux掌机。目前麦克风和振动功能尚未完善，但其他主要特性基本可用。用户可等待Batocera或Rocknix等发行版适配，或尝试自行构建系统。奥丁3搭载Dragonwing Q8处理器，性能强劲，运行Linux后可通过Portmaster应用安装大量经典游戏移植版。",
-              "source_url": "https://www.androidauthority.com/ayn-odin-3-linux-handheld-3658057/",
+              "title": "谷歌用户数据丑闻显示更多人转向GrapheneOS的原因",
+              "brief": "电子前沿基金会对谷歌提起法律投诉，指控其在未通知用户的情况下将一名学生的数据移交给移民海关执法局。谷歌政策规定，除少数例外情况，应在移交数据前通知用户。该用户是康奈尔大学参加亲巴勒斯坦抗议的外国博士生，声称在政府打击学生抗议期间被迫躲藏，数周后在瑞士收到谷歌已将数据移交国土安全部的邮件，但未收到事先通知。此事件正值无谷歌的Android分支如GrapheneOS日益流行之际。",
+              "source_url": "https://www.androidauthority.com/google-user-data-request-legal-complaint-3658092/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-16T17:36:38+08:00"
+              "published_at": "2026-04-16T19:44:35+08:00"
             },
             {
-              "title": "删除七款预装应用为三星Galaxy S26腾出超1GB空间",
-              "brief": "尽管三星One UI系统体验流畅，但Galaxy设备仍预装了不少用户可能不需要的应用程序。这些应用会占用可观的存储空间，具体数量因设备和地区而异。作者在使用Galaxy S26 Ultra一个半月后，删除了七款预装应用，包括三星商店、三星电视Plus、全球目标等。以三星商店为例，该应用会推送大量产品通知，卸载后可减少干扰并释放存储。用户可根据自身需求卸载类似应用以优化设备。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-bloatware-apps-uninstall-free-up-storage-3655808/",
+              "title": "Fitbit无屏幕手环如此隐蔽，数月无人注意到NBA球星佩戴",
+              "brief": "谷歌正在开发一款无屏幕Fitbit追踪器以竞争WHOOP，采用轻薄设计和环状表带。NBA球星斯蒂芬·库里自1月以来一直佩戴这款未发布设备，提供了多次高质量目击机会。该无屏幕Fitbit追踪器依赖连接的手机应用显示实时指标，如心率、心脏负荷和消耗能量。无屏幕设计使其比WHOOP MG更薄，对希望手腕干扰最小的用户可能是一大优势。",
+              "source_url": "https://www.androidauthority.com/stephen-curry-screenless-fitbit-leak-3658118/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-16T17:30:22+08:00"
+              "published_at": "2026-04-16T19:37:36+08:00"
             },
             {
-              "title": "一加手表4零售包装盒泄露，揭示配色与全球发售信息",
-              "brief": "一加手表4的零售包装盒图片在网上泄露，型号为OPWWE261。包装显示设备可能提供两种配色：银色配绿色表带和深灰色配深蓝色表带，其中绿色款可能命名为“常青钛”。包装盒上列出的进口商信息表明，该手表将在英国、欧盟和波兰等地区发售。此前消息称，一加手表4预计搭载Wear OS 5.0系统、骁龙W5 Gen 1处理器和646mAh电池，并于3月30日完成质量检测。",
-              "source_url": "https://www.androidauthority.com/oneplus-watch-4-retail-box-leak-3658060/",
+              "title": "这张图表暴露Pixel在移动游戏领域落后多远",
+              "brief": "基准测试显示，谷歌Pixel系列与竞争对手在性能上存在日益扩大的差距，尤其在游戏方面。Tensor芯片组速度显著慢于竞争对手，尽管Tensor G5能满足大多数任务，但竞争对手产品可提供双倍或更高性能。图表显示，过去五年中，高通骁龙和联发科天玑等主要供应商在图形性能上取得巨大进步，而Tensor能力几乎持平。Pixel 6 Pro到Pixel 10 Pro仅提升约50%，而同期竞争对手提升约250%。",
+              "source_url": "https://www.androidauthority.com/pixel-10-performance-chart-3657127/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-16T16:58:29+08:00"
+              "published_at": "2026-04-16T19:00:58+08:00"
             },
             {
-              "title": "ChatGPT或将支持上传人脸参考照片",
-              "brief": "OpenAI正在测试一项新功能，允许用户为ChatGPT上传一张“参考照片”。该功能旨在简化AI图像生成流程，用户无需每次生成新图像时重复上传照片。代码显示，用户可通过“记忆”板块上传现有照片或拍摄新自拍，上传后照片可查看、替换或删除。此举有望帮助用户更快捷地创建个性化头像或参与社交媒体趋势，但照片可能不会在历史聊天中直接调用。",
-              "source_url": "https://www.androidauthority.com/chatgpt-face-reference-photo-3658042/",
+              "title": "一加确认其即将推出的iPad Pro杀手具备精英性能与升级电池",
+              "brief": "一加确认了即将推出的Pad 4的设计和规格，该平板搭载骁龙8 Elite Gen 5芯片、12GB RAM和最高512GB存储，电池容量增加约10%。Pad 4采用与上代相同的13.2英寸3.4K分辨率面板，但高亮度模式下的亮度略增至1000尼特，支持杜比视界并声称具有98% DCI-P3覆盖的高色彩精度。设计基本未变，仅键盘保护套的pogo pin连接器位置有所调整。",
+              "source_url": "https://www.androidauthority.com/oneplus-pad-4-snapdragon-8-elite-gen-5-official-teaser-3658078/",
               "source_name": "Android Authority",
-              "published_at": "2026-04-16T16:50:32+08:00"
+              "published_at": "2026-04-16T19:00:18+08:00"
             }
           ]
         },
