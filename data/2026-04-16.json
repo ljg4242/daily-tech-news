@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T06:09:20.431281+08:00",
+  "generated_at": "2026-04-16T08:09:55.646680+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果停止签署iOS 26.4，用户无法从26.4.1降级",
+              "brief": "苹果公司于4月15日停止签署iOS 26.4系统，这意味着已升级至iOS 26.4.1的iPhone用户无法再降级至旧版本。iOS 26.4.1发布于一周前，主要修复了iCloud同步问题和企业设备的被盗设备保护功能。当软件被“签署”时，才能通过苹果服务器端验证检查进行安装；停止签署后，用户无法通过Mac上的Finder应用或Windows PC上的Apple Devices应用安装旧版本。苹果通常在发布新软件一周左右停止签署旧版本，以防止用户安装安全性较低的过时系统。目前iOS 26.4.1是公开可用版本，苹果正在测试iOS 26.5更新。",
+              "source_url": "https://www.macrumors.com/2026/04/15/apple-stops-signing-ios-26-4/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-16T07:12:26+08:00"
+            },
             {
               "title": "研究人员如何从MKBHD锁屏iPhone盗取1万美元",
               "brief": "核心事件：研究人员利用NFC漏洞从锁屏iPhone盗取资金，Veritasium频道演示从YouTuber Marques Brownlee手机窃取1万美元。背景：该漏洞由萨里大学和伯明翰大学网络安全团队开发，利用Visa卡与iPhone的Express Transit模式，通过模拟公交终端标识绕过锁屏限制。细节：攻击需物理接触设备及专用硬件，包括NFC读卡器拦截支付通信，连接笔记本电脑收集数据后传输至一次性手机完成支付。此漏洞仅针对Visa卡与iPhone组合，不适用于Mastercard、美国运通卡或三星设备，苹果称其为Visa系统问题而非iPhone缺陷，实际发生概率较低。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/04/15/oled-ipad-mini-release-pricing-what-to-expect/",
               "source_name": "MacRumors",
               "published_at": "2026-04-15T23:15:56+08:00"
-            },
-            {
-              "title": "苹果在伦敦马拉松前举办免费活动",
-              "brief": "苹果宣布作为TCS伦敦马拉松官方合作伙伴，在赛前举办一系列免费活动。4月23日，苹果将在其布朗普顿路商店举办由健身教练乔·威克斯、超级马拉松跑者赫拉·西迪贝等嘉宾组成的专家小组活动，提供训练建议，随后在海德公园进行5公里热身跑。4月25日，前马拉松世界纪录保持者保拉·拉德克利夫和两届奥运选手克里斯·汤普森将在同一地点录制现场播客节目。比赛日当天，Apple Music将在赛道关键点安排艺术家和DJ表演。苹果还提前为伦敦旺兹沃思区的六所学校学生举办了“苹果体育课：游戏一小时”活动，并与多家大伦敦地区组织合作支持社区项目。",
-              "source_url": "https://www.macrumors.com/2026/04/15/apple-to-host-events-in-london-ahead-of-marathon/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-15T22:29:18+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Google One订阅用户可享YouTube Premium五折优惠一年",
+              "brief": "谷歌推出限时优惠活动，Google One高级订阅用户可享受YouTube Premium服务50%折扣，有效期12个月。该优惠面向巴西、加拿大、法国、德国、日本和美国地区用户，要求订阅2TB及以上存储方案（月费9.99美元）。基础版、标准版及Google AI Plus用户不符合条件。用户需在4月29日前通过Google One官网取消现有订阅并重新订阅才能激活优惠。YouTube Premium在美国调价后月费为15.99美元，此次优惠可为用户节省约96美元。谷歌表示AI Pro用户已享有小幅折扣，而AI Ultra会员则直接包含该服务。",
+              "source_url": "https://9to5google.com/2026/04/15/google-one-youtube-premium/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T07:20:23+08:00"
+            },
             {
               "title": "报告称App Store搜索建议和广告引导用户使用“裸体生成”应用",
               "brief": "一份新报告指控苹果和谷歌的应用商店搜索建议及广告系统正在帮助用户发现可生成女性深度伪造裸体图像的“裸体生成”应用。报告指出，在搜索“nudify”等关键词时，近40%的顶部结果应用能生成裸露内容，部分甚至显示适合未成年人使用。调查发现，App Store中搜索“deepfake”的首个结果是FaceSwap Video应用的广告，该应用可将人物面部无缝移植到裸露视频中。另一款AI Face Swap应用也存在类似无限制换脸功能。尽管苹果和谷歌已被告知此事，但此类应用仍未被有效遏制。部分开发者承认使用Grok等工具生成图像，但声称不知其能产生极端内容，并承诺加强审核。",
@@ -75,19 +82,26 @@
               "source_url": "https://9to5mac.com/2026/04/15/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-16T04:26:03+08:00"
-            },
-            {
-              "title": "苹果称乔恩·普罗瑟仅部分遵守iOS 26泄密案传票",
-              "brief": "苹果就iOS 26设计细节泄密案向法院提交最新进展报告。核心事件是苹果指控泄密者乔恩·普罗瑟未完全遵守传票要求。背景源于苹果起诉前工程师和泄密者拉马乔蒂窃取商业机密，涉及iOS 26未发布信息。细节显示，拉马乔蒂已配合调查并提供设备供取证，而普罗瑟虽承认收到传票，但仅部分配合，此前法院已因其未及时应诉作出缺席判决。双方将继续通过有限证据开示推进案件，苹果计划完成第三方取证后安排普罗瑟补充证词。",
-              "source_url": "https://9to5mac.com/2026/04/15/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T03:42:25+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google One会员享YouTube Premium年度五折优惠",
+              "brief": "核心事件：Google One推出限时优惠，符合条件的订阅者可享YouTube Premium年度五折折扣。背景：该优惠面向巴西、加拿大、法国、德国、日本和美国地区用户，且仅适用于月费9.99美元及以上的2TB或更高存储方案订阅者，基础版、标准版及Google AI Plus用户无法参与。细节：用户需在4月29日前取消现有YouTube Premium订阅，并通过Google One官网重新订阅以激活优惠。在美国市场，YouTube Premium月费已涨至15.99美元，此次优惠可节省约96美元年费。AI Pro会员原有小幅折扣，AI Ultra会员则已包含此权益。",
+              "source_url": "https://9to5google.com/2026/04/15/google-one-youtube-premium/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-16T07:19:59+08:00"
+            },
+            {
+              "title": "评测：Fender Elie 12多功能派对音箱兼具音质与设计巧思",
+              "brief": "核心事件：Fender Audio在CES 2026发布的Elie 12蓝牙音箱正式上市，以极简设计实现多功能与卓越音质。背景：作为Fender品牌授权方，Fender Audio专注消费级音频设备，其团队部分成员来自传统乐器部门。细节：音箱采用黑白双色可选设计，顶部饰以实心枫木贴面与仿皮革提手，旋钮布局模拟放大器操作感。左侧为蓝牙控制区，右侧配备低音/高音调节旋钮及输入选择功能。音量旋钮集成电源开关设计避免长按等待，操作反馈明确。虽采用哑光塑料材质而非金属旋钮，但阻尼适中无晃动感。整体设计在保留马歇尔音箱美学基因的同时，融入了Fender品牌历史元素。",
+              "source_url": "https://9to5google.com/2026/04/15/review-fender-elie-12/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-16T07:15:00+08:00"
+            },
             {
               "title": "安卓手机不受长期存在的iPhone免解锁支付漏洞影响",
               "brief": "近期Veritasium视频披露了一项长期存在的支付漏洞，攻击者可在用户未解锁iPhone的情况下完成大额交易。该漏洞利用交通系统的“快速模式”绕过锁屏验证，并借助Visa支付处理器的缺陷避免交易被标记。攻击需要特殊硬件和已root的安卓手机作为卡片模拟器。苹果将问题根源指向Visa，而Visa认为实际攻击难度较大。值得注意的是，安卓手机目前不受此漏洞影响：三星会标记交通模式下的大额交易，Google钱包虽支持锁屏支付，但要求屏幕必须点亮，并持续通过生物识别等功能加强安全防护。",
@@ -108,26 +122,26 @@
               "source_url": "https://9to5google.com/2026/04/15/amazons-new-fire-tv-stick-can-be-powered-by-tv-usb-port-may-still-support-sideloading/",
               "source_name": "9to5Google",
               "published_at": "2026-04-16T03:05:00+08:00"
-            },
-            {
-              "title": "三星Galaxy Book 6系列涨价高达600美元，基础款开售",
-              "brief": "三星Galaxy Book 6系列笔记本电脑基础款现已开售，但价格较最初公布时有所上涨。基础款Galaxy Book 6提供14英寸和16英寸两种尺寸，搭载英特尔酷睿Ultra 5 325或Ultra 7 355处理器，存储配置为512GB或1TB，全系配备16GB内存。起售价为1249美元，较原定的1049美元上涨200美元。不仅如此，Galaxy Book 6 Pro和Ultra型号也全面提价，其中Ultra型号（配备RTX 5060显卡）涨幅最大，达600美元。此次涨价是三星近期一系列价格调整的一部分，此前其已上调了Galaxy Z Fold 7、Tab S11等多款手机和平板的价格。",
-              "source_url": "https://9to5google.com/2026/04/15/samsung-galaxy-book-6-prices/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-16T02:30:00+08:00"
-            },
-            {
-              "title": "今日安卓应用优惠与免费游戏：Armed Emeth RPG、Poker Ya Joker、Dragon Spira等",
-              "brief": "核心事件：Best Buy启动为期一周的大型“终极升级促销”活动，涵盖AirPods、iPhone 17 Pro、Pixel 10、电视等多款产品。背景：促销活动于2026年4月13日启动，旨在吸引消费者升级电子设备。细节：活动提供多种热门科技产品的折扣，包括智能手机、耳机和电视等，为消费者提供了购买高端科技产品的机会。",
-              "source_url": "https://9to5toys.com/2026/04/15/today-android-app-deals-free-armed-emeth-poker-joker/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-16T01:43:01+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "佛罗里达外科医生被控误切肝脏致患者死亡",
+              "brief": "佛罗里达外科医生托马斯·沙克诺夫斯基因2024年一起严重医疗事故被大陪审团以二级过失杀人罪起诉。患者威廉·布莱恩原定接受微创脾脏切除手术，但沙克诺夫斯基在手术中错误地切除了其健康肝脏，并用手术吻合器切断了主要静脉，导致患者失血过多死亡，而脾脏却完好无损。州卫生部门调查显示，这并非该医生首次切错器官。2024年9月，州卫生官员已紧急吊销其行医执照。沙克诺夫斯基目前已被捕并获保释，若罪名成立将面临最高15年监禁。",
+              "source_url": "https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-16T06:25:30+08:00"
+            },
+            {
+              "title": "陪审团裁定Live Nation/Ticketmaster构成非法垄断并抬高票价",
+              "brief": "联邦陪审团裁定Live Nation及其子公司Ticketmaster构成非法垄断，通过垄断大型场馆票务服务和露天剧场运营权向消费者超额收费。尽管特朗普政府退出诉讼，但33个州坚持完成了为期五周的庭审。陪审团认定Ticketmaster在主要演唱会场地票务市场非法维持垄断地位，Live Nation则垄断大型露天剧场并强制艺术家使用其推广服务。证据显示该公司区域总监曾吹嘘通过附加服务费“敲诈观众”。据美联社报道，仅每张票1.72美元的超额收费就可能使企业面临数亿美元赔偿，具体处罚将由法官在后续程序中裁定。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-16T06:06:23+08:00"
+            },
             {
               "title": "TotalRecall Reloaded工具发现Windows 11 Recall数据库的旁路入口",
               "brief": "核心事件：安全研究人员发现名为TotalRecall Reloaded的工具能够绕过Windows 11 Recall功能的加密保护。背景：Recall是微软Copilot+ PC的AI功能，通过截图记录用户活动，最初因存储未加密数据引发隐私争议，微软随后加强安全措施，要求Windows Hello认证并默认关闭。细节：该工具在用户通过Windows Hello认证Recall后，仍能窃取Recall数据库信息，暴露了安全架构的潜在漏洞，尽管微软已对本地数据加密并改进敏感信息检测。",
@@ -148,26 +162,19 @@
               "source_url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-16T03:34:33+08:00"
-            },
-            {
-              "title": "Prime Video在NBA加时赛中显示技术故障提示",
-              "brief": "核心事件：亚马逊Prime Video在独家直播的NBA附加赛加时阶段突然中断，显示技术故障提示达两分钟。背景：该场迈阿密热火对阵夏洛特黄蜂的比赛仅通过Prime Video播出，吸引了大量球迷关注。细节：直播在加时赛关键时刻切断，观众错过了拉梅洛·鲍尔的得分镜头，直到22秒后才恢复；湖人球员勒布朗·詹姆斯在社交媒体上表达不满，事件引发球迷广泛抱怨，凸显了流媒体服务在独家赛事直播中的可靠性问题，尤其影响无法通过其他渠道观看的观众。",
-              "source_url": "https://arstechnica.com/gadgets/2026/04/nba-fans-cry-foul-as-prime-video-cuts-out-during-overtime-fails-to-sync-audio/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-16T03:16:43+08:00"
-            },
-            {
-              "title": "新预告片首次展示《哥斯拉：负零》画面",
-              "brief": "核心事件：东宝公司在CinemaCon发布《哥斯拉：负零》首支预告片，该片是2023年奥斯卡获奖作品《哥斯拉：负一》的续集。背景：哥斯拉系列持续活跃，传奇影业的怪兽宇宙和苹果剧集同期推进，本片回归战后日本设定。细节：导演山崎贵表示影片延续前作主题，探索核爆象征与人性救赎，首支预告已在线发布；前作主角Koichi在击败哥斯拉后与受伤的Noriko重逢，而哥斯拉组织开始再生，续集将承接这一悬念，并成为首部为IMAX拍摄的日本电影。",
-              "source_url": "https://arstechnica.com/culture/2026/04/new-teaser-gives-us-first-look-at-godzilla-minus-zero/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-16T02:50:41+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "MKBHD揭秘LG已取消的卷轴屏手机原型——LG考虑周全",
+              "brief": "核心事件：科技博主MKBHD发布视频，展示了LG在关闭手机业务前开发的卷轴屏手机原型。背景：LG手机部门曾以创新设计著称，如旋转屏LG Wing，其卷轴屏项目虽已取消，但原型机近日通过拆解和上手视频曝光。细节：该原型采用柔性OLED屏幕，通过内置电机可从6.7英寸扩展至近7.5英寸，配备双齿轮电机和弹簧臂实现滑动操作，软件还包含特效和动画，成熟度超预期。视频中，原型机甚至能推动笔记本电脑，突显其机械强度。",
+              "source_url": "https://www.androidauthority.com/lg-rollable-hands-on-video-3657983/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-16T07:59:34+08:00"
+            },
             {
               "title": "Vivo X300 FE全球发布：中端机型首次支持长焦扩展器",
               "brief": "Vivo正式在全球发布X300 FE中端手机，这是该系列首次在FE型号上支持长焦扩展器配件。作为X300系列的简化版，X300 FE在处理器和相机系统上有所精简以降低价格，但保留了标志性的长焦扩展功能。该机搭载高通骁龙8 Gen 5移动平台，配备6.31英寸显示屏、12GB内存和最高512GB存储，内置6500mAh电池支持90W有线快充和40W无线充电。通过可选的Telephoto Extender Gen 2配件，可将焦距扩展至200mm等效，同时采用铝制框架和IP69防护等级。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/motorola-razr-fold-release-date-confirmed-3657925/",
               "source_name": "Android Authority",
               "published_at": "2026-04-16T03:55:48+08:00"
-            },
-            {
-              "title": "大疆OSMO Pocket 4将搭载慢快门电影模式",
-              "brief": "大疆在社交媒体发布预热视频，展示了即将于4月16日发布的OSMO Pocket 4手持云台相机的新功能。视频重点演示了全新的“慢快门”电影拍摄模式，该模式通过延长快门时间创造动态模糊效果，能将香港夜景中的车流和人群转化为梦幻般的光影轨迹。此前泄露信息显示该设备售价可能为499欧元（约589美元）。这是继数月来多次产品泄露后，大疆在正式发布前透露的又一重要功能细节，旨在提升用户的电影创作体验。",
-              "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4-slow-shutter-3657876/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-16T02:46:42+08:00"
             }
           ]
         },
@@ -249,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "YouTube推出关闭Shorts功能选项",
+              "brief": "YouTube核心更新是允许所有用户将Shorts观看时间限制设置为零分钟，从而在应用中完全关闭该功能。这一功能源于去年10月推出的Shorts计时器，最初最低限制为15分钟，今年1月扩展至家长控制功能，当时预告了“即将推出”零分钟选项。根据YouTube发言人确认，该选项现已向所有家长用户开放，并正在向包括普通成人账户在内的所有用户逐步推广。设置后，一旦达到时间限制，Shorts标签页将不再显示任何视频，为希望减少滚动浏览时间的用户提供了实用工具。",
+              "source_url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+              "source_name": "The Verge",
+              "published_at": "2026-04-15T18:18:36-04:00"
+            },
+            {
               "title": "福特电动汽车与软件主管道格·菲尔德将离职",
               "brief": "福特汽车公司电动汽车与软件业务负责人道格·菲尔德将于下月离职，这是该公司在电动汽车战略调整中的最新人事变动。菲尔德五年前从苹果公司加入福特，负责领导其数十亿美元的电动汽车和软件投资计划。接替者将是前特斯拉工程师艾伦·克拉克，他将担任先进开发项目副总裁，继续负责福特通用电动汽车平台的开发工作。此次人事调整发生在福特宣布对其电动汽车投资进行195亿美元巨额减记并停产多款电动车型不到五个月后，反映出传统汽车制造商在向电动化转型过程中面临的挑战。",
               "source_url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
               "source_name": "The Verge",
               "published_at": "2026-04-15T15:00:23-04:00"
-            },
-            {
-              "title": "宜家智能甜甜圈灯带来甜蜜体验",
-              "brief": "宜家为其受欢迎的Varmblixt灯具推出了智能家居升级版，这款甜甜圈形状的智能灯现在具备变色、调光和智能家居控制功能。新款智能灯支持Matter-over-Thread协议，可以与各种智能家居系统兼容。测试显示，这款灯既可作为床头灯使用，也能为空间增添有趣的氛围照明。虽然价格亲民，但它在设计感和功能性之间取得了良好平衡。这款产品的推出反映了智能家居设备正朝着更易用、更美观的方向发展，让普通消费者也能轻松享受智能照明带来的便利。",
-              "source_url": "https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread",
-              "source_name": "The Verge",
-              "published_at": "2026-04-15T14:30:50-04:00"
             }
           ]
         }
@@ -379,39 +379,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "L2级辅助驾驶国标公开征求意见，华为小米比亚迪特斯拉等联合起草",
-              "brief": "核心事件：关于L2级组合驾驶辅助系统的强制性国家标准进一步公开征求意见，预计2027年1月1日实施。背景：该标准旨在规范组合驾驶辅助系统（包括领航辅助）的安全要求，明确驾驶员必须始终作为驾驶主体参与。细节：标准提出了驾驶员培训、状态监测、系统禁用等安全要求，防止误用；若驾驶员频繁脱离驾驶任务，系统将在一定时间内被禁用。技术要求涵盖功能边界、能力阈值及开发流程，并建立了场地试验、道路试验等多层级评价方法。起草单位包括华为引望、小米汽车、比亚迪、特斯拉等数十家国内外企业及机构。",
-              "source_url": "https://www.ithome.com/0/939/644.htm",
+              "title": "日产CEO承认英菲尼迪决策失误：独立平台开发并非必要",
+              "brief": "日产CEO埃斯皮诺萨近日坦言，英菲尼迪品牌过去开发独立平台的决策存在失误，导致资源投入困难。他认为，英菲尼迪应通过技术配置、设计差异和用车体验实现产品区隔，而非依赖独立平台。根据日产最新规划，英菲尼迪将新增四款车型，使产品阵容扩大至七款，包括三款混动SUV和一款基于日产Skyline的高性能后驱轿车。这些新车型将大量共享日产现有产品体系，以提升开发效率。此举与日产去年提出的“Re:Nissan”计划一致，目标是在2035年前将平台数量压缩至7个。",
+              "source_url": "https://www.ithome.com/0/939/659.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-15T23:28:28+08:00"
+              "published_at": "2026-04-16T08:05:58+08:00"
             },
             {
-              "title": "九号发布M3 85/95c MAX闪骑智能铅酸电摩，首发价4799元起",
-              "brief": "核心事件：九号公司推出M3 85c MAX和M3 95c MAX两款智能铅酸电动摩托车，首发价分别为4799元和6299元。背景：作为新款电摩产品，主打智能与长续航，面向通勤及外卖场景。细节：车型搭载12英寸无刷电机，额定功率3000W，峰值功率4100W，支持75km/h氮气模式和21°爬坡能力，具备行业顶级智驾功能及IPX5防水。安全配置包括双通道ABS+EABS+TCS、前后大碟刹盘及宽胎，配备ALC全境光幕照明系统，远光亮度达38000cd。电池为72V 23/32Ah铅酸电池，续航40-55公里。",
-              "source_url": "https://www.ithome.com/0/939/643.htm",
+              "title": "苹果高管力挺Vision Pro：空间计算是必然趋势",
+              "brief": "苹果高管乔斯维亚克近日公开为Vision Pro头显辩护，强调空间计算是数字与物理世界融合的必然方向。尽管该产品在2025年圣诞季度销售额达1.57亿美元，但部分华尔街分析师视其为“罕见失败”，批评其演示体验未能有效转化为销量。乔斯维亚克承认无法预测空间计算何时成为主流，但坚信这一趋势不可逆转。另一位高管特努斯则阐述了苹果的硬件开发哲学，强调技术发布始终以用户体验为核心。分析认为，苹果不会因短期市场遇冷而放弃Vision Pro，但将等待杀手级应用和生态成熟，而非急于迭代硬件。",
+              "source_url": "https://www.ithome.com/0/939/658.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-15T23:15:17+08:00"
+              "published_at": "2026-04-16T08:03:39+08:00"
             },
             {
-              "title": "石头P20 Ultra Plus扫拖机器人上下水版限时特价3501元",
-              "brief": "核心事件：石头P20 Ultra Plus扫拖机器人上下水版推出限时优惠，到手价3501元，活动仅限今日。背景：该产品是石头旗下的高端扫拖机器人型号，主打热洗拖布和智能清洁功能。细节：机器人整体厚度7.98厘米，提供25000Pa吸力，支持100°C沸腾热洗拖布和60℃增压热拖，可有效清洁油类、糖类等污渍，宣称拖地去污率100%，热水除菌率99.99%。避障采用升降双视角LDS传感器，结合结构光+RGB+沿墙结构光技术，内置动态双臂扫拖系统，可智能判断拖布脏污并自动回基站清洗。",
-              "source_url": "https://www.ithome.com/0/939/642.htm",
+              "title": "格力回应海信质疑：参与新材料研究是分内事，最终坚持用铜",
+              "brief": "格力市场总监朱磊近日回应海信对空调“含铜量”的质疑，强调格力参与新材料研究是行业企业的分内职责。他表示，格力凭借1411个实验室和近两万名科研人员，对“铝代铜”进行了长期系统研究，但最终选择坚持在蒸发器、冷凝器、风机电机和压缩机电机等关键部件使用铜材。朱磊批评海信发布的“含铜”证书未明确说明压缩机电机和风机电机是否用铜，并指责海信方面“剽窃格力真铜实料的主张”。他重申，格力坚持“真铜实料”是为消费者守住质量底线，防止铝材泛滥。",
+              "source_url": "https://www.ithome.com/0/939/657.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-15T23:06:07+08:00"
+              "published_at": "2026-04-16T07:59:16+08:00"
             },
             {
-              "title": "Steam新一周销量榜：《红色沙漠》全球四连冠，《杀戮尖塔2》第二",
-              "brief": "核心事件：Steam公布最新一周游戏销量榜，动作角色扮演游戏《红色沙漠》连续四周蝉联全球销量冠军，《杀戮尖塔2》稳居第二。背景：榜单反映了近期PC游戏市场的热门趋势，涵盖新作及经典游戏。细节：全球榜单中，《红色沙漠》持续领跑，紧随其后的是卡牌游戏《杀戮尖塔2》；其他上榜游戏包括《极限竞速：地平线6》《识质存在》《生化危机4：重制版》等。国区榜单显示，《极限竞速：地平线6》位居第一，《杀戮尖塔2》和《红色沙漠》分列二、三位，此外《GTA V增强版》《NBA 2K26》等也进入前十。",
-              "source_url": "https://www.ithome.com/0/939/641.htm",
+              "title": "皮尤研究：44%美国家长担忧孩子过度使用TikTok",
+              "brief": "皮尤研究中心最新调查显示，44%的美国家长担忧孩子过度使用TikTok。该研究针对13至17岁青少年及其家长，聚焦Snapchat、TikTok和Instagram三大社交平台。结果显示，青少年使用社交媒体的主要动机是“娱乐”，而“关注政治议题”最不受欢迎。在私密沟通方面，Snapchat占据主导地位，57%的青少年每天通过该平台发送消息，高于TikTok的24%和Instagram的34%。尽管44%的青少年认为Snapchat对友谊有积极影响，但该平台也是遭遇欺凌或骚扰比例最高的渠道，达27%。研究指出，平台定位差异导致使用方式不同，Snapchat更侧重熟人交流，而TikTok和Instagram偏向公开内容展示。",
+              "source_url": "https://www.ithome.com/0/939/656.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-15T22:34:57+08:00"
+              "published_at": "2026-04-16T07:55:30+08:00"
             },
             {
-              "title": "亚马逊发布史上最薄电视棒Fire TV Stick HD，售价34.99美元",
-              "brief": "核心事件：亚马逊推出Fire TV Stick HD电视棒，号称史上最薄，售价34.99美元，无需独立供电，通过电视USB接口即可使用。背景：作为新一代流媒体设备，旨在提升用户观影体验，支持多平台内容。细节：设备性能较上一代HD型号提升30%以上，支持Wi-Fi 6和蓝牙5.3，预装全新Vega OS操作系统及Alexa+语音助手。界面重新设计，分类更清晰，集成Prime Video、Netflix、YouTube等数千个流媒体平台。新增“自适应显示”无障碍功能，可放大文本和菜单。即日起在美、英、日等市场开启预购，4月29日开始发货，后续将扩展至欧洲多国。",
-              "source_url": "https://www.ithome.com/0/939/640.htm",
+              "title": "Adobe发布Firefly AI助手：跨应用编排工作流，加速创意落地",
+              "brief": "Adobe近日发布Firefly AI助手，旨在通过自然语言指令跨Creative Cloud应用编排多步骤工作流，覆盖Photoshop、Premiere、Lightroom、Express和Illustrator等核心产品。用户可在统一对话界面描述期望结果，助手将自动规划步骤、维护上下文，并将结果同步至各应用。Adobe创意与生产力业务总裁David Wadhwani称此为“智能体创意时代”的开端，强调用户视角和品味是核心创作工具，AI扮演支持角色。该助手具备学习能力，可随使用时间掌握用户偏好，保持风格一致性，并集成Frame.io审阅功能，方便团队协作。Firefly AI助手目前尚未正式发布，Beta测试者将在未来几周获得公测版访问权限。",
+              "source_url": "https://www.ithome.com/0/939/655.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-15T22:31:51+08:00"
+              "published_at": "2026-04-16T07:47:20+08:00"
             }
           ]
         },
@@ -419,39 +419,79 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "环球影业CinemaCon 2026发布会全揭秘",
+              "brief": "环球影业在CinemaCon 2026发布会上公布了多部重磅新片计划。核心事件包括克里斯托弗·诺兰执导的史诗电影《奥德赛》首次公开细节，以及史努比·狗狗传记片亮相。背景方面，诺兰表示自16岁起就梦想用IMAX格式拍摄史诗电影，为此甚至推动开发新型摄像机；史努比·狗狗则称继《冲出康普顿》后轮到自己讲述故事。细节上，《奥德赛》由马特·达蒙、安妮·海瑟薇和汤姆·赫兰德主演，聚焦家庭与归乡主题；史努比传记片由乔纳森·戴维斯主演，克雷格·布鲁尔执导。发布会还透露了《怪物史莱克5》《暴力之夜2》等影片信息。",
+              "source_url": "https://www.ign.com/articles/universal-pictures-at-cinemacon-2026-everything-revealed",
+              "source_name": "IGN",
+              "published_at": "2026-04-16T07:06:40+08:00"
+            },
+            {
+              "title": "贝尔金推出无线麦克风与三脚架新手创作套装",
+              "brief": "贝尔金发布了一款面向新创作者的无线麦克风与三脚架入门套装，售价129.99美元。核心产品包括两个夹式无线麦克风、一个USB-C接收器和一个可调节三脚架。背景上，随着手机创作普及，这类一体化设备需求增长。细节方面，三脚架最高可延伸至5.5英尺，承重4.4磅，配备云台和1/4英寸螺丝接口；麦克风支持24位/48KHz音频传输，有效距离达100米，单次续航6小时，配合充电盒可达36小时。套装采用即插即用设计，接收器插入设备即可使用，麦克风内置降噪功能并提供磁吸与固定夹两种佩戴方式。",
+              "source_url": "https://www.ign.com/articles/belkin-releases-a-wireless-mic-and-tripod-starter-set-for-new-creators",
+              "source_name": "IGN",
+              "published_at": "2026-04-16T06:02:40+08:00"
+            },
+            {
+              "title": "《Coyote vs. Acme》海报发布并预告新预告片",
+              "brief": "动画电影《Coyote vs. Acme》发布全新海报，并宣布将于下周推出新预告片。核心事件是这部曾遭华纳兄弟雪藏的影片终于确定8月28日上映。背景方面，该片原由华纳制作，2023年因税务减记被取消发行，引发公众抗议；2025年3月以约5000万美元转售给Ketchup娱乐公司。细节上，海报以阴影中的威利狼和写有片名的巨型破碎球为视觉主题，主演包括拉娜·康多、约翰·塞纳和威尔·福特。新预告片发布时机巧妙选在报税日，并暗讽华纳此前为影片申报3000万美元税务减扣的行为。影片剧本由奥斯卡提名编剧萨米·伯奇执笔。",
+              "source_url": "https://www.ign.com/articles/coyote-vs-acme-poster-revealed-alongside-cheeky-trailer-announcement",
+              "source_name": "IGN",
+              "published_at": "2026-04-16T04:46:40+08:00"
+            },
+            {
+              "title": "Popeyes与《海贼王》联名便当盒在eBay被高价转卖",
+              "brief": "Popeyes与《海贼王》联名推出的限量便当盒在eBay上已被转卖至数百美元高价。核心事件是4月13日在美国和加拿大启动的联动活动中，免费赠送的便当盒引发抢购和转卖热潮。背景为此次合作包含路飞便当套餐、橡皮果实柠檬水等限定菜单，但收藏品才是粉丝关注焦点。细节上，仅在美国六座城市购买套餐的顾客有机会免费获得便当盒，导致黄牛囤货转卖；eBay现有83条成交记录，价格在150至1000美元之间，甚至包装盒也被单独出售。Popeyes官网4月15日同步发售钥匙扣、T恤等周边，但预计很快售罄。",
+              "source_url": "https://www.ign.com/articles/popeyes-x-one-piece-bento-boxes-are-already-being-resold-on-ebay-for-hundreds-of-dollars",
+              "source_name": "IGN",
+              "published_at": "2026-04-16T03:44:03+08:00"
+            },
+            {
               "title": "《蜘蛛侠：崭新之日》乐高套装揭示关键战斗",
               "brief": "核心事件：《蜘蛛侠：崭新之日》乐高套装“蜘蛛侠大战浩克史诗对决”曝光，暗示电影中两位英雄可能发生冲突。背景：该套装包含534个零件，售价89.99美元，6月1日发售，产品页面提及蜘蛛侠、浩克等六名电影角色。细节：套装设计显示浩克站在建筑顶部，而电影预告片仅显示蜘蛛侠向班纳博士寻求建议。虽然乐高套装不一定完全对应电影情节，但蝎子、回旋镖等反派造型与预告片一致。粉丝推测浩克可能因DNA突变或心智控制被迫与蜘蛛侠战斗，电影将于7月31日上映。",
               "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-lego-set-reveals-key-fight",
               "source_name": "IGN",
               "published_at": "2026-04-16T01:02:36+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "美联储4月维持利率不变概率达98.4%",
+              "brief": "核心事件：据CME“美联储观察”数据显示，美联储在4月维持利率不变的概率高达98.4%，加息25个基点的概率仅为1.6%。背景：美联储利率决策是全球金融市场关注焦点，直接影响全球资本流动和资产价格。细节：数据进一步显示，到6月累计降息25个基点的概率为0%，维持利率不变的概率为98%，累计加息25个基点的概率为2%。这反映出市场预期美联储短期内将保持利率稳定，以观察通胀和经济数据变化。",
+              "source_url": "https://36kr.com/newsflashes/3768738179039753?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-16 08:07:38  +0800"
             },
             {
-              "title": "Target推出宝可梦30周年纪念系列，面向全世代粉丝",
-              "brief": "Target与宝可梦公司合作推出超过100款独家产品的30周年纪念系列，旨在吸引各世代粉丝。该系列将于5月2日起分两波上市，包含服装、配饰、玩具及美妆产品，其中服装涵盖童装和成人尺码，主打图案T恤、可翻转球衣及关都主题夹克等。Target还联合Lip Smacker、Caboodles等怀旧品牌推出单品，并计划在部分门店举办线下活动和赠品派发。系列产品仅在Target官网和门店限时发售，具体截止日期取决于库存情况。",
-              "source_url": "https://www.ign.com/articles/target-announces-massive-pokemon-anniversary-collection-for-fans-of-every-generation",
-              "source_name": "IGN",
-              "published_at": "2026-04-15T23:54:43+08:00"
+              "title": "挪威主权财富基金无意减持美国资产",
+              "brief": "核心事件：挪威财政大臣延斯·斯托尔滕贝格表示，规模达2.1万亿美元的挪威主权财富基金无意抛售美国资产，计划继续将约一半投资配置于美国。背景：该基金是全球最大的主权财富基金，其资产配置动向备受市场关注，尤其在中东冲突和美国债务攀升引发担忧的背景下。细节：斯托尔滕贝格在华盛顿的Semafor活动上指出，美国股市充满活力，能反映美国经济的强劲势头，因此基金将继续大量投资美国公司，维持现有配置策略。",
+              "source_url": "https://36kr.com/newsflashes/3768736624984577?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-16 08:05:02  +0800"
             },
             {
-              "title": "《堡垒之夜》新增卡拉OK模式及歌手Laufey联动内容",
-              "brief": "《堡垒之夜》将于4月16日新赛季更新中推出卡拉OK模式，允许玩家在PC和主机平台使用兼容麦克风跟唱曲目，同时新增专业鼓组选项，支持Rock Band 4或兼容MIDI鼓组外设。游戏还优化了演奏时的移动机制，并免费开放PVE模式“拯救世界”。本次更新包含Laufey角色皮肤及歌曲《Madwoman》作为季票内容，商店另售独立Laufey皮肤及《Tough Luck》《Lover Girl》两首曲目。开发商Epic Games在近期裁员后，仍持续推进游戏内容更新，并计划年内推出迪士尼主题撤离射击模式。",
-              "source_url": "https://www.ign.com/articles/fortnite-adds-karaoke-mode-and-laufey",
-              "source_name": "IGN",
-              "published_at": "2026-04-15T23:30:02+08:00"
+              "title": "中信建投：生猪养殖板块将现分化，高效低成本企业占优",
+              "brief": "核心事件：中信建投发布观点称，生猪养殖板块未来将出现分化，效率高、成本低的企业将赢得竞争优势。背景：生猪养殖行业受供需、成本等多因素影响，市场竞争激烈，企业盈利能力差异显著。细节：分析指出，在行业波动中，具备技术和管理优势的企业能更好控制成本、提升效率，从而在价格竞争中脱颖而出。投资者应关注企业的养殖效率、成本控制能力和产业链整合程度，以把握板块投资机会。",
+              "source_url": "https://36kr.com/newsflashes/3768733731062534?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-16 08:03:06  +0800"
             },
             {
-              "title": "玛格特·罗比确认《十一罗汉》前传电影，聚焦丹尼·奥逊父母故事",
-              "brief": "玛格特·罗比在CinemaCon上正式宣布《十一罗汉》前传电影，剧情将聚焦丹尼·奥逊的父母在1962年摩纳哥大奖赛策划惊天劫案的故事。该片由布莱德利·库珀编剧、执导并主演，罗比共同主演并透过其制片公司LuckyChap参与制作，剧本由凯莉·所罗门执笔。项目原定由瑞恩·高斯林搭档罗比，但其已于去年秋季退出；导演人选亦经历杰伊·罗奇、李·以萨克·郑的更迭。影片计划今年开拍，定档2027年6月25日上映，而乔治·克鲁尼执导的原班人马续集项目仍在筹备中。",
-              "source_url": "https://www.ign.com/articles/oceans-eleven-prequel-update",
-              "source_name": "IGN",
-              "published_at": "2026-04-15T22:56:19+08:00"
+              "title": "中国工程机械工业协会：3月平地机销量同比增长19.6%",
+              "brief": "核心事件：中国工程机械工业协会统计显示，2026年3月销售各类平地机1007台，同比增长19.6%。背景：平地机是工程机械的重要品类，销量数据反映基建和房地产等领域的投资活跃度。细节：其中，国内销量151台，同比下降24.1%；出口856台，同比增长33.1%。2026年1-3月，共销售平地机2440台，同比增长12.2%，其中国内销量351台，同比下降17.4%，出口2089台，同比增长19.4%。数据表明出口市场成为增长主要动力。",
+              "source_url": "https://36kr.com/newsflashes/3768738778120963?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-16 07:59:20  +0800"
             },
             {
-              "title": "《宝可梦GO》玩家借助政府地图数据追踪沙漠限定宝可梦",
-              "brief": "《宝可梦GO》新宝可梦“沙包蛇”仅限沙漠生态区域出现，玩家为破解其生成机制，通过比对游戏内报告与公开地图数据，推测Niantic可能采用了美国地质调查局的2020年全球陆地生态系统数据集。社区验证发现，沙包蛇虽在沙漠地区高频率出现，但全球多数国家特定地图标记点也有极低概率生成，例如伦敦某处公园在20分钟内出现11只。此前类似生态限制曾用于“拳海参”，但沙包蛇的生成逻辑更为隐蔽，促使玩家自发通过数据交叉分析提升捕获效率。",
-              "source_url": "https://www.ign.com/articles/pokemon-go-fans-use-government-maps-to-hunt-snakes",
-              "source_name": "IGN",
-              "published_at": "2026-04-15T22:48:59+08:00"
+              "title": "英国首相斯塔默敦促社交媒体公司保障儿童网络安全",
+              "brief": "核心事件：英国首相斯塔默在周四与Meta、Snap、谷歌和X等公司高管会面前，呼吁社交媒体公司在儿童网络安全问题上“站出来承担责任”。背景：全球范围内，儿童网络安全隐患日益突出，各国政府加强了对科技公司的监管。细节：斯塔默政府已加强对社交媒体公司的审查，指出儿童在没有明确责任的情况下易受网络伤害，并承诺采取行动限制此类应用对睡眠、家庭生活和学业的影响。此举旨在推动平台履行社会责任，保护未成年人权益。",
+              "source_url": "https://36kr.com/newsflashes/3768737400570631?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-16 07:57:56  +0800"
             }
           ]
         }
