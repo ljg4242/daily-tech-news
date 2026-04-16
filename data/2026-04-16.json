@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T14:09:49.343522+08:00",
+  "generated_at": "2026-04-16T16:09:57.272235+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Opera将浏览器连接器功能扩展至Opera One和Opera GX",
+              "brief": "Opera宣布将MCP兼容性从Neon浏览器扩展至Opera One和Opera GX浏览器。此前，仅订阅版Opera Neon支持MCP标准，允许用户将外部AI工具直接连接到实时浏览会话中。现在该功能向所有Opera One和Opera GX用户开放，用户可在设置中启用浏览器连接器，连接ChatGPT、Claude等大型语言模型，使AI能够直接访问网页内容、理解打开的标签页并执行操作，无需手动提供上下文信息。",
+              "source_url": "https://9to5mac.com/2026/04/16/opera-extends-the-browser-connector-functionality-to-opera-one-and-opera-gx/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-16T16:00:00+08:00"
+            },
+            {
               "title": "iPhone用户无法再降级至iOS 26.4系统",
               "brief": "苹果公司已停止对iOS 26.4系统的签名验证，这意味着用户无法从当前iOS 26.4.1版本降级至旧版系统。苹果通常会在新版本足够稳定或修复了严重安全漏洞时停止旧版签名。iOS 26.4.1的更新说明仅提及修复了iPhone的错误，其安全网站也未列出相关CVE条目。用户发现该版本修复了iCloud同步问题，但具体细节尚不明确。对于希望降级的用户来说，现已错过机会。",
               "source_url": "https://9to5mac.com/2026/04/15/iphone-users-no-longer-able-to-downgrade-to-ios-26-4/",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/04/15/apple-to-drive-oled-notebook-growth-in-2026-amid-smartphone-slowdown-per-report/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-16T05:24:00+08:00"
-            },
-            {
-              "title": "报告：苹果将派遣Siri工程师参加为期数周的AI编程训练营",
-              "brief": "据报道，苹果将抽调“不到200名”Siri工程师参加为期数周的AI编程技能训练营，以提升他们利用AI编程工具的能力。此举表明苹果认为部分Siri团队需要跟上编程领域的快速变革，因为Anthropic的Claude Code和OpenAI的Codex等AI编程助手已显著改变开发效率。消息称，AI编码工具已在苹果软件工程等部门广泛采用，部分团队为Claude Code分配了高额预算。训练营后，约60名核心Siri开发成员将留任，另有60人将负责评估Siri性能及安全性。这一安排正值WWDC26（6月8日）前夕，苹果预计将发布基于谷歌Gemini模型的重构版AI驱动Siri。",
-              "source_url": "https://9to5mac.com/2026/04/15/report-apple-to-send-siri-engineers-to-multi-week-ai-coding-bootcamp/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-16T04:57:09+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "vivo X300 Ultra全球发布，顶级相机配置亮相",
+              "brief": "vivo宣布X300 Ultra在全球市场正式上市。此前该系列仅在中国销售，此次全球发布改变了这一局面。这款手机搭载了市场上最大的200MP索尼LYT-901主摄像头传感器，并配备200MP潜望式长焦镜头和50MP超广角镜头，支持约17倍附加镜头。硬件方面采用骁龙8 Elite Gen 5芯片组、6.82英寸QHD+ OLED屏幕和6600mAh电池，支持100W有线及40W无线充电。目前尚未公布官方定价，但1TB版本预计将高于其他Ultra系列手机。",
+              "source_url": "https://www.androidauthority.com/vivo-x300-ultra-global-launch-3658033/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-16T15:36:42+08:00"
+            },
+            {
               "title": "Nothing公司无预警下架全新文件传输应用",
               "brief": "Nothing公司突然下架了其昨日刚发布的“Nothing Warp”文件传输应用及Chrome扩展程序，未提供任何官方解释。该应用旨在作为跨设备文件传输工具，允许登录同一谷歌账户的安卓手机与macOS、Windows、Linux桌面设备之间，通过谷歌云端硬盘作为临时桥梁传输文件、链接、图像和剪贴板文本。应用发布仅一天后，便从Play商店、Chrome扩展商店及相关官方博客中全面移除，已下载用户仍可使用，但新用户无法获取。初步测试显示其传输基本可靠快速，但需较广的浏览器权限，且功能本质可通过手动操作谷歌云端硬盘实现。目前推测下架可能是为修复漏洞或回应隐私担忧，具体原因尚待官方说明。",
               "source_url": "https://www.androidauthority.com/nothing-warp-removed-3658030/",
@@ -195,19 +202,26 @@
               "source_url": "https://www.androidauthority.com/lg-rollable-hands-on-video-3657983/",
               "source_name": "Android Authority",
               "published_at": "2026-04-16T07:59:34+08:00"
-            },
-            {
-              "title": "Vivo X300 FE全球发布：中端机型首次支持长焦扩展器",
-              "brief": "Vivo正式在全球发布X300 FE中端手机，这是该系列首次在FE型号上支持长焦扩展器配件。作为X300系列的简化版，X300 FE在处理器和相机系统上有所精简以降低价格，但保留了标志性的长焦扩展功能。该机搭载高通骁龙8 Gen 5移动平台，配备6.31英寸显示屏、12GB内存和最高512GB存储，内置6500mAh电池支持90W有线快充和40W无线充电。通过可选的Telephoto Extender Gen 2配件，可将焦距扩展至200mm等效，同时采用铝制框架和IP69防护等级。",
-              "source_url": "https://www.androidauthority.com/vivo-x300-fe-global-launch-3657947/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-16T04:54:26+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Opera推出浏览器连接器整合AI聊天机器人",
+              "brief": "Opera浏览器推出了名为Browser Connector的新功能，允许用户在浏览网页时整合AI助手。该功能目前支持ChatGPT和Claude两款聊天机器人，用户可在浏览过程中让AI访问页面内容，并根据打开的标签页信息提供上下文回答。这项免费功能可通过设置菜单中的AI服务选项启用，Opera One和Opera GX用户均可使用。Opera去年已推出每月20美元的Neon智能浏览器，此次新功能让用户不再局限于单一品牌的产品，可以自由切换不同的AI助手。",
+              "source_url": "https://www.engadget.com/ai/opera-adds-browser-connector-for-integrating-ai-chatbots-080000153.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-16T16:00:00+08:00"
+            },
+            {
+              "title": "苹果和谷歌应用商店被指推广“脱衣”应用",
+              "brief": "最新报告显示，苹果和谷歌的应用商店仍在推广“脱衣”应用，这些应用可将真人图像裸体化或制作成色情视频。科技透明度项目发现，苹果App Store有18款此类应用，Google Play有20款，部分应用甚至被标记为“适合所有人”，儿童也可下载。这些应用通过搜索“脱衣”等关键词即可访问，应用商店还在搜索结果中投放相关广告。报告称这些应用已产生约1.22亿美元收入，下载量达4.83亿次。尽管两家公司都有禁止色情内容的政策，但仍在继续批准和推广这些应用。",
+              "source_url": "https://www.engadget.com/apps/apple-and-google-are-reportedly-pointing-users-to-nudify-apps-065144277.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-16T15:45:38+08:00"
+            },
             {
               "title": "微软推出高校优惠套餐，应对苹果500美元MacBook Neo挑战",
               "brief": "核心事件：微软针对苹果面向学生推出的500美元MacBook Neo笔记本电脑，发布了名为“微软高校优惠”的应对方案。背景：苹果MacBook Neo以600美元（学生价500美元）的价格冲击Windows平价笔记本市场，微软此次回应旨在吸引学生群体。细节：该优惠套餐包含Microsoft 365 Premium订阅、Xbox Game Pass Ultimate、定制Xbox手柄及折扣笔记本电脑，声称提供额外500美元价值。合作零售商如百思买提供联想IdeaPad Slim 3x（搭载骁龙X芯片）降至500美元，沃尔玛HP Omnibook 3降至429美元。但服务部分价值存疑：高校常免费提供微软软件，Xbox订阅仅限新用户，定制手柄成为最直接福利。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/gaming/playstation/playstation-plus-april-catalog-adds-include-horizon-remastered-squirrel-with-a-gun-and-frank-stone-194534366.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-16T03:45:34+08:00"
-            },
-            {
-              "title": "新研究揭示AI使用对认知能力的负面影响",
-              "brief": "最新研究显示，人工智能辅助虽然短期内提升任务表现，但会导致认知依赖和独立能力下降。这项由英美研究人员开展的研究发现，仅使用AI十分钟就会让人产生依赖，一旦工具被移除，参与者的正确率显著降低且更容易放弃。实验涉及超过1000名参与者，涵盖数学和阅读理解等推理密集型任务。研究指出，AI辅助在提高即时效率的同时，削弱了人们的持久性和独立解决问题的能力。",
-              "source_url": "https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-16T02:34:19+08:00"
-            },
-            {
-              "title": "谷歌发布原生Gemini应用，正式进军Mac桌面助手市场",
-              "brief": "谷歌继推出Windows版Gemini应用后，迅速发布了macOS原生版本，标志着其AI助手正式进军桌面操作系统。该应用可通过键盘快捷键快速启动，支持屏幕内容共享与智能问答，并能调用Nano Banana和Veo进行图像与视频生成。谷歌产品经理表示，此举旨在打造“真正个性化、主动且强大的桌面助手”，为未来数月更多功能更新奠定基础。目前该应用已在支持Gemini的所有国家和地区上线，要求macOS 15或更高版本。",
-              "source_url": "https://www.engadget.com/ai/google-unleashes-a-native-gemini-app-for-the-mac-170500185.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-16T01:05:00+08:00"
             }
           ]
         },
@@ -327,6 +327,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "安娜的档案缺席败诉，赔偿3.22亿美元并面临域名封锁",
+              "brief": "安娜的档案因未出庭抗辩而缺席败诉，法院判决其赔偿3.22亿美元并下达永久禁令。该诉讼由Spotify及华纳、索尼、环球音乐等13家大型出版商联合发起，指控其侵犯版权及规避技术保护措施。判决要求域名注册商停止为十个相关域名提供支持，目前仅剩三个域名可访问，但实际运营者身份未知，赔偿执行存在困难。",
+              "source_url": "https://www.appinn.com/annas-archive-default-judgment-322m-domain-block/",
+              "source_name": "小众软件",
+              "published_at": "2026-04-16T14:46:09+08:00"
+            },
+            {
               "title": "Cloudflare Mesh发布：私有组网工具，功能类似Tailscale与Zerotier",
               "brief": "Cloudflare发布了私有网络功能Cloudflare Mesh，该工具可将不同设备接入私有网络并通过专用IP互相通信。与Tailscale、Zerotier等类似工具的关键差异在于，Cloudflare Mesh始终通过其全球网络转发设备间流量，而其他工具优先直连。该服务免费套餐支持50个节点和用户，适用于远程访问内网资源或为AI工具提供内网访问权限的场景，同时提供细粒度访问控制。",
               "source_url": "https://www.appinn.com/cloudflare-mesh/",
@@ -360,39 +367,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "涉嫌袭击OpenAI CEO的男子曾扬言效仿路易吉对付科技高管",
+              "brief": "一名20岁男子从休斯顿前往旧金山，向OpenAI CEO山姆·奥特曼的住宅投掷燃烧瓶并袭击公司总部。该男子此前曾在一档节目中扬言效仿“路易吉”对付科技高管，但当时称言论不应被当真。调查人员查获其宣言警告人工智能将灭绝人类，并留有给奥特曼的威胁信息。该男子面临多项联邦及州级指控，其辩护人称其行为由精神健康危机引发，而非蓄意伤人。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558370.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T15:24:34+08:00"
+            },
+            {
+              "title": "索尼可变形手柄专利曝光：可手动塑形实现创新玩法",
+              "brief": "索尼一项可变形手柄专利曝光，该设计采用5x5网格布局，包含25个独立节点。每个节点可被扭曲、捏合、抬升和按压，允许玩家根据需要随时调整手柄形状。在游戏中，例如拉动节点可“造”出火山，扭动则使其喷发。每个节点还能独立振动以模拟触感。专利旨在提供比现有触觉反馈更高层次的沉浸感，但实际产品能否面世尚不确定。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1558368.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T14:47:34+08:00"
+            },
+            {
+              "title": "台积电第一季度净利润飙升58%创历史新高 远超预期",
+              "brief": "台积电第一季度净利润同比飙升58%，创下历史新高并远超市场预期。尽管全球经济存在不确定性，但公司保持了来自苹果等主要客户对先进半导体的持续需求。同时，台积电从人工智能普及中获益，生产了英伟达、AMD等公司设计的先进处理器。第一季度，7纳米或更小制程的芯片占晶圆总收入的74%，其中小于3纳米的先进芯片占比达25%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558366.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T14:46:57+08:00"
+            },
+            {
+              "title": "英特尔代工业务有望迎来苹果、AMD、Google和英伟达等大客户订单",
+              "brief": "市场传闻称，苹果、AMD、英伟达、Google及博通正考虑采用英特尔的晶圆制造能力，涉及18A等先进工艺节点。例如，苹果可能在2027年将部分M系列处理器转移至英特尔18A-P节点生产。英特尔近年持续加大代工业务投入，积极争取外部客户。此外，其在EMIB、Foveros 3D等先进封装技术上的优势也被视为吸引大客户的关键，有望在全球代工格局中巩固地位。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558364.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-16T14:11:29+08:00"
+            },
+            {
               "title": "《星空》或将登陆任天堂Switch 2 台湾分级信息暗示发行在即",
               "brief": "《星空》游戏在台湾的分级信息曝光，暗示其可能即将登陆任天堂Switch 2主机。由于游戏在PC端的硬件要求远高于现有掌机性能，外界普遍关注Switch 2版本在分辨率、特效和帧率方面的优化取舍。尽管Bethesda尚未正式宣布，但此类分级信息泄露常被视为游戏发售前的信号，随着Switch 2据传将迎来多款第三方3A大作，《星空》若能加入将进一步强化新主机在多平台生态中的存在感。",
               "source_url": "https://www.cnbeta.com.tw/articles/game/1558362.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-16T13:07:59+08:00"
-            },
-            {
-              "title": "福特电动与技术负责人道格·菲尔德将离职 曾牵头低成本电动车项目",
-              "brief": "福特汽车电动与技术负责人道格·菲尔德宣布离职，他曾是公司内部低成本电动车“skunkworks”项目的主导者。菲尔德拥有特斯拉和苹果等科技公司背景，在福特负责嵌入式软件、硬件及电动车技术栈的开发。随着福特进行组织架构调整，他领导的团队将被并入新设立的“产品创造与工业化”部门，由首席运营官库马尔·加尔霍特拉接管，以加强产品开发与制造执行的一体化管理。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558360.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T13:06:03+08:00"
-            },
-            {
-              "title": "耶拉什瘟疫大墓地揭示查士丁尼大瘟疫如何重塑古城",
-              "brief": "考古学家在约旦古城耶拉什发现一处查士丁尼大瘟疫时期的大型墓地，首次通过古DNA证据确认其为鼠疫耶尔森氏菌感染的“瘟疫墓地”。研究显示，大量遗体被仓促集中掩埋，表明疫情导致短时间内数百人死亡。该墓地揭示了古代城市中高流动性群体的存在，正常时期人口流动缓慢，但大危机时集中安置反而显影了迁徙轨迹。这一发现帮助重构了古城人口组成，并展现了大流行如何深刻重塑城市社会结构与群体分布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1558358.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T13:05:19+08:00"
-            },
-            {
-              "title": "英国拟加强社交平台儿童保护监管 斯塔默警告科技巨头后果严峻",
-              "brief": "英国首相斯塔默计划与Meta、Google、TikTok等科技巨头高管会面，敦促其在儿童保护方面采取更多实质性措施。政府认为现有平台保护措施不足，将要求企业限制上瘾性设计、减少有害内容暴露，并回应公众对算法推荐、年龄验证等问题的担忧。此次会面是政府“在网络世界中成长”公开咨询的一部分，该咨询正就社交媒体使用年龄限制、产品设计监管等议题征集公众意见，斯塔默警告若不行动后果将十分严峻。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1558356.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T13:03:29+08:00"
-            },
-            {
-              "title": "谷歌向特定用户提供YouTube Premium五折年费优惠",
-              "brief": "谷歌向符合条件的Google One订阅用户提供YouTube Premium服务五折年费优惠，活动持续至4月29日，覆盖美国、加拿大等多个市场用户。此次优惠出现在YouTube Premium近期涨价至每月15.99美元之后，旨在将云存储、AI权益与无广告视频等功能打包推广。符合条件的用户需先取消现有订阅，再通过Google One优惠页面重新开通才能享受折扣。同时，YouTube正在测试Shorts信息流中展示图片帖子和轮播的新功能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1558354.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-16T13:02:39+08:00"
             }
           ]
         },
@@ -400,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "LG 39GX950B 全球首款39英寸5K2K OLED电竞显示器上架，售价13999元",
-              "brief": "LG推出全球首款39英寸5K2K OLED电竞显示器39GX950B，售价13999元。该显示器采用OLED面板，峰值亮度达1500尼特，支持5120×2160 165Hz与2560×1080 330Hz双模切换，覆盖99.5% DCI-P3色域。其搭载免GPU端侧AI超分辨率技术，可在内容显示前实时增强画质，并支持AI场景优化与AI音频功能。接口方面配备HDMI 2.1、DisplayPort 2.1及全功能USB-C等，内置两个7W扬声器。",
-              "source_url": "https://www.ithome.com/0/939/823.htm",
+              "title": "华为智能门锁M2正式开售：AI指纹解锁与4年维保，售价799元",
+              "brief": "华为智能门锁M2已正式开售，售价799元。该产品主打AI指纹解锁功能，并支持NFC卡片、物理钥匙、数字密码、华为手机与手表等多种解锁方式。其采用4节5号电池供电，支持Type-C应急充电与分级电量提醒，搭载EAL5+安全芯片实现密码本地存储与独立权限核验，并配备C级直插式锁芯确保机械锁在面板受损时仍可使用，同时提供长达4年的官方维保服务。",
+              "source_url": "https://www.ithome.com/0/939/936.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-16T14:04:10+08:00"
+              "published_at": "2026-04-16T16:02:54+08:00"
             },
             {
-              "title": "群创光电向日月光出售南部科学园区Fab5厂房，交易总额148.5亿新台币",
-              "brief": "群创光电宣布向日月光出售其位于南部科学园区的Fab5厂房，交易总金额为148.5亿新台币。此次出售预计为群创带来约133亿新台币的处分收益。双方还签署了提前厂房使用补偿协议，日月光将补偿群创约9.82亿新台币，用于加速设备拆卸与搬迁作业。该交易是群创近期资产处置计划的一部分，旨在优化其生产布局与资源配置。",
-              "source_url": "https://www.ithome.com/0/939/821.htm",
+              "title": "马斯克确认特斯拉餐厅将扩张，融合超充、餐饮与观影功能",
+              "brief": "马斯克确认特斯拉餐厅将进行扩张，计划在更多地点推广其融合超级充电站、餐厅与电影院的复合业态。这一模式源自2025年7月在洛杉矶开业的试点门店，该店配备80个V4超充桩、250多个餐位及露天电影屏幕，日均售出超700个汉堡，已成为网红打卡地。特斯拉计划在全球主要城市及长途充电线路上复制此成功模式，旨在打造集充电、用餐与娱乐于一体的品牌体验空间。",
+              "source_url": "https://www.ithome.com/0/939/938.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-16T13:57:32+08:00"
+              "published_at": "2026-04-16T15:58:16+08:00"
             },
             {
-              "title": "山东计划打造烟台至大连跨海低空物流通道等标志性场景",
-              "brief": "山东省发布方案，计划打造包括烟台至大连跨海低空物流通道在内的多个标志性应用场景。该方案聚焦低空经济、智能网联、新能源等领域，旨在通过开放场景促进技术应用与产业升级。具体措施包括建设省级智能网联系统、推进无人驾驶试点，以及探索可再生能源发电、核能供热等新技术场景。目标是到2030年构建具有山东特色的场景创新生态体系，成为全国重要的场景创新策源地。",
-              "source_url": "https://www.ithome.com/0/939/820.htm",
+              "title": "Steam喜加一：恐怖游戏《NineHells》限时免费领取",
+              "brief": "Steam平台现可免费领取原价6元的恐怖游戏《NineHells》。该游戏是一款步行模拟解谜游戏，玩家扮演从地狱迷宫苏醒的主角，在黑暗环境中探索并解开身世谜团。游戏依靠手电筒光源寻找道具推进剧情，注重悬疑氛围营造，包含大量惊吓设计及英文语音演出，以增强沉浸感。此次限免活动为玩家提供了体验这款短篇恐怖游戏的机会。",
+              "source_url": "https://www.ithome.com/0/939/937.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-16T13:55:59+08:00"
+              "published_at": "2026-04-16T15:57:27+08:00"
             },
             {
-              "title": "三星Galaxy S26用户反馈向iPhone 17隔空投送照片丢失位置数据",
-              "brief": "三星Galaxy S26用户反馈，在使用Quick Share向iPhone 17隔空投送照片时，即使启用“发送位置数据”选项，EXIF元数据中的位置信息和镜头信息仍会丢失。这一问题出现在三星为S22至S26系列推送One UI 8.5更新、实现Quick Share与苹果隔空投送互通之后。Quick Share团队已确认该问题，并表示将在下次软件更新中修复位置数据丢失问题，同时调查镜头信息不显示的故障。",
-              "source_url": "https://www.ithome.com/0/939/819.htm",
+              "title": "京东发布JoyEgoCam超高清采集终端，用于AI具身智能训练",
+              "brief": "京东发布了名为JoyEgoCam的超高清采集终端，专为AI具身智能训练设计。该设备配备双鱼眼镜头，可录制2160x2160分辨率、60帧每秒的视频，具备高速动作捕捉能力，适用于数据采集与仿真评测等场景。此举配合京东此前宣布的大规模数据采集计划，目标在两年内通过真实场景收集超1000万小时视频数据，以支持具身智能模型的训练与发展。",
+              "source_url": "https://www.ithome.com/0/939/935.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-16T13:53:09+08:00"
+              "published_at": "2026-04-16T15:51:06+08:00"
             },
             {
-              "title": "消息称奇瑞拟在日产英国工厂生产汽车，双方已展开接触",
-              "brief": "据报道，奇瑞正与日产就利用其英国工厂生产汽车进行谈判，双方已展开初步接触。此前，奇瑞已与日产就收购其南非罗斯林工厂达成协议，计划于2026年年中接手相关资产。此次关于英国工厂的讨论仍处于早期阶段，尚未达成最终协议，存在不确定性。若合作成功，将有助于奇瑞进一步拓展其在欧洲市场的制造与业务布局。",
-              "source_url": "https://www.ithome.com/0/939/818.htm",
+              "title": "“运-10”飞机总体设计负责人、飞机设计师程不时逝世，享年96岁",
+              "brief": "新中国第一代飞机设计师程不时同志逝世，享年96岁。程不时曾担任“运-10”飞机的副总设计师及总体设计负责人，并主持“歼教-1”“初教-6”等机型的总体设计工作，是中国航空工业的重要奠基人之一。他长期投身航空事业，荣获全国科学大会奖、国家科学技术进步一等奖等荣誉，其贡献与精神将铭刻于中国大飞机发展历程中。",
+              "source_url": "https://www.ithome.com/0/939/929.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-16T13:49:46+08:00"
+              "published_at": "2026-04-16T15:49:42+08:00"
             }
           ]
         },
@@ -480,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-              "brief": "PPIO发布了PPHermes，这是首个专为国内用户设计的Hermes Agent云端沙箱部署方案。该方案由AI研究机构Nous Research开发的Hermes Agent，旨在简化部署流程。用户无需编程基础，最快十分钟即可完成部署，相比海外方案，PPHermes专为Hermes设计了CLI工具链，支持一条命令完成启动、暂停与恢复，内置飞书集成，零配置接入Claude Code、Cursor等AI编程工具，并采用按需计费以降低长期使用成本。",
-              "source_url": "https://36kr.com/newsflashes/3769097669247495?f=rss",
+              "title": "星源材质：发行境外上市股份（H股）获得中国证监会备案",
+              "brief": "星源材质近日收到中国证监会出具的境外发行上市备案通知书，公司拟发行不超过1.72亿股境外上市普通股并在香港联合交易所上市。根据备案要求，公司在发行上市前如发生重大事项需向证监会报告，并在完成发行后15个工作日内报告发行上市情况。",
+              "source_url": "https://36kr.com/newsflashes/3769215851627273?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-16 14:04:25  +0800"
+              "published_at": "2026-04-16 16:04:38  +0800"
             },
             {
-              "title": "古驰母公司开云集团计划今年完成架构重组",
-              "brief": "古驰母公司开云集团计划在今年完成架构重组。这一举措的背景是为了扭转公司当前的业绩颓势。重组的具体细节未在原文中详细说明，但旨在通过调整组织架构来改善经营状况。",
-              "source_url": "https://36kr.com/newsflashes/3769091086058240?f=rss",
+              "title": "华鼎股份：向特定对象发行股票获证监会同意注册批复",
+              "brief": "华鼎股份近日收到中国证监会出具的向特定对象发行股票注册批复，证监会同意公司向特定对象发行股票的注册申请。公司本次发行应严格按照报送上海证券交易所的申报文件和发行方案实施，该批复自同意注册之日起12个月内有效。",
+              "source_url": "https://36kr.com/newsflashes/3769210938671872?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-16 13:57:43  +0800"
+              "published_at": "2026-04-16 15:59:38  +0800"
             },
             {
-              "title": "台积电：一季度先进制程营收达全季晶圆销售金额的74%",
-              "brief": "台积电公布了2026年第一季财务报告，显示先进制程营收占全季晶圆销售金额的74%。具体而言，3纳米制程出货占公司该季晶圆销售金额的25%，5纳米制程占36%，7纳米制程占13%。这些数据反映了台积电在先进半导体技术领域的强劲表现。",
-              "source_url": "https://36kr.com/newsflashes/3769084262368002?f=rss",
+              "title": "豫园股份：一季度归母净利润1.57亿元，同比增加202.87%",
+              "brief": "豫园股份发布2026年第一季度财报，显示一季度实现营业收入96.49亿元，同比增长9.87%；归属于上市公司股东的净利润1.57亿元，同比增长202.87%；基本每股收益0.041元。",
+              "source_url": "https://36kr.com/newsflashes/3769209671025155?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-16 13:50:46  +0800"
+              "published_at": "2026-04-16 15:58:21  +0800"
             },
             {
-              "title": "台积电：一季度税后纯益约5724.8亿元新台币",
-              "brief": "台积电公布了2026年第一季财务报告，税后纯益约为新台币5724.8亿元，每股盈余为新台币22.08元。与去年同期相比，营收增加了35.1%，税后纯益和每股盈余均增加了58.3%；与前一季相比，营收增加了8.4%，税后纯益增加了13.2%。以美元计算，该季营收为359亿，毛利率为66.2%，营业利益率为58.1%，税后纯益率为50.5%。",
-              "source_url": "https://36kr.com/newsflashes/3769077619327751?f=rss",
+              "title": "商务部：截至4月12日消费品以旧换新销售额5029.4亿元，惠及6977.7万人次",
+              "brief": "商务部新闻发言人何亚东在例行新闻发布会上介绍，2026年全国消费促进月于3月举办，截至4月12日消费品以旧换新销售额达5029.4亿元，惠及6977.7万人次。在以旧换新政策带动下，绿色智能产品销售快速增长，各地商务部门积极打造商旅文体健融合新场景。",
+              "source_url": "https://36kr.com/newsflashes/3769200273441284?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-16 13:44:01  +0800"
+              "published_at": "2026-04-16 15:48:47  +0800"
             },
             {
-              "title": "金铉集团战略入股香港医药分销商朗辉医药",
-              "brief": "金铉集团宣布已签署一项具有约束力的合作意向书，计划通过股权交换方式收购香港领先的医药分销商LangHui。此次战略收购的背景是金铉集团正式切入大健康分销赛道，标志着公司业务扩展至医药分销领域。",
-              "source_url": "https://36kr.com/newsflashes/3769065443246595?f=rss",
+              "title": "法国液化空气集团拟投2亿欧元在日本建设新生产装置，支持AI芯片生产",
+              "brief": "法国液化空气集团周四宣布，将投资2亿欧元在日本广岛建设、拥有并运营两套新的工业气体生产装置，以支持AI芯片生产。该投资约合2.36亿美元，旨在满足当地工业气体需求。",
+              "source_url": "https://36kr.com/newsflashes/3769193879978758?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-04-16 13:37:34  +0800"
+              "published_at": "2026-04-16 15:42:17  +0800"
             }
           ]
         },
@@ -520,39 +527,39 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "108款扩展程序被发现窃取谷歌身份验证信息和Telegram会话等",
+              "brief": "安全研究团队Socket在Chrome Web Store中发现108款恶意扩展程序，这些程序用于窃取用户谷歌账户信息、劫持Telegram会话、插入广告等。这些扩展看似无关但均连接至同一C2服务器，属于同一攻击团队。其中54个扩展窃取谷歌账号信息，1个劫持Telegram会话，45个包含通用后门，部分用于注入广告。Socket已向谷歌通报，但截至报告发布时谷歌尚未下架这些扩展。",
+              "source_url": "https://www.landiannews.com/archives/112697.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-16T16:06:32+08:00"
+            },
+            {
+              "title": "微软修复自2024年9月以来存在的自动升级到Windows Server 2025问题",
+              "brief": "微软修复了自2024年9月起存在的Windows Server 2019/2022自动升级到2025版的问题。该问题导致企业服务器被意外升级，而服务器系统不支持免费升级，企业需额外购买许可证或退回旧版。微软最初将问题归咎于第三方更新管理系统，现承认是自身程序错误。该问题于2024年11月记录，至2026年4月14日才彻底修复，修复时间异常漫长。",
+              "source_url": "https://www.landiannews.com/archives/112696.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-16T15:36:52+08:00"
+            },
+            {
+              "title": "谷歌宣布为One和AI Pro订阅用户提供5折YouTube Premium订阅权限",
+              "brief": "谷歌宣布为Google One和Google AI Pro订阅用户推出YouTube Premium年度订阅半价优惠。该优惠适用于月费10美元及以上的订阅用户，活动截至2026年4月29日，支持美国、加拿大、巴西、德国、法国和日本市场。用户需一次性按年订阅才能享受折扣，且若已订阅YouTube Premium需先取消再通过Google One或AI Pro重新订阅。",
+              "source_url": "https://www.landiannews.com/archives/112695.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-16T15:06:14+08:00"
+            },
+            {
+              "title": "开源AI中转站项目New-API修复高危漏洞 利用缺陷可伪造任意金额充值",
+              "brief": "开源AI中转站项目New-API出现高危漏洞，攻击者可利用缺陷伪造任意金额充值。漏洞源于Stripe支付Webhook验签逻辑缺陷，当签名密钥未配置时，旧版本仍尝试验签，导致安全边界失效。开发者已在v0.12.10版中修复该问题，未配置密钥时将直接返回403终止处理。使用该项目的站长需立即升级至最新版本，并检查近期充值订单是否存在异常。",
+              "source_url": "https://www.landiannews.com/archives/112694.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-16T14:51:30+08:00"
+            },
+            {
               "title": "教程：通过修改注册表关闭Windows 11连接RDP时的警告和默认隔离权限",
               "brief": "微软在2026年4月更新中为远程桌面连接增加了安全警告和权限隔离功能，以防范钓鱼攻击。对于频繁使用RDP的专业用户，每次手动授权较为繁琐。用户可通过修改注册表回滚到旧版安全设置，具体方法是在指定路径下创建名为RedirectionWarningDialogVersion的DWORD32值并设置为1，修改后无需重启系统即可生效，从而避免连接时弹出警告并自动授予剪切板等权限。",
               "source_url": "https://www.landiannews.com/archives/112693.html",
               "source_name": "蓝点网",
               "published_at": "2026-04-16T13:25:37+08:00"
-            },
-            {
-              "title": "安装4月更新后连接远程桌面将显示警告并默认隔离剪切板等权限",
-              "brief": "微软在2026年4月更新中对远程桌面协议进行了安全强化，主要针对通过RDP文件进行的钓鱼攻击。更新后首次打开RDP文件会弹出安全警告，同时默认隔离剪切板、摄像头、打印机等设备权限，用户需手动授权。对于有数字签名的RDP文件可记住权限设置，而无签名的文件每次连接都需重新授权，以此提升连接安全性并降低数据泄露风险。",
-              "source_url": "https://www.landiannews.com/archives/112692.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-16T13:02:05+08:00"
-            },
-            {
-              "title": "Telegram新增机器人创建和管理功能，支持开发者提供AI智能体服务",
-              "brief": "Telegram近期更新了机器人功能，允许机器人创建和管理子机器人。这一变化旨在支持AI智能体服务，使开发者能够通过主机器人管理多个用户创建的子机器人，并为其提供后端AI功能。用户无需自行搭建AI模型即可使用第三方服务，开发者则可通过多租户模式提供免费或收费的智能体服务，扩展了机器人在AI领域的应用场景。",
-              "source_url": "https://www.landiannews.com/archives/112677.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-16T12:24:44+08:00"
-            },
-            {
-              "title": "Cloudflare推出域名注册API，支持AI智能体快速注册域名",
-              "brief": "Cloudflare推出了域名注册API服务，旨在简化开发者购买域名的流程。该API允许AI智能体快速查询域名状态、查看注册价格并直接完成付款注册，无需开发者手动操作。用户需在Cloudflare控制台创建专用API令牌并绑定账户ID，即可通过AI智能体进行域名查询与注册，但建议以查询为主，实际注册时手动操作以避免因API泄露或误操作造成损失，因为域名注册后不支持退款。",
-              "source_url": "https://www.landiannews.com/archives/112676.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-16T11:50:26+08:00"
-            },
-            {
-              "title": "Cloudflare新增容器区域与司法管辖区定位功能",
-              "brief": "Cloudflare为其容器服务新增了区域和司法管辖区定位约束功能，使开发者能够控制容器在特定地理区域或合规边界内运行。该功能通过区域参数（如北美东部、东欧）实现地理位置精确定位，并通过司法管辖区参数（如eu、fedramp）满足数据驻留要求，例如确保数据仅留在欧洲以符合GDPR规定。这主要服务于跨国企业、政府及受严格监管行业，帮助优化延迟并强化数据本地化与合规能力。",
-              "source_url": "https://www.landiannews.com/archives/112675.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-04-16T11:08:29+08:00"
             }
           ]
         }
