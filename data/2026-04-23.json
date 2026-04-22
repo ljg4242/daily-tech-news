@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T00:19:40.454056+08:00",
+  "generated_at": "2026-04-23T02:17:24.218032+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果发布 iOS 26.4.2 和 iPadOS 26.4.2，修复错误",
+              "brief": "苹果发布 iOS 26.4.2 和 iPadOS 26.4.2，面向符合条件的 iPhone 和 iPad 推送小版本更新。此次更新距离 26.4.1 发布仅两周，官方说明称主要包含未具体列出的错误修复和安全更新。用户可通过“设置-通用-软件更新”下载安装；苹果还为未升级至 iOS 26 的旧款 iPhone 提供了 iOS 18.7.8，并已在测试预计于 5 月稍晚推出的 iOS 26.5 和 iPadOS 26.5。",
+              "source_url": "https://www.macrumors.com/2026/04/22/apple-releases-ios-26-4-2/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-23T01:23:01+08:00"
+            },
+            {
+              "title": "OpenAI 推出 ChatGPT Images 2.0，加入思考能力并改进文字渲染",
+              "brief": "OpenAI 推出 ChatGPT Images 2.0，称其开启图像生成的新阶段，并提升复杂视觉任务处理能力。新模型加入“思考”能力，可更好遵循详细指令，准确安排对象关系、保留细节并处理密集版式，还能联网获取实时信息、一次生成最多八张图片并复核输出。该模型支持多种画幅和最高 2K 分辨率，强化多语言理解，并改进日文、韩文、中文、印地语和孟加拉语等非拉丁文字渲染，现已向 ChatGPT、Codex 和 API 用户开放。",
+              "source_url": "https://www.macrumors.com/2026/04/22/openai-chatgpt-images-2-0/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-23T00:28:21+08:00"
+            },
             {
               "title": "爆料称苹果将在两方面下调 iPhone 18 配置",
               "brief": "爆料称，苹果计划在标准版iPhone 18上通过两项规格下调来控制成本、维持同一售价，而不是直接涨价。此前消息已提到该机在制造上会更接近低价定位的iPhone 18e，最新细节进一步指向屏幕与芯片。具体可能包括显示素质下降、制造工艺“倒退”，以及GPU核心数从iPhone 17标准版的五核降至四核，并可能调整A系列芯片命名以淡化降级幅度。",
@@ -35,38 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "Mosyle发现两种未被杀软识别的macOS新威胁",
-              "brief": "设备管理与安全公司Mosyle披露两种此前未被发现的macOS恶意样本，分别是跨平台载荷投递器Phoenix Worm和以窃取凭证为目标的模块化植入程序ShadeStager。这与过去一年Mac恶意软件从高噪声攻击转向隐蔽持久化的行业趋势一致，其中Phoenix Worm可连接远程控制服务器、生成受感染设备标识、回传系统信息，并支持升级与执行额外载荷；在分析时，macOS和Linux版本均未被杀毒引擎识别。",
-              "source_url": "https://9to5mac.com/2026/04/22/mosyle-identifies-two-new-macos-threats-invisible-to-antivirus-engines/",
+              "title": "Apple TV+伦敦犯罪惊悚剧《Criminal Record》回归第二季",
+              "brief": "Apple TV+ 的伦敦犯罪惊悚剧《Criminal Record》第二季已上线，首集现已播出。该剧首季围绕两名矛盾重重却被迫合作的伦敦警探展开，凭彼得·卡帕尔迪与库什·珍宝的表演收获广泛好评。第二季改用全新案件主线，早期评价依然强劲，并将于6月10日前每周三更新一集。",
+              "source_url": "https://9to5mac.com/2026/04/22/apple-tvs-acclaimed-london-crime-thriller-is-back-with-new-season/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-23T00:07:13+08:00"
+              "published_at": "2026-04-23T02:02:18+08:00"
             },
             {
-              "title": "爆料称iPhone 18将以细微规格回退降低成本",
-              "brief": "爆料称苹果可能让基础版iPhone 18在屏幕和芯片规格上出现细微回退，以配合与iPhone 18e同步发布时的成本控制。背景是两款机型据称将一同亮相，苹果被指希望借共同上市压低制造成本；变化预计不会影响ProMotion等明显功能，但显示参数会更接近18e，A20也可能采用更接近18e的分档版本。",
-              "source_url": "https://9to5mac.com/2026/04/22/iphone-18s-new-specs-might-bring-subtle-regressions-to-cut-costs/",
+              "title": "OpenAI 为 ChatGPT 推出由 Codex 驱动的团队“工作区代理”",
+              "brief": "OpenAI 宣布在 ChatGPT 中推出由 Codex 驱动的“工作区代理”，面向团队处理复杂任务和长周期工作流。该功能将升级并取代去年的自定义 GPT，可在组织设定的权限与控制范围内共享使用，并能通过 ChatGPT 或 Slack 协作。目前它以研究预览形式向 Business、Enterprise、Edu 和 Teachers 套餐开放。",
+              "source_url": "https://9to5mac.com/2026/04/22/openai-updates-chatgpt-with-codex-powered-workspace-agents-for-teams/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-23T00:06:43+08:00"
+              "published_at": "2026-04-23T02:01:28+08:00"
             },
             {
-              "title": "今日优惠：M5 Pro版MacBook Pro降价200美元等",
-              "brief": "9to5Mac汇总了多款苹果设备及配件优惠，包括2026款16英寸M5 Pro MacBook Pro直降200美元、1TB版M5 MacBook Air优惠150美元，以及512GB版M5 iPad Pro回到亚马逊低价。背景是站点持续追踪本周苹果硬件促销；此外，AirPods Pro 3降至199.99美元，AirPods Max 2最高减86美元，部分AirTag与充电配件也同步打折。",
-              "source_url": "https://9to5mac.com/2026/04/22/deals-m5-pro-macbook-pro-airpods-pro-3-airpods-max-2/",
+              "title": "Apple 为 macOS Tahoe 发布 GarageBand 更新",
+              "brief": "Apple 发布 GarageBand 10.4.14，终于让这款应用在 macOS Tahoe 上获得更新，并换上不再带灰色兼容底板的新图标。背景是 macOS 26 统一采用圆角矩形图标形状，旧版显示格外突兀。此次发行说明仅提到稳定性改进和错误修复，同时最低系统要求已从 macOS 14.4 提高到 macOS 15.6。",
+              "source_url": "https://9to5mac.com/2026/04/22/apple-releases-garageband-update-with-macos-tahoe-app-icon/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-22T23:29:35+08:00"
+              "published_at": "2026-04-23T01:30:22+08:00"
             },
             {
-              "title": "爆料称iPhone 18 Pro将加入可变光圈",
-              "brief": "爆料人Digital Chat Station称，iPhone 18 Pro和Pro Max预计将新增可变光圈镜头，这是苹果下一步相机升级路线中的首项变化。其背景是提升照片景深控制，让用户在主体分离与全景清晰之间更灵活取舍；他还提到后续规划包括主摄采用1/1.12英寸超大传感器、超广角增强光学防抖，以及2亿像素潜望式长焦镜头。",
-              "source_url": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/",
+              "title": "Apple 发布 iPhone 版 iOS 26.4.2",
+              "brief": "Apple 已向 iPhone 推送 iOS 26.4.2，并同步发布 iPadOS 26.4.2。由于 iOS 27 即将亮相、iOS 26.5 仍在测试，这次更新并未带来新功能，而是集中提供错误修复和安全更新。苹果暂未公布具体安全修复条目，只表示详情稍后会在官方安全内容页面披露；仍停留在 18 系统的设备当天也获得了 18.7.8。",
+              "source_url": "https://9to5mac.com/2026/04/22/apple-releases-ios-26-4-2-for-iphone-heres-whats-new/",
               "source_name": "9to5Mac",
-              "published_at": "2026-04-22T23:04:47+08:00"
+              "published_at": "2026-04-23T01:24:15+08:00"
+            },
+            {
+              "title": "9to5Mac Daily：2026年4月22日，继续关注苹果 CEO 交接",
+              "brief": "9to5Mac 发布 2026 年 4 月 22 日的 Daily 播客新一期，主题继续聚焦苹果 CEO 交接。节目汇总了当天几则相关报道，包括 Tim Cook 向员工解释此时卸任的原因、John Ternus 被称将以果断风格重塑产品线，以及负责 Siri 重整的高管曾考虑退一步；同时也提到 iOS 27 或将停止支持四款 iPhone。",
+              "source_url": "https://9to5mac.com/2026/04/22/daily-april-22-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-23T01:10:56+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Galaxy Z Fold 7 现已推出官方翻新版，但目前比新机还贵",
+              "brief": "三星已在美国官网上架 Galaxy Z Fold 7 和 Flip 7 的 Certified Re-Newed 版本，这两款折叠屏现已能通过官方翻新渠道购买。但眼下官网新机正有直接降价，导致翻新版并不一定更便宜。页面显示 Fold 7 翻新版 256GB 售 1699 美元，高于新机现价 1599.99 美元；Flip 7 翻新版 256GB 为 939 美元，而新机现价 899.99 美元。",
+              "source_url": "https://9to5google.com/2026/04/22/samsung-galaxy-z-fold-7-flip-7-re-newed-launch/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-23T01:25:00+08:00"
+            },
+            {
+              "title": "X 安卓应用大面积故障，修复即将推出",
+              "brief": "X 在安卓上的应用近几天出现大范围故障，链接、嵌入内容和通知点开后都无法跳转到对应页面，往往只会回到主信息流。这个问题影响了应用最核心的内容打开能力，站外链接和应用内通知都受到波及。X 的产品负责人把现状形容为“着火了”，负责安卓应用的员工则表示修复版本将很快推出，也有用户称最新更新已经解决问题。",
+              "source_url": "https://9to5google.com/2026/04/22/x-android-twitter-app-broken/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-23T00:50:00+08:00"
+            },
+            {
+              "title": "一加 Watch 4 亮相官网：钛金属机身搭载 Wear OS 6，发布时间未明",
+              "brief": "一加虽未正式发布 Watch 4，但这款手表已经出现在面向“其他地区”的全球官网页面上，几乎完整公开了新品信息。背景是一加正在评估全球业务并在欧洲裁员，因此其国际发售计划一直不明。页面显示它采用全钛合金表壳，运行 Wear OS 6 与 OxygenOS Watch 8，续航为省电 16 天、智能 5 天、重度使用 3 天，并配备 Snapdragon W5、2GB 内存和 32GB 存储。",
+              "source_url": "https://9to5google.com/2026/04/22/oneplus-watch-4-debut-wear-os-titanium/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-23T00:10:00+08:00"
+            },
             {
               "title": "优惠汇总：TCL NXTPAPER 11/14 平板 180 美元起，Galaxy Tab S11 直降 320 美元",
               "brief": "9to5Google 发布了一则促销汇总，集中整理当前几款安卓平板和显示器的降价信息，方便读者快速比较近期电商优惠。文章列出的重点包括 TCL NXTPAPER 11 与 14 两款 Android 平板 180 美元起售，Galaxy Tab S11 直降 320 美元，三星 Odyssey G7 显示器优惠 504 美元，另外还附带更多相关折扣。",
@@ -87,18 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "谷歌发布两款面向“智能体时代”的新TPU",
+              "brief": "谷歌发布面向“智能体时代”的第八代TPU，首次将训练与推理拆分为两款芯片。不同于业界大量采购英伟达加速器，谷歌长期依赖自研TPU搭建云端AI基础设施，并称新平台更快、更高效。其中特训用TPU 8t旨在把前沿模型训练周期从数月缩短到数周，单个pod集成9600颗芯片和2PB共享高带宽内存，并宣称单一逻辑集群可扩展至100万颗芯片。",
+              "source_url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T01:10:32+08:00"
+            },
+            {
+              "title": "关联10名失踪或死亡科学家的小报报道引发FBI调查",
+              "brief": "美国正调查一系列涉及科研人员的可疑事件，至少10名接触核机密和火箭技术的科学家近年失踪或死亡，引发国会与联邦机构关注。事件起因是《每日邮报》和《纽约邮报》的相关报道，共和党议员已致函能源部、国防部、FBI和NASA，要求在4月27日前说明情况；白宫称特朗普正与FBI合并审视全部案件，查找是否存在共同点。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T00:46:31+08:00"
+            },
+            {
+              "title": "物理学家认为已解开μ子之谜",
+              "brief": "困扰物理学界二十多年的μ子磁矩异常或已得到解释，研究人员认为实验与理论的偏差源于计算误差，而非暗示第五种基本作用力的新物理。发表于《自然》的新论文采用新方法重新计算相关量，结果显示标准模型仍能完整解释观测值；由于μ子比电子更重、又足够常见，它一直被用来检验量子场论与虚粒子效应。",
+              "source_url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-22T23:40:02+08:00"
+            },
+            {
+              "title": "新裁决阻止政府多项反可再生能源政策",
+              "brief": "美国马萨诸塞联邦地区法院发布初步禁令，阻止政府对原告适用多项针对可再生能源开发的限制，为风电和光伏行业争取到更大操作空间。裁决延续了去年另一宗海上风电案的逻辑，认为相关政策缺乏充分法律依据，带有“武断和反复无常”问题；此次原告改为更广泛的行业协会，因此适用项目范围也明显扩大。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-22T23:09:28+08:00"
+            },
+            {
               "title": "印度医学生靠 AI 生成的 MAGA 女模特赚进数千美元",
               "brief": "印度北部一名22岁医学生为赚外快，借助谷歌 Gemini 的 Nano Banana Pro 生成年轻保守派虚拟女性“Emily Hart”，并在线售卖她的比基尼照，赚到数千美元。此前他发布普通性感图片反响平平，随后向 Gemini 询问差异化方向；聊天记录显示，模型建议切入“MAGA/保守派”细分受众，称这类美国年长男性更忠诚且更有可支配收入。",
               "source_url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-22T22:13:01+08:00"
-            },
-            {
-              "title": "ChargePoint 推出 600 千瓦快充设备",
-              "brief": "ChargePoint 发布 Express Solo 直流快充设备，单枪最高输出功率达 600 千瓦，试图借电动车电池可承受更高充电功率的趋势缩短补能时间。该设备体积更紧凑，可安装在便利店或城市加油站停车位等狭小空间，支持同时为两辆车充电，在双枪间分配总功率，或通过带 CCS1 和 NACS 接口的 Omni Port 将全部 600 千瓦提供给单一车辆。",
-              "source_url": "https://arstechnica.com/cars/2026/04/as-ev-batteries-improve-chargepoint-debuts-600-kw-fast-charger/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-22T21:49:09+08:00"
             }
           ]
         },
@@ -106,31 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "YouTube 广告结束后会把视频直接跳到中段",
+              "brief": "有用户反映，YouTube在片头广告结束后没有回到视频开头，而是直接把播放进度往前跳了几十秒，导致观众从片段中途开始观看。按正常逻辑，无论用户是跳过广告还是完整看完，平台都应把内容从开头接上；这一故障则成了近几个月多起YouTube广告异常中的最新一例。受影响用户被跳过的时长并不固定，但多在一分钟以内，PiunikaWeb已汇总相关报告。",
+              "source_url": "https://www.androidauthority.com/youtube-ad-skip-ahead-glitch-3659870/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T01:07:41+08:00"
+            },
+            {
+              "title": "Soundcore Boom 2 蓝牙音箱降至 89.99 美元",
+              "brief": "Anker旗下Soundcore Boom 2蓝牙音箱在亚马逊降至89.99美元，较119.99美元原价便宜36%，虽然此前曾短暂触及这一价位，但这次仍是历史最低，且价格就在数小时前再次下探。文章称，这款便携式户外音箱主打80W峰值低音、24小时续航和IPX7防水，适合海滩、泳池等场景，并支持自定义均衡器与PartyCast 2.0，可串联100多台音箱；合作价格平台还给出98分，并提到其4.7星、6855条评价。",
+              "source_url": "https://www.androidauthority.com/soundcore-boom-2-deal-3659948/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T01:02:40+08:00"
+            },
+            {
+              "title": "Google Meet 记笔记工具将扩展到线下和其他会议平台",
+              "brief": "Google表示，Meet的“Take Notes For Me”记笔记功能将在未来几周扩展，用户很快不仅能在Meet会议中使用，也可在面对面会议以及Zoom、Microsoft Teams等其他平台的会议里调用。该功能2024年随多项AI能力推出，Google称仅上月就有超过1.1亿用户使用；新版可从Google Meet首页直接启动，由Gemini生成摘要、详细笔记和行动事项，并写入Google文档。",
+              "source_url": "https://www.androidauthority.com/google-meet-take-notes-for-me-expansion-3659933/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T01:00:40+08:00"
+            },
+            {
+              "title": "三星 75 英寸 The Frame Pro 电视首次半价",
+              "brief": "三星75英寸The Frame Pro 4K Neo QLED Mini LED电视目前售价1499.99美元，较3000美元标价腰斩50%，而且本周又再降500美元，来到历史最低位。文章指出，这款机型延续The Frame系列的画框式设计，支持艺术模式、无线One Connect连接和最高4K 144Hz显示，并采用Mini LED提升画质，用户还能通过Art Store获取作品或上传自己的照片；合作价格平台称其较过去90天均价低468.72美元，评分为98分。",
+              "source_url": "https://www.androidauthority.com/samsung-the-frame-pro-tv-deal-3659938/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T00:12:20+08:00"
+            },
+            {
               "title": "谷歌正测试更鲜艳、更有条理的 Gemini 应用界面",
               "brief": "谷歌正在测试 Android 版 Gemini 的一次大幅界面改版，为应用带来更鲜艳饱和的配色和更有条理的布局。过去一年它已多次微调界面，这次变化更明显，且目前尚未正式向用户开放。研究者在 Google 应用 17.16.21 版中通过内部开关提前启用后发现，侧边栏占屏更多，图标更简洁，浅色、深色、临时聊天和 Gemini Live 都出现了新背景与新的动画按钮。",
               "source_url": "https://www.androidauthority.com/gemini-android-colorful-upgrade-3659835/",
               "source_name": "Android Authority",
               "published_at": "2026-04-22T23:39:17+08:00"
-            },
-            {
-              "title": "Anker 旅行排插降至 33.99 美元",
-              "brief": "Anker 的 Travel Power Strip 目前售价 33.99 美元，降价 32%，并追平历史最低价。文章称这款产品主打出行场景，在设备越来越多、充电需求持续增加的背景下更偏实用而非炫目。它提供 2 个交流插座、2 个 USB-A 和 2 个 USB-C 接口，总输出 67W，可在不到两小时充满 MacBook Pro，采用纤薄机身、可拆平插头和 75% 消费后回收塑料。",
-              "source_url": "https://www.androidauthority.com/anker-travel-power-strip-3659912/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-22T23:33:19+08:00"
-            },
-            {
-              "title": "Google Photos 终于修复恼人的 ZIP 文件错误",
-              "brief": "谷歌已修复 Google Photos 在电脑端下载大体积照片和视频归档时生成错误 ZIP 文件的问题，新下载现应不再受文件大小影响。此前 Google One Storage Manager 会把超过 4GB 的归档写坏，导致用户无法打开。受影响用户现在可重新下载内容，或使用谷歌新提供的修复工具处理损坏文件，但该工具只会开放到 2027 年 6 月 1 日。",
-              "source_url": "https://www.androidauthority.com/google-photos-zip-file-bug-fix-3659873/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-22T23:26:06+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "《吸血鬼幸存者》开发商 Poncle 将新开工作室，逾15款游戏在研",
+              "brief": "《吸血鬼幸存者》开发商 Poncle 表示，正于日本和意大利新设两家工作室，并同步推进15款以上游戏开发。公司在凭借该系列积累大量玩家后扩展产品线，当前项目分为衍生作、原创IP，以及套用其他IP的同类Roguelite三类，已知包括本周推出的《Vampire Crawlers》、预计今年登陆Steam的《Warhammer Survivors》，并已暂停第三方发行计划。",
+              "source_url": "https://www.engadget.com/gaming/vampire-survivors-developer-poncle-is-opening-more-studios-and-has-over-15-games-in-the-works-174022348.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-23T01:40:23+08:00"
+            },
+            {
+              "title": "Threads 推出“实时聊天”功能，用于跟进直播事件",
+              "brief": "Meta 为 Threads 推出“实时聊天”功能，让用户围绕直播事件进行实时讨论，并先在 NBA 季后赛期间的 NBAThreads 社区上线。该功能建立在去年推出的社区体系内，由部分创作者、社区活跃用户和媒体人士主持，支持文字、图片、视频、链接、表情和投票；聊天室结束后仍可查看，未加入社区的用户也能参与，更多社区将逐步开放。",
+              "source_url": "https://www.engadget.com/social-media/threads-introduces-live-chats-for-following-live-events-170007658.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-23T01:00:07+08:00"
+            },
             {
               "title": "《控制：终极版》登陆 iPhone 和 iPad",
               "brief": "《控制：终极版》现已登陆iPhone和iPad，加入此前已上线的Mac版本，且采用5美元通用购买，一次购买即可在iPhone、iPad和Mac游玩。Remedy称这次带来包含两部DLC的完整内容，并为触屏重做界面与操作，调整瞄准和部分解谜，同时仍支持手柄；兼容设备需A17 Pro及以上iPhone，或搭载M系列/A17 Pro芯片的iPad。",
@@ -151,25 +242,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "新任CEO能否释放苹果智能家居的潜力？",
-              "brief": "苹果新任CEO约翰·特纳斯接手后，可能把智能家居硬件作为上任后的首个重点项目，推动苹果重新回到这一长期动作迟缓的品类。文章认为，苹果的智能家居平台已经等待了近十年才有机会真正产生影响；与蒂姆·库克花了多年才把苹果带入手表等新硬件类别相比，特纳斯面前已有多款智能家居设备最早于今秋推出的迹象。",
-              "source_url": "https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors",
+              "title": "Ember自加热智能杯在母亲节前降价超50美元",
+              "brief": "Ember在母亲节促销期间下调了Mug 2自加热智能杯价格，14盎司版在亚马逊、Target和Ember官网售97.49美元，比原价低52美元。该产品可让咖啡、茶、可可等饮品长时间保持设定温度，适合工作时不想频繁起身加热的人；10盎司版也同步降至84.47美元，优惠46美元。",
+              "source_url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
               "source_name": "The Verge",
-              "published_at": "2026-04-22T11:31:34-04:00"
+              "published_at": "2026-04-22T13:58:23-04:00"
             },
             {
-              "title": "索尼PlayStation 5自去年12月以来首次直降200美元",
-              "brief": "索尼直营网站把无光驱版轻薄款PS5降到399美元，这是自去年12月以来首次出现的200美元级优惠，也发生在4月2日主机涨价后仅几周。文章指出，这个数字版套装与普通轻薄款配置相同，但附带《堡垒之夜》游戏内外观内容；相比其他零售商600美元的售价，当前价格低了整整200美元，而这种低价在如今已较为少见。",
-              "source_url": "https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale",
+              "title": "看看索尼的顶级乒乓球机器人如何击败高排名选手",
+              "brief": "索尼AI部门展示了乒乓球机器人Ace与顶尖选手对打并偶尔取胜的视频，这款由关节式机械臂和12个摄像头组成的系统，据称是首个能在遵循国际乒联正式规则的比赛中与顶级人类球员抗衡的机器人。相比棋类和围棋，实体运动更考验机器在速度、反应与动作控制上的综合能力。",
+              "source_url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
               "source_name": "The Verge",
-              "published_at": "2026-04-22T10:38:51-04:00"
+              "published_at": "2026-04-22T13:43:38-04:00"
             },
             {
-              "title": "Meta将跟踪员工电脑操作以训练其AI代理",
-              "brief": "Meta开始在美国员工电脑上安装名为Model Capability Initiative的工具，在工作相关应用和网站中记录鼠标移动、点击、击键以及偶发截图，并把这些行为数据用于训练AI代理。文章称，这样做是为让模型更像人类一样操作电脑，进而自动化员工在岗位上执行的日常任务；据路透社报道，这套记录机制不会被用于绩效评估。",
-              "source_url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+              "title": "Anthropic的Mythos推广遗漏了美国网络安全机构",
+              "brief": "多家美国联邦机构正采用Anthropic新的网络安全模型Mythos Preview查找漏洞，但据Axios报道，负责全国网络安全协调的CISA尚未获得使用权限。与此同时，商务部和国家安全局据称已在使用该模型，特朗普政府也在谈判更广泛的接入安排，而Anthropic表示正与美国政府机构持续沟通。",
+              "source_url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
               "source_name": "The Verge",
-              "published_at": "2026-04-22T10:22:35-04:00"
+              "published_at": "2026-04-22T12:57:36-04:00"
+            },
+            {
+              "title": "微软预告神秘的Discord与Xbox Game Pass合作",
+              "brief": "微软在下调Game Pass Ultimate和PC Game Pass订阅价格仅一天后，开始预告一项新的Discord合作。微软游戏业务CEO Asha Sharma称，此举旨在让Game Pass对玩家更灵活；具体内容尚未公布，目前Ultimate订阅已附带一个月Discord Nitro，微软还表示部分用户很快会在外部代码中看到相关变化。",
+              "source_url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
+              "source_name": "The Verge",
+              "published_at": "2026-04-22T12:41:06-04:00"
+            },
+            {
+              "title": "Google Meet也将为线下会议生成AI笔记",
+              "brief": "Google的AI会议记录功能不再只限于Google Meet视频通话，Gemini现在也能为线下会议以及Zoom、Microsoft Teams会议生成摘要和转录。该功能此前在线下场景仅向安卓Alpha用户开放，如今用户可在移动端或桌面的Google Meet首页点击“为我做笔记”开始记录，即兴会议也可使用。",
+              "source_url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+              "source_name": "The Verge",
+              "published_at": "2026-04-22T12:38:19-04:00"
             }
           ]
         }
@@ -182,39 +287,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《土狼大战 ACME》首支预告发布",
-              "brief": "《土狼大战 ACME》发布首支预告，正式展示威利狼把 ACME 公司告上法庭、追究多年事故伤害的喜剧主线。该片曾在接近完成时被华纳搁置，去年春天才以5000万美元卖给 Ketchup Entertainment；预告同时露出威尔·福特、拉娜·康多、约翰·塞纳，以及达菲鸭、翠儿和兔八哥，定于8月28日全球上映。",
-              "source_url": "https://www.ign.com/articles/coyote-vs-acme-debut-trailer",
+              "title": "任天堂粉丝要求将关税退款返还消费者",
+              "brief": "两名任天堂粉丝提起集体诉讼，要求若任天堂获得美国关税退款，应把相关收益返还给消费者。起因是公司过去一年先后上调Switch 2配件、Switch 1主机以及实体版游戏的价格，并曾明确表示会把关税计入售价。诉状认为，企业不应在已向顾客多收费用后，再从退款中二次获益。",
+              "source_url": "https://www.ign.com/articles/nintendo-fans-demand-tariff-refunds-returned-to-customers",
               "source_name": "IGN",
-              "published_at": "2026-04-22T23:10:44+08:00"
+              "published_at": "2026-04-23T01:06:43+08:00"
             },
             {
-              "title": "宫本茂暗示《马力欧银河》电影背景将纳入游戏正史",
-              "brief": "宫本茂在《超级马力欧银河电影》日本上映前受访时表示，未来游戏会尽量遵循影片为碧琪公主确定的新身世设定。电影写明她与罗莎塔是由星尘诞生的姐妹，幼年因安全原因分离，碧琪被送往蘑菇王国并在奇诺比奥照料下成为女王；宫本称过去不愿设定过多背景，是担心束缚后续游戏创作。",
-              "source_url": "https://www.ign.com/articles/mario-galaxy-movie-backstory-now-video-game-canon-miyamoto-suggests",
+              "title": "金刚狼最新败绩带来重大后果",
+              "brief": "在《Wolverine》#19中，金刚狼与被反派Adamantine附身的大力神交战，随后又在追捕Adamantine时遭遇重创。他试图刺穿这个由希腊诸神金属构成的敌人，却导致右手爪子尽数碎裂。故事显示他的金属骨架并非绝对不可破坏，接下来他可能一侧恢复为骨爪，并持续面对这场失败带来的身心后果。",
+              "source_url": "https://www.ign.com/articles/wolverines-latest-defeat-has-major-consequences-for-the-iconic-x-man",
               "source_name": "IGN",
-              "published_at": "2026-04-22T22:44:51+08:00"
+              "published_at": "2026-04-23T01:00:00+08:00"
             },
             {
-              "title": "《指环王：力量之戒》第三季将于 2026 年开播",
-              "brief": "《指环王：力量之戒》第三季确认将于2026年底前在 Prime Video 开播，打破至少要等到2027年的传闻。新季与第二季相隔两年，剧情则会时间跳跃数年，直接进入精灵与索伦战争的高峰期，索伦将试图铸造至尊魔戒；报道同时称该剧五季计划未变，全球观众约1.7亿。",
-              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-season-3-debuts-in-2026",
+              "title": "乔恩·费儒谈钢铁侠之死",
+              "brief": "乔恩·费儒在《吉米鸡毛秀》受访时再谈钢铁侠之死，表示自己当年曾反对让托尼·斯塔克在《复仇者联盟4：终局之战》中牺牲。他原本担心这一安排会对陪伴角色成长的一代观众造成强烈冲击，但现在认为罗素兄弟以及小罗伯特·唐尼、格温妮丝·帕特洛把这一幕处理得非常到位，也坦言自己当初判断错了。",
+              "source_url": "https://www.ign.com/articles/jon-favreau-addresses-iron-man-death",
               "source_name": "IGN",
-              "published_at": "2026-04-22T22:19:31+08:00"
+              "published_at": "2026-04-23T00:56:17+08:00"
             },
             {
-              "title": "游戏新劳拉谈电视剧新劳拉",
-              "brief": "新任游戏劳拉·克劳馥配音演员阿莉克丝·威尔顿·里根表示，苏菲·特纳会成为“最完美”的真人版劳拉，称由另一位标志性英国女演员接棒电视剧版很自然。她也坦言不担心两种演绎被比较，并确认自己将在《古墓丽影：Catalyst》和今年推出、以虚幻5重制初代的《古墓丽影：亚特兰蒂斯遗产》中饰演劳拉。",
-              "source_url": "https://www.ign.com/articles/gamings-new-lara-croft-on-tvs-new-lara-croft",
+              "title": "宫本茂回应《超级马力欧银河大电影》影评争议",
+              "brief": "面对《超级马力欧银河大电影》评价分化，宫本茂表示自己原以为续作会获得比首部更好的影评，结果批评反而更严厉，这让他感到意外。影片目前观众评分明显高于评论界评价，但全球票房已达7.53亿美元，且尚未在日本上映。宫本还提到，不同领域的人正努力活跃电影产业，却得到消极回应，这一点令他不解。",
+              "source_url": "https://www.ign.com/articles/miyamoto-responds-to-super-mario-galaxy-movie-criticism",
               "source_name": "IGN",
-              "published_at": "2026-04-22T21:47:00+08:00"
+              "published_at": "2026-04-22T23:55:12+08:00"
             },
             {
-              "title": "《最后生还者》演员称乔尔不会就此消失",
-              "brief": "《最后生还者》中乔尔的原版演员特洛伊·贝克表示，这个角色还不会就此消失，他希望在佩德罗·帕斯卡之外，未来还能有更多演员在电视剧、电影、游戏和漫画等媒介继续诠释乔尔。此番说法紧接尼尔·德鲁克曼暗示系列最终仍会推出第三部游戏之后；贝克称，无论由顽皮狗还是其他团队推进，大家都还没见到乔尔的最后一面。",
-              "source_url": "https://www.ign.com/articles/weve-not-seen-the-last-of-joel-says-the-last-of-us-actor",
+              "title": "康纳·斯托里洽谈出演《企鹅人》导演新惊悚片",
+              "brief": "据报道，《炽热宿敌》主演康纳·斯托里正洽谈出演《企鹅人》导演克雷格·佐贝尔的新惊悚片《松节油》，梅丽莎·麦卡锡也传出有望加盟。影片讲述一名游手好闲的儿子为偿还赌债，找朋友抢劫自己父母并引发灾难后果。斯托里因该剧走红后资源迅速上升，第二季暂定2027年推出，他还将出演A24新片《Peaked》。",
+              "source_url": "https://www.ign.com/articles/heated-rivalrys-connor-storrie-in-talks-for-new-thriller-from-the-penguin-director",
               "source_name": "IGN",
-              "published_at": "2026-04-22T21:39:30+08:00"
+              "published_at": "2026-04-22T23:41:54+08:00"
             }
           ]
         },
