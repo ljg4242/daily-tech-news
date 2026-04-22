@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T02:17:24.218032+08:00",
+  "generated_at": "2026-04-23T04:16:06.826373+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 26.4.2 修补可让 FBI 提取已删除 Signal 消息的漏洞",
+              "brief": "苹果发布 iOS 26.4.2、iPadOS 26.4.2 以及 iOS 18.7.8、iPadOS 18.7.8，修复一项会让本应删除的通知仍保留在 iPhone 或 iPad 中的安全漏洞。该问题因近期庭审证词曝光，FBI 曾访问涉案 iPhone 的内部通知数据库，从中获取 Signal 消息预览。涉案手机开启了锁屏显示消息内容，即使应用已删除、消息设为自动消失，相关内容仍会在数据库中留存一段时间。",
+              "source_url": "https://www.macrumors.com/2026/04/22/ios-26-4-2-notification-database-security-fix/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-23T03:01:36+08:00"
+            },
+            {
+              "title": "谷歌确认搭载 Gemini 的 Siri 将于 2026 年晚些时候推出",
+              "brief": "谷歌确认，基于 Gemini 技术的新一代个性化 Siri 将于 2026 年晚些时候推出，这一表述来自 Google Cloud Next 2026 期间对与苹果合作关系的公开说明。此前苹果已多次表示更智能的 Siri 会在 2026 年发布，但一直没有给出具体时间。谷歌还称自己是苹果的首选云服务提供商，双方正合作开发基于 Gemini 技术的下一代 Apple Foundation Models，用于未来的 Apple Intelligence 功能。",
+              "source_url": "https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-23T02:08:04+08:00"
+            },
             {
               "title": "苹果发布 iOS 26.4.2 和 iPadOS 26.4.2，修复错误",
               "brief": "苹果发布 iOS 26.4.2 和 iPadOS 26.4.2，面向符合条件的 iPhone 和 iPad 推送小版本更新。此次更新距离 26.4.1 发布仅两周，官方说明称主要包含未具体列出的错误修复和安全更新。用户可通过“设置-通用-软件更新”下载安装；苹果还为未升级至 iOS 26 的旧款 iPhone 提供了 iOS 18.7.8，并已在测试预计于 5 月稍晚推出的 iOS 26.5 和 iPadOS 26.5。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/",
               "source_name": "MacRumors",
               "published_at": "2026-04-22T23:02:54+08:00"
-            },
-            {
-              "title": "Opera 浏览器新增单标签音量增强和视频弹出",
-              "brief": "Opera为旗舰浏览器推送更新，重点改善视频播放和远程会议体验。背景是其希望减少用户对第三方扩展的依赖，并把常用视频服务和画中画能力整合进原生功能。新版在侧边栏加入YouTube与Twitch入口，支持视频弹出悬浮窗，同时提供单标签页音量增强，最高可放大至500%，并为支持PiP的会议网站提供按站点设置的自动画中画权限。",
-              "source_url": "https://www.macrumors.com/2026/04/22/opera-one-volume-booster-video-popout/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-22T22:29:00+08:00"
-            },
-            {
-              "title": "iPhone 18 Pro 特别配色传闻再起",
-              "brief": "关于iPhone 18 Pro特殊新配色的传闻再次出现，最新说法称“深樱桃色”已获另一位知名爆料者呼应。背景是Macworld此前称苹果正测试四种配色，包括浅蓝、深樱桃、深灰和银色，其中深樱桃可能成为今年主打新色。爆料者还将其形容为酒红、咖啡与深紫的混合色，而去年机型的宇宙橙和深蓝预计不会延续。",
-              "source_url": "https://www.macrumors.com/2026/04/22/iphone-18-pro-special-color-rumor/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-22T22:25:52+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Threads 用户现可在直播事件中加入群聊",
+              "brief": "Threads 推出 Live Chats，用户可在 NBA 比赛等直播事件期间加入公开群聊，与其他关注同一事件的人实时交流。该功能把社区讨论与群聊结合起来，加入后可像普通私信一样从消息标签继续访问，支持发送文字、照片、视频和链接，也可用表情反应和参与投票；若聊天室已满，仍可围观、反应和投票。目前仅少数创作者和社区冠军可发起，且会在社区顶部展示，聊天结束后也仍可被公开发现和访问。",
+              "source_url": "https://9to5mac.com/2026/04/22/threads-users-can-now-join-group-chats-during-live-events/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-23T04:00:48+08:00"
+            },
+            {
+              "title": "iOS 26.4 带来两项 Liquid Glass 自定义更新",
+              "brief": "苹果在 iOS 26.4 中为 Liquid Glass 界面新增并调整了两项自定义设置，继续扩大用户对这一视觉设计的控制范围。新增的“降低明亮效果”可减少按钮、键盘等元素交互时的高亮与闪烁；已有的“减少动态效果”也被更新，用于更可靠地降低 Liquid Glass 动画，帮助对屏幕运动敏感的用户。两项开关分别位于辅助功能中的“显示与文字大小”和“动态效果”页面。",
+              "source_url": "https://9to5mac.com/2026/04/22/ios-26-4-offers-two-liquid-glass-customization-updates/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-23T03:43:03+08:00"
+            },
+            {
+              "title": "iOS 26.4.2 修复已删除通知仍可被找回的问题",
+              "brief": "苹果发布 iOS 26.4.2，修复了一个会让本应删除的通知意外保留在设备上的问题，并同步带来相关安全更新。该问题涉及 Notification Services，苹果称成因是日志记录处理不当，因此改进了数据脱敏方式；新版本不仅修复缺陷，还会追溯清除此前被异常留存的通知副本。相同修复也已提供给 iPadOS 26.4.2、iOS 18.7.8 和 iPadOS 18.7.8。",
+              "source_url": "https://9to5mac.com/2026/04/22/ios-26-4-2-fixes-bug-that-allowed-deleted-notifications-to-be-retrieved/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-23T02:50:54+08:00"
+            },
+            {
+              "title": "Pioneer Sphera 现已开售，为现有车辆带来一项高级 CarPlay 功能",
+              "brief": "先锋现已开售 SPHERA 车载改装主机 DMH-WT8000NEX，把此前多见于特定原厂车型的 Dolby Atmos 车载播放能力带到现有车辆中的 Apple CarPlay。该产品是首款支持这一功能的后装中控接收器，面向数以百万计可改装车辆，利用现有前后扬声器和“Pure Autotuning”技术，按车厢大小、形状与材料调整时间校准、频响和声道电平，以优化沉浸式聆听效果。",
+              "source_url": "https://9to5mac.com/2026/04/22/pioneer-bringing-a-premium-carplay-feature-to-existing-cars/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-23T02:40:00+08:00"
+            },
+            {
               "title": "Apple TV+伦敦犯罪惊悚剧《Criminal Record》回归第二季",
               "brief": "Apple TV+ 的伦敦犯罪惊悚剧《Criminal Record》第二季已上线，首集现已播出。该剧首季围绕两名矛盾重重却被迫合作的伦敦警探展开，凭彼得·卡帕尔迪与库什·珍宝的表演收获广泛好评。第二季改用全新案件主线，早期评价依然强劲，并将于6月10日前每周三更新一集。",
               "source_url": "https://9to5mac.com/2026/04/22/apple-tvs-acclaimed-london-crime-thriller-is-back-with-new-season/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-23T02:02:18+08:00"
-            },
-            {
-              "title": "OpenAI 为 ChatGPT 推出由 Codex 驱动的团队“工作区代理”",
-              "brief": "OpenAI 宣布在 ChatGPT 中推出由 Codex 驱动的“工作区代理”，面向团队处理复杂任务和长周期工作流。该功能将升级并取代去年的自定义 GPT，可在组织设定的权限与控制范围内共享使用，并能通过 ChatGPT 或 Slack 协作。目前它以研究预览形式向 Business、Enterprise、Edu 和 Teachers 套餐开放。",
-              "source_url": "https://9to5mac.com/2026/04/22/openai-updates-chatgpt-with-codex-powered-workspace-agents-for-teams/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-23T02:01:28+08:00"
-            },
-            {
-              "title": "Apple 为 macOS Tahoe 发布 GarageBand 更新",
-              "brief": "Apple 发布 GarageBand 10.4.14，终于让这款应用在 macOS Tahoe 上获得更新，并换上不再带灰色兼容底板的新图标。背景是 macOS 26 统一采用圆角矩形图标形状，旧版显示格外突兀。此次发行说明仅提到稳定性改进和错误修复，同时最低系统要求已从 macOS 14.4 提高到 macOS 15.6。",
-              "source_url": "https://9to5mac.com/2026/04/22/apple-releases-garageband-update-with-macos-tahoe-app-icon/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-23T01:30:22+08:00"
-            },
-            {
-              "title": "Apple 发布 iPhone 版 iOS 26.4.2",
-              "brief": "Apple 已向 iPhone 推送 iOS 26.4.2，并同步发布 iPadOS 26.4.2。由于 iOS 27 即将亮相、iOS 26.5 仍在测试，这次更新并未带来新功能，而是集中提供错误修复和安全更新。苹果暂未公布具体安全修复条目，只表示详情稍后会在官方安全内容页面披露；仍停留在 18 系统的设备当天也获得了 18.7.8。",
-              "source_url": "https://9to5mac.com/2026/04/22/apple-releases-ios-26-4-2-for-iphone-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-23T01:24:15+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026年4月22日，继续关注苹果 CEO 交接",
-              "brief": "9to5Mac 发布 2026 年 4 月 22 日的 Daily 播客新一期，主题继续聚焦苹果 CEO 交接。节目汇总了当天几则相关报道，包括 Tim Cook 向员工解释此时卸任的原因、John Ternus 被称将以果断风格重塑产品线，以及负责 Siri 重整的高管曾考虑退一步；同时也提到 iOS 27 或将停止支持四款 iPhone。",
-              "source_url": "https://9to5mac.com/2026/04/22/daily-april-22-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-23T01:10:56+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Waymo：已开放地区、即将进入的城市与新功能一览（2026年4月）",
+              "brief": "文章汇总了Waymo截至2026年4月的最新版图与功能更新，说明其自动驾驶出行服务目前已在哪些地区开放、接下来准备进入哪些城市，以及近期新增了哪些功能。背景是Waymo仍在持续扩大Robotaxi覆盖范围，因此这篇更新把可用城市、扩张计划和产品变化放在同一篇中，方便读者一次看清服务进展。",
+              "source_url": "https://9to5google.com/2026/04/22/waymo-new-cities-features/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-23T03:44:00+08:00"
+            },
+            {
+              "title": "Google将修复让Galaxy头显“几乎无法使用”的Android XR漏洞",
+              "brief": "Google表示将修复Android XR上的一个严重漏洞，该问题会让Galaxy头显在实际使用中变得“几乎无法使用”。这条消息之所以重要，是因为Android XR正处在建立设备与生态体验的关键阶段，系统层面的缺陷会直接影响头显可用性。文章聚焦这项已被确认的问题，以及Google将出手修复这一影响整体使用体验的故障。",
+              "source_url": "https://9to5google.com/2026/04/22/android-xr-bug-performance-problems/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-23T02:35:00+08:00"
+            },
             {
               "title": "Galaxy Z Fold 7 现已推出官方翻新版，但目前比新机还贵",
               "brief": "三星已在美国官网上架 Galaxy Z Fold 7 和 Flip 7 的 Certified Re-Newed 版本，这两款折叠屏现已能通过官方翻新渠道购买。但眼下官网新机正有直接降价，导致翻新版并不一定更便宜。页面显示 Fold 7 翻新版 256GB 售 1699 美元，高于新机现价 1599.99 美元；Flip 7 翻新版 256GB 为 939 美元，而新机现价 899.99 美元。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/04/22/oneplus-watch-4-debut-wear-os-titanium/",
               "source_name": "9to5Google",
               "published_at": "2026-04-23T00:10:00+08:00"
-            },
-            {
-              "title": "优惠汇总：TCL NXTPAPER 11/14 平板 180 美元起，Galaxy Tab S11 直降 320 美元",
-              "brief": "9to5Google 发布了一则促销汇总，集中整理当前几款安卓平板和显示器的降价信息，方便读者快速比较近期电商优惠。文章列出的重点包括 TCL NXTPAPER 11 与 14 两款 Android 平板 180 美元起售，Galaxy Tab S11 直降 320 美元，三星 Odyssey G7 显示器优惠 504 美元，另外还附带更多相关折扣。",
-              "source_url": "https://9to5google.com/2026/04/22/deals-tcl-nxtpaper-tablets-galaxy-tab-s11/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-22T23:29:56+08:00"
-            },
-            {
-              "title": "我原本很期待 Android Auto 上的 Gemini，但体验后发现它还能做得更好",
-              "brief": "作者分享了自己在 Android Auto 上试用 Gemini 后的第一印象：原本对这项新体验十分期待，但真正上手后认为它的表现还有明显提升空间。之所以值得关注，是因为 Gemini 进入车载场景本来被寄予厚望；而这篇文章的核心判断很直接，试用结果没有达到预期，当前体验仍可做得更好。",
-              "source_url": "https://9to5google.com/2026/04/22/i-was-excited-for-gemini-on-android-auto-until-i-tried-it-it-could-be-much-better/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-22T23:00:00+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "NASA如何把月球任务画面提升到高清",
+              "brief": "NASA正通过光学激光通信提升阿耳忒弥斯任务回传能力，使载人登月任务不再只依赖传统无线电低清视频。这一变化既对应如今的高清观看需求，也延续了猎户座在任务中分批传回高分辨率月背照片和日食图像的做法。文中称，飞船平时用S波段传输约3MB到5MB每秒，启用光通信终端并连上地面站后，速率可升至260Mbps。",
+              "source_url": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T03:42:13+08:00"
+            },
+            {
+              "title": "微软紧急修补 macOS 和 Linux 上的 ASP.NET Core 漏洞",
+              "brief": "微软发布 ASP.NET Core 紧急补丁，修复一个可让未认证攻击者在运行 Linux 或 macOS 应用的设备上获得 SYSTEM 权限的高危漏洞。问题出在 Microsoft.AspNetCore.DataProtection 10.0.0 至 10.0.6 对加密签名验证不当，可伪造认证负载。微软还警告，即使升级到 10.0.7，若不轮换密钥环并清除已发放令牌，攻击期间生成的凭证仍可能继续有效。",
+              "source_url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T03:32:56+08:00"
+            },
+            {
+              "title": "Anthropic 测试将 Claude Code 移出 Pro 套餐",
+              "brief": "Anthropic 曾对约 2% 的新 Pro 订阅用户测试移除 Claude Code 访问权限，引发开发者对定价变化的讨论。该公司解释称，订阅者的实际使用方式已明显改变，长时运行代理、Cowork 等新能力让每名用户的消耗大幅上升，现有套餐设计已难以匹配。现有 Pro 用户未受影响，而 Max 套餐仍保留 Claude Code，新注册用户在测试期间则无法使用。",
+              "source_url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T02:34:16+08:00"
+            },
+            {
+              "title": "《土狼诉 ACME》终于将上映，预告片公布",
+              "brief": "被华纳兄弟在 2023 年搁置的真人与动画结合影片《土狼诉 ACME》终于将上映，新发行方 Ketchup Entertainment 也已发布预告片。该片讲述威利狼因 ACME 产品多年失灵而起诉公司的故事，改编自伊恩·弗雷泽 1990 年发表于《纽约客》的讽刺作品。影片早已拍完并一度定于 2023 年 7 月上映，后被华纳取消并作为税务减记项目处理。",
+              "source_url": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-23T01:55:09+08:00"
+            },
+            {
               "title": "谷歌发布两款面向“智能体时代”的新TPU",
               "brief": "谷歌发布面向“智能体时代”的第八代TPU，首次将训练与推理拆分为两款芯片。不同于业界大量采购英伟达加速器，谷歌长期依赖自研TPU搭建云端AI基础设施，并称新平台更快、更高效。其中特训用TPU 8t旨在把前沿模型训练周期从数月缩短到数周，单个pod集成9600颗芯片和2PB共享高带宽内存，并宣称单一逻辑集群可扩展至100万颗芯片。",
               "source_url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
               "source_name": "Ars Technica",
               "published_at": "2026-04-23T01:10:32+08:00"
-            },
-            {
-              "title": "关联10名失踪或死亡科学家的小报报道引发FBI调查",
-              "brief": "美国正调查一系列涉及科研人员的可疑事件，至少10名接触核机密和火箭技术的科学家近年失踪或死亡，引发国会与联邦机构关注。事件起因是《每日邮报》和《纽约邮报》的相关报道，共和党议员已致函能源部、国防部、FBI和NASA，要求在4月27日前说明情况；白宫称特朗普正与FBI合并审视全部案件，查找是否存在共同点。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-23T00:46:31+08:00"
-            },
-            {
-              "title": "物理学家认为已解开μ子之谜",
-              "brief": "困扰物理学界二十多年的μ子磁矩异常或已得到解释，研究人员认为实验与理论的偏差源于计算误差，而非暗示第五种基本作用力的新物理。发表于《自然》的新论文采用新方法重新计算相关量，结果显示标准模型仍能完整解释观测值；由于μ子比电子更重、又足够常见，它一直被用来检验量子场论与虚粒子效应。",
-              "source_url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-22T23:40:02+08:00"
-            },
-            {
-              "title": "新裁决阻止政府多项反可再生能源政策",
-              "brief": "美国马萨诸塞联邦地区法院发布初步禁令，阻止政府对原告适用多项针对可再生能源开发的限制，为风电和光伏行业争取到更大操作空间。裁决延续了去年另一宗海上风电案的逻辑，认为相关政策缺乏充分法律依据，带有“武断和反复无常”问题；此次原告改为更广泛的行业协会，因此适用项目范围也明显扩大。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-22T23:09:28+08:00"
-            },
-            {
-              "title": "印度医学生靠 AI 生成的 MAGA 女模特赚进数千美元",
-              "brief": "印度北部一名22岁医学生为赚外快，借助谷歌 Gemini 的 Nano Banana Pro 生成年轻保守派虚拟女性“Emily Hart”，并在线售卖她的比基尼照，赚到数千美元。此前他发布普通性感图片反响平平，随后向 Gemini 询问差异化方向；聊天记录显示，模型建议切入“MAGA/保守派”细分受众，称这类美国年长男性更忠诚且更有可支配收入。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-04-22T22:13:01+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "对 AI 编写软件持怀疑态度？谷歌已有一半代码由 AI 完成，还想更进一步",
+              "brief": "报道称，谷歌正组建一个由研究员和工程师组成的“突击队”，加快内部AI编程工具与模型研发。推动这一行动的背景，是DeepMind工程师认为Anthropic最新Claude Code已优于同类Gemini，自动化编程平台也正迅速进入个人和企业流程。该团队据称由Sebastian Borgeaud牵头，Koray Kavukcuoglu与谢尔盖·布林参与。",
+              "source_url": "https://www.androidauthority.com/google-ai-coding-strike-team-report-3659975/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T03:20:38+08:00"
+            },
+            {
+              "title": "Pixel Watch 跌倒检测很快将要求登录 Google 账号",
+              "brief": "谷歌似乎准备收紧Pixel Watch的跌倒检测使用条件，未来继续使用这项功能将需要登录Google账号。之所以值得注意，是因为目前所有支持该功能的Pixel Watch机型都允许用户在未关联账号时直接开启。应用4.4.0.897056328版中新出现的字符串显示，系统会先提示用户，并给出数天宽限期后再停用功能。",
+              "source_url": "https://www.androidauthority.com/pixel-watch-fall-detection-account-3659960/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T02:53:20+08:00"
+            },
+            {
+              "title": "Google Sheets 迎来明显提速，处理大表格更快",
+              "brief": "谷歌宣布为Sheets带来一轮性能优化，大型表格的打开、筛选和格式处理都会更快。这次更新主要面向拥有100万格及以上数据的重度用户，目的是减少等待时间、提升日常操作效率。官方称，大表格打开速度提升30%，筛选和应用条件格式提升60%，同时测试版把单个表格容量从1000万格翻倍到2000万格。",
+              "source_url": "https://www.androidauthority.com/google-sheets-speed-boost-3659961/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T02:37:42+08:00"
+            },
+            {
+              "title": "Google 借 Workspace Intelligence 把 Gemini 变成更懂公司的数字同事",
+              "brief": "谷歌发布Workspace Intelligence，把Gmail、Docs、Drive及部分第三方应用连接成面向企业的语义层，让Gemini更像了解公司上下文的数字同事。其背景是员工常需在邮件、文档和多标签页间反复查找信息。该系统强调基于权限的访问和管理员控制，并将在Google Chat中提供命令行入口，可给出每日要务简报、协助安排会议。",
+              "source_url": "https://www.androidauthority.com/google-unveils-workspace-intelligence-3659969/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-23T02:32:42+08:00"
+            },
+            {
               "title": "YouTube 广告结束后会把视频直接跳到中段",
               "brief": "有用户反映，YouTube在片头广告结束后没有回到视频开头，而是直接把播放进度往前跳了几十秒，导致观众从片段中途开始观看。按正常逻辑，无论用户是跳过广告还是完整看完，平台都应把内容从开头接上；这一故障则成了近几个月多起YouTube广告异常中的最新一例。受影响用户被跳过的时长并不固定，但多在一分钟以内，PiunikaWeb已汇总相关报告。",
               "source_url": "https://www.androidauthority.com/youtube-ad-skip-ahead-glitch-3659870/",
               "source_name": "Android Authority",
               "published_at": "2026-04-23T01:07:41+08:00"
-            },
-            {
-              "title": "Soundcore Boom 2 蓝牙音箱降至 89.99 美元",
-              "brief": "Anker旗下Soundcore Boom 2蓝牙音箱在亚马逊降至89.99美元，较119.99美元原价便宜36%，虽然此前曾短暂触及这一价位，但这次仍是历史最低，且价格就在数小时前再次下探。文章称，这款便携式户外音箱主打80W峰值低音、24小时续航和IPX7防水，适合海滩、泳池等场景，并支持自定义均衡器与PartyCast 2.0，可串联100多台音箱；合作价格平台还给出98分，并提到其4.7星、6855条评价。",
-              "source_url": "https://www.androidauthority.com/soundcore-boom-2-deal-3659948/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-23T01:02:40+08:00"
-            },
-            {
-              "title": "Google Meet 记笔记工具将扩展到线下和其他会议平台",
-              "brief": "Google表示，Meet的“Take Notes For Me”记笔记功能将在未来几周扩展，用户很快不仅能在Meet会议中使用，也可在面对面会议以及Zoom、Microsoft Teams等其他平台的会议里调用。该功能2024年随多项AI能力推出，Google称仅上月就有超过1.1亿用户使用；新版可从Google Meet首页直接启动，由Gemini生成摘要、详细笔记和行动事项，并写入Google文档。",
-              "source_url": "https://www.androidauthority.com/google-meet-take-notes-for-me-expansion-3659933/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-23T01:00:40+08:00"
-            },
-            {
-              "title": "三星 75 英寸 The Frame Pro 电视首次半价",
-              "brief": "三星75英寸The Frame Pro 4K Neo QLED Mini LED电视目前售价1499.99美元，较3000美元标价腰斩50%，而且本周又再降500美元，来到历史最低位。文章指出，这款机型延续The Frame系列的画框式设计，支持艺术模式、无线One Connect连接和最高4K 144Hz显示，并采用Mini LED提升画质，用户还能通过Art Store获取作品或上传自己的照片；合作价格平台称其较过去90天均价低468.72美元，评分为98分。",
-              "source_url": "https://www.androidauthority.com/samsung-the-frame-pro-tv-deal-3659938/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-23T00:12:20+08:00"
-            },
-            {
-              "title": "谷歌正测试更鲜艳、更有条理的 Gemini 应用界面",
-              "brief": "谷歌正在测试 Android 版 Gemini 的一次大幅界面改版，为应用带来更鲜艳饱和的配色和更有条理的布局。过去一年它已多次微调界面，这次变化更明显，且目前尚未正式向用户开放。研究者在 Google 应用 17.16.21 版中通过内部开关提前启用后发现，侧边栏占屏更多，图标更简洁，浅色、深色、临时聊天和 Gemini Live 都出现了新背景与新的动画按钮。",
-              "source_url": "https://www.androidauthority.com/gemini-android-colorful-upgrade-3659835/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-22T23:39:17+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "LG 首款 RGB 电视起售价 5000 美元，今日开启预售",
+              "brief": "LG宣布首款采用Micro RGB面板的电视Micro RGB evo即日起开放预订，75英寸型号起价5000美元，另有86英寸和100英寸版本。这款产品在CES 2026亮相，属于LG基于Mini LED延伸出的新显示类别，搭载Alpha A11 AI处理器和webOS，并通过Micro RGB Engine控制独立红绿蓝LED，官方称可覆盖DCI-P3、BT.2020与Adobe RGB色域，且具备超过千个分区调光。",
+              "source_url": "https://www.engadget.com/home/home-theater/lgs-first-rgb-tv-starts-at-5000-and-is-available-to-pre-order-today-185159193.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-23T02:51:59+08:00"
+            },
             {
               "title": "《吸血鬼幸存者》开发商 Poncle 将新开工作室，逾15款游戏在研",
               "brief": "《吸血鬼幸存者》开发商 Poncle 表示，正于日本和意大利新设两家工作室，并同步推进15款以上游戏开发。公司在凭借该系列积累大量玩家后扩展产品线，当前项目分为衍生作、原创IP，以及套用其他IP的同类Roguelite三类，已知包括本周推出的《Vampire Crawlers》、预计今年登陆Steam的《Warhammer Survivors》，并已暂停第三方发行计划。",
@@ -242,6 +249,27 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "OpenAI允许团队创建可自主执行任务的定制机器人",
+              "brief": "OpenAI宣布，商业版、企业版、教育版和教师版ChatGPT用户现在可使用云端“工作区”代理，团队还能定制能自行处理业务任务的机器人，由其在云端独立完成多步流程。此举反映AI行业近期对代理产品的关注持续升温，OpenClaw走红，Anthropic也推出Claude Cowork。官方示例显示，代理可在网上搜集产品反馈并把报告发送到Slack，也能作为销售助手起草Gmail跟进邮件。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+              "source_name": "The Verge",
+              "published_at": "2026-04-22T16:09:02-04:00"
+            },
+            {
+              "title": "亚历克西斯·奥哈尼安以支持移民言论震动华盛顿",
+              "brief": "Reddit联合创始人、投资人亚历克西斯·奥哈尼安公开反对政府的驱逐政策，在华盛顿引发关注。文章指出，这一表态格外突出，因为它与一些试图讨好特朗普的科技公司高管形成了鲜明对比。该文刊载于The Verge的政治科技专栏《Regulator》，持续关注第二个特朗普政府、政治影响者、科技游说，以及大型科技公司与政府之间的关系。",
+              "source_url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
+              "source_name": "The Verge",
+              "published_at": "2026-04-22T16:04:45-04:00"
+            },
+            {
+              "title": "前MrBeast高管就“多年”骚扰指控提起诉讼",
+              "brief": "一名前MrBeast旗下Beast Industries高管提起诉讼，称自己长期遭受骚扰并因此承受情绪伤害。诉状称，她在产假期间仍被要求工作，返岗仅数周后又被错误解雇。原告洛兰·马夫罗马蒂斯还表示，公司多名女性员工遭男同事贬低，职场环境带有明显男性中心色彩，她本人也遭遇不受欢迎的性挑逗和外貌评论。",
+              "source_url": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
+              "source_name": "The Verge",
+              "published_at": "2026-04-22T14:49:02-04:00"
+            },
+            {
               "title": "Ember自加热智能杯在母亲节前降价超50美元",
               "brief": "Ember在母亲节促销期间下调了Mug 2自加热智能杯价格，14盎司版在亚马逊、Target和Ember官网售97.49美元，比原价低52美元。该产品可让咖啡、茶、可可等饮品长时间保持设定温度，适合工作时不想频繁起身加热的人；10盎司版也同步降至84.47美元，优惠46美元。",
               "source_url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
@@ -254,27 +282,6 @@
               "source_url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
               "source_name": "The Verge",
               "published_at": "2026-04-22T13:43:38-04:00"
-            },
-            {
-              "title": "Anthropic的Mythos推广遗漏了美国网络安全机构",
-              "brief": "多家美国联邦机构正采用Anthropic新的网络安全模型Mythos Preview查找漏洞，但据Axios报道，负责全国网络安全协调的CISA尚未获得使用权限。与此同时，商务部和国家安全局据称已在使用该模型，特朗普政府也在谈判更广泛的接入安排，而Anthropic表示正与美国政府机构持续沟通。",
-              "source_url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-              "source_name": "The Verge",
-              "published_at": "2026-04-22T12:57:36-04:00"
-            },
-            {
-              "title": "微软预告神秘的Discord与Xbox Game Pass合作",
-              "brief": "微软在下调Game Pass Ultimate和PC Game Pass订阅价格仅一天后，开始预告一项新的Discord合作。微软游戏业务CEO Asha Sharma称，此举旨在让Game Pass对玩家更灵活；具体内容尚未公布，目前Ultimate订阅已附带一个月Discord Nitro，微软还表示部分用户很快会在外部代码中看到相关变化。",
-              "source_url": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
-              "source_name": "The Verge",
-              "published_at": "2026-04-22T12:41:06-04:00"
-            },
-            {
-              "title": "Google Meet也将为线下会议生成AI笔记",
-              "brief": "Google的AI会议记录功能不再只限于Google Meet视频通话，Gemini现在也能为线下会议以及Zoom、Microsoft Teams会议生成摘要和转录。该功能此前在线下场景仅向安卓Alpha用户开放，如今用户可在移动端或桌面的Google Meet首页点击“为我做笔记”开始记录，即兴会议也可使用。",
-              "source_url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-              "source_name": "The Verge",
-              "published_at": "2026-04-22T12:38:19-04:00"
             }
           ]
         }
@@ -286,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《Project Hail Mary》“洛基”演员或获奥斯卡提名",
+              "brief": "据Variety报道，《Project Hail Mary》中通过木偶表演和配音与瑞恩·高斯林对戏、饰演“洛基”的詹姆斯·奥尔蒂斯，将被申报奥斯卡最佳男配角。此事受关注，是因学院现行规则认定这类非常规表演具备提名资格；文中还称他也可角逐演员工会奖、评论家选择奖和英国电影学院奖，但按现行标准无缘金球奖。",
+              "source_url": "https://www.ign.com/articles/project-hail-mary-rocky-actor-could-get-oscar-nomination",
+              "source_name": "IGN",
+              "published_at": "2026-04-23T01:20:43+08:00"
+            },
             {
               "title": "任天堂粉丝要求将关税退款返还消费者",
               "brief": "两名任天堂粉丝提起集体诉讼，要求若任天堂获得美国关税退款，应把相关收益返还给消费者。起因是公司过去一年先后上调Switch 2配件、Switch 1主机以及实体版游戏的价格，并曾明确表示会把关税计入售价。诉状认为，企业不应在已向顾客多收费用后，再从退款中二次获益。",
@@ -313,19 +327,19 @@
               "source_url": "https://www.ign.com/articles/miyamoto-responds-to-super-mario-galaxy-movie-criticism",
               "source_name": "IGN",
               "published_at": "2026-04-22T23:55:12+08:00"
-            },
-            {
-              "title": "康纳·斯托里洽谈出演《企鹅人》导演新惊悚片",
-              "brief": "据报道，《炽热宿敌》主演康纳·斯托里正洽谈出演《企鹅人》导演克雷格·佐贝尔的新惊悚片《松节油》，梅丽莎·麦卡锡也传出有望加盟。影片讲述一名游手好闲的儿子为偿还赌债，找朋友抢劫自己父母并引发灾难后果。斯托里因该剧走红后资源迅速上升，第二季暂定2027年推出，他还将出演A24新片《Peaked》。",
-              "source_url": "https://www.ign.com/articles/heated-rivalrys-connor-storrie-in-talks-for-new-thriller-from-the-penguin-director",
-              "source_name": "IGN",
-              "published_at": "2026-04-22T23:41:54+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "阴谋论引发白宫关注，FBI调查敏感研究人员死踪案",
+              "brief": "美国UFO社群把近几年多起彼此无直接关联的航空航天和核物理领域专家死亡或失踪事件串联起来，认定背后存在重大阴谋，并怀疑“黑衣人”在进行清理。这一说法随后进入美国政府视野，特朗普称问题非常严重；白宫、众议院监督委员会与FBI均表示已展开调查，FBI正联合能源部、战争部及州和地方执法部门查找答案。",
+              "source_url": "https://www.solidot.org/story?sid=84123",
+              "source_name": "Solidot",
+              "published_at": "2026-04-23T00:18:03+08:00"
+            },
             {
               "title": "谷歌发布第八代自研AI芯片 TPU 8t与TPU 8i",
               "brief": "谷歌发布第八代自研AI芯片TPU 8t和TPU 8i，分别面向大模型训练与推理，意在缩短前沿模型开发周期并匹配不同负载需求。其中8t强调计算吞吐与可扩展带宽，单个superpod可扩展到9600颗芯片、2PB共享高带宽内存，算力达121 ExaFlops；8i则配备288GB高带宽内存和384MB片上SRAM，突出低时延推理。",
@@ -386,25 +400,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "传腾讯与阿里洽谈投资DeepSeek，估值或超200亿美元",
-              "brief": "市场消息称，腾讯与阿里巴巴正洽谈投资DeepSeek，后者估值或超过200亿美元。报道提到，DeepSeek目前尚未形成可观收入，模型全部开源，聊天机器人也免费开放，这与同赛道部分公司不同。分析认为，此举既可对冲两家自身AI研发风险，也可能为后续更深层的技术合作打开直接通道。受消息影响，阿里巴巴美股盘前一度涨超2%，但三方均未正式回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559432.htm",
+              "title": "微软加入 Anthropic“玻璃翼计划”，引入 Mythos 模型加强网络安全",
+              "brief": "Anthropic将Mythos纳入“玻璃翼计划”，向微软等合作方及约40家关键基础设施维护组织开放受限访问，微软计划借此对Azure云平台和Windows系统做深度安全审计。该模型虽非专为网络安全训练，却已在操作系统、浏览器等软件中发现数千个重大漏洞，包括OpenBSD隐藏27年的缺陷和FFmpeg沉睡16年的代码问题。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559476.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-23T00:03:56+08:00"
+              "published_at": "2026-04-23T03:48:40+08:00"
             },
             {
-              "title": "欧盟推出“加速欧盟”计划应对能源危机",
-              "brief": "欧盟推出“加速欧盟”计划，以应对新一轮能源危机。方案提出配合IEA实施迄今最大规模战略石油储备释放，并协调成员国在冬季前把天然气库存补至80%，还将发布航空燃油短缺应对指南，建议增加美国进口并推动可持续航空燃料生产。与2022年不同，这次更侧重财政支持，包括调整税收规则、允许电力减税和收入补贴，并继续推进电气化行动。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559430.htm",
+              "title": "Google称目前公司75%的新代码由AI生成",
+              "brief": "Google表示，公司如今约75%的新代码由AI生成，工程体系正转向“真正的代理式工作流”，让更自主的代理与工程师协同完成任务。该公司主要使用Gemini编写代码，并把AI使用目标纳入部分员工绩效评估；皮查伊称，近期一次复杂代码迁移在代理协作下耗时较一年前缩短了六倍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559474.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-23T00:03:41+08:00"
+              "published_at": "2026-04-23T02:35:18+08:00"
             },
             {
-              "title": "鸿蒙智行发布会被指现意外：发布问界M6时尚界新车仍在台上",
-              "brief": "鸿蒙智行发布会上，介绍问界M6时，尚界新车仍停留在台上，相关画面引发现场疑似出现意外的讨论。面对外界猜测，官方随后说明会在同一舞台同时展示四款新车，这一安排并非临时异常，并针对网上流传片段作出回应，感谢大家的理解与支持，同时呼吁不要过度解读和传播。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559428.htm",
+              "title": "Google计划把Chrome打造成企业用户的“AI同事”",
+              "brief": "Google计划把Chrome升级为企业用户的“AI同事”，让浏览器代为执行录入CRM、跨标签页比价、总结候选人作品集等网页任务。该功能强调“人在回路”，用户需审阅确认后才能执行，首批将向美国Workspace用户开放，管理员可通过策略启用，并可保存常用流程为“Skills”以便后续调用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559472.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-04-23T00:00:13+08:00"
+              "published_at": "2026-04-23T02:34:45+08:00"
+            },
+            {
+              "title": "Google证实基于Gemini的新版Siri将于今年晚些时候推出",
+              "brief": "Google确认，基于Gemini技术的新一代个性化Siri仍计划在2026年晚些时候推出，相关能力将服务未来的Apple Intelligence。Google Cloud称自己是苹果的首选云服务提供商，正与苹果共同开发新一代基础模型；苹果此前已多次表态新版Siri会在2026年内上线，更多细节预计在6月8日开幕的WWDC 2026披露。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559470.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-23T02:33:57+08:00"
+            },
+            {
+              "title": "苹果发布 iOS 26.4.2 和 iPadOS 26.4.2，修复漏洞与安全问题",
+              "brief": "苹果面向iPhone和iPad发布iOS 26.4.2与iPadOS 26.4.2，提供若干未具体披露的错误修复和安全更新，以提升系统稳定性与防护能力。用户可在“设置”中在线下载安装；同时苹果还为无法升级到iOS 26的旧款iPhone推送iOS 18.7.8，并已开始测试预计于5月晚些时候发布的iOS 26.5和iPadOS 26.5。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1559468.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-23T01:29:37+08:00"
             }
           ]
         },
@@ -412,39 +440,39 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "苹果发布 iOS / iPadOS 18.7.8 正式版",
+              "brief": "苹果发布 iOS 和 iPadOS 18.7.8 正式版，这是 18 系列近期再次更新。苹果在更新日志中未展开说明，仅表示为 iPhone 和 iPad 提供错误修复；结合公开报道，本次实际修复的是已删除的推送通知仍可能意外保留在设备上的问题，修复内容与 26.4.2 相同。文中还列出了 18 系列自 18.0 至 18.7.7 的版本时间线。",
+              "source_url": "https://www.ithome.com/0/942/345.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-23T01:27:05+08:00"
+            },
+            {
+              "title": "苹果发布 iOS / iPadOS 26.4.2 正式版",
+              "brief": "苹果发布 iOS 和 iPadOS 26.4.2 正式版，这是 26 系列的一次小幅修复更新。新日志同样没有写明具体内容，只表示为 iPhone 和 iPad 提供错误修复；结合公开报道，本次实际修复的是已删除的推送通知仍可能意外保留在设备上的 Bug。文中同时梳理了 26 系列从 26 正式版到 26.5 Beta 3 的版本发布时间线。",
+              "source_url": "https://www.ithome.com/0/942/344.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-23T01:27:05+08:00"
+            },
+            {
+              "title": "荣耀预告今晚发布会新品阵容",
+              "brief": "荣耀高管林林在今晚发布会前曝光了新品阵容，包含 WIN 电竞游戏本、MagicBook Pro 14、笔记本 X16 Plus、X14 Plus、MagicPad 3 Pro 12.3 OLED 平板和荣耀亲选头戴式 HiFi 耳机。除上述产品外，他还表示现场会有两个“隐藏大红”。按照此前预告，荣耀今晚将举行 WIN 游戏本暨全场景新品发布会，机器人闪电和张雪机车也会亮相。",
+              "source_url": "https://www.ithome.com/0/942/343.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-23T00:53:52+08:00"
+            },
+            {
+              "title": "鸿蒙智行公布智界 V9 旗舰 MPV 选配信息",
+              "brief": "鸿蒙智行公布智界 V9 旗舰 MPV 的选配与版本信息，新车共 Max、Max+、Ultra、Ultra+ 四款，售价区间为 39.98 万至 52.98 万元。车辆提供四种外观、三种内饰，采用增程动力与七座布局，可选后驱或四驱、19/20 英寸轮毂、后排隐私玻璃、车载冰箱和制氧系统；其中 Max 配 896 线激光雷达，Ultra+ 搭载华为悦彰非凡系列 35 扬声器。",
+              "source_url": "https://www.ithome.com/0/942/342.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-04-23T00:34:13+08:00"
+            },
+            {
               "title": "真我手机公布 realme UI 4 月升级计划",
               "brief": "真我手机公布 realme UI 4 月体验升级计划，相关功能已于 4 月 20 日起开始分批推送，面向 realme UI 7.0 及以上机型。这轮更新集中补强 AI 与车机协同体验，覆盖 GT8 Pro、GT8、Neo8、GT7 Pro、Neo7 等多款设备，新增微信 App 车机投屏、手机导航接续投屏、2×1 与 2×2 空气质量卡片，以及极客性能面板温控调节等功能。",
               "source_url": "https://www.ithome.com/0/942/341.htm",
               "source_name": "IT之家",
               "published_at": "2026-04-23T00:10:24+08:00"
-            },
-            {
-              "title": "机械革命发布 3 款无界 14 2026 笔记本",
-              "brief": "机械革命发布 3 款无界 14 2026 笔记本，并公布首发与国补价格，补贴后到手价 3654.15 元起。三款机型分别提供月光白、海棠粉和斗战版配置，前两款搭载 2.8K 120Hz 屏幕与 16GB LPDDR5X 内存，处理器为酷睿 Ultra 7-256V 或 Ultra 5-226V，斗战版则配 1200p 60Hz 屏和 512GB 存储。",
-              "source_url": "https://www.ithome.com/0/942/340.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-23T00:02:23+08:00"
-            },
-            {
-              "title": "模式识别研究开创者戴汝为院士逝世",
-              "brief": "中国科学院自动化研究所与中国科学院大学发布讣告，师从钱学森的戴汝为院士逝世，享年 94 岁。戴汝为长期从事自动控制、模式识别、智能科学和思维科学研究，20 世纪 70 年代率先将模式识别理论引入中国，并提出语义-句法模式识别方法，培养硕博 80 余名，为汉字识别、系统科学和智能科学发展作出开创性贡献。",
-              "source_url": "https://www.ithome.com/0/942/339.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-22T23:25:06+08:00"
-            },
-            {
-              "title": "余承东称智界 V9 预售 1 小时订单破 1.25 万台",
-              "brief": "华为常务董事余承东表示，鸿蒙智行智界 V9 预售开启 1 小时订单突破 1.25 万台，发布会结束后何刚也已下订。智界 V9 是鸿蒙智行首款旗舰 MPV，预售价格 39.98 万元起，基于华为途灵 MPV 定制平台打造，采用前双叉臂和后 H 臂多连杆悬架，全系标配后轮转向，最小转弯半径 5.35 米。",
-              "source_url": "https://www.ithome.com/0/942/338.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-22T23:23:41+08:00"
-            },
-            {
-              "title": "广东茂名 423 公斤陨石揭示太阳系早期信息",
-              "brief": "广东茂名发现并发掘出一块重 423 公斤的陨石，已获国际陨石学会正式命名为“Maoming（茂名）陨石”。这块 L6 型普通球粒陨石源自 2025 年 5 月 28 日的目击火球事件，科研人员用离子探针对其中磷酸盐矿物测年，测得约 44.8 亿年；其风化等级 W0、冲击变质等级 S2，为研究太阳系早期演化和母体小行星冷却历史提供了珍贵样本。",
-              "source_url": "https://www.ithome.com/0/942/337.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-04-22T23:12:20+08:00"
             }
           ]
         }
