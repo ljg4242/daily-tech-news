@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T02:21:00.485733+08:00",
+  "generated_at": "2026-04-29T04:13:31.621583+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 将新增 Apple Intelligence 照片编辑工具",
+              "brief": "苹果计划在 iOS 27、iPadOS 27 和 macOS 27 的照片应用中加入新的 Apple Intelligence 编辑工具，扩展目前唯一已发布的 AI 编辑能力 Clean Up。此举显示苹果正继续把生成式编辑整合进系统相册。编辑界面将新增工具分区，提供 Extend、Enhance 和 Reframe，可用于扩展画面、自动优化色彩与光线，以及在空间照片中调整拍摄后的视角；不过部分功能尚未完善，可能延期或缩减，并将在 2026 年 6 月 8 日的 WWDC 预览。",
+              "source_url": "https://www.macrumors.com/2026/04/28/ios-27-apple-intelligence-photo-editing-tools/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-29T02:37:59+08:00"
+            },
             {
               "title": "苹果天气应用出现故障",
               "brief": "苹果天气应用目前出现服务中断，部分用户无法加载天气数据，另一些用户则只能缓慢刷新内容。苹果系统状态页面已确认，天气服务对部分用户可能变慢或不可用，表明这并非个别设备故障，而是官方已知的线上问题。该故障自美国东部时间周二上午11点36分开始，截稿时仍未恢复，社交媒体上的反馈也显示无数据和加载迟缓两种情况同时存在。",
@@ -42,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "瑞银在财报前上调苹果目标价，维持中性评级",
+              "brief": "瑞银在苹果财报前将目标价从280美元上调至287美元，同时维持“中性”评级。背景是多家机构近几周都因苹果在存储器供应紧张中更能保障供货而看好其表现。瑞银预计iPhone 17系列将推动iPhone营收同比增约20%，并把6月季度营收预测上调至1020亿美元，认为美国和中国需求稳健，但仍提示产品延迟、创新不足及中国需求转弱等长期风险。",
+              "source_url": "https://9to5mac.com/2026/04/28/ubs-raises-apple-price-target-ahead-of-earnings-keeps-neutral-rating/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-29T03:50:40+08:00"
+            },
+            {
+              "title": "iOS 27 或让 AirPods 成为更强大的 AI 设备",
+              "brief": "报道称，iOS 27若带来大幅升级的Siri，可能显著提升AirPods的实用性，使其更适合作为语音优先的AI设备。背景是新版Siri据传将强化对话能力、个人情境理解、跨应用操作和多步骤任务处理。文章认为，若苹果借此改善现有Siri不稳定的问题，AirPods凭借免手动打开应用的软硬件整合优势，使用频率可能明显上升。",
+              "source_url": "https://9to5mac.com/2026/04/28/ios-27-could-make-your-airpods-a-lot-more-powerful-heres-why/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-29T03:12:14+08:00"
+            },
+            {
+              "title": "9to5Mac Daily：2026年4月28日，苹果“Ultra”传闻等",
+              "brief": "9to5Mac发布了2026年4月28日的Daily播客节目，汇总当天几则苹果相关话题。该栏目是工作日更新的日播节目，方便听众快速了解网站重点报道。此次节目讨论的内容包括明年“iPhone 20”的屏幕爆料、苹果高管称服务业务仍有很大扩展空间，以及关于iPhone Ultra和MacBook Ultra可能今年推出的报道。",
+              "source_url": "https://9to5mac.com/2026/04/28/daily-april-28-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-29T02:57:54+08:00"
+            },
+            {
+              "title": "报道称 iOS 27 将为苹果照片应用新增三项功能",
+              "brief": "据报道，iOS 27将为苹果照片应用加入三项AI编辑功能，并更新编辑界面，加入“Apple Intelligence Tools”区域。背景是苹果正把新系统重点放在AI照片处理上。三项功能包括向画面外补全内容的Extend、自动优化画质和光线色彩的Enhance，以及为空间照片调整视角的Reframe，但部分功能在内部测试中表现不稳定。",
+              "source_url": "https://9to5mac.com/2026/04/28/ios-27-will-add-three-new-features-to-apples-photos-app-per-report/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-29T02:34:01+08:00"
+            },
+            {
               "title": "飞利浦 Hue 灯光加入沉浸式 SpatialAware 功能，现已上线",
               "brief": "飞利浦 Hue 在最新 iPhone 和 iPad 应用更新中上线 SpatialAware 沉浸式灯光功能，并同步为 Hue 视频门铃加入两项新能力。这一模式通过扫描房间，把 Scene Gallery 场景更自然地分布到空间中，但需要重制后的灯光场景和 Hue Bridge Pro 支持；目前约有一半场景已完成适配，房间扫描通常不到 10 分钟，且无论手机是否配备 LiDAR 都可使用，门铃也新增模拟视频来电和预录自动回复。",
               "source_url": "https://9to5mac.com/2026/04/28/philips-hue-lights-enhanced-with-immersive-spatialaware-feature-now-available/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-29T01:10:04+08:00"
-            },
-            {
-              "title": "苹果天气宕机？iPhone 应用当前出现问题",
-              "brief": "苹果天气应用目前被大量用户报告出现故障，iPhone 上可能只显示几乎空白的页面，或加载非常缓慢甚至暂时不可用。文章称社交平台上已有不少反馈，而 Downdetector 显示 The Weather Channel 也在宕机，这可能影响仍将其作为部分数据来源的 Apple Weather；不过苹果系统状态页尚未确认问题，当前仍显示服务正常，作者等待几分钟后才重新拉取到各地点的实时数据。",
-              "source_url": "https://9to5mac.com/2026/04/28/apple-weather-down-iphone-app-experiencing-issues-right-now/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-29T00:57:51+08:00"
-            },
-            {
-              "title": "Perplexity 为 iPad 用户升级 Comet AI 浏览器",
-              "brief": "Perplexity 为其 Comet AI 浏览器推出 iPad 原生体验更新，现已更好适配 iPadOS，并支持多窗口与 Split View 等多任务功能。Comet 将网页浏览与 AI 聊天机器人结合，可调用 OpenAI、Anthropic 等模型；这款产品先在 Mac 上推出，3 月登陆 iPhone，iPad 起初只提供基础支持，如今用户可通过 App Store 更新获得更完整的平板体验。",
-              "source_url": "https://9to5mac.com/2026/04/28/perplexity-just-gave-its-comet-ai-browser-an-upgrade-for-ipad-users-with-these-features/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-29T00:21:35+08:00"
-            },
-            {
-              "title": "iOS 26.4 为 iPhone 补上长期缺失的闹钟功能",
-              "brief": "苹果在 iOS 26.4 中为睡眠日程闹钟加入“始终在 iPhone 上播放”开关，让佩戴 Apple Watch 入睡时，闹钟也能同时在手机和手表上触发。此前这类闹钟默认只在手表上以震动提醒，适合不想吵醒伴侣或孩子，但对需要更强唤醒效果的用户并不理想。该选项默认关闭，可在 iPhone 的时钟应用或健康应用编辑睡眠日程时开启，单次闹钟不提供此设置。",
-              "source_url": "https://9to5mac.com/2026/04/28/ios-26-4-gave-your-iphone-an-alarm-feature-thats-long-been-missing/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-29T00:02:32+08:00"
-            },
-            {
-              "title": "Pedometer++ 8 为 Apple Watch 带来新设计和远征模式",
-              "brief": "Pedometer++ 8 重建并重新设计了 Apple Watch 版应用，加入更醒目、更彩色的界面，以及一个强调大号触控目标、便于快速选择步行、跑步和徒步的锻炼选择器。背景是部分用户对 watchOS 26 新版 Workout 应用的当前选择方式并不满意。新版本还为 Premium 用户推出 Expedition Mode，通过关闭持续心率追踪、改用基础心率数据来节电，官方称长时间活动可节省最多 40% 电量。",
-              "source_url": "https://9to5mac.com/2026/04/28/pedometer-8-brings-friendly-design-refresh-and-expedition-mode-to-apple-watch/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-29T00:00:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "YouTube TV正式上线完全自定义多画面，但并非处处可用",
+              "brief": "YouTube TV正式推出完全自定义的多画面观看功能，用户可自行组合多个直播窗口，不再局限于平台预设方案。此前多画面主要依赖官方提供的固定组合，这次上线让观看方式更灵活，也显示该服务继续推进直播体验升级。与此同时，新功能仍有明确边界，报道特别整理了当前暂不适用的范围，提醒用户并非所有观看场景都已覆盖。",
+              "source_url": "https://9to5google.com/2026/04/28/youtube-tv-custom-multiview/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-29T03:45:00+08:00"
+            },
             {
               "title": "三星或终于重设计 Galaxy S 手机，但内存危机可能搅局",
               "brief": "报道称，三星正评估调整 Galaxy S 系列沿用多年的后摄布局，可能把镜头位置重新安排，为机身内置 Qi2 磁吸结构和相关配件支持腾出空间。这意味着旗舰外观或迎来多年来少见的大改动，背景是现有相机排布与无线充电线圈位置存在冲突；但内存涨价引发的“RAMageddon”正抬高物料与生产成本，最终也可能让改版方案被迫搁置。",
@@ -108,19 +122,19 @@
               "source_url": "https://9to5google.com/2026/04/28/google-home-gemini-update-april-28/",
               "source_name": "9to5Google",
               "published_at": "2026-04-29T00:45:32+08:00"
-            },
-            {
-              "title": "又有两款安卓手机加入通过 Quick Share 使用 AirDrop 的支持",
-              "brief": "Google 让基于 Quick Share 的 AirDrop 互传继续扩容，继 Pixel 和三星 Galaxy 后，Oppo 与 vivo 的两款新机也已加入支持。该功能此前按机型逐步开放，以便与 iPhone 和 Mac 实现附近文件互传；目前已确认 Oppo Find X9 Ultra 可双向识别并分享文件，vivo X300 Ultra 也被发现已能启用，显示支持范围还会继续扩大。",
-              "source_url": "https://9to5google.com/2026/04/28/android-airdrop-quick-share-oppo-vivo/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-29T00:40:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "东京机场测试人形机器人分拣行李，应对人手短缺",
+              "brief": "日本航空计划自2026年5月起在东京羽田机场测试人形机器人，让其参与行李分拣和货物装载，以缓解近年旅客增长带来的地勤人手短缺。试验预计持续到2028年，未来还可能扩大到清洁客舱及操作行李车等地面支援任务。相较主要在装配线和仓库执行可预测重复工作的机械臂，这次测试将检验人形机器人在更开放、变化更多的机场环境中，软硬件是否足以应对不确定作业。",
+              "source_url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-04-29T02:01:36+08:00"
+            },
             {
               "title": "GitHub将按Copilot实际AI用量收费",
               "brief": "GitHub宣布自6月1日起，GitHub Copilot将改为按实际AI使用量计费。公司表示，随着需求上升和有限算力资源趋紧，当前以每月“requests”和“premium requests”粗略分配额度、把快速聊天提问与持续数小时的自主编程任务按同类请求计算的方式，已难以覆盖不断攀升的推理成本。新方案下，订阅者每月将获得与订阅费对应的AI Credits，超出部分按输入、输出及缓存token消耗，并依据所用模型的API费率结算。",
@@ -155,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Gemini for Home 更擅长判断何时忽略无关语音",
+              "brief": "谷歌宣布更新 Gemini for Home，优化家居设备指令识别和上下文理解，让语音控制更快，也更少被无关对话打断。这是该服务上线约六个月后的又一次改进，延续此前对便签和清单处理的更新。官方称控制灯具或插座可快约1.5秒，系统也更能分辨独立指令与追问，计时器、闹钟和提醒等基础命令接近即时执行，自定义例程运行更稳定，Home Premium 遇支付问题时将暂时暂停订阅而非直接结束。",
+              "source_url": "https://www.androidauthority.com/gemini-for-home-speed-boost-3661654/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-29T03:40:16+08:00"
+            },
+            {
               "title": "Google Home 部分智能灯泡丢失 RGB 控制，临时办法可恢复",
               "brief": "部分Google Home用户发现，已连接的智能灯泡在应用内仍可使用，却突然失去RGB颜色调节，只剩白光或暖黄光选项。问题近期在Reddit和Google Nest社区被多次提及，但并非所有设备都会受影响，显示这是波及部分配置的异常。社区给出的临时办法是先在厂商应用中重新添加灯泡，再通过Matter共享回Google Home，很多情况下可恢复完整彩光控制，但谷歌尚未发布官方修复。",
               "source_url": "https://www.androidauthority.com/google-home-rgb-smart-bulb-problem-3661539/",
@@ -181,19 +202,19 @@
               "source_url": "https://www.androidauthority.com/home-nest-forum-posts-removal-3661623/",
               "source_name": "Android Authority",
               "published_at": "2026-04-29T01:37:58+08:00"
-            },
-            {
-              "title": "Razr 发布前夕，Moto Razr Plus 2026 图片再泄露",
-              "brief": "摩托罗拉将在正式发布2026款Razr系列前夕迎来新一轮泄露，Razr Plus 2026的渲染图和生活方式图片已提前曝光。现有爆料显示，这款手机整体设计与同代其他Razr机型相近，并确认会提供森林绿色版本。报道称它将作为面向美国市场的升级款上市，预计售价1099.99美元，配置上会带来更强芯片、更多内存和更快充电。",
-              "source_url": "https://www.androidauthority.com/moto-razr-plus-2026-images-3661604/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-29T00:53:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "iOS 27 据报将加入 AI 照片编辑工具",
+              "brief": "报道称，苹果计划在 iOS 27、iPadOS 27 和 macOS 27 中加入新的 AI 照片编辑工具，可调整图片背景与构图。这是苹果扩展 Apple Intelligence 的一部分，现有照片应用已支持基础调色、裁剪和用 Clean Up 移除对象。若上线，新功能将包括用生成式 AI 扩展背景的 Extend、自动改善光线和画质的 Enhance，以及主要面向空间照片、可在拍摄后改变视角的 Reframe。",
+              "source_url": "https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss",
+              "source_name": "Engadget",
+              "published_at": "2026-04-29T03:41:19+08:00"
+            },
             {
               "title": "英伟达开始为笔记本提供12GB版RTX 5070",
               "brief": "英伟达宣布推出面向笔记本的12GB显存版GeForce RTX 5070，作为50系上市以来一直提供的8GB型号之外的新配置。公司表示，GeForce RTX需求持续强劲，而显存供应仍然紧张，此举是为合作厂商开放另一组内存来源，以补充目前多数产品使用的16Gb G7供应。首批机型预计将于6月出货，华硕、联想和微星等厂商可能提供这一选项，完整规格和价格仍未确认。",
@@ -221,13 +242,6 @@
               "source_url": "https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss",
               "source_name": "Engadget",
               "published_at": "2026-04-29T00:00:00+08:00"
-            },
-            {
-              "title": "谷歌与五角大楼签机密协议 向美国防部开放 AI 模型",
-              "brief": "据报道，谷歌已与美国国防部签署一项机密协议，允许后者将其AI模型用于“任何合法的政府用途”。这份合同细节被列为机密，背景是科技公司与军方合作持续引发争议。知情人士称，双方同意不将技术用于国内大规模监控或缺乏适当人工监督和控制的自主武器，但合同据称并未赋予谷歌对政府具体用法的控制权或否决权。",
-              "source_url": "https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss",
-              "source_name": "Engadget",
-              "published_at": "2026-04-28T23:52:12+08:00"
             }
           ]
         },
@@ -235,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "复活版 Commodore 64 将迎来原汁原味的外观升级",
-              "brief": "C64 Ultimate 团队公布了后续机型 C64C Ultimate，这台用 FPGA 精确复刻经典个人电脑的产品，继续对应原版 Commodore 64 的历史演进。和 1986 年的 Commodore 64C 一样，它在功能上基本不变，重点是更纤薄的机身与更现代的配色；新版还配备 HDMI 接口，并将使用当年相同的生产工具制作外壳。",
-              "source_url": "https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c",
+              "title": "YouTube TV 现已支持自定义多画面组合",
+              "brief": "Neal Mohan宣布，YouTube TV上线“完全可自定义”的多画面功能，用户可自由组合直播流，并在同一窗口固定最多四路内容。该功能2023年先以预设体育赛事视图推出，随后扩展到新闻、商业和天气节目。去年平台已测试部分非体育内容的自定义多画面，如今将向YouTube TV订阅者及10多个垂类套餐订阅者开放。",
+              "source_url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
               "source_name": "The Verge",
-              "published_at": "2026-04-28T14:10:39-04:00"
+              "published_at": "2026-04-28T15:46:19-04:00"
             },
             {
-              "title": "罗技把模拟轴和机械轴装进了同一把键盘",
-              "brief": "罗技推出有线游戏键盘 G512 X，把模拟轴和机械轴放进同一款产品里，让用户按偏好混搭，而不必在两种手感之间二选一。背景是两类轴体各有优缺点：机械轴更接近传统打字体验，模拟轴则更安静，并允许玩家细调输入触发速度。罗技称其中 39 个键位支持混合更换，兼容“几乎所有”主流模拟轴以及 3 针机械轴。",
-              "source_url": "https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap",
+              "title": "FCC要求迪士尼旗下ABC电视台提前续办广播牌照",
+              "brief": "美国联邦通信委员会要求迪士尼拥有并运营的ABC电视台提前申请广播牌照续期。FCC周二在文件中称，此举属于其对迪士尼多元、公平与包容政策调查的一部分。此事发生在特朗普要求ABC解雇吉米·坎摩尔一天之后，起因是后者在小品中称梅拉尼娅·特朗普为“准寡妇”，而这些牌照原定到2028年才需续办。",
+              "source_url": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
               "source_name": "The Verge",
-              "published_at": "2026-04-28T13:50:49-04:00"
+              "published_at": "2026-04-28T15:36:14-04:00"
             },
             {
-              "title": "Apple TV 新恐怖剧因好笑而更吓人",
-              "brief": "Apple TV 新剧《Widow’s Bay》把恐怖与喜剧结合在一起，主创和演员解释说，这种混搭会让观众在笑声和惊吓之间更容易失去防备。该剧于 4 月 29 日上线，讲述新英格兰海岸外一座既有小镇魅力又明显闹鬼的岛屿；在他们看来，恐怖和喜剧都依赖突如其来的意外，因此能彼此放大效果，让情绪始终处在不稳定状态。",
-              "source_url": "https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview",
+              "title": "马斯克与奥尔特曼围绕OpenAI未来的庭审实况更新",
+              "brief": "围绕OpenAI未来的高风险诉讼已进入庭审阶段，陪审团遴选于4月27日开始，马斯克于周二作为首位证人出庭。马斯克称OpenAI背离了“造福人类”的创立使命，并指控奥尔特曼和布罗克曼诱使他出资后转向逐利。OpenAI则称诉讼毫无根据，意在打击竞争对手；马斯克要求撤换两名高管、停止公共利益公司架构，并为非营利机构争取最高1500亿美元赔偿。",
+              "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
               "source_name": "The Verge",
-              "published_at": "2026-04-28T13:00:13-04:00"
+              "published_at": "2026-04-28T15:27:50-04:00"
             },
             {
-              "title": "最新 Kindle Paperwhite 跌至今年最低价",
-              "brief": "最新版 Kindle Paperwhite 降至今年最低价，16GB 带广告版在亚马逊、百思买和塔吉特售价 134.99 美元，直降 25 美元。背景是母亲节临近，The Verge 原本也推荐更便宜的入门 Kindle，但这次折后让更高阶的 Paperwhite 更值得买；它比黑五历史低价只高 10 美元，Signature 版也同步降到 164.99 美元，并提供无线充电与双倍基础存储。",
-              "source_url": "https://www.theverge.com/gadgets/919644/kindle-paperwhite-marathon-deal-sale",
+              "title": "马斯克在起诉OpenAI的高关注度审判中出庭作证",
+              "brief": "马斯克正式开始在自己起诉OpenAI的案件中作证，庭审对象包括OpenAI CEO萨姆·奥尔特曼和总裁格雷格·布罗克曼。三人都曾是OpenAI初始创始团队成员，马斯克早期投入最高3800万美元，随后因公司结构与使命分歧，包括是否并入特斯拉而决裂。离开后他创办了与OpenAI直接竞争的xAI，且近年已对OpenAI提起至少四起诉讼。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
               "source_name": "The Verge",
-              "published_at": "2026-04-28T12:59:13-04:00"
+              "published_at": "2026-04-28T15:00:13-04:00"
             },
             {
-              "title": "Google 翻译现可帮助练习发音",
-              "brief": "谷歌为 Translate 推出由 AI 驱动的“发音练习”功能，可分析用户语音，并在学习者进入所选语言的真实对话前，立即给出咬字和发音改进反馈，帮助反复练习口语。它还配有按发音写出的提示，整体体验与部分语言学习应用的发音训练相似。该功能已从今天起向美国和印度的 Android 用户开放，首批支持英语、西班牙语和印地语，其他地区及 iOS 版本时间尚未公布。",
-              "source_url": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability",
+              "title": "仅因身处附近，你就可能被卷入警方调查",
+              "brief": "美国最高法院周一就Chatrie诉美国案听取辩论，这起案件将审视警方使用“地理围栏令状”调取位置数据的合法性。案件源于2019年弗吉尼亚州里士满一宗银行抢劫案，警方据此向谷歌索取案发时距现场300米内所有人的数据。争议焦点是谷歌地图位置历史可在约3米范围内定位并每两分钟刷新一次，这关系到手机用户位置隐私边界。",
+              "source_url": "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
               "source_name": "The Verge",
-              "published_at": "2026-04-28T12:00:00-04:00"
+              "published_at": "2026-04-28T14:45:00-04:00"
             }
           ]
         }
@@ -279,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《MindsEye》上线新更新并永久降价",
+              "brief": "在经历发售受挫、裁员以及管理层将失败归咎于“内部破坏者”后，BARB今日为《MindsEye》推出 Blacklisted 更新并永久降价，标准版34.99美元、豪华版47.99美元。更新加入新剧情任务，玩家扮演刺客 Julia Black，追查一张从内外部撕裂公司的犯罪网络；该任务原本按《杀手》联动设计，现通过游戏内 Arcadia 平台发布，流程较短，可在一小时内完成。",
+              "source_url": "https://www.ign.com/articles/mindseye-has-a-new-update-and-a-cheaper-price-as-developer-launches-comeback-bid",
+              "source_name": "IGN",
+              "published_at": "2026-04-29T02:22:15+08:00"
+            },
+            {
+              "title": "据称所有单机非 VR 的 Denuvo 游戏都已被绕过",
+              "brief": "据 FitGirl 发帖，所有采用 Denuvo 的单人、非 VR 游戏如今都已被破解或绕过，多数是借助运行在 Windows 之下的 Hypervisor 方案，让 DRM 误判为另一套硬件，而非真正移除保护。虽然这类绕过存在安全风险，但已让部分作品在发售前后极短时间内就被盗版；Denuvo 母公司 Irdeto 表示，正针对这波新方法开发应对措施。",
+              "source_url": "https://www.ign.com/articles/all-single-player-non-vr-denovo-games-have-allegedly-been-bypassed",
+              "source_name": "IGN",
+              "published_at": "2026-04-29T02:16:53+08:00"
+            },
             {
               "title": "《侏罗纪公园》演员山姆·尼尔分享积极健康近况",
               "brief": "山姆·尼尔分享了自己与血液癌症斗争中的较积极近况，说明在旧疗法失效后仍继续接受新治疗。78岁的他在2023年公开罹患罕见且侵袭性强的血管免疫母细胞性T细胞淋巴瘤，此后多年规律化疗。尼尔表示化疗过程很痛苦，却一直在维持生命，但后来药效突然停止，他一度不知所措，并形容自己像是在走向尽头，于是改为参加新的临床试验。",
@@ -299,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-has-romances-but-with-a-twist",
               "source_name": "IGN",
               "published_at": "2026-04-29T01:00:00+08:00"
-            },
-            {
-              "title": "《黎明行者之血》工作室使用AI，但游戏中没有AI资产",
-              "brief": "Rebel Wolves表示开发《黎明行者之血》时会使用生成式AI，但最终游戏中不会保留AI资产。总监康拉德·托马什凯维奇解释，团队在早期曾用AI语音测试和敲定剧本，尤其是面对六种语言的RPG配音流程时，这样能更早发现故事问题。等内容确认后，所有AI语音都会被移除并交给真人演员重录，以减少返工、团队压力和加班。",
-              "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-studio-uses-ai-but-theres-no-ai-assets-in-the-game",
-              "source_name": "IGN",
-              "published_at": "2026-04-29T01:00:00+08:00"
-            },
-            {
-              "title": "《黎明行者之血》公布发售日期并发布新剧情预告",
-              "brief": "《黎明行者之血》公布将于2026年9月3日发售，并同步放出新的剧情预告片。这款开放世界吸血鬼RPG由Rebel Wolves开发，团队来自曾参与《巫师3》和《赛博朋克》的前CD Projekt成员，项目被定位为全新角色扮演传奇的第一章。新预告展示了主角科恩旅途中遇到的角色、敌友关系，以及位于喀尔巴阡山脉的神秘地区Vale Sangora等此前未公开地点。",
-              "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-has-a-release-date-and-a-new-story-trailer",
-              "source_name": "IGN",
-              "published_at": "2026-04-29T00:32:23+08:00"
             }
           ]
         },
@@ -351,39 +365,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "纽约试飞电动空中出租车：肯尼迪机场至曼哈顿约10分钟",
+              "brief": "Joby在纽约完成电动空中出租车试飞，从肯尼迪机场飞到曼哈顿约10分钟。此次飞行属于美国联邦航空管理局的eVTOL整合试点，目的是评估这类飞行器如何安全接入现有空域、地面设施和监管框架。该机面向城市短途出行，采用全电驱动与垂直起降设计，无需传统跑道；目前仍属技术验证阶段，Joby称若认证顺利，计划于2026年下半年启动载客运营。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560448.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-29T03:01:00+08:00"
+            },
+            {
+              "title": "蒂姆·库克出席白宫欢迎仪式，见证查尔斯三世访美国事活动",
+              "brief": "苹果CEO蒂姆·库克现身白宫欢迎仪式，见证英国国王查尔斯三世访美期间的国事活动。美国商务部随后公开了库克到访华盛顿并与商务部长会面的照片，延续其与政界保持密切沟通的惯例。报道称，库克是否出席当晚国宴尚不明确；查尔斯此前曾访问苹果伦敦园区，双方近年在青年技能培训与创意产业等议题上已有互动。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560446.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-29T02:59:02+08:00"
+            },
+            {
+              "title": "谷歌扩大向五角大楼提供AI访问权限，填补Anthropic空缺",
+              "brief": "谷歌扩大向五角大楼提供AI访问权限，成为继OpenAI和xAI之后又一家与美军达成类似安排的公司。背景是Anthropic坚持在合同中限制国内大规模监控和自主武器用途，因而与国防部发生冲突并提起诉讼。报道称，谷歌合同也写入“不打算”用于相关场景的表述，但其法律约束力和实际监督方式仍不明确，公司内部还有950名员工联署反对。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560444.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-29T02:58:17+08:00"
+            },
+            {
+              "title": "德国航空航天中心可变形机翼首飞，验证无人机自适应飞行能力",
+              "brief": "德国航空航天中心让可变形机翼随PROTEUS无人机完成首飞，验证了系统的基本空中适航性以及各子系统间的集成协调。项目希望突破固定翼在不同工况下只能折中设计的限制，让机翼在起降、巡航和转弯时主动调整形状。该机翼采用连续挠曲后缘、分布式执行机构和AI辅助飞控，还可依据重构压力场应对乱流、局部损伤或执行机构失效。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1560442.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-29T02:56:51+08:00"
+            },
+            {
               "title": "Anthropic Claude可接入Photoshop、Blender和Ableton",
               "brief": "Anthropic宣布为Claude推出面向创意软件的连接器，可接入Photoshop、Premiere、Express、Ableton和Blender，继续向创意行业扩展AI能力。这一更新旨在让用户在熟悉工具中直接调用Claude，减少切换与手写脚本。其中文档检索可用于回答Ableton问题，Blender则支持用自然语言调试场景、批量改属性和构建工具，Anthropic还加入了Blender开发基金。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1560440.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-29T01:30:37+08:00"
-            },
-            {
-              "title": "因虐猫受罚 母亲强迫儿子砸毁PS5",
-              "brief": "一名母亲因儿子虐待猫咪而要求其亲手砸毁PS5，希望用“切身承受”的方式让他记住伤害生命必须付出代价。事件引发网友强烈分歧，反对者认为没收或转卖主机更合理，并担心情绪化惩罚会加重孩子的心理或情绪问题；支持者则称当场纠正能带来终身难忘的教训，也有人认为砸掉主机只是浪费。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1560438.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T01:24:14+08:00"
-            },
-            {
-              "title": "微信朋友圈新增相册式展示入口",
-              "brief": "微信朋友圈近期悄然调整页面展示，新增“朋友圈相册”入口，可按年、月、日切换并缩放浏览，整体形式被指类似苹果相册。对于文字位置等排版变化，腾讯客服称这属于展示方式优化调整，后续会持续改进浏览体验。此次更新上线后，网友反馈不一，有人喜欢新的浏览方式，也有人更偏好旧版界面。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560436.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T01:22:41+08:00"
-            },
-            {
-              "title": "Polymarket寻求重新向美国用户开放",
-              "brief": "预测市场平台Polymarket正与美国商品期货交易委员会官员讨论，寻求解除对美国客户的限制并重新开放本土市场。该公司曾在2022年与CFTC和解后将交易平台迁往海外，随后在特朗普政府支持行业的环境下逐渐落后于竞争对手Kalshi。目前是否获批仍不明确，但因委员席位空缺较多，若由主席Michael Selig推动，表决程序可能更容易。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560434.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T01:21:56+08:00"
-            },
-            {
-              "title": "OpenAI称《华尔街日报》报道夸大 公司业务仍在推进",
-              "brief": "OpenAI回应《华尔街日报》相关报道，称其标题夸张，公司各项业务仍在增长，内部氛围也“非常积极”。争议源于市场担心其营收增速和未来算力投入承压，并带动软银、甲骨文及CoreWeave等合作方股价下跌。OpenAI表示扩张算力仍是关键，但近期已对基础设施投资更趋谨慎，包括暂停英国项目及调整部分数据中心安排。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560432.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T01:21:29+08:00"
             }
           ]
         },
