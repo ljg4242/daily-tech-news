@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T06:13:04.022045+08:00",
+  "generated_at": "2026-04-30T08:23:07.330783+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "YouTube免费画中画将扩展至美国以外的iPhone用户",
+              "brief": "YouTube宣布，iPhone和iPad上的画中画模式将向全球更多用户开放，不再只限美国地区和Premium订阅者。此前，该功能已在美国向非订阅用户提供，并在全球向Premium用户开放。YouTube称，未来几个月内，全球非Premium用户都可在iOS和Android上对长视频、非音乐内容使用该功能；Premium Lite仍限长视频非音乐内容，Premium则可用于音乐和非音乐内容。",
+              "source_url": "https://www.macrumors.com/2026/04/29/youtube-picture-in-picture-expands/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-30T08:01:14+08:00"
+            },
+            {
+              "title": "Google Photos将推出AI“衣橱”功能",
+              "brief": "Google宣布，Google Photos将新增名为Wardrobe的AI穿搭功能，帮助用户决定穿什么。该功能会从Google Photos图库中提取服装图片，在“收藏”标签的新Wardrobe分区内按上装、下装等类别整理成数字衣橱，并支持自由组合成套穿搭。用户还可通过数字化身虚拟试穿，把结果分享给朋友或保存到情绪板；功能将于今夏先登陆Android，随后扩展到iOS。",
+              "source_url": "https://www.macrumors.com/2026/04/29/google-photos-ai-wardrobe/",
+              "source_name": "MacRumors",
+              "published_at": "2026-04-30T06:50:51+08:00"
+            },
             {
               "title": "苹果 AI 智能眼镜或支持手势控制",
               "brief": "报道称，苹果正开发与 Meta Ray-Ban 竞争的 AI 智能眼镜，首代产品可能支持手势控制。背景是这代设备没有显示屏，苹果把手势作为无屏交互方案。细节包括配备两枚摄像头，高像素镜头用于拍照录像，低像素广角镜头负责识别手势并为 Siri 提供视觉输入；为控制重量和续航，苹果不会加入显示屏、LiDAR 或 3D 摄像头等高耗电组件。",
@@ -28,26 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/04/29/apple-likely-abandoned-ipad-ultra-plans/",
               "source_name": "MacRumors",
               "published_at": "2026-04-30T01:30:14+08:00"
-            },
-            {
-              "title": "iOS 27 相机将新增“Siri”模式，支持扫描营养标签",
-              "brief": "苹果计划在iOS 27的相机应用中加入独立“Siri”模式，把Apple Intelligence和Siri更深入整合进系统应用。此举将把目前需要长按相机控制键触发的Visual Intelligence直接放进相机界面，入口更明显。新功能可扫描食品营养标签记录饮食信息，并把名片等印刷品中的电话和地址直接加入通讯录，现有识别植物动物、添加日历事件等能力也会保留。",
-              "source_url": "https://www.macrumors.com/2026/04/29/ios-27-camera-app-siri-mode/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-30T00:54:04+08:00"
-            },
-            {
-              "title": "苹果据称正评估 iPhone 是否取消 MagSafe",
-              "brief": "爆料称，苹果内部正围绕是否继续把 MagSafe 保留为 iPhone 标准功能展开讨论。该功能自 2020 年随 iPhone 12 推出，为磁吸充电和配件连接提供支持，并带动钱包、保护壳、支架和充电器等生态扩张。如今苹果据称在重新权衡内置磁体的成本与这一成熟配件生态的价值，但争论内容和可能调整方式仍未明朗。",
-              "source_url": "https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/",
-              "source_name": "MacRumors",
-              "published_at": "2026-04-29T23:26:49+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Jack Dorsey支持的 Vine 复兴应用 Divine 已上架 App Store",
+              "brief": "Jack Dorsey支持的Divine结束测试后，已正式登陆App Store和Google Play，把曾于2017年停运的短视频应用Vine重新带回市场。Vine在2012年上线，以6秒循环视频走红，团队称此番重启并非只为怀旧，而是从大型备份中重建原始视频库并恢复互动数据；新应用目前基于Nostr协议，也在试验接入AT Protocol，并考虑兼容ActivityPub。",
+              "source_url": "https://9to5mac.com/2026/04/29/divine-a-jack-dorsey-backed-revival-of-vine-is-now-available-on-the-app-store/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-30T07:44:20+08:00"
+            },
+            {
+              "title": "苹果研究人员开发出会先并行测试多种思路再作答的 AI",
+              "brief": "苹果研究人员与加州大学圣迭戈分校在修订论文LaDiR中提出一种提升大语言模型推理质量的方法，让模型先并行测试多条思路，再生成答案。其背景是扩散模型可并行细化多个token，而自回归模型按顺序输出文本；LaDiR将两者结合，在推理阶段并行生成多条隐藏推理路径，并用机制避免过早收敛，最终再逐词输出结果，且可建立在现有模型之上。",
+              "source_url": "https://9to5mac.com/2026/04/29/apple-researchers-built-an-ai-that-tests-several-ideas-in-parallel-before-answering/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-04-30T06:43:39+08:00"
+            },
             {
               "title": "9to5Mac Daily：2026年4月29日，iOS 27 传闻与 App Store 变化",
               "brief": "9to5Mac Daily 发布 2026 年 4 月 29 日新一期节目，集中梳理当天几条苹果要闻，包括 iOS 27 新传闻、App Store 订阅变化，以及 iPhone 定价与美国制造议题。这档播客在每个工作日录制，面向想快速追踪苹果动态的听众，并已在 Apple Podcasts、Overcast、Spotify 等平台提供。节目提到照片应用或新增三项功能，苹果还推出需承诺 12 个月的按月订阅选项，同时讨论约翰·特努斯面临的关键取舍。",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/04/29/report-apple-leads-satellite-smartphone-market-as-adoption-hinges-on-broader-use-cases/",
               "source_name": "9to5Mac",
               "published_at": "2026-04-30T04:13:51+08:00"
-            },
-            {
-              "title": "YouTube开始在全球推出免费画中画，覆盖安卓和iPhone",
-              "brief": "YouTube开始在全球范围内向Android和iOS用户逐步推出免费画中画功能，让视频可在小窗中继续播放。此次变化的核心是把这一观看方式扩展到更广泛的免费用户和更多设备场景，而不只停留在单一平台。当前可确认的关键细节是：覆盖Android与iOS、面向免费用户、并将以分批上线方式推进，标题未给出更多资格或设置信息。",
-              "source_url": "https://9to5google.com/2026/04/29/youtube-free-pip-global/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-30T03:39:01+08:00"
-            },
-            {
-              "title": "iOS 26.4为iCloud新增实用搜索功能，现可手动开启",
-              "brief": "苹果在iOS 26.4中为iCloud.com加入新的“允许搜索”开关，开启后可在网页端搜索iCloud Drive文件和iCloud照片。此举缩小了苹果网页服务长期落后于原生应用的差距。关键细节是：该功能默认关闭，Drive可按文件名、文件夹名和文档类型给出建议，照片可按日期、人物和地点搜索，且搜索经过加密并依赖设备端处理。",
-              "source_url": "https://9to5mac.com/2026/04/29/ios-26-4-adds-convenient-new-icloud-feature-heres-how-to-enable-it/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-04-30T03:31:25+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "皮查伊预告 I/O 2026：谷歌开始销售 TPU，YouTube Premium 增长",
+              "brief": "谷歌母公司Alphabet在2026年第一季度财报会上披露，CEO桑达尔·皮查伊预告下月的I/O 2026将公布更多搜索相关消息，同时谷歌将开始向部分客户销售TPU，YouTube Premium等订阅业务也在扩大。背景是I/O已不足三周，谷歌正持续推进AI、基础模型与订阅增长；他还称付费订阅总数达3.5亿，较上季增加2500万，YouTube Music和Premium创2018年推出以来最大单季净增。",
+              "source_url": "https://9to5google.com/2026/04/29/pichai-i-o-2026-tease-more/",
+              "source_name": "9to5Google",
+              "published_at": "2026-04-30T06:41:11+08:00"
+            },
             {
               "title": "Alphabet公布2026年第一季度营收1099亿美元",
               "brief": "文章报道Alphabet发布2026年第一季度业绩，给出的核心数字是营收1099亿美元。标题表明这是一则季度财报消息，重点不在新品或服务更新，而在公司当季收入表现。当前输入中可以直接确认的关键细节包括公司名称为Alphabet、财报周期为2026年第一季度、营收数额为1099亿美元，来源链接指向这篇财报报道。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/04/29/oneplus-realme-merger-report/",
               "source_name": "9to5Google",
               "published_at": "2026-04-30T02:04:00+08:00"
-            },
-            {
-              "title": "今日安卓游戏和应用优惠：火影忍者、Onigo Hunter、Endurance等",
-              "brief": "今日安卓平台推出多款游戏和应用优惠，包括《火影忍者》、Onigo Hunter、Endurance等。这些折扣旨在吸引用户下载，优惠力度和持续时间因应用而异。用户可通过应用商店查看具体价格。",
-              "source_url": "https://9to5toys.com/2026/04/29/today-android-game-app-deals-naruto/",
-              "source_name": "9to5Google",
-              "published_at": "2026-04-30T02:02:30+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "这个开源电子墨水智能手表项目以功能取舍换取超长续航",
+              "brief": "开源项目LightInk把电子墨水屏做成极简智能手表，主打远超多数可穿戴设备的续航表现。其背景在于电子墨水屏仅在画面变化时耗电，适合显示时间和基础状态信息；该设备采用ESP32，并尽量避免完全唤醒主控，报道称日耗电约0.5mAh，配20mAh电池可用约40天，还支持太阳能补电，以及LED、振动马达、扬声器、GPS和LoRa通信。",
+              "source_url": "https://www.androidauthority.com/e-ink-smartwatch-lightink-3662216/",
+              "source_name": "Android Authority",
+              "published_at": "2026-04-30T07:35:31+08:00"
+            },
+            {
               "title": "另一手机品牌或将推出类似 Good Lock 的个性化工具",
               "brief": "有传闻称，OPPO 正在为 OxygenOS 17 和 ColorOS 17 测试一套类似三星 Good Lock 的个性化定制工具，可能让用户更深入调整系统外观与功能。近年来厂商开始提供更完整的原生定制方案，这与两套系统强调差异化体验的方向一致。考虑到两品牌此前也被传有意借鉴三星 Now Bar，这一说法并非毫无来由，但目前既无测试截图也缺少更多证据，是否真的进入测试阶段仍待进一步确认。",
               "source_url": "https://www.androidauthority.com/oppo-good-lock-3662175/",
@@ -195,19 +202,19 @@
               "source_url": "https://www.androidauthority.com/steam-on-ps5-3662159/",
               "source_name": "Android Authority",
               "published_at": "2026-04-30T04:40:51+08:00"
-            },
-            {
-              "title": "Google Photos 可能很快可在 Pixel 启动器中直接搜索",
-              "brief": "Google 似乎正准备让 Pixel 启动器底部搜索栏可直接检索 Google Photos 中的照片，这一迹象同时出现在 Photos 新版本与近期 Android 17 Beta 构建中。背景是 Pixel 启动器搜索近来持续扩展能力，已在搜索栏和快捷方式上进行调整。现有证据显示，Google 可能在建立一套面向启动器搜索的整合框架，Photos 或许只是第一步，未来其他应用内容也可能接入其中。",
-              "source_url": "https://www.androidauthority.com/pixel-launcher-photos-search-3662044/",
-              "source_name": "Android Authority",
-              "published_at": "2026-04-30T04:11:50+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "马斯克在法庭上的最大对手是他自己",
+              "brief": "围绕 OpenAI 未来的法庭争斗中，这篇现场更新把焦点放在马斯克本人在庭上的表现上，认为他在应对盘问时最难回避的不是对方，而是他自己的言行与表述。报道属于马斯克与萨姆·奥尔特曼这场诉讼的持续更新，关键细节是他在法庭上说出“我不会发脾气”这样的话，而这类表态本身就可能让处境变得更不利。",
+              "source_url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+              "source_name": "The Verge",
+              "published_at": "2026-04-29T20:01:24-04:00"
+            },
             {
               "title": "Grindr 成了白宫记者晚宴周派对圈的焦点",
               "brief": "在2026年白宫记者协会晚宴周的聚会场中，Grindr成了华盛顿最受关注的主办方之一，显示这款以同性约会和社交闻名的应用正主动接近政治圈与权力网络。白宫记者晚宴周一向被称为“书呆子舞会”，本就是媒体、政界与游说人士集中社交的场合；文中提到，Grindr于4月24日在华盛顿LXIV DC举行的周末派对尤其抢眼，也让这场高度圈内化的活动多了一个意外主角。",
@@ -235,19 +242,19 @@
               "source_url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
               "source_name": "The Verge",
               "published_at": "2026-04-29T16:28:11-04:00"
-            },
-            {
-              "title": "马斯克诉奥特曼案目前公开的全部证据",
-              "brief": "马斯克诉奥特曼案已开庭，法庭证物正陆续公开，外界得以看到OpenAI最早期甚至尚未命名前的邮件、照片和公司文件。这些材料之所以重要，是因为它们呈现了公司创立基础和早期紧张关系；目前披露的细节包括黄仁勋曾送出紧缺的超级计算机、马斯克主导起草使命并深度影响初期架构，奥特曼则似乎希望早期更多依靠Y Combinator支持。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-              "source_name": "The Verge",
-              "published_at": "2026-04-29T14:03:05-04:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "扎克伯格称 Meta 正开发面向个人和企业的 AI 智能体",
+              "brief": "扎克伯格在Meta第一季度财报电话会上表示，公司正开发面向个人和企业的AI智能体，目标是理解用户目标并持续提供帮助，覆盖生活事务和商业增长场景。相关产品将基于Meta超级智能实验室刚发布的Muse Spark模型，他还以OpenClaw为例称现有一些智能体产品配置门槛较高，Meta想把基础设施预先做好，但暂未公布上线时间。",
+              "source_url": "https://www.engadget.com/2160792/mark-zuckerberg-says-meta-is-working-on-ai-agents-for-personal-and-business-use/",
+              "source_name": "Engadget",
+              "published_at": "2026-04-30T07:00:36+08:00"
+            },
             {
               "title": "Gemini 现可生成文件，包括 Word 和 LaTeX 文档",
               "brief": "谷歌开始向全球所有Gemini用户推送文件生成功能，用户可直接在提示栏下达要求并导出结果。这项更新旨在减少在不同应用间复制、粘贴和重新排版的步骤，支持PDF、TXT、RTF、CSV以及Google文档套件，同时还能生成Word、Excel、Markdown和LaTeX文件，连示意图也可随内容一并输出。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.engadget.com/2160520/the-eu-thinks-meta-isnt-doing-enough-to-protect-children/",
               "source_name": "Engadget",
               "published_at": "2026-04-30T02:21:28+08:00"
-            },
-            {
-              "title": "Google TV 即将在首页直接显示 YouTube Shorts",
-              "brief": "Google TV将通过软件更新把YouTube Shorts直接加入首页推荐行，让短视频从手机进一步进入大屏场景。此次更新还把Nano Banana图像生成、Veo视频生成、Gemini照片问答和Google Photos Remix等功能带到平台，其中Shorts集成预计今夏上线，其余功能已可用，但多数仅限支持Gemini的设备。",
-              "source_url": "https://www.engadget.com/2160469/the-google-tv-platform-will-soon-display-youtube-shorts-videos/",
-              "source_name": "Engadget",
-              "published_at": "2026-04-30T01:38:03+08:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《雷神》首任导演希望为克里斯·海姆斯沃斯打造《金刚狼3》式终章",
+              "brief": "《雷神》首任导演肯尼思·布拉纳表示，他一直设想为克里斯·海姆斯沃斯打造一部类似《金刚狼3》的终章电影。托尔自2011年登场后，风格已从早期更莎士比亚式的悲剧感，转向近几部更喜剧、摇滚化的路线；布拉纳说，若继续执导，他会把角色带向“辉煌的黄昏”，但也认为漫威对未来的安排大概早已确定。",
+              "source_url": "https://www.ign.com/articles/thor-director-wants-a-logan-style-final-film-for-chris-hemsworth",
+              "source_name": "IGN",
+              "published_at": "2026-04-30T05:34:29+08:00"
+            },
+            {
+              "title": "友善鬼卡斯珀将回归 Disney+",
+              "brief": "友善鬼卡斯珀将以新剧形式登陆Disney+，项目在一轮竞标战后推进，目前仍处早期开发阶段。Deadline称，曾参与新版《鸡皮疙瘩》的罗布·莱特曼和希拉里·温斯顿负责操盘，史蒂文·斯皮尔伯格将任执行制片；新作可能比1995年电影版基调更黑暗，而2022年在Peacock开发的真人剧最终并未播出。",
+              "source_url": "https://www.ign.com/articles/casper-the-friendly-ghost-coming-back-to-haunt-disney",
+              "source_name": "IGN",
+              "published_at": "2026-04-30T05:30:42+08:00"
+            },
+            {
+              "title": "《Undisputed》开发商停止支持首作，转向续作并吸纳 Rockstar 和 EA Sports 人才",
+              "brief": "拳击游戏《Undisputed》开发商Steel City宣布停止首作的后续支持，把资源转向续作开发。工作室表示，前作自2024年正式发售后暴露出底层基础不稳、难以继续扩展的问题，因此续作将改用新引擎，并引入来自Rockstar、2K和EA Sports的资深人才；同时与穆罕默德·阿里团队的合作已延长至2037年。",
+              "source_url": "https://www.ign.com/articles/undisputed-developer-ends-support-to-focus-on-sequel-adds-talent-from-rockstar-and-ea-sports",
+              "source_name": "IGN",
+              "published_at": "2026-04-30T05:20:05+08:00"
+            },
+            {
+              "title": "亚马逊确认今年 Prime Day 改到 6 月举行",
+              "brief": "亚马逊确认2026年Prime Day将从惯常的7月提前到6月举行，但目前只公布了“2026年6月”这一时间范围，具体日期仍未宣布。这是该活动自2021年6月21日至22日后再次落在6月；公司称提前有助会员更早完成返校采购，但尚未说明今年会延续去年的四天促销，还是恢复更短档期。",
+              "source_url": "https://www.ign.com/articles/amazon-confirms-a-major-change-to-prime-day-dates-this-year",
+              "source_name": "IGN",
+              "published_at": "2026-04-30T05:15:23+08:00"
+            },
+            {
               "title": "《贪婪之秋》开发商将关闭",
               "brief": "法国游戏工作室 Spiders 宣布进入清算并将立即停止运营，意味着这家以《贪婪之秋》系列闻名的中型开发商正式关门。该工作室成立于2008年，先做移植，后转向原创开发；《贪婪之秋》前三年销量超过200万份，并推动续作在2024年开启抢先体验、上月正式发售。就在新作发售前数周，母公司 Nacon 申请破产并试图出售 Spiders，但未找到买家；工作室表示原定 DLC 将由 Nacon 负责发行。",
               "source_url": "https://www.ign.com/articles/greedfall-developer-is-shutting-down",
               "source_name": "IGN",
               "published_at": "2026-04-30T04:18:32+08:00"
-            },
-            {
-              "title": "《穿普拉达的女王》现实版艾米丽称原著初稿“刻薄又伤人”",
-              "brief": "曾任《Vogue》主编安娜·温图尔首席助理、被认为是电影中“艾米丽”原型的造型师在播客中说，改编基础小说最初版本让她感到刻薄、黑暗且受伤。她表示早期书稿后来虽被“软化”，但仍大量取材于她与作者的真实经历，自己当时觉得这像一次曝光与背叛，安娜还提醒她书里把她写得比自己更糟。",
-              "source_url": "https://www.ign.com/articles/real-life-emily-from-the-devil-wears-prada-comes-forward-says-original-novel-was-mean-and-hurtful",
-              "source_name": "IGN",
-              "published_at": "2026-04-30T01:37:25+08:00"
-            },
-            {
-              "title": "《孤岛惊魂4》导演：玩家要的是尊重，不是轻视",
-              "brief": "正在筹备《孤岛惊魂》电视剧的诺亚·霍利表示，他不会直接改编育碧现有游戏，而是想与这个系列“对话”。他还称玩家主要通过玩法推进，过场动画可以跳过，因此游戏中的人物戏剧性对电视剧是“致命”的。这番说法引发玩家反弹，《孤岛惊魂4》导演亚历克斯·哈钦森也公开不满，认为粉丝只希望作品被尊重，而不是被轻率否定。",
-              "source_url": "https://www.ign.com/articles/far-cry-4-director-says-fans-just-want-games-respected-not-dismissed-after-tv-adaptation-boss-suggests-players-skip-the-cutscenes-anyway",
-              "source_name": "IGN",
-              "published_at": "2026-04-30T01:06:11+08:00"
-            },
-            {
-              "title": "《Garry's Mod》作者想把 S&box 首页上的“AI 垃圾”压下去",
-              "brief": "S&box 本周刚刚上线，却迅速被大量 AI 生成内容占据展示空间，挤压了玩家手工制作作品的可见度，也让 Steam 评价目前停留在“褒贬不一”。部分差评直指平台“充满 AI 垃圾”，甚至被 NFT 和加密社区淹没。对此，《Garry's Mod》作者 Garry Newman 表示团队会采取措施，提升人类创作内容，并把明显的 AI 作品从首页压下去。",
-              "source_url": "https://www.ign.com/articles/garrys-mod-creator-wants-to-push-ai-slop-off-the-sbox-main-page-amid-mixed-steam-user-review-rating",
-              "source_name": "IGN",
-              "published_at": "2026-04-30T00:52:32+08:00"
-            },
-            {
-              "title": "《马尔科姆的一家》演员呼吁别打扰原版杜威",
-              "brief": "随着《马尔科姆的一家：生活依旧不公平》重启剧推进，饰演 Reese 的贾斯汀·伯菲尔德在播客中呼吁狗仔别再追拍 Erik Per Sullivan，称看到他被拍都替他难受。原版杜威演员没有回归，只是因为想远离演艺圈。伯菲尔德说剧组前后找了他四五次，他每次都明确拒绝，并强调双方没有嫌隙，他也不后悔这个决定。",
-              "source_url": "https://www.ign.com/articles/malcolm-in-the-middle-star-calls-on-paparazzi-to-leave-original-dewey-actor-alone-after-he-turned-down-reboot-series",
-              "source_name": "IGN",
-              "published_at": "2026-04-30T00:23:02+08:00"
             }
           ]
         },
@@ -412,39 +412,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "极越汽车关联公司进入破产程序",
+              "brief": "上海集度汽车有限公司已被法院正式受理破产案件，极越汽车关联公司由预重整走向破产程序。公司危机在2024年12月突然爆发，吉利与百度随后协商员工补偿，公司也在2025年1月进入售后维保新阶段。其间Robo.ai曾报名参与预重整战略投资人遴选，但最终未能扭转经营颓势。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560636.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-30T07:41:50+08:00"
+            },
+            {
+              "title": "安妮·海瑟薇新片《圣母玛利亚》新造型亮相",
+              "brief": "文章展示了安妮·海瑟薇新片《圣母玛利亚》的新造型。影片中，她在重塑舞台形象之际，重新联系上多年疏远的好友、曾为她打造巨星形象的服装设计师萨姆·安塞尔姆。两人久别重逢后再度卷入彼此生活，过往被埋藏的情感与伤痕也逐渐浮现，故事围绕这段关系重新展开，并牵出旧日纠葛。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1560634.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-30T07:41:18+08:00"
+            },
+            {
+              "title": "广播业协会称 FCC 审查迪士尼牌照给全行业带来重大不确定性",
+              "brief": "全国广播业者协会表示，FCC审查迪士尼电视牌照并要求其迅速重新申请所有牌照，给整个广播行业带来重大不确定性，并被指违背牌照程序的公平与透明原则。此举发生在白宫与ABC主持人吉米·坎摩尔新一轮争执之后，FCC内部也现分歧，民主党委员称其前所未有且违法，迪士尼则表示有信心完成续期并准备诉诸法律。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560632.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-30T07:39:52+08:00"
+            },
+            {
+              "title": "马斯克称 OpenAI 与微软交易是“诱饵调包”",
+              "brief": "马斯克在OpenAI诉讼庭审中称，OpenAI与微软的合作是“诱饵调包”，微软投入巨资是为获取回报，并可能实际掌控由慈善机构开启的AGI。该案围绕OpenAI是否背离非营利创立宗旨展开，马斯克称自己曾投入3800万美元种子资金，而微软则称从未试图控制OpenAI。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560630.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-04-30T07:35:25+08:00"
+            },
+            {
               "title": "苹果或已放弃开发“iPad Ultra”折叠机型",
               "brief": "报道称苹果可能已放弃推出“iPad Ultra”折叠机型的计划。背景是现有iPad Pro需求疲软，iPad业务营收已连续三年下滑，更高价、更小众的产品定位缺乏说服力。与此同时，20英寸折叠iPad项目仍在开发，但原型机重量约1.59千克、量产时间已推迟到2029年或更晚，内部对其究竟算折叠iPad还是全屏MacBook也未形成一致意见。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1560628.htm",
               "source_name": "cnBeta",
               "published_at": "2026-04-30T01:32:13+08:00"
-            },
-            {
-              "title": "法国监管机构称75%电商平台送检产品违反欧盟标准",
-              "brief": "法国竞争、消费与反欺诈总局表示，在抽检的七家电商平台产品中，75%违反欧盟标准，46%还存在安全隐患。背景是法国和欧盟正加码整治跨境低价电商包裹，并将分别对相关小包裹征收费用。此次检测显示电器产品全部不合格，儿童用品、珠宝和服装也普遍涉及窒息风险或化学物质超标，平台名称暂未公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560626.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-30T01:17:10+08:00"
-            },
-            {
-              "title": "Gemini现可在聊天中直接生成并导出Microsoft Office文件",
-              "brief": "Google宣布，Gemini现已可在聊天过程中直接生成并导出Microsoft Office等多种文件，这项功能已向全球Gemini应用用户开放。背景是Google正把Gemini从回答工具进一步推向生产力中枢，以减少复制粘贴和手动排版。用户可在对话中创建Word、Excel、PDF、Markdown及Google Docs、Sheets、Slides，并下载到本地或保存到Google Drive。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560624.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-30T00:57:33+08:00"
-            },
-            {
-              "title": "三星4nm晶圆代工良率突破80%",
-              "brief": "三星晶圆代工4nm制程良率已突破80%，被视为该工艺迈入成熟阶段，并提升其面向电子和移动设备客户的大规模供货能力。由于4nm同时用于第六代HBM4高带宽存储芯片的基底芯片，相关进展可支撑AI训练与推理、数据中心及高端显卡需求上升，也让三星在先进制程订单上更直接与台积电竞争。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560622.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T23:15:39+08:00"
-            },
-            {
-              "title": "SpaceX文件显示：只有马斯克能解雇自己",
-              "brief": "SpaceX披露的文件显示，公司控制权高度集中，只有埃隆·马斯克才能决定撤换马斯克本人。他将继续兼任首席执行官、首席技术官和董事会主席，而每股10票的B类股也掌握在他及少数内部人士手中；公司还申请“受控公司”豁免，无需独立董事占多数，也不必设立独立薪酬与提名委员会。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1560620.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-04-29T23:14:55+08:00"
             }
           ]
         },
@@ -452,39 +452,79 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "福特 Mustang Cobra Jet 2200 刷新美国电动车 400 米加速纪录",
-              "brief": "福特改装版 Mustang Cobra Jet 2200 以 6.76 秒跑完 400 米、尾速约 357 公里/小时，刷新美国电动车直线加速纪录。这款车并非量产 Mustang，而是采用管阵式车架和碳纤维车身的定制赛车，前部布置两台 1200 马力电机，总输出 2200 马力，并配 5 速变速箱和特殊离合系统控制抓地。",
-              "source_url": "https://www.ithome.com/0/945/235.htm",
+              "title": "谷歌相册上线衣橱规划功能：AI 整理服装并支持虚拟试穿",
+              "brief": "谷歌相册推出衣橱规划功能，可用AI从照片库识别服装并整理成数字衣橱，并提供虚拟试穿预览。这项功能基于用户过往照片生成有序衣橱视图，帮助重新发现可能被遗忘的单品，并把穿搭管理集中到一个入口。用户可按珠宝、上装、下装等类别筛选，混搭造型后分享给好友或保存到针对夏季婚礼、旅行、工作等场景的情绪板中。",
+              "source_url": "https://www.ithome.com/0/945/254.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-29T23:01:32+08:00"
+              "published_at": "2026-04-30T08:13:50+08:00"
             },
             {
-              "title": "倍耐力收购 Univrses 30% 股份，加码 AI 轮胎技术",
-              "brief": "倍耐力收购 Univrses 30% 股份，进一步推进 AI 轮胎技术布局。双方将把 Univrses 的计算机视觉与三维 AI 引擎接入倍耐力智能轮胎平台，用于道路监测和自动驾驶场景。该系统结合轮胎传感器、车载电子设备与云端通信，可提供定位、建图和深度学习能力，双方已在意大利普利亚大区启动路网监测试点，交易金额未披露。",
-              "source_url": "https://www.ithome.com/0/945/234.htm",
+              "title": "古尔曼称 iPhone 18 Pro / Max 将迎来史上最大相机硬件升级之一",
+              "brief": "古尔曼称，今秋登场的iPhone 18 Pro和iPhone 18 Pro Max将在部分相机硬件上迎来iPhone历史上最大规模升级，但未透露传感器、像素或镜头等具体规格。现有爆料指向主摄可能加入可变光圈，帮助控制进光量、焦点和景深；另有传闻称长焦镜头会采用更大光圈，以改善弱光快门速度和画面纯净度。9to5Mac认为，仅凭这些传闻仍不足以支撑“历史上最大升级”的说法。",
+              "source_url": "https://www.ithome.com/0/945/253.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-29T22:58:44+08:00"
+              "published_at": "2026-04-30T08:11:15+08:00"
             },
             {
-              "title": "Steam Deck 稳定版更新加入远程下载等功能",
-              "brief": "Valve 向 Steam Deck 推送稳定版更新，加入远程下载管理等新功能。玩家可远程启动或暂停游戏下载并查看进度，快捷菜单也整合了 Steam 聊天和预设回复。更新还支持从登录界面直接进入 Linux 桌面、显示无线手柄电量，并改进需额外认证的 Wi‑Fi 兼容性，同时修复通知卡顿和云存档丢失等问题。",
-              "source_url": "https://www.ithome.com/0/945/233.htm",
+              "title": "长三角首台“华龙一号”机组投产发电",
+              "brief": "中广核浙江三澳核电项目1号机组完成168小时试运行试验，正式投产发电，成为我国首个民营资本参股核电项目，也是长三角首台“华龙一号”机组。该项目一期于2020年9月获批，同年12月开工，目前机组参数稳定可控、整体状态良好。按2025年国内核电平均利用小时数测算，其年发电量预计超90亿千瓦时，可满足超100万居民年度生产生活用电需求。",
+              "source_url": "https://www.ithome.com/0/945/252.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-29T22:37:33+08:00"
+              "published_at": "2026-04-30T08:07:31+08:00"
             },
             {
-              "title": "高德地图联动迪迦奥特曼：堵车时可释放哉佩利敖光线",
-              "brief": "高德地图与迪迦奥特曼推出联动导航套装，堵车场景中可触发迪迦释放“哉佩利敖光线”的特效。这次联动属于付费内容，售价 12.8 元，支持 iOS、安卓和华为鸿蒙多端同步。IT之家展示的演示画面显示，该效果主要用于导航过程中的互动呈现，为地图使用过程增加了更强的角色联动体验。",
-              "source_url": "https://www.ithome.com/0/945/232.htm",
+              "title": "消息称 Anthropic 正权衡新融资，估值或超过 OpenAI",
+              "brief": "消息称，Anthropic正权衡新一轮融资，估值有望翻倍并超过OpenAI，成为全球最有价值的AI初创企业。报道提到，OpenAI今年3月曾以8520亿美元估值完成融资，而Anthropic当前正式估值为3500亿美元。Anthropic近期还分别接受了谷歌100亿美元和亚马逊50亿美元投资，两笔交易均基于3500亿美元估值，但两家公司是否参与下一轮融资尚不清楚。",
+              "source_url": "https://www.ithome.com/0/945/251.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-29T22:29:30+08:00"
+              "published_at": "2026-04-30T08:06:51+08:00"
             },
             {
-              "title": "国铁回应为何部分车票“开售即候补”",
-              "brief": "国铁集团回应“开售即候补”称，铁路售票遵循“长途优先、兼顾中短途”，热门长途列车会先把大部分票额分配给始发站及邻近站，因此部分中间区段开售时就可能没有预分票额。对另一类开售后迅速转入候补的情况，原因是瞬时购票需求远超运力，12306 会在起售、动态调整和敞开阶段按先到先得兑现候补订单。",
-              "source_url": "https://www.ithome.com/0/945/231.htm",
+              "title": "国内首条跨渤海无人机物流航线开通",
+              "brief": "国内首条跨渤海无人机物流航线已开通，从大连到青岛约340公里，飞行时间仅需约2小时。相较渤海地区现有交通方式，辽宁与山东城市间铁路、公路通常需8小时以上，海运约5到10小时，跨海低空直运因此更灵活高效，也更具经济性。这条航线将主要服务中国邮政等企业，运输日用百货、商务文件、高值药品及应急物资等物品。",
+              "source_url": "https://www.ithome.com/0/945/250.htm",
               "source_name": "IT之家",
-              "published_at": "2026-04-29T22:18:18+08:00"
+              "published_at": "2026-04-30T07:56:54+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "中信建投：油轮、散货船接力周期向上，新船价格边际回升",
+              "brief": "中信建投在最新观点中表示，油轮与散货船正接力进入上行周期，新船价格也出现边际回升。相关判断聚焦航运与造船链条的景气变化，背景在于不同船型景气度并不同步，而是呈现轮动修复。这一变化同时覆盖船型与价格两端信号。原文可确认的关键点主要有三项：油轮向上、散货船向上，以及新船价格较此前有所回暖。",
+              "source_url": "https://36kr.com/newsflashes/3788545210014727?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-30 08:15:26  +0800"
+            },
+            {
+              "title": "中信建投：2026年下半年CPU或迎新一轮涨价",
+              "brief": "中信建投认为，2026年下半年CPU市场可能迎来新一轮涨价。背景是厂商已调整服务器CPU售价，并带动第二季毛利率回升，市场因此预期后续价格仍有上行动力，而非仅是单季波动。关键细节是，下半年进一步涨价空间被预计约为8%至10%，此次判断重点落在服务器CPU调价对盈利修复的传导，成为后续观察重点。",
+              "source_url": "https://36kr.com/newsflashes/3788544829905929?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-30 08:12:59  +0800"
+            },
+            {
+              "title": "科技题材强势领涨，小市值成长股或有大机会",
+              "brief": "4月A股科技题材整体走强，电子板块月涨幅超24%，通信板块涨超22%，机械设备、电力设备和国防军工等高含科板块也均上涨超过5%。背景是科技赛道成为当月市场主线，资金偏好明显增强。关键细节是，4月以来10只翻倍股中有7只在3月底总市值不足百亿元，小市值叠加科技题材更易获得资金青睐并跑出超额收益。",
+              "source_url": "https://36kr.com/newsflashes/3788544301849603?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-30 08:10:27  +0800"
+            },
+            {
+              "title": "美国钢铁将投资19亿美元在阿肯色州新建直接还原铁工厂",
+              "brief": "美国钢铁宣布投资19亿美元，在阿肯色州大河钢铁厂新建一座直接还原铁生产设施。背景是该项目将成为美国国内首座同类型设施，因此具有较强标志性。关键细节是，项目预计提供约200个全职岗位、35个常驻全职承包商岗位，并将在施工高峰期再创造约2000个建筑就业岗位。",
+              "source_url": "https://36kr.com/newsflashes/3788543666904064?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-30 08:07:50  +0800"
+            },
+            {
+              "title": "“五一”将至旅游板块热度攀升，9股获5家及以上机构评级",
+              "brief": "“五一”假期临近，A股旅游及景区板块热度攀升，9只相关个股获得5家及以上机构评级。背景是文旅消费预期升温，叠加政策持续扶持，以及“五一”出行客流有望再创阶段新高，行业消费复苏动能持续释放。关键细节是，宋城演艺、九华旅游、长白山的机构评级家数居前，分别为14家、10家和9家。",
+              "source_url": "https://36kr.com/newsflashes/3788541337722119?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-04-30 08:05:28  +0800"
             }
           ]
         }
