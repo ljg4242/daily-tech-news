@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T16:12:04.014231+08:00",
+  "generated_at": "2026-05-02T18:13:59.581947+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Clock 闹钟让我失望，于是我找到了 5 款更好的替代应用",
+              "brief": "作者因 Google Clock 的闹钟不足以防止自己睡过头，整理出 5 款更适合“强制叫醒”的安卓替代应用。背景是这款默认时钟虽集成计时器、秒表、世界时钟和音乐服务等功能，却仍让人太容易赖床；文中重点提到开源应用 Chrono，支持防后台休眠、细化闹钟设置，并加入数学题、重输文本、顺序和记忆等任务后才能关闭闹钟。",
+              "source_url": "https://www.androidauthority.com/google-clock-alternatives-android-alarm-apps-3661128/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-02T18:00:40+08:00"
+            },
+            {
+              "title": "比 Motorola Razr Ultra（2026）更值得买的 5 款安卓手机",
+              "brief": "摩托罗拉发布 Razr Ultra（2026）后，文章建议消费者不要花 1500 美元购买这款新折叠机，而改看 5 款其他安卓手机。原因是它相较 2025 款几乎没有明显升级，却贵了 200 美元；文中指出两代机型在屏幕尺寸、分辨率和刷新率、相机、充电、存储、内存、防护等级以及 Snapdragon 8 Elite 芯片上都基本一致。",
+              "source_url": "https://www.androidauthority.com/motorola-razr-ultra-2026-alternatives-3661675/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-02T17:30:20+08:00"
+            },
+            {
+              "title": "开不开隐私显示，我都无法接受 S26 Ultra 的屏幕",
+              "brief": "作者把 Galaxy S26 Ultra 与 Pixel 10 Pro 并排使用后表示，自己无法接受前者的屏幕表现。背景是其长期偏爱三星屏幕，但近期换用 Pixel 后，在户外更明显感到亮度不足；文中称前者峰值亮度为 2600 尼特，后者为 3300 尼特，而同为 2600 尼特的 Z Fold 7 外屏也一样较难看清。",
+              "source_url": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-02T17:00:08+08:00"
+            },
+            {
               "title": "YouTube 网页播放器漏洞引发无限卡顿循环",
               "brief": "多名用户反馈，YouTube 网页播放器出现渲染异常，浏览器会陷入持续的界面变化循环，导致视频播放明显卡顿、掉帧并伴随严重延迟，影响 Firefox、Brave 等多款浏览器。开发者在 Mozilla Bugzilla 讨论中指出，问题与承载点赞、点踩和分享按钮的 ytd-menu-renderer 有关，它会因宽度判断反复隐藏再恢复按钮，进而推高处理器和内存占用，部分反馈称内存飙升到数GB。",
               "source_url": "https://www.androidauthority.com/youtube-web-player-render-bug-3662908/",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/basegrip-for-steam-controller-3662896/",
               "source_name": "Android Authority",
               "published_at": "2026-05-02T04:18:23+08:00"
-            },
-            {
-              "title": "谷歌邀请用户参与设计 I/O 2026 倒计时",
-              "brief": "谷歌发起征集活动，邀请用户为 I/O 2026 直播前的倒计时设计内容。此举是为年度开发者大会预热，并鼓励参赛者使用 AI Studio 或 Gemini Canvas 创作。作品可做成游戏、动画等形式，但必须在中央展示 1 到 10 的数字，并在 5 月 6 日前提交；入选作品将用于 5 月 19 日 9:55 PDT 的倒计时。",
-              "source_url": "https://www.androidauthority.com/google-io-countdown-contest-3662872/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-02T02:25:13+08:00"
-            },
-            {
-              "title": "谷歌发布仅限 Android 的新实验性 AI 助手应用",
-              "brief": "谷歌在 Play 商店上线了名为 COSMO 的 Android 实验性 AI 助手应用，表面上与 Gemini 功能相近，但更像一个用于测试新能力的试验平台。该应用支持本地 Gemini Nano、远程“PI”服务器和混合三种运行方式，还计划借助 AccessibilityService 读取屏幕，不过实际测试显示相关功能暂未完全可用。",
-              "source_url": "https://www.androidauthority.com/google-cosmo-3662838/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-02T01:44:30+08:00"
-            },
-            {
-              "title": "Galaxy 手机截图后手势会短暂失灵",
-              "brief": "三星 Galaxy 用户发现，Good Lock 套件中的 One Hand Operation Plus 在截屏后会出现新故障，导致滑动手势短暂失灵，影响单手操作体验。三星开发团队已在社区确认问题，原因是为避免手势柄被截入画面，在设定颜色时会将其隐藏；后续更新将改为把手势柄设为透明，但暂未公布具体推送时间。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-one-hand-gesture-freeze-3662831/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-02T00:48:48+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "GameStop据称正准备提出收购eBay要约",
+              "brief": "据《华尔街日报》报道，GameStop正准备向eBay提出收购要约。此举与瑞安·科恩推动公司跳出电子游戏与周边零售、打造市值超1000亿美元平台的计划有关。消息传出后，GameStop收涨6.33%，市值约110亿美元；eBay涨逾11%，市值约460亿美元，GameStop账上约有90亿美元现金，若遭拒科恩还可能直接诉诸eBay股东。",
+              "source_url": "https://www.ign.com/articles/gamestop-reportedly-preparing-to-make-an-offer-to-buy-ebay",
+              "source_name": "IGN",
+              "published_at": "2026-05-02T15:48:57+08:00"
+            },
+            {
               "title": "《赤血沙漠》大型补丁解决派维尔敌人被清空后的战斗不足",
               "brief": "《赤血沙漠》发布大型补丁，解决部分玩家清空敌人后让派维尔大陆过于平静的问题。此前游戏多数敌人不会重生，被占领营地也不会重新出现敌军，导致战斗机会减少。更新加入69名Boss的“再战”功能，含按初见状态和随进度缩放两种模式，并为23处据点与采石场提供三档“再封锁”频率设置。",
               "source_url": "https://www.ign.com/articles/crimson-desert-gets-major-patch-designed-for-players-whod-made-pywel-too-peaceful-because-theyd-killed-all-the-enemies",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/tech-experts-say-the-elder-scrolls-iv-oblivion-remastered-still-suffers-from-issues-that-plagued-it-at-launch",
               "source_name": "IGN",
               "published_at": "2026-05-02T05:36:45+08:00"
-            },
-            {
-              "title": "葛韦格《纳尼亚》获Netflix院线大规模上映，定档2027年初",
-              "brief": "Netflix宣布葛韦格执导的《纳尼亚：魔法师的外甥》将改为院线广泛发行，并定档2027年初上映。这意味着影片不再按原计划于感恩节小范围上映、圣诞节上线流媒体，而是先在2027年2月10日进行IMAX抢先场，2月12日全球公映，随后于4月2日上线Netflix；该片改编自C.S.刘易斯作品，讲述纳尼亚世界起源，由大卫·麦肯纳、碧翠丝·坎贝尔等出演。",
-              "source_url": "https://www.ign.com/articles/greta-gerwig-narnia-movie-lands-wide-theatrical-premiere-from-netflix-with-early-2027-release-date",
-              "source_name": "IGN",
-              "published_at": "2026-05-02T05:24:27+08:00"
             }
           ]
         },
@@ -334,31 +334,52 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "OpenAI为何在系统提示词中专门限制“地精”等词",
+              "brief": "OpenAI在Codex CLI系统提示词中加入了对“地精”等词的限制，要求除非与用户问题绝对明确相关，否则不要提及这类生物。背景是自GPT-5.1起模型在回答里频繁使用goblin、gremlin等比喻，ChatGPT中相关用量分别增加175%和52%；调查发现是“Nerdy”人格无意中奖励了此类表达。为纠正问题，OpenAI已淘汰该人格、移除相关奖励信号，并从训练数据中过滤示例。",
+              "source_url": "https://www.solidot.org/story?sid=84202",
+              "source_name": "Solidot",
+              "published_at": "2026-05-02T00:27:08+08:00"
+            },
+            {
+              "title": "瑞士将于6月公投是否把人口限制在1000万以内",
+              "brief": "瑞士将于6月14日举行全民公投，决定是否在2050年前把全国常住人口限制在1000万以内。之所以出现这一提案，是因为该国生育率仅为1.29，人口增长主要依赖移民，而总人口已超过900万，2024年外国公民占比逾27%。由瑞士人民党支持的提案还要求放弃与欧盟的自由流动协议，最新民调显示52%支持或倾向支持，46%反对。",
+              "source_url": "https://www.solidot.org/story?sid=84201",
+              "source_name": "Solidot",
+              "published_at": "2026-05-01T23:19:41+08:00"
+            },
+            {
+              "title": "Linux内核曝出Copy Fail Root提权漏洞",
+              "brief": "安全研究团队披露了名为Copy Fail的Linux内核本地提权漏洞，非特权用户可借此篡改setuid二进制的页面缓存并获取root权限。问题源于内核不会把损坏页面标记为可写回，磁盘文件虽未改变，但系统访问时会直接读取已被篡改的页面缓存，因此影响会立即生效。该漏洞影响自2017年以来几乎所有内核版本，也可跨容器边界利用，主要发行版已发布或准备发布补丁。",
+              "source_url": "https://www.solidot.org/story?sid=84200",
+              "source_name": "Solidot",
+              "published_at": "2026-05-01T22:48:55+08:00"
+            },
+            {
+              "title": "Mozilla反对Chrome的Prompt API",
+              "brief": "Mozilla公开反对Google Chrome推动的Prompt API，该接口旨在为浏览器内置、需先下载的本地模型提供统一JavaScript调用方式，并被Google希望推进为W3C标准。争议背景在于不同模型特性差异很大，系统提示词往往需要针对单一模型调整，难以真正互操作。Mozilla认为这可能迫使其他浏览器获取Google模型授权或兼容其特性，同时该API还存在模型中立性不足的问题。",
+              "source_url": "https://www.solidot.org/story?sid=84199",
+              "source_name": "Solidot",
+              "published_at": "2026-05-01T21:05:03+08:00"
+            },
+            {
               "title": "Google如何给用户贴上广告价签",
               "brief": "Proton依据2025年广告竞价数据，分析逾5.4万个美国人口画像，估算广告商触达不同人群愿付出的价格，结果显示谷歌广告体系对用户定价差异巨大。美国人平均年广告价值约1605美元，但中位数仅760美元；蒙大拿州博兹曼一名35至44岁、无子女、用台式机做高价值企业搜索的男性估值达17929.30美元，而阿肯色州一名18至24岁、用安卓机低价值搜索的父亲仅31.05美元。",
               "source_url": "https://www.solidot.org/story?sid=84196",
               "source_name": "Solidot",
               "published_at": "2026-04-30T17:24:31+08:00"
-            },
-            {
-              "title": "亚洲多国因能源危机加大燃煤发电",
-              "brief": "最新中东能源危机正推动亚洲多国重新加大燃煤发电，以缓解油气供应受限带来的停电风险，但这也可能加重气候变化压力。印度推迟燃煤电厂检修，因其发电结构中煤炭占比高达74%；泰国重启原拟停用的两座机组，韩国放宽燃煤电站运行限制并延后关停，日本提高火电站开工率，孟加拉国扩大煤炭来源，印尼和澳大利亚则计划增产煤炭。",
-              "source_url": "https://www.solidot.org/story?sid=84195",
-              "source_name": "Solidot",
-              "published_at": "2026-04-30T16:32:40+08:00"
-            },
-            {
-              "title": "NVIDIA将在苏州举办开发者见面会",
-              "brief": "NVIDIA企业开发者社区宣布将于2026年5月10日在苏州举办开发者见面会，聚焦从GPU基础设施到智能体AI的全链路技术演进，帮助开发者应对更复杂的全栈挑战。活动议程包括GPU编程、CUDA易用性、长上下文推理中的KV Cache压缩、Agentic AI中的NemoClaw，以及面向混合专家模型训练的Hybrid-EP，最后还将举行关于AI框架、大模型与智能体协同演进的圆桌讨论。",
-              "source_url": "https://www.solidot.org/story?sid=84194",
-              "source_name": "Solidot",
-              "published_at": "2026-04-30T16:21:45+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "本周 Epic 限免：《霍格沃茨之遗》再次免费领取",
+              "brief": "Epic Games本周再次限时送出《霍格沃茨之遗》，领取截止到2026年5月3日，这次活动不同于常规周免，仅持续三天。该作于2023年上线，是一款开放世界动作角色扮演游戏，热度很高，上次限免时还曾让Epic服务器一度宕机。目前原价384元，玩家将在19世纪的霍格沃茨探索魔法世界、学习法术、制作药剂，并体验原创剧情、支线任务和角色成长系统。",
+              "source_url": "https://www.appinn.com/eggs-2652/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-02T16:05:48+08:00"
+            },
             {
               "title": "Copy Fail：一个自 2017 年起影响 Linux 的漏洞，10 行脚本可获 root 权限｜CVE-2026-31431",
               "brief": "名为 Copy Fail 的漏洞被披露，利用约10行 Python 代码即可在多数自2017年以来的 Linux 发行版上获取 root 权限。问题源于内核加密接口 AF_ALG 处理数据时未区分只读与可写，攻击者可把载荷写入内存中的 /usr/bin/su，并在执行 su 时完成提权；漏洞编号为 CVE-2026-31431，仅需本地非特权账户即可利用。",
@@ -412,6 +433,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "T2 CEO谈《GTA6》发售压力：紧张感远超平时",
+              "brief": "Take-Two首席执行官施特劳斯·泽尔尼克谈及《GTA6》发售时表示，这个项目带来的紧张感比平时高出许多。由于作品关注度极高，他认为在真正达成目标前就宣称成功，往往会导致判断失误。泽尔尼克同时强调，公司会为顶尖团队提供财务、创意、技术和人力支持，《GTA6》仍计划于2026年秋季登陆PS5和Xbox Series平台。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1561042.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-02T17:21:10+08:00"
+            },
+            {
+              "title": "《极限竞速：地平线6》开启预下载，5月19日发售",
+              "brief": "《极限竞速：地平线6》已开放预下载，并确认将于5月19日正式发售。新作把舞台设在日本，主打系列迄今最大规模地图，其中东京区域面积据称达到《极限竞速：地平线5》瓜纳华托的5倍。首发内容还将包含超过550辆汽车，并加入轮胎磨损系统、更细致的转向动画和最高540度方向盘转角等升级。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1561040.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-02T16:17:47+08:00"
+            },
+            {
+              "title": "余华辅导儿子语文仍未及格，引发应试作文讨论",
+              "brief": "作家余华辅导儿子语文后，相关考试成绩仍未及格，此事引发网友热议。文章提到，这并非首次出现类似情况，余华早在2017年担任作文比赛评委时就曾表示，自己给孩子的写作建议常常会带来低分。事件也折射出纯文学写作与校园应试作文之间的评价差异，前者强调真实和深度，后者更看重固定套路与评分标准。",
+              "source_url": "https://www.cnbeta.com.tw/articles/funny/1561038.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-02T16:14:40+08:00"
+            },
+            {
               "title": "中国移动梦网正式下线，巅峰期曾有近1亿用户",
               "brief": "中国移动已正式下线移动梦网，这个功能机时代的重要移动互联网入口宣告谢幕。它曾整合短信、彩信、WAP上网和早期手机游戏，构成国内最早一批移动互联网生态，并推动SP、CP增值业务迅速发展；巅峰时期月活接近1亿。随着智能手机普及及3G、4G、5G演进，用户转向应用商店和原生App，梦网体系也持续收缩并淡出主流视野。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1561036.htm",
@@ -424,27 +466,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1561034.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-02T14:58:50+08:00"
-            },
-            {
-              "title": "37年土壤升温实验发现“永久性”土壤碳正在释放",
-              "brief": "一项持续37年的土壤升温实验显示，过去被视为可长期封存的“永久性”土壤碳，正在变暖条件下开始分解并释放。研究在哈佛森林通过地下电缆让部分土壤常年高于自然条件5摄氏度，长期观察到抗性土壤有机质随时间逐步瓦解。研究者指出，这可能强化“升温促释碳、释碳再升温”的气候反馈，并有助于改进未来气候模型预测。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1561032.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-02T14:58:12+08:00"
-            },
-            {
-              "title": "NASA卫星首次拍到巨大太平洋海啸高分辨率全景",
-              "brief": "NASA与法国国家太空研究中心合作的SWOT卫星，首次获得巨大太平洋海啸的高分辨率全景观测，显示其波动结构比预期更复杂。研究团队把卫星海面高度数据与DART浮标记录联合分析后发现，此次海啸传播中存在明显色散效应，传统模型对波群内部结构和能量分配刻画不足；相关结果还帮助重新约束了勘察加—千岛弧8.8级地震的破裂范围。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1561030.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-02T14:57:31+08:00"
-            },
-            {
-              "title": "萨姆·阿尔特曼：OpenAI不想用AI把你“换掉”",
-              "brief": "面对外界对“AI抢工作”的担忧，萨姆·阿尔特曼表示，OpenAI并不想用AI把人类“换掉”，而是希望把AI定位为放大器和助手。这番表态出现在多家公司以AI推动裁员的背景下，也与“AI将接管大多数工作”的论调形成回应。阿尔特曼认为长期看社会会出现新的工作形态，但围绕就业替代、商业化路径及与Anthropic的竞争，争议仍在持续。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561028.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-02T14:54:33+08:00"
             }
           ]
         },
@@ -452,45 +473,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "宾利飞驰将迎改款：更强调豪华感，最早今年年末亮相",
-              "brief": "宾利飞驰改款原型车曝光，新车将以更年轻、更强调豪华感的设计亮相，最早可能在今年年末发布，并与纯电“Urban SUV”同期登场。此次变化主要集中在前脸，现款双圆灯预计改为更接近欧陆GT风格的单灯设计，保险杠也会重做，车尾则可能沿用现有尾灯壳体并调整内部样式。动力仍以V8插混为主，另有望增加更入门的V6插混版本，以降低起售价并换取更长纯电续航。",
-              "source_url": "https://www.ithome.com/0/946/021.htm",
+              "title": "Retro Games 将推 C64 与 ZX Spectrum 复古翻盖掌机，年内上市",
+              "brief": "Retro Games宣布与Evercade开发方Blaze合作，推出基于Commodore 64和ZX Spectrum的翻盖复古掌机，延续其经典电脑复刻路线。两款新品计划10月发售，单价129.99美元，收藏版149.99美元；各内置25款游戏，支持通过MicroSD加载合法ROM，并配备4.3英寸IPS屏、USB接口和3.5毫米耳机孔，C64与Spectrum版本分别采用不同风格按键。",
+              "source_url": "https://www.ithome.com/0/946/035.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-02T15:48:31+08:00"
+              "published_at": "2026-05-02T17:57:48+08:00"
             },
             {
-              "title": "《深海迷航2》PC版配置公布：最低需i5-8400和GTX 1660",
-              "brief": "《深海迷航2》公布PC版配置要求，最低需i5-8400或锐龙52600、GTX1660或RX5500 XT、12GB内存和50GB以上存储空间，官方同时给出更高一档推荐配置。作为系列新作，它将带来全新的外星海洋世界、更丰富的生存系统，并首次支持最多4人合作。游戏将于5月14日开启抢先体验，Steam国区定价108元，官方计划在随后2至3年内持续更新生物群落、生物、可制造物品、功能和剧情。",
-              "source_url": "https://www.ithome.com/0/946/019.htm",
+              "title": "“小孩”曾卓君卫冕 EVO Japan 2025《饿狼传说：群狼之城》冠军",
+              "brief": "中国选手“小孩”曾卓君在EVO Japan 2025《饿狼传说：群狼之城》项目中成功卫冕冠军，并拿到直通2026电竞世界杯和SWC的资格。这款SNK格斗游戏于2025年4月24日正式发售，已登陆PC、PS5、PS4、Xbox Series X|S和Epic平台；决赛中，曾卓君击败日本选手Fenritti夺冠。",
+              "source_url": "https://www.ithome.com/0/946/034.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-02T15:38:32+08:00"
+              "published_at": "2026-05-02T17:44:09+08:00"
             },
             {
-              "title": "广汽本田累计销量突破1100万辆",
-              "brief": "广汽本田宣布累计销量突破1100万辆，达到新的经营里程碑。该公司成立于1998年，由广汽集团与本田相关公司共同投资组建，总部位于广州，业务覆盖整车制造、研发与销售。其产品矩阵包括雅阁、奥德赛、皓影、型格、飞度等燃油和混动车型，并于2024年推出全新纯电品牌“烨”。公司管理层此前还表示，车龄10年以上的广汽本田车辆中，约80%仍在路上正常行驶。",
-              "source_url": "https://www.ithome.com/0/946/018.htm",
+              "title": "国产大飞机 C919 首位女机长于悦完成首飞",
+              "brief": "国产大飞机C919迎来首位女机长商业首飞，南航飞行员于悦在完成两个多月改装培训并通过理论、训练和航线检查后，于5月1日担任带队机长执飞航班。到4月底，南航C919已执行超9500班次、运送近130万人次；目前南航拥有10架C919，主要投放广州往返北京大兴、武汉、南京等航线。",
+              "source_url": "https://www.ithome.com/0/946/033.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-02T15:34:45+08:00"
+              "published_at": "2026-05-02T17:22:43+08:00"
             },
             {
-              "title": "技嘉宣布英特尔600/700/800系主板支持单子通道HUDIMM内存",
-              "brief": "技嘉宣布，英特尔600、700、800系列主板将支持单子通道HUDIMM内存条，进一步扩大这类DDR5产品的适用范围。HUDIMM的背景在于让厂商能以更低价格提供DDR5内存，从而覆盖此前因成本被排除在DDR5生态之外的主流用户、系统集成商和入门装机人群。官方还表示，HUDIMM可与标准UDIMM进行非对称混插，实现总计96-bit位宽，为用户提供无需整套更换内存的低成本升级路径。",
-              "source_url": "https://www.ithome.com/0/946/017.htm",
+              "title": "零跑 C 系列全球累计销量突破 75 万台",
+              "brief": "零跑汽车宣布，C系列全球累计销量已突破75万台，成为品牌当前最核心的走量车型。该系列也是零跑年度销量的重要支撑，全年销量已经超过33万台。具体来看，C10销量突破15.9万台，C11销量为9.5万台，C16销量为78060台，三款车型构成了C系列目前的主要销售表现。",
+              "source_url": "https://www.ithome.com/0/946/031.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-02T15:34:42+08:00"
+              "published_at": "2026-05-02T17:16:12+08:00"
             },
             {
-              "title": "索尼Alpha 7R VI再曝：或于5月13日发布，定价5000美元",
-              "brief": "索尼Alpha 7R VI再度曝光，消息称这款全画幅无反将于5月13日发布，定价约5000美元，并被称作“A1II杀手”。其背景是该机据传将搭载6700万像素堆栈式传感器，这类传感器此前只出现在A1II、A9II等机型上。爆料还称，新机几乎具备A1II的全部功能，并加入类似A7V的AI、防抖和对焦升级；同期曝光的100-400mm f/4.5 GM镜头则采用内变焦设计，但并非现款100-400mm f/4.5-5.6 GM的继任者。",
-              "source_url": "https://www.ithome.com/0/946/016.htm",
+              "title": "微软承认 Win11 小组件杂乱易分心，将启动“春季清理”",
+              "brief": "微软在最新Windows 11预览版中宣布对小组件进行“春季清理”，承认现有体验容易分散注意力、信息也过于拥挤。这一调整回应了用户希望回到更直接的小工具体验的声音，也是近期修正Win11使用感受的一部分。更新后，悬停不再默认弹出面板，任务栏角标、提醒和MSN资讯流默认关闭，但用户仍可手动重新开启。",
+              "source_url": "https://www.ithome.com/0/946/030.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-02T15:32:08+08:00"
+              "published_at": "2026-05-02T17:01:44+08:00"
             }
           ]
         },
         {
           "name": "36氪",
           "articles": [
+            {
+              "title": "机构：特朗普拟上调汽车关税，或令德国产值损失近180亿美元",
+              "brief": "一家经济机构称，特朗普已宣布因欧盟未遵守与华盛顿达成的贸易协定，下周把欧盟汽车和卡车关税从此前商定的15%上调至25%。该机构测算，此举或使德国产值损失近150亿欧元，约合180亿美元，并称影响将十分显著；长期来看，损失可能扩大到约300亿欧元，意大利、斯洛伐克和瑞典等汽车产业较大的欧洲经济体也可能受到明显冲击。",
+              "source_url": "https://36kr.com/newsflashes/3791849172589577?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-02 16:53:33  +0800"
+            },
+            {
+              "title": "科创板2025年净利润增长26.6%，发展活力持续释放",
+              "brief": "截至2026年4月30日，科创板608家公司披露2025年主要经营业绩信息，合计实现营收15985.96亿元、净利润586.24亿元，同比分别增长10.3%和26.6%。报道将这一表现概括为向新向优、活力蓬勃，整体研发投入达到1892.47亿元，并已连续7年保持近13%的研发投入强度。",
+              "source_url": "https://36kr.com/newsflashes/3791833394027784?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-02 16:28:20  +0800"
+            },
+            {
+              "title": "特朗普政府救助方案告吹，精神航空宣布停止运营",
+              "brief": "陷入困境的美国廉价航空公司精神航空表示，已开始有序逐步停止运营，所有航班均被取消，并建议乘客不要前往机场。此前特朗普政府曾考虑提供5亿美元救助，换取其破产重组后可购买至多90%股份的认股权证，但主要债权人拒绝该方案，因其会让政府债权在未来破产时享有优先权。",
+              "source_url": "https://36kr.com/newsflashes/3791782399991047?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-02 16:13:28  +0800"
+            },
             {
               "title": "“五一”假期运输火车票已售1.17亿张",
               "brief": "“五一”假期铁路运输进入客流高峰，相关火车票已售1.17亿张。假期运输自4月29日持续至5月6日，旅游、探亲和休闲出行需求集中释放。5月1日全国铁路预计发送旅客2480万人次，计划加开旅客列车2070列，北京、广州、上海、成都、深圳、武汉等城市出发客流较为集中。",
@@ -504,27 +546,6 @@
               "source_url": "https://36kr.com/newsflashes/3791843421002760?f=rss",
               "source_name": "36氪",
               "published_at": "2026-05-02 15:49:34  +0800"
-            },
-            {
-              "title": "WildFire Energy股东拟以逾40亿美元估值出售该美国页岩油运营商",
-              "brief": "WildFire Energy股东正寻求出售这家美国页岩油运营商，含债估值预计超过40亿美元。该公司是得州南部Eagle Ford页岩盆地最大的私营运营商之一，日产量约5万桶油当量。知情人士称，杰富瑞已受聘负责拍卖流程，正式市场推介预计将在未来几周启动，但交易能否达成仍存变数。",
-              "source_url": "https://36kr.com/newsflashes/3791697672527104?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-05-02 15:26:06  +0800"
-            },
-            {
-              "title": "黑田东彦称日本2%通胀目标已实现",
-              "brief": "日本央行前行长黑田东彦表示，日本央行已经实现2%的通胀目标，不需要再依赖财政扩张或货币宽松政策。这一表态出现在其于4月30日接受的采访中，并于5月2日见诸报道。黑田同时称，在通胀与经济放缓风险并存的情况下，日本央行4月28日选择暂不加息是正确决定。",
-              "source_url": "https://36kr.com/newsflashes/3791696180059392?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-05-02 15:11:43  +0800"
-            },
-            {
-              "title": "2026年五一档新片票房突破3亿元",
-              "brief": "2026年五一档新片总票房已突破3亿元，统计口径包含点映及预售。相关数据截至5月2日15时02分，显示假期档期新片票房持续累积。当前暂列前五的影片分别是《寒战1994》《消失的人》《穿普拉达的女王2》《10间敢死队》和《给阿嬷的情书》。",
-              "source_url": "https://36kr.com/newsflashes/3791810462555140?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-05-02 15:09:04  +0800"
             }
           ]
         }
