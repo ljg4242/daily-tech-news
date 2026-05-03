@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T00:16:51.644313+08:00",
+  "generated_at": "2026-05-04T02:12:01.022891+08:00",
   "sections": [
     {
       "category": "主要",
@@ -120,6 +120,20 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "据报道 GameStop 正准备提出收购 eBay",
+              "brief": "《华尔街日报》称，GameStop正酝酿向eBay提出收购要约，最早可能在本月稍晚正式出手。此举被视为CEO Ryan Cohen推动公司摆脱单纯游戏与收藏品零售定位、寻求转型的一部分。报道指出，截至上周五收盘，GameStop市值约110亿美元，eBay约450亿美元；若eBay不接受，Cohen也可能直接向股东提出收购。",
+              "source_url": "https://www.engadget.com/2163171/gamestop-is-reportedly-preparing-an-offer-to-buy-ebay/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-04T01:31:01+08:00"
+            },
+            {
+              "title": "Ask.com 已关闭，互联网“管家”正式告别",
+              "brief": "曾以管家Jeeves形象闻名的搜索引擎Ask.com已正式关闭，网站声明称其搜索业务已于2026年5月1日终止。该服务在2006年由Ask Jeeves更名为Ask.com，此次关停意味着公司整个搜索业务结束。声明表示，这是母公司IAC继续聚焦业务后的决定，并向数百万用户致谢，称Jeeves的精神仍会延续。",
+              "source_url": "https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-04T00:17:29+08:00"
+            },
+            {
               "title": "乐高将推出带迷你手柄的世嘉 Genesis 套装",
               "brief": "乐高与世嘉宣布将于6月1日在乐高线上与线下门店发售 Sega Genesis Console 积木套装，以经典主机造型唤起玩家怀旧情绪。这是乐高近年持续扩展游戏硬件积木系列的新作，延续此前 NES、Game Boy 与 Genesis 手柄套装的路线。新品售价40美元，共479块，可切换 Genesis 或 Mega Drive 标识，附两只可拆卸迷你手柄、索尼克与塔尔斯卡带，以及隐藏索尼克肖像。",
               "source_url": "https://www.engadget.com/2163108/lego-is-releasing-a-sega-genesis-set-complete-with-little-controllers/",
@@ -182,11 +196,178 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "VS Code 默认在提交中加入 Copilot 共同作者署名",
+              "brief": "微软编辑器 VS Code 被发现会默认在提交信息中加入 Co-Authored-by Copilot，即使用户没有实际使用其 AI 助手，这一行为仍会自动出现，并再次在用户社区引发大量批评。争议在于提交记录会暗示代码由 Copilot 共同编写，与真实开发过程不符。微软开发者回应称，团队将在下个版本修复这一默认启用问题，并表示未使用 AI 助手时不应这样署名。",
+              "source_url": "https://www.solidot.org/story?sid=84209",
+              "source_name": "Solidot",
+              "published_at": "2026-05-03T23:34:19+08:00"
+            },
+            {
+              "title": "中国3月绿色技术出口同比增七成",
+              "brief": "受霍尔木兹海峡封锁引发的新一轮能源危机影响，多国正加快向清洁能源转型。作为最大的绿色技术出口国，中国3月太阳能、电池和电动汽车出口总额同比增长70%。其中太阳能出口装机容量达68GW，电池出口额达100亿美元，电动汽车和混合动力汽车出口同比增长140%，并有多达50个国家自中国进口的太阳能设备创下历史新高。",
+              "source_url": "https://www.solidot.org/story?sid=84208",
+              "source_name": "Solidot",
+              "published_at": "2026-05-03T23:23:12+08:00"
+            },
+            {
+              "title": "Steam 中 Linux 用户占比降至4.52%",
+              "brief": "Valve 公布的 2026 年 4 月 Steam 硬件与软件调查显示，Linux 用户占比从 3 月创纪录的 5.33% 回落至 4.52%，较上月减少 0.81 个百分点，但仍比去年同期翻倍。背景是 Linux 游戏表现近年显著改善，且通常比 Windows 更省资源，在内存价格上涨时期更具吸引力。同期 Windows 占 93.47%，OSX 占 2.01%，简体中文用户占 23.41%。",
+              "source_url": "https://www.solidot.org/story?sid=84207",
+              "source_name": "Solidot",
+              "published_at": "2026-05-03T22:54:09+08:00"
+            },
+            {
               "title": "为何 OpenAI 的系统提示词专门限制 Goblins",
               "brief": "OpenAI在Codex CLI系统提示词中加入限制，要求模型除非与用户提问绝对明确相关，否则不要谈论goblin、gremlin等生物。公司解释称，自GPT-5.1起这类比喻使用明显上升，ChatGPT中goblin用量增加175%，gremlin增加52%。调查显示原因是Nerdy个性无意中奖励了此类表达，因此已淘汰该个性、移除相关奖励信号，并从训练数据中过滤相关示例。",
               "source_url": "https://www.solidot.org/story?sid=84202",
               "source_name": "Solidot",
               "published_at": "2026-05-02T00:27:08+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "无羁：现代开源 Windows 在线与本地音乐播放器",
+              "brief": "无羁是一款面向 Windows 的开源音乐播放器，使用 WinUI 3 原生开发，支持在线搜索播放与本地音乐管理。它面向重视视听和交互体验的用户，兼顾功能完整与低资源占用，并集成网易云在线音乐 API。软件支持二十多种音频格式、M3U8 播放列表导入导出、双模式歌词显示、变速播放、WASAPI 独占输出及多种材质主题。",
+              "source_url": "https://www.appinn.com/the-untamed-music-player/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-02T20:22:25+08:00"
+            },
+            {
+              "title": "本周免费领：《霍格沃茨之遗》再次限免",
+              "brief": "本周 Epic Games 再次限时免费送出《霍格沃茨之遗》，领取截止到 2026 年 5 月 3 日，活动时间只有三天。文章同时汇总了另外几款同步限免作品，覆盖 PC 与移动平台。除这款原价 384 元的开放世界动作角色扮演游戏外，还包括《火花奇遇记：自动化冒险》《火之石》以及移动端《怒之铁拳4》，其中部分作品带有在线或锁区说明。",
+              "source_url": "https://www.appinn.com/eggs-2652/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-02T16:05:48+08:00"
+            },
+            {
+              "title": "Copy Fail：一段脚本可获取 Linux root 权限",
+              "brief": "Linux本地提权漏洞Copy Fail被披露，编号CVE-2026-31431，文章称一个脚本即可让2017年以来多数发行版获得root权限。问题出在内核加密接口AF_ALG未区分只读与可写，攻击者可把额外数据写入内存中的/usr/bin/su后执行提权。该漏洞只需非特权本地账户，不要求网络访问或预装底层程序，影响默认启用API的系统。",
+              "source_url": "https://www.appinn.com/copy-fail-cve-2026-31431/",
+              "source_name": "小众软件",
+              "published_at": "2026-04-30T11:32:57+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "金士顿推出 30.72TB 数据中心 U.2 固态硬盘，读取速度达 14,000MB/s",
+              "brief": "金士顿推出面向数据中心的新款DC3000ME U.2 NVMe固态硬盘，最高容量30.72TB，顺序读取速度最高14,000MB/s。该产品面向AI、高性能计算和云环境，重点是在不牺牲可靠性的前提下提升存储密度。其采用PCIe 5.0 x4并向下兼容PCIe 4.0，使用3D eTLC NAND，提供断电保护、AES-256与TCG Opal 2.0加密。",
+              "source_url": "https://www.landiannews.com/archives/112840.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-28T16:01:08+08:00"
+            },
+            {
+              "title": "Codex 再次重置本周配额，付费用户可继续使用",
+              "brief": "Codex团队于4月28日再次重置当周使用配额，付费用户可重新使用订阅内额度运行GPT-5.5等模型。此前团队曾在4月21日和4月22日连续两次重置，之后约6至7天未再调整，因此本次重置与前次连续重置相隔更久。此次恢复范围仍仅限付费用户，免费版ChatGPT的可用额度没有同步重置，Codex当前默认模型仍为GPT-5.5。",
+              "source_url": "https://www.landiannews.com/archives/112839.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-28T15:25:55+08:00"
+            },
+            {
+              "title": "ICU 域名疑似遭 DNS 污染，注册与否都会解析到异常 IP",
+              "brief": "4月26日下午起，国内多个.icu域名出现解析异常，已注册和未注册域名都会被指向无关IP。现象被认为具有典型DNS污染特征，影响主要限于国内访问，注册基础设施和DNS系统本身没有发现异常。报道提到，这些异常地址多与Facebook、Twitter或NTT相关，而在其他地区或使用1.1.1.1时，域名仍可解析到持有者设置的正常IP。",
+              "source_url": "https://www.landiannews.com/archives/112838.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-28T15:06:15+08:00"
+            },
+            {
+              "title": "GitHub Copilot 6月1日起改为按量计费",
+              "brief": "GitHub宣布自2026年6月1日起，Copilot将改为按量计费，现有订阅套餐会获得与月费等额的AI信用点。背景是Copilot已扩展为可执行长时、多步骤编码任务的智能体平台，模型与推理成本持续上升。新计费将按输入、输出和缓存tokens及模型倍率扣点，5月初会先上线账单预览，企业版还支持组织内共享配额。",
+              "source_url": "https://www.landiannews.com/archives/112837.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-28T11:38:15+08:00"
+            },
+            {
+              "title": "Claude Pro 仍可使用 Opus，Anthropic称限制提示为过时信息",
+              "brief": "社交平台流传的截图称，Claude Pro订阅在Claude Code中将无法继续使用Opus模型，需额外付费。Anthropic回应称截图真实，但属于2025年12月遗留的过时提示；自2026年1月起，Claude Pro已支持在Claude Code中使用Claude Opus 4.5及后续更多模型。相关错误提示现已删除，当前用户仍可按原订阅直接使用，无需额外付费。",
+              "source_url": "https://www.landiannews.com/archives/112836.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-04-28T11:11:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "日本开发纸板军用无人机：5分钟组装，成本3000美元",
+              "brief": "日本AirKamuy正在推进名为AirKamuy 150的纸板固定翼无人机，防卫省已开始关注其潜在军事用途。它主打低成本、快速部署，概念上可类比美国Lucas和伊朗Shahed这类单程攻击平台。该机单价最高约3000美元，手工组装约5分钟，可折叠平放运输，最高时速约74英里，采用电力驱动，续航约80分钟，现阶段也面向靶机测试、包裹投递和应急响应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561170.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-04T00:41:18+08:00"
+            },
+            {
+              "title": "Steam Machine或将全面支持HDMI 2.1",
+              "brief": "AMD已向Linux内核提交首批补丁，重点支持HDMI 2.1独有的固定速率链路功能，这被视为Steam Machine迈向完整HDMI 2.1支持的重要一步。背景是Valve的SteamOS基于Linux，并搭配AMD显卡，需要更高带宽来输出4K 120Hz和5K 240Hz。此前Valve曾与HDMI Forum沟通开源实现许可，相关谈判似乎已开始见效。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1561168.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-04T00:35:02+08:00"
+            },
+            {
+              "title": "苹果单季研发支出创新高 同比增长34%",
+              "brief": "苹果单季研发投入创下历史新高，同比增加34%，延续了近几年持续扩张的趋势。背景是公司正加快追赶AI节奏，库克在回应分析师提问时首次更详细解释加码逻辑，称新增资金主要投向新品迭代和Apple Intelligence相关研发。尽管投入显著提升，苹果同期研发规模仍低于谷歌和Meta等长期重投AI底层技术的公司。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561166.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-04T00:34:51+08:00"
+            },
+            {
+              "title": "53号德比斯退赛 张雪称因机械故障",
+              "brief": "53号车手德比斯在本回合比赛中遗憾退赛，张雪回应称原因是机械故障，并表示赛车比赛里任何情况都有可能发生。背景是德比斯在前一天的首回合正赛还曾于最后一圈完成逆转，连续超越两名对手夺冠。虽然这场未能完赛，但他凭借此前积累的97分仍排车手积分榜第三，张雪机车也位列车队总榜第三。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561164.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-04T00:33:32+08:00"
+            },
+            {
+              "title": "美光CEO：AI仍处早期 存储供应持续紧张",
+              "brief": "美光CEO表示，人工智能仍处于早期阶段，但已经显著改变存储市场的供需结构，行业供应持续吃紧。背景是AI推理和Token生成需求提升，对内存速度与容量提出更高要求，而扩产受制于技术门槛和设备限制，短期难以填补缺口。美光预计，今年AI对DRAM和NAND的需求将超过行业总规模的一半，并继续加大全球制造投资。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561162.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-04T00:30:44+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "华硕 ROG Equalizer 均流线被曝电流失衡，RTX 5090 实测针脚差达 4A",
+              "brief": "超频博主 Der8auer 实测发现，华硕 ROG Equalizer 电源均流线在 RTX 5090 上存在明显电流失衡，单次测试中不同针脚电流差最高达 4A，且每次重新插拔后分布还会变化。问题被指与线内“理线梳”兼作导电桥有关，它额外引入约 1 至 2mΩ 电阻；拆除并绝缘处理后，针脚电流缩小至 8.9A 与 7.5A。其还提醒，镀金插头配合常见镀锡接口存在腐蚀风险，且线材末端过硬也会增加安装难度。",
+              "source_url": "https://www.ithome.com/0/946/196.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-03T23:22:01+08:00"
+            },
+            {
+              "title": "我国高分辨大宽带集成光子光谱仪成功完成天文观测",
+              "brief": "我国团队成功利用高分辨大宽带集成光子光谱仪完成天文观测，并首次实现近红外太阳夫琅禾费线观测，相关成果已发表于《Photonics Research》。该系统基于低损耗氮化硅平台，芯片尺寸仅 9.6×3.2 毫米，整体光学组件体积小于 500 立方厘米，却实现超过 25000 的分辨率和超过 180 纳米的工作带宽，并识别出 1564.85 与 1565.29 纳米的 Fe I 吸收线。",
+              "source_url": "https://www.ithome.com/0/946/195.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-03T22:54:49+08:00"
+            },
+            {
+              "title": "消息称苹果 iOS 27 将转向 AI，Siri 成独立 App 并整合进相机",
+              "brief": "据古尔曼消息，苹果在完成“液态玻璃”设计调整后，iOS 27 将把重点转向 AI，并准备彻底重塑 Siri。新版 Siri 据称会以独立 App 形态出现，支持连续对话、历史记录、文件上传、单条指令处理多任务及第三方智能体接入，底层架构则引入基于谷歌 Gemini 技术的改造。同时，视觉智能将作为新的“Siri 模式”并入相机应用，用于识别食品标签、联系人等信息。",
+              "source_url": "https://www.ithome.com/0/946/194.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-03T22:52:56+08:00"
+            },
+            {
+              "title": "古尔曼：苹果测试 watchOS 27 新模块化表盘，2026 彩虹款本月发布",
+              "brief": "据古尔曼透露，苹果正在开发代号“Orchid”的 watchOS 27，并测试多款新表盘，其中一款是面向标准版 Apple Watch 的简化模块化表盘。它保留了 Ultra 表盘的大号数字时钟，但减少中央大组件、顶部小组件和边框信息，以较低信息密度呈现关键内容。另据称，苹果还计划在 watchOS 26.5 中上线 2026 年度“Pride Luminance”彩虹表盘与表带，预计将于本月发布。",
+              "source_url": "https://www.ithome.com/0/946/192.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-03T22:39:57+08:00"
+            },
+            {
+              "title": "小米落地扇 1X 升级版支持充电宝供电，补贴后 169.9 元",
+              "brief": "小米米家落地扇 1X 升级版在京东叠加补贴后降至 169.9 元，页面显示支持以旧换新额外补贴。该产品主打断电或不便接插座场景，采用 Type-C 通用接口，除标配 18W 适配器外，还可由充电宝供电。风扇配备 7 片大面积翼型扇叶和直流变频电机，可在米家 App 中自定义自然风曲线，并支持直吹风 100 档风速调节。",
+              "source_url": "https://www.ithome.com/0/946/182.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-03T20:51:28+08:00"
             }
           ]
         }
