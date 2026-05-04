@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T02:16:02.115542+08:00",
+  "generated_at": "2026-05-05T04:15:05.426330+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 26.5 为 iPhone 与 Android 间 RCS 消息加入端到端加密",
+              "brief": "苹果确认，iOS 26.5 将为 iPhone 与 Android 之间的 RCS 消息引入端到端加密，让跨平台对话获得与 iMessage 类似的隐私保护。该功能此前曾在 iOS 26.4 测试但未随正式版推出，如今仍被标注为测试版，并会在支持最新 RCS Universal Profile 3.0 的运营商网络中逐步上线；加密默认开启，可在“信息”设置中切换，已加密消息会显示锁形标记。",
+              "source_url": "https://www.macrumors.com/2026/05/04/ios-26-5-rcs-encryption/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-05T02:14:02+08:00"
+            },
             {
               "title": "iOS 27 将允许创建自定义钱包凭证",
               "brief": "苹果将在 iOS 27 的钱包应用中加入“创建通行证”功能，让用户把原本不兼容 Wallet 的票券数字化保存。该功能承接 4 月曝光的信息，用户可在应用内点按“+”后扫描票券二维码；若没有二维码，也能手动生成自定义通行证，支持门票、会员卡、礼品卡等类型，并提供活动、会员和其他三种分类配色，可调整图片、颜色、样式与文字，预计于 6 月 WWDC 预览。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/05/04/apple-seeds-watchos-26-5-rc/",
               "source_name": "MacRumors",
               "published_at": "2026-05-05T01:11:00+08:00"
-            },
-            {
-              "title": "Notepad++ 创始人指责一款 Mac 应用侵犯商标",
-              "brief": "Notepad++ 创始人 Don Ho 表示，当前一款以 Notepad++ 名义提供的 macOS 应用并非官方产品，且未经许可使用其商标。争议源于这款 Mac 移植版长期被用户误认为正式版本，Ho 明确称官方从未发布过 macOS 版。与其协调后，移植版开发者 Andrey Letov 表示将于未来几天随 1.0.6 版更换名称、标识及可能的新域名，并尽量平稳完成过渡。",
-              "source_url": "https://www.macrumors.com/2026/05/04/notepad-plus-plus-trademark-violation/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-05T00:46:54+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iPhone 18 Pro：今年晚些时候将带来六项新变化",
+              "brief": "报道称，苹果计划在今年晚些时候为 iPhone 18 Pro 带来六项新变化，重点覆盖外观、芯片与影像。背景是新机将延续今年机型的基本尺寸与轮廓，但苹果希望用更明显的局部升级解决上代两段式后盖引发的分歧，并拉开性能差距。文中提到的细节包括更小的灵动岛、更统一的背部观感、新配色、采用 2nm 与 WMCM 封装的 A20 Pro，以及可变光圈主摄和更大光圈长焦。",
+              "source_url": "https://9to5mac.com/2026/05/04/iphone-18-pro-six-new-features-are-coming-later-this-year/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-05T03:52:10+08:00"
+            },
+            {
+              "title": "iOS 26.5 RC 为巴西应用侧载做好支持准备",
+              "brief": "iOS 26.5 RC 的代码显示，巴西已被列入支持应用侧载的地区名单，与日本和欧盟并列。这一变化来自苹果去年与巴西反垄断机构 CADE 达成的和解，目的是结束围绕 App Store 分发限制和强制内购支付的多年争议；案件最早由 MercadoLibre 于 2022 年投诉发起。不过苹果尚未确认该功能会否在未来几天随正式版一同启用。",
+              "source_url": "https://9to5mac.com/2026/05/04/ios-26-5-rc-sets-up-support-for-app-sideloading-in-brazil/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-05T03:49:58+08:00"
+            },
+            {
+              "title": "iOS 26.5 为 iPhone 新增精美壁纸，更新内容一览",
+              "brief": "苹果随 iOS 和 iPadOS 26.5 RC 提前向开发者与公测用户开放了新的 Pride 壁纸，实际内容比发布时公布的更多。此次更新配合系统的 Liquid Glass 设计语言，提供 11 款现成配色，并加入自定义生成器。用户可从调色板中选择 1 到 12 种颜色组合成专属壁纸，在常亮显示下还能看到变暗后的版本。",
+              "source_url": "https://9to5mac.com/2026/05/04/ios-26-5-adds-beautiful-wallpapers-for-your-iphone-heres-whats-new/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-05T02:33:57+08:00"
+            },
             {
               "title": "iOS 27：Apple Wallet 将新增“创建通行证”功能",
               "brief": "彭博社称，苹果计划在 iOS 27 的 Wallet 中加入“创建通行证”功能，让用户把二维码或实体票证转成可保存的数字通行证。这项功能主要面向只提供入场码、但未接入 Wallet 的健身房、演出等场景，减少用户必须依赖单独应用或纸质凭证的情况。用户可通过应用内“+”按钮导入代码或用相机扫描生成票证，并从标准、会员、活动三种模板中选择样式，自定义颜色、图片、图标和文本字段。",
@@ -61,33 +82,33 @@
               "source_url": "https://9to5mac.com/2026/05/04/apple-confirms-ios-26-5-messages-app-adds-rcs-end-to-end-encryption/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-05T01:41:28+08:00"
-            },
-            {
-              "title": "OpenAI 为学校和工作组织推出独立版 ChatGPT iOS 应用",
-              "brief": "OpenAI 推出名为 ChatGPT for Intune 的独立 iOS 应用，面向需要 Microsoft Intune 管理应用的学校和工作组织用户。之所以单独发布，是因为不少机构要求员工和学生只能使用受 Intune 管控的应用，以满足设备与数据管理要求。该应用免费提供，支持跨设备同步历史记录，并包含图像生成、高级语音、上传照片和文件后总结内容，以及撰写、润色邮件和简报等功能。",
-              "source_url": "https://9to5mac.com/2026/05/04/openai-releases-a-separate-chatgpt-ios-app-for-schools-and-work-organizations/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-05T01:38:19+08:00"
-            },
-            {
-              "title": "苹果公布 iOS 26.5 将为 iPhone 带来的三项改进",
-              "brief": "苹果公布 iOS 26.5 的官方发布说明，概述了即将登陆 iPhone 的三项主要增强。更新重点在于提升通信安全、扩展系统个性化选项，并改进地图发现内容的方式。具体来说，信息应用将为受支持运营商的 RCS 消息提供端到端加密测试版，系统新增可下载的 Pride Luminance 壁纸，地图中的 Suggested Places 还会结合附近热门地点和用户最近搜索给出推荐。",
-              "source_url": "https://9to5mac.com/2026/05/04/apple-highlights-3-enhancements-coming-to-iphone-with-ios-26-5/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-05T01:22:18+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026 年 5 月 4 日——Mac mini 变动等",
-              "brief": "9to5Mac 发布了 2026 年 5 月 4 日的新一期 Daily 播客，汇总当天几条主要苹果新闻。该节目按工作日更新，定位是帮助听众快速了解苹果及其生态的最新动态，因此每期都会集中梳理重点消息。本期讨论内容包括苹果寻求关税退款并计划把资金重新投入美国、Apple Watch 的 Pride Edition Sport Loop 与新骄傲主题壁纸和表盘，以及基础款 Mac mini 停售后起售价调整为配备 512GB 存储的 799 美元版本。",
-              "source_url": "https://9to5mac.com/2026/05/04/daily-may-4-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-05T01:20:48+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixel 11 据称暂不搭载谷歌新版面部解锁硬件",
+              "brief": "一则 Pixel 11 爆料称，谷歌下一代旗舰暂不会采用代号“Project Toscana”的新版面部解锁硬件。这项升级此前被曝可在黑暗环境工作，用来弥补现有 Tensor Pixel 依赖摄像头方案的主要短板；谷歌早在 Pixel 4 就曾押注红外面容识别。最新说法是该硬件“还没准备好发布”，因此不会在 Pixel 11 上首发。",
+              "source_url": "https://9to5google.com/2026/05/04/google-pixel-11-face-unlock-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-05T03:15:00+08:00"
+            },
+            {
+              "title": "安卓新机升级幅度缩水，买上一代更划算",
+              "brief": "文章指出，内存与存储成本上涨正推高智能手机价格，但 2026 年多款安卓新机硬件变化很小，形成“涨价却难称升级”的局面。文中以 Galaxy S26、Motorola Razr 以及 Galaxy A37、A57 为例，称部分机型只带来小幅电池、处理器或存储变化，而多年期软件支持也削弱了用户必须购买新款的理由。",
+              "source_url": "https://9to5google.com/2026/05/04/android-phones-forgotten-upgrade-means-buy-last-year-hardware-ramageddon/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-05T03:00:00+08:00"
+            },
+            {
+              "title": "Android 与 iPhone 间加密 RCS 将随 iOS 26.5 上线",
+              "brief": "苹果将在 iOS 26.5 中加入对 Android 与 iPhone 之间端到端加密 RCS 消息的支持，相关功能已在发布候选版更新说明中出现。这项能力自今年 2 月起测试，属于 GSMA 的 RCS Universal Profile；启用后，对话会显示加密锁标识，iPhone 端默认开启，Android 端需使用最新版 Google Messages。",
+              "source_url": "https://9to5google.com/2026/05/04/encrypted-rcs-android-iphone/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-05T02:41:04+08:00"
+            },
             {
               "title": "WhatsApp 将移除元宇宙风格“头像”功能",
               "brief": "WhatsApp 正在移除受元宇宙概念启发的 Avatars，部分用户已在应用内看到提示卡，称资料页中的头像会在后续更新中消失，许多人已陆续收到这项警告。该功能自 2022 年底上线，源于 Meta 推动与 Quest 类似的虚拟形象体系，通常作为个人资料照片之外的补充展示。更新完成后，用户将无法创建、编辑或分享头像，相关贴纸也会一并下线，具体时间尚未公布。",
@@ -101,33 +122,33 @@
               "source_url": "https://9to5google.com/2026/05/04/youtube-tv-will-keep-the-weather-channel-in-new-deal/",
               "source_name": "9to5Google",
               "published_at": "2026-05-05T01:35:00+08:00"
-            },
-            {
-              "title": "今日 Android 应用优惠与限免：《星球大战》、Aeon’s End、WINCH IT OUT 等",
-              "brief": "9to5Toys 汇总了今天的 Android 应用优惠与限免，列出的项目包括《星球大战》相关应用、Aeon’s End、WINCH IT OUT 等。此次内容与 2026 年星战日促销背景相连，文中同时提到亚马逊已经开启大规模优惠活动。除应用折扣外，相关促销还覆盖乐高与收藏品等周边商品，作为当日优惠信息的一部分。",
-              "source_url": "https://9to5toys.com/2026/05/04/today-android-app-deals-freebies-star-wars/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-05T01:20:59+08:00"
-            },
-            {
-              "title": "Android 手机或将很快用上这项屏下面部解锁技术",
-              "brief": "Metalenz 展示了一套名为 Polar ID 的新面部解锁方案，可把类似 iPhone Face ID 的大部分硬件隐藏到 OLED 屏幕下，并可能较快进入 Android 设备。该技术基于光学超表面与偏振数据，既缩小模组体积，也能分辨真人面部与硅胶 3D 面具。报道称相关方案预计 2027 年用于手机和笔记本，屏下版本更可能在 2028 年亮相，且可在黑暗环境工作。",
-              "source_url": "https://9to5google.com/2026/05/04/android-face-unlock-polar-id-metalenz/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-05T00:40:00+08:00"
-            },
-            {
-              "title": "优惠汇总：Pixel 10 Pro/XL 最高减456美元，Pixel 10a触及亚马逊新低，海信Google TV直降2000美元",
-              "brief": "多款科技产品迎来新一轮促销：亚马逊在4月底涨价后再次下调解锁版 Pixel 10、10 Pro、10 Pro XL、10 Pro Fold 和 Pixel 10a，其中 Pixel 10a 回到历史低点，部分 10 Pro/XL 开箱机最高便宜 456 美元；同时百思买将海信 180Hz UR9 RGB MiniLED Google TV 最高直降 2000 美元，亚马逊也开启了星战日周边、乐高和收藏品大促。",
-              "source_url": "https://9to5google.com/2026/05/04/deals-pixel-10-pro-xl-hisense-google-tv-star-wars/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-04T23:39:02+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "宣称 ChatGPT 有利教育的高影响力研究因疑点被撤稿",
+              "brief": "一篇宣称ChatGPT能显著提升学生学习表现的研究在发表近一年后被撤回。该文曾被视为生成式AI有利学习的早期强证据，并在社交平台广泛传播。出版方施普林格·自然称其分析存在“不一致”，因此无法信赖结论；这项元分析汇总了51项研究，原本声称对学习表现、学习感知和高阶思维均有正面影响。",
+              "source_url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-05T03:03:39+08:00"
+            },
+            {
+              "title": "GameStop 提出 560 亿美元收购 eBay，但难以说明如何支付",
+              "brief": "GameStop向eBay发出约555亿美元的主动收购提议，但外界质疑其支付能力。背景是GameStop营收下滑并持续关店，而eBay市值超过其四倍，公司称将通过债务融资并以现金加股票完成交易。方案还主张把约1600家美国门店变成鉴定、收货、发货和直播节点，借此为eBay削减营销与资本开支。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-05T01:57:46+08:00"
+            },
+            {
+              "title": "F1 迈阿密站：这就是升级奏效时的样子",
+              "brief": "F1在经历五周意外间歇后于迈阿密恢复比赛，本站也让车队升级效果成为焦点。2026赛季前三站因新混动规则下的能量限制引发争议，排位赛无法全油门、正赛频繁换位，甚至被讥为“悠悠球式”比赛。近期对能量回收与释放规则的调整，加上迈阿密赛道拥有更多制动区，使这个周末能量管理不再成为主要话题。",
+              "source_url": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-05T01:47:05+08:00"
+            },
             {
               "title": "AMD 正在为 Linux 增加 HDMI 2.1 支持，利好 Steam Machine",
               "brief": "AMD 正在为 Linux 的 amdgpu 驱动加入 HDMI 2.1 支持，这意味着 Valve 即将推出的 Linux 硬件未来可能获得对该显示标准的正式支持。此前因 HDMI 授权长期模糊，加上开源 AMD 驱动开发受限，Steam Machine 一直缺少官方支持。当前补丁先加入可提升带宽的 FRL，支持更高分辨率、动态 HDR 和可变刷新率；DSC 仍在测试，完整合规流程也在推进。",
@@ -141,19 +162,33 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-04T23:05:58+08:00"
-            },
-            {
-              "title": "Mac mini起售价升至799美元，可能数月内都难买到",
-              "brief": "苹果官网已下架599美元起的Mac mini，目前最便宜版本为799美元，配备M4、16GB内存和512GB存储。这并非同配置涨价，而是256GB基础款似乎已停产，用户难再以原起售价从官方购买。与此同时，Mac mini与Mac Studio多种配置持续缺货，苹果称芯片短缺和AI爱好者需求可能让供应紧张延续数月。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-04T22:55:48+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Nothing 最新神秘预告或暗示 Ear Open 新版本",
+              "brief": "Nothing 发布了一则以宝可梦茸茸羊为主角的新预告，文章认为这可能在暗示 Ear Open 将迎来新的配色版本。该公司一向会用宝可梦预热新品，且 2024 年就曾用茸茸羊预告 Ear Open。这次出现的是异色茸茸羊，博客还写着“即将到来”，其蓝、白、黑配色也被视为可能的新机身方案。",
+              "source_url": "https://www.androidauthority.com/nothing-ear-open-new-color-teaser-3663315/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-05T03:17:52+08:00"
+            },
+            {
+              "title": "T-Mobile 离网卫星覆盖现已扩展到美国以外",
+              "brief": "T-Mobile 由 Starlink 提供支持的 T-Satellite 服务现已把卫星漫游扩展到加拿大和新西兰，让用户在美国之外也能获得离网备用连接。该服务本来就是无常规蜂窝覆盖时的低速备援方案，并非日常主连接。新增合作覆盖 Rogers 和 One NZ，且安排是双向的，同时仍需兼容手机、清晰天空视野和合适条件。",
+              "source_url": "https://www.androidauthority.com/t-mobile-satellite-roaming-canada-new-zealand-3663306/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-05T02:48:43+08:00"
+            },
+            {
+              "title": "Google 推出新工具，帮助确认手机运行的是官方 Android 应用",
+              "brief": "Google 宣布扩大 Binary Transparency 计划，把原先用于验证 Pixel 固件完整性的机制延伸到自家 Android 应用和 Mainline 更新。此举针对的是即便有数字签名，仍可能被持有签名密钥的内部人员滥用的风险。新方案继续依赖可公开审计、类似区块链的官方发布记录，方便核对设备所运行的软件是否为 Google 认可版本。",
+              "source_url": "https://www.androidauthority.com/android-app-binary-transparency-3663287/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-05T02:17:44+08:00"
+            },
             {
               "title": "三星购买 Galaxy Watch 赠送免费智能体脂秤",
               "brief": "三星宣布与 Withings 合作，购买指定 Galaxy Watch 可获赠一台 Withings Body Smart 智能体脂秤，作为近期促销活动的一部分。此举旨在提升其智能手表吸引力，给仍在观望的用户更多下单理由。活动时间为 2026 年 5 月 4 日至 7 月 19 日，仅限以原价通过 Samsung.com 或三星应用购买 Galaxy Watch Ultra、Watch 8 Classic、Watch 8 或 Watch 7。",
@@ -167,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/spotify-music-playback-speed-3663257/",
               "source_name": "Android Authority",
               "published_at": "2026-05-04T23:43:15+08:00"
-            },
-            {
-              "title": "Google Family Link 漏洞阻止拨出电话，临时绕过方法或有帮助",
-              "brief": "Google Family Link 被曝出现漏洞，受监管设备无法拨出电话，但来电和短信仍可正常接收。这项本应帮助家长管理孩子手机使用的服务，如今反而引发安全担忧，因为故障可能影响紧急呼叫。多名家长称遇到相同问题，个别用户通过关闭后重新开启监管暂时恢复，但 13 岁以下账号无法使用该办法，Google 据称已知晓并在修复。",
-              "source_url": "https://www.androidauthority.com/google-family-link-bug-3663231/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-04T22:46:55+08:00"
-            },
-            {
-              "title": "Pixel 11 可能不会搭载此前预期的红外人脸解锁",
-              "brief": "新爆料称，Google 为 Pixel 11 准备的高级红外人脸解锁功能，可能不会在 2026 年随新机首发。该项目代号为 Project Toscana，目标是提供接近苹果 Face ID 的解锁速度，此前已在 Pixel 手机和 Chromebook 上测试。消息称延后原因是功能尚未准备就绪，而 Google 仍未正式确认该项目。",
-              "source_url": "https://www.androidauthority.com/google-pixel-11-ir-face-unlock-project-toscana-delay-3663249/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-04T22:27:39+08:00"
-            },
-            {
-              "title": "Pixel 11 Pro 和 Pixel 11 Pro XL 泄露：相机升级并加入“Pixel Glow”RGB 灯",
-              "brief": "泄露信息显示，Pixel 11 Pro 和 Pixel 11 Pro XL 将带来相机升级、更亮屏幕，以及“Pixel Glow”RGB 灯。两款机型仍采用 6.3 英寸和 6.8 英寸 LTPO OLED 屏，亮度可达 2450 尼特；主摄和长焦将换用新方案，温度计位置可能改由 RGB LED 取代，但电池容量较上代缩小。",
-              "source_url": "https://www.androidauthority.com/google-pixel-11-pro-leak-3663218/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-04T22:21:11+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Wholesome Direct 将于 6 月 6 日回归，带来多款温馨游戏",
+              "brief": "Wholesome Games宣布，第七届Wholesome Direct将于6月6日中午在YouTube和Twitch直播，展示50多款轻松可爱的游戏。作为夏日游戏节档期中的一场数字发布会，它将带来全球首曝、试玩公开和其他更新；Frontier Developments、NPC Studio、Stray Fawn Studio与Spry Fox已确认参加，相关周边销售收入将捐给跨性别法律中心。",
+              "source_url": "https://www.engadget.com/2164200/wholesome-direct-returns-june-6-with-a-slew-of-joyful-games/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-05T02:58:12+08:00"
+            },
+            {
+              "title": "iRobot 联合创始人正在打造古怪的小型机器人伙伴",
+              "brief": "iRobot联合创始人科林·安格尔公布新公司Familiar Machines & Magic，并展示面向陪伴场景的机器人原型Familiars。这意味着他正从家用清洁机器人转向社交互动设备；该原型采用类动物外形，配有触摸感应外层、摄像头和麦克风阵列，并搭载用于社交推理的定制小型多模态模型，但目前仍未公布上市时间和售价。",
+              "source_url": "https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-05T02:36:27+08:00"
+            },
             {
               "title": "《迷你高速公路》开放下一张城市地图投票",
               "brief": "交通管理模拟游戏《迷你高速公路》再次邀请玩家票选下一张官方城市地图，候选为维也纳、奥克兰、新加坡和利马，得票最高的城市会在今年晚些时候作为免费更新上线 iOS、PC、Mac 和 Switch。开发商 Dinosaur Polo Club 此前也办过同类活动，伦敦地图就是上次票选结果。此次每人限投一次，官方称会关注社交平台热度，但最终发行顺序仍由团队决定，投票将于5月15日结束。",
@@ -221,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "SwitchBot 可充电按键机器人优惠超两成",
+              "brief": "SwitchBot 的可充电按键机器人正参与母亲节促销，亚马逊和品牌官网现价约26.99美元，比34美元原价低7美元，折扣超过20%，创下目前最低价。它可直接粘贴在带实体按钮的设备上，包括显示器等，把原本需要手动按压的操作转为远程控制，因此被视为便宜又实用的智能家居礼物。活动持续到5月10日，旧款电池版在亚马逊也降至22.99美元。",
+              "source_url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
+              "source_name": "The Verge",
+              "published_at": "2026-05-04T14:47:01-04:00"
+            },
+            {
               "title": "Roomba 创始人推出毛茸茸的机器人伴侣",
               "brief": "Roomba 创始人科林·安格尔本周公布了新创业公司 Familiar Machines & Magic 的首款产品“Familiar”。这是一款狗大小、带毛茸茸外观的家用机器人，主打人与机器的连接而不是做家务。报道称，它被设计为可长期生活在家中，自主活动，并与不同家庭成员进行互动。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
@@ -247,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
               "source_name": "The Verge",
               "published_at": "2026-05-04T11:43:49-04:00"
-            },
-            {
-              "title": "亚马逊想把庞大物流网络做成下一个 AWS",
-              "brief": "亚马逊正把自身庞大的配送网络向站外企业开放，推出 Amazon Supply Chain Services，与 DHL、UPS 和 FedEx 更直接竞争。该服务面向各种规模企业提供货运、分销、履约和包裹配送，宝洁、3M、Lands’ End 和 American Eagle Outfitters 已被点名为适用客户，显示亚马逊正尝试把物流能力变成类似 AWS 的新业务。",
-              "source_url": "https://www.theverge.com/tech/923013/amazon-supply-chain-services",
-              "source_name": "The Verge",
-              "published_at": "2026-05-04T11:16:14-04:00"
             }
           ]
         }
@@ -297,6 +325,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "iOS 26.5 将为 iPhone 与 Android 间 RCS 消息加入端到端加密",
+              "brief": "苹果将在 iOS 26.5 中分阶段为 iPhone 与 Android 间的 RCS 对话加入端到端加密，改善此前跨平台消息未全面加密带来的隐私风险，并让安全级别更接近 iMessage。该功能默认开启，仍会标注为测试版，需双方都接入支持最新 RCS 版本的运营商网络，已加密会话会显示锁形图标，用户也可在设置中管理开关。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561296.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-05T02:46:41+08:00"
+            },
+            {
               "title": "马斯克开庭前两天短信联系布罗克曼试探和解",
               "brief": "庭审开始前两天，马斯克曾发短信给OpenAI总裁格雷格·布罗克曼，试探对方是否愿意和解，这条短信已被OpenAI申请列为庭审证据。马斯克于2024年起诉OpenAI、布罗克曼和奥尔特曼，指控公司背离非营利定位和公益使命。OpenAI则称，这能说明其诉讼意图与对管理层的针对性，案件将于本周继续审理。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1561294.htm",
@@ -323,13 +358,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1561288.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-05T01:50:52+08:00"
-            },
-            {
-              "title": "硅晶圆产业复苏主要受益于AI基础设施",
-              "brief": "硅晶圆市场正在回暖，但这轮复苏主要由AI和数据中心建设拉动，而非消费电子需求回升。行业组织Semi旗下SMG指出，晶圆厂正把产能转向高带宽内存和计算硅片，以满足超大规模客户需求。与此同时，第一季度PC和智能手机出货依然疲软，不同地区的复苏节奏也不一致，工业半导体改善相对更明显。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561286.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-05T01:43:34+08:00"
             }
           ]
         },
@@ -337,45 +365,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "硅谷兴起 Claude 用量排行：迪士尼员工 9 天调用约 46 万次",
-              "brief": "围绕 Claude 使用量的内部排行榜在硅谷走红：迪士尼一名员工 9 个工作日调用约 46 万次，Meta 全员 30 天累计消耗 60 万亿 token。背景是企业把高频使用 AI 视作效率与投入信号，并出现“tokenmaxxing”说法；文中还提到 Meta 统计工具随后下线，律师、教育等非编程场景也在扩大使用。",
-              "source_url": "https://www.ithome.com/0/946/323.htm",
+              "title": "苹果发布 watchOS 26.5 RC",
+              "brief": "苹果发布 watchOS 26.5 RC，为 Apple Watch 带来 2026 年度彩虹表盘。这次更新紧随 2026 款彩虹版回环式运动表带推出，显示本轮版本主要围绕年度彩虹主题进行配套调整，而不是大规模功能改动。文中还梳理了 watchOS 26.5 自 3 月底以来的多次测试进度，并说明开发者和公测用户都可在系统的软件更新入口获取新版本。",
+              "source_url": "https://www.ithome.com/0/946/327.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-04T23:59:53+08:00"
+              "published_at": "2026-05-05T01:38:24+08:00"
             },
             {
-              "title": "倍耐力推进智能轮胎系统，提升车辆定位与环境感知",
-              "brief": "倍耐力介绍其 Cyber Tyre 软硬件系统，并与 Univrses 的 3D AI 引擎结合，希望让车辆更准确获知自身位置并感知周边环境。背景在于智能驾驶和道路监测都需要更细的实时数据；该方案除轮胎内传感器外还依赖摄像头等外部传感器，双方已在意大利普利亚大区启动道路网络监测试点。",
-              "source_url": "https://www.ithome.com/0/946/322.htm",
+              "title": "苹果发布 iOS / iPadOS 18.7.9 正式版",
+              "brief": "苹果发布 iOS / iPadOS 18.7.9 正式版，相关更新已开始向用户推送。文章没有披露这次版本的具体新增功能或修复项目，主体内容主要是回顾 18 系列的发布历史，列表显示上一版为 2026 年 4 月 23 日推出的 iOS 18.7.8。文中还提醒，软件更新页面出现新版本可能会有短暂延迟，通常半小时内即可看到更新。",
+              "source_url": "https://www.ithome.com/0/946/328.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-04T23:56:21+08:00"
+              "published_at": "2026-05-05T01:38:24+08:00"
             },
             {
-              "title": "G-Power 推出高性能版宝马 M5，最大功率达 986 马力",
-              "brief": "G-Power 推出强化版宝马 M5 改装方案，通过升级双涡轮、排气、中冷和进气并重写软件，把动力提升到 986 马力、1200 牛·米。其背景是后市场持续挖掘高性能车型潜力，这一数字已接近初代布加迪威龙；用户也可分阶段购买升级，完整套件价格略高于 3.1 万欧元，适用于轿车和 Touring 版本。",
-              "source_url": "https://www.ithome.com/0/946/321.htm",
+              "title": "苹果发布 macOS 26.5 RC",
+              "brief": "苹果发布 macOS 26.5 RC，现阶段测试信息显示这次更新主要集中在错误修复和性能改进，没有延续 macOS 26.4 那样的较多功能变化。由于 WWDC26 临近，业内普遍预计它会成为 macOS 27 发布前的最后一个版本。文章还给出 macOS 26.5 的多轮测试记录，并说明用户可通过系统设置中的软件更新入口获取测试版。",
+              "source_url": "https://www.ithome.com/0/946/325.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-04T23:39:30+08:00"
+              "published_at": "2026-05-05T01:38:23+08:00"
             },
             {
-              "title": "消息称 Pixel 11 暂不会首发红外人脸解锁",
-              "brief": "消息称谷歌为 Pixel 手机研发的红外人脸解锁项目仍未达到发布状态，预计不会随 2026 年推出的 Pixel 11 系列首发。其背景是外界此前一直把该功能视作谷歌版 Face ID，且传闻速度可达到 iPhone Face ID 水平；不过谷歌从未正式确认该项目，相关信息或许仍可能在 5 月 20 日举行的谷歌 I/O 上被提及。",
-              "source_url": "https://www.ithome.com/0/946/320.htm",
+              "title": "苹果发布 visionOS 26.5 RC",
+              "brief": "苹果发布 visionOS 26.5 RC，但目前尚无这版系统具体内容的公开消息。按照文章描述，watchOS、tvOS 和 visionOS 的每个新测试版通常都不会加入太多新功能，更新重点多半放在 Bug 修复和性能提升，因此这次版本更像正式版前的例行收尾。文中同时整理了 visionOS 26 系列从 2025 年 6 月首个测试版到 2026 年 4 月 Beta 4 的发布历史。",
+              "source_url": "https://www.ithome.com/0/946/326.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-04T23:21:30+08:00"
+              "published_at": "2026-05-05T01:38:23+08:00"
             },
             {
-              "title": "辛顿十年前预言未成真，美国放射科医生年薪升至 57.1 万美元",
-              "brief": "曾被“AI 教父”辛顿看衰的美国放射科职业，十年后不仅未被替代，反而出现更明显的人才短缺和薪资上涨。背景在于 AI 已能处理部分阅片、写报告等流程化任务，但临床工作并未被整体取代；文中称美国执业放射科医生过去 10 年增长约 10%，截至 2025 年平均年薪达 57.1 万美元，招聘岗位仍长期难以填满。",
-              "source_url": "https://www.ithome.com/0/946/318.htm",
+              "title": "苹果发布 iOS / iPadOS 26.5 RC：测试 RCS 端到端加密与 2026 彩虹壁纸",
+              "brief": "苹果发布 iOS / iPadOS 26.5 RC，新增 2026 年度彩虹壁纸，并在地图中加入“建议地点”功能，同时为美国市场测试地图竞价排名广告。该版本还重新启用曾在 iOS 26.4 测试版出现后又被移除的 RCS 消息端到端加密测试，以提升 iPhone 与 Android 间的通信隐私。面向欧盟，苹果也在测试第三方可穿戴设备的近端配对、通知转发和实时活动支持。",
+              "source_url": "https://www.ithome.com/0/946/324.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-04T22:27:44+08:00"
+              "published_at": "2026-05-05T01:38:22+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《宝可梦》黄牛开始倒卖限量版 Pop-Tarts",
+              "brief": "宝可梦公司与Target合作推出限量版《宝可梦》Pop-Tarts后，部分黄牛开始在门店扫货并转到eBay加价出售。此次联名除了包装印有皮卡丘、杰尼龟和胖丁等角色外，口味与普通款并无明显区别，但因适逢宝可梦30周年，被视为收藏品。关键细节是其原价约3美元，已成交价最高到25美元，未售出挂价甚至到50美元，现款也没有早年联名附带的玩具或特殊糖霜。",
+              "source_url": "https://www.ign.com/articles/pokmon-scalpers-are-now-reselling-limited-edition-pop-tarts",
+              "source_name": "IGN",
+              "published_at": "2026-05-05T02:58:14+08:00"
+            },
+            {
+              "title": "尼尔森公布2025年星战日《星球大战》流媒体前十，《安多》居首",
+              "brief": "尼尔森公布了2025年5月4日“星战日”《星球大战》流媒体播放前十榜单，《安多》排名第一，其后是《新希望》《幽灵的威胁》《帝国反击战》和《西斯的复仇》。这与《安多》第二季去年同期仍在更新有关，也显示系列热度未减。关键细节是，美国观众2025年累计观看星战内容330亿分钟，真人电影占44.2%，真人剧占38.9%，动画占16.8%。",
+              "source_url": "https://www.ign.com/articles/star-wars-streaming-ratings-reveal-the-top-10-shows-and-movies-from-may-the-4th-2025",
+              "source_name": "IGN",
+              "published_at": "2026-05-05T02:38:45+08:00"
+            },
             {
               "title": "迪士尼+订阅用户可免费领取《漫威争锋》独家洛基皮肤",
               "brief": "迪士尼+订阅用户现可免费领取《漫威争锋》洛基“复仇者联盟”服装的独家版本，这是5月1日上线皮肤的Disney+限定配色。该福利来自Disney+ Perks计划；已拥有原皮肤的玩家会获得新色，未拥有者则可直接拿到这一版本，需先在Perks页面申领代码，再到游戏内Bundle Code处兑换。",
@@ -396,20 +438,6 @@
               "source_url": "https://www.ign.com/articles/leon-could-be-70-and-still-be-a-great-character-resident-evil-director-says",
               "source_name": "IGN",
               "published_at": "2026-05-05T01:03:37+08:00"
-            },
-            {
-              "title": "Netflix《暗夜情报员》将在第四季完结",
-              "brief": "Netflix确认《暗夜情报员》将在第四季完结，主创肖恩·瑞安表示，团队一直想为彼得·萨瑟兰的故事给出明确而精彩的收尾。该剧围绕主角卷入大型阴谋展开，自首季走红后持续推进；第四季除加布里埃尔·巴索等原班阵容外，还将新增Li Jun Li和特雷文特·罗兹等演员。",
-              "source_url": "https://www.ign.com/articles/netflixs-the-night-agent-ending-with-season-4",
-              "source_name": "IGN",
-              "published_at": "2026-05-05T01:00:09+08:00"
-            },
-            {
-              "title": "Xbox将于6月7日重返IGN Live",
-              "brief": "Xbox将于6月7日回归IGN Live，现场观众可与数百名玩家一同观看Xbox Games Showcase和《战争机器：E-Day》特别节目。IGN Live将于6月6日至7日在洛杉矶市中心Magic Box举行，并同步在IGN各平台直播；除Xbox外，活动还确认包含ID@Xbox展示、开发者访谈和多款游戏试玩。",
-              "source_url": "https://www.ign.com/articles/xbox-ign-live-2026-showcase-watch-party",
-              "source_name": "IGN",
-              "published_at": "2026-05-05T01:00:00+08:00"
             }
           ]
         }
