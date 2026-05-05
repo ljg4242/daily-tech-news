@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T16:13:26.559316+08:00",
+  "generated_at": "2026-05-05T18:11:47.980763+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果考虑将英特尔和三星列为美国芯片代工备选",
+              "brief": "据报道，苹果已与英特尔和三星展开初步接触，评估在美国生产设备主处理器的可能性。此举是为在长期合作伙伴台积电之外寻找额外供应来源，以缓解 AI 数据中心建设推高产能占用，以及 Mac mini、Mac Studio 热销造成的供货压力。消息称双方尚未达成订单，讨论仍停留在探索阶段；苹果同时担心替代工艺难以复制台积电的成熟度与规模，而其在凤凰城扩产的合作目前也仅能有限供货。",
+              "source_url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-05T17:32:48+08:00"
+            },
             {
               "title": "苹果请求最高法院暂停 Epic Games 案中的 App Store 费用程序",
               "brief": "苹果已请求美国最高法院在决定是否受理其与Epic Games争议的新进展前，暂停围绕App Store收费标准的计算程序。苹果称若不停下程序，它将不得不在被认定藐视法庭的阴影下为商业模式辩护，并被迫披露无法追回的机密经营信息。此案源于2021年法院要求其放宽应用内引导限制，允许开发者链接替代支付，随后苹果仍收取仅比标准费率低3%的费用。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/04/ios-27-custom-wallet-passes/",
               "source_name": "MacRumors",
               "published_at": "2026-05-05T02:01:57+08:00"
-            },
-            {
-              "title": "macOS Tahoe 26.5 候选发布版现已提供",
-              "brief": "苹果向开发者发布 macOS Tahoe 26.5 的候选发布版，距离第四个测试版发布仅一周，意味着正式版已接近推出。当前公开信息显示，前四个测试版均未发现新功能，因此这次更新大概率仍以修复问题和提升性能为主。开发者可在“系统设置”中的“通用”与“软件更新”里获取更新，但需启用 Beta Updates，并使用免费的开发者账号。",
-              "source_url": "https://www.macrumors.com/2026/05/04/macos-tahoe-26-4-rc/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-05T01:14:01+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "iPhone 与 Android 的 RCS 消息终于迎来端到端加密升级",
-              "brief": "苹果发布 iOS 26.5 候选版，正式为 iPhone 与 Android 之间的 RCS 对话加入端到端加密。这补上了跨平台短信长期缺失的重要安全防护，减少第三方拦截聊天内容的风险。更新说明已明确标注该功能，信息设置中还会新增默认开启的加密开关，但目前仍处于 RC 阶段，预计很快进入正式版。",
-              "source_url": "https://www.androidauthority.com/ios-26-5-rc-rcs-e2ee-support-3663439/",
+              "title": "谷歌在 Pixel 11 上面临迄今最大难题",
+              "brief": "在零部件成本上涨、手机厂商普遍面临涨价压力的2026年，谷歌被认为很难把Pixel 10a“稳价少升级”的做法复制到Pixel 11。三星已对部分Galaxy S26涨价，摩托罗拉也在配置变化不大时抬高Razr售价，这说明旗舰机若提价就必须拿出更强规格。文章指出Tensor芯片将成为争议核心，尤其在Pixel 6、7因发热和续航受批评后，用户会更在意G6的性能与能效。",
+              "source_url": "https://www.androidauthority.com/google-facing-biggest-problem-with-pixel-11-3663296/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-05T15:55:31+08:00"
+              "published_at": "2026-05-05T18:00:50+08:00"
             },
             {
-              "title": "2026 年部分最畅销安卓手机仍未配备 5G",
-              "brief": "研究机构 Counterpoint 公布 2026 年第一季度全球销量前十榜单，三星 Galaxy A07 4G 是最畅销的安卓机。结果显示 5G 不是进入榜单的必要条件，Galaxy A17 4G 和 Redmi A5 两款 4G 机型也在前十；另外，Galaxy A17 5G、Galaxy A56 与 Galaxy A36 同样上榜。",
-              "source_url": "https://www.androidauthority.com/q1-2026-best-selling-phones-3663434/",
+              "title": "哈佛支持的这款应用，可能重塑 Google Wallet 之外的身份体系",
+              "brief": "哈佛支持的Keyring项目旨在把数字身份保存在用户设备上，而不是分散存放在各家公司服务器中，以减少线上场景中反复提交个人信息。其背景是研究者担忧企业大规模收集、存储和使用数据会带来隐私风险，严重时甚至可能引发身份盗用。Keyring只共享验证所需的最少信息，例如证明已满18岁而不暴露完整生日，并通过本地生物识别完成认证。",
+              "source_url": "https://www.androidauthority.com/keyring-wallet-harvard-app-3663489/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-05T15:47:59+08:00"
+              "published_at": "2026-05-05T18:00:23+08:00"
             },
             {
-              "title": "三星在 One UI 9 中泄露即将发布的折叠屏新机",
-              "brief": "三星 One UI 9 软件中被发现包含 Galaxy Z Fold 8 和 Wide Fold 的设备图片，提前曝光了两款新折叠屏。这让此前的爆料和渲染图得到更多印证，也说明三星内部软件再次泄露了未发布硬件。Wide Fold 机身更短宽，并显示出后盖与相机模组；Z Fold 8 则与 Z Fold 7 十分接近。",
-              "source_url": "https://www.androidauthority.com/samsung-wide-fold-galaxy-z-fold-8-one-ui-9-leak-3663410/",
+              "title": "最好的掌机《塞尔达》之一如今有了非官方 PC 移植版",
+              "brief": "《塞尔达传说：缩小帽》现已出现可运行的非官方PC移植版，延续了近年主机游戏通过反编译后登陆PC的趋势。该版本由开发者999sian发布，玩家仍需自备游戏ROM。Windows下安装流程主要是下载GitHub发布文件、放入重命名为baserom.gba的美版ROM后提取资源，随后即可启动；键盘可用，也支持Xbox One手柄，并提供窗口缩放等设置。",
+              "source_url": "https://www.androidauthority.com/zelda-minish-cap-pc-port-3663482/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-05T14:38:16+08:00"
+              "published_at": "2026-05-05T17:47:24+08:00"
             },
             {
-              "title": "OpenAI 或加速推进 AI 手机，可能采用联发科新芯片",
-              "brief": "分析师郭明錤称，OpenAI 首款 AI 手机的量产时间可能提前到 2027 年上半年，项目推进速度快于此前预期。此举被认为与其抢占 AI agent 设备赛道有关，也可能服务未来 IPO 布局。报道还称联发科已成为处理器首选，芯片或基于台积电 N2P 制程的定制版天玑 9600，并强化 AI、视觉、双 NPU 与 HDR 感测能力。",
-              "source_url": "https://www.androidauthority.com/openai-phone-development-specs-availability-3663415/",
+              "title": "Gemini Veo 为何胜出，ChatGPT Sora 又为何失利",
+              "brief": "文章认为，OpenAI的Sora虽然早期凭逼真演示迅速走红，但最终失败并非视频生成赛道遇冷，而是产品策略出了问题。作者指出，这类工具的持续成功取决于创作者规模与工作流整合，Sora长期仅向少数用户开放、且主要依赖有限地区的付费订阅，难以把短期热度转成稳定使用；相比之下，Google的Veo在可获得性和产品整合上做得更好。",
+              "source_url": "https://www.androidauthority.com/why-gemini-veo-beat-chatgpt-sora-ai-3662883/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-05T14:22:30+08:00"
+              "published_at": "2026-05-05T17:30:27+08:00"
             },
             {
-              "title": "三星展示新款手机屏幕：高色域并支持私密健康追踪",
-              "brief": "三星显示在洛杉矶举办的2026年SID显示周上展示了两项手机屏幕新技术，分别是强调高亮度与广色域的Flex Chroma Pixel OLED，以及可测量心率和血压的Sensor OLED。背景是其持续推进手机显示创新，其中前者高亮模式亮度最高可达3000尼特、覆盖96%的BT.2020色域，并称借助新材料与自研LEAD技术兼顾功耗和寿命；后者今年新增隐私显示功能，可从侧面隐藏敏感健康数据，同时让屏幕其他区域继续可见。",
-              "source_url": "https://www.androidauthority.com/samsung-display-flex-chroma-pixel-sensor-oled-3663402/",
+              "title": "那股病毒式的“吉卜力风”热潮，帮 ChatGPT 赚了数千万美元",
+              "brief": "一份最新报告显示，AI聊天应用的增长如今更受图像和视频功能驱动，而不是新模型本身。背景是ChatGPT曾因“吉卜力风”图片生成功能、Gemini也因Nano Banana等工具引发传播热潮。数据显示，ChatGPT在相关功能上线后四周新增近1200万下载，并为OpenAI带来7000万美元收入；Gemini虽也大涨逾2200万下载，但谷歌从这波热度中获得的收入仅占较小部分。",
+              "source_url": "https://www.androidauthority.com/openai-chatgpt-ghibli-viral-trends-more-revenue-gemini-nano-banana-3663450/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-05T12:11:11+08:00"
+              "published_at": "2026-05-05T17:14:00+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "苹果据称与英特尔和三星洽谈代工关键设备芯片",
+              "brief": "报道称，苹果已就代工“主要设备芯片”与英特尔和三星展开初步接触，意在降低对台积电的单一依赖。过去十年，苹果的iPhone、iPad和Mac处理器主要由台积电生产；近期芯片短缺、AI产品分流产能，以及苹果对供应链灵活性和台湾潜在供应中断的担忧，强化了这一考虑。消息称目前尚未下单，苹果还到访了三星在得州建设中的晶圆厂，而非台积电制造的相关芯片最早也要到2027年或更晚。",
+              "source_url": "https://www.engadget.com/2164681/apple-said-to-be-talking-to-intel-and-samsung-about-building-key-device-processors/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-05T17:05:06+08:00"
+            },
             {
               "title": "马斯克就推特投资披露纠纷与 SEC 达成 150 万美元和解",
               "brief": "埃隆·马斯克与美国证券交易委员会就其披露推特持股时间的长期纠纷达成和解，同意支付150万美元但不承认存在不当行为，以换取监管方撤诉。这场争议源于他在2022年延迟11天披露已持有公司超5%股份，SEC称此举让他以牺牲股东利益为代价节省逾1.5亿美元；路透社称，这也是同类违规中SEC开出的最高罚金之一，若获法院批准，此案将结束双方多年拉锯。",
@@ -235,19 +242,26 @@
               "source_url": "https://www.engadget.com/2164200/wholesome-direct-returns-june-6-with-a-slew-of-joyful-games/",
               "source_name": "Engadget",
               "published_at": "2026-05-05T02:58:12+08:00"
-            },
-            {
-              "title": "iRobot 联合创始人正在打造古怪的小型机器人伙伴",
-              "brief": "iRobot联合创始人科林·安格尔公布新公司Familiar Machines & Magic，并展示面向陪伴场景的机器人原型Familiars。这意味着他正从家用清洁机器人转向社交互动设备；该原型采用类动物外形，配有触摸感应外层、摄像头和麦克风阵列，并搭载用于社交推理的定制小型多模态模型，但目前仍未公布上市时间和售价。",
-              "source_url": "https://www.engadget.com/2164170/one-of-irobots-co-founders-is-now-making-weird-little-robot-companions/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-05T02:36:27+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "谷歌 DeepMind 员工因 AI 军事合作推动工会化",
+              "brief": "谷歌DeepMind总部员工投票推动组建工会，并致信管理层要求承认由CWU与Unite共同担任联合代表，目标是阻止公司AI技术被以色列和美国军方使用。此举源于员工反对模型卷入违反国际法的行为，也不接受管理层反复称相关工作仅用于行政用途的说法。报道提到，DeepMind内98%的CWU成员投票支持这一步。",
+              "source_url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+              "source_name": "The Verge",
+              "published_at": "2026-05-05T06:08:33-04:00"
+            },
+            {
+              "title": "微软终于在 Windows 小组件中默认隐藏 MSN 信息流",
+              "brief": "微软将调整Windows 11的小组件体验，未来打开面板时默认只显示小组件，不再先展示MSN新闻信息流。此举是其让功能“默认更安静”、减少干扰和压迫感计划的一部分，延续了两年多前允许用户手动关闭该信息流的方向。微软还在测试关闭悬停自动打开面板，并默认关闭任务栏徽章和部分提醒，仅在用户主动打开并使用后再显示相关提示。",
+              "source_url": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
+              "source_name": "The Verge",
+              "published_at": "2026-05-05T05:46:52-04:00"
+            },
             {
               "title": "2026 年母亲节 40 个最佳礼物点子",
               "brief": "汇总了2026年母亲节40个送礼点子，涵盖节省时间的科技产品和更具心意的选择。这份清单面向不同类型的妈妈，背景是5月10日母亲节临近，旨在帮助读者挑选既实用又能减轻日常负担的礼物。文中举例包括带拖地功能的Roborock Q10 Plus、用于安排家庭日程的Skylight Calendar 2，以及放松和自我护理类产品，覆盖家务辅助、日程管理与舒缓身心等场景。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
               "source_name": "The Verge",
               "published_at": "2026-05-04T19:49:33-04:00"
-            },
-            {
-              "title": "马斯克就推特收购披露案与SEC和解，罚款150万美元",
-              "brief": "美国证券交易委员会宣布，与埃隆·马斯克就其2022年收购Twitter初期的披露违规指控达成和解，金额仅150万美元。该机构此前称，马斯克未按时披露已购入逾5亿美元Twitter股票，因而至少少付1.5亿美元，并使在此期间卖出股票的投资者受损；如今和解对象还加入了Elon Musk Revocable Trust。",
-              "source_url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
-              "source_name": "The Verge",
-              "published_at": "2026-05-04T18:11:17-04:00"
-            },
-            {
-              "title": "Skylight 15 英寸智能日历降至历史最低价",
-              "brief": "Skylight 的 15 英寸智能日历 Calendar 2 目前在亚马逊和沃尔玛降至 249.99 美元，较原价便宜 50 美元，并创下新低。它主打把多个日历集中到一处，帮助家庭安排日程、家务和备餐，减轻多人共享行程时的整理压力。文中称，这一价格还比 Skylight 在母亲节前一周提供的促销价再低 10 美元，并支持与谷歌日历、微软 Outlook 和苹果 iCloud 等服务双向同步。",
-              "source_url": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-05-04T16:44:06-04:00"
             }
           ]
         }
@@ -372,39 +372,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "最后一天：新一代小米 SU7 首销权益今日截止，最高送 6.9 万元",
-              "brief": "新一代小米SU7首销权益于今日截止，购车用户最高可获价值6.9万元的配置与金融优惠。小米称首销期结束后将为提升生产和交付效率，在5月6日调整车型配置并下架部分选装。现阶段优惠包含Xiaomi HAD辅助驾驶，Max版免费升级碳纤维套件、超静谧座舱和车载智能冰箱，另有轮毂减免、5年低息、4.99万元起首付及复购积分。",
-              "source_url": "https://www.ithome.com/0/946/430.htm",
+              "title": "飞宇 Pocket 4 云台相机曝光，有望配备 1/1.55 英寸 CMOS 传感器",
+              "brief": "飞宇 Pocket 4 云台相机信息曝光，产品有望配备 1/1.55 英寸 CMOS 传感器。作为 Pocket 3 的后续机型，新品在传感器规格和续航上都出现升级迹象，继续面向便携视频拍摄场景。曝光内容称，新机提供 64GB 存储，内置电池最长续航 150 分钟；作为对比，Pocket 3 采用 1200 万像素 1/2.3 英寸传感器，支持 4K/60fps，续航最高 116 分钟。",
+              "source_url": "https://www.ithome.com/0/946/447.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-05T15:58:12+08:00"
+              "published_at": "2026-05-05T18:03:43+08:00"
             },
             {
-              "title": "量子计算机联手超级计算机，刷新大分子模拟纪录",
-              "brief": "IBM、克利夫兰医学中心与日本理化学研究所合作，用量子计算机配合超级计算机，完成了迄今规模最大的分子模拟之一。由于分子量子态计算极其复杂，团队采用混合方案以提升现有量子硬件实用性。研究调用两台IBM Heron量子计算机及富岳、Miyabi-G超算，模拟两组蛋白质-小分子复合物，最大对象约为此前量子模拟纪录的40倍，整个过程耗时逾100小时。",
-              "source_url": "https://www.ithome.com/0/946/429.htm",
+              "title": "美银分析师建议《GTA 6》定价 80 美元，以带动行业整体涨价",
+              "brief": "美国银行分析师建议《GTA 6》定价 80 美元，认为这有助于推动游戏行业整体提价。相关判断来自拉斯维加斯 Iicon 峰会期间发布的研报，背景是通胀持续以及 3A 游戏开发成本上升，行业正面临经营压力。研报称，如果《GTA 6》定价 70 美元，其他产品更难卖到 80 美元；不过 Take-Two 高管并未认可 80 美元定价，同时强调消费者会为与价值匹配的产品付费。",
+              "source_url": "https://www.ithome.com/0/946/446.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-05T15:58:03+08:00"
+              "published_at": "2026-05-05T17:55:33+08:00"
             },
             {
-              "title": "三星 One UI 9 泄露 Galaxy Z Fold8 与 Wide Fold 设计，预计 7 月发布",
-              "brief": "三星One UI 9固件泄露了Galaxy Z Fold8和Galaxy Z Wide Fold的真机配图，基本印证了此前流出的工程设计。三星近年更偏向细节打磨而非外观大改，这两款折叠屏也延续这一思路。标准版Fold8设计接近上代，重点改进铰链、折痕和做工；Wide Fold则采用4:3超宽内屏，定位更像折叠平板，预计7月22日随Flip8在伦敦发布。",
-              "source_url": "https://www.ithome.com/0/946/428.htm",
+              "title": "Metalenz 展示 Polar ID 屏下人脸解锁技术",
+              "brief": "Metalenz 展示了 Polar ID 屏下人脸解锁技术，称其可在全屏点亮的 OLED 屏幕下正常完成面容认证。现有屏下摄像头方案普遍受制于体积、画质和安全能力，这也是相关功能迟迟未普及的重要背景。该方案改用超表面光学器件捕捉偏振光，官方称可满足支付级验证，并已在国际显示周完成真机演示；技术预计 2027 年进入手机和笔记本，屏下版本可能 2028 年亮相。",
+              "source_url": "https://www.ithome.com/0/946/444.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-05T15:52:58+08:00"
+              "published_at": "2026-05-05T17:30:56+08:00"
             },
             {
-              "title": "2026 年 5 月 PS Plus 会免游戏上线，含《明末：渊虚之羽》《EA Sports FC 26》",
-              "brief": "索尼上线2026年5月PS Plus会免游戏，本期阵容包含《明末：渊虚之羽》和《EA Sports FC 26》等作品。会免是PS Plus会员每月固定权益，用户需在规定时间内领取后方可加入游戏库。其中《明末：渊虚之羽》领取截止至北京时间6月16日8时，其余两款截至6月2日8时，会员还可额外兑换《EA Sports FC 26》“超级巨星组合包”。",
-              "source_url": "https://www.ithome.com/0/946/427.htm",
+              "title": "赛力斯：4 月新能源汽车销量 33132 辆，同比增长 5.22%",
+              "brief": "赛力斯公布 2026 年 4 月新能源汽车销量为 33132 辆，同比增长 5.22%。公司同时表示，今年以来问界高端产品矩阵持续完善，这份月度成绩也对应着新车型交付与订单推进的最新进展。按官方说法，问界 M6 已开启大规模交付，全新一代问界 M9 系列累计预订量已突破 3.5 万辆，显示其核心产品仍在继续放量。",
+              "source_url": "https://www.ithome.com/0/946/443.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-05T15:47:09+08:00"
+              "published_at": "2026-05-05T17:13:31+08:00"
             },
             {
-              "title": "《辐射》设计师称游戏开发正优先迎合网红博主",
-              "brief": "《辐射》设计师蒂姆·凯恩表示，如今不少游戏开发更优先考虑网红博主的传播效果，而非普通玩家的实际体验。他认为互联网和直播平台改变了开发取向，团队会先判断剧情与画面是否适合被剪成爆款片段。凯恩称，许多玩家会被喜爱的主播左右，甚至在没玩过作品时就形成鲜明评价，这让他对2030年代游戏行业走向感到担忧。",
-              "source_url": "https://www.ithome.com/0/946/425.htm",
+              "title": "鸿蒙智行回应享界 S9 零重力座椅视频：未达到防夹触发阈值",
+              "brief": "鸿蒙智行就网传享界 S9 零重力座椅相关视频发布说明，称视频场景未达到防夹功能触发阈值。公司表示，已第一时间核实现场情况，并进行了全面技术复盘和多场景安全测试，以回应外界对座椅安全性的关注。官方称相关车型二排零重力座椅均具备防夹功能，达到阈值会停止并回弹；同时副驾有占位或安全带插入时不会折叠，语音开启会提醒确认，展开中按物理键可立即停止。",
+              "source_url": "https://www.ithome.com/0/946/439.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-05T15:43:45+08:00"
+              "published_at": "2026-05-05T16:49:40+08:00"
             }
           ]
         },
@@ -452,39 +452,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "欧盟官员称能源价格飙升推高欧盟通胀",
-              "brief": "欧盟委员会负责经济事务的委员东布罗夫斯基斯表示，受中东战事影响，能源价格近期大幅上涨，已将欧盟进一步推向增长放缓与通胀加剧。他指出，上周国际油价一度突破每桶125美元，能源成本正传导至整个欧洲经济，企业、家庭等各类参与者都在承受更高负担，价格压力因此持续抬升。",
-              "source_url": "https://36kr.com/newsflashes/3796056370240770?f=rss",
+              "title": "北汽蓝谷：子公司前4个月销量4.67万辆，同比增长22.87%",
+              "brief": "北汽蓝谷公告披露子公司北京新能源汽车股份有限公司最新销量数据，更新了4月单月及前4个月累计表现。公告显示，该子公司2026年4月销量为17658辆，同比增长70.99%；2026年1至4月累计销量46742辆，同比增长22.87%，两项指标均较上年同期增加。",
+              "source_url": "https://36kr.com/newsflashes/3796133140913158?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-05 15:45:35  +0800"
+              "published_at": "2026-05-05 17:52:53  +0800"
             },
             {
-              "title": "汇丰控股一季度收入同比增至186亿美元",
-              "brief": "汇丰控股午间在港交所披露2026年第一季度业绩，列账基准收入同比增加10亿美元至186亿美元，增幅为6%，但除税前利润同比减少1亿美元至94亿美元。公司同时宣布派发2026年第一次股息每股0.1美元，显示在收入增长的同时，盈利表现较上年同期略有回落，相关分红安排已获董事会通过。",
-              "source_url": "https://36kr.com/newsflashes/3796013270604808?f=rss",
+              "title": "亚马逊向所有企业开放物流网络",
+              "brief": "亚马逊宣布向所有类型、所有规模企业开放旗下全球物流与供应链网络，不再只服务平台商家。这意味着外部企业也可接入其物流体系处理供应链环节。根据声明，服务覆盖原材料运输、跨境转运、仓储分拨和终端配送全链路；消息公布后UPS跌超10%，联邦快递跌超9%，亚马逊涨1.41%。",
+              "source_url": "https://36kr.com/newsflashes/3796131306658816?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-05 15:18:36  +0800"
+              "published_at": "2026-05-05 17:36:05  +0800"
             },
             {
-              "title": "五一假期全国铁路累计发送旅客超1亿人次",
-              "brief": "五一假期运输启动以来，全国铁路累计发送旅客已超过1亿人次，4月29日至今合计达到1.17亿人次，整体运输安全平稳有序。随着假期返程客流继续攀升，5月4日全国铁路发送旅客2038.3万人次，5月5日预计发送2300万人次，并计划加开旅客列车2225列，以保障出行需求。",
-              "source_url": "https://36kr.com/newsflashes/3796004767128582?f=rss",
+              "title": "威龙股份：控股股东筹划控制权变更，股票停牌",
+              "brief": "威龙股份公告称，控股股东星河息壤（浙江）数智科技有限公司正在筹划公司股份协议转让，相关安排可能导致公司控制权发生变更。鉴于事项仍存在不确定性，公司股票将自2026年5月6日开市起停牌，预计停牌时间不超过2个交易日；目前披露内容主要涉及转让事项、控制权变更风险及停牌安排。",
+              "source_url": "https://36kr.com/newsflashes/3796126353431553?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-05 14:51:28  +0800"
+              "published_at": "2026-05-05 17:17:42  +0800"
             },
             {
-              "title": "ST华谊0.06%股权由横琴天晟拍得",
-              "brief": "京东资产交易平台信息显示，ST华谊180万股无限售流通股司法拍卖完成，中国中信旗下珠海横琴天晟股权投资合伙企业以最高应价358.26万元拍得这笔约占公司总股本0.06%的股份。此次拍卖共经历80次出价，折合每股约1.99元，按ST华谊最新收盘价1.82元计算，成交价较二级市场溢价超过9%。",
-              "source_url": "https://36kr.com/newsflashes/3796000873635076?f=rss",
+              "title": "金利华电：筹划收购中科西光股权并募资，股票停牌",
+              "brief": "金利华电公告称，公司正筹划以发行股份及支付现金方式，购买西安中科西光航天科技集团有限公司全部或部分股权，并募集配套资金。因相关事项尚存不确定性，公司股票自2026年5月6日开市起停牌，预计将在不超过10个交易日内披露交易方案；公告同时说明，本次交易不会导致公司实际控制人变更。",
+              "source_url": "https://36kr.com/newsflashes/3796124251921415?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-05 14:30:35  +0800"
+              "published_at": "2026-05-05 16:54:27  +0800"
             },
             {
-              "title": "华泰证券与印尼BNI启动战略合作",
-              "brief": "华泰证券宣布，已通过旗下华泰金融控股（香港）有限公司与印尼BNI旗下券商BNI证券达成战略双向合作，正式启动双方协同。此次合作以印尼市场为落点，华泰将通过本地券商渠道，向当地投资者提供覆盖宏观、策略和个股的全维度研究报告，拓展其海外研究服务触达范围。",
-              "source_url": "https://36kr.com/newsflashes/3795851188985089?f=rss",
+              "title": "东阳光：子公司签署算力服务框架合同，金额预计160亿至190亿元",
+              "brief": "东阳光公告称，控股子公司东莞东阳光云智算科技有限公司已与某企业A公司签署《算力服务采购框架合同》，公司由此披露一项大额算力服务合作安排。按公告测算，合同预计总金额为160亿元至190亿元（含税），期限为合同约定的订单验收通过后60个月，具体执行依据后续订单安排推进。",
+              "source_url": "https://36kr.com/newsflashes/3796122229644550?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-05 14:09:24  +0800"
+              "published_at": "2026-05-05 16:32:06  +0800"
             }
           ]
         },
