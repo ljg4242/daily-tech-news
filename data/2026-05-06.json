@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T16:13:33.809217+08:00",
+  "generated_at": "2026-05-06T18:21:54.341440+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 17 成为今年迄今全球最畅销手机",
+              "brief": "根据Counterpoint Research的数据，2026年第一季度iPhone 17是全球最畅销的智能手机，占全球销量的6%。iPhone 17系列包揽前三名，Pro Max和Pro版本分列第二和第三。上一代iPhone 16也排在第六，显示其需求依然强劲。分析师指出，iPhone 17的成功得益于基础型号向Pro版本看齐的升级，包括256GB起步存储、改进的摄像头和120Hz刷新率屏幕。该机型在中国和美国实现两位数同比增长，在韩国的销量更是翻了三倍。三星Galaxy A系列占据剩余五个席位，其中Galaxy A07 4G是最畅销的安卓手机。前十名机型合计占全球智能手机销量的25%，创下第一季度最高纪录。",
+              "source_url": "https://www.macrumors.com/2026/05/06/iphone-17-best-selling-smartphone-q1-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-06T17:56:53+08:00"
+            },
             {
               "title": "ChatGPT升级后更智能、更准确，且不再过度使用表情符号",
               "brief": "OpenAI将ChatGPT的默认模型更新为GPT-5.5 Instant，该模型在医学、法律和金融等领域减少了幻觉，提高了准确性。新模型在图像分析、STEM问题解答和智能选择网络搜索方面能力更强，并能根据用户历史聊天、文件和Gmail上下文提供个性化回复，但该功能目前仅限付费订阅者使用。OpenAI表示，回复更简洁且不丢失实质内容，同时减少了不必要的格式、表情符号和追问。所有ChatGPT模型都将更新记忆来源功能，显示生成回复所使用的上下文。GPT-5.5 Instant即日起向所有用户推送，免费用户可使用，但个性化功能仅限网页版Plus和Pro用户，移动端即将支持，未来几周将向免费、Go、Business和企业用户开放。苹果智能集成ChatGPT何时切换至新模型尚不明确。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/05/airpods-max-2-firmware-8e258/",
               "source_name": "MacRumors",
               "published_at": "2026-05-06T02:16:21+08:00"
-            },
-            {
-              "title": "iOS 27 将允许用户选择 Claude 或 Gemini 替代 ChatGPT 作为 Apple Intelligence 默认服务",
-              "brief": "据彭博社报道，iOS 27、iPadOS 27 和 macOS 27 将允许用户设置第三方 AI 服务作为 Apple Intelligence 功能（如写作工具和图像游乐场）的默认选项。苹果已与谷歌达成协议，计划在 iOS 27 中使用基于 Gemini 的模型，但用户也可选择其他服务。目前 iOS 26 已集成 ChatGPT，而新系统将支持 Claude、Gemini 等更多聊天机器人，用户可通过苹果的新“扩展”功能选择任意支持的 AI 提供商。此外，Siri 将使用一种语音，第三方 AI 响应则使用另一种语音，以区分来源。",
-              "source_url": "https://www.macrumors.com/2026/05/05/ios-27-third-party-chatbots-apple-intelligence/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-06T02:04:51+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "One UI 9首个测试版可能即将推出",
-              "brief": "爆料者发现三星服务器上出现了Galaxy S26系列的首个One UI 9测试版构建，通常意味着三星正在进行内部测试，为公开测试做准备。此前One UI 8.5测试版于11月底被发现，公开测试在12月初启动，因此One UI 9公开测试可能还需数周。该软件构建编号以ZZE7和BZE7结尾，适用于Galaxy S26 Plus和Ultra机型。",
-              "source_url": "https://www.androidauthority.com/samsung-internal-one-ui-9-beta-spotted-3664019/",
+              "title": "我找到了两种免费远程串流Plex库的方法",
+              "brief": "Plex在2025年推出Remote Watch Pass，对非高级用户远程访问收费，每年30美元。作者测试了两种免费绕过方法：利用网络工具Tailscale或使用第三方客户端Plezy，即可不受限制地远程访问自己的媒体库。",
+              "source_url": "https://www.androidauthority.com/plex-how-to-remote-stream-library-free-3663446/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-06T15:27:15+08:00"
+              "published_at": "2026-05-06T18:00:50+08:00"
             },
             {
-              "title": "这家运营商在激活费禁令下仍收取40美元新费用",
-              "brief": "加拿大运营商Bell在监管机构禁止激活费后，推出了40美元的“设备处理费”作为替代。该费用适用于在线、店内或电话购机，但智能手表暂时豁免。此前CRTC针对无线和互联网计划的“垃圾费”出台新规，要求运营商立即遵守，但Bell将费用重新命名以规避禁令。Bell表示该费用用于覆盖订单履行成本，且金额可能变动。",
-              "source_url": "https://www.androidauthority.com/bell-intros-device-handling-charge-3664032/",
+              "title": "Windows上的Phone Link设置可能面临木马风险",
+              "brief": "攻击者通过虚假的ScreenConnect更新传播CloudZ RAT木马，该木马能窃取浏览器凭证，并通过名为Pheno的插件从Microsoft Phone Link中提取数据，导致同步的手机和电脑数据（包括短信和OTP）暴露。研究人员建议仅从可信来源安装软件。",
+              "source_url": "https://www.androidauthority.com/microsoft-phone-link-trojan-3664066/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-06T15:17:46+08:00"
+              "published_at": "2026-05-06T17:50:48+08:00"
             },
             {
-              "title": "Pixel 手机 eSIM 无故失效，谷歌承认问题但未修复",
-              "brief": "大量 Pixel 用户遭遇 eSIM 连接问题，表现为间歇性断连、无法切换运营商或完全无法使用。受影响机型包括 Pixel 9 和 Pixel 10 系列，物理 SIM 卡正常。谷歌已承认该问题，但尚未提供修复方案。用户反馈遍布 Reddit、X 和谷歌问题追踪器，部分用户每三到四天需重启手机才能恢复 eSIM 功能。",
-              "source_url": "https://www.androidauthority.com/google-pixel-esim-bug-3664010/",
+              "title": "Aluminium OS要成功，谷歌需避免Android早期错误",
+              "brief": "谷歌的Aluminium OS预计2026年发布，三星将推出搭载该系统的Galaxy Book，并可能预装One UI和Galaxy AI。作者担忧三星的定制UI会重蹈Android碎片化覆辙，认为谷歌应限制第三方定制，避免系统分裂。",
+              "source_url": "https://www.androidauthority.com/google-aluminium-os-avoid-android-early-mistakes-3663293/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-06T14:14:33+08:00"
+              "published_at": "2026-05-06T17:30:32+08:00"
             },
             {
-              "title": "谷歌否认Android将采用类苹果Liquid Glass设计",
-              "brief": "在发布的一段预告视频中，Android机器人呈现出玻璃质感外观，引发用户担忧Android可能效仿苹果的Liquid Glass设计。Android负责人Sameer Samat迅速回应称“不会发生”，另一位谷歌员工Mishaal Rahman也予以否认。谷歌将于5月12日举行The Android Show活动，预计公布一系列Android生态系统更新。去年Android已推出Material 3 Expressive视觉风格，包含更多模糊效果、新动画及自定义快捷设置面板，谷歌表示将继续沿此方向发展。",
-              "source_url": "https://www.androidauthority.com/google-android-no-liquid-glass-redesign-3664004/",
+              "title": "RAM危机再袭：这款高性能安卓掌机已被取消",
+              "brief": "由于RAM供应短缺，AYN取消了Odin 3 Ultra掌机（24GB/1TB）的生产。受影响用户可选择转为16GB/512GB的Odin 3 Max并获20美元折扣，或全额退款加20美元优惠券。这是RAM危机中又一款被取消的掌机。",
+              "source_url": "https://www.androidauthority.com/another-android-handheld-canceled-ram-crisis-3664048/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-06T13:58:41+08:00"
+              "published_at": "2026-05-06T17:26:55+08:00"
             },
             {
-              "title": "Pixel 10 的五月更新阻止安卓降级，恢复问题仍未解决",
-              "brief": "谷歌为 Pixel 10 系列推送的 2026 年五月更新通过更新引导加载程序阻止用户降级到旧版安卓。这是安卓验证启动框架中反回滚保护的延续，旨在防止设备运行潜在有害或易受攻击的软件。然而，用户指出，如果设备进入某些深度恢复状态且无法使用谷歌内部工具，可能变得无法恢复。该问题已存在多年，但谷歌仍未为受影响用户提供解决方案。",
-              "source_url": "https://www.androidauthority.com/google-pixel-10-may-update-anti-rollback-3663965/",
+              "title": "三星开始为Galaxy S25 FE及新款折叠屏推送稳定版One UI 8.5",
+              "brief": "三星已向韩国Galaxy S25 FE、Z Fold 7和Z Flip 7的Beta用户推送稳定版One UI 8.5更新，随后将扩展至非Beta用户和其他地区。该更新带来连续图像生成、Now Nudge提醒和更智能的Bixby等Galaxy AI增强功能。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s25-fe-z-fold-7-flip-7-one-ui-8-5-stable-rollout-3664081/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-06T10:43:35+08:00"
+              "published_at": "2026-05-06T17:24:24+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Nuro获准在加州道路测试无人驾驶Uber Robotaxi",
+              "brief": "Uber支持的自动驾驶公司Nuro获得加州DMV更新许可，可在圣克拉拉和圣马特奥县以最高45英里/小时的速度进行无人驾驶测试。这是Uber在美国部署10万辆无人驾驶汽车计划的关键一步，其中多达3.5万辆将采用Nuro的自动驾驶技术。Nuro与Uber在2026年CES上展示了基于Lucid Gravity电动跨界车的Robotaxi设计，配备多传感器系统。此前测试需配备安全驾驶员且仅限Uber员工，新许可允许昼夜无驾驶员测试。Lucid在财报中表示计划今年晚些时候启动Robotaxi服务，Uber已将其投资增至5亿美元，订单从2万辆提升至3.5万辆。",
+              "source_url": "https://www.engadget.com/2165815/nuro-approved-to-test-driverless-uber-robotaxis-on-california-roads/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-06T16:25:59+08:00"
+            },
             {
               "title": "Pornhub 恢复向通过苹果验证年龄的英国用户提供访问",
               "brief": "Pornhub 母公司 Aylo 宣布，在苹果推出基于设备的年龄验证解决方案 iOS 26.4 后，将重新向通过年龄验证的 iOS 用户开放完整访问。此前，英国《在线安全法》要求成人网站实施严格年龄验证，Pornhub 于二月限制新用户访问，认为设备端验证能更好保护隐私。苹果要求用户通过绑定信用卡或扫描身份证证明年满18岁，Aylo 称这是目前最强且最难绕过的保护措施。",
@@ -235,19 +242,19 @@
               "source_url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
               "source_name": "Engadget",
               "published_at": "2026-05-06T05:40:41+08:00"
-            },
-            {
-              "title": "Xbox 将移除微软的 Copilot AI 助手",
-              "brief": "Xbox CEO Asha Sharma 宣布，将从 Xbox 移动应用和主机中移除 Copilot AI 助手。此前微软因 Copilot 在 Windows 中的问题而受到批评，并于 3 月宣布从部分应用中剥离该功能。Xbox 于 2025 年 5 月在移动应用中测试了 Copilot，原计划今年晚些时候将其引入主机，但 Sharma 表示这些计划与 Xbox 的未来方向不符。Xbox 需要加快速度、加深与社区的联系并解决玩家和开发者的痛点。作为调整的一部分，Xbox 将逐步停止移动端 Copilot 并终止主机端开发。Sharma 此前担任微软 CoreAI 部门总裁。",
-              "source_url": "https://www.engadget.com/2165562/xbox-is-ditching-microsofts-copilot-ai/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-06T05:11:41+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Chrome的AI功能可能占用4GB存储空间",
+              "brief": "用户发现Chrome浏览器在启用AI功能时，会自动下载一个约4GB的weights.bin文件到系统目录，导致可用存储空间异常减少。该文件属于谷歌Gemini Nano AI模型，用于本地运行诈骗检测、写作辅助等工具，虽然提升隐私性，但占用空间较大。用户可通过检查浏览器文件夹来确认并删除该文件以释放空间。",
+              "source_url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+              "source_name": "The Verge",
+              "published_at": "2026-05-06T06:13:09-04:00"
+            },
             {
               "title": "Google Home 的 Gemini AI 可处理更复杂的请求",
               "brief": "Google 将 Home 的 Gemini 升级至 3.1 版本，提升智能家居助理解释和执行多步骤任务的能力，支持在同一条语音指令中组合多个请求。新版本还改进了对重复和全天事件的处理，并允许用户调整即将到来的事件。此前，Google 已在 Home 中更新 Gemini 以提升自然语言理解和设备识别准确性，这些升级发生在有报道指出新助手存在混淆摄像头中的动物和活动摘要不准确等问题之后。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
               "source_name": "The Verge",
               "published_at": "2026-05-05T15:45:30-04:00"
-            },
-            {
-              "title": "Threads网页版终于迎来私信功能",
-              "brief": "在移动端推出私信功能近一年后，Meta开始测试Threads网页版私信。用户可在网页端查看收件箱和消息请求，并可选择允许任何人或仅关注的人发送私信。Meta还计划测试网页版群聊并增加更多控制选项。Threads负责人Connor Hayes表示，网页私信是自移动端消息功能上线以来用户的第一大需求。",
-              "source_url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
-              "source_name": "The Verge",
-              "published_at": "2026-05-05T14:30:42-04:00"
             }
           ]
         }
