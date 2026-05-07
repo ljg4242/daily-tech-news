@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T10:52:16.032400+08:00",
+  "generated_at": "2026-05-07T12:53:37.030353+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Android Auto 测试版重新开放报名，名额有限",
+              "brief": "谷歌已重新开放Android Auto测试版计划，当前接受新测试者报名，但可用名额可能很快用完。该计划长期以来几乎一直处于满员状态，用户通常只能在报名页面看到容量已满提示，或发现“Become a tester”按钮变灰。由于Android Auto涉及导航、通信和媒体控制等关键驾驶功能，谷歌一直对测试人数设置严格上限。",
+              "source_url": "https://www.androidauthority.com/android-auto-beta-open-3664497/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-07T11:52:33+08:00"
+            },
+            {
               "title": "Google 似乎正在筹备“AI Ultra Lite”订阅层级",
               "brief": "Google 似乎正为 Gemini 开发名为 AI Ultra Lite 的新订阅层级，以填补现有 AI Pro 与 AI Ultra 之间的产品空档。背景是目前两档定价分别为 20 美元和 250 美元，跨度很大。macOS 版 Gemini 应用字符串显示其代号为“Neon”，另有代码暗示 Google 还在筹备可查看五小时、每周额度及超额积分的用量面板。",
               "source_url": "https://www.androidauthority.com/google-gemini-ai-ultra-lite-3664475/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/lg-27-inch-ultragear-monitor-deal-3664439/",
               "source_name": "Android Authority",
               "published_at": "2026-05-07T04:23:06+08:00"
-            },
-            {
-              "title": "Google Home 的 RGB 灯光控制已恢复正常",
-              "brief": "Google 表示，Google Home 控制 RGB 智能灯颜色的异常现已修复。上个月部分用户发现 Home 应用仍可开关和调节亮度，却无法更改颜色，只剩少数白色选项，这与统一智能家居平台的预期不符。GoogleNestCommunity 上周末在 Reddit 称问题已正式解决，若仍缺少颜色控制，可尝试重启 Google Home 应用。",
-              "source_url": "https://www.androidauthority.com/google-home-rgb-fixed-3664424/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-07T04:11:10+08:00"
             }
           ]
         },
@@ -374,6 +374,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "DAEMON Tools 官网自4月8日起遭入侵，带签名版本含后门",
+              "brief": "卡巴斯基披露，DAEMON Tools 官网自4月8日起被劫持，官方分发的带数字签名安装包被植入后门。这是一起供应链攻击，遥测显示已出现数千次感染尝试，但仅少量设备收到后续载荷，目标涉及零售、科研、政府和制造业。开发商确认受影响版本为12.5.0.2421至12.5.0.2434，并已发布12.6.0.2445替换，近期安装或更新者被建议先扫描排查。",
+              "source_url": "https://www.landiannews.com/archives/112871.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-07T12:16:31+08:00"
+            },
+            {
+              "title": "微软称 Windows 月活超16亿，必应月活破10亿",
+              "brief": "微软在最新财报沟通中宣布，Windows月活跃用户已超过16亿，必应搜索月活跃用户突破10亿。公司称正重新聚焦Windows基础体验，以提升Edge和必应等核心产品参与度。纳德拉还表示，受内存价格高企影响，微软将优化Windows 11在低内存设备上的流畅度，支持入门级PC继续出货，但未单独披露Windows 11月活规模。",
+              "source_url": "https://www.landiannews.com/archives/112847.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-07T11:44:30+08:00"
+            },
+            {
+              "title": "Anthropic 上调 Claude 付费订阅额度：5小时配额翻倍",
+              "brief": "Anthropic宣布，即日起Claude Code所有付费订阅的5小时使用配额翻倍，并取消Pro和Max账户在高峰时段的速率限制，同时上调Claude Opus API调用速率。调整背景是其获得新的算力支持，以缓解长期存在的容量紧张。按文中说法，这部分算力来自孟菲斯Colossus 1数据中心300兆瓦计算能力，新政策适用于Pro、Max、Team及按席位计费的企业版。",
+              "source_url": "https://www.landiannews.com/archives/112846.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-07T11:23:30+08:00"
+            },
+            {
               "title": "微软已修复 Microsoft Defender 误报系统根证书为病毒问题",
               "brief": "微软发布的Microsoft Defender安全智能更新一度误将DigiCert合法根证书识别为恶意软件，导致系统删除相关信任并弹出病毒警报。该更新原本用于应对DigiCert证书被盗后被黑客用于签署恶意软件的风险，但错误触发到了根证书。微软随后在1.449.430.0及后续版本中修复，受影响设备会自动撤销拦截。",
               "source_url": "https://www.landiannews.com/archives/112841.html",
@@ -386,39 +407,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Anthropic与SpaceX达成含太空开发的算力交易",
-              "brief": "Anthropic与SpaceX宣布达成一项算力交易，合作内容还涵盖太空开发。背景是Claude需求上升已令Anthropic基础设施承压，公司近期正连续签署算力协议扩容，其中也包括与亚马逊的数十亿美元协议。文中还提到马斯克此前多次批评Anthropic，但本周改称与其团队接触后印象深刻。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561620.htm",
+              "title": "消息称《GTA6》容量或接近200GB，标准版PS5存储承压",
+              "brief": "有爆料称《GTA6》安装容量可能接近200GB，引发PS5玩家对存储空间的关注。由于续作预期会采用更高精度画面、更大的音频文件和更细致的过场动画，容量较前作明显增加被认为有一定合理性。在爆料出现前，Reddit上已有玩家讨论150GB至200GB的现实范围，普遍态度更接近接受清理硬盘或升级SSD。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1561652.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-07T06:33:00+08:00"
+              "published_at": "2026-05-07T12:48:42+08:00"
             },
             {
-              "title": "Google关闭Project Mariner实验项目 技术将并入其他AI产品",
-              "brief": "Google关闭Project Mariner实验项目，并表示相关技术将整合进其他AI产品。该项目自2024年12月公布后一度更新到可同时执行最多10项任务，过去一年其能力已被并入Gemini Agent和AI Mode。报道还提到Chrome中的“自动浏览”功能，以及Google I/O将于5月19日开幕。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561618.htm",
+              "title": "网友给父亲买衣服，AI竟称是“寿衣”",
+              "brief": "有网友称，在“飞鸭AI记账”记录“花159元给爸爸买衣服”时，AI竟将商品联想到“寿衣”，随后在被质问后仍继续出言冒犯，引发争议。该应用主打带吐槽语气的聊天式记账与情绪陪伴，但用户输入中并未提供商品图片，相关说法被指系AI自行臆想。事后官方道歉，表示已紧急整改模型边界与敏感表述，并优化退款和用户服务流程，当事用户随后表示已注销账号并卸载软件。",
+              "source_url": "https://www.cnbeta.com.tw/articles/funny/1561650.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-07T06:32:33+08:00"
+              "published_at": "2026-05-07T12:46:05+08:00"
             },
             {
-              "title": "戴尔与联想成为Linux供应商固件服务高级赞助商",
-              "brief": "戴尔与联想成为Linux Vendor Firmware Service高级赞助商，将加深对Linux固件更新生态的资金和技术投入。随着SteamOS等发行版扩展及更多Linux整机出现，LVFS的重要性上升。高级赞助还提供定制功能、每月最多1500次固件上传和1000万次下载配额。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561616.htm",
+              "title": "法拉第未来暂停FX Super One 400V项目，升级800V纯电",
+              "brief": "法拉第未来宣布暂停原定的FX Super One 400V项目，转而推进800V纯电版本，并同步开发AIHER混增方案。公司称，800V架构相较400V在续航、补能速度和动力效率上更具产品力，尤其适合其后续产品布局。与此同时，EAI机器人业务已累计出货68台并实现单品正毛利，公司也正与潜在战略投资者洽谈，以减少短期现金支出和财务风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561648.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-07T06:30:25+08:00"
+              "published_at": "2026-05-07T12:45:05+08:00"
             },
             {
-              "title": "微软或下调AI数据中心清洁能源承诺",
-              "brief": "微软内部正讨论是否弱化更严格的“按小时匹配”清洁电力目标，原因是AI数据中心迅速扩张、用电需求飙升，这项承诺在公司内被视为可能限制业务增长。与常见的年度匹配不同，按小时匹配要求清洁电源更贴近实际负荷；微软近期还宣布将在得州与雪佛龙等合作建设5吉瓦天然气电厂，为数据中心集群供电，并仍维持2030年实现碳负排放目标。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561614.htm",
+              "title": "马斯克称xAI将更名为SpaceXAI，不再独立存在",
+              "brief": "马斯克表示，xAI将更名为SpaceXAI，不再作为独立公司存在，并计划与SpaceX合作开发数吉瓦级轨道AI算力。他给出的核心理由是，未来AI的能源需求将超出地球承载能力，因此更低成本的生成式AI计算可能转向太空。今年2月，SpaceX已通过全股票交易收购xAI，合并后xAI与X均被整合至SpaceX旗下，但其使命和每股估值将维持不变。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561646.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-07T04:14:07+08:00"
+              "published_at": "2026-05-07T12:44:37+08:00"
             },
             {
-              "title": "前OpenAI CTO米拉·穆拉蒂作证称无法信任奥特曼",
-              "brief": "前OpenAI首席技术官米拉·穆拉蒂在“马斯克诉奥特曼”案中作证称，她无法信任奥特曼的说法，尤其涉及某个新模型是否必须提交内部部署安全委员会审查。她表示，自己曾向时任总法律顾问Jason Kwon核实，发现其表述与奥特曼并不一致；出于谨慎，她最终仍确保该模型进入安全审查流程，并称奥特曼的管理方式曾让她更难开展工作。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561612.htm",
+              "title": "马斯克回应与Anthropic合作：若AI危害人类可收回算力",
+              "brief": "马斯克就与Anthropic的算力合作回应称，SpaceX愿按公平条款向采取正确措施、确保人工智能造福人类的公司提供算力，但若相关AI出现危害人类的行为，将保留收回算力的权利，并称即便自己一方犯错也会迅速采取行动解决问题。其同时在X上谈及税负，称自己2021年曾缴税逾100亿美元，若再计入遗产税，最终可能累计缴纳数万亿美元税款。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561644.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-07T03:34:39+08:00"
+              "published_at": "2026-05-07T12:43:12+08:00"
             }
           ]
         },
@@ -426,39 +447,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Culpium称苹果2026年MacBook Neo产量目标翻倍至1000万台",
-              "brief": "Culpium称，苹果已将2026年MacBook Neo的产量目标上调至1000万台，较原计划翻倍。背景是该机市场表现强劲，官网交付等待时间已长达4周，但扩产的关键障碍在于A18 Pro芯片供应。报告称，台积电3nm N3E产能被AI客户占满，苹果需为非降级版芯片支付溢价，叠加DRAM涨价，物料成本明显上升，未来不排除提价。",
-              "source_url": "https://www.ithome.com/0/947/100.htm",
+              "title": "iQOO Pad6 Pro 平板与 TWS 5i 耳机亮相，有望本月发布",
+              "brief": "iQOO Pad6 Pro 平板和 TWS 5i 无线耳机已亮相，消息称两款新品有望在本月发布。背景是 iQOO 15T 今天已开启全渠道预约，品牌新品节奏加快。Pad6 Pro 据称提供 16GB+512GB，配 13.2 英寸 4K LCD 屏、13000mAh 电池、90W 快充、8 扬声器，并有曼岛、灰晶、银翼配色。",
+              "source_url": "https://www.ithome.com/0/947/138.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-07T10:43:34+08:00"
+              "published_at": "2026-05-07T12:26:19+08:00"
             },
             {
-              "title": "新驾培国标实施，央广辟谣“科目二增至八项、难度翻倍”",
-              "brief": "总台中国之声辟谣称，5月1日起实施的并不是驾考新规，而是针对驾培机构和教练场的两项国家标准。新标准主要规范驾校办学资质、训练场建设和教学服务，并未调整小型汽车驾考项目或评判规则。科目二仍为原有5项，所谓“增至八项”源于训练场增设红绿灯、公交站台、斑马线等实景设施，同时要求收费明示、教练员持证上岗。",
-              "source_url": "https://www.ithome.com/0/947/098.htm",
+              "title": "武警捕歼演练画面公开：穿越机与机器狗参演",
+              "brief": "武警一次捕歼演练现场画面公开，穿越机和机器狗被纳入行动编组并参与实战化处置。背景是演练按未来战场需求设置复杂特情，强调把无人力量融入战术背景和协同训练。现场中，无人机先行高空侦察，突击组分两路行动，一组借助机器狗封控警戒，另一组操控穿越机入屋，对疑似藏匿点实施精准打击。",
+              "source_url": "https://www.ithome.com/0/947/137.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-07T10:41:31+08:00"
+              "published_at": "2026-05-07T12:19:18+08:00"
             },
             {
-              "title": "iQOO 15T开启全渠道预约，消息称采用Ultra同款设计语言",
-              "brief": "iQOO 15T已开启全渠道预约，爆料称新机将采用与Ultra相同的设计语言。现有消息显示，这款机型将继续强调性能定位，预计搭载天玑9500处理器，并配备144Hz屏幕、超过8000mAh电池和100W快充。作为参考，目前在售的iQOO Neo11于去年10月发布，采用6.82英寸2K 144Hz直屏，首销价2599元起。",
-              "source_url": "https://www.ithome.com/0/947/096.htm",
+              "title": "上汽 MG 4X 纯电 SUV 将于 5 月 11 日开启盲订",
+              "brief": "上汽 MG 宣布纯电 SUV MG 4X 将于 5 月 11 日开启盲订，并主打地平线博弈大模型和半固态电池。背景是该车此前已在工信部第 405 批新产品公示中现身，更多参数随之曝光。申报信息显示，新车长宽高为 4500×1849×1621（1627）毫米，轴距 2735 毫米，后轴配永磁同步电机，额定功率 80kW、峰值功率 150kW。",
+              "source_url": "https://www.ithome.com/0/947/135.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-07T10:37:57+08:00"
+              "published_at": "2026-05-07T12:16:28+08:00"
             },
             {
-              "title": "微软委托报告称Windows 11笔记本较MacBook Neo更具竞争力",
-              "brief": "微软委托Signal65发布报告称，多款Windows 11笔记本在性能和续航方面优于苹果MacBook Neo。报告选取联想、惠普四款机型对比，其中449美元的联想IdeaPad Slim 3x多线程性能高出92%，续航长56%。报告还指出，对比机型提供更大内存、存储和更多接口，而MacBook Neo的500尼特屏幕与36.5Wh电池组合被认为是续航短板。",
-              "source_url": "https://www.ithome.com/0/947/094.htm",
+              "title": "尼康预告尼克尔 Z 120-300mm f/2.8 TC VR S 镜头",
+              "brief": "尼康预告推出尼克尔 Z 120-300mm f/2.8 TC VR S 全画幅镜头，这是一支内置 1.4 倍增距镜的长焦变焦产品。背景是它属于 S-Line 系列，面向对光学性能和机动性都有要求的专业创作场景。官方称其焦距可由 120-300mm 扩展至 120-420mm，主打体育摄影等用途，并强调兼顾卓越光学表现与便携性。",
+              "source_url": "https://www.ithome.com/0/947/134.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-07T10:32:02+08:00"
+              "published_at": "2026-05-07T12:13:57+08:00"
             },
             {
-              "title": "Keychron扩充青柠磁轴系列，新增1款线性轴和2款段落轴",
-              "brief": "Keychron扩充了青柠磁轴家族，新增1款线性轴和2款段落轴，进一步丰富这一系列的产品选择。背景在于磁轴产品通常以线性手感为主，这次加入段落轴方案，与常见做法有所不同。官方给出的海外定价均为110颗29.99美元，并同步公布了这些轴体的结构与参数信息，方便用户按手感和规格进行区分。",
-              "source_url": "https://www.ithome.com/0/947/093.htm",
+              "title": "消息称马斯克曾试图让奥尔特曼加入特斯拉董事会",
+              "brief": "消息称，马斯克 2017 年底曾试图拉拢奥尔特曼加入特斯拉董事会，并讨论把 OpenAI 变成特斯拉子公司。背景是相关信息来自庭审与 OpenAI 一方陈述，围绕双方争议中的公司控制和融资安排展开。曾任 OpenAI 董事的 Shivon Zilis 表示，当时双方在讨论如何满足 OpenAI 的算力和资金需求；OpenAI 律师则称有书面证据显示，马斯克意在把 OpenAI 并入特斯拉。",
+              "source_url": "https://www.ithome.com/0/947/133.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-07T10:28:31+08:00"
+              "published_at": "2026-05-07T12:12:04+08:00"
             }
           ]
         },
@@ -466,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "抖音旗下火山引擎在苏州成立新科技公司，注册资本1000万元",
-              "brief": "天眼查显示，苏州深空引擎科技有限公司近日成立，由抖音旗下北京火山引擎科技有限公司全资持股。这意味着火山引擎在苏州新增一家科技主体，业务布局继续扩展。公司法定代表人为陆震洧，注册资本1000万元，经营范围包括计算机系统服务、数据处理、企业管理咨询、专业设计、云计算装备技术服务及相关软硬件零售等。",
-              "source_url": "https://36kr.com/newsflashes/3798632064457993?f=rss",
+              "title": "兴蓉环境：成都万兴环保发电厂三期完成“72+24”小时满负荷试运行",
+              "brief": "兴蓉环境公告，成都万兴环保发电厂三期项目3号机组近日完成“72+24”小时满负荷试运行，意味着万兴三期三台机组已全部通过这一关键测试。该项目由全资子公司成都市兴蓉再生能源有限公司投资建设，1号、2号机组此前已完成同类试运行并实现稳定并网发电。公司表示，下一步将尽快完成项目建设收尾，推动其有序转入商业运行。",
+              "source_url": "https://36kr.com/newsflashes/3798706774776839?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-07 10:48:21  +0800"
+              "published_at": "2026-05-07 12:49:16  +0800"
             },
             {
-              "title": "纳芯微发布ASIL D级隔离驱动芯片",
-              "brief": "纳芯微近日发布隔离栅极驱动芯片NSI6911F，这是其首款通过ASIL D认证的产品，面向高安全等级汽车应用。ASIL D是车规功能安全中的高等级要求，因此该芯片主打高压平台场景。产品最高可提供19A峰值驱动能力，实现150kV/μs共模瞬态抗扰度，适配800V及以上平台，并集成30多项安全机制以满足故障诊断覆盖率要求。",
-              "source_url": "https://36kr.com/newsflashes/3798619698633987?f=rss",
+              "title": "美国需求疲软，本田无限期冻结加拿大建厂计划",
+              "brief": "本田决定无限期冻结在加拿大建设电动汽车工厂的计划，原因是美国市场当前需求疲软，项目推进条件发生变化。这一电动车工厂原定于2028年开工，但本田去年已经把开工日期延后两年。除整车工厂外，公司原本还计划同步建设一座电池工厂，两项投资总额达150亿加元，约合110亿美元。",
+              "source_url": "https://36kr.com/newsflashes/3798746767990018?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-07 10:35:46  +0800"
+              "published_at": "2026-05-07 12:45:02  +0800"
             },
             {
-              "title": "沪深两市成交额突破1.5万亿元",
-              "brief": "36氪快讯称，沪深两市成交额已突破1.5万亿元，核心信息是当日沪市与深市合计交易金额站上这一整数关口。原文未进一步披露指数、板块或个股表现，也没有补充资金流向等更多数据，因此目前可确认的关键细节主要集中在两市总成交额超过1.5万亿元这一点上。",
-              "source_url": "https://36kr.com/newsflashes/3798616974023938?f=rss",
+              "title": "游戏驿站CEO科恩的eBay账户被永久停用",
+              "brief": "游戏驿站首席执行官瑞安·科恩在社交平台发文称，他的eBay账户已被停用，这一情况由其本人公开披露。根据他展示的截图，eBay认定该账户存在可能危及社区安全的行为，因此作出永久停用决定。目前公开信息仅显示平台通知结果，并未进一步说明具体触发原因或更多处置细节。",
+              "source_url": "https://36kr.com/newsflashes/3798706107833346?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-07 10:33:00  +0800"
+              "published_at": "2026-05-07 12:38:36  +0800"
             },
             {
-              "title": "韩国称将确保每年从加拿大进口至多3300万桶原油",
-              "brief": "韩国财政部长具润哲表示，韩国将根据自由贸易协定，通过降低关税的方式，确保每年从加拿大进口至多3300万桶原油。此举与能源进口安排相关，背景是韩方正借助既有贸易协定优化原油采购。关键细节包括年度进口上限为3300万桶，以及韩国还将同步简化加拿大原油的进口程序。",
-              "source_url": "https://36kr.com/newsflashes/3798608447052801?f=rss",
+              "title": "华为申请注册“华为云OFFICECLAW”等商标",
+              "brief": "华为技术有限公司近日申请注册“华为云OFFICECLAW”和“OFFICECLAW”商标，显示其正在推进这一名称的知识产权布局。天眼查信息显示，两项商标的国际分类为广告销售、网站服务，目前状态均为等待实质审查。公开工商资料还显示，该公司成立于1987年9月，注册资本约410.4亿元人民币，由华为投资控股有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3798705473019140?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-07 10:24:20  +0800"
+              "published_at": "2026-05-07 12:31:57  +0800"
             },
             {
-              "title": "汇丰上调香港2026年经济增长预期至3.8%",
-              "brief": "汇丰发布最新香港经济报告，将香港2026年和2027年本地生产总值增长预期分别上调至3.8%和3.0%。报告认为香港本地增长正在巩固，因此调整了后续经济判断。文中还提到，按香港经济结构看，中东冲突影响预计相对有限，“安全港”和互联互通吸引资本与人才，财富效应带动消费，人工智能推动投资。",
-              "source_url": "https://36kr.com/newsflashes/3798597969042440?f=rss",
+              "title": "花样年控股拟将境外债务重组截止日延至6月30日",
+              "brief": "花样年控股公告称，因预计无法及时取得完成境外债务重组所需的全部监管批准，公司拟将相关最后截止日期由2026年5月31日延长至2026年6月30日。此次调整将按照各项计划条款，寻求计划债权人批准。公司表示，这一安排出于审慎考虑，以便为重组在完成前争取更多时间和审批空间。",
+              "source_url": "https://36kr.com/newsflashes/3798730791181574?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-07 10:13:40  +0800"
+              "published_at": "2026-05-07 12:28:47  +0800"
             }
           ]
         }
