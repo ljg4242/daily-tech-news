@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T18:57:21.577870+08:00",
+  "generated_at": "2026-05-08T20:57:40.542939+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Grok AI 语音模式登陆苹果 CarPlay",
+              "brief": "SpaceXAI已为苹果CarPlay推出Grok语音模式，用户可直接在车载仪表盘上免手持向聊天机器人提问和发出请求。此前iPhone版Grok在CarPlay只显示“即将支持”的占位应用；Grok原本内置于特斯拉，如今其他车型也能通过CarPlay使用。苹果自iOS 26.4起允许第三方语音对话应用接入，但需采用语音控制模板并获特别授权，且不应显示文字或图像回复。",
+              "source_url": "https://www.macrumors.com/2026/05/08/grok-ai-voice-mode-apple-carplay/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-08T20:41:13+08:00"
+            },
+            {
+              "title": "苹果警告加拿大 C-22 法案或迫使其设置加密后门",
+              "brief": "苹果与Meta反对加拿大拟议的C-22法案，称其若在议会通过并按现有草案实施，可能迫使企业为加密用户数据加入后门。苹果将其与英国此前要求访问云端加密内容的做法相提并论；加拿大执法部门称法案有助更早调查安全威胁，而苹果表示这会削弱其提供用户期待的隐私与安全功能，并强调绝不会通过在产品中植入后门来破坏加密。",
+              "source_url": "https://www.macrumors.com/2026/05/08/apple-warns-canada-bill-force-encryption-backdoors/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-08T19:22:03+08:00"
+            },
             {
               "title": "Spotify 现可播放由 AI 代理生成的个人播客",
               "brief": "Spotify推出新功能，允许用户把由AI代理生成的“个人播客”直接保存到Spotify资料库，并像普通播客和音乐一样跨设备播放。用户安装GitHub发布的Save to Spotify CLI并登录账号后，可让OpenAI Codex、Claude Code等代理生成每日新闻摘要、课程笔记学习音频或每周行程播报；该功能目前仍为测试版，已向全球符合条件的免费版和Premium用户开放，测试期间设有使用限制。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
               "source_name": "MacRumors",
               "published_at": "2026-05-08T08:42:31+08:00"
-            },
-            {
-              "title": "Perplexity 新版 Mac 应用将 Personal Computer 带给 Pro 用户",
-              "brief": "Perplexity 发布新版 Mac 应用，并将混合本地与云端的 AI 代理“Personal Computer”扩展至 Pro 和 Enterprise 用户，不再仅限 Max 订阅者。该功能被定位为兼顾安全与效率的个人编排器，可访问文件系统、原生应用和网页，在安全沙箱中执行可审计、可回退的工作流，支持文本和语音指令，双按 Command 键即可唤起，适用于 macOS 14 及以上版本。",
-              "source_url": "https://www.macrumors.com/2026/05/07/perplexity-mac-app-personal-computer/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-08T05:56:35+08:00"
-            },
-            {
-              "title": "苹果发布 Safari Technology Preview 243，修复漏洞并提升性能",
-              "brief": "苹果发布 Safari Technology Preview 243，这是用于测试未来 Safari 功能的实验性浏览器更新。该版本继续为苹果收集开发者和用户反馈，带来辅助功能、CSS、JavaScript、媒体、网络、PDF、WebGPU、WebRTC 等多个模块的修复与改进，可与正式版 Safari 并行运行，支持 macOS Sequoia 和 macOS Tahoe，并可通过系统软件更新获取。",
-              "source_url": "https://www.macrumors.com/2026/05/07/apple-releases-safari-technology-preview-243/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-08T05:03:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Zens 半固态移动电源：小幅却值得关注的电池突破",
+              "brief": "Zens推出采用半固态电池技术的移动电源，9to5Mac认为这算不上颠覆性进展，但仍是值得关注的电池改良。背景在于半固态方案能在不明显增加体积的前提下提升稳定性与能量密度。该产品提供5000mAh和10000mAh两种版本，厚度分别约8毫米和14毫米，支持最高25W Qi2.2无线充电。",
+              "source_url": "https://9to5mac.com/2026/05/08/the-zens-semi-solid-state-powerbank-a-modest-but-worthwhile-battery-breakthrough/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-08T20:00:00+08:00"
+            },
             {
               "title": "苹果教育商店现要求资格验证，并新增 Apple Watch 折扣",
               "brief": "苹果开始在美国及澳大利亚、加拿大等市场要求教育商店购买前完成资格验证，不再沿用自报资格的方式。学生、家长和教职员工需通过UNiDAYS登录学校门户或上传证件，家庭教师要补充身份证明与居家教育文件；多数申请会即时通过，人工审核通常在24小时内回复，同时教育商店首次加入Apple Watch折扣，涵盖Series 11、SE和Ultra 3。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/05/07/spotifys-ai-powered-personal-dj-adds-support-for-more-countries-and-languages/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-08T07:12:43+08:00"
-            },
-            {
-              "title": "苹果通过新合作扩大在印度的环保举措",
-              "brief": "苹果宣布在印度扩大环保举措，新增三项合作，分别聚焦可再生能源、塑料污染治理和绿色创业。这延续了其近年在印度加码制造、零售与服务后的环境布局，细节包括投资约1060万美元，与CleanMax建设逾150兆瓦新增可再生能源产能，并与WWF-India、Acumen推进回收和绿色企业扶持。",
-              "source_url": "https://9to5mac.com/2026/05/07/apple-expands-environmental-initiatives-in-india-with-new-partnerships/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-08T06:22:39+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "模拟全球危机的霍尔木兹海峡游戏里没有赢家",
+              "brief": "免费浏览器游戏《瓶颈》把玩家置于霍尔木兹海峡危机中的虚构航运协调员位置，每天要在约2000艘受阻船只中决定少数通行名额。作品结合真实新闻报道与海运通行数据，强调这不是解开危机，而是在所有方案都有代价时选择较少伤害；决策涉及是否缴纳伊朗征收的通行费，以及可能推高油价、危及粮食和供水并触发多国饥荒倒计时。",
+              "source_url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-08T19:15:42+08:00"
+            },
+            {
+              "title": "火箭报告：Alpha Block 2今夏登场，猎鹰刷新助推器回收纪录",
+              "brief": "本期《火箭报告》汇总多条航天发射动态，指出尽管猎鹰9号仍是全球使用最广的火箭，SpaceX正以星舰计划主动推动其被替代。报告同时称，萤火虫航天准备在今年夏末首飞升级版Alpha Block 2；公司CEO贾森·金在5月4日财报电话会上确认推进，此前原版Alpha已于3月成功恢复飞行，新版本则在1月公布，将拉长一二级并升级航电。",
+              "source_url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-08T19:00:55+08:00"
+            },
+            {
               "title": "诉讼称国土安全部无权建大型DNA库追踪ICE批评者",
               "brief": "四名在芝加哥布罗德维尤ICE设施外和平抗议的人士起诉美国国土安全部和联邦调查局，要求法院叫停逮捕后采集、上传并长期保存DNA样本。原告称此举把DNA数据库并入ICE监控体系，侵犯第一、第四修正案并违反行政程序法；92起非移民逮捕中仅1人定罪，且与抗议本身无关。",
               "source_url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
@@ -155,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "摩托罗拉最便宜的2026款Moto G手机开局不顺",
-              "brief": "摩托罗拉最便宜的2026款Moto G系列开局不顺，评测认为售价199.99美元的Moto G（2026）相比更便宜的Moto G Play（2026）提升有限。过去该品牌低价机型通常各有定位，如今产品策略却显得混乱；新机只多了一枚后摄，芯片并未更新，耐用性、日常性能和系统更新承诺仍偏弱，虽然保留主摄表现、耳机孔、存储扩展和大电池等优点，但整体仍难令人推荐。",
-              "source_url": "https://www.androidauthority.com/motorola-moto-g-play-2026-review-3635255/",
+              "title": "谷歌将 Gmail 最智能写作功能开放给更多用户",
+              "brief": "谷歌正把升级版 Gmail“帮我写”功能扩展给更多用户，覆盖 Workspace 套餐和 Google One AI Premium。此前这一工具开放范围较小，此次更新旨在减少写邮件时在收件箱和资料之间来回切换。新版本可按提示调用 Gmail 与 Drive 中的信息，并参考过往已发送邮件匹配个人语气，5月5日起分批推送，最长需15天。",
+              "source_url": "https://www.androidauthority.com/gmail-help-me-write-upgrades-wide-rollout-3665099/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-08T18:30:17+08:00"
+              "published_at": "2026-05-08T20:35:40+08:00"
             },
             {
-              "title": "ChatGPT现可在危急时刻提醒“可信联系人”",
-              "brief": "ChatGPT新增“可信联系人”功能，允许成年用户在疑似危机场景下让系统通知一名受信任成年人，以获得现实中的支持。此举与平台此前卷入多起自残相关事件有关，因此OpenAI除自动检测外还引入受过专门训练的人工审核员判断是否存在安全风险；功能为可选项，联系人可接受或拒绝邀请，收到的只是提醒而非聊天全文。",
-              "source_url": "https://www.androidauthority.com/chatgpt-trusted-contact-3665049/",
+              "title": "索尼确认 Xperia 1 VIII 发布时间，并暗示新相机凸起设计",
+              "brief": "索尼确认 Xperia 1 VIII 将于美国东部时间 5 月 12 日晚 10 点发布，并暗示新机后摄模组会有明显改动。该机此前曾短暂现身亚马逊页面，如今已由官方定档，发布会将在日本举行并通过 YouTube 直播。现有信息显示，它预计配备 6.5 英寸 120Hz OLED 屏幕、三摄系统、3.5 毫米耳机孔，且售价可能高于前代。",
+              "source_url": "https://www.androidauthority.com/sony-xperia-1-viii-launch-date-3665083/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-08T18:07:06+08:00"
+              "published_at": "2026-05-08T20:25:57+08:00"
             },
             {
-              "title": "Galaxy Buds 4 Pro虽好，但搭配Pixel问题重重",
-              "brief": "作者称Galaxy Buds 4 Pro本身依旧舒适、音质出色，但与Pixel等非三星手机搭配时，使用体验几乎到了“坏掉”的程度。问题核心在于主屏小组件：在非三星设备上完成设置后会立刻自删，作者在多款Pixel和摩托罗拉手机上都复现了这一现象；虽然可通过应用内提示临时找回一次，但误删后往往只能重置相关应用，才能重新看到添加入口。",
-              "source_url": "https://www.androidauthority.com/galaxy-buds-4-mess-on-pixel-3662682/",
+              "title": "Android 照片选择器或终于补上最大缺失功能",
+              "brief": "谷歌似乎正为 Android 照片选择器加入内置相机快捷入口，这一迹象出现在 Android 17 QPR1 Beta 2 中。该组件原本用于让第三方应用安全调用本地或云端媒体，但一直不能直接拍照，导致开发者常需另做相机入口，界面体验因此分散。与此同时，照片选择器已在测试版中支持删除搜索历史，新相机入口若上线，或可减少应用各自重复实现。",
+              "source_url": "https://www.androidauthority.com/android-photo-picker-camera-shortcut-apk-teardown-3665063/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-08T18:00:49+08:00"
+              "published_at": "2026-05-08T20:13:41+08:00"
             },
             {
-              "title": "YouTube最新测试可能打乱你的操作肌肉记忆",
-              "brief": "YouTube正在测试新的移动端信息流导航，把原本位于底栏的“订阅”标签移到顶部可横向滑动的分类区，以减少额外点按。调整背后是平台继续重组内容入口的尝试，此前它也开始允许用户在首页隐藏Shorts；新界面更接近X等应用的左右滑动切换方式，同时电影与电视等板块位置也可能变化，但目前仅向部分Android和iPhone用户开放。",
-              "source_url": "https://www.androidauthority.com/youtube-navigation-feed-3665006/",
+              "title": "任天堂上调 Switch 2 售价，已追平 PS5 原始首发价",
+              "brief": "任天堂确认将上调 Switch 2 在多个地区的售价，其中美国价格会在 2026 年 9 月 1 日从 449.99 美元涨至 499.99 美元。主机通常会随生命周期推进而降价，因此这次逆势调整格外受关注，也让它达到 PS5 当年首发价位。加拿大、欧洲和日本也会同步涨价，日本连更早的 Switch 机型都将一并调整。",
+              "source_url": "https://www.androidauthority.com/nintendo-switch-2-price-hike-3665029/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-08T17:56:59+08:00"
+              "published_at": "2026-05-08T19:48:10+08:00"
             },
             {
-              "title": "Google将关闭这项把电脑文件夹备份到Google Photos的便捷方式",
-              "brief": "Google将取消通过Drive桌面版把电脑文件夹中的照片和视频备份到Google Photos的方式，相关整合即将下线。背景是该应用长期同时承担云盘同步与媒体备份功能，而现有已上传内容不会受影响；从6月15日起用户将无法新建用于Photos的备份文件夹，现有文件夹暂时继续同步，至8月10日桌面应用将停止这项支持，之后需改用Google Photos网站设置备份。",
-              "source_url": "https://www.androidauthority.com/google-photos-drive-desktop-backup-killed-3665001/",
+              "title": "拆解显示这款约 2000 美元的 Ultra 手机采用塑料后盖",
+              "brief": "JerryRigEverything 拆解 OPPO Find X9 Ultra 后发现，橙色版后盖采用塑料材质，而这款手机在英国和欧洲售价约为 2000 美元。之所以引发关注，是因为高价旗舰通常使用玻璃等被视为更高端的材料。视频还指出，塑料后盖在重量和抗裂方面有优势；此外，这款手机顺利通过弯折测试，另有一款版本改用金属与素皮组合设计。",
+              "source_url": "https://www.androidauthority.com/jerryrigeverything-ultra-phone-plastic-back-3665057/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-08T17:50:50+08:00"
+              "published_at": "2026-05-08T19:16:56+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "ChatGPT可在用户有自残风险时联系朋友",
+              "brief": "OpenAI为ChatGPT推出“可信联系人”功能，若系统判断用户存在严重自残风险，可联系其预先指定的朋友求助。此举源于越来越多人把ChatGPT当作心理支持工具，且OpenAI称其每周8亿用户中有逾百万人会谈及自杀念头，先前相关诉讼与BBC调查也促使公司改进应对方式。18岁以上用户可添加一名成年联系人，对方须在一周内接受邀请；系统会先提醒用户并建议主动联系，只有受训人工团队确认高风险后，才会通过邮件或短信通知联系人。",
+              "source_url": "https://www.engadget.com/2167709/chatgpt-trusted-contact-openai/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-08T20:17:57+08:00"
+            },
+            {
+              "title": "大疆预告双摄Osmo Pocket 4P云台相机",
+              "brief": "大疆预告将于2026年推出配备双摄的Osmo Pocket 4P云台相机，主打广角与竖拍等更灵活的移动创作。官方目前只展示了更大的机身和双镜头设计，其中包括一枚1英寸传感器广角镜头与一枚3倍变焦镜头。文中提及的大量泄露信息显示，新机还将支持最高4K 240fps录制、14档动态范围的10位D-Log色彩、哈苏调校、最高128GB内置存储，以及三轴机械云台、升级版ActiveTrack和翻转触屏。",
+              "source_url": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-08T20:00:00+08:00"
+            },
+            {
+              "title": "索尼希望借助台积电生产图像传感器",
+              "brief": "索尼计划与台积电在日本成立新合资项目，建设下一代图像传感器生产能力，项目将设在索尼位于合志市的新工厂。报道显示索尼主导该计划，并借助台积电在制程技术和制造上的优势，双方也希望争取日本政府进一步激励。此举符合十时裕树推动索尼向更聚焦IP、减少自有制造资产的“fab-light”战略；随着堆栈式传感器愈发复杂，索尼希望借此保持在相机、汽车等应用中的竞争力。",
+              "source_url": "https://www.engadget.com/2167681/sony-tsmc-image-sensor-joint-venture/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-08T19:35:29+08:00"
+            },
             {
               "title": "晨间速览：谷歌新款可穿戴设备没有屏幕",
               "brief": "谷歌在 I/O 开幕前提前预告 Fitbit Air，这是一款没有屏幕的可穿戴设备，可放入腕带或胸带使用。产品面向健身追踪用户，重约12克，今日开启100美元预购，5月26日发售；其核心是自去年10月起公开预览、由 Gemini 驱动的 Google Health Coach，可依据个人数据生成动态训练建议，购机含3个月高级服务，之后月费10美元。",
@@ -207,33 +242,26 @@
               "source_url": "https://www.engadget.com/2167631/nintendo-raises-switch-2-prices/",
               "source_name": "Engadget",
               "published_at": "2026-05-08T16:59:32+08:00"
-            },
-            {
-              "title": "Instructure 黑客称窃取近 9000 所学校数据",
-              "brief": "勒索组织 ShinyHunters 声称入侵教育云服务商 Instructure 后，从全球8809所学校窃取了2.8亿条教师、学生和员工记录。Instructure 以 Canvas 闻名，学校用它托管课程与作业；黑客还篡改部分学校登录页面，威胁若5月12日前未达成和解就公开数据，而公司已确认姓名、邮箱、学号和站内消息等信息被盗。",
-              "source_url": "https://www.engadget.com/2167627/instructure-hack-schools/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-08T16:50:56+08:00"
-            },
-            {
-              "title": "内存短缺拖累索尼 PS5 销量大跌",
-              "brief": "索尼在截至2026年3月的第四财季仅售出150万台PS5，较上年同期下降46%，并预计下一财年游戏业务营收再降6%。这一下滑发生在内存短缺持续之际，公司因此在不到一年内两次上调PS5售价。尽管FY25游戏业务全年营收微增至4.69万亿日元、营业利润增至4633亿日元，索尼仍称FY26主机销量将取决于能否以合理价格采购到足够内存。",
-              "source_url": "https://www.engadget.com/2167611/sony-ps5-sales-fall-off-a-cliff-amid-memory-shortages/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-08T15:35:41+08:00"
-            },
-            {
-              "title": "Twitch将对刷观看量主播实施新处罚",
-              "brief": "Twitch宣布未来几周将推出新的刷量处罚，对被认定持续利用第三方工具人为抬高直播同时观看人数的频道，在固定期限内限制其并发观看数在平台各处的显示。公司表示，刷量损害业务且检测难度很高，相关工具提供方会快速更新以逃避实时识别，因此不会公开全部执法方式；限额将参考创作者历史上的非刷量流量，重复违规时处罚时长还会增加。",
-              "source_url": "https://www.engadget.com/2167521/twitch-has-new-penalties-for-streamers-caught-viewbotting-ceo-says/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-08T07:23:12+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Nanoleaf将未来押注于机器人、红光疗法和AI",
+              "brief": "Nanoleaf预告了三款围绕具身AI的新产品，准备把品牌重心从智能照明扩展到机器人、红光疗法和AI。背景是首席执行官Gimmy Chu表示，智能照明正在商品化，促使公司调整方向。关键细节是这次亮相聚焦三款新品，重点已不再只是灯具，而是新的产品类别。",
+              "source_url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+              "source_name": "The Verge",
+              "published_at": "2026-05-08T08:15:00-04:00"
+            },
+            {
+              "title": "苹果教育优惠现需提供资格证明",
+              "brief": "苹果现在要求美国用户在线购买教育优惠产品时先证明资格，学生、家长和教师需通过第三方服务Unidays完成验证。背景是这套验证机制此前已在英国等市场使用，如今重新引入美国。关键细节是教育优惠首次适用于Apple Watch，且该流程也正扩展到加拿大、澳大利亚、香港、土耳其和智利。",
+              "source_url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
+              "source_name": "The Verge",
+              "published_at": "2026-05-08T07:53:57-04:00"
+            },
             {
               "title": "索尼PS5销量在涨价与内存危机下大跌",
               "brief": "索尼最新财年第四季度仅售出150万台PS5，同比下滑46%，并预计年度游戏业务营收将下降6%。这一下滑发生在过去一年两度涨价之后，标准版PS5价格已从499.99美元升至649.99美元；索尼称全球经济压力、持续的内存危机以及伊朗战争带来的压力推高了成本，并表示FY26硬件销量将取决于能否以合理价格采购到内存，2月时仅称已锁定满足年末购物季的最低需求量。",
@@ -254,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
               "source_name": "The Verge",
               "published_at": "2026-05-07T17:29:27-04:00"
-            },
-            {
-              "title": "米拉·穆拉蒂的证词揭开萨姆·奥尔特曼被罢免内幕",
-              "brief": "前OpenAI首席技术官米拉·穆拉蒂在与埃隆·马斯克和萨姆·奥尔特曼有关的OpenAI未来诉讼中出庭作证，披露了奥尔特曼被罢免时更多幕后情况。此事受关注，是因为她的证词被视为还原当时董事会风波的重要线索。她还拿出了相关记录，但报道指出，这些材料更多让她本人对事件的说法显得更加混乱。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-              "source_name": "The Verge",
-              "published_at": "2026-05-07T15:55:22-04:00"
-            },
-            {
-              "title": "苹果用于 AI 的带摄像头 AirPods 据称接近量产测试",
-              "brief": "据彭博社马克·古尔曼报道，苹果带摄像头的AirPods已接近进入早期量产测试，内部测试人员正积极使用原型机。其背景是苹果希望把更多视觉输入交给AI与Siri处理。该设备目前处于设计验证测试阶段，仅比生产验证测试早一步；摄像头不会用于拍照录像，而是采集低分辨率画面供问答、导航等功能使用。",
-              "source_url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-              "source_name": "The Verge",
-              "published_at": "2026-05-07T15:39:22-04:00"
             }
           ]
         }
@@ -280,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "任天堂宣布上调Switch 2售价并致歉",
-              "brief": "任天堂宣布因市场环境变化上调Switch 2售价，并就此次调价致歉。公司表示相关影响预计将在中长期持续，因此日本以外地区也将调整价格；此前微软和索尼也曾在经济承压、AI带动元件短缺及物流成本上升的背景下提价。美国售价将于2026年9月1日由449.99美元升至499.99美元，加拿大由629.99加元升至679.99加元，欧洲由469.99欧元升至499.99欧元。",
-              "source_url": "https://www.ign.com/articles/nintendo-announces-switch-2-price-rise-in-light-of-changes-in-market-conditions-issues-apology",
+              "title": "PlayStation披露AI用法：工具不是艺术家和创作者的替代品",
+              "brief": "索尼在面向投资者的业绩说明中介绍了PlayStation内部的AI应用，并强调这类工具不会取代艺术家和创作者。公司将其定位为提升开发与运营效率的辅助手段，顽皮狗和圣迭戈工作室已在使用相关工具，涵盖表演捕捉生成动画、《地平线 零之曙光 复刻版》艾洛伊发型3D建模、PS5 Pro画质增强，以及支付路由、个性化推荐和影视内容保护等。",
+              "source_url": "https://www.ign.com/articles/playstation-details-ai-use-insists-tools-are-not-a-replacement-for-artists-or-creators",
               "source_name": "IGN",
-              "published_at": "2026-05-08T15:29:40+08:00"
+              "published_at": "2026-05-08T19:26:41+08:00"
             },
             {
-              "title": "下一款官方WRC游戏由新工作室Grit Games开发",
-              "brief": "Nacon宣布下一款官方WRC游戏将由新工作室Grit Games开发，而非许多人原先认为的KT Racing。该作建立在Nacon重新拿下2027至2032年WRC官方授权的基础上，此前Codemasters在2023年《EA Sports WRC》后暂停了未来拉力游戏计划。官方目前只透露新作将从零开始开发并采用Unreal Engine 5，团队中还有多名曾参与KT Racing时期WRC系列的成员。",
-              "source_url": "https://www.ign.com/articles/next-official-wrc-game-being-developed-by-new-studio-grit-games",
+              "title": "《流放之路2》公布“远古回归”：2026年1.0前最后一次大型更新",
+              "brief": "《流放之路2》公布“远古回归”更新，并称其为2026年稍后1.0正式版前的最后一次大型更新。该版本将加入50多小时全新终局内容、重做后的Atlas天赋树、挑战系统与扩展制作机制，同时带来武术家和灵行者两种新升华、5条新剧情线、15名新Boss、构筑规划器，以及实时搜索地图等多项体验改进。",
+              "source_url": "https://www.ign.com/articles/path-of-exile-2-reveals-return-of-the-ancients-the-final-major-update-before-10-launch-later-in-2026",
               "source_name": "IGN",
-              "published_at": "2026-05-08T13:25:52+08:00"
+              "published_at": "2026-05-08T19:13:33+08:00"
             },
             {
-              "title": "《新蝙蝠侠2》将以冬季为背景，马特·里夫斯预告雪中哥谭",
-              "brief": "马特·里夫斯发布带有“雪地轮胎”标签的帖子，展示《新蝙蝠侠2》摄影机测试画面，并向粉丝确认这些镜头来自续集，画面中蝙蝠车正穿过暴风雪中的哥谭。关于本片采用冬季背景的传闻已流传一段时间，导演早在2022年也谈过为这一系列塑造更写实版急冻人的可能性。他这次还转发了蝙蝠侠雪地漫画封面，因此再次带动了急冻人可能登场的讨论。",
-              "source_url": "https://www.ign.com/articles/the-batman-part-ii-set-in-winter-as-matt-reeves-teases-snow-bound-gotham",
+              "title": "索尼称尚未决定PS6发布时间和售价，内存短缺仍将持续",
+              "brief": "索尼表示尚未决定PS6何时推出以及售价如何，原因之一是内存供应和价格压力仍将持续。公司在财报问答中称，当前财年PS5出货预期取决于能否以合理价格获得足够内存，虽然现有材料足以支撑到2026年末，但2027财年内存价格预计仍将维持高位，而面向下一代平台的投资已计入利润预测。",
+              "source_url": "https://www.ign.com/articles/sony-says-it-hasnt-decided-when-to-launch-ps6-nor-how-much-it-will-cost-with-memory-shortages-set-to-continue",
               "source_name": "IGN",
-              "published_at": "2026-05-08T08:20:00+08:00"
+              "published_at": "2026-05-08T18:44:37+08:00"
             },
             {
-              "title": "安迪·瑟金斯称赞《光与影：33号远征队》，称好莱坞对游戏的偏见正在改变",
-              "brief": "安迪·瑟金斯近日谈到《光与影：33号远征队》时，高度评价这款作品的最终呈现，并表示很高兴看到开发团队取得成功。借这次经历，他认为游戏行业这些年已明显成熟，好莱坞过去对电子游戏不如电影的那种轻视正在松动，如今不少年轻演员甚至会把参演游戏当成目标。瑟金斯特别提到，本作的画面、音乐和情感故事都很出色，而游戏引擎如今也被广泛用于电影动作场面的预演、镜头安排和灯光规划。",
-              "source_url": "https://www.ign.com/articles/andy-serkis-praises-expedition-33-says-hollywoods-snobbery-towards-video-game-is-changing",
+              "title": "任天堂传奇设计师手冢卓志即将退休",
+              "brief": "任天堂传奇设计师手冢卓志将于6月26日退休，结束超过四十年的开发生涯。公司在最新投资者说明中披露了这一安排；他自1984年加入后，先后参与《超级马力欧兄弟》《塞尔达传说》《超级马力欧兄弟3》《超级马力欧世界》等核心作品，并在后续多年担任《超级马力欧制造》《超级马力欧3D世界》《旷野之息》等项目的制作人与监修。",
+              "source_url": "https://www.ign.com/articles/legendary-nintendo-designer-takashi-tezuka-set-to-retire",
               "source_name": "IGN",
-              "published_at": "2026-05-08T05:51:42+08:00"
+              "published_at": "2026-05-08T18:18:30+08:00"
             },
             {
-              "title": "《GTA 6》11月发售前，Rockstar预告《GTA Online》今夏将迎来新更新",
-              "brief": "Rockstar预告《GTA Online》将在今年夏天推出“令人兴奋”的新更新，并配合一系列特别活动与庆祝内容。背景是《GTA 6》定于2026年11月19日登陆PS5和Xbox Series X|S，这让玩家开始关注现有线上模式接下来会如何发展。现阶段官方没有说明这是否会是《GTA Online》的最后一次大型更新，也没有任何迹象显示新作推出后会立即关闭当前服务器。",
-              "source_url": "https://www.ign.com/articles/with-gta-6-due-out-in-november-rockstar-teases-exciting-new-update-for-gta-online-this-summer",
+              "title": "任天堂预计Switch 2销量同比下滑，但仍快于初代Switch",
+              "brief": "任天堂预计Switch 2在下一财年的销量将低于发售首年的表现，但累计节奏仍会快于初代Switch。公司称销量更集中在首发年度，当前财年目标为1650万台，低于上市以来已售出的1986万台；按这一预测，发售22个月后的累计销量仍领先同期Switch 1。财报同时确认，Switch 2将于9月1日涨价50美元至499.99美元。",
+              "source_url": "https://www.ign.com/articles/nintendo-expects-switch-2-sales-to-decline-year-on-year-but-still-pace-ahead-of-switch-1",
               "source_name": "IGN",
-              "published_at": "2026-05-08T05:25:24+08:00"
+              "published_at": "2026-05-08T17:32:14+08:00"
             }
           ]
         },
@@ -459,6 +473,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "拉加德质疑欧元稳定币的必要性",
+              "brief": "欧洲央行行长拉加德表示，欧元稳定币的实际必要性比表面看起来更弱，不应被视为提升欧元国际吸引力的高效路径。她以硅谷银行倒闭期间USDC价格大跌为例，称稳定币在市场动荡中易遭集中抛售和挤兑，既会冲击金融体系，也会削弱货币政策传导。她并援引欧洲央行研究，指出大规模替代银行存款会压缩企业信贷供给，相比之下更支持代币化商业银行存款。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1561808.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-08T20:32:28+08:00"
+            },
+            {
               "title": "女演员起诉《阿凡达》侵犯肖像权：线索来自卡梅隆自述",
               "brief": "《阿凡达》导演詹姆斯·卡梅隆因奈蒂莉形象设计被女演员克奥利安卡起诉，核心争议是她认为自己的外貌特征被未经授权用于角色塑造。线索来自卡梅隆2024年4月在巴黎成就展上的回顾，他称奈蒂莉灵感来自她14岁出演《新世界》时的样貌；报道还提到2009年影片上映后，他曾邀她参观工作室并称赞其容貌，目前卡梅隆和迪士尼均未正式回应。",
               "source_url": "https://www.cnbeta.com.tw/articles/movie/1561806.htm",
@@ -485,13 +506,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1561800.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-08T18:38:12+08:00"
-            },
-            {
-              "title": "Switch 2首年售出1986万台，任天堂下财年目标1650万台",
-              "brief": "任天堂披露，Switch 2在上市后的首个完整财年累计销量达到1986万台，下一财年目标再售1650万台。公司表示，其同期表现已超过初代Switch，且仅第四财季就新增出货249万台；受新主机和软件热销带动，专用游戏平台业务收入升至2.23万亿日元，Switch 2平台软件全年销量为4871万份，下一财年预计增至6000万份。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1561798.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-08T17:23:44+08:00"
             }
           ]
         },
@@ -499,39 +513,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "上交所本周重点监控*ST正平、国晟科技等股票及全球芯片LOF等基金",
-              "brief": "上交所表示，本周将对*ST正平、国晟科技等股票，以及全球芯片LOF等基金实施重点监控，监管对象覆盖股票与基金产品。原文目前披露的核心信息主要是被点名的代表性标的和“重点监控”这一监管动作本身，未进一步展开触发原因、具体监控措施、执行时点细则或后续处置安排。",
-              "source_url": "https://36kr.com/newsflashes/3800525088709639?f=rss",
+              "title": "亚马逊北弗吉尼亚数据中心云服务中断基本解决",
+              "brief": "亚马逊表示，北弗吉尼亚一处数据中心因过热引发的云服务中断已基本恢复，受影响业务正在回到正常状态。该数据中心隶属亚马逊云计算部门，此前故障曾波及多家依赖其基础设施的企业服务。报道提到，加密货币交易所Coinbase等公司一度受到影响，显示单点设施异常仍可能外溢至广泛客户。",
+              "source_url": "https://36kr.com/newsflashes/3800643618249730?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-08 18:54:02  +0800"
+              "published_at": "2026-05-08 20:54:37  +0800"
             },
             {
-              "title": "科大讯飞与中国移动联合发布“灵犀·星火智盒”系列产品",
-              "brief": "科大讯飞与中国移动在2026中国移动云大会主论坛上联合发布“灵犀·星火智盒”系列产品，面向党政等场景推进智能终端落地。已披露的讯飞星火党政智盒整机搭载飞腾新一代8核桌面CPU腾锐D3000M，支持独立部署或与PC深度协同，实现在岗PC操控、离岗自主值守和手机远程管控等全天候智联能力。快讯给出的关键信息集中在发布动作、硬件配置与应用形态三部分。",
-              "source_url": "https://36kr.com/newsflashes/3800522478181381?f=rss",
+              "title": "高盛：美国数据中心用电需求或两年内翻倍",
+              "brief": "高盛预计，美国数据中心用电需求将在未来两年接近翻倍，从2025年的31吉瓦升至2026年的41吉瓦，并在2027年进一步增至66吉瓦。该行认为，AI数据中心扩张正重塑美国选址格局。得州和佐治亚州因电力供应扩张更快、接入能力更强，正成为重要集聚地，相关项目也在向这些地区集中。",
+              "source_url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-08 18:51:23  +0800"
+              "published_at": "2026-05-08 20:54:16  +0800"
             },
             {
-              "title": "大普微：AI带动的企业级SSD存储需求发展存在一定波动和不确定性",
-              "brief": "大普微公告称，近期公司经营情况及内外部经营环境未发生重大变化，但AI带动的企业级SSD存储需求发展存在波动和不确定性。公司说明，这一需求受AI商业化节奏、云计算投入以及下游应用景气度变化影响，因此提醒投资者理性投资并注意风险。现有披露重点在需求侧变化与风险提示，未提及新的重大经营事项或业务调整安排。",
-              "source_url": "https://36kr.com/newsflashes/3800521700039684?f=rss",
+              "title": "温州宏丰：白银价格波动或给业绩带来不确定性",
+              "brief": "温州宏丰表示，公司股票在截至5月8日的连续三个交易日内收盘价涨幅偏离值累计超过30%，属于异常波动。公司提醒，白银价格同时受宏观经济、货币政策、供需格局和地缘政治等多重因素影响，波动幅度较大。若银价后续继续剧烈变化，可能给公司业绩带来不确定性，公司存在业绩波动风险。",
+              "source_url": "https://36kr.com/newsflashes/3800640180083718?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-08 18:50:35  +0800"
+              "published_at": "2026-05-08 20:51:07  +0800"
             },
             {
-              "title": "现货白银日内涨幅扩大至3%",
-              "brief": "36氪快讯称，现货白银日内涨幅扩大至3%，最新报80.8美元/盎司，显示盘中价格继续上行。原文披露的信息主要包括当日涨幅扩大这一变化，以及对应的最新报价水平，重点在即时行情更新本身。快讯未进一步说明推动银价上涨的具体原因、前序价格区间、成交背景或后续走势情况，信息范围主要停留在盘中价格变动层面。",
-              "source_url": "https://36kr.com/newsflashes/3800519142317057?f=rss",
+              "title": "热门中概股美股盘前多数上涨，百度涨超5%",
+              "brief": "热门中概股在美股盘前多数上涨，百度涨幅超过5%，B站涨超2%，爱奇艺、微博、理想汽车和小鹏集团均涨超1%。阿里巴巴上涨0.95%，蔚来上涨0.85%，拼多多则下跌0.5%。整体看，盘前涨跌分化不大，但百度领涨最为明显，快讯列出了截至发稿时各主要中概股的最新表现。",
+              "source_url": "https://36kr.com/newsflashes/3800639633415424?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-08 18:47:59  +0800"
+              "published_at": "2026-05-08 20:50:33  +0800"
             },
             {
-              "title": "永杉锂业拟设合资公司投建年产3万吨电池级碳酸锂生产线项目",
-              "brief": "永杉锂业公告称，公司与南充经开区管委会签署《锂盐项目投资协议》，拟在四川南充经开化工园区建设锂盐项目，并设立合资公司推进。项目计划分两期建设，一期建设年产3万吨电池级碳酸锂生产线，二期将根据产品市场情况及一期运营情况适时启动，规划再建年产3万吨锂盐产品生产线。拟设合资公司注册资本6亿元，其中公司持股99%。",
-              "source_url": "https://36kr.com/newsflashes/3800516681899272?f=rss",
+              "title": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+              "brief": "美股大型科技股盘前整体多数上涨，截至发稿，特斯拉、苹果、Arm和英伟达均涨超1%，亚马逊上涨0.36%，Meta上涨0.19%。与此同时，微软下跌0.21%，谷歌下跌0.07%。这则快讯集中呈现开盘前主要科技权重股的涨跌分布，整体分化有限，其中英伟达与特斯拉等个股表现相对更强。",
+              "source_url": "https://36kr.com/newsflashes/3800638528986369?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-08 18:45:29  +0800"
+              "published_at": "2026-05-08 20:49:26  +0800"
             }
           ]
         }
