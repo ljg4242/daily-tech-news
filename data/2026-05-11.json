@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T02:49:21.023350+08:00",
+  "generated_at": "2026-05-11T04:52:05.307630+08:00",
   "sections": [
     {
       "category": "主要",
@@ -35,6 +35,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果可如何进一步改进 iCloud+ 的“隐藏邮箱”功能",
+              "brief": "9to5Mac 认为，苹果面向 iCloud+ 用户的“隐藏邮箱”自 iOS 15 推出后多年改进有限。它能为不同服务生成独立替代地址，避免商家获取主邮箱，并让用户随时停用单个地址，但现在多数时候仍藏在设置中，Safari、系统应用和少数第三方应用可用，macOS 覆盖更零散。文章建议提升入口可见性，可考虑并入“密码”应用，为 Chrome 扩展加入任意邮箱栏生成地址的能力，并支持自定义域名。",
+              "source_url": "https://9to5mac.com/2026/05/10/apple-hide-my-email-icloud-feature-requests-improvements/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-11T03:16:13+08:00"
+            },
+            {
               "title": "Apple @ Work：ASBMUtil 为 Apple Business 体验带来原生 macOS 应用",
               "brief": "文章围绕 ASBMUtil 展开，称其把原生 macOS 应用带入 Apple Business 体验，核心变化是企业相关功能出现了桌面端原生形态。背景是内容隶属 Apple @ Work，聚焦苹果在工作场景中的产品与工具；从输入可确认的细节只有名称 ASBMUtil、macOS 原生应用定位，以及所附摘要文字与该标题内容并不对应。",
               "source_url": "https://9to5mac.com/2026/05/09/asbmutil/",
@@ -46,6 +53,13 @@
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Fitbit Air 配备状态灯和双击手势，并与 Whoop 进行尺寸对比",
+              "brief": "Google披露了 Fitbit Air 硬件细节：“pebble”机身左侧带状态灯，顶部双击可唤醒灯光，也可用于静音 Smart Wake 和单次闹钟。状态灯会显示充电、低电量、固件更新等信息，更换表带时需按标记对齐方向；美国十家 Google Store 摆出演示机，并出现与 Whoop 的尺寸对比，显示 Fitbit Air 更窄。",
+              "source_url": "https://9to5google.com/2026/05/10/fitbit-air-whoop-size/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-11T03:46:04+08:00"
+            },
             {
               "title": "Google Health 取代我们熟悉的 Fitbit，但未必是坏事",
               "brief": "Google 即将把 Fitbit 应用正式更名为 Google Health，功能层面变化不大，重点是启用去年预览的新界面，并加入 AI 健身教练，继续强化睡眠与健康追踪。与此同时，长期被冷落的 Google Fit 将并入新应用，iOS 版还能接入 Apple Health，把 Apple Watch、Peloton 和 MyFitnessPal 等来源的数据汇总到同一处查看。",
@@ -106,6 +120,20 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "通用汽车同意支付1275万美元，和解加州驾驶数据滥用诉讼",
+              "brief": "通用汽车已同意支付1275万美元民事罚款，和解加州总检察长就其不当使用客户驾驶数据提起的诉讼，并被禁止在五年内向消费者报告机构出售驾驶数据。此案源于《纽约时报》2024年报道，称GM通过OnStar收集姓名、联系方式、地理位置和驾驶行为数据并卖给数据经纪商。根据协议，GM须在180天内删除保留的驾驶数据，除有限内部用途外，继续使用须取得客户明确同意。",
+              "source_url": "https://www.engadget.com/2169135/gm-agrees-to-pay-12-75-million-to-settle-california-lawsuit-over-misuse-of-customers-driving-data/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-11T03:45:30+08:00"
+            },
+            {
+              "title": "杜阿·利帕起诉三星，索赔1500万美元",
+              "brief": "杜阿·利帕已起诉三星，索赔1500万美元，指控其未经许可或付费就在电视纸箱包装上使用自己的面部照片销售产品。诉状称，这让消费者误以为她为相关电视背书，并构成版权、商标及未经授权的商业利用侵权。她于2025年6月左右发现此事后多次要求停止，但涉事产品据称至今仍在销售，所用照片拍摄于2024年奥斯汀城市极限音乐节后台。",
+              "source_url": "https://www.engadget.com/2169117/dua-lipa-is-suing-samsung-for-15-million/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-11T03:08:47+08:00"
+            },
+            {
               "title": "Safari 或将新增自动整理标签页分组功能",
               "brief": "据彭博社马克·古尔曼报道，苹果正为 Safari 开发名为“Organize Tabs”的新功能，计划随 iOS 27、iPadOS 27 和 macOS 27 推出，可自动把标签页整理成分组。这是在 Safari 15 的“标签页组”基础上继续扩展，用户可自行选择是否启用自动分组。古尔曼称它可能用到人工智能，但不会冠以 Apple Intelligence 名称，预计会在 6 月 8 日开幕的 WWDC26 首次亮相。",
               "source_url": "https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/",
@@ -132,6 +160,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Bastl Kalimba：一台像拇指琴一样演奏的合成器",
+              "brief": "Bastl 推出的 Kalimba 本质上是一台合成器，但演奏方式模仿拇指琴，可通过拨、触、敲或倾斜机身来控制声音。它并不主要依靠金属簧片本身发声，而是以内置结合物理建模与 FM 的合成引擎为核心，因此既能接近真实拇指琴，也能覆盖从拨弦到铺底的更多音色；同时还带有延迟、混响、失真、比特压碎、磁带模拟、滤波器、琶音器、循环器和触控点等功能。",
+              "source_url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+              "source_name": "The Verge",
+              "published_at": "2026-05-10T16:42:08-04:00"
+            },
+            {
               "title": "Ashnymph《Childhood》EP：令人振奋的舞曲哥特摇滚",
               "brief": "The Verge介绍了伦敦乐队Ashnymph的首张EP《Childhood》，称这张作品把舞曲冲击力与哥特、后朋克气质结合，呈现出新鲜而有力的声音。乐队以Krautrock节奏、工业合成器和后朋克吉他为基础，在梦幻混响人声与四四拍鼓点之间切换；EP开头还以走廊环境声和旋涡般的合成器噪音，引出《Island in the Sky》的机械律动与低频脉冲。",
               "source_url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
@@ -148,6 +183,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《乐高蝙蝠侠：黑暗骑士传奇》发售前数周悄然加入 Denuvo DRM",
+              "brief": "《乐高蝙蝠侠：黑暗骑士传奇》在发售前数周悄悄于 Steam 页面新增第三方 DRM 标签，确认 PC 版将采用 Denuvo。开发商通常用这项技术打击盗版，但它因可能拖累游戏性能，长期受到 PC 玩家质疑。该作定于 2026 年 5 月 22 日登陆 PC、PS5 和 Xbox Series X|S，而已公布配置还要求 16GB 内存，并需开启帧生成才能达到 30 帧。",
+              "source_url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-quietly-adds-denuvo-drm-weeks-before-launch",
+              "source_name": "IGN",
+              "published_at": "2026-05-11T02:30:29+08:00"
+            },
             {
               "title": "传DC影业有意邀《太坏了》导演执导贝恩与丧钟电影",
               "brief": "报道称，DC影业正考虑邀请《太坏了》导演格雷格·莫托拉执导贝恩与丧钟电影，但项目仍处于非常早期阶段。该片早在2024年就传出开发消息，当时称马修·奥顿将负责撰写剧本；而最新说法是影片目前尚无剧本、没有签署合同，也还未确定上映日期。莫托拉以《太坏了》《冒险乐园》闻名，也曾执导《和平使者》第二季部分剧集。",
