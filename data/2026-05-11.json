@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T12:53:43.858086+08:00",
+  "generated_at": "2026-05-11T14:54:46.669663+08:00",
   "sections": [
     {
       "category": "主要",
@@ -186,6 +186,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "这项实用功能大幅增强了 Android 上的 PC 游戏体验",
+              "brief": "开发者已将 PC 上的 Lossless Scaling Frame Generation 移植到 Android，可在多款游戏中通过 Vulkan 生成额外帧，提升游戏流畅度。这项原本在 Steam 提供的工具现已集成进 GameNative 0.9.1，并可在快捷菜单中调整，但用户需拥有 7 美元的 PC 版，且似乎要求骁龙芯片与 Adreno 600 系或更新 GPU，非 root 设备还会增加约 50 到 80 毫秒延迟。",
+              "source_url": "https://www.androidauthority.com/android-frame-generation-tool-pc-port-3665332/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-11T14:07:57+08:00"
+            },
+            {
+              "title": "三星开始向美国 Galaxy S25 用户推送稳定版 One UI 8.5",
+              "brief": "三星已开始向美国 Galaxy S25 系列推送稳定版 One UI 8.5，此前该更新已于上周在韩国上线。此次更新把原先由 Galaxy S26 独占的一批功能带到 S25，包括 Agentic AI、与 AirDrop 兼容的 Quick Share、Creative Studio 等，已曝光的美国版本号为 S938USQU9CZDP/S938UOYN9CZDP，包体约 4408.31MB，并附带 4 月安全补丁。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-us-rollout-3665329/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-11T13:18:27+08:00"
+            },
+            {
+              "title": "我们发现了新的“桌面专属”壁纸，可能将用于谷歌 Aluminium OS",
+              "brief": "Android Authority 发现四张标注为“Desktop Exclusive”的新壁纸，可能属于谷歌即将推出的 Aluminium OS。该平台据称将在今年晚些时候以融合 ChromeOS 与 Android 的笔记本体验亮相，这批壁纸包含受 Gemini 品牌启发的抽象设计，以及更偏自然风景的 Sand Currents 和 Glacial Sediments，并出现了壁纸名称与作者信息。",
+              "source_url": "https://www.androidauthority.com/google-aluminium-os-desktop-exclusive-wallpapers-leak-3665324/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-11T12:58:30+08:00"
+            },
+            {
               "title": "GrapheneOS称谷歌正让竞争性操作系统和设备更难生存",
               "brief": "GrapheneOS表示，谷歌和苹果正借助设备验证机制，让替代操作系统和设备更难正常使用移动应用与网页服务。该项目称，Play Integrity、App Attest和reCAPTCHA虽然被包装成安全功能，却会强化两家公司对软硬件生态的控制。它特别指出，越来越多应用和网站会先检查设备与系统是否获认可，连GrapheneOS自身也会因此被拦截。",
               "source_url": "https://www.androidauthority.com/grapheneos-google-apple-approved-devices-web-warning-3665319/",
@@ -262,6 +283,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "RPCS3团队请求停止提交AI生成的低质量PR",
+              "brief": "开源PS3模拟器RPCS3开发团队表示，近期大量用户借助AI阅读项目后提交无效PR，已严重占用审查和阅读代码的时间，因此将开始封禁未披露代码来源的账户。RPCS3自2011年发布，目前可运行超过70%的PS3游戏，长期依赖社区贡献推进兼容性；团队称并非一概排斥AI代码，但当前多数提交质量低且提交者自己也不了解内容。",
+              "source_url": "https://www.landiannews.com/archives/112889.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-11T14:36:29+08:00"
+            },
+            {
+              "title": "Windows 11资源管理器新增自适应文件大小显示",
+              "brief": "微软在Windows 11资源管理器中加入文件大小自适应显示，新版本会按容量自动显示为KB、MB、GB等单位，不再始终以KB展示。此举主要是为了解决大文件数字过长、用户还需自行换算的问题。该功能已出现在Experimental Build 26300.8376和Beta Build 26220.8370中，默认开启；蓝点网实测超过1000GB的文件也会显示为TB。",
+              "source_url": "https://www.landiannews.com/archives/112888.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-11T14:09:34+08:00"
+            },
+            {
+              "title": "微软向K-12教育机构免费开放Windows 11教育专业版升级",
+              "brief": "微软宣布面向K-12教育机构提供Windows 11家庭版到教育专业版的免费升级，以便学校解锁组策略并通过IT管理中心集中管理设备。该功能目前仍在Windows 11测试版中以实验性选项提供，适用范围涵盖幼儿园至高中。管理员启用选项并重启后，可通过Clipupgrade.exe执行升级，但需使用经验证的K-12机构账户，且现阶段升级后不支持回退。",
+              "source_url": "https://www.landiannews.com/archives/112887.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-11T13:44:49+08:00"
+            },
+            {
               "title": "互联网档案馆和维基百科因硬盘涨价承压",
               "brief": "404 Media报道称，互联网档案馆和维基媒体基金会正因AI行业带动的存储需求激增承受更高硬盘成本。两家非营利机构都依赖大量存储保存资料，互联网档案馆每天新增逾100TB数据、累计约210PB，维基媒体自2025年底起也持续关注涨价；西部数据称其面向企业客户的2026年库存基本售罄，双方正通过延长硬件寿命、寻求捐赠和厂商支持缓解压力。",
               "source_url": "https://www.landiannews.com/archives/112886.html",
@@ -274,27 +316,6 @@
               "source_url": "https://www.landiannews.com/archives/112885.html",
               "source_name": "蓝点网",
               "published_at": "2026-05-11T11:05:13+08:00"
-            },
-            {
-              "title": "H3C灵犀AI助手在配置文件中暴露大量API凭据，3个月后完成吊销",
-              "brief": "H3C部分产品预装的灵犀AI助手被发现把多家云端模型的API凭据直接写入安装程序配置文件，相关凭据直到约3个月后才完成吊销。该工具原本用于在本地NPU运行模型，但配置中同时保留了云端服务调用信息，暴露出敏感数据管理问题。蓝点网称1月29日接到反馈，5月初确认涉及智谱AI、百度千帆和火山引擎等凭据全部失效，安装包解包后即可看到这些内容。",
-              "source_url": "https://www.landiannews.com/archives/112883.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-11T10:25:16+08:00"
-            },
-            {
-              "title": "谷歌扩展Gemini API文件搜索功能，增强多模态RAG能力",
-              "brief": "谷歌宣布扩展Gemini API的文件搜索功能，把图像与文本混合检索、自定义元数据过滤和页面级引用纳入同一套流程。背景是传统RAG往往难以有效索引PDF中的图片、图表和截图，新版能力基于Gemini Embedding 2统一处理视觉与文字内容。开发者无需自建复杂向量库和切分管线，即可在Google AI Studio或Google Cloud中完成更完整的多模态检索与问答。",
-              "source_url": "https://www.landiannews.com/archives/112882.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-11T09:56:38+08:00"
-            },
-            {
-              "title": "JDownloader官网遭入侵，5月6日至7日下载用户需排查木马",
-              "brief": "JDownloader官网在2026年5月6日至7日（UTC）遭入侵，攻击者篡改下载链接，向Windows和Linux用户投放带远程访问木马的恶意安装包。事件起因是其网站内容管理系统被黑，受影响的是下载页上的Windows备用安装程序和Linux shell安装程序。官方称恶意版本使用被盗代码签名证书签名，木马为基于Python的模块化RAT，可连接C2服务器接收命令并在受感染设备上执行操作。",
-              "source_url": "https://www.landiannews.com/archives/112881.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-11T09:35:13+08:00"
             }
           ]
         },
@@ -302,39 +323,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "AI业务推动Alphabet后来居上，有望超越英伟达成全球市值第一",
-              "brief": "Alphabet近六个月股价持续上行，4月单月涨34%，自10月31日以来累计涨43%，与英伟达的市值差距大幅缩小，投资者因此判断其有望登上市值第一。背景是市场更看重其AI与互联网业务的协同，相比英伟达同期仅涨6.3%，Alphabet除Gemini和对Anthropic的投资外，还拥有搜索、云、YouTube及Waymo等多元业务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562026.htm",
+              "title": "任天堂上调 Switch 2 售价引发投资者担忧 股价单日跌12%",
+              "brief": "任天堂宣布在多个地区上调Switch2及现有Switch机型售价后，股价单日下跌12%。投资者担心涨价削弱需求，也对FY2027硬件销量仅预估1650万台、低于部分市场预期，以及后续重磅软件阵容披露有限感到不安。财报同时显示，公司FY2026营收2.31万亿日元，营业利润增至3601亿日元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562070.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-11T12:49:23+08:00"
+              "published_at": "2026-05-11T14:27:11+08:00"
             },
             {
-              "title": "无忧传媒确认与王暖暖解约",
-              "brief": "无忧传媒确认已与“泰国孕妇坠崖案”当事人王暖暖解约，此前她公开控诉公司长期霸凌、PUA和软控制，并称自己2025年直播100多场、还要频繁出差拍视频，工作强度难以承受。事件发酵后，公司于5月9日表示已在其身体不适后安排专人陪同就医，暂停全部直播、短视频拍摄及商务活动，并提供医疗与心理支持。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1562024.htm",
+              "title": "SpaceXAI组建推进中 马斯克已申请注册商标",
+              "brief": "马斯克已为SpaceXAI提交商标注册申请，显示xAI并入SpaceX后的整合进入新阶段。两份申请分别覆盖卫星数据中心、轨道计算基础设施、AI软件，以及定位、通信、云存储和社交网络等业务，呼应其将AI与太空基础设施结合的布局。报道还提到，SpaceX正推进轨道数据中心、专用芯片和与Anthropic的算力合作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1562068.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-11T12:42:24+08:00"
+              "published_at": "2026-05-11T14:26:26+08:00"
             },
             {
-              "title": "传三星代工拿下北美无晶圆厂客户2nm CPU订单",
-              "brief": "据报道，三星代工拿下一家北美无晶圆厂客户的2nm CPU订单，外界推测客户为AMD，涉及下一代笔记本与服务器产品Venice和Verano。背景是台积电先进制程产能据称几乎锁定到2028年，AMD需要第二供应源缓解瓶颈。关键未定之处在于三星是后备产能还是并行代工伙伴，双方尚未公开确认。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562022.htm",
+              "title": "OPPO内部通报处分：段要辉降两级并冻结调薪36个月",
+              "brief": "OPPO就母亲节营销文案争议发布内部问责通告，中国区业务负责人段要辉被降两级并冻结调薪36个月。公司认定该事件构成重大品牌事故，认为相关团队忽视主流价值观底线且审核机制存在漏洞；直属业务部门、公关部及项目团队主管也被降级或限制绩效。OPPO随后再次致歉，并称将重构内容审核流程。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562066.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-11T12:41:41+08:00"
+              "published_at": "2026-05-11T14:25:02+08:00"
             },
             {
-              "title": "英伟达Vera Rubin预计下半年量产，7月起向大型AI客户发货",
-              "brief": "供应链消息称，英伟达已与ODM敲定Vera Rubin最终量产版本，计划6月试产、7月起向北美大型云服务商和AI数据中心客户发货。此前市场曾传出该平台在量产前存在规格调整传闻，但报道称相关问题已被修正。首批客户包括微软、谷歌、亚马逊、Meta和甲骨文，台系伙伴也将于下半年展开整机与机架生产。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562020.htm",
+              "title": "AI生成代码激增正成为Linux的新常态",
+              "brief": "Linux 7.1-rc3发布后，托瓦兹表示主线补丁数量持续处于高位，AI辅助开发带来的产出提升正从短期波动变成新常态。以往这一阶段通常开始收尾和巩固，但如今开发者每周提交更多变更；本次约三分之一补丁集中在网络相关领域，同时包含LoongArch优化、内存安全修复，以及更多Rust代码。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562064.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-11T12:39:14+08:00"
+              "published_at": "2026-05-11T13:50:05+08:00"
             },
             {
-              "title": "研究称“闹鬼感”可能来自听不见的次声",
-              "brief": "一项发表于《行为神经科学前沿》的实验研究称，人们在老建筑或地下空间感到“闹鬼”的怪异感，可能与听不见的次声有关。背景是次声在通风、交通和工业环境中普遍存在。研究让36名志愿者在不知情下暴露于18赫兹次声，结果显示其更易烦躁、对音乐评价更悲伤，且唾液皮质醇水平升高。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1562018.htm",
+              "title": "站在高处为什么脚心会发麻？专家给出科学解释",
+              "brief": "专家解释，站在高处时脚心发麻并非单纯恐高，而是神经系统为维持平衡自动调整的结果。接近边缘后，大脑会提高对脚底压力和身体细微摇晃信号的敏感度，让姿势肌肉更紧、动作更谨慎；这种本体感觉变化几乎人人都会发生，只是是否被明显察觉，会受注意力、个体敏感度与情境因素影响。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1562062.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-11T12:38:11+08:00"
+              "published_at": "2026-05-11T13:28:44+08:00"
             }
           ]
         },
@@ -342,39 +363,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "沃尔沃汽车大中华区换帅：段建军接任总裁兼CEO",
-              "brief": "沃尔沃汽车宣布大中华区管理层调整，原奔驰中国CEO段建军即刻接任大中华区总裁兼CEO，袁小林卸任并将在一段时间内协助交接。袁小林2010年在吉利收购沃尔沃期间加入公司，后升任集团全球高级副总裁及亚太区负责人；段建军拥有30多年汽车行业经验，曾任奔驰、宝马在华高管。",
-              "source_url": "https://www.ithome.com/0/948/670.htm",
+              "title": "泰坦军团推出 KG277R PLUS 27 英寸显示器：2K、245Hz 超频，943 元",
+              "brief": "泰坦军团上架 KG277R PLUS 27 英寸显示器，定价 943 元，主打 2K 分辨率与 245Hz 超频刷新率，面向高刷游戏场景。该机采用 Fast IPS 面板，亮度 500 尼特、GtG 响应 1ms、对比度 1000:1，支持 10-Bit 色彩与 99% sRGB。支架支持升降、倾斜和俯仰，并提供 2 个 HDMI 2.0、2 个 DP 1.4 及 3.5mm 接口。",
+              "source_url": "https://www.ithome.com/0/948/747.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-11T12:40:28+08:00"
+              "published_at": "2026-05-11T14:45:06+08:00"
             },
             {
-              "title": "小米新一代智能座舱入网，或用于“寻天”首款增程SUV",
-              "brief": "小米新一代智能座舱近日完成入网，相关型号26109VP30C在4月30日再获证书，设备名称明确为“车载无线终端”，支持5G增强移动宽带和双卡双待。IT之家此前报道称，小米首款增程式SUV内部代号“昆仑N3”，有望归入独立品牌“寻天”，计划于2026年下半年上市，相关车型谍照此前已多次曝光。",
-              "source_url": "https://www.ithome.com/0/948/669.htm",
+              "title": "全球首套三元混合气盾构带压作业装备应用于最长海底高铁隧道",
+              "brief": "我国首套氦氮氧“三元混合气”盾构带压作业装备已在甬舟铁路金塘海底隧道正式应用，用于应对世界最长海底高铁隧道的超高压施工。该隧道最大埋深位于海平面下 78 米，最高水土压力达 8.5bar。装备集成配气、供气、减压和监测控制等 113 个子模块，单次可支持 3 人连续 60 分钟进舱，并可配合实现 24 小时作业。",
+              "source_url": "https://www.ithome.com/0/948/746.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-11T12:30:39+08:00"
+              "published_at": "2026-05-11T14:45:03+08:00"
             },
             {
-              "title": "TikTok将在英国推出无广告模式，月费3.99英镑",
-              "brief": "TikTok将在英国推出每月3.99英镑的无广告模式，用户也可继续使用原有的个性化广告版本。该公司表示，两种选择下核心使用体验都不会改变。TikTok同时强调，平台广告已为当地企业带来数亿英镑收入，并对英国GDP增长作出贡献，新方案旨在让用户获得更多体验控制权，同时维持企业触达新客户与增收能力。",
-              "source_url": "https://www.ithome.com/0/948/668.htm",
+              "title": "山灵 EC Play 便携式 CD 播放器开售：998 元，搭载 CS43198 DAC",
+              "brief": "山灵 EC Play 便携式 CD 播放器已开售，售价 998 元，定位便携听音与多场景连接。该机采用托盘式碟舱和主动式磁吸压镇，配合定制伺服系统，以提升读碟稳定性并减少机械振动。其搭载 CS43198 DAC、双 SGM8262 运放，提供 3.5mm 与 4.4mm 耳机接口，支持双向蓝牙 6.0、USB DAC 输入，电池续航最长可达 12 小时。",
+              "source_url": "https://www.ithome.com/0/948/742.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-11T12:28:08+08:00"
+              "published_at": "2026-05-11T14:43:11+08:00"
             },
             {
-              "title": "佳能发布PIXMA TS8880智能触屏照片一体机",
-              "brief": "佳能发布PIXMA TS8880智能触屏照片一体机，重点优化复杂功能下的操作体验，并新增更实用的复印能力。该机保留黑、红、白三色，配备4.3英寸彩色触摸屏，支持场景自定义、自动双面打印和扫码无线直连，还加入“彩色去除复印”与“书册复印”，建议零售价2388元。",
-              "source_url": "https://www.ithome.com/0/948/666.htm",
+              "title": "高通 CEO 安蒙：2026 年是“智能体元年”，眼镜有望成为主要形态",
+              "brief": "高通 CEO 安蒙表示，2026 年将是“智能体元年”，个人 AI 设备会开启新一轮硬件周期，智能手机的中心地位将在未来几年被重新分配。其背景是高通正把移动技术扩展到 PC、可穿戴、汽车等多个领域。安蒙称，公众有望在今年年底看到部分个人 AI 智能体设备，并看好眼镜成为主要形态，预计 2027 至 2028 年会出现更多工作负载转移。",
+              "source_url": "https://www.ithome.com/0/948/739.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-11T12:12:18+08:00"
+              "published_at": "2026-05-11T14:41:25+08:00"
             },
             {
-              "title": "嘉合劲威旗下神可量产交付DDR5服务器内存",
-              "brief": "嘉合劲威表示，旗下神可已成功量产并交付DDR5服务器内存，可满足项目定点交付和批量备货需求。该产品基于嘉合劲威封装的原厂DRAM晶圆，采用2Rank×8结构，并通过25至85摄氏度下7×24小时满负载拷机测试及模拟机房供电波动的供电容错测试，以应对企业级业务场景。",
-              "source_url": "https://www.ithome.com/0/948/665.htm",
+              "title": "福耀科技大学获批未来机器人、人工智能等 5 个新兴本科专业",
+              "brief": "福耀科技大学获批未来机器人、人工智能等 5 个新兴本科专业，使学校本科专业总数增至 9 个，进一步扩充新工科布局。此前学校已获批智能制造工程、计算机科学与技术、材料科学与工程、车辆工程 4 个本科专业。根据校方安排，2026 年仍拟按智能制造工程专业招生，本科生大一接受通识教育，大二可在现有 9 个专业中自主选择方向。",
+              "source_url": "https://www.ithome.com/0/948/727.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-11T12:12:04+08:00"
+              "published_at": "2026-05-11T14:35:43+08:00"
             }
           ]
         },
@@ -382,45 +403,59 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "土耳其瓦基弗银行与阿波罗完成13亿美元DPR证券化融资",
-              "brief": "土耳其国有银行瓦基弗银行宣布，已从资产管理公司阿波罗获得13亿美元DPR证券化融资。此次融资属于多元化付款权融资，是该行继续拓展长期资金来源的一部分。据电邮声明，这笔交易最终期限为12年，并设有5年宽限期；首席执行官表示，交易完成后，该行DPR融资总额将增至53亿美元。",
-              "source_url": "https://36kr.com/newsflashes/3804413588315909?f=rss",
+              "title": "奇瑞回应“进军日本市场”消息",
+              "brief": "有消息称，奇瑞与日本汽车用品巨头澳德巴克斯及其他合资方合作，计划在日本销售中国生产的纯电动车。背景是各方已成立合资公司，并通过旗下位于横滨的开发销售公司EMT推出自有电动车品牌。首款车型计划于2027年在日本交付，价格尚未确定、面向主流市场；奇瑞回应称自己仅为EMT项目股东方之一，不参与经营管理。",
+              "source_url": "https://36kr.com/newsflashes/3804533533875714?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-11 12:49:37  +0800"
+              "published_at": "2026-05-11 14:51:38  +0800"
             },
             {
-              "title": "腾讯云：QClaw正式上线“文件空间”功能",
-              "brief": "腾讯云宣布，QClaw正式上线“文件空间”功能。该功能面向资料管理与协作场景，目标是把分散在不同位置的内容集中到同一工作台中处理。官方介绍称，用户只需一次授权，QClaw即可打通本地文件、腾讯文档和ima知识库，并支持从找资料、AI加工到最终产出和协作的闭环流程。",
-              "source_url": "https://36kr.com/newsflashes/3804407430782729?f=rss",
+              "title": "英国拟到2035年吸引990亿英镑海外养老金投向重点项目",
+              "brief": "英国政府宣布一项新计划，目标到2035年吸引990亿英镑海外养老金资金投向本国重点项目。背景是英国政府数周前才艰难推动养老金法案在议会获得通过。为此，英国将设立由投资办公室牵头的“超级基金专项小组”，以加强协作、简化流程，重点吸引澳大利亚养老基金进入基建、房地产及私募市场等领域。",
+              "source_url": "https://36kr.com/newsflashes/3804531597647360?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-11 12:43:21  +0800"
+              "published_at": "2026-05-11 14:49:40  +0800"
             },
             {
-              "title": "中国生物制药：正大天晴与葛兰素史克达成独家战略合作",
-              "brief": "中国生物制药公告称，附属公司正大天晴已与葛兰素史克达成独家战略合作，以加速bepirovirsen在中国内地上市。此次合作围绕该产品在内地商业化推进展开。按协议，正大天晴负责进口、分销、医院准入及推广与非推广活动，全部销售收入计入其营收；GSK继续作为MAH，负责注册、质控、药物警戒和全球医学策略。",
-              "source_url": "https://36kr.com/newsflashes/3804400256736769?f=rss",
+              "title": "机构预计2030年Micro LED CPO光收发模块产值达8.48亿美元",
+              "brief": "TrendForce集邦咨询预计，到2030年Micro LED CPO光收发模块市场产值将达到8.48亿美元。背景是生成式AI正推动高速光通信需求快速攀升，而Micro LED具备1至2 pJ/bit的低能耗和低于百亿分之一的误码率，因此有望在垂直扩展数据中心网络中，与AEC和VCSEL NPO并列为机柜内三大短距高速传输方案。",
+              "source_url": "https://36kr.com/newsflashes/3804530302770691?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-11 12:36:04  +0800"
+              "published_at": "2026-05-11 14:48:21  +0800"
             },
             {
-              "title": "国家广播电视总局：4月备案国产电视动画片51部、9659分钟",
-              "brief": "国家广播电视总局发布2026年4月全国国产电视动画片制作备案公示，当月经备案的国产电视动画片共51部、9659分钟。这份通知披露了当期备案总量及题材结构。按所占比例大小排名，备案作品题材依次为童话、教育、其他、文化、科幻和历史。",
-              "source_url": "https://36kr.com/newsflashes/3804396418276871?f=rss",
+              "title": "蔚来申请注册NIOBOT等商标",
+              "brief": "上海蔚来汽车有限公司近日申请注册“NIOBOT”“NOMIBOT”“NEOBOT”等多枚商标。背景是这些商标信息出现在天眼查知识产权记录中，国际分类覆盖餐饮住宿、社会服务等领域，目前状态均为等待实质审查。该公司成立于2015年5月，法定代表人为秦力洪，注册资本30亿美元，由蔚来控股有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3804504194293256?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-11 12:32:09  +0800"
+              "published_at": "2026-05-11 14:21:47  +0800"
             },
             {
-              "title": "美图“无痕改字”AI功能支持中英日韩泰等多语种",
-              "brief": "美图公司表示，旗下美图影像研究院近期有6篇论文被ICLR、CVPR、ICML三大国际会议录用，其中聚焦场景文本编辑的研究入选ICML 2026。相关成果已落地至美图设计室App和美图秀秀PC版“无痕改字”功能。官方称，该功能突破预设词表限制，支持中英日韩泰等多语种，并可保持字体风格与画面质感一致、无明显拼接痕迹。",
-              "source_url": "https://36kr.com/newsflashes/3804377640099593?f=rss",
+              "title": "沪深两市成交额连续第4个交易日突破3万亿元",
+              "brief": "沪深两市成交额在5月11日连续第4个交易日突破3万亿元，再次站上这一整数关口。背景是此前连续三个交易日，两市合计成交额都已超过3万亿元，此次披露显示这一高成交规模仍在延续。当前已给出的关键细节主要集中在成交额总量本身，即两市合计成交额继续超过3万亿元，未附带更多分项数据。",
+              "source_url": "https://36kr.com/newsflashes/3804491745893897?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-11 12:27:23  +0800"
+              "published_at": "2026-05-11 14:09:08  +0800"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "新加坡将对严重霸凌同学的男生实施鞭刑",
+              "brief": "新加坡教育部公布新措施，学校处理严重霸凌事件时，可在留堂、停学之外，对男学生实施鞭打。此举被称为在其他惩罚不足以奏效时才动用，并纳入整套辅导与纪律方案。执行前须经校长批准，由授权教师操作，校方还会评估学生成熟度、事后跟进身心状况；女生不适用鞭打，但仍可被停学等处分。",
+              "source_url": "https://www.solidot.org/story?sid=84261",
+              "source_name": "Solidot",
+              "published_at": "2026-05-11T13:21:14+08:00"
+            },
+            {
+              "title": "为何工业时代父母更常感到睡眠不足",
+              "brief": "一篇报道探讨了为何工业社会的新生儿父母比狩猎采集社会父母更常感到睡眠不足。背景是研究者在坦桑尼亚一处狩猎采集社群调查时，受访者普遍称睡得不错，而德国和法国研究显示现代新手父母睡眠满意度偏低。文中提到，现代人还要面对固定工时、驾驶和操作机械风险、婴儿同室分床建议，以及社会支持不足等因素。",
+              "source_url": "https://www.solidot.org/story?sid=84260",
+              "source_name": "Solidot",
+              "published_at": "2026-05-11T12:53:49+08:00"
+            },
             {
               "title": "每天走约 8500 步有助于维持体重",
               "brief": "研究人员在一项发表于《International Journal of Environmental Research and Public Health》的研究中，对比实验组和对照组后发现，每天步行约8500步有助于减肥者在长期内维持体重。肥胖正成为日益严重的公共卫生问题，预计到2035年全球肥胖人口比例将超过30%，因此研究建议减肥者在减重阶段增加每日步数，并在体重维持阶段继续保持这一水平。",
