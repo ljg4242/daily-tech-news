@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T04:55:54.311733+08:00",
+  "generated_at": "2026-05-12T06:58:03.608046+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI 推出利用 GPT-5.5 查找软件漏洞的 Daybreak 平台",
+              "brief": "OpenAI发布网络防御平台Daybreak，使用GPT-5.5与Codex Security协助科技公司在日常开发中发现、验证并修复软件漏洞。该项目被定位为从软件起点内置防御能力，呼应Anthropic的Glasswing计划，也建立在4月推出的GPT-5.4-Cyber之上，OpenAI称后者已推动修复3000多个漏洞。Daybreak还能依据代码库生成可编辑的威胁模型、持续监测高风险问题，并提供包含漏洞扫描的评估。",
+              "source_url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T06:08:02+08:00"
+            },
+            {
+              "title": "欧盟 iPhone 用户在 iOS 26.5 中获得第三方穿戴设备配对和通知转发新功能",
+              "brief": "iOS 26.5在欧盟为第三方穿戴设备带来新的互操作功能，让非苹果配件可获得更接近AirPods和Apple Watch的体验。这是苹果为遵守《数字市场法》开放原本受限功能的结果，相关改动已自iOS 26.3开始测试。更新后，支持的耳机可一键近距配对，智能手表等设备可接收并互动iPhone通知、显示实时活动，但通知同一时间只能转发到一台已连接设备。",
+              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T04:50:22+08:00"
+            },
             {
               "title": "苹果 iOS 26.5 更新修复逾 50 个安全漏洞",
               "brief": "苹果发布 iOS 26.5 与 iPadOS 26.5，修复了 50 多个安全漏洞，涉及图像处理、内核，以及快捷指令、Spotlight 和截图等组件。苹果表示目前没有已知漏洞被在野利用，但安全说明公开后，未更新设备可能更易被针对；本次还修复了 10 个可能导致敏感数据暴露或崩溃的 WebKit 漏洞，并向无法升级到 iOS 26 或 macOS Tahoe 的旧设备提供了额外安全更新。",
@@ -28,26 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/05/11/apple-developer-app-wwdc-2026-stickers/",
               "source_name": "MacRumors",
               "published_at": "2026-05-12T01:47:53+08:00"
-            },
-            {
-              "title": "iOS 26.5 让 iPhone 与安卓间的 RCS 对话支持端到端加密",
-              "brief": "苹果确认，iOS 26.5已正式为iPhone与安卓设备之间的RCS消息带来端到端加密，使跨平台对话获得与iMessage相近的保护。这项功能目前以测试形式提供，需要双方运营商都支持最新版RCS，iPhone端需升级到iOS 26.5，安卓端需使用最新版Google Messages。加密默认开启，消息会显示小锁标识，相关标准属于RCS Universal Profile 3.0。",
-              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-rcs-e2ee-launch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T01:25:13+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 26.5 和 iPadOS 26.5，带来加密 RCS、新壁纸和地图更新",
-              "brief": "苹果发布iOS 26.5和iPadOS 26.5，距离26.4约两个月，新版已可通过设置中的软件更新下载安装。此次更新的重点包括iPhone与安卓之间RCS消息的端到端加密、全新的Pride Luminance壁纸，以及地图中新加入的Suggested Places推荐区域。苹果还为无法运行新系统的旧设备发布了iOS 15.8.8、iOS 16.7.16、iOS 18.7.9和iPadOS 17.7.11。",
-              "source_url": "https://www.macrumors.com/2026/05/11/apple-releases-ios-26-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T01:06:08+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple 地图将精细城市体验扩展至罗马和那不勒斯",
+              "brief": "苹果将 Apple Maps 的 Detailed City Experience 扩展到罗马和那不勒斯，让两地获得细致的 3D 城市地图与导航信息。该功能自 2021 年随 iOS 15 推出后持续扩张，目标是提升城市浏览和驾车识别体验。更新后，用户可看到更丰富的高程、车道与道路标识、树木、公园、公交和自行车道，以及定制绘制的地标建筑。",
+              "source_url": "https://9to5mac.com/2026/05/11/apple-maps-expands-detailed-city-experience-to-rome-and-naples/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T06:45:43+08:00"
+            },
+            {
+              "title": "Apple 让 Apple Card 用户更容易在网页访问储蓄账户",
+              "brief": "苹果为 Apple Card Savings 新增网页入口，当前和已关闭 Apple Card 账户的用户都可在浏览器中查看并管理储蓄账户。此前相关操作主要依赖 Wallet 应用，这次调整提供了无法使用钱包时的备用方式。网页端支持查看当前与可用余额、年内已付利息和年收益率，并可下载账单及税务文件，但界面比应用更简洁。",
+              "source_url": "https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T06:09:51+08:00"
+            },
+            {
+              "title": "苹果公开近期隐私导向 AI 与机器学习研讨会录影和研究",
+              "brief": "苹果公布了 2026 年隐私保护机器学习与 AI 研讨会的四段演讲录像和一份研究回顾，向外界开放活动内容。该两天会议聚焦在兼顾隐私与安全前提下推进机器学习与 AI，讨论私有学习与统计、基础模型与隐私、攻击与安全等主题。公开材料还涵盖联邦学习、隐私核算、信任模型以及基础模型记忆问题等研究方向。",
+              "source_url": "https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T04:59:32+08:00"
+            },
             {
               "title": "法院批准苹果申请，在司法部反垄断案中调取三星文件",
               "brief": "美国法院已批准苹果提出的申请，允许其在司法部针对苹果的反垄断诉讼中，向三星寻求位于韩国母公司的内部文件。背景是苹果称这些材料与智能手机和智能手表市场竞争、用户跨平台转换及其政策是否造成反竞争影响直接相关，此前三星美国子公司称相关记录仅由韩国母公司持有。该请求依据《海牙取证公约》提出，后续仍需韩国方面决定是否执行。",
@@ -61,33 +82,33 @@
               "source_url": "https://9to5mac.com/2026/05/11/apple-updates-app-store-rules-for-betting-apps-in-brazil/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-12T03:29:16+08:00"
-            },
-            {
-              "title": "iOS 26.5：这些运营商支持 RCS 端到端加密消息",
-              "brief": "iOS 26.5 开始为 iPhone 与 Android 之间的 RCS 消息提供端到端加密，这是本次更新的重点功能之一。该能力目前带有测试标签，会逐步扩展到现有 RCS 对话，同时仍需运营商支持。苹果公布的名单显示，美国和加拿大已有多家运营商兼容，功能默认开启，加密会话会在信息应用中显示“已加密”标识。",
-              "source_url": "https://9to5mac.com/2026/05/11/ios-26-5-these-carriers-offer-rcs-end-to-end-encrypted-messaging/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T03:06:49+08:00"
-            },
-            {
-              "title": "iOS 26.5 修复 iPhone 上 50 多项安全问题，细节如下",
-              "brief": "苹果发布 iOS 26.5，并在最新安全说明中披露，这次更新仅 iPhone 端就修复了 50 多项安全漏洞。该版本与 iPadOS 26.5、macOS 26.5、watchOS 26.5 等一同推出，除了新功能外更强调安全性。文中还指出，苹果同步为旧版 iOS、iPadOS 和 macOS 发布补丁，并提供了各系统对应的安全说明页面。",
-              "source_url": "https://9to5mac.com/2026/05/11/ios-26-5-has-fixes-for-50-security-issues-on-iphone-details-here/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T02:11:39+08:00"
-            },
-            {
-              "title": "MagSafe Monday：用 NOCO XGrid XDP3 整理床头",
-              "brief": "9to5Mac 在本期 MagSafe Monday 中介绍了 NOCO XGrid XDP3，主打用一台设备整理床头或桌面的苹果充电区。它是一款 3 合 1 Qi2 充电板，可同时为 iPhone、Apple Watch 和 AirPods 充电，支持 iPhone 15W、手表 5W、耳机 5W，并配有加重金属机身、定位指示灯、45W USB-C 充电器和 6.5 英尺线缆。",
-              "source_url": "https://9to5mac.com/2026/05/11/noco-xgrid-xdp3/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T02:11:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "安卓 2026 年 5 月 Google 系统更新新内容汇总",
+              "brief": "谷歌公布了2026年5月Google系统更新，覆盖手机、电视、汽车与PC，变更涉及受监管用户、互联互通、安全与隐私等多个模块。此次更新新增Quick Share通过二维码和云传输把内容从Android发到iOS，支持将无线紧急警报翻译成系统语言，并加入冒充银行号码诈骗来电自动挂断等功能，同时改进高级保护与受监管账号管理体验。",
+              "source_url": "https://9to5google.com/2026/05/11/may-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T06:08:00+08:00"
+            },
+            {
+              "title": "《The Sideload》第 33 期：你大概买不到最好的智能手机相机",
+              "brief": "9to5Google播客《The Sideload》第33期上线，节目聚焦Oppo Find X9 Ultra与vivo X300 Ultra等手机为何拥有出色影像能力。主持人讨论把进口手机当作日常主力机的实际体验，并谈到这些机型展示出的优秀相机特性是否有机会进入北美市场，同时附上多个播客平台的订阅入口。",
+              "source_url": "https://9to5google.com/2026/05/11/the-sideload-033-you-probably-cant-buy-the-best-smartphone-cameras/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T05:35:40+08:00"
+            },
+            {
+              "title": "Google Home 最新更新提速 Gemini，“Ask Home”现已支持语音指令",
+              "brief": "谷歌发布最新Google Home更新，重点提升Gemini在智能家居中的语音响应速度，并让“Ask Home”首次可直接通过语音指令使用。更新后，用户可在音箱和智能显示屏上询问家人车辆位置、保姆到家时间等与摄像头历史相关的问题，Home Brief也扩展到更多设备，灯光与恒温器控制响应进一步加快。",
+              "source_url": "https://9to5google.com/2026/05/11/google-home-gemini-speed-ask-home-voice-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T05:35:00+08:00"
+            },
             {
               "title": "Android 版 Gemini 浮层基本加入圈选搜索功能",
               "brief": "谷歌在 Android 上的 Gemini 浮层开始广泛加入类似“圈选搜索”的屏幕选择能力，让用户可圈出屏幕任意内容并作为图片加入提问。这项更新的意义在于，相比 Gemini 过去只会在相关时自动参考当前屏幕，现在用户能更精确指定区域；圈选后还能用拖拽手柄微调，点选图片可调用现有绘图工具，另外加号菜单新增“Screen content”以手动添加整屏内容，随最新版 Google 应用 17.20 稳定版推送。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5toys.com/2026/05/11/monday-best-android-app-deals-conquistadorio-lara-croft-go/",
               "source_name": "9to5Google",
               "published_at": "2026-05-12T01:56:59+08:00"
-            },
-            {
-              "title": "iOS 26.5 开始向 Android 与 iPhone 推送加密 RCS",
-              "brief": "苹果随着iOS 26.5稳定版发布，开始向iPhone与Android之间的RCS对话推送端到端加密。此功能基于GSMA的RCS Universal Profile，补上跨平台聊天的隐私能力；更新后可在信息设置中确认该选项已开启，且会对新旧RCS会话逐步自动启用，Android端需使用最新版Google Messages。",
-              "source_url": "https://9to5google.com/2026/05/11/iphone-android-encrypted-rcs-ios-26-5/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-12T01:11:43+08:00"
-            },
-            {
-              "title": "Spotify 正调查 Google Cast 与 Chromecast 设备未出现在 Connect 中的问题",
-              "brief": "Spotify确认，部分Google Cast和Chromecast兼容设备目前不会在Spotify Connect中显示，公司已展开调查。问题影响多个平台和设备类型，包括Nest音箱与Chromecast Audio；相关反馈自2024年起零星出现，最近几周在论坛和Reddit上明显增多，但修复时间仍未公布。",
-              "source_url": "https://9to5google.com/2026/05/11/spotify-is-investigating-why-google-cast-chromecast-devices-wont-show-in-connect/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-12T01:05:00+08:00"
-            },
-            {
-              "title": "三星在测试五个月后大范围推送 One UI 8.5 正式版",
-              "brief": "三星正在全球大范围推送One UI 8.5正式版，距离2025年12月8日启动测试已过去五个月。该版本虽仍基于Android 16，但包含不少界面与功能调整，因此发布时间显得偏长；目前Galaxy S25、S24、Z Fold 7、Z Flip 7及Tab S11、Tab S10等多款设备已陆续收到更新，美国运营商机型也开始覆盖。",
-              "source_url": "https://9to5google.com/2026/05/11/samsung-one-ui-8-5-galaxy-update-list/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-11T23:40:00+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "Linux两周内再曝严重漏洞",
+              "brief": "Linux 又曝出近两周内第二个严重漏洞“Dirty Frag”，可让容器、虚拟机用户等低权限账户提升到 root，进而控制服务器。这类攻击在多人共用的环境中尤其危险，且在获得初始入侵点后也可被利用。公开泄露的利用代码据称三天前已上线，几乎适用于所有主流发行版，微软还观察到黑客在现实环境中试验，正式补丁应尽快安装。",
+              "source_url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-12T06:28:19+08:00"
+            },
+            {
+              "title": "奥迪新旗舰Q9即将发布，内饰首次亮相",
+              "brief": "奥迪在正式发布前展示了新旗舰 SUV Q9 的量产内饰，这是品牌首款全尺寸 SUV，定位直指宝马 X7 和奔驰 GLS，也凸显北美市场的重要性。为迎合当地需求，车辆在开发后期甚至重新设计了杯架，以适配大型保温杯。此次曝光的座舱采用多种材质与哑光表面，仪表台环抱式布局则借鉴了 2021 年 Grandsphere 概念车。",
+              "source_url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-12T06:01:57+08:00"
+            },
+            {
+              "title": "FCC放宽外国路由器限制：现有设备可更新至2029年",
+              "brief": "美国联邦通信委员会在收紧路由器规则后稍作放宽，宣布已售和现有在市的外国制造路由器至少可继续接收软件与固件更新至 2029 年 1 月 1 日，且豁免范围扩大到更多更新类型。此前截止日期为 2027 年 3 月 1 日。该限制源于 FCC 今年 3 月以国家安全为由推出的新规，禁止审批新的境外消费级路由器，同时对既有设备更新设限。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-12T04:48:33+08:00"
+            },
+            {
+              "title": "数据中心数月消耗3000万加仑用水却无人察觉",
+              "brief": "美国佐治亚州费耶特县调查发现，大型数据中心项目 QTS 在数月内用了近 3000 万加仑水却长期未被监测和计费，而附近居民当时正因干旱被要求限水，部分人还感到水压下降。问题源于两处工业级接水口一处未获公用事业部门知情安装，另一处未关联到账户。QTS 之后补缴约 15 万美元，但县里没有按峰值超限处罚。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-12T04:37:00+08:00"
+            },
+            {
               "title": "汉坦病毒邮轮乘客抵达美国，3人进入生物隔离",
               "brief": "发生安第斯汉坦病毒疫情的邮轮MV Hondius抵达特内里费岛外海加那利群岛后开始疏散乘客，并在离船过程中再确认1例病例。此次疫情被称为前所未有，世卫组织与西班牙方面协调撤离安排，所有下船人员改乘特别包机返国而非商业航班；船上原有147人，30名船员将留船驶回鹿特丹，累计病例增至9例，其中3人已死亡。",
               "source_url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-12T02:12:43+08:00"
-            },
-            {
-              "title": "Starlink 关闭类 GPS 功能，研究人员仍寻求恢复访问",
-              "brief": "SpaceX 旗下 Starlink 正关闭一项少数用户曾可访问的类 GPS 定位、导航与授时功能，但研究界仍在推进把其卫星网络作为 GNSS 备份。背景是 GPS 干扰与欺骗愈发普遍，而 Starlink 原本以通信为主；SpaceX 曾在 2025 年 5 月致 FCC 的信中承认其可提供 PNT 服务，研究者也看重其更高频段、更宽带宽和更强信号。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-12T01:55:34+08:00"
-            },
-            {
-              "title": "iOS、macOS 和 iPadOS 26.5 发布，加入加密 RCS 消息等功能",
-              "brief": "苹果发布 iOS、iPadOS、macOS 等全线 26.5 更新，新增端到端加密的 RCS 消息等改动。此次属于各平台生命周期后段的常规大版本补丁，重点仍是配合安全漏洞修复；加密 RCS 目前标注为测试版，仅支持部分运营商，信息应用里出现锁形图标才代表消息已加密，此外还加入新版 Pride 壁纸及对地图应用广告的前期支持。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-12T01:20:39+08:00"
-            },
-            {
-              "title": "诉讼称三星在电视包装箱上使用杜阿·利帕照片",
-              "brief": "杜阿·利帕起诉三星在部分电视包装箱上使用她的照片，称这侵犯了版权、商标权及公开权。争议围绕一张她在 2024 年 Austin City Limits 后台拍摄的图片展开，诉状称相关纸箱被大规模生产、分销并用于全美电视销售；她表示自己约在 2025 年 6 月得知后即要求三星停止，但对方态度轻慢且冷淡。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-12T01:15:16+08:00"
-            },
-            {
-              "title": "《极限竞速：地平线6》发售前数日已出现可玩盗版",
-              "brief": "《极限竞速：地平线6》在正式发售前一周多就出现在盗版网站，起因是微软周末误将约155GB的 Steam 文件以未加密形式上传。Steam 预载通常会先分发加密文件，等到发售日再解锁密钥，但这次失误很快被社交平台和 Reddit 用户发现，随后 CrackWatch 报称保护已被破解，YouTube 也出现了相关实机视频和直播。",
-              "source_url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-11T23:29:16+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Google Home 更新提速，增强家庭语境理解并简化反馈",
+              "brief": "谷歌开始向 Google Home 推送 5 月 11 日更新，同时发布 Home 应用 4.16 版。这次调整的重点，是让 Gemini for Home 在家庭场景中更理解用户口中的人物和物品，减少机械式问答。更新后，它可结合已保存的家庭信息回答摄像头历史问题，计时器和闹钟更快，智能屏新增语音结果点赞和点踩按钮，应用也优化了温控器及二维码配网。",
+              "source_url": "https://www.androidauthority.com/google-home-may-11-updates-3665734/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-12T06:36:40+08:00"
+            },
+            {
+              "title": "索尼 Xperia 1 VIII 即将发布，三款配色已提前曝光",
+              "brief": "索尼新旗舰 Xperia 1 VIII 在发布前再次泄露，一张据称为官方素材的渲染图展示了三种机身配色。这波曝光发生在索尼已确认发布日期之后，因此让外界得以提前看到新机外观。结合此前亚马逊误上架信息，这三种颜色分别为石墨黑、堇青银和石榴红；列表还提到 6.5 英寸 120Hz OLED 屏、3.5 毫米耳机孔，以及两天续航等规格。",
+              "source_url": "https://www.androidauthority.com/sony-xperia-1-viii-colors-render-3665725/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-12T05:45:46+08:00"
+            },
             {
               "title": "三星手机产能策略或在高低端两端调整",
               "brief": "报道指出，三星已上调5月Galaxy S26与S26 Ultra产量，显示这代旗舰在发布约两个月后，需求并未像零部件行业通常预期那样回落。与此同时，Galaxy A17产量也在增加，而A57和A37计划被削减。韩媒称，S26标准版目标由70万台上调至约100万台，Ultra由100万至110万台升至120万至130万台，Plus则维持在约20万台。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-cast-devices-disappearing-from-spotify-connect-3665673/",
               "source_name": "Android Authority",
               "published_at": "2026-05-12T04:29:03+08:00"
-            },
-            {
-              "title": "亚马逊把 CMF Watch Pro 2 降到 40 美元",
-              "brief": "亚马逊一项促销把CMF Watch Pro 2价格降至40美元，折扣幅度为49%，这篇内容的核心信息就是当前到手价明显低于原价。给定材料除标题外几乎没有提供更多背景，因此无法确认促销持续时间、适用地区、具体型号版本或附带条件；目前能明确保留的信息，只有商品名称、平台以及40美元和49% off这两个价格点。",
-              "source_url": "https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-12T03:20:34+08:00"
-            },
-            {
-              "title": "Android 与 iPhone 之间终于能安全加密发短信",
-              "brief": "苹果与谷歌开始为Android和iPhone之间的RCS消息推出端到端加密，跨平台短信终于能像部分Android聊天那样默认保持私密。该功能在iPhone端随iOS 26.5向测试用户推出，Android端则需要最新版Google Messages。苹果表示它会逐步应用到新旧RCS会话，但iPhone用户还需所在运营商支持，支持名单包括AT&T、T-Mobile和Verizon等。",
-              "source_url": "https://www.androidauthority.com/rcs-e2ee-support-for-iphone-android-3665600/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-12T02:59:05+08:00"
             }
           ]
         },
@@ -249,6 +249,20 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Yarbo称将移除机器人割草机中的故意后门",
+              "brief": "Yarbo表示，将彻底移除其机器人割草机中预留的远程后门访问，并让客户自行决定相关远程排障功能是否安装。此前，安全研究员Andreas Makris演示称，他能从地球另一端劫持带刀片的机器人，并暴露用户邮箱地址与GPS位置。公司上周曾承诺修补多项安全问题，但当时仍计划保留供内部授权人员使用的后门，如今已改变做法。",
+              "source_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+              "source_name": "The Verge",
+              "published_at": "2026-05-11T18:40:20-04:00"
+            },
+            {
+              "title": "米拉·穆拉蒂的AI公司正在研发什么",
+              "brief": "由前OpenAI首席技术官米拉·穆拉蒂创办的Thinking Machines周一宣布，正在研发名为“交互模型”的AI系统，目标是让人与AI像人与人协作那样自然配合。公司称，这类模型会持续接收音频、视频和文本输入，并能实时思考、回应和行动，以改进现有模型在用户输入未结束前只能等待、生成时又会暂停感知的局限。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+              "source_name": "The Verge",
+              "published_at": "2026-05-11T18:19:15-04:00"
+            },
+            {
               "title": "Govee 新款便携智能灯首次打折",
               "brief": "Govee 新推出的便携智能台灯 Table Lamp Classic 首次开启促销，目前在亚马逊售 63.99 美元，较 80 美元原价便宜 16 美元。这篇报道关注它作为飞利浦 Hue Go 的低价替代选择，适合喜欢便携智能灯概念、但难以接受百美元以上售价的消费者。产品采用可充电设计，内置 4800mAh 电池，彩色灯光模式续航最长 30 小时，较亮白光模式约 5 小时。",
               "source_url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
               "source_name": "The Verge",
               "published_at": "2026-05-11T13:57:56-04:00"
-            },
-            {
-              "title": "得州起诉奈飞：广告“诱导后调包”并进行监视",
-              "brief": "得州总检察长肯·帕克斯顿起诉奈飞，指控其在广告承诺和隐私保护上“诱导后调包”，把平台变成曾承诺不会成为的样子。诉状称，奈飞曾把自己宣传为逃离大型科技监控、对儿童更安全的选择，但在2022年推出含广告套餐后，向数字广告业务开放了其收集的大量用户数据，其中包括儿童观众相关信息。",
-              "source_url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T13:04:22-04:00"
-            },
-            {
-              "title": "谷歌阻止一起据称由 AI 开发的零日攻击",
-              "brief": "谷歌表示，首次发现并阻止了一起借助AI开发的零日漏洞利用。谷歌威胁情报小组称，知名网络犯罪团伙原计划借此发起大规模攻击，绕过某未具名开源网页系统管理工具的双重验证。研究人员在用于攻击的Python脚本中发现了疑似AI痕迹，例如“幻觉”出的CVSS评分，以及过于结构化、教科书式的排版等特征，显示生成过程可能受模型辅助。",
-              "source_url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T12:09:42-04:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "NBC批准《Wordle》电视游戏节目，由萨凡纳·格思里主持",
-              "brief": "NBC已正式批准把《Wordle》改编为电视竞猜节目，并确认由《Today》主持人萨凡纳·格思里担任主持，计划于2027年首播。该项目由环球电视另类工作室与吉米·法伦的Electric Hot Dog联合制作，法伦称自己与《纽约时报》已为此筹备两年半，格思里也长期参与。节目会把经典五字母猜词扩展成团队竞技，围绕智慧、速度与高额奖金展开，原定3月开拍的安排也曾因其家庭变故而暂停等待。",
-              "source_url": "https://www.ign.com/articles/wordle-game-show-hosted-by-savannah-guthrie-gets-the-green-light-at-nbc",
+              "title": "《黑袍纠察队》第五季第7集预告：Gen V英雄回归，祖国人现身椭圆形办公室",
+              "brief": "《黑袍纠察队》第五季第7集预告紧接第6集结尾展开，休伊说出“结束了，我们输了”，并正式确认《V世代》角色回归。此前士兵男孩已把V-One交给祖国人，使布彻一行针对他的超级病毒计划不得不调整；预告中还短暂展示擅长血液操控的玛丽·莫罗、可切换身体的乔丹·李，以及祖国人现身白宫椭圆形办公室，为5月13日上线的倒数第二集埋下关键悬念。",
+              "source_url": "https://www.ign.com/articles/the-boys-season-5-episode-7-teaser-finally-brings-back-gen-v-heroes-as-homelander-takes-the-oval-office",
               "source_name": "IGN",
-              "published_at": "2026-05-12T02:38:48+08:00"
+              "published_at": "2026-05-12T05:45:57+08:00"
             },
             {
-              "title": "《辐射》第三季新增《绝命毒师》演员亚伦·保尔",
-              "brief": "《辐射》第三季新增《绝命毒师》演员亚伦·保尔，具体角色暂未公开。由于剧集多数人物本就为改编原创，他饰演的新角色未必来自游戏中的熟面孔，因此目前也难判断会是盟友还是反派。保尔早年曾现身《辐射：新维加斯》首发活动，也与本剧制片人乔纳森·诺兰、丽莎·乔伊在《西部世界》有合作；诺兰2024年还透露，保尔一直在积极争取加入后续季度。",
-              "source_url": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
+              "title": "《神秘海域4》新视频披露艾米·亨尼格废案细节",
+              "brief": "一段新视频披露了艾米·亨尼格主导、后被废弃的《神秘海域4》更多设定，让玩家首次较系统地看到其原始方向。该版本总体仍围绕内森、伙伴和失散兄弟寻找亨利·埃弗里宝藏展开，但故事推进与正式版差异明显；查理·卡特会回归，山姆更像对立角色，玩家还能操作萨利与海盗亨利·埃弗里，战斗也曾考虑弱化枪战、强化近战。",
+              "source_url": "https://www.ign.com/articles/uncharted-4-video-finally-reveals-details-about-amy-hennigs-scrapped-version",
               "source_name": "IGN",
-              "published_at": "2026-05-12T02:34:41+08:00"
+              "published_at": "2026-05-12T05:44:43+08:00"
             },
             {
-              "title": "《十三号星期五》前传剧《水晶湖》公布上线日期",
-              "brief": "《十三号星期五》前传剧《水晶湖》定档2026年10月15日在Peacock上线，琳达·卡德里尼饰演帕梅拉·沃希斯，卡勒姆·文森将出演杰森。剧情细节仍保密，但预计聚焦杰森溺水前的沃希斯一家及其后续事件，全季共8集。该项目概念可追溯至2000年代，曾以围绕水晶湖小镇的成长向衍生剧形式开发，后被CW以基调过暗、难以长期维系为由放弃。",
-              "source_url": "https://www.ign.com/articles/friday-the-13th-prequel-series-crystal-lake-gets-release-date",
+              "title": "环球通过Discord为诺兰《奥德赛》开启数字冒险",
+              "brief": "环球影业正围绕克里斯托弗·诺兰的《奥德赛》搭建一套跨平台互动宣发，并把Discord作为入口。片方在Instagram公布一串网址数字，访问后会进入影片服务器；目前已开放聊天、任务和Reddit线索等板块，首个任务由马特·达蒙发起，超过120万用户合力“建造”特洛伊木马，用户等级也会随活动推进逐步提升。",
+              "source_url": "https://www.ign.com/articles/universal-invites-audiences-on-a-digital-odyssey-for-christopher-nolans-the-odyssey-via-discord",
               "source_name": "IGN",
-              "published_at": "2026-05-12T02:27:42+08:00"
+              "published_at": "2026-05-12T05:32:23+08:00"
             },
             {
-              "title": "任天堂曾向WWE冠军科迪·罗兹发出停止侵权通知",
-              "brief": "WWE三届冠军科迪·罗兹透露，他过去有时会在登台比赛时把《塞尔达传说》的三角力量标志印在靴子上，后来因此收到任天堂发来的停止侵权通知，不过他强调对方措辞友善，并没有追着任何人不放。罗兹是在与摔角手基特·威尔逊的播客对谈中谈到此事的，他还说自己一直很迷恋这一系列，如今甚至把三角力量纹在手指上，并解释自己认同力量、勇气与智慧三种原则，也觉得这些价值观适用于摔角生涯。",
-              "source_url": "https://www.ign.com/articles/nintendo-sent-a-cease-and-desist-to-wwe-champion-cody-rhodes",
+              "title": "《地城爬行者卡尔》第八部明日全格式同步发售",
+              "brief": "《地城爬行者卡尔》系列第八部《A Parade of Horribles》将于5月12日同步推出电子书、有声书和精装本，这是该系列首次在发售日提供精装版本。报道同时梳理了购买信息：Kindle版价格最低，亚马逊实体书折扣更大，但若想尽快拿到纸书，Barnes & Noble门店自提更合适；Audible版也会首日上线，且无需订阅即可购买。",
+              "source_url": "https://www.ign.com/articles/dungeon-crawler-carl-a-parade-of-horribles-release-date-where-to-buy",
               "source_name": "IGN",
-              "published_at": "2026-05-12T01:13:56+08:00"
+              "published_at": "2026-05-12T05:24:57+08:00"
             },
             {
-              "title": "任天堂确认今年稍后仍有未公布的Switch 2游戏",
-              "brief": "任天堂确认今年晚些时候仍有尚未公开的Switch 2游戏在筹备中，此前公司刚宣布全球范围上调主机售价，引发股价回落。社长古川俊太郎在投资者会议上承认，涨价会在一定程度上提高购买门槛，但强调主机业务的关键仍是提供超越价格的游戏价值，并将继续联合软件伙伴推出新作与Switch 2独有体验。自涨价消息公布后，任天堂股价已下跌8%，目前处于自2024年8月以来低位。",
-              "source_url": "https://www.ign.com/articles/nintendo-confirms-it-has-under-wraps-switch-2-games-due-later-this-year-as-share-price-drops-following-console-price-hike",
+              "title": "《007 First Light》确认在PS5 Pro上支持60帧",
+              "brief": "在去年9月公开实机后，因大场面动作片段掉帧明显，《007 First Light》的性能表现一度引发担忧。如今IO Interactive确认，游戏将在PS5 Pro上以60fps运行，普通版PS5的性能模式也将达到60fps，并提供30fps画质模式。Xbox Series X方案尚未公布，游戏定于2026年5月27日登陆主机和PC。",
+              "source_url": "https://www.ign.com/articles/007-first-light-will-run-at-60fps-on-ps5-pro",
               "source_name": "IGN",
-              "published_at": "2026-05-12T00:19:04+08:00"
+              "published_at": "2026-05-12T05:01:56+08:00"
             }
           ]
         },
@@ -365,6 +365,20 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "苹果开发者 App 完成“液态玻璃”改版，新增 WWDC 2026 动态贴纸",
+              "brief": "苹果更新了 Apple Developer 应用，整体采用“液态玻璃”视觉风格，并加入多款 WWDC 2026 动态贴纸。随着 WWDC 2026 临近，应用同步为大会内容预热，也将提供 6 月 8 日观看主题演讲的入口。此次更新把图标改为由铅笔、画笔和直尺组成的“A”，应用内加入半透明导航栏和独立搜索按钮，并新增按未观看、已收藏、已下载及主题偏好筛选列表，同时改进注册期间图像捕捉的可靠性。",
+              "source_url": "https://www.ithome.com/0/949/042.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-12T06:49:26+08:00"
+            },
+            {
+              "title": "苹果 macOS 26.5 Tahoe 新增功能：Mac mini 等接通电源可自动开机",
+              "brief": "苹果在 macOS 26.5 Tahoe 中为部分台式 Mac 增加了接通电源自动启动功能，并支持通过第三方辅助配件管理电源状态。这项改动主要面向电源键不易触及的使用场景，适用于固定摆放在桌下、显示器后方或机柜内的设备。官方列出的兼容机型包括 2024 年及之后的 Mac mini、iMac，以及 2025 年及之后的 Mac Studio，相关设置位于 Energy 中，也可借助外接开关执行关机或重启。",
+              "source_url": "https://www.ithome.com/0/949/041.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-12T06:48:54+08:00"
+            },
+            {
               "title": "苹果 iOS/iPadOS 15.8.8 正式版发布",
               "brief": "苹果现已发布 iOS/iPadOS 15.8.8 正式版，IT之家表示稍后将补充具体更新内容。该版本延续 iOS 15 分支的维护节奏，原文回顾了自 2022 年 4 月 iOS 15.5 Beta 起至今的多次 Beta、RC 与正式版发布时间线，其中最近一次正式更新是 2026 年 3 月 12 日发布的 iOS 15.8.7，当前报道尚未披露新增功能或修复细节，并邀请读者补充发现。",
               "source_url": "https://www.ithome.com/0/949/040.htm",
@@ -384,26 +398,26 @@
               "source_url": "https://www.ithome.com/0/949/038.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-12T01:39:11+08:00"
-            },
-            {
-              "title": "苹果 watchOS 26.5 正式版发布",
-              "brief": "苹果现已发布 watchOS 26.5 正式版，IT之家表示稍后将带来具体更新内容。作为 watchOS 26 系列的最新正式更新，原文同时梳理了从 2025 年 6 月首个 Beta 到 2026 年 5 月 5 日 RC 版的完整发布时间线，并列出 26.4、26.3、26.2.1 等近几个正式版本；不过本次更新的新增功能与修复细节暂未在文内披露。",
-              "source_url": "https://www.ithome.com/0/949/037.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-12T01:39:10+08:00"
-            },
-            {
-              "title": "苹果 visionOS 26.5 正式版发布",
-              "brief": "苹果现已发布 visionOS 26.5 正式版，IT之家称稍后会补充具体更新内容。这是 visionOS 26 系列的又一次正式更新，原文回顾了从 2025 年 6 月首个 Beta 到 2026 年 5 月 5 日 RC 的版本演进，并列出 26.4、26.3、26.2、26.1 和 26.0.1 等发布时间节点；但截至这篇快讯发出，新增功能、改进项目和修复说明仍未展开。",
-              "source_url": "https://www.ithome.com/0/949/036.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-12T01:39:10+08:00"
             }
           ]
         },
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "iOS 26.5在欧盟开放第三方穿戴设备配对与通知转发",
+              "brief": "苹果随iOS 26.5向欧盟iPhone用户开放第三方穿戴设备互操作能力，支持类似AirPods的近距配对、通知转发与实时活动显示，用户还能在第三方手表上查看并操作通知。这是其在《数字市场法案》框架下推进的更新，仅限账号地区设为欧盟的用户使用；通知同一时间只能转发到一台设备，启用后Apple Watch对应通知会停用，协议也禁止将相关数据用于广告、画像或模型训练。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562140.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-12T05:49:04+08:00"
+            },
+            {
+              "title": "乔布斯登上美国“创新一美元”硬币，加州版单枚最高约2.44美元",
+              "brief": "美国造币局5月12日开售加州版“美国创新一美元”硬币，主题人物为史蒂夫·乔布斯，用硬币纪念其与加州科技创新文化的联系。该项目自2018年启动，面向各州和属地分别发行主题币；此次硬币图案为年轻乔布斯与北加州山丘景致，正面写有“Steve Jobs”和“Make Something Wonderful”，25枚装售价61美元，100枚装154.50美元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562138.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-12T05:48:06+08:00"
+            },
             {
               "title": "FAA批准波音MD-11在美国复飞",
               "brief": "美国联邦航空管理局已批准波音MD-11飞机在美国恢复飞行，意味着此前针对该机型的停飞措施告一段落。背景是肯塔基州一架UPS MD-11发生致命坠机后，FAA曾下令所有MD-11停飞；相关文章称事故已造成至少14人死亡，这次批准的关键点是该机型获准在美国境内恢复运营。",
@@ -424,20 +438,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562132.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-12T02:54:48+08:00"
-            },
-            {
-              "title": "西澳大利亚外海深海峡谷发现巨型鱿鱼踪迹",
-              "brief": "研究团队在西澳宁加卢外海两处深海峡谷开展系统采样，利用环境DNA技术在6份水样中检出巨型鱿鱼遗传信号，确认其出没于当地深海。由于这种方法无需直接拍摄或捕捞，特别适合发现行踪隐秘、脆弱或稀少的深海生物。此次调查共识别226种生物，其中数十种此前未记录于西澳水域，显示当地深海生态仍知之甚少。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1562130.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-12T02:37:30+08:00"
-            },
-            {
-              "title": "NASA新一代火星直升机将实现“超音速”",
-              "brief": "NASA喷气推进实验室正为“Skyfall”火星直升机测试更高转速旋翼，在模拟火星大气的舱内将叶尖速度推至约1.08马赫。项目建立在已退役的“机智号”经验之上，目标是在稀薄火星大气中获得更强升力和机动能力。NASA称这一提升有望把最大起飞重量提高约30%，支持更多仪器、更大电池，并为计划于2028年12月发射的三机协同任务细化参数。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1562128.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-12T02:36:44+08:00"
             }
           ]
         }
