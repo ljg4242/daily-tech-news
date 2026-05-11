@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T03:01:47.018636+08:00",
+  "generated_at": "2026-05-12T04:55:54.311733+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果 iOS 26.5 更新修复逾 50 个安全漏洞",
+              "brief": "苹果发布 iOS 26.5 与 iPadOS 26.5，修复了 50 多个安全漏洞，涉及图像处理、内核，以及快捷指令、Spotlight 和截图等组件。苹果表示目前没有已知漏洞被在野利用，但安全说明公开后，未更新设备可能更易被针对；本次还修复了 10 个可能导致敏感数据暴露或崩溃的 WebKit 漏洞，并向无法升级到 iOS 26 或 macOS Tahoe 的旧设备提供了额外安全更新。",
+              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T03:29:29+08:00"
+            },
             {
               "title": "亚马逊将 Apple Watch Series 11 最低直降 130 美元",
               "brief": "亚马逊本周继续下调Apple Watch Series 11价格，多款型号来到历史最低位，最高优惠达到130美元。此次促销覆盖几乎全部铝金属GPS版，同时蜂窝网络版也出现新的大幅降价。具体来看，42毫米GPS版由399美元降至299美元，46毫米GPS版由429美元降至329美元，46毫米蜂窝版由529美元降至399美元，42毫米蜂窝版目前也优惠100美元。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/05/11/apple-releases-ios-26-5/",
               "source_name": "MacRumors",
               "published_at": "2026-05-12T01:06:08+08:00"
-            },
-            {
-              "title": "macOS Tahoe 26.5 现已发布",
-              "brief": "苹果发布macOS Tahoe 26.5，这是该系统的第五次重大更新，距离26.4版本约七周，用户可在系统设置的软件更新中下载安装。新版本为地图搜索界面加入Suggested Places推荐区域，并为今年夏天即将上线的地图广告做前期准备。报道还提到，App Store将新增一种按月付费但承诺订阅12个月的方案，测试期间未发现其他显著新功能。",
-              "source_url": "https://www.macrumors.com/2026/05/11/apple-releases-macos-tahoe-26-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T01:04:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "法院批准苹果申请，在司法部反垄断案中调取三星文件",
+              "brief": "美国法院已批准苹果提出的申请，允许其在司法部针对苹果的反垄断诉讼中，向三星寻求位于韩国母公司的内部文件。背景是苹果称这些材料与智能手机和智能手表市场竞争、用户跨平台转换及其政策是否造成反竞争影响直接相关，此前三星美国子公司称相关记录仅由韩国母公司持有。该请求依据《海牙取证公约》提出，后续仍需韩国方面决定是否执行。",
+              "source_url": "https://9to5mac.com/2026/05/11/court-grants-apples-request-to-seek-samsung-documents-in-doj-antitrust-case/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T04:11:36+08:00"
+            },
+            {
+              "title": "苹果更新巴西 App Store 博彩应用规则",
+              "brief": "苹果已调整巴西 App Store 对固定赔率博彩应用的上架要求。此举源于巴西博彩监管变化，开发者现在必须提交该国奖品与博彩秘书处颁发的有效牌照。苹果还规定，相关应用若在年龄分级问卷中被标记为博彩，将在巴西自动获得 A18 分级，且开发者需通过提交新版应用并附上牌照信息和证明文件启动审核，并遵守当地的风险提示与披露要求。",
+              "source_url": "https://9to5mac.com/2026/05/11/apple-updates-app-store-rules-for-betting-apps-in-brazil/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T03:29:16+08:00"
+            },
+            {
+              "title": "iOS 26.5：这些运营商支持 RCS 端到端加密消息",
+              "brief": "iOS 26.5 开始为 iPhone 与 Android 之间的 RCS 消息提供端到端加密，这是本次更新的重点功能之一。该能力目前带有测试标签，会逐步扩展到现有 RCS 对话，同时仍需运营商支持。苹果公布的名单显示，美国和加拿大已有多家运营商兼容，功能默认开启，加密会话会在信息应用中显示“已加密”标识。",
+              "source_url": "https://9to5mac.com/2026/05/11/ios-26-5-these-carriers-offer-rcs-end-to-end-encrypted-messaging/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T03:06:49+08:00"
+            },
             {
               "title": "iOS 26.5 修复 iPhone 上 50 多项安全问题，细节如下",
               "brief": "苹果发布 iOS 26.5，并在最新安全说明中披露，这次更新仅 iPhone 端就修复了 50 多项安全漏洞。该版本与 iPadOS 26.5、macOS 26.5、watchOS 26.5 等一同推出，除了新功能外更强调安全性。文中还指出，苹果同步为旧版 iOS、iPadOS 和 macOS 发布补丁，并提供了各系统对应的安全说明页面。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/05/11/noco-xgrid-xdp3/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-12T02:11:00+08:00"
-            },
-            {
-              "title": "pCloud 终身版限时 65% 折扣，主打家庭数字存储免月费",
-              "brief": "9to5Mac 刊登了一篇 pCloud Family Day 促销内容，主打一键改用一次付费的家庭云存储方案，不再持续支付月费。活动从 5 月 11 日持续到 5 月 24 日，家庭计划最多可供 5 人共享，并免费附送 pCloud Encryption。文中称该服务支持 macOS 与 iOS，提供自动上传、跨平台实时同步、照片管理和客户端零知识加密，折扣最高 65%。",
-              "source_url": "https://9to5mac.com/2026/05/11/secure-your-familys-digital-life-stop-paying-monthly-65-off-pcloud-lifetime/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T02:06:45+08:00"
-            },
-            {
-              "title": "苹果刚刚为旧版 iOS、iPadOS 和 macOS 发布新更新",
-              "brief": "苹果在发布 26.5 系列新版本的同时，也向旧版 iPhone、iPad 和 Mac 系统推送了多项更新，涵盖 iOS 18.7.9、16.7.16、15.8.8，iPadOS 18.7.9、17.7.11、16.7.16、15.8.8，以及 macOS Sequoia 15.7.7 和 Sonoma 14.8.7。文章称完整细节尚未全部公布，但这些更新预计以安全修复为主。",
-              "source_url": "https://9to5mac.com/2026/05/11/apple-just-released-new-updates-for-old-versions-of-ios-ipados-and-macos/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T01:57:11+08:00"
-            },
-            {
-              "title": "macOS 26.5 的新设置或可缓解 Mac mini 电源键争议",
-              "brief": "苹果发布 macOS 26.5 后，9to5Mac 注意到桌面机型新增“电源控制”设置，可通过开关等辅助配件来关机或重启 Mac。该功能面向 Mac mini、Mac Studio 和 iMac，位于“能源”设置中，是本次较小更新里少数新增项之一。文中还提到，这一选项可能需要先连接辅助设备才会显示，作者自己的 Mac mini 暂未出现相关入口。",
-              "source_url": "https://9to5mac.com/2026/05/11/macos-26-5-adds-new-way-to-control-your-macs-power-state-via-switches/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T01:40:10+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Android 版 Gemini 浮层基本加入圈选搜索功能",
+              "brief": "谷歌在 Android 上的 Gemini 浮层开始广泛加入类似“圈选搜索”的屏幕选择能力，让用户可圈出屏幕任意内容并作为图片加入提问。这项更新的意义在于，相比 Gemini 过去只会在相关时自动参考当前屏幕，现在用户能更精确指定区域；圈选后还能用拖拽手柄微调，点选图片可调用现有绘图工具，另外加号菜单新增“Screen content”以手动添加整屏内容，随最新版 Google 应用 17.20 稳定版推送。",
+              "source_url": "https://9to5google.com/2026/05/11/gemini-overlay-circle-search/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T03:34:59+08:00"
+            },
             {
               "title": "周一精选 Android 应用优惠与限免：《Conquistadorio》《Homo Machina》《Lara Croft GO》等",
               "brief": "9to5Toys汇总了周一的Android应用优惠与限免，方便读者集中查看当天折扣。名单覆盖游戏、图标包和工具应用，包含《Lara Croft GO》4美元、《Paths & Danger》1美元、《Conquistadorio》0.5美元，以及《Grow Dungeon Hero VIP》《Backrooms》等免费项目。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/05/11/samsung-one-ui-8-5-galaxy-update-list/",
               "source_name": "9to5Google",
               "published_at": "2026-05-11T23:40:00+08:00"
-            },
-            {
-              "title": "优惠汇总：TCL 安卓平板 150 美元起，Z Fold 7 最高降逾 500 美元，联想 Legion 5i OLED 笔记本降价 550 美元",
-              "brief": "9to5Google 汇总多项谷歌与安卓相关优惠，包括 TCL 2026 款安卓平板、Galaxy Z Fold 7、Galaxy Tab S11、联想 Legion 5i OLED 游戏本和车载 Android Auto 设备。此次促销横跨亚马逊、Google Store 与 Crutchfield，既有直降也有预购赠品，其中 Fitbit Air 预购可获 35 美元商店额度或额外表带，符合条件的以旧换新最高返 100 美元，折算后新品可免费入手。",
-              "source_url": "https://9to5google.com/2026/05/11/deals-tcl-android-tablet-z-fold-7-android-auto/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-11T23:35:01+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "新运营商在网络层屏蔽色情、撒但主义甚至纹身内容",
-              "brief": "Radiant Mobile推出面向基督徒用户的虚拟运营商服务，主打运营商层级内容过滤和独家宗教内容，试图比系统家长控制更进一步限制上网访问。该服务运行在T-Mobile网络上，自称首个基督教移动运营商，色情内容对所有用户均不可关闭，涉毒内容则对儿童和青少年强制拦截，过滤范围还包括黑客资讯、穿孔、纹身和时尚模特等类别。",
-              "source_url": "https://www.androidauthority.com/porn-block-carrier-3665569/",
+              "title": "三星手机产能策略或在高低端两端调整",
+              "brief": "报道指出，三星已上调5月Galaxy S26与S26 Ultra产量，显示这代旗舰在发布约两个月后，需求并未像零部件行业通常预期那样回落。与此同时，Galaxy A17产量也在增加，而A57和A37计划被削减。韩媒称，S26标准版目标由70万台上调至约100万台，Ultra由100万至110万台升至120万至130万台，Plus则维持在约20万台。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-production-raised-may-3665665/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T02:04:45+08:00"
+              "published_at": "2026-05-12T04:42:17+08:00"
             },
             {
-              "title": "T-Mobile简化非用户开通T-Satellite流程",
-              "brief": "T-Mobile正在为非T-Mobile用户简化T-Satellite服务注册流程，用户现在可直接通过网站在线开通，无需再到门店或致电客服。该服务去年正式推出后使用率低于预期，新入口主要面向其他运营商客户，办理约十分钟，月费仍为10美元，不含通话，但包含50GB T-Mobile高速网络流量，且只有地面信号完全消失时才会切换到卫星连接。",
-              "source_url": "https://www.androidauthority.com/t-mobile-t-sat-easier-sign-up-3665587/",
+              "title": "索尼超高端耳机泄露渲染图再曝光",
+              "brief": "一组高质量泄露渲染图展示了索尼超高端耳机“1000X The ColleXion”的黑白两种配色，让这款十周年纪念产品的外观更清晰。该型号预计定位高于WH-1000XM6，因此售价也会更高。现有信息显示，它采用更高级的材质，尤其是金属铰链设计，以区别于XM6使用的塑料结构，并可能避开后者备受争议的铰链问题。",
+              "source_url": "https://www.androidauthority.com/sony-1000x-the-collexion-black-white-renders-3665640/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T01:56:12+08:00"
+              "published_at": "2026-05-12T04:35:47+08:00"
             },
             {
-              "title": "Android Auto与Audible出现界面循环问题",
-              "brief": "Android Auto测试版被报告与Audible出现界面异常，用户打开应用后，侧边面板会不断反复滑入滑出，虽然音频播放本身并未中断。问题似乎集中出现在Android Auto测试计划用户身上，其他如Spotify应用据称正常，当前最直接的解决办法是退出测试版，恢复到常规版本。",
-              "source_url": "https://www.androidauthority.com/android-auto-audible-bug-3665556/",
+              "title": "Spotify 在 Google Cast 设备上出现故障，暂时没有简易修复办法",
+              "brief": "Spotify已确认正在调查一项故障：在Android版Spotify Connect中，Chromecast、Chromecast Audio和Nest音箱等Google Cast设备会消失，用户看不到可投放目标。问题仅影响Spotify，因为Tidal、YouTube Music和Plex仍能正常识别这些设备。官方尚未给出修复时间，临时办法包括用Google Home或语音先启动播放，或回退到旧版应用。",
+              "source_url": "https://www.androidauthority.com/google-cast-devices-disappearing-from-spotify-connect-3665673/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T01:41:33+08:00"
+              "published_at": "2026-05-12T04:29:03+08:00"
             },
             {
-              "title": "三星开始整治通过通知栏狂发广告的应用",
-              "brief": "三星在最新版Device Care中加入自动拦截功能，可识别频繁通过通知推送广告的应用，并将其置入深度休眠。该功能针对的不是浏览器广告，而是应用反复发送“广告提醒”的情况，提供基础拦截和智能拦截两种模式，三星也提醒识别并非总是准确。目前它似乎仅见于Galaxy S26系列，用户可在设备关怀报告的Excessive alerts页面查看被限制的应用。",
-              "source_url": "https://www.androidauthority.com/samsung-device-care-excessive-ad-blocker-3665543/",
+              "title": "亚马逊把 CMF Watch Pro 2 降到 40 美元",
+              "brief": "亚马逊一项促销把CMF Watch Pro 2价格降至40美元，折扣幅度为49%，这篇内容的核心信息就是当前到手价明显低于原价。给定材料除标题外几乎没有提供更多背景，因此无法确认促销持续时间、适用地区、具体型号版本或附带条件；目前能明确保留的信息，只有商品名称、平台以及40美元和49% off这两个价格点。",
+              "source_url": "https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T00:45:35+08:00"
+              "published_at": "2026-05-12T03:20:34+08:00"
             },
             {
-              "title": "一个奇怪的 Chrome Bug 让用户无法隐藏书签栏",
-              "brief": "Chrome 148版被用户发现出现新问题：新标签页会默认显示书签栏，而且无论使用Ctrl+Shift+B、在设置中关闭，还是禁用相关实验标志，都无法把它隐藏。问题只会出现在新标签页，打开普通网页后书签栏就会消失。该版本于5月5日发布，受影响用户目前只能考虑用自定义新标签页扩展等临时办法绕过。",
-              "source_url": "https://www.androidauthority.com/chrome-bookmarks-bar-bug-3665492/",
+              "title": "Android 与 iPhone 之间终于能安全加密发短信",
+              "brief": "苹果与谷歌开始为Android和iPhone之间的RCS消息推出端到端加密，跨平台短信终于能像部分Android聊天那样默认保持私密。该功能在iPhone端随iOS 26.5向测试用户推出，Android端则需要最新版Google Messages。苹果表示它会逐步应用到新旧RCS会话，但iPhone用户还需所在运营商支持，支持名单包括AT&T、T-Mobile和Verizon等。",
+              "source_url": "https://www.androidauthority.com/rcs-e2ee-support-for-iphone-android-3665600/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T00:08:44+08:00"
+              "published_at": "2026-05-12T02:59:05+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "得州总检察长起诉奈飞，称其未经同意收集用户数据",
+              "brief": "得州总检察长肯·帕克斯顿已起诉奈飞，称其尽管对外表示不会这样做，仍在未经用户同意的情况下收集包括儿童账户在内的数据。起诉书称，奈飞每年通过向商业数据经纪商和在线广告企业秘密出售消费者数据获利数十亿美元，并指其自动播放等设计会延长包括儿童在内用户的停留时间，要求儿童资料默认关闭自动播放，并停止相关数据的收集与分发。",
+              "source_url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T04:04:31+08:00"
+            },
             {
               "title": "iOS 端到端加密 RCS 消息开始在测试版推出",
               "brief": "苹果随 iOS 26.5 开始测试推出端到端加密的 RCS 消息，让 iPhone 与安卓之间的跨平台聊天首次可在兼容条件下获得更安全传输。这项功能要求双方设备及所接入运营商网络都支持相关标准，美国三大运营商已在首日上线；当对话顶部出现锁形图标，即表示该 RCS 会话已受保护，且新旧会话会逐步默认启用加密。",
@@ -235,19 +242,19 @@
               "source_url": "https://www.engadget.com/2169847/venmos-redesigned-app-offers-more-discreet-payments-by-default/",
               "source_name": "Engadget",
               "published_at": "2026-05-12T00:50:53+08:00"
-            },
-            {
-              "title": "佛州州立大学枪击案遇难者配偶起诉 OpenAI",
-              "brief": "佛罗里达州立大学枪击案一名遇难者的配偶起诉 OpenAI，称涉嫌枪手在案发前数月、尤其案发前几天与 ChatGPT 交流时获得输入和协助。诉状称，该工具帮助其识别后来使用的枪支、说明用枪方式并准备袭击；这起 2025 年 4 月事件造成两名校方员工死亡、另有七人受伤。OpenAI回应称其仅提供公开事实信息，未鼓励违法行为，并已向执法部门主动提供疑似相关账户信息。",
-              "source_url": "https://www.engadget.com/2169656/openai-sued-by-spouse-of-fsu-shooting-victim/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-11T23:11:58+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Govee 新款便携智能灯首次打折",
+              "brief": "Govee 新推出的便携智能台灯 Table Lamp Classic 首次开启促销，目前在亚马逊售 63.99 美元，较 80 美元原价便宜 16 美元。这篇报道关注它作为飞利浦 Hue Go 的低价替代选择，适合喜欢便携智能灯概念、但难以接受百美元以上售价的消费者。产品采用可充电设计，内置 4800mAh 电池，彩色灯光模式续航最长 30 小时，较亮白光模式约 5 小时。",
+              "source_url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-05-11T15:56:28-04:00"
+            },
             {
               "title": "Palantir 的忠实拥趸在穿这件夹克",
               "brief": "帕兰提尔宣布在周边商店上架一款全棉工装外套，文章将其写成支持者表明立场的象征。这家公司近年因国防合同以及与美国移民和海关执法局合作而更为人所知。新外套售价239美元，提供亮蓝和黑两色，整体接近已进入主流男装的19世纪法式工装样式，原型本是体力劳动者的工作服，最明显的区别只是胸前口袋上的小号帕兰提尔标识。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
               "source_name": "The Verge",
               "published_at": "2026-05-11T12:09:42-04:00"
-            },
-            {
-              "title": "上百万台婴儿监视器和安防摄像头可被黑客轻易查看",
-              "brief": "报道称，Meari Technology生产的大量Wi-Fi婴儿监视器和安防摄像头存在严重安全缺陷，黑客本可轻易窥视一百万处以上的实时画面。背景是这家公司虽不知名，却为许多白牌设备供货。关键问题在于，只要能够访问其中一台摄像头，理论上就可能连带访问其余设备，暴露家庭与儿童空间的隐私，作者看到的多处儿童房和居家画面也凸显了问题范围。",
-              "source_url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T12:00:00-04:00"
             }
           ]
         }
@@ -293,6 +293,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "NBC批准《Wordle》电视游戏节目，由萨凡纳·格思里主持",
+              "brief": "NBC已正式批准把《Wordle》改编为电视竞猜节目，并确认由《Today》主持人萨凡纳·格思里担任主持，计划于2027年首播。该项目由环球电视另类工作室与吉米·法伦的Electric Hot Dog联合制作，法伦称自己与《纽约时报》已为此筹备两年半，格思里也长期参与。节目会把经典五字母猜词扩展成团队竞技，围绕智慧、速度与高额奖金展开，原定3月开拍的安排也曾因其家庭变故而暂停等待。",
+              "source_url": "https://www.ign.com/articles/wordle-game-show-hosted-by-savannah-guthrie-gets-the-green-light-at-nbc",
+              "source_name": "IGN",
+              "published_at": "2026-05-12T02:38:48+08:00"
+            },
+            {
+              "title": "《辐射》第三季新增《绝命毒师》演员亚伦·保尔",
+              "brief": "《辐射》第三季新增《绝命毒师》演员亚伦·保尔，具体角色暂未公开。由于剧集多数人物本就为改编原创，他饰演的新角色未必来自游戏中的熟面孔，因此目前也难判断会是盟友还是反派。保尔早年曾现身《辐射：新维加斯》首发活动，也与本剧制片人乔纳森·诺兰、丽莎·乔伊在《西部世界》有合作；诺兰2024年还透露，保尔一直在积极争取加入后续季度。",
+              "source_url": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
+              "source_name": "IGN",
+              "published_at": "2026-05-12T02:34:41+08:00"
+            },
+            {
+              "title": "《十三号星期五》前传剧《水晶湖》公布上线日期",
+              "brief": "《十三号星期五》前传剧《水晶湖》定档2026年10月15日在Peacock上线，琳达·卡德里尼饰演帕梅拉·沃希斯，卡勒姆·文森将出演杰森。剧情细节仍保密，但预计聚焦杰森溺水前的沃希斯一家及其后续事件，全季共8集。该项目概念可追溯至2000年代，曾以围绕水晶湖小镇的成长向衍生剧形式开发，后被CW以基调过暗、难以长期维系为由放弃。",
+              "source_url": "https://www.ign.com/articles/friday-the-13th-prequel-series-crystal-lake-gets-release-date",
+              "source_name": "IGN",
+              "published_at": "2026-05-12T02:27:42+08:00"
+            },
             {
               "title": "任天堂曾向WWE冠军科迪·罗兹发出停止侵权通知",
               "brief": "WWE三届冠军科迪·罗兹透露，他过去有时会在登台比赛时把《塞尔达传说》的三角力量标志印在靴子上，后来因此收到任天堂发来的停止侵权通知，不过他强调对方措辞友善，并没有追着任何人不放。罗兹是在与摔角手基特·威尔逊的播客对谈中谈到此事的，他还说自己一直很迷恋这一系列，如今甚至把三角力量纹在手指上，并解释自己认同力量、勇气与智慧三种原则，也觉得这些价值观适用于摔角生涯。",
@@ -306,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/nintendo-confirms-it-has-under-wraps-switch-2-games-due-later-this-year-as-share-price-drops-following-console-price-hike",
               "source_name": "IGN",
               "published_at": "2026-05-12T00:19:04+08:00"
-            },
-            {
-              "title": "泄露显示Steam Machine首发或有四种套装并采用预约排队",
-              "brief": "最新Steam更新中的代码泄露显示，Valve可能会在Steam Machine首发时提供四种主机版本，以及两种Steam Frame版本，并配套启用预约排队机制。背景是Steam Controller此前几乎瞬间售罄，官方似乎希望用同样方式压制黄牛。现有信息仍未透露价格，但Valve早前曾提到至少会有512GB入门款和2TB版本，其余型号则可能包含不同存储配置，或与Steam Frame和控制器组成套装。",
-              "source_url": "https://www.ign.com/articles/steam-update-suggests-four-versions-of-the-steam-machine-will-be-available",
-              "source_name": "IGN",
-              "published_at": "2026-05-11T23:50:04+08:00"
-            },
-            {
-              "title": "WWE 预告片或暗示《战争机器：E-Day》发售日期",
-              "brief": "WWE 旗下 AAA 宣布 2026 年 9 月 11 日和 13 日举办两晚制 Triplemanía，宣传片结尾出现《战争机器：E-Day》标志，因此外界推测该作发售日期可能已被侧面暗示。文章指出，游戏通常会在临近上市时进行这类公开联动宣传，此前 WWE 也曾在活动中为《毁灭战士：黑暗时代》和《无主之地4》造势；《E-Day》还将在 6 月 7 日 Xbox 游戏展后举行专场展示。",
-              "source_url": "https://www.ign.com/articles/wwe-teaser-might-have-revealed-the-gears-of-war-e-day-release-date",
-              "source_name": "IGN",
-              "published_at": "2026-05-11T23:20:39+08:00"
             }
           ]
         },
@@ -398,6 +405,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "FAA批准波音MD-11在美国复飞",
+              "brief": "美国联邦航空管理局已批准波音MD-11飞机在美国恢复飞行，意味着此前针对该机型的停飞措施告一段落。背景是肯塔基州一架UPS MD-11发生致命坠机后，FAA曾下令所有MD-11停飞；相关文章称事故已造成至少14人死亡，这次批准的关键点是该机型获准在美国境内恢复运营。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562136.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-12T03:46:48+08:00"
+            },
+            {
+              "title": "英国消防部门平均每五小时处置一起锂电池火灾",
+              "brief": "英国消防部门称，平均每五小时就要处置一起锂电池火灾，相关警情近年明显上升。背景是电动自行车、电动汽车及各类消费电子设备普及，去年近一半事故发生在住宅内；关键细节包括热失控更难扑灭、可能需十倍水量控制，英国过去三年已有5人因此死亡，监管部门正推动宣传与更严格规范。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562134.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-12T03:44:48+08:00"
+            },
+            {
               "title": "iOS 26.5正式启动RCS加密消息大规模测试",
               "brief": "苹果在iOS 26.5中面向使用支持运营商服务的iPhone用户，联合最新版Google Messages安卓用户扩大测试RCS端到端加密。该功能延续苹果自2025年3月公布、并在iOS 26.4测试版中推进的计划，早期仅限关闭iMessage的少量用户。加密启用后聊天界面会显示锁形图标，功能仍处测试阶段，将分批覆盖新旧会话并自动开启。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562132.htm",
@@ -417,20 +438,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/science/1562128.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-12T02:36:44+08:00"
-            },
-            {
-              "title": "特朗普称美伊停火协议命悬一线 华府据报考虑恢复军事行动",
-              "brief": "特朗普称美伊停火协议岌岌可危，并将与国家安全团队讨论伊朗战事下一步，包括恢复军事行动的可能。谈判在周日陷入僵局后，霍尔木兹海峡仍接近封锁，市场担忧能源运输受阻，布伦特油价一度升破每桶104美元。报道称伊朗已在波斯湾部署“加迪尔”袖珍潜艇，部分油轮在接近海峡后折返，美国也在考虑护航等应对方案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562126.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-12T01:41:56+08:00"
-            },
-            {
-              "title": "杭州一街道被电商拉黑背后：一场由“无理由退货”引爆的规则之争",
-              "brief": "杭州盈丰街道等地被部分电商旗舰店限制发货，引发对“拉黑某地”现象的关注。多位商家称，这类限制通常与试穿退货、运费险套利和调包等恶意退货集中有关，后台工具甚至可精确到街道或乡镇。商家认为高退货率会拉低评分、增加损耗并扭曲投产比，而平台在退货争议中偏向买家、又缺乏抑制恶意账号的算法，是矛盾长期存在的背景。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562124.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-12T01:41:48+08:00"
             }
           ]
         }
