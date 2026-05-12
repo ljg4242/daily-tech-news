@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T12:53:46.335350+08:00",
+  "generated_at": "2026-05-12T14:55:59.484073+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "部分 Galaxy S26 机型已被实现 Root 利用，Magisk 也已运行",
+              "brief": "网络安全团队 Dark Navy 表示，他们已在搭载 Exynos 2600 的 Galaxy S26 和 S26 Plus 上实现 root 漏洞利用，并让 Magisk 在其中一台设备上运行。由于三星这些年持续收紧 Android 手机权限，并在 One UI 8 中移除了 S26 系列的引导加载程序解锁选项，这项进展尤其引人关注。团队称该漏洞可从应用上下文触发，Galaxy S26 Ultra 不受影响，因为它只配备 Snapdragon 芯片。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-root-exploit-3665778/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-12T14:41:01+08:00"
+            },
+            {
               "title": "Google Home 更新提速，增强家庭语境理解并简化反馈",
               "brief": "谷歌开始向 Google Home 推送 5 月 11 日更新，同时发布 Home 应用 4.16 版。这次调整的重点，是让 Gemini for Home 在家庭场景中更理解用户口中的人物和物品，减少机械式问答。更新后，它可结合已保存的家庭信息回答摄像头历史问题，计时器和闹钟更快，智能屏新增语音结果点赞和点踩按钮，应用也优化了温控器及二维码配网。",
               "source_url": "https://www.androidauthority.com/google-home-may-11-updates-3665734/",
@@ -195,19 +202,26 @@
               "source_url": "https://www.androidauthority.com/sony-1000x-the-collexion-black-white-renders-3665640/",
               "source_name": "Android Authority",
               "published_at": "2026-05-12T04:35:47+08:00"
-            },
-            {
-              "title": "Spotify 在 Google Cast 设备上出现故障，暂时没有简易修复办法",
-              "brief": "Spotify已确认正在调查一项故障：在Android版Spotify Connect中，Chromecast、Chromecast Audio和Nest音箱等Google Cast设备会消失，用户看不到可投放目标。问题仅影响Spotify，因为Tidal、YouTube Music和Plex仍能正常识别这些设备。官方尚未给出修复时间，临时办法包括用Google Home或语音先启动播放，或回退到旧版应用。",
-              "source_url": "https://www.androidauthority.com/google-cast-devices-disappearing-from-spotify-connect-3665673/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-12T04:29:03+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "索尼新款可穿戴空调降温能力进一步提升",
+              "brief": "索尼发布可穿戴降温设备 Reon Pocket Pro Plus，并将通过自营商店及亚马逊在英国和欧洲销售。这一产品线始于2017年、2019年众筹后上市，核心并非挂颈风扇，而是利用珀耳帖效应在颈部基底以金属板制冷。新款降温幅度提升2摄氏度、约增20%，算法更精准，次高档续航最长10小时，固定鳍片稳定性提高40%，并配备静音风扇和过热自动关机机制。",
+              "source_url": "https://www.engadget.com/2169805/sony-reon-pocket-pro-plus-wearable-air-cooler/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T14:00:00+08:00"
+            },
+            {
+              "title": "Google Home 版 Gemini 现在会回答玛格丽塔配方了",
+              "brief": "谷歌更新了 Google Home 版 Gemini 的防护规则，成年人现在向智能家居设备询问玛格丽塔等鸡尾酒配方时，不再被未成年人过滤规则拦下。此前 Nest Hub 等设备会直接拒答酒精饮品配方；若仍异常，需检查家长控制和响应过滤设置。此次还加入语音交互后的好坏评反馈、更快且更个性化的回复、Home Brief 家庭摘要，以及更迅速的闹钟设置。",
+              "source_url": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T13:26:56+08:00"
+            },
             {
               "title": "OpenAI 推出网络安全项目 Daybreak，对标 Anthropic 的 Claude Mythos 方案",
               "brief": "OpenAI 推出网络安全计划 Daybreak，对标 Anthropic 的 Project Glasswing。该项目强调把防御能力前置到软件开发流程，而不只是事后修补漏洞；Mozilla 此前称，Claude Mythos Preview 曾帮助 Firefox 最新版发现并修补 271 个漏洞。Daybreak 将结合 Codex 与 GPT-5.5 系列模型，执行代码审查、漏洞分诊、补丁生成和验证，并已与多家厂商合作。",
@@ -228,26 +242,19 @@
               "source_url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
               "source_name": "Engadget",
               "published_at": "2026-05-12T04:04:31+08:00"
-            },
-            {
-              "title": "iOS 端到端加密 RCS 消息开始在测试版推出",
-              "brief": "苹果随 iOS 26.5 开始测试推出端到端加密的 RCS 消息，让 iPhone 与安卓之间的跨平台聊天首次可在兼容条件下获得更安全传输。这项功能要求双方设备及所接入运营商网络都支持相关标准，美国三大运营商已在首日上线；当对话顶部出现锁形图标，即表示该 RCS 会话已受保护，且新旧会话会逐步默认启用加密。",
-              "source_url": "https://www.engadget.com/2170011/ios-end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-12T02:20:49+08:00"
-            },
-            {
-              "title": "谷歌宣布首次发现由 AI 制作的零日漏洞利用",
-              "brief": "谷歌威胁情报团队称，首次发现有攻击者使用其判断由 AI 参与开发的零日漏洞利用，并原计划发动大规模攻击，谷歌的提前发现可能阻止了这次行动。零日漏洞因目标毫无准备时间而极具危险，谷歌未披露受害公司与攻击者身份，但表示已通知相关企业完成修补，并高度确信有 AI 参与发现漏洞和武器化过程。",
-              "source_url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-12T02:11:07+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "索尼升级可穿戴空调 Reon Pocket Pro Plus",
+              "brief": "索尼发布新款可穿戴个人空调 Reon Pocket Pro Plus，这是继去年 Pro 版后的升级型号，延续了公司 2019 年首次公布、面向个人降温场景的产品路线。新机并非彻底重做，而是围绕性能与外形继续优化，官方称制冷性能较上代提升 20%，机身更贴合颈部，也更容易隐藏在多种上衣内，同时重新设计排气结构，让热风更容易被导离身体；产品今日在欧洲等市场上市，售价 229 欧元或 199 英镑，索尼仍未提到美国上市计划。",
+              "source_url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+              "source_name": "The Verge",
+              "published_at": "2026-05-12T02:00:00-04:00"
+            },
             {
               "title": "OpenAI 发布对标 Claude Mythos 的 Daybreak",
               "brief": "OpenAI推出名为Daybreak的安全AI计划，目标是在攻击者发现漏洞前先完成检测与修补。该产品发布于Anthropic公布安全导向模型Claude Mythos及其Project Glasswing计划仅一个多月后，两者都瞄准安全场景。OpenAI称，Daybreak并非单一模型，而是结合GPT-5.5-Cyber与3月推出的Codex Security，依据组织代码建立威胁模型、聚焦潜在攻击路径，并验证和自动发现高风险漏洞。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-05-11T15:56:28-04:00"
-            },
-            {
-              "title": "Palantir 的忠实拥趸在穿这件夹克",
-              "brief": "帕兰提尔宣布在周边商店上架一款全棉工装外套，文章将其写成支持者表明立场的象征。这家公司近年因国防合同以及与美国移民和海关执法局合作而更为人所知。新外套售价239美元，提供亮蓝和黑两色，整体接近已进入主流男装的19世纪法式工装样式，原型本是体力劳动者的工作服，最明显的区别只是胸前口袋上的小号帕兰提尔标识。",
-              "source_url": "https://www.theverge.com/report/928026/palantir-chore-coat",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T14:26:04-04:00"
             }
           ]
         }
@@ -365,39 +365,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "宇树发布量产版载人机甲 GD01，售价 390 万元起",
-              "brief": "宇树发布全球首款量产版载人机甲GD01，公布其可变形设计与390万元起售价。文章核心信息集中在产品正式亮相和商业化定价两点，意味着这款载人机甲已以量产版身份对外发布。当前已明确的关键细节包括“全球首款量产版”定位、支持变形，以及390万元起售的价格门槛，相关信息均围绕发布本身展开。",
-              "source_url": "https://www.ithome.com/0/949/213.htm",
+              "title": "NASA阿耳忒弥斯3号火箭芯级完成竖立，准备近地轨道试飞",
+              "brief": "NASA已在肯尼迪航天中心飞行器装配大楼竖立阿耳忒弥斯3号SLS火箭芯级，接下来将安装4台RS-25发动机，并继续与其余箭体分段、猎户座飞船完成总装。该芯级高65米，整箭总高98米。由于星舰和蓝月登月器研发延期，原定首次载人登月的任务被改为近地轨道试飞，重点测试交会对接，最早有望于2027年末发射。",
+              "source_url": "https://www.ithome.com/0/949/270.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T12:34:38+08:00"
+              "published_at": "2026-05-12T14:45:28+08:00"
             },
             {
-              "title": "技嘉 RTX 5060 Ti 显卡现 AMD Radeon 字样，实为散热器装配错误",
-              "brief": "一名用户购买技嘉GeForce RTX 5060 Ti后，发现显卡散热罩侧面竟印有AMD Radeon字样。报道称这并非新产品泄露，而是生产或装配环节的物料混淆，显卡本体经上机确认仍是RTX 5060 Ti。已知出错部件是带Radeon标识的装饰件，技嘉截至目前尚未就此发布声明。",
-              "source_url": "https://www.ithome.com/0/949/212.htm",
+              "title": "莲花宣布2028年重返V8超跑市场",
+              "brief": "莲花跑车宣布将在2028年推出一款全新V8超跑，时隔22年重返这一细分市场，上一次同类产品还是Esprit。公司称新车将延续品牌轻量化理念，因此倾向采用混动而非插混方案，并借鉴Theory 1电动概念车设计语言。莲花暂未公布发动机供应商，只表示新车大概率在欧洲生产，甚至可能带来三座布局。",
+              "source_url": "https://www.ithome.com/0/949/266.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T12:30:46+08:00"
+              "published_at": "2026-05-12T14:43:27+08:00"
             },
             {
-              "title": "快手称正评估重组可灵 AI 相关资产及业务方案，或引入外部融资",
-              "brief": "快手表示，董事会正在评估关于重组可灵AI相关资产和业务的方案，其中可能涉及引入外部融资。此事与近期可灵AI分拆及融资传闻相关，晚点报道称其计划以200亿美元估值融资20亿美元。已披露背景还包括，可灵当前年化收入达到5亿美元，且较春节前已实现翻倍，董事会评估仍是目前公开表态的核心。",
-              "source_url": "https://www.ithome.com/0/949/211.htm",
+              "title": "IO Interactive公布《007：初露锋芒》实机，PS5 Pro支持60帧",
+              "brief": "IO Interactive公布《007：初露锋芒》实机演示，并确认游戏在PS5 Pro平台支持60帧运行。作为工作室迄今最具野心的项目，本作不会直接改编电影，而是讲述007代号背后的起源故事。官方表示，游戏将覆盖全球多地场景，包含潜行谍报、高科技装备使用和飞车追逐等内容，PC版还公布了从1080P 30帧到4K高帧的多档配置需求。",
+              "source_url": "https://www.ithome.com/0/949/265.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T12:25:21+08:00"
+              "published_at": "2026-05-12T14:43:11+08:00"
             },
             {
-              "title": "微信全国地震预警系统接入校园课堂大屏，可全屏倒计时弹窗提醒",
-              "brief": "微信全国地震预警系统已接入校园课堂大屏，让学校具备秒级触发的地震预警能力。该方案目前已在甘肃和辽宁率先试点，地震发生时可强制打断教学设备当前应用。关键细节是系统会以全屏倒计时弹窗和高音量语音播报进行强提醒，用于提升校园场景下的预警触达效率，并强化课堂场景中的即时告警。",
-              "source_url": "https://www.ithome.com/0/949/209.htm",
+              "title": "恶意下单敲诈900多家网店，买家获刑一年六个月",
+              "brief": "一名买家因针对900多家网店恶意下单、敲诈索赔被判有期徒刑一年六个月。其作案方式是先大额下单并申请“仅退款”，若遭拒绝，再以虚假质量问题、拒绝退款或好评返现等理由投诉施压，甚至追查关联店铺继续报复。案件累计恶意下单2700多次，金额超1000万元，并造成商家服务费等损失。",
+              "source_url": "https://www.ithome.com/0/949/262.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T12:23:56+08:00"
+              "published_at": "2026-05-12T14:41:33+08:00"
             },
             {
-              "title": "漫威公布独立恐怖宇宙《Midnight Universe》，8 月启动",
-              "brief": "漫威公布全新独立恐怖宇宙《Midnight Universe》，将推出X战警、神奇四侠和蜘蛛侠作品，首发时间定在今年8月。该系列独立于主宇宙、并非平行宇宙，而是完全重构的黑暗世界观。已公布安排包括8月《Midnight X-Men》、9月《Midnight Fantastic Four》和10月《Midnight Spider-Man》。",
-              "source_url": "https://www.ithome.com/0/949/208.htm",
+              "title": "QQ音乐上调豪华绿钻会员原价，月卡刊例价改为25元",
+              "brief": "QQ音乐宣布调整豪华绿钻会员原价，月卡刊例售价将由20元/张上调至25元/张。此次变化针对的是官方标价，而IT之家实测显示当前相关页面仍维持20元月卡展示。结合通知内容看，现阶段调整主要体现在刊例价层面，实际优惠价格预计暂未变化；目前QQ音乐仍提供豪华绿钻、超级会员和情侣会员三档方案。",
+              "source_url": "https://www.ithome.com/0/949/260.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T12:22:44+08:00"
+              "published_at": "2026-05-12T14:40:32+08:00"
             }
           ]
         },
@@ -405,39 +405,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "报道称马斯克、库克等将随特朗普访华，黄仁勋缺席",
-              "brief": "据路透社和彭博报道，特朗普访华随行商业代表团名单已基本明确，马斯克、库克、贝莱德和美光等公司负责人将同行，而英伟达CEO黄仁勋未获邀请。知情人士称，白宫此行商业议程重点放在农业和商业航空，因此受邀者多来自在华业务敞口较大的企业，名单还包括波音、GE航空、高通、Visa、万事达、嘉吉等高管。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562180.htm",
+              "title": "索尼推出新款穿戴式空调 Reon Pocket Pro Plus，制冷提升20%",
+              "brief": "索尼发布颈部穿戴式空调 Reon Pocket Pro Plus，称整体制冷性能比上一代提升约20%。该系列自2019年推出，定位夏季户外与通勤降温，不靠吹风，而是用贴肤冷却片导出体表热量并排出热空气。新机冷却片表面温度最高可再降2摄氏度，挂臂更稳更隐蔽，排气口可伸缩调角度，并配合缩小约18%的 Tag 2 传感器自动调节强度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562204.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:48:20+08:00"
+              "published_at": "2026-05-12T14:30:21+08:00"
             },
             {
-              "title": "消息称Coupang或因数据泄露面临最高1.5万亿韩元罚款",
-              "brief": "消息称，韩国个人信息保护委员会已就Coupang数据泄露案向公司通报拟采取的处分措施，这家电商可能面临最高1.5万亿韩元罚款。根据韩国数据保护法，罚款上限可按过去三年平均年销售额的3%计算；该案源于去年11月披露的泄露事件，今年2月联合调查确认，超过3360万个账户信息遭泄露，涉及姓名、电话和配送详情。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562178.htm",
+              "title": "《GTA6》获 M 级 17+ 评级，确认含裸露与暴力内容",
+              "brief": "《GTA6》已获得美国市场 ESRB 的 M 级 17+ 评级，确认将包含裸露、暴力等成人内容。评级通常会在游戏发售前数周到数月公布，因此这次信息被视为项目进入后期推进阶段的信号。报道提到，R 星目前仍有望遵守 2026 年 11 月 19 日的发售日期；该作原定于 2025 年底上市，之后已经两度延期，欧洲 PEGI 评级暂未公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562202.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:46:29+08:00"
+              "published_at": "2026-05-12T13:00:01+08:00"
             },
             {
-              "title": "黄仁勋称AI正开启新的工业时代，技工岗位将升温",
-              "brief": "黄仁勋在周末演讲中表示，人工智能不仅催生新的计算机产业，也正在开启新的工业时代，电工、焊工、水管工和建筑工人等技术岗位将迎来机会。这一判断与AI基础设施投资扩张有关，科技公司正大举建设数据中心、芯片工厂和制造设施；招聘分析显示，近三年技术工人需求显著上升，其中建筑、电工和焊工增幅明显。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562176.htm",
+              "title": "最新研究称玩家为装饰品氪金并不全是为了炫耀",
+              "brief": "一项新研究分析了玩家为游戏皮肤、服装和虚拟形象等装饰品付费的动机，结论称并非都为了炫耀。研究聚焦免费服务型游戏中不影响平衡性的装饰性消费，并调查了 239 名有过氪金经历的玩家。结果显示，101 名千禧一代更看重获得他人关注与认可，138 名 Z 世代则多表示主要是取悦自己，不太在意别人怎么看。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562200.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:46:03+08:00"
+              "published_at": "2026-05-12T12:59:21+08:00"
             },
             {
-              "title": "受签证限制影响，美国高校春季外国本科新生减少20%",
-              "brief": "一项面向多国高校的调查显示，受签证限制和更严格审查影响，美国高校今年春季外国本科新生人数同比减少20%。国际学生通常支付全额学费，因此这一变化被视为秋季招生的重要风向标，也可能带来预算压力。调查称，84%的美国高校将政府限制性政策列为主因，去年夏天学生签证发放量也下滑36%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562174.htm",
+              "title": "Xbox 实体游戏新封面曝光，新增联网与光盘标签",
+              "brief": "多款 Xbox 实体游戏的新封面图片流出，包括《异形：侠盗入侵》《刺客信条：黑旗记忆重置》和《堡垒之夜》。这些封面底部新增灰色标签，标注“游戏光盘”“需要联网”，《刺客信条：黑旗记忆重置》还写明需联网下载内容。玩家担心新设计会遮挡封面艺术，不过 Xbox 尚未正式确认，因此这组新包装样式目前仍需谨慎看待。",
+              "source_url": "https://www.cnbeta.com.tw/articles/comic/1562198.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:45:34+08:00"
+              "published_at": "2026-05-12T12:59:05+08:00"
             },
             {
-              "title": "OpenAI联合创始人私人日记曝光，成马斯克诉讼焦点",
-              "brief": "在马斯克起诉OpenAI的庭审中，联合创始人格雷格·布罗克曼近十年前的私人日记被当庭朗读，成为争议焦点。马斯克团队借其中关于营利化、控制权和与马斯克关系的记录，证明OpenAI早期已偏离非营利使命；布罗克曼则称这些内容只是高压时期的意识流式私人思考，脱离上下文会造成误读。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562172.htm",
+              "title": "AMD 新卡 RX 9050 规格曝光，或成入门级新选择",
+              "brief": "AMD 新卡 RX 9050 规格曝光，或成为入门级选择。爆料称该卡采用 Navi 44 XT 核心，不同于 RX 9060 使用的 Navi 44 XL 版本，但目前仍只是单一来源信息。参数为 8GB GDDR6 显存、128 位位宽和 288GB/s 带宽，频率为 1920MHz、加速频率 2600MHz，电源功率为 450W。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562196.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:44:28+08:00"
+              "published_at": "2026-05-12T12:58:46+08:00"
             }
           ]
         },
@@ -445,39 +445,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "花旗：日本外汇干预规模或最高达30万亿日元",
-              "brief": "花旗策略师预计，日本当局在此前可能已动用约10万亿日元进行汇市干预后，后续累计干预规模最高或达30万亿日元。Osamu Takashima等人在研报中称，这一测算建立在日本外汇储备仍超过1.3万亿日元的基础上；如果财务省准备接受本轮外储降幅与2022年至2024年大致相当，日本就仍有继续买入日元、实施更大规模干预的余地。",
-              "source_url": "https://36kr.com/newsflashes/3805787099815684?f=rss",
+              "title": "特斯拉前首席财务官Deepak Ahuja加入Redwood任CFO",
+              "brief": "电池回收公司Redwood宣布，特斯拉前首席财务官Deepak Ahuja已正式加入公司并出任首席财务官。该公司聚焦电池回收业务，此次任命的背景信息主要体现在新CFO的人选履历上，即Ahuja曾在特斯拉担任首席财务官。已披露的关键细节集中于任命结果、任职公司以及其在Redwood所担任的CFO职位。",
+              "source_url": "https://36kr.com/newsflashes/3805948017155589?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 12:47:44  +0800"
+              "published_at": "2026-05-12 14:50:31  +0800"
             },
             {
-              "title": "瑞银维持年底金价5600美元、银价100美元预测",
-              "brief": "瑞银维持对今年年底金价和银价的预测不变，仍预计分别达到每盎司5600美元和100美元。该行称，支撑贵金属的基本面因素依然完整；尽管伊朗战争爆发后金价承压，但通胀上升、美国联储维持利率不变压缩实际利率，仍对黄金有支撑。Joni Teves还指出，散户与机构持续买入，以及全球央行大概率不会停止购金或直接抛售，都强化了这一判断。",
-              "source_url": "https://36kr.com/newsflashes/3805786482188036?f=rss",
+              "title": "亚马逊启动首笔六批次瑞士法郎债券发售",
+              "brief": "亚马逊已启动首笔六批次瑞士法郎债券发售。这次发售的背景信息主要体现在融资形式和币种安排上，即亚马逊首次进行瑞士法郎债券融资，并采用六个批次的结构推进。原始快讯披露的关键细节仅包括发行主体为亚马逊、此次为首笔发售、分六批次进行，以及债券以瑞士法郎计价。",
+              "source_url": "https://36kr.com/newsflashes/3805945048096512?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 12:38:06  +0800"
+              "published_at": "2026-05-12 14:47:30  +0800"
             },
             {
-              "title": "中航民机机载系统工程中心增资至50亿元",
-              "brief": "中航民机机载系统工程中心有限公司近日发生工商变更，新增中国航空工业集团有限公司为股东，注册资本也由1.9亿元增至50亿元，增幅约2532%。该公司成立于2020年11月，法定代表人为胡林平，业务覆盖民用航空器零部件设计生产、维修、软件开发及雷达配套设备制造，目前由中航机载系统有限公司与新增股东共同持股。",
-              "source_url": "https://36kr.com/newsflashes/3805784703868418?f=rss",
+              "title": "中证协调研券商合规评估实效，探索AI赋能路径",
+              "brief": "中国证券业协会近期在行业内开展2026年度证券公司合规管理有效性评估及合规类自律规则“立改废释”专项调研，系统了解行业合规实践状况，为后续优化自律监管规则和提升合规管理有效性奠定基础。调研点出管理层重视不足、评估流于形式、与其他检查重复等共性挑战，并将探索AI、智能体等新兴技术应用列为前瞻方向。",
+              "source_url": "https://36kr.com/newsflashes/3805944268463880?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 12:30:19  +0800"
+              "published_at": "2026-05-12 14:46:43  +0800"
             },
             {
-              "title": "公司正评估可灵AI相关资产重组及外部融资方案",
-              "brief": "针对媒体关于可灵AI相关资产及业务拟引入外部融资并独立上市的报道，公司表示，董事会正在评估重组相关资产和业务的方案，以进一步利用外部财务资源，其中可能包括引入外部融资。公司同时强调，目前方案仍处于初步阶段，尚未签署任何最终协议，相关安排是否推进仍存在不确定性。",
-              "source_url": "https://36kr.com/newsflashes/3805805349871360?f=rss",
+              "title": "厚朴投资获澳门新基金法生效后首个投资基金管理公司牌照",
+              "brief": "厚朴投资宣布，厚朴（澳门）投资基金管理股份有限公司已获许可设立。此事依据澳门特别行政区行政长官签署的第83/2026号行政长官批示推进，背景是澳门新《投资基金法》已经生效。关键细节在于，厚朴澳门因此成为该法生效后澳门首家依法设立的投资基金管理公司。",
+              "source_url": "https://36kr.com/newsflashes/3805940267507457?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 12:25:24  +0800"
+              "published_at": "2026-05-12 14:42:38  +0800"
             },
             {
-              "title": "汉朔科技：目前暂无港股上市计划",
-              "brief": "汉朔科技在互动平台表示，公司目前没有港股上市计划。公司同时说明，若未来出现相关安排并达到信息披露标准，将严格按照规定及时履行信息披露义务。该表态直接回应了市场对其赴港上市的关注，现阶段公司未披露具体时间表、方案或筹备进展，核心信息是暂无此类计划。",
-              "source_url": "https://36kr.com/newsflashes/3805783572487940?f=rss",
+              "title": "沪深两市成交额连续第五日突破3万亿",
+              "brief": "沪深两市成交额已连续第五个交易日突破3万亿元，市场成交继续维持在高位。与前一日同一时点相比，当日成交额缩量超过2800亿元，说明在总量仍处高位的同时，较前一日有所回落。原始快讯披露的关键细节主要包括连续第五日突破3万亿元，以及较上日此时缩量超2800亿元。",
+              "source_url": "https://36kr.com/newsflashes/3805938458304263?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 12:23:09  +0800"
+              "published_at": "2026-05-12 14:40:48  +0800"
             }
           ]
         },
