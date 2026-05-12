@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T19:05:14.666982+08:00",
+  "generated_at": "2026-05-12T20:56:47.160325+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 轻点支付在南非上线",
+              "brief": "苹果宣布 iPhone 轻点支付已在南非推出，商户只需配合支持的 iOS 应用，即可直接用 iPhone 接受非接触式付款。该功能于 2022 年 2 月先在美国上线，此后持续扩展，苹果今年初称已覆盖全球 50 个市场。南非首批支持平台为 iStore Pay 和 Yoco，现支持万事达与维萨，稍后将加入美国运通，需 iPhone XS 或更新机型。",
+              "source_url": "https://www.macrumors.com/2026/05/12/tap-to-pay-on-iphone-launches-in-south-africa/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T19:15:27+08:00"
+            },
             {
               "title": "史蒂夫·乔布斯美国1美元纪念币开售",
               "brief": "美国铸币局已开始在官网销售印有史蒂夫·乔布斯形象的1美元“美国创新币”。该项目自2018年启动，旨在表彰美国各州、领地及哥伦比亚特区的重要创新与创新者。这枚纪念币把年轻的乔布斯置于北加州风景前，官方称其展现了自然环境如何启发他把复杂技术变得直观易用；25枚卷装售61美元，100枚袋装售154.50美元。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/11/apple-color-io-acquisition/",
               "source_name": "MacRumors",
               "published_at": "2026-05-12T07:09:20+08:00"
-            },
-            {
-              "title": "OpenAI 推出利用 GPT-5.5 查找软件漏洞的 Daybreak 平台",
-              "brief": "OpenAI发布网络防御平台Daybreak，使用GPT-5.5与Codex Security协助科技公司在日常开发中发现、验证并修复软件漏洞。该项目被定位为从软件起点内置防御能力，呼应Anthropic的Glasswing计划，也建立在4月推出的GPT-5.4-Cyber之上，OpenAI称后者已推动修复3000多个漏洞。Daybreak还能依据代码库生成可编辑的威胁模型、持续监测高风险问题，并提供包含漏洞扫描的评估。",
-              "source_url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T06:08:02+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Spotify 推出全历史版 Wrapped：Party of the Year(s)",
+              "brief": "Spotify为庆祝成立20周年，推出名为Party of the Year(s)的全历史回顾功能，让用户查看自己在平台上的完整收听轨迹。这相当于把年度Wrapped扩展到全部使用年份，背景是Spotify想强化个性化与分享体验。页面会展示首听歌曲、累计收听过的不同歌曲数量、最常听艺人，以及按播放次数统计的120首个人历史金曲歌单。",
+              "source_url": "https://9to5mac.com/2026/05/12/spotify-party-of-the-years-is-your-all-time-spotify-wrapped/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T20:41:45+08:00"
+            },
+            {
+              "title": "FBI 可能已远程重置你的无线路由器，若是如此应更换设备",
+              "brief": "美国司法部披露，FBI曾在法院授权下远程修复一批被俄罗斯情报机构入侵的家用和小型办公室路由器，因此部分用户的设备设置可能被改回正常状态。事件背景是攻击者利用TP-Link路由器已知漏洞劫持DNS请求，用于情报行动。官方同时强调，这些设备若已停更或接近停更，用户仍应更新固件、核查DNS，并在必要时直接更换路由器。",
+              "source_url": "https://9to5mac.com/2026/05/12/the-fbi-may-have-reset-your-wireless-router-remotely-if-so-you-should-replace-it/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T20:10:59+08:00"
+            },
+            {
+              "title": "iRobot 破产重组后发布八款更小更强的 Roomba",
+              "brief": "iRobot在完成破产重组后公布八款全新Roomba扫地机器人，试图以更紧凑和更丰富的产品线重振业务。这次更新延续公司被Picea接手后的调整方向，重点对标更拥挤的清洁机器人市场。新机型据称整体体积最多缩小25%，覆盖入门到高端区间，并加入更强吸力、滚筒拖布、LiDAR导航和自动清洗基站等配置。",
+              "source_url": "https://9to5mac.com/2026/05/12/irobot-announces-eight-smaller-and-better-roomba-bots-after-bankruptcy/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T19:51:32+08:00"
+            },
+            {
+              "title": "Digg 在被机器人攻陷后放出新版预览",
+              "brief": "Digg在此前因机器人与AI垃圾内容冲击而关闭重启版后，又放出了下一版产品预览，方向从类Reddit社区改回新闻聚合。背景是公司认为公开社区难以对抗自动化账号，也缺少足够差异化。新首页目前先聚焦AI新闻，展示最热、讨论升温和快速上升的话题，并引用浏览量、评论、点赞和收藏等外部互动数据来排序内容。",
+              "source_url": "https://9to5mac.com/2026/05/12/you-can-preview-the-new-new-digg-after-its-takeover-by-bots/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T19:13:20+08:00"
+            },
+            {
               "title": "Apple @ Work 播客：2026 年苹果设备管理趋势",
               "brief": "9to5Mac 发布一期《Apple @ Work》播客，主题聚焦 2026 年苹果设备管理相关趋势。内容围绕苹果设备持续进入办公与企业环境这一背景，讨论未来一年设备管理领域可能关注的方向。就当前输入可确认的关键信息而言，已明确这是一期播客节目，核心议题是 2026 年苹果设备管理趋势本身。",
               "source_url": "https://9to5mac.com/2026/05/12/apple-work-podcast-the-2026-trends-around-apple-device-management/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-12T18:00:00+08:00"
-            },
-            {
-              "title": "WhatsApp 测试版展示消息回应等“液态玻璃”改版",
-              "brief": "WhatsApp iOS 最新 TestFlight 版本显示，Meta 正为消息回应和上下文菜单加入“液态玻璃”设计。此前这一风格只在底部导航和聊天页部分元素小范围测试，随后又扩展到聊天界面和语音消息播放器，多数正式版用户至今仍未见到。WABetaInfo 提前启用后发现，新界面会增强透明感，以减少应用内视觉不一致，且目前连 beta 测试者也还无法直接使用。",
-              "source_url": "https://9to5mac.com/2026/05/11/whatsapp-beta-previews-liquid-glass-changes-for-message-reactions-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T08:22:42+08:00"
-            },
-            {
-              "title": "蒂姆·库克确认将随特朗普总统访华",
-              "brief": "白宫确认，苹果 CEO 蒂姆·库克将随特朗普总统于 5 月 12 日启程访华，并在当周晚些时候与中国领导人习近平会面。此事之所以受关注，是因为库克去年缺席特朗普阿联酋之行后，一度引发后者不满，随后还出现针对未在美国生产 iPhone 的 25% 关税威胁。同行名单超过十位，还包括贝莱德、黑石、Meta、Micron、Qualcomm、Tesla 和 Visa 等企业高管。",
-              "source_url": "https://9to5mac.com/2026/05/11/tim-cook-among-ceos-confirmed-for-president-trumps-china-trip/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T07:49:40+08:00"
-            },
-            {
-              "title": "如何购买美国铸币局纪念乔布斯的 1 美元硬币",
-              "brief": "美国铸币局宣布，纪念史蒂夫·乔布斯的加州版 American Innovation 1 美元硬币将于 5 月 12 日中午开售。该币属于自 2018 年启动的长期创新纪念币系列，2026 年加州币是当年第三款，背面为年轻乔布斯与北加州山丘图案，并刻有“STEVE JOBS”和“MAKE SOMETHING WONDERFUL”。官方提供费城和丹佛铸造的 25 枚卷装与 100 枚袋装，单户各限购 10 件。",
-              "source_url": "https://9to5mac.com/2026/05/11/heres-how-to-get-the-u-s-mints-1-coin-honoring-steve-jobs/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T07:19:02+08:00"
-            },
-            {
-              "title": "Apple 地图将精细城市体验扩展至罗马和那不勒斯",
-              "brief": "苹果将 Apple Maps 的 Detailed City Experience 扩展到罗马和那不勒斯，让两地获得细致的 3D 城市地图与导航信息。该功能自 2021 年随 iOS 15 推出后持续扩张，目标是提升城市浏览和驾车识别体验。更新后，用户可看到更丰富的高程、车道与道路标识、树木、公园、公交和自行车道，以及定制绘制的地标建筑。",
-              "source_url": "https://9to5mac.com/2026/05/11/apple-maps-expands-detailed-city-experience-to-rome-and-naples/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T06:45:43+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星本周面向 Galaxy S26 推出基于 Android 17 的 One UI 9 测试版",
+              "brief": "三星宣布本周启动面向Galaxy S26系列的One UI 9测试版，系统基于Android 17，首批仅在德国、印度、韩国、波兰、英国和美国开放。此次更新聚焦创作工具、个性化、无障碍和安全性，三星笔记新增装饰胶带与更多笔触样式，联系人可直接进入Creative Studio，快捷面板支持更细布局调节，并会在识别高风险新应用时发出警告、阻止运行和安装并建议删除。",
+              "source_url": "https://9to5google.com/2026/05/12/samsung-galaxy-one-ui-9-beta-android-17/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T20:33:40+08:00"
+            },
             {
               "title": "Google Wallet 开始推送新版首页与搜索设计",
               "brief": "Google 正在向更多用户分批推送 Google Wallet 改版，首页下半部分与搜索页采用新设计，但目前仍未广泛开放。此次更新延续 4 月曝光的方案，重点是让卡券更易区分、首页展示更可控。改版后卡券改为每行两张并加入主题背景，支持长按拖拽排序，还可设定哪些卡券显示在首页，原右下角加号按钮也改为居中的分体式按钮。",
@@ -115,19 +122,19 @@
               "source_url": "https://9to5google.com/2026/05/11/google-home-gemini-speed-ask-home-voice-updates/",
               "source_name": "9to5Google",
               "published_at": "2026-05-12T05:35:00+08:00"
-            },
-            {
-              "title": "Android 版 Gemini 浮层基本加入圈选搜索功能",
-              "brief": "谷歌在 Android 上的 Gemini 浮层开始广泛加入类似“圈选搜索”的屏幕选择能力，让用户可圈出屏幕任意内容并作为图片加入提问。这项更新的意义在于，相比 Gemini 过去只会在相关时自动参考当前屏幕，现在用户能更精确指定区域；圈选后还能用拖拽手柄微调，点选图片可调用现有绘图工具，另外加号菜单新增“Screen content”以手动添加整屏内容，随最新版 Google 应用 17.20 稳定版推送。",
-              "source_url": "https://9to5google.com/2026/05/11/gemini-overlay-circle-search/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-12T03:34:59+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "SpaceX 再次刷新史上最高火箭纪录",
+              "brief": "SpaceX 在得州星港完成星舰 V3 的堆叠、加注测试和发射演练，为这款新版本首次发射铺路。这是公司三年内第三次刷新史上最高火箭纪录，V3 比前代更高也更强，升级包括推力更大的猛禽发动机、可重复使用的热分离结构，以及由四片改为三片的栅格翼，后续目标是验证在轨加注并支持 NASA 阿尔忒弥斯登月任务。",
+              "source_url": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-12T19:00:34+08:00"
+            },
             {
               "title": "Linux两周内再曝严重漏洞",
               "brief": "Linux 又曝出近两周内第二个严重漏洞“Dirty Frag”，可让容器、虚拟机用户等低权限账户提升到 root，进而控制服务器。这类攻击在多人共用的环境中尤其危险，且在获得初始入侵点后也可被利用。公开泄露的利用代码据称三天前已上线，几乎适用于所有主流发行版，微软还观察到黑客在现实环境中试验，正式补丁应尽快安装。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-12T04:37:00+08:00"
-            },
-            {
-              "title": "汉坦病毒邮轮乘客抵达美国，3人进入生物隔离",
-              "brief": "发生安第斯汉坦病毒疫情的邮轮MV Hondius抵达特内里费岛外海加那利群岛后开始疏散乘客，并在离船过程中再确认1例病例。此次疫情被称为前所未有，世卫组织与西班牙方面协调撤离安排，所有下船人员改乘特别包机返国而非商业航班；船上原有147人，30名船员将留船驶回鹿特丹，累计病例增至9例，其中3人已死亡。",
-              "source_url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-12T02:12:43+08:00"
             }
           ]
         },
