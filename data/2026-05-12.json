@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T17:01:46.236184+08:00",
+  "generated_at": "2026-05-12T19:05:14.666982+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "史蒂夫·乔布斯美国1美元纪念币开售",
+              "brief": "美国铸币局已开始在官网销售印有史蒂夫·乔布斯形象的1美元“美国创新币”。该项目自2018年启动，旨在表彰美国各州、领地及哥伦比亚特区的重要创新与创新者。这枚纪念币把年轻的乔布斯置于北加州风景前，官方称其展现了自然环境如何启发他把复杂技术变得直观易用；25枚卷装售61美元，100枚袋装售154.50美元。",
+              "source_url": "https://www.macrumors.com/2026/05/12/steve-jobs-us-commemorative-coin-on-sale/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T16:50:40+08:00"
+            },
             {
               "title": "iOS 26.5 新功能一览",
               "brief": "苹果在数月测试后正式发布 iOS 26.5，新增内容虽不含原本外界期待的 Siri 功能，但带来多项实用更新。版本加入 iPhone 与安卓之间 RCS 消息端到端加密，需双方运营商支持最新版 RCS，且默认开启；同时新增可自定义的 Pride Luminance 壁纸，地图加入基于近期搜索和附近趋势的地点建议，并为欧盟第三方可穿戴设备开放更多连接与通知能力。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
               "source_name": "MacRumors",
               "published_at": "2026-05-12T06:08:02+08:00"
-            },
-            {
-              "title": "欧盟 iPhone 用户在 iOS 26.5 中获得第三方穿戴设备配对和通知转发新功能",
-              "brief": "iOS 26.5在欧盟为第三方穿戴设备带来新的互操作功能，让非苹果配件可获得更接近AirPods和Apple Watch的体验。这是苹果为遵守《数字市场法》开放原本受限功能的结果，相关改动已自iOS 26.3开始测试。更新后，支持的耳机可一键近距配对，智能手表等设备可接收并互动iPhone通知、显示实时活动，但通知同一时间只能转发到一台已连接设备。",
-              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T04:50:22+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple @ Work 播客：2026 年苹果设备管理趋势",
+              "brief": "9to5Mac 发布一期《Apple @ Work》播客，主题聚焦 2026 年苹果设备管理相关趋势。内容围绕苹果设备持续进入办公与企业环境这一背景，讨论未来一年设备管理领域可能关注的方向。就当前输入可确认的关键信息而言，已明确这是一期播客节目，核心议题是 2026 年苹果设备管理趋势本身。",
+              "source_url": "https://9to5mac.com/2026/05/12/apple-work-podcast-the-2026-trends-around-apple-device-management/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T18:00:00+08:00"
+            },
             {
               "title": "WhatsApp 测试版展示消息回应等“液态玻璃”改版",
               "brief": "WhatsApp iOS 最新 TestFlight 版本显示，Meta 正为消息回应和上下文菜单加入“液态玻璃”设计。此前这一风格只在底部导航和聊天页部分元素小范围测试，随后又扩展到聊天界面和语音消息播放器，多数正式版用户至今仍未见到。WABetaInfo 提前启用后发现，新界面会增强透明感，以减少应用内视觉不一致，且目前连 beta 测试者也还无法直接使用。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/05/11/apple-maps-expands-detailed-city-experience-to-rome-and-naples/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-12T06:45:43+08:00"
-            },
-            {
-              "title": "Apple 让 Apple Card 用户更容易在网页访问储蓄账户",
-              "brief": "苹果为 Apple Card Savings 新增网页入口，当前和已关闭 Apple Card 账户的用户都可在浏览器中查看并管理储蓄账户。此前相关操作主要依赖 Wallet 应用，这次调整提供了无法使用钱包时的备用方式。网页端支持查看当前与可用余额、年内已付利息和年收益率，并可下载账单及税务文件，但界面比应用更简洁。",
-              "source_url": "https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T06:09:51+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "这家 T-Mobile 虚拟运营商正打造能替你接电话的语音分身",
-              "brief": "运营在T-Mobile网络上的虚拟运营商REALLY正在开发名为Clone的AI助手，可用你的声音替你接听电话并代为沟通。其背景是创始人认为大量电话事务可交给AI处理，尤其适合预约改期、客服沟通和筛掉骚扰来电。当你忙碌、无法接听或不想理会陌生号码时，它会学习你的声音、说话方式与沟通偏好，以你的口吻接起电话，并在结束后发送摘要。",
-              "source_url": "https://www.androidauthority.com/t-mobile-ai-voice-clone-3665817/",
+              "title": "谷歌搜索今天发生大范围宕机",
+              "brief": "谷歌搜索今天早些时候出现大范围故障，许多用户无法正常加载搜索页或获得结果，因此一度误以为是自家网络或运营商出了问题。报道称故障并不限于美国，菲律宾、韩国、印度等多地用户也在社交平台和 Reddit 反馈服务器错误，Downdetector 在美国东部时间凌晨 1 点左右的报障量明显激增；问题随后很快恢复，但谷歌尚未说明原因，也未在状态面板显示相关事故。",
+              "source_url": "https://www.androidauthority.com/google-search-outage-3665890/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T16:41:48+08:00"
+              "published_at": "2026-05-12T18:58:42+08:00"
             },
             {
-              "title": "今天如何观看 The Android Show I/O Edition 直播",
-              "brief": "Google将于5月12日晚些时候在YouTube直播2026年版The Android Show I/O Edition，观众可通过Android官方YouTube频道观看。这项活动延续了谷歌把安卓相关发布从I/O主会场拆分出来的做法，预计会带来Android 17和移动AI方面的新消息。直播时间为太平洋时间10:00、美国东部时间13:00、GMT 17:00，视频页可先点提醒。",
-              "source_url": "https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/",
+              "title": "DJI 确认 Osmo Pocket 4P 发布日期，评测信息提前泄露",
+              "brief": "DJI已确认Osmo Pocket 4P将于5月14日在法国戛纳发布，相关评测与上手内容也在发布前流出。背景是该系列此前一直采用单传感器方案，这次据称首次加入独立长焦。泄露信息称它配备1英寸主摄，并新增1/1.5英寸、等效70mm的长焦镜头，支持3倍光学变焦，早期样片显示人像取景更自然、背景虚化更强。",
+              "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4p-launch-date-and-new-leak-3665931/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T15:53:08+08:00"
+              "published_at": "2026-05-12T18:48:26+08:00"
             },
             {
-              "title": "抢先看：泄露信息显示 Gemini Omni 可生成逼真 AI 视频",
-              "brief": "一名Reddit用户在Gemini应用中提前看到了名为Gemini Omni的新模型入口，描述显示它是谷歌新的AI视频生成工具。其背景是Google I/O 2026临近，外界正陆续看到Gemini新功能迹象。早期测试里，数学讲解视频在逻辑与画面真实感上表现突出，但复杂晚餐场景仍出现物体凭空出现等常见AI瑕疵，元数据还暗示它与Veo有关。",
-              "source_url": "https://www.androidauthority.com/google-gemini-omni-video-model-leak-3665801/",
+              "title": "我把旧平板改造成自托管照片展示屏，体验胜过市售产品",
+              "brief": "一篇经验文章介绍，作者把一台已不适合日常重度使用、但仍有高分辨率屏幕的旧Android平板改造成自托管照片展示屏。背景是许多数码爱好者手里都有闲置旧设备，而市售智能相框常被认为体验差且价格偏高。作者将平板与Immich Kiosk结合后，得到无广告、无订阅、强调隐私且可完全自定义的展示方案。",
+              "source_url": "https://www.androidauthority.com/android-tablet-self-hosted-photo-display-3662727/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T15:36:32+08:00"
+              "published_at": "2026-05-12T18:30:48+08:00"
             },
             {
-              "title": "沃尔玛可能又有一款更便宜的 Google TV 串流设备在路上",
-              "brief": "沃尔玛在美国刚推出新的Onn 4K Streaming Stick后，另一款更便宜的Google TV设备也可能已在路上。FCC文件显示，一款名为Onn Full HD Streaming Device的新设备已送审，外形与2023年售价14美元的1080p旧款几乎一致。现有信息更像是供应链调整而非大幅升级，包括代工厂从Luxshare换成Skyworth、生产地从越南转到墨西哥。",
-              "source_url": "https://www.androidauthority.com/walmart-full-hd-google-tv-stick-2026-fcc-listing-3665791/",
+              "title": "60 美元的 Onn 4K Pro 过于抢手，黄牛正以两倍价格转卖",
+              "brief": "Walmart售价60美元的Onn 4K Pro流媒体盒子在一场混乱且未正式官宣的上市后，不到一个月就出现大范围缺货。背景是这款新品以4K支持和低价被视为很有吸引力，但供应本就有限。报道指出，缺货又被黄牛囤货放大，原价60美元的设备已在eBay和Facebook Marketplace上被转卖到约90至100美元，官网页面也显示无货。",
+              "source_url": "https://www.androidauthority.com/walmart-onn-4k-pro-scalpers-3665875/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T14:50:59+08:00"
+              "published_at": "2026-05-12T18:30:25+08:00"
             },
             {
-              "title": "部分 Galaxy S26 机型已被实现 Root 利用，Magisk 也已运行",
-              "brief": "网络安全团队 Dark Navy 表示，他们已在搭载 Exynos 2600 的 Galaxy S26 和 S26 Plus 上实现 root 漏洞利用，并让 Magisk 在其中一台设备上运行。由于三星这些年持续收紧 Android 手机权限，并在 One UI 8 中移除了 S26 系列的引导加载程序解锁选项，这项进展尤其引人关注。团队称该漏洞可从应用上下文触发，Galaxy S26 Ultra 不受影响，因为它只配备 Snapdragon 芯片。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-root-exploit-3665778/",
+              "title": "Google 刚刚阻止了一起由 AI 参与构建的零日利用",
+              "brief": "Google披露，网络犯罪分子正把AI从写钓鱼邮件的辅助工具，升级为攻击流程中的核心能力，并称已拦截一起可能由AI参与构建的零日利用案例。背景是GTIG最新发现显示，攻击者如今会用AI寻找软件漏洞、编写恶意软件、绕过防护并自动化部分攻击。文中还提到名为PROMPTSPY的AI恶意程序可随受感染系统调整行为，几乎无需太多人为控制。",
+              "source_url": "https://www.androidauthority.com/google-ai-made-zero-day-exploit-3665858/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-12T14:41:01+08:00"
+              "published_at": "2026-05-12T18:09:21+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "史蒂夫·乔布斯1美元创新币今日开售，整卷61美元起",
+              "brief": "美国铸币局将于5月12日美国东部时间中午开售印有苹果联合创始人史蒂夫·乔布斯形象的1美元“创新币”。该系列自2018年起发行，用于表彰美国创新及相关个人或团体；这枚2026年版背面呈现乔布斯年轻时盘腿沉思的形象，并刻有其姓名和“Make something wonderful”，25枚卷装售价61美元，100枚袋装售价154.50美元，费城与丹佛铸造版本今日可选购。",
+              "source_url": "https://www.engadget.com/2170555/steve-jobs-coin-on-sale-today/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T18:44:11+08:00"
+            },
+            {
+              "title": "路特斯将恢复为旗下车型提供内燃机",
+              "brief": "曾宣布转向纯电的路特斯如今确认回归内燃机，发布“Focus 2030”规划，未来产品线将同时覆盖燃油、混动和纯电动力。这一调整延续了外界此前预期，混动将成为重点：面向中国市场的Eletre X已采用Hybrid-X技术，预计2028年发布的新旗舰Type 135将搭载986马力混动V8，现有燃油跑车Emira也将在数周内迎来更新。",
+              "source_url": "https://www.engadget.com/2170515/lotus-vision-2030-type-135/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T17:19:41+08:00"
+            },
             {
               "title": "Digg 再次回归，转向聚合 AI 新闻",
               "brief": "Digg再次上线，这次转型为聚合人工智能新闻的网站，目前已以alpha版本在di.gg开放。公司称互联网噪音越来越大，先从变化最快、最嘈杂的AI领域筛选有效信息，未来还会扩展更多垂直主题。站点现基于X社交图谱追踪1000名AI研究、投资和媒体相关人士，此前Digg今年1月重启公测后曾在两个月内因SEO垃圾信息和机器人攻击而关闭。",
@@ -228,26 +242,26 @@
               "source_url": "https://www.engadget.com/2170470/gemini-google-home-cocktail-recipes-update/",
               "source_name": "Engadget",
               "published_at": "2026-05-12T13:26:56+08:00"
-            },
-            {
-              "title": "OpenAI 推出网络安全项目 Daybreak，对标 Anthropic 的 Claude Mythos 方案",
-              "brief": "OpenAI 推出网络安全计划 Daybreak，对标 Anthropic 的 Project Glasswing。该项目强调把防御能力前置到软件开发流程，而不只是事后修补漏洞；Mozilla 此前称，Claude Mythos Preview 曾帮助 Firefox 最新版发现并修补 271 个漏洞。Daybreak 将结合 Codex 与 GPT-5.5 系列模型，执行代码审查、漏洞分诊、补丁生成和验证，并已与多家厂商合作。",
-              "source_url": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-12T09:07:37+08:00"
-            },
-            {
-              "title": "天文学家利用韦布望远镜改进宇宙网地图",
-              "brief": "研究团队利用詹姆斯·韦布空间望远镜绘制出迄今最精细的宇宙网地图，进一步呈现连接星系与星系团的暗物质、气体和丝状结构。这一基础框架决定宇宙大尺度结构，过去难以在宇宙早期清晰观测；新成果把观测推进到宇宙诞生后仅数亿年的时期，并揭示此前被混在一起或被抹平的更多细节，相关论文已发表于《天体物理学杂志》。",
-              "source_url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-12T06:54:56+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "eBay拒绝GameStop 560亿美元收购要约",
+              "brief": "eBay正式拒绝GameStop提出的560亿美元收购要约，称这笔针对该在线市场平台的交易在运营与融资层面都存在明显风险。eBay董事会周二致信GameStop首席执行官瑞安·科恩，表示该提议既不可信，也缺乏吸引力。董事会称，评估时已考虑eBay独立发展前景、融资方案不确定性、合并后的杠杆与领导结构，以及对长期增长、盈利、估值、公司治理和高管激励的影响。",
+              "source_url": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
+              "source_name": "The Verge",
+              "published_at": "2026-05-12T06:55:02-04:00"
+            },
+            {
+              "title": "新款 Roomba 体积更小、价格更低",
+              "brief": "iRobot发布八款新Roomba扫地机器人，主打机身更小、价格更低，起售价229英镑，部分机型比现有产品便宜最多200英镑。该公司在去年推出首批基于激光雷达的机型后，仅隔一年就更新产品线，也是在去年底申请破产并重启业务后的一次重要发布。新系列的关键变化包括更强吸力、更容易在家中穿行的更小机身、更多配备滚筒拖布的型号，以及新增“热点拖地”功能。",
+              "source_url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+              "source_name": "The Verge",
+              "published_at": "2026-05-12T05:02:25-04:00"
+            },
             {
               "title": "索尼升级可穿戴空调 Reon Pocket Pro Plus",
               "brief": "索尼发布新款可穿戴个人空调 Reon Pocket Pro Plus，这是继去年 Pro 版后的升级型号，延续了公司 2019 年首次公布、面向个人降温场景的产品路线。新机并非彻底重做，而是围绕性能与外形继续优化，官方称制冷性能较上代提升 20%，机身更贴合颈部，也更容易隐藏在多种上衣内，同时重新设计排气结构，让热风更容易被导离身体；产品今日在欧洲等市场上市，售价 229 欧元或 199 英镑，索尼仍未提到美国上市计划。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
               "source_name": "The Verge",
               "published_at": "2026-05-11T18:40:20-04:00"
-            },
-            {
-              "title": "米拉·穆拉蒂的AI公司正在研发什么",
-              "brief": "由前OpenAI首席技术官米拉·穆拉蒂创办的Thinking Machines周一宣布，正在研发名为“交互模型”的AI系统，目标是让人与AI像人与人协作那样自然配合。公司称，这类模型会持续接收音频、视频和文本输入，并能实时思考、回应和行动，以改进现有模型在用户输入未结束前只能等待、生成时又会暂停感知的局限。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T18:19:15-04:00"
-            },
-            {
-              "title": "Govee 新款便携智能灯首次打折",
-              "brief": "Govee 新推出的便携智能台灯 Table Lamp Classic 首次开启促销，目前在亚马逊售 63.99 美元，较 80 美元原价便宜 16 美元。这篇报道关注它作为飞利浦 Hue Go 的低价替代选择，适合喜欢便携智能灯概念、但难以接受百美元以上售价的消费者。产品采用可充电设计，内置 4800mAh 电池，彩色灯光模式续航最长 30 小时，较亮白光模式约 5 小时。",
-              "source_url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T15:56:28-04:00"
             }
           ]
         }
@@ -294,45 +294,66 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《X档案》重启版新增史蒂夫·布西密、艾米·马迪根、本·福斯特等演员",
-              "brief": "《X档案》重启版一次公布8位新演员，包括史蒂夫·布西密、艾米·马迪根、本·福斯特等，现阶段都被称为客串角色。该剧由瑞恩·库格勒推进开发，2023年传出重启消息，今年2月获Hulu试播集订单。此前已知丹妮尔·戴德怀勒与希米什·帕特尔将饰演调查离奇案件并逐渐建立联系的两名FBI探员，剧集上映日期和与旧版世界观的关联仍未公布。",
-              "source_url": "https://www.ign.com/articles/the-x-files-reboot-adds-steve-buscemi-amy-madigan-ben-foster-and-more-to-its-cast",
+              "title": "任天堂确认《塞尔达传说》新 amiibo 将于今年晚些时候推出，角色来自《王国之泪》",
+              "brief": "任天堂确认《塞尔达传说》“王国之泪”角色米涅鲁构造体 amiibo 将于 9 月 17 日发售，定价 34.99 美元。这是《王国之泪》上市三年多后才推出的相关手办，官方没有说明为何此时发布。任天堂称其采用更精细的造型设计，手臂还能活动摆姿；在 Switch 或 Switch 2 扫描后，可为《王国之泪》《旷野之息》和《海拉鲁无双：封印战记》提供随机道具，并解锁专属滑翔伞布料。",
+              "source_url": "https://www.ign.com/articles/nintendo-confirms-the-legend-of-zelda-amiibo-due-later-this-year-featuring-tears-of-the-kingdom-character",
               "source_name": "IGN",
-              "published_at": "2026-05-12T09:24:33+08:00"
+              "published_at": "2026-05-12T17:51:32+08:00"
             },
             {
-              "title": "《指环王：力量之戒》第三季首播日期公布，首张剧照释出",
-              "brief": "Prime Video公布《指环王：力量之戒》第三季首播日期，并释出首张剧照。亚马逊米高梅电视业务负责人彼得·弗里德兰德表示，这部剧自开播以来一直是平台最具规模与野心的全球系列之一，来自全球数百万观众的热烈反馈让中土故事持续推进。第三季时间线将较第二季跳跃数年，来到精灵与索伦战争的顶点，索伦试图铸造至尊魔戒，以赢得战争并将中土众族束缚于其意志之下。",
-              "source_url": "https://www.ign.com/articles/rings-of-power-season-3-premiere-date-photo",
+              "title": "《侠探杰克》第四季开播前获第五季续订",
+              "brief": "Prime Video 在第四季于今年晚些时候开播前，提前续订《侠探杰克》第五季。平台表示，第三季上线前 19 天已在全球吸引 5460 万观众，成为自《辐射》第一季以来同期表现最好的 Prime Video 剧集。第五季将改编哪本李·查德小说尚未公布；第四季则已确认改编系列第 13 本小说《Gone Tomorrow》，而剧集并未按原著出版顺序拍摄。",
+              "source_url": "https://www.ign.com/articles/reacher-renewed-for-fifth-season-ahead-of-season-four-premiere",
               "source_name": "IGN",
-              "published_at": "2026-05-12T06:45:06+08:00"
+              "published_at": "2026-05-12T17:08:38+08:00"
             },
             {
-              "title": "《黑袍纠察队》第五季第7集预告：Gen V英雄回归，祖国人现身椭圆形办公室",
-              "brief": "《黑袍纠察队》第五季第7集预告紧接第6集结尾展开，休伊说出“结束了，我们输了”，并正式确认《V世代》角色回归。此前士兵男孩已把V-One交给祖国人，使布彻一行针对他的超级病毒计划不得不调整；预告中还短暂展示擅长血液操控的玛丽·莫罗、可切换身体的乔丹·李，以及祖国人现身白宫椭圆形办公室，为5月13日上线的倒数第二集埋下关键悬念。",
-              "source_url": "https://www.ign.com/articles/the-boys-season-5-episode-7-teaser-finally-brings-back-gen-v-heroes-as-homelander-takes-the-oval-office",
+              "title": "伊恩·麦克莱恩称亚历克·吉尼斯曾劝他停止支持同性恋权益组织",
+              "brief": "伊恩·麦克莱恩透露，《星球大战》欧比旺演员亚历克·吉尼斯曾劝他停止支持同性恋权益组织 Stonewall。这段往事来自他接受《卫报》采访时对“最糟建议”的回忆：两人一次午餐见面原本只是聊天，吉尼斯随后提到麦克莱恩参与 Stonewall 的工作，并建议他不要卷入政治议题。相关说法由麦克莱恩本人讲述，背景是他长期公开支持同性恋权益。",
+              "source_url": "https://www.ign.com/articles/lord-of-the-rings-star-ian-mckellen-says-obi-wan-actor-alec-guinness-told-him-to-drop-support-for-gay-rights-charity",
               "source_name": "IGN",
-              "published_at": "2026-05-12T05:45:57+08:00"
+              "published_at": "2026-05-12T16:59:08+08:00"
             },
             {
-              "title": "《神秘海域4》新视频披露艾米·亨尼格废案细节",
-              "brief": "一段新视频披露了艾米·亨尼格主导、后被废弃的《神秘海域4》更多设定，让玩家首次较系统地看到其原始方向。该版本总体仍围绕内森、伙伴和失散兄弟寻找亨利·埃弗里宝藏展开，但故事推进与正式版差异明显；查理·卡特会回归，山姆更像对立角色，玩家还能操作萨利与海盗亨利·埃弗里，战斗也曾考虑弱化枪战、强化近战。",
-              "source_url": "https://www.ign.com/articles/uncharted-4-video-finally-reveals-details-about-amy-hennigs-scrapped-version",
+              "title": "《匹诺曹的谎言》续作进入全面开发阶段",
+              "brief": "Neowiz 在最新财报中确认，《匹诺曹的谎言》续作原型已获批准，项目已进入全面开发阶段。这意味着在去年确认续作存在后，开发正式从验证推进到完整制作，但公司暂未公布发售窗口。财报还提到，DLC《Overture》带来的收入已趋于稳定，团队正围绕全球化 IP 拓展与粉丝运营推动增长，并同步推进一个全新 IP。",
+              "source_url": "https://www.ign.com/articles/lies-of-p-sequel-enters-full-production-phase",
               "source_name": "IGN",
-              "published_at": "2026-05-12T05:44:43+08:00"
+              "published_at": "2026-05-12T16:52:04+08:00"
             },
             {
-              "title": "环球通过Discord为诺兰《奥德赛》开启数字冒险",
-              "brief": "环球影业正围绕克里斯托弗·诺兰的《奥德赛》搭建一套跨平台互动宣发，并把Discord作为入口。片方在Instagram公布一串网址数字，访问后会进入影片服务器；目前已开放聊天、任务和Reddit线索等板块，首个任务由马特·达蒙发起，超过120万用户合力“建造”特洛伊木马，用户等级也会随活动推进逐步提升。",
-              "source_url": "https://www.ign.com/articles/universal-invites-audiences-on-a-digital-odyssey-for-christopher-nolans-the-odyssey-via-discord",
+              "title": "世嘉取消神秘“Super Game”项目，收缩免费游戏业务",
+              "brief": "世嘉在 2026 财年业绩说明中确认，已取消 2021 年公布的神秘项目“Super Game”，原因是新免费游玩作品表现不佳，公司正在收缩并重审其 GaaS 策略。该项目原计划最晚于 2026 年 3 月底前推出，曾被描述为面向全球、强调在线生态与 IP 利用的大型计划。世嘉称取消未产生额外费用，百余名相关人员已转入“完整游戏”团队，现有多款经典 IP 重启项目不受影响。",
+              "source_url": "https://www.ign.com/articles/sega-cancels-mysterious-super-game-5-years-after-it-was-announced-amid-pull-back-from-underperforming-free-to-play",
               "source_name": "IGN",
-              "published_at": "2026-05-12T05:32:23+08:00"
+              "published_at": "2026-05-12T16:47:48+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "《极限竞速：地平线6》开发商严惩游玩泄露版玩家",
+              "brief": "《极限竞速：地平线6》在正式发售前10天泄露，可游玩的版本先于正版渠道出现在盗版网站。开发商 Playground Games 证实文件外流，警告玩家不要运行泄露版，否则可能面临全系列封禁和硬件封禁。一名 YouTube 主播因用泄露版上传45分钟视频已被永久封禁，期限显示至9999年12月31日。",
+              "source_url": "https://www.solidot.org/story?sid=84276",
+              "source_name": "Solidot",
+              "published_at": "2026-05-12T17:04:38+08:00"
+            },
+            {
+              "title": "印度总理呼吁恢复居家办公应对中东能源危机",
+              "brief": "为应对中东能源危机，印度总理莫迪呼吁重新实行居家办公，并在未来一年减少海外旅行。印度约有一半原油和液化天然气进口依赖中东，政府一直抑制与民生直接相关的汽油和柴油涨价，但面向企业的液化石油气等燃料价格上涨更明显。莫迪还建议优先采用在线视频会议，并敦促农民减少化肥使用。",
+              "source_url": "https://www.solidot.org/story?sid=84275",
+              "source_name": "Solidot",
+              "published_at": "2026-05-12T16:08:00+08:00"
+            },
+            {
+              "title": "Debian 将把可复现构建设为软件包要求",
+              "brief": "Debian 发布团队宣布，项目软件包今后将必须满足可复现构建要求。这一要求所指的可复现，是开发者在 Debian 构建环境实例中进行构建时应得到一致结果。为此，发布团队将阻止无法复现的新软件包迁移，也会拦截可复现性较现状下降的现有软件包，把可复现构建纳入发布门槛。",
+              "source_url": "https://www.solidot.org/story?sid=84274",
+              "source_name": "Solidot",
+              "published_at": "2026-05-12T15:54:14+08:00"
+            },
             {
               "title": "Linux 内核将停止支持 AMD K5 处理器",
               "brief": "Linux 7.2 将停止支持 AMD K5 处理器，此前 Linux 7.1 已开始逐步淘汰有 37 年历史的英特尔 i486。K5 是 AMD 于 1996 年 3 月推出的首款完全自主设计处理器，目标是与英特尔奔腾竞争，但实际性能仍有差距。由于 K5 不支持时间戳计数器 TSC 指令，而该指令如今已被视为现代 Linux 的启动要求，内核接下来还会继续移除其他不支持 TSC 的 CPU，不过支持 TSC 的奔腾仍将继续获得支持。",
@@ -346,26 +367,19 @@
               "source_url": "https://www.solidot.org/story?sid=84272",
               "source_name": "Solidot",
               "published_at": "2026-05-12T14:35:20+08:00"
-            },
-            {
-              "title": "分析师称主权云在中美之外难以实现",
-              "brief": "Gartner副总裁Douglas Toombs表示，完全拥有自主权的主权云在中美之外很难实现，因为只有美国和中国掌握建设所需的全部技术。即便是AWS Outposts、Azure Local或甲骨文专有云区域等本地云服务，也仍需与母公司通信；他据此判断欧洲主权云尝试难成功，并预计市场最终将稳定在AWS、Google和微软三家。",
-              "source_url": "https://www.solidot.org/story?sid=84271",
-              "source_name": "Solidot",
-              "published_at": "2026-05-11T22:36:58+08:00"
-            },
-            {
-              "title": "本田新专利为电动摩托车模拟离合器",
-              "brief": "最新披露的专利显示，本田正为电动摩托车开发模拟离合器，以复现传统燃油摩托车的驾驶体验，满足起步操控和车感反馈需求。该系统会依据离合器杆位置调整电机响应，半拉时按比例降低输出，完全拉起时切断动力；专利还提到可先拉住离合器提升转速再快速松开实现爆发式起步，并用多个振动电机模拟发动机震动和咬合点触感。",
-              "source_url": "https://www.solidot.org/story?sid=84270",
-              "source_name": "Solidot",
-              "published_at": "2026-05-11T22:17:31+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "两个隐藏代码让 Windows 11 更流畅：60716524、61391826",
+              "brief": "Windows 11 最近在开发者预览体验计划 Beta 频道测试 Low Latency Profile，可明显提升应用启动、开始菜单和右键菜单等交互响应速度，让系统操作更流畅。其背景是现代操作系统会短暂提高 CPU 频率并优先处理交互任务，以降低延迟；对应功能可用 ViveTool 通过 60716524 和 61391826 两个 ID 启用。",
+              "source_url": "https://www.appinn.com/windows-11-low-latency-profile-cpu-boost/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-12T16:15:31+08:00"
+            },
             {
               "title": "《中国软件著作权申请材料》生成器：自动生成申请资料",
               "brief": "有开发者在 GitHub 分享了一款可在 Codex 中使用的《中国软件著作权申请材料》生成器 Skill，可按流程引导用户确认关键信息，并在本地生成整套软著申请资料。文章称软著个人也能免费申请，真正费时的是申请表、操作手册和代码等文字材料；该工具可从真实项目抽取源码，按前后 30 页规则处理代码，并支持一键导出 Word 和 TXT。",
@@ -379,39 +393,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "李想公布自研马赫M100芯片，全新理想L9 Livis首发",
-              "brief": "理想汽车宣布自研车规级推理芯片马赫M100，并由全新理想L9 Livis首发搭载。李想称团队四年前就确定采用更适配AI时代的动态数据流架构，自研并非跟风烧钱，而是为解决供应商技术难题。该芯片采用5nm车规级工艺，单芯算力1280TOPS，配合模型与芯片同步研发后，端到端延迟下降40%，车辆反应速度号称比人快一倍。",
-              "source_url": "https://www.ithome.com/0/949/393.htm",
+              "title": "国产AI游戏《历史模拟器：崇祯》因“本体买断、词元收费”引争议，官方称将开放自接模型",
+              "brief": "国产AI游戏《历史模拟器：崇祯》因“本体买断、词元收费”引发争议，官方回应称后续将开放玩家自行接入支持范围内的大模型服务，以便自由选择模型并控制成本。游戏还将上线创意工坊，允许玩家基于核心框架创作剧本、规则和玩法内容；具体开放时间、支持模型范围与上传审核规则，后续会以正式功能公告形式公开。",
+              "source_url": "https://www.ithome.com/0/949/477.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T16:53:44+08:00"
+              "published_at": "2026-05-12T18:48:00+08:00"
             },
             {
-              "title": "银昕发布超薄M.2 SSD散热套件TP07，符合PS5安装要求",
-              "brief": "银昕推出超薄M.2 SSD散热套件TP07，主打在有限空间内为固态硬盘提供额外散热，并强调符合PS5主机的安装要求。其卖点是压缩整体厚度，以兼顾主机扩容与散热需求。产品采用铝制散热结构并配备导热散热贴，官方参数显示净重32.3克，厚9.8毫米，宽23.7毫米，长70.2毫米。",
-              "source_url": "https://www.ithome.com/0/949/386.htm",
+              "title": "SpaceX星舰V3完成首次燃料加注，试飞进入倒计时",
+              "brief": "SpaceX已为3代星舰与超重型助推器完成首次全箭燃料加注，并宣布发射彩排结束，试飞进入倒计时。这是第12次试飞前的重要节点，彩排中按真实倒计时流程加注了超过5000公吨液氧和液态甲烷推进剂。公司尚未公布具体日期，但这次亚轨道试飞最快可能在当地时间5月15日进行。",
+              "source_url": "https://www.ithome.com/0/949/475.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T16:49:06+08:00"
+              "published_at": "2026-05-12T18:35:14+08:00"
             },
             {
-              "title": "富士胶片2025财年营收增5%，影像业务第四季度增22.6%",
-              "brief": "富士胶片公布2025财年业绩，全年营收同比增长5%，营业利润和归母净利润分别增长6.1%和6.0%，并预计连续第16年提高分红。增长的重要动力来自影像业务，尤其是2026年1至3月所在第四季度表现强劲。该季度影像业务营收同比增22.6%至1414亿日元，Instax系列热销，GFX100RF、X half、X-E5和X-T30 III也带动收入提升。",
-              "source_url": "https://www.ithome.com/0/949/382.htm",
+              "title": "任天堂确认今年晚些时候推出《塞尔达传说：王国之泪》amiibo",
+              "brief": "任天堂确认将于今年晚些时候推出《塞尔达传说：王国之泪》amiibo，新配件采用“米涅鲁的构造体”形象。该游戏早在去年已登陆Switch 2，但任天堂并未说明为何直到今年才发售这款amiibo。文中还提到，任天堂至今尚未庆祝《塞尔达传说》系列诞生40周年。",
+              "source_url": "https://www.ithome.com/0/949/474.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T16:46:40+08:00"
+              "published_at": "2026-05-12T18:34:27+08:00"
             },
             {
-              "title": "美国圣克拉拉县起诉Meta，指其纵容诈骗广告年获利70亿美元",
-              "brief": "美国加州圣克拉拉县起诉Meta，指控其纵容平台上的诈骗广告并从中长期获利，要求返还非法所得、支付民事赔偿并接受禁令约束。诉状援引路透社此前曝光的内部文件称，Meta每年可从明显高风险的欺诈广告中获得70亿美元收入。县政府还指控其默许中介售卖广告账号、向曾点击虚假内容的用户继续推送诈骗广告，Meta表示将抗辩。",
-              "source_url": "https://www.ithome.com/0/949/379.htm",
+              "title": "腾讯收购喜马拉雅股权案获附条件批准：将严格履行承诺",
+              "brief": "市场监管总局已附加限制性条件批准腾讯收购喜马拉雅股权案，腾讯随后表态将严格遵守并认真履行各项承诺，确保交易依法合规推进。此次审批要求腾讯、喜马拉雅及集中后实体作出五项承诺，包括不得涨价或降质、不得减少免费内容、不得新增版权独家、不得向车厂搭售产品，也不得限制主播多平台入驻或分发作品。",
+              "source_url": "https://www.ithome.com/0/949/472.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T16:43:52+08:00"
+              "published_at": "2026-05-12T18:21:00+08:00"
             },
             {
-              "title": "美国商务部删除谷歌、xAI和微软AI模型安全测试协议细节",
-              "brief": "美国商务部官网删除了谷歌、xAI和微软参与AI模型安全测试协议的细节页面，此前该项目由商务部下属相关机构负责。按商务部5月5日说法，这些企业需在新模型面向公众发布前提交模型，供政府科研人员检测安全隐患。美国政府近来持续关注先进AI可能带来的国家安全风险，包括网络攻击和军事滥用等方向，目前尚不清楚删改原因。",
-              "source_url": "https://www.ithome.com/0/949/372.htm",
+              "title": "阿里云今起调整部分域名价格，.icu等续费价升至125元/年",
+              "brief": "阿里云宣布自今日起调整旗下部分域名价格，其中“.icu、.cyou、.bond”的续费价格调整为125元/年。平台同时表示，域名业务会不定期推出优惠口令、批量优惠包、注册优惠和周三转入日等活动，因此实际优惠价格仍以具体活动规则或订单结算价格为准。",
+              "source_url": "https://www.ithome.com/0/949/471.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T16:34:42+08:00"
+              "published_at": "2026-05-12T18:20:27+08:00"
             }
           ]
         },
@@ -419,39 +433,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "三星电子年内建成温阳新厂，加速HBM封装双轨化",
-              "brief": "三星电子计划在年内建成温阳新工厂，扩充HBM所需TSV封装产能，并推进封装双轨化布局。随着全球HBM需求激增，平泽P4建设加快、P5一期也将于下半年启动，现有天安C1至C3产线已满负荷，扩产空间不足。公司拟分阶段把部分先进封装人员转至温阳，并将部分通用DRAM封装人员迁往越南，相关调整预计5年内推进。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562208.htm",
+              "title": "欧盟拟整治 TikTok、Instagram“上瘾式设计”保护未成年人",
+              "brief": "欧盟正考虑立法限制 TikTok、Instagram 和 Facebook 的无尽滚动、自动播放及高频通知等设计，以加强未成年人保护。此举建立在《数字服务法》调查基础上，重点关注平台是否让儿童陷入饮食失调、自残等有害内容链条。欧盟同时推进高隐私标准的年龄验证应用，最快可能于今年夏季提出法律草案。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562220.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T15:29:43+08:00"
+              "published_at": "2026-05-12T19:00:18+08:00"
             },
             {
-              "title": "无忧传媒创始人凌晨发朋友圈称“无情无义的人不能交往”",
-              "brief": "无忧传媒与王暖暖解约后，公司创始人凌晨发朋友圈，配图写着“无情无义的人不能交往”。此前公司声明披露，自2023年6月签约以来曾为其配备30多人专属团队、投入80多个品牌资源，并主导完成300多次商务合作，同时承认双方在长期业务推进中存在分歧与争论。王暖暖当晚则表示，双方已友好协商一致并完成解约。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1562206.htm",
+              "title": "亚马逊在美国推出 30 分钟极速配送服务",
+              "brief": "亚马逊已在美国推出 Amazon Now 30 分钟极速配送，首批覆盖亚特兰大、达拉斯-沃斯堡、费城和西雅图，并将继续扩展到更多城市。该服务瞄准即时零售市场，直接与 DoorDash、Uber Eats 和 Instacart 竞争，Prime 会员每单配送费为 3.99 美元。亚马逊称其依靠更靠近用户的小型履约点来支撑半小时送达。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562218.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T15:29:27+08:00"
+              "published_at": "2026-05-12T18:59:36+08:00"
             },
             {
-              "title": "索尼推出新款穿戴式空调 Reon Pocket Pro Plus，制冷提升20%",
-              "brief": "索尼发布颈部穿戴式空调 Reon Pocket Pro Plus，称整体制冷性能比上一代提升约20%。该系列自2019年推出，定位夏季户外与通勤降温，不靠吹风，而是用贴肤冷却片导出体表热量并排出热空气。新机冷却片表面温度最高可再降2摄氏度，挂臂更稳更隐蔽，排气口可伸缩调角度，并配合缩小约18%的 Tag 2 传感器自动调节强度。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562204.htm",
+              "title": "索尼新款 WH-1000X 系列耳机渲染图曝光 或名为 The ColleXion",
+              "brief": "索尼一款疑似隶属 WH-1000X 系列的新头戴耳机渲染图曝光，传闻可能以 The ColleXion 命名。根据泄露信息，新机转轴、头梁与耳罩连接结构与 WH-1000XM6 不同，外观更偏一体化，表面材质也可能改为更强调质感的仿皮处理。其定价据称约 649 美元，定位高于现款旗舰，更像产品线扩展而非常规换代。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562216.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T14:30:21+08:00"
+              "published_at": "2026-05-12T18:57:38+08:00"
             },
             {
-              "title": "《GTA6》获 M 级 17+ 评级，确认含裸露与暴力内容",
-              "brief": "《GTA6》已获得美国市场 ESRB 的 M 级 17+ 评级，确认将包含裸露、暴力等成人内容。评级通常会在游戏发售前数周到数月公布，因此这次信息被视为项目进入后期推进阶段的信号。报道提到，R 星目前仍有望遵守 2026 年 11 月 19 日的发售日期；该作原定于 2025 年底上市，之后已经两度延期，欧洲 PEGI 评级暂未公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1562202.htm",
+              "title": "微软以色列区总经理因 Azure 伦理争议离职",
+              "brief": "微软以色列区总经理因围绕国防部使用 Azure 的伦理与合规争议离职，当地业务暂由微软法国接管。事件背景是微软持续调查以色列军方单位是否超出合同边界使用其云服务，相关部署还涉及欧洲服务器和隐私监管风险。报道称，以色列分公司多名管理者也相继离开，总部已派团队审查当地销售与信息披露情况。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562214.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T13:00:01+08:00"
+              "published_at": "2026-05-12T17:57:50+08:00"
             },
             {
-              "title": "最新研究称玩家为装饰品氪金并不全是为了炫耀",
-              "brief": "一项新研究分析了玩家为游戏皮肤、服装和虚拟形象等装饰品付费的动机，结论称并非都为了炫耀。研究聚焦免费服务型游戏中不影响平衡性的装饰性消费，并调查了 239 名有过氪金经历的玩家。结果显示，101 名千禧一代更看重获得他人关注与认可，138 名 Z 世代则多表示主要是取悦自己，不太在意别人怎么看。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1562200.htm",
+              "title": "爆料称《GTA6》5 月 12 日开启预购 标准版 69.99 英镑",
+              "brief": "一名英国零售商员工爆料称，《GTA6》预购可能于 5 月 12 日开启，标准版售价为 69.99 英镑，目前仅见到标准版资料。消息背景是 Take-Two 定于 5 月 21 日举行财报电话会议，外界因此猜测 Rockstar 或将在前后推进新一轮宣传。相关信息尚未获 Rockstar 或 Take-Two 官方证实，豪华版与同捆方案也暂无细节。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562212.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-12T12:59:21+08:00"
+              "published_at": "2026-05-12T17:54:09+08:00"
             }
           ]
         },
@@ -459,39 +473,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "英伟达4天涨出一个“甲骨文”，分析师称芯片需求未见放缓",
-              "brief": "报道称，英伟达在四天内的市值增量，被形容为相当于再涨出一家甲骨文，分析师同时表示芯片需求丝毫未见放缓。背景是市场持续把公司股价表现与芯片需求强弱联系在一起，短期涨势因此被放大解读。关键细节是，报道强调时间跨度只有四天，并以“甲骨文”作为量级参照，需求判断则直接指向芯片市场依旧强劲。",
-              "source_url": "https://36kr.com/newsflashes/3806062545280769?f=rss",
+              "title": "ST文峰董事长提议回购8000万元至1.2亿元股份",
+              "brief": "ST文峰公告称，董事长王钺提议公司使用自有资金回购股份，回购金额区间为8000万元至1.2亿元。此次回购用途已明确为员工持股计划或股权激励，属于上市公司常见的资本运作与激励安排。关键细节是资金来源为公司自有资金，且该事项目前以董事长提议形式披露，后续仍需公司按程序推进相关回购安排。",
+              "source_url": "https://36kr.com/newsflashes/3806188112928521?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 16:47:02  +0800"
+              "published_at": "2026-05-12 18:54:46  +0800"
             },
             {
-              "title": "张国华与宇树科技创始人王兴兴举行工作座谈",
-              "brief": "宇树科技股份有限公司创始人兼首席执行官、首席技术官王兴兴一行到雄安新区考察调研，并与雄安新区党工委书记、管委会主任张国华举行工作座谈。背景是王兴兴此行围绕雄安新区展开实地走访与交流。关键细节是，张国华同时担任河北省委常委，报道确认双方已会面并座谈，但未披露更多合作项目、议题安排或后续成果。",
-              "source_url": "https://36kr.com/newsflashes/3806058000588547?f=rss",
+              "title": "深交所上市委：嘉立创首发上市申请获通过",
+              "brief": "深交所上市审核委员会公告显示，深圳嘉立创科技集团股份有限公司首发申请已获通过。首发过会意味着公司在交易所审核环节取得重要进展，是企业推进A股上市流程中的关键节点。关键细节是这一结果来自深交所上市审核委员会2026年第22次审议会议，当前披露的核心信息即嘉立创首发获得通过。",
+              "source_url": "https://36kr.com/newsflashes/3806186597867013?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 16:42:24  +0800"
+              "published_at": "2026-05-12 18:53:13  +0800"
             },
             {
-              "title": "中机认检称目前不开展在用车辆电池BMS参数及SOC相关检测业务",
-              "brief": "中机认检在互动平台表示，公司目前不开展在用车辆电池BMS参数及SOC相关检测业务。背景是公司就外界关注的业务范围作出公开回应，明确现阶段服务边界。关键细节是，这一表态针对的是在用车辆电池检测场景，涉及BMS参数及SOC两类内容，报道未披露后续开展计划、新增安排或明确时间表。",
-              "source_url": "https://36kr.com/newsflashes/3806051458899720?f=rss",
+              "title": "瑞芯微：股东黄旭拟减持不超过1.53%股份",
+              "brief": "瑞芯微公告称，持股14.83%的股东黄旭计划减持公司股份，拟在15个交易日后的3个月内实施。该安排属于股东披露减持计划的常规资本市场事项，会影响市场对后续流通股变动的预期。关键细节是拟通过集中竞价和或大宗交易方式减持，合计不超过643万股，占公司股份总数的1.53%。",
+              "source_url": "https://36kr.com/newsflashes/3806185394281988?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 16:35:45  +0800"
+              "published_at": "2026-05-12 18:52:00  +0800"
             },
             {
-              "title": "UR与美团闪购达成战略合作",
-              "brief": "UR与美团闪购达成战略合作，首批合作门店将正式上线美团闪购，消费者可在线选购商品，并享受最快30分钟送达服务。背景是双方把合作落点放在即时零售场景，推动门店商品接入到家配送渠道。关键细节是，此次先由首批门店上线，核心交付承诺为线上下单后最快30分钟送达，强调的是门店即时履约能力。",
-              "source_url": "https://36kr.com/newsflashes/3806048079896326?f=rss",
+              "title": "现货黄金日内跌幅扩大至1%",
+              "brief": "市场快讯显示，现货黄金盘中跌幅进一步扩大至1%，最新报价为4685.88美元/盎司。该信息属于对贵金属市场日内价格波动的即时播报，用于反映黄金现货在交易时段内的最新走势变化。关键细节是本次更新强调“跌幅扩大至1%”，同时给出了4685.88美元/盎司这一最新成交参考价格。",
+              "source_url": "https://36kr.com/newsflashes/3806180666711809?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 16:32:19  +0800"
+              "published_at": "2026-05-12 18:47:11  +0800"
             },
             {
-              "title": "爆料称特斯拉AI6芯片订单或转向英特尔",
-              "brief": "爆料人Jukan在X上发文称，英特尔即将拿下特斯拉AI6芯片订单，生产安排可能从原定方案转移。背景是帖文将变化原因指向特朗普政府对特斯拉施压。关键细节是，AI6芯片原计划由三星电子生产，AI6.5芯片由台积电生产，同时业内也对英特尔的技术能否达到相应标准提出怀疑。",
-              "source_url": "https://36kr.com/newsflashes/3806045076512519?f=rss",
+              "title": "机构今日买入四方股份等21股，卖出光迅科技9.66亿元",
+              "brief": "龙虎榜数据显示，当天共有57只个股出现机构身影，其中21只获机构净买入，36只遭机构净卖出。该披露反映机构资金当日对个股的交易偏好，是观察市场活跃标的和资金流向的常见数据。关键细节是四方股份、芯源微、金海通位列机构净买入前三，光迅科技以9.66亿元净卖出额居机构净卖出首位。",
+              "source_url": "https://36kr.com/newsflashes/3806179018153472?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-12 16:29:15  +0800"
+              "published_at": "2026-05-12 18:45:31  +0800"
             }
           ]
         },
