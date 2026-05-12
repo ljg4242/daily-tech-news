@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T06:58:03.608046+08:00",
+  "generated_at": "2026-05-12T08:56:36.150628+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 26.5 新功能一览",
+              "brief": "苹果在数月测试后正式发布 iOS 26.5，新增内容虽不含原本外界期待的 Siri 功能，但带来多项实用更新。版本加入 iPhone 与安卓之间 RCS 消息端到端加密，需双方运营商支持最新版 RCS，且默认开启；同时新增可自定义的 Pride Luminance 壁纸，地图加入基于近期搜索和附近趋势的地点建议，并为欧盟第三方可穿戴设备开放更多连接与通知能力。",
+              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T08:09:01+08:00"
+            },
+            {
+              "title": "CarPlay 版谷歌地图将加入 Gemini AI",
+              "brief": "MacRumors 在 Google 地图应用代码中发现，CarPlay 版谷歌地图正准备接入 Gemini，让用户可在车机中获取更详细的导航与地点信息。这一变化与苹果在 iOS 26.4 开放第三方语音对话应用接入 CarPlay 有关；代码显示，用户需先在 iPhone 版谷歌地图同意新服务条款，之后可要求 Gemini 导航到指定地点，但该功能目前尚未正式上线。",
+              "source_url": "https://www.macrumors.com/2026/05/11/google-maps-carplay-gemini-ai/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T07:25:31+08:00"
+            },
+            {
+              "title": "苹果 1 月收购彩色分级工具 Color.io",
+              "brief": "欧盟最新披露显示，苹果今年 1 月收购了由 Jonathan Ochmann 持有的单人公司 Patchflyer，从而获得其打造的网页调色工具 Color.io，并聘用了 Ochmann。Color.io 以易用但功能强的胶片风格色彩与纹理处理见长，已于 2025 年 12 月底关闭；披露还提到苹果同期收购了计算机视觉初创公司 PromptAI，但这笔交易此前已为外界所知。",
+              "source_url": "https://www.macrumors.com/2026/05/11/apple-color-io-acquisition/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-12T07:09:20+08:00"
+            },
             {
               "title": "OpenAI 推出利用 GPT-5.5 查找软件漏洞的 Daybreak 平台",
               "brief": "OpenAI发布网络防御平台Daybreak，使用GPT-5.5与Codex Security协助科技公司在日常开发中发现、验证并修复软件漏洞。该项目被定位为从软件起点内置防御能力，呼应Anthropic的Glasswing计划，也建立在4月推出的GPT-5.4-Cyber之上，OpenAI称后者已推动修复3000多个漏洞。Daybreak还能依据代码库生成可编辑的威胁模型、持续监测高风险问题，并提供包含漏洞扫描的评估。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
               "source_name": "MacRumors",
               "published_at": "2026-05-12T04:50:22+08:00"
-            },
-            {
-              "title": "苹果 iOS 26.5 更新修复逾 50 个安全漏洞",
-              "brief": "苹果发布 iOS 26.5 与 iPadOS 26.5，修复了 50 多个安全漏洞，涉及图像处理、内核，以及快捷指令、Spotlight 和截图等组件。苹果表示目前没有已知漏洞被在野利用，但安全说明公开后，未更新设备可能更易被针对；本次还修复了 10 个可能导致敏感数据暴露或崩溃的 WebKit 漏洞，并向无法升级到 iOS 26 或 macOS Tahoe 的旧设备提供了额外安全更新。",
-              "source_url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T03:29:29+08:00"
-            },
-            {
-              "title": "亚马逊将 Apple Watch Series 11 最低直降 130 美元",
-              "brief": "亚马逊本周继续下调Apple Watch Series 11价格，多款型号来到历史最低位，最高优惠达到130美元。此次促销覆盖几乎全部铝金属GPS版，同时蜂窝网络版也出现新的大幅降价。具体来看，42毫米GPS版由399美元降至299美元，46毫米GPS版由429美元降至329美元，46毫米蜂窝版由529美元降至399美元，42毫米蜂窝版目前也优惠100美元。",
-              "source_url": "https://www.macrumors.com/2026/05/11/apple-watch-series-11-130-off/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T02:07:29+08:00"
-            },
-            {
-              "title": "Apple Developer 应用迎来 Liquid Glass 改版并新增 WWDC 2026 贴纸",
-              "brief": "苹果更新了Apple Developer应用，为其加入Liquid Glass风格新界面，并提供一组可在信息应用中使用的WWDC 2026主题动态贴纸。新版图标重新采用铅笔、画笔和尺子组成“A”字的设计，应用内也换上半透明导航栏、滑块和独立搜索按钮；同时新增未观看、已收藏、已下载及偏好主题筛选，并改进入驻流程中的图像采集可靠性。",
-              "source_url": "https://www.macrumors.com/2026/05/11/apple-developer-app-wwdc-2026-stickers/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-12T01:47:53+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "WhatsApp 测试版展示消息回应等“液态玻璃”改版",
+              "brief": "WhatsApp iOS 最新 TestFlight 版本显示，Meta 正为消息回应和上下文菜单加入“液态玻璃”设计。此前这一风格只在底部导航和聊天页部分元素小范围测试，随后又扩展到聊天界面和语音消息播放器，多数正式版用户至今仍未见到。WABetaInfo 提前启用后发现，新界面会增强透明感，以减少应用内视觉不一致，且目前连 beta 测试者也还无法直接使用。",
+              "source_url": "https://9to5mac.com/2026/05/11/whatsapp-beta-previews-liquid-glass-changes-for-message-reactions-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T08:22:42+08:00"
+            },
+            {
+              "title": "蒂姆·库克确认将随特朗普总统访华",
+              "brief": "白宫确认，苹果 CEO 蒂姆·库克将随特朗普总统于 5 月 12 日启程访华，并在当周晚些时候与中国领导人习近平会面。此事之所以受关注，是因为库克去年缺席特朗普阿联酋之行后，一度引发后者不满，随后还出现针对未在美国生产 iPhone 的 25% 关税威胁。同行名单超过十位，还包括贝莱德、黑石、Meta、Micron、Qualcomm、Tesla 和 Visa 等企业高管。",
+              "source_url": "https://9to5mac.com/2026/05/11/tim-cook-among-ceos-confirmed-for-president-trumps-china-trip/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T07:49:40+08:00"
+            },
+            {
+              "title": "如何购买美国铸币局纪念乔布斯的 1 美元硬币",
+              "brief": "美国铸币局宣布，纪念史蒂夫·乔布斯的加州版 American Innovation 1 美元硬币将于 5 月 12 日中午开售。该币属于自 2018 年启动的长期创新纪念币系列，2026 年加州币是当年第三款，背面为年轻乔布斯与北加州山丘图案，并刻有“STEVE JOBS”和“MAKE SOMETHING WONDERFUL”。官方提供费城和丹佛铸造的 25 枚卷装与 100 枚袋装，单户各限购 10 件。",
+              "source_url": "https://9to5mac.com/2026/05/11/heres-how-to-get-the-u-s-mints-1-coin-honoring-steve-jobs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-12T07:19:02+08:00"
+            },
             {
               "title": "Apple 地图将精细城市体验扩展至罗马和那不勒斯",
               "brief": "苹果将 Apple Maps 的 Detailed City Experience 扩展到罗马和那不勒斯，让两地获得细致的 3D 城市地图与导航信息。该功能自 2021 年随 iOS 15 推出后持续扩张，目标是提升城市浏览和驾车识别体验。更新后，用户可看到更丰富的高程、车道与道路标识、树木、公园、公交和自行车道，以及定制绘制的地标建筑。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-12T06:09:51+08:00"
-            },
-            {
-              "title": "苹果公开近期隐私导向 AI 与机器学习研讨会录影和研究",
-              "brief": "苹果公布了 2026 年隐私保护机器学习与 AI 研讨会的四段演讲录像和一份研究回顾，向外界开放活动内容。该两天会议聚焦在兼顾隐私与安全前提下推进机器学习与 AI，讨论私有学习与统计、基础模型与隐私、攻击与安全等主题。公开材料还涵盖联邦学习、隐私核算、信任模型以及基础模型记忆问题等研究方向。",
-              "source_url": "https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T04:59:32+08:00"
-            },
-            {
-              "title": "法院批准苹果申请，在司法部反垄断案中调取三星文件",
-              "brief": "美国法院已批准苹果提出的申请，允许其在司法部针对苹果的反垄断诉讼中，向三星寻求位于韩国母公司的内部文件。背景是苹果称这些材料与智能手机和智能手表市场竞争、用户跨平台转换及其政策是否造成反竞争影响直接相关，此前三星美国子公司称相关记录仅由韩国母公司持有。该请求依据《海牙取证公约》提出，后续仍需韩国方面决定是否执行。",
-              "source_url": "https://9to5mac.com/2026/05/11/court-grants-apples-request-to-seek-samsung-documents-in-doj-antitrust-case/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T04:11:36+08:00"
-            },
-            {
-              "title": "苹果更新巴西 App Store 博彩应用规则",
-              "brief": "苹果已调整巴西 App Store 对固定赔率博彩应用的上架要求。此举源于巴西博彩监管变化，开发者现在必须提交该国奖品与博彩秘书处颁发的有效牌照。苹果还规定，相关应用若在年龄分级问卷中被标记为博彩，将在巴西自动获得 A18 分级，且开发者需通过提交新版应用并附上牌照信息和证明文件启动审核，并遵守当地的风险提示与披露要求。",
-              "source_url": "https://9to5mac.com/2026/05/11/apple-updates-app-store-rules-for-betting-apps-in-brazil/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-12T03:29:16+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google Wallet 开始推送新版首页与搜索设计",
+              "brief": "Google 正在向更多用户分批推送 Google Wallet 改版，首页下半部分与搜索页采用新设计，但目前仍未广泛开放。此次更新延续 4 月曝光的方案，重点是让卡券更易区分、首页展示更可控。改版后卡券改为每行两张并加入主题背景，支持长按拖拽排序，还可设定哪些卡券显示在首页，原右下角加号按钮也改为居中的分体式按钮。",
+              "source_url": "https://9to5google.com/2026/05/11/google-wallet-redesign-2026/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-12T07:01:00+08:00"
+            },
             {
               "title": "安卓 2026 年 5 月 Google 系统更新新内容汇总",
               "brief": "谷歌公布了2026年5月Google系统更新，覆盖手机、电视、汽车与PC，变更涉及受监管用户、互联互通、安全与隐私等多个模块。此次更新新增Quick Share通过二维码和云传输把内容从Android发到iOS，支持将无线紧急警报翻译成系统语言，并加入冒充银行号码诈骗来电自动挂断等功能，同时改进高级保护与受监管账号管理体验。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/05/11/gemini-overlay-circle-search/",
               "source_name": "9to5Google",
               "published_at": "2026-05-12T03:34:59+08:00"
-            },
-            {
-              "title": "周一精选 Android 应用优惠与限免：《Conquistadorio》《Homo Machina》《Lara Croft GO》等",
-              "brief": "9to5Toys汇总了周一的Android应用优惠与限免，方便读者集中查看当天折扣。名单覆盖游戏、图标包和工具应用，包含《Lara Croft GO》4美元、《Paths & Danger》1美元、《Conquistadorio》0.5美元，以及《Grow Dungeon Hero VIP》《Backrooms》等免费项目。",
-              "source_url": "https://9to5toys.com/2026/05/11/monday-best-android-app-deals-conquistadorio-lara-croft-go/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-12T01:56:59+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "天文学家利用韦布望远镜改进宇宙网地图",
+              "brief": "研究团队利用詹姆斯·韦布空间望远镜绘制出迄今最精细的宇宙网地图，进一步呈现连接星系与星系团的暗物质、气体和丝状结构。这一基础框架决定宇宙大尺度结构，过去难以在宇宙早期清晰观测；新成果把观测推进到宇宙诞生后仅数亿年的时期，并揭示此前被混在一起或被抹平的更多细节，相关论文已发表于《天体物理学杂志》。",
+              "source_url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-12T06:54:56+08:00"
+            },
+            {
               "title": "得州总检察长起诉奈飞，称其未经同意收集用户数据",
               "brief": "得州总检察长肯·帕克斯顿已起诉奈飞，称其尽管对外表示不会这样做，仍在未经用户同意的情况下收集包括儿童账户在内的数据。起诉书称，奈飞每年通过向商业数据经纪商和在线广告企业秘密出售消费者数据获利数十亿美元，并指其自动播放等设计会延长包括儿童在内用户的停留时间，要求儿童资料默认关闭自动播放，并停止相关数据的收集与分发。",
               "source_url": "https://www.engadget.com/2170169/texas-ag-sues-netflix-claiming-the-streaming-service-collects-user-data-without-consent/",
@@ -235,19 +242,19 @@
               "source_url": "https://www.engadget.com/2169973/openadr-and-matter-are-collaborating-to-let-your-smart-home-talk-to-the-grid/",
               "source_name": "Engadget",
               "published_at": "2026-05-12T01:53:23+08:00"
-            },
-            {
-              "title": "Venmo 改版后默认提供更隐蔽的支付可见性",
-              "brief": "Venmo 正在重新设计应用，新版为新用户默认将付款动态设为仅好友可见，不再像过去那样默认公开，以回应其长期存在的隐私争议。用户还可进一步改为仅自己可见；除隐私调整外，信息流也加入了对付款的表情回应、“再次付款”“说声谢谢”等快捷操作，改版本周起推送，更多功能将在今后数月上线。",
-              "source_url": "https://www.engadget.com/2169847/venmos-redesigned-app-offers-more-discreet-payments-by-default/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-12T00:50:53+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "OpenAI 发布对标 Claude Mythos 的 Daybreak",
+              "brief": "OpenAI推出名为Daybreak的安全AI计划，目标是在攻击者发现漏洞前先完成检测与修补。该产品发布于Anthropic公布安全导向模型Claude Mythos及其Project Glasswing计划仅一个多月后，两者都瞄准安全场景。OpenAI称，Daybreak并非单一模型，而是结合GPT-5.5-Cyber与3月推出的Codex Security，依据组织代码建立威胁模型、聚焦潜在攻击路径，并验证和自动发现高风险漏洞。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-05-11T19:05:01-04:00"
+            },
             {
               "title": "Yarbo称将移除机器人割草机中的故意后门",
               "brief": "Yarbo表示，将彻底移除其机器人割草机中预留的远程后门访问，并让客户自行决定相关远程排障功能是否安装。此前，安全研究员Andreas Makris演示称，他能从地球另一端劫持带刀片的机器人，并暴露用户邮箱地址与GPS位置。公司上周曾承诺修补多项安全问题，但当时仍计划保留供内部授权人员使用的后门，如今已改变做法。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/report/928026/palantir-chore-coat",
               "source_name": "The Verge",
               "published_at": "2026-05-11T14:26:04-04:00"
-            },
-            {
-              "title": "苹果将加密 RCS 聊天带到 iPhone",
-              "brief": "苹果已在 iPhone 上向 Android 用户开放端到端加密的 RCS 对话，该功能作为 iOS 26.5 的一部分进入测试。这意味着信息传输过程中苹果和谷歌都无法查看内容，也是苹果在今年早些时候开始测试后的最新进展。启用后，聊天顶部会出现锁形图标和“Encrypted”提示，系统默认开启，但还需要运营商支持，安卓端也要使用最新版 Google Messages。",
-              "source_url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-              "source_name": "The Verge",
-              "published_at": "2026-05-11T13:57:56-04:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《指环王：力量之戒》第三季首播日期公布，首张剧照释出",
+              "brief": "Prime Video公布《指环王：力量之戒》第三季首播日期，并释出首张剧照。亚马逊米高梅电视业务负责人彼得·弗里德兰德表示，这部剧自开播以来一直是平台最具规模与野心的全球系列之一，来自全球数百万观众的热烈反馈让中土故事持续推进。第三季时间线将较第二季跳跃数年，来到精灵与索伦战争的顶点，索伦试图铸造至尊魔戒，以赢得战争并将中土众族束缚于其意志之下。",
+              "source_url": "https://www.ign.com/articles/rings-of-power-season-3-premiere-date-photo",
+              "source_name": "IGN",
+              "published_at": "2026-05-12T06:45:06+08:00"
+            },
             {
               "title": "《黑袍纠察队》第五季第7集预告：Gen V英雄回归，祖国人现身椭圆形办公室",
               "brief": "《黑袍纠察队》第五季第7集预告紧接第6集结尾展开，休伊说出“结束了，我们输了”，并正式确认《V世代》角色回归。此前士兵男孩已把V-One交给祖国人，使布彻一行针对他的超级病毒计划不得不调整；预告中还短暂展示擅长血液操控的玛丽·莫罗、可切换身体的乔丹·李，以及祖国人现身白宫椭圆形办公室，为5月13日上线的倒数第二集埋下关键悬念。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/dungeon-crawler-carl-a-parade-of-horribles-release-date-where-to-buy",
               "source_name": "IGN",
               "published_at": "2026-05-12T05:24:57+08:00"
-            },
-            {
-              "title": "《007 First Light》确认在PS5 Pro上支持60帧",
-              "brief": "在去年9月公开实机后，因大场面动作片段掉帧明显，《007 First Light》的性能表现一度引发担忧。如今IO Interactive确认，游戏将在PS5 Pro上以60fps运行，普通版PS5的性能模式也将达到60fps，并提供30fps画质模式。Xbox Series X方案尚未公布，游戏定于2026年5月27日登陆主机和PC。",
-              "source_url": "https://www.ign.com/articles/007-first-light-will-run-at-60fps-on-ps5-pro",
-              "source_name": "IGN",
-              "published_at": "2026-05-12T05:01:56+08:00"
             }
           ]
         },
@@ -365,39 +365,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果开发者 App 完成“液态玻璃”改版，新增 WWDC 2026 动态贴纸",
-              "brief": "苹果更新了 Apple Developer 应用，整体采用“液态玻璃”视觉风格，并加入多款 WWDC 2026 动态贴纸。随着 WWDC 2026 临近，应用同步为大会内容预热，也将提供 6 月 8 日观看主题演讲的入口。此次更新把图标改为由铅笔、画笔和直尺组成的“A”，应用内加入半透明导航栏和独立搜索按钮，并新增按未观看、已收藏、已下载及主题偏好筛选列表，同时改进注册期间图像捕捉的可靠性。",
-              "source_url": "https://www.ithome.com/0/949/042.htm",
+              "title": "三星 Galaxy Book 新专利获批：手势解锁拓展笔记本操控方式",
+              "brief": "三星一项面向 Galaxy Book 的新专利获批，提出用机身感应区配合按键实现手势解锁和快捷操控。背景是轻薄笔记本难再容纳更多实体按钮，用户也不易记住复杂功能键。方案通过传感器识别手部接触位置，让同一按键在无接触、单侧接触和双侧接触时分别执行普通输入、符号输入或自定义快捷操作，并可设置延迟降低误触。",
+              "source_url": "https://www.ithome.com/0/949/064.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T06:49:26+08:00"
+              "published_at": "2026-05-12T08:36:15+08:00"
             },
             {
-              "title": "苹果 macOS 26.5 Tahoe 新增功能：Mac mini 等接通电源可自动开机",
-              "brief": "苹果在 macOS 26.5 Tahoe 中为部分台式 Mac 增加了接通电源自动启动功能，并支持通过第三方辅助配件管理电源状态。这项改动主要面向电源键不易触及的使用场景，适用于固定摆放在桌下、显示器后方或机柜内的设备。官方列出的兼容机型包括 2024 年及之后的 Mac mini、iMac，以及 2025 年及之后的 Mac Studio，相关设置位于 Energy 中，也可借助外接开关执行关机或重启。",
-              "source_url": "https://www.ithome.com/0/949/041.htm",
+              "title": "天舟十号成功发射：“人工胚胎”首次进入太空",
+              "brief": "天舟十号发射任务搭载“人工胚胎”空间科学实验，这是相关研究首次进入太空。之所以要在轨开展，是为了观察微重力和空间辐射是否影响人类早期胚胎发育，为未来长期太空驻留与繁衍研究提供基础。项目负责人称，这种人工胚胎不具备发育成个体的能力，实验将在空间站完成约5天发育过程，并结合天地对比分析异常与风险。",
+              "source_url": "https://www.ithome.com/0/949/063.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T06:48:54+08:00"
+              "published_at": "2026-05-12T08:34:22+08:00"
             },
             {
-              "title": "苹果 iOS/iPadOS 15.8.8 正式版发布",
-              "brief": "苹果现已发布 iOS/iPadOS 15.8.8 正式版，IT之家表示稍后将补充具体更新内容。该版本延续 iOS 15 分支的维护节奏，原文回顾了自 2022 年 4 月 iOS 15.5 Beta 起至今的多次 Beta、RC 与正式版发布时间线，其中最近一次正式更新是 2026 年 3 月 12 日发布的 iOS 15.8.7，当前报道尚未披露新增功能或修复细节，并邀请读者补充发现。",
-              "source_url": "https://www.ithome.com/0/949/040.htm",
+              "title": "福州大学实现 QLED 显示突破：像素密度达 25400 PPI",
+              "brief": "福州大学团队受“月饼模压”启发，在 QLED 量子点显示上实现超高分辨率全彩制备，像素密度最高达 25400 PPI，相关成果已发表于《自然》。背景是传统光刻和喷墨方法难兼顾高分辨率、全彩与性能。团队采用硬质纳米压印与整体倒置转印，并引入二氧化钛纳米颗粒优化电场分布，在 12700 PPI 下将红光器件峰值外量子效率做到 26.1%。",
+              "source_url": "https://www.ithome.com/0/949/061.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T01:39:12+08:00"
+              "published_at": "2026-05-12T08:32:59+08:00"
             },
             {
-              "title": "苹果 iOS/iPadOS 16.7.16 正式版发布",
-              "brief": "苹果现已发布 iOS/iPadOS 16.7.16 正式版，IT之家称稍后会带来具体更新内容。这是 iOS 16 维护分支的继续更新，文中同步整理了该版本线历次 Beta、RC 与正式版记录，其中最近三次正式版分别是 2026 年 3 月 12 日的 16.7.15、2 月 3 日的 16.7.14 和 1 月 27 日的 16.7.13，但本次更新详情暂未在原文展开。",
-              "source_url": "https://www.ithome.com/0/949/039.htm",
+              "title": "伊利亚·苏茨克弗称奥尔特曼长期不诚实并挑动对立",
+              "brief": "OpenAI 前首席科学家伊利亚·苏茨克弗在相关案件作证时称，他在 2023 年 11 月董事会罢免山姆·奥尔特曼前，已至少考虑一年推动其离任。背景是 OpenAI 当时经历短暂解雇又复职风波。苏茨克弗表示，他曾应董事会要求整理一份 52 页材料，记录奥尔特曼不诚实、削弱高管权威和挑动对立等行为，并称这些做法无助于实现安全 AGI 目标。",
+              "source_url": "https://www.ithome.com/0/949/060.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T01:39:12+08:00"
+              "published_at": "2026-05-12T08:19:06+08:00"
             },
             {
-              "title": "苹果 iPadOS 17.7.11 正式版发布",
-              "brief": "苹果现已发布 iPadOS 17.7.11 正式版，原文以快讯形式发布，并附上 iOS/iPadOS 17 分支的历史版本时间线作为背景。文中罗列了从 2023 年 6 月首个 Beta 到 2025 年 7 月 22 日 iPadOS 17.7.9 RC 等多个节点，但暂未给出本次正式版的新增功能、修复内容或完整更新说明，仅提示后续可继续补充新发现。",
-              "source_url": "https://www.ithome.com/0/949/038.htm",
+              "title": "小米 YU7 GT“车厘子红”无伪装上路，5 月底发布",
+              "brief": "小米 YU7 GT“车厘子红”无伪装实车近日上路，雷军此前已宣布新车将于 5 月底正式发布。该车定位高性能纯电 SUV，延续 YU7 家族式设计，并以赛道调校和长途驾驶体验作为卖点。工信部申报信息显示，其提供前后双电机版本，功率分别为 288kW 和 450kW，最高车速 300km/h，CLTC 续航 705km，车身轴距为 3000mm。",
+              "source_url": "https://www.ithome.com/0/949/059.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-12T01:39:11+08:00"
+              "published_at": "2026-05-12T08:17:29+08:00"
             }
           ]
         },
@@ -438,6 +438,46 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562132.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-12T02:54:48+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "拜伦·艾伦拟以1.2亿美元收购BuzzFeed多数股权",
+              "brief": "午后非银金融板块发力上扬，锦龙股份涨停，长江证券盘中一度涨停，东吴证券、东方财富、财通证券、华安证券等涨幅居前。业内人士认为，上市券商一季报业绩全面超预期，市场活跃度提升支撑行业景气上行；同时板块估值仍处历史低位，基本面与估值因素叠加，使券商板块的配置性价比进一步凸显。",
+              "source_url": "https://36kr.com/newsflashes/3805566770421507?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-12 08:53:36  +0800"
+            },
+            {
+              "title": "交投活跃叠加季报超预期，券商板块配置性价比凸显",
+              "brief": "午后非银金融板块走强，锦龙股份涨停，长江证券盘中一度涨停，东吴证券、东方财富、财通证券、华安证券等个股涨幅居前。市场人士认为，上市券商一季报业绩全面超预期，叠加市场活跃度提升，为行业景气度上行提供支撑；与此同时，行业估值仍处历史低位，令券商板块当前的配置性价比更加突出。",
+              "source_url": "https://36kr.com/newsflashes/3805565965623045?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-12 08:51:48  +0800"
+            },
+            {
+              "title": "美国高校称春季外国本科新生减少20%，受签证限制影响",
+              "brief": "一份美国高校报告显示，受签证限制影响，春季外国本科新生人数减少20%。这一变化说明签证政策已直接影响高校国际招生，并且影响已经体现在最新一轮春季入学数据中。关键信息是，报告聚焦对象为外国本科新生，时间范围为春季入学，降幅为20%，并将主要原因明确指向签证限制。",
+              "source_url": "https://36kr.com/newsflashes/3805592590343688?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-12 08:48:58  +0800"
+            },
+            {
+              "title": "两市融资余额增加305.52亿元",
+              "brief": "最新数据显示，两市融资余额继续增加，合计达到28040.8亿元，较前一交易日增加305.52亿元，显示杠杆资金活跃度上升。其背景是上交所与深交所融资余额同步增长。具体来看，上交所融资余额为14325.51亿元，单日增加158.63亿元；深交所融资余额为13715.29亿元，单日增加146.89亿元。",
+              "source_url": "https://36kr.com/newsflashes/3805591950434052?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-12 08:48:19  +0800"
+            },
+            {
+              "title": "中信证券：关注消费医疗板块左侧布局机会",
+              "brief": "中信证券表示，近期政策端正从多维度鼓励消费医疗发展，叠加企业经营复苏，板块处于边际改善拐点。其判断背景是消费医疗潜在需求高、发展空间广阔，而当前板块估值处于近5年底部。关键细节是，2026年第一季度龙头公司展现业绩韧性，券商建议关注左侧布局机会，并维持行业“强于大市”评级。",
+              "source_url": "https://36kr.com/newsflashes/3805590182780680?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-05-12 08:46:31  +0800"
             }
           ]
         }
