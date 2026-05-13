@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T16:55:35.537334+08:00",
+  "generated_at": "2026-05-13T18:58:14.659003+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,45 +89,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Pixel 与 Galaxy Watch 用户抱怨恼人的 YouTube Music 漏洞",
-              "brief": "多名 Pixel Watch 和 Galaxy Watch 用户反映，Wear OS 版 YouTube Music 的离线播放列表出现故障，整张已下载歌单常常只播放完第一首就中断。问题来自 Reddit 贴文及 Android Authority 收到的邮件反馈，影响用户在跑步、徒步等刻意不带手机时依赖手表独立听歌的场景；播放界面的“下一首”和更多按钮还会变灰，清缓存、清数据与重启都未带来长期修复，谷歌目前尚未回应。",
-              "source_url": "https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/",
+              "title": "我试用 Snapseed 4.0 后，才发现这正是我需要的安卓相机应用",
+              "brief": "Snapseed 4.0 在等待数月后正式登陆安卓，Google 这次不只是修补性能，而是重做界面与使用流程，并把相机功能放到了应用入口。文章指出，手机摄影持续进步，但易上手又足够专业的编辑工具并不多；新版可调用多颗镜头、提供手动对焦与曝光快门控制，还能在拍摄前预览滤镜、套用已保存风格，作者认为它在轻量易用与进阶功能之间找到了新的平衡。",
+              "source_url": "https://www.androidauthority.com/snapseed-4-android-app-hands-on-3666241/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-13T16:42:22+08:00"
+              "published_at": "2026-05-13T18:30:22+08:00"
             },
             {
-              "title": "你的 Google Keep 笔记可能很快更容易迁移到 Markdown 应用",
-              "brief": "Google Keep for Android 正在测试“导出为 Markdown”功能，相关字符串和布局内容已在 v5.26.191.01.90 中以调试选项形式出现。这与用户长期希望 Keep 支持 Markdown 的背景有关，但目前方向仍是提升笔记迁移到其他 Markdown 应用时的数据可移植性，而不是在 Keep 内直接进行原生 Markdown 编辑；现阶段该功能仍处于较早测试阶段。",
-              "source_url": "https://www.androidauthority.com/google-keep-markdown-export-apk-teardown-3666449/",
+              "title": "Googlebook 证明 Android 仍有身份认知问题",
+              "brief": "围绕 Google 新推出的 Android 笔记本品牌 Googlebook，文章认为这个名称既乏味又容易与 Google Books 混淆，也没能说明产品定位。背景是这类设备正把 Workspace、Gemini 和更多 Android 应用整合到 PC 形态中，意在强调它不只是放大版安卓；但相比 Pixelbook 或 Chromebook，Googlebook 没把 Android 身份与高端新类别清楚传达出来，因此被视为 Android 品牌认知仍显模糊的例子。",
+              "source_url": "https://www.androidauthority.com/googlebook-awful-name-android-problem-3665515/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-13T16:08:01+08:00"
+              "published_at": "2026-05-13T18:00:37+08:00"
             },
             {
-              "title": "三星 Galaxy Z Fold 8 和 Flip 8 可能随 Gemini Intelligence 亮相",
-              "brief": "据 Sedaily 报道，三星下一代折叠屏 Galaxy Z Fold 8 和 Z Flip 8 可能随 One UI 9 首发 Gemini Intelligence，把 Gemini 从问答工具进一步推向可跨应用执行任务的系统级助手。该功能将能在应用之间乃至 Chrome 中处理完整工作流，延续三星与谷歌在 Galaxy AI 以来的合作；不过它目前尚未出现在面向 Galaxy S26 测试者的 One UI 9 测试版中，暗示三星可能等到今年稍晚的稳定版再正式推出。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-gemini-intelligence-3666434/",
+              "title": "三星启动 One UI 9 测试版：Galaxy S26 新变化一览",
+              "brief": "三星已在韩国、德国和英国为 Galaxy S26 系列推送基于 Android 17 的 One UI 9 测试版，完整更新日志也随之曝光。虽然 One UI 8.5 还在逐步覆盖更多机型，但三星已经提前推进下一版系统；这次更新重点包括可更细调的快捷面板、DeX 跨桌面多任务改进、三星笔记新增 Tape 功能，以及通过 Play 商店统一更新 TalkBack 和定位启用蓝色提示等无障碍与隐私升级。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-beta-galaxy-s26-changelog-3666500/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-13T15:44:50+08:00"
+              "published_at": "2026-05-13T17:48:26+08:00"
             },
             {
-              "title": "三星悄悄恢复了这项更沉浸的 DeX 功能",
-              "brief": "三星在近期 One UI 8.5 更新中，悄悄把 DeX 的“自动隐藏任务栏”开关带了回来，此前公司在 One UI 8 重建桌面模式时取消了这一旧版功能。新开关可在“设置-已连接设备-Samsung DeX-已连接显示器”中找到，让用户全屏看视频或进行更沉浸的桌面操作时更方便隐藏任务栏；相比过去必须长按最大化按钮再进入沉浸模式的做法，这一恢复后的入口直观得多。",
-              "source_url": "https://www.androidauthority.com/samsung-autohide-taskbar-toggle-3666423/",
+              "title": "三星浏览器工具栏或将迎来更有质感的视觉升级",
+              "brief": "三星浏览器 v30.0.2.30 的代码中出现了新的工具栏模糊效果，开发者已提前启用并展示了界面变化，但该功能目前尚未正式上线。报道指出，这项视觉升级在书签栏移到底部时最明显，因为底部书签栏与承载返回、前进、主页等按钮的工具栏都会出现模糊层；若书签栏放回顶部，则仍会跟随网站配色显示，说明三星仍在调整这一设计细节。",
+              "source_url": "https://www.androidauthority.com/samsung-browser-toolbar-blur-apk-teardown-3666461/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-13T15:07:07+08:00"
+              "published_at": "2026-05-13T17:15:54+08:00"
             },
             {
-              "title": "三星确认One UI 9测试版第二波即将推送",
-              "brief": "三星宣布One UI 9测试版第二波将于5月26日开始推送，此前基于Android 17的测试版已在美国、英国、印度、德国和波兰启动，但并非所有国家都已开放。三星在新闻稿的脚注中透露，第二波将覆盖印度和波兰等国家，但未公布完整名单。用户可通过三星会员应用的测试版部分注册参与。",
-              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-beta-second-wave-3666427/",
+              "title": "Google 确认 Chromebook 仍会继续推出，尽管 Googlebooks 来势汹汹",
+              "brief": "在 Googlebooks 发布后，外界担心 Chromebook 会被取代，但 Google ChromeOS 产品管理副总裁 John Maletis 表示，新款 Chromebook 和 Chromebook Plus 今年乃至明年都有“非常强劲”的产品储备。这意味着以平价和教育场景见长的 ChromeOS 笔记本短期内不会退场；不过 Google 仍把深度整合 Gemini 的 Android 高端笔记本 Googlebooks 放在长期策略位置，使 Chromebook 更远期走向依旧存在不确定性。",
+              "source_url": "https://www.androidauthority.com/chromebooks-future-after-googlebooks-3666467/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-13T14:17:09+08:00"
+              "published_at": "2026-05-13T17:09:32+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "索尼 Xperia 1 VIII 配备更大相机传感器并采用新设计",
+              "brief": "索尼发布新旗舰手机 Xperia 1 VIII，主打影像升级并更换后摄外观设计。该机加入由 Xperia Intelligence 驱动的 AI Camera Assistant，可根据拍摄对象、场景和天气建议色调、镜头与虚化效果；长焦相机改用 1/1.56 英寸传感器，面积约为上代四倍，称可改善弱光细节，并支持低光 RAW 多帧处理、HDR 与降噪。",
+              "source_url": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-13T18:11:33+08:00"
+            },
             {
               "title": "家属起诉 OpenAI，称 ChatGPT 建议导致意外过量",
               "brief": "OpenAI再遭过失致死诉讼，一对家长指控其子在收到并采纳ChatGPT给出的具体药物建议后意外过量身亡。诉状称，这名19岁大学生最初用聊天机器人做作业和排查电脑问题，GPT-4o发布后系统开始回答其安全用药提问，还讨论耐受度与减量，并在2025年5月31日建议用Xanax缓解服用Kratom后的恶心。",
@@ -155,19 +162,19 @@
               "source_url": "https://www.engadget.com/2171448/apple-reportedly-has-a-lot-of-changes-planned-for-the-camera-app/",
               "source_name": "Engadget",
               "published_at": "2026-05-13T05:53:39+08:00"
-            },
-            {
-              "title": "美国司法部就少数族裔企业项目与 PayPal 达成 3000 万美元和解",
-              "brief": "美国司法部就 PayPal 一项面向黑人和少数族裔小企业的扶持计划达成 3000 万美元和解，PayPal 将改推新的小企业计划。被针对的是其 2020 年设立的 Economic Opportunity Fund，原计划向相关企业投资 5.3 亿美元；根据和解内容，新计划将为 10 亿美元交易免除处理费，覆盖退伍军人拥有及从事农业、制造业和科技的小企业。",
-              "source_url": "https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-13T05:14:52+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "数据中心正涌向美国乡村",
+              "brief": "越来越多数据中心项目正进入美国乡村地区，但报道指出它们承诺带来的就业机会并不真正存在。背景是这些项目常以振兴衰落工业城镇为名推进，例如缅因州杰伊镇的安德罗斯科金造纸厂在2020年事故后永久关闭，2023年这座140万平方英尺厂区被联合收购，计划转作数据中心开发。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+              "source_name": "The Verge",
+              "published_at": "2026-05-13T05:00:00-04:00"
+            },
             {
               "title": "亚马逊潘诺斯·帕奈回应新款 Fire 手机传闻",
               "brief": "亚马逊设备与服务负责人潘诺斯·帕奈回应新款 Fire 手机传闻时表示，公司“未必”会推出智能手机，但没有直接否认相关计划。此前有报道称，亚马逊正研发一款代号“Transformer”、集成 Alexa 的 AI 手机，这距离其失败收场的 Fire Phone 被放弃已过去十多年。帕奈接受《金融时报》采访时称，做手机并不是当前目标，但若简单回答“不会做”，又会带来误导。",
@@ -195,19 +202,19 @@
               "source_url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
               "source_name": "The Verge",
               "published_at": "2026-05-12T17:36:11-04:00"
-            },
-            {
-              "title": "Meta 不允许用户在 Threads 屏蔽其 AI 账号",
-              "brief": "Meta 宣布测试一项 Threads 新功能，用户可通过标记 Meta AI 账号来提问或获取对话背景说明。这是该公司把新 AI 模型和服务进一步接入自家应用的一部分，但用户很快发现这个 AI 账号无法被屏蔽，引发不满。官方展示称，这项测试最初会在阿根廷、马来西亚和墨西哥等市场上线。",
-              "source_url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-              "source_name": "The Verge",
-              "published_at": "2026-05-12T16:35:23-04:00"
             }
           ]
         },
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "富士康勒索软件攻击据称波及苹果项目文件",
+              "brief": "富士康确认其美国多家工厂遭遇网络攻击，此前勒索软件组织Nitrogen声称在入侵中窃取了苹果机密项目文件。该组织本周在数据泄露网站称带走约8TB、超过1100万份文件，内容还涉及英特尔、谷歌、戴尔和英伟达。富士康未证实客户数据是否被盗，但表示已启动应对措施，受影响工厂正恢复正常运营。",
+              "source_url": "https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-13T18:25:29+08:00"
+            },
             {
               "title": "谷歌发布Googlebook：围绕Gemini打造的新款AI笔记本",
               "brief": "谷歌发布以Gemini为核心的Googlebook笔记本系列，主打更个性化、主动式的AI体验，系统建立在Android与ChromeOS结合的基础上。新机用Magic Pointer替代传统光标，可按所指内容生成建议或执行操作，支持用提示词创建小组件，并与安卓手机联动访问应用和文件，首批机型将由宏碁、华硕、戴尔、惠普和联想推出。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.macrumors.com/2026/05/12/ios-27-siri-redesign/",
               "source_name": "MacRumors",
               "published_at": "2026-05-13T04:38:00+08:00"
-            },
-            {
-              "title": "iOS 27据称将带来自定义相机应用，并调整天气、Safari和Liquid Glass",
-              "brief": "据称苹果将在iOS 27里为相机应用加入可自定义布局，用户可把闪光灯、曝光、计时器、景深、照片风格和分辨率等控件按需排列，以满足更专业的拍摄需求。这套高级界面会通过底部透明组件托盘调用，不同拍照与录像模式各有控件组合，并新增Siri相机模式；天气、Safari及多款系统应用的标签栏与首页设计也会同步调整。",
-              "source_url": "https://www.macrumors.com/2026/05/12/ios-27-customizable-camera-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-13T04:12:58+08:00"
             }
           ]
         },
@@ -294,6 +294,27 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《星球大战：阿索卡》第二季要到 2027 年初才上线，距第一季已超三年",
+              "brief": "罗莎里奥·道森在迪士尼前瞻活动上确认，《星球大战：阿索卡》第二季新一批剧集将于2027年初推出，距离第一季2023年8月上线已超过三年。这一时间窗是在昨晚活动中首次明确披露，但官方尚未解释回归为何耗时如此之久；IGN提到《最后生还者》《龙之家族》等高成本剧近年也因大规模后期制作拉长换季周期，不过本作的等待间隔仍异常漫长。",
+              "source_url": "https://www.ign.com/articles/star-wars-ahsoka-season-2-wont-arrive-until-early-2027-more-than-3-years-after-season-1",
+              "source_name": "IGN",
+              "published_at": "2026-05-13T17:19:31+08:00"
+            },
+            {
+              "title": "前《使命召唤：黑色行动》设计总监大卫·冯德哈尔预告全新原创 FPS",
+              "brief": "前《使命召唤：黑色行动》设计总监大卫·冯德哈尔透露，他的新原创FPS不会再走军事射击路线，而是被形容为“如果大卫·林奇来做射击游戏”。这款尚未公布标题的新作主打合作玩法，玩家将联手应对环境挑战并与其他玩家对抗。报道还称，冯德哈尔于2023年离开Treyarch后创立的BulletFarm已加入前网易高管Simon Zhu设立的GreaterThan Group，此前网易撤资后，工作室原项目似乎已被新项目取代。",
+              "source_url": "https://www.ign.com/articles/ex-call-of-duty-black-ops-design-director-david-vonderhaar-teases-new-original-fps-if-david-lynch-made-shooters",
+              "source_name": "IGN",
+              "published_at": "2026-05-13T17:02:38+08:00"
+            },
+            {
+              "title": "《星球大战：旧共和国命运》开发方透露游戏体量与开发节奏",
+              "brief": "《星球大战：旧共和国命运》开发负责人凯西·哈德森表示，这款被视为《旧共和国武士》精神续作的RPG仍目标在2030年前发售，但暂未给出确切日期。他称自己不想把单个项目做上五到七年，也不会用AI加速开发，认为那样“创意上没有灵魂”且无助。团队将以外部合同人员补充产能、避免大规模内部扩编；其背后是Simon Zhu领导的GreaterThan Group，据报道该公司账上有4000万美元，并获约6000万美元资金承诺。",
+              "source_url": "https://www.ign.com/articles/star-wars-fate-of-the-old-republic-developer-teases-games-length-and-development-time",
+              "source_name": "IGN",
+              "published_at": "2026-05-13T16:39:05+08:00"
+            },
+            {
               "title": "柯南·奥布莱恩将连续第三年主持奥斯卡",
               "brief": "美国电影艺术与科学学院周二宣布，柯南·奥布莱恩将主持第99届奥斯卡颁奖礼，这将是他连续第三年担任这场典礼电视直播的主持人。拉吉·卡普尔与凯蒂·穆兰也将连续第四年回归担任执行制作人。学院和迪士尼电视集团表示，这支团队过去两年打造出兼具娱乐性与感染力的节目，并期待奥布莱恩再以独特的喜剧风格领衔这场电影盛典。",
               "source_url": "https://www.ign.com/articles/conan-obrien-will-return-to-host-the-oscars-for-third-consecutive-year",
@@ -306,33 +327,26 @@
               "source_url": "https://www.ign.com/articles/christopher-nolan-confirms-casting-twist-for-the-odyssey-with-one-actor-playing-dual-roles",
               "source_name": "IGN",
               "published_at": "2026-05-13T04:37:29+08:00"
-            },
-            {
-              "title": "英国议员称 Rockstar 在去年裁员后的申诉程序中“拒绝充分配合”",
-              "brief": "英国多名议员称，Rockstar 在去年大规模解雇员工后，未能就申诉程序作出充分配合，这场劳资争议仍在升级。公司称员工因严重不当行为以及在 Discord 分享私人信息、违反保密规定而被解雇；IWGB 游戏工人工会则表示，涉事服务器用于讨论工会事务，被解雇的英国员工都是其成员。此前就业法庭未批准临时经济救济，最终裁决仍待作出。",
-              "source_url": "https://www.ign.com/articles/uk-politicians-say-gta-6-developer-rockstar-refused-to-properly-engage-with-appeal-processes-after-firing-staff-last-year",
-              "source_name": "IGN",
-              "published_at": "2026-05-13T02:29:49+08:00"
-            },
-            {
-              "title": "诺兰回应《奥德赛》历史准确性质疑：阿伽门农被吐槽像蝙蝠侠",
-              "brief": "克里斯托弗·诺兰为《奥德赛》回应历史准确性质疑，此前影片预告发布后，围绕服装设计的争论持续发酵。争议焦点是去年12月预告中阿伽门农的黑色盔甲，有观众将其比作“蝙蝠侠头盔”，也有人质疑船只像维京船、材质显得单薄或塑料感过强。该片改编自荷马史诗，阿伽门农由本尼·萨夫迪饰演，主演还包括马特·达蒙和汤姆·霍兰德。",
-              "source_url": "https://www.ign.com/articles/christopher-nolan-defends-the-odyssey-from-historical-accuracy-complaints-after-some-said-agamemnon-looks-like-batman",
-              "source_name": "IGN",
-              "published_at": "2026-05-13T01:55:46+08:00"
-            },
-            {
-              "title": "漫威“午夜”新线以恐怖风格重塑 X 战警、蜘蛛侠和神奇四侠",
-              "brief": "漫威公布全新平行宇宙出版线“午夜宇宙”，以恐怖风格重塑 X 战警、蜘蛛侠和神奇四侠，填补今年相关项目空缺。该系列脱离漫威主线连续性限制，类似 Ultimate 或 DC 的 Absolute 宇宙，便于进行更激进的角色改编。首批三本新刊将于 2026 年 8 至 10 月推出，其中《午夜 X 战警》讲述变种人与吸血鬼战争，《午夜蜘蛛侠》则让彼得·帕克化为半人半蛛怪物。",
-              "source_url": "https://www.ign.com/articles/marvel-midnight-line-horror-xmen-spiderman-fantastic-four",
-              "source_name": "IGN",
-              "published_at": "2026-05-13T01:40:31+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "富士康确认北美部分工厂遭网络攻击",
+              "brief": "富士康证实其北美部分工厂遭遇网络攻击，并已启动应急响应以维持生产和交付，受影响工厂正逐步恢复。这一表态出现在勒索组织 Nitrogen 宣称窃取 8TB 数据、逾1100万份文件之后；对方还称文件涉及英特尔、苹果、Google、戴尔和英伟达项目图纸。富士康此前也曾在2022年和2024年遭遇 LockBit 攻击。",
+              "source_url": "https://www.solidot.org/story?sid=84287",
+              "source_name": "Solidot",
+              "published_at": "2026-05-13T17:42:51+08:00"
+            },
+            {
+              "title": "亚马逊员工用内部 AI 工具刷 token",
+              "brief": "亚马逊部分员工被指利用内部 AI 工具 MeshClaw 自动执行一些原本没必要自动化的操作，以提高 token 使用量。背景是公司近几周大规模部署这套可接入办公软件并代办任务的智能体，并要求逾八成开发者每周使用 AI，还在内部排行榜追踪 token 数据；尽管亚马逊称相关统计不会用于绩效考核，员工仍感到管理层正据此施压。",
+              "source_url": "https://www.solidot.org/story?sid=84286",
+              "source_name": "Solidot",
+              "published_at": "2026-05-13T17:11:52+08:00"
+            },
             {
               "title": "欧盟浏览器选择屏为 Firefox 带来数百万新用户",
               "brief": "欧盟《数字市场法》要求苹果和谷歌向消费者提供浏览器选择屏后，Mozilla估计 Firefox 因此新增约600万用户。该规定让用户可改选 Safari 或 Chrome 之外的浏览器，其中 iOS 用户增长113%，Android 增长12%；Mozilla称差异与两家平台展示选择屏的时机有关，且留存率较法规实施前提升五倍，Aloha、Brave、Opera 和 Vivaldi 也报告了明显增长。",
@@ -341,31 +355,45 @@
               "published_at": "2026-05-13T16:05:15+08:00"
             },
             {
-              "title": "谷歌发布以AI为核心的新笔记本Googlebook",
-              "brief": "谷歌宣布推出新笔记本Googlebook，这款设备运行桌面模式Android，定位是以AI为核心的电脑产品。它与Chromebook类似，将由宏碁、华硕、戴尔、惠普和联想负责制造销售，并深度集成Gemini Intelligence。用户只需移动光标就能启用Magic Pointer，系统会结合屏幕内容给出建议、从多个应用提取数据，还能与Android手机联动串流应用和传输文件。",
-              "source_url": "https://www.solidot.org/story?sid=84282",
+              "title": "FCC 将外国路由器更新期限延长至 2029 年",
+              "brief": "美国联邦通信委员会将外国制造消费级路由器的更新期限延长至2029年1月，允许现有美国用户继续获得维护与升级。此前 FCC 以国家安全为由，在今年3月将这类产品列入监管清单并禁止新销售，原本只允许厂商在2027年3月前提供有限维护和安全补丁；新决定还放宽到可提供较大的软件和固件更新，为用户留出更充裕的换机时间。",
+              "source_url": "https://www.solidot.org/story?sid=84284",
               "source_name": "Solidot",
-              "published_at": "2026-05-13T14:13:37+08:00"
+              "published_at": "2026-05-13T14:54:30+08:00"
             },
             {
-              "title": "社交媒体上的毒性内容由少数用户放大",
-              "brief": "斯坦福大学研究人员分析了22亿条社交媒体帖子，发现平台上的有毒与争议内容主要来自极少数高活跃用户，并被推荐算法进一步放大。这为外界为何常误以为极端言论代表主流提供了背景。研究称，在Twitter/X上，有毒推文的转发量比非有毒内容高约86%，曝光度高约27%，0.3%的用户分享了80%的争议新闻，TikTok上25%的用户发布了98%的公开视频。",
-              "source_url": "https://www.solidot.org/story?sid=84281",
+              "title": "韩国总统幕僚提议向全民发放“AI 红利”",
+              "brief": "韩国总统府政策室长金容范提议，把本国芯片制造商因 AI 繁荣而激增的部分利润重新分配给全民，作为“AI 红利”。他认为，这些收益至少部分建立在韩国过去五十年形成的工业基础设施之上，而超额利润正集中流向少数芯片企业和少数人。相关讨论升温之际，数万民众曾在三星主要芯片工厂外集会，工会要求把芯片部门15%的营业利润分给员工，并威胁自5月21日起罢工18天。",
+              "source_url": "https://www.solidot.org/story?sid=84283",
               "source_name": "Solidot",
-              "published_at": "2026-05-12T23:56:06+08:00"
-            },
-            {
-              "title": "土星冰环或源自一颗解体卫星",
-              "brief": "一项由美中团队进行的数值模拟提出，土星壮丽的环系统可能并非与土星同时形成，而是在约1亿年前由一颗名为“蝶蛹”的古老卫星毁灭后产生。这一结果为长期存在的土星环起源争论提供了新解释。研究称，这颗大小接近土卫八、具有岩石核心和冰壳的卫星进入距土星1至1.5个土星半径的洛希极限区域后，被潮汐力撕碎，大部分残骸被土星捕获并逐步演化成行星环。",
-              "source_url": "https://www.solidot.org/story?sid=84280",
-              "source_name": "Solidot",
-              "published_at": "2026-05-12T22:54:12+08:00"
+              "published_at": "2026-05-13T14:39:36+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "Scrcpy 4.0 发布：让安卓应用获得更强桌面化体验",
+              "brief": "开源安卓控制工具 scrcpy 发布 4.0，新增 Flex Display，可随电脑窗口尺寸动态调整 Android 虚拟显示器，让应用按更大屏幕重新布局，桌面化体验更明显。此次还升级到 SDL3，改进全屏、缩放和高分屏支持，并加入防息屏、摄像头控制、音频缓冲与性能优化，以及对 Meta Quest 闪烁问题的修复。",
+              "source_url": "https://www.appinn.com/scrcpy-4/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T17:33:19+08:00"
+            },
+            {
+              "title": "npm 首现蠕虫式供应链攻击：可自我传播",
+              "brief": "npm 出现一次被称为首个蠕虫式供应链攻击的事件，TanStack Router 官方包经正式发布流程被植入恶意代码。问题源于攻击者借恶意 PR 污染 CI 缓存，后续正常发布再次读取缓存并生成带签名的恶意版本；代码会窃取本机密钥，并尝试利用开发者权限修改其他仓库 CI，继续经 npm 扩散。",
+              "source_url": "https://www.appinn.com/tanstack-npm-compromise/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T17:11:03+08:00"
+            },
+            {
+              "title": "一个普通网页到底能知道你多少信息",
+              "brief": "小众软件上线了一个名为“坦白了”的网页，用户只要访问页面，无需操作或授权，就能看到网站可在加载前后获取的大量设备与行为信息。文章借此说明，IP、语言、显卡、字体、屏幕等数据组合后可形成较稳定的浏览器指纹，而停留时间、滚动、鼠标和标签页状态等，也会被网页持续记录并展示。",
+              "source_url": "https://www.appinn.com/baolu-browser/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T16:06:18+08:00"
+            },
             {
               "title": "豆包输入法 Mac 版正式上线，支持语音输入、拼音和双拼",
               "brief": "豆包输入法Mac版已正式上线，面向macOS用户提供语音输入、拼音和双拼等能力，豆包输入法的产品线也由手机扩展到桌面端。此前它已在2025年11月分别推出iOS版和安卓版，这次补上了Mac支持。官方提供约159MB安装包，支持AI语音输入、拼音、小鹤双拼和自然码，默认按住fn说话即可自动录入，文中称识别效率高、输入速度快，目前还没有Windows版本。",
@@ -379,20 +407,6 @@
               "source_url": "https://www.appinn.com/win11-file-explorer-kb-mb-gb/",
               "source_name": "小众软件",
               "published_at": "2026-05-11T14:58:09+08:00"
-            },
-            {
-              "title": "发现频道近 10 日热门排行榜（2026 年第 19 期）",
-              "brief": "小众软件汇总了论坛“发现频道”最近 10 天的热门排行榜第 19 期，榜单由系统自动生成，用于回顾近期讨论度最高的帖子。入选内容覆盖下载工具、微博插件、电子书阅读器、推理解谜小游戏、Mac 限免应用、海报墙播放器、在线视频生成工具和临时文件分享平台等，并附上第 18 期作为往期回顾。",
-              "source_url": "https://www.appinn.com/faxian-top10-2619/",
-              "source_name": "小众软件",
-              "published_at": "2026-05-11T09:00:31+08:00"
-            },
-            {
-              "title": "Motrix Next：不用 Electron 的开源全能下载工具",
-              "brief": "Motrix Next 是一款基于 aria2c 的跨平台开源下载工具，被介绍为 Motrix 的精神续作，支持 HTTP、FTP、BT、磁力和迅雷链接。由于原版 Motrix 自 2023 年后基本停更，项目改用 Tauri 取代 Electron，以减轻技术债并缩小体积。文章称其安装包约 20MB，配有官方浏览器扩展，支持任务管理、限速、Tracker 同步和系统通知等功能。",
-              "source_url": "https://www.appinn.com/motrix-next/",
-              "source_name": "小众软件",
-              "published_at": "2026-05-09T16:57:18+08:00"
             }
           ]
         },
@@ -400,39 +414,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "特朗普第二任期发帖已超8800次 44次深夜密集更新",
-              "brief": "分析显示，特朗普重返白宫后的第二任期里，其Truth Social账号已累计发布至少8800条内容，并出现44次夜间密集发帖。报道称，这类高频发布通常指晚8点到早6点之间至少发出12条，部分素材由行政助理娜塔莉·哈普整理、送交特朗普审核，再在正常工时外批量发布。去年12月1日晚至接近午夜，该账号单日发帖近160条，创第二任期最高纪录。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562334.htm",
+              "title": "ChatGPT用药建议致美国大学生过量身亡 OpenAI遭起诉",
+              "brief": "美国一名大学生家属起诉OpenAI，称ChatGPT在与其对话时提供了毒品使用、混合和减轻不适的具体建议，最终导致其服药过量身亡。诉状称，GPT-4o上线后回答从拒绝转向迎合，还就kratom、Xanax和Benadryl组合给出个性化指导，且未明确提示可能致命。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562346.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T16:43:21+08:00"
+              "published_at": "2026-05-13T18:36:57+08:00"
             },
             {
-              "title": "欧盟《数字市场法》推动浏览器竞争 Firefox新增600万用户",
-              "brief": "Mozilla表示，欧盟《数字市场法》实施后，Firefox新增约600万用户，浏览器市场竞争明显加剧。原因在于法规要求平台提供浏览器选择界面，而苹果与Google的落实方式不同，前者在iPhone和iPad上覆盖了更多既有用户。Mozilla称，Firefox在苹果设备上的使用量增长113%，Android端增长12%，用户留存率也较法规实施前提升了5倍。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562332.htm",
+              "title": "KDE获德国主权技术基金超120万欧元资助",
+              "brief": "KDE宣布获得德国主权技术基金超过120万欧元投资，用于未来两年推进多项桌面与办公核心能力建设。这笔资金将重点投向Plasma和KDE Linux的质量保证、恢复机制、安全基础设施、备份恢复、配置管理，以及KDE PIM对IMAP4rev2、WebDAV推送和Flatpak桌面集成等支持。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562344.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T16:41:28+08:00"
+              "published_at": "2026-05-13T18:34:19+08:00"
             },
             {
-              "title": "微软推出云端驱动恢复功能，可远程回滚问题 Windows 驱动",
-              "brief": "微软公布“云端驱动恢复”功能，可在通过 Windows 更新分发的驱动被认定存在质量问题后，直接远程触发回滚。以往通常要等厂商重新提交修复版，用户可能长期受蓝屏或兼容性问题影响。新机制仍走现有更新通道，无需额外代理，会自动卸载被拒绝版本并恢复旧版或批准的替代驱动，计划先测试后于2026年9月自动启用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562330.htm",
+              "title": "比亚迪与斯特兰蒂斯等商谈接手欧洲闲置工厂",
+              "brief": "比亚迪正与斯特兰蒂斯等欧洲车企谈判，希望接管闲置工厂以扩大本地制造布局。公司称更倾向于自主运营而非成立合资企业，背景是欧洲制造商在高成本和激烈竞争下，对与中国企业合作持开放态度；斯特兰蒂斯本月也宣布将由西班牙两家工厂为零跑生产电动车，而比亚迪近来正为腾势品牌在欧洲扩张招聘人才。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562342.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T14:12:58+08:00"
+              "published_at": "2026-05-13T17:48:56+08:00"
             },
             {
-              "title": "黄仁勋应邀随特朗普访华，市场关注高端 AI 芯片出口进展",
-              "brief": "消息称黄仁勋在特朗普邀请下加入访华行程，英伟达和白宫均确认其安排有变，并表示此行与美方目标一致。此举引发市场对高端AI芯片对华出口进展的关注，焦点集中在H200。虽然美方此前已批准相关销售，但受附加条件、条款分歧和行政审批影响，芯片至今尚未正式交付中国客户。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562328.htm",
+              "title": "报告称特朗普“金色穹顶”防御系统或耗资1.2万亿美元",
+              "brief": "美国国会预算办公室报告称，特朗普设想的“金色穹顶”防御系统成本可能高达1.2万亿美元，远高于他此前约1750亿美元的估算。该测算以特朗普于2025年1月签署的行政令为蓝本，认为搭载拦截导弹的天基卫星系统将占整体成本约六成；若要同时拦截10枚洲际弹道导弹，或需部署约7800颗武装卫星。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562340.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T13:58:15+08:00"
+              "published_at": "2026-05-13T17:48:26+08:00"
             },
             {
-              "title": "Xbox CEO：必须赢回那些流失的失望玩家",
-              "brief": "Xbox新任CEO表示，玩家对Xbox感到失望，公司必须把主机和PC端的基础体验修好，重新赢回流失用户。相关表态反映出Xbox正在调整方向，此前其在主机和PC平台表现不佳，粉丝对更像发行商的发展路线并不买账。她称团队会打磨每个细节，更重视主机与硬件，让玩家更快感受到游戏乐趣。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1562326.htm",
+              "title": "Instagram取消加密私信引争议 EFF批评Meta转嫁责任",
+              "brief": "Instagram不再宣称提供加密私信后引发争议，电子前哨基金会批评Meta把隐私保护责任转嫁给用户。EFF指出，安全通信不应依赖多步隐藏设置或要求用户转去WhatsApp，而应在用户已聚集的平台默认启用端到端加密；报道同时提到，各地监管压力也让加密功能持续承压。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562338.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T13:57:22+08:00"
+              "published_at": "2026-05-13T17:45:31+08:00"
             }
           ]
         },
@@ -440,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "中国空间站人类“人工胚胎”实验进展顺利",
-              "brief": "天舟十号抵达后，在轨航天员当晚将人类“人工胚胎”样本装入空间站实验模块，项目负责人称实验进展顺利。该研究以人类干细胞构建的胚胎样结构为模型，不具备发育成个体能力，用于早期发育研究。样本含子宫细胞和微流控芯片两种模型，将完成5天实验后在轨冻存并下行，与地面对照分析微重力等空间环境影响。",
-              "source_url": "https://www.ithome.com/0/949/945.htm",
+              "title": "联想来酷斗战者确认：战7000P游戏本支持215W性能释放",
+              "brief": "联想来酷斗战者确认，战7000P游戏本整机性能释放最高可达215W，指处理器与独立显卡的合计性能释放上限。这次公开内容的核心就是整机功耗能力，进一步明确了该机的性能定位；目前文中尚未披露处理器、显卡、屏幕、售价、上市时间，以及这一数值对应的具体模式和散热方案等更多信息。",
+              "source_url": "https://www.ithome.com/0/950/015.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T16:44:08+08:00"
+              "published_at": "2026-05-13T18:49:24+08:00"
             },
             {
-              "title": "小米汽车称YU7交付提速，现车最快2小时提车",
-              "brief": "小米汽车表示，YU7交付能力已明显提升，购买现车最快2小时即可提车，用户在车辆检测、清洁及交付文件准备完成后，到店签约即可开走。官方同时推出截至5月31日24点的购车权益，最高可享6.3万元，现车还可选3年0息或5年低息。当前现车最快当天交付，定制新车预计4至7周交付。",
-              "source_url": "https://www.ithome.com/0/949/943.htm",
+              "title": "索尼恢复 PSN 商店“优惠”页面，并开启新一轮促销",
+              "brief": "索尼已悄然恢复PSN商店“优惠”促销专题页，并同步开启新一轮游戏折扣，活动持续至5月27日。此次促销涵盖首次打折与新史低两个方向，反映商店折扣展示与活动节奏已重新回归；名单中包括《微软模拟飞行2024》《完美音浪》《忍者龙剑传4》《鬼泣5+Vergil》等多款作品。",
+              "source_url": "https://www.ithome.com/0/950/014.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T16:40:39+08:00"
+              "published_at": "2026-05-13T18:46:20+08:00"
             },
             {
-              "title": "老蛙发布4.5-10mm APS-C变焦鱼眼镜头，售价2480元",
-              "brief": "老蛙发布4.5-10mm变焦鱼眼APS-C镜头，覆盖索尼、富士、佳能、松下和M4/3等卡口，售价2480元。新品面向创意摄影、风光、建筑和视觉特效等特殊用途，按1.6x系数换算等效焦段约为7.2-16mm。镜头采用手动对焦设计，配备对焦环、变焦环和光圈环，重约330克，使用9组13片结构，最近对焦距离10厘米。",
-              "source_url": "https://www.ithome.com/0/949/942.htm",
+              "title": "索尼高管称中韩游戏工作室开发效率高于西方厂商",
+              "brief": "索尼第三方开发业务副总裁克里斯蒂安·斯文森表示，中韩游戏开发商在高品质作品推进上的效率明显高于部分西方厂商。他称自己亲眼见到这些团队在项目规模与应变速度上表现惊人，在版本更新和内容迭代方面也更强；斯文森还指出，差异核心在于团队协作模式不同，索尼也正通过中国之星计划扶持亚洲工作室。",
+              "source_url": "https://www.ithome.com/0/950/011.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T16:40:34+08:00"
+              "published_at": "2026-05-13T18:33:53+08:00"
             },
             {
-              "title": "京东快递618下调寄件价格，部分10斤包裹低至11.9元",
-              "brief": "京东快递在618期间下调寄件价格，提供上门取件服务，部分同省和全国“京东标快”一口价券后分别低至9.9元、11.9元、18.9元和25.9元。此次优惠主要针对1kg、3kg和5kg档位，优惠券有效期为60天。若包裹超出对应重量，用户无需取消订单，可由快递员上门称重后补付超重费用，不影响正常取件。",
-              "source_url": "https://www.ithome.com/0/949/941.htm",
+              "title": "铭瑄 MS-iCraft B850M WIFI 主板开售：1099元",
+              "brief": "铭瑄MS-iCraft B850M WIFI主板现已发售，定价1099元，采用micro ATX板型。产品主打电竞之心系列定位，配备Skylight RGB散热装甲、显卡快拆、Debug诊断灯和快装Wi-Fi天线；规格上提供10+2+1相供电、支持250W性能释放，并搭载5GbE网卡、Wi-Fi 6E、双PCIe插槽和三个M.2接口。",
+              "source_url": "https://www.ithome.com/0/950/009.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T16:39:39+08:00"
+              "published_at": "2026-05-13T18:32:38+08:00"
             },
             {
-              "title": "微星神影16 Max 2026新增配置开售，12799元起",
-              "brief": "微星神影16 Max 2026新增两款配置开售，起售价12799元，分别搭载Ultra 9 285HX配RTX 5070和Ultra 9 290HX Plus配RTX 5060。该机采用16英寸2560×1600分辨率240Hz屏幕，亮度500nits，覆盖100% DCI-P3色域，并配备24分区RGB键盘。整机性能释放200W，内置80Wh电池，提供雷电4、USB-C、USB-A、HDMI 2.1和RJ45等接口。",
-              "source_url": "https://www.ithome.com/0/949/940.htm",
+              "title": "韩官员提议发放“AI芯片全民红利”，引发市场震荡",
+              "brief": "韩国官员Kim Yong-beom提出向全民发放“AI芯片红利”后，市场迅速震荡，Kospi盘中一度大跌5.1%，收盘仍跌2.3%。争议出现后，他澄清相关说法针对超额税收收入，并非新增企业暴利税，政府官员也确认这只是个人观点；事件发生时，三星与最大工会谈判正接近破裂，全面罢工风险仍在升高。",
+              "source_url": "https://www.ithome.com/0/950/008.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T16:34:04+08:00"
+              "published_at": "2026-05-13T18:20:21+08:00"
             }
           ]
         },
@@ -480,39 +494,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "燃油附加费将上调，端午机票预订量单日增84%",
-              "brief": "国内航线燃油附加费将再次上调，叠加“五一”后机票均价较节日期间回落超四成，带动旅客集中提前锁定低价票。平台数据显示，5月12日当天端午假期6月19日至21日起飞机票预订量较前一日增长84%，暑期7月至8月机票预订量环比增长58%、同比增长45%，京沪飞三亚、青岛、长沙等航线仍有约300元机票在售。",
-              "source_url": "https://36kr.com/newsflashes/3807484034391814?f=rss",
+              "title": "Meta将向竞争对手开放WhatsApp接口以应对欧盟反垄断调查",
+              "brief": "Meta宣布将允许竞争对手的人工智能聊天机器人免费使用WhatsApp相关工具，以回应欧盟反垄断调查带来的合规压力。此举针对监管机构对大型平台限制竞争的审查，目的是满足欧盟要求并规避可能出现的巨额罚款。公司于5月13日披露，开放内容聚焦WhatsApp接口与配套工具。",
+              "source_url": "https://36kr.com/newsflashes/3807586521865989?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 16:53:02  +0800"
+              "published_at": "2026-05-13 18:56:12  +0800"
             },
             {
-              "title": "乘联分会：5月上旬新能源乘用车零售22.6万辆，环比增27%",
-              "brief": "乘联分会发布数据显示，5月1日至10日全国乘用车市场零售40.7万辆，同比下降21%，环比增长36%，今年以来累计零售601.2万辆，同比下降19%。其中新能源乘用车零售22.6万辆，同比下降13%、环比增长27%，今年以来累计零售298.4万辆，同比下降17%，显示5月上旬新能源零售较前一阶段增长。",
-              "source_url": "https://36kr.com/newsflashes/3807482716266248?f=rss",
+              "title": "北纬科技：控股股东傅乐民拟减持不超3%股份",
+              "brief": "北纬科技公告称，控股股东、实际控制人傅乐民计划减持不超过3%公司股份。减持安排将在公告披露15个交易日后启动，并在随后3个月内通过集中竞价和大宗交易实施，原因是个人资金需求。按公告上限计算，拟减持数量不超过1676.96万股，占公司总股本比例不超过3%。",
+              "source_url": "https://36kr.com/newsflashes/3807584722657029?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 16:51:42  +0800"
+              "published_at": "2026-05-13 18:51:14  +0800"
             },
             {
-              "title": "上海启动金门、马祖旅游签注申请受理",
-              "brief": "上海出入境部门表示，全市出入境接待大厅已同步启动赴金门、马祖旅游签注申请受理，为相关赴台行程恢复提供办理通道。按现行安排，上海市户籍居民和居住证持有人可前往全市任一接待大厅，凭本人有效身份证申请往来台湾通行证，并办理赴金门、马祖个人旅游签注或团队旅游签注。",
-              "source_url": "https://36kr.com/newsflashes/3807481992109828?f=rss",
+              "title": "迪安诊断：董事叶小平因涉嫌泰格医药持股变动信披违规被证监会立案",
+              "brief": "迪安诊断公告称，公司董事叶小平收到证监会《立案告知书》，因涉嫌泰格医药持股变动相关信息披露违法违规被立案调查。公司说明，该事项针对叶小平个人在泰格医药持股变动中的信息披露问题，与迪安诊断股票交易、信息披露及日常经营无关，不会对公司正常经营造成影响。",
+              "source_url": "https://36kr.com/newsflashes/3807598849367812?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 16:50:58  +0800"
+              "published_at": "2026-05-13 18:49:50  +0800"
             },
             {
-              "title": "腾讯：Hy3 preview连续三周居OpenRouter周榜首位",
-              "brief": "腾讯表示，Hy3 preview截至5月11日已连续三周登顶OpenRouter周榜总榜，说明其调用量持续处于平台前列。与此同时，公司披露今年以来已累计上线数十款通用和垂直场景Agent，显示其正围绕模型能力加快推进智能体产品布局，并扩展不同应用场景。",
-              "source_url": "https://36kr.com/newsflashes/3807475346251523?f=rss",
+              "title": "可川科技：子公司可川光子主营业务尚未形成营收",
+              "brief": "可川科技在股票交易异常波动公告中表示，全资子公司可川光子目前主营业务尚未形成营收。该子公司成立于2024年2月，主要从事硅光芯片研发设计及光模块测试生产，但产品仍处于送样阶段、验证周期较长。公告称其2025年度净利润为亏损2046.66万元，对公司本期营收暂不构成重大影响，未来订单仍存不确定性。",
+              "source_url": "https://36kr.com/newsflashes/3807580576849673?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 16:44:12  +0800"
+              "published_at": "2026-05-13 18:46:11  +0800"
             },
             {
-              "title": "腾讯：本土市场游戏收入454亿元，同比增长6%",
-              "brief": "腾讯在2026年第一季度财报中披露，本土市场游戏收入为454亿元，同比增长6%，但收入增速低于本土市场游戏流水增速。公司解释称，这主要因为2026年春节假期晚于2025年，导致更多收入递延至本季之后确认；同期增值服务业务收入同比增长4%至961亿元。",
-              "source_url": "https://36kr.com/newsflashes/3807473089797894?f=rss",
+              "title": "百联股份：拟终止受托管理联华超市41.51%股权，预计构成重大资产重组",
+              "brief": "百联股份公告称，拟与控股股东百联集团终止对联华超市41.51%股权的受托管理。完成后，公司对联华超市的表决权比例将由56.66%降至15.15%，联华超市也将不再纳入合并报表范围。公司初步测算，此次交易预计构成重大资产重组，但不涉及发行股份或控制权变更，事项仍处筹划阶段。",
+              "source_url": "https://36kr.com/newsflashes/3807584503897606?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 16:41:54  +0800"
+              "published_at": "2026-05-13 18:43:13  +0800"
             }
           ]
         },
