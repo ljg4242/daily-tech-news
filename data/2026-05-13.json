@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T14:55:52.269094+08:00",
+  "generated_at": "2026-05-13T16:55:35.537334+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,39 +89,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Pixel 与 Galaxy Watch 用户抱怨恼人的 YouTube Music 漏洞",
+              "brief": "多名 Pixel Watch 和 Galaxy Watch 用户反映，Wear OS 版 YouTube Music 的离线播放列表出现故障，整张已下载歌单常常只播放完第一首就中断。问题来自 Reddit 贴文及 Android Authority 收到的邮件反馈，影响用户在跑步、徒步等刻意不带手机时依赖手表独立听歌的场景；播放界面的“下一首”和更多按钮还会变灰，清缓存、清数据与重启都未带来长期修复，谷歌目前尚未回应。",
+              "source_url": "https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T16:42:22+08:00"
+            },
+            {
+              "title": "你的 Google Keep 笔记可能很快更容易迁移到 Markdown 应用",
+              "brief": "Google Keep for Android 正在测试“导出为 Markdown”功能，相关字符串和布局内容已在 v5.26.191.01.90 中以调试选项形式出现。这与用户长期希望 Keep 支持 Markdown 的背景有关，但目前方向仍是提升笔记迁移到其他 Markdown 应用时的数据可移植性，而不是在 Keep 内直接进行原生 Markdown 编辑；现阶段该功能仍处于较早测试阶段。",
+              "source_url": "https://www.androidauthority.com/google-keep-markdown-export-apk-teardown-3666449/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T16:08:01+08:00"
+            },
+            {
+              "title": "三星 Galaxy Z Fold 8 和 Flip 8 可能随 Gemini Intelligence 亮相",
+              "brief": "据 Sedaily 报道，三星下一代折叠屏 Galaxy Z Fold 8 和 Z Flip 8 可能随 One UI 9 首发 Gemini Intelligence，把 Gemini 从问答工具进一步推向可跨应用执行任务的系统级助手。该功能将能在应用之间乃至 Chrome 中处理完整工作流，延续三星与谷歌在 Galaxy AI 以来的合作；不过它目前尚未出现在面向 Galaxy S26 测试者的 One UI 9 测试版中，暗示三星可能等到今年稍晚的稳定版再正式推出。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-gemini-intelligence-3666434/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T15:44:50+08:00"
+            },
+            {
+              "title": "三星悄悄恢复了这项更沉浸的 DeX 功能",
+              "brief": "三星在近期 One UI 8.5 更新中，悄悄把 DeX 的“自动隐藏任务栏”开关带了回来，此前公司在 One UI 8 重建桌面模式时取消了这一旧版功能。新开关可在“设置-已连接设备-Samsung DeX-已连接显示器”中找到，让用户全屏看视频或进行更沉浸的桌面操作时更方便隐藏任务栏；相比过去必须长按最大化按钮再进入沉浸模式的做法，这一恢复后的入口直观得多。",
+              "source_url": "https://www.androidauthority.com/samsung-autohide-taskbar-toggle-3666423/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T15:07:07+08:00"
+            },
+            {
               "title": "三星确认One UI 9测试版第二波即将推送",
               "brief": "三星宣布One UI 9测试版第二波将于5月26日开始推送，此前基于Android 17的测试版已在美国、英国、印度、德国和波兰启动，但并非所有国家都已开放。三星在新闻稿的脚注中透露，第二波将覆盖印度和波兰等国家，但未公布完整名单。用户可通过三星会员应用的测试版部分注册参与。",
               "source_url": "https://www.androidauthority.com/samsung-one-ui-9-beta-second-wave-3666427/",
               "source_name": "Android Authority",
               "published_at": "2026-05-13T14:17:09+08:00"
-            },
-            {
-              "title": "Google的Magic Pointer也将登陆Chrome中的Gemini",
-              "brief": "Google DeepMind宣布，Magic Pointer功能正在向Chrome中的Gemini推送。该功能让Gemini理解光标所指内容，用户可更自然地与网页交互，例如选择产品进行比较或指向客厅位置可视化新沙发。DeepMind表示，Magic Pointer旨在创造直观的AI体验，无需复制文本或编写复杂提示，用户只需指向屏幕并提问即可。",
-              "source_url": "https://www.androidauthority.com/magic-pointer-gemini-in-google-chrome-3666405/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T12:52:18+08:00"
-            },
-            {
-              "title": "谷歌或将为 Pixel 手机带来更完整的 Material You 配色控制",
-              "brief": "Android 17 早期版本的一则泄露显示，谷歌正为 Pixel 手机上的“壁纸与样式”加入更深入的 Material You 配色自定义。现有颜色设置主要按壁纸自动生成预设色板，“其他颜色”也只是固定选项；新版本则可能支持直接选择强调色，并新增 Neutral、Soft、Bright、Bold 等色彩强度预设，这些配色会应用到图标、按钮、菜单、文本高亮和快捷设置磁贴等系统元素。",
-              "source_url": "https://www.androidauthority.com/google-pixel-wallpaper-and-style-color-customization-leak-3666400/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T11:48:44+08:00"
-            },
-            {
-              "title": "索尼发布 Xperia 1 VIII，主打相机升级",
-              "brief": "索尼正式发布新一代安卓旗舰 Xperia 1 VIII，并把今年的更新重点放在相机上。作为去年的 Xperia 1 VII 后续机型，它延续了前代在屏幕、音频、microSD 卡和有线耳机接口上的一些优势，同时回应用户对影像表现仍有不足的反馈。新机继续采用后置三摄设计，镜头排布更紧凑，长焦相机升级为 1/1.56 英寸新传感器，芯片为高通 Snapdragon 8 Elite Gen 5。",
-              "source_url": "https://www.androidauthority.com/sony-xperia-1-viii-3666078/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T10:00:33+08:00"
-            },
-            {
-              "title": "Garmin为入门跑者下放原本更贵的训练功能",
-              "brief": "Garmin发布面向入门跑者的Forerunner 70和170，把以往更高价位跑表上的训练功能带到更亲民档位。背景是其高端Forerunner系列功能日益复杂，新品希望为想获得系统训练指导、又不想直接购买高阶训练表的用户降低门槛。两款手表提供AMOLED屏、Garmin Coach自适应计划、训练准备度、GPS、心率和睡眠追踪，5月15日开售，249.99美元起。",
-              "source_url": "https://www.androidauthority.com/garmin-launches-forerunner-70-and-170-3666381/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T08:15:42+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "亚马逊潘诺斯·帕奈回应新款 Fire 手机传闻",
+              "brief": "亚马逊设备与服务负责人潘诺斯·帕奈回应新款 Fire 手机传闻时表示，公司“未必”会推出智能手机，但没有直接否认相关计划。此前有报道称，亚马逊正研发一款代号“Transformer”、集成 Alexa 的 AI 手机，这距离其失败收场的 Fire Phone 被放弃已过去十多年。帕奈接受《金融时报》采访时称，做手机并不是当前目标，但若简单回答“不会做”，又会带来误导。",
+              "source_url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
+              "source_name": "The Verge",
+              "published_at": "2026-05-13T04:36:42-04:00"
+            },
+            {
               "title": "索尼新款 Xperia 手机迎来久违改版",
               "brief": "索尼发布新旗舰 Xperia 1 VIII，结束 Xperia 1 系列自 2020 年以来几乎未变的外观设计，改用更厚实的方形后摄模组，但依然不会在美国发售。新机把原本位于左上角的纵向三摄改成方块式排列，并加入闪光灯与索尼标识；同时配备据称有明显提升的长焦相机，以及一项类似谷歌 Camera Coach、但更完善的 AI 拍摄辅助功能。",
               "source_url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
@@ -195,13 +202,6 @@
               "source_url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
               "source_name": "The Verge",
               "published_at": "2026-05-12T16:35:23-04:00"
-            },
-            {
-              "title": "Meta 将在青少年为 Instagram 算法新增兴趣时通知家长",
-              "brief": "Meta 从周二起为 Instagram 青少年账户加入更多家长可见信息，家长可查看孩子通常互动的主题，并将在其为算法新增兴趣时收到通知。这延续了平台去年推出“你的算法”功能后的监管思路，同时 Meta 也在把旗下各应用的家长控制集中到 Family Center 统一管理。",
-              "source_url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
-              "source_name": "The Verge",
-              "published_at": "2026-05-12T15:56:50-04:00"
             }
           ]
         },
@@ -334,6 +334,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "欧盟浏览器选择屏为 Firefox 带来数百万新用户",
+              "brief": "欧盟《数字市场法》要求苹果和谷歌向消费者提供浏览器选择屏后，Mozilla估计 Firefox 因此新增约600万用户。该规定让用户可改选 Safari 或 Chrome 之外的浏览器，其中 iOS 用户增长113%，Android 增长12%；Mozilla称差异与两家平台展示选择屏的时机有关，且留存率较法规实施前提升五倍，Aloha、Brave、Opera 和 Vivaldi 也报告了明显增长。",
+              "source_url": "https://www.solidot.org/story?sid=84285",
+              "source_name": "Solidot",
+              "published_at": "2026-05-13T16:05:15+08:00"
+            },
+            {
               "title": "谷歌发布以AI为核心的新笔记本Googlebook",
               "brief": "谷歌宣布推出新笔记本Googlebook，这款设备运行桌面模式Android，定位是以AI为核心的电脑产品。它与Chromebook类似，将由宏碁、华硕、戴尔、惠普和联想负责制造销售，并深度集成Gemini Intelligence。用户只需移动光标就能启用Magic Pointer，系统会结合屏幕内容给出建议、从多个应用提取数据，还能与Android手机联动串流应用和传输文件。",
               "source_url": "https://www.solidot.org/story?sid=84282",
@@ -359,6 +366,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "豆包输入法 Mac 版正式上线，支持语音输入、拼音和双拼",
+              "brief": "豆包输入法Mac版已正式上线，面向macOS用户提供语音输入、拼音和双拼等能力，豆包输入法的产品线也由手机扩展到桌面端。此前它已在2025年11月分别推出iOS版和安卓版，这次补上了Mac支持。官方提供约159MB安装包，支持AI语音输入、拼音、小鹤双拼和自然码，默认按住fn说话即可自动录入，文中称识别效率高、输入速度快，目前还没有Windows版本。",
+              "source_url": "https://www.appinn.com/doubao-shurufa-macos/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T14:56:20+08:00"
+            },
             {
               "title": "Win11 资源管理器可直接显示 KB、MB、GB",
               "brief": "Windows 11 在 25H2 Beta 和 25H2 Experimental 最新测试版中改进了资源管理器详细信息视图，文件大小终于能按 GB、MB、KB 等单位自适应显示。此前这一栏长期只显示 KB，判断体积往往还得点开属性，或借助第三方修改工具。当前该功能仍需手动开启，可用 ViveTool 通过功能 ID 61014711 启用，重启后生效。",
@@ -386,6 +400,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "特朗普第二任期发帖已超8800次 44次深夜密集更新",
+              "brief": "分析显示，特朗普重返白宫后的第二任期里，其Truth Social账号已累计发布至少8800条内容，并出现44次夜间密集发帖。报道称，这类高频发布通常指晚8点到早6点之间至少发出12条，部分素材由行政助理娜塔莉·哈普整理、送交特朗普审核，再在正常工时外批量发布。去年12月1日晚至接近午夜，该账号单日发帖近160条，创第二任期最高纪录。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562334.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-13T16:43:21+08:00"
+            },
+            {
+              "title": "欧盟《数字市场法》推动浏览器竞争 Firefox新增600万用户",
+              "brief": "Mozilla表示，欧盟《数字市场法》实施后，Firefox新增约600万用户，浏览器市场竞争明显加剧。原因在于法规要求平台提供浏览器选择界面，而苹果与Google的落实方式不同，前者在iPhone和iPad上覆盖了更多既有用户。Mozilla称，Firefox在苹果设备上的使用量增长113%，Android端增长12%，用户留存率也较法规实施前提升了5倍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562332.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-13T16:41:28+08:00"
+            },
+            {
               "title": "微软推出云端驱动恢复功能，可远程回滚问题 Windows 驱动",
               "brief": "微软公布“云端驱动恢复”功能，可在通过 Windows 更新分发的驱动被认定存在质量问题后，直接远程触发回滚。以往通常要等厂商重新提交修复版，用户可能长期受蓝屏或兼容性问题影响。新机制仍走现有更新通道，无需额外代理，会自动卸载被拒绝版本并恢复旧版或批准的替代驱动，计划先测试后于2026年9月自动启用。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562330.htm",
@@ -405,20 +433,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1562326.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-13T13:57:22+08:00"
-            },
-            {
-              "title": "任天堂推出 Switch 2 自选游戏同捆包，三款游戏任选其一",
-              "brief": "任天堂将推出一款可自选游戏的 Switch 2 同捆包，购买主机时可在三款作品中任选一款随附。此举背景是主机价格调整与软件阵容强化并行推进，不同游戏对应的节省幅度也不同，其中《马里奥赛车：世界》标价79.99美元，优惠约30美元。任天堂称希望借此提升 Switch 2 的拥有价值，更多细节仍待公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1562324.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-13T13:52:24+08:00"
-            },
-            {
-              "title": "Steam Frame 现身高通官网，发布或将临近",
-              "brief": "Steam Frame首次出现在高通官网，被视为这款设备接近发布的一个新信号。现有信息显示，它将搭载骁龙8 Gen 3，配备更大内存、支持可变刷新率，分辨率也略高于Quest 3，并具备注视点渲染。与此同时，Quest 3在手部追踪和全身追踪上仍有优势。官方尚未公布Steam Frame的发售时间和价格。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1562322.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-13T13:52:18+08:00"
             }
           ]
         },
@@ -426,39 +440,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "JCB 发布 1579 马力氢动力 Hydromax，8 月挑战柴油陆地极速纪录",
-              "brief": "JCB 发布氢动力赛车 Hydromax，计划于 2026 年 8 月重返邦纳维尔盐滩，挑战其 2006 年以 Dieselmax 创下且至今未破的柴油陆地极速纪录。该车长 32 英尺，搭载两台自研燃烧式发动机，总功率 1579bhp，项目历时 5 年、投入 1 亿英镑，下月测试后还将参加 8 月 1 日至 7 日的 Bonneville Speedweek。",
-              "source_url": "https://www.ithome.com/0/949/797.htm",
+              "title": "中国空间站人类“人工胚胎”实验进展顺利",
+              "brief": "天舟十号抵达后，在轨航天员当晚将人类“人工胚胎”样本装入空间站实验模块，项目负责人称实验进展顺利。该研究以人类干细胞构建的胚胎样结构为模型，不具备发育成个体能力，用于早期发育研究。样本含子宫细胞和微流控芯片两种模型，将完成5天实验后在轨冻存并下行，与地面对照分析微重力等空间环境影响。",
+              "source_url": "https://www.ithome.com/0/949/945.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T14:44:30+08:00"
+              "published_at": "2026-05-13T16:44:08+08:00"
             },
             {
-              "title": "“广东优品购暨深圳之约”补贴开启：6000 元以上数码产品可领 500 元",
-              "brief": "“广东优品购暨深圳之约”消费补贴活动已经开启，购买 6000 元以上数码产品可领取 500 元补贴。本轮补贴按扣除平台、厂商及运营商优惠后的最终含税发票价核算，开票时间需在 2026 年 5 月 1 日至 12 月 31 日之间，资金用完将提前结束，目前已覆盖京东、淘宝和天猫，搜索“广东优品购”即可进入专区申领。",
-              "source_url": "https://www.ithome.com/0/949/794.htm",
+              "title": "小米汽车称YU7交付提速，现车最快2小时提车",
+              "brief": "小米汽车表示，YU7交付能力已明显提升，购买现车最快2小时即可提车，用户在车辆检测、清洁及交付文件准备完成后，到店签约即可开走。官方同时推出截至5月31日24点的购车权益，最高可享6.3万元，现车还可选3年0息或5年低息。当前现车最快当天交付，定制新车预计4至7周交付。",
+              "source_url": "https://www.ithome.com/0/949/943.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T14:43:49+08:00"
+              "published_at": "2026-05-13T16:40:39+08:00"
             },
             {
-              "title": "索尼为 PS 商店 30% 抽成辩护：扶持 PS5 开发者成本高",
-              "brief": "索尼在最新采访中回应 PlayStation 商店 30% 佣金争议，称为吸引和扶持 PS5 平台开发者需要持续投入高成本。其表示目前合作开发商和发行商已达上万家，内部还设有 5 支团队，为伙伴提供开发套件、经验分享、公关宣传、市场推广及资金扶持，这些长期投入也是平台维持抽成的重要原因之一。",
-              "source_url": "https://www.ithome.com/0/949/792.htm",
+              "title": "老蛙发布4.5-10mm APS-C变焦鱼眼镜头，售价2480元",
+              "brief": "老蛙发布4.5-10mm变焦鱼眼APS-C镜头，覆盖索尼、富士、佳能、松下和M4/3等卡口，售价2480元。新品面向创意摄影、风光、建筑和视觉特效等特殊用途，按1.6x系数换算等效焦段约为7.2-16mm。镜头采用手动对焦设计，配备对焦环、变焦环和光圈环，重约330克，使用9组13片结构，最近对焦距离10厘米。",
+              "source_url": "https://www.ithome.com/0/949/942.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T14:43:16+08:00"
+              "published_at": "2026-05-13T16:40:34+08:00"
             },
             {
-              "title": "GEEKOM 推出 2026 款 A9 Max 迷你主机，升级锐龙 AI 9 HX 470",
-              "brief": "GEEKOM 推出 2026 款 A9 Max 迷你主机，处理器升级为 AMD 锐龙 AI 9 HX 470。新机延续高规格小型化定位，配备铜鳍片散热、2 条 DDR5 SO-DIMM 插槽和两个 PCIe Gen4 M.2 盘位，并支持 Wi‑Fi 7 与蓝牙 5.4，外部提供双 USB-C 40Gbps、双 HDMI 2.1、双 2.5GbE 及 SD 4.0，32GB+2TB 版本售价 1709 美元。",
-              "source_url": "https://www.ithome.com/0/949/788.htm",
+              "title": "京东快递618下调寄件价格，部分10斤包裹低至11.9元",
+              "brief": "京东快递在618期间下调寄件价格，提供上门取件服务，部分同省和全国“京东标快”一口价券后分别低至9.9元、11.9元、18.9元和25.9元。此次优惠主要针对1kg、3kg和5kg档位，优惠券有效期为60天。若包裹超出对应重量，用户无需取消订单，可由快递员上门称重后补付超重费用，不影响正常取件。",
+              "source_url": "https://www.ithome.com/0/949/941.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T14:36:29+08:00"
+              "published_at": "2026-05-13T16:39:39+08:00"
             },
             {
-              "title": "vivo S60 系列开启预约，发布时间暂未公布",
-              "brief": "vivo S60 系列现已开启预约，但官方暂未公布发布时间。结合此前爆料，该系列迭代机型预计采用 6.59 英寸 1.5K 屏和后置横向大矩阵设计，并搭载骁龙 8s 平台，配备 7 开头电池与 90W 快充，同时提供 IMX8 中底潜望长焦、金属中框、超声波指纹以及 IP68/IP69 等配置。",
-              "source_url": "https://www.ithome.com/0/949/787.htm",
+              "title": "微星神影16 Max 2026新增配置开售，12799元起",
+              "brief": "微星神影16 Max 2026新增两款配置开售，起售价12799元，分别搭载Ultra 9 285HX配RTX 5070和Ultra 9 290HX Plus配RTX 5060。该机采用16英寸2560×1600分辨率240Hz屏幕，亮度500nits，覆盖100% DCI-P3色域，并配备24分区RGB键盘。整机性能释放200W，内置80Wh电池，提供雷电4、USB-C、USB-A、HDMI 2.1和RJ45等接口。",
+              "source_url": "https://www.ithome.com/0/949/940.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T14:35:45+08:00"
+              "published_at": "2026-05-13T16:34:04+08:00"
             }
           ]
         },
@@ -466,45 +480,52 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "2025年全国广播电视和网络视听行业总收入同比增长5.22%",
-              "brief": "国家广播电视总局发布2025年全国广播电视行业统计公报，显示2025年全国广播电视和网络视听行业总收入达15464.29亿元，同比增长5.22%。其中，广播电视和网络视听业务实际创收收入13308.13亿元，同比增长5%；财政补助收入1042.45亿元，同比增长4.59%；其他收入1113.71亿元，同比增长8.61%。广播电视机构总收入7171.12亿元，同比增长5.48%，网络视听服务机构总收入8293.17亿元，同比增长5.00%。",
-              "source_url": "https://36kr.com/newsflashes/3807356997410569?f=rss",
+              "title": "燃油附加费将上调，端午机票预订量单日增84%",
+              "brief": "国内航线燃油附加费将再次上调，叠加“五一”后机票均价较节日期间回落超四成，带动旅客集中提前锁定低价票。平台数据显示，5月12日当天端午假期6月19日至21日起飞机票预订量较前一日增长84%，暑期7月至8月机票预订量环比增长58%、同比增长45%，京沪飞三亚、青岛、长沙等航线仍有约300元机票在售。",
+              "source_url": "https://36kr.com/newsflashes/3807484034391814?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 14:52:47  +0800"
+              "published_at": "2026-05-13 16:53:02  +0800"
             },
             {
-              "title": "软银集团第四季度净利润1.83万亿日元",
-              "brief": "软银集团发布第四季度财报，净利润为1.83万亿日元，销售净额为2.08万亿日元，愿景基金利润为2.88万亿日元。该业绩反映了软银在科技投资领域的持续收益，特别是在愿景基金的投资组合表现强劲。",
-              "source_url": "https://36kr.com/newsflashes/3807351957069314?f=rss",
+              "title": "乘联分会：5月上旬新能源乘用车零售22.6万辆，环比增27%",
+              "brief": "乘联分会发布数据显示，5月1日至10日全国乘用车市场零售40.7万辆，同比下降21%，环比增长36%，今年以来累计零售601.2万辆，同比下降19%。其中新能源乘用车零售22.6万辆，同比下降13%、环比增长27%，今年以来累计零售298.4万辆，同比下降17%，显示5月上旬新能源零售较前一阶段增长。",
+              "source_url": "https://36kr.com/newsflashes/3807482716266248?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 14:48:34  +0800"
+              "published_at": "2026-05-13 16:51:42  +0800"
             },
             {
-              "title": "芯片厂商联发科发布AI智能体化引擎2.0",
-              "brief": "联发科发布天玑AI智能体化引擎2.0，利用天玑SensingClaw技术提供低功耗全时感知能力，帮助设备厂商打造具备主动感知和跨应用驱动能力的Agent OS。联发科还与OPPO、小米和传音合作推出系统原生Claw，具备主动感知、执行和跨端无缝流转能力，并兼顾隐私保护。同时推出天玑AI开发套件3.0，升级端侧智能体全模态能力，加速应用部署。",
-              "source_url": "https://36kr.com/newsflashes/3807358730657287?f=rss",
+              "title": "上海启动金门、马祖旅游签注申请受理",
+              "brief": "上海出入境部门表示，全市出入境接待大厅已同步启动赴金门、马祖旅游签注申请受理，为相关赴台行程恢复提供办理通道。按现行安排，上海市户籍居民和居住证持有人可前往全市任一接待大厅，凭本人有效身份证申请往来台湾通行证，并办理赴金门、马祖个人旅游签注或团队旅游签注。",
+              "source_url": "https://36kr.com/newsflashes/3807481992109828?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 14:45:35  +0800"
+              "published_at": "2026-05-13 16:50:58  +0800"
             },
             {
-              "title": "印尼拟推出电动车补贴应对高油价",
-              "brief": "印度尼西亚财政部长普尔巴亚表示，鉴于中东紧张局势推高国际油价，加重能源进口负担，印尼计划自2026年6月起推出新一轮电动车补贴政策。政府希望通过激励措施推动民众使用电动汽车和电动摩托车，减少对化石燃料的依赖，以应对高油价带来的经济风险。",
-              "source_url": "https://36kr.com/newsflashes/3807350035373568?f=rss",
+              "title": "腾讯：Hy3 preview连续三周居OpenRouter周榜首位",
+              "brief": "腾讯表示，Hy3 preview截至5月11日已连续三周登顶OpenRouter周榜总榜，说明其调用量持续处于平台前列。与此同时，公司披露今年以来已累计上线数十款通用和垂直场景Agent，显示其正围绕模型能力加快推进智能体产品布局，并扩展不同应用场景。",
+              "source_url": "https://36kr.com/newsflashes/3807475346251523?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 14:42:40  +0800"
+              "published_at": "2026-05-13 16:44:12  +0800"
             },
             {
-              "title": "创业板指突破4037.96点，创历史新高",
-              "brief": "创业板指突破4037.96点，创历史新高。这一里程碑反映了市场对成长型企业的信心增强，尤其是科技和新能源板块的强劲表现推动了指数上涨。自低点以来，创业板指涨幅已超120%，显示出资本市场的活跃和投资者情绪的高涨。",
-              "source_url": "https://36kr.com/newsflashes/3807348528864771?f=rss",
+              "title": "腾讯：本土市场游戏收入454亿元，同比增长6%",
+              "brief": "腾讯在2026年第一季度财报中披露，本土市场游戏收入为454亿元，同比增长6%，但收入增速低于本土市场游戏流水增速。公司解释称，这主要因为2026年春节假期晚于2025年，导致更多收入递延至本季之后确认；同期增值服务业务收入同比增长4%至961亿元。",
+              "source_url": "https://36kr.com/newsflashes/3807473089797894?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 14:35:12  +0800"
+              "published_at": "2026-05-13 16:41:54  +0800"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "TeamPCP在GitHub公开Shai-Hulud蠕虫，修改C2后即可部署",
+              "brief": "近期发起多起供应链攻击的TeamPCP把使用的Shai-Hulud蠕虫上传到GitHub并公开代码。安全公司OX分析后确认，这份代码真实有效，与该团伙此前攻击时使用的版本一致。该蠕虫会在开发环境中搜索AWS、GitHub及云服务凭证，尝试继续感染其他资源；若无法复制自身，还会删除本地重要文件，而使用者只需修改C2和部分键值即可部署。",
+              "source_url": "https://www.landiannews.com/archives/112919.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-13T15:05:55+08:00"
+            },
             {
               "title": "微软测试 Windows 11 云端驱动恢复，异常时自动回滚旧版",
               "brief": "微软开始测试 Windows 11 的云端驱动恢复功能，在发现新驱动存在质量问题时，可通过云端将设备自动回滚到此前可用的旧版本，用户无需手动卸载或重装驱动。此举主要针对 OEM 驱动质量不一、异常修复和重新分发周期较长的问题。恢复流程由微软依据遥测、反馈或厂商通报触发，经 Windows 更新下发，计划 5 至 8 月测试，9 月起逐步开放。",
@@ -532,13 +553,6 @@
               "source_url": "https://www.landiannews.com/archives/112915.html",
               "source_name": "蓝点网",
               "published_at": "2026-05-13T10:56:31+08:00"
-            },
-            {
-              "title": "微软发布 Windows 10 ESU 更新 KB5087544，修复错误与安全漏洞",
-              "brief": "微软面向已加入 Windows 10 ESU 计划的家庭版、专业版及 LTSC 版本发布 KB5087544 扩展安全更新，修复远程桌面安全警告框显示异常，并处理一批安全问题。由于 Windows 10 常规支持已结束，未注册 ESU 的设备无法继续通过常规方式获取此类补丁。该更新共修复 120 个漏洞，安装后版本升至 Build 19045.7291，特定企业配置下还可能触发 BitLocker 恢复界面。",
-              "source_url": "https://www.landiannews.com/archives/112914.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-13T10:36:55+08:00"
             }
           ]
         }
