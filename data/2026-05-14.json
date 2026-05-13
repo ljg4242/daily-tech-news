@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T03:00:44.350119+08:00",
+  "generated_at": "2026-05-14T04:56:24.006840+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Meta AI 应用新增“隐身聊天”，OpenAI因保存聊天记录面临诉讼",
+              "brief": "Meta为Meta AI应用和WhatsApp版Meta AI加入“隐身聊天”模式，定位为处理敏感话题的私密AI交互；这一功能发布之际，OpenAI正因保存聊天记录在多起诉讼中面临压力。Meta称对话推理在可信执行环境中完成，服务器不留会话日志，退出后本机内容消失，私密搜索不与用户关联，并设有安全护栏，仅支持文本输入。",
+              "source_url": "https://www.macrumors.com/2026/05/13/meta-ai-incognito-chat/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-14T04:23:37+08:00"
+            },
+            {
+              "title": "三星据报将于7月推出AI智能眼镜，或早于苹果",
+              "brief": "三星据报将于7月22日的Galaxy Unpacked活动发布AI智能眼镜，并同步推出新一代折叠手机，这将使其在相关产品上市节奏上早于仍在研发同类设备的苹果。报道称该眼镜与Gentle Monster合作开发，运行Android XR并集成Gemini，配备高清摄像头、扬声器和麦克风，但首代不含内置显示屏。",
+              "source_url": "https://www.macrumors.com/2026/05/13/samsung-ai-smart-glasses-july/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-14T03:51:09+08:00"
+            },
             {
               "title": "Meta推出“Instants”应用，在Instagram分享阅后即焚照片",
               "brief": "Meta宣布在Instagram推出Instants，用于分享看过即消失的临时照片，并同步提供独立应用。该功能面向日常随手拍，定位与Stories不同，用户不能添加滤镜、贴纸等编辑效果，互动回复会直接进入私信。照片会在好友查看后或24小时后消失，但仍会在个人存档保留一年，也可转发到Stories；分享范围限密友或互相关注者，且不支持截图和录屏。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/13/macbook-neo-vs-lenovo-ideapad-slim-3x/",
               "source_name": "MacRumors",
               "published_at": "2026-05-14T01:38:18+08:00"
-            },
-            {
-              "title": "苹果反对欧盟要求谷歌向 AI 对手开放 Android 服务",
-              "brief": "苹果就欧盟为落实《数字市场法》而要求谷歌向竞争性AI服务开放Android能力的草案提交意见，警告此举会危及用户隐私、安全、设备完整性与性能。该方案拟让第三方AI直接与应用交互，执行发邮件、点餐、分享照片等操作；谷歌已反对，苹果则称自身生态也受欧盟开放要求影响，并指出快速演进的AI能力、行为和威胁向量仍难预测，还质疑欧委会以不足三个月的工作取代谷歌工程判断。",
-              "source_url": "https://www.macrumors.com/2026/05/13/apple-defends-google-against-eu-proposal/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-14T00:08:18+08:00"
-            },
-            {
-              "title": "Notepad++ 的 Mac 移植版因商标争议更名为 Nextpad++",
-              "brief": "此前未经授权以Notepad++名义发布的macOS移植版，在商标争议解决后已更名为Nextpad++。原作者Don Ho曾公开反对其使用商标，并在作者页面加入自己的姓名和生平；更新后的网站明确该项目是面向macOS的独立开源社区移植版，基于Notepad++ GPL代码库、Objective-C++、Scintilla和Cocoa开发，现以通用二进制形式支持Apple silicon与Intel Mac，并换上了新图标。",
-              "source_url": "https://www.macrumors.com/2026/05/13/notepad-plus-plus-mac-nextpad-dispute-settlement/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-13T23:52:15+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "报道称苹果希望应用在 iOS 27 中接入 Siri，但开发者担心未来抽成",
-              "brief": "报道称，苹果正赶在WWDC前游说开发者为 iOS 27 的新版 Siri 做整合，但一些厂商推进缓慢。原因是他们担心接入后未来会被苹果抽成，苹果虽称合作初期不收费，却未排除日后设佣金。知情人士称，百度、阿里巴巴和腾讯都在接洽名单内，相关能力可能与苹果此前公布但尚未上线的 App Intents 有关，目标是让 Siri 在应用内及跨应用执行更多操作。",
-              "source_url": "https://9to5mac.com/2026/05/13/apple-wants-apps-to-integrate-with-siri-in-ios-27-but-one-fear-holds-some-back-report/",
+              "title": "WhatsApp现可与Meta AI进行隐身对话",
+              "brief": "Meta宣布在WhatsApp和Meta AI应用推出“隐身聊天”，用户可与Meta AI进行离开即消失的临时对话。该功能与其他主流聊天机器人已有的短暂会话类似，延续了Meta去年为WhatsApp引入的Private Processing思路，目标是在提供AI能力时不让平台接触私密内容。Meta称推理在受信执行环境中完成，消息对其不可见，请求处理后删除，连会话中的网页搜索也不会与用户身份关联。",
+              "source_url": "https://9to5mac.com/2026/05/13/whatsapp-now-lets-you-have-incognito-conversations-with-meta-ai/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-14T02:30:17+08:00"
+              "published_at": "2026-05-14T04:33:09+08:00"
             },
             {
-              "title": "报道称苹果正研究将 AI 代理纳入 App Store",
-              "brief": "报道称，苹果正研究把 AI 代理更系统地纳入 App Store，并为其设计符合商店隐私与安全标准的机制。背景在于，这类能替用户执行复杂操作的软件，可能在获批后临时生成小型应用，带来绕过审核、规避费用或异常操作等风险。知情人士称，苹果希望避免代理失控删邮件等情况，最快或于下月 WWDC 介绍更新，但也可能尚未准备好发布。",
-              "source_url": "https://9to5mac.com/2026/05/13/apple-is-working-to-incorporate-ai-agents-on-the-app-store-per-report/",
+              "title": "iPhone Ultra将至：苹果高端机型的六项新特性",
+              "brief": "9to5Mac汇总传闻称，苹果正准备推出定位高端的iPhone Ultra，作为首款折叠iPhone带来与现有机型明显不同的形态。其背景是苹果可能借新类别扩展高端产品线，并为iOS 27加入这款设备独有的软件体验。文中提到它或采用书本式内折设计、钛金属边框和近乎无折痕内屏，配备约5.3至5.5英寸外屏、7.6至7.8英寸内屏、双前摄以及4800万主摄和超广角双后摄，颜色可能仅有黑白两种。",
+              "source_url": "https://9to5mac.com/2026/05/13/iphone-ultra-is-coming-six-new-features-in-apples-high-end-model/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-14T01:53:26+08:00"
+              "published_at": "2026-05-14T04:23:14+08:00"
             },
             {
-              "title": "Meta 推出 Instants：用于即时分享的新 iPhone 应用和 Instagram 功能",
-              "brief": "Meta推出Instants，既是独立iPhone应用，也是Instagram内的新功能，用于向好友发送看后即逝的随手照片。此举意在强化更自然的社交分享，降低编辑和发布压力。内容会在好友查看后消失，但可在个人归档中保留最长一年，并可回顾转发到Stories；回复会直达私信，且适用青少年账号与家庭中心保护。",
-              "source_url": "https://9to5mac.com/2026/05/13/meta-launches-instants-a-new-iphone-app-and-instagram-feature-for-ephemeral-sharing/",
+              "title": "Netflix称广告将出现在应用内更多位置",
+              "brief": "Netflix表示，未来一年广告将出现在应用内更多位置，包括新推出的竖版视频信息流，更多播客内容也会加入广告。背景是这家公司几年前还拒绝广告套餐，如今随着价格上涨和用户增长放缓，低价广告版已成为重要收入支点。Netflix称全球每月有超过2.5亿人使用其广告套餐，高于去年同期的9400万，扩大广告覆盖面旨在继续提升广告收入。",
+              "source_url": "https://9to5mac.com/2026/05/13/netflix-says-that-ads-will-start-appearing-in-more-parts-of-its-app/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-14T00:19:44+08:00"
+              "published_at": "2026-05-14T03:58:30+08:00"
             },
             {
-              "title": "优惠汇总：M5 Pro MacBook Pro 立减 400 美元等",
-              "brief": "9to5Mac汇总了当天苹果相关促销，其中16英寸M5 Pro MacBook Pro降价400美元，创追踪以来新低。此次整理覆盖多款近期硬件与配件，方便读者集中查看当前折扣。细节包括M5 MacBook Air 16GB/1TB减150美元、46毫米蜂窝版Apple Watch Series 11减130美元、2026款Studio Display最高减200美元，以及Anker 25W Qi2充电站七折优惠。",
-              "source_url": "https://9to5mac.com/2026/05/13/deals-m5-pro-macbook-pro-apple-watch-series-11/",
+              "title": "Apple TV国际内容团队再有高管离职",
+              "brief": "Apple TV国际内容团队再现人事变动，国际开发负责人Morgan Wandell将离职，并创办名为Kismet的新制作公司。这是继数周前另一位参与多部剧集的高管转投Amazon MGM之后，该团队一个月内第二次出现离任。报道称，Wandell此前负责的项目将由节目与美国本土开发主管Matt Cherniss接手，欧洲创意总监Jay Hunt的职责也会扩大，改为统筹国际及本地语言原创内容。",
+              "source_url": "https://9to5mac.com/2026/05/13/apple-tv-sees-another-departure-from-its-international-content-team/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-13T23:30:20+08:00"
+              "published_at": "2026-05-14T03:57:02+08:00"
             },
             {
-              "title": "Apple 地图广告即将在 iPhone 上线，形式与位置曝光",
-              "brief": "Apple地图广告将于今年夏天在美国和加拿大上线，iOS 26.5已为其提供兼容支持。苹果此前已预告这一变化，并说明广告只会出现在少数固定位置。具体来说，用户会在搜索结果顶部和搜索面板的“推荐地点”中各看到一条广告，样式以浅蓝底并标注“Ad”区分；苹果称定位与互动不会关联Apple账户，数据留在设备端。",
-              "source_url": "https://9to5mac.com/2026/05/13/apple-maps-is-launching-ads-on-iphone-soon-heres-what-to-expect/",
+              "title": "Strava iPhone应用现已支持苹果AirPods Pro 3新健身功能",
+              "brief": "Strava更新iPhone应用，现已支持在锻炼时直接读取AirPods Pro 3的心率数据，并可与Apple Watch协同使用。背景是AirPods Pro 3成为首款内置心率追踪的AirPods，让用户不戴手表也能记录训练数据。Strava表示，应用会自动选取耳机或手表中信号更强的一路以提高准确度，该功能需iOS 18及以上版本，同时公司本月还新增了物理治疗训练记录类别。",
+              "source_url": "https://9to5mac.com/2026/05/13/stravas-iphone-app-now-works-with-apples-new-airpods-pro-3-fitness-feature/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-13T23:16:30+08:00"
+              "published_at": "2026-05-14T03:56:13+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "奥运举重选手如何利用杠铃“鞭振”的物理学",
+              "brief": "宾州州立大学研究人员在美国声学学会会议上报告，奥运举重选手会利用杠铃受力弯曲后回弹产生的“鞭振”来帮助上举。高水平比赛中，抓举和挺举都可能受这种弹性影响，但不同杠铃为何弯曲与回弹表现不同仍未完全弄清。研究者将4根20公斤男子杠铃两端各加载50公斤并悬挂，配合加速度计和敲击测试分析其振动模式。",
+              "source_url": "https://arstechnica.com/science/2026/05/the-physics-of-how-olympic-weightlifters-exploit-barbells-whip/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-14T03:05:35+08:00"
+            },
+            {
               "title": "NASA披露部分阿耳忒弥斯3号细节，但关键决定仍待敲定",
               "brief": "NASA宣布，阿耳忒弥斯3号将于2027年前后先在近地轨道执行一次过渡性任务，而不是直接登月。此举是三个月前调整月球计划后，为降低后续载人登月风险并加快整体进度。任务将由“猎户座”与正在研制的星舰和“蓝月”会合，且为保留阿耳忒弥斯4号所需的末枚临时低温推进级，火箭将改用无推进能力的配重段模拟上面级，NASA也在继续定义整次任务的运行方案。",
               "source_url": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
@@ -155,19 +162,33 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-14T01:48:05+08:00"
-            },
-            {
-              "title": "Windows Update将更自动地回滚问题驱动",
-              "brief": "微软正在为Windows Update引入名为“云发起驱动恢复”的机制，让系统在发现驱动更新导致故障后，能自动恢复到此前可正常工作的版本。驱动更新既可能修复问题、提升性能，也可能让电脑变慢、不稳定，过去用户常得自己回滚或另找驱动。新方案允许微软从云端直接对受影响设备发起恢复操作，无需用户或硬件厂商手动干预，以替换已经通过Windows Update下发的有问题驱动。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-14T01:20:01+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌重申 Chromebook 仍可采购，但转向 Googlebooks 已在推进",
+              "brief": "谷歌表示，企业和学校目前仍可继续采购、部署和管理Chromebook，并将在未来几年以分阶段方式把Googlebooks纳入设备阵容。这是对教育和商用客户在新产品线出现后是否还应继续购买ChromeOS笔记本的回应。文中还提到10年自动更新、无需新增许可证的Google Admin管理支持，以及用ChromeOS Flex延长旧电脑寿命，但重点更多放在过渡与维护，而非明确的长期路线。",
+              "source_url": "https://www.androidauthority.com/google-enterprise-commitment-to-chromebooks-googlebooks-3666742/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-14T04:50:53+08:00"
+            },
+            {
+              "title": "谷歌翻译正尝试让 Live Translate 支持离线使用",
+              "brief": "谷歌翻译似乎正开发离线版Live Translate，让实时对话翻译在无网络时也能使用。目前应用虽支持离线下载语言包，但仅适用于文本和图片，实时翻译仍要求联网。Android版10.17.48.914427315.6-release中已出现相关迹象，不过功能预计只会覆盖已提供对应离线下载的一部分语言，尚未正式开放。",
+              "source_url": "https://www.androidauthority.com/google-translate-live-offline-3666725/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-14T04:28:38+08:00"
+            },
+            {
+              "title": "Ring 新款 Spotlight 和 Floodlight 摄像头升级至 2K",
+              "brief": "Ring发布新一代Spotlight Cam和Floodlight Cam，两款户外安防摄像头均升级到2K视频分辨率，接替2017年推出的初代产品。除清晰度提升外，Spotlight Cam亮度从300流明增至550，并采用双电池仓设计；Floodlight Cam亮度提升到2000流明。两款产品已在美国等市场开启预购，美国起售价169.99美元，6月3日正式开售。",
+              "source_url": "https://www.androidauthority.com/ring-second-gen-outdoor-cameras-launch-3666682/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-14T03:10:41+08:00"
+            },
             {
               "title": "限时优惠：GoPro HERO13 Black 套装降至历史最低价",
               "brief": "GoPro HERO13 Black 运动相机套装目前在亚马逊售价399.99美元，较常规价格下调26%，并创下历史最低。此次降价让原本面向内容创作者和户外用户的高端机型门槛进一步降低，适合买入。该机支持5.3K60视频、2700万像素照片、HDR/HLG色彩、HyperSmooth 6.0防抖和蓝牙音频管理，DealHunt给出87分，称现价比近90天均价低91.02美元。",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/samsung-hw-q600f-soundbar-deal-3666694/",
               "source_name": "Android Authority",
               "published_at": "2026-05-14T02:01:05+08:00"
-            },
-            {
-              "title": "Meta 称新版隐身 AI 聊天“完全私密”",
-              "brief": "Meta宣布推出Incognito Chat with Meta AI，称用户可在Meta AI应用和WhatsApp中以“完全私密”的方式与AI互动，相关内容不会被Meta访问。此举意在回应其他AI应用所谓隐身模式仍可能读取聊天内容的争议，并强调提供无人旁观的提问空间。官方称隐身聊天会自动删除，未来几个月上线，同时WhatsApp还将加入可在私人对话中调用Meta AI的Side Chat功能。",
-              "source_url": "https://www.androidauthority.com/meta-incognito-ai-whatsapp-3666665/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-14T01:38:32+08:00"
-            },
-            {
-              "title": "调查显示 Galaxy Ultra 用户希望三星找回旧有辨识度",
-              "brief": "Android Authority围绕Galaxy Ultra设计变化发起投票后，结果显示多数受访者认同三星应找回该系列过去鲜明的个性。背景是文章认为S24 Ultra仍保留方正、接近Note的轮廓，而S25 Ultra和S26 Ultra外观趋同，削弱了Ultra与普通S系列的区隔。投票中近79%的人认为S26系列如今看起来都差不多，13.5%认为Ultra是在正常进化，略低于8%认为它原本就缺乏强身份。",
-              "source_url": "https://www.androidauthority.com/galaxy-ultra-phones-losing-identity-poll-results-3666658/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-14T01:29:02+08:00"
-            },
-            {
-              "title": "亚马逊高管对 Fire Phone 2.0 传闻回应谨慎",
-              "brief": "围绕亚马逊可能重返智能手机市场的传闻，设备与服务负责人Panos Panay在新采访中没有直接否认，但明确表示这不是公司的当务之急。背景是亚马逊2014年的Fire Phone曾遭遇失败，今年早些时候又传出公司考虑再试一次。Panay指出，尽管手机仍是其生态硬件版图中的明显空缺，亚马逊即便不直接掌握这一入口，也已成功让服务覆盖大量设备。",
-              "source_url": "https://www.androidauthority.com/new-amazon-fire-phone-3666611/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-14T01:24:32+08:00"
             }
           ]
         },
@@ -209,45 +209,66 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "Xbox 新筛选器试图理顺杂乱游戏库",
-              "brief": "微软开始向 Xbox Insider 推送新更新，为游戏库加入筛选功能，帮助玩家区分自己已购买、他人共享以及通过 Game Pass 订阅可游玩的作品。由于收藏会很快变得混乱，这项功能旨在让用户更清楚当前究竟能玩什么。此次更新还带来新的开机音效与动画、分级 Gamerscore 徽章，但微软尚未说明这些功能何时面向所有 Xbox 用户推出。",
-              "source_url": "https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/",
+              "title": "苹果或向代理式 AI 开放 App Store",
+              "brief": "报道称，苹果可能调整 App Store 政策，为具备自主操作能力的代理式 AI 留出上架空间。此前这类工具因可能绕过商店分发应用、替用户生成原生 App，并带来恶意软件或误删邮件等风险而受限。苹果据称正设计兼顾隐私与安全的审核机制，希望在维持商店控制权的同时，不错过开发者和普通用户正关注的 AI 代理热潮。",
+              "source_url": "https://www.engadget.com/2172378/apple-may-open-up-the-app-store-to-agentic-ai/",
               "source_name": "Engadget",
-              "published_at": "2026-05-14T02:39:23+08:00"
+              "published_at": "2026-05-14T04:28:01+08:00"
             },
             {
-              "title": "OpenAI 支持《儿童网络安全法案》",
-              "brief": "OpenAI 表态支持《儿童网络安全法案》KOSA，并称这是其推动面向儿童的 AI 专门规则的一部分。该法案已于 2024 年通过参议院，近期再度获得推进，核心是要求社交平台为未成年人提供更强保护。现行版本要求未成年人可关闭成瘾性功能和算法推荐，平台还负有减轻饮食失调、自杀及性剥削等有害内容影响的注意义务。",
-              "source_url": "https://www.engadget.com/2172269/openai-endorses-the-kids-online-safety-act/",
+              "title": "你的 Steam Controller 摔一下可能会“尖叫”",
+              "brief": "Valve 的 Steam Controller 被发现藏有一个跌落彩蛋，手柄摔落时可能会发出经典的 Wilhelm 尖叫声。这一功能由 Reddit 用户发现，Engadget 也进行了确认。由于设备没有传统扬声器，它是通过触觉马达模拟声音效果；该彩蛋似乎有约一分钟冷却时间，而且并非每次跌落都会触发。",
+              "source_url": "https://www.engadget.com/2172375/your-steam-controller-might-scream-if-you-drop-it/",
               "source_name": "Engadget",
-              "published_at": "2026-05-14T02:34:54+08:00"
+              "published_at": "2026-05-14T04:24:23+08:00"
             },
             {
-              "title": "据报 LinkedIn 将裁员 5%",
-              "brief": "据路透社报道，LinkedIn 将裁减约 5% 员工，按其逾 1.75 万名全职员工计算，约涉及 875 人。公司并未将人工智能明确列为裁员原因，而是称正在缩减部分营销、供应商支出、客户活动和利用率不高的办公空间，以把团队资源集中到回报更高、影响更广的优先事项上。此次调整波及业务、营销、工程和产品团队，并将关闭奥地利格拉茨办公室。",
-              "source_url": "https://www.engadget.com/2172239/linkedin-is-reportedly-laying-off-five-percent-of-its-workforce/",
+              "title": "X 推出新的私密“历史记录”中心",
+              "brief": "X 在 iOS 应用上线新的“历史记录”标签页，用来集中保存用户的书签、点赞，以及在平台上看过的文章和长视频。产品负责人称，此举是因为时间线更新太快，用户需要更方便的回看入口。TechCrunch 指出，它取代了原有书签页，相关内容看起来仍保持私密，视频和文章区则会自动汇集浏览过的长内容。",
+              "source_url": "https://www.engadget.com/2172356/x-has-a-new-private-hub-for-users-bookmarks-likes-articles-and-long-videos/",
               "source_name": "Engadget",
-              "published_at": "2026-05-14T02:05:28+08:00"
+              "published_at": "2026-05-14T04:03:11+08:00"
             },
             {
-              "title": "Meta 员工抗议公司鼠标追踪计划",
-              "brief": "据路透社报道，Meta 员工正在美国多处办公室散发传单并发起联署，抗议公司在工作电脑上安装追踪软件。争议源于上月公布的 Agent Transformation Accelerator 计划，该计划会记录鼠标移动、点击和按键，以训练能执行复杂计算机任务的 AI 代理。员工援引美国劳资关系法主张改善工作条件的组织权利，英国员工也正与工会推进类似行动。",
-              "source_url": "https://www.engadget.com/2172212/meta-employees-are-protesting-the-companys-mouse-tracking-program/",
+              "title": "《塔罗斯的法则 3》将为系列收官",
+              "brief": "Croteam 与 Devolver Digital 公布《塔罗斯的法则 3》，并表示这将为始于 2014 年初代、延续到 2023 年续作的系列故事收官。开发方暂未公布发售时间，但确认新作将包含十多个世界和更复杂的谜题，Steam 页面还提到会有回归与全新机制。游戏登陆时将推出 PC 和 PS5 版本。",
+              "source_url": "https://www.engadget.com/2172314/the-talos-principle-3-will-wrap-up-the-series/",
               "source_name": "Engadget",
-              "published_at": "2026-05-14T01:39:38+08:00"
+              "published_at": "2026-05-14T03:18:22+08:00"
             },
             {
-              "title": "Instagram 推出会消失照片应用 Instants",
-              "brief": "Instagram 推出名为 Instants 的新功能及同名独立应用，主打随手拍下并分享会在好友看过后消失的照片。此举是其再次尝试即时、短暂的照片社交形式，相关内容最多可在个人归档中保存一年，之后还能整理成回顾故事。Instants 仅支持添加说明文字，不提供滤镜或编辑工具，也不能从相册上传照片，分享对象限于密友或互相关注用户。",
-              "source_url": "https://www.engadget.com/2172199/instagram-debuts-a-new-disappearing-photo-app-called-instants/",
+              "title": "Andreessen Horowitz 成为中期选举最大捐助者",
+              "brief": "《纽约时报》根据联邦捐款数据分析称，风险投资公司 Andreessen Horowitz 成为今年美国中期选举中最大的政治捐助者。该公司本轮选举周期已向相关 PAC 和超级 PAC 捐出超过 1.155 亿美元。报道指出，其捐款自 2024 年后显著增加，主要流向加密货币、亲 AI 及特朗普相关政治组织，显示其试图扩大在华盛顿的影响力。",
+              "source_url": "https://www.engadget.com/2172293/andreessen-horowitz-is-the-midterm-elections-biggest-donor/",
               "source_name": "Engadget",
-              "published_at": "2026-05-14T01:29:32+08:00"
+              "published_at": "2026-05-14T02:55:58+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "AMD最强游戏CPU技术也将进入工作站",
+              "brief": "AMD更新Ryzen PRO 9000商用处理器，首次把此前主要用于游戏芯片的3D V-Cache带到工作站产品线。该技术过去多面向玩家，近年在创作类任务中的表现也持续提升，因此AMD开始把它用于更复杂、更重数据的专业场景。新系列基于Zen 5架构，覆盖6到16核、12到32线程，并强调仿真、渲染和实时可视化等负载。",
+              "source_url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
+              "source_name": "The Verge",
+              "published_at": "2026-05-13T16:38:16-04:00"
+            },
+            {
+              "title": "加密货币《清晰法案》本周重返参议院，银行业已开始阻击",
+              "brief": "美国参议院本周将重新审议被称为《清晰法案》的加密市场结构法案，而银行业已经开始游说，试图阻止它推进。该议题再次回到国会山，背景是华盛顿围绕加密监管、稳定币立法和行业边界的拉锯仍在继续。文章还将焦点放在法案能否赶在共和党失去国会控制权前获得通过。",
+              "source_url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+              "source_name": "The Verge",
+              "published_at": "2026-05-13T15:19:00-04:00"
+            },
+            {
+              "title": "与特朗普交锋，将决定迪士尼新CEO的成败",
+              "brief": "迪士尼新任CEO乔希·达马罗原本正向投资者介绍把Disney Plus打造为公司“数字核心”的计划，但很快被卷入与特朗普政府的言论自由之争。背景是迪士尼旗下ABC指控联邦通信委员会就《The View》展开的持续调查侵犯第一修正案权利。这场与特朗普及FCC的冲突，可能会比流媒体整合更早定义他的任期。",
+              "source_url": "https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine",
+              "source_name": "The Verge",
+              "published_at": "2026-05-13T15:15:21-04:00"
+            },
             {
               "title": "Netflix 的广告野心还在扩大",
               "brief": "Netflix在2026年广告招商会上披露，月费8.99美元的含广告套餐如今全球每月覆盖超过2.5亿人，较去年公布的9400万人再次翻倍，也是连续第二年实现月度观众规模翻番。该层级自2022年推出后持续扩张，平台称2025年广告收入达到15亿美元，并计划从明年起把广告加入移动端新推出的竖屏视频流以及去年底开始引入的播客内容。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-05-13T14:41:49-04:00"
-            },
-            {
-              "title": "Instagram 再次模仿，推出会消失的 Instants 照片",
-              "brief": "Instagram推出名为 Instants 的新照片分享形式，照片不能编辑，只能发给密友或互相关注的用户，阅读后会消失，以鼓励更随意的分享。该功能已于周三在全球上线至应用内私信收件箱，并在部分国家测试独立应用；好友看到后可用表情回应或直接回私信，内容最迟24小时后消失。",
-              "source_url": "https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app",
-              "source_name": "The Verge",
-              "published_at": "2026-05-13T13:57:41-04:00"
-            },
-            {
-              "title": "扎克伯格宣布“完全私密”的加密 Meta AI 聊天",
-              "brief": "扎克伯格宣布 Meta AI 推出“隐身聊天”Incognito Chat，称这是首个不会在服务器保存对话记录的大型 AI 产品，用户离开会话后消息也不会留在聊天历史中。Meta 将其与其他机器人临时模式区分开来，强调该功能还采用端到端加密，因此连 Meta 自己也无法读取用户提出的问题和返回的答案。",
-              "source_url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-              "source_name": "The Verge",
-              "published_at": "2026-05-13T12:45:43-04:00"
-            },
-            {
-              "title": "微软不想卷入这一切",
-              "brief": "在马斯克诉奥特曼案的庭审中，微软明显试图置身纷争之外，不愿卷入双方的高戏剧化对抗。报道提到，微软的开场陈述更像一段产品广告，详细罗列自家业务，传递出这场审判以及其被牵涉其中都很荒诞的意味；相比马斯克、其同伴和 OpenAI 在证人席上的激烈表现，微软的存在感主要来自对自身产品的反复展示。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
-              "source_name": "The Verge",
-              "published_at": "2026-05-13T11:30:37-04:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《惩罚者：最后一杀》被嘲像GTA过场的镜头其实是真拍",
+              "brief": "《惩罚者：最后一杀》里，弗兰克在一场大开杀戒的动作戏中从屋顶后仰开枪，再砸向空调机组的镜头，引发观众群嘲，因为落地爆炸、肢体摆动和面部表情都像未完成的游戏过场。许多人据此认定整段都是粗糙CG，但《好莱坞报道》援引消息称，这其实主要靠实拍完成：乔·博恩瑟负责坠落开端，真正撞击由特技演员完成，后期只做了把演员脸替换到替身上的特效。",
+              "source_url": "https://www.ign.com/articles/the-punisher-one-last-kill-cgi-shot-was-mocked-for-looking-like-a-gta-cutscene-but-it-turns-out-it-was-done-for-real",
+              "source_name": "IGN",
+              "published_at": "2026-05-14T02:00:45+08:00"
+            },
             {
               "title": "《战锤40,000：机械神教II》公布发售日，将与“战锤骷髅”发布会同期亮相",
               "brief": "《战锤40,000：机械神教II》终于确定发售日期，并将与“战锤骷髅”发布会同期亮相。该回合制策略游戏将登陆PC、PS5和Xbox Series X|S，最新视频展示了可部署领袖维德克斯与“护盾”，阿德机械神教和太空死灵两大阵营都可在多段战役中完整游玩。官方还确认发布会定于5月21日，届时《星际战士2》《暗潮》等作品也会带来更新。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/capcom-lists-dead-rising-as-one-of-its-leading-brands-that-its-nurturing-but-does-that-mean-dead-rising-5",
               "source_name": "IGN",
               "published_at": "2026-05-14T00:27:30+08:00"
-            },
-            {
-              "title": "PlayStation Plus 5月游戏目录加入《星球大战：亡命之徒》和《荒野大镖客：救赎2》",
-              "brief": "索尼公布5月PlayStation Plus游戏目录，《星球大战：亡命之徒》与《荒野大镖客：救赎2》领衔入库，后者同时包含《荒野大镖客Online》访问权限。Extra和Premium会员本月还将获得《荆棘：山中之王》《Thaumaturge》《弗林特洛克：黎明之围》《断剑：圣殿骑士之影 重铸版》以及《Enotria：终曲》，Premium档位另外加入PS1版《Time Crisis》。",
-              "source_url": "https://www.ign.com/articles/playstation-plus-game-catalog-for-may-includes-star-wars-outlaws-and-red-dead-redemption-2",
-              "source_name": "IGN",
-              "published_at": "2026-05-13T23:53:19+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "扎克伯格宣布推出端到端加密的 Meta AI 隐身聊天",
-              "brief": "Meta宣布推出带端到端加密的Meta AI“隐身聊天”，对话结束后消息会消失。此举回应AI聊天记录引发的隐私与诉讼争议，区别于仅不显示历史但平台仍可读取内容的临时模式。Meta称连公司自身也无法查看对话，功能基于WhatsApp的Private Processing，未来数月将登陆WhatsApp和独立Meta AI应用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562378.htm",
+              "title": "NAND 合约价较 2025 年 9 月暴涨逾 6 倍，DRAM 涨近 4 倍",
+              "brief": "NAND与DRAM合约价持续大涨，其中NAND较2025年9月已涨逾6倍，DRAM接近4倍。背后是AI训练集群扩张，云服务商与创业公司集中囤货，再叠加前期减产和HBM、GDDR等高端存储紧缺，通用存储供给进一步收紧。价格上行正推高手机、PC和游戏机成本，部分厂商被迫提价、压缩利润，或缩减内存与存储配置。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562388.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-14T01:00:42+08:00"
+              "published_at": "2026-05-14T03:38:25+08:00"
             },
             {
-              "title": "中国民航局低空安全司正式亮相",
-              "brief": "中国民航局新设的低空安全司正式亮相，国内低空领域首次有了专属主管部门。此举针对低空经济快速发展后出现的管理分散、规则混乱和安全隐患等问题，意在理顺权责并统一监管。新机构落地后，低空飞行规则、空域使用、飞行调度和安全管控有望形成统一标准，为通航、无人机和低空出行发展提供制度基础。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562376.htm",
+              "title": "消息称苹果或用英特尔 18A-P 生产 M7，14A 瞄准未来 iPhone",
+              "brief": "报道称苹果正考虑把M7芯片交由英特尔18A-P制程代工，并把更远期的iPhone A21芯片与14A节点联系起来。背景是苹果寻求分散高端芯片制造来源，不再完全依赖单一晶圆厂，同时看重英特尔在先进封装上的投入。文中提到18A-P在同功耗下可提升约9%性能，或在同性能下降低约18%功耗，14A则被指面向2028年前后的iPhone。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562386.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T23:37:07+08:00"
+              "published_at": "2026-05-14T03:36:47+08:00"
             },
             {
-              "title": "梅罗普斯无人机拦截器将在欧洲投产",
-              "brief": "美国佩伦尼尔自主科技将与慕尼黑的二十四工业集团合作，在欧洲生产梅罗普斯无人机拦截器。该系统已在乌克兰战场广泛使用，依靠无线电、雷达和红外信号搜寻目标，并在近距离引爆实施拦截。公司称这款设备已成功击落4000多架俄罗斯无人机，美国陆军今年3月也曾紧急调拨其赴中东部署。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562374.htm",
+              "title": "全球最大“恶意软件银行”有多高？研究者用硬盘算给你看",
+              "brief": "研究者用1TB、厚约1英寸的3.5英寸硬盘作参照，把两大恶意软件样本库的体量换算成可见高度。背景是安全公司、AI研究人员和威胁情报机构长期依赖这类样本库训练模型、研究攻击演化，但TB和PB规模缺乏直观感受。按文中粗算，vx-underground约30TB只相当于30块硬盘，而VirusTotal约31PB堆起来可达2645英尺，接近哈利法塔。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562384.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T23:28:05+08:00"
+              "published_at": "2026-05-14T03:33:12+08:00"
             },
             {
-              "title": "佳能发布 EOS R6 V：首次内置主动散热风扇",
-              "brief": "佳能发布EOS R6 V，这是R系列首款内置主动散热风扇的机型，主打长时间视频录制与直播。新机取消光学取景器，采用翻转触控屏和电子快门，机身强调轻量化与防尘防水。视频方面支持7K录制、4K/120P慢动作、专业辅助工具和多种色彩模式，并配备五轴防抖、主体识别对焦、双卡槽及全尺寸HDMI接口。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562372.htm",
+              "title": "苹果筹划让 AI 代理类应用进入 App Store",
+              "brief": "报道称苹果正筹划调整App Store规则，让具备自主执行任务和生成小应用能力的AI代理类应用入驻。背景是这类vibe编程与代理应用迅速走红，现行关于不得执行可改变功能代码的条款已难覆盖新软件形态。苹果同时推进新版Siri与Apple Intelligence整合，已接触开发者接入订票、日历等能力，并考虑未来让用户在Siri中选择更多聊天机器人。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562382.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T23:15:47+08:00"
+              "published_at": "2026-05-14T03:30:28+08:00"
             },
             {
-              "title": "苹果支持谷歌反对欧盟 AI 监管新规",
-              "brief": "苹果在意见书中支持谷歌，反对欧盟围绕Android与AI的新监管设想。苹果认为，若允许AI公司在用户不知情的情况下通过操作系统发送邮件或下单，将对隐私、安全、设备完整性和性能带来深远风险。意见征询已于2026年5月13日结束，欧盟委员会称将评估各方反馈，并须在7月27日前作出最终决定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562370.htm",
+              "title": "奥尔特曼庭审称：不是我们“窃取慈善机构”，是马斯克离开了 OpenAI",
+              "brief": "在OpenAI与马斯克的庭审中，萨姆·奥尔特曼作证称，真正离开并抛下OpenAI的是马斯克，而非公司窃取慈善机构。背景是马斯克起诉OpenAI违背非营利承诺，并质疑其营利性子公司的形成过程。奥尔特曼表示自己从未就公司架构向马斯克作出承诺，还称马斯克强烈追求控制权，2018年退出后员工一度担忧融资与报复，但部分研究人员士气反而回升。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562380.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T22:52:44+08:00"
+              "published_at": "2026-05-14T03:26:58+08:00"
             }
           ]
         },
@@ -430,6 +430,13 @@
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "思科 2026 财年第三财季净利润 33.73 亿美元，同比增长 35%",
+              "brief": "思科公布2026财年第三财季业绩，营收创季度新高至158.41亿美元，同比增长12%，净利润33.73亿美元，同比增长35%。在产品需求普遍向好的背景下，产品收入增长17%，服务收入下降1%，总产品订单增长35%，其中网络产品订单增速超过50%；截至季末，公司累计获得53亿美元AI相关订单，并把全年AI订单和AI营收指引分别上调至90亿和40亿美元。",
+              "source_url": "https://www.ithome.com/0/950/073.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T04:10:17+08:00"
+            },
             {
               "title": "美联储：AI 使用者更倾向于认为其有助职业发展，而非替代自己",
               "brief": "美联储发布家庭经济与福祉报告称，过去一个月约四分之一劳动者使用过生成式 AI，且使用者更倾向于认为这项技术会帮助职业发展，而不是替代自己。作为背景，美国成年人中有 73% 认为自身经济状况尚可或较舒适，能拿出 400 美元应急支出者占 63%。在使用过 AI 的人群里，81% 表示它能节省时间，未使用者对其益处认同更低。",
@@ -457,13 +464,6 @@
               "source_url": "https://www.ithome.com/0/950/069.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-13T23:06:18+08:00"
-            },
-            {
-              "title": "数据显示 Anthropic 商业客户数首次反超 OpenAI",
-              "brief": "数据显示，Anthropic 在商业客户中的占比首次超过 OpenAI。基于超过 5 万家企业样本的 Ramp AI 指数，Anthropic 份额为 34.4%，OpenAI 为 32.3%。报告指出，Anthropic 目前在金融、科技和专业服务等高技术行业领先，而 OpenAI 在更广泛企业群体中仍有基础。过去一年 Anthropic 增长尤为明显，其付费企业占比已从 2025 年 5 月的 9% 升至如今水平。",
-              "source_url": "https://www.ithome.com/0/950/068.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-13T23:05:27+08:00"
             }
           ]
         }
