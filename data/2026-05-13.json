@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T12:54:53.324645+08:00",
+  "generated_at": "2026-05-13T14:55:52.269094+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,6 +89,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星确认One UI 9测试版第二波即将推送",
+              "brief": "三星宣布One UI 9测试版第二波将于5月26日开始推送，此前基于Android 17的测试版已在美国、英国、印度、德国和波兰启动，但并非所有国家都已开放。三星在新闻稿的脚注中透露，第二波将覆盖印度和波兰等国家，但未公布完整名单。用户可通过三星会员应用的测试版部分注册参与。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-beta-second-wave-3666427/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T14:17:09+08:00"
+            },
+            {
+              "title": "Google的Magic Pointer也将登陆Chrome中的Gemini",
+              "brief": "Google DeepMind宣布，Magic Pointer功能正在向Chrome中的Gemini推送。该功能让Gemini理解光标所指内容，用户可更自然地与网页交互，例如选择产品进行比较或指向客厅位置可视化新沙发。DeepMind表示，Magic Pointer旨在创造直观的AI体验，无需复制文本或编写复杂提示，用户只需指向屏幕并提问即可。",
+              "source_url": "https://www.androidauthority.com/magic-pointer-gemini-in-google-chrome-3666405/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-13T12:52:18+08:00"
+            },
+            {
               "title": "谷歌或将为 Pixel 手机带来更完整的 Material You 配色控制",
               "brief": "Android 17 早期版本的一则泄露显示，谷歌正为 Pixel 手机上的“壁纸与样式”加入更深入的 Material You 配色自定义。现有颜色设置主要按壁纸自动生成预设色板，“其他颜色”也只是固定选项；新版本则可能支持直接选择强调色，并新增 Neutral、Soft、Bright、Bold 等色彩强度预设，这些配色会应用到图标、按钮、菜单、文本高亮和快捷设置磁贴等系统元素。",
               "source_url": "https://www.androidauthority.com/google-pixel-wallpaper-and-style-color-customization-leak-3666400/",
@@ -108,20 +122,6 @@
               "source_url": "https://www.androidauthority.com/garmin-launches-forerunner-70-and-170-3666381/",
               "source_name": "Android Authority",
               "published_at": "2026-05-13T08:15:42+08:00"
-            },
-            {
-              "title": "美国手机市场下滑，安卓厂商比苹果承压更重",
-              "brief": "Counterpoint Research称，2026年第一季度美国智能手机市场同比下滑5.7%，但苹果iPhone出货仍增长1.3%，而安卓阵营销量大跌14.4%。背景是这一季度通常由旧款iPhone与三星新旗舰竞争，但三星将Galaxy S26推迟到3月中旬发布，导致1至2月高端机市场出现空档。研究还称苹果在Verizon的销量份额升至77%。",
-              "source_url": "https://www.androidauthority.com/us-smartphone-market-trend-q1-2026-3666377/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T07:50:00+08:00"
-            },
-            {
-              "title": "高通下一代骁龙芯片或将进一步推高手机价格",
-              "brief": "爆料称，高通下一代旗舰芯片 Snapdragon 8 Elite Gen 6 Pro 单颗价格可能超过300美元，或成为其迄今最贵的手机处理器。过去几代旗舰芯片成本已持续上升，从骁龙8 Gen 1 的约120至130美元升至当前产品的220美元以上，因此厂商正准备把下一代旗舰分成标准版和面向 Ultra 机型的 Pro 版，后者还传将采用台积电2nm工艺、Adreno 850、更大缓存和 LPDDR6 支持。",
-              "source_url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-price-leak-3666357/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-13T06:04:48+08:00"
             }
           ]
         },
@@ -334,6 +334,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "谷歌发布以AI为核心的新笔记本Googlebook",
+              "brief": "谷歌宣布推出新笔记本Googlebook，这款设备运行桌面模式Android，定位是以AI为核心的电脑产品。它与Chromebook类似，将由宏碁、华硕、戴尔、惠普和联想负责制造销售，并深度集成Gemini Intelligence。用户只需移动光标就能启用Magic Pointer，系统会结合屏幕内容给出建议、从多个应用提取数据，还能与Android手机联动串流应用和传输文件。",
+              "source_url": "https://www.solidot.org/story?sid=84282",
+              "source_name": "Solidot",
+              "published_at": "2026-05-13T14:13:37+08:00"
+            },
+            {
               "title": "社交媒体上的毒性内容由少数用户放大",
               "brief": "斯坦福大学研究人员分析了22亿条社交媒体帖子，发现平台上的有毒与争议内容主要来自极少数高活跃用户，并被推荐算法进一步放大。这为外界为何常误以为极端言论代表主流提供了背景。研究称，在Twitter/X上，有毒推文的转发量比非有毒内容高约86%，曝光度高约27%，0.3%的用户分享了80%的争议新闻，TikTok上25%的用户发布了98%的公开视频。",
               "source_url": "https://www.solidot.org/story?sid=84281",
@@ -379,39 +386,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "索尼发布 Xperia 1 VIII：长焦升级至 4800 万像素，搭载骁龙 8 Elite Gen 5",
-              "brief": "索尼发布旗舰手机 Xperia 1 VIII，改用 4800 万像素固定 70mm 长焦并搭载 Snapdragon 8 Elite Gen 5。相较此前多代采用的连续光学变焦方案，新机转向高像素裁切，以改善暗光表现并提升性能能效。其余配置包括 4800 万像素主摄和超广角、最高 16GB+1TB 存储，保留 microSD 卡槽与 3.5mm 耳机孔，基础版已开启预购。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562280.htm",
+              "title": "微软推出云端驱动恢复功能，可远程回滚问题 Windows 驱动",
+              "brief": "微软公布“云端驱动恢复”功能，可在通过 Windows 更新分发的驱动被认定存在质量问题后，直接远程触发回滚。以往通常要等厂商重新提交修复版，用户可能长期受蓝屏或兼容性问题影响。新机制仍走现有更新通道，无需额外代理，会自动卸载被拒绝版本并恢复旧版或批准的替代驱动，计划先测试后于2026年9月自动启用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562330.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T12:50:19+08:00"
+              "published_at": "2026-05-13T14:12:58+08:00"
             },
             {
-              "title": "Google 为 Android 新增入侵日志记录功能，可用于排查间谍软件攻击",
-              "brief": "Google 开始为 Android 推出“入侵日志记录”功能，用于追踪和还原疑似间谍软件攻击。以往取证分析多依赖保存时间短且易被覆盖的常规日志，难以处理长期潜伏的攻击；新功能会每日生成更细致的系统记录，并加密上传到用户的 Google 账户。可追踪事件包括设备解锁、应用安装启动卸载、网站或服务器连接、ADB 接入及删除日志的尝试。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562278.htm",
+              "title": "黄仁勋应邀随特朗普访华，市场关注高端 AI 芯片出口进展",
+              "brief": "消息称黄仁勋在特朗普邀请下加入访华行程，英伟达和白宫均确认其安排有变，并表示此行与美方目标一致。此举引发市场对高端AI芯片对华出口进展的关注，焦点集中在H200。虽然美方此前已批准相关销售，但受附加条件、条款分歧和行政审批影响，芯片至今尚未正式交付中国客户。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562328.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T12:47:09+08:00"
+              "published_at": "2026-05-13T13:58:15+08:00"
             },
             {
-              "title": "Anthropic 洽谈 300 亿美元融资，估值或超 9000 亿美元",
-              "brief": "据报道，Anthropic 正洽谈新一轮 300 亿美元融资，估值可能超过 9000 亿美元。随着其 AI 软件取得突破并带动需求增长，公司正加大募资力度，以支付所需算力基础设施成本；此前还曾传出其最早可能在 10 月进行 IPO。知情人士称，在最近几周收到多项投资者主动接洽后，Anthropic 已与现有投资者讨论参投事宜。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562276.htm",
+              "title": "Xbox CEO：必须赢回那些流失的失望玩家",
+              "brief": "Xbox新任CEO表示，玩家对Xbox感到失望，公司必须把主机和PC端的基础体验修好，重新赢回流失用户。相关表态反映出Xbox正在调整方向，此前其在主机和PC平台表现不佳，粉丝对更像发行商的发展路线并不买账。她称团队会打磨每个细节，更重视主机与硬件，让玩家更快感受到游戏乐趣。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562326.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T12:44:24+08:00"
+              "published_at": "2026-05-13T13:57:22+08:00"
             },
             {
-              "title": "iOS 27或将大幅升级iPhone相机应用",
-              "brief": "报道称，苹果将在iOS 27中大幅改版iPhone相机应用，让用户以小组件方式自定义常用控制项。此举被视为为后续机型可能引入的可变光圈等硬件升级铺路，在保留易用性的同时补足更细的拍摄控制。新界面支持调整照片风格、分辨率、闪光灯、曝光、定时器和景深，并通过透明托盘在基础、手动、设置三类功能间快速切换，默认功能布局也将保留。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562274.htm",
+              "title": "任天堂推出 Switch 2 自选游戏同捆包，三款游戏任选其一",
+              "brief": "任天堂将推出一款可自选游戏的 Switch 2 同捆包，购买主机时可在三款作品中任选一款随附。此举背景是主机价格调整与软件阵容强化并行推进，不同游戏对应的节省幅度也不同，其中《马里奥赛车：世界》标价79.99美元，优惠约30美元。任天堂称希望借此提升 Switch 2 的拥有价值，更多细节仍待公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562324.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T05:50:51+08:00"
+              "published_at": "2026-05-13T13:52:24+08:00"
             },
             {
-              "title": "美国智能手机市场下滑 苹果凭iPhone 17扩大份额",
-              "brief": "Counterpoint称，2026年第一季度美国智能手机市场整体收缩，但苹果凭iPhone 17系列逆势扩大份额。增长部分来自上一季度供货紧张后延迟释放的需求，也受运营商渠道和相对稳定定价带动。报告称，基础款iPhone 17表现好于预期，苹果销量同比增1.3%，在美国销量占比由72%升至75%，其中在Verizon渠道的份额达到77%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562272.htm",
+              "title": "Steam Frame 现身高通官网，发布或将临近",
+              "brief": "Steam Frame首次出现在高通官网，被视为这款设备接近发布的一个新信号。现有信息显示，它将搭载骁龙8 Gen 3，配备更大内存、支持可变刷新率，分辨率也略高于Quest 3，并具备注视点渲染。与此同时，Quest 3在手部追踪和全身追踪上仍有优势。官方尚未公布Steam Frame的发售时间和价格。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562322.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-13T05:45:51+08:00"
+              "published_at": "2026-05-13T13:52:18+08:00"
             }
           ]
         },
@@ -419,39 +426,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "威斯迪发布自研 EFR 相机卡口：兼容佳能 RF，首发三款 AF 镜头",
-              "brief": "国产品牌威斯迪宣布推出自研EFR相机卡口，并称可兼容佳能RF卡口机身且支持自动对焦。该卡口被描述为自主研发并持有专利，品牌同时首发三款AF镜头，已披露的两款分别为全画幅55mm F1.8和APS-C画幅56mm F1.7，首发价为1399元和799元，并提供7天无理由退货。",
-              "source_url": "https://www.ithome.com/0/949/728.htm",
+              "title": "JCB 发布 1579 马力氢动力 Hydromax，8 月挑战柴油陆地极速纪录",
+              "brief": "JCB 发布氢动力赛车 Hydromax，计划于 2026 年 8 月重返邦纳维尔盐滩，挑战其 2006 年以 Dieselmax 创下且至今未破的柴油陆地极速纪录。该车长 32 英尺，搭载两台自研燃烧式发动机，总功率 1579bhp，项目历时 5 年、投入 1 亿英镑，下月测试后还将参加 8 月 1 日至 7 日的 Bonneville Speedweek。",
+              "source_url": "https://www.ithome.com/0/949/797.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T12:47:10+08:00"
+              "published_at": "2026-05-13T14:44:30+08:00"
             },
             {
-              "title": "法国敦促欧盟整治 Temu、Shein 平台假冒伪劣商品问题",
-              "brief": "法国正敦促欧盟加大对Temu、Shein等平台的整治力度，重点处理假冒伪劣和危险商品泛滥问题。法国监管部门称，自2025年4月以来各在线市场已下架超过10万款产品，在被分析样品中有46%被认定为不合规且危险；欧盟也已通知相关平台其做法违反消费者法律，并持续推进调查与后续执法。",
-              "source_url": "https://www.ithome.com/0/949/726.htm",
+              "title": "“广东优品购暨深圳之约”补贴开启：6000 元以上数码产品可领 500 元",
+              "brief": "“广东优品购暨深圳之约”消费补贴活动已经开启，购买 6000 元以上数码产品可领取 500 元补贴。本轮补贴按扣除平台、厂商及运营商优惠后的最终含税发票价核算，开票时间需在 2026 年 5 月 1 日至 12 月 31 日之间，资金用完将提前结束，目前已覆盖京东、淘宝和天猫，搜索“广东优品购”即可进入专区申领。",
+              "source_url": "https://www.ithome.com/0/949/794.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T12:29:40+08:00"
+              "published_at": "2026-05-13T14:43:49+08:00"
             },
             {
-              "title": "小米汽车称 YU7 夺得 1 至 4 月全国 SUV 销量第一",
-              "brief": "小米汽车宣布，YU7拿下2026年1至4月全国SUV销量第一，4个月终端累计销量为71761辆，数据来自易车销量榜。作为背景，乘联分会5月11日披露小米汽车4月零售销量为36702辆，而小米汽车官方称其2026年4月交付量超过3万辆，并在此前公布了SU7和YU7的累计交付等数据。",
-              "source_url": "https://www.ithome.com/0/949/725.htm",
+              "title": "索尼为 PS 商店 30% 抽成辩护：扶持 PS5 开发者成本高",
+              "brief": "索尼在最新采访中回应 PlayStation 商店 30% 佣金争议，称为吸引和扶持 PS5 平台开发者需要持续投入高成本。其表示目前合作开发商和发行商已达上万家，内部还设有 5 支团队，为伙伴提供开发套件、经验分享、公关宣传、市场推广及资金扶持，这些长期投入也是平台维持抽成的重要原因之一。",
+              "source_url": "https://www.ithome.com/0/949/792.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T12:23:36+08:00"
+              "published_at": "2026-05-13T14:43:16+08:00"
             },
             {
-              "title": "蓝色起源考虑首次外部融资，为火箭业务筹集更多资金",
-              "brief": "蓝色起源正考虑启动首次外部融资，以支撑新格伦火箭发射、基础设施建设和后续项目推进所需的大额资金。公司高管表示，仅靠单一投资者难以覆盖目标投入，贝索斯预计不会出售公司，但未来不排除IPO；目前蓝色起源既在争取大型商业合同，也参与NASA阿尔忒弥斯登月着陆器项目，并计划扩大新格伦年度发射规模。",
-              "source_url": "https://www.ithome.com/0/949/723.htm",
+              "title": "GEEKOM 推出 2026 款 A9 Max 迷你主机，升级锐龙 AI 9 HX 470",
+              "brief": "GEEKOM 推出 2026 款 A9 Max 迷你主机，处理器升级为 AMD 锐龙 AI 9 HX 470。新机延续高规格小型化定位，配备铜鳍片散热、2 条 DDR5 SO-DIMM 插槽和两个 PCIe Gen4 M.2 盘位，并支持 Wi‑Fi 7 与蓝牙 5.4，外部提供双 USB-C 40Gbps、双 HDMI 2.1、双 2.5GbE 及 SD 4.0，32GB+2TB 版本售价 1709 美元。",
+              "source_url": "https://www.ithome.com/0/949/788.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T12:13:42+08:00"
+              "published_at": "2026-05-13T14:36:29+08:00"
             },
             {
-              "title": "广电总局：2025 年网民日均观看互联网视听节目 205 分钟",
-              "brief": "国家广电总局披露，2025年我国网民人均每天观看互联网视听节目含短视频达到205分钟，互联网视频年度付费用户为7.74亿，短视频上传用户达10亿。作为行业背景，全国广播电视和网络视听总收入为15464.29亿元，同比增长5.22%，其中短视频、网络直播等收入4795.44亿元，同时IPTV用户已超过4亿户。",
-              "source_url": "https://www.ithome.com/0/949/722.htm",
+              "title": "vivo S60 系列开启预约，发布时间暂未公布",
+              "brief": "vivo S60 系列现已开启预约，但官方暂未公布发布时间。结合此前爆料，该系列迭代机型预计采用 6.59 英寸 1.5K 屏和后置横向大矩阵设计，并搭载骁龙 8s 平台，配备 7 开头电池与 90W 快充，同时提供 IMX8 中底潜望长焦、金属中框、超声波指纹以及 IP68/IP69 等配置。",
+              "source_url": "https://www.ithome.com/0/949/787.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-13T12:13:12+08:00"
+              "published_at": "2026-05-13T14:35:45+08:00"
             }
           ]
         },
@@ -459,45 +466,66 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "日本大型银行最快本月启用Anthropic的Mythos系统",
-              "brief": "日本三大银行最快将于5月底获得Anthropic开发的人工智能模型Mythos使用权，这将成为日本企业首次获准接入该系统。Mythos面向防御性网络安全任务，但预览测试已发现其影响主流操作系统和浏览器的多项重大漏洞，日本本周还将成立公私工作组评估相关金融安全风险。",
-              "source_url": "https://36kr.com/newsflashes/3807240731909639?f=rss",
+              "title": "2025年全国广播电视和网络视听行业总收入同比增长5.22%",
+              "brief": "国家广播电视总局发布2025年全国广播电视行业统计公报，显示2025年全国广播电视和网络视听行业总收入达15464.29亿元，同比增长5.22%。其中，广播电视和网络视听业务实际创收收入13308.13亿元，同比增长5%；财政补助收入1042.45亿元，同比增长4.59%；其他收入1113.71亿元，同比增长8.61%。广播电视机构总收入7171.12亿元，同比增长5.48%，网络视听服务机构总收入8293.17亿元，同比增长5.00%。",
+              "source_url": "https://36kr.com/newsflashes/3807356997410569?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 12:45:32  +0800"
+              "published_at": "2026-05-13 14:52:47  +0800"
             },
             {
-              "title": "欧盟拟立法推迟儿童使用社交媒体",
-              "brief": "欧盟最早可能在今年夏季前提出立法方案，考虑对儿童实施“延迟使用社交媒体”政策，以进一步加强未成年人网络保护。近年来，多个成员国持续推动相关规则统一，法国、西班牙、丹麦、塞浦路斯和希腊等国一直呼吁欧盟设立统一的社交媒体最低使用年龄标准，作为区域层面的统一规范要求。",
-              "source_url": "https://36kr.com/newsflashes/3807232473112070?f=rss",
+              "title": "软银集团第四季度净利润1.83万亿日元",
+              "brief": "软银集团发布第四季度财报，净利润为1.83万亿日元，销售净额为2.08万亿日元，愿景基金利润为2.88万亿日元。该业绩反映了软银在科技投资领域的持续收益，特别是在愿景基金的投资组合表现强劲。",
+              "source_url": "https://36kr.com/newsflashes/3807351957069314?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 12:37:08  +0800"
+              "published_at": "2026-05-13 14:48:34  +0800"
             },
             {
-              "title": "中汽股份在海南成立试验场公司，注册资本3000万元",
-              "brief": "中汽股份近日在海南成立中汽试验场（海南）有限公司，注册资本3000万元，继续布局检验检测与试验服务。天眼查显示，新公司法定代表人为康诚，经营范围包括检验检测服务、机动车检验检测、工程技术研究、房屋与仓储设备租赁，以及文体活动和体育赛事策划等，由中汽股份全资持股。",
-              "source_url": "https://36kr.com/newsflashes/3807215342362120?f=rss",
+              "title": "芯片厂商联发科发布AI智能体化引擎2.0",
+              "brief": "联发科发布天玑AI智能体化引擎2.0，利用天玑SensingClaw技术提供低功耗全时感知能力，帮助设备厂商打造具备主动感知和跨应用驱动能力的Agent OS。联发科还与OPPO、小米和传音合作推出系统原生Claw，具备主动感知、执行和跨端无缝流转能力，并兼顾隐私保护。同时推出天玑AI开发套件3.0，升级端侧智能体全模态能力，加速应用部署。",
+              "source_url": "https://36kr.com/newsflashes/3807358730657287?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 12:27:38  +0800"
+              "published_at": "2026-05-13 14:45:35  +0800"
             },
             {
-              "title": "名创优品：预计一季度经营利润同比增113%至116%",
-              "brief": "名创优品预计第一季度收入约56.78亿元至57.28亿元，同比增长约28%至29%，延续增长态势。公司同时预计经营利润约15.11亿元至15.31亿元，同比增长约113%至116%，期内利润约12.28亿元至12.48亿元，同比增长约195%至200%，数据基于对未经审计综合管理账目的初步审阅与评估。",
-              "source_url": "https://36kr.com/newsflashes/3807210328612357?f=rss",
+              "title": "印尼拟推出电动车补贴应对高油价",
+              "brief": "印度尼西亚财政部长普尔巴亚表示，鉴于中东紧张局势推高国际油价，加重能源进口负担，印尼计划自2026年6月起推出新一轮电动车补贴政策。政府希望通过激励措施推动民众使用电动汽车和电动摩托车，减少对化石燃料的依赖，以应对高油价带来的经济风险。",
+              "source_url": "https://36kr.com/newsflashes/3807350035373568?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 12:14:37  +0800"
+              "published_at": "2026-05-13 14:42:40  +0800"
             },
             {
-              "title": "半日主力资金加仓电子股，抛售非银金融股",
-              "brief": "A股早盘主力资金继续流向电子、电力设备、机械设备、公用事业等板块，同时从非银金融、食品饮料、医药生物等板块流出，显示资金偏好出现分化。个股方面，工业富联、天孚通信、生益科技分别获净流入51.92亿元、21.47亿元、19.35亿元，光迅科技、中际旭创、华工科技则分别遭净流出12.73亿元、12.38亿元、11.02亿元。",
-              "source_url": "https://36kr.com/newsflashes/3807203387956736?f=rss",
+              "title": "创业板指突破4037.96点，创历史新高",
+              "brief": "创业板指突破4037.96点，创历史新高。这一里程碑反映了市场对成长型企业的信心增强，尤其是科技和新能源板块的强劲表现推动了指数上涨。自低点以来，创业板指涨幅已超120%，显示出资本市场的活跃和投资者情绪的高涨。",
+              "source_url": "https://36kr.com/newsflashes/3807348528864771?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-13 12:07:33  +0800"
+              "published_at": "2026-05-13 14:35:12  +0800"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "微软测试 Windows 11 云端驱动恢复，异常时自动回滚旧版",
+              "brief": "微软开始测试 Windows 11 的云端驱动恢复功能，在发现新驱动存在质量问题时，可通过云端将设备自动回滚到此前可用的旧版本，用户无需手动卸载或重装驱动。此举主要针对 OEM 驱动质量不一、异常修复和重新分发周期较长的问题。恢复流程由微软依据遥测、反馈或厂商通报触发，经 Windows 更新下发，计划 5 至 8 月测试，9 月起逐步开放。",
+              "source_url": "https://www.landiannews.com/archives/112918.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-13T14:30:36+08:00"
+            },
+            {
+              "title": "开源 Wii U 模拟器 CEMU 遭劫持，Linux 安装包被投毒",
+              "brief": "CEMU 团队披露其 GitHub 发布页遭黑客篡改，Linux 版安装包被植入后门，Windows、macOS 版及 Flatpak 版本未受影响。攻击源于团队成员运行被篡改的 Python 安装包，GitHub API 令牌被窃后黑客替换了发布文件。受影响范围为 5 月 6 日至 12 日期间的两个 Linux 安装包，后门会避开俄语环境，对以色列用户则会播放警报并尝试执行 rm -rf /。",
+              "source_url": "https://www.landiannews.com/archives/112917.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-13T14:15:14+08:00"
+            },
+            {
+              "title": "TanStack 攻击被发现预留“死人开关”，凭据失效即删文件",
+              "brief": "对 TanStack 供应链攻击的进一步分析显示，恶意代码除窃取 GitHub、AWS 等敏感凭据外，还预留了凭据撤销后的“死人开关”。相关脚本会以 systemd 用户服务或 LaunchAgent 形式运行，每 60 秒轮询一次被盗 GitHub 令牌的有效性。一旦检测到令牌返回 4xx 错误并失效，就会执行 rm -rf ~/ 删除当前环境中的文件，因此在吊销令牌前需要先完成备份与排查。",
+              "source_url": "https://www.landiannews.com/archives/112916.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-13T13:58:28+08:00"
+            },
             {
               "title": "dnsmasq 披露 6 个高危安全漏洞",
               "brief": "dnsmasq 披露 6 个高危安全漏洞，并已发布修复版本。该开源 DNS 转发与 DHCP 软件广泛用于路由器、嵌入式设备、Linux 发行版和容器网络环境，因此影响范围较广。已公布的问题涉及堆缓冲区越界写入、无限循环与越界读取、DHCPv6 缓冲区溢出、EDNS Client Subnet 校验绕过等，修复版本为 2.92rel2。",
@@ -511,27 +539,6 @@
               "source_url": "https://www.landiannews.com/archives/112914.html",
               "source_name": "蓝点网",
               "published_at": "2026-05-13T10:36:55+08:00"
-            },
-            {
-              "title": "谷歌为安卓新增入侵日志记录，用于排查间谍软件攻击",
-              "brief": "谷歌开始为安卓推送“入侵日志记录”功能，供安全研究人员调查设备是否遭到间谍软件感染，重点应对近年来愈发频繁的国家级攻击。以往系统日志保存时间短且易被覆盖，不适合事后取证，因此谷歌把这项能力放入高级保护模式。启用后，系统会每天记录解锁、应用安装卸载、访问网站或服务器、ADB 连接及日志删除尝试等事件，并加密上传到用户谷歌账户。",
-              "source_url": "https://www.landiannews.com/archives/112913.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-13T10:16:28+08:00"
-            },
-            {
-              "title": "谷歌发布 Android 17 预览版，主打 Gemini Intelligence",
-              "brief": "谷歌发布 Android 17 预览版，把系统内人工智能能力统一命名为 Gemini Intelligence，目标是将安卓从传统操作系统转向更主动的智能系统。新版本把 AI 深度嵌入系统与谷歌应用，支持屏幕上下文理解、网页搜索比较、从 Gmail 和 Photos 提取信息自动填充，以及语音整理和自然语言生成小部件等功能。部分能力今夏起先向 Pixel 和三星 Galaxy 设备分批推出。",
-              "source_url": "https://www.landiannews.com/archives/112912.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-13T09:56:20+08:00"
-            },
-            {
-              "title": "谷歌今秋将推 Google Books 笔记本，运行安卓桌面系统并集成 Gemini",
-              "brief": "谷歌表示将于今秋推出 Google Books 笔记本系列，作为被放弃的 Chromebook 之后的新产品线，搭载基于安卓桌面版与 ChromeOS 融合而成的系统，并深度集成 Gemini。新设备可运行安卓应用、游戏和浏览器，也支持与安卓设备互通，在电脑上访问文件和已安装应用。谷歌还提到“魔法指针”和 AI 小部件功能，首批机型将与宏碁、华硕、戴尔、惠普和联想合作开发。",
-              "source_url": "https://www.landiannews.com/archives/112895.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-13T09:36:43+08:00"
             }
           ]
         }
