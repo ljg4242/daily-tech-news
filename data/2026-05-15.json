@@ -1,0 +1,433 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T01:09:14.247979+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "六款热门 iPhone 应用现已支持 CarPlay",
+              "brief": "苹果车载系统 CarPlay 近几周新增六款常用 iPhone 应用，包括 ChatGPT、Perplexity、Grok、Google Meet、WhatsApp 和 Audiomack。这一变化得益于 iOS 26.4 对语音对话类应用的支持扩展，也让会议、聊天机器人和音乐服务进入车机界面。出于安全考虑，ChatGPT 不显示对话文本或图片，Meet 不显示视频，WhatsApp 可查看近期聊天和通话，Audiomack 提供发现、榜单、歌单和资料库标签。",
+              "source_url": "https://www.macrumors.com/2026/05/14/four-popular-iphone-apps-now-on-carplay/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T00:10:00+08:00"
+            },
+            {
+              "title": "苹果获报 macOS 安全漏洞：由 AI 工具协助发现",
+              "brief": "苹果已收到一份有关 macOS 新安全漏洞的报告，这一漏洞由安全公司 Calif 的研究人员借助 Anthropic 的 Claude Mythos Preview 协助发现。研究人员让模型编写代码，把两个 macOS 缺陷串联成权限提升利用，显示 AI 可辅助漏洞挖掘，但仍离不开人工专业判断。苹果表示正审查报告以核实结果；目前尚不清楚漏洞是否已修补，而本周发布的 macOS 26.5 安全说明曾署名致谢 Calif 与 Anthropic。",
+              "source_url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T00:04:59+08:00"
+            },
+            {
+              "title": "Spotify 将采用苹果的视频播客技术",
+              "brief": "Spotify 宣布将采用苹果的 HTTP Live Streaming 技术来支持视频播客，让创作者无需改动现有设置，就能把视频节目分发到 Spotify 和 Apple Podcasts。苹果在 3 月底为 iPhone、iPad、Apple Vision Pro 和网页端推出增强版 HLS 视频播客体验；Spotify 说今年稍后会在 Spotify for Creators 和 Megaphone 中加入支持，且变现能力会随分发一并保留。",
+              "source_url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T00:02:53+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "报道称 Anthropic 的 Mythos 暴露出新的 macOS 漏洞",
+              "brief": "安全研究人员称，他们在今年4月测试 Anthropic 早期版 Mythos AI 软件时，发现了一种可绕过苹果先进防护的新 macOS 漏洞利用方式。这类问题之所以重要，是因为它属于权限提升，一旦与其他攻击链结合，黑客可能接管整台 Mac。研究公司 Calif 已向苹果当面提交55页报告，苹果正审查结论，Calif 表示会在问题修复后公布细节。",
+              "source_url": "https://9to5mac.com/2026/05/14/new-macos-vulnerabilities-were-exposed-by-anthropics-mythos-report/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-14T23:57:43+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro：三项新功能或促使用户升级",
+              "brief": "关于 iPhone 18 Pro 的新传闻称，它可能带来三方面升级，分别是相机、电池和外观，这也解释了为何它会被视为值得换机的一代。背景是 Mark Gurman 近日称，新机将拥有该系列史上最大幅度之一的相机硬件更新。已流出的细节包括主摄可变光圈、长焦更大光圈、重新设计的相机控制按钮，以及更大电池、A20 Pro、C2 基带和新的旗舰配色。",
+              "source_url": "https://9to5mac.com/2026/05/14/iphone-18-pro-three-new-features-could-make-you-want-to-upgrade/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-14T23:31:28+08:00"
+            },
+            {
+              "title": "优惠汇总：M5 MacBook Pro 1499 美元起，iPhone 16e 低至 449 美元",
+              "brief": "9to5Mac 汇总了多项苹果与配件促销，其中最便宜的 M5 MacBook Pro 再次降至1499美元，16英寸基础版 M5 Pro 机型也有约250美元优惠，iPhone 16e 最低到449美元。之所以值得关注，是因为部分价格接近或追平亚马逊历史低位。文中还提到 48GB M5 Pro MacBook Pro、13 英寸 M4/M5 iPad Pro 妙控键盘以及 ecobee 纪念日促销，覆盖多类产品与配置。",
+              "source_url": "https://9to5mac.com/2026/05/14/deals-m5-macbook-pro-16-inch-m5-pro-iphone-16e/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-14T23:29:43+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "YouTube 即将支持在电视上观看视频时购买商品",
+              "brief": "YouTube 宣布将推出电视端购物功能，用户今后在电视上观看视频时也能直接下单购买商品。该更新属于 Brandcast 2026 面向品牌与广告主公布的一批新工具，重点是把发现到结账的路径继续缩短。官方给出的关键细节是，Buy with Google Pay 可让观众在联网电视上只用两次点击完成购买。",
+              "source_url": "https://9to5google.com/2026/05/14/youtube-buy-products-tv-brandcast-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-15T00:55:00+08:00"
+            },
+            {
+              "title": "Google Fitbit Air 佩戴很舒适，但 AI 教练已出现幻觉",
+              "brief": "首发体验显示，Google 新推出的 99 美元 Fitbit Air 最大优点是轻薄、无屏且佩戴舒适，低干扰设计更适合全天候记录睡眠、心率和活动，而不是频繁抬腕查看信息。它与 Google Health 应用和 Google Health Coach 一起构成新健康方案，购买设备还附带 3 个月 Premium；但作者认为，AI 教练上线初期就已出现幻觉式回答，软件体验明显落后于硬件。",
+              "source_url": "https://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-15T00:30:00+08:00"
+            },
+            {
+              "title": "优惠：Galaxy S26+ 跌至亚马逊历史新低，S26 Ultra 最高减 435 美元，4K Ring Doorbell Pro 降价",
+              "brief": "9to5Google 汇总当日促销，Galaxy S26+ 在亚马逊刷新历史低价，S26 Ultra、Galaxy Tab S11 和 Ring 有线门铃也同步降价。背景是 9to5Toys 午间优惠更新，重点包括 S26+ 新机最高减 235 美元、百思买开箱版最高减 465 美元，S26 Ultra 最高减 435 美元，4K Ring Doorbell Pro 降至 199.99 美元，2K 款降到 49.99 美元。",
+              "source_url": "https://9to5google.com/2026/05/14/deals-galaxy-s26-s26-ultra-ring-doorbell-pro/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-14T23:36:48+08:00"
+            },
+            {
+              "title": "索尼糟糕的 Xperia“AI Camera Assistant”，把手机相机的坏趋势推到极致",
+              "brief": "索尼为 Xperia 1 VIII 引入“AI Camera Assistant”，并用官方样张展示更亮、反差更低的处理效果，但这套方案迅速在社交平台招致批评。文章将其放到近年手机影像过度提亮、过度锐化的背景下讨论，认为这些示例进一步压掉细节、改动色彩，也让这种把画面拉平的相机趋势被推到更极端的位置。",
+              "source_url": "https://9to5google.com/2026/05/14/sony-ai-camera-assistant-problem/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-14T23:35:00+08:00"
+            },
+            {
+              "title": "Snapseed 4.0 更新为 Android 加入相机快捷入口",
+              "brief": "Snapseed 4.0.1 正在向 Android 推送，新增一个可通过长按应用图标触发的 Camera 快捷入口，并支持用音量键拍摄。更新延续上周大改版后的相机功能补强，同时修复多项工具崩溃和相机卡死问题；Google 还解释，部分厂商限制第三方访问超广角和长焦镜头，因此这些镜头暂时无法在 Snapseed Camera 中使用。",
+              "source_url": "https://9to5google.com/2026/05/14/snapseed-camera-shortcut-android/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-14T23:15:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "离网时，你的运营商或将借助竞争对手帮你连网",
+              "brief": "AT&T、T-Mobile 和 Verizon 达成原则性协议，计划成立一家专注手机直连卫星的新合资公司，想在传统基站覆盖不到的美国农村和服务不足地区提供连接，并在紧急情况或自然灾害中作为备用网络。按 Verizon 的说法，新公司将整合有限频谱资源并建立统一平台，帮助卫星服务覆盖更多用户，目标是几乎消除美国通信死角，但目前仍未公布正式上线时间。",
+              "source_url": "https://www.androidauthority.com/att-t-mobile-verizon-dead-zones-joint-venture-3667115/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T00:48:01+08:00"
+            },
+            {
+              "title": "谷歌“Gemini Spark”或将代订机票并处理收件箱",
+              "brief": "一张泄露的引导页面显示，谷歌可能在 I/O 2026 推出名为 Gemini Spark 的测试版 AI 代理，它会常驻后台主动处理任务，而不是等用户逐条输入提示。页面称它可调用已关联应用、聊天记录、计划任务、已登录网站、位置数据和 Personal Intelligence，用于清理收件箱、完成在线流程及跨服务多步骤操作，同时也提示可能与第三方共享敏感信息。",
+              "source_url": "https://www.androidauthority.com/gemini-spark-onboarding-screen-leaked-3667118/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T00:26:09+08:00"
+            },
+            {
+              "title": "索尼 Xperia 1 VIII 新相机助手宣传引发质疑",
+              "brief": "索尼为 Xperia 1 VIII 加入了 AI Camera Assistant，会给出更具表现力的拍摄建议，并在产品页展示了使用前后的对比图，试图突出新机相机能力和更大的长焦传感器。问题在于，官方示例里 AI 调整后的照片普遍比原图更灰、更泛白且曝光过度，这些对比很快在社交平台上引来用户嘲讽，也让宣传效果适得其反。",
+              "source_url": "https://www.androidauthority.com/xperia-1-viii-ai-camera-assistant-3667058/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T00:18:38+08:00"
+            },
+            {
+              "title": "Ring Outdoor Cam Plus 跌至年内最低价",
+              "brief": "Android Authority 报道称，Ring Outdoor Cam Plus 在亚马逊降至 99.99 美元，创下今年最低价，面向想升级家庭安防设备的用户。文章介绍，这款室外摄像头支持 2K 广角视频、Ring Vision 成像和低光全彩画面，可壁装、顶装或桌面摆放，并提供实时查看、双向通话和 Alexa 联动。DealHunt 给它 93 分，称现价较近 90 天均价低 28.46 美元。",
+              "source_url": "https://www.androidauthority.com/deal-ring-outdoor-cam-plus-3667102/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-14T23:11:53+08:00"
+            },
+            {
+              "title": "三星 Galaxy Ring 降价 125 美元",
+              "brief": "Android Authority 称，三星 Galaxy Ring 目前售价降至 274.99 美元，比标价低 125 美元，也低于此前 299.99 美元的价格，成为近期一笔新的折扣交易。这款智能戒指主打轻巧佩戴与健康追踪，可监测睡眠、心率并提供个性化健康建议，最长续航可达 7 天且具备防水能力。DealHunt 给出 80 分，称现价比近 90 天均价低 97.32 美元。",
+              "source_url": "https://www.androidauthority.com/deal-samsung-galaxy-ring-3667089/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-14T23:00:01+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "新谷歌账号免费存储或降至5GB，除非绑定手机号",
+              "brief": "谷歌似乎调整了新账号的免费存储规则，部分新用户若不绑定并验证手机号，可能只会获得5GB空间，而不是此前普遍提供的15GB。谷歌在页面中称此举是为确保存储只向每人发放一次，支持页措辞也已从“15GB”改为“最高15GB”，但目前尚不清楚这是长期政策还是A/B测试。",
+              "source_url": "https://www.engadget.com/2173013/new-google-accounts-may-only-get-5gb-free-storage-unless-you-link-a-phone-number/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T00:48:12+08:00"
+            },
+            {
+              "title": "AMD将为旧款GPU带来FSR 4.1超分技术",
+              "brief": "AMD宣布将在今年7月把新一代FSR 4.1超分技术带到较旧的Radeon RX显卡，首批覆盖RDNA 3，也就是RX 7000系列。此前该版本仅限RX 9000系列使用，AMD称团队为旧卡仔细调校、优化并验证模型，改进了内存占用和高速场景伪影表现，上市时将支持300多款游戏。",
+              "source_url": "https://www.engadget.com/2173003/amd-will-bring-its-next-generation-fsr-41-upscaling-tech-to-older-gpus/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T00:44:10+08:00"
+            },
+            {
+              "title": "《地铁2033》和《地铁：最后的曙光》原版登陆GOG",
+              "brief": "GOG将《地铁2033》原版和《地铁：最后的曙光 完整版》原版纳入保存计划并重新上架，玩家现在可以直接购买这两部早期版本。由于开发商4A Games长期收到玩家希望体验原始版本的请求，团队还针对新款PC做了兼容与性能调整，包括支持Windows 10和11、更广分辨率、优化帧率以及更多手柄。",
+              "source_url": "https://www.engadget.com/2172946/original-versions-of-metro-2033-and-metro-last-light-land-on-gog/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-14T23:47:41+08:00"
+            },
+            {
+              "title": "英国反垄断监管机构正式调查微软Office",
+              "brief": "英国竞争与市场管理局本月将正式启动对微软商业软件生态的战略市场地位调查，重点审查Windows、Word、Excel、Teams、Copilot等Office相关产品的捆绑是否妨碍竞争。监管方表示，此举是为了了解市场发展、微软所处位置及是否需要定向干预，调查还将涵盖云授权做法，并计划在明年2月前完成。",
+              "source_url": "https://www.engadget.com/2172943/uk-antitrust-regulator-is-officially-investigating-microsoft-office/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-14T23:45:19+08:00"
+            },
+            {
+              "title": "AT&T、T-Mobile和Verizon联手消除移动信号盲区",
+              "brief": "AT&T、T-Mobile和Verizon宣布成立合资企业，联手减少美国移动通信覆盖盲区，并将重点借助卫星提升农村及服务不足地区的连接能力。三家公司表示会整合有限频谱资源，以提升容量和用户体验，并通过统一平台帮助更多卫星服务商触达客户，同时简化在覆盖薄弱地区接入直连设备技术的流程。",
+              "source_url": "https://www.engadget.com/2172897/att-tmobile-and-verizon-join-forces-to-eliminate-mobile-coverage-dead-zones/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-14T23:08:20+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "《深海迷航2》在 Steam 迎来强势开局",
+              "brief": "Unknown Worlds的新作水下生存游戏《深海迷航2》开启抢先体验后，在Steam上迅速爆发。该作上线不到一天销量已超过100万份，反映出系列号召力与平台热度。官方新闻稿称游戏不到一小时就冲上Steam排行榜，发稿时同时在线玩家超46万，在平台上排名第四，且这一数字还未计入Epic游戏商城和Xbox上的玩家。",
+              "source_url": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
+              "source_name": "The Verge",
+              "published_at": "2026-05-14T12:22:49-04:00"
+            },
+            {
+              "title": "泄露图片曝光微软新款 Xbox 云游戏手柄",
+              "brief": "巴西监管机构公开的照片显示，微软一款未发布的Xbox云游戏手柄已经曝光。这与此前有关其可通过Wi-Fi直连Xbox Cloud Gaming服务器的报道相呼应。Tecnoblog发布的图片显示，这款由微软制造的新手柄体积比现有Xbox手柄更小，外形接近8BitDo和HyperX等第三方产品，并配备2.4GHz和5GHz Wi-Fi、蓝牙5.3、USB-C接口以及顶部配对按键。",
+              "source_url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+              "source_name": "The Verge",
+              "published_at": "2026-05-14T11:49:47-04:00"
+            },
+            {
+              "title": "马斯克与奥特曼围绕 OpenAI 未来的法庭交锋进入结案阶段",
+              "brief": "马斯克与奥特曼围绕OpenAI未来的庭审进入结案陈词阶段，The Verge对此进行直播更新。这场高风险诉讼源于马斯克指控OpenAI背离“造福人类”的创始使命并转向逐利。文中称，纳德拉、苏茨克维、奥特曼等人已先后作证；马斯克要求撤换奥特曼和布罗克曼、阻止OpenAI以公益公司形式运营，并寻求最高1500亿美元赔偿归于其非营利机构。",
+              "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+              "source_name": "The Verge",
+              "published_at": "2026-05-14T11:46:04-04:00"
+            },
+            {
+              "title": "Netflix 正在打造 AI 动画工作室",
+              "brief": "Netflix正在组建名为INKubator的新内部工作室，计划利用生成式AI制作动画内容。相关动向来自近期招聘信息，显示公司正为该团队招募制片人、软件工程师和CG艺术家等岗位。报道指出，这一项目尚未被Netflix正式公开宣布，部分招聘页面也将其简称为INK，而LinkedIn上的资料显示该团队可能已在2026年3月低调启动。",
+              "source_url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
+              "source_name": "The Verge",
+              "published_at": "2026-05-14T11:30:00-04:00"
+            },
+            {
+              "title": "美国民众不愿 AI 数据中心建在家附近",
+              "brief": "盖洛普最新调查显示，美国民众普遍反对在住处附近新建AI数据中心。争议背景在于这类设施的用水和耗电问题引发担忧，支持者比例很低。报道称，71%的美国人反对本地兴建数据中心，只有7%“强烈支持”；盖洛普还表示，数据中心受欢迎程度甚至低于核电站，其数据来自2026年3月和4月对全美成年人的两轮调查。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+              "source_name": "The Verge",
+              "published_at": "2026-05-14T11:24:53-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《Moss：被遗忘的遗物》公布，将登陆 PC 和主机，无需 VR",
+              "brief": "Polyarc 公布《Moss：被遗忘的遗物》，将于今年夏季登陆 PC 和主机，且无需 VR 头显即可游玩。这款作品把《Moss》与《Moss: Book 2》整合并重新构想为单一非 VR 体验，玩家将继续扮演小鼠奎尔，在古老国度中解谜、战斗并完成平台跳跃挑战，官方也同步放出了预告片和首批截图。",
+              "source_url": "https://www.ign.com/articles/moss-the-forgotten-relic-announced-for-pc-and-consoles-no-vr-headset-needed",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T00:00:00+08:00"
+            },
+            {
+              "title": "《最终幻想7：重生》导演称正考虑如何吸引下一代玩家",
+              "brief": "《最终幻想7：重生》导演滨口直树表示，史克威尔艾尼克斯很清楚《最终幻想》系列需要吸引下一代玩家。这个诞生于上世纪80年代末的长寿系列受众偏年长，标题中的大号罗马数字和作品间较长的发售间隔，也可能让年轻玩家觉得门槛较高或缺乏相关性。他说在重制项目接近完成之际，团队既要满足老玩家对世界与角色深度的期待，也要思考如何扩展整个品牌。",
+              "source_url": "https://www.ign.com/articles/final-fantasy-7-rebirth-director-very-aware-square-enix-needs-to-figure-out-how-to-get-the-next-generation-of-fans-into-the-franchise",
+              "source_name": "IGN",
+              "published_at": "2026-05-14T23:51:30+08:00"
+            },
+            {
+              "title": "《堡垒之夜》削弱致命坠落伤害，《守望先锋》联动更新上线",
+              "brief": "《堡垒之夜》更新后调整了核心玩法，普通大逃杀与零建造模式中的坠落伤害不再致命，玩家落地后会以 1 点生命值存活。此次改动主要强化零建造节奏，新增开局随机分配且可无限使用的口袋道具，滑翔伞再部署、镐子提供无限体力、击杀给予超量护盾，同时地图加入《守望先锋》地点与特雷塞武器等联动内容。",
+              "source_url": "https://www.ign.com/articles/fortnite-nerfs-lethal-fall-damage-in-big-gameplay-shakeup-as-overwatch-update-arrives",
+              "source_name": "IGN",
+              "published_at": "2026-05-14T23:20:02+08:00"
+            },
+            {
+              "title": "《蜘蛛侠：崭新之日》幕后片段展示影片实拍特效",
+              "brief": "索尼公开了《蜘蛛侠：崭新之日》的新海报和幕后视频，进一步展示影片的实拍特效制作。该片是《蜘蛛侠：英雄无归》后的全新篇章，故事设定在前作事件四年后，彼得·帕克已成年且独自生活，纽约无人记得他的名字。导演达斯汀·丹尼尔·克雷顿在视频中称，画面所示是影片的开场动作段落之一，相关拍摄此前已在爱丁堡展开。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects",
+              "source_name": "IGN",
+              "published_at": "2026-05-14T22:16:32+08:00"
+            },
+            {
+              "title": "《石头、剪刀、断指》公布，将登陆 PC",
+              "brief": "Buzzin' Games 公布了 PC 新作《石头、剪刀、断指》，计划于今年晚些时候推出。游戏以致命版石头剪刀布为核心设定，玩家每次失误都会失去一根手指，让对局在策略与心理博弈之外加入更高风险。开发者称，主持这场游戏的神秘存在会以赎罪为诱因吸引参与者入局，随着比赛推进，角色过去的片段与真正代价也会逐渐浮现。",
+              "source_url": "https://www.ign.com/articles/rock-paper-severed-announced-for-pc",
+              "source_name": "IGN",
+              "published_at": "2026-05-14T22:00:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "科学家首次从直立人化石中提取分子信息",
+              "brief": "中科院研究人员首次从北京周口店、安徽和县、河南孙家洞三处遗址约40万年前的6颗直立人牙齿中提取出具有系统发育信息的牙釉质蛋白数据，这是首次获得可识别直立人的分子证据。对6个东亚直立人与哈尔滨个体的蛋白质比较显示，这6个样本聚为一支，并与丹尼索瓦人、尼安德特人和现代人清晰分离；研究还将部分渗入现代人的丹尼索瓦相关基因来源追溯到这些中更新世人群。",
+              "source_url": "https://www.solidot.org/story?sid=84302",
+              "source_name": "Solidot",
+              "published_at": "2026-05-15T00:52:48+08:00"
+            },
+            {
+              "title": "为什么有些人更招蚊子？",
+              "brief": "研究人员正尝试解释为何有些人更容易被蚊子叮咬，线索集中在人体释放的气味、热量、湿度和呼出的二氧化碳上。实验中，研究人员让埃及伊蚊在实验室接触42名女性，发现蚊子会根据多种气味化合物的组合选择目标，并从近千种候选物中识别出27种可被探测的化合物。最受蚊子偏好的女性，包括部分孕中期孕妇，会分泌更多由皮脂分解产生的特定化合物，如1-octen-3-ol。",
+              "source_url": "https://www.solidot.org/story?sid=84299",
+              "source_name": "Solidot",
+              "published_at": "2026-05-14T22:37:18+08:00"
+            },
+            {
+              "title": "美国批准向10家中国公司出售H200芯片",
+              "brief": "美国商务部已批准包括阿里巴巴、腾讯、字节跳动和京东在内的10家中国公司采购英伟达H200芯片，但中国方面尚未批准任何相关交易，销售仍处于僵局。英伟达CEO黄仁勋本周随美国总统访问中国，试图推动突破。根据美方许可条款，获批客户可直接向英伟达或通过分销商购买，每家最多可购入75000颗芯片；联想和富士康等分销商也已获得批准。",
+              "source_url": "https://www.solidot.org/story?sid=84298",
+              "source_name": "Solidot",
+              "published_at": "2026-05-14T21:38:52+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "Scrcpy 4.0 发布：远程控制安卓手机，带来更强桌面化体验",
+              "brief": "Scrcpy 4.0 发布，新增 Flex Display，可动态调整 Android 虚拟显示器，让应用随电脑窗口尺寸重新布局，带来更接近平板或桌面的体验。此前拉伸窗口本质只是视频缩放，如今系统会真的重排界面。更新还包含 SDL3 升级、keep-active 防息屏、摄像头控制增强、音频缓冲降至 10ms，以及 Quest 闪烁修复。",
+              "source_url": "https://www.appinn.com/scrcpy-4/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T17:33:19+08:00"
+            },
+            {
+              "title": "npm 首次出现可自我传播的供应链攻击",
+              "brief": "TanStack Router 的官方 npm 包被植入恶意代码，被认为是 npm 首次出现可自我传播的蠕虫式供应链攻击。问题源于攻击者通过恶意 PR 污染 CI 缓存，随后正常发布流程再次读取缓存，令恶意代码经官方账号、合法签名和 provenance 验证进入正式版本；代码会窃取密钥，并尝试感染开发者可访问的其他 GitHub 仓库。",
+              "source_url": "https://www.appinn.com/tanstack-npm-compromise/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-13T17:11:03+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "曝骁龙 8 Elite Gen 6 Pro 采购价或超 300 美元",
+              "brief": "爆料称，高通即将推出的旗舰芯片骁龙8 Elite Gen 6 Pro，OEM采购价可能超过300美元。报道指出，AI带动先进制程产能紧张，叠加内存和存储芯片涨价，安卓高端机整体成本继续上升。文中还对比称，高通近几代旗舰芯片价格已从约120至130美元一路涨到如今超过300美元。",
+              "source_url": "https://www.landian.vip/archives/112930.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-14T16:37:52+08:00"
+            },
+            {
+              "title": "安卓桌面版预计支持 x86，谷歌确认兼容英特尔处理器",
+              "brief": "谷歌确认，面向桌面形态开发的Googlebook将采用高通、联发科和英特尔处理器，这意味着相关安卓底层系统预计会支持x86架构。报道指出，安卓长期未官方支持x86，而代号AluminumOS的新系统基于安卓与ChromeOS，可直接运行安卓应用，并深度整合Gemini AI服务。",
+              "source_url": "https://www.landian.vip/archives/112929.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-14T16:18:24+08:00"
+            },
+            {
+              "title": "OpenAI 推出企业迁移活动：转用 Codex 可免费两个月",
+              "brief": "OpenAI面向符合条件的企业和团队推出迁移活动，从Claude Code等工具转向Codex，最高可获2个月免费使用。报道称，OpenAI同时提供迁移工具，可导入设置、插件、技能、基础设施、项目和对话历史，以便衔接既有工作流，但申请并非自动通过，仍需提交表单并接受资质审核。",
+              "source_url": "https://www.landian.vip/archives/112927.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-14T15:48:27+08:00"
+            },
+            {
+              "title": "Windows 11 5 月更新后被指拖慢网络，卸载仍未恢复",
+              "brief": "有IT管理员报告称，Windows 11 25H2安装5月累积更新KB5089549后，企业内多台设备出现网络速度下降，网页浏览和应用访问都受到影响。报道指出，该问题在安装更新后立即出现，企业内多名用户受影响，且卸载更新后间歇性网速变慢仍未恢复，微软目前尚未对此发布官方回应。",
+              "source_url": "https://www.landian.vip/archives/112926.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-14T15:32:03+08:00"
+            },
+            {
+              "title": "Windows 11 会自动降级 GPU 驱动，微软确认是 Bug",
+              "brief": "微软确认，Windows 11自动把用户手动安装的新GPU驱动替换成旧版本属于Bug，而非设计特性。报道称，问题源于显示驱动的排名和推送方式异常，现阶段无法彻底解决；后续微软将对新硬件的新驱动加入计算机ID定位，以更精准匹配目标机型，减少旧版驱动被误推造成的意外降级。",
+              "source_url": "https://www.landian.vip/archives/112925.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-14T11:43:58+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "OpenAI披露两名员工设备在TanStack供应链攻击中遭入侵",
+              "brief": "OpenAI证实，两名员工设备因TanStack供应链攻击受影响，公司在少量其可访问的内部代码库中发现未授权访问和凭证被窃。事件源于黑客向该开源库短时发布84个恶意版本，植入可窃取凭证并自我传播的代码。OpenAI称未发现用户数据、生产系统、知识产权或现有软件安装被攻破，但已轮换相关签名证书，macOS用户需更新应用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562504.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T00:48:28+08:00"
+            },
+            {
+              "title": "微软新一代云游戏手柄曝光：可直连云端，体积更小并内置电池",
+              "brief": "曝光信息显示，微软正准备一款更小巧的Xbox云游戏手柄，主打轻量便携，并面向云串流场景优化。它支持2.4GHz和5GHz Wi-Fi、蓝牙5.3及USB-C，其中Wi-Fi直连被认为可直接连接Xbox Cloud Gaming，以减少中间链路带来的延迟和不稳定性。资料还显示其内置500mAh可充电电池，但名称、上市时间和售价仍未公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562502.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T00:13:10+08:00"
+            },
+            {
+              "title": "Anthropic与盖茨基金会4年投入2亿美元推进AI在健康和教育领域应用",
+              "brief": "Anthropic与盖茨基金会宣布在未来四年共同投入2亿美元，推动人工智能在健康和教育领域的应用。合作扩展自双方今年1月公布的相关计划，目标是在外界担忧AI加剧不平等之际，让技术更广泛惠及公共服务。重点包括改进非洲语言数据与标注、为教师构建知识图谱，以及用Claude辅助研究HPV和子痫前期等疾病的新药候选物。",
+              "source_url": "https://www.cnbeta.com.tw/articles/comic/1562500.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T00:08:57+08:00"
+            },
+            {
+              "title": "《极限竞速：地平线6》画面对比：PC平台体验更佳",
+              "brief": "报道结合画面对比视频称，《极限竞速：地平线6》在PC上可获得最佳视觉体验，Xbox即便输出“真4K”，整体观感仍较灰。新作较前代新增光线追踪反射和光线追踪全局照明，进一步提升反射与间接光照效果。PC版首发还支持DLSS 4.5，可用第二代Transformer模型进行超分，并提供最高6倍多帧生成以提升动态画面流畅度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1562498.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-14T23:28:39+08:00"
+            },
+            {
+              "title": "GDDR7成本上涨或推动英伟达上调RTX 5090价格",
+              "brief": "供应链消息称，GDDR7成本上涨正传导到整机市场，英伟达可能上调面向AIC厂商的GPU套件价格，进而推高RTX 5090整卡售价。原因是显存需求旺盛、库存快速消化、交付周期拉长，英伟达虽集中采购GB202核心和GDDR7以减少供应链环节，仍需承受更高成本。报道还称，RTX 5090在部分电商的挂牌价已常超4000美元，明显高于1999美元建议价。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562496.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-14T23:08:32+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "微星推出MAG 276QP42显示器：27英寸2K 425Hz，2199元",
+              "brief": "微星推出MAG 276QP42 27英寸电竞显示器，主打2K分辨率与425Hz高刷新率，定价2199元，定位高刷游戏市场。这款产品的核心卖点是高帧率显示与较完整的色彩覆盖，面板支持8-Bit+FRC，并覆盖98.1% DCI-P3色域。机身支架支持升降、倾斜和旋转，提供双HDMI 2.1、DP 1.4a、3.5mm音频接口，并兼容VESA 100壁挂。",
+              "source_url": "https://www.ithome.com/0/950/650.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T23:50:22+08:00"
+            },
+            {
+              "title": "国内首枚高校主导面对称可回收液体火箭平台飞行试验成功",
+              "brief": "中山大学主导研制的“逸仙-3号”面对称可回收液体火箭完成飞行试验，实现低空垂直起飞和垂直着陆。这是国内首枚由高校主导研制的同类火箭，验证的是可重复使用火箭核心的VTVL技术，且面向难度更高的二子级回收复用。该箭高约8.5米、重约1吨，项目于2025年1月启动，由中山大学与深圳驭龙航天等联合研发，10名学生参与关键工作。",
+              "source_url": "https://www.ithome.com/0/950/648.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T23:48:36+08:00"
+            },
+            {
+              "title": "比亚迪确认计划收购Stellantis等欧洲车企闲置工厂",
+              "brief": "比亚迪回应称，计划收购Stellantis等欧洲车企闲置工厂的消息属实，公司正与Stellantis及其他欧洲车企沟通。这反映出比亚迪正加快欧洲本地化布局，希望利用现成闲置产能推进在欧洲生产汽车。按照披露信息，比亚迪未来三年还将密集推出欧洲专属、并在欧洲开发的车型，首款为下月发布的插混车型Dolphin G。",
+              "source_url": "https://www.ithome.com/0/950/647.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T23:46:26+08:00"
+            },
+            {
+              "title": "《极限竞速：地平线6》发售前夕已有多款Mod上线",
+              "brief": "《极限竞速：地平线6》发售前夕，已有多款Mod提前上线，内容涉及玩法调整和画面改动。这类社区内容通常围绕体验微调展开，此次已覆盖教程跳过、菜单替换和按键提示等方向。具体包括让色彩更鲜艳的Realism Reshade、可直接跳过教程的存档Mod、替换为《Tokyo Drift》视频和歌曲的版本，以及面向PlayStation手柄和关闭HUD的Mod。",
+              "source_url": "https://www.ithome.com/0/950/646.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T23:38:18+08:00"
+            },
+            {
+              "title": "苹果618零点开启：iPhone 17 Pro Max换新低至7999元",
+              "brief": "苹果在618零点开启iPhone 17系列促销，iPhone 17 Pro和Pro Max无需换新可直降1000元，叠加以旧换新后最高再减2000元。这是苹果面向电商大促推出的官方优惠，覆盖标准版与Pro机型。其中国补可叠加到iPhone 17，实付5299元起并支持12期免息，旧换新最高补贴800元，Pro以旧换新6999元起，Pro Max 7999元起。",
+              "source_url": "https://www.ithome.com/0/950/631.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-14T22:08:23+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
