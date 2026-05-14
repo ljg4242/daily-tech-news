@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T02:56:50.987375+08:00",
+  "generated_at": "2026-05-15T04:57:15.504913+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "报道称：英特尔正测试生产部分 iPhone、iPad 和 Mac 芯片",
+              "brief": "供应链分析师郭明錤称，英特尔已启动部分低阶iPhone、iPad和Mac芯片的小规模代工测试，预计2027至2028年逐步放量。自2016年起，台积电一直独家代工苹果自研芯片，而苹果引入第二供应商可增强议价与供货弹性。郭明錤说相关芯片将采用Intel 18A制程，且台积电仍将承担逾九成供应，英特尔仅负责制造，不参与设计。",
+              "source_url": "https://www.macrumors.com/2026/05/14/kuo-intel-iphone-ipad-mac-chips/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T02:48:09+08:00"
+            },
             {
               "title": "Nimble Wally Stretch 评测：自带伸缩 USB-C 线的多彩充电器",
               "brief": "配件厂商 Nimble 推出的 Wally Stretch 充电器提供 35W 和 65W 两种功率，主打可折叠插脚、内置两英尺可伸缩 USB-C 线和额外 USB-C 接口。实测称，65W 版本虽比苹果 70W 充电器更厚，但长宽更小，并提供青绿色、深紫色等更醒目的配色；两英尺线长适合桌面和差旅，若需更长线缆则可接到底部额外接口，它还能为 16 英寸 MacBook Pro 轻负载供电并为多台设备快充。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
               "source_name": "MacRumors",
               "published_at": "2026-05-15T00:04:59+08:00"
-            },
-            {
-              "title": "Spotify 将采用苹果的视频播客技术",
-              "brief": "Spotify 宣布将采用苹果的 HTTP Live Streaming 技术来支持视频播客，让创作者无需改动现有设置，就能把视频节目分发到 Spotify 和 Apple Podcasts。苹果在 3 月底为 iPhone、iPad、Apple Vision Pro 和网页端推出增强版 HLS 视频播客体验；Spotify 说今年稍后会在 Spotify for Creators 和 Megaphone 中加入支持，且变现能力会随分发一并保留。",
-              "source_url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-15T00:02:53+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "据报英特尔已为苹果代工 iPhone 芯片",
-              "brief": "郭明錤称，苹果已在英特尔启动部分旧款或低阶 iPhone、iPad 和 Mac 处理器的初期生产，显示双方重启合作后已迅速进入执行阶段。外界普遍将此视为苹果降低对台积电单一依赖的安排。相关订单基于 Intel 18A-P 系列并采用 Foveros 封装，苹果的晶圆计划为 2026 年小规模测试、2027 年放量、2028 年持续增长、2029 年回落；其中约八成为 iPhone，台积电未来仍预计保有九成以上供应份额。",
-              "source_url": "https://9to5mac.com/2026/05/14/intel-is-now-making-iphone-chips-for-apple-per-report/",
+              "title": "苹果详述 macOS 26.5 包含的重要企业级修复",
+              "brief": "苹果在发布 macOS 26.5 后，又更新了“macOS Tahoe 26 企业新功能”页面，披露本次更新面向企业环境修复了多项重要问题，重点关系到受管 Mac 的部署、认证与文件共享稳定性。已解决的情况包括部分 Mac 更新后黑屏、设备管理服务续订时根证书和中间证书更新不正确、挂载 SMB 共享时异常重启，以及部分搭载 M5、M5 Pro、M5 Max 的机型在使用某些内容过滤扩展时重启，另外还修复了智能卡登录误报密码尝试、Safari 自动填充管控和 XQuartz 显示异常等。",
+              "source_url": "https://9to5mac.com/2026/05/14/apple-details-important-enterprise-fixes-included-in-macos-26-5/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-15T02:42:54+08:00"
+              "published_at": "2026-05-15T04:37:01+08:00"
             },
             {
-              "title": "苹果钱包车钥匙新增保时捷支持",
-              "brief": "苹果钱包中的车钥匙功能又新增一个重要汽车品牌，保时捷现已在 2026 款 Macan EV 上支持该功能，用户可用 iPhone 或 Apple Watch 解锁、上锁车辆，部分场景还可借助超宽带自动操作。该功能此前扩展节奏较慢，苹果去年曾预告 13 个新品牌将加入；接下来 2026 款 Cayenne EV 也将支持，现已开放订购，首批交付预计在 8 月开始。",
-              "source_url": "https://9to5mac.com/2026/05/14/car-keys-in-apple-wallet-now-available-for-a-major-new-vehicle-brand/",
+              "title": "Apple Card 转交摩根大通后哪些不变，哪些仍未定",
+              "brief": "苹果在“Apple Card 发卡行过渡”页面说明，Apple Card 转由摩根大通承接时，部分核心权益预计不会改变，同时也保留了一些尚未确定的事项。公司表示，用户仍可获得最高 3% 的 Daily Cash 返现，卡片继续免年费、免逾期费和免外币交易费，支付网络仍为 Mastercard；但卡号是否变化、实体卡是否更新，以及储蓄账户会受何种影响，苹果称将待过渡日期临近时再单独通知用户。",
+              "source_url": "https://9to5mac.com/2026/05/14/apple-cards-transition-to-chase-heres-whats-not-changing-and-might-be/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-15T02:11:38+08:00"
+              "published_at": "2026-05-15T04:26:07+08:00"
             },
             {
-              "title": "据报 OpenAI 因 Siri 合作准备对苹果采取法律行动",
-              "brief": "据彭博社报道，OpenAI 正就与苹果的 Siri 合作准备法律行动，可能先发出违约通知，而不立即提起完整诉讼。OpenAI 原本期待 ChatGPT 接入苹果软件后带来更多付费订阅，并在更多应用和 Siri 中获得更深整合与更显著入口，但其高管称苹果未兑现合作承诺。报道还称，双方合作本身并无技术授权费用往来，苹果仅从 iPhone 设置中的 ChatGPT 订阅分成。",
-              "source_url": "https://9to5mac.com/2026/05/14/openai-preparing-legal-action-against-apple-over-siri-partnership-report/",
+              "title": "OpenAI 将 Codex 控制功能带到 iPhone 和 Android 版 ChatGPT",
+              "brief": "OpenAI 宣布把 Codex 的移动端控制功能加入 iPhone 和 Android 版 ChatGPT 应用，让用户离开电脑时也能继续查看和推进正在运行的编码任务。这一变化对应代理型工作时长变长后的协作需求，用户可在手机上回复问题、审阅结果、批准命令、切换模型或发起新任务；连接运行 Codex 的笔记本、Mac mini 或远程环境后，应用会同步线程、插件与项目上下文，截图、终端输出、diff 和测试结果也会实时回传。",
+              "source_url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-15T01:08:18+08:00"
+              "published_at": "2026-05-15T04:14:43+08:00"
             },
             {
-              "title": "报道称 Anthropic 的 Mythos 暴露出新的 macOS 漏洞",
-              "brief": "安全研究人员称，他们在今年4月测试 Anthropic 早期版 Mythos AI 软件时，发现了一种可绕过苹果先进防护的新 macOS 漏洞利用方式。这类问题之所以重要，是因为它属于权限提升，一旦与其他攻击链结合，黑客可能接管整台 Mac。研究公司 Calif 已向苹果当面提交55页报告，苹果正审查结论，Calif 表示会在问题修复后公布细节。",
-              "source_url": "https://9to5mac.com/2026/05/14/new-macos-vulnerabilities-were-exposed-by-anthropics-mythos-report/",
+              "title": "苹果以三支委约作品推广 Creator Studio",
+              "brief": "苹果本周开始为 Creator Studio 推出新一轮宣传，发布三支委约创作案例，展示这项订阅服务如何支持诗歌、烹饪和音乐等不同类型的创作。Creator Studio 于 1 月底上线，主打把 Mac 和 iPad 上的创意应用打包提供，但此后相关 Instagram 账号鲜少更新；这次苹果在 YouTube Shorts 展示了 Ellie Dixon 用 Logic Pro 制作专辑、Molly Baz 用 Pages 和 Final Cut Pro 制作食谱视频，以及 Samba Films 借助 Pages、Keynote 和 Final Cut Pro 呈现诗歌。",
+              "source_url": "https://9to5mac.com/2026/05/14/apple-promotes-creator-studio-with-three-commissioned-pieces/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-14T23:57:43+08:00"
+              "published_at": "2026-05-15T04:05:36+08:00"
             },
             {
-              "title": "iPhone 18 Pro：三项新功能或促使用户升级",
-              "brief": "关于 iPhone 18 Pro 的新传闻称，它可能带来三方面升级，分别是相机、电池和外观，这也解释了为何它会被视为值得换机的一代。背景是 Mark Gurman 近日称，新机将拥有该系列史上最大幅度之一的相机硬件更新。已流出的细节包括主摄可变光圈、长焦更大光圈、重新设计的相机控制按钮，以及更大电池、A20 Pro、C2 基带和新的旗舰配色。",
-              "source_url": "https://9to5mac.com/2026/05/14/iphone-18-pro-three-new-features-could-make-you-want-to-upgrade/",
+              "title": "《Happy Hour》谈 iOS 27 设计、带摄像头 AirPods 与教育商店变化",
+              "brief": "9to5Mac 发布《Happy Hour》播客第 590 期，集中讨论 iOS 27 可能出现的设计调整、带摄像头 AirPods 的潜在用途，以及苹果教育商店验证与折扣政策的新变化。节目还延伸到 iOS 键盘自动更正和听写准确率的话题，并汇总了与这些讨论相关的多篇近期报道链接，包括 Liquid Glass 界面调整、相机应用可定制化、Siri 重构和 RCS 端到端加密等进展。",
+              "source_url": "https://9to5mac.com/2026/05/14/happy-hour-590/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-14T23:31:28+08:00"
+              "published_at": "2026-05-15T03:56:15+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌电话和系统拨号器可显示第三方应用通话记录",
+              "brief": "谷歌电话应用和其他系统拨号器已可显示来自第三方应用的通话记录，用户能在统一通话历史中看到这些通话并直接发起回拨。这项能力面向 VoIP 应用，目的是把系统电话与应用通话整合到同一入口，同时加入更细的隐私控制。关键细节是 Android 16.1 需启用 include_voip_calls 参数，Android 17 则提供正式的专用 URI、参数键，并支持来电者与参与者头像。",
+              "source_url": "https://9to5google.com/2026/05/14/google-phone-call-logs/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-15T04:26:34+08:00"
+            },
             {
               "title": "Android Canary 2605 为 Pixel 系统界面加入模糊效果",
               "brief": "这篇文章称，Android Canary 2605 已把模糊效果带到 Pixel 的系统界面。给定摘要同时提到 The Android Show 公布了 Gemini Intelligence、Googlebooks 等内容，说明报道处在谷歌近期 Android 动态的大背景下。现有文本能确认的关键信息，是此次更新的焦点在 Pixel 系统 UI 的模糊视觉变化。",
@@ -115,19 +122,33 @@
               "source_url": "https://9to5google.com/2026/05/14/youtube-buy-products-tv-brandcast-updates/",
               "source_name": "9to5Google",
               "published_at": "2026-05-15T00:55:00+08:00"
-            },
-            {
-              "title": "Google Fitbit Air 佩戴很舒适，但 AI 教练已出现幻觉",
-              "brief": "首发体验显示，Google 新推出的 99 美元 Fitbit Air 最大优点是轻薄、无屏且佩戴舒适，低干扰设计更适合全天候记录睡眠、心率和活动，而不是频繁抬腕查看信息。它与 Google Health 应用和 Google Health Coach 一起构成新健康方案，购买设备还附带 3 个月 Premium；但作者认为，AI 教练上线初期就已出现幻觉式回答，软件体验明显落后于硬件。",
-              "source_url": "https://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-15T00:30:00+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Netflix 正筹建 AI 动画短片工作室",
+              "brief": "Netflix 正在内部筹建名为 INKubator、简称 INK 的新工作室，目标是用生成式 AI 制作短篇动画，并可能在其流媒体平台上向用户提供这类内容。这并非该公司首次应用生成式 AI，Netflix 此前已将相关技术用于自然语言搜索等功能。报道援引 LinkedIn 资料称，该团队似乎于 3 月低调成立，目前正招聘制片人、软件工程师和 CG 艺术家，由曾负责动画内容编排与策略的 Serrena Iyer 出任 COO。",
+              "source_url": "https://www.androidauthority.com/netflix-ai-animation-studio-3667218/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T04:24:31+08:00"
+            },
+            {
+              "title": "Dangbei N2 迷你投影仪降至 149 美元新低",
+              "brief": "Dangbei N2 迷你投影仪在亚马逊售价降至 149 美元，创下历史最低价格，较过去 90 天 218.35 美元的平均价低 69.35 美元。它主打便携观影与轻量展示场景，配备原生 1080P 分辨率、60 至 120 英寸投射范围，以及预装近 300 款应用的 Linux 智能系统，其中包含授权版 Netflix。设备还提供 190 度云台支架、自动梯形校正和避障功能，亚马逊评分为 4.4 星。",
+              "source_url": "https://www.androidauthority.com/dangbei-n2-mini-projector-deal-3667228/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T03:31:59+08:00"
+            },
+            {
+              "title": "Garmin Venu 3S 降至 359.99 美元",
+              "brief": "Garmin Venu 3S 智能手表目前售价 359.99 美元，较 459.99 美元常规价格下调 22%，且这一降价发生在约 14 小时前。该产品面向健康与运动追踪需求，提供最长 10 天续航、Body Battery 能量监测和个性化睡眠指导。它还支持在连接兼容手机后于手表上接听电话、回复短信，并提供轮椅模式及相应训练与追踪功能；按文中数据，其现价也比 90 天均价低约 98 美元。",
+              "source_url": "https://www.androidauthority.com/deal-garmin-venu-3s-3667214/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-15T03:12:55+08:00"
+            },
             {
               "title": "谷歌 5 月 Android Canary 更新主打模糊效果",
               "brief": "谷歌已向公众开放 Android Canary 2605 测试版，Pixel 6 及后续机型可下载体验，用户可通过 Android Flash Tool 刷入，但前提是接受清除手机现有数据。该版本在 Canary 2604 发布整整一个月后到来，让外界无需等到 Google I/O 2026 就能提前查看 Android 新变化。已知更新重点是多处模糊背景视觉效果，并带来此前曾在 Android 17 QPR1 Beta 2 中出现的“日期和时间”设置新样式。",
@@ -141,27 +162,6 @@
               "source_url": "https://www.androidauthority.com/one-ui-9-app-handle-toggle-3667132/",
               "source_name": "Android Authority",
               "published_at": "2026-05-15T01:58:04+08:00"
-            },
-            {
-              "title": "Homey 把 Android TV 变成完整智能家居控制面板",
-              "brief": "Homey 推出专用 Android TV 与 LG webOS 应用，把智能家居控制、自动化和仪表盘带到电视大屏上，同时上线浏览器版 homey.tv。此举顺应电视逐渐成为智能家居交互入口的趋势，新应用也针对遥控器而非触控做了界面优化。用户安装后可通过扫描二维码登录，首页集中显示常用设备、Flows 和 Moods，并可进一步进入 Devices 与 Flows 页面进行更深入控制；浏览器版还支持包括特斯拉在内的车载浏览器。",
-              "source_url": "https://www.androidauthority.com/homey-apps-on-android-tv-webos-3667143/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-15T01:23:59+08:00"
-            },
-            {
-              "title": "Android“人员查找”或将成为谷歌的精确寻友功能",
-              "brief": "谷歌似乎正在为 Find Hub 准备名为“People Finding”的新模式，相关线索出现在 Google Play 服务 26.20.30 测试版的字符串中。Find Hub 去年已从找设备扩展到找人，这次新功能可能是在地图共享位置之外，强化近距离寻人体验。现有文本提到“你的朋友就在附近”“对方正在找你”，显示它面向近距离场景，但目前仍不清楚双方手机是否都需要支持 UWB。",
-              "source_url": "https://www.androidauthority.com/people-finding-3667067/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-15T01:17:07+08:00"
-            },
-            {
-              "title": "离网时，你的运营商或将借助竞争对手帮你连网",
-              "brief": "AT&T、T-Mobile 和 Verizon 达成原则性协议，计划成立一家专注手机直连卫星的新合资公司，想在传统基站覆盖不到的美国农村和服务不足地区提供连接，并在紧急情况或自然灾害中作为备用网络。按 Verizon 的说法，新公司将整合有限频谱资源并建立统一平台，帮助卫星服务覆盖更多用户，目标是几乎消除美国通信死角，但目前仍未公布正式上线时间。",
-              "source_url": "https://www.androidauthority.com/att-t-mobile-verizon-dead-zones-joint-venture-3667115/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-15T00:48:01+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "微软未发布云游戏手柄曝光，体积很小",
-              "brief": "巴西网站Tecnoblog曝光了微软尚未发布的Xbox云游戏手柄实机照片，显示它采用矩形机身、短握把和错位摇杆，体积明显偏小。其背景是微软正为云游戏优化输入链路；报道称该手柄可通过Wi-Fi直连微软服务以降低延迟，也能使用蓝牙，并内置可充电电池，提供黑白两色，处理器为瑞昱方案中的双核ARM Cortex A7，但价格和发售时间仍未公布。",
-              "source_url": "https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/",
+              "title": "亚马逊取消《指环王》MMO开发",
+              "brief": "亚马逊已取消开发中的《指环王》MMO，但与托尔金世界相关的新游戏项目仍在推进。该作命运自2025年10月亚马逊游戏部门大裁员后就一直不明，当时公司关闭运营四年的《新世界：永恒》，并明显收缩对大型游戏尤其是MMO的投入。曾负责《新世界》的橙县团队自2023年起公开开发该作，如今公司只称仍在与中土方面合作探索新的体验。",
+              "source_url": "https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/",
               "source_name": "Engadget",
-              "published_at": "2026-05-15T02:42:40+08:00"
+              "published_at": "2026-05-15T04:25:29+08:00"
             },
             {
-              "title": "Spotify及其托管平台将采用苹果视频播客技术",
-              "brief": "Spotify宣布，其播客平台Spotify for Creators和Megaphone将采用苹果的HTTP Live Streaming技术分发视频播客。背景是苹果已在iOS 26.4随Apple Podcasts加入对HLS的支持，这让原本偏向Spotify生态的视频节目更容易进入苹果应用；该标准支持视频与纯音频切换、离线下载和动态广告插入。Spotify尚未给出上线时间，但表示不支持HLS的应用仍可接收纯音频RSS源。",
-              "source_url": "https://www.engadget.com/2173148/spotify-and-its-hosting-platforms-are-adopting-apples-tech-for-video-podcasts/",
+              "title": "OpenAI 将 Codex 编程应用带到移动端",
+              "brief": "OpenAI把Codex带进了ChatGPT移动应用，Android和iOS上的所有ChatGPT用户，包括Go和免费层，都可从今天起访问相关项目。它并不是让用户直接在手机上写代码，而是通过手机连接运行Codex的本地或远程环境，因此文件、凭证和权限仍留在原机器上，同时可在外出时接收截图、测试结果和需要决策的进度更新。",
+              "source_url": "https://www.engadget.com/2173235/openai-brings-its-codex-coding-app-to-mobile/",
               "source_name": "Engadget",
-              "published_at": "2026-05-15T02:25:32+08:00"
+              "published_at": "2026-05-15T04:00:00+08:00"
             },
             {
-              "title": "Noble Audio将推出699美元FoKus Apollo Pro耳机",
-              "brief": "Noble Audio将于本周稍晚在全球发售FoKus Apollo Pro头戴耳机，定价699美元。其背景是原版FoKus Apollo上市价已达649美元，定位本就偏高端；新款沿用动圈加平面磁驱动的混合单元，并加入新的声学调校，主要升级集中在面料、线材、金属饰件和耳罩舒适度。与此同时，主动降噪未见改进，芯片仍是高通QCC3084，佩戴检测和空间音频等功能也未被提及。",
-              "source_url": "https://www.engadget.com/2173124/noble-audio-to-launch-fokus-apollo-pro-headset-for-dollar699/",
+              "title": "Netflix 想用生成式 AI 制作动画短片",
+              "brief": "Netflix新成立名为INKubator的工作室，准备以生成式AI流程和工具为核心制作内容，当前招聘信息显示其起步方向是动画短片和特别节目。此举延续了公司近来对AI的积极采用态度，此前它已在广告中使用相关技术，也收购了由本·阿弗莱克创办的AI初创公司；部分岗位描述还提到团队未来可能从短内容扩展到更长篇幅作品。",
+              "source_url": "https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/",
               "source_name": "Engadget",
-              "published_at": "2026-05-15T02:13:01+08:00"
+              "published_at": "2026-05-15T03:53:11+08:00"
             },
             {
-              "title": "电竞世界杯据报将从利雅得迁至巴黎",
-              "brief": "据GamesBeat报道，原定今夏在沙特利雅得举行的电竞世界杯将于2026年改到法国巴黎举办。背景是中东战事加剧、地区航班取消增多，赛事方据称已私下向相关方通报调整，但尚未公开确认；本届比赛计划于7月至8月进行，总奖金超过7500万美元，涵盖《无畏契约》《英雄联盟》《Dota 2》《街霸6》《守望先锋》等多个项目。",
-              "source_url": "https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/",
+              "title": "大众 ID.Buzz 将于 2027 款回归，并新增露营版本",
+              "brief": "大众宣布ID.Buzz将在2027款回归，并新增面向露营场景的Tourer 4Motion配置，回应外界对其缺席2026款后的担忧。新版本基于欧洲“晚安套件”思路，加入折叠床垫平台、可拆窗帘、通风面板和收纳桌椅，同时提供过夜模式；全系还将加入单踏板驾驶、更新的软件、原生NACS充电口，以及车载应用试用服务。",
+              "source_url": "https://www.engadget.com/2173225/the-vw-idbuzz-is-returning-for-model-year-2027-with-a-new-trim-for-camping/",
               "source_name": "Engadget",
-              "published_at": "2026-05-15T02:05:14+08:00"
+              "published_at": "2026-05-15T03:34:39+08:00"
             },
             {
-              "title": "美国人普遍不愿AI数据中心建在家附近",
-              "brief": "盖洛普对全美1000名成年人调查显示，71%反对在居住地附近建设AI数据中心，其中48%强烈反对，仅7%强烈支持。背景是AI公司正大规模扩建算力基础设施，但数据中心常伴随土地占用、噪音、用水和用电压力等争议；在反对者中，约一半提到水资源、电网和砍伐林地等资源影响，另有16%提到噪音及空气、水、光和热污染。",
-              "source_url": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
+              "title": "电视上的 HDMI ARC 接口具体有什么用",
+              "brief": "文章解释了电视上HDMI ARC与eARC接口的具体用途：它们主要负责把电视音频回传给条形音箱等外部扬声器，而不只是接入视频设备。ARC自2009年被纳入HDMI 1.4规范，目的是减少额外音频线缆并改善声音传输体验；若设备仅支持光纤音频，现今大多数电视通常仍可继续配合使用。",
+              "source_url": "https://www.engadget.com/2172906/hdmi-arc-port-tv-use-explained/",
               "source_name": "Engadget",
-              "published_at": "2026-05-15T01:49:14+08:00"
+              "published_at": "2026-05-15T03:30:00+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "用这张地图查找你家附近的数据中心",
-              "brief": "The Verge介绍了一张互动地图，帮助公众查询住家附近的数据中心建设情况和相关AI政策。它源于俄勒冈居民Isabelle Reksopuro在听闻谷歌与公共土地争议后，试图厘清围绕数据中心的误传与真实脉络。该图持续追踪项目与政策更新，也把俄勒冈The Dalles一类涉及土地、流域和电力需求的案例纳入背景。",
-              "source_url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+              "title": "泄露图片曝光 Xbox Elite 3 手柄",
+              "brief": "巴西监管机构 Anatel 意外公开了一组疑似微软 Xbox Elite 3 手柄图片，继较小的 Xbox 云游戏手柄现身后，再次提前泄露新品信息。图片显示它将接替 Elite 2，保留可更换十字键和背部拨片，并采用更精细的外观设计，底部新增两个滚轮式按键，可能用于手柄调节或为《微软飞行模拟》这类游戏提供新输入方式，同时配备可拆卸电池。",
+              "source_url": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
               "source_name": "The Verge",
-              "published_at": "2026-05-14T13:40:00-04:00"
+              "published_at": "2026-05-14T16:52:19-04:00"
             },
             {
-              "title": "《深海迷航2》在 Steam 迎来强势开局",
-              "brief": "Unknown Worlds的新作水下生存游戏《深海迷航2》开启抢先体验后，在Steam上迅速爆发。该作上线不到一天销量已超过100万份，反映出系列号召力与平台热度。官方新闻稿称游戏不到一小时就冲上Steam排行榜，发稿时同时在线玩家超46万，在平台上排名第四，且这一数字还未计入Epic游戏商城和Xbox上的玩家。",
-              "source_url": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
+              "title": "OpenAI 将 Codex 带到 ChatGPT 手机版",
+              "brief": "OpenAI 将允许用户在 ChatGPT 的 iOS 和 Android 应用中访问 Codex，把这款能写代码并操作电脑应用的桌面 AI 工具延伸到手机端。用户可在手机上向电脑上的 Codex 下达任务，并跨线程查看结果、审批命令、切换模型或发起新任务。此举也延续了 OpenAI 近期对 Codex 的加速推进，包括新增对 macOS 应用的操作能力，以支撑其桌面“超级应用”目标。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
               "source_name": "The Verge",
-              "published_at": "2026-05-14T12:22:49-04:00"
+              "published_at": "2026-05-14T16:00:00-04:00"
             },
             {
-              "title": "泄露图片曝光微软新款 Xbox 云游戏手柄",
-              "brief": "巴西监管机构公开的照片显示，微软一款未发布的Xbox云游戏手柄已经曝光。这与此前有关其可通过Wi-Fi直连Xbox Cloud Gaming服务器的报道相呼应。Tecnoblog发布的图片显示，这款由微软制造的新手柄体积比现有Xbox手柄更小，外形接近8BitDo和HyperX等第三方产品，并配备2.4GHz和5GHz Wi-Fi、蓝牙5.3、USB-C接口以及顶部配对按键。",
-              "source_url": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+              "title": "Meta 夏季促销将雷朋新款智能眼镜降至历史低价",
+              "brief": "Meta 在夏季促销中下调了两代 Ray-Ban Meta 智能眼镜价格，活动持续至 5 月 26 日，覆盖亚马逊、百思买和 Meta 自营渠道。这是该公司黑五之外力度最大的促销之一，初代起售价降至 224.25 美元，较原价低 74 美元并追平最低价；第二代降至 322.25 美元，便宜 57 美元，创下新低，同时提供免手持拍照、通话和内置 AI，并改进视频质量与续航。",
+              "source_url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-05-14T11:49:47-04:00"
+              "published_at": "2026-05-14T15:44:17-04:00"
             },
             {
-              "title": "马斯克与奥特曼围绕 OpenAI 未来的法庭交锋进入结案阶段",
-              "brief": "马斯克与奥特曼围绕OpenAI未来的庭审进入结案陈词阶段，The Verge对此进行直播更新。这场高风险诉讼源于马斯克指控OpenAI背离“造福人类”的创始使命并转向逐利。文中称，纳德拉、苏茨克维、奥特曼等人已先后作证；马斯克要求撤换奥特曼和布罗克曼、阻止OpenAI以公益公司形式运营，并寻求最高1500亿美元赔偿归于其非营利机构。",
-              "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+              "title": "微软开始取消 Claude Code 许可证",
+              "brief": "微软正开始收回 Claude Code 许可证，并准备让大量开发者转向 GitHub Copilot CLI。公司自去年 12 月起向数千名内部开发者开放 Anthropic 的这款 AI 编程工具，也鼓励项目经理、设计师等首次尝试编程；但在过去半年里，它在微软内部过于受欢迎，反而削弱了微软自家命令行编程产品 Copilot CLI 的推广。",
+              "source_url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
               "source_name": "The Verge",
-              "published_at": "2026-05-14T11:46:04-04:00"
+              "published_at": "2026-05-14T15:00:00-04:00"
             },
             {
-              "title": "Netflix 正在打造 AI 动画工作室",
-              "brief": "Netflix正在组建名为INKubator的新内部工作室，计划利用生成式AI制作动画内容。相关动向来自近期招聘信息，显示公司正为该团队招募制片人、软件工程师和CG艺术家等岗位。报道指出，这一项目尚未被Netflix正式公开宣布，部分招聘页面也将其简称为INK，而LinkedIn上的资料显示该团队可能已在2026年3月低调启动。",
-              "source_url": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
+              "title": "Linux 开发者正对抗新的年龄门槛互联网",
+              "brief": "随着年龄验证在互联网上不断扩散，Linux 开发者和更广泛的开源社区正试图寻找应对办法，以摆脱一波新法律带来的要求。这些法案要求操作系统收集用户年龄，把验证义务进一步压到平台层面；对 Linux 和开源项目而言，这正成为一个迫切的新问题，也让他们不得不思考如何在新规下继续运作。",
+              "source_url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
               "source_name": "The Verge",
-              "published_at": "2026-05-14T11:30:00-04:00"
+              "published_at": "2026-05-14T14:58:00-04:00"
             }
           ]
         },
@@ -249,18 +249,39 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "Aptera组装首批五辆验证车型",
-              "brief": "Aptera在加州卡尔斯巴德的新低产量装配线上组装出首批五辆验证车型，让这款研发已久的三轮双座电动车离上市又近一步。该项目自2006年推进至今，期间经历多次波折，如今这些车辆已通过14个工位完成组装。公司称，每造一辆都会积累更多数据，提升团队熟练度，并改进精度、效率和可重复性，为最终向客户交付做准备。",
-              "source_url": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+              "title": "手机用户总在留下自证其罪的痕迹",
+              "brief": "这篇报道借犹他房产经纪人库里·里钦斯一案说明，手机正越来越多地成为刑案中的关键证据。她因用芬太尼致丈夫死亡并图谋保险金被判终身监禁不得假释；检方提交的证据包括搜索记录、被删除短信的运营商比对、基站定位，以及首部 iPhone 被扣后她在第二部手机上继续搜索如何彻底清除旧机数据、恢复短信和应对警方。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
               "source_name": "Ars Technica",
-              "published_at": "2026-05-15T01:06:23+08:00"
+              "published_at": "2026-05-15T03:27:50+08:00"
             },
             {
-              "title": "思科同日宣布创纪录营收与不足4000人裁员",
-              "brief": "思科在宣布2026财年第三财季营收同比增长12%、达158亿美元并创纪录的同一天，启动新一轮裁员。公司表示第四财季整体裁员将少于4000人，占员工总数不到5%，大多数通知自5月14日起按各地法规陆续发出。管理层将此举与AI时代下持续把投资转向需求更强、长期价值更高的领域联系起来，并称这不是以节省成本为目的的重组。",
-              "source_url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+              "title": "能源供应商弃供太浩湖居民，转向数据中心",
+              "brief": "太浩湖地区必须在 2027 年 5 月前寻找新的电力来源，因为内华达公用事业公司 NV Energy 将停止向当地供电。此举影响加州一侧约 4.9 万居民，背景是北内华达数据中心快速扩张推高用电需求；当地供应商 Liberty Utilities 目前有 75% 电力来自 NV Energy，而后者文件显示，仅十多个数据中心项目到 2033 年就可能新增 5900 兆瓦需求。",
+              "source_url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
               "source_name": "Ars Technica",
-              "published_at": "2026-05-15T00:47:43+08:00"
+              "published_at": "2026-05-15T03:17:28+08:00"
+            },
+            {
+              "title": "AMD 将把改进版 FSR 4 带到旧款 GPU",
+              "brief": "AMD 宣布，原本只限 RDNA4 和 Radeon RX 9000 系列的 FSR 4 终于将扩展到更老的显卡。此举意味着改进后的硬件辅助超分技术不再只服务少数新卡；7 月将先支持 RDNA3 和 3.5，包括 RX 7000 系列及 Radeon 890M、8060S 等核显，2027 年初再覆盖 RDNA2，包括 RX 6000、Radeon 680M 和 Steam Deck，但性能损失可能更明显。",
+              "source_url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-15T02:55:54+08:00"
+            },
+            {
+              "title": "法官质疑马斯克与特朗普政府和解是否受腐败影响",
+              "brief": "美国联邦法官表示不会直接批准马斯克与美国证交会达成的和解，认为其中存在需要审查的危险信号。案件源于他在 2022 年收购 Twitter 前持有 9% 股份却未按时披露，SEC 诉称此举让他至少少付了 1.5 亿美元给股东；如今特朗普政府同意仅由以他名义设立的信托支付 150 万美元民事罚款，且不承认违法，法官质疑这是否属于特殊待遇。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-15T02:45:01+08:00"
+            },
+            {
+              "title": "零日漏洞可彻底绕过 Windows 11 默认 BitLocker 防护",
+              "brief": "一款名为 YellowKey 的零日利用代码已在网上流传，允许攻击者在拿到设备实物后，于数秒内绕过 Windows 11 默认的 BitLocker 磁盘加密保护。BitLocker 依赖 TPM 保存解密密钥，是许多机构的强制安全措施；公开说明显示，攻击过程需要把自制 FsTx 文件夹复制到 USB 盘，插入目标设备后启动并按住 Ctrl 进入恢复环境，微软称仍在调查其具体原理。",
+              "source_url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-15T02:32:01+08:00"
             }
           ]
         }
@@ -272,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "布兰登·桑德森确认《谋杀机器人》与《飓光志》剧集有关联",
+              "brief": "布兰登·桑德森在最新一期《Intentionally Blank》播客中确认，Apple TV+《谋杀机器人》和《飓光志》电视剧项目存在人事关联。背景是《谋杀机器人》改编自《谋杀机器人日记》，2025年5月上线后评价不错，而《飓光志》自官宣以来公开进展一直有限。桑德森在节目里给第一季打出9分，并透露两部作品有同一位电视高管参与；他近期仍以撰写《迷雾之子》电影剧本为主，同时会推进《飓光志》试播集。",
+              "source_url": "https://www.ign.com/articles/brandon-sanderson-confirms-a-connection-between-apple-tvs-murderbot-and-his-stormlight-archive-series",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T02:39:01+08:00"
+            },
+            {
+              "title": "《深海迷航2》发售首小时Steam同时在线接近50万",
+              "brief": "《深海迷航2》在抢先体验上线首小时于Steam吸引近46.7万同时在线玩家，开发商Unknown Worlds还确认销量突破100万份。该作此前是Steam最受期待、愿望单排名靠前的新作，首作凭借神秘海洋外星星球生存体验积累了大量人气。IGN对抢先体验版打出7分，认为现阶段已经好玩，但仍明显是一款尚在完善中的作品。",
+              "source_url": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T01:05:10+08:00"
+            },
             {
               "title": "迪士尼合作告吹后，《神秘博士》在美国转投 AMC+",
               "brief": "AMC+宣布自6月11日起在美国上线《神秘博士》部分剧集，为这部剧在迪士尼合作告吹后找到新的流媒体归宿。此次上架覆盖2005年至2022年的“新神秘博士”时期，包含克里斯托弗·埃克莱斯顿、大卫·田纳特、马特·史密斯、彼得·卡帕尔迪和朱迪·惠特克主演阶段，但不含BBC与迪士尼短期出资合作后制作的后续内容。",
@@ -292,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/moss-the-forgotten-relic-announced-for-pc-and-consoles-no-vr-headset-needed",
               "source_name": "IGN",
               "published_at": "2026-05-15T00:00:00+08:00"
-            },
-            {
-              "title": "《最终幻想7：重生》导演称正考虑如何吸引下一代玩家",
-              "brief": "《最终幻想7：重生》导演滨口直树表示，史克威尔艾尼克斯很清楚《最终幻想》系列需要吸引下一代玩家。这个诞生于上世纪80年代末的长寿系列受众偏年长，标题中的大号罗马数字和作品间较长的发售间隔，也可能让年轻玩家觉得门槛较高或缺乏相关性。他说在重制项目接近完成之际，团队既要满足老玩家对世界与角色深度的期待，也要思考如何扩展整个品牌。",
-              "source_url": "https://www.ign.com/articles/final-fantasy-7-rebirth-director-very-aware-square-enix-needs-to-figure-out-how-to-get-the-next-generation-of-fans-into-the-franchise",
-              "source_name": "IGN",
-              "published_at": "2026-05-14T23:51:30+08:00"
-            },
-            {
-              "title": "《堡垒之夜》削弱致命坠落伤害，《守望先锋》联动更新上线",
-              "brief": "《堡垒之夜》更新后调整了核心玩法，普通大逃杀与零建造模式中的坠落伤害不再致命，玩家落地后会以 1 点生命值存活。此次改动主要强化零建造节奏，新增开局随机分配且可无限使用的口袋道具，滑翔伞再部署、镐子提供无限体力、击杀给予超量护盾，同时地图加入《守望先锋》地点与特雷塞武器等联动内容。",
-              "source_url": "https://www.ign.com/articles/fortnite-nerfs-lethal-fall-damage-in-big-gameplay-shakeup-as-overwatch-update-arrives",
-              "source_name": "IGN",
-              "published_at": "2026-05-14T23:20:02+08:00"
             }
           ]
         },
@@ -412,6 +433,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "英特尔试产部分苹果A/M系列芯片 台积电独家代工或受冲击",
+              "brief": "报道称苹果正让英特尔试产部分A/M系列芯片，采用18A制程，并同步评估其其他先进节点能力。这意味着苹果可能在芯片代工上形成台积电与英特尔双供应商格局，以增强议价能力和供应链韧性。郭明錤指出，在可预见未来台积电仍将承担超过90%的苹果芯片代工，英特尔预计只负责晶圆制造。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562510.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T03:17:04+08:00"
+            },
+            {
               "title": "苹果联合运营商推进卫星联盟 iPhone将获得更强网络冗余",
               "brief": "美国三大运营商正围绕卫星直连展开统一规划与投资，苹果设备因此有望在偏远、农村和弱覆盖区域获得更连续的备用连接。这一合作不仅是填补传统蜂窝网络空白，也意在防止卫星服务商绕过运营商直接连接终端。现有iPhone已支持卫星求救、道路救援和定位分享，苹果还计划把卫星能力进一步整合进地图、信息、5G非地面网络及第三方API，扩展断网场景下的可用性。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562508.htm",
@@ -438,19 +466,26 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1562502.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-15T00:13:10+08:00"
-            },
-            {
-              "title": "Anthropic与盖茨基金会4年投入2亿美元推进AI在健康和教育领域应用",
-              "brief": "Anthropic与盖茨基金会宣布在未来四年共同投入2亿美元，推动人工智能在健康和教育领域的应用。合作扩展自双方今年1月公布的相关计划，目标是在外界担忧AI加剧不平等之际，让技术更广泛惠及公共服务。重点包括改进非洲语言数据与标注、为教师构建知识图谱，以及用Claude辅助研究HPV和子痫前期等疾病的新药候选物。",
-              "source_url": "https://www.cnbeta.com.tw/articles/comic/1562500.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-15T00:08:57+08:00"
             }
           ]
         },
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "法拉第未来2026财年第一财季净亏损3885.6万美元",
+              "brief": "法拉第未来公布2026财年第一财季业绩，净亏损3885.6万美元，同比扩大，营收51.2万美元，同比增长62%。公司正从汽车业务转向实体AI生态，EAI机器人已成为新的收入引擎。季度内生态系统收入占比26%，运营净亏损3590万美元，同比收窄18%，截至4月底机器人累计发货68台，全年目标上调至1500台。",
+              "source_url": "https://www.ithome.com/0/950/652.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-15T04:25:38+08:00"
+            },
+            {
+              "title": "应用材料2026财年第二财季净利润28.06亿美元，同比增长31%",
+              "brief": "应用材料公布2026财年第二财季业绩，净利润28.06亿美元，同比增长31%，营收79.1亿美元并创纪录。公司称增长受AI计算基础设施建设推动，也受益于其在先进逻辑、DRAM和先进封装领域的布局。季度毛利率49.9%，并宣布与台积电、SK海力士、美光推进EPIC合作，同时收购ASMPT的NEXX业务，并预计第三财季营收84.5亿至89.5亿美元。",
+              "source_url": "https://www.ithome.com/0/950/651.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-15T04:07:22+08:00"
+            },
             {
               "title": "微星推出MAG 276QP42显示器：27英寸2K 425Hz，2199元",
               "brief": "微星推出MAG 276QP42 27英寸电竞显示器，主打2K分辨率与425Hz高刷新率，定价2199元，定位高刷游戏市场。这款产品的核心卖点是高帧率显示与较完整的色彩覆盖，面板支持8-Bit+FRC，并覆盖98.1% DCI-P3色域。机身支架支持升降、倾斜和旋转，提供双HDMI 2.1、DP 1.4a、3.5mm音频接口，并兼容VESA 100壁挂。",
@@ -471,20 +506,6 @@
               "source_url": "https://www.ithome.com/0/950/647.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-14T23:46:26+08:00"
-            },
-            {
-              "title": "《极限竞速：地平线6》发售前夕已有多款Mod上线",
-              "brief": "《极限竞速：地平线6》发售前夕，已有多款Mod提前上线，内容涉及玩法调整和画面改动。这类社区内容通常围绕体验微调展开，此次已覆盖教程跳过、菜单替换和按键提示等方向。具体包括让色彩更鲜艳的Realism Reshade、可直接跳过教程的存档Mod、替换为《Tokyo Drift》视频和歌曲的版本，以及面向PlayStation手柄和关闭HUD的Mod。",
-              "source_url": "https://www.ithome.com/0/950/646.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-14T23:38:18+08:00"
-            },
-            {
-              "title": "苹果618零点开启：iPhone 17 Pro Max换新低至7999元",
-              "brief": "苹果在618零点开启iPhone 17系列促销，iPhone 17 Pro和Pro Max无需换新可直降1000元，叠加以旧换新后最高再减2000元。这是苹果面向电商大促推出的官方优惠，覆盖标准版与Pro机型。其中国补可叠加到iPhone 17，实付5299元起并支持12期免息，旧换新最高补贴800元，Pro以旧换新6999元起，Pro Max 7999元起。",
-              "source_url": "https://www.ithome.com/0/950/631.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-14T22:08:23+08:00"
             }
           ]
         }
