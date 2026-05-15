@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T16:55:24.358244+08:00",
+  "generated_at": "2026-05-15T18:54:29.254588+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI 将 Codex 远程访问带到 ChatGPT 手机版",
+              "brief": "OpenAI把Codex接入ChatGPT手机应用，让iPhone和Android用户可远程访问运行在Mac上的Codex会话，便于离开电脑后继续跟进编码任务。这项预览功能延续了Codex作为Mac独立应用的形态，移动端则嵌入现有ChatGPT应用。用户更新两端应用后扫码配对，即可在手机上查看实时状态、接续项目、接收通知，并审阅输出、批准命令、切换模型；文件、凭据和权限仍留在运行Codex的设备上。",
+              "source_url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T18:43:00+08:00"
+            },
             {
               "title": "iPhone 18 改用苹果自研基带，还带来一项低调的隐私优势",
               "brief": "传闻称，苹果计划在iPhone18全系扩大采用自研基带，结束对高通基带的支持，这除了提升速度和能效外，还会把一项隐私功能带到更多机型。苹果在iOS26.3加入“限制精确位置”，可减少运营商获取的定位数据，把位置精度从街道级降到社区级；该功能目前仅支持搭载苹果C1或C1X基带的设备，且不影响信号体验或紧急呼叫定位精度，但仍需运营商配合实现。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/review/nimble-wally-stretch/",
               "source_name": "MacRumors",
               "published_at": "2026-05-15T02:47:31+08:00"
-            },
-            {
-              "title": "OpenAI 据称考虑就紧张的 Siri 合作关系对苹果采取法律行动",
-              "brief": "据彭博社记者 Mark Gurman 报道，因与苹果围绕 Siri 的合作关系趋于紧张，OpenAI 正考虑采取法律行动。双方 2024 年达成协议，将 ChatGPT 接入 Siri、Image Playground 等功能，并允许用户在设置中直接订阅，但 OpenAI 认为整合范围、Siri 中的位置和宣传力度都不及预期，且重谈已停滞，Siri 甚至需要明确说出 ChatGPT 才会调用该服务。",
-              "source_url": "https://www.macrumors.com/2026/05/14/openai-considering-legal-action-against-apple/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-15T01:52:13+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Galaxy S26 上的 One UI 9 能告诉你驾驶表现好坏",
-              "brief": "三星在 Galaxy S26 系列的 One UI 9 测试版中加入名为 Driving Insights 的新应用，用手机传感器配合 AI 分析驾驶习惯。该功能属于驾驶行为分析，既可能引发隐私顾虑，也与部分保险公司依据驾驶数据提供保费优惠的做法有关。它会记录平均和最高车速、刹车与加速模式、急打方向等情况，并生成每日或每周摘要，还支持车辆地理围栏提醒。",
-              "source_url": "https://www.androidauthority.com/samsung-one-ui-galaxy-s26-driving-insights-3667361/",
+              "title": "Meta 为 Ray-Ban 智能眼镜推出静默发短信新功能",
+              "brief": "Meta今日为Ray-Ban Display智能眼镜推送多项新功能，其中最受关注的是向所有用户开放“神经手写”输入。这项能力在产品发布时就已预告，之后仅向部分用户早测，如今正式普及；眼镜可配合Neural Band，通过细微手指动作在Instagram、WhatsApp、Messenger及安卓和iPhone原生短信应用中写消息，同时还新增一键录制显示画面、相机视角与音频、美国步行导航、更多应用实时字幕和开发者预览。",
+              "source_url": "https://www.androidauthority.com/meta-ray-ban-display-neural-handwriting-3667458/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T16:14:14+08:00"
+              "published_at": "2026-05-15T18:35:11+08:00"
             },
             {
-              "title": "Android 17 深度解析：谷歌近年最实用的更新",
-              "brief": "谷歌继续把 Android Show 与 I/O 主演讲分开，让 Android 17 的更新重点不被 AI 话题淹没。此次版本更强调日常体验修补，而非大而空的新概念，主要新增应用气泡以提升多任务效率、原生手柄按键重映射，以及更完善的一次性位置权限。结合官方深度讲解和测试版体验，文章认为它更像一次针对常见抱怨的务实打磨。",
-              "source_url": "https://www.androidauthority.com/android-17-deep-dive-3667344/",
+              "title": "安卓端 Gemini 换上新图标，并增强音频分享能力",
+              "brief": "Gemini安卓版最新更新带来新的应用图标，并开始支持从Android分享菜单直接接收音频文件。此次变化延续了Google在2026年Android Show:I/O Edition上展示的Gemini Intelligence相关界面调整；新图标只是渐变配色细修，黄色和红色占比更高，另有代号“Luminous Design”的细线部件图标已在应用中被发现，主要面向Gemini小组件，但目前尚未正式上线。",
+              "source_url": "https://www.androidauthority.com/gemini-android-audio-sharing-luminous-design-apk-teardown-3667449/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T16:08:35+08:00"
+              "published_at": "2026-05-15T18:26:06+08:00"
             },
             {
-              "title": "安卓投屏到电脑的最佳工具更新，让应用更像桌面软件",
-              "brief": "Scrcpy 4.0 发布后，这款可把安卓手机镜像并用键鼠控制到电脑上的开源工具，开始让应用窗口更像桌面软件。更新迁移到 SDL3 后，可在调整窗口大小时原生锁定屏幕比例，减少此前常见的黑边；新增的 flex 功能还能动态改变虚拟显示尺寸，让应用以独立窗口运行，同时加入实时硬件相机控制和更清晰的断开连接提醒。",
-              "source_url": "https://www.androidauthority.com/scrcpy-4-0-update-flex-display-3667375/",
+              "title": "三星 Galaxy Tab A11 Plus：小众预算平板中的优先选择",
+              "brief": "三星Galaxy Tab A11 Plus被评为预算安卓平板中表现最好的机型之一，但提升幅度有限。文章指出，它基本沿用两年前Galaxy Tab A9 Plus的方案，说明三星在入门平板上的更新相当保守；不过它仍配备天玑7300、七年软件支持、25W有线充电，并在美国提供5G版本，只是TFT屏、缺少实体指纹识别和不支持S Pen依然是明显短板。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-review-3650892/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T16:06:23+08:00"
+              "published_at": "2026-05-15T18:15:36+08:00"
             },
             {
-              "title": "谷歌解释为何部分新 Gmail 账号只有 5GB 存储空间",
-              "brief": "谷歌向 Android Authority 确认，正针对部分地区新创建的 Gmail 账号测试新的免费存储政策，一些账号仅提供 5GB 空间。公司称此举是为了持续提供高质量存储服务，并鼓励用户改善账号安全与数据恢复设置。现有 15GB 免费账号不会受影响，相关用户反馈多来自非洲国家，支持页面措辞也已从“15GB”改为“最高 15GB”。",
-              "source_url": "https://www.androidauthority.com/google-free-15gb-gmail-storage-ending-explanation-3667360/",
+              "title": "DJI Osmo Pocket 4P 正式亮相，但暂未开售",
+              "brief": "DJI在戛纳电影节正式展示了面向专业用户的Osmo Pocket 4P手持云台相机，但暂未公布上市信息。它是在上月发布单摄Osmo Pocket 4后亮相的新型号，意味着产品线进一步上探；目前官方确认4P采用双镜头，并强调具备新一代影像系统、10-bit D-Log2色彩和更好的防抖，不过第二颗镜头规格、价格和发售时间都仍未披露。",
+              "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4-official-reveal-3667429/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T15:08:11+08:00"
+              "published_at": "2026-05-15T18:13:24+08:00"
             },
             {
-              "title": "AYANEO 高价 Windows 掌机距离上市仅一步之遥",
-              "brief": "AYANEO更新了两款Windows掌机的发货安排，称售价1999美元的NEXT 2仍以6月出货为目标，原定4月发货的KONKR Fit也可能顺延到6月。此前两机都受内存供应危机影响，NEXT 2预售曾暂停，KONKR Fit亦错过原计划。公司表示NEXT 2关键部件已开始生产，6月初试产、6月中旬量产，同时仅接受意向咨询，暂无法保证新增用户一定拿到机器。",
-              "source_url": "https://www.androidauthority.com/ayaneo-windows-handhelds-update-3667332/",
+              "title": "一位三星粉丝为何更喜欢摩托罗拉 Razr",
+              "brief": "一篇评论文章认为，尽管2026款摩托罗拉Razr系列升级幅度不大且价格上涨，但相比三星近期的翻盖机策略更有吸引力。作者将其与Galaxy Z Flip 7对比，认为摩托罗拉硬件基础更强，因此即便延续上代芯片也更容易被接受；文中点名Razr Plus在同为1100美元起售价下，提供5000万像素超广角、更亮的165Hz 10-bit主屏、更大电池和45W有线充电。",
+              "source_url": "https://www.androidauthority.com/samsung-fan-love-2026-razr-lineup-why-3664686/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T14:45:44+08:00"
+              "published_at": "2026-05-15T18:00:27+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "安全研究人员称借助 Anthropic Mythos 攻破 macOS",
+              "brief": "安全研究人员称，在 Anthropic 的 Claude Mythos Preview 辅助下，他们已完成针对 macOS 的权限提升利用开发，可访问原本受限的 MacBook 区域并接管设备。研究团队来自帕洛阿尔托公司 Calif，已与苹果在 Apple Park 会面讨论此事，并计划在苹果修复相关漏洞和攻击路径后公开这项面向 M5 芯片的技术细节。",
+              "source_url": "https://www.engadget.com/2173543/security-researchers-anthropic-mythos-macos-exploit/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T18:35:55+08:00"
+            },
+            {
+              "title": "苹果据称测试英特尔 18A-P 工艺生产 iPhone 和 Mac 芯片",
+              "brief": "报道称苹果已启动基于英特尔 18A-P 工艺的自研芯片测试，目标是制造部分低端或旧款 iPhone、iPad 和 Mac 处理器。苹果此前主要依赖台积电代工，自 2020 年转向自研 Mac 芯片后更是如此，如今据称希望分散供应风险。郭明錤称 2026 年将进行测试生产，2027 年开始量产交付，即便初期顺利，台积电仍将承担约九成产能。",
+              "source_url": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T18:01:42+08:00"
+            },
             {
               "title": "ROG Xreal R1 AR 游戏眼镜开启预售，售价 849 美元",
               "brief": "华硕旗下ROG与Xreal联名的ROG Xreal R1 AR游戏眼镜已开启预售，售价849美元，5月17日也会在官网发售。该产品曾在CES亮相，定位高于售价649美元的Xreal One Pro，主要升级在于240Hz刷新率，并附带扩展坞，便于连接多台主机、PC等设备；其他核心规格仍为57度视场角，可在4米外投出171英寸虚拟屏幕，分辨率为1080p。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator/",
               "source_name": "Engadget",
               "published_at": "2026-05-15T05:55:48+08:00"
-            },
-            {
-              "title": "初代《毁灭战士》原声正式入藏美国国会图书馆",
-              "brief": "美国国会图书馆已将初代《毁灭战士》原声收入国家录音登记册，意味着这套游戏音乐将被正式长期保存。该原声由 Bobby Prince 为 id Software 创作，是 2026 年新增入选作品之一，也反映出游戏音乐在文化保存中的地位提升。馆方提到，这套作品融合金属、电子与氛围元素，且 Prince 还利用 MIDI 分配让音效能穿透音乐呈现。",
-              "source_url": "https://www.engadget.com/2173357/the-original-doom-soundtrack-is-officially-in-the-library-of-congress/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-15T05:43:05+08:00"
-            },
-            {
-              "title": "雷蛇更新 Blade 18：新芯片加持，顶配售价 7000 美元",
-              "brief": "雷蛇发布了更新版 Blade 18，外观变化不大，但内部升级到新一代芯片，顶配机型售价高达 7000 美元。该系列一直主打高性能大屏游戏本，因此这次更新重点仍放在算力而非机身设计。新机最高可选 Intel Core Ultra 9 290HX Plus、RTX 5090 和 128GB 内存，屏幕继续支持双模式切换，但电池容量仍维持在 99Wh。",
-              "source_url": "https://www.engadget.com/2173332/razer-updates-the-blade-18-with-new-chips-a-specced-out-model-costs-7000/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-15T05:17:40+08:00"
             }
           ]
         },
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《深海迷航2》12小时销量突破200万份",
+              "brief": "《深海迷航2》发售仅12小时销量已破200万，跨PC与Xbox平台同时在线峰值超过65.1万，其中Steam峰值逾46.7万，接近前作历史峰值的九倍。该作发售前已是Steam愿望单第一，系列累计销量达1850万份，并加入最多四人合作；尽管此前经历高层更替、奖金诉讼和发售前泄露，最终仍顺利上线，后续还将继续更新内容。",
+              "source_url": "https://www.ign.com/articles/subnautica-2-is-already-making-waves-selling-2-million-copies-in-just-12-hours",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T17:56:18+08:00"
+            },
+            {
+              "title": "彼得·杰克逊把《追捕咕噜》比作《小丑》：必须进入他的内心",
+              "brief": "彼得·杰克逊表示，《指环王：追捕咕噜》在创作思路上参考了华金·菲尼克斯主演的《小丑》，会从咕噜的内部视角讲述故事。影片由安迪·瑟金斯执导，设定为《指环王》前传，围绕阿拉贡受甘道夫之托多年追踪咕噜展开；杰克逊称自己不再执导，是因为这部关于咕噜心理与成瘾的个人化故事更适合由最了解角色的瑟金斯来拍。",
+              "source_url": "https://www.ign.com/articles/peter-jackson-compares-the-lord-of-the-rings-the-hunt-for-gollum-to-joaquin-phoenixs-joker-you-have-to-get-inside-his-head",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T17:39:24+08:00"
+            },
+            {
+              "title": "梁朝伟称曾就《尚气》动作设计与导演争论",
+              "brief": "梁朝伟透露，拍摄《尚气与十环传奇》初期，他曾就文武的打斗风格与导演争论，认为一个活了上千年的人物，招式应融合不同时代的武术积累，更像今天的综合格斗，而不是停留在观众熟悉的上世纪七十年代典型功夫呈现。导演则回应“这是漫威”，他随后没有再争；梁也表示，这类大片制作高效而严格，几乎不能即兴发挥，连台词都很难改动。",
+              "source_url": "https://www.ign.com/articles/shang-chi-actor-tony-leung-says-he-argued-with-the-director-about-the-film-just-copying-typical-kung-fu-in-the-70s",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T17:01:37+08:00"
+            },
+            {
+              "title": "《赤红沙漠》再推大型补丁，为徒手战斗加入“炫目闪击终结”",
+              "brief": "《赤红沙漠》发布1.07.00大型补丁，为克里夫的徒手战斗加入“炫目闪击终结”，让玩家在敌人眩晕时以慢动作连段打出高伤害，并以冲击波收尾。更新还加入更多可复战Boss、可登记为坐骑的狼与熊类型，并修复达米安妮“优雅黑红皮甲”显示异常；开发商称此前服装变化源于修正穿模时的无意改动，如今问题已解决。",
+              "source_url": "https://www.ign.com/articles/crimson-desert-gets-yet-another-major-patch-adds-blinding-flash-finisher-for-unarmed-combat-so-you-can-live-out-your-batman-fantasies",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T16:33:47+08:00"
+            },
+            {
               "title": "Xbox Elite 3手柄外观泄露",
               "brief": "一则泄露信息曝光了疑似Xbox Elite 3手柄的外观，显示其延续黑色机身并加入新设计。Elite系列面向重视自定义和精细操控的核心玩家，上一代Series 2于2019年发布，至今已有多年未更新。此次图片显示，手柄底部在麦克风接口旁新增两个滚轮，另据称会配备可拆卸充电电池，以及可在本地游玩与云模式间切换的新配对按钮。",
               "source_url": "https://www.ign.com/articles/xbox-elite-3-controller-leaks-online",
               "source_name": "IGN",
               "published_at": "2026-05-15T09:04:47+08:00"
-            },
-            {
-              "title": "《新蝙蝠侠2》：马特·里夫斯公布完整阵容，包括斯嘉丽·约翰逊和塞巴斯蒂安·斯坦",
-              "brief": "马特·里夫斯连续两天公布《新蝙蝠侠2》演员阵容，确认罗伯特·帕丁森等原班人马回归，并新增斯嘉丽·约翰逊、塞巴斯蒂安·斯坦等演员。该片已开发多年，外界一直关注续集故事走向与新角色安排。报道指出，里夫斯尚未确认新加盟演员的具体角色，但现有名单与哈维·登特、吉尔达·登特及登特家族相关传闻相互呼应，塞巴斯蒂安·科赫和布莱恩·泰里·亨利的加入尤其令人意外。",
-              "source_url": "https://www.ign.com/articles/the-batman-part-ii-cast-scarlett-johansson-sebastian-stan",
-              "source_name": "IGN",
-              "published_at": "2026-05-15T07:28:26+08:00"
-            },
-            {
-              "title": "《马拉松》公布全新PVE模式与未来规划",
-              "brief": "Bungie在一篇长篇博客中公布《马拉松》未来规划，最大亮点是第2赛季将加入实验性PVE模式，取消玩家对战，转而强调合作完成目标、对抗UESC机器人，并另推带有轻度PVP元素的玩法。此举旨在让游戏在高压竞技之外更易上手，同时保留紧张感；官方还表示纯PVP模式也在开发中，2026年会持续改进新手引导、前期体验和Perimeter等内容。",
-              "source_url": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future",
-              "source_name": "IGN",
-              "published_at": "2026-05-15T07:02:39+08:00"
-            },
-            {
-              "title": "Xbox 云游戏手柄泄露，体积相当小",
-              "brief": "巴西监管文件泄露了微软一款 Xbox 云游戏手柄，外形明显比常规 Xbox 手柄更小，尺寸接近 Joy-Con。此举对应微软持续加码云游戏、扩展电视与移动端等多设备使用场景。已曝光细节包括可充电电池、USB-C、蓝牙连接、黑白两色，以及完整按键、肩键和扳机布局。",
-              "source_url": "https://www.ign.com/articles/xboxs-cloud-gaming-controller-leaks-and-its-pretty-small",
-              "source_name": "IGN",
-              "published_at": "2026-05-15T06:42:53+08:00"
-            },
-            {
-              "title": "《权力的游戏》《星战》选角导演将主导下一任邦德遴选",
-              "brief": "丹尼尔·克雷格继任者的遴选工作已经启动，《邦德26》聘请妮娜·戈德担任选角导演，负责寻找新的 007 面孔。她因在《权力的游戏》《王冠》以及《星球大战》续集三部曲等项目中的选角工作知名，也以发掘新演员见长。现阶段片方未透露试镜细节，只表示会在合适时机向邦德影迷公布更多消息。",
-              "source_url": "https://www.ign.com/articles/nina-gold-casting-james-bond-26-auditions",
-              "source_name": "IGN",
-              "published_at": "2026-05-15T05:16:12+08:00"
             }
           ]
         },
@@ -454,6 +454,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "OpenAI与苹果合作关系恶化",
+              "brief": "据媒体披露，OpenAI正考虑就与苹果的合作合同追责，双方关系已明显恶化。背景是苹果过去一年持续引入更多人工智能伙伴，同时被OpenAI认为在Apple Intelligence中弱化并限制ChatGPT相关能力。该合作原本允许用户通过Siri调用ChatGPT处理复杂请求，但预期中的用户增长与订阅转化并未实现，知情人士称争议核心仍是两年前的协议条款。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562578.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T18:16:55+08:00"
+            },
+            {
+              "title": "未绑手机号的新Gmail账号免费存储或降至5GB",
+              "brief": "Google正在部分地区测试新的Gmail注册方案，未绑定手机号的新账号默认免费存储空间从15GB降至5GB。背景是公司将此举解释为提升账户安全和账号找回能力，因为用户补充手机号后可解锁剩余10GB。这部分空间仍与Google Drive和Google Photos共享。现阶段变化仅面向部分新用户，既有账号暂未下调，Google也尚未宣布是否全球推行。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562576.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T18:13:33+08:00"
+            },
+            {
               "title": "三星工会称下周仍将罢工 谈判待罢工结束后再进行",
               "brief": "三星电子最大工会表示，仍将按计划于下周举行罢工，并只会在6月7日罢工结束后再谈判。背景是劳资双方围绕半导体部门绩效奖金分配持续僵持，政府调解也未能破局。公司提出维持现有激励并调整奖金池算法，工会则要求按营业利润15%发放固定奖金并取消上限，工会称已有约4.1万人表达参与意向。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562574.htm",
@@ -473,20 +487,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562570.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-15T16:14:31+08:00"
-            },
-            {
-              "title": "通胀担忧重压全球市场 科技股回调 股债汇齐跌",
-              "brief": "通胀担忧再度升温，周五全球股市、债市和汇市同步承压，科技股回吐此前由英伟达带动的涨势。背景是霍尔木兹海峡局势迟迟无进展、能源供应忧虑推高油价，市场重新计入通胀与加息风险。美债长短端收益率齐升，美元周涨幅有望创两个月新高，日股、欧股、美股期货及新兴市场资产普遍走弱。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562568.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-15T16:14:24+08:00"
-            },
-            {
-              "title": "黄仁勋现身北京街头 逛南锣鼓巷并吃炸酱面、稻香村",
-              "brief": "文章显示，黄仁勋现身北京街头，并在南锣鼓巷活动，行程中包括吃炸酱面和到稻香村。现有内容聚焦这次公开露面的地点与餐食，没有展开更多背景或商务信息，核心细节仅包括他在北京街头被看到、到访南锣鼓巷，以及与炸酱面、稻香村相关的行程片段。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562566.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-15T16:13:01+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "网易《逆水寒》手游公布 3.3.4 童话版本，将推新老玩家追赶大礼包",
-              "brief": "网易宣布《逆水寒》手游将推出 3.3.4“童话”版本，并同步上线面向新老玩家的“追赶大礼包”，降低回归和入坑门槛。该版本加入与冷血同行的新剧情、首个奇境限时主题副本和全新萌宠，主打多周目叙事与浓缩挑战；玩家还可使用智能一键配装，并通过活动获得“怀珍令”领取毕业级神装，后续《逆水寒：新世界》将于 6 月 26 日上线。",
-              "source_url": "https://www.ithome.com/0/951/025.htm",
+              "title": "漫步者上架 HECATE G5M Ultra 三模鼠标，售价 299 元",
+              "brief": "漫步者上架 HECATE G5M Ultra 三模鼠标，定价299元。这款新品主打更高的可玩性与维护便利，官方称其搭载自研 Q-click 热插拔微动技术，用户无需焊接即可快速更换微动开关。鼠标同时配备 PAW3950 芯片，并提供三模连接，归入 HECATE 外设产品线。",
+              "source_url": "https://www.ithome.com/0/951/095.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T16:51:09+08:00"
+              "published_at": "2026-05-15T18:44:31+08:00"
             },
             {
-              "title": "2026 款长安逸动经典版上市：搭载新蓝鲸 1.5T，售价 8.79 万元",
-              "brief": "2026 款长安逸动经典版轿车现已上市，官方定价 8.79 万元，动力升级为新蓝鲸 1.5T 发动机。新车继续面向家用轿车市场，座舱配备 13.2 英寸中控屏和 10.25 英寸数字仪表，并提供 540°全景高清影像、6 扬声器和 6 安全气囊；车身尺寸为 4770×1840×1440 毫米，轴距 2765 毫米，发动机最大功率 141 千瓦、峰值扭矩 310 牛·米，WLTC 综合油耗低至 6.4 升 / 100 公里。",
-              "source_url": "https://www.ithome.com/0/951/024.htm",
+              "title": "亚马逊押注 AI 初见回报，市值逼近 3 万亿美元",
+              "brief": "亚马逊围绕人工智能的投入开始反映到资本市场表现，市值已升至2.9万亿美元，逼近3万亿美元关口。公司此前曾长期跑输主要指数，但投资者正重新评估其AI变现路径；自3月27日触底后股价已上涨36%。最新财报显示，AWS季度销售增速创三年多新高，围绕Trainium定制AI芯片还获得了超过2250亿美元收入承诺。",
+              "source_url": "https://www.ithome.com/0/951/094.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T16:48:28+08:00"
+              "published_at": "2026-05-15T18:42:19+08:00"
             },
             {
-              "title": "比亚迪辅助驾驶车型保有量超 299 万辆，天神之眼日生成数据超 1.9 亿公里",
-              "brief": "比亚迪披露，其搭载辅助驾驶功能的车型保有量已超过 299 万辆，“天神之眼”系统每天生成超过 1.9 亿公里数据。该数据反映出比亚迪在辅助驾驶车型规模上的持续扩张，也为系统训练和迭代提供基础；公司同时公布 4 月总销量 321123 辆，其中海外乘用车及皮卡销量 134542 辆，同比增长 70.9%，今年前 4 个月集团累计销量达 1021586 辆。",
-              "source_url": "https://www.ithome.com/0/951/022.htm",
+              "title": "消息称大疆 Pocket 4/4P 将以 Xtra 品牌在美国销售",
+              "brief": "消息称为规避美国销售禁令，大疆即将发布的 Pocket 4 和 Pocket 4P 云台相机将在美国市场以 Xtra 品牌销售。相关爆料同时补充了高配版 Pocket 4P 的配置方向，显示其延续1英寸主摄，并进一步强化拍摄能力。该机据称支持 f/1.7 至 f/2.8 可变光圈，新增等效70mm的3倍光学镜头，最高支持12倍混合变焦。",
+              "source_url": "https://www.ithome.com/0/951/093.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T16:47:06+08:00"
+              "published_at": "2026-05-15T18:39:07+08:00"
             },
             {
-              "title": "余承东：曾想仅用摄像头实现小物体避障，但最终放弃",
-              "brief": "余承东表示，华为曾尝试挑战不使用 896 线激光雷达、仅靠摄像头实现小物体识别和避障，但因摄像头能力有限最终放弃。相关表态围绕华为高规格激光雷达的技术取舍展开，目标是让车辆安全能力超越人类驾驶员；他称即便高分辨率摄像头也难以及早识别路面小物体，而 896 线双光路图像级激光雷达可远距离识别 14 厘米高物体，并提升对低反射率和异形障碍物的感知距离。",
-              "source_url": "https://www.ithome.com/0/951/021.htm",
+              "title": "XIKII INDUSTRY FF20 Series 机箱亮相",
+              "brief": "XIKII INDUSTRY 亮相 FF20 Series 机箱，并将其称为“小创世神”特别版。厂商表示，这款产品本质上是一套整合 CPU 与 GPU 散热的内核架构，可在此基础上扩展出多种主机形态。展示整机采用华硕 ROG STRIX X870-I 主板、夜神 ASTRAL RTX 5080 显卡、ROG Loki 850W SFX 电源，并搭载锐龙7 9800X3D处理器。",
+              "source_url": "https://www.ithome.com/0/951/092.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T16:44:36+08:00"
+              "published_at": "2026-05-15T18:38:20+08:00"
             },
             {
-              "title": "腾讯地图上线骑手模式：推荐少红灯路线，可提前看终点实景和门禁",
-              "brief": "腾讯地图上线面向外卖配送场景的“骑手模式”，可为骑手规划更高效的导航路线，并提前展示终点实景和门禁信息。该功能针对陌生小区、商场等复杂环境优化找路效率，减少绕行和等待；系统可将目标定位到楼栋或单元门，提示商场入口、电梯和楼层位置，还能基于骑行轨迹数据与路线规划 AI 模型推荐少红灯、少转弯路线，并按偏好避开台阶、天桥或地下通道。",
-              "source_url": "https://www.ithome.com/0/951/020.htm",
+              "title": "追觅推出 AI 录音名片 D・NOTE，售价 899 元起",
+              "brief": "追觅推出 AI 录音名片 D・NOTE，售价899元起，主打一键录音后由AI完成转写与总结，面向会谈记录和名片交换场景。产品重30克，支持中英日韩等145种语音识别，并内置1800多种中文模板，可按录音内容和角色习惯智能匹配总结。设备还支持说话人识别、最远5米拾音、最多识别35人，并可通过NFC传输电子名片。",
+              "source_url": "https://www.ithome.com/0/951/091.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T16:43:16+08:00"
+              "published_at": "2026-05-15T18:30:56+08:00"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "香港一季度经济强劲扩张",
-              "brief": "香港特区政府公布2026年第一季度本地生产总值修订数字，确认香港经济在一季度强劲扩张。官方表示，扩张动力主要来自对外贸易表现持续强劲，以及本地需求进一步增强，两项因素共同推动增速较上季加快。数据方面，实质本地生产总值按年增长5.9%，高于上一季度的4.0%；经季节性调整后按季比较，实质本地生产总值明显上升2.9%。",
-              "source_url": "https://36kr.com/newsflashes/3810302518386185?f=rss",
+              "title": "上交所本周重点监控中韩半导体ETF等高溢价基金",
+              "brief": "上交所披露，本周已对445起拉抬打压、虚假申报等证券异常交易行为采取自律监管措施。近期部分高溢价基金、退市风险警示股和严重异常波动个股交易活跃，因此被列为重点监控对象，涉及中韩半导体ETF、全球芯片LOF、*ST正平等，并对20起上市公司重大事项开展专项核查，向证监会上报1起涉嫌违法违规线索。",
+              "source_url": "https://36kr.com/newsflashes/3810423687929606?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 16:51:32  +0800"
+              "published_at": "2026-05-15 18:51:20  +0800"
             },
             {
-              "title": "久盛电气拟定增募资不超4.27亿元",
-              "brief": "久盛电气公告称，拟向特定对象发行A股股票募集资金，总额不超过4.27亿元。此次定增主要用于支持研发、产业化、智能工厂升级及补充经营资金，发行股票数量上限为8826.06万股。扣除发行费用后，募集资金将投向高温高电压井下电加热系统研发与产业化项目、电线电缆智能工厂升级改造建设项目，以及补充流动资金。",
-              "source_url": "https://36kr.com/newsflashes/3810299362516484?f=rss",
+              "title": "OpenAI与苹果合作关系急剧恶化",
+              "brief": "这则快讯标题称，OpenAI与苹果的合作关系正急剧恶化。但输入所附正文并未展开这项合作争议，而是写到另一家上市公司控制权变动、主营业务维持葡萄种植与葡萄酒生产销售，以及2025年营收3.63亿元、净亏损0.63亿元等内容。因此，当前可直接确认的信息仅有标题所示的双方关系恶化，未见更多合作细节。",
+              "source_url": "https://36kr.com/newsflashes/3810406934388227?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 16:47:53  +0800"
+              "published_at": "2026-05-15 18:45:13  +0800"
             },
             {
-              "title": "海南机场4月旅客吞吐量419.65万人次，同比增长4.77%",
-              "brief": "海南机场披露2026年4月运营数据，其中旅客吞吐量为419.65万人次，同比增长4.77%。这则快讯显示公司当月客流继续增长，为观察阶段性经营表现提供了直接数字参考。现有可确认的关键细节主要集中在统计时间、旅客吞吐量规模及同比增幅，给定内容未进一步展示更多起降架次或货邮吞吐量等扩展运营数据。",
-              "source_url": "https://36kr.com/newsflashes/3810298780638727?f=rss",
+              "title": "三连板威龙股份提示股价上涨缺乏盈利支撑风险",
+              "brief": "威龙股份公告称，公司近期三连板上涨，但当前股价缺乏盈利能力支撑。背景是公司虽发生控制权变动，受让方截至目前没有未来12个月内出售、合并、合资合作或资产重组计划，主营业务仍为酿酒葡萄种植及葡萄酒等生产销售；2025年度营收3.63亿元，同比下降18.36%，净利润亏损0.63亿元，由盈转亏。",
+              "source_url": "https://36kr.com/newsflashes/3810405589261828?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 16:42:18  +0800"
+              "published_at": "2026-05-15 18:39:53  +0800"
             },
             {
-              "title": "深交所向*ST荣控下发监管函",
-              "brief": "深交所已对*ST荣控下发监管函，表明交易所已就该公司相关事项发出正式监管文件。这则快讯目前可明确的核心信息包括监管主体为深交所、对象为*ST荣控，以及监管措施为下发监管函。给定内容未进一步展示监管函所涉事项、触发原因和具体要求，因此现阶段可准确保留的关键细节仅限上述已披露信息。",
-              "source_url": "https://36kr.com/newsflashes/3810289756790273?f=rss",
+              "title": "世运电路股东新豪国际拟减持不超过3%股份",
+              "brief": "世运电路公告称，股东新豪国际计划减持公司股份，减持数量不超过2161.78万股，占总股本3%。这是一则股东层面的减持安排，时间区间为2026年6月6日至2026年9月5日，拟通过集中竞价和大宗交易两种方式实施。输入正文仅披露了减持期限、方式和上限比例，未提供减持原因、价格区间及后续用途等更多说明。",
+              "source_url": "https://36kr.com/newsflashes/3810404664155654?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 16:38:07  +0800"
+              "published_at": "2026-05-15 18:34:01  +0800"
             },
             {
-              "title": "OpenAI首席财务官：公司或继续融资，未来或考虑公开市场",
-              "brief": "OpenAI首席财务官Sarah Friar表示，公司未来可能继续融资，并随着时间推移考虑通过公开市场筹资。她指出，近期1220亿美元融资为公司提供了很大选择空间，但后续融资仍将取决于市场需求、收入增长、现金流，以及所需计算能力与可承受能力之间的差距。她同时称，公开市场规模远大于私募市场，可提供更广泛的融资选择。",
-              "source_url": "https://36kr.com/newsflashes/3810287851249158?f=rss",
+              "title": "中钨高新子公司拟投1.83亿元扩产PCB高端微型精密刀具",
+              "brief": "中钨高新公告，控股子公司金洲公司拟实施印制电路板用高端微型精密刀具技改扩能项目。该项目面向PCB用高端刀具产能扩张，计划新增年产能1.5亿支，预计总投资1.83亿元，其中自有资金1.63亿元、银行借款0.2亿元。公司表示，项目建成后有助于巩固市场地位，并进一步提升盈利能力。",
+              "source_url": "https://36kr.com/newsflashes/3810403849641480?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 16:34:09  +0800"
+              "published_at": "2026-05-15 18:30:11  +0800"
             }
           ]
         }
