@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T18:54:29.254588+08:00",
+  "generated_at": "2026-05-15T20:58:41.605869+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Apple Watch：每位用户都该知道的15个技巧",
+              "brief": "MacRumors汇总了15个Apple Watch实用技巧，帮助新老用户更充分利用这款已发展到第十一代的设备。文章称，许多功能初看并不显眼，因此即使是长期佩戴者也可能错过。文中举例包括双击数码表冠在应用间切换、把应用改成列表视图并重新排列、用手表呼叫并闪光定位iPhone、跳过健身开始前的倒计时，以及把触感提醒调为更明显的模式。",
+              "source_url": "https://www.macrumors.com/guide/apple-watch-15-tips-need-to-know/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-15T19:07:47+08:00"
+            },
             {
               "title": "OpenAI 将 Codex 远程访问带到 ChatGPT 手机版",
               "brief": "OpenAI把Codex接入ChatGPT手机应用，让iPhone和Android用户可远程访问运行在Mac上的Codex会话，便于离开电脑后继续跟进编码任务。这项预览功能延续了Codex作为Mac独立应用的形态，移动端则嵌入现有ChatGPT应用。用户更新两端应用后扫码配对，即可在手机上查看实时状态、接续项目、接收通知，并审阅输出、批准命令、切换模型；文件、凭据和权限仍留在运行Codex的设备上。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/05/14/kuo-intel-iphone-ipad-mac-chips/",
               "source_name": "MacRumors",
               "published_at": "2026-05-15T02:48:09+08:00"
-            },
-            {
-              "title": "Nimble Wally Stretch 评测：自带伸缩 USB-C 线的多彩充电器",
-              "brief": "配件厂商 Nimble 推出的 Wally Stretch 充电器提供 35W 和 65W 两种功率，主打可折叠插脚、内置两英尺可伸缩 USB-C 线和额外 USB-C 接口。实测称，65W 版本虽比苹果 70W 充电器更厚，但长宽更小，并提供青绿色、深紫色等更醒目的配色；两英尺线长适合桌面和差旅，若需更长线缆则可接到底部额外接口，它还能为 16 英寸 MacBook Pro 轻负载供电并为多台设备快充。",
-              "source_url": "https://www.macrumors.com/review/nimble-wally-stretch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-15T02:47:31+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "为什么我用 Apple 日历而不是待办清单管理任务",
+              "brief": "作者解释自己为何长期用Apple日历而非传统待办清单管理任务。背景是他面对冗长的分类清单时，发现既难判断何时真正完成，也会暴露出任务总量远超可执行范围。于是他改为先按优先级估算每项所需时间，再把任务直接排进日历时段；这样重要事项更容易落地，不现实的条目也会被删除，临时变化时则通过拖动改期，并借助颜色分类查看日周月安排。",
+              "source_url": "https://9to5mac.com/2026/05/15/why-i-use-apple-calendar-and-not-a-to-do-list-as-my-task-manager/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-15T20:09:38+08:00"
+            },
             {
               "title": "Calif团队详解如何借助Anthropic Mythos在五天内做出可用的macOS漏洞利用",
               "brief": "安全研究团队Calif披露，他们借助Anthropic的Mythos Preview，在五天内构建出可运行的macOS漏洞利用。背景是苹果去年推出基于Arm MTE的MIE内存完整性防护，希望提高内存破坏攻击门槛，并已将其带到采用M5芯片的MacBook。Calif称，他们串联两个漏洞和多种技术实现内核内存破坏，进而访问本不应开放的区域，并放出了20秒演示视频。",
@@ -75,19 +82,19 @@
               "source_url": "https://9to5mac.com/2026/05/14/apple-cards-transition-to-chase-heres-whats-not-changing-and-might-be/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-15T04:26:07+08:00"
-            },
-            {
-              "title": "OpenAI 将 Codex 控制功能带到 iPhone 和 Android 版 ChatGPT",
-              "brief": "OpenAI 宣布把 Codex 的移动端控制功能加入 iPhone 和 Android 版 ChatGPT 应用，让用户离开电脑时也能继续查看和推进正在运行的编码任务。这一变化对应代理型工作时长变长后的协作需求，用户可在手机上回复问题、审阅结果、批准命令、切换模型或发起新任务；连接运行 Codex 的笔记本、Mac mini 或远程环境后，应用会同步线程、插件与项目上下文，截图、终端输出、diff 和测试结果也会实时回传。",
-              "source_url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-15T04:14:43+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "你喜欢 Pixel 和 Android 17 的新 3D 表情设计吗？",
+              "brief": "9to5Google 发布一则面向读者的投票，询问大家是否喜欢 Google 为 Pixel 与 Android 17 带来的全新 3D 表情设计。标题显示主题聚焦这套表情的视觉改版，配文则将其放在 The Android Show 后续报道语境中，并提到 Gemini Intelligence、Googlebooks 等更多发布。关键信息是文章并非公布完整功能细节，而是围绕新设计收集用户偏好。",
+              "source_url": "https://9to5google.com/2026/05/15/google-android-17-3d-emoji-poll/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-15T20:15:00+08:00"
+            },
             {
               "title": "谷歌电话和系统拨号器可显示第三方应用通话记录",
               "brief": "谷歌电话应用和其他系统拨号器已可显示来自第三方应用的通话记录，用户能在统一通话历史中看到这些通话并直接发起回拨。这项能力面向 VoIP 应用，目的是把系统电话与应用通话整合到同一入口，同时加入更细的隐私控制。关键细节是 Android 16.1 需启用 include_voip_calls 参数，Android 17 则提供正式的专用 URI、参数键，并支持来电者与参与者头像。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5toys.com/2026/05/14/todays-highlight-android-app-price-drops/",
               "source_name": "9to5Google",
               "published_at": "2026-05-15T01:20:03+08:00"
-            },
-            {
-              "title": "YouTube 即将支持在电视上观看视频时购买商品",
-              "brief": "YouTube 宣布将推出电视端购物功能，用户今后在电视上观看视频时也能直接下单购买商品。该更新属于 Brandcast 2026 面向品牌与广告主公布的一批新工具，重点是把发现到结账的路径继续缩短。官方给出的关键细节是，Buy with Google Pay 可让观众在联网电视上只用两次点击完成购买。",
-              "source_url": "https://9to5google.com/2026/05/14/youtube-buy-products-tv-brandcast-updates/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-15T00:55:00+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Meta 为 Ray-Ban 智能眼镜推出静默发短信新功能",
-              "brief": "Meta今日为Ray-Ban Display智能眼镜推送多项新功能，其中最受关注的是向所有用户开放“神经手写”输入。这项能力在产品发布时就已预告，之后仅向部分用户早测，如今正式普及；眼镜可配合Neural Band，通过细微手指动作在Instagram、WhatsApp、Messenger及安卓和iPhone原生短信应用中写消息，同时还新增一键录制显示画面、相机视角与音频、美国步行导航、更多应用实时字幕和开发者预览。",
-              "source_url": "https://www.androidauthority.com/meta-ray-ban-display-neural-handwriting-3667458/",
+              "title": "Pixel“代接留言”功能扩展至印度",
+              "brief": "谷歌 Pixel 的“代接留言”功能在印度被发现上线，显示全球扩张正在推进。此前 APK 拆解已发现相关线索，如今有印度用户在 Pixel 10 Pro XL 上看到提示；该用户加入了 Phone 和 Google Play 服务测试版，功能可能还受服务器端开关控制。它会在未接来电时提示对方留言，并实时转写内容，帮助用户判断是否立即接听。",
+              "source_url": "https://www.androidauthority.com/google-pixel-take-a-message-expansion-india-3667502/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T18:35:11+08:00"
+              "published_at": "2026-05-15T20:51:16+08:00"
             },
             {
-              "title": "安卓端 Gemini 换上新图标，并增强音频分享能力",
-              "brief": "Gemini安卓版最新更新带来新的应用图标，并开始支持从Android分享菜单直接接收音频文件。此次变化延续了Google在2026年Android Show:I/O Edition上展示的Gemini Intelligence相关界面调整；新图标只是渐变配色细修，黄色和红色占比更高，另有代号“Luminous Design”的细线部件图标已在应用中被发现，主要面向Gemini小组件，但目前尚未正式上线。",
-              "source_url": "https://www.androidauthority.com/gemini-android-audio-sharing-luminous-design-apk-teardown-3667449/",
+              "title": "Gmail 最新存储调整为何引发不满",
+              "brief": "谷歌正测试 Gmail 存储规则调整：部分地区新用户初始仅有 5GB 云存储，需向账号添加手机号后才能恢复完整 15GB 配额，因此引发争议。谷歌向 Android Authority 证实了这项测试，并称此举旨在提供“高质量的存储体验”，同时鼓励用户加强账号保护与数据恢复；但文中指出，备用邮箱、恢复联系人、通行密钥等也是现有替代方案。",
+              "source_url": "https://www.androidauthority.com/gmail-latest-storage-change-5gb-opinion-3667336/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T18:26:06+08:00"
+              "published_at": "2026-05-15T20:22:25+08:00"
             },
             {
-              "title": "三星 Galaxy Tab A11 Plus：小众预算平板中的优先选择",
-              "brief": "三星Galaxy Tab A11 Plus被评为预算安卓平板中表现最好的机型之一，但提升幅度有限。文章指出，它基本沿用两年前Galaxy Tab A9 Plus的方案，说明三星在入门平板上的更新相当保守；不过它仍配备天玑7300、七年软件支持、25W有线充电，并在美国提供5G版本，只是TFT屏、缺少实体指纹识别和不支持S Pen依然是明显短板。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-review-3650892/",
+              "title": "RayNeo Air 4 Pro：大体做对了的入门 AR 眼镜",
+              "brief": "RayNeo 推出了售价 299 美元的 Air 4 Pro AR 眼镜，文章认为它是面向入门用户的便携私人观影方案。它不运行应用，也不直接接入 AI 助手，而是通过 USB-C 从多种设备播放音视频；优点包括价格相对亲民、画质不错、机身轻便和即插即用，但也缺少更高级功能，视野边缘偶有发糊，且部分功能不兼容 Pixel 手机。",
+              "source_url": "https://www.androidauthority.com/rayneo-air-4-pro-review-3659545/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T18:15:36+08:00"
+              "published_at": "2026-05-15T20:00:37+08:00"
             },
             {
-              "title": "DJI Osmo Pocket 4P 正式亮相，但暂未开售",
-              "brief": "DJI在戛纳电影节正式展示了面向专业用户的Osmo Pocket 4P手持云台相机，但暂未公布上市信息。它是在上月发布单摄Osmo Pocket 4后亮相的新型号，意味着产品线进一步上探；目前官方确认4P采用双镜头，并强调具备新一代影像系统、10-bit D-Log2色彩和更好的防抖，不过第二颗镜头规格、价格和发售时间都仍未披露。",
-              "source_url": "https://www.androidauthority.com/dji-osmo-pocket-4-official-reveal-3667429/",
+              "title": "两款新 Xbox 手柄泄露，其中一款明显更小巧",
+              "brief": "巴西媒体 Tecnoblog 披露的监管文件图像显示，微软有两款未发布的 Xbox 手柄曝光，包括一款面向云游戏的小型手柄和疑似 Xbox Elite Series 3。小型型号保留按键布局，但机身更紧凑，并据称支持蓝牙 5.3 及 2.4GHz、5GHz 直连 Wi‑Fi，可连接 Xbox Cloud Gaming 服务器，以降低延迟。",
+              "source_url": "https://www.androidauthority.com/xbox-cloud-gaming-controller-leaked-3667495/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T18:13:24+08:00"
+              "published_at": "2026-05-15T19:50:09+08:00"
             },
             {
-              "title": "一位三星粉丝为何更喜欢摩托罗拉 Razr",
-              "brief": "一篇评论文章认为，尽管2026款摩托罗拉Razr系列升级幅度不大且价格上涨，但相比三星近期的翻盖机策略更有吸引力。作者将其与Galaxy Z Flip 7对比，认为摩托罗拉硬件基础更强，因此即便延续上代芯片也更容易被接受；文中点名Razr Plus在同为1100美元起售价下，提供5000万像素超广角、更亮的165Hz 10-bit主屏、更大电池和45W有线充电。",
-              "source_url": "https://www.androidauthority.com/samsung-fan-love-2026-razr-lineup-why-3664686/",
+              "title": "Pixel 与 Galaxy Watch 用户抱怨 YouTube Music 播放故障，现已修复",
+              "brief": "Wear OS 版 YouTube Music 此前在部分 Pixel Watch 和 Galaxy Watch 上出现离线播放故障，下载的播放列表常常只播第一首就停止。问题发生时，下一首与更多按钮会变灰，用户无法继续切歌；谷歌于 2026 年 5 月 15 日回应称，该问题仅影响少量用户，目前已修复，用户通常无需额外操作。",
+              "source_url": "https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-15T18:00:27+08:00"
+              "published_at": "2026-05-15T19:30:22+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "英国税务机关将借助 AI 识别欺诈",
+              "brief": "英国税务海关总署宣布与英国科技公司Quantexa签署为期10年的合作协议，利用AI识别税务欺诈和报税错误。此举旨在把HMRC已收集的数据与其他来源整合，帮助发现欺诈、纠正无意失误、识别试图隐藏违规的个人或企业，并找回因参考编号填错而被误记的合法纳税款；合同金额为1.75亿英镑，AI结论仍将由人工复核。",
+              "source_url": "https://www.engadget.com/2173575/uk-tax-authority-turning-to-ai-fraud-detection/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T20:08:12+08:00"
+            },
+            {
+              "title": "Bose Lifestyle Ultra Speaker 评测：多用途家用音箱，但也有取舍",
+              "brief": "Bose推出售价299美元的Lifestyle Ultra Speaker，定位为可接入Wi-Fi的家用音频新品，可用于多房间系统或家庭影院组合。评测认为它在语音清晰度、外观设计、安装便利性和客厅场景适配上表现不错，但低频力度不足，播放更响或更复杂的音乐时偶有发糊，立体声配对连接及多房间支持也存在限制。",
+              "source_url": "https://www.engadget.com/2173477/bose-lifestyle-ultra-speaker-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T20:00:00+08:00"
+            },
+            {
+              "title": "Google 预告基于 Android 的 Googlebook 笔记本",
+              "brief": "谷歌在2026年Android Show上提前预告名为Googlebook的新型高端笔记本品类，并公布一批围绕Gemini的系统更新。这类设备并非Chromebook，也不是谷歌自研硬件，首批将由宏碁、华硕、戴尔、惠普和联想于今秋推出；同时谷歌还展示了跨应用多步骤自动化、安全防护改进以及更顺畅的iPhone转Android迁移。",
+              "source_url": "https://www.engadget.com/2173553/the-morning-after-google-android-laptop-googlebook/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-15T19:05:16+08:00"
+            },
             {
               "title": "安全研究人员称借助 Anthropic Mythos 攻破 macOS",
               "brief": "安全研究人员称，在 Anthropic 的 Claude Mythos Preview 辅助下，他们已完成针对 macOS 的权限提升利用开发，可访问原本受限的 MacBook 区域并接管设备。研究团队来自帕洛阿尔托公司 Calif，已与苹果在 Apple Park 会面讨论此事，并计划在苹果修复相关漏洞和攻击路径后公开这项面向 M5 芯片的技术细节。",
@@ -181,33 +202,26 @@
               "source_url": "https://www.engadget.com/2173529/apple-reportedly-testing-intel-18a-p-for-apple-silicon/",
               "source_name": "Engadget",
               "published_at": "2026-05-15T18:01:42+08:00"
-            },
-            {
-              "title": "ROG Xreal R1 AR 游戏眼镜开启预售，售价 849 美元",
-              "brief": "华硕旗下ROG与Xreal联名的ROG Xreal R1 AR游戏眼镜已开启预售，售价849美元，5月17日也会在官网发售。该产品曾在CES亮相，定位高于售价649美元的Xreal One Pro，主要升级在于240Hz刷新率，并附带扩展坞，便于连接多台主机、PC等设备；其他核心规格仍为57度视场角，可在4米外投出171英寸虚拟屏幕，分辨率为1080p。",
-              "source_url": "https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-15T15:30:00+08:00"
-            },
-            {
-              "title": "xAI 推出名为 Grok Build 的编码代理",
-              "brief": "xAI推出名为Grok Build的编码代理，并将其描述为面向专业软件工程和复杂编码工作的强大新CLI工具，目前处于早期测试阶段。此举旨在与Anthropic的Claude Code等竞品竞争，也显示xAI仍在追赶OpenAI和Anthropic；马斯克此前承认公司在编程能力上落后。现阶段该测试版仅向每月支付300美元的SuperGrok Heavy订阅者开放，用户可从官网安装后登录使用，xAI称将根据反馈继续改进。",
-              "source_url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-15T14:08:00+08:00"
-            },
-            {
-              "title": "Xbox Elite Controller 3 遭巴西监管机构泄露",
-              "brief": "巴西监管机构 Anatel 疑似提前公开了 Xbox Elite Controller 3 的图片与规格，相关内容随后被当地媒体 Tecnoblog 披露，并被 The Verge 等进一步传播。由于 Xbox Elite 手柄自 2019 年推出第二代后一直未有硬件更新，这次泄露格外引人关注。流出的信息称，新品配有底部双滚轮、前置配对键、重新设计的十字键，并可能改用可拆卸充电电池。",
-              "source_url": "https://www.engadget.com/2173365/xbox-elite-controller-3-leaked-by-brazilian-regulator/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-15T05:55:48+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "X同意在英国打击非法仇恨与恐怖内容",
+              "brief": "英国网络安全监管机构Ofcom表示，已接受X提出的新承诺，以更好保护英国用户免于看到平台上的非法仇恨和恐怖内容。根据协议，X将限制英国境内被举报发布非法恐怖内容且被认定由英国恐怖组织运营的账号访问，并承诺在最多48小时内评估至少85%的相关举报，未来12个月还将按季度向Ofcom提交绩效数据。",
+              "source_url": "https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments",
+              "source_name": "The Verge",
+              "published_at": "2026-05-15T08:40:47-04:00"
+            },
+            {
+              "title": "AI研究论文越来越像样，这对科学家是个大问题",
+              "brief": "越来越多由AI生成的科研论文正涌入期刊编辑和同行评审流程，而且质量提升到几乎难以识别，给科学界带来新的筛选压力。报道以苏黎世大学研究人员彼得·德根的经历为例：他发现自己2017年一篇论文被异常高频引用，这些论文多围绕公开的全球疾病负担数据集，批量产出各类预测研究，显示AI论文“灌水”问题正在扩散。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+              "source_name": "The Verge",
+              "published_at": "2026-05-15T07:00:00-04:00"
+            },
             {
               "title": "本田用新雅阁和RDX原型车开启混动布局",
               "brief": "本田在年度业务说明会上发布两款混动原型车，分别是雅阁轿车和讴歌RDX SUV，标志其下一代混动产品开始落地。此举伴随公司下调电动车销售目标，并把更多研发和产能转向混动。两车基于将于明年投放的平台，其中RDX是首款搭载新一代双电机混动系统的SUV，也是到2030年前计划推出的15款新混动车型中的首批产品。",
@@ -228,26 +242,26 @@
               "source_url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-05-14T17:38:45-04:00"
-            },
-            {
-              "title": "Meta为Meta Ray-Ban Display眼镜全面开放虚拟书写",
-              "brief": "Meta向全部Meta Ray-Ban Display用户开放“虚拟书写”，用户可仅凭手势输入消息。该功能依赖设备附带的神经腕带，此前仅在1月对WhatsApp和Messenger开放早期体验。现在它已扩展到更多消息应用，包括Instagram及安卓和iOS原生消息，并新增可录制镜片显示、现实画面和环境音频的“显示录制”功能。",
-              "source_url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
-              "source_name": "The Verge",
-              "published_at": "2026-05-14T17:08:46-04:00"
-            },
-            {
-              "title": "马斯克案庭审中的“jackass”奖杯",
-              "brief": "在马斯克诉奥特曼案庭审中，一座写有“Never stop being a jackass”的奖杯被带进法庭，但陪审团并未见到。法官要求律师向媒体读出铭文后，报道说明它是OpenAI员工送给研究科学家Josh Achiam的纪念物，缘于马斯克离开OpenAI前在AI安全分歧中称他为“jackass”。插曲由此进入围绕非营利合同法的审理现场。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-              "source_name": "The Verge",
-              "published_at": "2026-05-14T16:59:23-04:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "理想通勤车？Velotric Discover 3 给出答案",
+              "brief": "试骑体验显示，Velotric的Discover 3是一款少见兼顾价格与体验的通勤电助力车。通勤车型常在低价位因妥协影响骑感，高端产品又往往接近专业车价格，这款第三代车型则瞄准两者之间的空缺，延续品牌自Discover 1以来的升级路线。它定价略低于2000美元，主打舒适骑行，配备定制中置电机和禧玛诺新款Cues组件。",
+              "source_url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-15T19:00:44+08:00"
+            },
+            {
+              "title": "Claude Code 产品负责人谈使用限制、透明度与“轻量护栏”",
+              "brief": "Anthropic的Claude Code产品负责人Cat Wu表示，这款代理式开发工具目前没有长期路线图。原因是模型能力、开发者需求与使用场景变化太快，预先制定宏大计划很容易失效。她是在旧金山Code with Claude 2026会上接受采访时作出这番说明；此前公司刚宣布将Pro和Max套餐的使用上限翻倍，以回应近期算力紧张和用户不满。",
+              "source_url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-15T18:30:01+08:00"
+            },
             {
               "title": "研究发现男性比女性更常使用“气泡音”",
               "brief": "麦吉尔大学研究生珍妮·布朗在本周美国声学学会费城会议上报告称，常被视为年轻女性说话标志的“气泡音”其实在男性中更常见。尽管布兰妮·斯皮尔斯等流行文化例子长期强化了这一印象，她的实验结果认为，这种偏见更多是社会建构出的感知误差，而非女性实际更常使用。文中还解释，气泡音属于人类最低声区，常见于句尾，由声带松弛后不规则振动产生。",
@@ -268,20 +282,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-15T03:27:50+08:00"
-            },
-            {
-              "title": "能源供应商弃供太浩湖居民，转向数据中心",
-              "brief": "太浩湖地区必须在 2027 年 5 月前寻找新的电力来源，因为内华达公用事业公司 NV Energy 将停止向当地供电。此举影响加州一侧约 4.9 万居民，背景是北内华达数据中心快速扩张推高用电需求；当地供应商 Liberty Utilities 目前有 75% 电力来自 NV Energy，而后者文件显示，仅十多个数据中心项目到 2033 年就可能新增 5900 兆瓦需求。",
-              "source_url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-15T03:17:28+08:00"
-            },
-            {
-              "title": "AMD 将把改进版 FSR 4 带到旧款 GPU",
-              "brief": "AMD 宣布，原本只限 RDNA4 和 Radeon RX 9000 系列的 FSR 4 终于将扩展到更老的显卡。此举意味着改进后的硬件辅助超分技术不再只服务少数新卡；7 月将先支持 RDNA3 和 3.5，包括 RX 7000 系列及 Radeon 890M、8060S 等核显，2027 年初再覆盖 RDNA2，包括 RX 6000、Radeon 680M 和 Steam Deck，但性能损失可能更明显。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-15T02:55:54+08:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《星球大战：旧共和国》总监詹姆斯·奥伦谈离开 BioWare：EA 曾否决“新共和国”重启计划",
+              "brief": "《星球大战：旧共和国》负责人詹姆斯·奥伦在采访中回顾自己离开 BioWare 和 Archetype 的原因，并透露一项以“新共和国”为名重启《旧共和国》的计划最终被 EA 否决。奥伦在 BioWare 工作 22 年，曾参与《博德之门》《无冬之夜》《旧共和国武士》等作品；他表示多年担任工作室领导让自己长期透支，健康、个人生活和创作状态都受到影响。",
+              "source_url": "https://www.ign.com/articles/star-wars-the-old-republic-director-james-ohlen-discusses-bioware-exit-after-ea-killed-new-republic-reboot",
+              "source_name": "IGN",
+              "published_at": "2026-05-15T18:39:33+08:00"
+            },
             {
               "title": "《深海迷航2》12小时销量突破200万份",
               "brief": "《深海迷航2》发售仅12小时销量已破200万，跨PC与Xbox平台同时在线峰值超过65.1万，其中Steam峰值逾46.7万，接近前作历史峰值的九倍。该作发售前已是Steam愿望单第一，系列累计销量达1850万份，并加入最多四人合作；尽管此前经历高层更替、奖金诉讼和发售前泄露，最终仍顺利上线，后续还将继续更新内容。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/crimson-desert-gets-yet-another-major-patch-adds-blinding-flash-finisher-for-unarmed-combat-so-you-can-live-out-your-batman-fantasies",
               "source_name": "IGN",
               "published_at": "2026-05-15T16:33:47+08:00"
-            },
-            {
-              "title": "Xbox Elite 3手柄外观泄露",
-              "brief": "一则泄露信息曝光了疑似Xbox Elite 3手柄的外观，显示其延续黑色机身并加入新设计。Elite系列面向重视自定义和精细操控的核心玩家，上一代Series 2于2019年发布，至今已有多年未更新。此次图片显示，手柄底部在麦克风接口旁新增两个滚轮，另据称会配备可拆卸充电电池，以及可在本地游玩与云模式间切换的新配对按钮。",
-              "source_url": "https://www.ign.com/articles/xbox-elite-3-controller-leaks-online",
-              "source_name": "IGN",
-              "published_at": "2026-05-15T09:04:47+08:00"
             }
           ]
         },
@@ -454,6 +454,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "中国首款甘蓝型油菜20K固相基因芯片问世",
+              "brief": "我国首款甘蓝型油菜20K固相基因芯片“中芯油1号”面世，可将育种周期从过去约10年缩短到最快3年。该芯片经历长期高失败率攻关，并在产学研合作下于2024年打通点制工艺，2025年进一步把关键基因位点扩展至2万个，现已搭载17000余个背景标记和1500余个功能位点，单次检测约25元，72小时内可出结果。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562582.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T20:29:29+08:00"
+            },
+            {
+              "title": "苹果突然官降，iPhone 17 Pro二手价反超新机",
+              "brief": "苹果官方及电商平台下调iPhone 17 Pro售价，部分渠道256GB版本叠加优惠后已降至约7699元，带动平台热度上升。此次突然官降发生在618前夕，也让二手市场价格短时倒挂。5月15日，得物等平台上该机型部分二手机成交均价仍在8000元左右，高于官方新机价，黄牛回收价也从前一日约8200元跌至最高7700元，且仍在快速波动。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562580.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-15T20:26:09+08:00"
+            },
+            {
               "title": "OpenAI与苹果合作关系恶化",
               "brief": "据媒体披露，OpenAI正考虑就与苹果的合作合同追责，双方关系已明显恶化。背景是苹果过去一年持续引入更多人工智能伙伴，同时被OpenAI认为在Apple Intelligence中弱化并限制ChatGPT相关能力。该合作原本允许用户通过Siri调用ChatGPT处理复杂请求，但预期中的用户增长与订阅转化并未实现，知情人士称争议核心仍是两年前的协议条款。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562578.htm",
@@ -473,20 +487,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1562574.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-15T16:14:58+08:00"
-            },
-            {
-              "title": "报道称SpaceX拟于下月推进IPO 马斯克设控制权安排防被罢免",
-              "brief": "报道称，SpaceX正讨论以下月IPO募资约750亿美元、估值约1.75万亿美元的方案。背景是马斯克在特斯拉薪酬争议及OpenAI控制权受挫后，正为公司设计更强控制架构。保密S-1显示，他将通过高投票权B类股掌握超过80%表决权，仅B类股东可罢免其，并配套强制仲裁和与估值、火星目标挂钩的额外授股机制。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562572.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-15T16:14:41+08:00"
-            },
-            {
-              "title": "xAI除马斯克外创始人已全部离职 逾50名研发人员出走",
-              "brief": "报道称，除马斯克外，xAI联合创始人已全部离开，公司今年还有50多名研发人员出走。背景是SpaceX收购xAI后持续重组，并将其更名为SpaceXAI，外界开始质疑其是否仍坚持自研顶尖大模型。离职波及代码模型、世界模型和语音等团队负责人，知情人士称高强度加班、七天到岗和激进期限是主要诱因。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1562570.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-15T16:14:31+08:00"
             }
           ]
         },
@@ -494,39 +494,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "漫步者上架 HECATE G5M Ultra 三模鼠标，售价 299 元",
-              "brief": "漫步者上架 HECATE G5M Ultra 三模鼠标，定价299元。这款新品主打更高的可玩性与维护便利，官方称其搭载自研 Q-click 热插拔微动技术，用户无需焊接即可快速更换微动开关。鼠标同时配备 PAW3950 芯片，并提供三模连接，归入 HECATE 外设产品线。",
-              "source_url": "https://www.ithome.com/0/951/095.htm",
+              "title": "青岛移动联合华为完成千站级5G-A智能网络规模升级",
+              "brief": "青岛移动联合华为完成千站级5G-A智能网络规模升级，覆盖李村、五四广场等青岛核心地标片区，面向商圈、居民区和滨海景区推进新一代网络演进。此次升级依托无线基站智能化方案，实现700M、2.6G、4.9G多频段协同组网，并通过业务识别与精细调度，提升直播、高清视频、视频会议和移动办公等场景体验，实测直播速率近乎翻倍，会议类业务时延达标率超98%，卡顿次数和时长减少86%。",
+              "source_url": "https://www.ithome.com/0/951/119.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T18:44:31+08:00"
+              "published_at": "2026-05-15T20:51:15+08:00"
             },
             {
-              "title": "亚马逊押注 AI 初见回报，市值逼近 3 万亿美元",
-              "brief": "亚马逊围绕人工智能的投入开始反映到资本市场表现，市值已升至2.9万亿美元，逼近3万亿美元关口。公司此前曾长期跑输主要指数，但投资者正重新评估其AI变现路径；自3月27日触底后股价已上涨36%。最新财报显示，AWS季度销售增速创三年多新高，围绕Trainium定制AI芯片还获得了超过2250亿美元收入承诺。",
-              "source_url": "https://www.ithome.com/0/951/094.htm",
+              "title": "国铁12306：1至4月累计开行旅游列车1020列",
+              "brief": "国铁12306称，铁路部门积极对接各地文旅需求，今年1至4月累计开行旅游列车1020列，覆盖贵州、云南、山东等30多个旅游胜地，跨区域线路串联沿线景观。此举旨在拓展铁路与文旅融合的出行场景，后续还将打造“铁路+”消费新场景，围绕赛事、展会、演艺和研学等需求，定制化加开球迷专列、歌迷专列和研学专列，吸引新兴客流并带动沿线文旅消费。",
+              "source_url": "https://www.ithome.com/0/951/118.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T18:42:19+08:00"
+              "published_at": "2026-05-15T20:50:18+08:00"
             },
             {
-              "title": "消息称大疆 Pocket 4/4P 将以 Xtra 品牌在美国销售",
-              "brief": "消息称为规避美国销售禁令，大疆即将发布的 Pocket 4 和 Pocket 4P 云台相机将在美国市场以 Xtra 品牌销售。相关爆料同时补充了高配版 Pocket 4P 的配置方向，显示其延续1英寸主摄，并进一步强化拍摄能力。该机据称支持 f/1.7 至 f/2.8 可变光圈，新增等效70mm的3倍光学镜头，最高支持12倍混合变焦。",
-              "source_url": "https://www.ithome.com/0/951/093.htm",
+              "title": "Epic游戏商城开启2026年度大特卖，6月11日结束",
+              "brief": "Epic游戏商城已开启2026年度“大特卖”促销活动，活动将持续至6月11日，期间还会继续发放免费游戏。作为本周限时赠送内容，《Telltale 蝙蝠侠：暗影版》可在2026年5月21日23点前领取。此次促销延续了Epic以折扣与“喜加一”结合吸引玩家的常见做法，文中未披露更多具体折扣清单，仅明确了大促时间安排和当前免费游戏的领取截止时间。",
+              "source_url": "https://www.ithome.com/0/951/117.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T18:39:07+08:00"
+              "published_at": "2026-05-15T20:44:54+08:00"
             },
             {
-              "title": "XIKII INDUSTRY FF20 Series 机箱亮相",
-              "brief": "XIKII INDUSTRY 亮相 FF20 Series 机箱，并将其称为“小创世神”特别版。厂商表示，这款产品本质上是一套整合 CPU 与 GPU 散热的内核架构，可在此基础上扩展出多种主机形态。展示整机采用华硕 ROG STRIX X870-I 主板、夜神 ASTRAL RTX 5080 显卡、ROG Loki 850W SFX 电源，并搭载锐龙7 9800X3D处理器。",
-              "source_url": "https://www.ithome.com/0/951/092.htm",
+              "title": "国内航线燃油附加费明起上调：短途涨30元，长途涨50元",
+              "brief": "国内航线燃油附加费将自明日起上调，800公里含以下航段收取60元，800公里以上航段收取120元，较现行标准分别增加30元和50元。此次调整适用于中国内地航线客票，婴儿旅客免收，儿童、按民航规定享受优惠的革命伤残军人和因公致残人民警察减半收取。5月15日含前销售的客票若在5月16日含后变更，不按新标准补收差价。",
+              "source_url": "https://www.ithome.com/0/951/116.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T18:38:20+08:00"
+              "published_at": "2026-05-15T20:38:03+08:00"
             },
             {
-              "title": "追觅推出 AI 录音名片 D・NOTE，售价 899 元起",
-              "brief": "追觅推出 AI 录音名片 D・NOTE，售价899元起，主打一键录音后由AI完成转写与总结，面向会谈记录和名片交换场景。产品重30克，支持中英日韩等145种语音识别，并内置1800多种中文模板，可按录音内容和角色习惯智能匹配总结。设备还支持说话人识别、最远5米拾音、最多识别35人，并可通过NFC传输电子名片。",
-              "source_url": "https://www.ithome.com/0/951/091.htm",
+              "title": "华为Pura 90 Pro系列获鸿蒙HarmonyOS 6.1.0.120 SP30升级",
+              "brief": "华为Pura 90 Pro系列开始推送鸿蒙HarmonyOS 6.1.0.120 SP30更新，新增3D影像壁纸、截屏直达服务等功能，并同步更新系统扩展特性。此次升级还扩展了相机与图库能力，包括小艺慧拍、文档矫正、贴纸编辑、涂鸦标注和更多文字样式，同时优化XMAGE智拍、夜景与红枫相机色彩、防抖和预览效果，并新增通知铃声音量条，支持与来电铃声音量独立调节，更新将分批推送。",
+              "source_url": "https://www.ithome.com/0/951/115.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-15T18:30:56+08:00"
+              "published_at": "2026-05-15T20:37:24+08:00"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "上交所本周重点监控中韩半导体ETF等高溢价基金",
-              "brief": "上交所披露，本周已对445起拉抬打压、虚假申报等证券异常交易行为采取自律监管措施。近期部分高溢价基金、退市风险警示股和严重异常波动个股交易活跃，因此被列为重点监控对象，涉及中韩半导体ETF、全球芯片LOF、*ST正平等，并对20起上市公司重大事项开展专项核查，向证监会上报1起涉嫌违法违规线索。",
-              "source_url": "https://36kr.com/newsflashes/3810423687929606?f=rss",
+              "title": "美股大型科技股盘前多数下跌，英特尔跌逾5%",
+              "brief": "美股大型科技股在盘前交易中整体走弱，截至发稿，英特尔跌超5%，为名单中跌幅最大个股；英伟达跌超3%，特斯拉跌超2%，苹果、亚马逊、谷歌和Meta均跌超1%。这一时点的盘前报价显示，在列出的主要科技公司中，除微软上涨0.38%外，其余个股均录得不同程度跌幅。",
+              "source_url": "https://36kr.com/newsflashes/3810550979436293?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 18:51:20  +0800"
+              "published_at": "2026-05-15 20:52:54  +0800"
             },
             {
-              "title": "OpenAI与苹果合作关系急剧恶化",
-              "brief": "这则快讯标题称，OpenAI与苹果的合作关系正急剧恶化。但输入所附正文并未展开这项合作争议，而是写到另一家上市公司控制权变动、主营业务维持葡萄种植与葡萄酒生产销售，以及2025年营收3.63亿元、净亏损0.63亿元等内容。因此，当前可直接确认的信息仅有标题所示的双方关系恶化，未见更多合作细节。",
-              "source_url": "https://36kr.com/newsflashes/3810406934388227?f=rss",
+              "title": "先锋新材及相关当事人收到行政处罚事先告知书",
+              "brief": "先锋新材公告称，公司及相关当事人收到中国证监会宁波监管局下发的《行政处罚事先告知书》，其中公司文件编号为甬证监告字[2026]5号，卢先锋收到编号为甬证监告字[2026]4号的告知书。该案涉及宁波先锋新材料股份有限公司及卢先锋涉嫌信息披露违法违规，相关调查已完成，监管部门依法拟作出行政处罚。",
+              "source_url": "https://36kr.com/newsflashes/3810532133740293?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 18:45:13  +0800"
+              "published_at": "2026-05-15 20:45:40  +0800"
             },
             {
-              "title": "三连板威龙股份提示股价上涨缺乏盈利支撑风险",
-              "brief": "威龙股份公告称，公司近期三连板上涨，但当前股价缺乏盈利能力支撑。背景是公司虽发生控制权变动，受让方截至目前没有未来12个月内出售、合并、合资合作或资产重组计划，主营业务仍为酿酒葡萄种植及葡萄酒等生产销售；2025年度营收3.63亿元，同比下降18.36%，净利润亏损0.63亿元，由盈转亏。",
-              "source_url": "https://36kr.com/newsflashes/3810405589261828?f=rss",
+              "title": "巨力索具因涉嫌误导性陈述被证监会立案",
+              "brief": "巨力索具公告称，公司收到中国证监会下发的《立案告知书》，因涉嫌信息披露误导性陈述违法违规，被证监会决定立案。公司同时表示，目前经营状况正常，后续将积极配合相关调查，并按要求履行信息披露义务。此次披露的重点在于监管已正式启动立案程序，事项直指信息披露合规问题。",
+              "source_url": "https://36kr.com/newsflashes/3810538747649798?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 18:39:53  +0800"
+              "published_at": "2026-05-15 20:40:27  +0800"
             },
             {
-              "title": "世运电路股东新豪国际拟减持不超过3%股份",
-              "brief": "世运电路公告称，股东新豪国际计划减持公司股份，减持数量不超过2161.78万股，占总股本3%。这是一则股东层面的减持安排，时间区间为2026年6月6日至2026年9月5日，拟通过集中竞价和大宗交易两种方式实施。输入正文仅披露了减持期限、方式和上限比例，未提供减持原因、价格区间及后续用途等更多说明。",
-              "source_url": "https://36kr.com/newsflashes/3810404664155654?f=rss",
+              "title": "招商轮船子公司拟追加8.03亿元增持安通控股",
+              "brief": "招商轮船公告称，全资子公司中外运集运拟追加8.03亿元投资额度，继续择机增持安通控股股份。根据安排，中外运集运拟自2026年5月18日起12个月内，通过大宗交易、协议转让和集中竞价等方式实施增持，拟增持金额为4.075亿元至8.15亿元。公告同时指出，本次交易构成关联方共同投资，已获股东会审议通过。",
+              "source_url": "https://36kr.com/newsflashes/3810529206328838?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 18:34:01  +0800"
+              "published_at": "2026-05-15 20:39:39  +0800"
             },
             {
-              "title": "中钨高新子公司拟投1.83亿元扩产PCB高端微型精密刀具",
-              "brief": "中钨高新公告，控股子公司金洲公司拟实施印制电路板用高端微型精密刀具技改扩能项目。该项目面向PCB用高端刀具产能扩张，计划新增年产能1.5亿支，预计总投资1.83亿元，其中自有资金1.63亿元、银行借款0.2亿元。公司表示，项目建成后有助于巩固市场地位，并进一步提升盈利能力。",
-              "source_url": "https://36kr.com/newsflashes/3810403849641480?f=rss",
+              "title": "麦肯锡调整AI时代薪酬结构，降低合伙人现金分红比例",
+              "brief": "麦肯锡正推进面向人工智能时代的薪酬改革，计划下调合伙人可直接支取的利润分成现金比例。此举旨在简化薪酬体系、扩大资本金规模，并增强公司对咨询行业市场波动风险的抵御能力。知情人士称，公司已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以增厚资金储备，部分合伙人的收入变动金额可达数万美元。",
+              "source_url": "https://36kr.com/newsflashes/3810508672458248?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-15 18:30:11  +0800"
+              "published_at": "2026-05-15 20:31:45  +0800"
             }
           ]
         }
