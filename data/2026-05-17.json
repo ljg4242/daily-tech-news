@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T18:53:51.489260+08:00",
+  "generated_at": "2026-05-17T20:52:26.666411+08:00",
   "sections": [
     {
       "category": "主要",
@@ -82,6 +82,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "得来速点餐聊天机器人只是开始",
+              "brief": "《The Stepback》本周以得来速点餐中的聊天机器人为切口，讨论“让AI接单”正从新鲜尝试变成更广泛变化的前奏。文章把这一现象放进AI持续渗入日常生活的背景下审视，指出它不只是餐饮场景里的单点应用，也是一则值得拆解的关键科技故事；作者为Emma Roth，发表于2026年5月17日。",
+              "source_url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+              "source_name": "The Verge",
+              "published_at": "2026-05-17T08:00:00-04:00"
+            },
+            {
               "title": "Snap、YouTube 和 TikTok 就学生受害诉讼达成和解",
               "brief": "Snap、YouTube和TikTok已就一宗指控社交媒体成瘾伤害学生并让公立学校付出巨额成本的首例此类诉讼达成和解。该案由肯塔基州布雷西特县学区提起，被视为全美一千多起同类案件的风向标；学区称相关平台扰乱课堂学习、引发心理健康危机并推高预算压力，和解具体条款尚未披露，Meta仍将在同一案件中继续应诉。",
               "source_url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
@@ -120,6 +127,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌这款被低估的 AI 应用，在我的安卓手机上解锁了 3 个端侧 AI 工具",
+              "brief": "谷歌的实验性应用 AI Edge Gallery 更新支持最新开源模型 Gemma 4 后，再次进入作者视野；他在安卓手机上试用后，发现其中三项完全离线的端侧 AI 工具表现出色，也因此重新审视自己过去认为本地 AI 多半是噱头的看法。该应用可在 Android 和 iOS 使用，核心是把开源模型直接下载到设备，再执行不同任务。",
+              "source_url": "https://www.androidauthority.com/google-ai-edge-gallery-app-unlocked-on-device-ai-tools-3663299/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-17T20:00:34+08:00"
+            },
+            {
+              "title": "我正在用旧 Pixel 自托管一个 Google Photos 替代方案",
+              "brief": "随着 Google Photos 早已结束几乎免费且不限量的时代，作者开始认真寻找自托管替代方案；在尝试过 Immich 和自建存储服务器后，他又把抽屉里的一台旧 Pixel Fold 改造成照片备份服务器。这个周末项目通过 Termux 运行 Lychee，把旧安卓手机变成可从任何地方访问的私有云，同时减少 NAS 占用的空间。",
+              "source_url": "https://www.androidauthority.com/google-photos-alternative-self-hosting-pixel-3665971/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-17T19:00:45+08:00"
+            },
+            {
               "title": "我喜欢 WhatsApp，但它急需这个功能",
               "brief": "作者称 WhatsApp 正被垃圾信息困扰，从网购弃单后的商家私信，到被拉入承诺高回报的加密货币群，骚扰越来越常见。问题根源在于只要知道手机号，任何人都能在 WhatsApp 搜索、发消息或拉群，而手机号又常因下单填写和数据泄露外流；他认为若像 Signal 那样支持用户名，就能减少这类滥用。",
               "source_url": "https://www.androidauthority.com/whatsapp-usernames-signal-3666477/",
@@ -139,20 +160,18 @@
               "source_url": "https://www.androidauthority.com/critical-moment-google-android-xr-glasses-io-2026-3667684/",
               "source_name": "Android Authority",
               "published_at": "2026-05-17T17:30:18+08:00"
-            },
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
             {
-              "title": "我用了一周沃尔玛 60 美元 Google TV 盒子，表现超出预期",
-              "brief": "作者体验沃尔玛售价 60 美元的新款 Onn 4K Pro 一周后，认为这台 Google TV 盒子远超预期。它自 3 月起多次泄露、近一个月零散上架却尚未正式发布，但实测安装顺利、应用运行流畅，界面反应也很快。文章还提到其机身做工不错，配备以太网接口和遥控器查找功能，在这一价位颇具吸引力。",
-              "source_url": "https://www.androidauthority.com/walmart-onn-4k-pro-2026-hands-on-3667123/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-17T17:00:00+08:00"
-            },
-            {
-              "title": "一加悄然暂停 OxygenOS 更新推送",
-              "brief": "一加已悄悄暂停 OxygenOS 16.0.7.XXX 和 16.0.5.XXX 的推送，这也是部分用户最近迟迟收不到系统更新的原因。公司在社区论坛表示，相关版本发布后，有些设备出现异常重启和开机问题，因此先行叫停，以确保设备稳定性并保护用户体验。官方称待问题修复且版本完成稳定性、可靠性验证后会恢复发布，但暂未给出时间表，并表示团队正以最高优先级处理。",
-              "source_url": "https://www.androidauthority.com/oneplus-pauses-oxygenos-update-3667779/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-17T04:26:53+08:00"
+              "title": "一种革命性癌症疗法或可改变自身免疫病治疗",
+              "brief": "研究人员正把原本为血液癌症设计的CAR T细胞疗法，推进到多发性硬化、狼疮、格雷夫斯病和血管炎等自身免疫病的数百项临床试验中，希望清除错误攻击自身的免疫细胞，让防御系统回到患病前状态。报道以49岁、多发性硬化持续恶化且现有药物无效的Janisch-Hanzlik入组内布拉斯加大学医学中心试验为例，也强调疗效持续时间和长期副作用仍不确定。",
+              "source_url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-17T19:00:14+08:00"
             }
           ]
         }
@@ -344,39 +363,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "海尔云溪4.0直驱洗衣机预售价降至2199元",
-              "brief": "海尔云溪4.0滚筒洗衣机开启低价预售，券后价格从5299元降至2199元，创下新低。该机主打直驱变频电机与洗护能力，面向关注耐用性和特定面料护理的家庭用户。官方信息显示，电机支持10年包修，整机享3年京东售后，并提供冲锋衣专业洗护与轻柔洗护，可兼顾清洁效果和涂层呵护。",
-              "source_url": "https://www.ithome.com/0/951/543.htm",
+              "title": "比亚迪累计建成5979座闪充站，覆盖全国312座城市",
+              "brief": "比亚迪宣布累计建成5979座闪充站，已覆盖全国312座城市，并持续推进“闪充中国”战略。此举基于其第二代刀片电池和高功率补能方案，意在提升充电速度并改善低温体验。官方称单枪功率最高1500kW，可5分钟从10%充至70%、9分钟至97%；零下30℃时20%充至97%约12分钟，且预计年底建成2万座闪充站。",
+              "source_url": "https://www.ithome.com/0/951/558.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-17T18:34:53+08:00"
+              "published_at": "2026-05-17T20:35:58+08:00"
             },
             {
-              "title": "智界V9上市48小时大定突破10500台",
-              "brief": "鸿蒙智行旗下旗舰MPV智界V9上市48小时内大定突破10500台，售价38.98万至51.98万元，计划于6月初开启交付。新车定位全景智慧旗舰MPV，共推出四个版本，并提供多种外观和内饰配色。车内配备12.3英寸仪表、双17.2英寸中控屏和21.4英寸吸顶屏，首发全域NFC“座座皆可碰”等功能。",
-              "source_url": "https://www.ithome.com/0/951/542.htm",
+              "title": "张雪机车在WSBK捷克站再夺冠，收获赛季第五冠",
+              "brief": "张雪机车在WSBK捷克站WorldSSP组别第二回合再夺冠，车手瓦伦丁·德比斯由此拿下车队本赛季第五冠。此前该队已在葡萄牙站包揽双冠，并在匈牙利站首回合和捷克站首回合取胜，本站再次实现单站双回合全胜。官方介绍称，其820RR-RS赛车国产化率达97%，并在赛事中接连击败雅马哈、本田和宝马等传统厂商。",
+              "source_url": "https://www.ithome.com/0/951/557.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-17T18:30:39+08:00"
+              "published_at": "2026-05-17T20:33:19+08:00"
             },
             {
-              "title": "长鑫科技一季度营收同比增719.13%，净利润330亿元",
-              "brief": "长鑫科技披露2026年一季度业绩，营收同比增长719.13%，净利润330亿元，归母净利润247.62亿元。公司称，受全球算力需求增长及主要厂商产能调配影响，DRAM自2025年下半年以来持续供不应求并大幅涨价。叠加公司产销规模扩大和产品结构优化，多项利润指标显著增长，并预计上半年营收达1100亿至1200亿元。",
-              "source_url": "https://www.ithome.com/0/951/535.htm",
+              "title": "上海启动全球首颗光计算卫星研制",
+              "brief": "上海方面启动全球首颗光计算卫星研制，后续将开展在轨验证和工程迭代。其背景是东方天算与光本位科技正推动天基光计算工程化落地，前者聚焦太空计算、能源、通信和运维网络，后者提供光计算芯片架构、算力引擎与全栈方案。双方此前已完成光计算芯片太空先期验证，现正推进载荷研制、抗辐照加固、热控和能源适配等全流程工作。",
+              "source_url": "https://www.ithome.com/0/951/556.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-17T18:03:28+08:00"
+              "published_at": "2026-05-17T20:27:54+08:00"
             },
             {
-              "title": "NASA灵神星探测器近距离飞掠火星，借力前往金属小行星",
-              "brief": "NASA“灵神星”探测器近日以约4500公里的最近距离飞掠火星，借助引力助推提升速度并修正轨道，继续前往16号灵神星小行星。此次操作是任务飞向火星与木星之间目标天体的关键里程碑，也能为采用太阳能电推进系统的探测器节省燃料。NASA称，探测器5月15日掠过火星时速度约每小时19848公里，预计2029年7月抵达目的地。",
-              "source_url": "https://www.ithome.com/0/951/534.htm",
+              "title": "微软将ASD扩展至AMD显卡，《极限竞速：地平线6》首次启动缩至4秒",
+              "brief": "微软将高级着色器分发技术扩展到AMD RDNA3、RDNA3.5和RDNA4显卡，《极限竞速：地平线6》成为首款在Win11电脑端适配的新作。该技术旨在解决游戏首次启动或更新后本地重新编译着色器耗时过长的问题。实测在RX 7600与锐龙7 5800平台上，开启后首次加载时间缩短95%至4秒，但目前仅支持微软商店或Xbox电脑客户端下载，并需加入Xbox内测计划。",
+              "source_url": "https://www.ithome.com/0/951/555.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-17T17:46:22+08:00"
+              "published_at": "2026-05-17T20:27:11+08:00"
             },
             {
-              "title": "中美阿三国联合打击电诈，抓获276名网恋诈骗嫌疑人",
-              "brief": "中美阿三国开展联合打击行动，276名通过建立虚假“恋爱”关系实施电诈的嫌疑人被抓。此类案件通常先骗取受害人情感信任，再诱导其投资所谓高回报加密货币项目实施诈骗。公安部表示，这是中国警方开展国际执法合作的重要成果，后续将继续与更多国家深化务实合作，清剿电诈窝点并缉捕涉案犯罪嫌疑人。",
-              "source_url": "https://www.ithome.com/0/951/533.htm",
+              "title": "黄仁勋反对将GPU比作核武器，并批评AI芯片出口管制",
+              "brief": "英伟达CEO黄仁勋公开反对将GPU比作核武器，并批评AI芯片出口管制，称相关措施已经失败且产生反效果。此番表态针对外界把人工智能芯片视作高度敏感武器化资产的说法。黄仁勋表示，全球数十亿人都在使用英伟达显卡，他也愿意推荐给家人和孩子，因此把GPU与原子弹类比“毫无道理”；他同时主张应让全球采用美国技术体系，限制使用反而会削弱美国技术优势。",
+              "source_url": "https://www.ithome.com/0/951/554.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-17T17:15:10+08:00"
+              "published_at": "2026-05-17T20:05:47+08:00"
             }
           ]
         },
