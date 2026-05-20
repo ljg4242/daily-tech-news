@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T18:55:56.533405+08:00",
+  "generated_at": "2026-05-20T20:57:59.812104+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Discord 语音和视频通话现默认启用端到端加密",
+              "brief": "Discord已默认为桌面、移动、网页以及PlayStation、Xbox等平台上的所有语音和视频通话启用端到端加密，覆盖私聊、群聊、语音频道和Go Live直播。该功能基于2024年9月推出的开源协议DAVE，舞台频道因面向大规模广播而被排除。Discord还在移除允许回退到未加密通话的剩余客户端代码，并表示暂无把端到端加密扩展到文字消息的计划。",
+              "source_url": "https://www.macrumors.com/2026/05/20/discord-voice-video-calls-e2ee-default/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-20T19:43:34+08:00"
+            },
+            {
+              "title": "WhatsApp 测试按已读触发的消息消失功能",
+              "brief": "WhatsApp正在测试一种新的消息消失设置，消息不会从发送时开始倒计时，而是在收件人读过后才启动计时。该选项出现在最新TestFlight测试版的默认消息计时器菜单中，倒计时仍提供5分钟、1小时和12小时三档。报道称部分iOS和Android测试用户已可用，且部分App Store公开版用户可能也已获得这一功能。",
+              "source_url": "https://www.macrumors.com/2026/05/20/read-triggered-disappearing-messages-whatsapp/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-20T18:57:37+08:00"
+            },
             {
               "title": "Plex 将于 7 月把终身 Plex Pass 涨至 750 美元",
               "brief": "Plex宣布自2026年7月1日0点01分起，将终身版Plex Pass价格从250美元上调至750美元，这是继2025年3月从120美元涨到250美元后再次大幅调整。公司表示涨价是为了继续投入个人媒体软件的开发与维护，同时保留终身订阅这一选择。已购用户权益不变，月付和年付仍为7美元和70美元，并将继续改进下载体验和移动应用。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/19/apple-acquires-animato/",
               "source_name": "MacRumors",
               "published_at": "2026-05-20T05:02:18+08:00"
-            },
-            {
-              "title": "任天堂新款 iOS 游戏“Pictonico”可把照片变成小游戏",
-              "brief": "任天堂宣布将于5月28日推出 iPhone 游戏 Pictonico，这款应用会把相册或即时拍摄的照片变成类似《瓦力欧制造》的小游戏。它由任天堂与 Intelligent Systems 共同开发，含80个关卡，并设普通、高速和危险区三种节奏，照片仅保存在本机；游戏可免费试玩3个项目，完整解锁 Volume 1 和 Volume 2 分别售价7.99美元和5.99美元。",
-              "source_url": "https://www.macrumors.com/2026/05/19/nintendo-pictonico-ios-game/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-20T04:25:47+08:00"
-            },
-            {
-              "title": "Google I/O 2026 汇总：Gemini 3.5、AI 搜索、Android XR 眼镜等",
-              "brief": "谷歌在 2026 年 I/O 大会上发布一系列新 AI 产品，展示其未来数月的技术路线，这也被视为苹果接下来将面对的竞争方向。已披露内容以 Gemini 为主，包括可基于任意输入生成内容并支持对话式视频编辑的 Gemini Omni、当天在 Gemini 应用上线的 Omni Flash 与 3.5 Flash，以及计划下月推出的 3.5 Pro；Gemini 应用还换上新设计语言，并将加入地区方言支持。",
-              "source_url": "https://www.macrumors.com/2026/05/19/google-io-2026-roundup/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-20T03:04:45+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Jamf任命前CTO贝丝·奇达为CEO，推进新AI布局",
+              "brief": "Jamf任命前首席技术官贝丝·奇达出任CEO，接替约翰·斯特罗萨尔，负责推动公司的新一轮AI布局。公司在2026年1月被Francisco Partners收购后已从上市转为私有，她也成为Jamf二十多年历史上首位女性掌门人。奇达2018年加入、2022年升任CTO，任内大幅扩展安全产品组合，这部分业务现占公司总业务逾30%；接下来她将重点开发带有明确护栏的AI设备自主管理能力，并向外部开发者开放平台。",
+              "source_url": "https://9to5mac.com/2026/05/20/jamf-names-former-cto-beth-tschida-as-ceo-to-lead-its-new-ai-push/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-20T20:00:00+08:00"
+            },
+            {
+              "title": "Android将推出类似苹果Handoff的Continue On功能",
+              "brief": "谷歌将在Android 17中推出名为Continue On的跨设备接续功能，让用户可在同一账号下把一个Android设备上的应用活动转到另一台设备继续。其思路与苹果Handoff相似，体现多设备生态联动的价值。首批实现范围较窄，初期仅支持Android手机与平板双向接续，例如平板停靠栏会出现从手机继续打开Google Docs同一文档的建议。",
+              "source_url": "https://9to5mac.com/2026/05/20/android-cloning-apples-handoff-feature-is-cheeky-but-a-good-thing/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-20T19:44:20+08:00"
+            },
+            {
+              "title": "Discord现已默认为所有语音和视频通话启用端到端加密",
+              "brief": "Discord现已默认对所有语音和视频通话启用端到端加密，例外仅为面向大规模广播的Stage频道。公司早在2023年提出相关隐私计划，随后公布DAVE协议并逐步迁移，如今已覆盖全部平台。由于同一通话可能同时涉及电脑、手机、PlayStation、Xbox和浏览器客户端，兼顾低延迟与跨平台实现难度很高；团队目前还在移除旧版未加密回退代码。",
+              "source_url": "https://9to5mac.com/2026/05/20/discord-now-uses-end-to-end-encryption-for-all-voice-and-video-calls-by-default/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-20T19:08:28+08:00"
+            },
+            {
+              "title": "9to5Mac Daily：2026年5月20日，苹果新无障碍功能与Apple Watch传闻",
+              "brief": "9to5Mac发布2026年5月20日的Daily播客新一期，汇总当天苹果相关消息并在工作日持续更新节目。该期内容围绕苹果生态的最新传闻与发布展开，方便听众集中获取要点。节目讨论了AI驱动的无障碍功能、可用眼控操作轮椅、MagSafe支架与握把回归，以及Apple Watch Ultra 4升级、高血压功能和未来iPhone材质变化等话题。",
+              "source_url": "https://9to5mac.com/2026/05/20/daily-may-20-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-20T19:00:00+08:00"
+            },
+            {
               "title": "《Maximum Pleasure Guaranteed》在 Apple TV+ 开播",
               "brief": "Apple TV+ 新剧《Maximum Pleasure Guaranteed》已正式上线，此前苹果上月公布开播消息，剧集首播前已获得积极评价。该剧由大卫·罗森创作，讲述离婚母亲保拉在监护权纠纷与身份危机中，因怀疑自己目击犯罪而展开调查，试图揭开更大阴谋并重建家庭，主演包括塔提阿娜·玛斯拉尼等。",
               "source_url": "https://9to5mac.com/2026/05/19/maximum-pleasure-guaranteed-premieres-on-apple-tv/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-20T10:27:26+08:00"
-            },
-            {
-              "title": "WhatsApp 测试消息“阅读后消失”功能",
-              "brief": "WhatsApp 正在测试“阅读后消失”消息功能，用户可让消息在收件人读完后自动删除，进一步加强临时消息的隐私控制。该选项已出现在最新 TestFlight 测试版的默认消息计时器设置中；未读消息默认 24 小时后消失，已读消息则可设为 5 分钟、1 小时或 12 小时后删除，目前仅部分 iOS 和 Android 测试用户可用。",
-              "source_url": "https://9to5mac.com/2026/05/19/whatsapp-working-on-messages-that-disappear-once-youve-read-them/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-20T09:56:34+08:00"
-            },
-            {
-              "title": "Sky续签英国和意大利F1版权，苹果全球扩张受阻",
-              "brief": "苹果拓展美国以外F1流媒体版权的计划遇阻，Sky已提前续签英国和意大利的F1媒体版权。苹果此前公开表示，希望先把美国市场做成功，再逐步进入更多地区；但F1版权并非全球统一出售，而是按国家单独授权。路透社称，Sky此次分别将英国版权续至2034年、意大利续至2032年，总价约10亿英镑。",
-              "source_url": "https://9to5mac.com/2026/05/19/apples-global-f1-ambitions-hit-roadblock-as-sky-extends-u-k-and-italy-rights/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-20T06:08:40+08:00"
-            },
-            {
-              "title": "《Pluribus》主演蕾亚·塞霍恩加盟苹果原创电影《Running》",
-              "brief": "苹果确认，凭《风骚律师》走红、目前主演《Pluribus》的蕾亚·塞霍恩已加盟苹果原创电影《Running》。该片由加文·欧康诺执导，此前已确认斯派克·费恩和布莱恩·泰里·亨利参演，其中亨利的加盟消息于上月公布。影片讲述一名无家可归的高中跑步天才追寻成就、摆脱过去并寻找家庭的故事，剧本由比尔·迪比克执笔。",
-              "source_url": "https://9to5mac.com/2026/05/19/pluribus-lead-rhea-seehorn-joins-upcoming-apple-original-film-running/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-20T05:18:50+08:00"
-            },
-            {
-              "title": "苹果与虚拟头像初创公司 Animato 达成人才与知识产权协议",
-              "brief": "欧盟委员会《数字市场法》收购数据库显示，苹果与虚拟头像初创公司 Animato 达成人才与知识产权协议。Animato 曾开发用于视频聊天和辅导的虚拟头像软件，并推出过已停用的语言学习应用 Call Annie。根据协议，苹果可向部分员工发出聘用邀请、获得其知识产权的非独占许可，并收购其专利申请；这种不直接整体收购公司的交易结构，近年在科技行业越来越常见。",
-              "source_url": "https://9to5mac.com/2026/05/19/apple-strikes-talent-and-ip-deal-with-virtual-avatar-startup-animato/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-20T03:54:31+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "互联网持续围观 Figure AI 人形机器人分拣包裹",
+              "brief": "Figure AI 连续近一周直播其人形机器人把数千个包裹放上传送带，过程中还一度与人类实习生同场比拼，迅速成为科技圈热议话题。这场演示再次说明公众对人形机器人的关注度极高，但再亮眼的示范也只能提供观察现实能力的有限窗口。活动于5月13日启动，原计划展示8小时，Figure 03 要识别纸箱和软包上的条码，并在无人干预下将条码朝下放置，CEO 也事先表示高概率会出故障。",
+              "source_url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-20T19:00:34+08:00"
+            },
+            {
               "title": "麋鹿测试与巨型压铸：试驾全新沃尔沃 EX60",
               "brief": "沃尔沃推出并开放试驾全电动 EX60，这是品牌首款基于 SPA3 纯电平台的车型，也将成为后续更多车型的基础。新车被用来展示沃尔沃改造后的生产方式和新技术，重点包括最高约 643 公里续航、比现有沃尔沃车型更快的充电、800V 架构、cell-to-body 结构电池，以及用于减重的一体式巨型压铸；现有后驱 P6 与四驱 P10，2027 款售价从 59795 美元到 68745 美元，未来还将增加 P12。",
               "source_url": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
@@ -155,19 +162,33 @@
               "source_url": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-20T04:43:31+08:00"
-            },
-            {
-              "title": "Plex终身通行证涨价200%，试图推动用户转向订阅",
-              "brief": "Plex宣布，自2026年7月1日00:01 UTC起，终身版Plex Pass价格将从250美元涨至750美元，现有终身用户不受影响。该通行证原本以一次性付费方式提供媒体服务器相关功能，包括局域网播放、远程串流和向他人开放远程访问。Plex回顾称，终身版2012年售价75美元，2014年涨到150美元，2025年3月升至250美元，并表示公司曾考虑取消该选项，因为经常性订阅更有助于长期开发。",
-              "source_url": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-20T03:52:01+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "这款长期运营的安卓 PS1 模拟器刚刚加入 Google Drive 支持",
+              "brief": "Android版老牌PS1模拟器ePSXe已更新至2.0.19，新增Google Drive支持，可把虚拟记忆卡和即时存档上传到云端。该应用已存在十多年，此前虽然早就支持Dropbox，但接入谷歌云盘后，更便于用户依托谷歌账号在不同设备间续玩并进行备份。此次更新还加入谷歌Oboe音频引擎，以降低音频延迟，尤其适合搭配蓝牙耳机使用。",
+              "source_url": "https://www.androidauthority.com/ps1-emulator-epsxe-google-drive-3669165/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-20T20:38:16+08:00"
+            },
+            {
+              "title": "这家 Kindle 竞争对手正在缩小自己的一大优势",
+              "brief": "乐天Kobo再次上调多款电子阅读器售价，Libra Colour和Clara系列在美国市场较首发已贵出最多40美元。Kobo一直因相较Kindle更开放、性价比更高而受到推荐，但这一核心优势正持续收窄。此次涉及的都是2024年推出的旧机型，且已连续两次涨价，其中Libra Colour从219.99美元升至259.99美元，Clara BW和Clara Colour分别升至159.99美元与179.99美元。",
+              "source_url": "https://www.androidauthority.com/kobo-introduces-price-hikes-3669169/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-20T19:34:25+08:00"
+            },
+            {
+              "title": "毫不意外：微软放弃的 SMS Organizer 现已开始停运",
+              "brief": "微软正在关闭长期被搁置的SMS Organizer，并已开始向用户发送停运通知，建议把数据迁移到其他应用。该短信应用曾因短信分类与过滤功能而颇受欢迎，但自2024年9月后一直没有获得更新，因此这次停运并不令人意外。目前微软尚未给出明确的停止服务日期；这款应用2017年先在印度上线，2019年才扩展到全球市场。",
+              "source_url": "https://www.androidauthority.com/microsoft-sms-organizer-shutting-down-3669132/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-20T18:53:22+08:00"
+            },
             {
               "title": "泄露信息称 Galaxy S27 Pro 将以更小机身带来 Ultra 级特性",
               "brief": "韩媒称，三星正准备一款配备6.47英寸OLED屏幕的Galaxy S27 Pro，可能作为S27系列第四款主力机型加入标准版、Plus和Ultra阵容。此前S26系列也曾传出Pro版本但最终未发布，如今相关说法再次出现。这款新机的屏幕尺寸介于基础版与更大机型之间，报道还称它或将采用Ultra的大部分规格，但取消S Pen，目前已知信息主要仍限于屏幕。",
@@ -181,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/adobe-gemini-connector-3669114/",
               "source_name": "Android Authority",
               "published_at": "2026-05-20T18:38:57+08:00"
-            },
-            {
-              "title": "Android 17 的 Live Updates 将利好健身与出行类应用",
-              "brief": "Android 17将为Live Updates加入名为“Metric Style”的新通知模板，把这项能力从打车和外卖等进度型场景扩展到健康、健身、计时器和出行应用。相较Android 16侧重里程碑进度的样式，新模板强调实时原始数据，可在息屏显示、锁屏和状态栏同时展示最多三项指标，并会随设备状态切换不同布局。",
-              "source_url": "https://www.androidauthority.com/android-17-live-updates-metric-style-template-3669117/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-20T18:35:28+08:00"
-            },
-            {
-              "title": "安卓负责人解释 Google Glass 失败原因：时尚性不足",
-              "brief": "Google安卓生态总裁萨米尔·萨马特在I/O 2026后回顾Google Glass失败时表示，最大原因是产品缺乏时尚吸引力，团队学到的核心教训是“时尚优先，技术其次”。Google十三年前曾首次展示智能眼镜，如今推进Android XR眼镜时，已与Warby Parker和Gentle Monster合作，把外观设计放到更重要的位置。",
-              "source_url": "https://www.androidauthority.com/google-admits-glass-fashion-failure-3669108/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-20T18:02:46+08:00"
-            },
-            {
-              "title": "YouTube Premium 终于加入 Google One 套餐",
-              "brief": "Google在I/O 2026宣布把YouTube Premium纳入Google One部分套餐，这是该订阅近几个月持续扩充权益后的又一次调整。此前Google One已加入Google Home Premium和Google Health Premium，而这次开始整合视频会员。具体来看，AI Pro附带YouTube Premium Lite，AI Ultra则包含个人版YouTube Premium，不同于上月的临时折扣，这次为正式权益。",
-              "source_url": "https://www.androidauthority.com/youtube-premium-joins-google-one-couldnt-be-happier-3668618/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-20T18:00:06+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Engadget播客：谷歌 I/O 2026 全程围绕 AI",
+              "brief": "Engadget在一期加更播客中梳理了谷歌I/O 2026开发者大会的主要发布，主题几乎全部围绕人工智能展开。节目聚焦这场大会为何被AI主导，以及这些功能实际价值仍有待观察，并具体讨论了Gemini Omni模型、Google搜索的深度AI整合、Spark等代理型个人助理，以及首批Android XR眼镜的上手印象。",
+              "source_url": "https://www.engadget.com/2177552/engadget-podcast-google-io-2026-was-ai-all-the-way-down/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-20T20:15:20+08:00"
+            },
+            {
+              "title": "Herman Miller Coyl：外形出众的模块化游戏桌",
+              "brief": "Herman Miller推出新款Coyl模块化游戏桌，延续其进军游戏桌市场的尝试，并在设计、细节和理线方案上较此前产品明显升级。它起售价1095美元，“主配置”升至1635美元，提供多种桌面饰面、受经典音响设备启发的升降旋钮、隐藏挂钩，以及全长理线槽、金属洞洞板遮罩和手机支架等配件组合。",
+              "source_url": "https://www.engadget.com/2177241/herman-miller-coyl-gaming-desk/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-20T20:00:00+08:00"
+            },
             {
               "title": "梅赛德斯-AMG推出1153马力电动GT四门轿跑，对标保时捷Taycan",
               "brief": "梅赛德斯-AMG发布纯电GT四门轿跑，最强GT63版本峰值功率1153马力，0到60英里/小时加速2.0秒，直接瞄准保时捷Taycan。新车改用800伏AMG.EA平台和三台轴向磁通电机，动力总成仅重309磅，并配备106千瓦时电池，可模拟AMG V8声浪与换挡效果。",
@@ -228,26 +242,26 @@
               "source_url": "https://www.engadget.com/2175694/2027-volvo-ex60-first-drive/",
               "source_name": "Engadget",
               "published_at": "2026-05-20T15:00:00+08:00"
-            },
-            {
-              "title": "Kickstarter 在争议后撤回成人内容新规",
-              "brief": "Kickstarter在创作者强烈反对后，撤回了上周公布的成人内容新规，并恢复此前版本。平台解释，调整原本是为了缩小与支付处理商Stripe规则的差距，因为近几个月一些已获批项目会在募资中途被Stripe暂停，且并非每次申诉都能成功。恢复旧规后，色情和非法内容仍被禁止，但条文将回到更少限制、也更不具体的写法。",
-              "source_url": "https://www.engadget.com/2177414/kickstarter-mature-content-policy-stripe/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-20T12:12:18+08:00"
-            },
-            {
-              "title": "Android XR终于开始变得真实可感",
-              "brief": "谷歌在今年 I/O 上确认，搭载 Android XR 的首批眼镜将于今年晚些时候由 Warby Parker 和 Gentle Monster 推出，这让其智能眼镜计划终于有了明确落地时间。去年谷歌只展示了有限原型，如今进一步说明了产品如何工作；作者试用的内部参考设备带单眼显示屏，量产联名款则为纯音频版，机身不算厚重，佩戴更轻，屏幕清晰度和亮度可与 Meta 同类产品相比。",
-              "source_url": "https://www.engadget.com/2177283/android-xr-is-finally-starting-to-feel-real/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-20T06:43:13+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Apple TV 热门新剧从不同侧面呈现 OnlyFans",
+              "brief": "Apple TV+两部热门新剧《玛戈的金钱烦恼》和《极致愉悦有保障》都把 OnlyFans 作为核心切入点，从不同角度展开故事，显示这一题材正在苹果流媒体内容中形成趋势。报道认为，两部作品都围绕平台创作与个人处境展开，但在人物设定、叙事重点和呈现方式上各不相同，反映同一平台正被主流剧集以不同面貌吸收。",
+              "source_url": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
+              "source_name": "The Verge",
+              "published_at": "2026-05-20T08:00:00-04:00"
+            },
+            {
+              "title": "Android 17 将加入类似苹果 Handoff 的功能",
+              "brief": "谷歌将为 Android 17 加入名为 Continue On 的新功能，思路类似苹果的 Handoff，让用户先在手机开始任务，再在兼容平板上接着处理。这项功能体现谷歌继续强化 Android 跨设备协同，但首发阶段只支持手机到平板的单向接续；平板会在停靠栏显示来自手机的最近应用，并可继续文档、邮件，某些情况下还会直接打开对应网页。",
+              "source_url": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
+              "source_name": "The Verge",
+              "published_at": "2026-05-20T07:07:33-04:00"
+            },
             {
               "title": "三星员工将在最糟时机罢工",
               "brief": "三星电子与工会围绕奖金支付的谈判破裂后，超过4.7万名员工准备发起为期18天的罢工，计划于周四开始。这场行动将限于三星在韩国国内的芯片制造工厂，发生在全球存储芯片持续短缺、供应本已承压的时候，因此引发对内存芯片产能进一步收紧的担忧。报道提到，工会此前已同意接受韩国国家劳动关系委员会提出的调解。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
               "source_name": "The Verge",
               "published_at": "2026-05-19T19:24:36-04:00"
-            },
-            {
-              "title": "Plex 终身通行证将涨至 750 美元，去年才刚翻倍",
-              "brief": "Plex 宣布将把终身版 Plex Pass 的价格在 7 月 1 日从 249.99 美元上调至 749.99 美元，并在此之前允许新用户按现价购买。这次涨价发生在其去年 3 月已将该订阅从 119.99 美元提高到 249.99 美元之后。按当前年费计算，用户需订阅约 11 年终身版才更划算；Plex 在博客中称原本甚至想停售终身方案，更希望用户转向持续订阅。",
-              "source_url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
-              "source_name": "The Verge",
-              "published_at": "2026-05-19T19:03:48-04:00"
-            },
-            {
-              "title": "德米斯·哈萨比斯称这或许是“奇点的山麓”，这是什么意思？",
-              "brief": "在 Google I/O 2026 主题演讲结尾，DeepMind CEO 德米斯·哈萨比斯把当下形容为“奇点的山麓”，称谷歌的前沿研究与产品将帮助释放 AGI 的巨大潜力。这番表态出现在数小时应用与日程功能介绍之后，把发布会从产品演示推向更宏大的技术叙事，强调 AI 将放大人类创造力、推动科学发现与进步，并改善世界各地人们的生活。",
-              "source_url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-              "source_name": "The Verge",
-              "published_at": "2026-05-19T18:16:02-04:00"
             }
           ]
         }
@@ -414,45 +414,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "小米 YU7 GT 标配四座按摩、调光天幕和静谧座舱",
-              "brief": "小米汽车公布 YU7 GT 的更多配置信息，确认新车标配全车四座按摩、智能调光天幕和超静谧座舱。该车此前已被雷军定义为面向时代精英、价格会略高的车型。细节上，天幕宣称可隔绝 99.9% 紫外线和红外线，座舱配备多块 PVB 静音玻璃和 30 余处隔音升级，并提供 24K 金碳纤维车标、Alcantara 包覆及多处碳纤维组件选装。",
-              "source_url": "https://www.ithome.com/0/953/025.htm",
+              "title": "京东在宿迁打造全国首个具身智能数据采集社区",
+              "brief": "京东与宿迁共建的具身智能数据采集社区已试运行，居民在擦桌、叠衣、收纳和清洁时佩戴 JoyEgoCam，即可记录上肢轨迹、力度分布及人与家居环境交互。由于行业长期缺少高质量实操数据，京东正补齐数据基础设施，已建立采集、标注、训练、验证流水线，并计划两年采集超1000万小时数据。",
+              "source_url": "https://www.ithome.com/0/953/045.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-20T18:42:08+08:00"
+              "published_at": "2026-05-20T20:50:31+08:00"
             },
             {
-              "title": "华为启动 HarmonyOS API26 开发者体验官招募",
-              "brief": "华为宣布面向开发者开放 HarmonyOS API26 新版本体验官招募，提供新版本的提前体验机会。此举主要为了通过开发者反馈，持续改进系统开发体验和工具链能力。招募范围涵盖 DevEco Studio、开发工具套件、赋能套件、模拟器、AI 辅助功能，以及开源和闭源 API 能力，参与者还需配合复现和解决问题，目前官方尚未披露更多 API26 细节。",
-              "source_url": "https://www.ithome.com/0/953/024.htm",
+              "title": "海尔云溪582热泵洗烘套装国补后降至5698元",
+              "brief": "海尔云溪582热泵洗烘套装在京东叠加以旧换新和国补后，价格降至5698.43元，并支持12期免息。该产品主打超薄嵌入式设计和洗烘一体化体验，面向家庭洗护升级需求；配置直驱变频电机、AI智控洗涤、双擎热泵烘干及静筒柔烘模式，还支持APP远程控制与NFC操控。",
+              "source_url": "https://www.ithome.com/0/953/044.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-20T18:39:33+08:00"
+              "published_at": "2026-05-20T20:45:56+08:00"
             },
             {
-              "title": "华为 HarmonyOS 6 手机正适配单应用音量调节",
-              "brief": "消息称，华为手机的鸿蒙 HarmonyOS 6 正在适配应用音量单独调节功能，并将按不同机型逐步上线。这项能力此前已率先在鸿蒙版 MateBook 14 电脑上推出，用于单独调整当前发声应用的音量。作为相关进展的补充，华为 Pura 90 Pro 系列本月早些时候的系统更新，也新增了通知铃声与来电铃声音量独立调节等功能。",
-              "source_url": "https://www.ithome.com/0/953/023.htm",
+              "title": "索尼官宣新一轮 State of Play：重点展示《漫威金刚狼》",
+              "brief": "索尼宣布新一轮 PlayStation State of Play 发布会，将重点展示《漫威金刚狼》，并带来多款 PS5 新作的消息、更新和实机演示。发布会将于太平洋时间当日下午2点、北京时间次日5点直播。在索尼平台策略调整、PS Plus 涨价及 PS5 销量预期下滑的背景下，这场活动也更受关注。",
+              "source_url": "https://www.ithome.com/0/953/043.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-20T18:25:49+08:00"
+              "published_at": "2026-05-20T20:42:56+08:00"
             },
             {
-              "title": "孙正义豪掷逾 600 亿美元押注 OpenAI，软银内部现质疑",
-              "brief": "彭博社称，孙正义已对 OpenAI 作出超过 600 亿美元的投资承诺，此举在软银内部引发对集中押注和过度信任奥尔特曼的担忧。背景是 OpenAI 正筹备最早于今年上市，但 AI 竞争加剧也在放大不确定性。报道称部分高管担心重演 WeWork 式失误，而软银和 OpenAI 均回应称双方关系稳固，并对彼此合作保持高度信心。",
-              "source_url": "https://www.ithome.com/0/953/021.htm",
+              "title": "EWC中文名正式更名为“电竞俱乐部世界杯”",
+              "brief": "EWC 宣布赛事中文名正式变更为“电竞俱乐部世界杯”，称这次品牌升级不只是名称更新，也代表其将继续坚持以竞技连接世界、以热爱凝聚全球玩家。官方表示，未来赛事仍将汇聚顶尖俱乐部与选手在同一舞台争夺荣誉，并感谢观众、战队及合作伙伴的持续支持，全新篇章即将开启。",
+              "source_url": "https://www.ithome.com/0/953/042.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-20T18:15:47+08:00"
+              "published_at": "2026-05-20T20:42:45+08:00"
             },
             {
-              "title": "理想汽车 OTA 8.5 推送：支持手机一键遥控泊出",
-              "brief": "理想汽车开始推送 OTA 8.5 升级，新增无需上车、可通过手机一键遥控泊出的功能，平行车位和垂直车位均可支持。这次更新继续围绕智能驾驶体验进行优化，重点改进 VLA 司机大模型的绕行、变道以及起步和减速表现。同时，系统还加入走错车道后的主动重规划能力，可在辅助驾驶中识别偏航，并顺应车流对路线进行修正。",
-              "source_url": "https://www.ithome.com/0/953/020.htm",
+              "title": "全国首个家庭通用机器人在武汉发布",
+              "brief": "武汉发布号称全国首个家庭通用机器人“拾光S1”，可陪老人聊天、叠衣服、做饭和收拾餐桌。与依赖预设程序的机器人不同，它通过自研具身智能模型理解任务目标并自主规划动作路径；设备还加入柔顺控制，接触人或宠物会立即停下，公司称将于三季度发布具身智能大模型 GigaBrain 1，并面向武汉家庭开放试用申请。",
+              "source_url": "https://www.ithome.com/0/953/040.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-20T18:15:40+08:00"
+              "published_at": "2026-05-20T20:14:45+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《Wreckfest 2》最新抢先体验更新加入“两辆半”新车",
+              "brief": "Wreckfest 2最新抢先体验更新加入“两辆半”新车，包括Stahlwagen、Valken和被切成一半的Half a Crusader，并带来一个美国新赛道区域，内含椭圆赛道、传统赛道和短程冲刺赛道。更新还改进车辆物理、碰撞与可视化损坏效果，首次加入自杀赛模式，以及可调转向、悬挂、制动、齿比和差速器等完整调校系统，且可保存预设并在多人大厅中使用。",
+              "source_url": "https://www.ign.com/articles/two-and-a-half-new-cars-added-to-wreckfest-2-in-latest-early-access-update",
+              "source_name": "IGN",
+              "published_at": "2026-05-20T18:45:36+08:00"
+            },
+            {
+              "title": "达蒙·林德洛夫透露其被取消的蕾伊《新绝地秩序》电影细节",
+              "brief": "达蒙·林德洛夫透露，他曾为卢卡斯影业撰写一部以《天行者崛起》之后为背景、由黛西·雷德利回归饰演蕾伊的“新绝地秩序”电影，但已在2023年离开项目。按他的说法，这版故事想讨论《星球大战》中“怀旧的原力”与“修正的原力”的对立，并把它形容为“把新教改革放进星战”，不过影片最终未能推进。",
+              "source_url": "https://www.ign.com/articles/lets-do-the-protestant-reformation-inside-star-wars-damon-lindelof-reveals-new-details-on-his-canceled-version-of-daisy-ridleys-new-jedi-order-movie",
+              "source_name": "IGN",
+              "published_at": "2026-05-20T18:21:44+08:00"
+            },
+            {
+              "title": "战马工作室确认开发开放世界中土RPG和新《天国：拯救》游戏",
+              "brief": "战马工作室确认，除新一部《天国：拯救》作品外，还在开发一款开放世界中土RPG，坐实了此前有关《指环王》新作的传闻。官方将其描述为“开放世界中土RPG”，这意味着游戏未必设定在《指环王》时代；从工作室以中世纪波西米亚为背景、强调叙事与开放世界的《天国：拯救》系列来看，新作的整体方向已有清晰参照。",
+              "source_url": "https://www.ign.com/articles/open-world-lord-of-rings-rpg-and-new-kingdom-come-game-confirmed-in-development-at-warhorse-studios",
+              "source_name": "IGN",
+              "published_at": "2026-05-20T17:30:36+08:00"
+            },
             {
               "title": "Embracer 正为《黑道圣徒》《杀出重围》《TimeSplitters》等 IP 寻求外部合作",
               "brief": "Embracer 创始人兼董事长拉斯·温格福斯在致投资者信中表示，新成立的 Fellowship Entertainment 将更积极为《黑道圣徒》《凯恩的遗产》《杀出重围》《红色派系》《神偷》《TimeSplitters》等知名 IP 寻求外部合作，为这些沉寂系列带来新机会。公司并未确认新作或公布时间表，但释放了重启希望；其中《黑道圣徒》在 2022 年重启作反响平平、开发商 Volition 于 2023 年关闭后停滞，《杀出重围》也已近十年没有新作。",
@@ -466,27 +487,6 @@
               "source_url": "https://www.ign.com/articles/hasbro-cancels-dungeons-dragons-game-from-star-wars-jedi-survivor-director",
               "source_name": "IGN",
               "published_at": "2026-05-20T07:38:00+08:00"
-            },
-            {
-              "title": "《刺客信条4：黑旗》Resynced 展示一键隐藏 HUD",
-              "brief": "育碧通过新演示展示了《刺客信条4：黑旗》Resynced 的无 HUD 选项，玩家无需进入菜单，只按一个按钮就能即时隐藏界面。由于系列常在画面中堆叠血量、武器和地图等图标，这项改动强调更强的沉浸感；新作还允许玩家随时调整爱德华的兜帽，被视为多项体验优化之一。",
-              "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-shows-off-no-hud-option",
-              "source_name": "IGN",
-              "published_at": "2026-05-20T07:35:03+08:00"
-            },
-            {
-              "title": "Plex 宣布终身订阅大幅涨价",
-              "brief": "Plex宣布把终身版Plex Pass价格从249.99美元上调至699.99美元，涨幅200%，仅影响7月1日12:01 UTC之后的新用户。公司称月付和年付价格不变，已购终身版不受影响；在曾考虑取消该方案后，Plex同时公布下载、移动端播放列表、音乐与照片库恢复、NFO元数据等改进计划。",
-              "source_url": "https://www.ign.com/articles/plex-announces-massive-price-hike-on-lifetime-subscription-plans",
-              "source_name": "IGN",
-              "published_at": "2026-05-20T02:45:31+08:00"
-            },
-            {
-              "title": "分析师称《星球大战》对年轻观众吸引力不及往昔",
-              "brief": "分析师称，《星球大战》对年轻观众的吸引力已不如老一代，卢卡斯影业正面临代际断层。报道指出，《曼达洛人与格罗古》美国阵亡将士纪念日四天票房预计为8000万至1亿美元，接近《游侠索罗》的开画水平；虽有格罗古带动周边热度，但受访者认为品牌兴趣仍在，只是系列电影收入正一部比一部低。",
-              "source_url": "https://www.ign.com/articles/star-wars-isnt-resonating-with-younger-moviegoers-like-it-did-for-older-generations",
-              "source_name": "IGN",
-              "published_at": "2026-05-20T02:20:18+08:00"
             }
           ]
         },
@@ -534,39 +534,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "可立克：SST固态变压器产品仍处研发测试早期",
-              "brief": "可立克在6个交易日内出现4次涨停后，围绕SST固态变压器相关产品进展作出说明。之所以受到关注，是因为市场把这类产品视为公司潜在业务方向之一。公司披露的核心信息是，相关产品目前仍处于研发与测试早期阶段，现阶段重点仍是技术验证和产品推进，尚处在早期进展说明阶段之中。",
-              "source_url": "https://36kr.com/newsflashes/3817509727945857?f=rss",
+              "title": "OpenAI和谷歌加大在新加坡的人工智能投资力度",
+              "brief": "据报道，OpenAI和谷歌正在加大在新加坡的人工智能投资力度。这则消息的核心是两家大型科技公司都在同一市场继续加码AI投入，相关表述指向其当地布局进一步加强。现有内容仅披露投资力度上升，未说明具体金额、项目形式、合作对象、细分方向或落地时间，新增投资将落向哪些业务环节仍待进一步披露。",
+              "source_url": "https://36kr.com/newsflashes/3817628052505733?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-20 18:51:42  +0800"
+              "published_at": "2026-05-20 20:52:04  +0800"
             },
             {
-              "title": "马矿股份沪市主板IPO将于5月27日上会",
-              "brief": "上交所网站披露，上市审核委员会定于5月27日召开2026年第26次审议会议，审议福建马坑矿业股份有限公司首发事项。这意味着马矿股份沪市主板IPO进入关键审核节点，也是公司推进上市流程中的重要一步。此次披露的关键细节包括会议时间已经明确，审议主体为上交所上市审核委员会，审议内容为公司首次公开发行申请。",
-              "source_url": "https://36kr.com/newsflashes/3817508848550786?f=rss",
+              "title": "金螳螂：目前未从事商业航天核心产业，亦未开展数据中心算力运营业务",
+              "brief": "金螳螂公告澄清，公司虽被市场归入“商业航天”和“数据中心”概念，但目前并未从事火箭研制、卫星制造、发射服务等商业航天核心产业，也未开展数据中心算力运营。公司仅以装饰和机电主业提供基础设施配套，承接的少量相关工程合计营收占比不足1%，对业绩无重大影响，此次说明旨在回应近期市场关注。",
+              "source_url": "https://36kr.com/newsflashes/3817626466173827?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-20 18:50:49  +0800"
+              "published_at": "2026-05-20 20:50:27  +0800"
             },
             {
-              "title": "塔吉特一季度净销售额同比增长6.7%",
-              "brief": "美国折扣零售百货集团塔吉特公布第一季度财报，净销售额为254.43亿美元，同比增长6.7%，同店销售额同比增长5.6%。这份财报反映公司本季度销售继续扩张，也为全年经营预期提供背景。关键细节是，塔吉特预计2026年净销售额增长率约为4%，并判断2026年每个季度都将实现净销售额增长。",
-              "source_url": "https://36kr.com/newsflashes/3817508644947072?f=rss",
+              "title": "热门中概股美股盘前涨跌不一，理想汽车跌超2%",
+              "brief": "热门中概股美股盘前表现分化，理想汽车跌幅超过2%，在主要个股中跌幅居前。与此同时，蔚来、拼多多、微博和百度小幅下跌，京东、网易、腾讯音乐与阿里巴巴则录得上涨。按截至发稿时的数据看，整体仍是涨跌互现格局，理想汽车跌幅相对更明显，其余已披露个股波动幅度均相对有限。",
+              "source_url": "https://36kr.com/newsflashes/3817625750389633?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-20 18:50:36  +0800"
+              "published_at": "2026-05-20 20:49:44  +0800"
             },
             {
-              "title": "一博科技：PCB销售签单同比增长超120%",
-              "brief": "一博科技公告称，截至目前公司PCB销售签单同比增长超过120%。这一增长与珠海板厂一期投产后产能逐步释放、各项经营指标逐月向好有关，客户需求也保持强劲。关键细节是，公司在完成PCB研发样单及中等批量生产的同时，中大批量生产需求逐渐增多，二期批量工厂已完成规划，目前处于设备选型和装修方案设计阶段。",
-              "source_url": "https://36kr.com/newsflashes/3817506540012674?f=rss",
+              "title": "美股大型科技股盘前多数上涨，Arm涨超2%",
+              "brief": "美股大型科技股盘前多数走高，Arm涨幅超过2%，英伟达和特斯拉涨超1%，亚马逊、Meta和谷歌也录得上涨。与此同时，奈飞与微软小幅下跌，显示板块内走势并不完全一致。按截至发稿时的数据看，上涨个股数量占优，其中Arm在已披露名单中领涨，整体表现为大型科技股盘前偏强。",
+              "source_url": "https://36kr.com/newsflashes/3817624419157129?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-20 18:48:28  +0800"
+              "published_at": "2026-05-20 20:48:22  +0800"
             },
             {
-              "title": "利仁科技：当前股价涨幅偏离基本面，存在快速下跌风险",
-              "brief": "利仁科技发布风险提示称，公司股票价格为80.53元/股，当前股价涨幅与经营业绩严重偏离，也偏离上市公司基本面。之所以进行提示，是因为市场情绪存在过热迹象，二级市场交易风险上升。关键细节是，公司明确表示未来存在快速下跌风险，并提醒广大投资者注意二级市场交易风险，理性投资并注意投资风险。",
-              "source_url": "https://36kr.com/newsflashes/3817500347810952?f=rss",
+              "title": "玲珑轮胎：控股股东拟1.8亿元至2.3亿元增持公司股份",
+              "brief": "玲珑轮胎披露，控股股东玲珑集团计划在未来6个月内通过上交所集中竞价方式增持公司股份，拟投入金额不低于1.8亿元、不超过2.3亿元。此次增持不设价格区间，资金来源包括自有资金和自筹资金，其中包含股票增持专项再贷款。玲珑集团还承诺，在实施期间及法定期限内不减持所持股份。",
+              "source_url": "https://36kr.com/newsflashes/3817616148120708?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-20 18:42:10  +0800"
+              "published_at": "2026-05-20 20:39:58  +0800"
             }
           ]
         }
