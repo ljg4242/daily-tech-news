@@ -1,6 +1,6 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T12:56:58.297957+08:00",
+  "generated_at": "2026-05-21T14:53:56.756126+08:00",
   "sections": [
     {
       "category": "主要",
@@ -122,6 +122,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "这台看起来可疑的联想海盗掌机其实是正规产品",
+              "brief": "联想已确认，近日曝光的 Lenovo G02 掌机并非仿冒，而是通过区域品牌授权在中国市场销售的合法产品。此前这款约 60 美元的 Linux 掌机突然现身电商平台，因价格低且宣传低调而引发真伪质疑。联想表示它不属于官方全球产品线，且设备据称预装了数千款受版权保护的游戏，其中包括任天堂作品。",
+              "source_url": "https://www.androidauthority.com/sketchy-lenovo-pirate-handheld-official-3669591/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-21T14:41:04+08:00"
+            },
+            {
+              "title": "危险的 Chrome 漏洞可能已让你的浏览器成为僵尸网络一部分",
+              "brief": "一项新披露的 Chromium 漏洞可能让恶意网站在无需下载、弹窗或用户交互的情况下，悄悄劫持 Chrome、Edge 等浏览器。问题出在 Browser Fetch，这一本用于后台持续下载的功能可被滥用来维持长期连接，使浏览器充当代理或 DDoS 攻击节点。研究员 Lyra Rebane 于 2022 年底上报该问题，但报道称近 29 个月后仍未修补。",
+              "source_url": "https://www.androidauthority.com/chromium-browser-vulnerability-3669581/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-21T13:49:52+08:00"
+            },
+            {
+              "title": "Wear OS 7 将引入“Wear Widgets”，但 Tiles 暂时不会消失",
+              "brief": "Google 在 Wear OS 7 中正式引入“Wear Widgets”，作为推动 Android 各类设备组件统一的一部分。公司将其称为 Tiles 演进的下一步，意在让开发者把手机、平板、汽车和手表组件纳入同一体系，而不必分别开发。新组件提供与安卓相同的 2×1 和 2×2 布局，Google 同时表示 Tiles 目前仍会继续获得支持。",
+              "source_url": "https://www.androidauthority.com/wear-os-7-widgets-vs-tiles-3669585/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-21T13:28:18+08:00"
+            },
+            {
               "title": "Hypershell X 系列为可穿戴外骨骼带来端到端 AI 运动控制",
               "brief": "Hypershell 发布 X 系列外骨骼，将 HyperIntuition AI 运动控制带入消费级产品。新系统把原始传感器数据直接映射为电机扭矩，替代旧有步态匹配方案，以提升地形变化下的响应。三款机型均配备该系统，响应时间 0.31 秒，较上代快 64%，步态同步率 97.5%，并通过 TÜV Rheinland 与 SGS 验证。",
               "source_url": "https://www.androidauthority.com/new-hypershell-x-series-3668529/",
@@ -134,33 +155,19 @@
               "source_url": "https://www.androidauthority.com/ayaneo-sharing-session-for-new-handhelds-3669550/",
               "source_name": "Android Authority",
               "published_at": "2026-05-21T05:20:19+08:00"
-            },
-            {
-              "title": "两款新紧凑电纸书发布，Kindle显得更封闭",
-              "brief": "BOOX正式发布新款6英寸电子阅读器Poke 7和Poke 7 Pro，延续其开放式Android路线。该系列在上周预热后亮相，定位从上一代的标准版/入门版调整为标准版/Pro版。两机均配备300ppi黑白墨水屏、32GB存储和最高2TB microSD扩展，采用八核处理器、Android 11、1500mAh电池，机身厚6.7毫米重165克，5月21日在中国开售，全球发布时间未定。",
-              "source_url": "https://www.androidauthority.com/boox-poke-7-lineup-unveiled-3669519/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-21T04:48:11+08:00"
-            },
-            {
-              "title": "Google Health 推出新的主屏统计小组件",
-              "brief": "Google随Google Health 5.0更新推出新的主屏统计小组件，为改版后的健康应用补充快捷入口。此前Google已宣布Fitbit应用将转为Google Health，这次更新也同步带来界面和功能调整。新组件最大可扩展到5×3，同时显示最多六项健身数据，也可缩小为单项视图；点按各项指标可进入完整统计页，左上角心形图标可打开应用，并提供最近更新时间与手动刷新按钮。",
-              "source_url": "https://www.androidauthority.com/new-google-health-widget-3669458/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-21T04:37:44+08:00"
-            },
-            {
-              "title": "Beats Fit Pro 降价32%，现售134.99美元",
-              "brief": "Beats Fit Pro真无线降噪耳机在亚马逊降至134.99美元，较199.95美元原价便宜32%。这款产品主打运动与日常通勤场景，提供灵活稳固的翼尖设计、定制声学平台和空间音频，并支持主动降噪、通透模式与自适应均衡。耳机具备抗汗抗水能力，单次续航最长6小时，配合充电盒总续航可达24小时；文中价格记录显示，当前售价也低于近90天149.65美元的平均价。",
-              "source_url": "https://www.androidauthority.com/beats-fit-pro-earbuds-deal-3669539/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-21T04:37:42+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星工会就奖金达成暂定协议后暂停罢工",
+              "brief": "三星韩国最大工会与公司就奖金方案达成暂定协议后，暂停原定5月21日开始、持续18天的罢工，避免近4.8万名员工停工。此前谈判因奖金封顶和分配比例破裂，工会要求取消相当于年薪50%的上限，并提高按年营业利润计提的奖金；多数成员来自存储芯片部门，罢工原本可能冲击三星主要利润来源。报道称三星同意取消上限，并拿出年营业利润的10.5%设奖金池，工会将于5月22日至27日表决。",
+              "source_url": "https://www.engadget.com/2178315/samsung-union-strike-suspended-bonuses/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-21T13:32:19+08:00"
+            },
             {
               "title": "AMD将Ryzen AI Halo PC定价3999美元，并发布Ryzen AI Max 400芯片",
               "brief": "AMD公布Ryzen AI Halo PC售价3999美元，搭载Ryzen AI Max 300，6月开启预订，并预告后续会推出采用Ryzen AI Max 400的新机型。公司将其定位为本地运行AI任务、替代持续云端算力订阅的方案，直接对标NVIDIA DGX Spark。现款支持Windows和Linux，配备50 TOPS NPU、40组CU显卡和128GB统一内存；新一代Max 400最高支持55 TOPS和192GB统一内存。",
@@ -188,13 +195,6 @@
               "source_url": "https://www.engadget.com/2177998/android-xr-xreal-project-aura-hands-on/",
               "source_name": "Engadget",
               "published_at": "2026-05-21T02:43:38+08:00"
-            },
-            {
-              "title": "Airbnb 扩展至酒店预订及杂货配送",
-              "brief": "Airbnb正把业务从房源租赁进一步扩展到更多旅行服务，并计划今夏在应用内加入酒店预订功能，以吸引用户在其平台完成更多出行消费。此次将新增全球主要城市数千家精品和独立酒店，平台称提供价格匹配，部分预订还可返还最高15%积分；同时它在美国25座城市通过Instacart提供杂货配送，住客可免费下单，满50美元还能减10美元，机场接送服务也已覆盖全球160座城市。",
-              "source_url": "https://www.engadget.com/2177545/airbnb-expands-into-hotel-bookings-groceries/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-21T01:00:00+08:00"
             }
           ]
         },
@@ -327,6 +327,20 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "三星电子与工会达成初步协议，总罢工终止",
+              "brief": "三星电子工会在总罢工启动前最后一小时与公司达成初步协议，罢工随即终止。争议焦点是半导体业务员工的绩效奖金安排，双方同意维持既有年终绩效奖金制度，并为DS部门新增半导体特别绩效奖金，资金按业绩的10.5%提取且不设上限，员工人均奖金预计最高可达6亿韩元。",
+              "source_url": "https://www.solidot.org/story?sid=84358",
+              "source_name": "Solidot",
+              "published_at": "2026-05-21T10:58:44+08:00"
+            },
+            {
+              "title": "安娜档案馆被判向图书出版商赔偿1950万美元",
+              "brief": "美国地区法官签署缺席判决，安娜档案馆被判向包括企鹅兰登书屋、爱思唯尔和哈珀柯林斯在内的13家大型出版商赔偿1950万美元，并被施加永久禁令。案件源于这些出版商今年3月起诉其助长图书盗版，法院还要求二十多家域名注册商、托管商和服务商立即关闭其剩余域名，实际影响将主要体现在域名下架。",
+              "source_url": "https://www.solidot.org/story?sid=84357",
+              "source_name": "Solidot",
+              "published_at": "2026-05-20T23:52:44+08:00"
+            },
+            {
               "title": "Firefox 未来将移除 asm.js 代码",
               "brief": "Mozilla宣布，Firefox未来版本将移除asm.js相关代码，因为其后继者WebAssembly早已成熟，继续维护两套机制既耗费工程时间，也会增加攻击面。asm.js曾于2013年随Firefox 22发布，通过严格静态的JavaScript子集实现接近原生的执行性能，并为WebAssembly在2019年成为W3C标准铺平道路。Mozilla表示，自Firefox 148起SpiderMonkey已默认禁用asm.js优化。",
               "source_url": "https://www.solidot.org/story?sid=84356",
@@ -358,39 +372,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "世界蜜蜂日：蜜蜂不仅授粉 也是生态系统关键纽带",
-              "brief": "世界蜜蜂日相关报道指出，蜜蜂并不只是授粉者，还是许多生物生存链条中的关键环节。文章梳理了蜜蜂作为猎物、寄主、运输媒介和食物来源的多重角色，举例包括食蜂鸟、寄生线虫、杜鹃蜂、蜂蝇幼虫、毛爪螨和伪蝎等，强调蜜蜂消失将连带影响大量依赖它们繁衍、取食和栖居的物种，乃至生态系统稳定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1563168.htm",
+              "title": "三星电子与工会达成协议，半导体部门绩效奖金最高约6亿韩元",
+              "brief": "三星电子资方与工会5月20日在京畿道水原就2026年度薪资谈判正式达成协议，并同步就半导体部门绩效奖金形成共识，此前双方曾因薪资和奖金分歧一度紧张并出现罢工预告。方案规定拿出业绩的10.5%作为特别奖金且不设上限，其中40%分配给DS部门、60%再分配至子部门；若盈利兑现，存储芯片事业部员工叠加既有OPI后，全年绩效奖金最高可达约6亿韩元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563214.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-21T12:50:52+08:00"
+              "published_at": "2026-05-21T13:37:03+08:00"
             },
             {
-              "title": "研究证实植物可吸收叶面落尘中的关键矿物",
-              "brief": "一项新研究证实，植物可通过叶片直接吸收落在表面的尘埃矿物，而不只依赖根系从土壤获取养分。研究团队在以色列地中海灌丛把带有独特元素指纹的火山尘撒在三种灌木叶片上，随后发现植株地上部分的铁、锰、镍和铜浓度明显上升，显示叶面能在微酸环境中溶解并吸收这些养分，这一途径在多尘且贫瘠地区可能具有重要意义。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1563166.htm",
+              "title": "知情人士称 Xbox Game Pass 家庭计划已取消，EA被指是主要阻力",
+              "brief": "知情人士称，微软实际上已经取消Xbox Game Pass家庭计划，这项服务曾在爱尔兰和哥伦比亚进行小范围测试，但近四年始终未全面推出。Windows Central记者杰兹·柯登援引消息称，真正阻力来自第三方发行商EA，其对家庭计划“完全反对”；由于EA长期为Game Pass提供内容支持，微软最终搁置了该项目，近期则通过调整价格等方式继续尝试降低订阅门槛。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1563212.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-21T12:49:37+08:00"
+              "published_at": "2026-05-21T13:36:10+08:00"
             },
             {
-              "title": "最新研究称宇宙或并不对称 标准宇宙学模型或需修正",
-              "brief": "一项新研究提出，宇宙在最大尺度上可能并非各向同性，这对标准宇宙学模型构成挑战。团队分析逾一百四十万颗类星体和约五十万条射电源后发现，远方物质分布的偶极强度远高于现有模型预测，统计显著性超过五西格玛，意味着支撑现行模型的均匀对称假设可能需要修正，甚至动摇其几何基础。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1563164.htm",
+              "title": "Xbox继续调整管理层，引入资深分析师强化主机业务",
+              "brief": "Xbox继续调整领导层，新增首席战略官与首席技术官职位，并推动关键业务负责人晋升，进一步重组主机与合作体系。新任首席战略官马修·鲍尔将协助应对主机销量和市场份额下滑等问题；曾参与Azure OpenAI和Teams基础设施建设的斯科特·范弗利特出任首席技术官，负责改进Xbox产品开发方式，克里斯·施纳肯伯格则将主导第三方发行商与开发者合作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1563210.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-21T12:46:08+08:00"
+              "published_at": "2026-05-21T13:35:17+08:00"
             },
             {
-              "title": "AMD 发布 Ryzen AI Max+ 400 PRO 系列 APU",
-              "brief": "AMD 发布 Ryzen AI Max+ 400 PRO 系列 APU，称其为全球首款可支持三千亿参数模型的 x86 处理器，面向本地 AI 与高性能计算。旗舰款 Ryzen AI Max+ PRO 495 采用十六核三十二线程设计，集成四十个基于 RDNA 3.5 的计算单元、五十五 TOPS 的 NPU，并将内存上限提升至一百九十二GB，计划于二零二六年第三季度上市。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563162.htm",
+              "title": "《GTA6》开发过久，多个现实取景地已不复原貌",
+              "brief": "由于《GTA6》开发周期过长，早年纳入素材库的多处现实取景地如今已发生明显变化，这让游戏与现实之间出现时间差。报道提到，其中包括一处2021年失火受损的汽车旅馆、被整体拆除的海边老式民居，以及去年完成拆除的一座储水塔；与此同时，迈阿密城区新建了大量高层建筑，新的城市天际线自然不会出现在游戏中。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1563208.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-21T12:44:53+08:00"
+              "published_at": "2026-05-21T13:35:02+08:00"
             },
             {
-              "title": "AMD 推出售价 4000 美元的 Ryzen AI Halo 本地 AI 工作站",
-              "brief": "AMD 推出售价三千九百九十九美元的 Ryzen AI Halo 高端本地 AI 工作站，主打在 Windows 11 上开箱即用地运行大模型与多模态创作。该平台整合 ROCm、开发中心和预置 Playbook，首发机型搭载 Ryzen AI Max+ 395，官方称其在部分生成式 AI 任务中的性能和成本效率可优于对比产品，并可运行两千亿参数级模型，预计二零二六年六月开启预购。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563160.htm",
+              "title": "Valve回应《CS2》开箱涉赌指控：不违法，随机惊喜并非赌博",
+              "brief": "在纽约州将《CS2》武器箱系统指控为类似赌博后，Valve向法院提交驳回动议，称其并不违法。争议焦点是玩家付费购钥匙开箱，可能获得高价值稀有皮肤，也可能只拿到廉价重复物品，且未成年人参与广受批评；Valve则将其类比棒球卡、奇趣蛋和谷物盒赠品，强调没有其他州把盲盒定为犯罪，也不应突然将大量日常交易视作赌博。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1563206.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-21T12:43:59+08:00"
+              "published_at": "2026-05-21T13:34:01+08:00"
             }
           ]
         },
@@ -398,39 +412,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "东京地方法院就奥特曼《1976年合同》作出关键判决",
-              "brief": "东京地方法院就圆谷公司起诉解除《1976年合同》案作出一审判决，认定圆谷于2014年7月10日发出的解约通知合法有效，合同已于当年7月解除。该合同长期被视为中国大陆经典奥特曼权利来源，并引发新创华与奇奥天尊长期诉讼；如今法院认定UM公司自解约起不再享有日本以外相关使用权，昭和六兄弟等经典角色的版权归属也更趋清晰。",
-              "source_url": "https://www.ithome.com/0/953/299.htm",
+              "title": "Hardkernel 推出 ODROID-H5 单板计算机，提供 4 个 M.2 和 10GbE",
+              "brief": "Hardkernel 发布 ODROID-H5 单板计算机，主打 4 个 M.2 接口和 10GbE 网络连接，面向需要更强扩展能力的小型开发与边缘场景。其 PCIe 通道被分配为 3 个 PCIe Gen3×2 M.2、1 个 PCIe Gen3×1 M.2，并连接瑞昱 RTL8127AT 网卡，还配备 DDR5 SO-DIMM、eMMC 焊盘、HDMI、双 DP、USB 和 24Pin 扩展口，官方标价 1200 元。",
+              "source_url": "https://www.ithome.com/0/953/362.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T12:43:01+08:00"
+              "published_at": "2026-05-21T14:44:07+08:00"
             },
             {
-              "title": "31款App及SDK因违规收集信息等问题被通报",
-              "brief": "有关部门近期围绕App侵害用户权益问题开展治理，并在第三方抽查后通报31款App及SDK。此次通报涉及违规收集或使用个人信息、超范围索权、信息窗口乱跳转、频繁自启动、自动续费服务不规范等问题，应用来源覆盖多家应用商店和开发者官网，其中部分产品还被指强制开启定向推送或SDK信息公示不到位。",
-              "source_url": "https://www.ithome.com/0/953/298.htm",
+              "title": "英国监管机构批评 YouTube、TikTok 未充分保护未成年人网络安全",
+              "brief": "英国监管机构 Ofcom 指出，YouTube 和 TikTok 在保护未成年人网络安全方面措施远远不够，未能有效降低儿童接触不适宜内容的风险。背景是英国正要求平台加强青少年保护，Snap、Meta、Roblox 等已承诺增加限制措施。Ofcom 称现有证据显示两平台存在儿童不宜内容，且 11 至 17 岁社交平台用户中 73% 接触过有害内容，后续将审计推荐算法、审核系统和年龄认证机制。",
+              "source_url": "https://www.ithome.com/0/953/349.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T12:30:39+08:00"
+              "published_at": "2026-05-21T14:38:58+08:00"
             },
             {
-              "title": "NASA本月将公布月球基地项目新进展，马斯克称太棒了",
-              "brief": "美国宇航局宣布将于本月举行发布会，披露“Moon Base”月球基地项目的最新进展，并介绍新增产业合作伙伴和后续任务计划。该项目面向月球南极，目标是建设支持长期人类驻留的基础设施，扩大科学研究与商业活动范围；NASA局长等负责人将出席，发布会后还将安排媒体一对一采访，并强调未来继续把宇航员送上月球探索更大范围月表。",
-              "source_url": "https://www.ithome.com/0/953/297.htm",
+              "title": "OPPO Reno16 系列将主打实况拍摄，支持一拍多出和双景同拍",
+              "brief": "OPPO 预热 Reno16 系列，宣布新机将把实况拍摄作为主打卖点，强化手机影像玩法。官方介绍其支持 2 亿像素拍摄、长焦实况、前后 0.6× 超广角、4K 实况一拍多出、双景同拍及多种胶片风格。此前预热还提到该系列采用“怦然星动”配色和 3D 悬浮星球工艺，全系配备金属中框；消息称 Pro 机型还将提供四种配色。",
+              "source_url": "https://www.ithome.com/0/953/343.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T12:26:17+08:00"
+              "published_at": "2026-05-21T14:36:57+08:00"
             },
             {
-              "title": "特斯拉交付签名版Model S/X，350辆限量收官",
-              "brief": "特斯拉完成Signature限量版Model S和Model X交付收官，车型共350辆，全部为Plaid版本，并以邀请制销售。该系列包含250辆Model S和100辆Model X；最后一台Model S交付给Steve Jurvetson，他也是2012年首台Model S接收者。车辆采用石榴红车色，配有金色徽标和专属内外饰细节。",
-              "source_url": "https://www.ithome.com/0/953/296.htm",
+              "title": "贝索斯称 AI 会提升所有人的价值，无需过度焦虑",
+              "brief": "亚马逊创始人贝索斯表示，人工智能会提升所有人的价值和社会生产效率，公众无需因相关讨论而过度焦虑。他将 AI 比作把铁锹换成推土机，认为若技术落地不受过多限制，人类终将走向更高效率和更充足的物质供给。此番表态正值大量高管、经济学家与研究者警示 AI 可能带来裁员和经济动荡之际，而软件工程行业也在经历裁员与组织调整。",
+              "source_url": "https://www.ithome.com/0/953/342.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T12:15:53+08:00"
+              "published_at": "2026-05-21T14:36:39+08:00"
             },
             {
-              "title": "美团副总裁：无人机业务未来两三年有望实现前端规模化盈利",
-              "brief": "美团副总裁毛一年表示，美团无人机业务未来两到三年有望实现前端规模化盈利，公司将继续拓展多元应用场景。作为背景，美团无人机低空配送已累计完成超过90万笔商业化订单，日间单日峰值为303单，开通夜间配送后升至423单；此前其已在多城市运营65条航线，并发布第四代长程版无人机和云枢系统以提升运力与调度能力。",
-              "source_url": "https://www.ithome.com/0/953/295.htm",
+              "title": "安克 Prime 三折叠风冷三合一无线充电器开售，35W 售 799 元",
+              "brief": "安克 Prime 三折叠风冷多合一无线充电器已开售，总功率 35W，售价 799 元，面向同时为多设备补能的使用场景。产品采用三折叠结构，并通过 5 万次折叠测试验证。关键规格方面，其配备风冷散热，运行噪音低至 19dB，手机无线充电功率最高 25W，同时采用 MFW 认证的 Apple Watch 充电模组。",
+              "source_url": "https://www.ithome.com/0/953/338.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T12:13:21+08:00"
+              "published_at": "2026-05-21T14:34:44+08:00"
             }
           ]
         },
@@ -438,39 +452,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "南亚科预计2至3年后产能增80%至100%",
-              "brief": "南亚科预计未来2至3年产能将较目前增加80%至100%。公司正推进存储器产品与制程布局，董事长邹明仁称今年将完成16Gb DDR5验证、推进LPDDR5试产，并加快1C、1D、1E自研工艺研发；总经理李培瑛表示，新厂明年开始装机，明年底至后年贡献产出，预计新增3万多片，2026年资本支出将超520亿新台币。",
-              "source_url": "https://36kr.com/newsflashes/3818569570485379?f=rss",
+              "title": "恒生科技指数跌幅扩大至2%",
+              "brief": "消息称，恒生科技指数盘中跌幅扩大至2%，显示香港科技板块当日回落幅度进一步加深。原始内容未进一步说明带动下跌的具体成分股、成交金额、触发因素或对应时间段，因此目前能够确认的关键信息，主要是该指数跌幅已扩大至2%这一市场变化。",
+              "source_url": "https://36kr.com/newsflashes/3818686071342215?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 12:49:50  +0800"
+              "published_at": "2026-05-21 14:48:21  +0800"
             },
             {
-              "title": "韩国KOSPI指数盘中涨超8%",
-              "brief": "36氪获悉，韩国KOSPI指数在当日交易时段内涨幅超过8%，盘中表现明显走强。同步上涨的韩国大型科技股中，SK海力士涨幅超过11%，三星电子涨幅超过7%。报道披露的核心细节集中在指数快速上行，以及两家半导体龙头个股涨幅进一步扩大，三者在同一交易时段内同步走高。",
-              "source_url": "https://36kr.com/newsflashes/3818567415661447?f=rss",
+              "title": "美国卫生部：未成年人屏幕时间过长已成公共卫生问题",
+              "brief": "美国卫生部发布报告称，儿童和青少年过度使用电子产品，已经成为一项公共卫生问题。报告点名的典型行为包括无休止地刷社交媒体、不停地发短信以及长时间玩电子游戏，核心信息是未成年人高频、持续的屏幕使用现象，已被上升到公共卫生层面加以关注。",
+              "source_url": "https://36kr.com/newsflashes/3818685062481031?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 12:47:38  +0800"
+              "published_at": "2026-05-21 14:47:19  +0800"
             },
             {
-              "title": "阿莱德称与华工正源在光模块领域持续合作并已批量供货",
-              "brief": "阿莱德在互动平台表示，公司与华工科技旗下子公司华工正源在光模块领域持续保持合作。此次披露围绕双方现有业务关系展开，关键信息包括合作对象为华工正源、合作方向为光模块，以及目前相关产品已经进入批量供货阶段，此次回应同时明确了合作状态与供货进展。",
-              "source_url": "https://36kr.com/newsflashes/3818566835045252?f=rss",
+              "title": "国际资本持续流出印度股市，今年以来全球投资者已撤出约230亿美元",
+              "brief": "国际资本持续流出印度股市，今年以来全球投资者累计撤出约230亿美元，进一步加大了卢比贬值压力。报道援引数据显示，这一撤资规模已经超过去年全年印度股市的外资流出总量，说明外资对印度股市的撤离仍在延续，且年内流出力度已高于上一整年。",
+              "source_url": "https://36kr.com/newsflashes/3818681110086529?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 12:47:03  +0800"
+              "published_at": "2026-05-21 14:43:18  +0800"
             },
             {
-              "title": "美联储或因通胀高企收紧货币政策",
-              "brief": "美国联邦储备委员会5月20日公布4月货币政策会议纪要，释放出可能进一步收紧政策的信号。相关背景是美国通胀若持续高于目标水平，美联储认为有必要采取应对措施。纪要中的关键表述是，如果通胀未回到目标水平附近，联储可能采取一些收紧货币政策的措施，这一信息来自会议纪要披露。",
-              "source_url": "https://36kr.com/newsflashes/3818562881504389?f=rss",
+              "title": "ArtificialAnalysis：千问3.7登顶国产模型第一，跻身全球前五",
+              "brief": "第三方机构ArtificialAnalysis公布最新全球大模型榜单，阿里新发布的旗舰模型Qwen3.7-Max得分56.6分。其性能被描述为接近GPT、Claude和Gemini的最强模型，排名全球第五、国产第一；同时，Qwen3.7-Max即将上线阿里云百炼，对外提供API服务。",
+              "source_url": "https://36kr.com/newsflashes/3818678530507905?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 12:43:02  +0800"
+              "published_at": "2026-05-21 14:40:40  +0800"
             },
             {
-              "title": "英力股份称二季度笔电结构件订单环比增加",
-              "brief": "针对进入二季度后笔电结构件订单月度环比趋势以及CPU缺货是否缓解的问题，英力股份在互动平台回应称，公司二季度笔电结构件订单月度环比有所增加。与此同时，CPU缺货情况仍然紧张。此次答复同时覆盖需求与供应两端，核心细节是订单较前期增加，但关键芯片端的紧张状态尚未缓解。",
-              "source_url": "https://36kr.com/newsflashes/3818552844780676?f=rss",
+              "title": "沪深两市成交额突破3万亿元",
+              "brief": "36氪消息称，沪深两市成交额已突破3万亿元，反映A股当日交易规模继续放大。现有内容披露的信息较为简短，未进一步给出上证、深证两市分别成交情况，也未说明放量出现的具体时点、板块分布或个股推动因素，目前可确认的核心细节即总成交额突破3万亿元。",
+              "source_url": "https://36kr.com/newsflashes/3818672355672962?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 12:32:49  +0800"
+              "published_at": "2026-05-21 14:34:23  +0800"
             }
           ]
         },
