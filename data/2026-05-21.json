@@ -1,6 +1,6 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T14:53:56.756126+08:00",
+  "generated_at": "2026-05-21T16:55:01.879773+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "MacBook Pro OLED 屏幕生产跨过关键门槛",
+              "brief": "苹果首批OLED版MacBook Pro所需面板生产已跨过重要制造门槛，三星显示在Gen 8.6 OLED产线上的良率据称已超过90%，部分工序达95%。由于笔记本OLED面板尺寸更大、对亮度和寿命要求更严，制造难度高于手机屏幕；这批面板最早可能6月进入供应链，面向未来14英寸和16英寸机型，预计今年供应约200万块。",
+              "source_url": "https://www.macrumors.com/2026/05/21/macbook-pro-oled-display-production/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-21T16:41:27+08:00"
+            },
             {
               "title": "iOS 27 新增 AI 语音控制功能，暗示 Siri 即将迎来重大升级",
               "brief": "苹果展示了 iOS 27 将在 iPhone 和 iPad 上推出的语音控制新能力，借助 Apple Intelligence，用户可用自然语言描述屏幕上的按钮与控件。这类无障碍功能通常会在全球无障碍意识日前作为下一代系统预览发布，也被视为在为苹果于 WWDC 2024 首次公布、具备屏幕感知能力的 Siri 升级铺路，首批仅支持美国、加拿大、英国和澳大利亚的英语用户。",
@@ -122,45 +129,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "这台看起来可疑的联想海盗掌机其实是正规产品",
-              "brief": "联想已确认，近日曝光的 Lenovo G02 掌机并非仿冒，而是通过区域品牌授权在中国市场销售的合法产品。此前这款约 60 美元的 Linux 掌机突然现身电商平台，因价格低且宣传低调而引发真伪质疑。联想表示它不属于官方全球产品线，且设备据称预装了数千款受版权保护的游戏，其中包括任天堂作品。",
-              "source_url": "https://www.androidauthority.com/sketchy-lenovo-pirate-handheld-official-3669591/",
+              "title": "Android 17 带来更聪明的媒体切换器",
+              "brief": "Android 17 QPR1 Beta 3 为通知栏和锁屏中的媒体控制加入了新的应用切换界面，用卡片式布局取代原先的轮播样式。此前系统通过左右滑动在多个媒体应用间切换，但播放器本身也依赖滑动控制进度，容易误操作。新设计把其他应用缩成两侧小卡片，既可滑动也可点按切换，同时仍按本地播放、远程播放和可恢复会话的优先级排序显示。",
+              "source_url": "https://www.androidauthority.com/android-17-new-media-app-switcher-ui-3669602/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-21T14:41:04+08:00"
+              "published_at": "2026-05-21T16:35:29+08:00"
             },
             {
-              "title": "危险的 Chrome 漏洞可能已让你的浏览器成为僵尸网络一部分",
-              "brief": "一项新披露的 Chromium 漏洞可能让恶意网站在无需下载、弹窗或用户交互的情况下，悄悄劫持 Chrome、Edge 等浏览器。问题出在 Browser Fetch，这一本用于后台持续下载的功能可被滥用来维持长期连接，使浏览器充当代理或 DDoS 攻击节点。研究员 Lyra Rebane 于 2022 年底上报该问题，但报道称近 29 个月后仍未修补。",
-              "source_url": "https://www.androidauthority.com/chromium-browser-vulnerability-3669581/",
+              "title": "Android 17 QPR1 Beta 3 曝光新截图按钮",
+              "brief": "Android 17 QPR1 Beta 3 的截图浮层中出现了两个新按钮，分别是“复制到剪贴板”和“在文件夹中打开”。前者可把截图直接放入剪贴板，便于在支持图片粘贴的应用中快速插入，后者则会在 Files 应用中打开截图所在位置。它们也曾出现在泄露的 Aluminium OS 版本中，而启用后手机上的长截图功能会被关闭，显示这组按钮可能更面向 Aluminium OS 设备。",
+              "source_url": "https://www.androidauthority.com/android-17-screenshot-overlay-new-buttons-apk-teardown-3669650/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-21T13:49:52+08:00"
+              "published_at": "2026-05-21T15:55:49+08:00"
             },
             {
-              "title": "Wear OS 7 将引入“Wear Widgets”，但 Tiles 暂时不会消失",
-              "brief": "Google 在 Wear OS 7 中正式引入“Wear Widgets”，作为推动 Android 各类设备组件统一的一部分。公司将其称为 Tiles 演进的下一步，意在让开发者把手机、平板、汽车和手表组件纳入同一体系，而不必分别开发。新组件提供与安卓相同的 2×1 和 2×2 布局，Google 同时表示 Tiles 目前仍会继续获得支持。",
-              "source_url": "https://www.androidauthority.com/wear-os-7-widgets-vs-tiles-3669585/",
+              "title": "特朗普手机开箱：盒内配件比谷歌和三星更多",
+              "brief": "特朗普移动的 T1 手机在经历较长延期后已开始向部分预购用户发货，CNET 也公布了开箱内容。与许多只附带 USB-C 线缆的手机不同，这款设备包装内除了编织 USB-C 线外，还附送充电器和透明保护壳。报道同时提到，手机采用塑料后盖，预装 Doctegrity 和 Truth Social，拍摄照片默认带有 T1 标识及时间日期水印，外界普遍认为它可能是 HTC U24 Pro 的换标机型。",
+              "source_url": "https://www.androidauthority.com/trump-phone-unboxing-3669630/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-21T13:28:18+08:00"
+              "published_at": "2026-05-21T15:40:28+08:00"
             },
             {
-              "title": "Hypershell X 系列为可穿戴外骨骼带来端到端 AI 运动控制",
-              "brief": "Hypershell 发布 X 系列外骨骼，将 HyperIntuition AI 运动控制带入消费级产品。新系统把原始传感器数据直接映射为电机扭矩，替代旧有步态匹配方案，以提升地形变化下的响应。三款机型均配备该系统，响应时间 0.31 秒，较上代快 64%，步态同步率 97.5%，并通过 TÜV Rheinland 与 SGS 验证。",
-              "source_url": "https://www.androidauthority.com/new-hypershell-x-series-3668529/",
+              "title": "Googlebooks 甚至在发布前就可能遇到 Chromebook 的老问题",
+              "brief": "堪萨斯城公立学校宣布将逐步把 3 万多台 Chromebook 和 Windows 电脑更换为苹果的 MacBook Neo，转向“全 Apple 学区”。该学区已为学生采购了 4500 多台 MacBook Neo，低年级学生则继续使用现有 iPad 和 MacBook Air。Chromebook 过去凭借低价、易管理和教育生态在美国学校广受欢迎，而这一变化也发生在谷歌刚公布基于 Android、主打 Gemini 的 Googlebooks 之后。",
+              "source_url": "https://www.androidauthority.com/kansas-city-schools-macbook-neo-vs-chromebooks-3669636/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-21T09:15:12+08:00"
+              "published_at": "2026-05-21T15:30:47+08:00"
             },
             {
-              "title": "AYANEO确认本周将公布新产品",
-              "brief": "AYANEO宣布将于2026年5月21日举办产品分享会，并在Discord进行直播，官方预告届时会公布新产品并谈及未来愿景。尽管这家推出过Pocket Vert和KONKR FIT的掌机厂商与其他厂商一样受到持续内存短缺影响，但新品开发并未停下。活动定于美国东部时间当天上午8点开始，CEO张亚瑟将出席并与玩家交流，但具体发布内容仍未说明。",
-              "source_url": "https://www.androidauthority.com/ayaneo-sharing-session-for-new-handhelds-3669550/",
+              "title": "Roku 推出黑五风格流媒体促销，订阅最低打到一折",
+              "brief": "Roku 推出一轮大规模流媒体订阅促销，30 多项服务最高可打九折，涵盖 Starz、Hallmark+ 和 Apple TV 等。此次优惠主要面向新用户或回归用户，多数方案只持续约两个月，并非长期降价。以美国市场为例，部分价格如 Starz 每月 1.99 美元、Apple TV 每月 5.99 美元的活动将于 5 月 24 日结束，随后订阅会自动恢复到正常月费。",
+              "source_url": "https://www.androidauthority.com/roku-streaming-deals-3669603/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-21T05:20:19+08:00"
+              "published_at": "2026-05-21T14:53:19+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Anthropic据称即将迎来首个盈利季度",
+              "brief": "据《华尔街日报》报道，Anthropic预计截至6月的季度营收将达到109亿美元，营业利润约5.59亿美元，若完成目标，这将是其自2021年成立以来首次实现季度盈利。公司据称已在当前融资轮中向一批投资者披露这些数字，估值甚至可能超过OpenAI；但随着继续扩大运营并增加算力等支出，它也预计之后几个季度不会继续保持盈利。",
+              "source_url": "https://www.engadget.com/2178340/anthropic-first-profitable-quarter/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-21T16:01:58+08:00"
+            },
             {
               "title": "三星工会就奖金达成暂定协议后暂停罢工",
               "brief": "三星韩国最大工会与公司就奖金方案达成暂定协议后，暂停原定5月21日开始、持续18天的罢工，避免近4.8万名员工停工。此前谈判因奖金封顶和分配比例破裂，工会要求取消相当于年薪50%的上限，并提高按年营业利润计提的奖金；多数成员来自存储芯片部门，罢工原本可能冲击三星主要利润来源。报道称三星同意取消上限，并拿出年营业利润的10.5%设奖金池，工会将于5月22日至27日表决。",
@@ -188,13 +202,6 @@
               "source_url": "https://www.engadget.com/2178088/kobo-ereaders-are-integrating-with-goodreads-alternative-storygraph/",
               "source_name": "Engadget",
               "published_at": "2026-05-21T03:52:45+08:00"
-            },
-            {
-              "title": "Xreal 的 Project Aura 智能眼镜展现 Android XR 的激进路线",
-              "brief": "Xreal在正式发布前于Google I/O展示了搭载Android XR的Project Aura智能眼镜，延续其偏重沉浸式AR体验而非全天候佩戴的产品路线。相较Warby Parker和Gentle Monster等更轻量的音频眼镜，它更像强化版One Pro，新增三枚摄像头用于手部追踪和拍摄照片、视频，并配备70度视场显示，在户外测试中仍保持较高亮度与清晰度，浏览YouTube和Chrome时手势导航也较顺畅。",
-              "source_url": "https://www.engadget.com/2177998/android-xr-xreal-project-aura-hands-on/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-21T02:43:38+08:00"
             }
           ]
         },
@@ -353,6 +360,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "Bitwarden 被私募基金收购了吗？",
+              "brief": "围绕“Bitwarden已被私募基金收购”的说法，文章梳理公开信息后指出，目前没有证据显示该公司已完成收购。相关猜测源于其近月变化：官方托管高级版年费十年来首次从10美元涨至19.80美元，CEO与CFO相继更换，官网“Always free”标记一度消失后又恢复，公司价值观表述也有调整；但创始人仍在，开源客户端、自托管与免费版均未取消。",
+              "source_url": "https://www.appinn.com/bitwarden-changes-202605/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-21T14:38:52+08:00"
+            },
+            {
               "title": "GitHub 员工安装恶意 VS Code 插件后约 3800 个内部仓库泄漏",
               "brief": "GitHub确认，一名员工安装了被植入恶意代码的VS Code扩展后，设备遭攻破，约3800个GitHub内部代码仓库因此泄漏。此次受影响的是GitHub自身内部私有仓库，而非用户数据，相关扩展已从VS Code应用商店下架。GitHub仍在调查，黑客组织TeamPCP也发帖声称掌握近4000个私有仓库源码并试图出售。",
               "source_url": "https://www.appinn.com/github-internal-3800-repos-breach-vscode-extension/",
@@ -371,6 +385,20 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "美国情报机构称伊朗无人机产能恢复快于预期",
+              "brief": "美国情报机构称，伊朗军工体系重建快于预期，已恢复无人机自主量产，部分评估认为其最快6个月即可全面恢复无人机打击能力。此事受关注，是因外界原本认为美以打击会长期削弱伊朗军力，而特朗普又多次扬言可能重启军事行动。消息人士称，现有打击最多只让重建延后数月，且部分国防设施仍完好无损。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563218.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-21T15:57:17+08:00"
+            },
+            {
+              "title": "Merlin推出大型货机自主飞行系统",
+              "brief": "Merlin发布面向大型货运飞机的自主飞行系统Merlin Pilot，目标是通过改装让现有重型货机具备高等级自动化能力。其背景是全球货机需求增长且飞行员持续短缺，无人化先在无载客货机上更易落地。该系统属于Condor产品家族，采用多传感器融合与自然语言处理，能理解空管指令并回应，初期将以“智能副驾驶”形式与人类安全驾驶员协同运行。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563216.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-21T14:57:05+08:00"
+            },
             {
               "title": "三星电子与工会达成协议，半导体部门绩效奖金最高约6亿韩元",
               "brief": "三星电子资方与工会5月20日在京畿道水原就2026年度薪资谈判正式达成协议，并同步就半导体部门绩效奖金形成共识，此前双方曾因薪资和奖金分歧一度紧张并出现罢工预告。方案规定拿出业绩的10.5%作为特别奖金且不设上限，其中40%分配给DS部门、60%再分配至子部门；若盈利兑现，存储芯片事业部员工叠加既有OPI后，全年绩效奖金最高可达约6亿韩元。",
@@ -391,20 +419,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1563210.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-21T13:35:17+08:00"
-            },
-            {
-              "title": "《GTA6》开发过久，多个现实取景地已不复原貌",
-              "brief": "由于《GTA6》开发周期过长，早年纳入素材库的多处现实取景地如今已发生明显变化，这让游戏与现实之间出现时间差。报道提到，其中包括一处2021年失火受损的汽车旅馆、被整体拆除的海边老式民居，以及去年完成拆除的一座储水塔；与此同时，迈阿密城区新建了大量高层建筑，新的城市天际线自然不会出现在游戏中。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1563208.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-21T13:35:02+08:00"
-            },
-            {
-              "title": "Valve回应《CS2》开箱涉赌指控：不违法，随机惊喜并非赌博",
-              "brief": "在纽约州将《CS2》武器箱系统指控为类似赌博后，Valve向法院提交驳回动议，称其并不违法。争议焦点是玩家付费购钥匙开箱，可能获得高价值稀有皮肤，也可能只拿到廉价重复物品，且未成年人参与广受批评；Valve则将其类比棒球卡、奇趣蛋和谷物盒赠品，强调没有其他州把盲盒定为犯罪，也不应突然将大量日常交易视作赌博。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1563206.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-21T13:34:01+08:00"
             }
           ]
         },
@@ -412,39 +426,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Hardkernel 推出 ODROID-H5 单板计算机，提供 4 个 M.2 和 10GbE",
-              "brief": "Hardkernel 发布 ODROID-H5 单板计算机，主打 4 个 M.2 接口和 10GbE 网络连接，面向需要更强扩展能力的小型开发与边缘场景。其 PCIe 通道被分配为 3 个 PCIe Gen3×2 M.2、1 个 PCIe Gen3×1 M.2，并连接瑞昱 RTL8127AT 网卡，还配备 DDR5 SO-DIMM、eMMC 焊盘、HDMI、双 DP、USB 和 24Pin 扩展口，官方标价 1200 元。",
-              "source_url": "https://www.ithome.com/0/953/362.htm",
+              "title": "技嘉推出双模 IPS 显示器 G27U，支持 UHD 160Hz / FHD 320Hz",
+              "brief": "技嘉发布双模IPS显示器G27U，可在UHD 160Hz和FHD 320Hz之间切换，瞄准既要高分辨率也要高刷新率的使用场景。该产品亮度350尼特、对比度1000:1，通过DisplayHDR 400认证，覆盖95% DCI-P3色域，并提供双HDMI 2.1、DP 1.4等接口。",
+              "source_url": "https://www.ithome.com/0/953/506.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T14:44:07+08:00"
+              "published_at": "2026-05-21T16:44:08+08:00"
             },
             {
-              "title": "英国监管机构批评 YouTube、TikTok 未充分保护未成年人网络安全",
-              "brief": "英国监管机构 Ofcom 指出，YouTube 和 TikTok 在保护未成年人网络安全方面措施远远不够，未能有效降低儿童接触不适宜内容的风险。背景是英国正要求平台加强青少年保护，Snap、Meta、Roblox 等已承诺增加限制措施。Ofcom 称现有证据显示两平台存在儿童不宜内容，且 11 至 17 岁社交平台用户中 73% 接触过有害内容，后续将审计推荐算法、审核系统和年龄认证机制。",
-              "source_url": "https://www.ithome.com/0/953/349.htm",
+              "title": "网易2026年第一季度营收306亿元，净利润107亿元",
+              "brief": "网易公布2026年第一季度业绩，营收306亿元，同比增长6.1%，净利润107亿元。财报显示，游戏及相关增值服务仍是核心收入来源，多款经典游戏保持较强活跃度与收入表现；有道、云音乐收入分别增长3.8%和6.6%，创新业务及其他收入为15亿元，同比下降4.6%。",
+              "source_url": "https://www.ithome.com/0/953/505.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T14:38:58+08:00"
+              "published_at": "2026-05-21T16:41:38+08:00"
             },
             {
-              "title": "OPPO Reno16 系列将主打实况拍摄，支持一拍多出和双景同拍",
-              "brief": "OPPO 预热 Reno16 系列，宣布新机将把实况拍摄作为主打卖点，强化手机影像玩法。官方介绍其支持 2 亿像素拍摄、长焦实况、前后 0.6× 超广角、4K 实况一拍多出、双景同拍及多种胶片风格。此前预热还提到该系列采用“怦然星动”配色和 3D 悬浮星球工艺，全系配备金属中框；消息称 Pro 机型还将提供四种配色。",
-              "source_url": "https://www.ithome.com/0/953/343.htm",
+              "title": "英特尔 CEO 陈立武：芯片两次流片仍未量产将解雇相关员工",
+              "brief": "英特尔CEO陈立武提出更严格的芯片研发要求，称若产品到B0版本仍无法进入量产，相关员工将被解雇。这项新规意在把设计缺陷尽量提前解决，要求A0版本就接近量产成熟度；公司还会在流片前严查设计、缺陷修复和IP使用情况，以减少过去那种依赖多轮步进版本反复修补问题的做法。",
+              "source_url": "https://www.ithome.com/0/953/504.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T14:36:57+08:00"
+              "published_at": "2026-05-21T16:39:10+08:00"
             },
             {
-              "title": "贝索斯称 AI 会提升所有人的价值，无需过度焦虑",
-              "brief": "亚马逊创始人贝索斯表示，人工智能会提升所有人的价值和社会生产效率，公众无需因相关讨论而过度焦虑。他将 AI 比作把铁锹换成推土机，认为若技术落地不受过多限制，人类终将走向更高效率和更充足的物质供给。此番表态正值大量高管、经济学家与研究者警示 AI 可能带来裁员和经济动荡之际，而软件工程行业也在经历裁员与组织调整。",
-              "source_url": "https://www.ithome.com/0/953/342.htm",
+              "title": "谷歌重塑 AI 搜索广告：Gemini 生成商品解读",
+              "brief": "谷歌宣布调整AI搜索中的广告展示方式，将在结果页中加入由Gemini生成的商品解读，并测试可直接提问的聊天式广告。这一变化围绕AI搜索和AI Mode展开，目标是让广告更自然嵌入对话；新样式还包括按问题匹配赞助商品、在作答下方全屏展示商品信息，以及在推荐列表中醒目插入带说明的广告内容。",
+              "source_url": "https://www.ithome.com/0/953/503.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T14:36:39+08:00"
+              "published_at": "2026-05-21T16:38:12+08:00"
             },
             {
-              "title": "安克 Prime 三折叠风冷三合一无线充电器开售，35W 售 799 元",
-              "brief": "安克 Prime 三折叠风冷多合一无线充电器已开售，总功率 35W，售价 799 元，面向同时为多设备补能的使用场景。产品采用三折叠结构，并通过 5 万次折叠测试验证。关键规格方面，其配备风冷散热，运行噪音低至 19dB，手机无线充电功率最高 25W，同时采用 MFW 认证的 Apple Watch 充电模组。",
-              "source_url": "https://www.ithome.com/0/953/338.htm",
+              "title": "vivo Y600 Turbo配置曝光：9020mAh电池、天玑8500，5月25日预售",
+              "brief": "vivo Y600 Turbo更多配置信息曝光，这款手机据称将配备9020mAh电池和天玑8500处理器，并于5月25日开启预售。现有爆料还提到其后置5000万像素主摄加200万像素镜头，机身厚8.2毫米、重215克，提供粉色和白色版本；官方目前尚未公布完整配置和售价。",
+              "source_url": "https://www.ithome.com/0/953/502.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-21T14:34:44+08:00"
+              "published_at": "2026-05-21T16:36:56+08:00"
             }
           ]
         },
@@ -452,39 +466,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "恒生科技指数跌幅扩大至2%",
-              "brief": "消息称，恒生科技指数盘中跌幅扩大至2%，显示香港科技板块当日回落幅度进一步加深。原始内容未进一步说明带动下跌的具体成分股、成交金额、触发因素或对应时间段，因此目前能够确认的关键信息，主要是该指数跌幅已扩大至2%这一市场变化。",
-              "source_url": "https://36kr.com/newsflashes/3818686071342215?f=rss",
+              "title": "阿里云发布金融级智能体平台“点金”",
+              "brief": "阿里云在2026阿里云峰会上发布金融级通用智能体平台“点金”，面向金融机构提供智能体能力。平台可直连市场行情和阿里资产，并原生支持Wind万得、盈米且慢、东方财富、恒生聚源等数据源，内置全链路审计与三重合规防线，同时支持零代码配置、混合算力架构、毫秒级响应和异构渠道统一接入。",
+              "source_url": "https://36kr.com/newsflashes/3818802171921538?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 14:48:21  +0800"
+              "published_at": "2026-05-21 16:46:27  +0800"
             },
             {
-              "title": "美国卫生部：未成年人屏幕时间过长已成公共卫生问题",
-              "brief": "美国卫生部发布报告称，儿童和青少年过度使用电子产品，已经成为一项公共卫生问题。报告点名的典型行为包括无休止地刷社交媒体、不停地发短信以及长时间玩电子游戏，核心信息是未成年人高频、持续的屏幕使用现象，已被上升到公共卫生层面加以关注。",
-              "source_url": "https://36kr.com/newsflashes/3818685062481031?f=rss",
+              "title": "Alphabet投资150亿美元在密苏里州建设数据中心",
+              "brief": "Alphabet宣布投资150亿美元，在美国密苏里州新弗洛伦斯建设新的数据中心，继续扩大基础设施布局。随着人工智能带动云服务和算力需求持续增长，该项目也成为密苏里州规模最大的科技基建项目之一。谷歌已在当地签约获得超过10亿瓦新增发电装机容量，并与公用事业企业Ameren合作推进逾5亿瓦配套电力产能落地。",
+              "source_url": "https://36kr.com/newsflashes/3818799926707329?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 14:47:19  +0800"
+              "published_at": "2026-05-21 16:44:10  +0800"
             },
             {
-              "title": "国际资本持续流出印度股市，今年以来全球投资者已撤出约230亿美元",
-              "brief": "国际资本持续流出印度股市，今年以来全球投资者累计撤出约230亿美元，进一步加大了卢比贬值压力。报道援引数据显示，这一撤资规模已经超过去年全年印度股市的外资流出总量，说明外资对印度股市的撤离仍在延续，且年内流出力度已高于上一整年。",
-              "source_url": "https://36kr.com/newsflashes/3818681110086529?f=rss",
+              "title": "福莱蒽特拟采购不超过8.5亿元IT设备及服务器",
+              "brief": "福莱蒽特公告称，公司拟采购IT设备及服务器，相关采购合同总金额预计不超过8.5亿元。公司表示，此次购买资产主要是为满足发展需要，并为后续持续发展提供必要支撑。公告摘要披露的核心信息包括采购对象为IT设备和服务器，以及合同金额上限为8.5亿元。",
+              "source_url": "https://36kr.com/newsflashes/3818797691798400?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 14:43:18  +0800"
+              "published_at": "2026-05-21 16:41:53  +0800"
             },
             {
-              "title": "ArtificialAnalysis：千问3.7登顶国产模型第一，跻身全球前五",
-              "brief": "第三方机构ArtificialAnalysis公布最新全球大模型榜单，阿里新发布的旗舰模型Qwen3.7-Max得分56.6分。其性能被描述为接近GPT、Claude和Gemini的最强模型，排名全球第五、国产第一；同时，Qwen3.7-Max即将上线阿里云百炼，对外提供API服务。",
-              "source_url": "https://36kr.com/newsflashes/3818678530507905?f=rss",
+              "title": "前4个月中俄贸易额达852亿美元，同比增长19.7%",
+              "brief": "商务部例行新闻发布会介绍，今年1至4月中俄贸易额达到852亿美元，同比增长19.7%，实现良好开局。中俄贸易已连续三年超过2000亿美元，双方后续将继续加强经贸政策沟通，以新质生产力打造新的增长引擎，并推动货物贸易和服务贸易提质升级。此次公布的关键数据是前4个月贸易额852亿美元、同比增长19.7%。",
+              "source_url": "https://36kr.com/newsflashes/3818770697569155?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 14:40:40  +0800"
+              "published_at": "2026-05-21 16:40:53  +0800"
             },
             {
-              "title": "沪深两市成交额突破3万亿元",
-              "brief": "36氪消息称，沪深两市成交额已突破3万亿元，反映A股当日交易规模继续放大。现有内容披露的信息较为简短，未进一步给出上证、深证两市分别成交情况，也未说明放量出现的具体时点、板块分布或个股推动因素，目前可确认的核心细节即总成交额突破3万亿元。",
-              "source_url": "https://36kr.com/newsflashes/3818672355672962?f=rss",
+              "title": "网易一季度营收306亿元，同比增长6.1%",
+              "brief": "网易发布2026年第一季度财报，一季度营收306亿元，同比增长6.1%；按非公认会计准则，归属于公司股东的净利润为113亿元。分业务看，游戏及相关增值服务净收入257亿元，同比增长6.9%；网易有道收入13亿元，同比增长3.8%，经营利润连续七个季度为正；云音乐净收入20亿元，同比增长6.6%；创新及其他业务净收入15亿元。",
+              "source_url": "https://36kr.com/newsflashes/3818787453305736?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-21 14:34:23  +0800"
+              "published_at": "2026-05-21 16:31:28  +0800"
             }
           ]
         },
