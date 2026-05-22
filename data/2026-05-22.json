@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:56:43.925264+08:00",
+  "generated_at": "2026-05-22T18:54:33.812034+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,45 +129,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌公布首批 Wear OS 小组件合作伙伴，并解释新系统如何省电",
-              "brief": "谷歌在 I/O 2026 开发者会议上展示了 Wear OS 7 的新手表小组件系统，并确认将原先的 Tiles 更名为 Wear Widgets，以统一 Android 设备上的小组件体验。新系统提供 2×1 与 2×2 布局，首批合作应用包括 Spotify、WhatsApp、Peloton 和 Todoist，并借助 Remote Compose 带来更丰富动画、更顺滑交互、更易跨设备适配和更低功耗。",
-              "source_url": "https://www.androidauthority.com/google-wear-os-7-wear-widgets-early-partners-availability-features-3670112/",
+              "title": "Pixel Fold 用户报告严重故障，导致其中一块屏幕无法使用",
+              "brief": "多位初代 Google Pixel Fold 用户称，近期更新后手机会出现外屏随机黑屏或失去响应的问题，严重时甚至只剩一块屏幕可用。由于重启一度能恢复、且开机时外屏仍会显示 Google 标志，迹象指向软件异常而非屏幕硬件损坏。报道还提到，一名用户在电量耗尽后再开机时外屏彻底失效，谷歌尚未发布正式修复，临时办法是借助 GitHub 或 F-Droid 上的 Fold Switcher 应用恢复外屏。",
+              "source_url": "https://www.androidauthority.com/pixel-fold-screen-not-working-3670146/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T16:42:29+08:00"
+              "published_at": "2026-05-22T18:35:23+08:00"
             },
             {
-              "title": "T-Mobile 回应强推 T-Life 自助应用的报道",
-              "brief": "在有关 T-Mobile 将门店业务强制转向 T-Life 应用自助办理的报道后，该公司发布声明为这款应用辩护，并称一线员工仍是服务客户的重要组成部分。背景是泄露内部时间表称，自 2026 年 7 月 31 日起零售员工将无法再使用旧后台销售系统。声明未正面回应该节点，但表示无法使用应用的客户未来仍可由员工在应用外获得协助。",
-              "source_url": "https://www.androidauthority.com/t-mobile-t-life-retail-timeline-leak-statement-3670096/",
+              "title": "联想发布两款游戏平板，但都不会在美国上市",
+              "brief": "联想发布两款新款 Legion Y900 安卓旗舰游戏平板，分别配备 11.1 英寸和 13 英寸屏幕，但报道指出它们将无缘美国市场。两款产品都主打高规格娱乐体验，配备 4K、144Hz、峰值 1100 尼特显示屏、大容量电池和高音量扬声器，并支持第二代 Lenovo Pen Pro 触控笔。配置上，11 英寸版搭载天玑 9500S，13 英寸版搭载骁龙 8 Gen 5，均提供最高 16GB 内存、512GB 存储和 68W 快充。",
+              "source_url": "https://www.androidauthority.com/lenovo-egion-y900-gaming-android-tablet-3670145/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T15:37:34+08:00"
+              "published_at": "2026-05-22T18:22:48+08:00"
             },
             {
-              "title": "Google Wallet 将新增旅行与会员功能，变得更智能",
-              "brief": "谷歌宣布为 Google Wallet 加入更多面向出行的功能，想把它从单纯存放登机牌的工具变成旅途中更主动的助手，延续此前锁屏航班动态更新的方向。新功能将支持从登机牌直接提示加入航司常旅客计划、自动关联并推送登机牌等相关票证，巴西已有航司采用这套机制；同时 Nearby Passes 会改进，并将新增数字收据支持。",
-              "source_url": "https://www.androidauthority.com/google-wallet-updates-google-io-2026-3670076/",
+              "title": "Android 主屏小组件即将迎来大幅升级",
+              "brief": "谷歌在 Google I/O 2026 宣布，将借助 Jetpack Glance 中的新底层渲染引擎 Remote Compose，全面升级 Android 手机、手表和车载仪表盘上的小组件体验。此举旨在解决移动端与穿戴端长期分裂的开发方式，并把逻辑、动画、平滑缩放、动态主题等能力下沉到系统层，减少唤醒应用带来的耗电。开发者接入后，这些新特性将在 Android 16 及以上原生支持，Android 15 及以下设备则使用安全的静态回退方案。",
+              "source_url": "https://www.androidauthority.com/android-widgets-overhaul-remote-compose-3670122/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T14:57:14+08:00"
+              "published_at": "2026-05-22T18:20:37+08:00"
             },
             {
-              "title": "泄露邮件称 T-Mobile 门店交易将全面转向 T-Life 应用",
-              "brief": "一封据称来自 T-Mobile COO Jon Freier 的内部邮件显示，公司计划在 2026 年把门店零售交易全面转向 T-Life 应用自助办理，旧后台销售系统权限据报将于 7 月 31 日终止，10 月 1 日起升级、加线和新开户都需通过应用完成。员工抱怨应用缓慢、广告过多，而公司后续声明未确认该时间表。",
-              "source_url": "https://www.androidauthority.com/t-mobile-t-life-retail-timeline-leak-3669697/",
+              "title": "我试用了改版后的 Gemini 安卓应用，谷歌哪里做错了",
+              "brief": "谷歌为 Gemini 安卓应用带来了名为 Neural Expressive 的全新界面，回答中还能直接融合图片、图表、时间线和视频等多媒体内容。文章认为，这次改版在视觉上明显比旧版更鲜活，也更贴合谷歌新的设计语言，但功能性没有同步提升。作者试用两天后指出，漂亮外观牺牲了实用性，一些设计甚至比旧版更退步，尤其是极简控件、工具与附件整合以及更拥挤的侧边栏，削弱了原本更直观的使用体验。",
+              "source_url": "https://www.androidauthority.com/gemini-neural-expressive-android-app-hands-on-3668985/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T14:48:48+08:00"
+              "published_at": "2026-05-22T18:00:03+08:00"
             },
             {
-              "title": "AYANEO 首次正式展示类 Game Boy 掌机 KONKR Pocket BLOCK",
-              "brief": "AYANEO正式确认并展示了KONKR Pocket BLOCK，这是一款采用类似Game Boy竖版设计的新掌机。该机此前刚刚泄露，外界预期它可能比AYANEO现有同类产品更便宜、也更适合随身携带。已公开细节包括塑料机身、无模拟摇杆、左侧microSD卡槽、底部3.5mm接口，直播还显示机身相当小巧，提供灰色和紫色两种配色，公司暂未公布核心规格。",
-              "source_url": "https://www.androidauthority.com/ayaneo-konkr-pocket-block-official-look-3670068/",
+              "title": "BOOX 预热又一款安卓电子墨水平板，对标 Kindle Scribe",
+              "brief": "BOOX 预告将推出新款 Note X6 电子墨水平板，并确认于 5 月 27 日在中国正式发布，继续扩充本月的墨水屏产品线。官方预热图已显示该机采用黑白显示屏并支持手写笔，但完整规格仍未公布。报道称，它很可能延续上一代 Note X5 的定位，后者配备 10.3 英寸 Carta 1300 屏幕、前光、4GB 内存和 64GB 可扩展存储，同时支持 EMR 手写笔、Wi‑Fi、扬声器、麦克风和 3700mAh 电池。",
+              "source_url": "https://www.androidauthority.com/boox-teases-note-x6-3670142/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T14:22:59+08:00"
+              "published_at": "2026-05-22T17:43:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "特朗普推迟签署AI监管行政命令",
+              "brief": "特朗普推迟签署一项有关政府监管AI的行政命令。该命令原本要求企业在发布先进模型前向政府共享模型以接受安全审查，后已改为自愿参与。报道称，马斯克、扎克伯格和戴维·萨克斯等人在最后时刻施压，称新制度可能拖慢对美国经济已很重要的AI发展；白宫原定于昨日举行的签署仪式已取消，特朗普尚未说明何时或如何修改后再签。",
+              "source_url": "https://www.engadget.com/2179211/trump-postpones-ai-oversight-bill-after-big-tech-pressure/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-22T17:25:59+08:00"
+            },
             {
               "title": "报道称《命运》开发商 Bungie 将进行大规模裁员",
               "brief": "彭博社称，《命运》开发商Bungie正计划进行“大规模”裁员。工作室此前宣布结束《命运2》的主动开发，转向下一批游戏，但报道说目前既无新项目排期，也不会立即启动《命运3》；团队正集中资源支持3月上线、表现未达索尼预期的《马拉松》，部分《命运》员工近月已调往该项目，《命运2》最后一次实时服务更新将于6月9日推出，服务器仍计划多年保持开放。",
@@ -195,19 +202,19 @@
               "source_url": "https://www.engadget.com/2179075/you-can-now-add-chatgpt-to-powerpoint/",
               "source_name": "Engadget",
               "published_at": "2026-05-22T06:27:13+08:00"
-            },
-            {
-              "title": "Bungie 将于 6 月 9 日结束《命运 2》主动开发",
-              "brief": "邦吉宣布将于6月9日停止《命运2》的主动开发，并以“凯旋丰碑”作为最后一次内容更新，为这款运营近九年的在线射击游戏收尾。此举发生在公司经历裁员、被索尼收购及《马拉松》延期后上线且评价不一的阶段。最终更新将改善回流体验，恢复Director界面、把Portal移到底部节点菜单，加入常驻Pantheon模式，并升级全部突袭和地牢装备。",
-              "source_url": "https://www.engadget.com/2178883/bungie-will-end-active-development-of-destiny-2-on-june-9/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-22T03:21:38+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "微软允许 Office 用户移除恼人的 Copilot 按钮",
+              "brief": "微软将于下周更新 Office，允许用户关闭近期出现在 Word、Excel 和 PowerPoint 右下角的悬浮 Copilot 按钮。这个按钮会遮挡表格或文档内容，尤其让 Excel 用户反感，因为此前无法完全禁用。微软承认更新提高了 Copilot 的使用率，但用户也要求更大的显示控制权，因此短期内先加入移除选项，并支持把按钮移回功能区。",
+              "source_url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+              "source_name": "The Verge",
+              "published_at": "2026-05-22T05:52:19-04:00"
+            },
             {
               "title": "安克新耳机首搭 AI 芯片，增强降噪能力",
               "brief": "安克发布 Soundcore Liberty 5 Pro 系列耳机，这是其首款搭载 Thus AI 音频芯片的产品，主打在嘈杂环境中提升主动降噪表现，并让语音指令识别和通话收音更清晰。该系列是自 2024 款 Liberty Pro 推出带屏充电盒后首次更新；其中 Liberty 5 Pro Max 配备更大的触控屏、更多控制项，并支持脱离手机录制会议。",
@@ -235,19 +242,19 @@
               "source_url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
               "source_name": "The Verge",
               "published_at": "2026-05-21T16:15:18-04:00"
-            },
-            {
-              "title": "Firefox 正在推进圆角改版，让隐私和 AI 控制更易找到",
-              "brief": "Mozilla公布代号“Nova”的Firefox大改版，计划于今年晚些时候开始推送，重点是让隐私设置更容易查找和使用，并把关闭当前及未来AI功能的开关放得更显眼。此次更新还将带回紧凑模式、增加自定义选项，界面改为更圆润的标签和工具栏，并更新受火焰启发的配色与跨明暗主题更统一的图标。",
-              "source_url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
-              "source_name": "The Verge",
-              "published_at": "2026-05-21T16:05:09-04:00"
             }
           ]
         },
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Sonos 应用目前无法在 iOS 和 Mac App Store 下载",
+              "brief": "Sonos应用目前已无法在iPhone和Mac的App Store下载，公司表示正调查一项导致上架异常的问题，应用约在两小时前从商店消失。官方状态页同时显示Sonos Account出现重大故障，暗示两者可能相关；目前应用页面显示无法找到，商店搜索也无结果，且在问题解决前，用户下载或更新应用都可能受影响。",
+              "source_url": "https://www.macrumors.com/2026/05/22/sonos-app-vanishes-app-store/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-22T18:16:41+08:00"
+            },
             {
               "title": "不想等到 iOS 27？MacStories 的 Shortcuts Playground 可用 AI 生成捷径",
               "brief": "MacStories 的 Federico Viticci 发布了 Shortcuts Playground，这是一款面向 Claude Code 和 OpenAI Codex 的插件，可根据自然语言为苹果快捷指令应用生成捷径。苹果据传会在 iOS 27 的快捷指令中加入类似能力，而该工具现在就能使用，用户输入一句需求后，几分钟内就能得到可在 Finder 中导出并导入快捷指令的文件。项目已在 GitHub 免费开源，但作者提醒 AI 生成结果不保证百分之百准确，仍需人工检查。",
@@ -367,6 +374,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "ToDesk 装机量突破 2.3 亿：8K 画质推动远控软件迈向更高清竞争",
+              "brief": "ToDesk宣布全球累计装机量突破2.3亿，并以8K超高清远程控制作为核心卖点。文章指出，随着远程办公、技术支持和跨设备协作增多，画质模糊、色差和卡顿长期是远控软件痛点；ToDesk称其可提供7680×4320分辨率、360帧传输与最低3ms延迟，并支持Windows、macOS、Linux、iOS、Android等多平台互通，以及文件传输、扩展屏、隐私屏和全球节点部署。",
+              "source_url": "https://www.appinn.com/todesk-8k/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-22T16:57:57+08:00"
+            },
+            {
               "title": "赛博领鸡蛋：古墓丽影、纪念碑谷 3 等 6 款游戏限免",
               "brief": "小众软件汇总了5月22日至28日期间可免费领取的6款游戏，覆盖Epic与Steam平台，其中Epic送出《逃出百慕大》、收录《最后的启示录》等作品的《古墓丽影》复刻合集，以及手机游戏《纪念碑谷3》。文章面向关注限免的玩家，方便一次查看活动信息；其余名单还包括《Steampunks Vs Skeletons》《汽车机械模拟器2018》和《战锤40,000：格雷迪厄斯》，类型涉及解谜、平台跳跃、修车模拟与4X策略。",
               "source_url": "https://www.appinn.com/eggs-26522/",
@@ -400,6 +414,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "AMD CEO苏姿丰：中国市场占公司营收20%，非常重要",
+              "brief": "AMD CEO苏姿丰在接受采访时表示，中国内地约占AMD营收的20%，仍是公司非常重要的市场。她是在结束中国内地行程、启程前往中国台北前作出这番表态，背景是外界高度关注AI芯片尤其GPU需求，而她认为AI推理和智能体AI开始加速后，CPU市场也会显著扩张。她称中国本土半导体企业进步很快，AMD在当地个人电脑、游戏及部分数据中心领域均有大量业务，并预计未来五年CPU市场年增速将超过35%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563326.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-22T17:31:34+08:00"
+            },
+            {
+              "title": "中国证监会拟没收并处罚老虎、富途和长桥境内非法经营所得",
+              "brief": "中国证监会拟对老虎证券、富途控股和长桥证券在境内非法经营业务没收违法所得并处罚，认定其在未获许可情况下开展证券营销、处理交易指令等服务，并非法从事公募基金销售和期货经纪业务。此举背景是证监会等8部门正推进非法跨境证券期货基金经营活动整治，方案提出两年集中清理存量业务，期间仅允许单向卖出并转出资金，同时强调投资者财产安全及现有合法渠道不受影响。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563324.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-22T17:30:03+08:00"
+            },
+            {
               "title": "腾讯音乐宣布解除在线音频内容版权独家授权",
               "brief": "腾讯音乐宣布，将放弃并解除在线音频内容版权独家授权，后续不再以独家方式开展相关合作，涉及在线音频内容版权授权合作模式和安排的调整。公司表示，此次行动是落实反垄断审查附加限制性条件的关键举措，核心目的是维护在线音频市场公平竞争秩序，进一步推动行业的持续健康发展。",
               "source_url": "https://www.cnbeta.com.tw/articles/music/1563322.htm",
@@ -419,20 +447,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/science/1563318.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-22T14:32:18+08:00"
-            },
-            {
-              "title": "英伟达不再单独披露显卡营收 财报改按场景划分",
-              "brief": "英伟达自2027财年起不再按游戏、专业可视化等产品线披露营收，改为数据中心和边缘计算两大平台。这反映其业务重心已全面转向AI基础设施，并试图用更贴近部署场景的方式展示增长引擎。新口径下RTX显卡、工作站图形卡和Switch芯片等收入将并入对应场景，数据中心一季度收入达752亿美元，边缘计算为64亿美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563316.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-22T13:34:32+08:00"
-            },
-            {
-              "title": "Meta与博通等向UCLA投资1.25亿美元建半导体研究中心",
-              "brief": "Meta、博通和应用材料等企业将向UCLA投资1.25亿美元，建立聚焦半导体与AI芯片研究的新中心，首期计划为五年。此举旨在加强学界与产业协作，缩短新技术从实验室到市场的周期，并培养下一代工程人才。中心将开展芯片、软件、制造等环节研究，并为工程类博士生提供在合作企业实习一年的机会。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563314.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-22T13:32:52+08:00"
             }
           ]
         },
@@ -440,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《平行人生》5月25日开启抢先体验，支持macOS",
-              "brief": "生活模拟游戏《平行人生》宣布将于5月25日开启抢先体验，目前已上线Steam商店页面，官方也同步放出预告和游戏图赏。参考预告，这款作品采用近似《模拟人生》的美式卡通画风，并在人物细节上加入更写实的处理，玩家还能乘坐火车等交通工具。游戏支持Windows和macOS，其中macOS版至少需要配备M2芯片的设备。",
-              "source_url": "https://www.ithome.com/0/954/042.htm",
+              "title": "雪铁龙宣布纯电 2CV 将于 10 月亮相，预计 1.5 万欧元起售",
+              "brief": "雪铁龙宣布经典车型2CV将以纯电形式回归，计划于10月正式亮相，预计起售价约1.5万欧元。该车是Stellantis到2030年前推出110款新车计划的一部分，也服务其面向欧洲低成本小型电动车的E-Car战略。预告图显示新车延续复古轮廓，保留低价、轻量、实用和多用途等核心理念，并计划于2028年在意大利投产。",
+              "source_url": "https://www.ithome.com/0/954/153.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-22T16:48:54+08:00"
+              "published_at": "2026-05-22T18:30:19+08:00"
             },
             {
-              "title": "领克07 GT计划三季度上市，原厂标配贴顶式行李架",
-              "brief": "领克07 GT计划在今年第三季度上市，官方最新披露新车将原厂标配贴顶式行李架，并强调当前曝光的路试车配置和功能仍非最终量产状态。这一设计与车顶线条融合度更高，也便于扩展车顶行李箱、自行车架和滑雪板架等户外装备。工信部此前公示信息显示，该车为插电式混合动力轿车，车长4846至4866毫米，轴距2843毫米，可选装尾翼、拖车钩等配置。",
-              "source_url": "https://www.ithome.com/0/954/039.htm",
+              "title": "导演方文就指控 B 站《大魔术师》抄袭致歉，被判赔 18 万余元",
+              "brief": "导演方文就曾公开指控B站五四短片《大魔术师》抄袭一事致歉。法院认定，他在未充分核实情况下发布“洗稿”“嫖创意”等言论，导致相关信息广泛传播并损害B站经营方名誉。判决认为涉案成片与其故事大纲差异明显，一般公众不会混淆；方文需删除相关内容、连续十日置顶道歉，并赔偿经济损失及合理开支18万余元。",
+              "source_url": "https://www.ithome.com/0/954/152.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-22T16:45:44+08:00"
+              "published_at": "2026-05-22T18:28:49+08:00"
             },
             {
-              "title": "《长安三万里2》制作中，将以杜甫为核心人物",
-              "brief": "国产动画电影《长安三万里2》已进入制作阶段，续作将以“诗圣”杜甫为核心人物展开。前作于2023年暑期上映，以高适回忆与李白交往的一生为主线，呈现盛唐气象与安史之乱后的时代变迁，也让杜甫等人物在片中留下鲜明印象。截至发稿，首部作品豆瓣评分为8.3，累计票房达到18.24亿元，原班人马打造的《三国第一部：争洛阳》也已定档7月10日。",
-              "source_url": "https://www.ithome.com/0/954/038.htm",
+              "title": "中老联合打击跨国电诈，494 名嫌疑人移交中方",
+              "brief": "中老警方联合打击跨国电信网络诈骗取得新进展，老挝警方近期开展专项行动，抓获494名涉诈犯罪嫌疑人，并在云南西双版纳磨憨口岸移交中方。今年以来，随着柬埔寨加大清剿力度，部分电诈窝点和人员转移至老挝继续作案。公安部已组织四川、重庆公安机关接收嫌疑人，并表示将继续推进窝点清剿、“金主”缉捕和人员遣返。",
+              "source_url": "https://www.ithome.com/0/954/151.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-22T16:45:26+08:00"
+              "published_at": "2026-05-22T18:19:01+08:00"
             },
             {
-              "title": "曜越推出钢影极风S机箱风扇：支持串联，售价49.9元",
-              "brief": "曜越推出钢影极风S机箱风扇，定价49.9元，主打支持串联，产品目前已经上架。作为一款新的机箱散热配件，它强调通过串接方式简化多风扇布线，方便整机内部安装与连接。参数方面，这款风扇最大风量为75CFM，最高风压达到7.78mmH2O，IT之家文中同时附上了产品参数信息和电商直达链接。",
-              "source_url": "https://www.ithome.com/0/954/029.htm",
+              "title": "影石 Insta360 宣布李现为全球代言人，Luna 云台相机 6 月上市",
+              "brief": "影石Insta360宣布李现出任全球品牌代言人，并确认Luna系列云台相机将于6月上市。此前这款尚未开售的新机已在公开场合被拍到使用，4月还曾在美国拉斯维加斯NAB 2026展会上首次亮相。根据已披露信息，Luna Ultra由徕卡联合研发，支持6倍无损变焦、12倍混合变焦、一英寸主摄和F1.8光圈，可录制4K 10bit i-Log视频。",
+              "source_url": "https://www.ithome.com/0/954/146.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-22T16:40:18+08:00"
+              "published_at": "2026-05-22T18:12:39+08:00"
             },
             {
-              "title": "岚图泰山X8大五座SUV上市：首搭华为乾崑智驾四激光雷达",
-              "brief": "岚图泰山X8大五座SUV正式上市，售价29.29万元至37.99万元，首搭华为乾崑智驾四激光雷达。新车预售30天累计订单已突破5万台，因此官方同步推出选装权益和安心等车积分。产品层面，车辆提供PHEV和EV两种动力，采用全域800V与5C超充技术，分别对应370公里纯电加1506公里综合续航，以及727公里纯电续航，并配备华为双15.6英寸双联屏。",
-              "source_url": "https://www.ithome.com/0/954/018.htm",
+              "title": "Akko 推出初音未来 2025 演唱会联名三模机械键盘，售价 399 元",
+              "brief": "Akko推出“未来有你·初音未来2025演唱会”联名三模机械键盘，定价399元。产品采用五面热升华PBT键帽，支持全键热插拔和约1680万色ARGB灯效，面向偏重外观与可玩性的联名键盘市场。其内置10000mAh电池，关闭背光可连续使用400小时，搭载奶黄V5 Ultra轴体、Gasket结构与五层消音填充，2.4G和有线模式均支持8000Hz回报率。",
+              "source_url": "https://www.ithome.com/0/954/141.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-22T16:31:37+08:00"
+              "published_at": "2026-05-22T18:08:46+08:00"
             }
           ]
         },
@@ -520,39 +534,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "雅诗兰黛与Puig终止合并谈判，美妆巨头计划作罢",
-              "brief": "雅诗兰黛与Puig已终止合并谈判，原先希望通过两家公司整合来组建美妆巨头的计划因此告吹。这意味着双方不会继续推进这项合并安排，围绕打造大型美妆集团的设想同步作废，原本拟议中的交易框架、整合步骤和组建新巨头的方案也随之结束。",
-              "source_url": "https://36kr.com/newsflashes/3820222856237189?f=rss",
+              "title": "央行：4月沪深两市日均成交额23437.9亿元，环比增1.3%",
+              "brief": "央行发布2026年4月金融市场运行情况，披露A股主要指数和成交数据，这是其月度市场运行报告中的最新内容。报告显示，4月末上证指数收于4112.2点，环比上涨5.7%，深证成指收于15107.6点，环比上涨12.1%。在指数整体走高的同时，沪深两市当月日均成交额达到23437.9亿元，较上月增加1.3%。",
+              "source_url": "https://36kr.com/newsflashes/3820341355008128?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-22 16:51:38  +0800"
+              "published_at": "2026-05-22 18:52:11  +0800"
             },
             {
-              "title": "马来西亚将限制16岁以下用户使用社交媒体",
-              "brief": "马来西亚通信监管机构表示，将从6月1日起实施新的社交媒体监管措施，以减少青少年在网络平台上接触有害内容。根据通信与多媒体委员会声明，新规要求网络服务提供商设置保护机制，限制16岁以下用户注册和拥有账户，并在未成年人使用管理与平台内容治理两方面同步加强约束。",
-              "source_url": "https://36kr.com/newsflashes/3820217821417602?f=rss",
+              "title": "立方制药取得美阿沙坦钾片药品注册证书",
+              "brief": "立方制药公告称，公司已收到国家药监局核准签发的美阿沙坦钾片《药品注册证书》。此次获批的规格为40mg和80mg，药品适用于治疗成人原发性高血压。公司本次对外披露的信息主要围绕该品种完成注册审批展开，明确了获批剂型规格、签发机构以及对应的治疗用途。",
+              "source_url": "https://36kr.com/newsflashes/3820329002422657?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-22 16:46:31  +0800"
+              "published_at": "2026-05-22 18:39:37  +0800"
             },
             {
-              "title": "优步与JSW合作在印度开发和部署电动汽车",
-              "brief": "优步与印度跨国集团JSW签署合作谅解备忘录，双方将共同开发、推广并部署面向印度网约车市场的定制化电动汽车方案。合作的目标是提供更符合当地运营环境、成本效益和性能预期的车型，从而推动优步在印度各类出行服务中的电动化转型，并加快相关车辆方案落地。",
-              "source_url": "https://36kr.com/newsflashes/3820213271941509?f=rss",
+              "title": "恩捷股份终止在马来西亚投资建设锂电池隔离膜项目",
+              "brief": "恩捷股份公告称，公司决定终止在马来西亚新设子公司投资建设锂电池隔离膜项目。公司表示，此举与外部市场环境及行业竞争格局较前期发生变化有关，同时也结合了当前经营情况和整体战略布局。经审慎研判与充分评估后，公司将调整整体投资策略，以优化资源配置并降低投资风险。",
+              "source_url": "https://36kr.com/newsflashes/3820318239478147?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-22 16:41:53  +0800"
+              "published_at": "2026-05-22 18:28:40  +0800"
             },
             {
-              "title": "老虎证券与富途控股美股盘前跌幅扩大",
-              "brief": "老虎证券与富途控股在美股盘前的跌幅进一步扩大，其中老虎证券盘前跌幅扩大至45%，富途控股盘前跌幅扩大至33%。这则快讯更新的核心信息是，两家公司在开盘前股价继续走低，且老虎证券的盘前跌幅明显高于富途控股，显示当日盘前波动仍在进一步放大。",
-              "source_url": "https://36kr.com/newsflashes/3820212613828736?f=rss",
+              "title": "金诚信拟增加Alacran铜金银矿项目建设投资",
+              "brief": "金诚信公告称，因公司持有的Alacran铜金银矿权益已增至97.5%，拟按股权比例变化相应增加项目建设投资1.7867亿美元。调整后，公司对该项目累计出资金额约为4.0989亿美元。公告同时表示，除出资比例及对应出资金额变化外，项目投资概算和建设计划等其他安排均维持不变。",
+              "source_url": "https://36kr.com/newsflashes/3820314606965128?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-22 16:41:13  +0800"
+              "published_at": "2026-05-22 18:24:58  +0800"
             },
             {
-              "title": "零点有数与中国人寿推出“真AI宠”宠物保险科技平台",
-              "brief": "零点有数宣布将公司核心战略全面聚焦于AIKC，即垂直知识智能，并把垂直业务中的知识模型、数据模型和流程模型整合为完整知识体系。在这一背景下，公司与中国人寿财产保险签署战略合作协议，联合推出“真AI宠”宠物保险科技平台，目前其AIKC已在新消费和公共服务等领域落地。",
-              "source_url": "https://36kr.com/newsflashes/3820211771838848?f=rss",
+              "title": "苑东生物：维生素K1注射液获得药品注册证书",
+              "brief": "苑东生物公告称，公司近日收到国家药监局核准签发的维生素K1注射液《药品注册证书》。该药品活性成份为维生素K1，用于治疗维生素K缺乏性出血，并预防无法通过营养补充的维生素K缺乏症。公司表示，该产品按化学药品3类注册申报，获批后视同通过仿制药一致性评价。",
+              "source_url": "https://36kr.com/newsflashes/3820310770291073?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-22 16:40:22  +0800"
+              "published_at": "2026-05-22 18:21:04  +0800"
             }
           ]
         }
