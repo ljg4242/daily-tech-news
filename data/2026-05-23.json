@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T02:58:06.323421+08:00",
+  "generated_at": "2026-05-23T07:00:58.759982+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "谷歌就反垄断裁决提起上诉，称苹果选择其搜索引擎“公平竞争所得”",
+              "brief": "谷歌已就一项2024年反垄断裁决向美国哥伦比亚特区巡回上诉法院提起上诉，反对其因付费成为iPhone默认搜索引擎而被认定违法。谷歌称苹果选择Google Search源于产品更好、投入更多和竞争取胜，并未损害竞争；同时要求撤销共享搜索数据等补救措施，并主张将OpenAI等生成式AI公司排除在数据接收范围外。",
+              "source_url": "https://www.macrumors.com/2026/05/22/google-search-monopoly-appeal/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-23T04:18:26+08:00"
+            },
+            {
+              "title": "Aqara Camera Hub G350评测：4K录制、双镜头、云台追踪与AI主体检测",
+              "brief": "Aqara于3月推出Camera Hub G350，称其为首款通过Matter认证的智能摄像头，虽苹果尚不支持Matter摄像头，但它仍可接入Apple Home。评测指出，这款室内安防摄像头提供4K录制、双镜头、360度转动与移动追踪等功能，不过在HomeKit Secure Video中最高仅支持1080p，完整功能需配合Aqara应用使用。",
+              "source_url": "https://www.macrumors.com/review/aqara-camera-hub-g350/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-23T04:07:51+08:00"
+            },
             {
               "title": "搜索“disregard”会让谷歌搜索出错",
               "brief": "谷歌在本周 I/O 开发者大会上发布了由最新版 Gemini 驱动、被称为“智能搜索框”的新版搜索，但用户搜索“disregard”时，AI Overview 会把它识别成系统式指令并回复“已理解，消息已忽略”。这暴露了新搜索将普通查询误判为命令的缺陷；继续下滑仍能看到词典等常规结果，而“ignore”“stop”“remember”等词也会触发类似异常，移动端同样出现但空白区域较少。",
@@ -28,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/",
               "source_name": "MacRumors",
               "published_at": "2026-05-23T00:23:08+08:00"
-            },
-            {
-              "title": "苹果或在 iPhone 18 Pro 上撤回争议透明壳设计",
-              "brief": "流出的第三方透明壳图片显示，苹果可能在 iPhone 18 Pro 系列上改回更熟悉的 MagSafe 圆环式设计。背景是去年 iPhone 17 Pro 透明壳为配合下移的苹果标志，改用覆盖背部大部分区域的不透明白色面板，引发不少用户批评；这批新壳则恢复更开放的马蹄形或圆环布局，若与苹果官方方案一致，将意味着其对上一代争议设计作出调整。",
-              "source_url": "https://www.macrumors.com/2026/05/22/apple-could-reverse-clear-case-design/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-23T00:18:56+08:00"
             }
           ]
         },
@@ -42,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "新线索让带摄像头的 AirPods 更说得通",
-              "brief": "多方传闻称，苹果计划今年为AirPods加入红外摄像头，新品此前被猜测是约299美元的AirPods Pro 3变体，如今也有可能归入苹果今秋扩大的Ultra产品线。彭博社的Mark Gurman称，这些摄像头可支持视觉智能，例如识别面前物品、生成提醒和结合外部地标导航，但作者认为仅靠这些解释仍不充分，苹果本周公布的新一批无障碍功能，反而让其在健康和辅助使用上的意义更清晰。",
-              "source_url": "https://9to5mac.com/2026/05/22/airpods-with-cameras-suddenly-make-a-lot-more-sense-after-this-new-reveal/",
+              "title": "Gemini Mac 应用今夏加入 Spark 智能体和语音控制",
+              "brief": "Google计划今夏为macOS版Gemini应用加入Spark智能体和语音控制体验。Spark将先向Google AI Ultra订阅者在Android、iOS和网页开放测试，背景是Gemini正扩展为可执行任务的助手；Mac版还可处理本地文件、跨桌面自动化流程，并能在长按功能键后结合屏幕上下文，把口述内容整理成草稿直接插入文本框。",
+              "source_url": "https://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-23T02:10:55+08:00"
+              "published_at": "2026-05-23T06:27:28+08:00"
             },
             {
-              "title": "iOS 26.5.1 或很快发布，成为下一次 iPhone 更新",
-              "brief": "苹果上周刚向用户推送iOS 26.5，但在WWDC发布iOS 27前，下一版小更新iOS 26.5.1似乎已进入内部测试。9to5Mac通过访问日志确认其存在，并称类似补丁通常会在被发现后不久上线，时间可能落在下周，美国阵亡将士纪念日后的几天或再下一周初。按以往惯例，这类点版本主要修复漏洞和安全问题，偶尔也会补充对新硬件的兼容支持。",
-              "source_url": "https://9to5mac.com/2026/05/22/ios-26-5-1-could-launch-soon-as-next-iphone-update/",
+              "title": "WhatsApp 正开发集中界面显示哪些联系人在线",
+              "brief": "WhatsApp正在开发一个集中式联系人界面，用来显示哪些联系人当前在线或最近活跃。现有设计下，用户通常要逐个打开聊天窗口才能查看在线状态，这次调整意在减少这种重复操作；新页面会先显示收藏联系人，再列出在线和最近活跃的人，同时仍沿用现有隐私规则，只有公开自己在线状态的用户才能看到他人的相关信息。",
+              "source_url": "https://9to5mac.com/2026/05/22/whatsapp-is-working-on-a-centralized-interface-showing-which-contacts-are-online/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-23T01:15:52+08:00"
+              "published_at": "2026-05-23T05:43:10+08:00"
             },
             {
-              "title": "爆料称 iPhone 18 Pro 或将推出全新配色",
-              "brief": "社交媒体近日流出一张据称属于iPhone 18 Pro相机组件的图片，首次展示苹果可能采用的新配色。由于苹果虽重视保密，但新机量产前常会有供应链部件外泄，此前Macworld也曾援引消息称该机将提供银色、浅蓝、深樱桃和深灰四种颜色。此次图片被视为对该爆料的呼应，不过原始来源尚不清楚，真实性仍有待更多零部件信息出现后验证。",
-              "source_url": "https://9to5mac.com/2026/05/22/iphone-18-pro-leak-reveals-brand-new-colors-that-could-be-coming/",
+              "title": "Aqara G5 Pro 仍是优秀的户外 HomeKit 摄像头之一",
+              "brief": "Aqara G5 Pro仍被认为是值得关注的户外HomeKit摄像头。背景是支持HomeKit Secure Video的户外新品长期不多，而这款设备自2025年发布后结束了这一空档；它提供PoE和Wi‑Fi两种版本，具备4MP分辨率、真彩夜视、Zigbee 3.0、Thread边界路由器、Matter兼容和eMMC本地存储等能力。",
+              "source_url": "https://9to5mac.com/2026/05/22/why-the-aqara-g5-pro-remains-one-of-the-best-outdoor-homekit-camera-in-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-23T00:43:19+08:00"
+              "published_at": "2026-05-23T05:31:00+08:00"
             },
             {
-              "title": "传闻称 watchOS 27 将带来新版 Apple Watch 表盘",
-              "brief": "彭博报道称，代号为Orchid的watchOS 27正在测试多款新表盘，其中一款是对Modular Ultra的简化版本。消息之所以受关注，是因为Modular Ultra目前仅限Apple Watch Ultra，而近年的Series机型屏幕尺寸已较为接近。按现有说法，新表盘会保留大号时钟，但移除中央大组件、上方三枚小组件和表盘边缘信息区，改为底部仅放三枚小组件，目标是把部分Ultra体验带到标准Series手表。",
-              "source_url": "https://9to5mac.com/2026/05/22/watchos-27s-rumored-new-apple-watch-face-has-me-very-intrigued/",
+              "title": "苹果在 GitHub 分享 iPhone 和 Mac 的后量子密码学代码",
+              "brief": "苹果在GitHub发布corecrypto代码仓库，继续推进iPhone、Mac等平台的后量子密码学工作。这项工作自2024年随iMessage的PQ3协议公开落地后持续扩展，此次仓库包含corecrypto源码、ML-KEM与ML-DSA实现、测试和性能工具，以及用于验证实现符合FIPS 203与FIPS 204标准的形式化验证内容。",
+              "source_url": "https://9to5mac.com/2026/05/22/apple-shares-iphone-and-mac-post-quantum-cryptography-code-on-github/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-23T00:05:41+08:00"
+              "published_at": "2026-05-23T04:47:17+08:00"
             },
             {
-              "title": "F1 加拿大大奖赛观看方式汇总",
-              "brief": "本周末F1加拿大大奖赛在美国将同时登陆Apple TV和Netflix，成为一次少见的双平台直播安排。背景是苹果与Netflix达成特别交换协议，Apple TV在美国上线《极速求生》最新一季，Netflix则首次获得整场正赛同步播出权。由于这是冲刺赛周末，周五到周日都有比赛；Apple TV可免费观看练习赛，排位赛、冲刺赛和正赛需订阅，Netflix美国会员任意套餐可看正赛直播。",
-              "source_url": "https://9to5mac.com/2026/05/22/how-to-watch-the-f1-canadian-grand-prix/",
+              "title": "Apple TV+ 喜剧阵容继续扩大，多部新剧正在推进",
+              "brief": "Apple TV+正继续扩充喜剧片单，多部新作已进入播出或开发阶段。喜剧一直是该平台的强势类型，早期爆款《Ted Lasso》之后又出现《Shrinking》等作品；接下来今夏将有《Ted Lasso》回归、《Trying》新季和电影《The Dink》，同时苹果还在开发由本·斯蒂勒主演的新喜剧《Protective Custody》。",
+              "source_url": "https://9to5mac.com/2026/05/22/apple-tvs-hit-comedy-lineup-keeps-growing-with-big-new-series-coming/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-23T00:00:00+08:00"
+              "published_at": "2026-05-23T04:06:45+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Mac 版 Gemini 今夏将加入 Spark 代理与语音控制",
+              "brief": "Google 计划今夏在 Mac 版 Gemini 中加入 Spark 代理和全新语音控制，让它可代表用户处理本地文件并自动化桌面流程。Spark 将先于下周以测试版面向每月 100 美元的 Google AI Ultra 订阅者登陆 Android、iOS 和网页，支持接入 Gmail、Docs 等 Workspace 应用及第三方服务；Mac 端可长按功能键唤出悬浮入口，结合屏幕上下文把口述内容整理成草稿。",
+              "source_url": "https://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-23T06:26:50+08:00"
+            },
+            {
+              "title": "Google 渐变风格图标改版扩展至 Android、iOS 与网页",
+              "brief": "Google 正在把新的渐变风格图标扩展到 Android、iOS 和网页端，Docs、Sheets、Slides 等应用已更广泛出现新版标识。此次改版最早出现在网页应用启动器和 Chrome 新标签页，目的是回应旧图标辨识度不足的批评；目前网页端已全部铺开，iOS 覆盖更广，其他应用仍在推送，Keep 及部分首页左上角也已显示新图标，但编辑器内标识和 favicon 暂未更新。",
+              "source_url": "https://9to5google.com/2026/05/22/gradient-google-icon-redesign-web/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-23T05:37:00+08:00"
+            },
             {
               "title": "报道称 Snap 带显示 AR 眼镜将先于 Android XR 上市，售价约 2500 美元",
               "brief": "报道称，Snap计划在2026年秋季面向消费者推出带显示的新版Spectacles AR眼镜，价格目标约2500美元，并可能在6月的AWE大会先行预告。若时间表成真，它将比首批Android XR眼镜更早上市；Google仅确认2027年会有带显示机型，XREAL产品也要等到2026年底。与Meta和Google更像抬头显示的路线不同，Spectacles主打把数字物体放进真实空间的增强现实体验。",
@@ -101,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/05/22/google-ai-overview-dictionary/",
               "source_name": "9to5Google",
               "published_at": "2026-05-23T00:30:00+08:00"
-            },
-            {
-              "title": "Pixel 10 Pro Fold 长期评测：更难做好的第二次迭代",
-              "brief": "9to5Google 发布 Pixel 10 Pro Fold 长期评测，认为这款折叠屏在数月使用后，优点和问题都与前代高度相似。背景是作者曾在 Pixel 9 Pro Fold、Galaxy Z Fold 7 与 Pixel 10 间轮换后回到新机；关键细节是它机身明显更厚更重，但也更扎实，外屏比例更实用，不过边框未缩窄，内外屏体验仍不完全对等。",
-              "source_url": "https://9to5google.com/2026/05/22/pixel-10-pro-fold-long-term-review/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-23T00:00:00+08:00"
-            },
-            {
-              "title": "优惠汇总：百思买更新阵亡将士纪念日促销，Galaxy Fold 7 直降超 800 美元",
-              "brief": "百思买更新阵亡将士纪念日促销，多款设备出现大幅降价，其中 Galaxy Z Fold 7 开箱优品版优惠超过 800 美元。背景是新一代三星折叠机预计今夏发布，但当前在售机型仍是主打；关键细节包括 512GB 版降至 1381 美元，微软 Surface Laptop 7、Nest Learning Thermostat 和 LG 77 英寸 B5 OLED 电视也同步参与活动。",
-              "source_url": "https://9to5google.com/2026/05/22/deals-best-buy-memorial-day-galaxy-fold-surface-laptop/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-22T23:44:32+08:00"
             }
           ]
         },
@@ -122,39 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "第一代 Chromecast 突然失灵引发用户担忧",
+              "brief": "本周，多名第一代 Chromecast 用户发现设备突然无法从 Chrome、YouTube 和 Paramount+ 等常见应用投屏，一度担心谷歌在 2023 年停止支持后，终于把这款 35 美元的老设备彻底停用。这款产品 2014 年销量曾达 1000 万台，靠点按“Cast”即可投屏的极简体验延续至今。谷歌随后表示问题源于一次临时技术故障，团队已定位根因并完成修复，设备现在应已恢复正常。",
+              "source_url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-23T05:42:59+08:00"
+            },
+            {
+              "title": "特朗普治下 FCC 就 ABC《The View》是否属新闻节目征求意见",
+              "brief": "美国联邦通信委员会启动程序，征求公众意见，讨论 ABC 节目《The View》是否属于“真实新闻访谈节目”。这一认定关系到平等时间规则是否适用：若节目不属新闻豁免，广播电视台在涉及政治候选人时需给予对手同等时段。FCC 媒体局发布公告称，将评估节目形式和嘉宾安排究竟基于新闻价值，还是出于支持特定候选人的党派目的；相关调查由主席布伦丹·卡尔推动。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-23T05:10:46+08:00"
+            },
+            {
+              "title": "美国急阻网民重建遇难飞行员声音",
+              "brief": "美国国家运输安全委员会暂时下线其民用交通事故在线档案系统，原因是互联网用户利用调查材料中的声谱图，借助软件和 AI 近似重建致命空难飞行员最后时刻的语音。联邦法律禁止公开发布驾驶舱语音记录，但公开证据中的图像与计算方法形成了绕行路径。NTSB 表示正审查相关材料，此事涉及去年肯塔基州路易斯维尔 UPS 2976 货机坠毁调查。",
+              "source_url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-23T03:39:04+08:00"
+            },
+            {
+              "title": "《黑袍纠察队》结束，《Vought Rising》接棒",
+              "brief": "《黑袍纠察队》大结局播出仅两天后，Prime Video 就发布了前传剧《Vought Rising》的首支预告，继续推进这一系列宇宙。由于衍生剧《Gen V》在两季后被取消，连同计划中的《The Boys: Mexico》，新作将承担延续品牌的任务。官方称故事设定在 1950 年代，聚焦沃特国际的扭曲起源，詹森·阿克斯和阿雅·卡什将回归出演。",
+              "source_url": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-23T03:02:48+08:00"
+            },
+            {
               "title": "警方称攻破让罪犯“自以为安全”的 VPN",
               "brief": "欧洲执法机构宣布摧毁名为First VPN的服务，称其曾被勒索软件、数据窃取等犯罪活动用于隐藏踪迹。该服务多年在俄语网络犯罪论坛被宣传为可靠工具，主打匿名支付、隐蔽基础设施和面向犯罪用途的设计。调查始于2021年12月，办案人员后来进入服务系统，获取用户数据库和连接记录，识别出数千名相关用户，并在Bitdefender协助下查封域名、逮捕管理员。",
               "source_url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-23T02:43:54+08:00"
-            },
-            {
-              "title": "评《曼达洛人与古古》：表现平平",
-              "brief": "《曼达洛人与古古》作为热门Disney+剧集《曼达洛人》的院线衍生片上映，被寄望为自2019年以来首部新的《星球大战》电影带来新气象。评论认为影片整体只是中规中矩，剧情可预测、打斗场面平平，但古古与丁·贾林的关系仍有魅力。片中两人受新共和国指派追捕帝国军阀残部，由西格妮·韦弗饰演的沃德上校向他们下达任务。",
-              "source_url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-23T02:30:06+08:00"
-            },
-            {
-              "title": "得州总检察长起诉 Meta，质疑 WhatsApp 并非端到端加密",
-              "brief": "得州总检察长起诉Meta，指控其长期宣称WhatsApp提供端到端加密，但实际上公司能够读取未加密的消息内容。WhatsApp拥有超过30亿用户，自2016年以来一直将隐私保护作为核心卖点，马克·扎克伯格2018年也曾在美国参议院作出类似表述，而其加密机制采用的是Signal协议。报道同时指出，这起诉讼缺乏充分事实支撑，外界质疑其指控依据。",
-              "source_url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-23T02:13:05+08:00"
-            },
-            {
-              "title": "国际空间站退役前，哪些遗产值得保存？",
-              "brief": "随着NASA及其合作伙伴最早准备在2030年让国际空间站退役并受控解体，围绕应保存哪些空间站遗产的讨论开始升温。空间站支撑了人类在太空中最长时间的持续驻留，但由于其体量巨大、结构复杂，不可能整体保留。史密森学会国家航空航天博物馆5月21日在华盛顿召集策展人、考古学者、航天官员和宇航员，讨论为何保存、保存什么以及如何保存。",
-              "source_url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-23T01:59:29+08:00"
-            },
-            {
-              "title": "宣称可监听设备投放广告的营销商同意支付 88 万美元和解",
-              "brief": "曾宣称可利用设备“主动监听”实现广告定向的营销公司Cox Media Group Local Solutions，同意支付88万美元与美国联邦贸易委员会达成和解，另有两家营销公司各支付2.5万美元。该公司2023年推广名为Active Listening的服务，声称设备会收听用户谈话并利用语音数据投放广告。FTC称其宣传失实，而相关网页和博文后来已被删除。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-23T01:48:03+08:00"
             }
           ]
         },
@@ -162,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌开始向 Chromecast with Google TV 推送 Gemini",
-              "brief": "谷歌已开始向 Chromecast with Google TV 的 4K 机型推送 Gemini，意味着这项此前先在 Google TV Streamer 上线、推进速度一直较慢的功能，正扩展到更早的自家电视硬件。Android Authority 根据用户反馈确认，运行 UTTC.250917.004 固件且安全补丁日期为 2025 年 10 月的设备已出现 Gemini，HD 版是否跟进仍不明确。",
-              "source_url": "https://www.androidauthority.com/gemini-chromecast-with-google-tv-3670323/",
+              "title": "Helium Mobile 免费套餐将对所有用户结束",
+              "brief": "Helium Mobile据报将于6月11日终止现有用户的免费Zero Plan，未主动处理的客户会被自动转入每月15美元的Air Plan。该公司上月已停止向新用户提供这项套餐，当时还称老用户不受影响。Zero Plan最初提供3GB流量、300条短信和100分钟通话，邮件称免费模式长期不可持续。",
+              "source_url": "https://www.androidauthority.com/helium-mobile-ending-free-zero-plan-3670436/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-23T01:36:49+08:00"
+              "published_at": "2026-05-23T05:31:15+08:00"
             },
             {
-              "title": "特朗普移动确认客户数据外泄，仍未决定是否通知用户",
-              "brief": "特朗普移动承认客户数据曾通过公开网页暴露，包括邮箱、邮寄地址和电话号码，公司称问题与某个未具名的第三方平台有关。这一表态出现在媒体拿到特朗普手机、以及博主 Coffeezilla 披露网站泄露信息之后；发言人同时表示，没有证据显示财务信息外泄，公司仍在评估是否需要通知受影响用户。",
-              "source_url": "https://www.androidauthority.com/trump-mobile-data-exposure-3670309/",
+              "title": "Chromecast 并未“死亡”，Google 已推送修复",
+              "brief": "本周早些时候，大量Chromecast用户反映应用无法向设备投屏，Google现已确认导致这次中断的问题已经解决。由于此前已有Netflix屏蔽部分机型等迹象，这次故障一度引发外界猜测Chromecast是否会被放弃。报道提到，部分受影响用户此前已发现设备恢复正常，但Google仍未说明具体成因。",
+              "source_url": "https://www.androidauthority.com/chromecast-streaming-fix-3670405/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-23T01:21:16+08:00"
+              "published_at": "2026-05-23T05:10:32+08:00"
             },
             {
-              "title": "除 HD 版外，多款 Chromecast 已停止获得谷歌安全更新",
-              "brief": "谷歌更新了 Nest 设备软件支持页面，显示除 Chromecast with Google TV（HD）外，其余 Chromecast 设备都已停止接收安全更新，意味着多款产品正式走到生命周期终点。报道提到，存档页面显示这些机型在 3 月 13 日时仍受支持；与此同时，先前失灵的第一代 Chromecast 据用户反馈已恢复正常。",
-              "source_url": "https://www.androidauthority.com/google-ends-chromecast-support-for-several-models-3670317/",
+              "title": "最新 Pixel Watch 更新可能导致“查找手机”失效",
+              "brief": "多位Pixel Watch用户表示，手表近期安装软件更新后，“查找手机/响铃”功能失效，导致常用的寻机操作无法使用。问题在Reddit帖子中引发集中反馈，不少人称更新后立刻遇到相同故障。用户发现一个临时办法：直接在手表上向Gemini请求查找手机，对许多人仍可生效；Google已确认问题，并称正在为后续更新开发修复。",
+              "source_url": "https://www.androidauthority.com/pixel-watch-find-your-phone-issue-3670401/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-23T01:18:51+08:00"
+              "published_at": "2026-05-23T04:53:06+08:00"
             },
             {
-              "title": "苹果 iPad mini 在亚马逊跌破 400 美元",
-              "brief": "亚马逊把苹果第六代iPad mini售价降到399美元，低于其常见的437美元水平。这款平板因机身小巧但性能完整而受欢迎，可兼顾办公、娱乐和轻度创作。它配备8.3英寸Liquid Retina显示屏、A15仿生芯片、1200万像素超广角前摄，支持人物居中与第二代Apple Pencil，并提供Wi-Fi 6、USB-C充电和全天电池续航。",
-              "source_url": "https://www.androidauthority.com/deal-apple-ipad-mini-3670314/",
+              "title": "SHOKZ OpenMove 耳机降价 31%，现已低于 55 美元",
+              "brief": "SHOKZ OpenMove开放式耳机价格下调31%，目前在亚马逊售54.94美元，较过去90天平均价低20.60美元。这款产品主打骨传导设计，可通过颧骨传声并保持耳道开放，适合跑步、骑行和训练等需要关注周围环境的场景。耳机采用环绕式钛合金框架，支持防汗、约6小时续航，并可连接Android、iOS和Windows等蓝牙设备。",
+              "source_url": "https://www.androidauthority.com/shokz-openmove-headphones-deal-3670421/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-23T00:05:01+08:00"
+              "published_at": "2026-05-23T03:59:58+08:00"
             },
             {
-              "title": "苹果 AirPods Max 在亚马逊降至 449 美元",
-              "brief": "亚马逊把苹果AirPods Max降至449美元，低于此前533.99美元的价格，为想入手头戴式耳机的人提供了更低门槛。该产品主打高保真音频，配备苹果自研动态驱动单元，并提供主动降噪、通透模式、个性化空间音频和动态头部追踪。耳机还采用针织网罩与记忆海绵耳垫，支持USB-C充电，并用数码旋钮完成音量、切歌和通话控制。",
-              "source_url": "https://www.androidauthority.com/deal-apple-airpods-max-3670303/",
+              "title": "Sonos Sub Mini 降至近月低价 399 美元",
+              "brief": "Sonos Sub Mini在亚马逊降至399美元，较其过去90天平均价482.92美元低约83美元，是近期一次明显降价。它是一款紧凑型无线低音炮，可与Beam、Ray和One等Sonos设备搭配使用，用双定制低音单元提供低频，并通过相向设计抵消失真。产品还支持Trueplay调音，可按房间声学环境调整低音，交易于约17小时前上线。",
+              "source_url": "https://www.androidauthority.com/sonos-sub-mini-deal-3670414/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-22T23:41:24+08:00"
+              "published_at": "2026-05-23T03:43:51+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "谷歌目前难以定义“忽视”“停止”“忽略”等词",
+              "brief": "谷歌目前在搜索“忽视”“停止”“忽略”等词时，常规释义摘要不再稳定出现，页面会改为显示 AI Overview，并留下大片空白。这一问题出现在公司于 I/O 2026 推出更强调 AI 的新版搜索体验后，表明系统会误解部分动作类查询。Engadget 多名员工复现了异常，无痕模式下结果也前后不一，在线词典链接仍在下方；谷歌已确认问题存在，并称修复将很快推出。",
+              "source_url": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-23T04:29:21+08:00"
+            },
             {
               "title": "NASA将为喷气推进实验室管理权公开招标",
               "brief": "NASA宣布，在加州理工学院与喷气推进实验室的现有合同于2028年到期后，将公开征集新的运营管理方。加州理工自1936年该机构成立起一直负责管理，仍可参与竞标。NASA称，美国航天经济快速增长，已可能形成可竞争市场，此次竞标将评估替代管理模式在任务表现、创新及成本和运营效率上的潜在收益；该合同至少价值300亿美元，但这类联邦资助研发中心通常由非营利机构管理。",
@@ -235,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "谷歌 AI 搜索会“无视”你的查询词",
+              "brief": "谷歌 AI Overviews 近期在搜索部分词语时出现异常，甚至无法按常规生成结果摘要。问题出现在“disregard”“ignore”等词的查询上，系统一度像聊天机器人那样回复，而不是提供搜索总结；到周五下午，“disregard”的结果页已不再显示 AI Overview，转而优先展示相关新闻，谷歌尚未回应置评请求。",
+              "source_url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+              "source_name": "The Verge",
+              "published_at": "2026-05-22T16:39:54-04:00"
+            },
+            {
               "title": "Twelve South AirFly Pro 2 在夏季出行前降至较低价",
               "brief": "随着阵亡将士纪念日周末开启旅行季，旅行配件折扣开始集中出现，The Verge 点名 Twelve South 的 AirFly Pro 2 作为当前较值得关注的一款，并称其价格已接近历史低点。该蓝牙适配器现于亚马逊和 Twelve South 官网卖 49.99 美元，较原价便宜 10 美元，可让无线耳机连接机上娱乐系统，也支持任天堂 Switch。",
               "source_url": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
@@ -261,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
               "source_name": "The Verge",
               "published_at": "2026-05-22T12:50:38-04:00"
-            },
-            {
-              "title": "Govee 联合 JBL 调校的 Table Lamp 2 Pro 降至历史低价",
-              "brief": "Govee 的 Table Lamp 2 Pro 在阵亡将士纪念日前夕降至 134.99 美元，优惠 45 美元，达到历史最低价，亚马逊、百思买和 Govee 官方商店均可买到。文章将其视为夏季用品入手时机的一部分，这款产品结合便携音箱与智能灯功能，此外空气净化器和 Thermacell 可充电驱蚊器也处于适合买入的时间点。",
-              "source_url": "https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-05-22T12:30:00-04:00"
             }
           ]
         }
@@ -332,39 +346,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "三星考虑采用钛铝混合折叠机身框架，应对苹果Liquidmetal策略",
-              "brief": "消息称三星正评估用于高端折叠设备的钛铝混合机身框架，以在重量、强度和散热之间取得新平衡，也被视为对苹果近期Liquidmetal新材讨论的回应。该设计采用外层钛合金护盾与内层航空级铝合金核心分工配合，前者负责刚性和耐刮，后者加速导热，但因纳米成型等融合工艺成本极高，预计仅会率先用于折叠屏、三折形态或高端直板旗舰中的顶级机型。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563362.htm",
+              "title": "特朗普政府要求外国人回原籍国申请绿卡",
+              "brief": "特朗普政府宣布，持学生签证、工作签证等临时非移民身份在美的外国人申请绿卡时，须回原籍国通过海外领馆办理。此举改变了历届政府普遍允许境内调整身份的做法，移民律师团体质疑其法律依据，并警告领馆预约积压可能导致长期滞留、家庭分离及企业担保计划受扰；美国移民局则称可酌情例外，目的是遏制逾期停留、非法就业等“钻空子”行为。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563372.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-23T02:25:15+08:00"
+              "published_at": "2026-05-23T06:42:34+08:00"
             },
             {
-              "title": "美国拟向量子计算投资20亿美元并持有企业股权",
-              "brief": "美国政府计划向量子计算领域投入约20亿美元，并以持股方式支持IBM、格芯、D-Wave、Rigetti、Infleqtion等多家公司，显示其正更直接介入这一前沿产业。资金来自2022年《芯片与科学法案》，覆盖超导、量子退火、中性原子等多条技术路线，IBM还将自筹10亿美元建设量子芯片制造设施，但量子计算距离大规模商业化仍被认为存在较长周期与不确定性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563360.htm",
+              "title": "美国仍在考虑征收芯片关税以提振本土制造",
+              "brief": "美国贸易代表格里尔表示，政府仍在研究对芯片加征关税，以推动制造回流美国。背景是商务部今年一月认定美国对进口半导体依赖构成国家安全风险，特朗普随后暂缓征税并启动与出口方谈判。格里尔称政策方向未变，正设计让在美建厂企业可按系数进口产品的抵消安排；美光也重申将扩大本土产能，并预计人工智能带动的存储芯片短缺会持续到二〇二六年以后。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563370.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-23T01:08:59+08:00"
+              "published_at": "2026-05-23T06:41:57+08:00"
             },
             {
-              "title": "2026年科技业裁员已超10万人，企业加码AI引发动荡",
-              "brief": "统计显示，2026年科技业裁员人数已超过10万，除4月外各月裁员都在2万人以上，行业正因加码人工智能投入而经历新一轮人力重组。Meta、PayPal、思科和Intuit等公司一边削减数千岗位，一边把预算和部分岗位转向AI基础设施、硬件或产品转型；游戏行业也因项目失败继续裁员，TrueUp预计全年裁员总数可能升至37万人。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563358.htm",
+              "title": "美国众议院小组将调查预测市场内幕交易",
+              "brief": "美国众议院一个小组将调查预测市场中的内幕交易问题，理由是相关平台在过去一年半快速走红后，可疑获利交易不断增加。议员点名了Polymarket和Kalshi上的多起案例，包括一名士兵被控利用马杜罗被捕时机的机密信息获利逾四十万美元，以及Kalshi处罚涉自身选举押注的国会候选人。此前特朗普政策公告前出现的一系列异常交易，也进一步推高了监管压力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563368.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-23T01:07:11+08:00"
+              "published_at": "2026-05-23T06:41:41+08:00"
             },
             {
-              "title": "特朗普品牌运营商确认 Trump Mobile 客户信息曾在网上暴露",
-              "brief": "Trump Mobile确认，部分客户个人信息曾可在互联网上被公开访问。公司表示，这并非其自身网络、系统或基础设施被入侵，而是与一家提供部分业务支持的第三方平台有关。该回应源于本周相关报道，以及安全研究人员和两位购机YouTuber多次示警；目前公司正评估是否向受影响用户发出正式通知。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563356.htm",
+              "title": "蓝色起源新格伦火箭获准恢复发射",
+              "brief": "美国联邦航空局已解除对蓝色起源“新格伦”火箭的停飞限制，这枚重型火箭在四月一次任务中因上面级一台发动机推力不足导致入轨失败。受影响的AST SpaceMobile通信卫星最终再入大气层烧毁，损失由保险覆盖。蓝色起源称已提交事故报告并采取纠正措施，虽未披露具体改动，但该次任务仍首次实现一级助推器重复使用和海上回收，公司此前计划在二〇二六年底前执行最多十二次发射。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1563366.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-23T00:39:10+08:00"
+              "published_at": "2026-05-23T06:39:45+08:00"
             },
             {
-              "title": "苹果首次在第一季度登顶全球智能手机市场",
-              "brief": "市场研究机构Counterpoint称，苹果首次在第一季度拿下全球智能手机市场第一。背景是iPhone 17系列需求持续旺盛，中国市场销售改善，加上供应链调配更主动。关键细节是该系列包揽全球机型销量榜前三，苹果在存储芯片短缺下受冲击相对较小，但库克已提示相关成本压力将在2026年稍晚更明显。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563354.htm",
+              "title": "法国追加十亿欧元投资量子计算",
+              "brief": "法国宣布追加十亿欧元投资量子计算，马克龙称面对国际竞争，法国和欧洲必须在关键技术上加速投入、争取“主权”。背景是美国当天也宣布向多家量子企业投入逾二十亿美元公共资金，法国自二〇二一年以来在量子领域已投入约二十三亿欧元。马克龙同时追加五点五亿欧元半导体公共资金，并呼吁建设由欧洲企业设计、制造和运营、且不受域外法律约束的量子生态；英伟达当天也宣布投资法国初创公司Alice & Bob。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563364.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-23T00:33:38+08:00"
+              "published_at": "2026-05-23T06:39:15+08:00"
             }
           ]
         },
@@ -412,39 +426,39 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "我国完成537天万米深海材料腐蚀试验，刷新世界纪录",
+              "brief": "我国完成全球首次万米深海材料环境腐蚀试验，样品在深海原位连续试验537天，刷新相关纪录。此类试验无需将样品带回海面，可保留深海原位物理化学条件，获得更真实数据。官方称试验旨在研究材料和涂层长期耐腐蚀能力，验证了30种特种防护涂层、4类新型牺牲阳极和22种结构金属材料的环境适应性。",
+              "source_url": "https://www.ithome.com/0/954/225.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-23T06:45:38+08:00"
+            },
+            {
+              "title": "SpaceX实施“星舰”第12次试飞，星舰V3首次升空",
+              "brief": "SpaceX 进行了“星舰”第12次试飞，星舰 V3 首次升空，重点是在真实飞行环境中验证新系统和新部件。按计划，超重型助推器应在墨西哥湾附近受控溅落，二级飞船则在完成试飞后于印度洋溅落。不过任务并不完全顺利，一级助推器未能实现溅落并在墨西哥湾上空失控下坠，二级六台发动机中有一台失效，但飞船仍达到轨道所需速度。",
+              "source_url": "https://www.ithome.com/0/954/224.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-23T06:34:54+08:00"
+            },
+            {
+              "title": "黄仁勋称AI基础设施年开支将增至4万亿美元",
+              "brief": "黄仁勋在英伟达财报电话会上表示，超大规模云厂商的 AI 资本开支目前已达每年1万亿美元，并有望在2030年前升至3万至4万亿美元。这一判断明显高于华尔街普遍预期，背景是云厂商正持续加码算力建设。文中列举称，谷歌、亚马逊、微软和 Meta 一季度或全年资本开支均显著增长，其中 Meta 将全年预算上调至1250亿至1450亿美元。",
+              "source_url": "https://www.ithome.com/0/954/223.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-23T06:30:03+08:00"
+            },
+            {
+              "title": "微软发布Win11最新预览版，新增屏幕色调等功能",
+              "brief": "微软发布 Windows 11 Experimental 与 Beta 最新预览版，新增屏幕色调等无障碍与语音功能。这些更新主要面向对强光敏感用户及依赖辅助功能的群体，继续完善系统可访问性与识别体验。此次加入的改动包括可为整块屏幕叠加颜色以降低亮度强度、讲述人支持符合 HID 标准的盲文显示器即插即用，以及语音访问的本地语音隔离功能。",
+              "source_url": "https://www.ithome.com/0/954/222.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-23T01:12:39+08:00"
+            },
+            {
               "title": "中兴 G5 Pro 高性能版 5G 移动路由器 CPE 5 月 28 日开售，2099 元",
               "brief": "中兴宣布 G5 Pro 高性能版 5G 移动路由器 CPE 将于 5 月 28 日开售，售价 2099 元。这是一款支持插卡上网和有线宽带上网两种方式的 5G CPE，面向需要兼顾移动与固定网络接入的场景。设备配备双 2.5G 网口、NFC 一碰联网和内置官方流量卡，最高支持千兆速率，并搭载 4nm 四核 2.2GHz 处理器、2 路 TS-9 外置天线接口，机身重约 923 克。",
               "source_url": "https://www.ithome.com/0/954/221.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-22T23:54:17+08:00"
-            },
-            {
-              "title": "全新一代问界 M9 选配信息公布，Ultimate 领世加长版满配逼近百万元",
-              "brief": "鸿蒙智行公布全新一代问界 M9 系列选配信息，其中 M9 Ultimate 领世加长版满配预估价约 87.98 万元。此次公开配置表，为 5 月 27 日新品发布会前展示各版本价格区间和选装差异。按报道测算，若叠加 HUAWEI ADS 5、购置税和保险，该车落地价将逼近百万元；Max+ 和 Ultra 满配价分别约为 61.18 万元和 74.98 万元。",
-              "source_url": "https://www.ithome.com/0/954/220.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-22T23:03:23+08:00"
-            },
-            {
-              "title": "高德上线北京市养老服务地图，接入 1500 余家养老设施信息",
-              "brief": "高德地图上线“北京养老服务地图”，整合全市 1500 余家养老机构、社区驿站等设施信息。该功能聚焦老年人及家属查找养老服务时对位置与信息准确性的需求，直接在地图内提供集中查询入口。用户在 App 搜索“北京养老服务地图”后，可查看周边机构的位置、联系方式和服务内容，高德称后续还会继续补充设施并优化相关功能。",
-              "source_url": "https://www.ithome.com/0/954/219.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-22T22:54:16+08:00"
-            },
-            {
-              "title": "苹果股价创新高，总市值突破 4.5 万亿美元",
-              "brief": "苹果股价再创历史新高，总市值站上 4.5 万亿美元，此前公司已在 5 月 15 日首次收于 300 美元上方。股价表现与最新财报形成呼应，市场关注其核心硬件与服务业务增长。苹果 2026 财年第二财季营收 1111.84 亿美元，同比增长 16.6%，净利润 296 亿美元；其中 iPhone 营收 570 亿美元，服务业务收入 310 亿美元，均延续强劲表现。",
-              "source_url": "https://www.ithome.com/0/954/218.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-22T22:48:01+08:00"
-            },
-            {
-              "title": "美光弗吉尼亚 1α DRAM 产线投产，保障美国 DDR4/LPDDR4 供应",
-              "brief": "美光宣布其位于美国弗吉尼亚州 Manassas 的 1α DRAM 产线投产，用于保障美国本土 DDR4 和 LPDDR4 内存供应。这条产线采用美光用于 DDR4 生产的最先进 1α 制程，面向汽车、国防、航空航天、工业、网络和医疗等行业。该厂扩建与现代化投资约 20 亿美元，完全投产后 DDR4 产能将提升至当前水平的四倍。",
-              "source_url": "https://www.ithome.com/0/954/217.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-22T22:46:51+08:00"
             }
           ]
         },
@@ -452,25 +466,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "乐高《星球大战》设计师谈其参与的 Ideas 套装",
-              "brief": "乐高星战设计师塞萨尔·苏亚雷斯回顾了自己参与的多款LEGO Ideas套装，介绍成人向积木作品的设计思路。由于这类产品强调用积木还原影视与现实细节，且Ideas系列多源自玩家社区投稿，他在受访时提到曾协助打造树屋、《宋飞正传》和《圣诞夜惊魂》等成人热门套装，其中树屋已于2024年11月退市，《宋飞正传》则在2022年退市。",
-              "source_url": "https://www.ign.com/articles/lego-star-wars-designer-highlights-the-ideas-sets-he-helped-bring-to-life",
+              "title": "《命运》玩家刷差评轰炸《马拉松》，Bungie支持者发起反制",
+              "brief": "在Bungie宣布《命运2》将于今年6月迎来最后一次内容更新后，一些玩家把对系列前景的不满发泄到《马拉松》Steam页面，集中留下提及《命运》的差评，甚至指责这款新作导致《命运2》“死亡”。外界担心工作室会把资源转向新作。随后支持者发起好评反制，5月22日新增531条评测中374条为好评，157条为差评。",
+              "source_url": "https://www.ign.com/articles/destiny-players-review-bomb-marathon-only-to-be-met-with-countercampaign-from-bungie-fans",
               "source_name": "IGN",
-              "published_at": "2026-05-23T01:01:00+08:00"
+              "published_at": "2026-05-23T05:21:53+08:00"
             },
             {
-              "title": "《赤红沙漠》1.08.00 更新加入营地池塘与幼年飞龙宠物",
-              "brief": "《赤红沙漠》发布1.08.00更新，为营地新增池塘、幼年飞龙宠物，并让克里夫可使用火枪和霰弹枪。这次补丁还针对悬赏玩法与装备系统做出调整，新增工具栏位，让部分原本占用副武器栏的装备可改放工具栏，同时加入可让被绑缚的通缉犯静音的功能，以减少押送途中反复对白带来的干扰，玩家反馈整体偏正面。",
-              "source_url": "https://www.ign.com/articles/crimson-desert-update-10800-adds-a-pond-to-your-camp-a-cute-baby-wyvern-as-a-pet-and-a-lot-more",
+              "title": "《最终幻想11》玩家数激增，团队探索新增区域",
+              "brief": "《最终幻想11》因近期人气意外上升，开发团队开始讨论为这款运营24年的网游加入全新区和新剧情。背景是当前团队正把老旧实体服务器迁移到虚拟服务器，但这一工作原本只为维持现状，并非支持大型扩展。导演藤户洋司表示，现阶段还受技术问题、管理ID耗尽和人手不足限制，团队正研究腾出少量ID名额后是否能启动相关项目。",
+              "source_url": "https://www.ign.com/articles/final-fantasy-11-team-explores-adding-new-areas-as-player-count-explodes",
               "source_name": "IGN",
-              "published_at": "2026-05-22T23:54:24+08:00"
+              "published_at": "2026-05-23T05:21:02+08:00"
             },
             {
-              "title": "《沃特崛起》首支预告公开，回到 1950 年代讲述最早超级英雄",
-              "brief": "《黑袍纠察队》衍生剧《沃特崛起》发布首支完整预告，把时间倒回约76年前的1950年代纽约，聚焦士兵男孩、风暴前线和Bombsight等早期超能力者。预告片基本未透露具体剧情，但展示了沃特公司早期面貌，以及该系列标志性的黑色幽默、血腥场面与更鲜艳的年代视觉风格，剧集计划于2027年登陆Prime。",
-              "source_url": "https://www.ign.com/articles/vought-rising-teaser-takes-soldier-boy-to-1950-as-the-boys-spin-off-explores-the-worlds-first-supes",
+              "title": "《战争黎明4》开发商称《全面战争：战锤40K》并非直接竞争对手",
+              "brief": "《战争黎明4》开发商King Art Games表示，并不把《全面战争：战锤40K》视为直接竞争对手。原因在于两者虽然同属PC策略游戏、都面向战锤40K玩家，但玩法并不相同。团队认为，更多高质量战锤40K游戏只会扩大系列关注度并反过来帮助《战争黎明4》，而核心粉丝很可能两款都会玩，开发者自己也期待体验对方作品。",
+              "source_url": "https://www.ign.com/articles/dawn-of-war-iv-dev-doesnt-see-total-war-warhammer-40000-as-direct-competition-reckons-fans-will-play-both-games",
               "source_name": "IGN",
-              "published_at": "2026-05-22T23:41:12+08:00"
+              "published_at": "2026-05-23T05:04:06+08:00"
+            },
+            {
+              "title": "Riot称Vanguard反作弊“不可能”把玩家电脑变砖",
+              "brief": "Riot Games澄清，Vanguard反作弊系统既不会、也不可能把玩家电脑“变砖”，此前相关传言源于官方在X上发布的一张作弊硬件照片和“6000美元镇纸”的调侃。公司解释，图中设备是专门用于《无畏契约》作弊的硬件，最新更新只是对被识别使用DMA作弊设备的账号强制启用IOMMU等标准安全功能，从而阻止这些设备访问游戏内存。",
+              "source_url": "https://www.ign.com/articles/riot-games-says-it-would-not-and-cannot-use-vanguard-anti-cheat-to-brick-pcs-after-rumors-spread",
+              "source_name": "IGN",
+              "published_at": "2026-05-23T03:18:56+08:00"
+            },
+            {
+              "title": "汤姆·哈迪据称与剧组不和，或退出《黑帮领地》",
+              "brief": "多家媒体报道称，汤姆·哈迪在Paramount+剧集《黑帮领地》的去留未定，第二季回归前景不明。背景是Puck、THR和TMZ称他与制片方及剧组人员在片场发生摩擦。报道指他经常迟到、试图修改台词，并不满剧集逐渐转向群像叙事；当编剧杰兹·巴特沃斯威胁退出时，Paramount据称更倾向于放弃哈迪。",
+              "source_url": "https://www.ign.com/articles/tom-hardy-might-be-dropped-from-mobland-after-reportedly-clashing-with-cast-and-crew",
+              "source_name": "IGN",
+              "published_at": "2026-05-23T01:43:53+08:00"
             }
           ]
         }
