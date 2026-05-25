@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T04:52:37.790083+08:00",
+  "generated_at": "2026-05-26T06:54:07.854891+08:00",
   "sections": [
     {
       "category": "主要",
@@ -28,6 +28,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "虚拟操作系统博物馆可运行 Mac OS、A/UX、NeXTSTEP 等系统",
+              "brief": "开发者 Andrew Warkentin 推出的 Virtual OS Museum 让用户通过模拟器运行 1700 多套预装操作系统和独立应用，覆盖 250 多个平台、约 600 种自 1948 年至今的系统。项目源于他自 2003 年开始、持续 20 多年的镜像与文档收藏，提供约 121GB 的离线完整版和约 14GB 的精简版，后者会在首次运行时下载客体镜像，两版都支持自动或手动更新。",
+              "source_url": "https://9to5mac.com/2026/05/25/the-virtual-os-museum-is-a-fantastic-project-that-lets-you-run-mac-os-a-ux-nextstep-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-26T06:44:16+08:00"
+            },
+            {
+              "title": "苹果称美国政府在司法部反垄断案中拒绝提供联邦机构文件",
+              "brief": "苹果表示，美国政府在司法部反垄断诉讼中拒绝提供 14 个联邦机构的相关文件，双方已向新泽西联邦地区法院提交联合取证争议函。该案由司法部于 2024 年提起，指控苹果通过限制应用、服务和配件维持智能手机垄断；苹果称这些文件涉及 iPhone 的市场差异化、隐私安全风险评估，以及开放生态可能带来的安全隐患，按规则应可调取。",
+              "source_url": "https://9to5mac.com/2026/05/25/apple-says-u-s-is-refusing-to-produce-federal-agency-documents-in-doj-antitrust-case/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-26T05:29:30+08:00"
+            },
+            {
               "title": "法拉利 Luce 电动车亮相：Jony Ive 参与设计座舱，外观延续品牌语言",
               "brief": "法拉利正式公布首款电动车Luce的完整设计，也让外界更清楚看到由Jony Ive参与设计的车内座舱。该车此前已透露内饰由LoveFrom操刀，强调实体按键而非触控屏，并以玻璃、铝材和极简风格构成驾驶空间。这次发布进一步展示了方向盘控制区、仪表台、侧面面板以及机械时钟等细节，同时首次完整公开外观设计。",
               "source_url": "https://9to5mac.com/2026/05/25/ferrari-luce-ev-debuts-with-jony-ive-designed-cockpit-and-familiar-design-cues/",
@@ -46,6 +60,20 @@
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星相册将取消 OneDrive 集成",
+              "brief": "微软表示，三星相册与OneDrive的直接同步功能将于2026年9月30日关闭。此后新用户将无法再关联两款应用，已使用该功能的用户需改用OneDrive应用中的相机胶卷备份设置，继续备份新照片和视频，并通过OneDrive访问此前已备份的内容。与原先只需登录相比，后续方案还需要单独安装应用并授予完整照片和视频访问权限，微软也提供了分步说明。",
+              "source_url": "https://9to5google.com/2026/05/25/samsung-gallery-is-ditching-onedrive-integration/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-26T05:55:00+08:00"
+            },
+            {
+              "title": "谷歌澄清两档 AI Ultra 订阅方案",
+              "brief": "谷歌开始调整Google One升级页面，以澄清同属“AI Ultra”的两档订阅方案。背景是I/O 2026后，AI Ultra被分成每月200美元和100美元两档，但名称相同，导致用户在升级流程中难以直观看出差异。谷歌现已直接展示各档AI使用额度和存储容量，无需点开更多权益；其中高配版提供30倍使用上限与30TB存储，低一档则提供较少额度和容量。",
+              "source_url": "https://9to5google.com/2026/05/25/google-one-ai-ultra-clarification/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-26T05:45:00+08:00"
+            },
             {
               "title": "Google AI Plus、Pro 与 Ultra 可获得哪些 Gemini 功能（2026年5月）",
               "brief": "文章整理了Google AI免费版以及Plus、Pro、Ultra各档可用的Gemini功能和权益，便于比较订阅差异。更新重点是Gemini应用改为按算力计量，每5小时刷新直至周限额，并列出上下文窗口，以及NotebookLM、Google One存储、Google Home Premium和YouTube Premium等附加内容。",
@@ -66,26 +94,19 @@
               "source_url": "https://9to5google.com/2026/05/25/samsung-galaxy-dark-mode-changes-update/",
               "source_name": "9to5Google",
               "published_at": "2026-05-26T01:20:00+08:00"
-            },
-            {
-              "title": "iOS 27或将原生集成Google Cast，类似AirPlay",
-              "brief": "据彭博社报道，苹果正考虑在iOS 27中加入对第三方串流协议的原生支持，用户可将Google Cast等方案设为默认投送方式，用于把视频、照片和音频从iPhone传到电视或音箱。现阶段iOS只原生支持AirPlay，Google Cast和Miracast等方案只能由开发者在单个应用里分别接入。此举据称是为满足欧盟《数字市场法》最新要求，最终上线范围仍待观察，外界认为很可能仅限欧盟。",
-              "source_url": "https://9to5google.com/2026/05/25/apple-ios-27-google-cast-streaming-protocols-report/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-26T00:10:00+08:00"
-            },
-            {
-              "title": "谷歌Pixel 10全系官方保护壳现已促销",
-              "brief": "谷歌Pixel 10全系官方保护壳目前在亚马逊促销，较5月初文章首次发布时的优惠更低，Pixel 10、10 Pro和10 Pro XL多数款降至35美元，部分XL款低至23美元。报道还称，Pixel 10 Pro Fold和Pixel 10a对应保护壳也在折扣范围内。该系列原价通常约50美元，主打与机身配色匹配，并支持Qi2无线充电满速。",
-              "source_url": "https://9to5google.com/2026/05/25/google-pixel-10-cases-discount/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-25T23:22:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "援引甘道夫，教皇利奥称必须为AI“解除武装”",
+              "brief": "教皇利奥十四世在罗马发布其首份通谕《壮丽人性》，主张为实现共同善而让人工智能“解除武装”。他表示刻意采用这一强烈措辞，是因当下需要能唤起良知、为人类指明道路的语言。全文约4万词，批评自主武器、带有新殖民色彩的数据采集，以及对专利、算法、平台、技术基础设施和数据等新型财产的囤积，并呼吁建设让技术服务并增强人类的“爱的文明”。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-26T05:07:42+08:00"
+            },
             {
               "title": "无论镜像测试意味着什么，白鲸都通过了它",
               "brief": "一项发表于《PLOS One》的新研究称，纽约一家水族馆的两头白鲸娜塔莎和其幼崽玛丽斯在双向镜前表现出镜像自我识别的典型行为，可能首次证明白鲸能认出自己。镜像测试长期被视为自我意识指标，但能通过的物种极少且结论常有争议；研究团队依据数小时水下录像，记录到它们在镜前伸颈、旋转、点头和摇头，并按该测试的行为标准作出判断。",
@@ -146,6 +167,20 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "森海塞尔 Momentum 5 耳机重点升级音质与降噪",
+              "brief": "森海塞尔发布Momentum 5 Wireless，将于6月16日上市，售价400美元，外观基本延续上代，主要改进集中在音质和主动降噪。距离Momentum 4已近四年，新机仍用42毫米单元，新增Hi-Res Audio认证、Snapdragon Sound与8段均衡器，并计划通过更新加入头部追踪杜比全景声和蓝牙6.0；每侧麦克风增至4个，官方称降噪最高提升3倍。",
+              "source_url": "https://www.engadget.com/2177988/sennheiser-momentum-5-headphones-are-all-about-the-audio-and-anc-upgrades/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-26T06:00:00+08:00"
+            },
+            {
+              "title": "法拉利 Luce 亮相：Jony Ive 设计事务所首款整车登场",
+              "brief": "法拉利公布纯电车型Luce完整外观，这是LoveFrom成立以来首次操刀整车设计，让外界首次看到此前只露出内饰的豪华电动车全貌。法拉利去年决定造电动车，Luce则明显偏离传统跑车路线，车身更接近SUV，采用四门五座布局和后铰链后门；它也是法拉利首款可容纳五人的车型，后排空间较充裕，但第二排头部空间略受限。",
+              "source_url": "https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-26T04:10:00+08:00"
+            },
+            {
               "title": "Epic Games用《火箭联盟》改版首次展示虚幻引擎6",
               "brief": "Epic Games在《火箭联盟》巴黎Major期间放出重制版预告，并首次展示基于虚幻引擎6制作的游戏内实时画面。这次没有用《堡垒之夜》演示新引擎，而是借仍运行在虚幻3上的《火箭联盟》展示迁移进展，预告可见车身反射和模型细节提升。Epic尚未说明具体功能改进，也还没有公布虚幻引擎6的发布时间表。",
               "source_url": "https://www.engadget.com/2180662/epic-games-reveals-first-look-at-unreal-engine-6-with-rocket-league-makeover/",
@@ -165,26 +200,26 @@
               "source_url": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
               "source_name": "Engadget",
               "published_at": "2026-05-25T23:39:27+08:00"
-            },
-            {
-              "title": "Tether将在格鲁吉亚推出与本币挂钩的“官方”稳定币",
-              "brief": "Tether宣布将在格鲁吉亚推出名为GELT的稳定币，并与该国官方货币拉里挂钩。这是其将国家法定货币与定制稳定币结合的最新尝试，公司称该币可作为拉里的数字化表示，用于降低交易成本、实现近实时结算和可编程支付。Tether表示已与格鲁吉亚立法机构、监管部门及国家银行合作多年，具体结构、上线与实施细节将稍后公布。",
-              "source_url": "https://www.engadget.com/2180540/tether-will-launch-an-official-stablecoin-in-georgia-tied-to-local-currency/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-25T23:17:27+08:00"
-            },
-            {
-              "title": "人工蛋壳孵出小鸡、地球磁层新任务等本周科学新闻",
-              "brief": "本周多项科学动态受到关注，其中最受瞩目的是Colossal Biosciences宣布利用3D打印人工蛋壳孵化出26只健康小鸡。这一进展被视为其推动复活南岛巨型恐鸟和渡渡鸟计划的一环，现阶段胚胎仍来自母鸡自然产下的蛋；与此同时，SMILE任务已启程研究地球磁层，新的研究则对木卫二水蒸气羽流的存在提出质疑，SpaceX的Starship V3也首次升空。",
-              "source_url": "https://www.engadget.com/2180073/chicks-hatched-from-artificial-eggshells-smile-mission-to-study-earth-magnetosphere-spacex-starship-launch-europa-water-plumes/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-24T00:30:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "森海塞尔新款 Momentum 5 头戴耳机升级主动降噪并配备可更换电池",
+              "brief": "森海塞尔发布新一代 Momentum 5 Wireless 头戴耳机，在基本沿用上一代外观的同时，升级了主动降噪，并首次采用可由用户自行更换的电池。该系列上次大改款距今已近四年，品牌继续保留更现代、佩戴更舒适的大耳罩设计。新机麦克风数量翻倍，可提升降噪效果和通话质量，6月30日上市，售价399.99美元，比 Momentum 4 高出50美元。",
+              "source_url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+              "source_name": "The Verge",
+              "published_at": "2026-05-25T18:00:00-04:00"
+            },
+            {
+              "title": "法拉利发布首款电动车 Luce，设计由乔尼·艾维参与",
+              "brief": "法拉利正式展示首款纯电动车 Luce，这不仅是品牌首款电动车，也是与乔尼·艾维和马克·纽森所在 LoveFrom 合作完成的车型。此前外界已知两人参与内饰设计，如今法拉利表示他们从项目一开始就参与内外整体设计方向的定义。Luce 还是法拉利第二款四门车型和首款五座车型，意大利起售价55万欧元，美国售价暂未公布。",
+              "source_url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
+              "source_name": "The Verge",
+              "published_at": "2026-05-25T17:33:12-04:00"
+            },
             {
               "title": "考克斯媒体因宣称能通过手机监听用户而被罚",
               "brief": "美国联邦贸易委员会宣布，考克斯媒体及另外两家营销公司将合计支付93万美元，以和解其夸称能借助手机和智能设备监听用户对话、并据此投放定向广告的指控。争议源于考克斯媒体2023年向客户宣传“Voice Data”系统，声称可把消费者的日常交谈变成定向、再营销和留存工具；监管部门认定，问题主要在于其虚假宣称具备这类能力。",
@@ -248,6 +283,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "伊朗总统下令恢复该国国际互联网接入",
+              "brief": "伊朗总统已下令恢复该国的国际互联网访问，意味着此前因安全与冲突形势而收紧的外网连接将被重新开放。背景是当局自1月8日起因全国反政府抗议实施互联网封锁，2月曾逐步恢复，但在2月28日美国和以色列开始对伊朗发动打击后又启动新一轮限制。文中称，伊朗民众平时访问全球互联网仍受严格管控，许多网站被封锁，不少人需借助昂贵且先进的VPN绕过限制。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563616.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-26T05:34:42+08:00"
+            },
+            {
+              "title": "欧盟计划对谷歌处以数亿欧元罚款",
+              "brief": "欧盟正计划对谷歌处以最高达数亿欧元罚款，同时继续推动其搜索引擎业务遵守当地法规。背景是欧盟与谷歌一直就合规整改进行磋商，欧盟执委会表示重点是与公司共同寻找面向未来的解决方案，而不是单纯开罚。发言人还称，即便双方仍在讨论，欧盟也不会犹豫尽快采取下一步行动；本月早些时候，因谷歌此前提出的方案未达预期，欧盟已给予其更多整改时间。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563614.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-26T05:10:59+08:00"
+            },
+            {
+              "title": "伊朗将在达成和平协议30天后开放霍尔木兹海峡",
+              "brief": "这篇报道的核心信息是，伊朗称将在达成和平协议30天后开放霍尔木兹海峡，内容聚焦地区局势中的海峡通行安排。就提供的文本来看，页面摘要并未进一步交代谈判背景、协议对象或提出这一表态的具体原因。能够确认的关键细节只有“和平协议达成后30天”这一时间条件，以及开放对象为霍尔木兹海峡，未见更多执行方式、范围或配套措施。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563612.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-26T05:10:29+08:00"
+            },
+            {
               "title": "AI芯片成本重构：HBM内存占比升至六成以上",
               "brief": "报告显示，AI芯片组件成本结构正被HBM内存重塑，其在总成本中的占比已升至六成以上。随着AI芯片出货扩大、2026年存储供应预计仍偏紧，HBM价格与采购预算同步上扬。按测算，HBM支出已从2024年的约120亿美元增至2025年的约320亿美元，带动同期整体组件支出由约220亿美元升至约520亿美元，而逻辑芯片占比约13%，封装和辅助组件占比则继续回落。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1563610.htm",
@@ -260,33 +316,26 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1563608.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-26T01:03:54+08:00"
-            },
-            {
-              "title": "研究称地球外核约在2010年发生流向反转",
-              "brief": "研究团队综合地面观测与多颗地球科学卫星数据，重建了1997年至2025年地核表面流动，发现太平洋赤道下方外核约在2010年前后由长期较弱的西向趋势转为明显东向强流。外核物质运动是地球磁场形成的关键，传统模型原本认为该区域相对稳定；新模型显示这次反转持续十余年，并自2020年前后开始减弱，研究者推测它可能与更深层核心过程变化有关。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1563606.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-26T00:43:38+08:00"
-            },
-            {
-              "title": "路面发黏粘掉鞋底 昆虫专家称系蚜虫蜜露所致",
-              "brief": "针对路面发黏、行人鞋子频频被粘掉的现象，昆虫专家解释称，地上的黏性物质本质上是行道树上大量蚜虫分泌的蜜露。每到春夏交替，蚜虫都会进入大规模繁殖期，密集聚集在树叶背面吸食汁液，蜜露便沿枝叶不断滴落到地面并形成大片黏层。文章称若想根除需喷药处理，这些蜜露本身带有甜味。",
-              "source_url": "https://www.cnbeta.com.tw/articles/funny/1563604.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-26T00:41:37+08:00"
-            },
-            {
-              "title": "工信部批复6G试验频率许可 预计2030年前后商用",
-              "brief": "工信部已批复6G试验频率使用许可，相关测试将由IMT-2030（6G）推进组牵头，四大通信运营商共同参与，并在2026年至2027年间展开。此次频率资源兼顾广覆盖与高传输量，被视为空天地融合、通感一体等6G关键技术的重要基础。测试将验证网络架构、通信感知、低空互联和卫星组网等方向，业内普遍预计6G将在2030年前后商用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563602.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-26T00:39:56+08:00"
             }
           ]
         },
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "海盗船 DDR5 内存被发现采用长鑫 DRAM 芯片",
+              "brief": "有爆料显示，海盗船一款 DDR5 内存套件首次被发现采用长鑫存储 DRAM 颗粒，成为首个出现相关情况的海外品牌。海盗船消费级 DDR5 过去多采购三星、SK 海力士和美光颗粒，因此此举格外受关注。该套件规格为 DDR5-6000、CL36、1.35V，支持 Intel XMP 与 AMD EXPO，型号后缀“CN”也让外界猜测其可能是面向中国市场的试产批次。",
+              "source_url": "https://www.ithome.com/0/955/076.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-26T06:50:17+08:00"
+            },
+            {
+              "title": "加文·贝克谈前沿模型与晶圆产能：判断 AI 泡沫要看台积电",
+              "brief": "投资人加文·贝克在最新对话中表示，若只能用一个指标判断 AI 是否出现泡沫，他会关注台积电的产能决策。访谈围绕电力与晶圆这两大 AI 建设瓶颈展开，他认为 AI 作为基础性新技术通常会经历泡沫，但本轮建设主要由经营现金流融资，与 2000 年互联网时期不同；同时，电力短缺或在 2027 至 2028 年开始缓解。",
+              "source_url": "https://www.ithome.com/0/955/075.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-05-26T06:38:17+08:00"
+            },
             {
               "title": "小米汽车：YU7 GT 暂无登陆《跑车浪漫旅 7》计划",
               "brief": "小米汽车在新一期答网友问中表示，YU7 GT 目前暂无登陆《跑车浪漫旅 7》的计划，后续如有安排会第一时间公布。这一回应出现在围绕 YU7 的多项问答中，涉及辅助驾驶、电池安全和制动系统等内容。官方同时提到，SU7 Ultra 和 Vision GT 概念车已进入该游戏，并获得玩家与职业车手评价。",
@@ -307,20 +356,6 @@
               "source_url": "https://www.ithome.com/0/955/072.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-25T23:42:23+08:00"
-            },
-            {
-              "title": "彭志辉正式出任上纬新材董事长",
-              "brief": "上纬新材公告显示，智元机器人 CTO“稚晖君”彭志辉已正式出任公司董事长。此前公司在 2026 年第三次临时股东会上，以累积投票制选出彭志辉等五名第四届董事会非独立董事，五人均为智元体系核心骨干。随后董事会第一次会议一致同意推举彭志辉任董事长；他毕业于电子科技大学，曾任职 OPPO 与华为，2022 年底与邓泰华创办智元机器人。",
-              "source_url": "https://www.ithome.com/0/955/071.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-25T23:33:11+08:00"
-            },
-            {
-              "title": "扎克伯格称让 Meta 员工参与训练 AI 效果更好",
-              "brief": "Meta CEO 扎克伯格在一段于 5 月 20 日公开的内部发言中表示，让公司员工参与训练 AI 的效果优于依赖外包人员。这番表态出现在外界关注 Meta 裁员计划之际，核心思路是让模型观察“真正聪明的人”如何工作。按其说法，Meta 正利用员工工作数据训练内部模型，尤其希望借此更快提升模型的编程能力。",
-              "source_url": "https://www.ithome.com/0/955/070.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-05-25T23:07:26+08:00"
             }
           ]
         },
@@ -361,6 +396,18 @@
               "source_url": "https://www.solidot.org/story?sid=84393",
               "source_name": "Solidot",
               "published_at": "2026-05-25T20:01:09+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《极限竞速：地平线6》出现“梦魇车手”，玩家人心惶惶",
+              "brief": "上周起，不少《极限竞速：地平线6》玩家发现，名为 bowie knife99 的 AI 车手会在比赛中四处制造混乱。游戏的 Drivatar 系统原本用于复制真实玩家驾驶风格、替代普通机器人，但这个分身格外激进，不仅频繁撞车，还常偏离路线专门冲向其他车辆。相关片段一周内大量走红，甚至有人专门在比赛中围堵它；不过该账号资料设为私密，IGN 联系后也未获回应。",
+              "source_url": "https://www.ign.com/articles/forza-horizon-6-has-its-own-boogeyman-and-players-are-terrified",
+              "source_name": "IGN",
+              "published_at": "2026-05-26T03:12:15+08:00"
             }
           ]
         }
