@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T14:54:22.042420+08:00",
+  "generated_at": "2026-05-25T16:55:05.671780+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "MacBook Ultra：5项可能撑起这一名称的功能",
+              "brief": "报道称，苹果下一代高端笔记本可能不再叫MacBook Pro，而会作为定位更高、售价更贵的MacBook Ultra推出，现有M5 Pro和M5 Max机型则可能继续在售。这也延续了苹果把Ultra名称用于手表、车载系统和芯片的产品策略。受全球存储芯片短缺影响，新机更可能在2027年初而非今年晚些时候上市，文中提到的预期功能包括三星供应的混合OLED屏幕，以及Mac首次支持屏幕触控输入。",
+              "source_url": "https://www.macrumors.com/2026/05/25/macbook-ultra-rumored-features-justify-the-name/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-25T15:08:36+08:00"
+            },
             {
               "title": "新一轮 iOS 27 传闻：AirPods 设置菜单将改版等",
               "brief": "彭博社记者马克·古尔曼称，苹果将在下月发布的iOS 27中加入四项新变化，为9月正式版和WWDC 2026预热。除先前传出的独立Siri应用等功能外，这次消息提到AirPods设置菜单会重组，Genmoji与Image Playground生成质量将提升，还可把Google Cast等设为默认投送方式，并带来深色新版Siri界面。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/22/apple-beats-over-ear-headphones-fcc/",
               "source_name": "MacRumors",
               "published_at": "2026-05-23T07:27:29+08:00"
-            },
-            {
-              "title": "谷歌就反垄断裁决上诉，称苹果“堂堂正正”选择其搜索引擎",
-              "brief": "谷歌已就2024年一项反垄断裁决提起上诉，反对其因付费成为iPhone默认搜索引擎而被认定违法。谷歌称苹果选择Google Search源于产品竞争力、创新投入和商业判断，而非排挤对手，因此法院对“排他性”的认定有误。它同时请求撤销要求其共享搜索数据、用户交互信息和结果分发的补救措施，并主张像OpenAI这样的生成式AI公司不应获得相关数据。",
-              "source_url": "https://www.macrumors.com/2026/05/22/google-search-monopoly-appeal/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-23T04:18:26+08:00"
             }
           ]
         },
@@ -200,18 +200,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星修复 Galaxy 手机上一项恼人的游戏故障",
+              "brief": "三星确认，One UI 8.5 已修复 Galaxy 手机在 DeX 模式下连接无线手柄时的一项恼人游戏问题。此前只要已连接手机的屏幕熄灭，手柄的模拟摇杆就会失灵，面键和开始、选择键仍可使用，键鼠则不受影响，严重影响客厅大屏游戏体验。过去约八个月，多名用户在 Reddit 反馈过此事，如今在 One UI 8.5 与 2026 年 5 月安全补丁上已可正常工作。",
+              "source_url": "https://www.androidauthority.com/samsung-fix-major-gaming-bug-dex-3670559/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-25T16:40:18+08:00"
+            },
+            {
+              "title": "Galaxy S23 用户称三星在 One UI 8.5 中遗漏这项功能",
+              "brief": "三星已向 Galaxy S23 等旧旗舰推送稳定版 One UI 8.5，但不少 S23 用户指出，更新缺少与苹果设备通过 AirDrop 共享文件的兼容功能。争议在于，用户认为该机硬件满足要求，系统却未开放支持，而同批更新已带来快捷设置、锁屏和 Galaxy AI 等改进。由于 S23 仍有一年软件更新周期，被排除在这一功能之外引发了 Reddit 等论坛上的集中不满。",
+              "source_url": "https://www.androidauthority.com/galaxy-s23-one-ui-8-5-feature-missing-3670568/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-25T16:13:10+08:00"
+            },
+            {
+              "title": "Google Cast 或将登陆 iPhone，苹果封闭生态进一步松动",
+              "brief": "据彭博社报道，苹果为满足欧盟《数字市场法》要求，计划在 iOS 27 中支持第三方媒体投送协议，并允许用户将 Google Cast 等方案设为默认。此举延续了苹果在欧盟逐步开放生态的趋势，也可能降低电视厂商对 AirPlay 授权的依赖，让支持 Google Cast 的更便宜流媒体设备与 iPhone 更好兼容。不过报道未说明该变化会仅限欧盟还是全球推出。",
+              "source_url": "https://www.androidauthority.com/apple-iphone-ios-alternative-media-google-cast-3670565/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-25T16:12:45+08:00"
+            },
+            {
+              "title": "One UI 8.5 导致三星手机深色模式异常，但有变通办法",
+              "brief": "多位用户反映，三星 One UI 8.5 会让部分应用的深色模式显示异常，界面同时出现黑色、深灰和浅灰元素。问题似乎主要影响谷歌应用，被认为与三星调整默认配色后，与 Google 的 Material You 样式机制发生冲突有关。临时解决办法包括使用 Shizuku 分支工具恢复旧配色，或在“壁纸与样式”中调整色板。",
+              "source_url": "https://www.androidauthority.com/one-ui-8-5-update-dark-mode-broken-workaround-3670571/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-25T15:49:55+08:00"
+            },
+            {
               "title": "三星新款 Fold 或将更名，命名方案引发疑惑",
               "brief": "消息称，三星计划调整两款新折叠屏的命名，原本的 Galaxy Z Fold 8 可能改叫 Galaxy Z Fold 8 Ultra，而此前被称为 Galaxy Z Fold 8 Wide 的机型则可能直接命名为 Galaxy Z Fold 8。三星预计7月发布这两款产品，爆料人 Ice Universe 还称，前者配备三摄和5000mAh电池，Wide 版为双摄和4800mAh电池，这或许是改名依据，也可能让用户对其与 Z Fold 7 的承接关系产生混淆。",
               "source_url": "https://www.androidauthority.com/samsung-rename-galaxy-z-fold-8-wide-fold-3670547/",
               "source_name": "Android Authority",
               "published_at": "2026-05-25T14:22:16+08:00"
-            },
-            {
-              "title": "Google Fitbit Air 提前送达，安卓端因应用未更新暂无法配对",
-              "brief": "部分用户在原定5月26日前就收到了Google Fitbit Air，但一些安卓买家因所需的Google Health 5.0尚未向所有设备完整推送，暂时无法与手机配对。这款新品原计划本周交付，谷歌产品团队已确认问题，称正加快通过Play商店发布更新；iOS用户已可更新应用，Google Health同步到Apple Health的支持也将很快上线。",
-              "source_url": "https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-25T11:59:24+08:00"
             }
           ]
         }
@@ -223,6 +244,27 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "Firefox 新增 Web Serial API 支持，并与 Adafruit 合作",
+              "brief": "Firefox 151 已加入对 Web Serial API 的支持，网站可通过 JavaScript 与 USB 或蓝牙等串口设备读写数据。Mozilla 表示这一功能主要面向开发者，用于让浏览器直接连接兼容硬件；同时公司宣布与开源硬件平台 Adafruit 合作，其基于浏览器的硬件工作流现已可在 Firefox 中直接运行。以 Adafruit ESP32-S 开发板为例，网页消息可直接显示到设备上，也能在手持设备上修改网页 CSS 属性。",
+              "source_url": "https://www.solidot.org/story?sid=84387",
+              "source_name": "Solidot",
+              "published_at": "2026-05-25T14:20:00+08:00"
+            },
+            {
+              "title": "四月全球风电和太阳能发电量超过天然气",
+              "brief": "根据能源智库 Ember 的分析，2026 年 4 月全球风能和太阳能发电量合计达到创纪录的 531 TWh，超过天然气的 477 TWh。两者占全球总发电量 22%，天然气占 20%；作为对比，2021 年 4 月天然气发电量几乎不变，但风光发电仅为 245 TWh。报告指出，北半球春季通常风力更强，这推动了 4 月风电增长，并认为 2025 年风能和太阳能已足以满足全球电力增长需求。",
+              "source_url": "https://www.solidot.org/story?sid=84386",
+              "source_name": "Solidot",
+              "published_at": "2026-05-25T13:14:07+08:00"
+            },
+            {
+              "title": "《星际公民》筹款突破 10 亿美元",
+              "brief": "开发 14 年、仍无确定发布日期的《星际公民》总筹款已达到 1,003,408,183 美元，突破 10 亿美元。该作由 Chris Roberts 领衔，试图复兴太空模拟飞行游戏，2012 年先在 Kickstarter 众筹，原计划 2014 年交付，之后又长期通过官网持续募资，其中不少收入来自销售游戏内飞船等虚拟物品。项目曾在 2018 年达到 2 亿美元，2024 年 5 月突破 7 亿美元，如今升至 10 亿美元以上。",
+              "source_url": "https://www.solidot.org/story?sid=84385",
+              "source_name": "Solidot",
+              "published_at": "2026-05-25T11:27:38+08:00"
+            },
             {
               "title": "研究称每周运动约10小时更有利于心血管健康",
               "brief": "澳门理工大学在《英国运动医学杂志》发布研究称，成年人每周运动约560至610分钟，可更显著降低心梗、中风和心衰等心血管疾病风险。研究基于英国生物银行1.7万余名参与者数据，这些人连续一周佩戴传感器并接受最大摄氧量估算，约8年随访显示，达到世卫150分钟建议可降风险约8%至9%，而10小时运动降幅超过30%。",
@@ -236,13 +278,6 @@
               "source_url": "https://www.solidot.org/story?sid=84379",
               "source_name": "Solidot",
               "published_at": "2026-05-23T19:05:40+08:00"
-            },
-            {
-              "title": "《无畏契约》反作弊更新封锁DMA外挂",
-              "brief": "Riot Games更新《无畏契约》内核级反作弊系统Vanguard，利用IOMMU封锁以硬件方式绕过检测的DMA外挂，以应对价格高昂、常伪装成SATA或NVMe设备的作弊卡。触发后系统会发出重启警告，相关DMA固件将失效，即使卸载游戏也无法恢复，通常只能通过重装Windows恢复使用。",
-              "source_url": "https://www.solidot.org/story?sid=84378",
-              "source_name": "Solidot",
-              "published_at": "2026-05-23T17:11:02+08:00"
             }
           ]
         },
@@ -290,6 +325,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "Firefox 151引入 Web Serial，打通浏览器硬件开发流程",
+              "brief": "Firefox 151 新增 Web Serial API 支持，并与 Adafruit 合作验证浏览器端硬件开发流程。这项能力主要面向开发者、创客、教育工作者和嵌入式爱好者，使设备连接、编程、刷写、配置和控制可直接在网页中完成。Mozilla 表示，多种 Adafruit 浏览器工具现已可在 Firefox 中运行，许多项目无需额外安装驱动或软件，并邀请社区反馈实际使用中的问题与成功经验。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563570.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-25T15:34:23+08:00"
+            },
+            {
+              "title": "风电和光伏发电首次超过燃气 2026年4月成全球电力转折点",
+              "brief": "2026年4月，全球风电与光伏发电量首次超过燃气发电，成为电力结构变化的重要节点。Ember称，这并非单月偶发，而是多年装机扩张和技术进步累积的结果，风光几乎满足了新增用电需求。数据显示，全球风光发电同比增约13%，中国、欧盟、英国、美国等主要市场均实现增长，各国也正继续推进大规模可再生能源计划。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563568.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-25T15:33:32+08:00"
+            },
+            {
+              "title": "英国皇家空军启用可充气导弹阵地 强化先进防空对抗训练",
+              "brief": "英国皇家空军启用与 Draken 联合开发的“Sting”系统，用可充气导弹阵地结合电子威胁信号，模拟复杂地对空导弹网络以提升飞行训练。该系统面向“台风”和 F-35B 等机组，可在实飞中进行威胁识别、战术机动和压制演练，并配合 Phantom Sky 射程控制系统动态响应飞行员行动，增强训练强度与逼真度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563566.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-05-25T14:56:00+08:00"
+            },
+            {
               "title": "曾卓君在Combo Breaker 2026《街霸6》夺冠 获EWC与卡普空杯资格",
               "brief": "曾卓君在Combo Breaker 2026《街头霸王6》项目中先于胜者组半决赛2比3负于Hinao，跌入败者组后又连胜Fuudo、kobayan和Jr.，总决赛再胜Hinao完成复仇并夺冠。此役重要之处在于，他此前因EWC规则调整失去卫冕直邀资格，只能重新争夺席位，如今已同时锁定2026年EWC与卡普空杯门票。",
               "source_url": "https://www.cnbeta.com.tw/articles/game/1563564.htm",
@@ -302,27 +358,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1563562.htm",
               "source_name": "cnBeta",
               "published_at": "2026-05-25T14:45:05+08:00"
-            },
-            {
-              "title": "全球Token消耗继续上升 DeepSeek登顶模型调用榜",
-              "brief": "全球AI模型Token消耗继续攀升，中国大模型周调用量达5.57万亿Token，连续四周超过美国，DeepSeek-V4-Flash也登顶OpenRouter全球调用榜。其背景是Agent渗透正放大词元需求，国内日均Token调用量已突破140万亿。与此同时，中国移动、中国电信和中国联通等相继推出Token服务与套餐，算力计费正转向按Token用量结算。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563560.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-25T14:44:18+08:00"
-            },
-            {
-              "title": "李亮否认曾说“短视频猪食论” 抖音再回应相关争议",
-              "brief": "围绕“短视频猪食论”的旧争议再次被提起，抖音副总裁李亮表示相关说法并非出自自己，并就“打焦赞”直播间被封禁一事再次辟谣。事件背景可追溯到2021年腾讯高管孙忠怀在网络视听大会上对部分短视频内容的批评，随后引发字节方面反击。李亮称，此次处罚原因是账号多次以录播冒充直播，与电视剧宣传或版权合作到期无关。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1563558.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-25T14:43:41+08:00"
-            },
-            {
-              "title": "Costco入驻京东 非会员价格高出20%",
-              "brief": "Costco开市客已在京东上线官方旗舰店，成为其在电商平台的首家合作方，消费者可在小程序、App和京东下单。此举意味着这家实行会员制定价的零售商进一步扩大中国线上销售渠道。客服举例称，科克兰饮用纯净水会员价15.9元，非会员价19.08元，高出约20%，店内商品质量与线下卖场一致，线上日常售价基本与线下同步。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563556.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-05-25T14:43:04+08:00"
             }
           ]
         },
@@ -330,39 +365,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "马斯克：Grok V9-Medium 1.5T 完成训练，预计两到三周内发布",
-              "brief": "马斯克宣布，加入大量 Cursor 数据的 Grok V9-Medium 1.5T 已完成训练，目前正进行微调，强化学习预计几天后开始，并将在两到三周内发布。相比当前承载全部 Grok 生产流量的 0.5T V8-Small，他称这将是一次重大升级，尤其会改善困难编程任务表现。报道还提到，SpaceX 已在今年 2 月完成对 xAI 的收购。",
-              "source_url": "https://www.ithome.com/0/954/855.htm",
+              "title": "逐际动力发布 LimX Luna 人形机器人：27 自由度，可看视频学舞蹈，售价 29.8 万元",
+              "brief": "逐际动力发布 LimX Luna 人形机器人，售价29.8万元，前100台到手价25.8万元。该机具备27个自由度，续航较上一代提升150%，并支持有线供电实现24小时连续运行。产品支持多模态交互、无代码触发任务、全链路一键急停和最多200台群控协同，还可根据视频学习舞蹈，用于导购、互动演出等场景。",
+              "source_url": "https://www.ithome.com/0/954/933.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-25T14:49:06+08:00"
+              "published_at": "2026-05-25T16:33:02+08:00"
             },
             {
-              "title": "TrendForce：主要 NAND 原厂 2026 年几无新增产能，全年或持续短缺",
-              "brief": "TrendForce 表示，主要 NAND 原厂在 2026 年几乎没有新增产能，供给短缺预计将持续全年。受平均销售单价普遍优于预期带动，2026 年第一季度全球前五大 NAND 品牌营收合计达 389 亿美元，环比大增 83.7%，其中三星季度增幅最高。展望第二季度，服务器需求将消化手机和 PC 疲软释放的产能，原厂出货规模与 ASP 仍将获得持续支撑。",
-              "source_url": "https://www.ithome.com/0/954/852.htm",
+              "title": "摩根士丹利预计《GTA 6》发售四个月销量达 4000 万份",
+              "brief": "摩根士丹利预计《GTA 6》到2027财年可售出4000万份，意味着游戏发售四个多月就可能达到这一规模。该行认为，若销量超过这一预期，Take-Two营收将明显增长，并称其有望成为史上销量最快的游戏。对比来看，《GTA 5》首月销量为2900万份，目前累计销量已达2.3亿份，官方尚未公布《GTA 6》定价。",
+              "source_url": "https://www.ithome.com/0/954/932.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-25T14:46:21+08:00"
+              "published_at": "2026-05-25T16:32:40+08:00"
             },
             {
-              "title": "《处方药网络零售合规指南》发布：实名购药，禁止 AI 替代审方",
-              "brief": "《处方药网络零售合规指南》已发布，针对网售处方药长期存在的不凭处方销售、处方药信息展示不当等漏洞，明确要求必须凭真实处方并实行实名制销售。指南同时禁止 AI 替代审方、重复使用处方，要求审方数量保持在合理范围，不得引导过度或不合理用药；未成年人购药时需提示安全风险，必要时予以拦截，以从源头防控风险。",
-              "source_url": "https://www.ithome.com/0/954/849.htm",
+              "title": "小米米家冰箱 Pro 对开 620L 开启预售：双系统双循环，首发价 2499 元",
+              "brief": "小米开启米家冰箱 Pro 对开620L预售，首发价2499元。这款新品主打双系统双循环，冷藏和冷冻分别配备独立蒸发器、风机与循环风路，以减少串味并提升保鲜效果。产品还配备银离子抗菌净味模块、全域离子净化系统和360度立体送风，并支持90度开门、米家App远程操控及超级小爱语音控制。",
+              "source_url": "https://www.ithome.com/0/954/930.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-25T14:43:30+08:00"
+              "published_at": "2026-05-25T16:31:46+08:00"
             },
             {
-              "title": "宁德时代巧克力换电与地上铁合作，标准化轻卡换电生态投运",
-              "brief": "宁德时代巧克力换电与地上铁达成合作，全国首个标准化轻卡换电生态已正式投运。该体系可同时服务轴距 2.7 米至 3.75 米的乘用车和卡系车型，并兼容巧克力 25 号与 35 号电池，实现乘商兼容。官方称，大湾区目前已建成 31 座轻卡换电站，年底将增至 140 座，计划到 2026 年底投入 5000 台标准化换电轻卡。",
-              "source_url": "https://www.ithome.com/0/954/836.htm",
+              "title": "比亚迪宋 Ultra DM-i 将于 5 月 28 日上市：第五代 DM 技术，最大纯电续航 310 公里",
+              "brief": "比亚迪宣布宋 Ultra DM-i 将于5月28日上市，新车搭载第五代 DM 技术，最大纯电续航310公里。官方预告显示，其外观与已上市的宋 Ultra EV 基本一致，预计两者在配置上的差异不大。作为参考，宋 Ultra EV 售价为15.19万至17.99万元，提供多种配色、15.6英寸中控屏、四音区语音交互及部分高配选装激光雷达方案。",
+              "source_url": "https://www.ithome.com/0/954/927.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-25T14:37:46+08:00"
+              "published_at": "2026-05-25T16:27:28+08:00"
             },
             {
-              "title": "npm 遭供应链投毒攻击，多个热门开源项目受影响",
-              "brief": "npm 生态遭遇供应链投毒攻击，多个热门开源项目受影响。开发者一旦安装恶意依赖，恶意代码就会在本地或 CI/CD 环境执行，窃取 GitHub 与 npm 令牌、云服务密钥、SSH 私钥及数据库连接等敏感信息。由于其具备蠕虫式自我复制与横向传播能力，攻击者还可利用窃取的发布权限篡改并再次发布其他软件包，受影响项目包括 echarts-for-react、@antv 系列、TanStack 系列等。",
-              "source_url": "https://www.ithome.com/0/954/828.htm",
+              "title": "微软再次调整 Win11 Copilot：重回桌面侧边",
+              "brief": "微软正在调整 Windows 11 上的 Copilot 形态，使其重新支持固定在桌面左右侧边。用户可在新下拉菜单中选择独立窗口、画中画以及左右停靠等布局，启用后桌面图标、壁纸和其他应用窗口会自动重新排布。此次改动让 Copilot 回到最初以侧边栏与应用并列显示的思路，微软此前已多次调整其界面与实现方式。",
+              "source_url": "https://www.ithome.com/0/954/924.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-25T14:32:22+08:00"
+              "published_at": "2026-05-25T16:23:53+08:00"
             }
           ]
         },
@@ -410,45 +445,52 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "沪深两市成交额突破3万亿元",
-              "brief": "36氪消息称，5月25日14时47分，沪深两市成交额已突破3万亿元，显示当日A股市场交易活跃度显著抬升。成交额是观察市场资金参与度与交投热度的常用指标，此次突破说明盘中资金换手规模处于较高水平。该则快讯未披露更多板块表现、个股分化或资金流向信息，核心更新就是两市合计成交额跨过3万亿元整数关口。",
-              "source_url": "https://36kr.com/newsflashes/3824347290046856?f=rss",
+              "title": "昀冢科技：MLCC产品目前主要用于消费电子，尚未应用于AI算力服务器",
+              "brief": "昀冢科技就股价异常波动作出公告，称公司股票在5月21日、22日和25日连续三个交易日收盘价格涨幅偏离值累计达到30%，属于交易异常波动。公司说明，此次受关注的MLCC业务前期资金投入大、投资周期长，目前仍处于亏损状态；若未来行业竞争加剧、技术路线变化或下游需求发生重大变化，项目效益可能不及预期。现阶段其MLCC产品主要应用于消费电子领域，暂未用于AI算力服务器。",
+              "source_url": "https://36kr.com/newsflashes/3824461967986820?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-25 14:47:14  +0800"
+              "published_at": "2026-05-25 16:43:53  +0800"
             },
             {
-              "title": "胖东来在许昌成立乐予文化娱乐公司",
-              "brief": "36氪获悉，天眼查App显示，近日许昌市胖东来乐予文化娱乐有限公司成立，注册资本20万元，法定代表人为于龙飞，相关工商信息已完成披露。新公司经营范围包括游艺娱乐活动，以及玩具、动漫和游艺用品销售，覆盖文化娱乐与相关零售业务。股权信息显示，该公司由许昌市胖东来天使城文化娱乐有限公司全资持股，落地地点为河南许昌。",
-              "source_url": "https://36kr.com/newsflashes/3824329941504135?f=rss",
+              "title": "宜人智科：未开展任何财富管理类相关业务",
+              "brief": "宜人智科发布声明，回应近期市场关于“头部助贷机构良性清退类固收产品”的讨论，明确表示公司未开展任何财富管理类相关业务。公司称，宜人智科作为独立运营的上市公司主体，与其他业务板块分属独立业务体系，运营管理完全隔离，彼此经营独立、互不影响。其同时表示目前整体经营状况稳定，各项业务正有序推进，现金流和风控指标保持健康，未受相关市场讨论影响。",
+              "source_url": "https://36kr.com/newsflashes/3824457494827138?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-25 14:29:35  +0800"
+              "published_at": "2026-05-25 16:39:20  +0800"
             },
             {
-              "title": "多点数智联合灵心巧手成立灵美智能",
-              "brief": "36氪消息称，多点数智联合灵心巧手等三方共同出资设立灵美智能数核（北京）科技有限公司，三方持股比例分别为51%、29%和20%，合资主体已经落地。此次设立意味着合作从业务协同进一步推进到公司化运作。工商信息显示，新公司法定代表人为张峰，他同时担任多点数智联合创始人兼总裁。",
-              "source_url": "https://36kr.com/newsflashes/3824327001165956?f=rss",
+              "title": "欧洲央行管委斯图纳拉斯：必须避免政策过于限制性",
+              "brief": "欧洲央行管委亚尼斯·斯图纳拉斯表示，欧洲央行在制定政策时必须避免采取过于限制性的做法，以免进一步加重经济活动和投资的负担。此次发言围绕欧洲央行政策力度展开，核心关注点是政策过紧可能对经济运行带来额外压力。关键细节是，他明确将经济活动和投资列为需要避免继续承压的对象，强调后续政策不宜过度收紧。",
+              "source_url": "https://36kr.com/newsflashes/3824454442061959?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-25 14:26:36  +0800"
+              "published_at": "2026-05-25 16:36:14  +0800"
             },
             {
-              "title": "摩根大通：标普500指数未来一年或突破9000点，AI超级周期可能超预期",
-              "brief": "摩根大通在最新报告中预计，标普500指数未来一年内将突破9000点，较当前水平仍有约22%上行空间，这是报告给出的核心结论。该判断出自全球投资策略师克里蒂·古普塔等人，背景是市场仍普遍担忧美国通胀和伊朗战争风险。报告认为，如果人工智能超级周期的规模超过市场此前预期，整体上涨趋势仍可能延续。",
-              "source_url": "https://36kr.com/newsflashes/3824324639478151?f=rss",
+              "title": "财政部：4月全国彩票销售540.73亿元，同比下降6.4%",
+              "brief": "财政部公布2026年4月全国彩票销售情况，当月全国共销售彩票540.73亿元，同比减少36.72亿元，下降6.4%。这一变化主要受两方面影响：一是去年同期即开型彩票销量基数较高，二是今年相关体育赛事活动减少，带动竞猜型彩票销量下滑。分机构看，福利彩票销售179.58亿元，同比下降6.3%；体育彩票销售361.16亿元，同比下降6.4%，两类彩票销售额均出现回落。",
+              "source_url": "https://36kr.com/newsflashes/3824445756690820?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-25 14:24:11  +0800"
+              "published_at": "2026-05-25 16:27:24  +0800"
             },
             {
-              "title": "新加坡4月份核心通胀率降至1.4%",
-              "brief": "新加坡官方周一公布数据显示，4月份核心通胀率降至1.4%，显示当地核心价格涨幅继续放缓。新加坡金管局与贸工部在联合新闻稿中解释，这一下降主要受服务业、零售业及其他商品价格通胀放缓推动，反映多项分项价格压力有所缓和。不过官方同时提醒，全球能源供应持续中断，仍可能推高进口成本。",
-              "source_url": "https://36kr.com/newsflashes/3824315197542788?f=rss",
+              "title": "现代汽车集团设立专门部门推进软件定义工厂战略并采购机器人零部件",
+              "brief": "据报道，现代汽车集团已设立专门部门，负责推进软件定义工厂战略并采购机器人零部件，这是其在汽车制造工厂部署Atlas人形机器人更大计划的一部分。为配合该战略，集团近期还新设岗位，专门监管软件定义工厂项目，并任命现代汽车集团新加坡创新中心首席创新官阿尔佩什·帕特尔担任这一职务。关键点在于，组织架构和采购职能已被单独划出，以支撑相关工厂自动化部署。",
+              "source_url": "https://36kr.com/newsflashes/3824440506831240?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-25 14:14:35  +0800"
+              "published_at": "2026-05-25 16:22:03  +0800"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "AudioMass：核心不足 100KB 的在线开源多轨音频编辑器",
+              "brief": "AudioMass是一款完全运行在浏览器里的免费开源多轨音频编辑器，无需下载、安装、注册或上传文件，打开网页即可在本地处理音频。其核心JS压缩后不到100KB，采用原生JavaScript编写，不依赖后端和大型框架，支持录音、导入、裁剪、拼接、淡入淡出、音量调整及压缩、均衡器、混响等效果，并可通过Go或Python在本地自托管。",
+              "source_url": "https://www.appinn.com/audiomass/",
+              "source_name": "小众软件",
+              "published_at": "2026-05-25T14:43:04+08:00"
+            },
             {
               "title": "发现频道：近10日热门排行榜（2026年第21期）",
               "brief": "小众软件发布了论坛“发现频道”最近10日热门主题排行榜第21期，汇总近十天讨论热度最高的工具与项目。该榜单由系统依据论坛帖子热度自动生成，用来集中回顾近期最受关注的发现内容。上榜条目包括漫画小说阅读器 Moeli、剪贴板同步工具 UniClipboard、图片分组浏览器格图X、桌面启动器 Wox 2.1.0、英语训练应用 Echo Loop，以及 LynMusic、QuickRight、aDict、Kindler 和 MuseUI。",
