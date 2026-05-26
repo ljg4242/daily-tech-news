@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T14:56:11.412724+08:00",
+  "generated_at": "2026-05-26T18:56:50.421593+08:00",
   "sections": [
     {
       "category": "主要",
@@ -141,45 +141,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Gemini 用户一次提问即触发 5 小时使用上限，谷歌回应",
-              "brief": "谷歌新的按算力计费式 Gemini 使用限制引发不满，有用户称在一次提示后就触发了五小时配额上限。该机制近期取代固定提示次数，会按提示复杂度、所用功能和对话长度计算额度。谷歌 AI Pro 订阅者 Ashutosh Shrivastava 表示，自己用头像视频生成功能提交一次简单请求，3到4分钟内额度即从0%升至100%，且生成最终失败，Gemini 负责人 Josh Woodward 已回应并表示正调查。",
-              "source_url": "https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/",
+              "title": "Google Play 商店或将提醒手机中的失效安卓应用",
+              "brief": "谷歌可能很快在 Play 商店中提醒安卓用户，某些已安装应用已被移除或下架，因此之后将不再获得更新。当前系统通常只会通过 Play Protect 提示存在严重安全风险的应用，对开发者主动下架或因一般政策问题移除的应用不会通知，用户往往要到换机或看新闻时才会发现。Android Authority 在 Play 商店 v51.4.19 中发现多条开发中字符串，显示系统会按单个或多个应用分别发出这类提醒。",
+              "source_url": "https://www.androidauthority.com/google-play-store-app-removal-notification-apk-teardown-3670936/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-26T13:41:57+08:00"
+              "published_at": "2026-05-26T18:52:02+08:00"
             },
             {
-              "title": "提前到货的 Google Fitbit Air 因安卓应用更新缺失受阻",
-              "brief": "部分用户在原定5月26日之前提前收到 Google Fitbit Air，但部分 Android 用户开箱后无法配对。原因是设备需要新版 Google Health 5.0，而该更新当时尚未向所有安卓用户完整推送。Google 已确认这一配对问题，并表示更新现已向全部用户推出，周末提前收货的人现在可以完成配对，同时很快还会支持将 Google Health 数据同步到 Apple Health。",
-              "source_url": "https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/",
+              "title": "这款 Fitbit Air 竞品无需月费，终于确定上市时间",
+              "brief": "Luna宣布其首款无屏健身手环Luna Band将于7月上市，正面迎战Fitbit Air和WHOOP。近年健身追踪器转向智能戒指与无屏手环等低干扰形态，这款产品也延续该趋势。官方称它可记录日常活动、睡眠、饮食、补剂、血检和医疗资料，并提供多种配色、材质与金属扣件，且使用低致敏材料以便长时间佩戴。",
+              "source_url": "https://www.androidauthority.com/luna-band-fitbit-air-rival-3670916/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-26T11:55:24+08:00"
+              "published_at": "2026-05-26T18:39:54+08:00"
             },
             {
-              "title": "法拉利 Luce 的 OLED 仪表台把三星手机显示技术用到了新地方",
-              "brief": "法拉利发布首款纯电动车 Luce，其最醒目的设计之一是由三星显示独家供应的分层式 OLED 仪表台。该方案把两块上下叠放的 OLED 面板与真实机械指针结合，背后采用原本用于 Galaxy 手机打孔摄像头的 HIAA 开孔显示技术，单个开孔约100毫米，约为手机常见5毫米开孔的20倍，整车设计则由前苹果设计主管 Jony Ive 完成。",
-              "source_url": "https://www.androidauthority.com/ferrari-luce-samsung-oled-galaxy-phone-tech-3670831/",
+              "title": "我用 Telegram 和 Discord 管理整个家庭实验室",
+              "brief": "Android Authority作者介绍，自己借助开源工具DockSentry，把家庭实验室的Docker运维搬进Telegram和Discord。家庭实验室往往从少量服务扩展到大量容器，难点不在搭建，而在持续维护。DockSentry会在更新发布或容器异常时发送实时提醒，并允许用户在手机上直接批准更新或执行回滚，减少频繁登录管理面板。",
+              "source_url": "https://www.androidauthority.com/homelab-management-docker-telegram-3668531/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-26T11:35:39+08:00"
+              "published_at": "2026-05-26T18:30:29+08:00"
             },
             {
-              "title": "三星图库何时正式停止与 OneDrive 同步",
-              "brief": "微软更新支持页面，确认三星图库将于2026年9月30日停止与OneDrive直接同步。此前泄露的One UI 8.5代码和截图已预示这项整合会结束，如今官方终于给出明确日期。届时存放在OneDrive中的照片将不再显示在三星图库里，三星也计划以自家云服务取代该方案；不过文件仍可在OneDrive网页和已安装应用的设备上访问，想继续备份则需调整相机胶卷设置并安装OneDrive应用。",
-              "source_url": "https://www.androidauthority.com/samsung-gallery-onedrive-backups-end-date-3670801/",
+              "title": "Aurzen Roku TV 智能投影仪主打 SGS 认证真实亮度",
+              "brief": "Aurzen推出搭载Roku TV的智能投影仪D1R和D1R Cube，主打经SGS认证的真实亮度与原生1080p画质。投影产品常因亮度标称与实际体验不符而受质疑，因此第三方认证成为卖点。两款机型亮度分别为280和300 ANSI流明，支持60至200英寸投射，D1R还配备自动对焦、自动梯形校正、双5W扬声器和双频Wi‑Fi。",
+              "source_url": "https://www.androidauthority.com/aurzen-eazze-d1r-roku-tv-3670662/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-26T04:21:47+08:00"
+              "published_at": "2026-05-26T18:15:08+08:00"
             },
             {
-              "title": "海盗船 HS65 Surround 游戏耳机在亚马逊降价 29%",
-              "brief": "亚马逊把海盗船HS65 Surround有线游戏耳机降至49.99美元，较69.99美元原价便宜29%。这款产品主打多平台兼容和长时间佩戴舒适度，适用于PC、Mac、PS5、PS4、Xbox、Switch及移动设备。它配备50毫米钕驱动单元、记忆海绵皮耳罩和282克轻量机身，支持PS5的Tempest 3D Audio、PC端Dolby Atmos，以及翻转静音麦克风、机身音量控制和iCUE软件调音；此次价格为8小时前下调，且低于近90天平均价。",
-              "source_url": "https://www.androidauthority.com/corsair-hs65-surround-gaming-headset-3670813/",
+              "title": "我经常用 Google Meet，这 6 个隐藏功能值得启用",
+              "brief": "Android Authority总结了Google Meet六项值得启用的隐藏功能，认为这款看似简洁的视频会议工具其实提供了不少进阶能力。文章背景是作者长期高频使用Meet处理工作会议，因此整理出最常用的功能。示例包括限制发言与演示权限、压制刷屏聊天、静音参会者，以及为大型会议指派联合主持人协助管理流程。",
+              "source_url": "https://www.androidauthority.com/best-google-meet-features-3669284/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-26T04:11:23+08:00"
+              "published_at": "2026-05-26T18:00:58+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "FAA调查结束后批准蓝色起源再次发射新格伦火箭",
+              "brief": "美国联邦航空管理局已批准蓝色起源的新格伦火箭恢复发射，此前该火箭在4月执行第三次任务时虽首次成功回收一级助推器，却未能把搭载的AST SpaceMobile卫星送入目标轨道，因此被停飞并接受事故调查。公司表示监管方已接受其飞行报告和纠正措施，问题出在上面级第二次点火前的异常热状况，导致一台BE-3U发动机未能输出足够推力，NG-4准备继续进行。",
+              "source_url": "https://www.engadget.com/2180875/blue-origin-new-glenn-faa-clearance/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-26T16:32:50+08:00"
+            },
             {
               "title": "森海塞尔 Momentum 5 耳机重点升级音质与降噪",
               "brief": "森海塞尔发布Momentum 5 Wireless，将于6月16日上市，售价400美元，外观基本延续上代，主要改进集中在音质和主动降噪。距离Momentum 4已近四年，新机仍用42毫米单元，新增Hi-Res Audio认证、Snapdragon Sound与8段均衡器，并计划通过更新加入头部追踪杜比全景声和蓝牙6.0；每侧麦克风增至4个，官方称降噪最高提升3倍。",
@@ -207,19 +214,26 @@
               "source_url": "https://www.engadget.com/2180617/huawei-claims-it-will-make-cutting-edge-semiconductors-by-2031/",
               "source_name": "Engadget",
               "published_at": "2026-05-26T00:51:03+08:00"
-            },
-            {
-              "title": "《星际公民》融资突破10亿美元，上线近九年仍处抢先体验",
-              "brief": "《星际公民》累计融资已突破10亿美元，但自2017年进入抢先体验后，近九年仍停留在Alpha阶段。该项目2012年以50万美元目标在Kickstarter发起，随后不断刷新众筹纪录，如今已吸引超过650万名支持者。Cloud Imperium首席执行官Chris Roberts表示，即便未来推出所谓1.0版本，团队仍会长期扩展宇宙内容；单人衍生作《42中队》虽称已进入“收尾阶段”，但依然没有确定发售日期。",
-              "source_url": "https://www.engadget.com/2180552/star-citizen-has-raised-1-billion-remains-in-early-access-after-nine-years/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-25T23:39:27+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Uber总裁称AI支出越来越难证明合理",
+              "brief": "据报道在2026年仅过四个月就花光全年AI预算后，Uber开始重新审视相关投入是否真有明显回报。这一变化源于公司内部尚未看到AI使用与生产效率提升之间的明确联系。总裁兼首席运营官Andrew Macdonald在接受Rapid Response采访时说，Claude Code令牌消耗不断上升，但与面向消费者的更有用功能交付之间“还没有那条线”，即便可能有更多功能上线，也难证明已多产出25%的有效功能。",
+              "source_url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+              "source_name": "The Verge",
+              "published_at": "2026-05-26T05:55:09-04:00"
+            },
+            {
+              "title": "内置电池版Starlink Mini或将推出",
+              "brief": "最新Starlink固件代码显示，SpaceX可能正准备推出内置电池版Starlink Mini，让这款最小型互联网天线摆脱线缆供电、实现真正便携。其背景是用户希望在房车、应急救援等场景中，从全球多数地点获得高速低时延网络。研究人员Jinwei Zhao在5月固件中发现“DishBatteryStats”等字符串，表明系统可直接读取一体化电池的电量和充电状态，而非仅连接外部充电宝。",
+              "source_url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+              "source_name": "The Verge",
+              "published_at": "2026-05-26T04:55:51-04:00"
+            },
             {
               "title": "森海塞尔新款 Momentum 5 头戴耳机升级主动降噪并配备可更换电池",
               "brief": "森海塞尔发布新一代 Momentum 5 Wireless 头戴耳机，在基本沿用上一代外观的同时，升级了主动降噪，并首次采用可由用户自行更换的电池。该系列上次大改款距今已近四年，品牌继续保留更现代、佩戴更舒适的大耳罩设计。新机麦克风数量翻倍，可提升降噪效果和通话质量，6月30日上市，售价399.99美元，比 Momentum 4 高出50美元。",
@@ -240,20 +254,6 @@
               "source_url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
               "source_name": "The Verge",
               "published_at": "2026-05-25T14:28:30-04:00"
-            },
-            {
-              "title": "教皇利奥呼吁在 AI 时代保持“深刻的人性”",
-              "brief": "教皇利奥十四世周一发布首份重要通谕《Magnifica Humanitas》，把它定位为一份关于“在人工智能时代维护人的主体性”的纲领性文件，警示人工智能和不受约束的技术力量带来的风险，并呼吁建立新的法律与伦理框架治理AI。文件重点谈到AI战争、对劳动的冲击，以及技术迅速普及对经济和社会造成的震荡，称当前对个人的保护不足，正在威胁人的尊严。",
-              "source_url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-              "source_name": "The Verge",
-              "published_at": "2026-05-25T11:05:07-04:00"
-            },
-            {
-              "title": "REI 大型周年庆临近结束，这些优惠最值得买",
-              "brief": "REI 年度最大规模的 Anniversary Sale 仍在进行，临近结束前仍有一批户外装备和科技产品可低价入手。如果近期有露营、徒步或深入野外的计划，这是集中补货基础装备的窗口，折扣覆盖帐篷、睡垫、炉具等用品，也包括 Garmin 手表、净水器和太阳能照明等设备，其中部分商品在亚马逊等零售商也同步打折。",
-              "source_url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-              "source_name": "The Verge",
-              "published_at": "2026-05-25T09:40:00-04:00"
             }
           ]
         }
@@ -299,39 +299,39 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "有用户称 Gemini 生成简单头像视频 4 分钟耗尽 5 小时额度",
+              "brief": "有开发者展示，使用 Gemini 上传个人头像生成一段简短视频时，任务进行约4分钟仍未完成，却直接耗尽5小时配额并最终失败。事情发生在谷歌近期频繁调整并重置 Gemini 配额之后，尽管官方已把5小时和每周额度提高3倍，用户仍持续抱怨。按页面显示，该次任务开始前周配额为25%，结束后升至30%，更像系统异常消耗而非正常用量。",
+              "source_url": "https://www.landian.news/archives/113107.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-26T16:14:48+08:00"
+            },
+            {
+              "title": "研究人员称 NGINX 近期漏洞引发的担忧被夸大",
+              "brief": "有安全分析师称，近期 NGINX 高危漏洞引发的恐慌被夸大，其团队分析 GitHub 上近4000份公开配置后，未发现满足 RIFT 漏洞触发条件的样本。争议在于漏洞虽需特定 rewrite 配置才可利用，但公网仍有攻击出现；蓝点网另行抽取699份配置，发现44份匹配相关模式，占比6.3%，并提醒用户升级到1.30.1或1.31.0。",
+              "source_url": "https://www.landian.news/archives/113106.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-26T15:57:52+08:00"
+            },
+            {
+              "title": "摩托罗拉手机被发现启动亚马逊前插入返利代码",
+              "brief": "有研究者发现，部分摩托罗拉手机打开亚马逊应用时会先被 Smart Feed 中断，再经浏览器载入带联盟返利代码的页面后重新启动亚马逊，从而可能为相关方带来购买分成。异常之处在于所用 kira-abbound.com 域名注册仅3天，且指向一名时尚博主；同时设备还会请求广告公司 devicenative.com，摩托罗拉尚未回应，用户可暂时禁用 Smart Feed。",
+              "source_url": "https://www.landian.news/archives/113105.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-26T15:24:04+08:00"
+            },
+            {
+              "title": "荣耀手机截图提示存储空间不足，官方称与谷歌更新有关",
+              "brief": "多名荣耀手机用户近期在截图时收到“存储空间有限无法保存截图”提示，即使设备仍有约20%剩余空间也无法正常保存。荣耀确认，这并非真实存储不足，而是谷歌于2026年5月25日推送的更新与 MagicOS 兼容异常所致，主要影响可接收谷歌更新的海外机型；官方正与谷歌排查，临时建议改用滚动截图后再裁剪。",
+              "source_url": "https://www.landian.news/archives/113104.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-26T15:04:00+08:00"
+            },
+            {
               "title": "Cloudflare DNS 将弃用原地切换解析类型",
               "brief": "Cloudflare 调整 DNS 记录类型修改方式，新版管理界面已取消原地切换，API 的同类操作也将于 2026 年 6 月 30 日弃用。官方称此举是为遵循正确的 DNS 语义并降低运维风险，因为不同类型记录的切换底层本就是先删后加。今后无论手动还是通过程序，都必须删除旧记录后再创建新记录，依赖该 API 的应用也需改造，并注意切换时的传播延迟与 TTL 影响。",
               "source_url": "https://www.landian.news/archives/113103.html",
               "source_name": "蓝点网",
               "published_at": "2026-05-26T12:43:14+08:00"
-            },
-            {
-              "title": "火绒披露利用带毒 WPS 和 Cloudflare 隧道的远控攻击",
-              "brief": "火绒披露一种新型远控攻击，黑客通过下载站投放带后门的 WPS 安装包，并借助 Cloudflare 官方隧道工具建立连接。该手法利用合法软件和签名程序隐藏行为，增加普通用户发现难度。恶意载荷会把整个 C 盘加入 Microsoft Defender 排除列表，随后创建服务和计划任务持久化运行，收集键盘输入、剪贴板内容并支持远程控制。",
-              "source_url": "https://www.landian.news/archives/113102.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-26T12:19:58+08:00"
-            },
-            {
-              "title": "伊朗计划于 5 月 27 日恢复国际互联网连接",
-              "brief": "伊朗计划自 2026 年 5 月 27 日起恢复国际互联网连接，目标是回到 2026 年 1 月大规模断网前的水平。该国今年先后经历两次严重网络中断，2 月 28 日以来国际流量一度跌至正常值的 0.2%。目前仅少数人员可访问白名单网站，整体流量约为正常水平的 4.7%，其中约一半还是机器人流量。",
-              "source_url": "https://www.landian.news/archives/113101.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-26T11:51:05+08:00"
-            },
-            {
-              "title": "惠普调查高端笔记本 BIOS 更新后无法启动等问题",
-              "brief": "惠普正在调查部分高端笔记本在安装 BIOS 固件更新后出现无法启动、风扇高速运转和 Windows 11 黑屏死机等问题。相关更新经由微软渠道以关键更新形式推送，受影响机型包括 ZBook G1A 和 EliteBook X G1A。用户称固件回滚并不容易，惠普目前仅表示已收到反馈并建议联系支持团队。",
-              "source_url": "https://www.landian.news/archives/113100.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-26T11:14:57+08:00"
-            },
-            {
-              "title": "阿里云云解析 DNS 免费版 6 月 24 日起限速",
-              "brief": "阿里云宣布云解析 DNS 免费版将从 2026 年 6 月 24 日起对超额流量实施限速，单个域名每日解析量上限为 10 万次。官方称免费用户规模增长推高平台总解析量，因此需通过动态限速保障全球链路稳定和高可用。超限后可能出现响应延迟或丢包，高流量用户需考虑迁移其他权威解析服务或升级付费版。",
-              "source_url": "https://www.landian.news/archives/113071.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-26T10:30:35+08:00"
             }
           ]
         },
@@ -339,39 +339,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "联发科预告全新PC体验 英伟达N1/N1X或将亮相",
-              "brief": "联发科预告将带来全新的PC体验，外界因此再度聚焦其与英伟达传闻中的N1、N1X PC SoC合作。联发科此前主要出现在ChromeOS设备上，尚未正式进入Windows on Arm PC，而这套平台被认为会结合联发科CPU技术与英伟达图形能力。已有报道称戴尔和联想正基于其开发笔记本，且原定6月3日的联发科Computex主题演讲已因日程调整取消。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563664.htm",
+              "title": "三体宇宙回应原CEO许垚被执行死刑",
+              "brief": "三体宇宙就原CEO许垚被执行死刑发布声明，称“正义终得伸张”，并表示将继续深耕《三体》IP多元发展。根据报道，许垚于2026年5月21日被执行死刑，其曾投毒致游族网络董事长林奇身亡，并造成至少4人中毒。公司同时感谢伙伴和读者支持，称未来将继续以《三体》为原点拓展中国科幻作品。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563678.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-26T13:06:56+08:00"
+              "published_at": "2026-05-26T15:45:13+08:00"
             },
             {
-              "title": "英伟达首款Vera CPU开始交付 黄仁勋称有意进入中国市场",
-              "brief": "英伟达宣布首款面向代理式AI的Vera CPU已正式投产并开始交付，首批设备已送达Anthropic、OpenAI、SpaceX AI和甲骨文云等公司。黄仁勋在财报会议上称，这款产品将帮助英伟达切入一个规模约2000亿美元的新市场，并继续带动AI芯片业务增长。Vera采用88颗自研Olympus核心，内存带宽达1.2TB/s，可与Rubin GPU及BlueField 4 DPU协同运行。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563662.htm",
+              "title": "Meta大裁员后幸存员工士气低迷",
+              "brief": "Meta在5月20日大裁员后，幸存员工普遍士气低迷，多名员工称团队“没人愿干活”，对公司愿景和长期前景缺乏信心。报道援引现任与离职员工说法称，此次裁员约占员工总数10%，近8000人离岗、6000个空缺冻结，裁员前后又叠加治理重组和AI部门调整，使不少人选择观望而非投入工作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563676.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-26T13:06:54+08:00"
+              "published_at": "2026-05-26T15:42:48+08:00"
             },
             {
-              "title": "森海塞尔发布Momentum 5头戴耳机 升级降噪并首次支持更换电池",
-              "brief": "森海塞尔发布新一代Momentum 5头戴耳机，重点升级主动降噪、无线音频与续航设计，并首次加入用户可自行更换电池。该产品延续前代定位，但调整了头梁、转轴和佩戴舒适度，收纳盒体积也缩小约两成。新机增加麦克风阵列，支持透明模式、风噪控制、Dolby Atmos与头部跟踪空间音频，并提供aptX Lossless等高码率传输，开启降噪时续航约57小时。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563660.htm",
+              "title": "奥尔特曼：AI普及不会引发“就业末日”",
+              "brief": "OpenAI首席执行官奥尔特曼表示，人工智能普及未如他先前担心的那样迅速引发“就业末日”，尤其入门级白领岗位并未出现大幅缩减。他在与澳大利亚联邦银行CEO对谈时称，自己对就业冲击的直觉有偏差，并提到在让AI代回消息后重新意识到人与人联结的重要性，认为许多依赖人际互动的工作仍难被替代。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563674.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-26T13:05:34+08:00"
+              "published_at": "2026-05-26T15:40:36+08:00"
             },
             {
-              "title": "微软最新文档称Windows 11已成为企业级AI操作系统",
-              "brief": "微软在最新电子书中将Windows 11定位为企业级“AI操作系统”，强调AI不是额外叠加的一层工具，而是直接嵌入用户日常工作流程。微软认为，企业部署更多AI工具并不一定带来更高回报，关键在于把合适的AI融入核心业务。文档称Windows 11既是AI堆栈的一部分，也是起点，并以任务栏“Ask Copilot”为例，展示系统如何直接检索文件与信息以减少应用切换。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563658.htm",
+              "title": "三星电子下月起允许员工使用外部AI模型",
+              "brief": "三星电子将从下月起允许员工使用外部AI模型，调整此前仅限内部模型Samsung Gauss的做法。公司过去主要出于安全考虑限制外部模型使用，如今要求员工先完成安全培训后方可获得访问权限。按高管说法，新安排暂时仍只适用于半导体及器件解决方案DS部门，相关会议预计将有约2000名三星及主要附属公司高管参加。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563672.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-26T12:58:39+08:00"
+              "published_at": "2026-05-26T15:34:15+08:00"
             },
             {
-              "title": "加州与科罗拉多通过年龄验证法案 开源操作系统获豁免",
-              "brief": "加州和科罗拉多州通过的年龄验证法案，为符合条件的开源操作系统加入了豁免条款，使其无需在系统层面强制集成年龄验证机制。相关文本将可复制、再分发和修改，且不存在平台限制的开源软件排除在适用范围之外，因此多数Linux发行版可避开这一要求。不过这种豁免不一定覆盖应用层，像Steam客户端这样的专有内容平台，以及部分浏览器，仍可能承担年龄验证义务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563656.htm",
+              "title": "三星非芯片部门员工寻求叫停奖金协议表决",
+              "brief": "因芯片与非芯片部门奖金差距悬殊，三星数字体验等非芯片业务员工寻求通过法院阻止一项初步协议表决。该协议涉及芯片部门约7.8万名员工奖金，按估算人均约5.13亿韩元，而数字体验部门员工仅约600万韩元。表决预计周三结束，截至周一晚已有87%符合资格成员投票，相关工会成员近期已增至近1.3万人。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563670.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-26T12:57:17+08:00"
+              "published_at": "2026-05-26T15:34:05+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "上海推出全国首个网络餐饮电子证照核验应用，整治“幽灵外卖”",
-              "brief": "上海上线全国首个网络餐饮电子证照核验应用，针对“幽灵外卖”建立“真人、真证、真店”核验机制。此举旨在把平台治理从事后处置转向事前拦截和协同共治。商户申请入驻后将实时比对官方数据库，法定代表人还需通过电子营业执照小程序完成实名授权，证照可在店铺首页公示，监管部门还能跟踪证照变动、授权失效并联动后续预警。",
-              "source_url": "https://www.ithome.com/0/955/326.htm",
+              "title": "Take-Two CEO否认《荒野大镖客线上模式》失败：仍有长期生命力",
+              "brief": "Take-Two CEO施特劳斯·泽尔尼克否认《荒野大镖客线上模式》失败，称其“非常成功”且具备长期生命力。由于该作自2021年7月“血染之财”后几乎只剩月度小活动，玩家普遍认为R星对其投入远少于《GTA Online》。他还表示，《荒野大镖客：救赎2》累计销量已达8500万份，如果没有《GTA》，外界对《RDR》的评价可能会很不一样。",
+              "source_url": "https://www.ithome.com/0/955/572.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-26T14:50:13+08:00"
+              "published_at": "2026-05-26T18:42:16+08:00"
             },
             {
-              "title": "谷歌 Gemini 新配额规则引发不满：约 4 分钟耗尽 5 小时额度",
-              "brief": "谷歌调整 Gemini 使用规则后，用户对新配额机制的不满持续升温。与过去主要按每天提示词次数计量不同，新规则改按算力消耗核算，并把请求复杂度、调用功能和聊天历史长度纳入额度。有人在 Google AI Pro 会籍下仅用一条简单提示词生成视频，运行约 3 至 4 分钟就耗尽 5 小时配额且未成功生成，Gemini 负责人随后表示会调查。",
-              "source_url": "https://www.ithome.com/0/955/325.htm",
+              "title": "《平行人生》开启抢先体验：Steam国区首发122.4元，支持Mac",
+              "brief": "生活模拟游戏《平行人生》已开启抢先体验，Steam国区首发价为122.4元，并确认支持苹果Mac。该作采用Unity引擎，整体是接近《模拟人生》的美式卡通风格，同时在人物细节上加入一些写实处理。游戏支持Windows和macOS，玩家还可乘坐火车等交通工具，其中macOS版本至少需要配备M2芯片的设备。",
+              "source_url": "https://www.ithome.com/0/955/571.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-26T14:49:08+08:00"
+              "published_at": "2026-05-26T18:40:53+08:00"
             },
             {
-              "title": "刘作虎谈 OPPO Reno 16 系列：基本把能升级的都升了一遍",
-              "brief": "OPPO 首席产品官刘作虎在谈及 Reno 16 系列时表示，新机“基本把能升的都升了一遍”，升级内容多到“一页纸都写不下”。这一表态出现在新品发布后，核心是强调本代产品在外观、影像、实况照片、系统流畅度、性能释放和游戏体验等方面均有提升。他还称 Reno 16 Pro 首发 2 亿像素云台防抖，并加入芯片级直播能力优化，同时今年的升级也覆盖到生态新品。",
-              "source_url": "https://www.ithome.com/0/955/323.htm",
+              "title": "联想来酷 Air14 酷睿版上架：Core 5 315、12GB+512GB、1200P屏",
+              "brief": "联想来酷Air14酷睿版现已上架，主打英特尔Core 5 315、12GB内存和512GB SSD，并配备1200P屏幕。该机定位轻薄本，采用1.3mm键程键盘，处理器为6核心6线程，内存规格为LPDDR5 5600MT/s。续航标称约16.8小时办公时长，接口提供两个全功能USB-C、一个5Gbps USB-C以及3.5mm音频口。",
+              "source_url": "https://www.ithome.com/0/955/570.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-26T14:48:23+08:00"
+              "published_at": "2026-05-26T18:35:24+08:00"
             },
             {
-              "title": "乔思伯 D34 MATX 机箱开售：399 元起，支持背插主板和数码监控屏",
-              "brief": "乔思伯 D34 MATX 机箱现已开售，黑色版售价 399 元、白色版售价 459 元，产品配备可显示 CPU、GPU 温度等信息的硬件监控数码屏。该机箱主打展示效果与更简洁的内部走线体验，兼容 MATX 背插主板，并在正面和侧面采用大面积透板。规格上支持顶部 280 水冷或上下双 140 风扇，显卡限长 333mm，兼容 165mm 风冷散热器和不超过 18cm 的 ATX 电源。",
-              "source_url": "https://www.ithome.com/0/955/322.htm",
+              "title": "Bungie《失落星船：马拉松》《命运2》服务器宕机，官方调查中",
+              "brief": "Bungie旗下《失落星船：马拉松》和《命运2》服务器突然宕机，官方表示正在调查登录服务问题。由于《失落星船：马拉松》原定今天进行版本更新，因此本来就安排了停机，目前尚不清楚突发故障是否会影响既定计划。与此同时，《命运2》内容更新将在下个月结束；截至发稿，《命运》《命运2》和《失落星船：马拉松》仍未恢复服务。",
+              "source_url": "https://www.ithome.com/0/955/569.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-26T14:47:06+08:00"
+              "published_at": "2026-05-26T18:29:20+08:00"
             },
             {
-              "title": "Wi-Fi 8 生态加速推进：联发科、华硕产品在 COMPUTEX 获奖",
-              "brief": "随着 Wi-Fi 8 生态建设推进，联发科与华硕的相关产品在 COMPUTEX 获奖。报道聚焦新一代无线连接方案开始从芯片到路由器同步导入关键特性，以提升高密度连接环境下的效率与稳定性。联发科获奖方案强化 DSO、NPCA、ELR 和 Multi-AP Coordination 等技术，部分产品还在 5GHz 频段支持 320MHz 频宽；华硕的 ROG Rapture GT-BN98 Pro 也率先导入 Wi-Fi 8 与 Multi-AP 协作架构。",
-              "source_url": "https://www.ithome.com/0/955/321.htm",
+              "title": "乔思伯发布 ZE-120/240/360 联体风扇：部分可选正反叶，39元起",
+              "brief": "乔思伯推出ZE-120、ZE-240和ZE-360系列联体风扇，部分版本可选正叶或反叶，售价39元至119元。该系列面向机箱散热场景，单个风扇转速范围为700至1800±10% RPM，提供不同风量、风压和噪音表现。以参数展示来看，正叶与反叶版本在风量、风压及噪声数值上有所区别，用户可按装机需求选择。",
+              "source_url": "https://www.ithome.com/0/955/568.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-26T14:46:53+08:00"
+              "published_at": "2026-05-26T18:25:14+08:00"
             }
           ]
         },
@@ -419,39 +419,39 @@
           "name": "Solidot",
           "articles": [
             {
-              "title": "摩托罗拉手机被曝劫持亚马逊应用植入联盟营销码",
-              "brief": "有用户在社交媒体称，摩托罗拉手机预装应用 Smart Feed 更新后，会劫持亚马逊应用并植入联盟营销推广码以获取佣金。事件异常之处在于，推广码 sramz-kff-008-20 指向时尚博主 @kirasfashionfinds，而非 Smart Feed 本身，目前原因仍未查明；受影响用户可在设置中禁用 Smart Feed 规避。",
-              "source_url": "https://www.solidot.org/story?sid=84399",
+              "title": "英国皇家医学院学会称社交媒体危害堪比吸烟",
+              "brief": "英国皇家医学院学会在提交政府咨询意见时称，社交媒体对年轻人健康的威胁可与吸烟相提并论，并建议医生接诊年轻患者时例行询问屏幕时间和社媒使用情况。英国政府正考虑限制16岁以下儿童使用社媒，也讨论宵禁、关闭自动播放和无限滚动等措施。儿童精神科医生Emily Sehmer说，儿童几秒内就可能接触有害内容。",
+              "source_url": "https://www.solidot.org/story?sid=84405",
               "source_name": "Solidot",
-              "published_at": "2026-05-26T13:37:22+08:00"
+              "published_at": "2026-05-26T18:14:30+08:00"
             },
             {
-              "title": "欧洲执法部门入侵 VPN 服务识别勒索组织用户",
-              "brief": "欧洲刑警组织披露，执法部门已侵入被网络犯罪分子使用的“First VPN”，获取用户数据库并识别出数千名用户身份。该服务长期在俄语黑客论坛宣传“无日志”“拒绝配合司法”，吸引勒索团伙使用。调查称其自2014年运营，在27个国家和地区设有32个出口节点，至少25个勒索软件组织借其做侦察和入侵，警方还在乌克兰搜查管理员住所并拆除33台服务器。",
-              "source_url": "https://www.solidot.org/story?sid=84397",
+              "title": "JAXA等完成五马赫冲压发动机地面试验",
+              "brief": "JAXA、早稻田大学、东京大学和庆应义塾大学组成的团队完成了面向五马赫高超音速飞机的冲压发动机地面燃烧试验，验证了相关推进方案。冲压发动机依靠飞行前进压缩空气，需先加速到超音速才能工作。试验在角田宇宙中心风洞中模拟约25公里高空环境，并配合热防护系统将机内温度维持在设备可运行范围，后续计划进行探空火箭载飞。",
+              "source_url": "https://www.solidot.org/story?sid=84403",
               "source_name": "Solidot",
-              "published_at": "2026-05-26T00:30:21+08:00"
+              "published_at": "2026-05-26T16:32:21+08:00"
             },
             {
-              "title": "HBM 占 AI 芯片组件成本近三分之二",
-              "brief": "对英伟达、AMD、Google和亚马逊AI芯片的分析显示，HBM内存已占组件成本约63%，远高于逻辑芯片、先进封装和辅助组件。原因是AI算力需求推高HBM采购，而供应持续紧张、价格上涨又进一步放大其占比。四家公司HBM支出已从2024年的约120亿美元增至2025年的320亿美元，微软和Meta也都把组件涨价列为上调资本支出预期的重要原因。",
-              "source_url": "https://www.solidot.org/story?sid=84396",
+              "title": "BepiColombo将于11月21日进入水星轨道",
+              "brief": "日欧联合的水星探测任务BepiColombo在推进器故障后调整时间表，现定于11月21日进入水星轨道。该项目由ESA与JAXA合作开展，以数学家朱塞佩·科伦坡命名，2018年10月发射，原计划在六次飞掠后于2025年12月入轨。按最新安排，JAXA的水星磁层轨道器将于12月10日分离，这是人类第三次水星探测任务。",
+              "source_url": "https://www.solidot.org/story?sid=84402",
               "source_name": "Solidot",
-              "published_at": "2026-05-25T20:58:48+08:00"
+              "published_at": "2026-05-26T15:58:15+08:00"
             },
             {
-              "title": "惠普调查 BIOS 更新致笔记本故障",
-              "brief": "惠普表示，正调查部分高端笔记本在更新BIOS后出现无法启动、风扇噪音异常和蓝屏等问题。相关故障已持续数月并由用户在论坛集中反馈，说明问题与近期固件更新有关，而这类事件也并非惠普首次遭遇。已知受影响机型包括ZBook Ultra G1a和EliteBook X G1a，对应问题版本分别涉及01.04.03、01.04.05、01.03.11和01.05.00，惠普建议用户联系技术支持。",
-              "source_url": "https://www.solidot.org/story?sid=84395",
+              "title": "加州年龄验证法将豁免大多数Linux发行版",
+              "brief": "加州年龄验证法案AB-1856的修订版将大多数Linux发行版和自由开源软件排除在适用范围之外。该法原本要求操作系统提供商在设备设置时询问用户年龄，修订后把允许复制、再分发和修改的软件分发者排除在“操作系统提供商”定义之外，也缩小了“应用程序”范围。但Valve的SteamOS仍可能受影响，因为Steam客户端属于受监管的应用商店。",
+              "source_url": "https://www.solidot.org/story?sid=84401",
               "source_name": "Solidot",
-              "published_at": "2026-05-25T20:31:19+08:00"
+              "published_at": "2026-05-26T15:11:48+08:00"
             },
             {
-              "title": "俄罗斯推迟向移动 VPN 用户收费",
-              "brief": "俄罗斯政府已推迟对使用VPN的移动互联网用户加收费用的计划，原定自5月起对每月国际流量超过15GB的用户收费。该政策源于数字发展部今年3月提出的打击VPN使用措施，但运营商在识别VPN流量和计费上遇到困难。实施时间先被延至6月1日，报道还称若国际流量支付系统建设仍需三到四个月，收费计划可能再次推后到9月底选举之后。",
-              "source_url": "https://www.solidot.org/story?sid=84394",
+              "title": "研究显示2025年中亚冰川损失创纪录",
+              "brief": "一项新研究发现，2025年中亚冰川经历了创纪录的年度损失。中亚冰川是下游数百万人口的重要水源，冰川加速消融虽会短期增加融水，但最终会因冰量减少而削弱供水。研究基于天山和帕米尔高原16座冰川的实地观测与模型估算，认为一年损失约30立方千米冰量，约占区域总量近2%，其中9座创下最严重质量损失记录。",
+              "source_url": "https://www.solidot.org/story?sid=84400",
               "source_name": "Solidot",
-              "published_at": "2026-05-25T20:22:26+08:00"
+              "published_at": "2026-05-26T14:21:32+08:00"
             }
           ]
         },
@@ -492,39 +492,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "油价走高，韩国新能源车登记量增幅显著",
-              "brief": "36氪一则快讯称，在油价走高背景下，韩国新能源车登记量增幅显著。报道将这一变化与油价走高直接联系，指向韩国市场新能源车登记趋势出现变化；不过页面披露信息较少，未进一步给出具体增幅、车型构成、统计周期和对比基数，核心信息就是高油价背景下新能源车登记增长更快。",
-              "source_url": "https://36kr.com/newsflashes/3825764823208584?f=rss",
+              "title": "卢伟冰澄清：路测车辆并非YU9",
+              "brief": "卢伟冰在小米2026年第一季度业绩电话会上澄清，近期在道路上行驶并引发猜测的测试车并非YU9，并明确表示小米新车型肯定会在今年内上市。这番表态针对市场传言作出回应，时间点正值小米披露当季总营收991亿元、继续保持较大规模之后。他同时透露，新车会带来很多创新，整体竞争力会非常强。",
+              "source_url": "https://36kr.com/newsflashes/3825999514784649?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-26 14:49:13  +0800"
+              "published_at": "2026-05-26 18:47:58  +0800"
             },
             {
-              "title": "追觅创始人俞浩在深圳新设科技公司",
-              "brief": "工商信息显示，追觅创始人俞浩在深圳新设云海升腾科技（深圳）有限公司。该公司注册资本100万元，法定代表人为杜毅伟，经营范围涵盖软件开发、网络技术服务和互联网数据服务；股权结构上，公司由天空踏浪科技（北京）全资持有，而后者又由俞浩全资持股，披露重点集中在设立信息与控制关系。",
-              "source_url": "https://36kr.com/newsflashes/3825762357941123?f=rss",
+              "title": "卢伟冰：小米不会把内存涨价成本转嫁给消费者，AI是手机行业最大增量机会",
+              "brief": "卢伟冰在小米财报电话会上表示，面对存储涨价周期，小米不会简单把内存成本上涨转嫁给消费者，而会通过产品重新定位来应对。这一表态出现在手机行业整体承压的背景下，但小米称其手机业务仍展现出韧性。公司披露，全球市场份额已连续23个季度位居前三，手机及海外均价创新高，毛利率超预期，并计划在七八月发布新一代OS。",
+              "source_url": "https://36kr.com/newsflashes/3825998593757828?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-26 14:46:43  +0800"
+              "published_at": "2026-05-26 18:47:01  +0800"
             },
             {
-              "title": "沪深两市成交额突破3万亿元",
-              "brief": "36氪快讯称，沪深两市成交额已经突破3万亿元，意味着当日两市合计成交金额已越过这一整数关口。报道本身以简讯形式发布，未进一步拆分沪市和深市各自成交额，也没有说明突破发生的具体时点、主要驱动板块和资金流向；目前可确认的关键细节，就是两市合计成交额站上3万亿元。",
-              "source_url": "https://36kr.com/newsflashes/3825758823486344?f=rss",
+              "title": "盛视科技：全资子公司签署60亿元算力产业合作协议",
+              "brief": "盛视科技公告称，全资子公司深圳市盛视技术有限公司近日与某公司签署《算力产业合作协议》，对应业务体量折算合计约60亿元。这是公司布局算力服务业务的重要进展，旨在为相关业务增长提供支撑。根据公告，双方将围绕算电协同、AIDC智能算力中心运营、算力产业资源整合以及算力服务采购交付四个核心维度开展深度战略合作，协议有效期五年。",
+              "source_url": "https://36kr.com/newsflashes/3825985413305223?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-26 14:43:07  +0800"
+              "published_at": "2026-05-26 18:45:36  +0800"
             },
             {
-              "title": "美团跑腿发布 Skill 接入 AI Agent 生态，多步表单压缩为单轮对话",
-              "brief": "美团跑腿近日发布“跑腿Skill”，并将下单能力以封装形式向AI助手生态开放，多家AI助手已接入。背景是AI Agent生态快速兴起，用户发起同城服务需求的入口不再局限于美团App，也可能来自OpenClaw、Cursor、微信、飞书等；该能力可完成场景识别、地址匹配、价格预估和订单提交，把多步操作压缩为单轮对话。",
-              "source_url": "https://36kr.com/newsflashes/3825757712798345?f=rss",
+              "title": "特朗普政府加码量子计算，投资版图扩至半导体、钢铁、核能与稀土",
+              "brief": "特朗普政府继续扩大联邦投资版图，并于上周宣布向9家量子计算企业提供拨款，其中包括IBM旗下新成立的一家子公司，同时将换取这些公司的股权。此举意味着量子技术正式被纳入本届政府的投资组合。尽管量子技术的短期商业可行性仍存争议，但该领域持续受到投资者关注，政府现有投资布局还覆盖半导体、钢铁、核能和稀土矿产。",
+              "source_url": "https://36kr.com/newsflashes/3825980731069313?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-26 14:41:59  +0800"
+              "published_at": "2026-05-26 18:40:49  +0800"
             },
             {
-              "title": "三大指数尾盘回升",
-              "brief": "36氪快讯称，A股三大指数在尾盘回升，其中深证成指、创业板指双双翻红，沪指跌幅收窄。报道聚焦的是盘中走势修复这一变化，说明尾盘阶段主要指数表现出现改善；已披露的关键细节集中在指数层面，即深成指与创业板指由跌转涨，而沪指仍处下跌状态，但回撤幅度较此前明显缩小。",
-              "source_url": "https://36kr.com/newsflashes/3825757014217602?f=rss",
+              "title": "双星新材：MLCC产品营业收入占比未达1%",
+              "brief": "双星新材公告称，公司股票近期收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。针对市场关注，公司说明目前MLCC产品营业收入占整体营收比例未达1%，相关MLCC离型膜主要应用于消费电子和汽车电子领域，暂未用于AI算力服务器。公司表示这项业务短期内对业绩影响较小，并提醒投资者注意风险、理性决策、审慎投资。",
+              "source_url": "https://36kr.com/newsflashes/3825978197054344?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-26 14:41:17  +0800"
+              "published_at": "2026-05-26 18:33:17  +0800"
             }
           ]
         }
