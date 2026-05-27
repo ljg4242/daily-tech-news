@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T12:53:08.812126+08:00",
+  "generated_at": "2026-05-27T14:54:39.375212+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "更多全黑版 Apple Vision Pro 零件流出",
+              "brief": "网上又流出一批全黑配色的苹果Vision头显零件图，显示电源头带和音频模组与现款Apple Vision Pro几乎一致，只是换成了目前未上市的深色外观。爆料账号称其属于“即将推出”的第二代机型。此前也曾出现类似黑色部件泄露，而彭博社称苹果已暂停Vision头显开发、转而优先推进AI智能眼镜，但并未完全放弃Vision Pro，继任产品至少还要再等两年。",
+              "source_url": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-27T14:35:19+08:00"
+            },
             {
               "title": "苹果发布 AirTag 2 新固件",
               "brief": "苹果发布第二代 AirTag 的 3.0.49 固件，版本由 3.0.45 升级，这是该产品的第二次固件更新。苹果暂未说明具体内容，此类更新通常用于修复问题和进行底层改进，此前一次更新曾调整防跟踪提示音。新版本似乎正同时推送给所有 AirTag 2 用户，固件会经由连接的 iPhone 无线安装，用户只能在“查找”App 中查看版本并等待推送。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/26/apple-passeig-de-gracia-renovated/",
               "source_name": "MacRumors",
               "published_at": "2026-05-27T03:10:24+08:00"
-            },
-            {
-              "title": "6月3日完成跑步可获得 Apple Watch 活动奖章",
-              "brief": "苹果将于6月3日为全球跑步日推出 Apple Watch 活动挑战，用户当天记录至少5公里跑步训练即可获得奖励。该活动是苹果自2024年以来持续进行的年度安排，此前在2026年还推出过地球日和国际舞蹈日挑战。训练可通过“体能训练”或任何写入“健康”的应用记录，完成后会在“健身”中解锁专属奖章，并获得可在“信息”里使用的动态贴纸。",
-              "source_url": "https://www.macrumors.com/2026/05/26/apple-watch-activity-award-running-day/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-27T02:46:36+08:00"
             }
           ]
         },
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星旗舰手机下月或将进一步涨价",
+              "brief": "报道称，三星将从6月第一周起在希腊上调多款旗舰手机售价，涉及Galaxy S系列、Galaxy Z Fold 7、Galaxy Z Flip 7和Galaxy FE机型。这延续了消费电子行业因内存与存储成本上涨而承受的调价压力，且Galaxy S26系列此前已在当地部分市场涨价。按说法，这些新机至少贵100欧元，更大存储版本涨幅还会更高。",
+              "source_url": "https://www.androidauthority.com/samsung-price-increase-flagship-phones-june-3671415/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-27T14:27:45+08:00"
+            },
+            {
+              "title": "谷歌为搜索历史和个性化提供更多控制选项",
+              "brief": "谷歌将新增“搜索服务历史记录”和“个性化推荐”两项设置，让用户分别管理搜索历史保存与推荐内容展示，而不再完全依赖现有的“网络与应用活动”和“搜索个性化”设置。此次调整旨在提供更细的控制粒度，其中前者覆盖搜索、地图、购物和航班等服务；若开启“保存媒体”，还可保存Google Lens上传图片、Search Live音频等内容。",
+              "source_url": "https://www.androidauthority.com/google-search-services-history-personalized-recommendations-settings-3671419/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-27T14:12:58+08:00"
+            },
+            {
+              "title": "苹果或为 iPhone 加入防抢夺自动锁定功能",
+              "brief": "据报道，苹果正在开发一项功能，当iPhone在已解锁状态下被人从手中抢走时，设备可自动锁定，以弥补现有防盗保护难以及时阻止他人访问的缺口。其思路与Android的“盗窃检测锁”相似，预计会结合加速度计等多种信号判断手机是否被抢夺；一旦检测到相关动作，系统就会立即锁机。",
+              "source_url": "https://www.androidauthority.com/apple-iphone-anti-snatching-feature-theft-detection-lock-3671402/",
+              "source_name": "Android Authority",
+              "published_at": "2026-05-27T13:10:16+08:00"
+            },
+            {
               "title": "谷歌公布 Google Health 应用大量修复与新功能",
               "brief": "谷歌公布新版 Google Health 应用将在未来数周至夏季持续推出大批修复与新功能，覆盖运动追踪、睡眠、营养、健身计划和 AI Coach。背景是该应用已在 Android 和 iOS 广泛上线，Google Health Coach 也已结束预览。已确认改进包括修正跑步被误标为普通锻炼、加入分段数据、优化地图加载，并将支持结构化训练日程、仪表盘自定义、Apple Health 共享和儿童账号迁移。",
               "source_url": "https://www.androidauthority.com/google-health-app-fixes-new-features-3671399/",
@@ -181,33 +202,19 @@
               "source_url": "https://www.androidauthority.com/galaxy-watch-motorcycle-gps-3671274/",
               "source_name": "Android Authority",
               "published_at": "2026-05-27T06:00:20+08:00"
-            },
-            {
-              "title": "NotebookLM 让来源保持最新变得更容易",
-              "brief": "Google 正在为 NotebookLM 推出与 Google Drive 的自动同步功能，Drive 中文件新增、修改或删除后，NotebookLM 中对应信息会自动更新。此前用户若想让摘要、解释和回答基于最新材料，往往需要手动重新同步，使用上存在明显摩擦。新功能会严格遵守文件删除与权限变更规则，例如失去 Docs、Sheets 或 Slides 访问权限后，将不能继续把该文件作为来源，但来源列表仍会保留链接以便申请访问；更新已开始逐步向 Workspace 和个人 Google 账号用户推送。",
-              "source_url": "https://www.androidauthority.com/notebooklm-auto-google-drive-syncing-3671289/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-27T05:10:55+08:00"
-            },
-            {
-              "title": "优惠：爱普生高端4K投影仪降价400美元",
-              "brief": "爱普生 Lifestudio Grand 超短焦激光投影仪目前售价 2299.99 美元，较零售价便宜 400 美元。此次促销瞄准想把客厅变成家庭影院的用户，产品可在离墙几英寸处投出 120 英寸画面，也适合小房间使用。它提供 4K PRO-UHD、HDR10、3600 流明亮度，内置 2.1 声道 Bose 音响和 Google TV，并比近 90 天均价再低 159.66 美元。",
-              "source_url": "https://www.androidauthority.com/epson-lifestudio-grand-ultra-short-throw-laser-projector-deal-3671278/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-27T04:12:18+08:00"
-            },
-            {
-              "title": "提醒：别以为 Fitbit Air 能和 Charge 或 Versa 一起用",
-              "brief": "谷歌新推出的无屏轻量健康追踪配件 Fitbit Air，虽然可以与 Pixel Watch 同时连接使用，但不能像部分用户期待的那样与其他 Fitbit 设备并行工作。这一点之所以重要，是因为常见伴侣应用通常只支持单设备连接。谷歌确认，Air 可与已连接 Pixel Watch 的 Google Health 应用共存，但若搭配其他 Fitbit 追踪器，就必须二选一保留连接。",
-              "source_url": "https://www.androidauthority.com/fitbit-air-wont-work-with-other-fitbits-3671240/",
-              "source_name": "Android Authority",
-              "published_at": "2026-05-27T04:11:02+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星工会表决通过协议，芯片员工今年最高可获40万美元奖金",
+              "brief": "三星两大工会已表决通过薪资协议，芯片部门员工今年最高可获约40万美元奖金。该争议一度逼近罢工，因奖金分配与公司高额利润预期引发谈判僵局。韩联社称62,616名成员中73.7%赞成，预计覆盖约2.8万名芯片员工，奖金将以公司股票形式分10年以上发放，并与存储业务未来利润目标挂钩。",
+              "source_url": "https://www.engadget.com/2181821/samsung-union-bonuses-vote-result/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-27T13:39:27+08:00"
+            },
             {
               "title": "索尼突然关闭多人游戏《Destruction AllStars》",
               "brief": "索尼确认，PS5多人在线游戏《Destruction AllStars》已停止销售，服务器也因持续技术问题关闭。该作是2021年2月随PS Plus推出的早期PS5作品，主打类似《烈火战车》的车辆竞技对战，但上线一年后更新趋于沉寂。此次停运前几乎没有预告，消息先由玩家收到的PlayStation通知传出；已购用户仅能游玩单人内容至11月25日，之后游戏将完全结束。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.engadget.com/2180910/fitbit-air-review-google-health-ai-coach-testing/",
               "source_name": "Engadget",
               "published_at": "2026-05-26T21:00:00+08:00"
-            },
-            {
-              "title": "人工蛋壳孵出雏鸡、研究地球磁层的新任务及更多科学动态",
-              "brief": "本周科学要闻汇总聚焦几项新进展：Colossal Biosciences宣布用3D打印人工蛋壳孵化出26只健康雏鸡，称这为复活南岛巨恐鸟和渡渡鸟计划推进了一步，这种蛋壳由可透氧的硅基膜格与支撑杯组成；与此同时，SMILE航天器启程研究地球磁层，一项新研究则对木卫二水蒸气羽流的存在提出质疑，SpaceX的Starship V3也首次升空。",
-              "source_url": "https://www.engadget.com/2180073/chicks-hatched-from-artificial-eggshells-smile-mission-to-study-earth-magnetosphere-spacex-starship-launch-europa-water-plumes/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-24T00:30:00+08:00"
             }
           ]
         },
@@ -334,6 +334,20 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "维基媒体基金会解雇工会组织者引发社区抗议",
+              "brief": "维基媒体基金会在5月中旬解雇MediaWiki资深首席开发者Brooke Vibber，并于5月21日解散Community Tech团队，五名工程师和一名经理全部离职。事件之所以引发社区抗议，是因被裁者多数参与工会组织，而该团队长期负责通过Community Wishlist落实志愿者需求。志愿者正准备以罢工等集体行动声援，工会提出的诉求主要是提高透明度、听取员工意见并减少管理反复。",
+              "source_url": "https://www.solidot.org/story?sid=84410",
+              "source_name": "Solidot",
+              "published_at": "2026-05-27T14:12:32+08:00"
+            },
+            {
+              "title": "伊朗逐步恢复全球互联网连接",
+              "brief": "伊朗在切断网络近三个月后开始逐步恢复全球联网，第一副总统Mohammad Reza Aref周二通过X宣布了这一消息。此事受到关注，是因为这次自2月28日开始的断网被认为是全球持续时间最长的断网事件之一。Netblocks与Kentik称网络自13:00 GMT起逐步恢复，但大部分连接仍未恢复，同时过滤似乎比以往更严格，WhatsApp等消息应用还被额外过滤。",
+              "source_url": "https://www.solidot.org/story?sid=84409",
+              "source_name": "Solidot",
+              "published_at": "2026-05-27T11:32:23+08:00"
+            },
+            {
               "title": "美国14州实施堕胎禁令后妊娠相关死亡增加9.2%",
               "brief": "发表于《美国公共卫生杂志》的一项研究显示，在14个严格禁止堕胎、包括禁止妊娠约6周后堕胎的州，妊娠相关死亡比预期高9.2%。这项研究评估的是严格堕胎禁令对孕妇健康的影响；背景是得州2021年立法收紧堕胎、美国最高法院2022年推翻Roe v. Wade后，多州进一步限制堕胎。",
               "source_url": "https://www.solidot.org/story?sid=84408",
@@ -386,39 +400,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "超薄透明太阳能电池有望让玻璃窗兼作发电设备",
-              "brief": "南洋理工大学团队研制出近乎隐形的超薄钙钛矿透明太阳能电池，目标是把建筑玻璃直接变成发电表面，以缓解屋顶光伏受面积、重量和采光限制的问题。器件采用真空热蒸镀制备，60纳米半透明版本效率为7.6%，可见光透过率约41%，但长期稳定性和大面积量产仍待验证。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1563718.htm",
+              "title": "黑色版 Apple Vision Pro 零部件再曝光，被指属于第二代",
+              "brief": "苹果头显黑色零部件再次流出，被认为属于第二代 Vision Pro。此前也曾出现类似图片，外界一度将其与更轻更薄、采用钛金属结构的“Vision Air”测试机联系起来。虽然曾有报道称苹果暂停 Vision 系列开发、转向 AI 眼镜，但 Mark Gurman 近日否认公司完全退出该业务，并称若等继任者至少还需两年，苹果目前也未就这批部件作出回应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563768.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-27T03:45:03+08:00"
+              "published_at": "2026-05-27T14:51:59+08:00"
             },
             {
-              "title": "美光在美国导入最先进DRAM工艺 1α节点主要供汽车和国防",
-              "brief": "美光首次在美国本土大规模导入1α DRAM制造节点，地点位于弗吉尼亚州马纳萨斯工厂，被视为提升美国汽车与关键行业供应链安全的重要一步。此次扩产主要面向汽车、国防航天、工业、网络和医疗设备客户，不针对PC市场。公司预计到2026年底实现合格量产，使该厂DDR4晶圆产能提升四倍，并完成约20亿美元投资。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563716.htm",
+              "title": "OpenAI 广告业务转向：取消 20 万美元门槛，全面拥抱中小商家",
+              "brief": "OpenAI 已取消广告投放此前面向中小客户设置的20万美元最低预付门槛，开始全面向自助广告主开放。此举意味着其广告业务从早期主要服务大品牌的路线，转向更接近 Meta 和 Google 的标准化规模模式。本周平台还开始测试“转化类广告”，引导用户下单、预约或提交表单，不再只按展示计费。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563766.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-27T02:01:10+08:00"
+              "published_at": "2026-05-27T14:47:36+08:00"
             },
             {
-              "title": "英伟达正式退役用了20年的GeForce控制面板",
-              "brief": "英伟达宣布沿用20年的经典GeForce控制面板正式退役，面向GeForce用户且仍在维护的相关功能已全部迁移至新的NVIDIA应用。RTX PRO用户暂时仍可继续使用控制面板，直到专业功能完成迁移。现有电脑上的旧版程序不会立刻消失，但今后只会在微软商店提供下载，不再获得新功能或错误修复，并同步配发610.47版Game Ready驱动。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563714.htm",
+              "title": "三星达成人工智能利润分成协议，员工人均将获 40 万美元奖金",
+              "brief": "三星与员工达成人工智能相关利润分成协议，半导体员工将分享营业利润的10.5%，总规模按预测可超过34万亿韩元。背景是 AI 设备带动高带宽存储芯片需求激增，同行 SK 海力士此前也推出类似方案。按分配规则，约四成奖金平均发放，存储芯片部门人均最高约6亿韩元，亏损的代工和逻辑部门较低。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563764.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-27T01:58:55+08:00"
+              "published_at": "2026-05-27T14:46:19+08:00"
             },
             {
-              "title": "消息称星链和亚马逊或参与欧盟移动卫星频谱计划",
-              "brief": "知情人士称，欧盟拟允许SpaceX星链和亚马逊参与移动卫星频谱计划，同时也会把部分频谱分配给欧洲IRIS2多轨道卫星项目相关企业，英国和挪威公司同样可能竞标。该提案预计周三公布，但细节仍可能调整。围绕是否将频谱完全保留给欧洲企业，欧盟内部仍有分歧，而委员会强调卫星连接关系到技术主权、安全和防务能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563712.htm",
+              "title": "特朗普政府拟向核能初创企业提供钚燃料，开发新一代反应堆",
+              "brief": "特朗普政府计划把列入处置范围的34吨钚提供给多家核能初创企业，用于开发新一代反应堆燃料方案。此举意在推动先进核能项目，也与美国长期难以处置武器级钚库存有关。入选公司包括 Oklo、Flibe Energy 等，下一步将围绕运输安保和核材料安全展开谈判，但该计划已引发扩散与安全风险争议。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563762.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-27T00:26:14+08:00"
+              "published_at": "2026-05-27T14:09:22+08:00"
             },
             {
-              "title": "美国航空选择星链为500多架飞机提供机上网络",
-              "brief": "美国航空已选定星链为500多架空客窄体客机提供机上无线网络，安装将从明年初开始，覆盖A321neo等机型。公司表示暂不更换波音机队现有网络服务商，后者目前由维萨特和松下提供服务。航空公司正借更快、更便宜的联网体验争夺高消费旅客，并探索个性化广告等新增收渠道，美国航空今年1月也已向常旅客会员推出免费机上Wi-Fi。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563710.htm",
+              "title": "DuckDuckGo 安装量飙升 30%，用户拒绝被“强喂”Google AI 搜索",
+              "brief": "DuckDuckGo 表示，美国用户对 Google 强推 AI 搜索的不满带动其安装量上升，5月20日至25日较前一周同期平均增长18.1%，5月25日峰值达30.5%。背景是 Google 正把传统搜索升级为 AI 主导体验，相关结果准确性和对开放网络流量的影响遭到批评。同期 DuckDuckGo 的无 AI 搜索页面访问量也明显增加。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1563760.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-27T00:25:01+08:00"
+              "published_at": "2026-05-27T14:08:15+08:00"
             }
           ]
         },
@@ -426,39 +440,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "鹏鼎控股：不涉及半导体和芯片业务",
-              "brief": "鹏鼎控股在互动平台表示，公司主营各类印制电路板的研发、设计、制造、销售与服务，业务范围不涉及半导体和芯片。该回应用于明确公司当前的主营方向和业务边界。其列举的主要产品包括FPC、SMA、SLP、HDI、RPCB、Rigid Flex等，均为印制电路板相关产品。",
-              "source_url": "https://36kr.com/newsflashes/3827054810124936?f=rss",
+              "title": "恒生科技指数跌幅扩大至1%",
+              "brief": "5月27日14时50分左右，恒生科技指数盘中跌幅扩大至1%，同一时点恒生指数下跌1.15%。这是一则当日市场实时行情更新，显示香港科技板块与大盘同步走弱、短线承压。稿件没有提供具体领跌个股、成交额或触发因素，也未说明板块内部涨跌分化情况，已披露的关键细节主要是恒生科技指数跌至1%，恒生指数现跌1.15%。",
+              "source_url": "https://36kr.com/newsflashes/3827181433295490?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-27 12:41:28  +0800"
+              "published_at": "2026-05-27 14:50:16  +0800"
             },
             {
-              "title": "微信小游戏月活跃用户突破5亿",
-              "brief": "微信披露最新平台数据称，微信小游戏月活跃用户已超过5亿，平均用户时长超过60分钟，用户主动社交互动超过1亿次。数据显示，该平台在用户规模与使用活跃度上继续增长。与此同时，超过50%的活跃用户会主动访问小游戏，开发者规模超过50万，其中八成以上是不足30人的中小团队，过去一年DAU超百万的产品超过80款，季度流水超千万的产品超过300款。",
-              "source_url": "https://36kr.com/newsflashes/3827051893740168?f=rss",
+              "title": "毕马威赴硅谷寻找人工智能创新企业",
+              "brief": "毕马威美国区高管团队正走访硅谷，寻找人工智能初创企业展开合作，并考虑收购其股权，以便在这些公司发展壮大、可能威胁自身业务前提前布局。这一动作与四大会计师事务所的转型背景一致，即一边组织员工学习和应用新技术、搭建智能代理承接部分服务，一边向客户推广人工智能落地价值。关键细节是相关表态来自毕马威美国首席执行官蒂姆·沃尔什。",
+              "source_url": "https://36kr.com/newsflashes/3827177894417281?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-27 12:38:30  +0800"
+              "published_at": "2026-05-27 14:46:40  +0800"
             },
             {
-              "title": "半日主力资金加仓电子股、抛售有色金属股",
-              "brief": "截至午间，主力资金净流入电子、电力设备、公用事业和通信板块，净流出有色金属、基础化工、非银金融和计算机板块。板块流向反映早盘资金配置出现分化。个股方面，华天科技、天孚通信、天通股份分别获净流入40.12亿元、19亿元和18.4亿元；三花智控、海光信息、寒武纪分别遭净流出15.99亿元、13.64亿元和13.58亿元。",
-              "source_url": "https://36kr.com/newsflashes/3827050186331017?f=rss",
+              "title": "沪深两市成交额连续第3个交易日突破3万亿元",
+              "brief": "5月27日，沪深两市成交额连续第3个交易日突破3万亿元，显示A股市场交投继续维持高位活跃。这则快讯主要反映当日盘中成交强度，并强调高成交额并非单日现象，而是已连续三个交易日保持在3万亿元以上。稿件没有进一步给出上证、深证或行业板块的具体分布、增量来源和收盘结果，已知关键细节集中在连续第3个交易日突破3万亿元这一核心数据。",
+              "source_url": "https://36kr.com/newsflashes/3827173711237765?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-27 12:36:46  +0800"
+              "published_at": "2026-05-27 14:42:25  +0800"
             },
             {
-              "title": "咪咕成为2026年美加墨世界杯持权转播商",
-              "brief": "咪咕今日正式宣布，已成为2026年美加墨世界杯官方持权转播商，获得该届赛事的持权转播资格。这意味着中国移动旗下平台将承担本届世界杯的内容分发。按照公布安排，用户届时可通过咪咕视频、移动高清和咪视界等平台观看2026年美加墨世界杯全量直播及点播内容。",
-              "source_url": "https://36kr.com/newsflashes/3827041446515590?f=rss",
+              "title": "鸿蒙智行累计交付139万辆车",
+              "brief": "在一场鸿蒙智行发布会上，华为终端BG董事长余承东表示，鸿蒙智行累计交付已达139万辆，2026年累计交付19万辆，同比增长27%。这组数据用于说明鸿蒙智行当前的整体交付规模以及年内增长表现，相关信息由发布会现场披露。稿件没有展开车型结构、交付时间区间或更细分的品牌数据，关键细节集中在累计交付139万辆、2026年累计交付19万辆和同比增长27%三项数字。",
+              "source_url": "https://36kr.com/newsflashes/3827170589381511?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-27 12:27:52  +0800"
+              "published_at": "2026-05-27 14:39:14  +0800"
             },
             {
-              "title": "欧洲4月新车注册量增长7%，达115万辆",
-              "brief": "欧洲汽车制造商协会数据显示，欧洲4月新车注册量同比增长7%，达到115万辆。增长主要来自德国、英国等主要市场销量上升，显示区域车市继续回暖。与此同时，电动汽车交付量大增38%，成为本轮增长中的突出部分，反映欧洲新车市场在整体扩张的同时，电动化车型的增长速度更快。",
-              "source_url": "https://36kr.com/newsflashes/3827039442653833?f=rss",
+              "title": "深科技回应股价“抢跑”质疑：扩产计划早已存在",
+              "brief": "深科技回应股价“抢跑”质疑称，公司扩产计划并非临时释放的利好消息，而是已对外沟通三四个月。争议起因是其公告子公司拟投资14.7亿元扩充高端存储芯片封测产能，而公告前一日尾盘股价异动引发了“消息泄露”猜测。公司进一步表示，5月26日存储板块整体上涨，自身涨幅并不突出；报道同时提到，在行业景气背景下，扩产仍可能带来产能过剩和资金压力。",
+              "source_url": "https://36kr.com/newsflashes/3827167196828547?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-27 12:25:50  +0800"
+              "published_at": "2026-05-27 14:35:47  +0800"
             }
           ]
         },
@@ -466,45 +480,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "魅族称手机服务持续保障：售后、维修和安全更新照常",
-              "brief": "魅族科技发文表示，手机相关业务和服务目前不受影响，官方售后、维修以及系统安全更新都会持续保障。此举主要回应外界对魅族后续运营和老用户权益的关注，强调现有服务体系仍按原计划运行。公司称魅族手机、AI眼镜、PANDAER 等产品将正常销售，在营门店的服务和权益不变，Flyme 与售后团队会继续为现有用户提供支持。",
-              "source_url": "https://www.ithome.com/0/955/845.htm",
+              "title": "特斯拉获车载摄像头清洁系统专利",
+              "brief": "特斯拉获得一项车载摄像头清洁系统新专利，方案针对自动驾驶对摄像头持续清洁的需求而设计，比现有单纯高压喷水方案更进一步。其核心是在镜头外壳内集成储液罐、喷射机构和小型刮片，喷液后刮片贴合镜头曲面旋转清洁，并可使用清水、醇类溶液、玻璃水等介质，且整体体积适合安装在翼子板、B柱等狭小位置。",
+              "source_url": "https://www.ithome.com/0/955/937.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-27T12:50:26+08:00"
+              "published_at": "2026-05-27T14:51:12+08:00"
             },
             {
-              "title": "高考期间 AI 工具会否停用，豆包、元宝、文心、讯飞回应",
-              "brief": "高考期间，国内多家 AI 工具是否限制答题功能引发关注，字节豆包、腾讯元宝、百度文心和科大讯飞分别作出回应。背景是近年为维护考试公平，多款大模型会在高考时段收紧图片识别或答题能力。豆包称拍题答疑每年高考都会禁用，元宝表示去年已暂停涉高考答题请求，百度称暂未接到限制通知，讯飞则称暂时没有确切消息。",
-              "source_url": "https://www.ithome.com/0/955/844.htm",
+              "title": "精英电脑将在 COMPUTEX 展出多款迷你主机",
+              "brief": "精英电脑宣布将在 COMPUTEX 展出多款迷你主机，重点之一是基于“WCL”平台的 LIVA Z15 PLUS，面向高性能商用、AI 就绪和边缘应用部署场景。该机前置提供 4A1C USB 接口；同时亮相的还有主打低功耗与嵌入式应用的 LIVA Z4F 和 LIVA Q4，其中 Z4F 采用无风扇设计，Q4 则兼具超小机身与 45W USB Type-C 供电能力。",
+              "source_url": "https://www.ithome.com/0/955/931.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-27T12:47:58+08:00"
+              "published_at": "2026-05-27T14:46:50+08:00"
             },
             {
-              "title": "奥之心 OM-3 ASTRO 天文相机国行发布：14999 元",
-              "brief": "奥之心宣布天文摄影专用相机 OM-3 ASTRO 在国内上市，国行售价 14999 元。该机是在 OM-3 基础上面向星空和天文拍摄做专项优化，因此重点调整了红外截止滤镜与机内拍摄功能。官方称其 H-α 射线透光率最高可达 100%，支持机内堆栈高分辨率、星空自动对焦、实时合成和专用自定义模式，并配备 2000 万像素 M43 传感器、五轴防抖和 IP53 级防护。",
-              "source_url": "https://www.ithome.com/0/955/843.htm",
+              "title": "问界 M5 累计交付超 15 万辆",
+              "brief": "鸿蒙智行方面披露，问界 M5 累计交付量已超过 15 万辆，余承东同时表示该车将在明年秋季迎来换代。问界 M5 被称为“梦开始的地方”，此次数据也一并展示了问界品牌其他车型进展：M6 上市一个月交付 2 万辆，M7 累计交付 45 万辆，M8 累计交付 18 万辆，M9 累计交付 28.5 万辆。",
+              "source_url": "https://www.ithome.com/0/955/924.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-27T12:45:17+08:00"
+              "published_at": "2026-05-27T14:44:31+08:00"
             },
             {
-              "title": "腾讯自研沧海芯片获硬件视频编码赛冠军，V2 即将量产",
-              "brief": "腾讯披露，自研“沧海芯片”在莫斯科国立大学硬件视频编码比赛中获得冠军，新一代 V2 已点亮并进入量产周期。该赛事关注在相同画质下提升压缩效率，关系到视频业务的带宽、存储和时延成本。腾讯称沧海方案依靠全链路软硬件协同优化码率控制与编码模式，V1 已在腾讯云等场景部署超 10 万片，V2 将支持 H.265 和 H.266，计划于 2026 年下半年全面提供服务。",
-              "source_url": "https://www.ithome.com/0/955/841.htm",
+              "title": "微星 PRO MAX 271UPXW12G 显示器上架",
+              "brief": "微星上架 PRO MAX 271UPXW12G 显示器，定价 4999 元，定位为一款 27 英寸 4K 120Hz QD-OLED 产品。其面板响应时间 0.03ms，动态对比度 150 万比 1，支持 10-Bit 色彩、99% DCI-P3、HDR 峰值 1000 尼特；同时配备双扬声器、环境光与人体检测传感器，并提供 DP 1.4a、双 HDMI 2.1、双 USB-C 和 4 个 USB-A 等接口。",
+              "source_url": "https://www.ithome.com/0/955/917.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-27T12:41:31+08:00"
+              "published_at": "2026-05-27T14:42:06+08:00"
             },
             {
-              "title": "《斯坦·李：最后一章》确认发行方，6 月 27 日电影节放映",
-              "brief": "纪录片《斯坦·李：最后一章》已确认发行方，并将于 6 月 27 日在洛杉矶 Dances with Film 电影节放映。影片由斯坦·李前助理 Jon Bolerjack 执导剪辑，建立在其生前最后几年拍摄的大量素材之上，因此外界持续关注其内容走向。报道称作品聚焦斯坦·李晚年动荡生活与承受的身心压力，导演曾为完成后期发起众筹，累计筹得近 8.5 万美元。",
-              "source_url": "https://www.ithome.com/0/955/840.htm",
+              "title": "集邦咨询：2026 年 Q1 全球新能源汽车销量同比降 2%",
+              "brief": "集邦咨询称，2026 年第一季度全球新能源汽车销量同比下降 2%，其中特斯拉重新成为纯电动车销量冠军，插电混动车市场仍由中国品牌主导。报告指出，市场在价格压力和原物料结构性上涨下承压，车用存储器也成为智能化升级中的新成本焦点；全年全球新能源车销量仍预计达 2335 万辆，同比增长 14%。",
+              "source_url": "https://www.ithome.com/0/955/914.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-27T12:36:57+08:00"
+              "published_at": "2026-05-27T14:39:46+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "惠普承认BIOS更新致设备反复进入BitLocker锁定界面，已提供修复方案",
+              "brief": "惠普确认，部分商用笔记本、台式机和工作站安装4月初发布的BIOS更新后，会在每次重启时反复进入BitLocker恢复界面。问题与微软UEFI CA 2023证书未能正确应用有关，影响Windows 11 23H2、24H2和25H2设备；管理员可检查相关注册表状态，并在BIOS安全启动配置中勾选四项UEFI 2023证书选项后保存重启完成修复。",
+              "source_url": "https://www.landian.news/archives/113113.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-27T13:53:41+08:00"
+            },
+            {
+              "title": "欧盟或因谷歌搜索偏袒自家服务对其开出创纪录罚单",
+              "brief": "据德国《商报》披露，欧盟可能对谷歌开出创纪录罚款，理由是谷歌搜索在结果中偏袒自家服务，涉嫌违反数字市场法案。欧盟此前已就此展开调查并在2025年提起反垄断诉讼，目前谷歌提交的整改方案仍未满足监管要求；是否正式处罚及金额，仍待欧委会主席冯德莱恩拍板，决定或于夏末公布。",
+              "source_url": "https://www.landian.news/archives/113112.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-27T13:26:24+08:00"
+            },
+            {
+              "title": "Firefox 151.0.2发布，修复搜狗输入法导致的浏览器崩溃",
+              "brief": "Mozilla发布Firefox 151.0.2错误修复版，解决Windows版在配合搜狗输入法输入内容时出现的崩溃问题，使用该组合的用户建议尽快更新。此次更新还修复了macOS证书自动加载、分屏视图异常关闭、磁盘满后缓存行为异常，以及部分网站渲染、输入交互、排序和下拉菜单无法正常工作的多个已知问题。",
+              "source_url": "https://www.landian.news/archives/113111.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-05-27T13:03:13+08:00"
+            },
             {
               "title": "AlmaLinux 10.2 发布：支持从 Btrfs 启动并完善 i686 架构",
               "brief": "AlmaLinux 发布 10.2 正式版，新增从 Btrfs 文件系统启动的能力，并将 i686 架构支持完善为稳定状态。作为 RHEL 的免费替代方案，系统自 10.1 起已可使用 Btrfs，如今进一步补上启动环节；新版本还加入 x86-64-v2 选项、重新启用帧指针和原生 SPICE 客户端支持，社区称 i686 将维护到 2035 年。",
@@ -518,13 +553,6 @@
               "source_url": "https://www.landian.news/archives/113109.html",
               "source_name": "蓝点网",
               "published_at": "2026-05-27T12:21:53+08:00"
-            },
-            {
-              "title": "微软发布 Windows 11 5 月 C 更新，加入共享音频和摄像头视频流",
-              "brief": "微软发布 Windows 11 5 月 C 预览更新 KB5089573，为 24H2 和 25H2 提前测试下月稳定版内容。更新新增共享音频和共享摄像头视频流，可同时向两副蓝牙耳机输出并允许多个应用读取同一摄像头；同时改进 USB3、USB4 与外接显示器可靠性，提升开始菜单、搜索、操作中心和微软商店的性能。",
-              "source_url": "https://www.landian.news/archives/113108.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-05-27T12:03:19+08:00"
             }
           ]
         }
