@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T00:57:59.651731+08:00",
+  "generated_at": "2026-05-29T02:55:58.420235+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Anthropic 推出 Claude Opus 4.8，编程与诚实度提升",
+              "brief": "Anthropic 发布新模型 Claude Opus 4.8，称其在代理式编程、多学科推理、计算机操作、知识工作和金融分析上都有提升，并更适合充当协作伙伴。该版本重点强调可靠性与诚实度，早期测试者称它更常主动标注不确定性、减少无依据断言；官方还称其在 SWE-Bench Pro 上得分 69.2%，并新增可规划大型任务的动态工作流、响应 effort control，同时更快且更便宜。",
+              "source_url": "https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-29T02:29:00+08:00"
+            },
+            {
+              "title": "苹果发布 iOS 26.6、macOS Tahoe 26.6 等首个公测版",
+              "brief": "苹果向公开测试用户推送 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6、watchOS 26.6 和 tvOS 26.6 的首个公测版，距离开发者测试版发布仅两天。现阶段已发现的新内容不多，iOS 26.6 仅新增联系人屏蔽过多时的提醒功能，且触发门槛高达数千人，多数用户可能不会遇到；其余更新暂未见重要新功能，苹果预计主要在完善漏洞修复与安全改进。",
+              "source_url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-29T01:46:02+08:00"
+            },
+            {
+              "title": "学生先别买：苹果返校季促销即将到来",
+              "brief": "据 MacRumors 看到的苹果后台代码，苹果已开始为美国和加拿大年度返校季促销做准备，购买 Mac 或 iPad 的学生、教师及家长通常可在教育优惠外再获赠配件或礼品卡。活动一般从 6 月中旬开始并持续到 9 月底，去年最高赠品价值达 199 美元；文章回顾近年多在 WWDC 后 8 到 10 天开启，因此建议有购买计划者暂缓下单。",
+              "source_url": "https://www.macrumors.com/2026/05/28/apple-back-to-school-sale-2026-coming/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-29T01:38:59+08:00"
+            },
             {
               "title": "Rivian解释为何CarPlay之争将“彻底过时”",
               "brief": "Rivian软件负责人在《Decoder》播客中解释，公司仍拒绝支持Apple CarPlay，因为这类屏幕镜像方案会接管车内每个像素，不符合其端到端整合的软件体验。其判断是，随着车内深度AI集成增强，用户未来可通过智能代理直接调用多类应用的核心功能，而不必过度依赖CarPlay或Android Auto；不过他也承认这一替代方案仍需时间成熟，且内部数据显示用户对CarPlay的需求已从约70%降至不足25%。",
@@ -28,38 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "《诊疗中》第四季加入新演员凯伦·吉兰",
-              "brief": "Apple宣布《诊疗中》第四季将加入凯伦·吉兰，为这部喜剧扩充新一季演员阵容。该剧第四季已在推进中，预计于2027年上半年至年中开播；此前联合主创比尔·劳伦斯表示，第三季后的完整主演班底都会回归，包括哈里森·福特。Variety称吉兰饰演角色细节暂未公开，新季将以时间跳跃开场，并被视作新三年故事线的一部分。",
-              "source_url": "https://9to5mac.com/2026/05/28/shrinking-season-4-adds-new-cast-member-karen-gillan/",
+              "title": "泄露文件称 Disney+ 整合完成后 Hulu 应用将关闭",
+              "brief": "一份泄露的迪士尼内部流媒体文件显示，Hulu在用户完成向Disney+迁移后将被停用。迪士尼正推进代号“Project Gemini”的整合计划，目标是在今年年底前把Hulu内容和功能并入Disney+。文件称待全部用户转移后，Hulu技术栈和应用将退役，官方目前仍称暂无关闭计划，多名员工还表示该应用已基本停止重大新功能开发。",
+              "source_url": "https://9to5mac.com/2026/05/28/hulu-app-will-be-shut-down-after-disney-transition-per-leaked-file/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-29T00:22:11+08:00"
+              "published_at": "2026-05-29T02:37:48+08:00"
             },
             {
-              "title": "优惠汇总：M5 MacBook Air最高降270美元，MacBook Neo与AirPods同步促销",
-              "brief": "9to5Mac汇总了最新苹果相关促销，其中15英寸午夜色M5 MacBook Air在B&H最高直降270美元，部分配置还附带苹果官方充电器升级。与此同时，Amazon继续下调基础款MacBook Neo价格至590美元起，并提供最快次日送达；AirPods 4维持接近七五折，AirPods Max 2也回到Amazon历史低价，iPhone Air MagSafe电池则再现六折优惠。",
-              "source_url": "https://9to5mac.com/2026/05/28/deals-macbook-air-macbook-neo-airpods-airpods-max-2/",
+              "title": "苹果发布 macOS 26.6 首个公开测试版",
+              "brief": "苹果已向公测用户推送macOS 26.6 public beta 1。按照目前信息，这一轮更新主要是为正式版做收尾，公开说明里几乎没有新增功能。发布说明仅提到修复一项问题：系统可能会把部分应用错误标记为仅支持Intel。此次公测版编译号为25G5028f，与昨日开发者测试版一致，正式版预计将在WWDC后推出。",
+              "source_url": "https://9to5mac.com/2026/05/28/apple-rolls-out-macos-26-6-public-beta-1/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-28T23:31:03+08:00"
+              "published_at": "2026-05-29T01:41:51+08:00"
             },
             {
-              "title": "Spotify发布四项音乐新功能，包括iOS后台下载",
-              "brief": "Spotify发布四项围绕音乐体验的新功能，其中包括iOS版后台下载，以提升离线收听的可靠性。此次更新还首次把桌面端已有的播放列表文件夹带到iPhone和Android，并向全球所有用户开放；同时加入播放列表批量编辑，付费订阅用户还能一次管理队列内多首歌曲，并通过一键重排重新打乱播放顺序。",
-              "source_url": "https://9to5mac.com/2026/05/28/spotify-releases-four-music-focused-features-including-background-downloads-on-ios/",
+              "title": "苹果发布 iPadOS 26.6、tvOS 26.6 和 watchOS 26.6 公开测试版",
+              "brief": "苹果已发布iPadOS 26.6、tvOS 26.6、watchOS 26.6、HomePod 26.6等系统的首个公开测试版。这些版本紧随周二的开发者测试版到来，距离WWDC公布下一代系统已不到两周。现阶段变动很少，目前发现的新内容只有在拉黑联系人达到上限后会出现提示；更大的新功能预计将留给6月8日亮相的OS 27系列。",
+              "source_url": "https://9to5mac.com/2026/05/28/apple-releases-public-beta-for-ipados-26-6-tvos-26-6-and-watchos-26-6/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-28T23:18:38+08:00"
+              "published_at": "2026-05-29T01:41:44+08:00"
             },
             {
-              "title": "Rivian称AI让CarPlay之争“完全过时”",
-              "brief": "在新近推出车载AI助手后，Rivian再次为不支持苹果CarPlay辩护。公司软件负责人Wassym Bensaid在Decoder播客中表示，汽车正从“软件定义”转向“AI定义”，更深层的车内AI整合让是否接入CarPlay的争论“完全过时”。他还称，具备代理能力的整合方式将彻底改变用户与应用程序的交互方式。",
-              "source_url": "https://9to5mac.com/2026/05/28/rivian-says-ai-makes-debate-over-carplay-completely-obsolete/",
+              "title": "苹果发布首个 iOS 26.6 公开测试版",
+              "brief": "苹果已发布首个iOS 26.6公开测试版。随着WWDC临近，这一版本预计仍以小幅调整和问题修复为主，而不是带来大规模新功能。已发现的变化包括联系人拉黑数量上限相关提示，以及一项似乎仍在开发中的iPhone防盗功能。报道还指出，iOS 26.6 beta 1的到来时间比苹果2025年的发布节奏略早。",
+              "source_url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
               "source_name": "9to5Mac",
-              "published_at": "2026-05-28T23:02:05+08:00"
+              "published_at": "2026-05-29T01:38:25+08:00"
+            },
+            {
+              "title": "Anthropic 升级 Claude，推出 Opus 4.8 模型",
+              "brief": "Anthropic发布Claude Opus 4.8，并称其在判断力、诚实反馈进度以及长时间独立工作方面优于前代。该公司表示，新模型价格与Opus 4.7保持不变，多项基准成绩提升，快速模式约提速2.5倍且成本降至原来的三分之一。同时，Claude Code默认采用高努力级别，并上线可处理更大任务的Dynamic Workflows预览。",
+              "source_url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-29T01:09:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "今日最佳 Android 应用优惠与限免：《Lovecraft’s Untold Stories》等",
+              "brief": "这篇文章汇总了今日值得关注的Android应用优惠和限免信息，明确点名《Lovecraft’s Untold Stories》《Front Armies》与《1944 Burning Bridges》等作品。背景上，它是一则“今日最佳”式的折扣整理，目的是把当天可入手的移动应用和游戏集中列出。关键细节是除上述作品外还包含更多条目，核心内容围绕当天的降价与免费线索展开。",
+              "source_url": "https://9to5toys.com/2026/05/28/todays-best-android-app-deals-free-untold-stories/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-29T01:58:26+08:00"
+            },
+            {
+              "title": "Spotify Android 版将加入播放列表文件夹、“Reshuffle”等功能",
+              "brief": "报道指出，Spotify面向Android的应用正在加入一批新功能，已明确的包括播放列表文件夹和“Reshuffle”。这次变化的背景是更新直接发生在移动端应用体验层面，重点围绕歌单管理与播放操作展开。关键细节方面，标题确认了这两项能力，并表示还会有更多改动同步推出，标题目前只点出了最核心的新增项。",
+              "source_url": "https://9to5google.com/2026/05/28/spotify-app-for-android-adding-playlist-folders-reshuffle-and-more/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-29T01:45:00+08:00"
+            },
+            {
+              "title": "最新 Google Home 更新修复智能音箱上的 Apple Music 问题",
+              "brief": "这篇报道提到，Google Home的最新更新已经修复智能音箱上的Apple Music问题。背景在于受影响场景发生在Google Home生态与Apple Music服务的配合使用中，因此重点不是新增功能，而是恢复既有音乐播放体验。关键细节是修复已包含在最新版本更新里，标题明确点出问题位置就在智能音箱端的Apple Music使用环节。",
+              "source_url": "https://9to5google.com/2026/05/28/latest-google-home-update-fixes-apple-music-on-smart-speakers/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-29T01:05:00+08:00"
+            },
             {
               "title": "谷歌员工因利用内幕信息在 Polymarket 获利逾百万美元被捕",
               "brief": "一名谷歌员工因利用内幕信息在 Polymarket 交易并获利逾100万美元而被逮捕。报道聚焦科技公司内部信息外泄与预测市场交易之间的关联，这类案件涉及合规、保密义务与市场公平问题。文章围绕执法行动展开，标题已明确给出当事人身份、所用平台、信息性质和获利规模，重点是未公开信息被用于下注获利。",
@@ -73,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/05/28/i-tried-the-android-auto-redesign/",
               "source_name": "9to5Google",
               "published_at": "2026-05-29T00:15:00+08:00"
-            },
-            {
-              "title": "优惠汇总：Google Pixel 10 Pro 最高降 420 美元，Pixel Buds 109 美元起，TCL NXTPAPER 14 降 120 美元",
-              "brief": "这篇汇总列出了当下几项与 Google 生态相关的优惠，包括 Pixel 10 Pro 最高直降420美元、Pixel Buds 109美元起，以及 TCL NXTPAPER 14 立减120美元。背景是零售渠道持续进行硬件促销，用户更关注即时到手价与横向比较。标题已经给出最关键的折扣数字、涉及产品和“更多优惠”的范围提示，内容重心是价格信息整理与快速筛选。",
-              "source_url": "https://9to5google.com/2026/05/28/deals-google-pixel-10-pro-pixel-buds-tcl-nxtpaper/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T23:39:12+08:00"
-            },
-            {
-              "title": "评测：Fitbit Air 是几乎完美的健身追踪器，但 AI Health Coach 仍有不足",
-              "brief": "这篇评测认为 Fitbit Air 作为健身追踪器几乎做到了接近完美，但其 AI Health Coach 仍不够成熟。背景在于可穿戴设备正把硬件追踪与生成式 AI 指导一并作为卖点，因此分开评估两部分体验很重要。标题给出的关键判断很明确：基础追踪能力表现强，主要短板集中在 AI 教练功能，评测重点也因此形成鲜明对比。",
-              "source_url": "https://9to5google.com/2026/05/28/fitbit-air-review/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T23:00:00+08:00"
-            },
-            {
-              "title": "目前亚马逊上最值得关注的 Google Pixel 优惠",
-              "brief": "文章整理了目前亚马逊上最值得关注的 Google Pixel 优惠，核心是帮助读者快速查看现阶段更划算的机型与配件价格。背景是 Pixel 产品线型号较多，折扣也会随时间变化，因此“当前最佳优惠”这类汇总更便于比价与集中检索。标题透露的关键信息很直接：平台限定在 Amazon，范围聚焦 Google Pixel 系列，内容以当下可买优惠为主。",
-              "source_url": "https://9to5google.com/2026/05/28/these-are-the-currently-best-google-pixel-deals-on-amazon/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T22:53:00+08:00"
             }
           ]
         },
@@ -101,45 +129,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "YouTube Premium 为播客体验新增三项功能",
-              "brief": "YouTube Premium新增三项播客功能，包括On-the-go、自动速度和Ask Music播客推荐，进一步强化平台的播客收听体验。YouTube称其播客月活观看用户已超10亿，这些功能面向Premium订阅者推出，其中前两项已结束实验阶段，安卓版现已提供，iOS将在未来几个月上线。",
-              "source_url": "https://www.androidauthority.com/youtube-premium-new-features-podcasts-3672237/",
+              "title": "Proton Mail 让告别 Gmail 变得更容易",
+              "brief": "Proton Mail 正在逐步推出一项新工具，让用户可直接在 Proton Mail 内用 Gmail 地址收发邮件，并自动把 Gmail 收件箱中的最新邮件导入进来。公司称，这样可让用户更平滑地从 Gmail 过渡到新邮箱，同时强调其产品更重视隐私与反追踪。该功能可在设置里的 Easy Switch 中连接 Gmail 账户后启用。",
+              "source_url": "https://www.androidauthority.com/proton-mail-gmail-feature-3672304/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T00:44:29+08:00"
+              "published_at": "2026-05-29T02:25:43+08:00"
             },
             {
-              "title": "Google Messages 基本撤回了备受反感的 SIM 切换改动",
-              "brief": "Google Messages测试版基本回调了备受抱怨的SIM切换改动，在输入框点按后会弹出含“切换SIM”的浮层入口，让多卡用户更快进入选择界面。此前谷歌移除了输入框中的直接切换图标，导致用户必须绕到联系人资料页操作；新方案虽未恢复为一键切换，但至少减少了发送短信前的步骤。",
-              "source_url": "https://www.androidauthority.com/google-messages-switch-sim-button-3672257/",
+              "title": "Spotify 新功能让音乐管理和收听更方便",
+              "brief": "Spotify 为移动应用加入多项新功能，包括此前仅桌面端提供的播放列表文件夹，方便用户按类型、心情等方式整理资料库。平台还新增播放列表批量编辑，可一次选择多首内容进行重排或移除，适用于音乐、播客和书籍；面向 Premium 用户，则恢复队列批量编辑，并在 iPhone 上支持应用关闭时继续后台下载。",
+              "source_url": "https://www.androidauthority.com/spotify-playlist-folders-bulk-editing-reshuffle-mobile-3672292/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T00:25:19+08:00"
+              "published_at": "2026-05-29T02:10:30+08:00"
             },
             {
-              "title": "Google Meet 最新更新把 Gemini 放到更顺手的位置",
-              "brief": "Google正在调整网页版Meet中的Ask Gemini入口，把原本藏在右上角图标后的提示框移到通话界面左下角，让这项AI功能在会议中更容易被看到和使用。功能本身未变，仍可总结会议、提炼行动项并帮助迟到者补课，尤其适合配合“为我做笔记”使用，现已向部分Workspace商务和企业版用户开始推送。",
-              "source_url": "https://www.androidauthority.com/google-meet-ask-gemini-3672179/",
+              "title": "Pixel Buds 应用迎来全新外观更新",
+              "brief": "Google 正在更新 Pixel Buds 配套应用的外观，变化包括新版图标和新的首页进入界面。背景是 Google 近期统一调整多款应用的图标设计，这次 Pixel Buds 也改为更简洁、由彩色几何形状组成的风格。新版首页还会根据已配对耳机的具体配色显示对应强调色，相关更新似乎已开始推送。",
+              "source_url": "https://www.androidauthority.com/google-pixel-buds-app-redesign-3672309/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T00:07:42+08:00"
+              "published_at": "2026-05-29T01:56:36+08:00"
             },
             {
-              "title": "T-Mobile 光纤网络出现故障，影响部分用户",
-              "brief": "T-Mobile大量用户报告其光纤家庭网络出现故障，相关反馈显示这次问题主要影响美国东海岸，服务中断迹象在社交平台和Downdetector上都较为明显。报道提到故障反馈约在美国东部时间凌晨1点开始，至早上8点左右达到850多起峰值，此后数量虽明显回落，但仍有数百份新报告，说明问题尚未完全解决。",
-              "source_url": "https://www.androidauthority.com/t-mobile-fiber-internet-down-3672246/",
+              "title": "AYN 为 Thor 掌机推出官方触控笔配件",
+              "brief": "AYN 为其 Thor 掌机推出官方触控笔配件，让这款双屏翻盖设备更接近任天堂 DS 式的使用方式。由于 Thor 使用的是现代电容触控屏，而非早年 DS/3DS 的电阻屏，因此新配件采用圆头电容笔设计。产品还附带可粘贴在机身上的收纳套，并提供与各款 Thor 配色相匹配的版本。",
+              "source_url": "https://www.androidauthority.com/ayn-thor-stylus-3672233/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T23:30:43+08:00"
+              "published_at": "2026-05-29T01:46:13+08:00"
             },
             {
-              "title": "Govee Mini Panel Lights 在亚马逊现打八折",
-              "brief": "Govee Mini Panel Lights目前在亚马逊促销中降价20%，售价从149.99美元降至119.99美元，这组墙面灯主打RGBIC灯效、音乐同步和可自定义拼接。产品支持Matter、Alexa和Google Assistant，并可连接70块面板；按追踪数据，当前价虽高于历史低点20美元，但低于近90天均价，且折扣刚刚生效。",
-              "source_url": "https://www.androidauthority.com/govee-mini-panel-lights-deal-3672230/",
+              "title": "调查显示读者暂未被 Googlebooks 打动",
+              "brief": "Android Authority 的读者调查显示，大家暂时还没有被 Googlebooks 的概念充分打动。背景是 Google 本月公布这一基于 Android 的新笔记本类别，主打 Gemini 智能和更紧密的手机联动，但目前仍缺少规格、上市时间和价格等关键信息。首批机型预计今秋由多家厂商推出，且被定位为“超高端”，Chromebook 的后续路线也仍待观察。",
+              "source_url": "https://www.androidauthority.com/excited-about-googlebooks-poll-results-3672282/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T22:54:25+08:00"
+              "published_at": "2026-05-29T01:37:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Slate 电动皮卡将于 6 月 24 日开启预订",
+              "brief": "Slate宣布其纯电皮卡将于6月24日开放预订，已支付50美元预留费的用户可再付300美元完成配置并锁定交付窗口，预计今年晚些时候开始交付。该车主打低价与配件化，早先约2万美元的宣传价依赖7500美元电动车税收抵免，补贴取消后官方称美国起售价或在2万多美元且仍可能调整，基础版仅含暖风和空调，许多功能需另购。",
+              "source_url": "https://www.engadget.com/2183143/slate-ev-truck-pre-orders-will-open-on-june-24/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-29T02:45:04+08:00"
+            },
             {
               "title": "《深海迷航2》大卖，Krafton须向开发团队支付2.5亿美元奖金",
               "brief": "《深海迷航2》虽仍处于抢先体验阶段，但销量已至少达到400万份，足以触发Krafton向Unknown Worlds员工和高管支付2.5亿美元奖金的条款。这笔奖金源于Krafton在2021年收购工作室时设定的营收目标，也一直是双方诉讼焦点；开发团队此前错过2025年原定窗口，Krafton还被指曾通过延期和“Project X”方案争取少付或不付。",
@@ -174,39 +209,58 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "摩托罗拉上一代 Razr Ultra 几乎半价",
+              "brief": "摩托罗拉上一代 Razr Ultra 成为本轮折扣主角，512GB 解锁版在 Best Buy 降至 699.99 美元，较 1299.99 美元原价几乎腰斩，亚马逊则仅绿色款同价开卖。背景是 2026 款 Razr Ultra 已上市，虽然旧款没有新机的 Alcantara 材质，但外观几乎相同，如今便宜数百美元，价格也下探到更接近高性价比手机区间，文中还提到 Roborock 扫拖机器人和 AirPods Max 2 也在打折。",
+              "source_url": "https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T14:33:08-04:00"
+            },
+            {
+              "title": "游戏与电影的界线正变得更模糊",
+              "brief": "《007：First Light》被作者视为游戏与电影边界继续变模糊的新例子，原因在于它把通常乏味的新手教学直接嵌进了故事设定。由于主角是刚开始受训的年轻邦德，教程被做成经典动作片式的训练蒙太奇，几个月训练被快速剪辑呈现，而玩家又能亲自完成射击、跑酷等环节，让叙事推进与操作学习在同一节奏里发生，也显示两种媒介正在相互借鉴。",
+              "source_url": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T14:03:51-04:00"
+            },
+            {
+              "title": "Claude 新模型出错时更“诚实”",
+              "brief": "Anthropic 将于周四发布 Claude Opus 4.8，并把卖点放在模型出错时更“诚实”。公司称，AI 常会在证据不足时仓促下结论，或把并不扎实的进展自信地说成成果；早期测试者认为，新版更愿意标出自身不确定性，也更少做无依据断言。官方评测还称，它对自己写出的代码缺陷视而不见的概率约比前代低四倍，同时新增可调节任务投入程度的选项，让用户在效果与 token 消耗之间取舍。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T13:00:00-04:00"
+            },
+            {
+              "title": "新款 Oura Ring 5 现已开启预订",
+              "brief": "Oura 已开放新款 Oura Ring 5 的预订，这款智能戒指将于 6 月 4 日正式上市，起售价 399 美元。它受关注的背景是许多用户一直在等更小巧的版本，Oura 这次称新机体积比前代缩小 40%，同时更薄也更轻。预订渠道包括 Oura 官网以及亚马逊、沃尔玛等零售商，公司还承诺提升追踪准确性与续航表现，单次充电最长可使用 9 天。",
+              "source_url": "https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T12:43:52-04:00"
+            },
+            {
               "title": "一部成本2000美元的AI电影将亮相翠贝卡",
               "brief": "一部名为《紫罗兰之梦》的75分钟影片将于下月翠贝卡电影节首映，整部作品的人物与画面均由AI生成。这部片以伊朗政府1月大规模杀害抗议者为题材，依据新闻报道、照片和目击者证词制作，成本约2000美元，由2009年离开伊朗的库沙兄弟及其公司Fountain 0完成。",
               "source_url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
               "source_name": "The Verge",
               "published_at": "2026-05-28T12:08:45-04:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "伊利诺伊州通过里程碑法案，特朗普进一步失去AI监管主导权",
+              "brief": "在特朗普几天前取消联邦审查前沿AI模型的计划后，伊利诺伊州议会通过SB 315，若州长普利兹克签署，它将成为美国最强的州级AI安全法。这反映出联邦因担心妨碍创新而后撤时，各州正加快补位。法案要求大型AI公司公开安全计划和年度第三方测试摘要，严重事故72小时内上报，若有致命或重伤迫切风险则24小时内通报，并保护员工举报安全隐患。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-29T01:01:16+08:00"
             },
             {
-              "title": "《使命召唤：战区》将于今年晚些时候停止支持PS4和Xbox One",
-              "brief": "动视计划在今年晚些时候终止《使命召唤：战区》对PS4和Xbox One的支持，玩家届时必须升级到PS5或Xbox Series S/X才能继续游玩。该作将于6月4日从旧主机商店下架，6月25日关闭游戏内商店，并在《现代战争4》第一赛季开始后彻底无法运行。",
-              "source_url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T12:05:42-04:00"
-            },
-            {
-              "title": "YouTube朝真正的播客应用又迈出一小步",
-              "brief": "YouTube正为Premium订阅者加入更适合听播客的新功能，安卓版今天上线，iOS稍后推出，显示其正小步补强播客体验。其中“随行模式”会切换为音频优先界面，提供更大的简化播放键、静态封面和章节时间轴；新的自动倍速功能则会按内容节奏与用户设定的最低速度自动调节播放。",
-              "source_url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T12:05:00-04:00"
-            },
-            {
-              "title": "微软Surface电脑接下来会走向何方？",
-              "brief": "微软的Surface产品线正进一步收缩，曾体现其实验路线的多款设备近年先后退出，包括Surface Book、Surface Hub、Surface Duo以及原本接替前者的Surface Laptop Studio。如今留下来的基本只剩Surface Laptop和Surface Pro两个系列，外加不同尺寸版本，Surface未来看起来将是更小的阵容。",
-              "source_url": "https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T12:00:00-04:00"
-            },
-            {
-              "title": "《使命召唤：现代战争4》10月发售，并将登陆Switch 2",
-              "brief": "动视正式公布《使命召唤：现代战争4》，确认将于2026年10月23日发售，由Infinity Ward开发，登陆PS5、Xbox Series X/S、PC和任天堂Switch 2。这将是首款同步登陆Switch 2的《使命召唤》，但不会推出PS4和Xbox One版本；官方还称剧情将围绕朝鲜半岛爆发战争展开。",
-              "source_url": "https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T11:32:52-04:00"
+              "title": "Steam Deck北美涨价后24小时内售罄",
+              "brief": "Valve上调Steam Deck OLED建议零售价后不到24小时，美国和加拿大的库存再次售罄。此番热销发生在该机长期供货紧张的背景下，Valve自2月起就提示内存和存储短缺，期间可购买窗口一直很短。尽管北美缺货，欧洲、澳大利亚及亚洲部分市场仍可购买；新一轮销售也把这款掌机重新推上Steam按24小时收入统计的畅销榜首位。",
+              "source_url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-28T23:43:41+08:00"
             }
           ]
         }
@@ -318,6 +372,32 @@
               "source_url": "https://www.ithome.com/0/956/819.htm",
               "source_name": "IT之家",
               "published_at": "2026-05-28T23:16:19+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "CD Projekt透露《巫师3》新资料片《往昔之歌》规模与剧情线索",
+              "brief": "CD Projekt Red透露，《巫师3》新资料片《往昔之歌》将于2027年登陆PC、PS5和Xbox Series X/S，玩家再次扮演杰洛特。这是继2015年本体与2016年“血与酒”后多年才推出的新扩展。官方在《血与酒》十周年直播中表示暂不剧透，但称此前发布的贝莱坦之夜庆典画面与配诗已埋下线索，其中包括杰洛特手中的新剑。",
+              "source_url": "https://www.ign.com/articles/cd-projekt-teases-size-and-story-of-new-the-witcher-3-expansion-songs-of-the-past",
+              "source_name": "IGN",
+              "published_at": "2026-05-29T00:32:03+08:00"
+            },
+            {
+              "title": "《使命召唤：战区》将停止支持PS4和Xbox One，《现代战争4》不再登陆上世代主机",
+              "brief": "随着《使命召唤：现代战争4》放弃PS4和Xbox One，《使命召唤：战区》也将停止支持这两款上世代主机。新作定于10月发售，只登陆PC、Xbox Series X/S、PS5和Nintendo Switch 2。其第一赛季会在10月23日游戏上线后不久开启，届时《战区》将并入《现代战争4》的内容与赛季进度体系。",
+              "source_url": "https://www.ign.com/articles/call-of-duty-warzone-to-shut-down-on-ps4-and-xbox-one-as-modern-warfare-4-leaves-last-gen-consoles-behind",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T23:54:36+08:00"
+            },
+            {
+              "title": "《使命召唤：现代战争4》公布，确认DMZ、发售日与Switch 2版本",
+              "brief": "动视正式公布由Infinity Ward开发的《使命召唤：现代战争4》，确认首发包含战役、多人模式和撤离玩法DMZ，并同步登陆Nintendo Switch 2且支持跨平台联机。游戏将不再推出上世代主机版本，背景设定为朝鲜半岛战事扩大的韩国战场。官方还提到多人模式取消腰射散布，首发提供12张全新6v6地图及可动态重组的Kill Block战场。",
+              "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-revealed-with-dmz-release-date-and-nintendo-switch-2-version-confirmed",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T22:59:18+08:00"
             }
           ]
         }
