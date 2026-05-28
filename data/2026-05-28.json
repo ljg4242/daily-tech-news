@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T21:05:55.222081+08:00",
+  "generated_at": "2026-05-28T22:59:35.177855+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "报道称苹果拟将端侧 AI 作为 WWDC 重点",
+              "brief": "报道称，苹果计划在下月WWDC把端侧AI作为核心焦点，强调iPhone、Apple Watch和Mac所用自研芯片可直接处理更多AI请求，以此凸显本地推理在隐私和成本上的优势，并与依赖大规模数据中心的对手区隔。关键细节是，复杂请求仍需云端处理，苹果据称会用谷歌Gemini大模型训练可本地运行的精简版，并在Google Cloud上借助Nvidia机密计算处理更大模型，且可能继续沿用Private Cloud Compute品牌。",
+              "source_url": "https://www.macrumors.com/2026/05/28/apple-to-make-on-device-ai-key-focus/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-28T22:16:11+08:00"
+            },
+            {
+              "title": "亚马逊几乎全线 M5 MacBook Air 降价 199 美元，899.99 美元起",
+              "brief": "亚马逊将本周早些时候针对13英寸M5 MacBook Air的199美元优惠，扩大到几乎所有M5 MacBook Air机型，多数配置来到历史最低价，起售价降至899.99美元。具体来看，13英寸512GB版售899.99美元，16GB/1TB和24GB/1TB分别为1099.99与1299.99美元；15英寸512GB和24GB/1TB分别为1099.99与1499.99美元，15英寸16GB/1TB暂未见折扣。",
+              "source_url": "https://www.macrumors.com/2026/05/28/amazon-m5-macbook-air-199-off/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-28T21:59:35+08:00"
+            },
+            {
+              "title": "iOS 27 AI 相机与照片功能首曝",
+              "brief": "据彭博社披露，苹果计划在6月8日WWDC公布iOS 27的多项AI相机与照片升级，借此把视觉AI更直接地放入系统核心应用中。关键变化包括相机新增独立Siri模式，取代现有Visual Intelligence，可将拍到的对象交给第三方AI或谷歌反向搜图分析；照片应用则将加入Reframe与Extend，用于调整视角和补全被截掉的画面。",
+              "source_url": "https://www.macrumors.com/2026/05/28/ios-27-ai-camera-and-photos-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-28T21:32:13+08:00"
+            },
             {
               "title": "泄露截图显示 iOS 27 全新 Siri 应用与“搜索或提问”功能",
               "brief": "彭博社记者马克·古尔曼分享了一组重建截图，展示了 iOS 27 全新的 Siri 应用和“搜索或提问”功能。相关图片依据彭博获得的信息制作，显示苹果正把 Siri 做成更像聊天机器人的形态，支持文字与语音双模式连续对话。界面采用深色设计，底部有“Ask Siri”输入框，并提供麦克风、附件按钮和可设为到期删除的历史会话列表。",
@@ -21,33 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/05/27/youtube-automatic-ai-video-labeling/",
               "source_name": "MacRumors",
               "published_at": "2026-05-28T08:06:00+08:00"
-            },
-            {
-              "title": "亚马逊将接手苹果在 Globalstar 的持股",
-              "brief": "亚马逊正收购苹果卫星合作方Globalstar，并已与苹果达成协议，接手其在相关公司的股权与表决权益。此举关系到iPhone和Apple Watch现有卫星服务的底层网络安排；苹果曾在2022年投入4.5亿美元，换取20%股权和85%网络容量。根据FCC文件，亚马逊将通过新设子公司完成合并，未来以其Leo网络支持紧急SOS、卫星信息、查找和道路救援等功能，交易约115.7亿美元，预计2027年在获批后完成。",
-              "source_url": "https://www.macrumors.com/2026/05/27/amazon-apple-globalstar-deal/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-28T07:32:23+08:00"
-            },
-            {
-              "title": "Roku 发布重新设计的主屏幕",
-              "brief": "Roku宣布其主屏幕迎来十多年来最大一次改版，并已开始向美国的Roku电视和流媒体设备推送，后续还会扩展到更多国家。此次调整重点强化内容发现和个性化推荐，且会自动生效无需更新，包括“为你精选”、AI驱动的常用应用入口、按题材与情绪整理的内容中心、统一快捷功能区；左侧菜单改为图标折叠样式，右侧则会持续显示大型广告。",
-              "source_url": "https://www.macrumors.com/2026/05/27/roku-unveils-redesigned-home-screen/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-28T05:29:57+08:00"
-            },
-            {
-              "title": "苹果正开发 iPhone 防抢夺功能：被偷时可立即锁定",
-              "brief": "苹果正在开发一项新的iPhone防抢夺功能，设备若被窃贼从手中突然夺走，可立即锁定并启动“失窃设备保护”。这项设计主要针对偷看密码后再抢手机的盗窃场景，以减少密码、银行卡和账户资料被访问的风险。相关代码显示，该功能会结合陀螺仪、加速度计等传感器判断设备被夺走，并借助已配对Apple Watch识别手机是否突然远离用户手腕。",
-              "source_url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-28T05:00:46+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple TV+ 公布柯林·法瑞尔主演侦探剧《Sugar》回归",
+              "brief": "Apple今日发布《Sugar》第二季预告，宣布这部由柯林·法瑞尔主演的侦探剧将于6月19日在Apple TV+开播。该剧以洛杉矶私家侦探约翰·休格为主角，第一季曾因黑色电影气质与意外的科幻转折受到关注。新一季首周上线1集，此后每周更新至8月7日，案件围绕一名新晋拳手失踪的哥哥展开，并延续主角寻找失踪妹妹的主线，调查也会扩大成席卷全城的阴谋。",
+              "source_url": "https://9to5mac.com/2026/05/28/apple-tv-unveils-return-of-hit-detective-series-with-colin-farrell/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-28T22:28:54+08:00"
+            },
+            {
+              "title": "报道披露苹果与谷歌 AI 合作新细节，涉及英伟达芯片",
+              "brief": "报道称，苹果与谷歌AI合作的更多幕后安排已经浮出水面，苹果预计在WWDC公布的新一波功能仍将把端侧处理放在优先位置。背景是苹果正用Gemini大模型蒸馏出可在设备本地运行的小模型，并评估收购擅长本地AI的Liquid AI。但部分新版Siri请求仍需放在Google Cloud上调用授权版Gemini，原因是完整模型参数规模过大，而苹果还批准了英伟达机密计算技术，暗示相关云端算力至少部分会使用英伟达AI芯片。",
+              "source_url": "https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-05-28T21:44:22+08:00"
+            },
             {
               "title": "Oura Ring 5 发布：机身大幅缩小，新增血压信号监测等功能",
               "brief": "Oura 推出 Oura Ring 5，新款戒指比前代缩小约四成，外观更接近传统戒指，并加入夜间血压和呼吸趋势等健康功能。此次更新主要针对前几代产品偏厚偏宽、佩戴不够低调的反馈，同时继续强化其在可穿戴健康市场的竞争力。官方称新款宽 6.09 毫米、厚 2.29 毫米，改进皮肤接触与信号架构，采用更强 LED 和 12 条信号通路，续航仍可达一周。",
@@ -68,26 +82,33 @@
               "source_url": "https://9to5mac.com/2026/05/27/fcc-filing-shows-amazon-plans-to-acquire-apples-20-stake-in-globalstar/",
               "source_name": "9to5Mac",
               "published_at": "2026-05-28T06:49:09+08:00"
-            },
-            {
-              "title": "新报告称年度应用订阅用户取消后很少回流",
-              "brief": "RevenueCat发布《2026订阅制应用现状》第二部分，指出按年订阅的应用用户一旦取消，通常很难再被拉回。报告聚焦留存与召回表现，显示95%的年度订阅用户取消后一年内不会回归，而月订阅用户回流率约为其四倍。与此同时，年订阅在进入续费阶段后整体续订率达83.4%，明显高于周订阅和月订阅。",
-              "source_url": "https://9to5mac.com/2026/05/27/new-report-shows-annual-app-subscribers-rarely-return-after-they-cancel/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-28T05:47:26+08:00"
-            },
-            {
-              "title": "泰德·丹森加盟苹果未命名喜剧剧集",
-              "brief": "据《Deadline》报道，泰德·丹森已加盟伊丽莎白·班克斯主演的一部未定名 Apple TV 半小时喜剧，项目计划今年在洛杉矶开拍。故事讲述刚离婚的海蒂想为自己和孩子开启热闹的第二人生，却意外开始替父亲协调养老社区里的约会安排；丹森将饰演海蒂的父亲，罗布·德莱尼也已参演，剧集由莉兹·赫尔登斯和马特·沃德创作，目前仍处制作早期，正式片名尚未公布。",
-              "source_url": "https://9to5mac.com/2026/05/27/ted-danson-joins-upcoming-untitled-apple-tv-comedy-series/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-05-28T04:47:44+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "更薄的 Oura Ring 5 终于支持实时活动追踪，售价上涨 50 美元",
+              "brief": "Oura发布更薄的Oura Ring 5，并首次支持实时运动追踪，起售价从349美元涨至399美元。新款主打在更小体积下提升佩戴体验，同时维持约6至9天续航，回应前代偏厚的争议。其宽6.09毫米、厚2.28毫米，官方称较Ring 4缩小40%，换上更强LED与新传感器，心率准确率称达99%、睡眠数据95%，并新增血压模式提醒、30天睡眠干扰视图和GLP-1相关洞察。",
+              "source_url": "https://9to5google.com/2026/05/28/oura-ring-5-price-increases-gets-thinner/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-28T22:23:04+08:00"
+            },
+            {
+              "title": "更宽版 Galaxy Z Fold 8 硬件上手泄露",
+              "brief": "三星更宽机身版本的Galaxy Z Fold 8上手图泄露，展示了此前少见的外屏比例设计。新比例据称更适合视频和游戏，也让整机在手中显得更薄，延续了三星折叠屏的基本外观。泄露的模型机来自Sonny Dickson，外屏明显更宽，铰链处似有轻微缝隙；报道还称三星预计将其作为Galaxy Z Fold 8发售，而传统窄屏版本或改名为Galaxy Z Fold 8 Ultra，并在7月下旬同场发布。",
+              "source_url": "https://9to5google.com/2026/05/28/samsung-galaxy-z-fold-8-hardware-hands-on-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-28T22:20:00+08:00"
+            },
+            {
+              "title": "Snapdragon C 瞄准 300 美元笔记本，欲成 Windows 对抗 MacBook Neo 的方案",
+              "brief": "高通在Computex 2026发布面向Windows笔记本的入门级处理器Snapdragon C，目标是把设备起售价压到300美元。该芯片瞄准更便宜的轻薄本市场，希望为Windows阵营提供更易负担的选择，同时保留全天续航与便携性。官方称它可流畅处理网页浏览、视频串流和办公任务，并集成NPU支持AI功能；首批搭载机型预计将在今年晚些时候上市。",
+              "source_url": "https://9to5google.com/2026/05/28/qualcomm-snapdragon-c-windows-macbook-neo/",
+              "source_name": "9to5Google",
+              "published_at": "2026-05-28T21:45:00+08:00"
+            },
             {
               "title": "Gemini Live 新语音开始推送，Android 小组件换上 Neural Expressive 图标",
               "brief": "谷歌正通过服务器端更新，为 Gemini Live 推出新的语音选择界面和多款新声音，并刷新 Android 主屏小组件图标。这次调整随 Gemini 应用 1.0.913571982 上线，语音选择从轮播改为列表，且不再显示声音说明；新增 Flare、Glow，并替换部分旧语音。小组件布局保持不变，但麦克风、相机、图库、文件、视频、共享屏幕和 Live 图标改用 Neural Expressive 细线风格，另外 Google app 17.26 也更新了加号菜单中的 Drive 图标样式。",
@@ -101,33 +122,19 @@
               "source_url": "https://9to5google.com/2026/05/27/pixel-buds-new-icon-update/",
               "source_name": "9to5Google",
               "published_at": "2026-05-28T06:32:19+08:00"
-            },
-            {
-              "title": "Google 开始推送 Pixel Buds Pro 2 和 Pixel Buds 2a 更新",
-              "brief": "谷歌开始向 Pixel Buds Pro 2 和 Pixel Buds 2a 推送 release_5.203 固件更新，两款设备现已升级到相同软件版本。官方更新说明只写有常规错误修复和改进，没有披露更多内容；用户可在 Android 版 Pixel Buds 应用的“更多设置”中进入固件更新页面，也能通过网页手动检查或启动更新，不过这次推送目前还没有大范围展开。",
-              "source_url": "https://9to5google.com/2026/05/27/pixel-buds-pro-2-2a-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T06:13:54+08:00"
-            },
-            {
-              "title": "CapCut Pad 登陆安卓平板，主打桌面级视频剪辑",
-              "brief": "CapCut 已在 Play 商店推出面向安卓平板的 CapCut Pad，主打接近桌面级的视频编辑体验。随着短视频编辑需求持续增长，这款平板版本在手机应用基础上扩展了界面与操作空间，提供更精细的多轨时间线编辑，以及色度抠像、视频防抖、关键帧动画和顺滑慢动作等功能，最高支持导出 4K、60fps 和 HDR 视频，但部分功能需订阅 CapCut Pro 才能使用。",
-              "source_url": "https://9to5google.com/2026/05/27/capcut-pad-promises-desktop-level-video-editing-for-android-tablets/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T05:05:00+08:00"
-            },
-            {
-              "title": "Spotify 推出播客片段链接分享功能",
-              "brief": "Spotify 宣布上线“播客片段”分享功能，用户可把播客中的特定片段生成链接发给他人。此举是为了让听众更容易捕捉、回看并分享最有共鸣的瞬间，不必再从整期节目中反复查找。更新后的分享菜单支持整集、章节、时间戳和片段四种方式，用户还能精确裁切起止时间；分享后的片段会自动保存到资料库，功能已开始向免费版和高级版用户推送。",
-              "source_url": "https://9to5google.com/2026/05/27/spotify-resurrects-youtube-clips-to-let-you-share-podcast-segments-as-a-link/",
-              "source_name": "9to5Google",
-              "published_at": "2026-05-28T04:35:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "小型试验显示单剂基因编辑药物将坏胆固醇降低62%",
+              "brief": "一项针对实验性基因编辑疗法VERVE-102的I期安全性试验显示，接受最高剂量的高胆固醇患者坏胆固醇平均下降62%，结果已发表于《新英格兰医学杂志》。这类药物希望通过一次输注实现长期降脂，因此早期安全性和持续效果是核心观察点。现有35名受试者的中期数据显示，未见严重不良事件，仅出现提示轻微肝损伤的短暂肝酶升高，最长18个月随访中降幅仍在维持。",
+              "source_url": "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-05-28T21:39:49+08:00"
+            },
             {
               "title": "预报称今年飓风季或低于常年，但切勿掉以轻心",
               "brief": "美国国家气象局预测，6月1日开始、11月30日结束的大西洋飓风季活跃度将低于常年，但强调公众不要因此放松防灾准备。判断依据是本季可能形成的厄尔尼诺通常会增加风切变，削弱大西洋风暴发展；不过大西洋偏暖海温仍可能让已形成风暴迅速增强。官方预计将出现8到14个命名风暴、3到6个飓风和1到3个强飓风，低于常年约14个命名风暴、7个飓风和3个强飓风的水平。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
               "source_name": "Ars Technica",
               "published_at": "2026-05-28T04:43:54+08:00"
-            },
-            {
-              "title": "《Mina the Hollower》带来出色的复古动作冒险体验",
-              "brief": "《Mina the Hollower》将于5月29日登陆Windows、Mac、Linux、Switch 2、Switch、PS5和Xbox Series X|S，售价20美元，定位为一款现代化的复古俯视角动作冒险游戏。作品以类似早期《塞尔达》的探索节奏为背景，但从开局就赋予主角跳跃与钻地能力，配合流畅移动、反击战斗和大量隐藏路线与秘密通道，形成更有动感的推进体验。",
-              "source_url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-05-28T04:22:04+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Galaxy S25 或将很快获得 S26 最智能的 Galaxy AI 功能",
-              "brief": "消息称，三星计划在6月的One UI 8.5更新中，为Galaxy S25系列加入“优先通知”和“通知摘要”两项Galaxy AI功能。它们此前仅随Galaxy S26发布，是外界原本期待会一并下放到旧款旗舰的特性；这次补上有望缓解此前8.5更新在视频通话、深色模式等方面引发的不顺，但Now Nudge、24MP相机支持等功能仍缺席。",
-              "source_url": "https://www.androidauthority.com/galaxy-s25-june-one-ui-8-5-update-galaxy-ai-features-3672115/",
+              "title": "Fire TV 新增开机全屏广告",
+              "brief": "亚马逊 Fire TV 用户近期在开机后开始看到占满整个屏幕的广告弹窗，内容是引导下载新近改版的 Fire TV 应用。过去这类弹窗通常只用于遥控器未连接或软件更新等系统提示，本次则被用于商业推广。此前亚马逊刚确认未来 Fire TV 将采用基于 Android 16 的 Fire OS 16，而现在用户必须先手动关闭广告，才能进入正常的电视界面。",
+              "source_url": "https://www.androidauthority.com/amazon-fire-tv-startup-ad-3672186/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T20:25:14+08:00"
+              "published_at": "2026-05-28T22:43:36+08:00"
             },
             {
-              "title": "Oura 发布更小巧但功能更强的 Ring 5",
-              "brief": "Oura正式发布Oura Ring 5，新款智能戒指体积比上代缩小40%，同时扩展了健康追踪能力。公司这次把重点放在更主动的长期监测上，新增血压趋势信号、实时活动追踪和更长期的夜间呼吸洞察；产品起售价399美元，6月4日开始发货，并支持在应用中手动记录袖带血压读数。",
-              "source_url": "https://www.androidauthority.com/oura-ring-5-launch-3670785/",
+              "title": "Oura Ring 4 在亚马逊降至 399 美元",
+              "brief": "Oura Ring 4 目前在亚马逊降至 399 美元，较 499 美元原价便宜 100 美元。文章称这次降价发生在今天，而且该价格比过去 90 天平均水平低 100 美元，因此对一直关注这款产品的人更具吸引力。这款智能戒指主打轻量外形与健康监测，可追踪睡眠、压力和心脏状况等 50 多项指标，续航最长 8 天，并附带 1 个月 Oura 会员服务。",
+              "source_url": "https://www.androidauthority.com/deal-oura-ring-4-3672223/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T20:00:15+08:00"
+              "published_at": "2026-05-28T22:38:28+08:00"
             },
             {
-              "title": "CapCut 登陆 Android 平板，目前完全免费",
-              "brief": "CapCut Pad现已登陆Android平板，结束了用户只能使用手机界面放大版应用的情况。该版本此前已先在iPad上线，现在把桌面级剪辑体验带到安卓大屏，提供多轨时间线、色度抠像、关键帧、AI编辑、去背和防抖等功能；应用已上架Play商店，当前限时免费开放全部功能，后续可能改为订阅制。",
-              "source_url": "https://www.androidauthority.com/capcut-available-android-tablets-3672054/",
+              "title": "Gemini、Claude 和 ChatGPT 被要求运营电台，结果逐渐失控",
+              "brief": "Andon Labs 推出了名为 Andon FM 的实验，让四个不同 AI 模型各自独立运营电台，负责与听众互动、管理财务、搜索网页并尝试赚钱。虽然它们一开始收到完全相同的指令，都被要求塑造人格并假设节目永不结束，但随后逐渐发展出明显不同的风格。参与者包括 Gemini、Claude、GPT 和 Grok，结果显示这些模型在长期无人监管下并不能被视为可互换。",
+              "source_url": "https://www.androidauthority.com/ai-models-radio-station-3672112/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T19:59:40+08:00"
+              "published_at": "2026-05-28T21:59:37+08:00"
             },
             {
-              "title": "LG 称退出电视业务传闻“毫无根据”",
-              "brief": "针对“LG考虑出售电视业务给海信”的报道，LG现已公开否认，称相关消息“毫无根据”，且带有误导性。此前韩媒EBN称LG管理层曾与海信讨论电视业务重组甚至整体出售，理由是盈利疲弱和中国品牌竞争加剧；不过双方都未确认交易，而引发猜测的原始报道也已从网站下线。",
-              "source_url": "https://www.androidauthority.com/lg-tv-business-shutdown-3671902/",
+              "title": "三星 ViewFinity S8 显示器降价 33%",
+              "brief": "三星 37 英寸 ViewFinity S8 显示器目前在亚马逊售价 399.99 美元，较原价便宜 200 美元，降幅约 33%。文章称这次价格比过去 90 天平均值还低 41.29 美元，而且促销刚在一小时内出现。产品本身提供 4K UHD 分辨率、HDR10、10.7 亿色彩、内置 KVM、支持 90W 供电的 USB-C 与 LAN 接口，定位于多任务办公、设计和视频编辑场景。",
+              "source_url": "https://www.androidauthority.com/samsung-viewfinity-s8-monitor-deal-3672197/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T19:37:12+08:00"
+              "published_at": "2026-05-28T21:52:18+08:00"
             },
             {
-              "title": "Motorola Razr Fold 证明不选 Elite 芯片是明智之举",
-              "brief": "摩托罗拉Razr Fold并未采用带有Elite后缀的顶级芯片，而是使用定位略低、成本更可控的骁龙8 Gen 5，但实测表现显示这一步并不吃亏。基准测试中，它的CPU成绩明显领先Pixel 10 Pro Fold，并紧追Galaxy Z Fold 7，图形压力测试也优于前者；结合6,000mAh电池和80W快充，这款折叠屏在多任务场景下表现尤其突出。",
-              "source_url": "https://www.androidauthority.com/motorola-razr-fold-benchmarks-3670168/",
+              "title": "LG QNED 条形音箱现价创年内新低",
+              "brief": "LG S70TY 杜比全景声条形音箱目前在亚马逊售价 249.99 美元，比标价低 100 美元，降幅为 29%，也是这款产品在 2026 年出现的最低价格。文章称该价格较过去 90 天平均水平再低 59.14 美元，因此这次优惠更具吸引力。产品采用 3.1.1 声道并配有无线低音炮，支持 Dolby Atmos、DTS，也可通过 WOW Orchestra 与 LG 电视协同输出声音。",
+              "source_url": "https://www.androidauthority.com/lg-s70ty-qned-soundbar-deal-3672178/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-28T19:00:51+08:00"
+              "published_at": "2026-05-28T21:42:15+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "高通发布面向入门级 Windows 笔记本的 Snapdragon C",
+              "brief": "高通在台北电脑展发布面向入门级Windows笔记本的Snapdragon C，目标覆盖300美元及以上机型，试图回应廉价笔电在续航、发热和噪音上的长期短板。背景是苹果MacBook Neo抬高了预算本预期，而高通希望用更省电的Arm方案提供流畅网页浏览、视频串流与办公体验，并加入入门机少见的集成NPU；联想、宏碁、惠普等产品预计今年稍晚上市。",
+              "source_url": "https://www.engadget.com/2182697/qualcomm-snapdragon-c-entry-level-windows-laptops/",
+              "source_name": "Engadget",
+              "published_at": "2026-05-28T21:00:00+08:00"
+            },
             {
               "title": "TP-Link发布Wi-Fi 8路由器，尽管标准尚未定案",
               "brief": "TP-Link发布首款Wi-Fi 8路由器Archer 8，计划于2026年10月上市，但Wi-Fi 8标准预计要到2028年3月才会最终定案。公司称新品针对速度不稳、设备拥堵和游戏通话卡顿等常见问题，测试中相较Wi-Fi 7在远距离、多楼层和多设备环境下均有提升，同时其在美国能否销售仍不明朗。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.engadget.com/2182731/youtube-ai-generated-playlists/",
               "source_name": "Engadget",
               "published_at": "2026-05-28T18:23:21+08:00"
-            },
-            {
-              "title": "三星测试 Galaxy Watch 8，尝试预防 GLP-1 用药者肌肉流失",
-              "brief": "三星与麻省总医院糖尿病研究中心合作，测试 Galaxy Watch 8 是否能帮助使用 Ozempic 等 GLP-1 药物的人管理肌肉流失。随着这类药物被更多人用于控糖和减重，医生正关注其长期影响，部分减重可能来自肌肉且停药后恢复未必充分。研究将结合体成分、活动水平和心率等数据评估方案可行性。",
-              "source_url": "https://www.engadget.com/2182683/samsung-study-galaxy-watch-8-glp1-ozempic/",
-              "source_name": "Engadget",
-              "published_at": "2026-05-28T15:07:13+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "新版 iOS 27 渲染图暗示 Siri 将大改版",
+              "brief": "彭博社发布据称基于苹果内部信息和知情人士绘制的 iOS 27 渲染图，显示 Siri 可能迎来一次接近聊天机器人的界面重做。这被视为苹果酝酿已久的 Siri 改版预览，但最终设计仍可能在正式发布前调整。图中出现从灵动岛弹出的药丸形对话气泡、可切换 Ask、Siri、ChatGPT 的下拉菜单，以及独立应用和聊天入口的可能形态，苹果预计六月在 WWDC 公布方案。",
+              "source_url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T10:33:31-04:00"
+            },
+            {
+              "title": "CNN 起诉 Perplexity 复制其文章内容",
+              "brief": "CNN 已在纽约起诉 Perplexity，指控其 AI 工具会生成对 CNN 报道的“逐字”复制版本，并向用户提供订阅墙之后的内容。争议焦点在于 AI 搜索产品是否未经授权抓取媒体作品并绕过付费限制。诉状称，Perplexity 无视 CNN 识别或屏蔽其未明爬虫的努力，直接抓取、整理并输出由记者和编辑完成的新闻内容。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T10:08:36-04:00"
+            },
+            {
+              "title": "这些是我最喜欢的 Switch 2 配件",
+              "brief": "The Verge 汇总了作者最推荐的 Switch 2 配件，认为主机虽然开箱即可游玩，但搭配合适附件后体验会更完整。这篇导购主要面向刚入手设备、需要决定早期优先购买项的玩家。文中把保护壳和屏幕保护膜列为更接近必需品，用来减少刮擦、磕碰和跌落带来的损伤；如果不喜欢 Joy-Con 2 手感，还建议考虑价格不高但表现不错的无线手柄。",
+              "source_url": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T10:00:00-04:00"
+            },
+            {
+              "title": "Rivian 软件主管认为你不需要 CarPlay 或按键",
+              "brief": "Rivian 首席软件官 Wassym Bensaid 在一档播客中表示，汽车软件未来更应依赖 AI 驱动的语音控制，而不是 CarPlay 或大量实体按键。相关讨论的背景，是 Rivian 与大众近 60 亿美元的平台合资公司 RV Tech 已运作约一年半。Bensaid 负责未来大众系电动车的操作系统和电子架构，并谈到 Rivian 专有软件与双方共享核心技术之间的边界。",
+              "source_url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-05-28T10:00:00-04:00"
+            },
+            {
               "title": "小米 17T Pro 发布，配备该公司迄今最大电池",
               "brief": "小米发布17T和17T Pro，作为17系列旗舰的更便宜版本，延续T系列更重性能、较少强调影像的产品思路。两机搭载小米迄今在中国以外市场推出的最大电池，17T为6500mAh硅碳电池，17T Pro为7000mAh，实测可用约两天；更大容量过去只见于中国市场机型或部分Poco机型，两款新机也都采用联发科天玑芯片。",
               "source_url": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
               "source_name": "The Verge",
               "published_at": "2026-05-28T09:00:00-04:00"
-            },
-            {
-              "title": "Oura Ring 5终于做得更小更轻",
-              "brief": "Oura正式带来更小、更轻的新一代Oura Ring 5，并预告还会同步推出大量软件更新，不只改硬件。这款智能戒指长期主打健康与睡眠追踪，但外形尺寸和佩戴负担一直是用户关注点，因此轻量化成为这次升级的核心。除机身调整外，Oura还将加入包括GLP-1相关洞察在内的多项新功能，把此次更新同时落在佩戴体验与软件能力两端。",
-              "source_url": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T08:00:00-04:00"
-            },
-            {
-              "title": "起亚旗舰电动车EV9出现电池问题",
-              "brief": "起亚旗舰电动车EV9被曝存在电池问题，其大容量电池的可靠性正受到质疑。问题之所以引发关注，是因为EV9定位为三排座旗舰SUV，而大电池本应是其核心卖点之一，却在日常使用中出现彻底没电、车辆无法解锁等故障，直接影响基本用车。报道提到，作者去年就曾遇到车辆停在自家车道上完全失去响应，实体钥匙和手机应用都无法连接。",
-              "source_url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T08:00:00-04:00"
-            },
-            {
-              "title": "Temu因销售非法商品被欧盟罚超2.3亿美元",
-              "brief": "欧盟委员会因Temu平台销售非法商品，对其处以2亿欧元、约合2.32亿美元罚款。背景是欧盟依据《数字服务法》调查平台是否充分识别并评估非法商品带来的系统性风险，Temu早在2024年10月就已被正式立案。委员会称，消费者在Temu上“极有可能”接触到违法商品，调查还发现通过神秘买家购买的电子设备充电器中有“非常高比例”存在问题。",
-              "source_url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T07:47:40-04:00"
-            },
-            {
-              "title": "Google Home版Gemini现可用摄像头触发自动化",
-              "brief": "Google Home开始推出由Gemini驱动的新自动化功能，可根据安防摄像头识别到的画面触发智能家居流程。其背景是Gemini for Home自去年10月开启抢先体验后，谷歌正继续扩展语音控制和稳定性等能力。此次新增的“启动条件”允许用户基于视觉洞察设计自动化，例如摄像头识别到你带着瑜伽垫回家后，自动调暗灯光并播放放松音乐。",
-              "source_url": "https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T07:07:17-04:00"
             }
           ]
         }
@@ -294,45 +294,59 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "英特尔在 Computex 2026 发布新款掌机游戏 PC 芯片",
+              "brief": "英特尔在Computex 2026公布面向掌机游戏PC的新芯片G3 Extreme，并同步推出定位更低的Arc G3，准备在未来几个月进入新机型。这是其与AMD Ryzen Z系列竞争的新一步，其中G3 Extreme配备14核CPU和12核Arc B390显卡、2.3GHz频率，官方预期可在低到中画质下运行多数3A游戏并超过60帧，宏碁Predator Atlas 8已确认采用该芯片。",
+              "source_url": "https://www.ign.com/articles/intels-new-handheld-gaming-pc-chips-are-here-at-computex-2026",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T21:06:53+08:00"
+            },
+            {
+              "title": "《动物园之星 2》今年发售，将加入飞行动物和水生动物",
+              "brief": "Frontier宣布《动物园之星2》将于10月13日登陆PC、PlayStation 5和Xbox Series X/S，距离前作推出已近七年。新作被称为在动画与动物行为上的一次代际跃升，并将更强调保育玩法，包括修复自然栖息地和放归动物。已公开物种涵盖黑鳍礁鲨、玳瑁海龟、鱼群、巨嘴鸟和秘书鸟，标准版售价49.99美元，豪华版还将追加6种动物。",
+              "source_url": "https://www.ign.com/articles/planet-zoo-2-coming-this-year-featuring-flying-and-aquatic-animals",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T21:00:43+08:00"
+            },
+            {
+              "title": "Steam Deck 大幅涨价后再次售罄",
+              "brief": "Valve的Steam Deck在大幅涨价后再次售罄，补货后不到24小时就被抢空。报道指出，游戏硬件整体正面临涨价压力，此前PlayStation 5也已上调价格，背景还包括持续的内存危机。Valve过去几周从中国接收了多批“游戏主机”货运，外界原以为可能与Steam Machine有关，但现在看来至少部分、甚至全部都是Steam Deck补货。",
+              "source_url": "https://www.ign.com/articles/the-steam-deck-is-sold-out-again-even-after-the-huge-price-rise",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T20:57:23+08:00"
+            },
+            {
+              "title": "Take-Two CEO：前 Rockstar 员工曾试图复制 GTA 成功但未做到",
+              "brief": "Take-Two首席执行官施特劳斯·泽尔尼克表示，许多人都尝试复制《GTA》的成功，其中也包括前Rockstar员工，但至今没人做到。这番话被普遍视为影射由前Rockstar老将Leslie Benzies创办团队推出的《MindsEye》，该作历经多年开发后因漏洞多、口碑差而失利并引发裁员。泽尔尼克还重申，Take-Two不会把核心系列做成年货，而是依赖真正有创造力的人做出爆款。",
+              "source_url": "https://www.ign.com/articles/take-two-boss-says-former-rockstar-employees-have-tried-to-match-gtas-success-and-failed-and-we-all-know-which-game-hes-talking-about",
+              "source_name": "IGN",
+              "published_at": "2026-05-28T20:15:46+08:00"
+            },
+            {
               "title": "CD Projekt强调《巫师3：往日之歌》是资料片，不是DLC",
               "brief": "CD Projekt公布《巫师3》新内容“往日之歌”后，连续强调它是“资料片”而非DLC，并引用伊德瑞斯·艾尔巴在IGN采访中的说法说明定义。公司称免费小内容才叫DLC，资料片则代表更大规模和更长流程。该作预计2027年登陆PS5、Xbox Series X|S和PC，距离2015年本体发售已12年，玩家将再次扮演杰洛特展开新冒险。",
               "source_url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-is-an-expansion-not-dlc-cd-projekt-insists-while-using-ign-interview-with-idris-elba-to-make-the-point",
               "source_name": "IGN",
               "published_at": "2026-05-28T19:46:53+08:00"
-            },
-            {
-              "title": "《Paralives》开发者解释为何不卖付费DLC",
-              "brief": "生活模拟游戏《Paralives》5月25日在Steam开启抢先体验后反响强劲，峰值同时在线78603人、5200多条评测中88%为好评。面对玩家追问，团队表示会优先强化角色自主行为，Steam创意工坊中的成人模组只要符合平台规范并正确标注即可。开发负责人Alex Massé还重申，游戏不会推出付费DLC，后续将以免费更新持续扩展内容。",
-              "source_url": "https://www.ign.com/articles/developer-of-steam-hit-life-sim-paralives-explains-how-it-can-manage-without-selling-paid-dlc",
-              "source_name": "IGN",
-              "published_at": "2026-05-28T18:58:36+08:00"
-            },
-            {
-              "title": "《指环王：力量之戒》第四季计划在第三季开播前启动前期制作",
-              "brief": "据《好莱坞报道》披露，Prime Video计划在今年启动《指环王：力量之戒》第四季前期制作，并于2027年初开拍，时间点甚至早于第三季上线。此举反映亚马逊希望缩短新季之间逾两年的等待，不过第四季尚未正式获批。该剧原本按五季规划推进，第三季将于2026年11月播出，故事来到精灵与索伦战争的高峰。",
-              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-season-4-pre-production-set-to-begin-before-season-3-airs",
-              "source_name": "IGN",
-              "published_at": "2026-05-28T18:48:02+08:00"
-            },
-            {
-              "title": "动视用韩国场景视频预热新《使命召唤：现代战争》公开",
-              "brief": "动视在《使命召唤》YouTube频道上线“Camera 04”直播画面，展示疑似设定在韩国都市区域的场景，并以数字线索为新作预热。画面中的26-06-07对应微软将于2026年6月7日举行的Xbox Games Showcase，04-13-26则可能拼出DMZ，令外界猜测公开临近。Infinity Ward已确认今年作品是新的《现代战争》，且不会登陆上世代主机。",
-              "source_url": "https://www.ign.com/articles/activision-teases-imminent-call-of-duty-modern-warfare-reveal-with-video-showing-korean-setting",
-              "source_name": "IGN",
-              "published_at": "2026-05-28T18:40:07+08:00"
-            },
-            {
-              "title": "泄露显示乐高 Smart Play 今夏将用于宝可梦套装",
-              "brief": "泄露图片显示，乐高今年夏季推出的多款宝可梦套装将加入 Smart Play 互动玩法。该技术年初亮相，目前仅在少数《星球大战》套装中使用，依靠 Smart Brick 与 NFC Smart Tag 在特定条件下触发声光反馈。此次曝光的套装包括卡拉卡拉对战耿鬼、胖丁演唱会、小火龙对战小拳石，以及喷火龙对战雷伊布；其中只有部分新品附带 Smart Brick，其余需借用现有积木核心才能启用互动。",
-              "source_url": "https://www.ign.com/articles/lego-smart-play-headed-to-pokemon-sets-this-summer-leaks-reveal",
-              "source_name": "IGN",
-              "published_at": "2026-05-28T17:53:57+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
+              "brief": "欧盟委员会依据《数字服务法》对Temu罚款2亿欧元，认定其未充分识别、分析和评估平台假冒伪劣商品带来的系统性风险，进而损害欧盟消费者。委员会称，抽检充电器中相当高比例未通过基本安全测试，部分婴儿玩具还存在化学物质超标或可拆卸部件导致的窒息风险。调查于2024年10月31日启动，2025年7月形成初步结果，5月28日公布处罚。",
+              "source_url": "https://www.solidot.org/story?sid=84428",
+              "source_name": "Solidot",
+              "published_at": "2026-05-28T20:59:59+08:00"
+            },
+            {
+              "title": "网站可通过分析 SSD 活动监视用户",
+              "brief": "研究人员披露名为FROST的新型浏览器侧信道攻击，网站只要让用户打开页面，无需任何交互，就能借助JavaScript和OPFS测量SSD部分I/O时序，从而识别其他标签页中打开的网站及正在运行的应用。随着浏览器愈发接近操作系统，新增特性也扩大了攻击面；不过该方法通常需要约1GB的OPFS文件，因此更容易被发现。",
+              "source_url": "https://www.solidot.org/story?sid=84427",
+              "source_name": "Solidot",
+              "published_at": "2026-05-28T20:43:59+08:00"
+            },
             {
               "title": "Last.fm 再次独立运营",
               "brief": "音乐平台Last.fm宣布再次独立运营，称虽然所有权已经变更，但用户每天使用的产品不会改变。这家成立于2002年的服务依托Audioscrobbler根据收听数据生成个人音乐品味档案，官方强调账号和相关品味数据都维持原样；它曾在2007年被CBS Interactive以2.8亿美元收购，而后者如今已并入Paramount Skydance。",
@@ -353,20 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=84424",
               "source_name": "Solidot",
               "published_at": "2026-05-28T16:32:46+08:00"
-            },
-            {
-              "title": "Google员工被控利用内部数据在Polymarket获利120万美元",
-              "brief": "Google安全工程师Michele Spagnuolo被控利用公司未公开搜索数据，在预测市场Polymarket下注并获利120万美元，已于周三被捕，后以225万美元保释。调查称他可访问包含年度搜索数据的内部工具；平台观察者去年12月注意到账户AlphaRaccoon在相关市场存在可疑交易，Google表示正配合调查，并称其行为违反公司政策。",
-              "source_url": "https://www.solidot.org/story?sid=84423",
-              "source_name": "Solidot",
-              "published_at": "2026-05-28T16:04:46+08:00"
-            },
-            {
-              "title": "伊朗石油设施遇袭释放的污染堪比一次火山喷发",
-              "brief": "武汉大学和中国气象局团队利用风云卫星与哨兵卫星量化了3月伊朗石油设施遇袭后的二氧化硫排放，重点评估油库燃烧带来的强刺激性污染及居民健康风险。空袭重创德黑兰周边多处油库和炼油厂，Shahran油库受损最严重，并引发有毒烟雾。研究显示当地二氧化硫浓度由0.8DU升至2.0DU，总排放约2.98×10⁴吨，影响范围约3.0×10⁵平方公里。",
-              "source_url": "https://www.solidot.org/story?sid=84422",
-              "source_name": "Solidot",
-              "published_at": "2026-05-28T15:43:55+08:00"
             }
           ]
         },
@@ -433,39 +433,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "比亚迪发布超级智能体“迪迪虾”",
-              "brief": "比亚迪发布车载“超级智能体”迪迪虾，定位让汽车从被动语音助手升级为可陪伴、理解并执行任务的主动型 AI 助理，建立在整车智能体系之上。现场演示显示，它可连续对话、记忆偏好、理解模糊表达，并联动空调、导航、补能、订餐、外卖等服务；官方还称其支持多语言和方言，并采用 AIOS、智能体引擎与 Agent 开放平台的全链路架构。",
-              "source_url": "https://www.ithome.com/0/956/784.htm",
+              "title": "壹号掌机发布 OneXPlayer 3：支持三形态切换，搭载锐炫 G3 Extreme",
+              "brief": "壹号掌机公布OneXPlayer 3，这是一款可在掌机、分体手柄与小型键盘设备间切换的新品，面向需要多场景操控的游戏用户。产品手柄部分配有透明键帽、微动ABXY、电容摇杆、双切扳机和可更换十字键，并可通过无线连接基架合并为标准控制器，还能借助Pogo Pin与磁吸系统连接带触控板和背光的配套键盘，本体背部集成支架可在连接键盘后提供支撑。",
+              "source_url": "https://www.ithome.com/0/956/812.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-28T20:57:36+08:00"
+              "published_at": "2026-05-28T22:51:46+08:00"
             },
             {
-              "title": "微信 iOS 版 8.0.74 正式版发布",
-              "brief": "IT之家发布了微信 iOS 版 8.0.74 最新官方正式版下载信息，文章重点仅在于这一版本已发布，面向 iPhone 用户提供正式版更新。正文未给出更新日志，只留下“评论区供大家参考”的提示，没有说明新增功能、修复项目或兼容性变化，页面其余内容主要是站内声明、纠错入口以及与微信相关的延伸阅读链接。",
-              "source_url": "https://www.ithome.com/0/956/783.htm",
+              "title": "赵长江：智界 V9 将首批升级华为乾崑智驾 ADS 5",
+              "brief": "赵长江表示，智界V9将成为首批升级华为乾崑智驾ADS 5的车型，意味着这款MPV会率先接入华为新一代智能驾驶方案。该系统采用面向自动驾驶的WEWA 2.0架构，配备60EFLOPS云端AI算力与五重冗余，并结合38个传感器组成的融合感知系统，其中包括896线双光路图像级激光雷达；首批交付时间定在6月初。",
+              "source_url": "https://www.ithome.com/0/956/810.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-28T20:46:17+08:00"
+              "published_at": "2026-05-28T22:35:22+08:00"
             },
             {
-              "title": "苹果 iOS 27 全新 Siri 界面示意图曝光",
-              "brief": "一份关于 iOS 27 的爆料配合示意图展示了苹果全新 Siri 界面，核心变化是把 Siri 更深整合进灵动岛，并新增搜索/问答入口，为 WWDC26 正式发布预热。报道称用户可通过语音、长按电源键或从顶部中间下滑调出界面，结果会以富文本卡片显示；同时苹果还在测试接入第三方 AI 助手，通知中心手势也调整为从左上角下滑打开。",
-              "source_url": "https://www.ithome.com/0/956/782.htm",
+              "title": "理想汽车公布出海计划：i6 下半年进入欧洲，右舵 MEGA 年底登陆新加坡和香港",
+              "brief": "理想汽车披露新一阶段海外布局，明确将在不同区域投放不同车型，推进国际化节奏。按计划，5月起将陆续进入中国澳门、柬埔寨、老挝和缅甸，中东与中亚主推L系列增程车型，经过本地化优化的全新L9将于今年第三季度落地；欧洲市场下半年迎来纯电i6，右舵版MEGA则将在年底进入新加坡和中国香港。",
+              "source_url": "https://www.ithome.com/0/956/809.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-28T20:42:42+08:00"
+              "published_at": "2026-05-28T22:33:50+08:00"
             },
             {
-              "title": "法拉利 CEO：首款电动车 Luce 已获新老客户下订",
-              "brief": "法拉利 CEO 维尼亚表示，首款纯电车型 Luce 已获得现有客户和新客户下订，回应了外界对这款车的持续关注与争议。作为法拉利从传统燃油跑车迈向纯电的重要产品，Luce 的设计和品牌方向此前引发不少讨论。维尼亚称，只有亲眼看到并亲自驾驶，才能理解它在内饰、外观和性能上的独特性，并强调最终成败仍将由客户决定。",
-              "source_url": "https://www.ithome.com/0/956/781.htm",
+              "title": "联想预热 ThinkBook X AI 2026 笔记本：约 1 千克，厚度 12.9 毫米",
+              "brief": "联想为ThinkBook X AI 2026笔记本开启预热，先行公布了整机重量与厚度等核心参数，显示该机继续强调轻薄便携定位。现有信息显示，新品约重1千克、厚度12.9毫米，配备14英寸屏幕，文中还提到其可能会有归属昭阳系列的姊妹机型，其余配置细节暂未在此次内容中展开。",
+              "source_url": "https://www.ithome.com/0/956/807.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-28T20:31:00+08:00"
+              "published_at": "2026-05-28T22:30:07+08:00"
             },
             {
-              "title": "比亚迪发布自研 4nm 智驾芯片璇玑 A3",
-              "brief": "比亚迪发布自研 4nm 智驾芯片“璇玑 A3”，称其为中国首款支持 L3、L4 自动驾驶的车规级先进制程智驾芯片，意味着辅助驾驶软硬件进一步走向全链路可控。王传福介绍，比亚迪自 2002 年组建芯片团队，现已推出 2000 多款芯片产品，拥有 5 座晶圆工厂和超 7000 人研发团队，并表示结合自研算法后，算力利用率提升了 100%。",
-              "source_url": "https://www.ithome.com/0/956/780.htm",
+              "title": "宏碁发布 Predator Atlas 8 掌机：8 英寸 FHD+ 120Hz 触控屏",
+              "brief": "宏碁推出Predator Atlas 8掌机，进一步扩充基于新一代掌机平台的产品线，重点放在显示、散热和扩展配置。该机配备8英寸FHD+ 120Hz、500尼特十点触控IPS屏幕，覆盖100%sRGB，支持VRR，并采用Victus玻璃和DXC镀膜；最高可选24GB LPDDR5X-7467内存，提供PCIe Gen4 M.2 2280位、双风扇散热、60Wh或80Wh电池，机身重770克起。",
+              "source_url": "https://www.ithome.com/0/956/805.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-28T20:21:28+08:00"
+              "published_at": "2026-05-28T22:22:17+08:00"
             }
           ]
         },
