@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T16:54:29.214399+08:00",
+  "generated_at": "2026-05-29T18:57:17.754198+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 18 Pro 相机升级将让苹果成本增加 50%",
+              "brief": "供应链分析师郭明錤称，iPhone 18 Pro 与 Pro Max 的全新可变光圈镜头，会让苹果主摄所用组件的平均采购价较现款提高约50%。这项功能自2024年底传出后，已被多份报告印证，并据称在今年稍早进入生产。相较14 Pro到17 Pro一直使用的固定f/1.78光圈，新镜头可通过调节开口大小控制进光量，提升曝光控制与景深灵活性，舜宇光学预计将承担40%到50%的订单。",
+              "source_url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
+              "source_name": "MacRumors",
+              "published_at": "2026-05-29T18:44:01+08:00"
+            },
             {
               "title": "Anthropic 推出 Claude Opus 4.8，编程与诚实度提升",
               "brief": "Anthropic 发布新模型 Claude Opus 4.8，称其在代理式编程、多学科推理、计算机操作、知识工作和金融分析上都有提升，并更适合充当协作伙伴。该版本重点强调可靠性与诚实度，早期测试者称它更常主动标注不确定性、减少无依据断言；官方还称其在 SWE-Bench Pro 上得分 69.2%，并新增可规划大型任务的动态工作流、响应 effort control，同时更快且更便宜。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/",
               "source_name": "MacRumors",
               "published_at": "2026-05-29T00:48:23+08:00"
-            },
-            {
-              "title": "Oura Ring 5发布：机身更小并支持血压追踪",
-              "brief": "Oura发布新一代智能戒指Oura Ring 5，机身较前代缩小40%，并新增血压趋势检测、夜间呼吸分析和GLP-1药物追踪等健康功能。公司称，这一缩小来自机械、电气、光学、电池与传感架构的整体重设计，同时续航仍维持约一周；新系统还改进了皮肤接触、LED与信号通路，美国用户还可导入健康记录，并在43个州通过应用内服务咨询健康问题和连接持证医生。",
-              "source_url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
-              "source_name": "MacRumors",
-              "published_at": "2026-05-29T00:22:04+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Google Photos 或将为“回忆”带来更多编辑工具",
-              "brief": "Google正在测试Google Photos“回忆”视频的更多编辑能力，让用户在分享前先细调内容，而不再只限于勾选照片或决定是否保留自动配乐。回忆功能会按日期、人物和场景整理素材，新流程则复用了现有Highlight视频编辑器，可控制音频、文字叠加和单张照片停留时长；报道还称Highlight视频本身也可能新增两项更适合处理图片的功能。",
-              "source_url": "https://www.androidauthority.com/google-photos-memories-edit-3672506/",
+              "title": "Google 让 Gemini 聊天、媒体等内容更易与团队共享",
+              "brief": "Google 宣布 Workspace 用户很快可在 Gemini 中借助 Google Drive 分享聊天、画布和创作内容。此举把 Drive 的共享技术和熟悉界面引入 Gemini，相比任何人都可访问的公开链接方式，更适合团队协作且权限控制更细。共享内容仅是当时的对话快照，接收者后续修改会在新聊天中进行；功能默认开启，管理员可在控制台禁用或分别管理链接分享与 Drive 分享，6 月 3 日面向终端用户开放。",
+              "source_url": "https://www.androidauthority.com/gemini-sharing-google-drive-3672575/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T16:47:13+08:00"
+              "published_at": "2026-05-29T18:48:05+08:00"
             },
             {
-              "title": "Google 或已修复意外耗尽 Gemini 使用额度的问题",
-              "brief": "Google表示正修复Gemini额度过快耗尽的问题，以回应AI Pro用户最近频繁提前触顶的抱怨，并让不同任务的计量方式更可预期。调整包括修复Omni视频生成异常吞额度的漏洞、改变重度使用的计算方式，并明确失败请求和Flash-Lite提示词都不计入限额；同时会细化深度研究用量展示，且Ultra订阅的Omni视频生成次数将立即翻倍。",
-              "source_url": "https://www.androidauthority.com/gemini-usage-limit-changes-3672488/",
+              "title": "One UI 9 借鉴 iPhone 的通话记录整合功能",
+              "brief": "三星正在 One UI 9 的原生电话应用中加入来自其他应用的通话记录显示。此前 iPhone 的电话应用已能把 WhatsApp、Telegram 或 Meet 等通话与普通来电统一列出，如今 Android 也正朝同一方向推进。截图显示，三星拨号器已可显示 Google Meet 和 WhatsApp 通话记录，Galaxy S26 上的 One UI 9 Beta 2 也已确认存在该选项，用户还能在设置中关闭这类整合。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-iphone-call-feature-3672552/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T16:43:36+08:00"
+              "published_at": "2026-05-29T18:39:19+08:00"
             },
             {
-              "title": "这台便宜的旋转式安卓掌机很有趣，但握持并不舒服",
-              "brief": "ANBERNIC推出的RG Rotate以低价、小巧机身和可旋转方屏带来很不一样的Android掌机体验，但评测认为它的代价也很直接。该机借鉴早年旋转滑盖思路，屏幕掀开后露出实体按键，开合手感和“啪嗒”声都很有趣；不过舒适度不足、没有摇杆且续航偏短，缓慢打开时屏幕还偶尔会略微错位，因此新鲜感并未完全转化为实用性。",
-              "source_url": "https://www.androidauthority.com/anbernic-rg-rotate-review-3665035/",
+              "title": "Oura Ring 5 的最大失误：充电盒仍需另购",
+              "brief": "Oura Ring 5 已正式发布，产品本身带来更小体积、血压信号监测和更耐刮设计，但作者认为其最大问题出在充电方案。此前 Oura 为 Ring 4 推出的充电盒作为新增配件单独售卖尚可理解，如今 Ring 5 定价已达 399 美元，却仍只标配充电底座，想要充电盒还得再付 99 美元。对比之下，文中提到的三星 Galaxy Ring 和 Luna Ring 2 都把充电盒作为随盒配件提供。",
+              "source_url": "https://www.androidauthority.com/biggest-mistake-oura-making-oura-ring-5-charging-case-3671189/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T16:30:08+08:00"
+              "published_at": "2026-05-29T18:30:40+08:00"
             },
             {
-              "title": "ChatGPT 正为安卓用户开发一批新功能",
-              "brief": "OpenAI正在为Android版ChatGPT开发一批新功能，重点是解决长对话检索和界面整理不便的问题。测试中的“在聊天中查找”可直接在当前线程搜索文本，补上手机端缺少网页Ctrl+F式体验的短板；此外，应用还在调整加号菜单与Library，新增Plugins分组、列表/网格视图、多选文件以及从Library附加图片等选项。",
-              "source_url": "https://www.androidauthority.com/chatgpt-working-new-features-android-3672476/",
+              "title": "Verizon 用户欠费 400 美元却获意外减免",
+              "brief": "一名 Verizon 用户称，自己因约 400 美元账单拖欠两到三个月、服务也停了约两个月后，运营商突然恢复了两条线路。背景是当前经济环境下，用户逾期后通常会被停机，而这次处理方式明显不同。随后用户收到短信和邮件，内容称 Verizon 将临时用抵扣额覆盖逾期欠款，只要在下个月按时全额支付新账单，先前余额就会被永久免除；报道也提醒，这并不意味着所有人都会得到同样待遇。",
+              "source_url": "https://www.androidauthority.com/verizon-user-owed-400-surprise-3672492/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T15:47:45+08:00"
+              "published_at": "2026-05-29T18:20:08+08:00"
             },
             {
-              "title": "Galaxy Z Fold 8 的折痕问题或许真有改善",
-              "brief": "最新爆料称，三星Galaxy Z Fold 8系列内屏折痕可能比先前预期更轻，显示效果据称可达到OPPO Find N6那样“很惊艳”的水准。这与同一消息源本月早些时候“改进不大”的说法相反，后者现在解释那指的是早期版本，而最新版本的折痕控制已明显提升；该系列预计包含两款折叠机，最早可能于7月亮相。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-crease-3672471/",
+              "title": "Fitbit Air 评测：极简无屏追踪器的吸引力",
+              "brief": "Google 推出的 Fitbit Air 是一款主打被动健康与健身监测的无屏轻量手环，售价 99 美元，作者在连续佩戴数周后认为其整体表现扎实。背景是健身手环近年要么变成小型智能手表，要么转向强调恢复的健康设备，而 Air 试图回到更省心的被动追踪路线。文中称其佩戴舒适、睡眠追踪和续航表现突出，但也指出它没有内置 GPS、心率精度只是不错而非顶尖，自动识别锻炼的范围也有限。",
+              "source_url": "https://www.androidauthority.com/google-fitbit-air-review-3671325/",
               "source_name": "Android Authority",
-              "published_at": "2026-05-29T15:29:21+08:00"
+              "published_at": "2026-05-29T18:15:29+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Adobe 的对话式 AI 助手像个平庸的设计实习生",
+              "brief": "Adobe正在测试 Firefly AI Assistant 测试版，这是一款可通过对话代为操作其设计应用的图像助手。它并非直接替你生成或修改图片、视频，而是像多任务中间人一样接管部分繁琐步骤，尽量让用户继续保有创作控制。体验显示，这类图像 AI 很少让人觉得自己真正参与了创作，而它至少能把编辑过程解释得很清楚；但最终效果仍不如专业设计师或修图师，整体表现只能算一般。",
+              "source_url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+              "source_name": "The Verge",
+              "published_at": "2026-05-29T06:00:00-04:00"
+            },
+            {
               "title": "蓝色起源爆炸拖慢 NASA 登月计划和亚马逊对标星链项目",
               "brief": "蓝色起源新格伦火箭在佛州发射场进行热试车时于当地周四晚约9点爆炸，并引发巨大火球，严重损坏其唯一的新格伦发射台。这意味着蓝色起源短期内发射能力受限，连带拖慢NASA月球基地计划，以及亚马逊刚起步的近地轨道卫星互联网部署。事故发生时火箭高322英尺，助推级7台发动机点火固定测试，公司称原因仍在调查，维修可能需要数月。",
               "source_url": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
               "source_name": "The Verge",
               "published_at": "2026-05-28T16:10:09-04:00"
-            },
-            {
-              "title": "摩托罗拉上一代 Razr Ultra 几乎半价",
-              "brief": "摩托罗拉上一代 Razr Ultra 成为本轮折扣主角，512GB 解锁版在 Best Buy 降至 699.99 美元，较 1299.99 美元原价几乎腰斩，亚马逊则仅绿色款同价开卖。背景是 2026 款 Razr Ultra 已上市，虽然旧款没有新机的 Alcantara 材质，但外观几乎相同，如今便宜数百美元，价格也下探到更接近高性价比手机区间，文中还提到 Roborock 扫拖机器人和 AirPods Max 2 也在打折。",
-              "source_url": "https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-05-28T14:33:08-04:00"
             }
           ]
         },
@@ -320,39 +320,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "蓝色起源新格伦火箭爆炸 波及NASA登月与亚马逊星座计划",
-              "brief": "蓝色起源“新格伦”火箭在发射场点火测试时爆炸，火球和冲击波重创设施。事故打乱NASA近期月球着陆器发射安排，也影响亚马逊Leo卫星组网节奏。贝索斯称原因尚待调查，消息人士称运输竖立装置和一座防雷塔或已报废，业内预计2026年内再飞几无可能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1564042.htm",
+              "title": "三线城市网约车司机日均仅15单、营收约200元",
+              "brief": "报道聚焦连云港网约车司机收入下滑：不少人每天在线十多个小时，日均仅10至15单、营收约200元，实际到手两百多元。当地近年多次发布运力饱和预警，称市区约3000辆网约车与1000辆出租车已接近上限，而疲劳驾驶新规最终明确不涉及出租汽车和网约车。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564052.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-29T16:13:38+08:00"
+              "published_at": "2026-05-29T18:30:51+08:00"
             },
             {
-              "title": "加州通过数字游戏停服保护法案",
-              "brief": "加州通过AB 1921，要求数字游戏发行商在官方停服后继续提供玩家可游玩的必要条件，若无法维持则需退款。这是“停止扼杀游戏”运动推动的最新成果。法案适用于2027年1月1日后推出的新作和重发行版本，不涵盖订阅制、免费游戏及离线单机，并要求停服前至少提前60天公告。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1564040.htm",
+              "title": "2015年任天堂世锦赛冠军拍卖宫本茂签名3DS",
+              "brief": "2015年任天堂世锦赛冠军戈德堡把当年获得的宫本茂亲笔签名版3DS挂上eBay拍卖，成交竞价已升至约2万美元。戈德堡称热度超出预期，为避免运输意外希望亲自交付；他展示了冠军奖杯以证明身份，但明确表示奖杯不出售，而同届亚军也有同款签名3DS。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1564050.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-29T15:34:50+08:00"
+              "published_at": "2026-05-29T18:30:36+08:00"
             },
             {
-              "title": "欧盟牌照新规将至 法国警告无证加密公司或遭起诉",
-              "brief": "法国金融市场管理局警告，未在欧盟MiCA最后期限前取得牌照却继续招揽客户的加密资产公司，可能被列入黑名单并遭执法乃至起诉。此举源于欧盟正把加密行业纳入统一监管框架。按规则，企业在一个成员国获批后可借“护照”机制全欧展业，但法国称若不认可他国决定，准备阻止相关牌照在本国生效。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564038.htm",
+              "title": "诺基亚发布首款微聊手机 售价199元",
+              "brief": "诺基亚发布首款“微聊手机”，主打通过微信小程序进行视频通话，并提供群组聊天、电子围栏和定位等互联功能。该机面向基础通信场景，配备2.4英寸屏幕、1450mAh电池、大图标、大按键、9级大音量外放，支持双卡双待和4G全网通；因芯片限制暂不支持WiFi，后续机型预计下半年推出。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564048.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-29T13:23:53+08:00"
+              "published_at": "2026-05-29T18:28:23+08:00"
             },
             {
-              "title": "Steam Deck OLED北美补货后24小时内售罄",
-              "brief": "Valve补货后的Steam Deck OLED在北美上架仅24小时就再次售罄，欧洲和由Komodo负责的东亚市场仍可购买。产品迅速重返Steam美国区热销榜榜首，显示长期缺货后被压抑的需求集中释放。报道同时提到，关键组件与PC硬件成本上升正推高涨价预期，但Valve尚未说明后续是否还会调整售价。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1564036.htm",
+              "title": "泡泡玛特大涨 段永平单日账面盈利近10亿港元",
+              "brief": "泡泡玛特股价大涨后，段永平相关持仓单日账面盈利接近10亿港元。此前披露显示，其与一致行动人合计持有76371600股、持股比例5.69%，已成为公司第二大股东并触发强制披露。公司5月12日公布，一季度整体收益同比增长75%至80%，其中线上渠道收入同比增幅达150%至155%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564046.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-29T13:20:03+08:00"
+              "published_at": "2026-05-29T18:28:06+08:00"
             },
             {
-              "title": "新研究揭示精子在微观流体中的游动机制",
-              "brief": "新研究提出“奇异弹—流体动力学”框架，解释精子如何在高黏性流体中持续前进，看似绕开日常直觉中的作用与反作用对称。背景是微观尺度下惯性几乎失效，单纯可逆摆动无法产生净位移。模型结合人类精子和衣藻鞭毛数据后显示，内部主动驱动产生行进波，被动弹性则负责稳定和放松波形。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1564034.htm",
+              "title": "SpaceX据称将IPO估值下调至1.8万亿美元",
+              "brief": "报道称，SpaceX拟将IPO目标估值下调至1.8万亿美元，但仍可能成为史上最大规模IPO。公司已于5月20日向SEC提交S-1，计划以“SPCX”为代码上市，最早6月初启动推介。招股书显示其已并入xAI，业务分为航天、卫星互联网和AI三部分，其中星链贡献主要收入，而AI板块亏损和高额资本开支被列为重要风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1564044.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-05-29T13:18:24+08:00"
+              "published_at": "2026-05-29T16:59:01+08:00"
             }
           ]
         },
@@ -360,39 +360,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "广汽高域 GOVY AirCab 飞行汽车首机下线",
-              "brief": "广汽高域宣布多旋翼飞行汽车 GOVY AirCab 首机下线，广州工厂已形成从零部件配套、整机装配到性能检测和成品交付的全流程智能制造体系。产品已取得 AS9100D 航空质量管理体系认证，并完成全机静力、系统耐久、电磁兼容等关键试验。该双座机型主打低空文旅出行，官方指导价不超过 168 万元，支持 25 分钟快充和 L4 级智能驾驶。",
-              "source_url": "https://www.ithome.com/0/957/250.htm",
+              "title": "北京奔驰召回58辆国产汽车，涉及C级、EQE、GLC等车型",
+              "brief": "北京奔驰宣布召回58辆国产汽车，涉及C 200 L、C 260 L、EQE 350、EQE 500、EQE SUV 350、EQE SUV 500 L及GLC 260 L、GLC 300 L等车型。相关车辆配备方向盘加热功能，因转向柱控制模块电气连接不良，在频繁使用加热并叠加行驶振动时，可能造成喇叭、多功能按键和部分驾驶辅助功能无法正常工作。企业将免费更换该模块。",
+              "source_url": "https://www.ithome.com/0/957/334.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-29T16:51:32+08:00"
+              "published_at": "2026-05-29T18:50:21+08:00"
             },
             {
-              "title": "Omdia：2026 年第一季度美国智能手机市场下滑 3%，苹果三星摩托罗拉居前三",
-              "brief": "Omdia 报告称，2026 年第一季度美国智能手机市场出货量同比下降 3% 至 3340 万部，苹果、三星和摩托罗拉位列前三。市场承压与运营商套餐升级更保守、存储与内存成本上升以及部分高端机型发布推迟有关。苹果虽下滑仍居首，三星受 Galaxy S26 延后影响下降 5%，摩托罗拉则凭新版 Moto G 系列逆势增长 18%。",
-              "source_url": "https://www.ithome.com/0/957/248.htm",
+              "title": "现代汽车召回278辆进口帕里斯帝，涉仪表卡顿与安全带状态误判",
+              "brief": "现代汽车（中国）宣布召回278辆进口帕里斯帝，分别处理第三排安全带状态误判和仪表显示异常两类隐患。其中250辆因线束长度设计问题，拉拽安全带卡扣时可能导致断线，在未佩戴安全带时仪表仍显示已佩戴；另有28辆因仪表控制器电源管理芯片异常，可能出现显示卡顿或后侧方界面绿屏。官方将检查并修复线束，同时升级仪表盘控制器软件。",
+              "source_url": "https://www.ithome.com/0/957/333.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-29T16:50:20+08:00"
+              "published_at": "2026-05-29T18:43:16+08:00"
             },
             {
-              "title": "飞利浦发布 27 英寸显示器 27M4P5501U：2K 340Hz，售价 1299 元",
-              "brief": "飞利浦推出 27 英寸显示器 27M4P5501U，主打 2K 340Hz 规格，券后售价 1299 元。该产品面向高刷新率显示需求，支持 10-Bit 色彩，覆盖 100% sRGB、98% DCI-P3 和 95% AdobeRGB 色域。接口提供 2 个 HDMI 2.1、1 个 DP 1.4 和 3.5mm 音频口，支架支持升降、倾斜和旋转，并兼容 VESA 壁挂。",
-              "source_url": "https://www.ithome.com/0/957/242.htm",
+              "title": "联想来酷斗战者战25Q显示器首销：24.5英寸2K、300Hz超频，999元",
+              "brief": "联想来酷斗战者“战25Q”24.5英寸显示器开启首销，定价999元，主打2K分辨率与300Hz超频刷新率，面向电竞场景。产品支持VRR可变刷新率，提供99% sRGB和95% DCI-P3色域覆盖，并支持10bit（8bit+FRC）10.7亿色显示与硬件低蓝光。接口方面配备双HDMI 2.1 FRL、DP 1.4和音频接口，规格信息已同步公布。",
+              "source_url": "https://www.ithome.com/0/957/331.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-29T16:48:16+08:00"
+              "published_at": "2026-05-29T18:39:17+08:00"
             },
             {
-              "title": "弱水时砂“浩天使”四模电竞头戴耳机开售，239 元",
-              "brief": "弱水时砂“浩天使”四模电竞头戴耳机开售，售价 239 元，重量约 292 克。新品采用升级版 2.4G-R Pro 传输方案，全链路延迟低至 30ms，并搭载为游戏调校的 HR2 Gaming Series 单元、50mm 动圈和双电竞级 DAC 芯片。耳机支持自定义 EQ，配备高弹性海绵耳罩，蓝牙模式下最长续航可达 235 小时。",
-              "source_url": "https://www.ithome.com/0/957/240.htm",
+              "title": "倍思随身充45W自带双线充电宝开售：10000mAh，219元",
+              "brief": "倍思发售“随身充”45W自带双线充电宝，售价219元，内置手提式快充线和伸缩线，容量10000mAh，主打外出便携，提供钛色、蓝色、白色可选。产品另配一个USB-A接口，整机约重230克。规格上，USB-C口单独输出最高45W，USB-A口最高33W，多口同时输出最高15W，输入功率最高30W。",
+              "source_url": "https://www.ithome.com/0/957/324.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-29T16:46:13+08:00"
+              "published_at": "2026-05-29T18:31:18+08:00"
             },
             {
-              "title": "微信鸿蒙版 8.0.18.33 尝鲜更新上线，新增折叠屏与平板分栏显示",
-              "brief": "微信鸿蒙版 App 在应用市场上线 8.0.18.33 尝鲜更新，新增折叠屏和平板分栏显示等功能，测试时间为 2026 年 5 月 29 日至 6 月 28 日。除官方所称修复已知问题外，用户反馈还包括聊天图片和视频横屏旋转、长按文字消息新增搜一搜、通讯录区分服务号与公众号，以及新增授权管理等变化。",
-              "source_url": "https://www.ithome.com/0/957/237.htm",
+              "title": "高通骁龙C系列PC处理器规格曝光：6nm、八核CPU、32位内存位宽",
+              "brief": "消息人士称，高通骁龙C系列PC处理器代号“Kenai”，定位PC平台新品，采用6nm工艺，CPU微架构不基于Oryon IP。爆料显示，该芯片配备1+3+4共八个CPU核心和900MHz Adreno GPU，支持32-bit LPDDR5内存，可提供2条PCIe Gen3通道，封装尺寸为14mm×12mm。",
+              "source_url": "https://www.ithome.com/0/956/913.htm",
               "source_name": "IT之家",
-              "published_at": "2026-05-29T16:44:02+08:00"
+              "published_at": "2026-05-29T18:28:22+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《007：First Light》如何为续作铺路",
+              "brief": "《007：First Light》结局明确为续作铺路：邦德在重重反转中查清军情六处AI“忒伊亚”被操纵的阴谋，并阻止其创造者尼古拉斯·韦布借技术牟利、损害军情六处与政府信誉。故事却没有收尽所有线索，身份不明的伊索拉先后接近并背叛邦德，杀死韦布后夺走镜像AI“许珀里翁”的核心；最终M授予邦德“007”代号，游戏以“詹姆斯·邦德将归来”结束。",
+              "source_url": "https://www.ign.com/articles/how-007-first-light-sets-up-a-sequel",
+              "source_name": "IGN",
+              "published_at": "2026-05-29T17:48:02+08:00"
+            },
+            {
+              "title": "微软回应《天外世界》“免费”升级争议",
+              "brief": "《天外世界》升级资格引发混乱。开发商此前表示，5月27日前已拥有基础版的玩家可免费升级到“太空人精选版”，同时基础版会在当日下架，之后主机平台仅保留新版发售。但在优惠生效当天，PS4数字版与Xbox One玩家发现仍被要求拥有两部DLC；Obsidian致歉称受平台限制影响，这两类用户必须补齐DLC才符合升级条件，并建议联系支持团队。",
+              "source_url": "https://www.ign.com/articles/microsoft-responds-to-the-outer-worlds-free-upgrade-confusion",
+              "source_name": "IGN",
+              "published_at": "2026-05-29T17:43:29+08:00"
+            },
+            {
+              "title": "汤姆·霍兰德谈MCU蜘蛛侠未来，暗示为迈尔斯铺设下一章",
+              "brief": "汤姆·霍兰德谈及MCU蜘蛛侠后续时表示，新片《蜘蛛侠：全新一天》更像新篇章的第一部，而不是传统意义上的第四部，核心是彼得·帕克经历一次个人重塑。更长远来看，他还透露自己已经想过这个版本蜘蛛侠如何离开MCU：在完成交接后，引入新的蜘蛛侠或蜘蛛女接班，其中也包括为迈尔斯·莫拉莱斯铺设下一阶段的发展空间。",
+              "source_url": "https://www.ign.com/articles/tom-holland-talks-mcu-spider-man-future-teases-setting-up-the-next-chapter-for-miles-morales",
+              "source_name": "IGN",
+              "published_at": "2026-05-29T17:39:11+08:00"
+            },
+            {
+              "title": "《赤色沙漠》新补丁终于加入手柄重映射，并新增数十种宠物和动画",
+              "brief": "《赤色沙漠》最新1.09.00补丁终于加入手柄按键重映射，回应了玩家自发售以来对操作繁琐、上手别扭的持续抱怨。此次更新还新增约30种可登记为宠物的小型动物，以及部分宠物的抱起与放下动画，并为乌恩卡和达米安娜两名次要可玩角色加入新技能；此外还修复了多项问题，包括熊会尝试吃地上的鱼却无法成功的异常。",
+              "source_url": "https://www.ign.com/articles/crimson-deserts-latest-patch-finally-adds-controller-remapping-and-dozens-of-new-pets-and-animations",
+              "source_name": "IGN",
+              "published_at": "2026-05-29T16:57:46+08:00"
+            },
+            {
               "title": "《使命召唤：现代战争4》泄露或暗示战役抢先体验",
               "brief": "有玩家在Xbox上预载《使命召唤：现代战争4》时发现名为“Campaign Early Access Pack 1”的占位文件，创作者活动上开发商对相关提问未确认或否认，引发战役提前游玩的猜测。该系列曾在《现代战争II》和《现代战争III》上线前一周开放战役抢先体验，之后中断；而本作据称将围绕朝韩冲突展开，并让普莱斯与昔日盟友发生对立。",
               "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-leak-may-reveal-early-access-for-campaign",
               "source_name": "IGN",
               "published_at": "2026-05-29T06:49:01+08:00"
-            },
-            {
-              "title": "《兰博》前传定档2027年夏季上映",
-              "brief": "《兰博》前传《约翰·兰博》定于2027年6月4日上映，影片将回溯角色在越南时期的起源故事。史泰龙预计不会出演，但会担任执行制片；森蒂尼奥将接棒饰演兰博，大卫·哈伯出演特劳特曼少校，詹姆斯·弗兰科客串小角色。影片由《Sisu》导演亚尔马里·赫兰德执导，前传拍摄已于今年早些时候杀青。",
-              "source_url": "https://www.ign.com/articles/rambo-prequel-gets-summer-2027-release-date",
-              "source_name": "IGN",
-              "published_at": "2026-05-29T06:41:34+08:00"
-            },
-            {
-              "title": "《使命召唤：现代战争4》将修复系列两大问题",
-              "brief": "《使命召唤：现代战争4》确认将支持离线游玩，玩家即使断网也能进入游戏，不必再因服务器不可用而完全无法启动；Infinity Ward还计划解决持续六年左右的“更新后必须重启”问题，以缩短进游戏前的等待。背景是前作长期因这两点影响体验，本作同时还将放弃上一代主机版本、登陆任天堂Switch 2，并于今秋结束《战区》在旧主机上的支持。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-will-fix-two-major-franchise-issues",
-              "source_name": "IGN",
-              "published_at": "2026-05-29T06:32:39+08:00"
-            },
-            {
-              "title": "《使命召唤：现代战争4》团队正评估技能匹配方案",
-              "brief": "Infinity Ward表示，《使命召唤：现代战争4》的技能匹配不会直接退回到《黑色行动7》之前的老做法，团队正根据去年作品的数据评估新方案。背景是玩家长期批评高强度技能匹配和每局后拆散大厅，Treyarch在《黑色行动7》中通过保留大厅、降低技能权重缓解了这些问题。MW4最终细节尚未公布，但开发组并未忽视相关反馈。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-team-is-evaluating-skill-based-matchmaking-following-black-ops-7",
-              "source_name": "IGN",
-              "published_at": "2026-05-29T06:24:45+08:00"
-            },
-            {
-              "title": "《生命之书》导演因亚马逊新AI动画剧集遭强烈反弹，称将举报死亡威胁",
-              "brief": "亚马逊本周推出AI创作者基金后，《生命之书》导演豪尔赫·古铁雷斯确认正为其制作AI动画剧集《Punky Duck》，随即引发粉丝强烈反弹。争议在于他2024年曾公开反对AI，警告这会破坏动画行业的人才培养与协作生态，如今却参与该项目。部分长期支持者指责他背离先前立场，古铁雷斯则表示愿意接受批评，但因家人遭波及并收到死亡威胁，准备向有关方面举报。",
-              "source_url": "https://www.ign.com/articles/the-book-of-life-director-sparks-significant-backlash-over-new-ai-amazon-animated-series-vows-to-report-death-threats",
-              "source_name": "IGN",
-              "published_at": "2026-05-29T01:32:15+08:00"
             }
           ]
         },
@@ -480,39 +480,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "中国银行旗下公司在北京新设融资租赁公司",
-              "brief": "36氪获悉，天眼查App显示，芯能二号租赁（北京）有限公司近日在北京成立。该公司由中国银行旗下中银金融租赁有限公司全资持股，显示中国银行系新增一家融资租赁业务主体。工商信息显示，法定代表人为陈庆海，注册资本2万元，经营范围为融资租赁业务，股东结构为单一法人独资。",
-              "source_url": "https://36kr.com/newsflashes/3830133150918536?f=rss",
+              "title": "思格新能源发布全域AI智能体SigenAgent",
+              "brief": "思格新能源在其全球战略发布会上推出全域AI智能体SigenAgent，覆盖家庭和企业能源管理场景。公司称其为行业首个全域AI智能体，并已落地私人能源管家、电站运维医生、电力交易操盘手、企业经营助手四类智能体；同时联合弗若斯特沙利文发布《2026 AI+新能源白皮书》，并首创能源智能化五级分级体系EIL。",
+              "source_url": "https://36kr.com/newsflashes/3830250944439942?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-29 16:52:55  +0800"
+              "published_at": "2026-05-29 18:52:44  +0800"
             },
             {
-              "title": "恒宇信通终止收购神导科技100%股权",
-              "brief": "恒宇信通公告，决定终止此前拟收购北京神导科技股份有限公司100%股权的交易。该方案原定通过发行股份及支付现金方式，收购张俊清等9名交易对方所持股份，并向不超过35名特定投资者发行股份募集配套资金。公司表示，各方最终未能就交易方案部分主要条款达成一致，因此经研究并协商后终止。",
-              "source_url": "https://36kr.com/newsflashes/3830128281216645?f=rss",
+              "title": "上交所本周重点监控高溢价基金及异常波动股票",
+              "brief": "上交所披露，2026年5月25日至5月29日，对301起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施。此次监管同时重点监控中韩半导体ETF、全球芯片LOF等溢价较高基金，以及*ST春天、泰金新能、*ST正平和退市观典等股票，并对18起上市公司重大事项开展专项核查，向证监会上报2起涉嫌违法违规案件线索。",
+              "source_url": "https://36kr.com/newsflashes/3830250031507337?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-29 16:47:58  +0800"
+              "published_at": "2026-05-29 18:51:49  +0800"
             },
             {
-              "title": "财政部：前4个月国企营收262700.9亿元",
-              "brief": "财政部发布数据显示，今年1至4月，全国国有及国有控股企业营业总收入262700.9亿元。同期利润总额13741.7亿元，同比增长1.9%，应交税费21179.4亿元，同比增长3.9%，显示利润和税费继续增长。另一方面，营收同比下降0.5%，4月末资产负债率为65.5%，同比上升0.4个百分点。",
-              "source_url": "https://36kr.com/newsflashes/3830123840825221?f=rss",
+              "title": "小崧股份董事长彭国宇因个人原因辞职",
+              "brief": "小崧股份公告称，董事长彭国宇因个人原因申请辞去第六届董事会董事长职务，原定任期至本届董事会届满。此次调整涉及董事长岗位变动，彭国宇辞职后仍将继续担任公司董事及董事会专门委员会职务；根据《公司章程》规定，相关职务将由副董事长蒋晖履行。",
+              "source_url": "https://36kr.com/newsflashes/3830245335918215?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-29 16:43:27  +0800"
+              "published_at": "2026-05-29 18:47:02  +0800"
             },
             {
-              "title": "智元机器人在惠州新设创新科技公司",
-              "brief": "36氪获悉，天眼查App显示，惠州智元创新科技有限公司近日成立。该公司由智元机器人关联公司智元创新（上海）科技股份有限公司全资持股，属于其在惠州新增的企业主体。工商信息显示，法定代表人为邓泰华，注册资本100万元，经营范围包括智能机器人研发和人工智能理论与算法软件开发等。",
-              "source_url": "https://36kr.com/newsflashes/3830122726221698?f=rss",
+              "title": "天安新材实控人承诺一年内不减持股份",
+              "brief": "天安新材披露，实际控制人承诺自承诺起一年内，不以任何方式减持其持有的公司股份。此次公告围绕实控人的持股安排与减持约束展开，核心信息是未来一年不减持；关键细节包括承诺对象为其持有的公司股份，约束期限为一年，且明确“任何方式”减持均不实施。",
+              "source_url": "https://36kr.com/newsflashes/3830243214321545?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-29 16:42:19  +0800"
+              "published_at": "2026-05-29 18:44:53  +0800"
             },
             {
-              "title": "外汇局：4月中国外汇市场成交25.3万亿元",
-              "brief": "国家外汇管理局公布统计数据，2026年4月中国外汇市场总计成交25.30万亿元人民币，等值3.68万亿美元。其中国内银行对客户市场成交4.36万亿元，银行间市场成交20.94万亿元；即期市场成交9.26万亿元，衍生品市场成交16.04万亿元。2026年1至4月累计成交101.08万亿元。",
-              "source_url": "https://36kr.com/newsflashes/3830119489496962?f=rss",
+              "title": "方正证券：中国信达拟减持不超过1%股份",
+              "brief": "方正证券公告称，持股7.2%的股东中国信达资产管理股份有限公司因经营需要，计划减持公司股份不超过1%。这次披露的是股东层面的减持安排，而非公司经营事项变化；关键细节是中国信达拟通过集中竞价方式减持不超过8232.1万股，对应约占方正证券总股本的1%。",
+              "source_url": "https://36kr.com/newsflashes/3830238583498377?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-05-29 16:39:01  +0800"
+              "published_at": "2026-05-29 18:40:10  +0800"
             }
           ]
         },
