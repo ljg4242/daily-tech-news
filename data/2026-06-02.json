@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T12:55:11.546851+08:00",
+  "generated_at": "2026-06-02T16:55:03.757687+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Play 商店 2026 年 6 月更新汇总",
+              "brief": "Google 在 2026 年 6 月通过 Play 商店 v51.7 推出一次大幅可用性更新，让安卓手机、Android TV 和 Android Auto 上的界面更整洁且一致。此前受后端架构影响，不同设备上的购买流程与促销信息展示较难统一，用户也不容易追踪优惠和管理即将发布内容。这次更新重做了购买与下载弹窗，并在应用列表中更醒目显示促销价、折扣细节和到期时间。",
+              "source_url": "https://www.androidauthority.com/google-play-store-updates-june-2026-3673331/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-02T15:57:46+08:00"
+            },
+            {
+              "title": "沃尔玛 Onn 意外泄露更便宜的 Nest Cam 泛光灯替代品",
+              "brief": "沃尔玛在宣传新款 Onn 户外摄像头的视频中，意外提前曝光了一款尚未发布的 Onn 泛光灯安防摄像头。该产品延续了品牌主打低价家用安防的路线，现有 Onn 室内和户外摄像头都可接入 Google Home。曝光画面显示，这款新机外形与 35 美元户外摄像头相近，配有更大的双灯，并疑似内置动作传感器，可在人经过时自动点亮。",
+              "source_url": "https://www.androidauthority.com/walmart-onn-floodlight-camera-3673319/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-02T15:36:21+08:00"
+            },
+            {
+              "title": "最佳 PS4 模拟器迎来最大更新，加入本地多人游戏",
+              "brief": "ShadPS4 发布 0.16.0 版本，项目方称这是迄今最大的一次更新，为这款 PS4 模拟器加入了本地多人游戏等新功能。PS4 模拟仍处于较早阶段，但 ShadPS4 目前进展最领先。新版本还带来 Big Picture 模式、截图、摄像头初步支持、OpenAL 音频初步支持和新的设置系统，并通过大量 Vulkan、内存与同步优化改善性能、稳定性及游戏兼容性。",
+              "source_url": "https://www.androidauthority.com/shadps4-best-ps4-emulator-update-3673311/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-02T15:11:16+08:00"
+            },
+            {
+              "title": "谷歌相册推出增量导出功能，备份更高效",
+              "brief": "谷歌为谷歌相册的Takeout导出服务新增“增量导出”功能。此前用户每次导出必须下载整个相册库，耗时且占用大量存储空间。新功能允许用户设置定期导出，首次为完整备份，后续仅导出上次成功导出后新增、编辑或修改的照片和视频。这一改进使本地备份更实用，尤其适合需要频繁备份的用户。",
+              "source_url": "https://www.androidauthority.com/google-photos-incremental-takeout-3673297/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-02T13:34:02+08:00"
+            },
+            {
               "title": "Google 基于壁纸配色的 Gemini 改版终于开始向用户推送",
               "brief": "谷歌开始向用户推送基于壁纸配色的 Gemini 新界面，此前这项 Material You 主题改版只在内部测试中出现，且需要手动开启，Gemini 也一直沿用较旧的白蓝视觉风格。现在它已在 Google 应用测试版中被用户发现，Android Authority 也在运行 17.27.33.sa.arm64 beta 的 Pixel 9 上确认了变化；目前改动主要限于 Gemini 浮动覆盖层，悬浮条和 Gemini Live 按钮会随系统壁纸颜色调整，主界面仍未完全支持动态主题。",
               "source_url": "https://www.androidauthority.com/google-gemini-material-you-redesign-3673288/",
               "source_name": "Android Authority",
               "published_at": "2026-06-02T10:58:20+08:00"
-            },
-            {
-              "title": "Android 17 Beta 4.1 发布，谷歌为正式版收尾",
-              "brief": "谷歌开始向 Pixel 测试者推送 Android 17 Beta 4.1，这很可能是正式版发布前的最后一次测试更新。过去一段时间谷歌重心放在 QPR1 预览版，而 Android 17 上一次常规 Beta 还是 4 月中旬，随着 6 月到来稳定版已接近随时发布。此次更新集中修复状态栏信号显示错误、飞行模式下移动数据图标不同步、外接高分辨率屏幕黑屏、蓝牙音频中断后无声，以及助听器配对记录被自动遗忘等问题。",
-              "source_url": "https://www.androidauthority.com/android-17-beta-4-1-3673266/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-02T04:56:43+08:00"
-            },
-            {
-              "title": "苹果智能眼镜再传延期，Meta 领先优势扩大",
-              "brief": "报道称苹果智能眼镜项目再次延后，这让 Meta 等竞争对手在快速升温的可穿戴 AI 市场获得更多布局时间。此前外界一度预期苹果会在 2026 年亮相、2027 年上市，如今彭博社称其目标变成明年推出，时间线继续后移。相比之下，Meta 已凭借 Ray-Ban 智能眼镜积累势头，并据称筹备更多型号，且产品同时兼容 Android 和 iOS，触达用户范围更大。",
-              "source_url": "https://www.androidauthority.com/apple-smart-glasses-delayed-again-3673233/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-02T04:30:56+08:00"
-            },
-            {
-              "title": "EcoFlow 推出 45W 新款移动电源系列",
-              "brief": "EcoFlow 发布 RAPID 45W 系列移动电源，面向需要轻量随身供电方案的用户，共带来三款产品。该公司以大容量储能设备见长，这次则把重点放在更适合桌面和出行场景的便携充电设备上。新系列全部支持 45W 输出，其中两款配有可伸缩 USB-C 线，另有一款 3 合 1 版本内置可翻折交流插脚，充电时无需额外适配器。",
-              "source_url": "https://www.androidauthority.com/ecoflow-rapid-45w-series-3673177/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-02T03:16:53+08:00"
-            },
-            {
-              "title": "如果 Google 相册搜索最近变差，试试这个简单修复",
-              "brief": "不少用户反映，Google 相册自从加入 Gemini 驱动功能后，搜索照片变得更难用，过去输入“狗”或“登机牌”就能快速定位图片的体验被打乱。周末一则 Reddit 讨论帖引发共鸣，X 上也有摄影师表达同样不满，称系统更倾向生成对照片内容的 AI 描述，而不是直接找出目标图片；对很多人来说，关闭相关功能后，搜索速度和可靠性会恢复。",
-              "source_url": "https://www.androidauthority.com/google-photos-search-not-working-properly-3673218/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-02T02:55:27+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "美国亚马逊 Prime 会员可提前两天观看《蜘蛛侠：崭新之日》",
+              "brief": "亚马逊宣布，美国Prime会员可在7月29日于全美指定影院购买并观看《蜘蛛侠：崭新之日》特别场，比影片正式大规模上映提前两天。这项安排被纳入6月23日至26日的Prime Day公告，购票将通过亚马逊与Fandango合作页面进行；目前门票尚未开售，用户登录账号后可先点击提醒，未订阅者也可利用30天免费试用参与购票。",
+              "source_url": "https://www.engadget.com/2185485/amazon-prime-us-spider-man-brand-new-day-advanced-screening-july-29/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-02T15:50:17+08:00"
+            },
+            {
+              "title": "蓝色起源CEO称新格伦火箭将在年底前再次飞行",
+              "brief": "蓝色起源CEO戴夫·林普表示，新格伦火箭将在今年年底前再次飞行。此前，该火箭的发射台于5月28日发生爆炸。NASA局长贾里德·艾萨克曼认为修复可能要到2028年。林普称燃料箱状况良好，支撑塔虽受损但可原地修复。公司已重新进入发射台并开始调查。",
+              "source_url": "https://www.engadget.com/2185458/blue-origin-new-glenn-launchpad-explosion-repair-update/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-02T13:31:51+08:00"
+            },
             {
               "title": "华硕 ExpertBook B5 Flip G2 是一款 2.9 磅 360 度触控笔记本",
               "brief": "华硕在 Computex 上发布 ExpertBook B5 Flip G2，这是一款重 2.9 磅、支持 360 度翻转的触控笔记本，同时还公布了三款 Zenbook 14。此次更新覆盖商务本与轻薄本，Zenbook 14 分别提供 Intel、AMD 和骁龙处理器版本。B5 Flip G2 可在笔记本、平板、帐篷和展示模式间切换，并配备双摄与内置收纳充电槽的 MPP 2.0 手写笔。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2185225/meta-ai-support-chatbot-made-it-ridiculously-easy-for-hackers-to-take-over-instagram-accounts/",
               "source_name": "Engadget",
               "published_at": "2026-06-02T03:43:44+08:00"
-            },
-            {
-              "title": "《Theos：神话之城》是早期经典城市建造游戏的精神续作",
-              "brief": "《Theos：Cities of Myth》被定位为经典城市建造游戏《宙斯：奥林匹斯之主》的精神续作，预计今年晚些时候登陆PC。报道回顾，Impressions Games在1998年至2000年间凭《凯撒III》《法老》《宙斯》等作品塑造了独特的城建风格，而本作由曾参与《Pharaoh: A New Era》的Triskell Interactive开发。团队表示它并非直接重制，而是延续前作的等距视角、希腊神话设定与熟悉的建城体验。",
-              "source_url": "https://www.engadget.com/2185161/theos-cities-of-myth-is-the-spiritual-successor-to-one-of-the-great-city-builders-games/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-02T02:53:07+08:00"
-            },
-            {
-              "title": "如何观看索尼 6 月 2 日 State of Play 发布会",
-              "brief": "索尼将于美国东部时间6月2日17时举行新一期State of Play直播，作为今年夏季游戏发布季的开场活动。公司称节目时长将超过一小时，带来全球多家工作室的更新、公告和实机演示；观众可通过官方YouTube和Twitch观看，YouTube另有日文字幕版本。目前完整阵容尚未公布，但节目已确认会重点展示9月15日发售的PS5独占作《漫威金刚狼》。",
-              "source_url": "https://www.engadget.com/2185076/how-to-watch-playstation-state-of-play-june-2-2026/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-02T01:52:33+08:00"
             }
           ]
         },
@@ -334,6 +334,27 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "Red Hat 官方 NPM 账号遭入侵，多个软件包被植入恶意代码",
+              "brief": "Red Hat 官方 NPM 账号 @redhat-cloud-services 遭入侵，多个关联软件包被植入窃取凭证的恶意程序。该恶意代码针对 GitHub Actions Secret 以及 AWS、GCP、Azure、Kubernetes、Vault、npm 和 CircleCI 等凭证，还具备蠕虫式传播能力，可利用窃取的 npm 令牌和 bypass_2fa 参数自动回传带后门版本。Red Hat 称相关软件包已下架，初步未发现客户、合作伙伴或其生产系统受影响。",
+              "source_url": "https://www.solidot.org/story?sid=84459",
+              "source_name": "Solidot",
+              "published_at": "2026-06-02T15:09:18+08:00"
+            },
+            {
+              "title": "Anthropic 已秘密提交 IPO 申请",
+              "brief": "Anthropic 已向美国证券交易委员会秘密提交 IPO 招股说明书，计划待 SEC 完成审查后，再视市场状况决定上市安排。背景是该公司估值今年快速攀升，上一轮融资估值达到 9650 亿美元，已高于 OpenAI 3 月下旬的 8520 亿美元估值。报道还称，SpaceX 预计本月上市，OpenAI 也可能很快递交申请。",
+              "source_url": "https://www.solidot.org/story?sid=84458",
+              "source_name": "Solidot",
+              "published_at": "2026-06-02T13:57:08+08:00"
+            },
+            {
+              "title": "黑客借助 Meta AI 客服机器人劫持多个 Instagram 名人账号",
+              "brief": "亲伊朗黑客被曝曾短时间接管多个 Instagram 名人账号，并发布亲伊朗图片和信息，受害者包括奥巴马和美国太空军总军士长。攻击过程是先用 VPN 模拟目标常住地，再通过 Meta AI 客服要求把账号绑定到新邮箱，AI 发送一次性验证码后即可重置密码。Meta 表示已采取措施修复，Telegram 上随后出现大量交易被劫持账号的频道。",
+              "source_url": "https://www.solidot.org/story?sid=84457",
+              "source_name": "Solidot",
+              "published_at": "2026-06-02T12:19:07+08:00"
+            },
+            {
               "title": "三种埃博拉疫苗正在研发",
               "brief": "国际艾滋病疫苗倡议组织、牛津大学和Moderna正分别推进三种埃博拉疫苗研发，背景是刚果民主共和国暴发的疫情可能成为迄今最严重的一次，且发生在冲突地区。已报告逾千例疑似病例，邻国乌干达确诊9例；此次流行的是较罕见的Bundibugyo毒株，目前尚无针对性疫苗，Moderna将采用mRNA技术开发。",
               "source_url": "https://www.solidot.org/story?sid=84456",
@@ -346,20 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=84455",
               "source_name": "Solidot",
               "published_at": "2026-06-02T00:09:15+08:00"
-            },
-            {
-              "title": "中国首例获批侵入式脑机接口进入应用",
-              "brief": "中国一名因车祸致高位截瘫6年的患者，在植入脑机接口后重新写下姓名，并在术后训练中完成抓握。其所用NEO设备由Neuracle Technology与清华大学合作研发，2024年11月植入、今年3月获商业使用批准；8个传感器置于硬脑膜上，通过计算机驱动软体机器人手套，研究者称其侵入性较低、出血和长期信号衰减风险更小，中国还正推动将脑机接口纳入医保。",
-              "source_url": "https://www.solidot.org/story?sid=84454",
-              "source_name": "Solidot",
-              "published_at": "2026-06-01T23:49:10+08:00"
-            },
-            {
-              "title": "实验药物将胰腺癌患者生存期延长一倍",
-              "brief": "实验药物daraxonrasib在一项针对已扩散胰腺癌患者的III期试验中，将中位生存期从化疗组的6.6个月提高到13.2个月，且副作用更少。胰腺癌是最致命的癌症之一，现有疗法效果有限；这项包含500名患者的研究显示，该药通过捕获并抑制驱动几乎所有胰腺癌的Kras蛋白来阻止肿瘤生长，结果已在美国临床肿瘤学会年会上公布。",
-              "source_url": "https://www.solidot.org/story?sid=84453",
-              "source_name": "Solidot",
-              "published_at": "2026-06-01T22:39:41+08:00"
             }
           ]
         },
@@ -393,39 +400,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "X.Org 服务器曝出 9 个安全漏洞",
-              "brief": "X.Org Server 新披露9个安全漏洞，项目方已发布 xorg-server 21.1.23 和 xwayland 24.1.12 修复。问题来自老旧代码中的内存安全缺陷，涉及字体、XKB、XSYNC、GLX 与 DRI2 等子系统，包括栈缓冲区溢出、越界读写和多处 use-after-free，可能导致崩溃、越权访问及信息泄露，其中8个漏洞由 Trend Micro 的 TrendAI 零日计划借助 AI 发现。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564358.htm",
+              "title": "早期跑分显示英伟达 RTX SPARK N1X 性能接近苹果 M3 Max",
+              "brief": "GeekBench 数据库中一条于2026年3月29日提交的早期测试显示，英伟达 N1X 单核3096、多核18837，成绩已接近苹果2023年发布的 M3 Max。文章指出，M3 Max 为14核而 N1X 测试项显示20核，这说明两者分数接近但架构背景不同；同时 N1X 仍属工程样品，目前只看到 Linux 成绩，正式版还可能继续优化。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564414.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-02T12:48:58+08:00"
+              "published_at": "2026-06-02T16:07:03+08:00"
             },
             {
-              "title": "尿液生物标志物筛查或推动自闭症更早识别",
-              "brief": "研究团队提出一种基于尿液微生物来源代谢物的筛查方法，用于更早识别自闭症风险。背景是现有评估长期依赖行为观察，研究希望补充生物学指标。团队整合既有证据后建立 MDM 评分系统，在样本中识别敏感性为90%、特异性为100%，但强调这不是单独诊断工具，仍需在更大样本中继续验证其可靠性与适用范围。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1564356.htm",
+              "title": "《GTA5》外挂商遭黑客入侵 超6万名客户信息泄露",
+              "brief": "《GTA5》一家具销售外挂的商家遭黑客入侵，超过6万名购买过作弊工具的玩家信息被泄露。文章借此再次提到，作弊行为一直被发行商和普通玩家厌恶，但仍有玩家愿意付费获取不公平优势；按2024年专项调查，整个作弊软件行业年收入估计约1280万至7320万美元，因此此事也引来不少围观者幸灾乐祸。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1564412.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-02T12:45:41+08:00"
+              "published_at": "2026-06-02T15:37:32+08:00"
             },
             {
-              "title": "研究称白垩纪巨型章鱼或曾是海洋顶级捕食者",
-              "brief": "研究人员重新分析15块颚骨化石，并借助 AI 在岩层中新增发现12块化石，将白垩纪巨型章鱼分为两个物种。该发现挑战海洋完全由巨型爬行动物主宰的传统看法。依据现代章鱼解剖推算，其体长最高或达18.6米，颚骨明显磨损则显示它们能压碎甲壳类、双壳类甚至大型鱼类的硬组织。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1564354.htm",
+              "title": "华硕公布升级版 ROG Xbox Ally X20 多项配置全面增强",
+              "brief": "华硕公布升级版 ROG Xbox Ally X20，重点对显示和操控等环节进行增强。新机配备7.4英寸1080P 120Hz OLED Nebula HDR 屏，SDR 亮度600尼特、HDR 峰值1400尼特，并支持 Dolby Vision、DisplayHDR TrueBlack 1000 和 FreeSync Premium Pro；同时加入 GuliKit TMR 摇杆、改良十字键等设计，官方暂未公布售价。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1564410.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-02T12:44:57+08:00"
+              "published_at": "2026-06-02T13:34:31+08:00"
             },
             {
-              "title": "JetBrains 开源 120 亿参数 Mellum2 编码模型",
-              "brief": "JetBrains 开源120亿参数代码模型 Mellum2，并将其定位为可生成、编辑代码并调用外部工具的完整智能编码助手。相比初代，Mellum2 从稠密架构转向 MoE，以约25亿活跃参数换取更快推理，同时把上下文窗口扩展到131072 token；公司还宣布停止维护 DataSpell，相关功能将整合进 PyCharm 专业版。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564352.htm",
+              "title": "消息称《我的世界》将推出 Switch 2 原生版 评级信息已出现",
+              "brief": "消息称《我的世界》即将推出 Switch 2 原生版本，相关评级信息已经流出，内容描述仍是用剑和法杖对抗骷髅、僵尸等敌人，与现有主机版一致。当前玩家已可通过向下兼容游玩2018年登陆初代 Switch 的版本，该版包含“超级马里奥”联动内容；至于原生版是否加入 Switch 2 专属功能，报道称目前尚未公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1564408.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-02T12:43:17+08:00"
+              "published_at": "2026-06-02T13:34:23+08:00"
             },
             {
-              "title": "苹果将在 WWDC 2026 特别放映《曼达洛人和古古》",
-              "brief": "苹果宣布将在 WWDC 2026 线下活动期间，于史蒂夫·乔布斯剧院特别放映《曼达洛人和古古》完整版。原因是影片制作中使用了 Apple Vision Pro 等技术，苹果还将安排放映前专题分享，介绍这些设备在拍摄中的具体用例。活动于当地时间6月9日晚举行，预约6月4日开放，名额将按先到先得方式确认。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564350.htm",
+              "title": "任天堂音乐上线网页版 浏览使用更方便",
+              "brief": "任天堂音乐现已推出网页版，让用户在浏览器中使用这项服务变得更方便。报道重点指出，随着网页端上线，应用的浏览体验得到改善；同时服务还加入了可让玩家每天自动聆听喜爱曲目的功能，方便持续收听常听内容，也让日常使用流程比此前更直接。",
+              "source_url": "https://www.cnbeta.com.tw/articles/music/1564406.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-02T12:40:48+08:00"
+              "published_at": "2026-06-02T13:33:16+08:00"
             }
           ]
         },
@@ -433,39 +440,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "英伟达黄仁勋：今年至少将50%自由现金流返还股东",
-              "brief": "英伟达在发布PC端超级芯片RTX Spark（N1X）后，进一步披露资本回报与产品规划。该芯片标志公司正式进入Windows PC主处理器赛道，黄仁勋称今年计划把至少50%的自由现金流返还给股东，并表示N1X是长期平台架构，N2X、N3X及更小尺寸N1也在推进，以持续扩充AIPC产品矩阵并优化使用体验。",
-              "source_url": "https://36kr.com/newsflashes/3835550657311879?f=rss",
+              "title": "江西国家稀土技术创新中心成立，注册资本12.5亿元",
+              "brief": "江西国家稀土技术创新中心已成立，注册资本为12.5亿元。这则快讯围绕新机构设立展开，现阶段披露内容主要指向江西落地国家级稀土技术创新平台，信息重点集中在设立事实、机构名称与资本规模三项基础内容。当前可确认的关键细节是，主体名称为江西国家稀土技术创新中心，注册资本明确为12.5亿元，原始内容未展开更多业务安排。",
+              "source_url": "https://36kr.com/newsflashes/3835794927547785?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-02 12:43:53  +0800"
+              "published_at": "2026-06-02 16:52:22  +0800"
             },
             {
-              "title": "英伟达黄仁勋：N2X、N3X正在研发",
-              "brief": "英伟达发布PC端超级芯片RTX Spark（N1X）后，黄仁勋在媒体见面会上透露了后续路线图。这款产品标志公司正式切入Windows PC主处理器赛道，他将N1X定位为长期平台架构，并确认N2X、N3X均在研发中，同时还会推出更小尺寸的N1芯片，以继续丰富产品矩阵并优化AIPC使用体验。",
-              "source_url": "https://36kr.com/newsflashes/3835534031451527?f=rss",
+              "title": "SK海力士计划五年内将晶圆产能翻倍",
+              "brief": "SK海力士表示，计划在未来五年内将晶圆产能扩大到目前的两倍。这一表态出现在市场持续关注存储芯片供给能力的背景下，显示公司正围绕中长期需求推进产能准备。已披露的关键细节还包括，公司判断存储芯片产能瓶颈问题可能会持续到2030年，这意味着相关供给压力短期内未必缓解。",
+              "source_url": "https://36kr.com/newsflashes/3835790353052801?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-02 12:26:58  +0800"
+              "published_at": "2026-06-02 16:47:43  +0800"
             },
             {
-              "title": "长安汽车：5月交付209100辆，海外同比增长38%",
-              "brief": "长安汽车于6月1日公布5月交付数据，当月共交付209100辆，这是公司对外披露的最新月度运营情况。公告同时给出了海外与新能源业务表现，其中海外交付70700辆，同比增长38%；新能源交付92400辆，同比增长5.8%，两项数据均作为当月销量结构的重要组成部分被单独列示。",
-              "source_url": "https://36kr.com/newsflashes/3835524829214088?f=rss",
+              "title": "文远知行与Uber宣布在西班牙落地首个Robotaxi服务",
+              "brief": "文远知行与Uber宣布，计划在马德里推出西班牙首个商业化Robotaxi试点服务。这也是双方首次共同进入欧洲市场，马德里将成为文远知行Robotaxi落地的全球第十二座城市。关键细节是，随着运营指标逐步达成，文远知行、AVOMO与Uber承诺后续投放数百辆Robotaxi，并推动纯无人服务覆盖马德里核心城区。",
+              "source_url": "https://36kr.com/newsflashes/3835788037944709?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-02 12:17:37  +0800"
+              "published_at": "2026-06-02 16:45:22  +0800"
             },
             {
-              "title": "半日主力资金加仓电子股，抛售传媒股",
-              "brief": "A股早盘主力资金流向显示，资金继续在行业板块之间切换。板块层面，电子、通信获得净流入，传媒、计算机遭遇净流出；个股方面，亨通光电、风华高科、长飞光纤分别获净流入44.03亿元、26.4亿元、25.08亿元，蓝色光标、佰维存储、同花顺分别被净卖出8.37亿元、5.49亿元、5.17亿元。",
-              "source_url": "https://36kr.com/newsflashes/3835511594595719?f=rss",
+              "title": "科大讯飞在西藏成立新公司，注册资本500万元",
+              "brief": "科大讯飞在西藏新设西藏讯智未来科技有限公司，注册资本500万元。公开信息显示，这家公司聚焦人工智能相关业务，经营范围涵盖人工智能基础软件开发、应用软件开发、双创服务平台和公共数据平台。关键细节是，公司法定代表人为秦伟，由科大讯飞旗下安徽讯飞云创科技有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3835779205559688?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-02 12:10:04  +0800"
+              "published_at": "2026-06-02 16:36:23  +0800"
             },
             {
-              "title": "凯恩股份：现有主营业务不包括超级电容或超级电容隔膜纸业务",
-              "brief": "凯恩股份在互动平台表示，公司现有主营业务不包括超级电容或超级电容隔膜纸。此次回应主要用于澄清现阶段业务边界，公司目前的主营产品仍是烟用配套用纸、特种食品包装纸和工业配套用纸等，现有产品结构中并未包含上述相关业务，相关表述未将其列入公司当前主营范围。",
-              "source_url": "https://36kr.com/newsflashes/3835511874876802?f=rss",
+              "title": "科大智能与华西能源签署约1.3亿美元设备采购框架合同",
+              "brief": "科大智能公告称，公司作为供货方与华西能源签署一份设备采购框架合同，暂估总价约1.3亿美元。这份合同对应伊拉克巴格达Al-Daura热电厂4×160MW燃油发电重建项目，披露重点在于订单规模与项目性质。关键细节是，签约双方分别为科大智能和华西能源工业股份有限公司，合同为设备采购框架合同。",
+              "source_url": "https://36kr.com/newsflashes/3835773762139269?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-02 12:04:26  +0800"
+              "published_at": "2026-06-02 16:30:50  +0800"
             }
           ]
         },
@@ -473,39 +480,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "吴克群出任影翎 AG 全景无人机首席体验官",
-              "brief": "影石宣布吴克群出任影翎 AG 全景无人机首席体验官，后续将与品牌一起参与更多真实记录，探索全景飞行在大众生活中的更多可能。影翎定位为全球首个全景无人机品牌，希望让无人机不再只是少数人的专业工具，而以更简单、更沉浸的体验走向普通用户。此前发布的 Antigravity A1 已上市，7999 元起，支持最高 8K30fps 360° 全景视频。",
-              "source_url": "https://www.ithome.com/0/958/650.htm",
+              "title": "AMD公布锐龙AI Max+电脑阵容，涵盖小米、海盗船、联想等",
+              "brief": "AMD公布搭载锐龙AI Max+处理器的电脑阵容，覆盖小米、海盗船、联想、Geekom、极摩客、铭凡等品牌，进一步扩展其AI PC合作范围。AMD强调，这是一套基于x86架构、无需转译层的本地AI方案，处理器采用16核32线程设计，配备40CU和50 TOPS NPU，最高可选128GB统一内存；小米此前上一款锐龙笔记本还是去年的REDMI Book 14 2025。",
+              "source_url": "https://www.ithome.com/0/958/823.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-02T12:35:31+08:00"
+              "published_at": "2026-06-02T16:40:20+08:00"
             },
             {
-              "title": "消息称 OPPO ColorOS 17 将加入更多类液态玻璃 UI",
-              "brief": "消息称 OPPO 将在 ColorOS 17 中融入更多类液态玻璃 UI 设计，整体苹果风格会进一步增强，并可能配合一款类似风格的四曲面新机在今年下半年亮相。相关变化可视为对现有设计语言的延续：OPPO 在 2025 年 10 月 ODC 大会推出的 ColorOS 16 已引入光场设计，为锁屏和桌面图标加入光边、渐变模糊和光晕效果，预计新系统会继续优化整体观感。",
-              "source_url": "https://www.ithome.com/0/958/649.htm",
+              "title": "韩国简化EUV光刻机导入管理，流程可缩短25天",
+              "brief": "韩国政府修订EUV光刻机导入管理流程，将其列为“特定设备”并简化多项审批。此前设备需经历技术审查、许可、中间检查和竣工核验，总耗时34天；新流程把技术审查和竣工核验都压缩到2天，并取消中间检查，整体缩短至9天，可节省25天和每台约5亿韩元的检验费用。",
+              "source_url": "https://www.ithome.com/0/958/818.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-02T12:32:58+08:00"
+              "published_at": "2026-06-02T16:38:01+08:00"
             },
             {
-              "title": "黄仁勋：英伟达未来将推 N2X、N3X 和 N1 芯片",
-              "brief": "黄仁勋表示，英伟达未来还会推出 N2X、N3X 和 N1 芯片，持续扩展相关架构产品线，并借助软件生态进一步优化 AI PC 体验。这一表态强调英伟达布局并不止于单一硬件迭代，而是围绕整条产品线长期推进。按他的说法，每推出一条新产品线，公司都会同步提供长期软件栈支持，因此相关平台将依托庞大的软件体系和生态系统持续完善。",
-              "source_url": "https://www.ithome.com/0/958/648.htm",
+              "title": "Arm称AI需求超预期，自研芯片150亿美元目标或提前达成",
+              "brief": "Arm称，受数据中心和AI服务建设带动，市场需求强于预期，公司有望早于原定时间实现自研芯片年营收150亿美元目标。Arm今年3月宣布从IP授权延伸到自研芯片销售，首款AGI CPU将由台积电代工，最多136核、功耗300W，Meta将成为主要客户，芯片用于与英伟达等加速器协同工作。",
+              "source_url": "https://www.ithome.com/0/958/815.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-02T12:29:51+08:00"
+              "published_at": "2026-06-02T16:36:41+08:00"
             },
             {
-              "title": "华硕发布便携显示器 ZenScreen OLED MQ14FCKV",
-              "brief": "华硕发布便携显示器 ZenScreen OLED MQ14FCKV，主打便携使用场景，并支持 65W PD 直通供电。新品采用 14 英寸 OLED 面板，分辨率 1920×1200，响应时间 1ms，色域覆盖 90% DCI-P3，定位兼顾移动办公与显示效果。它还提供 M Model P3 色彩设置，可实现与 macOS 设备一致的色彩体验，方便与苹果设备配合使用。",
-              "source_url": "https://www.ithome.com/0/958/646.htm",
+              "title": "崔泰源：SK海力士计划未来五年将晶圆产能翻倍",
+              "brief": "SK集团会长崔泰源表示，SK海力士计划在未来五年把整体晶圆产能提高到两倍，并将为此推进大规模设备投资。其判断AI时代的存储瓶颈可能持续到2030年，因为AI数据中心和AI PC都会拉动大容量存储需求。崔泰源也提到，扩产受资金、能源、设备、水资源和建厂周期限制，新建晶圆厂通常至少需三年，绿地项目更可能超过五年。",
+              "source_url": "https://www.ithome.com/0/958/810.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-02T12:24:22+08:00"
+              "published_at": "2026-06-02T16:31:12+08:00"
             },
             {
-              "title": "消息称小鹏启动离职人员竞业调查",
-              "brief": "消息称小鹏已对部分离职人员发起竞业调查，原因是有人在离职后短期内加入竞争对手并继续从事相关研发工作，被指涉嫌严重违反协议约定。基于这一判断，小鹏集团已向当地劳动仲裁委员会提起仲裁，要求相关人员继续履行竞业限制义务。公司同时要求返还已领补偿金、限制性股票出售收入并支付违约金，索赔金额据称接近千万元。",
-              "source_url": "https://www.ithome.com/0/958/645.htm",
+              "title": "《龙之剑：觉醒》7月发售，Steam试玩版6月5日上线",
+              "brief": "由《龙之谷》制作人参与打造的《龙之剑：觉醒》确认将于2026年7月发售，Steam试玩版定于6月5日上线。试玩内容约1至2小时，覆盖第一章剧情并开放9名英雄；正式版将提供19名英雄，但试玩存档不能继承。该作从原网游转为工作室自发行的单机买断制作品，基于虚幻5开发并取消抽卡机制。",
+              "source_url": "https://www.ithome.com/0/958/805.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-02T12:23:38+08:00"
+              "published_at": "2026-06-02T16:27:49+08:00"
             }
           ]
         },
@@ -513,39 +520,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "红帽供应链攻击调查：GitHub账户被劫持后发布多个恶意NPM包",
-              "brief": "红帽披露一起供应链攻击：攻击者劫持工程师GitHub账户后，绕过代码审查提交工作流和脚本，并借助GitHub Actions签发的短期OIDC令牌向NPM发布多个恶意包。事件说明即使采用可信发布机制，只要CI/CD访问权被夺取仍可被利用；载荷为Mini Shai-Hulud变种，会窃取云、包管理、SSH等凭证并尝试横向传播。",
-              "source_url": "https://www.landian.news/archives/113209.html",
+              "title": "GoPro因存储芯片涨价发出持续经营预警，正寻求出售或合并",
+              "brief": "GoPro发布持续经营预警，称营收同比下滑26%，预计将违反多项贷款协议，流动资金也可能不足以偿债，正评估出售、合并及转向军用、航天业务等方案。公司将困境主要归因于NAND存储芯片价格上涨80%至115%且4月起供应减少，原因是上游把更多产能转向利润更高的HBM；其已在4月裁员23%，预警后股价再跌14%。",
+              "source_url": "https://www.landian.news/archives/113215.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-02T12:00:17+08:00"
+              "published_at": "2026-06-02T16:30:20+08:00"
             },
             {
-              "title": "Codex 免费版手机号验证无法绕过，多因素认证也无效",
-              "brief": "蓝点网实测发现，Codex免费版账号在重新授权时触发短信验证后，即使预先添加通行密钥、硬件密钥、OTP等多因素认证并关闭短信选项，也无法跳过手机号校验。问题主要集中在早期借助接码平台注册的老账户，因为需验证原号码；后续邮箱注册账号可绑定新手机号，部分HTTP 401账号仅刷新令牌即可恢复。",
-              "source_url": "https://www.landian.news/archives/113208.html",
+              "title": "早期跑分显示英伟达RTX SPARK N1X性能接近苹果M3 Max",
+              "brief": "GeekBench中一份今年3月提交的早期测试显示，英伟达面向Windows on Arm设备的RTX SPARK N1X芯片，单核3096分、多核18837分，表现接近苹果M3 Max。N1X是英伟达与联发科合作、基于Arm定制的高端20核型号，相关设备预计今秋推出；现有数据来自工程样品和Linux环境，尚未经过最终软件、固件及Windows 11整机优化。",
+              "source_url": "https://www.landian.news/archives/113214.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-02T11:30:17+08:00"
+              "published_at": "2026-06-02T16:00:21+08:00"
             },
             {
-              "title": "英特尔谨慎看待英伟达 RTX Spark：x86 生态更成熟",
-              "brief": "针对英伟达以Arm架构推出面向个人AI计算机的RTX Spark，英特尔表示谨慎看待。英特尔认为，桌面Arm芯片进入市场后难免面临软件兼容、DRM和向下兼容问题，而成熟的x86生态在游戏与AI推理上仍具优势；此外RTX Spark定位高端，本地可运行120B模型，但最终售价也将成为市场接受度的重要变量。",
-              "source_url": "https://www.landian.news/archives/113207.html",
+              "title": "Dashlane因暴力破解尝试临时封禁账户，部分用户无法登录",
+              "brief": "Dashlane在检测到部分账户遭遇暴力破解尝试后，临时禁用了这些账户，结果连输入正确主密码和2FA验证码的用户也无法登录。事件始于5月31日下午，平台随后恢复相关账户并披露，大多数攻击尝试未成功，但约20个账户的加密保险库副本被下载；受影响数据仍受主密码加密保护。",
+              "source_url": "https://www.landian.news/archives/113213.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-02T11:00:34+08:00"
+              "published_at": "2026-06-02T15:00:20+08:00"
             },
             {
-              "title": "AMD将AM5平台支持延长至2029年，现有主板可继续升级未来处理器",
-              "brief": "AMD宣布将AM5平台支持期延长到2029年，意味着现有AM5主板未来还能兼容更多后续Ryzen处理器。此举延续了AM4长期维护的做法，也回应了当前DDR5内存和PCIe 5.0设备价格仍偏高的市场现实，帮助用户避免连同主板和内存一起升级。根据文中信息，AM5自2022年随Zen 4推出后，后续预计还将支持Zen 6和Zen 7。",
-              "source_url": "https://www.landian.news/archives/113206.html",
+              "title": "Telegram桌面客户端原生支持简体中文和繁体中文",
+              "brief": "Telegram桌面客户端已原生支持简体中文和繁体中文，macOS与Windows用户升级到最新版后，可直接在设置的语言选项中切换，无需再安装社区制作的非官方语言包。此前官方中文支持已先登陆iOS和安卓版；目前桌面版大部分菜单和设置已完成汉化，少量选项仍保留英文。",
+              "source_url": "https://www.landian.news/archives/113212.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-02T10:30:50+08:00"
+              "published_at": "2026-06-02T14:30:20+08:00"
             },
             {
-              "title": "115网盘整治违规内容与账号交易，违规账号将分级处罚",
-              "brief": "115网盘发布专项治理公告，表示将严厉打击利用平台存储、传输或分享违法违规内容的行为，同时把账号出租、出借、交易等异常商业化使用也纳入整治范围。平台称会结合风控系统、人工复核、日志和举报信息综合判断违规程度，并按轻重采取提醒整改、限制功能、封禁账号、重置数据直至强制注销等阶梯式处置，同时保留申诉渠道。",
-              "source_url": "https://www.landian.news/archives/113205.html",
+              "title": "苹果发布iOS 26.5.1，修复iPhone 17系列和iPhone Air有线充电异常",
+              "brief": "苹果发布iOS 26.5.1正式版，主要修复iPhone 17系列和iPhone Air在电量较低时可能无法通过数据线充电的问题。该版本属于错误修复更新，不含新功能；受影响机型在故障出现时无线充电仍可正常使用，用户可前往“设置-通用-软件更新”安装，以避免低电量场景下再遇到同类异常。",
+              "source_url": "https://www.landian.news/archives/113211.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-02T10:00:33+08:00"
+              "published_at": "2026-06-02T14:00:17+08:00"
             }
           ]
         }
