@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T02:57:58.504472+08:00",
+  "generated_at": "2026-06-03T04:57:31.956122+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "谷歌将 AirDrop 互传支持扩展到更多安卓手机",
+              "brief": "谷歌宣布，支持与苹果 AirDrop 互传文件的 Quick Share 正扩展到更多安卓手机。Quick Share 是安卓对应的近距离分享功能，谷歌在 2025 年 11 月加入与 AirDrop 的互通，因此安卓与 iPhone 已可双向传送照片和文件。新增支持机型包括三星 Galaxy S24 至 S26 与多款折叠屏、Pixel 8a 至 10a，以及荣耀、一加、小米、OPPO 和 vivo 的部分新机；不兼容设备可通过二维码经云端分享。",
+              "source_url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-03T03:24:12+08:00"
+            },
             {
               "title": "任天堂音乐现已支持 iPad 和 CarPlay",
               "brief": "任天堂更新了 Nintendo Music，加入对 iPad、CarPlay 和通过 Siri 搜索曲目的支持，使用户可在平板与车载场景中收听游戏配乐。这款应用面向 Nintendo Switch Online 订阅者，提供任天堂热门游戏原声的流媒体播放，本次更新的重点是扩大设备兼容范围并补上语音检索功能。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
               "source_name": "MacRumors",
               "published_at": "2026-06-02T23:29:53+08:00"
-            },
-            {
-              "title": "macOS 27 会叫什么？从 Emerald 到 Big Bear 的猜测",
-              "brief": "在WWDC前，macOS 27名称再次成为关注点，外界目前主要猜测“Emerald”和“Big Bear”两种可能。报道指出，macOS 27据传将更侧重修复问题和稳定性提升，因此“Emerald”因与Tahoe的Emerald Bay有关而被视为延续性命名；而“Big Bear”则来自苹果WWDC 2026话题图文件名中的“Project Big Bear”线索，但仍未获证实。",
-              "source_url": "https://www.macrumors.com/2026/06/02/macos-27-name-possibilities/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-02T23:20:57+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "Perplexity Computer 将新增本地与云端模型分工能力",
-              "brief": "Perplexity宣布将为Perplexity Computer加入“混合代理推理”，使系统可把同一任务自动拆分给设备端模型和云端前沿模型处理。该功能针对既含敏感数据又需要强大AI能力的工作场景设计，本地小模型先判断财务记录、健康信息和个人文件是否必须留在本机，其余需要前沿模型完整能力的部分再送往服务器协调执行；不同于先手动选择本地或云端的工具，它会按任务自动切换，预计7月推出。",
-              "source_url": "https://9to5mac.com/2026/06/02/perplexity-computer-adding-ability-to-split-tasks-between-local-and-cloud-models/",
+              "title": "马里兰州州长就 Towson Town Center 关店争议点名苹果",
+              "brief": "围绕苹果计划于6月20日关闭马里兰州Towson Town Center门店的争议，州长韦斯·摩尔公开声援员工，要求公司给予与非工会门店员工相同的调岗权利与机会。该店自2022年起由IAM工会代表，是美国首家工会化苹果零售店；苹果称合同仅保障50英里内调动，否则提供遣散，工会、州议员和40名国会议员则要求扩大选择。",
+              "source_url": "https://9to5mac.com/2026/06/02/maryland-governor-calls-out-apple-over-towson-town-center-store-closure-controversy/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-03T01:55:40+08:00"
+              "published_at": "2026-06-03T04:41:21+08:00"
             },
             {
-              "title": "谷歌AI搜索改版后，DuckDuckGo在iPhone上持续增长",
-              "brief": "DuckDuckGo表示，在谷歌于Google I/O公布AI搜索改版后，其搜索流量与安装量继续攀升，并创下单日搜索流量历史新高。公司称，过去一周美国安装量较公告前一周高出61%，6月1日单日峰值高出76%；其中iOS表现最强，美国iOS安装量高出95%，其浏览器目前在美国iOS应用商店工具榜下载量仅次于Chrome，同时还提供关闭AI功能的搜索入口。",
-              "source_url": "https://9to5mac.com/2026/06/02/duckduckgo-keeps-surging-on-iphone-after-googles-ai-search-overhaul/",
+              "title": "iOS 27 即将到来：我最期待的五项新功能",
+              "brief": "9to5Mac 梳理了其最期待的五项 iOS 27 新功能，核心是基于谷歌 Gemini 的 Siri 大改版。文章称，新版 Siri 预计会带来更像聊天机器人的交互、跨应用多步骤操作和更多第三方 AI 扩展；同时健康应用或加入营养标签扫描与更完整的饮食记录功能，Liquid Glass 设计也有望继续微调。",
+              "source_url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-03T01:53:06+08:00"
+              "published_at": "2026-06-03T04:21:05+08:00"
             },
             {
-              "title": "苹果公布2026年 Apple Design Awards 应用与游戏获奖名单",
-              "brief": "苹果公布2026年Apple Design Awards获奖名单，从此前选出的36个入围应用和游戏中评出12个优胜者。该奖项覆盖乐趣与愉悦、包容性、创新、交互、社会影响和视觉图形六类，每类各选出1款应用与1款游戏；获奖作品包括grug、Guitar Wiz、NBA: Live Games & Scores、Moonlitt: Moon Phase Tracker、Primary: News in Depth等。",
-              "source_url": "https://9to5mac.com/2026/06/02/apple-reveals-apple-design-awards-app-and-game-winners-for-2026/",
+              "title": "Paste 推出 MCP 支持，将剪贴板历史连接到 AI 工具",
+              "brief": "Paste 推出对 Model Context Protocol 的支持，允许用户在 Mac 上通过内置本地 MCP 将剪贴板历史连接到 AI 工具。MCP 自 2024 年末提出后已被广泛采纳；接入后，用户可让 Claude、Codex、Cursor 等读取复制过的笔记、链接、截图、文本和图像，用于查找上下文、生成草稿或整理研究材料。",
+              "source_url": "https://9to5mac.com/2026/06/02/paste-launches-mcp-support-to-connect-your-clipboard-history-to-ai-tools/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-03T01:09:37+08:00"
+              "published_at": "2026-06-03T04:03:07+08:00"
             },
             {
-              "title": "OpenAI将把Codex整合进ChatGPT应用，并发布6款企业插件",
-              "brief": "OpenAI在一场面向企业的直播中宣布，将在未来几周把Codex功能带到各地的ChatGPT应用内，同时发布六款面向业务场景的新插件。此举意在让已熟悉ChatGPT的企业更容易理解何时使用Codex。新插件覆盖销售、数据分析、创意制作、产品设计、公募股票投资和投资银行，并同步推出注释与站点功能，数据与创意类插件还将接入Snowflake、Databricks、Figma、Canva等工具。",
-              "source_url": "https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/",
+              "title": "iOS 27 的一项升级或让 AirPods 强大得多",
+              "brief": "9to5Mac 认为，若 iOS 27 如传闻般带来以大模型驱动的 Siri 重构，AirPods 的能力也可能随之明显增强。文章将其与《她》中的耳边 AI 助手体验类比，指出新版 Siri 若具备对话式交互、个人上下文理解、跨应用控制和单次请求完成多步操作，AirPods 将更适合承担随时唤起的语音优先计算入口。",
+              "source_url": "https://9to5mac.com/2026/06/02/ios-27-could-make-airpods-a-lot-more-powerful-with-one-upgrade/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-03T00:22:38+08:00"
+              "published_at": "2026-06-03T03:25:13+08:00"
             },
             {
-              "title": "MacBook Neo销量与M5版MacBook Air和Pro对比出炉",
-              "brief": "IDC最新数据显示，苹果在2026年第一季度售出约110万台MacBook Neo，高于同期首发的M5 MacBook Air的90万台和M5 MacBook Pro的55万台。这是三款3月11日开售机型首次有了较完整的对比数据，显示Neo在上市初期势头强劲。报道同时指出，若苹果在4至6月缓解供货限制并扩大铺货，Neo本季度出货量还可能明显上升。",
-              "source_url": "https://9to5mac.com/2026/06/02/heres-how-macbook-neo-sales-compare-to-m5-macbook-air-and-pro/",
+              "title": "微软 CEO：我们正从操作系统和应用转向代理",
+              "brief": "微软 CEO 萨提亚·纳德拉在与高通讨论 Project Solara 时表示，计算平台正从操作系统和应用转向以代理为中心的形态。该项目被高通描述为连接芯片、软件与云的新平台，用于提供更个性化、具备感知且常伴用户的 AI 体验；纳德拉则据此提出，未来的设备与软件构建重心将从 app 迁移到 agents。",
+              "source_url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-03T00:08:58+08:00"
+              "published_at": "2026-06-03T02:52:01+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "YouTube TV 订阅用户可半价购买 Google TV Streamer",
+              "brief": "Google 向 YouTube TV 订阅用户提供 Google TV Streamer（4K）五折优惠，将原价 99.99 美元降至 49.99 美元。该优惠藏在一封与总决赛开赛相关的邮件底部，仅面向当前有效的 YouTube TV 主计划订阅者。活动只适用于 Porcelain 配色，结账页底部需输入优惠码，每位用户限购一台，截止到 2026 年 12 月 31 日或售完为止。",
+              "source_url": "https://9to5google.com/2026/06/02/youtube-tv-google-tv-streamer/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-03T04:40:19+08:00"
+            },
+            {
+              "title": "Google Home 更新为 Nest Cam 加入“宠物记忆”，扩大“Ask Home”覆盖",
+              "brief": "Google Home 正向早期体验用户推送两项更新：把基于 Gemini 的“Ask Home”语音功能扩展到所有已支持 Gemini for Home 的市场，并新增德国及德语支持。与此同时，Nest Cam 加入“Pet Memory”，用户可在 Home 应用中告诉 Gemini 宠物的名字和类型，让通知和问答从“有只狗”变成直接识别宠物名称。该功能需订阅 Google Home Premium Advanced 计划。",
+              "source_url": "https://9to5google.com/2026/06/02/google-home-pet-memory-nest-cam/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-03T04:05:00+08:00"
+            },
+            {
+              "title": "Google 开始推送 Pixel Buds Pro 2 和 Pixel Buds 2a 更新",
+              "brief": "Google 正在为 Pixel Buds Pro 2 和 Pixel Buds 2a 推送版本号为 release_5.203 的固件更新，更新说明仅写有“常规错误修复和改进”。这项更新最初于 5 月 27 日公布，随后公告被撤下，并在 6 月 2 日以相同版本号重新发布。用户可在 Pixel Buds 应用或 mypixelbuds.google.com 手动检查更新，但目前尚未大范围推送。",
+              "source_url": "https://9to5google.com/2026/06/02/pixel-buds-pro-2-2a-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-03T03:34:00+08:00"
+            },
             {
               "title": "Gemini 悬浮层加入动态配色，并整合“屏幕内容”入口",
               "brief": "Google 正在为 Gemini 悬浮层加入 Dynamic Color 动态配色，并把“屏幕内容”入口整合进主轮播。这个变化主要体现在深色模式，输入框和相关按钮不再是灰色，展开“加号”菜单后底部面板与轮播选项的主题色也更明显；完整聊天界面暂未提供该配色，“屏幕内容”则已在稳定版 17.26 广泛推送，配色更新随 Google 应用测试版 17.28 推出。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/02/june-2026-android-drop/",
               "source_name": "9to5Google",
               "published_at": "2026-06-03T02:00:00+08:00"
-            },
-            {
-              "title": "Google Phone 推出基于 RCS 的安卓假冒来电检测",
-              "brief": "Google Phone 正在推出基于 RCS 的 Android 假冒来电检测，用于识别骗子冒充家人或熟人的通话。该功能要求通话双方都使用 Android 和 Phone by Google，并安装 Google Messages 与 Google Contacts；当联系人来电时，系统会通过端到端加密的 RCS 静默验证设备身份，若缺少确认信号且对方真实设备否认正在拨号，屏幕就会提示立即挂断，本月先从 Pixel 面向全球 Android 12+ 推出。",
-              "source_url": "https://9to5google.com/2026/06/02/google-phone-fake-call-detection/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-03T02:00:00+08:00"
-            },
-            {
-              "title": "今日安卓应用限免与促销：LIMBO、Armed Emeth、Thronefall 等",
-              "brief": "9to5Toys 汇总了当天多款 Android 应用与游戏的限时降价和免费优惠，包括 LIMBO、Armed Emeth、Thronefall、Data Defense 和 DRAGON QUEST BUILDERS。文章属于其日常促销整理，本次既有《Slime Legends - Survivor》等免费项目，也列出多款仍在进行中的折扣，并顺带提到联想 Legion Tab Gen 5 与三星 Galaxy S25 Ultra 的硬件优惠。",
-              "source_url": "https://9to5toys.com/2026/06/02/today-android-app-deals-armed-emeth-thronefall/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-03T01:35:03+08:00"
-            },
-            {
-              "title": "亚马逊确认 Prime Day 日期，Pixel 10 最高降价 300 美元",
-              "brief": "亚马逊在确认下一次 Prime Day 将于 6 月 23 日至 26 日举行后，提前下调 Pixel 10 系列售价。这波促销围绕活动前的早鸟优惠展开，而该系列原本就以谷歌自研芯片和软件提供较高性价比。具体来看，Pixel 10 128GB 降至 599 美元，Pixel 10 Pro 多个版本约便宜 250 美元，Pixel 10 Pro XL 两个版本最高直降 300 美元，结束时间尚未公布。",
-              "source_url": "https://9to5google.com/2026/06/02/pixel-10-300-off-early-prime-day/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-03T00:09:42+08:00"
             }
           ]
         },
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "开源应用或让 WHOOP 用户摆脱高价订阅",
+              "brief": "开源应用 Goose 尝试在不订阅的情况下读取 WHOOP 健身追踪器数据，可能为用户提供绕开年费模式的新选择。WHOOP 目前要求设备必须配合订阅使用，起价每年199美元。开发者 Bennet 表示 Goose 仍是超早期 pre-alpha，更像概念验证，但已经能初步拉取并显示数据。",
+              "source_url": "https://www.androidauthority.com/open-source-whoop-app-3673542/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-03T03:45:19+08:00"
+            },
+            {
+              "title": "Google Home 推出个性化宠物提醒",
+              "brief": "Google Home 新增“宠物记忆”功能，可记住宠物姓名和种类，让室内摄像头通知从泛泛的动物识别变成更具体的个体提醒。该功能旨在减少误识别并提供更个性化更新，适用于室内 Nest 摄像头和部分内置 Gemini 的摄像头，正向 Google Home Premium Advanced 用户推送。",
+              "source_url": "https://www.androidauthority.com/google-home-pet-memory-3673579/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-03T03:40:34+08:00"
+            },
+            {
+              "title": "Audible 推出听书奖励计划",
+              "brief": "Audible 在美国推出 Audible Rewards，向 Standard 和 Premium 会员提供新的忠诚度奖励计划，把听书行为与折扣和额外权益挂钩。会员可免费参加，获得折扣奖励、邀请返利、周年礼物和点数促销，并在应用和网页的 Rewards Hub 查看等级、挑战进度与成就徽章。",
+              "source_url": "https://www.androidauthority.com/audible-rewards-launched-3673564/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-03T03:18:31+08:00"
+            },
+            {
               "title": "谷歌正在为语音搜索测试新界面",
               "brief": "谷歌正在测试 Google 应用标准语音搜索的新界面，核心变化是加入“自动搜索”开关，解决用户说话时稍微停顿就可能被系统立即提交查询的问题。该开关位于页面底部四个新按钮上方的胶囊形区域，开启时显示短而粗的波形动画，关闭后则改为拉长并横向滚动的波形，让用户可在包含停顿的情况下完整说完搜索内容，但目前仍不清楚何时正式上线。",
               "source_url": "https://www.androidauthority.com/google-app-voice-search-animation-3673537/",
@@ -181,33 +202,19 @@
               "source_url": "https://www.androidauthority.com/june-2026-android-drop-3673129/",
               "source_name": "Android Authority",
               "published_at": "2026-06-03T02:00:58+08:00"
-            },
-            {
-              "title": "谷歌个人安全应用为儿童新增多项功能",
-              "brief": "谷歌将 Personal Safety 个人安全应用扩展到 13 岁以下儿童，作为 2026 年 6 月 Android Drop 的一部分，主打紧急情况下更易获取关键信息。儿童现在可在锁屏显示年龄、过敏信息以及单独列出的家长联系人，还能开启车祸检测；谷歌同时表示，青少年可使用安全确认和实时位置共享功能，但未说明这些设置是否能由 Family Link 管理。",
-              "source_url": "https://www.androidauthority.com/google-personal-safety-for-kids-3673419/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-03T02:00:52+08:00"
-            },
-            {
-              "title": "Google Photos 新工具将帮助你规划下一套穿搭",
-              "brief": "谷歌确认 Google Photos 的“数字衣橱”工具将于下周开始在美国、印度和巴西上线，适用于 Android 10 及以上设备，帮助用户在照片应用内规划穿搭。该功能会分析你过往照片中穿过的衣物，并将其整理到 Collections 标签下的 Wardrobe 文件夹中，之后可浏览单品、混搭造型并进行虚拟试穿。",
-              "source_url": "https://www.androidauthority.com/google-photos-wardrobe-find-the-look-3673427/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-03T02:00:35+08:00"
-            },
-            {
-              "title": "Google Play 图书新工具让你更容易接着读下去",
-              "brief": "谷歌今日开始为 Google Play 图书与有声书应用推送“Book Insights”，让用户在不离开阅读页面的情况下，更容易重新接上书中的情节与人物。该功能目前适用于部分英文书籍，缩小页面后可通过右上角灯泡图标进入，使用“Catch me up”生成已读内容摘要，也能高亮段落继续提问，了解主题、背景或角色信息。",
-              "source_url": "https://www.androidauthority.com/google-play-books-book-insights-3672922/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-03T02:00:06+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "亚马逊 Luna 6 月游戏阵容加入《空洞骑士》",
+              "brief": "亚马逊公布 Luna 6 月新增阵容，《空洞骑士：虚空之心版》成为本月主打作品，另有《洛克人11》和《ULTRAKILL》加入云游戏平台。这次更新还覆盖 Prime 会员的 PC 福利，6 月内可分批领取《古墓丽影 IV-VI 重制版》《黑手党 III：终极版》《XCOM：奇美拉战队》等游戏代码；《宇宙的巨人希曼：传奇联盟》也将于 6 月 5 日上线，并归入可用手机操控的 GameNight 系列。",
+              "source_url": "https://www.engadget.com/2186131/amazon-luna-adds-hollow-knight-to-its-catalog-for-june/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-03T04:26:51+08:00"
+            },
             {
               "title": "Android 现可警告冒充熟人的来电",
               "brief": "谷歌在Android 17正式发布前，先向Android推送一批更新，重点是把诈骗来电识别进一步升级。若来电者冒充通讯录联系人，且双方都使用Phone by Google，系统会借助端到端加密的RCS静默验证来电设备，未收到确认就提示尽快挂断；该功能适用于Android 12及以上机型，个人安全应用也将向13岁以下用户开放锁屏急救信息与安全功能。",
@@ -235,19 +242,33 @@
               "source_url": "https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/",
               "source_name": "Engadget",
               "published_at": "2026-06-03T00:32:01+08:00"
-            },
-            {
-              "title": "《星际火狐》重制版是对系列未来的一次测试",
-              "brief": "任天堂在让《星际火狐》沉寂近十年后推出重制版试玩，这款作品更像是在为系列未来探路，而非直接宣布全新续作。预览显示，游戏在过场、角色互动和飞行细节上大幅升级，Arwing操控依旧紧凑顺手；但这种高度贴近原作的设计，也让它既像致敬经典，也承担着测试玩家兴趣的任务。",
-              "source_url": "https://www.engadget.com/2185271/the-star-fox-remake-is-a-test-for-the-franchises-future/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-02T21:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "PlayStation 2026年6月 State of Play：全部消息与预告",
+              "brief": "索尼于6月2日举行新一场PlayStation State of Play，在夏日游戏节周末正式展开前率先登场，整场直播时长超过60分钟。发布会正值PlayStation面临PS5持续涨价、服务型游戏战略受挫的关键阶段。索尼表示将带来来自全球顶级工作室的更新、公布与实机演示，并确认会重点展示《漫威金刚狼》，这款作品定于9月15日发售。",
+              "source_url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+              "source_name": "The Verge",
+              "published_at": "2026-06-02T16:40:00-04:00"
+            },
+            {
+              "title": "我上手了下一代掌机",
+              "brief": "作者上手了搭载英特尔Arc G3 Extreme的MSI Claw 8 EX AI Plus，认为它让下一代掌机再次出现明显进步。英特尔此前经历裁员、桌面CPU故障与多条产品线受压等困境，但采用18A制程的Panther Lake笔记本芯片表现出色。基于这一平台的掌机版本，可能帮助英特尔在便携游戏芯片竞争中重新取得优势。",
+              "source_url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
+              "source_name": "The Verge",
+              "published_at": "2026-06-02T15:56:02-04:00"
+            },
+            {
+              "title": "Microsoft Build 2026：7项最大发布",
+              "brief": "微软以Build 2026主题演讲拉开大会序幕，发布内容几乎都围绕AI展开，由纳德拉等高管介绍新Surface硬件、常开型个人助理和自研模型更新。其一项重点新品是面向开发者的Surface RTX Spark Dev Box，用于在本地运行AI模型，配备英伟达Arm架构Spark RTX芯片与128GB统一内存。",
+              "source_url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+              "source_name": "The Verge",
+              "published_at": "2026-06-02T15:23:52-04:00"
+            },
             {
               "title": "特朗普签署行政命令，要求AI模型发布前接受审查",
               "brief": "特朗普签署一项行政命令，要求在先进AI模型公开发布前建立供联邦政府审查的“自愿框架”。背景是白宫一方面强调不过度监管以免压制美国AI产业创新，另一方面承认新能力带来安全风险。命令要求多个联邦机构制定评估模型高级网络能力的机制，但企业是否向政府共享信息仍可自行决定。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
               "source_name": "The Verge",
               "published_at": "2026-06-02T14:15:00-04:00"
-            },
-            {
-              "title": "微软首款高级推理AI正式亮相",
-              "brief": "微软在Build 2026发布七款自研AI模型，其中旗舰推理模型MAI-Thinking-1首次亮相。背景是微软去年才推出自家模型，此前长期依赖OpenAI，双方最近又重新谈判以降低绑定。微软称这是一款中等规模模型，在关键软件工程基准上可比肩领先模型，并强调训练基于清洁数据，未蒸馏第三方模型。",
-              "source_url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-              "source_name": "The Verge",
-              "published_at": "2026-06-02T14:12:44-04:00"
-            },
-            {
-              "title": "耐用且可漂浮的 UE Wonderboom 4 降至历史低价",
-              "brief": "UE Wonderboom 4蓝牙音箱降至目前最低价，蓝色款在亚马逊售51.49美元，沃尔玛和百思买售51.99美元。此次促销较80美元原价便宜28美元，其他配色大多仍在69.99美元左右。报道指出，这款音箱主打耐用、防水可漂浮，并在紧凑体积下提供较大的声音表现。",
-              "source_url": "https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-02T14:05:35-04:00"
-            },
-            {
-              "title": "微软推出基于 OpenClaw 的 AI 个人助理 Scout",
-              "brief": "微软发布基于OpenClaw打造的AI个人助理Scout，并将其定位为面向客户的“首个真正的个人助理”。它会常驻运行并接入Outlook、OneDrive和Teams等Microsoft 365应用，帮助员工整理日程、报销和起草邮件。与嵌在应用内的Copilot不同，微软称Scout可看到并执行更多任务，交互形式也不只是聊天。",
-              "source_url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-              "source_name": "The Verge",
-              "published_at": "2026-06-02T14:00:00-04:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "罗伯特·帕丁森的《信条》搭档否定了他关于尼尔的大胆理论",
-              "brief": "罗伯特·帕丁森在接受《GQ》采访时回忆，他在《信条》拍摄最后一周提出“尼尔一直都已经死了”的看法，却被约翰·大卫·华盛顿当场否定。文章回顾电影结尾称，佩戴橙色挂饰的蒙面士兵为主角挡下子弹后牺牲，随后又揭示尼尔来自未来、由未来版本的主角招募，两人还经历过更多冒险，但尼尔的故事最终停在这里，镜头也特写了他背包上的同款挂饰，因此这一猜想并非毫无根据。",
-              "source_url": "https://www.ign.com/articles/robert-pattinsons-tenet-co-star-shot-down-his-wild-theory-about-neil",
+              "title": "《古墓丽影：亚特兰蒂斯遗产》似乎延期至2027年",
+              "brief": "Wario64在X/Twitter上分享了亚马逊两则《古墓丽影：亚特兰蒂斯遗产》页面，页面显示定价59.99美元、发售日为2027年2月10日，令外界判断本作已延期。相关链接目前都无法打开，官方也没有给出解释。IGN称，《GTA 6》预计11月发售势必吸走大量注意力，而本作若改到这一时段之后，也将与同样延期到2027年2月的微软《神鬼寓言》同期竞争。",
+              "source_url": "https://www.ign.com/articles/it-looks-like-tomb-raider-legacy-of-atlantis-is-delayed-to-2027",
               "source_name": "IGN",
-              "published_at": "2026-06-03T00:42:41+08:00"
+              "published_at": "2026-06-03T03:41:33+08:00"
             },
             {
-              "title": "《辐射76》PS5 与 Xbox Series 版本定于今夏推出",
-              "brief": "Bethesda确认《辐射76》将在今年夏季推出PS5与Xbox Series X|S版本，面向所有已拥有游戏的玩家开放，但目前仍未公布确切日期。官方表示，测试版将于6月在PlayStation和Xbox商店上线，完整更新会在“今夏稍后”发布；这款游戏2018年先登陆PC、PS4和Xbox One，官方此前一直优先维护现有平台，如今终于补上主机世代升级。",
-              "source_url": "https://www.ign.com/articles/fallout-76-ps5-and-xbox-series-versions-set-for-summer-launch",
+              "title": "《玩具总动员3》游戏复刻版公布，将与经典合集同步发售",
+              "brief": "Digital Eclipse宣布推出《玩具总动员：复古大集结》和《玩具总动员3：完整版》，将登陆PS4、PS5、Switch、Switch 2、Xbox Series X|S及PC，并提供39.99美元实体合辑或24.99美元单独版本。合集收录多款早期《玩具总动员》作品与《虫虫危机》游戏，新增随时存档、倒带、作弊和幕后内容；《玩具总动员3》则以4K、60帧及完整内容回归现代平台。",
+              "source_url": "https://www.ign.com/articles/toy-story-3-video-game-remaster-announced-releasing-alongside-collection-of-original-toy-story-games",
               "source_name": "IGN",
-              "published_at": "2026-06-03T00:25:09+08:00"
+              "published_at": "2026-06-03T03:20:10+08:00"
             },
             {
-              "title": "汤姆·赫兰德称自己曾想用“30岁后不再演蜘蛛侠”吓唬索尼",
-              "brief": "汤姆·赫兰德表示，他2021年那句“如果30岁后还在演蜘蛛侠就说明哪里不对”的说法，部分目的是在续约前“制造恐慌”，给索尼施压。那时他刚拍完《蜘蛛侠：英雄无归》，初始三部曲告一段落，也公开流露想暂时离开角色的念头；此后他确实暂停表演一年，如今则将继续主演《蜘蛛侠：全新一天》。",
-              "source_url": "https://www.ign.com/articles/tom-holland-suggests-he-was-trying-to-scare-sony-by-saying-hed-quit-playing-spider-man-after-turning-30",
+              "title": "据称 Valve 曾威胁将《彩虹六号：围攻》从 Steam 下架",
+              "brief": "彭博社援引反垄断诉讼中披露的邮件称，Valve曾因育碧在UPlay提供更便宜的15美元《彩虹六号：围攻》入门包，而威胁最迟次日将游戏从Steam下架。报道借此指向Valve对想强化自家商店的发行商采取强硬做法；华纳当年也曾因《中土世界：战争之影》在其他零售渠道价格更低，被Steam删除预购后紧急沟通处理。",
+              "source_url": "https://www.ign.com/articles/valve-reportedly-threatened-to-delist-rainbow-six-siege-on-steam-after-ubisoft-offered-cheaper-alternative",
               "source_name": "IGN",
-              "published_at": "2026-06-03T00:24:11+08:00"
+              "published_at": "2026-06-03T03:18:48+08:00"
             },
             {
-              "title": "IGN Live 2026 试玩阵容包含《极限竞速：地平线6》和007新作",
-              "brief": "IGN公布IGN Live 2026现场可试玩游戏阵容，其中包括《极限竞速：地平线6》和《007：First Light》等作品。作为涵盖游戏、电影、电视、漫画与收藏品的综合活动，本届展会门票已开售，现场将提供超过170个游戏体验站，覆盖PC、PS5、Xbox Series X、ROG Xbox Ally X、Nintendo Switch 2等平台，并安排街机、弹珠台、预告片和名人访谈等内容。",
-              "source_url": "https://www.ign.com/articles/ign-live-2026-playable-games-lineup",
+              "title": "罗伯特·帕丁森坚称拍《新蝙蝠侠》时每天都在锻炼",
+              "brief": "罗伯特·帕丁森在接受GQ采访时表示，为拍摄《新蝙蝠侠》自己每天都训练，甚至会在凌晨三点起床一天练两次，以回应外界对他身材准备不足的批评。争议部分源于他早先在采访里把健身说得“不酷”，让一些观众误以为他不重视角色；他还提到2020年疫情隔离期间，自己的训练确实一度受影响。",
+              "source_url": "https://www.ign.com/articles/robert-pattinson-insists-he-worked-out-every-day-for-the-batman",
               "source_name": "IGN",
-              "published_at": "2026-06-03T00:00:00+08:00"
+              "published_at": "2026-06-03T02:06:36+08:00"
             },
             {
-              "title": "汤姆·赫兰德透露《奥德赛》如何“差点救了”《蜘蛛侠：全新一天》",
-              "brief": "汤姆·赫兰德透露，克里斯托弗·诺兰的《奥德赛》差点“救了”《蜘蛛侠：全新一天》。由于两片档期冲突，他不得不致电索尼请求调整，最终《蜘蛛侠》拍摄被推迟六个月；这段额外时间让德斯汀·丹尼尔·克雷顿得以及时接手，并让他、导演和索尼把剧本打磨到现在的状态，而不是到了片场再边拍边定。",
-              "source_url": "https://www.ign.com/articles/tom-holland-reveals-how-the-odyssey-almost-saved-spider-man-brand-new-day",
+              "title": "2026年6月 PlayStation State of Play 公布内容汇总",
+              "brief": "IGN对2026年6月的PlayStation State of Play进行直播式汇总，持续更新这场超过一小时发布会中的重要消息，重点关注《漫威金刚狼》新演示、《星际：异端先知》等作品的新内容。文章同时汇总了会前预期与网络传闻，包括索尼圣莫尼卡下一步的《战神》动向、初代《声名狼藉》重制，以及玩家仍在期待的《血源》重制可能性。",
+              "source_url": "https://www.ign.com/articles/playstation-state-of-play-june-2026-everything-announced",
               "source_name": "IGN",
-              "published_at": "2026-06-02T23:37:28+08:00"
+              "published_at": "2026-06-03T02:00:00+08:00"
             }
           ]
         },
@@ -407,6 +407,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "谷歌扩大 Quick Share 与 AirDrop 互传支持，覆盖更多安卓手机",
+              "brief": "谷歌扩大了支持与AirDrop互传的Quick Share机型范围，新增多款三星、Pixel、荣耀、一加、小米、OPPO和vivo手机。该功能自2025年11月接入后，旨在打通安卓与苹果生态近场分享；安卓端需开启“与Apple设备共享”，iPhone端将AirDrop设为“所有人，持续10分钟”，未适配机型可扫码经云端分享，且安卓还可与iPad和Mac互传。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564478.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T03:51:45+08:00"
+            },
+            {
+              "title": "三星将美国总部迁往得州普莱诺",
+              "brief": "三星计划把美国总部从新泽西恩格尔伍德克利夫斯迁至得州普莱诺，目标是在今年内完成。新址位于泰勒半导体工厂约200英里范围内，呼应其在当地扩建晶圆厂和代工业务的布局；公司2024年还获得美国政府约66亿美元补贴，约千名员工中多数预计随总部迁移，少数留在新泽西支持当地业务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564476.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T03:50:58+08:00"
+            },
+            {
               "title": "微软发布 MAI-Thinking-1 推理模型和 MAI-Code-1 编程模型",
               "brief": "微软发布自研推理模型 MAI-Thinking-1 和代码模型 MAI-Code-1，并同步升级语音、转写与图像产品线，补齐企业级 AI 能力组合。前者为 350 亿激活参数、支持 128K 上下文的中型模型，面向复杂推理和代码生成；后者已上线 GitHub Copilot 与 Visual Studio Code，微软还将通过 Foundry 和多家第三方平台分发 MAI 系列模型。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564474.htm",
@@ -426,20 +440,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564470.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-03T02:38:40+08:00"
-            },
-            {
-              "title": "微软发布面向 AI 智能体设备的 Project Solara",
-              "brief": "微软发布面向 AI 智能体设备的 Project Solara，并展示桌面设备与胸牌式可穿戴设备两种概念形态，作为合作伙伴开发产品的参考设计。该平台采用基于 Android 的 Microsoft Device Ecosystem Platform，而非传统 Windows，以适配更小型、低功耗硬件；AccuWeather、百思买、CVS Healthcare 和 Target 已计划启动相关设备试点。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564468.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T02:38:17+08:00"
-            },
-            {
-              "title": "微软发布新一代拓扑量子芯片 Majorana 2",
-              "brief": "微软发布新一代拓扑量子芯片 Majorana 2，称其量子比特可靠性较前代提升约 1000 倍，继续推进可扩展、可实用量子计算路线。新芯片重构材料堆叠，以铅替代铝超导材料，并采用砷化铟与砷锑化铟组合；量子比特寿命由 1 至 12 毫秒提升到超过 20 秒，部分可超过 1 分钟，公司目标在 2029 年前实现容错原型量子计算机。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564466.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T02:36:31+08:00"
             }
           ]
         },
@@ -447,39 +447,39 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "微软与英伟达展示统一 AI 智能体部署栈，Fairwater AI 工厂提前上线",
+              "brief": "微软与英伟达在 Build 大会上展示覆盖 Windows 设备、Azure 云和本地部署的统一 AI 智能体栈，推进端侧到云端一致加速。这是双方围绕模型、运行时与算力基础设施的深度合作。关键进展包括 RTX Spark、DGX Station for Windows、OpenShell 集成 GitHub Copilot，以及威斯康星州 Fairwater AI 工厂提前上线。",
+              "source_url": "https://www.ithome.com/0/959/026.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-03T03:24:56+08:00"
+            },
+            {
+              "title": "微软与梅奥诊所合作开发和部署 AI 医疗模型",
+              "brief": "微软与梅奥诊所宣布合作开发并部署面向临床推理和医疗应用的前沿 AI 模型，计划把相关能力通过云服务进一步扩展给更多机构。背景是梅奥长期以患者信任、临床严谨和安全性著称。按计划，该模型将由梅奥持有，微软再通过 Azure Foundry API 向全球机构提供，用于服务患者、临床医生和消费者。",
+              "source_url": "https://www.ithome.com/0/959/025.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-03T03:17:48+08:00"
+            },
+            {
+              "title": "微软开源 ASSERT，提升 AI 智能体与应用行为评测效率",
+              "brief": "微软发布开源框架 ASSERT，可从策略文件或系统提示自动生成测试场景、数据集、评估指标和计分卡，用于评测 AI 智能体与应用行为。其核心思路是把行为规范作为评估输入，并完成用例生成、轨迹记录和逐项评分。微软称在人审对比中，LLM 判定器与人工审核一致率通常为 80% 至 90%，但仍不能替代人工与领域专家评审。",
+              "source_url": "https://www.ithome.com/0/959/024.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-03T03:10:43+08:00"
+            },
+            {
+              "title": "微软为 Windows 11 引入后量子密码能力，TLS 预览上线",
+              "brief": "微软宣布为 Windows 11 引入更多后量子密码能力，包括 TLS 混合密钥交换预览、密码学 API 对复合算法的支持，以及 ADCS 签发 ML-DSA 证书。背景是其去年已让 PQC 算法在 Windows 11 和 Windows Server 2025 上全面可用。当前 ADCS 签发已正式上线，其余能力先在 Insider 预览版提供，后续数月将逐步普及。",
+              "source_url": "https://www.ithome.com/0/959/023.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-03T02:57:03+08:00"
+            },
+            {
               "title": "微软发布开源 ACS 标准，细化 AI 智能体行为控制",
               "brief": "微软发布开源的智能体控制规范 ACS，试图为开发者提供统一且更细粒度的 AI 智能体行为治理方式。背景是当前控制手段常分散在提示词、自定义检查和分类模型中，既难审计也难复用。ACS 允许开发、合规与安全团队共同定义规则，并在输入、工具调用前后及最终回复前执行检查，可放行、阻止、脱敏或要求人工审批。",
               "source_url": "https://www.ithome.com/0/959/022.htm",
               "source_name": "IT之家",
               "published_at": "2026-06-03T02:46:54+08:00"
-            },
-            {
-              "title": "微软推出量子芯片 Majorana 2，目标 2029 年实现实用机器",
-              "brief": "微软发布量子芯片 Majorana 2，并将实用量子计算机原型目标提前至 2029 年。此举基于其新材料栈设计及 Discovery 智能体 AI 的协助，相比上一代芯片，拓扑相更稳定。微软称该芯片以铅取代铝超导体，并改用砷化铟与砷化铟锑组合，使量子比特寿命从毫秒级提升到 20 秒以上，部分甚至可达分钟级。",
-              "source_url": "https://www.ithome.com/0/959/021.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-03T02:46:25+08:00"
-            },
-            {
-              "title": "谷歌为 Android 推出虚假来电检测，防 AI 克隆语音冒充诈骗",
-              "brief": "谷歌宣布为 Android 推出业内首创的虚假来电检测功能，用于识别利用 AI 克隆语音冒充熟人的诈骗电话。背景是深度伪造语音与号码伪装正推动身份冒充欺诈上升，且多数人已难仅凭听觉判断真伪。该功能默认开启，基于端到端加密的 RCS 静默验证真实设备；若号码被伪造且对方设备并未拨号，系统会立即弹窗提醒用户挂断。",
-              "source_url": "https://www.ithome.com/0/959/020.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-03T02:36:54+08:00"
-            },
-            {
-              "title": "微软发布 Scout，深度整合 Microsoft 365 生态",
-              "brief": "微软发布名为 Scout 的 AI 助手，深度整合 Microsoft 365 生态，并已先在内部员工中投入使用。其定位不同于普通聊天机器人，目标是结合邮件、Teams 聊天、会议记录和日程，逐步了解用户重视事项并主动协助管理。它可推荐最佳出发时间、处理日程和报销、起草邮件甚至主动拨号，本周仅向美国 Frontier 客户开放桌面预览。",
-              "source_url": "https://www.ithome.com/0/959/019.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-03T02:28:39+08:00"
-            },
-            {
-              "title": "微软发布首款高级推理模型 MAI-Thinking-1",
-              "brief": "微软发布首款高级推理模型 MAI-Thinking-1，并强调该模型基于干净数据从零训练，未使用第三方模型蒸馏数据。此次发布延续了微软扩充自研 MAI 模型家族的方向，覆盖更多 AI 应用场景。同期公布的还有支持文生图与编辑的 MAI-Image 2.5、转写模型 MAI-Transcribe-1.5、语音模型 MAI-Voice-2，以及已集成至 GitHub Copilot 和 Visual Studio Code 的 MAI-Code-1。",
-              "source_url": "https://www.ithome.com/0/959/018.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-03T02:22:47+08:00"
             }
           ]
         }
