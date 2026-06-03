@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T14:56:53.668649+08:00",
+  "generated_at": "2026-06-03T16:57:42.293920+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "NotebookLM 移动应用新增三种报告格式",
-              "brief": "Google宣布，NotebookLM移动应用现已支持生成简报文档、学习指南和博客文章三种新报告格式，继续扩展这款可导入个人资料并向Gemini提问的笔记整理工具。此前它已提供音频和视频概览、幻灯片、抽认卡及信息图等内容类型；其中简报突出关键信息与引语，学习指南附带测验和术语表，官方还表示思维导图、保存笔记和自动标注功能也将很快登陆移动端。",
-              "source_url": "https://www.androidauthority.com/notebooklm-new-report-formats-3673677/",
+              "title": "Fitbit Air 的核心追踪功能疑似出问题",
+              "brief": "多名 Fitbit Air 用户反映，这款主打无感记录的手环在睡眠追踪上出现明显偏差，有人明明还清醒却被判定已入睡，也有人一小时睡眠被记成 422 步。类似抱怨也出现在部分旧款 Fitbit 设备上，相关反馈已在 X 和 Reddit 持续增多；有用户称自己一直用手机到凌晨 12:45，设备却显示其晚上 11 点就已睡着，而谷歌目前尚未公开回应。",
+              "source_url": "https://www.androidauthority.com/google-fitbit-air-tracking-issues-3673689/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-03T14:22:16+08:00"
+              "published_at": "2026-06-03T16:32:01+08:00"
             },
             {
-              "title": "Gemini 会说会动的 AI 分身 Avatar 开始广泛推送",
-              "brief": "Google正将Gemini应用中的Avatar功能更广泛地推送给付费订阅用户，这项功能可用用户本人面部和声音创建一个可说话、可出镜的AI分身。其背景是该功能早在3月的APK拆解中就曾被发现，如今可在设置里的Avatar入口完成录制建模，并能在聊天中用@me或用户名直接调用；所有生成视频都会加入不可见的SynthID水印，且仅限18岁及以上用户使用。",
-              "source_url": "https://www.androidauthority.com/google-gemini-avatar-wider-rollout-3673670/",
+              "title": "谷歌向所有用户开放 Gemini“Extended”思考模式",
+              "brief": "谷歌已将 Gemini 的“Extended”思考模式开放给所有用户，免费版和付费版都可在网页端、Android 与 iOS 客户端使用。该功能让模型在回答前花更多时间权衡内容，与此前逐步推出的思考等级控制有关；用户可在模型设置中为 Gemini 3.5 Flash 和 Gemini 3.5 Flash-light 选择“Standard”或“Extended”，但更深度思考也可能更快消耗额度。",
+              "source_url": "https://www.androidauthority.com/google-gemini-extended-thinking-everyone-3673702/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-03T13:25:31+08:00"
+              "published_at": "2026-06-03T16:03:53+08:00"
             },
             {
-              "title": "T-Mobile 将 6 月设为“会员月”，新增多项福利",
-              "brief": "T-Mobile为庆祝T-Mobile Tuesdays十周年，把6月定为“会员月”，集中推出赠品、折扣、旅行优惠和抽奖活动，延续其长期会员回馈计划。新增福利包括达美航班免费高级饮品，且该权益将在6月后继续保留；符合条件用户可再获一年DashPass，壳牌6月每加仑最高优惠50美分，并将在洛杉矶、休斯敦和芝加哥部分加油站提供一天1.99美元/加仑优惠。",
-              "source_url": "https://www.androidauthority.com/t-mobile-member-month-perks-june-2026-3673664/",
+              "title": "谷歌部署新版 Gemini 3.5 Flash，并重置 Gemini 使用额度",
+              "brief": "谷歌在部署新版 Gemini 3.5 Flash 的同时，将所有免费和付费 Gemini 用户的额度计数器全部重置为零。这次更新针对 Antigravity 中上一版模型暴露的问题而来；此前 Low-effort 版本虽将 token 生成量压低约 45%，减少简单任务消耗，却被开发者指出在稍复杂任务上输出质量和结构一致性明显下滑。Google DeepMind 团队称，新版本在更困难的软件工程任务上的耐力更高。",
+              "source_url": "https://www.androidauthority.com/google-gemini-3-5-flash-antigravity-update-3673711/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-03T11:55:10+08:00"
+              "published_at": "2026-06-03T15:58:52+08:00"
             },
             {
-              "title": "微软设计了几款基于 Android 的新硬件，但并非你想的那种",
-              "brief": "微软介绍了名为 Project Solara 的“芯片到云”平台，并展示了两款参考设备，分别是类似 Nest Hub 的桌面屏幕和可穿戴智能工牌。它不是在现有产品上简单加 AI，也不运行 Windows，而是建立在基于 AOSP 的微软设备生态平台之上，主打由多个面向不同技能的 AI 代理协同工作，并用“即时 UI”动态决定最合适的界面呈现。",
-              "source_url": "https://www.androidauthority.com/microsoft-solara-3673611/",
+              "title": "微软内部文件称其希望用户“对 AI 上瘾”",
+              "brief": "微软新发布的代理式 AI 助手 Scout 被曝内部目标之一是“让人上瘾”。这一表述来自 404 Media 获取的内部文件，当时产品仍名为 ClawPilot，相关计划分为三个阶段，后续还包括接入更多 AI 服务和增加新功能。报道指出，这番措辞出现在外界对 AI 依赖和聊天机器人成瘾问题日益关注的背景下，也引发了内部员工质疑。",
+              "source_url": "https://www.androidauthority.com/microsoft-ai-make-people-addicted-3673699/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-03T05:28:08+08:00"
+              "published_at": "2026-06-03T15:45:54+08:00"
             },
             {
-              "title": "特朗普新的 AI 行政令可能拖慢未来模型发布",
-              "brief": "特朗普周二签署新的 AI 行政令，呼吁部分 AI 公司在向公众发布新模型前，自愿提交政府进行最长 30 天的测试和评估，这可能放慢部分模型的上线节奏。与早期草案提出最长 90 天审查相比，现版本时限有所缩短；此外，该命令还要求司法部把 AI 辅助黑客攻击和未经授权访问列为高优先级犯罪处理。",
-              "source_url": "https://www.androidauthority.com/ai-model-review-executive-order-3673605/",
+              "title": "谷歌让你更容易 3D 打印自己的 Fitbit Air 腕带",
+              "brief": "谷歌公布了为 Fitbit Air 设计自定义腕带的官方说明和 2D CAD 图纸，让第三方品牌和创作者更容易制作配件。此举延续了该设备强调易用与开放配件设计的思路，文档不仅说明如何让传感器贴合皮肤，也给出了配合尺寸、公差以及装卸受力等要求。谷歌还强调固定套需要在便于取放与稳固之间取得平衡，并建议使用适合皮肤接触的安全材料。",
+              "source_url": "https://www.androidauthority.com/google-fitbit-air-custom-bands-3673696/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-03T04:56:01+08:00"
+              "published_at": "2026-06-03T15:09:46+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "谷歌分享 Fitbit Air 蓝图，方便用户 3D 打印自制配件",
+              "brief": "谷歌公布了Fitbit Air的技术规格和2D CAD图纸，让个人用户和第三方都能按精确尺寸为这款无屏健康手环设计并3D打印配件。Fitbit Air今年5月初以100美元上市，可连接Google Health应用和由Gemini驱动的Coach；官方同时提醒，配件必须保证传感器稳定贴肤，并采用防刺激、无铅铜和黄铜及低致敏乳胶等材料。",
+              "source_url": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-03T16:17:26+08:00"
+            },
             {
               "title": "波兰拟在学校禁用手机和智能手表",
               "brief": "波兰政府批准一项法案，拟禁止16岁以下学生在校期间使用手机和智能手表，范围涵盖上课、课间和课后活动。法案仍待议会及总统卡罗尔·纳夫罗茨基批准，政府称此举是为应对青少年对手机和互联网的成瘾问题。若获通过，学生可携带设备入校但须集中存放，教师及因疾病、残障等有特殊需求的学生不受限制，最早将于9月1日新学年生效。",
@@ -223,31 +230,31 @@
               "published_at": "2026-06-03T08:03:09+08:00"
             },
             {
+              "title": "Insomniac《漫威金刚狼》首曝实机，近战表现血腥",
+              "brief": "索尼State of Play上，Insomniac首次展示了《漫威金刚狼》的实机玩法，并确认游戏将于9月15日登陆PlayStation 5。这是外界首次较完整看到作品如何运作，预告片中金刚狼穿经典战衣在屋顶、摩托车和疾驶车辆间追击敌人，还与琴·葛蕾联手，近战战斗以血腥砍杀和躲避枪火为核心。",
+              "source_url": "https://www.engadget.com/2186187/insomniac-games-wolverine-looks-comically-violent/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-03T05:22:42+08:00"
+            },
+            {
               "title": "亚马逊 Luna 6 月游戏阵容加入《空洞骑士》",
               "brief": "亚马逊公布 Luna 6 月新增阵容，《空洞骑士：虚空之心版》成为本月主打作品，另有《洛克人11》和《ULTRAKILL》加入云游戏平台。这次更新还覆盖 Prime 会员的 PC 福利，6 月内可分批领取《古墓丽影 IV-VI 重制版》《黑手党 III：终极版》《XCOM：奇美拉战队》等游戏代码；《宇宙的巨人希曼：传奇联盟》也将于 6 月 5 日上线，并归入可用手机操控的 GameNight 系列。",
               "source_url": "https://www.engadget.com/2186131/amazon-luna-adds-hollow-knight-to-its-catalog-for-june/",
               "source_name": "Engadget",
               "published_at": "2026-06-03T04:26:51+08:00"
-            },
-            {
-              "title": "Android 现可警告冒充熟人的来电",
-              "brief": "谷歌在Android 17正式发布前，先向Android推送一批更新，重点是把诈骗来电识别进一步升级。若来电者冒充通讯录联系人，且双方都使用Phone by Google，系统会借助端到端加密的RCS静默验证来电设备，未收到确认就提示尽快挂断；该功能适用于Android 12及以上机型，个人安全应用也将向13岁以下用户开放锁屏急救信息与安全功能。",
-              "source_url": "https://www.engadget.com/2184125/android-will-now-warn-you-if-a-caller-is-impersonating-someone-you-know/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-03T02:00:00+08:00"
-            },
-            {
-              "title": "欧洲议会或将不再把谷歌设为默认搜索引擎",
-              "brief": "据Politico报道，欧洲议会最快将于6月4日起不再在内部电脑上默认使用谷歌搜索，Firefox和Edge地址栏搜索会改由法国搜索引擎Qwant处理。此举被称为符合数字主权和用户数据保护承诺；员工仍可访问其他搜索网站或自行更改默认设置，背景是欧盟正推动减少对外国科技的依赖。",
-              "source_url": "https://www.engadget.com/2185957/the-european-parliament-may-be-ditching-google-as-its-default-search-engine/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-03T01:56:55+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "英国裁定谷歌必须允许出版商退出 AI 搜索功能",
+              "brief": "英国竞争与市场管理局发布新的行为规则，要求谷歌允许网站所有者将内容排除在 AI Overviews 等 AI 搜索功能之外，并禁止把这些内容用于微调谷歌的 AI 模型。监管方称此举属全球首次，将让新闻机构等出版商在与谷歌谈判内容合作时拥有更强筹码，同时谷歌还必须以清晰链接对出版商内容进行适当署名。",
+              "source_url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+              "source_name": "The Verge",
+              "published_at": "2026-06-03T04:45:48-04:00"
+            },
             {
               "title": "《战神：劳菲》将登陆 PS5",
               "brief": "索尼在 2026 年 6 月 State of Play 的压轴环节公开《战神：劳菲》，确认新作仍由圣莫尼卡工作室开发，发售时将登陆 PS5，但具体日期未定。与前作长期聚焦奎托斯不同，这次玩家将操作菲/劳菲，整体气质相近却更偏腾跃式动作和魔法战斗；演示还出现会飞的六脚巨猫、名为 Phranque 的会说话凝胶方块，以及黛博拉·安·沃尔回归配音。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
               "source_name": "The Verge",
               "published_at": "2026-06-02T16:40:00-04:00"
-            },
-            {
-              "title": "我上手了下一代掌机",
-              "brief": "作者上手了搭载英特尔Arc G3 Extreme的MSI Claw 8 EX AI Plus，认为它让下一代掌机再次出现明显进步。英特尔此前经历裁员、桌面CPU故障与多条产品线受压等困境，但采用18A制程的Panther Lake笔记本芯片表现出色。基于这一平台的掌机版本，可能帮助英特尔在便携游戏芯片竞争中重新取得优势。",
-              "source_url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-              "source_name": "The Verge",
-              "published_at": "2026-06-02T15:56:02-04:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《Hell Let Loose：Vietnam》延期至8月发售",
+              "brief": "《Hell Let Loose：Vietnam》宣布从原定6月18日数字版发售推迟到8月13日。这一调整发生在这款50对50多人射击游戏完成封闭与公开测试之后，发行与开发团队在联合声明中表示，结合玩家反馈以及针对PC和主机版本开展的密集内部试玩，他们发现多个环节仍需额外开发时间，因此决定延后上线，以确保游戏在发售时达到预期质量，并带来更稳妥的首发体验。",
+              "source_url": "https://www.ign.com/articles/hell-let-loose-vietnam-has-been-delayed-until-august",
+              "source_name": "IGN",
+              "published_at": "2026-06-03T14:42:17+08:00"
+            },
+            {
+              "title": "伊德里斯·艾尔巴获授爵士头衔",
+              "brief": "演员伊德里斯·艾尔巴已正式获授爵士头衔，这项荣誉此前已于2025年底公布，属于2026年新年授勋名单的一部分。官方表彰他在青年事业上的贡献；他于2022年创立Elba Hope Foundation，18岁时也曾依靠当时名为Prince’s Trust的慈善机构资助进入国家青年音乐剧院。艾尔巴因《火线》和《路德》成名，并将于本月出演《Masters of the Universe》。",
+              "source_url": "https://www.ign.com/articles/sir-idris-elba-has-been-awarded-a-knighthood",
+              "source_name": "IGN",
+              "published_at": "2026-06-03T14:09:51+08:00"
+            },
             {
               "title": "《影之刃零》延期至2026年10月下旬发售",
               "brief": "S-Game宣布《影之刃零》发售日由2026年9月9日推迟至10月29日，并通过工作室账号向玩家致歉。团队表示，近几个月在收尾阶段看到了让作品“再向前一步”的最后机会，因此决定追加50天开发时间。延后期间将升级角色模型、重做环境，并在不过度依赖光线追踪的前提下尽量保留视觉冲击，以便首发即交付更完整版本，今夏还会公布更多内容。",
@@ -313,26 +327,33 @@
               "source_url": "https://www.ign.com/articles/control-resonant-release-date-announced-in-new-trailer-costs-60",
               "source_name": "IGN",
               "published_at": "2026-06-03T07:05:34+08:00"
-            },
-            {
-              "title": "导演称漫威电影宇宙将借《复仇者联盟：末日》“回到零阶段”",
-              "brief": "《复仇者联盟：末日》导演罗素表示，漫威电影宇宙将“回到零阶段”，把这部新片当作一次从头开始的重启节点。导演称影片会有一些“转变与变化”，目的就是让观众感到它并不依赖过去的包袱来推进。该片由曾饰演钢铁侠的小罗伯特·唐尼改演反派毁灭博士，罗素还说他们当天刚与唐尼讨论过这一“重新从零开始”的概念。",
-              "source_url": "https://www.ign.com/articles/marvel-cinematic-universe-is-back-to-phase-zero-with-avengers-doomsday-director-says",
-              "source_name": "IGN",
-              "published_at": "2026-06-03T06:48:03+08:00"
-            },
-            {
-              "title": "《漫威金刚狼》没有蜘蛛侠，金刚狼将与谁并肩作战？",
-              "brief": "Insomniac向IGN确认，《漫威金刚狼》虽与《漫威蜘蛛侠》同处编号1048的游戏宇宙，但蜘蛛侠不会在本作登场，因此不会出现跨作联动。作为补充，开发团队透露金刚狼会与琴·葛蕾并肩作战，也会在对抗共同敌人时与宿敌剑齿虎短暂同队。制作人表示，剑齿虎的协作更像抢人头式竞争，战斗对白也会强化两人的对抗关系。",
-              "source_url": "https://www.ign.com/articles/is-spider-man-in-marvels-wolverine-and-who-does-wolverine-team-up-with",
-              "source_name": "IGN",
-              "published_at": "2026-06-03T06:31:23+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "研究发现雄性园丁鸟偏爱用人造亮色物品求偶",
+              "brief": "研究显示，澳大利亚雄性园丁鸟在求偶时越来越多使用亮丽人造物装饰巢穴并吸引雌鸟。发表于《Royal Society Open Science》的论文指出，城市化让这类装饰更常见，连手铐都被发现。观察显示，城市鸟使用人造装饰品的概率比农村高十倍以上，平均约90件对20件，个别城市雄鸟甚至收集了300件，且城乡个体都偏爱人造物。",
+              "source_url": "https://www.solidot.org/story?sid=84471",
+              "source_name": "Solidot",
+              "published_at": "2026-06-03T15:51:44+08:00"
+            },
+            {
+              "title": "特朗普签署行政令要求政府预先评估AI新模型",
+              "brief": "特朗普周二签署行政令，要求AI公司在正式发布新模型前，最多提前30天向美国政府提供访问权限，以便先行评估其能力。新规还要求企业在自愿基础上参与基准测试，重点评估模型的“高级网络能力”，并据此判断模型是否应被认定为“受保护的前沿模型”，把审查看点前移到发布之前。",
+              "source_url": "https://www.solidot.org/story?sid=84470",
+              "source_name": "Solidot",
+              "published_at": "2026-06-03T14:26:26+08:00"
+            },
+            {
+              "title": "Vim Classic 8.3 发布",
+              "brief": "Vim Classic 8.3 已发布，这是从主线 Vim 分化出的一个无 AI 代码分支的新版本。背景是 Vim 项目此前允许在披露来源且代码风格一致的前提下接受大模型生成代码，部分资深参与者因此另建分支。该项目基于较旧的 Vim 8.2.0148 而非 Vim 9 系列维护，8.3 主要从上游移除了部分 bug 修正和补丁，且因资源有限，一些插件与之不兼容。",
+              "source_url": "https://www.solidot.org/story?sid=84469",
+              "source_name": "Solidot",
+              "published_at": "2026-06-03T14:05:44+08:00"
+            },
             {
               "title": "欧洲议会将默认搜索引擎从 Google 改为 Qwant",
               "brief": "欧洲议会将从6月4日起把内部电脑的默认搜索引擎由Google切换为法国Qwant。调整出于数字主权和隐私考虑，Qwant自2013年成立以来主打不追踪用户、不收集个人数据，为Google之外提供欧洲本土选择。届时Firefox和Edge地址栏搜索会自动转到Qwant，但议员仍可使用其他搜索引擎或自行修改默认设置。",
@@ -346,33 +367,19 @@
               "source_url": "https://www.solidot.org/story?sid=84467",
               "source_name": "Solidot",
               "published_at": "2026-06-03T00:13:23+08:00"
-            },
-            {
-              "title": "蓝色章鱼是全新物种",
-              "brief": "科学家在加拉帕戈斯群岛深海考察时发现一只蓝色小章鱼，经鉴定属于全新物种。该章鱼位于水下约1773米，体型小巧。由于样本极其珍贵，研究团队采用mini-CT扫描而非解剖进行鉴定，发现其手臂短、吸盘少、无墨囊、皮肤光滑且有一颗巨大的脊齿。新物种被命名为Microeledone galapagensis，相关论文发表于《Zootaxis》期刊。",
-              "source_url": "https://www.solidot.org/story?sid=84466",
-              "source_name": "Solidot",
-              "published_at": "2026-06-02T23:05:53+08:00"
-            },
-            {
-              "title": "富铁免疫细胞帮助信鸽导航",
-              "brief": "研究发现，信鸽肝脏中的富铁免疫细胞可能赋予其磁罗盘能力。这些巨噬细胞富含铁蛋白，紧邻与中枢神经系统相连的神经元。实验通过药物抑制巨噬细胞活性后，18只信鸽在阴天全部迷路，而对照组16只正常导航。该机制若被证实，可能普遍适用于蜜蜂、蝙蝠、鲸鱼等动物，相关论文发表在《科学》期刊。",
-              "source_url": "https://www.solidot.org/story?sid=84465",
-              "source_name": "Solidot",
-              "published_at": "2026-06-02T22:43:26+08:00"
-            },
-            {
-              "title": "NASA低音爆超音速飞机X-59将首次尝试突破音速",
-              "brief": "NASA宣布，洛克希德马丁设计的X-59低音爆超音速飞机计划本月首次突破音速。X-59旨在以1.4马赫飞行于16.7公里高度，同时将音爆降至类似关车门的砰砰声。该机无前向窗户，采用增强现实外部视觉系统。若成功，有望解除超音速飞行限制。X-59于2025年10月首飞，2026年3月以来已完成14次试飞。",
-              "source_url": "https://www.solidot.org/story?sid=84464",
-              "source_name": "Solidot",
-              "published_at": "2026-06-02T22:06:47+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "腾讯云618活动上线：99元/年境外CN2服务器回归",
+              "brief": "腾讯云上线618年中促销，重新补货99元/年的境内外轻量应用服务器，并推出3年528元的低价方案。这次活动主打低门槛上云和续费成本可控，境外可选硅谷CN2、首尔、曼谷、法兰克福，境内覆盖上海、广州、北京、成都；另有199元/年同价续费款，活动页虽有拼团送时长，但拼团成功后不支持退款。",
+              "source_url": "https://www.appinn.com/cloud-tencent-618/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-03T15:00:39+08:00"
+            },
             {
               "title": "不知道手里的 Type-C 线是什么规格？用 WhatCable 一查便知 [macOS]",
               "brief": "WhatCable 是一款仅支持 Apple 芯片 Mac 的免费 macOS 工具，可在插入 Type-C 线缆后识别其充电、数据传输和视频输出能力。它面向外观相似但规格差异很大的 Type-C 线材，能读取 e-marker 并用通俗语言说明速度与限制；应用可在菜单栏显示信息，也提供可通过 Homebrew 安装的命令行版本，另有可监控更多内容的 Pro 版。",
@@ -400,13 +407,6 @@
               "source_url": "https://www.appinn.com/faxian-top10-2622/",
               "source_name": "小众软件",
               "published_at": "2026-06-01T09:00:55+08:00"
-            },
-            {
-              "title": "files.md：极简 Markdown 编辑器，在线、开源、本地可用",
-              "brief": "files.md 是一款极简的在线 Markdown 编辑器，支持浏览器直接使用，无需安装。特色功能包括聊天模式，可将随手记录一键转为笔记；内置收藏、稍后等分类；支持自托管（Docker）或直接打开本地 HTML 文件离线使用。数据默认存储在浏览器或本地文件，方便同步至网盘。所有文件为 .md 格式，便于 LLM 读取。",
-              "source_url": "https://www.appinn.com/files-md/",
-              "source_name": "小众软件",
-              "published_at": "2026-05-31T16:11:15+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "比特币跌至2月以来低点，热门IPO分流资金",
+              "brief": "比特币跌至2月以来低点，市场认为多宗高关注度IPO正在分流资金，加密资产面临更激烈的流动性争夺。机构称部分投资者正抛售比特币回笼资金，转向私募和热门IPO申购，这些项目也是今年关注度最高的上市项目之一；技术面上，6.5万美元被视为关键支撑，若失守，后续可能下看6.35万、6.2万及6万美元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564556.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T16:14:54+08:00"
+            },
+            {
+              "title": "阿迪达斯推出“进城办事”定制T恤，售价448元",
+              "brief": "阿迪达斯推出可定制“进城办事”T恤，单件售价448元，已在北京三里屯、上海安福路、成都太古里等品牌中心门店，以及小程序和App开售。该商品由399元净版T恤加49元专属印花组成，门店店员表示因涉及定制印号、刺绣和特殊图案服务，商品售出后不退不换，并可在当天安排寄出。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564554.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T16:12:38+08:00"
+            },
+            {
+              "title": "传DeepSeek首轮融资拟募资500亿元，腾讯京东等或参投",
+              "brief": "市场传闻称DeepSeek首轮融资拟筹集500亿元，腾讯、京东等机构可能参投，并正与国家人工智能产业投资基金、网易等洽谈。相关消息显示，国家集成电路产业投资基金此前也被曝接触深度求索，考虑主导其首轮外部融资；不过截至发稿，DeepSeek尚未就融资事宜作出公开回应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564552.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T16:11:53+08:00"
+            },
+            {
+              "title": "Google公开 Fitbit Air 设计蓝图，邀请第三方开发配件",
+              "brief": "Google公开了Fitbit Air的三页设计蓝图，提供主机胶囊和运动腕带套筒的2D CAD图纸，邀请第三方按规范开发配件。文档列出机身尺寸、装配和拆卸所需力值，并要求光学与血氧传感器完全暴露、配件材料需亲肤；有意合作的品牌还可申请加入“Made for Google”认证项目。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564550.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-03T15:58:10+08:00"
+            },
+            {
               "title": "欧洲议会因隐私考虑改用Qwant替代Google默认搜索",
               "brief": "欧洲议会把内网中 Firefox 和 Edge 地址栏的默认搜索从 Google 改为法国搜索引擎 Qwant，理由是其强调不追踪用户、不过度收集个人数据。此举与欧盟推进“技术主权”、减少对美国科技企业依赖的政策背景一致，去年已有38名跨党派议员致信要求逐步淘汰微软等非欧盟技术产品，但个人仍可手动改回其他搜索引擎。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564548.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-03T14:47:40+08:00"
-            },
-            {
-              "title": "AI推动NAND单季收入达460亿美元 传统PC出货承压",
-              "brief": "AI 尤其是 Agentic AI 带动数据中心扩张后，全球 NAND 市场 2026 年第一季度收入同比增至 460 亿美元，已超过 2023 年全年水平。增长主要来自企业级和云端存储需求，并推动价格上行；相关占比约 43%，年底前或超 60%，同时长江存储份额升至约 13%，IDC 则预计 2026 年传统 PC 出货将下滑 11.3% 至约 2.6 亿台。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564546.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T13:32:38+08:00"
-            },
-            {
-              "title": "美国制裁伊朗最大加密货币交易所Nobitex",
-              "brief": "美国财政部制裁伊朗最大加密货币交易所 Nobitex，称其在伊朗互联网关停期间仍处理数百万美元交易，并为伊朗政府、央行及革命卫队相关数字资产活动提供重要支持。此举聚焦其被指用于规避制裁和转移资产，名单同时包括两名关联兄弟及首席执行官；Nobitex 此前否认与政府有直接联系。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564544.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T13:31:50+08:00"
-            },
-            {
-              "title": "群联展示PCIe 6.0 16通道X3控制器 速度达28000MB/秒",
-              "brief": "群联展示接近完成的 PCIe 6.0 16 通道 X3 SSD 控制器，顺序读写可达 28000MB/秒、随机性能 680 万 IOPS，面向数据中心并支持最高 2PB 容量。公司称其参考设计功耗约 7W，支持 NVMe 2.3 与 OCP v2.6，预计 2026 年中开始向客户批量出货；同时还展出无 DRAM 的 PCIe 5.0 E37T 方案，性能接近旗舰 E28。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564542.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T13:29:26+08:00"
-            },
-            {
-              "title": "微软称将把Windows 11打造成“本地AI开发主平台”",
-              "brief": "微软称将把 Windows 11 打造成 AI 开发主平台，重点从代码生成延伸到部署、编排、监控、治理和企业安全，并支持多模型、多代理和多框架接入。为此其推出面向代理的执行容器 MXC、本地模型 Aion 1.0，并把 Windows AI API 扩展到 NPU、GPU 和 CPU，同时继续深化与 GitHub、Azure、WSL 和 Linux 工具链的整合。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564540.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-03T13:28:28+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "消息称英特尔 Coral Rapids 至强最多 320 核",
-              "brief": "消息人士称，英特尔在 Diamond Rapids 之后规划的至强“Coral Rapids”将提供不同内存通道版本，继续面向服务器平台演进。其背景是同一消息源同时否认了 Diamond Rapids 256 核版本以及更高核心数能效核衍生型号的传闻。按爆料，Coral Rapids 的 8 通道版本为 128 核，更高的 16/20 通道版本最高可扩展到 320 核。",
-              "source_url": "https://www.ithome.com/0/959/295.htm",
+              "title": "小鹏欧洲调查：仅13%受访者愿体验自动驾驶汽车",
+              "brief": "小鹏汽车公布一项覆盖欧洲六国、超过5000名受访者的调查，显示仅13%的人愿意在没有驾驶员控制方向盘时乘坐自动驾驶汽车。这反映出欧洲用户对AI接管驾驶仍存明显顾虑，其中53%对AI紧急决策缺乏信任，61%担心失去人类控制；相较之下，西班牙接受度较高，英国为34%，而最多53%受访者可接受自适应巡航等辅助功能。",
+              "source_url": "https://www.ithome.com/0/959/417.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-03T14:54:10+08:00"
+              "published_at": "2026-06-03T16:50:11+08:00"
             },
             {
-              "title": "消息称元戎启行或为“赛豆”提供智驾方案",
-              "brief": "消息称，元戎启行或将成为赛力斯与字节合作新汽车品牌“赛豆”的智驾方案供应商，相关车型预计不会采用华为乾崑方案。背景是赛力斯正推进定位年轻、运动的新品牌，法律主体已变更为赛豆科技，预计 6 月发布。现车据称将在赛力斯凤凰工厂生产，首款车型或于年内推出，定位跨界车，并提供纯电和增程双动力，同时与火山引擎合作车机交互大模型等。",
-              "source_url": "https://www.ithome.com/0/959/292.htm",
+              "title": "男童在景区被人形机器人踢中腹部，责任划分引热议",
+              "brief": "一段景区人形机器人表演时踢中男童腹部、致其痛苦倒地的视频引发关注，相关话题一度登上微博热搜第一。事件之所以迅速发酵，在于涉事机器人周围没有围挡或警戒线，孩子近距离围观时也未见有效隔离。围绕责任划分，网友意见分化，有人要求景区道歉，也有人认为家长疏于看护，或主张双方分担责任。",
+              "source_url": "https://www.ithome.com/0/959/416.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-03T14:50:13+08:00"
+              "published_at": "2026-06-03T16:48:31+08:00"
             },
             {
-              "title": "阿里千问向第三方 Agent 和 Skill 全面开放",
-              "brief": "阿里宣布千问面向第三方 Agent 和 Skill 全面开放，肯德基、瑞幸、蜜雪冰城、东航将成为首批接入企业。此举意味着企业未来可在千问 App 内运营自有 Agent，自定义人设和服务边界，以对话方式提供产品与服务。按照官方说明，这些 Agent 还具备记忆与主动规划能力，可用于行程推荐、到期提醒和高峰前提前下单等场景。",
-              "source_url": "https://www.ithome.com/0/959/289.htm",
+              "title": "《最终幻想7：重生》登陆XSX|S和Switch 2，新增“官方外挂”与FSR支持",
+              "brief": "SE为《最终幻想7：重生》推出新补丁，并同步带来Xbox Series X|S版和Switch 2版发售。此次更新之所以受关注，是因为加入可随时开关的“官方外挂”功能，降低战斗与探索门槛。玩家可让HP、MP常满、伤害固定9999、道具数量维持上限，还可在新游戏+中以65级和部分成长魔晶石重新开局；PC版同时新增AMD FSR超分辨率支持并修复稳定性问题。",
+              "source_url": "https://www.ithome.com/0/959/415.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-03T14:46:56+08:00"
+              "published_at": "2026-06-03T16:44:20+08:00"
             },
             {
-              "title": "消息称快手可灵 AI 融资中，估值 180 亿美元",
-              "brief": "消息称，快手旗下可灵 AI 正在推进融资，投前估值约 180 亿美元，并计划于 2027 年赴港上市。背景是快手已在 5 月 12 日公告，董事会正评估重组可灵 AI 相关资产与业务的方案，其中可能引入外部融资。作为经营参考，可灵 AI 2026 财年第一财季收入超过 6.5 亿元、同比增逾 300%，2026 年 3 月年化收入运行率接近 5 亿美元。",
-              "source_url": "https://www.ithome.com/0/959/283.htm",
+              "title": "丰田发布GRMN卡罗拉，计划限量发售",
+              "brief": "丰田公开旗下高阶性能系列GRMN的卡罗拉车型，并计划限量发售，预计2026年秋季左右开始受理购车申请，2027年正式上市。该车基于纽博格林赛道测试和日本超级耐力赛数据调校，强调稳定性等性能提升。新车车身尺寸为4410×1850×1475毫米，搭载1.6升三缸涡轮增压发动机，最大功率224千瓦、峰值扭矩415牛·米；配GR-DAT的五座版也在开发中。",
+              "source_url": "https://www.ithome.com/0/959/414.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-03T14:40:02+08:00"
+              "published_at": "2026-06-03T16:42:20+08:00"
             },
             {
-              "title": "Meta 放宽员工操作数据采集：可暂停 30 分钟",
-              "brief": "Meta 调整了用员工电脑操作数据训练 AI 的内部计划，允许参与监控项目的员工单次暂停采集最长 30 分钟，并可申请豁免。该计划旨在训练能够自主完成日常软件任务的 AI 智能体，但上线后因电脑被装追踪软件、耗电以及可能产生大量隐私数据而引发反对。最新内部备忘录显示，Meta 仍认为原有隐私保护有效，同时会继续优化方案。",
-              "source_url": "https://www.ithome.com/0/959/281.htm",
+              "title": "技嘉DG2-512散热器原型曝光，或曾筹备英特尔锐炫显卡",
+              "brief": "技嘉一组标注“DG2-512”的散热器原型曝光，侧面印有“intel ARC”字样，暗示其当年曾考虑推出面向英特尔锐炫显卡的产品。这一发现的背景，是DG2-512对应英特尔早期独显方案，未见技嘉正式零售版本上市。曝光图片显示，两款模组均采用三风扇设计，分别归属AORUS和技嘉主品牌，外观风格接近GeForce 30系列时期的技嘉显卡。",
+              "source_url": "https://www.ithome.com/0/959/413.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-03T14:38:32+08:00"
+              "published_at": "2026-06-03T16:40:50+08:00"
             }
           ]
         },
@@ -494,45 +494,52 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "神工股份在北京新设半导体科技公司，注册资本1000万元",
-              "brief": "神工股份新增一项对外布局，在北京成立一家半导体科技公司，注册资本为1000万元。就已披露信息看，这则快讯主要指向公司新设主体的工商动作，地点位于北京，行业方向为半导体科技。因此目前能够确认的核心细节集中在新公司已成立以及注册资本规模为1000万元，原文未进一步给出更多背景信息。",
-              "source_url": "https://36kr.com/newsflashes/3837088038679939?f=rss",
+              "title": "曲美家居：境外子公司拟发行不超过9亿挪威克朗境外债券",
+              "brief": "曲美家居公告称，境外三级子公司Ekornes QM Holding AS拟发行境外债券。此次披露的是公司境外子公司的融资计划，公告重点给出了发行规模、币种范围和存续期限等核心条件。该笔债券总额不超过9亿挪威克朗，或等值外币，期限不超过3年。",
+              "source_url": "https://36kr.com/newsflashes/3837211912909952?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-03 14:47:47  +0800"
+              "published_at": "2026-06-03 16:53:48  +0800"
             },
             {
-              "title": "飞猪618跟团游、包车游、景区门票成交额均翻倍",
-              "brief": "飞猪披露，在618大促统计时点，平台国内跟团游、包车游、景区门票和当地玩乐四类产品成交额同比全部实现翻倍增长，显示旅游消费在促销节点保持较强活跃度。这组增长覆盖从出游组织到目的地体验的多个环节。作为首次亮相618的新品类，国内邮轮产品同样受到欢迎，并带动邮轮累计销量突破1万件，成为活动期间的新增增长点。",
-              "source_url": "https://36kr.com/newsflashes/3837081893205379?f=rss",
+              "title": "超威动力等在浙江新设公司，注册资本2000万元",
+              "brief": "天眼查App显示，浙江昊兴科技有限公司近日在浙江成立。此次工商信息更新反映出相关股东在汽车零部件领域的新布局，公开信息主要涉及法人、注册资本和经营范围等内容。新公司法定代表人为李星辰，注册资本2000万元，经营范围包括零部件制造、研发及再制造，由超威动力、沈阳共同持股。",
+              "source_url": "https://36kr.com/newsflashes/3837210003108999?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-03 14:41:32  +0800"
+              "published_at": "2026-06-03 16:51:52  +0800"
             },
             {
-              "title": "东方电缆增资至8.2亿元，增幅约20%",
-              "brief": "东方电缆近日完成工商变更，注册资本由约6.9亿元增至约8.2亿元，增幅约20%。这次变更反映出公司资本规模进一步扩大。公开信息显示，公司成立于1998年10月，法定代表人为夏崇耀，经营范围包括电线电缆制造、建设工程设计和港口经营，股东包括宁波东方集团有限公司、袁黎雨和香港中央结算有限公司等。",
-              "source_url": "https://36kr.com/newsflashes/3837075627357314?f=rss",
+              "title": "知乎：2026年第一季度经调整净利润1716万元，同比增长147.2%",
+              "brief": "知乎发布2026年第一季度业绩报告，披露营收与利润改善情况。此次财报显示公司收入结构继续调整，付费内容及IP运营已成为营收占比最高的业务板块。报告显示，一季度营收6.52亿元，环比增长1.3%，经调整净利润1716万元，同比增长147.2%，环比实现扭亏，期末现金等合计44.9亿元。",
+              "source_url": "https://36kr.com/newsflashes/3837204923249799?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-03 14:35:10  +0800"
+              "published_at": "2026-06-03 16:46:42  +0800"
             },
             {
-              "title": "沪指冲高后回落翻绿",
-              "brief": "36氪快讯显示，沪指盘中一度涨超0.7%，随后冲高回落并由红翻绿，最新跌0.03%。这则消息反映的是指数在同一交易时段内从明显上涨转为小幅下跌的变化，前期涨幅未能维持。就目前披露的关键细节看，原文主要给出了指数从涨到跌的幅度变化，未进一步说明板块表现、成交额或其他市场背景。",
-              "source_url": "https://36kr.com/newsflashes/3837075085473152?f=rss",
+              "title": "亚马逊Prime会员在南非上线，月费不足4美元",
+              "brief": "亚马逊宣布在南非正式上线付费Prime会员服务，进一步将会员体系拓展至当地市场。此次上线的核心信息是资费与会员权益安排，显示其在当地提供配送与内容服务的组合。Prime会员月费为59南非兰特，约合3.61美元，年费399南非兰特，权益包括极速配送和影音内容。",
+              "source_url": "https://36kr.com/newsflashes/3837203143669124?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-03 14:34:37  +0800"
+              "published_at": "2026-06-03 16:44:53  +0800"
             },
             {
-              "title": "印度央行否认出售黄金的报道",
-              "brief": "印度央行发布声明称，有关其出售黄金的报道并不属实，并明确表示截至目前实物黄金储备仍为880.52吨，没有变化。相关消息之所以受到关注，是因为此前曾有分析认为，印度央行可能为保护外汇储备而出售黄金。此次声明给出的关键细节是，黄金储备规模维持在880.52吨，未发生变动。",
-              "source_url": "https://36kr.com/newsflashes/3837074897384576?f=rss",
+              "title": "光莆股份称“系宇树科技关节光互联独家合作方”信息不属实",
+              "brief": "光莆股份在互动平台回应称，关于“公司是宇树科技关节光互联独家合作方”的说法不属实。此次回应源于外界就相关传闻向公司求证，重点在于澄清市场流传信息。公司明确表示，上述由“豆包”所称的合作表述并不准确，否认其为宇树科技关节光互联独家合作方。",
+              "source_url": "https://36kr.com/newsflashes/3837199233348995?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-03 14:34:25  +0800"
+              "published_at": "2026-06-03 16:40:54  +0800"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "指南：Codex 账号需绑定手机号时的临时绕过方案",
+              "brief": "蓝点网介绍了一种针对未绑定手机号的 Codex 账号的临时绕过方案：当用户在 Codex 或 Sub2Api 的授权登录流程中进入手机号绑定页面时，可先关闭当前页面，再重新打开最初生成的 OAuth 授权链接。文章称，近期不少 ChatGPT 免费和付费账号因风控在登录 Codex 时被要求验证手机号，尤其早期通过接码平台注册的账号更难处理。文中同时提醒，该方法疑似利用前端逻辑漏洞，只能临时恢复使用，仍存在触发平台风控甚至封禁的风险。",
+              "source_url": "https://www.landian.news/archives/113265.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-03T15:45:04+08:00"
+            },
             {
               "title": "Codex 本周使用限额已重置，OpenAI 多项服务仍现故障",
               "brief": "OpenAI 已为所有付费订阅用户重置 Codex 本周使用限额，并把当前周限额周期统一顺延 7 天。此举似乎与 6 月 3 日多项模型和服务连续故障有关，08:13 图像模型调用一度报“模型不存在”，08:14 ChatGPT Pro 错误率升高后恢复；13:42 起 Codex、ChatGPT 与 API 错误率再次上升，导致登录、对话、网页端、桌面端和接口响应变慢或报错，官方称仍在调查。",
@@ -560,13 +567,6 @@
               "source_url": "https://www.landian.news/archives/113261.html",
               "source_name": "蓝点网",
               "published_at": "2026-06-03T12:00:41+08:00"
-            },
-            {
-              "title": "谷歌拟付费获取 Google Play 开发者源码，用于训练模型",
-              "brief": "谷歌正向部分 Google Play 开发者发送保密邀请，希望付费获得应用代码库访问权限，用于训练和改进自家开发工具与模型。背景是 Gemini 在智能编码领域落后于多家竞争产品，谷歌希望借助经过实际测试的高质量代码缩小差距。该方案采用非独占许可，开发者保留 100% 知识产权并可继续使用和变现代码，但目前报酬标准和实际参与情况都未公开。",
-              "source_url": "https://www.landian.news/archives/113259.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-03T11:00:36+08:00"
             }
           ]
         }
