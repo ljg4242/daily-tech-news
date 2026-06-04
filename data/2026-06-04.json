@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T10:53:17.303775+08:00",
+  "generated_at": "2026-06-04T12:56:11.144091+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Google AI Edge Gallery 登陆 macOS，让 Mac 用户可本地运行 Gemini 模型",
+              "brief": "谷歌已将 Google AI Edge Gallery 推出到 macOS，Mac 用户现在可以在本机上运行谷歌的 AI 模型。文章指出，相比依赖云端服务器的聊天模型，本地模型虽然通常更小，但可离线使用，速度取决于电脑性能，且对话数据不必离开设备。不同于可安装多种模型的 Ollama 和 LM Studio，这款应用目前只提供 5 个谷歌自家模型。",
+              "source_url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-04T10:58:44+08:00"
+            },
+            {
               "title": "报道称苹果计划为 Gemini 版 Siri 使用英伟达芯片",
               "brief": "报道称，苹果正为新版本 Siri 规划一套基于 Google Cloud 的 AI 方案，部分用户查询将运行在授权版 Gemini 模型上。背景是苹果与谷歌达成合作，并为该场景批准采用英伟达隐私技术。关键细节是苹果将调用谷歌部署的 Blackwell B200 数据中心芯片，并启用机密计算，在处理过程中对数据进行加密保护。",
               "source_url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-04T05:20:44+08:00"
-            },
-            {
-              "title": "新款 iPad 将于今年晚些时候发布，传闻配置汇总",
-              "brief": "传闻称苹果将在今年晚些时候推出两款新 iPad：其一是 iPad mini，预计把现有 LCD 升级为 OLED，以改善长期被诟病的显示表现，并可能换上新芯片、提升防水性；其二是入门款 iPad，传闻将改用 A18 芯片，首次支持 Apple Intelligence，而除芯片外其余设计大体保持不变，iPad Pro 则预计要到 2027 年才会更新。",
-              "source_url": "https://9to5mac.com/2026/06/03/new-ipads-will-launch-later-this-year-heres-what-rumors-say-is-coming/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-04T05:04:40+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "检查垃圾邮件：Google Assistant 6800 万美元和解案邮件已开始发送",
+              "brief": "Google Assistant 用户已开始收到 6800 万美元隐私和解案的索赔邮件，但已有报道显示，不少通知被邮箱误判进垃圾邮件，容易被忽略。该集体诉讼指控助手在误识别“OK, Google”等唤醒词后录下原本不该收听的对话，并据称将相关信息用于广告定向；谷歌否认存在不当行为，但同意和解。用户需在 2026 年 8 月 27 日前通过和解网站提交表格申请赔付。",
+              "source_url": "https://www.androidauthority.com/google-assistant-settlement-claim-3674284/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-04T12:13:27+08:00"
+            },
+            {
+              "title": "最新 Android Canary 版加入面向社交媒体的“屏幕反应”功能",
+              "brief": "Android Canary 2606 已出现谷歌即将推出的 Screen Reactions 功能，让测试者提前看到这项反应视频工具的样子。它旨在简化社交媒体常见的“边看边录”流程，减少多设备、第三方应用或后期剪辑的复杂设置。当前该功能在系统录屏界面中暂以“Selfie camera”显示，仅在录制整个屏幕时可用，可把前摄画面叠加到视频上，并提供透明背景或六种底色可选。",
+              "source_url": "https://www.androidauthority.com/android-canary-2606-screen-reactions-feature-3674277/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-04T11:23:43+08:00"
+            },
+            {
               "title": "调查显示，用户对AI最看重的是更好的答案",
               "brief": "Android Authority一项读者投票显示，用户在选择AI工具时最看重的仍是回答质量，而不是不断增加的新功能。此次调查的背景，是Gemini借助Notebooks、NotebookLM等功能迅速扩展工作流能力后，编辑部想了解这些变化是否真能左右选择。两千多票中，53%选择更好的答案，22%看重集成，17%重视更有组织的工作流，8%表示只求最容易上手。",
               "source_url": "https://www.androidauthority.com/what-matters-in-an-ai-tool-poll-results-3674187/",
@@ -148,20 +162,6 @@
               "source_url": "https://www.androidauthority.com/google-starts-gemini-go-rollout-3674174/",
               "source_name": "Android Authority",
               "published_at": "2026-06-04T05:08:10+08:00"
-            },
-            {
-              "title": "这个一向高价的投影系列，如今更值得关注",
-              "brief": "徕卡发布便携式4K激光投影仪Cine Compact 1，让这个一向以高价著称的产品线出现了门槛更低的新型号。它被定位为Cine Play 1的小一号版本，售价比后者低约1800美元，但保留了不少高端设计和配置。新机采用RGB三色激光与Leica Summicron变焦镜头，最高1700流明，支持杜比视界，最大可投220英寸，并将于6月18日在美国等市场以1995美元发售。",
-              "source_url": "https://www.androidauthority.com/a-projector-lineup-known-for-luxury-pricing-just-got-a-lot-more-interesting-3674171/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-04T04:54:46+08:00"
-            },
-            {
-              "title": "三大安卓厂商或将在同一月份发布新旗舰",
-              "brief": "一则来自微博爆料人“数码闲聊站”的消息称，小米可能在9月发布18系列，OPPO也瞄准同月推出Find X10系列，vivo则或在相近时间带来X500系列，让9月成为旗舰机密集亮相的窗口。这个时间点并不突兀，小米17系列去年也在9月发布，而苹果通常也会在9月推出新iPhone；不过这些消息目前主要对应中国市场，国际发布时间仍是未知数。",
-              "source_url": "https://www.androidauthority.com/3-android-phones-could-launch-same-month-3674133/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-04T04:21:10+08:00"
             }
           ]
         },
@@ -313,39 +313,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "SpaceX拟将IPO定价为135美元，估值约1.77万亿美元",
-              "brief": "SpaceX更新招股文件，拟以每股135美元在纳斯达克上市，按文中假设估值约1.77万亿美元。此次定价出现在路演前试探性接触之后，市场正关注这家马斯克旗下公司的资本结构。文件还披露其与xAI合并后的交叉持股、xAI采购特斯拉Megapack，以及最多预留5%股份供特定员工和人士购买。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564598.htm",
+              "title": "中国选手携宇树机器人登上《美国达人秀》",
+              "brief": "一名中国选手带着宇树机器人登上《美国达人秀》，在这档由评委淘汰、观众投票争夺百万美元奖金的节目中亮相。文章借此指出，中国人形机器人近年在海外持续走红，《华尔街日报》称美国掌握高端芯片等技术，但中国在硬件制造生态上占据主导，黄仁勋也称全球机器人产业很大程度将依赖中国。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1564614.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-04T06:07:03+08:00"
+              "published_at": "2026-06-04T12:52:03+08:00"
             },
             {
-              "title": "微软展示可穿戴AI徽章：配备摄像头和指纹传感器",
-              "brief": "微软展示一款可穿戴AI徽章原型，内置摄像头和指纹激活功能，并可在演示中拍照后发送给用户。公司希望把面向写作和编程等场景的AI代理从电脑中延伸出来，探索更贴身的新硬件形态。该设备暂未确认商业化，现阶段仅由数百名员工内测，摄像头带来的环境感知与隐私问题也被一并关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564596.htm",
+              "title": "天涯是文科生的 GitHub",
+              "brief": "天涯在完成技术恢复、数据迁移和系统升级后，于今年儿童节宣布回归，并推出售价1999元、限量9999份的“创世成员”服务包。文章回顾其曾拥有超1.3亿注册用户、孕育《鬼吹灯》《明朝那些事》等内容，并称平台希望凭借大量人类原创数据在AI时代重生，但当年依赖顶贴机制与特定互联网环境的“神帖”土壤已难复制。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564612.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-04T06:04:03+08:00"
+              "published_at": "2026-06-04T12:48:55+08:00"
             },
             {
-              "title": "黑色版 Apple Vision Pro 传闻再起，更多照片流出",
-              "brief": "社交平台上再次流出疑似黑色版Apple Vision Pro部件照片，包含侧面格栅、摄像头、黑色编织线缆和头带调节旋钮等细节。相关爆料延续了2025年以来的同类传闻，但苹果尚未确认会推出该配色。图中织物纹理、包覆状态和黑白线缆混用等不一致之处，也让这些部件更像内部测试原型，而非接近量产的正式版本。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564594.htm",
+              "title": "亚马逊工程师呼吁限制数据中心爆炸式增长",
+              "brief": "亚马逊工程师在西雅图听证会上呼吁限制大型AI数据中心扩张，当地议会委员会已投票决定暂停审批新项目一年。背景是多地正因公众反对和诉讼收紧建设，美国已有14个州考虑相关立法；这名工程师还要求开发商承诺使用可再生能源、公开项目主体，并对大裁员征税以支持城市就业项目。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564610.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-04T06:03:35+08:00"
+              "published_at": "2026-06-04T12:46:21+08:00"
             },
             {
-              "title": "疑似搭载骁龙 X2 的新款 Surface Pro 宣传图曝光",
-              "brief": "渠道宣传图显示，微软新款 Surface Pro 疑似将搭载 12 核骁龙 X2 Elite，并统一改用 13 英寸 OLED 屏幕，主打更长续航。该机被视为微软扩充 ARM 平台 Copilot+ PC 阵容的一部分，外观基本延续现款。泄露信息称其可选 16GB/32GB 内存与 256GB 至 1TB 存储，视频播放续航约 15.5 小时。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564592.htm",
+              "title": "文件显示马斯克所持SpaceX股份账面估值约8665亿美元",
+              "brief": "文件显示，若SpaceX按预期上市，马斯克所持股份的账面价值约为8665亿美元，且上市后仍将掌握超过82%的投票权。背景是他已凭特斯拉持股长期位居全球首富；招股书同时披露，其全部SpaceX股份将锁定一年，期满后可出售全部或大部分持股，而薪酬奖励还与公司市值和火星定居目标挂钩。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564608.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-04T03:38:43+08:00"
+              "published_at": "2026-06-04T12:45:14+08:00"
             },
             {
-              "title": "NASA X-59“静音超音速”验证机将迎首次突破音障测试",
-              "brief": "NASA宣布X-59在完成前阶段试飞数据评审后，已具备于6月上旬首次突破音障的条件。这款“静音超音速”验证机旨在把传统音爆压低为较轻的闷响，为未来恢复陆上商业超音速飞行铺路；本次试飞目标是在约4.3万英尺高度超过630英里/时，随后再开展1.4马赫任务工况飞行，并由伴飞飞机和F-15探针配合采集对比与冲击波数据。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1564590.htm",
+              "title": "比特币跌至伊朗冲突前低点 加密货币跌势延续",
+              "brief": "比特币继续下跌，跌至伊朗冲突爆发前以来低点，加密货币整体承压。文中称，本周跌势与Strategy打破“永不抛售”承诺、动摇市场信心有关；与此同时，隔夜袭击威胁美伊临时和平协议谈判，显示比特币仍高度受宏观风险影响，而科技股却在同期创下新高。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564606.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-04T02:47:17+08:00"
+              "published_at": "2026-06-04T12:41:01+08:00"
             }
           ]
         },
@@ -353,45 +353,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "GitLab一季度营收增长23%，同时裁员约14%并押注AI",
-              "brief": "GitLab公布2026财年第一季度营收2.64亿美元，同比增长23%，但同步启动约14%裁员重组。公司称AI工作流流量激增，已让现有开发者基础设施承压，行业内GitHub等也面临类似挑战。GitLab正重构Git架构、与一家未具名AI实验室重建AI负载基础设施，并预计产生3000万至3500万美元重组费用。",
-              "source_url": "https://www.ithome.com/0/959/642.htm",
+              "title": "法拉利首款纯电车型 Luce 引发调侃，马自达与日产接连玩梗",
+              "brief": "法拉利首款纯电车型Luce亮相后，因命名和外观争议在社交平台遭到马自达、日产接连调侃。背景是法拉利已取得“Luce”全球商标，而马自达早年曾推出同名车型。随后日产爱尔兰转发Luce与聆风的侧面对比图并称倍感荣幸，该帖之后被下架，网上还流传将其与苹果Magic Mouse一并恶搞的AI合成图。",
+              "source_url": "https://www.ithome.com/0/959/732.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T10:41:16+08:00"
+              "published_at": "2026-06-04T12:14:53+08:00"
             },
             {
-              "title": "Take-Two CEO泽尔尼克加入《WWE 2K26》，成可操控角色",
-              "brief": "Take-Two首席执行官泽尔尼克将以可操控角色身份加入《WWE 2K26》，游戏内能力值为77分。此举延续了他此前配合系列宣传的做法，尽管他本人坦言并不玩电子游戏，这也是他首次作为官方角色登场。角色拥有专属出场曲《My Way》，该曲目专门取得授权，其他角色无法使用。",
-              "source_url": "https://www.ithome.com/0/959/640.htm",
+              "title": "Hermes Desktop 公测发布，“AI 养马”推出桌面端",
+              "brief": "Nous Research发布Hermes Desktop公测版，把具备长期记忆和自我演进能力的Hermes Agent带到桌面端。其背景是Hermes已支持跨会话保留状态，用户可在桌面、CLI和TUI之间无缝续接任务。新版本提供流式回复、工具活动面板以及网页和文件预览，并支持5类沙箱后端、MCP外部工具接入，以及技能沉淀与跨会话召回。",
+              "source_url": "https://www.ithome.com/0/959/729.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T10:33:38+08:00"
+              "published_at": "2026-06-04T12:11:02+08:00"
             },
             {
-              "title": "三星展示面向HBM5的HPB封装散热结构，对标SK海力士iHBM",
-              "brief": "三星展示适用于HBM5的HPB封装散热架构，目标是缓解更高密度、更高速度HBM堆栈带来的散热压力，以支撑AI数据中心升级。其方案在封装内部加入独立热柱，重点覆盖HBM基底芯片与GPU之间的D2D PHY热点区域。三星称该设计已在HBM4E上完成部署验证，HBM5基底芯片还将转向自家2nm工艺。",
-              "source_url": "https://www.ithome.com/0/959/639.htm",
+              "title": "微星星芒 Y28 显示器体验：第四代 W-OLED 面板主打 2K 280Hz",
+              "brief": "IT之家发布微星星芒Y28显示器体验，介绍其采用第四代W-OLED面板、2K 280Hz刷新率和0.03ms响应，面向FPS玩家。背景是LG Display于2025年推出第四代W-OLED，通过四层串联结构提升亮度、色彩和寿命。实测中，这款显示器局部峰值亮度达1356.31尼特，覆盖99.5% DCI-P3，并配备多种防烧屏机制和三年防烧屏质保。",
+              "source_url": "https://www.ithome.com/0/959/718.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T10:27:23+08:00"
+              "published_at": "2026-06-04T12:00:43+08:00"
             },
             {
-              "title": "国家电网预计今夏最大用电负荷超13亿千瓦，同比增长约6%",
-              "brief": "国家电网预计今夏其经营区域最大用电负荷将超过13亿千瓦，同比增长约6%，并正加快建设168项迎峰度夏重点工程。此前国家发展改革委预计全国今夏最高用电负荷约16亿千瓦，较去年增加约9000万千瓦。我国正推进电源投产、加强电煤储备和水电蓄能，以保障夏季电力供应。",
-              "source_url": "https://www.ithome.com/0/959/638.htm",
+              "title": "Omdia：2026年 Q1 全球电视出货量同比增 6% 至 5030 万台",
+              "brief": "Omdia表示，受世界杯备货带动，2026年第一季度全球电视出货量同比增长6%至5030万台，除中国大陆外各地区均实现增长。背景是中国本地需求持续疲软，厂商将更多产品出口到亚洲及大洋洲、拉美等市场。报告还开始跟踪RGB LED电视，其当季出货量为3.94万台，预计会随着更多厂商和机型加入而继续放大。",
+              "source_url": "https://www.ithome.com/0/959/717.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T10:24:01+08:00"
+              "published_at": "2026-06-04T12:00:10+08:00"
             },
             {
-              "title": "香港发布首个生产力级超级智能体，本地大模型HKGAI V3亮相",
-              "brief": "香港生成式人工智能研发中心发布本地大模型HKGAI V3，并同步推出香港首个生产力级超级智能体。该中心去年已发布香港首个人工智能大模型V1，V3进一步强化对香港语境、行业场景和实际应用需求的支持。官方称其Token压缩效率提升逾10倍，Agent无干预运行时长增长近百倍，测试中可连续稳定运行28小时。",
-              "source_url": "https://www.ithome.com/0/959/637.htm",
+              "title": "特斯拉 FSD V14 即将登陆澳大利亚和新西兰",
+              "brief": "特斯拉已向澳大利亚和新西兰车主发送邮件，预告FSD V14即将在两地上线。背景是两地较早落地FSD监督版，但目前仍停留在V13，而V14已先后在美国、韩国及部分欧洲市场开放。现阶段V14仅支持HW4车辆，特斯拉也在开发面向HW3车型的V14 Lite，并计划在全球多地陆续推送。",
+              "source_url": "https://www.ithome.com/0/959/710.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T10:21:39+08:00"
+              "published_at": "2026-06-04T11:57:47+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "IO Interactive未来邦德游戏不再自发行，亚马逊控制权提升",
+              "brief": "IO Interactive确认，未来的詹姆斯·邦德游戏将不再由其自行发行，亚马逊游戏工作室会接手发行，亚马逊对项目的控制力也会进一步提高。之所以《007 First Light》还能由IO自发行，是因为相关协议早在亚马逊收购米高梅之前就已签定；亚马逊于2021年收购米高梅，并在2025年取得邦德品牌完整创意控制权。后续续作预计仍由IO开发，但发行与资金支持将更多由米高梅和亚马逊方面主导。",
+              "source_url": "https://www.ign.com/articles/io-interactive-wont-self-publish-future-james-bond-games-amazon-will-have-more-control",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T09:54:18+08:00"
+            },
+            {
+              "title": "《WWE 2K26》新增 Take-Two CEO 斯特劳斯·泽尔尼克可供对战",
+              "brief": "《WWE 2K26》在当天更新中悄然加入了Take-Two首席执行官斯特劳斯·泽尔尼克，玩家现在既能操作他，也能在擂台上与他对战。官方并未专门宣布这次加入，但游戏内已提供这一角色。泽尔尼克今年68岁，角色评分为77，且拥有专属入场音乐《My Way》；他此前虽自称并不玩游戏，却曾为该系列的自定义角色功能做过宣传。",
+              "source_url": "https://www.ign.com/articles/you-can-now-fight-take-two-ceo-strauss-zelnick-in-wwe-2k26",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T09:44:05+08:00"
+            },
             {
               "title": "IGN Live 2026 线下活动日程公布",
               "brief": "IGN 公布了 2026 年 IGN Live 线下活动日程，内容覆盖游戏、影视与名人到场环节，进一步展现这一综合娱乐活动的现场安排。公开日程显示，现场将有《Control Resonant》创意总监更新、《007 First Light / Hitman》访谈、《降世神通：最后的气宗》第二季交流，以及 Cole Tucker、Steve-O、Roger Craig Smith、Patricia Summersett 等嘉宾亮相，并放出多款作品预告与玩法展示。",
@@ -407,25 +421,11 @@
               "published_at": "2026-06-04T04:57:33+08:00"
             },
             {
-              "title": "IGN Live 2026 完整嘉宾阵容公布",
-              "brief": "IGN 公布了 IGN Live 2026 的完整嘉宾名单，活动将通过访谈、专题座谈、超前放映等形式集合游戏、影视、漫画与收藏领域内容。已确认出席者包括《蠢蛋搞怪秀》成员、《降世神通：最后的气宗》演员与制作人、Tatiana Maslany、Roger Craig Smith、Patricia Summersett，以及《Rick and Morty》《刺客信条：黑旗 Resynced》《古墓丽影：亚特兰蒂斯遗产》等项目相关嘉宾。",
-              "source_url": "https://www.ign.com/articles/ign-live-2026-guest-lineup",
+              "title": "《Control Resonant》数字豪华版48小时抢先体验仅限PS5",
+              "brief": "《Control Resonant》确认将于9月24日发售，但购买数字豪华版后可提前48小时进入游戏的待遇仅限PS5平台，Xbox和PC都不享有这一安排。这一限制似乎与PlayStation的营销协议有关，也让原本就有争议的付费抢先体验问题进一步升温。部分玩家因此表示不会预购，或准备等打折再买；再加上它与《Silent Hill: Townfall》同日发售，相关不满情绪被进一步放大。",
+              "source_url": "https://www.ign.com/articles/control-resonant-has-a-2-day-early-access-period-via-the-digital-deluxe-edition-but-only-on-ps5",
               "source_name": "IGN",
-              "published_at": "2026-06-04T04:37:20+08:00"
-            },
-            {
-              "title": "Patreon 负责人公开回击卷入乐高争议的经销商",
-              "brief": "Patreon 首席执行官 Jack Conte 公开表示，不会因 Bricks & Minifigs 的法律通知下架 YouTuber Reckless Ben 的筹款页面，使一场围绕乐高寄售收藏的网络风波进一步升级。争议起于俄勒冈州一家门店接手价值逾 20 万美元的《星球大战》乐高藏品后更换经营方，Ben 指控相关藏品被继续出售却未向原寄售家庭付款，而他目前称自己靠 Patreon 资金继续跟进此事。",
-              "source_url": "https://www.ign.com/articles/the-boss-of-patreon-just-publicly-shamed-a-lego-reseller-embroiled-in-one-of-the-wildest-internet-dramas-in-years",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T01:55:58+08:00"
-            },
-            {
-              "title": "《漫威金刚狼》没有收藏版，Insomniac 粉丝不解",
-              "brief": "Insomniac Games 确认，《漫威金刚狼》不会推出任何收藏版，玩家只能选择标准版或包含游戏内物品的数字豪华版，这让不少期待实体周边的粉丝感到失望。报道指出，PlayStation 近年的多款第一方作品通常都会推出带雕像、铁盒或画册的特别版本，而《漫威蜘蛛侠》系列也有先例，因此此次缺席尤其引发对实体媒介前景和官方安排的讨论。",
-              "source_url": "https://www.ign.com/articles/from-19-inches-of-venom-to-nothing-theres-no-marvels-wolverine-collectors-edition-and-insomniac-fans-dont-know-why",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T00:48:52+08:00"
+              "published_at": "2026-06-04T04:57:33+08:00"
             }
           ]
         },
@@ -433,45 +433,66 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "英国监管机构要求谷歌调整AI搜索服务",
-              "brief": "英国监管机构已要求谷歌整改其人工智能搜索服务，并为英国网站运营商和出版商新增退出机制。此举针对谷歌“AI概览”模式引发的内容使用问题，核心要求是允许相关机构选择不参与，避免其内容和链接被谷歌搜索自动抓取。",
-              "source_url": "https://36kr.com/newsflashes/3838268830403077?f=rss",
+              "title": "阿里速卖通夏季大促品牌GMV渗透率接近40%",
+              "brief": "阿里速卖通海外618大促已于6月1日开启，平台数据显示开卖首日Brand+品牌GMV渗透率已逼近40%。这一数据反映其品牌化运营成效正在释放，尤其是在欧洲、美国、巴西等核心市场。具体来看，Seauto、Funwater、Anycubic和Oukitel等新兴品牌在活动中实现数倍甚至数十倍增长。",
+              "source_url": "https://36kr.com/newsflashes/3838370598930948?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 10:48:57  +0800"
+              "published_at": "2026-06-04 12:50:22  +0800"
             },
             {
-              "title": "今夏国家电网最大用电负荷预计超13亿千瓦",
-              "brief": "国家电网预计，今年夏季其经营区域最大用电负荷将超过13亿千瓦，同比增约6%。在迎峰度夏保供背景下，电网安全运行和电力可靠供应成为重点，国家电网正加快保供能力建设、完善市场化交易，并推进168项迎峰度夏重点工程建设。",
-              "source_url": "https://36kr.com/newsflashes/3838246360811779?f=rss",
+              "title": "字节跳动申请注册“PBTI”商标",
+              "brief": "天眼查知识产权信息显示，北京字跳网络技术有限公司近日申请注册多枚“PBTI”商标，国际分类涵盖教育娱乐、网站服务等，目前均处于等待实质审查状态。该公司成立于2018年10月，法定代表人为水恒熠，注册资本1亿美元，经营范围包括设计、制作、代理、发布广告等，由抖音集团（香港）有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3838342496586248?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 10:26:06  +0800"
+              "published_at": "2026-06-04 12:44:49  +0800"
             },
             {
-              "title": "台积电魏哲家：今年全年营收增长仍将超过30%",
-              "brief": "台积电董事长魏哲家在股东会上表示，若以美元计算，公司预计今年全年营收增长仍将超过30%。这一判断基于AI需求持续扩大，生成式AI正进一步转向代理式AI与指令行动模式，带动大语言模型token消耗和算力需求上升，并继续支撑先进半导体需求。",
-              "source_url": "https://36kr.com/newsflashes/3838242373667077?f=rss",
+              "title": "新版公有云大模型Token服务性能监测平台将上线",
+              "brief": "一场论坛将上线新版“公有云大模型Token服务性能监测平台”，并同步发布2026年6月公有云大模型Token服务性能监测结果。此举旨在对主流Token服务平台的吞吐率、时延等指标进行客观量化评估，为产业各方选型和服务质量提升提供参考。论坛还将集中发布“Token服务”系列标准并作权威解读。",
+              "source_url": "https://36kr.com/newsflashes/3838376959019266?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 10:22:03  +0800"
+              "published_at": "2026-06-04 12:38:57  +0800"
             },
             {
-              "title": "台积电称先进制程需求强劲将继续支撑业绩",
-              "brief": "台积电在股东会上重申，本季合并营收预计为390亿至402亿美元，毛利率约65.5%至67.5%。公司表示，先进制程技术需求持续强劲，将继续支撑业绩表现；同时也会关注零组件涨价，以及中东局势给整体经济带来的更多不确定性。",
-              "source_url": "https://36kr.com/newsflashes/3838241251805699?f=rss",
+              "title": "阶跃Step 3.7 Flash登顶Artificial Analysis输出速度榜",
+              "brief": "Artificial Analysis最新Output Speed榜单显示，阶跃星辰最新开源基座模型Step 3.7 Flash以409 tokens/s的输出速度位列主流模型第一。该成绩说明其在生成效率上处于领先位置。除速度外，模型在端到端响应时长、智能效率以及速度价格比等关键指标上也均保持领先。",
+              "source_url": "https://36kr.com/newsflashes/3838369881033218?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 10:20:54  +0800"
+              "published_at": "2026-06-04 12:38:40  +0800"
             },
             {
-              "title": "深成指率先翻红",
-              "brief": "A股盘中，深证成指率先由跌转涨，成为主要指数中最先翻红的指数。与此同时，沪指和创业板指的跌幅也同步收窄，显示市场短线情绪有所修复。当前披露的关键信息集中在指数表现变化，即深成指先行回升，其余主要指数跌幅缩小。",
-              "source_url": "https://36kr.com/newsflashes/3838222499006722?f=rss",
+              "title": "黄仁勋访韩期间据悉将会见Krafton高管",
+              "brief": "据业内人士透露，英伟达首席执行官黄仁勋本周到访首尔期间，计划与韩国游戏开发商Krafton管理层会面。此次会面背景是双方可能推进游戏领域合作，讨论方向涉及英伟达面向高端Windows笔记本打造的RTX Spark芯片，以及实体人工智能相关业务，具体合作内容仍围绕这些技术与业务展开。",
+              "source_url": "https://36kr.com/newsflashes/3838343892470018?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 10:01:49  +0800"
+              "published_at": "2026-06-04 12:33:13  +0800"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "谷歌开源 Gemma 4 12B 多模态模型，可在 16GB 内存或显存设备运行",
+              "brief": "谷歌发布并开源Gemma 4 12B多模态模型，目标是让消费级笔记本和台式机也能在本地运行AI。该模型以12B参数降低硬件门槛，官方称其基准表现接近此前的Gemma 26B版本。它支持文本、图像、视频和音频输入，采用无独立编码器架构，并以Apache 2.0许可证发布，现已可在Ollama、Hugging Face和Kaggle获取。",
+              "source_url": "https://www.landian.news/archives/113274.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-04T12:00:42+08:00"
+            },
+            {
+              "title": "Instagram AI 账户恢复漏洞未真正修复，黑客仍可继续盗号",
+              "brief": "Meta此前宣称已修复Instagram的AI账户恢复漏洞，但实际只是隐藏前端界面，相关API端点仍可被访问，黑客因此继续利用该功能盗取账号。该漏洞源于AI助手拥有过高权限且缺乏有效验证，能够被诱导重置密码并更改绑定邮箱。报道提到Meta产品管理总监和逆向工程师Jane Manchun Wong的账号在修复声明后仍被盗，后者账号还启用了2FA。",
+              "source_url": "https://www.landian.news/archives/113272.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-04T11:30:49+08:00"
+            },
+            {
+              "title": "谷歌将允许网站退出搜索 AI 概览和 AI 模式内容调用",
+              "brief": "谷歌宣布网站和发布商可主动退出搜索中的AI概览与AI模式，不允许这些功能调用站点内容生成回答，且不影响自然搜索结果展示。此举回应了AI直接给出答案可能分流网站流量、减少广告收入的争议与诉讼。该选项目前先向英国部分网站测试，谷歌后续还计划在站长工具中提供AI相关展示数据。",
+              "source_url": "https://www.landian.news/archives/113271.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-04T11:00:06+08:00"
+            },
             {
               "title": "摩根士丹利：搭载英伟达 RTX SPARK N1X 的 PC 售价或达 2900 美元",
               "brief": "摩根士丹利称，搭载英伟达RTX SPARK N1X超级芯片的PC最终售价可能达到2900美元，搭载N1的机型也可能定在1800美元。该系列芯片本周面向OEM推出，集成20核Arm CPU、GB10 GPU和封装内存，早期测试显示其CPU接近苹果M3 Max，GPU性能约相当于RTX 5070，相关传言还称微软Surface RTX SPARK开发工作站价格也在3000美元左右。",
@@ -485,27 +506,25 @@
               "source_url": "https://www.landian.news/archives/113273.html",
               "source_name": "蓝点网",
               "published_at": "2026-06-04T10:11:39+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "MacBook Neo 日销约 5.2 万台，谁在购买？",
+              "brief": "苹果于 2026 年推出入门级 MacBook Neo，上市前三周销量达到 110 万台，折合日均约 5.2 万台。它面向学生、教育市场和首次购买 Mac 的用户，搭载与 iPhone 16 Pro/Max 同款的 A18 Pro 芯片，起售价 599 美元、国行 4599 元起。这一成绩高于同期统计中的 MacBook Air（M5）和 MacBook Pro（M5），被 IDC 视为近几年最成功的 Mac 新品之一。",
+              "source_url": "https://www.appinn.com/who-buys-macbook-neo/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-04T11:08:33+08:00"
             },
             {
-              "title": "字节否认豆包将降低免费功能体验以推动专业版付费",
-              "brief": "字节跳动就豆包专业版相关传言发布公告，否认“降低基础功能体验以推动用户购买会员”的说法，并表示搜索问答、写作生图、语音和视频对话等日常功能将继续免费。公告称，豆包专业版仍在测试，面向软件开发、数据分析、专业设计、流程自动化、金融分析和科学研究等专业需求，上线后将通过官方渠道公布完整信息，并提到近期有大量同IP营销号集中发布不实内容。",
-              "source_url": "https://www.landian.news/archives/113269.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-04T10:00:07+08:00"
-            },
-            {
-              "title": "研究员公开披露 VS Code 漏洞，可窃取 GitHub 私有仓库凭证",
-              "brief": "安全研究员Ammar Askar公开披露VS Code一项高危漏洞，称攻击者可诱导用户点击特制链接，通过github.dev中的浏览器版VS Code窃取GitHub OAuth令牌，从而读取甚至写入包括私有仓库在内的代码。攻击链可借恶意Notebook和扩展安装实现，几乎只需一次点击；研究员因不满微软安全响应流程而直接公开细节，随后VS Code团队确认问题并在v1.124.0中发布修复。",
-              "source_url": "https://www.landian.news/archives/113268.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-04T09:30:04+08:00"
-            },
-            {
-              "title": "ChatGPT Business 在 8 个国家推出买一送一活动",
-              "brief": "OpenAI面向8个国家或地区的商业客户推出ChatGPT Business买一送一活动，用户至少需开通2个席位，付费1个席位即可获得2个席位。活动并非直接降价，而是通过对应国家促销码生效，并要求IP地址、账单地址与国家代码一致。文中列出的适用地区包括美国、英国、德国、印度、加拿大、法国、瑞士和阿联酋，其中印度区价格信息显示约为1901印度卢比。",
-              "source_url": "https://www.landian.news/archives/113267.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-04T09:00:12+08:00"
+              "title": "2026 年美加墨世界杯赛程与比分日历更新，支持苹果、安卓和 Outlook 订阅",
+              "brief": "小众软件更新了 2026 年美加墨世界杯赛程与比分订阅日历，新增球场信息和无比分版本，并继续支持苹果、安卓、Google 日历与 Outlook 订阅。该项目由青小蛙维护，延续其此前制作欧洲杯订阅日历的做法，用户可通过 webcal 或 ICS 链接直接添加。普通版提供赛程和赛后比分，赞助版还包含场地、无剧透版本及国旗图标。",
+              "source_url": "https://www.appinn.com/2026-fifa-world-cup-calendar/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-04T10:28:07+08:00"
             }
           ]
         }
