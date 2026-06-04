@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T17:01:01.120287+08:00",
+  "generated_at": "2026-06-04T18:56:55.369262+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "爆料称 iPhone 18 Pro Max 机身厚度为 8.75 毫米",
+              "brief": "爆料称，苹果即将推出的iPhone 18 Pro Max机身厚度将与前代一致，为8.75毫米。该说法来自微博爆料者Ice Universe，也与其3月称新机会略微变厚的消息不一致。报道称，苹果今年可能将更多研发重心放在传闻中的折叠屏“iPhone Ultra”上；另有爆料指新机电池或增至5100至5200mAh，重量可能继续上升，屏幕则仍为6.9英寸。",
+              "source_url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-max-device-thickness-revealed/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-04T18:39:14+08:00"
+            },
+            {
+              "title": "报道称苹果重构版 Siri 将运行在英伟达 Blackwell 芯片上",
+              "brief": "报道称，苹果计划在9月推出重构版Siri时，使用谷歌部署的英伟达Blackwell B200芯片提供云端算力。背景是苹果下周WWDC仍将强调端侧AI，但需要云端处理的请求会回落到Gemini大模型。新细节称，用户数据会借助英伟达硬件级机密计算加密；苹果曾尝试让Gemini运行在自家Private Cloud Compute上，但速度过慢。",
+              "source_url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-04T17:38:37+08:00"
+            },
             {
               "title": "iOS 27：传闻中的应用功能一览",
               "brief": "报道称，苹果计划在iOS 27中同步更新多款应用，除Siri大改外，Camera、Photos和Wallet也会加入新功能。核心变化是把视觉智能并入相机中的“Siri”模式，让识物能力更易发现；新能力还包括扫描食品营养标签写入健康应用、识别名片信息加入通讯录，并允许自定义相机顶部快捷控件。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/review/bluetti-elite-10-power-station/",
               "source_name": "MacRumors",
               "published_at": "2026-06-04T04:56:00+08:00"
-            },
-            {
-              "title": "得州 SB 2420 生效后，苹果将在 App Store 推行年龄验证",
-              "brief": "苹果表示，因得州 SB 2420 将于 6 月 4 日生效，当地 App Store 与开发者规则将调整。该法要求应用商店和开发者进行年龄确认，相关措施此前曾遭联邦法官阻止，后被第五巡回上诉法院暂缓禁令。按新规，得州用户创建 Apple 账户时需确认是否成年，未成年人账户须加入“家人共享”，下载、购买和应用内交易都需家长同意；开发者还要支持年龄分级、重大变更后重新征求同意及撤销同意，违规单次最高可罚 1 万美元。",
-              "source_url": "https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-04T03:52:33+08:00"
-            },
-            {
-              "title": "苹果本月将永久关闭三家美国零售店",
-              "brief": "苹果称将于 6 月 20 日晚永久关闭美国三家零售店，分别位于康涅狄格州特伦布尔、加州埃斯孔迪多和马里兰州陶森。公司 4 月曾表示，这些门店所在商场环境持续下滑，因此作出关店决定。其中陶森门店是苹果美国首家完成工会化的零售店，工会与员工一直反对关闭计划，并质疑苹果只允许另外两家非工会门店员工转岗；苹果则称其做法符合 2024 年签署的集体协议，并会按约提供遣散安排。",
-              "source_url": "https://www.macrumors.com/2026/06/03/three-apple-stores-closing-this-month/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-04T03:28:35+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌最新端侧 AI 模型专为笔记本打造",
-              "brief": "谷歌发布面向消费级笔记本的 Gemma 4 12B，主打在至少 16GB 内存设备上运行的本地多模态 AI。它位于手机端 E2B、E4B 与高端 26B、31B 型号之间，是谷歌首个支持原生音频输入的中型模型，并采用无编码器架构降低延迟和内存开销；视觉部分用轻量模块将图像直接送入 LLM，基准表现据称接近 Gemma 4 26B MoE。",
-              "source_url": "https://www.androidauthority.com/google-gemma-4-12b-multimodal-ai-model-3674379/",
+              "title": "任天堂将为部分 Switch 2 推出可更换电池版",
+              "brief": "任天堂宣布正为欧洲市场准备符合欧盟新规的 Switch 2 新版本，允许终端用户自行更换电池。此举是为满足《欧盟2023/1542号条例》要求，相关规定将于2027年2月27日生效。公司称，现有以“BEE”开头产品的后续合规版本会采用新型号，并在包装上标出“OSM”代码；目前尚不清楚这一变化是否也会扩展到 Joy-Con 2 等配件。",
+              "source_url": "https://www.androidauthority.com/nintendo-switch-2-user-replaceable-batteries-3674428/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-04T16:47:59+08:00"
+              "published_at": "2026-06-04T18:40:15+08:00"
             },
             {
-              "title": "Chrome 测试悬浮搜索栏快捷键",
-              "brief": "谷歌据报正在 Chrome Canary 测试一套可从桌面唤出的悬浮搜索界面，Windows 上可通过 Ctrl + Shift + Space 启动，无需先打开浏览器。这个紧凑窗口形态接近 macOS 的 Spotlight，并整合 AI Mode、文件和图片上传，甚至可直接生成 AI 图像，但目前仍是早期原型，是否进入稳定版尚无保证。",
-              "source_url": "https://www.androidauthority.com/chrome-floating-ai-mode-search-bar-3674318/",
+              "title": "One UI 9 缺少 Android 17 一项实用改动",
+              "brief": "三星面向 Galaxy S26 系列推进 One UI 9 测试版，但系统并未带来 Android 17 对智能回复的一项细节改动。按原生 Android 17 的新行为，点按建议回复只会填入文本，用户仍可修改后再发送；而 One UI 9 依旧会直接发出回复。这意味着误触后更难补救，也显示三星并未完整跟进全部 Android 17 体验更新。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-skipping-favorite-android-17-feature-3672720/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-04T16:26:54+08:00"
+              "published_at": "2026-06-04T18:30:07+08:00"
             },
             {
-              "title": "改装者正把 Ray-Ban Meta 眼镜改成隐蔽拍摄工具",
-              "brief": "据报道，一些改装者正以 50 至 100 美元的价格，为 Ray-Ban Meta 智能眼镜提供“隐身模式”改造，方法是直接破坏前置录制指示灯，使拍摄时不再显眼。Meta 原本会在用户用胶带等方式遮挡指示灯时锁定相机，但钻毁 LED 可切断相关电路并绕过这一保护；需求据称主要来自想偷偷拍摄陌生人以制作爆款内容的创作者。",
-              "source_url": "https://www.androidauthority.com/ray-ban-meta-stealth-mode-mod-3674350/",
+              "title": "Morphe 即将支持 YouTube 播放队列功能",
+              "brief": "Morphe 开发者表示，面向 YouTube 的 v1.31 补丁将加入长期被用户要求的播放队列功能，让用户把视频加入临时队列，并可直接打开、播放或保存为播放列表。此前这一 Premium 功能被认为受服务器端限制而无法实现。根据反馈，开发团队还补上了队列持久化，应用重启后队列内容也不会消失。",
+              "source_url": "https://www.androidauthority.com/morphe-youtube-playing-queue-feature-3674456/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-04T16:23:25+08:00"
+              "published_at": "2026-06-04T18:15:14+08:00"
             },
             {
-              "title": "用户称 Gemini 会比宣传更早遗忘上下文",
-              "brief": "谷歌宣传称 Pro 和 Ultra 订阅可为 Gemini 提供最高一百万 token 的上下文窗口，但有用户表示聊天过程远达不到这一水平。相关说法称，系统在首轮提示中或许能读入大体量静态文件，但动态对话记忆似乎很快降到约 16K，约 25 到 30 条消息后就会遗忘更早的指令、代码和限制，谷歌尚未明确是否会更醒目说明聊天上下文限制。",
-              "source_url": "https://www.androidauthority.com/gemini-start-forgetting-context-window-3674304/",
+              "title": "Gemini Avatar 开始推出，可生成用户的 AI 分身",
+              "brief": "Google 上月在 I/O 大会上公布的 Gemini Avatar 已开始上线，这项功能可根据用户本人生成用于 AI 视频的数字分身，并同步模仿外貌与声音。要使用它，用户需订阅 Google AI Plus、Pro 或 Ultra 付费方案，然后在手机端 Gemini 应用的设置中进入 Avatar，按提示开启相机和麦克风并完成录制流程。",
+              "source_url": "https://www.androidauthority.com/gemini-avatar-hands-on-how-to-use-3673898/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-04T15:55:48+08:00"
+              "published_at": "2026-06-04T18:00:13+08:00"
             },
             {
-              "title": "Google Drive 中的 Gemini 现可调用 Gmail 线程",
-              "brief": "谷歌宣布，Google Drive 中的 Ask Gemini 现在可以把 Gmail 邮件线程作为对话资料来源，帮助用户处理云端文件时获得上下文。此前用户已可指定 Drive 的文件夹或文件，用于问答和整理；加入邮件后，AI 可结合文档与邮件信息生成更符合需求的结果，目前仅面向 Workspace 和付费 Google AI 用户开放。",
-              "source_url": "https://www.androidauthority.com/google-drive-ask-gemini-gmail-support-3674332/",
+              "title": "Google Pay 直接结账上线，网站购物更方便",
+              "brief": "Google 今日推出 Google Pay direct checkout，把 Google Wallet 中保存的银行卡和其他支付方式直接带到零售网站结账页中，用户可在站内更快选择付款方式。Google 此前已支持网页端 Google Pay 支付，新功能则更强调原生嵌入式体验。该功能目前先向使用 Airwallex 的部分商户开放，随后也将支持 Adyen 商户，并计划继续扩展到全球合作伙伴。",
+              "source_url": "https://www.androidauthority.com/google-pay-direct-checkout-3674411/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-04T15:55:30+08:00"
+              "published_at": "2026-06-04T17:47:53+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星更新 Samsung Health 应用，加入 AI 功能",
+              "brief": "三星将于6月8日起更新 Samsung Health 应用，加入多项生成式 AI 功能，把睡眠、活动等复杂生理数据转成日常可执行建议，并为今年将推出的 Galaxy Watch 功能铺路。新版包含 Vitals、Heart Health Score 和 Daily Cardio Load，可依据夜间基线与训练数据提示异常、评估心脏状态并给出运动休息建议。",
+              "source_url": "https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-04T18:26:35+08:00"
+            },
+            {
+              "title": "连 Meta 监督委员会都认为其封号规则令人费解",
+              "brief": "Meta 监督委员会审理一起拥有7万粉丝的 Instagram 账号因威胁记者而被封禁的案件，认定封号本身正确，但质疑公司处理流程缺乏透明度并存在正当程序疑虑。委员会指出，Facebook 与 Instagram 的记过和处罚机制差异很大，前者可能先临时停用，后者则常限直播或取消推荐，这套规则让用户长期困惑。",
+              "source_url": "https://www.engadget.com/2187083/even-meta-s-oversight-board-thinks-its-rules-for-banning-accounts-are-baffling/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-04T18:00:00+08:00"
+            },
+            {
+              "title": "SpaceX 预计 IPO 将募资 744 亿美元",
+              "brief": "SpaceX 在修订后的上市文件中把即将进行的 IPO 每股定价设为135美元，若最终维持这一价格，募资规模将达744亿美元，估值约1.75万亿美元。这一做法较少见，最终价格仍要到6月11日公布，次日开始交易；公司称募集资金将用于未来项目，包括建设轨道数据中心。",
+              "source_url": "https://www.engadget.com/2187282/spacex-ipo-target/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-04T17:24:18+08:00"
+            },
             {
               "title": "Google Wallet 今夏将在部分欧盟国家支持数字身份证件",
               "brief": "谷歌宣布，Google Wallet 将于今年夏天支持部分欧盟成员国的数字身份证件，并新增与 Sparkasse Bank 合作的年龄验证功能。此举延续了其自 2025 年起围绕英国《在线安全法》等法规推进的身份与年龄核验布局。谷歌暂未公布具体国家名单，相关流程预计会类似英国和美国的护照添加方式，通过自拍视频、扫描证件并交叉核验后完成导入。",
@@ -181,33 +202,19 @@
               "source_url": "https://www.engadget.com/2187268/ask-gemini-gmail-search/",
               "source_name": "Engadget",
               "published_at": "2026-06-04T16:24:33+08:00"
-            },
-            {
-              "title": "Noble Audio 发布三单元降噪耳机 FoKus Artemis",
-              "brief": "Noble Audio 发布 FoKus Artemis 头戴式耳机，在动圈和平板单元之外再加入一枚动铁单元，形成三单元混合架构。该公司此前已在 FoKus Apollo 上采用混合发声设计，这次进一步把低频、通透细节与整体清晰度分别交给不同单元处理。新机还配备主动降噪、通透模式、多点连接、USB 音频和佩戴检测，开启降噪续航超过 35 小时，售价 899 美元，现已开放预订，预计 7 月发货。",
-              "source_url": "https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-04T16:00:00+08:00"
-            },
-            {
-              "title": "Shokz 称 OpenDots 2 夹耳耳机强化音量与低频",
-              "brief": "Shokz 推出两款夹耳式耳机，其中旗舰 OpenDots 2 重点提升音量与低频表现，并同步带来定位更中端的 OpenDots Air。开放式夹耳设计一向容易在低音上吃亏，因此新机采用 Bassphere 2.0 双 11.8 毫米单元与 MirrorPitch 定向发声方案。它还升级了杜比音频、通话降噪和骨传导参考麦克风，支持点按或捏压操作，具备 IP57 防尘防水能力，单次续航最长 10 小时。",
-              "source_url": "https://www.engadget.com/2186840/shokz-says-its-opendots-2-earbuds-focus-on-improved-volume-and-bass/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-04T15:00:00+08:00"
-            },
-            {
-              "title": "任天堂将在欧盟推出可更换电池版 Switch 2",
-              "brief": "任天堂确认将为欧盟推出符合新规的 Switch 2 版本，并将于2027年发售。此举是为遵守欧盟2023年通过的“维修权”政策，该政策要求自2027年2月18日起，部分在欧盟销售的设备必须让用户可随时轻松更换电池。任天堂表示相关机型将采用以“BEE”开头的型号，包装上标注“OSM”，并作为单独产品销售。",
-              "source_url": "https://www.engadget.com/2187237/nintendo-switch-2-replaceable-batteries-eu/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-04T14:19:37+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "亚马逊开发可与员工对话的仓库机器人",
+              "brief": "亚马逊发布新版全自主仓储机器人 Proteus，仓库员工如今可像与同事沟通一样，直接用自然语言给它分配任务，不必再通过专用软件和代码发出指令。这项 AI 升级出现在公司持续加码自动化之际，亚马逊强调相关投资是为了支持而非取代员工。该机器人主要在仓库地面搬运重物和大型推车，并能自行判断任务优先级、路线与执行时机。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+              "source_name": "The Verge",
+              "published_at": "2026-06-04T05:31:14-04:00"
+            },
             {
               "title": "Shokz升级开放式耳机，音质更好且设计更轻",
               "brief": "Shokz发布两款新开放式耳机OpenDots 2和OpenDots Air，主打更好的音质与更轻的机身。它们延续2025年5月OpenDots One的夹耳式方案，把发声单元放在耳后并朝耳道定向传声，不会堵住耳朵，意在相比传统真无线耳机带来更高舒适度和更强环境感知。新产品也分别面向不同需求：OpenDots 2加入骨传导麦克风，OpenDots Air则是更便宜的入门选择。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
               "source_name": "The Verge",
               "published_at": "2026-06-03T17:12:51-04:00"
-            },
-            {
-              "title": "英伟达已在规划 N2X 和 N3X 芯片，目标是“星际迷航”式电脑",
-              "brief": "英伟达在台北 Computex 2026 上确认，RTX Spark 不会只是一次性产品，至少已规划后续两代 N2X 和 N3X 芯片。公司并非只是试探能否成为又一家消费级笔记本芯片供应商，而是朝可用语音下达指令的电脑与机器人推进。黄仁勋说目标是打造类似《星际迷航》的电脑和《星球大战》里的 R2-D2，并透露他与微软 CEO 萨提亚·纳德拉大约三年前就开始为此合作。",
-              "source_url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-              "source_name": "The Verge",
-              "published_at": "2026-06-03T16:03:50-04:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "德国巴伐利亚州取消微软合同，改用开源软件",
+              "brief": "德国巴伐利亚州数字事务部宣布取消与微软的合同，这份合同未来五年支出接近10亿欧元，州政府将转向开源软件。此举源于对服务连续性、成本控制和数据安全的考量，也呼应欧洲政府减少依赖微软等美国技术的趋势。数字部长Fabian Mehring支持转向开源，财政部长Albert Füracker则主张先在现有合同基础上争取折扣。",
+              "source_url": "https://www.solidot.org/story?sid=84483",
+              "source_name": "Solidot",
+              "published_at": "2026-06-04T15:58:46+08:00"
+            },
+            {
               "title": "苹果因需求旺盛将 MacBook Neo 产能翻倍",
               "brief": "苹果因入门级电脑 MacBook Neo 需求远超预期，已将产能从500万台提高到1000万台。库克称公司发布前已看好这款产品，但仍低估了消费者热情；它还带动上季度 Mac 新用户数创历史新高，连 Windows PC 厂商也在关注其对入门市场的冲击。该机配备8GB内存，售价599美元，学生价499美元。",
               "source_url": "https://www.solidot.org/story?sid=84481",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=84478",
               "source_name": "Solidot",
               "published_at": "2026-06-03T23:59:09+08:00"
-            },
-            {
-              "title": "Meta 允许员工每次最多 30 分钟退出电脑追踪",
-              "brief": "Meta 近期开始在美国员工电脑上安装追踪软件，采集鼠标移动、点击和按键数据，以训练能自动执行工作任务的 AI 智能体，这一项目在内部被称为 Model Capability Initiative。此举在公司内引发强烈反对，并促成超过 1500 人签名请愿，匿名员工还形容其“非常反乌托邦”。根据周二发给员工的内部备忘录，Meta 现允许员工单次最多 30 分钟退出追踪，也可申请永久退出。",
-              "source_url": "https://www.solidot.org/story?sid=84477",
-              "source_name": "Solidot",
-              "published_at": "2026-06-03T22:26:30+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "爆料称 iPhone 18 Pro Max 厚度与上代持平",
+              "brief": "爆料称，iPhone 18 Pro Max机身厚度将与上代持平，苹果内部研发资源正大幅转向传闻中的折叠屏“iPhone Ultra”，因此这一代外形变化有限。现有消息还称，新机可能在不增厚的前提下配备更大电池，继续采用6.9英寸屏幕，并引入更小灵动岛、C2基带和支持可变光圈的主摄。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564666.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-04T18:53:33+08:00"
+            },
+            {
+              "title": "富士康与英特尔合作开发下一代 AI 基础设施",
+              "brief": "富士康宣布与英特尔合作开发下一代人工智能基础设施，重点面向AI数据中心设备，并把算力方案延伸到工厂、智慧城市和机器人等场景。双方将围绕搭载英特尔至强处理器和AI加速芯片的服务器机柜，在高速互连、散热和能效优化上联合研发，同时探索定制芯片与系统集成合作，但未披露金额、客户和上市时间表。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564664.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-04T18:52:30+08:00"
+            },
+            {
+              "title": "比特币连创新低 长期持有大户开始抛售",
+              "brief": "随着比特币连续下探，持仓至少155天的长期持有者也开始转为卖方，市场出现更广泛的抛售迹象。分析师称，该群体过去两天合计卖出约24亿美元比特币，近30天抛售筹码中有26%来自9万美元以上买入的高位资金；同时现货ETF已连续12个交易日净流出，本周币价跌幅达到12%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564662.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-04T18:11:29+08:00"
+            },
+            {
+              "title": "亚马逊发布可对话仓库机器人新一代 Proteus",
+              "brief": "亚马逊推出新一代仓库机器人Proteus，加入AI后可理解员工口头或文本指令，并自行安排优先级、路线和作业时间，减少对专门软件下达指令的依赖。新机型仍负责搬运大型货架和重货，但作业范围将从装卸货码头扩展到更多搬运区域；该系统正在内部测试，计划于2027年上半年率先在欧洲部署。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564660.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-04T17:56:07+08:00"
+            },
+            {
               "title": "宇宙最大磁场地图绘成，“隐形结构”现身",
               "brief": "国际团队利用西澳ASKAP射电望远镜和RACS巡天数据，绘制出目前最全面的宇宙磁场图之一，让原本难以直接观测的“隐形结构”得以显现。由于宇宙磁场长期缺乏足够样本和完整南天数据，研究进展受限，这次团队依据射电信号穿越磁场时偏振旋转的原理，从近四百万个星系提取旋转量测值，并公开数据，成果已被期刊接收但尚未完成同行评议。",
               "source_url": "https://www.cnbeta.com.tw/articles/science/1564658.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-04T16:56:26+08:00"
-            },
-            {
-              "title": "为等《GTA6》预告片，粉丝在R星总部外架麦克风“监听”会议室音量",
-              "brief": "有Reddit用户称自己在Rockstar North总部外架设麦克风，对准会议室方向监测音量，并据此判断《GTA6》第三支预告片是否临近发布。相关说法源于他观测到某日上午11点音量激增，但文章指出R星对预告片信息一向严格保密，全员提前看片的说法可信度很低；此前周末还有两名博主闯入总部试图打探消息，反映玩家追踪新消息的行为正不断升级。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1564656.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-04T15:04:34+08:00"
-            },
-            {
-              "title": "微软鼓励开发者基于WinUI为Windows 11开发原生应用",
-              "brief": "微软宣布将面向Windows应用的生产级框架“WinUI 3”更名为“WinUI”，并再次鼓励开发者为Windows 11编写原生应用，而非主要依赖Electron、React Native或WebView2封装。微软称此举是为强调长期稳定性，未来不会另起新UI框架或进行破坏性大改，且更多Windows 11系统级Shell组件也将陆续迁移到WinUI，以提升界面风格和性能一致性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564654.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-04T14:58:45+08:00"
-            },
-            {
-              "title": "美军推进隐身无人卡车研发",
-              "brief": "美国莱茵金属与Harbinger正推进新一代无人货运平台，目标是在高威胁战场承担弹药、燃料和给养运输，缩小前线“运输鸿沟”。自动驾驶军卡已试验多年，这次强调能独立进入战区执行任务。车辆将取消驾驶室和机械转向，采用线控混动底盘，并可切换纯电模式以降低噪音和热特征，作为可规模化、可消耗的平台部署。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564652.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-04T14:04:20+08:00"
-            },
-            {
-              "title": "Meta称澳大利亚新闻税违反美澳自贸协定",
-              "brief": "Meta公开指责澳大利亚拟议中的新闻征税措施违反美澳自贸协定，并称其范围比已引发美国贸易行动的部分数字服务税更广。双方围绕平台是否应为新闻内容付费自2021年起持续争执，Meta曾短暂屏蔽当地新闻并在2024年停止付费。澳政府表示仍将推进改革，税收收入会返还新闻行业，适用对象也扩大到Meta、Google和TikTok。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564650.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-04T13:41:06+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "英特尔称 GPU 仍是 PC 核心业务，Arc 仍“超级重要”",
-              "brief": "英特尔确认GPU仍属PC核心业务，Arc也是其中“超级重要”的一环，并表示会继续沿这条路线推进。此番表态出现在公司强调剥离非核心业务、外界关注独显投入去向之际。文章提到Arc自2022年进入桌面独显市场，初代曾受驱动问题困扰，第二代Battlemage表现改善，目前面向玩家主要是B580和B570，B770是否推出仍未获官方确认。",
-              "source_url": "https://www.ithome.com/0/959/955.htm",
+              "title": "威斯迪首款 F1.4 自动对焦国产镜头 6 月 9 日上市，兼容佳能 RF",
+              "brief": "威斯迪首款F1.4自动对焦国产镜头将于6月9日上市，并通过自研EFR卡口兼容佳能RF卡口。这是品牌宣布自研相机卡口后推出的首批AF产品之一，主打大光圈与视频、人像场景。爆料称其采用11组15片结构，含1枚非球面和3枚ED镜片，最近对焦0.8米，77mm滤镜口径，重约653克，内置STM静音马达。",
+              "source_url": "https://www.ithome.com/0/960/099.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T16:42:42+08:00"
+              "published_at": "2026-06-04T18:52:54+08:00"
             },
             {
-              "title": "英格兰考试监管机构警告智能眼镜、隐形耳机或助长作弊",
-              "brief": "英格兰考试监管机构Ofqual警告，智能眼镜、隐形耳机等联网可穿戴设备可能加剧考试作弊，并削弱资格考试体系公信力。背景是手机和智能手表已持续推高违规案例，监管方同时在审查AI用于课程作业的风险。关键数据是去年夏天记录到2225起涉及手机及智能设备的GCSE、AS和A-level作弊事件，自2018年以来此类设备一直是数量最多的一类。",
-              "source_url": "https://www.ithome.com/0/959/954.htm",
+              "title": "Steam 2026 年 5 月报告：RTX 3060 居显卡榜首，1080P 仍是主流",
+              "brief": "Steam发布2026年5月软硬件调查，RTX 3060升至显卡榜首，1080P显示器仍是最主流配置。这份月度报告用于反映平台玩家常见硬件与系统分布，近几个月Windows 11占比持续扩大。数据显示，Windows 11升至69.76%，Windows 10为23.99%；1080P显示器占51.89%，2K占21.20%；VR头显中Meta Quest 3居首。",
+              "source_url": "https://www.ithome.com/0/960/098.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T16:42:39+08:00"
+              "published_at": "2026-06-04T18:49:19+08:00"
             },
             {
-              "title": "惠科展示全球首款 83.4 英寸 12K 超宽曲面显示器 Shield C83U60",
-              "brief": "惠科在展会上展示全球首款83.4英寸12K超宽曲面显示器Shield C83U60，主打以单块超宽屏替代多屏拼接并减少常见中缝问题。背景是厂商正围绕超大尺寸、RGB Mini LED和高刷电竞方向持续扩展产品线。文中还提到HKC展出31.4英寸与27英寸RGB Mini LED新品，蚂蚁电竞则带来24.1英寸、原生1000Hz的Fast TN电竞显示器ANT25ASF。",
-              "source_url": "https://www.ithome.com/0/959/952.htm",
+              "title": "理想汽车：全新 L9 Ultra 同条件续航优于 L9 Livis",
+              "brief": "理想汽车回应网友提问称，在同等测试条件下，全新L9 Ultra的续航会优于L9 Livis。此前直播中，L9 Livis在4名成年人和50公斤设备载重下，行驶14小时42分钟，总续航达到1422.8公里。两款车均搭载自研第三代增程器和72.7千瓦时三元锂5C超充电池，CLTC纯电续航420公里、综合续航1650公里，但因其他配置差异，Ultra表现更好。",
+              "source_url": "https://www.ithome.com/0/960/097.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T16:40:40+08:00"
+              "published_at": "2026-06-04T18:47:06+08:00"
             },
             {
-              "title": "联想 GM11 电竞鼠标新增有线版：66 克、带 RGB，售价 89 元",
-              "brief": "联想为GM11电竞鼠标新增有线版本，定价89元，重量66克，并配备RGB灯效。背景是该系列此前已有不同版本布局，此次新款以更低价格补充入门级游戏外设选择，面向追求轻量化的用户。关键信息包括其内置约800万次寿命左右键微动，采用USB-C接口进行有线连接，整体规格集中在基础性能与轻量设计。",
-              "source_url": "https://www.ithome.com/0/959/951.htm",
+              "title": "Steam Deck 玩家热议：掌机买来多年，最后只玩一款游戏",
+              "brief": "一名Steam Deck玩家在Reddit发帖称，自己买掌机多年后几乎只用它玩一款游戏，这番感受迅速引发大量共鸣。尽管Steam Deck可运行大量作品，不少用户却长期停留在某个“舒适区游戏”里反复游玩，与其作为带动更多Steam消费入口的初衷形成反差。回帖中有人把它变成《魔兽世界》经典版、《杀戮尖塔》或《足球经理》专用机。",
+              "source_url": "https://www.ithome.com/0/960/096.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T16:40:23+08:00"
+              "published_at": "2026-06-04T18:36:53+08:00"
             },
             {
-              "title": "华为上线鸿蒙有礼 618 特别版：签到可抽随机现金红包",
-              "brief": "华为上线“鸿蒙有礼”618特别版，活动期间用户签到仍可抽随机现金红包，并提供满减优惠和抽奖活动。背景是该活动延续以往节假日玩法，主要面向鸿蒙设备用户。规则显示，活动时间为6月4日16时至6月21日23时59分，最多可签到18次，单次红包0.18元至6.18元，同一账号最多登录3台设备参与，且不支持多设备分别参与，红包需在7月12日23时59分前领取至华为支付余额。",
-              "source_url": "https://www.ithome.com/0/959/950.htm",
+              "title": "十铨展示可短信远程“自毁”的 T-Create Expert P35SG 移动硬盘",
+              "brief": "十铨在台北电脑展展出T-Create Expert P35SG移动硬盘，用户在设备遗失后可通过一条短信远程触发“深度逻辑擦除”，随后再以高电压击穿硬件，实现数据不可恢复。这延续了其此前带物理自毁按钮产品的思路，但把触发方式改为远程；同期十铨还展示了带电子纸屏的P33移动SSD等新品。",
+              "source_url": "https://www.ithome.com/0/960/090.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-04T16:39:58+08:00"
+              "published_at": "2026-06-04T18:31:53+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "CD Projekt新IP《Project Hadar》通过招聘广告释出模糊预告",
+              "brief": "CD Projekt通过《Project Hadar》工程总监招聘信息，首次略微说明这款新作将打造“沉浸式、情感化的开放世界体验”。这显示公司有意把它发展成继《巫师》和《赛博朋克》后的第三大自有系列，但项目目前仅处于早期预开发阶段，财报显示团队只有24人，距离正式亮相和发售仍有很长时间。",
+              "source_url": "https://www.ign.com/articles/cd-projekts-new-ip-project-hadar-gets-extremely-vague-tease-via-job-ad",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T18:12:06+08:00"
+            },
+            {
+              "title": "《星际之门 SG-1》演员迈克尔·尚克斯呼吁粉丝为被砍复活剧发声",
+              "brief": "亚马逊取消《星际之门》Prime Video复活剧后，《SG-1》主演迈克尔·尚克斯公开号召粉丝立即发声，反对外界所谓“只会吸引核心粉丝”的说法。尚克斯转发相关报道，并支持请愿、募资飞行横幅和向亚马逊客服反馈等行动，称如果观众还想看到原制作团队和演员参与的新剧，现在可能是争取它的唯一机会，目前最大请愿已有4万多签名。",
+              "source_url": "https://www.ign.com/articles/stargate-sg-1-star-michael-shanks-rallies-fans-after-amazon-axes-revival-says-now-is-the-time-to-say-something",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T17:52:05+08:00"
+            },
+            {
+              "title": "类《XCOM》新作《星球大战：零号连队》发售日泄露，比预想更早",
+              "brief": "据报道，类《XCOM》的策略游戏《星球大战：零号连队》将于8月27日登陆PC、PS5和Xbox Series X/S，时间点落在9月密集发售季之前。更多信息预计将在次日的夏日游戏节公开，目前已知标准版售价49.99美元，提供实体与数字版，豪华版售价59.99美元且仅为数字版，传闻其中不会包含抢先体验资格。",
+              "source_url": "https://www.ign.com/articles/xcom-like-star-wars-zero-company-release-date-leaks-and-its-coming-sooner-than-you-might-think",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T16:59:58+08:00"
+            },
+            {
+              "title": "《阿凡达传奇：格斗游戏》延期三周",
+              "brief": "基于《降世神通：最后的气宗》的1对1二维格斗游戏《阿凡达传奇：格斗游戏》原定7月2日发售，现推迟至7月23日。发行商表示，延期是为确保首发体验，并加入原本未计划的新内容。该作定价29.99美元，首发支持跨平台联机，面向新老玩家，主打手绘2D画面、元素操控战斗以及流畅稳定的在线对战表现。",
+              "source_url": "https://www.ign.com/articles/avatar-legends-the-fighting-game-delayed-by-3-weeks",
+              "source_name": "IGN",
+              "published_at": "2026-06-04T16:53:33+08:00"
+            },
+            {
               "title": "《乐高蝙蝠侠：黑暗骑士传承》公布 Switch 2 发售日期",
               "brief": "《乐高蝙蝠侠：黑暗骑士传承》确定将于9月18日登陆任天堂Switch 2，并已开启预购。此前因未能与其他平台同步发售，加上《无主之地4》Switch 2 版本曾暂停开发，外界一度担心本作也会延期。此次确认打消疑虑；Switch 2版分标准版69.99美元与豪华版89.99美元，豪华版含数字内容但无抢先体验，实体版预购还赠复古蝙蝠侠人仔。",
               "source_url": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-gets-nintendo-switch-2-release-date",
               "source_name": "IGN",
               "published_at": "2026-06-04T12:43:39+08:00"
-            },
-            {
-              "title": "IO Interactive未来邦德游戏不再自发行，亚马逊控制权提升",
-              "brief": "IO Interactive确认，未来的詹姆斯·邦德游戏将不再由其自行发行，亚马逊游戏工作室会接手发行，亚马逊对项目的控制力也会进一步提高。之所以《007 First Light》还能由IO自发行，是因为相关协议早在亚马逊收购米高梅之前就已签定；亚马逊于2021年收购米高梅，并在2025年取得邦德品牌完整创意控制权。后续续作预计仍由IO开发，但发行与资金支持将更多由米高梅和亚马逊方面主导。",
-              "source_url": "https://www.ign.com/articles/io-interactive-wont-self-publish-future-james-bond-games-amazon-will-have-more-control",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T09:54:18+08:00"
-            },
-            {
-              "title": "《WWE 2K26》新增 Take-Two CEO 斯特劳斯·泽尔尼克可供对战",
-              "brief": "《WWE 2K26》在当天更新中悄然加入了Take-Two首席执行官斯特劳斯·泽尔尼克，玩家现在既能操作他，也能在擂台上与他对战。官方并未专门宣布这次加入，但游戏内已提供这一角色。泽尔尼克今年68岁，角色评分为77，且拥有专属入场音乐《My Way》；他此前虽自称并不玩游戏，却曾为该系列的自定义角色功能做过宣传。",
-              "source_url": "https://www.ign.com/articles/you-can-now-fight-take-two-ceo-strauss-zelnick-in-wwe-2k26",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T09:44:05+08:00"
-            },
-            {
-              "title": "IGN Live 2026 线下活动日程公布",
-              "brief": "IGN 公布了 2026 年 IGN Live 线下活动日程，内容覆盖游戏、影视与名人到场环节，进一步展现这一综合娱乐活动的现场安排。公开日程显示，现场将有《Control Resonant》创意总监更新、《007 First Light / Hitman》访谈、《降世神通：最后的气宗》第二季交流，以及 Cole Tucker、Steve-O、Roger Craig Smith、Patricia Summersett 等嘉宾亮相，并放出多款作品预告与玩法展示。",
-              "source_url": "https://www.ign.com/articles/ign-live-in-person-event-schedule-2026",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T05:27:50+08:00"
-            },
-            {
-              "title": "《Control Resonant》数字豪华版可提前 2 天游玩，但仅限 PS5",
-              "brief": "《Control Resonant》宣布将于 9 月 24 日发售，但其数字豪华版提供 48 小时抢先体验，而且这一权益仅限 PS5，引发玩家讨论。报道指出，这项安排似乎与 PlayStation 的营销合作有关，Xbox 和 PC 版都不提供同等待遇，不少玩家因此表示将取消预购、等打折，或转而购买同日发售的《Silent Hill: Townfall》。",
-              "source_url": "https://www.ign.com/articles/control-resonant-has-a-2-day-early-access-through-the-digital-deluxe-edition-but-only-on-ps5",
-              "source_name": "IGN",
-              "published_at": "2026-06-04T04:57:33+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "商务部：2026年将举办超100场“出口中国”活动",
-              "brief": "商务部新闻发言人何咏前介绍，2026年商务部将举办超过100场“出口中国”活动，向中国企业和消费者宣传推介各国优质产品。这一安排主要是为各国企业扩大对华出口搭建平台，延续促进经贸往来和商品交流的工作方向，相关消息由央视新闻披露。",
-              "source_url": "https://36kr.com/newsflashes/3838629621369353?f=rss",
+              "title": "SpaceX预计可量化市场潜力约28.5万亿美元",
+              "brief": "6月4日，SpaceX披露其可量化的市场潜力约为28.5万亿美元，给出了公司对未来可触达市场空间的最新预估。这一表述的核心在于市场潜力测算，而非当期经营数据或单一项目进展。此次公开信息中的关键细节主要集中在28.5万亿美元这一规模数字，未进一步说明测算口径、覆盖业务或对应时间范围。",
+              "source_url": "https://36kr.com/newsflashes/3838746709035527?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 16:55:58  +0800"
+              "published_at": "2026-06-04 18:55:05  +0800"
             },
             {
-              "title": "中交地产董事长王尧离任",
-              "brief": "中交地产公告称，王尧因个人原因申请辞去公司董事、董事长及公司其他所有职务，辞职后将不再担任公司任何职务。此次变动属于公司高层人事调整，信息由36氪根据公司公告披露。已公开内容显示，公告明确了离任原因为个人原因，并说明其将同步退出全部现有职务安排。",
-              "source_url": "https://36kr.com/newsflashes/3838628695673353?f=rss",
+              "title": "美诺华拟定增募资不超21.09亿元",
+              "brief": "美诺华公告称，拟向特定对象发行股票募资不超过21.09亿元，用于多个制剂研发与产业化项目，并补充流动资金。这次融资主要面向高端口服固体制剂、复杂注射剂以及高活性制剂和难溶性药物研发，显示资金将继续投向高端制剂能力建设。扣除发行费用后，募集资金将投向全球化产业基地项目、高端研发项目及补充流动资金。",
+              "source_url": "https://36kr.com/newsflashes/3838742183217417?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 16:55:02  +0800"
+              "published_at": "2026-06-04 18:50:28  +0800"
             },
             {
-              "title": "小红书启动金融专业号专项治理，处置非法跨境投资诱导内容",
-              "brief": "小红书已启动针对金融领域认证专业号的专项治理，并处置非法诱导跨境投资等违规内容。平台称，金融类认证只向持有合规牌照的机构发放，账号命名也须与认证主体实际业务范围严格匹配，不得以虚假或误导信息获取认证。近一周已处置1500余个违规金融专业号，5月以来累计处置相关违规及无资质营销账号3.1万个。",
-              "source_url": "https://36kr.com/newsflashes/3838627080342016?f=rss",
+              "title": "上期所对部分客户采取限制开仓措施",
+              "brief": "上期所公告，对部分客户采取限制开仓的监管措施，原因是相关账户组在有关合约上的日内开仓交易量超限并达到交易所处理标准。此次措施基于异常交易监管规则执行，涉及1组具有实际控制关系的账户。关键细节是，上述客户交易行为被认定违反《上海期货交易所异常交易行为管理办法》第16条，因此在相应品种上被限制开仓。",
+              "source_url": "https://36kr.com/newsflashes/3838740850952457?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 16:53:23  +0800"
+              "published_at": "2026-06-04 18:49:07  +0800"
             },
             {
-              "title": "抖音在重庆成立新公司",
-              "brief": "天眼查App显示，重庆小荷信息科技有限公司近日成立，法定代表人为吴海锋，注册资本200万元。新公司经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广和数据处理服务。股权信息显示，该公司由抖音有限公司旗下小荷智慧（上海）科技有限公司全资持股，相关消息由36氪披露。",
-              "source_url": "https://36kr.com/newsflashes/3838623274862852?f=rss",
+              "title": "华大智造控股股东提议2.5亿至5亿元回购股份",
+              "brief": "华大智造公告称，控股股东深圳华大科技控股集团有限公司提议公司回购已发行的部分A股股份，回购金额区间为2.5亿元至5亿元。此次回购拟由公司使用自有资金和自筹资金实施，并通过上海证券交易所交易系统以集中竞价方式进行。关键细节是，提议主体为控股股东，回购对象为公司已发行的部分人民币普通股，资金总额设有明确上下限。",
+              "source_url": "https://36kr.com/newsflashes/3838735875868934?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 16:49:31  +0800"
+              "published_at": "2026-06-04 18:44:03  +0800"
             },
             {
-              "title": "绝味食品等在杭州成立数智科技公司，注册资本500万元",
-              "brief": "天眼查App显示，杭州御德泰数智科技有限公司近日成立，法定代表人为郑御喆，注册资本500万元。该公司经营范围包括数字技术服务、品牌管理和咨询策划服务等，显示其定位于数智化相关业务。股东信息显示，公司由ST绝味、超智谋略管理咨询（上海）有限公司、上海今焰数字科技有限公司及蒋欣共同持股。",
-              "source_url": "https://36kr.com/newsflashes/3838622309861638?f=rss",
+              "title": "机构今日净买入33股，德明利净卖出额居首",
+              "brief": "盘后数据显示，今日龙虎榜共有59只个股出现机构身影，其中33只呈现机构净买入，26只呈现机构净卖出，显示机构资金分化明显。从买卖方向看，机构净买入金额居前的是厦门钨业、东山精密和模塑科技，净买入额分别为9.68亿元、9.38亿元和3.07亿元。净卖出前三为德明利、中国铝业和洁美科技，净流出额分别为2.85亿元、1.65亿元和1.25亿元。",
+              "source_url": "https://36kr.com/newsflashes/3838730177759751?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-04 16:48:32  +0800"
+              "published_at": "2026-06-04 18:38:16  +0800"
             }
           ]
         },
@@ -533,6 +533,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "免费离线 PDF 批量处理工具箱：转换、压缩、编辑、合并拆分一站式完成",
+              "brief": "小众软件介绍了一款名为“鹰迅批量处理工具箱”的免费本地 PDF 处理工具，主打离线运行与批量操作，针对常见的 PDF 难编辑、在线处理有泄露风险、现有工具常限制页数和数量等痛点。文章称它整合近200项功能，除批量转换、压缩、合并拆分外，还支持水印和电子章处理、页眉页脚修改、区域内容擦除与提取、关键词替换、密码保护，以及按 Excel 模板批量生成 PDF。",
+              "source_url": "https://www.appinn.com/inxunoffice-pdf/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-04T17:14:15+08:00"
+            },
             {
               "title": "让 macOS 26 重新拥有启动台 Launchpad",
               "brief": "macOS Tahoe 26 取消原生启动台后，第三方工具 BuhoLaunchpad 试图把 Launchpad 的体验带回系统。它因官方以 App 应用取代旧功能而出现，支持 Dock、快捷键、触发角、触控板手势与 F4 等启动方式，也能拖拽整理图标、建立文件夹、隐藏应用，并加入多布局、自定义应用位置和退出后恢复键盘焦点等功能。",
