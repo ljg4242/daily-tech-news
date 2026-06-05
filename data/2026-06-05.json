@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T16:54:29.838129+08:00",
+  "generated_at": "2026-06-05T18:56:17.020818+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌 Workspace 图标改版现已全部完成，Gmail 最后更新",
-              "brief": "谷歌已在Android上完成Workspace应用图标重设计，Gmail成为最后一个换上新样式的应用，这也结束了过去数周对Drive、Docs、日历、Meet等生产力应用的分批更新。此前统一品牌策略让多款图标过于相似，用户在主屏上容易混淆；新方案仍保留共同设计语言，但更强调渐变效果与各自配色，不再强行突出四种谷歌标志色。",
-              "source_url": "https://www.androidauthority.com/google-workspace-apps-icon-redesign-completed-3674901/",
+              "title": "如何在安卓上玩《Mina the Hollower》，无需游戏串流",
+              "brief": "《Mina the Hollower》目前没有官方安卓版，但文中介绍，玩家仍可借助 GameNative、GameHub 或 Winlator 在安卓手机和平板上本地运行，无需游戏串流。该作已登陆 Switch、PS5、Xbox 与 PC，编辑实测运行较顺，但旧款 Pixel 及搭载 Mali GPU 的设备表现不佳；游戏可从 Steam 或 GOG 购买后直接安装，下载约 745MB。",
+              "source_url": "https://www.androidauthority.com/run-mina-the-hollower-android-3674796/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T16:28:07+08:00"
+              "published_at": "2026-06-05T18:35:46+08:00"
             },
             {
-              "title": "Pixel Studio 最新更新标志这款 Pixel 独占应用走向终结",
-              "brief": "谷歌向Pixel Studio推送v2.3.001.911719150更新后，应用已无法再创建新图片或贴纸，首页会直接引导用户改用Gemini中的Nano Banana。Pixel Studio于2024年随Pixel 9系列推出，原本用于展示Pixel 9和10系列的AI生图与改图能力。现在用户仍可查看既有作品，应用里只剩基础截图编辑界面；谷歌此前也已在Gboard更新中移除了相关贴纸生成功能。",
-              "source_url": "https://www.androidauthority.com/google-pixel-studio-discontinued-3674832/",
+              "title": "我理解安卓电池保护的意义，但我永远不会用",
+              "brief": "文章讨论了安卓手机把充电上限设为 80% 的电池保护功能。作者认可这种做法有助于降低锂电池在高低电量区间的压力、延缓老化，但自己始终不会启用，因为每天从 80% 开始会直接减少可用续航。以配备 4300mAh 电池的 Galaxy S26 为例，限制后相当于首日可用容量只剩约 3440mAh，也会改变日常用机方式。",
+              "source_url": "https://www.androidauthority.com/reasons-to-avoid-android-battery-protection-3667430/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T16:18:53+08:00"
+              "published_at": "2026-06-05T18:30:52+08:00"
             },
             {
-              "title": "Google Meet 现可通过 Android Auto 在车内加入通话",
-              "brief": "谷歌正在更广泛推送Android Auto版Meet，用户开车时终于可以从车机直接加入已安排的会议。此前该功能已先后登陆CarPlay和Android Auto，但这次开始面向所有用户扩展。出于安全考虑，车内界面仅支持音频通话，没有视频和预呼叫页面，只能加入日程中的会议或接听来电，并提供静音、退出等基础控制，同时手机会自动进入On-the-Go模式。",
-              "source_url": "https://www.androidauthority.com/google-meet-android-auto-wider-rollout-3674819/",
+              "title": "为什么漫游套餐在数字时代已经过时",
+              "brief": "文章认为传统国际漫游套餐已不适应智能手机时代，因为费用往往在出行后才清楚，后台同步邮件、天气、照片和通知都可能单独计费。文中举例称，AT&T 在陆地和邮轮上的国际数据按每 MB 2.05 美元收费，Verizon 的 TravelPass 在北美以外每天 12 美元；相比之下，旅行 eSIM 更符合以应用为中心的现代使用方式。",
+              "source_url": "https://www.androidauthority.com/why-roaming-packages-are-anachronism-3672124/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T15:55:38+08:00"
+              "published_at": "2026-06-05T18:27:46+08:00"
             },
             {
-              "title": "NewPipe 等开源应用开始提醒用户应对谷歌收紧 Android 侧载",
-              "brief": "包括NewPipe在内的多款开源Android应用，开始提醒用户谷歌即将实施的侧载限制，并说明可能的绕过办法。谷歌以安全为由调整APK侧载规则，但开发者社区认为新规不利于用户利益。NewPipe开发者表示不会遵守拟议中的验证要求，还通过弹窗提示用户后续更新或重装可能遭遇24小时锁定期，并建议使用ADB等方式完成安装。",
-              "source_url": "https://www.androidauthority.com/android-open-source-apps-sideloading-oppose-3674808/",
+              "title": "Plex 这次表明它并不了解用户想要什么",
+              "brief": "Plex 公布了一组由社区驱动的新功能，包括公开讨论区、用户整理清单、图片评论、评论提醒以及表情反应，试图把媒体服务器进一步做成娱乐社交平台。文章认为，这与 Plex 早期依靠本地存储、隐私和用户控制吸引自托管用户的定位相冲突，也会让更在意修复核心功能的老用户进一步疏离。",
+              "source_url": "https://www.androidauthority.com/plex-social-media-pivot-not-what-users-want-3674315/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T15:22:21+08:00"
+              "published_at": "2026-06-05T18:00:47+08:00"
             },
             {
-              "title": "Galaxy S25 可能比预期更早获得 One UI 9",
-              "brief": "爆料称三星已经为Galaxy S25系列启动One UI 9内部测试，首个测试版本现身时间比去年One UI 8在Galaxy S24上的相应进度早约两周。这个节奏显示三星今年的软件开发可能提前展开，也让测试版发布时间受到关注。按爆料者说法，S25系列的One UI 9公测最早可能本月到来，也可能下月推出，而S24用户或许还得再等等。",
-              "source_url": "https://www.androidauthority.com/galaxy-s25-series-one-ui-9-testing-3674801/",
+              "title": "我厌倦了像 S26 Ultra 这样售价 1300 美元的手机一年比一年保守",
+              "brief": "文章批评如今以 Galaxy S26 Ultra 为代表的高价安卓旗舰越来越缺乏进取心：新品与前代往往只剩芯片升级和软件变化，硬件提升有限，价格却没有明显回落。作者指出，一些高端中端机甚至在充电速度、电池容量、PWM 调光和部分影像规格上反而更强，这也让从 S23 升级到 S26 之类的选择更难体现价值。",
+              "source_url": "https://www.androidauthority.com/flagships-like-s26-ultra-are-stagnating-3670981/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T15:06:28+08:00"
+              "published_at": "2026-06-05T17:30:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Google测试让Chrome搜索直达AI模式",
+              "brief": "Google 被发现正在 Chrome Canary 中测试，让搜索框查询默认直达 AI Mode，而不是先显示常规搜索结果页。这与其近期持续把 AI 功能加入产品的方向一致；目前正式版仍先显示带 AI Overview 的“全部”页，用户需手动切换到 AI Mode。新隐藏标记名为“Fulfill Searchbox Queries in AI Mode”，说明适用于 Mac、Windows、Linux 和 ChromeOS，但暂未见明确上线计划。",
+              "source_url": "https://www.engadget.com/2188080/chrome-canary-reportedly-sending-search-straight-to-ai/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-05T18:48:08+08:00"
+            },
+            {
+              "title": "SpaceX无法提前进入标普500",
+              "brief": "标普500宣布不会放宽针对超大市值公司的纳入规则，因此即将上市的 SpaceX 无法像部分指数那样提前进入该指数。这意味着它至少还要等待12个月，并且必须满足最近四个季度持续盈利的要求；此前纳斯达克100和富时罗素已调整规则，市场担心追踪相关指数的 ETF 与养老金账户会被动买入 SpaceX 股票。而 SpaceX 在其 S-1 文件中称，公司迄今尚未实现盈利。",
+              "source_url": "https://www.engadget.com/2188069/spacex-ipo-denied-early-access-to-sp-500/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-05T17:44:06+08:00"
+            },
+            {
+              "title": "Anthropic提议全球放缓AI开发",
+              "brief": "Anthropic 在一篇博客文章中主张全球放缓甚至暂时暂停 AI 开发，称技术进展过快，未来系统可能具备构建自身继任者的能力。这一表态源于其对人类失去控制风险的担忧，同时也强调这类 AI 可能在科学和医疗等领域带来巨大益处；文章提出应让社会治理结构与对齐研究先赶上技术进度。不过《华尔街日报》提到，批评者认为这些警告也可能带有营销意味。",
+              "source_url": "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-05T17:19:00+08:00"
+            },
             {
               "title": "Steam Machine 和 Steam Frame 将于今夏推出",
               "brief": "Valve宣布，Steam Machine和Steam Frame定于2026年夏季上市，但两款硬件的售价至今仍未公开。这一时间窗口是在一篇面向开发者的博客中披露的，同时Valve确认它们将纳入Verified认证计划，帮助玩家判断游戏开箱后的运行体验。Valve称，Steam Machine的认证要求与Steam Deck几乎相同；Steam Frame则看重独立模式下默认画面表现、内置屏幕文字与界面清晰度，以及默认控制器配置对VR和非VR游戏的适配。",
@@ -221,27 +242,6 @@
               "source_url": "https://www.engadget.com/2187830/the-instagram-plus-subscription-has-officially-launched/",
               "source_name": "Engadget",
               "published_at": "2026-06-05T04:45:31+08:00"
-            },
-            {
-              "title": "《连线》在 Meta AI 应用中发现未发布的人脸识别功能代码",
-              "brief": "《连线》报道称，Meta AI应用代码中藏有一项面向Meta智能眼镜、尚未发布的人脸识别功能“NameTag”。这与《纽约时报》2月关于Meta探索相关能力的报道相呼应；按代码描述，它可先捕捉人脸，再在日后识别到已记录对象时提醒佩戴者。现阶段该功能未启用、用户无法访问，审查代码的安全研究员称其目前也未向Meta服务器传输生物特征数据。",
-              "source_url": "https://www.engadget.com/2187824/wired-found-code-for-an-unreleased-facial-recognition-feature-in-meta-s-ai-app/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-05T04:36:45+08:00"
-            },
-            {
-              "title": "ChatGPT 记忆功能升级，免费版受益更明显",
-              "brief": "OpenAI正在为ChatGPT推出一套更强的新记忆架构，尤其会让免费账户用户受益。此前的“已保存记忆”主要依赖用户明确要求记住信息，时间久了相关性也会下降，因此过去一年公司又用可在后台综合多次对话内容的“dreaming”来补足；这次更新会在此基础上生成可随时查看的“记忆摘要”，用户还能补充、修改，并指定模型何时引用这些个人偏好与信息。",
-              "source_url": "https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-05T04:22:19+08:00"
-            },
-            {
-              "title": "加拿大总理马克·卡尼公布引发质疑的国家 AI 战略",
-              "brief": "加拿大总理马克·卡尼公布为期五年的“全民AI”国家战略，将作为未来立法与基础设施投资的指引。该计划一面强调推动本土AI产业、提升采用率与公众信任，一面提出更新法律以加强个人信息保护、遏制深度伪造和监控定价，并建立网络安全制度；同时还包括全国AI素养计划、为高等教育学生提供可信AI代理，以及建设公共AI超级计算机和加码本国算力、云基础设施。",
-              "source_url": "https://www.engadget.com/2187720/canada-prime-minister-mark-carney-announces-questionable-national-ai-strategy/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-05T03:00:44+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "乐高转售商 Bricks & Minifigs 将向收藏者归还“被偷”的《星球大战》套装，并与争议管理层分道扬镳",
+              "brief": "Bricks & Minifigs首席执行官确认，将就一笔失败的寄售交易与收藏者Bryan Mansell父子会面，归还其估值20万美元的乐高收藏，并愿交出塞勒姆门店内任何《星球大战》套装。公司还表示会撤销对他的诉讼、补偿未清点损失，同时关闭涉事门店，并与两名加盟店主终止合作，称前店主管理失当引发争议。",
+              "source_url": "https://www.ign.com/articles/lego-reseller-bricks-and-minifigs-will-return-stolen-star-wars-sets-to-collector-parting-ways-with-controversial-management",
+              "source_name": "IGN",
+              "published_at": "2026-06-05T16:06:16+08:00"
+            },
+            {
               "title": "Xbox CEO称打造平台仍需独占内容，具体决策仍在制定中",
               "brief": "Xbox高管表示，公司正试图在“做大发行商”和“建设自有平台”之间取得平衡：前者要求游戏尽量覆盖更大受众，后者则需要独占内容和服务支撑，因此微软仍在就每款作品分别做判断，并参考行业先例。随着《使命召唤》长期跨平台、《光环》也宣布登陆PS5，再加上掌机更像迷你Windows电脑，微软的Xbox多平台路线已愈发清晰。",
               "source_url": "https://www.ign.com/articles/xbox-ceo-acknowledges-exclusives-are-needed-to-build-a-platform-decisions-are-still-being-made",
@@ -320,19 +327,19 @@
               "source_url": "https://www.ign.com/articles/netflixs-devil-may-cry-will-end-with-season-3",
               "source_name": "IGN",
               "published_at": "2026-06-05T08:07:57+08:00"
-            },
-            {
-              "title": "Valve重申Steam Machine将于今夏推出",
-              "brief": "Valve在最新博客中再次确认，Steam Machine与Steam Frame仍计划于今年夏季推出，但暂未公布更具体的上市时间。文章重点说明其在GDC 2026公布的两项认证计划，延续Steam Deck认证机制，主要核查界面元素是否清晰可读、游戏是否支持Steam Input，并通过更新Partner Dashboard，帮助开发者更顺利地让作品适配并获得Valve多种硬件平台的认证。",
-              "source_url": "https://www.ign.com/articles/valve-reaffirms-steam-machine-summer-launch",
-              "source_name": "IGN",
-              "published_at": "2026-06-05T06:41:16+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "Winxvideo AI 二十周年限免，支持视频压缩、本地 AI 提升画质和防抖",
+              "brief": "Winxvideo AI 正在进行二十周年限免，用户无需注册，只需填写邮箱即可收到 Windows 或 macOS 版激活码。该软件集视频增强、图片修复、格式转换、压缩和录屏于一体，主打本地 AI 处理。文中提到，首次运行输入邮箱和注册码即可激活完整版本，并可用于超分、插帧、防抖、夜景降噪、图片放大、批量压缩大文件以及桌面和摄像头录制。",
+              "source_url": "https://www.appinn.com/winxvideo-ai-2606/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-05T17:21:05+08:00"
+            },
             {
               "title": "海盗湾往事：三天后复活，二十年后仍在线",
               "brief": "文章回顾海盗湾从2003年创立到2026年仍可访问的历程：2006年5月31日，65名瑞典警察突袭斯德哥尔摩一处数据中心，查封海盗湾及相关服务器，但网站仅过三天就在6月3日恢复访问。此事发生在美国电影协会等版权方长期施压瑞典打击盗版的背景下，并引发更大关注与抗议，随后四名早期相关成员被起诉、判刑并承担赔偿。",
@@ -360,39 +367,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "剑桥团队用AI开发面向多种冠状病毒的通用候选疫苗",
+              "brief": "剑桥大学团队利用人工智能分析全球监测项目收集的大量冠状病毒基因序列，设计出可覆盖整个病毒家族的候选疫苗，并已完成39人参与的一期人体试验。这项研究希望摆脱只针对当前流行毒株反复更新的模式，提前应对未来变种或动物源冠状病毒。初步结果显示其诱导的免疫反应为适中，团队下一步将开展约200人的后续研究，继续评估免疫原性和潜在保护能力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564780.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-05T18:03:01+08:00"
+            },
+            {
+              "title": "微软承诺改进 Windows 11 右键菜单：更快、更简洁、可自定义",
+              "brief": "微软确认将改进Windows 11右键菜单，重点是提升响应速度、默认界面更简洁，并支持按常用操作进行配置。右键菜单一直是Windows 11最受争议的设计之一，在开始菜单和任务栏已多次调整后，微软终于回应这项长期反馈。公司暂未说明配置方式以及经典菜单是否保留，仅表示会很快公布方案，按以往节奏新设计预计会先进入预览版甚至实验频道供测试。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564778.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-05T17:46:38+08:00"
+            },
+            {
+              "title": "MIT研发新型微型推进器，可为CubeSat提供“双模式”推进",
+              "brief": "麻省理工学院团队研制出一种适用于CubeSat的微型推进器，让化学推进和电喷推进共用同一种ASCENT燃料。小型卫星过去受体积和燃料空间限制，很难同时兼顾快速变轨与精细调整，这项设计因此被视为扩展任务能力的关键。实验显示其可连续运行167小时且性能无明显衰减，MIT还将与NASA合作，在今年稍晚发射共享燃料储箱的验证任务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1564776.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-05T17:45:28+08:00"
+            },
+            {
+              "title": "OpenAI称将遵守特朗普有关AI模型审查的行政命令",
+              "brief": "OpenAI表示将遵守特朗普政府有关人工智能模型审查的行政命令，并称会主动与各国政府合作处理安全问题。根据该命令，联邦政府可在模型正式发布前30天获得访问权限，并通过基准测试评估网络能力等先进程度，判断其是否属于受监管的前沿模型。OpenAI顾问乔治·奥斯本表示，公司支持建立强有力但具灵活性的监管机构，以便随技术发展调整标准。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564774.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-05T17:44:35+08:00"
+            },
+            {
               "title": "闻泰科技起诉安世荷兰，索赔80亿元并要求恢复芯片业务控制权",
               "brief": "闻泰科技公告称，已向东莞市中级人民法院起诉安世荷兰，索赔80亿元，并要求恢复对安世荷兰总部及相关芯片业务的控制权。公司主张，荷兰政府此前限制其控制权的措施及相关判决构成歧视性外国制裁，因此请求停止相关限制、撤回荷兰本地诉讼并撤销部长令；其同时表示，尽管涉事部长令已暂停施行，当前仍无法完整行使控制权。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564772.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-05T16:33:31+08:00"
-            },
-            {
-              "title": "曝某市发改委摸排辖区企业与追觅合作情况",
-              "brief": "文章标题显示，某市发改委正在对辖区内企业与追觅的合作情况进行摸排，关注合作规模、资金投入和经营状况等核心信息，相关工作指向对企业与追觅业务往来现状的集中梳理与统计。当前给出的正文可见信息非常有限，除这一摸排动作及统计维度外，公开页面未进一步披露具体城市名称、涉及企业数量与名单、摸排时间范围、执行方式、是否形成书面结论以及后续处理安排等更多细节。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564770.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-05T16:32:02+08:00"
-            },
-            {
-              "title": "美孚声明：天猫百亿补贴等渠道机油未获授权，质量无法保证",
-              "brief": "埃克森美孚发布声明称，天猫百亿补贴等渠道销售的美孚1号、速霸等机油并非来自官方授权供应，因此无法保证产品的正品来源与质量。公司强调未授权任何二级经销商，消费者若希望保障质量和售后服务权益，应优先通过官方授权渠道或指定经销商购买；如对商品来源或渠道资质存疑，也可通过官方客服进一步核实。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564768.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-05T16:31:44+08:00"
-            },
-            {
-              "title": "诺兰《奥德赛》多张海报曝光，7月17日上映",
-              "brief": "cnBeta刊出一则影片更新，称诺兰新片《奥德赛》已公开多张宣传海报，并确认影片将于7月17日上映。按照当前输入所示，这条内容的主体信息集中在新物料释出和院线档期确定两点，页面其余可见部分主要是评论区、最新资讯和相关文章列表，没有提供更多关于剧情设定、演员阵容、世界观设定或制作幕后内容等细节信息。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1564766.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-05T14:43:50+08:00"
-            },
-            {
-              "title": "Google将Gemini带到Android Go手机，低端设备也可用生成式AI助手",
-              "brief": "Google把Gemini带到Android Go版手机，让入门级设备也能使用生成式AI助手。此举是把Gemini能力轻量化后下放到低存储、低配置机型，并以Gemini Go取代既有的Google Assistant Go。符合条件的设备需至少配备2GB内存，用户可长按Home键或部分机型电源键唤起，还支持短信、通话、导航、搜索附近地点及上传文件补充上下文。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564764.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-05T14:39:13+08:00"
             }
           ]
         },
@@ -400,45 +407,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "日本政府向Rapidus追加1500亿日元出资，重点投向2纳米量产",
-              "brief": "日本政府决定向半导体公司Rapidus追加1500亿日元出资，资金将用于2纳米量产所需设备投资及1.4纳米工艺研发。Rapidus由8家日本大型企业于2022年合资成立，推进先进半导体国产化，长期依赖政府支持。此次新增股份默认无表决权，以便公司快速决策，若经营恶化则可转换并提高政府表决权比例。",
-              "source_url": "https://www.ithome.com/0/960/563.htm",
+              "title": "迪士尼真人版《海洋奇缘：启航》7月10日内地与北美同步上映",
+              "brief": "迪士尼宣布真人电影《海洋奇缘：启航》将于7月10日在中国内地院线与北美同步上映。该片改编自2016年的动画《海洋奇缘》，故事继续围绕波利尼西亚少女莫阿娜与半神毛伊展开。因毛伊偷走特菲堤之心引发灾难、南太平洋多座岛屿面临威胁，莫阿娜在奶奶讲述族人历史后，顶着父亲反对出海寻找毛伊，踏上归还特菲堤之心的航程。",
+              "source_url": "https://www.ithome.com/0/960/691.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T16:40:46+08:00"
+              "published_at": "2026-06-05T18:27:41+08:00"
             },
             {
-              "title": "消息称腾讯调整内部AI Token额度：按任务动态分配",
-              "brief": "消息称腾讯已调整内部AI Token额度管理方式，由固定配额改为按工作任务动态调配，更强调实际产出而非消耗数量。报道称，有员工借助AI产出的代码量达到他人3倍，在新机制下不仅未受影响，反而获上级主动追加额度。此前腾讯高管还表示，今年公司大部分代码都由AI生成，工程师更多负责架构设计与纠偏。",
-              "source_url": "https://www.ithome.com/0/960/556.htm",
+              "title": "追觅创始人俞浩内部发文：继续做实业，啃全球最难市场",
+              "brief": "追觅科技创始人俞浩在内部发文称，公司将继续心无旁骛做实业，专注制造业与技术创新，在全球市场推进业务，并把更多研发资源投入解决用户实际需求的领域。这番表态出现在外界持续关注追觅之际，市场消息称江苏部分地区正统计辖区企业与追觅的合作情况，同时俞浩个人微博当日显示因违反相关法律法规被禁言，而公司截至目前尚未就上述事项发布公开说明。",
+              "source_url": "https://www.ithome.com/0/960/674.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T16:29:53+08:00"
+              "published_at": "2026-06-05T18:17:50+08:00"
             },
             {
-              "title": "日产将向海外投放多款中国量产车型：N7出口拉美和东南亚",
-              "brief": "日产宣布启动“From China”出口战略，把在中国设计和开发的量产车型推向部分海外市场，以提升全球产品竞争力并更快响应不同地区需求。这也意味着中国市场不仅是销售重地，也成为日产全球竞争力的重要来源。按规划，N7将出口拉丁美洲和东南亚，锋坦Frontier Pro将进入拉美、东南亚和中东，NX8等车型也将投放全球特定市场。",
-              "source_url": "https://www.ithome.com/0/960/555.htm",
+              "title": "华尔街为SpaceX创纪录IPO造势，戴蒙称马斯克是“当代爱迪生”",
+              "brief": "在SpaceX上市前的投资者推介中，摩根大通CEO杰米·戴蒙公开称赞马斯克是“我们这个时代的爱迪生”，华尔街多家大行也在为这场IPO造势。背景是SpaceX计划下周启动IPO，目标以约1.75万亿美元估值融资750亿美元，用于支持其利用太阳能、殖民其他星球等长期愿景；高盛和美国银行还分别以火箭装饰和楼体灯光呼应这波热潮。",
+              "source_url": "https://www.ithome.com/0/960/669.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T16:28:33+08:00"
+              "published_at": "2026-06-05T18:16:47+08:00"
             },
             {
-              "title": "骨伽展示工作站级硬件：NU多显卡机箱与最高3200W电源",
-              "brief": "骨伽在台北电脑展展示面向工作站的NU系列机箱和WS系列电源，主打多显卡与高功率供电方案，面向专业计算等场景。其中NU 700支持SSI EEB主板、480mm显卡及双电源多卡配置，NU 500兼容单电源与双卡；WS电源提供1600W、2400W和3200W版本，达到80 PLUS白金牌效率，最高可给4组12V-2×6显卡供电。",
-              "source_url": "https://www.ithome.com/0/960/554.htm",
+              "title": "vivo公布X系列影像升级计划：蓝图调色盘、4K超清Live等将陆续推送",
+              "brief": "vivo公布X系列手机影像功能升级计划，蓝图调色盘相机、4K超清Live和新水印风格等功能将陆续推送。这次升级主要围绕拍摄与成片风格扩展展开，其中蓝图调色盘在部分机型上仅支持本地使用，不支持色彩配方和分享；4K超清Live支持多风格叠加，相关功能预计于2026年8月开始覆盖X300、X200及X Fold5等多款机型。",
+              "source_url": "https://www.ithome.com/0/960/649.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T16:27:59+08:00"
+              "published_at": "2026-06-05T18:11:44+08:00"
             },
             {
-              "title": "方洪波：美的国内空调不采用“铝代铜”，海外使用铝材受益明显",
-              "brief": "美的集团董事长方洪波表示，美的国内在售空调核心部件不搞“铝代铜”，但海外市场采用铝材料替代技术并已获得明显收益，且当地对这一路径并无争议。相关表态出现于国内行业持续讨论这一话题的背景下。除美的外，小米、海尔等企业也称国内产品仍以铜为主，格力则表示铝材尚未达到与铜同等技术保障。",
-              "source_url": "https://www.ithome.com/0/960/553.htm",
+              "title": "美军“福特”号航母火灾视频曝光：消防系统失灵，居住区严重受损",
+              "brief": "CNN曝光了美军“福特”号航母火灾后的现场视频，画面显示水兵居住区床铺被烧毁、天花板被烧穿，舰上消防系统当时未能正常启动。此次事故发生在该舰执行长达326天的超长部署期间，水兵只能手动灭火并用了约30小时才扑灭大火；火灾导致约600个睡铺无法使用，航母两天后才恢复舰载机出动能力，后续可能至少一年无法再出海。",
+              "source_url": "https://www.ithome.com/0/960/636.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T16:24:21+08:00"
+              "published_at": "2026-06-05T18:06:09+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "谷歌寻求在加州和佛州投放数千万只不育雄蚊",
+              "brief": "谷歌旗下 Debug 正申请在加州和佛州释放 3200 万只携带沃尔巴克氏体的雄蚊，以压低当地野生蚊群数量。该方案利用细胞质不相容性，使这些雄蚊与野生雌蚊交配后卵子无法受精，理论上可让蚊群逐代减少。由于雄蚊不叮咬人，释放对象并非吸血蚊，项目目前仍在等待美国环保署批准，公众意见征询截至 6 月 5 日。",
+              "source_url": "https://www.solidot.org/story?sid=84495",
+              "source_name": "Solidot",
+              "published_at": "2026-06-05T16:30:38+08:00"
+            },
             {
               "title": "日本计划在2049年前重建2至5个核电机组",
               "brief": "日本政府计划在2049年前重建2至5个已决定报废的核电机组，并在2059年前扩大到11至14个。背景是AI普及预计将带动电力需求增长，日本核能政策也从福岛事故后提出的降低依赖，转向最大限度利用。由于部分机组已运行超过50年，仅靠重启难以实现2040年度核电占比两成目标，目前报废中的24个机组里，美滨和川内被视为热门重建选项。",
@@ -466,13 +480,6 @@
               "source_url": "https://www.solidot.org/story?sid=84491",
               "source_name": "Solidot",
               "published_at": "2026-06-05T14:15:59+08:00"
-            },
-            {
-              "title": "NASA宣布火星MAVEN任务结束",
-              "brief": "NASA宣布火星大气与挥发演化任务MAVEN结束，原因是探测器在失联长达六个月后被审查委员会认定已无法恢复。MAVEN于2013年发射，是NASA目前仍在火星轨道运行的三艘探测器中服役时间最短的一艘，2025年12月底在一次例行飞越火星背面的过程中失联。最后回传数据显示它曾异常快速自旋、轨道偏离并耗尽机载电池。",
-              "source_url": "https://www.solidot.org/story?sid=84490",
-              "source_name": "Solidot",
-              "published_at": "2026-06-05T00:13:42+08:00"
             }
           ]
         },
@@ -480,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "壁仞科技：就建议实施H股全流通向证监会备案",
-              "brief": "壁仞科技称，已就建议实施H股全流通向中国证监会提交备案申请，拟按一比一基准，将若干股东合计持有的867,509,196股境内未上市股份转换为H股。此次申请聚焦现有未上市股份的转换安排，不涉及新增发行，覆盖股份数量、转换基准和涉及股东范围均已在披露信息中明确。",
-              "source_url": "https://36kr.com/newsflashes/3840033871137289?f=rss",
+              "title": "英诺科创三期基金首关15亿元，持续聚焦早期科技投资",
+              "brief": "英诺基金宣布，旗下英诺科创三期基金完成首轮关账，当前披露规模为15亿元。该基金仍以早期科技投资为核心方向，重点布局前沿科技和人工智能，延续其对科技创新赛道的持续关注。此次消息同时给出了基金名称、首关进度、规模体量和投资重点，显示三期基金已明确服务早期科技项目的资金安排。",
+              "source_url": "https://36kr.com/newsflashes/3840139766024451?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-05 16:44:27  +0800"
+              "published_at": "2026-06-05 18:51:04  +0800"
             },
             {
-              "title": "赛伍技术：MLCC冷剥离胶带已获头部客户订单",
-              "brief": "赛伍技术在互动平台表示，公司当前主要聚焦MLCC切割应用的高分子材料，现有产品包括MLCC冷剥离胶带以及MLCC热减粘、UV减粘胶带。进展上，冷剥离胶带已获得头部客户订单，UV减粘胶带处于小批量交付阶段。公司同时提醒，该业务暂未对业绩产生重大影响，投资者需注意相关风险。",
-              "source_url": "https://36kr.com/newsflashes/3840030764157189?f=rss",
+              "title": "聚飞光电：400G SR、800G SR8光引擎持续出货，玻璃基产品主要用于半导体显示",
+              "brief": "聚飞光电在投资者关系活动记录表中表示，公司光通信产品中的10G、25G、100G和200G SR光引擎项目仍在持续稳定量产，50G PON光器件已进入试产阶段。与此同时，400G SR和800G SR8光引擎项目已持续出货；公司多年布局的玻璃基Mini/Micro LED产品目前主要用于半导体显示，并将继续关注其他前瞻应用方向。",
+              "source_url": "https://36kr.com/newsflashes/3840146168629768?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-05 16:41:17  +0800"
+              "published_at": "2026-06-05 18:50:38  +0800"
             },
             {
-              "title": "智美科技完成近2亿元战略轮融资",
-              "brief": "智美科技宣布完成近2亿元战略轮融资，本轮由麦澜德、国石智达资本及老股东共同投资。公司表示，资金将主要用于深化“皮肤全球大模型”的研发，并推进3D皮肤智能设备的迭代升级。同时，企业还将加速与全球产业链伙伴的商业化落地合作，继续构建皮肤AI智能设备生态体系。",
-              "source_url": "https://36kr.com/newsflashes/3840029113469188?f=rss",
+              "title": "章源钨业上调6月上半月长单采购报价",
+              "brief": "章源钨业公布2026年6月上半月长单采购报价，55%黑钨精矿上调至50.50万元/标吨，55%白钨精矿上调至50.40万元/标吨，仲钨酸铵（国标零级）报76.00万元/吨。此次调整相较5月下半月长单采购报价均有所上调，三项主要品类同步提价，构成公司最新一轮长单采购价格变动。",
+              "source_url": "https://36kr.com/newsflashes/3840145500310023?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-05 16:39:36  +0800"
+              "published_at": "2026-06-05 18:46:58  +0800"
             },
             {
-              "title": "金钼股份：拟出资5.1亿元设立合资子公司建设钼基新材料基地",
-              "brief": "金钼股份公告称，董事会已审议通过新设合资子公司的议案，拟出资5.1亿元，与安徽金沙钼业有限公司、安徽省金福智慧能源有限公司共同设立安徽金钼华鑫科技有限公司。该公司暂定注册资本10亿元，金钼股份持股51%，将用于建设钼基新材料精深加工基地，合作方、出资安排和建设方向均已明确。",
-              "source_url": "https://36kr.com/newsflashes/3840024517921284?f=rss",
+              "title": "寒锐钴业：拟定增募资不超过23.53亿元",
+              "brief": "寒锐钴业公告称，公司拟向特定对象发行A股股票，募集资金总额不超过23.53亿元。扣除发行费用后，资金将主要投向“年产4万吨电积镍及4万吨（镍金属量）电池级硫酸镍项目”，并用于补充流动资金。此次定增方案明确了募资上限，也给出了资金用途和对应的产能建设方向。",
+              "source_url": "https://36kr.com/newsflashes/3840138333735432?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-05 16:34:56  +0800"
+              "published_at": "2026-06-05 18:30:43  +0800"
             },
             {
-              "title": "千帆星座在轨卫星增至200颗",
-              "brief": "垣信卫星于14时34分在海南国际商业航天发射场使用长征八号运载火箭，成功将18颗千帆卫星送入预定轨道，所有卫星状态正常。此次发射后，千帆星座在轨卫星数量增至200颗，AIS卫星系统也完成组网。官方将这次进展视为千帆星座建设过程中的一项重要里程碑。",
-              "source_url": "https://36kr.com/newsflashes/3840021163526406?f=rss",
+              "title": "比特币“金库”公司市值蒸发620亿美元",
+              "brief": "据统计，近期一批以持有比特币作为财务储备、并自称“比特币金库”的上市公司，合计已有约620亿美元市值蒸发。背景是比特币在创出历史高位后回落，相关公司的估值随之承压。数据显示，行业龙头Strategy一家公司就造成约500亿美元损失，且已有31家同类公司的市值低于其所持加密资产净值。",
+              "source_url": "https://36kr.com/newsflashes/3840122181077248?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-05 16:31:31  +0800"
+              "published_at": "2026-06-05 18:25:12  +0800"
             }
           ]
         },
