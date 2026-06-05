@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T00:58:13.540691+08:00",
+  "generated_at": "2026-06-06T02:57:10.284619+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Chrome 在 M5 MacBook Pro 上创下浏览器速度纪录",
+              "brief": "谷歌表示，Chrome 在搭载 macOS 26.0.1 的 M5 MacBook Pro 上，于 Speedometer 3.1 和 JetStream 3 基准测试中刷新浏览器纪录。此次成绩来自其对 JavaScript 处理、WebAssembly 负载及 Blink 渲染引擎的持续优化，包括跳过不必要执行步骤、内联异步操作与常见“快速路径”，最终分别拿到 61 分和 469 分，并称表现超过包括 Safari 在内的所有 Mac 浏览器。",
+              "source_url": "https://www.macrumors.com/2026/06/05/chrome-browser-speed-record-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-06T01:38:58+08:00"
+            },
+            {
+              "title": "MacRumors Show：WWDC 2026 有哪些看点",
+              "brief": "MacRumors Show 本周围绕 WWDC 2026 传闻展开，重点指向苹果将以全新 Siri 和 AI 体验作为发布核心。节目援引 Gurman 称，Siri 正被重建为可与 ChatGPT、Claude 和 Gemini 竞争的聊天机器人，配套独立应用、Dynamic Island 集成及“Search or Ask”系统级入口，并可处理多段提问、总结文档、生成图像和调用多款第一方应用中的个人数据。",
+              "source_url": "https://www.macrumors.com/2026/06/05/the-macrumors-show-what-to-expect-at-wwdc26/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-06T00:58:05+08:00"
+            },
             {
               "title": "CalDigit TS5 和 Element 5 Hub 评测：面向苹果新款 Mac 的两款雷电 5 扩展坞",
               "brief": "文章评测了面向苹果新款 Mac 的两款 Thunderbolt 5 扩展坞：CalDigit TS5 与 Element 5 Hub，并认为 TS5 更适合多数用户。背景是苹果近期高端 Mac 已支持 Thunderbolt 5，同时也兼容 Thunderbolt 3/4。TS5 体积更小、无风扇，提供 15 个接口，包括 3 个下行雷电 5、2.5GbE、SD 与 microSD，但比 TS5 Plus 少双 USB 控制器、10GbE、DisplayPort 及更多 USB 端口。",
@@ -35,6 +49,27 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Lil Finder Guy 宠物成了我用 Codex 自建 Mac 应用的起点",
+              "brief": "作者回顾自己如何从用 Codex 做一个虚拟 Lil Finder Guy 宠物，发展到定制两款可用的 Mac 应用。背景是 OpenAI 的应用开发工具较去年夏天成熟许多，他此前曾在 macOS Tahoe 移除 Launchpad 后尝试用 ChatGPT 配合 Xcode 做替代品但进展不佳。如今借助 Codex 几乎不用 Xcode 就能快速做出满足个人需求的最小可用软件，并持续补充功能与界面细节。",
+              "source_url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T02:37:31+08:00"
+            },
+            {
+              "title": "iPadOS 27：下周将公布的四项 iPad 新功能",
+              "brief": "报道汇总了据称将于下周随 iPadOS 27 公布的四项新功能，显示苹果正把更多系统级智能体验带到 iPad。背景是部分相关改进去年已先在 macOS Tahoe 出现，如今预计扩展到平板。文中提到的细节包括 Safari 的 AI“整理标签页”、整合 Siri 的 Spotlight 搜索，以及快捷指令支持用自然语言创建自动化。",
+              "source_url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T01:44:22+08:00"
+            },
+            {
+              "title": "Touch ID 今秋将登陆 iPhone Ultra，原因如下",
+              "brief": "多方爆料称，今秋的 iPhone Ultra 将改用集成在电源键中的 Touch ID，而非 Face ID。原因并非产品定位回退，而是机身厚度与内部空间受限：该机展开后据称仅约 4.5 至 4.8 毫米，还拥有内外两块屏幕。若继续采用 Face ID，就需要为两块屏幕各配一套组件，占用本可留给电池、均热板等部件的空间。",
+              "source_url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T00:56:38+08:00"
+            },
+            {
               "title": "智能家居手记：在新家重新开始",
               "brief": "作者搬入新公寓后，准备从零重建智能家居，并希望在两周内完成主要整修和设备安装。由于旧公寓里的智能家居设备作为房屋卖点一并留给买家，他这次提前复盘过往经验，避免重犯错误。新方案包括改用亚麻遮光窗帘并测试 SwitchBot 自动开合，优先安装可即时出开水的龙头系统，并在更小的客厅里继续使用除一只外的初代 HomePod，配合书桌采用三角形摆位。",
               "source_url": "https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/",
@@ -47,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/06/05/apple-tv-has-its-best-summer-lineup-ever-heres-whats-coming/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-05T23:39:31+08:00"
-            },
-            {
-              "title": "优惠汇总：AirPods Pro 3、AirPods Max 2、Apple Watch 219 美元起",
-              "brief": "9to5Mac 汇总了多款苹果产品与配件的最新优惠，重点覆盖 AirPods、Apple Watch、MacBook Air 和表带。当前 AirPods Pro 3 降至 199 美元，AirPods 4 为 99 美元，AirPods Max 2 为 499 美元；42 毫米 Apple Watch Series 11 降至 299 美元，Apple Watch SE 3 降至 219 美元。文中还提到黑色 Ultra Trail Loop 罕见打折、Spigen 表带售 20 美元，以及部分 M5 MacBook Air 最多优惠 270 美元。",
-              "source_url": "https://9to5mac.com/2026/06/05/deals-airpods-pro-3-airpods-max-2-trail-loop/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-05T23:29:28+08:00"
-            },
-            {
-              "title": "iOS 27 测试版发布时间：何时可以安装这次 iPhone 更新",
-              "brief": "文章介绍了 iOS 27 测试版的预期发布时间，面向想提前体验新功能的 iPhone 用户。按照苹果历年 WWDC 的发布节奏，公司通常会在主题演讲当天放出新系统的开发者测试版，因此 iOS 27 开发者测试版预计将于 6 月 8 日周一上线。任何用户如今都可免费获取开发者测试版，而更稳定的公开测试版预计 7 月推出；若完全不想尝鲜，正式版仍预计在 9 月面向所有用户发布。",
-              "source_url": "https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-05T23:00:37+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "周五 Android 应用优惠与限免：洛克人X、逆转裁判三部曲、幽灵诡计等",
+              "brief": "这篇汇总更新了周五的 Android 应用降价与限免信息，方便用户集中查看当日优惠，同时提醒可关注已上线的 Prime Day 早期促销和 Pixel 10 持续优惠。重点包括 GHOST TRICK 售价 10 美元、Ace Attorney Trilogy 15 美元、MEGA MAN X 2 美元、MEGA MAN X DiVE Offline 3 美元，以及多款游戏和图标包低价或免费。",
+              "source_url": "https://9to5toys.com/2026/06/05/friday-android-app-deals-mega-man-x/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-06T01:43:42+08:00"
+            },
             {
               "title": "我最喜欢的 Google Pixelsnap Ring Stand 替代品，几乎处处更好",
               "brief": "作者认为，OhSnap Grip Stand 是比 Google Pixelsnap Ring Stand 更好的替代品。两者都依靠手机或手机壳内的 Qi2 磁吸实现支撑，但 Google 的配件虽能完成基本任务，却被指出存在螺丝松动、容易留下刮痕等不足。新款 OhSnap 在可弹出握持结构外加入更稳固的金属支架，可横竖放置手机，作者在 Galaxy Z Fold 7 和 Pixel 10 上测试后称其磁力更强，背面还略带黏性以减少滑动。",
@@ -94,19 +122,33 @@
               "source_url": "https://9to5google.com/2026/06/05/deals-pixel-10-galaxy-tab-s11-early-prime-day-discounts/",
               "source_name": "9to5Google",
               "published_at": "2026-06-05T23:31:42+08:00"
-            },
-            {
-              "title": "我原本不需要 Fitbit Air，但它成了 Pixel Watch 的好搭档",
-              "brief": "作者称自己原本并不需要一台无屏的 Fitbit Air，但它后来成了 Pixel Watch 的实用补充。两者都能记录心率、锻炼和睡眠，Google Health 也会自动整理数据，因此无需在应用中来回切换。作者主要把 Fitbit Air 用在夜间睡眠和居家时段，以便给 Pixel Watch 充电，同时获得更轻、更舒适、通知更少的佩戴体验，不过白天查看通知和信息时，他依旧更依赖智能手表。",
-              "source_url": "https://9to5google.com/2026/06/05/fitbit-air-pixel-watch-companion/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-05T23:05:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "标普500阻止SpaceX快速纳入，不为未盈利AI公司破例",
+              "brief": "标普道琼斯指数公司6月4日决定，不为尚未盈利的SpaceX破例加速纳入标普500等核心指数，这意味着它在历史性上市后，无法迅速获得被动基金自动买入带来的数十亿美元新增资金。该决定也堵住了OpenAI、Anthropic等AI公司未来IPO后比照快速入指的路径；背景是外界担心这类企业在高风险AI投入、轨道数据中心计划以及昂贵数据中心建设上的押注，会让退休储蓄承受更大市场波动。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T02:45:20+08:00"
+            },
+            {
+              "title": "抗议压力下，巨型数据中心计划缩水50%",
+              "brief": "在犹他州博克斯埃尔德县的强烈抗议下，开发商在动工前将Stratos超大数据中心计划缩减一半。该项目原拟横跨多个场址，总规模接近曼哈顿的三倍，引发居民对抽调用水、尤其威胁大盐湖的担忧；为阻止从牧场转移1900英亩英尺水量，许多人付费提交意见，反对理由还包括电价、空气质量、野生动物与土地风险，项目支持者凯文·奥利里也承认前期沟通失误。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T02:23:00+08:00"
+            },
+            {
+              "title": "评测：《黑色蜘蛛侠》重现旧时代魅力",
+              "brief": "Prime Video新剧《黑色蜘蛛侠》被评为成功重现旧时代魅力，以快速叙事、鲜明角色、出色摄影与美术设计，以及机敏对白，组成一封写给1930年代黑色电影的情书。该剧改编自漫威2009年“黑色”支线，背景是这一角色曾在动画《蜘蛛侠：平行宇宙》系列中短暂登场；如今尼古拉斯·凯奇主演真人版，并将主角设定为更契合黑色气质的私家侦探本·赖利，而非彼得·帕克。",
+              "source_url": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T01:05:02+08:00"
+            },
             {
               "title": "特朗普政府再次试图重振衰落的煤炭业",
               "brief": "特朗普政府再次提出扶持美国煤炭业，计划用资金让燃煤电厂继续运行，并推动十多年来首批新煤电项目上马。特朗普在记者会上称煤炭“清洁、美丽”，此举将降低能源价格和生活成本；但文中指出，随着风电和太阳能变便宜，煤电已成美国第二昂贵的发电方式，过去十多年没有新煤电建成，其发电占比也从过半降至约15%，且排放温室气体、颗粒物并留下含有毒金属的煤灰。",
@@ -120,27 +162,6 @@
               "source_url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-05T23:40:48+08:00"
-            },
-            {
-              "title": "不是下一代 R8？奥迪发布中置插混 V8 概念车 Nuvolari",
-              "brief": "奥迪在摩纳哥大奖赛前夕于法国南部发布 Nuvolari 概念车，这款中置发动机插混 V8 车型大概率预示着 R8 继任者的方向。新车造型明显偏离奥迪当前设计语言，但与此前的 Concept C 保持一致；平台则延续历代 R8 借用兰博基尼技术的做法，不再基于已停产的 Huracán，而是转向采用 Temerario 所在的中置平台。",
-              "source_url": "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-05T22:44:04+08:00"
-            },
-            {
-              "title": "火箭报告：蓝色起源爆炸余波未平，Impulse 完成融资",
-              "brief": "本周《Rocket Report》重点转向重型火箭，蓝色起源新格伦上周在佛州发射台爆炸后的影响仍在持续发酵。公司称希望在今年底前恢复受损设施的发射，但报道对这一时间表持保留态度；在新格伦停飞背景下，NASA 似乎正推动杰夫·贝索斯考虑借助 SpaceX 发射“蓝月”登月器。与此同时，加拿大推进本土航天港与自主发射计划，NASA 也预计今夏开始为明年 Artemis III 任务堆叠 SLS。",
-              "source_url": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-05T22:20:54+08:00"
-            },
-            {
-              "title": "安全官员终于更清楚大型火箭爆炸会造成什么后果",
-              "brief": "蓝色起源新格伦上周在卡纳维拉尔角发射台爆炸，虽让公司和 NASA 遭遇挫折，却让安全官员首次较清楚地看到大型甲烷火箭爆炸的实际破坏力。爆炸产生的超压甚至震碎约一英里外机库的窗户，这为佛州太空港扩容提供了关键现实数据。随着 SpaceX、ULA、Stoke Space 和 Relativity 等公司在附近建设或规划新发射场，军方预计到 2036 年这里的年发射次数可增至 500 次。",
-              "source_url": "https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-05T21:55:05+08:00"
             }
           ]
         },
@@ -148,25 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "T-Mobile 最便宜的 5G 家庭宽带套餐变差了",
-              "brief": "T-Mobile 调整了面向新用户的 Rely 5G 家庭互联网套餐，新增人为下行速率上限，最高仅标注为 354Mbps。该套餐此前宣传的典型下载速度区间为 170 至 498Mbps，其他更高价套餐仍维持无速率上限。与此同时，全部 5G 家庭互联网套餐新用户月费上调 5 美元，但自动扣费优惠也同步增加 5 美元，现有用户暂不受影响。",
-              "source_url": "https://www.androidauthority.com/t-mobile-5g-home-internet-speed-cap-3675049/",
+              "title": "GameHub 迎来迄今最大更新：体积减半，Steam 与 EA 支持大幅升级",
+              "brief": "GameSir 已推出 GameHub 6.0.6，称其为这款安卓 PC 游戏工具史上最大更新之一，安装包体积缩小约一半。此次更新几乎覆盖整体验验，重点是进一步打通与 Steam 等平台的联动能力。新版本加入 Steam 好友与成就通知、邀请进大厅、覆盖层、创意工坊和 DLC 管理，还带来横屏详情页重设计、自定义安装位置、外部 Steam 游戏导入、手柄映射键盘和鼠标、EA 游戏支持，并修复 Mali 设备帧插值等问题。",
+              "source_url": "https://www.androidauthority.com/gamehub-606-update-availabe-3675131/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T23:47:51+08:00"
+              "published_at": "2026-06-06T02:08:40+08:00"
             },
             {
-              "title": "100W 绿联 GaN 充电器在 Prime Day 前降至历史低价",
-              "brief": "在亚马逊 Prime Day 前夕，绿联 Nexode 100W 氮化镓四口充电器降至 33.23 美元，较 54.99 美元标价低 40%，追平历史最低价。文章指出，若近期准备添置手机、平板或掌机，这类多口充电器能简化原本杂乱的充电配置。该产品提供 3 个 USB-C 和 1 个 USB-A 接口，单个 USB-C 最高输出 100W，机身紧凑并配有可折叠插脚。",
-              "source_url": "https://www.androidauthority.com/100w-ugreen-gan-charger-deal-3675076/",
+              "title": "Google 相册正简化将图片复制到其他应用的流程",
+              "brief": "谷歌正在为安卓版 Google 相册测试更直接的图片复制流程，目标是减少把图片粘贴到其他应用前的操作步骤。现有方式需要先点分享，再在分享面板里选择复制。Android Authority 在 7.79 版中发现，查看照片时界面下方将新增“复制照片”按钮，长按图片也可能触发复制；原先的“添加到”入口不会消失，但会移到右上角更多菜单中。",
+              "source_url": "https://www.androidauthority.com/google-photos-copy-3675093/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T23:29:49+08:00"
+              "published_at": "2026-06-06T01:55:32+08:00"
             },
             {
-              "title": "Galaxy Z Flip 8 的充电升级别抱太大希望",
-              "brief": "Galaxy Z Flip 8 已出现在 SGS 认证数据库中，条目显示这款翻盖折叠机支持 9V/2.77A 有线充电，基本对应 25W 功率。随着夏季发布临近，外界正持续通过传闻和监管文件拼凑新机信息，而这次曝光意味着充电规格大概率不会提升。该记录还列出了多个地区型号，包括美版运营商机型 SM-F776U 与无锁机型 SM-F776U1；此前泄露还提到其或配备 4300mAh 电池与 5000 万像素主摄。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-flip-8-charging-spec-3675057/",
+              "title": "Valve 低调公布 Steam Machine 发售时间窗",
+              "brief": "Valve 已确认，预装游戏 PC“Steam Machine”和 VR 头显“Steam Frame”都将在今年夏季发售，这是这两款新品自去年底亮相后首次获得较明确的上市时间。消息出现在其 Verified 认证计划更新中。随着硬件产品线扩大，Valve 将把原本面向 Steam Deck 的兼容认证扩展到这两款设备；不过具体售价仍未公布，而所谓“夏季”时间窗覆盖 6 月 21 日至 9 月 22 日。",
+              "source_url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-05T23:26:21+08:00"
+              "published_at": "2026-06-06T01:28:19+08:00"
+            },
+            {
+              "title": "三星 Galaxy Watch 9 和 Watch Ultra 2 通过关键认证，但充电速度未变",
+              "brief": "三星下一批设备正接近发布，Galaxy Watch 9 与 Galaxy Watch Ultra 2 已出现在中国 3C 认证数据库中，显示新品正在完成上市前手续。外界预计下一场 Galaxy Unpacked 将于 7 月 22 日举行。文件确认两款手表型号分别为 SM-L3550 和 SM-L7150，但充电规格仍是 10W，与前代一致；同时，中端机 Galaxy A27 也以 SM-A276B/DS 现身新加坡 IMDA。",
+              "source_url": "https://www.androidauthority.com/galaxy-watch-9-watch-ultra-2-regulatory-listings-3675126/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T01:13:24+08:00"
+            },
+            {
+              "title": "谷歌称 Chrome 已是“有史以来最快”",
+              "brief": "谷歌宣布 Chrome 已达到迄今最快状态，并通过一篇技术文章配合最新基准测试说明其性能改进。Chrome 团队使用 Speedometer 3.1 和 Jetstream 3 评估浏览器速度，这两项都是常见网页性能测试工具。在搭载 M5 芯片、运行 macOS 26.0.1 的 MacBook Pro 上，Chrome 较去年在前者提升 5%、后者提升 10%，其中 Speedometer 得分达到 61。",
+              "source_url": "https://www.androidauthority.com/google-chrome-faster-than-ever-benchmarks-3674956/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T01:00:40+08:00"
             }
           ]
         },
@@ -192,6 +227,20 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "《60分钟》的危局",
+              "brief": "CBS旗下《60分钟》因高层动荡再起风波，资深记者斯科特·佩利被解职，其余三名通讯记者随后以联名备忘录告知员工，他们不会离开，而是希望继续把节目维持下去。文章将这一连串人事与表态视为媒体整合时代新闻业的阴暗预兆，背景是佩利此前公开质疑CBS让唯命是从的人进入高层，而节目组也承认对近期裁员深感不安。",
+              "source_url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T14:44:20-04:00"
+            },
+            {
+              "title": "Sonos Era 100 音箱降至数月来最低价",
+              "brief": "Sonos Era 100目前在亚马逊、百思买和Sonos官网降至189美元，较原价便宜30美元，创下数月来最低水平，适合刚开始组建或继续扩展Sonos音箱系统的用户。文中指出，这款紧凑型智能音箱是Sonos最便宜的家用型号；若想再压低预算，官方翻新版仅售134美元，附带全新配件、包装，并提供同样的一年保修。",
+              "source_url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T13:00:47-04:00"
+            },
             {
               "title": "这就是你的笔记本电脑……用上AI之后",
               "brief": "《The Vergecast》新一期围绕“AI笔记本”展开，回顾英伟达黄仁勋本周提出的全新笔记本使用方式和为此设计的新设备，并谈到苹果智能眼镜。背景是开发者大会季进入高峰，科技巨头持续宣称AI将改变人们使用电脑与软件的方式。节目还梳理了微软Build和谷歌I/O上的Gemini Spark、Nvidia RTX Spark，以及微软Scout和Solara等项目，并提出一个核心疑问：这些无处不在的AI代理和新设备，用户是否真的需要。",
@@ -223,6 +272,34 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "美国多州拟起诉阻止派拉蒙收购华纳兄弟探索",
+              "brief": "路透社称，美国多个州正准备提起诉讼，阻止派拉蒙收购华纳兄弟探索，这笔交易在推进过程中再遇监管与司法阻力。此前路透社还称，加州总检察长罗伯·邦塔将很快决定是否单独起诉。消息传出后，派拉蒙股价午后跌7%，华纳兄弟探索跌2%；派拉蒙回应称，反对合并有违反垄断目标，反而会让Netflix等现有巨头获得不应有的优势。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1564814.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T02:45:26+08:00"
+            },
+            {
+              "title": "浏览器联盟指控微软借垄断强推Edge",
+              "brief": "浏览器选择联盟在致纳德拉的公开信中指控微软借助Windows和办公软件的影响力持续导流Edge，再次把浏览器竞争问题推向台前。联盟称，微软通过返利限制预装第三方浏览器、不允许彻底卸载Edge，并在下载其他浏览器时使用误导性弹窗；同时在Teams、Outlook和系统搜索中深度绑定Edge，却未提供真正的一键切换机制。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564812.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T02:44:53+08:00"
+            },
+            {
+              "title": "Google与FBI警告勒索团伙冒充IT人员入侵律所",
+              "brief": "Google旗下Mandiant与FBI警告，Silent Ransom Group今年1月至5月已袭击数十家机构，重点针对律所，并出现冒充IT人员上门接触终端的新手法。该团伙结合钓鱼、电话和现场社工，诱导员工开放电脑、插入U盘或安装远程访问工具，窃取合同、社保号及财税等敏感资料，随后不加密系统，而是以公开泄露数据相威胁索要赎金。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564810.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T02:44:26+08:00"
+            },
+            {
+              "title": "波音称737 MAX新总装线将于7月6日投产",
+              "brief": "波音CEO凯利·奥特伯格表示，新的737 MAX总装线将于7月6日投产，作为提升单月产量和实现明年目标的关键步骤。波音今年已把737 MAX月产量从42架提高到47架，但扩产仍受FAA限制；此前阿拉斯加航空事故后，监管部门持续审查其生产质量与安全体系。新生产线初期将优先制造MAX 10，待年内完成适航认证后交付。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564808.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T01:00:00+08:00"
+            },
             {
               "title": "折叠屏 iPhone 传闻首发或不提供黑色款",
               "brief": "多方消息称，苹果首款折叠屏iPhone临近量产，但首发配色仍未完全明朗，黑色版本可能不会提供。此前爆料普遍指其上市初期仅有两种较克制的颜色，已曝光样机多为白色，另一种可能是深色或靛蓝。由于三星显示已开始量产面板，且折叠机早期产能与良率承压，苹果预计会以更少SKU控制供应链和制造复杂度。",
@@ -309,6 +386,58 @@
               "source_url": "https://www.ithome.com/0/960/747.htm",
               "source_name": "IT之家",
               "published_at": "2026-06-05T23:07:48+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《奥德赛》电影票被炒至数百美元",
+              "brief": "《奥德赛》开票后，售票应用因抢票流量激增出现长队和崩溃，不少观众未能买到票，部分票还被黄牛转卖。原因是70MM IMAX场次极少，这是诺兰主打的观影格式。eBay上已有3张纽约林肯广场场次以700美元成交，全球仅39家影院放映该格式，且影片近3小时，每天通常只能排4到5场。",
+              "source_url": "https://www.ign.com/articles/the-odyssey-tickets-are-being-resold-for-hundreds-of-dollars",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T00:46:17+08:00"
+            },
+            {
+              "title": "漫威公布2026年全新复仇者阵容",
+              "brief": "漫威公布《复仇者联盟》2026年新刊的首批信息，新连载将于2026年11月推出，并直接承接《复仇者联盟：末日决战》的事件。新阵容包括金刚狼、蜘蛛侠、卢克·凯奇、夜魔侠和惊奇队长，第六名神秘成员稍后揭晓；编剧为奇普·兹达斯基，绘者为马尔科·切凯托，系列口号也改为“地球最强幸存者”。",
+              "source_url": "https://www.ign.com/articles/new-marvel-avengers-2026-team-lineup",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T00:22:29+08:00"
+            },
+            {
+              "title": "《吸血鬼猎人巴菲》演员安东尼·海德去世，享年72岁",
+              "brief": "曾在《吸血鬼猎人巴菲》中饰演吉尔斯的演员安东尼·海德去世，享年72岁。他是剧中主角的重要导师与父亲般人物，也曾出演《足球教练》《梅林传奇》和《小不列颠》。其女儿声明称，他因肺炎并发症安详离世，家人陪伴在侧；海德共参演《巴菲》121集，并于2023年再度配音回归该角色。",
+              "source_url": "https://www.ign.com/articles/buffy-the-vampire-slayer-star-anthony-head-has-died-aged-72",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T00:11:48+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "国际空间站漏气后宇航员被要求准备紧急撤离",
+              "brief": "因国际空间站俄罗斯舱段漏气加剧，NASA要求Crew-12四名宇航员进入已对接的Crew Dragon飞船并穿上宇航服，准备必要时紧急撤离。过去几天漏气量已从每天约1磅增至2磅，问题位于进步号气闸舱与“星辰”号服务舱之间的PrK模块，NASA与俄罗斯航天局近几个月一直在讨论成因和修复方案。",
+              "source_url": "https://www.solidot.org/story?sid=84501",
+              "source_name": "Solidot",
+              "published_at": "2026-06-06T00:20:20+08:00"
+            },
+            {
+              "title": "Brave 推出 60 美元精简版浏览器",
+              "brief": "Brave推出名为Brave Origin的精简版浏览器，在Linux平台免费，其它平台则采用59.99美元的一次性授权。此举回应了用户对主浏览器加入加密钱包、AI助手、新闻流和奖励计划等功能后日益臃肿的不满，精简版移除了Rewards、钱包、Leo AI、News、Talk、VPN和Tor，仅保留广告与跟踪器屏蔽功能Shields，最多可用于10台设备。",
+              "source_url": "https://www.solidot.org/story?sid=84500",
+              "source_name": "Solidot",
+              "published_at": "2026-06-05T23:26:58+08:00"
+            },
+            {
+              "title": "研究称超加工食品的加工过程或与健康风险相关",
+              "brief": "一项发表于《American Journal of Public Health》的研究认为，超加工食品带来的健康风险可能不仅与营养质量有关，也与加工过程本身相关。研究者分析美国20年的健康与营养数据发现，超加工食品热量占比每增加10%，体重、血糖、血压和胆固醇等指标都会恶化，即使考虑饱和脂肪、添加糖和钠含量后，这种关联仍然存在。",
+              "source_url": "https://www.solidot.org/story?sid=84499",
+              "source_name": "Solidot",
+              "published_at": "2026-06-05T23:12:36+08:00"
             }
           ]
         }
