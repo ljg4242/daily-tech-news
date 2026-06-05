@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T04:52:57.582859+08:00",
+  "generated_at": "2026-06-06T06:57:14.069803+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "WWDC 2026 前瞻：接入 Gemini 的 Siri、iOS 27、macOS 27 等",
+              "brief": "苹果2026年全球开发者大会即将举行，外界预期其将展示以AI为核心的一系列系统更新，包括iOS 27、iPadOS 27和macOS 27。报道称，发布重点会是新版Siri，苹果希望借此回应OpenAI、Anthropic和谷歌的竞争。相比2024年预告的改进方向，新版Siri将可调用邮件、信息、文件和照片等个人数据处理任务，也能理解屏幕内容并直接回答问题或执行操作。",
+              "source_url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-06T05:15:47+08:00"
+            },
+            {
+              "title": "苹果开始销售翻新款 Apple Watch Series 11、Ultra 3 和 SE 3",
+              "brief": "苹果开始在官方网店销售翻新款Apple Watch Series 11、Ultra 3和SE 3，这是这些机型自去年9月上市后首次进入官方翻新渠道。报道称，翻新价较新品低约15%，其中46毫米GPS版Series 11起价369美元，Ultra 3起价699美元，40毫米SE 3起价209美元。苹果表示设备会经过清洁和检测，享受与新品相同的一年有限保修，并可购买AppleCare+。",
+              "source_url": "https://www.macrumors.com/2026/06/05/apple-watch-series-11-refurbished/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-06T05:14:00+08:00"
+            },
             {
               "title": "Chrome 在 M5 MacBook Pro 上创下浏览器速度纪录",
               "brief": "谷歌表示，Chrome 在搭载 macOS 26.0.1 的 M5 MacBook Pro 上，于 Speedometer 3.1 和 JetStream 3 基准测试中刷新浏览器纪录。此次成绩来自其对 JavaScript 处理、WebAssembly 负载及 Blink 渲染引擎的持续优化，包括跳过不必要执行步骤、内联异步操作与常见“快速路径”，最终分别拿到 61 分和 469 分，并称表现超过包括 Safari 在内的所有 Mac 浏览器。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/review/caldigit-ts5-element-5/",
               "source_name": "MacRumors",
               "published_at": "2026-06-06T00:30:27+08:00"
-            },
-            {
-              "title": "可折叠 iPhone 可能没有黑色版，爆料称苹果尚未定案",
-              "brief": "一则新传闻称，苹果尚未最终决定可折叠 iPhone 是否提供黑色版本。背景是这款设备据称即将进入量产，最早可能于 9 月发布，而颜色方案通常需要在生产前较早敲定。爆料者此前称新机仅有两种配色，目前只确认白色；另有供应链消息提到类似深蓝的靛蓝款，彭博社记者也称苹果倾向银白与深空灰等传统颜色。",
-              "source_url": "https://www.macrumors.com/2026/06/05/foldable-iphone-may-not-come-in-black/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-05T23:24:51+08:00"
-            },
-            {
-              "title": "苹果会在下周 WWDC 发布新硬件吗？",
-              "brief": "苹果下周 WWDC 是否会发布新硬件仍受关注，但现有迹象显示可能性不大。背景是 WWDC 以 iOS、iPadOS、macOS 等软件更新为主，虽过往也曾发布 HomePod、Mac 等硬件。报道提到苹果 2026 年春季已密集更新多款产品；彭博社称新 Apple TV 4K 和 HomePod mini 其实早已准备就绪，但大概率会等待更个性化的 Siri 及相关功能再一并推出。",
-              "source_url": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-05T22:56:38+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "在 Mac 上使用 Gemini 的更佳方式",
+              "brief": "文章认为，在 Mac 上与其安装 Gemini 官方应用，不如用 Safari 的“添加到程序坞”把网页当作应用使用。作者长期在 Mac 上使用 Gemini，又习惯用 Safari，认为这种方式更利于多任务，因为可通过 Command+N 打开多个独立聊天窗口；相比之下，官方应用既有对话线程无法继续、需跳转网站的问题，也因图标受限，以及安装后台启动项 GeminiAppLauncher 和 GoogleUpdater 而再受批评。",
+              "source_url": "https://9to5mac.com/2026/06/05/the-better-way-to-use-gemini-on-the-mac/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T05:28:26+08:00"
+            },
             {
               "title": "报道称这些 iPhone 应用将迎来 iOS 27 新设计",
               "brief": "据彭博社记者马克·古尔曼报道，苹果计划在 iOS 27 中调整多款 iPhone 应用界面，作为下一代系统级界面更新的一部分。变化最大的将是相机和 Image Playground：相机将支持用户自定义显示功能及位置，并加入面向视觉智能的新 Siri 模式；Image Playground 会在 iOS、iPadOS 和 macOS 27 上全面重设计，同时“查找”、天气和 Safari 也会获得较小更新。",
@@ -75,19 +82,33 @@
               "source_url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-06T01:44:22+08:00"
-            },
-            {
-              "title": "Touch ID 今秋将登陆 iPhone Ultra，原因如下",
-              "brief": "多方爆料称，今秋的 iPhone Ultra 将改用集成在电源键中的 Touch ID，而非 Face ID。原因并非产品定位回退，而是机身厚度与内部空间受限：该机展开后据称仅约 4.5 至 4.8 毫米，还拥有内外两块屏幕。若继续采用 Face ID，就需要为两块屏幕各配一套组件，占用本可留给电池、均热板等部件的空间。",
-              "source_url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-06T00:56:38+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Steam Machine确认今夏发布，但价格仍未公布",
+              "brief": "Steam确认Steam Machine和Steam Frame将于“今年夏天”发售，并把两款设备纳入Verified认证体系，时间表比此前“2026年底前”更明确，也弱化了年内是否上市的不确定性。该标识用于说明游戏和程序兼容性，其中Steam Machine据称在同软件下性能是Steam Deck的6倍、认证门槛也更高；Steam Frame则可独立运行游戏，但两款产品起售价仍未公布。",
+              "source_url": "https://9to5google.com/2026/06/05/steam-machine-summer-launch-confirmed/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-06T05:43:50+08:00"
+            },
+            {
+              "title": "Nest Mini与Nest Audio缺货，Google Home Speaker将接棒",
+              "brief": "Nest Audio和Nest Mini已在Google商店显示缺货或不可用，百思买也已下架Nest Mini，Nest Audio则进入清仓，多个海外市场改为提供到货通知。这一变化并不意外，两款产品分别发布于2019年和2020年，且Google Home Speaker被视为后继机型；不过现有设备仍将支持Gemini for Home，部分Nest Hub和Nest Hub Max颜色版本也已出现缺货。",
+              "source_url": "https://9to5google.com/2026/06/05/nest-mini-audio-out-of-stock/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-06T05:28:53+08:00"
+            },
+            {
+              "title": "Pixelated 103汇总多项谷歌新动态",
+              "brief": "9to5Google发布第103期Pixelated播客，集中梳理近期多项Google相关新闻，内容覆盖6月Android功能更新、用于防范深度伪造电话诈骗的新工具，以及Google Home Speaker发布时间传闻。这期节目还谈到Fitbit Air配件蓝图、Pixel Watch 5泄露样机、新版Workspace图标，以及日本Google商店等话题，作为一次面向近况的综合汇总。",
+              "source_url": "https://9to5google.com/2026/06/05/pixelated-103-a-smorgasbord-of-google-news/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-06T05:00:00+08:00"
+            },
             {
               "title": "周五 Android 应用优惠与限免：洛克人X、逆转裁判三部曲、幽灵诡计等",
               "brief": "这篇汇总更新了周五的 Android 应用降价与限免信息，方便用户集中查看当日优惠，同时提醒可关注已上线的 Prime Day 早期促销和 Pixel 10 持续优惠。重点包括 GHOST TRICK 售价 10 美元、Ace Attorney Trilogy 15 美元、MEGA MAN X 2 美元、MEGA MAN X DiVE Offline 3 美元，以及多款游戏和图标包低价或免费。",
@@ -101,33 +122,33 @@
               "source_url": "https://9to5google.com/2026/06/05/my-favorite-alternative-to-googles-pixelsnap-ring-stand-is-better-in-every-way/",
               "source_name": "9to5Google",
               "published_at": "2026-06-06T00:15:00+08:00"
-            },
-            {
-              "title": "YouTube Premium 本月开始涨价，你会取消订阅吗？",
-              "brief": "YouTube Premium 在美国的涨价本月开始正式影响现有订阅者。新用户此前已按新价格计费，老用户则获得了到 2026 年 6 月账单日为止的缓冲期，因此很多人会从 6 月 7 日起看到更高费用。调整后个人版为 15.99 美元、家庭版 26.99 美元、Lite 版 8.99 美元、Music Premium 为 11.99 美元，这也是该服务自 2023 年以来的首次涨价，文章也就此发起是否取消订阅的投票。",
-              "source_url": "https://9to5google.com/2026/06/05/youtube-premium-price-hikes-cancel-poll/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-05T23:55:00+08:00"
-            },
-            {
-              "title": "若无 Windows Hello，Microsoft Edge 将无法访问密码管理器",
-              "brief": "微软在 2026 年 6 月 4 日推送的 Edge 145 更新中，改为要求用户通过 Windows Hello 访问浏览器内置密码管理器。这意味着用户不能再单独输入传统密码字符串，而要用 PIN、指纹或面部识别完成身份验证。报道认为，此举把密码管理器数据更多地置于通行密钥式保护之后，强化了本地访问安全；相比之下，Google 自家的密码管理器仍可用传统密码访问。",
-              "source_url": "https://9to5google.com/2026/06/05/microsoft-edge-password-manager-switches-to-windows-hello/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-05T23:40:42+08:00"
-            },
-            {
-              "title": "优惠汇总：Pixel 10 低至 500 多美元，Galaxy Tab S11 与 Prime Day 提前折扣上线",
-              "brief": "9to5Google 汇总了新一轮硬件促销，重点包括 Pixel 10 系列、Galaxy Tab S11 以及亚马逊 Prime Day 前的提前折扣。背景是纪念日促销结束后，6 月初的优惠仍在延续，其中解锁版 Pixel 10 新机最高可优惠 300 美元，部分百思买“开箱优品”价格更低，Pixel 10 128GB 降至约 509 至 515 美元，Pro 与 Fold 机型最高可比原价低约 600 美元。",
-              "source_url": "https://9to5google.com/2026/06/05/deals-pixel-10-galaxy-tab-s11-early-prime-day-discounts/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-05T23:31:42+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "高评分音箱可被空中入侵并感染所连设备",
+              "brief": "研究人员发现，创新科技的 Sound Blaster Katana V2X 音箱在通过 USB 连接电脑时，可被蓝牙范围内的设备在未配对、未认证情况下接入，并成为攻击所连主机的跳板。操作系统通常会严防远程设备下发命令，但该产品的专有 CTP 协议允许蓝牙或 USB 端发送控制指令并接收响应，其中还包含上传新固件命令，厂商并未将此视为漏洞。",
+              "source_url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T05:00:29+08:00"
+            },
+            {
+              "title": "小型模块化核反应堆首次测试达到临界",
+              "brief": "初创公司 Antares 宣布，其部署在爱达荷国家实验室的小型模块化反应堆测试装置已达到临界状态，成为美国新一代反应堆设计中首个跨过这一门槛的项目。此举呼应了美国政府加速核电开发的背景，但临界只表示链式反应已可自持，并不意味着已经开始发电；该设计采用 TRISO 燃料，把部分安全性和复杂度转移到燃料颗粒结构中。",
+              "source_url": "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T03:23:08+08:00"
+            },
+            {
+              "title": "国际空间站空气泄漏事件周五出现令人担忧转折",
+              "brief": "国际空间站长期存在的空气泄漏问题在周五出现新进展：当两名俄罗斯宇航员在俄舱段另一端处理泄漏时，7名乘员中的5人一度进入 SpaceX“自由号”Crew Dragon 避险。NASA 当天上午向美国轨道段成员下达“安全港”指令，连同乘坐联盟号抵站的宇航员也转入龙飞船，背景是俄方舱段持续泄漏至今仍未彻底解决。",
+              "source_url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T03:03:16+08:00"
+            },
             {
               "title": "标普500阻止SpaceX快速纳入，不为未盈利AI公司破例",
               "brief": "标普道琼斯指数公司6月4日决定，不为尚未盈利的SpaceX破例加速纳入标普500等核心指数，这意味着它在历史性上市后，无法迅速获得被动基金自动买入带来的数十亿美元新增资金。该决定也堵住了OpenAI、Anthropic等AI公司未来IPO后比照快速入指的路径；背景是外界担心这类企业在高风险AI投入、轨道数据中心计划以及昂贵数据中心建设上的押注，会让退休储蓄承受更大市场波动。",
@@ -141,33 +162,33 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-06T02:23:00+08:00"
-            },
-            {
-              "title": "评测：《黑色蜘蛛侠》重现旧时代魅力",
-              "brief": "Prime Video新剧《黑色蜘蛛侠》被评为成功重现旧时代魅力，以快速叙事、鲜明角色、出色摄影与美术设计，以及机敏对白，组成一封写给1930年代黑色电影的情书。该剧改编自漫威2009年“黑色”支线，背景是这一角色曾在动画《蜘蛛侠：平行宇宙》系列中短暂登场；如今尼古拉斯·凯奇主演真人版，并将主角设定为更契合黑色气质的私家侦探本·赖利，而非彼得·帕克。",
-              "source_url": "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-06T01:05:02+08:00"
-            },
-            {
-              "title": "特朗普政府再次试图重振衰落的煤炭业",
-              "brief": "特朗普政府再次提出扶持美国煤炭业，计划用资金让燃煤电厂继续运行，并推动十多年来首批新煤电项目上马。特朗普在记者会上称煤炭“清洁、美丽”，此举将降低能源价格和生活成本；但文中指出，随着风电和太阳能变便宜，煤电已成美国第二昂贵的发电方式，过去十多年没有新煤电建成，其发电占比也从过半降至约15%，且排放温室气体、颗粒物并留下含有毒金属的煤灰。",
-              "source_url": "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-05T23:55:14+08:00"
-            },
-            {
-              "title": "Fitbit Air 是款不错的可穿戴设备，却被话太多的 AI“教练”拖了后腿",
-              "brief": "谷歌推出的 100 美元 Fitbit Air 被评价为一款做得不错的极简可穿戴设备，但其配套的 AI Health Coach 反而显得多余。产品主打无屏设计，机身只有一组健康传感器、一个用于显示电量的侧边 LED，双击可查看电量，震动也仅用于闹钟而不支持手机通知。文章认为，它作为轻便、可靠的健身追踪器表现称职，问题主要出在过于聒噪的 AI 教练定位。",
-              "source_url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-05T23:40:48+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌相册正为拼贴工具加入更多改进",
+              "brief": "谷歌相册正在为 Create 页面里的拼贴工具加入模板分类，用户今后制作多图合成内容时，可能不用再在冗长的模板轮播里逐个查找。这个改动与此前曝光的拼贴边框编辑一样，都还处于未上线的开发阶段。代码显示模板可能按精选、网格、胶片、经典、爱意、庆祝、花卉、装饰和形状等主题分组，另外界面中还出现了名为 Soba 的 AI 视频功能迹象。",
+              "source_url": "https://www.androidauthority.com/google-photos-collage-categories-3675146/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T05:50:31+08:00"
+            },
+            {
+              "title": "这款适配器可为多数通用电动车加入 Android Auto，但有限制",
+              "brief": "一家名为 EVPlay 的公司推出 EV Play LT 适配器，为多数通用汽车电动车补上原厂缺失的 Android Auto 和 Apple CarPlay 支持。它面向 2024、2025 和 2026 年款的多款雪佛兰、GMC 与凯迪拉克电动车，售价 199 美元，无需订阅，号称两分钟即可安装。其原理是在车机的 Android Automotive 上配套应用，再通过 USB 设备投射有线或无线界面，但如果通用日后封堵应用或适配器，它可能失效。",
+              "source_url": "https://www.androidauthority.com/evplay-android-auto-gm-adapter-3675224/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T05:27:42+08:00"
+            },
+            {
+              "title": "Wyze 因起火和爆炸风险召回逾 32 万台安防摄像头",
+              "brief": "Wyze 正在召回超过 32 万台 Solar Cam Pan 安防摄像头，原因是错误安装说明可能让用户刺穿锂离子电池金属外壳，进而引发快速过热、起火或爆炸风险。此次召回适用于 2026 年 4 月 3 日及之前购买的设备，美国约 321360 台、加拿大约 2560 台受影响。美国消保机构已收到 13 起过热报告和 6 起爆炸或起火事件，Wyze 提供免费更换、全额退款或等额礼品卡。",
+              "source_url": "https://www.androidauthority.com/wyze-security-camera-recall-3675182/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T05:09:15+08:00"
+            },
             {
               "title": "新版 Gemma 4 借助训练技巧大幅降低端侧内存占用",
               "brief": "谷歌发布采用量化感知训练（QAT）的 Gemma 4 新检查点，可在手机和笔记本上以更小体积、更低内存运行。量化本用于降低轻量模型所需内存，常见的训练后量化可能削弱表现；QAT则把量化纳入训练过程，并结合自定义移动量化方案、部分 2 比特压缩以及词表和短时记忆压缩，提供 E2B、E4B、12B、26B A4B、31B 五种规格。",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/trump-phone-poll-results-3675149/",
               "source_name": "Android Authority",
               "published_at": "2026-06-06T04:10:23+08:00"
-            },
-            {
-              "title": "Pixel Watch 4 疑似出现 LTE 连接故障",
-              "brief": "多位 Pixel Watch 4 用户称，手表在离开手机后无法保持 LTE 连接，发送和接收短信也会时好时坏，甚至提示“与手机断开连接”。这是近期 Pixel Watch 系列接连出现问题后的新一例，此前部分睡眠数据和心电图故障虽已修复，但这次问题的影响范围仍不清楚。受影响用户目前只能通过重启设备，或切换飞行模式后再切回，临时恢复连接。",
-              "source_url": "https://www.androidauthority.com/pixel-watch-4-lte-disruptions-3675158/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T03:48:17+08:00"
-            },
-            {
-              "title": "Google 否认将 AI Mode 设为 Chrome 默认搜索方式",
-              "brief": "Chrome Canary 近期出现一项标志，可把地址栏搜索从普通 Google 搜索改为交给 AI Mode 处理，引发外界猜测谷歌准备将其设为默认。背景是 Google Search 近年持续推动 AI Overviews 和 AI Mode 等功能。对此，搜索工程副总裁 Rajan Patel 在 X 上表示这次发布是失误，公司并无把 AI Mode 设为 Chrome 默认搜索方式的计划。",
-              "source_url": "https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T03:17:13+08:00"
-            },
-            {
-              "title": "GameHub 迎来迄今最大更新：体积减半，Steam 与 EA 支持大幅升级",
-              "brief": "GameSir 已推出 GameHub 6.0.6，称其为这款安卓 PC 游戏工具史上最大更新之一，安装包体积缩小约一半。此次更新几乎覆盖整体验验，重点是进一步打通与 Steam 等平台的联动能力。新版本加入 Steam 好友与成就通知、邀请进大厅、覆盖层、创意工坊和 DLC 管理，还带来横屏详情页重设计、自定义安装位置、外部 Steam 游戏导入、手柄映射键盘和鼠标、EA 游戏支持，并修复 Mali 设备帧插值等问题。",
-              "source_url": "https://www.androidauthority.com/gamehub-606-update-availabe-3675131/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T02:08:40+08:00"
             }
           ]
         },
@@ -209,38 +209,66 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "OpenAI推出Lockdown模式，加强对提示注入攻击的防护",
-              "brief": "OpenAI开始推出可选安全设置“锁定模式”，为用户提供更强的提示注入防护。提示注入是针对聊天机器人的社工攻击，攻击者会把恶意指令藏在网页等内容中诱导系统执行。启用后会限制联网取图、文件下载分析，并完全关闭Deep Research和Agent Mode，主要面向处理敏感数据、希望降低数据外泄风险的个人和组织。",
-              "source_url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
+              "title": "《VR战士》新作《Crossroads》将于2027年推出",
+              "brief": "世嘉在夏日游戏节正式公布《VR战士》新作《Crossroads》首支完整预告，并确认游戏将于2027年发售。作为RGG Studio自至少2024年起参与开发的新项目，此前外界只看过一支预告和一些脱离语境的玩法片段。新预告明显更偏重叙事，介绍了新角色Cielo，也暗示故事模式可能成为比赛之外的结构，近身一对一格斗仍是核心，官方还预告将于美东时间20点举行专场直播公开更多细节。",
+              "source_url": "https://www.engadget.com/2188739/virtua-fighter-crossroads-is-coming-in-2027/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T03:33:02+08:00"
+              "published_at": "2026-06-06T06:49:05+08:00"
             },
             {
-              "title": "Bungie因豪华版误购争议延长《Marathon》开放游玩周",
-              "brief": "Bungie延长了《Marathon》的开放游玩周，此前玩家在PlayStation商店中误以为只需14美元就能购买豪华版，实际得到的只是外观内容包。混淆源于免费试玩加入库后，商店会把玩家视为已拥有本体，仅显示与标准版的差价。此前开放周还曾因服务器问题进行紧急维护，这已是该活动的第二次波折。",
-              "source_url": "https://www.engadget.com/2188530/bungie-extends-marathon-open-play-week-amid-deluxe-edition-confusion/",
+              "title": "图帕克将加入《Stranger Than Heaven》",
+              "brief": "RGG Studio与世嘉确认，《Stranger Than Heaven》将加入图帕克形象，并在夏日游戏节新预告中公布2027年1月发售。这个消息之所以引人关注，是因为这位已故说唱歌手将以数字方式出现在主角跨越多代的日本旅程中。发布时史努比狗狗与制作人同台造势；官方称他饰演名为Amaru的角色，已获遗产管理方许可并持续监督，角色设计依据档案影像与照片完成，且未使用AI，已故演员菅原文太的形象也会登场。",
+              "source_url": "https://www.engadget.com/2188718/tupac-is-coming-to-stranger-than-heaven-and-we-re-as-confused-as-you-are/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T03:23:02+08:00"
+              "published_at": "2026-06-06T06:07:31+08:00"
             },
             {
-              "title": "谷歌关闭 AI 图像应用 Pixel Studio",
-              "brief": "谷歌在最新更新中正式关闭 Pixel Studio，这款面向 Pixel 设备的 AI 图像生成应用不再独立运行。它于 2024 年随 Pixel 9 推出，去年还获得过一次较大的内容更新，但谷歌早在今年 2 月就宣布将其逐步停用，并陆续移除核心能力。如今用户更新后会看到“Open Gemini”按钮并跳转至 Play 商店，同时被建议改用 Gemini 中的 Nano Banana 继续生成图片。",
-              "source_url": "https://www.engadget.com/2188377/google-shuts-down-the-ai-image-app-pixel-studio/",
+              "title": "《Mighty Cuphead Adventure》从手绘动画转向像素风",
+              "brief": "StudioMDHR在夏日游戏节公布新作《Mighty Cuphead Adventure》，这款2D平台游戏把《茶杯头》标志性的手绘动画改成更接近8位机的像素风。之所以值得注意，是因为系列原本以1930年代卡通式视觉著称，而新作目前展示内容仍不多，差异主要体现在美术方向。官方称它仍是节奏很快的平台射击游戏，且以汇编语言开发、面向原始Sega Master System设计，除登陆现代平台外，还会推出可在该主机上运行的实体卡带。",
+              "source_url": "https://www.engadget.com/2188715/mighty-cuphead-adventure-makes-the-jump-from-hand-drawn-animation-to-pixel-art/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T00:50:04+08:00"
+              "published_at": "2026-06-06T05:56:53+08:00"
             },
             {
-              "title": "国际空间站因漏气一度转入 SpaceX 龙飞船避险",
-              "brief": "国际空间站因俄罗斯货运飞船对接时在转移通道发现漏气，NASA 一度要求站上宇航员就地避险，并为必要时撤离做准备。7 名驻站人员中有 5 人进入停靠的 SpaceX Dragon 飞船，因为它被指定为临时安全避难所；两名俄罗斯宇航员随后尝试修复。NASA 此后表示，相关人员已恢复原定任务，但修复工作已暂停，等待进一步测量与数据评估。",
-              "source_url": "https://www.engadget.com/2188304/iss-astronauts-had-to-shelter-in-place-due-to-air-leak/",
+              "title": "《ICO》制作人新作《gen Atlas》公开",
+              "brief": "genDESIGN在夏日游戏节公布上田文人新作定名《gen Atlas》，预告展示玩家将操控巨型机器人头部穿越荒凉而高科技衰败的世界。之所以受到关注，是因为这是《ICO》《最后的守护者》导演时隔多年带来的新项目，延续他擅长的非常规搭档关系与环境叙事。官方介绍中提到无尽平原、废弃设施、不断变化的海洋以及寄生生物，本作由Epic Games发行，将登陆PS5、Xbox Series X/S和PC，但暂未公布发售时间。",
+              "source_url": "https://www.engadget.com/2188695/pilot-a-giant-robot-head-in-gen-atlas-the-new-game-from-the-creator-of-ico/",
               "source_name": "Engadget",
-              "published_at": "2026-06-05T23:41:34+08:00"
+              "published_at": "2026-06-06T05:44:13+08:00"
+            },
+            {
+              "title": "《异形：隔离2》首支预告把恐怖带到殖民星球",
+              "brief": "《异形：隔离2》在夏日游戏节公开首支正式预告，把生存恐怖场景从空间站扩展到殖民星球。之所以受关注，是因为距离前作问世已过去12年，系列粉丝此前只在上月看过一段先导预告。新片虽以电影化镜头为主，但已出现失序设施、喷火器、尖叫与异形等核心元素；官方确认游戏将登陆Steam、PS5、Xbox Series X/S和任天堂Switch 2，不过暂未给出发售窗口，预告素材仍处于前Alpha阶段。",
+              "source_url": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-06T05:37:24+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "《最终幻想VII》重制三部曲最终作定名《Revelation》",
+              "brief": "史克威尔艾尼克斯正式公布《最终幻想VII》重制三部曲第三部《Revelation》，确认这是该计划的最终作，并将首次在所有平台同步发售。这部作品将为持续多年的重制项目收官，前两作分别重构了米德加篇章并扩展到更开放的世界体验，且最初都曾为PlayStation独占，之后才逐步转向多平台发行。",
+              "source_url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T18:52:06-04:00"
+            },
+            {
+              "title": "《Control Resonant》既是续作，也是新起点",
+              "brief": "Remedy表示，《Control Resonant》在时间线上承接2019年的《Control》，但两作并非直接相连，更像同一超自然宇宙的两个侧面，因此玩家可按任意顺序体验。创意总监在去年首度公开时就强调了这一点，而媒体两小时多的试玩涵盖开场章节、后段剧情任务以及与Hiss交战的开放区域，也让它“既是续作又是入口”的定位变得更清晰。",
+              "source_url": "https://www.theverge.com/games/944151/control-resonant-hands-on",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T17:45:44-04:00"
+            },
+            {
+              "title": "美国国会仍未决定如何处理无令状监控",
+              "brief": "距离《外国情报监视法》第702条于6月12日到期只剩一周，美国国会仍未就续期与改革达成一致，参议院也以52票对47票否决了一项为期三年的续期方案。该条款曾在4月下旬仅被短暂延长45天，以便议员协商这项争议性监听权的改革；批评者称谈判中几乎没有改革派参与，而特朗普任命比尔·普尔特出任国家情报总监也打乱了共和党的续期计划。",
+              "source_url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T17:15:48-04:00"
+            },
             {
               "title": "2026夏日游戏节直播：重磅新闻、预告片与发布汇总",
               "brief": "“夏日游戏节直播2026”于美东时间6月5日17点开始，这篇直播汇总持续更新现场发布与预告。活动正值一连串大型游戏展示会之间，因此备受关注；节目在洛杉矶杜比剧院举行、时长约两小时并在YouTube直播，更新还提到压轴会是单人叙事游戏，任天堂商店页也曾短暂显示《我的世界：地下城II》或于9月29日发售。",
@@ -254,27 +282,6 @@
               "source_url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
               "source_name": "The Verge",
               "published_at": "2026-06-05T14:44:20-04:00"
-            },
-            {
-              "title": "Sonos Era 100 音箱降至数月来最低价",
-              "brief": "Sonos Era 100目前在亚马逊、百思买和Sonos官网降至189美元，较原价便宜30美元，创下数月来最低水平，适合刚开始组建或继续扩展Sonos音箱系统的用户。文中指出，这款紧凑型智能音箱是Sonos最便宜的家用型号；若想再压低预算，官方翻新版仅售134美元，附带全新配件、包装，并提供同样的一年保修。",
-              "source_url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T13:00:47-04:00"
-            },
-            {
-              "title": "这就是你的笔记本电脑……用上AI之后",
-              "brief": "《The Vergecast》新一期围绕“AI笔记本”展开，回顾英伟达黄仁勋本周提出的全新笔记本使用方式和为此设计的新设备，并谈到苹果智能眼镜。背景是开发者大会季进入高峰，科技巨头持续宣称AI将改变人们使用电脑与软件的方式。节目还梳理了微软Build和谷歌I/O上的Gemini Spark、Nvidia RTX Spark，以及微软Scout和Solara等项目，并提出一个核心疑问：这些无处不在的AI代理和新设备，用户是否真的需要。",
-              "source_url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T12:39:07-04:00"
-            },
-            {
-              "title": "当你的手机在机场被没收，会发生什么",
-              "brief": "《The Verge》报道，美国明尼阿波利斯-圣保罗国际机场一名返美旅客的手机被海关与边境保护局扣押，至今未归还，她已在联邦法院提起诉讼。事件引出国际旅客在美国机场即使是公民，也常难以拒绝边检查看手机的现实。诉状称，执法人员还两次搜查其行李，并没收她在欧洲购买的政治刊物；代理诉讼的美国伊斯兰关系委员会质疑，此类扣押及长期保留手机是否合宪。",
-              "source_url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T12:15:00-04:00"
             }
           ]
         }
@@ -286,6 +293,20 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "美国宣布加快人工智能在国家安全中的应用",
+              "brief": "特朗普表示，美国将在情报和作战等国家安全领域更快且“负责任地”采用人工智能，并要求国防部在90天内更新自主武器相关指令。此举意在推动多供应商部署、避免单点失效，并明确不得将相关技术用于压制言论或非法监视。备忘录发布之际，五角大楼与Anthropic此前曾因自主武器和国内监视用途发生分歧。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564820.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T06:46:17+08:00"
+            },
+            {
+              "title": "美股芯片板块重挫 单日市值蒸发逾1.3万亿美元",
+              "brief": "美股芯片股连续两日大跌，费城半导体指数合计下挫约12%，板块单日蒸发逾1.3万亿美元市值。导火索是博通财报显示其定制AI芯片需求不及市场先前极高预期，而强于预期的就业数据又加剧了高利率担忧。此前半导体板块年内涨幅可观、被指严重超买；英伟达跌约6%，镁光跌13%，迈威尔跌17%，AMD跌近11%，博通两日累计跌近20%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564818.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T06:45:49+08:00"
+            },
             {
               "title": "谷歌拟每月向SpaceX支付9.2亿美元采购算力",
               "brief": "谷歌拟与SpaceX达成长期算力采购协议，每月支付9.2亿美元。此举延续了AI公司大额锁定数据中心资源的趋势，也是在谷歌既有投资关系上进一步加深与SpaceX的业务绑定。协议与Anthropic此前订单规模和期限安排相近，算力来自孟菲斯附近的Colossus数据中心，双方可自2026年12月31日后提前90天解约，SpaceX则有望获得多年期可预期现金流。",
@@ -306,20 +327,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564812.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-06T02:44:53+08:00"
-            },
-            {
-              "title": "Google与FBI警告勒索团伙冒充IT人员入侵律所",
-              "brief": "Google旗下Mandiant与FBI警告，Silent Ransom Group今年1月至5月已袭击数十家机构，重点针对律所，并出现冒充IT人员上门接触终端的新手法。该团伙结合钓鱼、电话和现场社工，诱导员工开放电脑、插入U盘或安装远程访问工具，窃取合同、社保号及财税等敏感资料，随后不加密系统，而是以公开泄露数据相威胁索要赎金。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564810.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-06T02:44:26+08:00"
-            },
-            {
-              "title": "波音称737 MAX新总装线将于7月6日投产",
-              "brief": "波音CEO凯利·奥特伯格表示，新的737 MAX总装线将于7月6日投产，作为提升单月产量和实现明年目标的关键步骤。波音今年已把737 MAX月产量从42架提高到47架，但扩产仍受FAA限制；此前阿拉斯加航空事故后，监管部门持续审查其生产质量与安全体系。新生产线初期将优先制造MAX 10，待年内完成适航认证后交付。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564808.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-06T01:00:00+08:00"
             }
           ]
         },
@@ -367,39 +374,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "SpaceX IPO在即：大量员工或将成为百万富翁",
-              "brief": "随着SpaceX推进可能创纪录的IPO，大量现任与前员工持有的股权将更容易变现，不少人因此迎来财富跃升。报道称，受益者不只包括工程师，也涵盖技术工人与园区普通雇员；按计划发行价135美元、估值约1.77万亿美元计算，前员工拉沃伊持股价值超2800万美元，部分员工最早7月可少量出售股票。",
-              "source_url": "https://www.ithome.com/0/960/751.htm",
+              "title": "《幻兽帕鲁》1.0正式版CG预告公开，7月10日发售",
+              "brief": "《幻兽帕鲁》公开1.0正式版CG预告，并确认将于7月10日推出。开发方在今年3月GDC 2026期间表示，团队希望它成为生存创造游戏中的佼佼者。制作人Buckley称，这一类型既受益于Steam生态也面临问题，玩家各有理想玩法，因此1.0版目标是做成适合所有人、能让人沉浸其中尽情游玩的作品。该作已于2024年1月开启抢先体验。",
+              "source_url": "https://www.ithome.com/0/960/759.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T23:59:22+08:00"
+              "published_at": "2026-06-06T06:53:59+08:00"
             },
             {
-              "title": "国际空间站空气泄漏加剧，NASA曾令宇航员进入龙飞船避险",
-              "brief": "国际空间站俄罗斯“星辰”号服务舱过渡舱泄漏突然加剧后，NASA一度要求5名宇航员进入SpaceX龙飞船避险，随后在俄方暂停维修后解除指令。争议焦点在于俄方使用锯具接近疑似裂缝位置，NASA不同意这一方式；俄方称已封堵一处泄漏，另一处仍在处理，双方近月一直就原因和维修方案存在分歧。",
-              "source_url": "https://www.ithome.com/0/960/750.htm",
+              "title": "比特币盘中跌破6万美元，创2024年10月以来新低",
+              "brief": "比特币盘中跌破6万美元，创2024年10月以来新低，本周累计跌幅达到16%。报道认为，直接触发因素是Michael Saylor创办的Strategy出售少量比特币持仓，打击市场情绪并引发数亿美元级别强制平仓，进一步放大下行压力。同时，加密市场结构法案Clarity Act因立法优先级变化和议员分歧继续推后，新增利好缺位也削弱了市场信心。",
+              "source_url": "https://www.ithome.com/0/960/758.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T23:41:07+08:00"
+              "published_at": "2026-06-06T06:53:46+08:00"
             },
             {
-              "title": "谷歌内部涌现反AI吐槽，员工借梗图质疑高层宣传",
-              "brief": "谷歌CEO皮查伊持续高调推广AI，并称公司约75%的新代码由AI生成，但公司内部对这一方向并非一致叫好。报道称，员工在内部Memegen留言板上大量发布“反AI”梗图，讽刺AI制造低质内容，也抱怨它只是把压力转移到代码审查、测试和构建流程，与现有强调稳定的工程体系发生冲突。",
-              "source_url": "https://www.ithome.com/0/960/749.htm",
+              "title": "上海烛龙公布《古剑》战斗实机，7月18日举行线下试玩会",
+              "brief": "上海烛龙公布《古剑》单机新作战斗实机，并宣布将于7月18日举办线下试玩会。这是古剑奇谭系列的单机新作，定位为动作角色扮演游戏，玩家将以“地界司判”的身份前往人间失序之处，收束游魂、追寻因果。作品融合中国上古神话与志怪传说元素，基于虚幻引擎5开发，未来将以买断制登陆PC及主机平台。",
+              "source_url": "https://www.ithome.com/0/960/757.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T23:12:35+08:00"
+              "published_at": "2026-06-06T06:43:45+08:00"
             },
             {
-              "title": "Steam收紧礼品卡规则：仅限购买平台内容，实体卡将停售",
-              "brief": "Valve继续收紧Steam礼品卡使用规则，以打击利用充值码实施的电话诈骗和钓鱼活动。官方重申，钱包礼品卡和兑换码只能购买Steam上的游戏、软件、硬件及游戏内物品，不能用于缴税、还债等现实支付；同时宣布实体礼品卡售完后不再补货，预计零售库存将在2026年底前清空，数字礼品卡仍可使用。",
-              "source_url": "https://www.ithome.com/0/960/748.htm",
+              "title": "古尔曼称苹果iOS 27将改善iPhone 17等机型续航",
+              "brief": "古尔曼称，苹果计划通过iOS 27改善包括iPhone 17在内机型的续航表现。报道指出，这一版本将移除为旧版iOS编写的残留代码，重写部分功能，并调整一些核心模块，以提升整体运行效率。苹果希望借此减少不必要的后台进程、加快响应速度，并在相同电池硬件条件下延长使用时间，但目前尚无量化续航数据。",
+              "source_url": "https://www.ithome.com/0/960/756.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T23:11:34+08:00"
+              "published_at": "2026-06-06T06:42:22+08:00"
             },
             {
-              "title": "黄仁勋称英伟达正推进韩国AI技术中心建设",
-              "brief": "英伟达CEO黄仁勋在韩国与多家韩企负责人共进晚餐时表示，公司已着手推进在韩国新建AI技术中心，并正在招聘AI研究与机器人工程人才。此行背景是英伟达继续扩大其AI与机器人布局；他还介绍了Vera Rubin平台、Vera CPU、RTX Spark和Jetson Thor等被称为“四大业务”的新方向。",
-              "source_url": "https://www.ithome.com/0/960/747.htm",
+              "title": "如龙工作室新作《异于天堂》公开预告，定档2027年1月15日",
+              "brief": "如龙工作室公开原创动作冒险游戏《异于天堂》预告，并确认将于2027年1月15日发售。该作讲述美日混血主角大东真的一生，由城田优饰演，时间线横跨1915年至1965年的50年。作品延续《人中之龙》系列风格，同时融入20世纪初黑色电影气质，故事将覆盖福冈小仓、广岛吴市、大阪Minami、静冈热海和东京神室町五个时代与地点。",
+              "source_url": "https://www.ithome.com/0/960/755.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-05T23:07:48+08:00"
+              "published_at": "2026-06-06T06:34:05+08:00"
             }
           ]
         },
@@ -407,39 +414,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《星球大战：侍者》主创称若获批将“绝对”回归制作第二季",
-              "brief": "《星球大战：侍者》主创表示，只要迪士尼点头，她“绝对”愿意回归制作第二季。该剧于2024年首播，之后又传出被取消，如今逢开播两周年再度谈及续作；第一季曾以尤达和达斯·普雷格斯相关悬念收尾。她还提到，作品今年4月重回Disney+热播榜，自己也已想好希望继续展开的几条故事线索。",
-              "source_url": "https://www.ign.com/articles/star-wars-the-acolyte-creator-would-absolutely-come-back-for-season-2-if-disney-greenlights-it",
+              "title": "《Clutch》设定在法国蔚蓝海岸，包含摩纳哥",
+              "brief": "迈威克游戏在2026夏日游戏节正式公布开放世界赛车《Clutch》，舞台设在摩纳哥及周边法国蔚蓝海岸。游戏以地中海海岸线为蓝本，包含摩纳哥、戛纳和圣特罗佩三座沿海城市，并延伸至阿尔卑斯和韦尔东峡谷；剧情由杰米·布里顿执笔，围绕车手西奥、妹妹卡丝与养父卢多展开，交织职业赛事、地下街头赛车和高速追逐逃脱。",
+              "source_url": "https://www.ign.com/articles/maverick-games-open-world-racer-clutch-is-set-on-the-french-riviera-features-monaco",
               "source_name": "IGN",
-              "published_at": "2026-06-06T02:38:47+08:00"
+              "published_at": "2026-06-06T06:33:00+08:00"
             },
             {
-              "title": "《Horizon Steel Frontiers》预计将于2027年上半年推出",
-              "brief": "NCSoft在最新投资者关系演示中披露，《地平线》MMORPG衍生作《Horizon Steel Frontiers》预计于2027年上半年推出。这款作品于2025年11月公布，主打以移动端为先，也会通过Purple登陆PC，并把故事重心转向死地的机器猎人，呈现玩家合作与对抗并存、近似《怪物猎人》的多人玩法；另一款多人分支《Horizon Hunters Gathering》仍未定档。",
-              "source_url": "https://www.ign.com/articles/horizon-steel-frontiers-the-mmorpg-spinoff-in-playstations-horizon-franchise-is-expected-to-launch-first-half-of-2027",
+              "title": "《风火轮：无限冲刺》让系列转向开放世界",
+              "brief": "《风火轮：无限冲刺》公布首支预告，并确认将把这一赛车系列带入开放世界，计划于2026年9月24日发售。游戏由制作过两部《风火轮：释放》的Milestone开发，登陆PS5、Xbox Series X|S、Steam、Epic和Switch 2，售价49.99美元；演示中出现海滩、都市、丛林赛道，以及摩天楼顶的玩具金刚，定位面向儿童玩家。",
+              "source_url": "https://www.ign.com/articles/hot-wheels-infinite-rush-takes-the-racing-game-series-open-world",
               "source_name": "IGN",
-              "published_at": "2026-06-06T02:11:28+08:00"
+              "published_at": "2026-06-06T06:30:43+08:00"
             },
             {
-              "title": "2026夏日游戏节公布汇总：直播持续更新",
-              "brief": "IGN整理2026夏日游戏节的全部公开信息，并从洛杉矶杜比剧院进行实时更新。发布会时长两小时，于6月5日开场，已确认登场的有《星球大战：Zero Company》新实机、《Guild Wars》相关内容、《Clutch》、新一季《Fortnite》预告，以及派拉蒙游戏工作室首款3A游戏；Geoff Keighley还表示，压轴将是一款单人叙事作品。",
-              "source_url": "https://www.ign.com/articles/summer-game-fest-2026-everything-announced",
+              "title": "《四海兄弟：故乡》即将推出剧情DLC",
+              "brief": "《四海兄弟：故乡》即将推出剧情DLC，初代中著名反派唐·萨列里也会在这次扩展中回归。内容售价10美元，将于8月14日上线，在主线中段新增两章故事和更多Free Ride内容；剧情设定在1905年冬季，恩佐会在恩尼奥·萨列里出狱后协助他，并加入新武器、载具与环境。这款去年以50美元发售的较小体量作品走红后，促使Hanger 13继续追加支持。",
+              "source_url": "https://www.ign.com/articles/mafia-the-old-country-is-getting-a-story-dlc-very-soon",
               "source_name": "IGN",
-              "published_at": "2026-06-06T02:06:35+08:00"
+              "published_at": "2026-06-06T06:18:33+08:00"
             },
             {
-              "title": "《奥德赛》电影票被炒至数百美元",
-              "brief": "《奥德赛》开票后，售票应用因抢票流量激增出现长队和崩溃，不少观众未能买到票，部分票还被黄牛转卖。原因是70MM IMAX场次极少，这是诺兰主打的观影格式。eBay上已有3张纽约林肯广场场次以700美元成交，全球仅39家影院放映该格式，且影片近3小时，每天通常只能排4到5场。",
-              "source_url": "https://www.ign.com/articles/the-odyssey-tickets-are-being-resold-for-hundreds-of-dollars",
+              "title": "《1666：阿姆斯特丹》重新亮相，现可试玩30分钟Demo",
+              "brief": "由《刺客信条》联合创作者帕特里斯·德西莱茨主导的《1666：阿姆斯特丹》在沉寂15年后重新公开，并放出可游玩的30分钟免费序章。这个黑暗风格第三人称叙事动作冒险项目现已登陆Steam和Epic，完整版本将于2026年先在PC开启抢先体验，主机版随后推出；开发团队表示，过去六年一直专注于持续迭代真正可玩的内容，而非仅展示宣传片段。",
+              "source_url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
               "source_name": "IGN",
-              "published_at": "2026-06-06T00:46:17+08:00"
+              "published_at": "2026-06-06T06:16:51+08:00"
             },
             {
-              "title": "漫威公布2026年全新复仇者阵容",
-              "brief": "漫威公布《复仇者联盟》2026年新刊的首批信息，新连载将于2026年11月推出，并直接承接《复仇者联盟：末日决战》的事件。新阵容包括金刚狼、蜘蛛侠、卢克·凯奇、夜魔侠和惊奇队长，第六名神秘成员稍后揭晓；编剧为奇普·兹达斯基，绘者为马尔科·切凯托，系列口号也改为“地球最强幸存者”。",
-              "source_url": "https://www.ign.com/articles/new-marvel-avengers-2026-team-lineup",
+              "title": "《激战3》正式公开，测试将于2027年秋季启动",
+              "brief": "ArenaNet正式公开新作《激战3》，并计划在2027年秋季开启测试。这款大型多人在线角色扮演游戏被描述为偏动作化的RPG，强调移动穿越、借势战斗以及分支技能与自定义，支持键鼠和手柄操作；故事设定在初代一千年前的欧尔，玩家要在公会冲突中守护自然与灵魂，预告还暗示可四人组队，并首次登陆主机，且延续系列传统不设订阅费。",
+              "source_url": "https://www.ign.com/articles/guild-wars-3-officially-revealed-beta-starts-fall-2027-for-arenanets-next-mmorpg",
               "source_name": "IGN",
-              "published_at": "2026-06-06T00:22:29+08:00"
+              "published_at": "2026-06-06T06:03:34+08:00"
             }
           ]
         },
