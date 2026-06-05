@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T02:57:10.284619+08:00",
+  "generated_at": "2026-06-06T04:52:57.582859+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "报道称这些 iPhone 应用将迎来 iOS 27 新设计",
+              "brief": "据彭博社记者马克·古尔曼报道，苹果计划在 iOS 27 中调整多款 iPhone 应用界面，作为下一代系统级界面更新的一部分。变化最大的将是相机和 Image Playground：相机将支持用户自定义显示功能及位置，并加入面向视觉智能的新 Siri 模式；Image Playground 会在 iOS、iPadOS 和 macOS 27 上全面重设计，同时“查找”、天气和 Safari 也会获得较小更新。",
+              "source_url": "https://9to5mac.com/2026/06/05/new-ios-27-designs-reportedly-coming-to-these-iphone-apps/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T03:24:35+08:00"
+            },
+            {
+              "title": "HomeKit Weekly：SwitchBot 推出支持苹果家庭的电池立式风扇",
+              "brief": "SwitchBot 发布了新的 Standing Circulator Fan，这是一款内置电池并兼容 Matter 的便携风扇，因此可接入苹果家庭。其卖点在于可在矮款桌面风扇和高款落地风扇之间切换，方便在不同空间使用；不过要显示在 Apple Home 应用中，需先通过 SwitchBot Hub 配对。设备内置 2400mAh 电池，官方称在 Baby Mode 下单次充电最长可运行 28 小时。",
+              "source_url": "https://9to5mac.com/2026/06/05/switchbot-standing-circulator-fan/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T02:59:00+08:00"
+            },
+            {
               "title": "Lil Finder Guy 宠物成了我用 Codex 自建 Mac 应用的起点",
               "brief": "作者回顾自己如何从用 Codex 做一个虚拟 Lil Finder Guy 宠物，发展到定制两款可用的 Mac 应用。背景是 OpenAI 的应用开发工具较去年夏天成熟许多，他此前曾在 macOS Tahoe 移除 Launchpad 后尝试用 ChatGPT 配合 Xcode 做替代品但进展不佳。如今借助 Codex 几乎不用 Xcode 就能快速做出满足个人需求的最小可用软件，并持续补充功能与界面细节。",
               "source_url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/06/05/touch-id-coming-to-iphone-ultra-this-fall-heres-why/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-06T00:56:38+08:00"
-            },
-            {
-              "title": "智能家居手记：在新家重新开始",
-              "brief": "作者搬入新公寓后，准备从零重建智能家居，并希望在两周内完成主要整修和设备安装。由于旧公寓里的智能家居设备作为房屋卖点一并留给买家，他这次提前复盘过往经验，避免重犯错误。新方案包括改用亚麻遮光窗帘并测试 SwitchBot 自动开合，优先安装可即时出开水的龙头系统，并在更小的客厅里继续使用除一只外的初代 HomePod，配合书桌采用三角形摆位。",
-              "source_url": "https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-06T00:00:00+08:00"
-            },
-            {
-              "title": "Apple TV 夏季片单公布：即将上线这些内容",
-              "brief": "9to5Mac 汇总了 Apple TV 今夏将上线的主要内容，涵盖 6 月到 7 月的多部剧集与儿童节目。片单包括 6 月 5 日已上线的惊悚剧《恐惧角》、6 月 19 日的《Sugar》第二季，以及 6 月 26 日的《Camp Snoopy》第二季。进入 7 月后，《Silo》第三季将于 7 月 3 日开播，延续万人地下居住的反乌托邦故事，并进一步揭示数百年前的起源背景。",
-              "source_url": "https://9to5mac.com/2026/06/05/apple-tv-has-its-best-summer-lineup-ever-heres-whats-coming/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-05T23:39:31+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "新版 Gemma 4 借助训练技巧大幅降低端侧内存占用",
+              "brief": "谷歌发布采用量化感知训练（QAT）的 Gemma 4 新检查点，可在手机和笔记本上以更小体积、更低内存运行。量化本用于降低轻量模型所需内存，常见的训练后量化可能削弱表现；QAT则把量化纳入训练过程，并结合自定义移动量化方案、部分 2 比特压缩以及词表和短时记忆压缩，提供 E2B、E4B、12B、26B A4B、31B 五种规格。",
+              "source_url": "https://www.androidauthority.com/gemma-4-qat-models-3675172/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T04:31:59+08:00"
+            },
+            {
+              "title": "民调显示特朗普手机在 Android Authority 读者中净好感度为 -88",
+              "brief": "Android Authority 持续数周的读者调查显示，在逾 3000 名受访者中，仅约 6% 表示对特朗普手机 T1 感兴趣，约 94% 明确不想买，净好感度为 -88。这款售价 500 美元的设备经历一年延期、改版和参数调整后才送到媒体手中；上手版本被指像是换标的金色 HTC U24 Pro，运行 Android 15，并预装 Truth Social。",
+              "source_url": "https://www.androidauthority.com/trump-phone-poll-results-3675149/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T04:10:23+08:00"
+            },
+            {
+              "title": "Pixel Watch 4 疑似出现 LTE 连接故障",
+              "brief": "多位 Pixel Watch 4 用户称，手表在离开手机后无法保持 LTE 连接，发送和接收短信也会时好时坏，甚至提示“与手机断开连接”。这是近期 Pixel Watch 系列接连出现问题后的新一例，此前部分睡眠数据和心电图故障虽已修复，但这次问题的影响范围仍不清楚。受影响用户目前只能通过重启设备，或切换飞行模式后再切回，临时恢复连接。",
+              "source_url": "https://www.androidauthority.com/pixel-watch-4-lte-disruptions-3675158/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T03:48:17+08:00"
+            },
+            {
+              "title": "Google 否认将 AI Mode 设为 Chrome 默认搜索方式",
+              "brief": "Chrome Canary 近期出现一项标志，可把地址栏搜索从普通 Google 搜索改为交给 AI Mode 处理，引发外界猜测谷歌准备将其设为默认。背景是 Google Search 近年持续推动 AI Overviews 和 AI Mode 等功能。对此，搜索工程副总裁 Rajan Patel 在 X 上表示这次发布是失误，公司并无把 AI Mode 设为 Chrome 默认搜索方式的计划。",
+              "source_url": "https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-06T03:17:13+08:00"
+            },
+            {
               "title": "GameHub 迎来迄今最大更新：体积减半，Steam 与 EA 支持大幅升级",
               "brief": "GameSir 已推出 GameHub 6.0.6，称其为这款安卓 PC 游戏工具史上最大更新之一，安装包体积缩小约一半。此次更新几乎覆盖整体验验，重点是进一步打通与 Steam 等平台的联动能力。新版本加入 Steam 好友与成就通知、邀请进大厅、覆盖层、创意工坊和 DLC 管理，还带来横屏详情页重设计、自定义安装位置、外部 Steam 游戏导入、手柄映射键盘和鼠标、EA 游戏支持，并修复 Mali 设备帧插值等问题。",
               "source_url": "https://www.androidauthority.com/gamehub-606-update-availabe-3675131/",
               "source_name": "Android Authority",
               "published_at": "2026-06-06T02:08:40+08:00"
-            },
-            {
-              "title": "Google 相册正简化将图片复制到其他应用的流程",
-              "brief": "谷歌正在为安卓版 Google 相册测试更直接的图片复制流程，目标是减少把图片粘贴到其他应用前的操作步骤。现有方式需要先点分享，再在分享面板里选择复制。Android Authority 在 7.79 版中发现，查看照片时界面下方将新增“复制照片”按钮，长按图片也可能触发复制；原先的“添加到”入口不会消失，但会移到右上角更多菜单中。",
-              "source_url": "https://www.androidauthority.com/google-photos-copy-3675093/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T01:55:32+08:00"
-            },
-            {
-              "title": "Valve 低调公布 Steam Machine 发售时间窗",
-              "brief": "Valve 已确认，预装游戏 PC“Steam Machine”和 VR 头显“Steam Frame”都将在今年夏季发售，这是这两款新品自去年底亮相后首次获得较明确的上市时间。消息出现在其 Verified 认证计划更新中。随着硬件产品线扩大，Valve 将把原本面向 Steam Deck 的兼容认证扩展到这两款设备；不过具体售价仍未公布，而所谓“夏季”时间窗覆盖 6 月 21 日至 9 月 22 日。",
-              "source_url": "https://www.androidauthority.com/valve-steam-machine-release-window-3675116/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T01:28:19+08:00"
-            },
-            {
-              "title": "三星 Galaxy Watch 9 和 Watch Ultra 2 通过关键认证，但充电速度未变",
-              "brief": "三星下一批设备正接近发布，Galaxy Watch 9 与 Galaxy Watch Ultra 2 已出现在中国 3C 认证数据库中，显示新品正在完成上市前手续。外界预计下一场 Galaxy Unpacked 将于 7 月 22 日举行。文件确认两款手表型号分别为 SM-L3550 和 SM-L7150，但充电规格仍是 10W，与前代一致；同时，中端机 Galaxy A27 也以 SM-A276B/DS 现身新加坡 IMDA。",
-              "source_url": "https://www.androidauthority.com/galaxy-watch-9-watch-ultra-2-regulatory-listings-3675126/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T01:13:24+08:00"
-            },
-            {
-              "title": "谷歌称 Chrome 已是“有史以来最快”",
-              "brief": "谷歌宣布 Chrome 已达到迄今最快状态，并通过一篇技术文章配合最新基准测试说明其性能改进。Chrome 团队使用 Speedometer 3.1 和 Jetstream 3 评估浏览器速度，这两项都是常见网页性能测试工具。在搭载 M5 芯片、运行 macOS 26.0.1 的 MacBook Pro 上，Chrome 较去年在前者提升 5%、后者提升 10%，其中 Speedometer 得分达到 61。",
-              "source_url": "https://www.androidauthority.com/google-chrome-faster-than-ever-benchmarks-3674956/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-06T01:00:40+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "OpenAI推出Lockdown模式，加强对提示注入攻击的防护",
+              "brief": "OpenAI开始推出可选安全设置“锁定模式”，为用户提供更强的提示注入防护。提示注入是针对聊天机器人的社工攻击，攻击者会把恶意指令藏在网页等内容中诱导系统执行。启用后会限制联网取图、文件下载分析，并完全关闭Deep Research和Agent Mode，主要面向处理敏感数据、希望降低数据外泄风险的个人和组织。",
+              "source_url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-06T03:33:02+08:00"
+            },
+            {
+              "title": "Bungie因豪华版误购争议延长《Marathon》开放游玩周",
+              "brief": "Bungie延长了《Marathon》的开放游玩周，此前玩家在PlayStation商店中误以为只需14美元就能购买豪华版，实际得到的只是外观内容包。混淆源于免费试玩加入库后，商店会把玩家视为已拥有本体，仅显示与标准版的差价。此前开放周还曾因服务器问题进行紧急维护，这已是该活动的第二次波折。",
+              "source_url": "https://www.engadget.com/2188530/bungie-extends-marathon-open-play-week-amid-deluxe-edition-confusion/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-06T03:23:02+08:00"
+            },
             {
               "title": "谷歌关闭 AI 图像应用 Pixel Studio",
               "brief": "谷歌在最新更新中正式关闭 Pixel Studio，这款面向 Pixel 设备的 AI 图像生成应用不再独立运行。它于 2024 年随 Pixel 9 推出，去年还获得过一次较大的内容更新，但谷歌早在今年 2 月就宣布将其逐步停用，并陆续移除核心能力。如今用户更新后会看到“Open Gemini”按钮并跳转至 Play 商店，同时被建议改用 Gemini 中的 Nano Banana 继续生成图片。",
@@ -227,6 +241,13 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "2026夏日游戏节直播：重磅新闻、预告片与发布汇总",
+              "brief": "“夏日游戏节直播2026”于美东时间6月5日17点开始，这篇直播汇总持续更新现场发布与预告。活动正值一连串大型游戏展示会之间，因此备受关注；节目在洛杉矶杜比剧院举行、时长约两小时并在YouTube直播，更新还提到压轴会是单人叙事游戏，任天堂商店页也曾短暂显示《我的世界：地下城II》或于9月29日发售。",
+              "source_url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T16:40:00-04:00"
+            },
             {
               "title": "《60分钟》的危局",
               "brief": "CBS旗下《60分钟》因高层动荡再起风波，资深记者斯科特·佩利被解职，其余三名通讯记者随后以联名备忘录告知员工，他们不会离开，而是希望继续把节目维持下去。文章将这一连串人事与表态视为媒体整合时代新闻业的阴暗预兆，背景是佩利此前公开质疑CBS让唯命是从的人进入高层，而节目组也承认对近期裁员深感不安。",
@@ -254,13 +275,6 @@
               "source_url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists",
               "source_name": "The Verge",
               "published_at": "2026-06-05T12:15:00-04:00"
-            },
-            {
-              "title": "纽约州立法者通过新建数据中心一年禁令",
-              "brief": "纽约州立法者通过一项为期一年的新大型数据中心建设暂停令，若州长霍楚尔签署，将成为美国首个州级同类禁令。推动者称，此举是为争取时间评估大型数据中心对环境和能源价格的影响。法案要求州环境机构出具关于电力、用水、土地占用和污染的影响报告，并规定计划建设峰值需求至少20兆瓦的数据中心企业，须在获批前三个月举行并出资支持公开听证会。",
-              "source_url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T11:25:10-04:00"
             }
           ]
         }
@@ -272,6 +286,13 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "谷歌拟每月向SpaceX支付9.2亿美元采购算力",
+              "brief": "谷歌拟与SpaceX达成长期算力采购协议，每月支付9.2亿美元。此举延续了AI公司大额锁定数据中心资源的趋势，也是在谷歌既有投资关系上进一步加深与SpaceX的业务绑定。协议与Anthropic此前订单规模和期限安排相近，算力来自孟菲斯附近的Colossus数据中心，双方可自2026年12月31日后提前90天解约，SpaceX则有望获得多年期可预期现金流。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564816.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-06T02:59:35+08:00"
+            },
             {
               "title": "美国多州拟起诉阻止派拉蒙收购华纳兄弟探索",
               "brief": "路透社称，美国多个州正准备提起诉讼，阻止派拉蒙收购华纳兄弟探索，这笔交易在推进过程中再遇监管与司法阻力。此前路透社还称，加州总检察长罗伯·邦塔将很快决定是否单独起诉。消息传出后，派拉蒙股价午后跌7%，华纳兄弟探索跌2%；派拉蒙回应称，反对合并有违反垄断目标，反而会让Netflix等现有巨头获得不应有的优势。",
@@ -299,13 +320,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1564808.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-06T01:00:00+08:00"
-            },
-            {
-              "title": "折叠屏 iPhone 传闻首发或不提供黑色款",
-              "brief": "多方消息称，苹果首款折叠屏iPhone临近量产，但首发配色仍未完全明朗，黑色版本可能不会提供。此前爆料普遍指其上市初期仅有两种较克制的颜色，已曝光样机多为白色，另一种可能是深色或靛蓝。由于三星显示已开始量产面板，且折叠机早期产能与良率承压，苹果预计会以更少SKU控制供应链和制造复杂度。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1564806.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-05T23:33:50+08:00"
             }
           ]
         },
@@ -393,6 +407,27 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《星球大战：侍者》主创称若获批将“绝对”回归制作第二季",
+              "brief": "《星球大战：侍者》主创表示，只要迪士尼点头，她“绝对”愿意回归制作第二季。该剧于2024年首播，之后又传出被取消，如今逢开播两周年再度谈及续作；第一季曾以尤达和达斯·普雷格斯相关悬念收尾。她还提到，作品今年4月重回Disney+热播榜，自己也已想好希望继续展开的几条故事线索。",
+              "source_url": "https://www.ign.com/articles/star-wars-the-acolyte-creator-would-absolutely-come-back-for-season-2-if-disney-greenlights-it",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T02:38:47+08:00"
+            },
+            {
+              "title": "《Horizon Steel Frontiers》预计将于2027年上半年推出",
+              "brief": "NCSoft在最新投资者关系演示中披露，《地平线》MMORPG衍生作《Horizon Steel Frontiers》预计于2027年上半年推出。这款作品于2025年11月公布，主打以移动端为先，也会通过Purple登陆PC，并把故事重心转向死地的机器猎人，呈现玩家合作与对抗并存、近似《怪物猎人》的多人玩法；另一款多人分支《Horizon Hunters Gathering》仍未定档。",
+              "source_url": "https://www.ign.com/articles/horizon-steel-frontiers-the-mmorpg-spinoff-in-playstations-horizon-franchise-is-expected-to-launch-first-half-of-2027",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T02:11:28+08:00"
+            },
+            {
+              "title": "2026夏日游戏节公布汇总：直播持续更新",
+              "brief": "IGN整理2026夏日游戏节的全部公开信息，并从洛杉矶杜比剧院进行实时更新。发布会时长两小时，于6月5日开场，已确认登场的有《星球大战：Zero Company》新实机、《Guild Wars》相关内容、《Clutch》、新一季《Fortnite》预告，以及派拉蒙游戏工作室首款3A游戏；Geoff Keighley还表示，压轴将是一款单人叙事作品。",
+              "source_url": "https://www.ign.com/articles/summer-game-fest-2026-everything-announced",
+              "source_name": "IGN",
+              "published_at": "2026-06-06T02:06:35+08:00"
+            },
+            {
               "title": "《奥德赛》电影票被炒至数百美元",
               "brief": "《奥德赛》开票后，售票应用因抢票流量激增出现长队和崩溃，不少观众未能买到票，部分票还被黄牛转卖。原因是70MM IMAX场次极少，这是诺兰主打的观影格式。eBay上已有3张纽约林肯广场场次以700美元成交，全球仅39家影院放映该格式，且影片近3小时，每天通常只能排4到5场。",
               "source_url": "https://www.ign.com/articles/the-odyssey-tickets-are-being-resold-for-hundreds-of-dollars",
@@ -405,13 +440,6 @@
               "source_url": "https://www.ign.com/articles/new-marvel-avengers-2026-team-lineup",
               "source_name": "IGN",
               "published_at": "2026-06-06T00:22:29+08:00"
-            },
-            {
-              "title": "《吸血鬼猎人巴菲》演员安东尼·海德去世，享年72岁",
-              "brief": "曾在《吸血鬼猎人巴菲》中饰演吉尔斯的演员安东尼·海德去世，享年72岁。他是剧中主角的重要导师与父亲般人物，也曾出演《足球教练》《梅林传奇》和《小不列颠》。其女儿声明称，他因肺炎并发症安详离世，家人陪伴在侧；海德共参演《巴菲》121集，并于2023年再度配音回归该角色。",
-              "source_url": "https://www.ign.com/articles/buffy-the-vampire-slayer-star-anthony-head-has-died-aged-72",
-              "source_name": "IGN",
-              "published_at": "2026-06-06T00:11:48+08:00"
             }
           ]
         },
