@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T06:57:14.069803+08:00",
+  "generated_at": "2026-06-06T09:11:24.097025+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Mac 版 Chrome 在最新 MacBook Pro 上刷新基准纪录",
+              "brief": "谷歌称，Chrome for Mac 在最新 MacBook Pro 上刷新两项浏览器基准纪录。该公司去年曾披露 Chrome 在苹果芯片 Mac 上的连续优化，这次测试使用运行 macOS 26.0.1 的 M5 MacBook Pro。结果显示，Chrome 在衡量网页应用响应速度的 Speedometer 3.1 中得分 61，较一年前提升 5%；在面向 JavaScript 与 WebAssembly 的 JetStream 3 中得分 469，较今年年初测试提升 10%。",
+              "source_url": "https://9to5mac.com/2026/06/05/chrome-for-mac-breaks-benchmark-records-on-the-latest-macbook-pro/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T08:13:36+08:00"
+            },
+            {
+              "title": "iFixit 拆解仿冒 Apple Watch Ultra 3、AirPods Max 2 和 AirPods Pro 3",
+              "brief": "iFixit 拆解了在华强北购得的仿冒 Apple Watch Ultra 3、AirPods Max 2 和 AirPods Pro 3，并展示这些产品与正品的差异。华强北既是电子维修零件集散地，也常见高度仿真的假货。拆解发现，假表多数传感器只是画在塑料后盖上，电池容量仅 260mAh 且在机身内松动；假头戴耳机则采用塑料外壳，缺少主动降噪和通透模式，内部做工与焊接也较差。",
+              "source_url": "https://9to5mac.com/2026/06/05/ifixit-tears-down-fake-apple-watch-ultra-3-airpods-max-2-and-airpods-pro-3/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-06T07:29:28+08:00"
+            },
+            {
               "title": "在 Mac 上使用 Gemini 的更佳方式",
               "brief": "文章认为，在 Mac 上与其安装 Gemini 官方应用，不如用 Safari 的“添加到程序坞”把网页当作应用使用。作者长期在 Mac 上使用 Gemini，又习惯用 Safari，认为这种方式更利于多任务，因为可通过 Command+N 打开多个独立聊天窗口；相比之下，官方应用既有对话线程无法继续、需跳转网站的问题，也因图标受限，以及安装后台启动项 GeminiAppLauncher 和 GoogleUpdater 而再受批评。",
               "source_url": "https://9to5mac.com/2026/06/05/the-better-way-to-use-gemini-on-the-mac/",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/06/05/switchbot-standing-circulator-fan/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-06T02:59:00+08:00"
-            },
-            {
-              "title": "Lil Finder Guy 宠物成了我用 Codex 自建 Mac 应用的起点",
-              "brief": "作者回顾自己如何从用 Codex 做一个虚拟 Lil Finder Guy 宠物，发展到定制两款可用的 Mac 应用。背景是 OpenAI 的应用开发工具较去年夏天成熟许多，他此前曾在 macOS Tahoe 移除 Launchpad 后尝试用 ChatGPT 配合 Xcode 做替代品但进展不佳。如今借助 Codex 几乎不用 Xcode 就能快速做出满足个人需求的最小可用软件，并持续补充功能与界面细节。",
-              "source_url": "https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-06T02:37:31+08:00"
-            },
-            {
-              "title": "iPadOS 27：下周将公布的四项 iPad 新功能",
-              "brief": "报道汇总了据称将于下周随 iPadOS 27 公布的四项新功能，显示苹果正把更多系统级智能体验带到 iPad。背景是部分相关改进去年已先在 macOS Tahoe 出现，如今预计扩展到平板。文中提到的细节包括 Safari 的 AI“整理标签页”、整合 Siri 的 Spotlight 搜索，以及快捷指令支持用自然语言创建自动化。",
-              "source_url": "https://9to5mac.com/2026/06/05/ipados-27-four-new-ipad-features-being-announced-next-week/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-06T01:44:22+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Gemini 应用新增 Google 通讯录集成",
+              "brief": "Gemini 应用正在新增 Google 通讯录集成，用户可在“Connected Apps”中让 Gemini 查找、新增、编辑或删除联系人，也能读取已登录设备上的联系人信息。该功能属于 Gemini 持续扩展第一方服务连接的一部分，目前仍在逐步推出，9to5Google 仅在一部分带有 Gemini Spark 的 AI Ultra 账户中看到。支持按姓名、号码或邮箱查找联系人，查询生日，更新地址、电话和邮箱，并建议保存或联系特定联系人。",
+              "source_url": "https://9to5google.com/2026/06/05/gemini-google-contacts/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-06T07:04:23+08:00"
+            },
             {
               "title": "Steam Machine确认今夏发布，但价格仍未公布",
               "brief": "Steam确认Steam Machine和Steam Frame将于“今年夏天”发售，并把两款设备纳入Verified认证体系，时间表比此前“2026年底前”更明确，也弱化了年内是否上市的不确定性。该标识用于说明游戏和程序兼容性，其中Steam Machine据称在同软件下性能是Steam Deck的6倍、认证门槛也更高；Steam Frame则可独立运行游戏，但两款产品起售价仍未公布。",
@@ -115,19 +122,19 @@
               "source_url": "https://9to5toys.com/2026/06/05/friday-android-app-deals-mega-man-x/",
               "source_name": "9to5Google",
               "published_at": "2026-06-06T01:43:42+08:00"
-            },
-            {
-              "title": "我最喜欢的 Google Pixelsnap Ring Stand 替代品，几乎处处更好",
-              "brief": "作者认为，OhSnap Grip Stand 是比 Google Pixelsnap Ring Stand 更好的替代品。两者都依靠手机或手机壳内的 Qi2 磁吸实现支撑，但 Google 的配件虽能完成基本任务，却被指出存在螺丝松动、容易留下刮痕等不足。新款 OhSnap 在可弹出握持结构外加入更稳固的金属支架，可横竖放置手机，作者在 Galaxy Z Fold 7 和 Pixel 10 上测试后称其磁力更强，背面还略带黏性以减少滑动。",
-              "source_url": "https://9to5google.com/2026/06/05/my-favorite-alternative-to-googles-pixelsnap-ring-stand-is-better-in-every-way/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-06T00:15:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "婴儿肉毒杆菌爆发：FDA仍不知原因及如何预防",
+              "brief": "美国食品药品监督管理局发布了婴儿肉毒杆菌爆发的调查结果，被批评为“令人失望”。此次爆发与ByHeart公司生产的配方奶粉中的孢子污染有关。尽管追踪到了污染源，但FDA仍不清楚细菌如何进入奶粉，也无法防止再次发生。调查显示，污染菌株与ByHeart奶粉中发现的菌株基因相关，并追溯到配方中使用的全脂奶粉，该奶粉由美国奶农公司在内华达州的工厂生产。三家涉事公司相互指责，无人公开承担责任。爆发始于2025年11月初，至2026年2月26日结束，共导致17个州的48名婴儿患病住院，部分仍在康复中。",
+              "source_url": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-06T06:36:21+08:00"
+            },
             {
               "title": "高评分音箱可被空中入侵并感染所连设备",
               "brief": "研究人员发现，创新科技的 Sound Blaster Katana V2X 音箱在通过 USB 连接电脑时，可被蓝牙范围内的设备在未配对、未认证情况下接入，并成为攻击所连主机的跳板。操作系统通常会严防远程设备下发命令，但该产品的专有 CTP 协议允许蓝牙或 USB 端发送控制指令并接收响应，其中还包含上传新固件命令，厂商并未将此视为漏洞。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-06T02:45:20+08:00"
-            },
-            {
-              "title": "抗议压力下，巨型数据中心计划缩水50%",
-              "brief": "在犹他州博克斯埃尔德县的强烈抗议下，开发商在动工前将Stratos超大数据中心计划缩减一半。该项目原拟横跨多个场址，总规模接近曼哈顿的三倍，引发居民对抽调用水、尤其威胁大盐湖的担忧；为阻止从牧场转移1900英亩英尺水量，许多人付费提交意见，反对理由还包括电价、空气质量、野生动物与土地风险，项目支持者凯文·奥利里也承认前期沟通失误。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-06T02:23:00+08:00"
             }
           ]
         },
@@ -209,45 +209,59 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "《VR战士》新作《Crossroads》将于2027年推出",
-              "brief": "世嘉在夏日游戏节正式公布《VR战士》新作《Crossroads》首支完整预告，并确认游戏将于2027年发售。作为RGG Studio自至少2024年起参与开发的新项目，此前外界只看过一支预告和一些脱离语境的玩法片段。新预告明显更偏重叙事，介绍了新角色Cielo，也暗示故事模式可能成为比赛之外的结构，近身一对一格斗仍是核心，官方还预告将于美东时间20点举行专场直播公开更多细节。",
-              "source_url": "https://www.engadget.com/2188739/virtua-fighter-crossroads-is-coming-in-2027/",
+              "title": "《星刃》续作正式定名《血雨》",
+              "brief": "在2026年夏季游戏节上，Shift Up公布了其热门游戏《星刃》的续作，正式定名为《星刃：血雨》。该作设定在同一宇宙，但将故事引向“大胆的新方向”，并引入新主角Evie。首支预告片展示了闪亮的过场动画和华丽战斗，敌人设计偏向身体恐怖风格。Shift Up将自行发行该作，此前《星刃》由索尼互动娱乐发行，部分玩家曾对PlayStation独占窗口期表示不满。",
+              "source_url": "https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T06:49:05+08:00"
+              "published_at": "2026-06-06T08:01:47+08:00"
             },
             {
-              "title": "图帕克将加入《Stranger Than Heaven》",
-              "brief": "RGG Studio与世嘉确认，《Stranger Than Heaven》将加入图帕克形象，并在夏日游戏节新预告中公布2027年1月发售。这个消息之所以引人关注，是因为这位已故说唱歌手将以数字方式出现在主角跨越多代的日本旅程中。发布时史努比狗狗与制作人同台造势；官方称他饰演名为Amaru的角色，已获遗产管理方许可并持续监督，角色设计依据档案影像与照片完成，且未使用AI，已故演员菅原文太的形象也会登场。",
-              "source_url": "https://www.engadget.com/2188718/tupac-is-coming-to-stranger-than-heaven-and-we-re-as-confused-as-you-are/",
+              "title": "《超级尤卡莱莉卡丁车》致敬经典马里奥赛车",
+              "brief": "在夏日游戏节开发者日上，Playtonic Games公布了《超级尤卡莱莉卡丁车》，将尤卡莱莉系列角色与1992年《超级马里奥赛车》风格结合。游戏采用像素艺术画面，包含赛道上的金币和道具箱，漂移机制相似。特色是愤怒系统，积累后可发动复仇技能扭转战局。支持深度故事战役、在线模式和最多8人本地分屏，赛道和道具高度可定制。",
+              "source_url": "https://www.engadget.com/2186860/super-yooka-laylee-kart-looks-like-an-old-school-mario-kart-for-the-modern-age/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T06:07:31+08:00"
+              "published_at": "2026-06-06T07:54:13+08:00"
             },
             {
-              "title": "《Mighty Cuphead Adventure》从手绘动画转向像素风",
-              "brief": "StudioMDHR在夏日游戏节公布新作《Mighty Cuphead Adventure》，这款2D平台游戏把《茶杯头》标志性的手绘动画改成更接近8位机的像素风。之所以值得注意，是因为系列原本以1930年代卡通式视觉著称，而新作目前展示内容仍不多，差异主要体现在美术方向。官方称它仍是节奏很快的平台射击游戏，且以汇编语言开发、面向原始Sega Master System设计，除登陆现代平台外，还会推出可在该主机上运行的实体卡带。",
-              "source_url": "https://www.engadget.com/2188715/mighty-cuphead-adventure-makes-the-jump-from-hand-drawn-animation-to-pixel-art/",
+              "title": "《苹果碎》：在奶奶生日派对上阻止谋杀案",
+              "brief": "《鸭子侦探》开发商Happy Broccoli Games推出新作《苹果碎》，一款古怪的未遂谋杀悬疑游戏。玩家在奶奶84岁生日聚会上扮演家庭成员，通过探索童年故居、与怪异的亲戚交谈，找出谁企图杀害奶奶。游戏风格类似《利刃出鞘》，带有黑暗幽默和卡通3D画面，时长约60-90分钟，全程配音，将于2026年登陆Steam。",
+              "source_url": "https://www.engadget.com/2188459/party-with-your-grandma-and-prevent-her-murder-in-apple-crumble/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T05:56:53+08:00"
+              "published_at": "2026-06-06T07:48:23+08:00"
             },
             {
-              "title": "《ICO》制作人新作《gen Atlas》公开",
-              "brief": "genDESIGN在夏日游戏节公布上田文人新作定名《gen Atlas》，预告展示玩家将操控巨型机器人头部穿越荒凉而高科技衰败的世界。之所以受到关注，是因为这是《ICO》《最后的守护者》导演时隔多年带来的新项目，延续他擅长的非常规搭档关系与环境叙事。官方介绍中提到无尽平原、废弃设施、不断变化的海洋以及寄生生物，本作由Epic Games发行，将登陆PS5、Xbox Series X/S和PC，但暂未公布发售时间。",
-              "source_url": "https://www.engadget.com/2188695/pilot-a-giant-robot-head-in-gen-atlas-the-new-game-from-the-creator-of-ico/",
+              "title": "“5D”平台跳跃游戏《Screenbound》9月10日发售",
+              "brief": "在开发者日展示会上，Crescent Moon Games和Radial Forge宣布5D平台游戏《Screenbound》将于9月10日登陆Steam、PS5、Xbox Series X/S和PC，并已推出试玩版。玩家同时控制一台Game Boy风格掌机中的2D游戏和现实中的3D角色，两个平面上的元素互不重叠，需要兼顾解谜。首个卡带为横版平台跳跃，第二个为2D塞尔达风格冒险。",
+              "source_url": "https://www.engadget.com/2187778/5d-platformer-screenbound-arrives-on-september-10/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T05:44:13+08:00"
+              "published_at": "2026-06-06T07:44:20+08:00"
             },
             {
-              "title": "《异形：隔离2》首支预告把恐怖带到殖民星球",
-              "brief": "《异形：隔离2》在夏日游戏节公开首支正式预告，把生存恐怖场景从空间站扩展到殖民星球。之所以受关注，是因为距离前作问世已过去12年，系列粉丝此前只在上月看过一段先导预告。新片虽以电影化镜头为主，但已出现失序设施、喷火器、尖叫与异形等核心元素；官方确认游戏将登陆Steam、PS5、Xbox Series X/S和任天堂Switch 2，不过暂未给出发售窗口，预告素材仍处于前Alpha阶段。",
-              "source_url": "https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/",
+              "title": "《伊萨卡》：来自《葬我爱人》工作室的神秘公路旅行RPG",
+              "brief": "法国工作室The Pixel Hunt公布公路旅行RPG《伊萨卡》，主角Penelope是一名环保律师，加入地球保护协会后，发现后备箱里绑着石油公司老板。游戏以驾驶座视角展开，玩家通过调查线索、与亲友通话，逐步卷入生态恐怖主义阴谋。包含30多个NPC和七种结局，玩家的叙事选择决定Penelope是否完成计划。",
+              "source_url": "https://www.engadget.com/2188360/ithaca-is-a-mysterious-road-trip-rpg-from-bury-me-my-love-studio-pixel-hunt/",
               "source_name": "Engadget",
-              "published_at": "2026-06-06T05:37:24+08:00"
+              "published_at": "2026-06-06T07:40:08+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "十多年后，《N++》开发团队携多人续作回归",
+              "brief": "在2015年发布硬核2D平台游戏《N++》后，双人工作室Metanet时隔十余年宣布推出新作《N Plus Infinity Times Two》，预计2027年发售。与侧重单人体验的前作不同，本次续作聚焦多人模式，被描述为“终极虚拟沙发派对游戏”。该系列最早可追溯至免费Flash游戏《N》。",
+              "source_url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T19:25:34-04:00"
+            },
+            {
+              "title": "《侠盗猎车手VI》正在扭曲游戏发售日历",
+              "brief": "随着《GTA VI》定于2026年11月发售，其他游戏发行商纷纷避开其档期，导致秋季游戏阵容异常拥挤。从索尼State of Play发布会看，《金刚狼》等大作集中在9月发售，而11月几乎空白。这种避让现象在夏季游戏节期间尤为明显，多款游戏宣布提前或推迟以避免与《GTA VI》直接竞争。",
+              "source_url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+              "source_name": "The Verge",
+              "published_at": "2026-06-05T19:05:27-04:00"
+            },
             {
               "title": "《最终幻想VII》重制三部曲最终作定名《Revelation》",
               "brief": "史克威尔艾尼克斯正式公布《最终幻想VII》重制三部曲第三部《Revelation》，确认这是该计划的最终作，并将首次在所有平台同步发售。这部作品将为持续多年的重制项目收官，前两作分别重构了米德加篇章并扩展到更开放的世界体验，且最初都曾为PlayStation独占，之后才逐步转向多平台发行。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte",
               "source_name": "The Verge",
               "published_at": "2026-06-05T17:15:48-04:00"
-            },
-            {
-              "title": "2026夏日游戏节直播：重磅新闻、预告片与发布汇总",
-              "brief": "“夏日游戏节直播2026”于美东时间6月5日17点开始，这篇直播汇总持续更新现场发布与预告。活动正值一连串大型游戏展示会之间，因此备受关注；节目在洛杉矶杜比剧院举行、时长约两小时并在YouTube直播，更新还提到压轴会是单人叙事游戏，任天堂商店页也曾短暂显示《我的世界：地下城II》或于9月29日发售。",
-              "source_url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T16:40:00-04:00"
-            },
-            {
-              "title": "《60分钟》的危局",
-              "brief": "CBS旗下《60分钟》因高层动荡再起风波，资深记者斯科特·佩利被解职，其余三名通讯记者随后以联名备忘录告知员工，他们不会离开，而是希望继续把节目维持下去。文章将这一连串人事与表态视为媒体整合时代新闻业的阴暗预兆，背景是佩利此前公开质疑CBS让唯命是从的人进入高层，而节目组也承认对近期裁员深感不安。",
-              "source_url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
-              "source_name": "The Verge",
-              "published_at": "2026-06-05T14:44:20-04:00"
             }
           ]
         }
@@ -374,39 +374,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《幻兽帕鲁》1.0正式版CG预告公开，7月10日发售",
-              "brief": "《幻兽帕鲁》公开1.0正式版CG预告，并确认将于7月10日推出。开发方在今年3月GDC 2026期间表示，团队希望它成为生存创造游戏中的佼佼者。制作人Buckley称，这一类型既受益于Steam生态也面临问题，玩家各有理想玩法，因此1.0版目标是做成适合所有人、能让人沉浸其中尽情游玩的作品。该作已于2024年1月开启抢先体验。",
-              "source_url": "https://www.ithome.com/0/960/759.htm",
+              "title": "消息称苹果iOS 27版Siri上线初期采用候补名单机制",
+              "brief": "据报道，苹果iOS 27版Siri上线初期将采用候补名单机制，并非所有用户都能第一时间体验。苹果计划边上线边打磨，收集用户反馈改进性能。类似机制曾在2024年Apple Intelligence推出时使用，用户需加入候补名单等待权限开放。新版Siri采用全新架构，并首次接入谷歌Gemini模型，系统稳定性、响应质量等需谨慎观察。",
+              "source_url": "https://www.ithome.com/0/960/777.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-06T06:53:59+08:00"
+              "published_at": "2026-06-06T09:01:21+08:00"
             },
             {
-              "title": "比特币盘中跌破6万美元，创2024年10月以来新低",
-              "brief": "比特币盘中跌破6万美元，创2024年10月以来新低，本周累计跌幅达到16%。报道认为，直接触发因素是Michael Saylor创办的Strategy出售少量比特币持仓，打击市场情绪并引发数亿美元级别强制平仓，进一步放大下行压力。同时，加密市场结构法案Clarity Act因立法优先级变化和议员分歧继续推后，新增利好缺位也削弱了市场信心。",
-              "source_url": "https://www.ithome.com/0/960/758.htm",
+              "title": "苹果美国上架官翻Apple Watch Series 11等2025款智能手表，便宜约15%",
+              "brief": "苹果美国在线翻新商店首次上架2025款Apple Watch，包括Series 11、Ultra 3和SE 3，折扣约15%。翻新设备经过严格清洁检测，享有与全新设备相同的1年有限保修，并支持AppleCare+。中国官网目前仅有2022款Apple Watch SE在售。",
+              "source_url": "https://www.ithome.com/0/960/776.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-06T06:53:46+08:00"
+              "published_at": "2026-06-06T08:49:26+08:00"
             },
             {
-              "title": "上海烛龙公布《古剑》战斗实机，7月18日举行线下试玩会",
-              "brief": "上海烛龙公布《古剑》单机新作战斗实机，并宣布将于7月18日举办线下试玩会。这是古剑奇谭系列的单机新作，定位为动作角色扮演游戏，玩家将以“地界司判”的身份前往人间失序之处，收束游魂、追寻因果。作品融合中国上古神话与志怪传说元素，基于虚幻引擎5开发，未来将以买断制登陆PC及主机平台。",
-              "source_url": "https://www.ithome.com/0/960/757.htm",
+              "title": "万代南梦宫《黎明行者之血》公开新宣传片，将于9月3日发售",
+              "brief": "万代南梦宫公开黑暗奇幻动作RPG《黎明行者之血》新宣传片，游戏将于9月3日登陆PS5、Xbox Series和PC平台。故事围绕一名年轻人拯救家人的奋斗展开，玩家的抉择和揭露的秘密将塑造独特故事。游戏最低配置要求为i7-8700K或锐龙7 3700X处理器、16GB内存、RTX3050或同级显卡。",
+              "source_url": "https://www.ithome.com/0/960/775.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-06T06:43:45+08:00"
+              "published_at": "2026-06-06T08:42:58+08:00"
             },
             {
-              "title": "古尔曼称苹果iOS 27将改善iPhone 17等机型续航",
-              "brief": "古尔曼称，苹果计划通过iOS 27改善包括iPhone 17在内机型的续航表现。报道指出，这一版本将移除为旧版iOS编写的残留代码，重写部分功能，并调整一些核心模块，以提升整体运行效率。苹果希望借此减少不必要的后台进程、加快响应速度，并在相同电池硬件条件下延长使用时间，但目前尚无量化续航数据。",
-              "source_url": "https://www.ithome.com/0/960/756.htm",
+              "title": "苹果iPadOS 27前瞻：自然语言创建快捷指令、Safari自动标签分组",
+              "brief": "苹果iPadOS 27预计将带来多项新功能：Safari新增Organize Tabs功能，可按主题自动整理标签页；Spotlight搜索深度整合Siri能力，支持提问、找文件、启动应用等；快捷指令应用支持自然语言创建自动化流程；系统级语法检查功能类似Grammarly，面向学生和办公人群。",
+              "source_url": "https://www.ithome.com/0/960/774.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-06T06:42:22+08:00"
+              "published_at": "2026-06-06T08:39:22+08:00"
             },
             {
-              "title": "如龙工作室新作《异于天堂》公开预告，定档2027年1月15日",
-              "brief": "如龙工作室公开原创动作冒险游戏《异于天堂》预告，并确认将于2027年1月15日发售。该作讲述美日混血主角大东真的一生，由城田优饰演，时间线横跨1915年至1965年的50年。作品延续《人中之龙》系列风格，同时融入20世纪初黑色电影气质，故事将覆盖福冈小仓、广岛吴市、大阪Minami、静冈热海和东京神室町五个时代与地点。",
-              "source_url": "https://www.ithome.com/0/960/755.htm",
+              "title": "提升10%：谷歌Chrome浏览器刷新JetStream 3跑分纪录",
+              "brief": "谷歌Chrome浏览器宣布自2026年初以来，其在JetStream 3基准测试中得分提升10%，达到469分，Speedometer得分提升5%至61分。优化涉及JavaScript引擎内联快速路径、WebAssembly SIMD和寄存器分配、Blink渲染引擎的样式计算和DOM操作等，在AI、密码学等场景获得更明显提速。",
+              "source_url": "https://www.ithome.com/0/960/772.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-06T06:34:05+08:00"
+              "published_at": "2026-06-06T08:27:58+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《Clutch》设定在法国蔚蓝海岸，包含摩纳哥",
-              "brief": "迈威克游戏在2026夏日游戏节正式公布开放世界赛车《Clutch》，舞台设在摩纳哥及周边法国蔚蓝海岸。游戏以地中海海岸线为蓝本，包含摩纳哥、戛纳和圣特罗佩三座沿海城市，并延伸至阿尔卑斯和韦尔东峡谷；剧情由杰米·布里顿执笔，围绕车手西奥、妹妹卡丝与养父卢多展开，交织职业赛事、地下街头赛车和高速追逐逃脱。",
-              "source_url": "https://www.ign.com/articles/maverick-games-open-world-racer-clutch-is-set-on-the-french-riviera-features-monaco",
+              "title": "《战神：劳菲》总监理解公布后的质疑，但希望粉丝给机会",
+              "brief": "在PlayStation State of Play上，《战神：劳菲》作为压轴作品公布，引发热情的同时也招致部分反对声音。一些玩家不满主角是克雷多斯之妻菲而非战神本人，另一些人认为游戏沿用前作的一镜到底风格，与克雷多斯的故事差异不大。总监劳伦斯向GameSpot表示，她将本作视为全新故事，希望粉丝给予机会。她理解质疑，但强调游戏的核心在于乐趣和未知冒险。在另一采访中，她承认粉丝对系列有深厚情感，并将强烈反响视为积极信号，表明大家关心这个系列。圣莫尼卡工作室已确认克雷多斯未来仍有更多故事，他仍是系列重要部分。",
+              "source_url": "https://www.ign.com/articles/god-of-war-laufey-director-understands-skepticism-following-reveal-but-hopes-fans-give-it-a-chance",
               "source_name": "IGN",
-              "published_at": "2026-06-06T06:33:00+08:00"
+              "published_at": "2026-06-06T08:37:37+08:00"
             },
             {
-              "title": "《风火轮：无限冲刺》让系列转向开放世界",
-              "brief": "《风火轮：无限冲刺》公布首支预告，并确认将把这一赛车系列带入开放世界，计划于2026年9月24日发售。游戏由制作过两部《风火轮：释放》的Milestone开发，登陆PS5、Xbox Series X|S、Steam、Epic和Switch 2，售价49.99美元；演示中出现海滩、都市、丛林赛道，以及摩天楼顶的玩具金刚，定位面向儿童玩家。",
-              "source_url": "https://www.ign.com/articles/hot-wheels-infinite-rush-takes-the-racing-game-series-open-world",
+              "title": "《007：第一缕光》公布路线图：剧情DLC、新游戏+等即将到来",
+              "brief": "IO Interactive在Summer Game Fest上发布了《007：第一缕光》的剧情DLC预告片，聚焦海盗王巴瓦马。该角色在基础游戏中故事结束得较为突然，DLC将延续其剧情。目前尚不清楚DLC是付费还是免费更新。游戏还将获得为期一年的更新，包括新的TacSim挑战、新装备、新游戏+模式和拍照模式。IO Interactive表示这是“第一年”路线图，暗示之后可能还有更多内容。据估计，《007：第一缕光》首周销量超过200万份，IGN给出9/10评分。亚马逊已确认将负责未来邦德游戏的发行工作。",
+              "source_url": "https://www.ign.com/articles/007-first-light-reveals-road-map-story-dlc-new-game-and-more-coming-soon",
               "source_name": "IGN",
-              "published_at": "2026-06-06T06:30:43+08:00"
+              "published_at": "2026-06-06T08:28:56+08:00"
             },
             {
-              "title": "《四海兄弟：故乡》即将推出剧情DLC",
-              "brief": "《四海兄弟：故乡》即将推出剧情DLC，初代中著名反派唐·萨列里也会在这次扩展中回归。内容售价10美元，将于8月14日上线，在主线中段新增两章故事和更多Free Ride内容；剧情设定在1905年冬季，恩佐会在恩尼奥·萨列里出狱后协助他，并加入新武器、载具与环境。这款去年以50美元发售的较小体量作品走红后，促使Hanger 13继续追加支持。",
-              "source_url": "https://www.ign.com/articles/mafia-the-old-country-is-getting-a-story-dlc-very-soon",
+              "title": "Telltale CEO解释《我们身边的狼2》为何耗时如此之久，以及与Ad Hoc Studio的分手原因",
+              "brief": "Telltale Games CEO Jamie Ottilie在接受IGN采访时详细说明了《我们身边的狼2》开发延迟的原因。该项目经历了2018年Telltale关闭、品牌复兴、重启、多次延期、裁员以及与AdHoc Studio的合作终止。Ottilie解释称，2023年决定重启开发，并透露了AdHoc Studio的工作有多少保留在游戏中。他还提到，原版游戏的重制版将于今年晚些时候推出，以迎接13周年纪念，并帮助新玩家体验故事。Ottilie强调续作是真正的续集，讲述新故事但仍是Bigby的故事，时间线紧接初代，不玩前作也能理解。",
+              "source_url": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
               "source_name": "IGN",
-              "published_at": "2026-06-06T06:18:33+08:00"
+              "published_at": "2026-06-06T08:01:10+08:00"
             },
             {
-              "title": "《1666：阿姆斯特丹》重新亮相，现可试玩30分钟Demo",
-              "brief": "由《刺客信条》联合创作者帕特里斯·德西莱茨主导的《1666：阿姆斯特丹》在沉寂15年后重新公开，并放出可游玩的30分钟免费序章。这个黑暗风格第三人称叙事动作冒险项目现已登陆Steam和Epic，完整版本将于2026年先在PC开启抢先体验，主机版随后推出；开发团队表示，过去六年一直专注于持续迭代真正可玩的内容，而非仅展示宣传片段。",
-              "source_url": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
+              "title": "《我们身边的狼2》延期至2027年，初代重制版先行推出",
+              "brief": "在Summer Game Fest 2026上，Telltale Games宣布《我们身边的狼2》将于2027年登陆PC、PS4、PS5、Switch、Switch 2、Xbox One和Xbox Series X|S。该项目自原Telltale首次确认开发以来已近十年，期间经历了公司关闭、品牌复兴、完全重启、多次延期、裁员以及与AdHoc Studio的合作终止。续作设定在初代事件之后，Bigby Wolf将调查一个威胁童话镇的危险阴谋。在此之前，初代重制版《我们身边的狼：重制版》将于今年假期推出，包含改进的画面、UI、无障碍功能以及一小时的额外内容。",
+              "source_url": "https://www.ign.com/articles/the-wolf-among-us-2-now-due-in-2027-following-remaster-of-telltales-original-game",
               "source_name": "IGN",
-              "published_at": "2026-06-06T06:16:51+08:00"
+              "published_at": "2026-06-06T08:01:05+08:00"
             },
             {
-              "title": "《激战3》正式公开，测试将于2027年秋季启动",
-              "brief": "ArenaNet正式公开新作《激战3》，并计划在2027年秋季开启测试。这款大型多人在线角色扮演游戏被描述为偏动作化的RPG，强调移动穿越、借势战斗以及分支技能与自定义，支持键鼠和手柄操作；故事设定在初代一千年前的欧尔，玩家要在公会冲突中守护自然与灵魂，预告还暗示可四人组队，并首次登陆主机，且延续系列传统不设订阅费。",
-              "source_url": "https://www.ign.com/articles/guild-wars-3-officially-revealed-beta-starts-fall-2027-for-arenanets-next-mmorpg",
+              "title": "《超级尤卡-莱莉卡丁车》公布，致敬SNES《马里奥赛车》风格",
+              "brief": "Playtonic Games在Day of the Devs展示会上公布了《超级尤卡-莱莉卡丁车》，本作以平台游戏双主角尤卡和莱莉为主角，并包含众多配角。游戏视觉风格明显受SNES《超级马里奥赛车》启发，但引入了独特的“愤怒系统”，可根据比赛位置或遭受攻击释放特殊能力。游戏包含单人故事战役、本地及在线多人模式（最多8人），以及好友房间、锦标赛和可自定义规则。本作将举行PC版Beta测试以测试在线功能。Playtonic由前Rare工作室成员于2014年创立，曾开发《尤卡-莱莉》及其续作。",
+              "source_url": "https://www.ign.com/articles/super-yooka-laylee-kart-announced-with-snes-mario-kart-vibes",
               "source_name": "IGN",
-              "published_at": "2026-06-06T06:03:34+08:00"
+              "published_at": "2026-06-06T08:00:41+08:00"
             }
           ]
         },
