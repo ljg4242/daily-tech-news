@@ -1,0 +1,468 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T07:23:11.126067+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "iOS 27 花絮：两部iPhone共享号码、独立闹钟音量、更快的AirPlay等",
+              "brief": "苹果在WWDC 2026上介绍了iOS 27的主要新功能，但还有许多细节未提及。新系统支持两部iPhone共享同一电话号码，可能类似iPhone和Apple Watch的共享方式，但需要运营商支持。FaceTime可同时使用前后摄像头。AirPlay和AirDrop传输速度提升。信息应用新增绘图工具。主屏幕支持超大尺寸小组件，占据整个页面。共享相簿可设置过期时间。",
+              "source_url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-09T06:23:03+08:00"
+            },
+            {
+              "title": "iOS 27 发布：如何安装测试版",
+              "brief": "苹果发布了iOS 27，主要新功能包括Siri AI、Siri应用、液态玻璃外观调节、增强儿童安全等。开发者测试版已面向所有Apple开发者账户免费开放，无需付费会员。注册后重启iPhone，在设置-通用-软件更新中即可安装。首个公测版将于7月推出，需在beta.apple.com注册。注意新版Siri需等待名单，测试版可能存在bug和性能问题，建议安装前备份。",
+              "source_url": "https://www.macrumors.com/2026/06/08/how-to-install-the-ios-27-beta/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-09T06:05:00+08:00"
+            },
+            {
+              "title": "蒂姆·库克在最后一次苹果主题演讲中发表告别致辞",
+              "brief": "蒂姆·库克在预计是他作为苹果CEO的最后一次主题演讲中发表了感人的告别致辞。他回顾了任期亮点，称与开发者分享强大工具是最大收获之一，并感谢开发者创造的无限想象。库克自2011年接替乔布斯担任CEO，硬件工程高级副总裁John Ternus将于9月接任，届时将宣布新款iPhone。",
+              "source_url": "https://www.macrumors.com/2026/06/08/tim-cook-delivers-remarks-at-his-last-keynote/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-09T05:42:19+08:00"
+            },
+            {
+              "title": "苹果在 iOS 27 中彻底改造 Genmoji",
+              "brief": "iOS 27对Genmoji创建体验进行了全面革新。新界面支持从现有表情、照片或人物开始描述创建，并新增“描述更改”功能，可迭代修改颜色和对象。AI更智能，每次修改基于原有基础而非重新生成，支持创建复杂多元素Genmoji。输出更一致，默认3D卡通风格，也可切换为素描等风格。生成速度更快，耗电更少。Image Playground也得到升级，支持生成逼真图像。",
+              "source_url": "https://www.macrumors.com/2026/06/08/apple-overhauls-genmoji-in-ios-27/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-09T05:29:52+08:00"
+            },
+            {
+              "title": "iOS 27 暗示可折叠 iPhone：应用可调整大小和新框架字符串",
+              "brief": "iOS 27中发现可折叠iPhone的线索：系统框架中出现“foldState”和“angleDegrees”字符串，以及内置显示屏计数键。在Platforms State of the Union中，苹果敦促开发者转向支持动态尺寸和宽高比的应用布局，而非固定设备。新SDK支持iOS应用在iPhone Mirroring和iPad上自动调整大小，Xcode新增可调整大小的模拟器。这些举措暗示未来iPhone可能折叠成更大内屏。",
+              "source_url": "https://www.macrumors.com/2026/06/08/ios-27-hints-at-foldable-iphone-with-app-resizability-push/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-09T05:24:04+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "iOS 27 新增超大尺寸小组件，满足超大需求",
+              "brief": "苹果在 WWDC 2026 上发布了 iOS 27，带来数百项新功能，其中包括备受期待的 Siri AI、改进的搜索以及新的 Apple Intelligence 功能。iOS 27 还引入了一个新的超大尺寸小组件，尺寸为 4×6，比现有的大号小组件（4×4）更大，为用户提供更多信息展示空间。用户可以通过拖拽右下角手柄来调整小组件大小。目前仅少数苹果内置应用支持该尺寸，预计随着开发者更新应用，支持范围将扩大。",
+              "source_url": "https://9to5mac.com/2026/06/08/ios-27-adds-extra-large-widgets-for-your-extra-large-needs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-09T06:28:17+08:00"
+            },
+            {
+              "title": "苹果在 iOS 27 测试版中泄露可折叠 iPhone 相关信息",
+              "brief": "苹果在 WWDC 2026 上宣布 iOS 27 将于今秋推送，并将支持首款可折叠 iPhone——iPhone Ultra。在 iOS 27 测试版和开发者框架中，苹果意外泄露了可折叠 iPhone 的引用，包括“foldState”和“angleDegrees”等关键词，以及获取内置显示屏总数的检查。9to5Mac 已确认这些引用的存在，它们在 iOS 26 中并未出现。",
+              "source_url": "https://9to5mac.com/2026/06/08/apple-leaks-foldable-iphone-references-in-ios-27-beta/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-09T05:55:02+08:00"
+            },
+            {
+              "title": "需使用最新苹果设备才能自定义新版 Siri 的声音",
+              "brief": "苹果在 WWDC 2026 上宣布了全新的 Siri AI，支持通过滑块调整语速和表现力，以及选择口音。然而，这一声音自定义功能对设备有较高要求：仅限 iPhone 17 Pro、iPhone 17 Pro Max、iPhone Air、配备 M4 及更高版本且内存至少 12GB 的 iPad、配备 M3 及更高版本且内存至少 12GB 的 Mac，以及 Apple Vision Pro（M5）。即使设备能运行 iOS 27 等新系统，也不一定能使用该功能。",
+              "source_url": "https://9to5mac.com/2026/06/08/youll-need-the-latest-apple-devices-to-customize-the-new-siris-voice/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-09T05:39:05+08:00"
+            },
+            {
+              "title": "iOS 27 大幅改进 AirPods 设置界面，全新设计亮相",
+              "brief": "iOS 27 测试版对 AirPods 设置进行了全面改版，将原本杂乱无章的开关选项整合为更易用的菜单，并配以图标，使选项一目了然。主设置页面长度大幅缩短，导航更为便捷。虽然尚未推出独立的 AirPods 应用，但这一改进显著提升了用户体验。",
+              "source_url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-09T05:38:06+08:00"
+            },
+            {
+              "title": "苹果确认 watchOS 27 将在 Apple Watch Series 9 上运行",
+              "brief": "苹果在 WWDC 2026 后公布的 watchOS 27 兼容列表最初未包含 Apple Watch Series 9，令用户担忧。然而，watchOS 27 测试版发布后，Series 9 用户发现可正常下载安装。苹果现已向 9to5Mac 确认 watchOS 27 兼容 Series 9，尽管官网列表尚未更新。watchOS 27 引入了新的 Siri AI 应用、锻炼数据洞察等功能。",
+              "source_url": "https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-09T05:09:29+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "OpenAI 在 Anthropic 提交一周后非保密提交 IPO 申请",
+              "brief": "OpenAI 已提交保密的 S-1 表格，这是迈向股票市场 IPO 的第一步。该公司表示，由于预计消息会泄露，因此主动公布此事。IPO 时间尚未确定，可能还需一段时间，因为作为私营公司更便于推进某些计划。OpenAI 近期估值为 8520 亿美元，低于竞争对手 Anthropic 的 9650 亿美元，后者也刚刚提交了同样的 S-1 文件。尽管 OpenAI 目前尚未盈利，且近期也不预期盈利，但公开募股将为 OpenAI 和 Anthropic 提供额外资本。",
+              "source_url": "https://9to5google.com/2026/06/08/openai-not-so-confidentially-submits-its-ipo-filing-just-a-week-after-anthropic/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-09T06:50:00+08:00"
+            },
+            {
+              "title": "The Sideload 036：意外获得Planet Fitness赞助",
+              "brief": "本期The Sideload播客由Planet Fitness意外赞助，同时NordVPN提供正式赞助。听众可通过链接订阅NordVPN享受两年期最高76%折扣及额外四个月免费。节目由Will Sattelberg和Joe Maring主持，涵盖Android生态讨论。",
+              "source_url": "https://9to5google.com/2026/06/08/the-sideload-036-accidentally-sponsored-by-planet-fitness/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-09T05:00:00+08:00"
+            },
+            {
+              "title": "新版Siri AI与Android现有Gemini功能对比",
+              "brief": "苹果与Google深度合作，利用Gemini模型打造下一代Apple基础模型，推出Siri AI。Siri AI与Gemini应用类似，支持个人上下文理解、应用操作、屏幕感知等功能。视觉上，苹果的Gemini覆盖层等效于灵动岛，响应从顶部展开。Siri AI提供更富表现力的语音，支持语速和表现力滑块，而Google Gemini将增加地区方言。",
+              "source_url": "https://9to5google.com/2026/06/08/siri-ai-gemini-comparison/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-09T04:32:50+08:00"
+            },
+            {
+              "title": "Android Auto现支持PDF应用，但可能比你想象的更有用",
+              "brief": "Adobe Acrobat应用更新后可在Android Auto上使用，通过朗读功能将PDF转为音频，方便驾驶时收听。该功能支持部分PDF文件，并在车载屏幕上显示媒体播放器。此举与Android Auto近年来的生产力导向一致，例如已加入Google Meet。",
+              "source_url": "https://9to5google.com/2026/06/08/android-auto-pdf-adobe-acrobat-app/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-09T03:45:00+08:00"
+            },
+            {
+              "title": "Google Home更新升级Gemini天气预报、Nest Hub媒体播放及语音指令",
+              "brief": "Google Home向早期用户推送更新，首先改进天气准确性，用户可询问逐小时预报并在Nest Hub上显示。智能显示屏升级媒体播放，支持通过自然语音命令播放音乐视频、电影和电视节目。所有Nest设备改进新闻简报体验，结果更个性化，并以开放麦克风收尾支持对话式追问。",
+              "source_url": "https://9to5google.com/2026/06/08/google-home-upgrades-weather-and-media-commands/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-09T03:25:20+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "macOS 27 要求 Apple Silicon，苹果逐步终结 Intel Mac 时代",
+              "brief": "苹果宣布 macOS 27 Golden Gate 将不再支持 Intel Mac，仅兼容搭载 Apple Silicon 芯片（包括 M1）的机型。这一决定延续了去年公布的路线图。Intel Mac 用户仍可运行 macOS 26 Tahoe，并获约两年安全更新；macOS 15 Sequoia 用户再获一年更新。Rosetta 2 兼容层在 macOS 27 中继续支持 Intel 应用，但未来版本将限制其用途。此前 OpenCore Legacy Patcher 等工具可延长旧设备支持，但此次更新可能使其失效。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-09T05:03:56+08:00"
+            },
+            {
+              "title": "iOS 27 和 iPadOS 27 未淘汰任何 iPhone，仅少量 iPad 被放弃",
+              "brief": "苹果发布 iOS 27 和 iPadOS 27，兼容性对旧设备友好。iOS 27 支持所有运行 iOS 26 的 iPhone，包括 iPhone 11 及第二代 iPhone SE。iPadOS 27 则放弃了对搭载 A12 芯片的第三代 iPad Air、第八代 iPad 和第五代 iPad mini 的支持，要求 A13 或更新芯片。苹果称得益于更新的 CPU 调度器，旧设备性能将提升。但 Apple Intelligence 功能仍限于 8GB 以上内存设备，如 iPhone 15 Pro 及以上；更强大的本地模型需要 12GB 内存及更新芯片。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-09T04:55:58+08:00"
+            },
+            {
+              "title": "Meta 指控 NSO 违反间谍软件禁令，发动新的 WhatsApp 攻击",
+              "brief": "Meta 称间谍软件制造商 NSO 集团违反法院禁令，再次针对 WhatsApp 用户发起钓鱼攻击。WhatsApp 已发现并阻止了这些攻击，Meta 请求法院裁定 NSO 藐视法庭。NSO 开发的 Pegasus 间谍软件曾被用于监视记者、活动人士等，美国于 2021 年将其列入实体清单。去年 WhatsApp 赢得针对 NSO 的永久禁令并获得赔偿，但 NSO 上诉试图推翻禁令。Meta 表示 NSO 试图欺骗用户点击恶意链接，违反了禁令。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-09T04:26:14+08:00"
+            },
+            {
+              "title": "阿尔忒弥斯二号机组高速飞行，获颁马赫39徽章",
+              "brief": "NASA阿尔忒弥斯二号任务的宇航员在4月初的月球之旅中，返回地球时速度达到约24664英里/小时（马赫38.89），成为现役最快的人类。为此，他们获得了一枚代表该速度的新徽章。历史上只有阿波罗10号的三名宇航员曾达到更高速度（24791英里/小时）。指挥官里德·怀斯曼在Instagram视频中展示了这枚新徽章。",
+              "source_url": "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-09T03:40:05+08:00"
+            },
+            {
+              "title": "苹果推出更“对话式”的Siri AI语音助手",
+              "brief": "苹果在WWDC主题演讲中正式发布了长期延迟的“苹果智能”更新，将新版Siri命名为“Siri AI”，并承诺今年秋季随操作系统更新推出。新Siri采用谷歌驱动的设备端基础模型更新，并实现跨系统AI能力整合。演示中展示了多步骤对话和跨应用任务处理，强调更自然的交互体验。",
+              "source_url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-09T03:30:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "谷歌下调 AI Plus 价格并扩大存储",
+              "brief": "谷歌把美国市场 AI Plus 订阅从每月 8 美元降到 5 美元，同时将配套云存储从 200GB 提高到 400GB。AI Plus 是面向大众的低价 AI 套餐，相比每月 20 美元起的 AI Pro 和更高价的 AI Ultra 更便宜，今年 1 月才登陆美国。谷歌称，其他国际市场的本地价格也会按相近幅度下调。",
+              "source_url": "https://www.androidauthority.com/google-ai-plus-price-3675680/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-09T05:22:13+08:00"
+            },
+            {
+              "title": "苹果照片用户终于能与安卓朋友共享相册",
+              "brief": "苹果在WWDC 2026上宣布iCloud共享相册将支持跨平台分享，允许iPhone用户与安卓和Windows用户共享相册，并支持全分辨率。此前安卓用户无法查看或加入iCloud共享相册，Windows版iCloud应用的支持也有限。该功能预计今年秋季随iOS 27和macOS 27更新推出，使苹果照片更接近谷歌照片的体验。",
+              "source_url": "https://www.androidauthority.com/apple-photos-cross-platform-sharing-3675655/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-09T04:43:35+08:00"
+            },
+            {
+              "title": "苹果新Siri相机功能酷似谷歌镜头",
+              "brief": "苹果在WWDC 2026上宣布为相机引入Siri模式，用户可让Siri分析取景器中的内容并作出回应。该功能可识别物体、回答后续问题，甚至通过Apple Cash分摊账单，与谷歌镜头功能相似。Siri模式利用了图像理解和多模态能力，用户点击快门按钮即可触发AI分析。该视觉升级也将扩展到其他苹果设备。",
+              "source_url": "https://www.androidauthority.com/apple-siri-mode-in-camera-3675658/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-09T04:24:57+08:00"
+            },
+            {
+              "title": "Siri的大规模AI升级听起来与谷歌Gemini非常相似",
+              "brief": "苹果在WWDC 2026上宣布了Siri的AI改造，新Siri支持对话式输入，可访问公共互联网和用户Apple账户中的信息。它能跨平台回答问题、响应屏幕内容，并拥有专属Siri应用保存交互记录。此外还新增了写作工具，可基于上下文生成文本。新Siri将首先在iPhone 16及更新机型、iPhone 15 Pro上推出。",
+              "source_url": "https://www.androidauthority.com/apple-siri-ai-wwdc-3675648/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-09T04:14:28+08:00"
+            },
+            {
+              "title": "三星和谷歌在可穿戴设备更新战中不战而胜（更新）",
+              "brief": "苹果在WWDC 2026上公布了watchOS 27的兼容列表，仅支持Apple Watch SE 3、Series 10/11、Ultra 2/3，而Series 6至9、SE 2及初代Ultra被放弃。Series 9仅获两次大版本更新，不如三星承诺的四年和Pixel Watch 2的更新周期。但后来有用户成功安装watchOS 27测试版，表明列表可能不完整。",
+              "source_url": "https://www.androidauthority.com/apple-watchos-27-compatibility-dropped-models-3675643/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-09T04:09:36+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "Meta悄然从其智能眼镜应用中移除面部识别代码",
+              "brief": "Wired报道，Meta在其智能眼镜配套应用中发现一个名为“Name Tag”的面部识别算法代码后，于次日发布更新将其移除。该代码可将人脸照片转换为生物识别标识并存储在设备上，用于交叉比对。此前《纽约时报》曾报道Meta正为眼镜开发面部识别功能，该代码正是相关成果。虽然该工具旨在帮助用户识别曾见过的人，但也引发了隐私担忧。",
+              "source_url": "https://www.engadget.com/2190115/meta-quietly-removes-face-recognition-code-from-its-smart-glasses-app/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-09T06:42:40+08:00"
+            },
+            {
+              "title": "Sam Bankman-Fried正式申请总统赦免",
+              "brief": "FTX前CEO Sam Bankman-Fried在2024年因欺诈被判25年监禁后，已正式提交请愿书，寻求总统赦免。Bloomberg报道，他申请的是“服刑后”赦免，而非减刑。此前他已提起上诉并寻求重审。特朗普政府此前曾赦免币安创始人赵长鹏，但特朗普今年早些时候表示无意赦免Bankman-Fried。",
+              "source_url": "https://www.engadget.com/2190105/sam-bankman-fried-formally-applies-for-a-pardon/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-09T06:19:32+08:00"
+            },
+            {
+              "title": "OpenAI提交SEC文件，计划上市",
+              "brief": "继Anthropic宣布上市计划一周后，OpenAI也向SEC秘密提交了S-1表格，启动IPO流程。公司尚未确定上市日期或发行价。OpenAI最新估值达8520亿美元，年化收入约250亿美元，但预计到2029年将亏损1150亿美元。公司面临来自Anthropic和谷歌等对手的激烈竞争，同时自身也存在诸多障碍。",
+              "source_url": "https://www.engadget.com/2190079/openai-files-sec-paperwork-to-go-public/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-09T05:51:25+08:00"
+            },
+            {
+              "title": "谷歌下调AI Plus套餐价格并翻倍存储空间",
+              "brief": "谷歌将其AI Plus订阅价格从每月8美元降至5美元，存储空间从200GB增至400GB。该套餐于2026年1月推出，提供Gemini 3 Pro模型等高级功能，但使用限制更严格。此次降价还新增了AI邮件工具、每日简报代理和Gemini Omni模型访问权限。现有订阅用户将在未来几天看到存储空间增加和价格更新。",
+              "source_url": "https://www.engadget.com/2190039/google-cuts-the-price-of-its-ai-plus-plan-and-doubles-the-storage/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-09T05:15:27+08:00"
+            },
+            {
+              "title": "苹果将停止支持部分较新的Apple Watch型号",
+              "brief": "苹果WWDC 2026上宣布了watchOS 27，但只有五款设备支持：Apple Watch SE 3、Series 10、Series 11、Ultra 2和Ultra 3。2023年发布的Series 9和2022年的初代Ultra及SE 2被排除在外。这与iOS 27支持iPhone 11等旧机型形成对比，原因可能与Apple Intelligence对硬件的更高要求有关，但Series 9和Ultra 2均搭载S9芯片，却只有后者获得支持，令人困惑。",
+              "source_url": "https://www.engadget.com/2190035/apple-is-dropping-support-for-some-pretty-modern-watch-models/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-09T05:10:53+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "苹果利用AI解决Safari扩展问题",
+              "brief": "苹果正借助AI解决Safari扩展匮乏的弱点。长期以来，Safari因苹果严格的开发要求而缺乏竞争对手那般丰富的扩展库。现在，苹果邀请用户通过“氛围编码”自行创建扩展。在演示中，用户只需描述需求，Safari便会利用苹果智能生成对应扩展，例如一个“食谱保存器”扩展。",
+              "source_url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+              "source_name": "The Verge",
+              "published_at": "2026-06-08T18:14:17-04:00"
+            },
+            {
+              "title": "WWDC上tvOS 27去哪儿了？",
+              "brief": "今年WWDC keynote中，tvOS 27仅在一张快速展示的幻灯片上被简要提及。整个发布会以功能而非操作系统为结构，但macOS、iOS、iPadOS和visionOS均有显著更新，唯独tvOS缺席。这或许是因为苹果需要先推出新款Apple TV硬件来配合新系统。",
+              "source_url": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
+              "source_name": "The Verge",
+              "published_at": "2026-06-08T18:04:42-04:00"
+            },
+            {
+              "title": "苹果新家长控制旨在让苹果免于麻烦",
+              "brief": "苹果在WWDC上扩展了家长控制工具包，包括更精细的屏幕时间管理和阻止暴力图片等功能。这看似帮助家长，实则是在全球互联网监管辩论中的防御性举措，意在应对与Meta等应用开发商的潜在冲突。苹果强调开发者应承担更多责任。",
+              "source_url": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
+              "source_name": "The Verge",
+              "published_at": "2026-06-08T17:48:08-04:00"
+            },
+            {
+              "title": "OpenAI提交IPO申请，紧随Anthropic之后",
+              "brief": "OpenAI于周一秘密向美国证券交易委员会提交了S-1表格，启动IPO流程。此前，竞争对手Anthropic已于6月1日采取相同步骤。此次秘密提交意味着高管薪酬、业务风险等细节暂不公开。Anthropic在最新融资后估值达9650亿美元，成为全球最有价值初创公司。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+              "source_name": "The Verge",
+              "published_at": "2026-06-08T17:38:29-04:00"
+            },
+            {
+              "title": "你可能错过的44项苹果设备新功能",
+              "brief": "苹果在WWDC 2026上发布了iOS 27等新系统，除了重点介绍的AI和Siri，还带来许多小功能。例如，Liquid Glass新增不透明度滑块，应用启动速度提升30%，AirDrop传输速度提升80%。新系统开发者测试版已上线，公测版7月推出，正式版今秋发布。",
+              "source_url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+              "source_name": "The Verge",
+              "published_at": "2026-06-08T16:26:52-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "Xbox Game Pass 在2025年10月涨价后流失数百万订阅用户",
+              "brief": "分析师Matthew Ball在The Game Business的直播中透露，Xbox Game Pass在2025年10月涨价后数月内流失了数百万订阅用户。The Game Awards主持人Geoff Keighley也在社交媒体上分享了这一消息。微软未透露具体流失人数，但“数百万”表明影响显著。2024年2月时，Game Pass拥有至少3400万用户；2025年7月，其收入首次接近50亿美元。然而，2025年10月微软将Xbox Game Pass Ultimate月费从19.99美元大幅提升至29.99美元，涨幅达50%，年费升至120美元。尽管微软承诺带来更多大作如《霍格沃茨之遗》等福利，但用户仍纷纷在社交媒体上宣布取消订阅。目前看来，微软确实感受到了这一冲击。",
+              "source_url": "https://www.ign.com/articles/xbox-game-pass-shed-millions-of-subscribers-following-october-2025-price-hike",
+              "source_name": "IGN",
+              "published_at": "2026-06-09T03:23:26+08:00"
+            },
+            {
+              "title": "《宇宙巨人》全球首周票房仅5400万美元，表现不佳",
+              "brief": "《宇宙巨人》真人电影于6月5日上映，全球首周末票房约5430万美元，远低于《惊声尖笑》的1.055亿美元，排名第二。该片制作成本近2亿美元（不含营销），回本压力巨大。影片由尼古拉斯·加利齐纳主演，烂番茄新鲜度67%，观众评分88%，但观众中66%为男性，40%年龄超过45岁，未能吸引年轻群体。发行方仍持乐观态度。",
+              "source_url": "https://www.ign.com/articles/masters-of-the-universe-struggles-at-the-box-office-with-54-million-debut",
+              "source_name": "IGN",
+              "published_at": "2026-06-09T00:34:11+08:00"
+            },
+            {
+              "title": "官方《光环：战役进化》剧情预告标注“在PS5 Pro上录制”，引发猜测",
+              "brief": "微软发布了《光环：战役进化》的电影式剧情预告，但视频明确标注“在PS5 Pro上录制”。这引发了关于微软为何使用竞争对手平台展示自家旗舰游戏的疑问。有媒体猜测该预告原本为索尼State of Play活动准备。此举反映了微软转向多平台发行的策略变化，以及未来Xbox可能成为PC的潜在趋势。",
+              "source_url": "https://www.ign.com/articles/official-halo-campaign-evolved-cinematic-story-trailer-marked-captured-on-ps5-pro-so-what-happened",
+              "source_name": "IGN",
+              "published_at": "2026-06-09T00:20:46+08:00"
+            },
+            {
+              "title": "苹果WWDC 2026：iOS 27等系统更新发布，注重功能完善",
+              "brief": "苹果在WWDC 2026上发布了iOS 27等系统更新，与去年的大幅设计变革不同，今年更注重现有功能的完善。AI功能如空间重构图引入每日使用限制，用户可通过更高iCloud订阅提升限额。Image Playground和Shortcuts也获得更新，提升了灵活性和易用性。发布会以iPhone拍摄、Mac剪辑的音乐视频结束。",
+              "source_url": "https://www.ign.com/articles/wwdc-2026-everything-announced-at-apples-annual-developers-conference",
+              "source_name": "IGN",
+              "published_at": "2026-06-09T00:19:15+08:00"
+            },
+            {
+              "title": "《蜘蛛侠：崭新的一天》片长曝光，跻身MCU最长电影之一",
+              "brief": "《蜘蛛侠：崭新的一天》片长确定为2小时30分钟，成为MCU最长电影之一，比《蜘蛛侠：英雄无归》还长两分钟。汤姆·霍兰德饰演的彼得·帕克将面临失去梅姨和世界遗忘的孤独处境。霍兰德称该片是“全新篇章的起点”。影片将引入众多角色，为《复仇者联盟：毁灭日》和《秘密战争》做铺垫。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-runtime-revealed-and-its-one-of-the-longest-marvel-films-ever",
+              "source_name": "IGN",
+              "published_at": "2026-06-08T23:48:22+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "肥胖会影响精子质量改变表观遗传标记",
+              "brief": "《Current Obesity Reports》期刊的研究指出，肥胖并非个人选择，其遗传率高达40%-70%，并能通过表观遗传标记代代相传。最新证据表明，肥胖会降低精子质量并改变表观遗传标记，可能影响后代的食欲调节、新陈代谢和长期患病风险。好消息是，通过生活方式改变和减肥，这些变化是可逆转的，能改善精子健康并修正相关表观遗传模式。",
+              "source_url": "https://www.solidot.org/story?sid=84523",
+              "source_name": "Solidot",
+              "published_at": "2026-06-08T20:38:34+08:00"
+            },
+            {
+              "title": "韦伯首次测量早期宇宙休眠黑洞质量",
+              "brief": "天文学家利用韦伯太空望远镜和引力透镜效应，首次测量了早期宇宙中一个休眠黑洞的质量。该黑洞位于MRG-M0138星系中心，星系已停止形成恒星，黑洞也处于休眠状态。MRG-M0138被一个巨大星系团引力透镜放大约30倍，黑洞距地球约100亿光年，质量为太阳的60亿倍。通过结合引力透镜和黑洞引力对恒星运动的影响，科学家确定了其质量。",
+              "source_url": "https://www.solidot.org/story?sid=84522",
+              "source_name": "Solidot",
+              "published_at": "2026-06-08T20:24:37+08:00"
+            },
+            {
+              "title": "平台算法给民主带来风险",
+              "brief": "越来越多证据表明，社交媒体平台算法因不透明、以最大化用户参与度为导向，导致政治极化。例如，马斯克2024年宣布支持特朗普后，X平台倾向共和党的账号曝光度显著提升，其本人推文浏览量达171亿次。2025年德国联邦选举期间，算法向年轻用户推荐的内容中半数涉及极右翼政党，并系统性压制中间政党。研究还发现，用户接受算法推送七周后政治态度变保守，且禁用算法后未逆转。这种放大极端声音的效应扭曲了观点分布，产生“虚假共识效应”，若不加干预，可能导致社会日益极化和分裂。",
+              "source_url": "https://www.solidot.org/story?sid=84521",
+              "source_name": "Solidot",
+              "published_at": "2026-06-08T19:09:05+08:00"
+            },
+            {
+              "title": "GLP-1减肥药与更低的乳腺癌风险相关",
+              "brief": "《JCO Oncology Practice》期刊的一项回顾性研究分析了逾11万名45至80岁女性，发现服用GLP-1减肥药的女性患乳腺癌风险比未服用者低约30%。GLP-1药物模拟天然激素，调节血糖和食欲，最初用于减肥，现发现可能预防癌症。研究人员指出，该药物影响多个与癌症发展相关的靶点和通路，值得进一步研究，但该关联尚需更多证据证实。",
+              "source_url": "https://www.solidot.org/story?sid=84520",
+              "source_name": "Solidot",
+              "published_at": "2026-06-08T18:37:39+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "Windows 11 任务栏和开始菜单将迎来 10 项新功能",
+              "brief": "Windows 11 的任务栏和开始菜单即将迎来 10 项新变化，部分已经向正式版或预览版开放。此次更新主要围绕补回经典自定义能力、减少干扰并提升响应速度，针对此前被删减或常被吐槽的体验进行修补。文中列出的要点包括任务栏重新支持左右停靠与图标对齐、小按钮模式、双蓝牙耳机共享音频、小组件悬停默认关闭、开始菜单分区显示开关、隐藏用户名头像、关闭推荐内容，以及通过 ViveTool 启用低延迟模式来缩短开启时间。",
+              "source_url": "https://www.appinn.com/windows-11-taskbar-start-menu-10-new-features/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-07T16:55:31+08:00"
+            },
+            {
+              "title": "本周 Epic 限免：《征服之歌》等三款游戏免费领",
+              "brief": "本周 Epic Games 送出 2 款桌面游戏和 1 款手机游戏，分别是《征服之歌》《恶棍水域》和《奇巫妙森》。这次限免覆盖回合制策略、海盗题材 Roguelite 战术玩法，以及童话风格的冒险收集作品，类型差异较大。文中介绍称，《征服之歌》偏向《英雄无敌》式城镇经营与战棋战斗，《恶棍水域》结合航海、登船战和成长系统，《奇巫妙森》则以探索、采集、合成和推进故事为核心。",
+              "source_url": "https://www.appinn.com/eggs-2665/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-05T19:29:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "继 Anthropic 之后，OpenAI 也提交美国 IPO 申请",
+              "brief": "OpenAI在Anthropic之后也向美国秘密递交IPO申请，成为AI公司集中冲击资本市场的最新进展。背景是其估值、营收和用户规模持续快速增长，且已与微软重谈合作以拓展新伙伴关系。文中提到其估值达8400亿美元、月营收20亿美元，ChatGPT周活用户超9亿，马斯克相关诉讼裁决也扫清了主要法律障碍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565056.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-09T06:57:18+08:00"
+            },
+            {
+              "title": "改变个人计算史的英特尔 8086 迎来 48 周年",
+              "brief": "英特尔8086迎来诞生48周年，这款原本为应对APX 432项目延期而在约18个月内完成的过渡芯片，被视为改变个人计算史的重要起点。它采用16位架构，可寻址1MB物理内存，并以分段模型兼容早期8位处理器。随后衍生出的8088进入IBM PC，推动x86成为此后数十年PC与服务器的核心平台。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565054.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-09T06:55:19+08:00"
+            },
+            {
+              "title": "苹果发布watchOS 27，集成Siri AI，仅支持Series 10及更新机型",
+              "brief": "苹果在WWDC上发布了watchOS 27，最大亮点是集成由Apple Intelligence驱动的新Siri AI，并新增独立Siri应用，支持对话接续和应用内操作。但Siri AI需等到今年晚些时候测试版推出，且需配对支持Apple Intelligence的设备，暂不在欧盟推出。新系统还引入动态应用网格，由Siri智能推荐应用排列。健康功能方面，Workout Buddy获得更多数据洞察，月经追踪可提示围绝经期特征。此外，Liquid Glass界面优化，新增轻点手势操作。watchOS 27仅支持Apple Watch Series 10及之后机型。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565052.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-09T03:41:40+08:00"
+            },
+            {
+              "title": "美国国防部将阿里巴巴、百度、比亚迪等列入“中国军方支持”企业名单",
+              "brief": "美国国防部更新1260H名单，新增阿里巴巴、百度、比亚迪、优必选等中国科技企业，指控其支持中国军方。该名单曾于今年2月短暂出现后撤下，现重新公布。此前腾讯等已在列，此次新增还包括蔚来、中创新航、亿纬锂能、速腾聚创等汽车产业链公司。名单涵盖188家企业，可能影响投资限制、出口管制等。特朗普政府正考虑是否入股美国顶级AI公司。截至报道时，阿里巴巴、百度、比亚迪等未予置评。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565050.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-09T03:07:45+08:00"
+            },
+            {
+              "title": "苹果新一代Apple Intelligence仅限较新iPhone和Mac设备使用",
+              "brief": "苹果在WWDC上展示新一代Apple Intelligence与Siri AI深度整合，但软件工程高级副总裁Craig Federighi表示，最强大的本地AI模型和功能仅限性能最强的设备，包括iPhone Air、iPhone 17 Pro、搭载M4及后续芯片且内存不低于12GB的iPad，以及搭载M3及后续芯片且内存不低于12GB的Mac。部分依赖云端模型的功能设有每日使用上限，通过iCloud+订阅可获更高配额。苹果未明确具体功能所需硬件，也未公布不同订阅等级的配额差异。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565048.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-09T02:56:25+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "韩国一季度GDP环比增长1.8%，创五年多来最快增速",
+              "brief": "韩国央行公布数据显示，今年一季度实际国内生产总值（GDP）环比增长1.8%，创下自2020年第三季度以来最强劲的季度增长。这一增速比此前预估高出0.1个百分点，主要受强劲出口和稳健内需支撑。该数据表明韩国经济复苏势头良好。",
+              "source_url": "https://36kr.com/newsflashes/3845140749732105?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-09 07:19:26  +0800"
+            },
+            {
+              "title": "赣州和美药业股份有限公司-B递表港交所",
+              "brief": "据港交所文件，赣州和美药业股份有限公司-B已向港交所提交上市申请书，独家保荐人为国投证券国际。该公司是一家专注于药物研发的企业，此次递表标志着其正式启动赴港上市流程。",
+              "source_url": "https://36kr.com/newsflashes/3845139602721027?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-09 07:18:16  +0800"
+            },
+            {
+              "title": "广东真健康医疗科技递表港交所",
+              "brief": "据港交所文件，广东真健康医疗科技开发股份有限公司已向港交所提交上市申请书，联席保荐人为中金公司和星展银行（DBS）。该公司主要从事医疗科技开发业务，此次递表是其推进上市计划的重要步骤。",
+              "source_url": "https://36kr.com/newsflashes/3845138836867337?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-09 07:17:29  +0800"
+            },
+            {
+              "title": "谷歌母公司Alphabet委托英特尔生产300万颗自研芯片",
+              "brief": "据报道，谷歌母公司Alphabet已向英特尔下单，委托其生产超过300万个张量处理单元（TPU），预计于2028年完成。此举表明谷歌正加大自研芯片力度，并选择英特尔作为代工合作伙伴，以增强其AI计算能力。",
+              "source_url": "https://36kr.com/newsflashes/3845138437736707?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-09 07:17:05  +0800"
+            },
+            {
+              "title": "苹果发布macOS新版本“Golden Gate”",
+              "brief": "苹果在全球开发者大会上公布了全新macOS版本——macOS Golden Gate。苹果表示，新版本系统动画更流畅，多项功能运行速度提升，其中iPhone和iPad应用启动速度提升高达30%，照片显示速度提升70%，隔空投送速度提升80%，云端硬盘传输速度提升5倍，且所有能运行iOS26的iPhone均适配。",
+              "source_url": "https://36kr.com/newsflashes/3845138025842946?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-09 07:16:40  +0800"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
