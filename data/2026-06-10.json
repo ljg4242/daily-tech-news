@@ -1,0 +1,295 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T06:56:51.348296+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "Anthropic 推出 Claude Fable 5，其首个公开 Mythos 级模型",
+              "brief": "Anthropic 发布了 Claude Fable 5，这是其首个面向公众的 Mythos 级模型，据称性能超越此前所有公开发布模型。该模型在软件工程、知识工作、视觉和科学研究等任务上表现卓越，尤其擅长处理更长、更复杂的任务，并能比以往任何 Claude 模型更长时间地自主工作。为防范滥用，Anthropic 为 Fable 5 设置了保守的安全措施，涉及网络安全、化学和生物学等敏感领域的查询将自动转由 Opus 4.8 回答，预计平均触发率低于 5%。同时，Anthropic 还通过 Project Glasswing 向少数网络防御和基础设施提供商发布了 Claude Mythos 5，该模型基于 Fable 5 但放宽了部分限制，被描述为全球网络安全能力最强的模型。Fable 5 和 Mythos 5 的定价为每百万输入 token 10 美元、每百万输出 token 50 美元，低于 Mythos 预览版的一半。Mythos 5 对 Mythos 预览版用户开放，其中包括苹果公司。Claude Fable 5 将从即日起至 6 月 22 日包含在 Pro、Max、Team 和企业版套餐中，之后需使用积分。",
+              "source_url": "https://www.macrumors.com/2026/06/09/anthropic-fable-5/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-10T06:08:37+08:00"
+            },
+            {
+              "title": "Telegram 推出原生 Apple Watch 应用",
+              "brief": "即时通讯应用 Telegram 现已推出原生 Apple Watch 应用，支持在手表上查看和回复消息，并可发送贴纸、语音消息和位置信息。Telegram 曾在 2015 年提供过 Apple Watch 应用，但数年前已下架。此后虽有第三方应用，但如今用户再次获得了官方解决方案。",
+              "source_url": "https://www.macrumors.com/2026/06/09/telegram-apple-watch-app/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-10T05:37:31+08:00"
+            },
+            {
+              "title": "macOS Golden Gate 中 Liquid Glass 的所有变化",
+              "brief": "苹果在 macOS Golden Gate 中对 Liquid Glass 设计进行了多项调整，以回应此前在 macOS Tahoe 中收到的批评，包括对比度、可读性、圆角及设计一致性等问题。新增的 Liquid Glass 滑块允许用户调节透明度和扩散程度，但最清晰的设置仍不及 WWDC 2025 展示的原版。工具栏统一化，窗口圆角减小，侧边栏不再浮动，同时通过侧边栏设计、透明度更新和窗口阴影变化，更容易判断窗口是否处于活动状态。这些改进旨在让 Liquid Glass 在 Mac 上更易用。",
+              "source_url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-10T03:11:35+08:00"
+            },
+            {
+              "title": "苹果发布AirPods新版测试固件，支持iOS 27功能",
+              "brief": "苹果今日为AirPods 4、AirPods Pro 2和AirPods Pro 3发布了新的测试版固件，版本号为9A5292e，目前仅限开发者使用。在iOS 27、iPadOS 27和macOS Golden Gate中，苹果新增了AirPods界面和自定义均衡器支持，AirPods还兼容新版Siri AI。此前在iOS 26等系统中，苹果已添加了通过AirPods设置界面安装测试版固件的选项，方便开发者进行测试。",
+              "source_url": "https://www.macrumors.com/2026/06/09/airpods-ios-27-beta-firmware/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-10T02:31:33+08:00"
+            },
+            {
+              "title": "苹果称iOS 27为iPhone带来这12项新功能",
+              "brief": "苹果在新闻稿中概述了iOS 27的多项增强功能。核心是更智能、更个性化的Siri，此外还包括Apple Maps的AI增强Flyover体验、美国地区的本地列表功能、Find My中可自定义时长分享位置、基于Apple Cash和Apple Intelligence的账单拆分功能、以及通过相机扫描实体卡创建Apple Wallet自定义凭证等。这些功能旨在提升用户体验，覆盖地图、查找、支付等多个方面。",
+              "source_url": "https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-10T00:47:47+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "WWDC26：观看苹果今年平台状况联盟的简短回顾",
+              "brief": "苹果发布了WWDC26平台状况联盟的5分钟回顾视频，重点介绍了与谷歌合作重建的Apple Intelligence架构、新的Core AI框架以及扩展的App Intents支持。该视频还涵盖了Liquid Glass设计、SwiftUI改进和Xcode 27的智能编码更新。开发者可观看完整演示或快速了解关键亮点。",
+              "source_url": "https://9to5mac.com/2026/06/09/wwdc26-watch-apples-short-recap-of-this-years-platforms-state-of-the-union/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-10T06:46:45+08:00"
+            },
+            {
+              "title": "Philips Hue智能灯现可实时响应体育赛事",
+              "brief": "Signify宣布为Philips Hue推出Sports Live功能，智能灯能根据实时比赛数据（如进球、红黄牌）自动触发灯光效果，营造沉浸式观赛体验。用户可选择支持球队，无需额外硬件。该功能在2026年世界杯前夕上线，并已集成到Philips Hue iPhone应用中。",
+              "source_url": "https://9to5mac.com/2026/06/09/philips-hue-smart-lights-will-soon-be-able-to-react-to-live-sports-events-in-real-time/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-10T06:29:07+08:00"
+            },
+            {
+              "title": "Telegram推出完全原生的Apple Watch应用，支持消息、GIF和视频",
+              "brief": "Telegram CEO Pavel Durov宣布推出完全原生的Apple Watch应用。用户首次启动时需扫描iPhone上的二维码登录，之后可访问联系人、对话，并支持GIF和视频播放、语音和文本消息、位置共享等功能。该应用距离Telegram首次支持Apple Watch已超过10年。",
+              "source_url": "https://9to5mac.com/2026/06/09/telegram-launches-fully-native-apple-watch-app-with-messages-gifs-video-and-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-10T06:11:24+08:00"
+            },
+            {
+              "title": "macOS 27 Golden Gate为超宽显示器增加更高分辨率支持",
+              "brief": "macOS 27 Golden Gate扩展了超宽显示器的分辨率支持，例如可在21:9比例下实现5K@120Hz。此前Mac已支持5K@120Hz标准16:9分辨率，但超宽显示器仅限较低分辨率和刷新率。新系统还改进了显示排列记忆功能，预计今年秋季正式发布。",
+              "source_url": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-adds-higher-resolution-support-for-ultrawide-displays/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-10T05:37:12+08:00"
+            },
+            {
+              "title": "macOS 27 Golden Gate 中 Safari 的所有新功能",
+              "brief": "macOS 27 Golden Gate 中的 Safari 引入了多项新功能。自动标签页分组利用 Apple Intelligence 根据主题自动整理标签页，可保存为标签页组或一键关闭。通知功能允许用户设置条件，在页面内容变化时接收提醒，支持自然语言描述关注点。描述扩展功能让用户用自然语言描述所需扩展，Safari 自动生成。此外，还新增了类似 iOS 的下拉刷新手势。",
+              "source_url": "https://9to5mac.com/2026/06/09/heres-everything-new-coming-to-safari-on-macos-27-golden-gate/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-10T04:39:54+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Verizon 称这些 Pixel Watch 型号即将获得 Wear OS 7 更新",
+              "brief": "Verizon 发布了 Pixel Watch 2、3 和 4 的 Wear OS 7 更新日志，版本号均为 CP2A.260603.001，包含 2026 年 6 月安全补丁和性能改进。该更新将带来实时更新、小部件重新设计、媒体播放器更新和第三方应用锻炼追踪等新功能。尽管更新日志显示今日发布，但谷歌尚未确认，预计更新即将推送。初代 Pixel Watch 可能不会获得此更新。",
+              "source_url": "https://9to5google.com/2026/06/09/verizon-says-these-pixel-watch-models-are-about-to-get-wear-os-7/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-10T04:25:00+08:00"
+            },
+            {
+              "title": "Google One 可能是我最有价值的技术订阅——感谢 AI，但也不全靠它",
+              "brief": "Google One 的 AI 订阅计划（AI Plus 每月 4.99 美元起）不仅提供 Gemini 高级功能，还包含更多云存储空间，例如 AI Plus 提供 400GB 存储。作者认为，相比其他 AI 订阅，Google One 的价值在于存储与 AI 的结合，使其成为科技领域最划算的交易之一。",
+              "source_url": "https://9to5google.com/2026/06/09/google-one-best-subscription-value-ai/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-10T04:00:00+08:00"
+            },
+            {
+              "title": "Claude Mythos 公开，新 Fable 5 模型“可安全用于一般用途”",
+              "brief": "Anthropic 发布了 Claude Fable 5 模型，声称其“可安全用于一般用途”。Fable 5 属于“Mythos 级”模型，在软件工程、知识工作、视觉、科学研究等几乎所有测试基准上均达到最先进水平，任务越复杂其领先优势越大。此前 Mythos 的安全担忧主要围绕网络安全，而 Fable 5 已内置防护措施，若遇到不允许交互的话题，Claude Opus 4.8 将介入对话。Anthropic 表示该机制设置得“保守”，可能比预期更频繁触发。同时，Claude Mythos 5 将以相同模型提供给“一小群网络防御者和基础设施提供商”，但在某些领域解除防护，并通过 Project Glasswing 与美国政府合作部署。",
+              "source_url": "https://9to5google.com/2026/06/09/anthropic-claude-mythos-fable-5-model-release/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-10T01:50:00+08:00"
+            },
+            {
+              "title": "Google 与 Paris Hilton 合作展示 Android 和 AI 应用构建",
+              "brief": "Google 宣布与 Paris Hilton 合作，展示 Android 和 Google AI 工具（尤其是应用构建工具）的实际能力。Hilton 自称“隐藏的极客”，多年使用 Android 手机（摩托罗拉）。首个合作成果是“Iconic Ideas”，一个基于 Gemini Canvas 的项目，让用户利用 AI 创建粉红闪亮的工具，用于整理灵感、待办事项等。Google 在宣传页面展示了搭载 Android 的 Razr Fold 手机，并演示了 Circle to Search、Gemini Canvas 以及 Gemini 的 Omni 和 Nano Banana 创意工具。",
+              "source_url": "https://9to5google.com/2026/06/09/google-teams-up-with-paris-hilton-to-showcase-android-and-ai-app-building/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-10T01:40:00+08:00"
+            },
+            {
+              "title": "Google 今夏免费开放 AI Mode Pro 视觉效果，并公布 2026 年世界杯 Gemini 工具",
+              "brief": "为迎接 2026 年世界杯，Google 对搜索应用、AI Mode 和 Gemini 进行了一系列更新。直播体育排行榜页面经过重新设计，便于同时关注多场比赛，并新增 FIFA 品牌栏显示其他比赛及播出时间。AI Mode 中引入更复杂的交互式视觉效果，用户可询问战术问题并得到直观图示，该功能使用 Pro 模型，但 Google 表示今夏将免费开放。此外，实时比分动画将展示进球、胜利庆祝和红牌等场景。",
+              "source_url": "https://9to5google.com/2026/06/09/google-ai-mode-pro-visuals-free-during-2026-world-cup/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-10T01:20:43+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "派拉蒙律师称Netflix试图“毒害监管机构”反对华纳兄弟探索合并",
+              "brief": "派拉蒙Skydance指控Netflix对其收购华纳兄弟探索（WBD）的计划发起了一场“焦土运动”。派拉蒙首席法务官Makan Delrahim在致美国司法部反垄断部门的信中称，Netflix试图影响利益相关方反对该交易。此前，国际卡车司机兄弟会致信司法部，认为合并将威胁影视工作者就业，要求阻止合并除非有充分保障。派拉蒙回应称合并不会减少工作机会，并指责Netflix的恐慌反应暴露了其对派拉蒙作为竞争对手的忌惮。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-10T04:15:45+08:00"
+            },
+            {
+              "title": "Anthropic称其Fable 5模型拒绝讨论某些危险话题",
+              "brief": "Anthropic发布了首个“神话级”模型Claude Fable 5，性能超越前代Opus模型。但该模型设置了安全护栏，拒绝回答网络安全、生物学和化学等领域的查询，以防被恶意利用。Fable 5与更强大的Mythos 5基于相同底层模型，但仅对经过Project Glasswing认证的少数网络防御者开放。Anthropic表示这些安全措施比理想情况更严格，可能偶尔拒绝无害请求，但旨在降低风险。",
+              "source_url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-10T03:20:25+08:00"
+            },
+            {
+              "title": "谷歌发布Gemini 3.5 Live Translate实现即时语音翻译",
+              "brief": "谷歌推出Gemini 3.5 Live Translate，这是一款语音到语音的翻译模型，支持70多种语言，延迟极低，能跟上正常对话节奏。该模型不仅翻译内容，还能保留说话者的语调、语速和音高，使合成语音更自然。它已集成到谷歌生态系统多个部分，包括Google Meet和Gemini Live API。谷歌强调翻译过程使用SynthID水印确保安全，防止伪造。开发者即日起可通过公开预览进行测试。",
+              "source_url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-10T02:57:25+08:00"
+            },
+            {
+              "title": "NASA公布阿尔忒弥斯三号任务乘组，设定激进时间表",
+              "brief": "美国宇航局在休斯顿约翰逊航天中心公布了阿尔忒弥斯三号任务的四名乘员，该任务计划最早于2027年夏季发射，为期约两周。这是低地球轨道试飞，猎户座飞船将与月球着陆器原型对接。乘组包括指令长兰迪·布雷斯尼克、飞行员卢卡·帕尔米塔诺、任务专家安德烈·道格拉斯和弗兰克·鲁比奥，均为有军事背景的男性。该任务旨在降低登月风险，作为阿尔忒弥斯二号绕月飞行与四号登月之间的桥梁。",
+              "source_url": "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-10T02:42:19+08:00"
+            },
+            {
+              "title": "美国再现螺旋蝇：人类感染风险低，但幼虫可钻透头骨",
+              "brief": "美国农业部报告新增三例螺旋蝇感染病例，使总数达到五例，其中四例在得克萨斯州的小牛身上，一例在新墨西哥州的狗身上。螺旋蝇幼虫以活组织为食，可破坏肌肉、软骨和骨骼，甚至钻透头骨，引发严重感染和死亡。虽然人类病例远少于牲畜，但一旦发生同样严重。该虫害已突破控制屏障重新在美国出现，对畜牧业构成巨大经济威胁。",
+              "source_url": "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-10T01:09:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "Anthropic 将发布其过于危险的 AI 黑客工具——有所限制",
+              "brief": "Anthropic 宣布推出其最强大的两个模型：Claude Fable 5 和 Claude Mythos 5。此前 Anthropic 曾担忧 Mythos 模型在发现软件漏洞方面过于强大，可能被滥用。现在，该公司决定将模型拆分为两个版本：Mythos 5 供安全研究人员发现漏洞，而面向公众的 Fable 5 则设有防护措施以防止黑客攻击。两个模型都展示了处理高度复杂分析任务的先进能力。",
+              "source_url": "https://www.androidauthority.com/claude-mythos-5-3676051/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-10T05:01:44+08:00"
+            },
+            {
+              "title": "Google 翻译和 Meet 获得重大语言翻译升级",
+              "brief": "Google 宣布发布 Gemini 3.5 Live Translate，这是其最新的实时语音到语音翻译模型。该模型能自动检测超过 70 种语言，并生成自然流畅的翻译，保持说话者的语调、节奏和音高。与逐轮翻译不同，它可以持续生成翻译语音。该模型将在今年晚些时候为 Google Meet 提供支持，使会议中的语言组合超过 2000 种，并已开始在 Android 和 iOS 的 Translate 应用中全球推出。",
+              "source_url": "https://www.androidauthority.com/google-translate-meet-live-translation-3676026/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-10T04:45:21+08:00"
+            },
+            {
+              "title": "谷歌搜索AI模式将免费向所有用户开放交互式图表功能",
+              "brief": "谷歌宣布，搜索中的AI模式将允许用户根据问题生成交互式视觉图表，例如询问足球阵型时，可生成可调整的图示以帮助理解。该功能最初仅面向AI Mode Pro和Ultra订阅用户，但谷歌计划今年夏天免费向所有搜索用户开放。这项更新旨在通过视觉辅助提升学习体验，用户还可以在图表下方获取更深入的文字信息。",
+              "source_url": "https://www.androidauthority.com/google-search-ai-mode-interactive-images-3676002/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-10T02:53:44+08:00"
+            },
+            {
+              "title": "YouTube Shorts的“不喜欢”按钮消失？原因在此",
+              "brief": "YouTube正在对Shorts进行一项实验，将点赞按钮替换为心形按钮，并将“不喜欢”按钮移至三点菜单中。用户发现侧边按钮栏中不再显示“不喜欢”，但并未完全移除，而是被隐藏到菜单内。此举引发部分用户不满，认为YouTube在隐藏负面反馈。此前YouTube曾因类似实验移除了视频的“不喜欢”计数。",
+              "source_url": "https://www.androidauthority.com/youtube-shorts-heart-button-test-3675982/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-10T01:53:56+08:00"
+            },
+            {
+              "title": "调查显示，仍有大量用户青睐两年前的三星Galaxy S24 Ultra",
+              "brief": "Moto G Stylus (2026) 售价上涨至500美元，与多款手机竞争。在一项关于最佳替代品的投票中，2024年发布的Galaxy S24 Ultra以27%的得票率获胜，远超第二名Pixel 10a（20%）。尽管S24 Ultra已发布两年，但其配置全面超越新款G Stylus，且支持蓝牙手写笔和更长的软件更新周期。",
+              "source_url": "https://www.androidauthority.com/moto-g-stylus-2026-survey-results-3675965/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-10T00:39:07+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "通用汽车电动车将支持更多公共充电桩",
+              "brief": "通用汽车宣布推出Energy Pass，这是一个统一的公共充电接口，支持特斯拉、Electrify America和IONNA等多家充电站，未来还将加入EVgo和ChargePoint。此举旨在让通用电动车用户能使用美国现有充电网络的更大比例，并通过单一应用轻松查找和支付充电费用。同时，通用还推出固件更新，为车辆到家庭系统提供完整的车辆到电网功能，使电动车能在停电时充当备用发电机。",
+              "source_url": "https://www.engadget.com/2190840/gms-evs-will-soon-support-more-kinds-of-public-chargers/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-10T05:00:00+08:00"
+            },
+            {
+              "title": "Anthropic推出Fable AI，将未发布Mythos模型能力带给普通用户",
+              "brief": "Anthropic发布新模型系列Fable，将旗舰模型Mythos的许多能力带给公众。Mythos是Anthropic于4月初通过Project Glasswing推出的先进模型，仅与苹果、英伟达等合作伙伴共享，用于抵御AI网络攻击。Fable 5在软件工程、药物设计、文档分析等任务上表现优异，在Anthropic测试中超越了之前旗舰Opus 4.8以及GPT-5.5和Gemini 3.1 Pro，尤其在视觉等以往模型表现不佳的领域有所突破。",
+              "source_url": "https://www.engadget.com/2190934/anthropic-fable-ai-brings-the-capabilities-of-its-unreleased-mythos-model-to-regular-users/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-10T04:23:39+08:00"
+            },
+            {
+              "title": "Opera最新安卓更新包含足球中心和刷新起始页",
+              "brief": "Opera发布安卓浏览器新版本，包含刷新设计的起始页和足球中心功能。足球中心提供实时比分、统计数据及比赛通知，用户可关注喜欢的球队获取关键事件提醒，该功能也适用于Opera Mini。起始页新增天气小部件，可实时显示天气状况，默认提供快速切换隐私浏览或进入AI模式的快捷方式，速度拨号图标支持方形、圆形或圆角方形。",
+              "source_url": "https://www.engadget.com/2190728/operas-latest-android-update-includes-a-soccer-hub-and-a-refreshed-start-page/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-10T01:41:52+08:00"
+            },
+            {
+              "title": "Marshall Stockwell III便携音箱单次充电续航超40小时",
+              "brief": "Marshall发布Stockwell III便携蓝牙音箱，电池续航从上一代的20小时翻倍至超过40小时。该音箱采用True Stereophonic技术提供360度音频，并具备动态响度算法以平衡各音量下的低中高频。外观类似吉他放大器，配备PU皮革背带和天鹅绒衬里，黄铜控制面板可控制曲目切换、预设和音频调节。具备IP55防尘防水等级，多个组件可模块化更换，重量不到3磅，售价250美元。",
+              "source_url": "https://www.engadget.com/2190716/marshalls-stockwell-iii-portable-speaker-offers-more-than-40-hours-of-use-per-charge/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-10T01:37:27+08:00"
+            },
+            {
+              "title": "《王国之心IV》在任天堂直面会上惊喜发布预告片",
+              "brief": "Square Enix在任天堂直面会上发布了《王国之心IV》的新预告片，距离首次曝光已超过四年。预告片展示了索拉在奎德拉姆市战斗的场景，包含新角色和经典角色高飞、唐老鸭的回归。游戏将登陆任天堂Switch 2、PS5、Xbox Series X|S和PC，但尚未公布发售日期。同时，《王国之心合集》将于10月8日发布，包含前三部主线游戏的多版本，同样登陆上述平台。",
+              "source_url": "https://www.engadget.com/2190645/kingdom-hearts-iv-gets-a-surprise-nintendo-direct-trailer-drop/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-10T00:54:07+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "通用汽车认为电动车可通过车网技术帮助抵消人工智能的能源消耗",
+              "brief": "通用汽车在旧金山活动中宣布，激活现有电动车和家庭能源客户的车网功能，发布基于钠离子电池的商用储能系统，并推出简化公共充电的新功能。随着人工智能数据中心电力需求激增，汽车制造商希望利用数十万辆电动车电池的能源来稳定电网。",
+              "source_url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+              "source_name": "The Verge",
+              "published_at": "2026-06-09T17:00:00-04:00"
+            },
+            {
+              "title": "微软人工智能负责人批评Anthropic表现得好像Claude有意识",
+              "brief": "微软AI首席执行官穆斯塔法·苏莱曼在Decoder节目中表示，Anthropic在其Claude的“宪法”中推测意识是“非常非常危险的”。他认为这种推测可能导致聊天机器人表现得仿佛有意识，而人类不应面对一个对自己痛苦有想法的超级智能。",
+              "source_url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+              "source_name": "The Verge",
+              "published_at": "2026-06-09T16:24:25-04:00"
+            },
+            {
+              "title": "任天堂过于保守",
+              "brief": "在周二的Nintendo Direct发布会上，任天堂展示了一些画面精美的游戏，但缺乏新意。随着Switch 2进入第二个假日季且价格上涨，此次本应是吸引新用户的好机会，但两款主要的Switch 2独占游戏都是N64时代的重制版，包括最终公布的《塞尔达传说：时之笛》重制版。",
+              "source_url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
+              "source_name": "The Verge",
+              "published_at": "2026-06-09T15:01:04-04:00"
+            },
+            {
+              "title": "Fitbit Charge 6和Ace LTE现已降价至与新推出的100美元Air同价",
+              "brief": "Fitbit Charge 6、无屏幕的Air和儿童款Ace目前售价均为100美元，让消费者根据需求选择。Charge 6在亚马逊、百思买和Target降价50美元，Ace LTE降价80美元，新Air原价100美元。三款设备价格相同但功能各异。",
+              "source_url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-09T13:35:51-04:00"
+            },
+            {
+              "title": "苹果希望欧洲让步",
+              "brief": "苹果将Siri AI在欧洲的延迟归咎于《数字市场法案》（DMA），但欧盟表示没有任何因素阻止苹果推出该功能。苹果在WWDC上展示了AI的实用性，但欧洲用户暂时无法使用，双方就监管问题陷入僵局。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-06-09T13:13:14-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": []
+    }
+  ]
+}
