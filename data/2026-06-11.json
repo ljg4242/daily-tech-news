@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T03:26:22.197347+08:00",
+  "generated_at": "2026-06-11T08:57:33.625042+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果公布iOS 27、macOS Golden Gate等超过250项变更的完整列表",
+              "brief": "苹果在WWDC 2026主题演讲中展示了一张包含数百项新功能的幻灯片，随后公布了iOS 27、macOS 27 Golden Gate、watchOS 27、tvOS 27和visionOS 27中超过250项变更的分类列表。这些软件更新目前以开发者测试版形式提供，预计将于9月向所有用户推送。列表涵盖iPhone与iPad的增强功能，如双设备切换、动态岛实时活动、超大尺寸小组件，以及iPadOS的独立闹钟音量、更流畅的滚动体验等。",
+              "source_url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-11T04:34:00+08:00"
+            },
+            {
+              "title": "上手体验iOS 27的Siri AI",
+              "brief": "更智能的Siri已在iOS 27、iPadOS 27和macOS Golden Gate中向开发者开放测试。新版Siri具备个人上下文理解能力，可访问iPhone上的邮件、消息、照片和文件，并重建了搜索索引以提供更全面的搜索体验。Siri支持屏幕感知，能回答关于当前显示内容的问题；相机应用集成视觉智能，可识别拍摄对象。此外，Siri能够跨应用执行操作，如规划多目的地路线、编辑照片或撰写邮件。Siri现位于灵动岛，激活时显示彩色玻璃气泡，用户可通过语音、侧边按钮或从屏幕顶部向下滑动唤醒。",
+              "source_url": "https://www.macrumors.com/2026/06/10/ios-27-siri-ai-hands-on/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-11T03:48:12+08:00"
+            },
             {
               "title": "iOS 27 引入新“轻点分享”功能，但欧盟地区不可用",
               "brief": "iOS 27 推出“轻点分享”功能，允许商家通过 NFC 轻触客户 iPhone 来交换数据，适用于小企业主和市集摊贩等场景。该功能是现有“轻点支付”的扩展，后者使商家无需额外硬件即可接受非接触式支付。在“轻点支付”会话中，商家现在可分享会员注册信息、提供收货地址或电子邮箱用于收据、添加或分享 Apple Wallet 凭证、查看购物车以及通过 Apple Pay 收款。该功能要求 iPhone 12 或更新机型，目前不在欧洲经济区（包括欧盟各国及冰岛、列支敦士登、挪威）提供，苹果未说明原因或给出未来可用时间。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/10/the-macrumors-show-siri-ai-wwdc-2026/",
               "source_name": "MacRumors",
               "published_at": "2026-06-11T00:41:00+08:00"
-            },
-            {
-              "title": "AirPods Pro 3降至新低价179美元",
-              "brief": "亚马逊今日将AirPods Pro 3售价降至179.00美元，原价249.00美元，创下历史新低，比之前的低价低20美元。该型号于2025年9月发布，主动降噪效果是上一代的两倍，音质更好，佩戴更舒适稳定，支持面对面实时翻译和锻炼心率检测。",
-              "source_url": "https://www.macrumors.com/2026/06/10/airpods-pro-3-low-price-of-179/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-10T23:20:00+08:00"
-            },
-            {
-              "title": "iOS 27中Liquid Glass的变革",
-              "brief": "苹果本周详细介绍了对Liquid Glass的一系列改进，包括可读性、个性化、侧边栏行为和应用图标。这些更改基于去年推出后收到的反馈，调整了Liquid Glass的构建基础。核心更新是调整材料对背后内容的处理方式，以更好地扩散复杂内容，提高可读性。新增的暗色边缘和更亮的镜面高光增加了深度和视觉分离。用户可通过设置中的新透明度滑块，在超清晰到完全着色之间调整玻璃效果。应用无需重新编译即可自动获得改进。Liquid Glass还适应减少透明度和增加对比度等辅助功能。滚动内容时，统一的工具栏保持文本清晰。图标渲染更清晰、更明确，并可选择性应用新的折射功能。",
-              "source_url": "https://www.macrumors.com/2026/06/10/how-liquid-glass-is-changing-in-ios-27/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-10T23:17:00+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "iPhone 18 Pro：三项新功能可能让你想升级",
-              "brief": "苹果在iOS 27中为屏幕使用时间和家长控制带来了期待已久的升级。这一更新旨在加强设备管理功能，帮助用户更好地控制使用时长。关键细节包括更精细的应用限制设置、跨设备同步的屏幕时间报告，以及简化的家长控制界面。",
-              "source_url": "https://9to5mac.com/2026/06/10/iphone-18-pro-three-new-features-might-make-you-want-to-upgrade/",
+              "title": "评测：Comulytic Note Pro 现已成为我任何会议的官方助手",
+              "brief": "Comulytic Note Pro 经过评测被作者视为会议必备工具。该设备或应用在记录、整理会议内容方面表现出色，成为日常工作的高效辅助。关键细节包括其易用性、功能完整性以及与现有工作流程的无缝集成。",
+              "source_url": "https://9to5mac.com/2026/06/10/review-comulytic-note-pro-is-now-my-official-sidekick-for-any-meeting/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-11T02:51:24+08:00"
+              "published_at": "2026-06-11T08:03:05+08:00"
             },
             {
-              "title": "iOS 27为FaceTime带来重大升级：一项强大的新功能",
-              "brief": "苹果在iOS 27中为FaceTime引入了强大的新功能，显著提升了视频通话体验。该功能可能包括实时字幕、增强的屏幕共享或空间音频优化。此次升级旨在缩小与竞争对手的差距，并进一步整合苹果生态系统的优势。",
-              "source_url": "https://9to5mac.com/2026/06/10/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
+              "title": "适合工作等多用途的完美27英寸Mac显示器[视频]",
+              "brief": "苹果在iOS 27中对屏幕使用时间和家长控制进行了长期以来的重大升级。Zac Hall于2026年6月10日报道。",
+              "source_url": "https://9to5mac.com/2026/06/10/the-perfect-27-in-mac-focused-monitor-for-work-and-more-video/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-11T02:18:32+08:00"
+              "published_at": "2026-06-11T06:30:00+08:00"
             },
             {
-              "title": "iOS 27打破了iPhone和iPad上15年的操作习惯",
-              "brief": "iOS 27对用户界面进行了重大调整，改变了iPhone和iPad上延续15年的肌肉记忆操作方式。例如，控制中心、多任务处理或主屏幕交互逻辑可能被重新设计。这一变化旨在提升效率，但用户需要时间适应新的手势和布局。",
-              "source_url": "https://9to5mac.com/2026/06/10/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
+              "title": "9to5Mac每日播报：2026年6月10日——iOS 27中的CarPlay，watchOS 27功能",
+              "brief": "苹果在iOS 27中对屏幕使用时间和家长控制进行了长期以来的重大升级。Zac Hall于2026年6月10日报道。",
+              "source_url": "https://9to5mac.com/2026/06/10/daily-june-10-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-11T01:26:09+08:00"
+              "published_at": "2026-06-11T06:16:06+08:00"
             },
             {
-              "title": "iOS 27 中 Apple Notes 的所有新功能",
-              "brief": "苹果在 iOS 27 中对屏幕使用时间和家长控制进行了期待已久的升级。该更新为 Notes 应用带来了多项新功能，包括更强大的笔记组织工具和改进的协作能力。用户现在可以更高效地管理笔记，并享受更流畅的跨设备同步体验。",
-              "source_url": "https://9to5mac.com/2026/06/10/heres-everything-new-for-apple-notes-in-ios-27/",
+              "title": "Jon Prosser寻求再次回应苹果的液态玻璃泄露诉讼",
+              "brief": "苹果在iOS 27中对屏幕使用时间和家长控制进行了长期以来的重大升级。Zac Hall于2026年6月10日报道。",
+              "source_url": "https://9to5mac.com/2026/06/10/jon-prosser-seeks-another-shot-to-respond-to-apples-liquid-glass-leak-lawsuit/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-11T01:04:41+08:00"
+              "published_at": "2026-06-11T05:55:26+08:00"
             },
             {
-              "title": "Pocket Casts 在最新播客播放器更新中采用 Liquid Glass 设计",
-              "brief": "Pocket Casts 播客应用在最新更新中采用了苹果的 Liquid Glass 设计语言。该设计此前已应用于 Apple Music 等系统应用，此次更新使 Pocket Casts 界面更具现代感和一致性，包括半透明效果和动态模糊等视觉元素。用户现可更新应用体验新界面。",
-              "source_url": "https://9to5mac.com/2026/06/10/pocket-casts-adopts-liquid-glass-design-in-latest-podcast-player-app-update/",
+              "title": "在此下载新的iOS 27和iPadOS 27壁纸",
+              "brief": "苹果在iOS 27中对屏幕使用时间和家长控制进行了长期以来的重大升级。Zac Hall于2026年6月10日报道。",
+              "source_url": "https://9to5mac.com/2026/06/10/download-the-new-ios-27-and-ipados-27-wallpapers-here/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-11T00:00:03+08:00"
+              "published_at": "2026-06-11T05:25:17+08:00"
             }
           ]
         },
@@ -89,39 +89,39 @@
           "name": "9to5Google",
           "articles": [
             {
-              "title": "Starlink取消硬件购买选项，改为租赁并提高部分套餐价格",
-              "brief": "Starlink宣布上调住宅和漫游套餐价格，每月涨幅5至10美元。住宅100Mbps套餐从50美元涨至55美元，住宅Max从120美元涨至130美元，漫游无限套餐从165美元涨至175美元。同时，Starlink网站已移除住宅套餐的硬件购买选项，仅提供按月租赁方式，硬件月费100美元起。公司称涨价源于覆盖范围扩大和需求增长。此前用户可花499美元购买卫星终端，或通过签约12个月计划免费获得。Starlink Mini终端仍可购买，硬件199美元起，月费55美元起。",
-              "source_url": "https://9to5google.com/2026/06/10/starlink-drops-purchase-option-raises-prices-for-some-plans/",
+              "title": "HeyPolo：Surfshark团队推出的隐私优先家庭安全与位置共享应用",
+              "brief": "Surfshark团队推出HeyPolo，一款隐私优先的家庭安全应用，旨在解决位置共享应用中的隐私问题。HeyPolo支持限时共享位置，家庭成员可设定特定重复时间或一次性共享，默认非持续追踪。用户还可按人或群组自定义精确位置、大致区域或私密模式。应用包含智能通知、紧急访问和驾驶追踪功能，所有追踪均基于同意。",
+              "source_url": "https://9to5google.com/2026/06/10/heypolo-family-location-sharing-app-surfshark/",
               "source_name": "9to5Google",
-              "published_at": "2026-06-11T00:57:59+08:00"
+              "published_at": "2026-06-11T06:30:00+08:00"
             },
             {
-              "title": "部分Chromecast with Google TV遥控器出现连接故障",
-              "brief": "近期大量用户报告Chromecast with Google TV遥控器无法保持连接，需要重新配对或重置才能恢复。该问题间歇性出现，但严重影响使用。用户只能通过手机Google TV应用虚拟遥控或电视HDMI CEC功能临时操作。谷歌尚未承认此问题，但仍在积极支持该设备软件，有望推出修复。",
-              "source_url": "https://9to5google.com/2026/06/10/chromecast-with-google-tv-remotes-are-failing-for-some-users/",
+              "title": "Android 17 QPR1 Beta 4 新增功能一览",
+              "brief": "Google发布了Android 17 QPR1 Beta 4，为Pixel设备带来多项更新。新功能包括屏幕录制时前置摄像头支持、键盘快速设置磁贴等。然而，从Android Canary 2606引入的扩展动态色彩主题选项未包含在内，且部分间距调整被还原。该版本还修复了多个问题，如鼠标指针在外部显示器上不可见、设置应用崩溃、截图音量耦合、5倍变焦视频抖动等。",
+              "source_url": "https://9to5google.com/2026/06/10/android-17-qpr1-beta-4-everything-new/",
               "source_name": "9to5Google",
-              "published_at": "2026-06-11T00:40:00+08:00"
+              "published_at": "2026-06-11T04:44:06+08:00"
             },
             {
-              "title": "LineageOS 23评测：无AI的纯净安卓替代体验",
-              "brief": "LineageOS 23基于Android 16，主打无AI干扰，提供纯净的安卓体验。由于谷歌转向季度AOSP发布，LineageOS更新周期延长至六个月。新版本采用Material 3 Expressive设计语言，图标更大、色彩更丰富。用户可选择安装或不安装谷歌服务，以增强隐私保护。评测显示，该版本性能提升，适合老设备焕新。",
-              "source_url": "https://9to5google.com/2026/06/10/lineageos-23-review/",
+              "title": "Google为Pixel设备发布Android 17 QPR1 Beta 4",
+              "brief": "Google发布了Android 17 QPR1 Beta 4，适用于Pixel 6a及更新机型，但不包括Pixel 6和Pixel 6 Pro。此更新基于2026年5月安全补丁，修复了多个问题，包括鼠标指针在外部显示器上不可见、设置应用崩溃、截图音量与铃声耦合、5倍变焦视频抖动、返回手势在锁定屏幕失效、3D性能下降、无线ADB连接失败等。用户可通过Android Beta Program获取OTA更新。",
+              "source_url": "https://9to5google.com/2026/06/10/android-17-qpr1-beta-4-pixel/",
               "source_name": "9to5Google",
-              "published_at": "2026-06-11T00:30:00+08:00"
+              "published_at": "2026-06-11T04:22:08+08:00"
             },
             {
-              "title": "Gemini应用新增Google商家资料集成与Business笔记本功能",
-              "brief": "谷歌宣布Gemini应用将集成Google商家资料，商家可访问评论、客户问答和业绩数据，通过AI获取建议和内容。例如，可询问“本月业务如何”，Gemini分析搜索印象、路线请求等数据；或要求回复评论，生成符合品牌语调的回复。同时推出Business笔记本，用于整理商家资料和网站信息，支持分析趋势、生成创意资产，并提供主动提醒和定制建议。",
-              "source_url": "https://9to5google.com/2026/06/10/gemini-google-business-profile/",
+              "title": "YouTube推出新应用内消息功能，支持邀请式聊天",
+              "brief": "YouTube开始向美国、英国、巴西和新加坡用户推出新的应用内消息功能。该功能允许用户通过邀请链接（有效期为7天）与朋友和家人进行一对一聊天，专注于视频分享。用户可在分享视频时选择联系人，并支持撤回消息、屏蔽用户和举报对话。仅限18岁以上用户使用，社区准则适用于所有内容。此前YouTube在2019年移除了消息功能，此次重新引入是用户强烈要求的结果。",
+              "source_url": "https://9to5google.com/2026/06/10/youtube-new-messaging-chat/",
               "source_name": "9to5Google",
-              "published_at": "2026-06-11T00:01:37+08:00"
+              "published_at": "2026-06-11T04:00:00+08:00"
             },
             {
-              "title": "YouTube Music在安卓和iOS上重新设计，将搜索移至底部栏",
-              "brief": "YouTube Music更新后，底部栏的“探索”标签被“搜索”取代，方便单手操作。点击搜索图标直接弹出键盘，保留语音和歌曲搜索功能。搜索结果页展示最近查询和“你可能喜欢”推荐，以及之前探索页的新发行、排行榜、心情与流派、播客等内容。该更新在iOS 9.22和安卓9.21版本中广泛推送，若未看到可强制停止应用。",
-              "source_url": "https://9to5google.com/2026/06/10/youtube-music-search-bottom-bar-wide/",
+              "title": "部分用户遭遇Gemini应用部分中断",
+              "brief": "Gemini应用出现部分中断，影响网页版、Android、iOS、macOS及Chrome中的Gemini。用户遇到错误代码1099或1076，或输入提示后无响应。Google副总裁Josh Woodward确认中断，并表示正在修复。中断始于太平洋时间凌晨3:30左右，上午10:31已部分修复。",
+              "source_url": "https://9to5google.com/2026/06/10/gemini-outage-partial/",
               "source_name": "9to5Google",
-              "published_at": "2026-06-10T23:45:00+08:00"
+              "published_at": "2026-06-11T01:36:38+08:00"
             }
           ]
         },
@@ -228,6 +228,46 @@
               "source_url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
               "source_name": "The Verge",
               "published_at": "2026-06-10T12:18:45-04:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "糖尿病组织就驱逐批评特朗普的科学家道歉",
+              "brief": "美国糖尿病协会负责人发布视频道歉，此前该协会在年度会议上强行驱逐了五名顶尖糖尿病科学家，原因是他们分发了一份批评特朗普政府破坏生物医学研究的社论。该社论发表于协会自己的期刊《糖尿病护理》，合著者包括期刊主编史蒂文·卡恩。科学家们在开幕式外分发时被警察护送出场，至少一人被推搡，会议徽章被没收。",
+              "source_url": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-11T06:16:57+08:00"
+            },
+            {
+              "title": "男子起诉佛罗里达警方因面部识别“93%匹配”错误逮捕",
+              "brief": "罗伯特·狄龙起诉佛罗里达警方，称其依赖有缺陷的面部识别匹配并隐瞒无罪证据，导致他于2024年8月因涉嫌引诱儿童被捕。面部识别系统将麦当劳监控录像中的嫌疑人标记为与狄龙93%匹配，但狄龙住在距事发地300多英里外的迈尔斯堡，车牌读取器数据库也显示他当时不在该区域。诉讼指出警方使用低质量图像进行比对，并忽视能证明他清白的证据。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-11T05:30:44+08:00"
+            },
+            {
+              "title": "罗技推出可折叠鼠标，专为不愿携带鼠标的用户设计",
+              "brief": "罗技发布售价80美元的Mobi Fold蓝牙鼠标，采用硅胶包裹铰链设计，折叠后便于携带。该鼠标支持400-4000 DPI，旨在解决专业人士在公共场所使用笔记本电脑触控板时手腕不适的问题。罗技调查显示72%的专业人士拥有鼠标，但仅26%在公共场所使用。尽管便携性提升，但作者认为其他便携鼠标在舒适度上更胜一筹。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-11T03:57:56+08:00"
+            },
+            {
+              "title": "谷歌DeepMind发布DiffusionGemma，本地AI运行速度提升4倍",
+              "brief": "谷歌DeepMind推出DiffusionGemma，一种基于扩散模型的全新文本生成AI，可并行生成整个文本块，而非逐个token线性输出。该模型为Gemma 4开放模型系列成员，总参数260亿，推理时仅激活38亿，适合高端GPU本地运行。在RTX 5090上每秒生成约700个token，在H100上超过1000个，速度约为同等规模自回归模型的4倍。",
+              "source_url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-11T03:29:21+08:00"
+            },
+            {
+              "title": "我们挖掘出阿尔忒弥斯III任务的一些有趣细节",
+              "brief": "NASA宣布阿尔忒弥斯III任务宇航员名单，计划不早于2027年夏季发射。任务期间，宇航员将在近地轨道与蓝色起源和SpaceX的星舰着陆器分别对接。阿耳忒弥斯项目经理杰里米·帕森斯接受采访透露，SLS火箭移动发射器在阿尔忒弥斯II后状态良好，助推器已准备堆叠，发射台修复工作完成90%以上。",
+              "source_url": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-11T01:31:13+08:00"
             }
           ]
         }
