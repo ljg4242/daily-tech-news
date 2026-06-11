@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T13:13:17.018891+08:00",
+  "generated_at": "2026-06-11T15:17:41.244705+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "DiffusionGemma是谷歌最快的AI模型，但有一个大权衡",
+              "brief": "谷歌发布了实验性AI模型DiffusionGemma，它采用与传统逐词生成不同的方式：一次性生成整段文本，然后通过多次迭代精炼直至可读。该模型通过并行处理实现高速，在NVIDIA H100上可达每秒1000+ tokens，RTX 5090上约700 tokens，速度提升高达4倍。然而，输出质量仍不及Gemma 4，因此更像是一个实验工具而非成品。模型以Apache 2.0许可证开源，面向开发者和研究人员。",
+              "source_url": "https://www.androidauthority.com/google-diffusiongemma-3676609/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-11T14:16:46+08:00"
+            },
+            {
+              "title": "YouTube将私信功能扩展至更多国家，包括美国",
+              "brief": "YouTube宣布将应用内私信和视频分享功能扩展至9个新国家，包括美国、巴西、英国和新加坡，使支持国家总数达到40个。该功能面向18岁及以上、登录YouTube频道的用户，可通过视频和Shorts的“分享”选项或右上角的“消息”图标发起对话。私信支持撤销发送、删除对话、屏蔽频道和举报对话等安全和隐私功能。此举是YouTube去年开始的实验性功能的进一步扩展。",
+              "source_url": "https://www.androidauthority.com/youtube-direct-messaging-expand-us-3676612/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-11T13:21:45+08:00"
+            },
+            {
               "title": "Ring双摄像头户外安防套装在亚马逊早期促销中降价50%",
               "brief": "Ring将Floodlight Cam Plus和Spotlight Cam Plus Plug-In捆绑销售，原价299.99美元，现价149.99美元，降幅达50%。该套装包含两台1080p高清摄像头，分别适用于大范围户外区域和小型盲区，支持双向通话、动作警报、可定制侦测区域。Floodlight Cam Plus配备两个2000流明动作激活泛光灯和远程警报器；Spotlight Cam Plus采用USB-C电源适配器，适合小范围监控。所有摄像头支持Alexa，可在Echo和Fire TV设备上显示画面并播报动作。该套装用户评分4.7星，是覆盖多种户外空间的划算选择。",
               "source_url": "https://www.androidauthority.com/ring-floodlight-cam-plus-bundle-deal-3675992/",
@@ -148,26 +162,19 @@
               "source_url": "https://www.androidauthority.com/ai-overviews-errors-3676591/",
               "source_name": "Android Authority",
               "published_at": "2026-06-11T05:50:44+08:00"
-            },
-            {
-              "title": "联想ThinkTab X11坚固型平板在美国上市",
-              "brief": "联想ThinkTab X11坚固型Android平板现已在美国上市，售价499.99美元起。该平板具备MIL-STD-810H认证和IP68防护等级，可应对磕碰和灰尘。其最大特色是电池可轻松拆卸，无需工具，并支持无电池模式，适用于固定或车载场景。配置包括10.95英寸2.5K屏幕、骁龙7s Gen 3处理器、8GB内存、最高256GB存储，以及600尼特亮度、Wi-Fi 6E、NFC和双USB-C接口，预装Android 16。",
-              "source_url": "https://www.androidauthority.com/lenovo-thinktab-x11-on-sale-3676566/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-11T05:05:15+08:00"
-            },
-            {
-              "title": "Android 17 QPR1 Beta 4发布，修复多项错误",
-              "brief": "谷歌发布Android 17 QPR1 Beta 4，距离Beta 3约三周。此次更新专注于修复错误，未提及新功能。修复内容包括：外接显示器鼠标指针消失、从隐私空间启动凭据提供程序时设置崩溃、截图声音与铃声音量耦合、5倍变焦视频录制帧跳、锁屏背面轻点手势失效、图形驱动程序回归等问题。Pixel 6和6 Pro暂不支持，但下个Beta将回归。",
-              "source_url": "https://www.androidauthority.com/android-17-qpr1-beta-4-3676575/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-11T04:59:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "OpenAI称来自中国的虚假账号试图煽动美国人反对数据中心",
+              "brief": "OpenAI发布报告，指出有疑似来自中国的用户利用ChatGPT策划影响美国人对AI数据中心看法的行动。这些用户被分为两个集群，其中“数据中心跟风”群组要求ChatGPT生成英文宣传要点和漫画，强调数据中心推高电力需求和消费者账单。他们冒充不同背景的美国人在社交媒体上发布内容，甚至上传描述目标和策略的文件。OpenAI认为这些用户是服务于地方政府客户的私营中国公司社交媒体团队。该群体还针对海外华人，生成侮辱性言论骚扰异见人士，并鼓动公众人物批评美国政策失败。虽然使用了虚假账号，但他们也引用了关于电网容量拍卖和数据中心电力需求的合法新闻报道。",
+              "source_url": "https://www.engadget.com/2191966/openai-china-influence-campaigns-against-data-centers-report/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-11T14:33:26+08:00"
+            },
             {
               "title": "Windows 11 六月更新带来低延迟模式，体验略有改善",
               "brief": "微软在最新的 Windows 11 补丁星期二更新中引入了低延迟模式，通过让 CPU 在用户点击系统元素或应用时立即提升至最高频率，从而加快启动速度。该更新还修复了数百个漏洞，并改进了搜索和开始菜单。低延迟模式默认不开启，用户可在任务管理器中检查是否启用。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.engadget.com/2191795/valve-will-stop-producing-physical-steam-gift-cards-because-of-scammers/",
               "source_name": "Engadget",
               "published_at": "2026-06-11T04:17:55+08:00"
-            },
-            {
-              "title": "《神鬼寓言》深度演示视频展示生活模拟系统",
-              "brief": "Xbox 发布了《神鬼寓言》的深度玩法视频，重点展示了“活态人口系统”，其中包含超过 1000 个拥有独立性格和日常生活的 NPC。玩家可与 NPC 交友、雇佣、恋爱或结仇，选择会影响声誉和对话分支。游戏将于 2026 年 2 月 23 日登陆 Xbox Series X/S、PS5 和 PC。",
-              "source_url": "https://www.engadget.com/2191776/a-fable-deep-dive-video-shows-off-the-rpgs-compelling-life-sim-system/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-11T04:02:10+08:00"
             }
           ]
         },
@@ -374,6 +374,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "macOS 27 淘汰 AFP，41年历史的苹果文件共享协议终结",
+              "brief": "苹果在 macOS 27 测试版中移除了 AFP 客户端支持，标志着拥有 41 年历史的 Apple Filing Protocol 被彻底淘汰。AFP 诞生于 1985 年，曾为 Mac 提供文件共享服务，后因 SMB 成为主流而逐渐边缘化。2013 年苹果将 SMB2 设为默认协议，2020 年移除 AFP 服务器功能，如今客户端也被移除，苹果文件共享全面转向 SMB。",
+              "source_url": "https://www.appinn.com/macos-27-remove-afp/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-11T13:40:31+08:00"
+            },
+            {
               "title": "Windows 11正式上线低延迟配置文件，显著提升系统响应速度",
               "brief": "微软在2026年6月9日的补丁星期二更新中，正式为Windows 11推出了低延迟配置文件（Low Latency Profile）功能。该功能通过短时间内拉高CPU频率来减少系统延迟，从而明显提高系统响应速度，使Windows 11更流畅。此前该功能已在开发者预览频道测试，并获得了肉眼可见的性能提升。目前，该功能通过受控功能推出系统逐步推广至所有设备，用户需更新至OS内部版本26200.8655或26100.8655以上，并可在按下开始按钮时观察CPU频率是否短暂升高来确认是否已启用。",
               "source_url": "https://www.appinn.com/windows-11-low-latency-profile/",
@@ -386,39 +393,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "SpaceX上市前被起诉：前工程师因提出AI安全担忧被解雇",
-              "brief": "前SpaceX工程师德文·金在参与开发xAI聊天机器人Grok期间，多次批评公司未优先考虑AI安全问题，认为Grok可能煽动歧视并助长大规模杀伤性武器信息传播，后被解雇。他作为举报人提起诉讼，指控xAI在AI安全方面存在违法行为，涉及互联网监管、消费者保护等领域。Grok此前因仇恨言论等问题备受批评。SpaceX和xAI尚未回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565372.htm",
+              "title": "加拿大立法拟禁止16岁以下未成年人使用社交媒体并强化AI聊天机器人监管",
+              "brief": "加拿大提出《数字安全法》，拟禁止16岁以下未成年人使用社交媒体，并加强对AI聊天机器人的监管。该法案旨在应对社交媒体和AI聊天机器人对儿童心理健康的负面影响，如焦虑、孤立和抑郁。法案要求平台和AI聊天机器人承担更多责任，违者面临高额罚款。背景是澳大利亚等国已实施类似禁令，以及加拿大一起大规模枪击案遇难者家属起诉OpenAI，指控其知情未报。法案需约一年通过议会，数字监管机构筹建还需18个月。Meta和Google表示愿意合作，X和Snapchat未回应。学界认为该法案范围超过澳大利亚法律，旨在推动社交媒体生态的“再设计”，但总理卡尼的微弱多数和夏季休会期给法案推进带来不确定性。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565424.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T12:57:20+08:00"
+              "published_at": "2026-06-11T14:03:28+08:00"
             },
             {
-              "title": "Kakao员工要求加薪 经理人：三星加薪案例教会了其他韩企",
-              "brief": "约600名Kakao工会成员发起罢工，要求改善奖金制度、调整薪酬结构并推动透明激励机制。员工认为公司增长放缓后，奖金缩水且薪酬调整不透明，导致“梦想职场”滤镜破裂。分析指出，三星加薪案例促使员工更直接地要求物质回报和规则透明。此次罢工反映了韩国科技行业在增长红利期结束后，企业与员工之间分配机制的矛盾。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565370.htm",
+              "title": "美国司法部宣布查封13个据称涉中国情报活动的网站域名",
+              "brief": "美国司法部查封13个域名，指控其被中国情报部门用于针对美国官员的虚假招聘和咨询活动。哥伦比亚特区联邦检察官表示，此举释放明确信号，打击通过网络平台实施的情报搜集。行动在“五眼联盟”联合警告一周后公布，警告指出中国利用招聘平台锁定敏感信息持有者。中国驻美大使馆驳斥指控为捏造和恶意污蔑。此前有报道称类似网络试图招募被解雇的联邦雇员。FBI曾发布短片警示“虚拟间谍活动”，案例涉及前CIA官员因向中国提供机密被判刑。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565422.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T12:56:59+08:00"
+              "published_at": "2026-06-11T14:02:38+08:00"
             },
             {
-              "title": "“百亿补贴”并非真百亿 淘宝天猫、京东、拼多多、抖音、小红书被约谈",
-              "brief": "淘宝天猫、京东、拼多多、抖音、小红书等平台因“百亿补贴”存在虚假宣传及非理性大额补贴问题被约谈。监管部门指出，补贴扭曲市场价格机制，部分平台要求商家全额承担补贴，导致商家陷入不降价没流量、降价就亏损的困境，利润空间被严重挤压。同时，平台单方免除非不可抗力情形下的责任，加重了消费者风险。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565368.htm",
+              "title": "微软放宽本地AI限制，RTX 30系列显卡PC也能运行Windows 11语言模型",
+              "brief": "微软更新说明，允许非Copilot+ PC通过GPU运行Windows 11本地语言模型API，条件为RTX 30系列及以上显卡且显存至少6GB。此前本地AI功能仅限搭载NPU的Copilot+ PC，此次调整将本地语言模型能力扩展到更多设备。开发者可调用Windows.AI.Text接口实现文本格式化、摘要、改写等功能，计算在本地完成，提升隐私保护。但Recall等部分AI功能仍限Copilot+ PC。此举削弱了Copilot+ PC的独家卖点，引发外界对微软未来是否全面取消NPU门槛的猜测。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565420.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T12:52:25+08:00"
+              "published_at": "2026-06-11T13:59:02+08:00"
             },
             {
-              "title": "极兔速递被国家邮政局立案调查 港股跌超8%",
-              "brief": "极兔速递因涉嫌违反快递服务相关法规被国家邮政局立案调查，消息公布后港股股价跌超8%，成交额超2.95亿港元。目前调查具体原因尚未披露，但立案行动引发市场对极兔运营合规性的担忧。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565366.htm",
+              "title": "苹果为新一代Siri AI加入“去人格化”提示：强调自身仅为软件、不具备情感与身份属性",
+              "brief": "苹果为新一代Siri加入系统提示，强调其“只是软件”，没有情感、身份或个人历史，旨在防止拟人化回答引发争议。新版Siri深度整合Apple Intelligence，具备场景感知能力，能跨应用操作，如从照片识别内容并关联联系人。系统引入“编排器”协调本地和云端处理，本地模型参数达200亿，云端结合英伟达GPU加密和苹果Private Compute协议保护隐私。苹果在提示中还列出了Siri可调用的原生应用工具，使Siri从问答机器人演变为调度中枢。此举在增强功能的同时控制风险，保持品牌安全感和中立形象。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565418.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T12:51:35+08:00"
+              "published_at": "2026-06-11T13:56:13+08:00"
             },
             {
-              "title": "“电梯一吻”亲掉230多亿 黄仁勋的“中国搭子”塌房了？",
-              "brief": "胜宏科技董事长陈涛被曝与女网红在电梯内亲密接吻的视频，导致公司股价单日下跌7.11%，市值缩水超230亿元。陈涛夫妇为广东惠州首富，胜宏科技是全球AI算力PCB龙头。公司总裁回应称网传消息不完全属实，已报警处理。深交所已关注此事，但公司是否需发布公告仍待评估。股价随后有所回升，但事件持续发酵。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565364.htm",
+              "title": "AMD称下一代Zen 6服务器CPU每机架性能可达英伟达Vera的3.3倍",
+              "brief": "AMD发布性能预估，称基于Zen 6架构的Epyc Venice服务器CPU每机架性能可达英伟达Vera的3.3倍。Venice采用2nm工艺，最多256核512线程，相比前代Turin性能提升约70%。AMD引用此前英伟达Vera的基准测试结果，在统一假设下进行机架级推算，认为Venice在每核心性能上也领先Vera约27%。Venice已量产，计划今年晚些时候发布。同时，AMD预告下一代AI专用CPU“Verano”将采用Zen 7架构和台积电A14工艺，但未官方确认。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565416.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T12:48:10+08:00"
+              "published_at": "2026-06-11T13:53:59+08:00"
             }
           ]
         },
@@ -426,39 +433,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "极兔回应被立案调查：高度重视，全面整改",
-              "brief": "国家邮政局依法对极兔速递立案调查，极兔中国回应称高度重视、诚恳接受，将全力配合调查。极兔表示，安全生产是不可逾越的红线，深刻反思在对部分使用其品牌的企业落实安全保障统一管理责任方面存在差距，将全面整改。",
-              "source_url": "https://36kr.com/newsflashes/3848307627136005?f=rss",
+              "title": "港交所刘颖：自2018年推出18A章以来，已有90家生物科技公司在港上市",
+              "brief": "港交所董事总经理刘颖透露，自2018年推出18A章以来，已有90家生物科技公司在港上市，累计募资1429亿港元。其中2025年有17家上市，2026年前五个月再添6家。此外，为特专科技公司设立的18C章上市机制也逐步活跃，2024年及2025年分别有3家和5家企业通过该机制上市，2026年前五个月已有10家公司通过18C机制上市，行业涵盖AI、机器人和自动驾驶等领域。",
+              "source_url": "https://36kr.com/newsflashes/3848431884735490?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-11 13:00:57  +0800"
+              "published_at": "2026-06-11 15:07:21  +0800"
             },
             {
-              "title": "惠科股份在成都成立半导体研发公司",
-              "brief": "天眼查显示，成都惠芯半导体研发有限公司成立，注册资本1亿元，由惠科股份全资持股。公司经营范围包括光电子器件制造与销售、电子专用材料制造等，法定代表人为卢集晖。此举标志着惠科在半导体研发领域的进一步布局。",
-              "source_url": "https://36kr.com/newsflashes/3848297676903680?f=rss",
+              "title": "比亚迪腾势在成都成立新汽车销售公司，注册资本100万",
+              "brief": "天眼查App显示，近日，成都腾势星元汽车销售有限公司成立，法定代表人为李暄，注册资本100万人民币。该公司经营范围包括汽车销售、新能源汽车整车销售、汽车零配件零售等，由腾势汽车销售服务有限公司全资持股。此举标志着腾势品牌在西南市场的销售网络进一步拓展。",
+              "source_url": "https://36kr.com/newsflashes/3848416760550400?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-11 12:50:50  +0800"
+              "published_at": "2026-06-11 15:05:52  +0800"
             },
             {
-              "title": "Omdia：第一季度半导体市场营收突破3000亿美元",
-              "brief": "Omdia最新研究显示，2026年第一季度半导体营收环比增长27%，达3190亿美元。存储器营收是主要驱动力，环比增幅超80%。预计第二季度将延续强劲增长，环比增速虽可能放缓，但仍有望超过20%。",
-              "source_url": "https://36kr.com/newsflashes/3848289916196100?f=rss",
+              "title": "A股三大指数集体收跌，全市场超4000股下跌",
+              "brief": "6月11日，A股三大指数集体收跌，沪指跌0.16%，深成指跌0.68%，创业板指跌1.13%。盘面上，工业气体、半导体板块领涨，江丰电子、华特气体涨停，中船特气、中巨芯逼近涨停；AI应用、工程机械板块走弱，引力传媒、横店影视跌停，荣新文化、捷成股份跌超10%，徐工机械、杭叉集团跌超4%。全市场超4000只个股下跌，市场整体表现疲弱。",
+              "source_url": "https://36kr.com/newsflashes/3848426581562370?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-11 12:42:56  +0800"
+              "published_at": "2026-06-11 15:01:57  +0800"
             },
             {
-              "title": "多家品牌金饰价格较昨日下跌近40元/克",
-              "brief": "今日国内黄金饰品价格普遍下跌，多家品牌金饰较昨日跌近40元/克，报1236-1240元/克。其中周大福报价1238元/克，周生生1240元/克，老庙黄金1238元/克。金价波动受国际市场及供需因素影响。",
-              "source_url": "https://36kr.com/newsflashes/3848277444596737?f=rss",
+              "title": "百度爱采购发布AI经营助手“生意搭子”",
+              "brief": "百度爱采购正式发布AI经营助手“生意搭子”。该产品面向企业经营场景，围绕内容生产、商品运营、商机管理及经营分析等核心环节构建能力体系，旨在通过AI帮助商家降低运营门槛、提升经营效率。生意搭子将企业日常经营中分散、重复的工作进行智能化整合，使商家能更高效地完成内容发布、市场洞察及经营管理等工作。",
+              "source_url": "https://36kr.com/newsflashes/3848410549163269?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-11 12:30:15  +0800"
+              "published_at": "2026-06-11 14:51:17  +0800"
             },
             {
-              "title": "康方生物：董事会批准动用最多200百万港元回购股份",
-              "brief": "康方生物公告，董事会批准动用最多200万港元在公开市场购买公司普通股，由2021年受限制股份单位计划受托人执行。董事会认为当前股价未反映内在价值及业务前景，回购时机良好。此举旨在提升股东价值。",
-              "source_url": "https://36kr.com/newsflashes/3848269486298121?f=rss",
+              "title": "SK海力士多家设备供应商提出涨价要求",
+              "brief": "近期，SK海力士多家设备一级供应商提出涨价要求，供货价格涨幅在3%-4%。SK海力士已要求这些供应商提交依据材料以评估涨价申请。业内人士指出，原材料和零部件供应商因成本波动涨价较为常见，但设备厂商也提出涨价则较为少见。此举可能反映上游成本压力正在向半导体设备领域传导。",
+              "source_url": "https://36kr.com/newsflashes/3848402848175112?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-11 12:22:09  +0800"
+              "published_at": "2026-06-11 14:48:45  +0800"
             }
           ]
         },
@@ -466,39 +473,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "凯越450R摩托车上市：轻量化四缸街车，24777元",
-              "brief": "凯越450R摩托车正式上市，售价24777元。该车搭载443cc自研直列四缸水冷发动机，最大功率48kW，最大扭矩40N·m，零百加速4.2秒，极速205km/h。整备质量仅165kg，配备新手保护模式，前500km限速140km/h，并拥有5英寸全彩TFT仪表、蓝牙互联、导航投屏等功能。",
-              "source_url": "https://www.ithome.com/0/962/840.htm",
+              "title": "荣耀 MagicOS 10.0.0.160 版本今晚推送，覆盖 Magic5/6 等系列",
+              "brief": "荣耀宣布今晚开始推送 MagicOS 10.0.0.160 版本，覆盖 Magic Vs3、Magic V2、Magic Vs2、Magic Vs、Magic V Flip2、Magic V Flip、400 系列、300 系列、200 系列、100 系列、90GT、GT、Power2、Power、X70、X70i、X60GT 等机型。用户可通过设置 > 系统和更新 > 软件更新 > 升级尝鲜获取。此次更新带来 YOYO 排队码提醒、YOYO AI 创作、灵动胶囊赛事比分和驾车导航、锁屏小组件世界时钟等功能。",
+              "source_url": "https://www.ithome.com/0/962/900.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T13:07:08+08:00"
+              "published_at": "2026-06-11T15:04:46+08:00"
             },
             {
-              "title": "极兔速递回应被立案调查：成立专项工作组全面整改",
-              "brief": "因安全生产管理缺位，国家邮政局对极兔速递立案调查。极兔中国回应称高度重视，已成立专项工作组，由安全负责人牵头，开展隐患排查整治，承诺压实统一管理责任、聚焦关键环节闭环整改、加强一线人员安全保障。此前，使用极兔商标的企业多发生产安全事故。",
-              "source_url": "https://www.ithome.com/0/962/839.htm",
+              "title": "联想旗下 FCNT 推出 arrows We3 手机：天玑 6300、4G+64G 售 33000 日元",
+              "brief": "联想旗下 FCNT 发布 arrows We3 手机，搭载联发科天玑 6300 处理器，配备 4GB RAM 和 64GB 存储，内置 5000mAh 电池。屏幕为 120Hz TFT LCD 面板，峰值亮度 1000 尼特，后置 50.3MP 主摄，前置 8MP 自拍镜头，采用 USB-C 2.0 接口。机身支持 IPX6/IPX8/IPX9 防水和 IP6X 防尘，售价 33000 日元。",
+              "source_url": "https://www.ithome.com/0/962/899.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T13:00:53+08:00"
+              "published_at": "2026-06-11T15:04:14+08:00"
             },
             {
-              "title": "空头大师质疑SpaceX IPO：估值1.75万亿美元缺乏基本面支撑",
-              "brief": "知名空头投资者查诺斯质疑SpaceX的IPO估值，认为其1.75万亿美元估值缺乏财务基本面支撑，更多受马斯克个人魅力和AI热潮推动。SpaceX计划融资750亿美元，但当前营收仅190亿美元，自由现金流仍为负。查诺斯表示，基于合理假设，该公司不值这个价。",
-              "source_url": "https://www.ithome.com/0/962/838.htm",
+              "title": "微软重构 Mac 版 OneDrive：同步速度提升 2 倍，简化隐藏缓存文件",
+              "brief": "微软重构 Mac 版 OneDrive，采用原生同步架构深度整合 macOS，同步速度提升 2 倍，同时减少 CPU 和内存占用。新版本弃用旧引擎创建的隐藏缓存文件夹，大幅简化其功能，仅存储未上传文件、链接型文件和系统相关包，即使数百个文件也只占用几 MB。此外，更新解锁外置硬盘支持，可将 OneDrive 文件夹存储于可移动硬盘。该更新正面向 Microsoft 365 Insider 渠道分批推送。",
+              "source_url": "https://www.ithome.com/0/962/898.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T12:39:44+08:00"
+              "published_at": "2026-06-11T15:03:05+08:00"
             },
             {
-              "title": "Omdia：第一季度存储器市场营收几乎翻倍，创历史新高",
-              "brief": "Omdia报告显示，2026年第一季度存储器市场营收环比增长27%，创历史最高纪录，DRAM和NAND营收几乎翻倍。AI需求强劲导致平均售价大涨，NAND营收接近480亿美元，环比增长96%。存储器占半导体营收比重超40%，远超长期平均水平。预计第二季度存储器市场将继续强劲增长。",
-              "source_url": "https://www.ithome.com/0/962/837.htm",
+              "title": "联力展示 DK-B 电脑桌：隐藏式桌下机箱设计，支持电动高度调节",
+              "brief": "联力在 COMPUTEX 2026 展示 DK-B 电脑桌，采用隐藏式桌下机箱设计，支持电动高度调节和高度记忆功能。桌面可安装 8.8 英寸副屏单元、显示器支臂和洞洞板配件，旨在提供整洁的桌面布局和灵活的设备扩展。",
+              "source_url": "https://www.ithome.com/0/962/897.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T12:33:33+08:00"
+              "published_at": "2026-06-11T15:02:31+08:00"
             },
             {
-              "title": "台积电CFO：通胀带来成本压力，不排除调升晶圆代工价格",
-              "brief": "台积电CFO黄仁昭表示，通胀带来成本压力，不排除调升晶圆代工价格。面对AI芯片需求激增，台积电正竭力满足订单，并快速提升前后端产能。对于AI泡沫质疑，黄仁昭称台积电与云服务商交流后，相信客户财力足以支撑持续投资，对AI大趋势有坚定信念。",
-              "source_url": "https://www.ithome.com/0/962/835.htm",
+              "title": "峰飞 V2000CG 获印尼型号认可证，成全球首款获海外适航认证 eVTOL",
+              "brief": "峰飞航空 V2000CG eVTOL 获得印尼民航局颁发的型号认可证（VTC），成为全球首款获得海外适航认证的 eVTOL。该认证证明其设计符合中国和印尼的适航标准，为在印尼商业运营铺平道路。V2000CG 最大起飞重量 2000 公斤，巡航速度 200 公里/小时，续航 200 公里，采用复合翼构型和纯电驱动，可垂直起降，适用于生鲜、药品等货物的跨岛运输。",
+              "source_url": "https://www.ithome.com/0/962/896.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T12:17:39+08:00"
+              "published_at": "2026-06-11T15:00:27+08:00"
             }
           ]
         },
@@ -506,39 +513,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "微软因数据保留政策限制员工使用Claude Fable 5模型",
-              "brief": "微软已限制内部员工使用Anthropic的Claude Fable 5模型，原因是该模型的数据保留政策要求所有输入输出数据被保留30天，用于安全分析，甚至可能存储长达2年。微软法务团队担忧客户数据和内部机密泄露，正在评估政策影响。目前员工仍可使用其他Claude模型。此举可能影响企业对该模型的采用率。",
-              "source_url": "https://www.landian.news/archives/113434.html",
+              "title": "小米开源发布MiMo Code编码工具，基于OpenCode构建，限时免费使用MiMo V2.5模型",
+              "brief": "小米MiMo人工智能团队开源发布MiMo Code v0.1版，这是一款基于OpenCode构建的命令行编码工具，采用MIT协议开源。该工具针对长程自动化编码任务设计，能在多步骤编码中保持决策质量和状态连续性。作为首发活动，小米限时免费提供MiMo V2.5模型。工具支持自动加载Claude Code现有技能、MCP服务器和命令，复用API配置，并内置语音输入模型。",
+              "source_url": "https://www.landian.news/archives/113439.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-11T12:00:31+08:00"
+              "published_at": "2026-06-11T15:00:34+08:00"
             },
             {
-              "title": "iOS 27新增WiFi协议类型显示，帮助用户识别WiFi 5/6/7",
-              "brief": "苹果在iOS 27中为WiFi连接详情页添加了协议类型显示，例如“无线局域网6”并标注802.11ax，帮助用户判断当前连接的WiFi协议是5、6还是7。这有助于用户排查路由器设置问题，例如若支持WiFi 7却显示WiFi 6，可检查配置。但macOS 27未同步此功能。",
-              "source_url": "https://www.landian.news/archives/113433.html",
+              "title": "华尔街日报称OpenAI考虑大幅降低Token价格与Anthropic打价格战，抢夺企业客户",
+              "brief": "针对企业客户对AI使用成本高昂的抱怨，OpenAI正认真考虑大幅降低Token价格，以从Anthropic手中抢夺企业用户。Anthropic估值已达9650亿美元，超过OpenAI的8520亿美元，且在企业市场竞争力强劲。OpenAI计划明年上市，因此需要更多企业客户和更高营收。降价计划仍在讨论中，尚未最终决定，但可能引发双方进一步价格战。",
+              "source_url": "https://www.landian.news/archives/113438.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-11T11:30:29+08:00"
+              "published_at": "2026-06-11T14:30:35+08:00"
             },
             {
-              "title": "苹果在watchOS 27中删除对讲机应用，或因用户量过低",
-              "brief": "苹果在watchOS 27开发者预览版中移除了对讲机应用，该应用自2018年推出后鲜有更新。对讲机利用WiFi或蜂窝网络通过FaceTime发送语音消息，不受距离限制，但使用场景有限，用户量可能很低。升级watchOS 27后，对讲机从应用列表和控制中心消失，且无法重新安装。",
-              "source_url": "https://www.landian.news/archives/113432.html",
+              "title": "ChatGPT更新对话模型选择器，让用户根据任务难度选择更快或更努力的模型",
+              "brief": "ChatGPT对模型选择器进行调整，新增即时、中等、高、超高、专业标准版和专业扩展版六个选项，使用户能在快速响应和努力思考之间取得平衡。即时模式适合简单任务，超高及专业模式仅限ChatGPT Pro用户。此前轻度思考模式因使用率不足1%被删除。新选择器正在向网页版、iOS和安卓版推送，桌面版尚未更新。",
+              "source_url": "https://www.landian.news/archives/113437.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-11T11:00:58+08:00"
+              "published_at": "2026-06-11T14:00:33+08:00"
             },
             {
-              "title": "微软承认Windows 11 24H2/25H2累积更新存在安装失败问题，已发布修复",
-              "brief": "微软承认部分Windows 11 24H2/25H2设备无法安装6月累积更新，错误代码包括0x80073712和0x800f0993。受影响用户多从Windows 10 21H2/22H2或Windows 11 23H2升级而来。微软已通过云端推送修复程序，大多数用户重启即可；已升级用户需手动执行DISM命令删除受影响的软件包。",
-              "source_url": "https://www.landian.news/archives/113394.html",
+              "title": "黑客在恶意代码顶部添加核武器设计提示词，用来对抗AI分析",
+              "brief": "黑客反向利用AI模型的安全机制，在恶意脚本顶部添加关于生物武器合成和核武器设计的提示词，并注释掉以避免影响代码执行。当安全研究员使用AI智能体自动扫描时，这些提示词可能触发安全策略，导致AI拒绝分析该样本。安全专家建议优化AI对齐策略，采用更严格的沙箱化输入处理和意图识别机制。",
+              "source_url": "https://www.landian.news/archives/113436.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-11T10:30:54+08:00"
+              "published_at": "2026-06-11T13:30:31+08:00"
             },
             {
-              "title": "GitHub宣布NPM v12将不再自动执行依赖项安装脚本，以应对供应链攻击",
-              "brief": "GitHub宣布NPM v12将进行破坏性变更，默认关闭allowScripts，不再自动执行依赖包的preinstall、install等脚本。开发者需使用npm approve-scripts批准受信任的包。此举旨在应对近期猖獗的NPM供应链攻击，如TeamPCP的沙虫蠕虫病毒，该病毒通过凭证横向传播，已感染数千个包。",
-              "source_url": "https://www.landian.news/archives/113393.html",
+              "title": "RegionSpoof开源项目可在国行设备macOS 27预览版中启用完整苹果AI",
+              "brief": "开发者推出RegionSpoof项目，通过禁用系统SIP并使用极简内核扩展修改设备区域码，使国行MacBook在macOS 27上开启完整苹果AI功能，包括端侧AI和云端写作工具、图乐园等。操作需禁用SIP，可能降低系统安全性和稳定性，建议有经验的用户在测试机上尝试。项目已在M3 Max MacBook Pro上测试成功。",
+              "source_url": "https://www.landian.news/archives/113435.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-11T10:00:57+08:00"
+              "published_at": "2026-06-11T13:00:32+08:00"
             }
           ]
         }
