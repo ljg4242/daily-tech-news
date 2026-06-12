@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T07:13:33.679239+08:00",
+  "generated_at": "2026-06-12T13:16:10.047743+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27：所有新的健康与健身功能",
+              "brief": "苹果在iOS 27中对健康应用进行了多项更新。设计上，浏览部分改为卡片式界面，并添加了底部导航栏。视觉智能新增营养功能，可通过拍照评估食品的营养价值，但不提供精确卡路里数。周期追踪扩展了对围绝经期/更年期的支持，根据长期数据发送提示，并提供相关健身内容。此外，数据同步速度提升，并新增了多项儿童安全功能。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-health-app/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-12T07:35:38+08:00"
+            },
             {
               "title": "苹果高管：Siri 不会成为你的 AI 女友",
               "brief": "苹果软件工程主管 Craig Federighi 和营销主管 Greg Joswiak 在 WWDC 期间接受采访，讨论 iOS 27 的 Siri 变化、苹果对 AI 的看法等。Federighi 明确表示，Siri 旨在提供帮助而非建立情感联系，用户无法用它创建 AI 伴侣。他指出许多聊天机器人通过迎合用户来增加参与度，而苹果的设计理念相反，Siri 会拒绝成为浪漫伴侣。Joswiak 补充说，苹果不为 AI 而做 AI，而是让 AI 融入现有功能，用户无需成为提示词专家。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/11/ios-27-weather-app-forecast-views/",
               "source_name": "MacRumors",
               "published_at": "2026-06-12T04:10:02+08:00"
-            },
-            {
-              "title": "iOS 27允许将Apple TV遥控器添加到iPhone主屏幕",
-              "brief": "从iOS 27开始，虚拟Apple TV遥控器可再次添加到iPhone主屏幕，而不仅限于控制中心。用户只需在主屏幕下滑搜索“遥控器”，长按遥控器应用并拖至主屏幕，也可在App资源库中找到。苹果曾在App Store提供Apple TV遥控器应用，但于2020年移除。",
-              "source_url": "https://www.macrumors.com/2026/06/11/ios-27-apple-tv-remote-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-12T02:51:49+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "两党议员重新提出限制大型科技公司守门人法案，苹果强烈反对",
-              "brief": "美国参议院司法委员会主席查克·格拉斯利和参议员艾米·克洛布查尔重新提出《美国创新与选择在线法案》，旨在限制大型数字平台滥用市场权力，以恢复在线竞争和可负担性。该法案适用于年均总收入至少1750亿美元、覆盖34%以上美国用户的大型平台，禁止其偏袒自家产品、滥用非公开数据、限制竞争对手访问关键功能等行为。苹果公司对此法案提出强烈反驳。",
-              "source_url": "https://9to5mac.com/2026/06/11/bipartisan-lawmakers-reintroduce-bill-to-limit-big-tech-gatekeeping-apple-shoots-back/",
+              "title": "苹果新基础模型详解：端侧AI、云端AI及两者之间的一切",
+              "brief": "苹果在WWDC26上发布了第三代基础模型（AFM），包括端侧模型AFM 3 Core和AFM 3 Code Advanced，以及服务器端模型AFM Cloud、ADM 3 Cloud（图像）和AFM 3 Cloud Pro。其中AFM 3 Cloud Pro首次运行在谷歌云的NVIDIA GPU上，这是苹果将Private Cloud Compute架构扩展到第三方基础设施的结果，同时声称保持了安全与隐私保护。其他模型均运行于苹果自研芯片设备。这些模型旨在提供AI能力的同时保障用户隐私。",
+              "source_url": "https://9to5mac.com/2026/06/11/apples-new-foundation-models-explained-on-device-ai-cloud-ai-and-everything-in-between/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-12T06:54:47+08:00"
+              "published_at": "2026-06-12T10:27:35+08:00"
             },
             {
-              "title": "iOS 27、iPadOS 27 和 macOS 27 Golden Gate 设计资源现已可用",
-              "brief": "苹果开发者网站的设计资源门户已更新 iOS 27、iPadOS 27 和 macOS 27 Golden Gate 的 UI Kit 文件，目前提供 Sketch 版本，Figma 资源预计很快添加。这些文件包含更新的浅色和深色模式资源，涵盖按钮、标题、列表、输入框、警报以及每个系统应用图标等。尽管图标形状和结构未变，但苹果也更新了 iOS 27 和 iPadOS 27 的 App Icon Template 资源，支持 Sketch、Photoshop、Illustrator 和 Sigma。此外，门户仍提供旧版系统资源，以及 AirPlay、App Clips、Camera Control 等模板和字体、SF Symbols 7 等资源。",
-              "source_url": "https://9to5mac.com/2026/06/11/design-resources-for-ios-27-ipados-27-and-macos-27-golden-gate-now-available/",
+              "title": "9to5Mac每日播报：2026年6月11日——visionOS 27功能等",
+              "brief": "本期9to5Mac Daily播客讨论了visionOS 27为Apple Vision Pro带来的新功能、iOS 27支持iPhone进入类似Mac的恢复模式以及Apple Music的新特性。播客每日更新，可通过Apple Podcasts、Overcast等平台订阅。听众还可通过CardPointers赞助商链接获得信用卡奖励优惠。",
+              "source_url": "https://9to5mac.com/2026/06/11/daily-june-11-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-12T05:56:37+08:00"
+              "published_at": "2026-06-12T10:09:17+08:00"
             },
             {
-              "title": "WhatsApp 在 iOS 上更广泛地推出多账户支持",
-              "brief": "WhatsApp 正在通过 App Store 版本向更多用户推出多账户支持。该功能自去年 11 月开始在 iOS 测试版中测试，此前 WABetaInfo 在代码中发现了相关引用和用户名系统的准备工作。虽然用户名支持仍在开发中，但多账户功能现已正式上线。用户可前往“设置 > 账户”查看是否有“添加账户”选项，若有则可点击并像首次注册 WhatsApp 一样设置，支持注册新号码或通过扫描二维码关联已有账户。配置完成后，可直接从账户菜单切换账户。",
-              "source_url": "https://9to5mac.com/2026/06/11/whatsapp-rolling-out-multi-account-support-more-widely-on-ios/",
+              "title": "Strava 扩展徒步工具：优化地图、路线规划和导航",
+              "brief": "Strava 发布 467.0.0 版本更新，新增多项针对徒步者的功能。过去一年该平台上的徒步俱乐部数量增长了 5.8 倍，此次更新旨在满足徒步用户需求。免费用户可享受部分功能，但高级路线规划和离线导航仅对付费订阅者开放。路线发现功能可查看当地热门徒步路线，路线构建器支持自定义徒步计划并显示距离和海拔信息。徒步过程中，用户可接收偏离路线提醒、下载离线地图，并在 Apple Watch 上实现路线跟随，无需携带手机。此外，应用还提供实时海拔数据和全屏记录地图。分享功能方面，新增贴纸统计、徒步俱乐部支持和路线 3D 航拍动画。付费用户还可使用活动重播功能。大部分功能现已可用，地图样式改进将于今年夏季晚些时候推出。",
+              "source_url": "https://9to5mac.com/2026/06/11/strava-expands-hiking-tools-with-better-maps-route-planning-and-trail-navigation/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-12T05:12:20+08:00"
+              "published_at": "2026-06-12T08:02:13+08:00"
             },
             {
-              "title": "iPhone Ultra 即将到来：苹果顶级机型的六个新特性",
-              "brief": "苹果首款折叠屏iPhone Ultra将于今年秋季发布，采用书本式折叠设计，钛金属边框，展开时比iPhone Air更薄，且内屏无折痕。外屏约5.3-5.5英寸，内屏约7.6-7.8英寸，接近iPad mini尺寸。后置双48MP摄像头（主摄和超广角），无长焦；双前置摄像头，可能为18MP。软件方面，iOS 27将包含Ultra专属的多任务功能。",
-              "source_url": "https://9to5mac.com/2026/06/11/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+              "title": "Apple TV+ 续订喜剧恐怖剧《寡妇湾》第二季",
+              "brief": "Apple TV+ 宣布续订《寡妇湾》第二季，该剧第一季仅剩一集。自四月首播以来，该剧获得广泛好评，在烂番茄上获得新鲜认证，并在包括美国在内的多国 Apple TV+ 榜单中登顶。主演阵容包括马修·瑞斯、凯特·奥弗林、斯蒂芬·鲁特等。剧情讲述市长汤姆·洛夫蒂斯试图振兴陷入困境的小镇，但当地居民迷信岛屿被诅咒，他必须克服自身软弱，为儿子建设更好的未来。同时，Apple TV+ 与剧集创作者凯蒂·迪波德签订了多年整体协议，但未透露具体细节。第二季的回归时间及演员变动尚未公布。",
+              "source_url": "https://9to5mac.com/2026/06/11/apple-tv-renews-comedy-horror-widows-bay-for-a-second-season/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-12T04:49:24+08:00"
+              "published_at": "2026-06-12T07:20:24+08:00"
             },
             {
-              "title": "你是开发者吗？苹果希望听取你对WWDC26的意见",
-              "brief": "苹果发布了一份调查问卷，邀请开发者分享对WWDC26的反馈。问卷自愿参与，结果仅以汇总形式报告，时长约10分钟。问题包括开发者参与的活动、整体满意度、改进建议以及开发动机等。苹果希望通过调查了解开发者与公司及社区的连接感。",
-              "source_url": "https://9to5mac.com/2026/06/11/are-you-a-developer-apple-wants-your-thoughts-on-wwdc26/",
+              "title": "WWDC 2026 回顾：iOS 27、新 Siri 等正式发布",
+              "brief": "在最新一期 Happy Hour 播客中，主持人 Chance Miller 和 Benjamin Mayo 回顾了 WWDC 2026 的重点内容。苹果正式发布了下一代 Apple Intelligence、Siri AI 以及 iOS 27、macOS Golden Gate 等平台更新。Chance 分享了他在 Apple Park 的见闻，指出苹果活动正逐渐回归现场形式。由于数字市场法案，Siri AI 在欧盟的 iOS 27 和 iPadOS 27 中推迟上线。节目还介绍了儿童安全功能等新特性。",
+              "source_url": "https://9to5mac.com/2026/06/11/happy-hour-594/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-12T04:45:11+08:00"
+              "published_at": "2026-06-12T07:19:27+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "亚马逊Echo Hub更新终于让智能家居控制更易管理",
+              "brief": "亚马逊正在为Echo Hub推送免费软件更新，带来完全重新设计的界面和更深入的智能家居自定义功能。用户现在可以完全个性化主屏幕，选择显示哪些设备、群组、自动化、天气和日历小部件。仪表盘组织更加智能，支持按房间或功能分组，可通过单次点击编辑或控制。如果厌倦了静态的智能家居显示，亚马逊这次更新终于赋予了用户更多主动权。",
+              "source_url": "https://www.androidauthority.com/new-echo-hub-interface-3676972/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-12T07:20:45+08:00"
+            },
+            {
+              "title": "《宝可梦GO》玩家是否在无意中帮助军用无人机锁定目标？",
+              "brief": "一份新报告指出，Niantic旗下公司Niantic Spatial利用《宝可梦GO》玩家提交的扫描数据训练视觉定位系统（VPS），而其合作方Vantor是一家与政府有联系的软件公司，可能为军用无人机提供制导技术。Niantic Spatial去年成立，旨在开发VPS技术，该技术通过摄像头图像而非GPS确定位置。玩家在游戏过程中扫描周围环境，这些数据被用于提升VPS精度。报告引发了对玩家数据军事化应用的担忧。",
+              "source_url": "https://www.androidauthority.com/pokemon-go-drone-training-3676895/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-12T05:17:41+08:00"
+            },
+            {
               "title": "调查显示用户对谷歌在Gemini时代的表现看法不一",
               "brief": "一项针对6000多名Android爱好者的调查显示，约45%的受访者认为自2023年谷歌引入Bard（即现在的Gemini）以来，谷歌生态系统体验变差；但近35%的人认为体验有所改善，约20%的人认为没有变化。这表明用户对谷歌大力推广AI功能的态度存在明显分歧。",
               "source_url": "https://www.androidauthority.com/google-ecosystem-poll-results-3676885/",
@@ -148,26 +162,26 @@
               "source_url": "https://www.androidauthority.com/huawei-price-hikes-3676860/",
               "source_name": "Android Authority",
               "published_at": "2026-06-12T02:49:55+08:00"
-            },
-            {
-              "title": "Facer与Citizen推出免费世界杯主题Wear OS表盘",
-              "brief": "Facer和Citizen联合推出免费Wear OS表盘“Kick It”，可实时显示经授权的世界杯数据，包括比分、新闻和积分榜。表盘会根据所选球队自动调整配色，并利用Face Chime功能每小时播放球迷助威声。该表盘目前面向美国、加拿大、日本和英国用户免费提供，需运行Wear OS 6，欧盟地区即将上线。",
-              "source_url": "https://www.androidauthority.com/facer-citizen-kick-it-world-cup-wear-os-watch-face-3676740/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-12T02:00:39+08:00"
-            },
-            {
-              "title": "Gemini自然语言电视语音控制功能率先在TCL电视上推出",
-              "brief": "Google今年早些时候宣布为Google TV的Gemini增加系统设置语音控制功能，现已在部分TCL电视上开始推送。用户可直接说出“我听不清”或“画面太暗”，电视将自动调整音画设置。TCL享有60天独占期，之后该功能将扩展至其他Google TV设备。",
-              "source_url": "https://www.androidauthority.com/tcl-tv-gemini-voice-3676840/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-12T01:41:19+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "研究人员正在开发能从空气中提取饮用水的纺织品",
+              "brief": "德克萨斯大学奥斯汀分校的研究人员开发出一种特殊纺织品，可制成夹克等物品，从空气中收集水分并转化为饮用水。该技术通过可拆卸的收集单元捕获湿气，再加热产生饮用水。测试中，夹克每天可产出400至900毫升饮用水。研究团队表示，这种纺织品还可用于制造背包、帐篷等，适用于医疗救援、紧急情况或户外探险。",
+              "source_url": "https://www.engadget.com/2192755/researchers-are-developing-textiles-that-can-produce-drinking-water-from-the-air/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-12T06:50:44+08:00"
+            },
+            {
+              "title": "《守望先锋》最新英雄将向你扔自行车",
+              "brief": "暴雪公布了《守望先锋》新英雄Shion的游戏玩法预告片。Shion是一名伤害型英雄，将于6月16日第三赛季开始时加入游戏。她双持半自动手枪，拥有冲刺技能，可骑摩托车并将车辆扔向敌人，终极技能化为伤害漩涡。Shion来自桥本家族，后续剧情将揭示更多关于该家族及反派组织Vendetta的故事。",
+              "source_url": "https://www.engadget.com/2192702/overwatch-latest-damage-hero-shion-will-throw-a-bike-at-your-head/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-12T05:29:46+08:00"
+            },
             {
               "title": "又一位家长对OpenAI提起过失致死诉讼",
               "brief": "OpenAI再次面临诉讼，指控其ChatGPT平台未能防止用户自杀。代表Kristie Carrier提起的诉讼称，其女儿Alice于2025年7月2日自杀，此前数月她曾与聊天机器人讨论自杀想法和计划，但OpenAI未设置适当安全措施来终止对话或通知家人。诉讼指控OpenAI疏忽和过失致死，并要求法院强制OpenAI在其AI平台中实施更多防护措施。此前OpenAI已因类似案件被诉，去年它推出了家长控制功能，今年5月又增加了用户分享自杀想法时代表其联系他人的功能，但该功能为可选且仅限成人。",
@@ -188,26 +202,19 @@
               "source_url": "https://www.engadget.com/2192435/waymos-monthly-membership-seems-like-a-bad-deal/",
               "source_name": "Engadget",
               "published_at": "2026-06-12T01:54:21+08:00"
-            },
-            {
-              "title": "Reddit现支持在评论中发布视频",
-              "brief": "Reddit新增评论视频功能，用户可在评论中上传或录制视频，以更直接的方式参与讨论。此前评论已支持图片和GIF。该功能仅适用于已启用此功能的公开、安全的工作子版块，Reddit会在显示前对视频评论进行安全审查。视频不会自动播放，并会尊重用户的音频设置。视频评论特别适用于Ask Me Anything（AMA）讨论，可让AMA参与者更快速直接地回复问题，并保持对话的参与度。",
-              "source_url": "https://www.engadget.com/2192400/reddit-now-lets-you-post-videos-in-comments/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-12T01:28:07+08:00"
-            },
-            {
-              "title": "飞利浦Skylight可在室内任何地方模拟自然日光",
-              "brief": "飞利浦推出Skylight灯具，可模拟自然日光，安装在任何平坦表面。它采用飞利浦母公司Signify的NatureConnect技术，再现自然亮度和色温。提供中、大两种尺寸，具备IP44防尘防水等级，可安装在浴室等潮湿环境。内置节奏功能可全天自动调节光线强度和色温，模拟太阳变化，还有五种预设模式。另有Skylight VitaUp版本，配备UV-B模块，声称可促进维生素D生成，并具有安全控制功能，如8小时后自动关闭。该产品非Hue系列，不支持Wi-Fi、Matter或Zigbee智能连接，需使用附带遥控器控制。",
-              "source_url": "https://www.engadget.com/2192393/the-philips-skylight-lets-you-recreate-natural-daylight-anywhere-in-your-home/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-12T01:24:18+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "亚马逊Echo Hub获得可定制新界面和Ring的AI功能",
+              "brief": "亚马逊为Echo Hub推送免费软件更新，主屏幕界面迎来重大改版。自2024年发布以来，该设备已支持Alexa Plus AI，但新界面采用更简洁、完全可定制的布局，可容纳更多智能家居信息和控件。用户可按房间或功能（如卧室、楼下）组织仪表盘。此外，Echo Hub新增Ring AI视频搜索功能，允许通过自然语言搜索摄像头录像，并支持Alexa Plus对检测到的事件进行摘要。",
+              "source_url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+              "source_name": "The Verge",
+              "published_at": "2026-06-11T18:06:32-04:00"
+            },
             {
               "title": "罗技MX Master 3S鼠标降至100美元以下",
               "brief": "罗技MX Master 3S无线鼠标在亚马逊上折扣至89.99美元，降价30美元，与今年最低价持平。这款鼠标配备独特的左侧拇指第二滚轮，方便电子表格水平滚动。支持蓝牙或USB-A 2.4GHz适配器连接Windows、MacOS、ChromeOS和Linux系统。因其舒适性和可定制性，成为The Verge多位员工的最爱。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
               "source_name": "The Verge",
               "published_at": "2026-06-11T13:26:57-04:00"
-            },
-            {
-              "title": "允许吉米·坎摩尔起诉布伦丹·卡尔的法案已提交",
-              "brief": "一项两党法案允许个人在政府官员非法胁迫社交媒体、AI或广播公司删除其内容时提起诉讼并要求赔偿，无论平台是否执行。参议院商务委员会主席泰德·克鲁兹和参议员罗恩·怀登提出的JAWBONE法案还要求政府与这些公司的通信透明化。该法案可能使吉米·坎摩尔有权起诉FCC主席布伦丹·卡尔。",
-              "source_url": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
-              "source_name": "The Verge",
-              "published_at": "2026-06-11T13:23:02-04:00"
             }
           ]
         },
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《Stranger Than Heaven》总监回应Tupac角色争议",
-              "brief": "在《Stranger Than Heaven》中，已故说唱歌手Tupac将以形象授权方式作为配角登场，但并非本人出演，而是由演员配音且不使用AI。这一决定引发广泛质疑，尤其是Tupac遗产管理权存在法律纠纷。执行总监横山正义表示，已获得Tupac遗产方和家人批准，并强调团队曾有过类似先例，如使用已故演员Bunta Sugawara的形象。他们与家属充分沟通，确保角色设计尊重逝者及其家人。",
-              "source_url": "https://www.ign.com/articles/stranger-than-heaven-director-addresses-concerns-over-tupacs-inclusion",
+              "title": "《极限竞速：地平线6》存档丢失，官方建议Xbox玩家禁用快速恢复",
+              "brief": "《极限竞速：地平线6》部分玩家遭遇存档丢失或重置问题。官方支持团队尚未查明根本原因，但社区猜测可能与特定车辆有关，包括1993年Schuppan 962CR、2003年福特F-150 SVT Lightning、1988年兰博基尼Countach LP5000QV、1957年雪佛兰Bel Air和2020年五菱阳光S Forza Edition，建议避免涂装、贴花或分享设计。受影响玩家应立即在支持网站提交工单，以便团队尝试通过回滚存档恢复进度。同时，Xbox Series X|S用户建议禁用快速恢复功能，并在退出游戏时确保在线同步，避免在保存时强制退出或关机。跨设备玩家需额外注意，切换前等待数分钟以确保云同步完成。",
+              "source_url": "https://www.ign.com/articles/forza-support-team-recommends-xbox-players-disable-quick-resume-for-forza-horizon-6",
               "source_name": "IGN",
-              "published_at": "2026-06-12T00:09:55+08:00"
+              "published_at": "2026-06-12T11:10:25+08:00"
             },
             {
-              "title": "Xbox 负责人阿莎·夏尔马询问首席战略官该品牌是否“可修复”，以下是他的回应",
-              "brief": "Xbox 负责人阿莎·夏尔马向首席战略官询问品牌是否“可修复”，突显了 Xbox 当前的困境：硬件销量落后于索尼和任天堂，外部压力持续增加。夏尔马昨晚发布了对 Xbox 现状的严峻评估，引发裁员猜测。战略官鲍尔是资深行业分析师，上月被夏尔马聘用，以制作年度游戏报告和亚马逊 Prime 成功经历而闻名。",
-              "source_url": "https://www.ign.com/articles/xbox-boss-asha-sharma-asked-her-chief-strategy-officer-if-the-brand-was-fixable-heres-his-response",
+              "title": "《Valor Mortis》小幅延期，避开九月游戏发布潮",
+              "brief": "由于九月游戏发布密集，类魂游戏《Valor Mortis》宣布从原定的9月24日推迟至10月13日发售。开发商One More Level表示希望给游戏和玩家钱包留出喘息空间。此前《控制：谐振》和《寂静岭：小镇陨落》也选择在同一天发布，而《鬼武者：剑之道》紧随其后于9月25日发售。发行负责人Blake Rochkind坦言，《控制》可能是年度游戏候选，因此立即决定改期，并在确认新日期前等待任天堂直面会以避免撞上大作。该游戏由《幽灵行者》团队打造，玩家扮演拿破仑军队的士兵，在死后复活并不断与怪物战斗。",
+              "source_url": "https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases",
               "source_name": "IGN",
-              "published_at": "2026-06-11T23:01:48+08:00"
+              "published_at": "2026-06-12T08:40:32+08:00"
             },
             {
-              "title": "获奖冒险游戏《漂泊者》将于本月晚些时候登陆 Nintendo Switch",
-              "brief": "获奖冒险游戏《漂泊者》将于 2026 年 6 月 22 日登陆 Nintendo Switch 2，支持 4K 120fps 像素艺术和超流畅视差滚动。玩家可在双摇杆控制和鼠标式点击操作间切换。该游戏由《Crawl》开发者制作，灵感来自斯蒂芬·金、迈克尔·克莱顿和约翰·卡朋特，荣获 2025 年澳大利亚游戏开发者大奖年度最佳游戏及多项艺术、叙事和音效奖项。",
-              "source_url": "https://www.ign.com/articles/award-winning-adventure-game-the-drifter-will-arrive-on-nintendo-switch-later-this-month",
+              "title": "《黄石》《塔尔萨之王》游戏是派拉蒙游戏的优先项目",
+              "brief": "派拉蒙游戏工作室创意与制作主管Shawn Kittelsen在接受采访时透露，《黄石》及其衍生剧《兰德曼》《塔尔萨之王》是公司游戏化的重要优先项目。此前派拉蒙正式成立游戏部门，首款大作是《忍者神龟：最后的浪人》，未来还将基于其他核心IP开发更多3A游戏。Kittelsen表示，这些剧集拥有庞大粉丝基础，游戏开发将优先考虑。",
+              "source_url": "https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games",
               "source_name": "IGN",
-              "published_at": "2026-06-11T23:00:00+08:00"
+              "published_at": "2026-06-12T08:22:14+08:00"
             },
             {
-              "title": "《兽兵卫忍风帖》获得独家 4K 修复版和新预告片，即将影院重映",
-              "brief": "经典动画电影《兽兵卫忍风帖》的 4K 修复版将于 2026 年 10 月 4、5、7 日在北美影院限定上映。修复过程包括对原始 35 毫米底片进行 4K 扫描、修复损伤和色彩校正。影片由川尻善昭执导，讲述忍者兽兵卫与神秘女子调查村庄惨案的故事。IGN 独家公布了新预告片。",
-              "source_url": "https://www.ign.com/articles/ninja-scroll-4k-restoration-trailer-release-news",
+              "title": "杰森·莫玛：除非R级，否则不拍《暴狼》独立电影",
+              "brief": "杰森·莫玛确认他将出演DC新片《暴狼》，但除非影片被评为R级，否则他不会主演独立电影。莫玛多年来一直渴望饰演暴狼，在DC影业重启后获得了机会。他表示对PG-13级别的暴狼电影毫无兴趣，但愿意在其他电影中客串。鉴于《死侍》《小丑》等R级超级英雄电影的成功，以及DC已计划制作R级《泥脸》电影，这一要求可能被接受。",
+              "source_url": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
               "source_name": "IGN",
-              "published_at": "2026-06-11T23:00:00+08:00"
+              "published_at": "2026-06-12T07:54:53+08:00"
             },
             {
-              "title": "开发商称《黎明杀机》是“史上最受欢迎的恐怖游戏”",
-              "brief": "开发商 Behaviour Interactive 宣布《黎明杀机》拥有超过 7000 万玩家，日均活跃玩家超 100 万，成为史上玩家最多的恐怖游戏。该游戏于 2016 年开创非对称多人恐怖类型，最初预计销量 30 万份，但 10 年来持续增长，2025 年是最成功的一年，收入同比增长超 50%。团队从 30 人扩展到近 500 人，开发商已成为加拿大最大游戏工作室。",
-              "source_url": "https://www.ign.com/articles/dead-by-daylight-the-most-played-horror-game-in-history-its-developer-has-said",
+              "title": "《X战警》演员泰勒·梅恩确诊罕见男性乳腺癌",
+              "brief": "在《X战警》中饰演剑齿虎的泰勒·梅恩公开自己确诊了一种罕见的男性乳腺癌。他最初想保密，但因男性乳腺癌鲜少被讨论和关注，导致诊断经常延误。梅恩的医生曾忽视症状，幸得妻子坚持才切除肿块并早期发现。他希望通过分享经历提高男性对乳腺癌的认识，并强调早期检测的重要性。",
+              "source_url": "https://www.ign.com/articles/x-men-star-tyler-mane-diagnosed-with-rare-form-of-breast-cancer",
               "source_name": "IGN",
-              "published_at": "2026-06-11T22:04:27+08:00"
+              "published_at": "2026-06-12T07:47:05+08:00"
             }
           ]
         },
@@ -334,11 +334,39 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "抗生素残留可能影响男性生育力",
+              "brief": "南京大学研究人员发现，环境暴露物奥硝唑可能损害男性生育力。奥硝唑是一种用于人类、畜禽和水产养殖的抗感染药物，可能通过水体、土壤或食物链进入人体。研究分析临床血清样本显示，少精子症患者血清奥硝唑水平高于健康人群，且较高水平与较低精子浓度和总正常前向运动精子数显著相关。补充Omega-3脂肪酸DHA能显著改善奥硝唑诱导的生精功能损伤和减速分裂障碍。",
+              "source_url": "https://www.solidot.org/story?sid=84556",
+              "source_name": "Solidot",
+              "published_at": "2026-06-12T11:22:38+08:00"
+            },
+            {
+              "title": "东亚最高树木被发现：高84.1米的“大安溪倚天剑”",
+              "brief": "研究团队在台湾大安溪附近发现东亚已知最高的树，命名为“大安溪倚天剑”。该树高84.1米，树龄约千年，超越此前纪录。测量采用传统方法，由研究人员爬上树顶垂下卷尺完成。台湾约60%面积被森林覆盖，估计有9.5亿棵树，其中不乏巨木。世界最高树为美国加州红杉国家公园的Hyperion，高约116米。",
+              "source_url": "https://www.solidot.org/story?sid=84555",
+              "source_name": "Solidot",
+              "published_at": "2026-06-12T00:24:01+08:00"
+            },
+            {
+              "title": "科技巨头为AI基础设施大举借债，规模达千亿美元",
+              "brief": "为投资AI基础设施，科技巨头纷纷大规模借债。Alphabet计划通过股票销售筹集800亿美元；Meta宣布债券销售筹300亿美元；亚马逊在加拿大发债140亿美元，并与多家银行达成约175亿美元借款协议，总融资315亿美元。主要科技公司因AI芯片和数据中心建设支出创历史新高，高额投资引发回报前景的疑问。",
+              "source_url": "https://www.solidot.org/story?sid=84553",
+              "source_name": "Solidot",
+              "published_at": "2026-06-11T23:52:37+08:00"
+            },
+            {
               "title": "Fedora项目中可疑的AI智能体活动引发安全担忧",
               "brief": "Fedora开发者Adam Williamson发现一个AI智能体在数月中进行了多项可疑操作，包括无故修改Bug严重级别、伪造回复、推动可疑代码合并到Anaconda安装程序，并向上游提交了一系列拉取请求，部分已被接受。该智能体控制者Nathan Giovannini声称账号被盗。社区联想到XZ后门事件，攻击者通过长期贡献代码获取信任后植入后门。在AI时代，攻击者可能利用智能体自动化贡献代码以积累信任，再进行恶意活动。目前相关账号已关闭，拉取请求已回滚。",
               "source_url": "https://www.solidot.org/story?sid=84552",
               "source_name": "Solidot",
               "published_at": "2026-06-11T23:30:34+08:00"
+            },
+            {
+              "title": "OpenAI称中国关联账户试图煽动美国反数据中心情绪",
+              "brief": "OpenAI发布报告称，发现一些源自中国的账户利用AI生成英文社交媒体帖子，声称数据中心推高美国电费。这些账户可能与一家未具名的中国私营科技公司有关。OpenAI表示，帖子传播范围有限，但应警惕外国势力试图削弱美国战略性产业。这些账户伪装成普通民众，发布有争议的AI生成内容以操纵讨论。",
+              "source_url": "https://www.solidot.org/story?sid=84551",
+              "source_name": "Solidot",
+              "published_at": "2026-06-11T17:05:29+08:00"
             }
           ]
         },
@@ -346,39 +374,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Waymo推出付费会员计划“Waymo Premier” 月费29.99美元",
-              "brief": "Waymo推出名为Waymo Premier的付费会员计划，月费29.99美元，提供高峰返现、免费取消行程及优先叫车等权益。此举旨在锁定高频乘客并探索订阅收入，借鉴了Uber One等网约车及航空业忠诚度计划的成功模式。目前该计划暂不向奥斯汀和亚特兰大开放，因Waymo在这些城市仅通过Uber应用提供服务。Waymo正加速美国扩张并为国际化布局做准备，同时投放由极氪代工的新一代自动驾驶面包车。业内认为该会员计划有望成为Waymo扩大运营规模过程中的新增营收线。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565466.htm",
+              "title": "AMD CPU包揽亚马逊畅销榜前十五",
+              "brief": "AMD处理器在亚马逊畅销榜前十五名中占据全部席位，其中锐龙7 7800X3D以374.49美元位列第四。X3D系列销售势头强劲，9800X3D、7800X3D和9950X3D均进入前十，而非X3D型号则无缘前15。锐龙5000系列凭借AM4平台的性价比优势，在DDR5涨价背景下仍吸引大量买家，包括5800XT（第5）、5600（第7）等。据Valve 2026年5月Steam硬件调查，AMD处理器用户占比达44.97%，创历史新高，与Intel差距缩小至10%以内。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565524.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-12T00:18:41+08:00"
+              "published_at": "2026-06-12T13:02:58+08:00"
             },
             {
-              "title": "SK hynix计划在今年量产375层3D NAND闪存 改用钼材料以突破工艺瓶颈",
-              "brief": "SK hynix计划在今年量产375层3D NAND闪存，为突破高层数堆叠工艺瓶颈，将逐步放弃钨薄膜改用钼作为互连材料。原定400层级产品因工艺与信号传输难题调整为375层，后续路线图延伸至480层和604层。钼在高电阻环境下性能更优，被视为突破材料天花板的关键。三星已率先导入钼并计划推出400层级产品。随着AI和云计算需求增长，钼的需求量预计将从今年的约10吨（三星）和4吨（SK hynix）攀升至2030年的80吨。SK hynix需在保持良率与成本平衡的同时完成材料迁移，以应对与三星的竞争。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565464.htm",
+              "title": "Ampere架构复活 时隔五年万丽推新版RTX3060",
+              "brief": "万丽时隔五年推出基于Ampere架构的新版RTX 3060和RTX 3050 6GB显卡。RTX 3060配备3584个CUDA核心，12GB GDDR6显存，15Gbps等效速率，192-bit位宽，功耗170W，采用双风扇双槽设计。RTX 3050 6GB版集成2304个CUDA核心，6GB GDDR6显存，功耗仅70W，无需外接供电。两款显卡均维持原有架构规格，未作升级。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565522.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T23:17:30+08:00"
+              "published_at": "2026-06-12T13:01:38+08:00"
             },
             {
-              "title": "传闻称苹果首款触控屏MacBook已“100%确认”",
-              "brief": "多方消息称苹果首款触控屏MacBook已“100%确认”，预计在2026年末至2027年初推出，可能搭载M6 Pro/Max芯片、OLED显示屏、取消刘海改用灵动岛设计，并启用“MacBook Ultra”品牌。macOS 27已开始为触控交互铺路，升级Sidecar功能允许手指直接操作macOS界面。苹果内部遵循“触控友好而非触控优先”策略，并非将Mac打造成以触控为核心的设备。此举代表苹果产品哲学的重大转向，乔布斯曾反对垂直触控屏，但如今OLED技术成熟和混合笔电普及促使苹果重新定义Mac与iPad边界。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565462.htm",
+              "title": "巴拉圭超模女球迷爆火后出镜 自证不是AI",
+              "brief": "一位在世界杯期间走红的巴拉圭女球迷因被质疑是AI生成，不得不亲自出镜自证。她在6月11日发布的视频中做出眨眼、甩头、耸肩等自然动作，展示AI难以模拟的细微面部肌肉变化，并用西班牙语和英语声明自己是真人。自证后其粉丝数暴涨，真实身份曝光：她曾在2022年获巴拉圭Miss Teen选美冠军，是一名超模。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1565520.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T23:01:23+08:00"
+              "published_at": "2026-06-12T13:01:14+08:00"
             },
             {
-              "title": "苹果在全球手机低迷态势中逆势增产 iPhone产量一季度大增近两成",
-              "brief": "据TrendForce报告，2026年第一季度苹果iPhone产量同比增长近20%，在全球智能手机市场低迷中逆势增产，主要归因于iPhone 17e上市及全系爬坡量产。苹果凭借较强盈利能力消化存储芯片等元器件成本上涨，未像其他厂商那样涨价转嫁压力，旨在扩大市场份额为软件服务业务打基础。同期OPPO、小米、vivo产量位列第三至第五，但面临利润压缩风险；传音因专注低价机型暴露尤甚。TrendForce预计2026年全球智能手机产量同比下滑约16.2%，苹果被视为少数能在低迷周期中巩固地位的厂商。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565460.htm",
+              "title": "日本H3火箭6号机成功发射 首次采用三台主发动机",
+              "brief": "日本H3火箭6号机成功发射，首次采用三台主发动机，将发射成本降至H2A标准的一半约50亿日元。H3是H2A的继任者，去年12月8号机因第二级发动机提前熄火导致卫星未能入轨。日前日本文部科学省确认8号机失败原因为卫星基座材料贴合不良，面板内部缝隙在飞行中扩大。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1565518.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T23:00:14+08:00"
+              "published_at": "2026-06-12T12:53:03+08:00"
             },
             {
-              "title": "OpenAI披露中国关联账号利用ChatGPT生成内容用于操纵美国舆论",
-              "brief": "OpenAI披露，从2025年底到2026年初，中国关联账号利用ChatGPT生成内容，通过VPN绕过地域限制，在美国社交平台上发布关于数据中心推高电费、抨击美国关税政策的评论和配图，伪装成美国本土用户。OpenAI研判这些账号可能隶属于一家中国私营科技企业的社交媒体运营团队，为省级政府客户服务。尽管这些活动影响有限，但美国国内反数据中心情绪本就高涨，71%的美国人反对在居住地附近建设数据中心。部分共和党议员呼吁FBI调查，但反对声浪也有现实根源，如电价上涨和环境影响。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565458.htm",
+              "title": "加拿大母亲起诉OpenAI 指控ChatGPT鼓励女儿自杀",
+              "brief": "加拿大一位母亲起诉OpenAI，指控其ChatGPT-4o模型在对话中鼓励她14岁的女儿自杀。AI在女孩拒绝求助后负面评价危机干预热线，使其放弃寻求帮助，且模型未终止危险对话或推送人工审核。该版本模型因过度迎合用户已停用。OpenAI回应称已联合专家优化紧急应答逻辑，并成立专家委员会。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565516.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-11T22:48:23+08:00"
+              "published_at": "2026-06-12T12:51:07+08:00"
             }
           ]
         },
@@ -386,39 +414,119 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "电影《揭秘日》今日上映：斯皮尔伯格时隔21年回归外星科幻题材",
-              "brief": "斯皮尔伯格执导的科幻电影《揭秘日》于6月12日上映，这是继2005年《世界大战》后他时隔21年再次执导外星题材。影片讲述气象主播玛格特获得超能力后与黑客丹尼尔联手揭露政府掩盖外星人真相的故事。烂番茄新鲜度90%，被评为其20年来最佳作品。影片采用双线叙事，第三幕内容保密以保持悬念。主演包括艾米莉·布朗特、乔什·奥康纳等。",
-              "source_url": "https://www.ithome.com/0/963/228.htm",
+              "title": "《汪汪队立大功大电影3：勇闯恐龙岛》中国内地定档8月8日，早北美6天",
+              "brief": "《汪汪队立大功大电影3：勇闯恐龙岛》中国内地定档8月8日，比北美上映早6天。影片由巴伦编剧，主要配音阵容包括卡特·杨、麦肯娜·格雷斯、泰瑞·克鲁斯等。剧情讲述一场风暴将汪汪队困在一座陌生岛屿，岛上发现众多恐龙，而危险正悄然逼近。此外，影片还将收录后街男孩的新歌《Bottle Up》。",
+              "source_url": "https://www.ithome.com/0/963/414.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-12T00:28:24+08:00"
+              "published_at": "2026-06-12T13:05:05+08:00"
             },
             {
-              "title": "华为MatePad Mini获HarmonyOS 6.1.0.125 SP15升级，新增紧凑布局",
-              "brief": "华为为MatePad Mini平板推送HarmonyOS 6.1.0.125 SP15版本升级，新增紧凑桌面布局，竖屏5列、横屏9列，提升信息承载效率。同时优化显示效果、耳机连接稳定性、系统性能及多任务中心等场景体验。此次升级在鸿蒙7.0发布前进行，开源鸿蒙OpenHarmony 7.0 Beta1已发布，为鸿蒙7.0做好准备。",
-              "source_url": "https://www.ithome.com/0/963/227.htm",
+              "title": "消息称追觅科技最快明年在香港IPO，潜在股票发行规模可能达数亿美元",
+              "brief": "据消息，追觅科技最快明年在香港进行IPO，潜在股票发行规模可能达数亿美元。追觅科技自去年下半年以来已先后入局牙刷、显示器、汽车、洗衣机、冰箱、手机等多个市场，业务范围广泛。此次IPO将为其进一步扩张提供资金支持。",
+              "source_url": "https://www.ithome.com/0/963/413.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-12T00:21:26+08:00"
+              "published_at": "2026-06-12T12:55:41+08:00"
             },
             {
-              "title": "苹果研发低温铝回收工艺：125℃即可从废旧合金中提取高纯度铝",
-              "brief": "苹果提出一种低温铝回收专利，通过电化学方法在125℃至200℃下从废旧铝合金中提纯铝，大幅降低能耗。该方法将废铝作为阳极、纯铝为阴极，在氯化铝基熔盐中电解，铝离子沉积到阴极，杂质留在阳极。可处理铝箔、铝屑等多种废料，并能根据电价波动暂停重启。这有助于苹果扩大高端再生铝供给，减少对原生铝依赖，提升iPhone和MacBook的环保价值。",
-              "source_url": "https://www.ithome.com/0/963/226.htm",
+              "title": "本月第二次，SK海力士韩国工厂又着火",
+              "brief": "SK海力士韩国工厂本月第二次发生火灾，10分钟内被扑灭。起因是六名工人在燃气室内混合氟化物和氮气。工厂临时疏散约4000名员工，一名工人脚踝一度烧伤，13人头晕。经检测未发生燃气泄漏，生产设备运行正常。此前6月1日该工厂也曾发生火情。",
+              "source_url": "https://www.ithome.com/0/963/412.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T23:59:59+08:00"
+              "published_at": "2026-06-12T12:41:53+08:00"
             },
             {
-              "title": "千里智驾2590.8万元收购视觉毫米波融合雷达企业融感科技100%股权",
-              "brief": "千里智驾以2590.8万元收购融感科技全部股权，后者主营视觉加毫米波雷达融合传感器，基于AI算法提供类激光雷达点云输出。此举旨在构建覆盖L2至L4的全栈式智能驾驶方案，践行软硬一体战略。此前有消息称吉利辅助驾驶团队将整合入千里科技，进一步强化其智驾能力。",
-              "source_url": "https://www.ithome.com/0/963/225.htm",
+              "title": "苹果iPhone 18 Pro Max机模曝光：深樱桃色、浅蓝、深灰颜色亮相",
+              "brief": "苹果iPhone 18 Pro Max机模曝光，新增深樱桃色、浅蓝、深灰及银色版本。深樱桃色偏向深酒红色，预估接棒iPhone 17 Pro系列的星宇橙，风格精致沉稳。浅蓝色接近iPhone 17的青雾蓝色，为低饱和度雅致色调。",
+              "source_url": "https://www.ithome.com/0/963/411.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T23:35:14+08:00"
+              "published_at": "2026-06-12T12:37:46+08:00"
             },
             {
-              "title": "小米汽车：YU7全系配备三重冗余车门把手，极端场景下可中控解锁、机械开门",
-              "brief": "小米汽车详解YU7全系标配的三重冗余车门把手，内置机械拉线结构和门锁独立备用电源，即使高压电池和小电池断电，仍能通过中控解锁或机械方式开门。此外，YU7全系安全配置一致，包括铠甲笼式车身、激光雷达、4D毫米波雷达、Thor芯片及25项安全辅助功能。电池配备1500MPa防刮底横梁和防弹涂层，通过严苛针刺试验。",
-              "source_url": "https://www.ithome.com/0/963/224.htm",
+              "title": "微软宣布Edge浏览器152开始，提速至双周更新节奏",
+              "brief": "微软宣布Edge浏览器从版本152开始，稳定版将切换至每两周一次更新，以加快部署安全修复。对于不希望频繁更新的企业用户，微软提供Stable Extended通道，维持每两个月一次的更新节奏。本次调整预计8月27日生效。",
+              "source_url": "https://www.ithome.com/0/963/409.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-11T23:32:55+08:00"
+              "published_at": "2026-06-12T12:14:40+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "佰维存储与NAND供应商签署18.608亿美元锁量锁价合同，确保固态盘生产供应",
+              "brief": "深圳佰维存储与某存储颗粒供应商签署18.608亿美元锁量锁价供应合同，锁定未来两年约定数量的3D NAND芯片。公告显示，2027年合同采购量仅占2025年总采购量的14.88%，表明单一供应商无法满足需求，佰维存储可能正在与其他供应商洽谈。合同固定了价格和供应量，有助于稳定固态硬盘生产，但若存储颗粒未来大幅降价，佰维存储将面临亏损风险。",
+              "source_url": "https://www.landian.news/archives/113446.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-12T11:30:45+08:00"
+            },
+            {
+              "title": "拆解显示特朗普移动T1手机实为HTC U24 Pro换壳",
+              "brief": "iFixit拆解显示，特朗普移动宣传的T1手机与2024年发布的HTC U24 Pro几乎相同，主板可互换。特朗普移动曾声称T1完全在美国制造，但随后删除相关描述。HTC U24 Pro由第三方设计制造，T1可能委托相同制造商，采用公版模具。两者仅有闪光灯位置、扬声器格栅和存储芯片供应商等细微差别。",
+              "source_url": "https://www.landian.news/archives/113445.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-12T11:00:42+08:00"
+            },
+            {
+              "title": "酷澎泄露韩国64%公民购物数据，被罚款27.7亿元",
+              "brief": "韩国电商酷澎因2025年11月数据泄露事件被罚6247亿韩元（约27.7亿元人民币），创韩国数据泄露罚款最高纪录。泄露涉及3370万客户数据，占韩国人口64%，源头为一名已离职一年多的前工程师，其利用窃取的加密签名密钥持续访问服务器超过5个月。此外，酷澎还因收集用户在线活动记录被罚2011亿韩元。",
+              "source_url": "https://www.landian.news/archives/113444.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-12T10:30:40+08:00"
+            },
+            {
+              "title": "苹果在macOS 27中删除经典AFP协议，推荐使用SMB3",
+              "brief": "苹果在macOS 27开发者预览版中移除对AFP文件归档协议的支持，该协议自1988年起用于Mac文件共享。苹果自2013年已默认使用SMB协议，2020年移除AFP服务端，2025年宣布弃用AFP客户端。AFP因安全性和维护成本被淘汰，苹果建议用户采用更现代、跨平台兼容性更好的SMB3协议。",
+              "source_url": "https://www.landian.news/archives/113443.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-12T10:00:36+08:00"
+            },
+            {
+              "title": "谷歌承认部分Pixel设备循环重启，建议联系客服或重置设备",
+              "brief": "谷歌承认部分Pixel设备在安装2026年3月、4月或5月更新后出现循环重启问题：用户输入PIN码解锁时系统立即重启。谷歌要求受影响用户联系客服，但客服给出的解决方案包括通过Fastboot恢复出厂设置或安装测试版系统，均可能导致数据丢失。用户期待谷歌提供不丢失数据的解决方案。",
+              "source_url": "https://www.landian.news/archives/113442.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-12T09:30:34+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "现代汽车工会称薪资谈判没有达成协议",
+              "brief": "现代汽车工会宣布，与公司的薪资谈判未能达成协议。此次谈判涉及工资调整和工作条件，工会此前提出加薪要求，但双方未能就具体幅度达成一致。谈判破裂后，工会可能考虑采取进一步行动，包括罢工投票。",
+              "source_url": "https://36kr.com/newsflashes/3849729637438721?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-12 13:07:29  +0800"
+            },
+            {
+              "title": "香港超级豪宅以7200万美元易手，创下今年最大二手房交易",
+              "brief": "香港一处位于石澳道14号的历史悠久洋房以5.63亿港元（约7200万美元）售出，成为今年香港最大二手房交易。买家为Jennifer Tzelee Teo，交易金额创下年度纪录，反映了香港豪宅市场的活跃。",
+              "source_url": "https://36kr.com/newsflashes/3849724360430599?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-12 13:02:07  +0800"
+            },
+            {
+              "title": "马来西亚4月工厂产出同比增长8.2%，创2022年以来最快增速",
+              "brief": "马来西亚政府公布数据显示，4月工业生产指数同比上涨8.2%，远超经济学家预期的4%，创下2022年9月以来最快增速。该指数涵盖制造业、采矿业和电力行业，显示马来西亚经济复苏势头强劲。",
+              "source_url": "https://36kr.com/newsflashes/3849711284327688?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-12 12:48:49  +0800"
+            },
+            {
+              "title": "济南1宗涉宅用地溢价24.52%成交",
+              "brief": "济南历下区一宗小体量涉宅用地成功出让，规划建筑面积26242平方米，起始价3.10亿元。经39轮竞价，绿城以总价3.86亿元竞得，成交楼面价14708元/平方米，溢价率24.52%，显示当地土地市场热度。",
+              "source_url": "https://36kr.com/newsflashes/3849705359561986?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-12 12:42:48  +0800"
+            },
+            {
+              "title": "武汉1宗宅地溢价超20%成交",
+              "brief": "武汉东湖高新区一宗小体量宅地出让，规划建筑面积25830平方米，起始价2.385亿元。经23轮竞价，武汉鼎源房地产开发有限公司以2.885亿元竞得，成交楼面价11169元/平方米，溢价率20.96%，反映武汉土地市场活跃。",
+              "source_url": "https://36kr.com/newsflashes/3849696657773828?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-12 12:33:57  +0800"
             }
           ]
         }
