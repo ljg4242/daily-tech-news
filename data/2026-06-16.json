@@ -1,10 +1,291 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T10:58:27.348798+08:00",
+  "generated_at": "2026-06-16T13:09:10.311004+08:00",
   "sections": [
     {
       "category": "主要",
-      "sources": []
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "iOS 27 中的 Siri AI：功能、要求与工作方式",
+              "brief": "苹果在 iOS 27 中全面重做 Siri，将其升级为 Siri AI，并已随测试版开放，正式版将在今年秋季推出。这次更新兑现了 WWDC 2024 最初承诺，让 Siri 能结合邮件、信息、照片、文件和备忘录等个人数据进行语义检索与理解，还支持连续对话、单次处理多个任务。苹果称其理解与推理能力也较以往明显增强。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-siri/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-16T07:17:00+08:00"
+            },
+            {
+              "title": "Apple 将把“通过 Apple 登录”和“隐藏我的邮件”统一到同一域名",
+              "brief": "苹果计划把“通过 Apple 登录”和 iCloud+“隐藏我的邮件”所用邮箱域名统一到 private.icloud.com。此前前者使用 privaterelay.appleid.com，后者使用 icloud.com，今夏晚些时候起都会切换到新域名；旧域名仍可继续收信并转发，不会中断。普通用户无需操作，但相关应用、网站及邮件服务商需要更新校验、白名单和路由规则。",
+              "source_url": "https://www.macrumors.com/2026/06/15/apple-private-icloud-email-domain/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-16T06:56:50+08:00"
+            },
+            {
+              "title": "Apple Card 促销：Nike 购物 Daily Cash 返现翻倍",
+              "brief": "苹果与耐克推出新的 Apple Card 促销活动，6 月 15 日至 7 月 15 日期间，持卡人使用 Apple Pay 在 Nike 门店、官网、Swoosh 网站或应用购物，可获得 6% Daily Cash。该比例较平时 Nike 消费的 3% 返现翻倍，累计消费上限为 500 美元，最高返现 30 美元；卡主、联名持卡人和参与者都可享受这一优惠。",
+              "source_url": "https://www.macrumors.com/2026/06/15/apple-card-nike-promo-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-16T05:45:19+08:00"
+            },
+            {
+              "title": "Chase Sapphire Preferred 为苹果用户新增权益",
+              "brief": "Chase 为 Sapphire Preferred 信用卡加入面向苹果用户的新权益，持卡人若在 2026 年 12 月 31 日前激活，可获一年 Apple TV 订阅。已直接通过苹果订阅 Apple TV 的用户，免费期会自动覆盖现有付费订阅；Apple One 用户若以同一 Apple 账户激活，则可连续 12 个月每月减免 7.50 美元。新老持卡人即日起可用，但年费仍为 95 美元。",
+              "source_url": "https://www.macrumors.com/2026/06/15/chase-sapphire-preferred-card-new-apple-perk/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-16T03:07:29+08:00"
+            },
+            {
+              "title": "今年没有 iPhone 18，苹果供应商表态似乎证实",
+              "brief": "来自苹果供应链伙伴大立光的发言，似乎印证了标准版 iPhone 18 不会在 2026 年秋季发布，而将推迟到 2027 年初上市的传闻。该公司董事长称，一家美国大客户把新机发布时间延后到 2027 年第一季度，带动零组件采购后移。结合大立光是 iPhone 镜头主力供应商，这被视为苹果可能把高端与标准机型分两档发布时间的又一迹象。",
+              "source_url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-16T01:51:57+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "Apple TV 在 Apple Music 上线《Widow's Bay》超长主题歌单",
+              "brief": "Apple TV在Apple Music上线《Widow's Bay》歌单Patricia's Sunset Cocktails Playlist，源自剧集第一季第四集。该歌单作为配套内容开放给Apple Music订阅用户。虽然官方帖文称其收录300首歌曲，但实际共有811首，时长60小时31分钟，并以剧中角色Patricia名义署名。",
+              "source_url": "https://9to5mac.com/2026/06/15/apple-tv-releases-massive-widows-bay-themed-playlist-on-apple-music/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-16T09:57:28+08:00"
+            },
+            {
+              "title": "通过 Apple 登录和隐藏我的邮箱将共用新邮件域名",
+              "brief": "苹果宣布将把通过Apple登录和iCloud+隐藏我的邮箱生成的私密邮箱地址统一到新域名private.icloud.com。此举旨在让两项功能共用同一邮件域名，但不会中断旧地址的收信与转发。开发者和邮件服务提供商需更新校验逻辑、白名单和基于域名的过滤或路由规则，变更将在今年夏季稍后推出。",
+              "source_url": "https://9to5mac.com/2026/06/15/sign-in-with-apple-and-hide-my-email-are-getting-a-new-shared-email-domain/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-16T09:16:48+08:00"
+            },
+            {
+              "title": "iOS 27 修复“信息”应用三项恼人问题",
+              "brief": "iOS 27对信息应用修复了三个常见问题，重点放在提升发送与同步体验。这次更新延续系统层面的错误修复和性能优化思路，针对用户日常最容易遇到的卡顿与失败场景处理。具体包括发送失败消息自动后台重试、图片视频与文字可连续独立发送，以及跨iPhone和Mac的会话同步更加可靠。",
+              "source_url": "https://9to5mac.com/2026/06/15/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-16T09:03:19+08:00"
+            },
+            {
+              "title": "iOS 27 仍显示“正在索引”？可这样查看实际进度",
+              "brief": "部分安装iOS 27 beta 1的用户看到正在索引提示，9to5Mac给出了查进度的方法。由于iOS 27重构了索引机制，系统升级后会重新索引数据，耗时受内容数量和充电影响。用户将iPhone连接Mac，在控制台启用调试信息并搜索spotlight indexing progress，看见PipelineCompleteness百分比。",
+              "source_url": "https://9to5mac.com/2026/06/15/still-seeing-indexing-in-progress-on-ios-27-heres-how-to-check-the-actual-status/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-16T07:57:30+08:00"
+            },
+            {
+              "title": "9to5Mac Daily：2026 年 6 月 15 日，更多 iOS 27 功能与变化",
+              "brief": "9to5Mac发布2026年6月15日的Daily播客，汇总当天几条主要苹果新闻，供用户快速收听回顾。节目按工作日更新，本期涉及更多iOS 27和watchOS 27后续功能变化，也提到切换Apple Pay卡片更方便，以及查找应用新增隐藏位置方式。文章同时列出Apple Podcasts、Spotify、RSS等收听入口。",
+              "source_url": "https://9to5mac.com/2026/06/15/daily-june-15-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-16T07:35:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "安卓 2026 年 6 月 Google 系统更新：新增 WhatsApp 备份管理",
+              "brief": "谷歌公布 2026 年 6 月 Android Google 系统更新，覆盖手机、电视、车机、PC 与手表等平台，继续通过 Play 服务与商店等组件分批下发功能和修复。更新日志出现不代表已经全面上线。本次较显著的变化，是用户如今可在设备设置中管理 WhatsApp 备份，并获得更好的 Google 通讯录同步设置查看与更新体验。",
+              "source_url": "https://9to5google.com/2026/06/15/june-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-16T10:07:00+08:00"
+            },
+            {
+              "title": "部分 Android 和 Android Auto 上的 Gemini 突然无法拨打电话",
+              "brief": "部分 Android 与 Android Auto 用户本周发现，Gemini 拨打电话时会失败，手机端会弹出“出了问题，请重试”的报错。由于问题同时出现在车机和手机上，更像是 Gemini 或 Google 应用更新引发，而非 Android Auto 独有故障。部分用户表示，切回 Google Assistant 后可恢复拨号。",
+              "source_url": "https://9to5google.com/2026/06/15/gemini-suddenly-cant-make-calls-on-android-and-android-auto-for-some/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-16T04:55:00+08:00"
+            },
+            {
+              "title": "更多 Galaxy Z Fold 8 Ultra 泄露：外形仍像常规三星折叠机",
+              "brief": "更多泄露和 FCC 列表显示，三星 Galaxy Z Fold 8 Ultra 外观并未采用全新形态，而是仍接近用户熟悉的常规书本式折叠机设计。背景是三星新一代折叠产品线据称将分成两款：更宽的 Z Fold 8，以及维持传统尺寸但内部规格更强的 Z Fold 8 Ultra。新文件还出现了对应型号 SM-F976U。",
+              "source_url": "https://9to5google.com/2026/06/15/galaxy-z-fold-8-ultra-fcc-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-16T03:37:17+08:00"
+            },
+            {
+              "title": "周一安卓应用优惠与限免：Seoul Exorcist、Fairy Knights 等",
+              "brief": "9to5Toys 发布周一 Android 应用优惠与限免汇总，主要整理当天可在 Google Play 关注的折扣和免费领取内容，方便用户集中查看短期促销。标题点名的条目包括 Seoul Exorcist、Fairy Knights、Velorion 和 Runic Curse 等；输入内容没有提供更多价格、折扣幅度或活动期限细节。",
+              "source_url": "https://9to5toys.com/2026/06/15/monday-android-app-deals-seoul-fairy-knights/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-16T02:29:12+08:00"
+            },
+            {
+              "title": "搭载 Snapdragon X2 Elite 的三星 Galaxy Book 6 Edge 售价 2100 美元，仅配 16GB 内存",
+              "brief": "三星发布搭载 Snapdragon X2 Elite 的 Galaxy Book 6 Edge，定价 2099.99 美元，但只提供 16GB 内存和 1TB 存储的单一配置。这是三星第二款采用骁龙平台的 Galaxy Book，主打 16 英寸防反射 AMOLED 屏幕、22 小时续航，以及与 Galaxy 手机和平板之间的互联功能。",
+              "source_url": "https://9to5google.com/2026/06/15/samsung-galaxy-book-6-edge-with-snapdragon-x2-elite-is-2100-only-16gb-of-ram/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-16T01:45:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "欧洲商业航天关键试飞再度取消",
+              "brief": "欧洲商业航天公司伊萨尔航天再次取消Spectrum火箭第二次试飞发射，原因是发射前发现箭体流体系统出现异常。此次任务原定从挪威安多亚航天港升空，这已是该箭在五个月内第四次进入目标发射日。此前三次又分别因增压阀问题、液态丙烷温度上升等原因中止，公司目前仍在分析最新数据以确定根因，新的发射时间尚未公布。",
+              "source_url": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-16T07:40:38+08:00"
+            },
+            {
+              "title": "研究发现更新版新冠疫苗仍具心血管保护作用",
+              "brief": "一项新研究显示，更新后的新冠疫苗仍能显著降低与感染相关的重大心血管不良事件风险，尤其对75岁以上人群和有基础病者更明显。研究基于美国退伍军人事务部医疗系统逾103万名患者数据，结果发表于《JAMA Internal Medicine》，所评估的2024至2025版疫苗保护对象包括心血管死亡、心梗、中风和心衰住院等结局。",
+              "source_url": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-16T05:04:26+08:00"
+            },
+            {
+              "title": "英国将禁止16岁以下使用社交媒体，并考虑夜间宵禁",
+              "brief": "英国政府宣布将禁止16岁以下未成年人使用包括Snapchat、TikTok、YouTube、Instagram、Facebook和X在内的社交媒体，计划于2027年春季生效。政府还拟默认限制16岁以下用户的直播和与陌生人沟通功能，并对16岁和17岁用户启用同类保护，同时研究未满18岁夜间宵禁和无限滚动中断措施，年龄核验将成为执行关键。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-16T04:14:04+08:00"
+            },
+            {
+              "title": "英伟达拟发债逾250亿美元，为2021年以来首次",
+              "brief": "英伟达计划在美国发行超过250亿美元投资级债券，这是其自2021年以来首次发债，以测试市场对AI板块新增敞口的需求。该交易最初规模为200亿美元，因认购额在纽约时间下午早些时候已超过850亿美元而扩大，债券期限覆盖2年至30年。公司表示募集资金将用于一般企业用途，包括偿还和再融资现有票据。",
+              "source_url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-16T03:07:02+08:00"
+            },
+            {
+              "title": "中国火箭在星链轨道附近解体",
+              "brief": "中国商业火箭朱雀二号E上面级在进入轨道后于近地轨道繁忙区域解体，位置靠近国际空间站活动空域及大量星链卫星所在轨道。事件发生在6月9日发射两颗直连手机通信卫星之后，可能与上面级原计划执行离轨点火的时段相近。美国太空军已确认该解体事件并开展碰撞评估，业内估计新增碎片约100至150块，目前称暂无载人航天直接威胁。",
+              "source_url": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-16T02:55:41+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "Facebook 推出三项 AI 新功能，借鉴谷歌思路",
+              "brief": "Meta 宣布为 Facebook 推出三项 AI 功能，包括用于搜索与探索的 AI 模式、相册分享建议中的拼贴抠图模板与转场效果，以及可修改发型、服饰和配件的照片预设。这延续了其近来持续把 AI 引入产品的方向。其中 AI 模式会结合 Groups、Reels 等公开内容回答问题；拼贴工具则是去年底相册分享建议的更新，强调生成更流畅、风格化的视频拼贴，且需用户主动开启。",
+              "source_url": "https://www.androidauthority.com/new-trio-of-facebook-ai-features-3677656/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-16T04:50:40+08:00"
+            },
+            {
+              "title": "英国拟禁止 16 岁以下使用社交媒体",
+              "brief": "英国宣布计划以法律形式禁止 16 岁以下儿童使用社交媒体，覆盖 YouTube、TikTok、Instagram、Facebook、X 等平台，并可能最早在 2027 年初实施。政府已通过新闻稿以及首相基尔·斯塔默的 YouTube 与 Substack 渠道公布方案。该计划以澳大利亚模式为蓝本，要求平台负责年龄核验，否则可能被罚；按澳方现状，用户通常需提交面部扫描或身份证明。",
+              "source_url": "https://www.androidauthority.com/uk-social-media-ban-3677682/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-16T04:47:05+08:00"
+            },
+            {
+              "title": "Onn 新款户外泛光灯摄像头上市，支持 Gemini，售价 77 美元",
+              "brief": "沃尔玛现已开售 Onn Outdoor Floodlight Camera Hardwired，定价 77 美元。这是其此前 35 美元户外插电摄像头的泛光灯版本，继续主打低价联网安防。新机提供 1080p 分辨率和 130.5 度视野，并支持 Google Home 与 Gemini；订阅 Google Home Premium Advanced 的用户还能获得自定义视觉提醒，以及用自然语言查询录像历史等功能。",
+              "source_url": "https://www.androidauthority.com/onn-outdoor-floodlight-camera-on-sale-3677643/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-16T03:20:44+08:00"
+            },
+            {
+              "title": "Google Messages 或将更易识别聊天中的 AI 图片",
+              "brief": "Google 似乎正为 Android 版 Google Messages 开发一套图像识别机制，让用户更容易判断聊天图片是否由 AI 生成，或只是经过 AI 编辑。背景是 AI 处理图片日益普遍，而现有识别流程往往较为手动。线索来自近期测试版中的字符串与代码，显示应用准备读取 C2PA 的 Content Credentials 信息，并区分生成与编辑情形，但相关功能目前仍未正式可用。",
+              "source_url": "https://www.androidauthority.com/google-messages-ai-pictures-3677582/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-16T02:49:23+08:00"
+            },
+            {
+              "title": "Android Auto 上的 Gemini 通话故障导致报错",
+              "brief": "过去周末起，多名 Android Auto 用户反映，使用 Gemini 发起电话时会弹出“Something went wrong. Please try again.”错误，导致车载通话无法完成。问题出现在上周 Gemini 部分宕机已恢复之后，常见排障方法如清除应用数据或重置信息娱乐系统都无效。部分用户已改回 Google Assistant，另一些人发现卸载最近更新也能暂时恢复通话。",
+              "source_url": "https://www.androidauthority.com/android-auto-gemini-call-bug-3677605/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-16T02:46:48+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "报道称 Xbox 正在关闭 Ninja Theory、Double Fine 和 Compulsion Games",
+              "brief": "据 The Verge 和彭博社报道，Xbox 正准备关闭或出售至少三家工作室，包括 Ninja Theory、Double Fine 和 Compulsion Games。相关团队正尝试自救或寻求回购，因为微软自 2018 年起持续扩张游戏工作室版图，如今部分 Xbox Game Studios 旗下团队已开始为去留展开谈判。",
+              "source_url": "https://www.engadget.com/2194941/xbox-closing-ninja-theory-double-fine-compulsion-game-studios/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-16T07:18:51+08:00"
+            },
+            {
+              "title": "Google Earth 飞行模拟模式现已可在浏览器中使用",
+              "brief": "Google Earth 的飞行模拟模式现已向全球所有网页用户开放，用户可在浏览器里直接起飞和巡航。这是 Google 近来持续把桌面端专业能力迁移到网页端的一部分，继高程剖面和新导入类型之后，这项长期存在的功能终于上网；入口位于 Explore Earth 的 Tools 菜单，并配有新手常见问题说明，官方同时提醒它仍属实验功能，定位是休闲探索。",
+              "source_url": "https://www.engadget.com/2194884/google-earths-flight-simulator-mode-is-now-available-in-your-browser/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-16T05:50:11+08:00"
+            },
+            {
+              "title": "三星为 Galaxy Book 6 系列新增搭载 Snapdragon X2 Elite 的机型",
+              "brief": "三星为已在美国上市的 Galaxy Book 6 系列新增 Galaxy Book 6 Edge，这是该系列首款改用高通 Snapdragon X2 Elite 的机型，而非英特尔处理器。新机配备 16 英寸 3K Dynamic AMOLED 2X 触控屏、16GB 内存和 1TB 存储，支持 Wi‑Fi 7、蓝牙 5.4 与 Windows 11 Copilot+，官方称续航最高 22 小时，定价 2100 美元。",
+              "source_url": "https://www.engadget.com/2194830/samsung-expands-its-galaxy-book-6-lineup-with-a-snapdragon-x2-elite-powered-model/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-16T04:51:38+08:00"
+            },
+            {
+              "title": "《大西洋月刊》调查揭示数千万首歌曲被用于训练 AI 音乐模型",
+              "brief": "《大西洋月刊》发布了四个可搜索数据库，披露有大量歌曲被用于训练 AI 音乐模型，其中一个库含 1200 万首，另一个含 900 万首，另外两个各约 10 万首。这项调查把泰勒·斯威夫特和 Bad Bunny 等受版权保护作品纳入视野，也为针对 Suno、Udio 等平台围绕“合理使用”和盗版的诉讼提供了更具体的取证线索。",
+              "source_url": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-16T04:24:59+08:00"
+            },
+            {
+              "title": "Anthropic 因 Claude Max 使用限制遭起诉",
+              "brief": "一名 Claude 订阅用户在美国提起联邦诉讼，指控 Anthropic 在 Max 5x 和 Max 20x 套餐的使用上限上误导消费者，并寻求集体诉讼资格。诉状称官网宣传的额度难以判断且实际远低于所述水平；原告在升级到每月 200 美元的 Max 20x 后，很快就触及每周限制，一次 5 小时使用就耗掉 15% 的周额度。",
+              "source_url": "https://www.engadget.com/2194626/anthropic-hit-with-lawsuit-over-its-claude-max-usage-limits/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-16T02:41:18+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "围绕 Claude Mythos 5 的争议内幕",
+              "brief": "美国政府叫停了 Anthropic 最新、能力最强的新模型 Claude Mythos 5，使其陷入一场围绕能力边界与监管判断的拉锯，也让这家 AI 实验室与政府之间的分歧公开化。知情人士称，周末里 Anthropic 及其他支持 AI 的人士一直在向政府解释，文中提到的 Fable 5 并没有强大到应被如此对待，争论核心在于它是否“过于强大”。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+              "source_name": "The Verge",
+              "published_at": "2026-06-15T23:00:00-04:00"
+            },
+            {
+              "title": "Facebook 新版 AI 模式搜索从公开帖子取材",
+              "brief": "Meta 开始在 Facebook 搜索中推出“AI Mode”，它会与“人物”“Marketplace”等常规搜索选项并列，用户得到的是 AI 生成答案，而不只是链接。这项功能基于 Meta 各平台上的公开帖子生成结果，类似其 Forum 应用里的 AI 搜索，并支持继续追问；它也是 Meta 当天同步上线的多项 AI 新功能之一，包括球衣替换照片预设和拼贴模板建议。",
+              "source_url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+              "source_name": "The Verge",
+              "published_at": "2026-06-15T17:15:08-04:00"
+            },
+            {
+              "title": "Xbox 将关闭《地狱之刃》开发商 Ninja Theory",
+              "brief": "Xbox 正在关闭《地狱之刃》系列开发商 Ninja Theory，知情人士称员工已在周一的电话会议上获知此事，但团队仍希望工作室能找到买家。这一动作发生在微软多家 Xbox 旗下工作室调整之际，Compulsion Games 和 Double Fine 也在积极谈判分拆；此前管理层刚警告 Xbox 正在“重置”，称工作室体系扩张过度，硬件零部件危机也在显著推高价格。",
+              "source_url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+              "source_name": "The Verge",
+              "published_at": "2026-06-15T17:13:35-04:00"
+            },
+            {
+              "title": "福克斯想接管你的电视以及其中的技术",
+              "brief": "Fox 宣布以 220 亿美元收购 Roku，这家流媒体入口公司覆盖全球逾 1 亿户家庭，帮助用户进入 Netflix、Disney Plus、Hulu 等服务。交易未必会改变 Roku 熟悉的界面，但可能让 Fox 掌握屏幕背后的观看数据；公司称两者将继续独立运营，并计划把 Fox Sports、新闻内容和地方电视台进一步带入 Roku 平台。",
+              "source_url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+              "source_name": "The Verge",
+              "published_at": "2026-06-15T16:04:29-04:00"
+            },
+            {
+              "title": "亚马逊智能恒温器降至 58 美元",
+              "brief": "亚马逊的 Smart Thermostat 在早期 Prime Day 促销中降至 57.99 美元，约合 58 美元，这是自黑五以来的最低价格。对于一款售价低于 100 美元的智能恒温器，它主打与 Alexa 兼容、可学习并适应用户日常作息，还能帮助监测能源使用，在夏季电费走高时为控制制冷成本提供帮助。",
+              "source_url": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-15T15:33:28-04:00"
+            }
+          ]
+        }
+      ]
     },
     {
       "category": "更多",
@@ -39,39 +320,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Pulsar Lab X-PAD mini 多功能超小键盘国行发售，269 元",
-              "brief": "Pulsar Lab 在中国市场正式推出 X-PAD mini 多功能超小键盘，售价 269 元。该键盘支持 100kHz 按键扫描率和 8kHz 轮询率，搭载 Pulsar Gravity-S01 轴体，初始压力 40±5gf、总行程 4.0±0.3mm，支持自定义触发点、Rapid Trigger、快速轻触功能和摇杆模式，键帽采用 PBT 材质双色注塑工艺。",
-              "source_url": "https://www.ithome.com/0/964/697.htm",
+              "title": "蓝色起源爆炸事故重创“新格伦”追赶计划",
+              "brief": "蓝色起源“新格伦”火箭在佛罗里达进行静态点火测试时爆炸，发射场设施、机库和部件严重受损，但未造成人员伤亡。事故发生在公司加速推进重型火箭、试图缩小与SpaceX差距的关键阶段，员工称内部初步怀疑泄漏引发爆炸，这次测试原本是为亚马逊48颗卫星发射任务做准备，也让贝索斯主导下的追赶计划遭遇重击。",
+              "source_url": "https://www.ithome.com/0/964/754.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T10:48:14+08:00"
+              "published_at": "2026-06-16T12:55:21+08:00"
             },
             {
-              "title": "AI 版支付宝官宣开启邀测：右滑打开“阿宝”，官方放出 100 个邀请码",
-              "brief": "支付宝宣布 AI 版开启邀测，用户右滑即可打开 AI 助手“阿宝”，实现从“列表式”到“对话式”的体验升级。例如查询公积金时，用户只需说出需求，阿宝会自动匹配小程序和服务入口，将多步流程简化为一步。所有涉及资金变动的环节均由用户本人确认。官方首批放出 100 个邀请码，目前阿宝正在逐步开放。",
-              "source_url": "https://www.ithome.com/0/964/691.htm",
+              "title": "英伟达员工考公引热议，黄仁勋曾称尽力给员工高薪",
+              "brief": "一则“英伟达员工考公上岸”的消息引发热议，相关话题迅速在社交平台传播。讨论之所以受关注，是因为英伟达近年凭借AI芯片业务业绩大涨，2027财年第一财季营收和净利润均显著增长。黄仁勋此前也曾表示，公司应尽可能多奖励员工，并称自己一直在尽力给员工支付尽可能高的薪水。",
+              "source_url": "https://www.ithome.com/0/964/753.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T10:39:06+08:00"
+              "published_at": "2026-06-16T12:43:56+08:00"
             },
             {
-              "title": "外媒上手智能终端，把 AI 智能体带进微软 Win11 终端",
-              "brief": "微软推出基于 Windows Terminal 的 AI 分叉版本——智能终端，重点在侧边栏整合 AI 智能体。该工具可实时捕获 shell 错误并帮助修复，支持解释失败、生成命令或多步任务。需从微软应用商店手动下载，首次启动可选择兼容 ACP 的智能体，默认识别 GitHub Copilot。提供智能体聊天和管理两种体验，支持自动错误检测和会话管理。",
-              "source_url": "https://www.ithome.com/0/964/690.htm",
+              "title": "吉利银河战舰700参数公布：830千瓦三电机四驱配差速锁",
+              "brief": "吉利银河公布了银河战舰700的核心技术参数，这款车型采用三电机四驱插混系统，并配备差速锁，综合功率达到830千瓦，推重比392马力/吨。新车主打硬派越野，搭载GVMC动态控制系统和AI智能四驱，支持蟹行、原地掉头、爆胎行驶与连续避障，官方称其可80公里/小时通过麋鹿测试，涉水深度达800毫米。",
+              "source_url": "https://www.ithome.com/0/964/751.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T10:37:58+08:00"
+              "published_at": "2026-06-16T12:36:36+08:00"
             },
             {
-              "title": "夏普官宣进入可穿戴设备市场，预热首款智能手表 / 智能戒指 7 月 9 日正式上市",
-              "brief": "夏普宣布进军可穿戴设备市场，首款智能手表 Karada Mate Watch 和智能戒指 Karada Mate Ring 将于 7 月 9 日上市。手表采用 HEALBE 公司的 FLOW Technology，可自动测量卡路里摄入量和体内水分平衡，无需手动记录。戒指具备 IPX8 认证，内置多种传感器，可监测睡眠、心率、血氧等。两者均可与健康应用 Karada Mate 集成，提供免费和付费订阅服务。",
-              "source_url": "https://www.ithome.com/0/964/689.htm",
+              "title": "谷歌安卓开发AI榜单更新：GPT-5.5居首，Gemini 3.5 Flash最贵",
+              "brief": "谷歌更新了面向真实安卓开发任务的Android Bench榜单，OpenAI的GPT-5.5和GPT-5.4位列前二，Gemini 3.1 Pro Preview排名第三。值得注意的是，谷歌主推的Gemini 3.5 Flash仅排第六，平均单次运行成本约147.1美元，不仅成为榜单最贵模型，也约为DeepSeek V4 Flash的17.5倍。",
+              "source_url": "https://www.ithome.com/0/964/750.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T10:36:12+08:00"
+              "published_at": "2026-06-16T12:21:56+08:00"
             },
             {
-              "title": "Tensordyne Napier 流片：宣称平台 AI 推理吞吐 13 倍于 Blackwell 系统",
-              "brief": "AI 芯片初创公司 Tensordyne 宣布其 Napier 处理器已成功流片，采用台积电 3nm 制程。Napier 基于对数数学设计，用加法替代乘法，集成大量 SRAM 和 HBM，处理器间通信延迟低于 1μs。基于 Napier 的 TDN72“推理舱”可容纳 72 颗芯片，机架级系统能以 1000 Token/s/user 进行 T 级 LLM 推理，宣称吞吐量达 Blackwell 系统的 13 倍。",
-              "source_url": "https://www.ithome.com/0/964/688.htm",
+              "title": "曾毓群：2030年前固态电池难实现百万级装车",
+              "brief": "宁德时代董事长曾毓群表示，到2030年前固态电池实现百万级装车的可能性很小，因为要做到这一规模，车辆价格、性能和成本都会面临困难。他强调不能为了固态电池而做固态电池，其商业化仍需等待关键科学和技术问题突破。按他的判断，当前固态电池技术路线大致只处在1到9中的4。",
+              "source_url": "https://www.ithome.com/0/964/749.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T10:33:37+08:00"
+              "published_at": "2026-06-16T12:21:21+08:00"
             }
           ]
         },
@@ -79,39 +360,199 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "创业板指涨超2%",
-              "brief": "创业板指涨超2%，沪指涨0.15%，深证成指涨1.15%，沪深京三市上涨个股近2500只。",
-              "source_url": "https://36kr.com/newsflashes/3855253701432327?f=rss",
+              "title": "海光展示双芯安全底座与抗量子密码方案",
+              "brief": "海光信息在上海国际金融展展示“可信智能体引擎”和面向金融场景的抗量子密码方案，背景是金融机构正提升大模型与智能体应用的安全要求。其方案基于CPU+DCU双芯与芯片级安全技术，覆盖训练和推理全流程，并对Token上下文数据提供全生命周期加密保护，实测可支撑10000至30000TPS，已落地银行、保险和资本市场。",
+              "source_url": "https://36kr.com/newsflashes/3855377669690372?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-16 10:46:52  +0800"
+              "published_at": "2026-06-16 13:01:46  +0800"
             },
             {
-              "title": "理想公布马赫VLA能力的进化目标",
-              "brief": "在理想汽车Livis Day上，理想基座模型负责人詹锟公布了马赫VLA能力的进化目标：第三季度AD MAX将推送全新马赫VLA，第四季度对齐特斯拉FSD V14的能力。",
-              "source_url": "https://36kr.com/newsflashes/3855231958897923?f=rss",
+              "title": "海致科技与大型煤业集团合作，推动矿山智能化升级",
+              "brief": "海致科技与某大型煤业集团达成合作，合作目标指向矿山智能化升级。原文目前仅明确了合作双方及应用场景，即由海致科技面向煤业集团推进矿山相关智能化建设。现有输入未进一步披露所采用的技术方案、产品形态、实施范围、合作模式、项目金额、交付节奏以及具体落地时间等细节信息。",
+              "source_url": "https://36kr.com/newsflashes/3855381475988487?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-16 10:24:44  +0800"
+              "published_at": "2026-06-16 12:56:50  +0800"
             },
             {
-              "title": "清微智能IPO辅导状态变更为“辅导验收”",
-              "brief": "证监会网站显示，北京清微智能科技股份有限公司IPO辅导状态变更为“辅导验收”，辅导券商为华泰联合证券。",
-              "source_url": "https://36kr.com/newsflashes/3855218182820873?f=rss",
+              "title": "澳大利亚联储维持利率不变",
+              "brief": "澳大利亚联储在连续三次加息后决定维持利率不变，意在争取更多时间观察通胀可能的走势以及油市波动带来的影响。该行周二将官方隔夜拆款利率维持在4.35%，与经济学家和交易员的普遍预期一致，显示其当前政策重点仍是继续评估物价变化、能源市场扰动及其对经济前景的传导，而非立即进一步收紧。",
+              "source_url": "https://36kr.com/newsflashes/3855369867711496?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-16 10:10:44  +0800"
+              "published_at": "2026-06-16 12:53:58  +0800"
             },
             {
-              "title": "小牛自动化启动IPO辅导",
-              "brief": "小牛自动化在宁夏证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国信证券。",
-              "source_url": "https://36kr.com/newsflashes/3855217600549894?f=rss",
+              "title": "润和软件在浙江成立新公司，注册资本1000万元",
+              "brief": "润和软件近日在浙江新设浙江润和智源科技有限公司，进一步扩展其本地业务布局。根据天眼查App披露信息，新公司法定代表人为于萍，注册资本1000万元人民币，经营范围包括软件开发、软件销售、信息系统运行维护服务和信息系统集成服务等，股东信息显示其由润和软件全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3855364544877577?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-16 10:10:08  +0800"
+              "published_at": "2026-06-16 12:46:31  +0800"
             },
             {
-              "title": "国家统计局：1—5月份全国房地产开发投资30356亿元，同比下降16.2%",
-              "brief": "国家统计局数据显示，1—5月份全国房地产开发投资30356亿元，同比下降16.2%；其中住宅投资23426亿元，下降15.6%。房屋新开工面积17929万平方米，下降22.6%；竣工面积14087万平方米，下降23.4%。",
-              "source_url": "https://36kr.com/newsflashes/3855213272732678?f=rss",
+              "title": "东土科技：已系统布局物理AI和具身智能",
+              "brief": "东土科技表示，公司已在物理AI和具身智能领域进行系统性布局，背景是其正依托自主工业操作系统、确定性网络和智能控制器构建底层支撑能力。关键应用包括智能建造中的无人驾驶塔机、电力领域的智能变电站调度与故障诊断，以及面向具身机器人的全国产化电子架构方案，相关技术已在多个行业落地。",
+              "source_url": "https://36kr.com/newsflashes/3855362680116226?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-16 10:05:44  +0800"
+              "published_at": "2026-06-16 12:37:43  +0800"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《痴迷》导演称Z世代厌倦粗制滥造，好电影照样进影院",
+              "brief": "《痴迷》导演库里·巴克表示，Z世代愿意为真正好看的电影进影院，并直言观众已经厌倦仓促、过度包装的“粗制滥造内容”。这一判断来自《痴迷》和《Backrooms》带动的低成本恐怖片热潮；他认为关键不在大IP，而在好故事、好角色和扎实制作。巴克下一部原创片为《Anything But Ghosts》，此后还将参与A24版《德州电锯杀人狂》项目。",
+              "source_url": "https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies",
+              "source_name": "IGN",
+              "published_at": "2026-06-16T09:39:02+08:00"
+            },
+            {
+              "title": "《哈利·波特》剧集确认彼得·塞拉菲诺威茨出演电影未登场角色",
+              "brief": "《哈利·波特》电视剧确认彼得·塞拉菲诺威茨饰演皮皮鬼，这一调皮捣蛋的霍格沃茨幽灵曾计划出现在首部电影中，但因导演克里斯·哥伦布不满意已拍内容而被删去。该剧仍在前期筹备，今秋预计开拍，皮皮鬼尚不确定会在第一季还是第二季亮相；项目也再次显示，剧版正兑现更深入改编原著、以八季展开故事的承诺。",
+              "source_url": "https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films",
+              "source_name": "IGN",
+              "published_at": "2026-06-16T09:34:03+08:00"
+            },
+            {
+              "title": "《最终幻想 Resonance》开发者谈回合制RPG复兴",
+              "brief": "《最终幻想 Resonance》制作人与导演表示，回合制RPG近年再度走强，并非因为类型曾消失，而是经典体验仍能借助新技术继续进化，在当下也不必显得过时。这一判断背后，是Atlus作品、《八方旅人》《勇者斗恶龙》重制版、《博德之门3》及多款独立游戏共同带来的热度；新作则以失衡系统、类似职业的Visions和更细致的队伍定制重构战斗。",
+              "source_url": "https://www.ign.com/articles/why-turn-based-rpgs-are-resurging-according-to-final-fantasy-resonance-devs",
+              "source_name": "IGN",
+              "published_at": "2026-06-16T07:26:16+08:00"
+            },
+            {
+              "title": "《指环王：追捕咕噜》新增安雅·泰勒-乔伊",
+              "brief": "《指环王：追捕咕噜》宣布安雅·泰勒-乔伊加盟，饰演新角色瑟伦，她被描述为林地王国的辛达精灵，也是瑟兰督伊可信赖且致命的特工。这部前传于2024年公布，故事发生在《霍比特人》与《护戒使者》之间，由安迪·瑟金斯执导并回归饰演咕噜，伊恩·麦克莱恩、伊利亚·伍德等人也将出演，影片定于2027年12月17日上映。",
+              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-adds-anya-taylor-joy-to-cast",
+              "source_name": "IGN",
+              "published_at": "2026-06-16T04:59:37+08:00"
+            },
+            {
+              "title": "Treyarch负责人马克·戈登卸任《使命召唤》工作室",
+              "brief": "Treyarch负责人马克·戈登已从这家《使命召唤》工作室离职，准备开启尚未公布的职业新阶段，接下来将由耶鲁·米勒和凯文·亨德里克森共同担任联席主管。两人都在动视任职多年，并参与过多部《使命召唤》作品。戈登离开之际，距离以《黑色行动》多人模式闻名的前设计总监大卫·冯德哈爾数年前出走、自立门户也并不久。",
+              "source_url": "https://www.ign.com/articles/treyarch-head-mark-gordon-steps-down-from-call-of-duty-studio",
+              "source_name": "IGN",
+              "published_at": "2026-06-16T04:49:55+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "剧本锻造：把想法变成可拍摄的剧本",
+              "brief": "开源 Skill“剧本锻造”发布，面向已有至少500字故事素材，可把小说、梗概、长会话角色扮演记录或剧本初稿逐步转成可拍摄的标准剧本。流程要求人机分阶段确认，依次完成形态判断、写作规则、分场大纲、剧本初稿与自检，并可继续生成分镜表和角色、场景、道具等数字资产清单。",
+              "source_url": "https://www.appinn.com/script-forging/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-15T19:02:17+08:00"
+            },
+            {
+              "title": "115网盘618特价：2年150元、3年498元、8年800元",
+              "brief": "115网盘公布2026年618活动价，京东官方旗舰店提供三档会员方案：2年150元但不额外送空间，3年498元含15TB空间并限时加送3个月和1TB，8年800元含30TB空间。文章重点提醒首档套餐不会改变原有容量，后两档则附带长期有效的扩容权益，均为官方直充会员服务。",
+              "source_url": "https://www.appinn.com/115-26618/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-15T11:26:13+08:00"
+            },
+            {
+              "title": "发现频道近10日热门排行榜（2026年第24期）",
+              "brief": "小众软件整理了论坛发现频道最近10天的自动热门榜，按顺序列出10个话题，覆盖桌面收集工具Ameow、AI修仙模拟器、FusionCloud网盘挂载、Clippi剪贴板历史、机票酒店比价Skill、Voicer播客阅读工具、HiDNS与MACKey等开发者或开源项目，作为上一期榜单后的最新一期汇总。",
+              "source_url": "https://www.appinn.com/faxian-top10-2624/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-15T09:01:09+08:00"
+            },
+            {
+              "title": "Gravity：基于物理的太阳系模拟器",
+              "brief": "Gravity 是一个开源太阳系模拟器，通过24个可交互动画解释引力、惯性、行星轨道和火箭发射等问题，适合配合儿童提问进行演示。项目说明其天体半径、质量、轨道参数和时钟均基于真实观测与J2000数据，每帧求解开普勒方程，另提供自由探索模式，只有显示比例做了调整。",
+              "source_url": "https://www.appinn.com/gravity-the-solar-system/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-14T17:37:41+08:00"
+            },
+            {
+              "title": "Chrome 151 彻底终结旧版扩展，uBlock Origin 时代落幕",
+              "brief": "Chrome Canary 151 已彻底移除 Manifest V2 扩展支持，重新启用扩展的命令行参数失效，Beta 150 也无法恢复。uBlock Origin 等 MV2 扩展因此不能继续在 Chrome 中运行；Google 自2020年起推动 MV3，多数主流扩展已推出替代版本，Tampermonkey 5.x 已迁移完成。",
+              "source_url": "https://www.appinn.com/chrome-151-manifest-v2-end-ublock-origin/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-13T19:21:09+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "AMD悄然在消费级锐龙中禁用TSME内存加密",
+              "brief": "AMD被曝通过BIOS固件更新，在部分锐龙消费级处理器上悄然禁用TSME透明安全内存加密，却未在更新说明或其他渠道公告。TSME最初随Zen架构推出，后来也能在普通锐龙上启用，用于防范冷启动和物理内存窃取。Linux用户在数月排查并联合主板厂测试后提交报告，AMD回应称这并非漏洞，而是该功能本就仅属于AMD PRO。",
+              "source_url": "https://www.landian.news/archives/113487.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-16T13:00:58+08:00"
+            },
+            {
+              "title": "诺和诺德遭黑客入侵，内部医药AI模型与数据被窃",
+              "brief": "诺和诺德确认在6月11日至12日前后发生网络安全事件，未经授权的匿名用户访问了部分内部IT基础设施并窃取数据。事件受到关注，是因失窃内容除部分临床试验患者的去标识化数据外，还包括内部AI模型、专有训练数据、完整代码库、训练日志、容器镜像及基础设施信息，公司已通知监管机构并聘请外部网络安全专家调查。",
+              "source_url": "https://www.landian.news/archives/113486.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-16T12:00:58+08:00"
+            },
+            {
+              "title": "Anthropic暂缓Claude订阅规则调整",
+              "brief": "Anthropic已通知付费订阅用户，原定于6月15日生效的Claude订阅规则调整暂缓执行，开发者仍可在Agent SDK、claude -p和第三方应用中继续使用现有订阅额度。此前方案要求这类用法改用按月领取的独立额度，开发者担心额度不足后还需额外购买，因此引发强烈反对；公司目前未给出新的实施时间表。",
+              "source_url": "https://www.landian.news/archives/113485.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-16T11:30:54+08:00"
+            },
+            {
+              "title": "Telegram向所有Bot开放更丰富的Markdown与HTML格式",
+              "brief": "Telegram宣布向所有机器人开放更丰富的富文本格式，Bot现可使用更多Markdown和HTML样式生成标题、列表、表格、引用、可折叠块、脚注和数学公式等内容。这意味着开发者可直接输出更完整的结构化消息；同时平台也给出限制，包括单条消息最多32768个UTF-8字符、500个块、16层嵌套、50个媒体附件和20列表格。",
+              "source_url": "https://www.landian.news/archives/113484.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-16T11:00:52+08:00"
+            },
+            {
+              "title": "巴西Rio 3.5模型承认基于开源模型合并后下架",
+              "brief": "巴西里约热内卢市政府旗下市政IT公司发布的开源模型Rio 3.5，在社区质疑后承认上传版本并非自主研发成果，而是基于现有模型的合并版本，相关仓库目前已删除。该模型曾宣称在多项基准测试中表现突出，随后被发现主要由Nex-N2-Pro与阿里巴巴Qwen按比例混合而成；发布方道歉称系上传错误，之后将重新提供正确版本。",
+              "source_url": "https://www.landian.news/archives/113483.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-16T10:30:54+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "SpaceX华人员工Tina Li回应“星舰女王”传闻",
+              "brief": "因被网传掌握星舰“发射终止权”并借SpaceX上市暴富，Tina Li亲自出面澄清姓名、学历和岗位信息。她表示自己只是斯坦福本科毕业生，早年以软件工程师身份加入公司，自2020年起常驻星舰基地，先负责飞行器级间软件，第二次试飞后转为猛禽发动机飞行操作员之一，许多推进和流体知识都是入职后边做边学，并非传言中的单一核心决策者。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565908.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-16T13:02:24+08:00"
+            },
+            {
+              "title": "Mistral借Anthropic受限强调欧洲应减少依赖美国模型",
+              "brief": "美国因国家安全担忧限制Anthropic部分前沿模型访问，Anthropic随后全面暂停相关模型服务，也再次引发谁掌握前沿AI最终控制权的讨论。Mistral首席执行官Arthur Mensch借此重申“AI主权”主张，称欧洲政府和企业不应把开关权交给美国供应商，应优先采用可在本地基础设施部署并可自定义的开放权重模型。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565906.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-16T13:01:11+08:00"
+            },
+            {
+              "title": "美国空军一架B-52轰炸机在加州坠毁",
+              "brief": "一架美国空军B-52轰炸机在加利福尼亚州起飞后不久坠毁，机上8名机组人员据信全部遇难。B-52由波音制造，属于远程轰炸机，自20世纪50年代起就在美国空军服役，是长期使用的主力机型之一。按美军资料，这一机型通常搭载5名机组人员，单机价格约8400万美元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565904.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-16T13:00:25+08:00"
+            },
+            {
+              "title": "美国终止对达美航空2024年大规模航班中断的调查",
+              "brief": "美国交通部结束了对达美航空2024年大规模航班中断事件的调查，并决定不予处罚。审查称，达美向乘客提供了及时退款、行李协助以及针对残障乘客的适当帮助。报道称，特朗普政府上任后正撤销拜登时期部分航空消费者保护举措，近期还豁免了西南航空、美国航空等公司的相关罚款。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565902.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-16T12:59:38+08:00"
+            },
+            {
+              "title": "SpaceX股价继续上涨 马斯克身家突破1.3万亿美元",
+              "brief": "SpaceX上市后涨势延续，股价再涨约20%，承销商还行使“绿鞋”超额配售权，使募资总额从750亿美元增至857亿美元。受持股和期权价值上升推动，马斯克净资产升破1.3万亿美元。报道同时提到，尽管公司吸引了巨额认购、收入增长迅猛，但2025年已由盈利转为亏损，部分分析师对其估值与扩张节奏持谨慎态度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1565900.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-16T12:59:04+08:00"
             }
           ]
         }
