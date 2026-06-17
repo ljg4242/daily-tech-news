@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T06:53:03.665244+08:00",
+  "generated_at": "2026-06-17T08:55:00.468526+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 中视觉智能有哪些新变化",
+              "brief": "苹果在 iOS 27 中大幅升级视觉智能，并将其扩展到 iPad 和 Mac，使同类功能可跨设备使用。新版本把入口移到相机里的 Siri 模式，用户拍照后可直接围绕眼前内容继续追问，过去复杂问题常转交 ChatGPT，如今更多可由 Siri 结合网络信息完成；新增能力还包括识别植物、查看食物营养，以及在美国拍摄餐厅账单后拆分金额并用 Apple Cash 收付款。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-visual-intelligence/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T07:33:30+08:00"
+            },
+            {
+              "title": "Nimble 推出可一分为二的 10000mAh 移动电源 SharePower",
+              "brief": "Nimble 发布了 SharePower，这是一款可磁吸合体也可拆成两半共享的 10000mAh USB-C 移动电源，主打两人同时补电。整机合并时可为单部手机提供最高 35W 输出，拆开后每半边为 5000mAh、最高 20W，并各带一根 USB-C 线；两侧还各有一个 USB-C 接口，分开时最多可同时给四台设备充电，评测中其充电速度符合标称，但充电时有轻微电子声。",
+              "source_url": "https://www.macrumors.com/2026/06/16/nimble-sharepower/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T07:00:47+08:00"
+            },
             {
               "title": "Beats Studio Buds 固件更新修补蓝牙漏洞",
               "brief": "苹果发布 Beats Studio Buds 新固件 1B211，修补一项蓝牙漏洞。苹果安全支持文档称，该问题会在耳机尚未配对且正在搜索配对请求时，让处于蓝牙范围内的攻击者通过设备麦克风进行监听。漏洞源自开源代码，苹果软件也属于受影响项目；用户可将耳机与 iPhone、iPad 或 Mac 配对后置于充电状态，并保持在蓝牙范围内完成更新。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/06/16/apple-watch-challenge-yoga-day-2026/",
               "source_name": "MacRumors",
               "published_at": "2026-06-17T02:55:25+08:00"
-            },
-            {
-              "title": "苹果发布 AirPods Pro 2、AirPods Pro 3 和 Beats Studio Buds 新固件",
-              "brief": "苹果发布了AirPods Pro 3、AirPods Pro 2的8B41固件，以及Beats Studio Buds的1B211固件，分别较上一版小幅更新。苹果未说明具体改动，按其一贯做法，此类更新通常以错误修复和性能改进为主。安装时需让耳机通过蓝牙连接iPhone、iPad或Mac，并将充电盒接通电源且保持闭合至少30分钟。",
-              "source_url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T02:19:01+08:00"
-            },
-            {
-              "title": "Snap 推出售价 2195 美元的 Specs 增强现实眼镜",
-              "brief": "Snap发布名为Specs的增强现实眼镜，定价2195美元，将其定位为内置于透明镜片中的可穿戴计算机。产品采用瑞士TR90聚合物材质，提供两种尺寸，可更换处方镜片，配备双彩色摄像头、双红外计算机视觉摄像头和双Snapdragon芯片，支持手势与语音控制，混合使用续航最长4小时，充电盒可将总续航提升至20小时。",
-              "source_url": "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T01:58:24+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果发布 Beats Studio Buds 固件更新，修复麦克风安全漏洞",
+              "brief": "苹果发布Beats Studio Buds固件更新1B211，修复一项重要麦克风安全漏洞。苹果在支持文档中称，处于蓝牙范围内的攻击者可能监听尚未配对、且正在主动寻找配对请求的设备麦克风。该漏洞编号为CVE-2025-20701，与开源代码有关；用户无法手动推送更新，需在设备装有最新系统、连上Wi‑Fi并开启蓝牙的情况下，将耳机留在范围内至少30分钟完成升级。",
+              "source_url": "https://9to5mac.com/2026/06/16/apple-releases-beats-studio-buds-firmware-update-with-important-microphone-security-fix/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T07:58:18+08:00"
+            },
             {
               "title": "9to5Mac Daily：2026年6月16日——新的屏幕使用时间与儿童安全功能",
               "brief": "9to5Mac发布2026年6月16日的Daily播客节目，集中梳理苹果当天几则重点动态。节目是该站每个工作日更新的新闻播客，本期围绕iOS 27和macOS 27的新变化展开，内容包括macOS 27为iPhone镜像加入三项升级、iOS 27补强屏幕使用时间和家长控制，以及默认关闭的新听写功能和开启方法，并提供Apple Podcasts、Overcast、Spotify等收听入口。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/06/16/apple-has-started-replacing-macos-names-with-version-numbers-in-several-ways/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-17T04:41:24+08:00"
-            },
-            {
-              "title": "MyFitnessPal 推出 AI 个性化营养教练",
-              "brief": "MyFitnessPal 在应用中新增 Coach 标签页，推出由 AI 驱动的个性化营养教练。该功能基于平台二十多年的营养经验和庞大食物数据库，不再只给出通用建议，而是结合用户记录的饮食、目标和习惯提供更具体的反馈，包括餐食替换、份量调整、食谱搭配，以及如何更好使用现有工具；目前向美国、英国、加拿大、澳大利亚和新西兰的 Premium 与 Premium+ 订阅用户开放。",
-              "source_url": "https://9to5mac.com/2026/06/16/myfitnesspal-adds-ai-powered-coach-for-personalized-nutrition-guidance/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T04:38:55+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "特朗普政府试图阻止针对 xAI 燃气轮机的《清洁空气法》诉讼",
+              "brief": "特朗普政府正试图帮助 xAI 挡下针对其燃气轮机的《清洁空气法》诉讼。该案由 NAACP 提起，指控密西西比州南海文为 Grok 数据中心供电的27台机组无证运行，至5月中旬已增至57台且还计划再装2台。司法部则称州环保部门认定无需许可，并表示若切断相关电力，将影响 AI 创新和军方对 Grok 的作战支持。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-17T06:22:44+08:00"
+            },
+            {
+              "title": "HPE 提供一年免费软件，被视为与 VMware 竞争的正确一步",
+              "brief": "HPE 在拉斯维加斯举行的 Discover 大会上宣布，VM Essentials 虚拟化软件可免费使用最长一年，明显瞄准对 VMware 涨价不满的客户与渠道。该平台被定位为 VMware 替代方案，可在同一控制台管理 VMware ESXi 与 HVM 集群，并提供 1 美元的 Zerto 迁移支持和零利率软件融资；按官网建议，其常规价格为每个 CPU 插槽每年 600 美元。",
+              "source_url": "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-17T06:11:15+08:00"
+            },
+            {
               "title": "蟑螂体内携带数千段细菌基因组片段",
               "brief": "一项针对多种蟑螂基因组的新研究发现，它们体内携带了数千段来自细菌的DNA片段，说明水平基因转移并不只发生在微生物之间。过去这类现象多与细菌和古菌相关，因为它们更容易让环境中的外源DNA并入基因组；而这次结果显示，多细胞动物也会长期保留这类片段，其中一些可能已在蟑螂谱系中存在数百万年。",
               "source_url": "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-17T05:00:35+08:00"
-            },
-            {
-              "title": "报道称美国批准派拉蒙天空之舞与华纳兄弟交易令司法部律师意外",
-              "brief": "美国司法部上周批准派拉蒙天空之舞拟以1110亿美元收购华纳兄弟探索，但《华尔街日报》称，负责八个月审查的职业反垄断律师原本倾向建议起诉，认为两家电影公司合并可能损害竞争并违反反垄断法。报道还称，高层在调查人员尚未来得及正式提出异议前结束审查，团队当时正质疑合并后在债务增加情况下能否兑现每年发行30部院线电影的承诺。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-17T02:48:45+08:00"
-            },
-            {
-              "title": "五角大楼称已用 AI 起草提交国会的法定报告",
-              "brief": "美国国防部官员公开表示，已用生成式AI起草提交国会的年度法定报告，以缩短原本需耗费大量人力的文书工作。五角大楼把这视为部门采用生成式AI的重要案例，并称自2025年12月起，已通过 GenAI.mil 向六大军种提供基于 Google Cloud Gemini for Government 的工具，且约150万人在使用。",
-              "source_url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-17T02:11:05+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "戴尔 XPS 13 笔记本今日开售",
+              "brief": "戴尔宣布回归的 XPS 13 现已正式开售，线上与线下门店均已上架。这款低价笔记本发布于上月底，当时仅称会在 6 月上市，如今已进入实际销售阶段。其学生价 599 美元起，其他消费者 699 美元起；它推出之际，苹果刚发布面向教育市场的低价 MacBook Neo，并已获得堪萨斯城公立学校超过 4500 台采购订单。",
+              "source_url": "https://www.engadget.com/2195930/dell-xps-13-available/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-17T07:22:11+08:00"
+            },
+            {
               "title": "韦布望远镜拍到首个“核球化石碎片”",
               "brief": "韦布望远镜研究团队在银河系中心的特赞5区域确认了首个“核球化石碎片”，为追溯银河系核球的形成历史提供了新证据。这里因恒星极度密集且尘埃遮挡，长期难以观测；研究人员结合韦布与哈勃档案数据发现，它并非过去归类的球状星团，而是至少经历四次恒星形成，分别约发生在125亿、47亿、38亿和25亿年前。",
               "source_url": "https://www.engadget.com/2195892/the-webb-telescope-has-captured-its-first-bulge-fossil-fragment/",
@@ -235,13 +242,6 @@
               "source_url": "https://www.engadget.com/2195679/the-eu-wont-pursue-a-mandatory-game-preservation-law/",
               "source_name": "Engadget",
               "published_at": "2026-06-17T02:45:28+08:00"
-            },
-            {
-              "title": "10个几分钟就能设置的冷门 Apple Watch 功能",
-              "brief": "Engadget 汇总了 10 个容易被忽视、且几分钟内就能启用的 Apple Watch 功能，强调它们并非真正“隐藏”，只是常被主流卖点盖过。文中举例包括利用 Auto Unlock 在佩戴手表时为 Mac 自动解锁，并代替 Touch ID 处理部分管理员验证，前提是两端开启 Wi-Fi 和蓝牙、登录同一 Apple 账户且手表设有密码；另一项是指南针里的 Backtrack，可记录行进路线，迷路时原路返回。",
-              "source_url": "https://www.engadget.com/2195465/underrated-apple-watch-features/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-17T02:30:00+08:00"
             }
           ]
         },
@@ -407,39 +407,98 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "联想发布拯救者 PB9 170W 带屏移动电源：2C+1A、24000mAh，489 元",
-              "brief": "联想推出 PB9 拯救者带屏移动电源，采用独特三角设计，配备 24000mAh 电芯，售价 489 元。产品面向高功率移动补能场景，顶部提供 2 个 USB-C 140W 接口和 1 个 USB-A 30W 接口；在多口同时使用时，峰值输出功率最高可达 170W。协议方面支持联想私有 140W 快充，以及 PD 3.1、PPS、SCP、QC、FCP 等标准。",
-              "source_url": "https://www.ithome.com/0/965/136.htm",
+              "title": "酷冷至尊推出 Q300L V3 机箱：模块化 I/O、预装 140mm 风扇",
+              "brief": "酷冷至尊推出 Q300L V3 机箱，采用模块化 I/O 设计并预装一把 140mm 风扇，台湾售价 1999 新台币。新款容量 32.17L，较 Q300L V1 增大 12.5%，支持 M-ATX、Micro-ATX、Mini-ITX 主板。机箱提供侧透和前顶大面积网孔，I/O 可在顶部或前部上下调整，并提供 USB-C、双 USB-A 与 3.5mm 音频接口。",
+              "source_url": "https://www.ithome.com/0/965/170.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-17T06:43:13+08:00"
+              "published_at": "2026-06-17T08:38:43+08:00"
             },
             {
-              "title": "英伟达与 Coherent 扩建 AI 光互联产线，黄仁勋称 AI 是终极通用技术",
-              "brief": "英伟达与 Coherent 为 AI 光互联产能扩建举行奠基，黄仁勋在现场称人工智能是“终极通用技术”。背景是大规模 AI 系统连接 GPU、服务器和数据中心时，对高速激光器、收发器和光互连器件需求上升；当 576 个 GPU 跨 8 个机架协同时，铜缆已难满足距离和带宽要求，需依赖硅光。该项目获 5000 万美元 CHIPS Act 拨款及约 1700 万美元地方支持。",
-              "source_url": "https://www.ithome.com/0/965/135.htm",
+              "title": "苹果 watchOS 27 微调 Apple Watch 液态玻璃界面，仍未加入透明度滑块",
+              "brief": "苹果在 watchOS 27 中继续调整 Apple Watch 的液态玻璃界面，但整体变化较小，仍属于延续式更新。报道将运行 watchOS 26 的 Apple Watch Series 11 与运行 watchOS 27 的 Apple Watch Ultra 3 对比后称，两代界面差异并不明显。当前系统已向开发者提供测试版，公开测试版将于 7 月推出，正式版预计今秋发布。",
+              "source_url": "https://www.ithome.com/0/965/169.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-17T06:14:45+08:00"
+              "published_at": "2026-06-17T08:35:55+08:00"
             },
             {
-              "title": "总台称世界杯传播效果再创新高，单日触达近20亿人次",
-              "brief": "中央广播电视总台披露，世界杯传播效果数据再创新高，单日触达近20亿人次。自赛事开赛以来，已有1674条相关话题登上热搜，几乎覆盖全部热门比赛和焦点时刻；其第三方平台账号发布的世界杯短视频累计传播量也接近3亿次。此前总台已与国际足联就新周期版权合作达成共识，相关合作赛事包括2026、2030男足世界杯及2027、2031女足世界杯。",
-              "source_url": "https://www.ithome.com/0/965/132.htm",
+              "title": "特斯拉 FSD 仍受导航问题拖累",
+              "brief": "特斯拉已开始推送监督版 FSD v14.3.4，但多名车主反映导航仍频繁拖累整体体验。报道指出，系统虽然在加速、变道和避障等基础驾驶操作上表现较好，却常出现拐错弯、错过高速出口、误报限速等问题。特斯拉已就这类错误向车主展开专项调研，相关问题也被认为与多源地图数据整合、路线学习能力和规划逻辑不足有关。",
+              "source_url": "https://www.ithome.com/0/965/168.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T23:59:52+08:00"
+              "published_at": "2026-06-17T08:31:10+08:00"
             },
             {
-              "title": "朱江明：零跑2020年已推出凌芯01",
-              "brief": "零跑董事长朱江明表示，公司在2020年就推出“凌芯01”，这是国内首款具有完全自主知识产权的车规级AI智能驾驶芯片，并于2021年随零跑C11量产上车。该芯片采用28nm工艺，使用玄铁C860处理器并集成8核神经网络处理器，支持通过PCIE级联提升算力；不过他同时称，当下AI智驾芯片性能已过剩，零跑现阶段会更聚焦核心零部件和整车创新。",
-              "source_url": "https://www.ithome.com/0/965/131.htm",
+              "title": "消息称字节调整 AI 资源分配，重心转向企业服务",
+              "brief": "消息称，字节跳动近两个月开始调整 AI 资源分配，重心由豆包等面向大众的产品转向企业服务。报道提到，此前有字节高层到访 Anthropic，随后公司方向出现变化，而 Seedance 已被视为企业服务路线可行的例证。消息还称，Seedance 目前年化收入已达 20 亿美元，绝大多数收入来自企业客户。",
+              "source_url": "https://www.ithome.com/0/965/167.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T23:52:12+08:00"
+              "published_at": "2026-06-17T08:30:11+08:00"
             },
             {
-              "title": "全国首个商业空间碎片监测专用星座首发星出征",
-              "brief": "全国首个商业空间碎片监测专用星座LX630首发星进入出征阶段，计划于今年7月发射。该星座面向近地空间目标探测，可支撑太空交通协同管理、航天器在轨安全运行和空间碎片动态编目；首发星搭载高星等目标探测相机与星载AI计算机，支持全天域扫描、快速追踪、多轨道机动和抵近探测，14颗卫星组成的系统计划于2027年全面建成运营。",
-              "source_url": "https://www.ithome.com/0/965/130.htm",
+              "title": "机构预计苹果 iPhone 18 标准版将配备 12GB 内存",
+              "brief": "KB 证券预估，苹果 iPhone 18 标准版将把内存从 8GB 提升至 12GB，并在维持 799 美元起售价的同时支持完整 Siri AI 体验。报道认为，这一调整也将覆盖 iPhone 18 Pro 系列及苹果首款折叠 iPhone，以扩大 AI 生态用户规模。文中同时列出历代标准版与 Pro 版 iPhone 的内存变化，显示苹果近年持续上调配置。",
+              "source_url": "https://www.ithome.com/0/965/166.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-16T23:41:48+08:00"
+              "published_at": "2026-06-17T08:25:11+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "埃隆·马斯克宣布SpaceX将以600亿美元收购AI编程工具Cursor",
+              "brief": "马斯克确认SpaceX将以600亿美元收购Cursor开发商Anysphere，交易预计于2026年第三季度完成。此前他已透露有意收购，因SpaceX在AI编程工具领域落后于OpenAI和Anthropic，收购可补齐竞争力并获取开发者使用数据。此次将通过Anysphere与全资子公司X67股票合并完成，若失败终止费最高达100亿美元。",
+              "source_url": "https://www.landian.news/archives/113510.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-17T08:30:02+08:00"
+            },
+            {
+              "title": "巴西里约RIO 3.5团队再次致歉：优化版模型已误删，暂无法发布",
+              "brief": "巴西里约市政府旗下IplanRio就RIO 3.5“套壳”争议再次致歉，并称原计划补发的优化版模型因数据丢失暂时无法发布。此前团队承认误上传了基础合并版本而非最终蒸馏优化版本，该模型基于Nex AGI和阿里千问构建。最新声明称最终验证版未能恢复，因此需要重新训练并完成外部验证，发布时间未定。",
+              "source_url": "https://www.landian.news/archives/113509.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-17T08:00:02+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "龙蟠科技拟配售1500万股H股，预计净筹资约1.94亿港元",
+              "brief": "龙蟠科技计划配售1500万股H股，预计净筹资约1.94亿港元。此次配售价格较收市价14.37港元折让约8.91%，净配售价约12.91港元，完成仍需联交所上市批准等条件。公司称，约1.14亿港元将用于金坛项目一般营运资金，包括原材料采购、公用事业费和员工工资，约8000万港元用于偿还部分贷款，配售股份占已发行H股约12.50%。",
+              "source_url": "https://36kr.com/newsflashes/3856554936341769?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 08:50:33  +0800"
+            },
+            {
+              "title": "两市融资余额增加263.64亿元",
+              "brief": "截至6月16日，沪深两市融资余额继续上升，合计达到28938.39亿元，较前一交易日增加263.64亿元。这一数据由两地交易所分别披露，其中上交所融资余额报14736.89亿元，较前一交易日增加119.21亿元；深交所融资余额报14201.5亿元，较前一交易日增加144.43亿元，两项数据相加后构成当日两市融资余额总规模。",
+              "source_url": "https://36kr.com/newsflashes/3856553674347784?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 08:49:16  +0800"
+            },
+            {
+              "title": "华泰证券：国产AI芯片正迎来涨价窗口",
+              "brief": "华泰证券表示，国产AI芯片正迎来涨价窗口。其背景是上游HBM、基板、封装和代工等环节成本全面上涨，同时本土算力供需失衡，在自主可控需求与议价权上移背景下，企业仍具备成本转嫁能力。研报预计下半年HBM采购成本升幅或超过50%，且2025年至2027年国产AI芯片仍存在较大供需缺口，后续催化剂包括新一代产品发布、测试适配结果和提价落地。",
+              "source_url": "https://36kr.com/newsflashes/3856542305948928?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 08:47:37  +0800"
+            },
+            {
+              "title": "多数券商预测美联储2026年不会调整政策",
+              "brief": "多家跨国大型券商目前预计，美联储在2026年剩余时间将维持利率不变，较年初普遍预期年内降息两次的判断出现明显反转。判断变化的背景是通胀风险仍在，就业市场也表现出韧性。芝商所FedWatch工具显示，交易员预计12月加息25个基点的概率约为42%，且在美伊和平协议达成后，市场对进一步加息的预期已较此前有所回落。",
+              "source_url": "https://36kr.com/newsflashes/3856537276404743?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 08:45:26  +0800"
+            },
+            {
+              "title": "港交所科技100指数半年度调整，AI龙头集中入列",
+              "brief": "港交所科技100指数完成半年度常规调整，并首次与快速纳入机制在同日生效，10只新进成分股中包括智谱、壁仞科技、天数智芯等AI硬科技企业。此次调整旨在强化指数对人工智能、自动驾驶、机器人等未来产业的表征功能。分析认为，相关龙头集中纳入后，短期有望带来被动资金配置增量，中长期则有助于提升指数整体成长弹性与估值标杆效应。",
+              "source_url": "https://36kr.com/newsflashes/3856536907289858?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 08:43:08  +0800"
             }
           ]
         }
