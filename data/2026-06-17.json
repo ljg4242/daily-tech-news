@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T20:59:29.788074+08:00",
+  "generated_at": "2026-06-17T22:58:23.517360+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,39 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果新版“隐藏我的邮箱”域名让 iCloud 别名更易被屏蔽",
+              "brief": "苹果计划今夏把“隐藏我的邮箱”与“通过 Apple 登录”使用的邮箱域名统一到 private.icloud.com，这使想限制 iCloud 别名的平台可单独屏蔽该子域。此前隐藏邮箱与普通 iCloud 邮箱同用 icloud.com，若整域封禁会误伤正常邮箱用户。苹果表示旧地址仍会继续转发并可正常使用，迁移后新生成的别名才会首次成为可被独立识别和限制的明确目标。",
+              "source_url": "https://www.macrumors.com/2026/06/17/new-hide-my-email-domain-makes-it-easier-to-block/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T22:41:01+08:00"
+            },
+            {
+              "title": "AirPods Pro 3 在亚马逊降至 169 美元，创历史新低",
+              "brief": "亚马逊在 Prime Day 前开启提前促销，将 AirPods Pro 3 从 249 美元降到 169 美元，刷新历史最低价。MacRumors称这一价格比此前最低纪录再低 10 美元，且当天页面价格波动较大，未显示低价时可能稍后恢复。该机型于 2025 年 9 月发布，主打主动降噪提升、音质改进、重新设计的佩戴贴合度，以及实时翻译和运动心率感应等功能。",
+              "source_url": "https://www.macrumors.com/2026/06/17/airpods-pro-3-new-low-price-of-169/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T22:04:29+08:00"
+            },
+            {
+              "title": "macOS 27 Golden Gate 终止对 Time Capsule 的支持",
+              "brief": "macOS 27 Golden Gate 在首个开发者测试版中移除了 AFP 客户端，Time Capsule 因而结束与 Time Machine 的兼容，近二十年的支持告一段落。背景是苹果早已停止 AirPort 产品线，而所有 Time Capsule 机型都依赖 AFP 与 SMBv1。自 macOS 27 起，Time Machine 需要 SMBv2 或 SMBv3，系统还把 TLS 1.2 设为最低要求，因此原装硬件无法满足，只剩社区 GitHub 项目提供潜在替代方案。",
+              "source_url": "https://www.macrumors.com/2026/06/17/macos-27-golden-gate-kills-time-capsule-support/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T21:47:52+08:00"
+            },
+            {
+              "title": "苹果为 App Store 个性化推荐“记录每次点击”",
+              "brief": "苹果上周为 App Store 推出“个性化合集”推荐，会根据用户兴趣、应用使用和下载行为，在“应用”“游戏”和“搜索”标签中动态调整展示内容。其背景是苹果希望提升应用发现能力，但研究人员 Mysk 称系统会记录用户在 App Store 中的“每次点击”，且无法关闭，甚至可据此推算打字速度；他们还表示，这些分析数据可在 privacy.apple.com 的个人数据导出中看到。",
+              "source_url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T21:27:17+08:00"
+            },
+            {
               "title": "Apple TV 限时优惠：亚马逊 Prime 会员每月 5.99 美元",
               "brief": "苹果与亚马逊合作，在美国通过 Prime Video 为 Prime 会员推出 Apple TV 限时加购优惠，月费降至 5.99 美元。该活动价格比常规的 12.99 美元月费低逾五成，最长可享两个月，优惠将于 6 月 26 日结束，期满后恢复标准价格。用户需登录亚马逊账号，可通过活动链接或 Prime Video 应用订阅，并可观看 Apple TV 的原创剧集、电影和直播体育赛事。",
               "source_url": "https://www.macrumors.com/2026/06/17/apple-tv-promo-deal-amazon-prime/",
               "source_name": "MacRumors",
               "published_at": "2026-06-17T18:04:20+08:00"
-            },
-            {
-              "title": "WhatsApp 正为 iPhone 开发一次性查看文本消息",
-              "brief": "WhatsApp 正在为 iPhone 开发一次性查看文本消息功能，用户输入后可长按发送键选择“查看一次”发送。它延续了照片、视频和语音备注已有的阅后即焚设计，也回应了部分用户此前把文字做成图片再以一次性媒体发送的变通做法。消息被打开后即消失，且不能复制、转发或分享，并会阻止截屏和录屏；功能预计支持个人聊天和群组，Android 版本也在开发中。",
-              "source_url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T16:48:06+08:00"
-            },
-            {
-              "title": "iOS 27 中视觉智能有哪些新变化",
-              "brief": "苹果在 iOS 27 中大幅升级视觉智能，并将其扩展到 iPad 和 Mac，使同类功能可跨设备使用。新版本把入口移到相机里的 Siri 模式，用户拍照后可直接围绕眼前内容继续追问，过去复杂问题常转交 ChatGPT，如今更多可由 Siri 结合网络信息完成；新增能力还包括识别植物、查看食物营养，以及在美国拍摄餐厅账单后拆分金额并用 Apple Cash 收付款。",
-              "source_url": "https://www.macrumors.com/guide/ios-27-visual-intelligence/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T07:33:30+08:00"
-            },
-            {
-              "title": "Nimble 推出可一分为二的 10000mAh 移动电源 SharePower",
-              "brief": "Nimble 发布了 SharePower，这是一款可磁吸合体也可拆成两半共享的 10000mAh USB-C 移动电源，主打两人同时补电。整机合并时可为单部手机提供最高 35W 输出，拆开后每半边为 5000mAh、最高 20W，并各带一根 USB-C 线；两侧还各有一个 USB-C 接口，分开时最多可同时给四台设备充电，评测中其充电速度符合标称，但充电时有轻微电子声。",
-              "source_url": "https://www.macrumors.com/2026/06/16/nimble-sharepower/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T07:00:47+08:00"
-            },
-            {
-              "title": "Beats Studio Buds 固件更新修补蓝牙漏洞",
-              "brief": "苹果发布 Beats Studio Buds 新固件 1B211，修补一项蓝牙漏洞。苹果安全支持文档称，该问题会在耳机尚未配对且正在搜索配对请求时，让处于蓝牙范围内的攻击者通过设备麦克风进行监听。漏洞源自开源代码，苹果软件也属于受影响项目；用户可将耳机与 iPhone、iPad 或 Mac 配对后置于充电状态，并保持在蓝牙范围内完成更新。",
-              "source_url": "https://www.macrumors.com/2026/06/16/beats-studio-buds-bluetooth-vulnerability/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-17T04:19:45+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "iA Writer 8 带来液态玻璃设计、透明图标支持等更新",
+              "brief": "iA Writer 8 已在 iPhone、iPad 和 Mac 上线，带来更新后的界面设计，让应用在 iOS 26、iOS 27 及 macOS Tahoe、macOS Golden Gate 上更契合系统观感。此次更新还让应用图标自动跟随系统外观与“透明”样式设置，并加入可用快速搜索跳转标题、文件名和文本结果的文档大纲、用于格式与导出的命令面板、紧凑资料库视图和作者颜色标识。",
+              "source_url": "https://9to5mac.com/2026/06/17/ia-writer-8-brings-liquid-glass-design-clear-icon-support-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T21:48:50+08:00"
+            },
+            {
+              "title": "《Widow’s Bay》主创解释大结局反转并预告第二季计划",
+              "brief": "《Widow’s Bay》第一季大结局现已上线，主创凯蒂·迪波尔德在采访中解释了结尾几处反转，并表示这些安排正为第二季铺路。剧中洛夫蒂斯得知自己一直保护的儿子其实是受诅咒市长最后已知后裔，戴尔也发现了居民献祭传统的影像线索；她称第一季更像“住在鬼岛上的前传”，第二季会展开更多设定与传说。",
+              "source_url": "https://9to5mac.com/2026/06/17/widows-bay-creator-explains-finale-twists-teases-season-2-plans/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T21:43:56+08:00"
+            },
+            {
+              "title": "Android 17 可从 iPhone 复制更多数据，包括 iMessage 历史和主屏幕",
+              "brief": "Google 详解 Android 17 对“Android Switch”的大幅升级，让 iPhone 转移到新安卓设备时可复制更多内容，首批从今天起向少量 Pixel 设备推送。此次迁移新增 Google 账号、含媒体与贴纸的 SMS、MMS、RCS 和 iMessage 历史、主屏布局与壁纸，以及密码、Passkey、Wi-Fi 凭据、闹钟、通话记录、加密 RCS、日历与备忘录附件、文件夹和部分 eSIM 数据。",
+              "source_url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T21:40:39+08:00"
+            },
+            {
+              "title": "Jamf 发布面向 macOS 的原生 AI 治理控制平面",
+              "brief": "Jamf 宣布推出面向 macOS 的原生 AI 治理控制平面，用于让企业在受管 Mac 上查看并控制生成式 AI 工具。背景是许多 AI 工具会在 Apple Silicon 上以本地应用和后台进程方式运行，现有网络代理和跨平台终端工具难以完整识别与治理；新功能把 MDM 权限与工具发现、端点策略执行和合规报告整合到同一平台中。",
+              "source_url": "https://9to5mac.com/2026/06/17/jamf-launches-native-ai-governance-control-plane-for-macos/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T21:00:00+08:00"
+            },
+            {
               "title": "亲眼看到 Siri AI 的实际表现，让我更期待未来",
               "brief": "作者在日常使用的 iPhone 上安装首个开发者测试版并完成 Apple Intelligence 设备端索引后，终于获得 Siri AI 资格。尽管版本仍有不少早期问题，但它已能把多应用信息串联起来完成任务，例如按地点找活动照片、结合日历和消息确认朋友来访时间、识别网页中的活动地点并直接打开路线，以及调出清单里尚未完成的家务事项。",
               "source_url": "https://9to5mac.com/2026/06/17/seeing-siri-ai-in-action-has-me-excited-for-the-future/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-17T20:47:53+08:00"
-            },
-            {
-              "title": "Matter 1.6 和 Product Security 1.1 正式发布",
-              "brief": "连接标准联盟在年度公开活动 Unify 上正式发布 Matter 1.6 与 Product Security 1.1，面向消费者和设备厂商更新开放标准。Matter 1.6 重点强化跨生态互通、设备状态理解和个性化适配，其中最主要的新功能是基于 NFC 的完整配网，可在设备完全通电前完成设置，并降低大规模安装前预配置的难度，同时引入 Joint Fabric 扩展多管理员共享能力。",
-              "source_url": "https://9to5mac.com/2026/06/17/matter-1-6-and-product-security-1-1-officially-announced-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T20:00:00+08:00"
-            },
-            {
-              "title": "功能建议：Apple Intelligence 可带来拦截垃圾通知的新机会",
-              "brief": "文章认为，iPhone 通知长期缺少把有用提醒与营销骚扰分开的能力，这一诉求作者早在 2020 年就提出。像 eBay 和扫地机器人这类应用既会发送交易、发货、故障等有效信息，也会推送无关内容。作者建议借助 iOS 27 的 Apple Intelligence 在设备端自动为通知分级，只保留真正重要或日常必要的提醒，从而减少垃圾通知干扰。",
-              "source_url": "https://9to5mac.com/2026/06/17/feature-request-apple-intelligence-provides-a-new-opportunity-to-block-junk-notifications/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T19:47:15+08:00"
-            },
-            {
-              "title": "AirPods Pro 3 在 Prime Day 前降至历史最低 169 美元",
-              "brief": "亚马逊在 Prime Day 前把 AirPods Pro 3 售价降至 169 美元，较 249 美元原价低约三成，刷新该产品线上最低纪录。报道指出，这一价格已经低于此前 179 美元的历史低点，促销时点也早于今年夏季为期四天的 Prime Day 活动。文中同时提到，苹果在 WWDC 公布的 iOS 27 新功能将为这款耳机带来自定义 EQ 以及扩展 GymKit 支持。",
-              "source_url": "https://9to5mac.com/2026/06/17/airpods-pro-3-drop-to-their-best-price-ever-as-apple-announces-new-ios-27-features/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T19:45:47+08:00"
-            },
-            {
-              "title": "苹果为 App Store 个性化推荐收集每一次点击",
-              "brief": "两名安全研究人员指出，苹果正利用 App Store 中极为细致的可识别分析数据来驱动新的个性化推荐功能，并会记录用户的每一次点按。苹果此前宣布将在应用、游戏和搜索标签页推出基于兴趣的 Personalized Collections 与 App Notes。研究者称这些上报内容甚至可用于推算输入速度，而目前用户没有关闭这类数据采集的选项。",
-              "source_url": "https://9to5mac.com/2026/06/17/apple-collects-every-tap-to-deliver-app-store-personalized-recommendations/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T18:57:07+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google Vids 的 AI 虚拟形象现已向免费用户开放",
+              "brief": "Google 将向免费个人账号开放 Google Vids 的 AI 虚拟形象功能，用户每月可获得 10 次视频生成额度，并可在虚拟形象与 Veo 视频之间分配。该功能可把 Slides 演示转成由数字主持人讲解的视频，还能自动生成分镜和脚本，支持选用现成形象或创建自定义形象；首批先在美国推出，今夏扩展全球，后续还会加入情绪控制、AI 配音和不限时长的 Veo 生成。",
+              "source_url": "https://9to5google.com/2026/06/17/google-vids-ai-avatars-free/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-17T22:00:00+08:00"
+            },
+            {
+              "title": "Android 17 可从 iPhone 迁移更多数据，包括 iMessage 记录和主屏",
+              "brief": "Android 17 正在升级“Android Switch”，让用户从 iPhone 换到 Android 时可迁移更多数据，包括 iMessage 历史、主屏布局和壁纸。此次更新面向换机流程，补足以往跨平台转移内容有限的问题，还将支持密码、通行密钥、WiFi 凭据、闹钟、通话记录、加密 RCS、日历附件、文件夹与 eSIM 等数据，现已先向少量 Pixel 设备推送。",
+              "source_url": "https://9to5google.com/2026/06/17/android-17-iphone-switching-upgrades/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-17T21:35:00+08:00"
+            },
+            {
+              "title": "Google Home Speaker 将于 6 月 25 日发售，售价 99 美元",
+              "brief": "Google 宣布 Google Home Speaker 即日起开启预订，售价 99.99 美元，6 月 25 日正式发售。这是首款搭载 Gemini for Home 语音助手的 Google 音箱，定位高于 Nest Mini，提供 360 度声音、更大单元与更强低音，并支持与两台音箱组成立体声、接入 Google TV Streamer 和现有 Nest、Cast 设备，首批将在美国、加拿大及欧洲多国上市。",
+              "source_url": "https://9to5google.com/2026/06/17/google-home-speaker-launch/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-17T21:00:00+08:00"
+            },
             {
               "title": "三星 Galaxy XR 在英国开启预购，7月8日发售",
               "brief": "三星已在英国开启 Galaxy XR 预购，售价 1699 英镑，7 月 8 日发货。这是该头显在年初美国上市后进入英国，近期更新主要改善独立使用和连接 Windows PC 的体验，硬件不变。它仍搭载 Snapdragon XR+ Gen 2 芯片、4K micro-OLED 屏幕，续航最高 2.5 小时，三星将在英国多地举行体验活动。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/16/google-phone-wear-os-material-3-expressive/",
               "source_name": "9to5Google",
               "published_at": "2026-06-17T06:05:00+08:00"
-            },
-            {
-              "title": "内存涨价潮下，联想 Snapdragon X2 Windows 笔记本值得关注",
-              "brief": "在内存涨价带来的“RAMageddon”背景下，联想新一批搭载 Snapdragon X2 的 Windows 笔记本获得关注，作者认为其定价仍算合理。其中 Yoga Slim 7x 所配 X2 Elite、32GB 内存和 1TB SSD 组合，相比初代 Surface Laptop 明显更快，Windows 菜单与 Chrome 反应更迅速；接电或切到性能模式时风扇会变响，Premiere 导出 1 分钟视频约需 3 分钟，虽不算出色，但比上一代进步明显。",
-              "source_url": "https://9to5google.com/2026/06/16/lenovo-snapdragon-x2-yoga-slim-7x-review/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-17T05:00:00+08:00"
-            },
-            {
-              "title": "Pixel Watch 的 Wear OS 7 更新汇总：全部新变化",
-              "brief": "谷歌开始向 Pixel Watch 2、3、4 的蓝牙/Wi-Fi 和 LTE 版本推送 Wear OS 7，这是 2026 年 6 月 OTA 更新的一部分。更新聚焦交互、媒体控制和安全功能，包括让 Pixel Watch 4 的抬腕说话更准确、在系统播放器中加入远程媒体输出切换，并把紧急共享接入失脉搏、车祸与跌倒检测，同时调整联系人和消息界面并加入“Quick Add”组件。",
-              "source_url": "https://9to5google.com/2026/06/16/pixel-watch-wear-os-7-june-2026-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-17T04:05:44+08:00"
-            },
-            {
-              "title": "XREAL 称其 Android XR 眼镜售价将低于 1500 美元",
-              "brief": "XREAL 已开放 Android XR 眼镜 Aura 的预订，并确认其基础版最终零售价不会超过 1500 美元，税费另计，正式发售时间定在今年秋季。公司此前提供 99 美元和 299 美元两档预订名额占位，相关定价背景是 Aura 具备更大视场角、带电池和算力的外置计算单元以及内置摄像头；若按现有 XREAL Eye 与 Beam Pro 的组合计算，整体价格已接近 900 至 950 美元。",
-              "source_url": "https://9to5google.com/2026/06/16/xreal-android-xr-glasses-price/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-17T03:30:00+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Android 17 用 ADB Wi-Fi 2.0 改善无线 ADB 体验",
-              "brief": "谷歌将在Android 17中引入ADB Wi-Fi 2.0，重构无线ADB连接栈，以提升稳定性、可靠性和易用性。此前自Android 11推出的首版方案依赖体积庞大的第三方库，网络变化时常崩溃。新版改用约4000行的轻量Rust自研库，可记住受信网络并自动重连，无需反复手动配对，Android Studio配对窗口也会实时显示局域网设备。",
-              "source_url": "https://www.androidauthority.com/android-17-adb-wi-fi-2-0-3678411/",
+              "title": "Chrome 用户正失去最好用的广告拦截器",
+              "brief": "Chrome 已开始移除让用户继续安装 Manifest V2 扩展的最后变通方式，uBlock Origin 也已无法再从 Chrome 网上应用店安装。背景是谷歌数年前就推进以 Manifest V3 取代 V2，并称继续维护 V2 过于复杂，会增加技术债、带来安全风险且牵涉多项缺陷。随着相关 flags 被删除，所有依赖 V2 的扩展在受支持版 Chrome 中都将无法使用。",
+              "source_url": "https://www.androidauthority.com/chrome-manifest-v2-extensions-removed-3678445/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-17T19:57:27+08:00"
+              "published_at": "2026-06-17T22:21:13+08:00"
             },
             {
-              "title": "一加 15R 新增 16GB 内存版本",
-              "brief": "一加悄然为OnePlus 15R增加了新的高内存版本，配置为16GB RAM和512GB存储，补齐了原先仅有12GB+256GB与12GB+512GB两档的产品线。报道称，这款机型以性能、快充和更大电池为卖点，更高内存也更适合更重负载。新版本目前仅在印度上架，已出现在亚马逊和一加当地官网，售价为61999印度卢比。",
-              "source_url": "https://www.androidauthority.com/oneplus-15r-new-16gb-ram-variant-3678369/",
+              "title": "Thread 推出新应用，降低智能家居排障难度",
+              "brief": "Thread Group 推出适用于 Android 和 iOS 的开源测试版应用 Thread Tools，用来查看家中 Thread 智能设备网状网络的整体状态并排查连接问题。背景是随着该生态扩张到 240 多家成员公司、1100 多款认证产品，设备互通与部署诊断变得更重要。该应用也面向安装专业人员，同时官方还公布了 Thread Direct 连接能力及与 Broadband Forum 的联络协议。",
+              "source_url": "https://www.androidauthority.com/thread-tools-app-3678129/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-17T18:59:01+08:00"
+              "published_at": "2026-06-17T22:07:47+08:00"
             },
             {
-              "title": "索尼新款手机传感器有望提升逆光与日落拍摄",
-              "brief": "索尼发布面向智能手机的LYTIA L910 5000万像素传感器，这是其首款采用LOFIC技术的手机传感器。LOFIC可在一次曝光中同时保留高光和阴影细节，带来更宽动态范围，并减少传统多帧HDR常见的运动伪影和暗部噪点。L910还支持三重转换增益HDR、4K 60fps HDR视频和HDR预览，预计将于2026年夏季向手机厂商出货。",
-              "source_url": "https://www.androidauthority.com/sony-lytia-l910-camera-sensor-3678357/",
+              "title": "壁纸星期三：6 月 17 日新一批手机壁纸分享",
+              "brief": "Android Authority 发布 6 月 17 日的“壁纸星期三”合集，再次提供一组可免费下载分享的手机壁纸，适用于手机、平板和电脑。背景是该栏目每周都会汇总读者与编辑团队投稿，图片均无水印，并提供 JPG、PNG 以及横竖屏版本，方便不同设备使用。本期内容包含 3 张读者作品和 3 张编辑部图片，文章也附上历期下载链接与投稿说明。",
+              "source_url": "https://www.androidauthority.com/wallpaper-wednesday-june-17-2026-3677691/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-17T18:53:05+08:00"
+              "published_at": "2026-06-17T22:00:55+08:00"
             },
             {
-              "title": "Nothing裴宇向苹果放话：一次争取一个“厌倦iPhone”的用户",
-              "brief": "Nothing创始人裴宇在Instagram发布新视频，直接点名苹果，称要“一个厌倦iPhone的用户一个用户地抢走”。这延续了他自创立公司以来将Nothing塑造成“反苹果”品牌的路线，面向觉得智能手机越来越乏味、重复的用户，并继续把年轻人视为突破口；文中还提到，Nothing 2025年第二季度在印度出货量同比增长146%。",
-              "source_url": "https://www.androidauthority.com/nothing-apple-challenge-3678401/",
+              "title": "Android 17 让 iPhone 转安卓变得更容易",
+              "brief": "Android 17 开始向少量设备推出新版 Android Switch，让 iPhone 转安卓改为原生、以无线传输为主的迁移流程，不再依赖额外应用、线缆或复杂权限。背景是谷歌与苹果去年开始合作简化双平台换机。新版现已支持迁移此前较难转移的数据类型，包括密码、通行密钥、闹钟、壁纸、主屏布局、Apple Notes 附件和 eSIM，并新增跨平台 API 以转移真实应用内数据。",
+              "source_url": "https://www.androidauthority.com/android-17-ios-android-switch-upgrade-3678451/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-17T18:48:24+08:00"
+              "published_at": "2026-06-17T21:33:15+08:00"
             },
             {
-              "title": "每个Android用户都该希望Siri变得更好",
-              "brief": "文章认为，Android用户也应希望Siri变得更强，因为苹果近期借与谷歌合作重新推进Siri后，手机端AI竞争可能更充分。其背景是，过去两年Google在移动AI上的主要对手几乎只有ChatGPT，而Siri因早期Apple Intelligence表现失利长期落后；作者还举例称，一些iPhone用户已因功能差距开始关注Pixel与Gemini。",
-              "source_url": "https://www.androidauthority.com/every-android-fan-should-root-siri-get-better-3675972/",
+              "title": "谷歌新款 Gemini 智能音箱终于开放预订",
+              "brief": "谷歌新款内置 Gemini 的 Google Home Speaker 已开放预订，售价 99.99 美元，并附赠限时 6 个月 Google Home Premium 订阅，下周开始正式发售。背景是这款下一代智能音箱自去年预告后终于上市，主打比 Nest Mini 更强的低频表现。它提供四种配色，采用 58 毫米中央单元，并支持与 Google TV Streamer 无缝配对输出电视音频。",
+              "source_url": "https://www.androidauthority.com/google-home-speaker-availability-3678102/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-17T18:30:32+08:00"
+              "published_at": "2026-06-17T21:00:39+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "如何让 Netflix 不再询问“你还在看吗？”",
+              "brief": "文章介绍了如何让Netflix不再弹出“你还在看吗？”提示，并说明这一提示通常会在电视端连续播放三集或90分钟后出现，在非电视设备上则会在连续三集期间未使用任何播放器控制时弹出。Netflix表示，这样设计是为了避免用户睡着或离开后错过播放进度，同时减少在实际没人观看时继续消耗网络数据。",
+              "source_url": "https://www.engadget.com/2195725/turn-off-netflix-are-you-still-watching/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-17T21:30:00+08:00"
+            },
+            {
+              "title": "全新 Google Home 音箱终于上市，售价 100 美元",
+              "brief": "谷歌已开始接受全新Google Home音箱预订，正式发售时间为6月25日，售价100美元。这款产品延续Nest Audio的家庭音箱定位，但改用更紧凑机身并提供360度音频，还可与Google TV Streamer配对输出立体声。另一项重要变化是Gemini取代经典Google Assistant，并配备底部LED灯环与再生材料3D针织外层，支持更复杂的多步骤语音指令。",
+              "source_url": "https://www.engadget.com/2194871/the-all-new-google-home-speaker-has-finally-arrived-for-100/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-17T21:00:00+08:00"
+            },
             {
               "title": "报道称白宫应用将自动安装到国土安全部员工设备上",
               "brief": "据《政客》报道，美国国土安全部6月16日向全体人员发信称，白宫应用将自动安装到所有受管政府设备上，用户无法自行选择是否下载。该应用于3月正式上线，被描述为获取白宫公告、行政行动、演讲、直播、视频及其他更新的便捷入口。此前《政府行政》也称，政府计划把它部署到行政部门所有配发手机，联邦航空局设备当时已在名单内，而前政府IT高管警告此类应用可能带来防火墙后网络的后门访问风险。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2196028/kpop-demon-hunters-lego-set/",
               "source_name": "Engadget",
               "published_at": "2026-06-17T16:59:58+08:00"
-            },
-            {
-              "title": "FIFA要求穆西亚拉遮住Beats耳机标识",
-              "brief": "FIFA要求拜仁球员贾马尔·穆西亚拉在对库拉索比赛前热身时，用胶带遮住Beats by Dre耳机标识，避免非官方赞助商品牌出现在世界杯场地与转播画面中。FIFA一向严格限制未赞助赛事的品牌露出，此前也要求Levi's Stadium用篷布遮盖名称标志；不过Beats近期仍借多名球员的社交媒体帖子为一款未公布头戴耳机预热。",
-              "source_url": "https://www.engadget.com/2196007/fifa-jamal-musiala-beats-by-dre-world-cup/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-17T14:42:07+08:00"
-            },
-            {
-              "title": "戴尔 XPS 13 笔记本今日开售",
-              "brief": "戴尔宣布回归的 XPS 13 现已正式开售，线上与线下门店均已上架。这款低价笔记本发布于上月底，当时仅称会在 6 月上市，如今已进入实际销售阶段。其学生价 599 美元起，其他消费者 699 美元起；它推出之际，苹果刚发布面向教育市场的低价 MacBook Neo，并已获得堪萨斯城公立学校超过 4500 台采购订单。",
-              "source_url": "https://www.engadget.com/2195930/dell-xps-13-available/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-17T07:22:11+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "Matter终于能实现它本应具备的能力了吗？",
-              "brief": "Matter 1.6 规范引入名为 Joint Fabric 的新机制，试图让多个智能家居平台真正共同管理同一套 Matter 网络。多管理员原本就是这一互通标准从一开始就应具备的能力，但此前始终未能按预期工作。按照新方案，设备接入一次后即可被 Apple Home、Google Home、Amazon Alexa 等获授权生态直接控制，无需再在不同应用里重复“分享”设备。",
-              "source_url": "https://www.theverge.com/tech/950679/matter-1-6-spec-smart-home-joint-fabric-apple-amazon-google",
+              "title": "派拉蒙Plus无广告版两个月仅需2美元",
+              "brief": "派拉蒙Plus面向新用户和回流用户推出限时优惠，在2026年6月25日前可用每月0.99美元订阅前两个月。平台借此以更低门槛吸引用户开通或回归，优惠覆盖无广告Premium和含广告Essential两档，总计可省逾20美元；两个月后将分别自动续费为13.99美元和8.99美元，并可观看逾4万部影视内容及部分NFL赛事和CBS节目。",
+              "source_url": "https://www.theverge.com/gadgets/950929/paramount-plus-two-month-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-06-17T08:00:00-04:00"
+              "published_at": "2026-06-17T10:30:00-04:00"
             },
             {
-              "title": "《最终幻想》遇上《塞尔达》？当然可以",
-              "brief": "Square Enix 新作《艾略特历险记：千年物语》把经典《塞尔达》式结构与带有《最终幻想》气质的角色扮演体验结合在一起，给评测者留下了很强好感。如今类《塞尔达》作品并不少见，独立开发者也不断翻新这一公式。该作延续了 Square Enix 那条命名古怪却颇受关注的 HD-2D 产品线，在熟悉框架里做出了新的混搭方向。",
-              "source_url": "https://www.theverge.com/games/950735/the-adventures-of-elliot-the-millennium-tales-review-switch-ps5-xbox-steam",
+              "title": "在恐怖大年，《寡妇湾》仍然与众不同",
+              "brief": "在2026年恐怖题材格外兴盛的一年里，The Verge认为Apple TV+剧集《寡妇湾》依然显得与众不同，第一季也已刚刚完结。其背景是《Backrooms》《Obsession》等新作走红，萨姆·雷米等名家与《惊变28年》《生化危机》等系列持续活跃；而《寡妇湾》则以黑色幽默、惊吓效果和类型致敬的平衡脱颖而出，第二季已确认。",
+              "source_url": "https://www.theverge.com/entertainment/951391/widows-bay-season-1-finale-apple-tv-horror",
               "source_name": "The Verge",
-              "published_at": "2026-06-17T08:00:00-04:00"
+              "published_at": "2026-06-17T10:30:00-04:00"
             },
             {
-              "title": "我家后院让我开始喜欢会变色的智能灯",
-              "brief": "在测试 Govee 风格夸张的户外 RGB 灯光产品后，作者对可变色智能照明的看法出现转变，甚至觉得自家花园也容得下一场夏日灯光秀。她原本更看重智能照明的便利与氛围功能，对彩色灯长期兴趣有限，通常只在孩子房间或节日期间使用。此次后院体验让她意识到，鲜艳多彩的灯光在户外场景里确实有其吸引力和发挥空间。",
-              "source_url": "https://www.theverge.com/tech/942467/smart-lighting-backyard-govee-outdoor",
+              "title": "目前值得关注的亚马逊Prime Day早期优惠",
+              "brief": "亚马逊较往年更早到来的Prime Day要到6月23日才正式开始，但The Verge已整理出一批可提前入手的早期优惠。背景是大促前商家已陆续放价，尽管品牌和品类还不算齐全，若暂未见到目标商品，更多折扣可能会在6月稍晚出现；目前重点包括AirPods Pro 3来到历史最低价，以及Ring最新电池门铃直降60美元并附送Indoor Cam Plus。",
+              "source_url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
               "source_name": "The Verge",
-              "published_at": "2026-06-17T07:30:00-04:00"
+              "published_at": "2026-06-17T10:12:57-04:00"
             },
             {
-              "title": "下一代人形机器人可能根本不像人",
-              "brief": "法国初创公司Genesis AI推出新机器人Eno，并明确表示“人形机器人不必看起来像人”。这家公司获得前谷歌首席执行官埃里克·施密特支持，称Eno的设计围绕人的能力而非人的外观，目标是成为可执行多种工作的通用型机器人，而不是只为单一任务打造。按报道描述，它可能没有头或腿，也可以安装在带轮底座上并像折叠椅一样收起，但手部会尽量精确匹配人手的形态与功能，以直接使用现有工具和物品。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+              "title": "如何在亚马逊Prime Day期间找到最划算的优惠",
+              "brief": "亚马逊2026年Prime Day临近，The Verge发布了一份省钱指南，帮助用户在大促期间更高效地找到真正值得买的商品。背景是今年活动将从美东时间6月23日3:01开始，持续到6月27日同一时间，面向Prime会员提供亚马逊设备及索尼、Sonos、Bose、Anker、苹果等品牌优惠；文中建议结合价格追踪工具、Alexa或应用提醒、站外比价以及媒体汇总来筛选折扣。",
+              "source_url": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
               "source_name": "The Verge",
-              "published_at": "2026-06-17T05:46:56-04:00"
+              "published_at": "2026-06-17T10:00:00-04:00"
             },
             {
-              "title": "《卡尔文与霍布斯全集》是父亲节临时选礼的好选择",
-              "brief": "《卡尔文与霍布斯全集》被推荐为临近父亲节时可快速下单的礼物，适合喜欢经典漫画的父亲。该套装收录比尔·沃特森在1985年至1995年十年连载期间创作的全部条漫内容，分装为三册豪华精装硬壳本。文中称其在亚马逊勾选页面优惠券后售价89.48美元，低于225美元原价，也比常见约130美元的促销价更低，是作者见过的最低价。",
-              "source_url": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
+              "title": "《玩具总动员5》里，问题确实就是手机和平板",
+              "brief": "《玩具总动员5》把问题明确落在手机和平板上，The Verge认为迪士尼与皮克斯的新片抓住了科技如何伤害我们的核心问题。背景是这部最新长片并未停留在抽象的科技批判，而是把讨论聚焦到人们每天接触的具体设备；文中强调，影片正是借由这些手机和平板，切入我们如何允许技术在日常生活中影响并伤害自己。",
+              "source_url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
               "source_name": "The Verge",
-              "published_at": "2026-06-16T16:00:00-04:00"
+              "published_at": "2026-06-17T10:00:00-04:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "微软坚称不会反复调整独占策略，Xbox 玩家称已难再信任",
+              "brief": "微软高层再次强调，《战争机器：E-Day》和《发条革命》将继续保持 Xbox 独占，且公司未来仍会每年推出标志性独占作品。争议源于微软先公布《地狱之刃》系列新作《Senua》，随后又传出其开发商 Ninja Theory 可能被关闭，Compulsion 与 Double Fine 也被指面临风险，令玩家怀疑微软刚在发布会上确认的独占承诺是否还可信。",
+              "source_url": "https://www.ign.com/articles/microsoft-insists-it-wont-flip-flop-on-exclusives-as-fans-say-theyre-finding-it-hard-to-trust-xbox",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T20:03:31+08:00"
+            },
+            {
+              "title": "知情人称《神秘博士》避免停播，让圣诞特别篇不致成为未来包袱",
+              "brief": "知情人士称，BBC 为给《神秘博士》寻找新制作公司的计划早在去年就已启动，因此没有继续推进今年的圣诞特别篇。背景是迪士尼在 2025 年退出合作后，剧集近年又遭遇收视下滑、剧情节奏争议与前景不明。BBC 上周宣布将把该剧对外招标，若此时硬做一集过渡特别篇，反而会给后续交接与长期规划制造更多麻烦。",
+              "source_url": "https://www.ign.com/articles/doctor-who-cancellation-avoided-episode-becoming-christmas-shaped-bomb-for-shows-future-insider-says",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T19:52:42+08:00"
+            },
             {
               "title": "Valve掌门人Gabe Newell以7080万美元购入带地下通道的佛州豪宅",
               "brief": "据《华尔街日报》报道，Valve 创始人 Gabe Newell 以7080万美元购入佛州马纳拉潘一处约2万平方英尺豪宅，卖家为潘太平洋机械公司创始人 Cindy 与 Ron McMackin，他们2020年以3900万美元买下该房产。宅邸最显著的设计是通过地下通道连接临水主宅与海滩，另外还配有室外泳池、码头、升船机、八车位车库、酒窖、客房和康养区。",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/nintendo-acknowledges-employee-data-at-risk-after-third-party-service-breach",
               "source_name": "IGN",
               "published_at": "2026-06-17T18:13:37+08:00"
-            },
-            {
-              "title": "育碧承认《刺客信条：影》剧情未如预期打动玩家社区",
-              "brief": "育碧承认，《刺客信条：影》的剧情并没有像团队原先希望的那样引发社区共鸣，不过玩家对刚上线的最终更新评价积极。免费任务包“Black Tides”于昨日推出，作为这款以日本战国为背景作品的最后一章。游戏发售后整体口碑偏正面，画面与世界设计受到称赞，但不少系列老玩家对部分剧情处理和较为突然的收尾感到失望。",
-              "source_url": "https://www.ign.com/articles/ubisoft-acknowledges-community-didnt-resonate-with-assassins-creed-shadows-story-as-much-as-hoped-while-fans-praise-final-update",
-              "source_name": "IGN",
-              "published_at": "2026-06-17T17:34:36+08:00"
-            },
-            {
-              "title": "微软为何在计划关闭 Ninja Theory 的同时公布其新作",
-              "brief": "微软在公布 Ninja Theory 新作《Senua》后数日，又传出计划关闭或拆分该工作室，令玩家困惑。背景是新任 Xbox CEO Asha Sharma 在“重置”备忘录中称，游戏业务利润率约为3%，过去五年持续投入逾200亿美元，但年收入反而减少近5亿美元。另有报道称，微软当时认为新作亮相有助于为工作室吸引投资者兴趣。",
-              "source_url": "https://www.ign.com/articles/why-microsoft-announced-ninja-theorys-new-game-despite-plans-to-shut-the-studio-down",
-              "source_name": "IGN",
-              "published_at": "2026-06-17T16:54:12+08:00"
             }
           ]
         },
@@ -374,6 +374,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "蓝色起源称今年将恢复发射 贝佐斯称火箭爆炸打击沉重",
+              "brief": "蓝色起源表示将在今年恢复发射，“新格伦”火箭发射台爆炸后的碎片已清理完毕并开始重建。该火箭对公司太空计划及NASA“阿尔忒弥斯”登月任务都很关键，但项目已多年拖延、两次飞行间隔也长于预期。贝佐斯称爆炸是团队的艰难时刻，CEO戴夫·林普说重建已于前一天启动。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566076.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T22:08:06+08:00"
+            },
+            {
+              "title": "加布·纽维尔斥资7000万美元在佛州购入豪宅",
+              "brief": "Valve联合创始人加布·纽维尔在佛州马纳拉潘以7000万美元购入豪宅，房产距离特朗普的海湖庄园仅数步之遥。该住宅前业主于2020年约以3900万美元买入，此次交易明显升值。报道提到，这个高档社区聚集多名富豪；除房地产外，纽维尔近年还拥有超级游艇，并常在海上处理工作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566074.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T22:07:37+08:00"
+            },
+            {
+              "title": "GuliKit推出Switch 2便携底座 售价29.99美元",
+              "brief": "GuliKit推出面向Switch 2的便携底座，售价29.99美元，已通过包括亚马逊在内的授权渠道发售，可在连接电视输出与桌面充电两种模式间切换。产品主打更轻更小，重量约105克，支持主机带壳使用。接口方面配备HDMI、USB-C和USB-A，标称最高支持4K 60Hz、2K 120Hz和1080p 240Hz。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566072.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T21:29:16+08:00"
+            },
+            {
               "title": "Anthropic遭禁令引发OpenAI担忧 美国或收紧外籍AI人才监管",
               "brief": "美国政府针对Anthropic采取监管措施后，OpenAI等公司开始评估连锁影响，并担心限制扩大到更多AI实验室。背景是白宫一边强调维持美国AI领先，一边以国家安全和技术外泄为由关注外籍研究人员接触前沿模型。报道称官员曾讨论限制外籍员工调用大模型，商务部还依据出口管制权限认定Anthropic存在不可接受的安全风险，本周双方已会谈寻求恢复新模型开放。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1566070.htm",
@@ -386,27 +407,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1566068.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-17T20:08:11+08:00"
-            },
-            {
-              "title": "搭载英特尔Wildcat Lake处理器的戴尔XPS 13开售",
-              "brief": "戴尔已正式开售搭载英特尔Wildcat Lake处理器的XPS 13，面向学生和日常办公用户，继续扩充这一新平台的轻薄本选择。新机采用2大核加4小核设计，最高加速频率4.6GHz，配备13.4英寸1440p 120Hz触控屏、8GB内存和512GB固态硬盘，机身约12.7毫米厚、重约1千克，学生价599美元，其他用户699美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566066.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-17T19:55:56+08:00"
-            },
-            {
-              "title": "Mozilla 发布 6 月版 Firefox 及未来路线图",
-              "brief": "Mozilla 发布 6 月版 Firefox，并上线公开路线图页面，集中说明浏览器当前更新与未来重点，目的是让用户更早了解计划、提交反馈并影响产品方向。刚发布的版本在移动端带来 Android 标签组、重设计设置页和已阻止追踪器显示；路线图还披露可自定义快捷键、原生多账户容器、移动 VPN、浏览器内 PDF 拆分合并、Quick Answers、Smart Window 与省电模式等后续功能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566064.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-17T17:06:26+08:00"
-            },
-            {
-              "title": "美司法部以国家安全为由要求驳回针对xAI的诉讼",
-              "brief": "美国司法部提交动议，请求法官驳回NAACP针对xAI孟菲斯数据中心燃气涡轮机的诉讼。争议源于该设施被指未获适当许可、在供电中排放形成烟雾的污染物，并长期引发空气、水耗、电力和噪音抗议。司法部称，切断这类供电会危及支撑军方行动的AI能力，并援引Grok Gov在军事目标打击中的使用说明其国家安全重要性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566062.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-17T16:21:18+08:00"
             }
           ]
         },
@@ -533,6 +533,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "Parallels Desktop 26 618 官网促销：最低 5.5 折，至 6 月 23 日",
+              "brief": "Parallels Desktop 26 在 618 期间开启官网促销，标准版年订阅价为 274 元、专业版为 373 元，活动截至 6 月 23 日。文章同时介绍，该版本已全面适配 macOS 26 Tahoe，并继续提供 Apple 芯片 Mac 运行基于 Intel 的 Windows 预览支持。更新还包括让 Windows 虚拟机更准确识别主机剩余磁盘空间，以及 SOC 2 Type II 合规、Jamf 集成和单一 Windows 应用部署等企业管理改进。",
+              "source_url": "https://www.appinn.com/parallels-desktop-26/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-17T21:31:22+08:00"
+            },
             {
               "title": "讯飞限时免费开放 Qwen3.6 模型，支持 Claude Code 和 OpenClaw",
               "brief": "科大讯飞旗下讯飞星辰 MaaS 平台宣布，Qwen3.6-35B-A3B 模型限时免费开放至 6 月 30 日，并强调支持高并发不限量调用。平台提供兼容 OpenAI 的 API，可接入 Claude Code、OpenClaw、Hermes 等工具，也提供可用于浏览器扩展的翻译模型。用户完成注册、创建应用和实名认证后，即可获取 API Key 及模型 ID xopqwen36v35b 进行配置与测试。",

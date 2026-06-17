@@ -1,0 +1,389 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T01:02:55.453954+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "苹果的 WebKit 规则据称让 iOS 浏览器性能损失近 30%",
+              "brief": "微软工程师公布基准测试，称使用苹果BrowserEngineKit框架构建、采用Blink的iOS版Edge研究原型，在Speedometer 3.1中比Safari高28.6%。这一结果指向苹果长期要求iOS浏览器必须使用WebKit的限制；尽管欧盟自2024年3月起允许替代引擎，厂商仍称技术门槛高且需以独立应用发布。该原型在JetStream 3和MotionMark中也分别领先13.1%和2.1%。",
+              "source_url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-18T00:14:41+08:00"
+            },
+            {
+              "title": "Powerbeats Pro 2 降至 199.95 美元，Beats 多款产品提前迎来 Prime Day 折扣",
+              "brief": "亚马逊在Prime Day前提前下调多款Beats产品价格，其中2025款Powerbeats Pro 2降至199.95美元，较249.99美元原价便宜50美元，百思买也同步匹配。此次促销还包括Beats Pill降至99.95美元并创历史低价、Studio Buds+降至99.95美元、Studio Pro降至169.95美元，以及部分iPhone 17保护壳优惠。",
+              "source_url": "https://www.macrumors.com/2026/06/17/powerbeats-pro-2-early-prime-day/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-17T22:52:35+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "苹果天气在 iOS 27 中新增两项功能",
+              "brief": "苹果在 iOS 27 中为天气应用加入两项新功能，强化首页信息呈现。此前应用顶部只有简短文字概览，如今升级为“Highlights”摘要，用于提示未来一天左右值得注意的天气变化；同时首页新增降雨和风力视图，可在默认、降雨、风力之间切换，并同步更新小时与每日预报。",
+              "source_url": "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T23:58:28+08:00"
+            },
+            {
+              "title": "iOS 27 通过 40 多项改进提升 iPhone 速度，完整名单公布",
+              "brief": "苹果称 iOS 27 通过 40 多项改进提升 iPhone 和 iPad 速度与流畅度，覆盖日常高频操作。背景是公司在发布时强调系统级性能与可靠性优化；具体包括照片中新拍内容加载最高快 70%、应用启动最高快 30%，以及 Safari、邮件、音乐、HomeKit、NFC、PDF 保存和文字识别等环节提速。",
+              "source_url": "https://9to5mac.com/2026/06/17/ios-27-makes-your-iphone-faster-in-40-ways-heres-the-full-list/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T23:33:27+08:00"
+            },
+            {
+              "title": "优惠汇总：AirPods Pro 3 提前 Prime Day 降至历史最低，Apple Watch 最高减 160 美元",
+              "brief": "9to5Mac 汇总了亚马逊和百思买的新一轮苹果相关促销，重点是 AirPods Pro 3 在 Prime Day 前夕再次降价。其售价回到 169 美元，较 249 美元原价便宜 80 美元并刷新历史低位；同时 Apple Watch Ultra 与 Series 11 最高减 160 美元，官方 MagSafe 电池包约打六折，部分 Beats 耳机最高减 220 美元。",
+              "source_url": "https://9to5mac.com/2026/06/17/airpods-pro-3-best-price-prime-day/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T23:21:47+08:00"
+            },
+            {
+              "title": "Apple One 将在 iOS 27 中迎来多项升级",
+              "brief": "苹果将在 iOS 27 中提升 Apple One 体验，重点覆盖 Apple Intelligence 与 iCloud+ 权益。部分依赖服务器模型的 AI 功能设有每日使用上限，多数 iCloud+ 套餐可获得更高配额；同时 HomeKit Secure Video 新增 4K 录制、自动生成视频描述、片段搜索和重点片段展示，Apple Music 也将获得多项改进。",
+              "source_url": "https://9to5mac.com/2026/06/17/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-17T22:59:23+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "荣耀 Android 17 更新或是最明显的 Liquid Glass 模仿版本",
+              "brief": "荣耀本周在微博发布多段预热视频，展示基于 Android 17 的 MagicOS 11，新界面大量采用类似苹果 Liquid Glass 的水滴状按钮、光线折射和发光效果。安卓厂商借鉴 iPhone 设计并不新鲜，Oppo 的 ColorOS 16 和 vivo 的 OriginOS 6 也被指有相近取向。报道称荣耀已在 Magic 8、Pro、Pro Air 和 RSR 保时捷设计版上测试，稍后还将推送到更多机型。",
+              "source_url": "https://9to5google.com/2026/06/17/honor-android-17-magic-os-11-liquid-glass-teaser/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T00:15:00+08:00"
+            },
+            {
+              "title": "优惠汇总：联想“六月黑五”安卓平板 129 美元起，亚马逊画框电视直降 200 美元",
+              "brief": "9to5Google 汇总了多项新促销，其中联想“六月黑五”已开启，安卓平板、Copilot+ PC、外设和游戏设备最高可打到约六四折，部分 Idea 与 Legion 平板从 129 美元起。与此同时，亚马逊 Ember Artline 画框电视降价 200 美元，Nothing Ear (3) 主动降噪耳机跌至 128 美元，文中还提到 Google Home Speaker 预购附送 6 个月 Google Home Premium。",
+              "source_url": "https://9to5google.com/2026/06/17/deals-lenovo-black-friday-in-june-ember-artline-tv/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-17T23:34:39+08:00"
+            },
+            {
+              "title": "Disney+ 在 11 个国家停用杜比视界和 3D 内容",
+              "brief": "Disney+ 在欧洲 11 个国家关闭了杜比视界和 3D 内容支持，这距离其 3 月恢复相关格式仅过去数月。原因是美国公司 InterDigital 在一项涉及 HEVC 视频编码技术的专利案中胜诉，统一专利法院据此对迪士尼发出跨 11 个欧盟国家的禁令。根据用户反馈和测试，德国、意大利、法国、芬兰、丹麦等地已受影响，但 HDR10 和 4K 仍可用。",
+              "source_url": "https://9to5google.com/2026/06/17/disney-plus-dolby-vision-disabled-europe/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-17T22:55:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "十个月后，100美元的 Google Home Speaker 终于开启预订",
+              "brief": "谷歌宣布，去年8月发布的 Google Home Speaker 在等待10个月后终于开放预订，并将于6月25日以100美元上市。这是谷歌近六年来首款新的家用音频设备，定位更强调 Gemini 语音交互而非纯音质。设备采用小巧圆润机身和部分再生织物外层，提供四色，支持360度声音效果，并配有底部光环、三枚远场麦克风和静音开关。",
+              "source_url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-17T23:57:14+08:00"
+            },
+            {
+              "title": "曾为加州航天飞机发射计划准备的塔架被拆除，为 SpaceX 火箭让路",
+              "brief": "加州范登堡太空军基地 SLC-6 发射场的多座老旧支援塔架已于6月16日爆破拆除，为 SpaceX 后续使用场地发射 Falcon 9 和 Falcon Heavy 铺路。这个被称为“slick-six”的发射场因多项未成行计划而闻名，曾服务于美国空军早期载人航天设想，也曾被规划为航天飞机西海岸发射点。此次倒下的包括通道塔、移动服务塔及装配楼残部。",
+              "source_url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-17T23:47:09+08:00"
+            },
+            {
+              "title": "特朗普官员离任后，FDA 撤销对亨廷顿病基因疗法的拒批",
+              "brief": "在多名特朗普时期官员离开后，FDA 为 UniQure 的亨廷顿病基因疗法 AMT-130 重新打开审批路径，推翻了先前的拒绝决定。亨廷顿病是一种通常在中年发病、目前尚无疗法的遗传性神经退行性疾病，这款一次性疗法旨在降低致病突变亨廷顿蛋白。早期小规模试验数据显示，它可能将病程进展放缓最多75%，而安慰剂对照因需假性脑部手术而存在伦理争议。",
+              "source_url": "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-17T23:12:31+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "《宝可梦冠军》登陆 Android 和 iOS",
+              "brief": "《宝可梦冠军》现已登陆 Android 和 iOS，把多人回合制对战带到手机端。该作今年4月先在 Switch 推出，这次移动版上线同时开启限时活动，玩家可免费领取雷丘及其 X、Y 超级石，奖励会发至游戏内邮箱，移动端和 Switch 均可领取，并支持与 Switch、Switch 2 跨平台对战和账号存档互通。",
+              "source_url": "https://www.androidauthority.com/pokemon-champions-launches-on-mobile-3678548/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T00:13:03+08:00"
+            },
+            {
+              "title": "Jackery 推出四款家庭断电备用电源新品",
+              "brief": "Jackery 发布四款新的断电备用电源方案，主打停电时维持家庭基础用电。新品包含三款接入电网的 HomePower 系列，容量覆盖 1kWh 至 3.6kWh，另有面向冰箱等关键家电的专用供电系统。其中 HomePower 3600 Pro Max 电量为 3584Wh，可堆叠扩展至 43kWh，并提供 3 个交流插座、2 个 USB 接口和 10ms 切换。",
+              "source_url": "https://www.androidauthority.com/jackery-home-power-backup-fridge-guard-3678425/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T00:00:03+08:00"
+            },
+            {
+              "title": "Matter 1.6 让智能家居配网更省事",
+              "brief": "Matter 1.6 发布，重点是减少智能家居设备安装和跨平台共享时的折腾。新版本加入完整双向 NFC 配网，配对过程不再依赖蓝牙握手，手机贴近设备即可完成交换，甚至可在接入市电前设置；同时新增 Joint Fabric，让 Apple Home、Google Home 和 SmartThings 通过中央数据存储安全共管同一 Matter 网络，并加入带时效的恒温器建议。",
+              "source_url": "https://www.androidauthority.com/csa-unveiled-matter-1-6-3678581/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-17T23:57:02+08:00"
+            },
+            {
+              "title": "AYANEO Pocket Micro 2 有望改善前代续航问题",
+              "brief": "AYANEO 公布了 Pocket Micro 2 的部分规格，试图补上前代最受诟病的续航短板。新机将改用骁龙处理器，取代初代的联发科 Helio G99，但官方暂未说明具体型号；电池从 2600mAh 提升到 3950mAh，同时强调会改进机身人体工学和按键手感，不过屏幕参数与内存容量仍未公布。",
+              "source_url": "https://www.androidauthority.com/ayaneo-pocket-micro-2-battery-processor-specs-3678531/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-17T23:15:58+08:00"
+            },
+            {
+              "title": "Samsung Health 迎来大改版更新",
+              "brief": "三星开始推送 Samsung Health 的大改版更新，重点是为新一代 Galaxy Watch 健康功能铺路。新版带来重新设计的界面，并新增 Vitals、Heart Health Score、Daily Cardio Load 和 Fitness Index 等功能，用于汇总夜间生理信号、睡眠压力活动和训练负荷；同时扩展了 Antioxidant Index 的趋势图与历史记录，并让 AGEs 指数支持夜间自动追踪。",
+              "source_url": "https://www.androidauthority.com/samsung-health-app-overhaul-arrives-3678471/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-17T22:55:26+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "Carvana在经销店推出首个试驾中心",
+              "brief": "Carvana把达拉斯一家现有经销店改造成首个试驾中心，并计划在全美更多已收购门店复制这一模式。它仍坚持线上完成购车，现场员工主要负责答疑而非销售，顾客可自由开门看车、做并排比较、通过手机二维码操控LED屏查找车辆位置，并对克莱斯勒、道奇、Jeep和Ram新车进行无人陪同试驾。",
+              "source_url": "https://www.engadget.com/2196512/carvana-launches-its-first-test-drive-center-at-a-dealership-with-more-to-come/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-18T00:51:24+08:00"
+            },
+            {
+              "title": "我们在2026夏日游戏节试玩的每一款新作",
+              "brief": "Engadget汇总了在2026年夏日游戏节上手的多款新作，覆盖独立游戏、临近发售的3A作品以及可能成为下一款心头好的标题。文中重点提到Annapurna发行的《D-Topia》：它以色调克制的机器人乌托邦为舞台，结合轻松解谜、可自定义公寓、能看见异常的视觉切换系统，以及会影响剧情的选择设计。",
+              "source_url": "https://www.engadget.com/2196465/every-new-game-we-played-at-summer-game-fest-2026/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-18T00:23:08+08:00"
+            },
+            {
+              "title": "Rockstar将为旧版主机和PC版《GTA 5》提供免费升级",
+              "brief": "Rockstar宣布自6月18日起，为拥有PS4版或数字版Xbox One版《GTA 5》的玩家免费升级到PS5和Xbox Series X/S版本，PC旧版也可免费升至Enhanced版。此举让玩家可保留存档和线上进度，并获得画面与性能提升，其中PC版还新增光线追踪环境光遮蔽和全局光照等专属特性。",
+              "source_url": "https://www.engadget.com/2196422/rockstar-will-offer-free-gta-5-upgrades-from-older-console-and-pc-versions/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-18T00:05:09+08:00"
+            },
+            {
+              "title": "乐高发布首款可实际游玩的弹珠台",
+              "brief": "乐高发布首款可实际游玩的弹珠台套装Lego Icons Arcade Pinball Machine，这款2273片新品将于7月开售。它以太空为主题，配有弹簧发射器、可动挡板、旋转碰撞器、坡道桥以及宇航员和婴儿宇航员人仔，玩家还可通过Lego Builder应用查看3D拼搭说明，售价230美元。",
+              "source_url": "https://www.engadget.com/2196314/lego-unveils-its-first-working-pinball-machine/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-17T22:59:02+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "Echo Dot Max 在 Prime Day 提前促销中降至历史低价",
+              "brief": "在下周 Prime Day 开始前，亚马逊提前下调多款自家 Echo 音箱价格，其中 Echo Dot Max 售价降至 64.99 美元，较原价便宜 35 美元，刷新历史低位。The Verge 的智能家居评测将它列为最均衡的 Alexa 音箱，认为它既适合日常听音，也能充当智能家居中枢，机身采用织物包覆设计，并配有独立高音与低音单元。",
+              "source_url": "https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T12:47:43-04:00"
+            },
+            {
+              "title": "解读白宫与 Anthropic 围绕 Fable 的争执",
+              "brief": "这篇专栏聚焦白宫与 Anthropic 围绕 Fable 展开的争执，指出同一场名为 Mythos 的混乱事件存在多个版本，外界难以判断哪一方的说法更准确。文章将此事放入技术政策与华盛顿权力博弈的背景中，认为它延续了特朗普政府时期常见的叙事分裂现象，并成为 Anthropic 与白宫最新一轮 AI 冲突的一部分。",
+              "source_url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T12:27:00-04:00"
+            },
+            {
+              "title": "有人戴 Snap 的 2000 美元眼镜会显得很酷吗？",
+              "brief": "The Verge 讨论 Snap 售价 2000 美元的眼镜是否可能让佩戴者看起来更时髦，给出的短答案是否定的。文章同时指出，这并不意味着产品失败，更可能说明 Snap 并未把它定位成面向大众的主流智能眼镜。文中还提到 Evan Spiegel 的佩戴示例，认为这种大胆外形或许能制造话题，但通常难以换来大规模普及。",
+              "source_url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T12:13:34-04:00"
+            },
+            {
+              "title": "《GTA VI》发售前，《GTA V》迎来免费现世代升级",
+              "brief": "Rockstar 宣布，自 6 月 18 日起，持有 PS4 版或 Xbox One 数字版《GTA V》的玩家，可免费升级到 PS5 和 Xbox Series X/S 版本。这项安排随《GTA Online》更新公布，距离《GTA VI》11 月 19 日发售只剩数月，也让未升级的玩家省下购买 39.99 美元版本或另付升级费的成本。",
+              "source_url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T11:45:36-04:00"
+            },
+            {
+              "title": "SanDisk 新款 PS5 SSD 售价超过三台 PS5 Pro",
+              "brief": "SanDisk 发布面向 PlayStation 5 的官方授权 Optimus GX PRO 850P NVMe SSD，提供 1TB 到 8TB 容量，用于扩展主机存储空间。其中 8TB 版本按官方说法可容纳约 200 款 PS5 游戏，但受全球存储芯片短缺影响，上市折后价仍达 2959.99 美元，高于三台 PS5 Pro 的总价。",
+              "source_url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T11:34:29-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "《Warframe》创意总监称新角色受《任天堂明星大乱斗》启发",
+              "brief": "《Warframe》创意总监 Rebecca Ford 表示，新章节“Jade Shadows: Constellations”中的双角色设计部分受《任天堂明星大乱斗》启发。团队起初不知如何处理共用同一战甲的 Sirius 与 Orion，于是借鉴“相似却不同”的角色思路。更新里第 65 个 Warframe 实为二合一，玩家切换角色会逐步构建星座，完成后可触发兄弟对决；Sirius 可投掷镰刀拾取光球，Orion 的横斩可大幅削弱敌方防御。",
+              "source_url": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T23:00:00+08:00"
+            },
+            {
+              "title": "迈克·迈尔斯称《王牌大贱谍4》会拍",
+              "brief": "迈克·迈尔斯表示《王牌大贱谍4》会拍，这成为该系列回归迄今最明确的公开表态。外界多年来一直听到他与导演 Jay Roach 断续提及续作可能性，但始终没有明确进展或时间表。迈尔斯是在观看法国对塞内加尔的比赛时，被问到是否还会再拍一部《王牌大贱谍》时直接回答“会的”；不过他没有透露项目何时启动，也未给出更多制作细节。",
+              "source_url": "https://www.ign.com/articles/mike-myers-says-austin-powers-4-will-happen",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T22:48:26+08:00"
+            },
+            {
+              "title": "Rockstar 向 PS4 和 Xbox One 玩家免费提供《GTA 5》本世代升级",
+              "brief": "Rockstar 宣布自 6 月 18 日起，向 PS4 和 Xbox One 版《GTA 5》玩家免费提供本世代升级。消息随《GTA Online》7 月大型更新一同公布，面向 Xbox One 数字版及 PS4 的所有副本。玩家还能迁移既有进度，把多年积累的内容带到新版本；当前本世代版自 2022 年 3 月上线后，主要提升包括更流畅的 60 帧体验。",
+              "source_url": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T22:23:03+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "Epic Games 发布开源版本控制系统 Lore",
+              "brief": "Epic Games 宣布推出开源版本控制系统 Lore，并以 MIT 许可证将代码托管到 GitHub。此举瞄准游戏开发中 Git 不擅长处理的大型私有项目与二进制资产协作场景，试图替代业内常用的 Perforce。官方称，Lore 采用集中式、内容寻址设计，使用默克尔树和不可变版本链，并针对二进制优先存储、去重及大规模稀疏按需数据水合做了优化。",
+              "source_url": "https://www.solidot.org/story?sid=84612",
+              "source_name": "Solidot",
+              "published_at": "2026-06-17T23:55:01+08:00"
+            },
+            {
+              "title": "六成美国消费者反感品牌内容中的 AI",
+              "brief": "WordPress VIP 发布《Future of the Web Report》称，六成美国消费者会对品牌信息中的 AI 产生反感。报告反映出人们对网络“人味”下降和互动失真的不满，认为如今互联网不如十年前真实，这种感受被概括为 Bot fatigue。调查还显示，74% 受访者认为网络更缺乏人情味，仅 16% 的消费者认为品牌真正有效利用了 AI。",
+              "source_url": "https://www.solidot.org/story?sid=84611",
+              "source_name": "Solidot",
+              "published_at": "2026-06-17T23:23:45+08:00"
+            },
+            {
+              "title": "研究发现 GLP-1 减肥药或有助抑制暴力冲动",
+              "brief": "发表在《Criminology》的一项观察性研究发现，GLP-1 减肥药使用者的暴力相关冲动指标有所减弱。研究背景是这类药物除抑制食欲外，也被认为会影响饮酒欲望、冲动控制和奖赏处理，而冲动与饮酒都是暴力风险因素。研究分析了 7521 名美国成年人数据，结果显示，正在用药者中冲动与暴力的关联减弱 62%，饮酒与暴力的关联减弱 52%。",
+              "source_url": "https://www.solidot.org/story?sid=84610",
+              "source_name": "Solidot",
+              "published_at": "2026-06-17T22:22:40+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "注册国际足联经纪人后误入 2026 世界杯转播系统",
+              "brief": "一名用户在国际足联官网注册足球经纪人资格后，被自动纳入其统一身份系统，并意外进入 2026 世界杯转播管理平台。问题在于页面虽提示无权限，后端却照常返回真实数据。该账号可见每场比赛的直播流、RTMP 推流地址与密钥、多机位预览，还能接触部分开始、停止直播及编辑比赛统计、评论和阵容等功能。",
+              "source_url": "https://www.appinn.com/fifa-agent-world-cup-broadcast/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-16T17:36:22+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "美欧接近批准波音737 MAX 7和10投入运营",
+              "brief": "FAA与欧洲航空安全局表示，波音737 MAX 7和MAX 10的认证已进入最后收尾，当前主要工作是完善技术细节、核对大量文件并确保两地认证办公室结论一致。两型机此前因发动机除冰问题延误，且MAX空难后审查更严。FAA预计MAX 7今夏获批、MAX 10年底前通过，EASA可能同步或随后认可。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566086.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-18T00:57:35+08:00"
+            },
+            {
+              "title": "慧荣明年将推PCIe 6.0 SSD控制器",
+              "brief": "慧荣确认首款消费级PCIe 6.0 SSD控制器Neptune将于明年上市，面向新一代高端PC固态硬盘，带宽相比PCIe 5.0有望翻倍。其背景是AI数据中心持续吞噬NAND产能，业内预计到2027年大部分闪存将流向数据中心。报道称，这将让消费级SSD长期面临高价和紧张供给，也推高第三方主控需求。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566084.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T23:52:20+08:00"
+            },
+            {
+              "title": "白宫应用或被强制安装到国土安全部公务手机",
+              "brief": "白宫面向公众推出的官方应用，可能被强制安装到国土安全部公务手机上，且这并非联邦雇员专用内部工具。此前联邦技术负责人已被要求研究在政府配发移动设备上统一部署的做法，FAA也曾通知相关安排。争议焦点在于其政治色彩与隐私风险，包括反馈按钮、第三方数据共享及大规模安装带来的额外攻击面。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566082.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T23:50:14+08:00"
+            },
+            {
+              "title": "苹果被曝在App Store搜索中记录每次击键且无法关闭",
+              "brief": "研究人员称，苹果会在App Store搜索中记录用户输入过程的每一次击键，并将这些高度细粒度的分析数据发送给苹果。背景在于搜索联想确实需要读取当前输入内容，但争议集中在逐字变化被长期保存且与用户账号关联。报道指出，记录还含标签页和系统版本等信息，用户目前无法关闭这类分析上传。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566080.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T23:47:27+08:00"
+            },
+            {
+              "title": "SpaceX上市后股价首次下跌，持股机构称或加仓",
+              "brief": "SpaceX上市后股价首次出现下跌，但持股机构人士认为这更像市场噪音，若跌幅扩大反而可能加仓。报道指出，该股流通盘较小，上市首日仅约4.2%总股本可交易，因此盘中更易剧烈波动；未来数月内部人锁定期到期，可能带来下行压力。另一方面，纳斯达克规则调整后，SpaceX未来几周还可能更快被纳入相关指数。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566078.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-17T23:44:22+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "网传8家车企整车资质永久失效为不实消息",
+              "brief": "近日，网络上出现一则消息，称工信部第408批公告已将一汽夏利、华晨自主、众泰等8家汽车企业移出车企名录，整车生产资质被冻结并永久失效。记者向工信部求证后获悉，这一说法并不属实。网传涉及的8家企业里，只有原一汽夏利在多年前已注销准入许可，其余7家只是部分企业已注销或拟注销个别生产地址，并非整车生产资质被注销。",
+              "source_url": "https://36kr.com/newsflashes/3857271074100484?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-17 20:59:02  +0800"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "苹果App Store被曝记录用户所有点击用于推荐，无关闭选项",
+              "brief": "安全研究机构Mysk发现，苹果在App Store中记录用户的每一次点击，包括搜索“Tim Cook”时的数据，用于生成个性化推荐，且用户无法关闭此功能。Mysk指出，这些分析数据包含在用户可通过privacy.apple.com申请的个人数据包中，并质疑用户在iPhone上别无选择。苹果将收集的大量可识别身份分析数据付诸实践，甚至能计算打字速度。",
+              "source_url": "https://www.ithome.com/0/965/691.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-17T23:54:25+08:00"
+            },
+            {
+              "title": "智己LS8上市后选装包从9800元变免费，超200位车主联名维权",
+              "brief": "智己LS8于4月16日上市，售价24.98万至29.98万元，上市时推出价值9800元的“奢华智选包”。但一个多月后，官方推出6月新订单免费赠送该选装包的政策。车主质疑政策不透明，官方客服说法前后矛盾，门店暗示可申请优惠。首批115位车主于6月14日发表联合声明，6月16日联名人数增至200位，要求公示政策、补偿权益等，智己汽车尚未公开回应。",
+              "source_url": "https://www.ithome.com/0/965/690.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-17T23:36:42+08:00"
+            },
+            {
+              "title": "Ayaneo Pocket MICRO 2掌机电池容量公布：3950mAh",
+              "brief": "Ayaneo公布Pocket MICRO 2掌机配备3950mAh电池，搭载联发科Helio G99处理器和3.5英寸IPS原彩屏，机身宽度约63mm，首发价1299元起。初代Pocket MICRO采用人体工学设计，肩键为轻触开关，支持任意位置触发，L1R1和L2R2键采用隔断与加高设计，支持互换。",
+              "source_url": "https://www.ithome.com/0/965/689.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-17T23:22:52+08:00"
+            },
+            {
+              "title": "影石中国区负责人袁跃起底黑水军：发一条黑帖仅6元",
+              "brief": "影石中国区负责人袁跃揭露，在专利诉讼期间，有组织的水军对影石进行攻击，发一条黑帖仅给6元。有用户卧底进入80多人的水军群，群主发布文案要求原封不动发送。袁跃表示黑水军难打在于藏得深、钱难查，影石已报案。同时，影石推出清朗倡议活动，到店顾客可领6元红包，并向提供有价值线索者发放666-10000元奖金，另打造10万元纯金拖鞋作为终极大奖。",
+              "source_url": "https://www.ithome.com/0/965/688.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-17T23:16:47+08:00"
+            },
+            {
+              "title": "中国科研团队在横琴岛发现世界上最小鱼类之一，体长不足9毫米",
+              "brief": "中山大学研究生田江艳在导师黄建荣指导下，于横琴岛珠江口湿地发现一种新的小蜜蜂虾虎鱼，命名为Brachygobius jennie（珍妮短尾虾虎鱼），以韩国歌手JENNIE命名。该鱼最大标准体长不足9毫米，是该属最小物种，也可能是中国最小鱼类之一。其独特斑纹图案和遗传分析证实为新种。研究为亚洲河口鱼类分类学做出贡献，并为研究脊椎动物极端小型化提供重要模型。",
+              "source_url": "https://www.ithome.com/0/965/687.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-17T23:07:37+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
