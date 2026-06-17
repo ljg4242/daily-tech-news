@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T01:02:55.453954+08:00",
+  "generated_at": "2026-06-18T02:57:42.407132+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Matter 1.6 发布：支持 NFC 配网、跨生态共享设备与更智能恒温器",
+              "brief": "连接标准联盟发布 Matter 1.6，重点改进设备设置、协同管理和控制响应，面向苹果等成员支持的智能家居生态。新版本加入基于 NFC 的配网，可在设备完全通电前用手机靠近完成设置，适用于吸顶灯泡和墙内开关；“Joint Fabric”让 iOS 与 Android 控制器共享同一 Matter 网络，恒温器则接收带时限的建议而非直接改温。",
+              "source_url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-18T02:29:40+08:00"
+            },
+            {
+              "title": "现在可免费安装 iOS 27 测试版，方法如下",
+              "brief": "苹果现已允许任何人免费安装 iOS 27 开发者测试版，不再需要每年 99 美元的开发者计划，这一变化已持续数年。用户只需用 Apple 账户注册免费开发者身份，再到“设置-通用-软件更新-测试版更新”中选择对应版本即可；公开测试版将于 7 月推出，但首个开发者测试版仍可能带来应用、性能和 CarPlay 问题，安装前建议先备份。",
+              "source_url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-18T02:05:26+08:00"
+            },
+            {
+              "title": "iOS 27 为备忘录带来四项新功能，包括 Markdown 复制粘贴",
+              "brief": "苹果在 iOS 27 中为 iPhone 版备忘录加入四项更新，继续扩展去年已支持的 Markdown 导入导出，并把更多生成式能力带入系统应用。新功能包括在 iPhone 15 Pro 及更新机型上用 Siri AI 生成笔记、在“信息”中显示“添加到备忘录”捷径，以及把富文本与 Markdown 双向复制粘贴；同时还新增分隔线等排版改进。",
+              "source_url": "https://www.macrumors.com/2026/06/17/ios-27-apple-notes-app-new-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-18T01:11:40+08:00"
+            },
             {
               "title": "苹果的 WebKit 规则据称让 iOS 浏览器性能损失近 30%",
               "brief": "微软工程师公布基准测试，称使用苹果BrowserEngineKit框架构建、采用Blink的iOS版Edge研究原型，在Speedometer 3.1中比Safari高28.6%。这一结果指向苹果长期要求iOS浏览器必须使用WebKit的限制；尽管欧盟自2024年3月起允许替代引擎，厂商仍称技术门槛高且需以独立应用发布。该原型在JetStream 3和MotionMark中也分别领先13.1%和2.1%。",
@@ -28,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果新系统停止支持这16款产品",
+              "brief": "苹果公布 OS 27 系列兼容名单，共有 16 款旧设备被移除支持，数量较往年更多，但 iPhone 与 HomePod 仍保留去年的兼容范围。受影响产品涵盖 4 款 Mac、5 款 iPad、5 款 Apple Watch，以及初代 Apple TV 4K 和 Apple TV HD，这些设备最高只能停留在上一代系统。",
+              "source_url": "https://9to5mac.com/2026/06/17/apples-new-software-drops-support-for-these-16-products/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-18T01:44:22+08:00"
+            },
+            {
+              "title": "Siri AI 将在 watchOS 27 中把 Apple Watch 变成完整 AI 可穿戴设备",
+              "brief": "苹果称，watchOS 27 将把 Siri AI 带到 Apple Watch，并加入 Siri 应用，让手表获得 AI 体验。该功能与 AirPods 配合，在无屏或不便解锁 iPhone 时使用；支持范围限定为 Apple Watch Series 9 及后续机型、Ultra 2 及后续机型，以及 Apple Watch SE 3。",
+              "source_url": "https://9to5mac.com/2026/06/17/siri-ai-will-make-the-apple-watch-a-fully-fledged-ai-wearable-in-watchos-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-18T01:11:14+08:00"
+            },
+            {
               "title": "苹果天气在 iOS 27 中新增两项功能",
               "brief": "苹果在 iOS 27 中为天气应用加入两项新功能，强化首页信息呈现。此前应用顶部只有简短文字概览，如今升级为“Highlights”摘要，用于提示未来一天左右值得注意的天气变化；同时首页新增降雨和风力视图，可在默认、降雨、风力之间切换，并同步更新小时与每日预报。",
               "source_url": "https://9to5mac.com/2026/06/17/apple-weather-gets-two-brand-new-features-in-ios-27/",
@@ -47,19 +82,33 @@
               "source_url": "https://9to5mac.com/2026/06/17/airpods-pro-3-best-price-prime-day/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-17T23:21:47+08:00"
-            },
-            {
-              "title": "Apple One 将在 iOS 27 中迎来多项升级",
-              "brief": "苹果将在 iOS 27 中提升 Apple One 体验，重点覆盖 Apple Intelligence 与 iCloud+ 权益。部分依赖服务器模型的 AI 功能设有每日使用上限，多数 iCloud+ 套餐可获得更高配额；同时 HomeKit Secure Video 新增 4K 录制、自动生成视频描述、片段搜索和重点片段展示，Apple Music 也将获得多项改进。",
-              "source_url": "https://9to5mac.com/2026/06/17/apple-one-is-getting-better-in-ios-27-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-17T22:59:23+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "周中 Android 应用优惠与限免：One Hand Clapping、《饥荒》、Minabo、《海绵宝宝》等",
+              "brief": "9to5Toys 重新上线了周中 Android 应用优惠与限免汇总，点名 One Hand Clapping、《饥荒》、Minabo、《海绵宝宝》等作品，面向想集中查看移动端折扣的读者。页面顶部同时提示，AirPods Pro 3 在亚马逊降至 169 美元，较 249 美元原价更低，并被标注为该平台历史最低价。",
+              "source_url": "https://9to5toys.com/2026/06/17/mid-week-android-app-deals-3/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T02:05:36+08:00"
+            },
+            {
+              "title": "Google 日历新增 200 种活动颜色，Voice 加入 Gemini“帮我记笔记”",
+              "brief": "Google 正在扩展日历和 Voice 的功能。Calendar 活动颜色将从原先 11 种预设扩展到最多 200 种自定义颜色，默认可选 24 种，网页端和 API 还提供 RGB 取色器；企业版 Voice 则加入 Gemini“帮我记笔记”，可转录通话、总结要点并整理待办，该功能自今日起分批推出，未来几周内完成。",
+              "source_url": "https://9to5google.com/2026/06/17/google-calendar-event-colors/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T01:35:38+08:00"
+            },
+            {
+              "title": "Gemini CLI 与 Code Assist 本周停止面向消费者服务，Google 转向 Antigravity",
+              "brief": "Google 本周将面向消费者停用 Gemini CLI 和 Gemini Code Assist，并把重心转向新的 Antigravity CLI。公司称用户需求已转向多代理协作和统一后端，因此整合为单一开发平台；新工具虽暂未做到一比一功能对等，但保留 Agent Skills、Hooks、Subagents 和 Extensions，面向 GitHub 的 Code Assist 6 月 18 日弃用、7 月 17 日完全关闭。",
+              "source_url": "https://9to5google.com/2026/06/17/gemini-cli-code-assist-shutting-down/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T01:10:00+08:00"
+            },
             {
               "title": "荣耀 Android 17 更新或是最明显的 Liquid Glass 模仿版本",
               "brief": "荣耀本周在微博发布多段预热视频，展示基于 Android 17 的 MagicOS 11，新界面大量采用类似苹果 Liquid Glass 的水滴状按钮、光线折射和发光效果。安卓厂商借鉴 iPhone 设计并不新鲜，Oppo 的 ColorOS 16 和 vivo 的 OriginOS 6 也被指有相近取向。报道称荣耀已在 Magic 8、Pro、Pro Air 和 RSR 保时捷设计版上测试，稍后还将推送到更多机型。",
@@ -73,19 +122,26 @@
               "source_url": "https://9to5google.com/2026/06/17/deals-lenovo-black-friday-in-june-ember-artline-tv/",
               "source_name": "9to5Google",
               "published_at": "2026-06-17T23:34:39+08:00"
-            },
-            {
-              "title": "Disney+ 在 11 个国家停用杜比视界和 3D 内容",
-              "brief": "Disney+ 在欧洲 11 个国家关闭了杜比视界和 3D 内容支持，这距离其 3 月恢复相关格式仅过去数月。原因是美国公司 InterDigital 在一项涉及 HEVC 视频编码技术的专利案中胜诉，统一专利法院据此对迪士尼发出跨 11 个欧盟国家的禁令。根据用户反馈和测试，德国、意大利、法国、芬兰、丹麦等地已受影响，但 HDR10 和 4K 仍可用。",
-              "source_url": "https://9to5google.com/2026/06/17/disney-plus-dolby-vision-disabled-europe/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-17T22:55:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "Slate Truck 售价或已泄露，起价 24,950 美元",
+              "brief": "Slate Auto 的简约电动皮卡 Blank Slate 疑似在官网短暂泄露售价，标准续航版起价 24,950 美元，正式发布定在下周。该车因主打低成本、无车机、手摇车窗等极简配置而受关注，2025 年曾在 7,500 美元税收抵免仍有效的前提下瞄准约 2 万美元，这次流出的截图还显示后驱电机降至 181 马力、拖曳能力翻倍。",
+              "source_url": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-18T02:23:21+08:00"
+            },
+            {
+              "title": "无论如何，“危险”AI 模型都会到来",
+              "brief": "Anthropic 因美国政府新的出口管制指令下线 Claude Fable 5 和 Mythos 5，该指令禁止“任何外国国民”使用相关服务，公司自上周五起正与白宫协商恢复。自 4 月发布以来，Mythos 被称具备发现并利用软件漏洞的高级能力，因此先以 Project Glasswing 联盟预览版和受限公开版分阶段推出。",
+              "source_url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-18T01:50:46+08:00"
+            },
             {
               "title": "十个月后，100美元的 Google Home Speaker 终于开启预订",
               "brief": "谷歌宣布，去年8月发布的 Google Home Speaker 在等待10个月后终于开放预订，并将于6月25日以100美元上市。这是谷歌近六年来首款新的家用音频设备，定位更强调 Gemini 语音交互而非纯音质。设备采用小巧圆润机身和部分再生织物外层，提供四色，支持360度声音效果，并配有底部光环、三枚远场麦克风和静音开关。",
@@ -113,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Calendar 扩展活动配色并加入 RGB 取色器",
+              "brief": "Google Calendar 正在扩大活动颜色自定义范围，默认可选颜色从长期只有 11 种提升到最多 24 种，并加入完整 RGB 取色器，提供最多 200 种自定义颜色。此举主要方便用户按假期、就诊或工作安排做更清晰的视觉分类。更新从今天开始推送，覆盖网页版、移动端和 Calendar API，面向个人账号、Workspace 客户及 Individual 订阅用户，功能显示可能超过 15 天。",
+              "source_url": "https://www.androidauthority.com/google-calendar-event-color-expansion-3678634/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T02:49:11+08:00"
+            },
+            {
+              "title": "智能眼镜或将面临更严格的驾驶限制",
+              "brief": "伊利诺伊州正修改驾驶时使用电子通信设备的限制，准备把人工智能智能眼镜明确纳入监管，并取消其在免手持或语音操作、甚至车辆因交通而停下时的例外。这项调整建立在现有司机手机禁令基础上，显示立法者开始关注智能眼镜在驾驶场景中的使用风险。报道指出，新措辞似乎不区分仅音频眼镜和带显示设备，意味着两类产品都可能受到同等限制。",
+              "source_url": "https://www.androidauthority.com/smart-glasses-driving-3678592/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T02:02:17+08:00"
+            },
+            {
+              "title": "Google 将关闭面向消费者的 Gemini Code Assist for GitHub",
+              "brief": "Google 已宣布停止面向消费者的 Gemini Code Assist for GitHub，2026 年 6 月 18 日起进入弃用阶段，届时将无法再完成该应用消费者版的安装，并于 2026 年 7 月 17 日完全关闭。该工具于 2025 年 2 月推出，主要帮助学生、爱好者、自由职业者和初创团队处理基础代码审查，也支持自定义代码风格指南。企业版似乎不受这次调整影响。",
+              "source_url": "https://www.androidauthority.com/gemini-code-assist-for-github-sunsetting-3678603/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T01:16:18+08:00"
+            },
+            {
+              "title": "Google 让美国用户无需付费也能试用 AI 虚拟主持人",
+              "brief": "Google 宣布向所有美国 Google 账号免费开放 Google Vids 的 AI 头像与视频生成工具，用户无需订阅付费计划即可使用。该产品把时间线编辑与生成式 AI 结合，可将现有 Google Slides 自动转成分镜、脚本和带 AI 主持人的视频。新功能由 Veo 3.1 和 Lyria 3 提供支持，头像可配合道具和自定义背景，生成内容带 SynthID 水印，免费账号每月限 10 次 Veo 生成。",
+              "source_url": "https://www.androidauthority.com/google-vids-ai-avatars-free-for-everyone-us-3678613/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-18T00:54:34+08:00"
+            },
+            {
               "title": "《宝可梦冠军》登陆 Android 和 iOS",
               "brief": "《宝可梦冠军》现已登陆 Android 和 iOS，把多人回合制对战带到手机端。该作今年4月先在 Switch 推出，这次移动版上线同时开启限时活动，玩家可免费领取雷丘及其 X、Y 超级石，奖励会发至游戏内邮箱，移动端和 Switch 均可领取，并支持与 Switch、Switch 2 跨平台对战和账号存档互通。",
               "source_url": "https://www.androidauthority.com/pokemon-champions-launches-on-mobile-3678548/",
               "source_name": "Android Authority",
               "published_at": "2026-06-18T00:13:03+08:00"
-            },
-            {
-              "title": "Jackery 推出四款家庭断电备用电源新品",
-              "brief": "Jackery 发布四款新的断电备用电源方案，主打停电时维持家庭基础用电。新品包含三款接入电网的 HomePower 系列，容量覆盖 1kWh 至 3.6kWh，另有面向冰箱等关键家电的专用供电系统。其中 HomePower 3600 Pro Max 电量为 3584Wh，可堆叠扩展至 43kWh，并提供 3 个交流插座、2 个 USB 接口和 10ms 切换。",
-              "source_url": "https://www.androidauthority.com/jackery-home-power-backup-fridge-guard-3678425/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-18T00:00:03+08:00"
-            },
-            {
-              "title": "Matter 1.6 让智能家居配网更省事",
-              "brief": "Matter 1.6 发布，重点是减少智能家居设备安装和跨平台共享时的折腾。新版本加入完整双向 NFC 配网，配对过程不再依赖蓝牙握手，手机贴近设备即可完成交换，甚至可在接入市电前设置；同时新增 Joint Fabric，让 Apple Home、Google Home 和 SmartThings 通过中央数据存储安全共管同一 Matter 网络，并加入带时效的恒温器建议。",
-              "source_url": "https://www.androidauthority.com/csa-unveiled-matter-1-6-3678581/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-17T23:57:02+08:00"
-            },
-            {
-              "title": "AYANEO Pocket Micro 2 有望改善前代续航问题",
-              "brief": "AYANEO 公布了 Pocket Micro 2 的部分规格，试图补上前代最受诟病的续航短板。新机将改用骁龙处理器，取代初代的联发科 Helio G99，但官方暂未说明具体型号；电池从 2600mAh 提升到 3950mAh，同时强调会改进机身人体工学和按键手感，不过屏幕参数与内存容量仍未公布。",
-              "source_url": "https://www.androidauthority.com/ayaneo-pocket-micro-2-battery-processor-specs-3678531/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-17T23:15:58+08:00"
-            },
-            {
-              "title": "Samsung Health 迎来大改版更新",
-              "brief": "三星开始推送 Samsung Health 的大改版更新，重点是为新一代 Galaxy Watch 健康功能铺路。新版带来重新设计的界面，并新增 Vitals、Heart Health Score、Daily Cardio Load 和 Fitness Index 等功能，用于汇总夜间生理信号、睡眠压力活动和训练负荷；同时扩展了 Antioxidant Index 的趋势图与历史记录，并让 AGEs 指数支持夜间自动追踪。",
-              "source_url": "https://www.androidauthority.com/samsung-health-app-overhaul-arrives-3678471/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-17T22:55:26+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "智能冰箱停止获得软件更新后会怎样？",
+              "brief": "联网智能冰箱在厂商停止软件与技术支持后，制冷等基础功能通常仍可使用，但依赖应用、云端和联网服务的“智能”能力可能逐步失效，设备表现也会偏离购买时预期。问题在于这类家电寿命常被消费者期待达到十年以上，但功能是否持续取决于厂商支持意愿。FTC 2025 年报告称，89% 的智能设备厂商未告知软件支持期限，21 个智能家电品牌中仅 3 个明确承诺支持时长。",
+              "source_url": "https://www.engadget.com/2196515/smart-fridge-updates-support-ends/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-18T02:30:00+08:00"
+            },
+            {
+              "title": "闪迪 8TB PS5 SSD 售价超过 PS5 Pro 三倍",
+              "brief": "闪迪发布面向 PS5 和 PS5 Pro 的官方授权 Optimus GX Pro 850P NVMe SSD，8TB 版本折后仍要 2960 美元，超过美国在售 PS5 Pro 价格三倍。该系列提供 1TB、2TB、4TB 和 8TB 选项，被指与此前的 WD_Black SN850X 规格极为接近。它采用 PCIe 4.0，顺序读写速度为 7300/6300MB/s，发布时间正值全球存储器价格危机。",
+              "source_url": "https://www.engadget.com/2196530/sandisks-new-8tb-ps5-ssd-costs-more-than-three-times-as-much-as-the-ps5-pro/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-18T01:00:11+08:00"
+            },
             {
               "title": "Carvana在经销店推出首个试驾中心",
               "brief": "Carvana把达拉斯一家现有经销店改造成首个试驾中心，并计划在全美更多已收购门店复制这一模式。它仍坚持线上完成购车，现场员工主要负责答疑而非销售，顾客可自由开门看车、做并排比较、通过手机二维码操控LED屏查找车辆位置，并对克莱斯勒、道奇、Jeep和Ram新车进行无人陪同试驾。",
@@ -172,19 +242,26 @@
               "source_url": "https://www.engadget.com/2196422/rockstar-will-offer-free-gta-5-upgrades-from-older-console-and-pc-versions/",
               "source_name": "Engadget",
               "published_at": "2026-06-18T00:05:09+08:00"
-            },
-            {
-              "title": "乐高发布首款可实际游玩的弹珠台",
-              "brief": "乐高发布首款可实际游玩的弹珠台套装Lego Icons Arcade Pinball Machine，这款2273片新品将于7月开售。它以太空为主题，配有弹簧发射器、可动挡板、旋转碰撞器、坡道桥以及宇航员和婴儿宇航员人仔，玩家还可通过Lego Builder应用查看3D拼搭说明，售价230美元。",
-              "source_url": "https://www.engadget.com/2196314/lego-unveils-its-first-working-pinball-machine/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-17T22:59:02+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Anthropic 遭遇难解的出口管制",
+              "brief": "Anthropic 因特朗普政府突然下令，被迫关闭新模型 Fable 5 和 Mythos 5 的全部访问，甚至在美国境内的外籍用户与自家员工也被一并切断。公司称命令依据“国家安全权限”下达的出口管制，但政府未公开说明法律基础；Anthropic 还表示，这可能是美国首次以这种方式限制 AI 模型访问。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T14:28:50-04:00"
+            },
+            {
+              "title": "三分之二美国人认为 AI 发展过快",
+              "brief": "皮尤研究显示，尽管美国人使用聊天机器人的比例明显上升，仍有 63% 认为 AI 发展太快。自 2024 年以来，使用率已从 33% 升至 49%，其中 44% 的受访者表示用过 ChatGPT；仅 16% 认为 AI 会对社会产生正面影响，而 18 至 29 岁群体使用更多，却也更悲观，66% 用过聊天机器人，48% 认为其影响负面。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+              "source_name": "The Verge",
+              "published_at": "2026-06-17T13:20:24-04:00"
+            },
             {
               "title": "Echo Dot Max 在 Prime Day 提前促销中降至历史低价",
               "brief": "在下周 Prime Day 开始前，亚马逊提前下调多款自家 Echo 音箱价格，其中 Echo Dot Max 售价降至 64.99 美元，较原价便宜 35 美元，刷新历史低位。The Verge 的智能家居评测将它列为最均衡的 Alexa 音箱，认为它既适合日常听音，也能充当智能家居中枢，机身采用织物包覆设计，并配有独立高音与低音单元。",
@@ -205,20 +282,6 @@
               "source_url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
               "source_name": "The Verge",
               "published_at": "2026-06-17T12:13:34-04:00"
-            },
-            {
-              "title": "《GTA VI》发售前，《GTA V》迎来免费现世代升级",
-              "brief": "Rockstar 宣布，自 6 月 18 日起，持有 PS4 版或 Xbox One 数字版《GTA V》的玩家，可免费升级到 PS5 和 Xbox Series X/S 版本。这项安排随《GTA Online》更新公布，距离《GTA VI》11 月 19 日发售只剩数月，也让未升级的玩家省下购买 39.99 美元版本或另付升级费的成本。",
-              "source_url": "https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade",
-              "source_name": "The Verge",
-              "published_at": "2026-06-17T11:45:36-04:00"
-            },
-            {
-              "title": "SanDisk 新款 PS5 SSD 售价超过三台 PS5 Pro",
-              "brief": "SanDisk 发布面向 PlayStation 5 的官方授权 Optimus GX PRO 850P NVMe SSD，提供 1TB 到 8TB 容量，用于扩展主机存储空间。其中 8TB 版本按官方说法可容纳约 200 款 PS5 游戏，但受全球存储芯片短缺影响，上市折后价仍达 2959.99 美元，高于三台 PS5 Pro 的总价。",
-              "source_url": "https://www.theverge.com/tech/951527/sandisk-optimus-gx-pro-850p-nvme-ssd-8tb-ps5-playstation-sony",
-              "source_name": "The Verge",
-              "published_at": "2026-06-17T11:34:29-04:00"
             }
           ]
         }
@@ -231,25 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《GTA Online》7月将加入大型新抢劫任务",
+              "brief": "《GTA Online》将在7月推出围绕洛圣都知名美术馆的大型新抢劫任务，这座自《GTA 5》首发起就存在、却长期缺少实质内容且从未开放内部的建筑终于会成为核心舞台。Rockstar尚未公布更新全貌，但按以往大型抢劫更新惯例，通常会带来新载具、武器与服饰；玩家需先拥有上次更新加入的豪宅，豪宅画室将改造成行动策划室，后续还会提供额外GTA$奖励和GTA+购房折扣。",
+              "source_url": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
+              "source_name": "IGN",
+              "published_at": "2026-06-18T00:08:01+08:00"
+            },
+            {
+              "title": "《刺客信条4：黑旗 重同步》成就可离线获取且不限难度",
+              "brief": "育碧确认，《刺客信条4：黑旗 重同步》的全部成就都可在游戏安装完成后离线获取，且不受难度设置限制。由于这次重制版仅保留单人内容、未带回原版多人模式，这一安排并不意外；官方还表示各平台将提供同一套成就列表，探索加勒比海时不存在错过型成就，目标多围绕开放世界中的特殊互动与趣味行为，游戏将于7月9日发售。",
+              "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-achievements-all-available-offline-at-any-difficulty-setting",
+              "source_name": "IGN",
+              "published_at": "2026-06-18T00:05:32+08:00"
+            },
+            {
+              "title": "《Dispatch》开发商用新补丁回应 Switch 审查争议",
+              "brief": "AdHoc为《Dispatch》Switch版上线“HR违规包”补丁，在北美、欧洲、澳大利亚和新西兰恢复可见胸部、臀部和竖中指等内容，并新增像素化和搞笑遮挡选项，以回应此前玩家对审查版本的强烈不满。开发商解释称，临近发售时因时间与资源不足，团队改用符合任天堂最严格地区评级的单一构建，但生殖器内容仍被禁止、相关梦境桥段静音，日本版也继续维持完整审查。",
+              "source_url": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
+              "source_name": "IGN",
+              "published_at": "2026-06-18T00:00:00+08:00"
+            },
+            {
+              "title": "《迪士尼梦光谷》2026夏季发布会内容汇总",
+              "brief": "Gameloft公布《迪士尼梦光谷》后续路线图，并发布游戏首个“冒险包”《Honeyglow Woods》，作为付费附加内容加入全新区域、三位《小熊维尼》角色小猪、屹耳和维尼，以及可解锁的装饰、家具、餐食和四名新伙伴。这标志着游戏从以大型付费扩展夹杂免费更新，转向以更小型、可能更频繁的迷你扩展配合免费内容更新的模式。",
+              "source_url": "https://www.ign.com/articles/disney-dreamlight-valley-summer-showcase-2026-everything-announced",
+              "source_name": "IGN",
+              "published_at": "2026-06-17T23:57:59+08:00"
+            },
+            {
               "title": "《Warframe》创意总监称新角色受《任天堂明星大乱斗》启发",
               "brief": "《Warframe》创意总监 Rebecca Ford 表示，新章节“Jade Shadows: Constellations”中的双角色设计部分受《任天堂明星大乱斗》启发。团队起初不知如何处理共用同一战甲的 Sirius 与 Orion，于是借鉴“相似却不同”的角色思路。更新里第 65 个 Warframe 实为二合一，玩家切换角色会逐步构建星座，完成后可触发兄弟对决；Sirius 可投掷镰刀拾取光球，Orion 的横斩可大幅削弱敌方防御。",
               "source_url": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
               "source_name": "IGN",
               "published_at": "2026-06-17T23:00:00+08:00"
-            },
-            {
-              "title": "迈克·迈尔斯称《王牌大贱谍4》会拍",
-              "brief": "迈克·迈尔斯表示《王牌大贱谍4》会拍，这成为该系列回归迄今最明确的公开表态。外界多年来一直听到他与导演 Jay Roach 断续提及续作可能性，但始终没有明确进展或时间表。迈尔斯是在观看法国对塞内加尔的比赛时，被问到是否还会再拍一部《王牌大贱谍》时直接回答“会的”；不过他没有透露项目何时启动，也未给出更多制作细节。",
-              "source_url": "https://www.ign.com/articles/mike-myers-says-austin-powers-4-will-happen",
-              "source_name": "IGN",
-              "published_at": "2026-06-17T22:48:26+08:00"
-            },
-            {
-              "title": "Rockstar 向 PS4 和 Xbox One 玩家免费提供《GTA 5》本世代升级",
-              "brief": "Rockstar 宣布自 6 月 18 日起，向 PS4 和 Xbox One 版《GTA 5》玩家免费提供本世代升级。消息随《GTA Online》7 月大型更新一同公布，面向 Xbox One 数字版及 PS4 的所有副本。玩家还能迁移既有进度，把多年积累的内容带到新版本；当前本世代版自 2022 年 3 月上线后，主要提升包括更流畅的 60 帧体验。",
-              "source_url": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
-              "source_name": "IGN",
-              "published_at": "2026-06-17T22:23:03+08:00"
             }
           ]
         },
@@ -295,6 +372,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "SpaceX以600亿美元收购Cursor 四位20多岁创始人成亿万富翁",
+              "brief": "SpaceX已同意以全股票交易收购AI编程工具Cursor开发商Anysphere，估值600亿美元，交易预计今年第三季度完成。Cursor由四名约25岁的创始人于四年前创办，现已成为市场上最受欢迎的AI编程工具之一。彭博亿万富翁指数显示，四人各持约9%股份，分别价值55亿美元，交割后将换成等值SpaceX股票，也折射出AI热潮正加速催生年轻科技亿万富翁。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566090.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-18T01:04:14+08:00"
+            },
+            {
+              "title": "亚马逊高管称首批商用量子计算机或在5至7年内出现",
+              "brief": "亚马逊高管德桑蒂斯表示，未来5至7年将先出现一批可投入商业使用的小规模量子计算机，这是亚马逊首次明确给出实用型量子计算机的落地时间预测。她指出，量子计算并不是更快的普通电脑，而是擅长处理经典计算机难以高效求解的特定问题。按其判断，首批应用大概率集中在化学和材料科学，亚马逊去年还推出了主攻量子纠错的自研芯片Ocelot。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566088.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-18T00:59:27+08:00"
+            },
+            {
               "title": "美欧接近批准波音737 MAX 7和10投入运营",
               "brief": "FAA与欧洲航空安全局表示，波音737 MAX 7和MAX 10的认证已进入最后收尾，当前主要工作是完善技术细节、核对大量文件并确保两地认证办公室结论一致。两型机此前因发动机除冰问题延误，且MAX空难后审查更严。FAA预计MAX 7今夏获批、MAX 10年底前通过，EASA可能同步或随后认可。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1566086.htm",
@@ -314,20 +405,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1566082.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-17T23:50:14+08:00"
-            },
-            {
-              "title": "苹果被曝在App Store搜索中记录每次击键且无法关闭",
-              "brief": "研究人员称，苹果会在App Store搜索中记录用户输入过程的每一次击键，并将这些高度细粒度的分析数据发送给苹果。背景在于搜索联想确实需要读取当前输入内容，但争议集中在逐字变化被长期保存且与用户账号关联。报道指出，记录还含标签页和系统版本等信息，用户目前无法关闭这类分析上传。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566080.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-17T23:47:27+08:00"
-            },
-            {
-              "title": "SpaceX上市后股价首次下跌，持股机构称或加仓",
-              "brief": "SpaceX上市后股价首次出现下跌，但持股机构人士认为这更像市场噪音，若跌幅扩大反而可能加仓。报道指出，该股流通盘较小，上市首日仅约4.2%总股本可交易，因此盘中更易剧烈波动；未来数月内部人锁定期到期，可能带来下行压力。另一方面，纳斯达克规则调整后，SpaceX未来几周还可能更快被纳入相关指数。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566078.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-17T23:44:22+08:00"
             }
           ]
         },
