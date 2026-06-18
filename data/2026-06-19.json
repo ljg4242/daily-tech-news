@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T04:58:26.854398+08:00",
+  "generated_at": "2026-06-19T06:53:40.093792+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Apple Music 公布史上播放量最高的 20 位歌手",
+              "brief": "苹果与 Chart Data 公布了 Apple Music 历来播放量最高的 20 位歌手名单，这是苹果首次公开该服务的历史总榜。由于 Apple Music 于 2015 年 6 月上线，这份排名覆盖过去 11 年的播放数据；德雷克排名第一，泰勒·斯威夫特第二，Future 第三，其后是 YoungBoy Never Broke Again 和 Bad Bunny。",
+              "source_url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-19T06:26:04+08:00"
+            },
             {
               "title": "watchOS 27 上手：Apple Watch 新功能一览",
               "brief": "苹果展示今秋 watchOS 27，新版功能不多，但加入更新。系统稍晚将引入 Siri AI，并新增手表端入口，但需连接支持 Apple Intelligence 的 iPhone 15 Pro 或后续机型；此外还有动态应用网格、Liquid Glass 改进、可脱离手机使用的 Workout Buddy、经期与更年期提醒，以及轻点手势。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
               "source_name": "MacRumors",
               "published_at": "2026-06-19T00:17:54+08:00"
-            },
-            {
-              "title": "苹果宣布巴西iOS App Store重大调整",
-              "brief": "苹果宣布调整巴西iPhone应用分发规则，当地开发者今后可通过替代应用市场发布应用，并接入第三方支付，从而不必完全依赖App Store和苹果内购体系。相关变化适用于iOS 26.5及以上版本，源于巴西竞争监管要求；苹果将保留应用公证、市场授权等机制，并把App Store数字商品与服务最高佣金下调至21%，同时限制未成年人使用外链和替代支付。",
-              "source_url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-18T23:50:43+08:00"
             }
           ]
         },
@@ -129,6 +129,27 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "NASA要求诺思罗普·格鲁曼停止月球HALO舱段工作",
+              "brief": "NASA已要求诺思罗普·格鲁曼停止月球门户“居住与后勤前哨”HALO舱段的相关工作。此前该机构在3月把登月重点从环月空间站转向月面基地，并暂停“月球门户”计划。HALO是长6.1米的加压居住舱，合同总额约11亿美元；在承包商试图推动其转用于新月面计划后，关键分包商Paragon上周也接到停工通知。",
+              "source_url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T04:49:55+08:00"
+            },
+            {
+              "title": "谷歌确认Android开发者验证时间表与支持应用商店",
+              "brief": "谷歌确认，Android面向第三方应用分发的开发者验证将在今年9月30日上线，并先在巴西、印度尼西亚、新加坡和泰国部署。此举被官方称为打击诱导安装恶意应用和诈骗软件的必要措施。谷歌已在3月推出新的开发者控制台，外部分发开发者可付25美元提前完成身份验证，未注册者届时将无法在获认证安卓设备上侧载应用。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T03:53:33+08:00"
+            },
+            {
+              "title": "苹果修补Beats Studio Buds高危窃听漏洞",
+              "brief": "苹果已为Beats Studio Buds推送固件更新1B211，修补可被附近攻击者利用的高严重性窃听漏洞。该问题源于蓝牙相关芯片固件认证不当，攻击者可在信号范围内冒充曾配对设备，并借手机麦克风监听周围声音。漏洞编号CVE-2025-20701，评分8.8分，最初由研究人员在去年披露，涉及Airoha芯片生态的多家厂商。",
+              "source_url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T03:41:35+08:00"
+            },
+            {
               "title": "参议院投票后，特朗普政府放弃关闭海洋监测计划",
               "brief": "在参议院表决及多方反对后，特朗普政府据报将撤回关闭海洋观测计划的决定。该“海洋观测倡议”5月曾被突然下令拆除，建设投入逾3.5亿美元，在大西洋和太平洋部署多组监测阵列，持续提供气候变化、天气预报、渔业管理及洋流、盐度、温度等数据。目前官方尚无正式声明，外界也不清楚过去一个月设施是否受损。",
               "source_url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
@@ -141,20 +162,6 @@
               "source_url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-19T01:42:18+08:00"
-            },
-            {
-              "title": "伯尼·桑德斯提出7万亿美元计划，让美国人掌控AI产业",
-              "brief": "伯尼·桑德斯公布一项法案摘要，拟通过对大型AI公司股票一次性征收50%税款，建立规模约7万亿美元的主权财富基金，并把收益用于向美国人直接分红及医疗、教育、住房等项目。凡年AI销售额达2亿美元的公司都将纳税，新设独立两党委员会还可凭投票权干预可能损害公众利益的企业决策。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-19T01:02:49+08:00"
-            },
-            {
-              "title": "5500年前西伯利亚狩猎采集者死于一次鼠疫暴发",
-              "brief": "牛津大学古DNA研究人员在俄罗斯贝加尔湖周边四处古代墓地死者的牙齿中测序出鼠疫耶尔森菌DNA，显示约5500年前东南西伯利亚的狩猎采集者曾遭遇一次鼠疫暴发并造成数十人死亡。这一发现对应目前测得最古老的鼠疫菌株，把已知最早疫情提前到新石器时代农民感染记录之前，也挑战了鼠疫因早期农业定居、人口密集聚落以及鼠类和家畜环境而兴起的传统看法。",
-              "source_url": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-18T23:04:40+08:00"
             }
           ]
         },
@@ -287,6 +294,27 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "新免费 Steam 游戏冲上热玩榜，却引发误封禁",
+              "brief": "免费游戏《Task Bar Hero》上月登陆Steam后并发玩家已超过50万，冲上平台游玩榜第三，仅次于《CS2》和《Dota 2》。它把像素角色嵌入任务栏，即使不主动操作也会持续冒险，掉落物还能在Steam市场出售，因此启用了反作弊来防止非法刷物。但多名玩家称普通后台程序也会被误判，导致账号封禁、公开资料留痕，游戏评价因此变成褒贬不一。",
+              "source_url": "https://www.ign.com/articles/a-new-free-steam-game-is-topping-the-most-played-charts-but-its-also-leading-to-false-bans",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T05:19:25+08:00"
+            },
+            {
+              "title": "《圣诞怪杰》续集开发中，金·凯瑞和朗·霍华德有望回归",
+              "brief": "《圣诞怪杰》续集已进入积极开发阶段，尽管相关协议尚未最终敲定，但剧本正由Alec Berg、Jeff Schaffer和David Mandel撰写，剧情细节仍被保密。金·凯瑞此前表示愿意再演怪杰，而如今若改用动作捕捉等方式，或可避开当年每天约两小时半化妆、呼吸困难、视线受限，甚至一度引发恐慌发作的艰难拍摄过程。",
+              "source_url": "https://www.ign.com/articles/how-the-grinch-stole-christmas-sequel-in-the-works-with-jim-carrey-and-ron-howard",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T05:07:34+08:00"
+            },
+            {
+              "title": "《Grow a Garden 2》首周 Roblox 访问量破 3 亿",
+              "brief": "《Grow a Garden 2》上线首周就在Roblox拿下3亿次访问，延续了前作热度。续作把原本需花Robux的偷窃玩法改成夜晚2分30秒的限时潜入，玩家可闯入他人农场偷走植物，但也可能遭铲子、陷阱或地精反击。游戏还新增道具商店和公会周赛；守园地精需10万Sheckles购买，虽能驱贼，却稀有且一次仅持续10分钟。",
+              "source_url": "https://www.ign.com/articles/grow-a-garden-2-hits-300-million-roblox-visits-in-first-week",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T04:01:32+08:00"
+            },
+            {
               "title": "漫威公开《超凡蜘蛛侠》第1000期首波预览",
               "brief": "漫威公开《超凡蜘蛛侠》第1000期首波预览，披露多张变体封面、弗兰克·米勒与桃桃子的内页，并说明这本纪念刊的内容构成。该刊定于2026年9月16日上市，主线由乔·凯利、佩佩·拉拉斯和约翰·罗米塔二世负责，另有四个短篇，分别涉及本叔之死、蜘蛛侠与复仇者联手，以及对抗手合会等情节，诺亚·霍利也参与编写。",
               "source_url": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
@@ -299,27 +327,6 @@
               "source_url": "https://www.ign.com/articles/dc-next-level-legion-of-super-heroes-teen-titans-doom-patrol",
               "source_name": "IGN",
               "published_at": "2026-06-19T00:59:53+08:00"
-            },
-            {
-              "title": "《侠盗猎车手》标志性封面的演变，如今加入《GTA 6》",
-              "brief": "IGN回顾《侠盗猎车手》系列封面设计的演变，并将已公开的《GTA 6》纳入这一脉络，梳理该系列视觉标识如何逐步定型。文章指出，真正奠定招牌拼贴风格的是《GTA 3》，而在2001年“9·11”事件后，Rockstar因认为原版美版封面过于激烈，重新调整包装设计，最终形成沿用至今的代表性样式。",
-              "source_url": "https://www.ign.com/articles/the-evolution-of-grand-theft-autos-iconic-cover-art-now-including-gta-6",
-              "source_name": "IGN",
-              "published_at": "2026-06-19T00:35:17+08:00"
-            },
-            {
-              "title": "GTA 6预购开启前的7个关键问题",
-              "brief": "IGN围绕《GTA 6》6月25日开启预购这一节点，整理出玩家和行业最关心的七个问题，聚焦这款计划于11月发售的大作将如何揭晓更多信息。文章认为，Rockstar与母公司Take-Two正面对一次可能重塑市场节奏的超级首发，预购阶段有望进一步说明版本、销售安排及其他影响全行业判断的关键信息，这也被视为其他发行商是否会跟进的重要观察点。",
-              "source_url": "https://www.ign.com/articles/7-burning-questions-for-the-gta-6-pre-order-launch",
-              "source_name": "IGN",
-              "published_at": "2026-06-19T00:00:01+08:00"
-            },
-            {
-              "title": "Rockstar粉丝松口气：《GTA 6》似乎不会再跳票",
-              "brief": "随着《GTA 6》封面公开并宣布开启预购，IGN称外界对游戏再次延期的怀疑明显减弱，许多长期等待新作的玩家开始相信它将按今年11月如期推出。过去Rockstar多次推迟这款重磅作品，尽管Take-Two负责人此前已表示今夏会启动营销，仍有不少人不信；而这次公告被不少粉丝视为发布时间表已经更稳固的信号。",
-              "source_url": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T23:41:31+08:00"
             }
           ]
         },
@@ -365,6 +372,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "英特尔任命李锡熙为代工执行副总裁，强化先进封装与系统集成",
+              "brief": "英特尔任命李锡熙为代工业务执行副总裁，负责先进封装技术开发与系统集成，强化AI芯片等下一代计算系统能力。公司称先进封装和系统集成已成关键环节，正准备面向客户和合作伙伴量产EMIB-T、HBI等技术。李锡熙曾在英特尔任工程师，后任KAIST教授、SK海力士CEO等职，2026年6月以高级顾问身份回归。",
+              "source_url": "https://www.ithome.com/0/966/287.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-06-19T04:35:27+08:00"
+            },
+            {
               "title": "米哈游“林离 Olivia”应用上架 Steam，支持 MIDI 生成视频与桌面壁纸",
               "brief": "米哈游旗下《BSide: Olivia Lin》已上架 Steam，应用类型标注为 Application 而非 Game，围绕角色“林离”提供陪伴与音乐相关体验。该产品此前已通过 B 站账号持续预热，由米哈游全资持股公司开发，现商店页显示支持钢琴演奏与聆听、上传 MIDI 自动生成音乐视频、文字写信互动，以及桌面动态壁纸与桌面演奏。",
               "source_url": "https://www.ithome.com/0/966/284.htm",
@@ -391,13 +405,6 @@
               "source_url": "https://www.ithome.com/0/966/281.htm",
               "source_name": "IT之家",
               "published_at": "2026-06-18T23:32:00+08:00"
-            },
-            {
-              "title": "苹果在巴西开放第三方应用商店与内购，并公布新佣金体系",
-              "brief": "苹果面向巴西市场的 App Store 新规已正式生效，iOS 26.5 及以上系统开始支持第三方应用商店，以及第三方支付和网页跳转支付。调整背景是当地对分发与支付开放的要求，但用户仍不能直接从网页下载安装应用，第三方商店上架的软件也需经过苹果审核；同时苹果公布新佣金体系，不同分发与支付方式对应 5% 核心佣金或 21% 商店佣金等费率。",
-              "source_url": "https://www.ithome.com/0/966/280.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-18T23:25:08+08:00"
             }
           ]
         },
