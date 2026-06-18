@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T02:58:55.483575+08:00",
+  "generated_at": "2026-06-19T04:58:26.854398+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "watchOS 27 上手：Apple Watch 新功能一览",
+              "brief": "苹果展示今秋 watchOS 27，新版功能不多，但加入更新。系统稍晚将引入 Siri AI，并新增手表端入口，但需连接支持 Apple Intelligence 的 iPhone 15 Pro 或后续机型；此外还有动态应用网格、Liquid Glass 改进、可脱离手机使用的 Workout Buddy、经期与更年期提醒，以及轻点手势。",
+              "source_url": "https://www.macrumors.com/2026/06/18/watchos-27-hands-on/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-19T03:35:28+08:00"
+            },
+            {
+              "title": "飞利浦 Hue 新增 Play 台灯、落地灯和烛形灯泡",
+              "brief": "Signify 推出飞利浦 Hue Play 台灯、Play 大号落地灯和新款烛形灯泡，扩充娱乐照明产品线。两款新灯采用线性投光设计，可与游戏、电视、电影和音乐同步，并支持 Chromasync；售价分别为 80 美元和 150 美元。新烛形灯泡加入 Matter over Thread 与全光谱日光技术，双只装售价 110 美元。",
+              "source_url": "https://www.macrumors.com/2026/06/18/philips-hue-play-lamps/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-19T02:57:16+08:00"
+            },
             {
               "title": "Apple TV将免费直播2026年F1奥地利大奖赛全程",
               "brief": "苹果宣布，2026年F1奥地利大奖赛将在6月26日至28日期间通过Apple TV流媒体服务向美国观众免费线直播，观看全部赛程不需要任何订阅。免费范围涵盖练习赛、排位赛和大奖赛正赛等全部环节，覆盖整个比赛周末的每一场直播内容，意味着用户看到的不是节选节目，而是从准备阶段到正赛的完整赛事流程。",
@@ -28,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/",
               "source_name": "MacRumors",
               "published_at": "2026-06-18T23:50:43+08:00"
-            },
-            {
-              "title": "iOS 27为“查找”加入隐藏位置等新功能",
-              "brief": "苹果在iOS 27中为“查找”应用加入多项新功能，包括可对特定联系人暂时隐藏位置，且对方不会收到提醒。更新目前已向开发者提供开发者测试版，公开测试版将于7月推出；此外，位置共享时长现可在15分钟到30天之间自定义，不再局限于iOS 26的三个预设时段，查找应用也新增了横屏显示支持。",
-              "source_url": "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-18T23:06:48+08:00"
             }
           ]
         },
@@ -42,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Spotify 面向艺人超级粉丝的新票务预留系统在美国上线",
+              "brief": "Spotify在美国向18岁及以上Premium订阅用户推出Reserved，与Live Nation合作并由Ticketmaster提供支持，为部分艺人最忠实粉丝预留最多两张演出票。资格依据播放、收藏、分享和位置等多种信号判定，细节部分保密以防操纵。符合条件者会在首页、搜索、艺人页等位置看到入口，并收到邮件和推送提醒，通常有约一天时间购买任意场次门票。",
+              "source_url": "https://9to5mac.com/2026/06/18/spotifys-new-ticket-reservation-system-for-artist-superfans-goes-live-in-the-u-s/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-19T04:07:13+08:00"
+            },
+            {
+              "title": "watchOS 27 为 Apple Watch 新增单击手势",
+              "brief": "watchOS 27为Apple Watch新增“单击”手势，用户将食指和拇指轻触一次，即可在智能叠放中选中当前小组件，即使另一只手被占用也能完成操作。这延续了Series 9和Ultra 2上先后加入的双击与甩腕手势思路。苹果官网称，双击可用于导航，单击用于打开项目，甩腕则可关闭当前内容并返回表盘，三者形成连贯的免空手交互。",
+              "source_url": "https://9to5mac.com/2026/06/18/watchos-27-adds-new-apple-watch-trick-that-ive-been-loving/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-19T03:49:45+08:00"
+            },
+            {
+              "title": "Apple 警告产品将涨价，新版 Siri 持续带来亮点，更多 iOS 27 功能曝光",
+              "brief": "9to5Mac新一期Happy Hour播客围绕Apple即将上调设备价格、新版Siri上手体验，以及更多iOS 27功能展开。背景是苹果已确认受RAM短缺影响将调高部分产品价格，同时近期系统测试版不断出现新变化。Plus加更还讨论了据称将比iPhone 18 Pro晚六个月发布的iPhone Air 2可能面临的市场反应，并串联多篇相关报道。",
+              "source_url": "https://9to5mac.com/2026/06/18/happy-hour-595/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-19T03:44:03+08:00"
+            },
+            {
+              "title": "报告称 iPhone 销量增长 10%，全球智能手机市场连续第九周下滑",
+              "brief": "Counterpoint称，2026年5月11日至17日期间，iPhone销量同比增长10%，而全球智能手机市场整体下滑8%，已连续第九周收缩。背景是内存短缺推高成本，厂商正通过涨价、调整发布节奏和压缩配置来应对。同期华为销量增长23%，三星、Oppo、小米、vivo分别下降1%、10%、17%和19%，显示供应链稳定性与定价执行能力差异正在扩大。",
+              "source_url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-19T03:37:25+08:00"
+            },
+            {
               "title": "明年或成苹果史上最大产品年：将有哪些新品",
               "brief": "Mark Gurman表示，2027年可能成为苹果史上“最大产品年”。这一判断基于多项路线图传闻：苹果或首次一年推出六款新iPhone，并把AI穿戴与家居硬件一并推进。已曝光细节包括上半年iPhone Air 2、iPhone 18、iPhone 18e，下半年20周年纪念版iPhone 20 Pro、20 Pro Max、iPhone Ultra 2，以及带摄像头的AirPods、Apple Glasses和更大号家庭中枢。",
               "source_url": "https://9to5mac.com/2026/06/18/next-year-to-be-apples-biggest-product-year-ever-heres-whats-coming/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-19T02:33:51+08:00"
-            },
-            {
-              "title": "苹果将向所有人免费直播下一场F1大奖赛",
-              "brief": "苹果将首次兑现F1部分赛事免订阅承诺，在美国向所有可使用Apple TV应用的用户免费开放奥地利大奖赛的排位赛和正赛。通常免费内容只有练习赛，这次把周末关键环节移出付费墙，目的是提升赛事曝光并强化Apple TV的体育直播认知。具体为美东时间6月27日10点排位赛、6月28日9点正赛，Android、Windows、智能电视和网页端都可观看。",
-              "source_url": "https://9to5mac.com/2026/06/18/apple-will-stream-the-next-formula-1-grand-prix-free-for-everyone/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-19T01:54:35+08:00"
-            },
-            {
-              "title": "Beats Pill降至72美元，更多Beats优惠同步上线",
-              "brief": "Best Buy正推广多款Beats产品优惠，其中Beats Pill最低降至71.99美元，较149.99美元原价明显下探。文章将其列为当前最值得关注的折扣之一，背景是这款音箱自2024年回归后在音质、续航、连接和USB-C方面均有改进。当前价格包括红色开箱优品71.99美元、黑色开箱优品76.99美元、全新99.99美元，文中也提到Powerbeats Pro 2等其他推荐。",
-              "source_url": "https://9to5mac.com/2026/06/18/beats-pill-drops-to-72-plus-more-beats-recommendations/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-19T01:49:29+08:00"
-            },
-            {
-              "title": "Apple Wallet在iOS 27加入一项多年期待的功能",
-              "brief": "iOS 27为Apple Wallet加入导入实体票券和会员卡的新功能，让用户可把带条码的实体卡、活动票和截图中的电子票存进钱包。此前Wallet已支持银行卡、证件和钥匙等内容，但并非所有场景都提供数字票。苹果表示，用户可通过相机中的Siri模式扫描实体卡或截图后保存，加入后可在iPhone或Apple Watch上直接出示条码或二维码。",
-              "source_url": "https://9to5mac.com/2026/06/18/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-19T01:31:43+08:00"
-            },
-            {
-              "title": "优惠汇总：Apple Watch Ultra 3 罕见降近 100 美元，1TB M5 MacBook Pro 减 200 美元",
-              "brief": "苹果与 Beats 多款产品近期出现新折扣，其中 Apple Watch Ultra 3 本周罕见降价接近 100 美元，Series 11 也继续维持 299 美元起、最高省 160 美元的优惠。亚马逊当天又新增多种配色和表带组合；同时 1TB M5 MacBook Pro 便宜 200 美元，512GB M5 iPad Pro 便宜近 150 美元，Beats 耳机在百思买最高减 220 美元。",
-              "source_url": "https://9to5mac.com/2026/06/18/deals-apple-watch-ultra-3-m5-macbook-pro-beats/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-18T23:30:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "今日最佳 Android 应用优惠与限免：WINCH IT OUT、LUNA The Shadow Dust 等",
+              "brief": "9to5Google汇总了今日Android应用优惠与限免信息，涵盖解谜、角色扮演、策略与模拟等多种类型，方便用户集中查看近期Google Play折扣。此次重点降价包括WINCH IT OUT、LUNA The Shadow Dust、RPG Soul Historica、Nelly Cootalot: The Fowl Fleet、Guns’n’Glory Zombies Premium和This Is the Police 2，多款应用价格降至0.5至5美元，另有部分作品免费。",
+              "source_url": "https://9to5toys.com/2026/06/18/today-best-android-app-deals-luna-shadow-dust/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-19T03:01:44+08:00"
+            },
             {
               "title": "YouTube TV低调更新限制“性能较弱设备”，包括Roku",
               "brief": "Google近期低调调整了YouTube TV，在较旧或性能较弱的设备及智能电视上取消直播指南后台播放，并把可查看的未来节目列表缩短到仅24小时。相关异常自5月底起陆续被用户报告，官方社区中可信产品专家表示，此举是为减少崩溃并让这些设备运行更顺畅，受影响反馈里Roku电视和播放器尤为常见，谷歌还建议想保留完整体验的用户升级硬件。",
@@ -108,19 +122,33 @@
               "source_url": "https://9to5google.com/2026/06/18/google-pixel-android-17-update-widgets/",
               "source_name": "9to5Google",
               "published_at": "2026-06-19T00:40:00+08:00"
-            },
-            {
-              "title": "Google Meet for Android Auto 开始广泛推送",
-              "brief": "Google Meet 面向 Android Auto 的车载支持已经开始更广泛推送，车辆连接支持的车机后会默认启用并自动可用。此前用户看到的更多只是开关和提示，如今系统已能在车机上显示“Meet 可用”通知并允许登录使用。首次启动时需要先在手机上打开并重启一次 Meet 应用，随后即可进入联系人和通话列表界面；谷歌预计整个推送将在 2026 年 6 月前完成。",
-              "source_url": "https://9to5google.com/2026/06/18/google-meet-for-android-auto-begins-rolling-out-widely/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-19T00:39:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "参议院投票后，特朗普政府放弃关闭海洋监测计划",
+              "brief": "在参议院表决及多方反对后，特朗普政府据报将撤回关闭海洋观测计划的决定。该“海洋观测倡议”5月曾被突然下令拆除，建设投入逾3.5亿美元，在大西洋和太平洋部署多组监测阵列，持续提供气候变化、天气预报、渔业管理及洋流、盐度、温度等数据。目前官方尚无正式声明，外界也不清楚过去一个月设施是否受损。",
+              "source_url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T02:19:44+08:00"
+            },
+            {
+              "title": "SpaceX上市前，中国投资者曾秘密持股",
+              "brief": "ProPublica获得的一份私募投资者名单显示，SpaceX上市前曾有多名海外投资者秘密持股，其中包括一名与中国军工承包商有关联的商人，以及一个与卡塔尔王室相关的实体。由于SpaceX承接五角大楼侦察卫星等敏感美国政府业务，这类投资受到严格监管。公司也因“监管和合规风险”在上周IPO中禁止中国和香港投资者买入。",
+              "source_url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T01:42:18+08:00"
+            },
+            {
+              "title": "伯尼·桑德斯提出7万亿美元计划，让美国人掌控AI产业",
+              "brief": "伯尼·桑德斯公布一项法案摘要，拟通过对大型AI公司股票一次性征收50%税款，建立规模约7万亿美元的主权财富基金，并把收益用于向美国人直接分红及医疗、教育、住房等项目。凡年AI销售额达2亿美元的公司都将纳税，新设独立两党委员会还可凭投票权干预可能损害公众利益的企业决策。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T01:02:49+08:00"
+            },
             {
               "title": "5500年前西伯利亚狩猎采集者死于一次鼠疫暴发",
               "brief": "牛津大学古DNA研究人员在俄罗斯贝加尔湖周边四处古代墓地死者的牙齿中测序出鼠疫耶尔森菌DNA，显示约5500年前东南西伯利亚的狩猎采集者曾遭遇一次鼠疫暴发并造成数十人死亡。这一发现对应目前测得最古老的鼠疫菌株，把已知最早疫情提前到新石器时代农民感染记录之前，也挑战了鼠疫因早期农业定居、人口密集聚落以及鼠类和家畜环境而兴起的传统看法。",
@@ -134,45 +162,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "石头科技 Qrevo Curv 系列展示自动家居清洁新进展",
-              "brief": "石头科技 Qrevo Curv 系列展示了自动家居清洁的新进展。文章对比 2025 年 5 月推出的 Qrevo CurvX 与今年的新款 Qrevo Curv 2 Flow，指出前者使用双旋转拖布，处理大污渍后常需回基站清洗；后者改用滚筒拖布与刮刀，能边拖边刮走污水，减少中断，也让地面残留水分更少。",
-              "source_url": "https://www.androidauthority.com/qrevo-curv-series-3678541/",
+              "title": "谷歌确认将修复 Android 17 测试者卡在 Beta 的问题",
+              "brief": "Android 17 正式版本周发布后，按计划测试者应能在不清除设备数据的情况下退出 Beta 并转入稳定版，但部分运行 Beta 4.1 的用户反馈无法完成这一步。谷歌现已确认问题存在，称正在准备后续 OTA 修复；此前 Beta 4 用户多可正常切换，异常似乎集中出现在补丁级别不匹配的设备上。",
+              "source_url": "https://www.androidauthority.com/android-17-beta-leave-3679141/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T02:44:13+08:00"
+              "published_at": "2026-06-19T04:35:40+08:00"
             },
             {
-              "title": "Android 17 让 Pixel 小组件消失？Google 正在修复",
-              "brief": "Android 17 正让部分 Pixel 手机的主屏小组件消失，相关反馈主要集中在启用了工作资料的设备上。Google 已确认知晓这一故障，并表示修复补丁会在近期通过软件更新推出。受影响用户目前只能尝试删除工作资料、重启手机，再手动把小组件重新添加回来，但这对依赖工作资料办公的人并不方便。",
-              "source_url": "https://www.androidauthority.com/android-17-google-pixel-widget-fix-coming-3679098/",
+              "title": "Nothing 社区评测计划可让用户提前体验新产品",
+              "brief": "Nothing 推出新的社区评测计划，入选者可在产品正式发布前提前拿到公司最新设备，并参与首发体验分享。公司表示，参与者需要在社区和社交平台发布上手印象、在上市后提交完整评测，并围绕功能制作内容；申请窗口将于 6 月 24 日下午 1 点结束，且该计划目前不面向印度用户开放。",
+              "source_url": "https://www.androidauthority.com/nothing-launches-community-review-program-3679144/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T02:09:10+08:00"
+              "published_at": "2026-06-19T04:24:39+08:00"
             },
             {
-              "title": "三星最新智能手表出货低迷，苹果优势扩大",
-              "brief": "2026 年第一季度全球智能手表出货数据显示，三星表现下滑。Counterpoint Research 称，苹果出货量同比增长 21%，三星则下滑 28%，而全球市场整体仍增长 4%，华为、Imoo 和小米等中国品牌推高了总量。报告提到，健康追踪需求、Apple Watch SE 3 和 2025 款产品支持 5G，都是苹果增长的原因。",
-              "source_url": "https://www.androidauthority.com/samsung-smartwatch-shipments-3679088/",
+              "title": "Prime Day 优惠让亚马逊 Fire HD 8 Kids 平板降价 42%",
+              "brief": "亚马逊在 Prime Day 期间下调 Fire HD 8 Kids 平板价格，这款面向儿童的 8 英寸设备从 159.99 美元降至 92.99 美元。该产品基于现行 Fire HD 8 平台，附带防摔保护壳、家长控制、Amazon Kids 内容服务以及两年无忧换新保障；此次优惠需 Prime 会员资格，折扣幅度达到 42%。",
+              "source_url": "https://www.androidauthority.com/amazon-fire-hd-8-kids-tablet-deal-3679149/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T01:54:34+08:00"
+              "published_at": "2026-06-19T03:36:57+08:00"
             },
             {
-              "title": "Galaxy Watch 用户称部分应用无法打开",
-              "brief": "部分 Galaxy Watch 用户称，手表上的某些应用已经无法打开。问题表现为点开 Gmail、Google 日历或 WhatsApp 后，启动画面短暂出现，随后又直接退回应用抽屉。现有判断认为，这与 Wear OS 6 中残留线程卡在内存有关，系统会误判旧进程仍在运行并中止启动；有用户称安装 2026 年 5 月安全更新后暂未再复现。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-watch-app-launch-bug-3679071/",
+              "title": "Galaxy A27 5G 最新渲染图曝光",
+              "brief": "Galaxy A27 5G 的一组疑似官方渲染图曝光，展示了蓝、黑、粉三种配色，并进一步透露了这款三星入门机的新信息。泄露图片中可见 Circle to Search 功能，另有画面显示其配备 5000mAh 电池；同时出现的 CPU、GPU、NPU 示意图也暗示，部分 AI 能力可能会下放到这款机型。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-a27-5g-renders-3679103/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T01:23:30+08:00"
+              "published_at": "2026-06-19T03:20:44+08:00"
             },
             {
-              "title": "Spotify 新功能帮助你避开演出票黄牛",
-              "brief": "Spotify 正在推出名为 Reserved 的新功能，让部分用户在公开开售前购买演唱会门票。此举针对大型演出门票常被黄牛迅速扫走、再高价转卖的问题。是否获得资格取决于收听、分享艺人音乐及所在地，入选者会在邮件和应用内收到通知，并可在约一天内购买同一巡演任一符合条件场次的最多两张票，该功能由 Spotify 与 Live Nation、Ticketmaster 合作提供。",
-              "source_url": "https://www.androidauthority.com/spotify-reserved-out-now-3679022/",
+              "title": "谷歌正让 Gemini Notebooks 更易添加新文件",
+              "brief": "谷歌正改进 Gemini Notebooks 的文件导入方式，准备让用户通过 Android 分享菜单直接把内容加入指定笔记本。相关代码已出现在安卓版 Google 应用 17.32.26.sa.arm64 中，功能目前尚未开放，但现有迹象显示它将支持图片、音频、视频、PDF、文档、文本和 ZIP 文件，并可选择现有笔记本或新建目标。",
+              "source_url": "https://www.androidauthority.com/gemini-notebook-files-3679075/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-18T23:56:58+08:00"
+              "published_at": "2026-06-19T03:13:59+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Google 停产 Nest Home Mini 和 Nest Audio",
+              "brief": "谷歌在推出新款智能家居音箱一天后，确认停止生产 Nest Home Mini 和 Nest Audio。这两款 Nest 音箱已在市场销售约五年，若把 2017 年的 Google Home Mini 算上则时间更长，这也符合谷歌当前尽可能把 Gemini 部署到更多设备上的产品策略。已售设备仍会继续运行，并获得常规软件更新、安全补丁和客服支持；新款 Google Home 音箱定价 100 美元，与 Nest Audio 相同，但明显高于原价 50 美元的 Nest Home Mini。",
+              "source_url": "https://www.engadget.com/2197748/google-has-discontinued-the-nest-home-mini-and-nest-audio/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-19T04:33:02+08:00"
+            },
+            {
+              "title": "Rivian 因早期车型自动驾驶宣传遭集体诉讼",
+              "brief": "Rivian 因其早期 R1T 皮卡和 R1S SUV 的自动驾驶能力宣传遭遇集体诉讼，原告称公司夸大了首代车型的自驾潜力。诉状称，Rivian 曾表示这些车辆可实现 3 级自动驾驶，即车辆能在无需驾驶员操作下转向、加速和制动，但首代车型实际并不具备实现免手驾驶或 3 级自动驾驶所需的硬件、摄像头、传感器和算力，因此任何软件更新都无法达到宣传效果。",
+              "source_url": "https://www.engadget.com/2197702/rivian-faces-a-class-action-lawsuit-over-self-driving-in-its-early-vehicles/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-19T03:42:36+08:00"
+            },
             {
               "title": "Instagram 现可为轮播帖每张图片添加独立配文",
               "brief": "Instagram新增轮播帖逐张配文功能，用户现在可为同一组图片中的每一张单独填写说明，发布多图内容时不必再共享同一段文字。此前整组内容只能共用一个标题，较难完整讲述多图故事；新功能可在输入标题时通过开关启用，正在陆续推送，覆盖全部用户可能还需约一周。平台此前已把轮播图片上限从10张提高到20张，这次更新进一步扩展了多图内容的表达方式。",
@@ -193,20 +235,6 @@
               "source_url": "https://www.engadget.com/2197562/apple-opens-up-third-party-app-stores-in-brazil/",
               "source_name": "Engadget",
               "published_at": "2026-06-19T02:07:56+08:00"
-            },
-            {
-              "title": "Apple TV 将免费直播 F1 奥地利大奖赛",
-              "brief": "Apple TV将免费直播F1奥地利大奖赛整个比赛周末，观众无需订阅即可观看练习赛、排位赛和正赛。直播将于6月26日开始，首场练习赛在美国东部时间当天7:30开启，随后还有当天第二场练习、6月27日10:00的排位赛，以及6月28日9:00开跑的正赛。苹果近期刚拿下F1美国转播权，并称相关赛事观看人数较去年增长。",
-              "source_url": "https://www.engadget.com/2197498/apple-tv-will-broadcast-the-formula-1-austrian-grand-prix-for-free/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-19T01:28:23+08:00"
-            },
-            {
-              "title": "谷歌日历现可为活动使用任意颜色",
-              "brief": "谷歌日历正在扩展活动配色选项，用户可用颜色从原先11种增至最多200种，让日程繁忙的人不必再重复使用相同颜色。这项更新默认开启，也是该应用近期持续升级的一部分；网页端除24个默认色外还提供RGB取色器，移动端仅有24色，功能正分批推送给Workspace客户、Workspace Individual订阅者及个人账号用户。",
-              "source_url": "https://www.engadget.com/2197314/google-calendar-lets-you-use-any-color-you-want-for-your-events/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-18T23:56:35+08:00"
             }
           ]
         },
@@ -214,39 +242,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Valve 的 Steam Controller 订单已排到 2027 年",
+              "brief": "Valve 表示，Steam Controller 的预订积压严重，今天新提交的预约订单预计要到 2027 年才能发货。公司之所以开始给出更明确的时间区间，是因为当前需求明显高于今年底前可完成的产量，需要提前管理用户预期。这也意味着现在登记未必能在明年内收到手柄；页面目前会显示可在 2026 年 9 月、2026 年 12 月或 2027 年下单，Valve 还称暂无停产计划。",
+              "source_url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+              "source_name": "The Verge",
+              "published_at": "2026-06-18T16:26:06-04:00"
+            },
+            {
+              "title": "现在可以在手机上使用 Game Boy Camera",
+              "brief": "Epilogue 为 GB Operator 推出 iOS 和 Android 应用 Flashback，让用户把 Game Boy Camera 连接到手机后直接拍照，不再需要 Game Boy 主机。GB Operator 原本是一款 50 美元的配件，可在电脑等设备上连接、游玩并验证多代 Game Boy 卡带。两年前它已把这枚配件变成桌面摄像头，如今又把那种 2 位、128×112 的低清影像带到了手机上。",
+              "source_url": "https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone",
+              "source_name": "The Verge",
+              "published_at": "2026-06-18T16:22:46-04:00"
+            },
+            {
+              "title": "HBO Max 年费方案现打 72 折",
+              "brief": "HBO Max 目前对年费方案开展限时促销，新用户和回归用户都可享受 28% 折扣，活动持续到 2026 年 7 月 15 日。此类优惠的背景是按年付费通常比按月订阅更省，因此官方也强调最高可比月付少花 40%。折后含广告版为每年 78.99 美元，Standard 为 132.99 美元，Premium 为 164.99 美元，起步价较原年费少 31 美元。",
+              "source_url": "https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-18T15:18:30-04:00"
+            },
+            {
+              "title": "Snap 的 Specs 戴在谁脸上都不好看",
+              "brief": "在新一期 Vergecast 中，The Verge 讨论了 Snap 新款 Specs 智能眼镜，认为其面部计算技术可能是目前最出色的一批。背景是 Snap 凭借多年 AR 镜头开发积累，在功能和形态上都跑在前面，但外观和佩戴感成了明显疑问。节目提到，这款售价 2195 美元的眼镜镜腿又粗又重，连官方宣传照都难掩压耳朵的效果，也让“技术强但没人想戴”成为核心问题。",
+              "source_url": "https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast",
+              "source_name": "The Verge",
+              "published_at": "2026-06-18T15:15:03-04:00"
+            },
+            {
               "title": "亚马逊 Prime Day 早期最佳优惠汇总",
               "brief": "亚马逊比往年更早举行的 Prime Day 尚未开始，但 The Verge 已整理出一批可提前购买的优惠，方便消费者在 6 月 23 日活动开启前先行下单。背景是平台已提前放出部分重点商品折扣，目前包括 AirPods Pro 3 创历史低价、Ring 新款电池门铃直降 60 美元并附送 Indoor Cam Plus，不过不少品牌和品类仍未全面上线。",
               "source_url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
               "source_name": "The Verge",
               "published_at": "2026-06-18T14:54:32-04:00"
-            },
-            {
-              "title": "这款机器人马桶会自动开到你身边",
-              "brief": "中国公司悦伴在上海一场聚焦养老、辅具和康复医疗的展会上展示了可自动行驶的“小伴”智能马桶，设备会主动移动到用户身边。它面向因年龄、受伤或残障而行动不便的人群，意在提升如厕可达性。产品采用类似高端扫地机器人的激光雷达、超声波等传感器规划路线并避开障碍和楼梯，售价预计为 28999 元，尚未确认海外发售。",
-              "source_url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-              "source_name": "The Verge",
-              "published_at": "2026-06-18T14:08:17-04:00"
-            },
-            {
-              "title": "Prime Day 前夕，Walmart Plus 年费五折",
-              "brief": "沃尔玛在 Prime Day 前夕把一年期 Walmart Plus 会员价从 98 美元降到 49 美元，作为吸引用户转向或补充亚马逊会员的促销。该服务主打电商与到家配送权益，并可让用户更早参与平台大促。折扣会员包含满 35 美元免运送货、可用时的次日和两日达、上门取退货，以及从 6 月 22 日开始的 Walmart Deals 抢先购买资格。",
-              "source_url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-18T13:33:00-04:00"
-            },
-            {
-              "title": "Firefox 新主页小组件让我更专注",
-              "brief": "Firefox 正在推送新版主页小组件，新标签页可加入体育比分、时区、专注计时器和清单等模块，让常用工具直接出现在浏览器首页。背景是用户原本常在手机或其他服务中分散使用这些功能，如今被整合到新标签体验中。报道特别提到计时器支持自定义且设计简洁，清单也可随开页查看，帮助减少切换应用带来的干扰。",
-              "source_url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
-              "source_name": "The Verge",
-              "published_at": "2026-06-18T13:29:50-04:00"
-            },
-            {
-              "title": "The Onion 重启版 InfoWars 将于 7 月 2 日上线",
-              "brief": "讽刺新闻网站 The Onion 已确定重启后的 InfoWars 将于 7 月 2 日上线，把这一原由 Alex Jones 运营的阴谋论媒体改造成喜剧与文化平台。此举发生在围绕相关资产的长期法庭争议期间，也延续了其一年多前传出的收购计划。官方称新项目获得桑迪胡克遇难者家属支持，将推出原创节目、嘉宾合作以及新的喜剧声音，由 Tim Heidecker 负责创意方向。",
-              "source_url": "https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch",
-              "source_name": "The Verge",
-              "published_at": "2026-06-18T13:00:00-04:00"
             }
           ]
         }
@@ -258,6 +286,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "漫威公开《超凡蜘蛛侠》第1000期首波预览",
+              "brief": "漫威公开《超凡蜘蛛侠》第1000期首波预览，披露多张变体封面、弗兰克·米勒与桃桃子的内页，并说明这本纪念刊的内容构成。该刊定于2026年9月16日上市，主线由乔·凯利、佩佩·拉拉斯和约翰·罗米塔二世负责，另有四个短篇，分别涉及本叔之死、蜘蛛侠与复仇者联手，以及对抗手合会等情节，诺亚·霍利也参与编写。",
+              "source_url": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T03:12:54+08:00"
+            },
+            {
+              "title": "DC在“DC Next Level”计划中重启三支经典英雄团队",
+              "brief": "DC宣布在“DC Next Level”计划中重启三支经典超级英雄团队，为军团、少年泰坦和末日巡逻队各推出一部新的长期连载。新刊都将于2026年9月上线，其中《超级英雄军团》由约书亚·威廉姆森与海登·舍曼打造，设定在超人飞船坠落肯特农场千年后的未来，故事将围绕R.J.布兰德遇害与布莱尼亚克1号5集结年轻反抗者展开。",
+              "source_url": "https://www.ign.com/articles/dc-next-level-legion-of-super-heroes-teen-titans-doom-patrol",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T00:59:53+08:00"
+            },
+            {
+              "title": "《侠盗猎车手》标志性封面的演变，如今加入《GTA 6》",
+              "brief": "IGN回顾《侠盗猎车手》系列封面设计的演变，并将已公开的《GTA 6》纳入这一脉络，梳理该系列视觉标识如何逐步定型。文章指出，真正奠定招牌拼贴风格的是《GTA 3》，而在2001年“9·11”事件后，Rockstar因认为原版美版封面过于激烈，重新调整包装设计，最终形成沿用至今的代表性样式。",
+              "source_url": "https://www.ign.com/articles/the-evolution-of-grand-theft-autos-iconic-cover-art-now-including-gta-6",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T00:35:17+08:00"
+            },
             {
               "title": "GTA 6预购开启前的7个关键问题",
               "brief": "IGN围绕《GTA 6》6月25日开启预购这一节点，整理出玩家和行业最关心的七个问题，聚焦这款计划于11月发售的大作将如何揭晓更多信息。文章认为，Rockstar与母公司Take-Two正面对一次可能重塑市场节奏的超级首发，预购阶段有望进一步说明版本、销售安排及其他影响全行业判断的关键信息，这也被视为其他发行商是否会跟进的重要观察点。",
@@ -271,27 +320,6 @@
               "source_url": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
               "source_name": "IGN",
               "published_at": "2026-06-18T23:41:31+08:00"
-            },
-            {
-              "title": "独家：布姆工作室与艾斯纳奖提名团队推出五期怪兽迷你漫画《无神，无主》",
-              "brief": "布姆工作室宣布与编剧胡里奥·安塔、画师哈科比·萨尔塞多合作推出五期迷你漫画《无神，无主》。作品将于2026年9月2日先在漫画店发售，2027年夏季推出合集。创作团队称，这部酝酿多年的作品希望从工薪阶层青少年的视角书写怪兽灾难。故事讲述三名留校学生在曼哈顿遭怪兽袭击后求生，主角费利佩还得折返险境营救被困地铁站的母亲。",
-              "source_url": "https://www.ign.com/articles/exclusive-no-gods-no-masters-is-a-new-kaiju-action-5-issue-mini-series-from-boom-studios-and-an-eisner-nominated-creative-team",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T23:00:00+08:00"
-            },
-            {
-              "title": "《加菲猫：逃离星期一》玩法预告片预示“菠菜千层面的诅咒”",
-              "brief": "《加菲猫：逃离星期一》公布新玩法预告，展示加菲因乔恩按照“星期一主厨”食谱吃下菠菜千层面后，坠入充满蔬菜的噩梦梦境。该作是一款向《加菲猫》创作者吉姆·戴维斯致敬的3D平台冒险游戏，乔恩、欧弟、阿琳和布基会协助主角闯关。玩家可使用三套分别具备飞行、滑水和套索摆荡能力的服装，探索3个世界和40多个关卡，9月24日登陆PS5、Xbox Series X/S、Switch和PC。",
-              "source_url": "https://www.ign.com/articles/garfield-escape-from-monday-gameplay-trailer-teases-the-terror-of-the-curse-of-the-spinach-lasagna",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T23:00:00+08:00"
-            },
-            {
-              "title": "《宝可梦 Pokopia》新增基拉祈活动，粉丝猜测闪光与服装宝可梦或将上线",
-              "brief": "Switch 2生活模拟游戏《宝可梦 Pokopia》将于6月23日至7月8日开启“向基拉祈许愿”活动，玩家可在已建成的宝可梦中心遇见这只幻之宝可梦，并用活动货币兑换限定家具。同时，零售商公开的34.99美元扩展票宣传图还出现了基础版没有的新物种、带配饰的现有宝可梦，以及疑似代表闪光宝可梦的闪烁标记，更多扩展内容将在今夏起至2027年陆续公布。",
-              "source_url": "https://www.ign.com/articles/pokemon-pokopia-adds-mythical-pokmon-event-as-fans-believe-shiny-and-costume-creatures-may-follow",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T22:32:57+08:00"
             }
           ]
         },
