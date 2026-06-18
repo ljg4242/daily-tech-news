@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T08:53:19.785239+08:00",
+  "generated_at": "2026-06-18T10:54:23.898955+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,6 +89,27 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Android 版 Gemini 引入气泡继续对话",
+              "brief": "谷歌正测试让Android版Gemini以气泡形式保留对话，用户关闭悬浮层后仍可一边处理其他任务一边继续聊天。此举意在减少多任务场景中的中断，因为此前只要关闭覆盖层，当前聊天就会消失，必须回到完整应用才能续聊。新气泡仅显示火花标志，可点按展开、拖动移动或直接关闭，目前仅有一例出现在Android 17 QPR1 Beta。",
+              "source_url": "https://9to5google.com/2026/06/17/gemini-overlay-bubble-android/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T10:16:57+08:00"
+            },
+            {
+              "title": "Gemini 联合负责人将离开谷歌加入 OpenAI",
+              "brief": "Gemini联合负责人、谷歌工程副总裁Noam Shazeer宣布将离开谷歌并加入OpenAI，这是Gemini核心管理层的一次变动。Shazeer自2024年8月起担任该职，此前曾在谷歌任软件工程师，2021年至2024年出任Character.ai首席执行官，随后回归谷歌。谷歌向路透表示感谢其贡献，但他在OpenAI的新职位尚未公布。",
+              "source_url": "https://9to5google.com/2026/06/17/geminis-co-lead-is-leaving-google-to-join-openai/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T09:45:00+08:00"
+            },
+            {
+              "title": "谷歌停止生产 Nest Mini 和 Nest Audio",
+              "brief": "谷歌已确认停止生产Nest Mini和Nest Audio，两款智能音箱被正式停产，Google Home与Nest产品线因此进一步收缩。Nest Mini自2019年起承担低价入门角色，Nest Audio则以更大体积和更好音质覆盖100美元档位。谷歌表示现有设备仍会继续获得软件更新、安全补丁和客服支持，但相关硬件库存售完后将不再补货。",
+              "source_url": "https://9to5google.com/2026/06/17/google-nest-mini-audio-end-production-discontinued/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-18T07:05:00+08:00"
+            },
+            {
               "title": "Pixel Screenshots 不再仅使用设备端 AI",
               "brief": "谷歌正为 Pixel Screenshots 推出设置调整，原先“用设备端 AI 搜索截图”已改为“用 AI 搜索截图”，并新增说明称，Screenshots 使用的数据会在设备上或云端的安全隔离环境中受保护。该功能此前完全在本地处理，如今也可在云端完成，相关描述被视为指向 Private AI Compute；不过手机离线时仍能手动处理截图，说明设备端模型仍在使用，这一 1.26.134.11 更新暂未大范围推送。",
               "source_url": "https://9to5google.com/2026/06/17/pixel-screenshots-cloud-ai/",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/17/waze-world-cup-alerts-how-to-turn-off/",
               "source_name": "9to5Google",
               "published_at": "2026-06-18T04:05:00+08:00"
-            },
-            {
-              "title": "Google Photos 将 AI“Ask Photos 编辑”扩展至更多国家",
-              "brief": "Google Photos 正把基于 AI 的“Edit with Ask Photos”扩展到德国、英国、法国、西班牙和意大利，用户可用文字直接修改照片。这项会话式编辑此前已在美国、澳大利亚、印度和日本上线，可执行去反光、去除背景干扰或添加复古色调等操作。新一轮扩展现已开始推送，但覆盖所有用户仍需时间，而且新增地区目前仅支持 Android。",
-              "source_url": "https://9to5google.com/2026/06/17/google-photos-edit-ask-photos-expansion/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-18T03:40:00+08:00"
-            },
-            {
-              "title": "Android Auto 突然失去 Facebook Messenger 应用",
-              "brief": "部分 Android Auto 用户发现，Facebook Messenger 应用突然从车机界面和手机端启动器自定义列表中消失，影响行车时安全查看消息的体验。越来越多用户已在谷歌论坛报告这一变化，9to5Google 也在搭载 Messenger v565.0.0.43.88 的设备上复现。Meta 尚未说明原因，目前仍可收到 Messenger 通知，但已失去应用层级的直接入口与筛选支持。",
-              "source_url": "https://9to5google.com/2026/06/17/android-auto-has-suddenly-lost-its-facebook-messenger-app/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-18T03:20:00+08:00"
-            },
-            {
-              "title": "周中 Android 应用优惠与限免：One Hand Clapping、《饥荒》、Minabo、《海绵宝宝》等",
-              "brief": "9to5Toys 重新上线了周中 Android 应用优惠与限免汇总，点名 One Hand Clapping、《饥荒》、Minabo、《海绵宝宝》等作品，面向想集中查看移动端折扣的读者。页面顶部同时提示，AirPods Pro 3 在亚马逊降至 169 美元，较 249 美元原价更低，并被标注为该平台历史最低价。",
-              "source_url": "https://9to5toys.com/2026/06/17/mid-week-android-app-deals-3/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-18T02:05:36+08:00"
             }
           ]
         },
@@ -294,6 +294,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《漫威蜘蛛侠2》将免费加入《崭新之日》新战衣",
+              "brief": "《漫威蜘蛛侠2》将从7月28日起免费为玩家加入“崭新之日”战衣。此次内容与《蜘蛛侠：崭新之日》同步宣传，官方当天还发布新预告并开启预售。新战衣看起来是在《英雄无归》版本基础上的调整版，而后者融合了托比·马奎尔、安德鲁·加菲尔德和汤姆·赫兰德三代蜘蛛侠战衣元素。赫兰德曾表示，影片开发期间参考了网上粉丝反馈，这些修改也会体现在本次游戏更新中。",
+              "source_url": "https://www.ign.com/articles/marvels-spider-man-2-is-adding-new-suit-from-brand-new-day-for-free",
+              "source_name": "IGN",
+              "published_at": "2026-06-18T08:39:15+08:00"
+            },
+            {
+              "title": "《使命召唤：黑色行动1》和《黑色行动2》下月将正式移植至新平台",
+              "brief": "《使命召唤：黑色行动1》和《黑色行动2》确认将于下月登陆PlayStation平台，移植工作由《托尼·霍克职业滑板3+4》开发商Iron Galaxy负责。现阶段官方尚未说明具体对应PS4还是原生PS5版本，但早前泄露信息称很可能先上PS4，并通过向下兼容在PS5运行。Treyarch还确认，两作都会包含战役、多人与僵尸模式完整内容。",
+              "source_url": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-are-officially-being-ported-to-new-platforms-next-month",
+              "source_name": "IGN",
+              "published_at": "2026-06-18T08:03:37+08:00"
+            },
+            {
               "title": "《蜘蛛侠：崭新之日》新预告曝光暴怒浩克",
               "brief": "《蜘蛛侠：崭新之日》发布新预告，彼得·帕克因身体变化逐渐失控，还向布鲁斯·班纳询问如何压制突变基因，片中也进一步铺陈神秘反派。故事承接《英雄无归》后米歇尔和内德已不认识他，彼得发现自己手腕会自行吐丝；随后一股疑似精神脉冲让纽约民众定住，只有蜘蛛侠能免疫并识别被心灵控制的人，萨迪·辛克饰演角色也短暂亮相。",
               "source_url": "https://www.ign.com/articles/new-spider-man-brand-new-day-trailer-reveals-a-very-angy-hulk",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
               "source_name": "IGN",
               "published_at": "2026-06-18T00:08:01+08:00"
-            },
-            {
-              "title": "《刺客信条4：黑旗 重同步》成就可离线获取且不限难度",
-              "brief": "育碧确认，《刺客信条4：黑旗 重同步》的全部成就都可在游戏安装完成后离线获取，且不受难度设置限制。由于这次重制版仅保留单人内容、未带回原版多人模式，这一安排并不意外；官方还表示各平台将提供同一套成就列表，探索加勒比海时不存在错过型成就，目标多围绕开放世界中的特殊互动与趣味行为，游戏将于7月9日发售。",
-              "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-achievements-all-available-offline-at-any-difficulty-setting",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T00:05:32+08:00"
-            },
-            {
-              "title": "《Dispatch》开发商用新补丁回应 Switch 审查争议",
-              "brief": "AdHoc为《Dispatch》Switch版上线“HR违规包”补丁，在北美、欧洲、澳大利亚和新西兰恢复可见胸部、臀部和竖中指等内容，并新增像素化和搞笑遮挡选项，以回应此前玩家对审查版本的强烈不满。开发商解释称，临近发售时因时间与资源不足，团队改用符合任天堂最严格地区评级的单一构建，但生殖器内容仍被禁止、相关梦境桥段静音，日本版也继续维持完整审查。",
-              "source_url": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
-              "source_name": "IGN",
-              "published_at": "2026-06-18T00:00:00+08:00"
             }
           ]
         },
@@ -412,39 +412,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "沪深两市融资余额增加280.12亿元",
-              "brief": "36氪消息，沪深两市融资余额较前一交易日合计增加280.12亿元，最新合计规模为29218.51亿元。这则快讯披露了两融资金的最新变动，其中上交所融资余额报14882.12亿元，较前一交易日增加145.23亿元；深交所融资余额报14336.39亿元，较前一交易日增加134.89亿元。",
-              "source_url": "https://36kr.com/newsflashes/3857967815693576?f=rss",
+              "title": "国开行已发放技术改造和设备更新贷款2133亿元",
+              "brief": "国家开发银行已发放技术改造和设备更新贷款2133亿元。该安排对应当前设备更新与消费品以旧换新政策推进节奏，国家发展改革委在新闻发布会上同步披露相关进展。政策研究室副主任、新闻发言人李超表示，6月底前将下达今年全部2000亿元设备更新项目清单，并下达第三批625亿元以旧换新资金。",
+              "source_url": "https://36kr.com/newsflashes/3858084211610880?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-18 08:47:48  +0800"
+              "published_at": "2026-06-18 10:46:12  +0800"
             },
             {
-              "title": "现货白银日内涨幅扩大至2%",
-              "brief": "36氪消息，现货白银日内涨幅扩大至2%，最新报69.28美元/盎司，盘中上涨幅度进一步走阔。这则快讯更新的是贵金属市场当日即时表现，核心信息集中在白银价格继续上行这一变化，关键细节为日内涨幅达到2%，对应报价升至69.28美元/盎司，反映盘中报价继续抬升的态势。",
-              "source_url": "https://36kr.com/newsflashes/3857966222431494?f=rss",
+              "title": "国家发改委：第三批625亿元国补6月底前下达",
+              "brief": "国家发改委表示，第三批625亿元消费品以旧换新资金将在6月底前下达。此举与今年设备更新和国补推进安排同步，是扩大更新改造和换新支持的重要一环。国家发展改革委政策研究室副主任、新闻发言人李超在发布会上同时称，全年2000亿元设备更新项目清单也将在6月底前全部下达。",
+              "source_url": "https://36kr.com/newsflashes/3858078275638276?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-18 08:46:11  +0800"
+              "published_at": "2026-06-18 10:40:10  +0800"
             },
             {
-              "title": "华泰证券：9月前美联储将维持利率不变，年底12月加息概率接近50%",
-              "brief": "美联储6月会议决定将政策利率维持在3.5%至3.75%，点阵图指向2026年或出现预防式加息。背景上，沃什在记者会上对前瞻指引和美联储运作的表态与此前相近，并宣布成立含货币政策沟通在内的五个工作组。华泰证券据此维持判断，认为9月前利率不变，12月加息概率接近50%，到明年底可能累计加息2次。",
-              "source_url": "https://36kr.com/newsflashes/3857963955885315?f=rss",
+              "title": "算力芯片概念股走强，寒武纪涨超10%创新高",
+              "brief": "算力芯片概念股盘中走强，寒武纪涨超10%并创历史新高。板块表现显示相关资金继续集中在算力与AI芯片方向，多只个股同步上扬。36氪称，寒武纪总市值已超过9200亿元，品高股份、沐曦股份、芯原股份、云天励飞和海光信息均涨超5%，成为当日板块主要上涨个股。",
+              "source_url": "https://36kr.com/newsflashes/3858069182714881?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-18 08:43:52  +0800"
+              "published_at": "2026-06-18 10:30:55  +0800"
             },
             {
-              "title": "中金：建议关注国际化能力较强的大型银行和股份行等",
-              "brief": "中金公司研报称，陆家嘴论坛相关政策聚焦防风险和扩开放，建议关注国际化能力较强的大型银行和股份行。背景在于，离岸金融、数字人民币跨境应用和人民币资产全球配置被视为银行新的业务机遇，同时整治金融无序竞争有助于缓解存贷款价格战，保护银行息差和经营质量，并可关注区域景气度高、息差有韧性的区域行。",
-              "source_url": "https://36kr.com/newsflashes/3857960805782529?f=rss",
+              "title": "沪深两市成交额突破1.5万亿元",
+              "brief": "沪深两市成交额已突破1.5万亿元。成交额扩大是观察市场交投活跃度的直接数据，也反映出当日A股资金参与度进一步提升。36氪称，与上一交易日同一时点相比，两市成交额增加超过1600亿元，说明盘中交易规模明显放大，市场成交节奏较前一日更强。",
+              "source_url": "https://36kr.com/newsflashes/3858066748167432?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-18 08:40:40  +0800"
+              "published_at": "2026-06-18 10:28:26  +0800"
             },
             {
-              "title": "天工国际：6月17日零时起上调模具钢价格",
-              "brief": "天工国际宣布，自2026年6月17日零时起，对接收的合同订单及现货在原有价格基础上调整模具钢价格。此次变动的背景是近期钼铁持续涨价，并结合当前模具钢生产成本情况。公司表示，为保证稳定供应，上述调整适用于6月17日零时起接收的订单，相关内容已通过价格调整通知对外发布。",
-              "source_url": "https://36kr.com/newsflashes/3857960568116483?f=rss",
+              "title": "张浩出任腾讯音乐董事长",
+              "brief": "腾讯音乐娱乐科技（深圳）有限公司近日发生工商变更，胡敏卸任法定代表人、董事长、总经理，张浩接任法定代表人、董事长并担任经理。此次调整涉及腾讯音乐在深圳主体公司的人事安排。天眼查信息显示，该公司成立于2017年2月，注册资本500万元，由腾讯音乐娱乐香港有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3858057326925065?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-18 08:40:26  +0800"
+              "published_at": "2026-06-18 10:18:51  +0800"
             }
           ]
         },
@@ -452,39 +452,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "上交所明确AI大模型企业适用科创板第五套标准",
-              "brief": "上交所明确，人工智能大模型企业可适用科创板第五套上市标准，涵盖自主研发、模型服务和模型应用等方向。指引强调，发行人应在行业地位、产业链位置、目标市场、研发进度和关键指标等方面具备竞争优势；在申报时，至少有一个大模型产品已上线发布并实现规模化应用，以验证商业模式和落地能力。",
-              "source_url": "https://www.ithome.com/0/965/735.htm",
+              "title": "思特威发布面向 AI PC 和平板的 500 万像素传感器 SC522PC",
+              "brief": "思特威发布面向AI PC和平板的500万像素图像传感器SC522PC，瞄准高清视讯、人脸识别、人体存在检测和待机常开等场景。该产品基于BSI工艺，并集成PixGain HDR、SFCPixel等技术，适配16:10屏幕比例，模组Y边小于4毫米，支持60fps输出与AOV功能，目前已开始送样，预计2026年第三季度量产。",
+              "source_url": "https://www.ithome.com/0/965/814.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T08:49:16+08:00"
+              "published_at": "2026-06-18T10:46:16+08:00"
             },
             {
-              "title": "苹果Xcode 27首次深度集成AI智能体",
-              "brief": "苹果在相关技术讲座中介绍，Xcode 27 的核心组件首次深度整合 AI 智能体，可通过自然语言帮助开发者修复问题、生成应用并完成多轮编程任务。作为苹果平台官方开发环境，这次更新把 AI 更深嵌入开发流程；新版本支持跨多个文件修改代码库，也可接入 Anthropic、OpenAI 和 Google 的第三方模型，并引入 Core AI 框架与升级后的 MLX。",
-              "source_url": "https://www.ithome.com/0/965/734.htm",
+              "title": "iQOO Z11i 开启预约：采用水滴屏，下月初发售",
+              "brief": "iQOO Z11i已开启预约，现阶段公布的信息显示新机采用水滴屏设计，并将在下月初发售。报道称其整体方案与vivo今年4月推出的Y6t相近，后者配备6.74英寸120Hz 720P IPS屏、5MP前摄、13MP主摄、骁龙4 Gen 2处理器和6500mAh电池，提供多种存储版本，起售价1399元。",
+              "source_url": "https://www.ithome.com/0/965/811.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T08:43:26+08:00"
+              "published_at": "2026-06-18T10:45:14+08:00"
             },
             {
-              "title": "骨伽发布Revenger Pro 8K鼠标",
-              "brief": "骨伽推出 Revenger Pro 8K 鼠标，主打高回报率与轻量化设计，配备 PAW3950 传感器、重量 58 克。产品在有线和 2.4GHz 无线模式下最高支持 8kHz 回报率，蓝牙支持 6.0，覆盖多种连接场景；内置支持快充的锂离子电池，1kHz、4kHz、8kHz 续航分别为 290、65、50 小时，充电约 30 至 40 分钟。",
-              "source_url": "https://www.ithome.com/0/965/733.htm",
+              "title": "三星晶圆代工公布 2027 年 MPW 计划：首次覆盖 2nm",
+              "brief": "三星晶圆代工公布2027年MPW服务计划，首次把2nm节点纳入其中，面向Fabless客户提供芯片原型测试支持。MPW通过在同一晶圆上放置多个设计并共享掩模，帮助客户在验证新想法时降低制造成本。按计划，2nm服务覆盖明年前三季度，4nm覆盖全年，12英寸晶圆相关MPW服务合计18次。",
+              "source_url": "https://www.ithome.com/0/965/805.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T08:41:45+08:00"
+              "published_at": "2026-06-18T10:42:16+08:00"
             },
             {
-              "title": "小鹏MONA L03粉色实车曝光",
-              "brief": "小鹏 MONA 系列首款 SUV L03 的粉色实车曝光，车型预计将在 2026 年内发布。新车采用 SUV 造型，申报信息显示其车长 4650/4672 毫米、轴距 2850 毫米，提供 18 英寸和 20 英寸轮胎。动力部分搭载立讯智造提供的电机，额定功率 70kW、峰值功率 183kW，配备中创新航磷酸铁锂电池包，并可选多处摄像头和外观件。",
-              "source_url": "https://www.ithome.com/0/965/732.htm",
+              "title": "消息称携程为全体男性员工提供保底 20 天带薪陪产假",
+              "brief": "据报道，携程宣布为所有男性员工提供保底20天带薪陪产假，统一标准高于国内多数地区现行法定要求。文中提到，各地陪产假通常集中在7至15天，北京为15个自然日、上海为10天。携程近年还推行“3+2”混合办公、春节返乡办公、每年3天带薪“陪娃假”以及生育和辅助生育等多项福利。",
+              "source_url": "https://www.ithome.com/0/965/803.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T08:39:37+08:00"
+              "published_at": "2026-06-18T10:41:48+08:00"
             },
             {
-              "title": "ACEMAGIC公布Kron Mini K5迷你主机",
-              "brief": "ACEMAGIC 公布 Kron Mini K5 迷你主机，搭载英特尔酷睿 5 320“Wildcat Lake”处理器，定位小体积桌面设备。整机提供一个免工具 M.2 2280 PCIe Gen4×2 盘位，预装 512GB PCIe Gen3×4 SSD，并配备 Wi-Fi 6 和蓝牙 5.2。接口方面，前置含全功能 USB-C 20Gbps、双 USB-A 10Gbps 和音频口，后置提供 4 个 USB-A、2.5GbE、HDMI 2.0 与 DP 1.4。",
-              "source_url": "https://www.ithome.com/0/965/727.htm",
+              "title": "消息称高通测试 6 款 2nm 骁龙 8 Elite Gen 6 Pro 样品",
+              "brief": "消息称，高通正在测试6款基于2nm工艺的骁龙8 Elite Gen 6 Pro样品，主打让手机厂商在成本与性能之间灵活取舍。曝光信息显示，这些样品可按内存分为LPDDR6和LPDDR5X两类，旗舰机可能搭配LPDDR6与UFS 5.0，部分版本还会通过调整CPU和GPU频率形成不同档位，且均支持sub-6GHz和毫米波5G。",
+              "source_url": "https://www.ithome.com/0/965/802.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T08:33:08+08:00"
+              "published_at": "2026-06-18T10:40:29+08:00"
             }
           ]
         }
