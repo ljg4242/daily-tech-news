@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T06:53:40.093792+08:00",
+  "generated_at": "2026-06-19T08:57:32.567806+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 日历和提醒事项的新变化",
+              "brief": "iOS 27 为日历和提醒事项加入了 Apple Intelligence 自然语言输入，用户输入一句话即可让系统识别人名、日期、时间和地点，并补全事件或待办信息。这是两款应用外观变化不大但实用性提升的主要更新。日历会自动设定输入的时间，但切换到其他日期仍需点选键盘上的日期建议；提醒事项还能自动加入地点，不过该功能仍在测试阶段，触发结果有时需要手动确认，新增图片或旗标等附加项也改到详情界面处理。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-calendar-reminders/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-19T08:07:02+08:00"
+            },
             {
               "title": "Apple Music 公布史上播放量最高的 20 位歌手",
               "brief": "苹果与 Chart Data 公布了 Apple Music 历来播放量最高的 20 位歌手名单，这是苹果首次公开该服务的历史总榜。由于 Apple Music 于 2015 年 6 月上线，这份排名覆盖过去 11 年的播放数据；德雷克排名第一，泰勒·斯威夫特第二，Future 第三，其后是 YoungBoy Never Broke Again 和 Bad Bunny。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/",
               "source_name": "MacRumors",
               "published_at": "2026-06-19T00:30:38+08:00"
-            },
-            {
-              "title": "苹果A12和A13芯片曝出新的无法修补漏洞",
-              "brief": "安全研究公司Paradigm Shift披露，苹果A12和A13芯片存在新的BootROM漏洞，并发布名为usbliter8的可用概念验证利用。由于BootROM在芯片制造时已被直接固化，相关缺陷无法通过软件更新修复，受影响设备将在整个生命周期内持续暴露风险；该漏洞利用启动阶段USB控制器处理特定小数据包的缺陷，可影响iPhone XS至iPhone 11系列。",
-              "source_url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-19T00:17:54+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "Spotify 面向艺人超级粉丝的新票务预留系统在美国上线",
-              "brief": "Spotify在美国向18岁及以上Premium订阅用户推出Reserved，与Live Nation合作并由Ticketmaster提供支持，为部分艺人最忠实粉丝预留最多两张演出票。资格依据播放、收藏、分享和位置等多种信号判定，细节部分保密以防操纵。符合条件者会在首页、搜索、艺人页等位置看到入口，并收到邮件和推送提醒，通常有约一天时间购买任意场次门票。",
-              "source_url": "https://9to5mac.com/2026/06/18/spotifys-new-ticket-reservation-system-for-artist-superfans-goes-live-in-the-u-s/",
+              "title": "AltStore PAL 在巴西上线，苹果开放替代应用商店",
+              "brief": "苹果在巴西正式开放 iPhone 替代应用商店后，AltStore PAL 已可供当地用户安装，并可在设置中设为默认商店。这一变化来自苹果与巴西竞争监管机构 CADE 的和解，相关调整也同时放开了 iOS 替代支付。用户需身处巴西，使用 Safari、登录巴西区 App Store 账号并运行 iOS 26.5 或更高版本，授权后即可安装并浏览游戏、照片与视频、工具等分类。",
+              "source_url": "https://9to5mac.com/2026/06/18/altstore-pal-now-available-in-brazil-as-apple-flips-the-switch-on-alternative-marketplaces/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-19T04:07:13+08:00"
+              "published_at": "2026-06-19T08:09:06+08:00"
             },
             {
-              "title": "watchOS 27 为 Apple Watch 新增单击手势",
-              "brief": "watchOS 27为Apple Watch新增“单击”手势，用户将食指和拇指轻触一次，即可在智能叠放中选中当前小组件，即使另一只手被占用也能完成操作。这延续了Series 9和Ultra 2上先后加入的双击与甩腕手势思路。苹果官网称，双击可用于导航，单击用于打开项目，甩腕则可关闭当前内容并返回表盘，三者形成连贯的免空手交互。",
-              "source_url": "https://9to5mac.com/2026/06/18/watchos-27-adds-new-apple-watch-trick-that-ive-been-loving/",
+              "title": "9to5Mac Daily：2026年6月18日，iOS 27 功能与 Beats 固件修复",
+              "brief": "9to5Mac 发布了 2026 年 6 月 18 日的 Daily 播客节目，集中回顾苹果近期软件与配件动态。这期内容围绕 iOS 27 的新功能和音频设备更新展开，涵盖提醒事项改进、天气应用新增两项功能、Apple One 调整，以及 Beats Studio Buds 麦克风安全修复和 AirPods Pro 3 新固件，节目照例在多个播客平台同步上线。",
+              "source_url": "https://9to5mac.com/2026/06/18/daily-june-18-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-19T03:49:45+08:00"
+              "published_at": "2026-06-19T07:53:56+08:00"
             },
             {
-              "title": "Apple 警告产品将涨价，新版 Siri 持续带来亮点，更多 iOS 27 功能曝光",
-              "brief": "9to5Mac新一期Happy Hour播客围绕Apple即将上调设备价格、新版Siri上手体验，以及更多iOS 27功能展开。背景是苹果已确认受RAM短缺影响将调高部分产品价格，同时近期系统测试版不断出现新变化。Plus加更还讨论了据称将比iPhone 18 Pro晚六个月发布的iPhone Air 2可能面临的市场反应，并串联多篇相关报道。",
-              "source_url": "https://9to5mac.com/2026/06/18/happy-hour-595/",
+              "title": "Drake、Taylor Swift 和 Future 成为 Apple Music 历史播放量前三",
+              "brief": "Chart Data 在 X 上公布并获 Apple Music 官方账号转发的榜单显示，Drake、Taylor Swift 和 Future 是平台历史播放量最高的三位歌手。该榜单列出前 20 名，其中说唱和嘻哈艺人占比较高；Taylor Swift 也成为该平台播放量最高的女歌手，她与 Apple Music 早期还曾因免费试用期艺人分成问题公开交锋。",
+              "source_url": "https://9to5mac.com/2026/06/18/drake-taylor-swift-and-future-are-the-3-most-streamed-artists-in-apple-music-history/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-19T03:44:03+08:00"
+              "published_at": "2026-06-19T07:02:14+08:00"
             },
             {
-              "title": "报告称 iPhone 销量增长 10%，全球智能手机市场连续第九周下滑",
-              "brief": "Counterpoint称，2026年5月11日至17日期间，iPhone销量同比增长10%，而全球智能手机市场整体下滑8%，已连续第九周收缩。背景是内存短缺推高成本，厂商正通过涨价、调整发布节奏和压缩配置来应对。同期华为销量增长23%，三星、Oppo、小米、vivo分别下降1%、10%、17%和19%，显示供应链稳定性与定价执行能力差异正在扩大。",
-              "source_url": "https://9to5mac.com/2026/06/18/report-iphone-sales-rise-10-as-global-smartphone-market-declines-for-ninth-straight-week/",
+              "title": "报告称 Apple Watch 2026 年第一季度出货量增长 21%",
+              "brief": "Counterpoint Research 称，2026 年第一季度全球智能手表出货量同比增长 4%，其中 Apple Watch 出货量大增 21%，拿下 23% 份额。报告称，北美贡献了苹果过半出货，中国和欧洲增速最快，带有明显健康升级且价格更低的 Apple Watch SE 3 吸引了新买家；同期华为增长 12%，三星则下滑 28%。",
+              "source_url": "https://9to5mac.com/2026/06/18/apple-watch-shipments-surged-21-during-q1-2026-per-report/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-19T03:37:25+08:00"
+              "published_at": "2026-06-19T06:33:20+08:00"
             },
             {
-              "title": "明年或成苹果史上最大产品年：将有哪些新品",
-              "brief": "Mark Gurman表示，2027年可能成为苹果史上“最大产品年”。这一判断基于多项路线图传闻：苹果或首次一年推出六款新iPhone，并把AI穿戴与家居硬件一并推进。已曝光细节包括上半年iPhone Air 2、iPhone 18、iPhone 18e，下半年20周年纪念版iPhone 20 Pro、20 Pro Max、iPhone Ultra 2，以及带摄像头的AirPods、Apple Glasses和更大号家庭中枢。",
-              "source_url": "https://9to5mac.com/2026/06/18/next-year-to-be-apples-biggest-product-year-ever-heres-whats-coming/",
+              "title": "Vince Gilligan 透露《Pluribus》第二季当前进度",
+              "brief": "《绝命毒师》主创 Vince Gilligan 透露，Apple TV+ 剧集《Pluribus》第二季目前已推进到略过半程，编剧团队已经理清各集内容。此前主演 Rhea Seehorn 在访谈中提到第一季拍摄耗时 10 到 11 个月，也反映出这部剧制作节奏较慢；该剧第一季于 2025 年 11 月 7 日至 12 月 24 日播出，而 Apple TV+ 最初就一次订下两季。",
+              "source_url": "https://9to5mac.com/2026/06/18/vince-gilligan-reveals-the-current-status-of-pluribus-season-2/",
               "source_name": "9to5Mac",
-              "published_at": "2026-06-19T02:33:51+08:00"
+              "published_at": "2026-06-19T05:52:56+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Gemini Live 现可调用历史聊天记忆和已连接应用信息",
+              "brief": "谷歌更新Gemini Live，可在对话中调用过去聊天记忆及部分已连接应用信息，并支持在语音与文字间快速切换。这让Live更接近Gemini主聊天体验，权限也沿用用户原有设置。实测显示它已能引用先前对话内容，目前仅向美国英语用户开放，连接应用包括YouTube、Workspace、Utilities和图像生成等。",
+              "source_url": "https://9to5google.com/2026/06/18/gemini-live-memory/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-19T05:50:00+08:00"
+            },
             {
               "title": "今日最佳 Android 应用优惠与限免：WINCH IT OUT、LUNA The Shadow Dust 等",
               "brief": "9to5Google汇总了今日Android应用优惠与限免信息，涵盖解谜、角色扮演、策略与模拟等多种类型，方便用户集中查看近期Google Play折扣。此次重点降价包括WINCH IT OUT、LUNA The Shadow Dust、RPG Soul Historica、Nelly Cootalot: The Fowl Fleet、Guns’n’Glory Zombies Premium和This Is the Police 2，多款应用价格降至0.5至5美元，另有部分作品免费。",
@@ -115,19 +122,26 @@
               "source_url": "https://9to5google.com/2026/06/18/android-developer-verification-progress-timeline/",
               "source_name": "9to5Google",
               "published_at": "2026-06-19T01:35:01+08:00"
-            },
-            {
-              "title": "部分 Google Pixel 用户升级 Android 17 后主屏小组件被删除",
-              "brief": "部分 Google Pixel 用户升级到 Android 17 正式版后，主屏上原本存在的小组件会直接消失，而且在小组件选择器中也找不到，无法重新放回桌面。这个问题早在 2 月测试版阶段就有人报告，说明缺陷一路进入了稳定版。现有反馈显示它多与工作资料关联，停用该资料可暂时恢复，重新添加后又可能复发，切换专注模式等方法也只是临时绕过，仍需谷歌提供正式补丁。",
-              "source_url": "https://9to5google.com/2026/06/18/google-pixel-android-17-update-widgets/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-19T00:40:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "FDA顾问在风波后全票支持批准莫德纳mRNA流感疫苗",
+              "brief": "美国FDA外部顾问以9比0投票支持批准莫德纳季节性mRNA流感疫苗mRNA-1010，此前一名特朗普任命的官员曾试图阻止其进入审评。委员会在全天会议上审阅FDA科学家意见和三期试验结果后认为证据扎实：该疫苗在50岁及以上4万多人中较标准流感疫苗有效性高约27%，在65岁及以上近3000人中诱导出更强免疫反应，整体安全性也普遍良好。",
+              "source_url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T06:08:59+08:00"
+            },
+            {
+              "title": "面对中国压力，台湾扩大无人机生产以供防务和美军",
+              "brief": "面对中国带来的安全压力，台湾正扩大军用无人机产能，并推动本地企业与国际伙伴合作，争取美国军方和海外订单。台防务部门6月18日提出为期六年、总额66亿美元的特别预算，计划在2026至2031年采购逾20.8万架岸防攻击无人机、1400多架岸防侦察无人机和1320艘无人水面舰艇，以显著扩充目前约5000架的机队规模。",
+              "source_url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-19T05:21:26+08:00"
+            },
             {
               "title": "NASA要求诺思罗普·格鲁曼停止月球HALO舱段工作",
               "brief": "NASA已要求诺思罗普·格鲁曼停止月球门户“居住与后勤前哨”HALO舱段的相关工作。此前该机构在3月把登月重点从环月空间站转向月面基地，并暂停“月球门户”计划。HALO是长6.1米的加压居住舱，合同总额约11亿美元；在承包商试图推动其转用于新月面计划后，关键分包商Paragon上周也接到停工通知。",
@@ -148,26 +162,26 @@
               "source_url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-19T03:41:35+08:00"
-            },
-            {
-              "title": "参议院投票后，特朗普政府放弃关闭海洋监测计划",
-              "brief": "在参议院表决及多方反对后，特朗普政府据报将撤回关闭海洋观测计划的决定。该“海洋观测倡议”5月曾被突然下令拆除，建设投入逾3.5亿美元，在大西洋和太平洋部署多组监测阵列，持续提供气候变化、天气预报、渔业管理及洋流、盐度、温度等数据。目前官方尚无正式声明，外界也不清楚过去一个月设施是否受损。",
-              "source_url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-19T02:19:44+08:00"
-            },
-            {
-              "title": "SpaceX上市前，中国投资者曾秘密持股",
-              "brief": "ProPublica获得的一份私募投资者名单显示，SpaceX上市前曾有多名海外投资者秘密持股，其中包括一名与中国军工承包商有关联的商人，以及一个与卡塔尔王室相关的实体。由于SpaceX承接五角大楼侦察卫星等敏感美国政府业务，这类投资受到严格监管。公司也因“监管和合规风险”在上周IPO中禁止中国和香港投资者买入。",
-              "source_url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-19T01:42:18+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Google Health 最新更新聚焦小睡、指标和数据控制",
+              "brief": "Google 正在向 iOS 和 Android 推送 Google Health 5.02，更新重点围绕小睡记录、数据编辑和更直接的数据查看入口。这是 Fitbit 应用更名为 Google Health 后又一次较大更新，延续了 6 月初 5.01 版本后的迭代节奏。新版本把小睡从睡眠评分主页拆分到独立标签页，支持更完整地编辑或删除睡眠会话，并调整今日页营养卡片的热量显示与扩展视图入口，部分改动先登陆 Android，之后将扩展到 iOS。",
+              "source_url": "https://www.androidauthority.com/google-health-update-3679167/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-19T05:49:06+08:00"
+            },
+            {
+              "title": "美国参议员提议让 AI 公司向公众返还收益",
+              "brief": "美国参议员伯尼·桑德斯提出一项 AI 立法，计划让公众直接持有美国最大 AI 公司 50% 的权益，把行业利润的一部分返还给全民。其背景是生成式 AI 建立在人类集体知识和创作之上，但收益主要流向模型公司。法案拟通过对相关公司股票一次性征收 50% 税率建立主权财富基金，并由独立委员会管理；按新闻稿估算，基金规模约 7 万亿美元，初始 5% 年度分红可让每名美国人获得 1000 美元。",
+              "source_url": "https://www.androidauthority.com/bernie-sanders-ai-legislation-3679162/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-19T05:37:39+08:00"
+            },
             {
               "title": "谷歌确认将修复 Android 17 测试者卡在 Beta 的问题",
               "brief": "Android 17 正式版本周发布后，按计划测试者应能在不清除设备数据的情况下退出 Beta 并转入稳定版，但部分运行 Beta 4.1 的用户反馈无法完成这一步。谷歌现已确认问题存在，称正在准备后续 OTA 修复；此前 Beta 4 用户多可正常切换，异常似乎集中出现在补丁级别不匹配的设备上。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/amazon-fire-hd-8-kids-tablet-deal-3679149/",
               "source_name": "Android Authority",
               "published_at": "2026-06-19T03:36:57+08:00"
-            },
-            {
-              "title": "Galaxy A27 5G 最新渲染图曝光",
-              "brief": "Galaxy A27 5G 的一组疑似官方渲染图曝光，展示了蓝、黑、粉三种配色，并进一步透露了这款三星入门机的新信息。泄露图片中可见 Circle to Search 功能，另有画面显示其配备 5000mAh 电池；同时出现的 CPU、GPU、NPU 示意图也暗示，部分 AI 能力可能会下放到这款机型。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-a27-5g-renders-3679103/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-19T03:20:44+08:00"
-            },
-            {
-              "title": "谷歌正让 Gemini Notebooks 更易添加新文件",
-              "brief": "谷歌正改进 Gemini Notebooks 的文件导入方式，准备让用户通过 Android 分享菜单直接把内容加入指定笔记本。相关代码已出现在安卓版 Google 应用 17.32.26.sa.arm64 中，功能目前尚未开放，但现有迹象显示它将支持图片、音频、视频、PDF、文档、文本和 ZIP 文件，并可选择现有笔记本或新建目标。",
-              "source_url": "https://www.androidauthority.com/gemini-notebook-files-3679075/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-19T03:13:59+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "报道称 PlayStation 因移植不稳定且收益不足停止单机游戏登陆 PC",
+              "brief": "据彭博社记者施赖尔在 ResetEra 转述，PlayStation 已决定停止将单人叙事游戏移植到 PC。索尼互动娱乐 CEO 赫尔曼·赫尔斯特在一次全员会议上称，这类移植发布时间和质量表现不稳定、营收也不理想，公司还希望让核心 IP 继续与主机硬件绑定。现阶段仅服务型游戏会继续支持 PC，且不会再按个案放行单机作品。",
+              "source_url": "https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T06:36:38+08:00"
+            },
+            {
               "title": "新免费 Steam 游戏冲上热玩榜，却引发误封禁",
               "brief": "免费游戏《Task Bar Hero》上月登陆Steam后并发玩家已超过50万，冲上平台游玩榜第三，仅次于《CS2》和《Dota 2》。它把像素角色嵌入任务栏，即使不主动操作也会持续冒险，掉落物还能在Steam市场出售，因此启用了反作弊来防止非法刷物。但多名玩家称普通后台程序也会被误判，导致账号封禁、公开资料留痕，游戏评价因此变成褒贬不一。",
               "source_url": "https://www.ign.com/articles/a-new-free-steam-game-is-topping-the-most-played-charts-but-its-also-leading-to-false-bans",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
               "source_name": "IGN",
               "published_at": "2026-06-19T03:12:54+08:00"
-            },
-            {
-              "title": "DC在“DC Next Level”计划中重启三支经典英雄团队",
-              "brief": "DC宣布在“DC Next Level”计划中重启三支经典超级英雄团队，为军团、少年泰坦和末日巡逻队各推出一部新的长期连载。新刊都将于2026年9月上线，其中《超级英雄军团》由约书亚·威廉姆森与海登·舍曼打造，设定在超人飞船坠落肯特农场千年后的未来，故事将围绕R.J.布兰德遇害与布莱尼亚克1号5集结年轻反抗者展开。",
-              "source_url": "https://www.ign.com/articles/dc-next-level-legion-of-super-heroes-teen-titans-doom-patrol",
-              "source_name": "IGN",
-              "published_at": "2026-06-19T00:59:53+08:00"
             }
           ]
         },
@@ -372,45 +372,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "英特尔任命李锡熙为代工执行副总裁，强化先进封装与系统集成",
-              "brief": "英特尔任命李锡熙为代工业务执行副总裁，负责先进封装技术开发与系统集成，强化AI芯片等下一代计算系统能力。公司称先进封装和系统集成已成关键环节，正准备面向客户和合作伙伴量产EMIB-T、HBI等技术。李锡熙曾在英特尔任工程师，后任KAIST教授、SK海力士CEO等职，2026年6月以高级顾问身份回归。",
-              "source_url": "https://www.ithome.com/0/966/287.htm",
+              "title": "PowerToys 0.100 新增情境式 Win11 快捷指南",
+              "brief": "微软在 PowerToys 0.100 中加入全新快捷指南，用浮动窗口按当前活动应用推荐 Win11 快捷键，帮助用户在操作中学习而不是死记。其背景是大量高效快捷方式因难发现和难记忆而长期闲置。该功能可在资源管理器、Edge、记事本等场景显示相关命令，开启后可用 Win+Shift+/ 呼出，并支持主题、位置和应用排除设置。",
+              "source_url": "https://www.ithome.com/0/966/299.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T04:35:27+08:00"
+              "published_at": "2026-06-19T08:36:29+08:00"
             },
             {
-              "title": "米哈游“林离 Olivia”应用上架 Steam，支持 MIDI 生成视频与桌面壁纸",
-              "brief": "米哈游旗下《BSide: Olivia Lin》已上架 Steam，应用类型标注为 Application 而非 Game，围绕角色“林离”提供陪伴与音乐相关体验。该产品此前已通过 B 站账号持续预热，由米哈游全资持股公司开发，现商店页显示支持钢琴演奏与聆听、上传 MIDI 自动生成音乐视频、文字写信互动，以及桌面动态壁纸与桌面演奏。",
-              "source_url": "https://www.ithome.com/0/966/284.htm",
+              "title": "微软将 Authenticator 验证改为输入数字",
+              "brief": "微软正把 Authenticator 身份验证从点选数字改为手动输入两位数，使盲猜通过概率从 33% 降到 1%。这一调整延续了其在多起 MFA 疲劳攻击后强化验证流程的方向，企业端此前已在 Entra ID 启用数字匹配。微软同时继续弱化短信验证，认为短信验证码易被拦截、重定向或被 SIM 卡交换诈骗利用，但其仍是常见的恢复方式。",
+              "source_url": "https://www.ithome.com/0/966/298.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T00:49:19+08:00"
+              "published_at": "2026-06-19T08:20:28+08:00"
             },
             {
-              "title": "我国科学家首次实现单神经元三模态完整解析",
-              "brief": "中国科学院团队提出 IMC 单神经元信息完整表征平台，首次在同一神经元上同步获得功能活动、三维结构和分子基因表达三类高精度数据。长期以来这三类信息只能分开检测，难以对齐分析；该平台打通活体记录、全脑纤维重建和原位基因检测流程，研究者已据此获取 141 个神经元完整三模态数据并向全球开放。",
-              "source_url": "https://www.ithome.com/0/966/283.htm",
+              "title": "理想汽车：L 系列不推纯电，纯电 SUV 由 i 系列承载",
+              "brief": "理想汽车回应 L 系列是否会推出纯电车型时表示，纯电 SUV 将由 i 系列承担，L 系列继续覆盖现有路线。背景是外界持续关注理想如何区分纯电与增程产品线。官方提到目前 i 系列已有 i8 和 i6 两款车型，并披露截至 2026 年 5 月 31 日已建成 4088 座超充站、22563 根超充桩，网络覆盖 31 省 290 城。",
+              "source_url": "https://www.ithome.com/0/966/297.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T00:14:47+08:00"
+              "published_at": "2026-06-19T08:15:52+08:00"
             },
             {
-              "title": "挚科发布搭载龙芯 3C6000 和砺算 LX PRO 24G 的国产工作站",
-              "brief": "挚科联合龙芯中科与砺算发布乾启 ZK3C60S-W 工作站，主打面向专业图形处理、高性能计算等场景的全栈国产化方案。该产品针对国产化转型中常见的兼容性、稳定性与部署问题推出，由龙芯 3C6000 处理器、砺算 LX PRO 24G 专业显卡和麒麟 V11 操作系统组成，并支持 CAD、BIM、三维建模、本地 AI 推理和大数据分析等环境。",
-              "source_url": "https://www.ithome.com/0/966/282.htm",
+              "title": "存储芯片涨价或推高 iPhone 18 Pro 售价",
+              "brief": "受 AI 热潮引发的存储芯片短缺和涨价影响，苹果 256GB iPhone 18 Pro 的起售价可能上调。报道称苹果一直在消化成本，但内存和闪存价格飙升让这一做法难以持续。按测算，12GB DRAM 成本或从 39 美元升至 145 美元，256GB 闪存从 13 美元升至 51 美元，总物料成本增加，售价或升至 1299 美元以上。",
+              "source_url": "https://www.ithome.com/0/966/296.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T23:35:56+08:00"
+              "published_at": "2026-06-19T07:57:11+08:00"
             },
             {
-              "title": "iOS 27“查找”App 新增隐藏共享位置与自定义时长",
-              "brief": "苹果在 iOS 27 中调整“查找”App，新增隐藏共享位置和自定义共享时长等功能，使位置共享管理更细化。新增隐藏功能可在不通知对方的情况下临时关闭共享，最长持续 1 天；同时共享结束时间可在 15 分钟至 30 天间精确设置，不再局限于 iOS 26 的永久、1 小时和 1 天三档，并加入横屏界面支持。",
-              "source_url": "https://www.ithome.com/0/966/281.htm",
+              "title": "八部门发文推动“人工智能+消费”发展",
+              "brief": "商务部等八部门联合发文，提出加快“人工智能+消费”发展，扩大 AI 手机电脑、智能家居、智能网联汽车、穿戴设备和机器人等消费。文件以商品消费、服务消费、商业创新、推广应用和环境优化为主线，意在推动人工智能与消费深度融合。具体包括建设首发平台和体验中心，推进在养老、文旅、教育、零售、电商、物流等场景落地，并完善标准、监管和消费者保护。",
+              "source_url": "https://www.ithome.com/0/966/295.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-18T23:32:00+08:00"
+              "published_at": "2026-06-19T07:56:08+08:00"
             }
           ]
         },
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "Google将在洛杉矶开设全球首家AI艺术博物馆Dataland",
+              "brief": "Google宣布将于6月20日在洛杉矶市中心The Grand LA开幕AI艺术博物馆Dataland，并称其为全球首家同类机构，借实体空间展示模型驱动的创作与展陈。该馆由Google与媒体艺术家Refik Anadol合作打造，首展以自然数据训练模型，依托Gemini和Google云实时生成12亿像素影像、声音、情绪感知与程序气味，并配套启动AI艺术家驻留计划。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566204.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-19T06:00:53+08:00"
+            },
             {
               "title": "微软与 Adobe 优化 Photoshop 在 Windows 上的性能",
               "brief": "微软与Adobe合作，通过调整MSVC编译策略并引入基于采样的性能分析引导优化，提升Photoshop在Windows上的运行效率。虽然不少图像处理任务已可交给GPU加速，但画笔响应、笔触输入、文件打开等对延迟敏感的环节仍高度依赖CPU，因此成为此次优化重点。新流水线结合峰值性能模式与SPGO后，x64版本整体性能提升约20%，Arm平台提升约13%。",
@@ -438,13 +445,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1566196.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-19T02:36:16+08:00"
-            },
-            {
-              "title": "A12 和 A13 芯片曝出新的不可修复漏洞",
-              "brief": "安全研究人员披露名为usbliter8的新BootROM漏洞，影响采用A12和A13芯片的苹果设备，且因位于芯片只读启动代码层面，无法通过软件更新修复。问题源自USB控制器硬件缺陷，攻击者可在启动阶段发送特制小数据包，操控内部指针把数据写入不应访问的内存位置。受影响范围包括iPhone XS至iPhone 11系列，A11和A14及后续芯片则因不同防护机制不受影响。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566194.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-19T02:35:26+08:00"
             }
           ]
         }
