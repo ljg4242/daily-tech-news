@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T16:55:11.287509+08:00",
+  "generated_at": "2026-06-19T18:55:37.361431+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "内存涨价殃及 Nothing：下一代 CMF 手机被取消",
-              "brief": "Nothing联合创始人Akis Evangelidis表示，受RAM和存储价格飙升影响，公司已取消原定接替CMF Phone 2 Pro的新机，因此CMF品牌今年不会再推出新手机。背景是内存成本正冲击整个手机行业，Carl Pei称其价格已高于SoC和屏幕总和；Akis还称若按原规格现在上市，售价将达到约3万至3.5万卢比，而CMF Phone 2 Pro在印度起售价为18999卢比。",
-              "source_url": "https://www.androidauthority.com/nothing-cmf-phone-canceled-3679247/",
+              "title": "我放弃 Kindle，改用这款无 DRM 阅读器，而且不想再回头",
+              "brief": "作者放弃Kindle，转而使用兼容MagSafe的无DRM阅读器Xteink X4。文章认为数字内容购买常常只是获得受限制的访问权，而非真正拥有。其旧Kindle、Kindle DX和Kindle Keyboard均已停服，5月20日起商店下载失效，重置或改绑账号还可能直接变成无法使用的“纸镇”。",
+              "source_url": "https://www.androidauthority.com/xteink-x4-drm-free-ereader-better-than-kindle-3674217/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T16:35:50+08:00"
+              "published_at": "2026-06-19T18:30:02+08:00"
             },
             {
-              "title": "这款应用能把游戏翻译成任意语言，但有个大前提",
-              "brief": "开源Android应用PlayTranslate可通过悬浮层实时读取并翻译游戏文本，让未本地化的游戏也能转换成用户熟悉的语言。它能把23种游戏内语言翻成59种语言，后续更新还加入离线模型、文本转语音、抽认卡和多屏翻译等功能；但安装时需暂时关闭Google Play Protect，因为应用需要录屏并获得“显示在其他应用上层”等敏感权限。",
-              "source_url": "https://www.androidauthority.com/playtranslate-translate-games-3679221/",
+              "title": "你的老款 iPhone 可能存在苹果无法修补的漏洞",
+              "brief": "研究人员披露老款iPhone上的新BootROM漏洞usbliter8，影响采用A12和A13芯片的机型。它利用USB控制器硬件缺陷和固件配置问题，在iOS启动前通过特制USB数据把内容写入错误内存区域，从而接管启动流程并运行未授权代码。由于漏洞位于出厂即固化的底层硬件代码中，苹果无法通过软件更新修补，只能改用更新处理器的设备来规避风险。",
+              "source_url": "https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T16:26:25+08:00"
+              "published_at": "2026-06-19T18:23:57+08:00"
             },
             {
-              "title": "Gemini Live 记忆升级，回应更个性化",
-              "brief": "Google正在为Gemini Live加入更强的记忆能力，使其能够调用Personal Intelligence，在实时对话结束后继续记住用户此前透露的偏好和信息。此前Gemini虽已支持聊天记忆并可读取部分Google应用信息，但Live版本功能较受限；这次更新还可结合搜索、YouTube、Workspace等连接应用活动生成更贴合的回复，已启用该功能的用户会自动开启。",
-              "source_url": "https://www.androidauthority.com/gemini-live-memory-personal-intelligence-3679235/",
+              "title": "最新 YouTube TV 更新正让部分 Roku 用户苦不堪言",
+              "brief": "近期YouTube TV更新让部分设备上的体验变差，尤其引发不少Roku用户抱怨。Google社区产品专家确认，这并非单纯的程序错误，而是针对“较旧、性能较弱”硬件的有意调整。变更后，进入Live Guide时后台播放被限制，向后查看未来节目安排的范围也缩小，甚至部分配备2GB内存的Roku Ultra也出现同样问题。",
+              "source_url": "https://www.androidauthority.com/youtube-tv-issues-on-roku-3679269/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T16:02:15+08:00"
+              "published_at": "2026-06-19T18:18:17+08:00"
             },
             {
-              "title": "三星最新脑洞：可折叠、可卷曲的“砖头手机”",
-              "brief": "三星提交了一项新专利，展示一种外形像长砖块、机身多面带屏幕的设备，收拢时保持相对紧凑，展开后则可先像折叠机一样打开，再进一步将屏幕卷出以获得更大显示区域。背景是三星近来持续尝试可卷曲、可弯折等新形态设备，但这次披露的仍只是专利方案，短期内不太可能成为正式上市的商用产品。",
-              "source_url": "https://www.androidauthority.com/samsung-patent-foldable-rollable-brick-phone-3679217/",
+              "title": "我想把 Gemini 换回 Claude，但有四件事让我做不到",
+              "brief": "作者试用Google AI Plus后表示，如果只看回复风格，他仍更想用Claude替代Gemini。背景是他年初已从ChatGPT转到Claude，并认为Claude更擅长遵循长提示和记住对话细节，在长对话和虚构项目里也更稳定。即便如此，Gemini仍因整体性价比更高而留下，其中一个关键原因是它支持生成图片、短视频等更完整的多模态能力。",
+              "source_url": "https://www.androidauthority.com/cant-ditch-gemini-for-claude-reasons-why-3676310/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T15:25:51+08:00"
+              "published_at": "2026-06-19T18:00:10+08:00"
             },
             {
-              "title": "Morphe 用户找到去除 Android TV 上 Prime Video 广告的方法",
-              "brief": "Morphe 社区成员发布了一个面向 Android TV 版 Prime Video 的新补丁，目标是去除亚马逊广告支持套餐中的插播广告。Morphe 今年由前 Revanced 开发者等推出，已从 YouTube 扩展到 Disney Plus 等应用。开发者称补丁在 Claude 的大量协助下完成，可阻止应用安排和加载广告，但用户仍需自行下载、打补丁并手动安装修改版应用。",
-              "source_url": "https://www.androidauthority.com/morphe-amazon-prime-video-patch-for-android-tv-3679209/",
+              "title": "有了这些新的飞利浦 Hue 灯，你的下一次观影夜可能会大不一样",
+              "brief": "飞利浦Hue发布新的Play桌灯和落地灯，并升级智能烛形灯泡，想把观影、游戏和音乐时的联动灯效扩展到更多家庭场景。新灯可与电影、电视节目、游戏和音乐同步，也能接入Hue现有生态，通过兼容电视、PC应用和HDMI设备实现联动；升级后的烛形灯泡则增加更丰富的白光色温、Matter支持，并提升最多40%的能效。",
+              "source_url": "https://www.androidauthority.com/philips-hue-smart-lamps-launched-3679294/",
               "source_name": "Android Authority",
-              "published_at": "2026-06-19T12:34:03+08:00"
+              "published_at": "2026-06-19T17:55:42+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "据报道，英国至少一个政府部门已停用X",
+              "brief": "据报道，英国总检察长理查德·赫默已要求其部门停止在X发布官方更新。此举源于他认为，该平台在本月南安普敦和贝尔法斯特骚乱后被用来煽动暴力与种族主义。其办公室过去常在X高频发布政府工作进展，最后一次发帖停留在6月12日；而在上周作出决定时，平台上围绕两起持刀案件的错误信息、仇恨言论和经篡改视频正在扩散。",
+              "source_url": "https://www.engadget.com/2197975/uk-attorney-general-office-reportedly-quits-x/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-19T18:35:22+08:00"
+            },
+            {
+              "title": "要等到2027年才能拿到 Steam Controller 吗？",
+              "brief": "Valve表示，新的Steam Controller订单可能要等到2027年才能发货，已下单用户可在Steam页面查看履约时间，目前给出的节点是2026年9月和12月。这款手柄自开售起几乎一直处于售罄状态，原因是首批需求明显超出预期。公司称会在今年可确认的产能范围内尽量多发货；而它也是一款主要面向Steam平台的专用手柄，并非通用PC手柄。",
+              "source_url": "https://www.engadget.com/2197972/valve-steam-controller-2027-shipping/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-19T17:54:10+08:00"
+            },
             {
               "title": "2028款梅赛德斯-奔驰VLE首试：8K客厅式座舱上路",
               "brief": "2028款梅赛德斯-奔驰VLE首次试驾显示，这款纯电“豪华大厢式车”试图把“车轮上的客厅”带到量产车。此前不少同类概念依赖尚未普及的无人驾驶技术，而奔驰这次选择在仍需人类驾驶的前提下推进。第二排配有可后躺按摩座椅、22扬声器杜比全景声音响和31.3英寸超宽8K屏幕，车长216英寸，较GLS SUV长10英寸，车内净高49英寸。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2197702/rivian-faces-a-class-action-lawsuit-over-self-driving-in-its-early-vehicles/",
               "source_name": "Engadget",
               "published_at": "2026-06-19T03:42:36+08:00"
-            },
-            {
-              "title": "Instagram 现可为轮播帖每张图片添加独立配文",
-              "brief": "Instagram新增轮播帖逐张配文功能，用户现在可为同一组图片中的每一张单独填写说明，发布多图内容时不必再共享同一段文字。此前整组内容只能共用一个标题，较难完整讲述多图故事；新功能可在输入标题时通过开关启用，正在陆续推送，覆盖全部用户可能还需约一周。平台此前已把轮播图片上限从10张提高到20张，这次更新进一步扩展了多图内容的表达方式。",
-              "source_url": "https://www.engadget.com/2197622/instagram-now-lets-you-add-a-unique-caption-to-each-carousel-slide/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-19T02:41:56+08:00"
-            },
-            {
-              "title": "如何在三星 Galaxy Watch 上使用 Google Wallet 付款",
-              "brief": "符合条件的三星Galaxy Watch可通过Google Wallet用于购物和交通支付，用户不必局限于Samsung Pay。前提是所在地区支持服务及碰一碰支付，且手表运行Wear OS 2.0或更高版本，因此采用Tizen的Galaxy Watch 1、2、3不在支持范围内。Galaxy Watch 4及后续机型可从Play商店安装。",
-              "source_url": "https://www.engadget.com/2197517/how-to-pay-with-google-wallet-samsung-galaxy-watch/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-19T02:30:00+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《辐射》第三季加入《星球大战》《善地》演员曼尼·贾辛托",
+              "brief": "《辐射》第三季新增曼尼·贾辛托，托马辛·麦肯齐和艾米丽·莫蒂默也将加盟，新集本月在洛杉矶开拍。亚马逊正趁前两季全球观众累计破1亿、跻身Prime Video历来最热剧集前列之际加快推进。新角色细节暂未公开，第二季聚焦新维加斯后，第三季预示至少部分人物将前往科罗拉多。",
+              "source_url": "https://www.ign.com/articles/fallout-season-3-adds-star-wars-and-the-good-place-star-manny-jacinto",
+              "source_name": "IGN",
+              "published_at": "2026-06-19T17:00:13+08:00"
+            },
+            {
               "title": "报道称 PlayStation 因移植不稳定且收益不足停止单机游戏登陆 PC",
               "brief": "据彭博社记者施赖尔在 ResetEra 转述，PlayStation 已决定停止将单人叙事游戏移植到 PC。索尼互动娱乐 CEO 赫尔曼·赫尔斯特在一次全员会议上称，这类移植发布时间和质量表现不稳定、营收也不理想，公司还希望让核心 IP 继续与主机硬件绑定。现阶段仅服务型游戏会继续支持 PC，且不会再按个案放行单机作品。",
               "source_url": "https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue",
@@ -320,19 +327,19 @@
               "source_url": "https://www.ign.com/articles/grow-a-garden-2-hits-300-million-roblox-visits-in-first-week",
               "source_name": "IGN",
               "published_at": "2026-06-19T04:01:32+08:00"
-            },
-            {
-              "title": "漫威公开《超凡蜘蛛侠》第1000期首波预览",
-              "brief": "漫威公开《超凡蜘蛛侠》第1000期首波预览，披露多张变体封面、弗兰克·米勒与桃桃子的内页，并说明这本纪念刊的内容构成。该刊定于2026年9月16日上市，主线由乔·凯利、佩佩·拉拉斯和约翰·罗米塔二世负责，另有四个短篇，分别涉及本叔之死、蜘蛛侠与复仇者联手，以及对抗手合会等情节，诺亚·霍利也参与编写。",
-              "source_url": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
-              "source_name": "IGN",
-              "published_at": "2026-06-19T03:12:54+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "研究发现战争会改变野生动物活动模式",
+              "brief": "一项发表在《科学》上的研究显示，乌克兰武装冲突显著改变了当地野生哺乳动物的活动模式。由于研究人员难以安全进入战区，战争对野生动物的影响一直难以系统评估，团队因此利用已在当地运行的相机陷阱，将2022年与2021年同期记录对比，发现动物会通过行为调整应对冲突，总体活动下降、夜间活动减少，在战事最激烈时期影响尤为明显，也说明政治动荡伤害的不仅是人类。",
+              "source_url": "https://www.solidot.org/story?sid=84623",
+              "source_name": "Solidot",
+              "published_at": "2026-06-19T16:55:42+08:00"
+            },
             {
               "title": "地球海洋究竟从何而来？",
               "brief": "科学家仍未确定地球海洋究竟来自何处，最新一批实验结果显示，地球自身可能制造了至少一部分水。长期以来主流假说认为彗星或小行星把水带到地球，但哈雷彗星、海尔-波普彗星及丘留莫夫-格拉西缅科彗星的观测都显示其水的化学特性与地球不同，而小行星的惰性元素比例也存在差异，因此自生水机制再次受到关注，但它是否足以形成今天覆盖全球的海洋仍未有结论。",
@@ -372,45 +379,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "长安汽车加速欧洲布局：西班牙成支点，2028年销量目标30万辆",
-              "brief": "长安汽车披露欧洲扩张计划，准备以西班牙为业务支点，并评估在当地建厂的可行性。这一布局围绕其“在欧洲、为欧洲”策略展开，除扩大销售外，也持续加强本地研发和供应链合作。公司称西班牙市场2026年目标销量为6000辆，欧洲整体今年目标4万辆，2027年10万辆，2028年30万辆，同时还计划把西班牙经销商数量增至约100家。",
-              "source_url": "https://www.ithome.com/0/966/366.htm",
+              "title": "皮查伊回顾 Chrome 崛起：曾遭鲍尔默轻视，靠快速迭代登顶",
+              "brief": "皮查伊在斯坦福毕业典礼回顾 Chrome 崛起，称产品上线后面对 IE 的强势地位，说服用户改用并不容易，增长也曾长期停留在低个位数。2009 年微软前 CEO 鲍尔默甚至把 Chrome 视为可忽略的误差。谷歌团队随后持续设定更高目标并加快迭代，平均每六周发布新版本，最终于 2012 年超越对手，成为全球使用最广泛的浏览器。",
+              "source_url": "https://www.ithome.com/0/966/376.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T16:49:03+08:00"
+              "published_at": "2026-06-19T18:39:57+08:00"
             },
             {
-              "title": "立马莱米电动摩托车新低价1398元，续航72公里",
-              "brief": "立马莱米电动摩托车在京东出现新低价，国补后到手价为1398元，页面主打至高72公里续航。这是一款面向日常通勤的电动摩托车，商品页同时提醒消费者下单前可先咨询客服，确认是否符合当地国标要求。产品配备72V20Ah超威铅酸电池，支持NFC智能解锁，采用机甲双灯设计，并搭载对置缸碟刹和液压减震系统。",
-              "source_url": "https://www.ithome.com/0/966/365.htm",
+              "title": "网易《逆水寒：新世界》发布最终预告片",
+              "brief": "网易发布《逆水寒：新世界》最终预告片，为 6 月 26 日上线预热，并将其定义为“给 MMO 和开放世界的一个新答案”。预告集中展示画面升级、第三人称沉浸视角、匿名社交与大理新篇等内容，同时披露主线前传、敦煌终局和大理新篇三线并行，武学、副本、经济与养成系统也将全面调整，6 月 20 日开放匿名别号预注册。",
+              "source_url": "https://www.ithome.com/0/966/375.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T16:46:38+08:00"
+              "published_at": "2026-06-19T18:25:22+08:00"
             },
             {
-              "title": "因批评AI数据中心扩张，多名亚马逊工程师遭调查",
-              "brief": "多名亚马逊工程师在西雅图市议会听证会上批评AI数据中心扩张后，遭公司内部调查，并被告知结果可能带来纪律处分。事件缘于当地围绕数据中心建设的监管争议，员工认为科技公司正“不惜一切代价”扩建AI基础设施。投诉称亚马逊监控员工政治表达，并可能以他们被视为代表公司发言为由追责，亚马逊则表示是在审查是否违反内部政策。",
-              "source_url": "https://www.ithome.com/0/966/364.htm",
+              "title": "本田联手美国初创公司开发汽车固态电池",
+              "brief": "本田宣布与美国初创公司 QuantumScape 推进汽车固态电池合作，开发重点包括电芯技术及配套制造工艺。尽管本田近期叫停多款下一代纯电车型，仍将电动化视为长期方向。固态电池被视为替代液态锂电的重要路线，理论上更安全、充电更快且能量密度更高；QuantumScape 已启动锂金属电芯试生产，本田此前则预计其固态电池车型续航可达约 1000 公里。",
+              "source_url": "https://www.ithome.com/0/966/373.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T16:44:07+08:00"
+              "published_at": "2026-06-19T18:02:00+08:00"
             },
             {
-              "title": "微软Azure与亚马逊云服务或遭欧盟更严反垄断监管",
-              "brief": "微软Azure和亚马逊云服务可能被欧盟纳入《数字市场法案》更严格监管，欧盟委员会预计将在今年年底前作出最终决定。相关调查源于两家公司在云市场被认为占据强势地位，而该法案旨在限制“守门人”企业固化优势。若正式适用，两家将需要提升服务互操作性，并减少限制客户转用其他服务及优待自家产品的做法。",
-              "source_url": "https://www.ithome.com/0/966/363.htm",
+              "title": "研究称全球近八成数据中心面临较高气候灾害风险",
+              "brief": "一项覆盖全球 97 个数据中心市场的研究显示，全球近八成数据中心暴露在洪水、火灾等较高气候灾害风险之下。除突发性极端事件外，高温和干旱等长期气候压力也会持续拉低能源效率并推高运营、保险和维修成本。数据显示，亚太地区面临风险的数据中心容量占比达 89%，高增长市场如美国北弗吉尼亚、马来西亚柔佛州和法国马赛均属于高风险区域。",
+              "source_url": "https://www.ithome.com/0/966/372.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T16:35:21+08:00"
+              "published_at": "2026-06-19T17:52:45+08:00"
             },
             {
-              "title": "《凡人修仙传》动画第177、178集已完成片源替换",
-              "brief": "《凡人修仙传》动画第177集和第178集已完成片源替换。作品此前在停更161天后复播，首日同时在线人数超过78万，但因剧情改动和人设调整引发争议。观众反馈主要集中在两集之间衔接出现断层、部分人物出场较突兀，以及部分台词处理与以往风格存在差异，此次替换针对的正是相关播出版本内容。",
-              "source_url": "https://www.ithome.com/0/966/362.htm",
+              "title": "Epic Games 将彻底重建启动器，冷启动提速 5 倍",
+              "brief": "Epic Games 公布商店与启动器改造计划，确认将“彻底重建” Epic Games 启动器，并已开始对 2.0 版本进行封闭测试。此举源于公司长期承认现有启动器缓慢、切页频繁刷新后台服务，体验明显落后于同类产品。按照规划，新版将重构底层架构和商城设计，平均冷启动速度提升至现版 5 倍，并新增补丁说明、玩家资料、评论和更完善的搜索等功能。",
+              "source_url": "https://www.ithome.com/0/966/371.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-19T16:26:34+08:00"
+              "published_at": "2026-06-19T17:35:34+08:00"
             }
           ]
         },
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "微星Claw掌机售价达1800美元，高管称仍可能继续上涨",
+              "brief": "微星新款Claw掌机售价约1800美元，负责产品营销的高管表示这还可能不是终点，后续仍有不小涨价空间。背景是内存、存储等核心部件成本持续上涨，相关压力主要由OEM厂商自行消化，他也直言今年对英特尔生态和厂商都很难。该机配备32GB内存、1TB固态硬盘，并强调大屏、强散热、做工和人体工学等卖点。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566272.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-19T17:22:16+08:00"
+            },
+            {
+              "title": "美国质疑ASML顶级光刻机流入中国，ASML否认可能性",
+              "brief": "围绕EUV光刻机是否流入中国，美国方面提出怀疑，但ASML公开否认存在这种可能。争议之所以敏感，在于ASML是全球唯一EUV设备供应商，这类设备关系最先进芯片制造，也处在美国长期对华出口限制的核心。ASML称所有EUV整机均可追踪，要么在授权客户处运行，要么已回收拆解，且中国团队被隔离在相关技术防火墙之外。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566270.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-19T17:20:41+08:00"
+            },
             {
               "title": "SpaceX称欧盟卫星计划或冲击乌克兰通信",
               "brief": "SpaceX称，欧盟拟议中的卫星频谱方案可能影响乌克兰通信服务，并波及当前在2GHz频段运营的美国企业。争议焦点在于该提案被指优先考虑企业注册地而非技术与监管现实，欧盟则称此举旨在增强本土卫星产业实力。美国FCC今年3月已警告，若欧盟区别对待星链等美企，可能遭到对等反制，而该提案仍待成员国和欧洲议会磋商。",
@@ -431,26 +452,26 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1566264.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-19T15:10:05+08:00"
-            },
-            {
-              "title": "《GTA6》官网更新夜间罪恶都市截图",
-              "brief": "《GTA6》官网更新了一批新截图，重点展示夜晚的罪恶都市场景，包括灯光球场和施工中的高层公寓。此次内容也再次指向游戏地图不仅限于罪恶都市，还将覆盖其周边地区雷奥奈达。官网同步重申剧情设定：杰森与露西娅因一次行动失误，被卷入横跨雷奥奈达的犯罪阴谋，想脱身必须彼此依靠。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1566262.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-19T15:09:57+08:00"
-            },
-            {
-              "title": "Xbox上线“独占游戏”标签页",
-              "brief": "Xbox悄然上线“独占游戏”专属标签页，为用户集中展示平台独占内容。此举出现于微软过去一年持续把多款第一方游戏推向竞争平台之后，外界对“Xbox独占”的边界已愈发模糊。报道还提到另一种猜测：该标签页未来或被用于区分针对高端机型优化的作品，以回应开发者长期对Series X与Series S双机适配压力的抱怨。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1566260.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-19T15:07:45+08:00"
             }
           ]
         },
         {
           "name": "36氪",
           "articles": [
+            {
+              "title": "杰瑞股份称今年以来燃气轮机发电机组售价多次上调",
+              "brief": "杰瑞股份在互动平台表示，今年以来公司燃气轮机发电机组销售价格已经多次上涨。公司称相关产品的销售定价遵循市场化原则，综合考虑北美市场需求动态、成本、技术附加值以及行业竞争格局等多重因素。此次连续上调的背景是行业整体处于供不应求态势，带动公司相关机组价格走高。",
+              "source_url": "https://36kr.com/newsflashes/3859744863884292?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-19 17:22:16  +0800"
+            },
+            {
+              "title": "商务部：6月20日起对澳大利亚进口牛肉加征55%关税",
+              "brief": "商务部表示，由于澳大利亚牛肉进口数量已达到商务部公告2025年第87号明确的该国家规定数量的100%，将自6月20日零点起，在现行适用关税税率基础上对自澳大利亚进口的牛肉加征55%关税。按照公告规则，这一措施从达到规定数量100%的第3日起生效，目前触发条件已经满足并进入执行阶段。",
+              "source_url": "https://36kr.com/newsflashes/3859875405042946?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-19 17:08:18  +0800"
+            },
             {
               "title": "Meta洽谈投资印度金融科技支付初创公司Cred",
               "brief": "36氪消息称，Meta正洽谈投资印度金融科技支付初创公司Cred。这起事件围绕印度金融科技与支付赛道展开，已知参与方为Meta和Cred，交易性质为投资洽谈。关键细节是，当前能够确认的信息主要集中在双方身份和交易方向，表述显示该事项仍处于洽谈阶段，更多条款尚未在输入内容中披露。",
@@ -471,20 +492,6 @@
               "source_url": "https://36kr.com/newsflashes/3859737490887944?f=rss",
               "source_name": "36氪",
               "published_at": "2026-06-19 15:31:48  +0800"
-            },
-            {
-              "title": "韩国去年对美经常账户顺差六年来首次下滑",
-              "brief": "韩国央行数据显示，韩国去年对美国的经常账户顺差六年来首次下滑。出现这一变化的背景是服务账户赤字扩大，同时韩国对中国和日本的经常账户逆差也有所扩大。关键细节是，韩国去年对美经常账户顺差总额为1114.2亿美元，低于2024年创下的1169.7亿美元历史最高纪录，显示这一指标在此前高位后出现回落。",
-              "source_url": "https://36kr.com/newsflashes/3859736708338693?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-06-19 15:01:03  +0800"
-            },
-            {
-              "title": "2026年端午档首日票房破亿，上映数量创近十年同期新高",
-              "brief": "据网络平台数据，截至目前，2026年端午档首日电影票房含预售已突破1亿元，假期电影市场实现破亿开局。端午档一直是暑期前的重要节日档期，今年同期上映影片数量创近十年新高，意味着同一时间段进入市场的影片更多、供给规模更大。此次披露的关键细节是统计范围包含预售成绩，报道仅给出首日票房破亿和上映数量创新高两项核心信息。",
-              "source_url": "https://36kr.com/newsflashes/3859735763014912?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-06-19 14:46:15  +0800"
             }
           ]
         },
