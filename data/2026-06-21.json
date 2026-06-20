@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T02:51:14.909767+08:00",
+  "generated_at": "2026-06-21T04:50:39.648810+08:00",
   "sections": [
     {
       "category": "主要",
@@ -20,6 +20,20 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple @ Work：传统 MDM 时代结束，声明式管理成为新标准",
+              "brief": "苹果在WWDC后明确表示，随着macOS 27和iOS 27到来，声明式设备管理已从规划变为默认标准，传统MDM正退出主流。这一变化面向企业IT管理场景，目的是借助更多原生控制能力，提升苹果设备的部署、管理与防护效率。关键细节是，IT团队可通过ProfileAssetReference把旧配置纳入DDM，同时设备管理服务将强制要求TLS 1.2及以上，否则注册、配置安装和软件更新都会失败。",
+              "source_url": "https://9to5mac.com/2026/06/20/apple-work-the-era-of-legacy-mdm-is-over-and-declarative-management-is-the-new-standard/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-21T03:46:08+08:00"
+            },
+            {
+              "title": "独立应用聚焦：Brink 为 iPhone 播客收听带来丰富功能体验",
+              "brief": "Brink作为一款独立iPhone播客应用受到关注，主打比常规播客客户端更完整的收听体验。面对功能已趋同的播客应用市场，它把信息获取、整理和社交能力整合到同一界面，并针对iOS 26与Liquid Glass做了适配。关键功能包括多语言AI转写、节目摘要、书签和笔记、相关新闻阅读、热门播客地图、片段合成，以及与Apple Health联动显示步数和卡路里。",
+              "source_url": "https://9to5mac.com/2026/06/20/indie-app-spotlight-brink-brings-a-feature-rich-experience-to-iphone-podcast-listening/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-21T03:30:18+08:00"
+            },
             {
               "title": "苹果今日永久关闭三家美国门店",
               "brief": "苹果于6月20日永久关闭美国三家零售店，分别位于马里兰州陶森、加州埃斯孔迪多和康涅狄格州特伦布尔。苹果4月表示，关店与这些门店所在商场多家零售商撤出、整体经营环境下滑有关，公司会持续评估现有网点以更好满足顾客需求。特伦布尔和埃斯孔迪多员工可转至附近门店，陶森员工可依集体谈判协议申请苹果内部空缺岗位。",
@@ -84,6 +98,13 @@
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "NASA测试可更快行驶并抬轮越障的新型漫游车",
+              "brief": "NASA展示了原型漫游车Ernest在科罗拉多沙漠的测试进展，这款车可更快行驶，并能单独抬起车轮跨越障碍。现役火星车速度慢、轮子易受崎岖地形磨损，遇到岩石、沙地和陡坡常需绕行。NASA称，Ernest连续7天累计行驶超37小时、约16英里，最高时速约0.6英里，未来相关方案或用于火星和月球任务。",
+              "source_url": "https://www.engadget.com/2198367/nasa-is-testing-ernest-rover-that-can-drive-faster-and-lift-its-wheels-to-climb-obstacles/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-21T02:52:32+08:00"
+            },
             {
               "title": "Epic正重建其启动器，速度将提升5倍",
               "brief": "Epic表示正从底层重建新版启动器Launcher V2，目标是在平均冷启动时提速5倍、从系统托盘恢复时提速6.5倍。此前公司高管承认现有启动器体验糟糕，开发者和玩家都长期受困于其缓慢笨重，甚至有人把在Epic商店领取的免费游戏转到Steam启动以绕开它。新版将先进行私测再公开发布，Epic今年2月还称计划在今夏持续交付改进，并为商店补充站内补丁说明、玩家评测、快捷分类和个性化首页。",
@@ -238,6 +259,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《欢乐酒店》联合创作者詹姆斯·伯罗斯去世，享年85岁",
+              "brief": "《欢乐酒店》联合创作者詹姆斯·“吉米”·伯罗斯于6月19日星期五在家人陪伴下安详离世，享年85岁，家属未公布更多细节。作为电视界极具影响力的导演、编剧和制片人之一，他在50多年职业生涯中执导了1000多集剧集，凭《欢乐酒店》《老友记》《威尔和格蕾丝》等作品11次获艾美奖，家属称他对人性、连接与真实的理解改变了电视喜剧。",
+              "source_url": "https://www.ign.com/articles/cheers-co-creator-james-burrows-dies-at-85",
+              "source_name": "IGN",
+              "published_at": "2026-06-21T03:33:50+08:00"
+            },
+            {
+              "title": "《光环：战役进化》PS5分屏合作需双人均订阅PlayStation Plus",
+              "brief": "Halo Studios在Halo Waypoint问答中确认，《光环：战役进化》7月上线后，PS5本地分屏合作的两名玩家都必须拥有已关联微软账号的PlayStation Plus订阅。该作于2025年10月公布将登陆PC、Xbox Series X|S和PS5，此次说明的是跨平台联机与进度共享条件；相比之下，Xbox分屏只需各自微软账号，在线合作才需Game Pass，Steam玩家也只需绑定微软账号。",
+              "source_url": "https://www.ign.com/articles/halo-campaign-evolved-split-screen-co-op-on-ps5-requires-playstation-plus-for-both-players",
+              "source_name": "IGN",
+              "published_at": "2026-06-21T02:07:37+08:00"
+            },
             {
               "title": "育碧联合创始人克洛德·吉耶莫在法国坠机事故中去世，终年69岁",
               "brief": "育碧证实，联合创始人兼Guillemot公司董事长克洛德·吉耶莫在法国西部拉博勒发生的飞机坠毁事故中身亡，终年69岁。他曾与另外四位兄弟于1986年共同创立育碧，推动公司发展为全球大型游戏发行商，旗下拥有《雷曼》《刺客信条》《看门狗》等品牌。报道称，他当时是失事塞斯纳421双发飞机的机主兼飞行员，同行的一名飞行教官也在事故中遇难。",
