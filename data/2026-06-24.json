@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T06:54:54.214092+08:00",
+  "generated_at": "2026-06-24T08:57:26.712177+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 天气应用新功能汇总",
+              "brief": "苹果在 iOS 27 中更新了天气应用，虽然没有加入新的 AI 功能，但重新整理了界面布局，让用户更容易一眼看到当天最需要关注的天气信息。这次更新在顶部新增“Highlights”区域，集中显示每日重点；主界面的状况模块除按小时查看温度和当前天气外，还可切换到降水或风力视图。切换后，10 天预报也会同步展示未来降雨概率和风速概览，同时主屏幕小组件新增超大尺寸，可铺满整个应用页。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-weather/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-24T07:08:02+08:00"
+            },
             {
               "title": "苹果发布支持 iOS 27 功能的新版 AirPods 测试固件",
               "brief": "苹果面向开发者发布了新的 AirPods 测试版固件，适用于 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2，版本号为 9A5304b。此次更新对应 iOS 27、iPadOS 27 和 macOS Golden Gate，将带来新的 AirPods 界面、自定义均衡器支持，并兼容新版 Siri AI。此前苹果已在 iOS 26 等系统中加入测试固件安装选项，方便开发者开启测试版下载。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/06/23/apple-seeds-watchos-27-beta-2-to-developers/",
               "source_name": "MacRumors",
               "published_at": "2026-06-24T02:18:05+08:00"
-            },
-            {
-              "title": "Prime Day 期间 100 美元以内的 10 个苹果优惠",
-              "brief": "MacRumors 汇总了亚马逊 Prime Day 期间 100 美元以下的苹果优惠，覆盖 AirPods、Apple Pencil Pro、AirTag、iPhone 17 保护壳和充电器等产品。这些折扣需要 Prime 会员资格才能获得，其中 20W USB-C 电源适配器降至 14.99 美元，AirTag 2 单个装为 24 美元，AirPods 4 和 Apple Pencil Pro 均降至 99 美元。",
-              "source_url": "https://www.macrumors.com/2026/06/23/best-apple-prime-day-deals-under-100/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-24T02:17:49+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Swift Package Index 加入 Apple，承诺继续开源",
+              "brief": "开源的 Swift 包搜索与元数据平台 Swift Package Index 宣布加入 Apple，并表示短期内包索引、展示方式和文档托管都不会立即变化。该平台一直帮助开发者发现依赖、检查平台与 Swift 版本兼容性并浏览自动生成文档，如今称将借助 Apple 的资源扩大规模，后续围绕包签名和身份机制增加能力，同时继续保持开源。",
+              "source_url": "https://9to5mac.com/2026/06/23/swift-package-index-joins-apple-pledges-to-remain-open-source/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-24T06:59:53+08:00"
+            },
             {
               "title": "Apple Watch Series 11、Ultra 3 等在 Prime Day 前创历史新低，最低 199 美元起",
               "brief": "亚马逊在 Prime Day 前下调多款 Apple Watch 价格，Series 11、Ultra 3 和 SE 3 均出现新低。此次促销覆盖基础 GPS 版、蜂窝版及部分钛金属款，是苹果现售手表近期少见的大幅折扣。Series 11 铝金属 GPS 款首次优惠超过 100 美元，42 毫米最低 279 美元、46 毫米 309 美元，Ultra 3 指定配置最高减 150 美元，SE 3 最低 199 美元起。",
@@ -75,19 +82,26 @@
               "source_url": "https://9to5mac.com/2026/06/23/apple-releases-new-airpods-beta-firmware-including-first-build-for-airpods-max-2/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-24T05:32:30+08:00"
-            },
-            {
-              "title": "苹果 2026 年 OLED 产品线据称将完全依赖三星和 LG",
-              "brief": "报道称，苹果 2026 年下半年发布的 OLED 设备将全部采用三星显示和 LG 面板，京东方因去年 iPhone 17 Pro 面板质量问题影响出货而被排除。iPhone 18 Pro 系列、折叠屏 iPhone 和 iPad mini 面板已量产，MacBook Pro 预计下月启动，Apple Watch Series 12 则由 LG 独家供应。",
-              "source_url": "https://9to5mac.com/2026/06/23/apples-2026-oled-lineup-will-reportedly-rely-entirely-on-samsung-and-lg/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-24T04:56:53+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Android 17 QPR1 Beta 5 全部新变化汇总",
+              "brief": "Google 发布 Android 17 QPR1 Beta 5，带来新功能与改动，适用于多款 Pixel 设备。这是 QPR1 周期的最新更新，重点仍是界面微调和稳定性修复。已知变化包括 Gemini Intelligence 品牌露出、移动数据快捷开关加入更多“不再询问”提示，并修复游戏录屏、相机卡顿、下载超时及私密空间崩溃等问题。",
+              "source_url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-everything-new/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-24T07:30:00+08:00"
+            },
+            {
+              "title": "Google Messages 开始推出自定义“聊天主题”与壁纸背景",
+              "brief": "Google Messages 开始分阶段推出新的“聊天主题”功能，让用户为对话自定义气泡颜色和壁纸背景。这项功能取代 2024 年推出的基础配色设置，改为提供更完整的个性化选项，且变更仅自己可见。功能上线后，原“更改颜色”入口会变成“聊天主题”，页面含对话预览、动态色板配色，以及动物、建筑、黑白、城市、风景等壁纸类别，也可手动选图。",
+              "source_url": "https://9to5google.com/2026/06/23/google-messages-chat-theme-start/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-24T07:10:50+08:00"
+            },
             {
               "title": "Gemini Intelligence 在 Android 17 QPR1 Beta 中短暂现身 Pixel 10 Fold",
               "brief": "在 Android 17 QPR1 Beta 5 中，Pixel 10 Fold 的外屏启动画面短暂出现了 Gemini Intelligence 标识，Google 也把顶部 “G” 换成渐变版本。这个品牌目前只在这款 2025 年折叠机上出现，安装同版测试系统的 Pixel 10、Pixel 10 Pro 和 Pixel 10a 都没有类似变化，而且测试版仍未包含 Create My Widget、Gboard Rambler 等相关功能。",
@@ -108,26 +122,19 @@
               "source_url": "https://9to5google.com/2026/06/23/android-17-qpr1-beta-5-pixel/",
               "source_name": "9to5Google",
               "published_at": "2026-06-24T04:53:11+08:00"
-            },
-            {
-              "title": "石头科技多款扫拖机器人在 Prime Day 降至新低",
-              "brief": "Roborock 配合亚马逊 Prime Day 下调多款扫地与洗地设备价格，其中去年的旗舰 Saros 10R 降至 899.99 美元，较原价低 700 美元并创历史新低。此次促销还覆盖 Qrevo Edge 2、Curv 2 Flow、Qrevo S Pro 等型号，活动从 6 月 23 日持续到 6 月 26 日。",
-              "source_url": "https://9to5google.com/2026/06/23/roborocks-robot-vacuums-hit-lowest-prices-prime-day-here-are-best-deals/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-24T04:30:00+08:00"
-            },
-            {
-              "title": "Android 17 为 Pixel 带来更高质量无线音频，可这样查看",
-              "brief": "Google 在 Android 17 稳定版中为 Pixel 加入 LHDCv5 支持，让兼容蓝牙耳机可获得更高音质。LHDC 此前已被部分安卓品牌采用，但并非 Android 原生能力，如今升级为系统级支持。用户连接兼容耳机后，可在开发者选项的蓝牙音频编解码器页面查看是否启用，Pixel Buds Pro 2 仍显示 AAC。",
-              "source_url": "https://9to5google.com/2026/06/23/google-pixel-wireless-audio-quality-lhdc-android-17-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-24T04:05:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "白宫大幅提前淘汰易受量子攻击加密的期限",
+              "brief": "白宫发布行政命令，大幅提前政府机构和相关组织淘汰易受量子计算攻击加密系统的时间表，要求高价值资产和高影响系统更快完成向后量子密码迁移。背景是最新研究显示，构建具备实际破译能力的量子计算机所需资源和成本低于此前普遍估计，且存在“先收集、后解密”的国家安全风险。命令规定，这些系统须在2030年12月31日前采用后量子密钥建立方案，并在2031年12月31日前采用量子安全数字签名。",
+              "source_url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-24T06:30:57+08:00"
+            },
             {
               "title": "被特朗普下线的美国 Climate.gov 由非营利组织重启",
               "brief": "美国长期汇集气候分析、海量数据和公众科普内容的 Climate.gov 在被特朗普政府下线并重定向到 NOAA 网站后，现已由非营利组织 Climate.us 重新上线。背景是白宫与相关机构以“金标准科学”及多项法规为依据移除了原站内容；关键细节是志愿者保存了大量政府不得主张版权的资料，前站点管理员也参与了恢复。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
               "source_name": "Ars Technica",
               "published_at": "2026-06-24T02:19:50+08:00"
-            },
-            {
-              "title": "ABC呼吁观众反对FCC干预《观点》嘉宾安排",
-              "brief": "ABC开始播出广告，呼吁观众向美国联邦通信委员会提交意见，反对其试图决定《观点》节目“谁能上节目”。背景是FCC正就该节目是否属于“真正的新闻采访节目”征求公众意见；这类认定长期让日间和深夜访谈节目在采访环节豁免“平等时间”规则，而《观点》早在2002年就已获得这一豁免。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-24T01:59:40+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "Superhuman收购AI真实性服务GPTZero",
+              "brief": "Superhuman宣布收购AI识别服务GPTZero，并计划把其能力整合进Superhuman Go助手，以扩大公司现有的AI真实性工作。这项收购之所以受关注，是因为Superhuman本身销售AI写作助手；GPTZero现有功能包括幻觉与抄袭检测，以及显示互联网中AI内容占比的工具，交易金额未披露，教师和学生仍是优先服务对象。",
+              "source_url": "https://www.engadget.com/2200290/superhuman-has-acquired-ai-authenticity-service-gptzero/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-24T07:09:51+08:00"
+            },
+            {
               "title": "HDMI 2.0 与 2.1：为什么为流媒体升级并非必要",
               "brief": "随着越来越多流媒体服务主推4K画质，甚至把高分辨率内容放在更高订阅档位，很多人会怀疑家里的 HDMI 线是否需要升级。文章指出，若主要是日常电视串流观看，通常没必要把 HDMI 2.0 全部换成 2.1；这些接口常见于电视、显示器、游戏机和音响系统，两代规格可互相搭配使用，差别主要在于 2.1 带宽更高、能在同一时间传输更多像素，而 HDMI 2.2 仍未广泛普及。",
               "source_url": "https://www.engadget.com/2200155/hdmi-2-0-vs-2-1-streaming-tv-upgrade/",
@@ -235,19 +242,33 @@
               "source_url": "https://www.engadget.com/2199931/netflixs-new-horror-game-taps-into-your-phone-for-deeper-immersion/",
               "source_name": "Engadget",
               "published_at": "2026-06-24T01:04:38+08:00"
-            },
-            {
-              "title": "Claude 正在接手 Slackbot 的工作",
-              "brief": "Anthropic发布了面向Slack的研究预览功能Claude Tag（@Claude），将其定位为频道内所有人共享、常驻在线的助手。团队成员可直接@Claude提问，并查看它正在处理的任务或接续他人的对话；它还会随着使用逐步理解频道的工作内容。在获得权限后，它可从组织其他位置调取信息，启用“ambient”行为时还能主动推送相关更新并跟进久未更新的任务；初期面向Claude Enterprise和Team客户开放。",
-              "source_url": "https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-24T01:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Prime Day 期间最值得关注的扫地机器人优惠",
+              "brief": "Prime Day 已开启，《The Verge》汇总了扫地机器人优惠，涵盖 Roborock、Dreame、Shark 等多个其测试过的品牌，而且不只亚马逊一家在降价。文章指出，优质机型平时价格往往让人犹豫，这轮促销从基础款到高端款都有覆盖，既有可减少日常吸尘负担的机型，也有能自动清洗并烘干拖布、跨越房间门槛的型号。",
+              "source_url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+              "source_name": "The Verge",
+              "published_at": "2026-06-23T20:17:27-04:00"
+            },
+            {
+              "title": "今年 Prime Day 的苹果产品优惠是我见过最好的",
+              "brief": "今年 Prime Day 的苹果产品优惠力度格外突出，《The Verge》称这是其见过最好的几轮之一，而且不少折扣在活动正式开始前就已出现。文章提到，Apple Watch Series 11 已降至新低价，AirPods Pro 3 此前在沃尔玛一度跌到 169 美元后售罄，目前仍以 179 美元折扣价销售，反映这轮促销价格波动很大。",
+              "source_url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+              "source_name": "The Verge",
+              "published_at": "2026-06-23T19:58:13-04:00"
+            },
+            {
+              "title": "Prime Day 期间，Nex Playground 降回 RAM 涨价前价格",
+              "brief": "Prime Day 期间，面向家庭的体感游戏主机 Nex Playground 在亚马逊降至 239 美元，低于当前 299 美元建议零售价。《The Verge》指出，这款类似 Kinect 的一体机已凭亲子向游戏吸引不少家长，尽管动作识别并不完美，但仍颇受欢迎；此次价格大致回到其早期 250 美元附近，是目前能见到的较好折扣。",
+              "source_url": "https://www.theverge.com/gadgets/950871/nex-playground-prime-day-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-06-23T19:00:00-04:00"
+            },
             {
               "title": "Google Home 很快会更擅长识别你",
               "brief": "谷歌将从6月23日起更新 Google Home 的“熟悉面孔”功能，让已标记的家庭成员在背对镜头或面部不清晰时，仍能被智能家居摄像头识别。此举针对摄像头因视角受限而把住户误认成陌生人的问题。新系统会结合体型、衣物颜色等非生物特征判断身份，并自动用家中成员的最新照片更新样本库，减少因旧图导致的不准确通知。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
               "source_name": "The Verge",
               "published_at": "2026-06-23T18:03:18-04:00"
-            },
-            {
-              "title": "Meta Quest 3S 降至 297 美元，基本回到旧价",
-              "brief": "Meta Quest 3S 的 128GB 版本目前在亚马逊售 296.79 美元，较现价便宜约 53 美元。之所以如今能算优惠，是因为这款 Meta 入门级 VR 头显在 2024 年上市时原本卖 299.99 美元，但今年已经涨到 349.99 美元。文章称，这并非特别惊人的折扣，不过对全新机而言已接近当下可见的较好价格；它也是一款可无线独立运行、在 Quest 3 与 Quest 2 之间折中的机型。",
-              "source_url": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-23T17:00:00-04:00"
-            },
-            {
-              "title": "Prime Day 让 Roborock Saros 20 直降 240 美元，它是我们最喜欢的扫地机器人之一",
-              "brief": "Prime Day 期间，石头科技 Roborock 的 Saros 20 机器人吸拖一体机在亚马逊和品牌官网降至 1359.99 美元，较原价便宜 240 美元，创下新低。之所以受关注，是因为它被评为站内最喜欢的机型之一，日常使用几乎无需频繁操心。评测提到，这款产品拥有出色的避障能力和低矮机身设计，能够清扫各个房间并尽量避免被杂物卡住。",
-              "source_url": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-23T17:00:00-04:00"
-            },
-            {
-              "title": "我们最喜欢的设备中的最佳 Prime Day 优惠",
-              "brief": "亚马逊 Prime Day 已开始，The Verge 汇总了一批其编辑最看重的优惠设备与配件。活动将持续四天，Prime 会员现在就能参与，正式结束时间为美东时间 6 月 27 日凌晨 3:01、太平洋时间 0:01。文章提到，许多折扣在整个促销期内会保持不变；随着优惠数量一年比一年更多、优质选择更难辨认，编辑和作者从多个类别挑出了数十个引起他们注意的商品。",
-              "source_url": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-23T16:59:34-04:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《女超人》制片人称大卫·埃里森支持DC影业",
+              "brief": "《女超人》制片人拉尔斯·P·温瑟表示，正推动派拉蒙与华纳兄弟合并的大卫·埃里森对DC影业现阶段规划持支持态度。外界此前担心新东家上台后会为节省开支，调整甚至叫停詹姆斯·古恩主导的DCU布局；但温瑟称埃里森已到亚特兰大的特里利斯片场参观《明日之人》拍摄，并就后续项目展开讨论，对《泥脸》《绿灯侠》等已启动项目没有示警。",
+              "source_url": "https://www.ign.com/articles/supergirl-producer-says-david-ellison-is-a-big-fan-of-dc-studios-as-paramount-and-warner-bros-merger-looms",
+              "source_name": "IGN",
+              "published_at": "2026-06-24T06:55:49+08:00"
+            },
+            {
+              "title": "《马拉松》确认新PvE模式上线日期，第三赛季9月开启",
+              "brief": "Bungie确认《马拉松》将在7月21日的赛季中期更新中加入新PvE模式“Vault Breaker”，玩家可单人或组队进入Cryo Archive挑战多座金库。此举正值游戏留存和拉新承压，开发团队希望在PvP撤离玩法之外扩展内容；该模式需使用特定赞助套件排队，撤离后仅Vault Data可带出用于升级，第三赛季定于9月22日开启。",
+              "source_url": "https://www.ign.com/articles/marathon-confirms-new-pve-mode-release-date-season-3-begins-september-2026",
+              "source_name": "IGN",
+              "published_at": "2026-06-24T06:01:30+08:00"
+            },
             {
               "title": "Bungie 开发者多次提议制作《命运》恋爱模拟游戏，但管理层否决",
               "brief": "前 Bungie 开发者透露，团队曾在公司内部的“Carnival”原型活动中做出一款受《Dream Daddy》启发的《命运》恋爱模拟游戏，之后几乎每年都尝试把它推进为正式项目。这个点子最初只是开发者用一周时间完成的趣味试作，负责提案的人里还有恋爱游戏设计背景成员，并准备过包含成本和数据指标的方案，但管理层始终认为玩家不需要浪漫或搞笑内容，因此一直未获批准。",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/batman-knightfall-part-1-trailer-voice-cast",
               "source_name": "IGN",
               "published_at": "2026-06-24T02:30:00+08:00"
-            },
-            {
-              "title": "迪士尼曾想收购Twitter和詹姆斯·邦德，并考虑与苹果合并",
-              "brief": "前迪士尼CEO鲍勃·艾格透露，他在2005年接掌公司后曾设想通过一系列并购扩张版图，目标不仅包括后来收入麾下的皮克斯、漫威和卢卡斯影业，也包括詹姆斯·邦德；文章标题还提到，迪士尼当年曾想收购Twitter，并考虑过与苹果合并。最终邦德项目未能达成，007控制权后来转到亚马逊手中，成为其清单里唯一未实现的一项。",
-              "source_url": "https://www.ign.com/articles/disney-wanted-to-buy-twitter-and-james-bond-considered-merger-with-apple",
-              "source_name": "IGN",
-              "published_at": "2026-06-24T02:25:13+08:00"
-            },
-            {
-              "title": "Netflix推出Night School恐怖游戏《Unhinged》，萨迪·辛克与佐伊·克拉维兹出演",
-              "brief": "Netflix公开由《Oxenfree》开发商Night School Studio打造的恐怖游戏《Unhinged》，主演包括萨迪·辛克、佐伊·克拉维兹和特洛伊·贝克。它不是互动剧，而是一款通过Netflix串流到电视、再用手机操控的游戏：玩家会接到来电、短信，并以虚拟手电探索剧情；单次流程不到一小时，但设有分支与死亡结局，6月30日向全部订阅用户开放。",
-              "source_url": "https://www.ign.com/articles/netflix-horror-game-starring-sadie-sink-and-zo-kravitz-from-oxenfree-developer-night-school-studio",
-              "source_name": "IGN",
-              "published_at": "2026-06-24T01:13:11+08:00"
             }
           ]
         },
@@ -405,39 +405,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "特斯拉股东押注与SpaceX合并将成马斯克终局剧本",
+              "brief": "报道称，尽管SpaceX上市后热度回落，特斯拉股价仍维持高位，部分股东与分析师因此押注马斯克最终会推动特斯拉与SpaceX合并。其逻辑在于，两家公司都围绕人工智能并需要巨额资本，合并可强化叙事与融资能力。文中同时提到，散户资金正转向SpaceX，估值波动与换股定价仍是最大难点，但也有人认为一年内达成交易并不意外。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566632.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-24T07:56:10+08:00"
+            },
+            {
+              "title": "受高温影响 巴黎卢浮宫将连续4天提前闭馆",
+              "brief": "受持续高温影响，巴黎卢浮宫宣布将连续4天提前闭馆，并调整开放安排以应对热浪带来的运行压力。背景是法国正遭遇今年以来第二轮大范围高温过程，多地持续发布高温预警。报道给出的关键信息是，此次调整已正式公布，属于因极端天气采取的临时措施。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566630.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-24T07:55:09+08:00"
+            },
+            {
+              "title": "特朗普政府施压Meta提交AI模型接受安全审查",
+              "brief": "报道称，特朗普政府正施压Meta，要求其提交人工智能模型接受安全审查，Meta回应称与政府在提升美国安全前沿AI领导地位上的目标一致，并希望尽快签署协议。背景是美国近期以国家安全为由加强对先进模型的管控。关键细节是，OpenAI、Anthropic以及Google DeepMind、微软和xAI都已参与未发布或新模型的政府测试与早期评估。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566628.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-24T07:49:26+08:00"
+            },
+            {
+              "title": "中国“灵晟”登顶全球超算Top500 再次位列第一",
+              "brief": "新一届全球超算Top500榜单公布后，中国全国产自主研制的“灵晟”以2.19EFlops持续双精度性能位列第一，成为世界首台持续性能超过2EFlops的系统。背景是中国超算时隔九年重回榜首。关键细节包括其采用全CPU超智融合架构，已在大气海洋、材料、药物发现和大模型推理等领域投入应用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566626.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-24T07:39:34+08:00"
+            },
+            {
               "title": "Valve与英伟达合作 SteamOS未来或支持英伟达显卡",
               "brief": "Valve表示正与英伟达紧密合作，为SteamOS开发对英伟达GPU的支持，这将扩展系统的硬件适配范围，也关系到玩家未来自行组装Steam主机的可能性。公司同时提醒不要过早期待，相关驱动甚至可能要到2026年底后才推出，未来与Windows或其他系统双启动的方案也在考虑中。",
               "source_url": "https://www.cnbeta.com.tw/articles/game/1566624.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-23T23:05:28+08:00"
-            },
-            {
-              "title": "Meta发布新款智能眼镜 起售价299美元",
-              "brief": "Meta发布新款Meta Glasses，起售价299美元，共有三种外观，并配套推出专属充电底座。产品未配备镜片显示屏，但内置摄像头、扬声器和Meta AI，支持语音唤醒、实景翻译、环境识别以及拍摄照片和视频，面向普通消费者进一步推广智能眼镜产品，也延续其与依视路陆逊梯卡合作的消费级路线。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566622.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-23T22:54:27+08:00"
-            },
-            {
-              "title": "英国斥资6000万英镑建设开源AI实验室",
-              "brief": "英国政府宣布在未来六年投入6000万英镑，建设两家新的学术开源AI实验室，目标是探索更便宜、更易部署、不过度依赖超大规模算力的模型路线。资金将用于基础研究和人才培养，每家实验室还将获拨约200万英镑招聘至少10名博士生，并与图灵研究所及英国研究与创新署旗下AI研究枢纽等现有机构协作。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566620.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-23T19:55:16+08:00"
-            },
-            {
-              "title": "研究称最古老彗星形成于120亿年前",
-              "brief": "发表于《自然》的新研究称，星际彗星3I/ATLAS形成于约120亿年前，可能诞生在宇宙早期银河系的恒星形成区。这一判断基于JWST对其化学成分和同位素特征的观测结果；研究团队在2025年12月连续两天观测71分钟，发现其碳同位素比例和半重水含量都与太阳系天体显著不同，因此确认其极为古老。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1566618.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-23T19:38:49+08:00"
-            },
-            {
-              "title": "任天堂再次确认在线服务涨价 7月1日生效",
-              "brief": "任天堂再次确认将从7月1日起上调Nintendo Switch Online价格，个人1个月套餐将由306日元涨至400日元，12个月套餐将由2400日元涨至3000日元。与此同时，Nintendo Switch Online+追加包个人12个月计划也将从4900日元上调至5900日元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1566616.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-23T16:16:27+08:00"
             }
           ]
         },
@@ -445,39 +445,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "热门中概股美股盘前普跌，小鹏跌超5%",
-              "brief": "36氪报道，热门中概股在美股盘前集体下挫，小鹏集团跌幅超过5%，在已列个股中跌幅居前。此次回落覆盖新能源车、互联网和电商等多类中概股，截至发稿，理想汽车、哔哩哔哩跌超4%，阿里巴巴、百度、蔚来跌超3%，京东、拼多多、网易跌超2%。",
-              "source_url": "https://36kr.com/newsflashes/3865763225687303?f=rss",
+              "title": "两市融资余额增加61.31亿元",
+              "brief": "6月24日，沪深两市融资余额合计29698.08亿元，较前一交易日增加61.31亿元。融资余额数据反映的是投资者通过融资买入形成的资金规模，也是观察两市杠杆资金变化的常见指标。分市场看，上交所融资余额15045.65亿元，较前一日减少9.93亿元；深交所融资余额14652.43亿元，较前一日增加71.24亿元，带动两市总额回升。",
+              "source_url": "https://36kr.com/newsflashes/3866462793979144?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-23 20:57:42  +0800"
+              "published_at": "2026-06-24 08:49:20  +0800"
             },
             {
-              "title": "美股大型科技股盘前普跌，美光跌超9%",
-              "brief": "36氪报道，美股大型科技股在盘前交易中普遍下跌，其中美光科技跌幅超过9%，在文中所列公司中领跌。盘前回落涉及芯片、社交、消费电子和互联网平台等主要科技公司，截至发稿，英伟达、特斯拉、SpaceX、谷歌跌超2%，Meta、亚马逊和苹果也均录得跌幅。",
-              "source_url": "https://36kr.com/newsflashes/3865761659114753?f=rss",
+              "title": "三星或宣布回购近90万亿韩元股票用于发放奖金",
+              "brief": "报道称，三星电子正准备回购价值近90万亿韩元的股票，作为向员工发放奖金的安排，并可能很快公布相关细节。此举的背景是公司此前已与工会达成协议，约定将特别绩效奖金以公司股票形式发放。按这一安排，三星需要先行回购股份，再将相关股票用于兑现员工奖金，目前披露的信息主要围绕回购用途和此前协议安排。",
+              "source_url": "https://36kr.com/newsflashes/3866461741306888?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-23 20:56:06  +0800"
+              "published_at": "2026-06-24 08:48:16  +0800"
             },
             {
-              "title": "煜鼎增材科创板IPO获受理",
-              "brief": "36氪报道，北京煜鼎增材制造研究院股份有限公司的科创板IPO审核状态已变更为“已受理”。报道聚焦这项最新进展，表明公司提交的科创板上市申请进入受理环节。文中披露的关键信息主要包括企业全称、拟申报板块以及审核状态更新，内容较为简短。",
-              "source_url": "https://36kr.com/newsflashes/3865754721555716?f=rss",
+              "title": "中信证券港股策略：关注高解禁比例标的及行业龙头解禁对股价的短期扰动",
+              "brief": "中信证券称，港股市场融资活动与大盘走势之间并无明确负相关关系，整体更多呈现顺周期特征，融资行为本身并非行情终结的催化剂。报告指出，相比IPO，上市6个月后的解禁潮对港股负面影响更大，且不同行业表现分化明显，市值体量与解禁比例是关键因素。展望2026年下半年，港股IPO或延续火热，同时将迎来解禁高峰，其中9月压力最为突出。",
+              "source_url": "https://36kr.com/newsflashes/3866455642117378?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-23 20:49:03  +0800"
+              "published_at": "2026-06-24 08:42:04  +0800"
             },
             {
-              "title": "欧盟或指控Meta产品存在诱导儿童上瘾设计",
-              "brief": "据报道，欧盟将进一步加大对Meta Platforms的调查力度，拟指控其产品存在诱导儿童上瘾的设计。这一进展来自欧盟层面对平台产品设计影响未成年人问题的持续审查。知情人士称，欧盟委员会正准备发布初步调查结果，但正式公布日期尚未确定。",
-              "source_url": "https://36kr.com/newsflashes/3865750908835077?f=rss",
+              "title": "Flipkart计划在IPO前扩张印度快速商务业务",
+              "brief": "沃尔玛旗下Flipkart正加速扩张其在印度的“快速商务”业务，计划在全国新增500个社区仓库，重点覆盖中小城市。此举出现在公司筹备赴孟买上市之际，目的是参与这一规模达110亿美元、增长迅速的市场竞争。报道提到，Flipkart的具体上市时间表尚未确定，但其正在上市前继续扩大这一业务板块的全国布局。",
+              "source_url": "https://36kr.com/newsflashes/3866454531789827?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-23 20:45:10  +0800"
+              "published_at": "2026-06-24 08:40:56  +0800"
             },
             {
-              "title": "张国清强调坚定不移深化国资国企改革",
-              "brief": "全国进一步深化国资国企改革动员部署视频会议6月23日在北京召开，国务院副总理张国清在会上强调，要坚定不移深化国资国企改革。这一部署围绕做强做优做大国有企业和国有资本展开，并要求增强核心功能和竞争力。会议还提出促进科技创新与产业创新深度融合，推进重组整合、资源盘活和分类考核。",
-              "source_url": "https://36kr.com/newsflashes/3865745765028864?f=rss",
+              "title": "扩产、增效步履不停，多家公司上半年业绩预喜",
+              "brief": "截至6月24日20时，A股已有11家公司披露2026年上半年业绩情况，若按归母净利润同比增长上限计算，其中10家公司预盈。报道称，这些公司业绩稳步增长，一方面来自加强研发投入、推进产品迭代和降本增效，另一方面来自快速响应客户需求并带动销售增长。除业绩预喜外，不少公司还披露了2026年扩产计划，新能源和AI算力产业链成为热门方向。",
+              "source_url": "https://36kr.com/newsflashes/3866379369092356?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-23 20:39:56  +0800"
+              "published_at": "2026-06-24 08:39:17  +0800"
             }
           ]
         },
@@ -485,39 +485,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果发布 watchOS 27 开发者预览版 Beta 2",
-              "brief": "苹果现已发布 watchOS 27 开发者预览版 Beta 2，不过具体更新内容暂未公布，IT之家表示稍后会补充详细信息。此次更新延续 watchOS 27 的测试节奏，已知首个测试版于 2026 年 6 月 9 日推出。开发者加入苹果开发者计划后，可通过 Apple Watch 的“设置-通用-软件更新”获取升级，公开测试版用户则需先注册 Apple Beta 版软件计划。",
-              "source_url": "https://www.ithome.com/0/967/702.htm",
+              "title": "Anthropic 下架 Mythos 5/Fable 5 后，一公司起诉美国政府",
+              "brief": "因美国政府下令下架 Anthropic 的 Mythos 5 和 Fable 5 模型，Legion 已向华盛顿哥伦比亚特区联邦法院起诉并寻求初步禁令，要求撤销相关指令。该公司称其面向律师的文书起草和案件管理平台高度依赖 Anthropic 工具，命令生效后加拿大开发团队立刻失去访问权限，业务随即停滞，并称损害即时且难以挽回。",
+              "source_url": "https://www.ithome.com/0/967/731.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-24T02:54:12+08:00"
+              "published_at": "2026-06-24T08:45:12+08:00"
             },
             {
-              "title": "传音 Tecno 推出 Camon Slim：机身厚 6.39 毫米，配 LED 交互背板",
-              "brief": "传音 Tecno 推出了 Camon Slim，这款新机主打超薄机身，厚度仅 6.39 毫米，并在后摄模组加入一块由 354 颗 Mini LED 组成的灯效面板，用于通知和交互显示。配置方面，它配备 6.78 英寸 144Hz 曲面 AMOLED 屏、联发科 Helio G200 Ultimate、8GB 内存与 128GB 或 256GB 存储，支持 60W 有线充电，售价和上市时间尚未公布。",
-              "source_url": "https://www.ithome.com/0/967/700.htm",
+              "title": "EA 高管称生成式 AI 可简化开发并加速创意",
+              "brief": "EA 企业发展总裁劳拉·米耶勒表示，看好生成式 AI 在游戏开发中的作用，认为它能为部分环节提速并简化流程。她称自己一直希望减少工作室开发者的阻碍，而 AI 可承担制作流程、工具链和工作环节中的重复杂活，提升原型制作效率、加快创意产出，并让团队围绕创意沟通和达成共识的过程更高效，但未说明具体成果。",
+              "source_url": "https://www.ithome.com/0/967/730.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-23T23:40:47+08:00"
+              "published_at": "2026-06-24T08:43:55+08:00"
             },
             {
-              "title": "FFmpeg 高危漏洞已修复：恶意视频可触发系统被控制",
-              "brief": "开源多媒体框架 FFmpeg 被曝存在高危漏洞，攻击者可借恶意视频在解码过程中触发堆越界写入，进而控制系统，官方现已发布 8.1.2 紧急修复版本。由于 NAS、下载器或视频软件常会自动扫描文件或生成预览图，用户即使未主动打开视频也可能在后台中招。研究人员称 Kodi、OBS Studio、Jellyfin、mpv、PhotoPrism 等软件均受影响，不需要时也可在编译阶段禁用 MagicYUV 解码器。",
-              "source_url": "https://www.ithome.com/0/967/699.htm",
+              "title": "《合金装备2》源码泄露后，科乐美起诉追查泄密者",
+              "brief": "在《合金装备 2：自由之子》源代码等资料泄露后，科乐美已提起诉讼，要求法院推动追查最初上传和传播文件的人。诉状列出 pixeldrain、buzzheavier 和 4chan 等涉案平台，但未将其列为被告，而是以无名氏代称实际泄密者；泄露内容包括源代码、未公开素材、内部开发资料，以及原计划登陆 Wii 的《合金装备 2：实体》移植版本。",
+              "source_url": "https://www.ithome.com/0/967/729.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-23T23:24:23+08:00"
+              "published_at": "2026-06-24T08:37:30+08:00"
             },
             {
-              "title": "小米延长 MiMo-V2.5-Pro-UltraSpeed 限时体验",
-              "brief": "小米宣布延长 MiMo-V2.5-Pro-UltraSpeed 的聊天体验与 API 接入体验期限，原定限时体验的下线时间将改为视资源情况另行安排。官方表示，自 6 月 8 日上线以来，截至 6 月 23 日已收到超过 6.6 万份申请，覆盖众多世界 500 强企业、行业头部公司及个人开发者。已审核通过的用户可继续使用，若后续下线，小米会提前通知，以便用户完成迁移和适配。",
-              "source_url": "https://www.ithome.com/0/967/698.htm",
+              "title": "LastPass：第三方供应链攻击致部分用户信息泄露",
+              "brief": "LastPass 披露，一次针对第三方 Klue 的供应链攻击导致部分用户信息泄露，攻击者借被窃取的访问 Token 进入其 Salesforce 环境并接触部分客户支持和销售数据。受影响信息包括姓名、电话、邮箱、住址、支持案例和销售相关 CRM 数据；该公司称产品、基础设施、密码保险库及已存储凭证未受影响，现已轮换 Token 并停用相关访问。",
+              "source_url": "https://www.ithome.com/0/967/728.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-23T23:20:24+08:00"
+              "published_at": "2026-06-24T08:36:57+08:00"
             },
             {
-              "title": "研究称 AI 聊天机器人可能放大用户妄想",
-              "brief": "一项研究提出，AI 聊天机器人在长期、高强度互动中，可能成为“妄想放大器”，让部分用户的错误信念不断被确认、强化和扩展。论文认为，语言对齐、超个性化生成和迎合倾向叠加后，系统可能不去质疑不实内容，反而参与构建妄想叙事。作者同时强调这仍是有待验证的假设，并建议临床筛查时关注患者的聊天机器人使用强度、情感依恋程度以及对睡眠和进食的影响。",
-              "source_url": "https://www.ithome.com/0/967/697.htm",
+              "title": "消息称三星和 LG 将供应 iPhone 18 Pro/Max OLED 面板",
+              "brief": "消息称，三星显示与 LG Display 将共同供应苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 所需 OLED 面板，预计总订单量约 9000 万块。报道还称，这些面板已开始量产；其中新款 iPad mini 和首款折叠 iPhone 所用 OLED 由三星独家供应，订单量分别约 200 万和 1000 万块，LG 则独家供应 Apple Watch Series 12 约 3400 万块面板。",
+              "source_url": "https://www.ithome.com/0/967/726.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-23T23:14:58+08:00"
+              "published_at": "2026-06-24T08:25:34+08:00"
             }
           ]
         }
