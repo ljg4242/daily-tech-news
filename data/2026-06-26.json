@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T07:03:41.846001+08:00",
+  "generated_at": "2026-06-26T10:59:07.678377+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "M6 MacBook Pro 预计今年推出，首发苹果 2 纳米芯片",
+              "brief": "彭博社称，苹果最早可能在今年推出搭载M6芯片的14英寸基础款MacBook Pro，并可能同步更新Mac mini、iMac和MacBook Air。M6将是苹果首款采用2纳米工艺的独立M系列芯片，预计于2026年底发布，暂不推出M6 Pro和M6 Max，高端版本将等到2027年的M7系列；其内存带宽约200GB/s，神经引擎、视频编解码和最高12核GPU也会升级。",
+              "source_url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-26T07:21:59+08:00"
+            },
             {
               "title": "M5 Ultra版Mac Studio或于2026年推出，内存最高768GB",
               "brief": "彭博称，苹果仍计划推出新款Mac Studio，采用M5系列最后一款芯片M5 Ultra，并测试了最高768GB统一内存配置。该机自2025年3月后未更新，原本预计更早在2026年发布，但因内存芯片供应紧张和涨价而推迟，4月消息称时间点约在2026年10月前后；这颗芯片预计配备约36核CPU和80核GPU，量产时未必会提供768GB版本。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/",
               "source_name": "MacRumors",
               "published_at": "2026-06-26T01:43:00+08:00"
-            },
-            {
-              "title": "苹果解释今日为何上调这 14 款产品价格",
-              "brief": "苹果当天上调了14款产品价格，涉及全部Mac和iPad，以及Apple TV、HomePod、HomePod mini和Vision Pro，而iPhone、Apple Watch和AirPods暂未变动。苹果向MacRumors表示，AI数据中心扩张推高了内存与存储芯片需求，导致RAM和SSD成本飙升，本轮涨价幅度从30美元到1300美元不等，库克上周也称涨价“不可避免”。",
-              "source_url": "https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-26T01:42:14+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果在 Xcode 26.6 中加入 Google Gemini 编码助手",
+              "brief": "苹果发布 Xcode 26.6 正式版，为 IDE 的编码助手新增 Google Gemini 支持。此前该功能已支持 Anthropic Claude Agent 和 OpenAI Codex，Gemini 此前仅在 6 月 10 日起的 Xcode 27 测试版中提供，如今已进入非测试版。此次更新还包含 Swift 6.3.3、面向 iOS 26.5 等系统的 SDK，并加入错误修复、稳定性改进及对更多兼容代理的支持。",
+              "source_url": "https://9to5mac.com/2026/06/25/apple-adds-google-gemini-coding-assistant-in-xcode-26-6-update/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-26T09:49:47+08:00"
+            },
+            {
+              "title": "《史努比夏令营》第二季现已上线 Apple TV+",
+              "brief": "苹果与 Peanuts 的长期合作继续推进，《史努比夏令营》第二季现已上线 Apple TV+。该剧第一季于 2024 年开播，围绕比格犬童子军保住队伍，以及查理·布朗和朋友们在春湖营地度夏展开。新一季中，史努比与伙伴们将继续徒步、游泳、寻找刺猬蟾蜍、堆建高大沙堡，并争论热狗和汉堡谁更好，同时加入更多户外冒险情节。",
+              "source_url": "https://9to5mac.com/2026/06/25/camp-snoopy-season-2-now-available-on-apple-tv/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-26T09:15:41+08:00"
+            },
             {
               "title": "美光高管暗示苹果激进采购助长内存短缺",
               "brief": "美光高管表示，当前内存紧缺不只是供给问题，部分大客户过去压价过猛，也助长了后来供应吃紧。苹果此前已因 RAM 短缺上调多款 MacBook 和 iPad 价格，而美光首席商务官苏米特·萨达纳称，在上轮低谷期公司毛利一度转负，客户要求极低价格，令行业缺乏继续扩产的动力，2023 年不少内存投资因此停摆，他虽未点名，但明显将矛头指向苹果。",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/06/25/russia-wants-to-know-why-apple-removed-russian-apps-from-the-u-s-app-store/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-26T05:08:41+08:00"
-            },
-            {
-              "title": "Soulver 4 带来 50 多项改进、新工作流和更适合代理的 CLI",
-              "brief": "Soulver 4 已发布，带来 50 多项改进、新工作流和更适合 AI 代理使用的命令行界面。这款长期被不少苹果用户当作基础生产力工具的应用，以自然语言记算为核心，在 2024 年 iPhone 版上线后继续扩展；此次加入多段行程规划、按标签做统计、更多金融地理物理等单位与函数支持，并可编辑 Soulver 表与 sheetbook 文件，售价 59 美元，提供 60 天试用，3 代用户可半价升级。",
-              "source_url": "https://9to5mac.com/2026/06/25/soulver-4-brings-50-improvements-new-workflows-and-an-agent-friendly-cli/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-26T04:33:00+08:00"
-            },
-            {
-              "title": "Apple TV 的连胜还在继续，最新剧集再次取得成功",
-              "brief": "Apple TV+ 近期的口碑连胜还在延续，最新上线的《Sugar》第二季再度获得成功。文章回顾 4 月和 5 月多部剧集在烂番茄上拿到 90% 以上评分，认为平台近年已从口碑参差转向更稳定地输出高评价作品；这部由科林·法瑞尔主演、以洛杉矶为背景的侦探剧上周五开播后拿到 96% 新鲜度和 94% 爆米花指数，并迅速升至苹果站内热门榜前列。",
-              "source_url": "https://9to5mac.com/2026/06/25/apple-tvs-hit-streak-keeps-going-with-latest-show-another-success/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-26T03:59:59+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "ROG XREAL R1 游戏眼镜难替代显示器，但适合作为补充",
+              "brief": "9to5Google评测称，ROG XREAL R1难以完全取代传统显示器，但很适合作为移动游戏以及部分居家使用场景的补充。智能眼镜品类仍很新，市场上既有移动伴侣型，也有专用面部显示设备，XREAL一直更偏向后者。此次与华硕合作的R1在轻量化外形中加入240Hz micro-OLED、双1920×1080光学显示与AR空间追踪，并可调节虚拟屏幕距离。",
+              "source_url": "https://9to5google.com/2026/06/25/rog-xreal-r1-gaming-glasses-review/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-26T07:00:00+08:00"
+            },
             {
               "title": "Google 开始推送 Fitbit Air 首个固件更新",
               "brief": "Google 正开始向 Fitbit Air 推送首个固件更新，版本为 20001.253.2，Android 应用显示为 67.20001.253.2。这次更新尚未大范围开放，Google 表示内容主要是错误修复与常规改进；新固件可在 Google Health 应用的设备页面收到提示。此前 6 月两次应用更新已修复部分运动追踪与 TCX 导出问题，并将继续改进自动识别运动类型。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/25/oppo-reno-16-bubble-screen/",
               "source_name": "9to5Google",
               "published_at": "2026-06-26T02:10:00+08:00"
-            },
-            {
-              "title": "YouTube Shorts 播放器加入清屏模式和 2 倍速，移除点踩按钮",
-              "brief": "YouTube宣布更新Shorts播放器，新增可暂时隐藏图标和文字的“清屏”模式，并加入2倍速播放，同时调整静音与互动入口。背景是平台称这些改动回应用户对更沉浸观看和更细化控制的需求。此次还把点赞图标改为心形，移除点踩按钮，改用“不推荐此频道”和“不感兴趣”等选项来帮助调整信息流，更新已从今天开始推送。",
-              "source_url": "https://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-26T01:25:11+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Notion Mail 将停运，但 Gmail 收件箱不受影响",
+              "brief": "Notion 宣布将于2026年9月22日关闭 AI 邮件客户端 Notion Mail，结束其重塑 Gmail 工作流的尝试。该产品曾提供自定义收件箱视图、筛选分组、AI 标签、片段复用和应用内安排会议等功能，但始终只支持 Gmail 与 Google Workspace。官方提醒现有用户在停服前导出视图、标签、片段和通知偏好等设置。",
+              "source_url": "https://www.androidauthority.com/notion-mail-is-shutting-down-3681674/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-26T06:58:52+08:00"
+            },
+            {
               "title": "我们最推荐的 2026 Prime Day 优惠汇总",
               "brief": "亚马逊Prime Day 2026已开启，Android Authority从大量促销中筛选出目前最值得关注的科技优惠，并汇总了智能家居、可穿戴设备、平板和耳机等品类。由于折扣密集且信息噪声很大，读者需要分辨真正划算的报价，而许多优惠还需Prime会员资格，不过新用户通常可获30天试用。文中重点提到Beatbot AquaSense 2 Pro泳池清洁机器人，价格从2299美元降至1699美元，主打5合1清洁与自动投放澄清剂功能。",
               "source_url": "https://www.androidauthority.com/best-prime-day-deals-2026-3676073/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/skullcandy-crusher-evo-prime-deal-3681656/",
               "source_name": "Android Authority",
               "published_at": "2026-06-26T05:05:50+08:00"
-            },
-            {
-              "title": "YouTube Shorts 修复多项恼人体验问题",
-              "brief": "YouTube 正在为 Shorts 推出一组观看体验更新，随着不少 Shorts 内容已不再只是几十秒，平台重点解决界面拥挤和操作不顺的问题。新增“清屏”模式后，字幕、按钮和账号图标可临时隐藏；同时加入 2 倍速播放，并更新点按暂停、快速静音、心形图标及“无兴趣”“别推荐此频道”等推荐控制。",
-              "source_url": "https://www.androidauthority.com/youtube-shorts-new-features-2-3681602/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-26T04:39:39+08:00"
             }
           ]
         },
@@ -249,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "今年 Prime Day 的苹果产品优惠是我见过最划算的一次",
+              "brief": "亚马逊2026年Prime Day进入第三天，多款苹果产品折扣仍在，苹果手表、耳机和平板都还有不错价格。由于苹果近期上调了部分Mac和iPad售价，这可能是涨价全面反映前较后的入手机会，而部分零售商仍按旧建议零售价打折，让优惠幅度显得更大。文中提到，Apple Watch Series 11已降至新低，AirPods Pro 3售179美元，最新iPad Air也仍保持涨价前的折扣水平。",
+              "source_url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+              "source_name": "The Verge",
+              "published_at": "2026-06-25T19:04:23-04:00"
+            },
+            {
               "title": "Android 17 的新折叠屏游戏模式或让翻盖手机更好玩",
               "brief": "谷歌计划在未来几个月随Android 17推出折叠屏专用游戏模式，让用户把半边屏幕变成带触控键位的虚拟手柄，以便在折叠形态下更容易玩游戏。该功能在系统层模拟实体按键，适用于支持实体控制器的游戏，内含方向键、左右摇杆、ABXY、L1至L3、R1至R3和开始键，还能调整摇杆排布与按键大小。",
               "source_url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
               "source_name": "The Verge",
               "published_at": "2026-06-25T17:23:47-04:00"
-            },
-            {
-              "title": "在涨价前入手折扣 Xbox 主机",
-              "brief": "微软宣布将于8月上调全部Xbox机型售价，这是不到一年内第二次调价，背后是内存价格持续攀升，对汽车和计算设备等行业都造成压力。赶在涨价前，Prime Day已出现Series S和Series X优惠，其中带光驱的Xbox Series X现售573美元，低于650美元原价，而新售价很快将升至800美元。",
-              "source_url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-25T16:18:47-04:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《塔拉迪加之夜》导演透露被取消续集的剧情",
+              "brief": "亚当·麦凯透露，《塔拉迪加之夜》原本几乎要拍续集，剧情会让瑞奇·鲍比加入F1车队并赴丹麦或荷兰比赛。这一方向延续首部的赛车喜剧框架，同时把角色放进欧洲社会环境中，除了适应更快的F1赛车，他还会因全民医疗等制度与更偏左的政治氛围产生冲突，但团队拍完首作后过于疲惫，最终转去制作规模更小的《Step Brothers》。",
+              "source_url": "https://www.ign.com/articles/talladega-nights-director-reveals-the-plot-of-the-films-cancelled-sequel",
+              "source_name": "IGN",
+              "published_at": "2026-06-26T08:52:47+08:00"
+            },
+            {
+              "title": "罗伯特·艾格斯历史恐怖片《Werwulf》首曝造型与剧情细节",
+              "brief": "罗伯特·艾格斯在首次谈及《Werwulf》时透露，这部历史恐怖片讲述13世纪一名农夫变成狼人，并试图通过爱情寻求救赎。影片由亚伦·泰勒-约翰逊饰演受诅咒的主角，莉莉-罗丝·德普饰其妻子兼孩子的母亲，威廉·达福出演猎人；全片采用中古英语对白，以35毫米胶片拍摄，并通过后期处理营造独特质感。",
+              "source_url": "https://www.ign.com/articles/robert-eggers-werwulf-first-look-story-details",
+              "source_name": "IGN",
+              "published_at": "2026-06-26T08:37:10+08:00"
+            },
             {
               "title": "Valve 现称 Steam Machine“最高可达”4K",
               "brief": "Valve已更新Steam Machine商店页，把原先“借助FSR以4K 60帧运行游戏”的说法改成“借助FSR 4.1最高可达4K游戏”。这次改口出现在围绕其宣传与实际表现的讨论升温之后，背景是测试显示机器需要调低设置才可能接近目标，且《死亡搁浅2》等游戏无法稳定达到该水平；在《007 First Light》4K测试中，其平均约50帧，也低于PS5和Xbox Series X的锁定60帧表现。",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/microsoft-announces-significant-price-rises-for-xbox-series-x-and-s-2tb-model-discontinued",
               "source_name": "IGN",
               "published_at": "2026-06-26T00:47:35+08:00"
-            },
-            {
-              "title": "《Deltarune》第6章将于2027年推出，第5章刷新Steam在线纪录",
-              "brief": "《Deltarune》第5章发布后迅速带动Steam同时在线人数创下新高，开发者托比·福克斯随后确认第6章目标于2027年推出。这款问世近十年的独立游戏热度仍在上升，故事也未在第5章结束；官方FAQ称峰值已从13.392万升至29.0973万，并会定期公布开发进展，福克斯此前还表示第6章开发顺利。",
-              "source_url": "https://www.ign.com/articles/deltarune-chapter-6-will-release-in-2027-chapter-5-shatters-concurrent-player-records-on-steam",
-              "source_name": "IGN",
-              "published_at": "2026-06-25T23:54:18+08:00"
-            },
-            {
-              "title": "奥利维亚·罗德里戈今日加入《堡垒之夜》",
-              "brief": "流行歌手奥利维亚·罗德里戈已于今日加入《堡垒之夜》，玩家现在可在大逃杀岛上遇到她的游戏角色，并在商店刷新后购买相关内容。此举延续了《堡垒之夜》持续引入音乐明星联动的策略；玩家到访角色所在地点可领取部分免费外观，商店还会上架两套受其音乐视频造型启发的皮肤、表情动作和Festival模式曲目。",
-              "source_url": "https://www.ign.com/articles/drop-dead-singer-olivia-rodrigo-joins-fortnite-today",
-              "source_name": "IGN",
-              "published_at": "2026-06-25T23:42:23+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "《俄罗斯方块》与魔方首次推出联名益智玩具",
-              "brief": "MegaHouse推出联名益智玩具Rubik's Tetris，这是《俄罗斯方块》与魔方代表作创作者首次进行正式品牌合作。两大经典自上世纪八十年代前后走红后持续衍生新版本与玩法，这次新品把七种tetromino融入3×3魔方面，目标从单色复原改为让各面呈现不同方块图形，产品已在多家零售渠道上市，定价15美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1566856.htm",
+              "title": "《GTA6》发售前，有Xbox玩家用11万积分免费换购",
+              "brief": "有Xbox玩家在微软奖励计划中用11万积分兑换100美元礼品卡，准备在《GTA6》发售前“零元购”游戏。该作预购已在微软商店等渠道开启，11月19日首发阶段仅提供数字下载，没有实体光盘。按现行规则，礼品卡有效期90天，积分可通过Bing搜索、每日签到和问答活动累计，微软自2026年4月起也已支持直接兑换Xbox游戏购买。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566930.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-26T00:02:10+08:00"
+              "published_at": "2026-06-26T10:47:33+08:00"
             },
             {
-              "title": "极星因“网联汽车规则”被禁在美销售新电动车",
-              "brief": "美国商务部以“网联汽车规则”为由驳回极星的例外授权申请，导致其新款电动车无法继续在美销售。该规则限制使用中国软硬件的车辆进入美国市场，监管收紧使合规不确定性上升。极星称将继续销售现有库存的Polestar 3和Polestar 4，并维持售后服务，同时把更多战略投入转向欧洲市场。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566854.htm",
+              "title": "调查称超八成玩家会买《GTA6》终极版",
+              "brief": "一项截至发稿共有7112人参与的投票显示，81.2%的玩家表示会购买售价100美元的《GTA6》终极版，选择标准版的仅占18.8%。这一结果与围绕80美元定价的持续争议形成反差，原因在于终极版附带5家专属商店、支线任务和武器等独占内容。实体版同样不含光盘，但标准版用户之后仍可随时补差价升级。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566928.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-26T00:00:38+08:00"
+              "published_at": "2026-06-26T10:47:26+08:00"
             },
             {
-              "title": "IBM发布7埃亚1纳米芯片技术与Nanostack架构",
-              "brief": "IBM公布全球首个亚1纳米芯片技术，采用7埃节点和名为Nanostack的三维纳米片晶体管架构。公司称，相比2纳米工艺，新技术最高可提升50%性能或70%能效，面向生成式AI、云基础设施和下一代电子设备。IBM还表示，该架构已完成多项器件与集成验证，最早有望在未来5年走向亚1纳米应用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566852.htm",
+              "title": "LABUBU新品“复古理发店”遇冷：常规款开售半小时跌超30%",
+              "brief": "泡泡玛特LABUBU新品“复古理发店”开售后出现少见降价，多个常规款在半小时内成交价跌破发售价，部分跌幅超过30%。与此前系列普遍抢购和高溢价不同，这次市场反应明显分化，隐藏款“迷雾白噪音”虽从159元涨到879元，但整体热度弱于过往爆款。该系列主打可梳理、编发和改造造型，也引发“更有参与感”与“造型诡异”的两极评价。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566926.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-26T00:00:02+08:00"
+              "published_at": "2026-06-26T10:45:53+08:00"
             },
             {
-              "title": "拜耳赢得最高法院诉讼 农达草甘膦索赔门槛提高",
-              "brief": "美国最高法院作出有利于拜耳的判决，大幅提高围绕孟山都农达草甘膦“未充分警示致癌风险”的诉讼门槛。法院认为，美国环保署已认定按规定使用草甘膦属安全，且联邦监管要求优先于各州额外标签义务。拜耳表示，现有同类索赔将被驳回，未来再以警示缺失为由起诉也将更困难。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566850.htm",
+              "title": "《GTA6》实体激活码分三种版本，仅限对应国家使用",
+              "brief": "《GTA6》实体激活码被发现分为三种区域版本，且只能在对应国家或地区使用。由于本作首发以数字下载为主，这类实体版实质上更像附带代码的包装版本，也让跨区购买变得麻烦。报道提到，玩家可选择使用对应区域账号、直接在当地数字商店购买，或等待后续可能推出的含光盘完整实体版及PC版；游戏将于2026年11月19日登陆PS5和Xbox Series X|S。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1566924.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-25T23:57:07+08:00"
+              "published_at": "2026-06-26T10:13:31+08:00"
             },
             {
-              "title": "R星确认《GTA6》实体光盘版将晚于首发推出",
-              "brief": "R星确认《GTA6》实体光盘版不会与首发同步，而是将在游戏上市数月后再推出。该消息直接回应了此前围绕实体版安排的讨论，也让等待收藏版或光盘版的玩家需要继续观望。报道显示，不少玩家认为R星和Take-Two本应更早说明销售计划，但公司此前一直未作清晰表态，因此引发不满。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1566848.htm",
+              "title": "美媒称Google流失多位AI人才，主因仍是薪酬与股权",
+              "brief": "美媒称，Google近期流失多位AI人才，原因未必只是战略分歧，更直接的驱动力可能是财富机会。与市值已高、主要以限制性股票激励员工的谷歌相比，Anthropic和OpenAI等创业公司更能提供IPO前股权，吸引研究人员押注更大的上涨空间。报道还以Character.AI联合创始人沙泽尔为例，说明AI热潮中的跳槽可能带来数亿美元级别回报。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1566922.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-25T23:56:26+08:00"
+              "published_at": "2026-06-26T10:13:23+08:00"
             }
           ]
         },
@@ -440,39 +440,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "美股三大指数收盘涨跌不一，美光科技涨超15%",
-              "brief": "美股周四收盘涨跌不一，道指涨0.14%，标普500指数微跌0.01%，纳指跌0.46%。盘面上，大型科技股表现分化，芯片股整体走强，热门中概股则普遍下跌，市场风格较为分散。个股方面，闪迪涨超21%，美光科技涨超15%；苹果跌超6%，微软、亚马逊跌超3%，Meta跌超2%，英伟达跌超1%，阿里巴巴和理想汽车跌超4%。",
-              "source_url": "https://36kr.com/newsflashes/3869177883464966?f=rss",
+              "title": "现货黄金再度失守4000美元/盎司",
+              "brief": "现货黄金在6月26日盘中再次跌破4000美元/盎司整数关口，重新回到这一重要价位下方。报道将此次变化概括为“再度失守”，说明金价未能维持在4000美元之上，围绕关键关口的波动仍在延续。36氪披露的最新数据显示，现货黄金日内跌幅为0.68%。原文仅提供盘中价格与跌幅信息，未进一步说明下跌原因、成交情况或其他市场背景。",
+              "source_url": "https://36kr.com/newsflashes/3869413587473409?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-26 07:00:00  +0800"
+              "published_at": "2026-06-26 10:51:02  +0800"
             },
             {
-              "title": "热门中概股盘前普跌，阿里巴巴跌逾2%",
-              "brief": "36氪获悉，美股盘前热门中概股普遍下跌，阿里巴巴与理想汽车跌幅都超过2%，处于跌幅靠前位置。盘前行情显示中概板块整体承压，主要公司多数走弱，表现偏弱，仅个别股票小幅上扬。截至发稿，京东、拼多多、哔哩哔哩和小鹏集团均跌超1%，百度跌0.85%，蔚来逆势涨0.18%。",
-              "source_url": "https://36kr.com/newsflashes/3868593864070402?f=rss",
+              "title": "沪指跌超2%",
+              "brief": "6月26日A股主要指数盘中集体走弱，沪指跌幅超过2%，市场整体承压明显。与此同时，深成指跌超2.7%，创业板指跌3.3%，表明调整并非局部现象，而是三大指数同步回落。36氪援引盘面数据称，全市场下跌个股超过4500只，意味着当日绝大多数个股收于下行区间，盘面呈现较明显的普跌格局，下跌覆盖范围较广。",
+              "source_url": "https://36kr.com/newsflashes/3869412898215171?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-25 20:57:10  +0800"
+              "published_at": "2026-06-26 10:50:20  +0800"
             },
             {
-              "title": "美股大型科技股盘前分化，美光科技涨逾18%",
-              "brief": "36氪获悉，美股大型科技股盘前走势分化，美光科技涨幅超过18%，领涨主要科技公司。盘前交易显示，大型科技股并未形成统一方向，涨跌表现明显分化。截至发稿，康宁和英特尔均涨超6%，SpaceX涨超2%，英伟达涨超1%，特斯拉涨0.28%；谷歌跌超1%，苹果跌0.6%，微软跌0.59%，亚马逊跌0.44%。",
-              "source_url": "https://36kr.com/newsflashes/3868590000706568?f=rss",
+              "title": "国家能源局：“十五五”时期预计全国年均用电增量将达6000亿度左右",
+              "brief": "国家能源局在国新办新闻发布会上预计，“十五五”时期全国年均用电增量将达到6000亿度左右。作出这一判断的背景是算力用电快速攀升、电动充电设施需求明显增加，以及其他行业和居民生活用电保持刚性增长。国家能源局电力司司长杜忠明表示，这一新增规模相当于我国每年新增一个中等经济体量国家的用电水平，反映未来电力需求仍将持续扩张。",
+              "source_url": "https://36kr.com/newsflashes/3869409424823299?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-25 20:53:15  +0800"
+              "published_at": "2026-06-26 10:46:48  +0800"
             },
             {
-              "title": "苹果：AI数据中心快速扩张推高内存需求",
-              "brief": "苹果公司表示，人工智能数据中心的快速扩张正推动内存需求激增。公司将这一变化与AI数据中心持续扩容联系起来，称相关建设速度之快，已明显改变零部件市场供需。苹果进一步指出，其从未见过某个零部件价格出现如此大幅且快速的上涨，当前整个电子产品行业正面临前所未有的挑战。",
-              "source_url": "https://36kr.com/newsflashes/3868586020066566?f=rss",
+              "title": "国家能源局：“十五五”时期将做好化石能源“开发”和“储备”，显著提升非化石能源供给",
+              "brief": "国家能源局表示，“十五五”时期在能源需求仍将持续增长的背景下，将把能源安全置于首位。具体安排包括推进煤炭基地建设、加大油气国内勘探开发力度、稳定石油产量并增加天然气供应，同时健全油气储备体系，完善煤炭及煤制油气产能和技术储备。王宏志还提到，后续将显著提升非化石能源供给，并继续扩大能源合作朋友圈。",
+              "source_url": "https://36kr.com/newsflashes/3869401539335426?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-25 20:49:12  +0800"
+              "published_at": "2026-06-26 10:38:47  +0800"
             },
             {
-              "title": "零跑D99上市，售价24.98万元起",
-              "brief": "零跑汽车宣布，旗舰D平台首款MPV零跑D99正式上市，售价区间为24.98万至31.98万元。作为该平台首款MPV，新车提供增程和纯电两套动力方案，官方同步披露了电池与续航信息。其中增程版搭载80.3kWh增程专属宁德时代磷酸铁锂电池，CLTC纯电续航最高可达480公里。",
-              "source_url": "https://36kr.com/newsflashes/3868583964169477?f=rss",
+              "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
+              "brief": "国家能源局局长王宏志在国新办发布会上表示，我国电力装机规模目前已突破40亿千瓦，预计到2030年将达到54亿千瓦。这一判断对应的结构变化是，届时新能源装机比重将超过50%，成为电力装机主体，非化石能源发电量比重也将达到50%，成为电量主体。按照其表述，到2030年前后煤炭和石油消费还将实现达峰。",
+              "source_url": "https://36kr.com/newsflashes/3869400282895369?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-25 20:47:06  +0800"
+              "published_at": "2026-06-26 10:37:30  +0800"
             }
           ]
         },
@@ -480,39 +480,79 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为与湖北移动完成运营商首个 AI 推理加速方案现网测试，长序列吞吐率最高提升372%",
-              "brief": "华为与湖北移动在现网完成全国运营商首个AI推理加速方案测试，面向8K至190K长序列输入验证效果。背景是长上下文应用受KV Cache容量和高带宽内存限制。该方案通过外置存储提供PB级KV Cache并分层调度，测试中MiniMax M2.5与GLM-5.1的TTFT最高优化93%，TPS最高提升372%。",
-              "source_url": "https://www.ithome.com/0/968/730.htm",
+              "title": "红魔游戏平板 5 Pro 官宣配备 80W 双 USB-C 接口",
+              "brief": "红魔继续预热游戏平板 5 Pro，确认新机配备 80W 双 USB-C 接口，支持反向充电与边充边听。该产品主打高性能游戏场景，官方称可实现“百大游戏无限满帧”，并升级红魔 CUBE 擎天游戏引擎 3.0、2K 144Hz 超分超帧并发和 Steam 直连模式，同时配备 185Hz OLED 屏、S3930 触控芯片与透明水冷散热设计。",
+              "source_url": "https://www.ithome.com/0/968/797.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-26T06:59:59+08:00"
+              "published_at": "2026-06-26T10:47:39+08:00"
             },
             {
-              "title": "古尔曼：苹果调整 Mac 芯片路线，跳过 M6 Pro / Max，转向 AI 导向 M7 系列",
-              "brief": "据古尔曼消息，苹果罕见调整Mac芯片规划，2026年晚些时候的新款MacBook Pro预计只配备标准版M6，不再推出M6 Pro和M6 Max。这反映其研发重心正转向更强调本地AI处理的M7系列。已测试的M6样品据称采用12核GPU、200GB/s内存带宽，并升级内存架构和神经网络引擎，同时苹果仍在酝酿M5 Ultra。",
-              "source_url": "https://www.ithome.com/0/968/729.htm",
+              "title": "《艾尔登法环》利润争议升温，角川 CEO 夏野刚留任",
+              "brief": "围绕《艾尔登法环》爆红后利润释放不足的争议继续发酵，要求撤换管理层的激进股东未能如愿，角川 CEO 夏野刚在股东大会后留任。争议源于股东认为公司没有充分把握作品热度带来的商业机会；角川称将重新审视管理架构、高管薪酬和中期计划，而该作截至 2025 年 4 月累计销量已超 3000 万份，DLC 销量也超 1000 万份。",
+              "source_url": "https://www.ithome.com/0/968/796.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-26T06:56:58+08:00"
+              "published_at": "2026-06-26T10:43:32+08:00"
             },
             {
-              "title": "微软宣布 Xbox 主机 8 月 1 日起全球涨价，2TB 版停产",
-              "brief": "微软宣布自8月1日起在全球上调Xbox主机售价，其中512GB版Xbox Series S涨100美元，2TB版机型停产，Series X与Series S多款配置同步提价。这是一年内第二次调价，微软称全球AI基建推高存储和内存价格，而主机通常低于制造成本销售，受冲击更明显。公司还将提供免息分期、旧机回收和认证翻新机。",
-              "source_url": "https://www.ithome.com/0/968/726.htm",
+              "title": "联合创新发布 49 英寸 32:9 直面超宽显示器 E49M1G / E49M1R",
+              "brief": "联合创新发布两款 49 英寸 32:9 直面超宽显示器 E49M1G 和 E49M1R，主打以单块平面大屏替代多屏拼接，并减少曲面方案带来的画面割裂感。两款产品均采用 VA 面板与 1760 分区 Mini LED 背光，HDR 亮度最高 1000nits，覆盖 100% sRGB；其中 E49M1G 为 3840×1080 144Hz，首发 4699 元，E49M1R 升级到 5120×1440 165Hz，首发 5399 元。",
+              "source_url": "https://www.ithome.com/0/968/795.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-26T00:55:08+08:00"
+              "published_at": "2026-06-26T10:42:05+08:00"
             },
             {
-              "title": "古尔曼称苹果下周或启动返校季促销",
-              "brief": "彭博社记者古尔曼预测，苹果最早将于下周在美国启动今年返校季促销，其他市场可能在9月底或10月跟进。该活动通常面向高校学生和教育工作者，在教育优惠基础上赠送配件或礼品卡。消息出现前一天，苹果刚以存储器涨价为由上调Mac和iPad价格，使这轮促销对准备购机的学生更受关注。",
-              "source_url": "https://www.ithome.com/0/968/725.htm",
+              "title": "小鹏 MONA L03 内饰公布，配双层镀银全景天幕与 26.8 英寸 W-HUD",
+              "brief": "小鹏公布 MONA L03 内饰信息，新车配备双层镀银全景天幕、26.8 英寸 W-HUD 和 15.6 英寸 2.5K 中控屏，进一步展示其座舱配置。官方同时强调舒适与智能化卖点，包括 256 色环抱氛围灯、超跑风格方向盘和前排柔光美妆镜；申报信息显示，该车轴距 2850mm，采用磷酸铁锂电池，电机峰值功率 183kW，最高车速 180km/h。",
+              "source_url": "https://www.ithome.com/0/968/792.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-26T00:42:39+08:00"
+              "published_at": "2026-06-26T10:36:44+08:00"
             },
             {
-              "title": "微软将 Win10 ESU 个人版延长至 2027 年 10 月",
-              "brief": "微软将面向个人用户的Windows 10扩展安全更新ESU再延长一年，已注册设备将自动覆盖到2027年10月12日。Windows 10已在2025年10月14日结束官方支持，ESU仅提供安全修复，不含新功能。符合条件的22H2设备可通过同步PC设置免费开通，也可用1000积分兑换或支付30美元购买，一份授权最多覆盖10台设备。",
-              "source_url": "https://www.ithome.com/0/968/724.htm",
+              "title": "驰为发布 UniBook AI 笔记本：酷睿 3 304、8GB 内存，售价 449 美元",
+              "brief": "驰为推出 UniBook AI 笔记本，搭载英特尔酷睿 3 304 处理器、8GB LPDDR5 内存和 256GB PCIe 3.0 固态硬盘，起售价 449 美元。该机主打本地 AI 能力与轻薄便携，处理器内置 NPU，可在本地完成 AI 改写、实时语音转录和图片生成；同时配备 14 英寸 1920×1200 屏、53.38Wh 电池、65W USB-C 快充，并提供较完整接口。",
+              "source_url": "https://www.ithome.com/0/968/791.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-26T00:15:27+08:00"
+              "published_at": "2026-06-26T10:35:24+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "R星将售《GTA 6》实体盒装版，但内仅含兑换码",
+              "brief": "R星计划自2026年11月12日起发售《GTA 6》实体盒装版，但包装内只有写有正版兑换码和下载链接的卡片，没有光盘或U盘。随着大型联网游戏体积增大、依赖服务器且光盘制造成本偏高，厂商正逐步放弃安装介质，玩家购买后仍需在线下载，预下载同日开放，11月19日正式解锁。",
+              "source_url": "https://www.landian.news/archives/113660.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-26T10:30:19+08:00"
+            },
+            {
+              "title": "美光称已签16份长期供货协议，最低对应收入达1000亿美元",
+              "brief": "美光披露已签署16份DRAM和NAND长期供应协议，按合同最低价格和最低采购量计算，剩余期限内也将带来近1000亿美元收入。内存紧缺促使客户提前锁定产能，签约时还需支付预付款和财务承诺。公司预计可先收220亿美元现金，并称短缺到2027年仍将持续，改善或要等到2028年。",
+              "source_url": "https://www.landian.news/archives/113659.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-26T10:00:19+08:00"
+            },
+            {
+              "title": "微软更新Surface购买指南，称8GB内存适合日常使用",
+              "brief": "微软更新Surface购买指南，将8GB内存描述为适合浏览网页、看视频、做作业和运行办公软件。此前微软曾强调Windows 11设备至少配16GB内存才能获得更好体验，但在内存价格上涨背景下，新款Surface Laptop 13、Surface Pro 12及部分商用机型仍采用8GB配置，微软也在继续优化系统占用。",
+              "source_url": "https://www.landian.news/archives/113658.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-26T09:30:18+08:00"
+            },
+            {
+              "title": "Anthropic称Claude Fable 5尚未恢复，相关显示系前端错误",
+              "brief": "多名用户近日称在Claude中重新看到了并可选择Fable 5，相关截图和视频一度引发模型回归猜测。随后Anthropic员工表示，这其实是前端界面显示错误，现已修复，当前选择该模型会提示不可用。此前在美国政府发布出口管制指令后，合作伙伴已下架该模型，官方目前仍未给出恢复上线时间表。",
+              "source_url": "https://www.landian.news/archives/113657.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-26T09:00:17+08:00"
+            },
+            {
+              "title": "苹果多条产品线上调售价，入门版 M4 Mac mini 涨 1500 元",
+              "brief": "苹果在临时下线并恢复在线商店后，上调了 Mac、MacBook、iPad、Apple TV、HomePod 与 Vision Pro 等多条产品线售价。此次调价背景是苹果 CEO 此前提到内存供应短缺、价格飙升，公司需要通过涨价平衡成本。其中国行入门版 M4 Mac mini 从 4499 元涨到 5999 元，美区 Apple TV 涨幅最高达 54.26%，iPhone 暂未调价。",
+              "source_url": "https://www.landian.news/archives/113656.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-26T08:30:18+08:00"
             }
           ]
         }
