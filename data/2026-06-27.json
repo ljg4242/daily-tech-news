@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T13:00:00.983691+08:00",
+  "generated_at": "2026-06-27T14:57:24.233477+08:00",
   "sections": [
     {
       "category": "主要",
@@ -372,39 +372,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Linux 漏洞 DirtyClone 披露：可提权至 root 最高权限",
-              "brief": "Linux 内核漏洞 DirtyClone 已被披露，严重性评分为 CVSS 8.8，攻击者在先取得本地访问权限后，可借此提权到 root，在部分场景还可能实现容器逃逸。问题源于内核处理 socket buffer fragments 后未完整保留相关内存标记，导致后续代码误判可直接修改，并可在特定条件下改动由 root 拥有的只读文件页缓存数据。Ubuntu 已向多个受支持版本通用内核推送修复，Debian 和 Red Hat 也已跟进关注。",
-              "source_url": "https://www.ithome.com/0/969/340.htm",
+              "title": "深光影像 AF 35mm F2.2 CE 全画幅复古镜头开售",
+              "brief": "深光影像 AF 35mm F2.2 CE 复古设计全画幅镜头现已开售，首发提供尼康 Z 卡口，售价 739 元起。这款产品面向全画幅相机用户，主打复古外观与自动对焦能力。文中列出的参数显示，镜头采用多片镜片结构，配备 9 片光圈叶片，最近对焦距离 0.35 米，目前已在京东上架。",
+              "source_url": "https://www.ithome.com/0/969/362.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-27T12:51:30+08:00"
+              "published_at": "2026-06-27T14:49:02+08:00"
             },
             {
-              "title": "开源电子书管理工具 Calibre 9.10 发布",
-              "brief": "Calibre 9.10 已发布，带来界面调整，并继续增强书籍编辑与书库浏览体验。此次更新围绕电子书管理、内容访问和格式兼容性展开，方便用户在浏览器与桌面、移动端之间切换使用。新版本为内容服务器加入 PWA 支持，书籍编辑器新增基于关键词的搜索筛选，图片压缩工具可将 PNG 转为 JPEG 或 WEBP，CSS 解析器也开始支持 CSS Level 4 选择器。",
-              "source_url": "https://www.ithome.com/0/969/339.htm",
+              "title": "《星露谷物语》作者解释《闹鬼的巧克力店》迟迟未正式公布原因",
+              "brief": "《星露谷物语》作者埃里克·巴隆解释称，新作《闹鬼的巧克力店》虽然早在 2020 年就已启动开发，但至今仍未正式官宣和发售。原因在于他坚持把玩家会频繁接触的系统打磨到足够流畅、清晰、直观且美观。巴隆举例说，连配方书的点击次数和信息展示方式都会反复推敲，希望最终体验不只舒适，还能让玩家感到惊喜。",
+              "source_url": "https://www.ithome.com/0/969/361.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-27T12:39:35+08:00"
+              "published_at": "2026-06-27T14:47:23+08:00"
             },
             {
-              "title": "B站 17 周年庆：陈睿称社区是优质内容最好的土壤",
-              "brief": "B站迎来 17 周年庆，董事长兼 CEO 陈睿表示，社区是优质内容最好的土壤，优质内容是平台持续增长最有效的方式。相关表态放在 B站近年经营改善与用户增长背景下，强调平台将继续服务好 UP 主和社区生态。IT之家援引数据称，B站 2025 财年净营业额达 303.5 亿元，同比增长 13%，净利润 11.9 亿元实现首次扭亏为盈，今年第一季度日活 1.15 亿、月活 3.76 亿。",
-              "source_url": "https://www.ithome.com/0/969/337.htm",
+              "title": "梅赛德斯-AMG C 级纯电高性能版原型车路测图曝光",
+              "brief": "梅赛德斯-AMG C 级高性能纯电版原型车路测图曝光，外观与今年 4 月发布的标准版 C-Class Electric 接近，但换上了全封闭式 Panamericana 格栅和更接近 AMG Line 的前杠。测试车还配备轻量化轮圈、高性能制动系统、通风刹车盘和金色卡钳。官方尚未公布动力参数，报道提到新车或采用三电机布局，功率约 789 马力。",
+              "source_url": "https://www.ithome.com/0/969/360.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-27T12:00:25+08:00"
+              "published_at": "2026-06-27T14:45:00+08:00"
             },
             {
-              "title": "外媒测试称 AMD FSR 4.1 在 RDNA 3 显卡上最多比 3.1 慢 14.5%",
-              "brief": "外媒在多款 AMD RDNA 3 显卡上测试发现，FSR 4.1 超分性能低于 FSR 3.1，差距最高约 14.5%。测试覆盖 Radeon RX 7900 XTX、RX 7800 XT、RX 7600，并加入 RX 9070 XT 的 FSR 4.1 数据，用于比较不同模式下的帧率表现。几何平均结果显示，RX 7900 XTX 上 FSR 4.1 质量模式较 3.1 低 11%，性能模式低约 14.5%，RX 7800 XT 和 RX 7600 上也分别落后约 7% 至 9%。",
-              "source_url": "https://www.ithome.com/0/969/336.htm",
+              "title": "华硕推出 ROG 八爪鱼 7 路由器 20 周年限定版",
+              "brief": "华硕推出 ROG 八爪鱼 7 路由器 20 周年限定版，首发价 4899 元，主打纪念版外观设计与高规格网络配置。这款产品支持 WiFi 7，三频并发无线速率可达 13000Mbps，并配备双 10G 与四个 2.5G 网口。其还搭载博通 4 核 2.6GHz 处理器、2GB DDR4 内存，支持 AiMesh 组网、多种游戏加速和 AI 安全防护功能。",
+              "source_url": "https://www.ithome.com/0/969/359.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-27T11:49:58+08:00"
+              "published_at": "2026-06-27T14:40:24+08:00"
             },
             {
-              "title": "阿里千问输入法上线 macOS 版",
-              "brief": "阿里千问输入法现已上线 macOS 版，主打语音输入速度与 AI 自动润色能力，并强调支持方言、纯净无广告。此举意味着千问继续推进输入法方向的产品布局，从既有语音输入能力延伸到更独立的使用形态。报道提到，千问官网显示其今年 5 月已在千问 App 内上线语音输入组件，支持去语气词、纠错、格式化整理、基于上下文智能回复，以及直接执行创作、问答和翻译等指令。",
-              "source_url": "https://www.ithome.com/0/969/334.htm",
+              "title": "铁威马 F4-425 Pro NAS 开售",
+              "brief": "铁威马 F4-425 Pro NAS 现已开售，提供酷睿 i3-N305 和 i3-N350 两种处理器版本，售价 3799 元起。这款设备配备 4 个 3.5 英寸 SATA 盘位和 3 个 PCIe 3.0×1 M.2 固态盘位，最大存储容量可达 152TB。接口方面提供双 5GbE、多个 10Gbps USB 接口和 HDMI，并运行支持自然语言交互的 TOS 7 系统。",
+              "source_url": "https://www.ithome.com/0/969/358.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-27T11:39:06+08:00"
+              "published_at": "2026-06-27T14:37:47+08:00"
             }
           ]
         },
@@ -412,45 +412,59 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "SpaceX为第13次星舰试飞做地面准备，Ship 40完成单发静态点火",
+              "brief": "SpaceX已为星舰第13次综合试飞展开地面准备，作为上面级的Ship 40完成一次单台猛禽3发动机静态点火。此举主要用于发射前确认发动机可工作，背景是V3版本首次飞行后仍有故障待排查，星舰也尚未真正进入轨道。此次燃烧约15秒，后续还需完成飞船6机和超重型助推器33机测试，相关能力也关系到NASA阿耳忒弥斯登月计划。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567042.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-27T13:48:39+08:00"
+            },
+            {
+              "title": "苹果游说特朗普政府放行长鑫存储芯片采购",
+              "brief": "据《金融时报》，苹果正正式游说特朗普政府，争取获准向仍在美方黑名单上的长鑫存储大规模采购DRAM。背景是内存与闪存价格持续走高，12GB LPDDR5X合约价自2025年一季度以来约涨三倍，并推升多条产品线成本。苹果希望借CXMT扩产带来的新增供给，削弱三星、SK海力士和美光在高端存储上的议价优势。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567040.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-27T13:44:23+08:00"
+            },
+            {
+              "title": "英伟达登顶数据中心以太网交换机市场，一季度份额升至21.5%",
+              "brief": "IDC数据显示，英伟达在2026年第一季度跃居数据中心以太网交换机市场第一，其相关业务营收达21亿美元，市场份额升至21.5%。背景是AI训练和推理推动高速网络投资升温，超大规模云与企业数据中心需求集中爆发。核心驱动力来自面向大规模GPU集群的Spectrum-X平台，800G交换机已占行业收入35.8%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567038.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-27T13:43:04+08:00"
+            },
+            {
+              "title": "美国仅向白名单机构恢复开放Claude Mythos 5",
+              "brief": "Anthropic称，美国政府已允许其向少数在美国运营和维护基础设施的组织恢复提供Claude Mythos 5，但范围仅限白名单机构。此前因出口管制要求，公司曾在全球暂停提供Claude Fable 5和Claude Mythos 5。现阶段普通开发者和大多数机构仍无法访问，Claude Fable 5的恢复时间表也尚未公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567036.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-27T13:42:23+08:00"
+            },
+            {
               "title": "消息称 SpaceX 筹划在美国推出面向消费者的 Starlink 地面蜂窝服务",
               "brief": "报道称，SpaceX正评估在美国推出自有品牌Starlink移动服务，从仅为T-Mobile提供卫星连接的合作方，转向直接面向消费者。背景是其正通过频谱收购和卫星短信测试扩展移动布局，相关EchoStar频谱交易已获FCC于2026年5月批准，但预计到2027年底才完成，套餐与商用时间仍未公布。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1567034.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-27T11:48:43+08:00"
-            },
-            {
-              "title": "福特高管称用 AI 取代资深工程师是错误决定",
-              "brief": "福特高管表示，试图用AI取代资深工程师是重大失误，公司已重新聘回老工程师主导质量排查和工具重编程。背景是福特曾因质量问题和召回损失数十亿美元，并计划削减成本；调整后，公司在最新J.D. Power新车质量调查中升至主流品牌第一，超过丰田和本田。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567032.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-27T11:47:58+08:00"
-            },
-            {
-              "title": "Steam Machine 首个仿制产品出现：同价但性能更强",
-              "brief": "与Steam Machine定价相同的“Stim Machine”作为首个仿制产品出现，采用现成PC组件，CPU和独显性能更强。背景是Steam Machine因性能受限长期受批评，但Valve为小体积和散热压低了功耗。报道指出，后者仍保留HDMI CEC联动电视、SteamOS软硬件整合和免维护等主机式体验，普通PC暂难完全复制。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1567030.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-27T11:43:01+08:00"
-            },
-            {
-              "title": "本田 2025 财年净亏损 4239 亿日元，上市 69 年来首次亏损",
-              "brief": "本田公布2025财年净亏损4239亿日元，创上市69年来首次年度亏损，主要源于纯电战略调整带来的巨额一次性损失。背景是公司已取消原定在北美投放的三款纯电车型，相关研发、减值和赔偿两财年合计达2.5万亿日元；其营业收入仍微增，现金储备维持在5.12万亿日元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567028.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-27T11:42:48+08:00"
-            },
-            {
-              "title": "Valve 希望降低 Steam 主机售价，但短期内难降价",
-              "brief": "Valve表示希望让Steam Machine更便宜，但工程师称短期内几乎看不到降价希望。背景是这款纯PC架构游戏主机入门价已达1049美元，而当前内存短缺推高了硬件成本。公司称产品目标并非维持高价，不过业内判断供应紧张可能延续到2027年，2028年才会逐步缓解。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1567026.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-27T11:42:19+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "iOS 捷径可一键启动 Codex，无需先进入 ChatGPT",
+              "brief": "有开发者制作了适用于 iOS 的 Codex 捷径，用户点击后可直接跳转到 ChatGPT 内的 Codex 页面，省去先打开 ChatGPT 再从菜单进入的步骤。由于 Codex 目前没有独立移动客户端，手机端只能经由 ChatGPT 加载，这让不常使用聊天功能的开发者操作更繁琐。文章同时提供捷径与 Logo 下载地址，并说明编辑捷径、添加到主屏幕和更换图标的设置流程。",
+              "source_url": "https://www.landian.news/download/113719.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-27T14:36:28+08:00"
+            },
+            {
+              "title": "OpenAI 推出 GPT-5.6，仅向少数合作伙伴开放预览",
+              "brief": "OpenAI 发布新的旗舰系列模型 GPT-5.6，但目前仅向少数企业和机构提供有限预览权限。原因是美国政府要求其在开放前进行限制，并向政府报告获准参与预览的机构情况，因此普通开发者短期内可能还无法使用。该系列分为 Sol、Terra、Luna 三个版本，分别对应旗舰、均衡和快速低价定位，OpenAI 预计未来几周将逐步扩大开放范围。",
+              "source_url": "https://www.landian.news/archives/113689.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-27T13:09:50+08:00"
+            },
             {
               "title": "Codex向所有订阅用户补偿1次重置机会，可在30天内使用",
               "brief": "OpenAI向所有Codex付费订阅用户补偿1次重置机会，以弥补此前订阅系统混乱导致的配额异常。该故障持续超过20小时，部分ChatGPT Pro和Plus用户在未收到封禁通知的情况下，被错误降到接近免费版的使用额度，官方称原因可能与滥用和欺诈防护机制误判有关；新增重置机会不会立即生效清空，而是保留30天供用户在额度耗尽后手动使用。",
@@ -471,20 +485,6 @@
               "source_url": "https://www.landian.news/archives/113686.html",
               "source_name": "蓝点网",
               "published_at": "2026-06-27T11:00:45+08:00"
-            },
-            {
-              "title": "Codex 移动端远程控制正式上线，旧配对设备需重新授权",
-              "brief": "OpenAI宣布Codex移动端远程控制结束测试并正式上线，面向所有用户开放使用，同时调整了设备配对与授权流程。由于远程访问改为手机与桌面主机一对一二维码认证，6月9日前已配对但并非活跃连接的设备可能掉线，用户需将ChatGPT移动版和Codex升级到最新版后重新扫码配对；该功能支持桌面版，也可通过桌面版经SSH中转控制CLI版。",
-              "source_url": "https://www.landian.news/archives/113685.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-27T10:00:46+08:00"
-            },
-            {
-              "title": "微博推出 CLI 服务，支持 AI 智能体批量运营和自动回复",
-              "brief": "新浪微博通过开放平台推出CLI服务，让AI智能体可直接读取内容、发布微博、查询互动数据并回复评论。这项能力主要面向企业矩阵账号运营与舆情响应，采用按月订阅加积分消耗模式，套餐从29元到899元不等；目前文档尚未详细说明积分消耗规则，部分权益对比信息也还不完整。",
-              "source_url": "https://www.landian.news/archives/113668.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-27T09:00:45+08:00"
             }
           ]
         },
