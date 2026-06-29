@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T12:51:03.792064+08:00",
+  "generated_at": "2026-06-29T14:52:04.623204+08:00",
   "sections": [
     {
       "category": "主要",
@@ -193,6 +193,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌翻译或借鉴多邻国的练习连续打卡功能",
+              "brief": "谷歌翻译被发现正在开发安卓主屏幕的“练习连续打卡”小组件，用于显示用户在 Practice 模式中的连续练习天数。背景是谷歌去年把 AI 语言练习工具加入翻译应用，希望像免费导师一样训练口语和听力。该功能来自 10.23.29 版拆包，点击小组件可进入练习，目前仍在开发中。",
+              "source_url": "https://www.androidauthority.com/google-translate-practice-widget-android-3682119/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-29T14:46:36+08:00"
+            },
+            {
+              "title": "提醒：三星信息即将停用",
+              "brief": "三星确认 Samsung Messages 将在 2026 年 7 月停用，仍在使用的 Galaxy 用户需要考虑迁移。三星近年已把新机默认短信应用逐步切换到 Google Messages，原因是后者更广泛支持 RCS。切换通常只需几步，可获得已读回执、输入提示、群聊、表情回应和更高质量媒体分享，消息迁移最多可能需要 24 小时。",
+              "source_url": "https://www.androidauthority.com/samsung-messages-discontinuation-3682074/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-29T13:38:56+08:00"
+            },
+            {
               "title": "Plex 终身通行证将于 7 月 1 日涨至 749.99 美元",
               "brief": "Plex将于7月1日把Lifetime Plex Pass一次性买断价格从249.99美元提高到749.99美元，现价购买窗口只剩两天。公司此前称经常性订阅收入更可持续，因此曾考虑取消终身通行证，最终保留但大幅涨价；已购终身用户不受影响，月费和年费仍为6.99美元、69.99美元。",
               "source_url": "https://www.androidauthority.com/plex-lifetime-pass-price-increase-deadline-approaching-3682068/",
@@ -209,6 +223,20 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "Linux 7.2-rc1 发布",
+              "brief": "Linus Torvalds在内核邮件列表宣布发布Linux 7.2-rc1，标志7.2开发周期进入首个候选版本阶段。本次更新包含Cache Aware Scheduling、性能优化、修复Linux 7.1新增NTFS驱动、完全移除strncpy API，并加入ARCTIC Fan Controller、AMD ISP4及AMDGPU HDMI 2.1 FRL初步支持等。",
+              "source_url": "https://www.solidot.org/story?sid=84703",
+              "source_name": "Solidot",
+              "published_at": "2026-06-29T14:04:26+08:00"
+            },
+            {
+              "title": "币安因未获牌照停止在欧盟提供服务",
+              "brief": "币安已通知欧盟客户，因未能取得在欧盟运营所需牌照，将从下周起停止向其提供服务，这对全球最大加密货币交易所构成重大挫折。背景是欧盟MiCA规定7月1日起加密货币公司须持牌经营，否则面临处罚。币安此前在希腊申请覆盖全欧盟的牌照被拒，距离期限不足两周，现计划转向法国申请。",
+              "source_url": "https://www.solidot.org/story?sid=84701",
+              "source_name": "Solidot",
+              "published_at": "2026-06-29T12:27:17+08:00"
+            },
             {
               "title": "科学家再次尝试编辑人类胚胎",
               "brief": "继哥伦比亚大学团队之后，剑桥大学Kathy Niakan团队报告用单碱基编辑改造人类胚胎DNA，使胚胎基因编辑的伦理讨论更紧迫。研究敲除了编码NANOG蛋白的基因，材料来自科研捐献，胚胎培养约一周；编辑后无法形成完整外胚层，但仍能分化出胎盘和卵黄囊等支撑结构前体细胞。",
@@ -255,6 +283,13 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "微软澄清 WSL 容器不是 WSL3，本周起向 Windows 11 推送",
+              "brief": "微软产品经理澄清，Build 2026 发布的 WSL 容器并非 WSL3，本周将随 Windows 11 可选更新开始推送。此前部分媒体将其称为 WSL3，但微软表示目前并不存在该版本。新功能可让开发者原生创建、运行和管理 Linux 容器，无需 Docker Desktop，支持 wslc.exe、GPU 直通及企业策略管理，正式版预计 7 月 14 日发布。",
+              "source_url": "https://www.landian.news/archives/113694.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-29T13:19:27+08:00"
+            },
+            {
               "title": "苹果下架VK和MAX后，俄罗斯建议用户转向安卓继续使用服务",
               "brief": "苹果近期先后将俄罗斯即时通讯工具MAX和社交应用VKontakte从App Store下架，并禁用通知推送。由于Facebook、WhatsApp、Signal等服务在俄已无法使用，相关应用对当地用户影响较大。VK集团称未收到事前通知且未受制裁，俄罗斯政府要求苹果解释，并建议用户改用安卓继续获得同类服务。",
               "source_url": "https://www.landian.news/archives/113693.html",
@@ -281,13 +316,6 @@
               "source_url": "https://www.landian.news/archives/113690.html",
               "source_name": "蓝点网",
               "published_at": "2026-06-29T09:00:14+08:00"
-            },
-            {
-              "title": "iOS 捷径可一键打开 Codex，减少从 ChatGPT 切换步骤",
-              "brief": "有开发者制作了适用于 Codex 的 iOS 快捷启动捷径，点击后可直接跳转到 ChatGPT 内的 Codex 界面。由于 Codex 目前没有独立移动客户端，移动端只能从 ChatGPT 加载；用户安装捷径、下载图标并添加到主屏幕后，即可用该入口快速启动，文章还提供了捷径和图标下载地址。",
-              "source_url": "https://www.landian.news/download/113719.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-27T14:36:28+08:00"
             }
           ]
         },
@@ -335,39 +363,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "北京太空算力创新中心揭牌，推进星载AI芯片和太空大模型研发",
-              "brief": "北京太空算力创新中心揭牌成立，面向天基算力产业统筹研发与平台建设。该中心将围绕星载AI芯片、高性能算力载荷、智能卫星平台、太空大模型和天地一体云平台组织联合攻关，并建设验证环境、参与标准制定，推动城市治理等场景商业落地。",
-              "source_url": "https://www.ithome.com/0/969/888.htm",
+              "title": "SK集团会长崔泰源：2035年前建设15GW AI数据中心，总投资达1000万亿韩元",
+              "brief": "SK集团会长崔泰源表示，公司将在2035年前建设15GW规模的AI数据中心，相关投资达1000万亿韩元。SK称未来10年每年在韩国投资超100万亿韩元，推动从传统商品出口转向智能服务出口，并在半导体领域扩大供应项目。",
+              "source_url": "https://www.ithome.com/0/969/953.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T12:37:43+08:00"
+              "published_at": "2026-06-29T14:44:15+08:00"
             },
             {
-              "title": "国产技术攻克超深稠油开采难题，地下“黑泥”变原油",
-              "brief": "国产技术在新疆鲁克沁油田攻克超深稠油开采难题，使地下深处的黏稠原油实现规模化开发。该油田埋深大、原油特性复杂，长距离井筒输送热量损耗高，传统热采难以适用；技术突破后，年产量从3万吨提升至80万吨峰值，并连续10年稳产40万吨以上。",
-              "source_url": "https://www.ithome.com/0/969/887.htm",
+              "title": "美国司法部查封近400个非法转播2026年世界杯的域名",
+              "brief": "美国司法部查封近400个涉嫌非法转播2026年世界杯的域名，并称行动仍在继续。由于本届赛事由美国、加拿大、墨西哥联合主办，美国执法机构拥有更明确管辖权；调查显示服务器分布在秘鲁、保加利亚，多国执法部门同步参与取缔。",
+              "source_url": "https://www.ithome.com/0/969/952.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T12:31:34+08:00"
+              "published_at": "2026-06-29T14:43:59+08:00"
             },
             {
-              "title": "消息称苹果2027年产品线已测试iPhone 19 Pro和Ultra 2折叠机型",
-              "brief": "消息称苹果2027年产品线已有多款机型进入开模测试，包括iPhone 19 Pro系列和iPhone Ultra 2阔折叠。相关爆料还提到，2027年上半年低端iPhone预计采用9GB内存，iPhone Air 2或搭载标准版A20芯片；折叠屏iPhone则被称已敲定主要规格并准备量产。",
-              "source_url": "https://www.ithome.com/0/969/886.htm",
+              "title": "三星电子会长李在镕：产能不足以满足AI市场需求，计划在韩国光州建先进封装工厂",
+              "brief": "三星电子会长李在镕表示，公司现有产能已不足以满足AI市场需求，并计划在韩国光州建设先进半导体封装工厂。背景是三星正加大HBM市场投入，试图追赶SK海力士；其客户涵盖英伟达、AMD和谷歌，5月已提供12层HBM4E样品。",
+              "source_url": "https://www.ithome.com/0/969/946.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T12:17:24+08:00"
+              "published_at": "2026-06-29T14:36:45+08:00"
             },
             {
-              "title": "曾卓君夺得EVO 2026《饿狼传说：群狼之城》冠军",
-              "brief": "中国格斗游戏选手“小孩”曾卓君夺得美国EVO 2026《饿狼传说：群狼之城》冠军，赛事官方也发文称赞其表现。曾卓君主要参加《拳皇》《街头霸王》等项目，ID为Xiaohai；他此前在2025年获得Esports Awards年度最佳主机游戏选手，并拿下多个冠军。",
-              "source_url": "https://www.ithome.com/0/969/885.htm",
+              "title": "三星、SK海力士和美光在美国遭集体诉讼，被指人为制造DRAM短缺",
+              "brief": "美国消费者向法院提交集体诉讼，指控三星、SK海力士和美光人为限制DRAM供应、制造短缺并推高内存价格。案件编号为3:26-cv-06345，背景是DRAM价格长期受供需紧张影响；诉状结果仍待观察，现阶段市场价格不会因此停止上涨。",
+              "source_url": "https://www.ithome.com/0/969/945.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T12:07:48+08:00"
+              "published_at": "2026-06-29T14:36:32+08:00"
             },
             {
-              "title": "任天堂香港9月1日起上调Switch 2建议售价至3700港币",
-              "brief": "任天堂香港宣布，自9月1日起将Switch 2游戏机建议售价上调至3700港币，涨幅约7.25%。公司表示，此次调整是受各种市场环境变化影响，并经过对今后全球业务发展性的评估；此前任天堂也已宣布在其他市场上调Switch 2价格。",
-              "source_url": "https://www.ithome.com/0/969/884.htm",
+              "title": "三星Galaxy手机国际漫游专利侵权案在美败诉，被判赔偿300万美元",
+              "brief": "美国得州东区联邦地区法院陪审团认定，三星Galaxy手机的国际漫游技术侵犯Vasu Holdings一项专利，判赔300万美元。案件原涉及多项专利，最终三项进入裁决；其中两项未构成侵权，三星关于涉案8,886,181号专利无效的主张也被驳回。",
+              "source_url": "https://www.ithome.com/0/969/932.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T12:04:19+08:00"
+              "published_at": "2026-06-29T14:31:52+08:00"
             }
           ]
         },
@@ -408,39 +436,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "盛威时代科技股份有限公司递表港交所",
-              "brief": "盛威时代科技股份有限公司已向港交所递交上市申请。输入文本仅保留该递表标题，正文内容混入有道词典笔等其他信息，未提供募资规模、业务范围、保荐人、财务数据或上市进度等进一步细节。",
-              "source_url": "https://36kr.com/newsflashes/3873776558806019?f=rss",
+              "title": "美国养老金将被动调仓，约300亿美元美股卖盘临近",
+              "brief": "美国大型养老金计划将在2026年上半年收官前启动半年度资产再平衡，市场预计本周一、周二将集中强制卖出约300亿美元美股。由于多类养老金长期执行60%股票、40%固收配置，当前股票仓位明显超配、债券不足，结算窗口内需回补比例。",
+              "source_url": "https://36kr.com/newsflashes/3873886149055495?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 12:49:17  +0800"
+              "published_at": "2026-06-29 14:47:35  +0800"
             },
             {
-              "title": "有道词典笔X8系列上市",
-              "brief": "网易有道发布新一代旗舰学习硬件有道词典笔X8系列。该产品面向学习场景引入进阶AI能力，首次以订阅服务模式提供课堂笔记实时整理、深度视频答疑等功能，用户可按需解锁使用。",
-              "source_url": "https://36kr.com/newsflashes/3873774365185288?f=rss",
+              "title": "兆易创新A股逼近涨停，刷新历史新高",
+              "brief": "兆易创新A股盘中逼近涨停，股价刷新历史新高纪录。原始信息未给出上涨原因、成交额、换手率或公司公告等更多细节，因此可确认的关键内容集中在二级市场表现本身：该股当日涨幅接近涨停，并创下上市以来新高。",
+              "source_url": "https://36kr.com/newsflashes/3873891089044745?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 12:47:03  +0800"
+              "published_at": "2026-06-29 14:45:47  +0800"
             },
             {
-              "title": "丰田5月全球销量同比下降7.4%",
-              "brief": "丰田汽车公布2026年5月全球产销数据，全球产量为857765辆，同比下降5.8%，全球销量为885207辆，同比下降7.4%。公司称，自2026年4月起统计口径调整为仅包含丰田汽车和大发汽车，不再包含日野汽车。",
-              "source_url": "https://36kr.com/newsflashes/3873773192156421?f=rss",
+              "title": "Prosus全年生态系统收入增长57%",
+              "brief": "Prosus公布截至2026年3月31日的2026财年业绩，生态系统收入同比增长57%至97亿美元。公司经调整EBITDA同比增长84%至13亿美元，自由现金流达到15亿美元并创历史新高，同时宣布全年股息提高40%，继续推进股票回购，并完成20亿美元非核心资产出售。",
+              "source_url": "https://36kr.com/newsflashes/3873887567123714?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 12:45:52  +0800"
+              "published_at": "2026-06-29 14:42:12  +0800"
             },
             {
-              "title": "机构：2026年零售POS显示器出货量预计下滑11%",
-              "brief": "Omdia最新研究预计，2026年全球零售POS显示设备市场需求将持续承压。受支付方式变化和硬件成本上升推动，市场正发生结构性转型；其中移动POS显示设备出货量预计降至1170万台，独立式POS显示设备降至320万台。",
-              "source_url": "https://36kr.com/newsflashes/3873768847594753?f=rss",
+              "title": "热浪侵袭欧洲多国，多地刷新6月高温纪录",
+              "brief": "欧洲多国在6月再次遭遇热浪，多地接连刷新6月高温历史纪录，发生在刚经历5月热浪之后。相关警告指出，气候变化正使极端天气更常见、持续时间更长，全球应对气候挑战需加速。世界天气归因联盟研究称，受气候变化影响，欧洲高温发生概率已是20年前的200倍。",
+              "source_url": "https://36kr.com/newsflashes/3873878604502281?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 12:41:26  +0800"
+              "published_at": "2026-06-29 14:33:05  +0800"
             },
             {
-              "title": "URTOPIA完成B轮融资，融资总额超2亿元",
-              "brief": "全球智能电助力自行车品牌URTOPIA近日完成B轮融资，融资总额超过2亿元人民币。本轮由Brizan Ventures与桐乡市政府产业基金领投，多家机构继续加注；融资后，公司将投入核心技术研发、全球市场拓展、供应链建设和组织能力升级。",
-              "source_url": "https://36kr.com/newsflashes/3873761246434312?f=rss",
+              "title": "SK集团计划到2035年建设15GW AI数据中心",
+              "brief": "SK集团董事长崔泰源表示，集团计划到2035年建成15吉瓦AI数据中心容量，并将其打造为韩国国家级基础设施。该项目被定位为“实体AI”时代的核心底座，总投资规模预计达到1000万亿韩元，重点围绕未来AI算力与数据中心基础设施建设展开。",
+              "source_url": "https://36kr.com/newsflashes/3873873423062278?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 12:33:42  +0800"
+              "published_at": "2026-06-29 14:27:49  +0800"
             }
           ]
         }
