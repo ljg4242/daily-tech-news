@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T08:50:48.393050+08:00",
+  "generated_at": "2026-06-29T10:53:16.383020+08:00",
   "sections": [
     {
       "category": "主要",
@@ -48,6 +48,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Mac 和 iPad 涨价，原因指向 AI 数据中心推高内存成本",
+              "brief": "苹果因内存成本暴涨上调 Mac 和 iPad 价格，称已难以继续消化供应商转嫁的涨幅。文章指出，巨型 AI 数据中心大量采购内存挤压供应，使 32GB DDR5 套装一年内从不足 90 美元涨至近 400 美元；Micron 正在美国建设新工厂，但产能完全释放可能要到 2030 年。",
+              "source_url": "https://9to5mac.com/2026/06/28/heres-why-your-ipad-and-mac-just-got-much-more-expensive/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-29T10:33:02+08:00"
+            },
             {
               "title": "独立应用聚焦：Mirage 以 Retina 画质将 Mac 屏幕带到 iPad 等设备",
               "brief": "Mirage 是一款新的苹果设备无线屏幕共享应用，可将 Mac 桌面串流到 iPhone、iPad、Vision Pro 或另一台 Mac。它面向用 iPad 远程操作家中 Mac、把旧 iMac 当副屏或只共享单个窗口的场景，支持低延迟、Retina 画质、最高 120fps、USB-C 增强串流，并可通过 Tailscale 远程连接。",
@@ -217,6 +224,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "发现频道近10日热门排行榜（2026年第26期）",
+              "brief": "小众软件发布2026年第26期发现频道近10日热门排行榜，由系统根据论坛发现频道热度自动生成。榜单汇总近期受关注的10个主题，涵盖AndroMeld、Ghost Proxifier PRO、Mochi、Coday、Windows 11任务栏快捷启动工具、AI Agent浏览器、Device Kit、Areada、纸条和CertLock等软件。",
+              "source_url": "https://www.appinn.com/faxian-top10-2626/",
+              "source_name": "小众软件",
+              "published_at": "2026-06-29T09:00:55+08:00"
+            },
+            {
               "title": "播播机（LitPlayer）：支持 TV 端的安卓视频播放器",
               "brief": "播播机（LitPlayer）是一款面向 Android 的音视频播放器，支持手机、平板和 Android TV。开发者称因现有播放器要么功能单一、界面简陋，要么交互复杂而自制。它基于 Media3 ExoPlayer，安装包约 12MB，可播放本地媒体并访问 SMB、WebDAV、FTP、Jellyfin、UPnP 等网络资源。",
               "source_url": "https://www.appinn.com/litplayer-android/",
@@ -228,6 +242,20 @@
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "甲骨文云已开机免费高配实例据称可继续使用且不额外收费",
+              "brief": "甲骨文云调整永久免费资源后，客服据称确认免费账号已创建并开机的4 OCPU、24GB RAM A1实例可继续使用，不会强制降级或额外收费。此前官方说明曾要求用户调低规格，否则可能产生费用；新旧用户按新政策最多只能新建2 OCPU、12GB RAM实例，文章建议关注账单并及时处理异常。",
+              "source_url": "https://www.landian.news/archives/113691.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-29T09:45:22+08:00"
+            },
+            {
+              "title": "微软调整E5开发者订阅OneDrive配额：每用户10GB",
+              "brief": "微软开始落实Microsoft 365 E5等开发者订阅的存储配额调整，超出限制的用户已看到OneDrive提示。新政策将每个租户共享存储上限设为300GB，每个子账号OneDrive最多10GB，超过后需删除文件降至限额内，否则无法继续上传；微软强调开发者订阅仅用于开发和测试。",
+              "source_url": "https://www.landian.news/archives/113690.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-29T09:00:14+08:00"
+            },
             {
               "title": "iOS 捷径可一键打开 Codex，减少从 ChatGPT 切换步骤",
               "brief": "有开发者制作了适用于 Codex 的 iOS 快捷启动捷径，点击后可直接跳转到 ChatGPT 内的 Codex 界面。由于 Codex 目前没有独立移动客户端，移动端只能从 ChatGPT 加载；用户安装捷径、下载图标并添加到主屏幕后，即可用该入口快速启动，文章还提供了捷径和图标下载地址。",
@@ -248,20 +276,6 @@
               "source_url": "https://www.landian.news/archives/113688.html",
               "source_name": "蓝点网",
               "published_at": "2026-06-27T12:47:20+08:00"
-            },
-            {
-              "title": "美国政府小范围恢复 Claude Mythos 5 访问权限",
-              "brief": "美国政府通知 A 社可向少数机构重新开放 Claude Mythos 5，但范围仅限经过认证、在美国运营和维护基础设施的组织。此前因出口管制和网络安全风险，Claude Fable 5 与 Mythos 5 被全球暂停；A 社称仍在沟通扩大权限并推动 Fable 5 恢复访问。",
-              "source_url": "https://www.landian.news/archives/113687.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-27T12:19:20+08:00"
-            },
-            {
-              "title": "迅雷推出双盘位 NAS 私有云 NE200，裸机售价 899 元",
-              "brief": "迅雷推出 NAS 产品迅雷私有云 NE200，双盘位无盘裸机售价 899 元，用户需自行安装硬盘。该设备采用 Arm 芯片但未公布具体型号，配备 4GB 内存、2 个硬盘位、1 个 M.2 位和 2.5GbE 接口；目前不支持 RAID 和容器，主要面向存储、相册和本地影音等用途。",
-              "source_url": "https://www.landian.news/archives/113686.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-06-27T11:00:45+08:00"
             }
           ]
         },
@@ -269,39 +283,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "《GTA6》动态天气、AI与社交系统将全面升级",
-              "brief": "《GTA6》披露了动态天气、AI与社交系统的新细节，显示游戏互动方式将进一步扩展。玩家可通过游戏内手机观看热门视频、关注网红并发现隐藏任务，NPC将由更先进AI驱动，在地图各处以独立行为触发随机事件；PS商店还确认其支持PS5 Pro增强。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1567170.htm",
+              "title": "粪便表情符号背后的物理学原理",
+              "brief": "阿姆斯特丹大学等机构研究发现，常见粪便表情符号对应的锥形螺旋外形，可由“弹性绳盘绕”理论解释。背景是不同动物粪便形状长期存在差异；材料刚度、密度、直径以及排出方向与重力的关系，会决定线圈半径和堆叠方式，沙蚕向上排便则形成半径近似恒定的小塔。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1567186.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T08:15:44+08:00"
+              "published_at": "2026-06-29T10:48:48+08:00"
             },
             {
-              "title": "广州一民办高校回应禁止小米汽车入校：管理规定与品牌无关",
-              "brief": "广州华立学院回应“禁止小米汽车入校”说法，称学校从未针对任何汽车品牌设置限制。校方表示此前保安说法不属实，将展开调查；校园车流量较大，所有外来车辆均需凭码入校并提前报备，校内教职工小米汽车和报备后的校外车辆都可进入。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567168.htm",
+              "title": "玩家吐槽《GTA6》无实体版却收全价",
+              "brief": "玩家围绕《GTA6》可能没有实体版集中吐槽，认为纯数字发行削弱二手流通和收藏价值。背景是主机厂商持续推进全数字化，玩家担忧账号封禁、被盗或地区政策变化会影响访问；他们还质疑数字版省去光盘、印刷、物流和零售成本后，仍以实体版同等价格销售。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567184.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T08:14:57+08:00"
+              "published_at": "2026-06-29T10:46:16+08:00"
             },
             {
-              "title": "古尔曼称AI热潮推高苹果成本，iPhone或难免涨价",
-              "brief": "古尔曼称苹果产品涨价与AI热潮推高硬件成本有关，苹果用户正为行业供应链变化买单。大型云计算公司和模型开发商大量采购GPU、高端内存和存储设备，抬升关键零部件价格；苹果虽暂未提高iPhone售价，但他预计今年晚些时候仍可能调整。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567166.htm",
+              "title": "传《GTA6》Switch 2版2027年发售，PC版仍无消息",
+              "brief": "有消息称《GTA6》可能在2027年推出Switch 2版本，但任天堂和Rockstar均未公布相关计划。由于官方尚未披露类似信息，这一说法仍应视为未经证实的传闻；目前官方只确认游戏将登陆PS5和Xbox Series X|S，PC版发行日期也尚未公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567182.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T08:14:07+08:00"
+              "published_at": "2026-06-29T10:45:42+08:00"
             },
             {
-              "title": "美媒称智谱GLM-5.2漏洞挖掘能力接近Mythos水平",
-              "brief": "美媒称智谱GLM-5.2在漏洞发现和网络安全分析等任务上的能力接近Anthropic Mythos水平，引发国际关注。报道认为中国模型在垂直专业能力上与美国顶级模型差距缩小；该模型以开放权重发布，可在公开硬件上部署，也带来潜在滥用和安全治理讨论。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567164.htm",
+              "title": "《GTA6》法国预购量为《使命召唤》6倍",
+              "brief": "法国电商数据称，《GTA6》预购热度明显高于《使命召唤》，并带动游戏板块访问量激增。6月25日相关流量增长500%，午夜至凌晨1点达到峰值，比前一晚高出18倍；受欧洲热浪影响，它在站内搜索中仅次于“风扇”和“便携式空调”。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567180.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T08:13:36+08:00"
+              "published_at": "2026-06-29T10:45:27+08:00"
             },
             {
-              "title": "三星、SK据报未来十年将在韩国投资1.3万亿美元",
-              "brief": "韩媒称三星和SK集团将在未来十年投入约2000万亿韩元，折合约1.3万亿美元，用于韩国半导体等产业项目。报道提到三星预计在忠清南道建设芯片封装厂，SK海力士将在忠清北道扩建NAND闪存工厂；韩国政府也将介绍相关政策措施。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567162.htm",
+              "title": "国产类Steam Machine主机半价上架并赠《黑神话》",
+              "brief": "国内第三方店铺上架了一款类Steam Machine主机，价格约为官方方案一半，并以赠送《黑神话：悟空》吸引买家。页面标称配备Ryzen 5 5500、RX 6750 GRE、16GB内存和2TB固态，但DDR5标注与处理器规格矛盾，散热和真实性也尚无独立评测验证。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567178.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T08:12:59+08:00"
+              "published_at": "2026-06-29T10:41:57+08:00"
             }
           ]
         },
@@ -309,39 +323,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "R 星更新《GTA6》预告片简介，加入 PS5 版预购链接未提 Xbox",
-              "brief": "Rockstar 已在 YouTube 更新《GTA6》第一支和第二支预告片的视频简介，加入 PS5 版预购链接，但整段描述未提 Xbox。报道称，这或与母公司 T2 和索尼的独占营销协议有关；索尼也在宣传 PS5 版《GTA6》将带来最佳游戏体验。",
-              "source_url": "https://www.ithome.com/0/969/747.htm",
+              "title": "神牛透明取景相机 C100 发布：配智能透明显示屏，199 元",
+              "brief": "神牛发布透明取景相机 C100，售价 199 元，主打随身拍摄和透明屏取景体验。该机通过智能透明显示屏显示取景与参数，支持光圈、快门联动计算曝光，ISO 可按胶卷或相机设置；机身约 65g，支持四种构图比例、OTG 传输和最高 128GB TF 卡扩展，传感器与镜头参数暂未公布。",
+              "source_url": "https://www.ithome.com/0/969/808.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T08:33:12+08:00"
+              "published_at": "2026-06-29T10:44:49+08:00"
             },
             {
-              "title": "东风奕派 M8 订单突破 1 万台，预售价 19.98 万元起",
-              "brief": "东风奕派 M8 汽车订单已突破 1 万台，新车此前开启预售，价格 19.98 万元起。该车搭载华为乾崑智驾 ADS 5 Pro、鸿蒙座舱 HarmonySpace 5.2、乾崑车云等配置，并提供纯电和增程两种动力版本。",
-              "source_url": "https://www.ithome.com/0/969/746.htm",
+              "title": "红魔游戏平板 5 Pro 配置汇总：RGB 水冷散热、8300mAh 电池和 80W 快充",
+              "brief": "红魔汇总了游戏平板 5 Pro 的核心配置，定位电竞小平板，强调性能、散热和游戏扩展能力。该机搭载第五代骁龙 8 至尊版与红芯 R4，支持 PC 模拟器 Steam 直连模式；配备 8300mAh 电池、80W 快充和旁路充电 Pro，采用双 Type-C、S3930 触控芯片、透明纯平设计及 ICE 魔冷散热架构。",
+              "source_url": "https://www.ithome.com/0/969/806.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T08:25:49+08:00"
+              "published_at": "2026-06-29T10:42:51+08:00"
             },
             {
-              "title": "消息称华为鸿蒙 HarmonyOS 装机量突破 7000 万台",
-              "brief": "消息称华为鸿蒙 HarmonyOS 装机量已突破 7000 万台。此前华为常务董事、终端 BG 董事长余承东宣布，HarmonyOS 6 终端设备数突破 6600 万，同时开源鸿蒙生态设备已超过 13 亿台，显示鸿蒙生态规模继续扩大。",
-              "source_url": "https://www.ithome.com/0/969/745.htm",
+              "title": "宝马新世代 BMW iX3 长轴距版将在成都车展开启预售，四季度交付",
+              "brief": "宝马新世代 BMW iX3 长轴距版将在 2026 成都车展开启预售，并计划四季度交付，面向中国市场研发。该车是 Neue Klasse 新世代纯电平台首款长轴距纯电 SAV，由华晨宝马沈阳工厂开发生产；轴距 3005 毫米，比标准版加长 108 毫米，后备厢最大 1900 升，搭载 108.7kWh 第六代高压电池。",
+              "source_url": "https://www.ithome.com/0/969/804.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T08:18:09+08:00"
+              "published_at": "2026-06-29T10:41:39+08:00"
             },
             {
-              "title": "海外用户评价谷歌 Pixel 6：首代 Tensor 体验不佳，Bug 频出",
-              "brief": "一名海外用户在使用 Pixel 6 多年后发文称，该机搭载的第一代 Tensor 芯片体验不佳，指纹识别、系统更新 Bug、电池鼓包、发热和通信掉线等问题持续出现。他还批评其不支持 USB-C 视频输出，并表示以后不会再购买谷歌手机。",
-              "source_url": "https://www.ithome.com/0/969/744.htm",
+              "title": "水月雨羽翼 Edge2 无线头戴耳机开启预售：499 元，支持自适应深感降噪",
+              "brief": "水月雨羽翼 Edge2 无线头戴耳机已在京东开启预售，定价 499 元，主打无线降噪和可调音体验。该耳机搭载 40mm 动圈单元，兼容 LDAC，支持自适应混合式主动降噪，官方称 1kHz 以下可减少 95.5% 环境噪音；还提供 AI ENC 通话降噪、约 50 小时续航、USB 有线使用和 MOONDROP App 图形化调音。",
+              "source_url": "https://www.ithome.com/0/969/803.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T08:16:53+08:00"
+              "published_at": "2026-06-29T10:40:31+08:00"
             },
             {
-              "title": "惠普与 OpenAI 达成战略合作，部署 AI 智能体平台 Frontier",
-              "brief": "惠普与 OpenAI 达成战略合作，将全面部署 OpenAI Frontier AI 智能体平台以推进企业转型。该平台面向企业构建、部署和管理智能体，支持共享上下文、入职培训、反馈学习和权限边界，并可接入现有数据与业务应用。",
-              "source_url": "https://www.ithome.com/0/969/743.htm",
+              "title": "飞傲雪漫天 ECHO MINI 播放器新增 512MB 内存版本，279 元",
+              "brief": "飞傲雪漫天 ECHO MINI 便携播放器新增 512MB 内存容量版本，现已在京东开售，售价 279 元。该机延续类似磁带随身听的外观和动态 UI，配备 1.99 英寸 LCD 彩屏，可显示封面与歌词；规格包括双 CS43131 DAC、3.5mm 和 4.4mm 耳机接口、蓝牙 5.3、1100mAh 电池，续航最长 15 小时以上，并支持最高 256GB microSD 卡扩展。",
+              "source_url": "https://www.ithome.com/0/969/802.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-29T08:16:32+08:00"
+              "published_at": "2026-06-29T10:28:36+08:00"
             }
           ]
         },
@@ -382,39 +396,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "中金：韩国股市绝对杠杆处于历史高位",
-              "brief": "中金指出，韩国股市绝对杠杆已升至历史高位。输入正文同时提到KOSDAQ市场因指数及期货价格快速上涨触发“边车”机制，程序化交易买入报价暂停5分钟，其中KOSDAQ150期货涨6.18%，指数涨6.22%。",
-              "source_url": "https://36kr.com/newsflashes/3873534870639624?f=rss",
+              "title": "朱鹤新会见花旗集团董事长兼首席执行官范洁恩",
+              "brief": "中国人民银行副行长、国家外汇管理局局长朱鹤新会见到访的花旗集团董事会主席兼首席执行官范洁恩。双方围绕国际经济金融形势、中国经济发展机遇以及深化沟通合作等议题交流，国家外汇管理局副局长李红燕陪同会见。",
+              "source_url": "https://36kr.com/newsflashes/3873659878872068?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 08:43:26  +0800"
+              "published_at": "2026-06-29 10:50:35  +0800"
             },
             {
-              "title": "韩国KOSDAQ暴涨触发“边车”机制，暂停程序化买入5分钟",
-              "brief": "韩国创业板KOSDAQ市场于上午09:28:31触发“边车”交易机制，程序化交易买入报价全面暂停5分钟。触发原因是相关指数及期货价格大涨，KOSDAQ150期货升至1650.50点、涨6.18%，KOSDAQ150指数升至1636.63点、涨6.22%。",
-              "source_url": "https://36kr.com/newsflashes/3873532574340098?f=rss",
+              "title": "悟空安全直播测试电脑弹窗拦截能力",
+              "brief": "安全软件悟空安全发起“蛊王电脑生存挑战”7天直播，公开测试电脑弹窗拦截能力。活动邀请产品经理、安全工程师和技术达人参与，在真实电脑环境中验证“弹必赔”等产品能力，并开放网友连麦挑战，产品经理也直接出镜接受检验。",
+              "source_url": "https://36kr.com/newsflashes/3873652694406405?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 08:41:05  +0800"
+              "published_at": "2026-06-29 10:43:17  +0800"
             },
             {
-              "title": "多家公募机构认为权益资产配置价值突出",
-              "brief": "多家公募机构在年中策略会上认为，权益资产整体配置价值依然突出。2026年行至半程，平安基金、摩根资产管理（中国）、天弘基金等围绕下半年权益市场及赛道研判，AI、新能源、资源品等方向被反复提及，盈利改善被视为主要驱动力。",
-              "source_url": "https://36kr.com/newsflashes/3873527197390085?f=rss",
+              "title": "三星电机拟获5000亿韩元AI服务器部件订单",
+              "brief": "三星电机据报正与一家美国科技巨头就AI服务器MLCC供应合同进行最终谈判，合同价值约5000亿韩元，相当于其组件部门去年营收的10%。同时，公司将与住友化学签署合资协议，在韩国平泽建设玻璃基板合资公司，计划明年初投产。",
+              "source_url": "https://36kr.com/newsflashes/3873651844748288?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 08:35:37  +0800"
+              "published_at": "2026-06-29 10:42:25  +0800"
             },
             {
-              "title": "中信证券：新型能源体系明确绿氢产业化趋势",
-              "brief": "国家发展改革委、国家能源局印发《新型能源体系建设“十五五”规划》，首次在国家级能源总体规划中将氢能和绿色燃料纳入非化石能源供给体系。规划明确2030年可再生能源制氢规模达到200万吨，并列入绿氢氨醇基地、输氢管网等重点工程。",
-              "source_url": "https://36kr.com/newsflashes/3873526007026951?f=rss",
+              "title": "百度港股涨超8%，昆仑芯估值目标约500亿美元",
+              "brief": "6月29日，百度集团-SW港股涨超8%，市场消息称百度旗下昆仑芯计划赴港上市，目标估值约500亿美元。相关进展显示，昆仑芯P800已完成规模化验证，2025年至今已交付多个万卡集群，并在全国产集群上完成文心5.1重要版本训练。",
+              "source_url": "https://36kr.com/newsflashes/3873649999385604?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 08:34:25  +0800"
+              "published_at": "2026-06-29 10:40:32  +0800"
             },
             {
-              "title": "现货黄金日内跌近1%",
-              "brief": "现货黄金日内跌近1%，价格跌至4050美元/盎司下方。该快讯仅披露了日内跌幅和关键价位，未给出进一步原因或市场背景；同页后续内容还提到威廉姆斯公司洽谈收购Momentum Midstream，但与黄金价格变动无直接关联。",
-              "source_url": "https://36kr.com/newsflashes/3873524151391236?f=rss",
+              "title": "创业板指跌超2%",
+              "brief": "36氪获悉，创业板指在6月29日盘中跌幅超过2%。原文未披露更多板块、个股或资金流向细节，也未说明下跌原因，仅以快讯形式发布这一指数变动，信息重点集中在创业板指当时跌幅已越过2%这一关键节点。",
+              "source_url": "https://36kr.com/newsflashes/3873647290029061?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-29 08:32:31  +0800"
+              "published_at": "2026-06-29 10:37:47  +0800"
             }
           ]
         }
