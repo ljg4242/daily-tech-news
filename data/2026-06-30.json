@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T02:57:22.927513+08:00",
+  "generated_at": "2026-06-30T04:52:49.419466+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 26.5.2 修复 25 多个安全漏洞",
+              "brief": "苹果发布 iOS 26.5.2、iPadOS 26.5.2 和 macOS 26.5.2，修复 25 多个安全漏洞。相关修补此前已出现在 26.6 测试版中，涉及多个内核问题和可能导致崩溃或数据泄露的 WebKit 漏洞；苹果称目前未发现漏洞被主动利用。",
+              "source_url": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
+              "source_name": "MacRumors",
+              "published_at": "2026-06-30T04:15:47+08:00"
+            },
             {
               "title": "苹果担忧塔塔泄露 iPhone 18 Pro 数据",
               "brief": "路透称，苹果对印度制造伙伴塔塔电子的数据泄露感到担忧。该公司是苹果分散中国以外产能的重要供应商，此次遭网络攻击后，含有 iPhone 18 Pro 与 Pro Max 供应商、零件清单、部件设计规格和测试图片的机密文件被放到暗网上。文件带有苹果保密水印和代号，塔塔已限制敏感系统访问并聘请全球顾问调查。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/06/29/apple-seeds-ios-26-6-beta-3/",
               "source_name": "MacRumors",
               "published_at": "2026-06-30T01:10:00+08:00"
-            },
-            {
-              "title": "macOS Tahoe 26.6 第三个测试版现已面向开发者推出",
-              "brief": "苹果向开发者提供 macOS Tahoe 26.6 第三个测试版，距第二个测试版约两周。开发者可在“系统设置”的“通用”和“软件更新”中获取该版本，但需启用测试版更新并使用免费开发者账户；由于 macOS Golden Gate 几个月后将发布，报道预计 26.6 不会加入重大新功能。",
-              "source_url": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
-              "source_name": "MacRumors",
-              "published_at": "2026-06-30T01:09:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "MagSafe 周一：ESR OmniLock 支架证明 MagSafe 不只是用来充电",
+              "brief": "ESR 推出 OmniLock MagSafe 车载支架，主打把 iPhone 固定从单纯充电扩展到更多车内使用场景。文章强调 MagSafe 配件生态仍在延伸，关键在于支架通过磁吸固定、角度调节和车载安装设计，让手机导航、通话与取放更方便。",
+              "source_url": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-30T04:00:00+08:00"
+            },
+            {
+              "title": "苹果称印度 App Store 反垄断案照搬竞争对手说法",
+              "brief": "苹果反驳印度针对 App Store 的反垄断调查，称监管方案件建立在竞争对手“复制粘贴”的主张上。背景是印度正审查苹果应用分发和收费规则是否限制竞争，关键细节包括苹果认为相关指控缺乏独立事实基础，并要求重新评估。",
+              "source_url": "https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-30T03:56:13+08:00"
+            },
+            {
+              "title": "watchOS 27 为 Apple Watch 带来全新默认主屏幕",
+              "brief": "watchOS 27 被曝为 Apple Watch 采用全新的默认主屏幕布局，改变用户首次设置或重置后的应用呈现方式。此举延续苹果对手表交互的调整，关键细节是默认界面会影响新用户进入系统后的导航习惯，也可能体现苹果对常用应用和组件的重新排序。",
+              "source_url": "https://9to5mac.com/2026/06/29/watchos-27-has-brand-new-default-home-screen-for-apple-watch/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-06-30T03:32:51+08:00"
+            },
             {
               "title": "iPhone 18 Pro 跌落测试照片等敏感信息流入暗网",
               "brief": "苹果供应商 Tata Electronics 上周发生数据泄露，数百 GB 文件流入网络，路透称其中包含 iPhone 18 Pro 跌落测试照片。苹果因此格外关注，泄露资料还列出该机零部件和供应商，涉及逻辑板芯片、相机和电池等信息；9to5Mac 表示未直接看到文件。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/06/29/how-to-install-macos-golden-gate-on-a-separate-apfs-volume-video/",
               "source_name": "9to5Mac",
               "published_at": "2026-06-30T02:32:43+08:00"
-            },
-            {
-              "title": "iOS 26.5.2 修复 iPhone 上 25 多个安全问题",
-              "brief": "苹果发布 iOS 26.5.2，为 iPhone 带来近 30 项安全修复，同时 iPadOS 26.5.2 和 macOS 26.5.2 也以安全更新为重点。官方说明只提到安全修复，具体清单显示多数变更与 WebKit、WebRTC 等网页技术有关，也包含部分内核相关修复，苹果建议用户安装。",
-              "source_url": "https://9to5mac.com/2026/06/29/ios-26-5-2-has-fixes-for-25-security-issues-on-iphone-details-here/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-30T02:27:38+08:00"
-            },
-            {
-              "title": "macOS Sonoma 14.8.8 和 macOS Sequoia 15.7.8 第三个 RC 版已发布",
-              "brief": "苹果在发布多项测试版之外，又向开发者推送 macOS Sonoma 14.8.8 和 macOS Sequoia 15.7.8 的第三个发布候选版。两者此前分别在 5 月 26 日和 6 月 15 日推出前两个 RC，新构建号为 23J610 和 24G812；发行说明仅称包含重要安全修复。",
-              "source_url": "https://9to5mac.com/2026/06/29/third-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-30T02:07:23+08:00"
-            },
-            {
-              "title": "macOS 26.5.2 已发布，更新内容一览",
-              "brief": "苹果发布 macOS 26.5.2，与 iOS 和 iPadOS 26.5.2 同步推出，更新重点是 Mac 安全修复。官方发行说明称该版本为 Mac 提供安全修复，并指向苹果安全内容页面；报道指出苹果尚未公布详细条目，但鉴于近期曾为漏洞发布紧急修复，建议尽早安装小版本更新。",
-              "source_url": "https://9to5mac.com/2026/06/29/macos-26-5-2-now-available-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-06-30T01:51:50+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星 Galaxy Watch 9 表带阵容泄露，更新幅度或超过手表本体",
+              "brief": "三星 Galaxy Watch 9 系列表带阵容提前曝光，显示配件变化可能比智能手表本体更明显。背景是该系列预计延续现有设计与规格，泄露图片则展示了多款新表带样式和配色，暗示三星将把更多更新放在佩戴选择上。",
+              "source_url": "https://9to5google.com/2026/06/29/samsungs-galaxy-watch-9-band-lineup-leaks-with-more-updates-than-the-smartwatch-gallery/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-30T03:05:00+08:00"
+            },
             {
               "title": "美国最高法院裁定第四修正案保护手机位置历史",
               "brief": "美国最高法院在 Chatrie v. United States 案中以 6 比 3 裁定，手机位置历史受第四修正案保护。该案涉及警方用地理围栏令调查 2019 年银行抢劫，法院认为即使数据交给 Google、Apple 等第三方，警方索取仍需走通常搜查令程序。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/29/valve-shuts-down-dbrand-steam-machine-skin/",
               "source_name": "9to5Google",
               "published_at": "2026-06-30T01:11:49+08:00"
-            },
-            {
-              "title": "沃尔玛将最便宜的 Google TV 电视棒价格翻倍",
-              "brief": "沃尔玛似乎把入门款 Onn FHD Google TV 电视棒零售价从约 15 美元提高到 29.88 美元，延续近期对自有 Google TV 设备的涨价。该产品 2023 年上市后曾在 15 至 20 美元间波动；目前登录用户仍多看到 14.88 美元促销价。",
-              "source_url": "https://9to5google.com/2026/06/29/walmart-doubles-the-price-of-its-cheapest-google-tv-streaming-stick/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-30T01:05:00+08:00"
             }
           ]
         },
@@ -129,32 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "F1奥地利站：开局精彩，随后走向平淡",
-              "brief": "一级方程式上周末在奥地利斯皮尔伯格红牛环进行，赛区正遭遇热穹高温。法拉利和汉密尔顿在巴塞罗那后的争冠期待未能兑现，真正给梅赛德斯持续优势制造压力的是复苏的红牛与维斯塔潘；文章还回顾了这条赛道从危险的旧奥地利环到更安全红牛环的改建。",
-              "source_url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+              "title": "美国可再生能源热潮在4月跨过关键里程碑",
+              "brief": "美国能源信息署发布的4月正式电网数据显示，太阳能发电已早于5月超过燃煤发电，但其中包含大量未进入电网的屋顶太阳能。随着煤电继续下滑、太阳能新增装机投入运行并受春季日照拉动，小规模太阳能帮助可再生能源发电量接近煤电的三倍。",
+              "source_url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
               "source_name": "Ars Technica",
-              "published_at": "2026-06-30T00:04:52+08:00"
+              "published_at": "2026-06-30T04:12:30+08:00"
             },
             {
-              "title": "《荒林》特辑揭示定格动画世界的搭建过程",
-              "brief": "莱卡工作室发布了《荒林》幕后特辑，展示动画团队如何逐步搭建这部定格奇幻片的世界。影片改编自科林·梅洛伊和卡森·埃利斯2011年的小说，故事把波特兰森林公园化为隐藏魔法之地；导演特拉维斯·奈特此前参与《魔弦传说》。",
-              "source_url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
+              "title": "最高法院裁决削弱政府使用地理围栏搜查令的能力",
+              "brief": "美国最高法院以6比3裁定，第四修正案保护用户的“位置历史”，政府若要把手机定位服务用于监控，必须取得搜查令并说明合理理由。案件源于警方用谷歌地理围栏数据追查银行抢劫嫌疑人，但法院并未进一步认定此类搜查令本身违宪。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
               "source_name": "Ars Technica",
-              "published_at": "2026-06-29T23:43:50+08:00"
+              "published_at": "2026-06-30T04:04:04+08:00"
             },
             {
-              "title": "Rocket Lab大胆收购铱星通信",
-              "brief": "Rocket Lab周一宣布将以现金和股票收购卫星通信公司铱星通信，交易估值约80亿美元。彼得·贝克称这将帮助公司更快进入空间应用业务，即提供基于太空的通信服务；铱星拥有80颗低轨卫星、宝贵频谱和既有客户群。",
-              "source_url": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/",
+              "title": "索尼从数字库删除内容，再次提醒用户并不真正拥有购买作品",
+              "brief": "索尼通知英国PlayStation用户，自9月1日起将无法继续观看此前购买的551部StudioCanal电影和剧集，理由是内容授权协议限制。受影响作品包括《终结者2》和《帕丁顿熊》等；索尼过去曾因更新Discovery授权撤回下架计划，但也曾在德国和奥地利移除StudioCanal内容。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
               "source_name": "Ars Technica",
-              "published_at": "2026-06-29T23:33:54+08:00"
+              "published_at": "2026-06-30T03:10:57+08:00"
             },
             {
-              "title": "智库推演太空战灾难场景的应对方式",
-              "brief": "一家智库推演了太空战中的灾难场景，探讨美国军方在关键卫星失效时应如何判断和回应。设想中，一艘神秘航天器接近太空军导弹预警卫星后，卫星突然失联；难点在于区分敌对破坏与太空环境中的故障，并界定何种行动需要相应反应。",
-              "source_url": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
+              "title": "在CFC广泛使用前，臭氧损耗就已存在",
+              "brief": "麻省理工学院研究团队提出，如果使用今天的科学工具，臭氧层问题可能早在20世纪50年代就被发现。CFC在70年代才被确认会破坏臭氧，但更早使用的工业溶剂四氯化碳也会造成影响；冰芯雪层记录显示，1950年其大气浓度约为早期CFC的3到4倍。",
+              "source_url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
               "source_name": "Ars Technica",
-              "published_at": "2026-06-29T23:21:40+08:00"
+              "published_at": "2026-06-30T03:00:23+08:00"
+            },
+            {
+              "title": "谷歌警告欧盟削弱其垄断的计划可能暴露用户数据",
+              "brief": "欧盟委员会计划下月公布针对谷歌的新规，要求其向竞争对手开放更多空间，包括让Android接入非Gemini的AI服务，并共享匿名搜索数据。谷歌安全工程副总裁称，这些措施可能在欧盟迅速增加欺诈和隐私风险，原因是第三方AI可能获得类似Gemini的系统访问能力。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-06-30T02:21:31+08:00"
             }
           ]
         },
@@ -162,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Gemini 浮层或将更容易访问最近聊天",
+              "brief": "Google正在为Gemini浮层测试名为Agent Dashboard的新入口，让用户可在浮层内更快回到近期对话。此前浮层主要用于快速开启新聊天，返回旧话题通常要进入Gemini应用；应用拆解显示，该入口会与屏幕共享、页面总结等快捷项并列，展开底部面板列出最近五个对话，点选后直接打开，但是否公开上线仍未确定。",
+              "source_url": "https://www.androidauthority.com/gemini-overlay-agent-dashboard-apk-teardown-3682548/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-30T04:15:12+08:00"
+            },
+            {
+              "title": "Galaxy Z Fold 8 Ultra 或获相机升级，Flip 8 可能无缘",
+              "brief": "一份新报告透露了三星下一代三款折叠屏手机的相机配置，Galaxy Z Fold 8 Ultra可能获得超广角升级，而Flip 8或维持旧配置。随着新品发布临近，相关泄露增多；报告称Fold 8 Ultra将采用5000万像素超广角，主摄和长焦沿用前代，宽版Fold 8配两颗5000万像素后摄，Flip 8则为5000万主摄和1200万超广角。",
+              "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-flip-8-camera-specs-3682537/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-30T03:56:33+08:00"
+            },
+            {
+              "title": "Android 17 测试版用户仍需等待升级修复",
+              "brief": "Android 17稳定版已于6月16日发布，但仍有Beta 4和Beta 4.1测试用户无法无损升级。按Android测试计划规则，退出测试通常可等待稳定版OTA而不清除数据；Google此前确认问题并承诺修复，如今表示仍在处理若干问题，以确保OTA更新顺利，目标是让这些测试用户升至与非测试用户相同的稳定版本。",
+              "source_url": "https://www.androidauthority.com/android-17-beta-upgrade-fix-3682525/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-30T03:26:36+08:00"
+            },
+            {
+              "title": "Galaxy Z Fold 8 Ultra 名称出现在新配件信息中",
+              "brief": "无线充电联盟数据库出现三星新折叠屏手机保护壳信息，进一步指向Galaxy Z Fold 8 Ultra的命名。此前泄露称三星将调整Z Fold系列命名，宽版叫Galaxy Z Fold 8，窄版叫Z Fold 8 Ultra；这批6月25日认证的宇川保护壳支持Qi2磁吸充电，Fold机型标注最高20W，Flip 8为15W，三星预计7月22日发布新品。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-cases-3682493/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-30T03:00:00+08:00"
+            },
+            {
               "title": "SwitchBot 新款吸顶灯无需昂贵网关即可支持 Matter 彩色智能照明",
               "brief": "SwitchBot 发布 RGBICWW 智能吸顶灯，主打无需专有网关即可接入 Matter。它通过 Wi-Fi 原生支持 Apple Home、Google Home、Alexa 和 SmartThings，并可在本地处理指令；灯具结合 RGB 分区彩光与冷暖白光，兼顾氛围效果和日常照明。",
               "source_url": "https://www.androidauthority.com/switchbot-smart-ceiling-light-launch-3682528/",
               "source_name": "Android Authority",
               "published_at": "2026-06-30T02:43:54+08:00"
-            },
-            {
-              "title": "Google Meet 的 Gemini 会议记笔记功能向更多网页和移动端用户开放",
-              "brief": "Google 宣布，Google AI Pro 和 Ultra 订阅用户现在可在网页版和移动端 Meet 使用“为我记笔记”功能。该工具由 Gemini 驱动，可实时转录会议，将笔记保存到 Google Docs，并通过邮件发送摘要和待办事项；目前支持英语、法语、德语、意大利语、日语、韩语、葡萄牙语和西班牙语。",
-              "source_url": "https://www.androidauthority.com/google-meet-take-note-for-me-expansion-3682506/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-30T02:31:02+08:00"
-            },
-            {
-              "title": "Android 手机如何帮助委内瑞拉用户躲避强震风险",
-              "brief": "委内瑞拉连续地震后，部分用户报告 Android 地震预警系统在震动到达前数秒发出提醒。该系统利用手机加速度计和众包数据识别附近设备的异常震动，再向符合条件的 Android 手机发送警报；文章称，iPhone 目前主要依赖政府机构提供地震提醒。",
-              "source_url": "https://www.androidauthority.com/venezuela-android-google-earthquake-alert-3682394/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-30T02:19:13+08:00"
-            },
-            {
-              "title": "Ultimate Ears 高评分蓝牙音箱降至 49.99 美元历史低价",
-              "brief": "亚马逊将 Ultimate Ears MINIROLL 蓝牙音箱价格降至 49.99 美元，低于 79.99 美元建议零售价，折扣为 30 美元。文章称这是其追踪到的最低价；该音箱体积小，带可挂绑带，续航最长 12 小时，并具备防水、防尘、抗摔能力，还支持 PartyUp 配对多台播放。",
-              "source_url": "https://www.androidauthority.com/ultimate-ears-miniroll-bluetooth-speaker-deal-3682484/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-30T01:46:52+08:00"
-            },
-            {
-              "title": "Hue Bridge Pro 用户警告：新固件可能导致智能家居网关变砖",
-              "brief": "部分 Philips Hue Bridge Pro 用户报告，近期固件更新后设备无法使用。相关反馈指向 2071353020 版本，该更新自 6 月 4 日起推送；受影响网关会失去响应并只显示红色状态灯，重置也无法恢复，用户可能需要更换设备。报道称飞利浦 Hue 正在调查，问题似乎并非普遍发生。",
-              "source_url": "https://www.androidauthority.com/update-bricking-hue-bridge-pro-3682465/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-30T01:41:07+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Uber 不再在凤凰城提供 Waymo 打车服务",
+              "brief": "Uber 与 Waymo 已结束在美国主要市场凤凰城的合作，Uber 不再通过平台提供 Waymo 无人车行程。Waymo 表示，这些车辆已重新并入其凤凰城车队，仍可通过 Waymo 应用服务乘客，并继续与 Via、DoorDash 等项目配合。Uber 则正扩展自有自动驾驶布局。",
+              "source_url": "https://www.engadget.com/2204472/uber-is-no-longer-offering-waymo-rides-in-phoenix/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-30T04:43:16+08:00"
+            },
+            {
+              "title": "Google 将个性化智能扩展至 Gemini 应用图像生成",
+              "brief": "Google 正把个性化智能扩展到 Gemini 应用的 Nano Banana 和 Google Photos，美国符合条件的大多数个人账户可使用。该功能可让聊天机器人在用户授权后调用 Gmail、Google Photos 等服务中的信息，更快理解涉及本人、亲友的图像生成或编辑请求，并设有年龄和语言限制。",
+              "source_url": "https://www.engadget.com/2204410/google-expands-personalized-intelligence-to-gemini-app-image-creation/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-30T04:01:41+08:00"
+            },
+            {
+              "title": "裁员临近，Xbox 工会成员要求透明和诚信谈判",
+              "brief": "在多方报道称微软游戏部门可能于 7 月大规模裁员后，代表微软及其他游戏员工的美国通信工人协会准备谈判员工保护。新任 Xbox 管理层此前称业务投入过度且收入下滑，暗示现状不可持续；工会则要求高管保持透明、诚信谈判，并给予开发者基本尊严。",
+              "source_url": "https://www.engadget.com/2204328/xbox-union-members-argue-for-transparency-and-good-faith-bargaining/",
+              "source_name": "Engadget",
+              "published_at": "2026-06-30T03:06:25+08:00"
+            },
             {
               "title": "美国最高法院限制地理围栏搜查令的使用",
               "brief": "美国最高法院裁定限制执法机构使用地理围栏搜查，称个人对手机位置信息享有合理隐私期待，相关搜查受第四修正案约束。案件源于弗吉尼亚银行抢劫案，警方曾让谷歌筛查案发前后一小时附近手机用户，并从19人中获得3人的信息；法院认为这类做法不能先搜索再形成怀疑，今后必须取得有合理根据的正式搜查令。",
@@ -214,33 +242,33 @@
               "source_url": "https://www.engadget.com/2203763/why-dont-plug-power-strip-into-smart-plug/",
               "source_name": "Engadget",
               "published_at": "2026-06-30T02:30:00+08:00"
-            },
-            {
-              "title": "MacBook Ultra传闻：触控屏、芯片、发布日期等看点",
-              "brief": "围绕传闻中的MacBook Ultra，报道称苹果可能推出首款配备OLED触控屏的高端笔记本，以回应创作者对触控绘图、遮罩和3D工作的需求。爆料称14英寸和16英寸机型代号为K114、K116，可能在2026年亮相，并面向此前常被Windows触控笔记本吸引的用户；不过价格、规格和发布时间仍未确定。",
-              "source_url": "https://www.engadget.com/2204268/macbook-ultra-rumors/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-30T02:23:18+08:00"
-            },
-            {
-              "title": "LG StanbyME 2 Max是售价1300美元的32英寸独立触控显示器",
-              "brief": "LG发布StanbyME 2 Max独立触控显示器，32英寸屏幕支持4K画面，售价1300美元。它可从落地支架上取下，内置系统可运行流媒体、FAST频道、生产力工具和视频通话，并配备α8 AI Processor Gen3、Dolby Atmos和侧向扬声器；相比2021年首代产品，续航提升到约4.5小时，屏幕尺寸和分辨率也更高。",
-              "source_url": "https://www.engadget.com/2204176/lg-stanbyme-2-max-is-a-standalone-32-inch-touchscreen-display-that-costs-1300/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-30T01:28:57+08:00"
-            },
-            {
-              "title": "Tidal不禁AI音乐，但不会向上传者付费",
-              "brief": "Tidal公布AI生成音乐政策，平台不会禁止相关曲目，但会取消被认定为100%由AI生成作品的变现资格。新规将于7月15日生效，Tidal称版税应归于由人类直接创作、编写和表演的原创作品，并会为完全AI生成内容加上标签；若作品利用他人音乐、姓名或肖像、欺骗听众或涉及可疑播放上传，也不会被容忍。",
-              "source_url": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-30T01:23:36+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "据称泄露的 iPhone 18 Pro 照片出现在暗网上",
+              "brief": "路透社报道称，疑似 iPhone 18 Pro 的照片和零部件清单在暗网上出现。此前，苹果关键供应商塔塔电子确认遭遇数据泄露；安全研究人员称勒索组织 World Leaks 发布了逾 20 万份相关文件，其中包括苹果、特斯拉等客户资料。",
+              "source_url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+              "source_name": "The Verge",
+              "published_at": "2026-06-29T16:18:26-04:00"
+            },
+            {
+              "title": "Tidal 不会为 AI 生成音乐支付版税，但也不会全面封禁",
+              "brief": "Tidal 公布 AI 生成音乐新政策，将从 7 月 15 日起为识别为完全由 AI 生成的曲目添加图标标识，但从即日起取消其变现资格。平台称其目标是保护艺术家并告知听众，版税应流向由人类直接制作、创作和表演的原创作品。",
+              "source_url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+              "source_name": "The Verge",
+              "published_at": "2026-06-29T15:47:35-04:00"
+            },
+            {
+              "title": "索尼下一代 PlayStation 将走出“客厅”",
+              "brief": "索尼在近期投资者问答中暗示，下一代 PlayStation 将提供某种能在客厅之外游玩的体验。相关回应是在被问及如何吸引疫情期间转向游戏 PC 的用户时作出；索尼称 PlayStation 长期与客厅游玩相关，但近年全球更多用户使用个人显示器。",
+              "source_url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+              "source_name": "The Verge",
+              "published_at": "2026-06-29T15:12:15-04:00"
+            },
             {
               "title": "OpenAI预告Codex专用新硬件",
               "brief": "OpenAI预告将于7月15日推出一款与AI编程工具Codex相关的硬件。预告视频显示一个带多枚按键的方形设备，暗示常用Codex快捷操作将升级；它并非与Jony Ive合作的神秘AI设备，而是与键盘和宏键盘厂商Work Louder联合打造，外形类似其Creator Micro 2。",
@@ -254,27 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-06-29T13:49:12-04:00"
-            },
-            {
-              "title": "目前发现的最佳 7 月 4 日促销",
-              "brief": "美国独立日促销已开始汇集，虽然今年 Prime Day 刚结束，节奏与往年相反，但不少熟悉折扣仍在延续。Best Buy 推出 7 月 4 日促销，REI 的户外装备活动持续到本周，部分 Apple 商品也有接近涨价前的价格，文章将继续记录本周发现的科技与户外装备优惠。",
-              "source_url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-29T12:42:48-04:00"
-            },
-            {
-              "title": "WhatsApp 将推出用户名：如何提前保留",
-              "brief": "WhatsApp 将在今年晚些时候推出用户名，让用户无需分享电话号码也能添加联系人和聊天，以提升隐私保护。用户名本周起可提前保留，方便用户抢注已在其他平台使用的账号名；功能将在未来数月逐步上线，用户所在国家可用时会收到通知，且他人需知道准确用户名才能联系。",
-              "source_url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
-              "source_name": "The Verge",
-              "published_at": "2026-06-29T12:00:00-04:00"
-            },
-            {
-              "title": "美国议员拟禁止 AI 公司出售你的健康数据",
-              "brief": "美国议员提出新版数据隐私法案，拟禁止出售健康数据，并限制向数据经纪商转卖相关信息。该提案将覆盖包括聊天机器人服务在内的数据来源，背景是 AI 产品可能接触用户敏感健康信息；文章称，新方案意在收紧健康和位置等个人数据的商业流通。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-              "source_name": "The Verge",
-              "published_at": "2026-06-29T12:00:00-04:00"
             }
           ]
         }
@@ -286,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《超级少女》票房失利，据称或让华纳兄弟院线期亏损1亿美元",
+              "brief": "据《综艺》报道，《超级少女》上映首个周末表现不佳，可能在院线期让华纳兄弟亏损约1亿美元。影片制作成本1.7亿美元、营销1.2亿美元，全球开局6800万美元，预计总票房仅2亿至2.1亿美元；7月多部新片上映也将压缩其后续空间，网络评价分歧可能进一步影响观众入场。",
+              "source_url": "https://www.ign.com/articles/box-office-disaster-supergirl-could-reportedly-lose-warner-bros-100-million-during-its-theatrical-run",
+              "source_name": "IGN",
+              "published_at": "2026-06-30T03:49:57+08:00"
+            },
             {
               "title": "Dbrand因未获Valve授权取消Steam Machine伴侣方块外壳",
               "brief": "Dbrand取消了为Valve Steam Machine设计的Companion Cube外壳，并开始向买家退款。原因是该公司承认从未向Valve取得授权，却把《传送门》的经典方块概念做成99美元产品；它称曾投入数千小时、多次重做，并愿意每件亏损销售，但订单开放后Valve指出该设计属于其知识产权。",
@@ -313,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/roblox-reveals-6-new-exclusive-18-games-including-an-extraction-shooter-from-the-co-founder-of-bungie",
               "source_name": "IGN",
               "published_at": "2026-06-30T00:01:35+08:00"
-            },
-            {
-              "title": "《Backrooms》加长版即将上映，片尾后增加15分钟影院独占内容",
-              "brief": "《Backrooms》将推出名为“Everything Must Go Edition”的新版，并于7月3日在影院上映。多家院线页面显示，该版本会在片尾字幕后加入15分钟额外内容，且描述为影院独占，意味着原片结构可能不变；目前尚不清楚新增部分是删减片段、幕后内容还是其他材料。",
-              "source_url": "https://www.ign.com/articles/extended-cut-of-backrooms-hits-theaters-soon-with-additional-15-minutes-of-theatrically-exclusive-footage-after-the-credits",
-              "source_name": "IGN",
-              "published_at": "2026-06-29T23:45:36+08:00"
             }
           ]
         },
