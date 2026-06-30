@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T12:52:00.947050+08:00",
+  "generated_at": "2026-06-30T14:53:32.318184+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,6 +89,13 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Google Pixel 手机还缺少哪些其他设备已有的功能？",
+              "brief": "文章围绕 Pixel 相比其他手机仍缺少的功能发起开放讨论。背景是 Android 17 代码显示，Google 正为 Pixel 开发更完整的壁纸随机轮换功能，而这一功能在三星手机和 iPhone 上已较常见；文中还提到 Pixel 近年陆续补上气泡弹窗应用、PIN 自动补全解锁等能力，并征集读者认为仍缺失的项目。",
+              "source_url": "https://9to5google.com/2026/06/29/google-pixel-missing-features-poll/",
+              "source_name": "9to5Google",
+              "published_at": "2026-06-30T09:00:00+08:00"
+            },
+            {
               "title": "三星 Galaxy Z Fold 8 系列配色随官方保护壳泄露",
               "brief": "一组泄露图片展示了三星 Galaxy Z Fold 8、Fold 8 “Ultra”和 Flip 8 的官方保护壳，也间接暴露新折叠机配色。报道指出部分保护壳带有用于 Qi2 对齐的磁体，另有联名图案和新芳纶纤维壳；可见配色包括深紫、银白、黑灰、薰衣草紫和粉色等。",
               "source_url": "https://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/06/29/philips-hue-bridge-pro-update-seems-to-be-breaking-the-hub-taking-lights-down-with-it/",
               "source_name": "9to5Google",
               "published_at": "2026-06-30T07:30:00+08:00"
-            },
-            {
-              "title": "Android 2026 年 6 月 Google 系统更新新内容",
-              "brief": "9to5Google 汇总 2026 年 6 月 Android Google 系统更新，主要覆盖 Play 服务、Play 商店和系统更新。v26.25 带来定位动作、连接安全、系统稳定性和 Wallet 更新；Play 商店 v52.1 加入游戏内视频、AI 图片标记及安装器性能改进。",
-              "source_url": "https://9to5google.com/2026/06/29/june-2026-google-system-updates/",
-              "source_name": "9to5Google",
-              "published_at": "2026-06-30T07:17:00+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "苹果近年最大泄露显示 iPhone 18 Pro 经受跌落测试",
+              "brief": "苹果供应商塔塔电子遭遇数据泄露，曝光了疑似 iPhone 18 Pro 进行内部跌落测试的照片和视频。这次泄露不同于常见 CAD 图或模型机，还包含供应商资料和组件清单等机密文件。画面中的手机为银色直板设计，配有三摄、矩形圆角相机岛、闪光灯、LiDAR 和居中的苹果标志。",
+              "source_url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
+              "source_name": "Android Authority",
+              "published_at": "2026-06-30T12:58:28+08:00"
+            },
+            {
               "title": "OpenClaw终于推出官方应用，但首批体验评价不佳",
               "brief": "OpenClaw推出Android和iOS官方配套应用，用户可通过手机连接自己的OpenClaw Gateway与助手交互。该应用定位为本地优先，支持二维码或设置码配对、聊天、按住说话、审核批准Gateway请求的操作，并可在授权后使用相机、屏幕、位置和通知等手机功能；但早期用户批评其界面设计、配对流程和整体完成度。",
               "source_url": "https://www.androidauthority.com/openclaw-android-ios-app-launch-3682683/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/kobo-storygraph-integration-live-3682595/",
               "source_name": "Android Authority",
               "published_at": "2026-06-30T05:51:45+08:00"
-            },
-            {
-              "title": "美国最高法院让警方更难获取手机位置数据",
-              "brief": "美国最高法院在 Chatrie v. United States 案中以 6 比 3 裁定，第四修正案保护用户交给 Google、Apple 等公司的位置历史等数据。裁决意味着警方获取这类数据需要搜查令；案件源于 2019 年银行抢劫调查中使用地理围栏令查找案发现场附近设备。",
-              "source_url": "https://www.androidauthority.com/supreme-court-location-data-ruling-3682568/",
-              "source_name": "Android Authority",
-              "published_at": "2026-06-30T05:14:14+08:00"
             }
           ]
         },
@@ -334,6 +334,20 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "美国最高法院裁定手机地理位置数据受第四修正案保护",
+              "brief": "美国最高法院在 Chatrie v US 案中以 6 比 3 裁定，政府通过地理围栏搜查令获取手机位置数据属于第四修正案保护范围。案件源于 2019 年银行抢劫调查，警方要求 Google 提供案发前后 30 分钟、距银行 150 米内设备账号，并据此锁定启用位置历史的 Chatrie。",
+              "source_url": "https://www.solidot.org/story?sid=84713",
+              "source_name": "Solidot",
+              "published_at": "2026-06-30T13:53:58+08:00"
+            },
+            {
+              "title": "Rocket Lab 将收购铱星",
+              "brief": "Rocket Lab 宣布与卫星运营商铱星达成最终收购协议，将以每股 54 美元的现金加股票方式收购其全部已发行普通股。交易对铱星估值约 80 亿美元，仍需铱星股东和监管机构批准，预计 2027 年中期完成；铱星目前运营 80 颗卫星，其中 66 颗活跃、14 颗备用。",
+              "source_url": "https://www.solidot.org/story?sid=84712",
+              "source_name": "Solidot",
+              "published_at": "2026-06-30T12:28:34+08:00"
+            },
+            {
               "title": "世界各地学生使用智能眼镜在考试中作弊",
               "brief": "世界各地出现学生借助AI智能眼镜在考试中作弊的情况，各国考试机构因此加强对眼镜等设备的检查。中国本月高考逾千万考生参加，官方要求检查所有学生眼镜；英格兰监管方警告AI眼镜和智能耳机可能加剧作弊，韩国也报告首例相关个案，研究者认为已曝光案例可能意味着还有更多未被发现。",
               "source_url": "https://www.solidot.org/story?sid=84711",
@@ -379,6 +393,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "研究称地球植被或可延续近19亿年",
+              "brief": "最新发表于《JGR Atmospheres》的研究认为，在无外力干预的情景下，地球植物或可延续至距今约18.7亿年后。研究通过气候模型比较升温主导和二氧化碳下降两条路径，显示长期高温或碳源匮乏都将压缩植被生存空间，并使复杂生态系统在未来20亿年内走向终结。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1567332.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-30T13:15:35+08:00"
+            },
+            {
               "title": "Meta用自研芯片在新服务器中复用旧DDR4内存",
               "brief": "Meta正用自研Vistara芯片把退役服务器中的DDR4内存接入新服务器。此举针对服务器三到五年更换、内存寿命七到十年的错配问题，借CXL和PCIe连接旧内存；MemServer可将约256GB回收DDR4作为额外内存节点使用。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1567330.htm",
@@ -405,13 +426,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1567324.htm",
               "source_name": "cnBeta",
               "published_at": "2026-06-30T12:16:54+08:00"
-            },
-            {
-              "title": "微软身份验证器将限制越狱或 root 设备使用工作、学校账号",
-              "brief": "微软身份验证器正在分阶段限制越狱苹果手机和已获取最高权限的安卓手机使用工作、学校账号，以降低组织安全风险。这项默认安全设置面向相关客户统一启用且不能退出，但保存在应用内的普通第三方双重验证代码和个人微软账号暂不受影响；用户会先看到警告，随后将无法添加凭据或批准登录。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567322.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-06-30T10:36:27+08:00"
             }
           ]
         },
@@ -419,39 +433,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "蔚来 App 大面积闪退，客服称已找到原因并推送更新",
-              "brief": "蔚来 App 被曝出现大面积闪退，部分车主无法进入控制界面并被困车外。故障主要集中在苹果版本，安卓端暂可正常使用，手机蓝牙钥匙也一度失去响应。客服称已找到原因并修复，新版 App 正分批推送，升级后可解决问题。",
-              "source_url": "https://www.ithome.com/0/970/476.htm",
+              "title": "消息称 AMD 通知 AIB：独显 GPU 与 GDDR 套料供货价上调约 10%",
+              "brief": "消息称 AMD 已通知 AIB 合作伙伴，独立显卡 GPU 与 GDDR 套料供货价格上调约 10%。背景是存储半导体进入所谓超级周期，GDDR 供应持续紧张，NVIDIA 此前也因同样原因上调 RTX 5090 / 5090 D v2 两款显卡套件出货成本，相关涨价或传导至渠道和消费终端。",
+              "source_url": "https://www.ithome.com/0/970/536.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-30T12:31:19+08:00"
+              "published_at": "2026-06-30T14:41:31+08:00"
             },
             {
-              "title": "华为 920 亿参数 openPangu-2.0-Flash 模型开源上线",
-              "brief": "华为 openPangu-2.0-Flash 模型权重、基础推理代码和训推算子于 6 月 30 日上线开源平台。该模型总参数量 92B、激活参数量 6B，是 openPangu 2.0 两个版本之一。华为称将通过昇腾原生训推技术提供实践参考，Pro 版本及更多组件将后续开源。",
-              "source_url": "https://www.ithome.com/0/970/466.htm",
+              "title": "三星暗示 Galaxy Ring 2 智能戒指将首次支持配对 iPhone",
+              "brief": "三星高管在回应 Galaxy Ring 是否会支持 iPhone 时给出积极但未明说的表态，被外界解读为 Galaxy Ring 2 可能首次支持配对苹果手机。三星还透露，2027 年将为 Galaxy Ring 上线 AI 健康教练，并计划加强 SmartThings 家居设备与手机联动。",
+              "source_url": "https://www.ithome.com/0/970/535.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-30T12:27:05+08:00"
+              "published_at": "2026-06-30T14:40:34+08:00"
             },
             {
-              "title": "雷蛇将推出太阳伊布、月亮伊布主题联名外设",
-              "brief": "雷蛇将推出太阳伊布和月亮伊布主题宝可梦联名系列新品，设计围绕“光与暗”元素展开。雷蛇与宝可梦公司此前已合作推出多款游戏外设，并从亚洲市场扩展至更多地区。目前官方尚未公布新品的具体品类、规格、售价和上市时间。",
-              "source_url": "https://www.ithome.com/0/970/456.htm",
+              "title": "优必选周剑：机器人将替代手机成为 AI 核心交互终端",
+              "brief": "优必选创始人周剑表示，机器人将替代手机，成为 AI 最核心的交互终端。其判断来自交互方式从手机、PC 的被动操作转向自然语言和主动服务，机器人可理解用户偏好并提供情感陪伴。发布会上，优必选称超仿生人形机器人 U1 系列订单已突破 1 万台，力争今年交付；该机分男女两款，各搭载 88 个高自由度运动关节。",
+              "source_url": "https://www.ithome.com/0/970/532.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-30T12:19:14+08:00"
+              "published_at": "2026-06-30T14:37:58+08:00"
             },
             {
-              "title": "我国首个 550 兆瓦 F 级燃机项目全容量投产发电",
-              "brief": "我国首个 550 兆瓦 F 级燃机项目已实现全容量投产发电，总装机容量达 1100 兆瓦。项目年发电量可达 21 亿千瓦时，可满足约 175 万个家庭一年用电需求，并节约标准煤、减少二氧化碳排放。项目还具备快速切负荷和智能监盘等能力。",
-              "source_url": "https://www.ithome.com/0/970/455.htm",
+              "title": "江波龙：mSSD 月产能百万级交付能力已完成建设",
+              "brief": "江波龙宣布 mSSD 月产能百万级稳定交付能力已完成建设，标志该产品进入产业化落地阶段。公司称，其 mSSD 今年 6 月完成产线打磨、工艺优化与产能爬坡，采用 SiP 系统级集成封装，将主控、闪存、电源管理芯片和被动元器件集成到单一封装体内，已与联想、华硕等客户合作。",
+              "source_url": "https://www.ithome.com/0/970/529.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-30T12:18:52+08:00"
+              "published_at": "2026-06-30T14:35:12+08:00"
             },
             {
-              "title": "IT之家安卓版 9.30 发布，新增液态玻璃悬浮底栏",
-              "brief": "IT之家安卓版 9.30 发布，新增首页和文章、帖子详情页底部工具栏悬浮风格及玻璃材质背景。玻璃效果需安卓 13 及以上支持，低版本可开启悬浮底栏但不支持高级材质。本次更新还支持搜索我的投稿、帖子、评论和回帖，并修复多项显示与同步问题。",
-              "source_url": "https://www.ithome.com/0/970/438.htm",
+              "title": "飞傲推出 FG3 头戴式游戏耳机，售价 399 元",
+              "brief": "飞傲推出 FG3 头戴式游戏耳机，定价 399 元。该产品采用双动圈设计，并配合全频段电子分频，以提升游戏大动态响应和临场感；耳机还内置双核 DSP 芯片，最高支持 192kHz/24bit 高清解码，提供虚拟 7.1 音效、10 段 PEQ 和 5 种预设音效。",
+              "source_url": "https://www.ithome.com/0/970/528.htm",
               "source_name": "IT之家",
-              "published_at": "2026-06-30T12:10:01+08:00"
+              "published_at": "2026-06-30T14:33:14+08:00"
             }
           ]
         },
@@ -459,39 +473,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "OpenClaw 推出 iOS 和 Android 客户端，可配对管理实例并聊天",
-              "brief": "OpenClaw 推出官方 iOS 和 Android 客户端，用户配对本地实例后可在手机上查看状态、调整设置并与个人 AI 助手聊天。该项目主打本地优先和权限自控，移动端还支持操作审批、设备调用、通知、语音交互和媒体分享，但已有尝鲜用户反馈卡顿、白屏、卡死、配对失效等问题。",
-              "source_url": "https://www.landian.news/archives/113702.html",
+              "title": "加州政府与 Anthropic 合作，Claude AI 服务可享五折",
+              "brief": "美国加州政府与 Anthropic 达成合作，将把 Claude AI 引入州和地方政府日常工作。该协议旨在提升行政效率和公共服务质量，州、县、市政府可按五折使用 Claude 企业服务，Anthropic 还将提供培训，应用场景包括简化行政流程、分析信息、起草文档和网络安全防御。",
+              "source_url": "https://www.landian.news/archives/113707.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-30T12:01:12+08:00"
+              "published_at": "2026-06-30T14:37:11+08:00"
             },
             {
-              "title": "塔塔电子数据泄露扩大，苹果对供应链机密外泄表示担忧",
-              "brief": "印度塔塔集团旗下塔塔电子遭黑客攻击后，更多与苹果产品相关的内部资料被陆续泄露。塔塔电子为苹果组装设备并持有供应商机密，因未支付赎金，黑客已公开 iPhone 18 Pro 系列供应商列表、零部件清单、设计规格、测试图像以及台积电和高通文件；苹果仅表示担忧。",
-              "source_url": "https://www.landian.news/archives/113701.html",
+              "title": "X/Twitter 推出官方 MCP 服务器，支持 AI 智能体发帖和搜索",
+              "brief": "X/Twitter 推出官方托管的 MCP 服务器，让 AI 智能体可通过 MCP 访问 X API，执行发帖、读取推文、搜索、点赞、转发、查询用户和管理书签等操作。MCP 服务本身免费，但核心 API 仍按 X API 计费，开发者需创建 OAuth 应用并充值信用点后使用。",
+              "source_url": "https://www.landian.news/archives/113706.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-30T11:15:48+08:00"
+              "published_at": "2026-06-30T14:20:31+08:00"
             },
             {
-              "title": "小米米家 Google Play 版后续将不再支持中国大陆服务",
-              "brief": "小米米家安卓版将按应用渠道区分服务，Google Play 版后续不再支持中国大陆地区用户使用。相关提示称这是区域服务政策调整，国内用户需下载中国大陆版米家应用。目前停服时间尚未明确，受影响用户主要是偏好 Play 版性能和广告体验的人；iOS 版米家暂无同类问题。",
-              "source_url": "https://www.landian.news/archives/113700.html",
+              "title": "红帽 ARM 工程师因稳定性和性能问题换回 AMD 处理器",
+              "brief": "红帽 ARM 团队高级软件工程师马尔钦・尤什凯维奇在使用基于 Ampere Altra 的 Arm64 Linux 开发机 11 个月后，因 PCIe 控制器故障和单线程性能不佳改回 AMD 处理器。他表示问题主要来自平台和 AArch64 Linux 桌面硬件生态，而非 Arm 架构本身。",
+              "source_url": "https://www.landian.news/archives/113705.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-30T11:02:53+08:00"
+              "published_at": "2026-06-30T14:00:30+08:00"
             },
             {
-              "title": "Cursor 推出 iOS 测试版，支持远程执行编码任务",
-              "brief": "AI 编码工具 Cursor 推出 iOS 测试版，允许付费订阅开发者在手机上选择仓库、启动或远程控制智能体处理编码、排障和 PR。该功能面向移动办公需求，云端智能体运行在隔离虚拟机中，可异步迭代并通过实时活动和推送提示任务状态；目前云端与本地体验仍有差异。",
-              "source_url": "https://www.landian.news/archives/113699.html",
+              "title": "DBrand 未获 Valve 授权的 Steam Machine 伴侣魔方保护壳被停售",
+              "brief": "DBrand 为 Steam Machine 制作的 Companion Cube 硅胶保护壳因未获 Valve 授权被要求停售，项目已取消并将为预购用户自动退款。该产品借用了《传送门》伴侣魔方名称和设计元素，DBrand 承认未在设计前沟通授权，Valve 也拒绝为已发布产品补发授权。",
+              "source_url": "https://www.landian.news/archives/113704.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-30T10:43:53+08:00"
+              "published_at": "2026-06-30T13:31:58+08:00"
             },
             {
-              "title": "AMD 显卡驱动在 Windows 10 上再曝 SAM 异常",
-              "brief": "AMD 显卡驱动在 Windows 10 上被曝存在新问题，部分用户更新后 SAM 智能访问内存显示被禁用，并伴随游戏崩溃和系统反复提示硬件更改。此前 AMD 已为驱动兼容性故障发布热补丁，但该问题尚未获官方确认；用户称 BIOS 和检测工具显示 SAM 已开启，矛盾可能出在驱动软件。",
-              "source_url": "https://www.landian.news/archives/113698.html",
+              "title": "微软发布 WSL 容器预览版，无需 Docker Desktop 即可管理容器",
+              "brief": "微软发布 WSL Containers 公共预览版，开发者更新 WSL 到预览版本后即可用 wslc 命令创建、运行和管理容器，无需安装 Docker Desktop。该功能基于 Hyper-V，支持镜像、网络、卷、会话和 GPU 容器管理，面向轻量开发、AI 工作负载和企业管控场景。",
+              "source_url": "https://www.landian.news/archives/113703.html",
               "source_name": "蓝点网",
-              "published_at": "2026-06-30T10:00:05+08:00"
+              "published_at": "2026-06-30T13:05:30+08:00"
             }
           ]
         },
@@ -499,39 +513,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "华为 openPangu-2.0-Flash 模型正式开源上线",
-              "brief": "华为宣布 openPangu-2.0-Flash 模型正式开源上线，延续开源盘古 openPangu 品牌的模型开放计划。原文称，开源盘古是华为开源 AI 模型品牌，相关模型将陆续开源，当前消息未披露该模型的参数规模、应用场景或下载方式等更多细节。",
-              "source_url": "https://36kr.com/newsflashes/3875157845497091?f=rss",
+              "title": "耀速科技完成近2亿元A+轮融资",
+              "brief": "耀速科技近日宣布完成近2亿元人民币A+轮融资，国方创投、清松资本、广发信德、东方富海、沄柏资本参与，老股东雅亿资本继续加码。本轮资金将用于推进3D生物智能平台建设，提升垂类AI模型、生物机制解析、高通量实验和多模态数据能力。",
+              "source_url": "https://36kr.com/newsflashes/3875310913450249?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-30 12:47:18  +0800"
+              "published_at": "2026-06-30 14:50:07  +0800"
             },
             {
-              "title": "英威腾称暂未开展人形机器人具体业务",
-              "brief": "英威腾在互动平台表示，公司目前暂未开展人形机器人具体业务。该回应针对投资者关注的人形机器人相关布局，明确了公司现阶段业务边界。原文未进一步说明公司是否已有机器人零部件、控制系统或后续规划等具体信息。",
-              "source_url": "https://36kr.com/newsflashes/3875137219761411?f=rss",
+              "title": "沪深两市成交额连续12个交易日突破3万亿元",
+              "brief": "沪深两市成交额连续第12个交易日突破3万亿元，显示A股市场交易活跃度维持在高位。原文未披露分市场成交结构或具体推动因素，关键细节是连续第12个交易日和突破3万亿元两个量化信息。",
+              "source_url": "https://36kr.com/newsflashes/3875301829079298?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-30 12:30:21  +0800"
+              "published_at": "2026-06-30 14:40:52  +0800"
             },
             {
-              "title": "百度旗下基金等入股太空算力公司轨道辰光",
-              "brief": "北京轨道辰光科技有限公司近日发生工商变更，百度旗下三亚百川致新私募股权投资基金合伙企业等新增为股东。公开资料显示，该公司专注太空算力基础设施建设，注册资本由约954.1万元增至约1001.8万元。",
-              "source_url": "https://36kr.com/newsflashes/3875135219406086?f=rss",
+              "title": "现货白银日内涨幅扩大至2%",
+              "brief": "现货白银日内涨幅扩大至2%，报价为59.46美元/盎司，显示当日贵金属市场中白银价格继续上行。原文未披露推动因素或成交变化，关键细节集中在2%的日内涨幅和59.46美元/盎司的最新报价。",
+              "source_url": "https://36kr.com/newsflashes/3875299620220936?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-30 12:23:07  +0800"
+              "published_at": "2026-06-30 14:38:37  +0800"
             },
             {
-              "title": "HORWIN 号外首款 400V 高压超级电摩 SENMENTI ONE 正式交付",
-              "brief": "HORWIN 号外宣布，400V 高压超级电摩 SENMENTI ONE 正式交付。原文将其称为全球首款400V高压超级电摩，信息重点在产品进入交付阶段。输入内容未提供交付地区、首批数量、售价、续航或充电配置等进一步细节。",
-              "source_url": "https://36kr.com/newsflashes/3875161599546377?f=rss",
+              "title": "英国第一季度GDP年率终值为0.9%，低于预期",
+              "brief": "英国公布第一季度GDP年率终值为0.9%，低于市场预期的1.1%，也较前值1.10%有所回落。该数据用于观察英国经济增长表现，关键细节是终值、预期值与前值三项对比均显示增速不及预期。",
+              "source_url": "https://36kr.com/newsflashes/3875296970698760?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-30 12:18:13  +0800"
+              "published_at": "2026-06-30 14:35:56  +0800"
             },
             {
-              "title": "慧谷新材称公司在超级电容器应用领域有相关产品",
-              "brief": "慧谷新材表示，公司在超级电容器应用领域有相关产品。该消息回应了市场对超级电容器相关业务的关注，说明公司已在该应用方向形成产品布局。输入内容未披露具体产品类型、客户情况、营收占比或量产进展等更多信息。",
-              "source_url": "https://36kr.com/newsflashes/3875133610218754?f=rss",
+              "title": "江波龙建成mSSD月产能百万级交付能力",
+              "brief": "江波龙宣布mSSD高速存储介质产能达到重要里程碑，已建成月产能百万级交付能力。公司称其具备稳定、规模化量产交付条件，可匹配市场增量需求，后续产能仍有持续扩容和翻倍释放空间。",
+              "source_url": "https://36kr.com/newsflashes/3875293659001095?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-06-30 12:16:38  +0800"
+              "published_at": "2026-06-30 14:32:33  +0800"
             }
           ]
         }
