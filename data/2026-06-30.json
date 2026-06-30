@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T08:53:40.741045+08:00",
+  "generated_at": "2026-06-30T08:56:51.618851+08:00",
   "sections": [
     {
       "category": "主要",
@@ -379,18 +379,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "康卡斯特拟分拆环球NBC与天空电视台业务",
-              "brief": "康卡斯特计划分拆环球NBC和天空电视台相关业务，成立涵盖环球影城、孔雀流媒体及海外天空电视台的新传媒公司。此举发生在观众转向社交媒体和流媒体、公司股价承压之际，分拆后母公司将聚焦6500万用户的宽带与无线网络业务，并保留至多19.9%股份。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1567242.htm",
+              "title": "SEMI预计2026年300毫米存储设备投资将首次突破500亿美元",
+              "brief": "SEMI预计，2026年全球300毫米存储晶圆厂设备支出将首次突破500亿美元。AI基础设施扩张带动HBM、DDR5和先进3D NAND需求，促使存储厂商加快扩产和技术迁移。报告称，DRAM设备支出将增至370亿美元，3D NAND增至140亿美元，存储产能约达每月410万片晶圆。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567274.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T23:10:13+08:00"
+              "published_at": "2026-06-30T08:45:02+08:00"
             },
             {
-              "title": "Meta因担忧模型蒸馏限制员工使用Claude与Codex",
-              "brief": "Meta因担心第三方模型输出被用于训练自家AI，限制应用AI工程团队在部分场景使用Claude与Codex。内部规范于5月出台且仍有效，要求员工独立设计编程测试题，禁止用外部模型生成测评素材或任务思路，并规定AI生成内容投入使用前须经人工审核。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567240.htm",
+              "title": "Vanguard反作弊推出按需模式，仅在需要时启动",
+              "brief": "拳头游戏为Vanguard反作弊推出按需模式，使其不再随Windows启动，而是在玩家运行受保护游戏时加载。此举回应了用户对常驻内核驱动、开机时间和资源占用的担忧，同时以预检查维持安全链路。玩家需使用Windows 11 25H2或更高版本，并启用Secure Boot、TPM 2.0、IOMMU、VBS和HVCI等功能。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567272.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-06-29T23:10:01+08:00"
+              "published_at": "2026-06-30T08:41:15+08:00"
+            },
+            {
+              "title": "Google在美国向免费用户开放Gemini个性化AI图像生成",
+              "brief": "Google在美国向免费用户开放Gemini个性化AI图像生成功能，将由Nano Banana支持的图像生成接入“个人智能”。该功能基于用户授权的Google账号数据理解偏好，降低重复描述提示词的成本。用户可让Gemini从Gmail、相册、YouTube和搜索记录等来源推断元素，也可在工具菜单中临时关闭。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567270.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-30T08:38:45+08:00"
+            },
+            {
+              "title": "加州与Anthropic达成半价AI合同，将在州政府引入Claude",
+              "brief": "加州与Anthropic达成折扣合同，将以半价向州级机构和地方政府提供Claude聊天机器人。该协议延续州长纽森推动政府采用AI的行政命令，目标是在提高效率的同时保留公共服务责任。Claude可用于公文撰写、信息分析等场景，Anthropic还将为政府员工提供培训和技术支持。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567268.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-30T08:37:28+08:00"
+            },
+            {
+              "title": "NASA冷原子实验室完成升级，重返国际空间站开展量子研究",
+              "brief": "NASA升级后的冷原子实验室已重返国际空间站，用于在微重力环境下开展更深入的量子研究。该设施能制造和观测接近绝对零度的超冷原子气体，支持地面难以完成的基础物理实验。新科学模块改进了磁陷阱和原子源，可更灵活控制量子气体形状，并服务多个国际研究团队。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1567266.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-06-30T08:35:10+08:00"
             }
           ]
         },
@@ -431,6 +452,58 @@
               "source_url": "https://www.ithome.com/0/970/240.htm",
               "source_name": "IT之家",
               "published_at": "2026-06-30T01:31:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "深度求索 DS V4 系列 7 月将引入峰谷计费",
+              "brief": "深度求索通知，DS V4 系列模型将于2026年7月中旬正式上线，并在 API 调用中加入峰谷计费。该系列此前仍处预览阶段，限时优惠价已转为正式价；上线后北京时间09:00-12:00、14:00-18:00价格翻倍，其他时段不变，DS V4 PRO高峰价为百万输入缓存命中0.050元、未命中6元、百万输出12元。",
+              "source_url": "https://www.landian.news/archives/113695.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-06-30T08:30:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "美元兑日元站上162关口",
+              "brief": "外汇市场出现日元走弱表现，美元兑日元汇率站上162关口。该消息属于盘中汇率快讯，输入文本未披露触发因素、具体涨幅或后续走势，只显示该汇率已突破这一整数点位，随后内容转入深交所调整港股通标的名单等其他快讯。",
+              "source_url": "https://36kr.com/newsflashes/3874962977625091?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-30 08:56:10  +0800"
+            },
+            {
+              "title": "政策和资本推动脑机接口商业化提速",
+              "brief": "广东、安徽近日相继发布脑机接口发展行动计划，围绕技术攻关、临床转化和产业集群培育完善扶持政策。政策红利带动投融资升温，博睿康科创板IPO进入问询阶段，翔宇医疗拟定增加码脑机康复赛道，行业商业化推进加快。",
+              "source_url": "https://36kr.com/newsflashes/3874947204387845?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-30 08:52:30  +0800"
+            },
+            {
+              "title": "深交所将网易调入港股通标的证券名单",
+              "brief": "深交所公告调整港股通标的证券名单，网易被调入，福寿园被调出。此次调整依据《深圳证券交易所深港通业务实施办法》相关规定作出，并自2026年6月30日起生效，输入文本未披露更多调整原因或后续安排。",
+              "source_url": "https://36kr.com/newsflashes/3874955742500102?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-30 08:48:49  +0800"
+            },
+            {
+              "title": "两市融资余额减少86.74亿元",
+              "brief": "截至6月29日，沪深两市融资余额合计29716.72亿元，较前一交易日减少86.74亿元。分市场看，上交所融资余额为15052.22亿元，减少78.43亿元；深交所融资余额为14664.5亿元，减少8.31亿元。",
+              "source_url": "https://36kr.com/newsflashes/3874955135915267?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-30 08:48:12  +0800"
+            },
+            {
+              "title": "中信证券：本轮AI更像电新周期而非互联网泡沫",
+              "brief": "中信证券研报认为，2025年6月至今的AI交易更像2021年电新周期，而非2000年科网周期。研报称当前AI上游动态PE尚未坍缩、业绩预期刚开始上调，并列出价格见顶、下游涨价抱怨、海外Capex披露增多和拥挤度坍塌等见顶信号。",
+              "source_url": "https://36kr.com/newsflashes/3874944726520838?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-06-30 08:45:34  +0800"
             }
           ]
         }
