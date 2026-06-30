@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T04:52:57.167380+08:00",
+  "generated_at": "2026-07-01T06:54:47.975137+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Anthropic 推出 Claude Sonnet 5，以更低价格接近 Opus 性能",
+              "brief": "Anthropic 发布 Claude Sonnet 5，称其以更低价格接近 Opus 级表现，缩小 Sonnet 与 Opus 的差距。该模型可规划任务、调用浏览器和终端并自主运行；相比 Sonnet 4.6，它在推理、工具使用、编码和知识工作上提升，可完成更复杂任务并主动检查输出。它面向所有方案开放，Free 和 Pro 默认使用，8月31日前价格为每百万输入2美元、输出10美元。",
+              "source_url": "https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-01T05:35:56+08:00"
+            },
             {
               "title": "Beats 在美国和日本推出零售商独家橙色 Solo Buds",
               "brief": "苹果旗下 Beats 在美国和日本推出零售商独家橙色 Solo Buds。该耳机定位入门级，常规售价 79.99 美元，美国 Best Buy 已开售且当前优惠至 69.99 美元，日本 7-Eleven 将于 7 月 4 日上架。新品外观接近 2024 年印度排灯节促销款，但耳机和充电盒采用红色 Beats 标志。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
               "source_name": "MacRumors",
               "published_at": "2026-07-01T01:38:04+08:00"
-            },
-            {
-              "title": "美国最高法院将审理苹果在 Epic Games App Store 案中的上诉",
-              "brief": "美国最高法院同意审理苹果针对藐视法庭裁定的上诉，该裁定曾迫使苹果修改 App Store 外部链接规则。案件源于 Epic 指控苹果未遵守 2021 年禁令，继续对美国 App Store 的外部付款链接收取费用；苹果称原裁定适用不当。",
-              "source_url": "https://www.macrumors.com/2026/06/30/apple-epic-games-supreme-court/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-01T01:34:20+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "9to5Mac Daily：6 月 30 日，iPhone 18 与 Ultra 传闻等",
+              "brief": "9to5Mac Daily 发布 6 月 30 日节目，聚焦 iPhone 18 与 iPhone Ultra 传闻。节目背景是苹果下一代硬件与 iOS 27 限制受到关注，内容提到 iPhone 18 规格报告、OpenAI 挖走苹果 Vision Pro 和智能眼镜负责人，以及 iPhone Ultra 的价格和发布时间信息。",
+              "source_url": "https://9to5mac.com/2026/06/30/9to5mac-daily-june-30-2026-iphone-18-and-ultra-rumors-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T05:59:52+08:00"
+            },
+            {
+              "title": "美国悬赏 1000 万美元追查攻击 Signal 和 WhatsApp 用户的黑客",
+              "brief": "美国正悬赏 1000 万美元征集线索，以识别攻击 Signal 和 WhatsApp 用户的黑客。此举源于 FBI 对针对政府官员、军人、政治人物和记者的钓鱼行动展开调查；攻击者伪装成支持消息诱导受害者点击链接或提供验证码，并被指与俄罗斯相关组织有关。",
+              "source_url": "https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T05:56:06+08:00"
+            },
+            {
+              "title": "OpenAI 将 ChatGPT 个人理财功能扩展至更多用户",
+              "brief": "OpenAI 正向更多 ChatGPT 用户推出个人理财体验，部分美国 Pro 订阅者可率先使用。该功能意在让用户在受控数据权限下了解资金流向；用户可通过 Plaid 连接金融账户，查看支出、订阅、待付款项和投资组合表现，并可随时移除相关财务数据。",
+              "source_url": "https://9to5mac.com/2026/06/30/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T05:33:45+08:00"
+            },
+            {
+              "title": "Apple 地图部分用户出现故障，现已修复",
+              "brief": "Apple 地图一度对部分用户出现服务故障，影响搜索以及路线和导航功能，随后已修复。苹果系统状态页显示两起故障始于美国东部时间下午 4:47；这是 24 小时内第二次类似中断，9to5Mac 在澳大利亚、巴西、加拿大、德国和日本等状态页也看到相同问题。",
+              "source_url": "https://9to5mac.com/2026/06/30/apple-maps-is-currently-down-for-some-users/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T05:04:44+08:00"
+            },
+            {
               "title": "Gemini Spark 开始登陆 macOS 应用，支持本地任务和自动化",
               "brief": "Gemini Spark 正在向 macOS 应用推出，面向本地任务处理和自动化场景。输入摘要另提到 Qi2 升级可能让未来 Google Pixel 与 iPhone 机型支持 50W 无线充电，但未提供更多功能细节、发布时间范围或适用设备清单。",
               "source_url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-01T04:44:39+08:00"
-            },
-            {
-              "title": "MacBook Ultra 或对 MacBook Pro 用户是利好",
-              "brief": "苹果据传可能把下一代更薄、更轻、带触控屏的笔记本命名为 MacBook Ultra，同时保留现有 MacBook Pro 设计。文章认为，这可让 Pro 继续优先满足专业用户对性能、续航、键盘和接口的需求，避免重演 2016 年改版争议。",
-              "source_url": "https://9to5mac.com/2026/06/30/macbook-ultra-could-be-very-good-news-for-macbook-pro-users/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T04:42:48+08:00"
-            },
-            {
-              "title": "iPhone 18 Pro 或让经典屏幕开孔设计更接近退场",
-              "brief": "传闻称 iPhone 18 Pro 的灵动岛尺寸将比现款缩小约 35%，让屏幕可用面积增加。苹果多年来用刘海和灵动岛实现接近全面屏，同时容纳前置组件；这次缩小被视为其逐步取消屏幕开孔的又一步，iOS 27 的 Siri AI 设计也被认为有所暗示。",
-              "source_url": "https://9to5mac.com/2026/06/30/this-iconic-iphone-design-will-get-closer-to-retirement-with-iphone-18-pro/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T04:22:58+08:00"
-            },
-            {
-              "title": "Threads 为实时聊天加入翻译，并向更多用户开放创建权限",
-              "brief": "Threads 为 Live Chats 增加翻译支持，并扩大创建权限，所有 Community Champions 现在都可主持实时聊天。该功能面向围绕直播事件的公开群聊，最多 150 人参与；主持人可邀请三名共同主持、删除所有人可见的消息，平台还在测试突出主持人发言。",
-              "source_url": "https://9to5mac.com/2026/06/30/threads-adds-translation-to-live-chats-and-expands-chat-creation-to-more-users/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T04:11:56+08:00"
-            },
-            {
-              "title": "Family Feud Pocket 登陆 Apple Arcade，本周还有四款游戏将上线",
-              "brief": "Apple Arcade 已上线 Family Feud Pocket，并将在 7 月 2 日再加入四款游戏。该作是经典电视问答节目的官方版本，支持 iPhone、iPad、Mac、Vision Pro、Apple TV 和 iPod touch；玩家填写姓名后猜测调查中最常见答案，可体验线索、每日玩法、任务、多人模式和服装兑换。",
-              "source_url": "https://9to5mac.com/2026/06/30/family-feud-pocket-lands-on-apple-arcade-with-4-more-games-coming-later-this-week/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T03:43:57+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Gemini Spark 支持第三方应用和 MCP，并新增实时主题更新",
+              "brief": "Google正向Gemini Spark推出两项更新，使这款面向Google AI Ultra订阅用户的全天候个人代理可连接更多应用，并能实时跟踪主题。新支持包括Keep、Tasks以及Canva、Dropbox、Instacart、OpenTable、Zillow Rentals，MCP可通过gemini.google.com/apps添加自定义应用链接，网页和移动端下周先上线，Mac版随后推出。",
+              "source_url": "https://9to5google.com/2026/06/30/gemini-spark-apps-more/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-01T05:32:43+08:00"
+            },
             {
               "title": "Gemini Spark 开始推送至 macOS 应用，支持本地任务和自动化",
               "brief": "Google 开始向 macOS 版 Gemini 应用推送 Gemini Spark，让其处理涉及本地文件的任务并自动化桌面工作流。这是 I/O 2026 预告的两项桌面更新之一；安装 1.80.15.516 后，用户可在侧栏看到 Spark 标签，选择可访问的连接文件夹，并设置保持 Mac 唤醒、备份失败提醒和用量限制。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5toys.com/2026/06/30/today-android-app-deals-monsters-expedition/",
               "source_name": "9to5Google",
               "published_at": "2026-07-01T01:33:47+08:00"
-            },
-            {
-              "title": "三星 Android XR 版 Galaxy Glasses 应用曝光，展示保护盒和 One UI XR",
-              "brief": "三星面向 Android XR 设备 Galaxy Glasses 的配套应用被曝光。背景是三星正推进 XR 硬件和软件生态，应用内容显示其界面与配件支持正在成形；关键细节包括保护盒相关画面以及名为“One UI XR”的系统界面线索。",
-              "source_url": "https://9to5google.com/2026/06/30/samsungs-app-for-android-xr-powered-galaxy-glasses-leaks-with-case-one-ui-xr-gallery/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-01T01:05:00+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "NASA或将备用核动力火星车送上月球",
+              "brief": "NASA表示正认真考虑把毅力号火星车的全尺寸工程备份“Promise”送往月球，以加快南极地区探测和月球基地相关工作。该车现存放在喷气推进实验室，原本没有发射计划；若成行，将搭载可用的钚-238核电源，并可能需由Blue Moon或星舰运送，在月夜和复杂地形中持续运行。",
+              "source_url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-01T04:50:14+08:00"
+            },
+            {
+              "title": "谷歌关闭Tenor GIF API，迫使X、Discord等平台调整",
+              "brief": "谷歌已于6月30日关闭Tenor GIF API，X、Discord等依赖其动图搜索、分享和保存的平台必须改用其他服务。Tenor于2018年被谷歌收购，此后接入Gboard和Google Messages，同时向外部平台开放；谷歌1月停止新增集成，称关闭API是为集中资源提升核心产品。",
+              "source_url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-01T04:38:51+08:00"
+            },
+            {
+              "title": "苹果将App Store费用之争提交最高法院",
+              "brief": "苹果请求美国最高法院介入其与Epic围绕App Store费用的纠纷，希望推翻一项藐视法庭裁定。此前法院要求苹果允许开发者链接到外部支付，但苹果仍对跳转交易收取27%佣金；第九巡回法院认为这使开发者几乎无利可图、削弱禁令效果，苹果作为最后手段称该标准与其他巡回法院冲突。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-01T04:20:29+08:00"
+            },
+            {
+              "title": "新攻击凸显AI浏览器的又一项风险",
+              "brief": "新研究显示，恶意网站可诱导AI浏览器内置大模型进入虚假规则环境，从而绕过安全护栏。AI浏览器承诺代办订餐、发邮件等任务，但网页内容与模型指令边界变弱；概念验证让模型在谜题中接受“2+2=5”等错误答案，研究人员称随后可能执行提取私有代码或凭据等原本禁止的操作。",
+              "source_url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-01T04:03:14+08:00"
+            },
+            {
               "title": "谷歌推出迄今最快、最便宜的 Nano Banana 2 Lite 图像模型",
               "brief": "Google DeepMind 推出 Nano Banana 2 Lite 图像模型，主打更快、更便宜的生成体验。该模型属于 Gemini 3.1 系列，面向快速构思和原型制作，默认低思考模式约 4 秒出图，但在小字、信息图数据准确性和人物一致性上更容易出错。",
               "source_url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-01T02:36:10+08:00"
-            },
-            {
-              "title": "小肯尼迪向 FDA 顾问小组加入多名肽类产品推广者",
-              "brief": "美国卫生部长小肯尼迪向 FDA 肽类药物顾问小组新增 9 名成员，推动重新审视多种未经充分证实的注射肽。FDA 科学家曾认定这些药物缺乏疗效证据且可能有安全风险，新文件仍维持反对扩大可及性的立场，会议定于 7 月 23 日至 24 日讨论 7 种肽。",
-              "source_url": "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-01T02:25:10+08:00"
-            },
-            {
-              "title": "特朗普重设计所有 .gov 网站计划催生糟糕 AI 设计",
-              "brief": "特朗普去年8月以行政令设立国家设计工作室，要求三年内更新美国网页设计系统并改造2.7万个.gov网站。原本负责政府网站改进的18F等团队遭裁撤后，任务更难推进；成立近一年，该团队成果有限，新的政府网页标准也已延后，部分AI生成设计被批评效果糟糕。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-01T00:59:02+08:00"
-            },
-            {
-              "title": "研究称美国到2040年全面电动化可挽救逾10万人生命",
-              "brief": "国际清洁交通委员会报告估算，如果美国到2040年实现道路交通全面电动化，可在未来几十年减少超过10万例死亡。研究背景是道路交通污染目前每年导致约4.18万人过早死亡；模型覆盖轻型车、重型车和两三轮车，并纳入氮氧化物、颗粒物等污染物，柴油卡车和公交的减排贡献尤其重要。",
-              "source_url": "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-01T00:03:44+08:00"
-            },
-            {
-              "title": "报道称特朗普要求马斯克用 SpaceX 股票支持美国儿童储蓄账户",
-              "brief": "报道称，特朗普计划在7月4日推出儿童储蓄账户，并曾争取SpaceX以股票捐赠支持该项目。知情人士称SpaceX已与美国官员讨论向Trump Accounts捐股，但是否捐赠及对账户价值的影响仍不明确；该账户面向有社安号的18岁以下儿童，已有600万名儿童登记，2025至2028年出生者可获政府一次性1000美元供款。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-06-30T23:38:08+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "这款70W GaN充电器降至今年最低价，仅24.99美元",
+              "brief": "Baseus EnerFill 70W GaN充电器在亚马逊降至24.99美元，较39.99美元建议零售价低38%，也是今年以来最低价。它配有两个USB-C和一个USB-A接口，单设备最高输出70W，多设备连接时分配功率，可为MacBook、平板、手机和配件等充电，主打小巧便携。",
+              "source_url": "https://www.androidauthority.com/baseus-enerfill-70w-usb-c-charger-deal-3683156/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-01T05:34:39+08:00"
+            },
+            {
+              "title": "AirDrop和Quick Share漏洞可能暴露数十亿设备，如何保护你的设备",
+              "brief": "安全研究人员发现，苹果AirDrop和安卓Quick Share的新漏洞影响超过50亿台活跃设备。攻击者无需钓鱼链接、Wi-Fi接入或接触手机，只要携带笔记本在30米内即可利用；原因是两套文件分享系统为保证无缝传输，会在验证请求方前暴露高权限后台服务。",
+              "source_url": "https://www.androidauthority.com/quick-share-airdrop-vulnerability-discovered-3683137/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-01T05:02:08+08:00"
+            },
             {
               "title": "三星 Galaxy Glasses 大规模泄露展示管理应用和手势",
               "brief": "两则新泄露展示了三星 Galaxy Glasses 的管理应用和交互方式。该眼镜属三星与谷歌“智能眼镜”系列，首批为与 Warby Parker、Gentle Monster 合作的仅音频款。应用可负责配对、更新、设置、功能开关、相机、AI 助手、通知朗读、辅助功能和查找眼镜，另有泄露提到按键与手势操作。",
@@ -188,26 +202,33 @@
               "source_url": "https://www.androidauthority.com/ai-browsers-tricked-game-bioshocking-3683064/",
               "source_name": "Android Authority",
               "published_at": "2026-07-01T03:37:19+08:00"
-            },
-            {
-              "title": "Google Home 设备今天不听指令？你并不孤单",
-              "brief": "Google Home 用户今天集中反馈设备响应异常，部分硬件需要近一分钟才回复，或直接超时。事件发生在 Google Home 正向 Gemini 助手和新音箱过渡之际，报告主要来自 Reddit，涉及美国和加拿大；Google 状态页暂未显示相关故障，媒体已向 Google 询问详情。",
-              "source_url": "https://www.androidauthority.com/google-home-problems-3683051/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-01T02:42:27+08:00"
-            },
-            {
-              "title": "NotebookLM 可把资料生成 TikTok 式短视频",
-              "brief": "Google 为 NotebookLM 增加短视频概览功能，可根据用户提供的资料生成 60 秒竖屏视频。该功能延续音频概览和视频概览的摘要思路，面向更易消化的内容形式；目前向 Google AI Ultra 和 AI Pro 付费用户推出，用户可指定资料中的重点，免费用户将稍后获得。",
-              "source_url": "https://www.androidauthority.com/notebooklm-vertical-video-3683044/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-01T02:39:17+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "亚马逊将支付225万美元和解FTC身份盗窃案",
+              "brief": "亚马逊同意支付225万美元民事罚款，以和解美国联邦贸易委员会关于身份盗窃受害者记录获取的案件。FTC称，公司违反《公平信用报告法》，未在消费者请求后30天内提供以其名义发生的欺诈交易记录，部分客服还以安全、隐私或无法访问为由拒绝受害者及执法机构。",
+              "source_url": "https://www.engadget.com/2205504/amazon-will-pay-2-25-million-to-settle-ftc-identity-theft-case/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-01T06:12:53+08:00"
+            },
+            {
+              "title": "Anthropic新版Sonnet 5更擅长处理推高企业账单的任务",
+              "brief": "Anthropic发布新版Claude Sonnet 5，面向人类用户和代理式AI查询，主打以低于Opus的价格处理高频企业任务。公司称其性能接近近期Opus模型，并借助新分词器提升效率；9月1日起每百万输入token为3美元、输出token为15美元，此前价格更低，并将向所有订阅开放。",
+              "source_url": "https://www.engadget.com/2205475/anthropic-releases-claude-sonnet-5-model/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-01T05:28:34+08:00"
+            },
+            {
+              "title": "报道称Xbox裁员计划包括关闭Arkane、取消《Blade》",
+              "brief": "据报道，微软计划7月6日开始新一轮Xbox裁员，并考虑关闭Arkane Studios、取消自2023年底开发的《Blade》。相关报道显示，Xbox可能下周关闭或出售Compulsion、Double Fine、Ninja Theory、Undead Labs和Arkane；《Blade》被称预算超支且延期，工会成员要求诚信谈判和透明度。",
+              "source_url": "https://www.engadget.com/2205451/xbox-layoff-plans-reportedly-include-closing-arkane-canceling-blade/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-01T04:59:40+08:00"
+            },
             {
               "title": "Netflix用AI把吉恩·怀尔德的声音用于新真人秀",
               "brief": "Netflix与ElevenLabs合作，为一档受《查理和巧克力工厂》启发的未剧本真人秀重建已故演员吉恩·怀尔德的声音。怀尔德曾在1971年电影中饰演威利·旺卡，Variety称制作方获得其遗产管理方合作及妻子批准，预告片中疑似已使用该AI声音，节目挑战取材自原著和电影。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.engadget.com/2205396/the-supreme-court-will-hear-an-appeal-in-the-long-running-case-between-apple-and-epic-games/",
               "source_name": "Engadget",
               "published_at": "2026-07-01T04:16:43+08:00"
-            },
-            {
-              "title": "如何在 iPhone 上设置自定义闹钟铃声",
-              "brief": "文章介绍了在 iPhone 上设置自定义闹钟铃声的方法，指出默认铃声可能过于刺耳或不够有效，因此用户可改用歌曲或其他音频。若订阅 Apple Music，可先把目标歌曲加入资料库，再在时钟 App 的闹钟设置中通过“声音”选择该歌曲；若要使用完全自定义声音，则需先准备音频文件，例如从网上获取或用 GarageBand 制作。",
-              "source_url": "https://www.engadget.com/2204492/how-to-set-custom-alarm-sound-iphone/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-01T02:30:00+08:00"
-            },
-            {
-              "title": "加州保护在线游戏法案未能通过委员会表决",
-              "brief": "加州《保护我们的游戏法案》在州参议院商业、职业与经济发展委员会受阻，未能继续推进。该法案旨在限制发行商下线游戏导致玩家无法游玩，曾获州众议院通过；此次表决为4票赞成、3票反对、4票弃权，委员会同意复议，支持方称将寻求其他州和联邦层面的类似立法。",
-              "source_url": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-01T00:11:47+08:00"
-            },
-            {
-              "title": "《超级马力欧银河大电影》将于7月30日上线Peacock",
-              "brief": "《超级马力欧银河大电影》将于7月30日在Peacock上线流媒体播放。影片此前已在5月推出数字版、6月发行蓝光和DVD，并取得超过10亿美元票房；报道提到其剧情较松散，但包含多处任天堂彩蛋，包括Fox McCloud和耀西登场。",
-              "source_url": "https://www.engadget.com/2205013/the-super-mario-galaxy-movie-launches-onto-peacock-on-july-30/",
-              "source_name": "Engadget",
-              "published_at": "2026-06-30T23:54:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Dish 申请破产保护，但不会停业",
+              "brief": "Dish 已申请第 11 章破产保护，但表示不会停业。该 EchoStar 旗下公司称，向 AT&T 出售 230 亿美元 5G 频谱因意外延迟受阻，导致无法偿还 7 月 1 日到期的 20 亿美元债务；Dish TV、Sling TV 等仍将运营，计划 2026 年三季度末走出破产程序。",
+              "source_url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+              "source_name": "The Verge",
+              "published_at": "2026-06-30T18:46:52-04:00"
+            },
+            {
+              "title": "亚马逊因未协助身份盗窃受害者被罚 225 万美元",
+              "brief": "美国联邦贸易委员会对亚马逊罚款 225 万美元，以和解其未协助身份盗窃受害者的指控。FTC 称亚马逊涉嫌违反《公平信用报告法》，拒绝向受害者提供欺诈账户交易记录；投诉还称，客服常要求受害者说出开设欺诈账户者姓名后才提供记录。",
+              "source_url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+              "source_name": "The Verge",
+              "published_at": "2026-06-30T17:20:01-04:00"
+            },
             {
               "title": "宏碁 Swift Go 16 是一台 900 美元价位的高配置笔记本",
               "brief": "宏碁 Swift Go 16 AI 在 Best Buy 降至 899.99 美元，低于 1549.99 美元标价。内存和存储价格上涨推高电脑成本，使千美元内选择变少；这款 16 英寸机型配 Core Ultra 7 355、32GB 内存、1TB SSD，并搭载 16:10 OLED 触控屏和 180 度转轴。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-06-30T14:42:00-04:00"
-            },
-            {
-              "title": "《007 First Light》开发商裁员，但称下一系列项目会继续",
-              "brief": "《007 First Light》开发商IO Interactive宣布裁员，原因是其新大型项目Project Fantasy与一家外部伙伴的合作已经结束。该项目是一款在线奇幻RPG，Kotaku和Bloomberg称微软原本将担任发行商。IO未说明受影响人数，但表示仍完全投入该项目，并承诺游戏会面世。",
-              "source_url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
-              "source_name": "The Verge",
-              "published_at": "2026-06-30T14:14:05-04:00"
-            },
-            {
-              "title": "Moto Tag 2追踪器限时降至20美元",
-              "brief": "摩托罗拉在CES 2026发布的Moto Tag 2已在美国上市，并以19.99美元的限时首发价销售，原价29.99美元。它面向Android用户，支持Google Find Hub网络，加入UWB以提升定位精度，具备IP68防护等级，可更换CR2032纽扣电池，续航最长600天。",
-              "source_url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-06-30T13:38:23-04:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "克里斯托弗·诺兰《奥德赛》推出官方 Roblox 联动游戏",
+              "brief": "克里斯托弗·诺兰新片《奥德赛》推出官方 Roblox 免费联动游戏《The Odyssey: Defy the Gods》。玩家可与好友航行、搜集补给并解谜，每次航程都有“新海洋”，还会遭遇风暴和漩涡；该游戏因暴力和恐惧内容评级为 18 岁以上，用于为暑期上映影片预热。",
+              "source_url": "https://www.ign.com/articles/christopher-nolans-the-odyssey-gets-official-roblox-tie-in-game",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T05:02:45+08:00"
+            },
+            {
+              "title": "Hyperkin 旗下 Drakong 推出低价专业风格 Xbox 手柄",
+              "brief": "Hyperkin 旗下品牌 Drakong 推出 The Challenger Xbox 手柄，定价 35 美元，主打低价专业风格。它配有纹理握把、霍尔摇杆、霍尔模拟扳机、触觉反馈、两个可编程背键和 3.5 毫米耳机孔，并随附 10 英尺 USB-C 线；主要取舍是仅支持有线连接，7 月 9 日起发货。",
+              "source_url": "https://www.ign.com/articles/hyperkins-drakong-goes-super-cheap-with-a-new-pro-style-xbox-controller",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T04:08:59+08:00"
+            },
+            {
+              "title": "牌店因玩家异味暂停《游戏王》赛事",
+              "brief": "俄勒冈比弗顿独立游戏店 Chronos Games & Gifts 因玩家卫生问题暂停一周《游戏王》赛事。店方称，洗手间被不当使用且差评多次提到异味，并提醒玩家遵守科乐美指引、举报违规者；科乐美自 2019 年起要求参赛人员保持清洁、穿干净衣物，否则可能被处罚或要求整改。",
+              "source_url": "https://www.ign.com/articles/card-shop-suspends-yu-gi-oh-tournaments-over-smelly-players",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T03:11:48+08:00"
+            },
+            {
+              "title": "小岛秀夫 Xbox 恐怖游戏《OD》未受微软“重置”计划影响",
+              "brief": "小岛秀夫与 Xbox 合作发行的恐怖游戏《OD》仍在小岛工作室开发中，未受微软重新评估游戏投资的影响。IGN 获悉，IO Interactive 一款由 Xbox 资助的幻想游戏已被取消并引发裁员；微软称总体内容投入不降，但会调整投资重点，Arkane Lyon、Double Fine 等五家内部工作室据称面临关闭风险。",
+              "source_url": "https://www.ign.com/articles/hideo-kojimas-xbox-horror-game-od-is-safe-from-microsofts-reset-plan-but-other-games-are-on-the-chopping-block",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T02:39:17+08:00"
+            },
+            {
               "title": "《GTA 6》开发者要求Rockstar承认工会，必要时将诉诸英国政府",
               "brief": "《GTA 6》开发者要求Rockstar正式承认工会，若无进展将诉诸英国政府。IWGB称其代表Rockstar英国多地办公室相当一部分员工，承认后可就薪酬透明、灵活办公和过度加班建立集体谈判机制；目前ZA/UM是英国唯一获正式承认工会的游戏工作室。",
               "source_url": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
               "source_name": "IGN",
               "published_at": "2026-07-01T01:58:14+08:00"
-            },
-            {
-              "title": "IO Interactive因奇幻项目外部合作终止宣布裁员",
-              "brief": "《007 First Light》和《杀手》开发商IO Interactive宣布裁员，原因是其在研奇幻项目与一家“外部合作伙伴”的合作关系结束。公司未确认受影响人数，但称会支持相关员工；报道认为此次裁员与《007 First Light》的成功发布无关，该作仍是IOI近期公开庆祝的项目。",
-              "source_url": "https://www.ign.com/articles/007-first-light-hitman-developer-io-interactive-announces-layoffs-after-relationship-with-an-external-partner-on-fantasy-project-ends",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T01:51:00+08:00"
-            },
-            {
-              "title": "Netflix在旺卡真人秀中用AI复刻吉恩·怀尔德声音",
-              "brief": "Netflix将在真人竞赛节目《Wonka's The Golden Ticket》中使用AI复刻吉恩·怀尔德的声音，预告片已由这一声音旁白。节目9月23日上线，12名选手进入新版巧克力工厂争夺改变人生的奖品；Deadline称声音由ElevenLabs在怀尔德遗产方同意下制作。",
-              "source_url": "https://www.ign.com/articles/netflix-using-ai-to-resurrect-gene-wilders-voice-for-willy-wonka-reality-series-the-golden-ticket",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T01:19:23+08:00"
-            },
-            {
-              "title": "微软据称考虑取消《漫威刀锋战士》并关闭Arkane",
-              "brief": "微软据称正考虑取消《漫威刀锋战士》并关闭Arkane，此前该项目内部发行窗口从2026年底推迟至2027年底且超出预算。报道还称Arkane可能被出售而非关闭，Compulsion、Double Fine、Ninja Theory和Undead Labs等工作室也在与微软讨论潜在独立方案。",
-              "source_url": "https://www.ign.com/articles/microsoft-reportedly-considering-canceling-marvels-blade-and-shutting-arkane-down",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T01:10:21+08:00"
-            },
-            {
-              "title": "《恋与深空》取消新狼系恋爱角色Valko",
-              "brief": "《恋与深空》开发商Infold取消原定7月9日随6.0版本上线的新恋爱角色Valko，并表示未来内容计划不会再加入额外恋爱对象。官方称团队在准备不足时推进角色引发争议；6.0的家园2.0和AR拍照亭仍将按计划推出，Valko活动奖励会通过游戏内邮件免费发放。",
-              "source_url": "https://www.ign.com/articles/love-and-deepspace-cancels-new-wolfy-love-interest-valko",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T00:50:27+08:00"
             }
           ]
         },
@@ -391,6 +391,27 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "小米智能存储规格公布：4GB+32GB、2.5G网口，最高40Mbps免费远程访问",
+              "brief": "小米智能存储规格公布，采用双盘位设计，最高支持60TB硬盘，并配备4GB内存、32GB存储、2.5GbE网口、USB-A 3.0和HDMI接口。产品面向家庭数据和智能家居场景，支持AI相册、微信和整机备份、最多16个账户，以及最高40Mbps免费远程访问。",
+              "source_url": "https://www.ithome.com/0/970/796.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-01T06:51:58+08:00"
+            },
+            {
+              "title": "苹果升级Apple创作坊：扩展AI工具，年费380元",
+              "brief": "苹果宣布升级Apple创作坊，现有订阅用户可免费更新，新用户订阅价为每月38元或每年380元。更新为Final Cut Pro等创意应用加入Generate Captions、Edit Detection、Auto Mask等设备端AI工具，并扩展Motion、Compressor和Final Cut Camera功能。",
+              "source_url": "https://www.ithome.com/0/970/790.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-01T01:04:50+08:00"
+            },
+            {
+              "title": "英伟达BioNeMo接入Claude Science，前20大药企已有18家使用",
+              "brief": "英伟达BioNeMo Agent Toolkit已接入Claude Science，研究人员可用自然语言发起基因组分析、蛋白质结构预测等任务。英伟达称，该工具集已覆盖前20大制药公司中的18家，可调用Parabricks、RAPIDS-singlecell、nvMolKit等能力加速科研流程。",
+              "source_url": "https://www.ithome.com/0/970/789.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-01T01:04:35+08:00"
+            },
+            {
               "title": "欧洲高温带火中国制冷产品，猪圈装空调视频海外走红",
               "brief": "欧洲多地高温破纪录并发布预警，中国制造的移动空调、电扇等纳凉产品销量上升，部分产品一机难求，猪圈装空调视频也在海外走红。背景是欧洲家庭空调普及率约20%，以往夏季长期高温不频繁，许多老建筑、部分受保护建筑安装空调申请繁琐且成本高，叠加能源价格和绿色政策限制，需求快速释放。",
               "source_url": "https://www.ithome.com/0/970/788.htm",
@@ -403,27 +424,6 @@
               "source_url": "https://www.ithome.com/0/970/787.htm",
               "source_name": "IT之家",
               "published_at": "2026-06-30T23:45:41+08:00"
-            },
-            {
-              "title": "Epic CEO 称 Valve 错过多款热门游戏，少赚数十亿美元",
-              "brief": "Epic CEO 蒂姆·斯威尼在 Unreal Fest 后呼吁 Valve 和 Steam 加入开放、互联的游戏生态。他称 Steam 的 PC 业务成功，但错过《堡垒之夜》、拳头游戏和《原神》等热门作品，若像 Epic、微软那样开放，并进入 iPhone、Android 等平台，本可获得更多机会。",
-              "source_url": "https://www.ithome.com/0/970/786.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-30T23:29:27+08:00"
-            },
-            {
-              "title": "华为宣布全球首个商用多模态文旅大模型规模化应用",
-              "brief": "华为宣布与陕文投等联合开发的“博观文旅大模型”已实现规模化应用，称其为全球首个商用多模态文旅大模型，也是中国首个以文化保护传承为核心目标的行业大模型。该模型依托1.2PB数据集和昇腾算力，包含3100万张图片、440万分钟影像等资源，可生成博物馆级文物内容，支持文物活化和非遗数字IP开发。",
-              "source_url": "https://www.ithome.com/0/970/785.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-30T23:27:35+08:00"
-            },
-            {
-              "title": "伦敦大学学院研究称校园智能手机一刀切禁令可能适得其反",
-              "brief": "伦敦大学学院研究收集732名中学生、27名教育工作者和41名家长意见，认为学校一刀切禁带智能手机可能适得其反。调查显示教师和家长多数支持禁令，但75%学生反对，称手机用于交通、作业、联系家人和安全保障；研究还认为网络霸凌等问题不会因此消失，建议改为引导学生负责任使用。",
-              "source_url": "https://www.ithome.com/0/970/784.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-06-30T23:18:07+08:00"
             }
           ]
         }
