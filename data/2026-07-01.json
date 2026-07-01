@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T18:52:52.519663+08:00",
+  "generated_at": "2026-07-01T20:56:31.241043+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "蒂姆·库克与欧盟就 Siri AI 上线举行“建设性”会谈",
+              "brief": "苹果 CEO 蒂姆·库克周二与欧盟技术事务负责人 Henna Virkkunen 线上会谈，讨论 Siri AI 在欧盟推出。因《数字市场法》要求苹果向竞争对手 AI 助手开放与 Siri 相同的 iPhone 底层能力，增强版 Siri 暂不会随 iOS 27 和 iPadOS 27 在欧盟上线；苹果称 Trusted System Agent 方案被拒，欧盟则称不推出是苹果决定。",
+              "source_url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-01T19:49:25+08:00"
+            },
             {
               "title": "MacBook Ultra：苹果 OLED 触控屏 Mac 的已知信息",
               "brief": "苹果正在开发一款高端 MacBook Pro，可能命名为“MacBook Ultra”，也可能继续使用 MacBook Pro 名称。报道说它将首次把 OLED 显示屏和触控屏带到 Mac，背景是该系列自 2021 年采用 Apple 芯片后尚未重新设计；关键变化包括更薄机身、可能以灵动岛取代刘海，以及 14 英寸和 16 英寸版本。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
               "source_name": "MacRumors",
               "published_at": "2026-07-01T02:59:27+08:00"
-            },
-            {
-              "title": "苹果开始销售翻新 iPhone 16e，起售价 419 美元",
-              "brief": "苹果在美国官网翻新商店上架 iPhone 16e，这是该机自 2025 年 2 月发布后首次以翻新机形式降价销售。128GB 入门款售价 419 美元，比原价低 180 美元；256GB 和 512GB 版本分别为 509 美元和 679 美元，提供黑白两色。",
-              "source_url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-01T02:06:37+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "科学研究称 iPhone 加剧了美国生育率下降",
+              "brief": "一项研究称，iPhone 在美国意外怀孕和出生率下降中发挥了“相当大”的作用。研究利用2007至2011年 AT&T 独家销售 iPhone 的差异，对比不同地区生育率，并把智能手机普及与线下社交、性活动减少等趋势相联系；9to5Mac 认为结论可能受用户收入和教育结构影响。",
+              "source_url": "https://9to5mac.com/2026/07/01/the-iphone-contributed-to-a-collapse-in-us-fertility-claims-scientific-study/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T20:27:21+08:00"
+            },
+            {
+              "title": "Meta 眼镜无障碍功能收费或利好 Apple Glasses",
+              "brief": "Meta 将限制智能眼镜 Conversation Focus 功能的免费使用，每月超过3小时需订阅19.99美元的 Meta One Premium。该功能可通过开放式扬声器放大对话对象声音，并在本地处理，不依赖服务器或移动数据；文章认为，对已购买设备且需要无障碍辅助的用户而言，这一变化可能削弱 Meta 的吸引力。",
+              "source_url": "https://9to5mac.com/2026/07/01/an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T19:58:59+08:00"
+            },
+            {
+              "title": "更纤薄的 Apple Watch 是否值得牺牲表带兼容性",
+              "brief": "有关 Apple Watch 重新设计的传闻再次引发讨论，爆料称新款可能采用更纤薄机身，并打破现有表带兼容性。现行滑入式表带连接结构占用机身空间，苹果据称曾考虑用磁吸方案释放空间，以容纳电池或其他组件；文章也指出，这会让已购买昂贵官方或 Hermès 表带的用户承受损失。",
+              "source_url": "https://9to5mac.com/2026/07/01/would-a-sleeker-apple-watch-design-justify-losing-band-compatibility-poll/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-01T19:05:05+08:00"
+            },
             {
               "title": "Claude Fable 5获准恢复，美国解除Anthropic出口管制限制",
               "brief": "美国商务部已通知Anthropic解除对Claude Fable 5和Mythos 5的出口管制，公司6月30日称将从7月1日开始恢复访问。两款模型6月12日因管制指令下线，背景是亚马逊研究人员称Fable 5可被提示生成可能用于网络攻击的信息；当时指令还限制外国公民访问，Anthropic仅有90分钟合规。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-01T07:17:15+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：6 月 30 日，iPhone 18 与 Ultra 传闻等",
-              "brief": "9to5Mac Daily 发布 6 月 30 日节目，聚焦 iPhone 18 与 iPhone Ultra 传闻。节目背景是苹果下一代硬件与 iOS 27 限制受到关注，内容提到 iPhone 18 规格报告、OpenAI 挖走苹果 Vision Pro 和智能眼镜负责人，以及 iPhone Ultra 的价格和发布时间信息。",
-              "source_url": "https://9to5mac.com/2026/06/30/9to5mac-daily-june-30-2026-iphone-18-and-ultra-rumors-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T05:59:52+08:00"
-            },
-            {
-              "title": "美国悬赏 1000 万美元追查攻击 Signal 和 WhatsApp 用户的黑客",
-              "brief": "美国正悬赏 1000 万美元征集线索，以识别攻击 Signal 和 WhatsApp 用户的黑客。此举源于 FBI 对针对政府官员、军人、政治人物和记者的钓鱼行动展开调查；攻击者伪装成支持消息诱导受害者点击链接或提供验证码，并被指与俄罗斯相关组织有关。",
-              "source_url": "https://9to5mac.com/2026/06/30/us-offers-10-million-to-identify-hackers-targeting-signal-and-whatsapp-users/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T05:56:06+08:00"
-            },
-            {
-              "title": "OpenAI 将 ChatGPT 个人理财功能扩展至更多用户",
-              "brief": "OpenAI 正向更多 ChatGPT 用户推出个人理财体验，部分美国 Pro 订阅者可率先使用。该功能意在让用户在受控数据权限下了解资金流向；用户可通过 Plaid 连接金融账户，查看支出、订阅、待付款项和投资组合表现，并可随时移除相关财务数据。",
-              "source_url": "https://9to5mac.com/2026/06/30/openai-just-released-new-personal-finance-features-for-chatgpt-customers/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-01T05:33:45+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Retroid Pocket 6 现已正式支持 LineageOS",
+              "brief": "LineageOS 现已正式支持 Retroid Pocket 6，让这款原本预装 Android 13 的安卓掌机可在构建上线后升级到基于 Android 16 的 LineageOS 23.2。Retroid 过往软件更新表现有限，因此这一支持可带来 Android 14 至 16 的功能改进、性能和续航优化、月度安全补丁；该设备采用 Snapdragon 8 Gen 2、5.5 英寸 120Hz AMOLED 屏。",
+              "source_url": "https://9to5google.com/2026/07/01/the-retroid-pocket-6-now-officially-supports-lineageos/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-01T19:12:55+08:00"
+            },
             {
               "title": "三星发布首批 Galaxy Z Fold 8 官方预热图，主题为“新形态，新乐趣”",
               "brief": "三星放出 Galaxy Z Fold 8 的首批官方预热视频和图片，主题为“New Shape, New Joy”。这显示该折叠屏新品已进入正式预热阶段；公开内容主要围绕新外形与使用体验的提示展开，文章以图库汇总官方素材，但输入信息未给出配置、价格或发布时间等更多细节。",
@@ -115,19 +122,19 @@
               "source_url": "https://9to5google.com/2026/06/30/gemini-spark-apps-more/",
               "source_name": "9to5Google",
               "published_at": "2026-07-01T05:32:43+08:00"
-            },
-            {
-              "title": "Gemini Spark 开始推送至 macOS 应用，支持本地任务和自动化",
-              "brief": "Google 开始向 macOS 版 Gemini 应用推送 Gemini Spark，让其处理涉及本地文件的任务并自动化桌面工作流。这是 I/O 2026 预告的两项桌面更新之一；安装 1.80.15.516 后，用户可在侧栏看到 Spark 标签，选择可访问的连接文件夹，并设置保持 Mac 唤醒、备份失败提醒和用量限制。",
-              "source_url": "https://9to5google.com/2026/06/30/gemini-spark-mac-app/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-01T04:42:58+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "科学家再次发现泰诺与自闭症无关，回应特朗普警告",
+              "brief": "又一项发表在《JAMA Internal Medicine》的大型研究发现，孕期使用泰诺/对乙酰氨基酚与儿童自闭症没有关联，反驳了特朗普和小罗伯特·肯尼迪此前的说法。此前他们在无明确证据下警告孕妇避免用药，医疗组织则强调该药可安全退烧止痛，且孕期发热不治本身会增加风险；其警告后急诊孕妇用药下降10%。",
+              "source_url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-01T19:01:38+08:00"
+            },
             {
               "title": "6月研究综述：险些错过的6个有趣科学故事",
               "brief": "Ars Technica汇总了6月几项险些错过的科学研究，作为月度补遗呈现。文章覆盖世界杯期间的足球“剪刀假动作”动力学、粪便盘绕形态的物理、硼巴基球，以及维苏威挑战中解读赫库兰尼姆卷轴的新进展。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-01T04:50:14+08:00"
-            },
-            {
-              "title": "谷歌关闭Tenor GIF API，迫使X、Discord等平台调整",
-              "brief": "谷歌已于6月30日关闭Tenor GIF API，X、Discord等依赖其动图搜索、分享和保存的平台必须改用其他服务。Tenor于2018年被谷歌收购，此后接入Gboard和Google Messages，同时向外部平台开放；谷歌1月停止新增集成，称关闭API是为集中资源提升核心产品。",
-              "source_url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-01T04:38:51+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Android 17证明安卓更新已失去往日吸引力",
-              "brief": "文章称，Android 17让作者感到系统更新不再像早年那样令人期待。背景是安卓已进入成熟阶段，外观与Android 16、15差异很小。本次更新主要提供底层优化、少量安全改进和以应用气泡为代表的多任务功能，更偏向体验完善而非大幅改版。",
-              "source_url": "https://www.androidauthority.com/android-17-proves-updates-lost-magic-3682444/",
+              "title": "Android 17暗藏新招，可改善视频和语音通话卡顿",
+              "brief": "Android 17新增平台级支持，可把WhatsApp、Zoom等OTT语音和视频通话自动路由到优质5G网络切片，以缓解拥挤场所卡顿。该机制通过Telecom Jetpack API按应用UID识别通话，开发者无需自行接入切片或处理运营商升级流程，但运营商仍需提供专用切片，且可能收费。",
+              "source_url": "https://www.androidauthority.com/android-17-auto-routing-ott-voice-video-calls-5g-network-slice-3682964/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-01T18:30:41+08:00"
+              "published_at": "2026-07-01T20:29:30+08:00"
             },
             {
-              "title": "Nothing确认Ear 3a将与Phone 4b同日发布并提供四种颜色",
-              "brief": "Nothing确认，平价耳机Ear 3a将于7月7日与Nothing Phone 4b一同发布。背景是该公司此前只确认手机发布日期，耳机信息主要来自传闻。官方称耳机提供黑、白、黄、粉四种颜色；泄露信息称欧洲售价可能为99欧元，手机也可能有四种配色。",
-              "source_url": "https://www.androidauthority.com/nothing-ear-3a-launch-date-colors-3683301/",
+              "title": "更多用户现可购买这款轻薄大电池折叠屏竞品",
+              "brief": "荣耀Magic V6开始进入欧洲市场，德国用户7月1日起可购买16GB/512GB版，首发价1699欧元并附赠荣耀Pad 10和24个月屏幕保护。该优惠持续到7月31日，之后售价升至2299欧元；英国、法国、西班牙和意大利将于7月2日开售，目前德国官网未显示1TB版本。",
+              "source_url": "https://www.androidauthority.com/honor-magic-v6-available-europe-3683346/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-01T18:15:52+08:00"
+              "published_at": "2026-07-01T20:24:15+08:00"
             },
             {
-              "title": "谷歌分享Android Halo的更多细节及运作方式",
-              "brief": "谷歌披露了Android Halo的更多运作方式，这是一项面向Gemini等AI代理的安卓功能。背景是AI代理会在后台自主处理任务，需要更透明地与用户互动。Halo将位于状态栏，允许代理在执行队列任务时更新进度、提出问题并显示结果，减少用户回到AI应用的需要。",
-              "source_url": "https://www.androidauthority.com/google-android-halo-details-3683294/",
+              "title": "一加悄然引导用户购买OPPO产品",
+              "brief": "一加在部分欧洲官网引导用户转向OPPO设备，而不是预告新的OnePlus硬件，引发品牌可能进一步融入母公司的猜测。德国官网横幅称OPPO可提供用户熟悉的速度、性能和兼容性，并把耳机、平板和折叠屏等入口直接链接到OPPO网站。",
+              "source_url": "https://www.androidauthority.com/oneplus-website-redirecting-to-oppo-3683330/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-01T18:04:26+08:00"
+              "published_at": "2026-07-01T19:48:14+08:00"
             },
             {
-              "title": "曾经受欢迎的T-Mobile已经消失，且可能不会回归",
-              "brief": "文章称，T-Mobile近年持续背离其Un-carrier形象，曾受用户欢迎的做法基本终结。背景是公司从Legere时代的客户友好策略转向更传统运营商模式。近期它计划将Magenta、Simple Choice等旧套餐用户迁移到新套餐，并已取消含税费定价、推行涨价等变化。",
-              "source_url": "https://www.androidauthority.com/old-t-mobile-dead-not-coming-back-3682930/",
+              "title": "Meta开始对智能眼镜的本地运行功能收费",
+              "brief": "Meta将智能眼镜的Conversation Focus功能限制为每月免费使用3小时，超过后需订阅每月19.99美元的Meta One才能提高到15小时。该功能用于降低背景噪声、突出面前说话者，特殊之处在于它完全在眼镜本地运行且无需联网。",
+              "source_url": "https://www.androidauthority.com/meta-smart-glasses-rate-limits-3683323/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-01T18:00:11+08:00"
+              "published_at": "2026-07-01T19:29:38+08:00"
             },
             {
-              "title": "三星可能意外确认下一场Galaxy Unpacked日期",
-              "brief": "三星可能通过马来西亚Samsung Members应用意外暗示下一场Galaxy Unpacked将于7月22日举行。背景是此前已有爆料指向同一日期。应用向用户提供用于“下一款折叠屏”和“下一款可穿戴设备”的优惠券，线上有效期从7月22日至10月4日，暗示新品预购或当天开启。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-unpacked-event-date-vouchers-3683262/",
+              "title": "vivo新无线耳机也支持Wi-Fi音频，但未采用高通方案",
+              "brief": "vivo发布TWS 5 Pro耳机，除蓝牙外还支持Wi-Fi音频传输，但没有采用高通XPAN，而是使用自研Wi-Fi编解码方案。vivo称该方案通过手机与耳机点对点连接提供4.6Mbps有效带宽，突破蓝牙限制，可支持96kHz/24bit音频播放。",
+              "source_url": "https://www.androidauthority.com/new-wireless-earbuds-wi-fi-not-qualcomm-xpan-3683275/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-01T17:51:50+08:00"
+              "published_at": "2026-07-01T19:20:12+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "联合国报告称政策制定者难跟上AI发展速度",
+              "brief": "联合国人工智能独立科学小组发布首份初步报告，称AI能力提升速度已超出现有治理体系响应能力。报告承认AI可促进药物研发、疾病早筛和粮食预警，但也指出深度伪造、虚假信息、网络攻击辅助和模型迎合有害行为等风险，并将为7月6日在日内瓦举行的全球AI治理对话提供依据。",
+              "source_url": "https://www.engadget.com/2205713/un-report-says-policymakers-are-struggling-to-keep-up-with-pace-of-ai-development/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-01T20:03:36+08:00"
+            },
+            {
+              "title": "Getty Images因英国限制取消与Shutterstock的37亿美元合并",
+              "brief": "Getty Images决定终止与Shutterstock的37亿美元合并，原因是英国监管机构要求Shutterstock出售全球编辑业务。两家公司原计划合并以应对AI图像竞争，美国司法部已无条件放行，但英国竞争与市场管理局认为交易会减少英国媒体选择并推高价格，Getty董事会因此一致决定停止推进。",
+              "source_url": "https://www.engadget.com/2205695/getty-images-canceling-shutterstock-merger-uk-restrictions/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-01T19:13:59+08:00"
+            },
             {
               "title": "宝马 X5 首次推出纯电版，续航达 435 英里",
               "brief": "宝马发布新一代 X5 车系，首次加入纯电 iX5 60 xDrive。不同于以往油电分平台做法，新车与燃油、柴油、插混和氢能版本共用平台，并采用 Neue Klasse 设计。它配备 140kWh 电池、800V 架构和双电机，总功率 570 马力，EPA 续航最高 435 英里，支持 450kW 双向快充。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2205605/google-gemini-spark-macos-app/",
               "source_name": "Engadget",
               "published_at": "2026-07-01T11:29:59+08:00"
-            },
-            {
-              "title": "美国政府允许 Anthropic 重新部署 Mythos 和 Fable AI 模型",
-              "brief": "美国商务部解除对 Anthropic 的 Mythos 5 和 Fable 5 出口限制，公司将从 7 月 1 日起恢复客户访问。此前政府要求暂停外国人使用新模型，Anthropic 为合规全面封锁；数日前 Mythos 已获准面向约 100 个关键基础设施相关组织重新开放，Fable 则在公司承诺主动发现并处理模型安全风险后获解禁。",
-              "source_url": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-01T09:59:26+08:00"
-            },
-            {
-              "title": "三星预告更宽比例的新款折叠手机",
-              "brief": "三星在下一场Unpacked发布会前通过社交媒体视频预告新款折叠手机，暗示其折叠状态将采用更短、更宽的比例。相关画面未展示真机，只用巧克力、拼图等偏离常规手机尺寸的物体提示方向；这可能让展开后的屏幕更接近宽屏体验，也呼应此前关于三星尝试更宽折叠机的传闻。",
-              "source_url": "https://www.engadget.com/2205289/samsung-teases-wide-as-hell-new-foldable/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-01T07:30:00+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "富士推出两款新 QuickSnap 一次性相机",
-              "brief": "富士胶片扩展 QuickSnap 产品线，推出黑白拍摄版和户外防护版一次性相机。一次性与复古胶片相机在 Z 世代中回潮，是新品发布的背景。QuickSnap Black and White 售价 22.90 美元，内置黑白胶卷；QuickSnap Active 售价 24.75 美元，面向严苛户外环境，预计今年秋季上市。",
-              "source_url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
+              "title": "索尼将停止生产所有实体PlayStation游戏光盘",
+              "brief": "索尼宣布，自2028年1月起将停止为新发布的PlayStation游戏生产实体光盘，之后新作只通过PlayStation Store等渠道提供数字版。公司称这是顺应玩家转向数字媒体的趋势；2028年1月前发行的游戏仍会继续销售光盘版。此举紧随《GTA VI》实体版仅提供盒装下载码引发粉丝反弹之后。",
+              "source_url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
               "source_name": "The Verge",
-              "published_at": "2026-07-01T06:05:28-04:00"
+              "published_at": "2026-07-01T08:15:13-04:00"
             },
             {
-              "title": "Getty与Shutterstock合并告吹：美国放行，英国设限",
-              "brief": "Getty计划终止与Shutterstock的37亿美元合并协议，此前英国竞争与市场管理局要求Shutterstock剥离全球编辑图片业务，包括Backgrid和Splash狗仔机构。该交易虽已在2月获美国司法部无条件反垄断批准，但Getty在SEC文件中称，无义务接受英国方面的批准条件。",
-              "source_url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+              "title": "谷歌做出了一款优秀智能音箱，但Gemini还没准备好",
+              "brief": "The Verge评测认为，谷歌多年后推出的Google Home Speaker在外观和硬件表现上完成度很高，但用于它的Gemini for Home尚未达到期待中的智能助理水平。文章指出，智能音箱近年除音乐、计时器和控灯外缺少新理由，AI本应改变这一点，谷歌这次仍受软件拖累。",
+              "source_url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
               "source_name": "The Verge",
-              "published_at": "2026-07-01T04:41:26-04:00"
+              "published_at": "2026-07-01T08:00:00-04:00"
             },
             {
-              "title": "Meta 为智能眼镜部分功能加入使用限制和软付费墙",
-              "brief": "Meta 悄然宣布，旗下智能眼镜的 Conversation Focus 功能将很快限制为每月免费使用 3 小时；该功能用于放大对话对象声音，方便在嘈杂环境中听清。公司称眼镜本身不需订阅，但部分 AI 功能会有用量限制，19.99 美元的 Meta One Premium 订阅也仅提供每月 15 小时。",
-              "source_url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+              "title": "《节奏天国》从不漏拍",
+              "brief": "任天堂音乐小游戏系列在Switch上回归，新作《Rhythm Heaven Groove》将于7月2日推出，评测认为它延续了系列稳定水准，但也有一个明显保留点。文章称该系列并非任天堂最知名或最高产，上一作已是十多年前；其核心仍是用短小古怪的关卡测试玩家节奏感。",
+              "source_url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
               "source_name": "The Verge",
-              "published_at": "2026-06-30T20:51:03-04:00"
+              "published_at": "2026-07-01T08:00:00-04:00"
             },
             {
-              "title": "Anthropic 长期搁置的 Fable 5 获准回归",
-              "brief": "Anthropic 表示，在与特朗普政府谈判数周后，将从明天开始恢复 Claude Fable 5 的访问。公司称已收到通知，美国商务部取消了对 Claude Fable 5 和 Mythos 5 的出口管制；Fable 5 是面向消费者的模型，基于与 Mythos 5 相同的底层技术，但加入更多安全防护。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+              "title": "续航焦虑",
+              "brief": "The Verge以Rivian为主角讨论美国电动车市场的压力：传统车企转型受挫、特斯拉转向机器人、美国需求降温，Rivian能否撑到下一阶段成疑。文章从4月17日伊利诺伊州风暴袭击Normal工厂写起，龙卷风撕开屋顶、引发喷淋和积水，迫使公司评估损失。",
+              "source_url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
               "source_name": "The Verge",
-              "published_at": "2026-06-30T20:03:55-04:00"
+              "published_at": "2026-07-01T07:00:02-04:00"
             },
             {
-              "title": "Dish 申请破产保护，但不会停业",
-              "brief": "Dish 已申请第 11 章破产保护，但表示不会停业。该 EchoStar 旗下公司称，向 AT&T 出售 230 亿美元 5G 频谱因意外延迟受阻，导致无法偿还 7 月 1 日到期的 20 亿美元债务；Dish TV、Sling TV 等仍将运营，计划 2026 年三季度末走出破产程序。",
-              "source_url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+              "title": "方块是个谎言：Dbrand Companion Cube被销毁前的近距离实拍",
+              "brief": "Dbrand取消了为Steam Machine打造的Portal主题Companion Cube外壳，因为Valve方面采取法律行动。公司CEO Adam Ijaz承认没有后续方案，称这次是Dbrand搞砸了；已生产的方块都必须销毁。The Verge在销毁前拍摄了实物照片，展示这款未能上市的外壳。",
+              "source_url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
               "source_name": "The Verge",
-              "published_at": "2026-06-30T18:46:52-04:00"
+              "published_at": "2026-07-01T07:00:00-04:00"
             }
           ]
         }
@@ -294,45 +294,52 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "乐高公布18岁以上波巴·费特套装",
+              "brief": "乐高公布面向18岁及以上玩家的75455波巴·费特套装，并强调分级指向拼搭复杂度和展示属性，而非儿童玩具。模型还原《绝地归来》造型，高41厘米，配有贝斯卡盔甲、喷气背包、EE-3步枪、布斗篷、迷你人仔和信息牌，8月1日发售。",
+              "source_url": "https://www.ign.com/articles/lego-boba-fett-set-announced-for-ages-18-and-up",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T19:19:04+08:00"
+            },
+            {
+              "title": "《逃离塔科夫》主创谈硬核科幻新作《Fragmentary Order》",
+              "brief": "《逃离塔科夫》主创Nikita Buyanov正通过新工作室Rant Gaming开发《Fragmentary Order》，这是一款设定横跨太阳系的硬核科幻第一人称射击游戏。他表示想在十多年塔科夫开发后尝试新题材，游戏Alpha计划年内推出，玩家已可通过cor3.gg体验其宇宙与系统。",
+              "source_url": "https://www.ign.com/articles/fragmentary-order-how-the-creator-of-escape-from-tarkov-plans-to-make-the-most-realistic-sci-fi-game-ever",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T19:06:13+08:00"
+            },
+            {
+              "title": "Xbox加快《辐射》新作推进，前Bethesda开发者提醒续作过快或致疲劳",
+              "brief": "随着Xbox加快推进新的《辐射》项目，玩家开始关注这一系列接下来的安排，但一名前《辐射》开发者提醒，过快推出大型续作可能带来粉丝疲劳。系列上一部主线作品是2018年的《辐射76》，《辐射5》仍排在《上古卷轴6》之后，重制版传闻也仍未明朗。",
+              "source_url": "https://www.ign.com/articles/with-xbox-speeding-up-work-on-new-fallout-games-one-former-bethesda-dev-warns-faster-sequels-risk-fan-fatigue-but-could-new-vegas-developer-obsidian-be-drafted-in-to-help",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T18:24:05+08:00"
+            },
+            {
+              "title": "《蜘蛛侠：崭新日》预告致敬托比·马奎尔，展现荷兰版手腕吐丝",
+              "brief": "《蜘蛛侠：崭新日》新片段加入对托比·马奎尔版蜘蛛侠的直接提及，并展示汤姆·赫兰德饰演的彼得从手腕射出有机蛛丝。片段延展了彼得与马克·鲁法洛饰演的布鲁斯·班纳讨论变异DNA的场景，也延续该片作为MCU蜘蛛侠新篇章的定位。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-trailer-references-tobey-maguire-and-shows-tom-hollands-wrists-shooting-webs",
+              "source_name": "IGN",
+              "published_at": "2026-07-01T17:53:01+08:00"
+            },
+            {
               "title": "微软提醒 Xbox Game Pass 会员：《使命召唤：现代战争4》首发游玩需购买",
               "brief": "微软提醒 Xbox Game Pass 会员，《使命召唤：现代战争4》今年不会首日加入订阅，想在发售时游玩必须另行购买。这与此前主线作品首发进 Game Pass 的做法不同。游戏将于2026年10月23日登陆 Xbox Series X|S、PS5、PC、Switch 2，标准版70美元，金库版100美元，并告别上代主机。",
               "source_url": "https://www.ign.com/articles/microsoft-is-reminding-xbox-game-pass-members-that-theyll-have-to-buy-call-of-duty-modern-warfare-4-if-they-want-to-play-day-one",
               "source_name": "IGN",
               "published_at": "2026-07-01T17:07:48+08:00"
-            },
-            {
-              "title": "《马力欧卡丁车世界》惊喜更新加入新的淘汰巡回路线",
-              "brief": "《马力欧卡丁车世界》发布1.7.0更新，新增两条淘汰巡回路线，玩家现在即可下载游玩。新内容面向该作的淘汰巡回模式，因此并非全新赛道，而是把现有赛道重新组合成路线。两条路线分别为 Bullet Bill Express 和 Boomerang Rally，各串联六条既有赛道供玩家竞速并避免被淘汰。",
-              "source_url": "https://www.ign.com/articles/mario-kart-world-surprise-update-adds-new-knockout-tour-routes",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T16:32:38+08:00"
-            },
-            {
-              "title": "《侠探杰克》第4季8月回归，《尼格利》衍生剧次月上线",
-              "brief": "《侠探杰克》第4季将于2026年8月12日在Prime Video开播，首日上线3集，此后每周更新至9月16日。当天，第4季完结并同步上线8集《尼格利》衍生剧。故事聚焦芝加哥私家侦探、前宪兵弗朗西丝·尼格利调查一名旧友疑似意外死亡的危险案件，玛丽亚·斯滕回归主演，艾伦·里奇森客串杰克。",
-              "source_url": "https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T08:57:44+08:00"
-            },
-            {
-              "title": "前PlayStation高管为PC策略辩护，正值索尼转离多平台发行",
-              "brief": "前PlayStation高管肖恩·莱登在PSI访谈中为索尼将部分游戏移植PC的策略辩护，称当初目的主要不是赚钱，而是让PlayStation生态外的玩家认识《地平线》等IP。随着索尼把游戏改编为影视、漫画等媒介，他认为扩大角色和故事认知很重要，且等待PC版的玩家本来也未必会购买PS5。",
-              "source_url": "https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T07:05:19+08:00"
-            },
-            {
-              "title": "克里斯托弗·诺兰《奥德赛》推出官方 Roblox 联动游戏",
-              "brief": "克里斯托弗·诺兰新片《奥德赛》推出官方 Roblox 免费联动游戏《The Odyssey: Defy the Gods》。玩家可与好友航行、搜集补给并解谜，每次航程都有“新海洋”，还会遭遇风暴和漩涡；该游戏因暴力和恐惧内容评级为 18 岁以上，用于为暑期上映影片预热。",
-              "source_url": "https://www.ign.com/articles/christopher-nolans-the-odyssey-gets-official-roblox-tie-in-game",
-              "source_name": "IGN",
-              "published_at": "2026-07-01T05:02:45+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "大型强子对撞机进入第三次长期停机维护",
+              "brief": "CERN宣布大型强子对撞机进入第三次长期停机维护，进行迄今最大规模升级，为2030年高亮度LHC运行做准备。此前LHC曾在2013至2015年、2018年底至2022年4月两次停机升级；这次升级目标是将亮度最高提升十倍，让研究人员收集更大数据集，更精确研究希格斯玻色子，并提高探索标准模型之外现象的能力。",
+              "source_url": "https://www.solidot.org/story?sid=84731",
+              "source_name": "Solidot",
+              "published_at": "2026-07-01T19:08:20+08:00"
+            },
             {
               "title": "研究人员将干细胞转化为人类初级卵母细胞",
               "brief": "美国生物科技创业公司Conception宣布，已将干细胞诱导为人类初级卵母细胞，称其为重要科学进展。类似体外配子发生此前已在小鼠中成功，研究人员先把皮肤细胞制成诱导多能干细胞，再转为可用卵子，所得后代寿命正常并能自然繁殖。",
@@ -360,13 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=84727",
               "source_name": "Solidot",
               "published_at": "2026-07-01T14:26:31+08:00"
-            },
-            {
-              "title": "微软发布 WSL 容器公开预览版",
-              "brief": "微软发布WSL容器公开预览版，面向需要在Windows上创建、运行和管理Linux容器的开发场景。容器已成为云原生应用、AI工作负载、测试和部署流水线的重要基础，WSL容器试图以系统内置、企业级方式简化流程，减少对额外第三方工具的依赖；此次预览随WSL 2.9.3发布。",
-              "source_url": "https://www.solidot.org/story?sid=84726",
-              "source_name": "Solidot",
-              "published_at": "2026-07-01T13:59:39+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "优必选发布全尺寸超仿生人形机器人，顶配版99万元",
-              "brief": "优必选发布消费级全尺寸超仿生人形机器人优世界U1系列，并称线上线下订单已突破13361台、力争今年交付。公司将其作为从工业场景迈向消费场景的核心产品，主打长期陪伴、情绪识别和商用服务，具备88个自由度、仿生颈椎、情感大模型和本地优先的数据处理能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567494.htm",
+              "title": "联合国首份独立科学评估：人工智能前景巨大，风险同样严峻",
+              "brief": "联合国首份独立人工智能科学评估称，人工智能在教育、医疗、科研和工业等领域前景巨大，但快速部署也带来严峻风险。报告指出，高自治系统的科学理解和治理工具仍不足，算力、语言覆盖和评估能力高度不均，信息操控、深度伪造和恶意使用已对公共信任、人权及安全构成挑战。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567516.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-01T16:20:52+08:00"
+              "published_at": "2026-07-01T19:58:35+08:00"
             },
             {
-              "title": "英国皇家海军放弃下一代驱逐舰，转向无人作战指挥舰队",
-              "brief": "英国皇家海军放弃以83型驱逐舰接替45型舰的传统方案，转向建设作战指挥舰队。背景是预算压力、舰队规模受限及俄乌战争中无人系统的实战影响，新方案让CCV作为海上指挥控制平台，协同无人导弹平台、无人水下传感器和超大型无人潜航器，形成分布式防空与海上作战能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567492.htm",
+              "title": "富士胶片推出两款新一次性相机，迎合Z世代胶片热潮",
+              "brief": "富士胶片推出QuickSnap Black and White和QuickSnap Active两款一次性相机，面向Z世代带动的胶片与复古相机回潮。黑白款主打高反差、层次和颗粒质感，并兼容标准彩色冲洗流程；Active款取代现有防水版，支持10米水下使用，配有更大的卷片旋钮和快门拨杆。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567514.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-01T16:19:09+08:00"
+              "published_at": "2026-07-01T19:56:49+08:00"
             },
             {
-              "title": "国外情侣签《GTA6》保证书：男友获准一周畅玩不受打扰",
-              "brief": "一对国外情侣因《GTA6》发售签下游戏期间保证书，约定男友可在首周畅玩且不受打扰。此事反映玩家对这款长期等待作品的高关注度，合同列出不得遮挡画面、不得在任务失败时说禁句等规则，并设置出资购买游戏或贡献至少40英镑即可取消一条规则的买断条款。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1567490.htm",
+              "title": "NBC环球或进军游戏行业，手握《侏罗纪》《小黄人》等IP",
+              "brief": "NBC环球据称在康卡斯特拟分拆部分业务之际评估进军游戏行业，但相关交易即使推进也会在拆分完成一段时间后才发生。公司可利用《侏罗纪公园》《速度与激情》《神偷奶爸》《小黄人》等IP，也可能通过收购游戏工作室建立开发能力，不过游戏只是其考虑的多个方向之一。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1567512.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-01T16:04:13+08:00"
+              "published_at": "2026-07-01T19:48:41+08:00"
             },
             {
-              "title": "天津移动短信将“尊敬”写成“奠敬”，客服称系统识别异常",
-              "brief": "天津移动一条短信将“尊敬”误写成“奠敬”，引发用户质疑运营商标准化模板校验不足。工作人员回应称，文字差错来自后台系统识别程序异常，并非人工编辑失误。目前故障已上报，技术和运营部门将同步排查，并承诺完善短信发布前多重审核和文字校验机制。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567488.htm",
+              "title": "WinRAR发布7.23更新，称用户付款资助开发",
+              "brief": "WinRAR发布7.23版，并在社交平台用自嘲口吻称用户近期付款让公司有钱开发新版本，引发大量回应。该软件长期因40天试用期后仍可继续完整使用而成为网络梗。官方还回复称自动检查更新功能正在筹备中，32位Windows支持已在7.01版终止，折扣一直存在。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567510.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-01T16:02:58+08:00"
+              "published_at": "2026-07-01T19:48:34+08:00"
             },
             {
-              "title": "“互联网之父”温顿·瑟夫将于下周退休，曾参与开发TCP/IP协议",
-              "brief": "温顿·瑟夫将于下周退休，他是TCP/IP协议主要设计者之一，长期推动独立计算机网络互联。文章回顾其获得总统自由勋章、图灵奖等荣誉，并提到他自2005年起在Google任副总裁兼首席互联网布道师。报道还称，相关大会讨论先进AI模型集中化问题，瑟夫预计AI智能体普及后行业仍会重新依赖统一标准。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567486.htm",
+              "title": "特斯拉海外推送FSD V14，中国车主能否升级仍待明确",
+              "brief": "特斯拉海外开始向HW3车型推送FSD V14 Lite后，中国车主能否升级仍未明确。客服称国内已为部分车型开放适配，并正按法规推进辅助驾驶软件准备。此次更新通过知识蒸馏把HW4完整模型能力迁移到HW3小模型，新增自动泊车、驶离车位和倒车等功能。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567508.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-01T16:02:34+08:00"
+              "published_at": "2026-07-01T19:42:05+08:00"
             }
           ]
         },
@@ -440,39 +440,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Rokid AR 眼镜确认搭载恒玄 BES2810 芯片",
-              "brief": "Rokid AR 眼镜新品正式亮相，并确认搭载恒玄 BES2810 芯片，采用 6nm 工艺，支持全新语音交互。该产品面向空间计算与 AI 交互场景，采用空间加 AI 双摄设计，还支持电致变色、6DoF 自由度和 58° 视野。",
-              "source_url": "https://www.ithome.com/0/971/309.htm",
+              "title": "索尼将逐步关闭 PS3 与 PS Vita 线上商店",
+              "brief": "索尼宣布将分阶段关闭 PS3 主机和 PS Vita 掌机端 PlayStation 商店，届时用户无法再购买新的数字内容。官方称，商店需适配现代线上交易体系，两款旧设备硬件已难以满足要求；已购游戏和内容在可预见的未来仍可重新下载。",
+              "source_url": "https://www.ithome.com/0/971/337.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-01T18:41:22+08:00"
+              "published_at": "2026-07-01T20:51:02+08:00"
             },
             {
-              "title": "美科首款富士 GFX 卡口 85mm F1.8 AF 镜头有望本月发布",
-              "brief": "美科将进入 4433 中画幅镜头市场，首款产品预计为富士 GFX 卡口 85mm F1.8 AF 镜头，有望在本月发布。该产品定位中画幅自动对焦镜头，报道披露了卡口、焦段、最大光圈和发布时间预期，暂未给出价格等更多规格。",
-              "source_url": "https://www.ithome.com/0/971/308.htm",
+              "title": "兰博基尼发布 Urus SE Performante 插混 SUV",
+              "brief": "兰博基尼发布 Urus SE Performante 插电混动 SUV，零百加速 3.3 秒，极速 312km/h。新车作为 Urus SE 的高性能版本，采用大量碳纤维部件并优化空气动力学；还首次引入 AURA 双腔空气悬挂，并新增 Rally 驾驶模式。",
+              "source_url": "https://www.ithome.com/0/971/336.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-01T18:40:19+08:00"
+              "published_at": "2026-07-01T20:47:49+08:00"
             },
             {
-              "title": "小米米家手持风扇推出新配色，建议零售价 249 元",
-              "brief": "小米米家手持风扇新配色亮相，建议零售价 249 元，当前到手价约 179 元。该产品搭载直流变频电机，支持 1 至 100 挡无级调速，最高风速 8.5m/s、送风距离 5 米，内置 5000mAh 电池，最长续航可达 40 小时。",
-              "source_url": "https://www.ithome.com/0/971/307.htm",
+              "title": "一汽红旗新一代天工 08 开启预售",
+              "brief": "一汽红旗新一代天工 08 开启预售，限时价格 17.98 万元起，并标配 800V 高压平台。新车定位中大型 SUV，配备封闭式前脸、15.6 英寸双联屏和灵犀智能座舱；提供后驱和四驱动力方案，CLTC 综合续航 670km。",
+              "source_url": "https://www.ithome.com/0/971/335.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-01T18:28:05+08:00"
+              "published_at": "2026-07-01T20:44:51+08:00"
             },
             {
-              "title": "奇瑞集团 6 月汽车销量 25.7 万辆，同比增长 9.8%",
-              "brief": "奇瑞集团公布 2026 年 6 月销量，集团当月销售汽车 25.7 万辆，同比增长 9.8%。其中新能源车型销量为 113583 辆，奇瑞汽车销量 240585 辆、同比增长 9.5%；今年上半年集团累计销售汽车 1357533 辆，同比增长 7.7%。",
-              "source_url": "https://www.ithome.com/0/971/306.htm",
+              "title": "特斯拉 6 月欧洲多国销量回暖",
+              "brief": "特斯拉 6 月在欧洲多国新车注册量回升，法国同比翻倍，丹麦、瑞典和西班牙也录得增长。此前其欧洲份额受中国品牌竞争、车型单一及马斯克相关舆论影响下滑；挪威则同比大跌 43%，被分析认为与提前购车透支需求有关。",
+              "source_url": "https://www.ithome.com/0/971/334.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-01T18:27:05+08:00"
+              "published_at": "2026-07-01T20:42:29+08:00"
             },
             {
-              "title": "吉利汽车 6 月销量 240799 辆，极氪同比增长 111%",
-              "brief": "吉利汽车控股 6 月销售汽车 240799 辆，同比增长 2%，旗下品牌表现分化。极氪当月销量 35169 辆，同比增长 111%；领克销量同比下降 28%。吉利汽车控股 6 月出口 102874 辆并创下新高，同比大增 157%。",
-              "source_url": "https://www.ithome.com/0/971/305.htm",
+              "title": "阿维塔 6 月交付 7459 辆，07L 将开启预售",
+              "brief": "阿维塔宣布 6 月交付量为 7459 辆，并称新车阿维塔 07L 将于本月开启预售。文章同时提到，阿维塔已获得 L3 自动驾驶测试牌照；07L 延续家族化外观，配备华为乾崑 896 线激光雷达、鸿蒙座舱，并将首批搭载华为乾崑智驾 ADS 5。",
+              "source_url": "https://www.ithome.com/0/971/332.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-01T18:27:03+08:00"
+              "published_at": "2026-07-01T20:40:26+08:00"
             }
           ]
         },
@@ -520,39 +520,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "康迪科技控股子公司获施耐德电气经销授权",
-              "brief": "康迪科技宣布，信储新能源已获得施耐德电气2026年度解决方案经销商授权。信储新能源为康迪科技签署战略投资协议的企业，此次授权意味着其取得施耐德电气相关年度解决方案经销资格。",
-              "source_url": "https://36kr.com/newsflashes/3876959227588613?f=rss",
+              "title": "常熟银行：江南商贸集团增持0.47%股份",
+              "brief": "常熟银行披露，江南商贸集团在截至2026年6月30日期间通过集中竞价增持公司股份1712.86万股，占总股本0.47%。此次增持资金来自自有资金，增持后其持股由1.23亿股增至1.4亿股，持股比例从3.37%升至3.84%，不触及要约收购。",
+              "source_url": "https://36kr.com/newsflashes/3877084869898243?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-01 18:46:52  +0800"
+              "published_at": "2026-07-01 20:54:40  +0800"
             },
             {
-              "title": "昊华科技：公司及子公司未生产电子级氢氟酸",
-              "brief": "昊华科技公告称，经自查，公司及下属子公司未生产电子级氢氟酸。公司表示，目前生产经营活动正常，内外部经营环境未发生重大变化，不存在影响公司股票交易价格异常波动的重大事项。",
-              "source_url": "https://36kr.com/newsflashes/3876956852433155?f=rss",
+              "title": "PlayStation 2028年起新游戏不再发行实体光盘版",
+              "brief": "PlayStation发布声明称，2028年1月起，所有在PlayStation主机上发售的新游戏将不再推出实体光盘版本。该调整意味着新作将仅以数字版形式在PlayStation商店和零售商处发售，但不会影响此前已发售或将在2028年1月前以光盘形式发售的游戏。",
+              "source_url": "https://36kr.com/newsflashes/3877079726469121?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-01 18:44:27  +0800"
+              "published_at": "2026-07-01 20:49:26  +0800"
             },
             {
-              "title": "九典制药获两项药品注册证书",
-              "brief": "九典制药公告称，公司近日收到国家药监局下发的《药品注册证书》，涉及西尼地平片和氨溴特罗口服溶液。前者用于高血压治疗，公司称其为国内第1家通过或视同通过一致性评价的企业。",
-              "source_url": "https://36kr.com/newsflashes/3876952369016840?f=rss",
+              "title": "Meta考虑出售闲置AI算力和模型使用权",
+              "brief": "据报道，Meta Platforms正筹划构建一项云基础设施业务，计划通过出售闲置AI算力和模型使用权来创收。该设想围绕其现有AI资源展开，背景是公司在AI基础设施上持续投入。报道提到的关键方向包括对外提供未充分使用的计算能力以及模型访问。",
+              "source_url": "https://36kr.com/newsflashes/3877069027913989?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-01 18:39:53  +0800"
+              "published_at": "2026-07-01 20:38:33  +0800"
             },
             {
-              "title": "光线传媒：首款3A游戏计划约三年推出",
-              "brief": "光线传媒在互动平台表示，公司已与合作方组建游戏公司，第一款3A游戏正在制作过程中。该项目是公司与合作方共同推进的游戏业务进展，按当前计划，首款3A游戏预计用三年左右时间推出。",
-              "source_url": "https://36kr.com/newsflashes/3876948572352516?f=rss",
+              "title": "热门中概股美股盘前涨跌互现，小鹏涨超3%",
+              "brief": "36氪获悉，热门中概股在美股盘前交易中涨跌互现，市场表现分化。截至发稿，小鹏集团涨超3%，腾讯音乐涨超1%，微博涨近1%，拼多多涨0.09%；下跌方面，蔚来跌超2%，网易跌超1%，阿里巴巴跌0.69%，京东跌0.49%，百度跌0.34%。",
+              "source_url": "https://36kr.com/newsflashes/3877068793032960?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-01 18:36:01  +0800"
+              "published_at": "2026-07-01 20:38:19  +0800"
             },
             {
-              "title": "安正时尚：陈克川所持股份已过户至郑秀萍名下",
-              "brief": "安正时尚公告称，公司收到陈克川通知，其已取得中国证券登记结算有限责任公司出具的证券过户登记确认书。陈克川所持4140.63万股股份已过户至郑秀萍名下，相关手续已办理完毕。",
-              "source_url": "https://36kr.com/newsflashes/3876946861338625?f=rss",
+              "title": "美股大型科技股盘前涨跌不一，Meta涨超5%",
+              "brief": "36氪获悉，美股大型科技股盘前涨跌不一，显示板块内部走势分化。截至发稿，Meta涨超5%，微软、SpaceX、奈飞涨超1%，谷歌涨0.27%；下跌个股中，Arm跌超2%，英伟达跌超1%，特斯拉跌0.52%，苹果跌0.26%。",
+              "source_url": "https://36kr.com/newsflashes/3877067310460933?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-01 18:34:17  +0800"
+              "published_at": "2026-07-01 20:36:49  +0800"
             }
           ]
         }
