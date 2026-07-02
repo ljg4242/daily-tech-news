@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T18:53:32.173855+08:00",
+  "generated_at": "2026-07-02T20:56:38.904036+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Opera 浏览器新增恶意剪贴板命令防护",
+              "brief": "Opera 推出默认启用的 Paste Protect，阻止用户从网页复制可疑终端命令后误执行。该功能针对 ClickFix 社工攻击，背景是攻击者常伪装成验证码或播放修复提示诱导粘贴命令。Opera 会在内容进入剪贴板前拦截，并显示被拦截内容前 120 个字符，开发者可为可信站点放行。",
+              "source_url": "https://www.macrumors.com/2026/07/02/opera-browser-clipboard-command-protection/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-02T20:40:52+08:00"
+            },
+            {
+              "title": "2026 年 iPhone 摄影奖公布最佳作品",
+              "brief": "2026 年 iPhone 摄影奖公布获奖作品，这是该奖项连续第 19 年评选用 iPhone 拍摄的照片。大奖由 Robyn Jensen 凭 iPhone 15 Pro 拍摄的开曼群岛火山喷发照获得，金奖为 Gellért Gombai 用 iPhone X 拍摄的黑白儿童照片。获奖类别还包括抽象、动物、建筑、风景、旅行等。",
+              "source_url": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-02T19:39:23+08:00"
+            },
+            {
+              "title": "热门剧集追踪应用 TV Time 将于 7 月 15 日关闭",
+              "brief": "TV Time 宣布将于 7 月 15 日关闭，之后删除所有个人用户数据，应用也会从 App Store 和 Google Play 下架，网站永久离线。公司称免费运营已不可持续，付费应用需求不足。用户可在截止日前通过应用内 GDPR 自助工具导出观看历史和追踪数据，部分汇总非个人数据可能保留。",
+              "source_url": "https://www.macrumors.com/2026/07/02/show-tracking-app-tv-time-shutting-down/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-02T19:05:06+08:00"
+            },
             {
               "title": "苹果将折叠 iPhone“Ultra”产量提高至 1000 万部",
               "brief": "据报道，苹果已要求供应商准备今年生产约1000万部首款折叠iPhone，高于数月前700万至800万部的预期。受全行业内存短缺影响，多家竞争对手下调产量，而苹果凭采购能力锁定零件。该机铰链工程问题据称已解决，但初期出货可能有限，预计9月随iPhone 18 Pro系列发布。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/guide/ios-27-maps/",
               "source_name": "MacRumors",
               "published_at": "2026-07-02T07:46:42+08:00"
-            },
-            {
-              "title": "美国解除出口管制后，Anthropic 的 Claude Fable 5 恢复可用",
-              "brief": "Anthropic表示Claude Fable 5已恢复可用，此前美国取消了相关出口管制。符合条件的Claude订阅者在7月7日前最多可将每周用量上限的50%用于Fable 5，之后需使用额度；该模型面向Pro、Max、Team和部分Enterprise计划，曾因公司无法核验用户国籍而暂停访问。",
-              "source_url": "https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-02T07:35:17+08:00"
-            },
-            {
-              "title": "苹果将在2027年春季推出新款iPad Pro",
-              "brief": "苹果计划在2027年春季推出新的11英寸和13英寸iPad Pro，外观预计不会大改，重点放在内部升级。据彭博社称，新机可能采用M6或M7芯片；两者都基于2纳米工艺，M7还包含AI优化，苹果也测试过可提升性能的均热板散热系统。",
-              "source_url": "https://www.macrumors.com/2026/07/01/apple-ipad-pro-spring-2027/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-02T05:17:11+08:00"
-            },
-            {
-              "title": "M6版MacBook Pro将于2026年底推出，重新设计的M7版2027年上半年发布",
-              "brief": "苹果计划在2026年底推出搭载M6芯片的14英寸MacBook Pro，并在2027年上半年接续推出重新设计的M7机型。报道称M6版已完成数月，但不会有M6 Pro和M6 Max；苹果希望加快过渡，因为M7针对AI负载优化，新设计将接近传闻中的高端OLED触控MacBook Pro。",
-              "source_url": "https://www.macrumors.com/2026/07/01/redesigned-m7-macbook-pro-2027/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-02T05:12:03+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "MacBook Pro 采用 MacBook Ultra 同款新设计，既意外也不意外",
+              "brief": "彭博报道称，苹果准备最快明年上半年推出代号K104的入门级14英寸MacBook Pro，并采用接近触屏高端MacBook的新设计。此前MacBook Ultra预计以OLED、触屏、动态岛和更轻薄机身区分于Pro，因此这种设计下放显得突然；但面对同价位更纤薄竞品，Pro更新设计也并不意外。",
+              "source_url": "https://9to5mac.com/2026/07/02/macbook-pro-models-sharing-the-macbook-ultra-redesign-is-and-isnt-surprising/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-02T20:16:51+08:00"
+            },
+            {
+              "title": "多数美国人支持禁止16岁以下儿童使用社交媒体，家长支持最强",
+              "brief": "皮尤研究中心调查显示，56%的美国成年人支持禁止16岁以下儿童使用社交媒体，未成年子女家长中支持率升至65%。儿童和青少年使用社交平台的心理健康风险正推动多国和美国部分州采取限制措施；调查还显示85%支持未成年人开户需父母同意，78%支持年龄验证和使用时长限制。",
+              "source_url": "https://9to5mac.com/2026/07/02/most-americans-would-ban-social-media-for-under-16s-with-parents-the-most-vocal/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-02T19:40:10+08:00"
+            },
+            {
+              "title": "2026 年 iPhone 摄影奖获奖作品公布",
+              "brief": "2026年iPhone摄影奖公布获奖作品，涵盖抽象、动物、建筑、儿童、城市景观、风景、生活方式、自然和人物等类别。主办方称作品质量说明关键不在昂贵器材，而在摄影者的观察力；最高奖项是一张用iPhone 15 Pro拍摄的开曼群岛火山喷发夜景，金银铜奖作品风格各不相同。",
+              "source_url": "https://9to5mac.com/2026/07/02/check-out-all-the-winning-shots-in-the-2026-iphone-photography-awards/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-02T18:54:09+08:00"
+            },
             {
               "title": "Opera 新 Paste Protect 功能可拦截从网站复制的可疑命令",
               "brief": "Opera 推出默认启用的 Paste Protect，用于降低 ClickFix 攻击风险。此类攻击常借无法播放的视频或 CAPTCHA 弹窗诱导用户复制终端命令，可能安装恶意软件、窃取密码或远控设备；新功能会监测剪贴板中的可疑命令并阻止复制，同时在地址栏显示红色警告，开发者可对可信站点放行。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-02T12:24:35+08:00"
-            },
-            {
-              "title": "苹果将请求法院暂停 Epic Games 案程序，等待最高法院裁决",
-              "brief": "苹果与 Epic Games 共同请求地区法院推迟既有发回重审期限，因苹果计划申请在最高法院审理其上诉期间暂停相关程序。最高法院已同意审查苹果是否可因外部链接购买佣金被认定藐视法庭，但拒绝审查禁令适用范围；原日程要求苹果7月6日提交执行方案，7月16日前提交相关非特权文件。",
-              "source_url": "https://9to5mac.com/2026/07/01/apple-to-ask-court-to-halt-epic-games-proceedings-pending-supreme-court-ruling/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-02T09:52:31+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026年7月1日，iOS 26.5.2 与苹果新更新策略",
-              "brief": "9to5Mac Daily 本期聚焦苹果发布 iOS 26.5.2 及其更新策略变化。节目背景是 AI 驱动的黑客风险上升，苹果正加快安全更新节奏；内容还提到 iPhone 修复 25 多项安全问题、2028 年 M7 Ultra Mac Studio 传闻，以及美光高管对内存短缺原因的说法。",
-              "source_url": "https://9to5mac.com/2026/07/01/daily-july-1-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-02T07:18:42+08:00"
-            },
-            {
-              "title": "俄罗斯威胁因应用歧视指控罚苹果5200万美元",
-              "brief": "俄罗斯反垄断机构指控苹果歧视俄方搜索引擎和软件，要求其在7月15日前整改，否则可能罚款40亿卢布，约5160万美元。此举延续俄方要求在手机和平板预装国有通讯应用MAX的压力；苹果已停止在俄官方销售，路透未说明其应如何执行。俄方此前还要求苹果解释为何下架VK开发的多款应用。",
-              "source_url": "https://9to5mac.com/2026/07/01/russia-threatens-apple-with-52-million-fine-over-alleged-app-discrimination/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-02T06:30:02+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "谷歌AI扩建推动2025年用电量增长37%",
+              "brief": "谷歌2025年用电量同比增加37%，主要由AI基础设施和数据中心扩建带动。文章指出，虽然数据中心效率持续提升，但算力需求增长更快，使公司的气候承诺面临压力；年度环境报告还显示，电力、水资源和温室气体排放已成为外界衡量AI扩张成本的关键指标。",
+              "source_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-02T19:15:49+08:00"
+            },
+            {
+              "title": "社论：现在该站出来为科学发声",
+              "brief": "Ars Technica发表社论，呼吁读者在科学政策和研究体系承压之际主动表达意见。文章强调，保护科学不只关乎研究人员或机构，也需要公众参与决策过程；关键做法包括及时了解相关政策、提交意见、联系民选代表，并把支持循证决策转化为具体行动。",
+              "source_url": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-02T18:00:27+08:00"
+            },
+            {
               "title": "T-Mobile在诉讼期间将数万台虚拟机迁离VMware",
               "brief": "T-Mobile正在把数万台虚拟机从VMware平台迁出，相关行动发生在围绕VMware授权和支持条款的诉讼期间。博通收购VMware后调整产品和许可模式，引发大型客户重新评估依赖；报道提到迁移规模达数万台虚拟机，但未说明替代平台。",
               "source_url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-02T03:11:15+08:00"
-            },
-            {
-              "title": "超级蠕虫或可替代甲虫清理骨骼标本",
-              "brief": "研究人员发现，超级蠕虫可能成为清理动物骨骼标本的新工具，替代博物馆常用的皮蠹甲虫。背景是标本制作需要去除残余软组织且避免损伤骨骼，关键细节在于这种幼虫食量大、获取相对容易，实验显示其能啃食残留组织，为小型机构提供另一种处理方案。",
-              "source_url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-02T02:59:21+08:00"
-            },
-            {
-              "title": "索尼同日宣布终止PlayStation光盘并关闭部分数字商店",
-              "brief": "索尼同一天宣布两项与PlayStation介质和商店相关的变化：2028年起停止生产实体游戏光盘，并关闭部分数字商店功能。背景是游戏销售持续转向下载与线上账号体系，关键细节包括新发行作品将更多依赖PlayStation Store，旧平台或部分地区的购买入口也将逐步受限。",
-              "source_url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-02T02:41:49+08:00"
             }
           ]
         },
@@ -169,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Android 17 QPR1 Beta 6 为 Linux 终端带来界面升级",
+              "brief": "Android 17 QPR1 Beta 6 为内置 Linux Terminal 带来一轮界面升级，主页菜单项间距更宽、分隔线被移除，项目菜单和主终端窗口则出现更接近 Material 3 Expressive 的容器、更多配色和更圆的标签。背景是谷歌正为 Android 增强完整 Linux 应用支持，同时加入快捷键、字体等能力。",
+              "source_url": "https://www.androidauthority.com/android-linux-terminal-ui-upgrade-3683758/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-02T20:28:49+08:00"
+            },
+            {
+              "title": "经典《星球大战》游戏已有粉丝制作的 Android 移植版",
+              "brief": "开发者推出 Psi-Touch，将《星球大战：绝地学院》《绝地放逐者》和《黑暗力量》非官方移植到 Android。背景是十多年前的旧移植版已停更，无法适配新版 Android。新应用仍需用户从 PC 复制游戏文件，但支持模组、手柄和触控操作，作者称低端旧手机也可能运行。",
+              "source_url": "https://www.androidauthority.com/classic-star-wars-games-fan-made-android-port-3683703/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-02T19:47:02+08:00"
+            },
+            {
+              "title": "Android 17 QPR1 Beta 6 让 Linux 终端不再限于单一字体和窗口",
+              "brief": "Android 17 QPR1 Beta 6 为 Linux Terminal 新增自定义字体和多窗口支持，用户可从手机存储导入字体并设为默认，也能通过三点菜单打开新终端窗口。背景是谷歌自 2025 年 3 月 Pixel Drop 推出该应用后持续增强功能；新窗口会单独出现在最近任务中，便于同时运行不同命令。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr1-beta-6-linux-terminal-custom-font-multi-window-support-3683748/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-02T19:25:43+08:00"
+            },
+            {
+              "title": "Verizon 最新 10 美元免费福利引发应用崩溃",
+              "brief": "Verizon 在 Shine Rewards 中发放 10 美元 Ulta Beauty 礼品卡时遭遇故障，用户称奖励上线瞬间 Verizon 应用反复崩溃，只能刷新并多次尝试。背景是 Shine 奖励已向所有 Verizon 客户开放，需求可能超出预期；部分用户拿到卡后仍无法激活，激活网站出现 502 错误、邮箱验证失败或邮件缺少礼品卡信息。",
+              "source_url": "https://www.androidauthority.com/verizon-shine-rewards-gift-card-app-crash-3683722/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-02T18:53:59+08:00"
+            },
+            {
               "title": "Android 17 QPR1 Beta 6 为终端应用带来键盘快捷键升级",
               "brief": "Android 17 QPR1 Beta 6 在 Linux Terminal 应用设置中加入“键盘快捷键”菜单，让用户用组合键快速调用终端功能。QPR 测试版继续为爱好者提供新特性；每个快捷键可单独开关，并能在弹窗中自定义按键组合，主要适合 Pixel 桌面模式、带键盘的平板和潜在 GoogleBook 设备。",
               "source_url": "https://www.androidauthority.com/android-17-qpr1-beta-6-linux-terminal-keyboard-shortcuts-3683731/",
               "source_name": "Android Authority",
               "published_at": "2026-07-02T18:36:38+08:00"
-            },
-            {
-              "title": "佩戴 Pebble Time 2 两周后，我不想再买其他智能手表",
-              "brief": "作者连续两周佩戴 Pebble Time 2 后认为，它比功能繁杂的现代智能手表更符合自己需求。背景是 Apple Watch、Galaxy Watch 等设备虽规格强大，却常需一两天充电一次；PebbleOS 轻量系统让这款手表可轻松使用两周，补电不到一小时还能再用数天。",
-              "source_url": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-02T18:30:47+08:00"
-            },
-            {
-              "title": "XGIMI 最新 Google TV 投影仪将推出更亮的 Pro 版本",
-              "brief": "XGIMI 宣布在 MIRA 4K 超短焦激光投影仪之后，还将在未来数月全球销售 MIRA Pro。投影仪替代电视时常受亮度限制，因此 Pro 版把标称亮度从 MIRA 的 2,000 ISO 流明提升到 3,000 ISO 流明；两款机型外观、功能和 Google TV 界面相同，欧洲售价为 1,999 欧元。",
-              "source_url": "https://www.androidauthority.com/xgimi-mira-pro-4k-ust-laser-projector-3683710/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-02T18:16:26+08:00"
-            },
-            {
-              "title": "我放弃 Pixel 10 Pro、转向一款难买到的小屏安卓机的四个原因",
-              "brief": "作者在对比测试一个月后，决定放弃 Pixel 10 Pro，改用 vivo X300 FE。原因是后者延续 X300 Pro 和 X300 Ultra 的影像取向，同时保持小尺寸机身；文章认为 Pixel 10 Pro 虽规格接近大屏 Pro XL，但性能平淡、Android 独占体验吸引力减弱，而 vivo 的长焦传感器更大。",
-              "source_url": "https://www.androidauthority.com/why-i-ditched-pixel-10-pro-for-vivo-x300-fe-3675745/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-02T18:00:21+08:00"
-            },
-            {
-              "title": "我不用 Google Play 商店生活一周，几乎撑不下去",
-              "brief": "作者关闭 Play 商店、保留 Google Play 服务，尝试一周内通过其他渠道获取和管理日常应用。Android 的开放性允许侧载 APK 和使用第三方商店，但体验并不顺畅；Aurora Store 最接近替代品，可访问近似 Play 商店的应用库、无需 Google 账号，还能下载旧版本和伪装设备，但无法购买应用和游戏。",
-              "source_url": "https://www.androidauthority.com/android-phone-using-without-google-play-store-3680822/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-02T17:30:55+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "亚马逊 Leo 卫星宽带服务已准备部署",
+              "brief": "联合发射联盟的阿特拉斯五号火箭7月2日从佛罗里达卡纳维拉尔角发射，将29颗亚马逊Leo卫星送入太空，亚马逊称已完成部署、取得轨道联系并确认状态正常。此次发射使Leo在轨可用卫星超过390颗，足以支持初始纬度连续服务；新卫星升至392英里工作高度后，服务可开始面向客户，后续任务将改用可装载更多卫星的Vulcan火箭。",
+              "source_url": "https://www.engadget.com/2206582/amazon-leo-is-ready-to-go/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-02T19:18:30+08:00"
+            },
+            {
+              "title": "3DO 复兴尝试已宣告终止",
+              "brief": "已停运的英国开发商Empire Interactive上周称将复兴3DO主机并重制游戏，但公司现已停止硬件重建和游戏重制计划。它表示，多方对主机和游戏提出所有权主张，继续推进可能引发长期法律纠纷；报道称，新所有者只持有3DO公司名称权，相关硬件和游戏IP由加拿大Throwback Entertainment掌握，且对方无意出售。",
+              "source_url": "https://www.engadget.com/2206578/3do-revival-empire-interactive/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-02T19:12:14+08:00"
+            },
+            {
+              "title": "Opera 新安全功能可阻止恶意网站复制粘贴攻击",
+              "brief": "Opera推出Paste Protect安全功能，用于拦截恶意网站发起的剪贴板攻击。它针对ClickFix手法：网站常伪装成验证码，把恶意命令复制到剪贴板，再诱导用户打开运行窗口粘贴执行，从而下载信息窃取恶意软件。新功能可识别Windows、macOS和Linux脚本，阻止复制并以红色地址栏图标警告，用户也能查看命令前120个字符。",
+              "source_url": "https://www.engadget.com/2206574/opera-new-security-feature-stops-copy-paste-clickfix-attacks/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-02T18:57:18+08:00"
+            },
             {
               "title": "据称 OpenAI 希望所有 AI 公司向美国政府出让股份",
               "brief": "据《金融时报》报道，Sam Altman 正与美国政府磋商，希望为 OpenAI 扫清政治阻碍。他提出让政府持有公司5%股份，把AI热潮收益分享给公众，并希望 Google、Anthropic、xAI、Meta 等头部AI公司也提供类似股份；此前多家公司在发布新模型时已受政府审查和限制影响。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.engadget.com/2206550/google-loses-final-appeal-over-eu-antitrust-fine/",
               "source_name": "Engadget",
               "published_at": "2026-07-02T17:18:08+08:00"
-            },
-            {
-              "title": "X推出创作者奖励，再次发力直播视频",
-              "brief": "X正用新工具和创作者奖励推动直播视频，未来一个周期将拨出100万美元鼓励创作者在平台开播。直播并非X的新功能，但此前不是平台的常见使用场景；新上线的Live Studio可创建和排期直播、设置标题缩略图和观众范围，并显示评论、并发观众、观众国家及设备等数据，直播仅面向X Premium用户。",
-              "source_url": "https://www.engadget.com/2206527/x-push-for-live-video-creator-payouts/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-02T14:40:52+08:00"
-            },
-            {
-              "title": "苹果据称计划明年刷新入门级 MacBook Pro 外观",
-              "brief": "据报道，苹果计划在2027年上半年更新入门级MacBook Pro外观，让14英寸基础款更接近高端机型设计。背景是苹果近年更常在春季发布入门和预算产品；同一窗口还在测试四款新iPad Pro，并可能推出iPhone 18基础款、iPhone Air更新及M7芯片。",
-              "source_url": "https://www.engadget.com/2206465/apple-is-reportedly-planning-a-visual-refresh-of-the-entry-level-macbook-pro-next-year/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-02T06:52:09+08:00"
-            },
-            {
-              "title": "苹果“隐藏邮件地址”功能可能未充分隐藏信息",
-              "brief": "404 Media报道称，苹果iCloud+的“隐藏邮件地址”功能存在漏洞，可能让攻击者把匿名地址关联到用户真实邮箱。发现问题的EasyOptOuts称一年前已向苹果报告并提供复现方法，但漏洞仍可被利用；其在志愿者测试中称所有受测地址都可被关联，细节因风险未公开。",
-              "source_url": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-02T04:57:11+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "“谜题盒”剧集让所有人都复杂，连演员也不例外",
+              "brief": "《Silo》的幕后团队谈到，随着剧集进入第三季并进一步扩大规模，管理这种“谜题盒”叙事变得更加复杂。文章聚焦这部 Apple 剧集的制作与表演挑战，指出悬念和信息控制不只影响观众理解，也会让演员在把握角色和剧情走向时面临难度。",
+              "source_url": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
+              "source_name": "The Verge",
+              "published_at": "2026-07-02T08:00:00-04:00"
+            },
+            {
+              "title": "BitTorrent 灾难性、传奇且充满争议的故事",
+              "brief": "BitTorrent 在 25 年前由程序员 Bram Cohen 发布，随后迅速成为全球最受欢迎的文件共享应用之一。文章回顾它如何引发大规模盗版浪潮并冲击好莱坞：2004 年部分统计称其占 P2P 流量一半、全网流量三分之一，而娱乐业虽关闭 Napster 和 Kazaa，却难以遏制 BitTorrent。",
+              "source_url": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+              "source_name": "The Verge",
+              "published_at": "2026-07-02T07:00:00-04:00"
+            },
             {
               "title": "OpenAI考虑让特朗普政府持有5%股份",
               "brief": "OpenAI曾提出让美国政府持有公司5%股权，以缓和与特朗普政府的紧张关系并减轻围绕AI的公众反弹。报道称，CEO萨姆·奥尔特曼认为，让公众分享公司财务收益是分配AI红利的方式；按OpenAI最新8520亿美元估值计算，该股份约值426亿美元，讨论仍处早期。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
               "source_name": "The Verge",
               "published_at": "2026-07-01T18:39:43-04:00"
-            },
-            {
-              "title": "PlayStation 游戏光盘退场已经开始",
-              "brief": "索尼宣布从2028年1月起不再为新游戏生产光盘，标志PlayStation进一步转向无盘未来。这让仍偏好实体媒介的玩家、独立游戏零售店和游戏保存组织面临更大压力；小型连锁店Pink Gorilla Games共同所有者Cody Spencer称，这项决定只会伤害玩家，因为他们将失去转售、分享和拥有游戏的能力。",
-              "source_url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-              "source_name": "The Verge",
-              "published_at": "2026-07-01T18:03:37-04:00"
-            },
-            {
-              "title": "Xbox“重置”：微软即将裁员和关闭工作室的消息汇总",
-              "brief": "Xbox高层6月10日向员工预告“重置”，称业务面临问责利润率、主机零部件涨价和工作室体系过度扩张等挑战。The Verge和彭博社报道称，Xbox部门计划在7月裁员，预计7月6日公布，可能包括工作室关闭或剥离；微软还被称在考虑关闭至少五家工作室，并可能取消《Blade》等项目。",
-              "source_url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
-              "source_name": "The Verge",
-              "published_at": "2026-07-01T17:00:00-04:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "休·杰克曼谈还会演多久金刚狼：现在无需考虑交棒",
+              "brief": "随着漫威新X战警角色可能较早登场，粉丝猜测洛根是否也会换人。休·杰克曼表示目前似乎还不到交棒时，并引用《死侍与金刚狼》中“演到90岁”的玩笑，称会为未来接任者留一个小时间胶囊。",
+              "source_url": "https://www.ign.com/articles/ill-do-a-time-capsule-for-them-how-long-will-hugh-jackman-play-wolverine-marvel-star-suggests-theres-no-need-to-think-about-handing-over-the-role-just-yet",
+              "source_name": "IGN",
+              "published_at": "2026-07-02T18:05:07+08:00"
+            },
+            {
+              "title": "ESRB泄露《战锤40K：星际战士 大师打造版》将登PS5和Switch 2",
+              "brief": "ESRB评级页面短暂列出《战锤40K：星际战士 大师打造版》的PS5和Switch 2版本，随后相关平台信息被移除。该作去年登陆PC和Game Pass，虽有4K、现代化操作、界面翻新、模型改进和重制音频，但曾因定价、改动和联机问题遭玩家批评。",
+              "source_url": "https://www.ign.com/articles/esrb-leaks-warhammer-40000-space-marine-master-crafted-edition-for-ps5-and-nintendo-switch-2",
+              "source_name": "IGN",
+              "published_at": "2026-07-02T17:45:47+08:00"
+            },
             {
               "title": "《鬼武者：剑之道》发售日提前",
               "brief": "Capcom将《鬼武者：剑之道》的发售日从2026年9月25日提前至9月4日。该作是系列时隔20年的新作，上一部《鬼武者：梦之黎明》于2006年登陆PS2；故事设在江户时代初期的京都，PS5、Xbox Series X|S和PC试玩版已上线，保留试玩存档的玩家购买正式版后可获得“首明”护符。",
@@ -313,26 +327,26 @@
               "source_url": "https://www.ign.com/articles/love-and-deepspace-fans-tearfully-hold-funeral-for-valko-at-infold-hq-after-company-suddenly-drops-character",
               "source_name": "IGN",
               "published_at": "2026-07-02T07:07:52+08:00"
-            },
-            {
-              "title": "游戏零售商和历史学者回应PlayStation放弃实体媒介",
-              "brief": "PlayStation计划自2028年停止实体光盘生产后，游戏零售商、出版商和保存机构相继表态。视频游戏历史基金会称行业早已削弱实体媒介支持，但仍要求业界为数字游戏合法保存拿出方案；Lost in Cult称对此“深感难过”，GOG则强调下架游戏也不会撤销已购访问权。",
-              "source_url": "https://www.ign.com/articles/we-are-deeply-saddened-games-retailers-and-historians-respond-to-playstation-abandoning-physical-media",
-              "source_name": "IGN",
-              "published_at": "2026-07-02T06:53:38+08:00"
-            },
-            {
-              "title": "前《现代战争》创意策略师成立新工作室，反对服务型游戏趋势",
-              "brief": "前《现代战争》创意策略师Robert Bowling在LinkedIn宣布成立新工作室//18.bravo，称团队将重新思考现代游戏开发方式。新作会有在线内容，但不做服务型游戏；首发高峰期支持专用服务器，基础设计转向优化P2P架构，让社区在公司退出后仍可联机游玩。",
-              "source_url": "https://www.ign.com/articles/ex-modern-warfare-creative-strategist-launches-new-studio-pushing-back-against-live-service-trends",
-              "source_name": "IGN",
-              "published_at": "2026-07-02T04:33:28+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "DGX Spark 黑客松线上训练营将讲解 Agent 搭建与具身智能",
+              "brief": "NVIDIA 开发者社区联合 Stepfun、XSUPERZONE 将于 7 月 12 日启动 DGX Spark 多模态 Agent 黑客松，并开放免费线上训练营。直播和回放不设参赛门槛，围绕赛事规则、本地 Agent Team、视觉生成智能体和桌面机器人 Agent 平台展开，另提供技术文档、工具包与实时答疑。",
+              "source_url": "https://www.solidot.org/story?sid=84742",
+              "source_name": "Solidot",
+              "published_at": "2026-07-02T19:51:13+08:00"
+            },
+            {
+              "title": "研究称久坐者肌肉线粒体功能显著下降",
+              "brief": "研究人员发现，健康但久坐不动者的肌肉线粒体功能已出现显著且一致的下降，可能是重大疾病的早期信号。研究比较约 42 岁的 9 名久坐男性和 10 名经常运动男性，通过肌肉活检和运动测试评估能量代谢；久坐组线粒体效率低 28%-36%，MPC1 低 49%，CPT1 活性约减半，VO2max 低 38%，运动时血乳酸高 60%。",
+              "source_url": "https://www.solidot.org/story?sid=84741",
+              "source_name": "Solidot",
+              "published_at": "2026-07-02T18:53:28+08:00"
+            },
             {
               "title": "F-Droid 称 Google 向 Android 设备推送 ADV 服务",
               "brief": "F-Droid 警告称，Google 近几个月向多达 40 亿台 Android 设备推送 Android Developer Verifier。该服务以安全和开发者验证计划名义部署，作为系统服务后台运行并拥有 root 权限，无法被用户屏蔽、禁用或移除；F-Droid 称其预计 9 月 30 日起逐步激活，用于阻止未经 Google 批准的开发者应用。",
@@ -353,26 +367,26 @@
               "source_url": "https://www.solidot.org/story?sid=84738",
               "source_name": "Solidot",
               "published_at": "2026-07-02T16:29:11+08:00"
-            },
-            {
-              "title": "Cloudflare 推动 AI 公司为内容付费",
-              "brief": "Cloudflare 宣布推出新控制功能，赋予内容出版商更多对 AI 公司访问和使用其内容的控制权。从 9 月 15 日起，新站点将允许传统搜索引擎索引，但默认屏蔽 AI 训练机器人和 AI 智能体访问广告支持的网页。同时，Cloudflare 推出按使用付费模式，当出版商内容为 AI 生成的答案做出贡献时给予补偿，旨在让出版商不必在曝光率和免费提供内容之间做选择。",
-              "source_url": "https://www.solidot.org/story?sid=84737",
-              "source_name": "Solidot",
-              "published_at": "2026-07-02T15:23:37+08:00"
-            },
-            {
-              "title": "科学家首次利用非生命成分制造出细胞",
-              "brief": "明尼苏达大学的合成生物学家首次将非生物成分装入类细胞膜，制造出能生长、复制 DNA 并分裂的人工合成细胞。该细胞展示了细胞周期的基本功能，但并非活体，依赖外部营养和核糖体，缺乏防御和废物处理系统。这一成果是合成生物学的重要进展，为从非生命物质创造生命提供了有力证据，有助于理解约 40 亿年前原细胞的形成过程。",
-              "source_url": "https://www.solidot.org/story?sid=84736",
-              "source_name": "Solidot",
-              "published_at": "2026-07-02T14:46:01+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "azmth：实时查看头顶飞过的卫星",
+              "brief": "azmth上线卫星追踪网页，用3D地球仪实时展示绕地运行的已编目物体。它面向想查看星链、空间站等卫星的用户，轨道数据来自CelesTrak约每2小时更新，浏览器按TLE实时计算位置；设置地点后还能预测国际空间站、哈勃和星链列车经过头顶的时间、方向与仰角。",
+              "source_url": "https://www.appinn.com/azmth-space/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-02T19:49:40+08:00"
+            },
+            {
+              "title": "Yoink：Mac 文件暂存架与跨窗口拖放工具",
+              "brief": "数码荔枝上架Yoink for Mac，主打为Mac拖拽操作提供屏幕边缘临时暂存架。它针对跨窗口、跨桌面、跨屏移动文件时需要反复整理窗口的问题，可先收集文件、图片、文字和网页素材再拖到目标位置；新版v3.7.5增强从“照片”App取出RAW、Live Photo视频和连拍素材的能力，还支持剪贴板历史与快速预览。",
+              "source_url": "https://www.appinn.com/yoink-for-mac/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-02T19:01:58+08:00"
+            },
             {
               "title": "微软发布 WSL 容器公测版，Windows 可原生运行 Linux 容器",
               "brief": "微软发布 WSL Container 公测版，把 Linux 容器能力集成进 WSL，Windows 用户无需 Docker Desktop 也能运行 Docker 镜像。用户需升级到 WSL 预览版，并用 wslc 命令拉取、构建、运行和管理容器；微软还提供 WSL 容器 API，支持 Windows 应用直接调用容器能力。",
@@ -393,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "酷态科推出 69 元 CP 苹果 C to L 转接头，配硅胶绳套并获 MFi 认证",
-              "brief": "酷态科推出 CP 苹果转接头 C to L，售价 69 元，主打把 USB-C 充电头或线缆转接为 Lightning 接口。产品配有硅胶绳套，便于固定在其他 USB-C 充电头线缆上，并已通过苹果 MFi 认证，支持 USB 2.0，传输速度为 480Mbps。",
-              "source_url": "https://www.ithome.com/0/971/867.htm",
+              "title": "华为 Pura X Max 销量据称突破45万台，典藏版高于标准版",
+              "brief": "消息称华为 Pura X Max 系列横向阔折叠手机总销量已超过45万台，其中典藏版约25.13万台，较普通版多5.05万台。该机4月25日开售，搭载麒麟9030 Pro，起售价10999元，首销当月销量近35万台，第二个月约11万台。",
+              "source_url": "https://www.ithome.com/0/971/901.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-02T18:38:00+08:00"
+              "published_at": "2026-07-02T20:48:20+08:00"
             },
             {
-              "title": "贾跃亭及乐视汽车新增被执行人信息，执行标的 3531 万余元",
-              "brief": "贾跃亭及乐视汽车（北京）有限公司新增一则被执行人信息，执行标的为 3531 万余元人民币。相关公司经营范围包括项目投资、投资管理、资产管理和投资咨询等。贾跃亭此前称希望加速清偿中国境内债务，并宣布在美国设立第二个债务信托，资产包括 FF 股权激励股份和 AIXC 持股的各 50%。",
-              "source_url": "https://www.ithome.com/0/971/853.htm",
+              "title": "三星 Galaxy S27 系列据称将标配防窥显示屏",
+              "brief": "消息称三星 Galaxy S27 系列智能手机将标配防窥显示屏，采用 Flex Magic Pixel 面板集成式隐私保护技术。该方案通过在显示面板内集成精确排列的黑色矩阵，以像素级控制光线方向，在保证正面清晰可见的同时限制偏轴方向可视性。",
+              "source_url": "https://www.ithome.com/0/971/899.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-02T18:26:51+08:00"
+              "published_at": "2026-07-02T20:41:26+08:00"
             },
             {
-              "title": "阿维塔 06T Elite 双电机纯电版将升级 ADS 5，搭载华为乾崑 Limera 舱内激光视觉",
-              "brief": "阿维塔 06T Elite 双电机纯电版将迎来华为乾崑智驾 ADS 5 版本，并搭载华为乾崑 Limera 舱内激光视觉。华为乾崑 ADS 5 已于 4 月 23 日发布，算法层面采用面向自动驾驶的 WEWA 2.0 架构，涵盖云端博弈、强化学习和车端实时安全评估。",
-              "source_url": "https://www.ithome.com/0/971/852.htm",
+              "title": "小鹏 MONA L03 预售价14.38万元起，7月16日上市",
+              "brief": "小鹏 MONA L03 公布预售价14.38万元起，并将于7月16日正式上市。新车由前法拉利外饰设计师胡安马主导，提供纯电和超级增程版本，配备自研图灵 AI 芯片、第二代 VLA 智驾方案，纯电续航最高625km，增程综合续航最长1330km。",
+              "source_url": "https://www.ithome.com/0/971/898.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-02T18:25:33+08:00"
+              "published_at": "2026-07-02T20:37:06+08:00"
             },
             {
-              "title": "《冒险岛》怀旧服开启第二次非公开测试，调整金币绑定等设定",
-              "brief": "《冒险岛》怀旧服开启第二次非公开测试，并调整交易、游戏内容和商城规划。此次测试移除金币绑定角色设定，拍卖场和自由市场个人、雇佣商店支持金币交易，交易手续费由 10% 调至 5%。商城功能暂不开放，正式开服时计划销售时装、发型脸型和便利类商品。该怀旧服主打还原上线初期地图、职业与任务。",
-              "source_url": "https://www.ithome.com/0/971/849.htm",
+              "title": "比亚迪海豹08上市：插混、纯电标配闪充，19.69万元起",
+              "brief": "比亚迪海洋网旗舰车型海豹08正式上市，插混版和纯电版均标配闪充，起售价19.69万元。新车轴距3030mm，提供多种车色和内饰配色，全系搭载天神之眼 B 辅助驾驶激光版，配备后轮转向、第二代刀片电池，纯电版 CLTC 续航最高905km。",
+              "source_url": "https://www.ithome.com/0/971/897.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-02T18:09:07+08:00"
+              "published_at": "2026-07-02T20:33:27+08:00"
             },
             {
-              "title": "美国监管机构结束特斯拉“意外减速”调查，称风险低且投诉锐减",
-              "brief": "美国监管机构结束对特斯拉车辆“意外减速”问题的调查，理由是风险较低且投诉数量明显下降。NHTSA 称特斯拉已在 2022 年初推送软件更新，相关举报从调查初期约 300 起降至 2026 年初以来 3 起，并认为故障不会改变车道内横向位置或显著增加追尾风险。上周其还结束了 Model 3/Y 转向问题调查。",
-              "source_url": "https://www.ithome.com/0/971/837.htm",
+              "title": "创维 S710 纯电 SUV 上市：CLTC 续航710km，14.28万元起",
+              "brief": "创维 S710 纯电 SUV 正式上市，起售价14.28万元，主打长续航和高压快充配置。新车搭载宁德时代电芯和88kWh三元锂电池，CLTC 续航710km，采用800V碳化硅高压平台，官方称电量30%至80%充电需0.3小时，并支持100kW直流对外放电。",
+              "source_url": "https://www.ithome.com/0/971/896.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-02T18:00:39+08:00"
+              "published_at": "2026-07-02T20:31:52+08:00"
             }
           ]
         },
@@ -433,39 +447,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "苹果据称在存储短缺中上调新机备货",
-              "brief": "苹果据称在存储供应紧张之际，仍要求供应商为首款折叠屏iPhone和iPhone 18高端机型提前备货。报道称，下半年新款iPhone产量可能达8500万台，折叠屏相关零部件按约1000万台准备，并将沿用部分iPhone 17通用部件。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567626.htm",
+              "title": "亚马逊低轨卫星网络进入关键节点，有望挑战星链",
+              "brief": "亚马逊低轨卫星网络进入关键部署阶段，目标是在2026年年中商用。这意味着星链可能迎来同量级竞争者，但亚马逊在轨卫星数量仍远少于SpaceX，早期用户可能遇到覆盖有限、连接波动等情况，后续体验取决于持续发射、扩容和全球可用区域扩大。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567646.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-02T17:11:09+08:00"
+              "published_at": "2026-07-02T20:43:50+08:00"
             },
             {
-              "title": "芯片股抛售蔓延至亚洲，三星和SK海力士大跌",
-              "brief": "华尔街芯片股下挫后，抛售行情蔓延至亚洲市场，三星电子和SK海力士股价分别大跌9.06%和14.57%。分析称两家公司在韩国综指权重已接近一半，波动会拖累大盘；同时港股和内地科技股也出现大范围下跌。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567624.htm",
+              "title": "南加州地下应力逼近千年高位，地震风险上升",
+              "brief": "最新物理模型显示，南加州圣安德烈斯与圣哈辛托相关断层的构造应力已达到或超过过去千年高位。研究认为，卡洪山口等断层交汇区可能决定破裂是否联动扩大，若两套断层同时高应力，未来大地震影响或波及洛杉矶等人口和基础设施密集区域。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1567644.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-02T17:06:44+08:00"
+              "published_at": "2026-07-02T20:33:27+08:00"
             },
             {
-              "title": "美国拟改写超音速客机内陆飞行噪声规则",
-              "brief": "美国FAA启动重审1973年非军用飞机内陆超音速飞行禁令，准备以噪声表现而非速度本身作为监管核心。新规背景是低音爆机体和飞控技术取得进展，NASA X-59试飞数据将用于制定标准，FAA预计2027年年中前后敲定细则。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567622.htm",
+              "title": "NASA卫星观测到罕见海底火山喷发，可能形成新岛",
+              "brief": "多颗卫星在比斯马克海观测到罕见海底火山喷发，海面出现热异常、变色水体、蒸汽羽流和大规模浮石筏。由于当地海底测绘精度有限，喷发口位置和水深仍不确定；科研团队正跟踪其是否会突破海面形成新岛，并评估后续侵蚀或喷发变化。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1567642.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-02T17:05:51+08:00"
+              "published_at": "2026-07-02T20:31:57+08:00"
             },
             {
-              "title": "RTX 5090D液氮超频首次突破4GHz",
-              "brief": "Team OGS将RTX 5090D在液氮冷却下推至4002MHz，首次突破4GHz，并通过GPUPI v3.3 32B测试验证。测试以纯计算负载为主、未运行3D图形任务，给瞬时Boost留下空间；平台还配外置时钟板、6.0GHz的Core i9-14900KF、ROG Z790 Apex Encore主板和3000W电源。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567620.htm",
+              "title": "苹果据称将折叠屏iPhone备货提高至1000万部",
+              "brief": "最新消息称，苹果已将2026年折叠屏iPhone订单提高至1000万部，高于此前部分机构给出的700万至800万部估计。这一规模暗示产品仍可能在2026年9月亮相，也显示供应链对铰链、主板等关键工艺的准备更进一步，但正式出货节奏仍可能晚于发布窗口。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567640.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-02T16:31:00+08:00"
+              "published_at": "2026-07-02T20:30:38+08:00"
             },
             {
-              "title": "苹果据称未来一年内至少推出5款iPhone新机",
-              "brief": "消息称苹果计划在未来一年内推出至少五款iPhone新机型，并为2026年产品准备约8000万部组件。全球AI数据中心需求推高内存成本，供应紧张影响消费电子生产；苹果凭借采购规模扩大备货，并据称洽谈从长鑫存储、长江存储采购面向中国市场设备的内存芯片。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1567618.htm",
+              "title": "2026年6月Steam硬件调查：三款RTX 50系列显卡进入前十",
+              "brief": "2026年6月Steam硬件调查显示，显卡榜前十中已有三款RTX 50系列产品，RTX 5070升至第四，RTX 5060与RTX 5060 Ti也进入前列。CPU方面英特尔份额小幅回升，6核和8核处理器占比接近；系统上Windows 11份额突破70%，Windows 10继续下降。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1567638.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-02T15:57:22+08:00"
+              "published_at": "2026-07-02T20:28:09+08:00"
             }
           ]
         },
@@ -473,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "普华永道预计2026年香港IPO融资额达3800亿港元",
-              "brief": "普华永道预计，2026年香港IPO融资额将达到3800亿港元。这一判断涉及香港新股市场未来融资规模，属于对明年IPO活动的前瞻性估算；原文未披露测算依据、行业分布、企业名单或单个项目融资安排等进一步细节。",
-              "source_url": "https://36kr.com/newsflashes/3878374349697288?f=rss",
+              "title": "部分外资银行正申请新一批QDII额度",
+              "brief": "部分外资行境内法人银行正向有关部门申请新一批QDII额度。此前外汇局表示将回应市场需求，在已优化企业境外上市、境外放款等制度基础上，进一步简化ODI、外债等汇兑管理，并优化外汇贷款、跨境股权激励等制度。",
+              "source_url": "https://36kr.com/newsflashes/3878499384061953?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-02 18:46:24  +0800"
+              "published_at": "2026-07-02 20:53:35  +0800"
             },
             {
-              "title": "AI创作平台“灵珠”完成天使轮融资",
-              "brief": "AI创作平台“灵珠”近日完成天使轮融资。该平台处于AI创作赛道，融资信息显示其获得早期资本支持；本轮由TikTok天使投资人韦海军领投，原文未披露融资金额、资金用途、公司业务进展或其他参与投资方。",
-              "source_url": "https://36kr.com/newsflashes/3878368439841029?f=rss",
+              "title": "热门中概股美股盘前普遍下跌，百度跌超3%",
+              "brief": "热门中概股在美股盘前普遍下跌，显示相关股票开盘前承压。截至发稿，百度跌幅超过3%，蔚来、理性汽车、小鹏集团均跌超2%，拼多多、网易、阿里巴巴跌超1%，相关变动来自盘前交易报价。",
+              "source_url": "https://36kr.com/newsflashes/3878494673170694?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-02 18:40:23  +0800"
+              "published_at": "2026-07-02 20:48:48  +0800"
             },
             {
-              "title": "晨光生物实控人提议回购8000万元至1.6亿元股份",
-              "brief": "晨光生物公告，实际控制人卢庆国提议公司回购股份。此次回购金额区间为8000万元至1.6亿元，相关股份拟用于注销并减少公司注册资本；原文未披露回购价格上限、实施期限、资金来源或后续董事会审议安排。",
-              "source_url": "https://36kr.com/newsflashes/3878367961723138?f=rss",
+              "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+              "brief": "美股大型科技股盘前多数上涨，部分龙头股在开盘前表现分化。截至发稿，英特尔涨超2%，SpaceX、特斯拉涨超1%，英伟达涨0.37%，奈飞、苹果、亚马逊小幅上涨；Meta跌超1%，谷歌和微软下跌。",
+              "source_url": "https://36kr.com/newsflashes/3878492795203840?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-02 18:39:54  +0800"
+              "published_at": "2026-07-02 20:46:53  +0800"
             },
             {
-              "title": "秦淮数据投运行业首个算力中心SST商用项目",
-              "brief": "秦淮数据在环首都·桑园云计算产业基地正式投运算力中心SST智能直流供电商业化项目。该项目被称为行业首个同类商用项目，标志着算力中心供配电体系从工频到高频、从交流到直流的范式变化。",
-              "source_url": "https://36kr.com/newsflashes/3878361903362048?f=rss",
+              "title": "现货黄金日内涨幅扩大至2%",
+              "brief": "现货黄金日内涨幅扩大至2%，贵金属价格继续上行。报道给出的报价显示，现货黄金报4119.28美元/盎司；同时，现货白银日内涨幅扩大至4%，报61.5美元/盎司，金银价格均出现较明显涨幅。",
+              "source_url": "https://36kr.com/newsflashes/3878485101359107?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-02 18:33:44  +0800"
+              "published_at": "2026-07-02 20:39:04  +0800"
             },
             {
-              "title": "富祥股份获得托拉塞米原料药上市申请批准通知书",
-              "brief": "富祥股份公告，全资子公司祥太科学收到国家药品监督管理局核准签发的托拉塞米原料药上市申请批准通知书。托拉塞米为高效利尿剂，利尿作用迅速、强大且持久，不良反应发生率低；原文未披露商业化安排。",
-              "source_url": "https://36kr.com/newsflashes/3878357287678214?f=rss",
+              "title": "美国6月非农就业人数增加5.7万人",
+              "brief": "美国6月非农就业人数增加5.7万人，低于市场预估的11.3万人，也低于前值17.2万人。该数据反映美国就业增长放缓，是观察劳动力市场状况的重要指标，报道仅披露了本次新增人数、预估值和前值对比。",
+              "source_url": "https://36kr.com/newsflashes/3878478372614152?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-02 18:29:03  +0800"
+              "published_at": "2026-07-02 20:32:13  +0800"
             }
           ]
         },
