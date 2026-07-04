@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T01:00:55.499127+08:00",
+  "generated_at": "2026-07-05T02:50:57.357898+08:00",
   "sections": [
     {
       "category": "主要",
@@ -52,6 +52,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "影评：《超女》并非低票房所暗示的灾难",
+              "brief": "影评指出，《超女》的实际观感并不像低迷票房所暗示的那样糟糕。文章以影片上映后商业表现不佳、外界迅速将其视为失败为背景，强调票房数字不能完全代表作品质量，并围绕电影本身的表现作出评价。",
+              "source_url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-05T00:49:14+08:00"
+            },
+            {
               "title": "走进借助 Z 世代反大型科技公司情绪的卢德派节日",
               "brief": "纽约东村“Summer of Ludd”举办一周线下活动，借卢德派历史表达对大型科技平台的反感。活动吸引 Z 世代、家庭和社区人士，背景是年轻人对社交媒体、AI 和数据监控的不满上升；现场包括无手机戏剧、手工小志、短波电台工作坊和反数据中心讨论。",
               "source_url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
@@ -70,6 +77,20 @@
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "智能手表和 AI 如何发现疾病早期迹象",
+              "brief": "智能手表和其他可穿戴设备正尝试借助 AI 发现疾病早期迹象，监测范围已从计步、心率扩展到睡眠、体温、呼吸率、血氧和心率变异性。文章指出，厂商常把获得 FDA 许可的新功能宣传得更强，但这些设备更适合提示身体日常模式的异常，而非诊断疾病；如 Apple Watch 的房颤提醒在一项研究中有 84% 被确认。",
+              "source_url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-05T02:30:00+08:00"
+            },
+            {
+              "title": "特斯拉将 Robotaxi 服务扩展至迈阿密小范围区域",
+              "brief": "特斯拉已把 Robotaxi 服务扩展到迈阿密西部的一小片区域，为当地部分居民提供自动驾驶叫车选择。该公司延续此前在达拉斯、休斯敦的做法，先避开繁忙市中心；X 上已有乘客乘坐无车内安全员车辆的视频。其路线图还包括凤凰城、拉斯维加斯、奥兰多和坦帕等城市。",
+              "source_url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-05T01:30:00+08:00"
+            },
             {
               "title": "NASA 救援下坠 Swift 观测台任务已发射",
               "brief": "NASA 的 Swift Boost 任务于7月3日从马绍尔群岛发射，目标是挽救轨道衰减快于预期的 Neil Gehrels Swift 天文台。地面团队已与 Katalyst Space 的 LINK 机器人飞船建立通信；它完成数周健康检查后，将用三条机械臂对接并把望远镜拖升至约370英里轨道，过程预计10至12周，可延寿约十年。",
@@ -128,6 +149,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "火星岩石表面发现大量来源未知的碳",
+              "brief": "NASA毅力号在火星Neretva Vallis河道附近的岩石表面发现复杂大分子碳，这是迄今在火星上发现的最浅层有机物。以往漫游车发现的有机碳多在岩石内部，需要钻磨暴露；地球上类似大量大分子碳常与生物有关，但研究人员称火星样本也可能来自非生物过程，需带回地球精细分析才能判断。",
+              "source_url": "https://www.solidot.org/story?sid=84757",
+              "source_name": "Solidot",
+              "published_at": "2026-07-05T00:26:23+08:00"
+            },
+            {
               "title": "仙女座附近发现第36个卫星星系",
               "brief": "天文学家在距地球约250万光年的仙女座星系附近发现超暗矮星系仙女座XXXVI，成为第36个正式命名的仙女座卫星星系。仙女座周围卫星星系可检验星系形成模型；该星系年龄约125亿年，可能是当地已知最暗卫星之一。理论预测仙女座最多约有90个卫星星系，现仅发现约40个。",
               "source_url": "https://www.solidot.org/story?sid=84756",
@@ -166,6 +194,13 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "开源激活工具 MAS v3.12 发布，优化激活方式和错误提示",
+              "brief": "MAS 激活脚本 v3.12 于 2026 年 7 月 4 日发布，是该工具的 8 周年纪念版。新版将 Windows 10/11 默认激活方式由 StaticCID 改为 KMS4K，有效期到 4083 年，并支持完全离线激活；同时调整 HWID 安装 ID，加强漏洞防御，移除用户 DLL 替换功能，优化内部错误提示。",
+              "source_url": "https://www.landian.news/download/111697.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-05T01:10:42+08:00"
+            },
+            {
               "title": "GitHub 推出限量代码光盘刻录服务",
               "brief": "GitHub 推出限量 CD-ROM 代码刻录活动，可把开发者拥有且公开的仓库刻录成光盘并寄送本人。活动呼应索尼将停产 PS 新游戏实体光盘引发的讨论，仅提供 1000 份，申请需提交仓库地址和收货地址，配送范围因地区而异且不保证都能收到，开发者收到后可收藏或留作纪念。",
               "source_url": "https://www.landian.news/archives/113786.html",
@@ -192,13 +227,6 @@
               "source_url": "https://www.landian.news/archives/113759.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-03T11:30:51+08:00"
-            },
-            {
-              "title": "Rufus v4.15 发布，修复 Windows 静默安装失败问题",
-              "brief": "U 盘装机工具 Rufus 发布 v4.15 正式版，重点修复 Windows 10/11 静默安装多数情况下在 75% 失败的问题。该版本此前经过两个测试版验证，面向经常制作安装盘和使用静默安装的用户。更新还包括为 UEFI:NTFS 增加 RISC-V 64 位支持、改进写入取消和压缩镜像进度报告，并修复多项启动与选项问题。",
-              "source_url": "https://www.landian.news/download/113784.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-03T11:00:56+08:00"
             }
           ]
         },
