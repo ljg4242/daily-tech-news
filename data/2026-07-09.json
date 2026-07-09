@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T18:49:57.699497+08:00",
+  "generated_at": "2026-07-09T20:50:25.056400+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果停止为 iPhone 5c、iPad mini 等旧设备恢复系统",
+              "brief": "苹果已停止为一批旧款 iPhone 和 iPad 型号签署多个旧版 iOS 的基带固件，这意味着用户无法再通过 Finder 或 iTunes 恢复或降级这些设备到受影响的系统版本。此举不同于常规的版本签署停止，苹果并未停止签署 iOS 系统本身，而是针对与这些版本绑定的基带固件。受影响的设备包括 iPhone 4（CDMA）、iPhone 4S、iPhone 5、iPhone 5c、iPad 2（Wi-Fi + 3G）、第三代 iPad、第四代 iPad 和 iPad mini，均为蜂窝网络版本，而仅 Wi-Fi 版 iPad 不受影响。涉及的系统版本从 iOS 6 到 iOS 10。",
+              "source_url": "https://www.macrumors.com/2026/07/09/apple-pulls-ability-to-restore-iphone-5c-and-more/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T20:31:13+08:00"
+            },
+            {
+              "title": "DuckDuckGo 浏览器现可在 iPhone 和 Mac 上屏蔽 YouTube 广告",
+              "brief": "DuckDuckGo 免费浏览器现已默认屏蔽 YouTube 网站上的大部分视频广告，该功能面向 iPhone 和 Mac 用户，无需额外设置。广告拦截功能可阻止视频播放前和播放中的广告，同时保持观看历史、播放进度等功能正常。需要注意的是，在 iPhone 上点击 YouTube 链接可能会跳转到专用应用，此时拦截无效，用户需在 DuckDuckGo 浏览器内打开 YouTube 网站。该功能基于 uBlock Origin 的社区维护过滤列表和自有规则，视频加载可能稍慢，但播放时不会中断。此举正值谷歌持续打击广告拦截工具之际，而 Brave 和 Opera 等浏览器此前已提供类似功能。",
+              "source_url": "https://www.macrumors.com/2026/07/09/duckduckgo-browser-blocks-youtube-ads/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T20:14:39+08:00"
+            },
+            {
+              "title": "Meta '超级感知' 原型眼镜持续记录一切",
+              "brief": "Meta 已原型化一款“超级感知”智能眼镜，通过摄像头和音频记录佩戴者的每一刻，据《金融时报》报道。眼镜持续收集音频并每隔几秒拍照，用户可借助 AI 查询所看所听或回忆一天。Meta 不希望在该功能启用时点亮眼镜上的 LED 指示灯，以避免引起注意。原始音视频不会存储，而是提取元数据上传至服务器供 AI 查询，此举被认为隐私影响较小。Meta 还在讨论是否将收集的数据用于训练 AI 模型。该功能可能通过软件更新激活于现有眼镜上。隐私专家指出，始终在线的设备可能违反数据隐私或生物识别法律，且责任归属不明。",
+              "source_url": "https://www.macrumors.com/2026/07/09/meta-super-sensing-glasses-record-everything/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T19:20:28+08:00"
+            },
             {
               "title": "iPhone 18 Pro Max 被曝将比前代更厚更重",
               "brief": "爆料称 iPhone 18 Pro Max 厚度约 9 毫米，重约 240 克，比 iPhone 17 Pro Max 厚 0.25 毫米、重 7 克。重量增加主要源于电池容量提升至 5391mAh（中国版）或 5567mAh（美国版），较前代增加近 500mAh。此外，苹果可能采用新型不锈钢均热板，也增加了重量。若成真，该机将与 iPhone 14 Pro Max 并列史上最重 iPhone。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
               "source_name": "MacRumors",
               "published_at": "2026-07-09T07:51:25+08:00"
-            },
-            {
-              "title": "Meta新AI工具默认使用你的公开Instagram照片",
-              "brief": "Meta推出新功能，允许他人利用公开Instagram帖子和Reels生成AI内容，且默认开启。该功能基于新图像生成模型Muse Image，用户只需@提及Instagram账户即可生成图像。公开账户的内容可被用于AI创作，且不会收到通知。用户可在设置中关闭“允许他人使用你的内容在Meta上创建AI内容”选项。",
-              "source_url": "https://www.macrumors.com/2026/07/08/meta-ai-muse-image/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-09T04:52:31+08:00"
-            },
-            {
-              "title": "任天堂将关闭《马里奥赛车巡回赛》iOS游戏",
-              "brief": "任天堂宣布《马里奥赛车巡回赛》手游将于2026年9月29日停服，且不会推出离线版本。即日起停止游戏内购，自动续费已取消。Gold Pass订阅用户可免费使用至停服，非订阅用户从8月4日起享受福利。游戏于2019年9月上线，首周下载量超9000万次。任天堂此前已停运多款手游。",
-              "source_url": "https://www.macrumors.com/2026/07/08/mario-kart-tour-shutting-down/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-09T03:59:19+08:00"
-            },
-            {
-              "title": "OpenAI推出GPT-Live让ChatGPT语音更像真实对话",
-              "brief": "OpenAI发布GPT-Live，新一代语音模型，旨在让与AI对话更接近真人交流。GPT-Live能同时听和说，并发出“嗯”等回应表示在听。它每秒多次决定是否说话、倾听、暂停或打断。GPT-Live使用最新GPT-5.5模型，支持网络搜索、深度推理和复杂任务，还能进行实时翻译。即日起向ChatGPT用户推送，Go/Plus/Pro用户默认使用GPT-Live-1，免费用户使用mini版。",
-              "source_url": "https://www.macrumors.com/2026/07/08/openai-gpt-live-voice/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-09T03:03:52+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果供应商立讯精密港股上市创纪录后回落",
+              "brief": "苹果供应商立讯精密在香港二次上市，发行价定于区间上限每股63.28港元，募集约243亿港元，成为今年香港最大IPO。但上市首日股价一度较发行价下跌9.6%，随后跌幅收窄。立讯精密自2010年在A股上市，此次港股上市旨在吸引海外投资者。该公司从电缆制造商起步，逐步成为AirPods、iPhone乃至Vision Pro的组装商。投资者担忧其过度依赖苹果，后者贡献了立讯超过三分之二的营收，且苹果正将部分组装业务迁往印度和越南。不过，新融资将帮助立讯在海外扩充产能，并有望提升对其他客户的业务量。",
+              "source_url": "https://9to5mac.com/2026/07/09/apple-supplier-luxshare-share-listing-sets-new-record-then-fell-back/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T20:35:21+08:00"
+            },
+            {
+              "title": "提示：立即关闭这两个Instagram开关，防止他人使用你的面部",
+              "brief": "Meta推出Muse Image功能后，公开Instagram个人资料默认允许他人将你的照片和帖子作为生成式AI的提示词。用户只需在提示中@你的公开账号，即可用Meta AI生成包含你肖像的图像。这一设置默认开启，需要手动关闭。在Instagram应用中，点击右下角头像，再点击右上角汉堡菜单，滚动至“分享和复用”部分，找到“允许他人使用你的内容进行创作和复用”下的帖子和快拍两个开关，将其关闭即可。",
+              "source_url": "https://9to5mac.com/2026/07/09/psa-flip-these-two-instagram-toggles-now-to-stop-people-using-your-face/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T19:27:26+08:00"
+            },
+            {
+              "title": "内存价格上涨对安卓品牌不利，但可能反而帮助苹果",
+              "brief": "内存成本持续上升，导致中低端智能手机利润承压。市场研究公司Omdia指出，售价低于400美元的安卓手机市场已出现萎缩，同比下降超过22%，且情况将进一步恶化。随着内存价格在未来几个季度继续上涨，低端产品可能变得无利可图，厂商正逐步退出这一市场。对苹果而言，这可能是一个利好：安卓手机价格上涨将缩小与iPhone的价格差距，使入门级iPhone对原本认为苹果太贵的用户更具吸引力。",
+              "source_url": "https://9to5mac.com/2026/07/09/memory-prices-are-bad-news-for-android-brands-but-may-actually-help-apple/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T19:05:09+08:00"
+            },
             {
               "title": "iOS 27 为 Apple 翻译新增九种语言和口音",
               "brief": "iOS 27 将为 Apple 翻译应用新增九种语言和口音，使其支持的语言总数从当前的 21 种增加到 30 种。新增语言包括希伯来语、粤语繁体、丹麦语、荷兰语、马来语、挪威博克马尔语、波兰语、葡萄牙语（葡萄牙）和瑞典语。这是苹果持续扩展生态系统语言支持的一部分，此前已在 App Store Connect 中为本地化元数据添加了 11 种新语言，并在 iOS 27 键盘中为多语言用户提供了多项改进。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/08/halide-3-1-to-add-perspective-correction-raw-only-capture-and-a-new-scarlet-look/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-09T04:42:01+08:00"
-            },
-            {
-              "title": "2026 年艾美奖：Apple TV+ 获得创纪录的 89 项提名",
-              "brief": "Apple TV+ 在 2026 年艾美奖中获得创纪录的 89 项提名，超过去年的 81 项。其中《Pluribus》获剧情类最佳剧集提名，主演 Rhea Seehorn 和 Karolina Wydra 分获最佳女主角和女配角提名；《Slow Horses》获剧情类最佳剧集提名，Gary Oldman 获最佳男主角提名；《Shrinking》获喜剧类最佳剧集提名。Michael J. Fox 因客串《Shrinking》获提名，《Widow's Bay》在所有新剧中获得提名最多。",
-              "source_url": "https://9to5mac.com/2026/07/08/emmy-awards-2026-apple-tv-just-landed-a-record-87-nominations-full-list/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-09T04:12:30+08:00"
-            },
-            {
-              "title": "苹果何时发布新款 AirPods？",
-              "brief": "苹果正在开发内置摄像头的 AirPods，左右耳机各有一个摄像头，用于为 Siri 提供环境上下文，例如识别食物成分并提供菜谱或营养信息。该产品原计划 2026 年发布，但因 Apple Intelligence 和 Siri 延迟，可能推迟至 2027 年底。此外，分析师郭明錤曾报告苹果计划在 2027 年推出更轻的 AirPods Max，而 AirPods Pro 3 已于去年秋季发布，目前尚无关于 AirPods 4 更新的传闻。",
-              "source_url": "https://9to5mac.com/2026/07/08/when-is-apple-releasing-new-airpods/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-09T03:53:01+08:00"
-            },
-            {
-              "title": "苹果停止为多款旧 iPhone 和 iPad 签署旧版 iOS",
-              "brief": "苹果已停止为多款旧设备签署旧版 iOS，包括 iPhone 5、iPhone 5c、iPad mini Wi-Fi + Cellular 和 iPad 2 Wi-Fi + 3G（CDMA）。具体停签版本包括 iOS 8.4.1、9.3.5、9.3.6、10.3.3 和 10.3.4 的 OTA 或 IPSW 安装。这意味着这些设备将无法再恢复或降级到这些旧版本。此举影响范围较小，但关闭了测试、应用兼容性或收藏等用途的恢复路径。",
-              "source_url": "https://9to5mac.com/2026/07/08/apple-stops-signing-ios-versions-for-several-older-iphones-and-ipads/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-09T03:35:47+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "载荷曾决定发射条件，这一局面终于改变",
+              "brief": "长期以来，卫星载荷的需求主导了火箭发射的规格和条件，但这一趋势正在逆转。如今，随着火箭开发商推出更灵活、更强大的运载工具，发射服务商开始主动影响卫星设计，而非被动适应。这种转变源于可重复使用火箭和标准化接口的普及，使得发射成本下降、频率提高，从而让火箭制造商在合作中占据更主动的地位，最终可能催生更高效的航天产业生态。",
+              "source_url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T19:00:26+08:00"
+            },
+            {
               "title": "常春藤教授怀疑学生用AI作弊，安排线下期末考试，分数下降50%",
               "brief": "布朗大学一位教授因怀疑学生使用AI作弊，将线上期末考试改为线下闭卷考试，结果全班平均分骤降50%。该教授此前发现学生作业中大量使用AI生成内容，且线上监考难以杜绝作弊。此举引发关于AI时代学术诚信评估方式的广泛讨论。",
               "source_url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-09T03:01:19+08:00"
-            },
-            {
-              "title": "澳大利亚政府要求志愿者丢弃数千台功能完好的测试路由器",
-              "brief": "澳大利亚政府结束一项宽带测试项目后，要求志愿者销毁数千台仍可正常使用的路由器。这些路由器由国家宽带网络（NBN）提供，用于测试网络性能。项目结束后，政府以安全为由要求彻底报废设备，引发资源浪费争议。",
-              "source_url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-09T02:10:16+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "三星承认Good Lock模块导致实用功能消失",
-              "brief": "三星承认其Good Lock模块RegiStar导致Galaxy Buds快捷方式从设置顶部消失。该模块本用于优化设置界面，但最新版本破坏了连接耳机后自动出现的快捷入口。三星已确认此问题，并承诺在One UI 9中修复。用户可在RegiStar设置中看到选项，但实际设置中不显示，甚至有时出现在页面底部。",
-              "source_url": "https://www.androidauthority.com/samsung-registar-good-lock-glitch-3685141/",
+              "title": "许多谷歌Home Speaker用户在设置时卡住，原因尚不明",
+              "brief": "许多购买新款谷歌Home Speaker的用户在首次设置时遇到错误，提示“扬声器未完全设置，请恢复出厂设置并重新设置”，导致反复重启设置失败。该问题影响美国、加拿大、克罗地亚、丹麦、法国、日本和英国等多地用户，似乎波及全球。谷歌官方已在Reddit上承认问题，并表示工程团队正在调查，但尚未提供进一步更新。据推测，这可能是一个软件问题。",
+              "source_url": "https://www.androidauthority.com/google-home-speaker-setup-fail-issue-3685769/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-09T18:31:46+08:00"
+              "published_at": "2026-07-09T20:38:27+08:00"
             },
             {
-              "title": "三星Galaxy Z Flip 8需改进六点才能击败摩托罗拉",
-              "brief": "作者认为摩托罗拉Razr系列在翻盖手机领域优于三星Galaxy Z Flip系列。三星拥有工具但未能形成自身特色。为在Z Flip 8上扭转局面，三星需改进：外屏体验（默认支持更多应用，而非依赖Good Lock）、充电速度、价格、软件支持、设计风格等。Galaxy Z Flip 7的外屏对普通用户不够友好。",
-              "source_url": "https://www.androidauthority.com/6-things-samsung-needs-galaxy-z-flip-8-beat-motorola-3685378/",
+              "title": "首批骁龙8 Elite Gen 6旗舰手机之一可能是规格怪兽",
+              "brief": "据爆料，小米18 Pro将搭载2nm旗舰SoC（很可能是骁龙8 Elite Gen 6或Gen 6 Pro），配备约7000mAh大电池、100W有线和无线充电。相机方面，可能采用200MP超大底主摄和200MP大底长焦微距镜头。由于行业RAM危机，预计价格将明显上涨，但这些规格提升可能有助于缓解价格冲击。高通预计于2026年9月24日在夏威夷骁龙峰会上发布该系列芯片。",
+              "source_url": "https://www.androidauthority.com/xiaomi-18-pro-leaked-specs-3685790/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-09T18:30:30+08:00"
+              "published_at": "2026-07-09T20:22:03+08:00"
             },
             {
-              "title": "Meta测试“超级感知”AI眼镜，隐私问题引担忧",
-              "brief": "据金融时报报道，Meta正在测试具备“超级感知”功能的AI眼镜原型，可每隔几秒拍摄照片并记录环境音频，帮助AI回忆用户一天的活动或回答上下文相关问题。Meta正考虑在该模式下关闭录制LED指示灯，使旁人更难察觉被录制。该功能可能通过软件更新添加到现有Meta眼镜中，已引发内部关于隐私的辩论。",
-              "source_url": "https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/",
+              "title": "RAM危机？Retroid免费提供内存升级（限时）",
+              "brief": "Retroid宣布其8GB/128GB版Pocket 5和Pocket Flip 2掌机已售罄，公司将自动为未发货订单免费升级至12GB/128GB版本。新订单也可享受同价升级。从7月15日起，12GB/128GB将成为标准配置，价格上调10美元。此举发生在RAM危机导致其他品牌涨价或降配的背景下，对买家而言是难得的好消息。",
+              "source_url": "https://www.androidauthority.com/retroid-pocket-5-pocket-flip-2-more-ram-3685766/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-09T18:09:20+08:00"
+              "published_at": "2026-07-09T19:49:53+08:00"
             },
             {
-              "title": "下一代CPU或将成为最大AI升级：在CPU上加速AI工作负载",
-              "brief": "AI面临内存成本高、计算成本上升和隐私问题。本地运行AI模型成为解决方案，但需要昂贵RAM和加速器，且手机NPU存在碎片化问题。在CPU上加速基础AI工作负载成为折中方案，可兼容几乎所有设备，无需专有驱动和API。ARM的SME2、AMD和Intel的AI加速指令集正在推动这一趋势，使CPU能更高效处理AI任务。",
-              "source_url": "https://www.androidauthority.com/arm-sme2-amd-intel-ace-3683324/",
+              "title": "谷歌Chrome更新为Android带来iOS专属的后退按钮",
+              "brief": "Chrome for Android版本150开始推送，新增了专用的后退按钮，位于三点菜单中，与前进按钮并列。此前该菜单仅显示前进按钮。同时，谷歌移除了站点信息按钮，新增“站点控制”选项，并将“添加到主屏幕”重命名为“安装并创建快捷方式”。该更新正在逐步推送，可能尚未覆盖所有用户，属于谷歌常见的分阶段服务器端部署。",
+              "source_url": "https://www.androidauthority.com/chrome-android-dedicated-back-button-3685780/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-09T18:00:42+08:00"
+              "published_at": "2026-07-09T19:36:00+08:00"
             },
             {
-              "title": "DuRoBo推出Moodi蓝牙翻页器，兼容手机和平板",
-              "brief": "DuRoBo为Krono电子书阅读器推出配件Moodi翻页器，形状如鹅卵石，重18克，售价30.99美元。它支持三种模式：阅读模式翻页、多媒体模式控制播放、浏览模式滚动网页。配备90mAh电池，续航数周，支持蓝牙5.4，可连接手机和平板，兼容Google Play Books和Kindle等应用。",
-              "source_url": "https://www.androidauthority.com/durobo-moodi-page-turner-3685697/",
+              "title": "投票显示Pixel充电缓慢问题普遍严重",
+              "brief": "一项针对Pixel用户的投票显示，超过60%的受访者仍遇到充电问题，且充电速度“比以往更慢”，即使谷歌在5月发布了修复更新。许多用户反映手机不再显示“快速充电”提示，甚至充电器失效。问题可能因近期欧美异常高温而加剧，但谷歌尚未给出明确解释。评论中大量用户抱怨Pixel 9 Pro和Pixel 9A等机型充电异常。",
+              "source_url": "https://www.androidauthority.com/pixel-slow-charging-poll-results-3685673/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-09T17:47:30+08:00"
+              "published_at": "2026-07-09T18:52:52+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Slate EV 推出 Crayola 彩色贴膜选项",
+              "brief": "Slate 与 Crayola 合作，为其基础款电动车提供五种 Crayola 颜色的车身贴膜，包括 Cerulean（蓝）、Dandelion（黄）、Fern（绿）、Razzmatazz（粉）和 Jersey Tomato（红）。用户需支付 300 美元定金预订车辆，然后通过 Slate Marketplace 以 1550 美元选购贴膜套装，套装还包含钥匙扣盖、仪表盘装饰件和贴纸。",
+              "source_url": "https://www.engadget.com/2207579/slate-ev-crayola-color-wraps/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T20:00:00+08:00"
+            },
+            {
+              "title": "SpaceXAI 发布 Grok 4.5，首款借助 Cursor 训练的模型",
+              "brief": "SpaceXAI 推出 Grok 4.5，这是其更名后的首个模型，也是与 Cursor 合作训练的首款模型。该模型专为编程、代理任务和知识工作优化，在数万块 NVIDIA GB300 GPU 上训练，性能超越其他领先模型。Grok 4.5 定价为每百万输入 token 2 美元、每百万输出 token 6 美元，现已作为 Grok Build 的默认模型，并可通过 SpaceXAI 控制台和 Cursor 所有方案使用。",
+              "source_url": "https://www.engadget.com/2211260/spacex-ai-grok-4-5-cursor/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T19:48:22+08:00"
+            },
             {
               "title": "BBC与Channel 4再次讨论合并流媒体服务",
               "brief": "BBC与Channel 4重启合并流媒体服务的谈判，旨在打造英国本土的Netflix替代品。据《金融时报》报道，BBC新任负责人Matt Brittin向政府表示已与Channel 4进行讨论，可能将Channel 4内容引入BBC iPlayer。此前类似尝试在2007年和2017年均以失败告终，但面对Netflix、TikTok等美国平台的竞争压力，英国媒体需联合应对。谈判仍处早期阶段，需解决商业、观众、公共服务及技术等多重问题。",
@@ -228,26 +242,19 @@
               "source_url": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
               "source_name": "Engadget",
               "published_at": "2026-07-09T07:22:18+08:00"
-            },
-            {
-              "title": "马斯克称X将私信通知用户关于收到社区备注的帖子",
-              "brief": "X平台将更新社区备注功能，根据马斯克的说法，任何与收到社区备注的帖子互动的用户都会收到一条直接消息通知。目前，用户对帖子点赞、转发或回复后，若帖子被添加社区备注，只会收到应用内通知。新功能旨在让用户更难忽略纠正信息。社区备注是X自2022年起采用的主要防误导手段，但2026年一项研究发现，备注虽能减少帖子传播，但往往在早期传播阶段介入过晚。",
-              "source_url": "https://www.engadget.com/2211065/elon-musk-says-x-will-dm-you-about-posts-that-receive-a-community-note/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-09T05:50:36+08:00"
-            },
-            {
-              "title": "法官批准SEC与马斯克就推特投资案达成150万美元和解",
-              "brief": "美国SEC曾起诉马斯克在收购推特时延迟披露持股，使其节省约1.5亿美元。今年早些时候双方达成和解，马斯克支付150万美元民事罚款但不承认过错。联邦法官斯帕克尔·苏克南南批准了该和解，但批评此案处理方式，称法院只能评估和解是否达到最低公平标准，而是否充分追责应由公民在投票箱决定。",
-              "source_url": "https://www.engadget.com/2211052/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-09T05:34:59+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "SpaceX正以创纪录速度部署星链卫星",
+              "brief": "根据卫星追踪数据，SpaceX在2026年上半年发射了1589颗星链卫星，比2025年同期的1489颗多出100颗，而2025年已是创纪录的一年，全年部署3180颗。自星链计划启动以来，SpaceX已累计发射超过12400颗卫星，其中近11000颗仍在运行。相比之下，亚马逊的Lleo服务在过去15个月仅部署了约400颗卫星，其计划总数为3232颗。",
+              "source_url": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
+              "source_name": "The Verge",
+              "published_at": "2026-07-09T07:51:31-04:00"
+            },
             {
               "title": "Meta 据报正在开发可全天候记录的智能眼镜",
               "brief": "Meta 正在开发一款名为“超级感知”的智能眼镜原型，可连续录制音频并每隔几秒拍摄照片，用户随后可通过 Meta AI 查询这些内容。据《金融时报》报道，该设备可能不会直接存储原始音视频，而是提取元数据上传至服务器供 AI 查询，支持者认为这样隐私风险更低。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
               "source_name": "The Verge",
               "published_at": "2026-07-08T13:57:53-04:00"
-            },
-            {
-              "title": "蟑螂将学会害怕我的 SwitchBot Bot 充电版",
-              "brief": "作者家中厨房出现蟑螂，因此需要一种在进入房间前就能打开灯的方法。SwitchBot Bot 充电版售价 33.99 美元，通过粘胶固定在开关附近，用机械臂物理按压或拉动开关，可远程控制或自动化任何带物理按钮的设备，如咖啡机、灯等。",
-              "source_url": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
-              "source_name": "The Verge",
-              "published_at": "2026-07-08T13:30:00-04:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "欧几里得望远镜发现已知最遥远的类星体",
+              "brief": "欧几里得太空望远镜在首批巡天资料中发现34个红移大于6.5的星体，其中27个位于红移7以上，并确认EUCL J172902.75+641018.1的红移高达7.77，成为目前已知距离最遥远的类星体。类星体是星系中心超大质量黑洞吸积气体产生的极高亮度天体，可作为探测早期宇宙的灯塔。",
+              "source_url": "https://www.solidot.org/story?sid=84791",
+              "source_name": "Solidot",
+              "published_at": "2026-07-09T18:11:30+08:00"
+            },
             {
               "title": "2026年第二季度PC出货量下滑5%",
               "brief": "由于内存危机，2026年第二季度全球PC出货量为6820万台，同比下滑5%。IDC警告，若情况持续，小型供应商可能倒闭。联想等大型供应商因能提前与内存制造商协商供货而受影响较小，其PC和智能设备业务收入增长26%。行业巨头利用规模优势确保内存供应，可能从中小竞争对手手中夺取市场份额，导致厂商整合风险增加，实力较弱的企业可能被迫合并或退出市场。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=84787",
               "source_name": "Solidot",
               "published_at": "2026-07-08T23:57:57+08:00"
-            },
-            {
-              "title": "德国华人性侵案成员被判5年监禁",
-              "brief": "柏林地方法院裁定一名32岁原籍中国的男子协助实施三起严重强奸及性胁迫罪，判处五年监禁。该男子是交流麻醉女性强奸信息的聊天群组成员，曾多次就如何麻醉女性提供医学建议。2024年1月7日，一名女性在法兰克福遭群组另一成员强奸，被告在前一天明知对方意图仍提供麻醉建议并被采纳。此外，法庭认定被告在2020至2021年间三次性虐待未婚妻，均发生在北京酒店客房内，受害女性处于被麻醉状态。主审法官指出，这些罪行体现极端厌女倾向，女性被贬低为满足性欲的客体。",
-              "source_url": "https://www.solidot.org/story?sid=84786",
-              "source_name": "Solidot",
-              "published_at": "2026-07-08T23:30:26+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "AYANEO 官宣 KONKR Pocket ADVANCE 系列：致敬经典横版掌机",
-              "brief": "AYANEO 正式发布 KONKR Pocket ADVANCE 系列产品，该系列致敬经典横版掌机设计，旨在满足怀旧游戏玩家需求。作为 AYANEO 子品牌 KONKR 的首批产品，其定位为复古掌机与小尺寸 Windows 掌机，具体规格和上市时间尚未公布。",
-              "source_url": "https://www.ithome.com/0/974/615.htm",
+              "title": "奇瑞风云A9轿车开启预售，11.59万元起",
+              "brief": "奇瑞风云A9轿车开启预售，提供七种车色和两种内饰，车身尺寸4836×1896×1489mm，轴距2900mm。新车搭载AI灵犀智舱2.0，配备3nm座舱芯片，支持AI伯牙之音23扬声器系统和猎鹰辅助驾驶，硬件包括1颗激光雷达、3颗毫米波雷达等。标配8安全气囊和70kWh犀牛电池，续航700公里以上。",
+              "source_url": "https://www.ithome.com/0/974/737.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T16:45:14+08:00"
+              "published_at": "2026-07-09T20:37:47+08:00"
             },
             {
-              "title": "中国邮政 EMS：高考录取通知书邮件今起可查，保持电话通畅",
-              "brief": "中国邮政 EMS 宣布，2026 年高考录取通知书邮件今日起可查询寄递信息。考生可通过 EMS 官网或微信公众号，输入邮件号、准考证号或考生号查询。通知书邮件执行严格身份核验制度，签收时需出示考生本人有效身份证件和准考证，代收人还需额外提供代收人身份证件。EMS 作为全国唯一指定寄递渠道，全环节开辟绿色通道，优先处理、单独封袋，并使用专用大红封套，雨季加装透明防水袋。派送前快递员会提前联系，请考生保持电话通畅并备好材料。",
-              "source_url": "https://www.ithome.com/0/974/606.htm",
+              "title": "新款凯迪拉克CT5在IIHS四项安全测试中获差评",
+              "brief": "美国公路安全保险协会（IIHS）最新测试中，2026款凯迪拉克CT5在中度重叠正面碰撞、侧面碰撞、前照灯和前方碰撞预防四项测试中获“差”评级。IIHS指出后排乘员保护不足、侧气囊效果不佳。通用汽车回应称CT5已获NHTSA五星评级，并将采纳IIHS意见。本轮9款测试车中仅4款获最高安全评级。",
+              "source_url": "https://www.ithome.com/0/974/736.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T16:43:18+08:00"
+              "published_at": "2026-07-09T20:32:07+08:00"
             },
             {
-              "title": "《EA SPORTS College Football 27》发售：Steam 国区 348 元起，IGN 7 分",
-              "brief": "EA 年度橄榄球游戏《EA SPORTS College Football 27》正式发售，Steam 国区售价 348 元起。IGN 给出 7 分评价，认为游戏“平平无奇”，主要进行例行细节优化。本作新增独立技能训练系统、动态天气和节奏接球机制，但菜单操作和数值管理增多，被指像“电子表格模拟器”。比赛演出保持顶尖水准，防守操作快捷键有所调整。游戏核心是让玩家体验大学橄榄球文化，包括招募球员、NIL 运作和设施投资等。",
-              "source_url": "https://www.ithome.com/0/974/590.htm",
+              "title": "绿联推出200W自带线带屏移动电源，售价359元",
+              "brief": "绿联发布200W自带线带屏移动电源，容量25000mAh，配备3个USB-C接口和1个USB-A接口，其中两个USB-C口为自带线缆（65厘米和30厘米），所有USB-C口支持小米MiPPS 90W快充，双口充电峰值功率200W。产品还带有屏幕显示电量等信息。",
+              "source_url": "https://www.ithome.com/0/974/735.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T16:35:48+08:00"
+              "published_at": "2026-07-09T20:25:35+08:00"
             },
             {
-              "title": "努比亚全球首款智能体手机曝光：橙色 AI 按键 + 蓝色机身",
-              "brief": "努比亚全球首款智能体手机外观曝光，采用橙色 AI 按键和蓝色机身设计。博主透露该机 AI 玩法有趣，建议主流厂商学习。此前中兴通讯董事长方榕表示，新一代 AI 手机即将上市，将智能能力从云端推向端侧，提供“听得懂、能干活”的交互体验。中兴称将 AI 智能体深度融入操作系统，融合自研 Co Claw 智能调度技术，实现跨应用协同。国家发改委预计今年 AI 手机销量将首次超过非 AI 产品。",
-              "source_url": "https://www.ithome.com/0/974/583.htm",
+              "title": "商务部：将打通线上线下零售渠道、商品、服务和数据",
+              "brief": "商务部流通发展司司长李佳路表示，将推动线上线下零售融合，鼓励平台对中小零售经营主体技术赋能，实现全链条数字化，打通线上线下渠道、商品、服务和数据。同时促进算法推荐和流量分配公平透明，鼓励同品同款商品线上线下同标同质，并加强价格治理和监管统一。",
+              "source_url": "https://www.ithome.com/0/974/733.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T16:32:01+08:00"
+              "published_at": "2026-07-09T20:16:30+08:00"
             },
             {
-              "title": "李想官宣理想 i9 汽车：系列首台家庭纯电旗舰 SUV，9 月见",
-              "brief": "理想汽车 CEO 李想正式官宣理想 i9，定位为系列首台家庭纯电旗舰 SUV，计划 9 月发布。i9 车长 5225mm，轴距 3168mm，提供 MEGA 级别的大空间与舒适性，被李想称为“第二个 Home”。理想汽车 6 月交付 30,895 台，同比下降 14.84%。此前理想 i6 累计产量突破 15 万台。新一代理想 L6 将于 7 月 16 日发布，升级 51 度电池。",
-              "source_url": "https://www.ithome.com/0/974/572.htm",
+              "title": "迪拜警方基于比亚迪腾势B8推出第二代Ghiath智能巡逻车",
+              "brief": "迪拜警方发布第二代Ghiath智能巡逻车，基于比亚迪腾势B8插电混动SUV打造。该车搭载DMO双模越野系统，2.0T发动机加双电机，综合功率603马力，零百加速4.8秒，续航约1040公里。迪拜警方与比亚迪及Al-Futtaim签署备忘录，旨在融合AI安全系统与混动技术，打造新一代执法平台。",
+              "source_url": "https://www.ithome.com/0/974/732.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T16:21:48+08:00"
+              "published_at": "2026-07-09T20:09:59+08:00"
             }
           ]
         },
@@ -374,45 +374,52 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "鸿富瀚：预计2026年半年度净利润同比增长221.13%-265.13%",
-              "brief": "鸿富瀚发布业绩预告，预计2026年上半年净利润同比增长221.13%至265.13%。公司表示，业绩大幅增长主要得益于产品销量增加及成本控制优化，同时海外市场拓展取得成效。",
-              "source_url": "https://36kr.com/newsflashes/3888285781031425?f=rss",
+              "title": "美光科技计划2035年前将对美投资总额提升至超2500亿美元",
+              "brief": "美光科技宣布，计划在2035年前将对美国本土的投资总额提升至超过2500亿美元。此举旨在扩大美国半导体产能，以应对全球芯片需求增长，并强化供应链安全。该公司此前已宣布多项美国建厂计划，此次大幅上调投资目标，反映了其长期深耕本土的战略决心。",
+              "source_url": "https://36kr.com/newsflashes/3888404789443331?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 18:48:50  +0800"
+              "published_at": "2026-07-09 20:49:53  +0800"
             },
             {
-              "title": "极氪9X获50万以上车型销量与NPS双第一",
-              "brief": "极氪9X在50万以上车型中取得销量和净推荐值（NPS）双第一。该车型凭借高端配置和用户口碑获得市场认可，反映出极氪品牌在高端电动车领域的竞争力提升。",
-              "source_url": "https://36kr.com/newsflashes/3888283343190793?f=rss",
+              "title": "立讯精密H股于7月9日在香港联交所主板挂牌上市",
+              "brief": "立讯精密公告，其H股股票于2026年7月9日在香港联交所主板挂牌上市。本次全球发售H股总数约3.83亿股，发售价每股63.28港元，所得款项净额约240.39亿港元。此次上市有助于立讯精密拓宽融资渠道，加速国际化布局。",
+              "source_url": "https://36kr.com/newsflashes/3888404506868488?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 18:46:21  +0800"
+              "published_at": "2026-07-09 20:49:36  +0800"
             },
             {
-              "title": "全志科技：预计上半年净利润同比增长195%-220%",
-              "brief": "全志科技发布业绩预告，预计2026年上半年净利润同比增长194.73%至219.55%。公司表示，为应对存储等上游原材料及封装成本上涨，上调了产品售价；同时积极拓展各产品线业务并推动新产品量产，带动营业收入同比增长约40%，进而拉动净利润增长。",
-              "source_url": "https://36kr.com/newsflashes/3888278193797889?f=rss",
+              "title": "ST银江及控股股东因涉嫌信息披露违法违规被证监会立案",
+              "brief": "ST银江公告，公司及控股股东银江科技集团于2026年7月9日收到中国证监会《立案告知书》，因涉嫌信息披露违法违规被立案。公司表示目前生产经营活动正常，该事项不会对生产经营产生重大影响。立案调查的具体原因和进展有待后续披露。",
+              "source_url": "https://36kr.com/newsflashes/3888389281790465?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 18:41:07  +0800"
+              "published_at": "2026-07-09 20:34:07  +0800"
             },
             {
-              "title": "星巴克利用AI开发内部工具，以减少对微软和IBM的依赖",
-              "brief": "星巴克正利用人工智能开发内部工具，以取代微软的库存追踪系统和IBM的维护管理工具。若测试顺利，部分自主开发的软件有望在明年年底前投入使用，此举旨在减少对外部供应商的依赖。",
-              "source_url": "https://36kr.com/newsflashes/3888276968930052?f=rss",
+              "title": "法国对英伟达反垄断调查接近尾声，最高或面临全球年营收10%罚款",
+              "brief": "法国竞争管理局官员确认，针对英伟达的反垄断调查已临近收尾，监管机构可能很快出具正式异议声明，指控其存在多项限制市场竞争行为。调查始于2023年，核心围绕英伟达在GPU和AI云计算领域的主导地位。若最终裁定违规，英伟达最高可能面临全球年度营收10%的罚款。",
+              "source_url": "https://36kr.com/newsflashes/3888377221364232?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 18:39:52  +0800"
+              "published_at": "2026-07-09 20:21:51  +0800"
             },
             {
-              "title": "立昂微：股东拟合计减持不超1%股份",
-              "brief": "立昂微公告，股东计划在未来3个月内通过集中竞价方式合计减持不超过770万股，占公司总股本比例不超过1%，减持原因为资金需求。",
-              "source_url": "https://36kr.com/newsflashes/3888269324417797?f=rss",
+              "title": "五粮液2025年度拟每10股派25.8元",
+              "brief": "五粮液发布2025年度利润分配预案，拟每10股派发现金红利25.8元，除权除息日为2026年7月16日。该方案尚需股东大会审议，体现了公司持续回报股东的意愿。具体分红金额将根据总股本确定。",
+              "source_url": "https://36kr.com/newsflashes/3888372021754374?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 18:32:05  +0800"
+              "published_at": "2026-07-09 20:16:33  +0800"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《心之全蚀》演唱者邦妮·泰勒去世，享年75岁",
+              "brief": "邦妮·泰勒的官方脸书页面宣布，她因正在治疗的疾病于昨晚在葡萄牙一家医院意外去世。泰勒曾于5月因紧急肠道手术被送往其居住地葡萄牙法鲁的一家医院，并接受了诱导昏迷。上个月她苏醒，但仍在重症监护中，当时有报道称病情好转，甚至考虑下半年巡演。这位威尔士出生的歌手以1983年摇滚歌剧《心之全蚀》闻名，该曲今年在Spotify上播放量达10亿次。由于歌曲由吉姆·斯坦曼独立创作，出版版税归其遗产所有；索尼音乐拥有母带录音权，并根据泰勒80年代签署的合约分成。泰勒曾表示从未厌倦演唱此曲。她的《等待英雄》曾用于电影《浑身是劲》和游戏《黑道圣徒3》《漫威银河护卫队》中。",
+              "source_url": "https://www.ign.com/articles/total-eclipse-of-the-heart-singer-bonnie-tyler-has-died-aged-of-75",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T18:07:37+08:00"
+            },
             {
               "title": "索尼与被解雇的《马拉松》游戏总监达成和解，将其名字加入游戏制作人员名单",
               "brief": "索尼与Bungie前游戏总监Christopher Barrett达成和解，Barrett此前因被指控不当行为而被解雇，随后起诉索尼和Bungie索赔超2亿美元。Barrett否认指控，声称解雇是为了避免支付其雇佣协议中欠付的近5000万美元。他在社交媒体上宣布和解，并表示满意结果。联合声明确认其名字已加入《马拉松》制作人员名单，以反映其作为原游戏总监的贡献。Barrett在Bungie工作近25年，曾参与《命运》和《光环》开发。",
@@ -440,19 +447,19 @@
               "source_url": "https://www.ign.com/articles/dune-part-threes-new-trailer-highlights-the-rift-between-paul-atreides-and-chani",
               "source_name": "IGN",
               "published_at": "2026-07-09T02:50:48+08:00"
-            },
-            {
-              "title": "黑曜石据报取消《宣誓2》以专注于开发新《辐射》游戏",
-              "brief": "据彭博社报道，作为Xbox大规模重组的一部分，黑曜石娱乐取消了《宣誓2》及其他未公布项目的计划，转而由乔什·索耶领导开发一款新《辐射》游戏。索耶曾担任《辐射：新维加斯》的首席设计师和项目总监，该作深受粉丝喜爱。贝塞斯达将与黑曜石合作该项目。一小部分员工将继续为《宣誓2》工作，希望日后重启。此次重组还导致黑曜石裁员四分之一。新《辐射》游戏的消息令粉丝兴奋，因为该系列已有十多年未推出单人主线作品，而贝塞斯达正忙于《上古卷轴6》，新《辐射》可能还需近十年。",
-              "source_url": "https://www.ign.com/articles/obsidian-cancels-avowed-2-to-focus-on-new-fallout-game",
-              "source_name": "IGN",
-              "published_at": "2026-07-09T02:48:15+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "自言卡：在 Windows 桌面显示自定义文字的小工具",
+              "brief": "自言卡是一款 Windows 桌面文字卡片工具，用户可自定义显示自己写下的内容，每天随机显示一条。它支持自定义文字、颜色、字体和背景图片，可透明、置顶或置底，拖动调整位置大小，具备中英文界面和开机自启选项。程序为单 exe 文件，完全离线，无需注册，免费开源。开发者自荐于发现频道，青小蛙测试发现方便但存在背景显示 bug。",
+              "source_url": "https://www.appinn.com/myquotecard/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-09T18:30:44+08:00"
+            },
             {
               "title": "Terraink：将你去过的地方制成地图海报",
               "brief": "Terraink 是一个开源项目，允许用户基于 OpenStreetMap 数据创建个性化的地图海报。用户可以通过搜索地名、调整范围、配色和尺寸，并上传 GPX 轨迹文件来生成地图。该工具支持高分辨率 PNG 导出，适合打印悬挂。项目托管在 GitHub，也有可直接使用的部署版本。",
@@ -527,39 +534,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "AI暴富打破韩国社会成功等级制度",
-              "brief": "随着AI热潮推动存储芯片需求激增，三星和SK海力士业绩创历史新高，员工获得巨额奖金。韩国社会传统上以医生、律师等为最高成功标准，但芯片从业者收入暴增引发相对剥夺感。公务员和教授自嘲努力不如选对行业，婚介所将三星员工与律师并列，大学半导体专业录取线接近医科。这种变化正在重塑韩国人对公平和成功的看法。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568436.htm",
+              "title": "安卓TOP5大厂集体放弃小折叠，三星Galaxy Z Flip8成收官之作",
+              "brief": "小折叠屏手机正经历市场大撤退，2025年销量同比下滑30%，而大折叠屏增长50%。由于物理形态限制，小折叠在电池、散热、影像等方面妥协，且软件体验与直板手机雷同，被调侃为“美丽的小废物”。厂商战略重心转向大折叠和新兴“阔折叠”，小折叠被边缘化。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568448.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-09T13:16:16+08:00"
+              "published_at": "2026-07-09T16:47:10+08:00"
             },
             {
-              "title": "AI正摧毁印度最强产业，廉价码农面临危机",
-              "brief": "AI冲击下印度IT外包业初级岗位消失44%，中高层管理岗也未能幸免。头部企业一边优化资深员工，一边收紧校招。本质是印度IT产业三十年依赖廉价人力套利的结构性矛盾，缺乏核心产品企业。全国GPU保有量仅3.8万个，底层技术能力不足。企业虽推动AI培训，但越展示AI高效，客户越倾向直接用AI工具，陷入转型悖论。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568434.htm",
+              "title": "十年创业七年零薪，国产内存龙头长鑫7月16日上市，创始人身家或达900亿",
+              "brief": "长鑫科技作为国内唯一实现自主DRAM大规模量产的企业，将于7月16日上市，市场预测其市值有望冲击2万亿至3万亿元。创始人朱一明此前身家120亿元，若长鑫上市成功，其持股加上兆易创新股份，身家最高可超900亿元。朱一明自2018年起未领薪水，历时十余年补齐国产DRAM空白。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568446.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-09T13:15:44+08:00"
+              "published_at": "2026-07-09T16:46:41+08:00"
             },
             {
-              "title": "奔驰二季度在华销量98600辆，同比暴跌三成",
-              "brief": "奔驰2026年第二季度在华销量仅为98600辆，同比大幅下滑30%，远超2025年全年19.3%的跌幅。全球市场同样承压，但纯电车型销量同比增长50%至6.3万辆，仍无法弥补燃油车基本盘的下滑。中国本土新能源品牌在30万至50万元价位段快速崛起，理想、问界等蚕食传统豪华车市场，而奔驰燃油车主力C级、E级等终端大幅优惠仍难阻销量下行。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568432.htm",
+              "title": "“港股年内最大IPO”上市首日破发，中一手浮亏300港元",
+              "brief": "立讯精密港股IPO发行价63.28港元，募资243亿港元，但上市首日一度跌超7%，截至午间收盘跌逾5%，打新投资者每手亏约328港元。基石投资者包括淡马锡、高瓴等，合计认购48.44%的H股，也同步浮亏。近期港股新股表现分化，部分首日大涨，但多只破发。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568444.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-09T12:33:46+08:00"
+              "published_at": "2026-07-09T16:46:22+08:00"
             },
             {
-              "title": "世界杯阿根廷绝杀埃及刷新Google搜索历史使用纪录",
-              "brief": "在阿根廷对阵埃及的世界杯比赛中，阿根廷在最后15分钟连入三球完成2:0逆转绝杀，这一戏剧性场面导致大量用户涌入Google搜索查看实时胜率、规则和比分，瞬时流量创下历史新高。Google在赛事期间提供实时胜负概率、首发阵容和文字直播等服务，成为球迷获取信息的主要入口。美国足球普及度较低，也促使更多观众通过搜索了解比赛。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568430.htm",
+              "title": "港股年内最大IPO破发，年赚160亿的立讯精密依旧缺钱",
+              "brief": "立讯精密港股上市首日破发，盘中跌超6%。尽管2025年净利润166亿元，营收3323亿元，但经营性现金流自2023年峰值后持续下滑，2026年一季度为-70.68亿元。公司正大力投入AI服务器、汽车电子等新业务及海外产能建设，港股IPO旨在搭建国际资本平台，为全球竞争储备资金。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568442.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-09T12:02:46+08:00"
+              "published_at": "2026-07-09T16:45:59+08:00"
             },
             {
-              "title": "《刺客信条：黑旗》重制版Denuvo被破解，盗版比正版提前发布",
-              "brief": "育碧推出的《刺客信条：黑旗》重制版采用Denuvo反篡改工具保护，但该工具因影响游戏性能而备受玩家批评。自6月7日起，重制版的破解版已在网上流传，盗版甚至比正版更早可用。尽管Denuvo是商业级DRM，但高昂授权成本和玩家反感导致越来越多游戏放弃使用，而黑旗重制版的破解再次引发对性能与版权保护平衡的讨论。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1568428.htm",
+              "title": "AI走进校园引争议，半数家长担忧孩子过度依赖AI工具",
+              "brief": "一项调查显示，约半数家长担心孩子过度依赖AI工具，仅22%的家长表示学校提供官方AI工具，33%的学校已制定使用规范。超过三分之一家长认为学校AI教育不足，约八分之一计划自费让孩子参加AI课程。有教师增加纸笔作业以评估学生真实能力，小学生也开始通过学校设备使用生成式AI。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568440.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-09T12:01:34+08:00"
+              "published_at": "2026-07-09T16:45:19+08:00"
             }
           ]
         }
