@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T12:51:47.843533+08:00",
+  "generated_at": "2026-07-09T14:49:34.424651+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "ChatGPT 推出 GPT-Live 语音模型，可边思考边对话",
+              "brief": "OpenAI 发布了全新 GPT-Live 语音模型，采用全双工架构，能同时听和说，实现更自然的对话。当需要思考或搜索网络时，GPT-Live 可继续说话，同时后台处理任务。该模型还能用“嗯”等语气词表示正在倾听，并自动等待用户停顿后继续。GPT-Live-1 和 GPT-Live-mini 已开始向 ChatGPT 应用和网页端推送。",
+              "source_url": "https://www.androidauthority.com/openai-gpt-live-voice-model-3685616/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T14:34:06+08:00"
+            },
+            {
               "title": "基础款 NVIDIA Shield TV 可能已悄然停产",
               "brief": "据报道，NVIDIA 售价 149 美元的 Shield TV 基础款在多家主要零售商处已缺货数月，有迹象表明该型号可能已停产。如果消息属实，内存成本上升以及 NVIDIA 将重心转向 AI 研发，可能是其停止生产该流媒体播放器的原因。虽然 Shield TV Pro 仍在销售，但基础款从 4 月起在亚马逊等平台就难以买到，B&H Photo 甚至将其标注为“停产”。此外，Shield TV 遥控器近期意外降价，被视作清仓处理。不过 NVIDIA 高管此前表示不会很快停产 Shield TV 系列，因此公司可能仅砍掉基础型号，保留更受欢迎的 Pro 版本。",
               "source_url": "https://www.androidauthority.com/nvidia-shield-tv-possibly-discontinued-3685600/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
               "source_name": "Android Authority",
               "published_at": "2026-07-09T04:34:36+08:00"
-            },
-            {
-              "title": "Google Health 更新：今日标签可添加更多健康指标",
-              "brief": "Google Health 应用推出 5.03 版本更新，在“今日”标签页中新增 13 个可选的健康指标磁贴，包括血糖、呼吸频率、心率变异性、血氧饱和度、静息心率、皮肤温度变化等。同时，超过 20 分钟的小睡记录将计入 24 小时睡眠时长。此外，修复了游泳活动和 Strava 记录的海拔数据错误。该更新即日起在 Android 和 iOS 平台推送。",
-              "source_url": "https://www.androidauthority.com/google-health-5-03-3685549/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-09T04:29:05+08:00"
             }
           ]
         },
@@ -313,39 +313,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为Pura 80系列官方翻新版上架，4299元起，降价2200至3700元",
-              "brief": "华为官方翻新机上架Pura 80 Pro、Pro+和Ultra三款机型，价格从4299元起，较首发价降低2200至3700元。这些翻新机源自7天无理由退货及15天换货产品，经严格翻新流程处理，性能与全新机一致，采用全新包装，外观成色接近新机，并提供一年质保。",
-              "source_url": "https://www.ithome.com/0/974/472.htm",
+              "title": "腾讯云发布Agent Bucket，为亿级智能体提供原生独立云空间",
+              "brief": "腾讯云发布Agent Bucket，专为智能体（Agent）打造的原生存储底座。Agent Bucket通过引入“Space”概念，为每个Agent或用户提供独立访问凭证、容量配额和读写限速，实现系统级隔离，避免传统单Bucket数量上限或共用Bucket隔离不足的问题。同时内置秒传去重、POSIX语义、多模态检索等文件管理能力，并集成GooseFS数据加速与冷热分层策略，平衡性能与成本。目前已在WorkBuddy、QClaw等腾讯Agent应用中部署，并服务华硕、东风日产等客户，应用于AI PC和车载云空间场景。",
+              "source_url": "https://www.ithome.com/0/974/504.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T12:42:49+08:00"
+              "published_at": "2026-07-09T14:45:30+08:00"
             },
             {
-              "title": "支付宝客服就花呗服务问题致歉，系统升级已完成并设三天宽限期",
-              "brief": "支付宝客服就花呗服务问题致歉，称系统升级已完成，还款有三天宽限期，在宽限期内还款不影响征信。经测试，花呗还款页面已恢复正常。",
-              "source_url": "https://www.ithome.com/0/974/471.htm",
+              "title": "TrendForce预估：服务器DRAM内存2026Q3合约价环比涨幅13~18%",
+              "brief": "TrendForce预估，2026年第三季度服务器DRAM合约价环比上涨13%至18%，主因服务器RDIMM供给按容量计2027年仅增长15%至20%，大幅落后于服务器CPU出货爬升速度，导致供小于求态势持续。CSP与服务器OEM企业为应对容量限制，正调整内存需求组合，降低模组平均容量，32GB/64GB单条占比将从本季度回升。机构预计直到2027年下半年，服务器DRAM合约价格仍将上行但涨幅收敛。",
+              "source_url": "https://www.ithome.com/0/974/501.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T12:40:34+08:00"
+              "published_at": "2026-07-09T14:42:12+08:00"
             },
             {
-              "title": "美加墨世界杯阿根廷vs埃及比赛期间，谷歌搜索使用量创历史新高",
-              "brief": "在2026年美加墨世界杯阿根廷对阵埃及的比赛中，谷歌搜索使用量创下历史新高。比赛最终阿根廷3:2逆转取胜，埃及一度2:0领先。埃及足协批评VAR介入导致一粒进球被判无效，进一步推高了搜索量。谷歌未披露具体搜索内容或流量构成。",
-              "source_url": "https://www.ithome.com/0/974/470.htm",
+              "title": "小米澎程首款SUV内外饰首秀：前排座椅能旋转，车内直接搭“吧台”",
+              "brief": "小米澎程首款SUV SkyNomad内外饰首次公开，前排座椅支持旋转，配合落地小桌板可形成“会客厅”式布局；中央扶手可向后滑动，通过桌板配件可形成“吧台”。在三排座椅全启用状态下，仍可放下至少7个行李箱。此前官方介绍车内“可变大空间”，第二、第三排可多种布局，支持放置电视、游戏主机、咖啡桌等设施。该车已开启预约咨询，更多配置信息待后续公布。",
+              "source_url": "https://www.ithome.com/0/974/498.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T12:36:15+08:00"
+              "published_at": "2026-07-09T14:39:57+08:00"
             },
             {
-              "title": "《原神》7.0版本设备性能要求更新，天玑7030等存在兼容性风险",
-              "brief": "《原神》7.0版本更新设备性能要求，新增部分SoC型号存在兼容性风险，包括紫光展锐T606系列和联发科天玑7020、7030等。这些设备受GPU架构限制，可能无法稳定运行。其他平台配置要求不变，安卓端最低仍为骁龙660或Helio G88。",
-              "source_url": "https://www.ithome.com/0/974/469.htm",
+              "title": "努比亚Air Pro手机海外发布：5.99mm厚度、172g重量，天玑7100+8G+512G",
+              "brief": "努比亚在海外发布Air Pro手机，厚度仅5.99mm，重量172g，通过IP69K认证。配备6.77英寸120Hz AMOLED面板（峰值亮度4500尼特），32MP前置摄像头，后置108MP主摄加副摄。搭载联发科天玑7100处理器，8GB LPDDR5X RAM和512GB UFS 2.2存储，内置5000mAh电池支持45W有线充电。该机定价未公布，此前同系列有搭载展锐T8300的版本定价279美元。",
+              "source_url": "https://www.ithome.com/0/974/496.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T12:31:40+08:00"
+              "published_at": "2026-07-09T14:38:27+08:00"
             },
             {
-              "title": "谷歌宣布8月31日起从Chrome商店移除所有Manifest V2扩展程序",
-              "brief": "谷歌宣布将于2026年8月31日从Chrome网上应用店中移除所有Manifest V2扩展程序。MV3协议旨在提升安全性、隐私和性能，但限制了广告拦截工具的过滤规则数量。已安装的MV2扩展在Chrome 138及更早版本中保留，但无法更新；更换设备或重装后无法重新安装。用户可考虑不升级Chrome或改用Firefox。",
-              "source_url": "https://www.ithome.com/0/974/468.htm",
+              "title": "搭载英特尔酷睿Ultra X7 358H，机械师14 Ultra轻薄本核心规格确认",
+              "brief": "机械师14 Ultra轻薄本核心规格确认，搭载英特尔酷睿Ultra X7 358H处理器，配备70Whr电池，整机重量约1.1kg。该笔记本将于BW2026首发，具体配置和价格待公布。",
+              "source_url": "https://www.ithome.com/0/974/494.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T12:26:27+08:00"
+              "published_at": "2026-07-09T14:24:39+08:00"
             }
           ]
         },
@@ -353,39 +353,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "普洛斯与乌兰察布市政府签署战略合作协议，打造GW级源网荷储一体化智算产业基地",
-              "brief": "普洛斯与乌兰察布市人民政府签署战略合作协议，双方将共建GW级超大规模绿电智算产业基地。该项目旨在通过源网荷储一体化模式，利用当地绿电资源，推动智算产业低碳发展，进一步支撑区域数字经济基础设施建设。",
-              "source_url": "https://36kr.com/newsflashes/3887928494209537?f=rss",
+              "title": "科创50涨超8%",
+              "brief": "科创板芯片股持续活跃，科创50指数拉升涨超8%。上海合晶、深科达、艾森股份、铂力特、埃科光电等涨停，中芯国际、寒武纪、华虹宏力、中微公司等权重股均大涨。",
+              "source_url": "https://36kr.com/newsflashes/3888047559588616?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 12:45:23  +0800"
+              "published_at": "2026-07-09 14:46:30  +0800"
             },
             {
-              "title": "TPG、黑石拟出售豪洛捷医疗外科业务，目标估值超40亿美元",
-              "brief": "据英国《金融时报》援引知情人士消息，TPG与黑石计划出售豪洛捷旗下外科业务板块，寻求超40亿美元交易对价，以偿还债务并回笼去年收购该公司的资金。目前出售流程尚处初期阶段，最终未必能达成交易。今年4月，TPG、黑石联合穆巴达拉投资公司与新加坡政府投资公司，以183亿美元完成豪洛捷私有化收购。",
-              "source_url": "https://36kr.com/newsflashes/3887922280086274?f=rss",
+              "title": "汇丰银行：金价将保持震荡走势，预计年底金价目标为4750美元/盎司",
+              "brief": "汇丰银行表示，黄金价格将保持震荡走势，预计2026年剩余时间内黄金价格将在3800-4700美元/盎司的宽幅区间内波动，并预测年底金价目标为4750美元/盎司。",
+              "source_url": "https://36kr.com/newsflashes/3888031226608384?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 12:39:03  +0800"
+              "published_at": "2026-07-09 14:29:53  +0800"
             },
             {
-              "title": "蚂蚁灵波同日开源两大模型，推动世界模型与具身智能视频生成的双升级",
-              "brief": "蚂蚁灵波科技连续开源LingBot-World 2.0与LingBot-Video两款新模型，分别面向实时交互世界生成和具身智能视频生成。LingBot-World 2.0支持小时级实时生成、720p/60fps高清输出，并首次将Agent机制引入世界模型；LingBot-Video是全球首个基于MoE架构、面向具身智能的开源视频生成基础模型，为机器人理解动作、任务和物理世界提供新的开源底座。",
-              "source_url": "https://36kr.com/newsflashes/3887921785567752?f=rss",
+              "title": "现货白银日内涨幅扩大至1%",
+              "brief": "现货白银日内涨幅扩大至1%，报58.86美元/盎司。",
+              "source_url": "https://36kr.com/newsflashes/3888027862366724?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 12:38:33  +0800"
+              "published_at": "2026-07-09 14:26:28  +0800"
             },
             {
-              "title": "雀巢将斥资6.88亿美元建设泰国中心，新增520个就业岗位",
-              "brief": "泰国已批准雀巢泰国有限公司一项230亿泰铢（约6.88亿美元）的投资项目，用于建设智能工厂与配送中心，助力泰国打造区域食品饮料制造中心。该厂选址沙没巴干府，计划2028年第四季度投产，年产速溶咖啡、复合咖啡饮品及即饮饮料17万吨，预计新增520个就业岗位。",
-              "source_url": "https://36kr.com/newsflashes/3887912675932935?f=rss",
+              "title": "沪深两市成交额突破2.5万亿",
+              "brief": "沪深两市成交额突破2.5万亿。",
+              "source_url": "https://36kr.com/newsflashes/3888024555469317?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 12:29:17  +0800"
+              "published_at": "2026-07-09 14:23:06  +0800"
             },
             {
-              "title": "上汽金石等入股首形科技",
-              "brief": "天眼查App显示，首形科技（上海）有限公司近日发生工商变更，新增无锡上汽金石创新产业基金合伙企业（有限合伙）、金石深合（贵州）数字科技股权投资合伙企业（有限合伙）等为股东，注册资本由约451.5万人民币增至约522.6万人民币。该公司成立于2024年6月，法定代表人为胡宇航，经营范围含智能机器人研发、销售等，由胡宇航、上海首伴科技合伙企业（有限合伙）等共同持股。",
-              "source_url": "https://36kr.com/newsflashes/3887907716381442?f=rss",
+              "title": "钛虎机器人在台州成立新公司",
+              "brief": "天眼查App显示，近日，钛虎机器人科技（台州）有限公司成立，法定代表人为易港，注册资本1000万人民币，经营范围包括智能机器人的研发、销售及相关技术服务，由钛虎机器人科技（上海）有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3888019277249283?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 12:24:14  +0800"
+              "published_at": "2026-07-09 14:17:44  +0800"
             }
           ]
         },
@@ -466,6 +466,20 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "DMIT面向老用户推出免费换IP活动，更换后无法回退",
+              "brief": "DMIT面向2026年7月1日前开机的老用户推出限时免费更换IP活动，截止到9月1日。正常情况下更换IP需支付5美元，此次免费。但新IP为随机分配，不保证GeoIP定位或通过奈飞等服务的验证，且更换后旧IP无法找回。建议用户若当前IP无重大问题，不要轻易更换。",
+              "source_url": "https://www.landian.news/archives/113869.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T13:30:49+08:00"
+            },
+            {
+              "title": "苹果明年将停止支持加密的HFS+文件系统，用户需提前迁移",
+              "brief": "苹果宣布从macOS 28起不再支持加密的HFS+文件系统（Mac OS Extended）。从macOS 26开始系统会弹出提醒，建议用户提前解密或格式化为APFS。未加密的HFS+驱动器不受影响。用户需将数据导出，通过磁盘工具将硬盘抹除并格式化为APFS加密格式，再迁回数据。",
+              "source_url": "https://www.landian.news/archives/113868.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T13:00:47+08:00"
+            },
+            {
               "title": "V社蒸汽机死亡红线实为出厂配置错误，更新BIOS即可修复",
               "brief": "多名网友反映购买的Steam Machine蒸汽机开机后出现代表GPU故障的死亡红线，但多次插拔电源后又能恢复正常。V社工程师解释称，这是出厂配置失误导致内存训练失败时错误地显示了GPU故障指示灯，并非真正的硬件故障。V社已发布BIOS固件修正此问题，用户可按官方步骤释放CMOS电量并重新进行内存训练即可恢复正常。",
               "source_url": "https://www.landian.news/archives/113867.html",
@@ -485,26 +499,26 @@
               "source_url": "https://www.landian.news/archives/113865.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-09T11:30:34+08:00"
-            },
-            {
-              "title": "谷歌将于8月31日从Chrome商店下架所有MV2扩展程序",
-              "brief": "谷歌宣布从2026年8月31日起，将Chrome Web Store中所有基于Manifest v2协议的扩展程序删除，届时用户无法再下载或获取更新。仍在依赖MV2扩展的用户需提前备份CRX安装包，可使用CRX Extractor/Downloader等工具下载。部分开发者可能在官网或GitHub提供旧版本，但自行备份更为稳妥。",
-              "source_url": "https://www.landian.news/archives/113864.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-09T11:00:23+08:00"
-            },
-            {
-              "title": "日本KDDI公布黑客攻击结果：泄露1223万用户邮箱和761万用户密码",
-              "brief": "日本电信公司KDDI确认6月遭黑客攻击，约1223万名用户的电子邮件地址被窃取，其中761万名用户的密码也被窃取，部分密码可能为明文保存。攻击源于KDDI邮件基础系统使用的软件存在漏洞，最早可追溯至5月。KDDI已与下游邮件服务提供商合作强制用户修改密码，并提醒用户警惕撞库攻击。",
-              "source_url": "https://www.landian.news/archives/113863.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-09T10:30:19+08:00"
             }
           ]
         },
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "AI暴富打破韩国社会成功等级制度",
+              "brief": "随着AI热潮推动存储芯片需求激增，三星和SK海力士业绩创历史新高，员工获得巨额奖金。韩国社会传统上以医生、律师等为最高成功标准，但芯片从业者收入暴增引发相对剥夺感。公务员和教授自嘲努力不如选对行业，婚介所将三星员工与律师并列，大学半导体专业录取线接近医科。这种变化正在重塑韩国人对公平和成功的看法。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568436.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T13:16:16+08:00"
+            },
+            {
+              "title": "AI正摧毁印度最强产业，廉价码农面临危机",
+              "brief": "AI冲击下印度IT外包业初级岗位消失44%，中高层管理岗也未能幸免。头部企业一边优化资深员工，一边收紧校招。本质是印度IT产业三十年依赖廉价人力套利的结构性矛盾，缺乏核心产品企业。全国GPU保有量仅3.8万个，底层技术能力不足。企业虽推动AI培训，但越展示AI高效，客户越倾向直接用AI工具，陷入转型悖论。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568434.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T13:15:44+08:00"
+            },
             {
               "title": "奔驰二季度在华销量98600辆，同比暴跌三成",
               "brief": "奔驰2026年第二季度在华销量仅为98600辆，同比大幅下滑30%，远超2025年全年19.3%的跌幅。全球市场同样承压，但纯电车型销量同比增长50%至6.3万辆，仍无法弥补燃油车基本盘的下滑。中国本土新能源品牌在30万至50万元价位段快速崛起，理想、问界等蚕食传统豪华车市场，而奔驰燃油车主力C级、E级等终端大幅优惠仍难阻销量下行。",
@@ -525,20 +539,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1568428.htm",
               "source_name": "cnBeta",
               "published_at": "2026-07-09T12:01:34+08:00"
-            },
-            {
-              "title": "Google将从8月31日起从Chrome商店下架所有MV2扩展程序",
-              "brief": "Google宣布将于2026年8月31日从Chrome网上应用店删除所有基于Manifest V2协议的扩展程序，届时用户无法再下载安装。此前Chrome已逐步限制MV2扩展的使用，并废弃了相关企业策略。仍依赖MV2扩展的用户需提前使用第三方工具如CRX Extractor备份CRX安装包，以便在旧版Chrome或支持MV2的浏览器中手动安装。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568426.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-09T12:01:29+08:00"
-            },
-            {
-              "title": "索尼放弃实体盘原因曝光：每卖一张盘亏损30%",
-              "brief": "据记者Jason Schreier分析，索尼转向数字版游戏的主要原因在于利润率差异。第一方游戏实体版销售中，索尼需损失约30%收入，加上生产和运输成本，利润被大幅压缩；而数字版在自家商店销售可保留全部收入。第三方游戏数字版分成也远高于实体。索尼认为即使失去部分实体玩家，也不会对业务造成重大打击，因此决定逐步放弃实体盘。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1568424.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-09T11:57:34+08:00"
             }
           ]
         }
