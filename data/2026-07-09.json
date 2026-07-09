@@ -1,10 +1,291 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T10:49:13.024994+08:00",
+  "generated_at": "2026-07-09T12:51:47.843533+08:00",
   "sections": [
     {
       "category": "主要",
-      "sources": []
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "2026年Apple TV 4K的所有更新内容",
+              "brief": "Apple TV 4K自2022年以来未更新，计划于2026年升级，但苹果可能等待Siri AI随iOS 27发布后再推出。外观保持不变，仍为黑色塑料圆角方形。主要升级是芯片，可能采用iPhone 15 Pro的A17 Pro，带来更快速度和效率，支持硬件加速光线追踪和AV1解码。也可能配备A18或A19芯片及更大内存，以支持Apple Intelligence。新款Apple TV已准备就绪，但需等待新版Siri。",
+              "source_url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T07:51:25+08:00"
+            },
+            {
+              "title": "Meta新AI工具默认使用你的公开Instagram照片",
+              "brief": "Meta推出新功能，允许他人利用公开Instagram帖子和Reels生成AI内容，且默认开启。该功能基于新图像生成模型Muse Image，用户只需@提及Instagram账户即可生成图像。公开账户的内容可被用于AI创作，且不会收到通知。用户可在设置中关闭“允许他人使用你的内容在Meta上创建AI内容”选项。",
+              "source_url": "https://www.macrumors.com/2026/07/08/meta-ai-muse-image/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T04:52:31+08:00"
+            },
+            {
+              "title": "任天堂将关闭《马里奥赛车巡回赛》iOS游戏",
+              "brief": "任天堂宣布《马里奥赛车巡回赛》手游将于2026年9月29日停服，且不会推出离线版本。即日起停止游戏内购，自动续费已取消。Gold Pass订阅用户可免费使用至停服，非订阅用户从8月4日起享受福利。游戏于2019年9月上线，首周下载量超9000万次。任天堂此前已停运多款手游。",
+              "source_url": "https://www.macrumors.com/2026/07/08/mario-kart-tour-shutting-down/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T03:59:19+08:00"
+            },
+            {
+              "title": "OpenAI推出GPT-Live让ChatGPT语音更像真实对话",
+              "brief": "OpenAI发布GPT-Live，新一代语音模型，旨在让与AI对话更接近真人交流。GPT-Live能同时听和说，并发出“嗯”等回应表示在听。它每秒多次决定是否说话、倾听、暂停或打断。GPT-Live使用最新GPT-5.5模型，支持网络搜索、深度推理和复杂任务，还能进行实时翻译。即日起向ChatGPT用户推送，Go/Plus/Pro用户默认使用GPT-Live-1，免费用户使用mini版。",
+              "source_url": "https://www.macrumors.com/2026/07/08/openai-gpt-live-voice/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T03:03:52+08:00"
+            },
+            {
+              "title": "Apple TV+获2026年87项艾美奖提名，《Pluribus》和《Widow's Bay》领跑",
+              "brief": "苹果在2026年获得创纪录的87项艾美奖提名，热门剧集包括《Pluribus》《Margo's Got Money Troubles》《Widow's Bay》《Shrinking》和《Slow Horses》。《Widow's Bay》获19项提名，《Pluribus》获18项提名，五部剧集均入围最佳系列奖项，并获得多项主演提名。",
+              "source_url": "https://www.macrumors.com/2026/07/08/apple-tv-emmy-nominations-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-09T01:37:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "iOS 27 为 Apple 翻译新增九种语言和口音",
+              "brief": "iOS 27 将为 Apple 翻译应用新增九种语言和口音，使其支持的语言总数从当前的 21 种增加到 30 种。新增语言包括希伯来语、粤语繁体、丹麦语、荷兰语、马来语、挪威博克马尔语、波兰语、葡萄牙语（葡萄牙）和瑞典语。这是苹果持续扩展生态系统语言支持的一部分，此前已在 App Store Connect 中为本地化元数据添加了 11 种新语言，并在 iOS 27 键盘中为多语言用户提供了多项改进。",
+              "source_url": "https://9to5mac.com/2026/07/08/ios-27-adds-nine-new-languages-and-accents-to-apple-translate/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T05:23:54+08:00"
+            },
+            {
+              "title": "Halide 3.1 将加入透视校正、RAW 仅拍摄模式和新 Scarlet 色调",
+              "brief": "摄影应用 Halide 将于 7 月 10 日发布 3.1 版本，新增透视校正工具，允许用户通过拨盘调整照片透视，类似于经典移轴镜头效果。同时引入名为 Scarlet 的新色调，强调温暖、丰富和中等高对比度，特别让红色更突出。此外，新版本还包含 RAW 仅拍摄模式、自定义 UI 主题和图标面板、压缩控制预览、以及更智能的取景器点击行为，避免在手动对焦或曝光模式下误触。",
+              "source_url": "https://9to5mac.com/2026/07/08/halide-3-1-to-add-perspective-correction-raw-only-capture-and-a-new-scarlet-look/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T04:42:01+08:00"
+            },
+            {
+              "title": "2026 年艾美奖：Apple TV+ 获得创纪录的 89 项提名",
+              "brief": "Apple TV+ 在 2026 年艾美奖中获得创纪录的 89 项提名，超过去年的 81 项。其中《Pluribus》获剧情类最佳剧集提名，主演 Rhea Seehorn 和 Karolina Wydra 分获最佳女主角和女配角提名；《Slow Horses》获剧情类最佳剧集提名，Gary Oldman 获最佳男主角提名；《Shrinking》获喜剧类最佳剧集提名。Michael J. Fox 因客串《Shrinking》获提名，《Widow's Bay》在所有新剧中获得提名最多。",
+              "source_url": "https://9to5mac.com/2026/07/08/emmy-awards-2026-apple-tv-just-landed-a-record-87-nominations-full-list/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T04:12:30+08:00"
+            },
+            {
+              "title": "苹果何时发布新款 AirPods？",
+              "brief": "苹果正在开发内置摄像头的 AirPods，左右耳机各有一个摄像头，用于为 Siri 提供环境上下文，例如识别食物成分并提供菜谱或营养信息。该产品原计划 2026 年发布，但因 Apple Intelligence 和 Siri 延迟，可能推迟至 2027 年底。此外，分析师郭明錤曾报告苹果计划在 2027 年推出更轻的 AirPods Max，而 AirPods Pro 3 已于去年秋季发布，目前尚无关于 AirPods 4 更新的传闻。",
+              "source_url": "https://9to5mac.com/2026/07/08/when-is-apple-releasing-new-airpods/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T03:53:01+08:00"
+            },
+            {
+              "title": "苹果停止为多款旧 iPhone 和 iPad 签署旧版 iOS",
+              "brief": "苹果已停止为多款旧设备签署旧版 iOS，包括 iPhone 5、iPhone 5c、iPad mini Wi-Fi + Cellular 和 iPad 2 Wi-Fi + 3G（CDMA）。具体停签版本包括 iOS 8.4.1、9.3.5、9.3.6、10.3.3 和 10.3.4 的 OTA 或 IPSW 安装。这意味着这些设备将无法再恢复或降级到这些旧版本。此举影响范围较小，但关闭了测试、应用兼容性或收藏等用途的恢复路径。",
+              "source_url": "https://9to5mac.com/2026/07/08/apple-stops-signing-ios-versions-for-several-older-iphones-and-ipads/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-09T03:35:47+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "谷歌 Chrome 150 安卓版新增专用返回按钮",
+              "brief": "谷歌 Chrome 150 安卓版在顶部工具栏新增了返回按钮，作为系统返回手势或导航键的替代方案，此前 iOS 版已有该功能。同时，信息按钮被移除，新增“站点控制”选项移至溢出菜单，书签星号和下载按钮右移可能影响用户习惯。该更新随版本 150 通过 Play Store 推送，另将“添加到主屏幕”改为“安装并创建快捷方式”。",
+              "source_url": "https://9to5google.com/2026/07/08/chrome-back-button-android/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-09T11:31:35+08:00"
+            },
+            {
+              "title": "谷歌商店为何销售 Galaxy Watch 8？",
+              "brief": "谷歌商店在“来自谷歌商店”轮播中推广 Galaxy Watch 8，提供 20 美元折扣至 7 月 14 日，但优惠力度不大。点击后进入标准结账流程，支持查看图片、选择尺寸和分期付款，产品名称带有“Play”标签。然而 Galaxy Watch 8 并未与 Pixel 产品并列列出，结账系统复用现有购物车、地址和支付信息，暗示三星设备可能存放在谷歌仓库。",
+              "source_url": "https://9to5google.com/2026/07/08/google-store-samsung-galaxy-watch/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-09T05:54:00+08:00"
+            },
+            {
+              "title": "英伟达 Shield TV（2019）似乎已悄然停产",
+              "brief": "英伟达 Shield TV（2019）基础版在多家零售商处显示缺货或停售，B&H Photo 标记为“停产”，英伟达官网也已停售。但 Shield TV Pro 仍可购买。英伟达数月前表示无停产计划，但当前市场环境下可能已改变。基础版售价 149 美元，面对 Google TV Streamer（99 美元）和 Onn 4K Pro（59 美元）等竞品缺乏竞争力。英伟达未官方确认，但迹象明显。",
+              "source_url": "https://9to5google.com/2026/07/08/nvidia-shield-tv-2019-appears-to-have-been-quietly-discontinued-maybe/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-09T04:50:00+08:00"
+            },
+            {
+              "title": "谷歌搜索昨日创下历史使用量新高",
+              "brief": "谷歌搜索副总裁尼克·福克斯确认，在阿根廷对阵埃及的世界杯比赛中，阿根廷打入制胜球后，谷歌搜索使用量突破历史纪录。尽管竞争激烈，该成就仍显著。比赛以 3-2 结束，埃及曾 2-0 领先，但 VAR 系统判罚引发争议，可能推动了搜索量。谷歌未提供具体数据。",
+              "source_url": "https://9to5google.com/2026/07/08/google-search-hit-an-all-time-usage-record-yesterday/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-09T04:30:00+08:00"
+            },
+            {
+              "title": "谷歌 Home Speaker 首次更新“改善网络流量”，正在推送",
+              "brief": "谷歌向 Home Speaker、Nest Audio、Nest Mini、Home Mini 和初代 Home 推送固件版本 3.78.5 40761，更新说明为“改善网络流量”。此前曾有设备在半夜触发网络加入通知的问题。该更新跳过预览计划，自动在后台推送。用户可在 Google Home 应用的设备信息中查看。此前谷歌在 7 月 29 日为 Nest Hub 系列发布了安全修复补丁。",
+              "source_url": "https://9to5google.com/2026/07/08/google-home-speaker-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-09T03:18:34+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "常春藤教授怀疑学生用AI作弊，安排线下期末考试，分数下降50%",
+              "brief": "布朗大学一位教授因怀疑学生使用AI作弊，将线上期末考试改为线下闭卷考试，结果全班平均分骤降50%。该教授此前发现学生作业中大量使用AI生成内容，且线上监考难以杜绝作弊。此举引发关于AI时代学术诚信评估方式的广泛讨论。",
+              "source_url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T05:42:44+08:00"
+            },
+            {
+              "title": "诉讼：男子用Grok生成7000张继女性图像后自杀",
+              "brief": "一名男子被指控使用xAI的Grok模型生成7000张继女的性虐待图像，并在被调查后自杀。诉讼称，xAI未能有效过滤此类内容，仅对其中一次涉及轮奸的提示进行了报告。此案凸显AI生成儿童性虐待材料的监管漏洞。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T03:56:37+08:00"
+            },
+            {
+              "title": "法官驳回Kalshi试图推翻纽约州赌博法的请求",
+              "brief": "美国联邦法官裁定，纽约州有权限制预测市场平台Kalshi提供体育赌博服务，驳回了Kalshi关于联邦法律优先于州法的论点。Kalshi此前推出体育赛事预测合约，被纽约州认定为非法赌博。该裁决可能影响其他预测市场的监管格局。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T03:14:02+08:00"
+            },
+            {
+              "title": "谷歌为Linux高危漏洞支付25万美元赏金，该漏洞可导致虚拟机逃逸",
+              "brief": "谷歌向一名安全研究员支付25万美元，奖励其发现Linux内核中的一个高危漏洞，该漏洞允许攻击者从客户虚拟机逃逸到宿主机。漏洞影响多个发行版，谷歌已在内部修复。此外，本周还披露了另一个类似严重程度的Linux漏洞。",
+              "source_url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T03:01:19+08:00"
+            },
+            {
+              "title": "澳大利亚政府要求志愿者丢弃数千台功能完好的测试路由器",
+              "brief": "澳大利亚政府结束一项宽带测试项目后，要求志愿者销毁数千台仍可正常使用的路由器。这些路由器由国家宽带网络（NBN）提供，用于测试网络性能。项目结束后，政府以安全为由要求彻底报废设备，引发资源浪费争议。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-09T02:10:16+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "基础款 NVIDIA Shield TV 可能已悄然停产",
+              "brief": "据报道，NVIDIA 售价 149 美元的 Shield TV 基础款在多家主要零售商处已缺货数月，有迹象表明该型号可能已停产。如果消息属实，内存成本上升以及 NVIDIA 将重心转向 AI 研发，可能是其停止生产该流媒体播放器的原因。虽然 Shield TV Pro 仍在销售，但基础款从 4 月起在亚马逊等平台就难以买到，B&H Photo 甚至将其标注为“停产”。此外，Shield TV 遥控器近期意外降价，被视作清仓处理。不过 NVIDIA 高管此前表示不会很快停产 Shield TV 系列，因此公司可能仅砍掉基础型号，保留更受欢迎的 Pro 版本。",
+              "source_url": "https://www.androidauthority.com/nvidia-shield-tv-possibly-discontinued-3685600/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T11:38:17+08:00"
+            },
+            {
+              "title": "T-Mobile 将限制两项最优惠活动仅限新用户",
+              "brief": "T-Mobile 宣布从 7 月 9 日起，其长期推出的 Keep & Switch 和 Family Freedom 两项优惠活动将仅限全新客户账户参与，现有语音客户在添加新线路时不再适用。这两项活动此前允许用户携带旧手机或通过以旧换新获得最高每条线路 800 美元的补贴，以偿还前运营商的欠款。T-Mobile 官方支持页面已更新条款，仅新账户可享受优惠。此举紧随 T-Mobile 确认将淘汰部分旧套餐之后，可能是为了吸引更优质的新客户，但同时也降低了家庭用户切换运营商的便利性。",
+              "source_url": "https://www.androidauthority.com/t-mobile-keep-switch-family-freedom-deals-changes-3685566/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T05:45:28+08:00"
+            },
+            {
+              "title": "谷歌相册推出视频重混工具，可重新构思视频风格",
+              "brief": "谷歌相册推出全新的 Video Remix 工具，利用 Gemini Omni 模型将用户视频转换成不同风格。用户可在“创建”标签页中使用该功能，通过文字描述所需氛围，如添加戏剧性灯光或完全改变艺术风格。但视频长度限制在 10 秒以内，且生成过程可能需要几分钟。该功能面向 Google AI Plus、Pro 和 Ultra 订阅用户开放，目前已开始逐步推送。此前谷歌相册已在去年夏天为静态图片引入 Remix 功能。",
+              "source_url": "https://www.androidauthority.com/google-photos-video-remix-2-3685561/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T05:44:11+08:00"
+            },
+            {
+              "title": "Google Home 的 Gemini 助手升级：更精准的体育信息和更美观的天气显示",
+              "brief": "Google Home 为智能显示屏上的 Gemini 语音助手推出视觉升级，天气查询和通用知识回答将显示更美观的信息卡片。体育更新方面，比分、赛程和球队排名等回复将更加准确及时。同时，连续对话功能得到改进，后续命令不再需要中途进行语音验证，对话更流畅。这些改进于 7 月 8 日开始推送，此前谷歌已在 6 月底对 Gemini 助手的对话和延迟进行了优化。",
+              "source_url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T04:34:36+08:00"
+            },
+            {
+              "title": "Google Health 更新：今日标签可添加更多健康指标",
+              "brief": "Google Health 应用推出 5.03 版本更新，在“今日”标签页中新增 13 个可选的健康指标磁贴，包括血糖、呼吸频率、心率变异性、血氧饱和度、静息心率、皮肤温度变化等。同时，超过 20 分钟的小睡记录将计入 24 小时睡眠时长。此外，修复了游泳活动和 Strava 记录的海拔数据错误。该更新即日起在 Android 和 iOS 平台推送。",
+              "source_url": "https://www.androidauthority.com/google-health-5-03-3685549/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-09T04:29:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Engadget",
+          "articles": [
+            {
+              "title": "大众汽车在波兰太阳能农场雇佣100只羊",
+              "brief": "大众汽车在其波兰波兹南工厂的太阳能农场放养了100只羊，用于替代割草机。这些羊也是波兹南生命科学大学研究农业光伏项目的一部分，旨在探索农业与能源共生的模式，研究放牧对动物福利、生物多样性、土壤质量、植被和微气候的影响。大众波兰总监表示，太阳能农场现在不仅提供绿色电力，还支持生物多样性、农业和科研。",
+              "source_url": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T07:22:18+08:00"
+            },
+            {
+              "title": "马斯克称X将私信通知用户关于收到社区备注的帖子",
+              "brief": "X平台将更新社区备注功能，根据马斯克的说法，任何与收到社区备注的帖子互动的用户都会收到一条直接消息通知。目前，用户对帖子点赞、转发或回复后，若帖子被添加社区备注，只会收到应用内通知。新功能旨在让用户更难忽略纠正信息。社区备注是X自2022年起采用的主要防误导手段，但2026年一项研究发现，备注虽能减少帖子传播，但往往在早期传播阶段介入过晚。",
+              "source_url": "https://www.engadget.com/2211065/elon-musk-says-x-will-dm-you-about-posts-that-receive-a-community-note/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T05:50:36+08:00"
+            },
+            {
+              "title": "法官批准SEC与马斯克就推特投资案达成150万美元和解",
+              "brief": "美国SEC曾起诉马斯克在收购推特时延迟披露持股，使其节省约1.5亿美元。今年早些时候双方达成和解，马斯克支付150万美元民事罚款但不承认过错。联邦法官斯帕克尔·苏克南南批准了该和解，但批评此案处理方式，称法院只能评估和解是否达到最低公平标准，而是否充分追责应由公民在投票箱决定。",
+              "source_url": "https://www.engadget.com/2211052/judge-approves-1-5-million-sec-musk-settlement-over-twitter-investment/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T05:34:59+08:00"
+            },
+            {
+              "title": "微软取消《宣誓》续作，黑曜石工作室转向开发《辐射》新作",
+              "brief": "作为Xbox业务重组和裁员的一部分，黑曜石娱乐多个项目被取消，包括《宣誓》续作，工作室将专注于开发一款新的《辐射》游戏，由《辐射：新维加斯》总监乔什·索耶领导。同时，黑曜石裁员约四分之一，约52人；姐妹工作室id Software裁员过半，约90人。微软游戏部门持续裁员，新CEO阿莎·夏尔马正试图扭转困境。",
+              "source_url": "https://www.engadget.com/2210958/microsoft-reportedly-cancels-avowed-sequel-as-obsidian-focuses-on-a-fallout-game/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T04:18:23+08:00"
+            },
+            {
+              "title": "FTC与约翰迪尔达成和解，为农场设备引入维修权",
+              "brief": "美国FTC联合五个州与迪尔公司达成和解，要求其在未来10年内向农民和独立维修商提供与授权经销商相同的设备维修资源，包括软件功能。FTC去年起诉迪尔，指控其限制农民自行维修设备，导致维修成本高昂。美国公共利益研究集团高级维修权运动总监表示，该和解为农民提供了更多更好的维修选择，是迈向更可修复世界的一步。",
+              "source_url": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-09T04:06:11+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "Meta 据报正在开发可全天候记录的智能眼镜",
+              "brief": "Meta 正在开发一款名为“超级感知”的智能眼镜原型，可连续录制音频并每隔几秒拍摄照片，用户随后可通过 Meta AI 查询这些内容。据《金融时报》报道，该设备可能不会直接存储原始音视频，而是提取元数据上传至服务器供 AI 查询，支持者认为这样隐私风险更低。",
+              "source_url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-07-08T18:37:25-04:00"
+            },
+            {
+              "title": "预订三星新款 Galaxy 手机可获 30 美元信用额度",
+              "brief": "三星尚未正式发布新一代 Galaxy Z Fold 手机，但已开启提前注册通道。在 7 月 22 日的 Galaxy Unpacked 活动后，用户若预订新机，可在结账时获得 30 美元商店信用额度。预计此次将推出更宽幅的折叠屏手机，但信用额度需在预订时使用，且有其他限制条件。",
+              "source_url": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+              "source_name": "The Verge",
+              "published_at": "2026-07-08T16:00:00-04:00"
+            },
+            {
+              "title": "微软 Xbox 重组，黑曜石转向开发《辐射》新作而非《宣誓》续集",
+              "brief": "作为微软 Xbox 大规模重组的一部分，黑曜石娱乐已取消包括《宣誓》续集在内的多个项目，转而开发一款新的《辐射》游戏。据彭博社报道，曾执导《辐射：新维加斯》的 Josh Sawyer 将领导该项目。微软此次重组涉及裁员 3200 人，并关闭部分工作室以聚焦高优先级项目。",
+              "source_url": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+              "source_name": "The Verge",
+              "published_at": "2026-07-08T14:50:27-04:00"
+            },
+            {
+              "title": "美国最便宜的新电动车比乒乓球桌还小，最高时速仅 19 英里",
+              "brief": "菲亚特 Topolino 以 13995 美元的价格成为美国最便宜的新电动车，但它的尺寸极小，轴距仅比一张半特大床稍长，最高时速 19 英里，续航 46 英里。该车更像一款微型出行工具而非传统汽车，菲亚特在宣布其美国上市时也明确这一点。",
+              "source_url": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+              "source_name": "The Verge",
+              "published_at": "2026-07-08T13:57:53-04:00"
+            },
+            {
+              "title": "蟑螂将学会害怕我的 SwitchBot Bot 充电版",
+              "brief": "作者家中厨房出现蟑螂，因此需要一种在进入房间前就能打开灯的方法。SwitchBot Bot 充电版售价 33.99 美元，通过粘胶固定在开关附近，用机械臂物理按压或拉动开关，可远程控制或自动化任何带物理按钮的设备，如咖啡机、灯等。",
+              "source_url": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+              "source_name": "The Verge",
+              "published_at": "2026-07-08T13:30:00-04:00"
+            }
+          ]
+        }
+      ]
     },
     {
       "category": "更多",
@@ -32,39 +313,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Valve 更新 Steam 硬件运行 Win11 资源页面，覆盖三款设备六类驱动",
-              "brief": "Valve 更新了 Steam 硬件运行 Windows 11 的官方资源页面，新增对 Steam Machine 的支持说明，并收录了 APU、图形、SD 卡读卡器、Wi-Fi、蓝牙和音频六类驱动。该页面覆盖 Steam Deck LCD、Steam Deck OLED 和 Steam Machine 三款设备，旨在为用户安装 Windows 系统提供所需驱动链接，但 Valve 明确表示不提供运行 Windows 的技术支持。",
-              "source_url": "https://www.ithome.com/0/974/382.htm",
+              "title": "华为Pura 80系列官方翻新版上架，4299元起，降价2200至3700元",
+              "brief": "华为官方翻新机上架Pura 80 Pro、Pro+和Ultra三款机型，价格从4299元起，较首发价降低2200至3700元。这些翻新机源自7天无理由退货及15天换货产品，经严格翻新流程处理，性能与全新机一致，采用全新包装，外观成色接近新机，并提供一年质保。",
+              "source_url": "https://www.ithome.com/0/974/472.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T10:43:31+08:00"
+              "published_at": "2026-07-09T12:42:49+08:00"
             },
             {
-              "title": "思特威发布 50MP 手机 CMOS SC570XS，搭载 Lofic HDR 3.0 技术",
-              "brief": "思特威推出全新 50MP 手机图像传感器 SC570XS，采用 1/1.56 英寸 1.0μm 像素尺寸和 Stack 工艺，集成 Lofic HDR 3.0、SFCPixel-2 及 AllPix ADAF 等技术。该传感器最高动态范围达 111dB，支持 4K 120fps 视频录制和 HDR 模式下的 4K 60fps，并具备全像素和部分像素两种相位对焦模式。SC570XS 主要面向中高端智能手机主摄，现已量产送样。",
-              "source_url": "https://www.ithome.com/0/974/378.htm",
+              "title": "支付宝客服就花呗服务问题致歉，系统升级已完成并设三天宽限期",
+              "brief": "支付宝客服就花呗服务问题致歉，称系统升级已完成，还款有三天宽限期，在宽限期内还款不影响征信。经测试，花呗还款页面已恢复正常。",
+              "source_url": "https://www.ithome.com/0/974/471.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T10:41:45+08:00"
+              "published_at": "2026-07-09T12:40:34+08:00"
             },
             {
-              "title": "腾讯搜狗输入法全面适配鸿蒙生态，支持多端剪贴板互通",
-              "brief": "腾讯搜狗输入法成为首个全面适配华为鸿蒙生态的输入法产品，在鸿蒙版中实现了与 Android、iOS、Windows、Mac 等平台能力的全面对齐。核心功能包括跨设备复制粘贴，用户登录同一账号后可在不同设备间一键复制文字和图片，并支持隐私开关。此外，语音识别准确率提升至 98%，支持方言和外语混合输入，皮肤资源和个人词库也能跨平台同步。",
-              "source_url": "https://www.ithome.com/0/974/377.htm",
+              "title": "美加墨世界杯阿根廷vs埃及比赛期间，谷歌搜索使用量创历史新高",
+              "brief": "在2026年美加墨世界杯阿根廷对阵埃及的比赛中，谷歌搜索使用量创下历史新高。比赛最终阿根廷3:2逆转取胜，埃及一度2:0领先。埃及足协批评VAR介入导致一粒进球被判无效，进一步推高了搜索量。谷歌未披露具体搜索内容或流量构成。",
+              "source_url": "https://www.ithome.com/0/974/470.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T10:39:59+08:00"
+              "published_at": "2026-07-09T12:36:15+08:00"
             },
             {
-              "title": "Rambus 推出 9600MT/s DDR5 RDIMM 内存模组芯片组解决方案",
-              "brief": "Rambus 发布支持 9600MT/s 数据传输速率的 DDR5 RDIMM 内存模组芯片组解决方案，较前代提速 20%，旨在提升 AI 推理和 HPC 工作负载性能。该方案核心为 RCD06 寄存器时钟驱动器芯片，并集成了 PMIC5030、SPD Hub 和温度传感器等组件，以简化 RDIMM 设计、加快上市时间并确保高速下的信号与功率完整性。",
-              "source_url": "https://www.ithome.com/0/974/371.htm",
+              "title": "《原神》7.0版本设备性能要求更新，天玑7030等存在兼容性风险",
+              "brief": "《原神》7.0版本更新设备性能要求，新增部分SoC型号存在兼容性风险，包括紫光展锐T606系列和联发科天玑7020、7030等。这些设备受GPU架构限制，可能无法稳定运行。其他平台配置要求不变，安卓端最低仍为骁龙660或Helio G88。",
+              "source_url": "https://www.ithome.com/0/974/469.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T10:33:33+08:00"
+              "published_at": "2026-07-09T12:31:40+08:00"
             },
             {
-              "title": "全国最大单体国产 AI 算力池落地郑州，国家超算互联网核心节点上线",
-              "brief": "国家超算互联网核心节点在郑州正式上线，可对外提供超过 10 万卡的国产 AI 算力，为全国最大规模的单体国产 AI 算力资源池。该节点采用中科曙光 scaleX 万卡超集群系统，兼容 CUDA 生态并支持多品牌加速卡混合部署，具备向十万卡、百万卡扩展能力。截至 2026 年 5 月，已连接全国 30 余家超算与智算中心，提供计算、模型等七大类服务。",
-              "source_url": "https://www.ithome.com/0/974/370.htm",
+              "title": "谷歌宣布8月31日起从Chrome商店移除所有Manifest V2扩展程序",
+              "brief": "谷歌宣布将于2026年8月31日从Chrome网上应用店中移除所有Manifest V2扩展程序。MV3协议旨在提升安全性、隐私和性能，但限制了广告拦截工具的过滤规则数量。已安装的MV2扩展在Chrome 138及更早版本中保留，但无法更新；更换设备或重装后无法重新安装。用户可考虑不升级Chrome或改用Firefox。",
+              "source_url": "https://www.ithome.com/0/974/468.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T10:31:26+08:00"
+              "published_at": "2026-07-09T12:26:27+08:00"
             }
           ]
         },
@@ -72,39 +353,192 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "消息称三星晶圆代工部分制程涨价",
-              "brief": "三星电子已将晶圆代工新客户的供货价格提高约15%，主要针对4nm、5nm等先进制程及部分车用8nm制程节点。此前台积电已通知主要客户计划上调价格5%至10%。三星并非全面提价，而是侧重在需求集中的特定节点上调整价格。",
-              "source_url": "https://36kr.com/newsflashes/3887810882910981?f=rss",
+              "title": "普洛斯与乌兰察布市政府签署战略合作协议，打造GW级源网荷储一体化智算产业基地",
+              "brief": "普洛斯与乌兰察布市人民政府签署战略合作协议，双方将共建GW级超大规模绿电智算产业基地。该项目旨在通过源网荷储一体化模式，利用当地绿电资源，推动智算产业低碳发展，进一步支撑区域数字经济基础设施建设。",
+              "source_url": "https://36kr.com/newsflashes/3887928494209537?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 10:45:44  +0800"
+              "published_at": "2026-07-09 12:45:23  +0800"
             },
             {
-              "title": "“泽塔聚变”完成数亿元天使轮融资",
-              "brief": "可控核聚变企业“泽塔聚变”完成数亿元天使轮融资，由北京市绿色能源和低碳产业投资基金领投，梅花创投、松禾资本、亦庄产投、深开鸿、中科创星等机构联合投资。融资将用于Z箍缩聚变装置迭代研发、工程体系搭建和人才梯队扩容，推动Z箍缩聚变-裂变混合堆工程落地。",
-              "source_url": "https://36kr.com/newsflashes/3887808277871112?f=rss",
+              "title": "TPG、黑石拟出售豪洛捷医疗外科业务，目标估值超40亿美元",
+              "brief": "据英国《金融时报》援引知情人士消息，TPG与黑石计划出售豪洛捷旗下外科业务板块，寻求超40亿美元交易对价，以偿还债务并回笼去年收购该公司的资金。目前出售流程尚处初期阶段，最终未必能达成交易。今年4月，TPG、黑石联合穆巴达拉投资公司与新加坡政府投资公司，以183亿美元完成豪洛捷私有化收购。",
+              "source_url": "https://36kr.com/newsflashes/3887922280086274?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 10:43:05  +0800"
+              "published_at": "2026-07-09 12:39:03  +0800"
             },
             {
-              "title": "韩国发行17亿欧元外汇稳定债券，创欧元债发行规模纪录",
-              "brief": "韩国财政部发行17亿欧元外汇稳定债券，为该国最大规模欧元债券发行。债券分三年期7亿欧元和七年期10亿欧元，收益率分别为2.981%和3.285%，利差均创历史最低。",
-              "source_url": "https://36kr.com/newsflashes/3887806804015880?f=rss",
+              "title": "蚂蚁灵波同日开源两大模型，推动世界模型与具身智能视频生成的双升级",
+              "brief": "蚂蚁灵波科技连续开源LingBot-World 2.0与LingBot-Video两款新模型，分别面向实时交互世界生成和具身智能视频生成。LingBot-World 2.0支持小时级实时生成、720p/60fps高清输出，并首次将Agent机制引入世界模型；LingBot-Video是全球首个基于MoE架构、面向具身智能的开源视频生成基础模型，为机器人理解动作、任务和物理世界提供新的开源底座。",
+              "source_url": "https://36kr.com/newsflashes/3887921785567752?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 10:41:35  +0800"
+              "published_at": "2026-07-09 12:38:33  +0800"
             },
             {
-              "title": "国家超算互联网核心节点正式上线",
-              "brief": "在2026河南省人工智能大会上，国家超算互联网核心节点正式上线运行。该项目旨在构建覆盖全国的计算资源统筹调度体系，承担运营管理、资源调度等核心功能。该节点可对外提供超过10万卡的国产AI算力，是平台上线以来接入的最大规模单体国产AI算力资源池。",
-              "source_url": "https://36kr.com/newsflashes/3887797387344387?f=rss",
+              "title": "雀巢将斥资6.88亿美元建设泰国中心，新增520个就业岗位",
+              "brief": "泰国已批准雀巢泰国有限公司一项230亿泰铢（约6.88亿美元）的投资项目，用于建设智能工厂与配送中心，助力泰国打造区域食品饮料制造中心。该厂选址沙没巴干府，计划2028年第四季度投产，年产速溶咖啡、复合咖啡饮品及即饮饮料17万吨，预计新增520个就业岗位。",
+              "source_url": "https://36kr.com/newsflashes/3887912675932935?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 10:32:01  +0800"
+              "published_at": "2026-07-09 12:29:17  +0800"
             },
             {
-              "title": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
-              "brief": "两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。倡导团体和部分州监管机构警告，合并可能导致流媒体订阅价格上涨、裁员及内容供应缩减。",
-              "source_url": "https://36kr.com/newsflashes/3887787482888711?f=rss",
+              "title": "上汽金石等入股首形科技",
+              "brief": "天眼查App显示，首形科技（上海）有限公司近日发生工商变更，新增无锡上汽金石创新产业基金合伙企业（有限合伙）、金石深合（贵州）数字科技股权投资合伙企业（有限合伙）等为股东，注册资本由约451.5万人民币增至约522.6万人民币。该公司成立于2024年6月，法定代表人为胡宇航，经营范围含智能机器人研发、销售等，由胡宇航、上海首伴科技合伙企业（有限合伙）等共同持股。",
+              "source_url": "https://36kr.com/newsflashes/3887907716381442?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-09 10:21:56  +0800"
+              "published_at": "2026-07-09 12:24:14  +0800"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "据报道，id Software在裁员前曾构思《完美黑暗》新作、约翰·威克风格游戏等项目",
+              "brief": "据GamesBeat报道，id Software裁减了185名全职员工中的92人，导致多个项目前景不明。该工作室此前正探索多个新项目，包括一款《毁灭战士》合作/多人游戏、一款新《完美黑暗》游戏（该IP在Xbox关闭The Initiative并取消其重启后可用），以及一款代号“Fury”的黑色科幻游戏，灵感来自《约翰·威克》，融合武术与枪战，设定在芝加哥和路易斯安那州黑帮背景中。此外还有一款《西部世界》风格的生存游戏。一位被裁员工表示不确定这些项目能否推进，感觉像是“一系列膝跳反应”。目前不清楚id Software是否会转为支持工作室。",
+              "source_url": "https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T08:08:14+08:00"
+            },
+            {
+              "title": "《沙丘：第三部》预告片活动揭示激烈战斗片段，将在《奥德赛》前放映",
+              "brief": "在洛杉矶举行的活动上，《沙丘：第三部》发布了预告片并放映了一段扩展战斗序列，该片段此前在CinemaCon展示过，此次以IMAX 70mm格式呈现。导演丹尼斯·维伦纽瓦介绍，该片段展示了保罗在《沙丘：第二部》中决策的后果。片段中，一支载有士兵的登陆舰编队穿过巨大风暴，其中一艘舰船被闪电击中爆炸。舰上包括斯第尔格（哈维尔·巴登饰）在内的士兵神情紧张。到达行星表面后，地面升起一座布满武器的塔楼，发射红色激光束般的火力，造成大量伤亡。该片段被描述为类似二战电影的紧张氛围。",
+              "source_url": "https://www.ign.com/articles/dune-part-three-trailer-battle-sequence-the-odyssey",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T04:16:36+08:00"
+            },
+            {
+              "title": "《沙丘：第三部》新预告片突出保罗·厄崔迪与契妮之间的裂痕",
+              "brief": "新预告片显示，在《沙丘：第二部》之后，保罗已被权力腐蚀，成为冷酷的皇帝，导致他与契妮关系紧张。契妮似乎与赛特尔（罗伯特·帕丁森饰）联手，试图推翻并杀死保罗。保罗还将面对海特，即他朋友邓肯·爱达荷的克隆体。尽管《沙丘》宇宙还有更多故事可改编，但《沙丘：第三部》被宣传为“史诗结局”。维伦纽瓦无意再执导更多《沙丘》电影，而是将目光投向下一部詹姆斯·邦德电影。该片改编自《沙丘救世主》，可能进行改编以成为最终章。影片将于2026年12月18日上映，与《复仇者联盟：末日》竞争，但会有数周IMAX独家放映。",
+              "source_url": "https://www.ign.com/articles/dune-part-threes-new-trailer-highlights-the-rift-between-paul-atreides-and-chani",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T02:50:48+08:00"
+            },
+            {
+              "title": "黑曜石据报取消《宣誓2》以专注于开发新《辐射》游戏",
+              "brief": "据彭博社报道，作为Xbox大规模重组的一部分，黑曜石娱乐取消了《宣誓2》及其他未公布项目的计划，转而由乔什·索耶领导开发一款新《辐射》游戏。索耶曾担任《辐射：新维加斯》的首席设计师和项目总监，该作深受粉丝喜爱。贝塞斯达将与黑曜石合作该项目。一小部分员工将继续为《宣誓2》工作，希望日后重启。此次重组还导致黑曜石裁员四分之一。新《辐射》游戏的消息令粉丝兴奋，因为该系列已有十多年未推出单人主线作品，而贝塞斯达正忙于《上古卷轴6》，新《辐射》可能还需近十年。",
+              "source_url": "https://www.ign.com/articles/obsidian-cancels-avowed-2-to-focus-on-new-fallout-game",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T02:48:15+08:00"
+            },
+            {
+              "title": "Skybound意外推出《特种部队》与《古墓丽影》漫画跨界合作",
+              "brief": "在《特种部队》第330期中，劳拉·克劳馥意外登场，为即将到来的五期限定系列《特种部队：真正的美国英雄/古墓丽影》铺垫。该系列由凯尔·希金斯编剧、埃琳娜·卡萨格兰德作画，将于2026年10月推出。故事中，劳拉与“沉船”等特种部队成员联手，前往眼镜蛇岛寻找失落的宝藏，而男爵夫人和迪斯特罗则试图抢夺。希金斯表示，将劳拉与特种部队结合是“显而易见的吸引力”，并会深入挖掘两个品牌。此外，孩之宝还将劳拉·克劳馥引入其长期运行的《特种部队》分类系列。",
+              "source_url": "https://www.ign.com/articles/skybound-unveils-surprise-gi-joe-and-tomb-raider-comic-crossover",
+              "source_name": "IGN",
+              "published_at": "2026-07-09T02:47:11+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "Terraink：将你去过的地方制成地图海报",
+              "brief": "Terraink 是一个开源项目，允许用户基于 OpenStreetMap 数据创建个性化的地图海报。用户可以通过搜索地名、调整范围、配色和尺寸，并上传 GPX 轨迹文件来生成地图。该工具支持高分辨率 PNG 导出，适合打印悬挂。项目托管在 GitHub，也有可直接使用的部署版本。",
+              "source_url": "https://www.appinn.com/terraink/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-09T11:19:06+08:00"
+            },
+            {
+              "title": "Zilazila：在 Apple TV 上观看 B 站视频",
+              "brief": "Zilazila 是一款让用户在 Apple TV 上观看 B 站视频的工具。用户只需搜索并安装 Zilazila，然后在 SMB 中输入“zilazila://”即可使用。该项目通过视频教程展示了具体操作步骤，为 Apple TV 用户提供了访问 B 站内容的便捷方式。",
+              "source_url": "https://www.appinn.com/zilazila-bilibili-appletv/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-08T18:06:53+08:00"
+            },
+            {
+              "title": "PhotoGIMP：将 GIMP 界面改为类似 Photoshop 的布局",
+              "brief": "PhotoGIMP 是一个 GitHub 上的开源项目，旨在将 GIMP 的界面和键盘快捷键调整为 Adobe Photoshop 的风格，方便用户从 Photoshop 迁移。它提供类似 Photoshop 的工具布局、自定义启动画面、最大化画布空间以及官方 Photoshop 快捷键。安装前需先运行一次 GIMP 以生成配置文件，然后将 PhotoGIMP 复制到相应目录。",
+              "source_url": "https://www.appinn.com/photogimp/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-07T17:31:07+08:00"
+            },
+            {
+              "title": "Open Printer：超小型开源打印机",
+              "brief": "Open Printer 是一款超小型开源喷墨打印机，使用 HP 兼容墨盒，支持 A4/A3 纸张和卷纸，具备自动裁切功能。它由 Raspberry Pi Zero W 和 STM32 控制，支持 USB-C、Wi-Fi 和蓝牙连接，兼容 AirPrint 及主流操作系统。该打印机尺寸仅为 50×10×11 cm，可桌面或壁挂使用，目前尚未正式发售。",
+              "source_url": "https://www.appinn.com/open-printer/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-07T10:40:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "V社蒸汽机死亡红线实为出厂配置错误，更新BIOS即可修复",
+              "brief": "多名网友反映购买的Steam Machine蒸汽机开机后出现代表GPU故障的死亡红线，但多次插拔电源后又能恢复正常。V社工程师解释称，这是出厂配置失误导致内存训练失败时错误地显示了GPU故障指示灯，并非真正的硬件故障。V社已发布BIOS固件修正此问题，用户可按官方步骤释放CMOS电量并重新进行内存训练即可恢复正常。",
+              "source_url": "https://www.landian.news/archives/113867.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T12:30:47+08:00"
+            },
+            {
+              "title": "Caddy服务器证书签发失败，因ZeroSSL要求CSR包含区域代码",
+              "brief": "开源Web服务器Caddy部分用户报告证书签发突然失败，原因是证书颁发机构Sectigo加强了CSR验证，要求必须包含两位国家或地区代码，而Caddy默认的CSR生成逻辑不包含区域代码，导致通过ZeroSSL/Sectigo申请证书时中断。使用Caddy的开发者需立即检查服务器证书状态，可通过手动指定区域代码或从其他平台申请证书临时解决。Caddy正在与ZeroSSL协调修复。",
+              "source_url": "https://www.landian.news/archives/113866.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T12:00:46+08:00"
+            },
+            {
+              "title": "发现KVM虚拟机逃逸漏洞的研究人员获谷歌25万美元奖金",
+              "brief": "安全研究人员发现Linux内核KVM虚拟化技术中的沙盒逃逸漏洞CVE-2026-53359，攻击者可从虚拟机绕过限制在宿主机上执行任意代码，影响英特尔和AMD平台。研究人员负责任地向内核团队报告，修复后公布概念验证代码。谷歌通过其2023年发起的kvmCTF项目，向研究人员支付最高等级的完整虚拟机逃逸奖金25万美元。",
+              "source_url": "https://www.landian.news/archives/113865.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T11:30:34+08:00"
+            },
+            {
+              "title": "谷歌将于8月31日从Chrome商店下架所有MV2扩展程序",
+              "brief": "谷歌宣布从2026年8月31日起，将Chrome Web Store中所有基于Manifest v2协议的扩展程序删除，届时用户无法再下载或获取更新。仍在依赖MV2扩展的用户需提前备份CRX安装包，可使用CRX Extractor/Downloader等工具下载。部分开发者可能在官网或GitHub提供旧版本，但自行备份更为稳妥。",
+              "source_url": "https://www.landian.news/archives/113864.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T11:00:23+08:00"
+            },
+            {
+              "title": "日本KDDI公布黑客攻击结果：泄露1223万用户邮箱和761万用户密码",
+              "brief": "日本电信公司KDDI确认6月遭黑客攻击，约1223万名用户的电子邮件地址被窃取，其中761万名用户的密码也被窃取，部分密码可能为明文保存。攻击源于KDDI邮件基础系统使用的软件存在漏洞，最早可追溯至5月。KDDI已与下游邮件服务提供商合作强制用户修改密码，并提醒用户警惕撞库攻击。",
+              "source_url": "https://www.landian.news/archives/113863.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-09T10:30:19+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "奔驰二季度在华销量98600辆，同比暴跌三成",
+              "brief": "奔驰2026年第二季度在华销量仅为98600辆，同比大幅下滑30%，远超2025年全年19.3%的跌幅。全球市场同样承压，但纯电车型销量同比增长50%至6.3万辆，仍无法弥补燃油车基本盘的下滑。中国本土新能源品牌在30万至50万元价位段快速崛起，理想、问界等蚕食传统豪华车市场，而奔驰燃油车主力C级、E级等终端大幅优惠仍难阻销量下行。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568432.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T12:33:46+08:00"
+            },
+            {
+              "title": "世界杯阿根廷绝杀埃及刷新Google搜索历史使用纪录",
+              "brief": "在阿根廷对阵埃及的世界杯比赛中，阿根廷在最后15分钟连入三球完成2:0逆转绝杀，这一戏剧性场面导致大量用户涌入Google搜索查看实时胜率、规则和比分，瞬时流量创下历史新高。Google在赛事期间提供实时胜负概率、首发阵容和文字直播等服务，成为球迷获取信息的主要入口。美国足球普及度较低，也促使更多观众通过搜索了解比赛。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568430.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T12:02:46+08:00"
+            },
+            {
+              "title": "《刺客信条：黑旗》重制版Denuvo被破解，盗版比正版提前发布",
+              "brief": "育碧推出的《刺客信条：黑旗》重制版采用Denuvo反篡改工具保护，但该工具因影响游戏性能而备受玩家批评。自6月7日起，重制版的破解版已在网上流传，盗版甚至比正版更早可用。尽管Denuvo是商业级DRM，但高昂授权成本和玩家反感导致越来越多游戏放弃使用，而黑旗重制版的破解再次引发对性能与版权保护平衡的讨论。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1568428.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T12:01:34+08:00"
+            },
+            {
+              "title": "Google将从8月31日起从Chrome商店下架所有MV2扩展程序",
+              "brief": "Google宣布将于2026年8月31日从Chrome网上应用店删除所有基于Manifest V2协议的扩展程序，届时用户无法再下载安装。此前Chrome已逐步限制MV2扩展的使用，并废弃了相关企业策略。仍依赖MV2扩展的用户需提前使用第三方工具如CRX Extractor备份CRX安装包，以便在旧版Chrome或支持MV2的浏览器中手动安装。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568426.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T12:01:29+08:00"
+            },
+            {
+              "title": "索尼放弃实体盘原因曝光：每卖一张盘亏损30%",
+              "brief": "据记者Jason Schreier分析，索尼转向数字版游戏的主要原因在于利润率差异。第一方游戏实体版销售中，索尼需损失约30%收入，加上生产和运输成本，利润被大幅压缩；而数字版在自家商店销售可保留全部收入。第三方游戏数字版分成也远高于实体。索尼认为即使失去部分实体玩家，也不会对业务造成重大打击，因此决定逐步放弃实体盘。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1568424.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-09T11:57:34+08:00"
             }
           ]
         }
