@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T10:49:50.223676+08:00",
+  "generated_at": "2026-07-10T12:49:38.363945+08:00",
   "sections": [
     {
       "category": "主要",
@@ -327,6 +327,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "微软确认 Windows 10 支持 WSL 容器，实现 GPU 直通",
+              "brief": "微软确认 Windows 10 可以安装 WSL 容器（WSL Containers），支持 GPU 直通。WSL 容器允许用户在不安装 Docker Desktop 的情况下运行 Docker 镜像，此前仅支持 Windows 11。微软产品经理证实，所有支持 WSL 的系统均可使用此功能。用户需将 Windows 10 升级至版本 2004 及以上，安装 WSL 2 并更新至预览版，通过 wslc --version 验证版本为 2.9.3.0 即可。GPU 直通功能让容器直接调用 NVIDIA 显卡，例如运行 PyTorch 等大模型相关程序。",
+              "source_url": "https://www.appinn.com/wsl-containers-windows-10/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-10T11:13:10+08:00"
+            },
+            {
               "title": "Chrome 应用商店将于2026年8月31日删除所有Manifest V2扩展",
               "brief": "Chrome官方开发文档更新显示，Chrome应用商店将在2026年8月31日移除所有剩余的Manifest V2扩展程序。此前，Chrome 138已停用Manifest V2扩展，用户无法重新启用。企业用户的ExtensionManifestV2Availability政策将在Chrome 139中移除。这意味着旧版扩展如uBlock Origin将彻底终结，用户需迁移至Manifest V3版本。",
               "source_url": "https://www.appinn.com/chrome-web-store-remove-manifest-v2-extensions/",
@@ -379,45 +386,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "微软发布Aurora 1.5天气预报模型，准确率达88.9%",
-              "brief": "微软发布了Aurora 1.5天气预报模型，在各项指标中以88.9%的准确率优于欧洲中期天气预报中心（ECMWF）模型。该模型以开放形式发布，适用于科研机构、政府部门和社会组织，并已集成到Microsoft Weather等商业产品中。目前模型已在GitHub开源，供用户下载研究。",
-              "source_url": "https://www.ithome.com/0/974/897.htm",
+              "title": "小米澎程 N90 Max“证件照”公布，车头、车尾、车侧一次看全",
+              "brief": "小米汽车旗下澎程 N90 Max 的官方外观照片公布，展示了车头、车侧和车尾的完整设计。新车采用封闭式前脸、传统门把手、无边框后视镜，车尾配备大型扰流板和贯穿式尾灯。官方此前表示该车“看起来 SUV，坐进去 MPV”。雷军在微博互动中透露，第一排座椅可旋转与第二排对坐，配有可快拆收纳的桌子，第二排有大电视，三排座椅启用状态下仍可放下至少7个行李箱。",
+              "source_url": "https://www.ithome.com/0/974/970.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T10:44:32+08:00"
+              "published_at": "2026-07-10T12:45:03+08:00"
             },
             {
-              "title": "零跑上半年意大利上牌24269台，同比增长1448.8%",
-              "brief": "零跑汽车2026年上半年在意大利上牌24269台，同比增长1448.8%，纯电车型拿下市占率第一。零跑于2026年6月宣布全球累计交付达150万台，从100万到150万仅用8个月。此前Stellantis集团投资约15亿欧元获取零跑约20%股权，成立合资公司“零跑国际”负责海外市场销售。",
-              "source_url": "https://www.ithome.com/0/974/892.htm",
+              "title": "联想 2026 款 YOGA Pro 15 锐龙版笔记本首销：AI Max+ 388、配 64G RAM + 1T SSD，19999 元",
+              "brief": "联想 2026 款 YOGA Pro 15 锐龙版笔记本正式开售，售价 19999 元。该机厚度 16.7mm，重量 1.7kg，配备 15.3 英寸 2560x1600 分辨率 165Hz OLED 屏幕，覆盖 100% sRGB 和 DCI-P3 色域。C 面 7 英寸触摸板支持 Wacom 手写笔 4096 级压感绘画。搭载 AMD 锐龙 AI Max+ 388 处理器，64GB LPDDR5X 内存和 1TB SSD，支持 Wi-Fi 7，内置 84Wh 电池并支持 140W 快充。",
+              "source_url": "https://www.ithome.com/0/974/969.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T10:41:54+08:00"
+              "published_at": "2026-07-10T12:28:48+08:00"
             },
             {
-              "title": "JSAUX推出Steam Machine替换前面板，提供三种显示选择",
-              "brief": "JSAUX正式公布了Steam Machine的替换前面板，提供三种显示选择。面板剩余位置放置了三颗按键和一个旋钮状凸起，功能尚未明确。此前V社已开源Steam Machine主机墨水屏前面板，允许用户3D打印自制。",
-              "source_url": "https://www.ithome.com/0/974/891.htm",
+              "title": "全球首次运载火箭网系回收！我国长征十号乙运载火箭成功实现一子级可控回收",
+              "brief": "我国长征十号乙运载火箭成功实现一子级可控回收，这是全球首次运载火箭网系回收。长征十号乙是两级可重复使用商业货运火箭，为载人登月同源衍生型号，采用无着陆腿、海上柔性网捕获方案。一子级分离再入后，箭体末端释放挂钩，由 2.5 万吨级回收船“领航者号”的巨型阻拦网精准锁钩缓冲回收。该火箭旨在验证低轨卫星互联网发射和载人登月关键技术。",
+              "source_url": "https://www.ithome.com/0/974/968.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T10:41:43+08:00"
+              "published_at": "2026-07-10T12:25:57+08:00"
             },
             {
-              "title": "荣耀WIN游戏本H9三角洲行动联名款发布，3D浮雕金属A面",
-              "brief": "荣耀发布了WIN游戏本H9三角洲行动职业赛事联名款，采用黑海配色和3D浮雕金属A面，融入游戏元素彩蛋。配置Intel Core Ultra 9 290HX Plus处理器、RTX 5070显卡，支持240W性能释放，配备300Hz电竞屏。同时发布荣耀手表6 Plus张雪机车联名款，支持机车模式。",
-              "source_url": "https://www.ithome.com/0/974/889.htm",
+              "title": "我国首个：中科曙光官宣全国产 10 万卡 AI 超集群“曙光 8000（登峰）”落成",
+              "brief": "中科曙光宣布我国首个全国产 10 万卡 AI 超集群“曙光 8000（登峰）”落成。该集群采用“超智融合”技术路线，支持 FP64 到 INT8 全精度，覆盖科学计算、大模型训练等场景。系统基于海光等国产芯片，使用 scaleFabric 类 IB 高速网络和 ParaStor 分布式存储，采用浸没式相变液冷技术支撑单机柜 MW 级部署。同时，曙光与北京科学智能研究院启动第二套全国产十万卡超智融合算力系统建设。",
+              "source_url": "https://www.ithome.com/0/974/966.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T10:41:19+08:00"
+              "published_at": "2026-07-10T12:22:40+08:00"
             },
             {
-              "title": "虚幻5国产MMORPG《诡秘之主》公测定档8月21日",
-              "brief": "虚幻5引擎打造的国产MMORPG游戏《诡秘之主》宣布公测定档2026年8月21日，并公布了PC及移动端的配置要求。安卓需骁龙7 Gen2及以上，iOS需iPhone 12 Pro及以上，PC推荐RTX 3070 Ti及以上显卡。游戏此前已进行过“灰雾测试”。",
-              "source_url": "https://www.ithome.com/0/974/882.htm",
+              "title": "雷克萨斯全新纯电 LFA 超跑首秀：引擎声浪没了，“驾控乐趣”还在",
+              "brief": "雷克萨斯全新纯电 LFA 超跑概念车首次亮相，计划明年发布，设计已接近量产状态。该车基于轻量化铝制架构，外观比 GR GT 更克制，强调极简与含蓄。LFA 搭载固态电池，是雷克萨斯首款采用该技术的量产车型。项目团队表示，不想简单模拟内燃机声浪，而是希望提供真实可信的纯电驾驶体验，利用电机响应快、输出线性的优势，消除无用声音和振动，重新定义感官体验。",
+              "source_url": "https://www.ithome.com/0/974/965.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T10:35:39+08:00"
+              "published_at": "2026-07-10T12:21:16+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "JK西蒙斯谈被取消的《蝙蝠女》电影：我们拍得很开心",
+              "brief": "JK西蒙斯在DC宇宙中饰演戈登警长，原计划在《蝙蝠女》中回归，该片已拍摄完成但被华纳兄弟取消以获取税收减免。西蒙斯表示自己也没看到成片，且该片永远不会发行。这一决定与华纳其他项目一同被砍，成为无法面世的DC电影之一。",
+              "source_url": "https://www.ign.com/articles/we-really-had-a-good-time-making-it-jk-simmons-speaks-out-about-canceled-batgirl-movie",
+              "source_name": "IGN",
+              "published_at": "2026-07-10T10:45:34+08:00"
+            },
+            {
+              "title": "《黎明杀机》《控制》和麦当劳协助宣传《刺客信条：黑旗 重制版》",
+              "brief": "多个游戏及品牌社交媒体账号被《刺客信条：黑旗 重制版》营销活动接管，包括《黎明杀机》《控制》和麦当劳，它们发布内容表示“被登船”。育碧旗下游戏账号也参与其中，官方还发布了免费宠物猴兑换码。IGN给该重制版打出9分，称其不仅是画面升级，更将这款经典游戏提升至现代标准。",
+              "source_url": "https://www.ign.com/articles/dead-by-daylight-control-and-mcdonalds-are-helping-advertise-assassins-creed-black-flag-resynced",
+              "source_name": "IGN",
+              "published_at": "2026-07-10T10:39:30+08:00"
+            },
             {
               "title": "约翰·卡马克回应id Software裁员：游戏需要成功，不能只受喜爱",
               "brief": "id Software母公司微软游戏部门大规模裁员，96名员工在德克萨斯州理查森总部被裁，另有40名远程员工被解雇，总计约50%员工失业。这是新任Xbox CEO Asha Sharma对微软游戏业务进行“重置”的一部分，本周一已有1600名员工被裁，本财年剩余时间还将裁减1600人。四家Xbox工作室已被关闭，另一家也岌岌可危。微软战略转向多平台发行、手持Xbox设备（实为迷你Windows电脑），未来Xbox主机可能只是游戏PC。id Software联合创始人约翰·卡马克回应称，游戏需实现商业成功才能长期发展，仅受玩家喜爱不足以保证存续。",
@@ -438,26 +459,33 @@
               "source_url": "https://www.ign.com/articles/xbox-ceo-asha-sharma-is-advising-the-federal-reserve-on-the-economic-impact-of-ai-as-part-of-a-productivity-and-jobs-taskforce",
               "source_name": "IGN",
               "published_at": "2026-07-10T05:44:10+08:00"
-            },
-            {
-              "title": "《使命召唤：黑色行动1和2》PS5版现已推出，但价格高昂",
-              "brief": "《使命召唤：黑色行动1》和《黑色行动2》的PS5移植版现已发售，每款售价40美元，两作合计80美元。如果包含季票（每款29.99美元），完整体验需花费140美元。不过PlayStation Plus会员可享受折扣，每款游戏20美元，季票9美元，总计约60美元，优惠持续至8月6日。此前粉丝已担忧价格过高。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost",
-              "source_name": "IGN",
-              "published_at": "2026-07-10T01:26:09+08:00"
-            },
-            {
-              "title": "《刺客信条：黑旗 重制版》在Steam上创下系列最高同时在线玩家数",
-              "brief": "《刺客信条：黑旗 重制版》在Steam上创下了系列最高同时在线玩家数，峰值达99451人。这一成绩超过了2025年的《刺客信条：影》（64825人）和《刺客信条：奥德赛》（62069人）。需要注意的是，并非所有《刺客信条》游戏都在Steam首发，例如广受欢迎的《英灵殿》后来才登陆该平台。",
-              "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-already-earned-the-series-biggest-player-peak-on-steam",
-              "source_name": "IGN",
-              "published_at": "2026-07-10T00:53:42+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "OpenAI宣布停止开发Atlas浏览器，相关功能集成到ChatGPT",
+              "brief": "OpenAI宣布基于AI的独立桌面浏览器Atlas将于8月9日停用，其浏览器功能将集成到ChatGPT桌面应用中。但集成后的浏览器仅是Codex内置功能，与独立浏览器体验完全不同。用户需在停用前导出书签和浏览记录，OpenAI将发送通知提醒迁移。",
+              "source_url": "https://www.landian.news/archives/113894.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T11:41:22+08:00"
+            },
+            {
+              "title": "Claude Code重置所有订阅用户额度，允许继续使用Fable 5",
+              "brief": "在OpenAI发布GPT-5.6并重置Codex额度后，Claude Code也重置了所有订阅用户额度，让开发者可继续使用Claude Fable 5模型。此前Fable 5的免费额度将于7月12日到期，之后需按API价格付费。此举被解读为针对性竞争，Codex产品经理回应称“闻到了恐惧的味道”。",
+              "source_url": "https://www.landian.news/archives/113893.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T11:11:36+08:00"
+            },
+            {
+              "title": "Codex完成硬重置，让用户体验最新发布的GPT-5.6",
+              "brief": "GPT-5.6发布后，Codex团队直接重置了所有用户的5小时和当周额度至100%，而非增加手动重置次数。用户可立即体验新模型，但部分未用完额度的用户可能感觉浪费。此外，OpenAI赠送的首次手动重置机会将于7月12日到期，建议用户尽快使用。",
+              "source_url": "https://www.landian.news/archives/113892.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T10:49:21+08:00"
+            },
             {
               "title": "Meta推出闭源商业模型Muse Spark 1.1，编码能力一般但价格便宜",
               "brief": "Meta发布闭源商业模型Muse Spark 1.1，该模型为原生多模态模型，支持1M上下文窗口，重点强化智能体能力，可编排多智能体系统并处理跨应用工作流。编码能力在SWE-Bench Pro测试中得分为61.5，低于Claude Opus 4.8的69.2分。API调用价格为每百万输入1.25美元、每百万输出4.25美元，目前仅面向美国开发者通过Meta Model API平台提供公共预览。",
@@ -471,27 +499,6 @@
               "source_url": "https://www.landian.news/archives/113875.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-10T10:00:30+08:00"
-            },
-            {
-              "title": "Claude推出反思面板和防沉迷系统，提醒用户合理使用AI",
-              "brief": "Anthropic为Claude推出反思面板功能，帮助用户查看使用AI的方式、主要场景和频率，并定期提出反思性问题，如哪些事应自己完成而非依赖AI。同时上线防沉迷系统，当使用时间达到阈值时弹出提醒，但用户可忽略或关闭。该功能面向已开启记忆功能的Free、Pro、Max用户，不会读取隐身聊天或连接工具中的底层文件。",
-              "source_url": "https://www.landian.news/archives/113874.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-10T09:30:28+08:00"
-            },
-            {
-              "title": "微软与中国人民大学合作开源Flint，让AI智能体生成交互式图表",
-              "brief": "微软研究院与中国人民大学联合发布面向AI智能体的可视化中间语言项目Flint。Flint通过让AI先生成语义化的图表规格，再由编译器自动推导坐标轴、比例尺等底层配置，从而生成美观、可交互的图表，避免了直接编写复杂配置的脆弱性。项目已开源，提供JavaScript/TypeScript库和MCP服务器，Python版正在开发中。",
-              "source_url": "https://www.landian.news/archives/113873.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-10T09:00:29+08:00"
-            },
-            {
-              "title": "Cloudflare推出Drop功能：一分钟部署静态网站，无需域名和服务器",
-              "brief": "网络服务提供商Cloudflare推出名为Drop的新功能，用于托管纯静态网站。用户上传压缩包或文件夹后，系统自动识别内容并在云端启动隔离环境部署，通过Cloudflare CDN实现全球加速访问。默认生成的网站有效期60分钟，可通过认领绑定账户实现永久访问。该功能完全免费，支持随机域名，但仅限静态资源，不能调用数据库或后端程序。",
-              "source_url": "https://www.landian.news/archives/113872.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-10T08:30:27+08:00"
             }
           ]
         },
@@ -499,39 +506,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "蚂蚁灵波发布LingBot-VA 2.0",
-              "brief": "蚂蚁灵波发布了业界首个具身原生世界动作模型LingBot-VA 2.0。该模型代表具身智能发展的关键路线选择：机器人“大脑”不再依赖数字世界模型能力的嫁接，而是从动态建模、因果预测、实时执行等与环境交互的原始需求出发进行原生设计。",
-              "source_url": "https://36kr.com/newsflashes/3889229963934217?f=rss",
+              "title": "消息称台积电CoWoS 2027年月产能目标至少20万片",
+              "brief": "据报道，台积电计划到2027年将其先进封装CoWoS的月产能提升至至少20万片。这一目标反映了市场对高性能计算和AI芯片封装需求的持续增长。台积电正积极扩产以满足客户需求，目前其CoWoS产能已供不应求。",
+              "source_url": "https://36kr.com/newsflashes/3889342288034312?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 10:49:18  +0800"
+              "published_at": "2026-07-10 12:43:34  +0800"
             },
             {
-              "title": "日本6月企业物价指数同比上涨7.1%",
-              "brief": "日本央行7月10日公布的初步统计结果显示，6月日本企业物价指数同比上涨7.1%至135.4，涨幅较5月的6.6%进一步扩大，刷新2023年3月以来最高值。",
-              "source_url": "https://36kr.com/newsflashes/3889223226014211?f=rss",
+              "title": "长征十号乙运载火箭成功实现一子级可控回收",
+              "brief": "长征十号乙运载火箭近日完成一子级可控回收试验，标志着中国在可重复使用火箭技术领域取得重要进展。该火箭的一子级在分离后精准着陆，为未来降低发射成本、实现火箭复用奠定了基础。此次成功验证了多项关键技术。",
+              "source_url": "https://36kr.com/newsflashes/3889336420710921?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 10:42:27  +0800"
+              "published_at": "2026-07-10 12:37:36  +0800"
             },
             {
-              "title": "恒逸石化增资至约38.2亿",
-              "brief": "天眼查App显示，近日恒逸石化发生工商变更，注册资本由约36亿人民币增至约38.2亿人民币。该公司成立于1996年8月，法定代表人为邱奕博，经营范围包括化工产品生产、石油制品制造、合成材料制造等，由浙江恒逸集团有限公司等共同持股。",
-              "source_url": "https://36kr.com/newsflashes/3889220892473860?f=rss",
+              "title": "遥望科技副总裁余龙：直播电商下半场，内容资产时代到来",
+              "brief": "在2026中国互联网大会上，遥望科技副总裁余龙指出，直播电商正从流量驱动转向内容资产驱动。他认为行业核心问题已从“卖货”变为“经营”，强调过去比拼单场表现，现在则注重长期阵地建设。这一转变反映了直播电商的成熟化趋势。",
+              "source_url": "https://36kr.com/newsflashes/3889324404816390?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 10:40:04  +0800"
+              "published_at": "2026-07-10 12:25:22  +0800"
             },
             {
-              "title": "韩国金融监管部门正密切监控单一股票杠杆ETF对市场的影响",
-              "brief": "韩国金融监管部门正在密切监控单一股票杠杆ETF对市场的影响。此类ETF允许投资者对单只股票进行杠杆投资，可能放大市场波动。监管部门关注其潜在风险，以维护市场稳定。",
-              "source_url": "https://36kr.com/newsflashes/3889218228681474?f=rss",
+              "title": "国家能源局：推动发用侧双方以多年期交易合同、聚合交易等方式开展绿电交易",
+              "brief": "国家能源局印发《能源领域节能降碳行动计划（2026—2028年）》，提出健全市场机制，推动发用侧双方通过多年期合同和聚合交易等方式进行绿电交易。此举旨在促进清洁能源消纳，并研究将CCUS等项目纳入温室气体自愿减排机制。",
+              "source_url": "https://36kr.com/newsflashes/3889320203008514?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 10:37:22  +0800"
+              "published_at": "2026-07-10 12:21:06  +0800"
             },
             {
-              "title": "机构：2026年第二季度全球PC市场同比下滑3.6%",
-              "brief": "据机构最新数据，2026年第二季度全球PC市场出货量同比下滑3.6%。这一下降反映了全球需求疲软和库存调整的影响。具体品牌表现和地区差异等细节尚未公布。",
-              "source_url": "https://36kr.com/newsflashes/3889209841367555?f=rss",
+              "title": "上海仪电智算私募投资基金登记成立，出资额10.02亿",
+              "brief": "上海仪电智算私募投资基金近日登记成立，出资额10.02亿元。该基金聚焦智算领域，旨在通过资本支持推动算力基础设施和AI技术的发展。基金的成立反映了市场对智算资源的重视，有望加速相关产业布局。",
+              "source_url": "https://36kr.com/newsflashes/3889319530068486?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 10:28:50  +0800"
+              "published_at": "2026-07-10 12:20:25  +0800"
             }
           ]
         }
