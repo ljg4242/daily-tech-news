@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T08:50:09.062727+08:00",
+  "generated_at": "2026-07-10T10:49:50.223676+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌正在修复影响Google Home广播的Gemini烦人漏洞",
+              "brief": "谷歌已确认一个漏洞，导致Gemini无法正确处理Google Home设备的广播请求。该漏洞使Gemini将广播消息当作普通对话响应，而非发送到家庭扬声器。例如，用户说“该吃晚饭了”，Gemini回答“我不吃饭”。谷歌表示正在积极修复，并将在推出更新后通知用户。此前谷歌已迅速处理过类似问题。",
+              "source_url": "https://www.androidauthority.com/google-home-gemini-broadcast-bug-fix-3686067/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-10T10:02:25+08:00"
+            },
+            {
               "title": "谷歌迅速修复Home Speaker设置故障",
               "brief": "新用户设置Google Home Speaker时遇到错误，谷歌昨日确认问题并承诺修复，现修复已开始推送，预计24小时内覆盖所有设备。用户可拔插电源立即获取更新。此问题曾导致设备显示“未完全设置，请恢复出厂设置”的提示。",
               "source_url": "https://www.androidauthority.com/google-home-speaker-fix-3686038/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/openai-sunsetting-chatgpt-atlas-3686001/",
               "source_name": "Android Authority",
               "published_at": "2026-07-10T04:43:44+08:00"
-            },
-            {
-              "title": "Google 询问用户 Gemini 仍有哪些不足，反馈毫不留情",
-              "brief": "Google 副总裁 Josh Woodward 在 X 上询问用户 Gemini 仍有哪些问题未解决，收到超过 1700 条回复。排名第一的反馈是 Google Workspace 集成可靠性不足，其次是工具调用可靠性。Woodward 表示 Google 已同意改进，部分修复已应用于 Gemini Spark 代理，但整体可靠性仍需提升。此外，关于名人肖像保护的限制将保持不变。",
-              "source_url": "https://www.androidauthority.com/top-gemini-users-improvement-requests-3685987/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-10T03:53:04+08:00"
             }
           ]
         },
@@ -339,39 +339,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "OpenAI宣布GPT-5.6成为微软Copilot 365首选模型 回应双方合作破裂传闻",
-              "brief": "针对市场关于微软与OpenAI合作破裂的传闻，OpenAI于周四发布博客声明，明确表示GPT-5.6将成为微软Copilot 365的首选模型，为Word、Excel、PowerPoint等应用提供支持。此前有报道称微软在部分软件中改用自研AI模型以减少对OpenAI的依赖。OpenAI重申双方合作承诺，但“首选模型”具体含义尚不明确，分析认为微软仍可能继续探索多元化模型架构。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568552.htm",
+              "title": "调查显示45%的PS用户因放弃实体光盘考虑转向PC平台",
+              "brief": "一项调查显示，45%的PlayStation用户因索尼推行数字化政策、放弃实体光盘而考虑转向PC平台。玩家主要担忧失去对游戏库的控制权，无法交易或出售二手游戏，且PS商店定价高于PC平台。Digital Foundry的独立调查也显示多数参与者谴责索尼的数字化策略，许多主机用户称当前世代将是最后一台PlayStation。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1568566.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T08:36:21+08:00"
+              "published_at": "2026-07-10T09:39:11+08:00"
             },
             {
-              "title": "微软详解三类Windows更新：安全补丁、可选预览与紧急修复",
-              "brief": "微软近日发布说明，详细介绍了Windows更新的三种类型：第一类是每月第二个星期二的“补丁星期二”安全更新，包含安全与非安全修复，企业可通过Autopatch等工具部署；第二类是每月第四周发布的可选非安全预览更新，供IT管理员提前测试；第三类是紧急修复严重问题的额外发布更新，不受固定周期约束。此外，微软还通过年度更新和受控功能推出机制持续投放新功能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568550.htm",
+              "title": "任天堂疑似同步开发《塞尔达传说：梅祖拉的假面HD》及《时空/大地之章》",
+              "brief": "据声优和导演的IMDb页面更新，任天堂可能正在开发《塞尔达传说：梅祖拉的假面HD》以及《时空/大地之章》项目。配音工作通常在开发后期进行，暗示《梅祖拉的假面HD》已进入深入阶段，或于2027年初推出。大岩幹治的页面显示《时空/大地之章》处于预制作阶段，但尚不清楚是复刻还是重制。任天堂官方未回应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1568564.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T08:35:55+08:00"
+              "published_at": "2026-07-10T09:39:00+08:00"
             },
             {
-              "title": "贝索斯首次太空旅行同行者“史上最老女宇航员”去世 享年87岁",
-              "brief": "曾于2021年与杰夫·贝索斯一同搭乘蓝色起源火箭进入太空的“史上最老女宇航员”瓦莉·芬克去世，享年87岁。芬克是20世纪60年代水星13号计划中接受宇航员培训的13名女飞行员之一，但当时被禁止成为宇航员。2021年，她作为贝索斯的特邀贵宾完成短途太空飞行，创下最年长太空旅行者纪录，该纪录后被威廉·夏特纳等人打破。蓝色起源称其为“在各方面都堪称先驱者”。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1568548.htm",
+              "title": "Steam玩家嘲讽PS用户：数字游戏库已足够便利，实体盘并非必需",
+              "brief": "在关于索尼取消实体光盘的讨论中，许多Steam玩家表示数字游戏库已非常便利，无需物理介质。他们指出PC平台拥有Steam、GOG等多个开放渠道，折扣力度大，而主机用户担心被单一商店束缚。玩家认为实体盘对PC意义不大，但对主机用户仍是节省开支的重要途径。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1568562.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T08:16:41+08:00"
+              "published_at": "2026-07-10T09:38:43+08:00"
             },
             {
-              "title": "OpenAI高层动荡：Fidji Simo卸任“二号人物”转任顾问",
-              "brief": "OpenAI高层发生变动，此前被称为“二号人物”的应用首席执行官Fidji Simo将卸任并转任顾问。Simo于2024年加入OpenAI，负责消费级业务增长，但随着ChatGPT增长放缓和内部营收压力，公司面临调整方向。她此前曾在Instacart任CEO并带领公司IPO，在Meta工作超十年。此次离职使CEO Sam Altman需寻找继任者。OpenAI近期人事调整频繁，包括首席营销官和首席产品官离职。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568546.htm",
+              "title": "马斯克承认看错Anthropic，称不会因竞争切断其服务器",
+              "brief": "马斯克回应网友称，他看错了Anthropic，现在认为他们是AI领域领导者，不会因竞争而切断其服务器。Anthropic依赖SpaceXAI的算力，但马斯克表示那不是他的风格。他引用特斯拉开源专利和开放超级充电网络的例子，强调不会伤害竞争对手。截至2026年7月，Anthropic已成为SpaceX最大客户之一。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568560.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T08:15:17+08:00"
+              "published_at": "2026-07-10T09:38:30+08:00"
             },
             {
-              "title": "美商务部长施压三星SK海力士扩大在美内存芯片生产 缓解全球短缺",
-              "brief": "美国商务部长卢特尼克公开施压三星和SK海力士扩大在美国的内存芯片生产，以缓解全球短缺并稳固芯片供应链。尽管美光可能不乐见竞争对手扩张，但卢特尼克强调美国需要更多产能。SK海力士正准备在美上市融资265亿美元，三星和SK海力士计划未来几年投资8800亿美元建厂。美光已宣布将美国投资增至2500亿美元。卢特尼克还回避了苹果从中国企业购买存储芯片的问题，强调保护美国知识产权。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568544.htm",
+              "title": "中国移动推出新消息Claw：通过短信远程操控电脑端智能体，无需额外下载App",
+              "brief": "中国移动推出新消息Claw服务，用户可通过短信应用号发送文字指令远程操控电脑端的OpenClaw等智能体，无需下载额外App。该服务支持自定义定时汇总、短信强提醒，不收取短信费用，但执行任务会消耗电脑端Token。配置需三步：电脑安装客户端、短信绑定、复制申领短信至智能体。目前兼容飞书OpenClaw等四款产品。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568558.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T07:27:38+08:00"
+              "published_at": "2026-07-10T09:37:55+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "OpenAI 升级 Chrome 浏览器 ChatGPT 扩展：可查看完整上下文并控制标签页",
-              "brief": "OpenAI 正在升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展，使其能够查看浏览器中的完整上下文，包括用户高亮的内容，并可控制标签页、访问本地文件系统和已安装的插件。该扩展将整合桌面应用中的对话线程。此前 OpenAI 宣布将逐步停用独立的 Atlas 浏览器，将其功能整合进 ChatGPT。",
-              "source_url": "https://www.ithome.com/0/974/807.htm",
+              "title": "微软发布Aurora 1.5天气预报模型，准确率达88.9%",
+              "brief": "微软发布了Aurora 1.5天气预报模型，在各项指标中以88.9%的准确率优于欧洲中期天气预报中心（ECMWF）模型。该模型以开放形式发布，适用于科研机构、政府部门和社会组织，并已集成到Microsoft Weather等商业产品中。目前模型已在GitHub开源，供用户下载研究。",
+              "source_url": "https://www.ithome.com/0/974/897.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T08:33:55+08:00"
+              "published_at": "2026-07-10T10:44:32+08:00"
             },
             {
-              "title": "摩根大通：AI 投资热潮降温，市场不再盲目买入",
-              "brief": "摩根大通策略师莱博维茨指出，AI 投资热潮正在降温，市场不再抱着“凡是跟 AI 沾边的东西都买”的想法。他认为，相较于半导体和硬件，数据中心建设和运营的需求更可能获得结构性支撑，芯片领域存在供应过多风险。随着投资者对 AI 基础设施投资的狂热退潮，部分芯片股如 SK 海力士股价已从高点下跌超 20%。",
-              "source_url": "https://www.ithome.com/0/974/806.htm",
+              "title": "零跑上半年意大利上牌24269台，同比增长1448.8%",
+              "brief": "零跑汽车2026年上半年在意大利上牌24269台，同比增长1448.8%，纯电车型拿下市占率第一。零跑于2026年6月宣布全球累计交付达150万台，从100万到150万仅用8个月。此前Stellantis集团投资约15亿欧元获取零跑约20%股权，成立合资公司“零跑国际”负责海外市场销售。",
+              "source_url": "https://www.ithome.com/0/974/892.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T08:33:37+08:00"
+              "published_at": "2026-07-10T10:41:54+08:00"
             },
             {
-              "title": "苹果一度停止签署部分老 iPhone/iPad 基带固件，现已恢复",
-              "brief": "苹果从 7 月 9 日起停止了部分老版本 iOS 的基带固件签署，导致 iPhone 4、4S、5、5C 及多款老 iPad 的蜂窝网络版本无法通过 OTA 或 IPSW 方式还原系统或刷机。受影响设备涵盖 iOS 6 至 iOS 10 系统。目前该问题已修复，设备可正常还原。Wi-Fi 版 iPad 因无基带未受影响。",
-              "source_url": "https://www.ithome.com/0/974/805.htm",
+              "title": "JSAUX推出Steam Machine替换前面板，提供三种显示选择",
+              "brief": "JSAUX正式公布了Steam Machine的替换前面板，提供三种显示选择。面板剩余位置放置了三颗按键和一个旋钮状凸起，功能尚未明确。此前V社已开源Steam Machine主机墨水屏前面板，允许用户3D打印自制。",
+              "source_url": "https://www.ithome.com/0/974/891.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T08:31:08+08:00"
+              "published_at": "2026-07-10T10:41:43+08:00"
             },
             {
-              "title": "OpenAI 整合桌面端应用：集成聊天、工作和 AI 编程",
-              "brief": "OpenAI 推出了整合后的桌面端应用，包含聊天、ChatGPT Work 和 Codex 三部分，用户可同时运行新版和旧版应用。新版应用支持提问、搜索、创建文档和电子表格，以及使用本地文件、存储库和终端开发软件。网页版与桌面版聊天记录同步，但桌面版 Work 的本地文件保留在原计算机。",
-              "source_url": "https://www.ithome.com/0/974/804.htm",
+              "title": "荣耀WIN游戏本H9三角洲行动联名款发布，3D浮雕金属A面",
+              "brief": "荣耀发布了WIN游戏本H9三角洲行动职业赛事联名款，采用黑海配色和3D浮雕金属A面，融入游戏元素彩蛋。配置Intel Core Ultra 9 290HX Plus处理器、RTX 5070显卡，支持240W性能释放，配备300Hz电竞屏。同时发布荣耀手表6 Plus张雪机车联名款，支持机车模式。",
+              "source_url": "https://www.ithome.com/0/974/889.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T08:19:15+08:00"
+              "published_at": "2026-07-10T10:41:19+08:00"
             },
             {
-              "title": "纽约联储主席威廉姆斯：AI 是当前最关注的通胀问题，或迫使加息",
-              "brief": "纽约联储主席威廉姆斯表示，AI 现在是他最关注的通胀问题，如果通胀比预期更顽固，美联储可能需要加息。他指出，若核心 PCE 每月上涨超过 0.2%，则表明通胀更具粘性。目前货币政策处于有利位置，但如果形势恶化，将作出回应。",
-              "source_url": "https://www.ithome.com/0/974/803.htm",
+              "title": "虚幻5国产MMORPG《诡秘之主》公测定档8月21日",
+              "brief": "虚幻5引擎打造的国产MMORPG游戏《诡秘之主》宣布公测定档2026年8月21日，并公布了PC及移动端的配置要求。安卓需骁龙7 Gen2及以上，iOS需iPhone 12 Pro及以上，PC推荐RTX 3070 Ti及以上显卡。游戏此前已进行过“灰雾测试”。",
+              "source_url": "https://www.ithome.com/0/974/882.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-10T08:16:21+08:00"
+              "published_at": "2026-07-10T10:35:39+08:00"
             }
           ]
         },
@@ -459,6 +459,34 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "Meta推出闭源商业模型Muse Spark 1.1，编码能力一般但价格便宜",
+              "brief": "Meta发布闭源商业模型Muse Spark 1.1，该模型为原生多模态模型，支持1M上下文窗口，重点强化智能体能力，可编排多智能体系统并处理跨应用工作流。编码能力在SWE-Bench Pro测试中得分为61.5，低于Claude Opus 4.8的69.2分。API调用价格为每百万输入1.25美元、每百万输出4.25美元，目前仅面向美国开发者通过Meta Model API平台提供公共预览。",
+              "source_url": "https://www.landian.news/archives/113876.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T10:30:30+08:00"
+            },
+            {
+              "title": "马斯克称X/Twitter将通过私信辟谣，互动用户将收到通知",
+              "brief": "埃隆·马斯克透露X/Twitter将扩展社区笔记功能，当用户点赞、转发或评论过被标记为误导性的帖子后，系统会通过私信向该用户发送辟谣提醒。该功能旨在提高辟谣范围和力度，但仅针对与帖子有过互动的用户，仅浏览的用户不会收到通知。目前该功能尚未上线，具体时间未公布。",
+              "source_url": "https://www.landian.news/archives/113875.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T10:00:30+08:00"
+            },
+            {
+              "title": "Claude推出反思面板和防沉迷系统，提醒用户合理使用AI",
+              "brief": "Anthropic为Claude推出反思面板功能，帮助用户查看使用AI的方式、主要场景和频率，并定期提出反思性问题，如哪些事应自己完成而非依赖AI。同时上线防沉迷系统，当使用时间达到阈值时弹出提醒，但用户可忽略或关闭。该功能面向已开启记忆功能的Free、Pro、Max用户，不会读取隐身聊天或连接工具中的底层文件。",
+              "source_url": "https://www.landian.news/archives/113874.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T09:30:28+08:00"
+            },
+            {
+              "title": "微软与中国人民大学合作开源Flint，让AI智能体生成交互式图表",
+              "brief": "微软研究院与中国人民大学联合发布面向AI智能体的可视化中间语言项目Flint。Flint通过让AI先生成语义化的图表规格，再由编译器自动推导坐标轴、比例尺等底层配置，从而生成美观、可交互的图表，避免了直接编写复杂配置的脆弱性。项目已开源，提供JavaScript/TypeScript库和MCP服务器，Python版正在开发中。",
+              "source_url": "https://www.landian.news/archives/113873.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T09:00:29+08:00"
+            },
+            {
               "title": "Cloudflare推出Drop功能：一分钟部署静态网站，无需域名和服务器",
               "brief": "网络服务提供商Cloudflare推出名为Drop的新功能，用于托管纯静态网站。用户上传压缩包或文件夹后，系统自动识别内容并在云端启动隔离环境部署，通过Cloudflare CDN实现全球加速访问。默认生成的网站有效期60分钟，可通过认领绑定账户实现永久访问。该功能完全免费，支持随机域名，但仅限静态资源，不能调用数据库或后端程序。",
               "source_url": "https://www.landian.news/archives/113872.html",
@@ -471,39 +499,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "中信建投：险资参与债券通“南向通”有助于缓解“资产荒”，进一步优化资产负债匹配",
-              "brief": "中信建投研报指出，保险资金参与债券通“南向通”投资，将有助于缓解当前面临的“资产荒”问题，通过拓宽境外投资渠道，优化资产负债匹配，提升投资组合收益。此举为险资提供了更多高收益资产选择，同时分散风险。",
-              "source_url": "https://36kr.com/newsflashes/3889110644210185?f=rss",
+              "title": "蚂蚁灵波发布LingBot-VA 2.0",
+              "brief": "蚂蚁灵波发布了业界首个具身原生世界动作模型LingBot-VA 2.0。该模型代表具身智能发展的关键路线选择：机器人“大脑”不再依赖数字世界模型能力的嫁接，而是从动态建模、因果预测、实时执行等与环境交互的原始需求出发进行原生设计。",
+              "source_url": "https://36kr.com/newsflashes/3889229963934217?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 08:47:55  +0800"
+              "published_at": "2026-07-10 10:49:18  +0800"
             },
             {
-              "title": "华泰证券：全球冷却需求升维打开暖通新空间",
-              "brief": "华泰证券研报认为，全球冷却需求正经历升维，从传统制冷向高效、绿色、智能化方向演进，这将为暖通空调行业打开新的增长空间。数据中心、新能源汽车等新兴领域对冷却技术的需求激增，推动行业技术升级与市场扩容。",
-              "source_url": "https://36kr.com/newsflashes/3889110260628230?f=rss",
+              "title": "日本6月企业物价指数同比上涨7.1%",
+              "brief": "日本央行7月10日公布的初步统计结果显示，6月日本企业物价指数同比上涨7.1%至135.4，涨幅较5月的6.6%进一步扩大，刷新2023年3月以来最高值。",
+              "source_url": "https://36kr.com/newsflashes/3889223226014211?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 08:47:32  +0800"
+              "published_at": "2026-07-10 10:42:27  +0800"
             },
             {
-              "title": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
-              "brief": "谷歌宣布全面扩大生成式AI广告的披露范围，新规要求在谷歌搜索、YouTube和Discover信息流中，对由AI创建或编辑的商业广告进行明确标注，以防止消费者被虚假合成场景误导。此举旨在提升广告透明度，保护消费者权益。",
-              "source_url": "https://36kr.com/newsflashes/3889106112002561?f=rss",
+              "title": "恒逸石化增资至约38.2亿",
+              "brief": "天眼查App显示，近日恒逸石化发生工商变更，注册资本由约36亿人民币增至约38.2亿人民币。该公司成立于1996年8月，法定代表人为邱奕博，经营范围包括化工产品生产、石油制品制造、合成材料制造等，由浙江恒逸集团有限公司等共同持股。",
+              "source_url": "https://36kr.com/newsflashes/3889220892473860?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 08:43:19  +0800"
+              "published_at": "2026-07-10 10:40:04  +0800"
             },
             {
-              "title": "MINIMAX：拟发行新股及债券，配售价为每股配售股份268港元",
-              "brief": "MINIMAX公告称，公司已与配售代理订立配售协议，拟发行配售股份，配售价为每股268港元，预计所得款项总额约95.4亿港元，净额约94.91亿港元。同时，公司拟发行本金总额65亿港元的债券，初步转换价为每股A类股份335港元，较最后收市价溢价约12.64%。",
-              "source_url": "https://36kr.com/newsflashes/3889105628281345?f=rss",
+              "title": "韩国金融监管部门正密切监控单一股票杠杆ETF对市场的影响",
+              "brief": "韩国金融监管部门正在密切监控单一股票杠杆ETF对市场的影响。此类ETF允许投资者对单只股票进行杠杆投资，可能放大市场波动。监管部门关注其潜在风险，以维护市场稳定。",
+              "source_url": "https://36kr.com/newsflashes/3889218228681474?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 08:42:49  +0800"
+              "published_at": "2026-07-10 10:37:22  +0800"
             },
             {
-              "title": "中信建投：关注磷资源战略地位的持续提升",
-              "brief": "中信建投研报表示，磷资源战略地位持续提升，美中先后将磷矿石及元素磷列为国家重点战略资源。磷系新材料在AI、半导体、新能源等领域需求旺盛，国产替代有望加速。高纯红磷、黄磷等关键材料在磷化铟衬底、电子级磷酸等应用中不可或缺。",
-              "source_url": "https://36kr.com/newsflashes/3889103335242242?f=rss",
+              "title": "机构：2026年第二季度全球PC市场同比下滑3.6%",
+              "brief": "据机构最新数据，2026年第二季度全球PC市场出货量同比下滑3.6%。这一下降反映了全球需求疲软和库存调整的影响。具体品牌表现和地区差异等细节尚未公布。",
+              "source_url": "https://36kr.com/newsflashes/3889209841367555?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 08:40:29  +0800"
+              "published_at": "2026-07-10 10:28:50  +0800"
             }
           ]
         }
