@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T12:49:38.363945+08:00",
+  "generated_at": "2026-07-10T14:49:33.538867+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星 Galaxy Z Fold 8 和 Fold 8 Ultra 美国售价泄露，可能带来坏消息",
+              "brief": "韩国媒体 SE Daily 援引行业消息称，三星 Galaxy Z Fold 8 Ultra 的美国售价将超过 2000 美元，很可能为 2099 美元，比前代 Z Fold 7 的 1999.99 美元高出 100 美元。而 Galaxy Z Fold 8（或称 Wide Fold）256GB 版起售价为 1899 美元。三星将于 7 月 22 日发布新款折叠屏手机，包括 Z Flip 8、Z Fold 8 和 Z Fold 8 Ultra。目前价格尚未最终确定，三星正在进行最后审核。此次涨价可能与 RAM 危机及 Galaxy S26 系列年初提价有关。Z Fold 8 预计配备 4:3 内屏、骁龙 8 Elite Gen 5 芯片、4800mAh 电池和双 5000 万像素后摄。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-us-price-leak-3686093/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-10T14:08:12+08:00"
+            },
+            {
               "title": "谷歌正在修复影响Google Home广播的Gemini烦人漏洞",
               "brief": "谷歌已确认一个漏洞，导致Gemini无法正确处理Google Home设备的广播请求。该漏洞使Gemini将广播消息当作普通对话响应，而非发送到家庭扬声器。例如，用户说“该吃晚饭了”，Gemini回答“我不吃饭”。谷歌表示正在积极修复，并将在推出更新后通知用户。此前谷歌已迅速处理过类似问题。",
               "source_url": "https://www.androidauthority.com/google-home-gemini-broadcast-bug-fix-3686067/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/gemini-proactive-assistance-magic-cue-3686018/",
               "source_name": "Android Authority",
               "published_at": "2026-07-10T05:03:18+08:00"
-            },
-            {
-              "title": "OpenAI 在发布仅几个月后关闭 ChatGPT Atlas 浏览器",
-              "brief": "OpenAI 宣布将于 2026 年 8 月 8 日关闭 ChatGPT Atlas 浏览器，距其发布仅九个月。同时，OpenAI 发布了 GPT 5.6，并推出多项更新，包括功能更强的 ChatGPT 桌面应用内置浏览器（支持多标签、密码管理器等）、云端浏览器工作模式，以及 Chrome 侧边聊天功能。这些新功能基于 Atlas 用户的反馈开发，因此 Atlas 将被淘汰。",
-              "source_url": "https://www.androidauthority.com/openai-sunsetting-chatgpt-atlas-3686001/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-10T04:43:44+08:00"
             }
           ]
         },
@@ -466,6 +466,13 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "微软确认WSL容器也支持Windows 10系统",
+              "brief": "微软证实，WSL容器可以在Windows 10及其他支持WSL的系统上运行。该容器是微软开发的本地容器平台，可替代Docker Desktop，无需常驻进程以节省资源。Windows 10用户需使用V2004或更高版本（Build 19041以上），且WSL容器作为WSL更新安装，不受操作系统支持周期限制。部署方法包括安装Windows Terminal、WSL2及使用相关命令。",
+              "source_url": "https://www.landian.news/archives/113895.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T14:40:26+08:00"
+            },
+            {
               "title": "OpenAI宣布停止开发Atlas浏览器，相关功能集成到ChatGPT",
               "brief": "OpenAI宣布基于AI的独立桌面浏览器Atlas将于8月9日停用，其浏览器功能将集成到ChatGPT桌面应用中。但集成后的浏览器仅是Codex内置功能，与独立浏览器体验完全不同。用户需在停用前导出书签和浏览记录，OpenAI将发送通知提醒迁移。",
               "source_url": "https://www.landian.news/archives/113894.html",
@@ -492,13 +499,6 @@
               "source_url": "https://www.landian.news/archives/113876.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-10T10:30:30+08:00"
-            },
-            {
-              "title": "马斯克称X/Twitter将通过私信辟谣，互动用户将收到通知",
-              "brief": "埃隆·马斯克透露X/Twitter将扩展社区笔记功能，当用户点赞、转发或评论过被标记为误导性的帖子后，系统会通过私信向该用户发送辟谣提醒。该功能旨在提高辟谣范围和力度，但仅针对与帖子有过互动的用户，仅浏览的用户不会收到通知。目前该功能尚未上线，具体时间未公布。",
-              "source_url": "https://www.landian.news/archives/113875.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-10T10:00:30+08:00"
             }
           ]
         },
@@ -506,39 +506,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "消息称台积电CoWoS 2027年月产能目标至少20万片",
-              "brief": "据报道，台积电计划到2027年将其先进封装CoWoS的月产能提升至至少20万片。这一目标反映了市场对高性能计算和AI芯片封装需求的持续增长。台积电正积极扩产以满足客户需求，目前其CoWoS产能已供不应求。",
-              "source_url": "https://36kr.com/newsflashes/3889342288034312?f=rss",
+              "title": "AI原生信用卡Kimi信用卡敲定美国运通、农业银行",
+              "brief": "AI原生信用卡Kimi信用卡已确定合作方，包括美国运通和中国农业银行。该产品旨在利用人工智能技术提供智能化金融服务，如个性化额度管理和消费分析。合作将借助美国运通的国际清算网络和农业银行的国内渠道优势，具体上线时间待公布。",
+              "source_url": "https://36kr.com/newsflashes/3889464915556866?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 12:43:34  +0800"
+              "published_at": "2026-07-10 14:48:18  +0800"
             },
             {
-              "title": "长征十号乙运载火箭成功实现一子级可控回收",
-              "brief": "长征十号乙运载火箭近日完成一子级可控回收试验，标志着中国在可重复使用火箭技术领域取得重要进展。该火箭的一子级在分离后精准着陆，为未来降低发射成本、实现火箭复用奠定了基础。此次成功验证了多项关键技术。",
-              "source_url": "https://36kr.com/newsflashes/3889336420710921?f=rss",
+              "title": "创业板指跌4%",
+              "brief": "创业板指今日大幅下跌4%，市场情绪低迷。主要受科技股回调及宏观经济数据不及预期影响，投资者避险情绪升温。此前创业板指连续上涨后积累较大获利盘，今日抛压集中释放，板块内个股普跌。",
+              "source_url": "https://36kr.com/newsflashes/3889461438069504?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 12:37:36  +0800"
+              "published_at": "2026-07-10 14:44:46  +0800"
             },
             {
-              "title": "遥望科技副总裁余龙：直播电商下半场，内容资产时代到来",
-              "brief": "在2026中国互联网大会上，遥望科技副总裁余龙指出，直播电商正从流量驱动转向内容资产驱动。他认为行业核心问题已从“卖货”变为“经营”，强调过去比拼单场表现，现在则注重长期阵地建设。这一转变反映了直播电商的成熟化趋势。",
-              "source_url": "https://36kr.com/newsflashes/3889324404816390?f=rss",
+              "title": "横店集团在上海成立新公司注册资本1000万",
+              "brief": "横店集团在上海新设一家公司，注册资本1000万元。此举旨在拓展其在长三角地区的业务布局，聚焦影视文旅或相关产业。新公司将依托上海的资源优势和横店集团的产业经验，进一步整合上下游资源。",
+              "source_url": "https://36kr.com/newsflashes/3889432560876034?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 12:25:22  +0800"
+              "published_at": "2026-07-10 14:40:44  +0800"
             },
             {
-              "title": "国家能源局：推动发用侧双方以多年期交易合同、聚合交易等方式开展绿电交易",
-              "brief": "国家能源局印发《能源领域节能降碳行动计划（2026—2028年）》，提出健全市场机制，推动发用侧双方通过多年期合同和聚合交易等方式进行绿电交易。此举旨在促进清洁能源消纳，并研究将CCUS等项目纳入温室气体自愿减排机制。",
-              "source_url": "https://36kr.com/newsflashes/3889320203008514?f=rss",
+              "title": "马斯克绘太空蓝图：十年内建成月球城市，五年内载人登火星",
+              "brief": "马斯克公布太空探索新计划，目标十年内在月球建成永久城市，五年内实现载人登陆火星。该计划基于SpaceX的星舰技术，旨在降低运输成本并建立可持续的星际文明。马斯克称，月球城市将作为深空探索的中转站，而火星任务则需要突破辐射防护和生命支持系统等关键技术。",
+              "source_url": "https://36kr.com/newsflashes/3889445246466825?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 12:21:06  +0800"
+              "published_at": "2026-07-10 14:34:25  +0800"
             },
             {
-              "title": "上海仪电智算私募投资基金登记成立，出资额10.02亿",
-              "brief": "上海仪电智算私募投资基金近日登记成立，出资额10.02亿元。该基金聚焦智算领域，旨在通过资本支持推动算力基础设施和AI技术的发展。基金的成立反映了市场对智算资源的重视，有望加速相关产业布局。",
-              "source_url": "https://36kr.com/newsflashes/3889319530068486?f=rss",
+              "title": "沪深两市成交额突破3万亿",
+              "brief": "沪深两市成交额今日突破3万亿元人民币，创近期新高。市场交投活跃主要受政策利好和资金面宽松推动，投资者情绪高涨。其中，科技和金融板块成交额居前，显示资金对成长股的偏好。",
+              "source_url": "https://36kr.com/newsflashes/3889450923325956?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-10 12:20:25  +0800"
+              "published_at": "2026-07-10 14:34:04  +0800"
             }
           ]
         }
