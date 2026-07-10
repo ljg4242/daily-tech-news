@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T00:50:14.817246+08:00",
+  "generated_at": "2026-07-11T02:49:51.706358+08:00",
   "sections": [
     {
       "category": "主要",
@@ -28,45 +28,59 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "美国放松对苹果在阿联酋获取AI芯片和数据中心设备的限制",
+              "brief": "美国商务部宣布放松对阿联酋的出口限制，允许苹果等八家美国公司无需申请个别许可证即可在阿联酋获取先进计算芯片、服务器、软件和技术。新规涵盖苹果、亚马逊、谷歌、Meta、微软、OpenAI、Oracle和xAI，适用于出口管理条例中规定的先进计算物品。苹果可利用该授权在阿联酋运营数据中心等设施，具体应用有待观察。",
+              "source_url": "https://9to5mac.com/2026/07/10/us-eases-restrictions-on-apples-access-to-ai-chips-and-data-center-equipment-in-the-uae/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-11T02:10:28+08:00"
+            },
+            {
+              "title": "HomeKit周报：LNDU HK01W以亲民价格带来Apple Home Key和Wi-Fi支持",
+              "brief": "LNDU HK01W智能锁以约100美元的价格原生支持Apple Home Key，用户可用iPhone或Apple Watch轻触解锁。该锁通过Wi-Fi通信，比Thread更耗电，但配备八节AA电池，预计续航8个月。除Home Key外，还支持指纹识别、触摸键盘（带防窥功能）、门禁卡和传统钥匙。安装为标准DIY改造，适合多数美式门。",
+              "source_url": "https://9to5mac.com/2026/07/10/lndu-hk01w/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-11T02:07:00+08:00"
+            },
+            {
+              "title": "Anthropic突出Claude Code桌面版内置浏览器功能",
+              "brief": "Anthropic宣布Claude Code桌面版新增应用内浏览器，Claude可读取、点击和交互任何网站，如同操作本地开发服务器。该浏览器采用沙盒化独立配置文件，不保存用户登录信息或历史记录，会话持久性可配置。这与OpenAI近期宣布的ChatGPT桌面版应用内浏览器类似，两者均提供Chrome扩展以集成AI工具。",
+              "source_url": "https://9to5mac.com/2026/07/10/anthropic-highlights-claude-codes-in-app-browser-on-the-desktop/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-11T01:54:21+08:00"
+            },
+            {
+              "title": "Spotify为Release Radar增加新的收听过滤器以提升个性化",
+              "brief": "Spotify宣布改进其每周发现歌单Release Radar，新增顶部控制选项，允许用户按流派、新艺术家或编辑推荐等最多五个条件筛选推荐。该歌单每周五更新，拥有近900万用户。此外，Release Radar获得全新外观和更精准的个性化推荐算法。此前Spotify已为New Music Friday、Fresh Finds和Discover Weekly等歌单引入类似定制功能。",
+              "source_url": "https://9to5mac.com/2026/07/10/spotify-makes-release-radar-more-customizable-with-new-listening-filters/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-11T01:00:05+08:00"
+            },
+            {
               "title": "报道称Netflix等多家公司有意收购Letterboxd",
               "brief": "据Puck报道，多家公司已对电影社交平台Letterboxd表达收购意向，包括Netflix、索尼影业、派拉蒙等好莱坞公司，以及私募股权公司TPG和RedBird、媒体投资者Alexis Ohanian。目前谈判处于早期阶段，已开始初步会面。加拿大控股公司Tiny于2023年以5000万美元估值收购Letterboxd 60%股份，现银行家正寻求以2.5亿美元估值出售，但分析师认为该估值偏高。此前Semafor在4月报道称，从康卡斯特分拆的Versant（旗下拥有Fandango和烂番茄）也有意收购。",
               "source_url": "https://9to5mac.com/2026/07/10/netflix-among-many-companies-showing-interest-in-acquiring-letterboxd-report/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-11T00:34:40+08:00"
-            },
-            {
-              "title": "watchOS 27将移除对讲机应用，你会怀念它吗？",
-              "brief": "苹果在watchOS 27中移除了Apple Watch的对讲机应用，该功能允许用户之间进行实时语音通话，但需保持应用开启才能接收消息。这一功能自推出以来使用体验复杂，用户需单独添加联系人并保持对讲机模式，且黄色图标常驻表盘。苹果过去曾多次移除或替换watchOS中的实验性功能，如Siri表盘被智能叠放取代、玩具总动员表盘因授权到期消失等。此次对讲机应用的移除是又一例证，部分用户认为其可靠性不足，但也有用户感到遗憾。",
-              "source_url": "https://9to5mac.com/2026/07/10/will-you-miss-the-walkie-talkie-apple-watch-app-when-watchos-27-drops-push-to-talk/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-11T00:03:00+08:00"
-            },
-            {
-              "title": "智能家居日记：有时“不智能”才是明智之选",
-              "brief": "作者在浴室尝试使用存在传感器替代传统运动传感器，以解决泡澡时因静止导致灯光关闭的问题。他先后测试了Aqara FP300（电池供电）和FP2（需USB供电），但FP300灵敏度极低，FP2虽能检测呼吸等微动却需持续供电且可靠性不佳。经过长时间尝试后，作者最终放弃，回归普通开关。他认为智能家居改造应权衡投入与收益，并非所有设备都值得智能化，有时简单方案反而更可靠。",
-              "source_url": "https://9to5mac.com/2026/07/10/smart-home-diary-sometimes-the-smart-thing-is-to-live-with-dumb-switches/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-11T00:00:00+08:00"
-            },
-            {
-              "title": "促销：AirPods、Apple Watch Ultra 3降价140美元，M5 MacBook Air、Bose音箱等",
-              "brief": "今日多项苹果及配件产品促销：Apple Watch Ultra 3降价近140美元，M5 MacBook Air部分配置降价150美元，最新Bose SoundLink Max蓝牙音箱降价150美元，Logitech MX Master 4鼠标罕见促销。此外，AirPods 4基础款降至99美元（原价129美元），AirPods 4降噪版降至149美元（原价179美元），接近Prime Day价格。13英寸M5 MacBook Air（16GB/1TB）午夜蓝降至1449美元，较苹果官网新标价低150美元。",
-              "source_url": "https://9to5mac.com/2026/07/10/deals-airpods-apple-watch-ultra-3-m5-macbook-air/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-10T23:36:32+08:00"
-            },
-            {
-              "title": "iOS 27信息应用我最喜欢的四个新功能",
-              "brief": "iOS 27对信息应用进行了多项改进。一是可自定义文本输入栏的音频按钮，用户可选择将其设为听写、语音备忘录或完全移除，避免误触。二是新增绘图功能，通过“+”按钮进入，可使用笔、标记笔、高亮笔等工具创作并发送。三是Siri集成增强，可更智能地处理消息。四是整体性能优化，使应用更快更流畅。这些功能提升了用户体验，尤其是绘图功能为聊天增添趣味。",
-              "source_url": "https://9to5mac.com/2026/07/10/these-are-my-favorite-new-messages-features-in-ios-27-video/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-10T23:28:17+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Googlebooks 的“Magic Pointer”应用已上架 Play 商店",
+              "brief": "一款名为“Magic Pointer”的应用已上架 Google Play 商店，专为 Googlebooks 设计。该应用可能提供指针或标注功能，以增强电子书阅读体验。目前具体功能细节尚未公布，但用户已可下载体验。",
+              "source_url": "https://9to5google.com/2026/07/10/magic-pointer-google-play/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-11T01:05:07+08:00"
+            },
+            {
+              "title": "一加手机哪里出了问题？[视频]",
+              "brief": "一加手机曾以“不将就”理念吸引发烧友，通过邀请制制造稀缺感，但如今面临困境。分析认为，一加未能持续颠覆市场，早期过度依赖小众发烧友群体，导致规模化时难以平衡老用户需求。随着发烧友市场萎缩，一加在主流市场竞争力不足，加之产品线混乱、海外市场收缩等因素，品牌优势逐渐丧失。",
+              "source_url": "https://9to5google.com/2026/07/10/what-went-wrong-with-oneplus-video/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-11T00:00:00+08:00"
+            },
             {
               "title": "促销：Galaxy Buds 4 Pro、罗技MX Master 4罕见优惠、Bose音箱降价150美元、Anker充电器等",
               "brief": "三星Galaxy Buds 4 Pro在百思买以翻新机形式最高优惠112美元，白色款仅138美元，黑色款168美元。同时罗技新款触觉反馈MX Master 4鼠标降至年度最低价，Bose SoundLink Max蓝牙音箱直降150美元，QuietComfort Ultra耳机降价80美元。三星官网还提供Galaxy S26 Ultra捆绑Galaxy Buds 4 Pro优惠325美元。",
@@ -106,6 +120,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌Pixel 11 Pro Fold现身FCC，预计8月发布",
+              "brief": "一款谷歌Pixel手机已通过FCC认证，型号为GZDQ6，被认为是Pixel 11 Pro Fold。文件确认该折叠屏支持蓝牙、LTE、超宽带、NFC和Thread，并兼容助听器。此前谷歌已发出8月中旬的Pixel 11发布会邀请，预计届时将推出Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL和Pixel 11 Pro Fold。泄露信息还暗示该设备将配备4658mAh电池，提供12GB和16GB内存选项，外屏为1080×2342 OLED，内屏为2076×2160 OLED。",
+              "source_url": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-11T02:19:26+08:00"
+            },
+            {
+              "title": "AYANEO Pocket Micro 2瞬间售罄，今晚开启新一轮预购",
+              "brief": "AYANEO的Pocket Micro 2手持游戏机因仅100台国际库存而迅速售罄。公司确认已安排新批次生产，预购将于今晚美东时间11点开启，预计8月底发货。同时新增6GB/128GB配置的星尘紫限定版，此前该配色仅提供8GB/256GB版本（售价339美元），推测6GB版约299美元。",
+              "source_url": "https://www.androidauthority.com/pocket-micro-2-sales-3686368/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-11T01:59:21+08:00"
+            },
+            {
+              "title": "NordVPN为Android用户推出恶意短信防护功能",
+              "brief": "NordVPN在Android应用中新增“消息保护”功能，继去年推出“通话保护”后进一步扩展安全套件。该功能对来自未知发件人的短信进行扫描，识别诈骗关键词、欺诈号码、恶意链接及钓鱼语言模式，但不会自动删除信息。功能对NordVPN高级订阅用户免费开放，目前仅限Android，支持地区与通话保护相同（包括美国和加拿大）。",
+              "source_url": "https://www.androidauthority.com/nordvpn-scam-protection-messages-3686413/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-11T01:03:12+08:00"
+            },
+            {
               "title": "Flaunt MagSafe 充电宝因过热起火风险被召回",
               "brief": "Flaunt 宣布召回型号为 E33A 的 MagSafe 充电宝，原因是其锂离子电池可能过热并引发火灾。美国消费品安全委员会已收到多起用户烧伤及财产损失报告。用户应立即停止使用该产品，并在充电器正面用永久记号笔标注“Recalled”后拍照，通过官方召回页面申请全额退款 65 美元或 80 美元商店信用额度。",
               "source_url": "https://www.androidauthority.com/flaunt-recalls-magsafe-battery-charger-3686453/",
@@ -118,33 +153,33 @@
               "source_url": "https://www.androidauthority.com/tapo-magcam-2k-plus-camera-deal-3686483/",
               "source_name": "Android Authority",
               "published_at": "2026-07-11T00:43:26+08:00"
-            },
-            {
-              "title": "HMD Skyline 2 泄露：修复初代不足，屏幕亮度翻倍",
-              "brief": "据爆料，HMD Skyline 2 将延续 Lumia 风格设计，但全面升级配置。144Hz OLED 屏幕峰值亮度翻倍至 2000 尼特，处理器升级为骁龙 7s Gen 4，多核性能提升约 16%，配备最高 12GB RAM 和 256GB 可扩展存储。相机方面，108MP 主摄支持光学防抖，预计将显著提升拍摄能力。",
-              "source_url": "https://www.androidauthority.com/hmd-skyline-2-leaked-specs-3686480/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-11T00:41:14+08:00"
-            },
-            {
-              "title": "欧盟初步认定 Meta 违反数字服务法，或需重新设计 Instagram 和 Facebook",
-              "brief": "欧盟委员会初步裁定 Meta 的 Instagram 和 Facebook 可能违反《数字服务法》，因其使用无限滚动、自动播放视频、推送通知等设计鼓励用户过度使用。若最终裁定违规，Meta 需在欧洲重新设计应用关键功能，并面临最高全球年收入 6% 的罚款。Meta 可在最终裁决前提出异议。",
-              "source_url": "https://www.androidauthority.com/meta-digital-services-act-3686423/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-11T00:10:45+08:00"
-            },
-            {
-              "title": "TP-Link Deco 7 Pro BE63 Wi-Fi 7 网状系统亚马逊 36% 折扣，限时至午夜",
-              "brief": "亚马逊将 TP-Link Deco 7 Pro BE63 三频 Wi-Fi 7 网状系统降至 322.19 美元，较建议零售价 499.99 美元优惠 36%，低于近 30 天最低价 369.99 美元，折扣于午夜结束。该系统支持 BE10000 速率、320MHz 信道、2.5G 有线连接，适合大户型或高速宽带用户，可提供全屋覆盖和流畅多设备体验。",
-              "source_url": "https://www.androidauthority.com/tp-link-deco-7-pro-router-deal-3686467/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-10T23:58:39+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "太空金属球出现在澳大利亚海滩",
+              "brief": "澳大利亚昆士兰州福雷斯特海滩周末冲上来六个篮球大小的金属球，引发外星人猜测。澳大利亚航天局表示，这些球体很可能是来自外国火箭的压力容器，近期从轨道再入大气层后坠落。警方称球体无危险，但消防部门警告可能还有更多碎片冲上岸，居民不要触碰。",
+              "source_url": "https://www.engadget.com/2211639/metal-balls-space-junk-on-australia-beaches/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-11T02:30:00+08:00"
+            },
+            {
+              "title": "Netflix、派拉蒙、索尼等据报道正在洽谈收购Letterboxd",
+              "brief": "电影社交平台Letterboxd可能迎来新多数所有者，潜在买家包括Netflix、索尼影业、派拉蒙、私募股权公司TPG和Reddit联合创始人Alexis Ohanian。持有60%股份的控股公司Tiny已与多方谈判，估值约2.5亿美元。该平台用户从2022年的650万增长至3000万，若被电影制片厂收购可能引发利益冲突担忧。",
+              "source_url": "https://www.engadget.com/2212484/netflix-paramount-sony-in-talks-to-buy-letterboxd/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-11T01:32:15+08:00"
+            },
+            {
+              "title": "迪士尼可能计划推出免费版Disney+",
+              "brief": "据Business Insider报道，迪士尼首席产品和技术官Adam Smith在一次内部活动中暗示，公司可能考虑推出Disney+免费层级，以吸引年轻用户对抗YouTube等免费平台。目前尚无具体时间表和内容范围，可能将部分现有内容或新制作的短视频置于免费墙外。若实施，迪士尼将成为首个提供免费层级的主要流媒体服务。",
+              "source_url": "https://www.engadget.com/2212449/disney-might-be-planning-a-free-disney-plus-tier/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-11T01:04:50+08:00"
+            },
             {
               "title": "现在可以轻松查看游戏是否兼容Steam Machine",
               "brief": "Steam Deck的验证系统可告知玩家游戏在掌机上的运行情况，现在类似信息也开始出现在Steam Machine上，但位置隐藏较深。据Rock Paper Shotgun报道，新发布的《刺客信条：黑旗 重制版》获得了Steam Machine验证，但此前在Steam上并无显示。通过Steam桌面应用，在Steam Deck兼容性详情中点击“了解更多”，弹出窗口内新增了Steam Machine选项卡，显示该游戏已验证为完全支持控制器、显示控制器图标并在默认图形配置下性能良好。",
@@ -157,6 +192,27 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "英伟达最大RAM供应商SK海力士在华尔街上市，市值突破万亿美元",
+              "brief": "SK海力士周五在华尔街上市，开盘每股170美元，融资265亿美元，超越阿里巴巴成为外国公司最大规模上市。作为英伟达最大的RAM供应商，该公司受益于AI热潮推动的DRAM和高带宽内存需求激增，5月估值已达万亿美元，并曾短暂超越三星成为韩国市值最高公司。",
+              "source_url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+              "source_name": "The Verge",
+              "published_at": "2026-07-10T13:31:35-04:00"
+            },
+            {
+              "title": "Spotify允许用户微调每周Release Radar播放列表",
+              "brief": "Spotify为热门每周播放列表Release Radar新增控制选项，用户可将其限定于特定流派、关注新艺术家等，最多选择五个偏好如“发现新艺术家”、“编辑精选”和“流行”。该功能正在移动和桌面端推出，上线后将在播放列表顶部显示。Spotify还调整了算法以提供更个性化推荐，并更新了封面和标题艺术图。这是Spotify近期对其旗舰播放列表和音乐发现功能的一系列改动之一。",
+              "source_url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+              "source_name": "The Verge",
+              "published_at": "2026-07-10T13:02:13-04:00"
+            },
+            {
+              "title": "Netflix正在变成YouTube",
+              "brief": "本期The Vergecast探讨Netflix为何不断扩展内容版图，包括剧集、电影、游戏、直播体育、播客甚至YouTube视频。主持人分析Netflix将睡眠视为主要竞争对手，其YouTube化策略是否合理。此前众多尝试与YouTube竞争的服务均未成功，Netflix可能步Go90后尘。节目还讨论了Meta智能眼镜策略的奇怪之处。",
+              "source_url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
+              "source_name": "The Verge",
+              "published_at": "2026-07-10T12:29:50-04:00"
+            },
             {
               "title": "Disney Plus 据报道正在考虑推出免费流媒体层级",
               "brief": "据 Business Insider 报道，迪士尼首席产品和技术官 Adam Smith 在周四的公司全体会议上提到了推出免费流媒体层级的想法，但未明确涉及哪些节目或电影以及推出时间。这是迪士尼为更好地服务粉丝而进行的持续讨论的一部分。随着 YouTube 占据观众大量电视时间，Disney Plus、Netflix、HBO Max 等流媒体服务正在寻找其他方式吸引注意力。迪士尼 Plus 此前已推出垂直视频源和常开频道。",
@@ -181,6 +237,34 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "id Software 就 Xbox 裁员发表声明，称团队规模已回到制作 2016 年《毁灭战士》时的水平",
+              "brief": "在 Xbox 新一轮裁员中，id Software 位于德克萨斯州理查德森的工作室裁减了 96 名员工，另有 40 个远程岗位被裁。此次裁员是 Xbox 新 CEO Asha Sharma 对微软游戏业务进行“重置”的一部分，本周一已有 1600 人失业，本财年剩余时间还将裁减 1600 人。id Software 向 IGN 发表声明，强调目前团队规模与制作 2016 年《毁灭战士》时相当，仍具备开发“伟大游戏”的能力。声明称裁员分散在各团队，公司仍拥有所需人员，并坚持扁平化结构。Xbox 也澄清仍有数十人从事 id Tech 引擎开发。",
+              "source_url": "https://www.ign.com/articles/id-software-issues-statement-following-xbox-layoffs-says-its-back-to-the-size-it-was-when-it-made-2016s-doom",
+              "source_name": "IGN",
+              "published_at": "2026-07-11T01:50:22+08:00"
+            },
+            {
+              "title": "《赛博朋克 2077》玩家数回升，粉丝呼吁 CD Projekt 改变主意发布更多 DLC",
+              "brief": "《赛博朋克 2077》自 2020 年 12 月发售以来已售出 4000 万份，2023 年推出资料片《往日之影》后，CD Projekt 曾表示“没有计划”推出更多 DLC。然而，7 月 5 日该作在 Steam 上的同时在线玩家数突破 10 万，创 2023 年以来新高。粉丝因此呼吁开发商发布第二个 DLC，类似《巫师 3》获得新内容。CD Projekt 已确认《赛博朋克 2》在开发中，但预计至少到 2030 年才能发售。",
+              "source_url": "https://www.ign.com/articles/id-take-it-in-a-second-cyberpunk-2077-player-resurgence-has-fans-calling-on-cd-projekt-to-change-its-mind-and-release-more-dlc",
+              "source_name": "IGN",
+              "published_at": "2026-07-11T01:12:40+08:00"
+            },
+            {
+              "title": "《幻兽帕鲁》1.0 玩家发现多个帕鲁外观重新设计，部分不再像宝可梦",
+              "brief": "《幻兽帕鲁》1.0 版本更新后，玩家发现 Verdash、Robinquill、Fengallop 和 Grintale 等帕鲁的外观被重新设计，使其与宝可梦的相似度降低。Verdash 变得更像松鼠，Robinquill 去掉了红色披风，Fengallop 调整了颜色更像鹿，Grintale 的嘴部重新设计。Reddit 上玩家普遍对改动持积极态度，认为模型有所改进，并理解这些帕鲁原本与特定宝可梦相似。官方更新日志未提及这些变化，玩家自行发现并讨论。",
+              "source_url": "https://www.ign.com/articles/better-late-than-never-palworld-10-quietly-changes-the-designs-of-some-creatures-to-look-less-like-the-pokemon-they-resembled",
+              "source_name": "IGN",
+              "published_at": "2026-07-10T23:28:17+08:00"
+            },
+            {
+              "title": "《星露谷物语》将推出官方钩针编织书，包含 45 个可爱项目",
+              "brief": "《星露谷物语》官方钩针编织书将于 2027 年 1 月 26 日发售，包含 45 个项目，如祝尼魔、史莱姆、幸运紫色短裤等。该书由推出过官方食谱的同一出版社出版，提供 25 种独特图案及多种变体，主要为玩偶风格。精装版预售价 32 美元（亚马逊）或 29 美元（Barnes & Noble），电子版 13.99 美元。书中还包含银河剑、美人鱼吊坠等作品，可作为装饰或礼物。",
+              "source_url": "https://www.ign.com/articles/official-stardew-valley-crochet-book-announcement",
+              "source_name": "IGN",
+              "published_at": "2026-07-10T23:13:23+08:00"
+            },
             {
               "title": "育碧回应《刺客信条：黑旗 重制版》微交易争议：额外包完全可选",
               "brief": "《刺客信条：黑旗 重制版》发售后，玩家发现这款售价60美元的游戏首日即包含价值85美元的DLC，包括多个10美元的装饰包和一个5美元的地图包。大量玩家在Steam页面给出差评，批评其定价过高。育碧回应称这些附加内容并非必需，提醒玩家可自行选择购买。",
