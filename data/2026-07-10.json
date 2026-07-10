@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T06:50:02.002539+08:00",
+  "generated_at": "2026-07-10T08:50:09.062727+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27：8 项以上 CarPlay 新功能",
+              "brief": "苹果在 iOS 27 中为 CarPlay 引入了多项新功能。视频应用可在停车时播放视频，行驶时自动切换为音频；Siri AI 支持免提对话，并可同步到 iPhone 的 Siri 应用。新增持续迷你播放器，显示进度条；CarPlay 界面加入 iOS 27 的波浪风格壁纸，共 14 种。导航应用可与车辆共享路线数据。不过，视频功能需要汽车制造商支持，目前尚无厂商宣布。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-carplay/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-10T07:23:59+08:00"
+            },
+            {
+              "title": "Apple TV+ 首次接管漫展 Hall H 大厅，展示《寡妇湾》《羊毛战记》等",
+              "brief": "据 Deadline 报道，Apple TV+ 将于 7 月 25 日在圣地亚哥国际动漫展的 Hall H 大厅举办两小时活动，这是该大厅首次由 Apple TV+ 主导。参与剧集包括《寡妇湾》《火柴盒电影》《五月天》《暗黑物质》和《羊毛战记》。嘉宾有约翰·塞纳、杰西卡·贝尔、丽贝卡·弗格森等。活动前有漫威影业的重磅展示。此外，7 月 24 日至 26 日还将举办《羊毛战记》体验展，7 月 24 日有《暗黑物质》第二季预告。",
+              "source_url": "https://www.macrumors.com/2026/07/09/apple-tv-comic-con-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-10T07:05:19+08:00"
+            },
             {
               "title": "Anthropic为Claude新增“反思”功能，追踪使用情况",
               "brief": "Anthropic正在为Claude更新一项名为“反思”的新功能，类似于Spotify年度总结。该功能允许用户回顾如何使用Claude以及使用时长，涵盖关键主题、使用模式及任务类型。用户可查看过去1、3、6或12个月的活动，未来还将加入使用时间视图。“反思”会提出诸如“即使Claude能更快完成，你仍想亲自做的一件事是什么？”等问题，并新增静音时段或定时提醒功能，帮助用户适时休息。该功能不从隐身聊天或连接工具的基础文件中获取信息，与健康工具相关的对话也被排除。报告不会用于其他目的。“反思”在Beta版中面向开启记忆功能的免费、专业和最大用户开放，可通过网页或桌面应用的设置访问。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/09/last-call-m5-macbook-pro/",
               "source_name": "MacRumors",
               "published_at": "2026-07-10T01:20:13+08:00"
-            },
-            {
-              "title": "苹果探索在iPhone上直接运行更大规模AI模型的方法",
-              "brief": "据The Information报道，苹果已与初创公司PrismML会面，探讨利用其技术直接在iPhone上运行更大规模AI模型。PrismML成功将阿里开源大语言模型Qwen 3.6（270亿参数）压缩至可在iPhone 17 Pro上完全运行，所有参数同时激活。相比之下，苹果当前设备端AFM 3 Core Advanced模型虽拥有200亿参数，但采用稀疏架构，仅10亿至40亿参数同时激活。更大模型直接运行于iPhone，可使更多Apple Intelligence功能在设备端而非云端处理，有望降低苹果成本并增强用户隐私。",
-              "source_url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-10T00:24:54+08:00"
-            },
-            {
-              "title": "Apple TV和MLB发布八月“周五棒球之夜”赛程",
-              "brief": "苹果和美国职业棒球大联盟今日发布了Apple TV+每周“周五棒球之夜”双赛的八月赛程。该节目包含在Apple TV+订阅中，无需额外付费。",
-              "source_url": "https://www.macrumors.com/2026/07/09/apple-tv-friday-night-baseball-august/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-10T00:13:51+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "iVANKY FusionDock Ultra：为Mac工作流打造的雷电5扩展坞",
-              "brief": "iVANKY推出FusionDock Ultra，一款针对Mac工作流优化的雷电5扩展坞。该扩展坞支持高速数据传输和多种外设连接，旨在提升Mac用户的生产力。关键细节包括高速带宽、多端口设计以及兼容性。",
-              "source_url": "https://9to5mac.com/2026/07/09/ivanky-fusiondock-ultra-thunderbolt-5-dock-built-for-mac-workflows/",
+              "title": "Apple TV 公布八月“周五棒球之夜”赛程",
+              "brief": "Apple TV 发布了八月份“Friday Night Baseball”的赛程安排，该服务为 Apple TV+ 订阅用户提供每周五两场 MLB 比赛的直播。具体比赛场次和日期已公布，包括多支热门球队的对决。",
+              "source_url": "https://9to5mac.com/2026/07/09/apple-tv-unveils-august-friday-night-baseball-schedule/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-10T06:30:00+08:00"
+              "published_at": "2026-07-10T08:36:58+08:00"
             },
             {
-              "title": "苹果停止为多款旧iPhone和iPad签署iOS版本（更新：已恢复签署）",
-              "brief": "苹果已停止为部分旧款iPhone和iPad签署旧版iOS，这意味着用户无法再降级到这些版本。此举通常在新系统发布后发生，旨在鼓励用户保持最新系统。但随后苹果恢复了签署，具体原因未明。",
-              "source_url": "https://9to5mac.com/2026/07/09/apple-stops-signing-ios-versions-for-several-older-iphones-and-ipads/",
+              "title": "最佳 CarPlay 使用技巧与窍门",
+              "brief": "文章汇总了 CarPlay 的实用技巧，包括如何自定义主屏幕、使用 Siri 进行导航和播放音乐、以及通过第三方应用扩展功能。这些技巧旨在提升驾驶时的便捷性和安全性。",
+              "source_url": "https://9to5mac.com/2026/07/09/best-carplay-features-tips/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-10T03:34:12+08:00"
+              "published_at": "2026-07-10T08:03:44+08:00"
             },
             {
-              "title": "iPhone 18 Pro可能带来三项有争议的设计变化",
-              "brief": "据爆料，iPhone 18 Pro可能引入三项争议性设计改动。这些变化涉及外观和功能调整，可能挑战用户习惯。苹果尚未官方确认，但传闻已引发讨论。",
-              "source_url": "https://9to5mac.com/2026/07/09/iphone-18-pro-could-bring-three-controversial-design-changes/",
+              "title": "Apple 在 App Store Connect 年龄分级问卷中新增社交媒体问题",
+              "brief": "Apple 更新了 App Store Connect 的年龄分级问卷，增加了关于应用是否包含社交媒体功能的问题。开发者需回答应用是否允许用户发布内容、与其他用户互动等，以更准确地评估年龄分级。",
+              "source_url": "https://9to5mac.com/2026/07/09/apple-adds-social-media-questions-to-app-store-connect-age-rating-questionnaire/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-10T03:00:25+08:00"
+              "published_at": "2026-07-10T07:42:01+08:00"
             },
             {
-              "title": "OpenAI将停用独立桌面浏览器ChatGPT Atlas",
-              "brief": "OpenAI宣布停止其独立桌面浏览器ChatGPT Atlas。该浏览器曾作为ChatGPT的专用入口，但用户反馈和市场份额不佳。停用后，用户需转向其他方式访问ChatGPT。",
-              "source_url": "https://9to5mac.com/2026/07/09/openai-is-discontinuing-chatgpt-atlas-its-standalone-desktop-browser/",
+              "title": "Netflix 寻求通过直播电视和捆绑服务提升用户参与度，却忽视 Apple TV 应用集成",
+              "brief": "Netflix 正探索直播电视和套餐捆绑以增加用户粘性，但报道指出其仍拒绝集成 Apple TV 应用。相比之下，其他流媒体服务已支持 Apple TV 统一搜索和单点登录，Netflix 的缺席限制了用户体验。",
+              "source_url": "https://9to5mac.com/2026/07/09/netflix-looking-for-engagement-in-live-tv-and-bundles-while-apple-tv-app-integration-is-right-there/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-10T02:56:07+08:00"
+              "published_at": "2026-07-10T07:31:24+08:00"
             },
             {
-              "title": "Strava 新增活动标签页，展示即将到来的比赛、团体跑步等",
-              "brief": "Strava 在其应用中新增了一个“活动”标签页，用于展示即将到来的比赛、团体跑步和其他体育活动。该功能旨在帮助用户发现并参与附近的线下活动，进一步强化社交属性。用户现在可以浏览、搜索和报名参加各类活动，同时还能查看好友的动态。",
-              "source_url": "https://9to5mac.com/2026/07/09/strava-gets-an-events-tab-with-upcoming-races-group-runs-more/",
+              "title": "iOS 27 beta 3 变化、Apple Watch 上的 Siri AI 以及 macOS Golden Gate 功能",
+              "brief": "本期 Happy Hour 播客讨论了 iOS 27 beta 3 的新变化，包括界面调整和功能改进；Apple Watch 上的 Siri AI 增强，可更智能地处理请求；以及 macOS Golden Gate 的新特性，如增强的多任务处理。",
+              "source_url": "https://9to5mac.com/2026/07/09/happy-hour-598/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-10T02:35:46+08:00"
+              "published_at": "2026-07-10T06:58:39+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌开始在安卓上推出本地文档备份，允许关闭短信和RCS备份",
+              "brief": "谷歌正在为安卓设备推出本地文档备份功能。在设置 > 账户与备份 > Google 备份 > 其他设备数据中，新增了短信/彩信、通话记录和设备设置的开关，用户可自行选择是否将这些数据上传到云端。此前这三项始终自动备份。此外，Google Play 服务 v26.25 开始推出新版备份设置，并确认“短信/彩信”包含 RCS。本周谷歌宣布所有安卓数据将计入 Google 账户存储空间，预计用户备份平均增加约40MB。同时，谷歌开始测试“本地文件备份”选项，可自动将下载的文档保存到 Google Drive，支持 .DOC、.PPT、.XLS、.PDF 等格式。启用后，Google Drive 中将出现以设备命名的文件夹，文档在传输过程中加密，关闭功能不会删除已有备份。该功能随最新 Google Play 服务测试版逐步推送。",
+              "source_url": "https://9to5google.com/2026/07/09/android-documents-backup/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-10T07:59:17+08:00"
+            },
             {
               "title": "Pixelated 107：对Made by Google活动的一些牢骚",
               "brief": "本期Podcast讨论了即将到来的Made by Google年度活动，涵盖从手机到智能手表等产品，并猜测可能出现的惊喜。节目还提到可通过订阅9to5Google Pro收听每周独家内容，并由Proton Unlimited赞助。主持人包括Abner Li、Damien Wilde和Will Sattelberg，听众可通过多个平台订阅。",
@@ -115,19 +122,33 @@
               "source_url": "https://9to5google.com/2026/07/09/gemini-app-feedback/",
               "source_name": "9to5Google",
               "published_at": "2026-07-10T00:31:52+08:00"
-            },
-            {
-              "title": "三星因担心后续机型涨价而提高Galaxy S26产量",
-              "brief": "据报道，三星已将2026年7月Galaxy S26系列的全系产量提升至超过150万部，较原计划的100万部增加50%。增产的部分将用于韩国本土及全球市场。此举背后的原因是消费者担心明年Galaxy S27系列可能因零部件成本上涨而提价。目前Galaxy S26 Ultra起售价与去年持平，但较低两款机型起售价已上调，且所有高存储版本价格均有所增加。尽管旗舰机型涨价尚属罕见，但Pixel 11系列等产品预计也将提价，消费者正为新一轮价格上涨做准备。",
-              "source_url": "https://9to5google.com/2026/07/09/samsung-boosts-galaxy-s26-production-on-the-fears-of-more-expensive-sequels/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-10T00:20:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "弗洛雷斯人的饮食习惯揭示其进化历史",
+              "brief": "研究人员通过分析弗洛雷斯人（绰号“霍比特人”）的牙齿和骨骼化学特征，发现他们可能以腐食为主，从科莫多龙捕杀的大象尸体中获取食物。这一行为模式暗示他们并非顶级掠食者，而是机会主义食腐者，这或许能解释为何他们体型矮小且脑容量有限。",
+              "source_url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-10T06:29:10+08:00"
+            },
+            {
+              "title": "密歇根州爆发腹泻寄生虫疫情，病例数突破1200",
+              "brief": "密歇根州爆发由隐孢子虫引起的腹泻疫情，病例数已超过1200例，且仍在快速增长。该寄生虫通过受污染的水或食物传播，主要症状包括水样腹泻和胃痉挛。卫生部门正在调查可能的污染源，并提醒公众注意饮水安全。",
+              "source_url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-10T05:56:44+08:00"
+            },
+            {
+              "title": "OpenAI推出新工具，旨在替你完成工作并协同操作",
+              "brief": "OpenAI发布了一款名为“Operator”的新工具，能够自主执行网页浏览、填写表单等任务，并允许用户实时介入调整。该工具基于GPT-4o模型，旨在提升工作效率，但可能引发关于就业和隐私的讨论。目前仅向部分付费用户开放测试。",
+              "source_url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-10T05:25:55+08:00"
+            },
             {
               "title": "Windows Defender 零日漏洞补丁可能导致攻击者填满硬盘",
               "brief": "微软发布了一个针对Windows Defender零日漏洞的补丁，该漏洞可能被攻击者利用来填满用户硬盘。漏洞存在于Defender的扫描引擎中，攻击者通过发送特制文件触发无限循环写入，导致磁盘空间耗尽。微软建议用户立即安装更新以防止拒绝服务攻击。",
@@ -141,27 +162,6 @@
               "source_url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-10T04:28:55+08:00"
-            },
-            {
-              "title": "外科医生控制的人形机器人完成世界首例活猪手术",
-              "brief": "一组外科医生通过远程控制人形机器人，成功对活猪进行了世界首例手术。机器人由医生实时操控，执行了精细的软组织操作。该技术旨在扩展远程手术能力，未来可能应用于战场或偏远地区。手术在实验环境中完成，未出现并发症。",
-              "source_url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-10T04:12:03+08:00"
-            },
-            {
-              "title": "法官不赞同马斯克与SEC的和解协议，但称法院无权阻止",
-              "brief": "一名联邦法官对埃隆·马斯克与美国证券交易委员会（SEC）达成的和解协议表示不满，认为该协议可能不足以惩罚马斯克的不当行为。然而，法官同时指出，根据法律，法院无权否决双方自愿达成的和解。关键细节在于，和解内容未公开，但涉及马斯克此前在社交媒体上的争议言论。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-10T03:10:33+08:00"
-            },
-            {
-              "title": "OpenAI在与新闻机构的版权纠纷中可能犯下致命错误",
-              "brief": "OpenAI在与新闻机构（包括《纽约时报》）的版权诉讼中陷入被动，因其被指控未能如实说明其搜索训练数据的能力。据《纽约时报》称，OpenAI伪造了无法搜索训练数据的假象，并隐藏了数十亿条日志记录。关键细节在于，这些日志可能证明OpenAI使用了受版权保护的新闻内容进行训练，从而加剧了法律风险。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-10T02:57:53+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "Xbox CEO阿莎·夏尔玛在宣布大规模裁员后被任命为美联储就业顾问",
+              "brief": "美国联邦储备委员会宣布任命行业领袖组成各工作组以指导货币政策，其中生产力与就业工作组将评估包括人工智能在内的新技术对经济的影响，为政策判断提供依据。新任Xbox CEO阿莎·夏尔玛被选为顾问之一，她刚从微软核心AI部门调任游戏部门，上任数月内已推动硬件涨价并宣布裁减3200个工作室岗位。尽管微软长期裁减多个部门，但这一任命时机不佳，尤其游戏行业正艰难维持就业并寻求合理使用AI。与她一同加入的还有对AI言论不佳的马克·安德森以及斯坦福大学经济学教授查尔斯·I·琼斯，后者目前借调至Anthropic研究所。整体而言，该团队在批判性看待AI与就业市场方面未必令人放心。",
+              "source_url": "https://www.engadget.com/2211983/days-after-laying-off-3-200-xbox-ceo-asha-sharma-tapped-to-advise-the-federal-reserve-on-jobs/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-10T06:54:22+08:00"
+            },
+            {
               "title": "Playdate帮助大本钟准时报时",
               "brief": "在旅游节目《Best of the World》中，国会大厦钟表机械师Andrew Strangeway展示了他用Playdate游戏机辅助校准大本钟报时。Strangeway此前已在2025年新年钟声准备中使用该设备。Playdate公司对此表示，这正是开放硬件和易编程性带来的意外惊喜。",
               "source_url": "https://www.engadget.com/2211936/playdate-is-helping-big-ben-ring-on-time/",
@@ -235,19 +242,33 @@
               "source_url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
               "source_name": "Engadget",
               "published_at": "2026-07-10T04:50:04+08:00"
-            },
-            {
-              "title": "谷歌将标注AI生成的广告",
-              "brief": "谷歌在My Ad Center中新增“广告制作方式”板块，当广告使用谷歌自有AI工具创建或编辑时，将自动添加披露信息。若使用其他工具，品牌可手动标注AI参与，但为自愿而非强制。此举旨在提高广告透明度，帮助消费者了解所购产品。",
-              "source_url": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-10T04:06:17+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "微软去年碳排放量增加25%",
+              "brief": "微软2026年可持续发展报告显示，其碳排放量在2025年增加了25%，达到3400万公吨。报告指出，这主要由于数据中心基础设施的扩张以及公司去年2月决定停止购买非额外、非捆绑的可再生能源证书。微软此前定下2030年实现碳负排放的目标，但此次增长表明其气候目标面临挑战。",
+              "source_url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+              "source_name": "The Verge",
+              "published_at": "2026-07-09T20:04:13-04:00"
+            },
+            {
+              "title": "Fidji Simo因健康原因辞去OpenAI AGI负责人职务",
+              "brief": "OpenAI的AGI负责人Fidji Simo宣布因神经免疫疾病离职，转为兼职顾问。她曾在4月因病休假，期间公司首席运营官Brad Lightcap和首席营销官Kate Rouch也因健康或项目原因离职。Simo的离职延续了OpenAI高管层的变动，她休假时由总裁Greg Brockman接管产品工作。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+              "source_name": "The Verge",
+              "published_at": "2026-07-09T19:24:04-04:00"
+            },
+            {
+              "title": "Netflix据称考虑增加常驻频道",
+              "brief": "《华尔街日报》报道称，Netflix正考虑增加像Pluto TV那样的常驻频道，持续播放特定节目和电影。此举源于用户参与度下降，Netflix寻求通过常驻频道和捆绑其他流媒体服务来扭转局面。Netflix的广告支持套餐已取得一定成功，但每月仍收费8.99美元。",
+              "source_url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+              "source_name": "The Verge",
+              "published_at": "2026-07-09T19:00:31-04:00"
+            },
             {
               "title": "ChatGPT浏览器已死",
               "brief": "OpenAI宣布关闭其浏览器产品ChatGPT Atlas，距离推出不到一年。Atlas于去年10月发布，能够代表用户执行任务，但作为ChatGPT Work更新的一部分，公司确认将“日落”Atlas，计划于8月9日停用。此举源于OpenAI减少“支线任务”并追赶Anthropic生产力功能的策略。今年3月，《华尔街日报》报道称OpenAI计划将ChatGPT应用、Codex和Atlas整合为桌面“超级应用”，ChatGPT Work正是这一努力的成果。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-07-09T16:32:18-04:00"
-            },
-            {
-              "title": "谷歌将告知用户广告是否由AI制作",
-              "brief": "谷歌宣布，将自动对使用其生成式AI工具制作的广告添加“由AI创建或编辑”标签。这一更新于周四公布，用户在谷歌搜索、谷歌发现和YouTube上看到的广告，可通过“我的广告中心”查看该标签。用户点击广告上的三点或信息图标即可找到。谷歌表示，对于使用其自有生成式AI广告工具制作的广告，将自动应用AI标签；而其他平台制作的AI广告则需要广告主手动添加。在某些地区，AI标签还可能直接显示在广告上。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-              "source_name": "The Verge",
-              "published_at": "2026-07-09T16:11:38-04:00"
-            },
-            {
-              "title": "谷歌Nest恒温器降至年内最低价",
-              "brief": "谷歌Nest恒温器（2020款）现以79美元促销，较原价130美元降价50美元，创下年内最低价。这款入门级智能恒温器支持Matter协议，可通过Google Home应用远程调节温度、创建日程，并兼容谷歌助手、Alexa等语音助手。促销仅限白色款，在亚马逊有售。",
-              "source_url": "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-09T13:33:46-04:00"
-            },
-            {
-              "title": "微软的补丁星期二将迎来更大规模更新",
-              "brief": "微软宣布将更广泛地利用人工智能来增强安全更新流程。随着黑客越来越多地利用AI快速利用安全漏洞，微软也通过AI提前识别潜在问题，从而在每次安全更新中包含更多修复。此举源于近期高严重性漏洞频发，如影响几乎所有Linux发行版的“Copy Fail”漏洞，以及Anthropic的Claude Mythos模型发现所有主流操作系统中的高危漏洞。",
-              "source_url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-              "source_name": "The Verge",
-              "published_at": "2026-07-09T13:00:00-04:00"
             }
           ]
         }
@@ -339,39 +339,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "AI造富效应显现：OpenAI与Anthropic员工IPO后或可买下旧金山近三分之一房产",
-              "brief": "Redfin估算，OpenAI员工税后持有约1350亿美元股权，可买下旧金山都会区约20%的住房；Anthropic员工税后股权约630亿美元，可购买约9%的住房。计算基于极端假设，但揭示了即将涌入市场的资金规模。2026年上半年，旧金山已有144套住房以高出挂牌价至少100万美元成交，是去年同期的17倍。部分卖家开始接受OpenAI或Anthropic的未上市股票作为付款方式。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568534.htm",
+              "title": "OpenAI宣布GPT-5.6成为微软Copilot 365首选模型 回应双方合作破裂传闻",
+              "brief": "针对市场关于微软与OpenAI合作破裂的传闻，OpenAI于周四发布博客声明，明确表示GPT-5.6将成为微软Copilot 365的首选模型，为Word、Excel、PowerPoint等应用提供支持。此前有报道称微软在部分软件中改用自研AI模型以减少对OpenAI的依赖。OpenAI重申双方合作承诺，但“首选模型”具体含义尚不明确，分析认为微软仍可能继续探索多元化模型架构。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568552.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T06:49:02+08:00"
+              "published_at": "2026-07-10T08:36:21+08:00"
             },
             {
-              "title": "奥特曼称“不知道”OpenAI今年是否会进行IPO",
-              "brief": "当被问及OpenAI今年是否会进行IPO时，CEO奥特曼表示“不知道”。此前有报道称OpenAI正与特朗普政府谈判，提议出让5%股份，但奥特曼称其中有很多不准确之处。他希望监管方式具有全球性，确保每个人都能使用AI。OpenAI与Anthropic均已秘密提交招股说明书，但未公布正式计划或时间表。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568532.htm",
+              "title": "微软详解三类Windows更新：安全补丁、可选预览与紧急修复",
+              "brief": "微软近日发布说明，详细介绍了Windows更新的三种类型：第一类是每月第二个星期二的“补丁星期二”安全更新，包含安全与非安全修复，企业可通过Autopatch等工具部署；第二类是每月第四周发布的可选非安全预览更新，供IT管理员提前测试；第三类是紧急修复严重问题的额外发布更新，不受固定周期约束。此外，微软还通过年度更新和受控功能推出机制持续投放新功能。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568550.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T06:47:58+08:00"
+              "published_at": "2026-07-10T08:35:55+08:00"
             },
             {
-              "title": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude 价格最低仅为竞品十六分之一",
-              "brief": "OpenAI发布GPT-5.6系列，包括Sol、Terra和Luna三款模型。旗舰Sol在多项基准测试中超越Anthropic的Claude Fable 5，而低端Terra和Luna在约十六分之一的成本下仍超越Fable 5。Sol在编程智能体指数中创下80分新纪录，并引入“max”和“ultra”多智能体推理模式。安全方面，防护措施较前代拦截的有害活动多出约10倍。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568530.htm",
+              "title": "贝索斯首次太空旅行同行者“史上最老女宇航员”去世 享年87岁",
+              "brief": "曾于2021年与杰夫·贝索斯一同搭乘蓝色起源火箭进入太空的“史上最老女宇航员”瓦莉·芬克去世，享年87岁。芬克是20世纪60年代水星13号计划中接受宇航员培训的13名女飞行员之一，但当时被禁止成为宇航员。2021年，她作为贝索斯的特邀贵宾完成短途太空飞行，创下最年长太空旅行者纪录，该纪录后被威廉·夏特纳等人打破。蓝色起源称其为“在各方面都堪称先驱者”。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1568548.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T06:47:16+08:00"
+              "published_at": "2026-07-10T08:16:41+08:00"
             },
             {
-              "title": "扎克伯格为Meta付费人工智能工具制定“激进”价格策略",
-              "brief": "Meta发布最新AI模型Muse Spark 1.1，CEO扎克伯格表示其API定价仅为OpenAI和Anthropic顶级模型的约25%。该模型在智能体推理和编程能力方面显著提升，Meta员工已在内部使用。扎克伯格称这是Meta模型首次全面超过谷歌所有模型。Meta已转向优先发展可收费的闭源模型，并正在研发代号Watermelon的新模型。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568528.htm",
+              "title": "OpenAI高层动荡：Fidji Simo卸任“二号人物”转任顾问",
+              "brief": "OpenAI高层发生变动，此前被称为“二号人物”的应用首席执行官Fidji Simo将卸任并转任顾问。Simo于2024年加入OpenAI，负责消费级业务增长，但随着ChatGPT增长放缓和内部营收压力，公司面临调整方向。她此前曾在Instacart任CEO并带领公司IPO，在Meta工作超十年。此次离职使CEO Sam Altman需寻找继任者。OpenAI近期人事调整频繁，包括首席营销官和首席产品官离职。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568546.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T06:46:08+08:00"
+              "published_at": "2026-07-10T08:15:17+08:00"
             },
             {
-              "title": "NAND成为苹果iPhone 18 Pro Max的最大成本组成部分 单价超过250美元",
-              "brief": "在iPhone 18 Pro Max的物料清单中，仅NAND闪存采购成本就超过250美元，加上DRAM总成本约400美元。内存与闪存成本占比从iPhone 17 Pro的9%攀升至27%。苹果通过削减显示面板等支出补偿，但整体BOM仍上涨约300美元，而零售价仅预计上调200美元，利润空间受挤压。受成本影响，该机型可能无缘LPDDR6内存。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568526.htm",
+              "title": "美商务部长施压三星SK海力士扩大在美内存芯片生产 缓解全球短缺",
+              "brief": "美国商务部长卢特尼克公开施压三星和SK海力士扩大在美国的内存芯片生产，以缓解全球短缺并稳固芯片供应链。尽管美光可能不乐见竞争对手扩张，但卢特尼克强调美国需要更多产能。SK海力士正准备在美上市融资265亿美元，三星和SK海力士计划未来几年投资8800亿美元建厂。美光已宣布将美国投资增至2500亿美元。卢特尼克还回避了苹果从中国企业购买存储芯片的问题，强调保护美国知识产权。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568544.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-10T06:45:09+08:00"
+              "published_at": "2026-07-10T07:27:38+08:00"
             }
           ]
         },
@@ -379,45 +379,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
-              "brief": "特斯拉Optimus Gen 3人形机器人完成研发定型，即将进入量产阶段。马斯克在6月底的高管会上评审通过最新版本，要求年底前实现产能目标，否则将开除整个采购团队。供应商已接到8月数百台订单，预计年底具备年产10万台零部件的能力。马斯克表示初期产量会非常缓慢，因涉及全新生产线和1万个独特零部件，2027年将开始高产量生产。",
-              "source_url": "https://www.ithome.com/0/974/782.htm",
+              "title": "OpenAI 升级 Chrome 浏览器 ChatGPT 扩展：可查看完整上下文并控制标签页",
+              "brief": "OpenAI 正在升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展，使其能够查看浏览器中的完整上下文，包括用户高亮的内容，并可控制标签页、访问本地文件系统和已安装的插件。该扩展将整合桌面应用中的对话线程。此前 OpenAI 宣布将逐步停用独立的 Atlas 浏览器，将其功能整合进 ChatGPT。",
+              "source_url": "https://www.ithome.com/0/974/807.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T23:48:31+08:00"
+              "published_at": "2026-07-10T08:33:55+08:00"
             },
             {
-              "title": "拼多多刚在雄安购房，又在上海陆家嘴买了一栋楼",
-              "brief": "拼多多近期在上海陆家嘴购置一栋办公楼，该楼于2009年竣工，共19层，总建筑面积约4.6万平方米。此前6月，拼多多通过整体购置方式落位雄安·电建智汇城数字新消费电商产业园，该园区总建筑面积166.68万平方米，包含多种业态。拼多多连续在两地购置房产，进一步扩展其业务布局。",
-              "source_url": "https://www.ithome.com/0/974/781.htm",
+              "title": "摩根大通：AI 投资热潮降温，市场不再盲目买入",
+              "brief": "摩根大通策略师莱博维茨指出，AI 投资热潮正在降温，市场不再抱着“凡是跟 AI 沾边的东西都买”的想法。他认为，相较于半导体和硬件，数据中心建设和运营的需求更可能获得结构性支撑，芯片领域存在供应过多风险。随着投资者对 AI 基础设施投资的狂热退潮，部分芯片股如 SK 海力士股价已从高点下跌超 20%。",
+              "source_url": "https://www.ithome.com/0/974/806.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T23:37:19+08:00"
+              "published_at": "2026-07-10T08:33:37+08:00"
             },
             {
-              "title": "SpaceX与AI公司排队造富，私人飞机行业意外先被新贵们带火了",
-              "brief": "SpaceX的IPO为员工和创始人创造巨额财富，加上AI公司如Anthropic和OpenAI即将上市，引发科技投资者购买私人飞机的热潮。航空律师表示业务量跃升25%，私人飞机共享航班量同比增长11.8%，机主运营航班量增长13.4%。旧金山公务机航班量增长最快，SpaceX发射场附近航班量猛增177%。私人航空成为AI热潮最早受益的行业之一。",
-              "source_url": "https://www.ithome.com/0/974/780.htm",
+              "title": "苹果一度停止签署部分老 iPhone/iPad 基带固件，现已恢复",
+              "brief": "苹果从 7 月 9 日起停止了部分老版本 iOS 的基带固件签署，导致 iPhone 4、4S、5、5C 及多款老 iPad 的蜂窝网络版本无法通过 OTA 或 IPSW 方式还原系统或刷机。受影响设备涵盖 iOS 6 至 iOS 10 系统。目前该问题已修复，设备可正常还原。Wi-Fi 版 iPad 因无基带未受影响。",
+              "source_url": "https://www.ithome.com/0/974/805.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T23:23:38+08:00"
+              "published_at": "2026-07-10T08:31:08+08:00"
             },
             {
-              "title": "Epic喜加二：《Nova Lands》《纹身大亨》游戏免费领取",
-              "brief": "Epic游戏商城本周送出两款游戏。《Nova Lands》是一款工厂建造、探索与岛屿管理的开放世界游戏，玩家依靠机器人打造自动化工厂，克服挑战。《纹身大亨》中玩家经营纹身店，为顾客设计纹身，从个人工作室扩张为连锁店。领取时间有限，玩家可免费获取并永久保留。",
-              "source_url": "https://www.ithome.com/0/974/779.htm",
+              "title": "OpenAI 整合桌面端应用：集成聊天、工作和 AI 编程",
+              "brief": "OpenAI 推出了整合后的桌面端应用，包含聊天、ChatGPT Work 和 Codex 三部分，用户可同时运行新版和旧版应用。新版应用支持提问、搜索、创建文档和电子表格，以及使用本地文件、存储库和终端开发软件。网页版与桌面版聊天记录同步，但桌面版 Work 的本地文件保留在原计算机。",
+              "source_url": "https://www.ithome.com/0/974/804.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T23:05:25+08:00"
+              "published_at": "2026-07-10T08:19:15+08:00"
             },
             {
-              "title": "安全公司曝光黑客山寨苹果macOS剪贴板管理软件Maccy官网，借此传播恶意木马",
-              "brief": "安全公司Jamf发现黑客山寨macOS剪贴板管理软件Maccy官网，通过广告提升权重诱骗用户下载恶意软件包。该包内置AppleScript脚本，检测非沙盒环境后要求输入管理员密码，随后下载PamStealer木马。该木马伪装成访达，窃取浏览器数据、加密货币钱包和剪贴板信息，加密后上传至黑客服务器，用于勒索。",
-              "source_url": "https://www.ithome.com/0/974/778.htm",
+              "title": "纽约联储主席威廉姆斯：AI 是当前最关注的通胀问题，或迫使加息",
+              "brief": "纽约联储主席威廉姆斯表示，AI 现在是他最关注的通胀问题，如果通胀比预期更顽固，美联储可能需要加息。他指出，若核心 PCE 每月上涨超过 0.2%，则表明通胀更具粘性。目前货币政策处于有利位置，但如果形势恶化，将作出回应。",
+              "source_url": "https://www.ithome.com/0/974/803.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-09T23:00:53+08:00"
+              "published_at": "2026-07-10T08:16:21+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "约翰·卡马克回应id Software裁员：游戏需要成功，不能只受喜爱",
+              "brief": "id Software母公司微软游戏部门大规模裁员，96名员工在德克萨斯州理查森总部被裁，另有40名远程员工被解雇，总计约50%员工失业。这是新任Xbox CEO Asha Sharma对微软游戏业务进行“重置”的一部分，本周一已有1600名员工被裁，本财年剩余时间还将裁减1600人。四家Xbox工作室已被关闭，另一家也岌岌可危。微软战略转向多平台发行、手持Xbox设备（实为迷你Windows电脑），未来Xbox主机可能只是游戏PC。id Software联合创始人约翰·卡马克回应称，游戏需实现商业成功才能长期发展，仅受玩家喜爱不足以保证存续。",
+              "source_url": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
+              "source_name": "IGN",
+              "published_at": "2026-07-10T07:02:05+08:00"
+            },
             {
               "title": "《火影忍者》真人电影导演与制片方启动全球选角，寻找主演",
               "brief": "《火影忍者》真人电影已进入前期制作，导演德斯汀·丹尼尔·克雷顿和制片方狮门影业启动全球选角，寻找饰演第七班三位年轻忍者鸣人、佐助和小樱的演员。克雷顿在社交媒体上表示，岸本齐史的故事激励了全球粉丝，很荣幸首次将其世界和角色搬上大银幕。岸本齐史也表达了对电影化的期待，称奇迹接连发生，并期待与优秀演员相遇。其他角色的选角将后续进行。",
@@ -445,13 +452,58 @@
               "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-already-earned-the-series-biggest-player-peak-on-steam",
               "source_name": "IGN",
               "published_at": "2026-07-10T00:53:42+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "Cloudflare推出Drop功能：一分钟部署静态网站，无需域名和服务器",
+              "brief": "网络服务提供商Cloudflare推出名为Drop的新功能，用于托管纯静态网站。用户上传压缩包或文件夹后，系统自动识别内容并在云端启动隔离环境部署，通过Cloudflare CDN实现全球加速访问。默认生成的网站有效期60分钟，可通过认领绑定账户实现永久访问。该功能完全免费，支持随机域名，但仅限静态资源，不能调用数据库或后端程序。",
+              "source_url": "https://www.landian.news/archives/113872.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-10T08:30:27+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "中信建投：险资参与债券通“南向通”有助于缓解“资产荒”，进一步优化资产负债匹配",
+              "brief": "中信建投研报指出，保险资金参与债券通“南向通”投资，将有助于缓解当前面临的“资产荒”问题，通过拓宽境外投资渠道，优化资产负债匹配，提升投资组合收益。此举为险资提供了更多高收益资产选择，同时分散风险。",
+              "source_url": "https://36kr.com/newsflashes/3889110644210185?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-10 08:47:55  +0800"
             },
             {
-              "title": "《恋与深空》粉丝继续呼吁瓦尔科回归，新更新仍将其排除在外",
-              "brief": "《恋与深空》新更新未包含原定于7月9日上线的新恋爱角色瓦尔科，该角色因部分中国玩家的负面反应而取消。全球玩家通过社交媒体、创作同人图和以瓦尔科名义捐款等方式呼吁其回归，但更新后角色选择界面仅剩空白。玩家反应从心碎到愤怒不一，同时出现未证实爆料称瓦尔科在剧情中有关键作用，并有传闻暗示部分过场动画因暗示性内容被删减。",
-              "source_url": "https://www.ign.com/articles/love-and-deepspace-fans-continue-calls-for-valkos-return-after-update-excludes-him",
-              "source_name": "IGN",
-              "published_at": "2026-07-10T00:39:36+08:00"
+              "title": "华泰证券：全球冷却需求升维打开暖通新空间",
+              "brief": "华泰证券研报认为，全球冷却需求正经历升维，从传统制冷向高效、绿色、智能化方向演进，这将为暖通空调行业打开新的增长空间。数据中心、新能源汽车等新兴领域对冷却技术的需求激增，推动行业技术升级与市场扩容。",
+              "source_url": "https://36kr.com/newsflashes/3889110260628230?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-10 08:47:32  +0800"
+            },
+            {
+              "title": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
+              "brief": "谷歌宣布全面扩大生成式AI广告的披露范围，新规要求在谷歌搜索、YouTube和Discover信息流中，对由AI创建或编辑的商业广告进行明确标注，以防止消费者被虚假合成场景误导。此举旨在提升广告透明度，保护消费者权益。",
+              "source_url": "https://36kr.com/newsflashes/3889106112002561?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-10 08:43:19  +0800"
+            },
+            {
+              "title": "MINIMAX：拟发行新股及债券，配售价为每股配售股份268港元",
+              "brief": "MINIMAX公告称，公司已与配售代理订立配售协议，拟发行配售股份，配售价为每股268港元，预计所得款项总额约95.4亿港元，净额约94.91亿港元。同时，公司拟发行本金总额65亿港元的债券，初步转换价为每股A类股份335港元，较最后收市价溢价约12.64%。",
+              "source_url": "https://36kr.com/newsflashes/3889105628281345?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-10 08:42:49  +0800"
+            },
+            {
+              "title": "中信建投：关注磷资源战略地位的持续提升",
+              "brief": "中信建投研报表示，磷资源战略地位持续提升，美中先后将磷矿石及元素磷列为国家重点战略资源。磷系新材料在AI、半导体、新能源等领域需求旺盛，国产替代有望加速。高纯红磷、黄磷等关键材料在磷化铟衬底、电子级磷酸等应用中不可或缺。",
+              "source_url": "https://36kr.com/newsflashes/3889103335242242?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-10 08:40:29  +0800"
             }
           ]
         }
