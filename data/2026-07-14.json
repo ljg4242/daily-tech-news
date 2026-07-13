@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T04:50:00.613641+08:00",
+  "generated_at": "2026-07-14T06:50:50.010239+08:00",
   "sections": [
     {
       "category": "主要",
@@ -23,6 +23,13 @@
               "published_at": "2026-07-14T04:39:18+08:00"
             },
             {
+              "title": "tvOS 27 和 watchOS 27 现已面向公开测试版用户",
+              "brief": "苹果今天发布了 tvOS 27 和 watchOS 27 的首个公开测试版，Apple TV 和 Apple Watch 用户可在秋季正式发布前试用新软件。此外还有针对 HomePod 和 HomePod mini 的 HomePod 软件 27 测试版。用户可通过苹果公开测试计划网站注册，然后在各设备的设置应用中下载更新。今天的公开测试版与上周发布的第三个开发者测试版相同。watchOS 27 引入了 Siri AI，只要 iPhone 支持，用户即可在手表上使用 Siri AI 访问个人信息、回答问题并完成任务。按下数字表冠时会出现新的动态应用网格，Siri 应用居中显示。Smart Stack 新增选择小组件的手势，并增加寻找停车位置、访问公交卡和生日提醒等建议。Workout Buddy 无需 iPhone 即可使用，跑步机行走和跑步距离追踪更精确，还新增支持精确查找的统一查找应用。tvOS 27 拥有重新设计的播客应用、Apple Music 中的高解析度无损音频和 AutoMix 歌曲过渡，以及更简单的用户切换。性能改进使应用启动更快、动画更流畅、AirPlay 连接更迅速。",
+              "source_url": "https://www.macrumors.com/2026/07/13/watchos-27-public-beta/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-14T04:38:00+08:00"
+            },
+            {
               "title": "苹果向开发者推送iOS 26.6和iPadOS 26.6第五个测试版",
               "brief": "苹果今天向开发者推送了iOS 26.6和iPadOS 26.6的第五个测试版，距离上个测试版发布已有一周。注册开发者可通过iPhone或iPad的“设置”应用，在“通用”下的“软件更新”中下载。由于iOS 27将于9月上线，苹果正收尾iOS 26.6的开发。该更新预计无重大新功能，主要聚焦错误修复和性能改进，但新增了关于阻止联系人上限的提示文字，并可能包含防抢夺功能——当iPhone被从手中夺走时自动锁定。",
               "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-26-6-beta-5/",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-macos-tahoe-26-6-beta-5/",
               "source_name": "MacRumors",
               "published_at": "2026-07-14T01:28:15+08:00"
-            },
-            {
-              "title": "苹果发布watchOS 26.6、tvOS 26.6和visionOS 26.6第五个测试版",
-              "brief": "苹果今天向开发者推送了watchOS 26.6、tvOS 26.6和visionOS 26.6的第五个测试版，距离上个测试版发布已有一周。这些更新可通过各设备的“设置”应用获取，需要免费开发者账户。目前尚无关于新功能的详细信息，但watchOS、tvOS和visionOS的测试版通常功能较少，主要侧重于错误修复和性能改进。",
-              "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-watchos-26-6-beta-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-14T01:28:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果起诉OpenAI，指控前员工窃取商业机密",
+              "brief": "苹果公司对OpenAI提起诉讼，指控其前员工窃取商业机密。OpenAI随后回应了苹果的诉讼。该事件在7月13日的9to5Mac Daily播客中被讨论，播客还涉及其他话题。",
+              "source_url": "https://9to5mac.com/2026/07/13/daily-july-13-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T04:59:45+08:00"
+            },
+            {
+              "title": "tvOS 27和HomePod 27公测版现已发布，以下是新功能",
+              "brief": "苹果发布了tvOS 27和HomePod 27的公测版，用户可通过Apple Beta Software Program安装。tvOS 27改进了播客应用、智能下载、大字体、更快的AirPlay连接，并新增Apple Music无损音频和AutoMix功能。HomePod 27则支持更快的AirPlay和AutoMix。Siri AI因硬件限制未包含在此次更新中，预计今秋随新硬件推出。",
+              "source_url": "https://9to5mac.com/2026/07/13/tvos-27-and-homepod-27-public-betas-now-available-heres-whats-new/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T04:59:32+08:00"
+            },
+            {
+              "title": "苹果推出iPadOS 27和macOS 27 Golden Gate修订版公测3",
+              "brief": "苹果发布了iPadOS 27和macOS 27 Golden Gate开发者公测3的修订版，同时推出首个公测版。新版本号分别为24A5380l和26A5378n。苹果未说明修订原因，可能是在公测前修复了问题。目前正在挖掘新版本中的变化。",
+              "source_url": "https://9to5mac.com/2026/07/13/apple-rolls-out-revised-beta-3-builds-for-ipados-27-and-macos-27-golden-gate/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T04:53:31+08:00"
+            },
             {
               "title": "MagSafe 周一：Twelve South PowerBug 清理台面",
               "brief": "Twelve South 推出了 PowerBug，一款 MagSafe 充电底座，旨在解决桌面杂乱问题。该产品采用独特设计，将充电器隐藏在桌面下方，通过磁吸方式固定设备，从而保持台面整洁。PowerBug 支持 iPhone 和 AirPods 充电，并兼容 MagSafe 保护壳。",
@@ -61,33 +82,33 @@
               "source_url": "https://9to5mac.com/2026/07/13/macos-27-public-beta-now-available-heres-how-to-install-it/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-14T04:45:39+08:00"
-            },
-            {
-              "title": "watchOS 27 公测版发布，引入 Siri AI 和更智能的 Apple Watch 功能",
-              "brief": "苹果推出了 watchOS 27 公测版，重点升级了 Siri 人工智能，使其能更自然地处理复杂请求。新系统还增强了健康监测功能，并优化了运动追踪算法。用户可通过 Apple Watch 的软件更新界面安装，但需注意公测版可能影响日常使用。",
-              "source_url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:45:12+08:00"
-            },
-            {
-              "title": "iOS 27 公测版发布，带来 Siri AI、iPhone 速度提升等",
-              "brief": "苹果发布了 iOS 27 公测版，核心亮点是 Siri 人工智能升级，能更好地理解上下文并执行多步骤任务。系统还优化了性能，提升应用启动速度和响应性。此外，新增了自定义主屏幕布局和隐私控制功能。用户可通过设置中的软件更新安装。",
-              "source_url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:45:07+08:00"
-            },
-            {
-              "title": "苹果发布 iPadOS 27 公测版，以下是新功能",
-              "brief": "苹果推出了 iPadOS 27 公测版，主要更新包括改进的多任务处理和 Apple Pencil 支持。新系统增强了分屏和拖放功能，并引入全新的快捷指令自动化。同时，iPad 的台前调度功能得到优化，提升外接显示器体验。用户可通过设置中的软件更新安装。",
-              "source_url": "https://9to5mac.com/2026/07/13/apple-releases-ipados-27-public-beta-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:44:47+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星健康将删除你的数据，除非你同意用于AI训练",
+              "brief": "三星健康向用户推送新的同意通知，要求用户允许将健康数据用于AI训练，包括人工审核。数据涵盖步数、睡眠、用药、周期跟踪以及完整的健康记录。若用户通过设置撤回同意，系统会弹出警告称将删除数据并停止同步。三星表示，用户将无法同步健康数据，数据将被删除除非法律要求保留。此举正值三星健康改版引入更多AI功能，以及Galaxy Watch 9发布前夕。",
+              "source_url": "https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-14T06:15:00+08:00"
+            },
+            {
+              "title": "Snapseed 4.1 for Android 推出，大幅扩展RAW格式支持",
+              "brief": "Google 发布 Snapseed 4.1 for Android，新增对 DNG、ARW、RAF、NEF、CR3、ORF 和 PEF 等主流 RAW 格式的支持。Google 表示通过改进图像处理和修复边缘情况实现了扩展，但仍有少数格式暂未完善。此外，新版本允许用户在工具内直接撤销和重做编辑，无需退出到主界面。该更新正在逐步推送，iOS 版即将到来。",
+              "source_url": "https://9to5google.com/2026/07/13/snapseed-4-1-raw/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-14T05:48:28+08:00"
+            },
+            {
+              "title": "Android 2026年7月谷歌系统更新内容一览",
+              "brief": "谷歌发布2026年7月系统更新，涵盖手机、Android TV、Auto和PC。主要更新包括：Google Play Store v52.3 针对大屏优化内容布局和密度，欧盟地区可识别AI生成图像并标注；Google Play服务 v26.26 升级Google One原生商店以提升应用内购买体验，并新增API改善工作资料设置可靠性。更新通过系统设置中的“Google服务”进行。",
+              "source_url": "https://9to5google.com/2026/07/13/july-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-14T05:25:00+08:00"
+            },
             {
               "title": "几乎所有谷歌Pixel 11机型出现在FCC网站上",
               "brief": "FCC网站发布了五款新Pixel 11设备的认证列表，型号分别为GPQQ7、GUJ0N、G7SWN、GBC0H和G4HCD，预计对应Pixel 11系列（不含Pro Fold）。其中三款设备支持UWB和Thread功能，另两款可能为Pixel 11基础版。这些设备将采用联发科调制解调器，取代以往的Exynos方案，这与谷歌Tensor G6芯片的传闻一致。Pixel 11系列预计于8月11日发布。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
               "source_name": "9to5Google",
               "published_at": "2026-07-14T02:10:00+08:00"
-            },
-            {
-              "title": "报道称一加将于本周晚些时候正式退出美国和欧洲市场",
-              "brief": "据WinFuture援引知情人士消息，一加准备正式退出美国和欧洲市场，公告预计本周内发布。此前一加已出现多项撤退迹象，包括官网引导用户转向OPPO、OxygenOS可能被砍、内部合并等。印度和中国市场不受影响。此举是OPPO战略调整的一部分。一加此前已确认正在评估欧洲市场未来，并否认过早期退出传闻。",
-              "source_url": "https://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-14T01:45:00+08:00"
-            },
-            {
-              "title": "Galaxy Z Fold 8 Ultra真机视频显示屏幕折痕消失",
-              "brief": "微博账号Momentary Digital发布了一段疑似Galaxy Z Fold 8 Ultra早期机型的视频，显示其内屏无明显折痕。视频中设备多次折叠后仍未见折痕，而此前型号折叠后立即出现。尽管在某些角度仍可见微小凹陷，但整体折痕改善显著。这标志着三星折叠屏技术的里程碑。Galaxy Z Fold 8系列及Galaxy Z Flip 8将于7月22日的Galaxy Unpacked活动上发布。",
-              "source_url": "https://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-14T01:33:25+08:00"
-            },
-            {
-              "title": "周一安卓应用优惠：Turnip Boy Robs a Bank、Beholder Conductor、Serial Cleaner等免费或折扣",
-              "brief": "本周一安卓应用促销活动包括Turnip Boy Robs a Bank、Beholder Conductor、Serial Cleaner等应用免费或折扣，同时Anker 2026夏季促销正在进行中，智能显示屏充电器、25W 3合1 MagSafe支架等配件低至8美元。",
-              "source_url": "https://9to5toys.com/2026/07/13/monday-android-app-deals-freebies-turnip-boy/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-14T01:18:18+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "内存短缺导致智能手机出货量创历史新低，苹果和三星受益",
-              "brief": "由于DRAM和NAND芯片价格上涨，智能手机出货量在第二季度下降了11%，创下2013年以来同期最低水平。分析认为，制造商将产能转向支持AI计算，导致消费设备组件短缺。内存成本在500美元以下机型中已占制造成本的一半，而高端机型中占比超过四分之一。尽管整体市场下滑，苹果和三星等头部厂商因利润空间较大而受损较轻。",
-              "source_url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+              "title": "乌克兰无人机袭击迫使俄罗斯停止关键海上走廊的航运",
+              "brief": "乌克兰无人机部队在7月6日至13日期间，每晚出动单向攻击无人机，打击了超过100艘俄罗斯油轮及其他船只，并发布了视频证据。此次行动迫使俄罗斯完全关闭了从顿河通往亚速海的航运路线，并停止了所有经刻赤海峡往返亚速海与黑海的船舶通行。据路透社报道，海上航线的关闭进一步孤立了俄占克里米亚半岛，切断了其燃料的海上运输。此前，乌克兰加强对俄能源基础设施和补给线的中远程无人机打击，已导致克里米亚出现严重燃油配给和停电。此外，亚速海航运限制可能影响俄罗斯四分之一的谷物出口。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-14T01:18:25+08:00"
+              "published_at": "2026-07-14T04:41:26+08:00"
             },
             {
-              "title": "科罗拉多州将决定是否在州宪法中增加“天然气权”",
-              "brief": "一项由保守派非营利组织提出的 ballot 措施旨在修改科罗拉多州宪法，保障化石燃料公司销售甲烷气的权利。该修正案仅60字，可能迫使已推动建筑电气化的社区修改建筑规范，从而阻碍该州实现气候目标。倡议已收集足够签名，将在11月州选举中由选民决定。批评者称此举是“愤世嫉俗的尝试”。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
+              "title": "加州为电动汽车新买家设立3500美元退税",
+              "brief": "加州州长纽森签署了一项新的电动汽车退税法案，为首次购买电动汽车的居民提供即时退税。根据“MyFirstEV零排放车辆即时退税计划”，新购电动汽车可获3500美元退税，购买二手电动汽车可获1750美元退税，但均有价格上限。此举是在美国联邦政府取消电动汽车税收抵免、导致电动汽车销量暴跌的背景下出台的。纽森表示，特朗普政府正试图污染空气并将清洁汽车产业拱手让给中国，加州则通过此计划加速清洁汽车普及，让家庭更易选择清洁、省钱的车辆。",
+              "source_url": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-14T00:49:35+08:00"
+              "published_at": "2026-07-14T03:52:48+08:00"
             },
             {
-              "title": "黑客迅速证明Neo Geo版《毁灭战士》并非“不可能”",
-              "brief": "尽管Neo Geo基于精灵的显示硬件和缺少帧缓冲，黑客仍通过两个项目成功移植了《毁灭战士》。Doom64KB项目利用固定图层作为帧缓冲，以8x8像素块渲染画面；另一项目则采用图形妥协。虽然画面粗糙，但证明了通过巧妙编程可在老旧硬件上运行经典游戏。",
-              "source_url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+              "title": "苹果起诉OpenAI，指控前工程师利用漏洞窃取商业机密",
+              "brief": "苹果在诉讼中称，OpenAI与前苹果员工合谋，利用一个“罕见”的认证漏洞窃取商业机密。前苹果工程师刘畅在2026年1月离职加入OpenAI后，于2月9日发现了一个苹果未知的认证漏洞，使他能够继续访问苹果共享网络文件夹，并在数周内下载了数十份包含未发布硬件细节的机密文件。苹果要求法院禁止OpenAI使用这些被窃信息，并指控OpenAI意图通过非法手段快速推出可与iPhone匹敌的AI驱动设备。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-14T00:37:14+08:00"
+              "published_at": "2026-07-14T03:17:51+08:00"
             },
             {
-              "title": "行业官员担忧龙飞船可用性：一场“等待发生的灾难”？",
-              "brief": "随着国际空间站计划在2030年代初退役，NASA正与多家公司合作开发私人空间站，但运输宇航员成为难题。目前只有SpaceX的龙飞船具备载人能力，而波音的星际线飞船因测试事故可能要到2028年后才能复飞。私人空间站运营商担心过度依赖单一运输工具，呼吁开发额外的载人飞船。",
-              "source_url": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+              "title": "费曼反向洒水器谜题的解答也适用于“趣味洒水器”",
+              "brief": "纽约大学库朗研究所的研究人员通过实验不同设计的趣味洒水器，解答了流体动力学中长期存在的反向洒水器问题。该问题由物理学家费曼推广，但最早可追溯到马赫1883年的教科书。反向洒水器的旋转方向并非直觉中的反向，其物理机制更为复杂。新研究确认了2024年提出的“动量通量理论”，即水流的角动量驱动旋转。相关论文发表在《美国国家科学院院刊》上。",
+              "source_url": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-14T00:05:03+08:00"
+              "published_at": "2026-07-14T03:00:47+08:00"
             },
             {
-              "title": "现在，防御者也加入了提示注入的行列",
-              "brief": "安全公司Tracebit发现，通过将提示注入与AWS上存储的密码和密钥放在一起，可以触发攻击性AI代理的拒绝机制，使其停止操作。这种名为“上下文炸弹”的技术利用大语言模型的护栏，迫使其执行禁止指令（如开发炭疽孢子或提及敏感内容），从而导致代理关闭。该方法能有效阻断AI黑客攻击。",
-              "source_url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+              "title": "多州起诉阻止派拉蒙与华纳兄弟探索公司合并",
+              "brief": "以加州为首的12个州提起诉讼，试图阻止派拉蒙天空之舞与华纳兄弟探索公司价值1110亿美元的合并。该合并已获特朗普政府批准，但加州总检察长邦塔表示，合并将导致“价格上涨、质量下降、影视内容减少”，损害影院、有线电视分销商和观众利益。合并将整合两大电影制片厂及流媒体服务派拉蒙+与HBO Max。各州要求合并方在司法程序结束前不得完成交易，否则将申请临时限制令。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-13T23:06:34+08:00"
+              "published_at": "2026-07-14T02:34:35+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Android Auto 或将为仪表盘带来更智能的媒体播放器",
+              "brief": "Android Auto 正在测试重新设计的仪表盘媒体卡片，将专辑封面居中并添加模糊背景，同时可根据音乐应用增加喜欢、随机播放和重复等额外控制按钮。这些按钮是否显示取决于车载屏幕的尺寸。谷歌在2026年I/O大会上宣布了Android Auto的全面改造，今天已有迹象显示谷歌地图的沉浸式导航界面正在逐步推送，而此次发现的媒体卡片更新是另一项未在大会上明确展示的视觉变化。",
+              "source_url": "https://www.androidauthority.com/android-auto-media-player-card-apk-teardown-3687057/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-14T05:33:05+08:00"
+            },
+            {
+              "title": "谷歌即将推出的 Home Display 或带回 Nest Hub Max 的摄像头功能",
+              "brief": "谷歌被曝正在开发新款 Home Display，这将是其多年来首款专用智能屏幕。Google Home 应用中的代码显示，该设备将支持类似 Nest Hub Max 的摄像头，功能基本与 Nest Cam 一致，提供有限的免费事件录制，并可通过 Home Premium 订阅获取更多功能。此前谷歌智能家居负责人曾表示对智能屏幕的兴趣，但未确认具体计划。此次发现的代码进一步证实了摄像头支持的准备情况。",
+              "source_url": "https://www.androidauthority.com/google-home-display-camera-3687045/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-14T05:18:44+08:00"
+            },
             {
               "title": "HTC Vive Eagle AI眼镜即将登陆美国，但价格可能令人望而却步",
               "brief": "HTC终于将其Vive Eagle AI眼镜引入美国市场，亚马逊列表显示将于2026年9月1日发货。该眼镜直接对标大获成功的Ray-Ban Meta，但售价499美元，比Meta入门款贵200美元。其亮点在于AI功能：支持13种语言实时翻译、免提记笔记和语音拍照。硬件方面，搭载骁龙AR1 Gen 1处理器，配备4GB内存和32GB存储，电池容量235mAh，可连续播放立体声4.5小时，重量仅48.8克，具备IP54防护等级。",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/google-pixel-sounds-app-volume-sliders-apk-teardown-3682557/",
               "source_name": "Android Authority",
               "published_at": "2026-07-14T02:26:54+08:00"
-            },
-            {
-              "title": "Pixel 11 系列即将发布，其余机型已通过 FCC 认证",
-              "brief": "Google 将于 8 月 12 日发布 Pixel 11 系列。继上周 Pixel 11 Pro Fold 通过 FCC 认证后，其余机型也出现在 FCC 文档中，包括 Pixel 11（GPQQ7、GUJ0N）、Pixel 11 Pro（G7SWN）和 Pixel 11 Pro XL（G4HCD、GBC0H）。这些设备均提及 MediaTek 调制解调器算法，确认 Tensor G6 芯片将采用 MediaTek IP，并由台积电 2nm 工艺制造。不同机型的测试数据完整性不一。",
-              "source_url": "https://www.androidauthority.com/pixel-11-fcc-3687003/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-14T01:48:22+08:00"
-            },
-            {
-              "title": "Google Health 权限问题困扰部分 Pixel Watch 用户",
-              "brief": "Pixel Watch 用户遇到 Google Health 应用反复请求传感器权限的问题，即使所有权限已开启，提示仍不消失，甚至恢复出厂设置也无法解决。部分用户的数据收集已停止，但另一些用户仍能看到传感器数据，暗示问题可能出在应用本身。该问题似乎出现在过去几周内，可能与最近的 Google Health 更新有关。Google 尚未回应。",
-              "source_url": "https://www.androidauthority.com/pixel-watch-sensor-permissions-3686913/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-14T01:23:14+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "请让这个热粉色Pixel 11泄露成为现实",
+              "brief": "9to5Google通过姊妹网站9to5Toys发现亚马逊上出现了三个可能展示Pixel 11新配色的商品列表，其中一款为亮洋红色，另一款为桃粉色。这些占位符列表的规格中有一些令人信服的细节，颜色在标题和描述中名称不一致，但第二组名称与之前泄露的紫红色型号相符。截至发稿时，这些列表尚未上线，可能并非来自谷歌官方来源。",
+              "source_url": "https://www.engadget.com/2214292/please-let-this-hot-pink-pixel-11-leak-be-real/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-14T06:42:48+08:00"
+            },
+            {
+              "title": "微软正在让Windows搜索框更简洁实用",
+              "brief": "微软宣布Windows 11的搜索框将迎来一系列调整，包括精简主屏幕以减少视觉杂乱、优化结果显示布局以展示更多元数据、允许用户切换是否显示网络和Microsoft Store结果，且网络搜索不再显示赞助内容。这些改进旨在提升搜索体验，从今天起Windows Insider成员可能开始看到变化。这是微软在将重心转回Windows 11生活质量改进后的最新举措。",
+              "source_url": "https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-14T05:12:19+08:00"
+            },
             {
               "title": "iOS 27、macOS 27 等苹果平台公测版现已推出",
               "brief": "苹果发布了 2027 年软件更新的首个公测版，包括 iOS 27、iPadOS 27、macOS 27 Golden Gate 和 watchOS 27。iOS 27 的最大亮点是全新的 Siri AI，它从基本语音命令系统升级为现代 AI 助手，支持自然对话、理解上下文、回答屏幕内容问题并在应用内执行多步操作。用户还可以自定义助手声音的丰富度，并有一个专门的 Siri 应用存储历史记录。新 Siri 目前仅支持英语，且最初不会在欧盟可用。此外，照片应用获得了更强大的编辑工具，包括空间重构和外延扩展功能，图像游乐场可生成更高质量的图像。苹果还承诺全面性能提升，应用启动速度提升最高 30%，照片显示速度提升最高 70%，AirDrop 传输速度提升最高 80%。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2214113/ransomware-negotiator-who-colluded-with-attackers-to-scam-victims-was-sentenced-to-70-months-in-prison/",
               "source_name": "Engadget",
               "published_at": "2026-07-14T03:53:26+08:00"
-            },
-            {
-              "title": "iCloud+ 与 Apple One：哪个更适合你？",
-              "brief": "iCloud+ 是苹果的云存储订阅服务，提供比免费 5GB 更多的存储空间，并可共享给最多五位家庭成员。它还包含 iCloud Private Relay（隐藏 IP 并加密 Safari 流量）、Hide My Email（生成随机电子邮件地址）以及自定义 iCloud 邮件域名等功能。iCloud+ 计划起价为每月 0.99 美元（50GB）。Apple One 则是苹果订阅服务捆绑包，包含 iCloud+ 以及 Apple Music、Apple TV+、Apple Arcade 等服务。Apple One 个人版（每月 16.95 美元）提供 50GB iCloud 存储，家庭版（每月 22.95 美元）提供 200GB，高级版（每月 32.95 美元）提供 2TB 并增加 Apple News+ 和 Fitness+。如果你只想要更多存储空间，iCloud+ 更便宜；如果你使用多项苹果服务，Apple One 可能更划算。",
-              "source_url": "https://www.engadget.com/2209865/icloud-plus-vs-apple-one/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-14T02:30:00+08:00"
-            },
-            {
-              "title": "电视记录应用TV Time功能重组，母公司转向人工智能",
-              "brief": "电视记录社交应用TV Time的创始人Anthony Pinto正在创建一款名为Bingers的现代替代应用，预计于7月底上线。TV Time自2011年创立，2021年全球注册用户达2000万，后被Blue Torch Capital收购并计划向AI转型。TV Time于7月15日关闭，原因是免费模式不可持续。Pinto表示Bingers将保留TV Time最受欢迎的功能，并采用现代UI设计，同时通过低成本服务器确保长期运营。新应用将允许用户追踪影视节目、设置新片提醒和参与粉丝讨论，并支持从TV Time导入历史数据。",
-              "source_url": "https://www.engadget.com/2213944/tv-time-is-relaunching-as-its-parent-company-pivots-to-ai/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-14T02:02:24+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "多州发起最后努力阻止派拉蒙与华纳兄弟探索合并",
-              "brief": "12个州的检察长于周一提起诉讼，试图阻止派拉蒙与华纳兄弟探索价值1100亿美元的合并，警告这将推高电影票价并压垮有线电视分销商。此前，美国司法部上月决定不阻止该合并，据报道其职业员工倾向于反对。这些州包括加利福尼亚、亚利桑那、科罗拉多等，认为合并将非法损害竞争，形成“媒体巨头”。",
-              "source_url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
+              "title": "微软测试无广告和冗余内容的Windows搜索",
+              "brief": "微软正在测试Windows 11搜索菜单的简化版本，移除推荐内容和广告。该更新目前向Experimental频道的Windows Insider用户推送，旨在重建用户信任并修复Windows问题。主要变化包括重新设计的搜索主页仅显示近期搜索，右侧窗格不再出现图片、每日测验、热门搜索和游戏推荐等干扰项。同时，网络搜索结果也将精简，优先呈现最相关的答案。",
+              "source_url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
               "source_name": "The Verge",
-              "published_at": "2026-07-13T14:35:48-04:00"
+              "published_at": "2026-07-13T17:53:20-04:00"
             },
             {
-              "title": "高油价推动电动汽车市场复苏",
-              "brief": "美国对伊朗战争导致汽油价格飙升，推动消费者转向电动汽车，尤其是混合动力车。2026年第二季度电动汽车销量约24.7万辆，环比增长近15%，为去年联邦税收抵免取消以来最佳表现。Cox Automotive分析显示，尽管复苏不均衡，但可能已度过最艰难时期。",
-              "source_url": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
+              "title": "一加据报将退出美国市场",
+              "brief": "据WinFuture报道，一加及其母公司OPPO计划在未来几天内宣布一加品牌退出美国和欧洲市场。若成真，将终结数月来关于一加未来的传闻。此前Android Headlines在1月称一加将被“拆解”，尽管一加当时声明北美业务照常运营。3月9to5Google报道一加可能退出全球市场，4月Android Authority透露一加欧洲和英国多名高管离职。一加尚未回应置评请求。",
+              "source_url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
               "source_name": "The Verge",
-              "published_at": "2026-07-13T14:03:20-04:00"
+              "published_at": "2026-07-13T17:48:43-04:00"
             },
             {
-              "title": "苹果起诉OpenAI的6个最惊人指控",
-              "brief": "苹果在41页的诉状中指控OpenAI“指导”苹果员工如何规避安全检查，并在面试中要求“展示和讲述”。该诉讼还涉及其他多项指控，详细描述了OpenAI涉嫌的不当行为，包括窃取商业机密和违反合同。",
-              "source_url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+              "title": "DJI最强大的无线麦克风双人套装首次降价",
+              "brief": "DJI Mic 3无线麦克风双人套装迎来首次降价，现售219美元（原价259美元），可在Best Buy、B&H Photo和Amazon购买。该套装包含两个麦克风、一个接收器、充电盒、线缆和四个防风罩，能显著提升智能手机视频的音频质量。",
+              "source_url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-07-13T13:00:00-04:00"
+              "published_at": "2026-07-13T17:03:14-04:00"
             },
             {
-              "title": "英伟达汽车业务负责人也需为公司算力资源而战",
-              "brief": "英伟达汽车业务负责人吴新宙在播客中透露，尽管他负责汽车业务，但也要与其他部门争夺公司内部的算力资源。英伟达因AI热潮成为全球最有价值公司之一，其GPU供不应求。同时，英伟达也是汽车行业关键供应商，已为梅赛德斯等车企提供完整自动驾驶系统。吴新宙讨论了汽车行业向自动驾驶电动汽车转型的挑战，包括美国电动汽车普及周期偏离轨道、自动驾驶难以解决最后20%的复杂情况等问题。",
-              "source_url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+              "title": "Shokz OpenRun Pro降至1月以来最低价",
+              "brief": "Shokz OpenRun Pro骨传导耳机现售109美元（原价160美元），折扣31%，在Amazon、Walmart和B&H Photo有售。该价格追平了1月以来的历史最低价。耳机采用开放式设计，适合户外运动时使用，让用户保持对周围环境的感知。",
+              "source_url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-07-13T11:00:00-04:00"
+              "published_at": "2026-07-13T16:57:44-04:00"
             },
             {
-              "title": "华硕ROG Flow Z13游戏平板64GB内存版降至2100美元",
-              "brief": "华硕ROG Flow Z13游戏平板/笔记本混合设备的价格近期大幅下降。配置AMD Ryzen AI Max Plus 395芯片、64GB RAM和1TB SSD的版本在百思买售价降至2099.99美元，原价2999.99美元。亚马逊上同款但内存减半的版本售价低100美元，但64GB版性价比更高。该设备在游戏笔记本普遍涨价的背景下逆势降价，成为值得关注的PC游戏装备。",
-              "source_url": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+              "title": "今年Pixel配色可能很出彩",
+              "brief": "据9to5Google发现的已删除亚马逊列表，谷歌Pixel 11系列可能推出多种鲜艳配色，包括热粉色Fuchsia（Hibiscus）、亮绿色Moss（Pistachio）和黑色Midnight（Obsidian）。Pixel 11 Pro可能提供暗绿色Pine（Olive）、冰蓝色Light Fog（Fog）、淡紫色Sterling（Frost）和橙色Dune（Canyon）。Pixel 11 Pro Fold可能只有Pine（Olive）和Midnight（Obsidian）两种颜色。",
+              "source_url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
               "source_name": "The Verge",
-              "published_at": "2026-07-13T10:52:14-04:00"
+              "published_at": "2026-07-13T16:52:27-04:00"
             }
           ]
         }
@@ -339,6 +339,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "用户反馈三星Galaxy S26 Ultra屏幕中间泛红，或与隐私屏幕功能有关",
+              "brief": "部分用户反馈三星Galaxy S26 Ultra手机在特定使用场景下屏幕中间区域出现泛红现象。外媒推测可能与Privacy Display（隐私屏幕）机制有关，该功能通过压暗两侧像素并增强中间像素来限制侧面视角，但尚未有直接证据证实其与泛红问题的关联。目前具体原因仍在调查中。",
+              "source_url": "https://www.ithome.com/0/976/253.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-14T06:44:12+08:00"
+            },
+            {
               "title": "苹果 watchOS 26.6 开发者预览版 Beta 5 发布",
               "brief": "苹果于7月14日发布了watchOS 26.6开发者预览版Beta 5更新。该版本主要面向开发者测试，注册了苹果开发者计划的用户可通过系统设置中的软件更新升级。此前的Beta 4于7月7日发布，本次更新可能包含Bug修复和性能改进。",
               "source_url": "https://www.ithome.com/0/976/252.htm",
@@ -365,13 +372,6 @@
               "source_url": "https://www.ithome.com/0/976/249.htm",
               "source_name": "IT之家",
               "published_at": "2026-07-14T04:41:03+08:00"
-            },
-            {
-              "title": "消息称华为鸿蒙HarmonyOS 7消费者Beta版下月开启测试",
-              "brief": "博主@Adak封狼居胥透露，华为鸿蒙HarmonyOS 7消费者Beta版预计下个月开启测试，正式版将在秋季向消费者开放。适配机型包括Mate 80系列、Mate 70系列、Mate 60系列、Pura 90系列等手机，以及多款MatePad平板。目前华为官方尚未公布具体活动日期。",
-              "source_url": "https://www.ithome.com/0/976/239.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-13T23:59:00+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《指环王：追捕咕噜》将使用AI对部分角色进行减龄处理",
-              "brief": "《指环王：追捕咕噜》作为原版《指环王》三部曲的前传，将让伊利亚·伍德和伊恩·麦克莱恩回归饰演佛罗多和甘道夫，但距离《护戒使者》上映已过去25年，演员年龄增长引发粉丝担忧。导演安迪·瑟金斯在接受《Variety》采访时透露，影片将使用数字减龄技术让角色看起来更年轻。瑟金斯认为AI技术只要不具剥削性且不伤害他人就是有价值的，可用于创建参考素材，但不能用于剥削或恶意用途。",
-              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-will-use-ai-to-de-age-some-of-its-characters",
+              "title": "《王国之心4》新画面可能下月公布",
+              "brief": "迪士尼D23大会将于下月举行，其中包含一小时的《王国之心》25周年纪念座谈会。会上可能公布《王国之心4》的新内容或发售窗口。该游戏上月在任天堂直面会上发布了四年来首支预告，但未透露具体发售日期。",
+              "source_url": "https://www.ign.com/articles/new-look-at-kingdom-hearts-4-may-be-coming-next-month",
               "source_name": "IGN",
-              "published_at": "2026-07-14T00:10:47+08:00"
+              "published_at": "2026-07-14T03:59:21+08:00"
             },
             {
-              "title": "《使命召唤：黑色行动》PS4/PS5移植版因作弊者横行被玩家称为“无法游玩”",
-              "brief": "动视上周发布了《黑色行动1》和《黑色行动2》的PS4/PS5移植版，但玩家发现多人游戏大厅充斥着作弊行为。作弊者通过自爆并退出游戏的方式瞬间达到满级，导致正常对局无法进行。玩家反映大厅中有人反复自爆刷经验，使游戏体验严重受损。目前动视尚未修复该问题，部分模式已被禁用。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-black-ops-port-deemed-unplayable-as-lobbies-are-filled-with-exploiters",
+              "title": "前Xbox工作室Compulsion Games寻求合作",
+              "brief": "Compulsion Games在领英上发布声明，宣布回归独立开发者身份，并开放与其他工作室的合作机会，包括作为支持或共同开发方。该工作室曾开发《南方午夜》，2025年发售后获得IGN 8分评价。Xbox于2018年收购该工作室，近期因聚焦旗下大型IP而与其分道扬镳。",
+              "source_url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
               "source_name": "IGN",
-              "published_at": "2026-07-13T23:30:40+08:00"
+              "published_at": "2026-07-14T03:23:40+08:00"
             },
             {
-              "title": "《上古卷轴OL》开发商ZeniMax Online Studios称裁员后规模与制作热门DLC时相同，安抚玩家",
-              "brief": "微软旗下Xbox部门近期裁员1600人，其中Bethesda受影响严重，ZeniMax Online Studios裁员379人。开发商表示裁员后团队规模与制作《上古卷轴OL》早期热门DLC时相同，旨在安抚玩家对游戏未来更新的担忧。Bethesda负责人称裁员是为了加强业务、实现可持续增长，确保能继续投资于旗下IP。",
-              "source_url": "https://www.ign.com/articles/the-elder-scrolls-online-dev-zenimax-online-studios-insists-its-now-the-same-size-it-was-when-it-made-much-loved-dlcs-moves-to-reassure-worried-fans-after-xbox-layoffs",
+              "title": "硅谷大学为稀有游戏成就提供最高1.5万美元奖学金",
+              "brief": "硅谷大学推出“最大成就奖学金”，根据学生在《最终幻想14》《老式跑跑卡丁车》《Hades》等游戏中获得的稀有成就发放奖学金。分为精通级（每学期最高2500美元）和传奇级（每学期最高5000美元），每年三个学期。校方称此举奖励自律练习和战略解决问题等与学术卓越相同的品质。",
+              "source_url": "https://www.ign.com/articles/university-gives-students-up-to-15k-in-scholarships-for-rare-gaming-achievements",
               "source_name": "IGN",
-              "published_at": "2026-07-13T22:46:20+08:00"
+              "published_at": "2026-07-14T03:01:50+08:00"
             },
             {
-              "title": "我的化学浪漫主唱杰拉德·威在演唱会间隙与粉丝讨论《博德之门》，但他还没玩过第三部",
-              "brief": "在《黑色巡演》演唱会间隙，主唱杰拉德·威看到粉丝举着“杰拉德，你玩过《博德之门3》吗？”的横幅，便停下与观众互动。他回应只玩过初代和《冰风谷》扩展包，因时间不够未玩2代和3代。他还询问观众《博德之门3》是否好玩，得到热烈欢呼。威是知名《龙与地下城》粉丝，乐队经典MV《I'm Not Okay》开头也提及D&D。",
-              "source_url": "https://www.ign.com/articles/my-chemical-romance-singer-gerard-way-takes-break-during-live-show-to-discuss-baldurs-gate-though-bizarrely-hes-still-not-played-bg3",
+              "title": "夏日游戏速通取消SNK赞助直播，因人权担忧",
+              "brief": "Games Done Quick在《合金弹头》30周年速通直播开始两小时后，因社区对SNK多数股权由沙特公共投资基金持有引发的人权担忧，取消了该赞助直播。GDQ表示不会接受赞助资金，并称合作与其支持人权和包容性的价值观冲突，为此道歉并承诺加强审核。",
+              "source_url": "https://www.ign.com/articles/summer-games-done-quick-cancels-sponsored-snk-stream-due-to-human-rights-concerns",
               "source_name": "IGN",
-              "published_at": "2026-07-13T22:44:35+08:00"
+              "published_at": "2026-07-14T01:52:27+08:00"
             },
             {
-              "title": "架空历史密码学惊悚游戏《False Echo》宣布登陆PC",
-              "brief": "开发商Retromagine公布了新作《False Echo》，这是一款设定在架空历史中的密码学惊悚游戏。玩家将操作Obscura机器处理传输信号，调整转子和连接电缆以解码信息，并使用ECHO系统将消息分类为真或假。游戏包含多结局，玩家需要应对每天变化的规则和相互矛盾的指令，在高压环境中做出关键决策。目前游戏已上架Steam，发售日未定。",
-              "source_url": "https://www.ign.com/articles/false-echo-an-alternate-history-cryptography-thriller-announced-for-pc",
+              "title": "派拉蒙正在开发《猛鬼街》重启版",
+              "brief": "派拉蒙已获得韦斯·克雷文《猛鬼街》原版剧本版权，将通过其新类型厂牌Paramount Primal开发重启版。克雷文的遗孀伊亚·拉布卡和儿子乔纳森·克雷文将担任制片人。目前该项目尚未确定编剧或导演，具体细节保密。",
+              "source_url": "https://www.ign.com/articles/nightmare-on-elm-street-reboot-in-the-works-at-paramount",
               "source_name": "IGN",
-              "published_at": "2026-07-13T22:00:00+08:00"
+              "published_at": "2026-07-14T01:32:08+08:00"
             }
           ]
         }
