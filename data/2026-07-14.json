@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T06:50:50.010239+08:00",
+  "generated_at": "2026-07-14T08:50:29.354596+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 公测版发布：10 个值得测试的新功能",
+              "brief": "苹果今天发布了 iOS 27 公测版，带来了 Siri AI、性能提升和多项 Apple Intelligence 新功能。这是苹果近年来最稳定的测试版之一，但官方仍建议不要在主力设备上安装。性能改进在下载后即可感知，动画、应用启动、AirDrop 传输都更快，旧款 iPhone 也能感受到流畅度提升。Siri 升级为 Siri AI，支持连续对话，可访问用户个人信息并联网搜索，功能接近 ChatGPT。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-public-beta-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-14T07:07:18+08:00"
+            },
+            {
+              "title": "iOS 26.6 将警告恶意 iMessage",
+              "brief": "据 X 用户泄露，苹果在 iOS 26.6 中新增“恶意消息检测”功能，当检测到可能有害的 iMessage 时会弹出警告，提示用户分享该消息以帮助苹果防范未来攻击，并提供“稍后再说”、“与 Apple 分享”和“不报告”选项。该功能代码已出现在 iOS 26.6 beta 5 中，但具体触发条件尚未明确，可能针对复杂的漏洞利用和钓鱼尝试。不过，该警告外观与 Safari 中虚假诈骗弹窗相似，可能造成用户困惑。",
+              "source_url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-14T07:02:48+08:00"
+            },
             {
               "title": "macOS Golden Gate 首个公测版现已发布",
               "brief": "苹果今日发布了 macOS Golden Gate 的首个公测版，将 macOS 27 的测试范围扩展至非开发者。用户可在苹果 beta 网站注册，然后通过系统设置 > 通用 > 软件更新，开启 macOS 27 公测选项来下载。macOS Golden Gate 包含了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，但通过 Command+Space 快捷键从 Spotlight 调用。Siri 可搜索网页、查阅个人数据（如照片、邮件和消息）以帮助查找信息，并能在应用内或跨应用执行操作。新增了独立的 Siri 应用，支持连续对话。视觉智能功能被引入 Mac，使 Siri 能识别屏幕内容并回答相关问题。去年推出的液态玻璃设计得到更新，新增了控制系统透明度的滑块，同时界面设计改进以增强层次感和窗口区分度。应用现在采用统一的工具栏，窗口圆角更小，侧边栏不再浮动并延伸至边缘，外接显示器上的窗口定位更一致。Siri 写作功能可生成文本、纠正语法或提供反馈，照片应用新增 AI 编辑工具。快捷指令支持自然语言创建自动化，邮件和消息的搜索功能得到增强。系统整体性能优化，即使在旧款 Mac 上也能获得更快速流畅的体验。",
@@ -28,26 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/07/13/watchos-27-public-beta/",
               "source_name": "MacRumors",
               "published_at": "2026-07-14T04:38:00+08:00"
-            },
-            {
-              "title": "苹果向开发者推送iOS 26.6和iPadOS 26.6第五个测试版",
-              "brief": "苹果今天向开发者推送了iOS 26.6和iPadOS 26.6的第五个测试版，距离上个测试版发布已有一周。注册开发者可通过iPhone或iPad的“设置”应用，在“通用”下的“软件更新”中下载。由于iOS 27将于9月上线，苹果正收尾iOS 26.6的开发。该更新预计无重大新功能，主要聚焦错误修复和性能改进，但新增了关于阻止联系人上限的提示文字，并可能包含防抢夺功能——当iPhone被从手中夺走时自动锁定。",
-              "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-26-6-beta-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-14T01:28:35+08:00"
-            },
-            {
-              "title": "苹果向开发者推送macOS Tahoe 26.6第五个测试版",
-              "brief": "苹果今天向开发者推送了macOS Tahoe 26.6的第五个测试版，距离上个测试版发布已有一周。开发者可通过“系统设置”应用，在“通用”下的“软件更新”中下载，需开启Beta更新并拥有免费开发者账户。随着macOS Golden Gate即将在几个月后发布，苹果的注意力主要集中在新系统上，因此macOS Tahoe 26.6预计不包含重大新功能。",
-              "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-macos-tahoe-26-6-beta-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-14T01:28:15+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iOS 27公测版：你应该在iPhone上安装吗？",
+              "brief": "苹果发布iOS 27公测版。根据苹果官网，Beta版软件可能包含错误或缺陷，建议用户安装前备份设备。此外，第三方应用可能尚未针对新功能优化，部分应用可能无法正常运行。9to5Mac编辑测试后认为，iOS 27公测版是近年来最稳定的测试版，在流畅性、可靠性和生活质量改进方面表现出色，新Siri功能值得尝试。但仍需注意测试版可能存在漏洞，功能也可能在正式发布前调整。",
+              "source_url": "https://9to5mac.com/2026/07/13/ios-27-public-beta-should-you-install-it-on-your-iphone/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T08:28:57+08:00"
+            },
+            {
+              "title": "OpenAI可能迫使苹果与乔尼·艾维陷入尴尬对抗",
+              "brief": "苹果在起诉OpenAI窃取商业秘密的诉讼中，刻意未提及乔尼·艾维，仅以“谭先生和其他前苹果领导者共同创立的公司”代指其创立的io Products。但OpenAI可能传唤艾维作证，因其参与开发涉案硬件。艾维自2019年离开苹果后一直保持尊重态度，苹果也谨慎处理其遗留决策。然而一旦进入证据开示阶段，苹果无法完全控制谁会被卷入，若艾维被传唤，将使苹果陷入棘手境地。",
+              "source_url": "https://9to5mac.com/2026/07/13/openai-could-force-apple-into-an-awkward-fight-with-jony-ive/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T07:52:44+08:00"
+            },
+            {
+              "title": "第二份报告称苹果在iPhone出货量创史上最强Q2，尽管市场低迷",
+              "brief": "继Counterpoint Research报告后，Omdia的初步数据也显示苹果在2026年第二季度创下史上最佳Q2业绩，市场份额达20%（同比上升），得益于iPhone 17系列强劲的升级周期和稳定定价。然而，Omdia警告整体市场因内存危机同比下滑4%，且未来两个季度将出现更严重的出货量下降，因为新品发布和购物节等季节性需求高峰与内存芯片供应受限相冲突。",
+              "source_url": "https://9to5mac.com/2026/07/13/second-report-says-apple-posted-its-strongest-ever-q2-for-iphone-shipments-amid-market-downturn/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T06:56:21+08:00"
+            },
             {
               "title": "苹果起诉OpenAI，指控前员工窃取商业机密",
               "brief": "苹果公司对OpenAI提起诉讼，指控其前员工窃取商业机密。OpenAI随后回应了苹果的诉讼。该事件在7月13日的9to5Mac Daily播客中被讨论，播客还涉及其他话题。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/13/tvos-27-and-homepod-27-public-betas-now-available-heres-whats-new/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-14T04:59:32+08:00"
-            },
-            {
-              "title": "苹果推出iPadOS 27和macOS 27 Golden Gate修订版公测3",
-              "brief": "苹果发布了iPadOS 27和macOS 27 Golden Gate开发者公测3的修订版，同时推出首个公测版。新版本号分别为24A5380l和26A5378n。苹果未说明修订原因，可能是在公测前修复了问题。目前正在挖掘新版本中的变化。",
-              "source_url": "https://9to5mac.com/2026/07/13/apple-rolls-out-revised-beta-3-builds-for-ipados-27-and-macos-27-golden-gate/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:53:31+08:00"
-            },
-            {
-              "title": "MagSafe 周一：Twelve South PowerBug 清理台面",
-              "brief": "Twelve South 推出了 PowerBug，一款 MagSafe 充电底座，旨在解决桌面杂乱问题。该产品采用独特设计，将充电器隐藏在桌面下方，通过磁吸方式固定设备，从而保持台面整洁。PowerBug 支持 iPhone 和 AirPods 充电，并兼容 MagSafe 保护壳。",
-              "source_url": "https://9to5mac.com/2026/07/13/twelve-south-powerbug/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:48:00+08:00"
-            },
-            {
-              "title": "macOS 27 公测版现已可用，安装方法如下",
-              "brief": "苹果发布了 macOS 27 公测版，允许非开发者用户提前体验新系统。该版本包含多项改进和功能更新。用户可通过加入 Apple Beta 软件计划，在系统设置中下载并安装。建议在安装前备份数据，并注意公测版可能存在稳定性问题。",
-              "source_url": "https://9to5mac.com/2026/07/13/macos-27-public-beta-now-available-heres-how-to-install-it/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:45:39+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "美国继续拒绝接收感染埃博拉公民，第二名美国人被送往德国",
+              "brief": "一名在刚果民主共和国从事人道主义工作的美国公民检测出埃博拉病毒阳性，成为该国埃博拉疫情中第二名被感染的美国人，也是第二名被送往德国而非美国接受治疗的患者。此次疫情于5月15日首次宣布，目前已是历史上第三大埃博拉疫情，且仍在蔓延。截至7月12日，刚果民主共和国报告了1926例病例和702例死亡，病原体为较少见的本迪布焦埃博拉病毒株。特朗普政府采取了看似孤立主义的政策，实施严格且有争议的旅行限制，并阻止将暴露于或感染病毒的公民接回美国，尽管美国境内有多处设施能够安全监测和提供高质量护理。",
+              "source_url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-14T06:07:34+08:00"
+            },
+            {
+              "title": "美国政府警告俄罗斯国家黑客正在入侵路由器",
+              "brief": "美国联邦政府警告家庭和小型办公室路由器用户加强设备安全，因为俄罗斯国家黑客正在大规模入侵路由器，用于掩盖针对公共和私营部门敏感组织的恶意活动。俄罗斯和中国政府多年来一直在入侵路由器，有时甚至陷入拉锯战。美国网络安全和基础设施安全局表示，俄罗斯联邦安全局第16中心的网络行为者持续利用配置不当和有漏洞的网络设备，机会性地入侵多个关键基础设施网络。这些黑客组织有多个名称，包括Berserk Bear、Energetic Bear等。该警告由美国、澳大利亚、丹麦、新西兰和英国等多国政府联合发布。主要入侵手段包括扫描接受默认或常见认证的SNMP代理的IP范围。",
+              "source_url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-14T05:03:07+08:00"
+            },
+            {
               "title": "乌克兰无人机袭击迫使俄罗斯停止关键海上走廊的航运",
               "brief": "乌克兰无人机部队在7月6日至13日期间，每晚出动单向攻击无人机，打击了超过100艘俄罗斯油轮及其他船只，并发布了视频证据。此次行动迫使俄罗斯完全关闭了从顿河通往亚速海的航运路线，并停止了所有经刻赤海峡往返亚速海与黑海的船舶通行。据路透社报道，海上航线的关闭进一步孤立了俄占克里米亚半岛，切断了其燃料的海上运输。此前，乌克兰加强对俄能源基础设施和补给线的中远程无人机打击，已导致克里米亚出现严重燃油配给和停电。此外，亚速海航运限制可能影响俄罗斯四分之一的谷物出口。",
               "source_url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-14T03:17:51+08:00"
-            },
-            {
-              "title": "费曼反向洒水器谜题的解答也适用于“趣味洒水器”",
-              "brief": "纽约大学库朗研究所的研究人员通过实验不同设计的趣味洒水器，解答了流体动力学中长期存在的反向洒水器问题。该问题由物理学家费曼推广，但最早可追溯到马赫1883年的教科书。反向洒水器的旋转方向并非直觉中的反向，其物理机制更为复杂。新研究确认了2024年提出的“动量通量理论”，即水流的角动量驱动旋转。相关论文发表在《美国国家科学院院刊》上。",
-              "source_url": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-14T03:00:47+08:00"
-            },
-            {
-              "title": "多州起诉阻止派拉蒙与华纳兄弟探索公司合并",
-              "brief": "以加州为首的12个州提起诉讼，试图阻止派拉蒙天空之舞与华纳兄弟探索公司价值1110亿美元的合并。该合并已获特朗普政府批准，但加州总检察长邦塔表示，合并将导致“价格上涨、质量下降、影视内容减少”，损害影院、有线电视分销商和观众利益。合并将整合两大电影制片厂及流媒体服务派拉蒙+与HBO Max。各州要求合并方在司法程序结束前不得完成交易，否则将申请临时限制令。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-14T02:34:35+08:00"
             }
           ]
         },
@@ -339,39 +339,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "用户反馈三星Galaxy S26 Ultra屏幕中间泛红，或与隐私屏幕功能有关",
-              "brief": "部分用户反馈三星Galaxy S26 Ultra手机在特定使用场景下屏幕中间区域出现泛红现象。外媒推测可能与Privacy Display（隐私屏幕）机制有关，该功能通过压暗两侧像素并增强中间像素来限制侧面视角，但尚未有直接证据证实其与泛红问题的关联。目前具体原因仍在调查中。",
-              "source_url": "https://www.ithome.com/0/976/253.htm",
+              "title": "美国油价飙升推动电动汽车销量反弹，Q2环比增长14%",
+              "brief": "受中东地缘政治紧张影响，美国汽油价格涨至近每加仑5美元，高昂燃料成本促使消费者重新考虑电动汽车的经济性。第二季度美国电动汽车销量环比增长14%，创下联邦税收抵免取消以来最佳季度表现，但同比仍下降20.5%。特斯拉以124800辆销量领先，Model Y最畅销。加州推出“我的第一辆电动汽车”补贴计划，为首次购买者提供最高3500美元折扣，总补贴池约2.7亿美元，预计夏末启动。",
+              "source_url": "https://www.ithome.com/0/976/276.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T06:44:12+08:00"
+              "published_at": "2026-07-14T08:40:08+08:00"
             },
             {
-              "title": "苹果 watchOS 26.6 开发者预览版 Beta 5 发布",
-              "brief": "苹果于7月14日发布了watchOS 26.6开发者预览版Beta 5更新。该版本主要面向开发者测试，注册了苹果开发者计划的用户可通过系统设置中的软件更新升级。此前的Beta 4于7月7日发布，本次更新可能包含Bug修复和性能改进。",
-              "source_url": "https://www.ithome.com/0/976/252.htm",
+              "title": "法拉利营销总监：Luce引发争议反而令我高兴",
+              "brief": "法拉利首款纯电车型Luce因造型引发两极分化评价。营销总监卡兰多表示，负面评价带来免费曝光，他对此感到高兴。卡兰多将争议类比于Purosangue发布时的情形，认为争议终将平息。他强调Luce基于纯电平台重新设计，而非改造现有车型，以优化驾驶体验。尽管车迷不满外观，但法拉利坚持利用纯电平台优势，使驾驶员坐得更靠近前轴，提升操控精准度。",
+              "source_url": "https://www.ithome.com/0/976/275.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T04:41:05+08:00"
+              "published_at": "2026-07-14T08:32:29+08:00"
             },
             {
-              "title": "苹果 visionOS 26.6 开发者预览版 Beta 5 发布",
-              "brief": "苹果于7月14日发布了visionOS 26.6开发者预览版Beta 5更新。该版本主要面向开发者测试，注册了苹果开发者计划的用户可通过系统设置中的软件更新升级。此前的Beta 4于7月7日发布，本次更新可能包含功能优化和稳定性提升。",
-              "source_url": "https://www.ithome.com/0/976/251.htm",
+              "title": "苹果发布tvOS/HomePod 27首个公测版，暂未整合Siri AI",
+              "brief": "苹果推送了tvOS 27和HomePod 27的首个公测版，主要更新包括重新设计的播客应用、更智能的下载、字体大小调整、AirPlay连接优化、Apple Music高解析度无损音频和自动混音功能，以及更流畅的动画和响应更灵敏的控制中心。但该版本暂未整合Siri AI，预计需等到今年秋季随2026款Apple TV 4K机型一同推出。",
+              "source_url": "https://www.ithome.com/0/976/273.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T04:41:05+08:00"
+              "published_at": "2026-07-14T08:27:31+08:00"
             },
             {
-              "title": "苹果 macOS 26.6 开发者预览版 Beta 5 发布",
-              "brief": "苹果于7月14日发布了macOS 26.6开发者预览版Beta 5更新。该版本主要面向开发者测试，注册了苹果开发者计划的用户可通过系统设置中的软件更新升级。此前的Beta 4于7月7日发布，本次更新可能带来性能增强和问题修复。",
-              "source_url": "https://www.ithome.com/0/976/250.htm",
+              "title": "大众汽车考虑追加裁员5万人，累计裁员上限达10万",
+              "brief": "大众汽车CEO布鲁姆在内部备忘录中透露，公司相较竞争对手存在约20%的成本劣势。在已同意裁减5万人的基础上，理论上需再“理论性削减”5万个职位以弥补差距。布鲁姆表示正评估所有品牌、子公司和地区以确定实际调整规模。此前劳工代表否决了涉及裁员及可能关闭四家工厂的提案。大众面临关税成本、中国市场竞争和本土效率提升等多重压力，股价跌至2010年以来最低。",
+              "source_url": "https://www.ithome.com/0/976/272.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T04:41:04+08:00"
+              "published_at": "2026-07-14T08:25:53+08:00"
             },
             {
-              "title": "苹果 iOS/iPadOS 26.6 开发者预览版 Beta 5 发布",
-              "brief": "苹果于7月14日发布了iOS/iPadOS 26.6开发者预览版Beta 5更新。该版本主要面向开发者测试，注册了苹果开发者计划的用户可通过系统设置中的软件更新升级。此前的Beta 4于7月7日发布，本次更新预计包含系统优化和错误修复。",
-              "source_url": "https://www.ithome.com/0/976/249.htm",
+              "title": "微软CEO纳德拉警告：企业使用AI可能最终培养出竞争对手",
+              "brief": "纳德拉在博客中指出，企业使用AI时不仅支付token费用，还无形中交出专有知识。模型从使用痕迹中学习，包括提示词、工具调用和用户纠正，这些经验可能被模型提供商利用。纳德拉主张企业应有权“蒸馏”AI模型，即研究模型输出以训练低成本模型。他批评模型提供商使用公共数据训练却限制他人研究其模型的双标行为，尤其警惕服务条款中保留从客户数据中学习的权利。",
+              "source_url": "https://www.ithome.com/0/976/271.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T04:41:03+08:00"
+              "published_at": "2026-07-14T08:23:30+08:00"
             }
           ]
         },
@@ -379,39 +379,131 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《复仇者联盟：末日》片长曝光，预售即将开启",
+              "brief": "据《好莱坞报道》消息，《复仇者联盟：末日》片长为2小时45分钟，预售将于7月20日启动。片长尚未最终锁定，但提前预售意味着时长不会大幅变动。该片长度介于《复仇者联盟3：无限战争》（2.5小时）和《复仇者联盟4：终局之战》（3小时）之间。预计预告片将在预售同一周发布，漫威工作室将于7月25日在圣地亚哥国际动漫展举办专题讨论会。",
+              "source_url": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon",
+              "source_name": "IGN",
+              "published_at": "2026-07-14T06:54:43+08:00"
+            },
+            {
+              "title": "数千Xbox玩家在微软官方反馈网站要求停止裁员和关闭工作室",
+              "brief": "Xbox粉丝Witt Yao在Xbox玩家之声论坛发帖，要求微软结束裁员和工作室关闭的循环，称这给粉丝和开发者带来痛苦。他指出Xbox已裁员3200人，涉及动视、贝塞斯达、暴雪等多家工作室，两年内裁员总数超1万。多间工作室被关闭或前途堪忧，包括Compulsion Games、Double Fine、Tango Gameworks等。帖子获得数千玩家支持。",
+              "source_url": "https://www.ign.com/articles/thousands-of-xbox-players-demand-an-end-to-layoffs-studio-closures-on-microsofts-own-fan-feedback-website",
+              "source_name": "IGN",
+              "published_at": "2026-07-14T06:37:35+08:00"
+            },
+            {
+              "title": "Hallmark推出新款PlayStation主机装饰品，可播放原版启动音效",
+              "brief": "Hallmark推出首款PlayStation主机主题装饰品，精确还原初代PlayStation外观，包括电源、重置和开仓按钮，并配有绿色灯光和标志性启动音效。装饰品宽约4英寸，附带原版手柄模型和真实线缆连接。售价28.99美元，仅在Hallmark独家销售。该装饰品使用三颗LR44纽扣电池供电，现已上市。",
+              "source_url": "https://www.ign.com/articles/hallmark-playstation-console-ornament-2026-gaming-collection",
+              "source_name": "IGN",
+              "published_at": "2026-07-14T05:09:23+08:00"
+            },
+            {
+              "title": "漫威影业开发新星电影，《洛基》编剧迈克尔·沃尔德伦将执导",
+              "brief": "漫威影业正在开发新星（Nova）电影，由《奇异博士2》编剧迈克尔·沃尔德伦撰写剧本并可能执导。项目处于早期阶段，具体细节未公布。新星角色原计划在《银河护卫队》中登场，后被删除。此前漫威曾计划开发新星电视剧，由《月光骑士》编剧萨比尔·皮尔扎达负责，但去年被搁置。此次转向电影形式，表明漫威仍希望将该角色引入MCU。",
+              "source_url": "https://www.ign.com/articles/nova-movie-in-development-at-marvel-studios-loki-writer-michael-waldron-to-write-and-direct",
+              "source_name": "IGN",
+              "published_at": "2026-07-14T04:40:43+08:00"
+            },
+            {
               "title": "《王国之心4》新画面可能下月公布",
               "brief": "迪士尼D23大会将于下月举行，其中包含一小时的《王国之心》25周年纪念座谈会。会上可能公布《王国之心4》的新内容或发售窗口。该游戏上月在任天堂直面会上发布了四年来首支预告，但未透露具体发售日期。",
               "source_url": "https://www.ign.com/articles/new-look-at-kingdom-hearts-4-may-be-coming-next-month",
               "source_name": "IGN",
               "published_at": "2026-07-14T03:59:21+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "苹果计划2028年推出M7 Ultra芯片，最高配备1.5TB内存，AI性能接近英伟达Blackwell加速器",
+              "brief": "彭博社记者马克·古尔曼爆料，苹果计划在2028年推出M7 Ultra芯片，最高配备1.5TB统一内存，AI性能可媲美英伟达数据中心级Blackwell加速器。苹果通过统一内存架构让CPU、GPU和NPU共享高速内存池，适合本地AI推理、视频生成等大模型任务。但1.5TB内存能否实现取决于市场供应，且芯片可能采用台积电1.4纳米制程，量产时间与产品需求仍存在变数。",
+              "source_url": "https://www.landian.news/archives/113905.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-14T08:30:12+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "X平台微调算法，旨在减少冲突提升社区友好度",
+              "brief": "X平台调整算法，希望减少评论区争吵，使其更像社区而非数字深渊。此举有助于兴趣集群形成，是用户长期诉求。此前X已调整创作者补偿机制、推出视频编辑器，而竞争对手Threads也推出“您的算法”功能，月活用户达5亿。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568848.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T08:40:12+08:00"
             },
             {
-              "title": "前Xbox工作室Compulsion Games寻求合作",
-              "brief": "Compulsion Games在领英上发布声明，宣布回归独立开发者身份，并开放与其他工作室的合作机会，包括作为支持或共同开发方。该工作室曾开发《南方午夜》，2025年发售后获得IGN 8分评价。Xbox于2018年收购该工作室，近期因聚焦旗下大型IP而与其分道扬镳。",
-              "source_url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-              "source_name": "IGN",
-              "published_at": "2026-07-14T03:23:40+08:00"
+              "title": "苹果起诉OpenAI，称前员工利用罕见系统漏洞窃取机密文件",
+              "brief": "苹果起诉OpenAI，指控前员工刘某某利用此前未知的零日漏洞，在加入OpenAI后窃取数十份机密硬件文件，包括未发布产品细节、工程演示等。苹果称该漏洞极其罕见，仅被刘一人利用。刘离职后未归还公司电脑，还非法使用另一员工权限。苹果要求陪审团审判，OpenAI否认获取商业机密的兴趣。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568846.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T08:39:38+08:00"
             },
             {
-              "title": "硅谷大学为稀有游戏成就提供最高1.5万美元奖学金",
-              "brief": "硅谷大学推出“最大成就奖学金”，根据学生在《最终幻想14》《老式跑跑卡丁车》《Hades》等游戏中获得的稀有成就发放奖学金。分为精通级（每学期最高2500美元）和传奇级（每学期最高5000美元），每年三个学期。校方称此举奖励自律练习和战略解决问题等与学术卓越相同的品质。",
-              "source_url": "https://www.ign.com/articles/university-gives-students-up-to-15k-in-scholarships-for-rare-gaming-achievements",
-              "source_name": "IGN",
-              "published_at": "2026-07-14T03:01:50+08:00"
+              "title": "微软CEO纳德拉向使用人工智能的企业发出警告",
+              "brief": "微软CEO纳德拉警告企业，使用AI模型时不仅支付token费用，还交出业务敏感数据。企业通过反馈教会模型理解其业务，这些数据被内化为模型一部分，形成竞争对手买不到的战略资产。他质疑模型供应商限制蒸馏的做法，建议企业构建专有学习环境、采用编排层灵活切换模型。业界出现本地部署开源模型的回流趋势。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568844.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T08:38:37+08:00"
             },
             {
-              "title": "夏日游戏速通取消SNK赞助直播，因人权担忧",
-              "brief": "Games Done Quick在《合金弹头》30周年速通直播开始两小时后，因社区对SNK多数股权由沙特公共投资基金持有引发的人权担忧，取消了该赞助直播。GDQ表示不会接受赞助资金，并称合作与其支持人权和包容性的价值观冲突，为此道歉并承诺加强审核。",
-              "source_url": "https://www.ign.com/articles/summer-games-done-quick-cancels-sponsored-snk-stream-due-to-human-rights-concerns",
-              "source_name": "IGN",
-              "published_at": "2026-07-14T01:52:27+08:00"
+              "title": "通用聚变公司登陆纳斯达克，成为全球首家公开上市的聚变能源企业",
+              "brief": "通用聚变公司与SPAC合并上市，股价较发行价上涨40%，但受赎回影响实际现金不足3000万美元，另筹得1.08亿美元。公司成立于2002年，曾裁员25%，靠核心投资者注资维持。其采用磁化目标聚变技术，能量盈亏平衡目标推迟至2028年，计划2035年实现商用发电。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1568842.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T08:37:54+08:00"
             },
             {
-              "title": "派拉蒙正在开发《猛鬼街》重启版",
-              "brief": "派拉蒙已获得韦斯·克雷文《猛鬼街》原版剧本版权，将通过其新类型厂牌Paramount Primal开发重启版。克雷文的遗孀伊亚·拉布卡和儿子乔纳森·克雷文将担任制片人。目前该项目尚未确定编剧或导演，具体细节保密。",
-              "source_url": "https://www.ign.com/articles/nightmare-on-elm-street-reboot-in-the-works-at-paramount",
-              "source_name": "IGN",
-              "published_at": "2026-07-14T01:32:08+08:00"
+              "title": "罗技计划九月发布第二代Superstrike 2游戏鼠标",
+              "brief": "爆料称罗技将于九月推出Superstrike 2鼠标，预计不搭载全新传感器，但配备更强MCU，优化HITS触觉反馈和可调节触发距离。目前磁轴鼠标竞争激烈，玩家呼吁改进脚贴和外壳，减轻重量并优化重心。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568840.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T08:34:43+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "美国数据中心开发商加速抛售巨额股权资产",
+              "brief": "美国多家数据中心开发商正联合投行计划出售公司多数股权，涉及Netrality、DataBank等企业，覆盖凤凰城至亚特兰大多地。此举旨在借人工智能行业热潮变现离场，投行正向私募股权机构大力推介这类热门资产。",
+              "source_url": "https://36kr.com/newsflashes/3894773393210631?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-14 08:48:22  +0800"
+            },
+            {
+              "title": "中信证券：汽车行业主线将转向出口兑现与盈利修复",
+              "brief": "中信证券研报指出，2026年上半年国内乘用车市场受购置税退坡等因素影响整体承压，出口成为核心增量，奇瑞、比亚迪等自主车企海外销量同比增超70%。展望下半年及2027年，行业主线将转向出口兑现与盈利修复，头部车企有望通过多动力并进、海外建厂等实现增长。",
+              "source_url": "https://36kr.com/newsflashes/3894764714097922?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-14 08:46:29  +0800"
+            },
+            {
+              "title": "中信建投：金刚石铜复合材料适用于封装盖板及冷板/微通道，短期有望率先放量",
+              "brief": "中信建投证券研报称，金刚石因超高导热与低热膨胀系数，其复合材料已应用于高性能消费电子和AI服务器。其中金刚石铜复合材料技术成熟度高、成本仅为纯金刚石的10%-20%，适用于封装盖板和冷板，短期有望率先放量；中期多晶金刚石热沉片、远期单晶金刚石晶圆级键合尚需突破。",
+              "source_url": "https://36kr.com/newsflashes/3894737960877059?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-14 08:43:12  +0800"
+            },
+            {
+              "title": "中信证券：AI产业趋势再次成为影响美股科技股下半年走势核心变量",
+              "brief": "中信证券研报表示，随着宏观尾部风险下降，AI产业趋势再次成为影响美股科技股下半年走势的核心变量。市场对AI认知回归理性，短期ROI诉求迫切。下半年焦点包括AI货币化进程、科技巨头资本开支持续性及产业链价值分配，建议关注Hyperscaler厂商、应用软件和互联网板块。",
+              "source_url": "https://36kr.com/newsflashes/3894767298771974?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-14 08:42:10  +0800"
+            },
+            {
+              "title": "媒体：麦当劳以1.26亿港元卖出大埔商铺，6月以来第三次",
+              "brief": "据港媒报道，麦当劳以1.26亿港元出售香港大埔一商铺物业，面积约9000平方英尺，折合每平方英尺约1.4万港元。该商铺于2025年10月刚完成翻新，麦当劳于1988年以1930万港元买入。这是麦当劳自6月以来第三次出售香港物业。",
+              "source_url": "https://36kr.com/newsflashes/3894736939613191?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-14 08:40:13  +0800"
             }
           ]
         }
