@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T16:50:33.542763+08:00",
+  "generated_at": "2026-07-14T18:52:08.215264+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "WhatsApp测试版揭示iPhone iCloud备份替代方案",
+              "brief": "WhatsApp正在为iPhone开发自有云存储备份功能，首次提供iCloud之外的备份选择。据WABetaInfo发现，iOS版WhatsApp测试版（版本26.28.10.16）的聊天备份设置中允许用户选择备份目的地，但iCloud仍为默认。该功能类似Android版此前曝光的方案，WhatsApp将提供2GB免费存储，50GB套餐约0.99美元/月，还有1TB选项。备份在WhatsApp服务器上默认启用端到端加密，且无法关闭，比iCloud备份需手动开启高级数据保护更严格。该功能仍在开发中，尚未对测试者开放。",
+              "source_url": "https://www.macrumors.com/2026/07/14/whatsapp-backup-cloud-provider-for-ios/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-14T18:06:46+08:00"
+            },
+            {
+              "title": "Google Chrome的Gemini AI功能向英国用户推出",
+              "brief": "Google宣布向英国Mac和PC用户推出Chrome最新AI功能，浏览器右上角新增带火花图标的“Ask Gemini”按钮。Gemini可跨多个标签页工作，用于比较和汇总多网站信息，并集成Calendar、YouTube、Gmail和Maps等服务，用户无需离开当前页面即可执行跳转视频特定时刻、安排会议或起草邮件等操作。此次更新还包含Nano Banana工具，可从侧边栏根据文本提示生成图像。Google表示下月将向英国iOS用户推出。不感兴趣的用户可右键取消固定该按钮。此前该功能仅限AI Pro和AI Ultra订阅者，2025年9月已向美国所有桌面用户开放。",
+              "source_url": "https://www.macrumors.com/2026/07/14/google-chrome-gemini-ai-features-uk/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-14T17:32:37+08:00"
+            },
             {
               "title": "如何在 iPhone 上安装 iOS 27 公测版",
               "brief": "苹果发布了 iOS 27 的首个公测版，在开发者长期测试后向更广泛的用户提供更稳定的版本。要安装该软件，需先确认设备兼容性：iOS 27 支持 iPhone 11 及所有与 iOS 26 相同的机型，包括 iPhone 17e、iPhone 17、iPhone 17 Pro 与 Pro Max 等；iPadOS 27 则仅支持搭载 M4 或 A17 Pro 等芯片的部分 iPad Pro、iPad Air、iPad 和 iPad mini 机型，较旧型号不再兼容。完成兼容性检查后，可通过注册苹果的免费 Beta 软件计划来安装。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
               "source_name": "MacRumors",
               "published_at": "2026-07-14T07:02:48+08:00"
-            },
-            {
-              "title": "macOS Golden Gate 首个公测版现已发布",
-              "brief": "苹果今日发布了 macOS Golden Gate 的首个公测版，将 macOS 27 的测试范围扩展至非开发者。用户可在苹果 beta 网站注册，然后通过系统设置 > 通用 > 软件更新，开启 macOS 27 公测选项来下载。macOS Golden Gate 包含了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，但通过 Command+Space 快捷键从 Spotlight 调用。Siri 可搜索网页、查阅个人数据（如照片、邮件和消息）以帮助查找信息，并能在应用内或跨应用执行操作。新增了独立的 Siri 应用，支持连续对话。视觉智能功能被引入 Mac，使 Siri 能识别屏幕内容并回答相关问题。去年推出的液态玻璃设计得到更新，新增了控制系统透明度的滑块，同时界面设计改进以增强层次感和窗口区分度。应用现在采用统一的工具栏，窗口圆角更小，侧边栏不再浮动并延伸至边缘，外接显示器上的窗口定位更一致。Siri 写作功能可生成文本、纠正语法或提供反馈，照片应用新增 AI 编辑工具。快捷指令支持自然语言创建自动化，邮件和消息的搜索功能得到增强。系统整体性能优化，即使在旧款 Mac 上也能获得更快速流畅的体验。",
-              "source_url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-14T04:41:27+08:00"
-            },
-            {
-              "title": "iOS 27 和 iPadOS 27 公测版现已面向测试者开放",
-              "brief": "苹果今日发布了 iOS 27 和 iPadOS 27 的首个公测版，允许拥有兼容设备的用户下载并测试新软件。用户可在苹果 beta 网站注册，然后通过设置 > 通用 > 软件更新，选择 iOS 27 或 iPadOS 27 公测选项来参与。此次公测版与第三个开发者测试版相同，同时苹果也为开发者提供了修订后的第三个测试版。iOS 27 引入了 Siri AI，这是一个功能更强大的版本，能搜索网页、访问个人信息、识别屏幕内容并在应用内或跨应用执行操作。Siri AI 更接近 Claude 或 ChatGPT，并设有独立应用用于来回对话。苹果更新了去年推出的液态玻璃设计，新增了透明度调节滑块并优化了外观。多款应用加入新 AI 功能：相机应用中的视觉智能支持获取餐食营养信息或分摊账单；Siri 写作功能可生成或润色文本；照片应用新增 AI 编辑工具；Safari 可自动整理标签页；快捷指令和 Safari 扩展支持自然语言创建。AirPods 新增自定义均衡器，家庭应用支持 4K 视频摄像头，并新增儿童安全控制。系统性能大幅提升，应用启动、隔空投送和键盘加载速度更快，即使在旧款 iPhone 上也有明显改善。",
-              "source_url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-14T04:39:18+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple @ Work 播客：解读最新 IDC PC 出货报告",
+              "brief": "在本期 Apple @ Work 播客中，Jitesh Ubrani 受邀分析 IDC 最新 PC 出货报告。报告显示，尽管 PC 出货量下降，但收入却有所增长。节目可在 Apple Podcasts、Overcast、Spotify 等平台收听。",
+              "source_url": "https://9to5mac.com/2026/07/14/apple-work-podcast-breaking-down-the-recent-idc-pc-shipment-report/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-14T18:00:00+08:00"
+            },
             {
               "title": "iOS 27公测版：你应该在iPhone上安装吗？",
               "brief": "苹果发布iOS 27公测版。根据苹果官网，Beta版软件可能包含错误或缺陷，建议用户安装前备份设备。此外，第三方应用可能尚未针对新功能优化，部分应用可能无法正常运行。9to5Mac编辑测试后认为，iOS 27公测版是近年来最稳定的测试版，在流畅性、可靠性和生活质量改进方面表现出色，新Siri功能值得尝试。但仍需注意测试版可能存在漏洞，功能也可能在正式发布前调整。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/13/daily-july-13-2026/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-14T04:59:45+08:00"
-            },
-            {
-              "title": "tvOS 27和HomePod 27公测版现已发布，以下是新功能",
-              "brief": "苹果发布了tvOS 27和HomePod 27的公测版，用户可通过Apple Beta Software Program安装。tvOS 27改进了播客应用、智能下载、大字体、更快的AirPlay连接，并新增Apple Music无损音频和AutoMix功能。HomePod 27则支持更快的AirPlay和AutoMix。Siri AI因硬件限制未包含在此次更新中，预计今秋随新硬件推出。",
-              "source_url": "https://9to5mac.com/2026/07/13/tvos-27-and-homepod-27-public-betas-now-available-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-14T04:59:32+08:00"
             }
           ]
         },
@@ -169,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "部分Galaxy S26 Ultra屏幕逐渐变红，三星尚未查明原因",
-              "brief": "一些Galaxy S26 Ultra用户反映，手机屏幕逐渐出现红色调。自3月以来，Reddit和Naver上有多起报告，用户称该问题是在使用数月后逐渐出现的，而非立即发生。有人认为是烧屏现象，在展示机上更明显。大多数情况下表现为微妙的粉色而非鲜艳的红色。三星已确认该问题存在，但尚未给出解释。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-display-issue-turning-red-3687135/",
+              "title": "谷歌电视投影仪误区解析：关于用投影仪当电视的五大常见误解",
+              "brief": "许多人仍认为投影仪画质不如电视、需要暗室和昂贵预算，但2026年的现代谷歌电视投影仪（LED或激光）体积小巧，集成流媒体应用和语音控制，成为电视的真正竞争者。高端三色激光投影仪可提供鲜艳色彩和深邃对比度，足以媲美OLED电视。传统观念已过时，投影仪不仅能替代电视，还能提升观影体验。",
+              "source_url": "https://www.androidauthority.com/google-tv-projector-myths-3686056/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-14T16:04:47+08:00"
+              "published_at": "2026-07-14T18:30:46+08:00"
             },
             {
-              "title": "谷歌7月系统更新为Play商店、Wear OS和地图带来多项改进",
-              "brief": "谷歌2026年7月系统更新正在推送，改进了Play商店、Play服务、地图和Wear OS。大屏设备上的Play商店布局优化，显示更多内容；欧盟地区将标注AI生成图像；Google One订阅流程更流畅。Wear OS支持工作资料转移，地图和开发者工具也获得更新。",
-              "source_url": "https://www.androidauthority.com/google-system-update-july-2026-3687139/",
+              "title": "运行Home Assistant的最佳方式？读者投票结果揭晓",
+              "brief": "Home Assistant OS最新版简化了设置流程。读者投票显示，最受欢迎的部署方式是虚拟机（32.8%），其次是树莓派（31.6%）。还有14.5%使用Docker容器，11%直接在NAS上运行。虚拟机因其易更新、资源控制灵活而受青睐；树莓派则适合没有专用服务器的用户。",
+              "source_url": "https://www.androidauthority.com/platform-home-assistant-poll-results-3687211/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-14T15:47:29+08:00"
+              "published_at": "2026-07-14T18:30:25+08:00"
             },
             {
-              "title": "这款新旗舰配备顶级摄像头硬件，让Ultra机型相形见绌",
-              "brief": "华为在全球市场推出Pura 90s Pro和Pro Max。Pro Max搭载50MP LOFIC主摄和200MP 4倍RYYB潜望长焦，采用Kunlun玻璃减反射70%，配备6.9英寸OLED屏、100W快充和6000mAh电池。Pro起售价约907美元，Pro Max约1201美元。",
-              "source_url": "https://www.androidauthority.com/huawei-pura-90s-pro-series-global-3686717/",
+              "title": "使用摩托罗拉Razr Fold一个月后，我无法再回到三星Galaxy Z Fold 7",
+              "brief": "作者使用Galaxy Z Fold 7近一年后，换用摩托罗拉Razr Fold一个月，认为后者在相机方面全面超越前者。Razr Fold的50MP主摄色彩和动态范围更优，长焦和微距表现也更自然，而Z Fold 7的对焦和变焦表现令人失望。尽管Razr Fold稍厚重，但其综合体验更少妥协，已取代作者的Fold 7和Pixel 10 Pro。",
+              "source_url": "https://www.androidauthority.com/motorola-razr-fold-one-month-later-ruined-z-fold-7-3686091/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-14T15:30:19+08:00"
+              "published_at": "2026-07-14T18:00:31+08:00"
             },
             {
-              "title": "快讯：Galaxy S26系列获得第四个One UI 9测试版，包含7月安全补丁",
-              "brief": "三星为Galaxy S26系列推送第四个One UI 9测试版，固件版本ZZG4，大小1250MB，包含2026年7月5日安全补丁。更新修复了锁屏时钟大小异常、游戏时导航栏消失、计时通知截断和例程动作失效等问题。已在德国、印度、波兰、英国和韩国推出，即将在美国上线。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-4-3687144/",
+              "title": "安卓版Chrome导航栏重新设计，为Gemini腾出空间",
+              "brief": "Chrome安卓版正在更新底部导航栏，新增Gemini按钮，使AI能同时访问多个标签页。此前Gemini仅限单个页面交互，新设计将其深度嵌入浏览器。该功能已向部分用户推出，当导航栏置于底部时可见。谷歌还计划下月为iOS版Chrome带来相同功能。",
+              "source_url": "https://www.androidauthority.com/chrome-android-navigation-bar-gemini-3687175/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-14T15:09:32+08:00"
+              "published_at": "2026-07-14T17:49:43+08:00"
             },
             {
-              "title": "Snapseed安卓版更新，大幅扩展RAW格式支持",
-              "brief": "谷歌推送Snapseed v4.1更新，新增对DNG、ARW、RAF、NEF、CR3、ORF和PEF等RAW格式的支持，并允许在编辑工具内直接撤销和重做。图像处理得到改进，稳定性提升。安卓版已逐步在Play商店推出，iOS版即将更新。",
-              "source_url": "https://www.androidauthority.com/snapseed-android-expanded-raw-support-3687123/",
+              "title": "AtomForm如何让3D打印人人可用",
+              "brief": "AtomForm推出Palette 300打印机和工作流管理器AtomForm OS，旨在降低3D打印门槛。Palette 300可在1分钟内换料且无交叉污染，减少90%耗材浪费。公司还开发面向消费者的打印机，目标是将多色多材料打印带入家庭。其模型库AtomVerse提供免费课程和创作者奖励，帮助新手入门。",
+              "source_url": "https://www.androidauthority.com/atomform-jagger-shang-interview-3685768/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-14T14:53:42+08:00"
+              "published_at": "2026-07-14T17:40:13+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "纽约州颁布美国首个数据中心建设禁令",
+              "brief": "纽约州长凯西·霍楚签署行政令，暂停批准耗电50兆瓦及以上的大型数据中心的环境许可，为期一年。此举旨在为州政府争取时间制定规则，保护电网、环境和当地社区。该行政令立即生效，不影响已获批项目。此前州议会通过《负责任数据中心发展法案》，但霍楚尚未签署。纽约成为美国首个实施此类禁令的州，缅因州也曾通过类似禁令但被否决，华盛顿、威斯康星等多州也在推进相关立法。",
+              "source_url": "https://www.engadget.com/2214456/new-york-kathy-hochul-data-center-ban/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-14T18:47:51+08:00"
+            },
+            {
+              "title": "X算法将优先显示已关注用户的回复",
+              "brief": "X平台推出算法调整，提升用户与互关好友（相互关注的人）之间的帖子和回复可见性。产品主管尼基塔·比尔表示，此前算法缺少相关数据，导致回复区充满陌生人的言论，像“战场”。该调整旨在促进共同兴趣发现，减少平台毒性，鼓励更有意义的对话。X此前曾设有“社区”功能，但因使用率低且贡献大量垃圾信息，已于今年4月关闭。",
+              "source_url": "https://www.engadget.com/2214455/x-will-prioritize-replies-from-people-you-follow/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-14T18:39:07+08:00"
+            },
+            {
+              "title": "谷歌购买大型太阳能农场全部产出以抵消数据中心排放",
+              "brief": "谷歌与阿肯色州钢铁河能源中心达成协议，购买其全部电力产出（1.6吉瓦太阳能和2吉瓦电池储能），预计2029年投运，足以为31.5万户家庭供电。谷歌将支付固定电价，但不会直接使用该电力，而是从混合能源的电网中取电。谷歌去年用电量增长37%，导致碳排放同步上升。此举旨在抵消化石燃料发电的影响，但专家对碳抵消的有效性存在争议。Meta和亚马逊也采取了类似举措。",
+              "source_url": "https://www.engadget.com/2214440/google-buys-steel-river-energy-arkansas-solar-emissions-offset/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-14T17:39:32+08:00"
+            },
             {
               "title": "海信E Ink手机配备可拆卸彩色LCD后屏",
               "brief": "海信推出了一款名为A10的E Ink安卓手机，其主屏幕为6.13英寸类纸E Ink触摸屏，适合阅读和笔记。该手机的一大特色是背面可通过磁吸方式安装一块可拆卸的彩色LCD显示屏，用户可选择不购买该配件。据报道，A10支持5G网络，运行Android 16系统，可能搭载骁龙8 Gen 3芯片，起售价约590美元（可能仅含E Ink主机）。该机预计不会在美国上市，但可通过中国电商渠道进口。",
@@ -221,33 +242,19 @@
               "source_url": "https://www.engadget.com/2212958/google-gemini-in-chrome-uk/",
               "source_name": "Engadget",
               "published_at": "2026-07-14T16:12:06+08:00"
-            },
-            {
-              "title": "请让这个热粉色Pixel 11泄露成为现实",
-              "brief": "9to5Google通过姊妹网站9to5Toys发现亚马逊上出现了三个可能展示Pixel 11新配色的商品列表，其中一款为亮洋红色，另一款为桃粉色。这些占位符列表的规格中有一些令人信服的细节，颜色在标题和描述中名称不一致，但第二组名称与之前泄露的紫红色型号相符。截至发稿时，这些列表尚未上线，可能并非来自谷歌官方来源。",
-              "source_url": "https://www.engadget.com/2214292/please-let-this-hot-pink-pixel-11-leak-be-real/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-14T06:42:48+08:00"
-            },
-            {
-              "title": "微软正在让Windows搜索框更简洁实用",
-              "brief": "微软宣布Windows 11的搜索框将迎来一系列调整，包括精简主屏幕以减少视觉杂乱、优化结果显示布局以展示更多元数据、允许用户切换是否显示网络和Microsoft Store结果，且网络搜索不再显示赞助内容。这些改进旨在提升搜索体验，从今天起Windows Insider成员可能开始看到变化。这是微软在将重心转回Windows 11生活质量改进后的最新举措。",
-              "source_url": "https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-14T05:12:19+08:00"
-            },
-            {
-              "title": "iOS 27、macOS 27 等苹果平台公测版现已推出",
-              "brief": "苹果发布了 2027 年软件更新的首个公测版，包括 iOS 27、iPadOS 27、macOS 27 Golden Gate 和 watchOS 27。iOS 27 的最大亮点是全新的 Siri AI，它从基本语音命令系统升级为现代 AI 助手，支持自然对话、理解上下文、回答屏幕内容问题并在应用内执行多步操作。用户还可以自定义助手声音的丰富度，并有一个专门的 Siri 应用存储历史记录。新 Siri 目前仅支持英语，且最初不会在欧盟可用。此外，照片应用获得了更强大的编辑工具，包括空间重构和外延扩展功能，图像游乐场可生成更高质量的图像。苹果还承诺全面性能提升，应用启动速度提升最高 30%，照片显示速度提升最高 70%，AirDrop 传输速度提升最高 80%。",
-              "source_url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-14T04:45:24+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "纽约州成为首个实施数据中心暂停令的州",
+              "brief": "纽约州长凯西·霍楚签署了全美首个全州范围的数据中心暂停令，禁止新建超过50兆瓦的超大规模数据中心获得环境许可证，为期一年。此举旨在为制定保护居民免受能源价格上涨和环境影响的新规留出时间。然而，州议会通过的版本门槛更低（20兆瓦），可能限制更多项目，目前尚待州长签署。霍楚办公室未立即说明受影响的提案数量。",
+              "source_url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+              "source_name": "The Verge",
+              "published_at": "2026-07-14T05:00:00-04:00"
+            },
             {
               "title": "微软测试无广告和冗余内容的Windows搜索",
               "brief": "微软正在测试Windows 11搜索菜单的简化版本，移除推荐内容和广告。该更新目前向Experimental频道的Windows Insider用户推送，旨在重建用户信任并修复Windows问题。主要变化包括重新设计的搜索主页仅显示近期搜索，右侧窗格不再出现图片、每日测验、热门搜索和游戏推荐等干扰项。同时，网络搜索结果也将精简，优先呈现最相关的答案。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-07-13T16:57:44-04:00"
-            },
-            {
-              "title": "今年Pixel配色可能很出彩",
-              "brief": "据9to5Google发现的已删除亚马逊列表，谷歌Pixel 11系列可能推出多种鲜艳配色，包括热粉色Fuchsia（Hibiscus）、亮绿色Moss（Pistachio）和黑色Midnight（Obsidian）。Pixel 11 Pro可能提供暗绿色Pine（Olive）、冰蓝色Light Fog（Fog）、淡紫色Sterling（Frost）和橙色Dune（Canyon）。Pixel 11 Pro Fold可能只有Pine（Olive）和Midnight（Obsidian）两种颜色。",
-              "source_url": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
-              "source_name": "The Verge",
-              "published_at": "2026-07-13T16:52:27-04:00"
             }
           ]
         }
@@ -353,45 +353,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "中汽协澄清“新能源车平均车龄仅1.8年”系误读",
-              "brief": "中汽协就媒体误读“新能源车平均车龄仅1.8年”一事发布澄清说明。该数据出自《中国汽车工业发展报告》，但被错误理解为车辆置换周期或使用寿命。中汽协指出，“在用车平均车龄”指存量车辆的平均新车售出时间，相当于人的平均年龄，而非寿命。由于新能源车近年销量高速增长、新增车辆占比高，导致平均车龄偏低，这仅反映行业转型阶段特征，不代表车主1.8年就换车或车辆寿命仅1.8年。中汽协呼吁媒体准确引用统计概念，避免误读。",
-              "source_url": "https://www.ithome.com/0/976/596.htm",
+              "title": "三星预热全新Galaxy Watch手表：加入AI功能，健康监测升级，7月22日发布",
+              "brief": "三星预告全新Galaxy Watch手表，将于7月22日在Galaxy Unpacked发布会上亮相。新品将加入智能AI功能，帮助用户深入了解健康状况并进行实时健康管理。同时，手表内部硬件和电池升级，能够更长时间、更高精度地持续追踪用户健康数据，将全面健康管理融入日常生活。",
+              "source_url": "https://www.ithome.com/0/976/698.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T16:45:26+08:00"
+              "published_at": "2026-07-14T18:41:22+08:00"
             },
             {
-              "title": "消息称三星SDI在美国建设特斯拉Megapack所需ESS电池专用产线",
-              "brief": "据消息，三星SDI正在其美国印第安纳州Kokomo工厂建设面向特斯拉Megapack的第三条ESS电池产线，采用磷酸铁锂工艺，生产容量更大的300Ah产品，预计2027年第二季度投产。此前该工厂已有首条NCA ESS电池产线于2025年10月投运，第二条200Ah LFP产线将于今年内投产。业内人士估计，特斯拉是三星SDI年初披露的保密订单主要客户，合同金额约3至5万亿韩元（约合135.6至226亿元人民币）。",
-              "source_url": "https://www.ithome.com/0/976/595.htm",
+              "title": "隆基绿能2026年半年度归母亏损34亿至38亿元，同比扩大",
+              "brief": "隆基绿能发布2026年半年度业绩预告，预计归母净亏损34亿至38亿元，同比扩大32.35%至47.92%。亏损主因是光伏行业供需未改善，国内上半年新增光伏装机大幅回落，公司组件销量和收入同比下降，开工率不足，毛利率较低，叠加联营企业投资损失及汇兑损失。公司正推进BC技术转化，ACM电池实现规模化投产，并加快光储协同布局。",
+              "source_url": "https://www.ithome.com/0/976/697.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T16:44:47+08:00"
+              "published_at": "2026-07-14T18:40:41+08:00"
             },
             {
-              "title": "华硕ROG超杀27 Pro二代OLED显示器新增20周年版本，8999元起",
-              "brief": "华硕ROG超杀27 Pro二代OLED显示器推出“20周年版本”，背壳及支架带有金色限定纪念图案，并附赠24K镀金铭牌。该显示器配备LG Display第四代WOLED面板，支持720P 720Hz或2K 540Hz显示，GtG响应时间0.02ms，峰值亮度1500尼特，获得VESA DisplayHDR True Black 500认证。接口包括1个DisplayPort 2.1 UHBR20和2个HDMI 2.1。标准版售价8999元，支架版售价9499元，将于7月18日首销。",
-              "source_url": "https://www.ithome.com/0/976/593.htm",
+              "title": "消息称QQ内测版已接入金标联盟公平运行内存机制",
+              "brief": "消息称QQ内测版（ver 9.3.25）已接入金标联盟的公平运行内存机制。该机制由金标联盟牵头推进，旨在应对应用内存占用过高导致的手机卡顿问题。核心内容包括建立统一的内存使用标准、在内存紧张时主动通知应用释放资源，以及明确特殊场景下的用户通知规则，从而降低适配成本并减少对用户的影响。",
+              "source_url": "https://www.ithome.com/0/976/692.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T16:41:36+08:00"
+              "published_at": "2026-07-14T18:36:50+08:00"
             },
             {
-              "title": "光迅科技2026年上半年归母净利润预增50%至65%",
-              "brief": "光迅科技发布2026年半年度业绩预告，预计归属于上市公司股东的净利润为5.59亿元至6.15亿元，同比增长50%至65.15%；扣非净利润预计5.45亿元至6亿元，同比增长51.31%至66.59%。业绩增长主要受益于全球AI算力投资浪潮驱动，数通光模块需求快速增长，以及国内云服务商加大数据中心建设投入。公司凭借完备的产品体系覆盖数据中心及通信网络全场景，有效支撑了业绩提升。最终数据以半年报为准。",
-              "source_url": "https://www.ithome.com/0/976/589.htm",
+              "title": "苏州首创：将骑手等红灯时间自动剔除配送计时",
+              "brief": "苏州在全国率先推出新政策，将外卖骑手合规等红灯的时间自动从配送计时中剔除，并相应顺延订单截止时间。此前配送算法未考虑等红灯等合规等候时间，导致骑手为抢时效冒险违规。新政还配套了连续跑单4小时强制休息、12小时强制下线机制，并联合美团等7家平台推行安全积分制度，积分可兑换现金、体检等福利。",
+              "source_url": "https://www.ithome.com/0/976/691.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T16:37:43+08:00"
+              "published_at": "2026-07-14T18:33:46+08:00"
             },
             {
-              "title": "东山精密2026年上半年归母净利润预增约283%至296%",
-              "brief": "东山精密发布2026年半年度业绩预告，预计归属于上市公司股东的净利润为29亿元至30亿元，同比增长282.58%至295.78%。业绩增长原因包括：消费电子、汽车零部件等传统核心业务根基稳固，业绩稳步提升；光模块业务整合效应显现，新增产能爬坡及新客户导入符合预期，收入与盈利大幅增长；前期布局的数据中心相关产业投资逐步形成收益，增厚整体利润。公司为全球第二大FPC供应商、全球前三大PCB供应商。最终数据以半年报为准。",
-              "source_url": "https://www.ithome.com/0/976/588.htm",
+              "title": "天齐锂业2026年半年度归母净利润28.5亿至42.5亿元，同比增长超32倍",
+              "brief": "天齐锂业发布2026年半年度业绩预告，预计归母净利润28.5亿至42.5亿元，同比增长3276.35%至4934.91%。业绩大幅增长受益于新能源产业需求增长，公司主要锂产品销售均价同比明显上升，带动营收大增。同时，联营公司SQM业绩预计同比大幅增长，公司确认的投资收益较上年同期大幅增加，进一步增厚利润。",
+              "source_url": "https://www.ithome.com/0/976/690.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-14T16:37:22+08:00"
+              "published_at": "2026-07-14T18:28:32+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "迈克·弗拉纳根《魔女嘉莉》剧集大幅改编自斯蒂芬·金小说",
+              "brief": "迈克·弗拉纳根将斯蒂芬·金恐怖小说《魔女嘉莉》改编为八集剧集，故事设定在现代，聚焦青少年与科技的关系。剧中嘉莉并非唯一拥有超能力者，每集将引入一个拥有不同能力的新角色。经典的舞会淋血场景将有所变化。弗拉纳根表示，由于1976年布莱恩·德·帕尔玛的电影版已很经典，这次改编不会照搬原著，而是利用原著元素构建新故事。剧集将包含小说中的经典场景，如高中卫生间经期事件和舞会，但会以不同方式呈现。",
+              "source_url": "https://www.ign.com/articles/this-was-never-going-to-be-a-straight-adaptation-mike-flanagans-carrie-tv-show-makes-big-changes-from-stephen-kings-horror-novel",
+              "source_name": "IGN",
+              "published_at": "2026-07-14T16:37:52+08:00"
+            },
             {
               "title": "《复仇者联盟：末日》片长曝光，预售即将开启",
               "brief": "据《好莱坞报道》消息，《复仇者联盟：末日》片长为2小时45分钟，预售将于7月20日启动。片长尚未最终锁定，但提前预售意味着时长不会大幅变动。该片长度介于《复仇者联盟3：无限战争》（2.5小时）和《复仇者联盟4：终局之战》（3小时）之间。预计预告片将在预售同一周发布，漫威工作室将于7月25日在圣地亚哥国际动漫展举办专题讨论会。",
@@ -419,13 +426,6 @@
               "source_url": "https://www.ign.com/articles/nova-movie-in-development-at-marvel-studios-loki-writer-michael-waldron-to-write-and-direct",
               "source_name": "IGN",
               "published_at": "2026-07-14T04:40:43+08:00"
-            },
-            {
-              "title": "《王国之心4》新画面可能下月公布",
-              "brief": "迪士尼D23大会将于下月举行，其中包含一小时的《王国之心》25周年纪念座谈会。会上可能公布《王国之心4》的新内容或发售窗口。该游戏上月在任天堂直面会上发布了四年来首支预告，但未透露具体发售日期。",
-              "source_url": "https://www.ign.com/articles/new-look-at-kingdom-hearts-4-may-be-coming-next-month",
-              "source_name": "IGN",
-              "published_at": "2026-07-14T03:59:21+08:00"
             }
           ]
         },
@@ -473,6 +473,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "三星预告下一代Galaxy Watch：加入AI功能，硬件配置全面升级",
+              "brief": "三星预告新一代Galaxy Watch将专注AI功能，无缝融入用户日常生活，提供个性化健康服务。预计发布标准版Galaxy Watch 9（40mm/44mm）及高端Watch Ultra 2。44mm版配备445mAh电池和480x480像素屏幕，40mm版为325mAh电池和438x438像素屏幕。Ultra 2采用钛金属外壳、800mAh电池和5000尼特峰值亮度。三星可能放弃自家Exynos处理器，改用3nm骁龙Wear Elite芯片以支持端侧AI（12 TOPS算力）。价格方面，40mm Wi-Fi版约409欧元，44mm版439欧元，Ultra 2为749欧元。此外，三星健康应用要求用户接受AI训练条款，否则将停用云同步并删除服务器上的健康数据，包括周期跟踪、医疗记录等敏感信息，且数据可能被人工审查。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568892.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-14T17:57:01+08:00"
+            },
+            {
               "title": "SK海力士到2028年可能仅能实现其计划新增内存产能的六分之一",
               "brief": "行业内部人士透露，SK海力士全罗地区新型超级晶圆厂的全面投产时间可能推迟至十年之后，原因是基建、洁净室及设备安装周期漫长。受技术升级和工艺微缩导致老旧工厂产能关停影响，韩国每年实际存储晶圆产能增幅不足10%。这意味着到2028年，SK海力士可能仅能实现其计划新增内存产能的六分之一。这一产能扩张滞后，使三星、SK海力士及美光科技近期面临的价格操纵集体诉讼复杂化，原告指控它们利用HBM需求压缩传统内存产量。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1568890.htm",
@@ -499,13 +506,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1568884.htm",
               "source_name": "cnBeta",
               "published_at": "2026-07-14T16:22:22+08:00"
-            },
-            {
-              "title": "英特尔推出航天级AI芯片 仅限美国政府使用",
-              "brief": "英特尔发布星火系列航天级AI芯片，提供低功耗版（45TOPS）和高性能版（75TOPS），采用8核心配置，支持辐射防护和极端温度（-55°C至125°C）。该芯片仅面向美国政府及授权军工承包商和盟国机构，受严格出口管制。星火系列预计为英特尔与美国国防部联合开发，用于太空等恶劣环境。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1568882.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-14T16:17:25+08:00"
             }
           ]
         },
@@ -513,39 +513,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "中汽协澄清：“新能源车平均车龄仅1.8年”是误读",
-              "brief": "中国汽车工业协会后市场分会发布声明，澄清此前媒体关于“新能源车平均车龄仅1.8年”的报道属于误读。分会指出，报告中的“在用车平均车龄”指截至2025年底存量新能源车辆的平均新车售出时间，相当于人的平均年龄而非平均寿命，与“车辆置换周期”和“车辆平均使用寿命”统计口径完全不同。",
-              "source_url": "https://36kr.com/newsflashes/3895246759672837?f=rss",
+              "title": "华尔街各大银行交易业务收入或将接近390亿美元",
+              "brief": "美国头部大型银行将于本周开启财报密集披露期，五家机构将陆续公布二季度业绩。分析师预测，摩根大通、美国银行、花旗集团、高盛集团、摩根士丹利五家机构二季度交易总收入或将逼近390亿美元。多家银行股票交易部门营收有望创下历史次高水平，仅次于今年一季度峰值。高盛股票业务交易部门二季度营收或将突破50亿美元，逼近再度刷新纪录。",
+              "source_url": "https://36kr.com/newsflashes/3895352181390597?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-14 16:49:54  +0800"
+              "published_at": "2026-07-14 18:49:55  +0800"
             },
             {
-              "title": "消息称SK海力士加速为英伟达量产HBM4",
-              "brief": "据报道，SK海力士已正式启动面向英伟达的12层HBM4量产出货，产品进入产能爬坡阶段。这是HBM4首次以完成所有质量认证的最终规格，面向英伟达下一代AI平台“Vera Rubin”。今年9月起，SK海力士将正式扩大HBM4出货规模，以承接英伟达的高端算力芯片供货需求。",
-              "source_url": "https://36kr.com/newsflashes/3895234349562887?f=rss",
+              "title": "六部门：到2030年，危险废物填埋处置量占比由2025年约13%降至10%以内",
+              "brief": "六部门联合发布目标，到2030年危险废物填埋处置量占比将从2025年的约13%降至10%以内。此举旨在推动危险废物减量化、资源化和无害化处理，减少填埋对环境的影响。相关部门将通过加强监管、推广替代技术等措施实现该目标。",
+              "source_url": "https://36kr.com/newsflashes/3895364158733315?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-14 16:47:13  +0800"
+              "published_at": "2026-07-14 18:49:20  +0800"
             },
             {
-              "title": "脸书母公司计划在美建500亿美元超大型数据中心",
-              "brief": "Meta于13日宣布，将大幅扩大其在美国路易斯安那州里奇兰县的“许珀里翁”数据中心超级集群项目规模，规划容量提升至5吉瓦，预计总投资额超过500亿美元。分析人士指出，在AI投资热潮推动下，Meta及微软、谷歌、亚马逊等科技巨头正加速在全球布局算力基础设施。",
-              "source_url": "https://36kr.com/newsflashes/3895233724595200?f=rss",
+              "title": "上纬新材发布全球首个可变形个人机器人启元T1，将亮相WAIC 2026",
+              "brief": "上纬新材发布了全球首个可变形个人机器人启元T1，该机器人具备变形能力，可适应多种场景。它将在2026年7月16日至20日举行的世界人工智能大会暨人工智能全球治理高级别会议（WAIC）期间首次公开亮相。这标志着个人机器人领域的新突破。",
+              "source_url": "https://36kr.com/newsflashes/3895342578809862?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-14 16:43:35  +0800"
+              "published_at": "2026-07-14 18:44:33  +0800"
             },
             {
-              "title": "中国资源循环集团等在吉林成立新科技中心，出资额1000万",
-              "brief": "软银公司与SB OAI Japan宣布全面推出采用OpenAI技术的网络安全服务“补丁即服务”，将推广范围扩大到3000家符合条件的日本公司。该服务旨在利用AI技术提升网络安全防护能力，帮助日本企业应对日益复杂的网络威胁。",
-              "source_url": "https://36kr.com/newsflashes/3895229605559553?f=rss",
+              "title": "摩根大通二季度调整后营收580亿美元，高于市场预期",
+              "brief": "摩根大通公布第二季度调整后营收为580.2亿美元，高于预期的513.9亿美元；第二季度每股收益7.70美元。其中，股票销售及交易收入为60.3亿美元，高于预期的39.8亿美元。业绩超预期主要得益于市场波动加剧带来的交易活跃度提升。",
+              "source_url": "https://36kr.com/newsflashes/3895353559628809?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-14 16:38:24  +0800"
+              "published_at": "2026-07-14 18:38:33  +0800"
             },
             {
-              "title": "东山精密：预计2026年半年度净利润同比增长282.58%-295.78%",
-              "brief": "东山精密公告，预计2026年半年度归属于上市公司股东的净利润为29.00亿元至30.00亿元，同比增长282.58%至295.78%。业绩增长主要由于消费电子、汽车零部件等传统业务稳步提升，光模块业务整合效应显现，以及数据中心相关产业投资增厚利润。",
-              "source_url": "https://36kr.com/newsflashes/3895235016588289?f=rss",
+              "title": "国轩高科：预计上半年净利润同比增长227.31%-322.77%",
+              "brief": "国轩高科公告，预计2026年上半年净利润为12亿元至15.5亿元，同比增长227.31%至322.77%。业绩增长主要得益于公司加快研发产业化落地、推进产品迭代升级、优化客户结构以及海内外市场开拓，市场占有率稳步提升，带动净利润显著增长。",
+              "source_url": "https://36kr.com/newsflashes/3895347574455297?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-14 16:37:57  +0800"
+              "published_at": "2026-07-14 18:38:20  +0800"
             }
           ]
         }
