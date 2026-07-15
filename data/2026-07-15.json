@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T20:51:10.662315+08:00",
+  "generated_at": "2026-07-15T22:52:47.660096+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果为蜂窝版iPad增加36个月运营商分期选项",
+              "brief": "苹果公司为通过AT&T和Verizon购买的蜂窝版iPad引入了36个月分期付款选项，此前仅支持通过Apple Card的12个月免息分期。新方案覆盖所有蜂窝版iPad型号，包括iPad、iPad mini、iPad Air和iPad Pro。两大运营商仅限激活新线的用户参与，而非将iPad加入现有套餐。延长分期至36个月显著降低了月付金额，例如11英寸iPad Pro蜂窝版起售价涨至1399美元后，36个月分期月付约38美元，而之前12个月月付约116.58美元。此举是在6月底全系iPad涨价后推出，旨在减轻消费者一次性支付压力。",
+              "source_url": "https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-15T22:41:13+08:00"
+            },
+            {
+              "title": "欧盟免除Apple Watch和AirPods电池可拆卸要求",
+              "brief": "欧盟委员会昨日通过新豁免条款，免除Apple Watch和AirPods需配备用户可拆卸可更换电池的要求。欧盟电池法规原本要求消费产品提供用户可更换电池，以延长设备寿命并促进回收。新豁免新增了六个产品类别，包括智能手表和健身追踪器等可穿戴设备。理由与电动牙刷等产品类似：紧凑密封的机身若打开后无法正确密封，可能进水并带来安全风险。该豁免覆盖了Apple Watch、AirPods以及Meta的智能眼镜。此前iPhone已因电池循环寿命和防水等级获得豁免。苹果通过Apple Store、授权服务商和自助维修计划提供电池服务。该授权法案尚需通过审查。",
+              "source_url": "https://www.macrumors.com/2026/07/15/eu-drops-battery-removal-requirement/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-15T22:02:38+08:00"
+            },
             {
               "title": "亚马逊对M5 MacBook Air机型提供150美元折扣",
               "brief": "亚马逊对多款M5 MacBook Air降价150美元，主要针对13英寸机型。这是继上个月苹果提价后，这些笔记本出现的较低价格。其中16GB/1TB版售价1449美元，24GB/1TB版售价1649美元，均比原价低150美元。目前未发现15英寸机型有折扣。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
               "source_name": "MacRumors",
               "published_at": "2026-07-15T08:12:27+08:00"
-            },
-            {
-              "title": "OpenAI首款AI设备将是一款便携式智能音箱",
-              "brief": "据彭博社报道，OpenAI的首款AI硬件产品是一款无显示屏的移动智能音箱，旨在成为家庭中的人形AI伴侣。该设备可控制智能家居配件、回答问题、播放媒体、回复消息等，由ChatGPT驱动，并随时间推移学习用户习惯，变得更加个性化和主动。它带有摄像头以感知周围环境，配备可充电电池，可在房间间移动。苹果指控OpenAI窃取商业机密，包括专有金属精加工技术，用于开发该产品。苹果在诉讼中称OpenAI的硬件业务建立在非法盗用商业秘密的基础上。",
-              "source_url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-15T05:38:08+08:00"
-            },
-            {
-              "title": "OpenAI：苹果商业机密指控缺乏证据",
-              "brief": "OpenAI回应苹果的诉讼，称没有证据表明其窃取商业机密的指控成立。苹果上周五起诉OpenAI，指控其硬件主管Tang Tan和工程师Chang Liu合谋窃取机密信息，用于OpenAI的硬件开发。Tan曾在苹果任职24年，Liu则被指保留苹果笔记本电脑并利用认证漏洞查看机密文件。OpenAI强调尊重公平竞争，并否认不当行为。",
-              "source_url": "https://www.macrumors.com/2026/07/14/openai-apple-lawsuit-response/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-15T04:45:17+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "警告：假冒Mac崩溃报告正在窃取密码和加密钱包等",
-              "brief": "安全公司Jamf发现了一种名为CrashStealer的恶意软件，它通过伪造苹果崩溃报告对话框，诱骗用户输入Mac密码，从而获取包括密码管理器和加密货币钱包在内的大量个人数据。该恶意软件最初于5月被发现，当时尚在开发中，但到7月初已在野外传播。攻击者使用名为“Werkbit Setup”的磁盘镜像分发恶意软件，该镜像曾拥有有效的苹果开发者ID和公证，可绕过Gatekeeper检查。苹果现已吊销相关凭证，但用户仍需警惕，仔细检查崩溃报告和密码提示。",
-              "source_url": "https://9to5mac.com/2026/07/15/psa-beware-of-fake-mac-crash-reports-out-to-steal-your-passwords-crypto-wallets-more/",
+              "title": "报告：一次邮件失误如何破坏了苹果与OpenAI在诉讼前的谈判",
+              "brief": "苹果在上周五对OpenAI及两名前员工提起商业秘密盗窃诉讼，指控其窃取机密硬件信息以推动OpenAI的消费设备野心。苹果声称曾在2月直接向OpenAI提出担忧，但未获回应。然而据NBC新闻报道，OpenAI表示他们确实回复了苹果的首次联系，但苹果外部律师在发送邮件时误将收件人混淆，导致沟通中断。律师先向OpenAI法务总监发送了指控邮件，13分钟后再次发邮件感谢其快速合作，但这第二封邮件本应发给另一名前苹果员工。",
+              "source_url": "https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-15T19:43:11+08:00"
+              "published_at": "2026-07-15T22:26:05+08:00"
             },
             {
-              "title": "苹果就Apple Intelligence在中国上线与中国政府达成协议",
-              "brief": "苹果已与中国监管机构达成协议，将Apple Intelligence引入中国市场。根据中国法律，苹果必须与本地AI公司合作，因此将采用百度的文心一言和阿里巴巴的通义千问模型。中国网信办已批准苹果的设备端生成式AI服务在iPhone上使用。阿里巴巴已确认其Qwen模型将集成到苹果新操作系统中。虽然新Siri的具体上线时间尚未公布，但这一协议将加速其在中国市场的推出。",
-              "source_url": "https://9to5mac.com/2026/07/15/apple-reaches-agreement-with-chinese-government-on-apple-intelligence-rollout/",
+              "title": "9to5Mac每日播报：2026年7月15日——iOS 27公测版已发布",
+              "brief": "本期播报讨论了iOS 27公测版发布，带来Siri AI和iPhone速度提升等功能；macOS 27公测版现已可用；苹果发布iPadOS 27公测版；watchOS 27公测版也同步发布。节目每天录制，可通过Apple Podcasts等平台订阅。",
+              "source_url": "https://9to5mac.com/2026/07/15/daily-july-15-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-15T19:19:15+08:00"
+              "published_at": "2026-07-15T22:22:46+08:00"
             },
             {
-              "title": "抢先看：九个新表情符号即将到来",
-              "brief": "Unicode联盟正在调整表情符号库以消除歧义，新增或修订了多个表情符号。例如，将彗星和流星拆分为两个独立表情，避免混淆；新增黄瓜和泡菜、蓝色和橙色蝴蝶等区分性符号。全新表情包括灯塔、橡皮擦、左右大拇指手势以及“裂开笑脸”，后者用于表达表面镇定下的内心崩溃。这些表情符号旨在更精确地传达复杂情感和场景，预计将在未来更新中上线。",
-              "source_url": "https://9to5mac.com/2026/07/15/a-sneak-peek-at-nine-newish-emoji-on-the-way/",
+              "title": "苹果为iPad购买新增36个月分期选项",
+              "brief": "苹果为带蜂窝功能的iPad新增了通过AT&T和Verizon的36个月分期付款选项，覆盖整个iPad产品线。此前仅提供Apple Card的12个月免息分期。新选项大幅降低月付金额，例如11英寸iPad Pro蜂窝版起价1399美元，Apple Card分期每月约116.58美元，而运营商分期每月约38美元。此举正值苹果上调所有iPad型号价格后不久，旨在吸引消费者。",
+              "source_url": "https://9to5mac.com/2026/07/15/apple-adds-new-36-month-financing-options-for-ipad-purchases/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-15T18:57:56+08:00"
+              "published_at": "2026-07-15T21:54:29+08:00"
             },
             {
-              "title": "安雅·泰勒-乔伊主演限定剧《幸运》在Apple TV+首播",
-              "brief": "Apple TV+限定剧《幸运》于7月15日首播，每周三更新一集，共七集。该剧改编自玛丽莎·斯特普利同名小说，由乔纳森·特罗珀创作，安雅·泰勒-乔伊、安妮特·贝宁、蒂莫西·奥利芬特等主演。故事讲述一名骗术高手在百万美元劫案失败后被迫逃亡，同时遭到FBI和残暴犯罪头目的追捕。这是泰勒-乔伊与Apple TV+继《峡谷》后的第二次合作。",
-              "source_url": "https://9to5mac.com/2026/07/14/limited-series-lucky-starring-anya-taylor-joy-premieres-on-apple-tv/",
+              "title": "Apple TV公布《Wanda在哪？》第二季首支预告及回归日期",
+              "brief": "Apple TV宣布《Wanda在哪？》第二季将于10月21日回归，并发布了首支预告。该剧讲述Klatt一家在警方调查无果后自行寻找失踪女儿的故事。第二季中，Wanda被发现站在一具尸体旁，家人需证明她的清白并找出真凶。第一季共9集，于2024年首播。",
+              "source_url": "https://9to5mac.com/2026/07/15/apple-tv-reveals-first-look-and-return-date-for-wheres-wanda-season-two/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-15T09:01:17+08:00"
+              "published_at": "2026-07-15T21:30:51+08:00"
             },
             {
-              "title": "iOS 27：我最喜欢的新iPhone功能（除了AI）",
-              "brief": "iOS 27带来了多项非AI新功能。音乐应用的AutoMix新增了更沉浸的过渡效果；照片应用中iCloud共享相册现在支持全分辨率分享；时钟应用可为闹钟独立设置音量；主屏幕新增超大小组件；锁屏可滑动关闭正在播放组件，并可将时钟移至顶部小组件行；照片应用支持将视频帧保存为图片；Apple Pay结账流程大幅改进，切换支付卡更方便；更多应用支持横屏模式；查找应用重新设计，显示更详细的位置信息。",
-              "source_url": "https://9to5mac.com/2026/07/14/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+              "title": "苹果关闭了购买无锁iPhone的流行变通方法",
+              "brief": "苹果修改了iPhone购买政策，此前通过T-Mobile或Verizon分期付款购买的iPhone默认为无锁状态，现在则与AT&T一样，在分期付清前将锁定至对应运营商。这意味着用户无法再同时享受运营商促销和获得无锁设备。苹果官网已更新说明，确认该变更。此举关闭了iPhone买家长期利用的“公开秘密”，消费者将受影响。",
+              "source_url": "https://9to5mac.com/2026/07/15/unlocked-iphone-carrier-financing/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-15T08:41:31+08:00"
+              "published_at": "2026-07-15T21:19:28+08:00"
             }
           ]
         },
@@ -89,45 +89,52 @@
           "name": "9to5Google",
           "articles": [
             {
-              "title": "一加手机基本退出市场，你会转向哪个品牌？[投票]",
-              "brief": "一加手机可能退出美国、欧洲等多个全球市场，长期粉丝需要开始规划转向其他品牌。一加曾以“不将就”为口号，提供高规格、强性价比的产品，但如今公司战略转变，与OPPO整合后，OxygenOS基于ColorOS，软件更新支持虽理论上无碍，但实际一致性和沟通不足令人沮丧。现有设备短期内仍会获得更新，但未来购买和推荐非中国区一加手机将变得困难。对于准备离开的用户，当前市场选择已与几年前大不相同。",
-              "source_url": "https://9to5google.com/2026/07/15/who-will-you-switch-to-now-oneplus-effectively-dead-poll/",
+              "title": "三星健康澄清：退出AI训练不会删除所有数据",
+              "brief": "三星健康此前向用户发送新的同意通知，允许将健康数据用于AI训练，包括人工审查。用户若在设置中撤回同意，会看到弹窗提示数据将被删除且不再同步。但三星随后向9to5Google澄清，撤回同意仅会删除为AI开发收集的数据，用户的现有健康数据将保留，服务不受影响。",
+              "source_url": "https://9to5google.com/2026/07/15/samsung-health-ai-training-data-consent/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-15T20:00:00+08:00"
+              "published_at": "2026-07-15T22:35:48+08:00"
             },
             {
-              "title": "三星称Galaxy Z Fold 8折痕因“Flex Titanium”显示屏更不明显",
-              "brief": "三星宣布其下一代可折叠设备将采用“Flex Titanium”显示面板，该面板使用钛合金薄膜和钛板，旨在减少折痕可见度并提升耐用性。钛合金薄膜位于OLED面板下方，厚度不到人类头发的30%，机械刚度比塑料薄膜高20倍，配合钛板支撑，消除了空气间隙，使展开时更稳定。此前泄露视频显示，Galaxy Z Fold 8 Ultra的折痕几乎不可见。三星未提及折叠寿命提升，前代Z Fold 7为50万次。",
-              "source_url": "https://9to5google.com/2026/07/14/samsung-galaxy-z-fold-8-flex-titanium-display/",
+              "title": "Galaxy Z Fold 8和Ultra完整规格泄露，显示两者差异巨大",
+              "brief": "新报告揭示了Galaxy Z Fold 8系列的全部规格。Fold 8 Ultra升级明显：内屏分辨率提升至2504×2256，超广角从12MP升级至50MP，电池容量增至5000mAh并支持45W快充。而普通Fold 8内屏为2448×1848，仅配备50MP主摄和50MP超广角，电池4800mAh。两款均搭载Snapdragon 8 Elite Gen 5 For Galaxy处理器。",
+              "source_url": "https://9to5google.com/2026/07/15/samsung-galaxy-z-fold-8-specs-leak-2/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-15T07:26:31+08:00"
+              "published_at": "2026-07-15T22:30:00+08:00"
             },
             {
-              "title": "谷歌为Pixel 9和10限时开放Pixel Care+注册",
-              "brief": "谷歌为Pixel 9和10系列开启Pixel Care+限时注册窗口，截止8月2日。该保险覆盖无限次意外损坏维修，包括屏幕、后盖和电池（容量低于80%可免费更换），并提供优先支持和次日换机。用户需在注册时确认设备无屏幕破损、液体损坏、机械故障或电池鼓包等既有问题。此前已参与其他保护计划的设备不可注册。价格方面，Pixel 10 Pro每月13美元或两年239美元，Pixel 9a每月6美元。",
-              "source_url": "https://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
+              "title": "Google Health服务中断，所有Fitbit和Pixel Watch用户设备同步失效",
+              "brief": "自太平洋时间凌晨5:41起，Google Health遭遇大范围中断，影响所有用户的设备同步功能。问题原因尚不明确。不过由于本地存储，丢失的数据可能在中恢复后从设备拉取补充。Google已确认此事件影响所有用户，并正在调查中。",
+              "source_url": "https://9to5google.com/2026/07/15/google-health-outage-breaks-device-sync-for-all-fitbit-pixel-watch-users/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-15T06:40:19+08:00"
+              "published_at": "2026-07-15T22:25:00+08:00"
             },
             {
-              "title": "Galaxy Watch 9 和 Ultra 2 规格泄露：骁龙芯片、800mAh 电池",
-              "brief": "WinFuture 曝光了三星 Galaxy Watch 9 和 Galaxy Watch Ultra 2 的完整规格。两款手表均搭载高通骁龙 Wear Elite 芯片，这是三星首次在 Galaxy Watch 中放弃 Exynos 处理器，并配备 2GB 内存。Galaxy Watch 9 提供 40mm 和 44mm 两种尺寸，电池容量分别为 325mAh 和 445mAh，可能新增 64GB 存储版本。Galaxy Watch Ultra 2 则升级明显，电池从上一代的 590mAh 提升至 800mAh，采用钛金属表壳，支持 10ATM 防水，配备 1.5 英寸屏幕。两款手表均预装 One UI 9 / Wear OS 7 系统，支持蓝牙 6.0、NFC 和双频 Wi-Fi。",
-              "source_url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
+              "title": "三星在《蜘蛛侠：新纪元》广告中预告Galaxy Z Fold 8的“新形态”",
+              "brief": "三星与《蜘蛛侠：新纪元》合作发布2分钟广告片，暗示Galaxy Z Fold 8将采用更短更宽的新设计，折叠时形态变化明显。广告中Fold 8大部分被模糊处理，仅称为“新形态”，同时展示了Galaxy Watch Ultra 2和Flip 8的耐用性。三星此次重点强调设备耐用性。",
+              "source_url": "https://9to5google.com/2026/07/15/samsung-teases-galaxy-z-fold-8-spider-man-ad/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-15T03:35:00+08:00"
+              "published_at": "2026-07-15T22:13:21+08:00"
             },
             {
-              "title": "Spotify 推出自有 AI 聊天机器人——看看你能用它做什么",
-              "brief": "Spotify 宣布在其应用中集成 AI 聊天机器人“Talk to Spotify”，该功能位于首页和“正在播放”界面，用户可通过文字或语音输入指令，例如创建播放列表、保存歌曲、添加到队列或询问歌曲信息。Spotify 提供了示例提示，如“播放一些我没听过的歌手”、“添加 Bad Bunny，只要他最近的歌”或“这张专辑何时发行”。该功能目前以测试版形式逐步向美国、爱尔兰和瑞典的 Premium 订阅用户推出，仅支持英语。",
-              "source_url": "https://9to5google.com/2026/07/14/spotify-adds-its-own-ai-chatbot-heres-what-you-can-do-with-it-video/",
+              "title": "终于有非Pixel安卓手机内置Qi2磁吸无线充电：摩托罗拉Edge 70 Max",
+              "brief": "摩托罗拉Edge 70 Max成为继谷歌Pixel 10之后第二款真正内置Qi2磁吸的安卓手机，支持25W Qi2无线充电，符合Qi 2.2.1标准。该机搭载骁龙8 Gen 5、6.82英寸QHD+ AMOLED屏、7100mAh电池、90W有线快充，售价700英镑，但仅提供2次OS升级，且不在美国发售。",
+              "source_url": "https://9to5google.com/2026/07/15/android-qi2-magnets-motorola-edge-70-max/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-15T03:15:00+08:00"
+              "published_at": "2026-07-15T21:55:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "一位最不可能的宇航员刚刚进入太空",
+              "brief": "美国宇航局飞行外科医生阿尼尔·梅农在九年间四次申请宇航员均遭拒绝，39岁时几乎放弃梦想。但最终他入选了远征75号任务，于2026年7月前往国际空间站。梅农曾攀登珠穆朗玛峰行医、在海地地震后提供救援、并在阿富汗执行搜救任务。他的经历展示了坚持与机遇的结合。",
+              "source_url": "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-15T19:30:07+08:00"
+            },
             {
               "title": "建造轨道数据中心究竟有多难？",
               "brief": "SpaceX计划部署100万颗卫星组成轨道数据中心星座，产生120吉瓦电力，支持数千万至1亿块前沿级GPU。技术挑战包括大规模发射、太空散热、辐射防护和轨道延迟问题。SpaceX已披露其首代轨道数据中心卫星AI1的细节，旨在降低散热器成本和重量。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-15T06:09:31+08:00"
-            },
-            {
-              "title": "诉讼称Meta裁员决定由AI而非人类做出",
-              "brief": "26名被裁员工起诉Meta，称其使用AI系统而非人工判断决定裁员名单，包括内部工具“Metamate”、员工训练的“第二大脑”代理、键盘和活动监控数据等，并依据员工使用AI工具的程度进行评分。诉讼指控这些工具未考虑残疾和受保护请假等因素，导致残疾员工和休病假或家庭假的员工被不成比例地裁减。这是首起针对美国大公司使用AI裁员的诉讼。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-15T04:05:53+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "摩托罗拉新旗舰Edge 70 Max发布，支持磁吸无线充电",
-              "brief": "摩托罗拉发布了旗舰机型Edge 70 Max，搭载骁龙8 Gen 5处理器、6.8英寸144Hz超亮显示屏和7100mAh硅碳电池，支持90W有线和25W无线充电。该机最大的亮点是支持Qi2.2磁吸无线充电，成为继Pixel 10系列和HDM Skyline之后又一款支持MagSafe式磁吸充电的安卓手机。此外，它还具备IP68/IP69防护等级和MIL-STD-810H认证。",
-              "source_url": "https://www.androidauthority.com/motorola-edge-70-max-launch-3687719/",
+              "title": "大规模泄露揭示Galaxy Z Fold 8和Fold 8 Ultra全部关键规格",
+              "brief": "WinFuture报告称，Galaxy Z Fold 8将配备5.5英寸外屏和7.6英寸内屏，均支持120Hz刷新率，内屏为Dynamic AMOLED 2X，分辨率2448x1848。Fold 8 Ultra则可能升级至6.5英寸外屏和8英寸内屏。两款设备均采用新型钛金属显示基板以减少屏幕折痕，展开厚度分别仅为4.5mm和4.1mm。监管信息显示电池寿命为1200次循环，可能引发对长期耐用性的疑问。三星计划于7月22日正式发布下一代折叠屏手机。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-full-specifications-leak-3687790/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-15T20:00:41+08:00"
+              "published_at": "2026-07-15T22:25:45+08:00"
             },
             {
-              "title": "Google Photos将允许用户通过AI语音编辑照片元数据",
-              "brief": "Google Photos正在开发一项新功能，用户可通过“Ask Photos”按钮使用AI编辑照片的元数据，包括时间戳、标题和位置信息。该功能在最新版应用中被发现，且已能正常工作。虽然Google Photos此前已支持手动编辑元数据，但新功能让用户只需说出需求即可完成修改。目前该功能尚未正式上线，但预计很快会向用户推送。",
-              "source_url": "https://www.androidauthority.com/google-photos-ask-photos-edit-metadata-apk-teardown-3687738/",
+              "title": "Discord新增剧透频道功能，帮助用户避免剧情泄露",
+              "brief": "Discord推出剧透频道功能，服务器所有者可将文字、语音、论坛或公告频道设为剧透频道。成员首次进入时会看到频道名称和主题的提示，选择是否查看内容，之后不再显示提示。该功能类似于年龄限制频道，但无需年龄验证。Discord建议用于剧透、情感沉重话题等敏感讨论，色情内容仍需使用年龄限制频道。管理员可在频道设置中启用该功能。",
+              "source_url": "https://www.androidauthority.com/discord-spoiler-channels-3687547/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-15T19:58:59+08:00"
+              "published_at": "2026-07-15T22:22:39+08:00"
             },
             {
-              "title": "三星One UI 9 beta 4让锁定模式更灵活",
-              "brief": "三星在One UI 9 beta 4中为锁定模式增加了新开关，允许用户控制通过快捷设置面板中的电源按钮触发电源菜单时是否自动进入锁定模式。此前在beta 2和beta 3中，无论通过侧边按钮还是快捷设置面板触发电源菜单，都会自动启用锁定模式。新版本中，物理侧边按钮仍强制触发锁定，但用户可自行决定是否在快捷方式中启用该行为。",
-              "source_url": "https://www.androidauthority.com/one-ui-9-lockdown-mode-quick-settings-power-button-apk-teardown-3687722/",
+              "title": "Google Health应用出现故障，同步和配对功能异常",
+              "brief": "Google Health应用正在经历问题，用户报告同步和配对功能无法正常工作。根据Downdetector，故障报告从美国东部时间早上7点左右开始出现，数百名用户受到影响。Google Health服务状态页面确认服务遇到问题，具体表现为同步和配对功能中断。目前问题仍在持续，官方尚未提供修复时间表。",
+              "source_url": "https://www.androidauthority.com/google-health-experiencing-issues-3687798/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-15T19:50:46+08:00"
+              "published_at": "2026-07-15T21:58:17+08:00"
             },
             {
-              "title": "调查显示电池容量是用户对Galaxy S27 Ultra的最大担忧",
-              "brief": "Android Authority的一项调查显示，超过58%的读者认为电池容量是Galaxy S27 Ultra最需要升级的方面。自2020年Galaxy Ultra系列推出以来，三星一直坚持使用5000mAh电池，而竞争对手已采用新型电池化学技术提升容量。相比之下，仅5.7%的读者关心充电速度。调查还指出，S27 Ultra需要改善摄像头、S Pen和设计等方面，但电池容量是首要需求。",
-              "source_url": "https://www.androidauthority.com/galaxy-s27-ultra-upgrade-poll-results-3687712/",
+              "title": "MANGMI公布新款Game Boy风格Android掌机Air Y系列屏幕规格",
+              "brief": "MANGMI确认其Air Y系列掌机将配备4.2英寸IPS触摸屏，4:3比例，分辨率1280x960，亮度500尼特，覆盖110% sRGB色域。新3D预告片展示了设计细节，包括正面呼吸灯Logo、金属侧轮、对比色按钮和符合人体工学的弧形肩键。两款掌机均运行Android系统并搭载高通处理器，标准版Air Y配备单摇杆和前置扬声器，Pro版则配备双摇杆。",
+              "source_url": "https://www.androidauthority.com/mangmi-air-y-series-display-specs-3687771/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-15T19:17:59+08:00"
+              "published_at": "2026-07-15T21:20:24+08:00"
             },
             {
-              "title": "你拥有强密码，为何在线账户仍有风险",
-              "brief": "即使设置了强密码，在线账户仍可能因电子邮件泄露而处于风险中。电子邮件地址是数字身份的关键，但人们常随意将其提供给各种服务。通过使用电子邮件别名，可以隐藏主邮箱，将邮件转发至真实地址，从而避免垃圾邮件和数据泄露。密码、电子邮件和双因素认证三者缺一不可，共同构成完整的安全体系。",
-              "source_url": "https://www.androidauthority.com/strong-password-not-enough-online-security-why-3686495/",
+              "title": "三星借蜘蛛侠预告片预热Galaxy Z Fold 8的“新形态”",
+              "brief": "三星发布新预告片，利用即将上映的《蜘蛛侠：崭新的一天》片段展示Galaxy Z Fold 8的更宽外形。片段中主角使用Galaxy Z Fold 7和Flip 7，并提到一款“新形态完美适合沟通”的设备，暗指更宽的Z Fold 8。三星还暗示电影中大量出现其设备，可能包括Z Fold 8。下周伦敦Galaxy Unpacked活动将正式发布Z Fold 8、Fold 8 Ultra、Flip 8及新款手表。",
+              "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-spider-man-ad-3687658/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-15T18:30:00+08:00"
+              "published_at": "2026-07-15T21:00:32+08:00"
             }
           ]
         },
@@ -209,45 +209,52 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "三星新型可折叠显示屏技术更耐损且抗折痕",
-              "brief": "三星发布了全新Flex Titanium显示屏技术，将用于下一代Galaxy折叠设备。该技术通过材料创新，采用钛合金薄膜和钛板结构，使显示屏机械刚度提升20倍，同时减少折痕可见度。钛板上的微孔设计保证了柔韧性与耐用性。该技术预计随Galaxy Z Fold 8和Flip 8在7月22日Unpacked活动上亮相。此前CES展出的“无缝”折叠屏原型已展示出几乎不可见的折痕。",
-              "source_url": "https://www.engadget.com/2215470/samsung-foldable-display-technology-is-harder-to-damage-and-resists-creases/",
+              "title": "Hinge用户可让朋友为个人资料撰写推荐",
+              "brief": "Hinge推出“朋友推荐”功能，允许用户邀请朋友、家人或同事为他们的个人资料撰写文字、照片或视频/语音推荐。该功能已在全球（除印度）上线，受邀者无需是Hinge会员。用户可在编辑资料页面生成链接发送给亲友，链接有效期为三天或收集满10条推荐。用户可从中选择最多三条展示在资料上，并可随时更换。Hinge表示71%的用户希望获得资料帮助，但仅46%主动寻求，此功能旨在提升资料真实性和吸引力。",
+              "source_url": "https://www.engadget.com/2215630/hinge-users-can-now-get-friends-to-hype-them-up-on-their-profiles/",
               "source_name": "Engadget",
-              "published_at": "2026-07-15T20:01:03+08:00"
+              "published_at": "2026-07-15T22:38:54+08:00"
             },
             {
-              "title": "Withings新款高端智能秤今日开售",
-              "brief": "Withings Body Scan 2智能秤今日在美国开售，售价600美元。该秤提供临床级DEXA扫描级别的数据，可分析60项生物标志物，包括心阻抗图监测心脏泵血能力，以及生物电阻抗谱分析身体水分、细胞年龄等。第一代产品仅能分析40项指标。购买附赠Withings+健康监测服务一个月免费试用。",
-              "source_url": "https://www.engadget.com/2214526/withings-new-ultra-premium-body-scan-2-scale-on-sale-today/",
+              "title": "苹果Apple Intelligence在中国获得监管批准",
+              "brief": "苹果的Apple Intelligence已在中国网信办完成注册，为在中国推出AI服务扫清重大障碍。据路透社报道，中国版Apple Intelligence将整合百度与阿里巴巴的模型以符合当地法规。若获批，该服务可能在美国推出两年后登陆中国。阿里巴巴确认其Qwen模型将用于中国版Apple Intelligence，百度也参与功能开发。目前尚无发布日期，但监管批准是苹果向中国用户提供新版Siri等AI功能的前提。",
+              "source_url": "https://www.engadget.com/2215606/apple-intelligence-finally-gets-regulatory-approval-in-china/",
               "source_name": "Engadget",
-              "published_at": "2026-07-15T19:00:00+08:00"
+              "published_at": "2026-07-15T22:22:30+08:00"
             },
             {
-              "title": "谷歌下周允许第三方应用商店接入安卓",
-              "brief": "谷歌宣布自7月22日起，美国第三方安卓应用商店可通过Play Catalog Access Program访问Google Play的应用目录。用户下载第三方商店的应用仍通过Google Play完成，并适用谷歌服务费。此举是为遵守法院在Epic Games诉讼中的裁决。此前谷歌与Epic达成和解，原计划推出“注册应用商店”计划，但现已撤回修改禁令的动议，转而直接开放Play目录访问。",
-              "source_url": "https://www.engadget.com/2215452/google-allow-third-party-app-stores-android-july-22/",
+              "title": "iOS 27预览：期待已久的Siri AI实用但平淡",
+              "brief": "苹果在iOS 27测试版中推出升级版Siri AI，将其从基础语音命令提升为智能个人助手。新Siri更快速智能，并拥有独立应用，但注重日常实用性而非华丽功能。iOS 27还改进了信息、Safari、地图和照片编辑工具。苹果已发布公开测试版，用户可在兼容iPhone上体验，但需注意可能存在不稳定风险。设计上iOS 27延续iOS 26风格，新增透明度控制等微调。",
+              "source_url": "https://www.engadget.com/2215572/apple-ios-27-preview/",
               "source_name": "Engadget",
-              "published_at": "2026-07-15T18:59:35+08:00"
+              "published_at": "2026-07-15T22:00:00+08:00"
             },
             {
-              "title": "星链新V5家用天线更小更节能",
-              "brief": "SpaceX悄然发布了最新的Starlink V5家用天线，相比V4型号更小、更轻且更节能，但速度略有降低。V5天线重2.4磅，尺寸为5.12x12.05x1.34英寸，功耗35-50瓦，而V4重6.5磅，尺寸23.4x15.1x1.5英寸，功耗75-100瓦。V5支持375+ Mbps速率，低于V4的400+ Mbps。目前在美国部分地区通过Starlink Residential计划提供，仅搭配最便宜的55美元/月100Mbps套餐。V5附带Router Mini和屋顶安装适配器，但不支持移动中使用。",
-              "source_url": "https://www.engadget.com/2215419/starlink-v5-home-dish-smaller-and-more-energy-efficient/",
+              "title": "Google Maps叶子图标含义：节能路线解析",
+              "brief": "Google Maps中的叶子图标代表节能路线，旨在节省燃油或电池电量，并更加环保。该功能默认开启，但可能增加行程时间。用户可在设置中关闭“优先节能路线”。节能路线基于实时交通、道路类型、交叉口、地形等因素计算，平坦路线更省能。用户需权衡时间与节能效果，根据需求决定是否使用。",
+              "source_url": "https://www.engadget.com/2209466/what-the-little-leaf-symbol-on-google-maps-means/",
               "source_name": "Engadget",
-              "published_at": "2026-07-15T16:45:09+08:00"
+              "published_at": "2026-07-15T21:30:00+08:00"
             },
             {
-              "title": "OpenAI首款设备据报为类人可充电音箱",
-              "brief": "据彭博社报道，OpenAI的首款硬件产品将是一款可充电的AI音箱，可自然对话、控制智能家居并播放音频。该设备无屏幕，但配备可自主移动的机械部件以营造“活物”感。它将使用更先进的GPT-Live模型，支持同时听说并快速处理信息，还配有摄像头和传感器以获取环境上下文。OpenAI于2025年斥资65亿美元收购了由前苹果设计师Jony Ive创立的io公司来协助设计。该音箱计划2027年发布，但可能因苹果寻求法院禁令而延迟。",
-              "source_url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
+              "title": "XGIMI Elfin Flip 4K评测：超便携激光投影仪画质锐利",
+              "brief": "XGIMI推出Elfin Flip 4K激光投影仪，售价999美元，重量仅3.4磅，支持150度倾斜设计，便于随处放置。它提供出色的图像清晰度和色彩准确性，内置Google TV和Harman-Kardon扬声器。不过亮度不高，不适合明亮环境，且Google TV软件有时反应迟钝。自动梯形校正和自动对焦功能使设置简便，可投射最大400英寸画面。对于想尝试激光投影仪的用户，这是一款入门好选择。",
+              "source_url": "https://www.engadget.com/2210501/xgimi-elfin-flip-4k-review/",
               "source_name": "Engadget",
-              "published_at": "2026-07-15T16:37:19+08:00"
+              "published_at": "2026-07-15T21:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "最小的MMO",
+              "brief": "PointlessQuest将MMORPG冒险带到了Playdate平台上。这款游戏由设计师Gareth Williams作为副项目开发，在发布当天达到了15名同时在线玩家的峰值。尽管规模极小，但它吸引了一小群硬核玩家合作攻克早期游戏内容。Williams表示，社区的支持令人惊叹。",
+              "source_url": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
+              "source_name": "The Verge",
+              "published_at": "2026-07-15T09:00:00-04:00"
+            },
             {
               "title": "摩托罗拉Edge 70 Max主打强劲续航",
               "brief": "摩托罗拉推出Edge 70 Max旗舰手机，主打视频流和手游等高性能场景。该机配备7100mAh硅碳电池，支持90W有线快充和25W Qi2无线充电，成为继谷歌Pixel 10 Pro XL之后首款支持全速25W Qi2无线充电的安卓手机，而其他Qi2安卓机型无线充电功率限制在15W。摩托罗拉承诺“全天续航”，但未提供具体数据。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push",
               "source_name": "The Verge",
               "published_at": "2026-07-15T06:13:47-04:00"
-            },
-            {
-              "title": "PS6听起来像是一台掌机",
-              "brief": "随着索尼放弃光盘，其最近的PlayStation业务会议透露出不同寻常的信号。游戏行业动荡不安，微软和索尼开始转向下一代主机，但面临价格飙升、索尼取消光盘、微软在过渡前关闭工作室等问题。在6月5日的投资者问答会上，索尼互动娱乐CEO Hideaki Nishino给出了多个关于PlayStation未来的暗示，结合光盘的终结来解读，这些暗示指向了一款掌机形态的PS6。",
-              "source_url": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs",
-              "source_name": "The Verge",
-              "published_at": "2026-07-15T06:00:00-04:00"
             }
           ]
         }
@@ -293,6 +293,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《奥德赛》粉丝争抢全球仅41家IMAX 70毫米影院，IMAX总裁称新建放映机不“实际”",
+              "brief": "克里斯托弗·诺兰新片《奥德赛》成为首部全程使用IMAX 1570胶片拍摄的电影，但全球仅有41家影院能放映IMAX 70毫米版本，导致粉丝甚至出国观影。IMAX首席执行官理查德·葛尔方表示，由于胶片放映机已停产约50年，只能通过翻新旧设备来满足需求，新建放映机并不实际。尽管影院凌晨场次已售罄，但短期内无法大规模增加放映能力。",
+              "source_url": "https://www.ign.com/articles/as-the-odyssey-fans-seek-out-one-of-the-41-cinemas-in-the-whole-world-capable-of-imax-70mm-the-boss-of-imax-itself-says-building-new-projectors-to-meet-demand-isnt-practical",
+              "source_name": "IGN",
+              "published_at": "2026-07-15T20:21:50+08:00"
+            },
+            {
+              "title": "《权力的游戏》开播15周年，英国皇家铸币局推出官方纪念币",
+              "brief": "为庆祝《权力的游戏》在HBO首播15周年，英国皇家铸币局推出两款50便士收藏币，分别以龙和夜王为主题，价格从15英镑起，彩色版27.50英镑，金币版高达2420英镑。该剧第一季于2011年开播，至今仍拥有大量粉丝。此前，限量版精装书《权力的游戏》也以1500英镑发售。",
+              "source_url": "https://www.ign.com/articles/its-been-15-years-since-game-of-thrones-hbo-debut-and-now-theres-official-british-money-to-celebrate",
+              "source_name": "IGN",
+              "published_at": "2026-07-15T20:06:01+08:00"
+            },
+            {
+              "title": "Netflix为《怪奇物语》首季10周年推出复古VHS特别版",
+              "brief": "Netflix在《怪奇物语》首季开播10周年之际，悄然上线了VHS特别版，将全部8集重新剪辑，加入复古画面和音效，模拟录像带播放效果。该剧以1980年代为背景，曾引发怀旧热潮。目前第一季已完结，衍生剧正在开发中，但主创已排除直接续集的可能性。",
+              "source_url": "https://www.ign.com/articles/netflix-shadow-drops-retro-vhs-inspired-version-of-stranger-things-season-1-on-series-10th-anniversary",
+              "source_name": "IGN",
+              "published_at": "2026-07-15T19:30:44+08:00"
+            },
             {
               "title": "《刺客信条：黑旗 重制版》开发者抗议裁员，育碧巴塞罗那工作室面临51个岗位裁减",
               "brief": "育碧巴塞罗那工作室员工抗议公司裁员计划，称其“低于任何合理标准”。作为育碧全球裁员380人的一部分，巴塞罗那工作室最多51个岗位面临风险，未来团队将缩减并仅专注于《彩虹六号》系列。尽管《刺客信条：黑旗 重制版》在24小时内售出200万份，商业成功与裁员形成鲜明对比。该工作室曾为重制版贡献了大量内容，包括多个主线任务、区域设计、水下潜水支线任务及敌人AI开发，开发周期超过两年。",
@@ -306,33 +327,19 @@
               "source_url": "https://www.ign.com/articles/microsoft-pulls-tony-hawks-pro-skater-12-from-july-2026-xbox-game-pass-lineup-without-explanation",
               "source_name": "IGN",
               "published_at": "2026-07-15T18:10:26+08:00"
-            },
-            {
-              "title": "《指环王：追捕咕噜》开拍，首支幕后视频展示安迪·瑟金斯回归角色",
-              "brief": "《指环王：追捕咕噜》正式开拍，首支幕后视频显示安迪·瑟金斯穿着动作捕捉服，以咕噜形象登场。视频中瑟金斯在维塔工作室的动捕舞台开始第一天拍摄，并迅速进入角色状态。视频还展示了新西兰山区的外景地，粉丝认出这是《双塔奇兵》中弗罗多和山姆攀爬的岩壁。影片定档2027年12月17日，视频中隐藏的中土文字被破译为“有珍贵之物在等待”。",
-              "source_url": "https://www.ign.com/articles/filming-begins-on-the-lord-of-the-rings-the-hunt-for-gollum-with-first-look-video-showing-andy-serkis-back-in-character",
-              "source_name": "IGN",
-              "published_at": "2026-07-15T17:37:19+08:00"
-            },
-            {
-              "title": "乔治·卢卡斯因称拒绝AI如同拒绝汽车而引发粉丝不满",
-              "brief": "乔治·卢卡斯在采访中表示，人工智能代表进步，拒绝AI就像拒绝汽车而坚持马车一样，是徒劳的。他认为AI使电影制作更容易，尽管存在各种问题，但这是未来趋势。这一言论引发部分星战粉丝不满，但其他人并不意外。卢卡斯还曾计划在《星球大战》续集中杀死卢克·天行者，与最终电影中的情节相似。",
-              "source_url": "https://www.ign.com/articles/george-lucas-has-upset-some-fans-for-saying-rejecting-ai-is-like-rejecting-cars-in-favor-of-the-horse-and-buggy-but-others-arent-surprised-by-his-take-at-all",
-              "source_name": "IGN",
-              "published_at": "2026-07-15T16:50:52+08:00"
-            },
-            {
-              "title": "《极限竞速：地平线6》将推出新车及排行榜重置",
-              "brief": "Playground Games宣布《极限竞速：地平线6》第三赛季“意大利异国情调”将于6月16日至8月13日举行，期间可收集10辆新车，包括1984年De Tomaso Pantera GT5等。此外，地平线体育场附近的二手车经销商将限时提供六款稀有意大利车，这些车目前只能通过轮盘奖励获得。新更新还减少了AI碰撞、取消了非Autoshow车辆的拍卖行价格上限，并削弱了利用自动驾驶刷经验和积分的行为。",
-              "source_url": "https://www.ign.com/articles/new-free-cars-leaderboard-wipes-coming-to-forza-horizon-6",
-              "source_name": "IGN",
-              "published_at": "2026-07-15T16:02:47+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "特朗普政府禁止在刚果的美国公民回国",
+              "brief": "特朗普政府禁止身处刚果民主共和国的美国公民回国，该国近期爆发埃博拉疫情。被列入“禁止登机”名单的公民须在第三国停留21天后才能返美，24名原定周二登机回国的美国公民被新规阻止。目前尚不清楚禁令是否适用于政府工作人员，而美国疾控中心至少有24名员工在该国工作。专家批评此类限制无效且有害，会阻碍疫情信息公开、损害经济并造成污名化。埃博拉病毒通过接触体液传播，不易通过空气传播。截至7月14日，刚果民主共和国报告1963例病例和719例死亡。",
+              "source_url": "https://www.solidot.org/story?sid=84839",
+              "source_name": "Solidot",
+              "published_at": "2026-07-15T21:19:49+08:00"
+            },
             {
               "title": "第二次怀孕以新方式改变大脑",
               "brief": "发表在《自然·通讯》上的新研究显示，第二次怀孕会以与第一次怀孕熟悉而不同的方式改变大脑。早期的研究表明，第一次怀孕会重塑大脑，而新研究发现每次怀孕都会在母亲大脑上留下独特印记。研究小组对110名女性进行了长期跟踪，包括初产妇、二次产妇和未生育者，通过反复脑部扫描追踪大脑变化。结果发现，第一次怀孕使大脑默认模式网络的结构和活动发生最大变化，该网络涉及自我反思和社会思维；第二次怀孕时同样网络再次变化，但程度较轻，最明显的变化发生在负责注意力和感官信息处理的网络。",
@@ -360,13 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=84835",
               "source_name": "Solidot",
               "published_at": "2026-07-15T15:34:12+08:00"
-            },
-            {
-              "title": "宇航员首次在太空照X光",
-              "brief": "宇航员在太空中首次完成了诊断质量的X光照射，此前空间站仅可用超声波。X射线速度快精度高，能快速诊断骨折。Fram2私人太空任务携带便携式X光系统，宇航员拍摄了身体X光照片。难点在于定位和保持静止，手和手臂最容易成像。",
-              "source_url": "https://www.solidot.org/story?sid=84834",
-              "source_name": "Solidot",
-              "published_at": "2026-07-15T15:17:28+08:00"
             }
           ]
         },
@@ -407,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "东风汽车首发2400MPa超高强钢结构件，已应用于奕境汽车",
-              "brief": "东风汽车研发总院宣布行业首发2400MPa级超高强热成型钢，用于门环B柱等关键结构件，配合1500MPa吸能过渡区实现刚性与碰撞吸能分区优化。该材料通过优化合金成分和晶粒尺寸，在-50℃低温下仍保持良好韧性，并采用新型焊接技术解决冷热裂问题，接头抗剪切力提升18%。2025年6月，团队成功试制锌基镀层差强激光拼焊门环，兼具超高强度、耐腐蚀和抗氢脆特性，可适配热气胀/热冲压工艺，将率先用于猛士车型。",
-              "source_url": "https://www.ithome.com/0/977/222.htm",
+              "title": "DC独立超英电影《新蝙蝠侠2》首曝先导预告片，影片延至2028年2月18日上映",
+              "brief": "DC独立宇宙超英电影《新蝙蝠侠2》发布首支先导预告片，同时宣布上映日期从原定的2027年10月推迟至2028年2月18日。该片由马特·里夫斯执导，他与马特森·汤姆林共同完成剧本。演员阵容包括回归的罗伯特·帕丁森饰演蝙蝠侠，新加盟的斯嘉丽·约翰逊、塞巴斯蒂安·斯坦以及查尔斯·丹斯（饰演哈维·登特的父亲）。前作《新蝙蝠侠》2022年全球票房达7.72亿美元，为续集奠定基础。",
+              "source_url": "https://www.ithome.com/0/977/241.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T20:31:57+08:00"
+              "published_at": "2026-07-15T22:46:11+08:00"
             },
             {
-              "title": "比亚迪李柯：不靠美国市场，五年内也能超越丰田登顶全球销量第一",
-              "brief": "比亚迪国际业务负责人李柯接受《金融时报》采访时称，公司依靠内生增长，无需进入美国市场，五年内即可超越丰田成为全球销量第一。目前比亚迪年销量约450万辆，丰田为1050万辆，且丰田在美国市场利润丰厚。但由于美国对华电动汽车加征关税并限制中国软件，比亚迪乘用车无法在美销售。国内市场竞争加剧及补贴退坡导致上半年销量同比下滑16%，公司正加速开拓欧洲、东南亚等市场。李柯表示，比亚迪自研闪充技术和高端品牌腾势将助力攻克高端市场，计划至2027年在欧洲铺设3000个闪充桩。",
-              "source_url": "https://www.ithome.com/0/977/221.htm",
+              "title": "远景动力宜昌超级工厂正式投产运营，790安时全球最大方壳卷绕电芯量产下线",
+              "brief": "远景动力宜昌超级工厂正式投产，首批量产的790安时电芯是目前全球容量最大的方壳卷绕电芯。该电芯体积能量密度突破440瓦时每升，循环寿命超12000次，能量效率达96%。工程团队通过底层材料创新和全工序AI智能管控，解决了大电芯安全与一致性难题，并通过多项高风险测试获得权威认证。工厂二期规划60吉瓦时电芯与60吉瓦时储能系统产能，已于今年4月启动建设。",
+              "source_url": "https://www.ithome.com/0/977/240.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T20:28:33+08:00"
+              "published_at": "2026-07-15T22:43:04+08:00"
             },
             {
-              "title": "唯卓仕发布AF 26mm F2.8 EVO全画幅饼干镜头，索尼FE/尼康Z卡口，售价1399元",
-              "brief": "唯卓仕推出AF 26mm F2.8 EVO全画幅饼干镜头，提供索尼FE和尼康Z卡口版本，售价1399元。该镜头最近对焦距离0.2米，搭载磁吸镜头前盖，遮光罩预留43mm滤镜安装槽，卡口采用防尘防泼溅设计，适合日常街拍和视频创作。",
-              "source_url": "https://www.ithome.com/0/977/219.htm",
+              "title": "奕境X9官宣搭载HUAWEI XSCENE车载激光投影，支持业界唯一一机五投",
+              "brief": "奕境X9汽车官宣搭载HUAWEI XSCENE车载激光投影系统，配备华为自研折叠镜头，支持车内车外投影，可快速搭建露天影院，并实现业界唯一一机五投功能。此外，该车还搭载鸿蒙座舱AI多模态感知系统AMS，融合高清/红外双摄像头、星闪传感器与AI感知算法，支持孩童安抚、主动防夹、遗留提醒等功能。此前鸿蒙智行问界M9已首创一镜双投观影系统。",
+              "source_url": "https://www.ithome.com/0/977/239.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T20:14:16+08:00"
+              "published_at": "2026-07-15T22:36:22+08:00"
             },
             {
-              "title": "OPPO回应获端侧AI服务备案：将实现更个性化主动智能体验",
-              "brief": "OPPO在获得端侧AI服务备案后回应称，将继续依托安第斯大模型（AndesGPT）推进大模型与智能终端融合，实现更个性化的主动智能体验。AndesGPT基于混合云架构，具备对话增强、个性专属和端云协同能力，拥有知识、记忆、工具与创作四大核心能力。该模型已应用于OPPO AI和小布助手。",
-              "source_url": "https://www.ithome.com/0/977/218.htm",
+              "title": "苹果提高Mac、iPad等产品Apple Care+价格",
+              "brief": "苹果上调了Mac和iPad系列产品的Apple Care+服务价格，涨幅在100至150元之间。其中Mac mini从649元涨至799元，MacBook Pro 16英寸从3299元涨至3449元，Mac Pro价格维持3999元不变。iPad方面，iPad/mini从549元涨至649元，13英寸iPad Pro（M5）从1449元涨至1549元。此次调价旨在应对内存短缺等成本压力。",
+              "source_url": "https://www.ithome.com/0/977/238.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T20:09:09+08:00"
+              "published_at": "2026-07-15T22:21:53+08:00"
             },
             {
-              "title": "消息称面壁智能MiniCPM端侧模型将搭载于三星旗舰手机",
-              "brief": "据《智能涌现》报道，端侧大模型公司面壁智能与三星手机达成合作，其MiniCPM系列端侧模型将预装于数款三星旗舰机型。面壁智能成立于2022年，孵化自清华大学自然语言处理实验室，2026年上半年累计融资超50亿元，估值超200亿元，为国内端侧AI估值最高独角兽。此前，阿里巴巴千问模型也已集成至Apple智能，覆盖国行苹果设备。",
-              "source_url": "https://www.ithome.com/0/977/217.htm",
+              "title": "三星钱包数字车钥匙适配上汽大众ID. ERA 9X车型，支持无感解闭锁",
+              "brief": "三星钱包数字车钥匙功能新增支持上汽大众ID. ERA 9X车型。用户在上汽大众App绑定车辆信息后，可在三星钱包中添加数字车钥匙，并开启无感解锁功能。携带已开通蓝牙车钥匙的手机靠近车辆，无需打开车企App即可自动解闭锁。此前三星钱包已适配蔚来、理想、宝马等品牌，其他手机厂商如vivo、OPPO也已完成类似合作。",
+              "source_url": "https://www.ithome.com/0/977/237.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T20:04:21+08:00"
+              "published_at": "2026-07-15T22:18:16+08:00"
             }
           ]
         },
@@ -447,45 +447,66 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "FreeBSD笔记本支持持续改进，Wi-Fi、GPU与音频驱动取得显著进展",
-              "brief": "FreeBSD项目在笔记本支持方面取得多项进展。核心目标之一是启用S0ix睡眠状态等现代电源管理功能，相关代码编写持续推进。开发团队还致力于增强内核调度程序以更好支持混合处理器架构，并设定目标确保笔记本活跃使用时间至少8小时。图形方面，正在移植Linux 6.13版本的DRM驱动，Linux 6.14移植也已展开，计划过渡至Linux 6.18 LTS基础版本。无线网络方面已有三款支持Wi-Fi 6的驱动，对应英特尔、瑞昱和联发科网卡。此外，音频驱动持续完善，6月还启动了利用GPIO中断降低触控板延迟的工作。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569038.htm",
+              "title": "AI硬件投资热潮重创IBM，昨日该股暴跌25%创历史纪录",
+              "brief": "IBM因AI基础设施投资对传统软件支出产生挤出效应，业绩不及预期，股价暴跌25%创历史纪录。CEO承认失误，指出客户将资本支出转向服务器等硬件，导致软件收入下滑。受此影响，微软等软件股盘前下跌。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569054.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-15T20:48:35+08:00"
+              "published_at": "2026-07-15T21:12:13+08:00"
             },
             {
-              "title": "Linus Torvalds重申：Linux并非“反AI”项目，也不做“社会斗士”",
-              "brief": "Linus Torvalds在内核邮件列表中回复关于AI的讨论时明确表示，Linux不是反AI的项目，如果有人不满可以分叉或退出。他认为AI像其他工具一样有用，尽管可能给维护者带来麻烦，但解决问题而非逃避才是正道。Torvalds强调不会强迫任何人使用AI，但会无视试图阻止他人使用AI的人。他重申Linux内核项目的核心宗旨是技术，社交属性只是附带好处，Linux从来不是也永远不会成为“社会斗士”项目，所有决策将基于技术价值。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569036.htm",
+              "title": "巴菲特：比尔·盖茨与爱泼斯坦往来令人反感，但人孰能无过",
+              "brief": "巴菲特在采访中表示，对比尔·盖茨与爱泼斯坦的交往感到反感，但认为每个人都会犯错。他透露，在调整慈善捐赠方案前已全面梳理相关信息，并计划将慈善资产交由子女管理。巴菲特与盖茨仍保持联系。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569052.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-15T20:44:26+08:00"
+              "published_at": "2026-07-15T21:11:31+08:00"
             },
             {
-              "title": "亚马逊Leo卫星网络携手南非最大ISP挺进非洲，领先SpaceX星链",
-              "brief": "亚马逊旗下近地轨道卫星网络Project Kuiper（Leo）与南非最大ISP合作，将为南非偏远地区提供互联网服务，这是其在非洲的首个合作协议。南非互联网普及率仅78.4%，传统基础设施建设困难。用户通过紧凑型天线即可连接位于590公里轨道的卫星，网速可支持视频通话、流媒体等。目前SpaceX星链尚未在南非开放，亚马逊Leo的入局有望推动市场竞争，降低服务价格。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569034.htm",
+              "title": "热浪席卷欧洲，民众轻信社交媒体“冰箱降温法”导致大量手机受潮损坏",
+              "brief": "欧洲热浪期间，民众误信社交媒体上将手机放入冰箱降温的方法，导致大量设备因内部冷凝受潮损坏。维修店称此类故障激增，甚至有iPad爆炸。厂商建议正确做法是停止使用并置于阴凉处自然冷却。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569050.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-15T20:30:40+08:00"
+              "published_at": "2026-07-15T21:08:07+08:00"
             },
             {
-              "title": "苹果Apple Intelligence在华已通过监管备案，发布在即",
-              "brief": "苹果Apple Intelligence在中国已通过监管备案，这意味着其即将面向中国用户推出。由于中国对生成式AI有严格审批要求，苹果需与本土企业合作。此前苹果合作伙伴阿里巴巴已确认其通义千问模型将集成至Apple Intelligence，同时百度也将提供技术支持。苹果需借助已获审批的企业推进业务，但本土AI的引入也引发内容审查讨论。2026年3月Apple Intelligence曾在中国短暂激活，目前看来技术障碍已克服，等待正式发布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569032.htm",
+              "title": "美国财政部首次制裁VPN服务提供商及其管理人员，重拳打击勒索软件",
+              "brief": "美国财政部对VPN服务First VPN及其管理人员实施制裁，因其被勒索软件组织用于隐藏攻击来源。该VPN自2014年起服务网络犯罪，不保留日志。制裁冻结其美国资产，禁止美国实体与其交易，此前欧洲执法部门已捣毁其运营网络。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569048.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-15T20:28:08+08:00"
+              "published_at": "2026-07-15T20:54:03+08:00"
             },
             {
-              "title": "《功夫女足》上映一周后更换优化版片源，引发首周观众不满",
-              "brief": "周星驰执导的《功夫女足》于7月11日极限定档上映，前期宣发不足，预告片被指粗糙。7月14日片方宣布更换优化版片源，被视作对首周版本细节不足的补救。已购票观众不满首批观影体验较差而未获补偿，片方尚未回应。影片豆瓣开分6.6分，口碑两极，负面评价集中于节奏乱、特效差、风格过时。新版片源将于7月17日上线。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1569030.htm",
+              "title": "微软修复潜伏十余年的安全启动绕过漏洞，旧组件成最大隐患",
+              "brief": "微软修复了可绕过UEFI安全启动的漏洞，涉及11个旧版shim引导加载程序（部分可追溯到2013年），这些组件仍被系统信任。攻击者无需复杂漏洞即可利用它们加载恶意固件，难以清除。专家批评安全启动模型支离破碎，需彻底重启。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569046.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-15T18:29:24+08:00"
+              "published_at": "2026-07-15T20:53:08+08:00"
             }
           ]
         },
         {
           "name": "36氪",
           "articles": [
+            {
+              "title": "斯凯奇终身代言人哈里·凯恩率英格兰半决赛迎战阿根廷",
+              "brief": "斯凯奇终身代言人哈里·凯恩作为英格兰队队长，将带队在半决赛中迎战阿根廷队。这场比赛备受关注，凯恩作为斯凯奇的长期代言人，其表现将直接影响品牌曝光。",
+              "source_url": "https://36kr.com/newsflashes/3896906902882178?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-15 20:58:41  +0800"
+            },
+            {
+              "title": "热门中概股美股盘前普涨，阿里巴巴涨超4%",
+              "brief": "7月15日美股盘前，热门中概股普遍上涨，其中名创优品涨超7%，阿里巴巴涨超4%，京东涨超2%，百度、哔哩哔哩涨超1%。市场情绪回暖，投资者对中概股信心增强。",
+              "source_url": "https://36kr.com/newsflashes/3896904821704328?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-15 20:56:34  +0800"
+            },
+            {
+              "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+              "brief": "7月15日美股盘前，大型科技股多数上涨，英特尔涨超2%，SpaceX涨超1%，微软、苹果等涨幅在0.5%至0.9%之间，而谷歌和英伟达小幅下跌。科技股整体表现积极，但分化明显。",
+              "source_url": "https://36kr.com/newsflashes/3896903325419142?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-15 20:55:03  +0800"
+            },
             {
               "title": "巴菲特称将捐出1400亿美元股票",
               "brief": "沃伦·巴菲特宣布，将捐出其持有的全部伯克希尔·哈撒韦股票，价值约1400亿美元。这是巴菲特迄今为止最大规模的捐赠承诺，资金将分配给比尔及梅琳达·盖茨基金会等五家慈善机构。此举延续了他长期以来的慈善计划，旨在将大部分财富回馈社会。",
@@ -499,27 +520,6 @@
               "source_url": "https://36kr.com/newsflashes/3896886853060480?f=rss",
               "source_name": "36氪",
               "published_at": "2026-07-15 20:38:17  +0800"
-            },
-            {
-              "title": "美国6月PPI同比上升5.5%",
-              "brief": "美国劳工部公布数据显示，6月生产者价格指数（PPI）同比上升5.5%，较前值6.5%有所回落。PPI是衡量通胀的重要指标，其增幅放缓可能表明通胀压力正在减轻，为美联储调整货币政策提供空间。",
-              "source_url": "https://36kr.com/newsflashes/3896881333601928?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-15 20:32:41  +0800"
-            },
-            {
-              "title": "银行理财“信披明牌”不止指数基准，有机构尝试展现理财产品最大回撤",
-              "brief": "多家理财公司正将理财产品业绩比较基准切换为“动态指数型”，并探索更透明的信息披露方式。某头部股份行理财公司产品部人士表示，公司正全面梳理产品信息，确保业绩比较基准与产品定位相符。同时，有银行尝试将理财产品收益展示分层化，包括近1个月至12个月的年化收益率以及最大回撤，以帮助投资者更好理解产品风险。",
-              "source_url": "https://36kr.com/newsflashes/3896880615884417?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-15 20:31:57  +0800"
-            },
-            {
-              "title": "NetApp与甲骨文合作推出全托管云存储服务",
-              "brief": "智能数据基础设施公司NetApp与甲骨文联合推出一项全新的全托管云存储服务，将企业级NetApp存储原生集成至甲骨文云基础设施。该服务目前面向部分客户开放预览，旨在帮助企业简化关键AI和企业工作负载在云端的迁移与管理，提升运营效率。",
-              "source_url": "https://36kr.com/newsflashes/3896875735205513?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-15 20:26:59  +0800"
             }
           ]
         },
