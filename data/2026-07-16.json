@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T20:50:48.948281+08:00",
+  "generated_at": "2026-07-16T22:51:00.855397+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "错过涨价前优惠？亚马逊新款MacBook Pro最高仍可省500美元",
+              "brief": "亚马逊2026款MacBook Pro的价格已随苹果涨价上调，但本月仍有多款机型在促销，最高可享500美元折扣。14英寸M5 Pro（24GB/1TB）售价2349美元（省150美元），24GB/2TB版售价2997.50美元（省201美元）。16英寸机型中，M5 Pro（24GB/1TB）售价2818.34美元（省180美元），M5 Max（48GB/2TB）售价4499美元（省500美元）。",
+              "source_url": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T19:48:55+08:00"
+            },
+            {
+              "title": "新款iPad mini预计十月前发布，配备OLED屏幕等四项升级",
+              "brief": "据彭博社Mark Gurman报道，苹果计划今年十月前发布搭载OLED显示屏的新款iPad mini。这将是iPad mini首次采用OLED技术，带来更丰富的色彩和更高对比度，但可能因成本提高导致售价上涨。此外，新机型预计将配备振动式扬声器系统、提升防水性能，并搭载A19 Pro或A20芯片，相比当前A17 Pro芯片有所升级。",
+              "source_url": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T19:48:55+08:00"
+            },
             {
               "title": "苹果据称增加可折叠iPhone的均热板订单",
               "brief": "据中国爆料者称，苹果已增加用于可折叠iPhone和20周年纪念iPhone的均热板冷却组件订单。这些组件将首先用于预计9月发布的“iPhone Ultra”折叠机，2026年产量目标约1000万部，高于此前预测的700-800万部。爆料者称苹果在散热工程上“全力以赴”，因为折叠设计内部空间有限，散热挑战更大。苹果去年在iPhone 17 Pro上首次引入均热板冷却，而20周年机型预计采用四曲面玻璃边框设计，也可能需要更先进的冷却系统。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
               "source_name": "MacRumors",
               "published_at": "2026-07-16T15:59:21+08:00"
-            },
-            {
-              "title": "谷歌与Epic放弃和解，为第三方Android应用商店扫清障碍",
-              "brief": "谷歌和Epic Games本周撤回了联合和解协议，因为法院不太可能批准。随着和解失效，谷歌受2024年10月发布的永久禁令约束，必须允许在Android设备上使用替代应用商店。谷歌在法庭文件中表示，计划于7月22日开始支持第三方应用商店。谷歌称撤回动议是为了避免长期法律纠纷，并专注于执行全球业务模式演变，以提供更多应用商店选择、更低价格和更多机会。Epic Games同时起诉谷歌和苹果，但结果不同：苹果案基本胜诉，而谷歌案中陪审团认定谷歌滥用垄断权力。谷歌曾上诉，但现需遵守禁令。美国第三方应用商店将于下周在Android上可用。",
-              "source_url": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-16T08:02:48+08:00"
-            },
-            {
-              "title": "CrashStealer恶意软件伪装苹果工具窃取Mac密码和加密货币",
-              "brief": "据Jamf威胁实验室报告，Mac用户需警惕名为CrashStealer的macOS恶意软件。该软件伪装成苹果的崩溃报告框架，旨在窃取各种敏感信息，包括浏览器数据、密码管理器数据、加密货币钱包扩展和钥匙串数据。Jamf最初发现它藏在一个名为Werkbit的伪造苹果公证应用中。由于通过了公证，Gatekeeper无法阻止它。该恶意软件针对超过80个加密货币钱包扩展和14个密码管理器，如1Password、LastPass和Dashlane。它通过伪造的CrashReporter.app请求完全磁盘访问权限，并利用原生密码提示窃取登录钥匙串。数据经AES-256-GCM加密后发送至攻击者IP。苹果已吊销Werkbit的签名凭证，但恶意软件可能再次出现。",
-              "source_url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-16T07:14:33+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "报告：苹果计划十月推出OLED iPad mini，开启下一波iPad更新",
+              "brief": "据彭博社报道，苹果计划最早于今年秋季发布配备OLED显示屏的iPad mini，代号J510，预计十月上市。这款产品被描述为“五年来iPad mini最大革新”。OLED面板可能推高售价，当前起价已从499美元涨至599美元。此外，入门级iPad（代号J581）预计明年第一季度发布，主要升级处理器；新款iPad Air（11英寸和13英寸）及iPad Pro计划明年春季推出。苹果还可能在明年更新Apple Pencil，推出可更换电池的型号。",
+              "source_url": "https://9to5mac.com/2026/07/16/report-apple-targets-october-launch-for-oled-ipad-mini-kicking-off-next-wave-of-ipad-updates/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T22:02:28+08:00"
+            },
+            {
+              "title": "WhatsApp为iPhone增加通话中的语音隔离和宽谱控制",
+              "brief": "据WABetaInfo报道，WhatsApp现在允许iPhone用户在通话界面直接切换麦克风模式，无需打开控制中心。用户可在通话屏幕点击“更多”按钮，选择自动、标准、语音隔离或宽谱模式。设置会持续到下次更改。语音隔离和宽谱模式需iOS 15及以上，自动模式需iOS 18。该功能正在逐步推送。",
+              "source_url": "https://9to5mac.com/2026/07/16/whatsapp-adds-in-call-controls-for-voice-isolation-and-wide-spectrum-on-iphone/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T21:26:05+08:00"
+            },
+            {
+              "title": "Meta AI现在可以在青少年讨论自残时提醒家长",
+              "brief": "Meta推出新功能，当青少年与Meta AI的对话暗示有自残或自杀风险时，系统会主动向已设置家庭监督的家长发送警报，并提供专家资源。所有标记的对话会经过人工审核后再发送警报，以避免误报。该功能目前在美国、加拿大、英国和澳大利亚可用。Meta还计划未来将紧急服务联系功能扩展到Meta AI。",
+              "source_url": "https://9to5mac.com/2026/07/16/meta-ai-can-now-alert-parents-when-their-teens-discuss-self-harm/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T21:19:23+08:00"
+            },
+            {
+              "title": "1Password现已允许Claude登录网站而不泄露密码",
+              "brief": "1Password推出Claude集成功能，允许AI助手Claude在用户授权下登录网站，但密码和验证码等凭证通过安全通道直接注入页面，不会进入Claude的上下文或Anthropic系统。每次请求需用户生物识别批准，权限仅限当前会话。同时引入“代理模式”，当AI控制浏览器时自动锁定保管库，仅允许已批准的凭证可用。该功能适用于Mac用户，需1Password桌面应用和浏览器扩展，以及Claude桌面应用和扩展。",
+              "source_url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T21:00:00+08:00"
+            },
+            {
               "title": "Signal Ring 提供血压读数，而不仅仅是像 Apple Watch 那样的警报",
               "brief": "智能戒指 Signal Ring 声称无需校准即可提供完整的血压读数，其准确性已通过数千人的试验验证。高血压被称为“沉默的杀手”，可导致严重健康风险而无明显症状。Apple Watch 在 watchOS 26 中引入了血压监测功能，但仅能在检测到潜在高血压时发送警报，不提供具体读数。Oura Ring 也类似。而 Signal Ring 由初创公司 Vital Signals 开发，专注于提供收缩压和舒张压的实际读数，与传统臂带式血压计一样准确。",
               "source_url": "https://9to5mac.com/2026/07/16/signal-ring-gives-blood-pressure-readings-not-just-alerts-like-apple-watch/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-16T20:21:50+08:00"
-            },
-            {
-              "title": "Windows 游戏在 Mac 上表现比以往更好，无论是官方还是非官方方式",
-              "brief": "最新测试显示，Windows 游戏在 Mac 上的运行表现比以往任何时候都好。Apple 的 Game Porting Toolkit 旨在帮助开发者将 Windows 游戏移植到 Mac，但也被玩家用于非官方运行 Windows 软件。Macworld 的 Filipe Esposito 测试了 GPTK 4 beta 版，发现性能显著提升：在 M4 Pro MacBook Pro 上，《侠盗猎车手 V》的帧率从 GPTK 3 的约 106 fps 跃升至约 176 fps，提升约 66%。尽管并非所有游戏都有如此巨大的提升，但他希望这能鼓励游戏工作室将 Mac 视为可行的游戏平台。",
-              "source_url": "https://9to5mac.com/2026/07/16/windows-games-run-better-than-ever-on-macs-officially-or-unofficially/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T19:31:31+08:00"
-            },
-            {
-              "title": "台积电称可能总共建造 12 座亚利桑那芯片工厂，但需持怀疑态度",
-              "brief": "台积电宣布额外投资 1000 亿美元在美国建设芯片工厂，计划使亚利桑那州的工厂总数达到 12 座。然而，由于台积电将最先进工艺保留在台湾，美国工厂只能生产约三代前的芯片。此外，早期计划中，美国制造的芯片需运回台湾进行封装，这引发了对工厂实际效用的质疑。尽管台积电后来表示将在美国建立封装设施，但分析师仍对 12 座工厂的可行性表示怀疑。",
-              "source_url": "https://9to5mac.com/2026/07/16/tsmc-says-it-may-build-12-arizona-chip-plants-in-total-but-be-skeptical/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T19:03:15+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026 年 7 月 16 日——OpenAI 回应苹果，更多消息",
-              "brief": "本期 9to5Mac Daily 讨论了多个话题：苹果考虑收购 AI 芯片初创公司以加强基础设施；OpenAI 称未发现支持苹果商业秘密盗窃指控的证据；OpenAI 的首款设备将是带摄像头和其他传感器的便携式扬声器；苹果为 iPad 购买新增 36 个月分期选项；苹果关闭了购买无锁 iPhone 的流行变通方法。节目还包含赞助商信息和订阅选项。",
-              "source_url": "https://9to5mac.com/2026/07/16/daily-july-16-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T19:00:00+08:00"
-            },
-            {
-              "title": "安全咬一口播客：苹果在监控你的每次点击",
-              "brief": "在最新一期安全咬一口播客中，Mysk 团队再次做客，深入探讨了 App Store 如何记录用户的每一次点击，以及为何研究人员纷纷公开退出苹果的漏洞赏金计划。同时，Mysk 还介绍了其新推出的免费开源应用 Loupe，该应用能够清晰展示 iOS 的 API 正在共享哪些用户信息。",
-              "source_url": "https://9to5mac.com/2026/07/16/security-bite-podcast-apple-is-watching-your-taps/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T17:30:00+08:00"
             }
           ]
         },
@@ -89,45 +89,59 @@
           "name": "9to5Google",
           "articles": [
             {
-              "title": "三星Galaxy Z Flip 8完整泄露：几乎无变化，仍无骁龙芯片",
-              "brief": "WinFuture发布了三星Galaxy Z Flip 8的官方渲染图和完整规格。该机型外观与Z Flip 7相同，搭载Exynos 2600芯片而非期待的骁龙，升级仅包括45W有线充电和减重至180克，但厚度略微增加。",
-              "source_url": "https://9to5google.com/2026/07/16/samsung-galaxy-z-flip-8-specs-leak/",
+              "title": "Realme确认将关闭中国业务，专注全球市场",
+              "brief": "Realme中国区负责人沈琦在微博上宣布，Realme将在中国市场“按下暂停键”，集中资源拓展海外市场，专注于性能与游戏领域。已购Realme设备的中国用户可继续享受由OPPO官方团队提供的销售和售后支持，未来系统更新将切换至ColorOS。Realme UI将被ColorOS取代，与一加的计划一致。此前有报道称，OPPO正将Realme聚焦于欧洲北欧地区。",
+              "source_url": "https://9to5google.com/2026/07/16/realme-confirms-it-will-shut-down-in-china-to-focus-on-global-markets/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-16T20:00:00+08:00"
+              "published_at": "2026-07-16T22:35:00+08:00"
             },
             {
-              "title": "Gemini万物理论",
-              "brief": "谷歌为即将推出的Pixel 11系列发布预告网站，展示了此前泄露的Pixel Glow功能。该功能是一种多彩闪光灯，可充当指示器，主要用于Gemini语音交互时发光，也可用于通知和音乐同步。",
-              "source_url": "https://9to5google.com/2026/07/16/inbox-newsletter-2/",
+              "title": "全球智能手机出货量创2013年以来新低，Google Pixel逆势增长",
+              "brief": "Counterpoint Research数据显示，2026年第二季度全球智能手机市场同比萎缩11%，出货量降至2013年以来最低水平。内存危机持续导致价格波动、机型搁置。Google Pixel全球出货量同比增长16%，得益于Pixel 10和10a在成熟市场的表现。三星在前五大品牌中增长最强，苹果增长3%，小米、OPPO、vivo均下滑超过10%，华为增长6%。报告警告，内存危机短期内不会结束，出货量将继续下降。",
+              "source_url": "https://9to5google.com/2026/07/16/google-pixel-growth-q2-2026-global-smartphone-market/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-16T20:00:00+08:00"
+              "published_at": "2026-07-16T22:25:00+08:00"
             },
             {
-              "title": "沃尔玛补货Onn 4K Pro谷歌电视盒子，但仅限门店",
-              "brief": "沃尔玛的Onn 4K Pro谷歌电视盒子此前一直缺货，偶尔的线上和线下补货也迅速售罄。近日沃尔玛进行了大规模补货，但仅限于门店销售，不支持网站配送。多个测试地点的用户发现该盒子可在门店自提或本地配送，Reddit用户也在密歇根、佐治亚等地报告了库存。佛罗里达部分门店有货，而北卡罗来纳、纽约和加州的门店仍在等待补货或已售罄。用户可通过沃尔玛网站查询附近门店库存，或直接到店碰运气。这是自5月以来最大规模的补货。",
-              "source_url": "https://9to5google.com/2026/07/15/walmart-onn-4k-pro-google-tv-box-restock-stores/",
+              "title": "欧盟要求谷歌开放Android访问权限和搜索数据，谷歌警告隐私风险",
+              "brief": "欧盟根据《数字市场法案》作出两项决定，要求谷歌作为“守门人”在2027年1月前与其他搜索引擎及AI聊天机器人（如OpenAI、微软）共享搜索数据，同时开放Android系统权限，使第三方AI助手（如ChatGPT、Claude）获得与Gemini同等的系统级访问能力。谷歌表示反对，认为此举会削弱数百万欧洲用户的隐私和安全保障，因为外部应用将获得敏感权限，且用户的私人搜索数据可能被未经充分匿名的公司获取。",
+              "source_url": "https://9to5google.com/2026/07/16/eu-dma-google-search-data-android-access-decisions/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-16T11:40:00+08:00"
+              "published_at": "2026-07-16T22:10:00+08:00"
             },
             {
-              "title": "谷歌将于下周开放安卓第三方应用商店",
-              "brief": "谷歌放弃修改法院禁令，将从2026年7月22日起允许第三方安卓应用商店在Play Store中上架谷歌应用和游戏。此举源于Epic Games诉讼，法院要求谷歌提供更多应用商店选择。第三方商店可展示Play Store应用的名称、图标、描述及截图视频，下载仍通过Play Store完成并适用其服务费。开发者可选择退出该分发方式。",
-              "source_url": "https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
+              "title": "一加宣布所有设备将随Android 17更新切换至ColorOS",
+              "brief": "作为全球业务调整的一部分，一加确认其Android定制系统OxygenOS将被OPPO的ColorOS取代。所有仍在支持范围内的一加设备在升级至Android 17时，用户可选择自愿更新至ColorOS。一加表示此举可简化软件开发、加速更新交付并提升质量。旧机型将获得OxygenOS维护支持，用户也可回滚至旧版。此前一加设备在中国已运行ColorOS，OxygenOS近年来已逐渐趋同于ColorOS。",
+              "source_url": "https://9to5google.com/2026/07/16/oneplus-software-updates-android-17-coloros/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-16T07:15:00+08:00"
+              "published_at": "2026-07-16T21:45:00+08:00"
             },
             {
-              "title": "Android 17 QPR1 Beta 7 面向 Pixel 设备推出",
-              "brief": "谷歌发布了 Android 17 QPR1 Beta 7 更新，修复了快速设置中电池共享无法启动或反复显示充电动画、关闭 Wi-Fi 后电池与移动数据图标之间出现空白间隙、以及快速设置字体大小控制器崩溃等问题。该版本支持 Pixel 6a 至 Pixel 10a 等设备，可通过 Android Beta 计划获取 OTA 更新。",
-              "source_url": "https://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+              "title": "一加正式关闭美国和欧洲业务，印度市场暂不退出",
+              "brief": "一加在社区论坛宣布，将停止在欧洲和北美推出新产品，即关闭这些地区的业务。现有产品如OnePlus 15仍可购买，售完即止。欧洲市场将由OPPO取代，而美国无替代品牌。软件支持不会终止，但设备将从Android 17起从OxygenOS切换至ColorOS，保修和维修服务继续。一加强调印度仍是其最重要市场之一，但有可靠报道称印度业务预计明年初也会关闭。",
+              "source_url": "https://9to5google.com/2026/07/16/oneplus-us-europe-shut-down-official/",
               "source_name": "9to5Google",
-              "published_at": "2026-07-16T05:29:42+08:00"
+              "published_at": "2026-07-16T21:15:00+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "T-Mobile强制迁移导致免费线路消失，账单飙升",
+              "brief": "T-Mobile强制用户迁移至Experience套餐，导致部分用户长期持有的免费线路促销优惠失效，账单意外上涨。有用户反映，原本约50美元的月账单在迁移后飙升至300美元以上，因为每条线路均按全价收费。另一些用户报告称，免费线路在迁移后被认定为“不符合资格”。尽管T-Mobile此前承诺现有优惠（包括免费线路）会保留，但实际迁移中促销积分消失，用户仅获得一年补偿积分，且无法永久恢复优惠。",
+              "source_url": "https://www.androidauthority.com/t-mobile-wiping-out-free-lines-3688216/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-16T21:33:31+08:00"
+            },
+            {
+              "title": "欧盟要求谷歌开放Android，让竞争对手AI助手获得完整功能",
+              "brief": "欧盟委员会依据《数字市场法案》要求谷歌向第三方AI助手开放Android系统，并共享匿名化的谷歌搜索查询数据。欧盟希望用户能通过语音唤醒词（类似“Hey Google”）激活任意AI助手，并允许第三方AI助手代表用户执行应用内操作。谷歌强烈反对，警告称授予外部应用深度系统级权限会绕过硬件安全防护，可能导致安全灾难。此举旨在打破谷歌在移动AI和搜索领域的垄断，促进公平竞争。",
+              "source_url": "https://www.androidauthority.com/eu-android-ai-google-search-mandates-3688186/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-16T21:04:37+08:00"
+            },
             {
               "title": "你的Tile追踪器迎来迪士尼主题焕新",
               "brief": "Life360与迪士尼合作推出限量版米奇和米妮主题Tile及Tile Slim追踪器，售价与普通版相同，即日起在Life360官网和亚马逊发售。此前Life360曾推出Hello Kitty主题追踪器。这些追踪器功能不变，包括三年电池寿命和350英尺范围。亚马逊已上架包含Tile和Tile Slim的套装，售价49.99美元，单买白色米奇版Tile需24.99美元。",
@@ -148,20 +162,6 @@
               "source_url": "https://www.androidauthority.com/eu-exempts-wearables-from-battery-rules-3688167/",
               "source_name": "Android Authority",
               "published_at": "2026-07-16T19:08:16+08:00"
-            },
-            {
-              "title": "作为折叠屏爱好者，我对更宽的Galaxy Z Fold 8感到担忧",
-              "brief": "三星即将在7月22日的Galaxy Unpacked活动上发布新一代折叠屏手机。据泄露信息，三星计划将Galaxy Z Fold 7的继任者更名为Galaxy Z Fold 8 Ultra，同时推出一款标准版Galaxy Z Fold 8，旨在直接与苹果传闻中的折叠iPhone竞争。然而，作者认为这一策略可能重蹈Galaxy S25 Edge的覆辙——后者为抢占先机而提前推出，但市场表现不佳。作者担心更宽的设计会牺牲用户体验，并质疑三星是否在重蹈覆辙。",
-              "source_url": "https://www.androidauthority.com/im-worried-wide-galaxy-z-fold-8-huge-mistake-3686949/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-16T18:30:11+08:00"
-            },
-            {
-              "title": "YouTube Music正在测试全屏专辑封面，但用户尚无法使用",
-              "brief": "YouTube Music正在测试全屏专辑封面功能，旨在改进当前播放界面的视觉效果。目前该功能处于有限测试阶段，未在测试设备上出现。全屏封面在Apple Music等应用中已成为标配，而YouTube Music的缩略图设计显得过时。尽管测试可能不会最终落地，但用户希望Google能正式推出这一改进。",
-              "source_url": "https://www.androidauthority.com/youtube-music-full-screen-album-art-3688121/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-16T18:26:22+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "现代汽车据报有意完全控股机器人巨头波士顿动力",
-              "brief": "据彭博社报道，现代汽车准备收购软银持有的波士顿动力剩余股份。现代汽车于2020年已收购该公司80%股份，软银持有20%股份。现代正审查合同权利义务，拟以约3.25亿美元收购软银剩余9.9%股份，交易完成后将完全控股波士顿动力。彭博社指出，随着企业转向物理AI产品开发，此次收购可能为现代带来巨大收益。现代计划构建端到端AI机器人产业链，重点围绕波士顿动力的Atlas人形机器人。现代已与英伟达和谷歌DeepMind合作，预计2028年在佐治亚州工厂开始生产Atlas，最终年产量可达3万台。初期Atlas将承担物流、焊接等简单任务，未来将用于更复杂制造场景。",
-              "source_url": "https://www.engadget.com/2216427/hyundai-reportedly-looking-to-buy-all-of-boston-dynamics-from-softbank/",
+              "title": "智能音箱可能让OpenAI亏损更多",
+              "brief": "OpenAI计划推出首款自研智能音箱，但市场研究机构IDC数据显示，智能音箱市场自2023年起持续萎缩，2026年预计再降9.6%。前OpenAI高管曾警告公司因分散注意力的副项目而面临风险，在亏损背景下进入下滑市场可能加剧财务困境。",
+              "source_url": "https://www.engadget.com/2216556/smart-speakers-could-help-openai-lose-even-more-money/",
               "source_name": "Engadget",
-              "published_at": "2026-07-16T19:49:17+08:00"
+              "published_at": "2026-07-16T22:40:38+08:00"
             },
             {
-              "title": "Meta将向家长提醒子女讨论自残话题",
-              "brief": "Meta为加强青少年保护，推出新安全功能：当青少年在聊天中提及自杀或自残时，Meta AI除了引导其联系危机热线，还将主动通知其监护人，并提供资源和建议。Meta建立了专用AI系统识别此类对话，所有标记内容需经人工审核后才能发送警报，但若意图模糊也会谨慎通知。该功能目前在美国、英国、澳大利亚和加拿大的Instagram家长监管中上线，年底前全球可用。此外，Meta正开发联系紧急服务的能力，当用户（无论年龄）与Meta AI的对话显示其有即时自残风险时，可联系紧急服务。",
-              "source_url": "https://www.engadget.com/2216412/meta-ai-alert-parents-if-teens-discuss-self-harm/",
+              "title": "英国通信监管机构Ofcom调查TikTok儿童安全措施",
+              "brief": "Ofcom启动调查，评估TikTok是否违反《在线安全法案》第12条关于保护儿童免受有害内容侵害的要求。Ofcom报告质疑TikTok年龄推断方法的有效性，该方法通过用户互动行为猜测年龄而非要求正式文件。TikTok称已实施多重检查并移除数千未成年账户。",
+              "source_url": "https://www.engadget.com/2216550/ofcom-uk-communications-regulator-investigating-tiktok-child-safety-measures/",
               "source_name": "Engadget",
-              "published_at": "2026-07-16T19:00:00+08:00"
+              "published_at": "2026-07-16T22:35:08+08:00"
             },
             {
-              "title": "监督委员会称主流AI模型可能限制言论自由",
-              "brief": "Meta创建的独立内容审核机构监督委员会发布报告，指出主流AI模型可能限制用户自由表达。该委员会正试图将其影响力从Meta扩展至其他公司。研究测试了OpenAI、Meta、Google等10个模型对政治批评类提示的响应，发现模型更倾向于支持言论自由法律宽松的政府，并建议用户不要抗议言论限制严格的政府，差异具有统计显著性。模型常引用当地法律作为拒绝理由，但提示实际在澳大利亚发出，当地并无此类法律。委员会联合主席表示这看起来像是跨境的代理审查。",
-              "source_url": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+              "title": "无线Android Auto为何同时使用蓝牙和Wi-Fi？",
+              "brief": "无线Android Auto依赖蓝牙和Wi-Fi双连接：蓝牙负责初始握手和免提通话，但数据传输速率仅2-3 Mbps；Wi-Fi提供高带宽以支持高清地图和音频流。两者协同工作，缺一不可。",
+              "source_url": "https://www.engadget.com/2210415/why-wireless-android-auto-uses-both-bluetooth-wifi/",
               "source_name": "Engadget",
-              "published_at": "2026-07-16T18:00:00+08:00"
+              "published_at": "2026-07-16T21:30:00+08:00"
             },
             {
-              "title": "Netflix推出《怪奇物语》第一季VHS画质版本",
-              "brief": "Netflix发布了《怪奇物语》第一季的VHS特别版，旨在营造怀旧体验。该版本采用4:3画幅比，画面颗粒感强且模糊，模拟了老式VHS录像带效果，包括平移扫描技术。杜弗兄弟表示，如果《怪奇物语》存在于霍金斯镇的Family Video店，看起来就是这样的。Netflix的开场动画也做了复古处理，但音频无变化。若观看量足够，未来可能推出其他季的VHS版。用户可在Netflix上搜索“Stranger Things VHS”观看。",
-              "source_url": "https://www.engadget.com/2216396/netflix-stranger-things-vhs-quality/",
+              "title": "Vital Signals推出连续血压监测戒指",
+              "brief": "Vital Signals发布Signal Ring，可连续监测血压，旨在帮助高血压患者。创始人因自身高血压经历开发该设备，团队专注算法优化以提高准确性。戒指通过被动扫描和手动读数提供血压数据，无需定期校准。",
+              "source_url": "https://www.engadget.com/2216390/vital-signals-blood-pressure-ring/",
               "source_name": "Engadget",
-              "published_at": "2026-07-16T17:19:06+08:00"
+              "published_at": "2026-07-16T21:00:00+08:00"
             },
             {
-              "title": "一加正式退出美国和欧洲市场",
-              "brief": "一加与OPPO联合宣布，一加将不再在北美和欧洲推出新设备。两公司将其定位为战略调整，但未明确一加是否在其他地区继续运营。OPPO将整合一加的能力、技术和产品理念，一加联合创始人刘作虎近期重返OPPO担任首席产品官。现有用户权益得到保障，包括售后、软件更新和服务渠道。未来数月内，一加设备将改用OPPO的ColorOS。OPPO表示欧洲仍是关键市场，但未计划进入美国。",
-              "source_url": "https://www.engadget.com/2213731/oneplus-is-officially-leaving-the-us-and-europe/",
+              "title": "你现在可以授权Claude访问你的1Password凭证",
+              "brief": "1Password推出1Password for Claude功能，允许AI代理使用凭证完成任务，但通过零暴露安全框架确保密码和MFA码不进入模型或Anthropic系统。访问按会话授权，仅限于特定项目，且不延续。同时引入Agentic Mode保护所有用户凭证。",
+              "source_url": "https://www.engadget.com/2216405/1password-anthropic-claude-integration/",
               "source_name": "Engadget",
-              "published_at": "2026-07-16T17:00:00+08:00"
+              "published_at": "2026-07-16T21:00:00+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "欧盟勒令谷歌向竞争对手开放安卓和搜索",
-              "brief": "欧盟要求谷歌遵守数字市场法案，给予竞争对手搜索引擎和AI助手与安卓和部分搜索数据同等的访问权限。此举旨在削弱谷歌对两大重要平台的控制，可能影响其AI工具Gemini的未来，并为竞争对手创造机会。谷歌需在2027年1月开始共享搜索数据，2027年7月前完成安卓调整。",
-              "source_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+              "title": "Proton CTO谈隐私、政策与信任的平衡：没有公司会为你坐牢",
+              "brief": "The Verge播客Decoder采访了Proton公司CTO Bart Butler。Proton以加密邮件服务闻名，旗下还有文档、日历及AI助手Lumo等产品，核心理念是比大型科技公司更注重隐私。Butler直言，Proton本质上销售的不是产品，而是信任。信任不仅来自公司人员，还来自技术架构和公司治理结构，确保技术以正确激励构建。他讨论了加密、儿童安全以及不存在只为好人设计的后门等问题。",
+              "source_url": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
               "source_name": "The Verge",
-              "published_at": "2026-07-16T08:06:51-04:00"
+              "published_at": "2026-07-16T10:00:00-04:00"
             },
             {
-              "title": "计算机警察：向警方销售AI的大生意内幕",
-              "brief": "文章揭露了向美国警方销售AI技术的庞大产业。在今年的国际警察局长协会技术大会上，众多供应商推销面部识别摄像头、自动车牌识别器、报告撰写工具等AI产品。这些自动化看似琐碎的警务工作，但如填写报告等环节的自动化可能对人们生活产生重大影响，引发对AI侵蚀警务核心的担忧。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+              "title": "Ninja微波空气炸锅或解决披萨回热变软问题",
+              "brief": "Ninja推出首款微波炉产品Crispi Microwave，其独特之处在于兼具空气炸锅功能。用户先用微波加热食物，再切换至热风模式使食物酥脆，避免变软，同时可替代两种厨房电器。该产品功率1000瓦，采用无转盘平板设计，提供爆米花、解冻等预设模式。售价449美元，即日起在SharkNinja官网发售。",
+              "source_url": "https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance",
               "source_name": "The Verge",
-              "published_at": "2026-07-16T07:00:00-04:00"
+              "published_at": "2026-07-16T09:30:00-04:00"
             },
             {
-              "title": "一加正式退出美国和欧洲市场",
-              "brief": "一加确认将退出美国和欧洲市场，不再在该地区推出新产品。母公司OPPO承诺将继续提供现有设备的支持和保修服务，未来软件更新将转向OPPO的ColorOS。OPPO欧洲高级公关经理表示，软件更新和售后支持将得到保障，但未具体说明在美国如何履行保修协议。一加15是其在美国的最后一款旗舰机型。",
-              "source_url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+              "title": "三星Galaxy Z Flip 8在发布前一周遭泄露",
+              "brief": "距离三星Galaxy Unpacked发布会还有一周，Galaxy Z Flip 8的图片和规格遭泄露。据WinFuture消息，新机外观与Z Flip 7几乎相同，处理器从Exynos 2500升级为Exynos 2600，而非高通的骁龙系列。唯一显著升级是支持45W有线充电。三星预计于7月22日正式发布该手机及新款折叠屏产品。",
+              "source_url": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
               "source_name": "The Verge",
-              "published_at": "2026-07-16T05:00:00-04:00"
+              "published_at": "2026-07-16T09:23:50-04:00"
             },
             {
-              "title": "Skullcandy Crusher耳机新增Bose主动降噪功能",
-              "brief": "Skullcandy发布了新款Crusher 1080 ANC无线耳机，采用Bose的QuietControl主动降噪和头部追踪空间音频技术。该系列耳机以独立低音单元著称，但重低音时易失真，新款通过Bose技术改善音质。耳机售价279.99美元，今日起有黑、糖果、底漆和水泥色可选。",
-              "source_url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+              "title": "一加在美国从未有过机会",
+              "brief": "一加宣布退出美国市场，结束了八年的运营。尽管一加15和一加Open等产品口碑不错，但运营商合作一直不畅：T-Mobile在2022年后停止销售旗舰机型，仅保留低端Nord系列；Verizon的合作仅持续了两年。一加在美国的份额逐渐萎缩，此前虽有传闻称品牌将被完全解散，但一加予以否认。",
+              "source_url": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
               "source_name": "The Verge",
-              "published_at": "2026-07-15T20:00:00-04:00"
+              "published_at": "2026-07-16T09:00:00-04:00"
             },
             {
-              "title": "惠普配备OLED屏的二合一笔记本是返校季的实惠之选",
-              "brief": "鉴于硬件价格居高不下，惠普OmniBook X Flip二合一笔记本是一款难得的优惠产品。百思买以999.99美元（原价1649.99美元）出售，搭载英特尔酷睿7 Ultra处理器、16GB LPDDR5X内存和1TB固态硬盘。其1920×1200 OLED触摸屏在同价位中罕见，能呈现更深黑色和更快响应速度，且支持360度翻转。",
-              "source_url": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+              "title": "Claude现可使用你的1Password凭据",
+              "brief": "1Password推出针对Claude的浏览器集成，允许Anthropic聊天机器人访问存储的安全凭据。用户可授权Claude代为执行多步骤任务，如预订旅行或管理在线账户，而无需手动输入登录信息。1Password通过“零暴露安全框架”，通过安全通道注入凭据，Claude无法查看实际密码。该功能旨在提升自动化便利性的同时保护隐私。",
+              "source_url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
               "source_name": "The Verge",
-              "published_at": "2026-07-15T18:47:11-04:00"
+              "published_at": "2026-07-16T09:00:00-04:00"
             }
           ]
         },
@@ -294,6 +294,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "优秀新游戏因PlayStation取消实体盘引发的在线抗议而受牵连",
+              "brief": "索尼宣布逐步淘汰实体游戏盘后，引发核心玩家强烈反弹。独立游戏《Denshattack!》在PS5上发布时，被玩家利用索尼的宣传帖作为抗议平台，呼吁抵制PS5版并转向PC和Switch等其他平台。该游戏获得IGN 9/10好评，但索尼的决定使其发行蒙上阴影，评论区充斥着对索尼的指责和购买建议。",
+              "source_url": "https://www.ign.com/articles/great-new-games-are-getting-caught-up-in-the-online-backlash-against-playstation-killing-discs",
+              "source_name": "IGN",
+              "published_at": "2026-07-16T19:57:39+08:00"
+            },
+            {
+              "title": "宝可梦GO粉丝愤怒：受邀参加时代广场独家活动的玩家将稀有超梦以数千美元出售，违反游戏规则",
+              "brief": "宝可梦GO十周年之际，在纽约时代广场举办邀请制活动，约2000名玩家获得一只带有特殊背景和完美属性的稀有超梦。然而，部分获邀玩家随后在eBay上以数千美元出售该宝可梦，违反游戏禁止交易的规定。此举引发社区强烈不满，认为活动优待不公，并对破坏游戏规则的行为表示谴责。",
+              "source_url": "https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules",
+              "source_name": "IGN",
+              "published_at": "2026-07-16T19:55:15+08:00"
+            },
+            {
               "title": "扎克·克雷格执导的《生化危机》电影片长曝光，与早期观众反馈一致",
               "brief": "扎克·克雷格执导的新《生化危机》电影片长确定为1小时35分钟，与早期试映观众“全程高能”的评价相符。该片改编自《生化危机2》，讲述主角布莱恩在浣熊市灾难中从A点逃亡到B点的生存故事。克雷格此前表示影片僵尸数量少于预期，但会包含对原作的致敬元素。影片将于9月上映，目前AMC网站已列出片长信息。",
               "source_url": "https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/call-of-duty-black-ops-modder-highlights-major-exploits-with-new-port-activision-is-investigating",
               "source_name": "IGN",
               "published_at": "2026-07-16T04:50:31+08:00"
-            },
-            {
-              "title": "丹尼·麦克布赖德将执导新《特种部队》电影，布拉德利·库珀传闻加盟",
-              "brief": "继HBO《正义宝石》大获成功后，麦克布赖德将执导这部他已撰写剧本的新《特种部队》电影，这将是他的长片导演处女作。此前有传闻称布拉德利·库珀可能接替克里斯·海姆斯沃斯出演角色，后者因未透露原因退出。据《好莱坞报道》，派拉蒙目前重点发展《特种部队》等系列。该片是1980年代孩之宝玩具线的最新改编，上一部《特种部队：蛇眼起源》于2021年上映，评价褒贬不一。",
-              "source_url": "https://www.ign.com/articles/danny-mcbride-to-direct-new-gi-joe-movie-as-bradley-cooper-rumored-for-role",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T03:39:46+08:00"
-            },
-            {
-              "title": "《第四翼》作者丽贝卡·亚罗斯宣布新书《打谷日》及系列更多作品",
-              "brief": "《第四翼》作者丽贝卡·亚罗斯正式公布新书《打谷日》，将于2026年9月29日发行。该书是《安普瑞安系列》的衍生作品，收录13个关于粉丝喜爱角色在打谷日（即获得龙的考验日）的故事，精装版包含16幅全彩插画。亚罗斯确认书中将包括主角Xaden的故事，这是读者长期要求的视角。她同时表示仍在创作系列第四部正传，具体发行日期尚未公布。该系列电视剧正在由亚马逊米高梅工作室与迈克尔·B·乔丹的Outlier Society开发中。",
-              "source_url": "https://www.ign.com/articles/fourth-wing-rebecca-yarros-announces-threshing-day-new-book-in-empyrean-series",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T02:35:50+08:00"
             }
           ]
         },
@@ -407,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "飞利浦推出27E2N6900QW 27英寸显示器：4K 120Hz QD-OLED，售价5499元",
-              "brief": "飞利浦发布新款27英寸显示器27E2N6900QW，采用4K 120Hz QD-OLED面板，支持原生10-Bit色彩，覆盖99.1% DCI-P3色域和100% sRGB色域。HDR峰值亮度1000尼特，GtG响应速度0.03ms。支架支持俯仰和升降，本体支持VESA壁挂，接口包括2个HDMI 2.1、1个DP 1.4、1个USB-C 96W、1个USB-C 15W和2个USB-A（KVM）。",
-              "source_url": "https://www.ithome.com/0/977/768.htm",
+              "title": "世界人工智能合作组织协定签署仪式举行，总部设在上海",
+              "brief": "世界人工智能合作组织协定签署仪式在上海举行，29个国家代表签署协定成为创始成员国。该组织由中国倡议成立，总部设在上海，旨在促进人工智能国际合作与全球治理，确保人工智能安全、公平、有序发展。联合国秘书长古特雷斯等代表出席。2026世界人工智能大会将于7月17日至20日在上海举办，超300款AI产品将全球首发。",
+              "source_url": "https://www.ithome.com/0/977/793.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T20:47:03+08:00"
+              "published_at": "2026-07-16T22:38:08+08:00"
             },
             {
-              "title": "小鹏汽车：今年将实现首款飞行汽车量产，已获超7000订单全球最多",
-              "brief": "小鹏汽车宣布将在今年实现首款飞行汽车量产，已收获超过7000个订单，成为全球订单数量最高的飞行汽车公司。小鹏已建成全球首个规划年产能1万台的飞行汽车工厂，建筑面积12万平方米。分体式飞行汽车“陆地航母”售价控制在200万元以内，采用陆行体与飞行体分体设计，飞行器为电动六轴六桨构型，支持手动和自动驾驶，已于2024年11月公开飞行演示。",
-              "source_url": "https://www.ithome.com/0/977/766.htm",
+              "title": "小鹏MONA L03新车上市7分钟大定突破2万台，12.38万元起",
+              "brief": "小鹏MONA L03上市，提供纯电和增程两种动力，售价12.38万元起。新车搭载自研图灵AI芯片，Max版算力750TOPS，Ultra SE版双芯片1500TOPS。纯电版CLTC续航525km或625km，超级增程版综合续航最长1330km。上市仅7分钟大定突破2万台，显示市场强烈需求。",
+              "source_url": "https://www.ithome.com/0/977/792.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T20:40:28+08:00"
+              "published_at": "2026-07-16T22:31:21+08:00"
             },
             {
-              "title": "24.98万元，新一代理想L6 Ultra上市",
-              "brief": "理想汽车新一代L6 Ultra上市，售价24.98万元。新车提供全新轮圈样式，尾灯熏黑，车牌区域上移。内饰延续现款布局，配备横贯中控和副驾的29英寸6K屏，手机无线充电区域下移，并带智能电动冰箱。尺寸4935/1960/1735mm，轴距2920mm，底盘采用新一代全铝悬架和双阀可变阻尼减振器。搭载1.5T增程器，升级51度电池，20%至80%充电仅12分钟。",
-              "source_url": "https://www.ithome.com/0/977/765.htm",
+              "title": "中国联通与华为发布全球最大规模5G-A百兆大上行网络，AI眼镜毫秒级回传",
+              "brief": "中国联通与华为联合发布全球最大规模5G-A百兆大上行商用网络。该网络在北京34公里路测中实现上行平均速率397Mbps，峰值1Gbps，支持AI眼镜、AI手机等终端毫秒级回传和无感交互。中国联通表示，大上行能力成为AI时代实时交互的关键基础，华为通过3.5GHz+2.1GHz SUL创新方案支撑网络领先。",
+              "source_url": "https://www.ithome.com/0/977/791.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T20:38:00+08:00"
+              "published_at": "2026-07-16T22:27:16+08:00"
             },
             {
-              "title": "荣耀PC本月升级计划公布，主打Magic视界和YOYO Claw体验焕新",
-              "brief": "荣耀公布PC本月升级计划，主要优化Magic视界和YOYO Claw体验。YOYO Claw新增快速升级、对话置顶、聊天记录删除、新建对话、Skill市场、用户自主切换模型及Bot主页引导功能。Magic视界新增自研“程序坞”，优化通讯软件消息提醒、系统资源占用显示和天气信息展示，新增通透效果设置入口。升级覆盖荣耀WIN游戏本、MagicBook系列及X系列等20余款机型，7月下旬起逐步推送。",
-              "source_url": "https://www.ithome.com/0/977/763.htm",
+              "title": "华为Mate 80、Pura X等系列手机适配支持HUAWEI Tag防丢精灵精准查找功能",
+              "brief": "华为Mate 80、Pura X等系列手机已适配HUAWEI Tag防丢精灵的精准查找功能，用户可通过该功能判断靠近或远离Tag。但精准查找暂未支持箭头指向特性，仅依靠蓝色区域范围指示。华为官网尚未更新适配列表，Pura X Max和Pura 90系列显示暂不支持，预计后续更新。",
+              "source_url": "https://www.ithome.com/0/977/790.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T20:35:53+08:00"
+              "published_at": "2026-07-16T22:23:02+08:00"
             },
             {
-              "title": "小鹏汽车：2027年将把人形机器人IRON推向全球市场",
-              "brief": "小鹏汽车宣布将在2027年把人形机器人IRON推向全球市场。IRON具备自然语言交互能力，能完成复杂任务，率先进入商业场景，提供导购、讲解等服务。小鹏全新一代IRON人形机器人于2025年11月亮相，号称最拟人。今年2月，小鹏与广州天河区签约，在广棠科创城建人形机器人全链条量产基地，一期工程将建设高标准厂房，为产业化提供支撑。",
-              "source_url": "https://www.ithome.com/0/977/762.htm",
+              "title": "Kimi迄今最强旗舰模型“K3”上线，支持最高1M上下文",
+              "brief": "月之暗面发布Kimi K3旗舰模型，支持最高1M上下文窗口，提供5个模型ID（含K3和K2.7 Code）。K3作为Kimi迄今最强模型，在代码、长程任务等能力上提升。此前Kimi K2系列于2025年7月发布，为MoE架构基础模型，总参数1T，激活参数32B。官方暂未公布详细参数和价格。",
+              "source_url": "https://www.ithome.com/0/977/787.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T20:34:16+08:00"
+              "published_at": "2026-07-16T22:06:04+08:00"
             }
           ]
         },
@@ -487,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
+              "title": "小鹏汽车：将在今年实现首款飞行汽车量产",
+              "brief": "小鹏汽车宣布将在今年实现首款飞行汽车量产，截至目前已收获超过7000个订单。该消息标志着飞行汽车从概念走向商业化，小鹏汽车在低空出行领域迈出关键一步。",
+              "source_url": "https://36kr.com/newsflashes/3898320199222913?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 20:56:22  +0800"
+            },
+            {
+              "title": "热门中概股美股盘前普涨，小鹏集团涨超3%",
+              "brief": "热门中概股美股盘前普遍上涨，截至发稿小鹏集团涨超3%，哔哩哔哩涨超2%，百度、京东、蔚来涨超1%，拼多多涨0.91%，阿里巴巴涨0.59%。市场情绪回暖带动中概股集体走高。",
+              "source_url": "https://36kr.com/newsflashes/3898318300776067?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 20:54:26  +0800"
+            },
+            {
+              "title": "现货黄金跌破4000美元/盎司",
+              "brief": "现货黄金跌破4000美元/盎司关口，日内下跌1.46%。金价下跌可能受市场风险偏好提升或美元走强等因素影响，投资者需关注后续走势。",
+              "source_url": "https://36kr.com/newsflashes/3898315927455363?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 20:52:01  +0800"
+            },
+            {
+              "title": "美股大型科技股盘前涨跌不一，美光科技跌超5%",
+              "brief": "美股大型科技股盘前表现分化，美光科技跌超5%，英特尔跌超3%，英伟达跌超1%，特斯拉跌0.44%，Meta跌0.35%；而微软涨0.95%，谷歌涨0.51%，亚马逊涨0.19%。市场对半导体行业前景存在分歧。",
+              "source_url": "https://36kr.com/newsflashes/3898315626825602?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 20:51:43  +0800"
+            },
+            {
               "title": "美国上周首次申领失业救济人数为20.8万人，不及市场预期",
               "brief": "美国上周首次申领失业救济人数为20.8万人，低于市场预期的21.7万人，前值为21.5万人。该数据不及预期，显示劳动力市场可能有所收紧，但整体仍处于低位。",
               "source_url": "https://36kr.com/newsflashes/3898306398259078?f=rss",
               "source_name": "36氪",
               "published_at": "2026-07-16 20:42:20  +0800"
-            },
-            {
-              "title": "*ST萃华：并购重组及实际控制人变更事宜为不实传闻",
-              "brief": "*ST萃华发布公告，针对东方财富网等股吧社区出现的“周大福并购重组”、“库存50亿黄金，实控人拟变更”等传闻，公司澄清称相关内容均为不实信息，目前相关传闻已删除。",
-              "source_url": "https://36kr.com/newsflashes/3898284241782660?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-16 20:34:43  +0800"
-            },
-            {
-              "title": "DeepSeek估值超3500亿元",
-              "brief": "开润股份投资进展公告披露，国内人工智能企业深度求索（DeepSeek）本轮融资后估值约3510亿元。据悉，DeepSeek已启动第二轮融资，但年底是否冲刺科创板尚未确定。",
-              "source_url": "https://36kr.com/newsflashes/3898295917578112?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-16 20:31:40  +0800"
-            },
-            {
-              "title": "欧盟要求谷歌开放安卓AI功能及搜索数据",
-              "brief": "欧盟依据《数字市场法》要求谷歌向第三方AI助手开放Android系统关键功能，并共享匿名化搜索数据。谷歌需允许第三方AI助手调用语音唤醒、跨应用执行等能力，同时建立透明的数据获取及定价机制。",
-              "source_url": "https://36kr.com/newsflashes/3898270285235845?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-16 20:30:32  +0800"
-            },
-            {
-              "title": "报告称AI收入已达临界点，开始证明数据中心投资的经济合理性",
-              "brief": "Exponential View报告显示，全球AI销售收入达250亿美元，连续第二个季度超过数据中心和芯片投资的折旧成本210亿美元。这一里程碑表明AI收入开始覆盖资本开支，但利润空间仍较薄。",
-              "source_url": "https://36kr.com/newsflashes/3898279922108034?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-16 20:24:21  +0800"
             }
           ]
         },
