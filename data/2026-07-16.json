@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T06:50:26.394326+08:00",
+  "generated_at": "2026-07-16T08:50:25.036920+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "谷歌与Epic放弃和解，为第三方Android应用商店扫清障碍",
+              "brief": "谷歌和Epic Games本周撤回了联合和解协议，因为法院不太可能批准。随着和解失效，谷歌受2024年10月发布的永久禁令约束，必须允许在Android设备上使用替代应用商店。谷歌在法庭文件中表示，计划于7月22日开始支持第三方应用商店。谷歌称撤回动议是为了避免长期法律纠纷，并专注于执行全球业务模式演变，以提供更多应用商店选择、更低价格和更多机会。Epic Games同时起诉谷歌和苹果，但结果不同：苹果案基本胜诉，而谷歌案中陪审团认定谷歌滥用垄断权力。谷歌曾上诉，但现需遵守禁令。美国第三方应用商店将于下周在Android上可用。",
+              "source_url": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T08:02:48+08:00"
+            },
+            {
+              "title": "CrashStealer恶意软件伪装苹果工具窃取Mac密码和加密货币",
+              "brief": "据Jamf威胁实验室报告，Mac用户需警惕名为CrashStealer的macOS恶意软件。该软件伪装成苹果的崩溃报告框架，旨在窃取各种敏感信息，包括浏览器数据、密码管理器数据、加密货币钱包扩展和钥匙串数据。Jamf最初发现它藏在一个名为Werkbit的伪造苹果公证应用中。由于通过了公证，Gatekeeper无法阻止它。该恶意软件针对超过80个加密货币钱包扩展和14个密码管理器，如1Password、LastPass和Dashlane。它通过伪造的CrashReporter.app请求完全磁盘访问权限，并利用原生密码提示窃取登录钥匙串。数据经AES-256-GCM加密后发送至攻击者IP。苹果已吊销Werkbit的签名凭证，但恶意软件可能再次出现。",
+              "source_url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T07:14:33+08:00"
+            },
             {
               "title": "苹果关闭T-Mobile和Verizon分期付款购买无锁iPhone的漏洞",
               "brief": "苹果公司调整政策，通过T-Mobile或Verizon分期付款购买的iPhone将被锁定至该运营商，不再默认无锁。此前，用户利用此方式可获得无锁iPhone，但新规要求付清全款后才能解锁。AT&T分期付款的iPhone一直锁定。这一变化在Reddit上引发关注，苹果官方FAQ已更新说明。虽然购买时仍显示无锁，但新政策可能尚未完全生效。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
               "source_name": "MacRumors",
               "published_at": "2026-07-16T05:01:12+08:00"
-            },
-            {
-              "title": "苹果列出美国10个州免税日适用产品",
-              "brief": "苹果更新了网站，列出了2026年在美国阿拉巴马、阿肯色、佛罗里达、马萨诸塞、密苏里、新墨西哥、南卡罗来纳、田纳西、弗吉尼亚和西弗吉尼亚等州即将到来的销售税免税日适用的产品。免税期因州而异，从7月17日持续到8月20日。免税日期间，购买指定苹果产品可免销售税，税款将在最终收据中体现。适用产品因州而异，部分州有价格限制，常见产品包括Mac、iPad及配件，少数州也包含iPhone和Apple Vision Pro。免税优惠可与苹果返校促销叠加，为学生提供额外折扣。",
-              "source_url": "https://www.macrumors.com/2026/07/15/apple-2026-sales-tax-holidays/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-16T03:33:27+08:00"
-            },
-            {
-              "title": "苹果2026年返校促销在部分亚洲国家启动",
-              "brief": "苹果年度返校促销已在亚洲部分地区启动，包括中国、印度、马来西亚、菲律宾、新加坡、台湾、泰国和越南。该活动面向大学生和教育工作者，购买指定Mac或iPad可获赠免费配件，如四件装AirTag、AirPods 4、Apple Pencil Pro或礼品卡，也可选择升级折扣。具体赠品因国家而异，例如在中国、新加坡和越南赠送AirTag套装，印度可选AirTag或AirPods 4。MacBook Neo、iPad mini、入门级iPad及桌面Mac不参与活动。促销持续至8月27日。美国、加拿大和欧洲的促销尚未开始，预计很快推出。",
-              "source_url": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-16T02:48:45+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "AirPods 新公测版带来期待已久的自定义均衡器功能",
+              "brief": "苹果发布了 AirPods 公测版固件 9.0.314（版本号 9A314b），适用于 AirPods Pro 2/3、AirPods 4 和 AirPods Max 2 等搭载 H2 芯片的机型。用户可在 iPhone 设置中开启 AirPods 公测版更新，将 AirPods 放入充电盒并靠近已配对的 iPhone 即可下载安装。安装后，设置应用中新增了自定义均衡器功能，允许用户调整低、中、高频，并可在 Apple Music 播放歌曲时实时预览效果。虽然该均衡器仅为三段式基础系统，但仍是用户期待已久的功能。",
+              "source_url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T08:19:11+08:00"
+            },
             {
               "title": "没有这个小键盘，我再也无法在Mac上工作",
               "brief": "作者通过自定义键盘快捷键和宏键盘大幅提升了Mac工作效率。起初，他使用macOS系统触发器和Keyboard Maestro设置常用文本、文件夹和程序的快捷键。随后，受同事启发，他购入一款12键3旋钮的宏键盘，并借助GitHub项目和ChatGPT完成macOS适配。该键盘支持3层快捷键布局和旋钮功能，可为不同应用（如Adobe Audition）定制独立操作方案，无需记忆复杂组合键。",
@@ -75,19 +82,19 @@
               "source_url": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-16T03:04:31+08:00"
-            },
-            {
-              "title": "苹果在DOJ反垄断案中赢得获取联邦机构文件的调查权之争",
-              "brief": "苹果在美国司法部2024年提起的反垄断案中，成功迫使14个联邦机构交出与评估、采购和使用智能手机及可穿戴设备相关的文件。苹果认为这些文件能支持其辩护，即iPhone的政策是合法的产品优势而非反竞争限制。涉及的机构包括CIA、FBI、NSA等。苹果主张，如果联邦机构因其安全或隐私特性而选择其产品，这应被视为正当竞争。但美国政府拒绝提供相关文件，认为这些机构与该案无关。",
-              "source_url": "https://9to5mac.com/2026/07/15/apple-wins-discovery-fight-over-federal-agency-documents-in-doj-antitrust-case/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T01:51:55+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌将于下周开放安卓第三方应用商店",
+              "brief": "谷歌放弃修改法院禁令，将从2026年7月22日起允许第三方安卓应用商店在Play Store中上架谷歌应用和游戏。此举源于Epic Games诉讼，法院要求谷歌提供更多应用商店选择。第三方商店可展示Play Store应用的名称、图标、描述及截图视频，下载仍通过Play Store完成并适用其服务费。开发者可选择退出该分发方式。",
+              "source_url": "https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-16T07:15:00+08:00"
+            },
             {
               "title": "Android 17 QPR1 Beta 7 面向 Pixel 设备推出",
               "brief": "谷歌发布了 Android 17 QPR1 Beta 7 更新，修复了快速设置中电池共享无法启动或反复显示充电动画、关闭 Wi-Fi 后电池与移动数据图标之间出现空白间隙、以及快速设置字体大小控制器崩溃等问题。该版本支持 Pixel 6a 至 Pixel 10a 等设备，可通过 Android Beta 计划获取 OTA 更新。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/15/pixel-11-first-tease/",
               "source_name": "9to5Google",
               "published_at": "2026-07-16T01:35:59+08:00"
-            },
-            {
-              "title": "一加将在美国和欧洲停止运营，真我退出中国市场",
-              "brief": "据报道，作为Oppo内部重组的一部分，一加最早于本周开始停止在美国和欧洲的运营，并计划于2027年停止在印度的运营，仅保留中国业务。同时，Oppo旗下另一品牌真我将退出中国市场。未来Oppo品牌将专注于中欧市场，而真我则瞄准北欧地区。",
-              "source_url": "https://9to5google.com/2026/07/15/oneplus-shutdown-report-details-realme-oppo/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-16T00:13:45+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "Skullcandy Crusher 1080 评测：触觉低音与轻声降噪的结合",
+              "brief": "Skullcandy 推出旗舰耳机 Crusher 1080，搭载 Bose 的 QuietControl 主动降噪、TrueSpatial 定向音频和 WaveForm 调音，在保持标志性触觉低音系统的同时提升音质。该耳机售价约 270 美元，具备 60 小时续航、快充、多点蓝牙和 Auracast 等功能。评测认为其降噪和音质平衡良好，低音体验独特，但设计略显过时且较重，长时间佩戴可能不适。",
+              "source_url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-16T08:00:00+08:00"
+            },
+            {
               "title": "马斯克收购燃气轮机公司",
               "brief": "埃隆·马斯克在今年早些时候悄然收购了APR能源公司，该公司生产可安装在拖车上的移动式燃气和柴油涡轮机。此举并未公开宣布，直到近期才被媒体发现，收购估值约10亿美元。最可能的用途是为AI数据中心供电，因为训练AI模型需要大量能源。此前马斯克的xAI因在密西西比州的数据中心使用移动涡轮机而被指控违反《清洁空气法》，而自诉讼以来该数据中心的涡轮机数量显著增加。马斯克还计划在德克萨斯州建设天然气管道。这一投资与马斯克十年前称化石燃料为“史上最愚蠢实验”的言论形成鲜明对比。",
               "source_url": "https://www.engadget.com/2216186/elon-musk-bought-a-gas-turbine-company/",
@@ -195,19 +202,19 @@
               "source_url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
               "source_name": "Engadget",
               "published_at": "2026-07-16T02:31:30+08:00"
-            },
-            {
-              "title": "苹果悄然隐藏了iOS 27中CarPlay的重大变化",
-              "brief": "苹果在WWDC 2026上悄然宣布，CarPlay将在iOS 27中支持视频浏览和播放功能。该功能仅限车辆静止时使用，一旦检测到移动将切换为纯音频模式。这一更新紧随谷歌宣布Android Auto支持高清视频播放之后。视频功能通过AirPlay流媒体实现，开发者可以在支持“车内视频”功能的新车型中为应用添加视频播放。苹果在演示中使用了虚构的“Landmark”应用，但该功能可能适用于任何视频流媒体应用。不过，该功能的广泛普及可能因车辆支持等问题而延迟。",
-              "source_url": "https://www.engadget.com/2211714/apple-reveal-carplay-video-playback-ios-27/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-16T02:30:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Skullcandy Crusher耳机新增Bose主动降噪功能",
+              "brief": "Skullcandy发布了新款Crusher 1080 ANC无线耳机，采用Bose的QuietControl主动降噪和头部追踪空间音频技术。该系列耳机以独立低音单元著称，但重低音时易失真，新款通过Bose技术改善音质。耳机售价279.99美元，今日起有黑、糖果、底漆和水泥色可选。",
+              "source_url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+              "source_name": "The Verge",
+              "published_at": "2026-07-15T20:00:00-04:00"
+            },
             {
               "title": "惠普配备OLED屏的二合一笔记本是返校季的实惠之选",
               "brief": "鉴于硬件价格居高不下，惠普OmniBook X Flip二合一笔记本是一款难得的优惠产品。百思买以999.99美元（原价1649.99美元）出售，搭载英特尔酷睿7 Ultra处理器、16GB LPDDR5X内存和1TB固态硬盘。其1920×1200 OLED触摸屏在同价位中罕见，能呈现更深黑色和更快响应速度，且支持360度翻转。",
@@ -235,19 +242,26 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
               "source_name": "The Verge",
               "published_at": "2026-07-15T17:33:20-04:00"
-            },
-            {
-              "title": "布伦丹·卡尔计划让广播巨头主导电波",
-              "brief": "美国联邦通信委员会（FCC）主席布伦丹·卡尔提议废除全国广播所有权上限规则，该规则限制单一公司拥有的广播电视台覆盖不超过39%的美国家庭。卡尔在Breitbart专栏中宣布将于8月6日投票，认为社交媒体和流媒体的兴起使该规则过时，取消限制有助于本地广播公司获得规模效益。",
-              "source_url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-              "source_name": "The Verge",
-              "published_at": "2026-07-15T17:30:17-04:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "数百人在贝塞斯达总部集会抗议Xbox裁员，Ars在现场",
+              "brief": "数百名贝塞斯达游戏工作室和ZeniMax在线工作室的员工及其支持者，冒着近100华氏度的高温，在ZeniMax总部前举行午餐集会，抗议Xbox的大规模裁员。此次集会由ZeniMax Workers United及其母公司美国通信工人工会组织，是同时在得克萨斯、加利福尼亚和蒙特利尔五场集会之一。工会要求微软重返谈判桌，就剩余未签约成员的合同进行协商，并停止他们所称的“永久性裁员循环”。",
+              "source_url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-16T06:36:28+08:00"
+            },
+            {
+              "title": "巴兹·奥尔德林出售帮助阿波罗飞船从月球起飞的著名毡头笔",
+              "brief": "一支干涸的毡头记号笔和一块断裂的黑色塑料开关，在苏富比拍卖会上以85.76万美元成交。这两件物品曾随阿波罗11号飞船登月，其中开关的断裂险些导致宇航员无法启动上升发动机返回地球，而奥尔德林用这支笔推入开关，解决了危机。拍卖所得虽未破纪录，但凸显了这段历史的重要性。",
+              "source_url": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-16T06:10:41+08:00"
+            },
             {
               "title": "Sheetz将838家门店从VMware迁移：Broadcom造成“太多不确定性”",
               "brief": "美国便利店连锁Sheetz宣布将838家门店的约11000台虚拟机从VMware迁移至StorMagic的SvHCI平台。自2019年起，Sheetz每家门店均使用两台戴尔服务器运行VMware虚拟化，但Broadcom收购后取消了永久许可、转向订阅制和大捆绑包，导致长期预算不确定性和供应商依赖增加。目前已有超过600家门店完成迁移，平均每月迁移200家，预计四个月内全部完成。",
@@ -268,20 +282,6 @@
               "source_url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-16T05:04:22+08:00"
-            },
-            {
-              "title": "Windows 0-day漏洞与微软创纪录补丁同日发布",
-              "brief": "在微软发布创纪录数量安全补丁的同一天，一名研究员公开了可让低权限Windows账户对管理员账户进行敏感更改的利用代码。该漏洞名为HiveLegacy，是一个提权漏洞，位于Windows用户配置文件服务中，允许有限系统权限的用户通过修改管理员用户的注册表配置单元来危害其账户。多名研究人员证实该利用代码有效，微软被迫紧急应对。化名NightmareEclypse的研究员已发布九个此类漏洞，并抱怨微软对漏洞报告的处理方式。",
-              "source_url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-16T03:59:48+08:00"
-            },
-            {
-              "title": "FCC拟废除39%电视所有权上限，利好亲特朗普新闻机构",
-              "brief": "美国联邦通信委员会（FCC）将投票废除全国电视所有权规则，该规则禁止单一广播公司覆盖超过39%的美国电视家庭。FCC主席Brendan Carr声称有权废除国会设定的限制，并计划以逐案审查取代该上限。此前Carr已批准Nexstar收购Tegna，使其覆盖超过一半电视家庭。此举可能引发法律争议，并有利于为特朗普提供有利报道的新闻公司。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-16T02:52:22+08:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "扎克·克雷格执导的《生化危机》电影片长曝光，与早期观众反馈一致",
+              "brief": "扎克·克雷格执导的新《生化危机》电影片长确定为1小时35分钟，与早期试映观众“全程高能”的评价相符。该片改编自《生化危机2》，讲述主角布莱恩在浣熊市灾难中从A点逃亡到B点的生存故事。克雷格此前表示影片僵尸数量少于预期，但会包含对原作的致敬元素。影片将于9月上映，目前AMC网站已列出片长信息。",
+              "source_url": "https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions",
+              "source_name": "IGN",
+              "published_at": "2026-07-16T06:46:40+08:00"
+            },
+            {
+              "title": "《降世神通：最后的气宗》电影终于获得影院上映，但有限制",
+              "brief": "派拉蒙原本取消《降世神通：最后的气宗》电影版院线发行，改为直接上线流媒体，但现宣布将于7月24日至30日在洛杉矶和纽约各一家AMC影院每日放映三场，以符合奥斯卡最佳动画长片参评资格。该片是原动画系列的续集，讲述成年后角色的故事。影片此前已完整泄露，导致派拉蒙将上映日期从2026年10月提前。",
+              "source_url": "https://www.ign.com/articles/avatar-aang-the-last-airbender-finally-gets-theatrical-release-but-theres-a-catch",
+              "source_name": "IGN",
+              "published_at": "2026-07-16T05:32:19+08:00"
+            },
             {
               "title": "《使命召唤：黑色行动》模组制作者曝光新移植版重大漏洞，动视正在调查",
               "brief": "《黑色行动1》和《黑色行动2》近期登陆PS4和PS5，尽管没有显著改进，但粉丝们对能在PlayStation上玩到这些游戏感到非常高兴。然而，乐趣很快被破坏：本周早些时候，模组制作者和利用漏洞者开始入侵《黑色行动1》移植版的游戏大厅，导致部分玩家称游戏“无法游玩”。这些大厅允许玩家快速升级，使整个进度系统失效。动视迅速采取行动，移除了某些播放列表以解决问题，但担忧依然存在。",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/fourth-wing-rebecca-yarros-announces-threshing-day-new-book-in-empyrean-series",
               "source_name": "IGN",
               "published_at": "2026-07-16T02:35:50+08:00"
-            },
-            {
-              "title": "《辐射：新维加斯》首席设计师克里斯·阿韦隆称对剧集台词感到“尴尬”",
-              "brief": "《辐射：新维加斯》首席设计师克里斯·阿韦隆在播客中批评《辐射》真人剧的台词质量，认为其未能提升游戏改编的对话水准。他将该剧与《赛博朋克：边缘行者》对比，称后者更出色。阿韦隆指出许多好莱坞编剧在改编游戏时，因未玩过原作而缺乏背景理解，导致机会错失。他强调并非所有编剧都如此，但这是一个普遍模式：工作室急于推出自己的诠释，却忽视了游戏原有的叙事精髓。不过，他仍认为该剧整体有趣。",
-              "source_url": "https://www.ign.com/articles/fallout-new-vegas-lead-designer-chris-avellone-admits-he-feels-embarrassed-by-tv-shows-dialogue",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T02:32:21+08:00"
-            },
-            {
-              "title": "里昂·肯尼迪配音演员称卡普空删除了他在《生化危机：安魂曲》中的“最爱”台词",
-              "brief": "《生化危机：安魂曲》中里昂·肯尼迪的配音演员尼克·阿波斯托莱德斯透露，他提议的一句台词被卡普空从最终游戏中删除。该台词是在与蜘蛛BOSS战斗时说的：“你知道吗，你真是让我如坐针毡（itsy-bitsy pain in my ass）”，化用经典童谣。阿波斯托莱德斯称这原本会是他的“最爱”台词，但卡普空最终采用了不同版本，如“你真是个害虫”等。目前粉丝正期待预计2027年发售的《代号：维罗妮卡》重制版，以及今年10月上映的真人电影。",
-              "source_url": "https://www.ign.com/articles/leon-kennedys-voice-actor-says-capcom-cut-his-favorite-line-from-resident-evil-requiem",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T01:44:53+08:00"
             }
           ]
         },
@@ -372,39 +372,119 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "马斯克宣布开源Grok Build编程AI智能体工具",
-              "brief": "继上传用户代码事件后，马斯克宣布开源Grok Build编程AI智能体工具。该工具在终端中整合Grok模型，可帮助用户完成从规划、搜索、编码、测试到Git提交的全流程工作。此次开源涵盖智能体链路、工具、终端用户界面及扩展系统等代码。SpaceXAI承诺提供完整的用户隐私保护，用户可访问GitHub页面获取相关代码。",
-              "source_url": "https://www.ithome.com/0/977/265.htm",
+              "title": "NTSB确认美国得州特斯拉事故中驾驶员油门踩死，FSD未控制车辆",
+              "brief": "美国国家运输安全委员会（NTSB）发布初步报告，确认2025年款特斯拉Model 3在得克萨斯州凯蒂市居民区撞入民宅的事故中，驾驶员将加速踏板踩到100%，手动覆盖了FSD功能，撞击时速达73英里。此前驾驶员曾声称自己晕过去，暗示与FSD有关，但警方发现其搜索记录包含“FSD不够激进”等词条。NTSB正式确认了特斯拉方面的说法，事故造成屋内一名76岁居民死亡，驾驶员已被控过失杀人罪。NHTSA也在独立调查，并已对约320万辆特斯拉的FSD系统升级为工程分析。",
+              "source_url": "https://www.ithome.com/0/977/296.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T06:40:31+08:00"
+              "published_at": "2026-07-16T08:45:07+08:00"
             },
             {
-              "title": "波音启用第四条737生产线，美国两工厂同时生产737",
-              "brief": "波音公司宣布启用位于埃弗雷特的第四条737生产线，投资达10亿美元，主要生产737-8、-9和-10机型。目前737 MAX储备订单超过4000架，排期已至2030年代。新生产线将助力月产52架的目标，并提升生产韧性和交付效率。",
-              "source_url": "https://www.ithome.com/0/977/247.htm",
+              "title": "我国首个水风光一体化智慧运营大模型发布",
+              "brief": "我国首个水风光一体化智慧运营大模型正式发布，该模型整合卫星遥感、气象监测、水文测站等海量数据，覆盖全流域、全资源要素和全业务链条。据中国科学院外籍院士陈德亮介绍，传统模型流域来水预报仅能精准预判十几天，新模型将预报时长拉长至60天，前10天小时级预报精度提升约5%，气象预测响应速度从小时级提升至分钟级，效率大幅提高。",
+              "source_url": "https://www.ithome.com/0/977/295.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T23:31:10+08:00"
+              "published_at": "2026-07-16T08:42:43+08:00"
             },
             {
-              "title": "民航局：上半年实名登记无人机总数突破478.8万架",
-              "brief": "中国民航局发布数据，上半年实名登记无人机总数达478.8万架，累计飞行2641.4万小时，同比增长8%。此前《民用无人驾驶航空器实名登记和激活要求》国家标准已于5月1日实施，未实名登记飞行将面临罚款。",
-              "source_url": "https://www.ithome.com/0/977/246.htm",
+              "title": "歌尔丹拿与IMAX合作推出全球首款IMAX车载娱乐系统，预计年底落地",
+              "brief": "歌尔丹拿与IMAX达成战略合作，推出全球首款IMAX车载娱乐系统。该系统采用IMAX专属增强声学架构和大尺寸4K HDR翻折式显示屏，并集成超轻穿戴式显示设备，内置虚拟IMAX影院环境。系统采用模块化配置，可适配不同车型，为汽车制造商提供灵活的高品质娱乐解决方案。",
+              "source_url": "https://www.ithome.com/0/977/294.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T23:23:27+08:00"
+              "published_at": "2026-07-16T08:40:26+08:00"
             },
             {
-              "title": "追光动画辟谣《三国第一部：争洛阳》撤档传闻",
-              "brief": "针对网传撤档消息，追光动画官方回应表示“相信作品，相信观众，相信市场”，否认撤档。该片由《长安三万里》原班人马打造，于7月10日暑期档上映，豆瓣评分已从8.0涨至8.1。",
-              "source_url": "https://www.ithome.com/0/977/245.htm",
+              "title": "Suno接入iMessage，苹果iPhone 17等用户可在聊天中AI生成歌曲",
+              "brief": "AI音乐生成平台Suno在iMessage中新增扩展功能，用户可在聊天界面内通过文本提示或语音备忘录生成歌曲，并可选择音乐流派和刷新结果。Suno每天生成超过700万首歌曲，该功能已在7月7日更新的Suno应用中上线，支持iPhone 17等设备。",
+              "source_url": "https://www.ithome.com/0/977/293.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T23:14:40+08:00"
+              "published_at": "2026-07-16T08:39:14+08:00"
             },
             {
-              "title": "消息称苹果正寻求收购人工智能芯片企业",
-              "brief": "据消息人士透露，苹果正在接触多家半导体初创企业，寻求收购以解决内部AI服务器性能问题。苹果已准备推进数十亿美元级别的收购，今年1月曾以20亿美元收购以色列机器学习企业Q.Ai，为苹果史上第二大收购。",
-              "source_url": "https://www.ithome.com/0/977/243.htm",
+              "title": "微软积极推销自研AI，销售需掌握OpenAI、谷歌、Anthropic的不足",
+              "brief": "微软执行副总裁杰伊·帕里克在内部会议上要求销售团队向市场讲清楚微软端到端系统的优势，并批评竞争对手只提供零散部件。另一位副总裁雅各布·安德烈乌指出Claude在微软办公应用中速度更慢、准确率更低。微软近期已降低对外部模型的依赖，将OpenAI和Anthropic的模型从Word、Excel等应用中移除，转而采用自研模型以降低成本。",
+              "source_url": "https://www.ithome.com/0/977/292.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-15T23:11:27+08:00"
+              "published_at": "2026-07-16T08:25:35+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "微软搭建全真模拟飞机机舱，实地测试Windows 11“共享音频”功能",
+              "brief": "微软为测试Windows 11的“共享音频”功能，搭建了全真模拟飞机机舱，以在密集、狭小且有背景噪音的真实场景中优化体验。该功能允许音频同时传输到两个蓝牙设备，逐步向所有兼容PC推送。此举源于微软“K2”计划，旨在通过用户反馈改进系统，体现其贴近用户需求、注重实际应用场景的研发理念。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569106.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-16T08:18:30+08:00"
+            },
+            {
+              "title": "Google与Epic撤销和解协议，第三方Android应用商店下周将在美上线",
+              "brief": "Google主动撤回与Epic Games的和解动议，以规避法律纠纷并履行法院禁令。此前Epic反垄断诉讼获胜，认定Google滥用市场支配地位。下周起，美国Android用户可选择第三方应用商店，这些商店可分发Google Play应用，需支付年费5000美元，且交易仍依赖Google Play系统并收取服务费。此举可能影响苹果与Epic的后续法律博弈。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-16T08:15:02+08:00"
+            },
+            {
+              "title": "印度豪掷数十亿美元加码智能手机制造，意在打破中国主导地位",
+              "brief": "印度推出新一轮智能手机制造激励计划，提供零部件采购和半导体制造补贴，总投资超130亿美元。印度已吸引苹果、三星及中国品牌设厂，但2025年全球手机产量仅占18%，远低于中国的63%。新计划注重深度制造和研发，目标提升本土品牌价值，并挑战中国主导地位。预计五年内手机总产量达4050亿美元，创造6万就业岗位。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569102.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-16T07:53:36+08:00"
+            },
+            {
+              "title": "微软单月修复创纪录数量安全漏洞，称归功于AI技术的应用",
+              "brief": "微软在7月安全更新中修复了创纪录数量的安全漏洞，包括两个已遭利用的零日漏洞，分别影响Windows Server和SharePoint。微软表示，AI工具帮助发现了更多此前未被察觉的漏洞，未来安全更新数量将持续增加。随着AI在网络安全领域的深入应用，研究人员得以挖掘潜伏多年的历史漏洞，尤其对拥有数十年代码基础的Windows系统效果显著。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569100.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-16T07:53:03+08:00"
+            },
+            {
+              "title": "Google推进其最大清洁能源项目，距xAI无证天然气电厂仅40英里",
+              "brief": "Google宣布推进“钢铁之河能源中心”三期项目，建成后将成为美国最大太阳能设施，总装机容量1.8吉瓦太阳能和2.9吉瓦时电池储能。该项目位于田纳西州，旨在实现Google每小时清洁能源匹配目标。与此同时，埃隆·马斯克的xAI公司在40英里外运营一座未获许可的天然气电厂，排放污染影响当地社区。Google此举彰显其对可再生能源的持续投入。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569098.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-16T07:51:22+08:00"
+            }
+          ]
+        },
+        {
+          "name": "36氪",
+          "articles": [
+            {
+              "title": "两市融资余额减少116.66亿元",
+              "brief": "截至7月15日，上交所融资余额报14447.83亿元，较前一交易日减少72.31亿元；深交所融资余额报14128.29亿元，较前一交易日减少44.35亿元。两市合计融资余额为28576.12亿元，较前一交易日减少116.66亿元，反映市场杠杆资金有所收缩。",
+              "source_url": "https://36kr.com/newsflashes/3897604334307207?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 08:48:09  +0800"
+            },
+            {
+              "title": "亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务",
+              "brief": "亚马逊旗下低轨卫星网络Leo宣布与南非最大固定互联网服务提供商Herotel达成协议，将通过一项名为evry的新服务将卫星互联网引入南非。Evry预计于2027年正式上线，为南非住宅用户提供网络连接。这是Amazon Leo在非洲达成的首项此类协议，标志着其全球卫星互联网布局迈出新一步。",
+              "source_url": "https://36kr.com/newsflashes/3897597349234561?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 08:41:03  +0800"
+            },
+            {
+              "title": "中信证券：建议重点关注医疗健康产业投资机会",
+              "brief": "中信证券研报指出，医药板块刚需确定性高，叠加国内生物医药融资数据持续高增长，预计医药创新企业和全球医药产业链企业未来3-5年将迎来业绩稳健增长。同时，今年三季度起国产创新药核心管线将迎来重磅数据读出，具有全球潜力的资产国际化价值有望加速兑现。政策变革回归临床价值和需求导向定价，带来稳定市场环境，建议重点关注医疗健康产业投资机会。",
+              "source_url": "https://36kr.com/newsflashes/3897582388856449?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 08:38:45  +0800"
+            },
+            {
+              "title": "勃林格殷格翰上半年净销售额同比增长16.2%至158亿欧元",
+              "brief": "勃林格殷格翰发布2026年上半年业绩报告，集团净销售额同比增长16.2%，达到158亿欧元。其中，人用药品业务实现131亿欧元，同比增长20.1%；动物保健业务实现26亿欧元，同比增长0.4%。业绩增长主要得益于人用药品业务的强劲表现。",
+              "source_url": "https://36kr.com/newsflashes/3897582072874631?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 08:32:26  +0800"
+            },
+            {
+              "title": "深圳等一线城市租房需求攀升，租金房价比持续抬升",
+              "brief": "随着2026年暑期租赁高峰到来，深圳等一线城市租房需求快速攀升，租赁市场率先走出调整通道。走访发现，毕业季求职和换房需求集中释放，深圳租赁市场活跃度显著提升，城市人口吸引力与经济活力在租房数据中得到体现。从全国看，今年上半年一线城市平均租金小幅上涨，结束此前连续两年的调整态势。",
+              "source_url": "https://36kr.com/newsflashes/3897581281494662?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-16 08:24:42  +0800"
             }
           ]
         }
