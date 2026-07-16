@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T00:51:18.927553+08:00",
+  "generated_at": "2026-07-17T02:50:18.962441+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "1Password为Claude提供无密码登录AI功能",
+              "brief": "密码管理应用1Password现已支持Claude AI，使其能访问1Password中的凭证完成浏览器任务，而实际密码不会暴露给Claude。集成后，Claude使用1Password登录和一次性验证码时，密码不会进入Claude的上下文、内存或Anthropic系统。当Claude需登录网站时，1Password会显示请求的凭证及原因，用户批准后直接填入页面。访问权限限于当前任务，完成后即终止。1Password团队称，自动填充后会检查页面是否泄露秘密。目前暂不支持信用卡和身份信息，Claude仅能使用登录和一次性验证码。1Password浏览器扩展还更新了Agentic Mode，可控制基于浏览器的AI代理，代理接管时扩展会锁定隐藏密码界面，仅用户批准时允许使用登录和一次性验证码。即使未设置集成，Agentic Mode也能保护密码免受AI代理访问。1Password for Claude适用于Mac，需1Password商业、家庭或个人计划订阅者，以及Claude Pro、Max、Team或Enterprise计划。需安装1Password桌面应用和浏览器扩展，以及Claude桌面应用和Claude in Chrome浏览器扩展。",
+              "source_url": "https://www.macrumors.com/2026/07/16/1password-claude-integration/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T23:48:18+08:00"
+            },
+            {
+              "title": "苹果因“隐藏我的电子邮件”漏洞被起诉",
+              "brief": "苹果本周因“隐藏我的电子邮件”功能存在可能暴露用户真实邮箱地址的漏洞而被起诉。拟议的集体诉讼指控苹果明知该功能未按宣传方式工作，仍违反加州虚假广告法及其他消费者保护法规。一名安全研究员于2025年6月向苹果披露了此漏洞，但未公开具体步骤，因此尚无已知的利用案例。",
+              "source_url": "https://www.macrumors.com/2026/07/16/apple-sued-over-reported-hide-my-email-flaw/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T23:48:18+08:00"
+            },
             {
               "title": "苹果芯片供应商台积电承诺再投资1000亿美元用于美国工厂",
               "brief": "苹果芯片供应商台积电宣布将其美国芯片投资增加1000亿美元，使总承诺额达到2650亿美元。白宫和商务部在台积电第二季度财报电话会议后确认了这一增长。商务部长霍华德·卢特尼克表示，这笔投资将“创造数万个美国就业岗位”，而台积电董事长兼CEO魏哲家告诉CNBC，新工厂将支持“我们领先的美国客户”，据报道包括苹果、英伟达和博通。苹果CEO蒂姆·库克曾称苹果是“台积电亚利桑那州的第一大客户”。台积电此前将最先进工艺保留在台湾，亚利桑那州制造的芯片落后数代，但新投资预计将建设多达四座工厂，专注于2纳米芯片，这是台积电目前最先进的商用工艺。整体计划可能包括10座晶圆厂和2座封装厂，具体时间部分取决于苹果自身的产能需求，因为苹果也在探索英特尔和三星作为备份芯片制造商。",
@@ -35,6 +49,27 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "集体诉讼指控苹果就“隐藏邮件地址”隐私保护误导用户",
+              "brief": "一名用户对苹果提起集体诉讼，指控其“隐藏邮件地址”功能存在漏洞，可能暴露用户的真实邮箱地址。此前有报道称，苹果早在一年多前就已知晓该漏洞，但至今未完全修复。该功能允许用户创建随机生成的邮箱别名以保护隐私，但安全研究人员发现这些别名可被逆向解析。原告称苹果继续从该功能获利，却未履行隐私承诺。",
+              "source_url": "https://9to5mac.com/2026/07/16/class-action-accuses-apple-of-misleading-users-about-hide-my-emails-privacy-protections/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-17T02:06:37+08:00"
+            },
+            {
+              "title": "iOS 27 让 Apple Music 的 AutoMix 功能更出色",
+              "brief": "iOS 27 改进了 Apple Music 的 AutoMix 功能，该功能利用 AI 在歌曲间创建类似 DJ 的平滑过渡。新版本中，过渡更加自然流畅，减少了之前版本中常见的“水下”音效，并会重新混音歌曲的结尾和开头以对齐节拍。此外，AutoMix 还扩展到了 tvOS 和 HomePod 上。该功能目前已在公测版中可用，正式版将于今年晚些时候发布。",
+              "source_url": "https://9to5mac.com/2026/07/16/ios-27-makes-one-of-my-favorite-apple-music-features-even-better/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-17T01:58:02+08:00"
+            },
+            {
+              "title": "Roblox 为 iPhone 和 iPad 应用添加游戏创建功能",
+              "brief": "Roblox 宣布将于本月晚些时候在移动应用中推出“Build”功能，允许用户直接在 iPhone、iPad 和 Android 设备上创建游戏体验。该功能由 AI 驱动，用户可通过文本提示生成游戏内容。Build 与桌面版 Roblox Studio 共享后端，创作者可在移动端开始工作，并在 Studio 中进一步完善。该功能将于 7 月 28 日首先在新西兰进行 Alpha 测试。",
+              "source_url": "https://9to5mac.com/2026/07/16/roblox-adding-game-creation-feature-to-iphone-and-ipad-app/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-17T01:47:00+08:00"
+            },
+            {
               "title": "NotebookLM 更名为 Gemini Notebook，AI Pro 将升级至 3.5 和反重力功能",
               "brief": "NotebookLM 现已更名为 Gemini Notebook，同时谷歌宣布将为 AI Pro 用户带来 3.5 版本更新和反重力功能升级，进一步提升 AI 笔记体验。",
               "source_url": "https://9to5google.com/2026/07/16/notebooklm-gemini-notebook/",
@@ -47,33 +82,26 @@
               "source_url": "https://9to5mac.com/2026/07/16/apple-tv-sets-release-date-for-stillwaters-fifth-season/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-16T23:55:20+08:00"
-            },
-            {
-              "title": "促销：带 ANC 的 AirPods 低至 119 美元，AirPods Pro 3、MacBook Pro 最高省 400 美元等",
-              "brief": "亚马逊推出多项促销：带主动降噪的 AirPods 4 降至 144.99 美元（历史低价），另有渠道可低至 119 美元；AirPods Pro 3 售价 200 美元；M5 系列 MacBook Pro 最高优惠 400 美元，M5 MacBook Air 优惠 150 美元。",
-              "source_url": "https://9to5mac.com/2026/07/16/deals-airpods-with-anc-airpods-pro-3-macbook-pro/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T23:25:24+08:00"
-            },
-            {
-              "title": "AppleCare One 保修套餐对客户而言性价比更高",
-              "brief": "苹果近期上调了 Mac 和 iPad 的独立 AppleCare+ 月费，但 AppleCare One 套餐价格保持不变，仍为每月 19.99 美元覆盖三台设备。以 iPhone 17 Pro、MacBook Air 和 iPad Air 组合为例，AppleCare One 每年可节省约 50 美元，高端设备节省更多。该套餐于 2025 年 7 月推出，包含意外损坏维修、电池服务和防盗保障。",
-              "source_url": "https://9to5mac.com/2026/07/16/applecare-one-warranty-bundle-just-became-an-even-better-value-for-customers/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T23:05:12+08:00"
-            },
-            {
-              "title": "上手体验：Satechi 为 MacBook Neo 推出配色匹配的新配件，扩展端口和功能",
-              "brief": "Satechi 发布了三款与 MacBook Neo 配色匹配的配件：OntheGo 5 合 1 适配器（44.99 美元），将单个 USB-C 口扩展为 HDMI、USB-C 充电、USB-A 和 SD 卡槽，并带 MagSafe 磁吸环；USB-C Snap Hub 则提供传统集线器形态。这些配件在增强功能的同时保持了 Neo 的视觉统一。",
-              "source_url": "https://9to5mac.com/2026/07/16/hands-on-satechis-new-color-matched-macbook-neo-accessories-add-ports-and-extra-functionality/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T23:00:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌准备让你通过速度、能量等自定义Gemini语音",
+              "brief": "谷歌正在为Gemini语音助手增加自定义选项，用户可调整语速、能量等参数。此前NotebookLM已更名为Gemini Notebook，并计划为AI Pro用户升级3.5+反重力功能。该功能预计于2026年7月16日推出。",
+              "source_url": "https://9to5google.com/2026/07/16/customize-gemini-voices/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-17T01:48:03+08:00"
+            },
+            {
+              "title": "今日安卓应用优惠和免费：洛克人X、小小大工坊、逆转裁判三部曲等",
+              "brief": "Nomad将25W Qi2 Stand One MagSafe充电站降价30%，Cosmic Orange创历史新低。此外还有多款安卓应用优惠，包括洛克人X、小小大工坊、逆转裁判三部曲等，优惠于2026年7月15日生效。",
+              "source_url": "https://9to5toys.com/2026/07/16/today-android-app-deals-mega-man-x/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-17T01:29:40+08:00"
+            },
             {
               "title": "YouTube Music 测试全屏封面艺术",
               "brief": "YouTube Music 正在测试在“正在播放”界面显示全屏封面艺术的功能。该功能旨在提升视觉体验，使专辑封面占据整个屏幕，背景颜色与封面匹配。目前处于测试阶段，仅部分用户可见。",
@@ -94,26 +122,19 @@
               "source_url": "https://9to5google.com/2026/07/16/notebooklm-gemini-notebook/",
               "source_name": "9to5Google",
               "published_at": "2026-07-17T00:00:00+08:00"
-            },
-            {
-              "title": "谷歌健康已修复导致 Fitbit 和 Pixel Watch 同步中断的故障",
-              "brief": "谷歌健康解决了导致 Fitbit 和 Pixel Watch 用户设备同步中断的故障。该故障影响数据同步功能，现已修复。用户无需手动操作，应用程序应自动恢复正常同步。",
-              "source_url": "https://9to5google.com/2026/07/16/google-health-outage-breaks-device-sync-for-all-fitbit-pixel-watch-users/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-16T23:53:14+08:00"
-            },
-            {
-              "title": "促销：基础款 Pixel 10 最高优惠 308 美元，谷歌 Nest Doorbell 仅 76 美元起，OmniBook X Flip OLED 二合一笔记本优惠 650 美元等",
-              "brief": "多款谷歌产品正在促销：基础款 Pixel 10 最高可享 308 美元折扣，谷歌 Nest Doorbell 起售价仅 76 美元，OmniBook X Flip OLED 二合一笔记本优惠 650 美元。此外还有其他设备折扣，活动限时进行。",
-              "source_url": "https://9to5google.com/2026/07/16/deals-base-pixel-10-google-nest-doorbell-omnibook/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-16T23:41:19+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "观测到岩石系外行星大气中的氦被剥离",
+              "brief": "天文学家在距地球约50光年的红矮星LHS 1140系统中，观测到其行星LHS 1140c的大气正在失去氦。该行星公转周期不足4天，接收的恒星辐射是地球的5倍。由于氦是较轻元素，容易从大气中逃逸，通过测量氦的流失速率，可以推断行星剩余大气的成分和状态。这一发现有助于理解行星大气演化，尤其是像地球这样的岩石行星如何从原始氢氦大气转变为次生大气。研究发表于《自然》杂志。",
+              "source_url": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-17T02:00:15+08:00"
+            },
             {
               "title": "一加终止在美欧发布手机，进一步减少智能手机选择",
               "brief": "一加确认将停止在北美和欧洲发布新手机，结束了数月来的猜测。该公司承诺继续为已售机型提供支持。一加于2014年以高性价比策略进入市场，但近年来逐渐将重心转向印度，并受母公司OPPO影响。一加15将是其在该地区的最后一款旗舰机，未来设备将改用OPPO的ColorOS系统。",
@@ -148,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌日历终于允许在手机上设置专注时间",
+              "brief": "谷歌日历正在为手机端增加创建专注时间的功能。此前，工作区用户只能在桌面网页版设置专注时间段，手机端仅支持编辑和删除。专注时间可屏蔽聊天和会议请求，帮助用户减少干扰。该功能目前仅限工作区用户使用。",
+              "source_url": "https://www.androidauthority.com/google-calendar-focus-time-3688339/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-17T02:34:03+08:00"
+            },
+            {
+              "title": "LG UltraGear 45英寸曲面OLED游戏显示器罕见降价33%",
+              "brief": "亚马逊上LG 45GX950A-B UltraGear OLED游戏显示器降至1349.99美元，比原价1999.99美元节省650美元，降幅33%。该显示器采用45英寸800R曲率OLED面板，分辨率5120x2160，支持双模式切换（165Hz全分辨率或330Hz低分辨率），响应时间0.03ms，配备DisplayPort 2.1和HDMI 2.1接口。用户评分4.4/5。",
+              "source_url": "https://www.androidauthority.com/lg-45-inch-ultragear-5k2k-curved-gaming-monitor-deal-3688340/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-17T01:11:48+08:00"
+            },
+            {
+              "title": "联想Tab Plus Gen 2平板电脑在美国上市，配备巨型扬声器",
+              "brief": "联想Tab Plus Gen 2平板电脑在美国和加拿大上市，售价399.99美元。该平板配备12.1英寸2.5K LCD屏幕（峰值亮度800尼特）、九扬声器JBL系统（支持杜比全景声和高解析音频），并可作为独立蓝牙音箱使用。搭载联发科Dimensity 7400芯片、10200mAh电池（支持45W快充），运行Android 16系统，承诺更新至Android 18。美版仅提供8GB内存和128GB存储版本。",
+              "source_url": "https://www.androidauthority.com/lenovo-tab-plus-gen-2-us-launch-3688281/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-17T00:58:00+08:00"
+            },
+            {
               "title": "海信50英寸E7影院系列Fire TV降至Prime Day历史低价",
               "brief": "亚马逊将海信50英寸E7影院系列Fire TV降至397.99美元，相比建议零售价699美元节省301美元，降幅达43%，并重回Prime Day历史最低价。该电视采用2026年款4K Mini-LED背光和Hi-QLED色彩技术，支持HDR10+ Adaptive、HDR10和HLG等主流HDR格式，144Hz刷新率使其在游戏和快速场景中表现更流畅。内置Fire TV和Alexa，用户评价4.4星（满分5星）。",
               "source_url": "https://www.androidauthority.com/hisense-50-inch-e7-cinema-series-4k-uhd-smart-fire-tv-deal-3688301/",
@@ -160,33 +202,33 @@
               "source_url": "https://www.androidauthority.com/google-ai-mode-connected-apps-3688202/",
               "source_name": "Android Authority",
               "published_at": "2026-07-17T00:00:47+08:00"
-            },
-            {
-              "title": "谷歌NotebookLM更名为Gemini Notebook",
-              "brief": "谷歌宣布将NotebookLM更名为Gemini Notebook，功能保持不变。此举旨在统一品牌，消除“LM”（语言模型）的冗余感。用户仍可从Gemini创建笔记本，并在Gemini Notebook中访问，两者自动同步。部分功能如视频概述仍为Gemini Notebook独有。谷歌还计划将Gemini Notebook集成到搜索的AI模式中，但未提供时间表。更名即日起生效。",
-              "source_url": "https://www.androidauthority.com/gemini-notebook-3688235/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-17T00:00:22+08:00"
-            },
-            {
-              "title": "三星确认Galaxy S26 Ultra屏幕发红为软件问题，将发布修复",
-              "brief": "部分三星Galaxy S26 Ultra用户反映屏幕出现红色区域。三星确认此为软件优化问题而非硬件故障，可通过优化色彩校正软件解决。目前用户需前往三星服务中心获取更新，但尚未广泛推送。此前用户担心是OLED面板过早老化，三星的解释消除了硬件缺陷的疑虑。",
-              "source_url": "https://www.androidauthority.com/galaxy-s26-ultra-red-fix-3688220/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-16T23:55:16+08:00"
-            },
-            {
-              "title": "亚马逊Tapo SolarCam太阳能摄像头降至119.99美元历史新低",
-              "brief": "亚马逊将Tapo SolarCam 1080p户外无线安防摄像头降至119.99美元，建议零售价179.99美元，节省60美元，降幅33%，创历史新低。该摄像头配备太阳能板，支持1080p实时画面、人体检测、彩色夜视、双向语音和防风雨设计，无需订阅云服务，支持本地存储。优惠需在页面点击优惠券。",
-              "source_url": "https://www.androidauthority.com/tapo-solarcam-deal-3688288/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-16T23:37:19+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "AMD Ryzen 7 7700X3D 芯片现已上市，售价329美元",
+              "brief": "AMD 于 5 月底预告的 Ryzen 7 7700X3D 处理器今日正式上市，售价 329 美元。该芯片采用 3D V-Cache 技术，拥有 8 核心、最高 4.5 GHz 加速频率和 120W TDP，旨在提供扎实的游戏性能。在第三季度，美国和加拿大消费者只能通过 Newegg 购买，其他地区则有更广泛的供货渠道。",
+              "source_url": "https://www.engadget.com/2216899/amd-ryzen-7-7700x3d-chip-now-available-for-329/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-17T02:44:25+08:00"
+            },
+            {
+              "title": "不必为 260 颗星链卫星脱轨的报道担忧",
+              "brief": "SpaceX 向 FCC 提交的半年度报告显示，2025 年 12 月至 2026 年 5 月期间，该公司主动让 260 颗星链卫星脱轨，包括 176 颗第一代和 84 颗第二代卫星。这一数量并非异常，此前 2024 年曾因识别出潜在故障而脱轨 406 颗。卫星设计为再入大气层时烧毁，但 SpaceX 承认部分组件（如太阳能电池硅片）可能幸存，预计仅有约 5% 的质量能残留。",
+              "source_url": "https://www.engadget.com/2212810/spacex-starlink-satellites-deorbit-reports/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-17T02:30:00+08:00"
+            },
+            {
+              "title": "Sonos 为应用带来标签导航、扬声器排序等功能",
+              "brief": "Sonos 发布应用更新，新增可选标签浏览功能，可在应用底部一键访问系统、搜索和主页。系统标签中可对扬声器进行排序（按字母、常用或正在播放），并可置顶设备。iOS 用户获得全新动态音量滑块，播放界面背景色随专辑封面变化，还可滑动删除收藏。更新还包含错误修复和性能改进，将在两周内逐步推送。",
+              "source_url": "https://www.engadget.com/2216827/sonos-app-update-tab-navigation-speaker-sorting-and-more/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-17T01:42:32+08:00"
+            },
             {
               "title": "谷歌AI模式现集成Canva、YouTube Music和Instacart",
               "brief": "谷歌AI模式本周在美国推出新集成，用户可连接Canva、YouTube Music和Instacart。通过AI模式，用户可直接在搜索中创建播放列表、设计传单和整理购物清单。例如，Gemini可根据提示生成YouTube Music播放列表，利用日历信息在Canva中设计派对传单，或为Instacart购物车添加食材。谷歌表示未来将与更多合作伙伴推出类似集成。",
@@ -200,20 +242,6 @@
               "source_url": "https://www.engadget.com/2216688/an-oled-ipad-mini-could-finally-arrive-this-year/",
               "source_name": "Engadget",
               "published_at": "2026-07-17T00:18:46+08:00"
-            },
-            {
-              "title": "谷歌NotebookLM更名为Gemini Notebook",
-              "brief": "谷歌深度研究工具NotebookLM正式更名为Gemini Notebook，以更好地融入谷歌AI产品线。新版本增加了本地编写和执行代码的功能，支持基于研究数据的复杂分析。未来还将允许用户将笔记带入谷歌搜索的AI模式。目前该工具拥有超过3000万个人用户和60万组织用户。此次更名并不意外，因为谷歌已于今年4月将该工具集成到Gemini应用中。",
-              "source_url": "https://www.engadget.com/2216473/google-notebooklm-is-now-gemini-notebook/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-17T00:00:00+08:00"
-            },
-            {
-              "title": "Suno将AI音乐生成功能引入iMessage",
-              "brief": "Suno为最新版iPhone应用添加iMessage集成，用户可在聊天中通过文本或语音提示生成30秒音乐片段。操作方式为点击聊天中的加号并选择Suno，可粘贴好友消息作为提示并选择风格。接收方需安装Suno应用才能收听。Suno的训练数据据称包含大量受版权保护的作品，引发争议。",
-              "source_url": "https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-16T22:50:00+08:00"
             }
           ]
         },
@@ -221,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Kalshi称发现特朗普提词器操作员内幕交易",
+              "brief": "据ABC新闻报道，联邦调查人员认为，自2016年起担任特朗普提词器操作员的加布里埃尔·佩雷斯利用内幕信息在预测市场平台Kalshi上押注特朗普演讲内容，获利10万美元。Kalshi提供“提及”市场，用户可预测高知名度人物在重大活动中的言论。佩雷斯被指控利用提前接触演讲内容的优势进行交易。",
+              "source_url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+              "source_name": "The Verge",
+              "published_at": "2026-07-16T14:43:14-04:00"
+            },
+            {
+              "title": "纽约州长称用AI分析州内所有法规",
+              "brief": "纽约州长凯西·霍楚尔在彭博Odd Lots播客中表示，其团队使用人工智能审查州内每一条规则、法规和政策，以发现过时立法。例如，带狗打猎需缴纳25美元费用、孕妇午夜后工作需许可证等。霍楚尔称，人工审查需五年，而AI仅用数月完成，这将帮助她和州机构精简法规。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+              "source_name": "The Verge",
+              "published_at": "2026-07-16T13:58:37-04:00"
+            },
+            {
+              "title": "科沃斯自清洁Deebot X11降至新低价",
+              "brief": "科沃斯Deebot X11扫拖一体机器人现售价699美元，较原价降400美元，创历史新低。该机型配备19500Pa吸力、自清洁拖布、自动烘干及越障功能。虽已非榜单首选，但性价比突出，尤其适合追求便捷清洁的用户。",
+              "source_url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-07-16T13:57:15-04:00"
+            },
+            {
+              "title": "谷歌更擅长玩AI监管游戏",
+              "brief": "欧盟要求谷歌向AI竞争对手开放安卓系统，同时苹果需在Siri AI发布前确保合规。尽管谷歌看似失利，实则获得缓冲期，展现了更精明的监管应对策略。分析认为，谷歌通过巧妙周旋布鲁塞尔规则，在与苹果的监管博弈中占据优势。",
+              "source_url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-07-16T12:55:54-04:00"
+            },
+            {
               "title": "Roblox 将允许用户通过手机使用 AI 制作游戏",
               "brief": "Roblox 宣布推出名为 Build 的新功能，用户可在其移动应用中通过文本提示直接创建游戏，这是该公司在 AI 领域的最新举措。此前 Roblox 已预览了类似谷歌 Project Genie 的 AI 世界模型、用于生成 3D 游戏资产的 AI 基础模型，以及辅助开发者构建游戏的 AI 聊天机器人。Build 功能使 AI 游戏开发更加便捷，但初期规模较小。",
               "source_url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
               "source_name": "The Verge",
               "published_at": "2026-07-16T12:45:29-04:00"
-            },
-            {
-              "title": "谷歌将 NotebookLM 更名为 Gemini Notebook",
-              "brief": "谷歌于周四宣布将其 AI 笔记应用 NotebookLM 更名为 Gemini Notebook，但仍作为独立应用运行，同时与 Gemini 和谷歌搜索更深度整合。该应用最初于 2023 年 5 月以 Project Tailwind 名称亮相，随后迅速发布。谷歌计划将笔记本功能引入搜索中的 AI Mode，并已开始允许用户将笔记本连接到 Gemini 应用。此次更名还伴随一项更新，使 Gemini Notebook 能连接安全云计算机以编写内容。",
-              "source_url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-              "source_name": "The Verge",
-              "published_at": "2026-07-16T12:00:00-04:00"
-            },
-            {
-              "title": "《Splatoon Raiders》实体版预购优惠即将结束",
-              "brief": "《Splatoon Raiders》将于 7 月 23 日发售，实体版预购可享 10 美元折扣，但优惠即将截止。数字版售价 49.99 美元，沃尔玛预购实体版同价，而亚马逊已恢复原价 59.99 美元。此前任天堂宣布部分 Switch 2 数字版游戏比实体版便宜 10 美元，但《Yoshi and the Mysterious Book》等游戏在预购阶段曾以相同价格销售。",
-              "source_url": "https://www.theverge.com/gadgets/966478/splatoon-raiders-preorder-the-sopranos-4k-bluray-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-16T11:42:07-04:00"
-            },
-            {
-              "title": "调查确认德州致命事故中特斯拉驾驶员完全踩下油门踏板覆盖 FSD",
-              "brief": "美国国家运输安全委员会初步报告确认，在德州一起致命事故中，特斯拉驾驶员通过将油门踏板踩至 100% 手动覆盖了全自动驾驶系统。事故车辆为 Model 3，撞击时速度超过 70 英里/小时。6 月，44 岁的 Michael Butler 驾车冲入凯蒂市一处住宅，导致屋内 76 岁的 Martha Avila 死亡。事发道路限速 30 英里/小时，天气晴朗，路面干燥。",
-              "source_url": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
-              "source_name": "The Verge",
-              "published_at": "2026-07-16T11:41:09-04:00"
-            },
-            {
-              "title": "苹果 OLED iPad Mini 升级在即，价格持续上涨",
-              "brief": "据彭博社 Mark Gurman 报道，iPad Mini 可能最早于 10 月获得 OLED 显示屏升级，这将是自 2021 年重新设计以来最重大的更新。此前有传言称 OLED iPad Mini 将伴随价格上涨，而苹果上个月已因 RAM 短缺将全系产品提价，当前 iPad Mini 售价上涨了 100 美元。苹果还计划未来为 iPad Air 升级 OLED 屏幕。",
-              "source_url": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
-              "source_name": "The Verge",
-              "published_at": "2026-07-16T11:04:12-04:00"
             }
           ]
         }
@@ -265,6 +293,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Saber新高管回应《战锤40K：星际战士3》收费担忧，暗示2028年发售窗口，或包括《KOTOR重制版》",
+              "brief": "Saber Interactive新任高管Timothy Allison在Reddit上回应玩家对《战锤40K：星际战士3》收费模式的担忧，表示公司将继续坚持不采用微交易，并暗示2028年的产品线包括《星际战士3》、《疾速追杀》游戏，以及希望推出的《星球大战：旧共和国武士重制版》。Allison强调其职责并非通过激进手段榨取利润，并提及Saber的自发行计划。此前，部分玩家因Allison的任命而担心游戏收费会变得更激进。",
+              "source_url": "https://www.ign.com/articles/new-saber-exec-moves-to-reassure-fan-worried-about-warhammer-40000-space-marine-3-monetization-ends-up-suggesting-a-2028-launch-window-that-may-even-include-the-kotor-remake",
+              "source_name": "IGN",
+              "published_at": "2026-07-17T00:47:23+08:00"
+            },
+            {
+              "title": "孩之宝将推出《塞尔达传说》玩具，真人电影上映在即",
+              "brief": "任天堂与孩之宝宣布达成多年合作，将于2027年开始推出《塞尔达传说》系列玩具。首批三款6英寸人偶将在2026年圣地亚哥国际动漫展上展出，恰逢真人电影《塞尔达传说》定于2027年4月30日上映。孩之宝玩具及棋盘游戏总裁表示，将结合任天堂的叙事与孩之宝的玩具设计，为粉丝带来沉浸式体验。目前尚未公布具体角色或场景，但粉丝期待在动漫展上看到林克、塞尔达等角色的新形象。",
+              "source_url": "https://www.ign.com/articles/the-legend-of-zelda-toys-on-the-way-from-hasbro-as-live-action-movie-looms",
+              "source_name": "IGN",
+              "published_at": "2026-07-17T00:03:34+08:00"
+            },
+            {
+              "title": "PS5独占《致命躯壳2》珍藏版售罄，玩家以此向索尼施压要求保留实体光盘",
+              "brief": "《致命躯壳2》PS5独占实体珍藏版Revered Edition在预购开启8天后售罄，发行商Playstack表示补货可能性极低。由于索尼计划从2028年起停止生产新PlayStation游戏光盘，玩家利用此事件在社交媒体上表达不满，要求索尼撤销该决定。珍藏版内含游戏光盘、艺术集、铁盒等，标准版仍可购买。玩家认为实体版需求旺盛证明光盘仍有市场，索尼不应放弃实体介质。",
+              "source_url": "https://www.ign.com/articles/the-special-ps5-only-physical-revered-edition-of-mortal-shell-2-has-sold-out-and-fans-are-sending-the-news-sonys-way-as-they-continue-to-push-for-a-u-turn-on-killing-discs",
+              "source_name": "IGN",
+              "published_at": "2026-07-16T23:45:24+08:00"
+            },
             {
               "title": "玩家意外发现秘密宝箱，《刺客信条：黑旗 重制版》寻宝活动取消",
               "brief": "《刺客信条：黑旗 重制版》本周的社区寻宝活动因一名玩家在官方线索发布前意外找到了隐藏宝箱而取消。该宝箱内含有主角爱德华·肯威的一套稀有服装，玩家此前认为该服装未被收录进重制版。育碧原计划通过线索引导玩家寻找宝箱，但由于被提前发现，活动被迫终止。",
@@ -278,27 +327,6 @@
               "source_url": "https://www.ign.com/articles/fortnites-skimpy-new-poison-ivy-and-harley-quinn-swimwear-skins-are-locked-to-modes-rated-13",
               "source_name": "IGN",
               "published_at": "2026-07-16T22:55:59+08:00"
-            },
-            {
-              "title": "《幻兽帕鲁》新帕鲁Panthalus引发与宝可梦盖欧卡的抄袭争议",
-              "brief": "《幻兽帕鲁》新帕鲁Panthalus因其蓝绿色鲸鱼外形、白色腹部、展开的鳍和部落纹样，被部分玩家认为与宝可梦盖欧卡极为相似，引发抄袭争议。支持方指出两者艺术风格相近，反对方则认为仅有概念相似。帕鲁设计此前已多次被质疑模仿宝可梦，而本次争论正值多只帕鲁悄然修改设计的时期。",
-              "source_url": "https://www.ign.com/articles/clearly-inspired-by-kyogre-palworld-creature-panthalus-renews-pokemon-copying-debate",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T22:35:54+08:00"
-            },
-            {
-              "title": "《使命召唤：现代战争4》推出阿斯顿·马丁定制战术SUV“无畏号”",
-              "brief": "《使命召唤：现代战争4》与阿斯顿·马丁合作，为游戏设计了一款名为“无畏号”的定制战术SUV。该车将在DMZ模式和战区模式中登场，融合超级跑车性能、先进装甲技术和自适应战斗情报系统。设计细节包括碳纤维编织纹理、牛津棕皮革内饰和金色挡杆，同时配备军用级装甲板。其名称源自20世纪初英国战舰HMS Dreadnought。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-has-a-bespoke-tactical-suv-designed-by-aston-martin-its-called-dreadnought-and-weve-got-a-first-look",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T22:15:00+08:00"
-            },
-            {
-              "title": "前《赛博朋克2077》开发者打造的第一人称解谜游戏《Cognition Method》公布PC版",
-              "brief": "由前CD Projekt Red环境艺术家Timur Ozdoev领衔的三人工坊Team Cognition开发的第一人称解谜游戏《Cognition Method》公布，将于9月1日登陆PC。游戏以太空飞船为背景，围绕神秘立方体展开，谜题涉及重力变化机制。视觉风格受《2001太空漫游》和建筑师安藤忠雄的极简主义启发，强调独特且深刻的叙事体验。",
-              "source_url": "https://www.ign.com/articles/cognition-method-a-first-person-puzzle-game-from-an-ex-cyberpunk-2077-developer-announced-for-pc",
-              "source_name": "IGN",
-              "published_at": "2026-07-16T22:00:00+08:00"
             }
           ]
         },
