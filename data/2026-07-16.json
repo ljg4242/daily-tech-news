@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T16:50:15.939877+08:00",
+  "generated_at": "2026-07-16T18:51:44.771480+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果据称增加可折叠iPhone的均热板订单",
+              "brief": "据中国爆料者称，苹果已增加用于可折叠iPhone和20周年纪念iPhone的均热板冷却组件订单。这些组件将首先用于预计9月发布的“iPhone Ultra”折叠机，2026年产量目标约1000万部，高于此前预测的700-800万部。爆料者称苹果在散热工程上“全力以赴”，因为折叠设计内部空间有限，散热挑战更大。苹果去年在iPhone 17 Pro上首次引入均热板冷却，而20周年机型预计采用四曲面玻璃边框设计，也可能需要更先进的冷却系统。",
+              "source_url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-16T18:46:26+08:00"
+            },
             {
               "title": "如何安装 macOS 27 Golden Gate 公测版",
               "brief": "苹果已发布 macOS 27 Golden Gate 首个公测版，供用户在秋季正式版推出前测试。安装前需注意，苹果不建议在主用 Mac 上安装测试版系统，因为可能存在影响软件正常运行或导致其他问题的错误。用户可通过注册苹果免费的 Beta 软件计划来安装。该版本引入了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，可通过 Command+Space 快捷键调用，支持搜索网页、查找照片和邮件中的信息、屏幕智能识别以及跨应用操作。此外，去年引入的 Liquid Glass 设计得到改进，新增透明度滑块，优化了不透明度和界面层次感。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
               "source_name": "MacRumors",
               "published_at": "2026-07-16T07:14:33+08:00"
-            },
-            {
-              "title": "苹果关闭T-Mobile和Verizon分期付款购买无锁iPhone的漏洞",
-              "brief": "苹果公司调整政策，通过T-Mobile或Verizon分期付款购买的iPhone将被锁定至该运营商，不再默认无锁。此前，用户利用此方式可获得无锁iPhone，但新规要求付清全款后才能解锁。AT&T分期付款的iPhone一直锁定。这一变化在Reddit上引发关注，苹果官方FAQ已更新说明。虽然购买时仍显示无锁，但新政策可能尚未完全生效。",
-              "source_url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-16T06:20:40+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "安全咬一口播客：苹果在监控你的每次点击",
+              "brief": "在最新一期安全咬一口播客中，Mysk 团队再次做客，深入探讨了 App Store 如何记录用户的每一次点击，以及为何研究人员纷纷公开退出苹果的漏洞赏金计划。同时，Mysk 还介绍了其新推出的免费开源应用 Loupe，该应用能够清晰展示 iOS 的 API 正在共享哪些用户信息。",
+              "source_url": "https://9to5mac.com/2026/07/16/security-bite-podcast-apple-is-watching-your-taps/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-16T17:30:00+08:00"
+            },
             {
               "title": "苹果商店2026年返校季活动启动：购买Mac或iPad最高获150美元礼品卡",
               "brief": "苹果商店于2026年7月16日在美国启动返校季促销活动，学生购买MacBook Air、iPad Pro和iPad Air可获最高150美元礼品卡。该活动持续至2026年8月27日，其他国际市场也将陆续推出。礼品卡与教育折扣叠加使用，例如学生购买MacBook Air可享1199美元优惠价（比零售价低100美元）并获100美元礼品卡。要获得150美元礼品卡，需在教育商店购买至少1899美元的14英寸M5 MacBook Pro。参与产品仅限MacBook Air、MacBook Pro、iPad Pro和iPad Air，Mac台式机、新款MacBook Neo、iPhone、Watch等不参与。所有参与产品几周前因内存组件价格上涨而提价超150美元。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/15/apple-faces-new-questions-from-brazil-over-betting-apps-accessible-to-minors/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-16T03:23:20+08:00"
-            },
-            {
-              "title": "Apple Maps上线时禁止这些类别的广告",
-              "brief": "苹果更新了Apple广告服务政策，明确Apple Maps广告将禁止家装服务、保释金和加密货币ATM三类广告。苹果今年3月宣布在Apple Maps搜索结果顶部和“推荐地点”组件中投放广告，并在iOS 26.5中奠定了基础。新政策还规定医疗广告需逐案评估。值得注意的是，家装服务是谷歌地图的主要广告类别，但苹果无意涉及。此举表明Apple Maps广告即将上线。",
-              "source_url": "https://9to5mac.com/2026/07/15/apple-maps-wont-allow-ads-from-these-categories-at-launch/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-16T03:14:31+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "T-Mobile、Verizon与AT&T：新报告揭示哪家运营商提供最佳5G体验",
-              "brief": "Ookla发布2026年上半年移动网络报告，比较美国三大运营商。结果显示，Verizon在多项指标中胜出，包括网络响应、数据和视频性能，并获得“最佳5G体验”称号。AT&T在通话性能上独占鳌头，T-Mobile则在网络速度和短信性能上获奖。三家运营商在5G整体速度上并列第一。",
-              "source_url": "https://www.androidauthority.com/t-mobile-verizon-att-network-report-ookla-3688072/",
+              "title": "作为折叠屏爱好者，我对更宽的Galaxy Z Fold 8感到担忧",
+              "brief": "三星即将在7月22日的Galaxy Unpacked活动上发布新一代折叠屏手机。据泄露信息，三星计划将Galaxy Z Fold 7的继任者更名为Galaxy Z Fold 8 Ultra，同时推出一款标准版Galaxy Z Fold 8，旨在直接与苹果传闻中的折叠iPhone竞争。然而，作者认为这一策略可能重蹈Galaxy S25 Edge的覆辙——后者为抢占先机而提前推出，但市场表现不佳。作者担心更宽的设计会牺牲用户体验，并质疑三星是否在重蹈覆辙。",
+              "source_url": "https://www.androidauthority.com/im-worried-wide-galaxy-z-fold-8-huge-mistake-3686949/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-16T16:34:19+08:00"
+              "published_at": "2026-07-16T18:30:11+08:00"
             },
             {
-              "title": "Bixby突然对部分Galaxy用户停止语音回应，三星无法解释原因",
-              "brief": "部分三星用户报告Bixby无法响应语音指令，仅以文本形式显示回复。该问题主要集中在韩国，影响范围较小。One UI 8.5更新曾修复类似问题，但仍有用户即使在最新系统下仍遇到故障。三星支持人员已要求受影响用户提交日志，但尚未确认根本原因。",
-              "source_url": "https://www.androidauthority.com/bixby-voice-commands-not-working-3688065/",
+              "title": "YouTube Music正在测试全屏专辑封面，但用户尚无法使用",
+              "brief": "YouTube Music正在测试全屏专辑封面功能，旨在改进当前播放界面的视觉效果。目前该功能处于有限测试阶段，未在测试设备上出现。全屏封面在Apple Music等应用中已成为标配，而YouTube Music的缩略图设计显得过时。尽管测试可能不会最终落地，但用户希望Google能正式推出这一改进。",
+              "source_url": "https://www.androidauthority.com/youtube-music-full-screen-album-art-3688121/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-16T16:03:18+08:00"
+              "published_at": "2026-07-16T18:26:22+08:00"
             },
             {
-              "title": "Gemini Spark新增更多功能并提升速度",
-              "brief": "谷歌扩展Gemini Spark至更多地区（除英国、欧洲经济区、尼日利亚和瑞士），并增加Workspace能力，如读取Sheets和Slides评论、编辑共享文档。Spark速度提升超过50%，可并行处理多源数据。目前仅限AI Ultra订阅用户使用，但谷歌副总裁暗示AI Pro用户即将获得访问权限。",
-              "source_url": "https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/",
+              "title": "Oura Ring 5：首款真正融入日常且值得购买的智能戒指",
+              "brief": "Oura Ring 5在保持出色电池续航和可靠传感器的基础上，大幅缩小了体积，提升了佩戴舒适度。它支持精准的心率、心率变异性和睡眠追踪，并新增主动健康洞察功能。起售价399美元，需订阅服务。尽管价格高昂且非运动专用，但其精致的设计和全天候佩戴体验使其成为目前最值得推荐的智能戒指。",
+              "source_url": "https://www.androidauthority.com/oura-ring-5-review-3681682/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-16T15:10:53+08:00"
+              "published_at": "2026-07-16T18:15:05+08:00"
             },
             {
-              "title": "摩托罗拉新旗舰杀手手机看起来很棒，但糟糕的更新政策令人失望",
-              "brief": "摩托罗拉Edge 70 Max搭载高通最新旗舰芯片、大容量硅碳电池、超快充电和Qi2.2磁吸无线充电，硬件配置出色，在英国售价约700英镑（约合947美元）。然而，其软件支持政策严重拖后腿：官方承诺仅提供两次Android大版本升级和三年安全更新。该机出厂预装Android 16，因此仅能升级至Android 18。相比之下，许多同价位甚至更便宜的Android设备已提供更长的支持周期，例如旗舰机型普遍承诺七年更新，中端机型也常提供四次以上大版本升级。",
-              "source_url": "https://www.androidauthority.com/motorola-edge-70-max-software-updates-3688045/",
+              "title": "未发布的Googlebook配件泄露了谷歌的生态系统计划",
+              "brief": "一份技术清单和用户手册揭示了联想AI鼠标M830，该鼠标带有“Googlebook”品牌标识。这款59克的无线鼠标配备RGB灯带、专用“AI键”和USB-C充电口，可能支持Googlebook的Magic Pointer功能。该配件表明谷歌即将推出的Android笔记本电脑平台将拥有专属外设生态。首批Googlebook笔记本电脑将于今年秋季上市。",
+              "source_url": "https://www.androidauthority.com/lenovo-ai-mouse-googlebook-leak-3688092/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-16T12:45:54+08:00"
+              "published_at": "2026-07-16T18:14:03+08:00"
             },
             {
-              "title": "一加关闭传闻再爆新料：OPPO同时收缩真我品牌",
-              "brief": "彭博社最新报道称，OPPO正准备逐步关闭一加在中国以外的业务，同时收缩旗下另一智能手机品牌真我。报道指出，真我将退出中国市场，但未来在印度等市场的前景尚不明朗。此外，OPPO计划将真我销售重点放在北欧地区。报道援引知情人士称，这一调整源于OPPO手机业务面临的财务挑战，以及在美国、欧洲和印度等市场增长放缓及地缘政治担忧。一加最早将于本周开始缩减在美欧业务，预计到2027年停止在印度等大部分国际市场的运营，仅保留中国市场。目前OPPO、一加和真我均未对此置评。",
-              "source_url": "https://www.androidauthority.com/oneplus-realme-shutdown-3688034/",
+              "title": "摩托罗拉是时候终结2026年最糟糕的智能手机趋势之一了",
+              "brief": "智能手机新增专用AI按键的趋势正引发争议。摩托罗拉Razr Fold上的AI键仅能调用有限的AI功能，且不可自定义，远不如苹果Action Button或一加Plus Key实用。作者认为，这类按键缺乏灵活性，用户无法自由映射操作，呼吁摩托罗拉及其他厂商摒弃这一设计，转而提供更通用的可编程按键。",
+              "source_url": "https://www.androidauthority.com/its-time-motorola-killed-ai-key-3685607/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-16T10:19:47+08:00"
+              "published_at": "2026-07-16T18:00:11+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "监督委员会称主流AI模型可能限制言论自由",
+              "brief": "Meta创建的独立内容审核机构监督委员会发布报告，指出主流AI模型可能限制用户自由表达。该委员会正试图将其影响力从Meta扩展至其他公司。研究测试了OpenAI、Meta、Google等10个模型对政治批评类提示的响应，发现模型更倾向于支持言论自由法律宽松的政府，并建议用户不要抗议言论限制严格的政府，差异具有统计显著性。模型常引用当地法律作为拒绝理由，但提示实际在澳大利亚发出，当地并无此类法律。委员会联合主席表示这看起来像是跨境的代理审查。",
+              "source_url": "https://www.engadget.com/2216274/the-oversight-board-says-leading-ai-models-might-be-restricting-free-expression/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-16T18:00:00+08:00"
+            },
+            {
+              "title": "Netflix推出《怪奇物语》第一季VHS画质版本",
+              "brief": "Netflix发布了《怪奇物语》第一季的VHS特别版，旨在营造怀旧体验。该版本采用4:3画幅比，画面颗粒感强且模糊，模拟了老式VHS录像带效果，包括平移扫描技术。杜弗兄弟表示，如果《怪奇物语》存在于霍金斯镇的Family Video店，看起来就是这样的。Netflix的开场动画也做了复古处理，但音频无变化。若观看量足够，未来可能推出其他季的VHS版。用户可在Netflix上搜索“Stranger Things VHS”观看。",
+              "source_url": "https://www.engadget.com/2216396/netflix-stranger-things-vhs-quality/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-16T17:19:06+08:00"
+            },
+            {
+              "title": "一加正式退出美国和欧洲市场",
+              "brief": "一加与OPPO联合宣布，一加将不再在北美和欧洲推出新设备。两公司将其定位为战略调整，但未明确一加是否在其他地区继续运营。OPPO将整合一加的能力、技术和产品理念，一加联合创始人刘作虎近期重返OPPO担任首席产品官。现有用户权益得到保障，包括售后、软件更新和服务渠道。未来数月内，一加设备将改用OPPO的ColorOS。OPPO表示欧洲仍是关键市场，但未计划进入美国。",
+              "source_url": "https://www.engadget.com/2213731/oneplus-is-officially-leaving-the-us-and-europe/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-16T17:00:00+08:00"
+            },
             {
               "title": "xAI 起诉 Grok 用户生成未经同意的色情深度伪造内容",
               "brief": "xAI 对南卡罗来纳州 67 岁男子 Terry Wayne Harwood 提起诉讼，指控其利用 Grok 生成未经同意的性化深度伪造内容。被告于 2025 年 12 月 8 日至 2026 年 2 月 18 日期间上传多名成人和儿童的非性化照片，并指示 Grok 以“色情方式”修改或生成新图像和视频。xAI 表示 Grok 多次拒绝其提示，但被告不断修改请求以绕过安全措施。例如，被告上传一名约 10-11 岁女孩的照片，要求 Grok 去除其衣物并摆出“《花花公子》模特姿势”，遭拒后仍持续提交修改请求。这是 AI 公司首次起诉其用户，表明 xAI 将对滥用 Grok 的行为采取法律行动。此前 Grok 被曝允许用户将真实女性及儿童照片转化为性化图像，引发多国监管机构调查。",
@@ -181,33 +202,19 @@
               "source_url": "https://www.engadget.com/2216377/applecare-plus-prices-just-went-up-for-macs-and-ipads/",
               "source_name": "Engadget",
               "published_at": "2026-07-16T15:47:02+08:00"
-            },
-            {
-              "title": "Skullcandy Crusher 1080 评测：触觉低音与轻声降噪的结合",
-              "brief": "Skullcandy 推出旗舰耳机 Crusher 1080，搭载 Bose 的 QuietControl 主动降噪、TrueSpatial 定向音频和 WaveForm 调音，在保持标志性触觉低音系统的同时提升音质。该耳机售价约 270 美元，具备 60 小时续航、快充、多点蓝牙和 Auracast 等功能。评测认为其降噪和音质平衡良好，低音体验独特，但设计略显过时且较重，长时间佩戴可能不适。",
-              "source_url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-16T08:00:00+08:00"
-            },
-            {
-              "title": "马斯克收购燃气轮机公司",
-              "brief": "埃隆·马斯克在今年早些时候悄然收购了APR能源公司，该公司生产可安装在拖车上的移动式燃气和柴油涡轮机。此举并未公开宣布，直到近期才被媒体发现，收购估值约10亿美元。最可能的用途是为AI数据中心供电，因为训练AI模型需要大量能源。此前马斯克的xAI因在密西西比州的数据中心使用移动涡轮机而被指控违反《清洁空气法》，而自诉讼以来该数据中心的涡轮机数量显著增加。马斯克还计划在德克萨斯州建设天然气管道。这一投资与马斯克十年前称化石燃料为“史上最愚蠢实验”的言论形成鲜明对比。",
-              "source_url": "https://www.engadget.com/2216186/elon-musk-bought-a-gas-turbine-company/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-16T05:41:52+08:00"
-            },
-            {
-              "title": "三星不确定部分Galaxy S26 Ultra屏幕变红的原因",
-              "brief": "部分Galaxy S26 Ultra用户报告屏幕出现红色调，甚至中心有粉色矩形。该问题最早于3月设备发布后出现，许多用户反映在使用数月后逐渐显现。三星已确认存在此缺陷，但表示正在内部调查原因。有猜测认为可能与隐私显示功能有关，该功能曾导致部分用户出现眼部不适。",
-              "source_url": "https://www.engadget.com/2216077/samsung-galaxy-s26-ultra-screens-turning-red-not-sure-why/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-16T04:14:57+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "一加正式退出美国和欧洲市场",
+              "brief": "一加确认将退出美国和欧洲市场，不再在该地区推出新产品。母公司OPPO承诺将继续提供现有设备的支持和保修服务，未来软件更新将转向OPPO的ColorOS。OPPO欧洲高级公关经理表示，软件更新和售后支持将得到保障，但未具体说明在美国如何履行保修协议。一加15是其在美国的最后一款旗舰机型。",
+              "source_url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+              "source_name": "The Verge",
+              "published_at": "2026-07-16T05:00:00-04:00"
+            },
             {
               "title": "Skullcandy Crusher耳机新增Bose主动降噪功能",
               "brief": "Skullcandy发布了新款Crusher 1080 ANC无线耳机，采用Bose的QuietControl主动降噪和头部追踪空间音频技术。该系列耳机以独立低音单元著称，但重低音时易失真，新款通过Bose技术改善音质。耳机售价279.99美元，今日起有黑、糖果、底漆和水泥色可选。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
               "source_name": "The Verge",
               "published_at": "2026-07-15T18:16:46-04:00"
-            },
-            {
-              "title": "xAI起诉用户利用Grok生成儿童性虐待深度伪造内容",
-              "brief": "埃隆·马斯克旗下的xAI起诉南卡罗来纳州男子特里·哈伍德，指控其故意绕过Grok聊天机器人的安全措施，生成和传播儿童性虐待材料（CSAM）。哈伍德已于2月因涉嫌持有和传播CSAM被捕，面临八项重罪指控。xAI要求赔偿声誉和法律损失。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-              "source_name": "The Verge",
-              "published_at": "2026-07-15T17:33:20-04:00"
             }
           ]
         },
@@ -334,6 +334,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "马能识别屏幕上的捕食者，心跳加速但表情镇定",
+              "brief": "发表在《PLOS One》上的一项新研究发现，马不依赖声音、气味或过往经验就能识别屏幕上的捕食者。传感器显示，马看到屏幕上的狼后心跳会加速，但面无表情，十分镇定，没有摇头、摇尾或锁定目光等行为。论文第一作者Zeynep Benderlioglu称，马在评估潜在威胁时展现出惊人的认知克制而非惊吓。实验中，马看到狼时心率显著加快，雄性反应更强，而看到袋熊时心率平稳。Benderlioglu表示，马的认知处理能力出乎意料地高。",
+              "source_url": "https://www.solidot.org/story?sid=84847",
+              "source_name": "Solidot",
+              "published_at": "2026-07-16T17:23:32+08:00"
+            },
+            {
               "title": "图书出版商指控谷歌在训练Gemini过程中大规模侵犯版权",
               "brief": "大型图书出版商Hachette、Cengage和Elsevier以及作家Scott Turow指控谷歌在训练其AI模型Gemini时，未经许可使用了数百万受版权保护的图书。出版商称，谷歌挪用了原本用于Google Books、Google Play Books和Google Scholar等服务的图书，这些服务仅允许显示片段或销售电子书，而非用于训练商业AI产品。诉讼书指出，谷歌放弃了“不作恶”的座右铭，可能面临1000亿美元的潜在罚款，且内部早已认识到该问题。",
               "source_url": "https://www.solidot.org/story?sid=84846",
@@ -360,13 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=84843",
               "source_name": "Solidot",
               "published_at": "2026-07-16T14:24:20+08:00"
-            },
-            {
-              "title": "IBM称客户倾向于采购AI硬件而不是大型机",
-              "brief": "IBM公布不及预期的季度业绩初步报告，原因是客户将原计划采购Z系列大型机的费用用于囤积AI硬件，包括服务器、存储和内存，导致大型机收入下滑。IBM股价因此暴跌25%以上，基础设施业务收入下滑7%，配套的交易处理软件销售收入也受影响。IBM CEO Arvind Krishna将这一切归因于客户竞相采购AI硬件。",
-              "source_url": "https://www.solidot.org/story?sid=84842",
-              "source_name": "Solidot",
-              "published_at": "2026-07-15T23:03:11+08:00"
             }
           ]
         },
@@ -407,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "丰田车体在日本召回11467辆COMS超小型电动汽车，涉及近13年产品",
-              "brief": "丰田车体宣布在日本召回11467辆单人超小型电动汽车COMS，涉及2009年至2022年生产的车型。原因是部分车辆手刹本体内部零件可能损坏，导致手刹无法完全释放；另一些车辆钢缆导向支架焊接不足，可能出现焊缝脱落，使手刹钢索卡入，增加手刹拉动行程。丰田车体将为所有涉事车辆免费更换手刹本体、钢索和支架。",
-              "source_url": "https://www.ithome.com/0/977/581.htm",
+              "title": "安全公司曝光黑客在 GitHub 建立近 300 个山寨仓库传播木马",
+              "brief": "安全公司 Arctic Wolf 发现，黑客在 GitHub 上创建了近 300 个山寨仓库，通过 README 文件中的恶意链接诱导用户下载包含 BoryptGrab 木马的钓鱼文件。该木马内置 11 个信息窃取模块，可窃取浏览器密码、加密货币钱包数据以及 Telegram、Discord 等平台的账号信息，还能截屏并上传 Windows 凭据。目前大部分恶意仓库已被移除，但仍有数十个漏网，且钓鱼服务器仍在运行。",
+              "source_url": "https://www.ithome.com/0/977/724.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T16:45:06+08:00"
+              "published_at": "2026-07-16T18:31:08+08:00"
             },
             {
-              "title": "小米米家中央空调风管机巨省电Pro 3匹/4匹上架预售，国补价5609元起",
-              "brief": "小米上架预售米家中央空调风管机巨省电Pro，提供3匹和4匹版本，国补后售价分别为5609元和6459元。该产品采用三排蒸发器和大双排冷凝器，换热面积提升18%；配备高效双缸压缩机，低频运行至8Hz；搭载556mm大直径风轮，外机风量提升11%。最大制冷量9800W，最大制热量13800W，支持-35℃至65℃宽温域运行。标配智能空气管理面板，支持小米澎湃智联，可接入米家App控制，并提供整机10年免费包修。",
-              "source_url": "https://www.ithome.com/0/977/580.htm",
+              "title": "雷军：70% 小米车主每周行驶里程不超过 400 公里",
+              "brief": "雷军透露，70% 的小米车主每周行驶里程不超过 400 公里，意味着增程式车型可满足一周一充需求。同时，小米澎程系列车型续航信息公布，全系最长 CLTC 纯电续航 505km，最大电池容量 76kWh。该系列四款车型均为插电式增程混合动力，搭载东安动力发动机，最高车速 190km/h。",
+              "source_url": "https://www.ithome.com/0/977/722.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T16:45:03+08:00"
+              "published_at": "2026-07-16T18:15:07+08:00"
             },
             {
-              "title": "华为撤回“世界”商标申请，该商标原涉及汽车等类别",
-              "brief": "华为于2026年5月13日进入初审公告的“世界”商标申请已被撤回。该商标国际分类为第12类，涵盖汽车、运载工具内装饰品、儿童安全座椅等。华为此前还申请了“仙界”、“天界”等汽车类商标，部分可能出于防御性目的。此次撤回的具体原因尚未披露。",
-              "source_url": "https://www.ithome.com/0/977/578.htm",
+              "title": "微软 Entra ID 将于 9 月起默认使用 Passkey，明年停止短信验证码",
+              "brief": "微软宣布，从 2026 年 9 月起，Microsoft Entra ID 将默认使用 Passkey 通行密钥进行身份验证，并于 2027 年 2 月 1 日起停止提供短信及语音验证码服务。目前仍使用短信或语音验证的用户需在截止日期前转用 Passkey，或自行联系第三方服务商付费部署。此调整仅适用于公有云环境中的 Entra ID。",
+              "source_url": "https://www.ithome.com/0/977/719.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T16:44:04+08:00"
+              "published_at": "2026-07-16T18:11:50+08:00"
             },
             {
-              "title": "百度寻求于香港联交所主板自愿转换为双重主要上市",
-              "brief": "百度宣布，寻求于香港联合交易所有限公司主板自愿转换为双重主要上市。转换后，百度将成为在港交所和纳斯达克双重主要上市的公司，A类普通股和美国存托股可互相转换。目前百度在香港为二次上市，不符合纳入港股通条件。若转换成功并获港股通资格，将有助于提升证券流动性，扩大投资者基础。",
-              "source_url": "https://www.ithome.com/0/977/577.htm",
+              "title": "国产电风扇订单激增加速出海，推出按天付费模式",
+              "brief": "全球高温推动国产电风扇出口激增，上半年空调、电扇等清凉家电合计出口 1079.1 亿元。为适应海外用户支付习惯，企业推出 Pay Go（即付即用）模式：用户支付定金后分次充值使用，输入对应天数的密码即可使用，满 365 天后产品归用户所有。目前自主品牌已占出口家电的四分之一。",
+              "source_url": "https://www.ithome.com/0/977/703.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T16:43:59+08:00"
+              "published_at": "2026-07-16T18:00:53+08:00"
             },
             {
-              "title": "东风日产2026款探陆SUV上市，限时价19.98万元起",
-              "brief": "东风日产2026款探陆SUV正式上市，限时价19.98万元起。新车尺寸为5130×1981×1767mm，轴距2900mm，提供6座和7座版本。搭载2.0T VC-TURBO可变压缩比发动机，最大功率185kW，百公里油耗8.65L。新增版本配备全景天窗，四驱版带L2级辅助驾驶；车机新增手车互联（HUAWEI HiCar、CarLink、CarPlay）和智慧场景功能；四驱大满配版搭载高通骁龙SA8155P芯片，支持语音控制。",
-              "source_url": "https://www.ithome.com/0/977/575.htm",
+              "title": "vivo 海外推出 T5 Lite 5G 手机：6500mAh 电池、天玑 6300",
+              "brief": "vivo 在海外发布 T5 Lite 5G 手机，配备 6.74 英寸 120Hz 屏幕、50Mp 主摄（索尼 IMX582）及 5Mp 自拍镜头，搭载联发科天玑 6300 处理器，最高 6GB RAM 和 256GB 存储，支持 2TB microSD 扩展。内置 6500mAh 电池，支持 44W 有线充电。",
+              "source_url": "https://www.ithome.com/0/977/700.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-16T16:43:07+08:00"
+              "published_at": "2026-07-16T18:00:43+08:00"
             }
           ]
         },
@@ -447,39 +447,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "微软Windows 10版OneDrive同步客户端将于2028年彻底停止服务",
-              "brief": "微软宣布自2026年8月15日起，运行在Windows 10 22H1及更早版本上的OneDrive同步客户端将停止支持，不再接收新功能、错误修复或安全更新。微软建议用户升级至Windows 10 22H2以继续获得同步支持，该支持将持续至2028年10月10日。此举符合微软逐步淘汰旧系统的策略，失去官方支持的客户端虽可继续运行，但用户需自行承担数据安全风险。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569112.htm",
+              "title": "LV起诉国家知识产权局，此前刚赢得“茉莉奶白”商标侵权案",
+              "brief": "路易威登（LV）因一枚第18类“四瓣花”图形商标与国家知识产权局对簿公堂。此前LV对该商标提起无效宣告申请未获支持，而同一图案在第25类商标异议程序中曾被判定与LV老花近似并无效，两案结果截然相反。知识产权法学者指出，此类“民告官”商标行政诉讼是常规维权程序。LV主张该商标与自家老花图案构成近似，但国家知识产权局裁定未构成近似。本案还涉及传统公共纹样是否应被单一品牌独占的深层争议。据统计，LV已第6次起诉国家知识产权局，此前5起一审案件中三胜两败。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569136.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-16T14:31:44+08:00"
+              "published_at": "2026-07-16T18:29:31+08:00"
             },
             {
-              "title": "类埃博拉病毒加速蔓延 全球公共卫生系统准备好了吗？",
-              "brief": "本迪布焦病毒（属丝状病毒科，与埃博拉病毒同类）在刚果民主共和国和乌干达加速蔓延，截至6月11日已确诊695例，138人死亡。病毒通过接触感染者体液传播，引发严重出血热，诊断困难且无专门疫苗或疗法。专家指出，备灾计划常忽视此类低频但致命的病原体，呼吁加强跨疫情应对的统筹和运营准备。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1569110.htm",
+              "title": "微软承诺为受账号被盗影响的玩家恢复数据",
+              "brief": "一名拥有25年历史的Xbox账号被盗后遭微软永久封禁，玩家多次申诉未获人工回应。事件经舆论发酵后，微软支持服务部公开致歉并启动恢复工作。然而，众多遭遇类似情况的用户仍未获得解决，引发玩家对微软处理方式的质疑：若非舆论压力，问题可能被长期忽视。此前有巴西玩家通过法律途径成功恢复账号并获赔。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1569134.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-16T14:30:46+08:00"
+              "published_at": "2026-07-16T18:27:49+08:00"
             },
             {
-              "title": "美国空军“忠诚僚机”无人机成功完成首次实弹导弹发射",
-              "brief": "美国空军与安杜里尔公司合作的YFQ-44A“忠诚僚机”无人机在加州莫哈韦沙漠成功发射实弹AIM-120空对空导弹，展示了端到端的超视距打击能力。无人机自主完成目标定位、捕获和逼近，最终由地面人类监督员下达开火指令。此次测试证明协同作战飞机能在飞行员界定的参数内自主执行武器交战程序，加速实战能力交付。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569108.htm",
+              "title": "媒体评价诺兰新片《奥德赛》为巅峰之作",
+              "brief": "克里斯托弗·诺兰执导的史诗电影《奥德赛》获多家媒体盛赞。Screen Rant和Time Out给出满分，称其展现了诺兰“一切实拍”理念的巅峰，通过172分钟的IMAX巨制传递出奥德赛二十年漂泊的全部重量。Polygon给出95分，认为诺兰摒弃了惯用的时间悖论等工具，赤手空拳塑造电影史故事。但《好莱坞报道者》认为该片思想深度逊于《奥本海默》，Film Threat仅给40分，批评其缺乏人性深度，恐难令人铭记。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1569132.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-16T14:28:25+08:00"
+              "published_at": "2026-07-16T18:27:11+08:00"
             },
             {
-              "title": "微软搭建全真模拟飞机机舱，实地测试Windows 11“共享音频”功能",
-              "brief": "微软为测试Windows 11的“共享音频”功能，搭建了全真模拟飞机机舱，以在密集、狭小且有背景噪音的真实场景中优化体验。该功能允许音频同时传输到两个蓝牙设备，逐步向所有兼容PC推送。此举源于微软“K2”计划，旨在通过用户反馈改进系统，体现其贴近用户需求、注重实际应用场景的研发理念。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569106.htm",
+              "title": "英伟达内部芯片资源紧张，吴新宙称黄仁勋常介入协调",
+              "brief": "英伟达汽车业务负责人吴新宙透露，公司内部不同团队经常争夺训练AI模型所需的计算资源，甚至需要CEO黄仁勋亲自调解。随着AI热潮推动GPU需求激增，英伟达不仅外部客户供不应求，内部资源分配也成难题。吴新宙表示，分配决策需平衡当前业务与长期战略，例如自动驾驶等“零万亿美元业务”。此外，半导体制造产能也成为内部争夺焦点。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569130.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-16T08:18:30+08:00"
+              "published_at": "2026-07-16T18:25:04+08:00"
             },
             {
-              "title": "Google与Epic撤销和解协议，第三方Android应用商店下周将在美上线",
-              "brief": "Google主动撤回与Epic Games的和解动议，以规避法律纠纷并履行法院禁令。此前Epic反垄断诉讼获胜，认定Google滥用市场支配地位。下周起，美国Android用户可选择第三方应用商店，这些商店可分发Google Play应用，需支付年费5000美元，且交易仍依赖Google Play系统并收取服务费。此举可能影响苹果与Epic的后续法律博弈。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569104.htm",
+              "title": "SpaceX股价较发行价下跌40%，市值缩水超万亿美元",
+              "brief": "自6月底以2万亿美元估值完成全球最大规模IPO后，SpaceX股价已累计下跌40%，马斯克所持股份价值从1.2万亿美元缩水至约7600亿美元。公司6月底发行的债券也遭大幅抛售。股价下跌发生在高估值科技股普遍承压的背景下，投资者担忧利率高企及AI投资回报不确定性。目前股价略高于135美元的发行价，参与IPO的银行家表示对投资者群体满意。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569128.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-16T08:15:02+08:00"
+              "published_at": "2026-07-16T18:24:41+08:00"
             }
           ]
         },
@@ -487,45 +487,52 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "格林美：拟1亿元—1.6亿元回购股份",
-              "brief": "格林美公告，公司计划以1亿元至1.6亿元回购股份，用于股权激励或员工持股计划，回购价格上限为10.6元/股。此举旨在提升公司价值并激励员工。",
-              "source_url": "https://36kr.com/newsflashes/3898077285992065?f=rss",
+              "title": "首批18家主动ETF正式上报，摩根、华泰柏瑞等在列",
+              "brief": "证监会主席吴清在2026陆家嘴论坛上表示支持在沪深交易所推出主动ETF，首批产品先行试点。同日，沪深交易所发布主动ETF业务指引。仅隔一个月，主动ETF首批试点即迎来上报，摩根、华泰柏瑞等18家机构在列。",
+              "source_url": "https://36kr.com/newsflashes/3898195983910533?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-16 16:49:16  +0800"
+              "published_at": "2026-07-16 18:50:00  +0800"
             },
             {
-              "title": "华为靳玉志：L3与L4规模商用预计2027年、2028年实现",
-              "brief": "华为高级副总裁靳玉志表示，自动驾驶将快速迭代发展：L3试点后，2026年开启城区低速L4试点；2027年L3规模商用，同时启动Robotaxi部分城市试点和低速L4商用；2028年Robotaxi部分城市商用，城区L4低速规模商用及全速试点、无人干线物流试点等也将开启。",
-              "source_url": "https://36kr.com/newsflashes/3898071474210439?f=rss",
+              "title": "挚达科技全球首发“AI能源+机器人”一体化解决方案",
+              "brief": "挚达科技发布企业2.0战略及两大全场景解决方案，分别为面向家庭和公共运营场站的“AI能源+机器人”一体化方案。方案以自动充电机器人为核心，搭配光伏、储能、充电设备，依托AI数字平台实现能源管理、任务调度与充电作业的全链路协同。",
+              "source_url": "https://36kr.com/newsflashes/3898189680117381?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-16 16:43:21  +0800"
+              "published_at": "2026-07-16 18:43:36  +0800"
             },
             {
-              "title": "阿里巴巴将在WAIC展出多个智能体平台",
-              "brief": "世界人工智能大会上，阿里巴巴展出面向千行百业和科研的多个AI智能体平台，包括阿里云百炼推理平台和“达摩灵枢”科研智能体平台。百炼推理平台已服务全球500万用户、120万付费用户；达摩灵枢曾辅助预测6.8万种超导材料，其中4种已合成并证实。",
-              "source_url": "https://36kr.com/newsflashes/3898061599573637?f=rss",
+              "title": "GE航空航天二季度核心财务数据超预期，调高全年业绩指引",
+              "brief": "GE航空航天发布2026年第二季度财报，多项核心指标远超预期。经调整后营收同比增长24%至126.3亿美元，高于预估的118.6亿美元；调整后每股收益2.02美元，超过去年同期的1.66美元和市场预期的1.86美元。基于强劲表现，公司调高全年业绩预期。",
+              "source_url": "https://36kr.com/newsflashes/3898188967495305?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-16 16:41:14  +0800"
+              "published_at": "2026-07-16 18:42:52  +0800"
             },
             {
-              "title": "百度：寻求在港交所主板自愿转化为双重主板上市",
-              "brief": "百度宣布，董事会已批准寻求于港交所主板自愿转换为双重主要上市。转换后，百度将在港交所和纳斯达克双重主要上市，A类普通股及美国存托股继续交易且可互换。预计年内生效。",
-              "source_url": "https://36kr.com/newsflashes/3898064258123392?f=rss",
+              "title": "金帝股份：子公司拟5000万元增资宸裕精密",
+              "brief": "金帝股份公告，全资子公司博源智驱拟以增资方式向东莞市宸裕精密部件有限公司投资5000万元，完成后持有宸裕精密55.5556%股权。宸裕精密主营基于MIM工艺的液冷板产品，应用于服务器液冷系统等领域。",
+              "source_url": "https://36kr.com/newsflashes/3898184294221705?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-16 16:36:01  +0800"
+              "published_at": "2026-07-16 18:38:07  +0800"
             },
             {
-              "title": "2030年我国光热发电规模将达1500万千瓦",
-              "brief": "中国电力企业联合会数据显示，“十四五”以来我国光热发电年复合增长率11.7%，高于全球4.24%。预计“十五五”期间产业加速发展，到2030年总装机规模达1500万千瓦左右。",
-              "source_url": "https://36kr.com/newsflashes/3898057801697158?f=rss",
+              "title": "天合光能：预计上半年净亏损1.8亿元至3.6亿元",
+              "brief": "天合光能公告，预计上半年净亏损1.8亿元至3.6亿元，上年同期为净亏损29.18亿元。业绩变化主要因公司部分处置前期战略性交易中所获股权资产取得较高投资收益，且剩余未处置股权资产公允价值显著上升，对利润形成积极贡献。该预告未经审计。",
+              "source_url": "https://36kr.com/newsflashes/3898163475482249?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-16 16:35:11  +0800"
+              "published_at": "2026-07-16 18:16:56  +0800"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "YouTube Premium通过苹果内购开通低价区无法使用礼品卡扣款，疑似谷歌加强风控",
+              "brief": "近期，通过苹果内购系统开通YouTube Premium低价区（如土耳其、印度）的用户在续费时遇到问题：礼品卡余额未被扣款，订阅被直接取消，且无任何通知。重新订阅时，系统要求绑定当地银行卡验证，并提示无法验证国家/地区。绑定银行卡后，仍可使用礼品卡余额订阅。此问题可能源于谷歌要求苹果配合验证订阅者是否为当地用户，而非苹果单方面风控。目前其他低价区暂未出现类似情况。",
+              "source_url": "https://www.landian.news/archives/113962.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-16T17:22:19+08:00"
+            },
             {
               "title": "埃隆·马斯克透露将在完成安全漏洞审查后完全开源X/Twitter代码库",
               "brief": "马斯克宣布X/Twitter将在完成安全漏洞审查后开源所有代码，旨在提高透明度和建立信任。此前推荐算法已开源，此次完全开源可让社区验证代码，确保无隐藏算法偏见或人为操纵。平台还将邀请独立审计员定期审计，保证实际运行代码与开源代码一致。具体开源时间尚未确定。",
@@ -553,13 +560,6 @@
               "source_url": "https://www.landian.news/archives/113958.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-16T13:59:46+08:00"
-            },
-            {
-              "title": "《帝国时代II》发现远程代码执行漏洞，可致系统被控",
-              "brief": "安全研究员在《帝国时代II：决定版》中发现路径遍历漏洞，攻击者可通过创建恶意游戏大厅或文件传输触发远程代码执行，获取系统控制权。漏洞评分8.8分（高危），微软已在4月发布的101.103.46651.0版中修复。建议玩家升级游戏并避免加入陌生大厅或下载不明自定义内容。",
-              "source_url": "https://www.landian.news/archives/113957.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-16T13:28:38+08:00"
             }
           ]
         }
