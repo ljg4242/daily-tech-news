@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T04:50:35.237467+08:00",
+  "generated_at": "2026-07-18T06:50:06.417768+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "调查发现巴西App Store存在数十款伪装赌博应用",
+              "brief": "巴西用户发现App Store导航、旅行等分类排行榜中出现大量劣质游戏应用，图标多为AI生成的动物图像。调查显示这些是“马甲应用”，在巴西以外的地区显示为正常应用，但使用巴西IP打开时，会呈现在线赌博平台。超过60款应用符合此特征，多数由单一应用的开发者账号发布，名称常见于越南等地。这些应用大小约15MB，隐私政策相似且几乎无更新记录。调查还发现一个公开的GitHub仓库，内含使用Cursor代理创建此类应用的指令，要求应用包含3-5个界面、使用动物主题图标，并支持远程控制路由到本地应用、内嵌网页或外部网站。指令还包含规避App Store审查的方法，如为每个应用设置独特的启动和远程配置代码。",
+              "source_url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-18T05:43:08+08:00"
+            },
+            {
               "title": "苹果在日本上调iPhone价格，最高涨幅达11%",
               "brief": "苹果在日本将iPhone价格上调了最高11%，涉及iPhone 17 Pro Max、iPhone 17 Pro、iPhone Air、iPhone 17e、iPhone 17和iPhone 16等多款机型。苹果未说明涨价原因，但很可能是因为日元汇率疲软，近期日元跌至40年最低点，导致苹果在日本的销售收入按美元计算缩水。苹果上个月已因零部件成本上涨提高了Mac和iPad的价格，但当时iPhone未受影响。如果此次涨价仅因汇率波动，其他市场可能不会跟进。苹果将于7月30日举行第三财季财报电话会议，届时将提供更多定价信息。",
               "source_url": "https://9to5mac.com/2026/07/17/apple-increases-iphone-prices-in-japan-by-up-to-11/",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-18T02:07:18+08:00"
-            },
-            {
-              "title": "OpenAI 修复 ChatGPT Mac 应用的聊天访问问题",
-              "brief": "OpenAI 上周发布了整合 ChatGPT、Codex 和 Work 代理的新 Mac 应用，但因界面混乱且隐藏了聊天功能而招致用户不满。经过用户抗议，OpenAI 现已更新应用，在窗口顶部添加了聊天与 Work 模式的显眼切换开关，并在侧边栏下拉菜单中提供常规 ChatGPT 和 Codex 的选择，恢复了聊天和项目访问。尽管界面仍显复杂，但用户已能像往常一样使用 ChatGPT。",
-              "source_url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-18T02:01:27+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Gboard 或将允许用户关闭自动空格",
+              "brief": "谷歌正在为 Gboard 准备一项新设置，允许用户禁用建议词后的自动空格。目前，点击自动纠正建议词后，Gboard 会自动添加空格，这在继续输入句子时很方便，但添加标点或需要直接附加字符时会产生多余空格。通过 APK 拆解，我们激活了该选项并测试成功，用户可在“纠正与建议”设置中找到“建议后自动空格”开关。",
+              "source_url": "https://www.androidauthority.com/gboard-spaces-after-autocorrect-suggestions-apk-teardown-3689011/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-18T05:50:56+08:00"
+            },
+            {
+              "title": "梅西主题三星 Galaxy Z Fold 8 Ultra 售价超1.3万美元",
+              "brief": "奢侈品品牌 Caviar 推出了定制版梅西主题 Galaxy Z Fold 8 Ultra，属于其“传奇”系列。手机背面采用掐丝珐琅工艺手工制作梅西肖像，并用24K金勾勒轮廓、球衣号码和国旗元素。该机全球限量19部，256GB版起售价13130美元，512GB版13490美元，1TB版13840美元。",
+              "source_url": "https://www.androidauthority.com/messi-themed-galaxy-z-fold-8-ultra-3688966/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-18T04:56:59+08:00"
+            },
+            {
               "title": "Gboard 或将通过手机摄像头理解手语",
               "brief": "谷歌最新 Gboard 更新显示，键盘正在准备支持“手语转文字”输入。该功能基于谷歌 DeepMind 的 SignGemma 模型，采用本地与云端混合处理方式，视频仅在设备端处理，仅原始手势数据会发送至谷歌云 AI。目前功能尚未启用，但已出现介绍弹窗。",
               "source_url": "https://www.androidauthority.com/gboard-sign-to-text-3688910/",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/spotify-passkey-login-apk-teardown-3688948/",
               "source_name": "Android Authority",
               "published_at": "2026-07-18T04:27:17+08:00"
-            },
-            {
-              "title": "BTS 成员视频中展示 Galaxy Z Fold 8",
-              "brief": "防弹少年团成员 J-Hope 在巴黎演唱会前发布视频，手持一款疑似 Galaxy Z Fold 8 的折叠屏手机。该设备预计配备 7.6 英寸 QHD+ 内屏和 5.5 英寸 QHD+ 外屏，4800mAh 电池，12GB 内存，起售价 1899 美元。三星将于 7 月 22 日在伦敦 Unpacked 活动上正式发布。",
-              "source_url": "https://www.androidauthority.com/bts-member-holding-galaxy-z-fold-8-3688932/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-18T03:42:39+08:00"
-            },
-            {
-              "title": "三星推出 Freestyle Plus 便携投影仪",
-              "brief": "三星发布 Freestyle Plus 投影仪，重约 1 千克，支持 1080p 分辨率，可投影最大 100 英寸画面，亮度 430 流明，支持 HDR10+ 和 360 度音频。内置 AI 功能包括自动梯形校正、墙面颜色校准、实时对焦、画面适配和障碍物规避。运行 Tizen 系统，支持 Alexa 和 Bixby 语音助手。",
-              "source_url": "https://www.androidauthority.com/samsung-freestyle-plus-projector-3688901/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-18T02:51:12+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Truth Social推出API，可实时获取特朗普帖子",
+              "brief": "特朗普媒体与科技集团宣布将于8月1日推出Truth API，允许企业实时获取Truth Social上最高级别账户的帖子，包括特朗普本人的内容。该API采用行业标准交付方式，提供毫秒级响应和2022年以来的历史存档。此前Twitter在2023年被马斯克收购后关闭了免费API访问。TMTG首席执行官指出，市场已对Truth Social帖子产生反应，因为特朗普经常在该平台提前宣布重大政策。公司期望此举能成为持续的收入来源，为股东创造价值。",
+              "source_url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-18T06:05:37+08:00"
+            },
+            {
+              "title": "Meta据悉考虑与Anthropic达成数十亿美元数据中心协议",
+              "brief": "据《纽约时报》报道，Meta正与人工智能公司Anthropic谈判，计划向其出租部分数据中心，潜在交易额两年内可达100亿美元。此举将为Meta开辟全新的云服务业务，目前其收入几乎全部来自广告。Meta CEO扎克伯格此前曾暗示可能出售数据中心空间，称公司几乎每周都会收到此类请求。Meta正大力投资AI数据中心以开发领先模型，2026年预计支出高达1250亿至1450亿美元。与Anthropic合作可将部分投资转化为新收入来源。Anthropic此前曾与SpaceXAI达成类似协议。",
+              "source_url": "https://www.engadget.com/2217904/meta-is-reportedly-considering-a-multibillion-dollar-data-center-deal-with-anthropic/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-18T04:51:05+08:00"
+            },
             {
               "title": "Zoox因自动驾驶出租车可能被烟雾迷惑而发布软件召回",
               "brief": "Zoox对其105辆自动驾驶出租车发布软件召回，原因是这些车辆无法安全通过浓烟区域。此前一辆Zoox出租车干扰了消防应急，促使公司开发软件更新。6月20日，一辆Zoox出租车在车道遇到火灾浓烟，车辆急刹并试图转向后停下，随后在远程引导下倒车，消防员放置了锥桶。Zoox表示这是首次出现此类问题，新软件增强了检测和应对浓烟的能力。随着Zoox和Waymo等公司扩大测试，自动驾驶汽车应对紧急情况的能力日益引发关注。美国国家公路交通安全管理局（NHTSA）已要求相关公司解决这一问题。",
@@ -228,26 +242,26 @@
               "source_url": "https://www.engadget.com/2217745/apple-music-and-apple-one-new-price-increase/",
               "source_name": "Engadget",
               "published_at": "2026-07-18T02:35:07+08:00"
-            },
-            {
-              "title": "涨价后 Apple TV 4K 还值得买吗？",
-              "brief": "苹果因内存危机和组件成本上涨提高了多款硬件价格，Apple TV 4K 64GB 版从 129 美元涨至 199 美元，128GB 版从 149 美元涨至 249 美元。该产品发布于四年前，但凭借 A15 芯片、支持杜比视界和全景声、流畅体验仍被视为最佳流媒体设备之一。涨价引发对其性价比的质疑，但苹果生态系统集成和优质体验仍是优势。",
-              "source_url": "https://www.engadget.com/2212812/is-apple-tv-4k-worth-after-price-hike/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-18T02:30:00+08:00"
-            },
-            {
-              "title": "三星 Galaxy Z Flip 8 和 Z Fold 8 相机与电池规格曝光",
-              "brief": "爆料者 Evan Blass 公布了三星 Galaxy Z Flip 8、Z Fold 8 和 Z Fold 8 Ultra 的相机与电池规格。Z Flip 8 维持 5000 万像素主摄、1200 万像素超广角和 1000 万像素前置，电池 4300mAh，与上代相同。Z Fold 8 采用新设计，配备 5000 万像素主摄（2 倍光学变焦）、5000 万像素超广角和 1000 万像素前置，搭载骁龙 8 Elite 芯片，支持 26 小时视频播放。Z Fold 8 Ultra 作为传统 Fold 系列继任者，外形更熟悉。",
-              "source_url": "https://www.engadget.com/2217717/here-are-the-samsung-galaxy-z-flip-8-and-z-fold-8-camera-and-battery-specs/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-18T02:11:13+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "泰勒农场因环孢子虫疫情召回美国市场的冰山生菜",
+              "brief": "泰勒农场周五发表声明，确认自愿从美国市场召回所有产自墨西哥中部的冰山生菜，原因是环孢子虫疫情暴发。据路透社报道，泰勒农场已通知塔可钟和西斯科等客户，撤回最初在墨西哥瓜纳华托州一家工厂生产的5磅袋装碎生菜。塔可钟表示，受影响原料已从全国供应链中无限期移除，并将在24小时内更换。",
+              "source_url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+              "source_name": "The Verge",
+              "published_at": "2026-07-17T18:09:47-04:00"
+            },
+            {
+              "title": "Shark多功能ChillPill冷却系统降至历史低价",
+              "brief": "Shark ChillPill个人风扇和冷却系统目前售价99.99美元，比原价便宜30美元，与历史最低价持平。这款可充电风扇兼具干触蒸发喷雾功能，可佩戴、夹在包上或放在桌面上使用，提供多种冷却方式。在亚马逊上可购买此优惠，Costco会员还能以相同价格获得免费夹子、斜挎带和InstaChill冷却板。",
+              "source_url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-07-17T16:15:54-04:00"
+            },
             {
               "title": "TikTok正在测试AI肖像检测工具",
               "brief": "TikTok开始测试一项可选工具，用于扫描AI生成的肖像并允许创作者向平台举报。该工具最初面向部分美国创作者，由社交媒体顾问Matt Navarra发现。创作者需先通过Jumio验证身份，包括实时自拍和ID检查，但TikTok表示不会保留身份证件，面部信息仅用于肖像匹配。验证后，系统会扫描可能使用创作者肖像的AI生成内容，创作者可审查并举报。YouTube此前也推出了类似工具，现已向所有成年用户开放。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
               "source_name": "The Verge",
               "published_at": "2026-07-17T14:14:26-04:00"
-            },
-            {
-              "title": "苹果打压OpenAI的图谋",
-              "brief": "苹果起诉OpenAI，指控其行为不当。专家认为许多指控只是行业常规做法。本期Vergecast播客分析了苹果的诉讼动机，是担忧竞争对手还是利用OpenAI的弱势。同时，苹果发布了新版Siri AI的公测版，主持人讨论了新Siri的实际表现。",
-              "source_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-              "source_name": "The Verge",
-              "published_at": "2026-07-17T13:41:32-04:00"
-            },
-            {
-              "title": "华硕顶级4K QD-OLED游戏显示器降价400美元",
-              "brief": "华硕ROG Swift 32英寸4K QD-OLED游戏显示器在亚马逊、百思买和B&H Photo售价899.99美元，原价1299.99美元。这款显示器采用QD-OLED面板，提供深邃黑色和鲜艳色彩，240Hz刷新率和G-Sync可变刷新率适合快节奏游戏。该价格已持续整个7月，不确定促销持续多久。",
-              "source_url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-17T12:47:13-04:00"
             }
           ]
         }
@@ -293,6 +293,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《刺客信条：黑旗重制版》新游戏+模式确认，育碧宣布销量达300万",
+              "brief": "育碧宣布《刺客信条：黑旗重制版》销量突破300万份，并确认正在开发新游戏+模式。此前该作在24小时内售出200万份，一周后即达到300万。尽管发售后不久有开发团队成员被裁员，但育碧对7月9日登陆PC、PS5和Xbox Series X|S的发行成绩表示满意。与以往仅公布玩家数不同，此次直接公开销量，显示发行商对市场反应高度满意。新游戏+模式将进一步提升重玩性，但具体细节尚未公布。游戏总监理查德·奈特透露，该模式已在开发中，并参考了2025年《刺客信条：影》的经验。",
+              "source_url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-new-game-plus-confirmed-as-ubisoft-marks-3-million-copies-sold",
+              "source_name": "IGN",
+              "published_at": "2026-07-18T04:38:22+08:00"
+            },
+            {
+              "title": "A24回应《后室》粉丝艺术版权下架事件，导演凯恩·帕森斯承诺调查",
+              "brief": "A24通过Instagram发表声明，回应《后室》粉丝艺术作品因版权声明被下架的问题。此前，导演凯恩·帕森斯在Reddit上回应了一名用户称其壁纸图案因侵权被Redbubble移除的帖子。A24表示，已意识到代表A24和《后室》电影向Redbubble提交的自动声明，并立即启动撤销流程以恢复商品列表。A24声称不对黄色壁纸、原始帖子或社区后续创作主张所有权，并将继续支持受此启发的艺术家。帕森斯此前已承诺调查此事，他认为下架通知可能源于内部“混乱和沟通不畅”以及“第三方系统错误”，其他平台的通知则是“巧合和时机不当”，并强调A24站在社区一边。",
+              "source_url": "https://www.ign.com/articles/a24-addresses-copyright-strikes-on-backrooms-fan-art-after-director-kane-parsons-promises-to-investigate",
+              "source_name": "IGN",
+              "published_at": "2026-07-18T04:35:20+08:00"
+            },
+            {
+              "title": "西德妮·斯威尼将主演索尼新片《沉睡谷》，改编自安娜贝尔·比尔同名小说",
+              "brief": "索尼影业抢下安娜贝尔·比尔小说《Hollow》的电影改编权，由西德妮·斯威尼主演并担任制片。比尔将执导、编剧并制片该片，这是她继《宠物坟场：血统》后第二次担任导演。影片以《沉睡谷》中的卡特里娜·范·塔塞尔为主角，颠覆原作中作为奖品角色的设定，聚焦她的故事。斯威尼饰演范·塔塞尔，其独立制片公司Honey Trap与玛格特·罗比的LuckyChap联合制片，这是Honey Trap的首部电影。索尼目前正在为伊查博德·克兰和布朗·博恩斯两个角色公开选角。",
+              "source_url": "https://www.ign.com/articles/sydney-sweeney-to-star-in-new-sleepy-hollow-movie-snapped-up-by-sony",
+              "source_name": "IGN",
+              "published_at": "2026-07-18T04:08:28+08:00"
+            },
             {
               "title": "《真人快打II》公布HBO Max流媒体上线日期",
               "brief": "《真人快打II》将于7月24日（周五）登陆HBO Max流媒体平台，同日还将推出美国手语版本，采用视觉方言等独特手语形式。该片于7月25日晚8点在HBO线性频道播出。作为2021年电影的续集，本片改编自埃德·布恩与约翰·托比亚斯创作的格斗游戏系列。影片于院线上映两个多月后登陆流媒体，全球票房1.294亿美元，预算9000万美元。续集在烂番茄上获得65%好评率，高于前作的55%。",
@@ -306,27 +327,6 @@
               "source_url": "https://www.ign.com/articles/disney-store-closes-until-further-notice-after-scalpers-get-aggressive-waiting-for-lorcana-drop",
               "source_name": "IGN",
               "published_at": "2026-07-18T02:36:01+08:00"
-            },
-            {
-              "title": "《马拉松》游戏总监Joseph Ziegler离开Bungie",
-              "brief": "《马拉松》游戏总监Joseph Ziegler于7月17日宣布离职，助理游戏总监Del Chafe III接任，与创意总监Julia Nardin共同领导项目。Ziegler未说明离职原因，但表示将“去别处做新事”，并承诺很快透露详情。该游戏自2026年3月发售以来表现不佳，5月索尼因Bungie业绩低迷录得7.65亿美元减值损失。尽管团队计划在未来几年推出故事内容，但游戏仍面临玩家流失。",
-              "source_url": "https://www.ign.com/articles/marathon-game-director-joseph-ziegler-is-leaving-bungie",
-              "source_name": "IGN",
-              "published_at": "2026-07-18T02:00:23+08:00"
-            },
-            {
-              "title": "《星露谷物语》联动《万智牌》推出“午夜水母”超级掉落",
-              "brief": "《星露谷物语》与《万智牌》联动，将于7月27日上午9点（太平洋时间）在Secret Lair网站推出“午夜水母”超级掉落，包含三款卡牌。其中“星露谷物语”地牌由游戏作者ConcernedApe绘制，可横置生物造食物标记并交换永久物。套装包括“爷爷会骄傲”全捆绑包（219.99美元）等。非闪版后续将在WPN游戏店发售。",
-              "source_url": "https://www.ign.com/articles/stardew-valley-arrives-in-magic-the-gathering-with-superdrop-of-the-midnight-jellies",
-              "source_name": "IGN",
-              "published_at": "2026-07-18T01:42:16+08:00"
-            },
-            {
-              "title": "《辐射5》：托德·霍华德关于贝塞斯达新作的所有言论",
-              "brief": "贝塞斯达游戏工作室在本月早些时候发布了一份路线图，确认其热门后末日RPG系列的第五部主线作品已正式进入前期制作。自2015年《辐射4》发售以来，粉丝们一直在追问《辐射5》的剧情、地点、与系列其他作品的关联、价格、平台及发售日期等问题。尽管霍华德在过去十年间多次承诺贝塞斯达有宏大计划，但目前官方尚未公布任何具体细节。",
-              "source_url": "https://www.ign.com/articles/fallout-5-everything-todd-howard-has-said-about-bethesdas-new-game",
-              "source_name": "IGN",
-              "published_at": "2026-07-18T01:24:21+08:00"
             }
           ]
         },
@@ -412,6 +412,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "苹果多款iPhone在日本涨价，最高涨幅达11.3%",
+              "brief": "苹果在日本市场对iPhone 17系列等多款机型进行涨价，最高涨幅达11.3%。涨价原因可能是日元持续贬值导致。iPhone Air涨幅最大，达11.3%，iPhone 17 Pro Max和iPhone 17分别上涨10.3%和10%。苹果此前已上调Mac和iPad价格，但尚未在美国等地区调整iPhone售价。",
+              "source_url": "https://www.ithome.com/0/978/330.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-18T06:45:27+08:00"
+            },
+            {
               "title": "JDG、AL、BLG均止步八强：《英雄联盟》2026 EWC淘汰赛DK 2-1战胜BLG晋级半决赛，T1 2-0战胜HLE",
               "brief": "在2026年EWC《英雄联盟》淘汰赛中，DK以2-1击败BLG晋级半决赛，T1以2-0战胜HLE。至此，MSI四强队伍全部淘汰，LPL的JDG、AL、BLG均止步第一轮。比赛过程激烈，DK在决胜局凭借团战零换四团灭BLG后一波推平基地。T1将于7月18日对阵KC，GEN.G随后与DK争夺决赛席位，败者也将争夺季军。EWC由沙特主办，于7月17日至20日在利雅得举行，采用单败淘汰BO3赛制。",
               "source_url": "https://www.ithome.com/0/978/322.htm",
@@ -438,13 +445,6 @@
               "source_url": "https://www.ithome.com/0/978/319.htm",
               "source_name": "IT之家",
               "published_at": "2026-07-17T23:30:07+08:00"
-            },
-            {
-              "title": "消息称索尼FX5电影摄影机有16档动态范围，海外售价5399欧元",
-              "brief": "消息称索尼FX5电影摄影机将搭载1660万像素全堆栈式传感器和BIONZ XR2处理器，支持5K 3:2 Open Gate视频录制及16 bit RAW格式，具备16档动态范围。机身类似FX3但略厚，无内置ND和拍照模式，采用Venice菜单风格。海外售价机身5399欧元，搭配XLR手柄5999欧元，新型外置电子取景器799欧元。该机预计面向专业电影制作市场。",
-              "source_url": "https://www.ithome.com/0/978/318.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-17T23:19:11+08:00"
             }
           ]
         },
