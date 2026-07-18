@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T02:49:52.451965+08:00",
+  "generated_at": "2026-07-19T04:49:27.201482+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "YouTube 画中画模式在 iPhone 和 Android 上出现故障",
+              "brief": "YouTube 的画中画功能在退出应用时无法触发，导致用户无法继续观看视频，仅播放音频。谷歌称大部分报告来自 iOS 用户，但也有 Android 设备的案例。该问题在 YouTube 应用 21.28 版上可复现，但 Pixel 设备未受影响。YouTube 于上周五上午确认问题并称团队正在积极调查，但截至周六下午仍无进展。",
+              "source_url": "https://9to5google.com/2026/07/18/youtube-pip-broken/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-19T04:03:48+08:00"
+            },
+            {
+              "title": "独立应用推荐：'Passable' 让通过 Apple Wallet 分享联系人变得简单",
+              "brief": "Passable 是一款将联系人信息制作成 Apple Wallet 通行证的应用，支持高度自定义，可针对不同社交场景创建不同名片。除了联系人，还能分享网站、社交媒体等链接。通行证可共享，更新后会自动同步到所有已分享设备，并支持远程删除。应用免费下载，高级版 Passable Gold 每月 2.99 美元，提供更多通行证数量和自定义选项。",
+              "source_url": "https://9to5mac.com/2026/07/18/passable-makes-contact-sharing-easy-in-apple-wallet/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-19T03:30:00+08:00"
+            },
             {
               "title": "HomeKit周报：SwitchBot RGBICWW吸顶灯带来硬接线Matter照明",
               "brief": "SwitchBot发布新款RGBICWW吸顶灯，支持Matter协议，可直接与Apple Home集成，无需额外Hub。该灯提供12英寸（2000流明）和15英寸（3200流明）两种尺寸，分别适用于走廊浴室和客厅卧室。采用RGBIC技术，可同时显示多种颜色，并具备独立白光LED，色温2700K至6500K可调。支持连续调光及断电记忆功能。通过2.4GHz Wi-Fi连接，但缺少Thread协议。起售价低于50美元。",
@@ -27,6 +41,13 @@
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "法国加强对Polymarket访问的限制",
+              "brief": "法国国家博彩管理局（ANJ）下令要求互联网服务提供商屏蔽预测市场平台Polymarket的访问。此前，ANJ于2024年11月已禁止法国居民在Polymarket上进行金融交易，但用户通过规避措施仍能访问，导致该平台在法国持续增长。今年6月，Polymarket在法国有578751次访问，其中205057次为独立访客。ANJ此次加大打击力度，强调Polymarket被视为非法赌博网站，违法宣传者最高可被罚款10万欧元（约11.4万美元）。同时，西班牙政府也下令屏蔽Polymarket和Kalshi，美国明尼苏达州通过法案禁止预测市场运营。",
+              "source_url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-19T03:41:51+08:00"
+            },
             {
               "title": "苹果禁止在即将推出的地图广告中投放家政服务内容",
               "brief": "苹果本周发布了新的广告指南，计划在Apple Maps中引入广告，但明确禁止家政服务类广告。指南规定，广告不得包含或间接推广管道、电气、锁匠、暖通空调、害虫防治、屋顶或一般承包服务。苹果可能试图将广告空间留给本地商家和兴趣点，与谷歌地图等竞争对手形成差异化。苹果表示，广告旨在帮助用户探索新地点，而不仅仅是导航。",
@@ -80,6 +101,25 @@
               "source_url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-07-18T11:00:00-04:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "YouTube画中画模式在iPhone和Android上出现故障",
+              "brief": "YouTube的画中画（PiP）功能在退出应用时无法触发，用户无法看到悬浮播放窗口，仅能听到后台音频。谷歌表示大多数报告来自iOS用户，但也有部分Android设备受影响。该问题于上周五上午被确认，团队正在积极调查，但截至周六下午仍未解决。今年早些时候，YouTube开始向免费用户逐步推出PiP功能。",
+              "source_url": "https://9to5google.com/2026/07/18/youtube-pip-broken/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-19T04:02:00+08:00"
+            },
+            {
+              "title": "所有Android备份数据将计入Google账户存储空间",
+              "brief": "谷歌更新了Android备份政策，从7月7日起，所有备份数据类型（包括短信、通话记录和设备设置）都将计入Google账户的15GB免费存储空间或Google One付费空间。此前仅照片、视频和彩信数据计入。谷歌称平均备份大小仅增加40MB，同时新增了每项数据的开关控制和逐应用备份选项。新政策对新用户立即生效，现有用户将在45天后执行。",
+              "source_url": "https://9to5google.com/2026/07/18/android-backup-data-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-19T03:05:00+08:00"
             }
           ]
         }
