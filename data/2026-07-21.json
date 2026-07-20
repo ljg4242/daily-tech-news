@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T00:51:00.136630+08:00",
+  "generated_at": "2026-07-21T02:51:02.798207+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,11 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
-              "title": "美国四家苹果零售店本月搬迁",
-              "brief": "本月美国四家苹果零售店将进行搬迁，但新址均距原址不远。位于纽约埃尔姆赫斯特的皇后中心店已于7月17日迁至购物中心内的临时位置，原店正在翻新，重开时间未定。密西西比州里奇兰的殖民地公园文艺复兴店将于7月24日上午10点迁至同一购物中心内新位置，位于喷泉前。密歇根州安娜堡的布里亚伍德店将于7月31日上午10点迁至商场内更大空间，入口面向新户外空间The Lawn。科罗拉多斯普林斯的布里亚盖特商店街店也于同日同一时间向左平移六家店铺。",
-              "source_url": "https://www.macrumors.com/2026/07/20/four-apple-stores-moving-this-month/",
+              "title": "苹果向开发者推送 watchOS 27 第四个测试版",
+              "brief": "苹果今天向开发者推送了 watchOS 27 的第四个测试版，距离第三个测试版发布已有两周。开发者可通过 iPhone 上的 Watch 应用下载，需连接充电器、Wi-Fi 且电量不低于50%。watchOS 27 引入了更智能的 Siri AI，支持连续对话并整合个人数据，需 iPhone 15 Pro 及以上机型。此外还有动态应用网格、改进的智能堆叠建议、一体化查找应用等功能。",
+              "source_url": "https://www.macrumors.com/2026/07/20/apple-seeds-watchos-27-beta-4/",
               "source_name": "MacRumors",
-              "published_at": "2026-07-20T22:57:44+08:00"
+              "published_at": "2026-07-21T02:15:01+08:00"
+            },
+            {
+              "title": "苹果发布 macOS Golden Gate 第四个测试版",
+              "brief": "苹果今天向开发者推送了 macOS Golden Gate 的第四个测试版，距离第三个测试版发布已有两周。开发者可通过系统设置下载，需启用Beta更新并拥有免费开发者账户。新系统包含多项设计改进，如 Liquid Glass 透明度优化、统一工具栏和边到边侧栏。Siri 升级为 Siri AI 聊天助手，集成全局知识和屏幕感知能力，并新增视觉智能和写作辅助功能。",
+              "source_url": "https://www.macrumors.com/2026/07/20/apple-releases-macos-27-beta-4/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-21T01:10:42+08:00"
+            },
+            {
+              "title": "苹果向开发者推送 iOS 27 和 iPadOS 27 第四个测试版",
+              "brief": "苹果今天向开发者推送了 iOS 27 和 iPadOS 27 的第四个测试版，距离第三个测试版发布已有两周。注册开发者可通过设置应用下载。iOS 27 引入了类似 ChatGPT 的 Siri AI，整合个人数据和屏幕感知能力。新功能包括照片、Safari 等应用的苹果智能特性，独立的 Siri 应用，以及系统级的写作辅助。此外还有 Liquid Glass 外观改进和多项性能优化。",
+              "source_url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-27-beta-4/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-21T01:06:23+08:00"
+            },
+            {
+              "title": "苹果推送 iOS 26.6 和 iPadOS 26.6 候选版本",
+              "brief": "苹果今天向开发者推送了 iOS 26.6 和 iPadOS 26.6 的候选版本，距离第五个测试版发布已有一周。此版本代表最终版软件，若无重大错误将很快公开发布。注册开发者可通过设置应用下载。根据发布说明，该更新包含安全修复，并优化了 Spotlight 索引以为 iOS 27 做准备。",
+              "source_url": "https://www.macrumors.com/2026/07/20/apple-seeds-ios-26-6-beta-6/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-21T01:05:00+08:00"
+            },
+            {
+              "title": "苹果推送 macOS Tahoe 26.6 候选版本",
+              "brief": "苹果今天向开发者推送了 macOS Tahoe 26.6 的候选版本，距离第五个测试版发布已有一周。此版本代表最终版软件，若无重大错误将公开发布。开发者可通过系统设置下载，需启用Beta更新并拥有免费开发者账户。由于 macOS Golden Gate 即将发布，本次更新预计不包含重大新功能。",
+              "source_url": "https://www.macrumors.com/2026/07/20/apple-seeds-macos-tahoe-26-6-beta-6/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-21T01:04:00+08:00"
             }
           ]
         },
@@ -21,32 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "新款iPad mini即将到来，带来这些重大变化",
-              "brief": "据多方消息，新款iPad mini将迎来重大升级，包括OLED屏幕、更强芯片和防水设计。OLED屏幕将取代当前LCD面板，带来更深邃的黑色和更丰富的色彩，但可能仍不支持120Hz ProMotion刷新率。芯片预计升级至A19 Pro或A20 Pro，性能提升并可能支持更先进的Siri AI功能。此外，苹果正在测试防水外壳，并可能采用振动式扬声器系统以增强防水性。根据彭博社报道，新款iPad mini有望在近期发布。",
-              "source_url": "https://9to5mac.com/2026/07/20/new-ipad-mini-coming-soon-with-these-major-changes/",
+              "title": "iOS 27 Beta 4 代码提及新款 iPhone 支持多电池",
+              "brief": "iOS 27 beta 4 中的代码字符串首次明确提及多电池 iPhone 型号，证实了此前微博爆料人 Digital Chat Station 的说法。爆料称 iPhone Ultra 将配备两块内部电池，这在折叠屏手机中常见，但对 iPhone 而言是首次。代码字符串包括“此 iPhone 中的电池性能符合预期”和“此 iPhone 中的电池健康已显著下降”。监管文件显示两块电池容量分别为 1921mAh 和 2962mAh，总计 4883mAh。iPhone Ultra 预计于 9 月初发布。",
+              "source_url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-mentions-new-iphone-model-with-multi-battery-feature/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-21T00:13:34+08:00"
+              "published_at": "2026-07-21T02:43:28+08:00"
             },
             {
-              "title": "Adobe Project Indigo相机应用新增实验性AI照片编辑工具",
-              "brief": "Adobe为其实验性iPhone相机应用Project Indigo推出AI Playground功能，提供物体编辑（如移除干扰物、虚化背景）等工具。该功能免费开放给少数用户，Adobe称不会查看用户提示或图像，仅收集按钮点击数据用于匿名分析。Project Indigo去年发布，主打全手动控制和类单反计算摄影，现已扩展至iPad和iPhone 17e。AI Playground作为实验中的实验，未来可能根据用户反馈推出付费版本。",
-              "source_url": "https://9to5mac.com/2026/07/20/adobes-project-indigo-camera-app-gains-experimental-ai-photo-editing-tools/",
+              "title": "iOS 27 Beta 4 新特性一览",
+              "brief": "iOS 27 beta 4 已面向开发者推送，版本号为 23G71。此次更新围绕 Siri AI、Apple Intelligence、Liquid Glass 优化及大量生活便利改进。新特性包括：调用 Siri 时新增“启动画面”；修复了 beta 3 引入的景深效果错误；Siri 新增两个增强语音，语速和表现力已可用，五个旧语音的相应滑块仍显示“即将推出”。此外，新增类似位置使用提醒的健康数据共享提醒。iOS 27 支持 iPhone 11 及后续机型，Siri AI 等功能需较新硬件。正式版将于 9 月与新 iPhone 一同发布。",
+              "source_url": "https://9to5mac.com/2026/07/20/heres-whats-new-with-ios-27-beta-4/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-21T00:00:12+08:00"
+              "published_at": "2026-07-21T02:03:03+08:00"
             },
             {
-              "title": "优惠：AirPods Pro 3、AirPods Max 2降价100美元，AirTag 2创历史新低等",
-              "brief": "亚马逊推出多项苹果产品优惠：AirPods Max 2降价100美元至449美元，AirPods Pro 3降至200美元（原价249美元），AirTag 2创历史新低22美元。此外，48GB 14英寸M5 Pro MacBook Pro优惠400美元，iPhone Air降至历史最低价。百思买黑色星期五七月促销也已开启。这些折扣均为当前最佳价格，但AirPods Max 2的150美元优惠仅在Prime Day期间短暂出现。",
-              "source_url": "https://9to5mac.com/2026/07/20/deals-airpods-pro-3-airpods-max-2-airtag-2-iphone-air/",
+              "title": "iOS 26.6 包含关键功能，为 iOS 27 升级做准备",
+              "brief": "iOS 26.6 RC 版发布，苹果在更新说明中罕见提及未来系统，称“优化 Spotlight 索引以为 iOS 27 做准备”。此前 iOS 27 beta 测试中，用户曾遇到长时间索引问题，有时持续一周以上。为避免正式版重复此问题，苹果通过 iOS 26.6 提前完成部分索引工作，确保秋季 iOS 27 升级体验更流畅。用户安装 iOS 26.6 后若发现 iPhone 正在进行 Spotlight 索引，属于正常现象。",
+              "source_url": "https://9to5mac.com/2026/07/20/ios-26-6-includes-key-feature-that-prepares-your-iphone-for-ios-27/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-20T23:25:39+08:00"
+              "published_at": "2026-07-21T01:21:56+08:00"
             },
             {
-              "title": "苹果公布来自奥斯卡最佳影片得主的新电影",
-              "brief": "苹果宣布由《健听女孩》导演Sian Heder执导的新片《Being Heumann》将于11月6日在部分影院上映，11月13日登陆Apple TV+。影片基于真实故事，讲述残疾活动家Judy Heumann在1977年领导超过100名抗议者发起变革的历程。该片是继《健听女孩》后苹果又一部有望冲击奥斯卡的作品。苹果近期还公布了其他电影计划，包括匹克球喜剧《The Dink》。",
-              "source_url": "https://9to5mac.com/2026/07/20/apple-unveils-new-film-from-best-picture-oscar-winner/",
+              "title": "macOS 26.6 RC 现已可用，更新内容前瞻",
+              "brief": "macOS 26.6 首个 RC 版（版本号 25G70）面向开发者推送，正式版可能下周发布。本次更新以错误修复和改进为主，新功能较少。预计将像 iOS 26.6 一样优化 Spotlight 索引，为后续 macOS 27 Golden Gate 升级做准备。此前 beta 1 修复了部分应用被错误识别为仅限 Intel 导致的弃用警告问题，并标记了生态系统和 HealthKit 问题已解决。安装方法：通过系统设置 → 通用 → 软件更新，选择 macOS 开发者测试版。",
+              "source_url": "https://9to5mac.com/2026/07/20/macos-26-6-rc-now-available-heres-whats-coming/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-20T22:59:45+08:00"
+              "published_at": "2026-07-21T01:15:22+08:00"
+            },
+            {
+              "title": "9to5Mac 每日播报：2026 年 7 月 20 日——Apple Music 和 Apple One 价格上涨",
+              "brief": "本期 9to5Mac Daily 播客讨论了以下新闻：苹果据称正在谈判和解 DOJ 反垄断诉讼；报告称苹果计划 10 月发布 OLED iPad mini；苹果提高 Apple Music 和 Apple One 订阅价格。播客由 Backblaze 赞助，使用代码 9to5daily 可享 20% 折扣。新剧集工作日每日更新，可在 Apple Podcasts 或 Overcast 等平台订阅。",
+              "source_url": "https://9to5mac.com/2026/07/20/daily-july-20-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-21T01:15:09+08:00"
             }
           ]
         },
@@ -54,18 +89,39 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Pixel 6和6 Pro将无法获得Android 17 QPR2更新",
+              "brief": "Pixel 6和6 Pro于2021年10月发布，原定获得三年Android更新和两年安全补丁，但谷歌在2024年将支持延长至五年。谷歌宣布，由于设备即将终止支持，Android 17 QPR2 Beta 1将不会推送给Pixel 6和6 Pro，QPR1 Beta系列将是它们最后的测试版。Android 17 QPR1预计于9月初推送，Pixel 11系列可能于8月底首发。Pixel 6和6 Pro还将收到8月安全补丁、9月Pixel Drop/QPR1和10月安全补丁，而Pixel 6a的支持将持续至2027年7月。",
+              "source_url": "https://9to5google.com/2026/07/20/pixel-6-no-android-17-qpr2/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-21T02:48:42+08:00"
+            },
+            {
+              "title": "Pixel 11 Pro出现在谷歌自家网站上",
+              "brief": "Pixel 11 Pro的图片短暂出现在Google Fi网站上，并被Droid Life保存。该设备外观与上周在亚马逊上泄露的图片一致，包括谷歌新的“沙丘”配色。Droid Life指出，图中为Pixel 11 Pro而非Pro XL，依据是麦克风位置。目前仅出现这一机型，Pixel 11、11 Pro XL和11 Pro Fold尚未露面。由于来自谷歌自家网站，该图片可视为官方泄露。此外，预计Pixel 11系列将大幅涨价，欧洲地区约涨100欧元，美国市场是否跟进尚不明确。Google Fi计划提供折扣，用户可能以100美元购买Pixel 11 Pro XL，但需签订新套餐或进行以旧换新。Pixel 11系列将于8月发布。",
+              "source_url": "https://9to5google.com/2026/07/20/pixel-11-pro-shows-up-on-one-of-googles-websites/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-21T02:40:46+08:00"
+            },
+            {
+              "title": "谷歌发布Android 17 QPR2 Beta 1",
+              "brief": "谷歌发布了Android 17 QPR2 Beta 1，修复了多个问题，包括蓝牙重新配对失败、锁屏媒体播放器闪退、调用Gemini时系统崩溃、多指拖放手势导致触摸事件中断、通知随机消失、ML-DSA密钥生成异常、AccessibilityNodeInfo窗口边界错误以及窗口级模糊效果失效。此版本适用于Pixel 6a至Pixel 10a等设备，但Pixel 6和6 Pro因即将终止支持而无法获得此OTA。用户可通过Android Beta Program加入测试。",
+              "source_url": "https://9to5google.com/2026/07/20/android-17-qpr2-beta-1-pixel/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-21T02:10:28+08:00"
+            },
+            {
+              "title": "周一安卓和iOS应用特价及免费：LIMBO、Super Dark Deception等",
+              "brief": "Best Buy黑色星期五七月促销现已开启，涵盖门市特价商品、AirPods Max 2、电视、家电等。",
+              "source_url": "https://9to5toys.com/2026/07/20/monday-android-ios-app-deals-free/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-21T01:51:30+08:00"
+            },
+            {
               "title": "促销：七月黑色星期五活动，Galaxy Tab S11 Ultra 最高优惠430美元，NXTPAPER平板电脑160美元起，Pixel Watch 4等",
               "brief": "百思买推出七月黑色星期五促销，Galaxy Tab S11 Ultra 最高优惠200美元，翻新机最高优惠430美元。TCL安卓平板电脑最高优惠30%，其中NXTPAPER 11 Gen 2售价160美元，TAB A1 Plus售价220美元。Pixel Watch 4 LTE 最高优惠172美元。此外，PC游戏配件也有折扣，OLED显示器最高优惠700美元，游戏椅50美元起。三星即将发布Galaxy Z Fold 8和Galaxy Watch 9，现在注册可获30美元代金券，可与以旧换新折扣叠加。",
               "source_url": "https://9to5google.com/2026/07/20/deals-black-friday-in-july-tab-s11-ultra-nxtpaper/",
               "source_name": "9to5Google",
               "published_at": "2026-07-20T23:39:35+08:00"
-            },
-            {
-              "title": "Galaxy Watch Ultra 2 发布前两日最新最大规模图像泄露",
-              "brief": "距离三星Galaxy Unpacked活动仅剩两天，Galaxy Watch Ultra 2的营销图像大量泄露。据传该手表将升级电池容量至800mAh（上一代为590mAh），并搭载新的骁龙Wear Elite芯片，但实际续航未知。图像由Evan Blass发布，展示了重新设计的操作按钮、表带和表壳，外观更显 rugged，并新增森林绿色版本。此前Galaxy Z Fold 8、Fold 8 Ultra和Flip 8的营销图也已泄露。",
-              "source_url": "https://9to5google.com/2026/07/20/galaxy-watch-ultra-2-leaks-days-before-launch/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-20T23:22:23+08:00"
             }
           ]
         },
@@ -92,6 +148,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌为Pixel测试者推送Android 17 QPR2 Beta 1",
+              "brief": "Android 17 QPR2 Beta 1现已面向Pixel测试者开放安装，这是谷歌2026年第四季度安卓更新的首个预览版。该版本支持Pixel 6a及更新机型，但不再支持初代Pixel 6系列。此版本修复了多个问题，包括蓝牙重新配对静默失败、锁屏媒体播放器控件闪烁、调用Gemini时系统崩溃、多指拖放手势导致应用停止接收触摸事件，以及通知随机消失等。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-1-3689330/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-21T02:35:07+08:00"
+            },
+            {
+              "title": "你很快就能向Gemini询问Chrome标签组的内容",
+              "brief": "谷歌正在Chrome浏览器中测试一项新功能，允许用户向Gemini询问标签组的内容。右键点击标签组后选择“询问Gemini关于此组”，Gemini即可访问组内所有标签，并生成摘要和详细内容。该界面被称为Glic标签模式，用户可提问、固定或取消固定标签。标签组变更会实时同步，无需手动更新。此功能需启用实验标志，支持Windows、Mac、Linux、ChromeOS和Android平台。",
+              "source_url": "https://www.androidauthority.com/chrome-tab-group-gemini-integration-3689297/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-21T01:29:34+08:00"
+            },
+            {
+              "title": "Google Fi短暂泄露Pixel 11 Pro XL官方图片",
+              "brief": "Google Fi在其网站上短暂展示了Pixel 11 Pro XL的图片后将其移除，但促销页面仍在，声称用户注册后可100美元购机。该图片显示了Canyon配色，与传闻中的Olive、Obsidian和Fog色一同发布。此次泄露证实了数月前的硬件渲染图，但无法确定是Pixel 11 Pro还是XL版本。Pixel 11系列预计在8月12日的Made by Google活动上发布，256GB型号起售价传闻为1299美元。",
+              "source_url": "https://www.androidauthority.com/google-fi-pixel-11-pro-xl-leak-3689288/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-21T01:23:58+08:00"
+            },
+            {
               "title": "零售商列出传闻中的索尼WH-1000XM6绿色版",
               "brief": "智利零售商Falabella上架了此前传闻的索尼WH-1000XM6绿色版本。这款新配色尚未正式发布，目前也无法购买。自去年耳机发布以来，这将是索尼推出的第六种配色选项。图片显示绿色非常淡雅，类似苔藓灰绿。Falabella的列表显示该商品无法购买或配送，但图片看起来真实，官方公告可能随时发布。",
               "source_url": "https://www.androidauthority.com/sony-wh-1000xm6-green-3689265/",
@@ -111,6 +188,27 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "将车钥匙添加到iPhone前需要了解的一切",
+              "brief": "苹果自2020年在iOS 14中推出数字车钥匙功能，支持在钱包应用中存储车钥匙并通过轻触解锁或启动车辆。该功能最初仅兼容少数车型，现已扩展至多个主流汽车品牌。通过超宽带芯片，iPhone或Apple Watch可在靠近时被动解锁车辆。设置需确保车辆和设备兼容，并启用快捷模式以在不解锁手机的情况下使用。",
+              "source_url": "https://www.engadget.com/2217119/how-to-store-car-keys-on-iphone/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-21T02:30:00+08:00"
+            },
+            {
+              "title": "Adobe在其实验性相机应用中塞入多款AI工具",
+              "brief": "Adobe的Nextcam团队为去年推出的实验性相机应用Project Indigo添加了名为AI Playground的生成式AI工具集，旨在探索AI如何在拍摄时辅助手机摄影师。该工具集包括对象编辑（移除干扰物、虚化背景）、风格转换（将照片变为绘画）、照片指导（提供拍摄建议）和自定义编辑（通过提示词调整画面）。目前免费但仅对少数用户开放数周。",
+              "source_url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-21T02:04:55+08:00"
+            },
+            {
+              "title": "法官暂停派拉蒙与华纳兄弟争议性合并两周",
+              "brief": "一名联邦法官发布14天临时限制令，暂停派拉蒙与华纳兄弟价值1110亿美元的合并，以便审理12个州提起的反垄断诉讼。该诉讼认为合并将违反联邦反垄断法，导致竞争减少和消费者价格上涨。若未在9月30日前达成交易，派拉蒙将每天向华纳兄弟投资者支付数百万美元。法官已定于8月3日举行初步禁令听证会。",
+              "source_url": "https://www.engadget.com/2218975/judge-pauses-the-controversial-paramount-warner-bros-merger-for-two-weeks/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-21T02:02:36+08:00"
+            },
+            {
               "title": "一部新iPhone到底能用多久？",
               "brief": "由于内存供应紧张，苹果已上调iPad和Mac价格，iPhone可能紧随其后。iPhone的寿命取决于两个因素：硬件能维持多久，以及多久后新功能才让人难以抗拒。苹果长期软件支持出色，iOS最新版本支持至2019年的iPhone 11，新款iPhone 16或17至少可获支持到2031年。此外，软件更新带来安全补丁，但许多用户多年不更新也未见问题。电池、存储等硬件因素也会影响实际使用寿命。",
               "source_url": "https://www.engadget.com/2216276/how-long-new-iphone-last-lifespan/",
@@ -129,6 +227,13 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "法官暂停派拉蒙收购华纳兄弟探索公司的尝试",
+              "brief": "美国联邦法官部分批准了12个州总检察长的请求，暂时搁置派拉蒙与华纳兄弟探索公司价值1100亿美元的合并案。法官认为，基于新公司的市场份额，可以推定合并可能违反反垄断法，且各州证明了若不发布临时限制令将造成“不可挽回的损害”。此前，加州等12个州起诉要求阻止该交易28天，称新成立的媒体巨头将损害竞争。若交易延迟过久，派拉蒙每天可能损失数百万美元。",
+              "source_url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+              "source_name": "The Verge",
+              "published_at": "2026-07-20T13:37:53-04:00"
+            },
             {
               "title": "LG光面OLED游戏显示器罕见降至400美元以下",
               "brief": "LG的27英寸UltraGear 27GX704A-B游戏显示器采用光面WOLED面板，支持240Hz刷新率和1440p分辨率，目前在亚马逊和LG官网售价379.99美元，创下新低。该显示器最初定价799.99美元，自5月以来已降至500美元以下。在400美元以下的价位，大多数OLED显示器使用QD-OLED面板，而光面WOLED面板的组合较为罕见。",
@@ -168,45 +273,52 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "漫威影业总裁凯文·费奇因《刀锋战士》重启项目搁浅自称“巨大的失败者”",
-              "brief": "漫威于2019年宣布重启《刀锋战士》，由马赫沙拉·阿里主演。但七年过去，该项目陷入停滞。费奇承认剧本经历了三到四次迭代，其中两个版本设定为年代戏，但团队始终不满意，不愿勉强推进。演员米娅·高斯透露曾为1920年代设定试妆，但最终项目被搁置。已制作的服装被用于另一部吸血鬼电影《罪人》。韦斯利·斯奈普斯则在《死侍与金刚狼》中客串回归。",
-              "source_url": "https://www.ign.com/articles/marvel-studios-boss-kevin-feige-feels-like-a-gigantic-loser-and-failure-over-doomed-blade-reboot-with-mahershala-ali",
+              "title": "《宇宙巨人》本周上线Prime Video",
+              "brief": "索尼影业与亚马逊米高梅合作的《宇宙巨人》真人版电影将于本周三（2026年7月22日）登陆Prime Video，距离其影院上映不到两个月。该片全球票房1.13亿美元，仅约为2亿美元预算的一半。IGN在8/10评分中称赞其尊重原作、不刻意严肃。亚马逊此举意在推动流媒体订阅，导演Travis Knight表示有兴趣继续开发。",
+              "source_url": "https://www.ign.com/articles/masters-of-the-universe-prime-video-streaming-release-date",
               "source_name": "IGN",
-              "published_at": "2026-07-20T23:30:49+08:00"
+              "published_at": "2026-07-21T01:37:14+08:00"
             },
             {
-              "title": "瑞安·雷诺兹暗示《死侍4》将改编漫画中“更深度的冷门内容”",
-              "brief": "瑞安·雷诺兹在Fanatics Fest上表示，他正从《死侍》漫画中挖掘新素材用于第四部电影，并提到几位他欣赏的漫画编剧。此前《死侍与金刚狼》全球票房达13亿美元，续集似乎板上钉钉。雷诺兹曾透露已在构思新作，但距离正式推进仍有时日。",
-              "source_url": "https://www.ign.com/articles/ryan-reynolds-teases-deadpool-4-hints-theres-still-a-few-deep-cuts-to-adapt-from-the-comics",
+              "title": "派拉蒙与华纳兄弟合并被法官暂停至少两周",
+              "brief": "美国联邦法官下令暂停派拉蒙与华纳兄弟的合并至少14天，因12个州组成的联盟认为该交易违反反垄断法，可能导致价格上涨和内容减少。派拉蒙原计划于7月22日完成交易。法官指出，原告已证明存在严重问题需要审理。此前派拉蒙曾以1100亿美元报价击败Netflix，但合并面临法律挑战。",
+              "source_url": "https://www.ign.com/articles/paramount-and-warner-bros-merger-paused-for-at-least-2-weeks-by-judge",
               "source_name": "IGN",
-              "published_at": "2026-07-20T23:30:20+08:00"
+              "published_at": "2026-07-21T01:32:19+08:00"
             },
             {
-              "title": "凯文·费奇称亚当·德赖弗拒绝漫威角色已成“传统”，X战警选角传闻再起",
-              "brief": "漫威影业总裁凯文·费奇透露，曾多次与《星球大战》演员亚当·德赖弗洽谈漫威角色，但均被拒绝。费奇称这已成为“传统”，并强调对话一直友好。近期有传闻称德赖弗可能饰演X战警反派万磁王或邪恶先生，但爆料者随后更正为后者。",
-              "source_url": "https://www.ign.com/articles/kevin-feige-says-star-wars-actor-adam-driver-turning-down-marvel-roles-has-become-a-tradition-as-x-men-rumors-swirl",
+              "title": "第一人称心理恐怖侦探游戏《Rehaunted》公布PC版",
+              "brief": "开发商宣布第一人称心理恐怖侦探游戏《Rehaunted》正在开发PC版。玩家扮演侦探Connor Raines，调查血迹、指纹、隐藏录音等线索，通过无线电与另一名侦探实时交流，使用紫外线工具、相机、放大镜和证据板辅助破案。游戏已上架Steam，可加入愿望单。",
+              "source_url": "https://www.ign.com/articles/rehaunted-a-first-person-psychological-horror-detective-game-announced-for-pc",
               "source_name": "IGN",
-              "published_at": "2026-07-20T23:05:22+08:00"
+              "published_at": "2026-07-21T01:00:00+08:00"
             },
             {
-              "title": "《复仇者联盟：末日》海报揭示毁灭博士的动机",
-              "brief": "漫威发布《复仇者联盟：末日》新海报，画面中毁灭博士背对观众，低头站在挂毯前，挂毯顶部描绘了一位悲伤的妇女和儿童，暗示这是他已故的妻儿。海报表明毁灭博士的动机是为逝去的亲人复仇。此前粉丝猜测其家人的死亡可能与史蒂夫·罗杰斯穿越时空有关。",
-              "source_url": "https://www.ign.com/articles/marvels-ominous-avengers-doomsday-poster-makes-doctor-dooms-motivations-clear",
+              "title": "《蜘蛛侠：崭新的一天》主演萨迪·辛克被问及琴·葛蕾传闻",
+              "brief": "在《蜘蛛侠：崭新的一天》宣传采访中，萨迪·辛克被问及是否饰演琴·葛蕾时显得紧张回避。该片将于一周后开始预映，辛克的角色仍未正式公布，但泄露和预告暗示她拥有心灵能力。传闻她将在2027年的《复仇者联盟：秘密战争》中回归，为漫威X战警重启铺垫。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-star-sadie-sink-asked-about-jean-grey-rumor-tries-to-respond-without-spoiling-anything",
               "source_name": "IGN",
-              "published_at": "2026-07-20T22:01:54+08:00"
+              "published_at": "2026-07-21T00:15:26+08:00"
             },
             {
-              "title": "《复仇者联盟：末日》首支正式预告片曝光：雷神、史蒂夫·罗杰斯与毁灭博士亮相",
-              "brief": "漫威发布《复仇者联盟：末日》首支正式预告，开场是X教授学校，毁灭博士旁白预示危机。雷神发表演讲号召团结，预告展示了多位英雄：神奇四侠、蚁人、巴基、山姆、黑豹、纳摩等，以及X战警成员如镭射眼、牌皇与尚气的对决。毁灭博士戴面具出场，操拉脱维亚口音。",
-              "source_url": "https://www.ign.com/articles/first-proper-avengers-doomsday-trailer-reveals-thor-steve-rogers-and-doctor-doom-himself",
+              "title": "GameStop CEO瑞安·科恩继续推动收购eBay，持股增至10%",
+              "brief": "GameStop CEO瑞安·科恩将eBay持股增至约9.8%（4340万股），接近此前5%的两倍。科恩在5月提出每股125美元的555亿美元收购要约，被eBay拒绝。他计划整合GameStop门店和eBay，打造游戏和收藏品领域的实时电商巨头。eBay尚未联系科恩，他称对方“固守己见”。",
+              "source_url": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-continues-push-to-buy-ebay-bumps-ownership-to-10",
               "source_name": "IGN",
-              "published_at": "2026-07-20T21:08:13+08:00"
+              "published_at": "2026-07-21T00:07:56+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "男子移植童年冷冻睾丸组织恢复精子生成能力",
+              "brief": "医学界完成一项前沿手术：一名男性通过移植童年取出并冷冻保存16年的睾丸组织，重新恢复精子生成能力。该组织是在他10岁患镰状细胞贫血、接受化疗前冷冻的。化疗会严重损伤生殖功能。移植一年后，多个组织中发现生精干细胞和活跃精子生成迹象，其中一个样本检出一枚成熟精子。这一成果有望开启不育治疗新方向。",
+              "source_url": "https://www.solidot.org/story?sid=84878",
+              "source_name": "Solidot",
+              "published_at": "2026-07-21T00:33:47+08:00"
+            },
             {
               "title": "Firefox 153.0 发布",
               "brief": "Mozilla 发布了 Firefox 153.0，这是 ESR 版本，将提供至少 15 个月的支持。主要新特性包括：Vulkan 视频解码支持、Linux 版支持 Video Acceleration API、增加对 JPEG-XL 图像格式的支持、Windows 版支持 HDR 视频播放，以及 PDF 功能增强等。",
@@ -258,6 +370,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "匈牙利政府将对比亚迪在该国投资项目展开专项审查",
+              "brief": "匈牙利总理欧尔班宣布启动对前外长西雅尔多任职比亚迪期间所涉投资项目的专项审查，因存在利益冲突和贪腐隐患。西雅尔多在担任外长时曾推动比亚迪获得千亿级公共资金、外交资源及基建配套扶持。审查将涵盖补贴、税收减免、审批绿色通道及环保豁免等权益，同时计划修订法规收紧前公职人员离职后的从业限制。现任外长批评前外长入职受其政策扶持企业的行为史无前例。西雅尔多已正式离职加入比亚迪，并与塞格德市市长对接工作。总理明确表示事件涉嫌贪腐，将从严追责并完善公职人员离任监管制度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569620.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-21T00:58:17+08:00"
+            },
+            {
               "title": "PS5模拟器进展迅速 已能在PC上启动《羊蹄山之魂》",
               "brief": "PS5模拟器SharpEmu取得重要进展，成功在PC上启动《羊蹄山之魂》至启动画面，但随后崩溃。此前该模拟器已能运行2D游戏《Dreaming Sarah》并让《血源诅咒》进入加载画面。另一款PS5模拟器KtytyPS5也能将《给他爱5》运行至主菜单。这些进展表明PS5模拟器发展速度甚至超过当年的PS4模拟器，未来有望流畅运行更多PS5独占大作。",
               "source_url": "https://www.cnbeta.com.tw/articles/game/1569618.htm",
@@ -291,25 +410,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为超充上线大众充电地图，首批覆盖574座城市",
-              "brief": "华为超充联盟与上汽大众合作，将充电地图接入大众车型导航系统，首批覆盖全国574座城市的超充站。此前华为已与多家车企成立超充联盟2.0，覆盖200多城市及50多条高速公路，并入驻高德地图。华为全液冷超充终端最大功率600kW，充电成功率99%，适配200-1000伏车型，噪声低于55dB，寿命超10年。",
-              "source_url": "https://www.ithome.com/0/979/259.htm",
+              "title": "苹果 watchOS 26.6 RC 发布",
+              "brief": "苹果向 Apple Watch 用户推送了 watchOS 26.6 RC 更新。该版本是 watchOS 26.6 的候选发布版，主要修复问题和提升稳定性。用户需注册 Apple Beta 版软件计划或开发者计划，通过设置中的软件更新进行升级。具体更新内容稍后公布。",
+              "source_url": "https://www.ithome.com/0/979/267.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T23:13:47+08:00"
+              "published_at": "2026-07-21T01:28:11+08:00"
             },
             {
-              "title": "苹果图书和亚马逊出现大量AI生成的盗版书",
-              "brief": "记者发现其传记被AI仿冒后调查，揭示平台上存在数千本AI生成的假冒书籍。这些书由ChatGPT快速生成，伪造作者和出版社信息，售价9.99至20.99美元，模仿正版封面和结构。畅销书作者如Lena Dunham等也受害。苹果下架后新假冒版本又出现，且亚马逊按需印刷服务使假书可进入实体市场。专家建议购书前查看评价和试读章节。",
-              "source_url": "https://www.ithome.com/0/979/258.htm",
+              "title": "苹果 visionOS 26.6 RC 发布",
+              "brief": "苹果向 Vision Pro 用户推送了 visionOS 26.6 RC 更新。该版本是 visionOS 26.6 的候选发布版，主要修复问题和提升稳定性。用户需注册开发者计划，通过设置中的软件更新进行升级。具体更新内容稍后公布。",
+              "source_url": "https://www.ithome.com/0/979/266.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T23:13:20+08:00"
+              "published_at": "2026-07-21T01:28:11+08:00"
             },
             {
-              "title": "消息称Bose QuietComfort第二代头戴式降噪耳机8月发布，售价359美元",
-              "brief": "据消息，Bose将于8月发布QuietComfort第二代头戴式耳机，海外售价359美元。新款采用药丸状耳罩和更宽头梁，增加合成皮革；支持Bose TrueSpatial空间音频和USB-C无损音频；ActiveSense技术可自动削弱突发噪音；新增沉浸、影院等模式；通话降噪提升；按键布局优化。开启降噪后续航24小时，同时开启空间音频为18小时。",
-              "source_url": "https://www.ithome.com/0/979/257.htm",
+              "title": "苹果 macOS 26.6 RC 发布",
+              "brief": "苹果向 Mac 用户推送了 macOS 26.6 RC 更新。该版本是 macOS 26.6 的候选发布版，主要修复问题和提升稳定性。用户需注册 Apple Beta 版软件计划或开发者计划，通过设置中的软件更新进行升级。具体更新内容稍后公布。",
+              "source_url": "https://www.ithome.com/0/979/265.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T23:10:43+08:00"
+              "published_at": "2026-07-21T01:28:11+08:00"
+            },
+            {
+              "title": "苹果 iOS/iPadOS 26.6 RC 发布",
+              "brief": "苹果向 iPhone 和 iPad 用户推送了 iOS/iPadOS 26.6 RC 更新。该版本是 iOS/iPadOS 26.6 的候选发布版，主要修复问题和提升稳定性。用户需注册 Apple Beta 版软件计划或开发者计划，通过设置中的软件更新进行升级。具体更新内容稍后公布。",
+              "source_url": "https://www.ithome.com/0/979/264.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-21T01:28:11+08:00"
+            },
+            {
+              "title": "苹果 macOS 27.0 开发者预览版 Beta 4 发布",
+              "brief": "苹果向 Mac 用户推送了 macOS 27.0 开发者预览版 Beta 4 更新。该版本是 macOS 27 的第四个测试版，主要修复问题和提升稳定性。用户需注册 Apple Beta 版软件计划或开发者计划，通过设置中的软件更新进行升级。具体更新内容稍后公布。",
+              "source_url": "https://www.ithome.com/0/979/263.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-21T01:28:10+08:00"
             }
           ]
         }
