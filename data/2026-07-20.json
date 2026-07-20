@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T18:50:22.789340+08:00",
+  "generated_at": "2026-07-20T20:50:32.560231+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "macOS 27测试版中隐藏的Siri界面：启用方法",
+              "brief": "苹果在macOS 27 Golden Gate测试版中隐藏了一个Siri AI弹出界面，当用户选中文本时，会在左上角显示浮动图标，悬停后展开为写作工具和上下文操作面板。该功能默认关闭，可通过终端命令启用，但尚未完成，部分操作无响应，不确定是否会出现在最终版本中。",
+              "source_url": "https://www.macrumors.com/2026/07/20/secret-siri-interface-macos-27-beta-enable/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-20T19:09:36+08:00"
+            },
             {
               "title": "苹果在天才吧测试“实时笔记”功能",
               "brief": "苹果正在部分门店的Genius Bar测试一项名为“Live Notes”的AI驱动功能，该功能可以转录员工与顾客的对话。据彭博社马克·古尔曼报道，该系统目前为选择性加入，仅在员工和顾客都同意的情况下使用。转录内容会添加到员工的iPad中作为维修记录的一部分，旨在节省员工记录时间，让他们更专注于服务顾客。",
@@ -33,13 +40,6 @@
               "title": "密歇根州新Apple Store将于本月晚些时候开业",
               "brief": "苹果位于密歇根州安娜堡Briarwood Mall的零售店将于7月31日上午10点搬迁至商场内新址，新店面积更大，入口正对商场新户外空间“The Lawn”。",
               "source_url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-19T21:48:27+08:00"
-            },
-            {
-              "title": "“AppleCare One”现在更具价值",
-              "brief": "尽管本周Mac和iPad的AppleCare+月付和年付价格小幅上涨，但AppleCare One在美国仍保持每月19.99美元起，可覆盖最多三台设备，每增加一台仅需5.99美元。例如，同时拥有iPhone 17 Pro、M5 MacBook Air和A17 Pro iPad mini，单独购买AppleCare+每月需26.97美元，而AppleCare One仅需19.99美元，每月节省6.98美元。该服务目前仅在美国提供。",
-              "source_url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
               "source_name": "MacRumors",
               "published_at": "2026-07-19T21:48:27+08:00"
             }
@@ -82,6 +82,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "超越grep：上下文丰富的AI编码工具的必要性",
+              "brief": "Augment Code工程副总裁Vinay Perneti讨论了AI编码工具的发展，强调在模型快速进步的背景下，构建轻量级“工具框架”比过度定制功能更重要。工具框架是围绕AI模型构建的软件层，决定模型能看到的上下文、可执行的操作以及与代码库的交互方式。与Claude Code等产品保持简洁框架不同，Perneti主张提供丰富的上下文信息以提升编码辅助效果。",
+              "source_url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-20T19:20:10+08:00"
+            },
+            {
               "title": "印度首枚私人研发火箭首飞成功入轨",
               "brief": "印度太空研究组织主席与Skyroot Aerospace首席执行官共同庆祝维克拉姆-1火箭成功发射。该火箭于周六从印度斯里哈里科塔岛航天中心升空，将载荷送入约450公里高的轨道。这是印度首枚完全商业化的卫星运载火箭，由私人企业Skyroot Aerospace研制。尽管发射因技术问题延迟半小时，但最终顺利完成任务。维克拉姆-1高约22米，采用固体燃料，规模小于印度主力火箭。",
               "source_url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
@@ -108,19 +115,19 @@
               "source_url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-18T03:19:42+08:00"
-            },
-            {
-              "title": "赫格塞斯欲打造“高睾酮”军队，医生称此为临床雷区",
-              "brief": "美国国防部长赫格塞斯宣布，30岁及以上现役和预备役人员将强制接受睾酮缺乏筛查，旨在“优化表现和长期健康”。但内分泌学会指出，广泛筛查和治疗男性性腺功能减退症存在复杂性，现有证据不足以支持大规模筛查，可能带来不必要的治疗和风险。",
-              "source_url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-18T02:53:11+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星Galaxy Watch Ultra 2泄露：更薄、更亮的旗舰智能手表",
+              "brief": "在三星Galaxy Unpacked活动前两天，新泄露的渲染图展示了Galaxy Watch Ultra 2的升级细节。该手表将防尘防水等级从IP68提升至IP69K，厚度减少12%，电池容量从590mAh增至800mAh，屏幕亮度从3000尼特提升至5000尼特，并搭载Snapdragon Wear Elite芯片。这些信息来自Evan Blass的泄露，与之前传闻一致，但最终规格和价格需待周三活动确认。",
+              "source_url": "https://www.engadget.com/2218419/samsung-galaxy-watch-ultra-2-leak-thinner-brighter-flagship-smartwatch/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-20T19:23:56+08:00"
+            },
             {
               "title": "柯达EC35：一款便携、适合初学者的35mm胶片相机",
               "brief": "柯达与Reto合作推出新款EC35胶片相机，售价35美元，旨在以一次性相机的易用性吸引入门用户。该相机配备25mm f/10固定光圈镜头、1/100秒固定快门速度和内置闪光灯，并设有滑盖保护镜头兼作快门锁，方便随身携带。EC35提供七种颜色选择，可单独购买或加10美元捆绑柯达Ultramax 400胶卷。相比Reto此前100美元的Kodak Snapic A1和50美元的EKTAR H35，EC35进一步降低了胶片摄影门槛。",
@@ -155,6 +162,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "阿里速卖通因销售非法产品被罚近6.3亿美元",
+              "brief": "欧盟委员会对阿里速卖通处以5.5亿欧元（约6.29亿美元）罚款，原因是其违反《数字服务法》，未能有效阻止平台上销售非法、不安全或假冒产品。这是该法案迄今最大的一笔罚款。委员会指出，速卖通未采取有效措施减少非法产品传播，包括投入不足的审核人员，且在检测到不安全玩具和危险化妆品后数周内未能将其下架。",
+              "source_url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+              "source_name": "The Verge",
+              "published_at": "2026-07-20T07:16:32-04:00"
+            },
+            {
               "title": "中国对美国AI主导地位发起双重打击",
               "brief": "中国领先的AI公司加大对硅谷的压力，Moonshot和阿里巴巴相继发布前沿模型，声称性能可与OpenAI和Anthropic的最佳产品媲美，且成本更低。Moonshot于周五推出Kimi K3，据其内部测试，该模型在大多数基准上仅次于OpenAI的GPT-5.6 Sol和Anthropic的Claude Fable 5。随后阿里巴巴在周末预览了Qwen新模型。这些快速发布表明，美国在AI前沿的领先优势正日益缩小，而AI技术正成为国家安全、经济实力和地缘政治影响力的核心。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
@@ -181,19 +195,33 @@
               "source_url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
               "source_name": "The Verge",
               "published_at": "2026-07-19T13:35:54-04:00"
-            },
-            {
-              "title": "据报道，FBI将不再调查ICE",
-              "brief": "据《纽约时报》报道，联邦特工已被告知，FBI将不再调查涉及ICE特工的冲突。这一变化实际上让ICE自行调查，导致特工几乎不可能被追责。此前，ICE特工在两周内于缅因州和得克萨斯州枪杀两人，引发对暴力行为的重新审视。新指引将终止FBI对DHS特工袭击案的调查。国土安全部和司法部向《纽约时报》否认了政策变化。",
-              "source_url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-              "source_name": "The Verge",
-              "published_at": "2026-07-19T12:42:10-04:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果产品价格上涨预计将减缓升级周期",
+              "brief": "9to5Mac的一项读者调查显示，超过90%的读者表示将因苹果产品价格上涨而改变购买行为，其中38%的人会减少升级频率。此前苹果部分内存和存储升级价格涨幅超过50%，分析师报告指出供应链定价在2028年前不会改善，甚至此后效果也有限。调查中仅9%的读者表示价格不会影响其购买决策。这可能促使苹果为保护需求而降价。",
+              "source_url": "https://9to5mac.com/2026/07/20/higher-apple-prices-look-set-to-slow-upgrade-cycles/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-20T20:46:12+08:00"
+            },
+            {
+              "title": "Mac 出现彩球和触控板无响应？这个修复方法似乎有效",
+              "brief": "近期部分Mac用户遇到系统间歇性冻结、触控板无响应和彩球光标问题。活动监视器显示mediaanalysisd、kernel_task和corespotlightd等进程占用高CPU。Macworld的Michael Simon发现删除~/Library/Metadata/CoreSpotlight文件夹可解决该问题，尽管需要重建Spotlight索引，但两周后问题未复发。本文作者测试一天也未再出现该问题。",
+              "source_url": "https://9to5mac.com/2026/07/20/mac-beach-balls-and-unresponsive-trackpad-this-fix-seems-to-work/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-20T19:34:31+08:00"
+            },
+            {
+              "title": "AI 伪造书籍在 Apple Books 上问题日益严重，有的仅用数小时“写成”",
+              "brief": "作家Sophie Stern发现Apple Books上出现多本AI生成的假书，模仿其畅销书的封面和结构，意图欺骗读者。她虽成功让苹果移除这些假书，但很快又有新的出现。类似情况也发生在Lena Dunham和Haley Sacks等作家身上。记者Kashmir Hill还发现亚马逊上有数千本AI伪造的传记，作者和照片均为虚构。这些AI书籍在Apple Books和亚马逊上数以万计，引发对平台审核能力的质疑。",
+              "source_url": "https://9to5mac.com/2026/07/20/ai-fakes-a-growing-problem-on-apple-books-some-written-in-a-few-hours/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-20T19:09:53+08:00"
+            },
             {
               "title": "iOS 27 以30多种方式提升iPhone速度",
               "brief": "苹果在iOS 27中通过系统级优化显著提升iPhone性能，涵盖照片、Safari、AirDrop等核心功能。苹果表示，该更新旨在让日常任务更快速流畅。具体改进包括：照片新拍摄内容加载速度提升最高70%，相机在低电量模式下启动更快，Safari网页内容加载和应用性能提升，AirDrop传输速度提高最高80%，以及应用启动速度提升最高30%。iOS 27兼容iPhone 11及更新机型，部分性能数据基于苹果在iPhone上的测试。",
@@ -207,19 +235,33 @@
               "source_url": "https://9to5mac.com/2026/07/19/apple-testing-live-notes-ai-system-to-record-genius-bar-sessions-report/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-20T06:40:39+08:00"
-            },
-            {
-              "title": "苹果已取消的Mac Pro计划中包含一款英特尔型号",
-              "brief": "据马克·古尔曼报道，苹果曾开发两款未发布的Mac Pro机型，其中一款搭载英特尔处理器，另一款为M3 Ultra版本。苹果最初计划推出“Extreme”芯片，但因成本和需求担忧取消了M2 Extreme和M3 Extreme项目。最终，苹果于3月停售Mac Pro，将用户引向Mac Studio。",
-              "source_url": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-20T04:10:46+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "读者投票：免费应用中最重要的是无广告，而非开源",
+              "brief": "Android Authority发起读者投票，询问免费应用最重要的特性。结果显示，33.6%的受访者最看重无广告，12.4%看重无付费墙，仅5.7%认为开源重要，而48.2%认为三者同等重要。这表明用户对广告的厌恶程度很高，而开源并非多数人的首要考量。",
+              "source_url": "https://www.androidauthority.com/features-free-apps-poll-results-3689146/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-20T20:14:40+08:00"
+            },
+            {
+              "title": "三星Wear OS浏览器现支持下载图片和GIF",
+              "brief": "三星更新Wear OS版浏览器，新增图片下载功能。用户可长按图片选择下载，支持PNG、JPG、JPEG和GIF格式，文件最大10MB。下载的图片保存在手表内部存储的Downloads文件夹中，但需第三方文件管理器或图库应用查看。该功能已随最新版本推出。",
+              "source_url": "https://www.androidauthority.com/samsung-browser-wear-os-download-image-3689183/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-20T19:33:41+08:00"
+            },
+            {
+              "title": "发现新的Android开发者验证器应用？卸载前先了解",
+              "brief": "用户发现Android手机上静默安装了“Android Developer Verifier”应用（包名com.google.android.verifier），该应用是Google即将推出的侧载限制的一部分，用于验证侧载应用是否来自已验证的开发者账户。该限制将于9月30日起在部分地区实施，包括24小时等待和重启手机，以防范社交工程诈骗。目前该应用对大多数用户处于休眠状态，高级用户仍可通过ADB安装应用绕过等待。",
+              "source_url": "https://www.androidauthority.com/android-developer-verifier-app-rollout-3689106/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-20T18:55:13+08:00"
+            },
             {
               "title": "朝鲜版Pixel 8 Pro克隆机在某些方面超越谷歌旗舰",
               "brief": "一款模仿谷歌Pixel 8 Pro的朝鲜克隆手机出现在上手视频中，它配备了16GB RAM、256GB存储、120Hz屏幕和可解锁的引导加载程序。虽然搭载的是较弱的联发科天玑7050芯片，但在持续高负载下运行温度明显低于真机，甚至在长焦微距拍摄等少数领域表现更优。该克隆机外观几乎与Pixel 8 Pro无异，但内部配置和散热表现令人意外。",
@@ -233,27 +275,6 @@
               "source_url": "https://www.androidauthority.com/samsung-unpacked-most-exciting-android-brand-fold-8-3688522/",
               "source_name": "Android Authority",
               "published_at": "2026-07-20T18:30:58+08:00"
-            },
-            {
-              "title": "LG显示器在Windows PC上静默安装广告软件",
-              "brief": "LG被曝在用户将特定型号显示器连接到Windows电脑时，会自动静默安装名为“LG Monitor App Installer”的软件，该软件会弹出McAfee杀毒订阅广告。受影响的包括售价超1000美元的UltraGear 34GX900A-B等型号。该软件可占用系统资源并访问网络，其隐私政策收集姓名、电话、设备信息等数据，但未明确提及该应用。",
-              "source_url": "https://www.androidauthority.com/lg-monitors-adware-app-install-windows-pc-3689115/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-20T18:30:54+08:00"
-            },
-            {
-              "title": "Pixel 11 Pro的LED灯是对安卓经典通知灯的巧妙致敬",
-              "brief": "谷歌在Pixel 11 Pro的相机条中嵌入了名为Pixel Glow的可变色LED灯阵，用于在屏幕关闭时显示通知信息。这实际上是早期安卓手机常见通知LED灯的现代化升级，但谷歌的设计比Nothing Phone的Glyph灯更为克制。该功能预计将在Pixel 11 Pro上首发，成为其标志性特性之一。",
-              "source_url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-20T18:00:20+08:00"
-            },
-            {
-              "title": "使用Galaxy Z Flip 7一年后，三星应停止翻盖折叠机",
-              "brief": "作者使用Galaxy Z Flip 7近一年后认为，虽然手机性能稳定、铰链坚固，但缺乏独特体验，难以与摩托罗拉Razr系列竞争。翻盖折叠机在相机、电池和耐用性上妥协，而Z Flip 7的Exynos 2500芯片和1200万像素相机并未提供足够吸引力。传言称Galaxy Z Flip 8可能是三星最后一款翻盖折叠机。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-flip-7-one-year-later-samsung-should-quit-3688346/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-20T17:30:39+08:00"
             }
           ]
         }
@@ -265,6 +286,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《龙枪：战争法师》是玛格丽特·魏丝和崔西·西克曼传奇奇幻系列的新小说——我们获得了独家节选",
+              "brief": "玛格丽特·魏丝和崔西·西克曼合著的新龙枪小说《战争法师》将于八月出版。这部前传设定在原始龙枪编年史之前，讲述未来传奇人物胡马·龙灾和玛吉斯在第三次龙战期间的早年经历。故事围绕两个年轻英雄在龙、魔法和战争威胁日益加剧的背景下崛起，以及他们之间改变世界的友谊展开。IGN独家发布了节选片段。",
+              "source_url": "https://www.ign.com/articles/dragonlance-war-wizard-is-the-next-novel-in-the-legendary-fantasy-series-from-margaret-weis-and-tracy-hickman-and-weve-got-an-exclusive-excerpt",
+              "source_name": "IGN",
+              "published_at": "2026-07-20T18:17:18+08:00"
+            },
+            {
+              "title": "“请在我们玩GTA6的时候玩我们”：刺客信条黑旗重制版开发者暗示发售后支持",
+              "brief": "《刺客信条：黑旗》重制版《Resynced》将于11月19日发售，恰逢《GTA6》预计占据大量游戏时间。游戏总监理查德·奈特在谈及未来更新内容时卖关子，但提到了此前育碧确认的新游戏+模式。该重制版试图在《GTA6》热潮中吸引玩家，开发者幽默地请求玩家在玩《GTA6》之余也体验他们的作品。",
+              "source_url": "https://www.ign.com/articles/please-play-us-when-gta-6-comes-out-assassins-creed-black-flag-resynced-developer-teases-post-game-support",
+              "source_name": "IGN",
+              "published_at": "2026-07-20T18:09:40+08:00"
+            },
             {
               "title": "克里斯托弗·诺兰引用为《奥德赛》灵感的希腊译者推荐观看影片，但对改编有几点异议",
               "brief": "克里斯托弗·诺兰改编的《奥德赛》上映后引发热议，曾被视为诺兰创作灵感的希腊译者Eleni Kefala表示推荐观众观看，但对其改动有异议。影片采用当代对话和现代美式口音，选角和盔甲设计也曾引发讨论。马特·达蒙饰演奥德修斯，汤姆·霍兰德饰演其子忒勒马科斯，罗伯特·帕丁森饰演主要求婚者安提诺乌斯。Kefala认为诺兰的版本虽具创新性，但部分改动偏离了荷马史诗的精神。",
@@ -285,26 +320,19 @@
               "source_url": "https://www.ign.com/articles/call-of-duty-ambience-website-lets-you-fall-asleep-to-nostalgic-black-ops-and-mw2-lobbies",
               "source_name": "IGN",
               "published_at": "2026-07-20T07:05:43+08:00"
-            },
-            {
-              "title": "《魔兽世界》和《RuneScape》玩家希望官方加入吉莫西支持，游戏开发者向网红浣熊示爱",
-              "brief": "西雅图一只名为吉莫西的小浣熊因患有短脊柱综合征而体型独特，近日在社交媒体上爆红。Instagram用户基安娜·霍尔拍摄的视频使其成为网络焦点，随后游戏开发者纷纷致敬：Dee Dee Creations为其在《持枪松鼠》中制作皮肤，暴雪娱乐创作了《魔兽世界》版吉莫西渲染图，Old School RuneScape也发布了可爱形象。粉丝们呼吁官方正式加入吉莫西角色。",
-              "source_url": "https://www.ign.com/articles/world-of-warcraft-and-runescape-fans-want-official-jimothy-support-after-game-devs-show-love-for-viral-raccoon",
-              "source_name": "IGN",
-              "published_at": "2026-07-20T05:42:47+08:00"
-            },
-            {
-              "title": "Xbox表示将有更多独占游戏，但告诫玩家不要“过度执着于单人游戏”",
-              "brief": "Xbox首席战略官马修·鲍尔和首席内容官马特·布蒂在接受采访时澄清，独占游戏策略将持续，但玩家不应只关注单人作品。他们确认《战争机器：E-Day》和《发条革命》是纯平台独占，无限时独占协议。然而，近期公司泄露的《战争机器》图片带有PS5标志，加上多款游戏登陆PS5，导致玩家困惑。布蒂表示，大型服务型游戏将多平台发行，但单人游戏不一定。",
-              "source_url": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games",
-              "source_name": "IGN",
-              "published_at": "2026-07-20T03:15:57+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "有了AI后人们更不愿说不知道",
+              "brief": "法国和意大利研究人员发现，AI的使用抑制了人们的批判性思维，使人们更少承认自己不知道答案，并更容易重复AI生成的虚假信息。实验显示，无AI帮助时44%的人会回答不知道，而有AI帮助后这一比例降至3%。使用易出错的模型时，无AI正确率为27%，有AI后降至9%，但参与者自信心反而增加。",
+              "source_url": "https://www.solidot.org/story?sid=84873",
+              "source_name": "Solidot",
+              "published_at": "2026-07-20T18:34:37+08:00"
+            },
             {
               "title": "谷歌工会致信CEO要求保障被裁员工利益",
               "brief": "谷歌超过4500名员工联名致信首席执行官皮查伊，要求公司提供更明确的裁员保障，包括保证遣散费、在强制裁员前推出自愿离职计划，并取消按配额评定绩效的制度。该请愿由Alphabet员工工会发起，已递交至谷歌总部。工会主席考尔表示，谷歌市值约4万亿美元，却在成功时不断裁员，显示管理层将利润置于员工之上。员工还要求允许将遣散费换成更长时间的带薪休假。请愿书递交时管理层未正式回应，仅由职员承诺转交。",
@@ -332,13 +360,6 @@
               "source_url": "https://www.solidot.org/story?sid=84869",
               "source_name": "Solidot",
               "published_at": "2026-07-20T15:39:48+08:00"
-            },
-            {
-              "title": "六分之一的 Windows 设备仍然运行 Windows 10",
-              "brief": "资产管理服务商 Lansweeper 数据显示，仍有 16.9% 的 Windows 设备运行 Windows 10，其中中小企业占比高达 21.4%。自微软去年终止主流支持后，迁移速度明显放缓，成本是主要原因。Windows 10 设备平均有 1903 个活跃 CVE 漏洞，是 Windows 11 设备的 2.9 倍，安全风险更高。",
-              "source_url": "https://www.solidot.org/story?sid=84868",
-              "source_name": "Solidot",
-              "published_at": "2026-07-20T14:16:47+08:00"
             }
           ]
         },
@@ -419,39 +440,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "欧洲议会测试内部EPGenAI平台，为议员提供更安全的生成式AI环境",
-              "brief": "欧洲议会正在测试内部生成式AI平台EPGenAI Hub，旨在为议员和工作人员提供更安全的AI环境。平台目前处于测试阶段，预计今年9月全面开放，支持Llama、GPT-OSS、Mistral Small等开放权重模型，以及ChatGPT和Claude Sonnet等外部托管模型。尽管欧盟致力于减少对美国科技依赖，但平台仍大量使用美国技术，引发争议。议会表示将调整模型供给，引入更多欧洲或“主权云”模型，以符合政策取向。此前议会已采取替换默认搜索引擎等措施加强数据保护。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569582.htm",
+              "title": "Windows安全更新导致高刷新率显示器频繁黑屏",
+              "brief": "微软Windows安全更新KB5101650被曝引发高刷新率显示器问题。用户反映，安装更新后将刷新率设为400Hz时画面每隔1到2秒黑屏一次，降至360Hz或300Hz仍无法正常使用，需降至240Hz才恢复稳定。社交媒体上已有不少用户反馈类似显示与显卡驱动冲突，其中AMD显卡用户比例较高。微软表示已收到反馈并正在调查，在修复方案发布前建议用户暂时降低刷新率。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569606.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-20T17:17:55+08:00"
+              "published_at": "2026-07-20T20:35:20+08:00"
             },
             {
-              "title": "苹果零售店试行AI“Live Notes”功能，员工担忧引发监控争议",
-              "brief": "苹果在零售店试点AI“Live Notes”功能，旨在辅助员工记录顾客需求。该功能完全自愿，需双方同意才能启动，音频文件不永久保存，管理层无法查阅，员工可编辑AI生成的摘要。然而，员工仍担心该工具未来可能演变为绩效评估的监控手段，类似案例在科技行业已有先例。苹果尚未公布推广时间表，也未明确是否会强制使用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569580.htm",
+              "title": "香港资深演员谢贤去世享年89岁",
+              "brief": "香港资深演员谢贤于2026年7月20日去世，享年89岁。其子谢霆锋发文悼念，希望大家记住父亲“永远充满魅力、充满笑容的完美身影”。谢贤本名谢家钰，1936年生于香港，1950年代踏足娱乐圈，演艺生涯横跨逾70年，曾获香港电影金像奖终身成就奖，并以85岁高龄凭《杀出个黄昏》成为金像奖最年长影帝。据港媒报道，谢贤遗嘱中将90%遗产留给两个孙子，剩余10%由谢霆锋和谢婷婷平分。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1569604.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-20T15:11:03+08:00"
+              "published_at": "2026-07-20T20:35:08+08:00"
             },
             {
-              "title": "特朗普政府拟推动联合国签署“言论自由宣言”，意在挑战欧盟科技监管",
-              "brief": "特朗普政府计划推动联合国签署一份“言论自由宣言”，旨在挑战欧盟的科技监管法规。该宣言要求签署国承诺，除非内容直接煽动暴力，否则不应以“虚假信息”等为由惩罚言论。美国副国务卿表示，该文件旨在促进透明度，无意推翻欧盟《数字服务法案》。但欧洲议员批评此举是“全球狂野西部”，试图让大型科技平台不受监管。欧盟正考虑谈判防止其设定先例。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569578.htm",
+              "title": "影视飓风回应员工陪老板演松弛感争议",
+              "brief": "影视飓风近期因员工陪老板演松弛感引发争议，创始人Tim在直播中回应。此前影视飓风推出定价49元的AI实战课程，上线首日销量超10万份，但收获数十条差评，集中于模板化操作无自由度和生成效果不符预期。Tim还表示考虑停掉Q&A节目，因为该节目被切片后脱离语境易引发误解，并指出营销号问题难以维权。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1569602.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-20T15:09:49+08:00"
+              "published_at": "2026-07-20T20:34:07+08:00"
             },
             {
-              "title": "Hugging Face遭AI智能体攻击，取证受阻后改用国产GLM 5.2模型",
-              "brief": "Hugging Face的生产基础设施遭一个自主AI智能体入侵，攻击者利用数据集处理管道中的代码执行路径，在周末期间提升权限并横向移动，窃取了云和集群凭证。Hugging Face的异常检测管道标记了入侵，但在利用商业前沿模型进行取证分析时，因安全护栏阻止提交真实攻击载荷而失败。随后，Hugging Face改用开源模型GLM 5.2在自有基础设施上成功完成分析，避免了数据外泄。白宫AI顾问批评美国模型限制导致竞争力下降。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569576.htm",
+              "title": "中国智能手机市场第二季度出货量下降2%，华为逆势增长",
+              "brief": "Counterpoint数据显示，2026年第二季度中国智能手机出货量同比下降2%，主要因零部件成本上涨导致厂商减少低端机型生产。华为以23%市场份额位居第一，出货量同比增长24%，得益于畅享90 Pro Max和Pura X Max的强劲需求。苹果以18%份额排名第二，出货量同比增长23%，因价格差距缩小和预期涨价促使消费者提前购机。OPPO、vivo、小米和荣耀份额分别为16%、16%、13%和11%，均有所下降。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569600.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-20T15:07:16+08:00"
+              "published_at": "2026-07-20T20:33:23+08:00"
             },
             {
-              "title": "波音表示到2030年将具备资金能力，可投入全新飞机研发项目",
-              "brief": "波音CEO奥特伯格在范堡罗航展开幕前夕表示，公司到2030年将具备资金能力启动全新客机研发项目，以在窄体客机市场与空客竞争。空客计划2030年启动新窄体机研发。奥特伯格强调，财务稳定是推出新机型的首要任务，随着737MAX产能提升，下半年有望实现正向现金流。两款最新737MAX机型及777X完成适航认证后，将释放更多资金用于下一代客机。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569574.htm",
+              "title": "库存告急，洛克希德马丁计划推出平价爱国者导弹",
+              "brief": "洛克希德马丁计划在范堡罗国际航展推出新型平价爱国者导弹，以应对美军高端拦截弹库存持续消耗的问题。目前单枚MSE拦截弹成本超400万美元，而美军启动低成本拦截弹研发项目，目标将造价控制在100万美元以内。新型导弹将兼容现有爱国者发射装置，可拦截巡航导弹和近程弹道导弹，但未披露针对远程弹道导弹的性能。洛克希德与雷神承诺未来数年将部分导弹产能提升至三到四倍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1569598.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-20T15:04:08+08:00"
+              "published_at": "2026-07-20T20:32:18+08:00"
             }
           ]
         },
@@ -459,39 +480,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "AI大模型周榜：国产Kimi K3首次进入综合榜前十，登顶前端开发榜",
-              "brief": "在最新一期AI大模型周榜中，国产模型Kimi K3以1486分ELO排名综合榜第九，首次跻身前十，并在代码榜位列第十，同时登顶前端开发榜。综合榜头部由Claude、Meta、谷歌、OpenAI等模型主导，Claude Fable 5以1507分居首。国产模型在中上游表现稳定，阿里Qwen3.7、智谱GLM等均在前列。代码榜方面，Claude Opus 4-7 Thinking升至第一。",
-              "source_url": "https://www.ithome.com/0/979/196.htm",
+              "title": "德国DDR5内存价格飙至历史新高，装机成本大幅提升",
+              "brief": "根据3D Center统计，德国市场DDR5内存价格在2026年7月达到历史最高点，价格指数升至448%，相比6月的419%涨幅明显。几乎所有型号均出现涨价，其中2×16GB DDR5-6000 CL28和2×16GB DDR5-7200+环比涨幅接近16%～17%，仅2×48GB DDR5-6400和2×24GB DDR5-7200价格变化较小。当前价格已接近2025年7月水平的4倍，使组装新电脑和升级PC的成本越来越高。",
+              "source_url": "https://www.ithome.com/0/979/226.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T18:38:43+08:00"
+              "published_at": "2026-07-20T20:39:53+08:00"
             },
             {
-              "title": "国投电力拟与宁德时代合资建设牙根二级水电站，总投资333.94亿元",
-              "brief": "国投电力公告称，拟与宁德时代合资设立项目公司，投资建设牙根二级水电站。项目动态总投资333.94亿元，资本金66.79亿元占20%。水电站装机容量86.45亿千瓦时，总工期101个月，预计2035年首台机组投产，2036年全部建成。此举旨在整合双方资源，推动清洁能源发展。",
-              "source_url": "https://www.ithome.com/0/979/205.htm",
+              "title": "白帽子行为构成实质性安全侵害：小米发布MiSRC违规事件处置公告，奖励取消、保留法律追责权利",
+              "brief": "小米安全中心发布公告，称一名白帽子通过MiSRC平台提交的漏洞报告与一起入侵事件高度关联，其行为已超出正常漏洞挖掘范畴，构成实质性安全侵害。该行为违反了《小米安全中心安全漏洞奖励规则V10.0》的基本原则，小米决定取消该漏洞奖励、公开通报，并保留追究法律责任的权利。小米强调安全测试必须在授权范围内进行，严禁利用SRC平台掩盖非法入侵行为。",
+              "source_url": "https://www.ithome.com/0/979/225.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T18:30:05+08:00"
+              "published_at": "2026-07-20T20:36:01+08:00"
             },
             {
-              "title": "奇瑞风云A9长续航纯电轿跑将于7月25日上市，预售价11.59万元起",
-              "brief": "奇瑞风云A9定位长续航智美纯电轿跑，将于7月25日上市，预售11.59万元起。该车搭载AI灵犀智舱2.0，配备3nm座舱芯片和23扬声器音响，支持猎鹰辅助驾驶，含激光雷达等传感器，可实现城市及高速NOA。尺寸4836×1896×1489mm，轴距2900mm，单电机最大功率178kW，CLTC续航655km，快充20分钟。",
-              "source_url": "https://www.ithome.com/0/979/204.htm",
+              "title": "五羊本田E-VO电动摩托车发布：最高续航170km、大疆相机联动，29999元起",
+              "brief": "五羊本田发布E-VO电动摩托车，搭载中置电机，最高转速10000RPM，最高速度120km/h，0-50km/h加速2.8秒，支持BOOST一键加速。WMTC工况最高续航170km，配备新能安三元锂电池，1500次循环后健康度高于85%。双电版4.1kWh续航120km，三电版6.2kWh续航170km。智能双仪表包括7寸TFT主屏和副屏，支持导航、音乐、胎压显示及大疆相机联动，起售价29999元。",
+              "source_url": "https://www.ithome.com/0/979/224.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T18:29:14+08:00"
+              "published_at": "2026-07-20T20:32:10+08:00"
             },
             {
-              "title": "天文学家警告：人造“土星环”式卫星群可能很快布满天空",
-              "brief": "天文学家警告，为容纳大规模轨道数据中心星座，可能需在地球晨昏线附近堆叠卫星，形成人造“土星环”，亮度或超满月。多家公司已向FCC申请发射超100万颗数据中心卫星，另有Reflect Orbital计划发射5万面太空镜。模拟显示，这些卫星将形成明亮光带，每天两次划过天空，严重影响天文观测，甚至使望远镜效率大幅下降。",
-              "source_url": "https://www.ithome.com/0/979/202.htm",
+              "title": "威刚陈立白：现阶段讨论AI泡沫言之过早，未来十年最短缺的资源是内存和电力",
+              "brief": "威刚董事长陈立白表示，当前讨论AI泡沫为时过早，认为AI应用将全面扩展至B2B、B2G、B2C等模式，算力需求将持续放大。针对三星、SK海力士及美光扩产，陈立白称三大原厂将采取理性审慎策略，不会无序扩产。他预测未来十年全球最短缺的两项资源是内存和电力，尤其是绿电。",
+              "source_url": "https://www.ithome.com/0/979/223.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T18:24:40+08:00"
+              "published_at": "2026-07-20T20:31:55+08:00"
             },
             {
-              "title": "雷鸟Q9升级版34英寸带鱼屏显示器首销：1440P 240Hz Mini LED，4199元",
-              "brief": "雷鸟推出Q9升级版34英寸带鱼屏显示器，采用304分区Mini LED背光Fast HVA面板，曲率1500R，峰值亮度1600尼特，GtG响应1ms，支持10-Bit色深，覆盖98% DCI-P3色域。配备双3W扬声器、90W USB-C等接口，支架可升降旋转。首销价4199元，主打高刷高亮电竞体验。",
-              "source_url": "https://www.ithome.com/0/979/201.htm",
+              "title": "研究：AI会削弱人类批判性思维，降低人们说“我不知道”的意愿",
+              "brief": "米兰比可卡大学等机构的研究发现，AI建议会显著降低人们承认“不知道”的意愿。实验中，无AI时44%的参与者选择回答“我不知道”，而获得AI建议后仅3%的人这样做。同时，AI建议使准确率从27%降至9%，但自信度从30%升至76%。金钱激励仅部分改善，承认“不知道”的比例升至8%，准确率升至16%，仍远低于无AI时。研究者担心AI对儿童批判性思维能力的培养产生负面影响。",
+              "source_url": "https://www.ithome.com/0/979/222.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-20T18:22:44+08:00"
+              "published_at": "2026-07-20T20:29:11+08:00"
             }
           ]
         },
@@ -499,39 +520,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "影身智能与多家越南企业达成战略合作，首批交付数百台机器人",
-              "brief": "杭州影身智能技术有限公司宣布与宝龙鞋业、顺斐鞋业、越韩鞋业等多家越南制鞋企业达成战略合作，将交付ShadowGlue和ShadowPress两款制鞋具身机器人。依托全栈自研的4D世界模型技术和具身智能算法，影身智能旨在助力越南制鞋产线向柔性化、智能化升级。首批交付数百台柔性具身机器人，订单金额达数千万元人民币。",
-              "source_url": "https://36kr.com/newsflashes/3903839074617220?f=rss",
+              "title": "尼卡光学完成近亿元A轮融资",
+              "brief": "全息技术企业尼卡光学宣布完成近亿元A轮融资，由中银国际投资、天津滨海产业基金、Gobi Partners、中信建投、珠海全志科技等机构共同投资。公司成立于2022年7月，专注于体全息技术，融资将用于体全息光波导产线投产及技术迭代，以推动在AI眼镜、车载AR-HUD等场景的产业化应用。",
+              "source_url": "https://36kr.com/newsflashes/3903974776292998?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-20 18:45:26  +0800"
+              "published_at": "2026-07-20 20:48:30  +0800"
             },
             {
-              "title": "兆易创新：不存在其他应披露未披露的重大事项",
-              "brief": "兆易创新公告称，公司股票连续3个交易日内日收盘价格跌幅偏离值累计超过20%，属于股票交易异常波动情形。经自查并向控股股东及实际控制人书面询问，截至公告日，公司不存在影响股票交易异常波动的重大事项，亦不存在其他应披露未披露的重大信息。公司目前生产经营正常，未发生重大变化。",
-              "source_url": "https://36kr.com/newsflashes/3903836942501513?f=rss",
+              "title": "零一万物启动新一轮融资，拟2027年申请IPO",
+              "brief": "据媒体报道，李开复创立的AI公司零一万物正推进融资，并计划2027年申请IPO。李开复计划在公司首次公布年度业绩前后完成本轮融资，但未透露目标金额和潜在投资者。目前公司正逐步解除离岸控股架构，为海外上市做准备。截至发稿，零一万物对此暂无回应。",
+              "source_url": "https://36kr.com/newsflashes/3903968879511169?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-20 18:41:03  +0800"
+              "published_at": "2026-07-20 20:45:20  +0800"
             },
             {
-              "title": "睿创微纳：预计上半年归母净利润同比增长242%到270%",
-              "brief": "睿创微纳公告，预计2026年上半年归母净利润12亿元至13亿元，同比增长242%到270%，上年同期盈利3.51亿元。业绩增长主要受益于行业需求高度景气，公司在手订单充裕且新接订单向好，同时产能持续释放，二季度营收实现同比和环比双增长。得益于红外8μm产品批量出货及规模效应与良率提升，上半年毛利率显著提高。",
-              "source_url": "https://36kr.com/newsflashes/3903838286530185?f=rss",
+              "title": "招商证券终止为6只QDII基金提供做市服务，称纯属商业行为",
+              "brief": "招商证券宣布终止为6只QDII基金提供主做市服务，包括华泰柏瑞中韩半导体ETF、华夏野村日经225ETF、华安三菱日联日经225ETF、富国纳斯达克100ETF、博时纳斯达克100ETF和华夏纳斯达克100ETF。招商证券回应称，此举是单纯的商业行为，不涉及对市场方向的判断。",
+              "source_url": "https://36kr.com/newsflashes/3903961766037124?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-20 18:39:34  +0800"
+              "published_at": "2026-07-20 20:42:13  +0800"
             },
             {
-              "title": "国瓷材料：7月27日起上调氧化锆粉体销售价格10%-40%",
-              "brief": "国瓷材料公告，决定自2026年7月27日起上调氧化锆粉体销售价格，上调幅度约10%-40%不等。调价原因是原辅材料价格持续上涨，此举将对公司经营业绩产生积极影响。但提价对销售量的影响尚不确定，且存在价格继续波动的风险。",
-              "source_url": "https://36kr.com/newsflashes/3903835888027267?f=rss",
+              "title": "淘天集团公布四项AIGX技术体系最新成果",
+              "brief": "淘天集团公布了AIGX技术体系的四项最新成果，包括拍立淘全模态实时Agent、全场景AI创作工作台if Studio、Coupella智惠引擎和Agentic推荐系统Dream。自去年双11规模化上线以来，Coupella已覆盖数十万商家，AI红包转化率提升81%，头部品牌AI引导成交超8000万元。",
+              "source_url": "https://36kr.com/newsflashes/3903953892050823?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-20 18:27:13  +0800"
+              "published_at": "2026-07-20 20:35:14  +0800"
             },
             {
-              "title": "立讯精密：2025年年度权益分派后调整回购股份价格上限",
-              "brief": "立讯精密公告，因2025年年度权益分派方案为每10股派1.390814元（含税），除权除息日为2026年7月20日，自该日起回购股份价格上限由86.80元/股调整为86.66元/股。此前公司审议通过回购方案，回购资金1亿至2亿元，回购价格原上限为86.96元/股，后因前三季度权益分派调整为86.80元/股。其他回购事项不变。",
-              "source_url": "https://36kr.com/newsflashes/3903822175831682?f=rss",
+              "title": "智明达：因特殊事项，特种领域订单受限三年",
+              "brief": "智明达公告称，因特殊事项影响，从即日起三年内公司在特种领域获取订单受限，预计对生产经营和财务状况产生一定负面影响。目前公司整体生产经营正常，已签合同不受影响。公司将围绕嵌入式计算机主业，加大其他领域开拓，拓展新应用场景和客户。",
+              "source_url": "https://36kr.com/newsflashes/3903957327628160?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-20 18:24:48  +0800"
+              "published_at": "2026-07-20 20:30:45  +0800"
             }
           ]
         }
