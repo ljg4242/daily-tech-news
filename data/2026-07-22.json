@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T02:50:33.396252+08:00",
+  "generated_at": "2026-07-22T04:50:14.900623+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,25 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "Apple邀请应用更新，新增两项功能",
+              "brief": "Apple Invites应用今日更新至1.10版，新增两项与回复活动相关的小功能：主办方和客人现可在他人回复时用表情符号反应，客人回复时还会出现五彩纸屑动画。该更新还包含错误修复和性能改进，现已在App Store上线。Apple Invites于2025年2月发布，用于邀请他人参加生日派对、宝宝派对等活动。创建活动需订阅至少50GB存储空间的iCloud+计划，但收到活动链接的任何人可免费在任何设备上回复。",
+              "source_url": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-22T03:55:31+08:00"
+            },
+            {
+              "title": "Apple更新TestFlight应用",
+              "brief": "Apple今日更新TestFlight应用至4.3版，新增搜索栏以便快速查找正在测试的Beta应用，同时包含错误修复和性能改进。该更新现已在App Store上线。",
+              "source_url": "https://www.macrumors.com/2026/07/21/apple-updates-testflight/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-22T03:32:30+08:00"
+            },
+            {
+              "title": "百思买七月黑色星期五活动：所有iPhone Air型号直降160美元",
+              "brief": "百思买今日在七月黑色星期五活动中推出优惠：所有iPhone Air型号均降价160美元。256GB版售价839.99美元，512GB版1039.99美元，1TB版1239.99美元，均为无锁版，颜色齐全。此外，亚马逊也推出iPhone Air MagSafe电池历史低价59美元（原价99美元），该电池专为iPhone Air设计，可额外增加65%电量，支持12W快速无线充电，设计轻薄。",
+              "source_url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-22T02:47:16+08:00"
+            },
+            {
+              "title": "Apple修复隐藏邮件地址漏洞，距报告已逾一年",
+              "brief": "Apple在7月3日的更新中修复了Hide My Email的一个漏洞，该漏洞可能暴露用户的真实邮箱地址。该问题于2025年6月被EasyOptOuts联合创始人Tyler Murphy报告，但Apple未及时修复，直到404 Media在7月初公开后才解决。漏洞原理是：向Hide My Email用户发送被系统自动拒收为垃圾邮件的消息时，真实邮箱地址会出现在邮件日志中。Apple确认漏洞已修复，但研究人员表示风险并未完全消除，因为非恶意邮件也可能被退回并泄露地址，且邮件传输日志常被保留。",
+              "source_url": "https://www.macrumors.com/2026/07/21/apple-patches-hide-my-email-flaw/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-22T01:11:08+08:00"
+            },
+            {
               "title": "苹果分享Apple Watch SOS成功案例",
               "brief": "苹果今天发布了一段短视频，讲述了一名男子Phil在骑山地自行车时发生事故并被撞晕，他的Apple Watch检测到跌倒并自动呼叫紧急服务，同时通知了他的妻子。Phil锁骨和七根肋骨骨折，但由于手表提供了准确位置，他迅速得到了救助。Apple Watch可检测严重跌倒和车祸，在用户失去意识时自动求助。",
               "source_url": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
               "source_name": "MacRumors",
               "published_at": "2026-07-22T00:26:32+08:00"
-            },
-            {
-              "title": "苹果计划逐步终止iPhone升级计划",
-              "brief": "据彭博社Mark Gurman报道，苹果在下周推出新“Apple Upgrade”计划后，将停止接受新的iPhone升级计划注册。目前尚不清楚现有会员能否在现有条款结束后继续参与，或是否会迁移到新计划。关键区别在于新计划不捆绑AppleCare+盗抢和丢失保险，因此月付更低。",
-              "source_url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-22T00:26:03+08:00"
-            },
-            {
-              "title": "苹果与Klarna合作推出“Apple Upgrade”计划",
-              "brief": "据彭博社Mark Gurman报道，苹果与Klarna合作的新“Apple Upgrade”计划将于7月28日在美国上线，支持多数iPhone、iPad、Mac和Apple Watch的分期付款，iPhone和手表为24期，iPad和Mac为36期。客户可提前还款、升级或到期后保留/归还设备。部分低价设备不适用，计划需软信用审查。新计划不包含AppleCare+，旨在降低月付。",
-              "source_url": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-21T23:30:09+08:00"
             }
           ]
         },
@@ -35,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "苹果改进 TestFlight，方便拥有大量测试版应用的用户",
-              "brief": "苹果更新了 TestFlight 应用至 4.3 版本，新增搜索功能，用户可快速查找应用。此前用户只能通过列表浏览，对于拥有大量测试版应用的用户而言，搜索功能是期待已久的改进。此外，更新还增加了“先前测试”类别中显示的应用数量，并包含常规的错误修复和性能提升。",
-              "source_url": "https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/",
+              "title": "iPhone Air 2 即将到来，目前已知信息汇总",
+              "brief": "据报道，iPhone Air 2 正在开发中。由于第一代销量低于预期，苹果曾推迟二代项目，但并未取消。新机型将增加第二颗超广角后置摄像头，搭载 A20 Pro 芯片（苹果首款 2 纳米处理器），并采用晶圆级多芯片模块技术。电池容量从 3149mAh 提升至 3500mAh，增幅超 10%。",
+              "source_url": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-22T02:28:58+08:00"
+              "published_at": "2026-07-22T04:47:24+08:00"
             },
             {
-              "title": "苹果 TV 本·斯蒂勒新喜剧即将上线，评论出炉",
-              "brief": "苹果 TV 新电影《The Dink》将于本周五（7月24日）上线，本·斯蒂勒担任制片。影片以匹克球为题材，讲述前网球神童 Dusty Boyd 因伤转打匹克球并重拾信心的故事。早期评论认为这是一部轻松有趣的夏日爆米花电影，致敬了《躲避球》等2000年代体育喜剧，主演杰克·约翰逊表现出色，虽未突破类型片框架，但值得一看。",
-              "source_url": "https://9to5mac.com/2026/07/21/apple-tvs-new-comedy-from-ben-stiller-is-almost-here-and-reviews-are-in/",
+              "title": "Apple TV 发布《蓝色女人》第二季预告片",
+              "brief": "Apple TV 发布了西班牙语犯罪剧《蓝色女人》（Las Azules）第二季的预告片。该剧讲述四位女性加入墨西哥首支女警队伍，却发现自己被用作转移媒体对连环杀手注意力的宣传工具。第二季将于 8 月 12 日首播，剧情围绕一名学生活动家的尸体展开，调查追溯到 1968 年学生屠杀事件。",
+              "source_url": "https://9to5mac.com/2026/07/21/apple-tv-drops-trailer-for-women-in-blues-second-season/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-22T02:07:04+08:00"
+              "published_at": "2026-07-22T04:45:01+08:00"
             },
             {
-              "title": "OpenAI 推出小企业计划，并宣布 ChatGPT Work 和 Codex 用户达 1000 万",
-              "brief": "OpenAI 启动小企业计划，提供虚拟培训、线下 AI 学院、使用指南及专属代理和合作伙伴，帮助小企业利用 ChatGPT 提高生产力。同时，OpenAI 宣布 ChatGPT Work 和 Codex 的付费用户已达 1000 万，较本月初 Codex 单独用户数翻倍。本月 OpenAI 将桌面应用替换为基于 Codex 的版本，增加了高级功能，但随后多次更新以平衡聊天和任务体验。",
-              "source_url": "https://9to5mac.com/2026/07/21/openai-launches-small-business-program-as-it-touts-10m-chatgpt-work-and-codex-users/",
+              "title": "iOS 27 代码显示苹果可能限制逾期付款的租赁设备",
+              "brief": "据彭博社报道，苹果即将在美国推出“Apple Upgrade”租赁计划，与 Klarna 合作，覆盖 iPhone、Mac、iPad 和 Apple Watch。iOS 27 测试版代码显示，系统可通过“App Managed Features”管理租赁设备，当付款逾期时，将设备置于“受限模式”，仅保留电话、设置等少数应用可用，其余应用被屏蔽。该模式不取消 App Store 订阅，订阅可能继续扣费。",
+              "source_url": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-22T01:50:43+08:00"
+              "published_at": "2026-07-22T04:28:19+08:00"
             },
             {
-              "title": "苹果修复 iCloud+ 漏洞，该漏洞曾暴露“隐藏”用户邮箱",
-              "brief": "苹果已修复 iCloud+ 中“隐藏邮件地址”功能的漏洞，该漏洞可让他人获取与 Apple 账户关联的真实邮箱地址。该漏洞于 2025 年 6 月被 Tyler Murphy 报告，苹果最初声称已修复但问题依旧。苹果表示已于 7 月 3 日部署补丁，目前问题已完全解决。",
-              "source_url": "https://9to5mac.com/2026/07/21/apple-fixes-icloud-vulnerability-that-exposed-hidden-user-emails/",
+              "title": "iPhone 18 Pro 发布日期：苹果新机型何时到来",
+              "brief": "苹果预计在 9 月上旬发布 iPhone 18 Pro 系列，具体日期可能在 9 月 9 日或 14 日。今年劳动节较晚（9 月 7 日），苹果通常在劳动节后一周发布新机。与往年不同，基础款 iPhone 18 可能推迟至 2027 年初上市，秋季仅推出 iPhone 18 Pro、Pro Max 和 iPhone Ultra。预购通常在发布后一周的周五开启。",
+              "source_url": "https://9to5mac.com/2026/07/21/iphone-18-release-date-when-apples-new-model-is-coming/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-22T01:38:08+08:00"
+              "published_at": "2026-07-22T03:48:10+08:00"
             },
             {
-              "title": "苹果逐步停用iPhone升级计划",
-              "brief": "据彭博社马克·古尔曼报道，苹果将停止接受现有iPhone支付计划的新注册，作为即将推出的Apple Upgrade租赁计划的一部分。iPhone升级计划提供0%年利率融资，并允许用户在12个月后升级新机，而Apple Upgrade则通过与Klarna合作，提供类似订阅的硬件租赁服务，覆盖iPhone、iPad、Mac和Apple Watch，但租期更长且不包含AppleCare。现有计划用户的影响尚不明确，Apple Upgrade预计于7月28日上线。",
-              "source_url": "https://9to5mac.com/2026/07/21/apple-winding-down-iphone-upgrade-program-report/",
+              "title": "Apple Invites 应用更新，为主持人和宾客新增两项功能",
+              "brief": "苹果为 iCloud+ 用户推出了 Apple Invites 应用的七月更新。新功能包括：主持人和宾客可对回复用表情符号反应，以及宾客回复时播放庆祝动画。此前六月更新已添加共同主持、公开宾客列表和新背景。该应用适用于 iPhone 和 iPad，创建邀请需 iCloud+，但任何人都可回复。",
+              "source_url": "https://9to5mac.com/2026/07/21/apple-invites-app-updated-with-two-new-invitation-features-for-hosts-and-guests/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-21T23:55:08+08:00"
+              "published_at": "2026-07-22T03:28:41+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google Meet 主页改版，新增议程视图",
+              "brief": "Google Meet 正在推出主页改版，提供会议议程和关键资料的集中视图。新界面包含周和月导航器，方便查看日程或回顾讨论，并可链接日历附件和快速访问描述。会后可直接找到 Gemini 生成的笔记、录音和转录，无需再浏览 Gmail 或 Google Drive。该设计采用 Material 3 Expressive 容器，顶部可输入代码或昵称加入会议，右侧有“新建”按钮，左侧导航栏可在“会议”和“通话”间切换。此改版将在未来几周内向 Google Workspace 客户和 Workspace Individual 订阅者推出。",
+              "source_url": "https://9to5google.com/2026/07/21/google-meet-homepage-redesign/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-22T04:09:57+08:00"
+            },
+            {
+              "title": "一年使用 Galaxy Z Fold 7 后，担忧 Fold 8 重蹈覆辙",
+              "brief": "经过一年使用 Galaxy Z Fold 7，作者认为其硬件经受住了时间考验，外观只有少量划痕，内屏良好无气泡。手感优于同期其他折叠屏手机，但存在开屏时缺乏抓力、相机凸起导致放置不稳等问题。主要缺点是发热严重，即使轻度使用也感觉温热。作者担忧 Galaxy Z Fold 8 可能延续这些缺陷。",
+              "source_url": "https://9to5google.com/2026/07/21/samsung-galaxy-z-fold-7-review-one-year-later/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-22T03:00:00+08:00"
+            },
             {
               "title": "今日Android应用优惠与免费：老人之旅、圆盾守卫、ELOH等",
               "brief": "百思买2026年7月黑色星期五促销现已开启，提供门市特价商品、AirPods Max 2、电视、家电等多款产品折扣。此次促销是7月黑色星期五活动的一部分，旨在提前吸引消费者。关键优惠包括热门电子产品的大幅降价，但具体价格和库存因门店而异。",
@@ -94,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
               "source_name": "9to5Google",
               "published_at": "2026-07-21T23:00:01+08:00"
-            },
-            {
-              "title": "Light Flip：售价299美元的极简翻盖手机，致敬 Moto Razr",
-              "brief": "Light 公司推出 Light Flip 翻盖手机，售价299美元，设计灵感来自摩托罗拉 Razr V3。配备2.8英寸480p哑光 OLED 屏幕、物理键盘、50MP 后置摄像头、5G 支持、128GB 存储和6GB 内存。特色包括通知灯、可更换电池、3.5mm 耳机孔和钥匙圈挂环，提供六种颜色。该设备运行极简系统，适合寻求复古体验的用户。",
-              "source_url": "https://9to5google.com/2026/07/21/light-flip-minimalist-phone-announcement/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-21T23:00:00+08:00"
             }
           ]
         },
@@ -108,45 +129,59 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Garmin推出新款CIRQA智能手环，续航10天",
+              "brief": "Garmin正式发布其首款无屏幕健身手环CIRQA Smart Band。该设备主打长续航与健康监测，单次充电可使用10天，介于Fitbit Air的7天和Whoop 5.0的14天之间。它可追踪80种活动及心率、血氧、压力、皮肤温度等指标，并支持女性生理周期和孕期追踪。售价199.99美元，即日开售。",
+              "source_url": "https://www.androidauthority.com/garmin-cirqa-smart-band-launch-3689862/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-22T04:42:39+08:00"
+            },
+            {
+              "title": "苹果AirTag 2四件套降至89美元，追平历史最低价",
+              "brief": "亚马逊将苹果第二代AirTag四件套价格降至89美元，较建议零售价99美元优惠10%，与近期Prime Day价格持平，为历史最低。第二代AirTag于2026年1月发布，增加了更远的精确查找范围，扬声器音量提升50%，并支持蓝牙LE、超宽带、NFC和IP67防护。用户可通过苹果Find My网络定位物品。",
+              "source_url": "https://www.androidauthority.com/apple-airtag-2-4-pack-deal-3689879/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-22T04:30:00+08:00"
+            },
+            {
+              "title": "三星Galaxy Z Fold 8再曝真机，出现在T-Mobile广告中",
+              "brief": "在三星7月22日伦敦Galaxy Unpacked发布会前夕，T-Mobile提前发布了一则广告，展示了尚未正式发布的Galaxy Z Fold 8。这是该机第二次官方影像泄露，此前三星官方也曾发布预告图。广告中称其为“口袋大小的性能猛兽”，但未透露新细节。据悉，Z Fold 8将采用更宽的外形，外屏为5.5英寸16:10，内屏为7.6英寸4:3。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-t-mobile-ad-3689844/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-22T03:51:49+08:00"
+            },
+            {
+              "title": "促销：三星Galaxy S25 Plus降至699.98美元",
+              "brief": "亚马逊将三星Galaxy S25 Plus价格降至699.98美元，较建议零售价999.99美元优惠300美元，降幅30%，仅高于Prime Day价格。该机配备6.7英寸QHD+ 120Hz屏幕、4900mAh电池和45W快充，搭载三星旗舰芯片，支持AI工具（如跨应用操作、通话摘要、照片编辑等），后置三摄。用户评分4.6/5。",
+              "source_url": "https://www.androidauthority.com/deal-samsung-galaxy-s25-plus-3689864/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-22T03:39:55+08:00"
+            },
+            {
               "title": "谷歌扩展 Gemini 3.5 系列，推出三款新模型并更新 Gemini 3.5 Pro 进展",
               "brief": "谷歌发布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 3.6 Flash 相比 3.5 Flash 输出令牌使用量减少 17%，成本更低，性能提升，包括更精确的代码编辑和减少执行循环。谷歌还表示计划很快广泛推出 Gemini 3.5 Pro，并已开始预训练 Gemini 4。",
               "source_url": "https://www.androidauthority.com/google-launches-gemini-36-flash-3689795/",
               "source_name": "Android Authority",
               "published_at": "2026-07-22T02:32:00+08:00"
-            },
-            {
-              "title": "苹果应对科技产品价格上涨：可能推出 iPhone 租赁计划",
-              "brief": "据报道，苹果与 Klarna 合作推出名为 Apple Upgrade 的设备租赁计划，客户可选择 24 或 36 个月租期，期满后可选择归还、保留或升级设备。该计划将取代现有融资选项，涵盖 iPhone、iPad、Mac 和 Apple Watch 等产品，预计下周上线。此举是对近期设备涨价的回应。",
-              "source_url": "https://www.androidauthority.com/apple-upgrade-program-3689806/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-22T01:44:23+08:00"
-            },
-            {
-              "title": "Android 数据恢复工具 Dr.Fone 促销，可保护数据安全",
-              "brief": "Dr.Fone 是一款支持超过 6000 款 Android 设备的数据恢复工具，可处理水损、系统崩溃、恢复出厂设置等导致的数据丢失。它提供高级扫描技术，能高成功率恢复文件，并支持 WhatsApp 消息恢复。用户可先免费试用扫描预览，再决定是否购买完整版。",
-              "source_url": "https://www.androidauthority.com/dr-fone-android-data-recovery-3676898/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-22T01:20:06+08:00"
-            },
-            {
-              "title": "雷朋高管对智能眼镜“变态”恶搞广告幽默回应",
-              "brief": "伦敦活动人士篡改了 Meta 智能眼镜广告，将其改为“变态技术”标语，引发隐私担忧。雷朋总裁 Leonardo Del Vecchio 在 Instagram 上以笑哭表情回应，并称“如果我们不能对此一笑，别人凭什么信任我们？”该回应虽显幽默，但可能令 Meta 不悦。此前有报道称下一代 Meta 智能眼镜的隐私问题可能更严重。",
-              "source_url": "https://www.androidauthority.com/ray-ban-meta-ad-pervert-glasses-3689738/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-22T01:00:47+08:00"
-            },
-            {
-              "title": "三星直接展示 Galaxy Z Fold 8 外观",
-              "brief": "三星在伦敦发布会前夕发布一张预热图，清晰展示了即将发布的 Galaxy Z Fold 8 的宽大外形。图中防弹少年团成员 J-Hope 手持手机，尽管部分被阴影遮挡，但其独特宽屏轮廓仍清晰可辨。此前 J-Hope 已在其社交媒体上发布过该机拍摄的照片和视频。根据泄露信息，Z Fold 8 将配备 5.5 英寸 16:10 外屏和 7.6 英寸 4:3 内屏，起售价可能高达 1899 美元，而更昂贵的 Ultra 版售价或为 2099 美元。发布会将于 7 月 22 日伦敦时间下午 2 点举行。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-teaser-image-3689726/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-21T23:36:40+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Substack 新增 AI 检测功能",
+              "brief": "Substack 与 Pangram 合作推出 AI 检测工具，读者可扫描内容评估 AI 生成比例，适用于今日起发布的超过 100 字的文本。平台还为创作者新增声明空间，明确说明是否及如何使用 AI。该功能现已在网页和 iOS 端上线，安卓版本即将推出。Substack 在公告中承认 Pangram 的检测存在局限性，并强调此举旨在让读者“了解自己获得的是什么”。",
+              "source_url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-22T02:54:20+08:00"
+            },
+            {
+              "title": "苹果已修复“隐藏邮件地址”漏洞",
+              "brief": "据 404 Media 报道，苹果修复了 iCloud+ 的“隐藏邮件地址”功能漏洞，该漏洞曾使他人的真实邮箱地址易被获取。该功能于 2021 年推出以生成虚拟地址保护隐私。漏洞原理是：发送至隐藏地址的邮件若被标记为垃圾邮件退回，可能暴露真实地址。苹果于 7 月 3 日部署补丁彻底修复，但发现者 Tyler Murphy 认为风险未完全消除，因为非恶意退信仍可能泄露地址，且 2026 年 7 月 7 日前创建的隐藏地址或已暴露于第三方日志。",
+              "source_url": "https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-22T02:51:19+08:00"
+            },
             {
               "title": "PlayStation Plus将于2026年8月下架多款游戏",
               "brief": "PlayStation Plus Extra和Premium会员即将失去9款游戏，其中5款原定7月下架但延期至8月。包括《死亡岛2》《独角兽霸主》等在内的游戏将于8月18日离开会员库。新入库游戏则有《阿凡达：潘多拉边境》《浪人崛起》等。",
@@ -167,26 +202,19 @@
               "source_url": "https://www.engadget.com/2219977/threads-is-getting-new-parental-control-features/",
               "source_name": "Engadget",
               "published_at": "2026-07-22T02:15:00+08:00"
-            },
-            {
-              "title": "Xteink X4 Pro：比信用卡还小的电子阅读器",
-              "brief": "Xteink推出超便携电子阅读器X4 Pro，厚度仅5.95毫米，重72克，支持磁吸吸附在手机背面。4.3英寸屏幕配备翻页按键和前置灯，仅支持导入无DRM的电子书，可通过无线或USB传输。适合在通勤等场景下专注阅读。",
-              "source_url": "https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-22T02:00:00+08:00"
-            },
-            {
-              "title": "苹果可能最快下周推出设备订阅服务",
-              "brief": "据彭博社报道，苹果将与Klarna合作推出Apple Upgrade订阅服务，涵盖iPhone、Mac、iPad和Apple Watch等设备。用户可选择升级、保留或归还设备，租赁期分别为24或36个月。该服务可能于7月28日上线，初期仅限美国，且不支持AppleCare。",
-              "source_url": "https://www.engadget.com/2219945/apple-may-unveil-a-new-device-subscription-service-as-soon-as-next-week/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-22T01:41:19+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Substack 新增 AI 检测工具，帮助识别 AI 生成的博客",
+              "brief": "Substack 推出由 AI 检测公司 Pangram 提供支持的新工具，可扫描帖子、笔记、回复和评论，估算其中由 AI 生成或辅助撰写的文本比例。该工具目前已在网页版和 iOS 版上线，Android 版即将推出。用户可通过帖子右上角菜单中的“扫描 AI 文本”选项，分析超过 100 字的内容。Substack 联合创始人兼 CEO Chris Best 表示，此举旨在提高平台透明度，应对 AI 在社交媒体上日益普及带来的读者预期与现实之间的落差。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+              "source_name": "The Verge",
+              "published_at": "2026-07-21T15:22:28-04:00"
+            },
             {
               "title": "Peak Design模块化Field Bracket内置追踪标签",
               "brief": "Peak Design在Kickstarter上推出模块化Field Bracket系统，集L型支架、手柄和扩展板于一体，并内置查找器标签，旨在解决相机追踪标签安装不便的问题。该系统起售价150美元，方便摄影师在横竖拍间快速切换。",
@@ -214,13 +242,6 @@
               "source_url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
               "source_name": "The Verge",
               "published_at": "2026-07-21T13:00:00-04:00"
-            },
-            {
-              "title": "Anthropic的15亿美元图书盗版和解协议获法官批准",
-              "brief": "联邦法官批准了Anthropic与作者就AI模型训练使用受版权保护图书达成的15亿美元集体诉讼和解。每位作者每本书约获3000美元赔偿，被称为“史上最大版权追回”。该诉讼源于2024年作者指控Anthropic盗版书籍训练AI。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-              "source_name": "The Verge",
-              "published_at": "2026-07-21T12:53:37-04:00"
             }
           ]
         },
@@ -228,25 +249,39 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "任天堂告诉法官，客户没有法律权利获得关税退款",
+              "brief": "任天堂敦促法院驳回一项要求其将关税退还给客户的诉讼，称购买Switch主机或其他产品的用户无权获得这些退款。诉讼由两名客户提起，指控任天堂因关税涨价但未披露将申请退款，构成不当得利和违反消费者保护法。任天堂辩称用户自愿支付了更高价格，且退款是政府给予公司的，用户没有法律权利。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-22T03:09:19+08:00"
+            },
+            {
+              "title": "让汤姆·希德勒斯顿带你了解庞贝末日",
+              "brief": "国家地理频道新推出的三集纪录片《庞贝：超越时间》由汤姆·希德勒斯顿担任“时间侦探”，通过历史事实与想象结合，重现庞贝古城最后24小时。希德勒斯顿因主演漫威《洛基》系列而参与该片，他曾在剑桥大学学习古典学，并青少年时期参观过庞贝遗址。纪录片聚焦三位特定人物，追踪他们是否幸存。",
+              "source_url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-22T02:17:55+08:00"
+            },
+            {
+              "title": "裸鼹鼠女王利用化学信号抑制竞争对手的生育能力",
+              "brief": "柏林马克斯·德尔布吕克分子医学中心的研究人员发现，裸鼹鼠女王通过一种化学信号来维持社会秩序，而非此前认为的暴力欺凌。裸鼹鼠是像蚂蚁蜜蜂一样的真社会性动物，群落中只有女王繁殖。研究团队收集了裸鼹鼠的气味，发现女王释放的一种化学物质能抑制其他雌性的生育能力，而嗅觉在盲眼的裸鼹鼠中高度发达。",
+              "source_url": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-22T01:51:52+08:00"
+            },
+            {
+              "title": "Anthropic 15亿美元版权和解获批，仅350名作者选择退出",
+              "brief": "法官批准了Anthropic与作者之间15亿美元的版权和解协议，这是有史以来最大的版权集体诉讼和解。此前法院裁定Anthropic用书籍训练AI属于合理使用，但盗版作品可能不合法。约95%的班级成员收到通知，91%的作者和出版商已提交索赔，仅350人选择退出。法官降低了律师费，但认为每部作品3000美元的赔偿是法定最低赔偿的四倍，是公平的。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-22T01:33:14+08:00"
+            },
+            {
               "title": "Steam Deck销量自5月涨价后大幅下滑",
               "brief": "自2022年发布以来，Steam Deck一直位居Valve畅销榜前列，但5月涨价后销量急剧下降。根据Boiling Steam对历史数据的分析，其畅销排名从5月底的第五位跌至7月初的第14位，目前为第12位。相比之下，2025年该设备从未跌出前七。Valve曾警告2月起出现间歇性短缺，导致数周排名下滑，直至5月恢复供应。粗略估算显示，周销量可能从2025年的11000至18000台下降了约80%。",
               "source_url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-22T01:12:34+08:00"
-            },
-            {
-              "title": "谷歌发布Gemini 3.6 Flash和网络安全AI，预告3.5 Pro和Gemini 4",
-              "brief": "谷歌在I/O大会发布Gemini 3.5 Flash后，今日推出三款新AI模型。其中Gemini 3.6 Flash取代3.5 Flash，声称编码能力提升（DeepSWE测试从37%升至49%），支持计算机使用，且token消耗减少约17%。同时发布首个面向网络安全的Gemini模型，但原定6月推出的Gemini 3.5 Pro仍延迟，谷歌透露已在训练Gemini 4。",
-              "source_url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-22T00:58:25+08:00"
-            },
-            {
-              "title": "TreeSize不再为永久许可证提供续期支持，除非用户订阅",
-              "brief": "磁盘空间分析工具TreeSize的开发商JAM Software引发用户不满，因其不再为永久许可证提供维护期后的支持或更新，除非转为订阅制。自2025年起，该公司已将多数版本转向订阅，目前仅个人版出售永久许可证，含12个月更新支持。维护期过后，用户无法获取备份安装文件或密钥。产品经理称，鉴于当前经济状况，这一改变对长期可靠开发是必要的。",
-              "source_url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-21T23:18:23+08:00"
             }
           ]
         }
