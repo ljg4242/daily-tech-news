@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T10:50:02.846279+08:00",
+  "generated_at": "2026-07-23T12:50:58.675848+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "新款Pixel Watch 5泄露显示谷歌不打算与Galaxy Watch 9硬碰硬",
+              "brief": "Pixel Watch 5出现在Google Play Console中，显示其搭载与上代相同的骁龙W5平台，但RAM升级至3GB，可能为支持新的Gemini功能。该列表还展示了与之前泄露一致的渲染图。预计该手表将于8月与Pixel 11系列一同发布。",
+              "source_url": "https://www.androidauthority.com/pixel-watch-5-processor-leak-3690481/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-23T11:36:49+08:00"
+            },
+            {
               "title": "Google Meet 文件终于能自动整理归档了",
               "brief": "Google Meet 将自动把会议笔记、转录和录音整理到 Drive 的新文件夹中。每次会议会创建独立子文件夹，重复会议的所有实例则归入同一文件夹。有权限的参会者也会看到快捷方式。此前这些文件只保存在主持人 Drive 中且未按会议整理，查找不便。旧文件夹将被迁移并重命名为“旧版 Meet 录制内容”。该更新今日起向快速发布域推送，7月30日覆盖定时发布域。",
               "source_url": "https://www.androidauthority.com/google-meet-organizes-meeting-files-in-drive-folder-3690434/",
@@ -155,13 +162,6 @@
               "source_url": "https://www.androidauthority.com/every-pixel-11-color-leak-3690377/",
               "source_name": "Android Authority",
               "published_at": "2026-07-23T04:31:10+08:00"
-            },
-            {
-              "title": "三星One UI 9在新型折叠屏上引入类Pixel搜索栏",
-              "brief": "基于Android 17的One UI 9稳定版随三星Z Fold 8等新折叠屏发布，新增主屏搜索设置，用户可在Google搜索和三星Finder间选择，或同时启用两者。此前One UI 8.5已默认提供Google搜索小部件，但新版本提供了更灵活的选择。这一变化使三星手机更接近谷歌原生体验。",
-              "source_url": "https://www.androidauthority.com/one-ui-9-google-search-3690352/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-23T03:50:28+08:00"
             }
           ]
         },
@@ -473,6 +473,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "Ubuntu出现新的权限提升漏洞，默认桌面版安装受影响，可从普通用户提权至root",
+              "brief": "网络安全公司Qualys披露Ubuntu默认桌面版安装存在权限提升漏洞，编号CVE-2026-8933，评分7.8。漏洞位于snap-confine组件中，影响Ubuntu Desktop 24.04、25.10和26.04版。攻击者若已获得本地用户权限，可利用竞争条件提权至root。该漏洞是Canonical进行安全加固时意外引入的：将snap-confine从setuid-root改为set-capabilities模式后，在/tmp/下创建临时文件时出现时间窗口，攻击者可重定向文件操作至敏感系统位置。Canonical已发布snapd更新修复漏洞，用户应尽快安装。注意，这不是远程漏洞，需本地访问权限。",
+              "source_url": "https://www.landian.news/archives/114040.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-23T12:41:11+08:00"
+            },
+            {
+              "title": "谷歌推出新版安卓系统迁移工具，可将iOS保存的密码、WiFi、eSIM无损迁移到安卓",
+              "brief": "谷歌在Galaxy Unpacked发布会上宣布推出升级版iOS to Android迁移工具，新增支持迁移谷歌账户、已保存密码、WiFi凭据、eSIM卡和WhatsApp消息等数据类型，大幅简化从iPhone切换到安卓的数据迁移流程。三星新款折叠屏手机和部分谷歌Pixel设备将率先支持。eSIM迁移无需联系运营商，但取决于运营商是否支持。迁移流程包括：安卓设备生成二维码，iPhone扫码配对，选择数据类型传输，最后单独迁移eSIM和WhatsApp消息。",
+              "source_url": "https://www.landian.news/archives/114039.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-23T11:37:56+08:00"
+            },
+            {
+              "title": "苹果准备全面革新MacBook和iMac产品线，提供性能更强的芯片和OLED屏幕",
+              "brief": "据彭博社记者马克·古尔曼消息，苹果计划在未来两年内对MacBook和iMac全线产品进行革新，包括搭载新款处理器和OLED屏幕。预计2026年秋季发布入门级14英寸MacBook Pro（M6芯片）和新款iMac；年底至明年初推出高端MacBook（OLED触摸屏）和MacBook Air；2027年推出M7芯片MacBook Pro和MacBook Neo；2028年推出OLED版MacBook Air和iMac。部分机型如iMac和入门级MacBook Pro已完成研发，预计9月或10月发布。Mac系列销量增长与用户运行AI负载相关。",
+              "source_url": "https://www.landian.news/archives/114038.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-07-23T11:00:55+08:00"
+            },
+            {
               "title": "英特尔晶圆代工业务迎来首个外部客户：为飞塔防火墙代工生产ASIC芯片",
               "brief": "英特尔宣布与硬件防火墙制造商飞塔（Fortinet）达成晶圆代工合作，为飞塔的SP6安全处理器代工，这是英特尔晶圆代工业务的首个外部客户。飞塔长期与台积电合作，此前SP5芯片由台积电7纳米工艺制造。此次合作意味着英特尔成功从台积电抢到客户，对英特尔新任CEO陈立武推动的重组和改革具有重要意义。",
               "source_url": "https://www.landian.news/archives/114037.html",
@@ -485,27 +506,6 @@
               "source_url": "https://www.landian.news/archives/114036.html",
               "source_name": "蓝点网",
               "published_at": "2026-07-23T10:00:04+08:00"
-            },
-            {
-              "title": "Ubuntu企业应用商店正式上线，可免费使用，支持内网分发软件和审计",
-              "brief": "Canonical推出基于Ubuntu Pro订阅的企业应用商店，帮助组织在内网分发软件，支持缓存、离线模式、故障迁移和版本控制。企业应用商店适用于严格出口控制、物理隔离环境及受监管行业。个人用户可免费获得5台设备专业版授权，因此也可免费使用该商店，但普通用户可能用不上内网分发等功能。",
-              "source_url": "https://www.landian.news/archives/114035.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-23T09:30:03+08:00"
-            },
-            {
-              "title": "谷歌开始初步启用跨大西洋海底光缆NUVEM，为美东与欧洲新增384T容量",
-              "brief": "谷歌投资的NUVEM海底光缆开始初步启用，连接美国东海岸与欧洲大陆，总长6900公里，设计容量384Tbps。该光缆从南卡罗来纳州出发，经百慕大和亚速尔群岛，在葡萄牙西海岸登陆。谷歌计划下半年全面运营，以提升谷歌云跨大洋数据传输冗余性，并应对人工智能数据需求激增带来的带宽需求。",
-              "source_url": "https://www.landian.news/archives/114034.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-23T09:00:04+08:00"
-            },
-            {
-              "title": "OpenAI要求网络安全从业者绑定硬件安全密钥才能获得更高访问权限",
-              "brief": "OpenAI从2026年6月开始逐步要求加入TAC计划的网络安全从业者绑定硬件安全密钥（如YubiKey），以获取使用前沿网络安全模型（如GPT-5.5-CYBER）等特殊权限。从9月1日起强制执行，未绑定的用户将被降级到普通权限。此举旨在防止账号被盗，确保高权限账号安全。普通用户也可选择绑定硬件密钥或软通行密钥提升安全性。",
-              "source_url": "https://www.landian.news/archives/114033.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-07-23T08:30:02+08:00"
             }
           ]
         },
@@ -513,39 +513,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "沪深两市成交额突破1万亿元",
-              "brief": "7月23日，沪深两市成交额突破1万亿元，显示市场交投活跃。这一水平通常被视为市场情绪高涨的标志，可能受到政策或经济数据提振。",
-              "source_url": "https://36kr.com/newsflashes/3907622632412551?f=rss",
+              "title": "联讯仪器据悉考虑香港上市",
+              "brief": "联讯仪器据悉正考虑在香港上市，此前该公司在上海科创板上市后股价飙升约22倍。这一动向表明公司寻求更广泛的资本市场支持。",
+              "source_url": "https://36kr.com/newsflashes/3907749729277063?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-23 10:39:17  +0800"
+              "published_at": "2026-07-23 12:48:35  +0800"
             },
             {
-              "title": "“智象未来”完成C轮融资",
-              "brief": "近日，AI公司“智象未来”（HiDream.ai）宣布完成15亿元人民币C轮融资，由社保基金四川振兴科创基金等联合领投，多家机构跟投，老股东持续加注。至此，该公司近三个月内累计融资超21亿元，资金将用于技术研发与市场拓展。",
-              "source_url": "https://36kr.com/newsflashes/3907615630546306?f=rss",
+              "title": "Deeplore近日完成数千万元种子轮融资",
+              "brief": "水下AI自然探索科技公司Deeplore完成数千万元种子轮融资，由五源资本和顺为资本联合投资。资金将用于扩建研发团队、深耕水下AI技术，并加速首款AI潜水面镜的落地迭代，搭建水下自然探索智能平台的技术基础。",
+              "source_url": "https://36kr.com/newsflashes/3907716402582912?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-23 10:32:10  +0800"
+              "published_at": "2026-07-23 12:45:36  +0800"
             },
             {
-              "title": "三大指数集体翻绿",
-              "brief": "7月23日，A股三大指数集体翻绿，市场出现回调。此前沪深两市成交额刚突破万亿元，指数转跌可能反映获利了结或宏观因素影响。",
-              "source_url": "https://36kr.com/newsflashes/3907611381437572?f=rss",
+              "title": "领益智造：公司AMD系列显卡散热模组已实现批量出货",
+              "brief": "领益智造在机构调研中表示，作为AMD核心供应商，公司为不同系列产品提供散热设计优化和量产效率提升等解决方案，其生产的AMD系列显卡散热模组已实现批量出货，标志着双方合作进入新阶段。",
+              "source_url": "https://36kr.com/newsflashes/3907710626747785?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-23 10:27:51  +0800"
+              "published_at": "2026-07-23 12:38:41  +0800"
             },
             {
-              "title": "《中医药振兴发展“十五五”规划》发布",
-              "brief": "国家中医药管理局等印发《中医药振兴发展“十五五”规划》，目标到2030年健全中医药服务体系，提升防治重大疾病能力，增强中药产业创新力与国际影响力。该规划旨在推动中医药振兴发展迈上新台阶。",
-              "source_url": "https://36kr.com/newsflashes/3907599874184322?f=rss",
+              "title": "美的等入股钧舵机器人",
+              "brief": "苏州钧舵机器人有限公司发生工商变更，新增美的投资有限公司、美科智臻等股东，注册资本由约1075.2万增至约1235.4万人民币。该公司成立于2018年，主营机器人及自动化设备研发制造，此次融资将助力其业务拓展。",
+              "source_url": "https://36kr.com/newsflashes/3907709033747840?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-23 10:16:08  +0800"
+              "published_at": "2026-07-23 12:30:06  +0800"
             },
             {
-              "title": "韩国财政部：2026年或实现3%的GDP增速",
-              "brief": "韩国财政部声明称，得益于第二季度强劲表现，韩国2026年有望实现3%的GDP增速。这一预测基于经济复苏势头，但需关注外部风险。",
-              "source_url": "https://36kr.com/newsflashes/3907591799084419?f=rss",
+              "title": "市场消息：灵初智能正以14.8亿美元的估值融资近1亿美元",
+              "brief": "市场消息称，灵初智能正以14.8亿美元估值融资近1亿美元，接近完成由奇瑞领投、蓝思科技等跟投的一轮融资。此举反映投资者对智能驾驶领域的持续看好。",
+              "source_url": "https://36kr.com/newsflashes/3907726672090241?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-23 10:07:56  +0800"
+              "published_at": "2026-07-23 12:25:08  +0800"
             }
           ]
         }
