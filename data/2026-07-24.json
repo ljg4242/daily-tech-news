@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T04:51:26.666906+08:00",
+  "generated_at": "2026-07-24T06:50:26.921182+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 的 10 项性能改进，你会切实感受到",
+              "brief": "苹果在 iOS 27 中专注于提升系统性能，优化了从系统动画到 AirDrop 传输速度的各个方面。应用启动速度提升最高 30%，CPU 调度器得到优化以更高效处理高负载任务，Wi-Fi 与蜂窝网络切换更智能以减少连接中断，搜索索引被重建以提供更全面的内容索引。这些改进覆盖 iPhone 11 及更新机型，即使旧款 iPhone 也能感受到流畅度提升。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T06:02:58+08:00"
+            },
+            {
+              "title": "iPhone 驾照功能可能即将扩展到犹他州",
+              "brief": "MacRumors 在苹果后端发现了犹他州身份证的迹象，表明苹果正推进在 Apple Wallet 中支持该州驾照和身份证。犹他州已有独立的移动驾照应用，但尚未集成 Apple Wallet。苹果早在 2021 年就宣布计划加入犹他州驾照，但至今未实现。目前美国多个州及波多黎各已支持该功能，数字驾照可在指定 TSA 安检点及部分商业场所使用。",
+              "source_url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T04:58:38+08:00"
+            },
             {
               "title": "ChatGPT 的 Apple Health 集成功能现已向美国用户推出",
               "brief": "OpenAI 宣布，整合了医疗记录和 Apple Health 数据的“Health in ChatGPT”功能今日起向美国用户开放。该功能于 1 月公布并处于测试阶段，现可让用户比较化验数据、总结就诊变化、追踪用药，并分析睡眠、活动与锻炼对健康的影响。用户需授权后，ChatGPT 才能使用其 Apple Health 和医疗记录信息，且这些数据不会用于训练模型或定向广告。该功能面向 18 岁以上用户，在网页和 iOS 端提供，覆盖免费、Go、Plus 和 Pro 计划。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
               "source_name": "MacRumors",
               "published_at": "2026-07-24T01:00:00+08:00"
-            },
-            {
-              "title": "Apple Pay 促销：购买 Columbia 装备享折扣",
-              "brief": "苹果向 Apple Pay 用户发送邮件，宣布最新促销活动：在 Columbia 官网购物满 120 美元并使用 Apple Pay 结账，可享 20 美元优惠。该折扣不适用线下门店，且排除 Amaze Puff 和 ROC 系列产品，不可与其他优惠叠加。促销持续至 8 月 7 日。",
-              "source_url": "https://www.macrumors.com/2026/07/23/apple-pay-columbia-promo/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T00:38:05+08:00"
-            },
-            {
-              "title": "《晨间秀》将于明年在 Apple TV+ 播出最终季",
-              "brief": "苹果宣布《晨间秀》第五季即最终季将于 2027 年在 Apple TV+ 播出。该剧是 Apple TV+ 2019 年上线时的首批剧集之一，由詹妮弗·安妮斯顿、瑞茜·威瑟斯彭等主演，最终季原班人马将回归。",
-              "source_url": "https://www.macrumors.com/2026/07/23/apple-tv-the-morning-show-final-season/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T00:32:19+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "iOS 27 新 Siri 完全达到我的期望",
-              "brief": "一位自称“普通AI用户”的编辑在早期测试中发现，iOS 27 的新 Siri 满足了他最期待的三项改进：广泛的世界知识、对话式界面、以及跨设备的一致体验。新 Siri 不再局限于有限的知识领域，能回答几乎任何问题；通过新的 Siri 应用可方便地进行连续对话和回顾历史；且在 iPhone、Mac、Apple Watch、iPad 上体验一致，未来还将覆盖 Apple TV 和 HomePod。此外，Siri 深度集成 Apple 原生应用，基于用户信息提供个性化帮助。苹果自 2024 年宣布 AI 升级版 Siri 以来，AI 领域已发生巨大变化，但初步迹象表明，对普通 iPhone 用户而言，iOS 27 的新 Siri 值得等待。",
-              "source_url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+              "title": "Geekbench 7发布，CPU和GPU性能测试全面更新",
+              "brief": "Primate Labs发布了Geekbench 7，这是对CPU和GPU性能测试的全面更新。新版本增加了机器学习、图像处理和视频编辑等工作负载，GPU基准测试更侧重机器学习和内容创作，新增人脸跟踪、图像超分辨率、视频背景虚化等测试。此外，Geekbench 7新增了对NVIDIA CUDA的支持，并改进了多核性能测试方式，只在实际任务通常使用多线程时才运行多线程测试。",
+              "source_url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T02:19:10+08:00"
+              "published_at": "2026-07-24T06:05:31+08:00"
             },
             {
-              "title": "OpenAI 重新推出与 Apple Health 连接的 ChatGPT 功能并扩大使用范围",
-              "brief": "OpenAI 今日宣布重新推出 ChatGPT Health 功能，并向美国用户开放。该功能最初于今年 1 月试点，但因反馈不佳而沉寂数月。新版基于用户反馈改进，用户可选择安全连接 Apple Health 和受支持的医疗记录，ChatGPT 可帮助理解健康信息、跟踪变化、进行个性化对话。例如，用户可对比新旧检测结果、总结就诊间隔变化、探索睡眠与活动的关系。OpenAI 表示，新版本受益于今年以来的模型进步。即日起，美国 18 岁以上用户可在网页和 iOS 端的免费、Go、Plus、Pro 计划中使用，从 ChatGPT 侧边栏进入 Health 即可开始。",
-              "source_url": "https://9to5mac.com/2026/07/23/openai-relaunches-apple-health-connected-chatgpt-feature-with-expanded-access/",
+              "title": "Opera One浏览器加入垂直标签功能，扩展Google Lens集成",
+              "brief": "Opera宣布为其Opera One浏览器推出两项更新。首先是垂直标签功能，将传统水平标签栏替换为可调整宽度的侧边面板，显示标签图标和完整标题，用户可选择仅显示图标。此外，Opera One扩展了Google Lens集成，现在用户可以在主页搜索栏中直接进行图片搜索，支持上传文件、拖放、从剪贴板粘贴或输入URL。",
+              "source_url": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T01:28:30+08:00"
+              "published_at": "2026-07-24T04:35:12+08:00"
             },
             {
-              "title": "苹果宣布《早间秀》将在第五季后结束",
-              "brief": "苹果宣布其Apple TV+旗舰剧集《早间秀》将在第五季后完结。该剧自2019年Apple TV+上线以来一直是苹果最受欢迎的节目之一，由詹妮弗·安妮斯顿和瑞茜·威瑟斯彭主演。第五季将于2027年秋季首播，第四季已于2025年秋季播出。新加入演员包括杰夫·丹尼尔斯和杰西·威廉姆斯。",
-              "source_url": "https://9to5mac.com/2026/07/23/apple-announces-the-morning-show-is-ending-after-season-5/",
+              "title": "iOS 27中信息应用的新功能一览",
+              "brief": "iOS 27为信息应用带来多项更新。Apple Intelligence提供基于对话上下文的“一键建议”，帮助用户快速创建提醒或查找照片。新增“绘图”iMessage应用，支持Markup工具，可发送涂鸦，预计为即将推出的折叠屏iPhone Ultra优化。此外，RCS消息支持内联回复和Tapback反应，Android用户将不再看到“某某喜欢了图片”的文字提示，而是直接显示表情符号。",
+              "source_url": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T00:16:15+08:00"
+              "published_at": "2026-07-24T04:34:08+08:00"
             },
             {
-              "title": "iOS 27为照片应用带来期待已久的视频帧保存功能",
-              "brief": "iOS 27在照片应用中新增“将视频帧保存为照片”功能，解决了以往截图分辨率低和需要裁剪的问题。用户观看视频时，点击右上角三点菜单即可将当前帧保存为高分辨率照片，无需手动裁剪。此前该功能仅在录制视频时可用，现在终于支持已保存视频。",
-              "source_url": "https://9to5mac.com/2026/07/23/ios-27-gives-apple-photos-a-very-useful-feature-ive-wanted-for-years/",
+              "title": "iPhone 18 Pro：从iPhone 17 Pro升级的三个理由",
+              "brief": "iPhone 18 Pro预计带来三大升级。一是电池续航提升，得益于LTPO+显示屏、2nm A20 Pro芯片和可能自研的C2蜂窝调制解调器，以及更大的物理电池。二是相机重大改进，主摄和长焦将采用可变光圈和更大光圈，相机模组增厚。三是设计更新，包括新配色（深樱桃、浅蓝、银）、缩小35%的灵动岛以及一体化玻璃铝后盖。",
+              "source_url": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T00:03:14+08:00"
+              "published_at": "2026-07-24T04:22:10+08:00"
             },
             {
-              "title": "促销：M5 Pro MacBook Pro降价320美元，Series 11起价299美元等",
-              "brief": "9to5Toys汇总了苹果产品促销信息，包括2TB M5 Pro MacBook Pro优惠300美元，14英寸M5 Pro MacBook Pro升级96W充电器版本降价320美元。Apple Watch Series 11起价299美元，Satechi 25W MagSafe三合一充电支架降价40%。此外还有AirPods Pro 3、AirTag 2等产品折扣。",
-              "source_url": "https://9to5mac.com/2026/07/23/deals-macbook-pro-series-11-airpods-25w-magsafe/",
+              "title": "ChatGPT和Codex部分用户当前无法使用",
+              "brief": "OpenAI系统状态页面显示，ChatGPT和Codex部分用户遇到错误率升高的问题，已持续约4小时。OpenAI表示已在大约2小时前应用了缓解措施，并正在监控恢复情况。DownDetector上的报告在急剧上升后似乎呈下降趋势，但X平台用户仍反映问题持续。OpenAI正在调查此事件。",
+              "source_url": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-23T23:25:42+08:00"
+              "published_at": "2026-07-24T04:05:08+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Gemini Spark 向美国 Google AI Pro 用户推出",
+              "brief": "Google 正在向美国的 AI Pro 用户推出 Gemini Spark 功能。这是其 AI 服务扩展的一部分，旨在为用户提供更强大的工具。该功能目前仅限美国地区的 Pro 订阅者使用，尚未公布国际发布时间。",
+              "source_url": "https://9to5google.com/2026/07/23/gemini-spark-google-ai-pro-us/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-24T05:53:02+08:00"
+            },
+            {
+              "title": "欧盟因搜索和 Play 商店中的“优待”行为对谷歌罚款 10 亿美元",
+              "brief": "欧盟因谷歌在搜索和 Play 商店中给予自家服务“优待”而对其处以 10 亿美元罚款。这是欧盟反垄断行动的一部分，旨在遏制科技巨头的市场优势。谷歌表示将研究裁决并考虑上诉。",
+              "source_url": "https://9to5google.com/2026/07/23/european-union-fines-google-in-antitrust-for-search-play-store/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-24T05:29:30+08:00"
+            },
             {
               "title": "三星让Galaxy Z Fold 8对真正想换机的人变得更不划算",
               "brief": "三星Galaxy Z Fold 8系列发布，但其以旧换新政策对非三星用户不利，降低了吸引力。背景是三星试图通过限制换机优惠来巩固用户群，但可能适得其反。关键细节包括：新机升级有限，而换购其他品牌旧机价值大幅缩水。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
               "source_name": "9to5Google",
               "published_at": "2026-07-24T03:36:50+08:00"
-            },
-            {
-              "title": "这大概是我们最接近‘谷歌Pixel Flip’的一次",
-              "brief": "文章评论了一款接近谷歌Pixel Flip概念的产品或原型。背景是谷歌尚未推出折叠屏手机，但市场对Pixel Flip有期待。关键细节包括：该设备外观和功能与传闻中的Pixel Flip相似，但并非官方产品。",
-              "source_url": "https://9to5google.com/2026/07/23/thats-about-as-close-as-well-ever-get-to-a-google-pixel-flip/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-24T03:30:00+08:00"
-            },
-            {
-              "title": "今日安卓应用优惠与免费：Can You Escape、Seoul Exorcist 1111、Unbroken Soul 等",
-              "brief": "Galaxy Z Fold 8/Ultra 预购优惠：立减100美元，另赠200美元积分、免费 Galaxy Buds，Galaxy Watch Ultra 2 优惠300美元等。",
-              "source_url": "https://9to5toys.com/2026/07/23/today-android-app-deals-free-escape-seoul-exorcist-1111/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-24T01:34:25+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "微软回应LG显示器在Windows上安装McAfee广告",
+              "brief": "LG显示器通过Windows Update悄悄安装“LG Monitor App Installer”应用，该应用会在系统右下角弹出McAfee试用广告。Gamers Nexus视频证实，每次启动均出现广告，并偶有推广其他LG软件。微软已回应称将移除该应用。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-24T04:47:33+08:00"
+            },
+            {
+              "title": "FDA报告新一起环孢子虫爆发，已发现72例病例",
+              "brief": "美国食品药品监督管理局宣布调查新一起环孢子虫爆发，已发现72例病例，但未提供具体地点或关联信息。今年已启动第六次相关调查，全国累计报告超11500例，远超往年全年2000-5000例的水平。卫生部长称情况“可控”。",
+              "source_url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-24T03:22:36+08:00"
+            },
+            {
+              "title": "忘记谷歌密码？现在可以用自拍登录",
+              "brief": "谷歌推出新账户恢复方式：用户可预先录制面部视频，用于忘记密码时通过自拍登录。该功能不适用于工作账户、儿童账户或高级保护计划账户。视频加密存储，谷歌承诺仅用于登录、年龄验证和AI头像，用户可选择关闭面部识别改进开关。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-24T03:14:25+08:00"
+            },
+            {
+              "title": "AI紧急关闭法案允许特朗普政府下令关闭失控AI系统",
+              "brief": "《AI紧急关闭法案》提案赋予美国国土安全部长命令关闭可能造成灾难性危害的AI系统的权力。AI开发商必须提供技术手段以执行关闭命令，违者每天罚款高达2000万美元。该法案源于OpenAI和Anthropic近期AI失控事件。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-24T03:08:01+08:00"
+            },
+            {
               "title": "《歪心狼 vs. ACME》最终预告片在SDCC发布",
               "brief": "圣地亚哥国际动漫展上发布了《歪心狼 vs. ACME》的最终预告片，该片由Ketchup Entertainment从华纳兄弟收购，此前被搁置多年，终于获得广泛院线发行。影片基于Ian Frazier 1990年发表在《纽约客》上的讽刺短文，讲述歪心狼因ACME设备屡次失灵而起诉该公司的故事。同时，导演Zach Cregger的《生化危机》新改编版全长预告片也一同亮相，部分观众还观看了前18分钟片段。",
               "source_url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-24T02:01:46+08:00"
-            },
-            {
-              "title": "女性尿路感染两年后细菌进化侵入大脑",
-              "brief": "《新英格兰医学杂志》报告了一例63岁女性患者的病例：她因尿路感染入院，随后右眼失明，脑部扫描显示脓肿。手术从大脑中取出脓液，尿液和脑样本均培养出肺炎克雷伯菌。这种细菌通常存在于胃肠道，但某些变种可转移至其他器官。本例中，细菌在患者体内进化出异质性毒力，导致严重侵袭性感染，揭示了感染在体内演化的危险性。",
-              "source_url": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T00:58:26+08:00"
-            },
-            {
-              "title": "谷歌因违反数字市场法被欧盟罚款超10亿美元",
-              "brief": "欧盟委员会依据《数字市场法》对谷歌处以逾10亿美元罚款，其中5.22亿美元因在搜索中偏袒自家服务，4.88亿美元因限制应用开发者引导用户至外部更低价选项。谷歌有60天整改，否则面临追加罚款。谷歌可上诉，并可能获得特朗普政府支持——此前25名共和党议员致信特朗普，要求对欧盟的罚款进行贸易报复。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T00:41:36+08:00"
-            },
-            {
-              "title": "索尼停止光盘游戏销售的决定早有数据支撑",
-              "brief": "索尼宣布将于2028年停止销售实体游戏光盘，Circana分析师数据显示这一趋势早已注定。美国实体游戏销量在2009年6月达到峰值2.97亿份，随后持续下滑，过去12个月仅售出3700万份。2008年有100款PlayStation游戏实体销量超10万份，而2026年至今仅7款。今年美国最畅销的PlayStation实体游戏仅卖出27.5万份。",
-              "source_url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T00:25:46+08:00"
-            },
-            {
-              "title": "谷歌因大规模AI支出首次出现季度负现金流",
-              "brief": "谷歌2026年第二季度营收1198亿美元超预期，但AI基础设施巨额资本支出导致经营现金流为负，这是公司首次。搜索业务收入633亿美元，谷歌云248亿美元（环比增23.8%），订阅和YouTube广告等也有增长。但资本支出预期高达1800-1900亿美元，AI投入持续攀升，使得现金流承压，股价因此下跌。",
-              "source_url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T00:04:19+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌欢迎沃尔玛最新超实惠Onn摄像头加入Home家族",
+              "brief": "沃尔玛新推出两款Onn摄像头，兼容Google Home和Gemini。其中Onn户外摄像头（插电式）具备IP65防护、双向音频和彩色夜视功能，售价低于35美元；Onn户外泛光灯摄像头（有线）额外配备2500流明泛光灯，售价77美元，远低于谷歌Nest Cam泛光灯版（280美元）。这些摄像头已正式获得Gemini内置认证。",
+              "source_url": "https://www.androidauthority.com/google-home-walmart-onn-cameras-3690911/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T05:37:33+08:00"
+            },
+            {
+              "title": "Google Home最新更新解决语音控制一大痛点",
+              "brief": "Google Home 7月23日更新后，Gemini for Home的对话记忆窗口延长至15分钟，用户可在此期间进行连续对话而无需重复上下文。Google Home应用新增自动化设置预警，提醒用户保存无触发器的自动化。Nest摄像头部分修复了活动区域和设置的可靠性问题。",
+              "source_url": "https://www.androidauthority.com/google-home-july-update-conversational-memory-3690896/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T05:12:29+08:00"
+            },
+            {
+              "title": "Facebook宕机了吗？最新情况",
+              "brief": "据Downdetector报告，Facebook出现大规模宕机，受影响最严重的地区包括芝加哥、纽约、底特律和迈阿密。用户反馈页面加载缓慢或无法访问，问题始于近期，报告数量持续增长。目前尚不清楚故障范围，我们将持续关注服务恢复情况。",
+              "source_url": "https://www.androidauthority.com/facebook-july-23-outage-3690908/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T04:59:28+08:00"
+            },
             {
               "title": "ChatGPT 宕机了吗？这是怎么回事",
               "brief": "OpenAI 目前正在经历一次宕机，用户在 ChatGPT 上遇到较高的错误率。问题已持续数小时，也影响到了 Codex 和 OpenAI 的 API。公司表示已应用缓解修复措施，并正在监控服务状态，预计问题将很快解决。",
@@ -181,33 +202,33 @@
               "source_url": "https://www.androidauthority.com/gemini-live-expands-to-first-gen-google-speakers-3690874/",
               "source_name": "Android Authority",
               "published_at": "2026-07-24T04:19:36+08:00"
-            },
-            {
-              "title": "Spotify 的下一个功能可能借鉴 Pixel 的 Now Playing",
-              "brief": "Spotify 似乎正在开发一项歌曲识别新功能。在 Android 版 9.1.70.1086 版本中发现了相关代码，包括“识别歌曲”文本和麦克风权限请求。该功能尚未生效，但表明 Spotify 正致力于内置音乐识别解决方案，类似 Pixel 手机的 Now Playing。",
-              "source_url": "https://www.androidauthority.com/spotify-song-identification-3690854/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T04:02:29+08:00"
-            },
-            {
-              "title": "调查显示多数用户对多邻国最新课程调整不满",
-              "brief": "多邻国近期课程更新导致部分用户学习进度混乱：已完成的章节出现陌生内容，或被迫回到低级别课程。调查显示，46.5% 的受访者认为更新令人恼火但会继续使用，9.6% 因此放弃多邻国，仅 28.9% 表示课程正常。",
-              "source_url": "https://www.androidauthority.com/duolingo-course-updates-poll-results-3690803/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T03:43:21+08:00"
-            },
-            {
-              "title": "谷歌修复了 Pixel Watch 上烦人的轻触支付 bug",
-              "brief": "谷歌解决了 Pixel Watch 的 Express Pay 功能问题。该功能允许用户无需打开 Google Wallet 即可轻触支付，但本月初部分用户反映无法使用。谷歌今早确认已修复，但未说明原因。Express Pay 支持 Pixel Watch 2 及以上型号，可在 Pixel Watch 应用的 Google Wallet 设置中开启。",
-              "source_url": "https://www.androidauthority.com/pixel-watch-tap-to-pay-bug-3690858/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T03:42:37+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "科学家开发出手持设备，可测量身体何时燃烧脂肪",
+              "brief": "科学家开发出一款手持式呼吸分析仪，通过测量呼出气中的丙酮含量来判断身体是否处于酮症状态，即燃烧脂肪供能。该研究发表在《Device》期刊上。传统丙酮测试在实验室外难以准确，但这款设备通过过滤多余湿气和污染物，并配合应用程序引导呼吸过程，解决了这一问题。在12名参与者多种饮食和运动场景的测试中，其测量结果与传统实验室检测高度吻合。",
+              "source_url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T06:39:08+08:00"
+            },
+            {
+              "title": "Peacock终于实现盈利，得益于世界杯和《爱情岛》",
+              "brief": "NBCUniversal旗下流媒体服务Peacock在第二季度首次实现盈利，调整后EBITDA达1.89亿美元。这主要归功于FIFA世界杯、NBA季后赛和真人秀《爱情岛美国版》的热播。目前其订阅用户达4800万，较上季度增加200万。不过高管表示，由于体育赛事和内容的季节性，盈利会逐季波动。此前Peacock长期亏损，上季度还亏损4.32亿美元，如今在Comcast分拆NBCUniversal之际，盈利为其价值提供了证明。",
+              "source_url": "https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T05:00:35+08:00"
+            },
+            {
+              "title": "Patreon将裁员20%",
+              "brief": "Patreon宣布裁员20%，即93名员工。CEO杰克·康特在博客中表示，公司业务依然强劲，但需要调整成本结构以成为创作者“稳定可靠的依靠”。裁员涉及组织扁平化、团队重新聚焦优先事项。被裁员工将获得16周遣散费及额外工龄补偿、年底前医疗福利和笔记本电脑补贴。尽管Patreon近期采取措施保护创作者内容不被AI抓取，但康特认为AI正在改变运营方式，公司必须拥抱AI，否则三年内将消亡。",
+              "source_url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T04:47:15+08:00"
+            },
             {
               "title": "Meta的亲AI广告活动明显缺乏AI内容",
               "brief": "Meta推出了一则宣扬AI乐观前景的广告，但其中几乎未展示任何AI功能。公司希望对抗“AI末日论者”，然而广告仅播放人群行走、微笑和跳舞等模糊画面，未提及具体AI应用。此前Meta曾以AI提升生产力为由大规模裁员，被指控利用AI合理化针对病假员工的裁减，还因使用受版权保护材料训练AI被起诉，内部政策曾允许AI聊天机器人与未成年人进行“感性”对话。",
@@ -221,33 +242,19 @@
               "source_url": "https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/",
               "source_name": "Engadget",
               "published_at": "2026-07-24T03:20:54+08:00"
-            },
-            {
-              "title": "环球影业获得10款雅达利游戏的电影改编权",
-              "brief": "环球影业与雅达利达成协议，获得《爆破彗星》《冒险》《狂战士》《打砖块》《大蜈蚣》《水晶城堡》《千足虫》《导弹指令》《乓》和《雅尔的复仇》共10款游戏的电影改编权。环球已购入一部以其中某款游戏为蓝本的剧本，由马特·赖利和卡尔·汉普撰写，盖蒙·卡萨迪制片。雅达利CEO表示期待将经典品牌带入新媒介。环球曾在2009年获得《爆破彗星》改编权，但未制作成片。",
-              "source_url": "https://www.engadget.com/2222033/universal-secures-rights-for-film-adaptation-of-10-atari-games/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T03:10:56+08:00"
-            },
-            {
-              "title": "Instagram开始封禁使用Meta眼镜拍摄骚扰内容的用户",
-              "brief": "Meta旗下Instagram开始封禁利用Meta眼镜秘密录制他人并发布骚扰内容的用户。Instagram负责人亚当·莫塞里表示，平台将删除利用眼镜偷拍并骚扰他人的视频，特别是那些对服务人员做恶作剧或偷拍女性的内容。Meta眼镜因此获得“变态眼镜”等绰号。据商业内幕报道，已有两个经常偷拍女性的高影响力账号被禁用。Meta此前已采取其他措施遏制此类行为。",
-              "source_url": "https://www.engadget.com/2222008/instagram-is-now-banning-users-who-make-creepy-content-with-meta-glasses/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T03:02:53+08:00"
-            },
-            {
-              "title": "Claude的语音模式变得更智能",
-              "brief": "Anthropic更新了Claude的语音模式，使其能够调用更强大的Sonnet和Opus模型，此前仅使用较小的Haiku模型。付费用户将默认使用上次文本对话的模型，并可在对话中切换。语音模式还能从连接的Gmail和Slack等应用中获取上下文，但采用轮询架构，无法像ChatGPT那样同时处理语音和生成输出。此外，语音模式不能自动检测语言切换，需手动设置。",
-              "source_url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T03:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Alexa Plus 迎来AI更新，可处理更复杂的指令",
+              "brief": "亚马逊正在为其Alexa Plus助手推出更新，使其能够以新方式连接智能家居设备。该更新目前处于预览阶段，可与博世、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、Tapo、Eufy等品牌的产品联动，并自动将请求路由到正确的设备。例如，用户对支持洗衣机说“我的孩子足球球衣需要深度清洁，但标签上写着只能冷水洗”，Alexa Plus即可导航洗衣机的洗涤选项并选择正确设置。新集成由亚马逊的AI开发者工具包驱动，旨在简化设备制造商连接Alexa Plus的过程。",
+              "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+              "source_name": "The Verge",
+              "published_at": "2026-07-23T17:15:06-04:00"
+            },
             {
               "title": "Echo Show 21 智能家居中心优惠 80 美元",
               "brief": "亚马逊 Echo Show 21 智能显示屏目前正在促销，售价 319.99 美元，比原价 400 美元优惠 80 美元，达到历史最低价。该设备配备 21 英寸 1080p 屏幕，可作为智能家居中枢，控制智能灯、查看食谱、观看电视节目等。它支持 Matter 和 Thread 协议，可本地控制智能设备。可调节支架也同步打折。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
               "source_name": "The Verge",
               "published_at": "2026-07-23T14:20:30-04:00"
-            },
-            {
-              "title": "海盗船全景玻璃机箱优惠 70 美元",
-              "brief": "海盗船 Frame 4500X RS 机箱降价 70 美元，现售价 119.99 美元。该机箱支持 EATX 主板和长达 460mm 的显卡，其无缝全景玻璃窗环绕正面和左侧。附带三个反向旋转风扇，右侧安装，ARGB 灯光可照亮机箱内部。促销在亚马逊、百思买和海盗船官网进行。",
-              "source_url": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-23T13:20:00-04:00"
             }
           ]
         }
@@ -315,18 +315,18 @@
               "published_at": "https://www.ign.com/articles/marvels-wolverine-deep-cuts-sdcc-panel-live-report-comic-con-2026 | Thu, 23 Jul 2026 16:00:00 +0000"
             },
             {
-              "title": "《超级少女》在影院表现不佳后确定数字发行日期",
-              "brief": "《超级少女》将于7月28日在亚马逊Prime Video、Apple TV、Fandango等数字平台上线，9月8日发行4K超高清蓝光和DVD。该片由米莉·阿尔柯克饰演超级少女/卡拉·佐-艾尔，是去年DCU启动片《超人》的后续，但影院观众兴趣远不及预期。6月26日首映后全球票房仅6800万美元，被视为票房毒药。据报道，华纳兄弟为该片投入1.7亿美元制作费和1.2亿美元营销费，需约3亿美元才能回本，而《超级少女》远未达到这一里程碑。",
-              "source_url": "https://www.ign.com/articles/supergirl-sets-digital-release-date-after-disappointing-run-in-theaters",
+              "title": "全新蓝色和黄色Joy-Con 2现已上市",
+              "brief": "任天堂发布了新款蓝色和黄色Joy-Con 2手柄，配色灵感来自《斯普拉遁》中的Deep Cut组合。该手柄售价99.99美元，已在亚马逊、百思买和任天堂eShop上架。左侧握把为蓝色，右侧为浅黄色，与之前黑色为主的Joy-Con形成对比。",
+              "source_url": "https://www.ign.com/articles/new-blue-and-yellow-joy-con-2-are-now-available",
               "source_name": "IGN",
-              "published_at": "2026-07-24T00:58:14+08:00"
+              "published_at": "2026-07-24T03:24:44+08:00"
             },
             {
-              "title": "《魔界战记》创作者抨击索尼取消光盘，称PlayStation“干脆连主机也取消算了”",
-              "brief": "索尼宣布从2028年1月起不再生产新游戏光盘，引发粉丝强烈不满。《魔界战记》创作者新川宗平在Anime Expo 2026上受访时表示，从商业角度理解索尼的决定，但高层可能从未体验过粉丝拿着实体游戏索要签名的感受，不理解实体版对玩家的意义。他进一步指出，如果取消实体光盘，不如连硬件也取消，只用电视就够了。",
-              "source_url": "https://www.ign.com/articles/disgaea-creator-slams-sony-for-scrapping-discs-says-playstation-might-as-well-go-all-the-way-and-scrap-consoles-too",
+              "title": "报道称Steam Deck需求大幅下滑",
+              "brief": "据Boiling Steam估算，Steam Deck销量同比下跌高达82%，其Steam畅销榜排名从常驻第5位跌至约第14位。原因在于Valve将价格上调至789美元后，性价比不及华硕ROG Ally等竞品。不过，若其他厂商也涨价，Steam Deck可能重获竞争力，但短期内价格难以下降。",
+              "source_url": "https://www.ign.com/articles/the-steam-decks-demand-has-reportedly-cratered",
               "source_name": "IGN",
-              "published_at": "2026-07-24T00:35:18+08:00"
+              "published_at": "2026-07-24T01:12:34+08:00"
             }
           ]
         },
@@ -386,6 +386,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "《漫威金刚狼》最新预告公开：9月15日登陆PS5，实体版不受索尼新规影响",
+              "brief": "Insomniac Games在SDCC上公开了《漫威金刚狼》最新预告，游戏将于9月15日登陆PS5平台。预告揭示金刚狼将帮助昔日盟友保护变种人，免受哨兵机器人创造者博利瓦尔·特拉斯克的大规模绑架。预告中出现巨大哨兵机器人，并确认剑齿虎将作为“不情愿的盟友”登场，琴·格雷疑似失控。官方确认惊恶先生为真正反派。该作是继《漫威蜘蛛侠》后Insomniac的又一款漫威作品，将推出实体版。索尼计划2028年起停止生产PS5新游戏实体光盘，本作发售时间早于该政策，故不受影响。",
+              "source_url": "https://www.ithome.com/0/980/877.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-24T06:37:44+08:00"
+            },
+            {
               "title": "苏姿丰：在服务器 CPU 营收方面，AMD 份额已达到 46%",
               "brief": "AMD CEO 苏姿丰在 Advancing AI 2026 上表示，AMD 在服务器 CPU 营收中的份额已达到 46%，并预计未来将继续增长。她指出，CPU 在数据中心中负责调度操作，管理 GPU 与 HBM 之间的数据流，随着 AI 智能体工作负载增加，CPU 的作用日益凸显。此外，苏姿丰预估到 2030 年，与计算相关的潜在市场规模将扩大到 2 万亿美元，AMD 有望从中受益。",
               "source_url": "https://www.ithome.com/0/980/874.htm",
@@ -412,13 +419,6 @@
               "source_url": "https://www.ithome.com/0/980/872.htm",
               "source_name": "IT之家",
               "published_at": "2026-07-24T02:08:26+08:00"
-            },
-            {
-              "title": "AMD 计划 2027 发布 Venice-X 处理器：176 个 Zen 6 核心，主频超 5GHz",
-              "brief": "AMD 宣布计划于 2027 年发布 EPYC Venice-X 处理器，集成 176 个 Zen 6 核心和 342 个线程，主频超过 5GHz，采用 3D V-Cache 技术使每核心缓存容量提升 50%，旨在增强技术计算与 HPC 性能。同时，AMD 还公布了 EPYC Verano 处理器，专为 AI 智能体打造，支持全新 SOCAMM2 内存形态，利用 LPDDR5X 实现高带宽、高容量和高能效。Venice-X 预计明年部署于微软 Azure HXv2 实例。",
-              "source_url": "https://www.ithome.com/0/980/871.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-24T01:57:37+08:00"
             }
           ]
         },
