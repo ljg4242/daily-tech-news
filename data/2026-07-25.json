@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T02:53:16.619884+08:00",
+  "generated_at": "2026-07-25T04:51:33.197752+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "特朗普誓言撤销欧盟对苹果等科技公司的罚款，并威胁征收关税",
+              "brief": "美国前总统特朗普在Truth Social上表示，如果他再次当选，其政府将对欧盟向苹果、谷歌、Meta等科技公司征收的巨额罚款发起调查，并誓言撤销这些罚款。他指责欧盟此举“非法且高度不道德”，旨在“抢劫”美国公司，并指出欧盟已对苹果、Meta和谷歌处以数十亿美元罚款。特朗普还威胁将对欧盟征收“实质性关税”，以反击其对美国科技公司的惩罚。",
+              "source_url": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-25T03:37:08+08:00"
+            },
             {
               "title": "Anthropic 新模型 Claude Opus 5 性能接近旗舰 Fable 5，成本减半",
               "brief": "Anthropic 公司推出了新模型 Claude Opus 5，作为 Opus 4.8 的升级版，专为日常使用设计。该模型宣称能以一半成本提供接近其旗舰模型 Fable 5 的性能，Fable 5 是 Anthropic 最强的公开模型。Opus 5 在多项基准任务中表现优于前代，并在科学研究和视觉输出方面有显著改进。其定价与 Opus 4.8 相同，每百万输入代币 5 美元、输出代币 25 美元，现已在所有平台上线，并成为 Claude Max 的默认及 Claude Pro 最强模型。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
               "source_name": "MacRumors",
               "published_at": "2026-07-24T23:10:00+08:00"
-            },
-            {
-              "title": "苹果 A12 和 A13 芯片曝出新漏洞后引发诉讼",
-              "brief": "网络安全研究公司Paradigm Shift披露苹果A12和A13芯片的启动ROM漏洞后，被数字取证公司Magnet Forensics起诉。Magnet Forensics指控Paradigm Shift泄露了其前员工在加入该公司前研究的商业秘密，该漏洞与Magnet Forensics此前研究的漏洞“基本相同”。A12和A13芯片为iPhone XS和iPhone 11系列等设备提供动力。启动ROM漏洞无法通过iOS更新修复，因为它涉及芯片只读存储器中永久嵌入的代码。",
-              "source_url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T22:58:55+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "WhatsApp 在 iOS 上测试新消息气泡",
+              "brief": "WhatsApp 正在其 iOS 应用程序中测试全新的消息气泡设计，旨在为用户提供更现代化、更美观的聊天界面体验。这类更新通常是为了提升用户参与度和视觉吸引力。新气泡可能会引入不同的形状、颜色渐变或动画效果，以区别于现有设计，并可能与 iOS 系统的最新设计语言保持一致。目前，该功能尚处于测试阶段，预计将逐步向部分用户推出，以收集反馈并进行优化。",
+              "source_url": "https://9to5mac.com/2026/07/24/whatsapp-testing-new-message-bubbles-on-ios/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-25T04:25:32+08:00"
+            },
+            {
+              "title": "iPhone Ultra 即将推出：苹果顶级型号的六大新功能",
+              "brief": "苹果公司即将推出其全新顶级型号 iPhone Ultra，预计将带来六项创新功能。此举旨在进一步细分高端产品线，满足对极致性能和独家功能有更高需求的用户，并在市场中树立新的旗舰标杆。具体功能虽未完全披露，但预计将涵盖处理器性能、摄像头技术、电池续航、屏幕显示，以及全新的交互方式或独家软件体验等重大升级，以彰显其“Ultra”定位，进一步拉开与Pro型号的差距。",
+              "source_url": "https://9to5mac.com/2026/07/24/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-25T04:25:12+08:00"
+            },
+            {
+              "title": "苹果发布 macOS Sonoma 14.8.8 和 macOS Sequoia 15.7.8 的第七个 RC 版本",
+              "brief": "苹果公司发布了 macOS Sonoma 14.8.8 和 macOS Sequoia 15.7.8 的第七个候选发布版本（RC）。这表明这两个操作系统的稳定版本即将正式推出，RC版本是最终发布前供开发者和测试人员进行最后验证的重要阶段。连续发布多个RC版本，尤其已至第七个，通常意味着苹果正在进行细致的错误修复和性能优化，以解决潜在问题，确保用户获得无缝且可靠的体验。",
+              "source_url": "https://9to5mac.com/2026/07/24/apple-releases-seventh-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-25T03:20:55+08:00"
+            },
+            {
+              "title": "iOS 27 新增电话应用功能，深受用户喜爱",
+              "brief": "苹果在即将推出的 iOS 27 版本中，为电话（Phone）应用添加了一项全新功能，该功能一经推出便迅速受到用户的喜爱和好评。电话应用作为iPhone的核心功能之一，其更新旨在提升用户的通话体验和日常便利性，通过引入创新功能来解决现有痛点或提供更智能的交互方式。尽管具体细节尚未完全披露，但根据“instant favorite”的描述，该功能可能涉及智能来电管理、个性化通话设置或增强联系人交互，使其在日常使用中变得不可或缺。",
+              "source_url": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-25T02:53:53+08:00"
+            },
+            {
               "title": "Anthropic 升级 Claude，推出全新 Opus 5 模型",
               "brief": "人工智能公司 Anthropic 宣布对其大型语言模型 Claude 进行了重要升级。此次升级推出了全新的 Opus 5 模型，旨在进一步提升 Claude 的性能和能力。新模型预计将在理解复杂指令、推理能力以及生成高质量内容方面表现更出色，为用户提供更高级的AI交互体验。",
               "source_url": "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-25T01:16:56+08:00"
-            },
-            {
-              "title": "watchOS 27 新增功能，提升 Apple Watch 电池续航",
-              "brief": "苹果公司发布了 watchOS 27 更新，其中包含一项旨在优化 Apple Watch 电池续航的新功能。随着用户对智能手表功能依赖的增加，电池续航成为关键痛点，苹果致力于通过软件改进来解决这一问题。这项新功能可能通过智能管理后台进程、优化传感器使用或改进电源效率算法等方式，有效延长 Apple Watch 的单次充电使用时间。",
-              "source_url": "https://9to5mac.com/2026/07/24/watchos-27-adds-new-feature-to-improve-your-apple-watch-battery-life/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-25T01:02:45+08:00"
-            },
-            {
-              "title": "苹果2.5亿美元Siri和解金获批，受益者将是谁",
-              "brief": "苹果公司一项金额高达2.5亿美元的Siri集体诉讼和解协议最近获得法院批准。这项和解源于用户隐私担忧，指控苹果未经用户同意记录Siri交互。根据协议，符合条件的受影响用户将获得赔偿，这笔巨额款项旨在弥补过去因Siri录音门事件给用户带来的潜在损失。具体哪些用户有资格获得赔付以及如何申领，是当前用户普遍关注的关键细节。此举标志着苹果在处理Siri隐私问题上迈出了重要一步，试图平息用户的担忧并承担相应责任。",
-              "source_url": "https://9to5mac.com/2026/07/24/apples-250-million-siri-settlement-just-got-approved-heres-who-gets-paid/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-25T00:14:43+08:00"
-            },
-            {
-              "title": "优惠：M5 Pro MacBook Pro立减500美元，Apple Watch Series 11立减150美元，多款苹果产品促销",
-              "brief": "近期，多款苹果产品迎来大幅度促销活动。其中，搭载M5 Pro芯片的MacBook Pro笔记本电脑提供高达500美元的折扣，而最新款Apple Watch Series 11智能手表也有150美元的优惠。此外，包括AirPods耳机、AirTag 2追踪器以及MagSafe充电宝在内的多款热门配件也参与了本次促销。这些限时优惠为消费者提供了以更低价格购买苹果设备的好机会，旨在刺激市场消费，吸引用户升级或购买新产品。此次促销涵盖产品线广泛，满足了不同用户的需求。",
-              "source_url": "https://9to5mac.com/2026/07/24/deals-m5-pro-macbook-pro-apple-watch-airpods-airtag-2/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-24T23:21:46+08:00"
-            },
-            {
-              "title": "iOS 26.6下周将登陆iPhone，新功能抢先看",
-              "brief": "苹果公司宣布，iOS 26.6版本更新将于下周正式面向iPhone用户推出。此次更新预计将带来一系列新功能和性能改进，旨在提升用户体验和设备安全性。虽然具体细节尚未完全公布，但通常这类版本更新会包含系统稳定性优化、bug修复以及可能的新隐私设置或界面调整。用户可以通过设置应用进行更新，以确保设备运行在最新、最安全的状态。此次更新有望解决此前版本中存在的一些问题，并为未来的重大功能更新做好铺垫。",
-              "source_url": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-24T23:15:02+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "骁龙芯片价格将“两位数”上涨，安卓设备受影响",
+              "brief": "谷歌已确认Pixel 11系列手机将上调售价。与此同时，谷歌透露将致力于一项“专门”的优化工作，以显著提升Android系统在内存使用方面的效率。这一举措旨在确保即便在硬件成本增加的情况下，用户也能获得更流畅、高效的系统体验，从而缓解部分用户对涨价可能导致性价比下降的担忧。",
+              "source_url": "https://9to5google.com/2026/07/24/qualcomm-snapdragon-price-hike-september-2026/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-25T04:30:00+08:00"
+            },
+            {
+              "title": "最佳无线Android Auto适配器小幅涨价",
+              "brief": "谷歌已确认Pixel 11系列手机将上调售价。与此同时，谷歌透露将致力于一项“专门”的优化工作，以显著提升Android系统在内存使用方面的效率。这一举措旨在确保即便在硬件成本增加的情况下，用户也能获得更流畅、高效的系统体验，从而缓解部分用户对涨价可能导致性价比下降的担忧。",
+              "source_url": "https://9to5google.com/2026/07/24/the-best-wireless-android-auto-adapter-just-got-a-small-price-hike/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-25T04:05:00+08:00"
+            },
+            {
+              "title": "Roku流媒体硬件价格上涨，最高达50美元",
+              "brief": "谷歌已确认Pixel 11系列手机将上调售价。与此同时，谷歌透露将致力于一项“专门”的优化工作，以显著提升Android系统在内存使用方面的效率。这一举措旨在确保即便在硬件成本增加的情况下，用户也能获得更流畅、高效的系统体验，从而缓解部分用户对涨价可能导致性价比下降的担忧。",
+              "source_url": "https://9to5google.com/2026/07/24/roku-raises-prices-on-streaming-hardware-by-up-to-50/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-25T03:15:00+08:00"
+            },
             {
               "title": "周五安卓应用优惠与免费应用：激流快艇、破晓者、风暴海盗RPG等",
               "brief": "三星Galaxy Z Fold 8/Ultra手机目前已开启预购活动，为消费者提供多项优惠。参与预购的用户可享受100美元的直接折扣，并额外获得200美元的免费积分，同时还能免费获赠一副Galaxy Buds耳机。此外，如果用户在预购期间同时购买Galaxy Watch Ultra 2智能手表，则可享受300美元的额外折扣优惠，旨在吸引更多早期购买者。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/24/anthropic-launches-claude-opus-5/",
               "source_name": "9to5Google",
               "published_at": "2026-07-25T02:34:50+08:00"
-            },
-            {
-              "title": "谷歌证实Pixel 11将涨价，并致力于提升安卓内存效率",
-              "brief": "谷歌官方已证实其即将发布的Pixel 11系列智能手机将面临价格上涨。公司同时透露，正投入“专门的”努力，致力于提升安卓操作系统的内存使用效率。此举旨在优化设备性能，确保用户在面对更高价格的同时，仍能享受到更加流畅和高效的移动体验，以应对市场和技术挑战。",
-              "source_url": "https://9to5google.com/2026/07/24/google-pixel-11-price-increase/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-25T02:03:00+08:00"
-            },
-            {
-              "title": "Nothing 否认关闭传闻，但确认了关键业务调整",
-              "brief": "谷歌官方已证实其即将发布的Pixel 11系列智能手机将面临价格上涨。公司同时透露，正投入“专门的”努力，致力于提升安卓操作系统的内存使用效率。此举旨在优化设备性能，确保用户在面对更高价格的同时，仍能享受到更加流畅和高效的移动体验，以应对市场和技术挑战。",
-              "source_url": "https://9to5google.com/2026/07/24/nothing-shutdown-report-denial/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-25T01:35:00+08:00"
-            },
-            {
-              "title": "Nanoleaf 全场促销，LED 灯及套件价格下调，数量有限",
-              "brief": "本文详细介绍了三星Galaxy Z Fold 8系列、Flip及新款Galaxy Watch的所有最新特性。其中涵盖了这些设备在设计、功能和性能上的重要更新，并探讨了这些改进是否足以满足用户的期待。文章还可能分析这些新品在当前市场中的定位和潜力，提供全面评估。",
-              "source_url": "https://9to5google.com/2026/07/24/nanoleaf-starts-huge-sale-on-popular-led-lights/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-25T00:19:32+08:00"
             }
           ]
         },
@@ -129,25 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "RFK Jr.亲选委员会批准其自用肽类物质生产",
+              "brief": "由美国卫生与公众服务部部长小罗伯特·F·肯尼迪亲选的委员会，投票批准解除对其本人使用的肽类物质的生产限制。此举是预料之中的，因肯尼迪部长作为肽类物质爱好者，此前已采取措施确保此结果。尽管缺乏相关肽类物质的安全性与有效性数据，委员会仍推进了该决定。该小组会议建议取消对四种肽类物质的限制，并计划对另外三种进行投票。肽类物质是由氨基酸化学连接而成的短链。",
+              "source_url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-25T03:10:09+08:00"
+            },
+            {
+              "title": "法官驳回特朗普政府索取《纽约时报》记者电话记录的要求",
+              "brief": "一名联邦法官驳回了特朗普政府要求获取《纽约时报》记者电话记录和大陪审团证词的要求。美国司法部在受到地方法官阿伦·苏布拉马尼安的批评后，撤回了相关传票。此前，《纽约时报》记者曾报道卡塔尔捐赠给特朗普的空军一号专机存在的安全隐患。法官强调，向记者发出传票是“最后手段而非首要之举”。此举被认为是特朗普政府试图恐吓媒体、揭露记者匿名消息来源的失败尝试。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-25T02:02:21+08:00"
+            },
+            {
+              "title": "欧盟应美国要求限制伊朗战争地区卫星图像发布",
+              "brief": "欧盟已开始将霍尔木兹海峡附近航运通道的卫星图像发布时间推迟24小时。此举是为了回应美国政府此前提出的请求，并恰逢特朗普政府再次升级对伊朗的战争。这一不同寻常的政策变化，即欧洲“哥白尼”地球观测计划的免费开放数据政策，是由《太空新闻》通过审查欧盟理事会的一项决定而披露的。该延迟发布适用于“哨兵-1”和“哨兵-2”卫星拍摄的阿曼湾地区图像。美国政府于5月26日在战争停火期间首次提出此请求。",
+              "source_url": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-25T01:45:05+08:00"
+            },
+            {
+              "title": "团队利用AlphaFold AI重新设计基因编辑蛋白以提高安全性",
+              "brief": "一个研究团队利用谷歌的AlphaFold AI蛋白质折叠软件，重新设计了基因编辑蛋白质，以提高其安全性。基因编辑技术面临的主要挑战是脱靶效应，即可能错误地修改非目标DNA序列。尽管可以通过优化向导RNA提高特异性，但在编辑大量细胞时，低概率的脱靶错误仍难以避免。该团队通过修改AlphaFold识别基因编辑蛋白质中导致脱靶效应的关键区域，并对其进行改造，从而显著减少了这些意外的修改。",
+              "source_url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-25T01:31:26+08:00"
+            },
+            {
               "title": "全球最先进的机器人服务卫星已发射升空",
               "brief": "诺斯罗普·格鲁曼公司研制的“任务机器人飞行器”（MRV）及其三艘“任务延伸舱”（MEP）近日搭乘SpaceX猎鹰9号火箭发射升空。MRV被认为是全球最先进的机器人服务卫星，配备灵活机械臂，将执行为期十年的地球同步轨道卫星维护任务。此举旨在开辟卫星服务新前沿。该航天器预计需约一年时间才能进入距地球3.6万公里高的地球同步圆轨道，届时将为各类民用和军事卫星提供在轨服务。",
               "source_url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-24T23:23:06+08:00"
-            },
-            {
-              "title": "火箭快报：中国火箭发射遭雷击；星舰测试蓄势待发",
-              "brief": "2026年7月23日晚，搭载天链二号06星的长征三号乙火箭在西昌升空后不久遭遇雷击，具体影响有待观察。与此同时，SpaceX的第13次星舰测试飞行在更换发动机后已重返发射台，计划于本周五晚进行发射，此次测试对其实现年内轨道飞行目标至关重要。印度私营公司Skyroot Aerospace也成功发射了其首枚商业火箭Vikram-1。",
-              "source_url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T22:34:25+08:00"
-            },
-            {
-              "title": "AI企业需求激增数据中心；特朗普政府环保局或削弱公众话语权",
-              "brief": "特朗普政府正考虑修改环保局（EPA）法规，或将空气污染源（包括数据中心电源设施）许可的公众参与决定权下放各州，旨在简化污染设施建设。此举正值AI企业数据中心需求激增，而数据中心因能耗和污染在美国各地遭遇社区抵制。该规则可能削弱公众对新建或扩建污染设施的知情权和发言权，引发环保组织担忧。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T21:49:38+08:00"
             }
           ]
         },
@@ -155,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "三星或将允许用户为每个应用单独设置屏幕缩放级别",
-              "brief": "三星最新固件显示，该公司正在开发一项新功能，允许用户为每个应用单独设置屏幕缩放级别。目前安卓系统的屏幕缩放设置会统一影响所有应用，但不同应用在不同缩放级别下显示效果各异，导致用户体验不佳。在Galaxy Z Fold 8 Ultra的固件中发现了相关文本字符串，表明三星正在为One UI 9准备这一系统设置选项。尽管该功能尚未在当前设备上启用，但预计将在零售版固件中推出，并有望推广到更多三星设备。",
-              "source_url": "https://www.androidauthority.com/samsung-per-app-zoom-3691219/",
+              "title": "Google Home用户失去对Nest智能温控器的语音控制",
+              "brief": "许多Google Home用户近期发现无法通过语音命令控制他们的Nest智能温控器，系统提示“抱歉，我现在无法连接Nest温控器”。尽管通过Google Home应用程序进行控制没有问题，但这一语音控制故障给用户带来了不便。Reddit社区上多位用户也报告了类似问题，表明这并非个例。目前，最初报告此问题的用户表示设备已恢复正常，Google方面尚未对此事发表评论。",
+              "source_url": "https://www.androidauthority.com/google-home-users-lose-nest-thermostat-voice-control-3691283/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-25T02:19:43+08:00"
+              "published_at": "2026-07-25T04:27:32+08:00"
             },
             {
-              "title": "PlayStation Network服务中断：索尼旗下所有服务均受影响",
-              "brief": "PlayStation Network（PSN）目前正经历全面服务中断，索尼官方已确认旗下所有服务均出现问题。这意味着用户可能无法登录账户、编辑详情、串流游戏或进行购买。此次中断影响广泛，包括账户管理、游戏与社交、视频内容、PS商店及PS Direct等，并波及PS Vita、PS3、PS4、PS5以及网页版等多个平台。据报告，服务中断始于美国东部时间上午10:18，索尼正在调查并处理此问题。",
-              "source_url": "https://www.androidauthority.com/playstation-network-july-24-outage-3691238/",
+              "title": "Pixel 11价格上涨似乎已确认，谷歌高管警告Pixel 10a也可能涨价",
+              "brief": "谷歌Pixel 11系列手机的价格上涨似乎已成定局，有泄露信息表明起售价将从Pixel 10的799美元升至899美元。谷歌设备与服务副总裁沙基尔·巴卡特证实，由于内存价格飙升，谷歌难以继续承担成本，因此Pixel定价将进行“调整”。这些调整不仅会影响即将发布的Pixel 11系列，现有型号如Pixel 10a的499美元基础价格也可能受到波及。不过，谷歌仍将通过以旧换新、促销和捆绑销售等方式提供购买优惠。",
+              "source_url": "https://www.androidauthority.com/pixel-11-price-increases-3691265/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-25T02:05:54+08:00"
+              "published_at": "2026-07-25T04:23:15+08:00"
             },
             {
-              "title": "Nothing否认退出市场传闻，强调全球业务运营活跃",
-              "brief": "科技公司Nothing的联合创始人Akis Evangelidis近日在X平台强烈否认了关于公司计划退出12个市场的传闻，并称其为“假新闻”。他澄清道，Nothing并未关闭任何市场，而是正在进行团队重组，以更好地为下一阶段的增长做准备，旨在更高效地运营。此次重组包括引入AI原生业务部门和将部分国家整合为区域中心。Evangelidis还透露，Nothing Phone 4b在上市首日便售出29,537台，打破了其价格区间的销售记录。",
-              "source_url": "https://www.androidauthority.com/nothing-denies-market-exit-3691221/",
+              "title": "Roku流媒体硬件价格上涨，最高涨幅达50%",
+              "brief": "Roku流媒体硬件的建议零售价近期悄然上涨，涨幅在10美元至50美元之间，部分产品如Roku Ultra和Streambar SE的涨幅高达50%。例如，Roku Ultra已从99.99美元升至149.99美元，入门级Streaming Stick也从29.99美元涨到39.99美元。尽管目前消费者仍能以旧价购买，但这是限时优惠。此次涨价未被官方宣布，但与今年其他消费电子制造商因零部件成本上升（尤其是内存）而提高产品价格的趋势一致。",
+              "source_url": "https://www.androidauthority.com/roku-price-hikes-3691262/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-25T01:46:22+08:00"
+              "published_at": "2026-07-25T04:03:58+08:00"
             },
             {
-              "title": "BOOX预告全新迷你电子阅读器Picco，主打便携与亲民价格",
-              "brief": "BOOX近日预告了其即将推出的迷你电子阅读器Picco，旨在为用户提供一款更加便携的阅读设备。这款新品将配备一块3.97英寸的电子墨水屏，并支持通过microSD卡扩展存储空间，同时BOOX承诺将以“亲民价格”推向市场。目前，Picco的具体价格和上市日期尚未公布。尽管如此，考虑到BOOX其他电子阅读器通常基于安卓系统并支持应用商店下载，预计Picco也将继承这一优势，从而在与同类小尺寸竞品如Xteink X4的竞争中占据有利地位。",
-              "source_url": "https://www.androidauthority.com/onyx-boox-picco-3691216/",
+              "title": "GrapheneOS应急PIN码或致一名男子入狱",
+              "brief": "一名美国男子因涉嫌在亚特兰大机场边境检查时使用GrapheneOS的应急PIN码，正面临联邦起诉。该男子在边境检查人员要求检查其Google Pixel手机时，输入了一个据称是GrapheneOS特有的应急PIN码，该PIN码的功能是擦除设备数据而非解锁。美国司法部指控其故意删除手机数字内容以阻止政府扣押财产，罪名是违反联邦法律，意图阻止财产被扣押而销毁财产。专家表示此前未见过类似案件。",
+              "source_url": "https://www.androidauthority.com/grapheneos-duress-pin-us-prosecution-3691271/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-25T01:40:02+08:00"
+              "published_at": "2026-07-25T04:02:59+08:00"
             },
             {
-              "title": "Google Pixel 10 Pro 在 Pixel 11 发布前仍售 699 美元",
-              "brief": "亚马逊将 Google Pixel 10 Pro 的价格降至 699 美元，比 999 美元的建议零售价优惠 300 美元，折扣达 30%。此次降价是零售商在 Pixel 11 发布前清理库存的举措，目前价格接近历史最低点。Pixel 10 Pro 于 2025 年 8 月发布，搭载谷歌 Tensor G5 芯片和 6.3 英寸显示屏，支持 Wi-Fi 7、蓝牙 6、超宽带及卫星 SOS 功能，并持续获得多年操作系统和安全更新。",
-              "source_url": "https://www.androidauthority.com/google-pixel-10-pro-july-deal-3691212/",
+              "title": "Anthropic推出新Claude模型，性能接近Fable 5但成本减半",
+              "brief": "Anthropic公司发布了名为Claude Opus 5的新模型，声称其智能水平接近Fable 5，但成本仅为其一半。该模型在知识工作和软件工程任务上的性能比前代Opus 4.8提升了一倍，同时在科学研究和网络安全任务方面也有所改进。此外，Opus 5被认为是Anthropic迄今为止最符合其宪法原则的模型。该模型现已全面上线，输入令牌每百万5美元，输出令牌每百万25美元。",
+              "source_url": "https://www.androidauthority.com/anthropic-launches-claude-opus-5-3691255/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-25T00:28:17+08:00"
+              "published_at": "2026-07-25T03:39:32+08:00"
             }
           ]
         },
@@ -228,6 +242,27 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Meta为智能眼镜制造内容审核难题",
+              "brief": "Meta公司宣布，将禁止部分通过其智能眼镜拍摄的内容上传至Instagram平台。此举是由于Meta的智能眼镜一直面临公关困扰，公司意识到若不加以限制，内容审核将迅速演变为一场噩梦。未来的内容管理将变得异常复杂，Meta正努力通过新政策来应对这一挑战，以维护平台秩序并避免进一步的声誉受损。",
+              "source_url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T15:23:44-04:00"
+            },
+            {
+              "title": "高通即将上调芯片价格，或影响整个行业",
+              "brief": "高通已致函客户，通知计划将其产品价格上调“两位数百分比”，新价格将于9月1日后发货的产品生效。高通表示，由于持续的零部件短缺导致供应商成本上升，公司已“耗尽吸收更高成本的能力”，并且此前已尝试从其他供应商采购。此次价格上涨预计将产生连锁反应，特别是对智能手机行业影响显著，因为高通的芯片广泛应用于三星折叠屏手机及即将推出的智能手机中。",
+              "source_url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T15:14:23-04:00"
+            },
+            {
+              "title": "Midjourney收购星座运势应用Co-Star",
+              "brief": "AI初创公司Midjourney已收购个性化星座运势应用Co-Star，交易细节未对外披露，但据报道已于春季完成。此举标志着Midjourney从AI图像生成拓展到新领域，Co-Star结合了人工洞察、NASA数据和AI为用户提供每日运势及匹配度分析。Co-Star创始人Banu Guler将继续负责该应用，并兼任Midjourney的首席设计官，这预示着Midjourney未来可能将AI技术融入更多生活化应用。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T15:06:58-04:00"
+            },
+            {
               "title": "大疆相机克隆公司Xtra暂停并退还所有预购订单",
               "brief": "模仿大疆相机产品的Xtra Technology公司已突然从网站撤下新款Xtra Muse 2 Pro，并无限期暂停预购，承诺退还所有已收取的20美元定金。该公司此前曾在美国销售大疆Osmo Pocket 3的模仿版本，并计划推出双镜头Osmo Pocket 4 Pro的克隆版。然而，在洛杉矶发布会展示该相机仅数天后，公司表示“目前无法确认可靠的发布时间表”，不再承诺一定会发布产品，这标志着其产品策略的重大转变。",
               "source_url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
@@ -240,27 +275,6 @@
               "source_url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
               "source_name": "The Verge",
               "published_at": "2026-07-24T14:10:22-04:00"
-            },
-            {
-              "title": "Roku流媒体硬件价格上涨，最高涨幅达50美元",
-              "brief": "Roku已对其全线流媒体硬件产品进行价格上调，其中最便宜的HD Streaming Stick从29.99美元涨至39.99美元，部分设备涨幅高达50美元。此次价格调整影响了包括Streaming Stick、Streaming Stick Plus、Streaming Stick 4K、Roku Ultra和Roku Streambar SE在内的所有设备。例如，Roku Ultra从99.99美元涨至149.99美元。一位Roku高管指出，此次涨价是由于全球内存短缺导致RAM价格上涨所致。",
-              "source_url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-              "source_name": "The Verge",
-              "published_at": "2026-07-24T14:07:19-04:00"
-            },
-            {
-              "title": "《银翼杀手2099》系列剧集将于11月登陆亚马逊Prime Video",
-              "brief": "亚马逊正式公布了其《银翼杀手》系列剧集《银翼杀手2099》，该剧集将于11月25日在Prime Video平台上线全部八集，并同步发布了首支预告片。该系列剧集由Silka Luisa担任总监，原版《银翼杀手》导演雷德利·斯科特担任执行制片人。故事设定在电影《银翼杀手2049》几十年后，由杨紫琼和亨特·莎弗主演，预告片延续了该系列标志性的苍凉未来都市风格。",
-              "source_url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-              "source_name": "The Verge",
-              "published_at": "2026-07-24T13:40:00-04:00"
-            },
-            {
-              "title": "Google Zero不再能被忽视",
-              "brief": "过去，网站与谷歌之间存在一项非正式“协议”，即谷歌索引网页并向网站输送流量。然而，这项协议似乎已“终结”，导致网站不得不面对谷歌流量枯竭的现实。这一被称为“Google Zero”的现象，意味着用户在谷歌搜索结果页即可获得所需信息，减少了对外部网站的访问。受此影响，Reddit正考虑退出其AI训练协议，一些出版商甚至计划阻止谷歌抓取其网站。谷歌搜索业务也感受到AI冲击，预示着互联网生态的重大转变。",
-              "source_url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-              "source_name": "The Verge",
-              "published_at": "2026-07-24T13:29:48-04:00"
             }
           ]
         }
