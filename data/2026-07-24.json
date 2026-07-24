@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T18:50:40.518768+08:00",
+  "generated_at": "2026-07-24T20:51:10.327919+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Claude语音模式新增Opus和Sonnet模型支持",
+              "brief": "Anthropic更新了Claude的语音模式，支持其更强大的Opus和Sonnet模型，此前该功能仅限于最快的Haiku模型。语音模式允许用户与聊天机器人进行完整的语音对话，而无需输入提示和阅读回复。用户可在对话中切换模型，并在文本和语音之间自由切换而不丢失上下文。新增支持后，用户能进行更长更复杂的对话，包括对沟通风格提供反馈。此外，语音模式现在还能调用Gmail、Google日历、Google文档和Slack等工具，例如让Claude查看日历或总结邮件。免费账户可连接一个工具，付费计划支持更多。语音模式的语言支持已扩展至法语、德语等9种语言（测试版）。语音对话计入标准使用限制，且不支持最新的Fable模型。",
+              "source_url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T20:10:49+08:00"
+            },
+            {
+              "title": "WhatsApp为iOS推出重新设计的气泡消息",
+              "brief": "据WaBetaInfo报道，WhatsApp正在iOS上推出重新设计的气泡消息。新消息气泡比之前更圆润，形状更柔和，类似iMessage；共享媒体文件不再有边框，外观更简洁。此次更新是继上个月iPhone和iPad聊天界面采用Liquid Glass设计变更后的又一改动。",
+              "source_url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T19:19:25+08:00"
+            },
             {
               "title": "苹果要求iPhone 18 Pro Max OLED面板降价20%",
               "brief": "据The Elec报道，苹果正推动OLED面板供应商降低iPhone 18 Pro Max的屏幕价格，以抵消内存芯片等组件成本上涨。苹果提议支付约70美元每块面板，但行业估计三星显示和LG显示最终供应价约为66.50美元，较iPhone 17 Pro Max面板价格下降约20%。尽管iPhone 18 OLED面板因采用三星M16材料而制造更复杂，但苹果仍要求大幅降价。智能手机厂商普遍通过降低显示面板和摄像头模组采购成本来应对内存涨价。UBI Research预测，三星显示今年将为iPhone 18系列供应4600万块OLED面板，LG显示供应4100万块。iPhone 18 Pro系列预计9月与首款折叠iPhone一同发布，iPhone 18和18e于2027年春季推出，Pro起售价可能涨至1299美元。",
@@ -28,26 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
               "source_name": "MacRumors",
               "published_at": "2026-07-24T04:58:38+08:00"
-            },
-            {
-              "title": "ChatGPT 的 Apple Health 集成功能现已向美国用户推出",
-              "brief": "OpenAI 宣布，整合了医疗记录和 Apple Health 数据的“Health in ChatGPT”功能今日起向美国用户开放。该功能于 1 月公布并处于测试阶段，现可让用户比较化验数据、总结就诊变化、追踪用药，并分析睡眠、活动与锻炼对健康的影响。用户需授权后，ChatGPT 才能使用其 Apple Health 和医疗记录信息，且这些数据不会用于训练模型或定向广告。该功能面向 18 岁以上用户，在网页和 iOS 端提供，覆盖免费、Go、Plus 和 Pro 计划。",
-              "source_url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T01:54:05+08:00"
-            },
-            {
-              "title": "卫星紧急求救功能扩展至两个新国家",
-              "brief": "根据苹果支持文档更新，卫星紧急求救功能现已在安道尔和冰岛可用。该功能支持 iPhone 14 及更新机型、Apple Watch Ultra 3，可在无蜂窝网络或 Wi-Fi 覆盖区域通过卫星发送紧急短信。在安道尔和冰岛使用该功能需安装 iOS 26.4 或 watchOS 26.4 及更高版本。",
-              "source_url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T01:50:00+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "提醒：检查你的银行应用，可能有一个重要设置",
+              "brief": "银行应用通常会在每笔交易后30秒内发送通知，但作者发现，对于通过卡授权进行的定期付款，银行不会发送即时通知，也不会将其列为常规付款授权。这意味着这些交易只能通过手动查看银行对账单发现，类似于前金融科技时代的情况。作者在一次手动审查中发现了这一漏洞，并提醒用户检查自己的银行应用设置。",
+              "source_url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-24T20:04:18+08:00"
+            },
             {
               "title": "苹果艺术总监分享“小Finder Guy”早期草图与原型",
               "brief": "苹果艺术总监Sofia Coelho在LinkedIn上分享了为MacBook Neo广告活动创作吉祥物“小Finder Guy”的幕后花絮，包括表情、比例和整体造型的草图研究，以及一个喷绘物理原型。该角色在活动中频繁出现，并迅速成为网络迷因，激发了粉丝创作和周边产品，还在WWDC 2026某场会议中以彩蛋形式亮相。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-24T06:05:31+08:00"
-            },
-            {
-              "title": "Opera One浏览器加入垂直标签功能，扩展Google Lens集成",
-              "brief": "Opera宣布为其Opera One浏览器推出两项更新。首先是垂直标签功能，将传统水平标签栏替换为可调整宽度的侧边面板，显示标签图标和完整标题，用户可选择仅显示图标。此外，Opera One扩展了Google Lens集成，现在用户可以在主页搜索栏中直接进行图片搜索，支持上传文件、拖放、从剪贴板粘贴或输入URL。",
-              "source_url": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-24T04:35:12+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "三星Galaxy Z Flip系列面临关键时刻",
-              "brief": "三星Galaxy Z Flip系列自2020年推出后迅速流行，但如今其吸引力正在下降。原因在于该系列主要依靠外观和便携性，而折叠屏手机的新鲜感消退后，用户更看重功能性。Galaxy Z Flip的副屏功能有限，需要频繁展开使用，相比传统智能手机甚至有所倒退。最新款Z Flip 8的成败将决定该系列的命运。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-critical-moment-3689798/",
+              "title": "Gemini每日简报可能很快变得更实用和可定制",
+              "brief": "Google正在开发一项新功能，让用户更容易定制Gemini每日简报。通过解析Google应用最新版，发现了一个专用文本框，用户可输入想看或不想看的内容，还可语音输入，并提供了建议选项。该功能尚未启用，但已可正常工作，有望在正式版中推出。",
+              "source_url": "https://www.androidauthority.com/customize-gemini-daily-brief-apk-teardown-3691132/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-24T18:30:05+08:00"
+              "published_at": "2026-07-24T20:32:46+08:00"
             },
             {
-              "title": "Galaxy Z Fold 8更薄更宽的设计存在妥协",
-              "brief": "三星Galaxy Z Fold 8成为全球最轻的书本式折叠手机，仅重201克，比上一代轻了14克。然而，为了实现更薄更轻的设计，三星牺牲了部分功能。具体妥协之处尚未详细说明，但用户在追求轻薄的同时需要权衡这些牺牲。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/",
+              "title": "三星Galaxy S27系列相机规格和代号再次泄露",
+              "brief": "WinFuture泄露了Galaxy S27系列的内部代号和相机传感器细节。系列代号为NM1至NM4，代表“新奇迹”。顶级型号NM4（S27 Ultra）可能配备50MP索尼IMX855超广角传感器和50MP长焦传感器；NM3（S27 Pro）预计有50MP超广角和50MP长焦，前置16MP自动对焦；NM1和NM2（S27及S27 Plus）将配备50MP主摄、12MP超广角和长焦相机。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-codenames-camera-specs-leak-3691124/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-24T18:00:16+08:00"
+              "published_at": "2026-07-24T20:26:29+08:00"
             },
             {
-              "title": "ChatGPT Health全面上线，但Android用户可能不满",
-              "brief": "OpenAI宣布ChatGPT Health面向美国18岁以上用户全面开放，支持连接健康数据并提供医疗建议。该功能兼容Apple Health及部分美国医院系统，但未支持Google Health。用户可询问医疗建议、分析睡眠和活动数据，并在日常对话中调用健康信息。OpenAI称模型在医疗场景表现优异，并经过医生测试，但此前曾因提供错误建议被起诉。",
-              "source_url": "https://www.androidauthority.com/chatgpt-health-rollout-3691048/",
+              "title": "Claude语音模式因支持更多模型和工具而变得更实用",
+              "brief": "Anthropic宣布Claude语音模式重大更新，现在可使用Opus和Sonnet模型，并支持连接的工具如Notion、Canva等。用户可通过语音完成编辑日历、创建文档等任务。该更新以公开测试版形式向移动端、桌面端和网页端用户推送，免费用户也可使用。",
+              "source_url": "https://www.androidauthority.com/claude-voice-mode-models-tools-3691101/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-24T17:58:45+08:00"
+              "published_at": "2026-07-24T19:25:48+08:00"
             },
             {
-              "title": "Gemini Live或将支持在对话中附加文件",
-              "brief": "Google正在测试为Gemini Live添加文件附件功能。目前Gemini Live仅支持实时视频或屏幕共享，用户需切换到普通对话才能附加文件。新功能将允许从手机本地或Google Drive导入文件，按钮已出现在测试版本中，但尚未完全可用。",
-              "source_url": "https://www.androidauthority.com/gemini-live-files-google-drive-attachment-3691025/",
+              "title": "ChatGPT语音现可增强桌面任务处理能力",
+              "brief": "OpenAI将升级版语音模式GPT-Live引入ChatGPT桌面应用，支持macOS和Windows。用户可用语音控制电脑，协调Chat、Work和Codex中的多个智能体，完成复杂任务。macOS用户还可通过AppShot共享屏幕窗口。该功能面向Plus、Pro等订阅用户推出。",
+              "source_url": "https://www.androidauthority.com/openai-chatgpt-voice-desktop-rollout-3691031/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-24T17:48:20+08:00"
+              "published_at": "2026-07-24T19:23:46+08:00"
             },
             {
-              "title": "使用两款手机后，我选择Galaxy Z Fold 8而非Fold 8 Ultra的五个理由",
-              "brief": "三星首次推出两款书本式折叠手机：Galaxy Z Fold 8和Z Fold 8 Ultra。标准版起价1900美元，Ultra版2100美元。作者认为标准版性价比更高，因为两者搭载相同芯片，核心体验一致，且标准版更宽更短的设计更实用。Ultra版仅多出200美元，但差异很小，不值得额外花费。",
-              "source_url": "https://www.androidauthority.com/why-id-buy-galaxy-z-fold-8-instead-of-fold-8-ultra-3690261/",
+              "title": "确认：三星新款折叠屏手机电池寿命大幅下降",
+              "brief": "欧盟能源数据库显示，三星Galaxy Z Fold 8、Z Fold 8 Ultra和Z Flip 8的电池额定充电循环为1200次，之后容量降至80%。这远低于上一代Z Flip 7和Z Fold 7的2000次循环。原因是新机改用硅碳电池，虽容量增加但衰减更快。不过仍优于Pixel和iPhone的1000次循环。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z8-foldables-battery-charging-cycles-3691072/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-24T17:30:20+08:00"
+              "published_at": "2026-07-24T19:05:34+08:00"
             }
           ]
         },
@@ -209,45 +209,66 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "谷歌扩大其代理型AI助手Gemini Spark的访问权限",
-              "brief": "谷歌正在扩大其代理型AI助手Gemini Spark的访问范围。该助手在今年的I/O开发者大会上发布，现在更多用户可以体验。美国地区，每月支付20美元的Google AI Pro用户将获得Spark访问权限；全球范围内，每月支付100至200美元的Google AI Ultra用户也可使用，但欧洲经济区、瑞士、英国和尼日利亚的用户除外。Spark由Gemini 3.5驱动，深度集成于Google Workspace应用，用户可通过侧边栏或菜单选项进入Spark页面，分配如检查邮件、日程、自动回复、总结长邮件线程、根据会议记录和邮件创建文档等任务。",
-              "source_url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
+              "title": "Alienware 15 评测：平价游戏笔记本电脑的完美时机",
+              "brief": "Alienware 在成立30年后推出了首款平价游戏笔记本电脑Alienware 15。在全球内存价格上涨的背景下，这款低价机型来得正是时候。它采用黑色塑料机身，设计简约，没有RGB灯效，但做工扎实。性能可观，端口齐全，键盘带数字小键盘，但风扇噪音大、屏幕亮度和色彩一般，网络摄像头平庸。评分8.7/10。",
+              "source_url": "https://www.engadget.com/2222040/alienware-15-review/",
               "source_name": "Engadget",
-              "published_at": "2026-07-24T14:00:44+08:00"
+              "published_at": "2026-07-24T20:30:00+08:00"
             },
             {
-              "title": "科学家开发出手持设备，可测量身体何时燃烧脂肪",
-              "brief": "科学家开发出一款手持式呼吸分析仪，通过测量呼出气中的丙酮含量来判断身体是否处于酮症状态，即燃烧脂肪供能。该研究发表在《Device》期刊上。传统丙酮测试在实验室外难以准确，但这款设备通过过滤多余湿气和污染物，并配合应用程序引导呼吸过程，解决了这一问题。在12名参与者多种饮食和运动场景的测试中，其测量结果与传统实验室检测高度吻合。",
-              "source_url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
+              "title": "Meta 通过 Facebook Marketplace 推出店铺平台",
+              "brief": "Meta 推出了名为 Seller 的应用程序，为 Facebook Marketplace 的卖家提供 AI 辅助创建列表、统一收件箱、库存管理和绩效洞察等专业工具。该应用与 Marketplace 同步，现有列表和消息可无缝迁移。Meta 旨在帮助卖家管理多个列表并发展业务。新应用可能改变 Marketplace 的社区公告板性质，但能为 Meta 带来额外收入。",
+              "source_url": "https://www.engadget.com/2222363/meta-launches-storefront-platform-facebook-marketplace-seller/",
               "source_name": "Engadget",
-              "published_at": "2026-07-24T06:39:08+08:00"
+              "published_at": "2026-07-24T19:57:10+08:00"
             },
             {
-              "title": "Peacock终于实现盈利，得益于世界杯和《爱情岛》",
-              "brief": "NBCUniversal旗下流媒体服务Peacock在第二季度首次实现盈利，调整后EBITDA达1.89亿美元。这主要归功于FIFA世界杯、NBA季后赛和真人秀《爱情岛美国版》的热播。目前其订阅用户达4800万，较上季度增加200万。不过高管表示，由于体育赛事和内容的季节性，盈利会逐季波动。此前Peacock长期亏损，上季度还亏损4.32亿美元，如今在Comcast分拆NBCUniversal之际，盈利为其价值提供了证明。",
-              "source_url": "https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/",
+              "title": "Meta 推出新的 Facebook 验证徽章，面向真实人类",
+              "brief": "Meta 推出免费的新 Facebook 验证计划，通过面部识别自拍与现有头像比对，确认用户是真人。要求年满18岁且账户状态良好。验证徽章会出现在 Marketplace、Dating 等服务上，仅确认身份而非背书。此举旨在应对 AI 生成的虚假资料和诈骗。同时，Meta 还在测试全屏视频体验，用户可选择退出。",
+              "source_url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
               "source_name": "Engadget",
-              "published_at": "2026-07-24T05:00:35+08:00"
+              "published_at": "2026-07-24T19:43:00+08:00"
             },
             {
-              "title": "Patreon将裁员20%",
-              "brief": "Patreon宣布裁员20%，即93名员工。CEO杰克·康特在博客中表示，公司业务依然强劲，但需要调整成本结构以成为创作者“稳定可靠的依靠”。裁员涉及组织扁平化、团队重新聚焦优先事项。被裁员工将获得16周遣散费及额外工龄补偿、年底前医疗福利和笔记本电脑补贴。尽管Patreon近期采取措施保护创作者内容不被AI抓取，但康特认为AI正在改变运营方式，公司必须拥抱AI，否则三年内将消亡。",
-              "source_url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/",
+              "title": "超过200家公司签署特朗普的“承诺”以保护消费者免受数据中心价格上涨影响",
+              "brief": "白宫宣布超过200家实体签署了特朗普总统的《费率支付者保护承诺》，承诺保护普通消费者免受数据中心建设带来的成本上升影响。签署方包括谷歌、Meta、微软、亚马逊等科技巨头及23位共和党州长。但该承诺不具法律约束力，没有违约处罚。白宫称该承诺覆盖美国80%的家庭和企业用电，保护2.63亿美国人。",
+              "source_url": "https://www.engadget.com/2222351/200-companies-sign-data-center-pledge/",
               "source_name": "Engadget",
-              "published_at": "2026-07-24T04:47:15+08:00"
+              "published_at": "2026-07-24T19:29:09+08:00"
             },
             {
-              "title": "Meta的亲AI广告活动明显缺乏AI内容",
-              "brief": "Meta推出了一则宣扬AI乐观前景的广告，但其中几乎未展示任何AI功能。公司希望对抗“AI末日论者”，然而广告仅播放人群行走、微笑和跳舞等模糊画面，未提及具体AI应用。此前Meta曾以AI提升生产力为由大规模裁员，被指控利用AI合理化针对病假员工的裁减，还因使用受版权保护材料训练AI被起诉，内部政策曾允许AI聊天机器人与未成年人进行“感性”对话。",
-              "source_url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+              "title": "LG 承诺在微软压力下停止 McAfee 垃圾广告",
+              "brief": "LG 同意停止在其显示器上显示 McAfee 弹窗广告，此前 Windows 11 用户发现 LG 显示器通过 Windows 自动更新静默安装“LG Monitor App Installer”，并推送 McAfee 等广告。微软 Windows 主管表示 LG 已同意禁用该弹窗。LG 辩称该安装程序不会自动安装 McAfee，但未能解释为何未经用户同意安装广告应用。问题涉及2024年及更新的显示器。",
+              "source_url": "https://www.engadget.com/2222348/lg-monitor-mcafee-spam-ads-microsoft/",
               "source_name": "Engadget",
-              "published_at": "2026-07-24T04:37:45+08:00"
+              "published_at": "2026-07-24T19:21:14+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "打地鼠式无人机禁令：美国试图封禁中国无人机，但FCC主席无法让它们停飞",
+              "brief": "美国联邦通信委员会（FCC）主席 Brendan Carr 推动对中国无人机实施禁令，但一家名为 Odyssey Robot 的美国初创公司被指实际使用中国零部件，其注册办公室空无一人，仅有三张桌子和密封纸箱。这暴露了禁令执行的困难——企业可能通过更换标签规避限制，而监管机构难以追踪供应链。文章调查了 Odyssey Robot 等公司，发现它们宣称的美国制造可能不实。",
+              "source_url": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T08:00:00-04:00"
+            },
+            {
+              "title": "欧盟警告TikTok：未成年人保护不应是选择加入",
+              "brief": "欧盟委员会根据《数字服务法》初步认定，TikTok 对未成年人的保护不足。委员会指出，TikTok 应默认将未成年人公开账户的内容设为仅对指定用户可见，且不应推荐至“为你推荐”页；即使设为私密账户，其关注列表和头像仍可能被他人看到。若 TikTok 不整改，可能面临罚款。",
+              "source_url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T07:40:03-04:00"
+            },
+            {
+              "title": "Facebook考虑放弃自我，变成TikTok",
+              "brief": "Facebook 计划进行重大改版以应对 TikTok 的竞争。Facebook 负责人 Tom Alison 宣布，今年晚些时候将测试“重新构想的体验”，部分用户打开应用后将直接进入全屏视频界面。该测试先在偏好视频内容的国家推出，明年可能扩展至美国。Facebook 观察到视频正在取代文字成为社交、社区和商业的中心，因此决定模仿 TikTok 的短视频模式。",
+              "source_url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T07:00:00-04:00"
+            },
             {
               "title": "微软施压LG禁用烦人的McAfee广告",
               "brief": "微软介入阻止LG显示器用户在Windows 11上收到McAfee试用弹窗广告。此前用户投诉连接LG显示器后，Windows驱动更新会在未获明确许可的情况下自动安装LG驱动和LG显示器应用安装器，并弹出McAfee及LG自家应用的全屏广告，该问题可追溯至2024年。微软Windows负责人Pavan Davuluri表示，LG已同意立即禁用其显示器应用安装器中的McAfee弹窗，并承诺微软将继续与生态伙伴合作改进。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
               "source_name": "The Verge",
               "published_at": "2026-07-23T17:15:06-04:00"
-            },
-            {
-              "title": "Echo Show 21 智能家居中心优惠 80 美元",
-              "brief": "亚马逊 Echo Show 21 智能显示屏目前正在促销，售价 319.99 美元，比原价 400 美元优惠 80 美元，达到历史最低价。该设备配备 21 英寸 1080p 屏幕，可作为智能家居中枢，控制智能灯、查看食谱、观看电视节目等。它支持 Matter 和 Thread 协议，可本地控制智能设备。可调节支架也同步打折。",
-              "source_url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-23T16:36:40-04:00"
-            },
-            {
-              "title": "FCC 主席 Brendan Carr 对第一修正案的战争",
-              "brief": "联邦通信委员会（FCC）主席 Brendan Carr 利用职权威胁广播公司，试图压制对总统的言论自由。他迫使 ABC 暂时撤下 Jimmy Kimmel 的深夜节目。Carr 计划推动取消全国广播所有权上限规则，该规则原本限制单一公司覆盖超过 39% 的美国家庭。他认为社交媒体和流媒体使该规则过时，但批评者认为此举会损害媒体多样性和地方服务。",
-              "source_url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
-              "source_name": "The Verge",
-              "published_at": "2026-07-23T15:46:11-04:00"
-            },
-            {
-              "title": "Claude 语音模式现支持 Opus 和 Sonnet",
-              "brief": "Anthropic 将 Claude 的语音模式扩展到更强大的 Opus 和 Sonnet 模型，此前仅支持较快的 Haiku 模型。用户现在可以语音与 Claude 进行深度对话，解决复杂问题，并集成 Gmail、Slack 和 Canva 等应用。公司发现用户不仅用于快速查询，还用于处理实际业务问题，因此推出更强模型以满足需求。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-              "source_name": "The Verge",
-              "published_at": "2026-07-23T15:00:00-04:00"
             }
           ]
         }
@@ -315,24 +315,31 @@
               "published_at": "https://www.ign.com/articles/marvels-wolverine-deep-cuts-sdcc-panel-live-report-comic-con-2026 | Thu, 23 Jul 2026 16:00:00 +0000"
             },
             {
-              "title": "塞斯·格林的《星球大战：绕行》终将重见天日",
-              "brief": "塞斯·格林在2026年圣迭戈国际动漫展上宣布，其制作的动画剧集《星球大战：绕行》将在卢卡斯叙事艺术博物馆放映。该剧原计划于2012年发布，但因迪士尼收购卢卡斯影业而被搁置，当时已完成39集。博物馆将于9月22日开放，届时将在两个剧院内循环播放该剧精选集。",
-              "source_url": "https://www.ign.com/articles/seth-greens-star-wars-detours-will-finally-see-the-light-of-day",
+              "title": "约翰尼·德普以斯克鲁奇造型亮相粉丝，新片预告发布标志好莱坞回归",
+              "brief": "约翰尼·德普在圣地亚哥动漫展上以全套服装和化妆亮相，扮演经典角色埃比尼泽·斯克鲁奇，并发布了新片《Ebenezer》的首支预告。这是德普近十年来首次主演好莱坞大片，此前他与前妻安柏·赫德的法律纠纷曾广受关注。该片阵容还包括伊恩·麦克莱恩、黛西·雷德利等。德普在活动中与粉丝互动，并喊出角色口头禅“呸”。尽管德普的职业生涯似乎正在复苏，但他能否回归《加勒比海盗》系列仍存疑问。",
+              "source_url": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
               "source_name": "IGN",
-              "published_at": "2026-07-24T13:09:17+08:00"
+              "published_at": "2026-07-24T18:25:20+08:00"
             },
             {
-              "title": "全新蓝色和黄色Joy-Con 2现已上市",
-              "brief": "任天堂发布了新款蓝色和黄色Joy-Con 2手柄，配色灵感来自《斯普拉遁》中的Deep Cut组合。该手柄售价99.99美元，已在亚马逊、百思买和任天堂eShop上架。左侧握把为蓝色，右侧为浅黄色，与之前黑色为主的Joy-Con形成对比。",
-              "source_url": "https://www.ign.com/articles/new-blue-and-yellow-joy-con-2-are-now-available",
+              "title": "育碧CEO吉耶莫称PlayStation取消光盘有好处，可降低主机成本",
+              "brief": "育碧CEO伊夫·吉耶莫在投资者问答中回应索尼宣布从2028年1月起新PS5游戏停止发行光盘的决定，他表示此举有积极面，如参考PC市场无光盘有助于市场增长，并且纯数字版能降低主机成本。尽管玩家强烈反对并发起请愿，吉耶莫认为这不会对行业造成太大干扰。索尼目前似乎未受负面反馈影响。",
+              "source_url": "https://www.ign.com/articles/playstation-killing-discs-has-upsides-ubisoft-boss-yves-guillemot-says-pointing-to-cheaper-consoles-without-disc-drives",
               "source_name": "IGN",
-              "published_at": "2026-07-24T03:24:44+08:00"
+              "published_at": "2026-07-24T17:45:32+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "Google账号支持自拍人脸登录",
+              "brief": "Google账号新增人脸识别登录功能，用户需提交自拍视频，验证时可能被要求转动头部以防深度伪造。Google将加密存储视频仅用于登录，用户可随时删除。",
+              "source_url": "https://www.solidot.org/story?sid=84917",
+              "source_name": "Solidot",
+              "published_at": "2026-07-24T20:06:23+08:00"
+            },
             {
               "title": "LG显示器应用不再弹出迈克菲广告",
               "brief": "当计算机连接LG显示器时，系统会通过Windows Update自动安装LG Monitor App Installer，该应用会不时弹出迈克菲杀毒软件等广告，引发消费者强烈反应。微软回应称已联系LG团队，LG同意立即禁止在应用中弹出迈克菲广告，但其他广告保持不变。",
@@ -360,19 +367,19 @@
               "source_url": "https://www.solidot.org/story?sid=84913",
               "source_name": "Solidot",
               "published_at": "2026-07-24T16:29:09+08:00"
-            },
-            {
-              "title": "女孩接受基因编辑手术后死亡",
-              "brief": "2025年3月，一名六岁女孩在上海新华医院接受全球首例脑部碱基编辑手术，七天后因严重免疫反应死亡。她患有罕见的Snijders Blok-Campeau综合征，由CHD3基因突变引起。手术使用了AAV9病毒载体，但术后出现发烧、无尿、血小板下降等症状。知情同意书未明确死亡风险。医院被罚约2.4万元，研究团队在《自然》发表论文时删除了失败信息。",
-              "source_url": "https://www.solidot.org/story?sid=84912",
-              "source_name": "Solidot",
-              "published_at": "2026-07-24T15:47:49+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "本周赛博领鸡蛋（7.24~7.39）：预言奇谈 / Foretales",
+              "brief": "Epic Games本周免费游戏为《预言奇谈 / Foretales》，同时覆盖PC、安卓和iOS平台。这是一款以卡牌推动剧情的叙事冒险游戏，玩家扮演盗贼，通过收集和使用卡牌推动故事发展，在多个分支中做出选择，融合策略、角色扮演和互动小说元素。游戏已于2022年9月15日发行，Steam评价为特别好评，支持中文。限免截止至7月39日。",
+              "source_url": "https://www.appinn.com/eggs-27724/",
+              "source_name": "小众软件",
+              "published_at": "2026-07-24T17:20:23+08:00"
+            },
             {
               "title": "OpenClaw官方安卓客户端评分仅1.9，配对过程复杂是主因",
               "brief": "OpenClaw近期推出官方安卓客户端，在Google Play商店评分仅1.9分。客户端需与OpenClaw网关配对才能实现聊天、语音、审批等功能。但配对过程极为繁琐：网关默认仅监听本机地址，安卓无法直接连接；需额外配置Tailscale Serve，但配置不直观；二维码扫描后安卓端状态仍无法同步；地址类型易混淆，网页访问成功不代表安卓节点可连接。整个过程需反复确认网关、Tailscale、二维码、节点四个环节，导致许多用户卡在配对步骤。目前客户端还不支持无障碍权限，无法直接操作手机。",
@@ -400,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "努比亚红魔100W氘锋一拖二Type-C数据线开售，直头加弯头设计129元",
-              "brief": "努比亚红魔推出100W氘锋一拖二Type-C数据线，采用直头与弯头双接口设计，弯头可为手机快充，直头可为散热器供电以激活“破坏神模式”。线身采用尼龙编织工艺，插头为锌合金材质并加长尾插，总长150厘米，分线长50厘米。产品已在京东开售，定价129元。",
-              "source_url": "https://www.ithome.com/0/981/357.htm",
+              "title": "吉利银河战舰700亮相：定位AI全地形硬核SUV，830kW三电机四驱",
+              "brief": "吉利银河战舰700正式亮相，定位AI全地形硬核SUV。新车搭载三电机四驱插电式混合动力系统，综合功率830千瓦，推重比达392马力/吨，配备差速锁。车身尺寸5085/1999mm，轴距2900mm，涉水深度800毫米，支持蟹行模式、原地掉头等功能。",
+              "source_url": "https://www.ithome.com/0/981/373.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T18:45:19+08:00"
+              "published_at": "2026-07-24T20:46:26+08:00"
             },
             {
-              "title": "菲尔兹奖得主邓煜谈AI：能辅助数学证明但不能替代独立思考",
-              "brief": "菲尔兹奖得主邓煜分享AI在数学研究中的应用体验。他表示，AI能补充研究者不熟悉的知识，例如在近期工作中，GPT为一个特殊情形提供了简洁证明，虽未写入最终论文，但提供了思路。邓煜认为，未来人类可负责总体框架，AI辅助技术推导，但强调学生应保持判断力，不能跳过独立验证。",
-              "source_url": "https://www.ithome.com/0/981/356.htm",
+              "title": "宇树发布轮足机器人As2-W：速度6m/s、IP54防水、空载续航超30km",
+              "brief": "宇树科技发布轮足机器人As2-W，在As2基础上增加四个主动轮，结合轮式速度与四足越障能力。自重约25kg，负重180kg，最大速度6m/s，IP54防水，空载续航距离超30km。搭载预训练RL模型6.0。",
+              "source_url": "https://www.ithome.com/0/981/372.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T18:38:38+08:00"
+              "published_at": "2026-07-24T20:41:31+08:00"
             },
             {
-              "title": "智元启动赴港上市流程，2025年通用人形机器人出货量全球第一",
-              "brief": "智元机器人公司启动赴港上市流程。据Omdia统计，2025年智元通用人形机器人出货量超5100台，占全球约39%市场份额，位居第一。今年3月第1万台远征A3下线，6月第15000台精灵G2量产下线。公司此前披露，精灵G2在量产产线直播中完成64828件作业，成功率99.99%。",
-              "source_url": "https://www.ithome.com/0/981/350.htm",
+              "title": "腾讯QQ鸿蒙版App获9.2.50邀测升级，新增账号关联、面对面添加好友等功能",
+              "brief": "腾讯QQ鸿蒙版App获9.2.50邀测升级，测试时间为2026/7/24至2026/8/20。新增支持QQ文件闪传发送、账号关联、面对面添加好友、隐藏会话、群头衔与标识等功能，并优化个人资料卡和群成员设置。",
+              "source_url": "https://www.ithome.com/0/981/371.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T18:29:18+08:00"
+              "published_at": "2026-07-24T20:29:54+08:00"
             },
             {
-              "title": "亚马逊升级Alexa+ AI助手，可完成购物、餐厅预订、叫车等任务",
-              "brief": "亚马逊推出升级版Alexa+ AI助手，具备多模态能力、超强记忆力，并打通第三方服务接口。用户可通过语音叫Uber、在OpenTable订餐、Grubhub点外卖，并实时调整订单。Alexa+与200多家新闻机构合作提供个性化新闻摘要，可记住用户偏好并在多设备同步，同时整合购物、音乐等生态服务。",
-              "source_url": "https://www.ithome.com/0/981/338.htm",
+              "title": "格科微收到国际知名手机品牌订单，供应0.64微米5000万像素图像传感器",
+              "brief": "格科微宣布收到国际知名手机品牌订单，供应0.64微米5000万像素图像传感器GC50F0。该传感器采用1/2.8英寸光学规格，噪声水平较同规格降低约50%，支持4K 60fps录制和DAG HDR。截至7月24日，格科微5000万像素传感器累计出货超1.2亿颗。",
+              "source_url": "https://www.ithome.com/0/981/369.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T18:16:28+08:00"
+              "published_at": "2026-07-24T20:15:03+08:00"
             },
             {
-              "title": "理想L9累计交付突破30万辆，用时不到4年",
-              "brief": "理想汽车宣布，理想L9累计交付量突破30万辆，用时不到4年。该车型于2022年6月上市、8月底开启交付，定位大型SUV。2022年9月第1万辆下线，创行业新纪录。理想L9累计行驶里程超36亿公里，智能驾驶里程超11亿公里，累计处理用户需求29.47亿次。",
-              "source_url": "https://www.ithome.com/0/981/332.htm",
+              "title": "微信鸿蒙版App获8.0.19.44正式版升级",
+              "brief": "微信鸿蒙版App获8.0.19.44正式版升级，安装次数约6782万次。本次更新包括支持视频录制时切换前后摄像头、收藏的聊天记录转存为笔记、朋友圈发送后删除可重新编辑、灰度测试实况照片发送和AI助手“小微”等功能。",
+              "source_url": "https://www.ithome.com/0/981/368.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T18:10:33+08:00"
+              "published_at": "2026-07-24T20:08:08+08:00"
             }
           ]
         },
@@ -480,39 +487,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "浙江：支持科创型企业上市、并购重组，扩大科创债发行规模",
-              "brief": "浙江省委省政府发布意见，推进科技金融高质量发展，支持科创型企业全生命周期金融服务。意见提出实施“凤凰行动”计划，支持科创型企业上市、并购重组，并扩大科创债发行规模。目标到2027年科技保险保障规模超7000亿元，到2030年科技创新债券发行额居全国前列。",
-              "source_url": "https://36kr.com/newsflashes/3909520831419781?f=rss",
+              "title": "美股大型科技股盘前多数上涨，微软涨超1%",
+              "brief": "美股大型科技股在盘前交易中多数上涨，截至发稿，英特尔涨超2%，微软涨超1%，特斯拉、奈飞、苹果、亚马逊、谷歌等小幅上涨；而Meta和英伟达则小幅下跌。",
+              "source_url": "https://36kr.com/newsflashes/3909637385049480?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-24 18:50:14  +0800"
+              "published_at": "2026-07-24 20:48:48  +0800"
             },
             {
-              "title": "长春高新：GenSci155注射液境内生产药品注册临床试验申请获受理",
-              "brief": "长春高新公告，其控股子公司金赛药业的GenSci155注射液（皮下）境内生产药品注册临床试验申请已获受理。该药品拟用于预防早产儿支气管肺发育不良（BPD），标志着该药物研发进入临床试验阶段。",
-              "source_url": "https://36kr.com/newsflashes/3909515262072198?f=rss",
+              "title": "日月明：拟2880万元—5760万元回购公司股份",
+              "brief": "日月明公告称，公司计划以2880万元至5760万元回购股份，用于维护公司价值及股东权益，回购价格不超过36元/股。",
+              "source_url": "https://36kr.com/newsflashes/3909634025084041?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-24 18:44:34  +0800"
+              "published_at": "2026-07-24 20:45:23  +0800"
             },
             {
-              "title": "容大感光：拟定增募资不超过5.91亿元，用于广州生产基地建设项目等",
-              "brief": "容大感光公告，计划定向增发募资不超过5.91亿元，资金将用于广州生产基地建设项目、泰国加工基地建设项目及补充流动资金。此举旨在扩大产能和布局海外加工能力。",
-              "source_url": "https://36kr.com/newsflashes/3909511748228488?f=rss",
+              "title": "道氏技术：上半年净利润2.9亿元，同比增长25.92%",
+              "brief": "道氏技术披露半年报，公司2026年上半年实现营业收入47.94亿元，同比增长31.21%；归属于上市公司股东的净利润2.9亿元，同比增长25.92%；基本每股收益0.3764元。",
+              "source_url": "https://36kr.com/newsflashes/3909628265551234?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-24 18:41:00  +0800"
+              "published_at": "2026-07-24 20:39:32  +0800"
             },
             {
-              "title": "俄罗斯央行降息25个基点",
-              "brief": "俄罗斯央行宣布将关键利率下调25个基点至14.00%。这是俄罗斯央行近期的一次货币政策调整，旨在应对经济形势变化。",
-              "source_url": "https://36kr.com/newsflashes/3909508993996166?f=rss",
+              "title": "孟加拉推进总投资10亿美元造船枢纽项目",
+              "brief": "孟加拉国已初步批准在马塔尔巴里深水港片区建设一座现代化修造船综合园区，总投资额10亿美元，由社会资本全额出资，投资方拟定为澳大利亚AIS海洋投资公司，中国港湾工程有限责任公司担任技术合作方，目前官方尚未公布施工时间表及特许经营年限。",
+              "source_url": "https://36kr.com/newsflashes/3909624754754690?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-24 18:38:12  +0800"
+              "published_at": "2026-07-24 20:35:57  +0800"
             },
             {
-              "title": "上交所：本周对201起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施",
-              "brief": "据上交所发布，本周上交所对201起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，同时对32起上市公司重大事项进行专项核查，并向证监会上报涉嫌违法违规案件线索5起。此举旨在维护市场秩序。",
-              "source_url": "https://36kr.com/newsflashes/3909503047537794?f=rss",
+              "title": "上半年我国连锁超市行业门店来客数、销售额同比均呈增长状态",
+              "brief": "中国连锁经营协会对92家连锁超市企业、15000家门店的摸底调查显示，2026年上半年，受访企业总体销售额、线下门店销售额和线上销售额同比增长或持平的企业占比分别为58.7%、56.5%和73.9%，行业门店来客数和销售额同比均呈增长状态。",
+              "source_url": "https://36kr.com/newsflashes/3909615494370433?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-24 18:32:09  +0800"
+              "published_at": "2026-07-24 20:26:32  +0800"
             }
           ]
         },
