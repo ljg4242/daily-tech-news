@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T20:51:10.327919+08:00",
+  "generated_at": "2026-07-24T22:52:15.846047+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Meta推出免费“Facebook验证”徽章以确认真实用户",
+              "brief": "Meta宣布推出免费“Facebook验证”徽章，旨在确认Facebook个人资料属于真人而非AI生成的虚假账号。该功能通过自拍验证：用户录制一段短视频自拍，Meta将其与现有头像比对以确认匹配。Meta表示验证过程免费且通常只需几分钟，但账户必须符合公司的信任与安全标准。仅限年满18岁且遵守社区准则、无欺诈或虚假行为的用户可申请。该徽章不适用于公共主页或专业模式账户，定位为个人资料功能。验证后徽章会显示在Marketplace、Dating、Groups和Profile等位置，未来计划扩展到动态帖子。此功能与Meta付费订阅服务Meta Verified分开，后者提供额外权益如防冒充保护和账户支持。Facebook验证免费且范围更窄，旨在标识人类身份。该功能将分阶段在部分市场推出，并计划全球扩展。",
+              "source_url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T21:55:12+08:00"
+            },
+            {
+              "title": "Apple Park附近报告火灾",
+              "brief": "据圣克拉拉县消防局报告，当地时间周四下午5:30左右，消防员接到报警称加州库比蒂诺Apple Park旁一栋苹果租赁建筑发生室外火灾。火灾发生在名为Apple Forge 1的建筑外，地址为Forge Drive 18920至18922号。有社交媒体用户描述损失“巨大”，但分享的照片仅显示部分围栏受损。事故报告在45分钟后标记为已结案。目前不清楚是否有人员受伤。已联系苹果公司置评。",
+              "source_url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-24T21:30:29+08:00"
+            },
             {
               "title": "Claude语音模式新增Opus和Sonnet模型支持",
               "brief": "Anthropic更新了Claude的语音模式，支持其更强大的Opus和Sonnet模型，此前该功能仅限于最快的Haiku模型。语音模式允许用户与聊天机器人进行完整的语音对话，而无需输入提示和阅读回复。用户可在对话中切换模型，并在文本和语音之间自由切换而不丢失上下文。新增支持后，用户能进行更长更复杂的对话，包括对沟通风格提供反馈。此外，语音模式现在还能调用Gmail、Google日历、Google文档和Slack等工具，例如让Claude查看日历或总结邮件。免费账户可连接一个工具，付费计划支持更多。语音模式的语言支持已扩展至法语、德语等9种语言（测试版）。语音对话计入标准使用限制，且不支持最新的Fable模型。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
               "source_name": "MacRumors",
               "published_at": "2026-07-24T18:31:42+08:00"
-            },
-            {
-              "title": "iOS 27 的 10 项性能改进，你会切实感受到",
-              "brief": "苹果在 iOS 27 中专注于提升系统性能，优化了从系统动画到 AirDrop 传输速度的各个方面。应用启动速度提升最高 30%，CPU 调度器得到优化以更高效处理高负载任务，Wi-Fi 与蜂窝网络切换更智能以减少连接中断，搜索索引被重建以提供更全面的内容索引。这些改进覆盖 iPhone 11 及更新机型，即使旧款 iPhone 也能感受到流畅度提升。",
-              "source_url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T06:02:58+08:00"
-            },
-            {
-              "title": "iPhone 驾照功能可能即将扩展到犹他州",
-              "brief": "MacRumors 在苹果后端发现了犹他州身份证的迹象，表明苹果正推进在 Apple Wallet 中支持该州驾照和身份证。犹他州已有独立的移动驾照应用，但尚未集成 Apple Wallet。苹果早在 2021 年就宣布计划加入犹他州驾照，但至今未实现。目前美国多个州及波多黎各已支持该功能，数字驾照可在指定 TSA 安检点及部分商业场所使用。",
-              "source_url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-24T04:58:38+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "提醒：检查你的银行应用，可能有一个重要设置",
-              "brief": "银行应用通常会在每笔交易后30秒内发送通知，但作者发现，对于通过卡授权进行的定期付款，银行不会发送即时通知，也不会将其列为常规付款授权。这意味着这些交易只能通过手动查看银行对账单发现，类似于前金融科技时代的情况。作者在一次手动审查中发现了这一漏洞，并提醒用户检查自己的银行应用设置。",
-              "source_url": "https://9to5mac.com/2026/07/24/psa-check-your-banking-app-for-a-potentially-important-setting/",
+              "title": "最佳“七月黑色星期五”苹果优惠：MacBook Pro 省 500 美元，AirPods 省 100 美元等",
+              "brief": "七月黑色星期五促销活动正在进行，苹果产品迎来大幅折扣。MacBook Pro 最高优惠 500 美元，AirPods 优惠 100 美元，此外还有更多产品参与活动。这是消费者购买苹果设备的好时机。",
+              "source_url": "https://9to5mac.com/2026/07/24/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T20:04:18+08:00"
+              "published_at": "2026-07-24T22:38:18+08:00"
             },
             {
-              "title": "苹果艺术总监分享“小Finder Guy”早期草图与原型",
-              "brief": "苹果艺术总监Sofia Coelho在LinkedIn上分享了为MacBook Neo广告活动创作吉祥物“小Finder Guy”的幕后花絮，包括表情、比例和整体造型的草图研究，以及一个喷绘物理原型。该角色在活动中频繁出现，并迅速成为网络迷因，激发了粉丝创作和周边产品，还在WWDC 2026某场会议中以彩蛋形式亮相。",
-              "source_url": "https://9to5mac.com/2026/07/23/apple-art-director-shares-early-sketches-and-prototype-of-lil-finder-guy/",
+              "title": "Facebook 宣布通过面部扫描确认用户身份",
+              "brief": "Facebook 推出面部扫描功能以验证用户是否为真人，旨在打击虚假账号和机器人。用户需通过摄像头扫描面部，系统将比对生物特征数据。该功能可能引发隐私担忧。",
+              "source_url": "https://9to5mac.com/2026/07/24/facebook-announces-face-scanning-to-confirm-youre-a-human/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T10:36:03+08:00"
+              "published_at": "2026-07-24T22:09:17+08:00"
             },
             {
-              "title": "匹克球喜剧《The Dink》在Apple TV+首播",
-              "brief": "由杰克·约翰逊、玛丽·斯汀伯根等主演的匹克球题材喜剧电影《The Dink》已在Apple TV+上线。影片讲述落魄网球天才达斯蒂被迫尝试匹克球，并逐渐找回自我的故事。该片由乔什·格林鲍姆执导，是本·斯蒂勒和杰克·约翰逊等担任制片人。Apple TV+近期持续扩充体育内容，包括《F1 电影》等作品。",
-              "source_url": "https://9to5mac.com/2026/07/23/pickleball-comedy-the-dink-premieres-on-apple-tv/",
+              "title": "Apple TV 八月份新内容一览",
+              "brief": "Apple TV 公布了八月份即将上线的影视内容，包括多部原创剧集和电影。具体片单尚未完全公开，但预计会涵盖多种类型，满足不同观众需求。订阅用户可期待新内容陆续上线。",
+              "source_url": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T09:01:04+08:00"
+              "published_at": "2026-07-24T21:44:51+08:00"
             },
             {
-              "title": "苹果起诉OpenAI窃取商业机密案被重新分配给新法官",
-              "brief": "苹果对两名前员工、OpenAI及Jony Ive的io Products提起的商业机密诉讼，最初分配给地方法官Virginia K. DeMarchi。由于苹果可能拒绝由该法官全权审理，案件现已重新分配给地区法官Edward Davila，并由地方法官Nathanael Cousins处理证据开示事项。原定10月13日的案件管理会议已被取消，但双方仍需在9月22日前讨论和解与证据交换计划，并于10月6日前提交联合案件管理声明。",
-              "source_url": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
+              "title": "Meta 为 iPhone 发布全新 Facebook Seller 应用",
+              "brief": "Meta 推出专为 iPhone 设计的全新 Facebook Seller 应用，帮助卖家更方便地管理店铺和商品。该应用提供商品上架、订单处理和客户沟通等功能，旨在提升移动端销售体验。",
+              "source_url": "https://9to5mac.com/2026/07/24/meta-just-released-a-brand-new-facebook-seller-app-for-iphone/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T08:33:42+08:00"
+              "published_at": "2026-07-24T21:28:51+08:00"
             },
             {
-              "title": "Geekbench 7发布，CPU和GPU性能测试全面更新",
-              "brief": "Primate Labs发布了Geekbench 7，这是对CPU和GPU性能测试的全面更新。新版本增加了机器学习、图像处理和视频编辑等工作负载，GPU基准测试更侧重机器学习和内容创作，新增人脸跟踪、图像超分辨率、视频背景虚化等测试。此外，Geekbench 7新增了对NVIDIA CUDA的支持，并改进了多核性能测试方式，只在实际任务通常使用多线程时才运行多线程测试。",
-              "source_url": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
+              "title": "报道：Apple Wallet 驾照功能即将扩展到另外两个州",
+              "brief": "Apple Wallet 的数字驾照功能即将在美国新增两个支持州，具体州名尚未公布。该功能允许用户将驾照或身份证添加到 iPhone 或 Apple Watch，用于机场安检或身份验证。目前已在部分州上线。",
+              "source_url": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
               "source_name": "9to5Mac",
-              "published_at": "2026-07-24T06:05:31+08:00"
+              "published_at": "2026-07-24T21:27:09+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "据报道，Nothing因最新手机销售不佳将退出多个全球市场",
+              "brief": "据知情人士透露，Nothing公司计划退出多个全球市场，原因是其最新款手机销售表现不佳。该公司近年来在竞争激烈的智能手机市场中面临挑战，尤其在高端市场难以突破。此次撤出市场的决定可能涉及欧洲和亚洲部分地区，具体退出名单尚未公布。",
+              "source_url": "https://9to5google.com/2026/07/24/nothing-exiting-global-markets-report/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-24T22:25:00+08:00"
+            },
+            {
+              "title": "三星Galaxy Z Fold 8新型硅碳电池续航不如预期",
+              "brief": "三星在Galaxy Z Fold 8中首次采用硅碳电池技术，但实际续航表现未达预期。硅碳电池理论上能提供更高能量密度，但初期测试显示其循环寿命较短，长期使用后容量衰减较快。三星表示正在优化电池管理系统以改善这一状况。",
+              "source_url": "https://9to5google.com/2026/07/24/samsung-silicon-carbon-battery-galaxy-z-fold-8-longevity/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-24T22:05:00+08:00"
+            },
             {
               "title": "Gemini Spark 向美国 Google AI Pro 用户推出",
               "brief": "Google 正在向美国的 AI Pro 用户推出 Gemini Spark 功能。这是其 AI 服务扩展的一部分，旨在为用户提供更强大的工具。该功能目前仅限美国地区的 Pro 订阅者使用，尚未公布国际发布时间。",
@@ -108,26 +122,19 @@
               "source_url": "https://9to5google.com/2026/07/23/samsung-galaxy-z-fold-8-switch-trade-in-value-problem/",
               "source_name": "9to5Google",
               "published_at": "2026-07-24T04:35:00+08:00"
-            },
-            {
-              "title": "谷歌推出首个Fitbit Air固件更新",
-              "brief": "谷歌为Fitbit Air发布了首次固件更新。背景是Fitbit Air作为新设备需要初始更新以修复问题或增加功能。关键细节包括：更新内容未详细说明，但用户可通过Fitbit应用安装。",
-              "source_url": "https://9to5google.com/2026/07/23/first-fitbit-air-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-24T04:05:00+08:00"
-            },
-            {
-              "title": "Gemini家庭上下文记忆扩展至15分钟，Nest Cam 2026年7月更新推出",
-              "brief": "谷歌将Gemini家庭助手的上下文记忆能力从短时提升至15分钟，同时开始推送Nest Cam的2026年7月固件更新。背景是持续改进智能家居体验。关键细节包括：记忆扩展让对话更连贯，Nest Cam更新可能包含性能提升和bug修复。",
-              "source_url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-24T03:36:50+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "蛇形机器人搜索委内瑞拉地震幸存者",
+              "brief": "在委内瑞拉6月24日发生的双震灾难后，搜救人员使用蛇形机器人深入倒塌建筑的废墟中寻找幸存者。这种机器人由卡内基梅隆大学开发，能通过狭窄空间，将救援人员的视觉延伸至安全区域。每台蛇机器人长4英尺，采用模块化设计，可快速更换部件。此次地震导致超过5000人死亡，16740人受伤。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-24T19:20:43+08:00"
+            },
             {
               "title": "微软回应LG显示器在Windows上安装McAfee广告",
               "brief": "LG显示器通过Windows Update悄悄安装“LG Monitor App Installer”应用，该应用会在系统右下角弹出McAfee试用广告。Gamers Nexus视频证实，每次启动均出现广告，并偶有推广其他LG软件。微软已回应称将移除该应用。",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-24T03:08:01+08:00"
-            },
-            {
-              "title": "《歪心狼 vs. ACME》最终预告片在SDCC发布",
-              "brief": "圣地亚哥国际动漫展上发布了《歪心狼 vs. ACME》的最终预告片，该片由Ketchup Entertainment从华纳兄弟收购，此前被搁置多年，终于获得广泛院线发行。影片基于Ian Frazier 1990年发表在《纽约客》上的讽刺短文，讲述歪心狼因ACME设备屡次失灵而起诉该公司的故事。同时，导演Zach Cregger的《生化危机》新改编版全长预告片也一同亮相，部分观众还观看了前18分钟片段。",
-              "source_url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-24T02:01:46+08:00"
             }
           ]
         },
@@ -169,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "继一加之后，Nothing 可能成为下一个退出多个全球市场的品牌",
+              "brief": "据 Digit 报道，伦敦手机品牌 Nothing 正计划退出包括日本、中东和部分欧洲在内的 12 个市场。此举源于全球出货量大幅下滑，尽管在印度等关键地区仍有增长。公司全球员工数将削减 40%，研发部门裁员 30-50%。近期产品表现疲软，Phone 4b 全球出货约 2 万台，Phone 4a 系列共 15 万台，而 2025 年全球销量为 200 万台。此外，RAM 和存储成本飙升迫使 Nothing 取消了售价低于 250 美元的 CMF Phone 2 Pro 后续机型。",
+              "source_url": "https://www.androidauthority.com/nothing-market-exits-layoffs-rumor-3691156/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T22:04:55+08:00"
+            },
+            {
+              "title": "三星或为 Galaxy S27 系列引入硅碳电池，但并非全系搭载",
+              "brief": "爆料人 Lanzuk 称，三星正在 Galaxy S27 系列上测试硅碳电池，但最终容量尚未确定，预计仅比 S26 系列提升 10%。例如 S27 Ultra 可能配备 5500mAh 电池。由于成本问题，三星在是否全系采用该技术之间犹豫，基础款 S27 可能无缘，仅限 S27 Pro 及以上机型。硅碳电池可在相同体积下增加容量，或使 S27 Pro 在较小机身内实现大电池和旗舰相机配置。",
+              "source_url": "https://www.androidauthority.com/galaxy-s27-series-silicon-carbon-batteries-3691129/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T21:38:13+08:00"
+            },
+            {
+              "title": "谷歌或允许用户移除 Gemini Nano Banana 图片的水印",
+              "brief": "APK 拆解显示，谷歌正开发一项功能，允许用户在使用 Gemini Nano Banana 生成图像时去掉可见的水印标志。此前，谷歌副总裁 Josh Woodward 在收集用户反馈后，将“移除水印”列为十大需求之一。目前谷歌依赖不可见的 SynthID 水印，但额外添加了微小视觉覆盖。新选项将让用户仅依靠隐形水印，提升图片美观度。",
+              "source_url": "https://www.androidauthority.com/gemini-nano-banana-watermark-remove-apk-teardown-3691067/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T21:24:44+08:00"
+            },
+            {
+              "title": "这款配备后置 OLED 屏幕的独特手机或将全球上市",
+              "brief": "据 XimiTime 报道，小米 18 Pro 系列可能在日本、俄罗斯、台湾、土耳其及欧洲经济区等全球市场推出，但美国不在其中。该系列延续后置副屏设计，采用覆盖整个相机区域的 OLED 面板，类似 17 Pro 系列。爆料还称，小米自 4 月起已在全球版主题应用中添加后屏相关翻译。配置方面，预计搭载 2nm 骁龙 8 Elite Gen 6 或 Pro 芯片、2 亿像素主摄和长焦微距镜头。",
+              "source_url": "https://www.androidauthority.com/xiaomi-18-pro-rear-screen-global-launch-leak-3691121/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-24T21:11:26+08:00"
+            },
+            {
               "title": "Gemini每日简报可能很快变得更实用和可定制",
               "brief": "Google正在开发一项新功能，让用户更容易定制Gemini每日简报。通过解析Google应用最新版，发现了一个专用文本框，用户可输入想看或不想看的内容，还可语音输入，并提供了建议选项。该功能尚未启用，但已可正常工作，有望在正式版中推出。",
               "source_url": "https://www.androidauthority.com/customize-gemini-daily-brief-apk-teardown-3691132/",
               "source_name": "Android Authority",
               "published_at": "2026-07-24T20:32:46+08:00"
-            },
-            {
-              "title": "三星Galaxy S27系列相机规格和代号再次泄露",
-              "brief": "WinFuture泄露了Galaxy S27系列的内部代号和相机传感器细节。系列代号为NM1至NM4，代表“新奇迹”。顶级型号NM4（S27 Ultra）可能配备50MP索尼IMX855超广角传感器和50MP长焦传感器；NM3（S27 Pro）预计有50MP超广角和50MP长焦，前置16MP自动对焦；NM1和NM2（S27及S27 Plus）将配备50MP主摄、12MP超广角和长焦相机。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-codenames-camera-specs-leak-3691124/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T20:26:29+08:00"
-            },
-            {
-              "title": "Claude语音模式因支持更多模型和工具而变得更实用",
-              "brief": "Anthropic宣布Claude语音模式重大更新，现在可使用Opus和Sonnet模型，并支持连接的工具如Notion、Canva等。用户可通过语音完成编辑日历、创建文档等任务。该更新以公开测试版形式向移动端、桌面端和网页端用户推送，免费用户也可使用。",
-              "source_url": "https://www.androidauthority.com/claude-voice-mode-models-tools-3691101/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T19:25:48+08:00"
-            },
-            {
-              "title": "ChatGPT语音现可增强桌面任务处理能力",
-              "brief": "OpenAI将升级版语音模式GPT-Live引入ChatGPT桌面应用，支持macOS和Windows。用户可用语音控制电脑，协调Chat、Work和Codex中的多个智能体，完成复杂任务。macOS用户还可通过AppShot共享屏幕窗口。该功能面向Plus、Pro等订阅用户推出。",
-              "source_url": "https://www.androidauthority.com/openai-chatgpt-voice-desktop-rollout-3691031/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T19:23:46+08:00"
-            },
-            {
-              "title": "确认：三星新款折叠屏手机电池寿命大幅下降",
-              "brief": "欧盟能源数据库显示，三星Galaxy Z Fold 8、Z Fold 8 Ultra和Z Flip 8的电池额定充电循环为1200次，之后容量降至80%。这远低于上一代Z Flip 7和Z Fold 7的2000次循环。原因是新机改用硅碳电池，虽容量增加但衰减更快。不过仍优于Pixel和iPhone的1000次循环。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z8-foldables-battery-charging-cycles-3691072/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-24T19:05:34+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "三星折叠主题快闪酒吧体验：无酒精啤酒味道糟糕",
+              "brief": "三星在伦敦Soho开设了一家名为Fold Inn的折叠主题快闪酒吧，以推广其新折叠手机和智能手表。酒吧内设有折叠吧台和墙上台球桌等特色装饰，并提供了三款与手机个性相关的无酒精啤酒：City Pour、Soho Sippa和Shoreditch Pint。记者品尝后认为这些啤酒味道不佳，但三星拒绝透露啤酒的酿造商。现场也提供常规的Grolsch啤酒。",
+              "source_url": "https://www.engadget.com/2222451/samsung-fold-inn-london-tour-opening-hours-foldables/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T22:00:00+08:00"
+            },
+            {
+              "title": "亚马逊Luna下周将推出全新蝙蝠侠游戏",
+              "brief": "亚马逊宣布，其云游戏平台Luna将于下周推出独占游戏《蝙蝠侠：披风斗士 – 编年史》。该游戏与Prime Video动画剧集第二季联动，强调侦探解谜而非打斗，支持最多四名玩家合作。玩家将扮演蝙蝠侠，通过一系列小游戏解码证据、追查线索，对抗小丑等经典反派。游戏配音由剧集原班人马担任。同时，Luna将集成到Prime Video应用，用户可在Fire TV设备上无缝切换观看和游戏。",
+              "source_url": "https://www.engadget.com/2222445/amazon-luna-is-getting-a-brand-new-batman-game-next-week/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T21:49:03+08:00"
+            },
+            {
+              "title": "电动车电池寿命远超专家最初预测",
+              "brief": "现实数据显示，现代电动车电池的寿命远超早期预测。根据Recurrent和Geotab等机构的研究，2022年之后生产的电动车中仅0.3%需要更换电池，而行驶五年后平均仍能保持高达95%的原始续航。早期如2011-2016年的日产Leaf因缺乏电池冷却技术，约8.5%的车辆需要更换电池，但现代电池技术进步显著。尽管消费者对更换成本仍有顾虑，但数据表明这种担忧已不再必要。",
+              "source_url": "https://www.engadget.com/2218715/ev-battery-lifespan-new-expectations/",
+              "source_name": "Engadget",
+              "published_at": "2026-07-24T21:30:00+08:00"
+            },
             {
               "title": "Alienware 15 评测：平价游戏笔记本电脑的完美时机",
               "brief": "Alienware 在成立30年后推出了首款平价游戏笔记本电脑Alienware 15。在全球内存价格上涨的背景下，这款低价机型来得正是时候。它采用黑色塑料机身，设计简约，没有RGB灯效，但做工扎实。性能可观，端口齐全，键盘带数字小键盘，但风扇噪音大、屏幕亮度和色彩一般，网络摄像头平庸。评分8.7/10。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.engadget.com/2222363/meta-launches-storefront-platform-facebook-marketplace-seller/",
               "source_name": "Engadget",
               "published_at": "2026-07-24T19:57:10+08:00"
-            },
-            {
-              "title": "Meta 推出新的 Facebook 验证徽章，面向真实人类",
-              "brief": "Meta 推出免费的新 Facebook 验证计划，通过面部识别自拍与现有头像比对，确认用户是真人。要求年满18岁且账户状态良好。验证徽章会出现在 Marketplace、Dating 等服务上，仅确认身份而非背书。此举旨在应对 AI 生成的虚假资料和诈骗。同时，Meta 还在测试全屏视频体验，用户可选择退出。",
-              "source_url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T19:43:00+08:00"
-            },
-            {
-              "title": "超过200家公司签署特朗普的“承诺”以保护消费者免受数据中心价格上涨影响",
-              "brief": "白宫宣布超过200家实体签署了特朗普总统的《费率支付者保护承诺》，承诺保护普通消费者免受数据中心建设带来的成本上升影响。签署方包括谷歌、Meta、微软、亚马逊等科技巨头及23位共和党州长。但该承诺不具法律约束力，没有违约处罚。白宫称该承诺覆盖美国80%的家庭和企业用电，保护2.63亿美国人。",
-              "source_url": "https://www.engadget.com/2222351/200-companies-sign-data-center-pledge/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T19:29:09+08:00"
-            },
-            {
-              "title": "LG 承诺在微软压力下停止 McAfee 垃圾广告",
-              "brief": "LG 同意停止在其显示器上显示 McAfee 弹窗广告，此前 Windows 11 用户发现 LG 显示器通过 Windows 自动更新静默安装“LG Monitor App Installer”，并推送 McAfee 等广告。微软 Windows 主管表示 LG 已同意禁用该弹窗。LG 辩称该安装程序不会自动安装 McAfee，但未能解释为何未经用户同意安装广告应用。问题涉及2024年及更新的显示器。",
-              "source_url": "https://www.engadget.com/2222348/lg-monitor-mcafee-spam-ads-microsoft/",
-              "source_name": "Engadget",
-              "published_at": "2026-07-24T19:21:14+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "美国科学的“科技兄弟化”正式开启",
+              "brief": "特朗普政府启动了美国科学的“黄金时代”，但实际做法是拆解现有科学体系，同时将数十亿美元资金注入人工智能领域。特朗普的科学顾问迈克尔·克拉齐奥斯没有科学背景，这一任命标志着科技界人士正主导科学政策。此举引发争议，批评者认为这是对传统科学研究的削弱，而支持者则强调AI的优先地位。",
+              "source_url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T10:43:55-04:00"
+            },
+            {
+              "title": "我一天追踪什么",
+              "brief": "本文作者分享了作为一名优化生活、自我量化的实践者，她日常追踪的各种健康数据。通过可穿戴设备和应用，她记录步数、心率、睡眠、血糖等多种指标。作者指出，这种追求极致优化的生活方式有时会失控，但她也从中获得了对自身健康的深入了解。文章反思了量化自我运动的利弊。",
+              "source_url": "https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day",
+              "source_name": "The Verge",
+              "published_at": "2026-07-24T10:00:00-04:00"
+            },
             {
               "title": "打地鼠式无人机禁令：美国试图封禁中国无人机，但FCC主席无法让它们停飞",
               "brief": "美国联邦通信委员会（FCC）主席 Brendan Carr 推动对中国无人机实施禁令，但一家名为 Odyssey Robot 的美国初创公司被指实际使用中国零部件，其注册办公室空无一人，仅有三张桌子和密封纸箱。这暴露了禁令执行的困难——企业可能通过更换标签规避限制，而监管机构难以追踪供应链。文章调查了 Odyssey Robot 等公司，发现它们宣称的美国制造可能不实。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
               "source_name": "The Verge",
               "published_at": "2026-07-24T07:00:00-04:00"
-            },
-            {
-              "title": "微软施压LG禁用烦人的McAfee广告",
-              "brief": "微软介入阻止LG显示器用户在Windows 11上收到McAfee试用弹窗广告。此前用户投诉连接LG显示器后，Windows驱动更新会在未获明确许可的情况下自动安装LG驱动和LG显示器应用安装器，并弹出McAfee及LG自家应用的全屏广告，该问题可追溯至2024年。微软Windows负责人Pavan Davuluri表示，LG已同意立即禁用其显示器应用安装器中的McAfee弹窗，并承诺微软将继续与生态伙伴合作改进。",
-              "source_url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
-              "source_name": "The Verge",
-              "published_at": "2026-07-24T05:20:09-04:00"
-            },
-            {
-              "title": "Alexa Plus 迎来AI更新，可处理更复杂的指令",
-              "brief": "亚马逊正在为其Alexa Plus助手推出更新，使其能够以新方式连接智能家居设备。该更新目前处于预览阶段，可与博世、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、Tapo、Eufy等品牌的产品联动，并自动将请求路由到正确的设备。例如，用户对支持洗衣机说“我的孩子足球球衣需要深度清洁，但标签上写着只能冷水洗”，Alexa Plus即可导航洗衣机的洗涤选项并选择正确设置。新集成由亚马逊的AI开发者工具包驱动，旨在简化设备制造商连接Alexa Plus的过程。",
-              "source_url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-              "source_name": "The Verge",
-              "published_at": "2026-07-23T17:15:06-04:00"
             }
           ]
         }
@@ -315,18 +315,18 @@
               "published_at": "https://www.ign.com/articles/marvels-wolverine-deep-cuts-sdcc-panel-live-report-comic-con-2026 | Thu, 23 Jul 2026 16:00:00 +0000"
             },
             {
-              "title": "约翰尼·德普以斯克鲁奇造型亮相粉丝，新片预告发布标志好莱坞回归",
-              "brief": "约翰尼·德普在圣地亚哥动漫展上以全套服装和化妆亮相，扮演经典角色埃比尼泽·斯克鲁奇，并发布了新片《Ebenezer》的首支预告。这是德普近十年来首次主演好莱坞大片，此前他与前妻安柏·赫德的法律纠纷曾广受关注。该片阵容还包括伊恩·麦克莱恩、黛西·雷德利等。德普在活动中与粉丝互动，并喊出角色口头禅“呸”。尽管德普的职业生涯似乎正在复苏，但他能否回归《加勒比海盗》系列仍存疑问。",
-              "source_url": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
+              "title": "《全面战争：战锤40K》拥有系列史上最大单位，属于兽人",
+              "brief": "在《全面战争：战锤40K》的直播中，制作组展示了系列史上最大的单位——兽人的“踩踏者”。战斗产品负责人David Petry表示，他们想尽可能加入最大的单位，而踩踏者是目前最大的，未来还会加入更大单位。踩踏者是一座行走的战斗堡垒，装备多门巨炮和利爪，能碾压战场上的任何目标。直播中，星界军试图用轨道打击摧毁它，但踩踏者奇迹般幸存，不过随后爆炸。游戏尚未公布发售日期。",
+              "source_url": "https://www.ign.com/articles/total-war-warhammer-40000-has-the-biggest-unit-ever-in-a-total-war-game-and-of-course-it-belongs-to-the-orks",
               "source_name": "IGN",
-              "published_at": "2026-07-24T18:25:20+08:00"
+              "published_at": "2026-07-24T21:50:50+08:00"
             },
             {
-              "title": "育碧CEO吉耶莫称PlayStation取消光盘有好处，可降低主机成本",
-              "brief": "育碧CEO伊夫·吉耶莫在投资者问答中回应索尼宣布从2028年1月起新PS5游戏停止发行光盘的决定，他表示此举有积极面，如参考PC市场无光盘有助于市场增长，并且纯数字版能降低主机成本。尽管玩家强烈反对并发起请愿，吉耶莫认为这不会对行业造成太大干扰。索尼目前似乎未受负面反馈影响。",
-              "source_url": "https://www.ign.com/articles/playstation-killing-discs-has-upsides-ubisoft-boss-yves-guillemot-says-pointing-to-cheaper-consoles-without-disc-drives",
+              "title": "《指环王：力量之戒》将引入戒灵，并创造了早期版本“纳兹纳高尔”",
+              "brief": "亚马逊的《指环王》前传第三季将于今年晚些时候回归，索伦已统治中土大片区域。此前获得戒指的九位人类领袖已被腐化，虽尚未成为第三纪元的戒灵，但已初具雏形。托尔金原著中称其为“纳兹古尔”，而剧集制作人为其早期版本采用了一个略有不同的名字“纳兹纳高尔”，意为“戒指奴仆”。",
+              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-the-rings-of-power-will-introduce-the-ringwraiths-and-has-invented-an-early-version-named-the-nazgnagl",
               "source_name": "IGN",
-              "published_at": "2026-07-24T17:45:32+08:00"
+              "published_at": "2026-07-24T19:51:39+08:00"
             }
           ]
         },
@@ -407,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "吉利银河战舰700亮相：定位AI全地形硬核SUV，830kW三电机四驱",
-              "brief": "吉利银河战舰700正式亮相，定位AI全地形硬核SUV。新车搭载三电机四驱插电式混合动力系统，综合功率830千瓦，推重比达392马力/吨，配备差速锁。车身尺寸5085/1999mm，轴距2900mm，涉水深度800毫米，支持蟹行模式、原地掉头等功能。",
-              "source_url": "https://www.ithome.com/0/981/373.htm",
+              "title": "华擎发布PGO27QSA系列27英寸QHD 240Hz QD-OLED显示器，可选白色款",
+              "brief": "华擎推出PGO27QSA系列27英寸QD-OLED显示器，分辨率为QHD，刷新率240Hz。该显示器亮度400nits，色域覆盖99% DCI-P3，色差ΔE＜2，并采用抗反射镜面处理。接口包括2个HDMI 2.1 TMDS、2个DisplayPort 1.4和1个3.5mm音频插孔，支架支持四向调节。白色款可选。",
+              "source_url": "https://www.ithome.com/0/981/390.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T20:46:26+08:00"
+              "published_at": "2026-07-24T22:48:07+08:00"
             },
             {
-              "title": "宇树发布轮足机器人As2-W：速度6m/s、IP54防水、空载续航超30km",
-              "brief": "宇树科技发布轮足机器人As2-W，在As2基础上增加四个主动轮，结合轮式速度与四足越障能力。自重约25kg，负重180kg，最大速度6m/s，IP54防水，空载续航距离超30km。搭载预训练RL模型6.0。",
-              "source_url": "https://www.ithome.com/0/981/372.htm",
+              "title": "十铨发布ACE 8K microSDXC存储卡，至高1TB容量",
+              "brief": "十铨推出ACE 8K microSDXC存储卡，最高容量1TB，符合A2和U3速度等级，可提升移动设备加载速度并支持4K UHD录制。该卡具备防水、防震、抗X射线、抗静电、耐高低温等特性，通过内部实验室测试，享受终身保固。",
+              "source_url": "https://www.ithome.com/0/981/389.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T20:41:31+08:00"
+              "published_at": "2026-07-24T22:39:59+08:00"
             },
             {
-              "title": "腾讯QQ鸿蒙版App获9.2.50邀测升级，新增账号关联、面对面添加好友等功能",
-              "brief": "腾讯QQ鸿蒙版App获9.2.50邀测升级，测试时间为2026/7/24至2026/8/20。新增支持QQ文件闪传发送、账号关联、面对面添加好友、隐藏会话、群头衔与标识等功能，并优化个人资料卡和群成员设置。",
-              "source_url": "https://www.ithome.com/0/981/371.htm",
+              "title": "广汽丰田推出行业首个电池事故起火厂家全担责政策，覆盖铂智7、3X车型",
+              "brief": "广汽丰田发布“电池事故起火厂家全担责”政策，覆盖铂智7和铂智3X车型，新老用户终身享受。即使用车超过8年，电池故障也可免费更换全部电芯。此外，铂智7将通过OTA新增哨兵模式、护航模式和三点式掉头功能。",
+              "source_url": "https://www.ithome.com/0/981/388.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T20:29:54+08:00"
+              "published_at": "2026-07-24T22:34:32+08:00"
             },
             {
-              "title": "格科微收到国际知名手机品牌订单，供应0.64微米5000万像素图像传感器",
-              "brief": "格科微宣布收到国际知名手机品牌订单，供应0.64微米5000万像素图像传感器GC50F0。该传感器采用1/2.8英寸光学规格，噪声水平较同规格降低约50%，支持4K 60fps录制和DAG HDR。截至7月24日，格科微5000万像素传感器累计出货超1.2亿颗。",
-              "source_url": "https://www.ithome.com/0/981/369.htm",
+              "title": "QNAP发布TS-262A/TS-462A两款NAS，搭载英特尔赛扬N5095",
+              "brief": "QNAP推出TS-262A和TS-462A两款NAS，搭载英特尔赛扬N5095处理器，配备双M.2 PCIe Gen 3×1盘位用于缓存加速，提供1个2.5GbE网口和多个USB接口。运行QTS 5.2系统，文件读写速率达295MB/s，支持GPU加速视频转码和4K播放，集成AI智能相册和自动备份功能。",
+              "source_url": "https://www.ithome.com/0/981/387.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T20:15:03+08:00"
+              "published_at": "2026-07-24T22:23:54+08:00"
             },
             {
-              "title": "微信鸿蒙版App获8.0.19.44正式版升级",
-              "brief": "微信鸿蒙版App获8.0.19.44正式版升级，安装次数约6782万次。本次更新包括支持视频录制时切换前后摄像头、收藏的聊天记录转存为笔记、朋友圈发送后删除可重新编辑、灰度测试实况照片发送和AI助手“小微”等功能。",
-              "source_url": "https://www.ithome.com/0/981/368.htm",
+              "title": "微星发布4L紧凑型台式机PRO MAX EDGE AI+，基于AMD锐龙AI Max+ 300",
+              "brief": "微星推出PRO MAX EDGE AI+紧凑型台式机，体积4L，搭载AMD锐龙AI Max+ 300处理器，配备LPDDR5X内存和双M.2 PCIe Gen4×4 SSD，支持Wi-Fi 7。接口丰富，正面有USB-C 40Gbps等。单机可本地运行120B模型，109B模型推理速度15 Token/s，多机USB4互连可处理670B模型。",
+              "source_url": "https://www.ithome.com/0/981/386.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-24T20:08:08+08:00"
+              "published_at": "2026-07-24T22:12:45+08:00"
             }
           ]
         },
@@ -487,6 +487,13 @@
           "name": "36氪",
           "articles": [
             {
+              "title": "热门中概股美股盘前普遍下跌，阿里巴巴跌超1%",
+              "brief": "7月24日美股盘前交易中，热门中概股普遍下跌。截至发稿，阿里巴巴、百度、微博、哔哩哔哩、名创优品等跌幅均超过1%，显示出市场对中概股的短期谨慎情绪。",
+              "source_url": "https://36kr.com/newsflashes/3909642046412167?f=rss",
+              "source_name": "36氪",
+              "published_at": "2026-07-24 20:53:33  +0800"
+            },
+            {
               "title": "美股大型科技股盘前多数上涨，微软涨超1%",
               "brief": "美股大型科技股在盘前交易中多数上涨，截至发稿，英特尔涨超2%，微软涨超1%，特斯拉、奈飞、苹果、亚马逊、谷歌等小幅上涨；而Meta和英伟达则小幅下跌。",
               "source_url": "https://36kr.com/newsflashes/3909637385049480?f=rss",
@@ -513,13 +520,6 @@
               "source_url": "https://36kr.com/newsflashes/3909624754754690?f=rss",
               "source_name": "36氪",
               "published_at": "2026-07-24 20:35:57  +0800"
-            },
-            {
-              "title": "上半年我国连锁超市行业门店来客数、销售额同比均呈增长状态",
-              "brief": "中国连锁经营协会对92家连锁超市企业、15000家门店的摸底调查显示，2026年上半年，受访企业总体销售额、线下门店销售额和线上销售额同比增长或持平的企业占比分别为58.7%、56.5%和73.9%，行业门店来客数和销售额同比均呈增长状态。",
-              "source_url": "https://36kr.com/newsflashes/3909615494370433?f=rss",
-              "source_name": "36氪",
-              "published_at": "2026-07-24 20:26:32  +0800"
             }
           ]
         },
