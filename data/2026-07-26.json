@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T20:50:28.156427+08:00",
+  "generated_at": "2026-07-26T22:49:42.791998+08:00",
   "sections": [
     {
       "category": "主要",
@@ -162,6 +162,18 @@
               "published_at": "2026-07-26T17:30:23+08:00"
             }
           ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "三星Galaxy Z Fold 8备战，但足够吗？",
+              "brief": "三星正在为Galaxy Z Fold 8的发布做准备，以应对激烈的市场竞争。这款新折叠屏手机预计将带来硬件升级和设计改进，但面对竞争对手的快速迭代，三星需要确保其创新足以吸引消费者。关键细节包括可能的更轻薄机身、更好的铰链和相机系统。",
+              "source_url": "https://9to5google.com/2026/07/26/samsung-galaxy-z-fold-8-preparing-for-battle/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-26T21:00:00+08:00"
+            }
+          ]
         }
       ]
     },
@@ -212,6 +224,20 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "社区爱好者给Scratch引入AI编程助手",
+              "brief": "社区爱好者为Scratch开发了一款AI编程助手，通过语音和文字自然语言输入，以可视化方式逐步教授编程和数学知识。该助手旨在帮助没有编程基础的家长与孩子共同学习，打破传统先学概念再创作的模式，让学生从创作中学习，降低计算、数学和逻辑思维的教学门槛。用户可在十分钟内完成从设计到创建角色、场景、算法和测试的全过程，最终完成故事、动画或小游戏。",
+              "source_url": "https://www.solidot.org/story?sid=84927",
+              "source_name": "Solidot",
+              "published_at": "2026-07-26T21:47:11+08:00"
+            },
+            {
+              "title": "GrapheneOS警告在胁迫下删除手机数据可能有法律后果",
+              "brief": "安全加固Android操作系统GrapheneOS项目介绍其锁定设备的防数据提取功能，警告使用胁迫密码删除手机数据可能导致人身伤害或法律后果。GrapheneOS不依赖“胁迫密码”，而是基于Google Pixel硬件安全特性提供多重安全措施，包括：10次失败后设备锁定4小时，15次后锁定41天；密码最长128字符，支持高熵Diceware密码短语；设备锁定时阻止新USB连接；锁定后18小时自动重启；次要用户和私密空间使用独立加密密钥。",
+              "source_url": "https://www.solidot.org/story?sid=84926",
+              "source_name": "Solidot",
+              "published_at": "2026-07-26T21:17:02+08:00"
+            },
+            {
               "title": "多家知名网站考虑彻底屏蔽Google",
               "brief": "由于Google的AI摘要功能导致网站访问量大幅下降，USA Today、Politico、Economist、People和Reuters等知名网络出版商正考虑彻底屏蔽Google，就连与Google签署了每年6000万美元合同的Reddit也在重新评估双方关系。过去一年，USA Today来自美国用户的访问量下降了近一半，Reddit也发现Google的AI在阻止用户访问其网站。尽管完全终止关系可能导致访问量进一步下滑，但继续允许Google抓取内容用于AI功能从长远看会加速其死亡。",
               "source_url": "https://www.solidot.org/story?sid=84925",
@@ -231,20 +257,6 @@
               "source_url": "https://www.solidot.org/story?sid=84923",
               "source_name": "Solidot",
               "published_at": "2026-07-26T17:26:31+08:00"
-            },
-            {
-              "title": "Debian项目讨论LLM使用规范",
-              "brief": "Debian项目正讨论如何及是否允许使用大型语言模型（LLM）。主要提议包括：明确禁止在Debian项目本身使用LLM，但不包括上游项目；或允许AI辅助贡献，但需确保代码符合规定，贡献者承担责任与披露义务。开发者担忧LLM存在版权、许可、质量及准确性问题，会增加社区审核负担，并指出AI公司训练模型无视版权，伤害了自由软件社区且消耗大量资源。",
-              "source_url": "https://www.solidot.org/story?sid=84922",
-              "source_name": "Solidot",
-              "published_at": "2026-07-25T23:53:13+08:00"
-            },
-            {
-              "title": "美国司法部起诉公民提供“胁迫密码”致手机数据自毁",
-              "brief": "美国司法部起诉一名公民在入境搜查时提供了“胁迫密码”，导致手机数据自动删除，这被视为美国首例此类案件。被告Samuel Tunick的GrapheneOS系统手机内置此功能。此案引发了公民在边境可援引宪法权利的疑问，因美国政府坚称边境处不属美国领土。数字安全专家建议，公民可在入境前自行清空数据，以避免被当局认定为故意销毁。",
-              "source_url": "https://www.solidot.org/story?sid=84921",
-              "source_name": "Solidot",
-              "published_at": "2026-07-25T21:27:28+08:00"
             }
           ]
         },
@@ -252,39 +264,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "赛睿 Rival Pro (Mini) 鼠标“证件照”亮相，确认搭载 UWB 技术",
-              "brief": "赛睿 Rival Pro Mini 鼠标官方证件照曝光，确认采用超宽带无线技术，并配备可更换式 310mAh 电池模块，无线基站兼具备用电池充电功能。鼠标长约 122mm、宽约 65mm，以 NXP LPC5528JBD64 MCU 为主控，配合 TrueMove 30K 传感器，支持 9000Hz 无线轮询率和 8000Hz 传感器报告率。",
-              "source_url": "https://www.ithome.com/0/981/795.htm",
+              "title": "古尔曼：苹果智能眼镜计划最早在明年WWDC27上亮相、同年秋季发布，隐私保护是重中之重",
+              "brief": "据古尔曼报道，苹果智能眼镜计划最早于2027年WWDC亮相，同年秋季发布。隐私保护是核心，苹果可能取消摄像头或仅用于AI，并采用类似Meta的指示灯机制。",
+              "source_url": "https://www.ithome.com/0/981/811.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-26T20:38:07+08:00"
+              "published_at": "2026-07-26T22:41:41+08:00"
             },
             {
-              "title": "Steam 动作新游《愚灵》正式发售，首发价 35.91 元",
-              "brief": "剑戟片手绘风格动作游戏《愚灵》在 Steam 正式发售，首发价 35.91 元。玩家扮演游荡灵界的武士“灵”，向神明发起挑战并收集力量。游戏曾获 2024 年 STUN 游戏节最佳奖项，支持全类型控制器、42 项成就及简体中文等 8 种语言。最低配置要求双核 2.4 GHz 处理器、2 GB 内存。",
-              "source_url": "https://www.ithome.com/0/980/341.htm",
+              "title": "BIGME大我B7 Pro彩色墨水屏电纸书新增“8+128GB”版本，2299元",
+              "brief": "BIGME大我B7 Pro电纸书新增8+128GB版本，售价2299元。该机配备7英寸80帧/秒彩色墨水屏，搭载天玑1080芯片和3000mAh电池，支持4G全网通和安卓14系统。",
+              "source_url": "https://www.ithome.com/0/981/810.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-26T20:37:30+08:00"
+              "published_at": "2026-07-26T22:25:11+08:00"
             },
             {
-              "title": "小米详解 YU7 GT 武士黑哑光车漆：纯黑色浆为基底，通过耐久、机械性能测试",
-              "brief": "小米详解 YU7 GT 武士黑哑光车漆工艺，以纯黑色浆为基底，叠加特殊黑色珠光层，通过 7 轴机器人喷涂，确保漆膜均匀。所有漆面在恒温恒湿洁净环境中喷涂，并经过附着力、抗冲击等机械性能测试及暴晒、耐酸碱等耐久测试。YU7 GT 于 5 月 21 日发布，定价 38.99 万元起。",
-              "source_url": "https://www.ithome.com/0/981/794.htm",
+              "title": "雷神“JQ27F280L”27英寸2K 280Hz显示器开售，1110元",
+              "brief": "雷神JQ27F280L显示器开售，27英寸2K分辨率280Hz刷新率，Fast IPS面板，亮度400nit，色域覆盖95% DCI-P3和99% sRGB，配备双HDMI 2.1和DP 1.4接口，售价1110元。",
+              "source_url": "https://www.ithome.com/0/981/808.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-26T20:27:08+08:00"
+              "published_at": "2026-07-26T22:15:21+08:00"
             },
             {
-              "title": "中国科学院首次合成新型二维材料镧系 MXene，兼具半导体特性和铁磁性",
-              "brief": "中国科学院团队首次合成新型二维材料镧系 MXene，兼具半导体特性和铁磁性，相关成果发表于《自然》。研究基于“化学剪刀”亚层编辑策略，通过两步反应将镧系单卤化物与石墨反应，形成全新晶体结构。该材料在低功耗逻辑器件、高频通信、磁传感器及量子计算领域具有潜力，合成策略有望推广至其他过渡金属。",
-              "source_url": "https://www.ithome.com/0/981/793.htm",
+              "title": "微软将为“XBOX向下兼容功能”引入的初代XBOX游戏添加成就系统",
+              "brief": "微软计划为XBOX向下兼容功能中的初代XBOX游戏添加成就系统。该系统最早于2005年随XBOX 360推出，但成就不会追溯记录，玩家需重新挑战。",
+              "source_url": "https://www.ithome.com/0/981/807.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-26T20:26:56+08:00"
+              "published_at": "2026-07-26T22:11:34+08:00"
             },
             {
-              "title": "HKC“25Q300A”24.5 英寸显示器发售：2K 300Hz，1367 元",
-              "brief": "HKC 推出 24.5 英寸显示器 25Q300A，采用 2K 300Hz Fast IPS 面板，SDR 亮度 350 尼特，HDR 亮度 400 尼特，GtG 响应 1ms，支持 10-Bit 色彩（8-Bit+FRC），覆盖 95% DCI-P3 色域。支架支持升降/倾斜/旋转，提供 HDMI 2.1、DP 1.4 接口，售价 1367 元。",
-              "source_url": "https://www.ithome.com/0/981/791.htm",
+              "title": "国产科幻电影《群星闪耀时》导演章笛沙：2019年看完《流浪地球》后深受鼓舞",
+              "brief": "《群星闪耀时》导演章笛沙称，2019年看完《流浪地球》后深受鼓舞。影片于7月25日上映，截至26日票房破5000万，豆瓣开分7.6，由黄渤、吴磊等主演。",
+              "source_url": "https://www.ithome.com/0/981/806.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-26T20:15:21+08:00"
+              "published_at": "2026-07-26T22:10:14+08:00"
             }
           ]
         },
@@ -332,6 +344,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "Shein通过港交所上市聆讯：2025年营收418亿美元，全球活跃客户2.73亿",
+              "brief": "快时尚电商Shein已通过港交所上市聆讯，计划于2025年实现营收418亿美元，全球活跃客户达2.73亿，业务覆盖约160个市场。其发展模式基于数字化柔性供应链，采用“自营+平台”双业务模式，结合产业带跨境电商拓展全球。上市后，Shein将借助资本市场完善全球供应链基础设施，并拓展平台生态，为后续发展提供资金支持。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570394.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-26T22:34:00+08:00"
+            },
+            {
               "title": "归档数据揭示宇宙信号搜寻的广阔潜力",
               "brief": "传统SETI搜索多集中于1.42-1.66 GHz的“水洞”频段，但新研究指出高频毫米波和亚毫米波频段几乎未被探索。研究团队利用ALMA望远镜的归档数据，在四个样本中未发现异常信号，但证实了高频无线电望远镜用于SETI的可行性。同时，通过贝桑松银河模型重新计算，发现以往调查实际覆盖的恒星数量远超预期，从约28.8万颗跃升至610万颗以上，表明现有天文档案中隐藏着巨大探索潜力。",
               "source_url": "https://www.cnbeta.com.tw/articles/science/1570392.htm",
@@ -358,13 +377,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/movie/1570386.htm",
               "source_name": "cnBeta",
               "published_at": "2026-07-26T17:23:35+08:00"
-            },
-            {
-              "title": "日本爱情旅馆惊现罕见任天堂商用红白游戏主机",
-              "brief": "日本一家爱情旅馆被发现存有多台罕见的任天堂Famicombox商用主机。该主机于1986年推出，专为酒店和度假村设计，支持付费游玩，从未向普通消费者发售，因此能正常运行的硬件极其罕见。发现者Orochi未透露旅馆位置以防收藏家破坏，并表示机器功能完好，是值得保护的日本亚文化瑰宝。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1570384.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-26T17:23:29+08:00"
             }
           ]
         },
