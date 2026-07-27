@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T02:50:51.082726+08:00",
+  "generated_at": "2026-07-28T04:50:46.249956+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果即将成为5万亿美元公司",
+              "brief": "苹果市值即将突破5万亿美元。其股价今日收于336.91美元，自6月下旬以来上涨约22.5%，当前市值约4.94万亿美元。由于苹果持续回购股份，这一数字并不精确。苹果已超越英伟达，重新成为全球市值最高的上市公司。",
+              "source_url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-28T04:10:17+08:00"
+            },
+            {
+              "title": "立即更新：iOS 26.6和macOS Tahoe 26.6修复数百个安全漏洞",
+              "brief": "苹果今日发布了iOS 26.6、iPadOS 26.6和macOS Tahoe 26.6，修复了大量安全漏洞。iOS 26.6和iPadOS 26.6解决了近90个漏洞，涉及App Store、神经网络引擎、内核、WebKit、Wi-Fi、Siri及图像处理等。macOS Tahoe 26.6修复了超过130个漏洞，部分修复也适用于macOS Sequoia 15.7.8和macOS Sonoma 14.8.8。此外，tvOS 26.6、watchOS 26.6和visionOS 26.6也有80多项安全修复。虽然苹果未表明有漏洞已被积极利用，但问题公开后，未更新的设备可能面临风险，建议用户尽快更新。",
+              "source_url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-28T02:55:46+08:00"
+            },
             {
               "title": "苹果发布 macOS Tahoe 26.6",
               "brief": "苹果于7月27日发布了macOS Tahoe 26.6，这是去年推出的macOS Tahoe操作系统的一个小更新。该版本在上个月发布的macOS Tahoe 26.5.2之后推出。用户可通过系统设置中的软件更新下载。据苹果发布说明，该更新包含Mac的安全修复，并为macOS 27优化了Spotlight。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/27/apple-releases-watchos-26-6-with-security-updates/",
               "source_name": "MacRumors",
               "published_at": "2026-07-28T01:25:25+08:00"
-            },
-            {
-              "title": "苹果发布 tvOS 26.6",
-              "brief": "苹果于7月27日发布了tvOS 26.6，这是去年秋季推出的tvOS操作系统的第六次更新，适用于Apple TV 4K。上一个版本是tvOS 26.5。用户可通过Apple TV的设置应用下载，开启自动更新的用户将自动升级。测试期间未发现新功能，因此该更新可能专注于错误修复和性能改进。",
-              "source_url": "https://www.macrumors.com/2026/07/27/apple-releases-tvos-26-6/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-28T01:24:20+08:00"
-            },
-            {
-              "title": "苹果发布 visionOS 26.6",
-              "brief": "苹果于7月27日发布了visionOS 26.6，这是去年9月推出的visionOS 26操作系统的第六次更新。上一个版本是visionOS 26.5。用户可通过Vision Pro的设置应用下载，安装时需摘下头显，外部EyeSight显示屏会显示进度条。据苹果说明，该更新包含错误修复和安全改进，并为即将推出的visionOS 27优化了Spotlight索引，建议所有Vision Pro用户安装。",
-              "source_url": "https://www.macrumors.com/2026/07/27/apple-releases-visionos-26-6/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-28T01:23:02+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Claude、Codex 等 AI 工具在今日苹果安全更新中被致谢",
+              "brief": "苹果今日发布了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6 等多个系统更新，随后更新了安全发布页面，列出了修复的漏洞及致谢的研究人员。值得注意的是，页面篇幅很长，且 Anthropic 的 Claude 与研究人员合作修复了 WebKit、WebDAV 等问题。Anthropic 的 Claude Mythos Preview 模型此前被用于在五天内构建 macOS 内核内存损坏利用。此外，多个研究团队独立报告了相同的内核漏洞，苹果共列出了 30 个 CVE。OpenAI Codex Security、Z.AI 的 GLM 和 NVIDIA AI Red Team 等 AI 工具也在致谢名单中。",
+              "source_url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T04:29:58+08:00"
+            },
+            {
+              "title": "《Ted Lasso》第四季：新角色与未回归成员一览",
+              "brief": "《Ted Lasso》第四季将聚焦新成立的女子足球队 Lady Greyhounds。新加入的常驻演员包括 Tanya Reynolds 饰演的教练 Alice Chilton，以及多位球员：Abbie Hern 饰演 Gemma、Jude Mack 饰演门将 Boots、Faye Marsay 饰演 Lizzie 等。此前三季中 AFC Richmond 男队的多位热门角色如 Jamie Tartt、Dani Rojas、Sam Obisanya 将不再作为常驻角色出现，但可能有惊喜客串。Nick Mohammed 饰演的 Nate 预计以非固定角色回归。",
+              "source_url": "https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T03:19:42+08:00"
+            },
+            {
+              "title": "MagSafe 周一：ESR FlickLock 解决了 AirPods Pro 3 的最大痛点",
+              "brief": "ESR 为 AirPods Pro 3 推出了 FlickLock 磁吸保护壳，其锁定盖设计确保壳体掉落时不会弹开，内部磁铁增强了 MagSafe 连接强度。壳体采用聚合物和 Air Guard 边角保护，轻便耐用，并提供多种颜色及挂绳。作者认为滑动解锁盖是最佳功能，解决了以往保护壳容易意外打开的问题，同时不影响无线充电。",
+              "source_url": "https://9to5mac.com/2026/07/27/esr-flicklock/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T02:57:00+08:00"
+            },
+            {
+              "title": "X Money 在美国正式上线，支持 Apple Wallet",
+              "brief": "X Money 面向美国 Premium 和 Premium+ 订阅用户推出，集成了存款账户、点对点支付和 Visa 借记卡。用户可在 X 平台内即时发送、接收或请求资金，无手续费和限额。Premium+ 用户可享最高 6% 年利率，符合条件的消费可获 3% 返现。虚拟 X Card 自动发放并支持添加至 Apple Wallet，用户也可订购实体金属卡。存款账户由 Cross River Bank 持有，FDIC 承保。新用户可获 15 美元欢迎金。",
+              "source_url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T02:51:47+08:00"
+            },
+            {
               "title": "苹果在最新更新中预告《人生切割术》第三季",
               "brief": "《人生切割术》第三季已正式开拍，预计2027年底首播。距离第二季首播已过去约18个月，第三季进展虽不如预期快，但刚达成重要里程碑。据Ben Stiller在X上发布的更新，并由Apple TV账号转发，第三季已开始拍摄。Stiller分享的低分辨率制作照片显示Mark S.和Helly R.在Lumon走廊奔跑，呼应第二季结尾。第二季以Mark决定留在Helly身边、反抗其外部人格与Gemma重聚的计划结束。第一季与第二季间隔三年，原因包括重写、重拍和好莱坞罢工。若第三季制作需6-9个月，后期制作再加半年，有望在2027年秋季回归，接近三年间隔。",
               "source_url": "https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-28T02:23:45+08:00"
-            },
-            {
-              "title": "iOS 26.6修复超过75个安全漏洞，请立即更新",
-              "brief": "Apple在iOS 26.6和iPadOS 26.6中修复了超过75个安全问题，涵盖系统多个部分。安全公告包含78个独立漏洞条目，对应87个CVE编号。未发现这些漏洞已被主动利用。突出修复包括：MediaRemote漏洞可让应用获取root权限；AVEVideoEncoder漏洞可让应用以内核权限执行任意代码；Game Center和libc漏洞可让恶意应用逃逸沙盒；CloudAttestation漏洞可绕过代码签名执行；ImageIO漏洞在处理恶意图片时可导致任意代码执行；三个SceneKit漏洞在处理恶意文件时可导致任意代码执行；Accessibility问题可通过iPhone镜像暴露敏感数据；Contacts漏洞可让应用未经许可添加联系人。此外还修复了十余个内核漏洞、WebKit漏洞和一个Wi-Fi漏洞。",
-              "source_url": "https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T02:12:48+08:00"
-            },
-            {
-              "title": "macOS 26.6现已发布，以下是新内容",
-              "brief": "macOS 26.6现已发布，修复了超过150个安全漏洞以及错误和性能问题。修复包括错误显示某些Intel专属应用弃用通知的问题，以及影响HealthKit和Messages中HDR截图的bug。对于计划今年晚些时候升级到macOS 27的用户，macOS 26.6可能启动索引过程，为新Siri AI、Siri应用和其他功能提供支持。Apple此前仅确认iOS 26.6和iPadOS 26.6有此过程，但Mac上似乎也类似。由于索引可能需要数天，现在启动可减少升级后的等待时间。macOS 26.6的发布版本为25G72，与上周的RC版本25G70不同。",
-              "source_url": "https://9to5mac.com/2026/07/27/macos-26-6-now-available-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T01:51:11+08:00"
-            },
-            {
-              "title": "macOS Sonoma 14.8.8和macOS Sequoia 15.7.8现已发布",
-              "brief": "Apple在发布了七个候选版本后，正式推出macOS Sonoma 14.8.8和macOS Sequoia 15.7.8。发布版本与上周候选版本相同：Sonoma 14.8.8（23J620）和Sequoia 15.7.8（24G824）。Apple发布说明仅提及这些更新提供“重要安全修复”，并推荐所有仍在运行Sonoma和Sequoia的用户安装。近期Apple为旧系统版本推出了多项安全修复，其中许多修复了危及用户数据的WebKit漏洞。因此，若仍在使用这些系统，应尽快安装更新。Apple随后发布了完整安全内容，详述了超过138个漏洞。",
-              "source_url": "https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T01:49:08+08:00"
-            },
-            {
-              "title": "watchOS 26.6现已为Apple Watch发布，以下是新内容",
-              "brief": "Apple Watch迎来watchOS 26.6更新，为今年秋季的watchOS 27大版本做准备。watchOS 27将新增Siri AI、三项健康升级、两个新应用、新默认主屏幕、点按手势等功能。watchOS 26.6专注于提供当前版本最稳定和安全的体验。Apple官方发布说明称：“此更新为Apple Watch提供错误修复和安全更新。”安全修复列表可在Apple官网查看。临近大版本发布的更新通常功能较少，Apple优先确保软件稳定性。之前的watchOS 26.5添加了高度可定制的Pride Luminance表盘。",
-              "source_url": "https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T01:29:56+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Galaxy Z Fold 8“开心果”配色已开始售罄",
+              "brief": "三星Galaxy Z Fold 8的“开心果”配色版本已出现售罄迹象。该配色此前未在Fold系列中推出，此次上市后迅速受到市场追捧，供应量可能不足。用户需尽快下单才能确保购买。",
+              "source_url": "https://9to5google.com/2026/07/27/galaxy-z-fold-8-in-pistachio-already-appears-to-be-selling-out/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T03:45:00+08:00"
+            },
+            {
+              "title": "Galaxy S27 Ultra有望升级近6000毫安时电池",
+              "brief": "据传闻，三星Galaxy S27 Ultra将进行电池升级，容量可能接近6000毫安时。这将是该系列久违的显著提升，旨在满足用户对更长续航的需求。目前尚无官方确认，但消息称新电池将支持更快充电。",
+              "source_url": "https://9to5google.com/2026/07/27/samsung-galaxy-s27-ultra-battery-upgrade-rumor/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T03:30:00+08:00"
+            },
             {
               "title": "周一安卓应用优惠：Friend of a Slime、Forest Golf Planner、AVARIS3 等",
               "brief": "本周一，安卓平台推出多项应用优惠，包括 Friend of a Slime、Forest Golf Planner 和 AVARIS3 等应用。此外，Galaxy Z Fold 8/Ultra 也开启预购优惠，可享 100 美元折扣、200 美元信用额度、免费 Galaxy Buds 以及 Galaxy Watch Ultra 2 立减 300 美元。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/27/youtube-premium-subscribers-are-getting-peacock-for-free-in-the-coming-months/",
               "source_name": "9to5Google",
               "published_at": "2026-07-28T00:01:05+08:00"
-            },
-            {
-              "title": "促销：Fold 8/Galaxy Watch、Galaxy A57低至425美元、NXTPAPER 11平板160美元、百思买返校季等",
-              "brief": "当前多款科技产品促销：三星Fold 8和Galaxy Watch组合优惠，Galaxy A57手机降至425美元，NXTPAPER 11平板仅160美元，百思买推出返校季活动。这些折扣覆盖手机、平板、可穿戴设备，适合不同预算的消费者。",
-              "source_url": "https://9to5google.com/2026/07/27/deals-fold-8-galaxy-watch-galaxy-a57-nxtpaper-11/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-27T23:54:07+08:00"
-            },
-            {
-              "title": "翻新Pixel 7捆绑免费Pixel Watch 2，打造超值实惠套装",
-              "brief": "谷歌推出翻新Pixel 7手机捆绑免费Pixel Watch 2的优惠活动，为用户提供高性价比的入门选择。该套装旨在吸引预算有限但希望体验谷歌生态的用户。翻新设备经过认证，质量有保障，搭配智能手表进一步提升了整体价值。",
-              "source_url": "https://9to5google.com/2026/07/27/google-giving-away-pixel-watch-2/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-27T23:49:44+08:00"
             }
           ]
         },
@@ -129,24 +129,52 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "第五巡回法院阻止德州网站过滤“有害”言论法案",
+              "brief": "美国第五巡回上诉法院裁定，德克萨斯州一项要求网站过滤未成年人“有害”言论的法律无效，禁止其强制执行。此前，科技行业游说团体挑战了这项法律，该法案旨在强制社交媒体等“数字服务提供商”监控并过滤可能对未成年人造成潜在危害的特定内容。法官以2比1的裁决支持科技团体，指出该监控和过滤要求与联邦《通信规范法》第230条相抵触。第230条禁止将互动计算机服务视为由第三方提供信息的出版商或发言人，从而阻止了德州总检察长推翻地区法院初步禁令的努力。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-28T03:18:02+08:00"
+            },
+            {
+              "title": "威瑞森宣布与谷歌达成10亿美元暗光纤交易，旨在开拓AI市场",
+              "brief": "威瑞森（Verizon）宣布与谷歌达成一项价值超过10亿美元的协议，将利用其暗光纤线路连接谷歌的数据中心。此举是威瑞森“AI Connect”新业务计划的关键部分，旨在大规模利用硅谷在人工智能领域的巨大投资，并预计这将是未来多年内带来数十亿美元收入的系列交易之一。除了为超大规模运营商的AI数据中心重新利用暗光纤外，威瑞森还在初期阶段改造其部分中心机房，将其转换为小型数据中心，以支持对超低延迟有严格要求的AI推理工作负载，如机器人和自动驾驶等应用。",
+              "source_url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-28T02:48:41+08:00"
+            },
+            {
+              "title": "专家警告星舰现有隔热罩技术对快速复用是“死胡同”",
+              "brief": "尽管SpaceX的星舰飞船在第13次试飞中取得了显著进展，但专家警告称，其当前由约18,000块陶瓷瓦片组成的隔热罩技术，对于实现快速且低成本的完全复用目标而言，可能是一个“死胡同”。前NASA工程师Dan Rasky指出，星舰目前的隔热系统无法满足需要完全和快速复用的所有任务需求，并强调NASA几十年来在热防护研究方面缺乏大量投资。这个问题与NASA半个世纪前开发航天飞机时面临的挑战相似，当时航天飞机也使用了数千块轻质陶瓷瓦片来保护结构。",
+              "source_url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-28T02:34:40+08:00"
+            },
+            {
+              "title": "ChatGPT开始阻止直接模仿作者写作风格的请求",
+              "brief": "OpenAI的ChatGPT现在开始拒绝用户直接模仿知名作者写作风格的请求。当被要求复制特定作者的文风时，ChatGPT会回应称它能借鉴这些作者的“广泛特质”，但会“保持其自身独特的声音”，例如，它能写出具有斯蒂芬·金风格中的“氛围感和角色驱动的恐怖”，但不会模仿其“确切风格”。这种行为上的细微改变可能具有重要的法律意义，因为OpenAI正面临多起图书作者提起的诉讼，指控其AI模型在训练过程中涉及大规模版权侵权。",
+              "source_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-07-28T00:58:46+08:00"
+            },
+            {
               "title": "活动人士因在边境检查时输入“胁迫码”清空手机而被控重罪",
               "brief": "亚特兰大居民Samuel Tunick在入境美国时，海关人员要求检查其运行GrapheneOS的Pixel手机。他利用该系统的“胁迫码”功能远程清空了设备数据。政府指控他销毁证据，属于重罪。Tunick的律师称，他因参与反对“Cop City”警察训练设施建设的活动而被列入观察名单，海关曾邮件讨论以“涉嫌恐怖活动”为由扣留他。审讯中，海关声称搜查是为了查找儿童性虐待材料。",
               "source_url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
               "source_name": "Ars Technica",
               "published_at": "2026-07-27T23:58:34+08:00"
-            },
-            {
-              "title": "Framework Laptop 13 Pro评测：电池续航大幅提升，但价格更贵",
-              "brief": "Framework推出Laptop 13 Pro，这是其模块化笔记本的首次重大改版。新设计改进了电池续航和整体做工，但不再兼容旧款底壳、键盘、触控板和电池。评测机型电池续航显著优于前代，但起售价1500美元，高配近3000美元。现有用户可通过更换部件升级部分功能，但整体成本较高。",
-              "source_url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-07-27T23:02:45+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "抢先看：三星Galaxy Z Fold 8应用单独缩放控制",
+              "brief": "上周我们在Z Fold 8 Ultra固件代码中发现三星正为最新折叠屏开发应用单独缩放功能，但当时该功能并未在手机上出现。现在有消息人士透露，该设置已作为实验室选项出现在新款宽屏Z Fold 8上。用户可在设置-高级功能-实验室中找到此功能，为每个应用设置五个缩放级别之一。目前三星自家应用似乎未被支持，该功能未来是否会从实验室走向正式版仍有待观察。",
+              "source_url": "https://www.androidauthority.com/fold-8-app-zoom-3691573/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T03:33:32+08:00"
+            },
             {
               "title": "Peacock即将成为YouTube Premium的最新订阅福利",
               "brief": "YouTube Premium订阅将很快包含Peacock Premium的流媒体内容访问权限。此举旨在为涨价后的订阅服务增加价值，此前个人计划已从13.99美元涨至15.99美元。从2027年初开始，用户可在YouTube体验中直接观看带广告的Peacock节目和电影，无需额外应用或账户。此外，部分体育赛事将在NBC Sports YouTube频道播出，用户还可付费升级至无广告版本。",
@@ -174,19 +202,26 @@
               "source_url": "https://www.androidauthority.com/meta-smart-glasses-rate-limit-pause-3691478/",
               "source_name": "Android Authority",
               "published_at": "2026-07-28T00:48:19+08:00"
-            },
-            {
-              "title": "三星Galaxy S27系列电池容量有望大幅提升",
-              "brief": "据Galaxy Club报道，三星Galaxy S27 Pro和S27 Ultra将配备更大容量电池，典型容量分别达5200mAh和5700mAh。这一提升可能得益于硅碳电池技术的应用，该技术已在Galaxy Z Fold 8系列中首次采用，可在更薄机身中容纳更高能量密度。标准版S27及Plus版信息尚未披露。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-battery-3691528/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T00:47:28+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Xbox大规模宕机，甚至影响光盘游戏",
+              "brief": "自周日晚间开始的Xbox宕机不仅导致数字游戏无法游玩，还阻碍了用户运行光盘游戏。微软状态页面最初于美国东部时间周日晚11点左右报告故障，用户无法登录、启动应用或访问商店。社交媒体证实，光盘游戏也受影响。同事尝试启动Game Pass游戏时遇到错误代码0x87e107df，显示许可证无法验证。目前状态页面表示数字和向下兼容游戏可能仍有问题，但光盘游戏应已恢复。",
+              "source_url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+              "source_name": "The Verge",
+              "published_at": "2026-07-27T15:53:50-04:00"
+            },
+            {
+              "title": "Nanoleaf彩色洞洞板及搁架套件半价促销",
+              "brief": "Nanoleaf Blocks Combo XL Smarter Kit是一款集彩色智能照明面板、低剖面搁架和洞洞板于一体的墙面套件，可悬挂耳机、笔记本等物品，并显示自定义色彩。目前该套件在Nanoleaf官网售价99.99美元，为历史最低价。套件包含九个LED面板，搁架承重6.6磅，洞洞板承重3.3磅，适合收纳耳机、控制器、平板等。",
+              "source_url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-07-27T15:24:55-04:00"
+            },
             {
               "title": "中国为何免费开放其最优秀的人工智能模型",
               "brief": "中国人工智能实验室如Moonshot通过免费发布模型权重，迫使OpenAI、谷歌和Anthropic重新考虑其封闭策略。Moonshot的Kimi K3模型以极低成本击败部分美国顶级系统，其开源计划直接瞄准美国用户，引发硅谷对封闭模型能否继续主导市场的担忧。开源模型赋予开发者更大控制权，可本地运行和定制，挑战了传统商业模式。",
@@ -207,20 +242,6 @@
               "source_url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
               "source_name": "The Verge",
               "published_at": "2026-07-27T11:40:38-04:00"
-            },
-            {
-              "title": "Framework Laptop 13 Pro因内存价格上涨800美元",
-              "brief": "Framework Laptop 13 Pro是一款出色的模块化笔记本电脑，拥有明亮清晰的触摸屏、出色的触控板，并改进了前代产品的许多缺点。然而，由于全球内存短缺（RAMageddon），其价格已上涨800美元。尽管价格更高，但这款13 Pro仍凭借可更换端口、易于维修和丰富的可升级部件，成为一款独特的产品。",
-              "source_url": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T11:00:00-04:00"
-            },
-            {
-              "title": "关税并未让制造业岗位回流美国",
-              "brief": "在Decoder播客中，Altana CEO Evan Smith讨论了全球贸易的新常态。自2025年初以来，关税政策使贸易格局更加混乱。Altana利用AI分析供应链数据，发现关税并未如预期般将制造业岗位带回美国。Smith指出，企业更多转向供应链多元化和自动化，而非回流。AI的发展也改变了Altana的软件能力，但同时也带来新的挑战。",
-              "source_url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T11:00:00-04:00"
             }
           ]
         }
@@ -232,6 +253,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《龙之家族》：雷妮拉在铁王座上割伤手指，预示不祥",
+              "brief": "在《龙之家族》最新一集中，雷妮拉·坦格利安在听取臣民请愿时被铁王座割伤手指，导演洛尼·佩里斯特雷称这是“引发诸多坏事的事件”。这一情节呼应了她的父亲韦赛里斯一世国王曾因铁王座受伤并最终导致感染和腐烂的遭遇。雷妮拉的扮演者艾玛·达西表示，这一时刻具有重要的预示意义，但雷妮拉可能并未完全意识到其严重性。",
+              "source_url": "https://www.ign.com/articles/house-of-the-dragon-rhaenyra-cut-finger-iron-throne",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T03:59:17+08:00"
+            },
+            {
+              "title": "YouTube Premium将免费捆绑孔雀频道订阅",
+              "brief": "YouTube Premium美国订阅用户将于明年初免费获得孔雀频道（带广告版）的访问权限，可观看《小黄人》《泰德》等影视内容及NFL、NBA赛事。该合作旨在扩大孔雀频道的用户基础。尽管目前无额外费用，但外界担忧未来可能导致YouTube Premium涨价。目前订阅价格仍为15.99美元，孔雀频道独立订阅费为10.99美元，具体上线时间定于2027年初。",
+              "source_url": "https://www.ign.com/articles/youtube-premium-is-adding-a-peacock-subscription-at-no-extra-cost",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T03:06:47+08:00"
+            },
+            {
+              "title": "日本版《GTA 6》实体版下载码将在发售170天后失效",
+              "brief": "《GTA 6》实体版仅包含数字下载码，日本地区因《支付服务法》规定，该下载码需在发售（2026年11月19日）后170天内兑换，否则失效。该法律要求数字码卖家需为无限期保管缴纳巨额保证金，而有效期短于6个月则可豁免。此举旨在保护消费者，但引发了玩家对实体版实际价值的讨论。",
+              "source_url": "https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T02:40:04+08:00"
+            },
             {
               "title": "《尚气》主演刘思慕表示愿为续集“爬过一英里碎玻璃”",
               "brief": "刘思慕在《Variety》采访中表达了对《尚气2》的渴望。尽管漫威在SDCC上未宣布续集消息，但他感谢粉丝五年来持续呼吁。他透露对续集进展一无所知，但强调粉丝的支持是推动续集讨论的原因。刘思慕饰演的尚气自2021年电影后鲜少出现，但他已确认将出演今年12月的《复仇者联盟：末日》。",
@@ -245,27 +287,6 @@
               "source_url": "https://www.ign.com/articles/william-gibson-speaks-out-after-neuromancer-trailer-sparks-doubts-among-fans",
               "source_name": "IGN",
               "published_at": "2026-07-28T01:33:48+08:00"
-            },
-            {
-              "title": "《蜘蛛侠：崭新的一天》在印度被删减8秒吻戏，可能涉及剧透",
-              "brief": "据Bollywood Hungama报道，《蜘蛛侠：崭新的一天》在印度删除了一个8秒的吻戏和部分脏话。这引发猜测：被删吻戏可能是汤姆·霍兰德饰演的彼得·帕克与赞达亚饰演的MJ复合，也可能是MJ与新男友（由Eman Esfandi饰演）的吻，导致彼得目睹。目前影片剧情细节仍有限。",
-              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-scene-censored-in-india-and-it-could-be-a-spoiler",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T01:23:46+08:00"
-            },
-            {
-              "title": "克里斯·埃文斯收到“至少十几个”回归MCU的提案，但《末日》中他会是Nomad吗？",
-              "brief": "克里斯·埃文斯透露，漫威影业早在2018年就向他提议让史蒂夫·罗杰斯以“Nomad”身份回归，但他当时因珍惜角色结局而拒绝。如今他确认出演《复仇者联盟：末日》，与安东尼·麦凯再度同框。埃文斯表示漫威一直持续提案，最终决定回归。Nomad是漫画中史蒂夫·罗杰斯使用过的别名。",
-              "source_url": "https://www.ign.com/articles/chris-evans-received-at-least-a-dozen-pitches-to-return-to-the-mcu-but-will-he-be-nomad-in-avengers-doomsday",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T01:09:35+08:00"
-            },
-            {
-              "title": "《最终幻想14》将成为Switch 2上安装容量最大的游戏，占据主机近一半内存",
-              "brief": "eShop列表显示，《最终幻想14》在Switch 2上的安装容量为117.2GB，接近主机256GB内存的一半。该容量包含全部五个已发布资料片，但第六个资料片“Evercold”将于明年1月推出，届时需更多空间。游戏将于8月4日登陆Switch 2，首月免费游玩，之后需订阅。",
-              "source_url": "https://www.ign.com/articles/final-fantasy-14-will-be-the-biggest-game-on-nintendo-switch-2-by-install-size-and-take-up-almost-half-of-the-consoles-entire-memory",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T01:01:01+08:00"
             }
           ]
         },
@@ -351,6 +372,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "Amkor 2026财年第二财季归母净利润1.74亿美元，同比增长219.30%",
+              "brief": "Amkor科技公布2026财年第二财季财报，营收18.98亿美元创历史新高，同比增长25.58%；归母净利润1.74亿美元，同比增长219.30%。业绩大幅超出市场预期，主要得益于计算及汽车与工业两大终端市场收入创纪录，以及毛利率提升至16.8%。公司给出第三财季指引，净销售额预计19.5亿至20.5亿美元，毛利率18.5%至19.5%。截至6月30日，现金及短期投资合计25亿美元，总债务25亿美元，资产负债率51.76%。",
+              "source_url": "https://www.ithome.com/0/982/270.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-28T04:12:50+08:00"
+            },
+            {
               "title": "苹果 watchOS 26.6 正式版发布",
               "brief": "苹果于2026年7月28日发布了watchOS 26.6正式版，这是watchOS 26系列的又一次更新。该版本在经历多个Beta测试后，最终向用户推送，可能包含性能改进和错误修复。具体更新内容待后续报道。",
               "source_url": "https://www.ithome.com/0/982/269.htm",
@@ -377,13 +405,6 @@
               "source_url": "https://www.ithome.com/0/982/266.htm",
               "source_name": "IT之家",
               "published_at": "2026-07-28T02:34:05+08:00"
-            },
-            {
-              "title": "英伟达 CUDA 的 20 年护城河一个周末崩了，Claude 独自跑通 AMD 新 GPU",
-              "brief": "Anthropic利用其AI模型Claude，在周末让一名工程师成功在AMD MI355X GPU上运行了工作负载，性能持续提升。这得益于AMD发布的ROCm.AI工具集，使AI能直接读取芯片指令集并自动优化性能。此举被视为对英伟达CUDA生态的挑战，因为AI Agent可快速学习和优化AMD GPU，大幅缩短追赶CUDA生态所需的时间。Anthropic计划在AMD Helios系统中部署最高2GW的Instinct GPU。",
-              "source_url": "https://www.ithome.com/0/982/264.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-27T23:58:14+08:00"
             }
           ]
         }
