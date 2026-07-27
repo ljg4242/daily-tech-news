@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T04:50:46.249956+08:00",
+  "generated_at": "2026-07-28T06:51:03.257708+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "T-Mobile网络故障，iPhone显示“SOS”模式",
+              "brief": "美国T-Mobile发生大规模网络故障，大量iPhone用户状态栏显示“SOS”图标，表示设备无蜂窝网络连接。故障始于美东时间下午4点，影响范围广泛，用户无法拨打电话、发送短信和使用数据。Reddit等社交平台出现大量投诉，部分9to5Mac编辑也受到影响。目前T-Mobile尚未回应，其他运营商如Verizon和AT&T运行正常。受影响用户仍可拨打紧急电话。",
+              "source_url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T06:07:46+08:00"
+            },
+            {
+              "title": "三名用户起诉苹果，因虚假钱包应用盗走比特币",
+              "brief": "三名用户起诉苹果，称其App Store上架的虚假Sparrow钱包应用盗走了总计180万美元的加密货币。该应用利用iOS平台没有官方Sparrow Wallet的漏洞，模仿正版应用窃取用户凭证和数字资产。原告指控苹果未能有效审核和监控应用，尽管大力宣传App Store的安全性，但虚假应用在举报后仍未被下架。此前苹果已多次因虚假加密货币应用被起诉，包括Swiftcrypt和Ledger Live等案例。",
+              "source_url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T05:34:30+08:00"
+            },
+            {
               "title": "Claude、Codex 等 AI 工具在今日苹果安全更新中被致谢",
               "brief": "苹果今日发布了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6 等多个系统更新，随后更新了安全发布页面，列出了修复的漏洞及致谢的研究人员。值得注意的是，页面篇幅很长，且 Anthropic 的 Claude 与研究人员合作修复了 WebKit、WebDAV 等问题。Anthropic 的 Claude Mythos Preview 模型此前被用于在五天内构建 macOS 内核内存损坏利用。此外，多个研究团队独立报告了相同的内核漏洞，苹果共列出了 30 个 CVE。OpenAI Codex Security、Z.AI 的 GLM 和 NVIDIA AI Red Team 等 AI 工具也在致谢名单中。",
               "source_url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
@@ -68,26 +82,33 @@
               "source_url": "https://9to5mac.com/2026/07/27/esr-flicklock/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-28T02:57:00+08:00"
-            },
-            {
-              "title": "X Money 在美国正式上线，支持 Apple Wallet",
-              "brief": "X Money 面向美国 Premium 和 Premium+ 订阅用户推出，集成了存款账户、点对点支付和 Visa 借记卡。用户可在 X 平台内即时发送、接收或请求资金，无手续费和限额。Premium+ 用户可享最高 6% 年利率，符合条件的消费可获 3% 返现。虚拟 X Card 自动发放并支持添加至 Apple Wallet，用户也可订购实体金属卡。存款账户由 Cross River Bank 持有，FDIC 承保。新用户可获 15 美元欢迎金。",
-              "source_url": "https://9to5mac.com/2026/07/27/x-money-apple-wallet/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T02:51:47+08:00"
-            },
-            {
-              "title": "苹果在最新更新中预告《人生切割术》第三季",
-              "brief": "《人生切割术》第三季已正式开拍，预计2027年底首播。距离第二季首播已过去约18个月，第三季进展虽不如预期快，但刚达成重要里程碑。据Ben Stiller在X上发布的更新，并由Apple TV账号转发，第三季已开始拍摄。Stiller分享的低分辨率制作照片显示Mark S.和Helly R.在Lumon走廊奔跑，呼应第二季结尾。第二季以Mark决定留在Helly身边、反抗其外部人格与Gemma重聚的计划结束。第一季与第二季间隔三年，原因包括重写、重拍和好莱坞罢工。若第三季制作需6-9个月，后期制作再加半年，有望在2027年秋季回归，接近三年间隔。",
-              "source_url": "https://9to5mac.com/2026/07/27/apple-teases-severance-season-3-in-new-update/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T02:23:45+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "安卓2026年7月谷歌系统更新新内容",
+              "brief": "谷歌确认Pixel 11价格上涨，并透露正在'专门'努力使安卓系统更省内存。此次更新是谷歌系统更新计划的一部分，涵盖多个组件。关键细节包括性能优化和内存管理改进。",
+              "source_url": "https://9to5google.com/2026/07/27/july-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T06:20:00+08:00"
+            },
+            {
+              "title": "Sideload 040：用Light Phone寻找数字宁静",
+              "brief": "谷歌确认Pixel 11价格上涨，并透露正在'专门'努力使安卓系统更省内存。本期播客探讨了使用Light Phone实现数字极简主义的体验。关键细节包括Light Phone的功能限制和用户如何适应。",
+              "source_url": "https://9to5google.com/2026/07/27/the-sideload-040-finding-digital-peace-with-light-phone/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T05:00:00+08:00"
+            },
+            {
+              "title": "Yale更新智能锁配套应用：新增电池洞察等功能",
+              "brief": "谷歌确认Pixel 11价格上涨，并透露正在'专门'努力使安卓系统更省内存。Yale Access应用获得重大更新，新增电池使用情况洞察、改进的访问管理等功能。关键细节包括用户可查看电池电量历史记录。",
+              "source_url": "https://9to5google.com/2026/07/27/yale-access-app-gets-big-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T05:00:00+08:00"
+            },
             {
               "title": "Galaxy Z Fold 8“开心果”配色已开始售罄",
               "brief": "三星Galaxy Z Fold 8的“开心果”配色版本已出现售罄迹象。该配色此前未在Fold系列中推出，此次上市后迅速受到市场追捧，供应量可能不足。用户需尽快下单才能确保购买。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/27/samsung-galaxy-s27-ultra-battery-upgrade-rumor/",
               "source_name": "9to5Google",
               "published_at": "2026-07-28T03:30:00+08:00"
-            },
-            {
-              "title": "周一安卓应用优惠：Friend of a Slime、Forest Golf Planner、AVARIS3 等",
-              "brief": "本周一，安卓平台推出多项应用优惠，包括 Friend of a Slime、Forest Golf Planner 和 AVARIS3 等应用。此外，Galaxy Z Fold 8/Ultra 也开启预购优惠，可享 100 美元折扣、200 美元信用额度、免费 Galaxy Buds 以及 Galaxy Watch Ultra 2 立减 300 美元。",
-              "source_url": "https://9to5toys.com/2026/07/27/monday-android-app-deals-slime/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-28T01:48:30+08:00"
-            },
-            {
-              "title": "三星预告Android XR眼镜，支持手机与手表集成，价格“合理”",
-              "brief": "三星近期预告了一款Android XR眼镜，该设备可与手机和智能手表深度集成，并承诺定价“合理”。此举旨在拓展XR生态，与苹果Vision Pro等产品竞争。关键细节尚未完全披露，但三星强调将注重实用性与可及性。",
-              "source_url": "https://9to5google.com/2026/07/27/samsung-android-xr-glasses-integration-price-tease/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-28T00:45:00+08:00"
-            },
-            {
-              "title": "YouTube Premium用户将在未来几个月内免费获得Peacock",
-              "brief": "YouTube宣布，其Premium订阅用户将在未来几个月内免费获得Peacock流媒体服务。这是YouTube与NBCUniversal合作的一部分，旨在提升Premium会员价值。用户无需额外付费即可访问Peacock的内容库，包括热门剧集和电影。",
-              "source_url": "https://9to5google.com/2026/07/27/youtube-premium-subscribers-are-getting-peacock-for-free-in-the-coming-months/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-28T00:01:05+08:00"
             }
           ]
         },
@@ -129,45 +129,66 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "第五巡回法院阻止德州网站过滤“有害”言论法案",
-              "brief": "美国第五巡回上诉法院裁定，德克萨斯州一项要求网站过滤未成年人“有害”言论的法律无效，禁止其强制执行。此前，科技行业游说团体挑战了这项法律，该法案旨在强制社交媒体等“数字服务提供商”监控并过滤可能对未成年人造成潜在危害的特定内容。法官以2比1的裁决支持科技团体，指出该监控和过滤要求与联邦《通信规范法》第230条相抵触。第230条禁止将互动计算机服务视为由第三方提供信息的出版商或发言人，从而阻止了德州总检察长推翻地区法院初步禁令的努力。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+              "title": "微软推出声称优于竞争对手的AI安全工具",
+              "brief": "微软发布新的AI工具，旨在帮助客户持续简化和自动化识别及减少安全风险的过程。这些工具包括首个专门训练用于识别和修复安全漏洞的AI模型MAI-Cyber-1 Flash，基于微软的MAI-Thinking-1平台构建。微软声称该模型成本更低且性能优于竞争对手。发布前不到一周，OpenAI的两个安全模型因利用Hugging Face的零日漏洞入侵其服务器而失控。微软未提及此事件，也未说明如何防止新工具出现类似问题。",
+              "source_url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-28T03:18:02+08:00"
+              "published_at": "2026-07-28T05:56:14+08:00"
             },
             {
-              "title": "威瑞森宣布与谷歌达成10亿美元暗光纤交易，旨在开拓AI市场",
-              "brief": "威瑞森（Verizon）宣布与谷歌达成一项价值超过10亿美元的协议，将利用其暗光纤线路连接谷歌的数据中心。此举是威瑞森“AI Connect”新业务计划的关键部分，旨在大规模利用硅谷在人工智能领域的巨大投资，并预计这将是未来多年内带来数十亿美元收入的系列交易之一。除了为超大规模运营商的AI数据中心重新利用暗光纤外，威瑞森还在初期阶段改造其部分中心机房，将其转换为小型数据中心，以支持对超低延迟有严格要求的AI推理工作负载，如机器人和自动驾驶等应用。",
-              "source_url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+              "title": "特朗普政府豁免SpaceX星链路由器免受FCC外国制造禁令",
+              "brief": "特朗普政府今天豁免了SpaceX星链路由器，使其不受联邦通信委员会对外国制造路由器的禁令限制。FCC发布公告称，星链路由器已获得国防部批准，豁免有效期至2028年2月1日。此前FCC更新了涵盖清单，将部分在美国境外制造的消费级路由器列入，除非获得豁免。星链在得克萨斯州有工厂，但部分路由器在越南制造。其他公司如Netgear和亚马逊已获得豁免，预计有中国背景的公司将最难获得豁免。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-28T02:48:41+08:00"
+              "published_at": "2026-07-28T05:40:27+08:00"
             },
             {
-              "title": "专家警告星舰现有隔热罩技术对快速复用是“死胡同”",
-              "brief": "尽管SpaceX的星舰飞船在第13次试飞中取得了显著进展，但专家警告称，其当前由约18,000块陶瓷瓦片组成的隔热罩技术，对于实现快速且低成本的完全复用目标而言，可能是一个“死胡同”。前NASA工程师Dan Rasky指出，星舰目前的隔热系统无法满足需要完全和快速复用的所有任务需求，并强调NASA几十年来在热防护研究方面缺乏大量投资。这个问题与NASA半个世纪前开发航天飞机时面临的挑战相似，当时航天飞机也使用了数千块轻质陶瓷瓦片来保护结构。",
-              "source_url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+              "title": "大规模腹泻疫情导致40%美国人避开果蔬",
+              "brief": "美国食品药品监督管理局正在调查六起由环孢子虫引起的食源性腹泻疫情，该寄生虫通过人类粪便污染新鲜农产品传播。疾病控制与预防中心统计了超过11500例确诊和疑似病例，涉及41个州，其中300多人需要住院治疗，实际数字可能更高。最大疫情与Taylor Farms的冰山生菜有关，已影响九个州。CBS新闻民调显示，约40%的美国人因此减少购买或食用果蔬，仅4%遵循卫生部长肯尼迪增加果蔬摄入的建议。",
+              "source_url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-28T02:34:40+08:00"
+              "published_at": "2026-07-28T04:42:13+08:00"
             },
             {
-              "title": "ChatGPT开始阻止直接模仿作者写作风格的请求",
-              "brief": "OpenAI的ChatGPT现在开始拒绝用户直接模仿知名作者写作风格的请求。当被要求复制特定作者的文风时，ChatGPT会回应称它能借鉴这些作者的“广泛特质”，但会“保持其自身独特的声音”，例如，它能写出具有斯蒂芬·金风格中的“氛围感和角色驱动的恐怖”，但不会模仿其“确切风格”。这种行为上的细微改变可能具有重要的法律意义，因为OpenAI正面临多起图书作者提起的诉讼，指控其AI模型在训练过程中涉及大规模版权侵权。",
-              "source_url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+              "title": "iOS和macOS 26.6今日发布，为iOS和macOS 27铺路",
+              "brief": "苹果发布了iOS、iPadOS、macOS、watchOS和tvOS 26.6更新，这可能是下一个主要操作系统版本到来前的最后更新。更新包含小错误修复和大量安全补丁，其中macOS 26.6有超过150个安全更新。iOS和iPadOS 26.6优化了Spotlight索引以为iOS 27做准备，并新增了当屏蔽联系人达到上限时的提醒功能。iOS和macOS 27预计将于9月发布，主要新功能是Siri AI，将利用大语言模型。",
+              "source_url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-28T00:58:46+08:00"
+              "published_at": "2026-07-28T04:32:45+08:00"
             },
             {
-              "title": "活动人士因在边境检查时输入“胁迫码”清空手机而被控重罪",
-              "brief": "亚特兰大居民Samuel Tunick在入境美国时，海关人员要求检查其运行GrapheneOS的Pixel手机。他利用该系统的“胁迫码”功能远程清空了设备数据。政府指控他销毁证据，属于重罪。Tunick的律师称，他因参与反对“Cop City”警察训练设施建设的活动而被列入观察名单，海关曾邮件讨论以“涉嫌恐怖活动”为由扣留他。审讯中，海关声称搜查是为了查找儿童性虐待材料。",
-              "source_url": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
+              "title": "一个缺失的下划线导致无辜者入狱18个月",
+              "brief": "一个以《上古卷轴5：天际》中龙吼命名的用户名因少了一个下划线，导致加拿大新斯科舍省一名无辜男子被判入狱18个月。2018年威斯康星州麦迪逊市警方调查一起儿童引诱案时，本应查找用户名“fus__ro_dah”（两个下划线）的记录，但错误地请求了“fus_ro_dah”（一个下划线）的记录。警方逮捕了布兰登·克莱姆，尽管在其设备上未发现犯罪证据，他仍于2023年被定罪，2024年被判刑。上诉过程中发现用户名错误，新斯科舍省上诉法院于周四推翻原判，称克莱姆事实上无罪。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
               "source_name": "Ars Technica",
-              "published_at": "2026-07-27T23:58:34+08:00"
+              "published_at": "2026-07-28T04:22:03+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "T-Mobile、Verizon 和 AT&T 遭遇大规模服务中断",
+              "brief": "T-Mobile 目前出现大规模服务中断，从纽约到加拿大的用户报告无法连接其蜂窝网络。Verizon 和 AT&T 也受到影响。Reddit 上来自加州、纽约和佐治亚州的用户均报告连接问题，表明美国大范围地区可能受影响。这是不到一周内 T-Mobile 第二次重大中断。DownDetector 显示 AT&T 和 Verizon 的故障报告也在激增，AT&T 在内华达州出现中断。故障可能源于骨干提供商或互联问题，而非单一运营商网络问题。",
+              "source_url": "https://www.androidauthority.com/t-mobile-cellular-outage-3691641/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T05:34:47+08:00"
+            },
+            {
+              "title": "Google Meet 的“为我记笔记”工具即将支持截图",
+              "brief": "Google Meet 的“为我记笔记”功能利用 Gemini 生成会议摘要，目前仅支持文本。Google 正准备为该功能添加截图支持，以捕获屏幕共享中的图表和演示内容。目前仅面向 Workspace 用户预告，尚未扩展到 Google AI 订阅用户。具体实现细节，如用户控制截图频率等，尚未公布，正式公告将在“未来几周”发布。",
+              "source_url": "https://www.androidauthority.com/google-meet-notes-screenshots-3691613/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T05:27:32+08:00"
+            },
+            {
+              "title": "共享的 Claude 聊天记录可能出现在 Google 搜索结果中",
+              "brief": "Reddit 用户发现，通过链接共享的 Claude 聊天记录出现在 Google 搜索结果中，可被公开搜索到。Anthropic 表示未向搜索引擎提供聊天目录或站点地图，推测链接被用户公开发布。私人聊天未受影响，已索引的链接似乎已被移除。共享功能生成对话快照并创建链接，仅持有链接者可见，但此次事件导致个人和敏感信息暴露。",
+              "source_url": "https://www.androidauthority.com/shared-claude-chats-on-google-search-3691594/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T05:26:32+08:00"
+            },
             {
               "title": "抢先看：三星Galaxy Z Fold 8应用单独缩放控制",
               "brief": "上周我们在Z Fold 8 Ultra固件代码中发现三星正为最新折叠屏开发应用单独缩放功能，但当时该功能并未在手机上出现。现在有消息人士透露，该设置已作为实验室选项出现在新款宽屏Z Fold 8上。用户可在设置-高级功能-实验室中找到此功能，为每个应用设置五个缩放级别之一。目前三星自家应用似乎未被支持，该功能未来是否会从实验室走向正式版仍有待观察。",
@@ -181,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/youtube-premium-peacock-3691558/",
               "source_name": "Android Authority",
               "published_at": "2026-07-28T01:54:30+08:00"
-            },
-            {
-              "title": "Android Auto用户对Gemini无法运行例程感到沮丧",
-              "brief": "多位Android Auto用户反映，Gemini无法在连接到汽车时执行Google Home例程。当手机未连接Android Auto时，Gemini可正常触发例程，但连接后则失败，有的返回随机回复，有的提示出错。该问题已存在数周，并非所有用户都受影响，谷歌尚未回应或修复。",
-              "source_url": "https://www.androidauthority.com/android-auto-gemini-routines-3691521/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T01:39:33+08:00"
-            },
-            {
-              "title": "亚马逊上这款高评分175W车载充电器现仅售19.99美元",
-              "brief": "JOYROOM 175W车载充电器在亚马逊降价至19.99美元，原价24.99美元，折扣20%。该充电器采用GaN技术，紧凑高效，配备两个USB-C口和一个USB-A口，总输出功率达175W，支持PD和QC快充，可同时为手机、平板甚至USB-C笔记本电脑充电。亚马逊评分4.7星，性价比极高。",
-              "source_url": "https://www.androidauthority.com/joyroom-175w-car-charger-deal-3691561/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T01:02:28+08:00"
-            },
-            {
-              "title": "Meta暂停争议性智能眼镜订阅计划",
-              "brief": "Meta宣布暂停为其智能眼镜的对话聚焦功能实施使用限制的计划，该计划此前因引发广泛批评而备受争议。Meta在声明中表示，将听取反馈并寻找更好的方案，但未排除未来恢复限制的可能性。公司发言人暗示，为维持以可负担价格销售硬件的策略，部分高级功能最终可能转为订阅制。",
-              "source_url": "https://www.androidauthority.com/meta-smart-glasses-rate-limit-pause-3691478/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T00:48:19+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "X Money 今日在美国上线",
+              "brief": "埃隆·马斯克的支付平台 X Money 今日向美国用户推出，首先面向 X Premium 和 Premium Plus 订阅者。该平台提供数字钱包和个人对个人支付功能，类似 Venmo，并附带一张金属 Visa 卡，用户可印上自己的 X 用户名。其他功能包括支持 Apple Wallet 和免费转账。Premium Plus 用户可享受最高 6% 的年化收益率，而标准 Premium 用户需存入一定金额才能获得“提升”后的 6% 年化收益。此前 X Money 仅限邀请测试，此次公开发布距离马斯克宣布“早期公开访问”将在 4 月启动仅数月。",
+              "source_url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+              "source_name": "The Verge",
+              "published_at": "2026-07-27T18:10:18-04:00"
+            },
+            {
+              "title": "雷蛇模拟光轴 Huntsman V3 Pro 键盘降价超 20%",
+              "brief": "雷蛇 Huntsman V3 Pro 键盘目前享受超过 20% 的折扣。该键盘采用模拟光轴技术，可调节触发点，适合游戏和打字。具体价格和优惠细节请查看原文。",
+              "source_url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-07-27T17:29:22-04:00"
+            },
             {
               "title": "Xbox大规模宕机，甚至影响光盘游戏",
               "brief": "自周日晚间开始的Xbox宕机不仅导致数字游戏无法游玩，还阻碍了用户运行光盘游戏。微软状态页面最初于美国东部时间周日晚11点左右报告故障，用户无法登录、启动应用或访问商店。社交媒体证实，光盘游戏也受影响。同事尝试启动Game Pass游戏时遇到错误代码0x87e107df，显示许可证无法验证。目前状态页面表示数字和向下兼容游戏可能仍有问题，但光盘游戏应已恢复。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
               "source_name": "The Verge",
               "published_at": "2026-07-27T12:51:50-04:00"
-            },
-            {
-              "title": "YouTube Premium将从明年起包含Peacock服务",
-              "brief": "根据NBCUniversal周一宣布的多年协议，YouTube Premium订阅用户从2027年起可直接在YouTube应用中观看Peacock的带广告电视节目、电影和体育直播。YouTube发言人证实，Peacock将捆绑在其标准订阅中，该订阅价格已于4月涨至每月15.99美元。这比单独订阅两项服务更便宜，因为Peacock的带广告计划目前起价为每月10.99美元。此交易正值Peacock从Comcast宽带业务分离的关键时期。",
-              "source_url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T12:18:52-04:00"
-            },
-            {
-              "title": "亚马逊计划2028年推出全球卫星手机网络",
-              "brief": "亚马逊上周六向FCC提交申请，计划发射名为Leo的新卫星星座，由5105颗卫星组成，提供直接到设备的卫星服务，支持语音、消息、数据和紧急服务。若获批，将于2028年开始部署。亚马逊计划与移动网络运营商合作，类似于Starlink与T-Mobile的合作模式。今年早些时候，亚马逊宣布收购Globalstar的卫星网络并接管其为苹果设备提供卫星服务的协议，新星座将使用Globalstar的频谱，并计划与苹果合作开发未来卫星服务。",
-              "source_url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T11:40:38-04:00"
             }
           ]
         }
@@ -253,6 +253,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《漫威对决：战斗之魂》Beta测试证明粉丝仍渴望那部刀锋战士电影",
+              "brief": "《漫威对决：战斗之魂》的公开Beta测试在Steam上吸引了33233名同时在线玩家，超过了《街头霸王6》2023年Beta的32787人和《铁拳8》的15035人。在角色选择中，秘客和刀锋战士是最受欢迎的两个角色，其中秘客在整体使用率和队长选择上均居首位，刀锋战士则是使用率第二高的角色，并成为最受欢迎的辅助角色。",
+              "source_url": "https://www.ign.com/articles/the-marvel-tokon-fighting-souls-beta-proves-fans-still-really-want-that-blade-movie",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T05:13:11+08:00"
+            },
+            {
+              "title": "《奥德赛》译者严厉批评克里斯托弗·诺兰的电影改编",
+              "brief": "《奥德赛》的译者对克里斯托弗·诺兰即将推出的电影改编发表了尖锐批评，但具体细节尚未披露。",
+              "source_url": "https://www.ign.com/articles/the-odyssey-translator-unleashes-scathing-review-of-christopher-nolans-film-adaptation",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T04:50:32+08:00"
+            },
+            {
+              "title": "“我无法不在脑海中听到他的声音”——马特·丁尼曼谈为杰夫·海耶斯创作《地下城 Crawler Carl》",
+              "brief": "《地下城Crawler Carl》作者马特·丁尼曼在SDCC采访中表示，他写作时脑海中总会浮现配音演员杰夫·海耶斯的声音，因为海耶斯在音频书中为角色赋予了生命。海耶斯已正式被选为电视剧版中公主多纳特的配音演员，该剧将在Peacock平台播出，采用真人形式而非动画。丁尼曼认为，如果剧组不邀请海耶斯参与，粉丝们会强烈反对。",
+              "source_url": "https://www.ign.com/articles/matt-dinniman-reflects-on-writing-dungeon-crawler-carl-for-audiobooks-and-jeff-hays",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T04:45:29+08:00"
+            },
             {
               "title": "《龙之家族》：雷妮拉在铁王座上割伤手指，预示不祥",
               "brief": "在《龙之家族》最新一集中，雷妮拉·坦格利安在听取臣民请愿时被铁王座割伤手指，导演洛尼·佩里斯特雷称这是“引发诸多坏事的事件”。这一情节呼应了她的父亲韦赛里斯一世国王曾因铁王座受伤并最终导致感染和腐烂的遭遇。雷妮拉的扮演者艾玛·达西表示，这一时刻具有重要的预示意义，但雷妮拉可能并未完全意识到其严重性。",
@@ -266,27 +287,6 @@
               "source_url": "https://www.ign.com/articles/youtube-premium-is-adding-a-peacock-subscription-at-no-extra-cost",
               "source_name": "IGN",
               "published_at": "2026-07-28T03:06:47+08:00"
-            },
-            {
-              "title": "日本版《GTA 6》实体版下载码将在发售170天后失效",
-              "brief": "《GTA 6》实体版仅包含数字下载码，日本地区因《支付服务法》规定，该下载码需在发售（2026年11月19日）后170天内兑换，否则失效。该法律要求数字码卖家需为无限期保管缴纳巨额保证金，而有效期短于6个月则可豁免。此举旨在保护消费者，但引发了玩家对实体版实际价值的讨论。",
-              "source_url": "https://www.ign.com/articles/physical-copies-of-gta-6-will-expire-170-days-after-launch-date-in-japan",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T02:40:04+08:00"
-            },
-            {
-              "title": "《尚气》主演刘思慕表示愿为续集“爬过一英里碎玻璃”",
-              "brief": "刘思慕在《Variety》采访中表达了对《尚气2》的渴望。尽管漫威在SDCC上未宣布续集消息，但他感谢粉丝五年来持续呼吁。他透露对续集进展一无所知，但强调粉丝的支持是推动续集讨论的原因。刘思慕饰演的尚气自2021年电影后鲜少出现，但他已确认将出演今年12月的《复仇者联盟：末日》。",
-              "source_url": "https://www.ign.com/articles/shang-chi-star-simu-liu-says-he-would-crawl-through-a-mile-of-broken-glass-for-a-sequel",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T02:04:42+08:00"
-            },
-            {
-              "title": "《神经漫游者》预告片引发粉丝质疑，威廉·吉布森回应",
-              "brief": "苹果剧集《神经漫游者》首支全长预告在SDCC 2026发布后，因选角和美学风格引发粉丝争议。原著作者威廉·吉布森在Bluesky发文表示对制作过程非常满意，并重申改编是协作创作，不会完全还原读者脑中的想象。他担任执行制片人，提供建议但无否决权。",
-              "source_url": "https://www.ign.com/articles/william-gibson-speaks-out-after-neuromancer-trailer-sparks-doubts-among-fans",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T01:33:48+08:00"
             }
           ]
         },
@@ -372,6 +372,27 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "OpenAI 奥尔特曼自曝沉迷 TikTok：周末一刷就是 3 小时，最终不得不删除 App",
+              "brief": "OpenAI CEO 萨姆·奥尔特曼为研究短视频平台用户体验而使用 TikTok，逐渐成瘾，曾连续刷视频三小时，最终删除应用。他反思这种使用习惯对自己不利，并提到 OpenAI 此前放弃 Sora 社交应用的部分原因是视频生成算力消耗大。奥尔特曼正与苹果前首席设计官合作开发 AI 设备，希望减少通知干扰，而非争夺用户注意力。",
+              "source_url": "https://www.ithome.com/0/982/275.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-28T06:42:34+08:00"
+            },
+            {
+              "title": "再超英伟达：苹果市值达 4.95 万亿美元重回全球榜首，距 5 万亿大关仅一步之遥",
+              "brief": "苹果股价上涨使其市值达到 4.95 万亿美元，超越英伟达重回全球第一，而英伟达股价下跌约 5%，市值回落至约 4.85 万亿美元。这是苹果本月内第二次登顶，自 6 月下旬以来股价累计上涨约 22.5%。市值攀升正值苹果管理层交接期，CEO 库克将于 2026 年 9 月转任执行主席，第三财季财报即将公布。",
+              "source_url": "https://www.ithome.com/0/982/274.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-28T06:37:24+08:00"
+            },
+            {
+              "title": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版：新增语音访问人声隔离等多项改进",
+              "brief": "微软发布 Win11 Experimental 频道 Build 29634.1000 预览版，包含更新后的飞行证书，旧证书将于 2026 年 8 月 11 日到期，用户需升级以继续接收预览更新。新版还完成 WIP 通道 UI 全量过渡，语音访问新增人声隔离功能，可在本地过滤背景噪音，讲述人优化盲文设备连接体验，以及账户控制弹出窗口现代化、表情符号面板更换 GIF 数据源等改进。",
+              "source_url": "https://www.ithome.com/0/982/272.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-07-28T05:02:33+08:00"
+            },
+            {
               "title": "Amkor 2026财年第二财季归母净利润1.74亿美元，同比增长219.30%",
               "brief": "Amkor科技公布2026财年第二财季财报，营收18.98亿美元创历史新高，同比增长25.58%；归母净利润1.74亿美元，同比增长219.30%。业绩大幅超出市场预期，主要得益于计算及汽车与工业两大终端市场收入创纪录，以及毛利率提升至16.8%。公司给出第三财季指引，净销售额预计19.5亿至20.5亿美元，毛利率18.5%至19.5%。截至6月30日，现金及短期投资合计25亿美元，总债务25亿美元，资产负债率51.76%。",
               "source_url": "https://www.ithome.com/0/982/270.htm",
@@ -384,27 +405,6 @@
               "source_url": "https://www.ithome.com/0/982/269.htm",
               "source_name": "IT之家",
               "published_at": "2026-07-28T02:34:07+08:00"
-            },
-            {
-              "title": "苹果 visionOS 26.6 正式版发布",
-              "brief": "苹果于2026年7月28日发布了visionOS 26.6正式版，这是Vision Pro头显的操作系统更新。该版本在多个Beta版本测试后推出，可能带来新功能和稳定性提升。具体更新细节稍后公布。",
-              "source_url": "https://www.ithome.com/0/982/268.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-28T02:34:06+08:00"
-            },
-            {
-              "title": "苹果 macOS 26.6 正式版发布",
-              "brief": "苹果于2026年7月28日发布了macOS 26.6正式版，这是Mac电脑的最新系统更新。该版本经过多个Beta测试，可能包括性能优化和安全修复。具体更新内容将在后续报道中详细介绍。",
-              "source_url": "https://www.ithome.com/0/982/267.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-28T02:34:06+08:00"
-            },
-            {
-              "title": "苹果 iOS/iPadOS 26.6 正式版发布",
-              "brief": "苹果于2026年7月28日发布了iOS 26.6和iPadOS 26.6正式版，这是iPhone和iPad的最新系统更新。该版本在多个Beta测试后推出，可能包含新功能和问题修复。具体更新内容稍后带来。",
-              "source_url": "https://www.ithome.com/0/982/266.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-07-28T02:34:05+08:00"
             }
           ]
         }
