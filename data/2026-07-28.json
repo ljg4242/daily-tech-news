@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T16:50:23.070611+08:00",
+  "generated_at": "2026-07-28T18:50:46.210915+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "MacBook Ultra OLED触控面板将由三星独家供应",
+              "brief": "据韩国媒体The Elec报道，苹果新款MacBook Pro的OLED触控面板将由三星显示独家生产，预计初始供应量为25万块，8月开始量产。报道称，苹果因良率问题未考虑LG Display或京东方。14英寸和16英寸面板将在三星韩国牙山的8.6代OLED线上制造。此前彭博社Mark Gurman透露，支持触控屏的MacBook Pro预计2026年底至2027年初发布，但受芯片短缺影响可能推迟至2027年初。该机型还将搭载M5 Pro/Max芯片、取消刘海并采用更薄设计，可能命名为“MacBook Ultra”，macOS 27将配备触控友好界面。",
+              "source_url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-28T17:16:08+08:00"
+            },
             {
               "title": "关于MacBook Ultra全新设计的所有已知信息",
               "brief": "苹果下一代高端笔记本电脑预计将带来自2021年以来MacBook Pro系列最重大的外观变化。据彭博社马克·古尔曼称，该机型很可能是一次“真正的革新”，结合了OLED显示屏和更薄的设计。自2021年以来，所有14英寸和16英寸MacBook Pro厚度均为0.61英寸，而新机型有望显著变薄变轻。刘海将被药丸形挖孔取代，并融入交互式灵动岛，显示屏边框也可能缩小。三星显示将供应14.3英寸面板。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
               "source_name": "MacRumors",
               "published_at": "2026-07-28T02:55:46+08:00"
-            },
-            {
-              "title": "苹果发布 macOS Tahoe 26.6",
-              "brief": "苹果于7月27日发布了macOS Tahoe 26.6，这是去年推出的macOS Tahoe操作系统的一个小更新。该版本在上个月发布的macOS Tahoe 26.5.2之后推出。用户可通过系统设置中的软件更新下载。据苹果发布说明，该更新包含Mac的安全修复，并为macOS 27优化了Spotlight。",
-              "source_url": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-28T01:48:57+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Apple @ Work 播客：还记得 Postini 吗？",
+              "brief": "本期节目邀请 Sublime Security 的 Luke Wescott 讨论近期激增的利用自动通知、验证、提醒等功能的回调钓鱼攻击。回调钓鱼攻击通过伪造自动通知诱骗用户回拨电话，进而窃取信息。",
+              "source_url": "https://9to5mac.com/2026/07/28/apple-work-podcast-remember-postini/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T18:00:00+08:00"
+            },
+            {
+              "title": "Security Bite 播客：数据经纪商正在破坏互联网",
+              "brief": "本期节目邀请 Incogni 的 Miguel Fornés 探讨数据经纪商如何悄然构建用户详细档案，包括信息来源、买家以及人工智能时代这一威胁日益加剧的原因。数据经纪商利用 AI 技术收集和出售个人数据，甚至通过虚假表单获取信息。",
+              "source_url": "https://9to5mac.com/2026/07/28/security-bite-podcast-data-brokers-are-breaking-the-internet/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T17:00:00+08:00"
+            },
             {
               "title": "LM Studio Bionic 新增对 Moonshot AI 的 Kimi K3 模型的支持",
               "brief": "LM Studio 近日推出了面向代理任务的新应用 Bionic，支持本地或云端运行开放模型以完成编码、研究及文档处理等复杂工作。云端模型基于美国服务器处理，承诺零数据保留。此前可用模型包括 DeepSeek V4、Pro、GLM-5.2、Kimi K2.6 及 Kimi-K2.7-Code。如今新增的 Kimi K3 被认为是最强大的开放模型之一，拥有 2.8T 参数 MoE 架构和 1M 上下文窗口。在 Bionic 中，Kimi K3 的定价为每百万输入 token 3 美元，缓存输入 0.30 美元，输出 15 美元，相比之前模型的输入价格 0.95-1.74 美元及输出 3.48-4.50 美元有显著提升。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-28T05:34:30+08:00"
-            },
-            {
-              "title": "Claude、Codex 等 AI 工具在今日苹果安全更新中被致谢",
-              "brief": "苹果今日发布了 iOS 26.6、iPadOS 26.6、macOS Tahoe 26.6 等多个系统更新，随后更新了安全发布页面，列出了修复的漏洞及致谢的研究人员。值得注意的是，页面篇幅很长，且 Anthropic 的 Claude 与研究人员合作修复了 WebKit、WebDAV 等问题。Anthropic 的 Claude Mythos Preview 模型此前被用于在五天内构建 macOS 内核内存损坏利用。此外，多个研究团队独立报告了相同的内核漏洞，苹果共列出了 30 个 CVE。OpenAI Codex Security、Z.AI 的 GLM 和 NVIDIA AI Red Team 等 AI 工具也在致谢名单中。",
-              "source_url": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T04:29:58+08:00"
-            },
-            {
-              "title": "《Ted Lasso》第四季：新角色与未回归成员一览",
-              "brief": "《Ted Lasso》第四季将聚焦新成立的女子足球队 Lady Greyhounds。新加入的常驻演员包括 Tanya Reynolds 饰演的教练 Alice Chilton，以及多位球员：Abbie Hern 饰演 Gemma、Jude Mack 饰演门将 Boots、Faye Marsay 饰演 Lizzie 等。此前三季中 AFC Richmond 男队的多位热门角色如 Jamie Tartt、Dani Rojas、Sam Obisanya 将不再作为常驻角色出现，但可能有惊喜客串。Nick Mohammed 饰演的 Nate 预计以非固定角色回归。",
-              "source_url": "https://9to5mac.com/2026/07/27/ted-lasso-season-4-heres-whos-new-and-everyone-not-returning/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T03:19:42+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "摩托罗拉Android 17测试版新增功能曝光",
-              "brief": "摩托罗拉将Android 17测试版扩展到Moto Edge 60 Pro，社区论坛用户可参与。用户测试发现多项新特性，包括摄像头挖孔处的动态岛式实时更新、名为Qira的新Moto AI助手，以及显著改进的触感。界面变化包括可调整大小的快速设置磁贴、锁屏自定义、类似Pixel UI的音量滑块和HelloUI应用抽屉优化。",
-              "source_url": "https://www.androidauthority.com/motorola-android-17-beta-features-3691873/",
+              "title": "ChatGPT 不再能模仿著名作家风格写作",
+              "brief": "OpenAI 悄然更改了 ChatGPT 对模仿著名作家风格请求的回应方式。现在，当用户要求复制某位作家的语气时，AI 会拒绝该请求，并转而提供基于该作家“广泛特质”或流派氛围的原创文本。这一改变正值 OpenAI 面临多起版权诉讼之际。Ars Technica 的测试显示，ChatGPT 拒绝以斯蒂芬·金的“精确风格”写作，但提供了融入“小镇恐惧”的原创场景。对于克里斯托弗·马洛或莎士比亚等已故作家，则没有此限制。",
+              "source_url": "https://www.androidauthority.com/chatgpt-author-style-change-3691931/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-28T16:37:59+08:00"
+              "published_at": "2026-07-28T18:37:28+08:00"
             },
             {
-              "title": "用户名拼写错误导致无辜者被误判入狱18个月",
-              "brief": "加拿大男子布兰登·克莱姆因儿童性虐待罪名被误判，服刑18个月。起因是美国警方在传票中错误输入了他的Kik用户名（fus_roh_dah），而非实际嫌疑人（fus__roh_dah，多一个下划线）。尽管警方搜查后未发现任何证据，克莱姆仍被定罪。上诉期间发现拼写错误，法院最终撤销判决。",
-              "source_url": "https://www.androidauthority.com/username-typo-prison-canada-innocent-man-3691845/",
+              "title": "谷歌 Pixel 手机定价或将上涨",
+              "brief": "2026 年智能手机行业面临零部件涨价压力，多家厂商已提价。谷歌 Pixel 10a 维持原价，但 Pixel 11 预计将涨价，这已得到谷歌高管暗示和数月传闻支持。若 Pixel 11 与 Galaxy S26 价格持平，将面临更激烈竞争，因为谷歌 Tensor 芯片性能不及旗舰骁龙芯片，此前靠低价和软件体验吸引用户。涨价可能削弱 Pixel 的性价比优势。",
+              "source_url": "https://www.androidauthority.com/google-pixel-phone-pricing-taking-turn-for-worse-3691536/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-28T16:28:04+08:00"
+              "published_at": "2026-07-28T18:30:53+08:00"
             },
             {
-              "title": "Google Play服务更新为Pixel Watch启用快捷支付并刷新Play Shorts",
-              "brief": "Google 7月27日的Play Services更新允许Pixel Watch用户直接在手表上设置Express Pay，新用户引导更流畅。“已连接应用”菜单更名为“已链接应用”，覆盖手机、平板、电视、汽车和手表。Play Shorts新增漫画预览，可滑动浏览；Play Store v52.5优化了Sidekick Dashboard的稳定性，并支持续接旅行搜索。",
-              "source_url": "https://www.androidauthority.com/google-play-services-update-july-27-2026-3691885/",
+              "title": "一加退出美国市场后，Nothing 会成为下一个吗？",
+              "brief": "一加宣布退出北美和欧洲市场，专注于亚洲。这令美国本已有限的智能手机市场进一步缩小，目前主要玩家仅剩苹果、三星、谷歌、摩托罗拉等。Nothing 作为小众品牌，处境与一加相似：部分机型不在美国销售，且运营商支持不完整。Nothing 能否在美国生存成为疑问，其策略是否足够灵活以维持运营仍待观察。",
+              "source_url": "https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-28T15:58:00+08:00"
+              "published_at": "2026-07-28T18:00:19+08:00"
             },
             {
-              "title": "Gemini 应用最新 UI 调整，简化思考级别设置和通知控制",
-              "brief": "谷歌正在优化 Gemini 应用的界面，使其更简洁。模型选择下拉菜单现在只显示“扩展思考”一个选项，去掉了默认的“标准”级别。同时，应用新增了通知控制开关，包括每日简报、预定操作、回复、产品更新和提示等类别，默认为开启，用户可关闭不想要的通知。此外，Gemini Spark 的 UI 也进行了调整，顶部导航栏增加了“全部”“预定”“需要输入”等分类标签，右上角菜单按钮被搜索图标取代。这些更改已开始向用户推送。",
-              "source_url": "https://www.androidauthority.com/gemini-app-ui-thinking-level-notification-control-3691833/",
+              "title": "Galaxy Z Fold 8 的三个低调升级令人印象深刻",
+              "brief": "三星 Galaxy Z Fold 8 采用更宽的新比例，但还有三个不为人知的升级：几乎不可见的折痕、抗反射显示屏和更易展开的设计。三星重新设计了内部屏幕，采用 Flex Titanium 面板，使折痕大幅减轻；抗反射涂层提升了户外可读性；铰链优化让单手开合更轻松。这些改进在实际体验中比单纯改变比例更令人满意。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-upgrades-no-one-talking-about-3690545/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-28T14:34:25+08:00"
+              "published_at": "2026-07-28T17:30:05+08:00"
             },
             {
-              "title": "消息称 Nothing 正在开发首款智能手表",
-              "brief": "据爆料人 Yogesh Brar 透露，Nothing 正在筹备其首款智能手表，计划于 9 月推出，售价低于 300 美元，初期仅在有限市场发售。该手表将延续 Nothing 标志性的透明设计语言。目前尚不清楚它运行的是 Wear OS 还是定制 RTOS。Nothing 旗下 CMF 品牌已有智能手表产品，但主品牌尚未涉足该领域。定价低于 300 美元将使 Nothing 进入与 OnePlus Watch 4 等产品竞争的更激烈市场。更多细节有待官方确认。",
-              "source_url": "https://www.androidauthority.com/nothing-smartwatch-3691825/",
+              "title": "谷歌时钟应用终于支持秒表和计时器的实时更新",
+              "brief": "谷歌时钟应用 v9.0 版本开始支持 Android 的 Live Updates 功能。当用户离开应用后，运行的秒表或计时器会在状态栏、锁屏和息屏显示中实时更新，并可通过点击展开控制。此前仅显示静态图标或简单通知。该功能通过服务器端推送，需等待更新覆盖所有用户。",
+              "source_url": "https://www.androidauthority.com/google-clock-live-updates-stopwatch-timer-3691860/",
               "source_name": "Android Authority",
-              "published_at": "2026-07-28T12:53:19+08:00"
+              "published_at": "2026-07-28T17:08:11+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Hugging Face 被用于轻易制作女性及儿童不雅深度伪造",
+              "brief": "欧洲非营利组织 AI Forensics 的报告指出，流行的开源 AI 模型库 Hugging Face 上托管的图像编辑模型，有七分之九在简单提示下即可生成脱衣深度伪造，且平台几乎没有防护措施。这些模型缺乏对色情提示的屏蔽，而主流模型如 Gemini 和 ChatGPT 已设有防护。报告未尝试绕过任何安全机制。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+              "source_name": "The Verge",
+              "published_at": "2026-07-28T05:07:14-04:00"
+            },
             {
               "title": "X Money 今日在美国上线",
               "brief": "埃隆·马斯克的支付平台 X Money 今日向美国用户推出，首先面向 X Premium 和 Premium Plus 订阅者。该平台提供数字钱包和个人对个人支付功能，类似 Venmo，并附带一张金属 Visa 卡，用户可印上自己的 X 用户名。其他功能包括支持 Apple Wallet 和免费转账。Premium Plus 用户可享受最高 6% 的年化收益率，而标准 Premium 用户需存入一定金额才能获得“提升”后的 6% 年化收益。此前 X Money 仅限邀请测试，此次公开发布距离马斯克宣布“早期公开访问”将在 4 月启动仅数月。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-07-27T15:24:55-04:00"
-            },
-            {
-              "title": "中国为何免费开放其最优秀的人工智能模型",
-              "brief": "中国人工智能实验室如Moonshot通过免费发布模型权重，迫使OpenAI、谷歌和Anthropic重新考虑其封闭策略。Moonshot的Kimi K3模型以极低成本击败部分美国顶级系统，其开源计划直接瞄准美国用户，引发硅谷对封闭模型能否继续主导市场的担忧。开源模型赋予开发者更大控制权，可本地运行和定制，挑战了传统商业模式。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T12:51:50-04:00"
             }
           ]
         }
@@ -294,6 +294,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "梦并不随机，大脑在改写现实",
+              "brief": "根据发表在《Communications Psychology》上的一项研究，梦境并非随机，而是受个性、睡眠质量、思维习惯及重大事件（如新冠疫情）等综合影响。研究分析了287位18-70岁参与者提供的3700多份梦境和清醒经历描述，发现清醒时容易走神的人梦境变化更快、更碎片化，而重视梦境意义的人则体验更丰富、感知细节更生动。",
+              "source_url": "https://www.solidot.org/story?sid=84943",
+              "source_name": "Solidot",
+              "published_at": "2026-07-28T16:53:10+08:00"
+            },
+            {
               "title": "美国政府豁免Starlink越南造路由器",
               "brief": "特朗普政府宣布，SpaceX的Starlink路由器不受FCC针对外国造路由器的禁令约束。FCC此前以国家安全为由将大部分外国制造的消费级路由器列入限制清单，但SpaceX在德克萨斯州设有工厂，部分路由器印有“美国制造”，另有一部分在越南制造。豁免有效期至2028年2月1日。Netgear是首家获得豁免的大型供应商，亚马逊Eero和Leo宽带卫星路由器也获豁免，而TP-Link尚未获得豁免。",
               "source_url": "https://www.solidot.org/story?sid=84942",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=84939",
               "source_name": "Solidot",
               "published_at": "2026-07-28T14:09:17+08:00"
-            },
-            {
-              "title": "美国AI公司在华盛顿游说支出创纪录",
-              "brief": "美国AI公司为影响监管政策，在华盛顿投入创纪录游说资金。2026年上半年，OpenAI游说支出达222万美元，同比翻番；Anthropic支出增至353万美元，约为去年三倍。Google和微软支出为2020年以来季度最高。各公司立场存在分歧，Anthropic主张加强对开放权重AI模型的监管，而微软等反对限制。近期增加游说支出的还有Scale AI和腾讯。",
-              "source_url": "https://www.solidot.org/story?sid=84938",
-              "source_name": "Solidot",
-              "published_at": "2026-07-28T13:42:44+08:00"
             }
           ]
         },
@@ -360,39 +360,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "SK海力士拟以LPDDR6抢占中国市场，遏制长鑫存储扩张势头",
-              "brief": "SK海力士计划通过率先量产LPDDR6内存来抢占中国市场，并遏制长鑫存储的扩张。LPDDR6在数据传输速率和能效比上较上一代有显著突破，除了智能手机，SK海力士还瞄准AI服务器市场，推出高达512GB容量的SOCAMM形态LPDDR6。长鑫存储正筹备产能转型推动DDR6量产，但需数年时间，这为SK海力士创造了市场窗口期。小米已率先采用，OPPO、vivo等品牌有望跟进。尽管SK海力士不提供额外低价，但合作可保障中国厂商的供应稳定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570662.htm",
+              "title": "央视起底“AI脱衣”黑色产业链，普通生活照被生成不雅照",
+              "brief": "央视起底“AI脱衣”黑色产业链，揭露不法分子利用开源AI模型训练脱衣模块，通过社交平台和境外群组以付费教程形式出售软件，截至2025年6月已有数千人购买。该软件可几秒生成虚假裸照，下游衍生出代加工、敲诈勒索等犯罪。北京海淀检察院已对嫌疑人张某提起公诉，其获利超10万元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570680.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-28T15:45:12+08:00"
+              "published_at": "2026-07-28T18:39:54+08:00"
             },
             {
-              "title": "研究称150年来最强厄尔尼诺正在形成",
-              "brief": "气候模型预测显示，当前厄尔尼诺事件强度可能远超历史纪录，或成为150年来最强。伯克利地球科学家Hausfather表示，峰值强度差距“大到令人震惊”，结合气候变化，2027年全球气温可能较工业化前升高1.7摄氏度，逼近《巴黎协定》阈值。NOAA预测有八成可能性发展为强厄尔尼诺，并至少持续至2027年4月。此次厄尔尼诺距离上一轮仅两年，可能表明人为气候变化正在驱动ENSO周期转变。预计将造成热浪、干旱、洪涝等灾害，经济损失或达10万亿美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1570660.htm",
+              "title": "SK海力士暴跌近15% 芯片抛售潮蔓延，美光、英伟达同步走低",
+              "brief": "7月28日韩国股市芯片股重挫，SK海力士跌14.65%，三星电子跌超13%，日本东京电子跌10.96%，台积电跌近3%。导火索为美股半导体板块走弱及中国在存储芯片和光刻设备领域的突破报道。市场对AI产业周期前景不确定，内存芯片价格预计2027年见顶，加剧抛售。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570678.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-28T15:44:49+08:00"
+              "published_at": "2026-07-28T18:38:47+08:00"
             },
             {
-              "title": "Windows/Office授权许可证能否转卖二手？微软在英国寻求最高法上诉",
-              "brief": "微软正在英国就软件许可证转售问题寻求最高法上诉。此前，二手软件经销商ValueLicensing起诉微软，主张企业可转售永久许可证，并索赔2.7亿英镑。英国竞争上诉法院和上诉法院均支持ValueLicensing，认为欧盟软件版权耗尽原则适用。微软抗辩试图区分软件代码与其他版权内容，但未被采纳。如果最高法拒绝受理，案件将返回审理微软行为是否构成反竞争。此案结果将影响英国乃至欧洲的二手软件许可市场合法性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570658.htm",
+              "title": "特朗普政府AI监管框架即将落地 开源模型合规问题悬而未决",
+              "brief": "特朗普政府拟于8月1日前出台AI监管框架，要求前沿模型开放前需经政府审核，最长30天。该框架源于对Anthropic模型Mythos安全风险的担忧，但开源模型因参数量低、本地部署等特点可能被豁免。企业担忧规则仅针对头部闭源模型，且拒绝自愿审核的后果不明。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570676.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-28T15:43:17+08:00"
+              "published_at": "2026-07-28T18:38:23+08:00"
             },
             {
-              "title": "OpenAI前研究与安全副总裁、北大才女翁荔因身体透支官宣离职",
-              "brief": "OpenAI前研究与安全副总裁翁荔因身体透支宣布离职。她在公开信中表示，自己习惯对工作百分之百投入，但意识到需要稳定的工作节奏。翁荔本科毕业于北京大学，2018年加入OpenAI，后组建并领导安全系统团队，2024年升任副总裁。2025年2月，她与前OpenAI CTO米拉·穆拉蒂共同创办Thinking Machines Lab，公司刚完成20亿美元种子轮融资。米拉·穆拉蒂回应认可其选择并致谢贡献。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570656.htm",
+              "title": "地球首批复杂生物化石或为探寻外星生命提供关键线索",
+              "brief": "科学家通过研究古老真核生物微化石，探索地球首批复杂生命的演化。真核生物约16亿年前出现，但化石记录严重不足。团队在挪威斯瓦尔巴群岛和澳大利亚等地寻找保存于黏土沉积层中的微化石，这些研究最初受地外生命探索启发，有助于评估宇宙中生命存在的可能性。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1570674.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-28T15:40:10+08:00"
+              "published_at": "2026-07-28T18:35:54+08:00"
             },
             {
-              "title": "安徽卫视开播AI短剧引热议",
-              "brief": "安徽卫视开播AI短剧《百妖谱·非遗篇》引发热议。该剧是国内首部取得网络剧片发行许可证的全AI非遗题材中剧，讲述非遗传承人守护家国大义的故事。网友反应不一，有人表示支持高质量AI作品，也有人认为AI短剧细节不足，更偏爱真人剧。还有评论担心导演、演员等职业可能受到冲击。目前该剧在豆瓣尚未开分。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1570654.htm",
+              "title": "天文学家发现环绕银河系中央黑洞 以光速8%疾驰的恒星",
+              "brief": "天文学家发现恒星S301以8%光速绕银河系中心黑洞人马座A*公转，周期仅8.7年，为已知最短。其轨道近日点进动达每圈2度，远超水星效应，可用于检验广义相对论及替代理论。未来巨型望远镜有望捕捉其二阶相对论效应，为量子引力研究提供线索。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1570672.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-07-28T15:38:54+08:00"
+              "published_at": "2026-07-28T18:31:58+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为鸿蒙HarmonyOS 7花粉Beta版开始推送，带来大量新特性",
-              "brief": "华为于7月28日向花粉用户推送HarmonyOS 7 Beta版，该版本包含近百项更新内容，与开发者版本不同。此次Beta版适配Mate 80、Pura 90、畅享90系列等机型，正式版预计秋季向消费者开放。",
-              "source_url": "https://www.ithome.com/0/982/637.htm",
+              "title": "阿里云灵骏真武M890超节点实例现已支持月之暗面Kimi K3大模型",
+              "brief": "阿里云灵骏真武M890超节点实例基于平头哥真武M890 AI芯片打造，通过ICN Switch 1.0互联芯片实现64张M890的800 GB/s高速互联，显存规模达9TB。该实例现已支持月之暗面2.8万亿参数MoE架构的Kimi K3大模型，实现Day0适配。真武芯片的T-Head SAIL软件栈让Kimi自研Mooncake推理框架可“开箱即跑”，M890的Triton支持也降低了自定义算子的适配工作量。",
+              "source_url": "https://www.ithome.com/0/982/734.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T16:46:50+08:00"
+              "published_at": "2026-07-28T18:40:53+08:00"
             },
             {
-              "title": "百度萝卜快跑在伦敦启动Robotaxi车辆测试，计划2027年载客",
-              "brief": "百度旗下自动驾驶出行平台萝卜快跑与Lyft旗下Freenow合作，在伦敦开始Robotaxi车辆测试。测试将在限定区域进行，计划从2027年起向公众提供自动驾驶出行服务，旨在为伦敦提供更可持续的交通选择。",
-              "source_url": "https://www.ithome.com/0/982/636.htm",
+              "title": "OPPO PYE110手机入网：配备7820mAh大容量电池，预估为A7系列成员",
+              "brief": "OPPO一款型号为PYE110的新机通过工信部入网审核，配备7820mAh大容量电池，支持双卡双待。该机支持GSM、WCDMA、LTE FDD、TD-LTE、NR SA网络，覆盖主流5G/4G频段，支持VoLTE和VoNR高清语音通话及5G消息。连接方面支持USB、蓝牙和红外，但不支持存储扩展、HDMI输出和收音机。该机预计为OPPO A7系列成员。",
+              "source_url": "https://www.ithome.com/0/982/273.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T16:46:17+08:00"
+              "published_at": "2026-07-28T18:39:50+08:00"
             },
             {
-              "title": "OPPO A7 Pro Max开启预约：骁龙4 Gen 5芯片、10000mAh电池、80W充电",
-              "brief": "OPPO A7 Pro Max手机开启预约，这是绿厂系首款配备万级大电池的机型。该机搭载骁龙4 Gen 5芯片，内置10000mAh单电芯大电池并支持80W快充，配备6.78英寸1.5K 120Hz OLED直屏，后置50Mp主摄，厚度8.47mm，重量226g。",
-              "source_url": "https://www.ithome.com/0/982/635.htm",
+              "title": "QQ鸿蒙版App获9.2.50新版本邀测升级，新增支持QQ文件闪传发送等功能",
+              "brief": "QQ鸿蒙版App迎来9.2.50版本邀测升级，新增QQ文件闪传发送、账号关联、面对面添加好友、隐藏会话、群头衔与标识等多项功能。个人资料卡体验优化，新增设置输入状态可见、主题、消息气泡、个性头像等能力，并增强频道帖子管理。目前QQ鸿蒙版安装量已突破4538万，支持单聊、群聊、音视频通话、红包、空间动态、短视频等功能。",
+              "source_url": "https://www.ithome.com/0/982/733.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T16:46:00+08:00"
+              "published_at": "2026-07-28T18:35:58+08:00"
             },
             {
-              "title": "KTC推出棱镜Q27 Plus显示器：27英寸2K 275Hz，售价999元",
-              "brief": "KTC发布棱镜Q27 Plus 27英寸显示器，采用2K分辨率、275Hz刷新率、400尼特亮度、0.5ms灰阶响应，支持10-Bit色彩。该显示器内置双2W扬声器、红外感应夜灯和耳机挂架，提供2个HDMI、2个DP和1个3.5mm音频接口，售价999元。",
-              "source_url": "https://www.ithome.com/0/982/625.htm",
+              "title": "可口可乐旗下超滤牛奶业务Fairlife遭黑客攻击后，美国4座工厂现已恢复大部分生产",
+              "brief": "可口可乐旗下超滤牛奶品牌Fairlife此前遭勒索组织Anubis攻击，对方声称窃取约1TB数据。可口可乐表示，美国4座工厂的大部分生产业务已恢复，零售供应未受明显影响，产品质量和食品安全无虞。公司正在推进系统恢复，预计该事件不会对财务状况造成重大影响。",
+              "source_url": "https://www.ithome.com/0/982/732.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T16:33:46+08:00"
+              "published_at": "2026-07-28T18:35:13+08:00"
             },
             {
-              "title": "兰博基尼Urus SE士官长联名款亮相，涂装将上线《极限竞速：地平线6》",
-              "brief": "兰博基尼推出Urus SE Master Chief 117 Edition联名款，基于Urus SE打造，采用《光环》主题军绿色涂装并加入“117”字样。该车用于宣传《光环：战役进化》，不会量产销售，但涂装将在《极限竞速：地平线6》中永久保留，玩家可下载使用。此外，兰博基尼还将通过抽奖赠送30辆1:18比例模型。",
-              "source_url": "https://www.ithome.com/0/982/624.htm",
+              "title": "潜伏9年的Linux内核高危漏洞RefluXFS曝光：源于XFS文件系统设计缺陷，超1600万台设备面临风险",
+              "brief": "Qualys披露编号CVE-2026-64600的Linux内核高危漏洞RefluXFS，源于XFS文件系统写时复制机制中的竞争条件。攻击者可利用该漏洞在启用reflink功能的XFS分区中修改任意可读文件，实现本地权限提升获取Root权限。该漏洞无法被现有内存保护机制防御，影响所有启用XFS reflink的Linux发行版，全球超1640万台主机面临风险。Linux内核团队已发布修复补丁。",
+              "source_url": "https://www.ithome.com/0/982/729.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T16:30:50+08:00"
+              "published_at": "2026-07-28T18:29:41+08:00"
             }
           ]
         },
@@ -480,39 +480,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "华电国际董事长提议2026年中期每10股派0.9元",
-              "brief": "华电国际公告，董事长刘雷提议以未来实施2026年中期利润分配方案股权登记日的总股本为基数，向全体股东每10股派发现金红利0.9元（含税），不送红股，不以资本公积转增股本。此举旨在回馈投资者，具体方案尚需股东大会审议。",
-              "source_url": "https://36kr.com/newsflashes/3915063692072326?f=rss",
+              "title": "长鑫科技8月10日将纳入MSCI中国全股票指数",
+              "brief": "明晟公司（MSCI）7月28日公告，因新股上市，长鑫科技将被纳入MSCI中国全股票指数，于8月10日正式生效。此举意味着长鑫科技将获得国际指数基金的被动配置，有助于提升其在全球资本市场的知名度和流动性。",
+              "source_url": "https://36kr.com/newsflashes/3915182825165959?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 16:48:44  +0800"
+              "published_at": "2026-07-28 18:49:55  +0800"
             },
             {
-              "title": "中粮产业投资公司注册资本增至46.03亿元",
-              "brief": "天眼查显示，中粮产业投资有限公司近日发生工商变更，注册资本由30.03亿元增至46.03亿元，增幅约53%。该公司成立于2023年6月，法定代表人为王济学，由中粮集团有限公司全资持股，此次增资或为扩大投资规模。",
-              "source_url": "https://36kr.com/newsflashes/3915050452243591?f=rss",
+              "title": "南京熊猫：公司尚无与脑机接口相关的成熟产品，亦未形成相关销售收入",
+              "brief": "南京熊猫发布异动公告，其股票于7月27日、28日连续两个交易日收盘价涨幅偏离值累计达20%，属异常波动。公司说明主营业务为智慧交通、工业互联网和电子制造，未发生变化，且目前无脑机接口成熟产品或销售收入，相关概念不会对经营产生实质影响。",
+              "source_url": "https://36kr.com/newsflashes/3915164618118535?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 16:41:29  +0800"
+              "published_at": "2026-07-28 18:44:20  +0800"
             },
             {
-              "title": "*ST福成因年报披露错误收证监会警示函",
-              "brief": "*ST福成公告，公司收到证监会河北监管局警示函，因2025年年报中对“和辉基金累计收到钱江陵园及周晓明各类款项2.37亿元”及股东总数披露不准确，公司及董事长兼总经理李良、董事会秘书李伟被出具警示函并记入诚信档案。公司已更正年报错误，并将对相关责任人内部问责。",
-              "source_url": "https://36kr.com/newsflashes/3915049995900293?f=rss",
+              "title": "山西焦煤：三矿井停产，年核定产能合计820万吨",
+              "brief": "山西焦煤公告，所属西曲矿、镇城底矿和马兰矿因采矿许可证和安全生产许可证到期，分别于7月23日和27日停产，三矿年核定产能合计820万吨，占公司总产能17.23%。目前西曲矿、马兰矿采矿许可证已办结，正推进安全生产许可证办理；镇城底矿同步办理两证。",
+              "source_url": "https://36kr.com/newsflashes/3915173483894150?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 16:34:48  +0800"
+              "published_at": "2026-07-28 18:40:25  +0800"
             },
             {
-              "title": "香港证监会谴责六福证券并罚款210万港元",
-              "brief": "香港证监会公告，因网络保安监控措施不足以抵御网络攻击，六福证券（香港）有限公司遭谴责及罚款210万港元。此举旨在警示金融机构加强网络安全防护，避免客户数据泄露和交易风险。",
-              "source_url": "https://36kr.com/newsflashes/3915047491655048?f=rss",
+              "title": "聚辰股份：预计2026年半年度净利润同比增长156.07%",
+              "brief": "聚辰股份公告，预计2026年半年度归母净利润为5.25亿元，同比增长156.07%，主要因参与盛合晶微科创板IPO战略配售产生约4.32亿元非经常性损益，导致公允价值变动收益较大。",
+              "source_url": "https://36kr.com/newsflashes/3915164068910210?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 16:32:15  +0800"
+              "published_at": "2026-07-28 18:39:46  +0800"
             },
             {
-              "title": "百奥泰预计上半年净亏损2.3亿至2.9亿元",
-              "brief": "百奥泰公告，预计2026年上半年归属于母公司所有者的净利润亏损2.30亿元至2.90亿元。亏损主因是研发费用较上年同期增加1.00亿至1.40亿元，同比增长28.67%至40.14%，多个关键临床项目如BAT8006、BAT3306投入较大，费用增长幅度超过营收增长。",
-              "source_url": "https://36kr.com/newsflashes/3915041482167431?f=rss",
+              "title": "7月以来沪市ETF累计净流入2931亿元",
+              "brief": "据证券时报，7月以来沪市ETF累计净流入2931亿元，其中股票ETF净流入2640亿元。科创50ETF净流入533亿元，沪深300ETF净流入341亿元，科创半导体材料设备ETF等科技主题产品及多只宽基ETF净流入均超150亿元，显示资金通过ETF加速入市。",
+              "source_url": "https://36kr.com/newsflashes/3915158532052357?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 16:26:08  +0800"
+              "published_at": "2026-07-28 18:35:00  +0800"
             }
           ]
         }
