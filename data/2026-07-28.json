@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T18:50:46.210915+08:00",
+  "generated_at": "2026-07-28T20:51:59.392006+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果终止iPhone升级计划，推出Klarna支持的租赁服务",
+              "brief": "苹果今日在美国推出名为Apple Upgrade的新租赁计划，覆盖iPhone、iPad、Mac和Apple Watch，取代原有的iPhone升级计划和iPhone分期付款。该计划与Klarna合作，提供12至36个月不等的租赁期，AppleCare+可选且不包含在租金内。以256GB iPhone 17 Pro为例，24个月租期月付31.99美元，12个月租期月付45.99美元。租赁iPhone需选择AT&T、Verizon或T-Mobile的套餐，不支持预付费和MVNO运营商。租期结束后，用户可选择归还设备或付清余款。",
+              "source_url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+              "source_name": "MacRumors",
+              "published_at": "2026-07-28T20:20:10+08:00"
+            },
             {
               "title": "MacBook Ultra OLED触控面板将由三星独家供应",
               "brief": "据韩国媒体The Elec报道，苹果新款MacBook Pro的OLED触控面板将由三星显示独家生产，预计初始供应量为25万块，8月开始量产。报道称，苹果因良率问题未考虑LG Display或京东方。14英寸和16英寸面板将在三星韩国牙山的8.6代OLED线上制造。此前彭博社Mark Gurman透露，支持触控屏的MacBook Pro预计2026年底至2027年初发布，但受芯片短缺影响可能推迟至2027年初。该机型还将搭载M5 Pro/Max芯片、取消刘海并采用更薄设计，可能命名为“MacBook Ultra”，macOS 27将配备触控友好界面。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
               "source_name": "MacRumors",
               "published_at": "2026-07-28T04:10:17+08:00"
-            },
-            {
-              "title": "立即更新：iOS 26.6和macOS Tahoe 26.6修复数百个安全漏洞",
-              "brief": "苹果今日发布了iOS 26.6、iPadOS 26.6和macOS Tahoe 26.6，修复了大量安全漏洞。iOS 26.6和iPadOS 26.6解决了近90个漏洞，涉及App Store、神经网络引擎、内核、WebKit、Wi-Fi、Siri及图像处理等。macOS Tahoe 26.6修复了超过130个漏洞，部分修复也适用于macOS Sequoia 15.7.8和macOS Sonoma 14.8.8。此外，tvOS 26.6、watchOS 26.6和visionOS 26.6也有80多项安全修复。虽然苹果未表明有漏洞已被积极利用，但问题公开后，未更新的设备可能面临风险，建议用户尽快更新。",
-              "source_url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-07-28T02:55:46+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果关闭iPhone升级计划，接下来怎么办",
+              "brief": "苹果宣布停止iPhone升级计划，现有用户在设备符合升级条件时将无法继续通过该计划获得新机。该计划于2015年随iPhone 6s推出，由Citizens One提供分期贷款，用户可在12期后升级或付清24期保留设备。取而代之的Apple Upgrade是租赁服务，由Klarna拥有设备所有权，用户按月支付使用费，到期可选择升级、买断或归还。Apple Care在旧计划中已包含，新计划需单独购买。",
+              "source_url": "https://9to5mac.com/2026/07/28/apple-shuts-down-iphone-upgrade-program-heres-whats-next/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T20:22:35+08:00"
+            },
+            {
+              "title": "Apple Upgrade租赁计划上线，覆盖iPhone、Mac、iPad和Apple Watch",
+              "brief": "苹果推出Apple Upgrade租赁服务，支持iPhone、Apple Watch、Mac和iPad，用户可在租期结束时轻松升级。iPhone和Apple Watch提供12或24个月租期，Mac和iPad提供24或36个月。iPhone 17e月租17.99美元起，Apple Watch Series 11月租11.99美元起。该计划由Klarna管理信用审核和支付，用户需在Klarna应用中管理账单。Apple Care默认不包含，可额外付费添加。",
+              "source_url": "https://9to5mac.com/2026/07/28/apple-upgrade-leasing-program-debuts-how-it-works/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T20:20:00+08:00"
+            },
+            {
+              "title": "Claude聊天记录被谷歌搜索曝光，再次印证苹果隐私策略",
+              "brief": "Anthropic的AI聊天机器人Claude的共享聊天记录被发现在谷歌上可被公开搜索，涉及超过200次对话，其中包含敏感信息如私人对话记录、律师违规自首咨询和加密货币密钥。问题源于Claude的共享功能生成的链接本应仅限知道链接的人访问，但用户发现通过简单的谷歌搜索（site:claude.ai/share）即可获取。Anthropic称共享即公开，但此事暴露了隐私风险。",
+              "source_url": "https://9to5mac.com/2026/07/28/claude-chats-exposed-in-google-searches-another-endorsement-of-apples-privacy-approach/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T20:16:16+08:00"
+            },
+            {
+              "title": "触控屏决策可能推高MacBook Ultra售价",
+              "brief": "苹果计划为MacBook Ultra配备最先进的显示屏，结合串联OLED和触控技术。为保障产能，苹果决定仅从三星采购，因LG的6代线产能效率不足。三星作为独家供应商将拥有更强议价能力，可能推高面板成本，苹果预计会将成本转嫁给消费者，进一步推高MacBook Ultra售价。LG最早要到2029年才可能为这款旗舰MacBook供货。",
+              "source_url": "https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-07-28T19:16:08+08:00"
+            },
+            {
               "title": "Apple @ Work 播客：还记得 Postini 吗？",
               "brief": "本期节目邀请 Sublime Security 的 Luke Wescott 讨论近期激增的利用自动通知、验证、提醒等功能的回调钓鱼攻击。回调钓鱼攻击通过伪造自动通知诱骗用户回拨电话，进而窃取信息。",
               "source_url": "https://9to5mac.com/2026/07/28/apple-work-podcast-remember-postini/",
               "source_name": "9to5Mac",
               "published_at": "2026-07-28T18:00:00+08:00"
-            },
-            {
-              "title": "Security Bite 播客：数据经纪商正在破坏互联网",
-              "brief": "本期节目邀请 Incogni 的 Miguel Fornés 探讨数据经纪商如何悄然构建用户详细档案，包括信息来源、买家以及人工智能时代这一威胁日益加剧的原因。数据经纪商利用 AI 技术收集和出售个人数据，甚至通过虚假表单获取信息。",
-              "source_url": "https://9to5mac.com/2026/07/28/security-bite-podcast-data-brokers-are-breaking-the-internet/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T17:00:00+08:00"
-            },
-            {
-              "title": "LM Studio Bionic 新增对 Moonshot AI 的 Kimi K3 模型的支持",
-              "brief": "LM Studio 近日推出了面向代理任务的新应用 Bionic，支持本地或云端运行开放模型以完成编码、研究及文档处理等复杂工作。云端模型基于美国服务器处理，承诺零数据保留。此前可用模型包括 DeepSeek V4、Pro、GLM-5.2、Kimi K2.6 及 Kimi-K2.7-Code。如今新增的 Kimi K3 被认为是最强大的开放模型之一，拥有 2.8T 参数 MoE 架构和 1M 上下文窗口。在 Bionic 中，Kimi K3 的定价为每百万输入 token 3 美元，缓存输入 0.30 美元，输出 15 美元，相比之前模型的输入价格 0.95-1.74 美元及输出 3.48-4.50 美元有显著提升。",
-              "source_url": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T08:21:34+08:00"
-            },
-            {
-              "title": "T-Mobile网络故障，iPhone显示“SOS”模式",
-              "brief": "美国T-Mobile发生大规模网络故障，大量iPhone用户状态栏显示“SOS”图标，表示设备无蜂窝网络连接。故障始于美东时间下午4点，影响范围广泛，用户无法拨打电话、发送短信和使用数据。Reddit等社交平台出现大量投诉，部分9to5Mac编辑也受到影响。目前T-Mobile尚未回应，其他运营商如Verizon和AT&T运行正常。受影响用户仍可拨打紧急电话。",
-              "source_url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T06:07:46+08:00"
-            },
-            {
-              "title": "三名用户起诉苹果，因虚假钱包应用盗走比特币",
-              "brief": "三名用户起诉苹果，称其App Store上架的虚假Sparrow钱包应用盗走了总计180万美元的加密货币。该应用利用iOS平台没有官方Sparrow Wallet的漏洞，模仿正版应用窃取用户凭证和数字资产。原告指控苹果未能有效审核和监控应用，尽管大力宣传App Store的安全性，但虚假应用在举报后仍未被下架。此前苹果已多次因虚假加密货币应用被起诉，包括Swiftcrypt和Ledger Live等案例。",
-              "source_url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-07-28T05:34:30+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星下一个重大安卓更新：连续13次解锁失败后强制重置手机",
+              "brief": "三星在即将推出的安卓重大更新中引入一项安全变更：当用户连续13次解锁失败后，手机将被强制恢复出厂设置。此举旨在防止暴力破解和未经授权的访问。此前，多次失败通常只会增加等待时间或锁定设备，而新政策将直接清除所有数据，对用户数据安全构成潜在风险。",
+              "source_url": "https://9to5google.com/2026/07/28/samsung-android-17-failed-unlock-attempts-change/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T20:30:00+08:00"
+            },
+            {
+              "title": "这是安卓效率时代的开端吗？",
+              "brief": "谷歌确认Pixel 11将涨价，并透露正“专门”致力于提升安卓系统的内存效率。这一举措旨在应对日益增长的应用内存需求，通过优化内存管理来改善多任务处理和低端设备的性能。谷歌的这项努力可能标志着安卓系统进入更注重效率的新阶段。",
+              "source_url": "https://9to5google.com/2026/07/28/inbox-newsletter-5/",
+              "source_name": "9to5Google",
+              "published_at": "2026-07-28T20:00:00+08:00"
+            },
             {
               "title": "Gemini应用简化思考级别选择器，推出“通知”设置",
               "brief": "Google正在简化Gemini应用中的思考级别选择器，并推出新的“通知”设置。此举旨在提升用户体验，使用户更便捷地调整AI的思考深度。新通知设置允许用户自定义提醒方式，确保及时获取重要信息。这些更新预计将随下一版本推送。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/07/27/the-sideload-040-finding-digital-peace-with-light-phone/",
               "source_name": "9to5Google",
               "published_at": "2026-07-28T05:00:00+08:00"
-            },
-            {
-              "title": "Yale更新智能锁配套应用：新增电池洞察等功能",
-              "brief": "谷歌确认Pixel 11价格上涨，并透露正在'专门'努力使安卓系统更省内存。Yale Access应用获得重大更新，新增电池使用情况洞察、改进的访问管理等功能。关键细节包括用户可查看电池电量历史记录。",
-              "source_url": "https://9to5google.com/2026/07/27/yale-access-app-gets-big-update/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-28T05:00:00+08:00"
-            },
-            {
-              "title": "Galaxy Z Fold 8“开心果”配色已开始售罄",
-              "brief": "三星Galaxy Z Fold 8的“开心果”配色版本已出现售罄迹象。该配色此前未在Fold系列中推出，此次上市后迅速受到市场追捧，供应量可能不足。用户需尽快下单才能确保购买。",
-              "source_url": "https://9to5google.com/2026/07/27/galaxy-z-fold-8-in-pistachio-already-appears-to-be-selling-out/",
-              "source_name": "9to5Google",
-              "published_at": "2026-07-28T03:45:00+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "三星Galaxy Z Fold 8预购超出预期",
+              "brief": "据爆料者称，三星Galaxy Z Fold 8的预购量已超出公司预期。另一消息来源指出，在韩国等市场，Z Fold 8的预购量远超Z Fold 8 Ultra。这款手机采用紧凑设计，配备10:16外屏和4:3折叠内屏，更适合观看视频。由于需求旺盛，三星将产量较Z Fold 8 Ultra增加40%，但仍面临库存短缺，线下渠道可能要到9月初才有货。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-preorders-sales-3691961/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T20:44:12+08:00"
+            },
+            {
+              "title": "亚马逊Leo计划发射超5000颗卫星与Starlink竞争",
+              "brief": "亚马逊已向FCC提交申请，计划发射并运营5105颗低轨卫星，用于其Amazon Leo卫星互联网服务。该系统将提供直接到设备（D2D）连接，兼容内置卫星芯片的智能手机。亚马逊计划今年晚些时候推出初始服务。卫星将分布在五个轨道壳层，以覆盖不同纬度区域，并已与苹果合作，为iPhone和Apple Watch提供紧急卫星服务。",
+              "source_url": "https://www.androidauthority.com/amazon-leo-fcc-filing-satellites-3691911/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T19:15:08+08:00"
+            },
+            {
+              "title": "荣耀机器人手机正式公布：双200MP摄像头与云台防抖",
+              "brief": "荣耀在其相机技术活动中公布了机器人手机的详细规格。该机配备200MP f/1.6云台主摄（1/1.28英寸）和200MP f/2.6潜望长焦（1/1.4英寸），支持六轴防抖、多种视频稳定模式和LOGC3编码。云台硬件可实现三轴稳定和主体追踪，有效提升视频拍摄质量。",
+              "source_url": "https://www.androidauthority.com/honor-robot-phone-camera-specs-3691907/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T18:59:26+08:00"
+            },
+            {
+              "title": "UAG推出救援袋：用吸湿材料快速干燥进水设备",
+              "brief": "UAG与Dryout合作推出救援袋系列，内衬吸湿材料可主动从进水电子设备中抽取水分。根据环境温度和进水程度，恢复时间从2到12小时不等。袋子可通过阳光或热风干燥后重复使用。产品包括手机救援袋（35美元起）、无线耳机袋、笔记本电脑包和背包等。",
+              "source_url": "https://www.androidauthority.com/uag-phone-rescue-pouch-3691921/",
+              "source_name": "Android Authority",
+              "published_at": "2026-07-28T18:57:45+08:00"
+            },
+            {
               "title": "ChatGPT 不再能模仿著名作家风格写作",
               "brief": "OpenAI 悄然更改了 ChatGPT 对模仿著名作家风格请求的回应方式。现在，当用户要求复制某位作家的语气时，AI 会拒绝该请求，并转而提供基于该作家“广泛特质”或流派氛围的原创文本。这一改变正值 OpenAI 面临多起版权诉讼之际。Ars Technica 的测试显示，ChatGPT 拒绝以斯蒂芬·金的“精确风格”写作，但提供了融入“小镇恐惧”的原创场景。对于克里斯托弗·马洛或莎士比亚等已故作家，则没有此限制。",
               "source_url": "https://www.androidauthority.com/chatgpt-author-style-change-3691931/",
               "source_name": "Android Authority",
               "published_at": "2026-07-28T18:37:28+08:00"
-            },
-            {
-              "title": "谷歌 Pixel 手机定价或将上涨",
-              "brief": "2026 年智能手机行业面临零部件涨价压力，多家厂商已提价。谷歌 Pixel 10a 维持原价，但 Pixel 11 预计将涨价，这已得到谷歌高管暗示和数月传闻支持。若 Pixel 11 与 Galaxy S26 价格持平，将面临更激烈竞争，因为谷歌 Tensor 芯片性能不及旗舰骁龙芯片，此前靠低价和软件体验吸引用户。涨价可能削弱 Pixel 的性价比优势。",
-              "source_url": "https://www.androidauthority.com/google-pixel-phone-pricing-taking-turn-for-worse-3691536/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T18:30:53+08:00"
-            },
-            {
-              "title": "一加退出美国市场后，Nothing 会成为下一个吗？",
-              "brief": "一加宣布退出北美和欧洲市场，专注于亚洲。这令美国本已有限的智能手机市场进一步缩小，目前主要玩家仅剩苹果、三星、谷歌、摩托罗拉等。Nothing 作为小众品牌，处境与一加相似：部分机型不在美国销售，且运营商支持不完整。Nothing 能否在美国生存成为疑问，其策略是否足够灵活以维持运营仍待观察。",
-              "source_url": "https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T18:00:19+08:00"
-            },
-            {
-              "title": "Galaxy Z Fold 8 的三个低调升级令人印象深刻",
-              "brief": "三星 Galaxy Z Fold 8 采用更宽的新比例，但还有三个不为人知的升级：几乎不可见的折痕、抗反射显示屏和更易展开的设计。三星重新设计了内部屏幕，采用 Flex Titanium 面板，使折痕大幅减轻；抗反射涂层提升了户外可读性；铰链优化让单手开合更轻松。这些改进在实际体验中比单纯改变比例更令人满意。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-upgrades-no-one-talking-about-3690545/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T17:30:05+08:00"
-            },
-            {
-              "title": "谷歌时钟应用终于支持秒表和计时器的实时更新",
-              "brief": "谷歌时钟应用 v9.0 版本开始支持 Android 的 Live Updates 功能。当用户离开应用后，运行的秒表或计时器会在状态栏、锁屏和息屏显示中实时更新，并可通过点击展开控制。此前仅显示静态图标或简单通知。该功能通过服务器端推送，需等待更新覆盖所有用户。",
-              "source_url": "https://www.androidauthority.com/google-clock-live-updates-stopwatch-timer-3691860/",
-              "source_name": "Android Authority",
-              "published_at": "2026-07-28T17:08:11+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "罗技手持设备计划搁置，G Cloud 2短期内无望",
+              "brief": "罗技新任游戏业务负责人Robin Piispanen表示，虽然认为游戏手持设备很有吸引力，但公司目前不计划推出G Cloud的后续产品。此前罗技G Cloud云游戏手持设备表现不佳，约80%的购买者试用后将其闲置。Piispanen认为当前有更重要的事情要关注，但承认若现在推出，G Cloud可能比2022年发布时更有机会，当时它被功能更强的Steam Deck所掩盖。",
+              "source_url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+              "source_name": "The Verge",
+              "published_at": "2026-07-28T08:31:51-04:00"
+            },
+            {
+              "title": "Perplexity将个人电脑工具扩展至Windows，实现AI代理功能",
+              "brief": "Perplexity将其AI代理工具Personal Computer扩展至Windows系统，使用户的Windows PC可作为本地AI系统运行，访问本地文件和应用程序，执行创建文档、更新电子表格等操作。该工具此前已支持Mac，并在5月集成了Microsoft 365和Teams。Perplexity表示，Windows版本旨在填补最后空白，直接在Windows环境中运行，实现跨本地文件、Office 365和网络的一站式操作。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+              "source_name": "The Verge",
+              "published_at": "2026-07-28T08:30:00-04:00"
+            },
+            {
+              "title": "苹果推出“升级”租赁计划，提供设备租用服务",
+              "brief": "苹果正式推出名为“Apple Upgrade”的租赁计划，允许用户租用最新iPhone、Mac、iPad和Apple Watch。该服务类似汽车租赁，用户可在租期结束后保留设备、提前付清或升级到新款。该计划在美国上线，正值苹果因存储和内存短缺上调MacBook、iPad等设备价格之后。虽然iPhone未涨价，但苹果CEO蒂姆·库克上月警告称情况不可持续。",
+              "source_url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+              "source_name": "The Verge",
+              "published_at": "2026-07-28T08:23:50-04:00"
+            },
+            {
+              "title": "智能戒指正成为我心目中理想的AI设备",
+              "brief": "作者认为，在智能眼镜、AI别针等设备竞争激烈的背景下，智能戒指因其低调特性可能成为最佳AI交互设备。他测试了多种语音输入应用，但一次关于智能戒指的演示让他印象深刻：戒指通过语音和简单手势，无需屏幕即可完成复杂任务。作者指出，大型语言模型推动了语音识别进步，而戒指作为始终佩戴的传感器，有望成为自然而持续的交互入口。",
+              "source_url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+              "source_name": "The Verge",
+              "published_at": "2026-07-28T08:00:00-04:00"
+            },
+            {
               "title": "Hugging Face 被用于轻易制作女性及儿童不雅深度伪造",
               "brief": "欧洲非营利组织 AI Forensics 的报告指出，流行的开源 AI 模型库 Hugging Face 上托管的图像编辑模型，有七分之九在简单提示下即可生成脱衣深度伪造，且平台几乎没有防护措施。这些模型缺乏对色情提示的屏蔽，而主流模型如 Gemini 和 ChatGPT 已设有防护。报告未尝试绕过任何安全机制。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
               "source_name": "The Verge",
               "published_at": "2026-07-28T05:07:14-04:00"
-            },
-            {
-              "title": "X Money 今日在美国上线",
-              "brief": "埃隆·马斯克的支付平台 X Money 今日向美国用户推出，首先面向 X Premium 和 Premium Plus 订阅者。该平台提供数字钱包和个人对个人支付功能，类似 Venmo，并附带一张金属 Visa 卡，用户可印上自己的 X 用户名。其他功能包括支持 Apple Wallet 和免费转账。Premium Plus 用户可享受最高 6% 的年化收益率，而标准 Premium 用户需存入一定金额才能获得“提升”后的 6% 年化收益。此前 X Money 仅限邀请测试，此次公开发布距离马斯克宣布“早期公开访问”将在 4 月启动仅数月。",
-              "source_url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T18:10:18-04:00"
-            },
-            {
-              "title": "雷蛇模拟光轴 Huntsman V3 Pro 键盘降价超 20%",
-              "brief": "雷蛇 Huntsman V3 Pro 键盘目前享受超过 20% 的折扣。该键盘采用模拟光轴技术，可调节触发点，适合游戏和打字。具体价格和优惠细节请查看原文。",
-              "source_url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T17:29:22-04:00"
-            },
-            {
-              "title": "Xbox大规模宕机，甚至影响光盘游戏",
-              "brief": "自周日晚间开始的Xbox宕机不仅导致数字游戏无法游玩，还阻碍了用户运行光盘游戏。微软状态页面最初于美国东部时间周日晚11点左右报告故障，用户无法登录、启动应用或访问商店。社交媒体证实，光盘游戏也受影响。同事尝试启动Game Pass游戏时遇到错误代码0x87e107df，显示许可证无法验证。目前状态页面表示数字和向下兼容游戏可能仍有问题，但光盘游戏应已恢复。",
-              "source_url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T15:53:50-04:00"
-            },
-            {
-              "title": "Nanoleaf彩色洞洞板及搁架套件半价促销",
-              "brief": "Nanoleaf Blocks Combo XL Smarter Kit是一款集彩色智能照明面板、低剖面搁架和洞洞板于一体的墙面套件，可悬挂耳机、笔记本等物品，并显示自定义色彩。目前该套件在Nanoleaf官网售价99.99美元，为历史最低价。套件包含九个LED面板，搁架承重6.6磅，洞洞板承重3.3磅，适合收纳耳机、控制器、平板等。",
-              "source_url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-07-27T15:24:55-04:00"
             }
           ]
         }
@@ -254,45 +254,52 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《塞尔达传说》真人电影林克演员谈电影：说他太年轻，没赶上《旷野之息》首发",
+              "brief": "在《塞尔达传说》真人电影中饰演林克的演员汤姆·安斯沃思透露，当《旷野之息》2017年发售时他只有8岁，没有Switch，只能看别人玩。现年17岁的他回忆当时记忆犹新，但未能亲自体验这款游戏。",
+              "source_url": "https://www.ign.com/articles/live-action-link-actor-discusses-the-legend-of-zelda-movie-says-he-was-too-young-to-play-breath-of-the-wild-when-it-launched",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T17:41:23+08:00"
+            },
+            {
+              "title": "Square Enix开发者Yoshi-P称《最终幻想6、8、9》重制版可能需分四至五部推出",
+              "brief": "在《最终幻想7》重制版开发者访谈中，吉田直树表示如果重制《最终幻想6》《8》《9》，由于游戏规模庞大，可能需要分四到五部发售。他强调理解粉丝期待，但重制工作极其艰巨，此言可能降低了粉丝对完整重制的期望。",
+              "source_url": "https://www.ign.com/articles/square-enix-dev-yoshi-p-says-final-fantasy-6-8-and-9-remakes-would-probably-have-to-be-released-in-four-or-even-five-installments",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T17:31:13+08:00"
+            },
+            {
+              "title": "亨利·卡维尔的《战锤40K》电影宇宙迎来重大进展：Games Workshop宣布与亚马逊合作新细节",
+              "brief": "Games Workshop在财报中透露，亚马逊已为《战锤40K》影视项目引入联美公司和编剧迈克·弗拉纳根，完成初步大纲后将进入剧本阶段。亨利·卡维尔仍参与其中。弗拉纳根以恐怖题材闻名，暗示该系列可能偏向恐怖风格，但具体是电影还是剧集尚未确定。",
+              "source_url": "https://www.ign.com/articles/henry-cavills-warhammer-40000-cinematic-universe-finally-gets-a-meaningful-update-as-games-workshop-makes-significant-amazon-announcements",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T16:55:03+08:00"
+            },
+            {
+              "title": "距离《蜘蛛侠：崭新的一天》上映仅数小时，瑞安·雷诺兹称其新黑白死侍战服颜色实为“琴·格雷”",
+              "brief": "瑞安·雷诺兹在社交媒体上声称，他在漫威SDCC上展示的新灰色死侍战服颜色名为“琴·格雷”，并附上色号9-1963（致敬《X战警》首期出版日期）。这引发对萨迪·辛克在《蜘蛛侠：崭新的一天》中饰演角色身份的猜测，但该颜色并非真实潘通色，可能是死侍式的玩笑。",
+              "source_url": "https://www.ign.com/articles/with-just-hours-to-go-until-spider-man-brand-new-day-ryan-reynolds-says-his-new-monochrome-deadpool-suit-is-actually-colored-jean-grey",
+              "source_name": "IGN",
+              "published_at": "2026-07-28T16:54:48+08:00"
+            },
+            {
               "title": "Xbox高管解释服务中断原因，承诺“做得更好”",
               "brief": "Xbox首席技术官Van Vliet就上周日晚间至周一的长时间服务中断发表声明，称问题源于微软内部一个跨多产品的授权服务故障，导致玩家登录、游戏启动及库列表等功能受影响。他表示团队已通过自动监控发现并转移流量，但恢复因地区而异。Xbox将进行全面的故障复盘，重点在于防止单点故障再次影响用户体验，并改善沟通透明度。",
               "source_url": "https://www.ign.com/articles/xbox-executive-explains-outage-vows-to-do-better",
               "source_name": "IGN",
               "published_at": "2026-07-28T09:05:05+08:00"
-            },
-            {
-              "title": "《蜘蛛侠：崭新的一天》预计成为2026年开画票房最高影片",
-              "brief": "据票房预测，《蜘蛛侠：崭新的一天》北美首周末票房有望达1.8亿至2.5亿美元，轻松超越《玩具总动员5》的1.59亿美元，成为年度开画冠军。全球首周可能冲击8亿美元，仅次于《复仇者联盟4：终局之战》。尽管《奥德赛》仍在IMAX银幕上分流部分票房，但蜘蛛侠凭借其他大格式银幕仍将占据主导。",
-              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T07:31:39+08:00"
-            },
-            {
-              "title": "《复仇者联盟：秘密战争》是2027年唯一一部MCU电影，凯文·费奇承诺质量优先",
-              "brief": "漫威影业在2026年圣地亚哥国际漫画展上确认，2027年仅有一部MCU电影《复仇者联盟：秘密战争》上映，此前2026年12月《复仇者联盟：末日》之后将出现长达12个月的空白期。凯文·费奇在接受《帝国》杂志采访时解释，这是为了专注质量，避免因数量过多而分散精力。漫威此前已宣布放缓发行节奏，每年仅推出两到三部电影和两部剧集。",
-              "source_url": "https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T07:07:06+08:00"
-            },
-            {
-              "title": "《使命召唤：黑色行动》粉丝在发行15年后发现被删减的僵尸模式内容",
-              "brief": "玩家在《黑色行动1》的PS4移植版中发现了一个未完成的塔防僵尸模式，并上传了游戏视频。该模式允许玩家放置炮塔阻止僵尸前进，并可从俯视角度或第一人称视角进行游戏。分析认为，该模式可能被废弃，转而支持了原版游戏中的隐藏模式“Dead Ops Arcade”，后者后来成为经典并多次回归。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T06:59:47+08:00"
-            },
-            {
-              "title": "育碧向部分Xbox游戏持有者免费提供PC版",
-              "brief": "育碧宣布，即日起至8月4日，在Xbox上拥有《刺客信条：幻景》《孤岛惊魂6》等13款指定游戏的玩家，可通过Ubisoft Connect免费获得PC版，前提是账号已关联。此外，育碧还将多款游戏的高级版加入了Xbox PC应用。此举被视为Xbox向PC平台倾斜的举措之一，此前Xbox已推出初代Xbox兼容游戏PC版，并传闻将允许玩家数字化实体游戏库。",
-              "source_url": "https://www.ign.com/articles/ubisoft-gives-free-pc-copies-to-xbox-owners-of-select-games",
-              "source_name": "IGN",
-              "published_at": "2026-07-28T06:04:02+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "人类能在十周内学会回声定位",
+              "brief": "研究人员在《Cerebral Cortex》期刊上发表后续研究，表明人类通过发出滴答声可以在十周内学会回声定位。26名参与者接受了10周训练，脑部扫描显示盲人和视力正常者的初级视觉皮层对声音回声的敏感性均得到提升，证明大脑适应能力很强。",
+              "source_url": "https://www.solidot.org/story?sid=84944",
+              "source_name": "Solidot",
+              "published_at": "2026-07-28T18:33:03+08:00"
+            },
             {
               "title": "梦并不随机，大脑在改写现实",
               "brief": "根据发表在《Communications Psychology》上的一项研究，梦境并非随机，而是受个性、睡眠质量、思维习惯及重大事件（如新冠疫情）等综合影响。研究分析了287位18-70岁参与者提供的3700多份梦境和清醒经历描述，发现清醒时容易走神的人梦境变化更快、更碎片化，而重视梦境意义的人则体验更丰富、感知细节更生动。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=84940",
               "source_name": "Solidot",
               "published_at": "2026-07-28T14:25:45+08:00"
-            },
-            {
-              "title": "新一轮厄尔尼诺气候持续增强",
-              "brief": "科学家表示，太平洋上持续增强的厄尔尼诺有望成为150年来最强的一次。若预测成真，厄尔尼诺释放大量热量加上人为气候变化，可能使2027年成为有记录以来最热的一年，全球多地出现极端天气。伯克利地球预测，2027年全球平均气温较工业化前升高1.7摄氏度并非没有可能。此次厄尔尼诺距离上一轮仅两年，可能意味着气候变化驱动ENSO周期发生系统性转变。",
-              "source_url": "https://www.solidot.org/story?sid=84939",
-              "source_name": "Solidot",
-              "published_at": "2026-07-28T14:09:17+08:00"
             }
           ]
         },
@@ -360,6 +360,20 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "奥特曼预言：AI将像“神灯精灵”一样实现人类愿望",
+              "brief": "OpenAI首席执行官山姆·奥特曼在采访中提出，AI正接近成为能实现任何愿望的“神灯精灵”，但强调首个愿望应对全人类有益。这并非指AI能实现所有愿望，而是对高度智能AI的比喻。目前生成式AI主要作为智能助手，奥特曼描述的是一种终极愿景，何时实现仍是未知。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570684.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-28T20:45:55+08:00"
+            },
+            {
+              "title": "英伟达出资500亿美元租赁得州数据中心 将采用其芯片",
+              "brief": "英伟达与Hut 8签署15年期租赁合约，价值196亿美元，若行使续租选择权，30年总规模最高达500亿美元，用于租赁得州Beacon Point数据中心，该中心将基于英伟达DSX架构建设。此举旨在保障自家芯片部署，并可能将算力转租给合作伙伴。英伟达还正洽谈为OpenAI提供2500亿美元资金担保。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1570682.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-07-28T20:45:21+08:00"
+            },
+            {
               "title": "央视起底“AI脱衣”黑色产业链，普通生活照被生成不雅照",
               "brief": "央视起底“AI脱衣”黑色产业链，揭露不法分子利用开源AI模型训练脱衣模块，通过社交平台和境外群组以付费教程形式出售软件，截至2025年6月已有数千人购买。该软件可几秒生成虚假裸照，下游衍生出代加工、敲诈勒索等犯罪。北京海淀检察院已对嫌疑人张某提起公诉，其获利超10万元。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1570680.htm",
@@ -379,20 +393,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1570676.htm",
               "source_name": "cnBeta",
               "published_at": "2026-07-28T18:38:23+08:00"
-            },
-            {
-              "title": "地球首批复杂生物化石或为探寻外星生命提供关键线索",
-              "brief": "科学家通过研究古老真核生物微化石，探索地球首批复杂生命的演化。真核生物约16亿年前出现，但化石记录严重不足。团队在挪威斯瓦尔巴群岛和澳大利亚等地寻找保存于黏土沉积层中的微化石，这些研究最初受地外生命探索启发，有助于评估宇宙中生命存在的可能性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1570674.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-28T18:35:54+08:00"
-            },
-            {
-              "title": "天文学家发现环绕银河系中央黑洞 以光速8%疾驰的恒星",
-              "brief": "天文学家发现恒星S301以8%光速绕银河系中心黑洞人马座A*公转，周期仅8.7年，为已知最短。其轨道近日点进动达每圈2度，远超水星效应，可用于检验广义相对论及替代理论。未来巨型望远镜有望捕捉其二阶相对论效应，为量子引力研究提供线索。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1570672.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-07-28T18:31:58+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "阿里云灵骏真武M890超节点实例现已支持月之暗面Kimi K3大模型",
-              "brief": "阿里云灵骏真武M890超节点实例基于平头哥真武M890 AI芯片打造，通过ICN Switch 1.0互联芯片实现64张M890的800 GB/s高速互联，显存规模达9TB。该实例现已支持月之暗面2.8万亿参数MoE架构的Kimi K3大模型，实现Day0适配。真武芯片的T-Head SAIL软件栈让Kimi自研Mooncake推理框架可“开箱即跑”，M890的Triton支持也降低了自定义算子的适配工作量。",
-              "source_url": "https://www.ithome.com/0/982/734.htm",
+              "title": "广汽埃安全新车系“Ray”登场，首款车型命名 Ray 7",
+              "brief": "广汽埃安推出全新车系“Ray”，首款车型命名为 Ray 7。该车搭载宁德时代电池，采用弹匣电池安全技术，并配备行业领先的整车能量管理系统。此外，车辆拥有超级底盘，全球首搭芯片级驱制融合架构，以及 L4 级同源算法激光雷达辅助驾驶系统。",
+              "source_url": "https://www.ithome.com/0/982/753.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T18:40:53+08:00"
+              "published_at": "2026-07-28T20:42:25+08:00"
             },
             {
-              "title": "OPPO PYE110手机入网：配备7820mAh大容量电池，预估为A7系列成员",
-              "brief": "OPPO一款型号为PYE110的新机通过工信部入网审核，配备7820mAh大容量电池，支持双卡双待。该机支持GSM、WCDMA、LTE FDD、TD-LTE、NR SA网络，覆盖主流5G/4G频段，支持VoLTE和VoNR高清语音通话及5G消息。连接方面支持USB、蓝牙和红外，但不支持存储扩展、HDMI输出和收音机。该机预计为OPPO A7系列成员。",
-              "source_url": "https://www.ithome.com/0/982/273.htm",
+              "title": "KTC 推出“棱镜 Q27 Pro”27 英寸显示器：2K 320Hz，1219 元",
+              "brief": "KTC 发布“棱镜 Q27 Pro”27 英寸显示器，分辨率为 2K，刷新率 320Hz，售价 1219 元。该显示器采用 Fast IPS 面板，响应速度 0.5ms，SDR 亮度 550 尼特，对比度 1000:1，支持 10-Bit 色彩（8-Bit + FRC）。支架支持升降、倾斜、旋转，并提供 2 个 DP 1.4、2 个 HDMI 2.1 和 1 个 3.5mm 音频接口。",
+              "source_url": "https://www.ithome.com/0/982/752.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T18:39:50+08:00"
+              "published_at": "2026-07-28T20:40:54+08:00"
             },
             {
-              "title": "QQ鸿蒙版App获9.2.50新版本邀测升级，新增支持QQ文件闪传发送等功能",
-              "brief": "QQ鸿蒙版App迎来9.2.50版本邀测升级，新增QQ文件闪传发送、账号关联、面对面添加好友、隐藏会话、群头衔与标识等多项功能。个人资料卡体验优化，新增设置输入状态可见、主题、消息气泡、个性头像等能力，并增强频道帖子管理。目前QQ鸿蒙版安装量已突破4538万，支持单聊、群聊、音视频通话、红包、空间动态、短视频等功能。",
-              "source_url": "https://www.ithome.com/0/982/733.htm",
+              "title": "大众公布激进“瘦身”计划：缩减车型、精简零部件、下调全球产能",
+              "brief": "大众集团宣布一项大规模成本削减计划，包括将车型阵容削减最多 50%，零部件种类减少 75%，并降低全球产能。具体措施包括：前大灯零部件种类减少 60%，前保险杠零件数量减半，座椅主要模块种类减少 30%。高端品牌如奥迪、宾利等也将精简座椅组件和方向盘选择。同时，大众已关闭比利时布鲁塞尔工厂，并正在削减德国六座工厂及中国两座工厂的产能，目标将年产能从 1200 万辆降至 900 万辆。",
+              "source_url": "https://www.ithome.com/0/982/751.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T18:35:58+08:00"
+              "published_at": "2026-07-28T20:38:37+08:00"
             },
             {
-              "title": "可口可乐旗下超滤牛奶业务Fairlife遭黑客攻击后，美国4座工厂现已恢复大部分生产",
-              "brief": "可口可乐旗下超滤牛奶品牌Fairlife此前遭勒索组织Anubis攻击，对方声称窃取约1TB数据。可口可乐表示，美国4座工厂的大部分生产业务已恢复，零售供应未受明显影响，产品质量和食品安全无虞。公司正在推进系统恢复，预计该事件不会对财务状况造成重大影响。",
-              "source_url": "https://www.ithome.com/0/982/732.htm",
+              "title": "国产战术 RPG《黄昏远征军》上架 Steam 抢先体验，国区售价 68.4 元",
+              "brief": "国产战术角色扮演游戏《黄昏远征军》在 Steam 开启抢先体验，国区售价 68.4 元，首发折扣持续至 8 月 10 日。该游戏为回合制战棋玩法，玩家扮演铁匠索伦，在灰烬中集结同盟，对抗圣战团和魔物，需注意角色理智值。游戏支持简体中文，完整适配 Xbox 控制器，并已加入 2026 TurnBasedThursday Fest 官方精选名单，获得西班牙 Dreamhack 2026 最佳独立游戏奖项提名。",
+              "source_url": "https://www.ithome.com/0/982/265.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T18:35:13+08:00"
+              "published_at": "2026-07-28T20:28:42+08:00"
             },
             {
-              "title": "潜伏9年的Linux内核高危漏洞RefluXFS曝光：源于XFS文件系统设计缺陷，超1600万台设备面临风险",
-              "brief": "Qualys披露编号CVE-2026-64600的Linux内核高危漏洞RefluXFS，源于XFS文件系统写时复制机制中的竞争条件。攻击者可利用该漏洞在启用reflink功能的XFS分区中修改任意可读文件，实现本地权限提升获取Root权限。该漏洞无法被现有内存保护机制防御，影响所有启用XFS reflink的Linux发行版，全球超1640万台主机面临风险。Linux内核团队已发布修复补丁。",
-              "source_url": "https://www.ithome.com/0/982/729.htm",
+              "title": "Steam 客户端更新发布：修复启动弹窗与本地游戏传输问题",
+              "brief": "Steam 桌面客户端发布正式更新，修复了启动时自动弹出用户选择器界面、使用 -silent 参数仍弹出登录对话框，以及本地游戏传输功能无法正常使用的问题。该更新已全量推送到 Stable 正式通道，所有桌面端用户可通过自动更新获取。",
+              "source_url": "https://www.ithome.com/0/982/286.htm",
               "source_name": "IT之家",
-              "published_at": "2026-07-28T18:29:41+08:00"
+              "published_at": "2026-07-28T20:25:46+08:00"
             }
           ]
         },
@@ -480,39 +480,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "长鑫科技8月10日将纳入MSCI中国全股票指数",
-              "brief": "明晟公司（MSCI）7月28日公告，因新股上市，长鑫科技将被纳入MSCI中国全股票指数，于8月10日正式生效。此举意味着长鑫科技将获得国际指数基金的被动配置，有助于提升其在全球资本市场的知名度和流动性。",
-              "source_url": "https://36kr.com/newsflashes/3915182825165959?f=rss",
+              "title": "美股大型科技股盘前涨跌不一，康宁跌超17%",
+              "brief": "美股大型科技股在盘前交易中表现分化，康宁股价大跌超17%，闪迪和美光科技跌超6%，英特尔跌超4%，特斯拉和英伟达小幅下跌；微软、Meta涨超1%，亚马逊、苹果、谷歌小幅上涨。市场情绪受个股业绩或行业消息影响。",
+              "source_url": "https://36kr.com/newsflashes/3915301377682817?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 18:49:55  +0800"
+              "published_at": "2026-07-28 20:50:31  +0800"
             },
             {
-              "title": "南京熊猫：公司尚无与脑机接口相关的成熟产品，亦未形成相关销售收入",
-              "brief": "南京熊猫发布异动公告，其股票于7月27日、28日连续两个交易日收盘价涨幅偏离值累计达20%，属异常波动。公司说明主营业务为智慧交通、工业互联网和电子制造，未发生变化，且目前无脑机接口成熟产品或销售收入，相关概念不会对经营产生实质影响。",
-              "source_url": "https://36kr.com/newsflashes/3915164618118535?f=rss",
+              "title": "五粮液：肖浩辞任董事",
+              "brief": "五粮液公告称，公司董事会收到董事肖浩的书面辞职报告，其因工作变动辞去第七届董事会董事及战略委员会委员职务，原定任期至本届董事会届满。辞职后肖浩不再担任公司及控股子公司任何职务，且未持有公司股份。",
+              "source_url": "https://36kr.com/newsflashes/3915296768257672?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 18:44:20  +0800"
+              "published_at": "2026-07-28 20:45:50  +0800"
             },
             {
-              "title": "山西焦煤：三矿井停产，年核定产能合计820万吨",
-              "brief": "山西焦煤公告，所属西曲矿、镇城底矿和马兰矿因采矿许可证和安全生产许可证到期，分别于7月23日和27日停产，三矿年核定产能合计820万吨，占公司总产能17.23%。目前西曲矿、马兰矿采矿许可证已办结，正推进安全生产许可证办理；镇城底矿同步办理两证。",
-              "source_url": "https://36kr.com/newsflashes/3915173483894150?f=rss",
+              "title": "“TabTin”完成6000万元天使轮融资",
+              "brief": "上海摹范科技有限公司旗下的人和Agent协作平台“TabTin”完成6000万元天使轮融资，由字节跳动早期天使投资人领投，源洋资本担任独家财务顾问。本轮资金将用于深化人机协作体验、完善原生工作应用并拓展企业客户。",
+              "source_url": "https://36kr.com/newsflashes/3915291894836611?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 18:40:25  +0800"
+              "published_at": "2026-07-28 20:40:52  +0800"
             },
             {
-              "title": "聚辰股份：预计2026年半年度净利润同比增长156.07%",
-              "brief": "聚辰股份公告，预计2026年半年度归母净利润为5.25亿元，同比增长156.07%，主要因参与盛合晶微科创板IPO战略配售产生约4.32亿元非经常性损益，导致公允价值变动收益较大。",
-              "source_url": "https://36kr.com/newsflashes/3915164068910210?f=rss",
+              "title": "苹果公司在美国推出设备升级租赁计划，iPhone每月租金17.99美元起",
+              "brief": "苹果公司在美国推出设备升级租赁计划，iPhone每月租金17.99美元起，Apple Watch每月11.99美元起，iPhone和Watch可享受12至24个月租赁，Mac和iPad可享受24至36个月租赁。该计划旨在降低用户获取最新设备的门槛。",
+              "source_url": "https://36kr.com/newsflashes/3915270764850565?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 18:39:46  +0800"
+              "published_at": "2026-07-28 20:34:33  +0800"
             },
             {
-              "title": "7月以来沪市ETF累计净流入2931亿元",
-              "brief": "据证券时报，7月以来沪市ETF累计净流入2931亿元，其中股票ETF净流入2640亿元。科创50ETF净流入533亿元，沪深300ETF净流入341亿元，科创半导体材料设备ETF等科技主题产品及多只宽基ETF净流入均超150亿元，显示资金通过ETF加速入市。",
-              "source_url": "https://36kr.com/newsflashes/3915158532052357?f=rss",
+              "title": "代表称OPEC+拟9月完成最后一次增产后暂停上调配额",
+              "brief": "两位OPEC+代表透露，该组织计划在9月完成最后一次增产（18.8万桶/日）后暂停石油产量配额上调，以评估伊朗战争对全球原油供应的影响。目前计划在8月2日的视频会议上批准该协议，但未来可能根据形势调整。",
+              "source_url": "https://36kr.com/newsflashes/3915271232351618?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-07-28 18:35:00  +0800"
+              "published_at": "2026-07-28 20:30:47  +0800"
             }
           ]
         }
