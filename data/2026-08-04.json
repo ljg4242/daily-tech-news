@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T02:51:05.953314+08:00",
+  "generated_at": "2026-08-04T04:50:32.637976+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Fitbit数据终于可以同步到Apple Health",
+              "brief": "谷歌健康应用iOS版最新更新允许将谷歌健康数据同步到Apple Health。该应用用于收集Fitbit追踪器和Pixel Watch等可穿戴设备的数据。用户可以将运动记录、睡眠、生命体征、步数等从谷歌健康共享到Apple Health。此前Fitbit设备无法原生同步到Apple Health，用户需借助第三方工具。现在通过更新，在连接中选择应用和服务，添加Apple Health即可启用同步。部分数据如HRV无法传输。谷歌健康应用5.05版已在App Store免费提供，还新增了智能健康链接，用于与医疗服务提供者或家人共享医疗记录。",
+              "source_url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-04T04:00:08+08:00"
+            },
+            {
+              "title": "Apple Pay在菲律宾推出",
+              "brief": "Apple Pay今日扩展至菲律宾，iPhone和Apple Watch用户可将支持的借记卡和信用卡添加到钱包应用进行非接触支付。用户可通过打开钱包应用并点击“+”按钮添加卡片。据Reddit用户称，支持的银行包括UnionBank、GoTyme、Metrobank和Chinabank。卡片通过短信或电话验证。添加后可在支持Apple Pay的零售店使用。Reddit用户已成功在星巴克和7-Eleven等商店使用Apple Pay购物。Apple Pay已在全球多个国家可用，菲律宾尚未列入苹果官网，但苹果应很快公布完整参与银行列表。",
+              "source_url": "https://www.macrumors.com/2026/08/03/apple-pay-philippines/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-04T03:14:49+08:00"
+            },
             {
               "title": "苹果 iCloud 文件共享导致前员工仍可访问机密文件",
               "brief": "据 The Information 报道，苹果公司将工作与个人 iCloud 账户结合的方式，导致部分员工离职后仍能访问机密文件。超过六名前员工透露，他们在职期间被共享的许多苹果文件（包括产品发布活动的规划文件）在离职后仍持续同步到个人设备上，甚至还能收到更新通知。有些前员工因害怕引起苹果注意而不敢删除这些文件。苹果鼓励员工使用个人 Apple 账户与工作 iCloud 账户合并，并提供 2TB 存储空间，但只有主账户可登录，多数人选择使用现有账户。苹果虽设有工作文件管理文件夹，但并非所有内部文件都会自动保存，共享文件常与个人内容混在一起。员工还能保留对 iMessage 聊天和通过信息应用共享的文件的访问权限。苹果在针对 OpenAI 的诉讼中称，前员工张亮利用罕见身份验证漏洞下载文件，但苹果表示此诉讼与 iCloud 上遗留的文件无关。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/03/apple-legal-challenge-against-uk-demand/",
               "source_name": "MacRumors",
               "published_at": "2026-08-03T23:34:16+08:00"
-            },
-            {
-              "title": "2026年联盟杯在Apple TV开赛",
-              "brief": "苹果今日强调明日开赛的联盟杯，该赛事由美国职业足球大联盟和墨西哥足球超级联赛球队参加，全部62场比赛可在Apple TV上免费观看，覆盖100多个国家和地区。赛事包括18支MLS球队和全部18支Liga MX球队，前三名将获得2027年中北美及加勒比海冠军杯资格。冠军将直接进入冠军杯16强。",
-              "source_url": "https://www.macrumors.com/2026/08/03/leagues-cup-2026-apple-tv/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-03T23:27:58+08:00"
-            },
-            {
-              "title": "苹果智能眼镜或成下一个健康设备",
-              "brief": "据彭博社马克·古尔曼报道，苹果希望未来的眼镜和头显能兼作健康和健身设备。这一雄心源于Vision Pro早期开发，曾考虑健身+等功能但因技术限制和重量问题搁置。现在苹果将这一目标转向智能眼镜，可能通过嵌入传感器捕捉运动数据，类似AirPods转型助听器。不过健康功能不会在明年首发时出现，而是逐步推出。",
-              "source_url": "https://www.macrumors.com/2026/08/03/apple-smart-glasses-could-become-health-device/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-03T22:54:19+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "9to5Mac 每日：2026年8月3日 – 苹果第三季度财报",
-              "brief": "本期节目讨论苹果2026财年第三季度财报，营收1094亿美元，同比增长16%，但股价开盘下跌约10%。苹果警告下季度供应限制将“显著”增加。库克最后一次以CEO身份出席财报电话会议，确认Ternus将接任。此外，App Store监管变化开始影响服务增长，苹果最新收购对产品路线图意义重大。",
-              "source_url": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
+              "title": "iOS 27 照片应用新增“由我拍摄”功能，补齐相机胶卷缺口",
+              "brief": "苹果在 iOS 27 的照片应用中新增了“由我拍摄”集合，仅显示通过相机应用拍摄的照片和视频，不含截图、他人分享或保存的媒体。这一功能填补了用户长期以来对专属相机胶卷的需求。用户可在照片图库中使用“由我拍摄”过滤器。该功能旨在提供更纯粹的拍摄内容视图，方便用户快速找到自己拍摄的媒体。",
+              "source_url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-04T02:47:40+08:00"
+              "published_at": "2026-08-04T04:44:15+08:00"
             },
             {
-              "title": "维基百科iOS版新增趣味主屏幕小组件",
-              "brief": "维基百科iOS应用更新引入了随机文章小组件，适用于iPhone和iPad主屏幕，提供小号和中号两种尺寸，并带有友好吉祥物。点击小组件可打开随机维基百科文章，并进入随机模式，无需离开应用即可继续点击随机按钮探索。今年夏天早些时候，维基百科应用还增加了历史知识问答游戏。",
-              "source_url": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
+              "title": "苹果在印度的合同制造税收优惠或延长至 2041 年",
+              "brief": "据报道，印度正计划将针对合同制造商的税收豁免延长至 2041 年，该豁免原定于 2031 年到期。此举旨在吸引手机、平板、笔记本电脑等电子设备制造商，在海关保税区设厂，促进出口。苹果曾大力游说印度政府，该政策对苹果扩大在印制造、减少对中国的依赖意义重大。此外，印度近期还取消了部分智能手机零部件的进口关税。",
+              "source_url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-04T02:38:47+08:00"
+              "published_at": "2026-08-04T04:30:51+08:00"
             },
             {
-              "title": "据报道，Disney+可能很快推出免费层级",
-              "brief": "据Business Insider报道，迪士尼和派拉蒙正在探索为其流媒体服务增加免费层级，以扩大受众、增加广告收入并吸引新用户。Netflix联合CEO Greg Peters表示免费提供在某些市场可能合理。迪士尼首席产品与技术官Adam Smith在内部会议上提及免费内容。此举旨在消除付费墙障碍，扩大覆盖范围，并促进付费订阅转化。",
-              "source_url": "https://9to5mac.com/2026/08/03/disney-might-soon-launch-free-tier-for-users-per-report/",
+              "title": "约翰·特努斯聘请退休硬件副总裁，为 CEO 交接做准备",
+              "brief": "据彭博社报道，即将接任苹果 CEO 的约翰·特努斯已聘请退休多年的硬件工程副总裁劳拉·莱格罗斯加入其管理团队。莱格罗斯将于 2022 年退休，此前负责产品交付、开发进度和工程团队协调。她将直接向特努斯汇报，并在 9 月 1 日 CEO 交接后担任副总裁，跨部门协作。此举是苹果内部为库克向特努斯过渡所做的准备之一。",
+              "source_url": "https://9to5mac.com/2026/08/03/john-ternus-recruits-key-apple-hardware-vp-out-of-retirement-ahead-of-ceo-transition/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-04T01:56:07+08:00"
+              "published_at": "2026-08-04T04:30:32+08:00"
             },
             {
-              "title": "苹果推出改版后的“Apple配件”购物体验",
-              "brief": "苹果上周更新了Apple配件网页和应用，采用更现代的设计，新增“学生生活”、“强力精选”、“新鲜色彩”、“旅行准备”、“居家办公”等类别，并提供基于购物袋的推荐、按产品类别浏览、改进的筛选和搜索功能，以及在线聊天支持。用户可轻松查看苹果及第三方配件。",
-              "source_url": "https://9to5mac.com/2026/08/03/apple-launches-revamped-apple-accessories-shopping-experience/",
+              "title": "WhatsApp Mac 版测试灵活更新计划",
+              "brief": "据 WABetaInfo 报道，WhatsApp 正在 Mac 版测试新的“保持最新”设置，允许用户选择自动更新频率：最新版（更频繁更新，包含新功能）或稳定周版（更新较少，更稳定）。该功能旨在让用户根据需求平衡新功能与稳定性。目前该功能正在逐步推出，并非所有测试用户都能立即使用。WhatsApp 尚未正式宣布此功能。",
+              "source_url": "https://9to5mac.com/2026/08/03/whatsapp-beta-for-mac-tests-flexible-update-schedules/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-04T01:30:37+08:00"
+              "published_at": "2026-08-04T03:54:27+08:00"
             },
             {
-              "title": "苹果下月将推出五款新产品，以下是即将到来的产品",
-              "brief": "今年的旗舰iPhone阵容据传是多年来最小的，也是最贵的。基础款iPhone 18预计要到2027年初才会发布，iPhone Air 2也可能推迟。下个月将推出三款新iPhone：iPhone 18 Pro（重大相机升级、新颜色、更小灵动岛等）、iPhone 18 Pro Max（包含上述所有功能，并大幅提升电池续航）、iPhone Ultra（全新形态，苹果首款折叠屏iPhone）。分析师预测iPhone 18 Pro起售价约1399美元，iPhone Ultra约1999美元。此外，预计还有Apple Watch Ultra 4和Series 12，以及可能的AirPods Pro、Apple TV、HomePod等产品。",
-              "source_url": "https://9to5mac.com/2026/08/03/apple-will-launch-five-new-products-next-month-heres-whats-coming/",
+              "title": "苹果宣布在纽约举办 Ted Lasso 模仿大赛",
+              "brief": "为庆祝《足球教练》第四季首播，苹果将于 8 月 6 日下午 5 点在纽约第五大道苹果店广场举办“Ted 模仿大赛”。比赛分三轮：第一轮“Ted 能量”需自我介绍并跳舞；第二轮“主教练”进行问答；第三轮“Ted 演讲”向人群发表激励演讲。奖品包括定制围巾和 Beats 耳机。活动官网为 gatheringoftheteds.com。",
+              "source_url": "https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-03T23:46:12+08:00"
+              "published_at": "2026-08-04T03:45:14+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌为Pixel推出Android 17 QPR2 Beta 2",
+              "brief": "谷歌开始向Pixel设备推送Android 17 QPR2 Beta 2更新，支持Pixel 6a至Pixel 10a等多款机型及模拟器。用户可通过Android Beta计划参与测试，并通过设备上的反馈应用报告问题。此次更新可能包含多项改进和修复，但具体变更日志尚未公布。",
+              "source_url": "https://9to5google.com/2026/08/03/android-17-qpr2-beta-2-pixel/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-04T04:49:08+08:00"
+            },
+            {
+              "title": "Notability应用登陆Android，庆祝折扣25%",
+              "brief": "笔记应用Notability正式登陆Android平台，此前已在iOS上获得大量好评。该应用支持手写、录音转文字、AI集成等功能，免费下载但需订阅解锁全部功能，订阅费每月约5美元。为庆祝发布，Android用户可享受Plus订阅25%的折扣。",
+              "source_url": "https://9to5google.com/2026/08/03/notability-app-android-release/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-04T04:40:00+08:00"
+            },
+            {
+              "title": "三星称Galaxy Z Fold 8新形态源于“尺寸并非人人适用”",
+              "brief": "三星移动设计团队负责人解释Galaxy Z Fold 8采用新形态的原因，称折叠屏并非“一刀切”，不同用户需求各异。新设计如护照般便于携带和单手操作。同时，设计团队谈及新配色理念，并强调Galaxy Watch 9的“缓冲垫”设计是品牌核心身份。",
+              "source_url": "https://9to5google.com/2026/08/03/samsung-says-galaxy-z-fold-8s-new-shape-exists-because-one-size-does-not-fit-all/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-04T03:05:00+08:00"
+            },
             {
               "title": "一加15及多款产品在美国售罄，品牌退出市场",
               "brief": "一加宣布退出欧洲、英国和美国等主要市场后，其产品在美国迅速售罄。目前，一加15及其R系列、平板和手表等产品在官方商店已无货，仅剩少量耳机在售。虽然亚马逊等零售商仍有部分库存，但数量有限。这标志着一加在美国市场的终结，未来将不再推出新品或补货。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5toys.com/2026/08/03/monday-android-app-deals/",
               "source_name": "9to5Google",
               "published_at": "2026-08-04T01:49:43+08:00"
-            },
-            {
-              "title": "谷歌时钟9.0新增秒表和计时器实时更新功能",
-              "brief": "谷歌时钟应用更新至9.0版本，为秒表和计时器引入了实时更新功能。该功能在Android 16及以上系统上以药丸状图标显示在状态栏，提供实时计数，但会占用通知图标空间。点击图标可展开通知，显示更大的计时器和控制按钮。用户可在应用设置中关闭此功能。",
-              "source_url": "https://9to5google.com/2026/08/03/google-clock-9-0-live-updates/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-04T01:24:17+08:00"
-            },
-            {
-              "title": "三星Galaxy S27 Ultra或将取消3倍长焦摄像头以降低成本",
-              "brief": "据报道，三星为降低成本，可能取消Galaxy S27 Ultra上的3倍长焦摄像头，使其成为该系列首款仅配备三摄的机型。新机将保留50MP的5倍长焦，而S27 Pro则配备3倍长焦。此举或受内存危机影响，旨在削减制造成本。Galaxy S27系列预计于2027年初发布。",
-              "source_url": "https://9to5google.com/2026/08/03/samsung-galaxy-s27-ultra-telephoto-camera-report/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-04T00:55:00+08:00"
-            },
-            {
-              "title": "谷歌预告Pixel 11 Pro Fold，8月12日开启预购",
-              "brief": "谷歌发布了Pixel 11 Pro Fold的首支预告片，展示了其相机条设计。同时，谷歌商店和百思买页面出现倒计时，指向8月12日上午7点（太平洋时间）开启预购，早于当日下午3点举行的Made by Google活动。去年预购与活动间隔仅1小时，今年时间差更大。",
-              "source_url": "https://9to5google.com/2026/08/03/pixel-11-pre-order-fold-tease/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-04T00:23:47+08:00"
             }
           ]
         },
@@ -162,6 +162,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "时代终结：T-Mobile 正式关闭 2G 网络",
+              "brief": "T-Mobile 于 2026 年 8 月 3 日正式终止其 2G 蜂窝服务。此前，该运营商已提前通知用户。T-Mobile 早在多年前就结束了 3G 支持，但为少数用例保留了 2G。随着 2G 网络的关闭，经典手机将无法再接入现代蜂窝网络。其他运营商早已淘汰 2G，T-Mobile 此举标志着 2G 时代的彻底结束。",
+              "source_url": "https://www.androidauthority.com/t-mobile-2g-service-3693986/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-04T04:24:35+08:00"
+            },
+            {
+              "title": "Google Keep 终于推出“在笔记中查找”功能",
+              "brief": "Google 开始向 Keep 应用推出“在笔记中查找”功能，允许用户在单个笔记中搜索特定信息。该功能最初于 2025 年开发，后移除，最近重新出现。现在已开始逐步推送，但可能尚未广泛可用。用户可通过笔记内的三点菜单访问，输入查询后高亮显示所有匹配项。此功能与现有的全局搜索不同，后者会列出所有包含搜索词的笔记。",
+              "source_url": "https://www.androidauthority.com/google-keep-find-in-note-rollout-3694030/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-04T04:14:54+08:00"
+            },
+            {
+              "title": "谷歌发布 Pixel 11 Pro Fold 预告片，为发布会预热",
+              "brief": "谷歌发布了 Pixel 11 系列的新预告片，重点展示了 Pixel 11 Pro Fold 折叠屏手机。视频中主要呈现了设备的轮廓，但短暂展示了内屏，并出现了绿色文本，可能暗示“Pine”配色。谷歌的 Made by Pixel 活动定于 2026 年 8 月 12 日举行，届时将发布 Pixel 11 系列和 Pixel Watch 5。",
+              "source_url": "https://www.androidauthority.com/google-teases-pixel-11-pro-fold-3694007/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-04T02:51:26+08:00"
+            },
+            {
               "title": "谷歌图片泄露显示 Pixel 11 Pro XL 加入 Pixel 11 系列",
               "brief": "知名爆料人埃文·布拉斯泄露了 Pixel 11 Pro XL 的图片，至此 Pixel 11 系列全部亮相。虽然图片分辨率较低，且未透露 Pro XL 特有功能，但展示了 Pixel Glow / HiLight LED 矩阵，以及与其他 Pro 型号不同的亮面金属质感。距离谷歌 8 月 12 日发布会不足十天，更多信息即将揭晓。",
               "source_url": "https://www.androidauthority.com/pixel-11-pro-xl-image-leak-3694004/",
@@ -174,33 +195,48 @@
               "source_url": "https://www.androidauthority.com/windows-phone-link-notification-preview-3693965/",
               "source_name": "Android Authority",
               "published_at": "2026-08-04T01:44:26+08:00"
-            },
-            {
-              "title": "TCL 推出纸感屏平板 Tab A1 Plus NXTPAPER，售价亲民",
-              "brief": "TCL 在美国推出 Tab A1 Plus NXTPAPER 平板，配备 12.2 英寸 2400x1600 120Hz 纸感屏，可通过 NXTPAPER 按键切换标准、墨水和彩色纸模式。搭载骁龙 4 Gen 2 芯片，6GB 内存（可扩展至 16GB），256GB 存储，电池容量增至 10000mAh，支持 33W 快充。现已开售，享受 25% 折扣。",
-              "source_url": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-launch-3693912/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-04T01:10:40+08:00"
-            },
-            {
-              "title": "三星 32 英寸 M8 智能显示器半价促销，历史新低",
-              "brief": "亚马逊将三星 32 英寸 M8 智能显示器降至 349.99 美元，较原价 699.99 美元直降 50%，创历史新低。这款 4K 智能显示器集成了电视功能，内置应用和智能平台，无需连接 PC 即可使用。配备 USB-C 接口，适合办公和娱乐，是桌面或小房间的理想选择。",
-              "source_url": "https://www.androidauthority.com/samsung-32-inch-m8-smart-monitor-deal-3693976/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-04T00:59:05+08:00"
-            },
-            {
-              "title": "Galaxy S27 Ultra 或通过隐藏升级获得更薄摄像头",
-              "brief": "据 ZDNet Korea 报道，三星计划在 Galaxy S27 Ultra 上扩大喷墨镜头工艺的应用，覆盖三个后置摄像头模块。该技术此前已在 S26 Ultra 上测试，此次扩展有望减少摄像头模块厚度，为未来升级留出更多内部空间。通过精密喷墨设备，三星可在镜片边缘喷涂微米级吸光墨层，替代传统薄膜，减少内部反射和镜头眩光，同时节省空间。据爆料，该工艺将用于主摄和长焦模块的关键玻璃层，其他镜片仍使用传统薄膜。",
-              "source_url": "https://www.androidauthority.com/galaxy-s27-thinner-camera-3693968/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-04T00:35:34+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
-          "articles": []
+          "articles": [
+            {
+              "title": "欧洲AI标签和透明度规则现已生效",
+              "brief": "欧盟《人工智能法案》中的新透明度义务于8月2日生效，要求公司披露用户何时与AI模型互动，以及内容是否由AI生成或修改。这些规则因AI系统的提供者和部署者而异，但像Meta和SpaceXAI这样的公司两者兼有。如果足够多的公司采用欧盟的AI图标，标签将更加一致。不遵守新要求的科技公司可能面临罚款。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+              "source_name": "The Verge",
+              "published_at": "2026-08-03T13:38:45-04:00"
+            },
+            {
+              "title": "第一代Kindle Scribe翻新机售价150美元",
+              "brief": "第一代Kindle Scribe现以149.99美元的价格在Woot上出售，附带高级触控笔，比原价便宜220美元。这款10.2英寸屏幕的电子阅读器适合返校季使用，可显示教科书和电子书，或用于手写笔记。促销活动持续至8月8日，需使用优惠码KINDLE25。但仅提供Woot的90天保修，且翻新条件未明确。",
+              "source_url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-08-03T13:17:54-04:00"
+            },
+            {
+              "title": "微软将Xbox 360游戏引入PC",
+              "brief": "根据泄露的文件，微软计划让开发者将Xbox 360游戏带到PC平台，包括下一代Project Helix主机和“Xbox PC”及掌机。这些游戏将支持向后兼容，开发者可控制价格和是否加入Game Pass。此举为无光驱主机未来做准备，索尼已宣布游戏光盘的终结。",
+              "source_url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+              "source_name": "The Verge",
+              "published_at": "2026-08-03T12:31:35-04:00"
+            },
+            {
+              "title": "Bluesky新任CEO希望建立大帐篷而非泡沫",
+              "brief": "Bluesky新任CEO托尼·施奈德在Decoder播客中谈论了该平台的未来。他强调，Bluesky不仅是一个类似Twitter的应用，还有AT协议技术，允许任何人构建互操作的社交产品。施奈德希望扩大生态系统（称为ATmosphere），但用户群与开发者群体不同，他面临着平衡两者需求的挑战。",
+              "source_url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+              "source_name": "The Verge",
+              "published_at": "2026-08-03T11:00:00-04:00"
+            },
+            {
+              "title": "Palworld将推出移动端MMORPG",
+              "brief": "继上个月1.0版本发布后，Palworld将登陆iOS和Android，推出名为Palworld Online的开放世界MMORPG，由Garena开发。该游戏将保留原作的制作、收集和多人玩法，并引入新的故事设定和原创元素，以及专为移动版设计的简化触控操作。",
+              "source_url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+              "source_name": "The Verge",
+              "published_at": "2026-08-03T10:50:29-04:00"
+            }
+          ]
         }
       ]
     },
