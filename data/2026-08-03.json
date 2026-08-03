@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T10:50:10.870909+08:00",
+  "generated_at": "2026-08-03T12:50:11.465513+08:00",
   "sections": [
     {
       "category": "主要",
@@ -174,6 +174,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌取消未发布应用，已有80万人预购",
+              "brief": "谷歌宣布取消独立AI Studio移动应用，尽管已有约80万用户在Android和iOS上预购。公司表示将把AI驱动的应用创建功能直接集成到Gemini应用中，而非让用户安装“另一个应用”。AI Studio网页版将继续发展。此举旨在让Gemini成为所有AI体验的中心枢纽，但未透露具体时间表。",
+              "source_url": "https://www.androidauthority.com/google-ai-studio-mobile-app-canceled-3693645/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-03T11:41:45+08:00"
+            },
+            {
               "title": "Android 17 QPR2 Beta 1 随机将 Pixel 日期显示为不存在的日期",
               "brief": "Android 17 QPR2 Beta 1 更新出现罕见 bug，会随机更改快速设置面板中的日期显示，例如将 7 月 28 日改为“0 Jan”或 1 月 1 日。该问题不影响状态栏时间、日历和任务应用，重启可临时解决。目前已有至少一位 Pixel 用户报告类似问题。预计在后续 beta 更新中修复。",
               "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-date-bug-3693367/",
@@ -236,6 +243,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "开发者用C99推理引擎在8GB内存上运行Kimi K3模型，速度33秒/Token",
+              "brief": "开发者FareedKhan用C99编写推理引擎，实现仅用8.24GB内存和CPU运行Kimi K3模型，速度33秒/Token；提升内存至128GB后速度可达20秒/Token，但继续增加内存无法再提升性能。该引擎按需从NVMe SSD读取专家权重，采用4-bit格式存储，以降低内存占用，并开源供研究。",
+              "source_url": "https://www.landian.news/archives/114176.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-03T12:00:53+08:00"
+            },
+            {
+              "title": "AI仅用8分钟发现ColdCard钱包漏洞，根源系工程师禁用硬件随机数生成器",
+              "brief": "ColdCard硬件钱包因固件漏洞遭黑客洗劫，损失近1亿美元。有网友用Claude Code审计开源代码，8分钟即定位问题：2021年工程师为绕过编译错误，禁用了硬件随机数生成器，改用软件伪随机数，导致私钥种子空间有限，易被破解。该问题存在5年未被发现，凸显审计流于形式。",
+              "source_url": "https://www.landian.news/archives/114175.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-03T11:30:47+08:00"
+            },
+            {
+              "title": "Cloudflare向部分用户推出1美元注册.dev或.app域名活动",
+              "brief": "Cloudflare针对付费Workers订阅用户推出首年1美元注册.dev或.app域名优惠，每账户限1个域名，续费按标准价格（.dev 12.2美元/年，.app 14.2美元/年）。活动仅限新注册，不支持转入，且域名必须配置HTTPS才能访问。该活动旨在鼓励Workers用户使用自有域名。",
+              "source_url": "https://www.landian.news/archives/114174.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-03T11:04:29+08:00"
+            },
+            {
               "title": "特朗普媒体集团推出Truth Social API服务，月费10万美元可毫秒级获取特朗普帖子",
               "brief": "特朗普媒体与科技集团推出Truth API付费服务，企业客户可毫秒级获取特朗普在Truth Social上的新帖，并含2022年以来历史数据。主要面向高频交易和算法交易机构，利用信息优势快速交易。定价每月10万美元，签三年可降至6万。民主党议员质疑其构成内幕优势，已呼吁SEC调查，但公司称仅加速公开内容传递，无违规。",
               "source_url": "https://www.landian.news/archives/114173.html",
@@ -248,27 +276,6 @@
               "source_url": "https://www.landian.news/archives/114172.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-03T10:00:00+08:00"
-            },
-            {
-              "title": "Debian 13发布内核安全更新，修复68个漏洞含4个严重级",
-              "brief": "Debian项目组发布DSA-6405-1安全公告，为Debian 13推送内核更新，修复68个漏洞，涉及本地提权、拒绝服务、信息泄露等。其中4个严重级漏洞位于流量控制、NVMe over TCP和SMC-R子系统。实际风险取决于功能启用，但建议用户安装所有更新并重启系统，内核版本更新至6.12.100-1。",
-              "source_url": "https://www.landian.news/archives/114158.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-03T09:30:58+08:00"
-            },
-            {
-              "title": "谷歌在Chrome for Mac测试动态更新技术，实现零重启更新",
-              "brief": "谷歌在Chrome for Mac版中测试动态补丁技术，利用macOS后台驻留进程在浏览器窗口全部关闭后自动更新子进程文件，无需完全重启浏览器。但该技术需关闭所有窗口才能触发，与用户期望的无需关闭窗口更新存在差距。谷歌正投资该技术以提升更新效率，目前仅限Mac版。",
-              "source_url": "https://www.landian.news/archives/114157.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-03T09:00:57+08:00"
-            },
-            {
-              "title": "Fedora Linux 46计划默认启用影子堆栈保护，增强系统安全性",
-              "brief": "Fedora Linux 项目组计划在46版中默认启用影子堆栈保护，以增强64位x86设备的安全性。该技术是Intel CET的一部分，AMD新款处理器也支持。启用后，系统可检测并阻止利用内存漏洞篡改返回地址的ROP攻击。此变更原计划在45版实施，因英伟达驱动和部分Python应用兼容性问题推迟。普通用户无需手动开启，性能影响不大，但需较新处理器支持。第三方二进制库和闭源驱动可能存在兼容性风险，系统提供临时关闭方式。",
-              "source_url": "https://www.landian.news/archives/114156.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-03T08:30:57+08:00"
             }
           ]
         },
@@ -276,39 +283,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "《仙剑奇侠传4》发售19周年，重制版多平台适配推进中",
-              "brief": "《仙剑奇侠传4》迎来发售19周年，官方宣布重制版正在推进多平台适配，并计划于2026年12月举办大型线下活动，玩家可免费报名，活动形式将通过投票决定。该作是系列重要作品，凭借四位主角的故事和命运、爱情与成长的剧情，至今仍拥有大量忠实玩家。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1571404.htm",
+              "title": "玩家购买全新5060 Ti后遭追尾 显卡变形但成功挽救",
+              "brief": "一名玩家在购买全新RTX 5060 Ti后遭遇追尾事故，显卡变形，背板和散热器损毁，但PCB幸存。重新焊接显存模块后，显卡恢复完整性能。该卡因PCB较短而幸免于难，尺寸更大的显卡可能无法修复。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571424.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-03T08:01:46+08:00"
+              "published_at": "2026-08-03T11:09:27+08:00"
             },
             {
-              "title": "高温下芯片失效，三星8英寸氮化镓代工量产受阻",
-              "brief": "三星8英寸氮化镓晶圆代工产线因高温长期运行出现芯片失效，量产进程受阻。该问题直接影响GaN芯片在高温场景下的应用，三星已启动根因调查，可能涉及工艺优化和外延层质量。此前产线已多次延期，业内预计量产时间表将再延后。三星在GaN代工领域已落后于竞争对手。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571402.htm",
+              "title": "微软被曝新主机仍留光驱只为让老游戏继续发光",
+              "brief": "爆料称微软下一代主机仍保留光驱，主要是为了向下兼容现有Xbox、Xbox 360和Xbox One实体游戏，而非推动实体新游戏销售。这与“光盘转数字”计划相关，但该计划可能因新任CEO的“大重置”战略而存在变数。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1571422.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-03T08:00:57+08:00"
+              "published_at": "2026-08-03T11:09:15+08:00"
             },
             {
-              "title": "AMD Zen 6 LP曝光：融合Zen 2至Zen 6五代架构",
-              "brief": "爆料称AMD正在开发Zen 6 LP核心，该核心融合了Zen 2至Zen 6五代架构：ISA与Zen 6一致，微架构基于Zen 5，浮点单元采用Zen 4，缓存配置则分别来自Zen 3和Zen 2。这种拼凑设计旨在快速打造低功耗核心，性能有望追平Zen 5c，可能用于笔记本和掌机。目前均为爆料，官方未确认。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571400.htm",
+              "title": "别再为烂优化买单 技术团队用2小时视频怒斥厂商",
+              "brief": "技术团队Threat Interactive发布2小时视频，批评游戏厂商忽视优化，依赖高端硬件和新技术。他们分析虚幻5引擎的Nanite和蓝图脚本导致性能问题，并指出TAA等抗锯齿技术造成画面模糊。通过优化透明物体和植被，帧率可提升13%至40%，呼吁业界重视优化质量。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1571420.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-03T08:00:32+08:00"
+              "published_at": "2026-08-03T11:08:45+08:00"
             },
             {
-              "title": "Steam 7月调查：16GB显存登顶，RTX 3060仍居首",
-              "brief": "Steam发布7月软硬件调查报告：16GB显存占比25.90%，反超8GB成为最主流；RTX 3060继续占据显卡榜首，RTX 50系列份额增长明显。内存方面，16GB仍是主流但占比下降，32GB上升。处理器核心数上，8核反超6核成为主流。Windows 11占比突破70%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1571398.htm",
+              "title": "索尼被曝将于9月举办State of Play 爆料称是综合发布会",
+              "brief": "爆料称索尼将于9月举办State of Play综合发布会，但《漫威金刚狼》可能占比不大。因索尼宣布2028年停产实体光盘引发玩家不满，建议关闭聊天功能。该消息尚未获官方证实，可信度待检验。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1571418.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-03T08:00:17+08:00"
+              "published_at": "2026-08-03T11:08:16+08:00"
             },
             {
-              "title": "日本熊本地震后，当地半导体厂陆续恢复生产",
-              "brief": "日本熊本地震后，当地半导体厂陆续恢复生产。索尼半导体解决方案计划8月4日起逐步恢复熊本工厂运营，8月中旬恢复至震前产能；东京电子预估8月3日起全面复产；瑞萨电子锦工厂已重启，川尻工厂预计8月5日恢复；三菱电机功率半导体工厂已恢复设备运转。熊本因丰富地下水成为日本半导体重地。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571396.htm",
+              "title": "黄仁勋7500万美元捐建艺术学院：技术精英的一次自我提醒",
+              "brief": "黄仁勋捐赠7500万美元在旧金山原艺术学院校址重建艺术学院，回应旧学院因财政问题停办。他强调技术应服务于艺术与设计，AI虽能生成作品，但人类判断力与品味更珍贵。此举被视为对技术精英的提醒，艺术教育在AI时代更显重要。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571416.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-03T07:59:50+08:00"
+              "published_at": "2026-08-03T11:06:48+08:00"
             }
           ]
         },
@@ -316,45 +323,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "全球最火内存ETF再次纳入长鑫科技，权重2.52%位列第八",
-              "brief": "全球首只纯内存芯片主题ETF——Roundhill Memory ETF最新调仓，将中国DRAM龙头长鑫科技纳入持仓，权重2.52%，位列第八大重仓股，同时将兆易创新权重降至1.51%。该ETF于2026年4月上市，前三大持仓为三星、美光、SK海力士。本周已减持三星300万股，套现约4.32亿美元。长鑫科技为中国最大DRAM企业，全球市场份额7.67%，位列第四。",
-              "source_url": "https://www.ithome.com/0/984/918.htm",
+              "title": "AI安全行业人才短缺：年薪50万美元仍难招人",
+              "brief": "AI安全研究机构METR表示，人才短缺已成为行业最大瓶颈，即使年薪高达50.3万美元（约340万元人民币）也难以招到足够的研究人员。METR与OpenAI、Anthropic等公司合作，独立评估AI模型风险，但团队仅35人，无法覆盖大量工作。此前OpenAI模型作弊事件凸显了AI安全评估的紧迫性，业内呼吁扩大人才规模。",
+              "source_url": "https://www.ithome.com/0/984/977.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-03T10:45:12+08:00"
+              "published_at": "2026-08-03T12:31:12+08:00"
             },
             {
-              "title": "华为WATCH GT 7系列海报曝光，吴磊代言",
-              "brief": "华为WATCH GT 7系列新品海报亮相，由演员吴磊代言。目前GT 6系列在售，起售价1488元。GT 6支持玄玑感知系统、支付宝碰一碰支付、星闪车钥匙，可连接心率带等骑行配件，具备AI运动解读、跌倒检测等功能。新品具体配置尚未公布，预计将延续GT系列的运动健康定位。",
-              "source_url": "https://www.ithome.com/0/984/915.htm",
+              "title": "台铃飞火流星X9电动摩托车开售：14999元起，支持汽车级直流快充",
+              "brief": "台铃发布飞火流星X9电动摩托车，起售价14999元，配备72V 90Ah三元锂电池，支持国标直流快充，可直连公共快充桩，宣称半小时充好、一小时充饱。车辆搭载12寸半热熔胎、双通道ABS、TCS牵引力控制等安全配置，并配备7英寸TFT仪表、蓝牙音响等智能功能。台铃还首发“零感智驱”技术，通过算法替代物理霍尔传感器，提升动力输出平顺性。",
+              "source_url": "https://www.ithome.com/0/984/975.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-03T10:44:47+08:00"
+              "published_at": "2026-08-03T12:21:06+08:00"
             },
             {
-              "title": "Android 17 QPR2 Beta 1出现日期显示Bug，重启可暂时解决",
-              "brief": "Android 17 QPR2 Beta 1被曝出快捷设置面板日期显示异常的Bug，有用户遇到日期变为“0 Jan”或“1月1日”的情况，重启后暂时解决，但可能复发。该问题并非个例，Reddit上已有其他Pixel用户反馈。目前原因不明，但状态栏时间、日历等应用正常，无需过度担心。预计后续测试版会修复，正式版前应能解决。",
-              "source_url": "https://www.ithome.com/0/984/911.htm",
+              "title": "雷鸟25Q6A Pro显示器发布：24.5英寸2K 360Hz Mini LED，1699元",
+              "brief": "雷鸟推出新款25Q6A Pro显示器，采用24.5英寸2K分辨率360Hz刷新率Fast IPS面板，配备180分区Mini LED背光，峰值亮度800尼特，覆盖95% DCI-P3色域。支架支持升降、倾斜、旋转，接口包括HDMI 2.1和DP 1.4。该显示器主打电竞性能，售价1699元，现已开售。",
+              "source_url": "https://www.ithome.com/0/984/974.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-03T10:43:04+08:00"
+              "published_at": "2026-08-03T12:14:35+08:00"
             },
             {
-              "title": "绿联DXP2800 GT NAS国行上市，万兆网口，国补后2519.1元",
-              "brief": "绿联2+2盘位NAS DXP2800 GT国行上市，无硬盘版售价2799元，国补后到手2519.1元。该机型配备2个2.5英寸SATA盘位和2个M.2 2280插槽，支持10GbE RJ45网口、USB-C 10Gbps等接口，具备AI相册、智能海报墙等功能，支持容器和虚拟机。存储模式支持JBOD、RAID 0/1等。",
-              "source_url": "https://www.ithome.com/0/984/910.htm",
+              "title": "联想2026款P16v笔记本新配置：Ultra 7 251HX+32G+1T+RTX Pro 1000，20999元",
+              "brief": "联想2026款P16v笔记本新增配置版本，搭载英特尔Ultra 7 251HX处理器（18核18线程）、32GB内存、1TB存储和RTX Pro 1000显卡，售价20999元。该机配备2.5K IPS触控屏（500尼特，100% DCI-P3），支持Wi-Fi 7，接口丰富，机身厚度17.9mm，通过MIL-STD-810H认证，内置85Wh电池。",
+              "source_url": "https://www.ithome.com/0/984/973.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-03T10:42:47+08:00"
+              "published_at": "2026-08-03T12:07:47+08:00"
             },
             {
-              "title": "星河动力智神星一号8月中下旬首飞，任务代号“驾青虬兮泛星河”",
-              "brief": "星河动力宣布智神星一号液体运载火箭将于8月中下旬首飞，任务代号“驾青虬兮泛星河”。火箭全长52米，起飞质量283吨，低轨运载能力7吨，一子级采用七台CQ-50发动机并联，设计可重复使用25次。8月10日遥二火箭将运抵酒泉，届时两枚火箭同场，为国内民营航天首次。遥二任务将进行一子级回收测试。",
-              "source_url": "https://www.ithome.com/0/984/908.htm",
+              "title": "Pwnage发布Vanta鼠标：世界首个机械可调点击结构，149美元起",
+              "brief": "Pwnage推出Vanta鼠标，号称世界首个机械可调式点击几何结构，用户可自定义力度曲线。鼠标采用镁合金外壳，对称设计，尺寸120×60×39mm，重49g。搭载Nordic nRF54L15主控和XERO传感器（基于PAW3950），支持8kHz回报率（有线USB-C和无线2.4GHz），内置160小时续航电池。现已开启预售，售价149美元起。",
+              "source_url": "https://www.ithome.com/0/984/960.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-03T10:39:23+08:00"
+              "published_at": "2026-08-03T12:02:04+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《漫威金刚狼》ESRB评级：含“少量裸露臀部”场景",
+              "brief": "《漫威金刚狼》获得ESRB M级评级，描述中提到“少量场景短暂描绘角色裸露臀部”。该游戏由Insomniac Games开发，将于9月发售，为PS5独占。此前，迪士尼在《X战警：逆转未来》中未删减休·杰克曼的臀部镜头，而《死侍与金刚狼》也聚焦于此。游戏中的具体角色和情境尚未明确，但粉丝或可期待金刚狼的臀部特写。",
+              "source_url": "https://www.ign.com/articles/marvels-wolverine-esrb-rating-promises-a-handful-of-sequences-featuring-exposed-buttocks",
+              "source_name": "IGN",
+              "published_at": "2026-08-03T09:54:47+08:00"
+            },
             {
               "title": "《神奇侠》制片人证实漫威取消第二季前已签合同、清空档期",
               "brief": "漫威影业突然取消《神奇侠》第二季，剧集制作人Andrew Guest在TikTok上回应粉丝，透露团队已签合同、清空档期，编剧室原定本月启动，制作计划于明年初开始，但迪士尼和漫威内部决定不再推进。Guest表示，第一集已完成，整季大纲也已拟好，全员对作品充满热情，取消决定让他们和粉丝一样震惊。",
@@ -382,13 +396,6 @@
               "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-comes-close-to-passing-avengers-endgame-with-second-biggest-box-office-debut-of-all-time-at-927-million-globally",
               "source_name": "IGN",
               "published_at": "2026-08-03T03:15:45+08:00"
-            },
-            {
-              "title": "小岛秀夫评《蜘蛛侠：崭新的一天》：感觉新鲜，非常喜欢",
-              "brief": "小岛秀夫在社交媒体上发文评论《蜘蛛侠：崭新的一天》，称其“感觉新鲜，非常喜欢”。他认为该片巧妙地将新系列开端与上一部直接续集相结合，聚焦于彼得的孤独与内心冲突。小岛指出，以往蜘蛛侠电影多为独立三部曲，每次重启更换阵容，而此次虽延续前作，但一切重置，结构巧妙。他还借此探讨了电影制作中创作者意图与观众期待之间的平衡。",
-              "source_url": "https://www.ign.com/articles/hideo-kojima-reviews-spider-man-brand-new-day-it-felt-fresh-and-i-really-enjoyed-it",
-              "source_name": "IGN",
-              "published_at": "2026-08-03T00:37:56+08:00"
             }
           ]
         },
@@ -396,39 +403,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "MiniMax H3正式开源",
-              "brief": "MiniMax于8月3日正式开源其最新大模型H3，该模型在多项基准测试中表现优异，尤其在中文理解与生成任务上达到领先水平。此次开源意味着开发者可以自由下载、使用和修改模型，有助于推动AI技术普及与创新。MiniMax此举被视为其加强生态建设、与全球开发者合作的重要一步。",
-              "source_url": "https://36kr.com/newsflashes/3923204259098244?f=rss",
+              "title": "协鑫集成等成立能源管理公司",
+              "brief": "企查查App显示，近日，协鑫融合（苏州）能源管理有限公司成立，法定代表人为周煜，注册资本1000万元，经营范围涵盖太阳能发电、风力发电、储能技术及社会经济咨询服务等。股权穿透显示，该公司由协鑫集成旗下协鑫绿能系统科技有限公司等共同持股。",
+              "source_url": "https://36kr.com/newsflashes/3923318295080580?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-03 10:49:44  +0800"
+              "published_at": "2026-08-03 12:45:45  +0800"
             },
             {
-              "title": "中国证监会主席吴清：支持香港推出更多人民币计价结算的期货品种",
-              "brief": "8月3日，在香港交易所举行的五年期中国国债期货上市仪式上，中国证监会主席吴清表示，将支持两地指数公司合作推出更多基于中国资产的指数，推动更多ETF产品布局中国现代化产业体系，并优化注册机制。同时，深化两地期货市场合作，支持香港推出更多人民币计价结算的期货品种，以构建多元化资产生态。",
-              "source_url": "https://36kr.com/newsflashes/3923194246311554?f=rss",
+              "title": "澳大利亚提高对未与当地媒体达成协议的科技巨头的征税比例",
+              "brief": "澳大利亚政府宣布，将“新闻谈判激励计划”的征费比例从2.25%上调至2.5%，该征费针对未与当地媒体达成新闻内容商业协议的科技巨头。征税基于广告收入计算，适用于当地收入超2.5亿澳元的公司，涵盖Meta、Google等，并取消专业社交网站豁免，LinkedIn也被纳入。所筹资金将用于支持本地新闻业。",
+              "source_url": "https://36kr.com/newsflashes/3923309675949444?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-03 10:39:33  +0800"
+              "published_at": "2026-08-03 12:36:59  +0800"
             },
             {
-              "title": "阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿",
-              "brief": "阿里巴巴于8月3日发布新一代基座大模型Qwen3.8，总参数量达2.4万亿，在编程和专业办公能力上大幅提升。在今日放榜的三方榜单Arena中，阿里Qwen模型仅次于Anthropic的Claude系列。目前，Qwen3.8的API已上线千问AI平台，并接入阿里同步推出的Agent产品“千问办公”。Qwen3.8-Max预计下周开源，同时还将开源Qwen3.8-27B。",
-              "source_url": "https://36kr.com/newsflashes/3923193948614025?f=rss",
+              "title": "中国证监会：提升中国指数和中国资产国际影响力",
+              "brief": "中国证监会主席吴清表示，将支持内地与香港指数公司加强合作，推出更多基于中国资产的指数，推动两地机构推出布局中国现代化产业体系的ETF产品，优化注册机制，共同提升中国指数和中国资产的国际影响力。此举旨在深化两地市场互联互通。",
+              "source_url": "https://36kr.com/newsflashes/3923292780326281?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-03 10:39:15  +0800"
+              "published_at": "2026-08-03 12:19:47  +0800"
             },
             {
-              "title": "韩国拟引入“紧急权限”，可将单股杠杆倍数限制在1.5倍",
-              "brief": "据报道，韩国金融监管部门正推动引入“紧急行动权限”，允许监管机构在紧急情况下快速降低单股杠杆产品的杠杆倍数。目前韩国国内单股杠杆产品旨在追踪2倍收益，若启用该权限，杠杆倍数可能降至1.5倍或1倍，以保护投资者。此举旨在应对市场剧烈波动时的高风险。",
-              "source_url": "https://36kr.com/newsflashes/3923187885026951?f=rss",
+              "title": "蚂蚁灵波将开启独立融资",
+              "brief": "据媒体报道，从知情人士处获悉，蚂蚁集团旗下具身智能企业蚂蚁灵波科技或将开启独立融资。目前尚未透露具体融资规模及估值等细节。",
+              "source_url": "https://36kr.com/newsflashes/3923283735424641?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-03 10:33:05  +0800"
+              "published_at": "2026-08-03 12:10:35  +0800"
             },
             {
-              "title": "马克·古尔曼：预计iPhone会涨价100至200美元，折叠屏iPhone起售价或至少2000美元",
-              "brief": "据彭博社记者马克·古尔曼报道，苹果“毫无疑问”将提高iPhone价格，原因是内存芯片和处理器短缺，以及iPhone 18 Pro系列摄像头系统成本上升，还有首款可折叠iPhone设计更昂贵。他预计iPad和Mac价格已上涨100至200美元，iPhone涨幅类似，折叠屏iPhone起售价可能至少2000美元。",
-              "source_url": "https://36kr.com/newsflashes/3923185831243136?f=rss",
+              "title": "摩尔线程完成MiniMax H3多模态生成模型适配",
+              "brief": "MiniMax今日正式开源多模态生成模型MiniMax H3。同日，摩尔线程基于AI训推一体智算卡MTT S5000及MUSA软件栈，率先完成H3的适配与运行，实现了模型的本地化部署支持。",
+              "source_url": "https://36kr.com/newsflashes/3923276079263113?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-03 10:31:00  +0800"
+              "published_at": "2026-08-03 12:02:48  +0800"
             }
           ]
         }
