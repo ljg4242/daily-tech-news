@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T08:51:01.591151+08:00",
+  "generated_at": "2026-08-04T10:51:17.371643+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Telegram 从 App Store 全球下架？",
+              "brief": "据报道，即时通讯应用 Telegram 已从多个国家和地区的 iOS 和 iPadOS App Store 中消失，原因不明。目前 Mac App Store 和 Google Play 仍可下载。苹果和 Telegram 均未回应。9to5Mac 已联系苹果，将跟进报道。此前，Telegram 曾因内容问题被苹果下架，也曾因不配合巴西当局调查而被暂时封禁，2024 年还因中国监管要求从中国区 App Store 移除。",
+              "source_url": "https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-04T10:19:33+08:00"
+            },
+            {
+              "title": "苹果计划向 Windows PC 开放 iPhone 剪贴板访问",
+              "brief": "据 MacRumors 报道，苹果在欧盟互操作性请求页面新增条目，承诺开发解决方案，允许扩展与配对设备（包括 Windows PC）共享和导入 iPhone 剪贴板。微软于 3 月 25 日提出请求，称目前无法提供类似 Universal Clipboard 的功能，要求苹果提供持续剪贴板访问，实现 iPhone 与 Windows PC 间的连续同步，支持复制粘贴、工作流自动化等。苹果于 4 月 27 日回应，已进入下一阶段评估，但表示可能最终无法提供解决方案。",
+              "source_url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-04T09:43:34+08:00"
+            },
+            {
+              "title": "俄罗斯就强制预装应用问题升级与苹果的争端",
+              "brief": "俄罗斯联邦反垄断署因苹果未完全遵守有关预装国内应用的要求，对其提起正式反垄断诉讼。自 2019 年俄罗斯立法要求设备制造商预装本国应用以来，双方矛盾不断。2022 年俄乌冲突后，苹果暂停在俄销售，并下架 RT 等应用。2023 年起，俄罗斯要求预装 MAX 应用和 RuStore 应用商店，苹果未执行，并于 6 月下架 MAX 等应用，称因制裁要求。苹果部分妥协允许预装俄罗斯搜索引擎，但未满足其他要求，导致诉讼。",
+              "source_url": "https://9to5mac.com/2026/08/03/russia-escalates-dispute-with-apple-over-mandatory-app-preinstallation/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-04T08:59:23+08:00"
+            },
+            {
+              "title": "苹果限制安全漏洞报告数量，应对 AI 生成漏洞激增",
+              "brief": "苹果向《金融时报》确认，已对其安全门户的提交设置上限和 30 天冷却期，以应对 AI 生成漏洞报告激增。该措施于 6 月实施，旨在减轻审查团队压力。此前，苹果已加快安全更新，并在 iOS 26.5.2 中修复了由 AI 工具发现的漏洞。GitHub 也引入了类似分级系统。FT 报道称，初创公司 Bynario 因提交过多漏洞被限制，苹果已联系并审查其发现。苹果表示，随着 AI 生成安全报告增多，正在调整流程。",
+              "source_url": "https://9to5mac.com/2026/08/03/apple-caps-security-bug-reports-amid-surge-in-ai-generated-findings/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-04T07:08:46+08:00"
+            },
+            {
               "title": "法官批准针对Apple Photos面部识别的数十亿美元集体诉讼",
               "brief": "苹果因Apple Photos的“人物”功能可能面临高达325亿美元的赔偿。2020年3月，约10名苹果用户提起集体诉讼，指控该功能违反伊利诺伊州《生物识别信息隐私法》（BIPA），该法规定每次疏忽违规赔偿1000美元，故意或鲁莽违规赔偿5000美元。经过多次修改诉状、数年证据开示和苹果多次驳回动议后，法院于6月批准了集体诉讼认证。原告代表约650万伊利诺伊州居民，分为三个类别：本地设备类、iCloud子类和iCloud面部打印子类。此案与Meta因Facebook面部识别系统支付的6.5亿美元和解类似。",
               "source_url": "https://9to5mac.com/2026/08/03/judge-greenlights-multi-billion-dollar-class-action-over-apple-photos-face-recognition/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-04T06:24:54+08:00"
-            },
-            {
-              "title": "报告：苹果保密工作因宽松的iCloud政策部分受挫",
-              "brief": "据The Information报道，苹果前员工表示，即使离职后仍能访问机密文件，原因是苹果鼓励员工使用个人Apple ID登录公司付费的iCloud账户，以便共享内部文件。这削弱了苹果在针对OpenAI等前员工及Jony Ive的io Products的窃取商业机密诉讼中的立场。苹果在诉讼中声称采取了合同、技术、物理和程序等保障措施，但前员工称这些措施存在漏洞。苹果要求离职员工归还设备并完成离职面谈，但未能阻止他们继续访问文件。此案可能取决于苹果是否采取了合理措施保护机密信息。",
-              "source_url": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-04T05:30:11+08:00"
-            },
-            {
-              "title": "为什么Apple Upgrade计划要求iPhone使用AT&T、T-Mobile或Verizon？",
-              "brief": "Daring Fireball的John Gruber解释了Apple Upgrade计划要求iPhone必须连接AT&T、T-Mobile或Verizon的原因。据一位前苹果运营商团队成员透露，苹果与这些运营商达成价值数亿美元的交易，作为回报，苹果同意将运营商选择限制作为条件。此外，前零售员工表示，运营商融资推出后，欺诈性iPhone销售激增，运营商承担了数百万美元的损失，因此该要求也有助于减少欺诈。苹果指出，虽然要求选择这些运营商，但iPhone仍是无锁版。",
-              "source_url": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-04T05:11:34+08:00"
-            },
-            {
-              "title": "iOS 27 照片应用新增“由我拍摄”功能，补齐相机胶卷缺口",
-              "brief": "苹果在 iOS 27 的照片应用中新增了“由我拍摄”集合，仅显示通过相机应用拍摄的照片和视频，不含截图、他人分享或保存的媒体。这一功能填补了用户长期以来对专属相机胶卷的需求。用户可在照片图库中使用“由我拍摄”过滤器。该功能旨在提供更纯粹的拍摄内容视图，方便用户快速找到自己拍摄的媒体。",
-              "source_url": "https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-04T04:44:15+08:00"
-            },
-            {
-              "title": "苹果在印度的合同制造税收优惠或延长至 2041 年",
-              "brief": "据报道，印度正计划将针对合同制造商的税收豁免延长至 2041 年，该豁免原定于 2031 年到期。此举旨在吸引手机、平板、笔记本电脑等电子设备制造商，在海关保税区设厂，促进出口。苹果曾大力游说印度政府，该政策对苹果扩大在印制造、减少对中国的依赖意义重大。此外，印度近期还取消了部分智能手机零部件的进口关税。",
-              "source_url": "https://9to5mac.com/2026/08/03/apples-contract-manufacturing-tax-breaks-in-india-could-be-extended-to-2041/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-04T04:30:51+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Telegram 在苹果 App Store 下架谜团持续，安卓不受影响",
+              "brief": "周一，Telegram 在多个国家的苹果 App Store 中消失，原因不明。尽管公司表示应用已恢复，但截至发稿时仍无法在 App Store 搜索到该应用，直接链接也显示错误。现有 iPhone 和 iPad 用户可继续使用，但新用户无法下载。Mac App Store 和 Google Play Store 均未受影响。Telegram 未解释下架原因，仅在社交媒体上发帖回应，称“关于我死亡的报道过于夸张”。目前该问题似乎仅限于苹果平台，安卓用户不受任何影响。",
+              "source_url": "https://www.androidauthority.com/telegram-removed-apple-app-store-latest-update-3694102/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-04T10:44:29+08:00"
+            },
+            {
               "title": "Android 17 QPR2 Beta 2 面向 Pixel 6a 及更新设备推送",
               "brief": "谷歌发布了 Android 17 第四季度功能更新的第二个测试版，适用于 Pixel 6a 及更新设备。与 Beta 1 一样，Pixel 6 和 Pixel 6 Pro 不再受支持。谷歌的发布说明未提及具体修复内容，但团队正在检查可能解决的问题。对于 Pixel 6a 及更新机型的用户，可通过 Android Beta 计划注册参与测试。",
               "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/pixel-11-countdown-clock-3694078/",
               "source_name": "Android Authority",
               "published_at": "2026-08-04T05:18:01+08:00"
-            },
-            {
-              "title": "时代终结：T-Mobile 正式关闭 2G 网络",
-              "brief": "T-Mobile 于 2026 年 8 月 3 日正式终止其 2G 蜂窝服务。此前，该运营商已提前通知用户。T-Mobile 早在多年前就结束了 3G 支持，但为少数用例保留了 2G。随着 2G 网络的关闭，经典手机将无法再接入现代蜂窝网络。其他运营商早已淘汰 2G，T-Mobile 此举标志着 2G 时代的彻底结束。",
-              "source_url": "https://www.androidauthority.com/t-mobile-2g-service-3693986/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-04T04:24:35+08:00"
             }
           ]
         },
@@ -346,39 +346,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Windows任务管理器原作者打造全新macOS版“Task Manager OG”",
-              "brief": "曾在微软开发原版任务管理器的程序员普拉默，推出全新macOS系统监控工具“Task Manager OG”。该工具采用纯原生API开发，界面简洁，能实时显示CPU、GPU等硬件资源使用情况，并深度展示各核心运行状态及进程分支数据。测试版已免费提供下载，Windows版本即将测试。尽管普拉默曾因流氓软件纠纷被起诉，但其对高效工具的追求仍受关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571558.htm",
+              "title": "Telegram曾短暂从苹果App Store下架",
+              "brief": "通讯应用Telegram曾短暂从苹果App Store下架，用户无法搜索或通过链接获取。社交媒体上出现大量反馈。截至目前，苹果与Telegram均未就此次下架及恢复给出详细说明，业内推测可能与苹果应用审核流程有关。尽管应用页面已重新上线，但具体原因仍不明朗。值得注意的是，已安装Telegram的用户在此期间功能未受影响。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571594.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-04T08:23:21+08:00"
+              "published_at": "2026-08-04T10:49:32+08:00"
             },
             {
-              "title": "微软高管解释Windows传统工具现代化改造难题 保持“兼容性承诺”致升级步履迟缓",
-              "brief": "微软高管阿什解释Windows传统工具现代化改造的挑战：因需保持对旧版工具和工作流的兼容性，迁移至“设置”应用时需谨慎，以防破坏用户体验。微软通过用户旅程、遥测数据和反馈评估改动，并已探索注册表编辑器现代化方案。同时，微软确认将进一步优化Windows 11在8GB内存设备上的运行效率，兼顾兼容性与性能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571556.htm",
+              "title": "知名团队称8GB显存拖累PC游戏业",
+              "brief": "知名技术团队HardwareUnboxed指出，8GB显存已成为当前PC游戏行业的性能瓶颈。为兼容主流显卡，开发者在将主机游戏移植至PC时，不得不大幅削减低画质细节。高昂的硬件价格也抑制了玩家升级至更大显存显卡的意愿。显存容量的限制不仅阻碍了路径追踪等先进技术的普及，也迫使行业过度依赖超分辨率与帧生成方案。预计显存基准线需待下一代主机问世方能真正提升。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1571592.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-04T08:22:10+08:00"
+              "published_at": "2026-08-04T10:47:53+08:00"
             },
             {
-              "title": "强劲财报发布后 Palantir CEO亚历克斯·卡普称AI行业具有“马克思主义”色彩",
-              "brief": "Palantir CEO亚历克斯·卡普在强劲财报后称AI行业具有“马克思主义”色彩，指责大型AI实验室试图“夺取合作伙伴的生产资料”。Palantir第二季度营收19亿美元，利润11亿美元。卡普警告企业花钱购买AI服务可能丧失自身知识产权，并称AI实验室带有道德优越感。微软CEO纳德拉等也表达类似观点，行业竞争加剧。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571554.htm",
+              "title": "SK海力士与闪迪联合发布HBF首个标准规范",
+              "brief": "SK海力士与闪迪联合发布HBF（Hybrid Bonding Fabric）首个标准规范。HBF是一种介于HBM和固态硬盘之间的新型存储，结合了高带宽与NAND闪存大容量，旨在破解AI时代的内存瓶颈。该规范定义了最高512GB容量及0.4TB/s至3.0TB/s的带宽等级，采用UCIe互联。此规范由OCP正式发布为行业通用开放标准，而非企业私有。HBF联盟已汇聚谷歌与Tenstorrent，正加速市场落地与生态构建。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571590.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-04T08:18:44+08:00"
+              "published_at": "2026-08-04T10:44:49+08:00"
             },
             {
-              "title": "苹果终于补齐Siri短板 但重磅升级依然显得平淡",
-              "brief": "苹果新版Siri终于补齐短板，支持自然连贯对话、键盘输入、历史记录，并能理解个人语境，识别照片、邮件等中的信息。Siri还能协助头脑风暴、提供菜谱建议，并借助相机识别物体。该升级基于与Google Gemini模型的合作，优化了苹果自有模型。但外界认为这更像是修复缺陷而非创新，新版将随iOS 27于9月发布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571552.htm",
+              "title": "小米发布增程SUV，引发增程技术未来争议",
+              "brief": "小米近日发布了两款增程SUV，基于“昆仑技术架构”及“澎程”系列，引发市场广泛关注。此举正值纯电车型普及、充电基础设施完善之际，使得增程技术的未来再次成为讨论焦点。文章指出，增程曾因解决纯电续航焦虑而受欢迎，但其亏电噪音、频繁充电等妥协，以及插电混动的竞争，正使其优势减弱。小米选择此时入局，也让业内对其策略和增程技术发展空间产生疑问。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1571588.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-04T08:10:36+08:00"
+              "published_at": "2026-08-04T10:43:56+08:00"
             },
             {
-              "title": "最新研究质疑“低脂乳制品更健康”的饮食建议",
-              "brief": "多伦多大学研究团队通过对照实验发现，每天食用三份全脂乳制品并未导致体重、体脂或血脂显著变化，反而可能降低血压并补充更多钙、蛋白质和维生素D。研究提出“乳制品基质假说”，认为食物中营养成分的协同作用优于孤立评估。建议公众保持食物多样化，不过量食用任何食物。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1571550.htm",
+              "title": "爆料称V社Steam Frame头显定价或高达1500美元",
+              "brief": "爆料称Valve（V社）即将推出的Steam Frame VR头显预计定价高达1100至1500美元，远超此前低于999美元的预期。价格飙升主要归因于高通处理器及存储芯片等组件成本全面上涨。该头显配备2160x2160分辨率LCD显示屏、144Hz刷新率、16GB LPDDR5X内存等高端配置。然而，高昂的售价将使其在市场竞争中处于劣势，可能成为面向核心粉丝的小众产品。V社官方尚未公布最终定价。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1571586.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-04T08:01:35+08:00"
+              "published_at": "2026-08-04T10:14:16+08:00"
             }
           ]
         },
@@ -386,39 +386,39 @@
           "name": "36氪",
           "articles": [
             {
-              "title": "两市融资余额减少87.94亿元",
-              "brief": "上交所融资余额报13232.58亿元，较前一交易日减少41.4亿元；深交所融资余额报12489.16亿元，较前一交易日减少46.54亿元；两市合计25721.74亿元，较前一交易日减少87.94亿元。",
-              "source_url": "https://36kr.com/newsflashes/3924500875393415?f=rss",
+              "title": "Sensor Tower：上半年全球合成手游收入突破21亿美元",
+              "brief": "Sensor Tower数据显示，2026年上半年全球合成手游收入突破21亿美元，成为解谜品类中第二大收入子品类，其中二合手游贡献超过90%的品类收入。",
+              "source_url": "https://36kr.com/newsflashes/3924619908905344?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-04 08:48:44  +0800"
+              "published_at": "2026-08-04 10:49:49  +0800"
             },
             {
-              "title": "中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
-              "brief": "国家发改委、能源局发布《新型电力系统建设“十五五”规划》，以“源网荷储”一体化协同为主线，推动电力行业从单一新增新能源装机转向全域统筹。规划围绕电源、电网、调节资源、负荷、市场等设置量化目标，力争2030年初步建成新型电力系统，非化石能源发电量占比升至50%。中信证券认为，政策或将持续利好特高压、配网智能化、各类储能、虚拟电厂等灵活调节资源、清洁电源开发及电力数字化领域，并加速容量补偿机制及容量市场等电改政策落地。",
-              "source_url": "https://36kr.com/newsflashes/3924484441045377?f=rss",
+              "title": "创业板指涨超4%",
+              "brief": "创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
+              "source_url": "https://36kr.com/newsflashes/3924617622272132?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-04 08:47:56  +0800"
+              "published_at": "2026-08-04 10:47:29  +0800"
             },
             {
-              "title": "玻璃基封装成产业竞逐新焦点，面板厂商跨界布局",
-              "brief": "TCL华星已组建专业团队推进玻璃基封装关键工艺验证，计划下半年展示相关样品并筹建中试线；京东方9.93亿元投资的玻璃基封装载板试验线已向国内客户送样，部分客户通过概念认证进入技术测试阶段；深天马亦搭建MPG多项目玻璃基板技术平台，将先进封装列为重点赋能方向之一。随着AI芯片向大尺寸、高算力、高密度互连加速演进，传统有机载板逐步触及性能边界，玻璃基先进封装正成为产业竞逐的新焦点，一场由面板厂商主导的跨界布局已然展开。",
-              "source_url": "https://36kr.com/newsflashes/3924485879937413?f=rss",
+              "title": "沪深两市成交额突破1万亿元",
+              "brief": "沪深两市成交额突破1万亿元，较上一个交易日此时缩量超150亿元。",
+              "source_url": "https://36kr.com/newsflashes/3924608549075337?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-04 08:41:24  +0800"
+              "published_at": "2026-08-04 10:38:16  +0800"
             },
             {
-              "title": "复星国际旗下Frankfurter Leben据悉接近敲定Athora德国业务收购交易",
-              "brief": "知情人士透露，复星国际控制的寿险整合商Frankfurter Leben接近达成收购Athora Holding Ltd．德国业务的协议。知情人士表示，这项出售Athora德国业务的交易最快可能于本月宣布。Athora获得阿波罗全球管理股份有限公司的支持。",
-              "source_url": "https://36kr.com/newsflashes/3924485359499392?f=rss",
+              "title": "泸溪河食品在上海成立新商贸公司，注册资本3000万",
+              "brief": "天眼查显示，泸溪河（上海）商贸有限公司成立，法定代表人为程建华，注册资本3000万人民币，经营范围包括日用百货销售、供应链管理服务、国内贸易代理、技术进出口等，由泸溪河食品（集团）有限公司全资持股。",
+              "source_url": "https://36kr.com/newsflashes/3924607686211713?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-04 08:38:52  +0800"
+              "published_at": "2026-08-04 10:37:23  +0800"
             },
             {
-              "title": "中信证券：政策面乐观，资金面积极，银行全年绝对收益空间仍将延续",
-              "brief": "中信证券研报表示，基本面视角，预计二季度银行息差表现良好、资本市场和财富业务驱动中收增长，在此背景下银行营收增速保持稳定良好态势，盈利增速或将小幅上行。投资视角看，上周银行板块延续7月以来的积极趋势，但受市场风格影响周内指数大幅波动。中信证券预计，未来两周A股波动率仍将保持偏高水平，银行板块相对收益或将走弱；但经营格局稳定和宏观叙事等长逻辑仍在继续演绎，全年绝对收益空间仍将延续。",
-              "source_url": "https://36kr.com/newsflashes/3924466041289097?f=rss",
+              "title": "中证协启动2026年券商投行业务三项质量评价，评价结果对应差异化监管安排",
+              "brief": "中证协启动2026年券商投行业务三项质量评价，评价结果将报送证监会供监管参考。监管机构将根据评价结果采取差异化监管安排，加强分类监管，提高监管精准性和有效性。",
+              "source_url": "https://36kr.com/newsflashes/3924601910983045?f=rss",
               "source_name": "36氪",
-              "published_at": "2026-08-04 08:34:12  +0800"
+              "published_at": "2026-08-04 10:31:30  +0800"
             }
           ]
         },
@@ -426,39 +426,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "特斯拉 FSD v14 Lite 引发 HW3 自动驾驶电脑过热故障",
-              "brief": "特斯拉自6月底向HW3车型推送FSD v14 Lite，7月21日更广泛推送。该版本为HW4平台v14模型的精简版，以适应HW3的8GB内存和较低带宽。部分车主反映Autopilot电脑温度升高，触发APP_w141_ECU_Thermal_Issue故障代码，温度达96摄氏度，导致FSD退出。Electrek收到多起报告，部分车辆电脑关闭需更换。特斯拉尚未确认软件更新导致硬件损坏，但时间关联明显。此外，车主还报告幽灵刹车等问题，可能因硬件算力接近极限。特斯拉面临为约400万辆HW3车辆更换电脑或补偿的压力。",
-              "source_url": "https://www.ithome.com/0/985/306.htm",
+              "title": "三大运营商停止第三方网售号卡后，中国广电低价大流量卡热销",
+              "brief": "随着中国电信、中国联通全面停止通过第三方互联网渠道销售号卡，电商平台上的低价大流量卡纷纷下架，但中国广电的低价大流量卡仍在多个平台活跃销售，销量有所攀升。广电套餐价格悄然向三大运营商看齐，部分套餐已上涨。目前电商平台常见的广电套餐为月租39元含约60GB流量，其中20GB为固定流量，40GB为限期赠送。截至2026年3月末，广电5G用户近4300万户。专家指出，广电的低价大流量卡也可能逐步收紧。",
+              "source_url": "https://www.ithome.com/0/985/382.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-04T08:47:15+08:00"
+              "published_at": "2026-08-04T10:48:42+08:00"
             },
             {
-              "title": "泄露显示Xbox 360游戏库有望明后年逐步登陆下一代Xbox设备",
-              "brief": "据泄露文件显示，微软计划在2026年7月推出“光盘转数字”预览版，8月正式上线；10月PC版向下兼容功能全面上线，支持初代Xbox游戏。2027至2028年，Xbox 360游戏库将逐步登陆新一代Xbox设备，包括Project Helix主机、Xbox PC和掌上设备。文件还提及微软负责模拟器开发、兼容性测试、商店内容及玩家支持，而合作方负责决策、游戏确认、商业参数和品牌审批。目前“光盘转数字”预览版未如期推出，8月全面上线情况待定。",
-              "source_url": "https://www.ithome.com/0/985/305.htm",
+              "title": "飞傲雪漫天推出“FH3 鹿鸣”一圈二铁三单元入耳式有线耳机，499元",
+              "brief": "飞傲雪漫天推出新款入耳式有线耳机FH3鹿鸣，采用一圈二铁三单元配置，售价499元。该耳机经过20多次版本迭代，提供温暖氛围的声底和宽松耐听的人声音色。为降低齿音刺激，工程师设计了高精度四阶滤波电路和电子主动式陷波技术，有效抑制6-8kHz频段齿音，同时保障其他频段延展性。产品参数已公布。",
+              "source_url": "https://www.ithome.com/0/985/381.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-04T08:46:25+08:00"
+              "published_at": "2026-08-04T10:47:51+08:00"
             },
             {
-              "title": "俄罗斯反垄断局起诉苹果未预装本土应用",
-              "brief": "俄罗斯联邦反垄断局因苹果未按要求在iPhone和iPad上预装俄罗斯应用商店RuStore和即时通讯应用Max，对其提起诉讼。此前，俄方曾要求苹果在7月15日前整改，否则面临最高40亿卢布（约3.53亿元人民币）罚款。反垄断局指出，苹果未根据警告整改，因此依据竞争法提起诉讼。这一举措是俄罗斯对科技公司施加压力的一部分，要求其遵守当地法规。",
-              "source_url": "https://www.ithome.com/0/985/304.htm",
+              "title": "美国政府完成先进AI模型自愿性评估框架制定，内容未公开",
+              "brief": "美国政府已完成先进AI模型自愿性评估框架的制定，但框架内容未公开。该框架基于6月2日行政命令，旨在为AI开发商提供结构化流程，帮助判断模型是否属于监管范围。框架涉及保密要求、网络安全、风险管理等规定，但具体细节未披露。白宫表示正与行业讨论下一步计划，包括Anthropic、OpenAI和谷歌等公司已提供反馈。框架中关于模型评估的基准测试和适用门槛被列为机密。",
+              "source_url": "https://www.ithome.com/0/985/380.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-04T08:32:20+08:00"
+              "published_at": "2026-08-04T10:45:57+08:00"
             },
             {
-              "title": "《侏罗纪世界：进化2 完全版》登陆Switch 2，售价59.99美元",
-              "brief": "《侏罗纪世界：进化2 完全版》现已登陆任天堂Switch 2平台，售价59.99美元（约合人民币430元）。该版本包含所有可下载内容，拥有超过120种恐龙和11个内容包，包括“Dominion Biosyn”扩充包，带来以《侏罗纪世界3》故事为灵感的沉浸式新剧情。游戏是2018年《侏罗纪世界：进化》的续作，具有全新叙事剧情，并由电影原班人马配音，玩家可建造个性化建筑、雇佣科学家，打造专属公园满足游客和恐龙需求。",
-              "source_url": "https://www.ithome.com/0/985/302.htm",
+              "title": "宝可梦开发商Game Freak新作《轮回之兽》获IGN 6分：设计重复乏味",
+              "brief": "宝可梦开发商Game Freak新作《轮回之兽》获IGN 6分评价，PC版72分。IGN认为游戏设定吸引人，但设计重复性高，令人乏味。战斗系统缺乏变化，敌人和Boss设计重复，剧情堆砌JRPG套路。伙伴巨狼Koo是亮点，但探索和成长系统单调。游戏流程约35小时，美术和音乐优秀，但整体未达预期。",
+              "source_url": "https://www.ithome.com/0/985/375.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-04T08:28:03+08:00"
+              "published_at": "2026-08-04T10:39:22+08:00"
             },
             {
-              "title": "微软高管详解Win11优化方案：降低内存占用改善8GB设备体验",
-              "brief": "微软高管Marcus Ash透露，公司正全面优化Windows 11以降低内存占用，改善8GB内存设备的性能。Ash表示，微软将操作系统优化视为全栈挑战，从像素显示到内核调度器、驱动程序均需改进。微软将召集内部团队，监测用户任务，分析如何降低内存占用，包括预加载机制和资源释放。此外，微软会重新审视设计，帮助用户轻松关闭不需要的程序。此举或受内存价格上涨和MacBook Neo竞争影响，微软计划年底前推送这些优化改进。",
-              "source_url": "https://www.ithome.com/0/985/301.htm",
+              "title": "联想来酷斗战者战7000X轻薄游戏本上市，首发+国补7904.15元起",
+              "brief": "联想来酷斗战者战7000X轻薄游戏本上市，首发价叠加国补后7904.15元起。该笔记本搭载酷睿7 245HX或酷睿Ultra 7 251HX处理器，全系配备RTX 5060显卡，轻约1.99kg，薄约18.95mm，支持180W整机性能释放。配备16英寸2560×1600 180Hz屏幕，100% sRGB色域，16GB DDR5内存，80Wh电池，提供多种接口。",
+              "source_url": "https://www.ithome.com/0/985/371.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-04T08:21:55+08:00"
+              "published_at": "2026-08-04T10:37:38+08:00"
             }
           ]
         },
@@ -466,11 +466,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "希捷计划2027年底推出50TB热辅助磁记录硬盘，单碟容量达5TB",
-              "brief": "希捷在2026财年Q4财报电话会议上透露，计划于2027年底推出基于HAMR热辅助磁记录技术的50TB机械硬盘，通过10块磁碟组合实现单碟5TB的存储密度。首批产品将面向AI和云计算行业，先交付给OEM和数据中心客户进行认证。目前希捷基于Mozaic 4+技术的硬盘最高支持44TB，预计到2026年底将占HAMR硬盘出货量的50%。得益于AI数据中心需求，希捷2026Q4营收达36亿美元，环比增长17%，同比增长48%。冷存储需求旺盛，EB级产能已排至2028年。",
-              "source_url": "https://www.landian.news/archives/114178.html",
+              "title": "苹果全球下架Telegram后恢复上架，原因不明",
+              "brief": "2026年8月4日，苹果公司在全球App Store短暂下架即时通讯应用Telegram，随后已恢复上架，用户可正常下载更新。此次下架原因尚不明确，苹果和Telegram均未发布官方声明。业内猜测，能引发全球范围下架通常涉及重大问题，例如安全漏洞，而非地区性政策违规。已安装用户在此期间仍可使用，但iOS/iPadOS用户无法重新下载。此事件引发了广泛关注，具体原因仍待官方披露。",
+              "source_url": "https://www.landian.news/archives/114185.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-04T08:30:41+08:00"
+              "published_at": "2026-08-04T10:35:14+08:00"
+            },
+            {
+              "title": "腾讯云8月促销：99元/年境外CN2GIA服务器，国内高配109元/年",
+              "brief": "腾讯云更新8月促销活动，再次补货99元/年的境外CN2服务器，包括美国硅谷和韩国首尔区域，配置为2核2GB内存、30M带宽和1TB流量。此外，还为AI智能体用户提供了109元/年的境内高配服务器，具备4核心4GB内存，适合部署网站、博客或各类AI智能体。活动还包含199元/年的更高配置境外CN2服务器及三年期国内服务器套餐，旨在提供高性价比的云服务选择。",
+              "source_url": "https://www.landian.news/archives/114184.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-04T10:30:55+08:00"
+            },
+            {
+              "title": "谷歌Chrome将推出新安全功能，防范垃圾软件劫持搜索与新标签页",
+              "brief": "谷歌正为Chrome浏览器开发一项新安全功能，旨在阻止垃圾软件或恶意软件通过策略劫持用户的默认搜索引擎和新标签页。该功能将针对非托管的消费者PC，拦截未经用户同意通过策略安装的扩展程序，并将其加入阻止列表。然而，用户手动安装的新标签页扩展程序将不受影响。此举旨在解决长期存在的浏览器劫持问题，但企业在托管环境下通过策略控制浏览器设置的功能将正常保留。",
+              "source_url": "https://www.landian.news/archives/114181.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-04T10:00:03+08:00"
+            },
+            {
+              "title": "微软白板应用个人版8月22日起关停，用户需提前导出数据",
+              "brief": "微软宣布，其白板应用（Microsoft Whiteboard）将于2026年8月22日起停止对个人用户的支持。届时，个人用户将无法创建或修改白板，且所有数据将在9月5日被永久删除，无法恢复。因此，个人用户需尽快将现有数据导出为图片或PDF等格式。对于企业和教育机构用户，旧版白板应用也将停用，需迁移至通过Microsoft Teams访问、由OneDrive支持的新版白板应用，独立应用将在9月14日弃用。",
+              "source_url": "https://www.landian.news/archives/114180.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-04T09:30:51+08:00"
+            },
+            {
+              "title": "微策略出售1638枚比特币套现1.047亿美元，用于支付股息与回购股票",
+              "brief": "美国科技公司微策略（MSTR）近期披露，于7月27日至30日出售了1,638枚比特币，套现1.047亿美元，平均售价63,957美元/枚。此次资金主要用于支付旗下优先股股息（5,240万美元）和回购公司股票（5,230万美元），以稳定在加密货币熊市中持续下跌的股价。尽管微策略此前也曾出售比特币，但分析师认为其爆雷风险较低，正在通过筹集资金构建储备金库以应对市场波动。",
+              "source_url": "https://www.landian.news/archives/114179.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-04T09:00:16+08:00"
             }
           ]
         }
