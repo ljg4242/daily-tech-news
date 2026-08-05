@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T02:51:00.861610+08:00",
+  "generated_at": "2026-08-06T04:51:22.075427+08:00",
   "sections": [
     {
       "category": "主要",
@@ -42,45 +42,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "iCloud 私密中继或泄露真实 IP 地址",
-              "brief": "安全研究人员 Tommy Mysk 和 Talal Haj Bakry 发现，iCloud 私密中继存在漏洞，任何支持或假装支持密钥的网站都能看到用户的真实 IP 地址。问题源于 WebKit 引擎处理密钥的方式，设备在浏览器外部发出请求，绕过私密中继。在 iOS 上影响更严重，因为所有浏览器都使用 WebKit，甚至影响 Tor 浏览器 OnionBrowser。研究人员已向 Apple 报告，Apple 承认问题严重，但未提供修复时间表。",
-              "source_url": "https://9to5mac.com/2026/08/05/icloud-private-relay-leaking-your-ip-address/",
+              "title": "2026年（迄今）我最喜欢的Apple Watch配件",
+              "brief": "作者自2015年起佩戴Apple Watch，认为其配件生态丰富。文中推荐了两款表带：Nomad Tempo Band，采用FKM橡胶材质，防水轻便，适合运动，售价59美元；Kuxiu Titanium Silk Band，外观类似苹果米兰尼斯表带，但价格更实惠。此外，还提到其他配件如充电器和保护壳。作者强调表带接口不变，旧表带兼容新款手表。",
+              "source_url": "https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-06T02:42:36+08:00"
+              "published_at": "2026-08-06T04:18:00+08:00"
             },
             {
-              "title": "iPadOS 27 新增两项备受喜爱的功能",
-              "brief": "iPadOS 27 带来了两项实用功能。第一，菜单栏和状态栏改进：现在可以设置菜单栏始终可见，并且状态栏会显示当前应用名称，类似 Mac 体验。第二，CMD+Space 快捷键增强：新的 Spotlight 不仅搜索更强，还集成了 Siri AI 的全部能力，用户可快速唤起 Siri，且系统智能判断查询应交给 Siri 还是 Spotlight。这些功能提升了 iPad 的生产力和易用性，尤其适合配合键盘使用。",
-              "source_url": "https://9to5mac.com/2026/08/05/ipados-27-adds-two-new-ipad-features-ive-been-loving/",
+              "title": "Apple Watch Ultra 4：三项令人期待的新功能",
+              "brief": "文章列举了Apple Watch Ultra 4的三大亮点：更强大的S11芯片以优化Siri AI，提升处理速度和响应性；新增健康传感器和功能，可能包括高血压通知升级；改进电源效率，有望延长电池续航。这些升级基于传闻，但作者表示期待。",
+              "source_url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-06T02:21:00+08:00"
+              "published_at": "2026-08-06T04:04:52+08:00"
             },
             {
-              "title": "iOS 27 为锁屏带来四种自定义方式",
-              "brief": "iOS 27 新增四种锁屏自定义功能：扩展壁纸（利用 AI 扩展图片边缘）、生成壁纸（通过 Image Playground 创建风格化或自定义壁纸）、移动时钟（可将时钟移到顶部小部件行）、以及滑动关闭正在播放小部件。这些功能让用户能更灵活地个性化锁屏，尤其是展示壁纸。扩展功能会自动建议用于调整照片比例，生成壁纸支持自然语言描述，移动时钟释放空间，而关闭播放小部件则减少干扰。",
-              "source_url": "https://9to5mac.com/2026/08/05/ios-27-lock-screen-customization/",
+              "title": "WhatsApp频道管理员将能标记AI生成内容",
+              "brief": "据WABetaInfo报道，WhatsApp正在测试新功能，允许频道管理员将更新标记为AI生成。该功能可能为满足特定国家法规要求而推出。管理员可通过长按消息，在上下文菜单中选择“添加AI内容标签”，标签将显示在消息气泡上，且可能无法移除。目前仅适用于图片、视频等媒体，不涉及文本。",
+              "source_url": "https://9to5mac.com/2026/08/05/whatsapp-channel-admins-will-soon-get-the-ability-to-flag-ai-generated-media/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-06T01:34:37+08:00"
+              "published_at": "2026-08-06T04:00:44+08:00"
             },
             {
-              "title": "iPhone Ultra 名副其实，软件体验是关键",
-              "brief": "关于苹果即将推出的折叠屏 iPhone，命名传闻一直指向“iPhone Ultra”。起初作者质疑该名称，因为硬件上可能不及 Pro 系列，但深入思考后认为，其软件体验才是关键。iPhone Ultra 将拥有最大的屏幕，适合视频、社交媒体、游戏和生产力任务，支持分屏多任务，外屏方便快速操作和打字。这些体验让“Ultra”名副其实。作者期待新 CEO 领导下的产品能带来惊喜，并邀请读者分享看法。",
-              "source_url": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
+              "title": "Meta发布Muse Code AI编程代理，支持macOS和Linux",
+              "brief": "Meta推出Muse Code，一款基于Muse Spark 1.2模型的终端编程代理，可处理大型代码库的复杂工程任务。Mac用户可通过一行命令安装。它具备规划、编写代码、验证和协调后台代理的能力，并记录事件日志以便崩溃后恢复。Muse Spark 1.2在代码生成、调试和代码库理解方面有提升，可通过Muse Code和Meta模型API使用。",
+              "source_url": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-05T23:41:31+08:00"
+              "published_at": "2026-08-06T03:25:19+08:00"
             },
             {
-              "title": "促销：MacBook Neo 最高优惠 120 美元，MacBook Pro 优惠 500 美元，Apple Watch 等",
-              "brief": "苹果官方翻新商店提供 MacBook Neo 最低价，最高优惠 120 美元，起价 599 美元。另有 M5 Pro MacBook Pro 优惠 500 美元，Apple Watch Series 11 优惠 150 美元，Apple Watch SE 3 优惠 80 美元，Apple Watch Ultra 3 优惠 130 美元。此外，8 月 AirPods 促销最高优惠 100 美元，包括 AirPods Pro 3 降至 200 美元，AirPods Max 2 降至 449 美元等。百思买返校季促销也在进行中。",
-              "source_url": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
+              "title": "Siri AI仅限新款Apple设备，完整列表在此",
+              "brief": "Siri AI将在iOS 27及配套更新中推出，但仅支持特定硬件。兼容设备包括iPhone 15 Pro及以上、iPad Pro（M1及以后）、Mac（Apple Silicon）、Apple Watch Series 9及以后、Apple Vision Pro。部分高级功能（如自定义语音）仅限更新的设备。用户需考虑升级硬件以体验完整Siri AI。",
+              "source_url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-05T23:30:18+08:00"
+              "published_at": "2026-08-06T03:22:16+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "UAG解决了Galaxy Z Fold 8的最大抱怨",
+              "brief": "UAG通过一个简单的设计变更解决了Galaxy Z Fold 8的配件兼容性问题。三星的相机凸起设计占手机背部三分之一，与无线充电线圈位置冲突，导致方形磁吸配件无法正常使用。UAG在相机开孔底部增加了一个小型材料切口，为方形Qi2配件留出空间，使得充电器、钱包、支架等配件能够完美对齐，实现快速无线充电。这一改动让用户终于能正常使用磁吸配件。",
+              "source_url": "https://9to5google.com/2026/08/05/uag-fixed-my-biggest-galaxy-phone-complaint/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-06T03:30:00+08:00"
+            },
+            {
+              "title": "三星称Galaxy Z Fold 8“完美”观看全屏视频，但事实并非如此",
+              "brief": "三星宣传Galaxy Z Fold 8是“完美设备”，适合观看全屏内容，但其内屏4:3比例导致观看视频时仍有黑边。尽管外屏10:16比例适合短内容，但内屏在播放电影或YouTube视频时无法完全填满屏幕，与宣传不符。实际使用中，视频画面上下有黑边，并未达到全屏效果。",
+              "source_url": "https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-06T03:05:00+08:00"
+            },
+            {
+              "title": "谷歌通讯录揭示Pixel 11 HiLight支持的色彩",
+              "brief": "谷歌通讯录应用版本4.85的代码显示，Pixel 11的HiLight功能（代号“glow”）将允许用户为收藏联系人设置来电时的“发光颜色”，可选颜色包括蓝色、青色、绿色、橙色、粉色、紫色、蓝绿色、白色和黄色。该功能与Pixel VIPs集成方式类似，预计将在Pixel 11上推出。",
+              "source_url": "https://9to5google.com/2026/08/05/google-contacts-pixel-11-hilight/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-06T03:01:43+08:00"
+            },
             {
               "title": "周中安卓游戏和应用优惠：Exile、Last Survivor、Summer Catchers、Thronefall 等",
               "brief": "本周中安卓游戏和应用迎来促销，包括 Exile、Last Survivor、Summer Catchers、Thronefall 等多款热门作品。此外，三星 Galaxy Z Fold 8 和 Fold 8 Ultra 的预购优惠仍在进行，可享 100 美元折扣、200 美元积分、免费 Galaxy Buds 以及 Galaxy Watch Ultra 2 的 300 美元优惠。更多优惠信息请查看原文。",
@@ -94,27 +115,6 @@
               "source_url": "https://9to5google.com/2026/08/05/rings-renter-friendly-peephole-camera-gets-a-2k-upgrade-starting-at-99/",
               "source_name": "9to5Google",
               "published_at": "2026-08-06T01:20:00+08:00"
-            },
-            {
-              "title": "Nothing 用 AI 生成人物展示新耳机，引发众怒 [图库]",
-              "brief": "Nothing 的 CMF 品牌因在 CMF Clip Pro 营销图片中使用 AI 生成的人物而遭到强烈反对。这些图片带有“包含 AI 生成图像，与真人相似纯属巧合”的免责声明。其中一张图片因效果不佳被删除。尽管部分图片乍看逼真，但细看仍能发现 AI 痕迹，例如地铁场景中背景文字模糊不清。网友普遍批评这种做法，认为这是“AI 垃圾”的又一例证。",
-              "source_url": "https://9to5google.com/2026/08/05/nothing-cmf-ai-generated-people-marketing/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-06T01:00:00+08:00"
-            },
-            {
-              "title": "Demis Hassabis 不再担任 DeepMind CEO，专注 AGI 新角色，Jeff Dean 离职",
-              "brief": "Demis Hassabis 卸任 Google DeepMind CEO，转任 Alphabet 首席科学家及 GDM 主席，专注于 AGI 战略。Koray Kavukcuoglu 接任 GDM 高级副总裁，负责 Gemini 模型开发及前沿 AI 研究。Hassabis 表示将继续与 Sundar Pichai 合作，并就 AGI 事务提供建议。Jeff Dean 也宣布离职。",
-              "source_url": "https://9to5google.com/2026/08/05/demis-hassabis-deepmind/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-06T00:18:20+08:00"
-            },
-            {
-              "title": "促销：Galaxy Fold 8 预购优惠仍在，Galaxy 手机低至 345 美元，Google Pixelsnap 充电器 40% 折扣等",
-              "brief": "三星 Galaxy Z Fold 8 系列预购优惠即将结束，最高可享 1,230 美元以旧换新折扣、200 美元三星积分等。同时，2026 款 Galaxy A 系列手机低至 345 美元，CMF Clip Pro 开放式耳机首发价 79 美元，Google Pixelsnap 充电器（25W Qi2）降价 40% 至 42 美元。部分渠道发货可能延迟至 9 月，但 Best Buy 和亚马逊仍可于周一送达。",
-              "source_url": "https://9to5google.com/2026/08/05/deals-galaxy-fold-8-galaxy-a37-google-pixelsnap-charger/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-05T23:54:58+08:00"
             }
           ]
         },
@@ -122,25 +122,39 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "D-Wave测试双轨量子比特纠缠",
-              "brief": "D-Wave以其量子退火机闻名，如今也在开发基于门的量子硬件。该公司测试了其双轨量子比特的纠缠能力，这种技术有望简化量子纠错。在《自然》杂志发表的论文中，他们展示了两个双轨量子比特可以纠缠而不影响其易检测错误的特性。双轨量子比特由两个耦合谐振器组成，一个光子可以处于左或右的叠加态，这种设计使得最常见的错误类型易于检测。",
-              "source_url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+              "title": "Hank Green发现YouTube标签无法捕捉的AI问题",
+              "brief": "Hank Green发现YouTube的AI披露政策存在漏洞。该政策要求创作者在AI显著改变或生成逼真内容时进行披露，但界限模糊，例如AI生成的独角兽奇幻场景无需披露，而AI制作的音乐则需披露。政策还豁免了AI辅助创作，如大纲、脚本、缩略图等。这种不一致可能导致AI生成的政治宣传内容逃避监管，引发对信息真实性的担忧。",
+              "source_url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-06T00:37:07+08:00"
+              "published_at": "2026-08-06T03:51:40+08:00"
             },
             {
-              "title": "谷歌计划于9月4日关闭手机上的Assistant",
-              "brief": "谷歌宣布将于9月4日开始逐步关闭Android设备上的Google Assistant，强制用户转向Gemini。这一过程可能需要数周完成。受影响的不只是手机，还包括智能手表、耳机和Android Auto汽车等依赖手机的设备。大多数智能家居设备已转向Gemini，但Android TV和内置Google的车辆尚未确定具体日期。此举是谷歌将AI助手统一到Gemini平台的一部分。",
-              "source_url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+              "title": "SpaceX声称Starlink Mobile将优于AT&T、T-Mobile和Verizon",
+              "brief": "SpaceX计划利用从EchoStar购买的频谱许可证，建设地面基站，与卫星网络结合，提供自己的移动服务，直接与三大运营商竞争。SpaceX总裁Gwynne Shotwell表示，该服务将消除盲区，在自然灾害中表现更佳，并预计能吸引大量客户。下一代Starlink移动卫星将于明年开始发射，随后提供服务。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-05T23:30:02+08:00"
+              "published_at": "2026-08-06T03:38:56+08:00"
             },
             {
-              "title": "SpaceX首份财报引发投资者担忧",
-              "brief": "SpaceX公布上市后首份财报，营收超预期达78亿美元，但资本支出高达160亿美元用于AI，远超预期，导致股价下跌10%。马斯克计划大幅增加计算能力，到2027年达到10GW，其中大部分成本用于芯片。公司表示将独家采用Nvidia硬件。投资者对巨额支出和未来盈利前景表示担忧，股价已从峰值下跌近半。",
-              "source_url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+              "title": "大西洋飓风季看似平淡，但将付出代价",
+              "brief": "2026年大西洋飓风季迄今表现平静，仅有两个命名风暴Arthur和Bertha，且强度中等。累计气旋能量低于正常水平的30%。但科学家警告，这种平静可能预示着后续更强烈的风暴活动，或带来其他气候代价。目前模型预测超出以往观测范围，需警惕潜在风险。",
+              "source_url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-05T21:59:17+08:00"
+              "published_at": "2026-08-06T03:19:04+08:00"
+            },
+            {
+              "title": "谷歌AI重组：DeepMind的Hassabis卸任，资深科学家离职",
+              "brief": "谷歌DeepMind CEO Demis Hassabis宣布将卸任日常管理职责，转任母公司Alphabet的监督角色，专注于AGI等宏观问题。同时，多位资深科学家离职，引发人才流失担忧。Hassabis将继续领导Isomorphic Labs，而DeepMind日常运营将交给Koray Kavukcuoglu。",
+              "source_url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-06T03:05:58+08:00"
+            },
+            {
+              "title": "影评：《蜘蛛侠：崭新的一天》提醒我们超级英雄电影可以很棒",
+              "brief": "《蜘蛛侠：崭新的一天》是汤姆·霍兰德主演的最新蜘蛛侠电影，导演德斯汀·丹尼尔·克雷顿。影片讲述了彼得·帕克在《英雄无归》后孤独生活，秘密关注MJ和Ned。评论认为，该片不仅有大场面，更注重角色塑造和情感节奏，成为近年来少有的优秀超级英雄电影。",
+              "source_url": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-06T02:27:15+08:00"
             }
           ]
         },
@@ -233,6 +247,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "罗素兄弟祝贺《蜘蛛侠：崭新的一天》创票房纪录",
+              "brief": "罗素兄弟在社交媒体上发文，祝贺《蜘蛛侠：崭新的一天》创下北美首周末票房历史纪录，并称“接力棒已经传递”。他们分享了一张由Bosslogic创作的图片，图中蜘蛛侠身披美国国旗，手指上戴着无限宝石戒指，手持棋子。罗素兄弟还特别感谢了主演汤姆·霍兰德、赞达亚等演员和制片人。他们的新片《复仇者联盟：末日》将于12月上映，有望挑战这一纪录。此外，《蜘蛛侠：崭新的一天》将于8月7日起在IMAX影院上映，而《奥德赛》的70毫米IMAX放映将延长至9月16日。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-box-office-record-russo-brothers",
+              "source_name": "IGN",
+              "published_at": "2026-08-06T03:42:38+08:00"
+            },
+            {
+              "title": "独特单人日记式RPG《冒险降临》众筹即将结束",
+              "brief": "一款名为《冒险降临》的单人日记式角色扮演游戏正在Kickstarter上众筹，活动即将结束。游戏设定中，一条贪婪的巨龙降临北极，抢走了一堆礼物作为宝藏，玩家需要拯救圣诞节。每天打开一个门，根据提示书写故事，最终自定结局。该游戏由英国独立出版商推出，此前类似作品《恐怖降临》以圣诞恐怖为主题。实体日历售价15英镑，数字版5英镑，预计11月发货。第一版游戏广受欢迎，现在可预订以获得节日期间的游戏体验。",
+              "source_url": "https://www.ign.com/articles/this-unique-solo-journaling-rpg-has-a-kickstarter-campaign-thats-ending-soon",
+              "source_name": "IGN",
+              "published_at": "2026-08-06T03:02:21+08:00"
+            },
+            {
               "title": "iPhone 18 Pro 起售价可能至少 1399 美元",
               "brief": "苹果已上调 Mac 和 iPad 价格，iPhone 和 Apple Watch 暂未受影响。但据分析师 Jeff Pu 预测，iPhone 18 Pro 起售价约 1399 美元，Pro Max 约 1449-1499 美元，较上一代涨幅约 24%。此轮涨价受 AI 驱动的内存短缺影响，预计将持续。三星 Galaxy Z Fold 8 Ultra 等机型也已涨价。折叠屏 iPhone 可能因高价而延迟推出。",
               "source_url": "https://www.ign.com/articles/the-iphone-18-pro-will-probably-cost-at-least-1399",
@@ -252,26 +280,19 @@
               "source_url": "https://www.ign.com/articles/pokmon-developer-game-freak-promises-fixes-within-a-week-to-its-big-budget-rpg-beast-of-reincarnation-following-mixed-response-at-launch",
               "source_name": "IGN",
               "published_at": "2026-08-06T00:32:25+08:00"
-            },
-            {
-              "title": "Xbox 主机更新新增录制与成就功能",
-              "brief": "Xbox 正在为 Insiders 测试新功能，包括在游戏录制中包含派对聊天音频（需玩家手动开启），以及新的成就功能。这些更新将在未来几周内向所有 Xbox 用户推出。此举正值 Xbox 战略转向多平台和 PC 化，但此次更新仍专注于主机体验。",
-              "source_url": "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features",
-              "source_name": "IGN",
-              "published_at": "2026-08-06T00:31:47+08:00"
-            },
-            {
-              "title": "AMD 游戏业务仅占本季度营收的 6%",
-              "brief": "AMD 2026 年第二季度游戏业务收入同比下降 31% 至 7.79 亿美元，主要因半定制芯片收入下滑，即游戏主机销量减少。尽管游戏业务萎缩，但 AMD 总营收达 115 亿美元，同比增长 51%，数据中心业务增长 107% 至 67 亿美元，主要受 AI 驱动。未来游戏硬件价格可能继续上涨，AMD 或更侧重 AI 领域。",
-              "source_url": "https://www.ign.com/articles/gaming-made-up-just-6-of-amds-earnings-this-quarter",
-              "source_name": "IGN",
-              "published_at": "2026-08-06T00:15:13+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "Google DeepMind CEO Demis Hassabis 卸任",
+              "brief": "Google 对其 AI 部门 DeepMind 进行领导层重组，诺贝尔奖得主、CEO Demis Hassabis 卸任，转任新设立的首席科学家并兼任董事长。同时，资深工程师及 Google Brain 联合创始人 Jeff Dean、Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 离开 Google，共同创立公益性 AI 企业 Discovery Loop，专注于机器学习、科学和工程的突破性研究。此次人事变动恰逢 Google 最新 Gemini 模型发布延迟，原计划 6 月发布至今未发布，引发外界对 Google 在 AI 竞争中落后于 Anthropic 和 OpenAI 的担忧。",
+              "source_url": "https://www.solidot.org/story?sid=85019",
+              "source_name": "Solidot",
+              "published_at": "2026-08-06T01:08:13+08:00"
+            },
             {
               "title": "微软要求工程师不要最大化AI Token使用",
               "brief": "微软执行副总裁Jay Parikh在内部邮件中要求工程师专注于业务成果，而非最大化AI token使用量。为从token投资中获得更大价值，微软将更便宜的OpenAI GPT-5.6设为内部默认模型。自2026年7月起，各部门将设定AI token预算目标，员工可追踪AI支出。此举旨在控制因员工追求绩效而导致的AI使用成本飙升。",
