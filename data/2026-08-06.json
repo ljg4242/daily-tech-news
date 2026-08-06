@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T16:50:20.962976+08:00",
+  "generated_at": "2026-08-06T18:50:32.416504+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI请求法官驳回苹果的商业秘密诉讼",
+              "brief": "OpenAI已请求联邦法官驳回苹果对其窃取商业秘密的诉讼，称这些指控“毫无根据”。OpenAI的律师表示，苹果的诉讼歪曲了其员工的行为。该动议为首席硬件官唐·尤·谭辩护，他在苹果工作了24年，曾任iPhone和Apple Watch产品设计副总裁，后离开并与前苹果设计总监乔尼·艾维共同创立io Products。io于2025年7月与OpenAI合并。OpenAI称谭在面试苹果员工时遵循了正常的行业招聘惯例。OpenAI还为高级系统工程师张刘辩护，他是诉讼中点名的两名前苹果员工之一。苹果声称刘在发现认证漏洞后数周内访问了机密硬件文件。OpenAI称刘只是帮助一位前苹果同事查找信息，并公布了短信摘录以支持这一说法。OpenAI的律师写道：“苹果不应被允许提起毫无根据且借口的诉讼。”OpenAI的动议认为，苹果从未明确指出哪些信息属于可保护的商业秘密。该公司表示对苹果的机密材料不感兴趣，因为它正在“构建与苹果完全不同的全新事物”。Axios报道称，OpenAI的提交文件还反驳了苹果构建案件的方式。根据OpenAI的说法，苹果自身的安全实践（包括允许员工使用个人iCloud账户工作，并在公司设备上留下个人信息后审查个人消息）是导致前员工系统访问权限残留的原因，而非协同盗窃的证据。这份31页的文件反复将案件描述为苹果试图掩盖自身困境，其中“失败”一词的变体出现了近50次。",
+              "source_url": "https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-06T18:46:33+08:00"
+            },
             {
               "title": "Meta推出Mac编码代理，允许训练数据可享20倍优惠",
               "brief": "Meta今日发布Muse Code，一款面向macOS和Linux的终端编码代理，目前处于测试阶段。它由Meta最新的Muse Spark 1.2模型驱动，可完成大型代码库的软件工程任务，包括规划变更、编写代码和验证结果。Muse Code提供多种默认技能，如/plan、/grill和/goal。它维护本地事件日志，崩溃后可恢复。定价方面，标准层每百万输入令牌1.25美元，输出4.25美元；若允许Meta使用数据训练模型，可享受大幅折扣，输入仅需0.10美元，输出0.20美元，但速率限制更严格。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/08/05/ted-lasso-season-4/",
               "source_name": "MacRumors",
               "published_at": "2026-08-06T04:51:29+08:00"
-            },
-            {
-              "title": "Sunbird的Android版iMessage应用重返Google Play",
-              "brief": "Sunbird Messaging重新推出其将iMessage带给Android用户的应用，现已上架Google Play。该应用允许Android用户向iPhone用户发送“蓝泡泡”消息，整合了iMessage、RCS和短信/彩信。此前因安全漏洞于2023年关闭，当时用户Apple ID凭证通过HTTP未加密传输，存在被拦截风险。2024年曾以邀请制测试，现公开可用。Sunbird声称消息在设备和传输中加密，不存储于服务器，Apple ID仅用于设置会话后销毁。应用提供14天免费试用，订阅费每月2.99美元或每年24.99美元。",
-              "source_url": "https://www.macrumors.com/2026/08/05/sunbird-imessage-for-android/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-06T03:43:28+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "OpenAI要求驳回苹果商业秘密诉讼，称其未经充分调查",
+              "brief": "OpenAI已提交动议，要求驳回苹果提起的商业秘密诉讼，称苹果的投诉“未经充分调查”，并断章取义地描述了“普通行为”。苹果则正寻求初步禁令，该听证会将于10月1日举行。OpenAI辩称，苹果未能提供其拥有商业秘密的法律证据，也未合理指控不当行为。OpenAI指出，苹果引用的前员工讨论机密信息的例子被曲解，并提到本周早些时候公布的iMessage对话，显示刘畅是被苹果员工要求检索信息，而非为OpenAI利益行事。OpenAI还反驳了苹果关于前副总裁唐坦保留离职文件的说法，称其是为了确保新员工遵守离职流程。目前双方均无意和解，案件可能持续数年。",
+              "source_url": "https://9to5mac.com/2026/08/06/openai-apple-thrown-out-lawsuit/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-06T18:23:19+08:00"
+            },
             {
               "title": "Abode推出兼容Apple Home的车库与户外传感器",
               "brief": "Abode今日发布了两款兼容Apple Home的新型传感器：车库倾斜传感器和户外接触传感器。这两款传感器专为监控传统室内传感器难以覆盖的入口点而设计，如车库门、大门、信箱等。它们不仅支持Apple Home，还兼容Alexa和Google Assistant，并可利用Abode的CUE智能家居自动化引擎实现个性化场景，例如夜间大门打开时自动开启车道灯，或车库门开启超过10分钟自动关闭。车库倾斜传感器可检测45度以上的倾斜变化，电池续航长达10年；户外接触传感器具备IP66防水等级，配备更强磁铁和更宽的触发间隙，减少误报。在最佳条件下，连接范围可达500英尺。Abode创始人兼CEO Chris Carney表示，入室盗窃往往始于未上锁的侧门或车库，这些传感器旨在填补安全盲区。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/08/05/whatsapp-channel-admins-will-soon-get-the-ability-to-flag-ai-generated-media/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-06T04:00:44+08:00"
-            },
-            {
-              "title": "Meta发布Muse Code AI编程代理，支持macOS和Linux",
-              "brief": "Meta推出Muse Code，一款基于Muse Spark 1.2模型的终端编程代理，可处理大型代码库的复杂工程任务。Mac用户可通过一行命令安装。它具备规划、编写代码、验证和协调后台代理的能力，并记录事件日志以便崩溃后恢复。Muse Spark 1.2在代码生成、调试和代码库理解方面有提升，可通过Muse Code和Meta模型API使用。",
-              "source_url": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-06T03:25:19+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌或将为Android照片选择器内置编辑器，解决编辑痛点",
-              "brief": "谷歌正在为Android照片选择器添加内置媒体编辑器。在Android 17 QPR2 Beta 2中发现了一个“EditFeature”类，以弹出对话框形式提供裁剪、标记等快速编辑功能。由于照片选择器通过Google Play系统更新，该功能可独立于系统更新推出。目前，用户在选择媒体后如需编辑，必须退出应用，前往图库编辑后再返回，过程繁琐。新功能将简化这一流程。",
-              "source_url": "https://www.androidauthority.com/android-photo-picker-media-editor-apk-teardown-3695131/",
+              "title": "谷歌推出Pixel Tag，但我绝不会买",
+              "brief": "谷歌即将推出Pixel Tag蓝牙追踪器，兼容Find Hub网络，被视为AirTag的安卓替代品。然而，作者作为AirTag用户，对生态锁定感到不满，认为Pixel Tag来得太晚，且Find Hub网络规模尚小，除非谷歌实现真正的跨平台，否则不会购买。",
+              "source_url": "https://www.androidauthority.com/google-pixel-tag-wont-buy-3694175/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-06T16:19:45+08:00"
+              "published_at": "2026-08-06T18:30:20+08:00"
             },
             {
-              "title": "Android 17更新或致Pixel用户遭遇新触摸屏故障",
-              "brief": "自Android 17推送以来，部分Pixel用户报告在游戏或全屏应用中出现触摸屏无响应问题。该问题似乎与早前报告的触摸bug无关，仅在特定应用占据整个屏幕时出现，如YouTube播放视频。受影响区域可能为屏幕一角或整个屏幕，旋转设备时无响应区域会移动，表明是软件问题。谷歌尚未确认或修复。",
-              "source_url": "https://www.androidauthority.com/pixel-android-17-touch-screen-bug-games-3695142/",
+              "title": "Nothing公司计划2027年手机发布量翻倍",
+              "brief": "Nothing联合创始人透露，公司计划在2027年发布比今年多一倍的手机，可能多达六款。尽管内存危机影响CMF产品线，但Nothing对智能手机雄心不减。美国市场被视为音频领域的重点，更多产品细节将在临近发布时公布。",
+              "source_url": "https://www.androidauthority.com/nothing-phone-double-launches-2027-3695195/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-06T16:18:06+08:00"
+              "published_at": "2026-08-06T18:26:08+08:00"
             },
             {
-              "title": "谷歌Gemini或新增设备帮助功能，可诊断Pixel问题",
-              "brief": "谷歌正在测试Gemini的“设备帮助”功能，允许Pixel用户用自然语言描述问题，而非在设置中查找。Gemini可检查相关设置并建议修复，例如当用户报告“屏幕太黄”时，识别出夜间模式。该功能出现在Pixel 9上，带有“实验室”标签，表明仍处于实验阶段。若推出，将使Gemini成为Pixel的故障排除助手。",
-              "source_url": "https://www.androidauthority.com/google-gemini-device-help-on-pixel-3695104/",
+              "title": "Signal终于支持多Android设备同步",
+              "brief": "Signal更新后，用户可将另一部Android手机或平板关联至现有账户，并可选择迁移消息历史和最近45天的媒体。整个过程端到端加密，也可选择不迁移。此举解决了Signal长期以来的多设备使用痛点，同时改进了平板和折叠屏的界面布局。",
+              "source_url": "https://www.androidauthority.com/signal-android-device-linking-3695169/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-06T15:19:34+08:00"
+              "published_at": "2026-08-06T18:18:57+08:00"
             },
             {
-              "title": "MANGMI推出Game Boy风格安卓掌机，起售价89.99美元",
-              "brief": "MANGMI宣布将于8月12日推出Air Y系列垂直安卓掌机。标准版搭载骁龙662，3GB+32GB，早鸟价89.99美元，建议零售价94.99美元。Pro版可选骁龙865，4GB+64GB或8GB+128GB，早鸟价分别为145.99美元和175.99美元。两款均配备5000mAh电池、4.2英寸4:3屏幕，Pro版有双摇杆和立体声扬声器。",
-              "source_url": "https://www.androidauthority.com/mangmi-air-y-series-price-availability-3695088/",
+              "title": "Aurzen将推出低于70美元的Roku TV投影仪",
+              "brief": "Aurzen宣布将于9月1日发布EAZZE E1R迷你便携投影仪，搭载Roku TV，售价低于100美元。预购用户支付1美元即可获得30美元折扣券，并有机会获赠便携袋。该投影仪高度与iPhone 17 Pro Max相当，采用旋转设计，支持USB供电，音腔体积增大三倍。",
+              "source_url": "https://www.androidauthority.com/aurzen-roku-tv-portable-projector-preorder-deal-3695166/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-06T15:08:22+08:00"
+              "published_at": "2026-08-06T18:10:41+08:00"
             },
             {
-              "title": "Narwal Freo 20扫地机器人发布：双RGB摄像头+自清洁拖布",
-              "brief": "Narwal发布Freo 20扫地机器人，首次在Freo系列中采用FlowWash拖地系统，通过16个喷嘴向拖布喷热水，避免水痕。吸力达31000Pa，配备可伸缩拖布和边刷。双RGB摄像头可识别300种物体，支持宠物和婴儿模式，实时视频监控。基座具备四阶段自清洁，自动集尘袋2.4L，可维持120天。售价1099.99美元，8月20日至9月3日优惠价899.99美元。",
-              "source_url": "https://www.androidauthority.com/narwal-freo-20-robot-vacuum-3695116/",
+              "title": "Chrome安卓版亟需的5个功能",
+              "brief": "Chrome在Android上落后于Firefox、Edge等浏览器，缺少扩展支持、隐私控制、自定义选项和后台播放等功能。作者认为扩展支持是最关键的需求，其次是界面灵活性。谷歌虽在开发支持扩展的版本，但仅限Android PC，手机和平板仍无望。",
+              "source_url": "https://www.androidauthority.com/google-chrome-missing-features-android-3690595/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-06T15:04:43+08:00"
+              "published_at": "2026-08-06T18:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "OpenAI称苹果的商业机密诉讼“烂到根上”",
+              "brief": "OpenAI已要求联邦法官驳回苹果对其提起的具有里程碑意义的诉讼，称其指控“毫无根据”。在昨日提交的驳回动议中，OpenAI表示，苹果错误地将该公司员工的行为定性为窃取，并将“通用”的产品开发信息误称为“商业机密”，且苹果未采取合理措施保密。此举是对苹果7月提起诉讼的回应，该诉讼指控前苹果员工跳槽至OpenAI后窃取机密文件，以推进其硬件开发计划。OpenAI的正式法律反驳紧随其周二发布的博客文章之后。",
+              "source_url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+              "source_name": "The Verge",
+              "published_at": "2026-08-06T05:33:11-04:00"
+            },
             {
               "title": "马斯克的人工智能维基百科数月未更新",
               "brief": "据Lawfare报道，埃隆·马斯克曾承诺将“大幅改进”维基百科的AI生成在线百科全书Grokipedia，自4月24日以来似乎未再更新。该网站自2025年10月推出v0.1版，包含88.5万篇文章，目前为v0.2版，文章总数超过600万。但其“最近更改”页面显示“目前无实时编辑”。尽管用户仍可建议新条目和编辑，但Lawfare检查了热门和冷门页面，均未发现更新。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
               "source_name": "The Verge",
               "published_at": "2026-08-05T13:34:48-04:00"
-            },
-            {
-              "title": "苹果翻新MacBook Neo降价100美元",
-              "brief": "苹果官方翻新MacBook Neo现以涨价前价格出售，256GB版售价599美元，512GB版售价679美元，均比原价便宜100美元。所有四种颜色均有货，并提供一年制造商保修，可选购AppleCare延长保修。",
-              "source_url": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-08-05T12:59:23-04:00"
             }
           ]
         }
@@ -253,6 +253,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "任天堂为地震灾区提供免费维修服务",
+              "brief": "任天堂宣布为受熊本地震影响的地区居民提供免费维修服务，直至2027年2月1日。该公司通过官方社交媒体向受灾民众表示深切慰问。此前，宝可梦公司已捐赠1亿日元用于救灾，索尼也承诺通过救助儿童会和日本红十字会捐款5000万日元。7月28日发生的6.8级地震已造成至少38人死亡，120多人受伤。",
+              "source_url": "https://www.ign.com/articles/nintendo-offers-free-repair-services-to-anyone-in-area-impacted-by-deadly-earthquake",
+              "source_name": "IGN",
+              "published_at": "2026-08-06T16:19:37+08:00"
+            },
             {
               "title": "宝马车主对车载蜘蛛侠广告感到不满",
               "brief": "近期，宝马车主发现车载信息娱乐系统中出现了蜘蛛侠广告，启动车辆时会显示“蜘蛛侠已进入你的宝马”的提示，点击后播放广告并引导用户购买新款宝马iX3。部分车主在Reddit上吐槽，称此举令人不适，甚至有人将其与苹果强制安装U2专辑相提并论。尽管广告可跳过，但车主担忧未来强制推送，认为在高端车上植入广告有失体面。宝马此前曾因座椅加热订阅服务引发争议而取消该计划。",
@@ -280,19 +287,19 @@
               "source_url": "https://www.ign.com/articles/playstation-5-consoles-now-come-with-warning-sticker-telling-players-that-physical-game-production-will-end",
               "source_name": "IGN",
               "published_at": "2026-08-06T06:52:59+08:00"
-            },
-            {
-              "title": "GTA5演员为GTA6试镜60个角色未获回应",
-              "brief": "曾在《GTA5》中饰演史蒂夫·海恩斯的演员博格透露，他为《GTA6》试镜了超过60个角色，但未获任何回应，对此感到失望。博格表示他曾与Rockstar合作愉快，但这次被拒让他怀疑公司有不用旧演员的政策。尽管他公开抱怨，但博格仍对游戏保密，并承认演员生涯充满拒绝。Rockstar曾让《GTA5》演员在《荒野大镖客2》中客串，但删除了台词以避免分心。",
-              "source_url": "https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar",
-              "source_name": "IGN",
-              "published_at": "2026-08-06T06:00:09+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "北极气温多次超过32摄氏度",
+              "brief": "北极多地气温本周多次超过32摄氏度。位于北极圈附近的Selagoncy气象站记录到33.9摄氏度高温，另一气象站Olenek气温也达32.7摄氏度。气象学家Alan Gerard指出，近年研究表明，由于海冰减少的反馈作用，北极升温速度远超全球其他地区，形成危险循环：海冰融化导致反射阳光减少，海洋吸收热量增加，进而加速海冰融化。北极升温速度比全球平均快四倍。今年预计出现强厄尔尼诺现象，气温上升趋势短期内难以放缓。",
+              "source_url": "https://www.solidot.org/story?sid=85023",
+              "source_name": "Solidot",
+              "published_at": "2026-08-06T17:20:04+08:00"
+            },
             {
               "title": "Rust 语言宣布 LLM 政策",
               "brief": "Rust 语言团队宣布了新的 LLM 政策，规定除作者外无人必须阅读 LLM 输出，除非自愿；LLM 输出不允许出现在公开文档、PR 描述或 GitHub 评论中，除非明确标注；审核者无需查看 LLM 生成的 PR。没有人必须使用 LLM 为 rust-lang/rust 做贡献，政策先为人类编写，仅提供机器摘要，LLM 审核不能替代人工。你可以生成仅供自己查看的 LLM 内容，但不得发布到期望我们阅读或审核的地方。LLM 可用于回答问题、分析、提炼、完善、检查、提出建议和审核，但不能用来创造。",
@@ -320,19 +327,26 @@
               "source_url": "https://www.solidot.org/story?sid=85019",
               "source_name": "Solidot",
               "published_at": "2026-08-06T01:08:13+08:00"
-            },
-            {
-              "title": "微软要求工程师不要最大化AI Token使用",
-              "brief": "微软执行副总裁Jay Parikh在内部邮件中要求工程师专注于业务成果，而非最大化AI token使用量。为从token投资中获得更大价值，微软将更便宜的OpenAI GPT-5.6设为内部默认模型。自2026年7月起，各部门将设定AI token预算目标，员工可追踪AI支出。此举旨在控制因员工追求绩效而导致的AI使用成本飙升。",
-              "source_url": "https://www.solidot.org/story?sid=85018",
-              "source_name": "Solidot",
-              "published_at": "2026-08-06T00:12:38+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "微软推出人工智能初学者课程：共12周24节课",
+              "brief": "微软开源的人工智能初学者课程，共12周24节课，已获6万多颗星，支持多种语言包括简体中文。课程涵盖TensorFlow、PyTorch等工具及AI伦理，适合初学者。内容包括符号AI、神经网络、计算机视觉、自然语言处理等，并提供实验、测验和社区资源。推荐给中学生、大学生及有兴趣的学习者。",
+              "source_url": "https://www.appinn.com/ms-ai-for-beginners/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-06T16:38:00+08:00"
+            },
+            {
+              "title": "NIGHTRUN：U盘启动的本地大模型客户端，无需操作系统",
+              "brief": "NIGHTRUN是一个能直接UEFI启动的LLM终端，无需操作系统，插入U盘即可进入本地大模型对话界面。它支持Llama 3.2、Qwen3等模型，纯CPU运行，不支持GPU。该项目旨在证明技术可行性，将本地大模型嵌入UEFI固件环境，插上U盘即可启动AI聊天，技术炫技意义大于实用价值。",
+              "source_url": "https://www.appinn.com/nightrun/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-06T16:32:04+08:00"
+            },
             {
               "title": "流氓软件克星：清理右键菜单、自启动等残留",
               "brief": "一款名为RogueCleaner的小工具，专门扫描并清理Windows系统中的流氓软件残留，包括右键菜单、自启动项、计划任务、服务、浏览器插件、文件关联等。用户运行后点击扫描，即可列出疑似流氓软件的项目，勾选后一键清理。但需注意，扫描结果并非全部是流氓软件，用户需自行判断。若清理后出现问题，可通过恢复中心恢复。开发者提供了源码，但编译的exe文件曾被杀毒软件报毒，建议自行打包。",
