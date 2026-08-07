@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T04:51:21.683403+08:00",
+  "generated_at": "2026-08-08T06:50:36.775681+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI因黑客风险推迟发布下一代AI模型Astra",
+              "brief": "OpenAI今日宣布，因其下一代AI模型Astra的网络能力可能过于危险，将“暂停”相关活动。OpenAI表示，最新的内部评估显示其在智能体编码和网络安全方面有显著进步，但无法排除“关键网络能力”的可能性。此前的模型如GPT-5.6 Sol被评为“高风险”，而Astra触发了OpenAI“准备框架”中更严格的指导方针。该框架要求对可能造成严重伤害的前沿AI能力保持谨慎，并规定对“可能引发大规模网络攻击和漏洞利用新风险”的模型实施额外保护。Astra可能达到的“关键”阈值定义为能够自主识别和开发针对众多加固的真实世界关键系统的各种严重程度的零日漏洞，或设计并执行端到端的新型网络攻击策略。OpenAI表示将增加安全措施，包括限制模型开发、使用隔离测试环境、沙盒执行和增强监控，并与政府机构及AI安全组织合作测试Astra。OpenAI承诺与各方合作，确保前沿AI模型负责任地部署。Astra尚未正式发布，但OpenAI近期透露了其数学进展。",
+              "source_url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T05:27:43+08:00"
+            },
+            {
+              "title": "iOS 26首次越狱成功，归功于Dopamine",
+              "brief": "经过326天，iOS 26迎来了首次越狱，这要归功于流行的Dopamine越狱工具的开发者。Lars Fröder（又名opa334）今日发布了Dopamine 3.0，该版本支持多个新固件版本，包括A12或A13芯片设备上的iOS 26.0和iOS 26.0.1。此次发布的另一个重大新增功能是支持所有运行iOS 16.5.1至iOS 17.3.1的设备，大大扩展了兼容的设备和软件版本范围。完整的支持列表可在AppleDB上查看。",
+              "source_url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T04:56:52+08:00"
+            },
             {
               "title": "苹果传闻将在明年初推出三款新“Ultra”产品",
               "brief": "据彭博社的马克·古尔曼和Macworld的Filipe Espósito等消息源报道，苹果计划在2026年底至2027年初推出多达三款带有“Ultra”品牌的新产品。传闻已久的可折叠iPhone预计将命名为“iPhone Ultra”，传闻其配备7.7英寸内屏和5.3英寸外屏，后置双摄，前置单摄，采用Touch ID电源键而非Face ID，大屏适合观看视频和多任务处理。预计“iPhone Ultra”将于今年9月与iPhone 18 Pro和Pro Max一同发布，美国起售价可能在1999至2499美元之间。“AirPods Ultra”据传最早今年发布，可能于9月与iPhone Ultra一同亮相，其本质是带有微型红外摄像头的AirPods Pro，可作为Siri的眼睛，增强视觉智能功能，耳机上的小LED灯指示摄像头状态。最后，苹果还计划推出配备OLED触摸屏的“MacBook Ultra”。",
@@ -28,26 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
               "source_name": "MacRumors",
               "published_at": "2026-08-08T00:07:57+08:00"
-            },
-            {
-              "title": "苹果占据全球高端智能手机市场 65% 份额",
-              "brief": "2026 年上半年，苹果在全球高端智能手机市场（售价 600 美元以上）的份额达到 65%，高端市场整体份额创纪录地占智能手机总销量的 29%。苹果高端产品收入同比增长 9%，但份额较 2022 年同期的 74% 有所下滑，主要因中国市场竞争加剧。",
-              "source_url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-07T22:32:54+08:00"
-            },
-            {
-              "title": "苹果正在测试 iOS 26.6.1 更新",
-              "brief": "根据 MacRumors 访客日志，苹果正在内部测试 iOS 26.6.1。此前苹果已发布 macOS 26.6.1 修复屏幕共享漏洞。iOS 26.6.1 预计将包含错误修复和安全更新，可能解决快捷指令应用中的问题。",
-              "source_url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-07T22:17:20+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Claude Code 现允许 macOS 上会话间互相通信",
+              "brief": "Anthropic 宣布推出跨会话消息功能，允许 Claude Code 的不同会话之间发送更新和相关信息。这对于同时运行多个会话、处理同一项目不同部分的用户尤为有用。该功能可让一个会话向另一个会话发送消息，例如在某个更改破坏其他构建时发出警告，或在解决阻塞问题时传递答案。用户只需提供内容，Claude 会自动编写消息。但该功能不适用于批准权限请求或更改配置，且命令如 /compact 会以纯文本形式到达。",
+              "source_url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T06:29:59+08:00"
+            },
+            {
+              "title": "9to5Mac Overtime 076：iPhone 上的原生复古游戏",
+              "brief": "本期 9to5Mac Overtime 播客讨论了在 iPhone 上原生运行复古游戏的话题，以及长期使用同一设备的感受。主持人 Fernando Silva 和 Jeff Benjamin 分享了他们的见解，并介绍了相关链接和资源，包括 Pokémon 3D Mod 和 SpaghettiKart。节目还提到了其他苹果新闻，如 MacBook Ultra 的发布时机、macOS 更新修复 Screen Sharing 漏洞、iPhone 18 Pro 的价格预测以及 CarPlay 的新功能。",
+              "source_url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T05:31:16+08:00"
+            },
+            {
+              "title": "《你的朋友与邻居》主演确认加盟第三部 Apple TV 项目",
+              "brief": "詹姆斯·马斯登（James Marsden）已确认出演 Apple TV 新剧《Bad News Dads》，这是一部神秘喜剧，改编自 Adam Frost 的小说。剧中，马斯登饰演 Ben，他是一名棒球业余联赛球员，在队友妻子离奇死亡后，与两名队友展开调查。该剧由 Stephen Falk 创作，马斯登还将担任执行制片人。这是马斯登继《Disavowed》和《你的朋友与邻居》后的第三部 Apple TV 作品。目前该剧仍在开发中，尚未确定播出日期。",
+              "source_url": "https://9to5mac.com/2026/08/07/your-friends-neighbors-star-confirmed-for-his-third-apple-tv-project/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T05:17:21+08:00"
+            },
             {
               "title": "新传闻：iPhone 17 下周可能涨价",
               "brief": "据爆料者 Fixed Focus Digital 称，有传言 iPhone 17 将于 8 月 10 日（下周一）涨价。这比预期的九月新品发布要早。虽然该消息未提及具体来源，但该爆料者以往消息较为可靠。若属实，苹果可能认为无需等到九月再调整价格。目前尚不清楚是全部型号涨价还是部分型号涨价。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/08/07/ios-27-has-long-awaited-fix-for-common-iphone-wireless-issue/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-08T04:14:05+08:00"
-            },
-            {
-              "title": "ChatGPT 或将支持创建并导出自定义 WhatsApp 贴纸",
-              "brief": "据 Android Authority 报道，OpenAI 正在为 ChatGPT 开发贴纸创建功能，用户可生成自定义贴纸并直接导出到 WhatsApp。最新版 ChatGPT Android 应用中的代码显示，该功能名为“ChatGPT Stickers”，支持将贴纸添加到 WhatsApp，且至少需要三张贴纸。目前仅支持 WhatsApp，具体发布时间未知。",
-              "source_url": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T04:10:30+08:00"
-            },
-            {
-              "title": "这些汽车制造商仍不支持 CarPlay，原因如下",
-              "brief": "特斯拉和 Rivian 是主要的不支持 CarPlay 的汽车制造商。特斯拉曾长期拒绝 CarPlay，但据报道正在开发支持，可能以“窗口”形式集成。Rivian 则明确表示不会支持，其 CEO 认为用户应完全使用自家系统，避免在两个系统间切换。其他品牌如通用汽车也坚持自研系统，担心失去数据控制权。",
-              "source_url": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T03:14:14+08:00"
-            },
-            {
-              "title": "新款 AirPods 下月可能发布，一项功能令人期待",
-              "brief": "据 Mark Gurman 报道，苹果计划今年秋季发布带摄像头的 AirPods，可能在下月 iPhone 活动中亮相。这些 AirPods 将支持视觉智能，可让用户向 Siri 询问周围环境。结合 iOS 27 的 VoiceOver 升级，摄像头 AirPods 有望为盲人或低视力用户提供强大辅助功能。苹果正将 AirPods 打造成健康设备，此项功能可能拓展至视力健康领域。",
-              "source_url": "https://9to5mac.com/2026/08/07/new-airpods-could-launch-next-month-and-one-feature-sounds-very-exciting/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T03:01:31+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixelated 111：为 Made By Google 黄金时段做准备",
+              "brief": "本期节目讨论关于 Made By Google 活动的传闻、泄露信息、预期，以及对主持人身份的一些错误猜测。您可以通过订阅 9to5Google Pro 收听我们全新的每周会员专属节目 Pixelated Pro 加长版。本期节目由 Proton Unlimited 赞助，通过我们的链接订阅可享受年度订阅 30% 的折扣。您可以在 YouTube、Podcasts、Pocket Casts、Spotify、Amazon Music、Apple Podcasts 和 Overcast 上收听。主持人包括 Abner Li、Damien Wilde 和 Will Sattelberg。更多内容请访问 9to5Google 网站。",
+              "source_url": "https://9to5google.com/2026/08/07/pixelated-111-primetime-prep-for-made-by-google/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-08T05:37:17+08:00"
+            },
             {
               "title": "Nothing Ear (3a) 评测：仅售99美元，却是最佳耳机",
               "brief": "Nothing Ear (3a) 延续了前代的高性价比，以99美元的价格提供出色的设计、音质和核心功能。耳机采用透明美学设计，新增粉色选项，佩戴舒适，续航持久（总续航42小时）。充电盒新增三颗LED指示灯，支持快速配对，整体体验优于许多价格翻倍的竞品。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/08/07/pixel-watch-5-teaser/",
               "source_name": "9to5Google",
               "published_at": "2026-08-08T00:23:25+08:00"
-            },
-            {
-              "title": "促销：Google Pixelsnap Charger大降50%至35美元，Galaxy A57历史新低，Nothing Phone (4a) Pro等",
-              "brief": "今日的9to5Toys Lunch Break促销中，Google官方25W Pixelsnap Charger with Stand在亚马逊降至35美元，为原价70美元的五折，创历史新低。此外，三星A57系列手机降至425美元的历史最低价，Nothing Phone (4a) Pro降至400美元（优惠100美元）。还有LG C6 OLED电视优惠900美元并返现10%。这些优惠为消费者提供了购买官方充电器和智能手机的好时机。",
-              "source_url": "https://9to5google.com/2026/08/07/deals-pixelsnap-charger-galaxy-a57-nothing-phone/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-07T23:54:26+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "AirPods Max 2 降价 100 美元，不容错过",
-              "brief": "亚马逊现正以 449 美元的价格出售 Apple AirPods Max 2，比建议零售价 549 美元优惠 100 美元，折扣达 18%。这款旗舰头戴式耳机搭载 H2 芯片，主动降噪效果提升至 1.5 倍，并支持自适应音频、对话感知、语音隔离、个性化音量和实时翻译等功能。通过 USB-C 连接支持无损和超低延迟音频。设计延续前代，用户评分 4.6 星。此次优惠使其更具吸引力。",
-              "source_url": "https://www.androidauthority.com/airpods-max-2-deal-3696054/",
+              "title": "YouTube TV用户开始获得免费ESPN Unlimited权限",
+              "brief": "去年迪士尼与YouTube TV的纠纷后，用户被承诺免费获得ESPN Unlimited。现在YTTV用户开始收到通知，ESPN Unlimited权限已上线。最初通过ESPN应用访问，YouTube TV上的直播内容稍后推出。该服务单独订阅每月30美元，对体育爱好者来说是个不错的选择。Google似乎正在分批推送通知，尚未收到的用户可能还需等待。",
+              "source_url": "https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-08T00:26:53+08:00"
+              "published_at": "2026-08-08T05:22:48+08:00"
             },
             {
-              "title": "历史低价！Alienware 240Hz QHD 电竞显示器 46% OFF",
-              "brief": "亚马逊将 Alienware 27 英寸电竞显示器降至 217.20 美元，相比建议零售价 398.56 美元，节省 181 美元，折扣达 46%，为历史最低价。该显示器配备 27 英寸 QHD（2560x1440）IPS 面板，原生 240Hz 刷新率，可超频至 280Hz，支持自适应同步，低输入延迟，色彩表现出色。做工扎实，支架可调，用户评分 4.4 星。适合电竞和日常使用。",
-              "source_url": "https://www.androidauthority.com/alienware-240hz-qhd-gaming-monitor-deal-3696037/",
+              "title": "Pixel Watch应用图标更新，时钟和秒表新外观",
+              "brief": "Google正在为Pixel Watch上的Wear OS应用更新图标，时钟和秒表应用获得了新配色，更显自然。时钟图标重新设计，采用经典10:10指针位置，整体更协调；秒表图标变化较小，仅为新颜色。此前Google已在6月更新了ECG图标。随着Pixel Watch 5即将发布，这些图标更新可能只是开始。",
+              "source_url": "https://www.androidauthority.com/pixel-watch-icons-3696097/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-08T00:04:29+08:00"
+              "published_at": "2026-08-08T03:54:11+08:00"
             },
             {
-              "title": "谷歌 AI 搜索疑似泄露未发布游戏内容，原因不明",
-              "brief": "一位独立游戏开发者声称，谷歌的 AI 搜索在回答玩家关于其游戏《Operation Octo》的“愚蠢”问题时，泄露了一个未发布的角色“Vantage Tripod”。开发者表示从未公开过该角色，且该信息仅存在于私人 Google Docs 文件中。谷歌否认扫描私有 Workspace 内容用于训练 AI 模型。此事引发对 AI 搜索数据来源的质疑。",
-              "source_url": "https://www.androidauthority.com/google-search-ai-allegedly-leaks-game-content-3695972/",
+              "title": "谷歌在Pixel Watch 5预告片中暗讽丑陋智能手表",
+              "brief": "谷歌发布新预告片，展示Pixel Watch 5并重申8月12日的发布日。视频中，谷歌称其智能手表“仍有像手表的体面”，疑似暗讽三星Galaxy Watch Ultra 2和苹果Apple Watch Ultra 2的笨重设计。此外，谷歌商店和百思买倒计时显示，用户可在发布会前预购最新Pixel设备。",
+              "source_url": "https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-07T23:35:41+08:00"
+              "published_at": "2026-08-08T02:06:57+08:00"
             },
             {
-              "title": "备受好评的 Nothing Phone 4a Pro 降至历史最低价",
-              "brief": "亚马逊现以 399.99 美元出售 Nothing Phone 4a Pro（128GB），较建议零售价 499.99 美元优惠 100 美元，折扣 20%，为历史最低。该手机配备 6.83 英寸 AMOLED 屏幕，144Hz 刷新率，搭载骁龙 7s Gen 4 处理器，8GB RAM，128GB 存储，内置 5080mAh 电池，支持 Android 16。设计独特，摄像头升级，用户评分 4.5 星。",
-              "source_url": "https://www.androidauthority.com/nothing-phone-4a-pro-deal-3696010/",
+              "title": "谷歌完成Pixel 11的主动协助功能，即将亮相",
+              "brief": "谷歌正在开发Gemini功能“主动协助”，类似Magic Cue，可根据屏幕上下文从应用中提取信息。最新发现显示，该功能可能随Pixel 11推出。通过安装Google应用17.47.17版本，我们获得了其引导界面截图，显示该功能将向用户介绍其功能及隐私问题。目前这些界面仅在特定设备上显示。",
+              "source_url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-07T23:17:30+08:00"
+              "published_at": "2026-08-08T01:58:34+08:00"
             },
             {
-              "title": "这些 Googlebook 泄露图中有一些不对劲",
-              "brief": "关于联想和华硕即将推出的 Googlebook 笔记本，出现了新的渲染图。联想的渲染图较为清晰，而华硕的图片经分析为 AI 生成，存在键盘字符和标识的伪影。这些 AI 图片可能基于真实渲染图，但来源不明。Digital Citizen 发布了 14 张所谓“完整渲染图”，但未说明其 AI 生成性质。",
-              "source_url": "https://www.androidauthority.com/googlebook-leaks-lenovo-asus-3695973/",
+              "title": "谷歌开发新AI语音笔记工具“对话捕获”",
+              "brief": "Android Authority在Android系统智能应用中发现新功能“对话捕获”的字符串，内部代号Auris。该功能将记录和转录音频，并可选集成Gemini，提供摘要、转录和建议操作。例如，会议后可设置提醒或自动创建日历事件。预计该功能将在Pixel 11系列上首次亮相。",
+              "source_url": "https://www.androidauthority.com/google-conversation-capture-3696029/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-07T23:13:29+08:00"
+              "published_at": "2026-08-08T01:41:15+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "沃尔玛赞助的游戏网站解雇全体编辑人员",
+              "brief": "游戏媒体网站Restart于2024年底推出，由沃尔玛赞助，现已解雇其“整个编辑团队”。该网站前主编Brandy Berthelson在周五的帖子中透露了这一消息，其他员工也发帖称被解雇。Restart由内容营销机构Moonrock运营，但其编辑使命页面称由沃尔玛“提供支持”。该页面介绍了沃尔玛的参与方式：当提及游戏时，会提供购买链接，通过合作伙伴跟踪代码将用户引导至沃尔玛。该链接不提供销售分成，但有助于沃尔玛了解客户如何到达产品。Restart自称是“独立网站”，并称沃尔玛“不影响我们的编辑方向”。",
+              "source_url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+              "source_name": "The Verge",
+              "published_at": "2026-08-07T18:05:08-04:00"
+            },
             {
               "title": "Fenix Flexin不再否认用AI制作《Rubberz》",
               "brief": "洛杉矶说唱歌手Fenix Flexin似乎终于承认在80年代合成器流行主题歌曲《Rubberz》中使用了AI。此前制作人Medasin发布视频称歌曲使用了AI工具Treblo（原名Sonauto），该公司还发布了一个AI检测器，识别出歌曲为Treblo AI创作。在Instagram回复评论时，Fenix表示：“我从没说我没用AI，我说这与录音过程无关。直到混音时我才知道那个应用，然后大家开始评论。使用新技术作为工具没什么不对。”",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
               "source_name": "The Verge",
               "published_at": "2026-08-07T14:04:08-04:00"
-            },
-            {
-              "title": "Disney Plus尝试新的AI驱动搜索",
-              "brief": "迪士尼正在测试一款新的AI工具，用于Disney Plus，该工具使用自然语言搜索、语音查询或建议提示来创建个性化的节目和电影推荐行。迪士尼表示，这个“有限测试版实验”正在“一小部分精选订阅者”中测试，旨在推荐“符合当下情境”的内容。这是迪士尼更广泛推动AI推荐工具的一部分，以帮助用户在庞大的流媒体内容目录中找到观看内容。此前，Netflix已开始测试OpenAI驱动的对话式搜索工具，并拥有原生语音搜索。",
-              "source_url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-              "source_name": "The Verge",
-              "published_at": "2026-08-07T13:53:44-04:00"
             }
           ]
         }
