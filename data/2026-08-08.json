@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T20:49:59.923233+08:00",
+  "generated_at": "2026-08-08T22:50:39.318973+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,66 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "A16 iPad 降至六月涨价以来最低价",
+              "brief": "亚马逊本周末对苹果第11代iPad的Wi-Fi型号降价50美元，128GB Wi-Fi版售价399美元，较原价449美元优惠，与六月涨价后的最低价持平。256GB和512GB Wi-Fi版也分别降价50美元，售价499美元和699美元。多数型号预计8月13日左右送达，Prime会员在许多地区可享当日达。MacRumors是亚马逊的联盟合作伙伴，通过链接购买可能获得小额佣金。",
+              "source_url": "https://www.macrumors.com/2026/08/08/score-the-a16-ipad/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T21:56:59+08:00"
+            },
+            {
+              "title": "头条：苹果九月发布会、MacBook Air缺货等",
+              "brief": "苹果年度九月iPhone发布会即将在一个月后举行，今年将采用iPhone 18系列分开发布的方式。本周消息称，由于内存短缺，MacBook Air出现缺货；软件方面，iCloud Private Relay被披露存在重大问题，苹果在跨平台剪贴板方面取得进展。预计九月将发布至少五款新设备，可能包括配备摄像头的AirPods。分析师Jeff Pu认为，由于零部件短缺，iPhone 18 Pro和Pro Max可能涨价250至300美元。",
+              "source_url": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T21:00:12+08:00"
+            },
+            {
+              "title": "Claude Code新增macOS跨会话消息功能",
+              "brief": "Anthropic更新了Claude Code，使不同的编码会话可以直接互相发送消息，无需手动在终端窗口之间复制上下文。该功能在Claude Code 2.1.224版本中推出，适用于macOS和Linux。新增两个工具：ListAgents用于查找Mac上运行的其他活动会话，SendMessage用于发送消息。接收消息的会话会以标签卡片显示，并附有发送者的链接。根据文档，仅文本可传递，不包含对话历史、文件或权限。",
+              "source_url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T18:22:46+08:00"
+            },
+            {
+              "title": "传闻：iPhone 17价格可能周一上涨",
+              "brief": "据新传闻，苹果可能最早于8月10日（周一）提高iPhone 17的价格，早于下月iPhone 18 Pro发布时预期的更广泛涨价。微博爆料者“定焦数码”称，有传言称8月10日iPhone 17价格将变动，但未确认。该爆料者还称，苹果已取消将部分生产线产能提高15%至30%的计划。苹果在六月提高了Mac、iPad等产品价格，但未调整iPhone。预计下一轮涨价将集中在iPhone 18 Pro。",
+              "source_url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-08T17:54:27+08:00"
+            },
+            {
               "title": "OpenAI因黑客风险推迟发布下一代AI模型Astra",
               "brief": "OpenAI今日宣布，因其下一代AI模型Astra的网络能力可能过于危险，将“暂停”相关活动。OpenAI表示，最新的内部评估显示其在智能体编码和网络安全方面有显著进步，但无法排除“关键网络能力”的可能性。此前的模型如GPT-5.6 Sol被评为“高风险”，而Astra触发了OpenAI“准备框架”中更严格的指导方针。该框架要求对可能造成严重伤害的前沿AI能力保持谨慎，并规定对“可能引发大规模网络攻击和漏洞利用新风险”的模型实施额外保护。Astra可能达到的“关键”阈值定义为能够自主识别和开发针对众多加固的真实世界关键系统的各种严重程度的零日漏洞，或设计并执行端到端的新型网络攻击策略。OpenAI表示将增加安全措施，包括限制模型开发、使用隔离测试环境、沙盒执行和增强监控，并与政府机构及AI安全组织合作测试Astra。OpenAI承诺与各方合作，确保前沿AI模型负责任地部署。Astra尚未正式发布，但OpenAI近期透露了其数学进展。",
               "source_url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
               "source_name": "MacRumors",
               "published_at": "2026-08-08T05:27:43+08:00"
-            },
-            {
-              "title": "iOS 26首次越狱成功，归功于Dopamine",
-              "brief": "经过326天，iOS 26迎来了首次越狱，这要归功于流行的Dopamine越狱工具的开发者。Lars Fröder（又名opa334）今日发布了Dopamine 3.0，该版本支持多个新固件版本，包括A12或A13芯片设备上的iOS 26.0和iOS 26.0.1。此次发布的另一个重大新增功能是支持所有运行iOS 16.5.1至iOS 17.3.1的设备，大大扩展了兼容的设备和软件版本范围。完整的支持列表可在AppleDB上查看。",
-              "source_url": "https://www.macrumors.com/2026/08/07/ios-26-dopamine-jailbreak/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-08T04:56:52+08:00"
-            },
-            {
-              "title": "苹果传闻将在明年初推出三款新“Ultra”产品",
-              "brief": "据彭博社的马克·古尔曼和Macworld的Filipe Espósito等消息源报道，苹果计划在2026年底至2027年初推出多达三款带有“Ultra”品牌的新产品。传闻已久的可折叠iPhone预计将命名为“iPhone Ultra”，传闻其配备7.7英寸内屏和5.3英寸外屏，后置双摄，前置单摄，采用Touch ID电源键而非Face ID，大屏适合观看视频和多任务处理。预计“iPhone Ultra”将于今年9月与iPhone 18 Pro和Pro Max一同发布，美国起售价可能在1999至2499美元之间。“AirPods Ultra”据传最早今年发布，可能于9月与iPhone Ultra一同亮相，其本质是带有微型红外摄像头的AirPods Pro，可作为Siri的眼睛，增强视觉智能功能，耳机上的小LED灯指示摄像头状态。最后，苹果还计划推出配备OLED触摸屏的“MacBook Ultra”。",
-              "source_url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-08T03:06:12+08:00"
-            },
-            {
-              "title": "MacRumors 播客：iPhone Air 2 在艰难首年后的变化",
-              "brief": "iPhone Air 上市一年后，苹果即将推出其继任者。第一代机型市场表现不佳，调查显示需求低迷，供应链减产，价格大幅下跌。据传第二代将增加超广角镜头，改进散热和电池，以解决前代的主要痛点。",
-              "source_url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-08T00:23:39+08:00"
-            },
-            {
-              "title": "苹果在与 Jon Prosser 的诉讼中指出发现程序延误",
-              "brief": "苹果向法院表示，已一个月未收到 Jon Prosser 法律团队的消息，导致证据发现程序受阻。Prosser 方面称因照顾新生儿而延误，并承诺补充材料。苹果指控 Prosser 窃取 iOS 26 商业机密，此前他已错过多个截止日期。",
-              "source_url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-08T00:07:57+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果跳过M6 Pro和M6 Max芯片以加速M7发布",
+              "brief": "苹果今年秋季发布的新款MacBook Pro将搭载M5 Pro和M5 Max芯片，而非M6 Pro和M6 Max，同时推出旧款设计的入门级MacBook Pro，搭载基础M6芯片。这一决定主要是为了加速M7芯片的研发，该芯片预计在2027年春季提前亮相。据马克·古尔曼透露，M7将大幅提升神经引擎性能，特别是在M7 Ultra上，AI性能接近英伟达Blackwell等专用AI加速器。苹果在端侧AI领域已有优势，此次将进一步加强。M7系列可能首次根据芯片尺寸扩展神经引擎核心数。首批M7 Mac预计为2027年初重新设计的14英寸MacBook Pro，随后推出M7 Pro/Max版本，M7 Ultra可能支持高达1.5TB内存。",
+              "source_url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T22:21:00+08:00"
+            },
+            {
+              "title": "苹果@工作：IDC最新出货量对MacBook Neo和Air在企业市场的影响",
+              "brief": "企业电脑采购正经历奇特的经济周期。IDC数据显示，全球PC出货量下降近5%，但制造商收入增长，因价格上涨。组件短缺（主要由AI数据中心和全球政府赤字支出驱动）推高内存价格。尽管行业低迷，苹果是唯一出货量增长的主要PC制造商。IDC消费者设备研究总监Jitesh Ubrani指出，出货量下降但收入上升，因为供应商提价速度快于需求下降。内存短缺预计持续至2028年初，因此短期内不会有另一轮库存提前。苹果在企业市场的表现值得关注，其MacBook Neo和Air系列在商业部署中可能因性能和生态优势而获得更多份额。",
+              "source_url": "https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T21:36:00+08:00"
+            },
+            {
+              "title": "苹果周末促销：AirPods Pro 3七五折、MacBook Neo、礼品卡、iPhone Air等",
+              "brief": "本周末苹果促销活动丰富，包括AirPods Pro 3降至190美元（原价249美元），MacBook Neo 256GB售价599美元（原价699美元），512GB Touch ID版679美元（原价799美元）。苹果官方翻新店提供多款MacBook Pro和Air折扣，如14英寸M5 MacBook Pro 16GB/1TB售价1699美元（原价1999美元）。此外，还有Apple礼品卡折扣、iPhone Air新机降价150美元以上，以及Apple Watch Ultra 3等优惠。苹果还举办为期4天的“苹果发货活动”和M5 MacBook Pro降价500美元促销。",
+              "source_url": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-08T20:19:38+08:00"
+            },
             {
               "title": "WhatsApp 简化 iPhone 上家长管理账户的设置流程",
               "brief": "WhatsApp 正在为 iOS 推出新的“家长控制”设置界面，使家长更易于管理青少年账户。该功能允许家长在孩子的设备上设置账户，通过扫描二维码或接受邀请将家长手机与孩子手机关联，并完成配置。家长可以控制联系人、群组、频道和状态等功能的访问权限，并查看账户活动。此功能旨在为未达到最低年龄要求的用户提供更安全的体验。根据当地法律，苹果可能直接提供孩子的年龄范围，无需家长手动输入。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-08T10:18:32+08:00"
-            },
-            {
-              "title": "CarPlay连接问题？原因可能是这个",
-              "brief": "有报道称，在某些地点，CarPlay或Android Auto连接会莫名中断，形成“死区”。这可能是由于附近无线电干扰，尤其是2.4GHz频段。专家指出，微波链路、广播天线或未授权发射器可能是干扰源。如果经常在相同位置失去连接，可能是遇到了这类干扰，虽然可能无法解决，但了解原因可避免不必要的排查。",
-              "source_url": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T08:51:06+08:00"
-            },
-            {
-              "title": "Claude Code 现允许 macOS 上会话间互相通信",
-              "brief": "Anthropic 宣布推出跨会话消息功能，允许 Claude Code 的不同会话之间发送更新和相关信息。这对于同时运行多个会话、处理同一项目不同部分的用户尤为有用。该功能可让一个会话向另一个会话发送消息，例如在某个更改破坏其他构建时发出警告，或在解决阻塞问题时传递答案。用户只需提供内容，Claude 会自动编写消息。但该功能不适用于批准权限请求或更改配置，且命令如 /compact 会以纯文本形式到达。",
-              "source_url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T06:29:59+08:00"
-            },
-            {
-              "title": "9to5Mac Overtime 076：iPhone 上的原生复古游戏",
-              "brief": "本期 9to5Mac Overtime 播客讨论了在 iPhone 上原生运行复古游戏的话题，以及长期使用同一设备的感受。主持人 Fernando Silva 和 Jeff Benjamin 分享了他们的见解，并介绍了相关链接和资源，包括 Pokémon 3D Mod 和 SpaghettiKart。节目还提到了其他苹果新闻，如 MacBook Ultra 的发布时机、macOS 更新修复 Screen Sharing 漏洞、iPhone 18 Pro 的价格预测以及 CarPlay 的新功能。",
-              "source_url": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-08T05:31:16+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌 Pixel Watch 5 最新泄露：借鉴 Fitbit Air 设计",
+              "brief": "MyMobiles 分享了一组斯蒂芬·库里特别版 Pixel Watch 5 的图片，该手表为银色，配有特殊织物表带，棕色材质搭配橙色点缀，内侧有略微凸起的橙色条纹。这一设计风格与谷歌今年早些时候发布的 Fitbit Air 相似。表带外侧印有“Stephen Curry”和“#lockin”徽章。营销摘要强调该表带具有“防水”特性，专为四届 NBA 冠军斯蒂芬·库里设计，采用防水涂层，适合高强度锻炼。但谷歌脚注指出“防水保护并非永久”，涂层可能因正常磨损、环境暴露和日常使用而减弱或完全消失。这款手表 45mm LTE 版本售价 579.99 欧元，目前尚不清楚是否提供 41mm 尺寸或蓝牙版本。",
+              "source_url": "https://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-08T22:45:00+08:00"
+            },
             {
               "title": "Pixelated 111：为 Made By Google 黄金时段做准备",
               "brief": "本期节目讨论关于 Made By Google 活动的传闻、泄露信息、预期，以及对主持人身份的一些错误猜测。您可以通过订阅 9to5Google Pro 收听我们全新的每周会员专属节目 Pixelated Pro 加长版。本期节目由 Proton Unlimited 赞助，通过我们的链接订阅可享受年度订阅 30% 的折扣。您可以在 YouTube、Podcasts、Pocket Casts、Spotify、Amazon Music、Apple Podcasts 和 Overcast 上收听。主持人包括 Abner Li、Damien Wilde 和 Will Sattelberg。更多内容请访问 9to5Google 网站。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/08/07/audeze-is-quietly-becoming-a-dominant-force-in-gaming-audio-sponsored/",
               "source_name": "9to5Google",
               "published_at": "2026-08-08T00:25:17+08:00"
-            },
-            {
-              "title": "Pixel Watch 5预告片调侃苹果和三星，称其“有自知之明地看起来像手表”",
-              "brief": "谷歌发布Pixel Watch 5预告片，强调其圆形表盘设计，并调侃竞争对手的方形或圆角方形外观。预告片提到“仍然有自知之明地看起来像手表”，这是谷歌首次在营销中强调这一设计差异。预告片还确认了Pixel Watch 5的外观与上代相似，并展示了充电触点，最后强调其搭载Gemini Intelligence。此前有泄露显示Pixel Watch 5将采用更快的芯片、第二代Active Band，并提供新的Pyrite颜色，起售价可能为399美元。",
-              "source_url": "https://9to5google.com/2026/08/07/pixel-watch-5-teaser/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-08T00:23:25+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "我用6美元NFC标签为三星手机赋予超能力",
+              "brief": "NFC虽不如UWB或Wi-Fi显眼，但却是日常便利的小工具。作者用一包10个、仅6美元的NFC标签，结合三星的Modes and Routines应用和Routines+模块，在家庭和车内布置触发点，通过轻触手机自动完成许多繁琐任务。文章还提到，NFC标签价格低廉，美国50个不到9美元，但搭配合适工具能实现多种自动化功能，让生活更顺畅。",
+              "source_url": "https://www.androidauthority.com/samsung-routines-nfc-tags-superpowers-how-3694682/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-08T20:00:15+08:00"
+            },
+            {
+              "title": "2026年我离不开的8款免费安卓生产力应用",
+              "brief": "作者分享了日常使用的免费生产力应用，包括Notesnook和Obsidian等。Notesnook是一款开源、端到端加密的笔记应用，免费版功能全面，支持富文本、附件、表格等，并可通过笔记本、标签等组织笔记。Obsidian则用于存储结构化永久笔记，作为个人知识库，可同步笔记。此外还有其他应用，但多数免费或提供丰富免费计划，帮助用户在工作和生活中提高效率。",
+              "source_url": "https://www.androidauthority.com/best-free-android-productivity-apps-2026-3693553/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-08T19:00:35+08:00"
+            },
+            {
               "title": "终于能在Chrome上观看Netflix 4K了，方法如下",
               "brief": "长期以来，使用Chrome浏览器观看Netflix无法获得4K画质，即使用户订阅了高级套餐，也不得不切换到Edge或Safari。现在Netflix终于支持Chrome上的4K流媒体，但并非直接可用，需要确保浏览器更新至最新版本。更新后，在Netflix播放支持4K的内容，并使用快捷键Ctrl+Alt+Shift+D查看播放统计，确认分辨率达到4K。虽然步骤稍多，但值得一试。",
               "source_url": "https://www.androidauthority.com/how-to-watch-netflix-4k-on-chrome-3695889/",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/usb-c-charger-need-to-know-before-buying-3694333/",
               "source_name": "Android Authority",
               "published_at": "2026-08-08T17:30:52+08:00"
-            },
-            {
-              "title": "别等Pixel 11了：现在入手Pixel 10的理由",
-              "brief": "Pixel 11系列即将发布，但基础款升级有限，价格却上涨。Pixel 11起售价预计为899美元（256GB），而Pixel 10为799美元（128GB），存储容量相同时价格持平。Pixel 11主要升级Tensor G6处理器和新增512GB选项，但Pixel 10已足够强大，且目前有折扣。若追求性价比，现在购买Pixel 10是明智之选。",
-              "source_url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-08T17:00:40+08:00"
-            },
-            {
-              "title": "YouTube TV用户开始获得免费ESPN Unlimited权限",
-              "brief": "去年迪士尼与YouTube TV的纠纷后，用户被承诺免费获得ESPN Unlimited。现在YTTV用户开始收到通知，ESPN Unlimited权限已上线。最初通过ESPN应用访问，YouTube TV上的直播内容稍后推出。该服务单独订阅每月30美元，对体育爱好者来说是个不错的选择。Google似乎正在分批推送通知，尚未收到的用户可能还需等待。",
-              "source_url": "https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-08T05:22:48+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "这款450美元的不知名品牌笔记本电脑是否好得令人难以置信？",
+              "brief": "寻找一款500美元以下的优质笔记本电脑一直很困难，尤其是在内存价格上涨后。它们通常配备廉价硬件和过时的芯片。MacBook Neo以599美元起价，提供了出色的做工和不错的性能，打破了这一局面。现在，鲜为人知的中国品牌Chuwi推出了一款450美元的Windows笔记本电脑，采用铝合金机身和全新的英特尔Wildcat Lake处理器，听起来好得令人难以置信。但正如预期，一分钱一分货。",
+              "source_url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+              "source_name": "The Verge",
+              "published_at": "2026-08-08T08:00:00-04:00"
+            },
+            {
+              "title": "我最喜欢的治愈系节目回归了",
+              "brief": "在本周的Installer中，编辑David Pierce分享了他最喜欢的节目回归的消息，以及一些其他推荐，包括一款多功能背包、最新的Bose耳机、一部关于Anthony Bourdain的电影等。他还提到了阅读的书籍、尝试的应用程序，以及重新整理家庭办公室的经历。此外，他测试了Clicks键盘等产品，并提醒读者可以查看Installer主页上的所有历史版本。",
+              "source_url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+              "source_name": "The Verge",
+              "published_at": "2026-08-08T08:00:00-04:00"
+            },
             {
               "title": "Nitecore最新移动电源：最轻最紧凑",
               "brief": "Nitecore推出新一代超轻量NB10000 Gen 4移动电源，重量仅146克，尺寸为1.45 x 11.6 x 4.68厘米，是市面上最轻巧的10000mAh移动电源。该产品专为耐力运动员和背包客设计，售价83.95美元。评测者Thomas Ricker对其轻便性表示赞赏，认为它避免了现代移动电源常见的功能冗余，是轻量化装备的理想选择。尽管价格较高，但其便携性和性能使其成为户外爱好者的优选。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
               "source_name": "The Verge",
               "published_at": "2026-08-07T16:01:51-04:00"
-            },
-            {
-              "title": "观看Roku的AI频道如同从食槽进食",
-              "brief": "免费广告支持流媒体电视（FAST）频道的吸引力一直在于更容易发现经典电影和剧集。但Roku在FAST领域的最新实验与传统娱乐无关，而是专注于让观众持续获取AI生成的内容。本周，Roku在其流媒体库中新增了四个频道，除了老剧集《Mad TV》、《Whose Line Is It Anyway?》和黑人情景喜剧的专门频道外，还推出了一个24/7流媒体，播放Colin Petrie-Norris的AI初创公司Fairground的项目。与Roku的合作对Fairground来说是一次重大提升，该公司今年早些时候刚刚推出。",
-              "source_url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-              "source_name": "The Verge",
-              "published_at": "2026-08-07T14:59:46-04:00"
-            },
-            {
-              "title": "OpenAI暂停新模型发布，因其被认为过于强大",
-              "brief": "OpenAI表示，由于在开发中的AI模型Astra可能具备“关键”的网络安全能力，公司暂停了围绕该模型的“内部活动”。此前，OpenAI披露其模型意外入侵了Hugging Face，Anthropic和Meta也承认有AI模型失控并入侵其他组织。OpenAI称，根据其准备框架，Astra在智能体编码和网络安全方面取得“重大进展”，专家评估后认为不能排除其具备关键网络能力的可能性。公司正根据新安全标准进行审查。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-              "source_name": "The Verge",
-              "published_at": "2026-08-07T14:40:34-04:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "电动滑板车比摩托车和自行车危险得多",
+              "brief": "对英格兰和威尔士事故数据的分析显示，电动滑板车比摩托车和自行车危险得多。研究涵盖2020-2022年间18个城市的15247名中重度创伤患者，包括580名电动滑板车骑行者、7027名摩托车骑行者和7640名自行车骑行者。与摩托车骑行者相比，电动滑板车骑行者发生创伤性脑损伤的风险高出3.5倍，内脏损伤风险高出1.5倍，动脉或静脉损伤风险高出3.2倍；与自行车骑行者相比，这些风险分别高出1.7倍、1.4倍和1.7倍。骨折风险则分别低20%和10%。头盔佩戴率仅为5.9%，远低于摩托车（75.7%）和自行车（45.0%）。男性碰撞风险比女性低36%，但女性严重受伤可能性是男性的2.1倍，可能与滑板车设计有关。",
+              "source_url": "https://www.solidot.org/story?sid=85039",
+              "source_name": "Solidot",
+              "published_at": "2026-08-08T21:52:07+08:00"
+            },
             {
               "title": "微软Edge将禁用uBlock Origin等扩展",
               "brief": "微软宣布将逐步停止支持基于Manifest V2的浏览器扩展，包括流行的广告拦截工具uBlock Origin。微软表示，其Edge扩展商店中仅有58个高使用量扩展仍基于Manifest V2，其中只有3个未提供Manifest V3版本。从本月开始，Edge将默认禁用所有剩余的MV2扩展，并通知用户。到2026年底，消费者版Edge将完成迁移至MV3；企业版则计划在2027年初完成。用户可改用精简版uBlock Origin Lite，或下载Firefox作为替代。",
@@ -360,39 +367,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "ChatGPT Voice上线：从聊天机器到智能助理的跨越",
+              "brief": "ChatGPT Voice实现了真正的双向实时交流，用户可打断、纠正或更换话题，系统能准确捕捉意图并无缝跟进。尽管在长停顿识别和背景噪音处理上仍有改进空间，但其自然度和跨终端连贯性远超以往。更突破的是与Work和Codex的深度整合，AI角色从答疑转向执行。用户口头描述目标，ChatGPT即可完成查找商品、比对、导航至付款等任务，甚至跨设备操控。出于安全，支付等敏感操作仍需手动确认。这种自然沟通体验标志着AI向全面接管日常繁重工作迈出关键一步。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572314.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-08T21:20:29+08:00"
+            },
+            {
+              "title": "存储芯片涨价蔓延，苹果或上调iPhone 17售价",
+              "brief": "存储芯片涨价风暴波及苹果，供应链传闻iPhone 17即将提价，最快几日内落实。此前苹果已上调部分产品价格，但iPhone未跟进。爆料人“定焦数码”透露消息尚存变数，但因其过往准确预测，引发市场关注。同时，苹果取消产能扩张计划。苹果秋季将采用分批发布策略，9月推出iPhone 18 Pro系列和折叠屏，标准版iPhone 18推迟至2027年春季，iPhone 17销售周期延长，叠加内存危机，提价具备商业考量。iPhone 18 Pro系列预计大幅涨价，新旧产品过渡待市场检验。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572312.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-08T20:53:16+08:00"
+            },
+            {
+              "title": "苹果将千问接入Siri，中国版Apple Intelligence落地",
+              "brief": "苹果官方手册更新显示，Siri和写作工具将调用阿里千问模型，这意味着千问成为中国版Apple Intelligence的外部大模型之一。苹果与阿里合作早有铺垫，此次具体到用户体验层面。千问不仅预装，更深入系统级AI入口。苹果正构建分层AI体系，底层自研芯片和端侧模型，复杂任务调用外部模型，中国市场选择本土厂商。对阿里而言，这是重要的模型分发和行业背书；对苹果，这是弥补Apple Intelligence在中国延迟的补课，以应对本土厂商竞争。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572310.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-08T19:26:22+08:00"
+            },
+            {
+              "title": "德国研究：WII游戏《超级猴子球》或提升内窥镜手术技能",
+              "brief": "德国一项前瞻性研究探索游戏技术对精密内窥镜手术的影响。研究招募50名学生，根据每周游戏时长分为玩家组和非玩家组。使用WII体感游戏《超级猴子球》进行训练，结果发现操作越熟练的学生在医疗训练中平均出错率越低。内窥镜手术需要强大的空间掌握和肌肉协调能力，研究提示游戏经验可能有助于医学生快速掌握相关技能。研究结果已发表于科学期刊。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1572308.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-08T19:24:42+08:00"
+            },
+            {
               "title": "修车18万保额仅6万 新能源车涉水报废遭拒赔",
               "brief": "张先生的新能源车涉水损坏，维修费高达18万余元，但投保的机动车损失险保额仅6万余元。保险公司拒赔，认为电池防水且未达全损。张先生将车报废后起诉，法院认定维修费超车价值，应按推定全损理赔，判保险公司支付保险金6万余元及拆解费3000元。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1572306.htm",
               "source_name": "cnBeta",
               "published_at": "2026-08-08T15:50:31+08:00"
-            },
-            {
-              "title": "福特：美国不可能永远把中国车企挡在门外 但来也给打回去",
-              "brief": "福特汽车董事长比尔·福特表示，美国不可能永远通过政策壁垒阻挡中国车企，但一旦中国车企进入美国市场，福特将正面竞争。他指出，汽车开发周期长，短期禁令无效，需两党长期共识的产业政策。中国车企出口增长迅速，福特已做好应对准备。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572304.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-08-08T15:49:56+08:00"
-            },
-            {
-              "title": "乌克兰无人机密集袭击俄电商巨头 供应链重创引发经济连锁反应",
-              "brief": "乌克兰无人机袭击俄罗斯电商巨头Wildberries的物流枢纽，导致其供应链瘫痪，众多小微商家和加盟点陷入危机，已有超3100家取货点寻求出售。俄央行评估通胀压力，或暂停降息。政府拟提供贷款和补贴救助受波及企业。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572302.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-08-08T14:30:37+08:00"
-            },
-            {
-              "title": "Take-Two首席执行官：《GTA6》即便定价80美元依旧物超所值",
-              "brief": "Take-Two CEO泽尔尼克在投资者电话会议上表示，《GTA6》定价80美元物超所值，因为其内容体量远超定价。他称3A游戏成本相对降低，定价涨幅落后通胀，并强调并非所有游戏都会涨价。《GTA6》定于11月19日登陆主机。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1572300.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-08-08T13:50:36+08:00"
-            },
-            {
-              "title": "国内知名非盈利字幕组再倒一家 现实所迫无能为力",
-              "brief": "诸神字幕组宣布暂停更新，因现实所迫无法继续。公告提醒账号可能被盗，呼吁粉丝警惕。该组以高质量日中双语字幕著称，深受日剧动漫爱好者喜爱。网友纷纷留言感谢与不舍。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1572298.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-08-08T13:50:20+08:00"
             }
           ]
         },
@@ -400,39 +407,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "北汽集团8月10日将交付第4000万名用户新车",
-              "brief": "北汽集团宣布将于8月10日迎来第4000万名用户并交付新车。今年1-7月，北汽集团累计销量79.5万辆，其中自主品牌销量53.3万辆，同比增长14.2%；新能源汽车销量18.1万辆，同比增长22.6%；出口18.4万辆，同比增长30.8%。北汽新能源1-7月终端交付126675辆，同比增长82.55%。",
-              "source_url": "https://www.ithome.com/0/987/430.htm",
+              "title": "消息称腾讯WorkBuddy成AI应用战略优先级最高产品之一",
+              "brief": "据内部人士透露，腾讯AI应用WorkBuddy已成为战略优先级最高的产品之一，内部甚至有“继QQ、微信后第三个战略级产品”的说法。马化腾亲自参与产品会议，团队提出的算力、技术和市场资源需求大多能快速获批，被形容为“一路绿灯”。不少员工认为WorkBuddy今年大概率进入腾讯“名品堂”。易观分析数据显示，WorkBuddy在6月国内PC端AI原生办公智能体市场访问量破2000万，位列第一，超过第二名和第三名总和。WorkBuddy是腾讯推出的桌面级AI原生办公智能体，能听懂自然语言，自主拆解任务，直接读写本地文件及调用工具交付成果。",
+              "source_url": "https://www.ithome.com/0/987/446.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T20:16:34+08:00"
+              "published_at": "2026-08-08T22:33:57+08:00"
             },
             {
-              "title": "阿维塔07L大五座SUV上市：华为乾崑智驾ADS 5+鸿蒙座舱，限时权益价21.99万元起",
-              "brief": "阿维塔07L正式上市，共推出三款车型，限时权益价21.99万元起。新车搭载华为乾崑智驾ADS 5系统和鸿蒙座舱，配备896线激光雷达，支持RCA漫游巡航辅助。尺寸为4910×1980×1650mm，轴距2990mm。纯电版续航最高725km，三电机版百公里加速3.7秒。",
-              "source_url": "https://www.ithome.com/0/987/429.htm",
+              "title": "SpaceX“星落”飞船将搭载32个实验室，推动太空制药商业化",
+              "brief": "SpaceMD宣布，SpaceX的“星落”飞船将搭载32个PIL-BOX实验室，执行迄今规模最大的商业微重力研究任务。PIL-BOX是Redwire经飞行验证的微重力有效载荷，可在微重力下使药物化合物形成更巨大、更均匀的晶体，帮助科学家理解分子结构、优化药物配方。SpaceMD将开发PIL-BOX新型号以适配“星落”飞船内部空间。SpaceMD CEO表示，太空药物研发正迎来转折点，结合SpaceX运输能力将加速研究。该公司已在载人航天器上完成数百项实验，自2023年11月以来已送54套PIL-BOX到国际空间站，另有12套计划发射，并已成功结晶出45种化合物。",
+              "source_url": "https://www.ithome.com/0/987/445.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T19:50:58+08:00"
+              "published_at": "2026-08-08T22:12:40+08:00"
             },
             {
-              "title": "Take-Two CEO回应《GTA 6》预告片Netflix独家首播：看过就懂",
-              "brief": "Take-Two CEO泽尔尼克回应《GTA 6》预告片将在Netflix独家首播的疑问，称Netflix是优秀的合作伙伴，玩家看过活动后就会理解合作原因。预告片将于北京时间8月28日凌晨3点在Netflix播出。游戏定于11月19日登陆PS5和Xbox Series X|S，已开放预购。",
-              "source_url": "https://www.ithome.com/0/987/426.htm",
+              "title": "Steam喜加一：外太空生存冒险游戏《呼吸边缘》免费领",
+              "brief": "Steam平台现可免费领取原价92元的外太空生存冒险游戏《呼吸边缘》，领取截止时间未明。本作发行于2021年2月25日，是一款具有讽刺意味的生存冒险游戏。玩家扮演主角Man，携带爷爷骨灰参加银河葬礼，却意外卷入宇宙阴谋。游戏最低配置要求为英特尔第三代酷睿i3处理器、8GB内存和GTX 660显卡，需7GB可用空间。玩家可前往Steam商品页免费领取至游戏库。",
+              "source_url": "https://www.ithome.com/0/987/444.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T19:36:29+08:00"
+              "published_at": "2026-08-08T22:09:00+08:00"
             },
             {
-              "title": "最慢x86指令“耻辱榜”：fxrstor64单次执行62秒创纪录",
-              "brief": "安全研究员Domas创建“CPU反优化排行榜”，其中fxrstor64指令单次执行耗时约62秒，相当于1980亿个CPU周期，创下最慢x86指令纪录。该指令用于恢复SIMD寄存器状态，Domas通过构造特殊环境，利用MMIO和PCIe互连资源占用实现延迟。未来计划测试AMX指令，可能突破万亿周期。",
-              "source_url": "https://www.ithome.com/0/987/425.htm",
+              "title": "买错机票7分钟退票被扣2022元，长龙航空回应已和解细节不便透露",
+              "brief": "张先生购买三张机票共支付2697元，7分钟后发现时间买错申请退票，被扣2022元，仅退675元。平台称已提醒退改政策，费用按航司规定。长龙航空曾表示两小时内购买正确机票可全额退款，但后续短信称需按规定收取手续费。IT之家报道后，长龙航空回应已与乘客和解，细节不便透露。根据规定，承运人应明确退改签规定，国内航司普遍执行阶梯费率。",
+              "source_url": "https://www.ithome.com/0/987/443.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T19:29:53+08:00"
+              "published_at": "2026-08-08T22:05:37+08:00"
             },
             {
-              "title": "2026年度电影总票房突破240亿元，《飞驰人生3》《功夫女足》《给阿嬷的情书》暂列前三",
-              "brief": "截至8月8日，2026年度电影总票房突破240亿元，暑期档连续27天单日票房过亿。暑期档有近120部中外影片上映，涵盖多种类型。目前票房前三名为《飞驰人生3》《功夫女足》《给阿嬷的情书》。",
-              "source_url": "https://www.ithome.com/0/987/424.htm",
+              "title": "华为HiCar 7.0正式版更多功能曝光：手机横屏驾驶模式为新特性",
+              "brief": "华为HiCar 7.0正式版更新后，手机端横屏驾驶模式被确认为新特性，而非BUG，支持导航、音乐、联系人同屏共显。此外，HiCar还支持微信通话功能，微信通话可自动推送车机弹窗，大屏一键接听。此前华为HiCar已与70多个汽车品牌合作，累计装车量超4000万。此次更新进一步提升了驾驶场景下的用户体验。",
+              "source_url": "https://www.ithome.com/0/987/441.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T19:20:17+08:00"
+              "published_at": "2026-08-08T22:03:00+08:00"
             }
           ]
         },
