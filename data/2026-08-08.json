@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T18:50:03.528615+08:00",
+  "generated_at": "2026-08-08T20:49:59.923233+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "火星上的第一辆自动驾驶车辆已被证明取得巨大成功",
+              "brief": "毅力号火星车在火星表面的行驶距离即将突破45.16公里，打破机遇号此前保持的记录。这得益于其先进的自动驾驶系统，该系统利用车载摄像头拍摄周围地形，并通过算法计算最安全路线。毅力号在约90%的行驶距离中实现了自主导航，使其在短短三分之一的时间内达到了这一里程碑。",
+              "source_url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-08T19:30:48+08:00"
+            },
+            {
+              "title": "DeepMind的飓风预测突破令气象科学家惊讶",
+              "brief": "谷歌DeepMind和谷歌研究院开发的WeatherNext人工智能模型在预测飓风方面展现出前所未有的准确性。该模型利用较低分辨率的气象数据即可做出精确预测，平均比现有模型提前一天发出预警。在2025年10月的梅丽莎飓风事件中，该模型提前五天预测其将袭击牙买加，为当地防灾赢得了宝贵时间。相关研究发表在《自然》杂志上。",
+              "source_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-08T19:05:50+08:00"
+            },
+            {
               "title": "欧洲免费卫星服务让追踪野火更便捷",
               "brief": "欧洲的免费卫星服务哥白尼浏览器新增了野火可视化图层，使得追踪野火更加容易。该服务利用哨兵2号卫星的多光谱成像，可提供10米分辨率的可见光和近红外图像。新图层能清晰显示活跃火点（白色或黄色）、燃烧植被（红色）和过火区域（深棕或黑色）。这一功能源自遥感专家Pierre Markuse编写的JavaScript脚本，结合了红色可见光波段和窄近红外波段。当前正值野火季节，该工具将有助于公众和应急部门实时监测火情。",
               "source_url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
               "source_name": "Ars Technica",
               "published_at": "2026-08-08T03:49:27+08:00"
-            },
-            {
-              "title": "终极日食追逐：协和式飞机与月影赛跑",
-              "brief": "1973年6月，一架协和式飞机原型机载着8名科学家，以超过两倍音速飞行，观测日全食长达74分钟，创下世界纪录。相比之下，地面观测日全食最长仅约7.5分钟。这一项目由Pierre Léna发起，他利用飞机高速飞行来延长观测时间。当时日食路径经过赤道附近，月影移动速度虽快，但飞机仍能追上。这次任务实现了对太阳日冕的最长连续观测。如今，这架飞机在法国航空航天博物馆展出，机身上绘有当时日食路径的地图。",
-              "source_url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-08T03:00:17+08:00"
-            },
-            {
-              "title": "《雷神之锤》30周年官方新任务包：新增地图与机制",
-              "brief": "为庆祝《雷神之锤》发行30周年，Bethesda发布了新战役章节《机器的黎明》，由MachineGames与id Software合作开发。该任务包包含19个新关卡，引入了时间循环和传送等新机制，以及新音乐、敌人和武器变体。地图由Quake Club团队制作，利用现代编辑器TrenchBroom，实现了超越90年代末期原版地图的规模和复杂度。",
-              "source_url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-08T02:00:02+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "微软Edge将禁用uBlock Origin等扩展",
+              "brief": "微软宣布将逐步停止支持基于Manifest V2的浏览器扩展，包括流行的广告拦截工具uBlock Origin。微软表示，其Edge扩展商店中仅有58个高使用量扩展仍基于Manifest V2，其中只有3个未提供Manifest V3版本。从本月开始，Edge将默认禁用所有剩余的MV2扩展，并通知用户。到2026年底，消费者版Edge将完成迁移至MV3；企业版则计划在2027年初完成。用户可改用精简版uBlock Origin Lite，或下载Firefox作为替代。",
+              "source_url": "https://www.solidot.org/story?sid=85038",
+              "source_name": "Solidot",
+              "published_at": "2026-08-08T19:19:44+08:00"
+            },
+            {
               "title": "中国科学家确认胶球存在",
               "brief": "在粒子物理学中，胶球是仅由胶子组成的复合粒子，不含价夸克。胶子本身带色荷，能通过强核力相互作用形成束缚态，但胶球常与普通介子一同产生，难以探测。北京正负电子对撞机上的BESIII国际合作组历经15年研究，在国际高能物理大会上宣布已建立证明胶球存在的完整证据链。2011年，BESIII在J/psi粒子衰变中发现疑似胶球的新粒子X(2370)；2024年，利用100亿个J/psi粒子测定其自旋和宇称量子数，质量与格点量子色动力学理论预言一致。",
               "source_url": "https://www.solidot.org/story?sid=85037",
@@ -393,39 +400,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "鸿蒙智行享界G9预售72小时订单破1.5万台，43.98万元起",
-              "brief": "鸿蒙智行首款科技豪华硬派SUV享界G9预售72小时订单突破1.5万台，起售价43.98万元。新车长宽高为5377/2050/1897mm，轴距3160mm，全系标配L3级架构设计、华为乾崑智驾ADS 5高阶版、华为智擎双电机四驱及后桥自适应机械差速锁。座舱采用寰宇三联屏，配备实体按键，预装鸿蒙智行专属HarmonyOS车机。",
-              "source_url": "https://www.ithome.com/0/987/372.htm",
+              "title": "北汽集团8月10日将交付第4000万名用户新车",
+              "brief": "北汽集团宣布将于8月10日迎来第4000万名用户并交付新车。今年1-7月，北汽集团累计销量79.5万辆，其中自主品牌销量53.3万辆，同比增长14.2%；新能源汽车销量18.1万辆，同比增长22.6%；出口18.4万辆，同比增长30.8%。北汽新能源1-7月终端交付126675辆，同比增长82.55%。",
+              "source_url": "https://www.ithome.com/0/987/430.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T16:42:30+08:00"
+              "published_at": "2026-08-08T20:16:34+08:00"
             },
             {
-              "title": "谷歌否认Gemini使用私人文档训练，此前开发者称未公开内容遭泄露",
-              "brief": "有开发者称其私人Google Docs文档中的内容被Gemini泄露，但谷歌回应称不会扫描私人Google Docs或用于训练Gemini，仅在用户主动请求时访问Workspace文件。谷歌表示，若用户将公开文档链接发布到互联网，网页可能被搜索引擎爬虫索引，用户可控制文件权限。目前事件原因仍在调查中。",
-              "source_url": "https://www.ithome.com/0/987/371.htm",
+              "title": "阿维塔07L大五座SUV上市：华为乾崑智驾ADS 5+鸿蒙座舱，限时权益价21.99万元起",
+              "brief": "阿维塔07L正式上市，共推出三款车型，限时权益价21.99万元起。新车搭载华为乾崑智驾ADS 5系统和鸿蒙座舱，配备896线激光雷达，支持RCA漫游巡航辅助。尺寸为4910×1980×1650mm，轴距2990mm。纯电版续航最高725km，三电机版百公里加速3.7秒。",
+              "source_url": "https://www.ithome.com/0/987/429.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T16:40:41+08:00"
+              "published_at": "2026-08-08T19:50:58+08:00"
             },
             {
-              "title": "小米REDMI K100 Pro系列真机官宣进驻线下门店，新增浅蓝配色",
-              "brief": "小米REDMI K100 Pro系列将于8月11日19:00发布，提供赤霞珠红、流金白及新增浅蓝配色。该机搭载第五代骁龙8至尊版与AI独显芯片D2，支持185Hz高刷，配备2亿像素主摄、5X潜望长焦（100X变焦）和50MP超广角。电池容量9070mAh，支持100W有线快充和50W无线充电。目前真机已进驻线下门店。",
-              "source_url": "https://www.ithome.com/0/987/370.htm",
+              "title": "Take-Two CEO回应《GTA 6》预告片Netflix独家首播：看过就懂",
+              "brief": "Take-Two CEO泽尔尼克回应《GTA 6》预告片将在Netflix独家首播的疑问，称Netflix是优秀的合作伙伴，玩家看过活动后就会理解合作原因。预告片将于北京时间8月28日凌晨3点在Netflix播出。游戏定于11月19日登陆PS5和Xbox Series X|S，已开放预购。",
+              "source_url": "https://www.ithome.com/0/987/426.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T16:35:38+08:00"
+              "published_at": "2026-08-08T19:36:29+08:00"
             },
             {
-              "title": "联想拯救者34英寸2K 240Hz曲面带鱼屏显示器34W-2c上市，售价1799元",
-              "brief": "联想拯救者34W-2c显示器正式上市，售价1799元。该显示器采用34英寸VA面板，1500R曲率，21:9超宽比，WQHD分辨率（3440×1440），4000:1对比度，400nits亮度，支持DisplayHDR 400，响应时间1ms GTG，兼容FreeSync Premium。配备2个HDMI 2.1和1个DP 1.4接口，支持3440×1440@240Hz输出。支架支持升降旋转，护眼获得Eyesafe 2.0和TÜV低蓝光认证。",
-              "source_url": "https://www.ithome.com/0/987/368.htm",
+              "title": "最慢x86指令“耻辱榜”：fxrstor64单次执行62秒创纪录",
+              "brief": "安全研究员Domas创建“CPU反优化排行榜”，其中fxrstor64指令单次执行耗时约62秒，相当于1980亿个CPU周期，创下最慢x86指令纪录。该指令用于恢复SIMD寄存器状态，Domas通过构造特殊环境，利用MMIO和PCIe互连资源占用实现延迟。未来计划测试AMX指令，可能突破万亿周期。",
+              "source_url": "https://www.ithome.com/0/987/425.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T16:27:21+08:00"
+              "published_at": "2026-08-08T19:29:53+08:00"
             },
             {
-              "title": "微信AI助手“小微”灰度测试朋友圈“帮写”及“点评”功能",
-              "brief": "微信原生AI助手“小微”新增朋友圈“AI帮写”功能，正在灰度测试。用户在朋友圈编辑页面点击“AI帮写”可跳转至小微对话界面，小微能识别文字和配图，生成“简洁”、“调侃”、“文艺”三种风格的文案。目前该功能处于小范围内测，最终发布可能仍需手动确认。此前“小微”已支持文字或语音对话，可操作微信设置、发消息、点外卖等。",
-              "source_url": "https://www.ithome.com/0/987/367.htm",
+              "title": "2026年度电影总票房突破240亿元，《飞驰人生3》《功夫女足》《给阿嬷的情书》暂列前三",
+              "brief": "截至8月8日，2026年度电影总票房突破240亿元，暑期档连续27天单日票房过亿。暑期档有近120部中外影片上映，涵盖多种类型。目前票房前三名为《飞驰人生3》《功夫女足》《给阿嬷的情书》。",
+              "source_url": "https://www.ithome.com/0/987/424.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-08T16:27:12+08:00"
+              "published_at": "2026-08-08T19:20:17+08:00"
             }
           ]
         },
