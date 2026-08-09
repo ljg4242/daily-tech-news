@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T16:49:54.208873+08:00",
+  "generated_at": "2026-08-09T18:50:03.780904+08:00",
   "sections": [
     {
       "category": "主要",
@@ -108,18 +108,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "摩托罗拉Razr Fold的配件问题无人提及",
+              "brief": "折叠屏手机被认为脆弱，但作者认为它们没那么娇气，不过仍需保护。作者习惯给手机贴膜和用保护壳，但摩托罗拉Razr Fold却很难找到优质配件。在亚马逊上搜索该手机的屏幕保护膜和保护壳，知名品牌如Spigen、Otterbox等均不生产，多数来自不知名品牌。作者希望有手感好、能提供信心的配件，但仅找到Poetic和Thinborne两个品牌，前者厚重坚固，后者轻薄时尚。作者倾向于Thinborne，尽管防护性不如Poetic，但足以应对日常磨损。",
+              "source_url": "https://www.androidauthority.com/motorola-razr-fold-accessory-problem-3694875/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-09T18:30:39+08:00"
+            },
+            {
+              "title": "Pixel 10 Pro虽有瑕疵，但我一年后仍在用",
+              "brief": "作者使用Pixel 10 Pro近一年，尽管它有时表现不稳定，但依然是他最爱的手机。他喜欢其尺寸，比三星Ultra系列小，单手操作舒适，且相机性能优于Galaxy S24 Ultra。他还离不开Pixel独有的软件功能，如“正在播放”能识别商店播放的歌曲。尽管存在缺点，但作者认为Pixel 10 Pro是唯一想拥有的手机。",
+              "source_url": "https://www.androidauthority.com/pixel-10-pro-one-year-later-3691473/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-09T18:00:33+08:00"
+            },
+            {
+              "title": "我用Google Health两个月，喜欢与讨厌之处",
+              "brief": "Google推出Fitbit Air并替代Fitbit应用为Google Health，作者使用两个多月。起初评价不佳，但经过更新，体验改善。作者喜欢它不像其他健康应用那样直接扔数据，而是采用不同方式展示。他提到Google Health解决了他在健康追踪上的最大问题，但未具体说明。文章还提及AI健康教练和多平台同步等功能。",
+              "source_url": "https://www.androidauthority.com/google-health-app-two-months-later-3694569/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-09T17:30:32+08:00"
+            },
+            {
+              "title": "Pixel用骁龙芯片听起来好，但实为糟糕主意",
+              "brief": "谷歌五年前弃用骁龙转用Tensor，带来性能、发热和调制解调器问题。有人呼吁回归骁龙，但作者认为这并非好主意。骁龙旗舰芯片价格昂贵，且即将涨价的传闻成真。若谷歌采用骁龙，成本上升可能导致Pixel涨价，削弱竞争力。因此，作者认为Pixel应坚持Tensor，尽管有不足，但可优化。",
+              "source_url": "https://www.androidauthority.com/google-pixel-not-better-snapdragon-3691461/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-09T17:00:49+08:00"
+            },
+            {
               "title": "谷歌简化Gemini Notebook添加来源步骤",
               "brief": "谷歌正在为Gemini Notebooks推出更新，新增“添加来源到Gemini Notebook”步骤，以自动化添加来源的过程。该功能允许用户添加文本、Drive文件链接或通用YouTube/网页URL作为来源。此前，用户需要手动逐个添加。更新将于8月6日开始分阶段推出，可能需要15个工作日才能完全可见。此功能面向Business、Enterprise和Education客户，个人Google账户用户暂不支持。",
               "source_url": "https://www.androidauthority.com/gemini-notebook-source-automation-3696153/",
               "source_name": "Android Authority",
               "published_at": "2026-08-09T04:22:42+08:00"
-            },
-            {
-              "title": "Google Photos 拖拽选择功能消失",
-              "brief": "据报道，Google Photos 的拖拽选择功能突然消失，影响 Pixel、Galaxy 和 OnePlus 等多款设备。用户反映，长按照片仍可进入多选模式，但拖动手指时屏幕只会滚动，无法批量选择。此问题已在 Reddit 上引发热议，多位用户确认遇到相同情况，包括 Android Authority 的编辑。目前谷歌尚未回应，该问题疑似为意外 bug。",
-              "source_url": "https://www.androidauthority.com/google-photos-drag-to-select-missing-3696148/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-09T02:10:39+08:00"
             }
           ]
         }
@@ -157,6 +178,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "Windows 11 悄悄安装 OneDrive 照片应用，无法单独卸载",
+              "brief": "近期，部分 Windows 11 用户发现系统悄悄安装了“OneDrive 照片”应用，且无法单独卸载，除非完全删除 OneDrive。微软解释称这是意外更广泛地发布了该 AI 驱动的应用。该应用基于 WebView2，会同时显示本地和云端图片，离线时占用约 138MB 内存。目前，精彩瞬间、人物、相册等功能不可用。用户若继续使用 OneDrive，暂时只能接受此应用的存在。",
+              "source_url": "https://www.appinn.com/windows-11-onedrive-photos-cannot-uninstall/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-09T16:58:29+08:00"
+            },
             {
               "title": "《Linux黑客基础》中文译本发布，零基础入门指南",
               "brief": "《Linux黑客基础》中文译本已发布，基于OccupyTheWeb的《Linux Basics for Hackers》整理，由社区成员VrianCao翻译并发布PDF和EPUB版本。课程共18个模块，从终端基础到Python脚本，涵盖文本处理、网络管理、权限、进程、Bash等，语言通俗，适合初学者。在AI时代，掌握Linux基础知识有助于理解和使用AI资源，也可作为查询词典。",
@@ -217,39 +245,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "小米速冷静空调促销：大1.5匹仅1399元，支持10年包修",
-              "brief": "小米米家空调速冷静大1.5匹（35GW-PG15/A1A1）在京东促销，原价1999元，现价1399元，还可领9折券。该空调采用双排蒸发器内机和单排冷凝器外机，适合卧室或租房使用，但不适用于顶楼、西晒等高温环境。支持以旧换新，并提供10年包修服务。",
-              "source_url": "https://www.ithome.com/0/987/570.htm",
+              "title": "2026年上半年全国人形机器人领域新设企业11.6万户，同比增长9.5%",
+              "brief": "据市场监管总局数据，2026年上半年，全国人形机器人领域新设企业11.6万户，同比增长9.5%，生成式人工智能领域新设企业5.5万户，同比增长28.0%。高端装备制造业新设企业2.8万户，同比增长2.5%，其中智能装备制造业增长6.4%。截至6月底，高技术制造业企业总量达33.0万户，上半年新设1.5万户，航天器及运载火箭制造业新设企业同比增长185.7%，光纤、光缆制造业增长129.4%，集成电路制造业增长24.2%。此外，新能源汽车、光伏、锂电池产业相关企业注销数量同比分别增长4.6%、8.3%、12.3%，产能过剩行业有序出清。",
+              "source_url": "https://www.ithome.com/0/987/596.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-09T16:32:14+08:00"
+              "published_at": "2026-08-09T18:41:35+08:00"
             },
             {
-              "title": "谷歌Chrome测试新提示，引导用户更改默认浏览器",
-              "brief": "谷歌Chrome浏览器正在测试一个新的提示框，旨在引导用户将Chrome设为默认浏览器。提示框强调Chrome能同步密码、书签和历史记录，并提供“稍后设置”和“打开设置”选项。点击“打开设置”会跳转至系统设置，用户需手动更改默认浏览器。",
-              "source_url": "https://www.ithome.com/0/987/569.htm",
+              "title": "消息称《腐烂国度3》并未取消，封闭测试仍按计划进行",
+              "brief": "据消息，Undead Labs旗下游戏《腐烂国度3》并未取消，封闭测试仍按计划进行。目前该作已在进行Alpha 2测试，受邀者需签署保密协议。前两个Alpha测试仅向PC玩家开放，后续Beta测试预计加入主机平台。然而，游戏的开发方向、商业模式和发售计划仍在内部商讨中，随时可能发生变化。此前有消息称Undead Labs工作室脱离微软XBOX后，《腐烂国度3》将不会登陆XGP。",
+              "source_url": "https://www.ithome.com/0/987/595.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-09T16:32:12+08:00"
+              "published_at": "2026-08-09T18:31:41+08:00"
             },
             {
-              "title": "Chrome和Edge要求下载本地AI模型预留20GB空间",
-              "brief": "谷歌Chrome和微软Edge浏览器更新了本地AI模型下载要求，需预留约20GB可用磁盘空间。Chrome要求非计费网络和满足性能要求；Edge还需GPU显存至少5.5GB，且当可用空间低于10GB时会自动删除模型。用户可在设置中关闭该功能。",
-              "source_url": "https://www.ithome.com/0/987/568.htm",
+              "title": "穆迪警告：银行加速拥抱AI或将陷入科技巨头依赖",
+              "brief": "穆迪警告，银行加速拥抱AI可能陷入对科技巨头的依赖。金融企业主要使用AI进行自动化工作，甚至处理保险理赔、评估客户信贷报告等核心业务。穆迪认为，依赖少数AI模型可能形成系统性依赖，若AI模型故障，银行客户服务将迅速受影响。随着AI应用加深，监管机构可能更关注AI供应链的第三方风险和运营可靠性。此外，占据主导地位的AI提供商可能获得议价能力，对银行坐地起价，而OpenAI、Anthropic等公司仍处于亏损状态，投资者要求其盈利。",
+              "source_url": "https://www.ithome.com/0/987/590.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-09T16:27:55+08:00"
+              "published_at": "2026-08-09T18:14:02+08:00"
             },
             {
-              "title": "青藏高原发现虎耳草目首个食虫植物，验证达尔文猜想",
-              "brief": "研究团队在青藏高原发现灯架虎耳草，证实其为食虫植物，验证了达尔文150年前的猜想。该植物依靠腺毛黏捕昆虫，并消化吸收氮元素。研究还发现其基因组与猪笼草等食虫植物存在趋同演化，打破了传统认知，表明腺毛捕虫可能是普遍现象。",
-              "source_url": "https://www.ithome.com/0/987/567.htm",
+              "title": "联想拯救者Y900 11平板推送8月升级：新增上下翻页手势等功能",
+              "brief": "联想拯救者Y900 11平板推送8月升级，新增上下翻页手势、桌面图标打开关闭动效、音量条调节动效，并修复游戏音画不同步问题。该平板于今年5月发布，搭载联发科天玑9500s处理器，6月开售，首发价2699元起。配备11.1英寸3840x2560分辨率144Hz面板，峰值亮度1100尼特，前置8MP摄像头，后置13MP主摄，至高可选12GB LPDDR5X内存和512GB UFS 4.1硬盘，内置11000mAh电池，支持68W充电。",
+              "source_url": "https://www.ithome.com/0/987/588.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-09T16:22:39+08:00"
+              "published_at": "2026-08-09T18:08:02+08:00"
             },
             {
-              "title": "日产借鉴中国模式，研发周期缩短近半",
-              "brief": "日产汽车通过流程改革，将新车研发周期从50个月压缩至37个月，改款缩短至30个月，全新Skyline仅用26个月。改革包括放弃完美主义、集中资源打造核心卖点、采用数字化工具和简化决策流程。但日产仍落后于中国车企的18-24个月，部分原因是工作文化差异。",
-              "source_url": "https://www.ithome.com/0/987/566.htm",
+              "title": "Take-Two CEO泽尔尼克：主机涨价并非好事，但不会拖累我们的业务",
+              "brief": "Take-Two CEO泽尔尼克表示，主机涨价并非好事，但不会拖累公司业务。AI需求引发的内存供应压力推高硬件成本，PS、Xbox和任天堂今年都已涨价。泽尔尼克认为，只要公司继续推出玩家真正想玩的作品，硬件价格上涨不会明显影响公司发展。他称涨价不是好事，但也不认为会形成逆风。Take-Two押注未来游戏市场走向PC式开放生态，目前其多平台游戏PC版销量已占40%至50%，且比例还会增长。他还预测云串流游戏将在几年内普及。",
+              "source_url": "https://www.ithome.com/0/987/586.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-09T16:13:37+08:00"
+              "published_at": "2026-08-09T17:58:43+08:00"
             }
           ]
         },
@@ -290,39 +318,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "英特尔Diamond Rapids“Xeon 7”细节曝光：拥有256个P核",
-              "brief": "最新爆料显示，英特尔下一代至强处理器Diamond Rapids将推出256核旗舰SKU，采用纯P-Core架构，核心数较前代提升一倍。该平台已取消512核等高密度方案，转向专注性能核。若量产，将在核心数上直接对标AMD第六代EPYC Venice旗舰芯片。然而，英特尔在制程和发布进度上仍面临挑战：AMD Zen 6已量产，而基于Intel 18A-P的Diamond Rapids预计2027年才推出。该平台还将支持16通道DDR5-9000+内存和PCIe 6.0，成为英特尔在数据中心和AI领域竞争的关键。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572388.htm",
+              "title": "西贝贾国龙再入局鲜羊餐饮，一斤羊肉180元引热议",
+              "brief": "贾国龙旗下“天边羊多”在北京丰科万达开出首店，主打鲜羊肉，人均消费约82元。手把肉以50克为单位售卖，每单位15-18元，折合一斤约150-180元；羊肉串8元起，羊颈肉单串最高13元。有网友对比西贝30克羊肉串7元，质疑性价比。该店由西贝内部95后团队负责，部分员工由西贝转岗，店长称工资已恢复正常发放。目前门店客流火爆，但存在上菜慢、价格高等中差评。未来“天边砂锅焖面”是否换牌尚未确定，三种业态可能长期共存。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572416.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-09T15:18:23+08:00"
+              "published_at": "2026-08-09T18:34:30+08:00"
             },
             {
-              "title": "约翰·罗梅罗爆料 id软件曾借台湾盗版商推广《毁灭战士》",
-              "brief": "id Software联合创始人约翰·罗梅罗在2026年雷神大会上透露，早年曾借助台湾盗版商推广《毁灭战士》共享版。当时盗版商大量复制游戏并自行包装销售，id Software不仅未打击，反而主动联系当地大型盗版商，以极低价格出售包装盒，鼓励他们继续传播游戏，以扩大市场影响力。罗梅罗表示，此举符合公司利益，因为只有玩家购买完整版才能盈利，同时也能培养粉丝群体。他回忆80年代反盗版战争无休止，但id Software选择不加加密，相信想玩的人总有办法，只要赚够做下一款游戏的钱即可。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1572386.htm",
+              "title": "Anthropic测试千名程序员后，将Claude Code自动模式设为默认",
+              "brief": "Anthropic宣布Claude Code自动模式经测试安全性不亚于手动审批，即日起成为默认模式。自动模式通过分类器过滤工具调用，阻止危险操作，失败时回退手动。测试涉及1053名付费用户，自动模式发现89%的危险命令，而人工仅发现13.6%。生产环境中，人工审核会话造成严重意外损害的概率是自动模式的两倍。自动模式还提升效率，Teams和Enterprise用户PR提交量增加约25%。Anthropic不再向Pro、Max和Team用户收取自动模式额外token费用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572414.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-09T14:29:42+08:00"
+              "published_at": "2026-08-09T17:44:27+08:00"
             },
             {
-              "title": "苹果首款折叠屏手机 iPhone Ultra全新配色曝光",
-              "brief": "据爆料者Sonny Dickson透露，苹果首款折叠屏手机iPhone Ultra可能提供深蓝色和银色两种配色，其中深蓝色或取代此前传闻的深灰色，银色则与早期信息吻合。屏幕方面，iPhone Ultra采用内外双屏设计，外屏5.49英寸，分辨率2088x1422，内屏7.76英寸，分辨率2713x1920。为实现接近无折痕效果，将采用液态金属铰链，强度约为钛合金2.5倍，但加工难度高，良率约65%，大规模量产面临挑战。最终配色和配置仍需以官方发布为准。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572384.htm",
+              "title": "消息称《GTA6》预购量远超Take-Two内部预期",
+              "brief": "据彭博社记者Jason Schreier爆料，《GTA6》预购量远超Take-Two内部预期，形容为“非同寻常”。Take-Two于2026年6月25日开放预购，CEO Zelnick表示无法判断预购需求对最终销量的影响，可能只是提前了购买。尽管预购火爆，但最终销量未必超预期。不过，这仍表明《GTA6》可能成为史上最大娱乐产品首发之一。前作《GTA5》累计销量超2.3亿份，新作预告片已打破YouTube播放纪录。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1572412.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-09T14:29:37+08:00"
+              "published_at": "2026-08-09T17:40:12+08:00"
             },
             {
-              "title": "索尼将在PS5主机包装盒贴警示 终止新游戏实体光盘生产",
-              "brief": "据报道，索尼计划在PS5主机包装盒上添加警示标签，告知消费者2028年后将停止生产新游戏实体光盘，但2028年1月前发售的光盘仍可在本机游玩。该消息尚未得到官方证实，但多个信源佐证。此举引发玩家普遍不满，部分玩家发起停玩抵制和请愿签名。索尼此前已宣布停止实体介质生产，并试行动态定价机制，进一步加剧消费者对全数字未来的担忧。媒体指出，实体游戏售价通常更低，该决定可能损害消费者权益。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1572382.htm",
+              "title": "外卖悄然涨价：平台补贴缩水，商家转嫁成本",
+              "brief": "消费者发现外卖价格悄然上涨，平台补贴大幅缩水。例如，同一杯奶茶外卖比小程序贵6元，打包费和配送费也开始收取。背后是外卖大战导致平台巨额亏损：美团2025财年净亏234亿元，阿里即时零售亏损900亿元，京东新业务亏损466亿元，三家合计烧掉超1500亿元。商家为生存提高配送费和打包费。尽管各方都知补贴战不利，但囚徒困境下无人敢停，市场份额争夺仍在继续。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572410.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-09T14:25:50+08:00"
+              "published_at": "2026-08-09T17:39:24+08:00"
             },
             {
-              "title": "GPT-5.6和Fable联手解决了一道悬了25年的数学难题",
-              "brief": "近日，GPT-5.6与Claude Fable 5联手解决了MIMO检测中一个困扰学界25年的数学难题。问题在于，随机信道下是否存在非穷举算法，能在信噪比达到2logN时精确恢复信号。2001年Hassibi和Vikalo的球形译码方案被2005年Jaldén和Ottersten推翻，此后多种近似方法均未达到理论阈值。Dimitris Papailiopoulos与两个AI模型合作，最终证明一个两步算法能在O(N³)复杂度下精确恢复，并证明低于阈值时最大似然检测也会失败，填补了理论鸿沟。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1572380.htm",
+              "title": "初代《雷神之锤》30周年：免费资料片《机械黎明》全平台上线",
+              "brief": "为庆祝《雷神之锤》30周年，id Software与MachineGames合作推出免费资料片《雷神之锤：机械黎明》，包含19张地图的战役、新原声音乐和一张死亡竞赛地图。故事讲述主角Ranger被困在无尽幻象维度，需摧毁“噩梦机器”逃脱。经典敌人被改造，新增武器变体，战役采用循环结构，类似Roguelike设计。Digital Foundry评价其为“平衡性大师级示范”。发布之际，id Software正经历重组，未来独立开发能力存疑。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1572408.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-09T14:24:53+08:00"
+              "published_at": "2026-08-09T17:36:48+08:00"
             }
           ]
         }
