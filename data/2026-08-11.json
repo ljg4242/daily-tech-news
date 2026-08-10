@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T04:51:04.211030+08:00",
+  "generated_at": "2026-08-11T06:50:43.486644+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 Beta 5 的新功能",
+              "brief": "距离 iOS 27 正式发布还有一个多月，苹果在第五个测试版中继续调整。该版本更新了部分应用图标的外观，并优化了 Liquid Glass 效果，同时增加了一些小功能。Safari、Siri、设置、遥控器、App Store 和预览的 Liquid Glass 图标得到更新，有些完全重新设计，有些则更加精细。Siri AI 语音自定义功能扩展，所有七个美国英语和四个英式英语声音均可调整语速和表现力，且该功能在设备端完成，仅限 iPhone 17 Pro、Pro Max 和 iPhone Air。联系人列表中现在会显示公司名称，方便查看。Apple Wallet 的“创建通行证”功能扩展到美国以外地区。照片、钱包和音乐应用新增启动画面，介绍新功能。搜索和询问的动画有细微调整，并新增“搜索网页”选项。搜索设置中可控制是否显示应用结果及数量。控制中心在连接 Wi-Fi 时不再显示蜂窝网络信息。",
+              "source_url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-11T06:02:30+08:00"
+            },
             {
               "title": "iOS 27 钱包应用新增七项功能",
               "brief": "苹果在 iOS 27 中进一步将 iPhone 打造成实体钱包的替代品，钱包应用迎来多项升级。登机牌已支持更醒目的卡片样式，会员卡、礼品卡、积分卡等也可使用带背景图、徽标和条形码的新设计。每张卡券可添加最多两个操作按钮，如获取路线或查看积分余额。用户可验证卡券发行者证书以确保安全，并新增四种条形码类型。此外，苹果推出“创建卡券”功能，用户可通过视觉智能扫描实体票券或手动添加，支持多种模板和自定义背景。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
               "source_name": "MacRumors",
               "published_at": "2026-08-11T02:38:55+08:00"
-            },
-            {
-              "title": "苹果发布 macOS Golden Gate 测试版 5",
-              "brief": "苹果今日向开发者发布了 macOS Golden Gate 的第五个测试版，距上个测试版两周。开发者可通过系统设置 > 通用 > 软件更新下载，需启用测试版更新并拥有免费开发者账户。该版本包含多项设计改进：Liquid Glass 透明度提升，新增透明度滑块，窗口阴影调整更易区分活动状态；应用工具栏统一，侧边栏全宽，圆角更小，菜单栏图标减少。Siri 转型为 Siri AI 聊天助手，集成在 Spotlight 中，支持自定义语音。此外，视觉智能、照片 AI 编辑、Safari AI 标签整理、密码自动更新等功能也得到增强。",
-              "source_url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-11T01:27:42+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "iOS 27 中 Apple 地图的所有新功能",
-              "brief": "苹果在 iOS 27 中对地图应用进行了全面升级，新增了更精细的导航体验、实时交通信息增强、以及更丰富的兴趣点推荐。用户现在可以享受更智能的路线规划，以及全新的室内地图和增强现实步行导航。此外，地图还整合了更多第三方服务，让出行更加便捷。这些改进旨在提供更流畅、更个性化的地图使用体验。",
-              "source_url": "https://9to5mac.com/2026/08/10/heres-everything-new-for-apple-maps-in-ios-27/",
+              "title": "ChatGPT用户现可通过Yelp预订餐厅和加入等位列表",
+              "brief": "几周前，Yelp与ChatGPT达成内容整合合作，将Yelp的评论、评分、照片和其他商家信息直接引入ChatGPT回复中。今天，Yelp宣布扩展该整合，美国和加拿大的用户现在无需离开聊天界面，即可通过Yelp预订餐桌或加入等位列表。Yelp表示，ChatGPT用户现在可以在数千家顶级餐厅无缝使用Yelp预订和等位功能，无需离开聊天。预订后，用户可直接通过Yelp修改预订。通过将Yelp值得信赖的预订功能直接带入ChatGPT体验，帮助人们从找到合适的餐厅到轻松锁定座位。此次扩展合作让用户可以在单个聊天中请求推荐，并在可用情况下预订餐桌或加入等位列表，整个预订流程包括人数、日期和时间、联系信息、特殊要求和确认。Yelp指出，此次整合进一步扩展了该平台在AI搜索中的存在，包括通过自然引用。在新闻稿中，该公司表示：“Yelp是引用最多的家庭服务发现平台，在主要AI平台上的引用量是最近竞争对手的3.4倍。”",
+              "source_url": "https://9to5mac.com/2026/08/10/chatgpt-users-can-now-book-tables-and-join-restaurant-waitlists-through-yelp/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-11T00:15:41+08:00"
+              "published_at": "2026-08-11T06:14:59+08:00"
             },
             {
-              "title": "Meta 发布全新 iPhone 版 Facebook Creator Studio 应用",
-              "brief": "Meta 推出了专为 iPhone 设计的全新 Facebook Creator Studio 应用，旨在帮助内容创作者更高效地管理多个 Facebook 和 Instagram 账号。该应用提供统一的收件箱、内容调度、以及详细的性能分析工具。创作者可以直接在手机上发布内容、查看互动数据，并管理货币化功能。新应用还优化了移动端体验，让创作者随时随地保持内容更新。",
-              "source_url": "https://9to5mac.com/2026/08/10/meta-just-released-a-brand-new-facebook-creator-studio-app-for-iphone/",
+              "title": "WhatsApp iOS最新测试版增加聊天内搜索工具引用",
+              "brief": "据WABetaInfo报道，WhatsApp可能很快会在对话中添加一种更快的方式来查找过去的消息。根据该网站，TestFlight上可用的最新WhatsApp版本包含一个搜索按钮的引用，当用户开始滚动回聊天历史时，该按钮将出现在屏幕右下角。该搜索按钮不会永久固定在屏幕底部，只在用户向上滚动对话时出现。这与让用户跳回最新消息的按钮行为相同。它按需出现，但仅在有用时显示。当用户向上滚动查看旧消息时，搜索按钮出现在屏幕底部。一旦用户返回对话底部，该按钮再次消失。该网站指出，聊天内搜索工具返回的结果与聊天信息屏幕中当前可用的搜索选项相同。然而，新按钮应该会使搜索更快，因为用户无需离开对话即可访问它。WABetaInfo指出，该按钮尚未向测试人员提供，仍处于开发阶段，预计将在未来的TestFlight更新中推出，之后才会正式发布。",
+              "source_url": "https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-10T23:39:09+08:00"
+              "published_at": "2026-08-11T05:36:22+08:00"
             },
             {
-              "title": "优惠：M5 MacBook Pro 直降 300 美元，AirPods Pro 3、Apple 运动表带、Anker 3 合 1 Qi2 25W MagSafe 充电器等",
-              "brief": "本周苹果产品促销活动开启，M5 MacBook Pro 最高可享 300 美元折扣，AirPods Pro 3 也有优惠。Apple 运动表带多种颜色可选，Anker 3 合 1 Qi2 25W MagSafe 充电器降价出售。此外还有其他配件和配件组合优惠，为消费者提供多种选择。这些折扣限时有效，感兴趣的用户可前往购买。",
-              "source_url": "https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/",
+              "title": "MagSafe周一：TESSAN AERO 5000采用钛金属饰面超薄电池",
+              "brief": "TESSAN AERO 5000采用钛合金打造，厚度仅为6.9毫米，约三张信用卡叠放厚度，设计便于放入口袋，感觉更像MagSafe钱包。其背板采用iPhone级钛合金，外观独特。电池方面，采用纯钴半固态电池核心SolidSafe，相比传统液态电池，可大幅减少热量积聚，即使在极端物理损伤下也能防止热失控，提升安全性。该电池支持最高15W无线输出或通过USB-C端口20W有线输出，有线端口便于为AirPods等设备充电。TESSAN AERO 5000在保持超薄轻盈的同时，结合了钛金属饰面和下一代电池安全技术，是日常携带的理想选择。",
+              "source_url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-10T23:30:11+08:00"
+              "published_at": "2026-08-11T05:20:00+08:00"
             },
             {
-              "title": "苹果宣布 Vision Pro 将直播 MLB 沉浸式视频比赛",
-              "brief": "苹果宣布将为 Vision Pro 用户提供美国职业棒球大联盟（MLB）比赛的沉浸式视频直播。该服务利用 Vision Pro 的空间计算能力，让用户仿佛置身球场，享受 180 度视角的现场体验。此次直播将涵盖多场精选赛事，并采用高分辨率 3D 视频技术。苹果表示，这将重新定义体育赛事的观看方式，为球迷带来前所未有的沉浸感。",
-              "source_url": "https://9to5mac.com/2026/08/10/apple-immersive-live-video-mlb-game-schedule/",
+              "title": "Apple TV与奥斯卡获奖导演二度合作",
+              "brief": "2024年10月，Apple TV首播了传奇导演阿方索·卡隆执导的惊悚剧《免责声明》，由凯特·布兰切特、凯文·克莱恩和萨莎·拜伦·科恩主演。今天，苹果确认与卡隆的第二次合作，宣布已获得其新心理恐怖惊悚剧《Ascension》的版权。该剧改编自亚当·内维尔的《最后的日子》，讲述纪录片导演罗斯在调查20世纪神秘邪教“升天教会”时，发现其教义中的避难所，却发现了更险恶的秘密。该剧探讨了邪恶与纯真，并追问为了保护所爱之人，我们愿意走多远。苹果表示，《Ascension》将是与卡隆的第二次合作，也是苹果与明星Balfe的第二个项目，Balfe接下来将出演Apple Original Films的《Tenzing》。该剧由Anonymous Content制作，该公司还制作了备受期待的《神经漫游者》系列。",
+              "source_url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-10T23:00:00+08:00"
+              "published_at": "2026-08-11T04:51:02+08:00"
             },
             {
-              "title": "报告称明年 iPhone 的全玻璃设计可能被取消",
-              "brief": "据最新报告，苹果可能取消了明年 iPhone 的全玻璃设计计划。该设计原定采用无边框全玻璃机身，但面临技术挑战和耐用性问题。苹果可能转而采用更稳妥的钛金属框架与玻璃背板组合，同时保留部分设计元素。分析师认为，这一调整是为了确保产品可靠性和生产可行性，但具体细节仍需等待官方确认。",
-              "source_url": "https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/",
+              "title": "苹果官方翻新店：本周精选可节省数百美元",
+              "brief": "苹果官方翻新店提供经过严格翻新流程的认证翻新产品，享受一年有限保修、14天退货政策，并可购买AppleCare。本周精选包括：Chance推荐的Studio Display XDR，配备27英寸mini-LED显示屏、120Hz刷新率、Thunderbolt 5连接，翻新价$2,459起；Ryan推荐的MacBook Neo，作为新机型，翻新价更划算；Fernando推荐的Apple Watch Ultra；Jeff推荐的MacBook Air；Zac推荐的Apple TV 4K；Michael推荐的Apple Watch Series 10（钛金属）；Justin推荐的M5 MacBook Pro。这些翻新产品库存有限，价格比零售低数百美元，是节省开支的好选择。",
+              "source_url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-10T22:49:14+08:00"
+              "published_at": "2026-08-11T04:21:42+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Android 2026年8月系统更新：Wear OS 锻炼路线更精准",
+              "brief": "谷歌开始通过 Play 商店分发第三方 Android 应用商店，并展示了其工作原理。此次更新还改进了 Wear OS 的锻炼路线追踪功能，使其更加准确。用户现在可以期待更精确的户外活动记录，以及更流畅的应用安装体验。",
+              "source_url": "https://9to5google.com/2026/08/10/august-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-11T06:11:00+08:00"
+            },
+            {
+              "title": "YouTube 预告 Premium Lite 扩展，频道变现要求翻倍",
+              "brief": "YouTube 宣布将扩大 Premium Lite 订阅服务的可用范围，同时将频道加入合作伙伴计划所需的订阅人数或观看时长门槛提高一倍。这一变化旨在提升内容质量，但可能影响小型创作者的收入。",
+              "source_url": "https://9to5google.com/2026/08/10/youtube-premium-lite-expansion-monetization-changes/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-11T04:45:00+08:00"
+            },
             {
               "title": "谷歌基础款 Pixel 11 可能没有“HiLight”但内存将足够",
               "brief": "据最新泄露，谷歌基础款 Pixel 11 可能不会配备“HiLight”功能，但将配备足够的内存。该消息来自 9to5Google 的报道，暗示 Pixel 11 在硬件配置上有所调整，以满足用户需求。具体细节尚未公布，但预计 Pixel 11 将在性能上有所提升。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5toys.com/2026/08/10/monday-android-ios-app-deals-free-hyper-drifter-reigns/",
               "source_name": "9to5Google",
               "published_at": "2026-08-11T01:13:48+08:00"
-            },
-            {
-              "title": "谷歌表格新图标引发争议：是失误还是听取反馈？",
-              "brief": "谷歌表格（Google Sheets）在最新更新中更换了应用图标，新设计引发了用户热议。部分用户认为新图标与谷歌文档等其他办公应用风格不统一，且辨识度降低；另一些用户则猜测这是谷歌根据用户反馈做出的调整。目前谷歌官方尚未对此做出回应，但这一变化已在社交媒体上引发广泛讨论。",
-              "source_url": "https://9to5google.com/2026/08/10/new-google-sheets-icon-rotation/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-11T00:04:28+08:00"
-            },
-            {
-              "title": "优惠：Z Fold 8补货，Pixel 10a降价近120美元，Nothing耳机(一)159美元，Anker返校季促销等",
-              "brief": "本周科技产品优惠汇总：三星Z Fold 8重新上架，Pixel 10a降价近120美元，Nothing耳机(一)售价159美元，Anker推出返校季促销活动。此外还有其他多款产品折扣，为消费者提供丰富选择。",
-              "source_url": "https://9to5google.com/2026/08/10/deals-fold-8-pixel-10a-nothing-headphone-a-anker/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-10T23:46:07+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "华硕笔记本用户或可免费获得Google AI Pro/Plus订阅",
+              "brief": "华硕为部分华硕及ROG笔记本提供三个月免费Google AI Pro或AI Plus订阅。该促销适用于2025、2026及2027年款的ROG、TUF Gaming、ProArt、Zenbook和Vivobook系列，即使购买时间早于促销开始也可能符合条件。AI Pro提供5TB存储，AI Plus提供400GB。但部分Google One用户（如已订阅附加服务、更高套餐、家庭计划非管理员、通过第三方订阅或Pixel捆绑折扣用户）可能无法领取。用户可在兑换期内（2026年8月10日至2027年8月9日）在官网查询适用型号并兑换。",
+              "source_url": "https://www.androidauthority.com/asus-google-ai-promotion-3696731/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-11T05:56:18+08:00"
+            },
+            {
+              "title": "ChatGPT新增餐厅预订和排队功能",
+              "brief": "Yelp与OpenAI深化合作，将餐厅预订和排队功能引入ChatGPT。用户可直接在对话中通过Yelp预订餐桌或加入排队，无需离开聊天界面。此外，OpenAI还宣布与Resy和OpenTable达成类似合作。该功能支持美国和加拿大的餐厅。用户若需修改预订，仍需在Yelp上进行。此举旨在让用户从发现餐厅到轻松预订一气呵成。",
+              "source_url": "https://www.androidauthority.com/chatgpt-restaurant-reservations-and-waitlists-3696712/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-11T04:55:30+08:00"
+            },
+            {
               "title": "YouTube最新变动可能对你喜欢的创作者不利",
               "brief": "YouTube正在提高创作者加入合作伙伴计划的门槛，将最低观看时长要求翻倍，新规将于明年2月生效。同时，YouTube还扩大了Premium Lite订阅的适用范围。这意味着创作者通过广告收入分成的难度增加，可能影响其内容创作。",
               "source_url": "https://www.androidauthority.com/youtube-partner-program-requirements-3696695/",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/samsung-dark-theme-icons-one-ui-9-5-3696686/",
               "source_name": "Android Authority",
               "published_at": "2026-08-11T03:58:54+08:00"
-            },
-            {
-              "title": "Gemini的Neural Expressive覆盖层开始出现在更多手表上",
-              "brief": "Gemini的视觉Neural Expressive更新已扩展到Pixel Watch以外的Wear OS设备，包括三星Galaxy Watch Ultra。该功能在唤醒时显示渐变效果，但Galaxy Watch Ultra仍运行Wear OS 6，尚未获得Gemini Intelligence功能。",
-              "source_url": "https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-11T03:28:36+08:00"
-            },
-            {
-              "title": "谷歌在最新Pixel 11 Pro预告片中加大宣传力度",
-              "brief": "谷歌在即将于周三举行的发布活动前，发布了最新的Pixel 11 Pro预告片，展示了两部手机形成“11”字样的轮廓。该系列预告片强调Gemini Intelligence，但未展示新功能。随着发布临近，谷歌可能继续发布更多硬件预告。",
-              "source_url": "https://www.androidauthority.com/pixel-11-pro-teaser-3696656/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-11T02:12:20+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "马克·扎克伯格不懂如何生活",
+              "brief": "伊丽莎白·洛帕托撰文指出，马克·扎克伯格所描绘的人工智能未来是光滑、精简但完全空洞的人际关系。文章通过一个攀岩者的故事，探讨了AI如何被用来替代真实的人类互动，并批评了这种趋势。作者认为，扎克伯格对AI的愿景忽视了人类生活的复杂性，追求效率和便利的同时，牺牲了情感深度和真实连接。文章呼吁反思技术发展对人类价值观的影响。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T18:00:00-04:00"
+            },
+            {
+              "title": "Anker旅行充电器几乎适用于所有国家，现降至20美元",
+              "brief": "Anker的Nano旅行适配器在亚马逊、百思买和Anker官网上的售价降至19.99美元，为历史最低价。这款适配器可同时为最多五台设备充电，体积小巧，适合旅行携带。它被The Verge评为夏季旅行最佳小工具之一。文章还提到了其他相关促销信息。",
+              "source_url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T17:18:15-04:00"
+            },
             {
               "title": "Bluesky 现在可以隐藏你关注的人的转发",
               "brief": "Bluesky 推出新功能，允许用户隐藏特定用户的转发，以减少信息流中的干扰。用户可通过进入该用户个人资料，点击三点菜单并选择“隐藏信息流中的转发”来启用此功能。此外，Bluesky 还测试了一项新功能，可自动为长帖添加编号，方便用户了解帖子的长度。该功能可在设置中开启。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
               "source_name": "The Verge",
               "published_at": "2026-08-10T13:30:00-04:00"
-            },
-            {
-              "title": "YouTube 提高创作者变现门槛",
-              "brief": "YouTube 宣布从 2027 年 2 月 1 日起，创作者加入合作伙伴计划（YPP）需满足 1000 订阅者，且过去一年有效观看时长达到 8000 小时（原为 4000 小时），或过去 90 天 Shorts 有效观看次数达到 2000 万（原为 1000 万）。此外，通过 Shorts 创作者基金赚钱需保持 90 天 1000 万次观看，但低于此标准不会被移出 YPP。YouTube 还计划将 Premium Lite 订阅扩展到更多国家。",
-              "source_url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
-              "source_name": "The Verge",
-              "published_at": "2026-08-10T13:26:46-04:00"
-            },
-            {
-              "title": "马克·扎克伯格AI宣言的四个要点",
-              "brief": "Meta CEO马克·扎克伯格发表了一篇长达6500字的文章，题为《未来属于每个人》，阐述了他对人工智能发展、扩展和监管的看法，以及Meta如何定位以实现这些目标。文章呼应了他去年发布的公开信，强调公众获得超级智能AI的重要性。扎克伯格设想人类与AI共存的理想未来，并提出了几个关键要点。本文总结了其中的四个要点，包括AI的民主化、开源模型、安全监管以及Meta在其中的角色。",
-              "source_url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-              "source_name": "The Verge",
-              "published_at": "2026-08-10T11:19:05-04:00"
             }
           ]
         }
@@ -253,6 +253,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Gackt晒出Genesis Cosplay照片，粉丝确信《最终幻想7：地狱犬的挽歌》重制版即将到来",
+              "brief": "日本歌手Gackt在Instagram上发布了一张自己装扮成《核心危机》角色Genesis的Cosplay照片，背景音乐是他为《地狱犬的挽歌》演唱的主题曲《Redemption》。粉丝们因此猜测《最终幻想7：地狱犬的挽歌》重制版可能即将公布。Gackt曾在《核心危机》及其重制版中为Genesis配音，并参与了角色设计。有粉丝指出，Gackt在2022年《核心危机》重制版公布前也曾在社交媒体上有类似动向，例如在公布前四天发布在录音室工作的帖子。此外，也有猜测称Genesis可能会在《最终幻想7：启示录》中登场，该作预计在2026年科隆游戏展上展示。",
+              "source_url": "https://www.ign.com/articles/final-fantasy-fans-convinced-dirge-of-cerberus-remake-on-the-way-after-gackt-posts-photo-in-genesis-cosplay",
+              "source_name": "IGN",
+              "published_at": "2026-08-11T03:25:43+08:00"
+            },
             {
               "title": "Arc System 发布《漫威Tokon》PC更新，部分玩家称修复了大部分问题",
               "brief": "《漫威Tokon》自上周在PC和PS5推出后，因卡顿等技术问题遭到大量负面评价，甚至知名格斗游戏主播Maximilian Dood在直播中卸载了游戏。Arc System Works今日发布更新，修复了性能下降、帧率降低和CPU占用过高等问题。许多玩家反馈卡顿问题已解决，但仍有部分玩家表示只修复了一部分问题，还有强制PSN连接和缺乏Linux支持等争议。",
@@ -280,13 +287,6 @@
               "source_url": "https://www.ign.com/articles/grand-theft-auto-players-fundraise-50k-for-sick-fan-trying-to-make-it-to-gta-6",
               "source_name": "IGN",
               "published_at": "2026-08-11T01:59:59+08:00"
-            },
-            {
-              "title": "《刺猬索尼克》将加入《堡垒之夜》，可在绿山区贴墙冲刺",
-              "brief": "《堡垒之夜》官方宣布与《刺猬索尼克》联动，并展示了以绿山区为主题的玩法片段，其中角色Peely能以索尼克风格高速冲刺。此次联动可能包含索尼克主题的移动道具。此外，新赛季预计8月19日上线，未来或还有更多游戏联动，如《王国之心》等。",
-              "source_url": "https://www.ign.com/articles/sonic-the-hedgehog-is-joining-fortnite-and-yes-youll-be-able-to-dash-up-walls-in-the-green-hill-zone",
-              "source_name": "IGN",
-              "published_at": "2026-08-11T00:43:45+08:00"
             }
           ]
         },
@@ -311,7 +311,22 @@
         },
         {
           "name": "小众软件",
-          "articles": []
+          "articles": [
+            {
+              "title": "Windows 11 悄悄安装 OneDrive 照片应用，且无法单独卸载",
+              "brief": "近日，有用户发现 Windows 11 系统悄悄安装了名为“OneDrive 照片”的应用，且无法单独卸载，除非完全删除 OneDrive。该应用由 AI 驱动，推广范围几乎覆盖所有使用 OneDrive 同步客户端的用户。它可同时显示本地和云端图片，基于 WebView2 构建，离线状态下占用约 138MB 内存。设计流畅，但部分功能如精彩瞬间、人物等不可用。微软解释为误发布，目前用户若需使用 OneDrive，只能暂时保留该应用。",
+              "source_url": "https://www.appinn.com/windows-11-onedrive-photos-cannot-uninstall/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-09T16:58:29+08:00"
+            },
+            {
+              "title": "《Linux 黑客基础》中文译本发布，初学者友好",
+              "brief": "由资深网络安全专家所著的《Linux Basics for Hackers》学习笔记被整理成中文译本，现已发布电子书版本，提供 PDF 和 EPUB 格式。课程共 18 个模块，涵盖终端基础、文本处理、网络管理、Bash 脚本等，以通俗语言讲解，适合初学者。翻译过程借助 AI 工具完成，并经人工审校。课程强调 Linux 的开放性和可配置性，帮助用户掌握命令行操作，为学习 AI 等现代技术打下基础。",
+              "source_url": "https://www.appinn.com/linux-basics-for-hackers/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-07T17:16:44+08:00"
+            }
+          ]
         },
         {
           "name": "cnBeta",
@@ -355,7 +370,43 @@
         },
         {
           "name": "IT之家",
-          "articles": []
+          "articles": [
+            {
+              "title": "ChatGPT整合Yelp，美加用户可直接订餐厅",
+              "brief": "OpenAI与Yelp深化合作，美国和加拿大用户现可通过ChatGPT获取餐厅推荐，并在支持该功能的餐厅直接完成预订或加入候补名单。用户可选择用餐人数、日期和时间，填写联系方式及特殊需求，最终确认预约。预订后还可通过Yelp修改信息。Yelp表示，其已成为AI平台引用最多的本地生活服务发现平台，引用数量领先竞争对手3.4倍。",
+              "source_url": "https://www.ithome.com/0/988/073.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T06:49:41+08:00"
+            },
+            {
+              "title": "布林斥资逾1亿美元反对加州亿万富翁税",
+              "brief": "谷歌联合创始人布林已投入超过1亿美元游说，反对加州第40号提案（又称“亿万富翁税”），该提案拟对约200名亿万富翁的净资产征收一次性5%的税，以资助医疗项目。布林净资产约2670亿美元，若提案通过，他可能需缴纳约133亿美元税款。加州州长纽森也反对该提案，担心富豪外流影响经济，转而呼吁全国性亿万富翁税。英伟达CEO黄仁勋则表示完全接受缴税。",
+              "source_url": "https://www.ithome.com/0/988/072.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T06:47:37+08:00"
+            },
+            {
+              "title": "郭明錤：苹果缩减2026年硬件出货计划，涨价难免",
+              "brief": "分析师郭明錤表示，苹果正在缩减2026年iPhone 18 Pro系列、首款折叠手机及多款Mac产品的出货计划，且因内存短缺等因素，新品涨价不可避免。他反驳了台积电积压10亿美元未封装处理器的说法，认为苹果会提前规划生产，内存供应紧张确实存在，但台积电并无库存积压。内存短缺已影响Mac Studio等产品，并可能波及即将发布的iPhone。",
+              "source_url": "https://www.ithome.com/0/988/071.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T06:44:29+08:00"
+            },
+            {
+              "title": "Netflix斥资8000万美元获《GTA6》预告首播权",
+              "brief": "消息称，Netflix为获得《GTA6》前瞻预告片的首播权，向R星支付了超过8000万美元，相当于100万份游戏销量。鉴于《GTA6》起售价80美元，这笔交易为R星带来巨额现金流。预告片定于8月28日首播，游戏将于11月19日登陆PS5和Xbox Series X|S，现已开放预购。",
+              "source_url": "https://www.ithome.com/0/988/070.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T06:42:34+08:00"
+            },
+            {
+              "title": "苹果Vision Pro将沉浸式直播四场周五夜棒球赛",
+              "brief": "苹果宣布将通过Apple Immersive Video为Vision Pro用户直播四场“周五夜棒球”比赛，包括8月28日红袜对洋基、9月4日天使对海盗、9月11日教士对巨人、9月18日巨人vs道奇。转播将配备专属解说团队，提供沉浸式图形和回放，每座球场部署多台摄像机。比赛直播后可在Apple TV应用点播。“周五夜棒球”包含在Apple TV+订阅中，月费12.99美元。",
+              "source_url": "https://www.ithome.com/0/988/069.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T06:40:34+08:00"
+            }
+          ]
         }
       ]
     }
