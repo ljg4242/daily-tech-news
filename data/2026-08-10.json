@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T18:50:39.855540+08:00",
+  "generated_at": "2026-08-10T20:51:52.797871+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果短暂发布中国指南，指导Siri连接通义千问",
+              "brief": "苹果在中国的支持网站上短暂发布了一份指南，指导Mac用户将阿里巴巴的通义千问AI连接到Siri和写作工具，但不到一天就撤下了。该指南要求macOS 26.6或更高版本，用户需登录自己的通义千问账户，并规定阿里巴巴不得使用提交的材料进行训练。Siri可利用通义千问处理更复杂的请求，写作工具可生成文本和图像。此举与苹果在其他地区提供的ChatGPT扩展类似。指南在8月9日被删除，苹果客服表示未收到新功能发布通知。分析师认为，下架可能涉及监管流程中的技术调整，而非完全放弃。中国对AI功能有严格规定，苹果需与中国本地供应商合作。",
+              "source_url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-10T20:21:13+08:00"
+            },
+            {
+              "title": "苹果测试中国内存芯片用于iPhone和MacBook",
+              "brief": "据《华尔街日报》报道，苹果正在测试中国长鑫存储（CXMT）的内存芯片，涉及iPhone和MacBook等产品线。惠普和宏碁已开始在部分非美国市场设备中使用CXMT芯片。苹果已与CXMT就中国销售设备的供应进行早期洽谈，但需获得白宫批准。美国法规禁止美国公司向CXMT转让技术，包括技术细节和产品规格的讨论。因此，苹果只能购买现成组件，无法定制。此外，参议员舒默等要求苹果完全排除中国内存，苹果需在8月21日前回复。CXMT今年产能已满，优先供应国内客户，价格与美光、SK海力士、三星相当甚至更高，这对苹果不利。",
+              "source_url": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-10T20:02:03+08:00"
+            },
+            {
+              "title": "OLED iMac面板可能增加额外层以防止烧屏",
+              "brief": "据The Elec报道，LG Display正在开发一种五层OLED面板结构，可能用于未来的iMac，增加一层以防止烧屏并提高亮度。目前LG Display为高分辨率显示器生产四层OLED面板，采用蓝绿蓝红排列。五层版本将增加第三层蓝色，形成蓝绿蓝红蓝排列。增加发光层可分散电流负荷，在高像素密度下延长面板寿命并减少图像残留。苹果去年已向三星和LG Display咨询iMac OLED面板，要求24英寸、600尼特亮度、218 PPI。LG Display已展示27英寸5K面板，但可能不会用于iMac。五层结构成本更高，且需满足苹果的亮度和寿命要求。三星也在开发QD-OLED。两家供应商目标在2028年开发出首款iMac OLED面板，但发布可能要到2029年之后。",
+              "source_url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-10T19:35:00+08:00"
+            },
             {
               "title": "TrendForce估计iPhone 18 Pro制造成本上涨38%",
               "brief": "根据TrendForce的最新分析，由于内存价格飙升，苹果iPhone 18 Pro的制造成本比上一代高出近40%。TrendForce估计，256GB iPhone 18 Pro的物料清单比iPhone 17 Pro高出约38%，因此零售价上涨不可避免。一年前，内存成本约占iPhone Pro总组件成本的10%，而2026年第三季度这一比例约为34%，2027年上半年将超过40%。面板和应用处理器成本将降至个位数百分比。TrendForce预计苹果将采取类似MacBook的策略，牺牲部分毛利率以保持价格亲民，并可能在新机发布时提高旧款iPhone价格。内存价格自2025年初以来已上涨5至7倍，安卓入门级和中端机型可能面临更大涨价压力。苹果预计下月发布iPhone 18 Pro系列及首款折叠屏iPhone \"Ultra\"。",
@@ -21,33 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
               "source_name": "MacRumors",
               "published_at": "2026-08-10T17:30:40+08:00"
-            },
-            {
-              "title": "新款MacBook Pro和更新版iMac预计十月发布",
-              "brief": "据彭博社马克·古尔曼报道，苹果很可能在十月发布新款M6 MacBook Pro和更新版iMac。古尔曼重申，苹果正在准备推出搭载M6芯片的14英寸基础款MacBook Pro，而采用OLED显示屏和M5 Pro/M5 Max芯片的高端型号可能在年底至2027年初推出。他上月报道称，苹果正在测试运行macOS 27.1的笔记本电脑，该系统计划于十月底向用户发布。iMac方面，新款预计是搭载M5或M6芯片的24英寸机型，取代现有M4型号，设计变化不大。苹果还在研发OLED版24英寸iMac，但还需数年才能问世。",
-              "source_url": "https://www.macrumors.com/2026/08/10/new-macbook-pro-refreshed-imacs-october/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-10T16:51:40+08:00"
-            },
-            {
-              "title": "陶瓷外壳可能随Apple Watch Series 12回归",
-              "brief": "据彭博社的马克·古尔曼报道，苹果计划最早今年重新推出其引人注目的陶瓷Apple Watch外壳。陶瓷选项预计将在今年或2027年回归。苹果于2016年9月首次推出陶瓷版Apple Watch Series 2，取代了最初的黄金版，并将价格从数千美元降至相对适中的1249美元。白色陶瓷材质由氧化锆和氧化铝粉末压缩并用钻石浆料抛光而成，据称硬度是不锈钢的四倍。一年后，苹果在Series 3中增加了灰色陶瓷选项，但Edition系列在2018年的Series 4中消失。白色陶瓷在2019年的Series 5中回归，但在2020年Series 6发布时彻底停产。六年来，该材质一直缺席Apple Watch产品线，现已成为收藏家追捧的二手市场热门。此外，即将推出的Apple Watch Series 12和Ultra 4将延续“适度升级”的趋势，包括性能提升，可能引入新芯片。今年新款还将提供新颜色和表带选项。",
-              "source_url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-10T00:21:48+08:00"
-            },
-            {
-              "title": "可折叠'iPhone Ultra 3'据传将配备更大显示屏",
-              "brief": "据彭博社的马克·古尔曼报道，苹果已经在规划其第三代可折叠iPhone，最早可能在2028年发布。古尔曼表示，第一代可折叠iPhone将在今年迎来他所称的“真正革命性的设计变革”，并且苹果已经制定了超越该设备两代的路线图。第二代机型计划于2027年推出，第三代最早在2028年跟进。第三代可折叠iPhone将配备比前代稍大的内外显示屏，但未提供具体尺寸。第一代可折叠iPhone预计将配备7.8英寸内屏和5.5英寸外屏。这是首次有报道详细说明第三代机型的计划，将苹果的可折叠路线图延长了一年。第一代可折叠iPhone预计今年上市，采用超薄设计、Touch ID而非Face ID、A20芯片、C2调制解调器，并命名为“iPhone Ultra”，售价约2000美元或更高。第二代机型据称已获准开发，可能沿用第一代的显示屏。",
-              "source_url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-09T23:55:48+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "圆形 Apple Watch 有可能，但 Apple Ring 更可能",
+              "brief": "据 9to5Mac 报道，苹果正在考虑为未来的 Apple Watch 进行更彻底的重新设计，包括圆形屏幕等更大胆的外观。然而，消息人士认为，虽然圆形 Apple Watch 有可能实现，但苹果更有可能推出智能戒指 Apple Ring。这种戒指可以佩戴在手指上，提供健康监测等功能，同时比手表更小巧便携。目前，苹果尚未公布具体计划，但这一消息引发了广泛讨论。",
+              "source_url": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-10T20:09:31+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro 零部件成本上涨 38%，但也有好消息",
+              "brief": "据 9to5Mac 报道，iPhone 18 Pro 的零部件成本将比前代上涨 38%，这可能会推高其零售价格。然而，分析师指出，苹果可能会通过优化供应链和采用更高效的制造工艺来抵消部分成本增加。此外，新机型预计将配备更先进的芯片和摄像头系统，提升整体性能。尽管成本上升，但苹果可能仍会保持竞争力，以吸引消费者升级。",
+              "source_url": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-10T19:16:51+08:00"
+            },
             {
               "title": "HomeKit每周：为什么Eve Weather传感器是2026年Apple Home自动化的必备品",
               "brief": "Eve Weather是Apple Home智能家居自动化的理想选择，它提供温度、湿度和气压三个数据点，并通过Matter和Thread支持本地控制。其内置的12小时天气趋势显示利用气压变化预测天气，提供直观图标。在极端天气下，超本地数据至关重要，如防止管道冻结。Eve设备注重隐私，无需云账户，适合构建单一生态系统的自动化方案。",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/08/09/iphone-17-availability/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-10T01:48:00+08:00"
-            },
-            {
-              "title": "新款陶瓷版 Apple Watch 或将于近期发售",
-              "brief": "据彭博社记者马克·古尔曼透露，苹果正在开发陶瓷表壳的 Apple Watch，最快今年或明年推出。陶瓷材质曾用于 Apple Watch Series 2、3 和 5，但自 Series 6 起被取消。新款陶瓷版可能作为更高端的材质选项，售价或高于目前的钛金属版（起价 699 美元），参考 Series 5 陶瓷版 1299 美元的定价。",
-              "source_url": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-09T22:34:41+08:00"
-            },
-            {
-              "title": "苹果考虑为 Apple Watch 采用圆形屏幕等激进设计",
-              "brief": "面对 Oura Ring 等无屏设备的竞争，苹果正考虑彻底革新 Apple Watch 的设计，包括圆形表盘、无屏幕的健身配件等。这些新形态将与软件更新结合，使健康应用更侧重 AI。目前尚无具体产品，离上市还需数年。今年秋季将发布 Apple Watch Series 12 和 Ultra 4，带来新处理器、配色和健身功能。",
-              "source_url": "https://9to5mac.com/2026/08/09/apple-watch-revamp-redesign-round-screen/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-09T22:20:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Google Play 新增 Venmo 支付方式",
+              "brief": "谷歌宣布 Google Play 商店现已支持 Venmo 作为新的支付方式，用户可将其用于购买应用、游戏、电影租赁等。Venmo 是美国流行的移动支付应用，此次更新仅对美国用户生效。此前，Play 商店已支持 Cash App 和 PayPal（Venmo 的母公司）。分析认为，这一举措姗姗来迟，但为依赖 Venmo 的用户提供了更多便利。",
+              "source_url": "https://9to5google.com/2026/08/10/google-play-adds-venmo-as-a-payment-method-for-apps-games-and-more/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-10T20:00:00+08:00"
+            },
             {
               "title": "谷歌Pixel Watch 5最新泄露：借鉴Fitbit Air的设计",
               "brief": "MyMobiles分享了一组斯蒂芬·库里版Pixel Watch 5的图片，这是一款银色智能手表，配备特殊的织物表带，采用棕色材料并带有橙色点缀，表带内侧有略微凸起的橙色条纹。这一设计风格谷歌今年早些时候曾在Fitbit Air上首次推出。表带外侧有“斯蒂芬·库里”和“#lockin”的徽章。营销摘要强调该表带具有“防水”特性，专为四届NBA冠军斯蒂芬·库里设计，采用防水涂层，适合最艰苦的锻炼。但谷歌脚注指出“防水保护并非永久”，涂层可能因正常磨损、环境暴露和日常使用而逐渐减弱或完全消失。这款手表45mm LTE版本售价579.99欧元，目前尚不清楚是否会提供较小的41mm尺寸或蓝牙版本。",
@@ -134,25 +141,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "复古风格键盘 Classic-TKL 现已提供预组装版",
+              "brief": "The Classic-TKL 键盘套件是评测编辑 Nathan Edwards 的最爱之一，现在它推出了预组装版本。这款键盘采用复古设计，有线连接，没有数字小键盘。对于想要即买即用、无需自行组装的用户来说是个好消息。虽然预组装是购买键盘的常规方式，但 Classic-TKL 此前一直以套件形式出售。现在，用户可以直接购买成品，节省时间和精力。该键盘由 NovelKeys 推出，售价尚未公布。",
+              "source_url": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T08:00:00-04:00"
+            },
+            {
+              "title": "美国 Google Play 商店首次上架第三方应用商店 Aptoide",
+              "brief": "在谷歌与 Epic 的法律纠纷最新进展后，美国 Android 用户现在可以通过 Google Play 商店下载第三方应用商店 Aptoide，该商店专注于手机游戏。这是首个在 Google Play 上架的第三方应用商店。虽然 Android 平台一直允许侧载应用商店，但此前它们通常需要预装在设备上，如亚马逊应用商店。谷歌似乎已在 Play 商店中为第三方应用商店准备了专门区域，Aptoide 只是第一个。",
+              "source_url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T07:30:32-04:00"
+            },
+            {
+              "title": "福特新 AI 助手可检查油量和胎压",
+              "brief": "福特正在推出一款由 AI 驱动的助手，可回答关于福特或林肯车辆的问题，例如下次公路旅行需要多少燃油，或卡车能否牵引新摩托艇。该助手首先在福特和林肯移动应用中作为聊天机器人上线，能够回答关于车辆性能和未来服务需求的问题。由于应用与客户车辆关联，助手了解特定车型的详细信息，包括油量、载货容量和牵引能力。福特计划在 2027 年前推出车载语音助手。",
+              "source_url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T07:00:00-04:00"
+            },
+            {
+              "title": "太空镜可能破坏天文学并伤害眼睛",
+              "brief": "天文学家警告，美国联邦通信委员会最近关于配备镜面卫星的决定可能阻碍他们观测宇宙，并可能导致永久性眼损伤。太空镜项目旨在通过卫星反射阳光到地球表面，实现全天候太阳能。但天文学家担心这些反射光会干扰天文观测，甚至对公众眼睛造成伤害。俄罗斯科学家曾在上世纪进行过相关实验。目前，该技术仍处于早期阶段，但监管机构已开始批准相关卫星发射。",
+              "source_url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+              "source_name": "The Verge",
+              "published_at": "2026-08-10T07:00:00-04:00"
+            },
+            {
               "title": "《太空无犬》：为真正痴迷者打造的音乐史播客",
               "brief": "The Verge 周末编辑 Terrence O'Brien 撰文推荐播客《No Dogs in Space》，称其为音乐史播客中的精品，专为真正的音乐痴迷者打造。该播客由 Last Podcast Network 制作，深入探讨音乐历史，内容详尽且充满热情。然而，作者也表达了对新剧集的期待，指出自去年七月以来该节目便未再更新。尽管如此，作者仍高度评价其内容质量，认为值得一听。本文还提及该播客是当前收听、观看和阅读推荐的一部分，并附有作者简介。",
               "source_url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
               "source_name": "The Verge",
               "published_at": "2026-08-09T16:28:31-04:00"
-            },
-            {
-              "title": "扎克伯格的游艇更近，但另一艘船救起了搁浅小船",
-              "brief": "本周早些时候，阿拉斯加游轮“荒野遗产”号在法拉古特湾附近救起了一艘因燃料耗尽而搁浅的小艇。但根据阿拉斯加灯塔和哈利法克斯航运新闻的追踪数据，最近的船其实是马克·扎克伯格的超级游艇“发射台”号。乘客迈克尔·洛夫在Bluesky上发帖称，船长宣布“发射台”号更近，但“多次拒绝回应”，引起乘客嘘声。AIS追踪显示“发射台”号确实更靠近遇险船只，但随后停在湾口附近，而“荒野遗产”号则绕过它，将搁浅小船拖回安全地带。",
-              "source_url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-              "source_name": "The Verge",
-              "published_at": "2026-08-09T13:20:30-04:00"
-            },
-            {
-              "title": "49人队教练称其特斯拉在自动驾驶模式下发生事故",
-              "brief": "旧金山49人队主教练凯尔·沙纳汉在帕洛阿尔托市中心附近发生车祸，当时他的特斯拉处于自动驾驶模式。沙纳汉表示，无论是否开启自动驾驶，事故都是他的责任，并强调“你不能把驾驶完全交给电脑”。他拥有自动驾驶功能已有九年，但对事故原因尚不确定，正在调查是系统故障还是人为操作失误。",
-              "source_url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-              "source_name": "The Verge",
-              "published_at": "2026-08-09T11:56:49-04:00"
             }
           ]
         },
@@ -205,6 +226,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "中国人形机器人出货量占全球逾97%",
+              "brief": "最新行业数据显示，2026年上半年，中国人形机器人制造商占全球出货量的97%以上，显示中国在这一新兴领域已领先美国。Smart Analytics Global的数据显示，2026年上半年，全球人形机器人出货量约1.91万台，是去年同期5100台的三倍多。总部位于上海的智元机器人超越总部位于杭州的宇树科技，跃居市场份额榜首。今年上半年，智元机器人出货量达8400台，占全球出货量的44%，宇树科技则为5900台。",
+              "source_url": "https://www.solidot.org/story?sid=85051",
+              "source_name": "Solidot",
+              "published_at": "2026-08-10T17:43:58+08:00"
+            },
+            {
               "title": "苹果测试长鑫内存",
               "brief": "苹果正在测试中国长鑫存储的内存芯片，用于iPhone和MacBook等产品，以缓解AI热潮导致的内存短缺。苹果已与长鑫就供应内存芯片进行初步磋商，目标是将芯片用于部分在中国销售的设备。此前，惠普和宏碁已开始在美国以外地区销售的笔记本电脑中少量使用长鑫内存。长鑫目前约占7%的内存市场份额，而三星、SK海力士和美光占据九成份额。",
               "source_url": "https://www.solidot.org/story?sid=85050",
@@ -212,32 +240,25 @@
               "published_at": "2026-08-10T16:38:43+08:00"
             },
             {
+              "title": "中国企业及大学研发经费超美国",
+              "brief": "在企业和大学的研发费用总额方面，中国已超过美国，位居全球第一。日本文部省的数据显示，中国2024年的研发经费为97.1万亿日元，同比增长13.1%，超过了美国的95.3万亿日元（同比增长6.7%）。中国在科研论文数量上于2017年超过美国，跃居全球第一。此外，被公认为研究质量高的前10%高被引论文数量也在2018年跃居首位，而被认为更加优秀的前1%顶尖论文数量自2019年起同样位居第一。此次中国又在研发经费总额上超过美国，名副其实地走在世界科学研究的最前列。",
+              "source_url": "https://www.solidot.org/story?sid=85049",
+              "source_name": "Solidot",
+              "published_at": "2026-08-10T16:13:40+08:00"
+            },
+            {
+              "title": "果糖或助癌细胞扩散",
+              "brief": "根据发表在《Nature Aging》期刊上的一项研究，科学家发现果糖会帮助癌细胞扩散。研究团队针对的是顺铂治疗的卵巢癌，顺铂是一种强效铂类化疗药物，会诱导细胞衰老。多数患者最初对治疗反应良好，但复发很常见。研究人员想知道是什么导致了癌症复发——九成的癌症死亡都是由复发引起的。研究人员的代谢分析发现问题与果糖有关。研究人员分析了果糖触发的代谢级联反应，发现果糖不仅作为燃料，还会改变线粒体代谢，降低胆固醇的生成。胆固醇有助于稳定细胞膜，将细胞彼此连接并锚定到周围组织。胆固醇的减少，会降低癌细胞的黏附性，使其更容易脱落，从而帮助癌细胞在体内转移。实验显示抑制癌细胞代谢果糖的能力减少了转移的癌细胞数量。研究人员指出，果糖在调节肿瘤细胞行为上发挥的作用可能被低估了，限制果糖摄入量可能是一种有前景的饮食干预措施，有助于提高治疗反应。",
+              "source_url": "https://www.solidot.org/story?sid=85048",
+              "source_name": "Solidot",
+              "published_at": "2026-08-10T16:04:39+08:00"
+            },
+            {
               "title": "五分之一美国人在财务建议上咨询AI，七成美国人不信任AI",
               "brief": "盖洛普与金融服务公司Edward Jones合作调查显示，过去一年有五分之一美国人在财务建议上咨询AI，但仅三成美国人非常信任或部分信任AI的理财能力，3%非常信任，七成不信任。金融专家建议消费者谨慎使用AI工具，不要完全依赖。MIT副教授Taha Choukhmane建议利用AI获取金融概念解释，如了解股市或基金区别。研究显示，年轻人更倾向使用AI获取建议，而老年人更倾向寻求专业顾问。",
               "source_url": "https://www.solidot.org/story?sid=85047",
               "source_name": "Solidot",
               "published_at": "2026-08-10T14:49:27+08:00"
-            },
-            {
-              "title": "微软回应悄悄在Windows 11上安装新照片应用OneDrive Photos",
-              "brief": "微软最近被发现悄悄在Windows 11上安装新照片应用OneDrive Photos，该应用与OneDrive在同一文件夹，无法单独卸载，若想卸载需连同OneDrive一起，而OneDrive与系统高度集成，卸载会影响系统功能。该应用甚至出现在企业版机器上，并自动扫描本地照片，引发批评。微软回应称推广范围超出预期，正在修复，并计划添加本地照片选项，让用户选择是否使用OneDrive。同时将开发控件允许分开卸载，企业版上的应用会自动删除。",
-              "source_url": "https://www.solidot.org/story?sid=85046",
-              "source_name": "Solidot",
-              "published_at": "2026-08-10T13:54:14+08:00"
-            },
-            {
-              "title": "全球蔬菜种植品种减少，饮食多样性受损",
-              "brief": "一项发表在《美国国家科学院院刊》上的研究指出，全球大多数人蔬菜摄入量比健康推荐量少约40%，同时种植的蔬菜品种越来越少，导致饮食多样性恶化。工业化前种植的食用植物品种繁多，如土豆曾有逾4000个品种，但美国现在只广泛种植约五到八个品种。农业工业化、单一栽培和基因改造减少了餐桌上的蔬菜品种，遗传多样性的丧失也意味着营养成分和作物适应气候变化能力的下降。",
-              "source_url": "https://www.solidot.org/story?sid=85045",
-              "source_name": "Solidot",
-              "published_at": "2026-08-09T23:13:58+08:00"
-            },
-            {
-              "title": "脑扫描揭示新冠患者大脑广泛结构功能变化",
-              "brief": "四川大学研究人员分析了49项脑成像研究，发现新冠患者大脑经历广泛的结构和功能变化，影响记忆、情绪和执行功能的区域，可能解释部分神经系统症状。与健康人群相比，新冠患者额叶（负责决策和认知控制）频繁显示结构性改变，颞叶和顶叶（参与感觉处理和注意力）也有明显差异。前额叶皮层对社会心理压力敏感，疫情压力和病毒感染都可能导致其结构改变。新冠患者灰质总体积减少，皮质变薄，可能与感染期间氧气供应减少或免疫炎症有关。",
-              "source_url": "https://www.solidot.org/story?sid=85044",
-              "source_name": "Solidot",
-              "published_at": "2026-08-09T22:19:26+08:00"
             }
           ]
         },
@@ -271,39 +292,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "扎克伯格公开信：Meta AI战略蓝图，强调个人赋能与安全",
-              "brief": "Meta CEO马克·扎克伯格发表公开信，阐述AI战略蓝图。他驳斥AI“末日论”，主张个人赋能、发明创造和力量均衡。Meta将开发个人超级智能，包括全天候个人智能体、AI导师等，并强调隐私保护。为防范风险，提议与政府合作，并建立独立董事会。同时，呼吁加快能源和基础设施建设，支持开源。Meta已成立超级智能实验室，并重启开源模型发布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572540.htm",
+              "title": "长鑫存储与苹果合作受限：产能短缺和技术劣势成主要障碍",
+              "brief": "据业界透露，即便长鑫存储获得美国采购许可，其产能缺口仍是深度合作的核心壁垒。报道称，长鑫存储的内存芯片即使进入苹果供应链，也大概率仅用于中国本土销售的苹果产品。目前长鑫存储规划月产能提升至60万片晶圆，但大部分已被AI客户锁定。此外，价格谈判僵局和性能劣势进一步降低合作可能性。长鑫存储拒绝了苹果的折扣要求，因已与腾讯签订30亿美元合同。测试显示，其DDR5内存性能落后于SK海力士。综合来看，苹果测试长鑫存储芯片是前瞻性布局，但合作可能长期局限于测试和小范围采购。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572552.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-10T18:33:36+08:00"
+              "published_at": "2026-08-10T19:39:38+08:00"
             },
             {
-              "title": "iPhone 18 Pro内存成本飙升，或影响利润与售价",
-              "brief": "据报告，iPhone 18 Pro的DRAM内存成本占比将升至42%，存储成本高达400美元，导致整机成本大幅上升。苹果面临艰难抉择：维持售价将牺牲利润，提价则可能抑制需求。预计2027年上半年内存成本占比进一步攀升，对苹果的定价策略和市场份额构成挑战。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572538.htm",
+              "title": "LG Display为苹果OLED iMac研发五层发光面板，采用三层蓝光设计防烧屏",
+              "brief": "LG Display正为苹果OLED版iMac开发五层发光面板，堆栈结构为“蓝-绿-蓝-红-蓝”，以应对高像素密度下的烧屏风险。苹果已向三星和LG发出RFI，规格包括24英寸、600尼特峰值亮度、218 PPI。LG曾展示27英寸220 PPI的5K OLED面板，但为四层结构。五层堆叠面临成本与工艺挑战，需更多有机材料，蒸镀更复杂。两家供应商计划2028年前后完成开发，OLED iMac最早2029年上市。短期内，苹果将推出LCD版本。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572550.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-10T17:38:30+08:00"
+              "published_at": "2026-08-10T19:39:11+08:00"
             },
             {
-              "title": "苹果10月或发布新款MacBook Pro与iMac",
-              "brief": "苹果预计在10月推出新款MacBook Pro和iMac。基础款MacBook Pro将搭载M5芯片，高端型号将配备M5 Pro/Max和OLED屏幕，预计年底至2027年初发布。新款24英寸iMac将搭载M5或M6芯片，外观不变。OLED版iMac还需数年。macOS 27.1系统将在10月底推送。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572536.htm",
+              "title": "极兔速递因管理疏漏被罚7万元，六年高速扩张遭遇刹车",
+              "brief": "极兔速递因未按规定履行安全保障统一管理责任，被国家邮政局罚款7万元。此前，极兔因多起安全事故和重大安全隐患被立案调查。极兔自2020年入局国内快递，以低价策略和区域联营模式迅速扩张，2023年港股上市，2025年包裹量破300亿件。但联营模式导致总部管控不力，安全和服务问题频发。监管约谈后，极兔启动整改，但行业竞争已从拼速度转向拼服务和管理，极兔面临转型挑战。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572548.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-10T17:03:25+08:00"
+              "published_at": "2026-08-10T19:38:03+08:00"
             },
             {
-              "title": "微软停用图片密码，转向Windows Hello",
-              "brief": "微软宣布不再向新用户提供图片密码功能，该功能自Windows 8起存在，因AI图像技术发展导致安全风险增加。现有用户仍可使用，但移除后无法重新设置。微软建议用户改用Windows Hello的PIN、人脸或指纹识别，以提升安全性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572534.htm",
+              "title": "竹制快递包装亮相，5年内目标达10亿件",
+              "brief": "福建省三明市邮政管理局介绍，竹基包装产品已在当地主要快递品牌中测试，反响良好。顺丰速运负责人表示，目前竹制包装袋价格高于传统包装袋10%左右，但随着量产，价格将更具优势。该环保产品旨在替代传统包装，目标5年内达到10亿件，年均增长五成。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572546.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-10T17:02:56+08:00"
+              "published_at": "2026-08-10T19:36:13+08:00"
             },
             {
-              "title": "加拿大波特航空一航班因儿童乘客拒系安全带被迫取消",
-              "brief": "加拿大波特航空一架航班因一名儿童乘客拒绝系安全带，机组决定返航并清退该乘客及其家长，导致错过机场跑道关闭时间，航班被迫取消。航空公司已向受影响乘客致歉并重新安排次日航班。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572532.htm",
+              "title": "全球海洋温度7月再创新高，极端天气频发凸显气候变化加剧",
+              "brief": "哥白尼气候变化服务局数据显示，7月全球海洋表面温度达20.95摄氏度，创历史新高。科学家指出，海洋热浪日益广泛，厄尔尼诺叠加人为变暖推高温度。7月全球平均气温16.9摄氏度，与2024年并列第二热。西欧经历最热7月，高温加剧干旱。专家呼吁减少温室气体排放，强调极端天气加剧是地球升温的预期结果。英国气象局预测本周将出现第五次热浪。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572544.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-10T16:47:21+08:00"
+              "published_at": "2026-08-10T19:36:03+08:00"
             }
           ]
         },
@@ -351,39 +372,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《蜘蛛侠：全新一天》4K铁盒封面疑似泄露，亚马逊已撤下",
+              "brief": "亚马逊和沃尔玛近日上架了《蜘蛛侠：全新一天》的实体特别版预购，其中收藏版售价150.99美元，采用磁吸光栅封面，并附赠一本原创蜘蛛侠漫画；4K UHD铁盒版售价44.99美元，封面描绘了蜘蛛侠与“手合会”的战斗。然而，亚马逊在周末更新了商品页面，展示了新的封面设计，但随后又撤下，恢复为全球海报。粉丝对铁盒封面好评如潮，但对收藏版设计褒贬不一。目前，铁盒版仍可预购，收藏版已售罄。官方尚未公布发行日期。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-4k-steelbook-designs-revealed",
+              "source_name": "IGN",
+              "published_at": "2026-08-10T18:47:20+08:00"
+            },
+            {
+              "title": "《战锤40K》小说《蜂巢》限量版在eBay以3150美元成交，背后原因揭秘",
+              "brief": "一本《战锤40K》小说《蜂巢》的限量版在eBay上以3150美元的高价售出。此前，Games Workshop曾计划在战锤商店独家发售2000本签名编号限量版，但因粉丝不满而取消，改为非限量版。这本编号为12/2000的限量版据信是唯一流入市场的，卖家描述称其“独一无二”，吸引了超过50次竞拍。此次拍卖引发热议，也反映出粉丝对限量版收藏品的强烈兴趣。",
+              "source_url": "https://www.ign.com/articles/why-a-warhammer-40000-book-just-sold-for-3150-on-ebay",
+              "source_name": "IGN",
+              "published_at": "2026-08-10T18:44:53+08:00"
+            },
+            {
+              "title": "《哈利·波特》粉丝抗议成功，多比之墓免遭电缆工程破坏",
+              "brief": "在威尔士彭布罗克郡海滩上，多比之墓是《哈利·波特》电影中家养小精灵多比的安息之地，每年吸引数百名粉丝前来朝圣，留下彩绘石头或衣物。然而，一项耗资4.3亿英镑的格林林克海底电缆工程原计划从该处穿过，引发粉丝强烈反对。项目经理西蒙·勒德拉姆最初认为这无关紧要，但接到数百个电话后，项目最终改道，多比之墓得以保留。勒德拉姆表示：“多比很高兴。”",
+              "source_url": "https://www.ign.com/articles/harry-potter-fan-protest-diverts-power-line-planned-to-go-straight-through-dobbys-grave",
+              "source_name": "IGN",
+              "published_at": "2026-08-10T18:05:10+08:00"
+            },
+            {
+              "title": "克里斯·埃文斯透露《复仇者联盟：末日》对史蒂夫·罗杰斯“残酷”，粉丝担忧其子女命运",
+              "brief": "克里斯·埃文斯透露，《复仇者联盟：末日》中史蒂夫·罗杰斯将面临“残酷”的考验，罗素兄弟再次执导，他们喜欢“痛打”这位英雄。埃文斯表示，这部电影将深入探讨罗杰斯的本质和价值观，呈现前所未见的内容。粉丝担忧他的孩子会遭遇不测，因为毁灭博士在《神奇四侠：第一步》彩蛋中曾抱着婴儿富兰克林。电影预告展示了两个不同造型的罗杰斯，引发猜测。末日之后还有《秘密战争》，未来充满变数。",
+              "source_url": "https://www.ign.com/articles/avengers-doomsday-will-be-brutal-for-steve-rogers-chris-evans-says-as-fans-fear-for-the-fate-of-his-child",
+              "source_name": "IGN",
+              "published_at": "2026-08-10T18:00:10+08:00"
+            },
+            {
               "title": "《一夜情》导演剪辑版因观众反感裸露镜头而删减大量内容",
               "brief": "导演威尔·格卢克透露，因现代观众对银幕上的裸露镜头感到不适，他在新片《一夜情》中删减了大量裸露戏份。格卢克表示，这一变化不仅限于Z世代和Alpha世代，而是整个社会的转变：人们更倾向于私下观看成人内容，在影院等公共场合看到会感到尴尬。经过试映后，他不断剪辑，直到观众反馈消失。该片由莫妮卡·巴巴罗和卡勒姆·特纳主演，故事设定在一个禁止婚前性行为的平行世界。",
               "source_url": "https://www.ign.com/articles/one-night-only-director-cut-so-much-nudity-from-film-because-audiences-now-dislike-seeing-it",
               "source_name": "IGN",
               "published_at": "2026-08-10T11:11:54+08:00"
-            },
-            {
-              "title": "华纳兄弟为《橡树街尽头》发布AI生成狗播客引发争议",
-              "brief": "华纳兄弟为科幻片《橡树街尽头》发布了一支由AI生成的狗播客宣传视频，引发观众强烈不满。视频中，AI生成的金毛猎犬和法国斗牛犬以播客形式讨论电影，但观众质疑为何大公司要使用AI而非真实动物。评论在社交媒体上大量涌现，多数为负面，有人表示因此放弃观看该片。影片由伊万·麦克格雷格和安妮·海瑟薇主演，讲述一个家庭被传送到奇异世界的故事。",
-              "source_url": "https://www.ign.com/articles/warner-bros-stirs-controversy-after-posting-embarrassing-ai-dog-podcast-for-the-end-of-oak-street",
-              "source_name": "IGN",
-              "published_at": "2026-08-10T07:26:38+08:00"
-            },
-            {
-              "title": "《漫威争锋》PC版表现糟糕，知名格斗游戏主播Maximilian Dood直播卸载游戏",
-              "brief": "知名格斗游戏内容创作者Maximilian Dood在直播中因《漫威争锋》PC版性能问题频出而卸载游戏，称其“真的很烂”。该游戏于8月6日登陆PC和PS5，PS5版表现良好，但PC版存在严重卡顿等问题，Steam评价迅速下滑至“褒贬不一”，后跌至“多半差评”。Dood表示PC版体验让游戏变得无趣，并宣布未来将只玩PS5版本。开发商Arc System Works承诺调查问题，但截至周末尚未修复。",
-              "source_url": "https://www.ign.com/articles/marvel-tokon-pc-launch-is-so-bad-that-famed-fgc-content-creator-maximilian-dood-uninstalled-the-game-on-stream",
-              "source_name": "IGN",
-              "published_at": "2026-08-10T06:02:57+08:00"
-            },
-            {
-              "title": "据报道，暴雪凭借《守望先锋》和《暗黑破坏神》成为Xbox“表现最佳”的工作室",
-              "brief": "据Windows Central报道的泄露邮件显示，暴雪总裁Johanna Faries称，在2026财年，暴雪成为Xbox工作室部门中表现最佳的工作室，并创下公司历史上第三高的营收。过去两年是暴雪自2017年以来首次连续增长，主要得益于《守望先锋》和《暗黑破坏神4：憎恨之躯》的出色表现。后者是2023年《暗黑破坏神4》的第二个DLC，于今年4月推出，新增了故事内容、新区域、圣骑士和术士职业等。尽管《守望先锋》曾有起伏，但近年来的努力使其保持活力。",
-              "source_url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
-              "source_name": "IGN",
-              "published_at": "2026-08-10T04:29:23+08:00"
-            },
-            {
-              "title": "《蜘蛛侠：全新一天》第二周末票房逼近20亿美元，《奥德赛》成诺兰最卖座电影",
-              "brief": "《蜘蛛侠：全新一天》在第二个周末再收1.45亿美元，北美累计6.55亿，全球累计16.7亿，有望超越前作《蜘蛛侠：英雄无归》并冲击20亿美元大关。同时，克里斯托弗·诺兰的《奥德赛》全球票房达11.04亿美元，超越《黑暗骑士崛起》成为其个人最卖座影片，也是IMAX史上票房最高的电影。",
-              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-swings-closer-to-2-billion-in-second-weekend-in-theaters-the-odyssey-becomes-highest-grossing-christopher-nolan-movie-of-all-time",
-              "source_name": "IGN",
-              "published_at": "2026-08-10T02:45:09+08:00"
             }
           ]
         },
@@ -391,25 +412,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "AI比人类更可靠？Claude Code将切换为自动模式 不需要用户手动确认命令或调用",
-              "brief": "Anthropic宣布自8月14日起，Claude Code将逐步切换为自动模式，无需用户手动确认命令。研究显示，开发者频繁审批易疲劳，实际批准率达97%，但自动模式安全分类器拦截危险命令率达89%，手动模式严重事故率6.3%，自动模式仅2.4%。自动模式支持长时程任务，若连续三次或累计20次拒绝则转手动。安全分类器消耗配额费用自8月7日起免除。",
-              "source_url": "https://www.landian.news/archives/114245.html",
+              "title": "Cloudflare Mesh发布官方容器镜像，几秒完成部署",
+              "brief": "Cloudflare Mesh推出官方容器镜像，支持Docker、Docker Compose和Kubernetes部署，兼容x86和arm64架构。该镜像基于精简版Wolfi环境，内部运行warp-svc客户端，适用于CI/CD流水线，可快速连接私有基础设施。用户需在控制台创建节点并获取令牌，通过环境变量传入。镜像支持Source NAT功能，减少网络配置。",
+              "source_url": "https://www.landian.news/archives/114254.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-08T14:13:26+08:00"
+              "published_at": "2026-08-10T15:18:13+08:00"
             },
             {
-              "title": "X/Twitter宣布修改创作者收益分成计划打击垃圾账号 重点扶持原创内容账号",
-              "brief": "X宣布9月8日起启动原创内容奖励计划，取代现有创作者收益分成计划。新计划鼓励原创，打击复制粘贴和AI洗稿。收益仅计入X Premium用户浏览，评论展示量不再计入。申请门槛提高：需年满18岁、500名Premium粉丝、90天内展示超50万次等。现有计划于9月7日关停，分三笔付款至9月11日。",
-              "source_url": "https://www.landian.news/archives/114244.html",
+              "title": "Codex执行任务误删C盘D盘大量文件，谨慎授予完全控制权限",
+              "brief": "V2EX网友使用Codex时遭遇命令转义问题，导致C盘和D盘约200-300GB文件被删除。原因是Windows下PowerShell调用WSL时引号丢失，导致find命令从根目录遍历删除。网友已开启完全控制权限，使危险命令无阻碍执行。建议使用审批模式，并做好数据备份。",
+              "source_url": "https://www.landian.news/archives/114253.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-08T13:29:21+08:00"
+              "published_at": "2026-08-10T14:28:00+08:00"
             },
             {
-              "title": "WordPress再次爆出高危安全漏洞XSS2Shell 全网约有5亿个网站受影响",
-              "brief": "WordPress核心登录界面存在高危漏洞XSS2Shell（CVE-2026-64638），攻击者可诱导管理员交互，最终执行任意PHP代码。漏洞源于输入处理差异，非零点击，需社会工程学。官方已发布7.0.3及多个分支版本安全更新，建议立即升级至不受影响版本。",
-              "source_url": "https://www.landian.news/archives/114243.html",
+              "title": "Windows 11天气应用占用1GB内存，WebView2框架成负担",
+              "brief": "Windows 11内置天气应用基于WebView2框架，启动后占用约1GB内存，频繁交互时可达1.5GB。该应用本质是MSN天气网页封装，包含大量广告和资讯模块。对于8GB内存设备，此类应用成为内存负担。建议微软转向原生应用以降低资源消耗。",
+              "source_url": "https://www.landian.news/archives/114252.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-08T12:57:19+08:00"
+              "published_at": "2026-08-10T13:27:38+08:00"
+            },
+            {
+              "title": "Microsoft Edge开始淘汰MV2扩展，uBlock Origin受影响",
+              "brief": "微软宣布从本月起逐步淘汰Edge浏览器中的MV2扩展程序，包括uBlock Origin。先在Canary、Dev和Beta版测试，稳定版随后跟进，目标2026年底前完成。企业用户可延期至2027年初。用户需寻找MV3替代方案，如uBlock Origin Lite。",
+              "source_url": "https://www.landian.news/archives/114251.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-10T12:04:28+08:00"
+            },
+            {
+              "title": "美光英睿达退出消费市场后售后困难，内存故障仅原价退款",
+              "brief": "美光英睿达停产消费级内存后，用户遇到售后问题。网友48GB内存套装故障后，美光只愿退款约242美元，但重新购买需1400美元。美光称不提供换货服务，最终在网友坚持下，美光提供3根16GB内存条作为替代。用户购买英睿达产品需谨慎。",
+              "source_url": "https://www.landian.news/archives/114250.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-10T11:43:08+08:00"
             }
           ]
         }
