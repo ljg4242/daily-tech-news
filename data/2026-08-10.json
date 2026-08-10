@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T10:50:10.114631+08:00",
+  "generated_at": "2026-08-10T12:50:12.232502+08:00",
   "sections": [
     {
       "category": "主要",
@@ -148,6 +148,25 @@
               "published_at": "2026-08-09T11:56:49-04:00"
             }
           ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "Pixel Watch 5 将推出斯蒂芬·库里特别版",
+              "brief": "据最新泄露的营销材料，谷歌即将发布的 Pixel Watch 5 将推出斯蒂芬·库里特别版。该特别版主要特色在于表带，采用编织设计，搭配灰石色和灰褐色，并带有亮橙色点缀和条纹尾部，同时印有“STEPHEN CURRY”和“#LockIn”字样。表带经过防水涂层处理，适合高强度锻炼。售价预计为 579.99 欧元（约 669 美元），比标准版贵约 31 欧元。这并非谷歌首次与库里合作，此前曾推出 Fitbit Air 特别版。 Pixel Watch 5 预计于 8 月 20 日开售。",
+              "source_url": "https://www.androidauthority.com/google-pixel-watch-5-stephen-curry-edition-3696183/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-10T11:45:28+08:00"
+            },
+            {
+              "title": "Verizon 再遭网络中断：光纤被破坏者切断",
+              "brief": "Verizon 表示，南加州多处光纤电缆被破坏者切断，导致移动和互联网服务中断。目前维修工作正在进行，预计数小时内恢复。公司未透露具体切断地点和受影响客户数量，但已报警调查。此次中断与 8 月 9 日的大范围语音服务故障无关，后者已解决。Verizon 强调，此类破坏行为威胁社区安全，将严肃处理。",
+              "source_url": "https://www.androidauthority.com/verizon-outage-southern-california-fiber-cables-cut-by-vandals-3696177/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-10T11:17:44+08:00"
+            }
+          ]
         }
       ]
     },
@@ -183,6 +202,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "发现频道：10款大家发现的好评软件[2026年第32期]",
+              "brief": "本期发现频道汇总了最近10日来自小众软件论坛的热门软件，包括面向黑客的Linux基础课程中文译本、Rust编写的跨平台文件管理器Tessoa、开源的深度磁盘清理工具MangoDisk、语音物品管理应用声物记、单HTML文件的Markdown编辑器墨方、反应速度与记忆力测试工具、本地优先的Markdown桌面编辑器、桌面端AI Agent BitFun、本地离线截图OCR工具SnapFind，以及支持多模型切换的本地Agent MyAgents。这些软件均由用户自荐或推荐，涵盖了系统工具、编辑器、AI应用等多个类别，值得关注。",
+              "source_url": "https://www.appinn.com/faxian-top10-2632/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-10T09:00:34+08:00"
+            },
             {
               "title": "Castor：将网页视频投屏到电视的开源工具",
               "brief": "Castor 是一款开源工具，能提取网页中的视频，通过 DLNA、Chromecast 或 Roku 协议将视频直接投屏到智能电视。它支持无头 Chrome 监听网络发现真实视频流，再用 ffmpeg 处理后投送。用户可通过命令行操作，如 castor cast player 投屏网页视频，castor cast movie 投屏电影，还支持电视剧集和字幕生成。目前提供 Linux、macOS 和 Docker 版本，需安装 Chrome、ffmpeg 等依赖。适合在没有电视 App 的在线视频网站使用，操作简单便捷。",
