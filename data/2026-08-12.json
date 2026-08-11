@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T02:50:54.754658+08:00",
+  "generated_at": "2026-08-12T04:50:39.642169+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Grok Bot 为 macOS 和 iOS 带来常驻 AI 代理",
+              "brief": "SpaceXAI 今日宣布推出 Grok Bot，这是一组常驻代理，可通过工具、网站和应用完成任务。它能在云端运行，因此即使合上笔记本电脑也能继续工作。该功能与 SpaceX 以 600 亿美元收购的 AI 编程公司 Cursor 相关联。Grok 订阅用户可通过手机或桌面应用以自然语言向机器人发送消息。SpaceXAI 表示，Grok Bot 只需聊天即可完成任务，无需构建工作流程。它能登录网站（即使没有 API），但未透露认证细节。多个机器人可并行使用，一个管理其他机器人，并有针对不同任务的专业机器人。机器人可加入群聊，自主协调、交接工作、分配所有权，仅在需要判断时引入用户。用户可教 Grok Bot 学习工作流程，它观察任务完成过程并保存例程，下次可自动执行。机器人会随时间学习，最终能在“用户询问之前”就开始工作。Grok Bot 已进入测试阶段，适用于 SuperGrok Heavy、Cursor Ultra 和 Cursor Teams Premium 订阅用户，支持 macOS 和 iOS。企业用户可加入等待列表。",
+              "source_url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-12T04:34:58+08:00"
+            },
+            {
+              "title": "苹果无法在等待最高法院审理期间推迟 App Store 费用之争",
+              "brief": "在与 Epic Games 的持续法律纠纷中，苹果再次未能获得费用计算的暂缓执行。苹果的案子将在十月开始的最高法院任期内审理，苹果请求美国加州北区地方法院暂停诉讼程序，但法院拒绝了。苹果现在有 24 小时向法院提交其希望向开发者收取使用替代支付选项和链接到网页购买选项的费用概要。Epic Games 随后将对苹果的费用提案进行法律分析，法院将决定合理费用。费用计算是 Epic 与苹果长期纠纷的结果，始于 2020 年 Epic 起诉苹果。苹果最初在诉讼中基本获胜，但被命令改变反引导规则，允许开发者链接到非 App Store 购买选项。苹果遵守了，但收取 12% 至 27% 的费用，导致很少有开发者使用该选项。Epic 指控苹果违反法院命令，法官 Yvonne Gonzalez Rogers 同意。2025 年 4 月，她裁定苹果藐视法庭，并停止苹果在美国 App Store 中收取链接费用。苹果上诉，上诉法院维持藐视裁定，但表示苹果有权就其知识产权收取合理费用，并将案件发回地方法院确定合理费用。自 2025 年 4 月以来，苹果一直无法收取链接外费用。",
+              "source_url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-12T03:14:10+08:00"
+            },
             {
               "title": "苹果为公开测试者发布新版 AirPods 固件",
               "brief": "苹果今天面向公开测试者发布了新的 AirPods 测试版固件，版本号为 9A5336b，适用于 AirPods Pro 2、AirPods Pro 3、AirPods 4 和 AirPods Max 2。该固件与上周面向开发者发布的版本相同。在 iOS 27、iPadOS 27 和 macOS Golden Gate 中，苹果加入了新的 AirPods 界面、自适应模式滑块和自定义 EQ 支持，因此该固件让公开测试者能够使用这些功能。AirPods 还兼容新的 Siri AI。当 AirPods 连接到运行 iOS 26、iPadOS 26 或 macOS 26 及更高版本的 iPhone、iPad 或 Mac 时，可以在 AirPods 设置界面中找到测试版固件选项，开启后即可安装。固件更新需将 AirPods 连接到苹果设备并接通电源，由于没有像其他苹果设备那样的软件更新选项，安装可能需要几个小时。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
               "source_name": "MacRumors",
               "published_at": "2026-08-12T02:12:09+08:00"
-            },
-            {
-              "title": "macOS Golden Gate 第三个公开测试版现已发布",
-              "brief": "苹果今天发布了 macOS Golden Gate 的第三个公开测试版，允许非开发者在秋季正式发布前测试该软件。你可以在苹果的测试版网站上注册，然后通过系统设置 > 通用 > 软件更新，开启 macOS 27 测试版即可下载。macOS Golden Gate 包含与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，但通过 Spotlight 使用 Command + Space 快捷键呼出 Siri。Siri 可以搜索网页回答问题，查找个人数据如照片、邮件和消息，并在应用内或跨应用执行操作。还有专门的 Siri 应用，支持连续对话。苹果将视觉智能引入 Mac，Siri 能查看屏幕内容并回答相关问题。去年的 Liquid Glass 设计得到更新，新增了控制整体系统透明度的滑块，界面深度和分离度提升，窗口角不再那么圆润，侧边栏不再浮动，窗口定位更一致。Siri 写作功能可生成文本、纠正语法或提供反馈，照片应用有新的 AI 编辑工具，快捷指令支持自然语言创建自动化，邮件和消息搜索改进。macOS Golden Gate 还进行了多项性能优化，即使在旧款 Mac 上也能更流畅。",
-              "source_url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-12T01:26:26+08:00"
-            },
-            {
-              "title": "iOS 27 和 iPadOS 27 第三个公开测试版现已发布",
-              "brief": "苹果今天发布了 iOS 27 和 iPadOS 27 的第三个公开测试版，允许拥有兼容设备的用户下载并测试新软件。第三个测试版距离第二个测试版发布已有两周。你可以通过苹果的测试版网站注册，然后在设置 > 通用 > 软件更新中选择 iOS 27 或 iPadOS 27 公开测试版选项。iOS 27 引入了 Siri AI，一个更强大的 Siri，可以搜索网页、访问个人信息、查看屏幕内容并在应用内或跨应用执行操作。iOS 27 中的 Siri 更类似于 Claude 或 ChatGPT，有专门的 Siri 应用进行来回对话。只要设备支持 Apple Intelligence，就可以使用 Siri AI。苹果更新了去年推出的 Liquid Glass 设计，增加了调整透明度的滑块并优化了外观。许多苹果应用都有新的 AI 功能。视觉智能移至相机应用，支持获取餐食营养信息或分摊账单等功能。Siri 可以为你生成文本或通过 Siri 写作帮助你润色。照片应用有新的 AI 照片编辑工具，Safari 可以自动整理标签页，你可以使用自然语言创建快捷指令和 Safari 扩展。AirPods 支持自定义 EQ，家庭应用支持 4K 视频摄像头，还有新的儿童安全控件。苹果对设备性能进行了数十项改进，即使旧款 iPhone 也能感觉更快，应用启动更快，AirDrop 传输更快，键盘加载更快等。更多信息可查看我们的 iOS 27 和 iPadOS 27 汇总。",
-              "source_url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-12T01:22:29+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "iPhone 18 Pro：三项全新相机升级即将到来",
+              "brief": "据彭博社马克·古尔曼报道，iPhone 18 Pro将迎来“相机硬件最大飞跃”。传闻中的三项主要升级包括：可变光圈主摄、更宽光圈的远摄镜头以及专业级软件功能。可变光圈可能成为最大亮点，有望实现手动调节景深、改善人像模式和低光拍摄。远摄镜头的大光圈将提升低光性能。软件方面，苹果可能为专业用户增加新功能，如去年推出的双镜头同时拍摄。此外，相机控制按钮也将重新设计。",
+              "source_url": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-12T04:18:09+08:00"
+            },
+            {
+              "title": "法院驳回苹果推迟App Store费用诉讼的请求",
+              "brief": "在Epic Games诉苹果案中，法院驳回了苹果暂停诉讼程序的请求。此前，苹果因违反禁令对通过外部链接的购买收取27%佣金而被判藐视法庭，苹果上诉至最高法院并请求暂停下级法院程序。Epic反对暂停，法院最终驳回苹果请求。这意味着苹果须在24小时内提交拟定的费用方案及支持证据。Epic CEO蒂姆·斯威尼在X上表示，将关注苹果是否诚实记录成本。苹果尚未回应。",
+              "source_url": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-12T03:59:40+08:00"
+            },
+            {
+              "title": "马克·古尔曼称苹果内部普遍使用“iPhone Ultra”名称",
+              "brief": "苹果即将在9月发布可折叠iPhone，外界普遍猜测其命名为“iPhone Fold”，但近期有爆料称可能叫“iPhone Ultra”。知名爆料人马克·古尔曼在X上表示，苹果内部普遍称其为“Ultra”。不过，这并不代表最终官方命名，因为苹果保密严格，可能只是内部习惯。你认为可折叠iPhone会叫“iPhone Ultra”吗？欢迎在评论区讨论。",
+              "source_url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-12T03:40:15+08:00"
+            },
+            {
+              "title": "据报道苹果洽谈英国公开赛高尔夫赛事流媒体版权",
+              "brief": "据《卫报》报道，苹果已与R&A就“英国公开赛”的流媒体版权进行初步谈判。该赛事是高尔夫最古老的大满贯赛事，目前由NBC和Versant转播。苹果对体育版权兴趣浓厚，去年成为F1美国独家转播商，并播出MLS和周五棒球比赛。R&A表示将与现有合作伙伴及感兴趣方讨论。苹果尚未置评。",
+              "source_url": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-12T03:01:16+08:00"
+            },
+            {
               "title": "AirPods Pro 3等型号获得新的公开测试版固件",
               "brief": "苹果向公开测试版用户推送了新的AirPods固件，版本号为9A5336b，此前仅限开发者测试版。此次更新适用于搭载H2芯片的AirPods Pro 3、AirPods Pro 2、AirPods 4和AirPods Max 2。该固件将与iOS 27正式版一同发布，为AirPods带来多项新功能，其中一些为AirPods Pro 3独有。用户可前往beta.apple.com加入公开测试计划。目前尚不清楚新固件的具体改进，欢迎用户在评论区分享体验。",
               "source_url": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-12T02:46:28+08:00"
-            },
-            {
-              "title": "9to5Mac每日播客：2026年8月11日 – iOS 27 beta 5、玻璃iPhone传闻",
-              "brief": "本期9to5Mac Daily播客讨论了iOS 27 beta 5的新变化，包括Siri和Safari等应用的新图标、代码中泄露的六款未发布iPhone 18机型、iCloud+订阅升级选项，以及Apple Vision Pro将直播MLB比赛等。此外，还提及了苹果20周年iPhone重新设计的传闻。听众可通过Apple Podcasts、Overcast等平台订阅收听，支持付费版本可享受无广告和独家内容。",
-              "source_url": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-12T02:35:30+08:00"
-            },
-            {
-              "title": "苹果支付与钱包负责人詹妮弗·贝利宣布退休",
-              "brief": "苹果服务主管埃迪·库伊在内部备忘录中宣布，任职超过25年的詹妮弗·贝利将于10月退休。贝利自2014年起担任Apple Pay副总裁，此前曾领导苹果在线商店。她的离职被视为苹果的重大损失。苹果将在她离职前公布继任计划。此外，负责财务和投资者公关的高级总监乔什·罗森斯托克也将离职，但与此事无关。这些变动发生在约翰·特努斯即将于9月1日接任CEO之际。",
-              "source_url": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-12T02:14:08+08:00"
-            },
-            {
-              "title": "iOS 27 beta 5让Liquid Glass透明度更高",
-              "brief": "在iOS 27中，用户可以通过设置中的Liquid Glass滑块调整界面透明度。本周发布的beta 5进一步提高了最透明档位的透明度，使界面更加通透。这一变化虽不巨大，但满足了喜欢极致透明效果的用户需求。Beta Profiles在X上展示了对比效果。iOS 27将于下月正式发布，届时用户可自定义Liquid Glass风格。",
-              "source_url": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-12T02:07:12+08:00"
-            },
-            {
-              "title": "watchOS 27将为常用表盘增加新颜色选项",
-              "brief": "据泄露，watchOS 27将扩大Modular表盘的个性化选项，新增九种颜色，包括冷石板蓝、灰蓝、灰玫瑰、扁平鼠尾草绿、柔和海军蓝、淡薄荷绿、柔和长春花蓝、柔和粉、暖奶油色和暖灰褐色。这些颜色名称出现在iOS 27 beta 5代码中，但尚无预览。这可能预示着下月发布的Apple Watch Series 12或Ultra 4将推出新表带。此外，有报道称watchOS 27还将推出受Modular Ultra启发的新Modular表盘。",
-              "source_url": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-12T01:39:10+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Gemini 应用月活用户突破 10 亿，谷歌预告未来计划",
+              "brief": "谷歌宣布其 Gemini 应用月活跃用户已达到 10 亿，标志着该 AI 助手取得重大里程碑。谷歌同时透露了未来的发展方向，包括更深入的设备集成和个性化体验。这一成就凸显了谷歌在 AI 领域的领先地位，并为其与竞争对手的较量增添了筹码。",
+              "source_url": "https://9to5google.com/2026/08/11/gemini-app-1-billion/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-12T03:21:32+08:00"
+            },
+            {
+              "title": "Google TV 新增超 1 万部免费电影和节目，无需安装应用",
+              "brief": "Google TV 平台新增超过 1 万部免费电影和电视节目，用户可直接点播观看，无需安装任何应用。这一举措大大丰富了内容库，提升了用户体验。谷歌此举旨在增强其流媒体服务的竞争力，吸引更多用户使用 Google TV。",
+              "source_url": "https://9to5google.com/2026/08/11/google-tv-free-movies-on-demand/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-12T02:55:00+08:00"
+            },
             {
               "title": "今日安卓应用优惠及免费应用：Balatro、Cyberlords、Defenchick等",
               "brief": "9to5Google报道了今日安卓应用优惠和免费应用合集，其中包括游戏Balatro、Cyberlords、Defenchick等。此外，AirPods Pro 3价格再次下调，折扣接近25%，是今年最佳优惠之一。用户可借此机会以优惠价格购买这些应用和配件。",
@@ -115,6 +129,27 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "Meta无法阻止各州1.4万亿美元诉讼进入庭审",
+              "brief": "美国第九巡回上诉法院驳回了Meta和TikTok关于《通信规范法》第230条赋予其豁免权的上诉，裁定该条款仅提供责任抗辩，而非诉讼豁免。因此，Meta无法阻止加州及其他州总检察长提起的诉讼进入庭审阶段。该诉讼索赔金额可能超过1.4万亿美元。地区法院庭审定于8月19日开始，陪审团遴选于8月12日启动。法院还驳回了Meta暂停庭审的紧急动议。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-12T04:27:16+08:00"
+            },
+            {
+              "title": "Gemini成为谷歌史上增长最快产品，用户达10亿",
+              "brief": "谷歌CEO桑达尔·皮查伊宣布，Gemini月活跃用户已达10亿，成为谷歌历史上达到该里程碑最快的产品。Gemini已深度整合进Gmail、Drive等各项服务，并支撑搜索的AI模式。除应用和网页端外，许多用户可能通过其他谷歌产品间接使用Gemini。此外，63%的活跃用户使用语音输入，20%的Gemini Live用户分享摄像头或屏幕，38%的学校相关请求附带附件。",
+              "source_url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-12T03:48:12+08:00"
+            },
+            {
+              "title": "二手电动车购买指南：3万美元篇",
+              "brief": "二手电动车市场出现供需双增但价格反升的现象，自2月以来价格上涨约5%，销量同比增超20%。3万美元以下有超过9000辆二手电动车可选，主要分为三类：选择丰富的车型、全国仅数百辆的车型，以及极稀有的车型。随着租赁到期车辆增多，供应增加，但需求集中在低价区间。",
+              "source_url": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-12T02:31:53+08:00"
+            },
+            {
               "title": "泰勒农场召回的生菜中仅不到2.5%流向塔可贝尔",
               "brief": "美国食品药品监督管理局（FDA）报告揭示了泰勒农场（Taylor Farms）召回的生菜流向，其中仅有不到2.5%的召回产品供应给了塔可贝尔（Taco Bell）餐厅。此次召回涉及23.6万箱可能受环孢子虫污染的生菜，该寄生虫已导致超过2.3万人患病，2人死亡，500多人住院。报告还指出，97.5%的问题生菜被分销至其他零售商，包括沃尔玛。此前，泰勒农场因与特朗普政府的关系及延误召回而受到批评。",
               "source_url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
@@ -127,20 +162,6 @@
               "source_url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
               "source_name": "Ars Technica",
               "published_at": "2026-08-12T00:26:38+08:00"
-            },
-            {
-              "title": "谷歌内部人士新书爆料公司背离创始理念",
-              "brief": "曾在谷歌工作12年的克莱尔·斯台普顿（Claire Stapleton）在新书《不作恶》（Don't Be Evil）中回忆了自己从公司内部“谷歌吟游诗人”到异见者的转变。2018年，她参与组织了两万名员工的抗议活动，抗议公司对高管性骚扰指控的处理。六个月后，她因认为遭到降职报复而辞职。书中揭露了谷歌如何逐渐背离其“不作恶”的创始理念，包括对员工诉求的忽视和内部管理的弊端。",
-              "source_url": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-12T00:07:34+08:00"
-            },
-            {
-              "title": "特朗普将给共和党在FCC 3-1多数，不填补民主党空缺席位",
-              "brief": "联邦通信委员会（FCC）在特朗普第二任期一直缺员，但即将迎来新委员。特朗普打破历史常规，提名共和党人丹妮尔·图曼·塞弗斯，使共和党在FCC中占据3比1的优势。历史上，总统和参议院通常确保总统所在政党仅有一票多数，即3比2的分配。目前FCC以2比1的共和党多数运作。塞弗斯是FCC主席布伦丹·卡尔的资深法律顾问，需获参议院确认。FCC在特朗普对新闻广播公司的攻击中扮演重要角色，卡尔利用职位调查和威胁不提供有利于特朗普报道的广播公司执照。第三位共和党委员将增强卡尔政策的支持。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-11T23:28:43+08:00"
             }
           ]
         },
@@ -342,7 +363,43 @@
         },
         {
           "name": "IT之家",
-          "articles": []
+          "articles": [
+            {
+              "title": "Lumentum 2026 财年营收大增但净亏损 69.35 亿美元",
+              "brief": "Lumentum 公布 2026 财年全年及第四季度财报。全年营收 30.14 亿美元，同比增长 83.2%；GAAP 净亏损 69.35 亿美元，主要因可转换债券权益化产生一次性非现金损失 78 亿美元。Non-GAAP 净利润 7.82 亿美元，同比增长 423.6%。第四季度营收 10.06 亿美元，同比增长 109.3%；GAAP 净亏损 71.62 亿美元，Non-GAAP 净利润 3.26 亿美元。公司预计下一季度营收 12.25 至 12.75 亿美元，AI 驱动光连接需求增长，OCS 和 1.6T 技术推进。",
+              "source_url": "https://www.ithome.com/0/988/545.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-12T04:33:38+08:00"
+            },
+            {
+              "title": "伯克希尔哈撒韦 2026 财年上半年净利润大增 110.76%",
+              "brief": "伯克希尔哈撒韦发布 2026 财年上半年财报，归母净利润 357.73 亿美元，同比增长 110.76%。其中投资收益 114.44 亿美元，去年同期为亏损 6800 万美元；经营利润 243.29 亿美元，同比增长。保险承保收益 34.48 亿美元，保险投资收益 57.38 亿美元，BNSF 铁路收益 29.35 亿美元，能源收益 20.05 亿美元，制造零售服务收益 76.69 亿美元。第二季度回购 45 亿美元，上半年累计回购约 48 亿美元。截至 6 月 30 日，保险浮存金约 1775 亿美元。",
+              "source_url": "https://www.ithome.com/0/988/543.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-12T03:55:59+08:00"
+            },
+            {
+              "title": "亚洲首个柔直海上风电项目发电量破百亿千瓦时",
+              "brief": "我国柔直海上风电项目——如东黄沙洋海域项目发电量突破 100 亿千瓦时。该项目总装机 800 兆瓦，配套亚洲首座海上柔性直流换流站，2021 年全容量并网。柔性直流技术可平稳输送风电，项目已安全运行超 1600 天，设备可利用率 99.5%。100 亿千瓦时电能可满足约 400 万户家庭一年用电，相当于节约标准煤 300 万吨、减排二氧化碳 740 万吨。",
+              "source_url": "https://www.ithome.com/0/988/542.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T23:44:50+08:00"
+            },
+            {
+              "title": "科睿 27 英寸 2K 240Hz 显示器 X7Q 开售，849 元",
+              "brief": "科睿推出 27 英寸电竞显示器 X7Q，售价 849 元。采用 Fast IPS 面板，2K 分辨率、240Hz 刷新率、GTG 1ms 响应，支持 DIC 动态模糊消除技术。色彩方面，覆盖 92% DCI-P3、99% sRGB，支持 10bit 色深，平均 ΔE≤2。通过 DisplayHDR 400 认证，峰值亮度 400 尼特，支持硬件低蓝光、Adaptive Sync/FreeSync。内置 FPS、RPG、RCG 游戏模式及辅助功能。",
+              "source_url": "https://www.ithome.com/0/988/541.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T23:42:32+08:00"
+            },
+            {
+              "title": "TCL 华星独供 REDMI K100 系列屏幕，采用新一代 C11 材料",
+              "brief": "TCL 华星宣布独供小米 REDMI K100 系列手机屏幕，采用新一代 C11 自研发光材料和超级像素技术，支持全亮度 DC 调光。REDMI K100 Pro 系列售价公布，12+256GB 国补价 3199 元起，最高 16+1TB 国补价 5499 元。该系列手机最高配备 9070mAh 电池，并与 Bose 联合调音。",
+              "source_url": "https://www.ithome.com/0/988/540.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-11T23:33:16+08:00"
+            }
+          ]
         }
       ]
     }
