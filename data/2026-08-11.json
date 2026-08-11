@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T12:49:43.492645+08:00",
+  "generated_at": "2026-08-11T14:51:05.781659+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果仍计划2027年推出“玻璃中心”iPhone重新设计",
+              "brief": "尽管Jefferies分析师Edison Lee今日声称苹果为庆祝iPhone诞生20周年而计划的全玻璃iPhone已被取消，但彭博社的Mark Gurman表示，以玻璃为中心的重新设计仍按计划于2027年推出。Gurman称，这款20周年纪念版iPhone将大量使用玻璃，前后玻璃包裹边缘，中间夹有薄金属带。苹果计划明年推出的iPhone Pro机型将采用新的玻璃外观，内部代号为V73和V74。Gurman提到曾有一个“更具抱负的版本”使用更多玻璃，但该设计在开发早期就被放弃。Lee的报告可能指的是这个更雄心勃勃的设计，但Gurman暗示该设计早已被弃，而非近期才取消。",
+              "source_url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-11T11:10:14+08:00"
+            },
             {
               "title": "iOS 27 暗示“Apple Reference Image”照片认证功能",
               "brief": "苹果正在开发“Apple Reference Image”照片来源认证系统，用于验证图像是否由 iPhone 拍摄。该功能在 iOS 27 第五个测试版的隐私说明中被发现，尚未上线。用户可在相机应用中选择“Reference”模式，拍摄时会在元数据中嵌入来源信息。认证时，点击图像上的 Reference 徽章，将原始图像、传感器签名、拍摄时间范围和传感器唯一硬件标识符发送至苹果的私有云计算服务器。服务器据此判断照片是否由该相机拍摄，并返回认证版本。苹果不会收到原始照片，但可拒绝认证可能受损的传感器图像，并可追溯撤销其过去的认证。认证照片可在 iPhone、iPad 或 Mac 上查看。该功能面向专业摄影师、记者等需要验证图像的人群，可能还支持视频。在 AI 生成逼真图像的时代，Reference 模式提供硬件支持的证据，证明图像由物理相机传感器拍摄。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
               "source_name": "MacRumors",
               "published_at": "2026-08-11T03:18:50+08:00"
-            },
-            {
-              "title": "iOS 27 最新测试版扩展 Siri AI 语音定制",
-              "brief": "苹果在 iOS 27 第五个测试版中扩展了 Siri AI 的语音定制选项。现在，更多语音选项可调整语速和表现力，而不再仅限于两种美国英语语音。共有七种美国英语和四种英式英语语音可供选择，每种均可自定义语速和强调程度。语音定制在设备端完成，仅限较新的 iPhone（如 iPhone 17 Pro、Max 或 Air）以及配备 M3 芯片或更新且内存至少 12GB 的 Mac 和 iPad Pro 使用。",
-              "source_url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-11T02:57:57+08:00"
             }
           ]
         },
@@ -372,45 +372,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "央视揭露私域直播骗局：免费送鸡蛋拉老人进群，维生素吹成诺贝尔奖神药",
-              "brief": "央视揭露私域直播骗局，不法分子通过免费送鸡蛋吸引老年人进群，在直播中虚假宣传，将普通维生素吹嘘为诺贝尔奖神药。上海闵行区市场监管局查处6家食品经营主体，其销售的保健食品和普通食品被宣称具有治疗疾病功能，但并无真实依据，构成虚假宣传。依据《反不正当竞争法》，监管部门责令停止违法行为并罚款。警示消费者切勿轻信养生社群和私域直播中的夸大宣传，保健食品不能替代药品。",
-              "source_url": "https://www.ithome.com/0/988/257.htm",
+              "title": "吉利银河TT预售发布会定档8月13日",
+              "brief": "吉利银河TT定位全新C级AI纯电轿车，搭载磷酸铁锂电池，CLTC续航540-725公里。内饰配备三幅式方向盘、红色运动按键、胶囊仪表屏和HUD，中控有实体钟表。采用封闭式前格栅和狭长灯组，车身尺寸4999/1919/1479mm，轴距2920mm。配备激光雷达和电动尾翼，基于800V高压平台。预售发布会将于8月13日举行。",
+              "source_url": "https://www.ithome.com/0/988/282.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-11T12:31:06+08:00"
+              "published_at": "2026-08-11T14:40:00+08:00"
             },
             {
-              "title": "苹果iOS 27 Beta 5隐藏变化：优化Siri动画，移除10张CarPlay壁纸等",
-              "brief": "苹果iOS 27 Beta 5更新带来多项隐藏变化：状态栏蜂窝信号格高度增加，Siri加载动画优化，照片应用重新引入渐进式模糊，修复液态玻璃图标故障，App Store个人资料图片新增轮廓线，为满足欧盟要求添加AI信息披露，移除10张CarPlay壁纸，研发新Apple Reference Image功能，计划为iPhone推出\"Ship\"模式，以及个性化智能回复等。",
-              "source_url": "https://www.ithome.com/0/988/256.htm",
+              "title": "OPPO、vivo否认联合推出口袋云台相机",
+              "brief": "市场传闻OPPO与vivo将联合研发口袋云台相机，但双方均否认。手持智能相机市场增长迅速，2025年全球出货量超1600万台，大疆Osmo Pocket 3销量破千万。影石、大疆等已发布新品，vivo已立项Vlog相机，OPPO启动“扶摇”项目，荣耀试水。但此次合作传闻未获证实。",
+              "source_url": "https://www.ithome.com/0/988/281.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-11T12:29:16+08:00"
+              "published_at": "2026-08-11T14:36:51+08:00"
             },
             {
-              "title": "英伟达CEO黄仁勋谈5000亿美元融资计划：AI芯片已是\"投资级资产\"",
-              "brief": "英伟达联合阿波罗、黑石、贝莱德等多家机构，计划为AI基础设施筹集超5000亿美元第三方资本。黄仁勋表示，AI芯片已成为能产生收入的资产，具有生产能力和长使用寿命，可视为投资级资产。该计划旨在为云服务商和AI实验室提供融资支持，改变AI基础设施融资方式。华尔街高管认为计算能力正成为关键资产类别，可能开启金融工程新未来。",
-              "source_url": "https://www.ithome.com/0/988/255.htm",
+              "title": "谷歌Gemini 3.7 Flash模型踪迹曝光",
+              "brief": "谷歌Gemini 3.7 Flash模型踪迹被发现，有提交引用该模型但被拒绝。目前官方仍以Gemini 3.6 Flash为主，Flash系列迭代周期约两个月，外界推测新模型可能处于准备或测试阶段，具体发布时间待官方公告。",
+              "source_url": "https://www.ithome.com/0/988/280.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-11T12:20:57+08:00"
+              "published_at": "2026-08-11T14:36:26+08:00"
             },
             {
-              "title": "iOS 27 Beta 5发现国行Apple Intelligence踪迹：本地处理iPhone 17等用户请求",
-              "brief": "在iOS 27 Beta 5中发现了国行版Apple Intelligence的踪迹。根据法规，Apple Intelligence在中国使用由当地公司提供的安全机制，用户请求将在设备上处理，不会发送给Apple或安全机制提供商。Apple将以匿名化方式收集相关信息并汇总共享，安全机制将自动下载和更新。",
-              "source_url": "https://www.ithome.com/0/988/254.htm",
+              "title": "腾讯WorkBuddy上线多端同步功能",
+              "brief": "腾讯云桌面Agent工具WorkBuddy推出移动端App和小程序升级，实现PC、App、小程序多端同步。用户可在手机上查看电脑端任务、工作记录和产出，支持远程授权和停止任务。App需升级至1.2.0，PC端升级至5.3.8。移动端可连接多台PC设备，同步任务和工作空间分组。",
+              "source_url": "https://www.ithome.com/0/988/278.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-11T12:10:29+08:00"
+              "published_at": "2026-08-11T14:25:28+08:00"
             },
             {
-              "title": "荣耀又双叒一块万级大电池曝光，额定容量11790mAh已试产",
-              "brief": "荣耀一款额定容量11790mAh的电池曝光，网友猜测将用于荣耀Win 2系列手机。荣耀WIN系列手机于2025年12月发布，搭载10000mAh青海湖电池，支持100W有线快充和80W无线快充。此前有爆料称WIN2系列将配备2nm骁龙芯和万级大电池，定位更高，与子系性能机竞争。",
-              "source_url": "https://www.ithome.com/0/988/252.htm",
+              "title": "消息称谷歌搁置发布Gemini 3.5 Pro模型",
+              "brief": "据Semi Analysis报道，谷歌已搁置发布Gemini 3.5 Pro模型。此前CEO皮查伊曾暗示6月推出，但至今未上线。在财报电话会议上重申对Gemini领先地位的信心。分析指出Gemini在排名中位列第8，落后于其他模型。7月曾有短暂出现在Arena平台后被移除。",
+              "source_url": "https://www.ithome.com/0/988/277.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-11T12:08:24+08:00"
+              "published_at": "2026-08-11T14:23:40+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "智谱ZCode用户破百万，重置额度回馈社区",
+              "brief": "智谱宣布其编码工具ZCode用户量达100万，为感谢社区，已为所有GLM Coding Plan订阅用户重置额度。同时ZCode更新提升长时程任务效率，缓存命中率提高至98%，用户可用额度增加。此举或成行业趋势，此前Codex频繁重置额度吸引用户，更多公司效仿。",
+              "source_url": "https://www.landian.news/archives/114276.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-11T14:29:58+08:00"
+            },
+            {
+              "title": "Edge浏览器测试苹果账号登录，简化同步流程",
+              "brief": "微软在Edge Canary版中测试使用Apple登录，方便macOS、iPadOS、iOS用户快速登录同步数据，无需注册微软账号。此前已支持谷歌账号登录。用户可分享真实iCloud邮箱或使用隐藏转发，保护隐私。启用需在flags中开启Apple Sign功能。",
+              "source_url": "https://www.landian.news/archives/114275.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-11T14:12:16+08:00"
+            },
+            {
+              "title": "微软提高Windows OEM授权费，PC价格或再涨",
+              "brief": "行业消息称，微软自7月起将Windows OEM授权费平均提高7%-10%，远超往年个位数涨幅。在内存等硬件成本上涨背景下，PC制造商可能将成本转嫁给消费者，导致PC售价进一步上涨。部分OEM或考虑预装Linux规避费用，但多数仍选择预装Windows。",
+              "source_url": "https://www.landian.news/archives/114274.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-11T13:03:56+08:00"
+            },
             {
               "title": "Anthropic在Claude中引入盲水印，文本和文件均可识别AI生成",
               "brief": "Anthropic宣布在Claude AI生成的文本和文件中添加盲水印，覆盖Claude、Claude Code、CoWork及API等所有产品。盲水印肉眼不可见但可被机器检测，文件类则附C2PA元数据。此举旨在遵守欧盟AI法案透明度准则，并扩展至全球。盲水印在模型层面添加，不改变文本质量，但编辑可能破坏水印。非文本文件通过C2PA记录来源。Anthropic强调，检测到标记不能证明Claude是原始作者，未检测到也不代表非AI生成。",
@@ -424,27 +445,6 @@
               "source_url": "https://www.landian.news/archives/114272.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-11T12:19:15+08:00"
-            },
-            {
-              "title": "Codex技术经理兑现承诺，重置订阅用户当周额度",
-              "brief": "Codex技术经理蒂博已按承诺在8月11日早晨重置订阅用户当周额度，但时间较晚引发美国用户抱怨。此前用户在预期重置前清空额度，导致等待期间无法使用。重置后用户需在2天内用完额度，并在8月13日重置卡过期前激活，时间紧张。尽管重置带来便利，但用户对重置时间安排仍有不满。",
-              "source_url": "https://www.landian.news/archives/114271.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-11T11:15:40+08:00"
-            },
-            {
-              "title": "慎用API中转站！有开发者使用Codex中转站被投毒 窃取开发者环境各类敏感信息",
-              "brief": "有开发者发现Codex中转站投毒，在模型回复中夹带超长恶意命令，窃取本地开发环境中的敏感信息，包括API密钥、云凭证、SSH私钥等。黑客通过Shell命令读取这些数据并发送到其服务器。该中转站早前曾公告有脚本注入，但问题未彻底解决。建议使用过相关中转站的用户立即轮换所有令牌，重建开发环境，并警惕供应链攻击。",
-              "source_url": "https://www.landian.news/archives/114270.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-11T10:00:42+08:00"
-            },
-            {
-              "title": "群晖推出价格更低的NEO系列机型 与传统机型相比主要区别就是将内存换成非ECC",
-              "brief": "群晖面向家庭和小型工作室推出NEO系列NAS，包括DS1825 NEO+、DS1525 NEO+、DS925 NEO+和DS725 NEO+。与传统PLUS机型相比，主要区别在于默认采用4GB非ECC内存，以降低初始购置成本，应对DRAM价格上涨。硬件平台相同，用户可自行更换ECC内存，最高支持32GB。NEO机型价格比传统机型便宜7%至36%。",
-              "source_url": "https://www.landian.news/archives/114269.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-11T09:30:51+08:00"
             }
           ]
         }
