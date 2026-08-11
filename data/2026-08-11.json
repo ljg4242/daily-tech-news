@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T06:50:43.486644+08:00",
+  "generated_at": "2026-08-11T08:50:48.084490+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 暗示“Apple Reference Image”照片认证功能",
+              "brief": "苹果正在开发“Apple Reference Image”照片来源认证系统，用于验证图像是否由 iPhone 拍摄。该功能在 iOS 27 第五个测试版的隐私说明中被发现，尚未上线。用户可在相机应用中选择“Reference”模式，拍摄时会在元数据中嵌入来源信息。认证时，点击图像上的 Reference 徽章，将原始图像、传感器签名、拍摄时间范围和传感器唯一硬件标识符发送至苹果的私有云计算服务器。服务器据此判断照片是否由该相机拍摄，并返回认证版本。苹果不会收到原始照片，但可拒绝认证可能受损的传感器图像，并可追溯撤销其过去的认证。认证照片可在 iPhone、iPad 或 Mac 上查看。该功能面向专业摄影师、记者等需要验证图像的人群，可能还支持视频。在 AI 生成逼真图像的时代，Reference 模式提供硬件支持的证据，证明图像由物理相机传感器拍摄。",
+              "source_url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-11T08:08:29+08:00"
+            },
             {
               "title": "iOS 27 Beta 5 的新功能",
               "brief": "距离 iOS 27 正式发布还有一个多月，苹果在第五个测试版中继续调整。该版本更新了部分应用图标的外观，并优化了 Liquid Glass 效果，同时增加了一些小功能。Safari、Siri、设置、遥控器、App Store 和预览的 Liquid Glass 图标得到更新，有些完全重新设计，有些则更加精细。Siri AI 语音自定义功能扩展，所有七个美国英语和四个英式英语声音均可调整语速和表现力，且该功能在设备端完成，仅限 iPhone 17 Pro、Pro Max 和 iPhone Air。联系人列表中现在会显示公司名称，方便查看。Apple Wallet 的“创建通行证”功能扩展到美国以外地区。照片、钱包和音乐应用新增启动画面，介绍新功能。搜索和询问的动画有细微调整，并新增“搜索网页”选项。搜索设置中可控制是否显示应用结果及数量。控制中心在连接 Wi-Fi 时不再显示蜂窝网络信息。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
               "source_name": "MacRumors",
               "published_at": "2026-08-11T02:57:57+08:00"
-            },
-            {
-              "title": "因内存短缺，苹果削减 2026 年硬件出货量",
-              "brief": "苹果分析师郭明錤表示，由于 DRAM 短缺，苹果正在缩减 2026 年硬件出货计划。他驳斥了台积电囤积 10 亿美元未封装处理器的报道，称苹果根据预期内存供应提前至少三个月规划生产，不会让台积电预先制造大量晶圆。内存短缺已影响 Mac Studio、Mac mini 和 MacBook Air，并可能波及即将发布的 iPhone。内存制造商优先供应利润更高的 AI 数据中心，导致消费设备芯片供应紧张，价格上涨。苹果已于六月上调 Mac 和 iPad 价格，iPhone 价格预计九月上涨。iPhone 18 Pro 等机型可能限量供应。",
-              "source_url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-11T02:38:55+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "9to5Mac 每日：2026年8月10日 – Apple Watch 传闻等",
+              "brief": "本期节目讨论了苹果取消的升级功能、未来 Apple Watch 的圆形屏幕设计、iPhone Ultra 的银色和深蓝色配色，以及可能即将上市的陶瓷 Apple Watch。节目每天更新，可通过 Apple Podcasts 等平台订阅。",
+              "source_url": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-11T07:53:49+08:00"
+            },
+            {
+              "title": "苹果就犹太员工歧视诉讼达成和解",
+              "brief": "苹果公司同意支付15万美元，以和解美国平等就业机会委员会（EEOC）提起的诉讼。该诉讼指控苹果因一名员工皈依犹太教并要求在安息日不工作而将其解雇。苹果否认不当行为，但同意支付赔偿，并提供宗教歧视和住宿方面的培训。",
+              "source_url": "https://9to5mac.com/2026/08/10/apple-settles-lawsuit-over-alleged-discrimination-against-jewish-employee/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-11T07:00:22+08:00"
+            },
             {
               "title": "ChatGPT用户现可通过Yelp预订餐厅和加入等位列表",
               "brief": "几周前，Yelp与ChatGPT达成内容整合合作，将Yelp的评论、评分、照片和其他商家信息直接引入ChatGPT回复中。今天，Yelp宣布扩展该整合，美国和加拿大的用户现在无需离开聊天界面，即可通过Yelp预订餐桌或加入等位列表。Yelp表示，ChatGPT用户现在可以在数千家顶级餐厅无缝使用Yelp预订和等位功能，无需离开聊天。预订后，用户可直接通过Yelp修改预订。通过将Yelp值得信赖的预订功能直接带入ChatGPT体验，帮助人们从找到合适的餐厅到轻松锁定座位。此次扩展合作让用户可以在单个聊天中请求推荐，并在可用情况下预订餐桌或加入等位列表，整个预订流程包括人数、日期和时间、联系信息、特殊要求和确认。Yelp指出，此次整合进一步扩展了该平台在AI搜索中的存在，包括通过自然引用。在新闻稿中，该公司表示：“Yelp是引用最多的家庭服务发现平台，在主要AI平台上的引用量是最近竞争对手的3.4倍。”",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/08/10/tessan-aero-5000/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-11T05:20:00+08:00"
-            },
-            {
-              "title": "Apple TV与奥斯卡获奖导演二度合作",
-              "brief": "2024年10月，Apple TV首播了传奇导演阿方索·卡隆执导的惊悚剧《免责声明》，由凯特·布兰切特、凯文·克莱恩和萨莎·拜伦·科恩主演。今天，苹果确认与卡隆的第二次合作，宣布已获得其新心理恐怖惊悚剧《Ascension》的版权。该剧改编自亚当·内维尔的《最后的日子》，讲述纪录片导演罗斯在调查20世纪神秘邪教“升天教会”时，发现其教义中的避难所，却发现了更险恶的秘密。该剧探讨了邪恶与纯真，并追问为了保护所爱之人，我们愿意走多远。苹果表示，《Ascension》将是与卡隆的第二次合作，也是苹果与明星Balfe的第二个项目，Balfe接下来将出演Apple Original Films的《Tenzing》。该剧由Anonymous Content制作，该公司还制作了备受期待的《神经漫游者》系列。",
-              "source_url": "https://9to5mac.com/2026/08/10/apple-tv-teams-up-with-academy-award-winning-director-for-the-second-time/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-11T04:51:02+08:00"
-            },
-            {
-              "title": "苹果官方翻新店：本周精选可节省数百美元",
-              "brief": "苹果官方翻新店提供经过严格翻新流程的认证翻新产品，享受一年有限保修、14天退货政策，并可购买AppleCare。本周精选包括：Chance推荐的Studio Display XDR，配备27英寸mini-LED显示屏、120Hz刷新率、Thunderbolt 5连接，翻新价$2,459起；Ryan推荐的MacBook Neo，作为新机型，翻新价更划算；Fernando推荐的Apple Watch Ultra；Jeff推荐的MacBook Air；Zac推荐的Apple TV 4K；Michael推荐的Apple Watch Series 10（钛金属）；Justin推荐的M5 MacBook Pro。这些翻新产品库存有限，价格比零售低数百美元，是节省开支的好选择。",
-              "source_url": "https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-11T04:21:42+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "福特推出2.5万美元跨界车？据称即将到来",
-              "brief": "福特经销商被告知新款Escape尺寸的车型，其中一人泄露了消息。据《汽车新闻》报道，福特正在研发一款起售价约2.5万美元的全新入门级跨界车，预计2029年上市，提供混动和燃油版。此外，福特还展示了一款四门Mustang，尺寸和风格类似保时捷Panamera，但售价低于4万美元。另外，打造Fathom的通用电动汽车平台还将衍生出另外四款电动车型。",
-              "source_url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+              "title": "Ars Live：罗斯·斯科特谈“停止杀死游戏”运动",
+              "brief": "Ars Technica将于8月11日下午3点（东部时间）举办直播讨论，邀请“停止杀死游戏”运动创始人罗斯·斯科特，探讨游戏保存问题。该运动源于育碧关闭《飙酷车神》服务器，已收集数百万签名，推动政府立法要求游戏永久可访问，或允许玩家自建服务器。欧洲委员会已进行议会辩论，加州立法也在推进中。",
+              "source_url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-11T01:07:47+08:00"
+              "published_at": "2026-08-11T06:23:43+08:00"
             },
             {
-              "title": "Taylor Farms因沙门氏菌召回墨西哥辣椒产品，同时面临环孢子虫疫情",
-              "brief": "在环孢子虫疫情与冰山生菜相关之际，Taylor Farms召回含墨西哥辣椒的产品，包括切丁辣椒、蘸酱、莎莎酱、鳄梨酱、预制沙拉、卷饼和三明治等。这些产品在26个州的Hannaford、Kroger、Target、Trader Joe's、沃尔玛和Whole Foods等主要零售商销售。召回源于Coast Citrus Distributors供应的辣椒，该公司与沙门氏菌疫情有关，已导致27个州至少345人感染，36人住院，无死亡报告。",
-              "source_url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
+              "title": "Meta发布新开源模型，再次调整其陷入困境的AI战略",
+              "brief": "Meta宣布将专注开放权重大语言模型，并发布开源模型Muse Glimmer，承诺数周内开放更强大的Muse Spark 1.2权重。CEO扎克伯格发表长文阐述AI治理理念，与OpenAI等闭源模型公司区分。Muse Glimmer为300亿参数，支持128K上下文，可在本地运行，采用Apache 2.0许可。此前Muse Spark为闭源模型，此次转变是Meta AI战略的重大调整。",
+              "source_url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-11T00:37:08+08:00"
+              "published_at": "2026-08-11T06:13:03+08:00"
             },
             {
-              "title": "Valve逐步扩大SteamOS对非Valve硬件的支持",
-              "brief": "SteamOS 3.8.25 Beta版发布，新增对MSI Claw 8 EX AI+等手持游戏设备的“初始手柄支持”，并改进了对旧款MSI Claw和OneXPlayer等设备的支持。该更新是Valve持续努力的一部分，旨在将SteamOS扩展到更多非Valve硬件，包括基于Intel和AMD的设备。此前，SteamOS已支持部分AMD手持设备，现在开始兼容Intel平台。",
-              "source_url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+              "title": "特朗普签署争议行政令：削减疫苗推荐，推广不存在的疫苗",
+              "brief": "特朗普总统签署行政令，大幅改变联邦疫苗建议，将儿童推荐疫苗从18种减至11种，并分散接种时间。该命令基于反疫苗错误信息，如MMR疫苗“致命”和导致自闭症等已被驳斥的说法。特朗普在签署时还错误声称疫苗“像一瓶苏打水大小”。大量研究未发现疫苗与自闭症关联，此举引发公共卫生专家担忧。",
+              "source_url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-11T00:01:04+08:00"
+              "published_at": "2026-08-11T05:42:56+08:00"
             },
             {
-              "title": "Epic胜诉后，谷歌开始在Play商店中托管竞争对手应用商店",
-              "brief": "根据法官命令，Aptoide成为首个在Google Play内分发的应用商店。这是Epic诉谷歌反垄断案的补救措施之一。其他补救措施包括降低开发者费用、在其他应用商店中镜像Google Play应用、允许开发者使用替代支付系统。谷歌曾试图通过和解避免此结果，但和解未获法院批准。目前，美国用户已可在Google Play中下载Aptoide，且安装时无侧载警告。",
-              "source_url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
+              "title": "开发者关闭《异形：火力小队》云版本，60美元游戏无退款",
+              "brief": "Cold Iron Studios关闭了Nintendo Switch版《异形：火力小队》的云服务器，该游戏原价60美元，玩家无法再游玩，包括离线模式。开发商未提供退款，仅提供续作折扣。游戏关闭发生在续作发布前几周，被指可能推动玩家购买续作。此事件凸显数字版游戏所有权的风险。",
+              "source_url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-10T23:44:45+08:00"
+              "published_at": "2026-08-11T05:26:38+08:00"
             },
             {
-              "title": "中国主力火箭长征七号改发射爆炸",
-              "brief": "8月10日晚，中国长征七号改运载火箭从文昌航天发射场升空约1分20秒后爆炸，载荷疑似军用通信卫星。这是中国主力火箭之一，若故障涉及YF-100发动机，将对中国航天计划产生更广泛影响。目前官方尚未回应。",
-              "source_url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+              "title": "亚马逊支持天然气电厂，或成美国最大气候污染源",
+              "brief": "亚马逊为得克萨斯州一座天然气发电厂提供支持，该电厂可能成为美国最大的单一气候污染源。此类电厂为AI数据中心供电，产生有害污染物，加剧气候变化并危害健康。社区要求更严格的环境审查，但特朗普政府倾向于快速审批。此前xAI的燃气轮机已引发争议，NAACP起诉xAI，特朗普政府却支持xAI。多家AI巨头正投资避开许可程序的自供电项目。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
               "source_name": "Ars Technica",
-              "published_at": "2026-08-10T23:05:00+08:00"
+              "published_at": "2026-08-11T04:45:52+08:00"
             }
           ]
         },
@@ -405,6 +405,18 @@
               "source_url": "https://www.ithome.com/0/988/069.htm",
               "source_name": "IT之家",
               "published_at": "2026-08-11T06:40:34+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "Windows Server 2025 测试版过期后程序无法启动",
+              "brief": "Windows Server 2025 预览版若长期未更新，系统过期后会出现时间炸弹，导致许多二进制文件因签名证书过期而无法通过 UAC 校验，部分程序被系统策略拦截无法启动。Windows 11 测试版过期后每 4 小时弹出提醒，无法关闭，必须升级。服务器版情况更严重，文件无法运行。建议虚拟机用户至少每 6 个月升级一次，可通过 UUPDL 制作离线镜像手动升级。",
+              "source_url": "https://www.landian.news/archives/114255.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-11T08:30:29+08:00"
             }
           ]
         }
