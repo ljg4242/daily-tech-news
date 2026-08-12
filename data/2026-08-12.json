@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T12:50:06.243593+08:00",
+  "generated_at": "2026-08-12T14:50:20.604577+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Sheets 改进 Excel 导入功能，保留格式和透视表",
+              "brief": "Google Sheets 现在可以更轻松地导入 Excel 文件。据 Google 博客文章，Sheets 新增两项关键改进：首先，导入 Excel 文件时，表格将作为 Sheets 表格导入，确保结构和格式信息完整保留；其次，支持从 Excel 导入透视表，而不再转换为静态网格，使用户能轻松操作数据并实时更新透视表。这些功能正在自动推出，无需手动启用。导入表格功能已对所有用户开放，透视表导入功能正在逐步推出，可能需要最多 15 天覆盖所有用户。",
+              "source_url": "https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-12T14:28:05+08:00"
+            },
+            {
+              "title": "Google 修复 Google 相册拖拽选择功能故障",
+              "brief": "Google 已修复 Google 相册中拖拽选择功能的 bug。此前，许多用户无法通过长按照片并拖动手指来多选照片或视频，导致操作不便。问题影响 Pixel、三星和 OnePlus 设备。Google 现已推出修复，用户更新应用后即可恢复正常。该功能允许用户快速选择多个项目，而无需逐个点击。据测试，修复已生效。此次故障也意外让一些用户发现了这一功能。",
+              "source_url": "https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-12T14:11:40+08:00"
+            },
+            {
+              "title": "Google TV 免费播放平台新增万部影视和 300 多个直播频道",
+              "brief": "Google TV Freeplay 服务大幅升级，现提供超过 1 万部免费电影和电视节目点播，以及超过 300 个免费直播频道。点播内容来自 A24、Lionsgate 等工作室，包括《伯德小姐》等。直播频道新增了 World of Love Island、Bloomberg TV Plus 等。该服务无需订阅，直接内置在 Google TV 设备中，与 Pluto TV 和 Tubi 竞争。用户可在 Google TV 主屏幕的 Freeplay 应用中使用。",
+              "source_url": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-12T13:17:43+08:00"
+            },
+            {
               "title": "桌面CNC雕刻机InfiMaker K1登陆Kickstarter，零经验也能雕刻3D模型",
               "brief": "InfiMaker K1是一款桌面级CNC雕刻机，通过AI辅助软件将2D图像转换为3D模型，无需CAD经验。该设备支持5轴切割，可实现倾斜和旋转加工，角度范围-30°至+110°，并兼容STL、STEP、OBJ等标准3D文件格式。目前已在Kickstarter众筹，早鸟价$5,199起。",
               "source_url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-home-ios-smart-light-bug-fixed-3697411/",
               "source_name": "Android Authority",
               "published_at": "2026-08-12T05:33:58+08:00"
-            },
-            {
-              "title": "Waze警察警报缺失或延迟，部分用户报告不显示",
-              "brief": "近期，Waze用户反映警察警报功能异常：报告后获得积分但地图上不显示，或警报延迟出现，甚至临近时才提醒。问题可能涉及版本5.22.0.3。另有用户称报告需信任司机验证，但老用户也遇到此问题。Waze已承认更新后存在Android返回键bug。",
-              "source_url": "https://www.androidauthority.com/waze-police-alerts-missing-delayed-3697365/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-12T04:35:10+08:00"
-            },
-            {
-              "title": "Pixel Buds Pro 2 泄密：全新橄榄绿配色即将登场",
-              "brief": "最新泄露信息显示，谷歌将为 Pixel Buds Pro 2 推出全新的“橄榄绿”配色。这一消息来自知名爆料人 Roland Quandt，他在 Bluesky 上分享了疑似官方营销图片。据悉，该配色可能与即将发布的 Pixel 11 系列的绿色调相呼应。除了新颜色外，耳机在功能上并无其他变化。橄榄绿将成为继月长石、瓷器、牡丹和榛子色之后的第五种配色选择。预计该配色将在 Made by Google 发布会上正式亮相。",
-              "source_url": "https://www.androidauthority.com/pixel-buds-pro-2-olive-revealed-3697317/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-12T02:28:21+08:00"
-            },
-            {
-              "title": "巧妙应用让你在 Galaxy Z Fold 上本地运行 Samsung DeX",
-              "brief": "一款名为 DeX Inner Tester 的新应用，允许 Galaxy Z Fold 用户无需外接显示器即可在手机屏幕上直接使用 Samsung DeX 桌面环境。该应用由日本开发者 Nobu 开发，目前可通过 APK 下载，并计划很快上架 Play Store。应用要求设备运行 One UI 8 或更高版本。早期测试者反馈，应用虽存在一些界面按钮功能异常的小问题，但整体可用。这为折叠屏用户提供了更便捷的桌面级体验。",
-              "source_url": "https://www.androidauthority.com/samsung-dex-local-android-app-3697211/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-12T01:59:07+08:00"
             }
           ]
         },
@@ -332,39 +332,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "达美航空一客机中途惊现伪造Wi-Fi信号 公司已启动调查",
-              "brief": "达美航空一架航班飞行途中发现伪造Wi-Fi信号，机组人员关闭官方网络约30分钟，飞行员报告有乘客创建“诈骗Wi-Fi”。据悉，部分乘客刚参加完拉斯维加斯网络安全会议。此类伪造技术并不复杂，常用工具如Wi-Fi Pineapple。亚特兰大警署已移交联邦部门，FAA和FBI尚未回应。达美正与执法部门和监管机构合作调查。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572758.htm",
+              "title": "马斯克宣布所有特斯拉车型将配备星链系统，Cybercab首发",
+              "brief": "特斯拉CEO马斯克宣布，未来所有特斯拉车型将整合星链系统，首发车型为无人驾驶出租车Cybercab。该系统采用星链V5接收器，峰值下载速度可达375Mbps，旨在解决完全自动驾驶车辆在无驾驶员干预时的网络连接稳定性问题，克服蜂窝信号盲区。特斯拉AI软件副总裁表示，星链并非安全必要条件，主要用于优化导航、客户服务和车队调度。马斯克则强调其娱乐价值，乘客可享受4K视频流。目前特斯拉尚未透露量产车上的具体上线时间。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572886.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-11T23:53:48+08:00"
+              "published_at": "2026-08-12T14:18:44+08:00"
             },
             {
-              "title": "《塞尔达传说：时光之笛》重制版发售日公布或指日可待",
-              "brief": "近日网上流出《塞尔达传说》40周年限定款主机及Pro手套包装图，引发粉丝期待。行业人士认为，此类信息流出预示任天堂正筹备重制版营销攻势，发售日期官宣在即。6月直面会仅展示先导预告，未透露实质内容。随着科隆游戏展和东京电玩展临近，玩家预计很快得知重制版是否比3DS版更大胆。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1572756.htm",
+              "title": "胡锡进公开抵制AI短剧与大规模无人出租车",
+              "brief": "前《环球时报》总编辑胡锡进发文，宣布个人全面抵制所有完全由AI生成的故事类短剧，并反对其向院线电影延伸。他呼吁公众共同抵制AI生成的假人类表演的低质作品，但排除成熟的动画。理由包括守护人类创作者岗位、传承艺术传统。同时，他反对国内大规模铺开无人出租车商业化，认为应小范围试点训练算法，不能剥夺出租车司机生计。他警告AI若大规模替代人类岗位，将导致社会分化和不可控后果。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572884.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-11T23:50:37+08:00"
+              "published_at": "2026-08-12T14:12:53+08:00"
             },
             {
-              "title": "iOS 27新特性：苹果为高阶iCloud+订阅用户推出智能家居独家权益",
-              "brief": "在iOS 27第五个开发者预览版中，“家庭”应用开始标注生成式视频摘要功能的摄像头数量上限，例如8TB iCloud+用户最多支持15台摄像头。高阶套餐还将提升Image Playground等AI功能的每日额度。苹果表示这些功能依赖高算力服务器模型，因此限定于高档次订阅。具体限制将在9月正式版公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572754.htm",
+              "title": "26年微软老兵透露：Windows因盈利问题在内部失宠",
+              "brief": "微软前员工Dalton透露，Windows在微软内部地位下降，因其盈利远不如云服务和AI。微软将资源倾斜至增长最快的业务，Windows团队曾遭拆分，后虽整合，但CEO纳德拉近期承诺投资Windows以确保品质。Dalton类比2000年代初的安全危机，认为微软可能正进行类似的质量优先调整。微软同时推进多项Windows 11改进，并调整OEM授权费。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572882.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-11T23:47:50+08:00"
+              "published_at": "2026-08-12T14:11:10+08:00"
             },
             {
-              "title": "Google测试全新搜索首页：经典搜索按钮被撤 全面适用AI功能",
-              "brief": "Google正在测试新搜索首页，移除经典搜索按钮，突出“创建图片”、“文件问答”和“头脑风暴”等AI功能，传统网页搜索被边缘化。登录账号后恢复传统设计，但AI模式仍被推广。此举引发争议，因Google面临垄断诉讼和出版商指责其AI概览抄袭内容。Google尚未正式回应，但意图明显：加速Gemini商业化。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572752.htm",
+              "title": "索尼中国宣布2028年停售实体游戏光盘",
+              "brief": "据行业报告，索尼中国计划于2028年停止销售实体游戏光盘。原因在于实体光盘生产成本高，厂商收益空间小。以70美元游戏为例，停产光盘可节省约10.5美元成本。发行商需向平台支付建议零售价15%-20%的服务费，覆盖生产、认证、分销。如GTA6定价80美元，每份需支付12美元。此举将加速游戏产业数字化进程。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1572880.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-11T23:47:01+08:00"
+              "published_at": "2026-08-12T14:10:46+08:00"
             },
             {
-              "title": "Manus宣布将恢复独立运营 部分用户需在限期内完成数据备份",
-              "brief": "Manus将从Meta分拆恢复独立运营，受影响用户需在2026年8月23日前备份数据，否则将被清理。备份窗口关闭后账户暂停服务两天，8月25日恢复。期间暂停收费，并发放回归奖励。Manus澄清并非数据泄露，而是合规举措。官方通过应用内通知和邮件提醒，并提供客服支持，未来将推出新功能。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572750.htm",
+              "title": "硬核玩家打造烧火供电的电脑，不插电也能玩游戏",
+              "brief": "玩家PickentCode用斯特林发动机和火焰发电，打造了一台不插电、无电池的电脑。该设备由ESP32 C3微控制器、OLED屏幕和键盘组成，发电机输出150毫瓦，需关闭Wi-Fi/蓝牙并降低CPU频率。它运行CHIP-8虚拟机，内置三款游戏，还带代码编辑器。项目耗时一个月，外壳为木质，刻有斯特林肖像。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572878.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-11T23:44:33+08:00"
+              "published_at": "2026-08-12T14:09:19+08:00"
             }
           ]
         },
@@ -412,6 +412,20 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "YouTube全球推出Premium Lite小会员：免大部分广告，部分视频可下载",
+              "brief": "YouTube在全球范围内推出Premium Lite小会员，价格较大会员更便宜，可免除大部分视频广告。该订阅每月8.99美元（美国市场），约为大会员价格的一半。但小会员不免除YouTube Music、音乐MV和短视频的广告，且不支持后台播放音乐、离线下载音乐内容，也不包含YouTube Music Premium权益。此外，小会员不支持自动播放、继续观看和待播清单等功能。谷歌此举旨在吸引用户付费以应对广告屏蔽行为。",
+              "source_url": "https://www.landian.news/archives/114287.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-12T13:28:35+08:00"
+            },
+            {
+              "title": "Coze CLI v0.3.8更新：停止静默安装技能，修复劫持工作流问题",
+              "brief": "字节跳动扣子团队发布Coze CLI v0.3.8版，修复了此前版本静默安装技能劫持AI工作流的问题。新版本不再默认安装技能，改为在用户主动选择时安装，并且默认技能模式从auto调整为notify，不再自动同步技能。安装后仅提示用户可主动选择接收技能的AI智能体，不再全局写入。但用户主动安装技能时仍会写入~/.agents/skills等目录，不过默认不会被调用，不影响Codex、Claude Code等正常工作。",
+              "source_url": "https://www.landian.news/archives/114286.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-12T12:49:57+08:00"
+            },
+            {
               "title": "黑客在达美航班上设钓鱼WiFi窃取数据，落地即被捕",
               "brief": "达美航空591航班从拉斯维加斯飞往亚特兰大，机上乘客多为参加DEF CON黑客大会的人员。机组发现名为“Delta WiFi Fast”的未经授权网络，疑为黑客通过取消认证攻击迫使乘客断开官方WiFi，并伪造钓鱼页面窃取谷歌账号密码。机组立即关闭机上WiFi并报告地面安全中心、联邦执法机构和航空监管机构。飞机落地后，执法人员在登机口拦截，涉事黑客被捕，便携式WiFi设备被扣押。此事件已由达美航空和执法机构调查。",
               "source_url": "https://www.landian.news/archives/114285.html",
@@ -431,20 +445,6 @@
               "source_url": "https://www.landian.news/archives/114283.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-12T11:00:30+08:00"
-            },
-            {
-              "title": "火狐浏览器GPG密钥意外泄露至私有仓库，现已轮换",
-              "brief": "Mozilla不慎将GPG签名密钥上传至一个私有GitHub仓库，该仓库访问权限仅限于少数内部员工。审计未发现密钥被未授权访问，但作为安全措施，已轮换GPG子密钥并吊销旧密钥。此问题仅影响Linux版Firefox和Thunderbird，用户手动验证签名时需同时导入新密钥和旧密钥的吊销信息。新密钥指纹为14F2 6682 D091 6CDD 81E3 7B6D 61B7 B526 D98F 0353，有效期至2028年8月5日。",
-              "source_url": "https://www.landian.news/archives/114282.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-12T10:15:27+08:00"
-            },
-            {
-              "title": "清华大学开源镜像站因存储不足移除OpenWrt等镜像",
-              "brief": "清华大学开源软件镜像站因存储资源严重受限，宣布移除Anaconda、OpenWrt、Flutter和GitLab EE等项目的镜像。相关路径访问将自动重定向至教育网联合镜像站或上游，但建议用户主动切换至其他国内镜像站，如中科大、阿里云、腾讯云等。停止镜像后预计可腾出约5TB空间。镜像站运营依赖志愿贡献，存储和带宽成本高昂，此次调整属无奈之举。",
-              "source_url": "https://www.landian.news/archives/114281.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-12T09:45:29+08:00"
             }
           ]
         }
