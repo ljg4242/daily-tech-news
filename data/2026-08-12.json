@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T14:50:20.604577+08:00",
+  "generated_at": "2026-08-12T16:49:55.771898+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Spotify将开始标注AI生成艺术家资料并停止推荐其音乐",
+              "brief": "Spotify宣布将推出“AI Persona”标签，用于标注可能由AI生成且不代表真实人物的艺术家资料。艺术家可通过Spotify for Artists自行申报，但Spotify也会对疑似AI生成的资料自动应用“可能为AI Persona”标签。该标签仅针对艺术家的公开身份，不涉及音乐是否由AI生成。Spotify将不会在编辑或算法推荐中包含这些艺术家的音乐，除非用户已关注。新标签将于9月中旬开始显示。",
+              "source_url": "https://www.androidauthority.com/spotify-ai-persona-label-3697523/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-12T16:31:15+08:00"
+            },
+            {
+              "title": "突发：Galaxy S26系列获得第五个One UI 9测试版，包含八月安全补丁",
+              "brief": "三星已为Galaxy S26系列推送第五个One UI 9测试版，修复了相机、设置、我的文件等系统应用中的性能问题，并带来2026年8月安全补丁。更新包大小约1125MB，目前已在韩国和印度上线，英国也有对应版本。稳定版One UI 9的推送时间尚未公布。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-12T15:39:04+08:00"
+            },
+            {
               "title": "Google Sheets 改进 Excel 导入功能，保留格式和透视表",
               "brief": "Google Sheets 现在可以更轻松地导入 Excel 文件。据 Google 博客文章，Sheets 新增两项关键改进：首先，导入 Excel 文件时，表格将作为 Sheets 表格导入，确保结构和格式信息完整保留；其次，支持从 Excel 导入透视表，而不再转换为静态网格，使用户能轻松操作数据并实时更新透视表。这些功能正在自动推出，无需手动启用。导入表格功能已对所有用户开放，透视表导入功能正在逐步推出，可能需要最多 15 天覆盖所有用户。",
               "source_url": "https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/",
               "source_name": "Android Authority",
               "published_at": "2026-08-12T13:17:43+08:00"
-            },
-            {
-              "title": "桌面CNC雕刻机InfiMaker K1登陆Kickstarter，零经验也能雕刻3D模型",
-              "brief": "InfiMaker K1是一款桌面级CNC雕刻机，通过AI辅助软件将2D图像转换为3D模型，无需CAD经验。该设备支持5轴切割，可实现倾斜和旋转加工，角度范围-30°至+110°，并兼容STL、STEP、OBJ等标准3D文件格式。目前已在Kickstarter众筹，早鸟价$5,199起。",
-              "source_url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-12T06:00:12+08:00"
-            },
-            {
-              "title": "谷歌修复Google Home智能灯无故亮起问题",
-              "brief": "谷歌宣布已修复导致部分智能灯在无用户指令下自动开启的bug。该问题主要影响iOS版Google Home应用，涉及Govee、Philips Hue、Tapo等多个品牌。用户反映灯会在打开应用时自动亮起，关闭后可能再次开启。谷歌在社区回应称已解决，并请仍有问题的用户反馈。",
-              "source_url": "https://www.androidauthority.com/google-home-ios-smart-light-bug-fixed-3697411/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-12T05:33:58+08:00"
             }
           ]
         },
@@ -332,39 +332,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "马斯克宣布所有特斯拉车型将配备星链系统，Cybercab首发",
-              "brief": "特斯拉CEO马斯克宣布，未来所有特斯拉车型将整合星链系统，首发车型为无人驾驶出租车Cybercab。该系统采用星链V5接收器，峰值下载速度可达375Mbps，旨在解决完全自动驾驶车辆在无驾驶员干预时的网络连接稳定性问题，克服蜂窝信号盲区。特斯拉AI软件副总裁表示，星链并非安全必要条件，主要用于优化导航、客户服务和车队调度。马斯克则强调其娱乐价值，乘客可享受4K视频流。目前特斯拉尚未透露量产车上的具体上线时间。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572886.htm",
+              "title": "索尼新专利：根据玩家注意力动态调整游戏画质",
+              "brief": "索尼申请了一项新专利，通过注意力估算处理器和AI编解码器实时追踪用户参与度，动态调整云游戏画质。玩家主动游玩时以最高画质输出；过场动画时帧率降至30FPS；用户分心时降低画质；完全离席时降至最低以节省带宽。该技术旨在降低云游戏性能要求，解决延迟问题，扩展设备兼容性。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1572898.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-12T14:18:44+08:00"
+              "published_at": "2026-08-12T15:55:13+08:00"
             },
             {
-              "title": "胡锡进公开抵制AI短剧与大规模无人出租车",
-              "brief": "前《环球时报》总编辑胡锡进发文，宣布个人全面抵制所有完全由AI生成的故事类短剧，并反对其向院线电影延伸。他呼吁公众共同抵制AI生成的假人类表演的低质作品，但排除成熟的动画。理由包括守护人类创作者岗位、传承艺术传统。同时，他反对国内大规模铺开无人出租车商业化，认为应小范围试点训练算法，不能剥夺出租车司机生计。他警告AI若大规模替代人类岗位，将导致社会分化和不可控后果。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572884.htm",
+              "title": "OpenAI：AI政策制定权仍归美国",
+              "brief": "OpenAI全球事务副总裁表示，美国AI政策制定权仍在联邦层面，但加州在AI监管方面持续领先，如《加州人工智能透明度法案》。她认为加州可在灾难性风险、儿童网络安全和数据中心建设等领域继续引领。州参议员和专家呼吁州级监管推进，因联邦立法滞后于技术迭代。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572896.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-12T14:12:53+08:00"
+              "published_at": "2026-08-12T15:54:19+08:00"
             },
             {
-              "title": "26年微软老兵透露：Windows因盈利问题在内部失宠",
-              "brief": "微软前员工Dalton透露，Windows在微软内部地位下降，因其盈利远不如云服务和AI。微软将资源倾斜至增长最快的业务，Windows团队曾遭拆分，后虽整合，但CEO纳德拉近期承诺投资Windows以确保品质。Dalton类比2000年代初的安全危机，认为微软可能正进行类似的质量优先调整。微软同时推进多项Windows 11改进，并调整OEM授权费。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572882.htm",
+              "title": "德国电车补贴不设限 大众呼吁资金优先本国",
+              "brief": "德国电动车补贴重启后不设品牌限制，但大众呼吁调整政策，确保产业附加值留在欧洲。当前补贴申请中特斯拉、斯柯达和雷诺领先，大众仅列第八。德国执政联盟内部推动重新设计补贴，考虑将碳排放纳入评价体系。2026年上半年电动车注册量同比增长48%，市场回暖。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572894.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-12T14:11:10+08:00"
+              "published_at": "2026-08-12T15:53:43+08:00"
             },
             {
-              "title": "索尼中国宣布2028年停售实体游戏光盘",
-              "brief": "据行业报告，索尼中国计划于2028年停止销售实体游戏光盘。原因在于实体光盘生产成本高，厂商收益空间小。以70美元游戏为例，停产光盘可节省约10.5美元成本。发行商需向平台支付建议零售价15%-20%的服务费，覆盖生产、认证、分销。如GTA6定价80美元，每份需支付12美元。此举将加速游戏产业数字化进程。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1572880.htm",
+              "title": "特斯拉纯视觉路线再遭质疑 分析师称对其规模化失去信心",
+              "brief": "投资人布莱克表示，特斯拉FSD车队规模增速放缓，且事故风险导致推进谨慎。相比之下，Waymo拥有4000辆无人驾驶车，每周完成50万次出行。布莱克认为特斯拉纯视觉方案成本低但可靠性存疑，管理层乐观表态不可全信。特斯拉股价跑输大盘，投资者对其自动驾驶规模化失去信心。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572892.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-12T14:10:46+08:00"
+              "published_at": "2026-08-12T15:45:49+08:00"
             },
             {
-              "title": "硬核玩家打造烧火供电的电脑，不插电也能玩游戏",
-              "brief": "玩家PickentCode用斯特林发动机和火焰发电，打造了一台不插电、无电池的电脑。该设备由ESP32 C3微控制器、OLED屏幕和键盘组成，发电机输出150毫瓦，需关闭Wi-Fi/蓝牙并降低CPU频率。它运行CHIP-8虚拟机，内置三款游戏，还带代码编辑器。项目耗时一个月，外壳为木质，刻有斯特林肖像。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1572878.htm",
+              "title": "耐用型3D打印弹性聚合物面世 解决脆性与疲劳失效问题",
+              "brief": "洛桑联邦理工学院团队利用双网络颗粒弹性体（DNGEs）技术，将刚性颗粒嵌入软质网络，有效分散应力，疲劳抗力提升3倍，强度提高15倍。该材料可避免突然断裂和疲劳劣化，适用于可穿戴设备、软体机器人和生物医学领域。未来计划引入生物降解材料，降低环境足迹。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1572890.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-12T14:09:19+08:00"
+              "published_at": "2026-08-12T15:43:49+08:00"
             }
           ]
         },
@@ -372,39 +372,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "国产动画电影《八仙！》官宣密钥延期，延长上映至 9 月 17 日",
-              "brief": "国产动画电影《八仙！》宣布密钥延期，延长上映至9月17日。影片讲述众人假扮神仙进入藏宝阁，面对“十辈子花不完”的财富，组建“草台班子”踏上寻宝之路。目前该片票房已突破13.6576亿，进入2026年度票房榜前五，并跻身中国影史动画片票房榜前十。",
-              "source_url": "https://www.ithome.com/0/988/718.htm",
+              "title": "谷歌Pixel 11系列发布前发放优惠码，最高优惠250美元",
+              "brief": "在谷歌即将发布Pixel 11系列前夕，有用户收到了官方发送的促销优惠码邮件，金额从100美元到250美元不等，可用于在Google Store或My Pixel应用中抵扣相应金额，有效期至8月27日。谷歌已向多个国家的用户发送该优惠码。谷歌将于今日晚些时候的Made by Google活动上正式发布Pixel 11系列，预计包括标准版、两款Pro机型、一款折叠屏手机及新款智能手表。",
+              "source_url": "https://www.ithome.com/0/988/831.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-12T12:41:26+08:00"
+              "published_at": "2026-08-12T16:41:12+08:00"
             },
             {
-              "title": "奇瑞捷途旅行者 7 官图发布：方盒子造型，轴距 2800mm",
-              "brief": "奇瑞捷途旅行者 7 官图发布，采用方盒子造型，轴距 2800mm。格栅增加贯穿饰条，logo 移至前舱盖。动力搭载 1.5T 发动机与电机组成的混动系统，发动机最大功率 115kW。尾部保留“小书包”和侧开尾门设计，尾灯熏黑处理。",
-              "source_url": "https://www.ithome.com/0/988/716.htm",
+              "title": "腾讯控股2026财年上半年净利润1141亿元，同比增长10%",
+              "brief": "腾讯控股发布2026财年上半年财报，营收达4012.43亿元，同比增长10%；归母净利润1141.15亿元，同比增长10%。第二季度营收2047.85亿元，同比增长11%。AI业务进展显著，Hy3正式版发布，位列全球前三；微信AI智能体“小微”开始灰度测试。游戏业务表现亮眼，《三角洲行动》《无畏契约》日活创新高，《洛克王国：世界》在新游中排名第一。营销服务收入同比增长22%。",
+              "source_url": "https://www.ithome.com/0/988/829.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-12T12:35:23+08:00"
+              "published_at": "2026-08-12T16:36:25+08:00"
             },
             {
-              "title": "微软推出 MAI-Code-1.1-Flash 编程模型：更好、更快，价格降至 1/4",
-              "brief": "微软推出升级版编程模型 MAI-Code-1.1-Flash，在提升代码编写能力的同时，大幅降低成本。该模型在 Terminal-Bench 2.1 测试中表现提升 22%，Token 生成速度提升 25%，完成相同任务所需 Token 减少 25%。价格降至初代模型的四分之一，新增原生视觉能力。现已陆续登陆 GitHub Copilot 各项服务，免费用户可通过自动模型选择使用，付费用户可手动选择。",
-              "source_url": "https://www.ithome.com/0/988/715.htm",
+              "title": "苹果Apple Music上线日语歌词英语翻译功能",
+              "brief": "苹果在Apple Music中悄然上线了歌词翻译和歌词发音功能，用户可实时查看部分歌曲歌词的其他语种翻译，以更好理解歌词含义。该功能基于用户区域可用语言和系统语言设置，但有用户反映英文歌翻译成中文，韩文歌翻译成英语，港台歌曲显示简体歌词，引发吐槽。",
+              "source_url": "https://www.ithome.com/0/988/828.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-12T12:34:09+08:00"
+              "published_at": "2026-08-12T16:34:32+08:00"
             },
             {
-              "title": "宏碁首款 Googlebook 笔记本曝光：14 英寸屏幕、酷睿 Ultra 5 325/Ultra 7 355 处理器",
-              "brief": "宏碁首款 Googlebook 笔记本曝光，型号为 Googlebook 14，配备 14 英寸 2.8K OLED 屏幕，采用英特尔 Panther Lake 架构，搭载酷睿 Ultra 5 325 或 Ultra 7 355 处理器，提供 16GB 或 32GB 内存。键盘有实体 Gemini 按键，支持 Wi-Fi 7 和蓝牙 5.4。已现身 GeekBench 跑分库，最高多核跑分 9617 分。",
-              "source_url": "https://www.ithome.com/0/988/714.htm",
+              "title": "几何未来Eskimo Ultra 42液冷散热器开售，售价799元",
+              "brief": "几何未来推出Eskimo Ultra 42一体式水冷散热器，售价799元。该散热器采用420mm冷排，配备三相九极2600RPM定速水泵，冷头为铝合金材质，带ARGB灯带。配套风扇为Squama Ultimate龙鳞3003，厚度30mm，支持无线串接，ARGB灯效。风扇单独销售，正叶和反叶版本均为单颗159元、三颗459元。",
+              "source_url": "https://www.ithome.com/0/988/826.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-12T12:21:42+08:00"
+              "published_at": "2026-08-12T16:32:58+08:00"
             },
             {
-              "title": "IMDb 页面显示《漫威蜘蛛侠 3》游戏正在开发中，洛文塔尔配音",
-              "brief": "IMDb 页面显示《漫威蜘蛛侠 3》游戏正在开发中，状态为“制作中”，彼得·帕克配音演员为尤里·洛文塔尔。他曾暗示彼得的故事远未结束，外界猜测彼得可能在《漫威蜘蛛侠 2》结尾“退休”后回归。",
-              "source_url": "https://www.ithome.com/0/988/713.htm",
+              "title": "岚图汽车卢放：开发时间短不等于速成车",
+              "brief": "岚图汽车CEO卢放发文回应“速成车”争议，指出开发周期短并不代表偷工减料。他认为，如果缩短周期但完成所有法规和行业标准测试，应称为“高效车”。新能源车开发加速得益于平台化、模块化和仿真测试技术的成熟，是效率革命而非质量妥协。岚图坚持必要验证环节一项都不能少，测试的苛刻程度定义品质。",
+              "source_url": "https://www.ithome.com/0/988/825.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-12T12:02:03+08:00"
+              "published_at": "2026-08-12T16:30:43+08:00"
             }
           ]
         },
