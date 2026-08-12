@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T02:51:14.859434+08:00",
+  "generated_at": "2026-08-13T04:50:22.728005+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "谷歌发布29美元Pixel Tag，对标苹果AirTag",
+              "brief": "谷歌今日推出其首款物品追踪器Pixel Tag，对标苹果AirTag。该设备采用不锈钢材质，具备IP67级防水防尘，内置扬声器可在物品丢失时发声，并设有按钮可让手机响铃。其椭圆形设计与AirTag不同，且无挂孔，需另购配件。Pixel Tag支持蓝牙和超宽带，可实现精准查找功能，电池可更换，续航约一年。它兼容Android 9及以上系统，可通过Find Hub应用追踪。谷歌的Find Hub网络利用超十亿安卓设备进行定位，并支持防追踪提醒，且与苹果合作实现跨平台警报。售价单个29美元，四个99美元，与AirTag 2价格一致。",
+              "source_url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-13T02:52:26+08:00"
+            },
             {
               "title": "苹果钱包或将支持保存以旧换新报价90天",
               "brief": "据MacRumors发现的代码，苹果正在开发一项零售以旧换新系统，允许顾客将报价保存到钱包应用中，有效期90天。该系统在苹果员工使用的Guide应用中出现，包含“将报价添加到Apple Wallet，有效期为90天”等字符串。员工可展示二维码供顾客扫描，并支持多种语言。该流程包括设备资格检查、序列号扫描、状况询问及诊断，并生成钱包凭证。此外还发现了TradeInKit框架和服务器端点。此功能受服务器端开关控制，尚未上线。当前苹果在线以旧换新要求14天内寄送设备，新系统将提供更长窗口。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
               "source_name": "MacRumors",
               "published_at": "2026-08-13T00:29:09+08:00"
-            },
-            {
-              "title": "iPhone Ultra的两个自拍相机可能位于同一角落",
-              "brief": "关于iPhone Ultra的可折叠设计中自拍相机的位置，最新泄露的屏幕保护膜显示，内外屏的自拍相机可能位于同一半部的同一角落，一个朝外一个朝内。此前模型机显示外屏自拍相机居中，内屏在左上角，但屏幕保护膜显示外屏开孔在右上角。若属实，这种并排布局可使苹果将开孔和相机模块集中在单一区域，节省内部空间。然而，配件厂商基于CAD文件，准确性存疑，且模型机可能有一个位置错误。iPhone Ultra预计下月发布，配备5.5英寸外屏和7.8英寸内屏，A20 Pro芯片，侧边Touch ID，5000mAh电池。",
-              "source_url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-13T00:12:42+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "MLB iPhone应用新增CarPlay和实时活动功能",
-              "brief": "MLB应用更新，现在支持为任何比赛开启实时活动，并改进了CarPlay体验。用户可在Gameday中点击追踪按钮，比赛信息将显示在锁屏和灵动岛上。CarPlay中可浏览比赛、选择球队广播，并显示比分和关键细节，同时尊重隐藏比分设置。此前实时活动仅限关注球队。今年夏天早些时候，MLB已扩展了实时比分小组件。iOS 26及更高版本的CarPlay支持iPhone小组件。本月晚些时候，Apple Vision Pro用户将能观看首场周五棒球夜的沉浸式视频。MLB应用可在App Store免费下载。",
-              "source_url": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
+              "title": "Claude Chrome侧边栏现在支持完整Cowork会话",
+              "brief": "Anthropic宣布，Claude在Chrome中的侧边栏现已升级为完整的Cowork会话。此前，侧边栏中的对话与Claude其他应用（如桌面、网页和移动端）是分离的，现在这些对话会保存到历史记录中，并可在其他设备上继续。用户可以使用现有的浏览器登录信息，让Claude查看当前页面并执行操作，如点击链接、填写表单等。Anthropic表示，此更新弥补了Claude浏览器工作流程中的不足。此外，Claude在Chrome中支持账户已配置的技能和连接器，无需额外设置。但Anthropic警告，浏览器代理仍易受提示注入攻击，已采取安全措施，但无法完全消除风险。Cowork侧边栏现面向Max和Team客户开放，Pro用户将在未来几周内获得。",
+              "source_url": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-13T02:10:42+08:00"
+              "published_at": "2026-08-13T04:46:00+08:00"
             },
             {
-              "title": "BowFlex T6评测：Apple GymKit以普通跑步机价格进入家庭",
-              "brief": "BowFlex T6跑步机支持Apple GymKit，售价约1000美元，远低于以往15000美元的门槛。GymKit实现Apple Watch与跑步机双向数据同步，包括心率、速度、距离等，提供更准确的健身记录。评测者发现配对过程灵活，可在跑步中通过NFC连接。该跑步机结合了GymKit支持、亲民价格和拨盘控制，易于推荐。GymKit自2017年推出以来，兼容设备一直稀缺，现在终于有了价格合理的家用选择。",
-              "source_url": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
+              "title": "苹果广告牌展示幼儿使用iPhone在意大利引发争议",
+              "brief": "苹果在米兰的广告牌上展示了一名幼儿手持iPhone，配文“Tutto ok, è iPhone”，作为“Relax, it’s iPhone”广告活动的一部分。意大利儿童与青少年保障机构（AGIA）对此提出批评，称该广告“将电子保姆正常化”，可能对儿童心理和认知发展产生不良影响。AGIA指出，全球正在讨论数字技术使用的最低年龄，而该广告却反其道而行之。该机构已将此事提交给意大利通信监管机构AGCOM。苹果的广告通常展示iPhone在危险情况下的耐用性，但这次却涉及幼儿，引发了公众对电子设备对儿童影响的担忧。",
+              "source_url": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-13T01:55:57+08:00"
+              "published_at": "2026-08-13T04:16:03+08:00"
             },
             {
-              "title": "iPhone 18 Pro将成为苹果新的默认机型",
-              "brief": "据报道，苹果今年秋季将仅发布iPhone 18 Pro、iPhone 18 Pro Max和iPhone Ultra，基础款iPhone 18和iPhone Air 2推迟至2027年初。因此，iPhone 18 Pro将取代基础款成为默认新机。用户若需更便宜的选择，可购买去年的iPhone 17或iPhone 17e。这一策略可能使iPhone 18 Pro成为最畅销的Pro机型，但也存在风险，因为缺乏低价新机可能使部分用户延迟升级。苹果此举是否成功，未来几个月将见分晓。",
-              "source_url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
+              "title": "watchOS 27将为Apple Watch新增两款应用",
+              "brief": "watchOS 27将引入两个新应用：Siri应用和Find My应用。Siri应用将提供更对话式的AI体验，并保存跨设备的对话历史，用户可通过Digital Crown或应用启动。Find My应用则整合了watchOS 26中分散的“查找设备”、“查找物品”和“查找人”三个应用，提供统一的地图视图。该应用允许用户通过左上角菜单切换查找对象，界面一致。这些新功能旨在提升Apple Watch的实用性和AI集成。watchOS 27的兼容设备列表已公布。",
+              "source_url": "https://9to5mac.com/2026/08/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-13T01:50:20+08:00"
+              "published_at": "2026-08-13T04:15:16+08:00"
             },
             {
-              "title": "泄露显示iPhone Ultra相机位置可能非常规",
-              "brief": "iPhone Ultra作为苹果首款可折叠iPhone，可能拥有非常规的相机布局。泄露的屏幕保护膜显示，外屏摄像头开孔位于右上角，内屏则位于左上角，而非传统的顶部居中。这可能意味着自拍相机位置偏移，用户可能需要适应。尽管配件商可能猜测错误，但若属实，将是苹果设计上的重大改变。内屏摄像头偏离中心可能更合理，因为折叠处无法放置摄像头。但外屏摄像头偏移可能带来使用上的不便。",
-              "source_url": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
+              "title": "Eddy Cue回应Ted Lasso未来季数：故事还很多",
+              "brief": "Apple服务主管Eddy Cue在红毯采访中表示，希望《Ted Lasso》能有第五季，并称“肯定有足够的故事可讲”。虽然苹果尚未正式续订第五季，但演员已签约三季，暗示可能有三季新弧。Cue的言论表明苹果致力于尽可能延长该剧，让粉丝安心。第四季正在播出，每周三更新，共10集，目前已有两集可看。观众对新季反响如何尚待观察。",
+              "source_url": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-13T01:27:04+08:00"
+              "published_at": "2026-08-13T03:27:21+08:00"
             },
             {
-              "title": "苹果聘请美国航空高管负责政府事务",
-              "brief": "苹果任命美国航空政府事务主管Nate Gatten为政府事务副总裁，8月31日上任。他将向高级副总裁兼法律总顾问Jennifer Newstead汇报，并与CEO蒂姆·库克密切合作。苹果希望此人能与特朗普政府保持一致。Gatten自2017年担任美国航空政府事务负责人，此前在摩根大通和房利美工作。他还有房地产经验，可能有助于苹果扩展零售业务。前政府事务负责人Lisa Jackson于去年退休，苹果法律主管Katherine Adams曾临时接管。",
-              "source_url": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
+              "title": "苹果钱包应用或将新增管理以旧换新功能",
+              "brief": "据MacRumors报道，苹果的Guide应用代码中出现了新功能线索，该功能允许用户将以旧换新优惠保存到Apple Wallet中，并可能将有效期从14天延长至90天。代码还引用了“TradeInKit”框架。目前该功能尚未启用，由服务器端控制。苹果上周提高了多数iPhone、iPad、Mac和Apple Watch的换购价值。这一新功能可能简化换购流程，提升用户体验。",
+              "source_url": "https://9to5mac.com/2026/08/12/apple-wallet-app-could-get-new-feature-to-manage-trade-ins/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-13T01:19:46+08:00"
+              "published_at": "2026-08-13T02:51:03+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixel 11 Pro Fold 变薄的原因让我无法忽视，但这是最好的选择 [图集]",
+              "brief": "在 Made by Google 2026 大会上，谷歌发布了 Pixel 11、Pixel Watch 5、Pixel Tag 等新品。其中，Pixel 11 Pro Fold 比前代更薄，这得益于其铰链和电池设计的改进。尽管变薄的原因在视觉上可能不太美观，但为了便携性和手感，这是值得的。本文通过多张图片展示了新机的细节。",
+              "source_url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-fold-thinner/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-13T04:30:00+08:00"
+            },
+            {
+              "title": "Pixel 11 系列在美国仍仅支持 eSIM，以防你忘记",
+              "brief": "在 Made by Google 2026 大会上，谷歌发布了 Pixel 11 系列，但值得注意的是，该系列在美国仍然只支持 eSIM，没有物理 SIM 卡槽。这一设计延续了前代的做法，旨在推动 eSIM 的普及。用户需要确保自己的运营商支持 eSIM 服务，否则可能无法使用。",
+              "source_url": "https://9to5google.com/2026/08/12/the-pixel-11-series-is-still-esim-only-in-the-us-just-in-case-you-forgot/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-13T04:30:00+08:00"
+            },
+            {
+              "title": "Pixel 11 Pro 显示屏抗刮擦能力提升两倍以上，未来还会更好",
+              "brief": "谷歌在 Made by Google 2026 大会上发布了 Pixel 11 Pro，其显示屏采用了新一代玻璃，抗刮擦能力比前代提升了两倍以上。此外，谷歌还改进了屏幕的耐用性，使其更抗摔。这些升级使得 Pixel 11 Pro 的屏幕更加坚固，用户无需担心日常使用中的划痕和跌落。",
+              "source_url": "https://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-13T03:30:00+08:00"
+            },
             {
               "title": "荣耀终于推出机器人手机，起售价约1500美元",
               "brief": "荣耀正式发布了其备受期待的机器人手机，起售价约为1500美元。该设备集成了先进的AI和自动化功能，旨在提供全新的用户体验。此次发布标志着荣耀在智能设备领域的重大突破，同时也展示了其在高端市场的竞争力。更多细节将在后续报道中披露。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/08/12/google-pixel-11-series-amazon-preorder-bonus-gift-card-watch/",
               "source_name": "9to5Google",
               "published_at": "2026-08-13T02:30:00+08:00"
-            },
-            {
-              "title": "本周安卓应用折扣：王国保卫战5、钢铁陆战队2等",
-              "brief": "本周安卓应用迎来新一轮折扣和免费活动，包括《王国保卫战5》、《钢铁陆战队2》和《第九黎明III》等热门游戏。这些应用在限定时间内提供优惠，部分甚至免费。此外，还有更多应用和游戏参与活动，为安卓用户带来实惠。",
-              "source_url": "https://9to5toys.com/2026/08/12/mid-week-android-app-deals-7/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-13T01:22:48+08:00"
-            },
-            {
-              "title": "Spigen推出Pixel 11配件系列，助你找到完美搭配",
-              "brief": "Spigen为谷歌Pixel 11系列推出了全新的配件系列，包括保护壳、屏幕保护膜等。这些配件设计精良，旨在提供全面保护同时保持时尚外观。用户可以根据个人喜好选择不同款式，确保设备安全且彰显个性。",
-              "source_url": "https://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-13T01:00:00+08:00"
-            },
-            {
-              "title": "Pixel 11系列预购指南：赠送350美元礼品卡，以旧换新最高抵1000美元等",
-              "brief": "谷歌在2026年Made by Google活动上发布了Pixel 11、Pixel Watch 5、Pixel Tag等新品。现在Pixel 11系列已开启预购，消费者可在指定渠道获得350美元礼品卡，以旧换新最高可抵1000美元。此外还有更多优惠，如免费赠送200美元积分等。本文汇总了各渠道的预购信息，帮助用户选择最佳购买方案。",
-              "source_url": "https://9to5google.com/2026/08/12/where-to-buy-the-pixel-11-pixel-11-pro/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-12T23:46:32+08:00"
             }
           ]
         },
@@ -155,6 +155,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌否认撤销用户已购电影访问权限，称系技术问题",
+              "brief": "上周有用户报告称谷歌撤销了其购买的《指环王》加长版三部曲的访问权限。谷歌回应称这是技术问题，用户仍应能访问这些电影，并已发放退款（商店信用）。但用户表示仍无法观看。此事引发对数字内容购买权的担忧，此前索尼也曾撤销用户已购电影。谷歌将问题归咎于“渲染”故障。",
+              "source_url": "https://www.androidauthority.com/google-play-lord-of-the-rings-movies-3697984/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-13T04:37:52+08:00"
+            },
+            {
+              "title": "谷歌搜索误报OpenAI CEO萨姆·奥尔特曼去世，已更正",
+              "brief": "谷歌搜索今日错误显示OpenAI CEO萨姆·奥尔特曼于2026年8月12日去世，信息源自被篡改的维基百科页面。谷歌回应称并非手动更改，而是自动系统抓取了错误信息，现已修复。公司感谢用户反馈，并确认不再显示死亡日期。",
+              "source_url": "https://www.androidauthority.com/google-search-sam-altman-death-error-3697975/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-13T04:19:16+08:00"
+            },
+            {
+              "title": "Spotify或将支持下载音乐视频，类似YouTube离线功能",
+              "brief": "Spotify在最新Android版中发现了“下载视频”和“删除已下载视频”的代码字符串，暗示正在开发音乐视频下载功能。目前Premium用户可下载播客、播放列表和专辑，但音乐视频尚未支持。该功能可能仅限Premium用户，下载的视频只能在应用内访问，类似YouTube和Netflix的离线观看。",
+              "source_url": "https://www.androidauthority.com/spotify-offline-music-videos-3697865/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-13T03:02:15+08:00"
+            },
+            {
               "title": "Ultimate Ears WONDERBOOM 4 音箱亚马逊售价创历史新低",
               "brief": "Ultimate Ears WONDERBOOM 4 便携蓝牙音箱在亚马逊上现售 64.99 美元，较建议零售价 79.99 美元优惠 19%，为历史最低价。该音箱具备 360 度环绕声、防水防尘、可漂浮等特点，适合泳池或海滩使用。续航长达 14 小时，支持 USB-C 充电，并可与其他 WONDERBOOM 音箱配对实现立体声。用户评价良好，获得 4.4 星评分，称赞其音质均衡、便携耐用。此次促销为夏季户外活动提供了高性价比选择。",
               "source_url": "https://www.androidauthority.com/ultimate-ears-wonderboom-4-deal-3697968/",
@@ -167,27 +188,6 @@
               "source_url": "https://www.androidauthority.com/verizon-outage-aug-12-2026-3697965/",
               "source_name": "Android Authority",
               "published_at": "2026-08-13T02:26:31+08:00"
-            },
-            {
-              "title": "Life360 Tile 追踪器套装降价 34%，限时优惠 32.99 美元",
-              "brief": "亚马逊现推出 Life360 Tile 入门套装优惠，售价 32.99 美元，较 49.99 美元的建议零售价降低 34%，为今年最低价。该套装包含一个 Tile Mate 和一个 Tile Slim，可分别用于钥匙和钱包等物品追踪，并集成 Life360 应用，支持 Android 和 iPhone。产品拥有 4.4 星评级，用户反馈良好。此次降价为需要蓝牙追踪器的用户提供了高性价比购买机会，适合日常防丢使用。",
-              "source_url": "https://www.androidauthority.com/life360-tile-starter-pack-deal-3697959/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-13T02:04:51+08:00"
-            },
-            {
-              "title": "Android Auto 热门应用 Fermata Xtream 以全新代码回归",
-              "brief": "Fermata Xtream 是一款在 Android Auto 上观看直播电视的热门应用，其开发者此前宣布停止维护，但如今发布了全新版本 v1.0.0。新版采用 100% 全新代码，优化了速度与性能，并保持原有 UI 设计。包名不变，用户可直接更新；通过 AAenabler 安装的应用将自动更新，而 Play Store 版本需手动处理。开发者表示，新版本解决了旧代码无法改进的问题，为用户带来更流畅的体验。",
-              "source_url": "https://www.androidauthority.com/android-auto-new-fermata-xtream-version-3697925/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-13T01:59:54+08:00"
-            },
-            {
-              "title": "Anker Prime 三合一折叠充电器降价 34%，现售 99.74 美元",
-              "brief": "Anker Prime 三合一折叠充电器在亚马逊上现售 99.74 美元，较原价 149.99 美元优惠 34%，达到历史最低价。该充电器支持 25W Qi2.2 无线快充，兼容 MagSafe，并配备 AirCool 主动散热系统，确保充电效率。它可折叠设计便于携带，适合旅行和日常使用。通常附带 45W USB-C 电源适配器和数据线。用户评分高达 4.6 星，反馈良好。此次促销为需要多设备充电的用户提供了超值选择。",
-              "source_url": "https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-13T01:34:53+08:00"
             }
           ]
         },
@@ -195,11 +195,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "吉他公司D'Addario承认宣传视频使用了AI音乐",
-              "brief": "经过数周的争议和猜测，乐器公司D'Addario最终承认其宣传视频中使用了AI音乐生成工具Suno。此前，该公司一直否认这一指控，甚至提出多种解释，如低质量导出、插件组合、自动调音引入数字噪声，以及使用LANDR和Logic的AI辅助母带制作工具。但现在，该公司已修改了其7月29日的Instagram帖子，承认错误，并表示已完成全面调查。这一事件引发了关于AI在音乐创作中应用的广泛讨论。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+              "title": "新兴独立游戏发行商Kinetic Publishing公布首批游戏阵容",
+              "brief": "由《恐鬼症》开发商创立的独立游戏发行商Kinetic Publishing在首次展示会上公布了五款将于2027至2028年发售的新作。其中最引人注目的是《说谎》和《不朽》创作者Sam Barlow的新作《Precognition》。该游戏采用真人影像和非线性叙事，玩家扮演植入实验芯片后能预知未来的女子Diana，探索未来幻象。",
+              "source_url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
               "source_name": "The Verge",
-              "published_at": "2026-08-12T11:52:07-04:00"
+              "published_at": "2026-08-12T15:30:00-04:00"
+            },
+            {
+              "title": "iPhone 18基础款或推迟至2027年发布",
+              "brief": "据MacRumors报道，苹果供应商和硕在财报电话会议上确认，iPhone 18 Pro系列将于今年秋季发布，但基础款iPhone 18要等到明年第一季度。更实惠的iPhone 18e和新型iPhone Air也可能同期推出。此前分析师郭明錤和The Information均报道，苹果计划2026年秋季仅发布高端机型。",
+              "source_url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+              "source_name": "The Verge",
+              "published_at": "2026-08-12T15:27:47-04:00"
+            },
+            {
+              "title": "谷歌Pixel 11系列开启预购，最高可获350美元礼品卡",
+              "brief": "谷歌正式发布新一代Pixel手机和手表，Pixel 11起售价899美元，Pro和Pro XL分别为1099和1299美元，Pro Fold起价1899美元。手表41mm版399美元，45mm版429美元。即日起可预购，8月20日发货。在百思买、亚马逊等渠道预购可获最高350美元礼品卡。",
+              "source_url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
+              "source_name": "The Verge",
+              "published_at": "2026-08-12T13:47:54-04:00"
+            },
+            {
+              "title": "Twitch主播现可选择退出亚马逊AI训练",
+              "brief": "Twitch用户现可选择退出允许其内容用于训练亚马逊生成式AI模型。退出后，直播、VOD、剪辑、聊天和频道图片文字将不会用于未来训练，但字幕和安全功能等AI辅助功能不受影响。若参与他人直播聊天，则以该主播的偏好为准。该开关位于设置的安全与隐私选项卡中。",
+              "source_url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+              "source_name": "The Verge",
+              "published_at": "2026-08-12T13:29:10-04:00"
+            },
+            {
+              "title": "谷歌Pixel 11与上一代对比：新AI、相机和芯片升级",
+              "brief": "谷歌发布四款新Pixel手机：Pixel 11、11 Pro、11 Pro XL和11 Pro Fold。价格略有上涨，但配备改进的相机和更快的Tensor G6芯片。新增Magic Capture摄影工具，Gemini智能增强，Live Translate扩展，以及相机内Circle to Search功能。本文对比新旧机型，助你决定是否升级。",
+              "source_url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
+              "source_name": "The Verge",
+              "published_at": "2026-08-12T13:00:00-04:00"
             }
           ]
         }
