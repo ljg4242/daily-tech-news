@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T08:50:26.649258+08:00",
+  "generated_at": "2026-08-14T10:50:47.030660+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果寻求与Epic Games进行和解谈判",
+              "brief": "苹果在最新的法庭文件中表示愿意与Epic Games探讨和解。此前，苹果提交了关于允许在App Store外支付系统收取佣金的提案，最高可达15%。Epic认为这些费用远超第九巡回法院的指导范围。同时，苹果请求法院下令双方进行和解会议，但Epic未同意。苹果认为法院有权强制和解，且第九巡回法院鼓励双方就链接佣金达成协议。苹果希望通过保密、非对抗性的讨论增加达成实际解决方案的可能性。",
+              "source_url": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-14T09:39:07+08:00"
+            },
+            {
+              "title": "苹果向全球发出新一轮雇佣间谍软件攻击警告",
+              "brief": "苹果已向110个国家的用户发送新一轮通知，警告他们可能成为雇佣间谍软件攻击的目标。据TechCrunch报道，这使得过去几年收到此类警告的国家总数超过150个。苹果还发布了新的支持文章，解释威胁通知的运作方式及用户应如何应对。苹果建议收到通知的用户启用锁定模式，并寻求Access Now等组织的紧急安全援助。同时，苹果为所有用户提供安全建议，包括更新软件、使用密码或生物识别、启用双重认证等最佳实践。",
+              "source_url": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-14T08:54:31+08:00"
+            },
             {
               "title": "9to5Mac 每日：2026年8月13日 – MacBook Air 缺货，iPhone Ultra 发布传闻",
               "brief": "本期节目讨论了苹果寻求与出版商达成协议，以提升 Siri 人工智能对时事新闻的访问能力；MacBook Air 出现短缺，我们提供了购买指南；以及有报道称 iPhone Ultra 可能首先仅在美国上市。您可以通过 Apple Podcasts、Overcast 等平台订阅收听。本期节目由 Backblaze 赞助，使用代码 9to5daily 可享八折优惠。欢迎通过 happyhour@9to5mac.com 分享您的想法，并在 Apple Podcasts 或 Overcast 上评分推荐。更多内容请访问 9to5Mac 主页，并关注我们的 Twitter、Facebook 和 LinkedIn。",
@@ -28,20 +42,6 @@
               "source_url": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-14T04:37:10+08:00"
-            },
-            {
-              "title": "WhatsApp 正在开发带动态壁纸的聊天主题",
-              "brief": "据 WABetaInfo 报道，WhatsApp 最新 TestFlight 版本包含聊天主题功能，分为特色、涂鸦和极简三类。其中，特色主题将采用缓慢而渐进的动态壁纸，避免分散用户注意力，同时考虑到了 accessibility 需求。涂鸦主题使用经典涂鸦图案，极简主题则根据深色或浅色模式使用纯黑或纯白背景。此外，聊天气泡颜色将由系统自动匹配壁纸，用户无法单独自定义。该功能仍在开发中，尚未向测试者开放，但已在 iOS 和 Android 版本中推进。",
-              "source_url": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-14T04:34:06+08:00"
-            },
-            {
-              "title": "ChatGPT Mac 版新增可选“计算机历史”功能，取代 Chronicle",
-              "brief": "OpenAI 在 ChatGPT 桌面版中推出了“计算机历史”功能，该功能通过 macOS 辅助功能记录用户的操作事件（如点击、输入、快捷键等），构建可搜索的时间线，帮助 ChatGPT 和 Codex 更好地理解用户工作方式。该功能默认关闭，用户可自主选择参与的应用程序和网站，并可随时暂停、查看或删除历史记录。它面向 Pro、Business 和 Enterprise 用户，但 Business 和 Enterprise 需管理员开启，且暂不支持欧洲经济区、瑞士和英国。此功能取代了此前的 Chronicle 研究预览版。",
-              "source_url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-14T04:13:21+08:00"
             }
           ]
         },
@@ -386,25 +386,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "马斯克转向化石能源，为AI数据中心自建天然气发电厂",
-              "brief": "特斯拉和SpaceX首席执行官马斯克正大力投资化石能源，为其AI数据中心提供电力。SpaceX计划在得克萨斯州修建天然气发电厂，并在田纳西州和密西西比州使用燃气轮机供电。这些设施是训练人工智能的核心基础设施。马斯克早年倡导可持续能源，但现在转向天然气，部分原因是AI研发的巨大电力需求。SpaceX的数据中心自备发电规模预计到2027年底将达10至15吉瓦，成为美国最大数据中心运营商。此外，SpaceX还计划在太空部署太阳能供电的轨道数据中心。这一策略也引发行业效仿，许多公司开始自建离网天然气发电设施。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573094.htm",
+              "title": "OpenAI年化营收有望突破400亿美元，较2025年底翻倍",
+              "brief": "OpenAI年化营收有望突破400亿美元，较2025年底大致翻倍。公司与Anthropic竞争企业客户，两者均已秘密提交上市文件。Anthropic预计最快秋季IPO，其AI工具简化编程吸引用户，年化营收超470亿美元。OpenAI任命Wiz总裁Dali Rajic为首席营收官，7月年化营收环比增长超20%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573176.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-14T01:12:04+08:00"
+              "published_at": "2026-08-14T08:21:07+08:00"
             },
             {
-              "title": "OpenAI营收负责人德雷瑟离职，数日内第二位高管出走",
-              "brief": "OpenAI营收负责人丹尼斯·德雷瑟即将离职，这是该公司数日内第二位高管离任。德雷瑟于12月正式加入OpenAI，此前在Salesforce任职十余年，并曾担任Slack首席执行官。她的离开紧随资深高管布拉德·莱特卡普于本周二宣布离职之后。莱特卡普在社交平台X上表示计划“开启新事业”。OpenAI近期高层人事变动频繁，引发外界关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573092.htm",
+              "title": "黑客组织声称窃取壳牌、飞利浦等近50家公司海量数据",
+              "brief": "黑客组织声称窃取壳牌、飞利浦等近50家公司数据。飞利浦已阻止攻击，费哲称未发现客户数据泄露。攻击利用PTC公司Windchill和FlexPLM漏洞。勒索软件信息共享中心7月22日预警，部分企业7月19-20日收到Cl0p勒索通知。该团伙锁定零日漏洞攻击，而非特定企业。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573174.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-14T01:11:35+08:00"
+              "published_at": "2026-08-14T08:20:46+08:00"
             },
             {
-              "title": "Google发布Gemini 3.7 Flash，解决问题能力全面增强",
-              "brief": "Google发布了新一代AI模型Gemini 3.7 Flash，在调试、问题解决、网页开发及知识密集型领域表现显著提升。在DeepSWE v1.1基准测试中得分从49.0%升至65.3%，FrontierCode测试中从34.4%提升至43.6%。WebDev Arena评估中Elo得分从1538升至1588。在GDP.pdf和AutomationBench测试中也大幅超越前代。新模型增强了安全防护，价格降至上一代的一半。目前已在Gemini应用、AI Studio等平台推出。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573090.htm",
+              "title": "比尔·盖茨时隔一年再访韩，将与SK等讨论核反应堆合作",
+              "brief": "比尔·盖茨时隔一年再次访韩，计划与SK集团、HD现代等讨论小型模块化反应堆合作。盖茨创办的TerraPower开发钠冷快堆，获SK投资2.5亿美元。今年3月获美国核管理委员会批准在怀俄明州建厂，为商业化铺路。盖茨还将会见韩国总理韩成淑。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573172.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-14T01:09:47+08:00"
+              "published_at": "2026-08-14T08:20:15+08:00"
+            },
+            {
+              "title": "肯尼迪中心决定将特朗普名字印在大楼外墙上",
+              "brief": "肯尼迪中心董事会决定将特朗普名字印在外墙，此举遭民主党议员批评，称规避法院裁决。此前法院裁定未经国会批准不得更名，中心曾移除名字但用篷布遮挡。董事会需下周向法院提交方案，上诉仍在进行。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573170.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-14T08:18:55+08:00"
+            },
+            {
+              "title": "美国将对无人机及其零部件征收关税，最高税率100%",
+              "brief": "美国将对无人机及其零部件征收关税，最高税率100%。敏感零部件关税在签署后15天生效，其他零部件180天后生效。此举可能影响全球无人机供应链。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573168.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-14T08:18:17+08:00"
             }
           ]
         }
