@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T02:49:37.962196+08:00",
+  "generated_at": "2026-08-16T04:49:34.022400+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "独立应用聚焦：'Notepad.exe'——Mac上超快速轻量级代码编辑器",
+              "brief": "Notepad.exe是一款面向Mac的极简代码编辑器，旨在让写代码变得简单直接。它启动即用，无需创建项目或层层菜单，支持Swift、Python、JavaScript、TypeScript和Go等多种语言，内置笔记库和智能编程助手，可集成Codex或本地模型进行调试。此外，它还能在编辑器中嵌入模拟器，方便iOS开发者预览SwiftUI界面。该应用基础版免费，Pro版提供更多功能，年费19.99美元或终身授权45美元。",
+              "source_url": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-16T03:30:00+08:00"
+            },
             {
               "title": "苹果智能家居产品路线图：即将到来的新品一览",
               "brief": "苹果的智能家居产品线已经多年未更新，但随着Siri AI的推出，苹果即将发布一系列新硬件。首先，HomePod mini和Apple TV 4K预计将在今年秋季推出，HomePod mini将升级到S9芯片，Apple TV 4K将升级到A17 Pro芯片，两者都将支持Siri AI。此外，苹果的首款智能家居中枢也在开发中，可能配备7英寸方形屏幕，支持磁吸墙挂或扬声器底座，预计发布时间在十月至明年初之间。这些产品将进一步提升苹果在智能家居领域的竞争力。",
@@ -109,6 +116,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "俄导弹被指使用英伟达 Jetson Orin 芯片",
+              "brief": "俄罗斯新型 S-71“Monochrome”巡航导弹被发现使用了英伟达 Jetson Orin 计算模块，具体型号为 2023 年推出的 Jetson Orin NX 16GB。英伟达于 2022 年初退出俄罗斯市场，但该芯片作为消费级产品，销售限制较少，俄罗斯通过其他渠道获得。英伟达表示，虽无法追踪售出产品，但若确认客户违反美国出口管制，将采取适当行动。",
+              "source_url": "https://www.solidot.org/story?sid=85104",
+              "source_name": "Solidot",
+              "published_at": "2026-08-15T23:53:42+08:00"
+            },
+            {
               "title": "年轻美国人日益不信任 AI 及 AI 公司高管",
               "brief": "一项针对 18-34 岁美国人的调查显示，多数受访者不信任投资 AI 的大公司高管，包括 Elon Musk、Sam Altman 和 Mark Zuckerberg。45% 认为 AI 会对职业产生负面影响，仅 10% 认为有帮助。Palantir CEO Alex Karp 信任度最低，81% 不信任他。60% 认为数据中心建设应放缓，仅 15% 希望加快。",
               "source_url": "https://www.solidot.org/story?sid=85103",
@@ -185,7 +199,43 @@
         },
         {
           "name": "IT之家",
-          "articles": []
+          "articles": [
+            {
+              "title": "《玩具总动员3》Xbox 360版下月停售，为重制版让路",
+              "brief": "IT之家8月15日消息，Xbox商店更新了《玩具总动员3》的商品介绍，确认旧版将于2026年9月29日停售，为Digital Eclipse开发的《玩具总动员3：完全版》腾出位置。完全版将于10月15日登陆Xbox Series X|S，保留原版全部内容，升级画面并加入新功能，收录PS3版独占内容。旧版仍可在Xbox Series X|S上通过向后兼容游玩，已购玩家可继续游玩。完全版单独售价25美元，与《玩具总动员：复古合集》捆绑售价40美元。",
+              "source_url": "https://www.ithome.com/0/990/192.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-15T23:44:08+08:00"
+            },
+            {
+              "title": "MacBook Pro用户自制48Hz刷新率工具，降低显卡功耗发热",
+              "brief": "IT之家8月15日消息，一位2019款英特尔MacBook Pro用户因长期通过Boot Camp运行Windows，面临发热和耗电问题。尝试多种方案无效后，他发现Radeon Pro 5300M在60Hz刷新率下空闲时显存频率过高，导致功耗和发热。他将刷新率降至48Hz后，显卡空闲功耗从14W降至3W，温度从66℃降至51℃。由于Windows未提供48Hz选项，他编写了开源工具MacBookEco发布在GitHub上，该模式对静态内容流畅度影响有限，但显著降低负载，延长续航并降低风扇噪音。",
+              "source_url": "https://www.ithome.com/0/990/191.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-15T23:37:04+08:00"
+            },
+            {
+              "title": "Suno Studio 2.0发布：新增MIDI支持、效果插件及AI助手",
+              "brief": "IT之家8月15日消息，AI音乐生成平台Suno发布Studio 2.0，新增MIDI支持、效果插件和集成聊天机器人。用户可导入MIDI数据作为AI提示，生成音频或续写旋律；支持自动化控制，调整音轨声像和音量。聊天机器人可读取当前工程，帮助创作歌词、生成吉他声部或自动添加混响、压缩等效果。内置效果器包括失真、延迟、混响、压缩和EQ，用户还可通过AI生成自定义效果插件并保存。该版本功能更丰富，但减少了手动操作，人声效果链等可由AI自动选择。",
+              "source_url": "https://www.ithome.com/0/990/190.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-15T23:28:28+08:00"
+            },
+            {
+              "title": "柏能集团警告：AI热潮致显卡短缺，PC价格或上涨",
+              "brief": "IT之家8月15日消息，显卡厂商柏能集团警告，AI热潮加剧供应紧张，导致显卡短缺，并可能推高PC整体价格。公司未给出具体原因，但指出内存短缺正影响整个PC市场，CPU、内存等零部件交付周期大幅延长。供应问题已波及显卡以外产品，下半年情况可能进一步加剧，PC厂商处境将更严峻。柏能计划出货全新GPU服务器和AI产品，以抵消消费电子领域增长疲软。",
+              "source_url": "https://www.ithome.com/0/990/189.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-15T23:23:57+08:00"
+            },
+            {
+              "title": "《辛普森一家》创作者暗示《辛普森：横冲直撞》或回归",
+              "brief": "IT之家8月15日消息，《辛普森一家》创作者马特·格勒宁暗示，类似《GTA》的游戏《辛普森：横冲直撞》有望回归。该作于2003年推出，玩法类似《侠盗猎车手3》，但之后无续作或重制版。编剧马特·塞尔曼曾参与该作编剧，今年3月他表示游戏很有意思，并称“凡事别太绝对”，暗示可能复活。粉丝们对此充满期待。",
+              "source_url": "https://www.ithome.com/0/990/188.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-15T23:14:42+08:00"
+            }
+          ]
         }
       ]
     }
