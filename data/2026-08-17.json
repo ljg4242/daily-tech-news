@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T00:50:36.582319+08:00",
+  "generated_at": "2026-08-17T02:49:54.353096+08:00",
   "sections": [
     {
       "category": "主要",
@@ -92,7 +92,34 @@
         },
         {
           "name": "The Verge",
-          "articles": []
+          "articles": [
+            {
+              "title": "亚马逊试图在集体诉讼开始前将其扼杀",
+              "brief": "亚马逊更新了其服务条款，要求所有争议通过仲裁解决，并包含集体诉讼豁免条款。亚马逊称这是“快速高效”的解决方式，但这将阻止客户在大多数情况下寻求法官或陪审团的参与。客户仍可在某些情况下向小额索赔法院提起诉讼，但赔偿金额通常限于几千美元。该变更通过电子邮件通知客户，并已更新至法律政策页面。",
+              "source_url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+              "source_name": "The Verge",
+              "published_at": "2026-08-16T13:35:02-04:00"
+            },
+            {
+              "title": "ChatGPT的计算机历史记录追踪你的点击和按键",
+              "brief": "ChatGPT的macOS桌面应用新增了“计算机历史记录”功能，可将你的操作转化为训练数据，学习你的工作方式，建议自动化操作，甚至接续你未完成的任务。该功能基于你的活动构建时间线，ChatGPT和Codex在响应请求时可参考。该功能为选择加入而非默认开启，你可以排除某些应用和网站，并可删除条目。OpenAI表示，该功能会自动忽略隐身或私人浏览器标签页中的内容。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+              "source_name": "The Verge",
+              "published_at": "2026-08-16T10:56:40-04:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "iOS 该有自己的 Material You 了",
+              "brief": "苹果在 iOS 18 中引入了图标着色，iOS 26 推出清晰图标，iOS 27 则带来 Liquid Glass 滑块，iPhone 个性化程度日益提升。既然主屏幕图标可着色，为何不将这一功能扩展到整个系统？虽然 iOS 27 尚未正式发布，但作者认为在浅色和深色模式之外增加主题色方案是合理下一步。这本质上是在 iOS 上复刻 Material You，但基于图标颜色而非壁纸，苹果也可能提供壁纸匹配选项。去年苹果已允许图标匹配 MagSafe 保护壳颜色，Xcode 也在 WWDC 上引入了配色主题。作者呼吁将这种趣味性带到 iPhone 上，并询问读者对 iOS 和 iPadOS 配色主题的看法。",
+              "source_url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-17T01:33:48+08:00"
+            }
+          ]
         }
       ]
     },
@@ -191,7 +218,43 @@
         },
         {
           "name": "cnBeta",
-          "articles": []
+          "articles": [
+            {
+              "title": "Canonical预测2026年底前Windows 11上的Ubuntu WSL安装量将超越原生版本",
+              "brief": "Canonical接受采访时表示，WSL用户基数显著增长，预计2026年底前，Ubuntu WSL用户数量将超越原生Ubuntu用户。过去一年WSL用户增长率远高于桌面版。微软持续优化WSL，改善文件系统性能、网络稳定性和初始设置，并推出WSL Containers功能。开发者反馈，雇主配备Windows电脑，但工作负载依赖Linux，他们选择通过WSL安装Ubuntu，而非格式化或双系统。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573470.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-16T23:30:46+08:00"
+            },
+            {
+              "title": "ZOTAC母公司预警2026下半年入门级显卡将迎严重短缺与价格飙涨",
+              "brief": "PC Partner Group预警，2026下半年入门级GPU将面临更严峻供应短缺，平均售价将大幅飙升。目前RTX 3050、RTX 5050、RX 9050等入门级显卡售价已高于官方建议零售价，但仍是预算有限玩家的主要选择。短缺归因于显存成本上涨，迫使供应商多次调价。低成本组装PC时代或走向终结。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573468.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-16T23:30:16+08:00"
+            },
+            {
+              "title": "英国剑桥投资2000万英镑培育微型人类器官 旨在提升药物测试效率并减少动物实验",
+              "brief": "剑桥大学投资2000万英镑建立新中心，培育类器官等微型人类器官，用于药物测试，旨在减少动物实验。类器官可展示疾病影响和药物反应，研究人员将开发炎症性肠病、肿瘤、脑类器官等。项目核心是提前进行人类组织药物测试，因动物实验成功的药物90%以上在人体临床试验中失败。尽管动物实验短期不会消失，但新模型有望大幅降低动物使用量。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1573466.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-16T23:29:40+08:00"
+            },
+            {
+              "title": "广岛大学最新研究：牙齿数量或成为预测胰腺癌术后生存期的重要线索",
+              "brief": "广岛大学研究显示，胰腺癌术后患者剩余自然牙齿数量与长期生存期相关。研究调查339名患者，发现拥有21颗以上牙齿的患者中位生存期60.7个月，20颗以下仅39.1个月。即使调整肿瘤分期等因素，关联依然显著。咀嚼功能本身与生存率无关，牙齿脱落可能反映慢性炎症、虚弱等整体脆弱性。研究提示口腔健康评估或可纳入胰腺癌患者管理。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1573464.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-16T23:27:29+08:00"
+            },
+            {
+              "title": "童年时期接触农药相关的化学物质或可改变女孩青春期时间",
+              "brief": "西班牙研究跟踪506名女孩，发现童年接触农药代谢物与初潮时间相关。乙撑硫脲浓度高者初潮较早，TCPy浓度高者初潮较晚，尤其在超重或肥胖者中明显。这些化学物质可能干扰内分泌，影响青春期启动。初潮过早或过晚均与健康风险相关。研究有助于监管机构评估农药暴露风险，欧盟已计划减少化学农药使用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1573462.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-16T23:26:48+08:00"
+            }
+          ]
         },
         {
           "name": "IT之家",
