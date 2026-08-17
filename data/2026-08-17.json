@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T14:50:11.640860+08:00",
+  "generated_at": "2026-08-17T16:50:16.682031+08:00",
   "sections": [
     {
       "category": "主要",
@@ -101,6 +101,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Peak Design新城市系列背包评测：集成挂钩设计令人着迷",
+              "brief": "Peak Design推出的全新City系列斜挎包和背包，其集成的BagLev挂钩设计让背包可以悬挂在椅子等物体上，避免接触地面污垢。这一巧妙设计获得了评测者高度评价，认为它解决了日常使用中背包无处安放的问题。评测者表示，这个看似简单的挂钩设计让他觉得旧包显得过时且不便。City系列延续了Peak Design的高品质工艺，兼顾功能性与美观性，适合都市通勤和旅行使用。",
+              "source_url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T03:00:00-04:00"
+            },
+            {
               "title": "据报道，OpenAI解散了其准备团队",
               "brief": "据《金融时报》报道，OpenAI在上个月底解散了其准备团队。该团队原本负责评估模型是否构成严重风险，并制定缓解措施。如今，这些职责被分散到生物、网络等特定领域，并纳入现有团队。这是OpenAI在迈向大规模IPO过程中，对安全团队的最新调整。此前，公司已解散AGI准备和超级对齐团队，并有多名安全高管离职，引发批评。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -146,6 +153,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Android 17 QPR 2 Beta 3 将蜂窝网络安全提升至新水平",
+              "brief": "Android 17 QPR 2 Beta 3 引入了 SIM 安全时间线，用于跟踪和存储调制解调器检测到的威胁记录，例如蜂窝网络对 IMEI/IMSI 的访问。新的 SIM 安全信息屏幕概述了通话、短信、紧急警报和数据流中使用的加密密码。此外，还发现了新的通知，可提醒用户注意更广泛的蜂窝攻击，如 DoS、干扰、监禁、降级和位置跟踪攻击。Google 在 Android 16 中首次推出了“移动网络安全”功能，最新的 Beta 版对其进行了升级，增加了跟踪时间线、加密详情和更广泛的攻击警告。该功能可帮助用户记录流氓基站等安全事件。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-17T16:43:17+08:00"
+            },
+            {
+              "title": "Anthropic 揭示 Claude 如何为 AI 文本添加隐形水印",
+              "brief": "Anthropic 公布了 Claude 文本水印系统的工作原理。该系统基于 Google DeepMind 的 SynthID-Text 技术，在生成文本时对低风险词汇选择进行随机化，从而嵌入水印。据称，水印对读者不可见，不影响内容质量，不添加隐藏字符，也不需要额外 token，且无法追溯到特定个人或组织。水印模式在文本中难以察觉，但可被检测。Anthropic 表示，水印用于区分 AI 生成文本，有助于防止滥用。此前，Google 和 OpenAI 已对 AI 图像采用 SynthID 水印，而文本水印一直是难题。",
+              "source_url": "https://www.androidauthority.com/how-claude-watermarks-text-3699100/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-17T15:33:03+08:00"
+            },
+            {
+              "title": "你的 Pixel 很快就能帮你诊断通话、移动数据和 Wi-Fi 问题",
+              "brief": "Google 正在为 Pixel 设备开发新的“连接健康”功能，可识别移动数据、通话和 Wi-Fi 问题，并提供逐步修复指导。该功能将在“网络与互联网”设置中提供，包括“移动数据诊断”、“通话诊断”和“Wi-Fi诊断”子选项。移动数据诊断可检查数据连接和速度，并建议改善连接，如调整私有 DNS 设置。诊断完成后会生成报告，并显示“正常”状态。通话和 Wi-Fi 诊断可能类似，但尚未完全开发。该功能旨在帮助用户更方便地排查常见连接问题。",
+              "source_url": "https://www.androidauthority.com/pixel-connectivity-health-diagnostics-apk-teardown-3699105/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-17T14:52:38+08:00"
+            },
+            {
               "title": "谷歌悄然复活Pixel双击锁屏手势",
               "brief": "Android Authority发现，谷歌似乎仍在开发Pixel手机的双击锁屏功能。在最新的Android 17 QPR2 Beta 3中，更新了相关字符串，增加了专属设置开关，并将描述从“双击锁屏空白处关闭屏幕”扩展为“双击主屏幕或锁屏空白处关闭屏幕”。该功能自2025年6月在Android 16 QPR1 Beta 1中被发现以来，尚未正式推出，但谷歌显然没有忘记，并在使其更加实用。",
               "source_url": "https://www.androidauthority.com/google-pixel-double-tap-lock-android-17-qpr2-beta-3-3699094/",
@@ -158,20 +186,6 @@
               "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/",
               "source_name": "Android Authority",
               "published_at": "2026-08-17T11:20:50+08:00"
-            },
-            {
-              "title": "三星手机隐藏设置快捷方式：如何启用",
-              "brief": "三星手机用户可通过Good Lock模块中的RegiStar启用设置快捷方式功能。首先从Galaxy Store下载Good Lock，在插件标签页找到RegiStar并安装，然后在RegiStar的搜索选项开启允许创建快捷方式。之后在设置应用中进入目标设置页面，记住标题，返回主页搜索该标题，长按结果即可添加至主屏幕。此功能可让常用设置更便捷访问，提升效率。",
-              "source_url": "https://www.androidauthority.com/samsung-phone-hidden-settings-shortcuts-how-to-use-3696140/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-16T17:00:07+08:00"
-            },
-            {
-              "title": "Airseekers Tron割草机器人评测：割草出色但存在缺陷",
-              "brief": "Airseekers Tron是一款具备自动割草和覆盖功能的机器人割草机，售价2099.99美元。其自主性、RTK精准定位和割草覆盖性能出色，能处理陡坡和较高草丛，电池续航和自动化功能良好。然而，其避障能力对小物体不可靠，前轮设计可能损伤草坪并影响割草质量，价格偏高。总体而言，它在开阔区域表现优秀，但细节处理有待改进。",
-              "source_url": "https://www.androidauthority.com/airseekers-tron-review-3686518/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-16T02:00:12+08:00"
             }
           ]
         }
@@ -276,25 +290,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "ChatGPT Mac版新增“计算机历史”功能，记录操作并生成AI时间线",
-              "brief": "ChatGPT for Mac推出类似微软Recall的“计算机历史”功能，通过辅助功能记录用户的点击、输入、应用切换等操作，上传服务器生成AI时间线和记忆。默认关闭，仅ChatGPT Pro用户可用，欧盟地区暂不支持。用户可回溯操作、生成工作总结、查找文档，或将重复工作转为自动化。记录本地保留48小时，处理后不用于训练。",
-              "source_url": "https://www.landian.news/archives/114330.html",
+              "title": "Stripe 以 70 亿美元收购全球最大 API 中转站 OpenRouter",
+              "brief": "支付平台 Stripe 宣布以超过 70 亿美元的价格收购 AI 初创公司 OpenRouter，该交易距离 OpenRouter 完成 1.13 亿美元 B 轮融资仅 3 个月，当时估值为 13 亿美元。OpenRouter 是全球规模最大的 API 中转站，支持超过 400 个模型，提供智能路由、自动故障转移、统一计费等功能，每周处理超过 25 万亿 tokens。其商业模式为按用户使用量抽成 5%。目前双方尚未发布官方消息，但交易已达成最终协议。",
+              "source_url": "https://www.landian.news/archives/126282.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-14T18:41:41+08:00"
+              "published_at": "2026-08-17T12:07:37+08:00"
             },
             {
-              "title": "火狐警告：若禁止谷歌搜索分成，火狐浏览器或面临死亡",
-              "brief": "谋智基金会向美国上诉法院提交意见，强调若禁止谷歌搜索支付分成，火狐将失去主要收入来源，可能彻底退出市场。火狐依赖谷歌搜索分成，曾尝试更换默认引擎但效果不佳。监管机构要求推翻允许分成的裁决，火狐称若改为必应，收入将大降，危及生存。",
-              "source_url": "https://www.landian.news/archives/114329.html",
+              "title": "Codex 可通过配置文件开启 1M 上下文窗口，但配额消耗更快",
+              "brief": "OpenAI 的 Codex 现在支持通过修改配置文件启用 1M 上下文窗口，此前该功能仅限 API 平台。技术经理蒂博表示，默认 272K 自动压缩已是最佳配置，开启 1M 窗口会更快消耗配额。用户可在 config.toml 中设置模型和窗口大小，例如 model = \"gpt-5.6-sol\"，model_context_window = 1000000。但建议谨慎使用，因为长上下文会增加 token 消耗，且现有对话无法修改。",
+              "source_url": "https://www.landian.news/archives/126281.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-14T17:50:21+08:00"
+              "published_at": "2026-08-17T11:47:17+08:00"
             },
             {
-              "title": "智谱发布GLM-5.3，编程与网络安全能力大幅提升，两周后开放权重",
-              "brief": "智谱推出GLM-5.3模型，基于GLM-5.2底座，通过扩大后训练规模提升长时程编程、智能体任务和网络安全能力。内部测试显示在真实项目中已发现2436个有效漏洞，包括1097个中高危漏洞。模型目前仍在安全评估中，预计两周后开放权重下载。",
-              "source_url": "https://www.landian.news/archives/114328.html",
+              "title": "爱快路由系统遭持续攻击，用户需立即升级固件",
+              "brief": "国内商业路由系统爱快（iKuai）发布安全公告，称近期遭到持续攻击，导致部分路由器 DNS 被篡改，用户访问网站被劫持到非法网站，并在凌晨 3-6 点出现断网现象。官方已定位部分受影响客户，并发布新版固件（4.0.307 及以上版本，旧版可升级至 3.7.24）以修复漏洞。攻击源头仍在溯源中，建议用户尽快升级固件以防范风险。",
+              "source_url": "https://www.landian.news/archives/126280.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-14T17:22:55+08:00"
+              "published_at": "2026-08-17T11:25:33+08:00"
+            },
+            {
+              "title": "SK 海力士固态硬盘故障后只提供原价退款，不换新",
+              "brief": "有网友分享 SK 海力士固态硬盘的售后经历，保修期内故障后，SK 海力士仅提供原价退款，不提供换新服务。其保修条款规定，退款金额为原购买价格或公平市场价值，以较低者为准。由于当前固态硬盘价格上涨，退款金额不足以购买同等规格产品，用户需自行补差价。这一政策在硬盘价格低时问题不大，但现在价格高，用户可能面临损失。",
+              "source_url": "https://www.landian.news/archives/126279.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-17T11:00:09+08:00"
+            },
+            {
+              "title": "ChatGPT 推出数字礼品卡，20 美元赠送 500 积分",
+              "brief": "OpenAI 推出 ChatGPT 数字礼品卡，可通过电子邮件向好友赠送 Codex 或 Work 积分，面额从 10 美元到 250 美元不等，例如 20 美元可赠送 500 积分。积分有效期 365 天，但实际消耗取决于 token 使用量，以 GPT-5.6 Sol 为例，百万输入消耗 125 积分。相比直接开通 Plus 订阅（20 美元/月），礼品卡价格较贵，且积分消耗快，性价比不高。",
+              "source_url": "https://www.landian.news/archives/126278.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-17T10:30:44+08:00"
             }
           ]
         },
@@ -342,39 +370,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "TrendForce：液冷散热成高端AI基础设施标配，预估2026年渗透率可达53%",
-              "brief": "随着AI芯片推陈出新，云服务供应商加速升级AI数据中心架构，预计液冷在AI芯片中的渗透率将从2025年的约33%上升至2026年的53%。谷歌率先导入液冷技术，覆盖其AI服务器比例超过80%。液冷系统包含水冷板、分歧管、冷却分配单元等关键设计，显著提升散热效率并改善电能使用效率。英伟达Vera Rubin平台全面导入无风扇全液冷架构，散热配置扩展至网卡、配电板、光模块等部件。目前水冷板主要供应商包括酷冷至尊、奇鋐科技、宝德和双鸿科技，其中奇鋐科技已切入多家厂商的AI ASIC平台供应链。",
-              "source_url": "https://www.ithome.com/0/990/633.htm",
+              "title": "吉利汽车管理层调整：李书福辞任董事会主席，安聪慧接任",
+              "brief": "吉利汽车宣布管理层调整，李书福辞任董事会主席及执行董事，获任终身荣誉主席，继续担任吉利控股集团董事长。安聪慧接任董事会主席，李东辉辞任副主席，桂生悦辞任行政总裁并任副主席，淦家阅获任行政总裁。同时，吉利发布2026财年半年报，营业总收入1736亿元，同比增长15%；归母净利润90.91亿元，同比下降2%。",
+              "source_url": "https://www.ithome.com/0/990/710.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-17T14:47:17+08:00"
+              "published_at": "2026-08-17T16:49:34+08:00"
             },
             {
-              "title": "《国际单位制及应用标准》30多年来重大修订，市场监管总局公开征求意见",
-              "brief": "市场监管总局就强制性国家标准《国际单位制及应用标准》修订草案公开征求意见。此次修订是继1993年发布实施30多年来的重大更新，紧跟国际计量大会决议与国际标准变化。核心变化包括：明确以物理常数新定义的7个基本单位为基础；取消“辅助单位”分类，将弧度、球面度纳入导出单位；词头总数由20个增至24个，新增容[那]、昆[它]、柔[托]、亏[科托]；将天文单位、道尔顿等纳入与SI并用的法定计量单位表。修订旨在保障计量单位统一规范，与国际接轨。",
-              "source_url": "https://www.ithome.com/0/990/632.htm",
+              "title": "豆包“工作任务”模式上新，支持手机远程操作电脑",
+              "brief": "豆包“工作任务”模式新增功能，支持手机远程操作电脑。用户出门后可用手机调用电脑本地文件，确认版本、转换格式、回传手机；临时收到反馈时，可让电脑端制作总结和图表发送至手机；还能联动两台电脑调取文件。该功能旨在提升跨设备办公效率，适用于文件传输、复杂任务处理等场景。",
+              "source_url": "https://www.ithome.com/0/990/699.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-17T14:41:50+08:00"
+              "published_at": "2026-08-17T16:40:12+08:00"
             },
             {
-              "title": "格力电器董事长董明珠一行到雄安新区考察调研",
-              "brief": "格力电器董事长董明珠一行到雄安新区考察调研，与新区领导会谈。董明珠表示，格力将发挥技术、产业、品牌优势，深度嵌入雄安产业链，围绕“好房子”建设、新能源储能、智能制造等领域合作，推动创新项目落地。她看好雄安发展前景，将把企业创新成果融入未来之城建设。此前，格力已在雄安落地城市智慧能源管控系统及智能家居解决方案。8月15日，董明珠还参加了在雄安举行的2026河北格力电器秋季旺销启动会。",
-              "source_url": "https://www.ithome.com/0/990/631.htm",
+              "title": "银昕工作站机箱 ALTA T2 上市，售价10999元",
+              "brief": "银昕推出工作站机箱ALTA T2，售价10999元。该机箱支持13.2英寸特规、XL-ATX、SSI-EEB及以下尺寸主板，兼容411mm扩展卡，配备多卡显卡支架。内置12个3.5/2.5英寸硬盘位和3个2.5英寸盘位，预装2颗180mm和1颗120mm风扇，可安装3组420冷排，支持PS2/ATX或2U CRPS冗余电源。",
+              "source_url": "https://www.ithome.com/0/990/691.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-17T14:39:16+08:00"
+              "published_at": "2026-08-17T16:36:05+08:00"
             },
             {
-              "title": "小米17 Pro系列手机支付宝背屏亮码全新上线，支持付款、乘车两种高频场景",
-              "brief": "小米17 Pro系列手机“妙享背屏”新增支付宝背屏亮码功能，支持付款码和乘车码，提升日常使用便捷性。该功能与实时天气壁纸、隐身模式、对话翻译等一同构成背屏生态。小米集团总裁卢伟冰曾表示，小米17系列是数字史上最畅销的产品。此次背屏亮码的上线，进一步丰富了背屏的应用场景，满足用户高频支付和出行需求。",
-              "source_url": "https://www.ithome.com/0/990/630.htm",
+              "title": "韩国多地出台中小学限用智能手机措施",
+              "brief": "韩国多地教育部门出台限制中小学生在校使用智能手机的措施。京畿道教育厅计划年底前将300所学校列为“无手机校园”，禁止使用与教学无关的智能手机，并增加阅读、艺术和体育活动。江原道计划发放1万部无上网功能的“洁净手机”，大邱和全罗北道也将启动试点。教育部计划9月在200所学校试点，2027年扩至400所。",
+              "source_url": "https://www.ithome.com/0/990/688.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-17T14:31:55+08:00"
+              "published_at": "2026-08-17T16:31:41+08:00"
             },
             {
-              "title": "一夜暴富的AI亿万富豪：买房之后，狂扫私人飞机、超跑、游艇",
-              "brief": "AI热潮催生了一批新富豪，他们先购置房产，随后在私人飞机、超级跑车和游艇上大手笔消费。旧金山房价因此上涨，独栋住宅中位价达210万美元。这些新贵注重实用、私密和健康，偏好加密货币支付，并追求独特定制。私人飞机、兰博基尼、法拉利等品牌迎来年轻客户，保时捷等也在吸引这一群体。经销商表示，AI财富人群最看重独特性，愿意为定制化支付溢价。",
-              "source_url": "https://www.ithome.com/0/990/629.htm",
+              "title": "赵长江详解智界RX 250km/h高环变道挑战难点，称还有惊喜",
+              "brief": "赵长江详解智界RX汽车250km/h高环变道挑战的难点：车身倾斜幅度需锁定在极小范围，轮胎侧向附着力达临界状态，横向动态体感控制精细。他强调极限变道只是开胃菜，还有更多操控惊喜。此前，智界RX首发华为智擎新一代高性能电驱，搭载华为途灵平台，决策链路延时小于1ms，电机扭矩响应时间1ms。",
+              "source_url": "https://www.ithome.com/0/990/687.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-17T14:31:35+08:00"
+              "published_at": "2026-08-17T16:24:11+08:00"
             }
           ]
         }
