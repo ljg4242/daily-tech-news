@@ -1,0 +1,363 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T01:37:55.877226+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "苹果发布iOS 27和iPadOS 27第六个测试版",
+              "brief": "苹果今天面向开发者发布了iOS 27和iPadOS 27的第六个测试版，距离第五个测试版发布已有一周。开发者可通过iPhone或iPad的设置应用下载更新。iOS 27引入了更智能的Siri AI，类似ChatGPT的聊天机器人，结合通用知识、个人数据和屏幕感知来回答问题。此外，照片、Safari、快捷指令、钱包和密码等应用新增了Apple Intelligence功能，还推出了独立的Siri应用。系统还改进了Liquid Glass外观，并提供了透明度调节滑块，同时进行了多项性能优化，使应用启动、AirDrop传输和键盘响应更快。",
+              "source_url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T01:19:28+08:00"
+            },
+            {
+              "title": "苹果发布macOS Golden Gate第六个测试版",
+              "brief": "苹果今天向开发者发布了macOS Golden Gate的第六个测试版，距第五个测试版发布已有一周。开发者可通过系统设置>通用>软件更新下载。此版本改进了Liquid Glass的透明度以提升可读性，新增透明度控制滑块，并优化了窗口阴影效果。应用工具栏统一，侧边栏改为通栏，圆角减少。Siri升级为Siri AI，支持聊天式交互，可结合个人数据和屏幕内容回答问题。新增“用Siri写作”功能，照片应用加入AI编辑工具，Safari支持AI标签整理，密码应用可自动更新弱密码。",
+              "source_url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T01:18:36+08:00"
+            },
+            {
+              "title": "苹果发布watchOS 27第六个测试版",
+              "brief": "苹果今天面向开发者发布了watchOS 27的第六个测试版，距第五个测试版发布已有一周。开发者可通过iPhone上的Watch应用下载，但Apple Watch需连接充电器、Wi-Fi且电量不低于50%。watchOS 27引入了Siri AI，支持多轮对话，并可访问通用知识和个人数据。新增动态应用网格和更智能的智能叠放建议。Liquid Glass界面改进，Workout Buddy在无iPhone时也可使用，并新增渐进式运动指标。还新增了集成查找我的应用，支持精确查找，并优化了电池续航。",
+              "source_url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T01:17:40+08:00"
+            },
+            {
+              "title": "苹果发布tvOS 27第六个测试版",
+              "brief": "苹果今天向开发者发布了tvOS 27的第六个测试版，距第五个测试版发布已有一周。开发者可通过Apple TV的设置应用下载，需要免费开发者账户。tvOS 27相比其他系统更新功能较少，但新增了重新设计的播客应用、更大的文本选项和更灵敏的控制中心。从其他苹果设备AirPlay到Apple TV的速度更快，应用和动画更流畅。此外，设置应用中现在可以查看AppleCare覆盖详情。",
+              "source_url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T01:16:22+08:00"
+            },
+            {
+              "title": "苹果发布visionOS 27第六个测试版",
+              "brief": "苹果今天向开发者发布了visionOS 27的第六个测试版，距第五个测试版发布已有一周。开发者可通过设置>软件更新>测试版更新安装。visionOS 27引入了Siri AI，可回答用户正在查看的任何问题，并新增可放置在虚拟空间中的Siri球体。全景照片可转换为空间环境，新增冰岛索斯莫克环境，支持极光。Web环境支持允许开发者创建360度环境。应用窗口变为曲面，控制中心重新组织，新增更小的组件尺寸，通知可自动展开。",
+              "source_url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T01:15:37+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "苹果发布 iPadOS 27、tvOS 27 等第六个测试版",
+              "brief": "苹果即将在一个月后发布下一代主要软件更新，测试周期即将结束。今天，苹果向开发者发布了 iPadOS 27、tvOS 27、visionOS 27 等全平台第六个开发者测试版，紧随 iOS 27 和 macOS Golden Gate 之后。上周，第五个测试版在相隔三周后发布，引入了重新设计的 Siri、Safari、预览等应用图标，新增 Siri 语音自定义选项，设置中的新搜索选项，以及 iCloud+ 中关于 AI 使用限制的详细信息等。现在，苹果似乎已转为每周发布测试版，第六个测试版可能侧重于性能改进和错误修复。预计在正式发布前还会有几个测试版，苹果将确保这些更新尽可能稳定流畅。我们会持续报道新发现。你安装了 iPadOS 27 或其他更新的测试版吗？发现新功能了吗？欢迎在评论中告诉我们。",
+              "source_url": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T01:22:59+08:00"
+            },
+            {
+              "title": "macOS 27 Golden Gate 开发者测试版 6 现已可用",
+              "brief": "随着正式发布临近，苹果现已向开发者推送 macOS 27 Golden Gate 第六个测试版。上周的测试版 5 为 Siri、国际象棋、Safari 等应用引入了新图标，但未带来其他显著功能或问题。macOS 27 Golden Gate 引入了专用 Siri 应用，统一了窗口和应用圆角，并在快捷指令和 Safari 中添加了 AI 功能，允许用户通过简单提示创建扩展和自动化。系统还新增了 Safari 的拉刷新手势，被视为苹果为触屏 MacBook Pro 铺路的早期信号。此外，iPhone 镜像应用得到改进，支持调整窗口宽高比，这被解读为可折叠 iPhone Ultra 的预兆。安装方法：备份 Mac，打开系统设置 > 通用 > 软件更新，点击 Beta 更新旁边的“i”图标，选择 macOS 开发者 Golden Gate Beta。你发现新变化了吗？欢迎评论。",
+              "source_url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T01:19:01+08:00"
+            },
+            {
+              "title": "iOS 27 测试版 6 发布，苹果测试重大 Siri AI 升级",
+              "brief": "苹果发布了第六个开发者测试版，可通过设置应用下载。iOS 27 是苹果最注重 AI 的 iPhone 更新之一，重点是新 Siri AI，由下一代 Apple Intelligence 和新基础模型驱动，带来更丰富的对话、个人上下文、屏幕感知和更深入的应用操作。Siri AI 在 iPhone 上获得与灵动岛集成的新视觉体验，并新增专用 Siri 应用。视觉智能也加入，包括相机应用中的 Siri 模式和改进的相机控制。Apple Intelligence 扩展到照片、Safari、密码、邮件、信息、电话、快捷指令、家庭等应用。此外，iOS 27 还改进了 Liquid Glass 设计，增加透明度滑块，优化应用启动、照片加载、低电量模式相机启动、AirDrop 传输和 Wi-Fi 至蜂窝网络切换性能。",
+              "source_url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T01:18:41+08:00"
+            },
+            {
+              "title": "AirBuddy 3 发布，带来全新 Action HUD、小组件、Now Playing 及更深度自动化",
+              "brief": "AirBuddy 3 现已推出，包含超过 150 项新功能和改进，包括重新设计的界面、新的自动化和自定义工具、Now Playing 小组件，以及更可靠的 Magic Handoff 系统。启动后，用户会发现重新设计的 Action HUD，可置于屏幕顶部任意位置，并支持大小布局切换。应用还重新设计了仪表盘，支持 macOS Tahoe 及更高版本上的 Liquid Glass。Action HUD 可自定义显示信息，包括电池警报。在带刘海屏的 MacBook 上，支持的事件可以紧凑界面集成到摄像头外壳中。AirBuddy 3 的自定义小组件可显示在桌面上，提供设备电池电量、AirPods 控制和媒体播放等信息。Now Playing 是最大新增功能之一，允许用户从桌面、锁屏、Action HUD 或小组件查看专辑信息和播放控制。此外，自动化能力显著扩展，AppleScript 现在可以检查设备状态等。",
+              "source_url": "https://9to5mac.com/2026/08/17/airbuddy-3-now-available-with-new-action-hud-widgets-now-playing-deeper-automation-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T01:00:06+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro：下月将推出的六项新功能",
+              "brief": "传闻 iPhone 18 Pro 将带来六项新功能：重新设计：灵动岛缩小、背面统一；A20 Pro 芯片，采用 2nm 工艺和 WMCM 封装，性能、效率和 AI 任务将大幅提升；可变光圈主摄像头，提供更好的景深控制，以及更广光圈的远摄镜头和更多 Pro 级相机功能；最佳电池续航；其他改进。设计上，Face ID 组件移至屏下，使灵动岛更小；背面颜色融合铝和玻璃区域，实现统一外观；颜色选项包括深樱桃/酒红色。这些功能将使 iPhone 18 Pro 成为重大升级。",
+              "source_url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-17T23:33:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Find Hub为Wear OS新增基础“找人”应用",
+              "brief": "Find Hub更新至1.0.429.0版本，为Wear OS带来基础“找人”功能。该功能图标为绿色雷达样式，点击后显示“可以看到您位置的人”列表及时间。但打开联系人页面后并未显示地图，仅提示对方“可以看到您的位置，直到您关闭”，并提供“在手机上查看他们的位置”的链接。目前尚不清楚这是预期行为还是缺少服务器端更新。此外，点击主屏幕的“设置”会启动完整的Google Play服务，存在Bug。",
+              "source_url": "https://9to5google.com/2026/08/17/find-hub-people-wear-os/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-18T01:25:56+08:00"
+            },
+            {
+              "title": "三星Galaxy设计或弃“核心身份”转向Pixel相机条——确实需要改变",
+              "brief": "三星Galaxy手机一直采用垂直相机设计，从旗舰到入门机型均如此。但最新专利显示，三星可能考虑采用类似Pixel的水平相机布局。这种设计曾在Galaxy S10系列上出现，后遭弃用。作者认为，三星的垂直设计是“最普通的设计”，且阻碍了Qi2无线充电标准的采用，因为磁吸配件会遮挡相机镜头。作者希望三星能做出改变，拥抱Qi2标准，以提升用户体验。",
+              "source_url": "https://9to5google.com/2026/08/17/samsung-galaxy-google-pixel-camera-bar-rumors/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-18T01:15:00+08:00"
+            },
+            {
+              "title": "Pixel Recorder更新带来全新Pixel 11应用图标",
+              "brief": "Pixel Recorder应用更新至4.2.20260709.960184543版本，图标从红色背景白色波形改为白色背景红色波形，细节减少。快速设置磁贴和媒体播放器图标也已同步更新。此前，计算器、相机、时钟和天气等应用已更新图标，Journal、My Pixel、Now Playing和Screenshots也已采用新样式。功能上无重大变化，但三点菜单中“编辑标题”更突出，“删除”不再是第一选项。",
+              "source_url": "https://9to5google.com/2026/08/17/pixel-recorder-new-icon/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-18T00:40:08+08:00"
+            },
+            {
+              "title": "促销：百思买60周年庆、Pixelsnap保护壳八折、Copilot+ PC最高降$1,350、Nothing Headphone (a)等",
+              "brief": "今日9to5Toys午餐休息时间带来众多折扣：百思买对谷歌所有新款Pixelsnap保护壳提供20%折扣，Copilot+ PC和游戏笔记本最高降价$1,350，OLED电视起价$700，58英寸型号仅$190。亚马逊的Nothing Headphone (a)创历史新低，折扣近30%。此外，亚马逊对Pixel 11 Pro XL提供额外$150折扣（使用代码PIXEL11），并与$200礼品卡和以旧换新叠加。",
+              "source_url": "https://9to5google.com/2026/08/17/deals-best-buy-anniversary-sale-nothing-headphone-a/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-17T23:46:20+08:00"
+            },
+            {
+              "title": "谷歌称Pixel 11新MediaTek调制解调器“更快更省电”",
+              "brief": "谷歌Pixel 11系列搭载Tensor G6芯片，采用MediaTek调制解调器，取代了以往的三星方案。谷歌在商店中宣称新调制解调器“可靠、更快、更省电”，但注脚称该结论基于实验室受控条件下的预生产设备。三星调制解调器曾导致性能不佳、电池消耗和过热问题，谷歌希望此次更换能全面改善体验。实际表现需待评测验证。",
+              "source_url": "https://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-17T22:45:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "这款不到7000美元的跑车或许正是未来所需",
+              "brief": "Gasolini AR1采用本田两缸摩托车发动机，售价低于7000美元，并且还在开发电动版本。在蒙特雷汽车周上，超级跑车和经典改装车价格动辄数百万美元，而这款手工打造的低成本、高效且极其便宜的汽车，为驾驶爱好者提供了一种可能的未来。它证明了汽车的未来不仅仅是增加动力和速度。",
+              "source_url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-17T23:01:25+08:00"
+            },
+            {
+              "title": "英伟达披露持有SpaceX 210亿美元股份",
+              "brief": "英伟达在SEC文件中披露，截至6月底持有SpaceX近1.23亿股，价值近210亿美元。这笔投资源于英伟达对xAI的投资，在马斯克将AI实验室与SpaceX合并前完成。SpaceX在首次公开财报电话会议上宣布与英伟达达成独家合作，为其数据中心配备芯片。英伟达在过去两年向AI公司承诺超过1000亿美元投资。",
+              "source_url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-17T22:22:54+08:00"
+            },
+            {
+              "title": "历史上唯一已知的投石机伤亡者",
+              "brief": "在中世纪围攻中，一块小巨石以近300公里时速击中一名守军背部，造成其上半身骨骼粉碎。这具被称为“骨架150”的遗骸在苏格兰斯特灵城堡的小教堂下被发现，是历史上已知的唯一投石机伤亡案例。布拉德福德大学的古病理学家乔·巴克伯里在欧洲古病理学协会会议上展示了这一研究，凸显了中世纪战争的残酷。",
+              "source_url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-17T21:41:35+08:00"
+            },
+            {
+              "title": "卫星运营商因发射危机加剧而陷入恐慌",
+              "brief": "尽管发射行业看似繁荣，但发射可用性日益紧张。Quilty Space研究总监表示，行业处于恐慌状态。Telesat收到共享猎鹰9号发射的请求，亚马逊LEO星座因发射延误而减产，AST SpaceMobile称发射可用性成为部署星座的瓶颈。商业航天联合会预测未来十年每年需数千次发射，但火箭供应不足，若猎鹰火箭停飞，西方发射市场将陷入困境。",
+              "source_url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-17T19:00:26+08:00"
+            },
+            {
+              "title": "野火烟雾对产前健康的威胁已超过人为空气污染",
+              "brief": "一项新研究显示，野火烟雾正抵消减少车辆和工业排放带来的产前空气质量改善。自1970年清洁空气法案通过以来，六种有害空气污染物排放减少近80%，但野火烟雾使空气质量恶化，对低收入、农村和原住民孕妇影响尤甚。研究人员指出，气候变化加剧野火，使胎儿暴露于更危险的污染中。",
+              "source_url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-16T18:00:59+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": [
+            {
+              "title": "CMF Buds 3？Nothing 子品牌预告神秘新品",
+              "brief": "CMF 在 X 平台发布预告，暗示即将推出新品。图片展示了一款耳机，底部视角可见白色耳机柄、双麦克风、金属银机身和橙色硅胶耳塞。这可能是 CMF Buds 系列的第三代产品，目前系列包括 Buds 2、Buds 2a、Buds 2 Plus 和 Buds Pro 2。具体型号和发布时间尚未公布，但预计近期会有更多细节。",
+              "source_url": "https://www.androidauthority.com/cmf-buds-3-teaser-3699434/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T01:20:45+08:00"
+            },
+            {
+              "title": "GoPro HERO13 Black 套装降至历史低价 354.99 美元",
+              "brief": "亚马逊将 GoPro HERO13 Black 配件套装降至 354.99 美元，比建议零售价 479.99 美元便宜 125 美元，折扣 26%，为历史最低。套装包含相机、漂浮手柄、2 块 Enduro 电池、2 个曲面粘性支架、64GB microSD 卡和收纳盒。HERO13 支持 5.3K/60 视频和 27MP 照片，电池容量 1900mAh，适合旅行和运动。",
+              "source_url": "https://www.androidauthority.com/gopro-hero13-black-bundle-deal-2-3699431/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T00:34:53+08:00"
+            },
+            {
+              "title": "可穿戴设备分化成两大阵营，Garmin 在高端市场胜出",
+              "brief": "Omdia 数据显示，2026 年第二季度腕戴式设备出货量同比下降 2%，但市场正分化为无屏追踪器和高端运动手表。Garmin 在智能手表市场份额从 11% 增至 15%，而三星和苹果份额下滑。无屏追踪器出货量占比超 15%，消费者追求精准健康数据或避免干扰，中端产品受冷落。",
+              "source_url": "https://www.androidauthority.com/wearable-shipments-fall-smartwatch-market-screenless-trackers-3699350/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T00:11:59+08:00"
+            },
+            {
+              "title": "Nothing Headphone (a) 在亚马逊降至历史新低",
+              "brief": "Nothing Headphone (a) 在亚马逊售价降至 145.42 美元，原价 199 美元，折扣 27%，为历史最低。该耳机 2026 年 3 月发布，支持主动降噪、LDAC、USB-C 和 3.5mm 有线连接，可通过 Nothing X 应用自定义控制。续航和舒适度获好评，评分 4.5 星，性价比高。",
+              "source_url": "https://www.androidauthority.com/nothing-headphone-a-deal-3699421/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T00:06:00+08:00"
+            },
+            {
+              "title": "谷歌 Pixel 11 广告泄露神秘健身追踪器",
+              "brief": "Reddit 用户发现 Pixel 11 广告中多次出现一款带屏幕的健身追踪器，外观类似 Charge 系列，而非 Pixel Watch 5 或 Fitbit Air。该设备在多个 YouTube 广告中亮相，但谷歌未确认其身份。可能为 Fitbit Charge 7 或更便宜的 Pixel Watch，但尚无确凿证据。谷歌现有穿戴产品包括 Pixel Watch 5 和 Fitbit Air。",
+              "source_url": "https://www.androidauthority.com/google-fitness-tracker-ad-leak-3699347/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-17T23:33:19+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "YouTube改变观看计数方式以提升数据",
+              "brief": "YouTube将调整观看次数统计方式，从视频开始播放即计为一次观看，与Instagram、TikTok及Shorts的计数方式保持一致。该更新将于8月24日生效，创作者的总观看次数可能会更快增长。此前，YouTube已对Shorts采用此计数法。同时，YouTube将在分析仪表板中保留原有计数法作为“参与观看”指标。此举旨在使数据更具竞争力。",
+              "source_url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T13:13:03-04:00"
+            },
+            {
+              "title": "Analogue Pocket推出Supreme联名红金配色",
+              "brief": "Analogue与Supreme合作，推出金属质感红金配色的Analogue Pocket掌机，作为Supreme 2026秋冬系列的一部分。该掌机采用一体式铝制机身，有24K镀金和定制红色亮面两种款式，正面和背面均印有Supreme标志。目前官方尚未公布售价，标准版Pocket售价239.99美元。该系列还包括其他科技产品。",
+              "source_url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T12:40:32-04:00"
+            },
+            {
+              "title": "Sonos iOS应用终于支持锁屏实时活动控制",
+              "brief": "Sonos更新了其iOS应用，新增对Live Activities的支持，让iPhone用户无需解锁手机即可在锁屏上控制播放。该功能此前被用户多次要求，现已上线。锁屏控制可显示基本信息和播放控制，但不支持显示专辑封面。Android版Sonos应用早已具备类似功能，此次更新是CEO Tom Conrad此前预告的。",
+              "source_url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T12:38:35-04:00"
+            },
+            {
+              "title": "特朗普的愚蠢边境墙",
+              "brief": "美国拥有世界上最先进的“智能”监控系统，但特朗普政府仍坚持建造对环境破坏巨大的实体边境墙。文章批评了在德克萨斯州大弯曲国家公园等地进行的筑墙工程，认为这是不必要且有害的。作者质疑，既然有高科技手段，为何还要采用这种老式且破坏生态的做法。",
+              "source_url": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T12:30:00-04:00"
+            },
+            {
+              "title": "德国监管机构要求苹果停止诱导用户拒绝第三方应用追踪",
+              "brief": "德国联邦卡特尔办公室指责苹果的App跟踪透明度提示设计偏向自家应用，要求其修改。苹果的提示在iOS 14.5推出后，曾导致社交媒体应用损失近100亿美元。作为欧盟DMA下的“守门人”，苹果面临更严格的审查，监管机构认为其提示引导用户拒绝第三方应用的数据使用，同时鼓励用户同意苹果应用收集数据。",
+              "source_url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+              "source_name": "The Verge",
+              "published_at": "2026-08-17T11:10:25-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "IGN",
+          "articles": []
+        },
+        {
+          "name": "Solidot",
+          "articles": []
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "开源下载工具 Motrix 2.0.0 测试版发布，消失 3 年再次更新，支持 AI Agent 控制下载",
+              "brief": "Motrix 是一款开源下载工具，支持 HTTP、FTP、BT、磁力链等多种下载方式。时隔三年，Motrix 2.0.0 测试版（v2.0.0-beta.12）发布，这是一次彻底重构，除了新的桌面界面，还加入了 Server、CLI、插件系统，以及跨设备任务管理能力。桌面端和 Server 共用下载核心，支持任务恢复、Tracker、UPnP/NAT-PMP，并提供 Docker 镜像。CLI 工具让 AI Agent 也能控制 Motrix，可安装 Skill 到 Claude，实现自然语言下载、暂停、查看速度等操作。目前为测试版，部分功能可能不稳定。",
+              "source_url": "https://www.appinn.com/motrix2-b12/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-16T15:08:32+08:00"
+            },
+            {
+              "title": "LocalSend 时隔18个月更新，发布第一个 LocalSend CLI 版本，可通过命令行传输文件",
+              "brief": "跨平台文件传输工具 LocalSend v1.18.0 发布，这是 18 个月以来的首次更新。新增了 CLI 版本，可通过命令行发送文件，但目前是 TUI 程序，需手动选择设备，不支持直接指定设备。其他更新包括：通过链接接收文件、IPv6 支持、文件校验（Checksum）、收藏设备自动接受文件、文件大小十进制显示、优化大文件传输时间显示、重复文件命名格式，以及 Android 后台传输、Windows 分享菜单、macOS 防火墙优化、Linux 原生窗口装饰等。CLI 版本需单独下载，适合自动化场景，但尚不适合 AI Agent 直接使用。",
+              "source_url": "https://www.appinn.com/localsend-cli/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-14T19:32:13+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "RX 9050性能测试：1080P落后RTX 5050 20%",
+              "brief": "RX 9050显卡拥有16组RDNA 4架构CU单元，共1024个流处理器，32MB无限缓存，游戏频率1920MHz，加速频率最高2600MHz，TBP仅92W，单8pin供电。8GB版显存位宽128bit，带宽288GB/s；4GB版仅面向OEM。1080P下平均帧率49FPS，比RTX 5050低20%，比RX 7600低22%，甚至不如Arc A770。2K下平均33FPS，与RTX 5050相当。售价约280美元，性价比不高，功耗低是最大优势。建议考虑二手显卡或Arc B580，或加钱上RX 9060 XT。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1573630.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-17T23:20:08+08:00"
+            },
+            {
+              "title": "宇树科技：将于8月19日科创板上市",
+              "brief": "宇树科技将于8月19日在科创板上市，成为A股“人形机器人第一股”。2026年第一季度营收4.23亿元，同比增长68.49%；归母净利润5001.38万元，同比下降47.69%。预计上半年营收10.52亿至11.28亿元，同比增长35.62%至45.41%；归母净利润2.58亿至3.06亿元，扭亏为盈。上市初期无限售流通股3008.77万股，占总股本7.44%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573628.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-17T23:19:25+08:00"
+            },
+            {
+              "title": "OpenAI总裁回应高管流失潮：并非十分反常",
+              "brief": "OpenAI总裁格雷格·布罗克曼回应近期高管离职潮，称并非十分反常。首席营收官德雷瑟任职仅8个月后离职，此前负责企业业务板块。另一位资深高管布拉德·莱特卡普在任职八年后离开。OpenAI任命达利·拉吉奇为新任首席营收官。布罗克曼在投资者会议上感谢德雷瑟贡献，并表示公司发展历经不同阶段，管理团队多元性使公司更强大。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573626.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-17T23:18:03+08:00"
+            },
+            {
+              "title": "年轻人普遍对科技巨头CEO在人工智能领域的责任感缺乏信任",
+              "brief": "一项针对年轻人的调查显示，他们对科技巨头CEO在AI领域的责任感普遍缺乏信任。微软CEO纳德拉信任度最高，仅35%；OpenAI CEO奥特曼31%；马斯克和扎克伯格分别为30%和29%；黄仁勋、皮查伊、阿莫代伊等更低；Palantir高管垫底。45%的受访者认为AI将对职业生涯产生负面影响，60%呼吁放缓数据中心扩张。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1573624.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-17T23:17:19+08:00"
+            },
+            {
+              "title": "天文学家或发现全新天体“黑洞星”：太阳系大小 内含十万倍太阳质量黑洞",
+              "brief": "天文学家可能发现一种全新天体“黑洞星”，其大小如太阳系，中心存在质量达太阳十万倍的黑洞，周围包裹着庞大的气体包层。该发现源于韦伯望远镜的MoM观测项目，光谱分析显示强烈的巴耳末阶跃，远超普通恒星，且几乎没有重元素迹象。这一发现或有助于解释早期宇宙中神秘“小红点”天体的谜团。研究已发表在《自然》杂志。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1573622.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-17T23:16:55+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "华为鸿蒙装机量突破8000万台，向1亿目标迈进",
+              "brief": "据第三方统计平台数据，华为鸿蒙操作系统终端设备装机量已突破8000万台，较7月初的7000万台增长约47天，日均增量约17万台。此前余承东曾透露鸿蒙系统用户规模正急剧增长，预计冬季前突破1亿。截至2026年6月，鸿蒙开发者超1100万，应用与服务超38万。市场研究机构数据显示，2026年第一季度鸿蒙在中国市场份额达19%，超越苹果iOS，重回第二大智能手机操作系统。",
+              "source_url": "https://www.ithome.com/0/990/860.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-18T00:24:23+08:00"
+            },
+            {
+              "title": "LG发布xboom Power系列派对音箱，支持AI卡拉OK",
+              "brief": "LG推出xboom Power系列旗舰派对音箱，包含Power 9000、7000和5000三款型号，功率分别为440W、340W和260W，面向不同规模聚会。全系配备多彩AI灯效、DJ效果和双麦克风输入，支持AI卡拉OK大师功能，可转换歌曲为伴奏、调整音调或去除人声。此外，音箱具备AI音效优化，可根据音乐类型和环境自动调整，并支持Auracast多台连接同步播放。",
+              "source_url": "https://www.ithome.com/0/990/859.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-17T23:57:27+08:00"
+            },
+            {
+              "title": "智界RX轿跑SUV新色曝光，8月20日开启预订",
+              "brief": "鸿蒙智行智界RX轿跑SUV曝光“极光绿”和“星玫粉”新配色，新车将于8月20日开启预订。智界RX定位中大型纯电轿跑SUV，基于华为途灵平台，车身尺寸5020×2007×1585mm，轴距3000mm，提供单电机后驱和双电机四驱，首发华为智擎新一代高性能电驱，成功挑战超250km/h高环变道。",
+              "source_url": "https://www.ithome.com/0/990/858.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-17T23:53:56+08:00"
+            },
+            {
+              "title": "iQOO Neo11至尊版官宣搭载Monster超核引擎，支持60帧极高画质",
+              "brief": "iQOO Neo11至尊版手机官宣搭载新一代Monster超核引擎，支持《开放世界手游》60帧+极高画质。新机配备8K冰穹3D VC散热，均热性能提升5%，CPU 10秒骤降15℃。通过KPL比赛用机测试认证，适配《暗区突围》120帧全地图光线追踪。核心配置包括天玑9500M、自研Q2电竞芯片、6.83英寸2K 144Hz直屏、9100mAh电池和100W快充。8月18日发布开售。",
+              "source_url": "https://www.ithome.com/0/990/857.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-17T23:46:28+08:00"
+            },
+            {
+              "title": "保时捷北美CEO：只要法规允许，将尽可能推出手动挡车型",
+              "brief": "保时捷北美CEO表示，只要法规允许且市场有需求，将尽可能推出手动挡车型。消费者对手动变速箱的需求预计持续到2030年代。保时捷推出新款手动挡911 Carrera S，定位介于Carrera T和GT3之间，搭载473马力水平对置六缸发动机。目前保时捷共有7款手动挡车型，其中GT3买家超半数选择手动，GT3 Touring比例高达80%。",
+              "source_url": "https://www.ithome.com/0/990/856.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-17T23:44:42+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
