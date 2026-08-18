@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T11:35:37.863817+08:00",
+  "generated_at": "2026-08-18T13:35:48.105804+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "底比斯古墓揭示埃及丧葬习俗的演变",
+              "brief": "一项新研究通过分析底比斯墓地中的209号墓，揭示了埃及丧葬习俗在数百年间的演变。该墓始建于第25王朝早期，后遭洪水反复侵袭，并在托勒密时期被废弃。考古学家采用综合考古学方法，记录遗体姿态、棺木使用、叠压关系等，发现丧葬方式从个人精美棺木葬逐渐转变为对早期墓地的重复利用，导致埋葬密度增加，甚至出现遗体叠葬现象。研究为理解古埃及社会变迁提供了新视角。",
+              "source_url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-18T12:00:40+08:00"
+            },
+            {
               "title": "美国疫苗接种率再次下降，豁免率持续上升",
               "brief": "美国疾病控制与预防中心（CDC）发布的数据显示，2025-2026学年美国幼儿园儿童的疫苗接种率再次下降，而豁免率持续上升。自2019-2020学年以来，疫苗接种率持续下滑，当时约为95%，这是防止疫苗可预防疾病在社区暴发的门槛。最新数据显示，全国MMR疫苗（麻疹、腮腺炎和风疹）接种率为92.4%，低于去年的92.5%；DTaP疫苗（白喉、破伤风和百日咳）接种率从92.1%降至92.0%。超过一半的州MMR、DTaP、脊髓灰质炎和水痘疫苗的覆盖率有所下降。仅有10个州的MMR接种率达到或超过95%的门槛。",
               "source_url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
               "source_name": "Ars Technica",
               "published_at": "2026-08-18T04:14:23+08:00"
-            },
-            {
-              "title": "最高法院驳回Verizon退还4700万美元FCC罚款请求",
-              "brief": "美国最高法院拒绝了Verizon要求联邦通信委员会退还4700万美元罚款的请求，未作解释。此前，Verizon、AT&T和T-Mobile因未经用户同意出售实时位置数据而被罚款总计1.96亿美元。Verizon声称其第七修正案权利受到侵犯，但最高法院今年6月裁定FCC的处罚程序不违宪。Verizon试图再次上诉，但被驳回。AT&T和T-Mobile仍在挑战类似罚款，声称出售位置数据并不违法。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-18T04:00:20+08:00"
             }
           ]
         },
@@ -334,6 +334,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "Flow：在线开源EPUB阅读器及EPUB制作指南",
+              "brief": "Flow是一款美观、开源的在线EPUB电子书阅读器，支持在线使用和自部署。它具备书内搜索、图片预览、自定义排版、高亮笔记、主题、链接分享、数据导出及Dropbox云存储等功能。数据通过IndexedDB存储在浏览器中，也可远程备份。开发中的功能包括快捷键、多语言等。此外，文章还介绍了制作EPUB的方法：可使用kaf-cli将TXT转换为EPUB，或使用Vbook图形工具，若稿件为Markdown格式，可用Pandoc转换。Flow由VIctoryRoad推荐，适用于喜爱电子书阅读的用户。",
+              "source_url": "https://www.appinn.com/flow-epub-reader/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-18T12:49:57+08:00"
+            },
+            {
               "title": "开源下载工具 Motrix 2.0.0 测试版发布，消失 3 年再次更新，支持 AI Agent 控制下载",
               "brief": "Motrix 是一款开源下载工具，支持 HTTP、FTP、BT、磁力链等多种下载方式。时隔三年，Motrix 2.0.0 测试版（v2.0.0-beta.12）发布，这是一次彻底重构，除了新的桌面界面，还加入了 Server、CLI、插件系统，以及跨设备任务管理能力。桌面端和 Server 共用下载核心，支持任务恢复、Tracker、UPnP/NAT-PMP，并提供 Docker 镜像。CLI 工具让 AI Agent 也能控制 Motrix，可安装 Skill 到 Claude，实现自然语言下载、暂停、查看速度等操作。目前为测试版，部分功能可能不稳定。",
               "source_url": "https://www.appinn.com/motrix2-b12/",
@@ -433,25 +440,39 @@
           "name": "蓝点网",
           "articles": [
             {
-              "title": "亚马逊更新条款：禁止集体诉讼，争议仅通过仲裁解决",
-              "brief": "亚马逊近日向用户发送通知，更新使用条款，明确禁止用户发起或参与集体诉讼，所有争议须通过具有约束力的仲裁解决，除非符合小额索赔条件。新条款自发布之日起生效，继续使用亚马逊服务即视为接受。亚马逊称仲裁可快速高效解决投诉，但消费者无法代表他人提起集体诉讼或寻求公共禁令。",
-              "source_url": "https://www.landian.news/archives/126285.html",
+              "title": "微软改进Windows RE恢复环境的网络连接 现在可以自动使用已保存WiFi",
+              "brief": "微软在Windows 11测试版中改进了WinRE恢复环境的网络连接，现在可以自动使用已保存的WiFi。在恢复环境中，用户可以使用快速计算机恢复和云重建功能，这些功能需要联网。以前用户需手动选择WiFi并输入密码，现在系统可自动连接已保存的WiFi，方便用户快速连接微软服务器下载镜像执行重装。此功能默认开启，IT管理员可配置为禁用。",
+              "source_url": "https://www.landian.news/archives/126292.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-18T09:30:04+08:00"
+              "published_at": "2026-08-18T13:32:52+08:00"
             },
             {
-              "title": "Windows Server 2022将于10月结束主流支持，仍提供安全更新",
-              "brief": "微软宣布Windows Server 2022将于2026年10月结束主流支持，转入扩展支持阶段，期间继续提供安全更新至2031年。该版本为LTSC，共提供10年支持。主流支持结束后不再增加新功能。微软建议企业升级至Windows Server 2025，支持无损迁移但需购买新许可证。",
-              "source_url": "https://www.landian.news/archives/126284.html",
+              "title": "积核(Geekom)官网提供的驱动程序带毒 建议下载过积核驱动的用户直接重装系统",
+              "brief": "国内迷你机制造商积核官网提供的驱动程序下载包含后门程序，影响多款AMD迷你机。自2024年12月起，带毒驱动被上传至旧支持页面，用户通过谷歌搜索可能进入投毒页面。积核建议用户全盘杀毒或重装系统。VideoCardz拒绝删除相关报道。",
+              "source_url": "https://www.landian.news/archives/126291.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-18T09:00:03+08:00"
+              "published_at": "2026-08-18T12:58:26+08:00"
             },
             {
-              "title": "Linux Kernel 7.2正式发布，强化硬件支持与内核基础设施",
-              "brief": "Linux Kernel 7.2正式版发布，主要更新包括硬件驱动、文件系统、网络、虚拟化、架构支持及安全改进。该版本非LTS，普通用户是否升级需结合发行版和硬件环境。新内核增强了对新硬件设备的识别和功耗管理，文件系统与存储栈优化提升了稳定性。虚拟化和安全机制也有改进，建议生产环境谨慎评估后再升级。",
-              "source_url": "https://www.landian.news/archives/126283.html",
+              "title": "Cursor Origin代码托管服务开始测试 面向AI智能体的高性能Git服务",
+              "brief": "Cursor Origin代码托管服务开始面向付费用户测试，定位为面向AI智能体的Git仓库，支持多个AI智能体并行提交更改，例如每秒提交22次更改、每小时8.1万次推送。该服务提供GitHub同步、仓库创建、堆叠PR查看等功能，并支持Vercel等第三方集成。",
+              "source_url": "https://www.landian.news/archives/126290.html",
               "source_name": "蓝点网",
-              "published_at": "2026-08-18T08:30:01+08:00"
+              "published_at": "2026-08-18T12:01:48+08:00"
+            },
+            {
+              "title": "有开发者发现Kimi Work存在隐私问题 提交反馈时自动打包上传最近5个会话记录",
+              "brief": "开发者发现Kimi Work桌面客户端在用户提交反馈时，会自动打包上传最近5个智能体会话记录，包含原始运行数据，可能涉及敏感信息。反馈界面未明确提示上传会话，也没有单独关闭选项。开发者建议Kimi Work应在提交前明确显示上传内容并提供选择权。",
+              "source_url": "https://www.landian.news/archives/126289.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-18T11:30:03+08:00"
+            },
+            {
+              "title": "可能与AI有关？WSL Ubuntu安装量激增 很快就会超过Ubuntu桌面版安装量",
+              "brief": "Canonical表示，通过WSL安装的Ubuntu实例数量激增，很快将超过Ubuntu桌面版安装量。这很可能与AI有关，因为许多AI工具需要在Windows上通过WSL运行Linux发行版。WSL安装量的增长反映了开发者对Linux环境的需求增加。",
+              "source_url": "https://www.landian.news/archives/126288.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-18T11:00:03+08:00"
             }
           ]
         }
