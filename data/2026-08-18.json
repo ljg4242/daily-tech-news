@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T13:35:48.105804+08:00",
+  "generated_at": "2026-08-18T15:35:37.867428+08:00",
   "sections": [
     {
       "category": "主要",
@@ -294,6 +294,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "通过Zoom解雇900名员工的CEO被解雇",
+              "brief": "2021年12月，Better.com CEO Vishal Garg通过Zoom call解雇了900名员工，约占员工总数的9%。五年后，Garg于8月3日被董事会解雇，接替他的是Daniel Lewi。在其领导下，公司市值从80亿美元暴跌至3亿美元。但Garg的律师致函董事会，要求恢复CEO职位，称其将通过新计划扭转颓势，该计划旨在训练AI处理抵押贷款业务。",
+              "source_url": "https://www.solidot.org/story?sid=85120",
+              "source_name": "Solidot",
+              "published_at": "2026-08-18T13:43:29+08:00"
+            },
+            {
               "title": "珍稀图书追踪显示流入亚马逊AI训练设施",
               "brief": "亚马逊大量采购图书，拆开书脊扫描书页并销毁。404 Media在一本珍本书内放置AirTag，追踪至拉斯维加斯亚马逊仓库。仓库员工接收图书，拆开书脊快速扫描，图书在扫描中被销毁。该团队名为VGT3，logo为张着嘴拿着书的恐龙。",
               "source_url": "https://www.solidot.org/story?sid=85119",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=85116",
               "source_name": "Solidot",
               "published_at": "2026-08-17T21:29:05+08:00"
-            },
-            {
-              "title": "中国货轮开辟北极新航线",
-              "brief": "中国集装箱货轮“迪拜塔”号从宁波出发，经白令海峡进入北极航道，预计9月7日抵英国费利克斯托。航线较红海-苏伊士短，但需冰层融化。2024年15艘货轮使用，2025年23艘。环保组织警告加速海冰消融。",
-              "source_url": "https://www.solidot.org/story?sid=85115",
-              "source_name": "Solidot",
-              "published_at": "2026-08-17T20:46:22+08:00"
             }
           ]
         },
@@ -440,6 +440,20 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "群联电子预计固态硬盘涨价持续至2030年，正囤货应对短缺",
+              "brief": "群联电子CEO潘建成表示，由于NAND闪存产能不足，固态硬盘价格预计将上涨至2030年。群联正构建战略库存，专供CSP和AI公司等大客户，不会轻易出售。潘建成指出，市场预期NAND产能建设需2年，但制造商称实际需4年，因此涨价短期内难以拉动产能。群联已从主控芯片商转型，推出企业级SSD和AI存储产品。",
+              "source_url": "https://www.landian.news/archives/126327.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-18T14:30:36+08:00"
+            },
+            {
+              "title": "微软在Windows 11全新安装中移除WMIC组件，因遭黑客滥用",
+              "brief": "微软宣布自8月更新起，Windows 11全新安装将不再包含WMIC命令行工具，以提升安全性。该工具长期被恶意软件滥用，用于查询硬件信息、软件清单甚至删除安全软件。现有安装仍保留，用户可通过可选功能手动安装。WMI管理规范工具本身继续保留，微软建议用户使用PowerShell等替代工具。",
+              "source_url": "https://www.landian.news/archives/126326.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-18T13:58:02+08:00"
+            },
+            {
               "title": "微软改进Windows RE恢复环境的网络连接 现在可以自动使用已保存WiFi",
               "brief": "微软在Windows 11测试版中改进了WinRE恢复环境的网络连接，现在可以自动使用已保存的WiFi。在恢复环境中，用户可以使用快速计算机恢复和云重建功能，这些功能需要联网。以前用户需手动选择WiFi并输入密码，现在系统可自动连接已保存的WiFi，方便用户快速连接微软服务器下载镜像执行重装。此功能默认开启，IT管理员可配置为禁用。",
               "source_url": "https://www.landian.news/archives/126292.html",
@@ -459,20 +473,6 @@
               "source_url": "https://www.landian.news/archives/126290.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-18T12:01:48+08:00"
-            },
-            {
-              "title": "有开发者发现Kimi Work存在隐私问题 提交反馈时自动打包上传最近5个会话记录",
-              "brief": "开发者发现Kimi Work桌面客户端在用户提交反馈时，会自动打包上传最近5个智能体会话记录，包含原始运行数据，可能涉及敏感信息。反馈界面未明确提示上传会话，也没有单独关闭选项。开发者建议Kimi Work应在提交前明确显示上传内容并提供选择权。",
-              "source_url": "https://www.landian.news/archives/126289.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-18T11:30:03+08:00"
-            },
-            {
-              "title": "可能与AI有关？WSL Ubuntu安装量激增 很快就会超过Ubuntu桌面版安装量",
-              "brief": "Canonical表示，通过WSL安装的Ubuntu实例数量激增，很快将超过Ubuntu桌面版安装量。这很可能与AI有关，因为许多AI工具需要在Windows上通过WSL运行Linux发行版。WSL安装量的增长反映了开发者对Linux环境的需求增加。",
-              "source_url": "https://www.landian.news/archives/126288.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-18T11:00:03+08:00"
             }
           ]
         }
