@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T17:36:31.019412+08:00",
+  "generated_at": "2026-08-18T19:56:04.647041+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Sonos iPhone应用终于支持实时活动",
+              "brief": "Sonos更新iOS应用，新增实时活动支持，可在锁屏快速控制播放。该功能显示上次播放的房间或群组，支持播放/暂停及跳曲，即使通过其他方式启动播放也能使用。但无法显示专辑封面，且Apple Watch和CarPlay暂不支持控制。",
+              "source_url": "https://www.macrumors.com/2026/08/18/sonos-iphone-app-live-activities-support/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T19:08:56+08:00"
+            },
+            {
+              "title": "macOS 26.7提及未发布AirPods 5型号",
+              "brief": "macOS Tahoe 26.7中发现了AirPods 5型号，内部代号B868M和B868E，分别对应AirPods 5及带主动降噪版本。当前AirPods 4代号为B768M/B768E。AirPods 5可能搭载升级H3芯片，改善音质和延迟，但发布时间未定。",
+              "source_url": "https://www.macrumors.com/2026/08/18/unreleased-airpods-5-models-referenced-macos-26-7/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T18:07:58+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro Max或独占可变光圈相机",
+              "brief": "爆料称iPhone 18 Pro Max将独占可变光圈，标准Pro型号不具备。苹果从未在iPhone上实现该功能，此前主摄固定f/1.78光圈。可变光圈可手动调节，类似单反控制景深。该机将配备支持可变光圈的新索尼IMX905传感器。",
+              "source_url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-18T17:39:01+08:00"
+            },
             {
               "title": "苹果带摄像头 AirPods 确认：实拍视频曝光",
               "brief": "MacRumors 在 macOS Tahoe 26.7 候选版中发现了一段演示视频，展示了带摄像头的 AirPods 的实拍画面。视频中，用户将一本书举起，AirPods 的摄像头识别书名，并配合视觉智能功能，语音提示“看到喜欢的东西，只需让我保存”。该产品代号为 B790，此前 Bloomberg 的 Mark Gurman 曾提及，并预测可能在 9 月与 iPhone 18 Pro 等一同发布。系统还提示，如果头发遮挡 AirPods，将收到提醒，以确保环境信息获取准确。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
               "source_name": "MacRumors",
               "published_at": "2026-08-18T07:50:34+08:00"
-            },
-            {
-              "title": "苹果发布iOS 27、iPadOS 27、macOS 27和tvOS 27新公测版",
-              "brief": "苹果今天发布了iOS 27、iPadOS 27、tvOS 27和macOS Golden Gate的第四个公测版，任何拥有兼容设备的用户都可以下载测试。新测试版在第三个公测版发布一周后、第六个开发者测试版发布几小时后推出。用户可在苹果测试版网站注册，然后在设备上打开“设置”应用，选择“通用”，再选择“软件更新”即可加入公测。随着测试接近尾声，今日的开发者测试版中新增功能较少，macOS Golden Gate包含新壁纸，iOS 27则新增了快捷指令启动画面和新的Game Center图标。",
-              "source_url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-18T06:10:03+08:00"
-            },
-            {
-              "title": "苹果在macOS Golden Gate中新增更多壁纸",
-              "brief": "苹果今天在macOS 27的第六个测试版中新增了两款以金门大桥为主题的壁纸选项，分别是“金门大桥白天”和“金门大桥傍晚”，它们加入了早期测试版中推出的“金门大桥日落”和“金门大桥夜晚”壁纸。macOS 27还包含抽象的金门大桥壁纸选项，供不喜欢风景的用户选择。这两款新壁纸在解锁Mac时会动效显示，也可用作屏幕保护程序，屏保中汽车缓慢驶过大桥。苹果还在第六个测试版中调整了红绿灯按钮的外观，加入了Liquid Glass美学。macOS Golden Gate现已面向开发者和公测用户，正式版将于9月发布。",
-              "source_url": "https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-18T04:37:19+08:00"
-            },
-            {
-              "title": "iOS 26.6.1和macOS Tahoe 26.6.2修复近30个安全漏洞",
-              "brief": "苹果今天发布了iOS 26.6.1、iPadOS 26.6.1和macOS Tahoe 26.6.2更新，修复了近30个安全漏洞。这是苹果三周内第三次安全更新，因为AI技术使漏洞发现速度加快。更新包含之前添加到iOS 27、iPadOS 27和macOS Golden Gate测试版中的安全修复。修复了音频漏洞、图像漏洞、内核漏洞和多个WebKit漏洞。在iOS上，还修复了一个电话漏洞，可防止攻击者绕过IPSec认证。目前没有漏洞被积极利用的迹象，但苹果建议用户尽快更新。",
-              "source_url": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-18T03:11:52+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果承认可能无法从替代应用商店获得佣金",
+              "brief": "苹果提交提案，对App Store外销售收取较低佣金：标准应用15%，视频、新闻、小程序及订阅续费10%，小企业计划5%。但苹果承认最终可能零佣金。此前全球反垄断监管机构反对开发者只能通过官方商店销售，欧盟强制开放第三方商店，美国法院允许外部支付，苹果曾对非商店内购收27%佣金，被法官指滥用裁决。",
+              "source_url": "https://9to5mac.com/2026/08/18/apple-admits-it-may-not-make-any-commission-from-alternative-app-stores/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T19:30:44+08:00"
+            },
+            {
+              "title": "爆料者称两项相机功能可能仅限iPhone 18 Pro Max",
+              "brief": "爆料者Ice Universe称，原本预期两款Pro机型共享的新相机功能可能仅限Pro Max。iPhone 17 Pro系列相机规格相同，但今年Pro Max可能独占6倍光学变焦和更先进的五折射棱镜技术，Pro版或提供5-6倍变焦。主摄可变光圈也可能仅限Pro Max，但存在矛盾报道。",
+              "source_url": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T19:04:52+08:00"
+            },
+            {
+              "title": "Apple @ Work播客：代理式网络行动",
+              "brief": "本期Apple @ Work播客邀请eBlissAI的Shirish Nimgaonkar，讨论AI在企业端点管理和代理式解决方案中的未来。Shirish作为哈佛商学院驻校企业家支持下一代。播客聚焦企业环境中的AI端点管理和代理式网络行动，探讨苹果在商业和企业的应用。",
+              "source_url": "https://9to5mac.com/2026/08/18/proactive-networking-actions/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-18T18:02:00+08:00"
+            },
             {
               "title": "带摄像头的AirPods泄露视频曝光",
               "brief": "在macOS 26.7 RC中，MacRumors发现了一段演示视频，展示了一款配备摄像头的AirPods。视频中，用户佩戴AirPods询问Siri记住所看的书籍，Siri回应称通过视觉智能可以保存世界。视频中的AirPods外观与当前AirPods Pro相似，但耳机柄略粗。彭博社的Mark Gurman此前报道，苹果可能最早今年发布代号为B790的摄像头AirPods，而另一款代号B798的型号预计2027年推出。苹果在RC版中内置此视频，暗示下月iPhone活动上可能发布该产品。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-18T08:56:51+08:00"
-            },
-            {
-              "title": "macOS 27 Golden Gate beta 6 新增第五款动态壁纸，全部壁纸一览 [图库]",
-              "brief": "苹果在 WWDC26 上发布了 macOS 27 Golden Gate，最初所有系统都使用相同的静态壁纸。但在后续的开发者测试版中，苹果加入了动态屏幕保护程序，这些程序同时也可用作壁纸，展示旧金山金门大桥的慢动作美景。当 Mac 解锁时，屏幕保护程序会逐渐停止，留下每次略有不同的新壁纸。虽然动态效果由 macOS 处理，但本文提供了四段视频的静态帧，以及通用风格化“27”壁纸的浅色和深色版本。随着 beta 6 的发布，现在共有五款动态壁纸可供下载。",
-              "source_url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-adds-fifth-dynamic-wallpaper-get-them-all-here-gallery/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-18T06:43:39+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 27、macOS 27、iPadOS 27、tvOS 27 的第四个公开测试版",
-              "brief": "苹果刚刚推出了 iOS 27 Public Beta 4（内部版本号 24A5418b）、iPadOS 27 Public Beta 4（24A5418b）、macOS 27 Public Beta 4（26A5416a）以及 tvOS 27 Public Beta 27（24J5353b）。这些版本在开发者测试版 6 发布数小时后推出，包含错误修复和性能改进，距离正式发布仅剩数周。macOS 27 测试版引入了新壁纸和重新设计的红绿灯窗口控制。其他变化包括：修复了“信息”应用固定消息界面的错误、更新了 iOS 通知动画、更新了 Mac 上的“预览”图标。公开测试版与开发者测试版 6 的构建号相同。用户可通过 Apple Beta 软件计划网站注册，在 iPhone 上前往“设置”>“通用”>“软件更新”>“Beta 版更新”选择“iOS 27 Public Beta”安装。苹果建议在备用设备上安装测试版，并确保备份。",
-              "source_url": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-18T06:12:02+08:00"
-            },
-            {
-              "title": "Spotify 推出播放列表注释功能，可为歌曲、播客和有声书添加背景信息",
-              "brief": "Spotify 在推出用户注释功能后，又发布了播放列表注释功能。用户现在不仅可以在播放列表中的单曲上添加注释，还可以为播客剧集和有声书添加注释。Spotify 的编辑也会使用该功能分享歌曲的重要性或文化相关性。此外，编辑资料页面将展示编辑的热门歌曲、专辑和播放列表。该功能已在全球 100 多个市场的 iOS 和 Android 平台上线，编辑注释和编辑资料将在美国、加拿大、英国等地区向 16 岁及以上用户推出。",
-              "source_url": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-18T05:00:47+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌收购Spirit Airlines数据",
+              "brief": "谷歌以1000万美元在破产拍卖中购得Spirit Airlines的去标识化业务数据、软件代码和运营记录，用于改进AI。数据包括1亿封邮件、5亿Teams聊天记录及营收、运营、员工信息等。包含3000万行代码及自1986年起的17.5万员工记录，谷歌因其旅行预订业务可能有更多应用场景。",
+              "source_url": "https://9to5google.com/2026/08/18/inbox-newsletter-11/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-18T19:00:00+08:00"
+            },
             {
               "title": "Android 2026年8月系统更新概览",
               "brief": "谷歌发布了2026年8月的Android系统更新，涵盖手机、PC、电视等多个平台。更新包括：通过Quick Start快速设置新设备；为开发者新增地图相关功能；Cross Devices Services设置中可启用测试版功能；PC端设置向导介绍多设备功能；手机端支持Tap to Share分享联系信息、照片、视频等。此外，还涉及账户管理、设备连接性改进。注意，更新日志中的功能并非立即对所有用户开放，部分功能可能需要数月才能全面推出。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/08/17/chrome-new-vp-product/",
               "source_name": "9to5Google",
               "published_at": "2026-08-18T03:12:17+08:00"
-            },
-            {
-              "title": "YouTube现在从视频第一帧开始立即计为观看次数",
-              "brief": "YouTube宣布，从2026年8月24日起，所有视频格式的观看次数将在视频开始播放的第一帧时立即计入。此前不同格式采用不同的计数标准，此更新旨在统一标准，让创作者更清晰地了解曝光情况。",
-              "source_url": "https://9to5google.com/2026/08/17/youtube-view-counts-change/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-18T02:50:00+08:00"
             }
           ]
         },
@@ -169,6 +169,41 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Android 17 QPR2 Beta 3 新功能汇总",
+              "brief": "Android 17 QPR2 Beta 3 新增快速设置布局编辑器、更精细的主题控制、扩展模糊效果、折叠屏多任务改进、防呼叫转移诈骗保护，限制应用触发 USSD 代码并要求手动拨号时确认。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-new-features-3699084/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T17:30:00+08:00"
+            },
+            {
+              "title": "谷歌复活 Pixel 双击锁屏手势",
+              "brief": "Android 17 QPR2 Beta 3 更新相关字符串，增加专属设置开关，支持双击主屏幕或锁屏空白处关闭屏幕，使该功能更加实用。",
+              "source_url": "https://www.androidauthority.com/google-pixel-double-tap-lock-android-17-qpr2-beta-3-3699094/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T17:55:00+08:00"
+            },
+            {
+              "title": "Pixel 连接健康诊断功能即将上线",
+              "brief": "Google 正在开发 Pixel 连接健康诊断功能，可识别移动数据、通话和 Wi-Fi 问题并提供修复指导。功能将出现在网络与互联网设置中，包含移动数据、通话和 Wi-Fi 诊断子选项。",
+              "source_url": "https://www.androidauthority.com/pixel-connectivity-health-diagnostics-apk-teardown-3699105/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T18:20:00+08:00"
+            },
+            {
+              "title": "Android 17 QPR2 Beta 3 发布：移动网络安全增强",
+              "brief": "Android 17 QPR2 Beta 3 新增移动网络安全时间线，记录蜂窝网络威胁，提醒用户注意 IMSI/IMEI 访问，加密通话、短信、紧急警报和数据流。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T18:45:00+08:00"
+            },
+            {
+              "title": "Google Pixel 11 Pro 获得 HiLight 功能但体验不佳",
+              "brief": "谷歌在 Pixel 11 Pro 上推出 HiLight 功能，但用户反馈体验不佳。该功能旨在改善屏幕亮度自适应，但实际效果不稳定，需要进一步优化。",
+              "source_url": "https://www.androidauthority.com/google-pixel-11-hilight/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-18T19:15:00+08:00"
+            },
+            {
               "title": "试用每月6美元的YouTube Premium替代品，有一个原因让我无法切换",
               "brief": "作者对YouTube又爱又恨，喜欢创作者和内容，但讨厌谷歌的广告和付费模式。尝试了Nebula平台，每月仅6美元，无广告，提供离线下载和独家内容，如Lindsay Ellis和Princess Weekes的独家视频。Nebula内容精选，但作者仍无法完全切换，因为YouTube拥有更庞大的创作者和内容库，以及更好的推荐算法。尽管Nebula体验更佳，但作者仍依赖于YouTube的多样性。",
               "source_url": "https://www.androidauthority.com/nebula-youtube-premium-alternative-3698300/",
@@ -208,6 +243,41 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Open Mike Eagle 与 Kenny Segal 打造嘻哈分手杰作",
+              "brief": "在《DOOMED!》中，Open Mike Eagle 与 Kenny Segal 联手打造嘻哈分手杰作。Eagle 以深刻个人化歌词配合 Segal 极具掌控力节拍，将情感纠葛与自我反思融入音乐。专辑展现了两人默契，通过细腻叙事和丰富制作呈现复杂真实的情感历程。",
+              "source_url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T16:31:37-04:00"
+            },
+            {
+              "title": "亚马逊尝试在集体诉讼开始前将其扼杀",
+              "brief": "亚马逊更新服务条款，要求所有争议通过仲裁解决，并包含集体诉讼豁免条款。亚马逊称这是快速高效的解决方式，但将阻止客户寻求法官或陪审团参与。客户仍可在某些情况下向小额索赔法院提起诉讼，但赔偿金额通常有限。",
+              "source_url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T13:35:02-04:00"
+            },
+            {
+              "title": "ChatGPT 计算机历史记录追踪点击和按键",
+              "brief": "ChatGPT macOS 桌面应用新增计算机历史记录功能，可将操作转化为训练数据，学习工作方式，建议自动化操作，甚至接续未完成任务。该功能基于活动构建时间线，ChatGPT 和 Codex 可参考。功能为选择加入而非默认开启。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T10:56:40-04:00"
+            },
+            {
+              "title": "OpenAI 解散准备团队",
+              "brief": "据《金融时报》报道，OpenAI 上月底解散了准备团队，该团队负责评估模型是否构成严重风险并制定缓解措施。如今职责被分散到生物、网络等特定领域，是公司在迈向大规模 IPO 过程中对安全团队的最新调整。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T17:32:56-04:00"
+            },
+            {
+              "title": "Peak Design 城市系列背包评测：集成挂钩设计",
+              "brief": "Peak Design 推出 City 系列斜挎包和背包，集成 BagLev 挂钩设计让背包可悬挂在椅子等物体上，避免接触地面。评测者认为这一巧妙设计解决了日常使用中背包无处安放的问题，高品质工艺兼顾功能性与美观性。",
+              "source_url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T03:00:00-04:00"
+            },
             {
               "title": "苹果带摄像头的 AirPods 在泄露视频中亮相",
               "brief": "一段在 macOS Tahoe 26.7 候选版本中发现的短视频，展示了苹果传闻中带摄像头的 AirPods。视频中，一名男子佩戴新款 AirPods，手持一本书，让视觉智能识别书名，Siri 配音说：“有了视觉智能，你的世界变得可保存。看到喜欢的东西？只需让我保存下来。”此前，彭博社的 Mark Gurman 报道称，带摄像头的 AirPods 旨在以低分辨率获取视觉信息，作为苹果 AI 功能的“眼睛”，可能让 Siri 提供逐向导航。视频中的 AirPods 看起来比 AirPods Pro 3 更厚重。",
@@ -253,6 +323,41 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《英雄》主演海顿·潘妮蒂尔去世，年仅 36 岁",
+              "brief": "演员海顿·潘妮蒂尔去世，年仅 36 岁。她的代表发布声明称：她是一道不可思议的光，一股自然的力量，为所有认识她的人以及数百万在屏幕上看到她的人带来了无限的爱与欢乐。她的死因尚未公布。",
+              "source_url": "https://www.ign.com/articles/heroes-star-hayden-panettiere-dies-at-36",
+              "source_name": "IGN",
+              "published_at": "2026-08-18T11:37:01+08:00"
+            },
+            {
+              "title": "迪士尼体验展示汇总 D23 2026",
+              "brief": "D23 2026 迪士尼体验展示了多项新内容，包括主题公园、迪士尼游轮和更多。展示亮点包括新的游乐设施、餐厅和娱乐体验，粉丝对即将推出的项目感到兴奋。",
+              "source_url": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
+              "source_name": "IGN",
+              "published_at": "2026-08-18T11:23:07+00:00"
+            },
+            {
+              "title": "《王国之心 4》开发者称不会延期",
+              "brief": "《王国之心 4》开发者表示游戏将按计划在 2027 年底发布，不会延期。团队正在稳步推进开发进程，确保游戏质量达到预期。粉丝对即将推出的续作充满期待。",
+              "source_url": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
+              "source_name": "IGN",
+              "published_at": "2026-08-18T08:48:49+00:00"
+            },
+            {
+              "title": "《王国之心 4》获扩展游戏演示",
+              "brief": "D23 2026 展示了《王国之心 4》的扩展游戏演示，首次展示可玩米奇、唐老鸭和高飞。演示展示了新战斗系统和开放世界探索，系列粉丝对即将到来的冒险充满期待。",
+              "source_url": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
+              "source_name": "IGN",
+              "published_at": "2026-08-18T08:03:45+00:00"
+            },
+            {
+              "title": "野村哲也暗示参与《王国之心》动画系列",
+              "brief": "在 D23 2026 上，《王国之心》系列总监野村哲也提到即将推出的动画系列，并暗示自己参与了制作。他告诉粉丝让想象力驰骋，但未透露具体细节。动画将扩展《王国之心》世界观，可能深入探索角色背景。",
+              "source_url": "https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026",
+              "source_name": "IGN",
+              "published_at": "2026-08-18T06:57:40+00:00"
+            },
             {
               "title": "詹姆斯·古恩回应《绿灯侠》首集 gritty 风格引发的 DCU 调性争议",
               "brief": "《绿灯侠》第一集播出后，因其 gritty 风格让粉丝惊讶，引发关于 DCU 调性统一的讨论。詹姆斯·古恩回应称 DC 漫画本身就有多种风格，DCU 将自然融合不同调性，并举例艾伦·摩尔、达温·库克等漫画家的作品风格各异。他强调 DCU 会像漫画一样保持多样性，同时保持共享宇宙的连贯性。",
