@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T05:36:28.852765+08:00",
+  "generated_at": "2026-08-19T07:36:03.817497+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27 新增 8 项以上 CarPlay 功能",
+              "brief": "苹果在 iOS 27 中为 CarPlay 带来多项新功能，提升驾驶和停车时的体验。新增视频应用支持，可在停车时浏览和观看视频，行驶时自动切换为音频。Siri AI 支持免提对话，并能与 iPhone 同步。音乐播放器新增迷你控制条和进度条，方便跳转。CarPlay 还引入 iOS 27 壁纸、更大的内容缩略图，以及液态玻璃图标。导航应用如苹果地图和谷歌地图将获得路线数据更新。这些功能需汽车制造商支持，目前苹果 TV 应用已确认兼容。",
+              "source_url": "https://www.macrumors.com/guide/ios-27-carplay/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-19T07:17:02+08:00"
+            },
+            {
+              "title": "苹果 iPhone 18 发布计划：何时推出哪些机型",
+              "brief": "苹果今年将调整 iPhone 发布策略，不再一次性推出所有 iPhone 18 机型。预计 2026 年 9 月推出三款高端机型：iPhone 18 Pro、Pro Max 和可折叠的 iPhone Ultra。Pro 机型将采用 A20 芯片、可变光圈摄像头，并可能因内存成本上涨而提价。标准版 iPhone 18 则推迟至 2027 年春季发布。可折叠 iPhone 配备 Touch ID、双摄，展开后屏幕约 7.8 英寸。具体配置和价格仍有待官方确认。",
+              "source_url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-19T06:58:50+08:00"
+            },
             {
               "title": "iCloud、照片、查找我的等多个服务出现故障",
               "brief": "据苹果系统状态页面显示，iCloud、查找我的、Game Center、照片、iCloud日历、邮件、通讯录、网页应用及iWork for iCloud等多个服务出现中断，部分用户可能受影响。问题始于美国东部时间下午3:33，目前仍在持续。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
               "source_name": "MacRumors",
               "published_at": "2026-08-19T03:09:16+08:00"
-            },
-            {
-              "title": "苹果带摄像头的AirPods可能以“AirPods Pro”而非“AirPods Ultra”推出",
-              "brief": "据传苹果正在开发的带摄像头AirPods可能属于AirPods Pro系列，而非独立的“AirPods Ultra”。macOS Tahoe 26.7中的文件将新款AirPods标记为“AirPods Pro”，暗示新名称。虽然可能是占位符，但苹果在软件中包含了完整视频，无需占位。彭博社的Mark Gurman曾表示苹果考虑过Ultra名称，但Pro的命名可能暗示价格不会与当前型号相差太远。带摄像头AirPods的传闻曾出现混乱，有代号B798和B790，后者更接近发布，可能于今年推出。",
-              "source_url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-19T02:01:46+08:00"
-            },
-            {
-              "title": "苹果调整欧盟App Store费用以解决数字市场法争议",
-              "brief": "苹果今日宣布调整欧盟App Store的政策和费用，以遵守《数字市场法》。苹果表示，这些变化是在与欧盟委员会“密切合作”后做出的，更新简化了费用结构，并“解决了苹果与委员会在商业条款和替代分发方面的分歧”。对于在App Store之外分发的应用，初始获取费和商店服务费将被取消，苹果将改为对数字购买收取5%的核心技术佣金，取代之前的按安装次数收取的核心技术费。App Store应用、替代支付以及通过替代应用市场或网页分发的应用的佣金率均有变化。使用应用内购买的App Store应用将支付26%的费用，小企业计划、迷你应用合作伙伴计划和视频合作伙伴计划参与者为15%，自动续订订阅第一年后也为15%。使用替代支付的应用支付20%，参与计划的开发者支付10%。链接到网页购买的应用支付15%，参与计划的开发者支付10%。替代应用市场和网页分发的应用均收取5%的核心技术佣金。此外，开发者现在可以在欧盟同时提供应用内购买和替代支付选项，这是苹果此前不允许的。苹果表示将有展示要求，以确保用户体验一致透明。在欧盟分发应用的开发者必须选择新的商业条款。",
-              "source_url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-19T00:29:08+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "苹果下架Meta广告中推广的AI“脱衣”应用",
-              "brief": "苹果已从App Store下架了一款名为Kromix的AI图像处理应用，该应用在Meta广告中宣传为“无限制”并能生成逼真人物图像，其中一则广告展示了一位酷似美国知名女性政治人物的色情深度伪造视频。苹果表示，该应用在通过审核后添加了违规功能，并强调严格禁止此类应用。Meta也撤下了相关广告活动。此前，旧金山检察官曾要求苹果移除多款类似应用。",
-              "source_url": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
+              "title": "9to5Mac 每日：2026年8月18日 – iOS 27 beta 6，AirPods 泄露",
+              "brief": "本期节目讨论了苹果在美国对非应用商店购买收取最高15%佣金、发布iOS 26.6.1更新、iOS和macOS 27 beta 6的新功能，以及AirPods带摄像头的最新泄露。节目还提到iOS 26.6.1修复了20多个安全问题。订阅方式包括Apple Podcasts、Overcast等。由Backblaze赞助，使用代码9to5daily可享20%折扣。",
+              "source_url": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-19T03:28:04+08:00"
+              "published_at": "2026-08-19T05:56:50+08:00"
             },
             {
-              "title": "下一项Apple Watch活动挑战支持国家公园",
-              "brief": "苹果将于8月23日推出新的Apple Watch活动挑战，鼓励用户进行至少20分钟的锻炼，包括步行、跑步、徒步或轮椅推动等任意类型。完成挑战的用户将获得虚拟奖杯和动画贴纸，贴纸包括奖杯动画、飞鸟、徒步者和搭帐篷等图案。苹果将向用户发送提醒通知。",
-              "source_url": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
+              "title": "苹果钱包驾照功能即将在这些州推出",
+              "brief": "苹果钱包的驾照功能已在美国14个州和波多黎各支持，接下来肯塔基州将在2026年夏季推出，北卡罗来纳州将于2027年初支持，俄克拉何马州、犹他州、弗吉尼亚州、康涅狄格州和密西西比州也在开发中。此外，佛蒙特州、新泽西州等州正在探索移动ID支持，但进展不一。苹果还推出了基于美国护照的数字ID功能。",
+              "source_url": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-19T03:00:26+08:00"
+              "published_at": "2026-08-19T04:57:45+08:00"
             },
             {
-              "title": "Safari 26.6.1修复macOS Sonoma和Sequoia上的多个WebKit安全漏洞",
-              "brief": "苹果发布了Safari 26.6.1更新，适用于macOS Sonoma和Sequoia，修复了22个WebKit相关漏洞，其中包括两个可能导致内存损坏的问题。更新中多次提及OpenAI Codex Security，表明AI工具在发现安全漏洞中发挥重要作用。苹果已更新安全发布页面，详细列出了漏洞信息和贡献者。",
-              "source_url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia/",
+              "title": "Find My、iCloud 等多个苹果服务当前对部分用户不可用 [更新]",
+              "brief": "苹果系统状态页面显示，Find My、Game Center、照片、iCloud 邮件等多项服务出现故障，影响部分或所有用户。开发者系统状态页面显示 Xcode Cloud 也发生中断。苹果正在调查并更新状态。",
+              "source_url": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-19T02:29:25+08:00"
+              "published_at": "2026-08-19T04:48:38+08:00"
             },
             {
-              "title": "tvOS 27将为Apple TV 4K带来Siri AI，新泄露显示",
-              "brief": "苹果在WWDC上宣传“One Siri”统一体验，但未提及Apple TV和HomePod。最新证据显示，tvOS 27中的Device Hub应用列表新增了Siri，其内部代号为“com.apple.campo”，与Siri AI的代号“campos”相符。这表明Siri AI将在今年秋季随tvOS 27登陆Apple TV 4K，可能还会推出专门的Siri应用。",
-              "source_url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
+              "title": "康卡斯特将数百万 Xfinity 路由器变成运动传感器",
+              "brief": "康卡斯特推出 Xfinity Shield 安全平台，其中 WiFi Motion 功能利用现有路由器检测家中运动，无需摄像头或传统传感器。该功能为可选，适用于特定型号，并会发送通知。但隐私政策允许在特定情况下向第三方披露运动数据，用户需注意。",
+              "source_url": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-19T01:56:49+08:00"
+              "published_at": "2026-08-19T04:33:55+08:00"
             },
             {
-              "title": "苹果承诺为印尼地震救援捐款",
-              "brief": "苹果公司CEO蒂姆·库克宣布，将向周末遭受7.7级地震的印尼捐款，支持当地救援工作。库克在推特上表示，心系印尼人民，感谢一线救援人员，苹果将捐款支持现场救援。苹果历来在自然灾害后捐款，过去两个月已支持委内瑞拉、南欧和日本。捐款金额和受益组织未透露。苹果内部员工捐赠计划已筹集超8.8亿美元。",
-              "source_url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
+              "title": "Firefox Smart Window 新增 AI 网络搜索、自动标签组等功能",
+              "brief": "Mozilla 为 Firefox 的 Smart Window 功能添加了自动标签组建议、重复标签检测、与 Exa 合作实现的 AI 网络搜索（显示来源）以及自然语言历史搜索。未来还将支持浏览旅程回顾和自动填写表单，同时用户可控制访问权限。",
+              "source_url": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
               "source_name": "9to5Mac",
-              "published_at": "2026-08-19T01:31:33+08:00"
+              "published_at": "2026-08-19T04:23:57+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌“逐步”推出安卓“高级”侧载功能，开发者验证前先落地",
+              "brief": "谷歌正在逐步推出安卓的“高级”侧载流程，针对未经开发者验证的应用。该流程增加了摩擦以保护用户，最大变化是启用未验证开发者应用安装后需等待一天。用户需在开发者选项中开启“允许来自未验证开发者的应用”，然后经过警告和24小时等待期。该设置可临时开启7天或永久开启。ADB安装不受影响，开发者选项可在启用后关闭。此功能由“Android Developer Verifier”应用提供，正在逐步推广。开发者验证将于9月30日在巴西、印度尼西亚、新加坡和泰国启动，明年全球推广。",
+              "source_url": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-19T05:50:00+08:00"
+            },
+            {
+              "title": "Claude 现在可以在 Gmail 中发送邮件，甚至无需你的批准",
+              "brief": "Anthropic 的 Claude 助手现在可以代表用户在 Gmail 中发送、回复和转发邮件。尽管用户仍需请求 Claude 执行操作，但回复邮件时，Claude 可以直接发送而无需用户确认。用户可以选择是否需要批准，但默认设置为需要批准。团队版和企业版的管理员可以决定成员是否允许无需每次批准执行这些操作。此功能仅适用于付费 Claude 计划。这一进步增强了 Claude 在 Gmail 中的自主性，但可能引发对 AI 自主发送邮件的担忧。",
+              "source_url": "https://9to5google.com/2026/08/18/claude-can-now-send-emails-in-gmail-even-without-your-approval/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-19T05:20:00+08:00"
+            },
             {
               "title": "Spotify在Android上推出“用户笔记”和“跑步模式”功能",
               "brief": "Spotify正在Android上推出“用户笔记”和“跑步模式”功能。“用户笔记”允许用户在整个音乐库中留下笔记，以便日后参考，该功能已向所有用户推出，免费和高级用户均可使用，但仅限于部分市场，且用户需年满16岁。Spotify还宣布将“用户笔记”演变为“播放列表笔记”，其中将包含平台播放列表编辑器的笔记。“跑步模式”将根据用户的锻炼类型、时长、每分钟节拍数和音乐类型生成匹配的播放列表，并可选配音频提示来指导跑步。该功能通过Spotify健身中心向美国、加拿大、英国、爱尔兰、澳大利亚、新西兰和瑞典的高级订阅者提供，目前仅限于iOS平台，但正在Android上逐步推出。",
@@ -108,26 +122,26 @@
               "source_url": "https://9to5google.com/2026/08/18/samsung-warranty-software-update-android-17-one-ui-9/",
               "source_name": "9to5Google",
               "published_at": "2026-08-19T03:05:00+08:00"
-            },
-            {
-              "title": "Gemini集成Chrome浏览器及自动浏览功能在美国安卓平台推出",
-              "brief": "谷歌在美国安卓版Chrome浏览器中推出Gemini集成，用户可通过地址栏右侧的图标或溢出菜单打开，界面与桌面版相似。当前页面可作为上下文添加到提示中，可关闭。工具菜单可启用或禁用个人智能，包括日历、Keep等。Gemini可总结页面、回答相关问题，并支持Nano Banana编辑图片。同时，Google AI Pro和Ultra订阅用户可使用自动浏览功能，代理处理日常任务，如预订停车、更新订单、规划旅行等，敏感操作需用户确认。",
-              "source_url": "https://9to5google.com/2026/08/18/gemini-chrome-android-us/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-19T03:00:00+08:00"
-            },
-            {
-              "title": "今日安卓应用优惠：Easy Delivery、Kingdom Rush Vengeance、Front Armies等",
-              "brief": "今日安卓应用优惠包括Easy Delivery、Kingdom Rush Vengeance、Front Armies等应用和游戏，提供限时免费或折扣。此外，百思买60周年庆促销活动正在进行，可与黑色星期五媲美，涵盖苹果、LG电视、安卓设备等，并享受10倍积分等优惠。",
-              "source_url": "https://9to5toys.com/2026/08/18/today-android-app-deals-free-easy-delivery-kingdom/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-19T01:59:52+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "专家和议员抨击RFK Jr.破坏医疗研究，称机构“濒临崩溃”",
+              "brief": "美国医疗保健研究与质量局（AHRQ）正面临生存危机。专家和议员指责卫生与公众服务部长小罗伯特·F·肯尼迪（RFK Jr.）对该机构的破坏性管理。特朗普政府已裁减该机构75%的员工，取消大量拨款，并拒绝支出国会拨付的数千万美元。专家警告，该机构能否在特朗普第二任期内存活仍是未知数。AHRQ自1990年代以来一直致力于改善患者安全、医疗质量和护理服务。如今，其研究项目面临中断，超过100项总计2.5亿美元的研究拨款被取消。这一情况引发了广泛批评。",
+              "source_url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-19T06:32:46+08:00"
+            },
+            {
+              "title": "乌克兰无人机数量优势暂时压制俄坦克新型主动防护系统",
+              "brief": "俄罗斯坦克首次在实战中装备了旨在击落无人机的主动防护系统“竞技场-M”，但在乌克兰战场上的首次亮相效果有限。乌克兰无人机通过数量优势仍成功摧毁了俄军装甲车辆。7月22日，俄军在顿涅茨克州发动连级规模进攻，乌军击退进攻并发布视频，显示至少7辆T-72B3A坦克被摧毁，其中一些装备了“竞技场-M”系统。然而，乌军士兵也报告该系统成功击落了一些无人机，每辆坦克需要15至20架无人机才能摧毁。军事专家指出，俄军正在学习并试验如何在无人机密集的战场上运用装甲力量，该系统将得到改进。",
+              "source_url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-08-19T06:18:13+08:00"
+            },
             {
               "title": "历经24天海上拖航，SpaceX终于将星舰拖回港口",
               "brief": "SpaceX最新的星舰试飞于7月24日结束，飞船在印度洋完整溅落，并未像预期那样倾覆后烧毁。一艘回收船将飞船发动机朝前拖行了数百英里，经过24天到达澳大利亚圣诞岛。SpaceX工程师团队已前往进行额外分析。此次回收为SpaceX提供了宝贵的机会，以检查从太空返回的硬件，而此前他们只能依赖传感器和摄像头数据。所有13次试飞的数据都已获得，但实物检查无可替代。",
@@ -148,26 +162,19 @@
               "source_url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
               "source_name": "Ars Technica",
               "published_at": "2026-08-19T00:42:30+08:00"
-            },
-            {
-              "title": "美国即将正视中国太空计划的威胁",
-              "brief": "西方航天界对中国未来几年载人登月并可能击败NASA重返月球存在两种观点。一种认为美国早在阿波罗11号登月时已赢得太空竞赛，无需担忧；另一种则认为中国崛起是21世纪主线，太空是竞争关键领域。若中国先于美国载人登月，将具有重大象征意义和地缘政治影响。文章探讨中国登月计划对美国构成的挑战，以及美国可能因此觉醒并加大太空投入。",
-              "source_url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-19T00:30:07+08:00"
-            },
-            {
-              "title": "Fairphone最新可维修手机美国上市，售价650美元",
-              "brief": "Fairphone Gen 6+在美国上市，售价650美元，主打可维修性和公平工资。手机采用可拆卸电池，使用一把螺丝刀即可完全拆解，提供USB端口、屏幕等替换零件。配置包括骁龙7s Gen 4处理器、12GB内存、256GB存储、6.31英寸OLED屏幕（120Hz）、5000万像素主摄等。机身采用50%回收材料，支持microSD扩展。该手机注重环保和可持续性，而非顶级性能。",
-              "source_url": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-08-19T00:05:00+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Gmail 新计划让政治筹款邮件更容易绕过垃圾邮件过滤",
+              "brief": "谷歌宣布推出 Gmail 验证发件人计划，将于 9 月 8 日启动，允许符合资格的政治委员会、候选人和政党等政治组织在满足验证和安全标准，并将垃圾邮件率保持在 0.3% 以下的情况下，绕过 Gmail 常规的垃圾邮件过滤。该计划恰逢 2026 年美国中期选举前，旨在让用户收到他们想要的邮件，同时保留控制权。用户仍可标记垃圾邮件、屏蔽发件人或取消订阅。此前，共和党曾抱怨 Gmail 垃圾邮件过滤器对其筹款邮件不公平，并提起诉讼，但案件被驳回。",
+              "source_url": "https://www.androidauthority.com/gmail-verified-sender-program-for-political-campaigns-3700120/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-19T05:51:03+08:00"
+            },
             {
               "title": "新软件让旧款Spotify Car Thing重获新生",
               "brief": "Spotify Car Thing是Spotify于2021年推出的车载音乐播放设备，但Spotify于2024年底关闭了其服务器，导致设备无法使用。现在，一个名为Mira的开源项目可以恢复Car Thing的大部分功能。Mira专注于Spotify，安装并链接账户后，用户可以通过预设按钮、旋钮和手势控制来操作连接的设备，查看专辑封面和歌词，并支持基本的语音控制。该项目旨在让这款被遗弃的硬件重新发挥作用。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-android-advanced-flow-sideloading-rollout-begins-3700073/",
               "source_name": "Android Authority",
               "published_at": "2026-08-19T04:26:08+08:00"
-            },
-            {
-              "title": "Xfinity推出新方式保护家庭安全",
-              "brief": "康卡斯特推出Xfinity Shield，一种新的家庭保护平台。其核心是WiFi Shield，提供三层保护：CyberSecure（网关阻止恶意软件和钓鱼）、WiFi Motion（通过检测网关与连接设备之间的射频信号变化来探测运动，无需摄像头或传感器，并在检测到运动时发送通知）和Family Settings（设置家庭成员的在线边界）。该服务今日开始提供，但WiFi Shield需要Advanced Xfinity网关。康卡斯特计划在2027年增加更多功能。",
-              "source_url": "https://www.androidauthority.com/xfinity-wifi-motion-launch-3700078/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-19T04:23:17+08:00"
             }
           ]
         },
@@ -334,7 +334,43 @@
         },
         {
           "name": "IT之家",
-          "articles": []
+          "articles": [
+            {
+              "title": "通用汽车发布新规：辅助驾驶系统维修必须使用全新原厂零部件",
+              "brief": "通用汽车向维修机构发布新规，要求维修车辆辅助驾驶系统（ADAS）时必须使用全新原厂零部件，并严格按照官方认可的维修和校准流程操作，以确保系统在碰撞维修后正常工作。通用汽车指出，某些看似无关的配件如保护膜、车身贴膜、车顶行李架等也可能影响ADAS，同时非原厂升高套件或改装悬架、转向、车轮等会改变车身高度和四轮定位角度，导致系统失常。",
+              "source_url": "https://www.ithome.com/0/991/386.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-19T07:22:01+08:00"
+            },
+            {
+              "title": "苹果tvOS 27应用列表新增Siri条目，Apple TV 4K将整合Siri AI",
+              "brief": "苹果最新发布的tvOS 27测试版中，应用列表新增了Siri条目，内部代号为“campo”。有媒体尝试通过Device Hub打开Campo.app时，系统返回错误信息，显示该应用未启用。这表明相关组件尚未开放，但系统中已留下入口。这预示着Apple TV 4K未来将整合Siri AI功能，为用户提供更智能的语音助手体验。",
+              "source_url": "https://www.ithome.com/0/991/385.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-19T07:19:53+08:00"
+            },
+            {
+              "title": "Anthropic推出AI文本水印后，各类去水印工具开始涌现",
+              "brief": "Anthropic为AI生成文本添加水印后，引发开发者反弹，去水印工具应运而生。巴黎创业者Meyer发布开源项目“Watermarks Remover”，通过删除隐藏字符和重写文本破坏水印，获超1.4万Star。此外，Sabrina Ramonov开发了浏览器端工具，Ansh Aneja开发了针对Claude的工具。专家指出水印总可被移除，但工具处于法律灰色地带，欧盟法规未明确禁止。",
+              "source_url": "https://www.ithome.com/0/991/384.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-19T07:18:50+08:00"
+            },
+            {
+              "title": "泄露代码暗示：苹果家庭中枢Home Hub将搭载小组件库",
+              "brief": "苹果家庭中枢Home Hub的代码泄露显示，其将配备“Widget Gallery”小组件库，代号J490。该设备主屏可自定义图标、小组件和时钟样式，支持Smart Stack智能叠放。用户可添加第三方应用的小组件，但隐私内容仅在家时显示。预计采用7英寸方形屏，可放置或壁挂，支持Safari、Apple Music等应用，并可加入HomeKit场景。",
+              "source_url": "https://www.ithome.com/0/991/383.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-19T07:11:45+08:00"
+            },
+            {
+              "title": "联想FCNT旗下arrows Alpha 2手机价格公布：天玑8350 Extreme、5370mAh电池，94900日元起",
+              "brief": "联想FCNT发布arrows Alpha 2手机，8GB+256GB版售价94,900日元（约4020元），12GB+512GB版118,800日元（约5033元）。该机通过MIL-STD-810H测试，具备IPX9/X8/X6防水防尘，采用6.4英寸144Hz LTPO OLED屏，峰值亮度3000尼特。搭载天玑8350 Extreme芯片，后置双摄5000万像素，电池5370mAh支持90W快充，预装Android 16。",
+              "source_url": "https://www.ithome.com/0/991/382.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-08-19T07:09:27+08:00"
+            }
+          ]
         }
       ]
     }
