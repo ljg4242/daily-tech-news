@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T01:36:44.000723+08:00",
+  "generated_at": "2026-08-19T03:36:24.401006+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "国家公园Apple Watch活动挑战将于8月23日启动",
+              "brief": "苹果将于8月23日（周日）启动年度国家公园Apple Watch活动挑战，以庆祝美国各地的国家公园。Apple Watch用户可通过在8月23日进行至少20分钟的徒步、步行、跑步或轮椅锻炼来赢得活动奖励。奖励包括可在信息应用中使用动画贴纸。此外，苹果通常在8月提供与国家公园相关的其他内容，如Apple Pay捐赠计划、Apple TV内容、Apple Music歌曲、图书和播客等。",
+              "source_url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-19T03:09:16+08:00"
+            },
+            {
+              "title": "苹果带摄像头的AirPods可能以“AirPods Pro”而非“AirPods Ultra”推出",
+              "brief": "据传苹果正在开发的带摄像头AirPods可能属于AirPods Pro系列，而非独立的“AirPods Ultra”。macOS Tahoe 26.7中的文件将新款AirPods标记为“AirPods Pro”，暗示新名称。虽然可能是占位符，但苹果在软件中包含了完整视频，无需占位。彭博社的Mark Gurman曾表示苹果考虑过Ultra名称，但Pro的命名可能暗示价格不会与当前型号相差太远。带摄像头AirPods的传闻曾出现混乱，有代号B798和B790，后者更接近发布，可能于今年推出。",
+              "source_url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-19T02:01:46+08:00"
+            },
             {
               "title": "苹果调整欧盟App Store费用以解决数字市场法争议",
               "brief": "苹果今日宣布调整欧盟App Store的政策和费用，以遵守《数字市场法》。苹果表示，这些变化是在与欧盟委员会“密切合作”后做出的，更新简化了费用结构，并“解决了苹果与委员会在商业条款和替代分发方面的分歧”。对于在App Store之外分发的应用，初始获取费和商店服务费将被取消，苹果将改为对数字购买收取5%的核心技术佣金，取代之前的按安装次数收取的核心技术费。App Store应用、替代支付以及通过替代应用市场或网页分发的应用的佣金率均有变化。使用应用内购买的App Store应用将支付26%的费用，小企业计划、迷你应用合作伙伴计划和视频合作伙伴计划参与者为15%，自动续订订阅第一年后也为15%。使用替代支付的应用支付20%，参与计划的开发者支付10%。链接到网页购买的应用支付15%，参与计划的开发者支付10%。替代应用市场和网页分发的应用均收取5%的核心技术佣金。此外，开发者现在可以在欧盟同时提供应用内购买和替代支付选项，这是苹果此前不允许的。苹果表示将有展示要求，以确保用户体验一致透明。在欧盟分发应用的开发者必须选择新的商业条款。",
@@ -21,45 +35,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果下架Meta广告中推广的AI“脱衣”应用",
+              "brief": "苹果已从App Store下架了一款名为Kromix的AI图像处理应用，该应用在Meta广告中宣传为“无限制”并能生成逼真人物图像，其中一则广告展示了一位酷似美国知名女性政治人物的色情深度伪造视频。苹果表示，该应用在通过审核后添加了违规功能，并强调严格禁止此类应用。Meta也撤下了相关广告活动。此前，旧金山检察官曾要求苹果移除多款类似应用。",
+              "source_url": "https://9to5mac.com/2026/08/18/apple-pulls-ai-nudify-app-promoted-in-meta-ads/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-19T03:28:04+08:00"
+            },
+            {
+              "title": "下一项Apple Watch活动挑战支持国家公园",
+              "brief": "苹果将于8月23日推出新的Apple Watch活动挑战，鼓励用户进行至少20分钟的锻炼，包括步行、跑步、徒步或轮椅推动等任意类型。完成挑战的用户将获得虚拟奖杯和动画贴纸，贴纸包括奖杯动画、飞鸟、徒步者和搭帐篷等图案。苹果将向用户发送提醒通知。",
+              "source_url": "https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-19T03:00:26+08:00"
+            },
+            {
+              "title": "Safari 26.6.1修复macOS Sonoma和Sequoia上的多个WebKit安全漏洞",
+              "brief": "苹果发布了Safari 26.6.1更新，适用于macOS Sonoma和Sequoia，修复了22个WebKit相关漏洞，其中包括两个可能导致内存损坏的问题。更新中多次提及OpenAI Codex Security，表明AI工具在发现安全漏洞中发挥重要作用。苹果已更新安全发布页面，详细列出了漏洞信息和贡献者。",
+              "source_url": "https://9to5mac.com/2026/08/18/safari-26-6-1-patches-multiple-webkit-security-flaws-on-macos-sonoma-and-sequoia/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-19T02:29:25+08:00"
+            },
+            {
+              "title": "tvOS 27将为Apple TV 4K带来Siri AI，新泄露显示",
+              "brief": "苹果在WWDC上宣传“One Siri”统一体验，但未提及Apple TV和HomePod。最新证据显示，tvOS 27中的Device Hub应用列表新增了Siri，其内部代号为“com.apple.campo”，与Siri AI的代号“campos”相符。这表明Siri AI将在今年秋季随tvOS 27登陆Apple TV 4K，可能还会推出专门的Siri应用。",
+              "source_url": "https://9to5mac.com/2026/08/18/tvos-27-to-add-siri-ai-for-apple-tv-4k-per-new-leak/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-19T01:56:49+08:00"
+            },
+            {
               "title": "苹果承诺为印尼地震救援捐款",
               "brief": "苹果公司CEO蒂姆·库克宣布，将向周末遭受7.7级地震的印尼捐款，支持当地救援工作。库克在推特上表示，心系印尼人民，感谢一线救援人员，苹果将捐款支持现场救援。苹果历来在自然灾害后捐款，过去两个月已支持委内瑞拉、南欧和日本。捐款金额和受益组织未透露。苹果内部员工捐赠计划已筹集超8.8亿美元。",
               "source_url": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-19T01:31:33+08:00"
-            },
-            {
-              "title": "Anthropic宣布Claude Cowork现已面向所有付费计划在移动端推出",
-              "brief": "Anthropic公司宣布，其Claude Cowork现已全面在移动端和桌面端面向所有付费计划推出。Claude官方推特确认了这一消息。此前，OpenAI也推出了类似解决方案ChatGPT Work，支持iPhone、iPad、Mac和网页。用户可通过相关链接了解更多详情。",
-              "source_url": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-19T01:09:16+08:00"
-            },
-            {
-              "title": "苹果发布iOS 27、macOS 27、iPadOS 27、tvOS 27公测版4",
-              "brief": "苹果今日推出iOS 27公测版4，以及iPadOS 27、tvOS 27、macOS 27的公测版更新。此前已发布开发者测试版6。公测版包含错误修复和性能改进。macOS 27新增壁纸和重新设计的红绿灯窗口控件。修复了固定消息界面错误，更新了通知动画和预览图标。watchOS 27公测版4也已发布。用户可通过Apple Beta软件计划网站注册安装。",
-              "source_url": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-19T01:07:54+08:00"
-            },
-            {
-              "title": "macOS 27 Golden Gate的电池百分比显示设计值得改进",
-              "brief": "作者认为macOS 27 Golden Gate将电池百分比放入电池图标内的设计降低了可读性，尤其在MacBook上。苹果为了与iOS一致而采用此设计，但在Mac上不存在屏幕空间问题。作者希望苹果重新考虑。他使用Codex制作了一个免费菜单栏工具，清晰显示电池状态和百分比。",
-              "source_url": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-19T00:56:43+08:00"
-            },
-            {
-              "title": "苹果改革欧盟App Store费用，推出新统一条款",
-              "brief": "苹果宣布欧盟新业务条款，自10月1日起生效。新条款包括将链接佣金降至15%，用5%的核心技术佣金取代核心技术费。对于使用苹果应用内购买的应用，佣金为26%，小企业计划等为15%。使用替代支付处理的应用佣金为20%，计划内10%。通过替代市场或网页分发的应用也有相应费率。苹果称此举简化了费用结构。",
-              "source_url": "https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-19T00:35:55+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星利用安卓17简化保修维修，并用AI豚鼠做广告",
+              "brief": "三星在One UI 9中新增“保修与护理”菜单，简化Galaxy设备的维修和保修流程。该中心显示当前设备的剩余保修期和Samsung Care+资格，并可查看关联账户下其他Galaxy设备的保修状态。Bixby支持自然语言诊断和故障排除，提交维修时显示预估费用。三星的广告中出现了AI生成的豚鼠，这些豚鼠出现在Galaxy Z Fold 8的营销中，包括Unpacked发布会和后续广告，令人费解但引人注目。",
+              "source_url": "https://9to5google.com/2026/08/18/samsung-warranty-software-update-android-17-one-ui-9/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-19T03:05:00+08:00"
+            },
+            {
+              "title": "Gemini集成Chrome浏览器及自动浏览功能在美国安卓平台推出",
+              "brief": "谷歌在美国安卓版Chrome浏览器中推出Gemini集成，用户可通过地址栏右侧的图标或溢出菜单打开，界面与桌面版相似。当前页面可作为上下文添加到提示中，可关闭。工具菜单可启用或禁用个人智能，包括日历、Keep等。Gemini可总结页面、回答相关问题，并支持Nano Banana编辑图片。同时，Google AI Pro和Ultra订阅用户可使用自动浏览功能，代理处理日常任务，如预订停车、更新订单、规划旅行等，敏感操作需用户确认。",
+              "source_url": "https://9to5google.com/2026/08/18/gemini-chrome-android-us/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-19T03:00:00+08:00"
+            },
+            {
+              "title": "今日安卓应用优惠：Easy Delivery、Kingdom Rush Vengeance、Front Armies等",
+              "brief": "今日安卓应用优惠包括Easy Delivery、Kingdom Rush Vengeance、Front Armies等应用和游戏，提供限时免费或折扣。此外，百思买60周年庆促销活动正在进行，可与黑色星期五媲美，涵盖苹果、LG电视、安卓设备等，并享受10倍积分等优惠。",
+              "source_url": "https://9to5toys.com/2026/08/18/today-android-app-deals-free-easy-delivery-kingdom/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-19T01:59:52+08:00"
+            },
             {
               "title": "Pixel Screenshots 更新：新增日期和应用筛选器",
               "brief": "Pixel Screenshots 应用更新，新增按日期范围（24小时、7天、30天、6个月、1年）和来源应用筛选功能，并可在收藏夹中使用。此前仅有地点、文章、事件等标签筛选。此次更新与 Pixel 11 系列发布同步，版本 1.26.281.05 已通过 Play 商店推送。6 月更新已引入云端私有 AI 计算处理，并增加“处理时使用移动数据”开关。",
@@ -123,6 +158,13 @@
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "三星Galaxy Buds 3 Pro今日近半价促销",
+              "brief": "百思买将三星Galaxy Buds 3 Pro售价降至139.99美元，比亚马逊当前价格低40美元，较原价249.99美元大幅折扣。这款耳机音质出色，通透模式清晰，麦克风通话质量好。此外，还有DJI Pocket云台相机、飞利浦Hue智能插头和SteelSeries游戏耳机等优惠。",
+              "source_url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-08-18T13:47:04-04:00"
+            },
             {
               "title": "PlayStation无线游戏音箱11月发售",
               "brief": "索尼宣布其Pulse Elevate无线游戏音箱将于11月12日上市，售价219.99美元。这款音箱兼容PS5、PlayStation Portal、PC和Mac，采用“录音室级平面磁驱动器”，提供“全可听频谱的真实声音”。内置麦克风支持语音聊天，并配备PlayStation Link低延迟技术和充电底座。提供黑色和白色两种颜色，预购将于9月1日开始。",
@@ -200,7 +242,22 @@
         },
         {
           "name": "Solidot",
-          "articles": []
+          "articles": [
+            {
+              "title": "Firefox 154 发布",
+              "brief": "Mozilla 发布了 Firefox 154。主要新特性包括：Local Network Access 保护支持 WebSocket 连接，网站需先获得许可才能与本地网络设备建立 WebSocket 连接；Smart Window 能建议相关标签页分组并命名；Windows、Linux 和 macOS 均支持本地配置文件备份，可跨平台恢复；网站可设置浏览器关闭时豁免清除其 Cookie 和网站数据；地址栏新增 Manage AI 快捷操作。此外，还修复了若干 bug。",
+              "source_url": "https://www.solidot.org/story?sid=85130",
+              "source_name": "Solidot",
+              "published_at": "2026-08-18T22:49:10+08:00"
+            },
+            {
+              "title": "Google 拍下破产航空公司 Spirit 的数据",
+              "brief": "Google 以 1000 万美元拍下破产航空公司 Spirit 的数据，包括 1 亿封电子邮件、5 亿条 Microsoft Teams 信息、1700 万份 OneDrive 文件、2050 万 SharePoint 文件、超过 3000 万则客户服务电话录音和逾 1500 万则客户聊天记录、60 万个 ServiceNow 工单，以及航班、机组、燃油、零部件采购等运营数据。Google 表示购买这些数据是为了改进 AI 服务，并承诺清除数据中的个人身份信息。",
+              "source_url": "https://www.solidot.org/story?sid=85129",
+              "source_name": "Solidot",
+              "published_at": "2026-08-18T21:14:37+08:00"
+            }
+          ]
         },
         {
           "name": "小众软件",
