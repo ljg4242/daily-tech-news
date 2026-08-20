@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T03:38:49.298703+08:00",
+  "generated_at": "2026-08-21T05:37:20.673940+08:00",
   "sections": [
     {
       "category": "主要",
@@ -42,6 +42,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "WhatsApp 正在为 iOS 带来更多 Liquid Glass 界面改动",
+              "brief": "据 WABetaInfo 报道，WhatsApp 最新的 iOS 测试版显示，该公司正准备将 Liquid Glass 设计语言扩展到更多界面元素，包括绘图编辑器和视频播放器的进度条。绘图编辑器允许用户在分享前对照片、视频和 GIF 进行标注或编辑，其顶部按钮将更新为 Liquid Glass 风格。视频播放器的进度条也将进行相应更新。尽管一些用户仍未收到最初的 Liquid Glass 更新，但 Meta 正继续在 iOS、macOS 和 iPadOS 上采用这一新的视觉语言。目前该功能仍在开发中，尚未提供测试。",
+              "source_url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-21T04:55:53+08:00"
+            },
+            {
+              "title": "Apple Music 即将为 AI 生成内容添加可见标签",
+              "brief": "苹果公司宣布，将在今年晚些时候为 Apple Music 中的 AI 生成内容添加可见的“Made With AI”标签。内容提供商在 AI 被用于创作内容的重要部分时必须添加透明度标签，包括由生成式 AI 服务主要生成的内容。苹果表示，此举旨在为听众提供尽可能多的透明度。这一举措是流媒体平台应对 AI 音乐涌入的最新例子，此前 Spotify 和 Deezer 已采取类似措施。苹果音乐负责人 Oliver Schusser 透露，每月上传的 AI 生成音乐占比超过三分之一，但收听量占比不足 0.5%。",
+              "source_url": "https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-21T04:08:57+08:00"
+            },
+            {
               "title": "AirPods Pro 3等型号获得新的测试版固件更新",
               "brief": "苹果在iOS 27发布前夕，为搭载H2芯片的AirPods机型推送了新的测试版固件，版本号为9A5347a。此次更新适用于AirPods Pro 3、AirPods Pro 2、AirPods 4和AirPods Max 2。两周前苹果刚发布过9A5336b版固件。用户可在AirPods设置中参与测试。新固件为即将到来的iOS 27新功能提供支持，其中部分功能为AirPods Pro 3独占。苹果可能在9月发布会上公布更多AirPods新特性，去年推出了实时翻译，前年则发布了听力健康功能。",
               "source_url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
@@ -61,26 +75,19 @@
               "source_url": "https://9to5mac.com/2026/08/20/happy-hour-604/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-21T02:00:10+08:00"
-            },
-            {
-              "title": "ChatGPT更新为Mac添加Apple Messages集成",
-              "brief": "OpenAI为Mac版ChatGPT桌面应用新增Apple Messages插件，可读取、搜索iMessage、短信和RCS聊天记录，并准备和发送消息。该功能适用于所有计划，包括ChatGPT Work和Codex。默认情况下，发送消息需用户批准，但用户需注意持久批准的潜在风险。插件仅支持Apple Silicon Mac，不支持Intel机型。OpenAI提供了详细的插件指南，说明风险、撤销访问步骤及已知问题。",
-              "source_url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-21T01:59:38+08:00"
-            },
-            {
-              "title": "watchOS 27新增三项我喜爱的Apple Watch功能",
-              "brief": "watchOS 27引入了动态应用网格，默认显示最常用的五个应用和Siri应用，简化了主屏幕导航。新的Tap手势可在智能叠放中通过单次点按选择小组件，与Double Tap配合使用。Siri AI全面升级，新增专用Siri应用，可浏览跨设备对话记录，并支持更智能的语音助手功能。这些功能提升了Apple Watch的易用性和智能化体验。",
-              "source_url": "https://9to5mac.com/2026/08/20/watchos-27-adds-three-new-apple-watch-features-ive-been-loving/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-21T01:50:06+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixel 11 Gboard 写作工具借助 Gemini 智能提供“个性化建议”",
+              "brief": "据 9to5Google 报道，Pixel 11 的 Gboard 写作工具将推出“个性化建议”功能，基于 Gemini 智能分析用户的对话、输入和打字模式，在“建议”标签中提供草稿建议。该功能利用用户的打字历史和屏幕上下文，仅在使用时截取屏幕快照，并通过 Google 的私有 AI 计算在设备和云端进行加密处理，确保数据隐私。用户可在右上角菜单中启用或禁用该功能，若应用或时间不支持，则标签不显示。此外，还有基于屏幕上下文和写作风格的智能回复功能，以及预设的改写风格（校对、重述、专业、友好、表情、详细、简短），并新增“描述你的编辑”按钮，允许用户手动输入提示。",
+              "source_url": "https://9to5google.com/2026/08/20/pixel-11-personalized-suggestions/",
+              "source_name": "9to5Google",
+              "published_at": "2026-08-21T05:03:23+08:00"
+            },
             {
               "title": "Google Messages RCS 出现“3100”错误，部分 Galaxy 用户受影响",
               "brief": "过去几天，一些 Google Messages 用户无法使用 RCS 发送或接收消息，尤其是 Galaxy 手机用户，在更换设备或网络时更容易遇到。受影响的用户看到错误代码“3100”，提示“连接问题，等待重试”。Google 表示已意识到该问题，并正与运营商合作尽快修复。目前原因尚不明确，可能是号码移植或三星 Smart Switch 传输了损坏的缓存文件。Google 建议用户尝试关闭 RCS、清除“Carrier Services”数据、重启设备后重新开启 RCS，但成功率不一。有用户称通过暂时关闭两步验证并清除 Play Services 数据可解决，但建议优先尝试官方步骤，并注意及时恢复两步验证。",
@@ -108,13 +115,6 @@
               "source_url": "https://9to5toys.com/2026/08/20/today-android-app-deals-free-naruto/",
               "source_name": "9to5Google",
               "published_at": "2026-08-21T02:04:29+08:00"
-            },
-            {
-              "title": "Peloton 力量训练应用登陆安卓，距 iOS 发布近两年",
-              "brief": "Peloton 以其骑行课程闻名，但也提供其他锻炼方式。2024 年底，Peloton 推出了 Strength+ 应用，专注于增肌和力量训练，但仅限 iOS。如今，该应用已登陆安卓平台。Peloton Strength+ 提供专家指导的课程、个性化训练生成器、教学指南，并支持通过耳机在举重时提供语音指导。应用内有多周训练计划，涵盖多种力量训练风格。订阅价格为每月 9.99 美元。",
-              "source_url": "https://9to5google.com/2026/08/20/peloton-strength-plus-android-app-release/",
-              "source_name": "9to5Google",
-              "published_at": "2026-08-21T01:50:00+08:00"
             }
           ]
         },
@@ -155,45 +155,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "三星Galaxy S26 FE官方手机壳曝光",
-              "brief": "最新泄露显示，三星Galaxy S26 FE的官方手机壳零售列表已出现，包括硅胶磁吸壳和透明磁吸壳两种。泄露图片展示了蓝莓色和石墨色两款配色。此前有消息称，该机将搭载Exynos 2500芯片，支持45W有线充电和反向无线充电，并配备NFC和Wi-Fi 6。存储选项可能为128GB、256GB和512GB。有迹象表明，新款FE机型可能比前代更贵。",
-              "source_url": "https://www.androidauthority.com/galaxy-s26-fe-cases-leaks-3701222/",
+              "title": "Galaxy S26 FE 泄露曝光全部配色",
+              "brief": "据 SammyGuru 透露，Galaxy S26 FE 的最新渲染图展示了三种配色：蓝莓、开心果和石墨色。此前泄露的信息显示，该机将配备 6.7 英寸 120Hz AMOLED 屏幕，搭载 Exynos 2500 芯片，后置 50MP 主摄、12MP 超广角和 8MP 3 倍长焦，提供 8GB 内存和 128/256/512GB 存储，支持 45W 有线充电和无线反向充电。三星将于 8 月 27 日举办 Galaxy 活动，预计届时将正式发布该机。",
+              "source_url": "https://www.androidauthority.com/galaxy-s26-fe-colors-and-angles-3701295/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-21T01:36:29+08:00"
+              "published_at": "2026-08-21T05:13:40+08:00"
             },
             {
-              "title": "雷蛇BlackWidow V4 75%游戏键盘半价促销",
-              "brief": "亚马逊将雷蛇BlackWidow V4 75%机械游戏键盘价格降至100美元，相比199.99美元的建议零售价节省99.99美元，折扣50%，为今年最低价。该键盘采用75%布局，节省桌面空间，配备热插拔轴、每键RGB灯效和垫片式设计，提供出色的打字手感和可定制性。此次促销远低于此前123美元的历史低价，是入手的好时机。",
-              "source_url": "https://www.androidauthority.com/razer-blackwidow-v4-75-gaming-keyboard-deal-3701245/",
+              "title": "部分 Pixel 手机“翻转静音”功能失灵",
+              "brief": "近期，部分 Pixel 用户反映“翻转静音”功能失效，有的无法开启，有的甚至从设置中消失。受影响的机型包括 Pixel 7、Pixel 8、Pixel 9 和 Pixel 10 等。更新 Digital Wellbeing 应用可能修复部分用户的问题，但并非对所有人都有效。谷歌尚未证实这一关联，也未提供普遍解决方案。该功能自 Pixel 3 起推出，对许多用户而言是重要功能，目前谷歌尚未回应。",
+              "source_url": "https://www.androidauthority.com/google-pixel-flip-to-shhh-not-working-fix-3701291/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-21T01:12:13+08:00"
+              "published_at": "2026-08-21T05:08:29+08:00"
             },
             {
-              "title": "索尼WF-C710N降噪耳机降至88美元",
-              "brief": "亚马逊现售索尼WF-C710N无线降噪耳机，价格降至88美元，较129.99美元的建议零售价优惠32%，节省41.99美元，为近几个月最佳优惠。该耳机主动降噪效果出色，续航在开启降噪时约8.5小时，关闭时可达12小时，配合充电盒总续航超30小时。支持触控、佩戴检测、多点连接和App均衡器调节，音质低音强劲、清晰，适合日常通勤和 casual 使用。",
-              "source_url": "https://www.androidauthority.com/sony-wf-c710n-deal-3701235/",
+              "title": "台积电或于 2026 年底量产 1.6nm 芯片",
+              "brief": "据报道，台积电已完成 1.6nm 工艺的开发与验证，计划于 2026 年第四季度开始量产。该工艺采用背面供电网络（SPR），将电源线路置于晶圆背面，以减少数据传输瓶颈。相比 2nm 工艺，1.6nm 可提升计算速度 8-10%，降低能耗 15-20%，芯片密度提高 8-10%。台积电希望借此过渡到 1.4nm 工艺，目标在 2028 年量产。",
+              "source_url": "https://www.androidauthority.com/tsmc-1-6-nm-process-3701276/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-21T00:59:40+08:00"
+              "published_at": "2026-08-21T04:21:08+08:00"
             },
             {
-              "title": "Gemini每日简报或将登陆Pixel锁屏",
-              "brief": "Android System Intelligence应用最新版本中发现了Gemini Daily Brief（每日简报）即将集成到At a Glance锁屏小部件的证据。该功能将作为At a Glance的开关选项出现，位于空气质量与财经之间。目前Gemini每日简报仅对美国用户开放，需订阅Google AI服务。不过，该功能尚未在锁屏上实际显示，具体形式仍不明确。",
-              "source_url": "https://www.androidauthority.com/google-gemini-brief-at-a-glance-apk-teardown-3701108/",
+              "title": "谷歌正与运营商合作修复 Messages 中的 RCS 问题",
+              "brief": "近期，Android 用户在 Google Messages 中遇到 RCS 错误代码 3100 等问题，尤其是在设置新设备或更换运营商时。用户尝试多种解决方案但效果不一。谷歌现已确认正在与运营商合作开发正式修复方案，但未给出具体时间表。建议用户耐心等待官方修复，而非尝试复杂的临时解决方法。",
+              "source_url": "https://www.androidauthority.com/google-rcs-messages-fix-3701283/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-21T00:58:36+08:00"
+              "published_at": "2026-08-21T03:57:45+08:00"
             },
             {
-              "title": "TCL NXTPAPER 70 Pro降至280美元以下",
-              "brief": "亚马逊现售TCL NXTPAPER 70 Pro，价格降至279.98美元，较329.99美元的建议零售价优惠15%，为历史最低价。该手机配备6.9英寸FHD+防眩光屏幕，120Hz刷新率，旨在减少眼部疲劳。搭载MediaTek Dimensity 7300芯片，最高512GB存储和24GB RAM，支持33W快充。用户评价良好，评分4.4星，是注重屏幕舒适度用户的超值选择。",
-              "source_url": "https://www.androidauthority.com/tcl-nxtpaper-70-pro-deal-3701225/",
+              "title": "谷歌发布 Pixel 11 系列新功能宣传视频",
+              "brief": "8 月 20 日，Pixel 11 系列正式开售。谷歌在 YouTube 上发布了一系列新视频，重点展示软件功能。其中“Magic Capture”可自动拍照，无需手动操作；“Gemini Intelligence”则能自动执行应用内任务。这些视频旨在吸引用户关注新机的智能特性，此前谷歌已发布过早期预告视频。",
+              "source_url": "https://www.androidauthority.com/google-pixel-11-videos-3701248/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-21T00:20:42+08:00"
+              "published_at": "2026-08-21T02:56:39+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Riot 停止开发《英雄联盟》格斗游戏",
+              "brief": "Riot Games 宣布，将于 2026 年底结束其免费《英雄联盟》格斗游戏 2XKO 的“积极开发”，原因是未能吸引足够玩家长期留存以实现可持续发展。服务器将在 2026 年后继续运行，所有角色将解锁，并退款玩家已支付费用。该游戏于 2025 年 10 月在 PC 上开启抢先体验，2026 年 1 月登陆 PS5 和 Xbox Series X|S，但随后团队遭裁员。公司表示，尽管做了调整，游戏势头仍未达到支持长期运营的水平。",
+              "source_url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+              "source_name": "The Verge",
+              "published_at": "2026-08-20T15:59:09-04:00"
+            },
+            {
+              "title": "Genesis GV90 突破电动汽车设计极限",
+              "brief": "Genesis 发布了首款面向美国市场的全尺寸三排电动 SUV GV90，其设计大胆创新。该车采用马车式车门，前门和后门对开时隐藏 B 柱，形成超大开口，称为“Neolun Arch Gate”，号称全球首创独立开合隐藏式 B 柱马车门。此外，前排座椅可旋转 180 度，这些独特功能使其在当今汽车市场中脱颖而出。",
+              "source_url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+              "source_name": "The Verge",
+              "published_at": "2026-08-20T15:52:57-04:00"
+            },
             {
               "title": "马克·扎克伯格买下爱尔兰城堡",
               "brief": "据《爱尔兰时报》报道，Meta CEO马克·扎克伯格和妻子普里西拉·陈几周前买下了爱尔兰的斯特兰卡利城堡及其440英亩庄园。这座占地16000平方英尺的城堡建于1830年左右，由前主人修复，交易金额可能在2000万至3000万欧元之间。发言人表示，扎克伯格家族期待继续照料这座历史建筑，并希望有时间在爱尔兰度过，但预计仍将居住在美国。",
@@ -214,20 +228,6 @@
               "source_url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
               "source_name": "The Verge",
               "published_at": "2026-08-20T13:38:30-04:00"
-            },
-            {
-              "title": "Framework称正在解决BIOS更新导致部分旧笔记本变砖的问题",
-              "brief": "部分搭载AMD Ryzen 7040系列芯片的Framework Laptop 13用户报告，最近的BIOS 3.20版本更新导致笔记本在Windows和Linux上变砖。Framework确认在保修期内外均受影响的主板将被更换。更新于7月发布，目前仍可在官网下载。一些用户反映更新后卡在更新界面，社区论坛上已有用户收到替换主板，但保修期外的用户也得到承诺。",
-              "source_url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
-              "source_name": "The Verge",
-              "published_at": "2026-08-20T13:16:02-04:00"
-            },
-            {
-              "title": "格雷格·布罗克曼现在是OpenAI的实际掌舵人",
-              "brief": "尽管山姆·奥特曼仍是首席执行官，但在日常运营中，他的副手格雷格·布罗克曼正在主导一切。OpenAI经历了动荡的一年，包括与前联合创始人埃隆·马斯克进行了轰动一时的陪审团审判。布罗克曼的角色扩展标志着公司领导层的重大转变，奥特曼可能更多关注外部事务，而布罗克曼则负责内部管理和产品开发。这一变化反映了OpenAI在快速发展中的新阶段。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-              "source_name": "The Verge",
-              "published_at": "2026-08-20T11:45:55-04:00"
             }
           ]
         }
@@ -239,6 +239,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "丹·艾克罗伊德展示《捉鬼敢死队》原始服装设计",
+              "brief": "丹·艾克罗伊德在社交媒体上分享了由约翰·达维基斯绘制的原始《捉鬼敢死队》连体衣和质子背包设计图，并庆幸最终放弃了头盔。原始设计中的服装颜色和质子背包尺寸都与1984年电影中的最终版本不同，头盔则类似《星球大战》中叛军飞行员的款式。艾克罗伊德与哈罗德·雷米斯共同编写了原版剧本，电影曾因版权问题差点命名为《Ghostblasters》或《Ghoststoppers》。2024年的《捉鬼敢死队：冰冻帝国》评分仅为4/10，评论认为该系列应被冷藏。",
+              "source_url": "https://www.ign.com/articles/dan-aykroyd-original-ghostbusters-costumes",
+              "source_name": "IGN",
+              "published_at": "2026-08-21T03:55:09+08:00"
+            },
+            {
+              "title": "查尔斯·梅尔顿或将出演《火影忍者》真人版卡卡西",
+              "brief": "据《好莱坞报道者》消息，查尔斯·梅尔顿正在最终谈判阶段，有望在德斯汀·丹尼尔·克莱顿执导的《火影忍者》真人电影中饰演卡卡西。梅尔顿是狂热的漫画和动漫迷，曾坦言经常熬夜看动漫到凌晨4点，并拥有跆拳道黑带二段。他的选角消息引发热议，许多人认为他为此拒绝了漫威《X战警》中野兽的角色。目前鸣人的选角仍在进行中，2026年夏季已发布公开选角公告，寻找16至20岁、运动型、有活力的年轻男演员。",
+              "source_url": "https://www.ign.com/articles/charles-melton-reportedly-in-final-negotiations-to-play-kakashi-in-destin-daniel-crettons-naruto-movie",
+              "source_name": "IGN",
+              "published_at": "2026-08-21T03:18:42+08:00"
+            },
             {
               "title": "《光环》联合创作者称若制作新作将更“黑暗”",
               "brief": "《光环》联合创作者马库斯·莱托在推特上表示，如果他制作新的《光环》游戏，他会采用更黑暗、更“接地气的军事风格”，并认为许多粉丝不会喜欢。他尊重现有设定，但会“搁置”它们，为新旧观众构建新的叙事未来。当被问及是否类似《光环：致远星》时，他明确表示“天哪不”。战争机器创作者克利夫·布莱辛斯基也评论说希望看到“硬R级”《光环》游戏，莱托回应称希望得到他的帮助。莱托还批评了外包问题，并建议《光环》必须由本地团队共同开发。",
@@ -259,20 +273,6 @@
               "source_url": "https://www.ign.com/articles/wonder-man-star-was-told-the-shows-cancellation-was-due-to-viewership-numbers",
               "source_name": "IGN",
               "published_at": "2026-08-21T01:11:41+08:00"
-            },
-            {
-              "title": "《现代战争4》开发者谈《使命召唤》平衡性需求",
-              "brief": "在接受IGN采访时，《现代战争4》的多人游戏设计负责人杰克·雷诺兹表示，玩家的整体水平比15年前高得多，因此开发团队必须仔细测试游戏，防止出现破坏平衡的战术。他特别提到了原版《现代战争2》中“一人军队”和榴弹发射器组合的漏洞，并强调团队正努力避免历史重演。",
-              "source_url": "https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty",
-              "source_name": "IGN",
-              "published_at": "2026-08-21T01:01:04+08:00"
-            },
-            {
-              "title": "《使命召唤：现代战争4》大型访谈：Infinity Ward谈测试、匹配等",
-              "brief": "在《现代战争4》测试版发布前，IGN采访了Infinity Ward的多人游戏创意总监乔·塞科特和设计负责人杰克·雷诺兹。他们讨论了游戏玩法、首次在测试版中开放战役关卡、以及如何改进玩家反馈。此外，他们还谈到了从《黑色行动7》引入的新匹配系统，该系统在玩家中存在争议。",
-              "source_url": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
-              "source_name": "IGN",
-              "published_at": "2026-08-21T01:00:33+08:00"
             }
           ]
         },
