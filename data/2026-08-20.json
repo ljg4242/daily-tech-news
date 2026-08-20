@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T15:37:52.533208+08:00",
+  "generated_at": "2026-08-20T17:37:46.163328+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "2026年我弃用的7款Android应用及替代品",
+              "brief": "作为工作的一部分，我全年测试许多新应用。有时会遇到比当前使用的更好的替代品，于是切换过去。今年到目前为止，我因各种原因在Android手机、iPhone和Mac上更换了一些应用。以下是七款我在Android手机上弃用并改用更好替代品的应用。你选择应用时最大的决定因素是什么？投票结果显示，界面臃肿和性能缓慢占多数，其次是广告、权限请求和免费层限制。例如，我用Obsidian替代了Notion，因为Obsidian支持完全离线使用，插件丰富；用LocalSend替代LANDrop，解决了发现问题和传输速度慢的困扰。",
+              "source_url": "https://www.androidauthority.com/android-apps-i-ditched-2026-3695261/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-20T17:30:14+08:00"
+            },
+            {
+              "title": "Pixel 11的Tensor G6芯片测试结果惨不忍睹",
+              "brief": "坦白说，我对Tensor G6在Pixel 11系列发布时的期望复杂。Google在CPU和TPU上做了有意义的升级，并采用了更高效的调制解调器。但Pixel 11 Pro仅配备12GB RAM（比去年减少4GB），削弱了其高端AI能力。同时，Google减少了一个CPU核心，降低了新架构的优势。虽然不能怪罪全球RAM供应链，但改用又一款中端图形芯片难以辩护。我们拿到手机后，绕过Google的基准测试限制，运行了常规测试套件。结果并不理想。投票显示，31%的用户希望有更多原始性能，29%更看重效率。与Tensor G5相比，G6的CPU频率提升，但GPU和RAM配置有所调整。",
+              "source_url": "https://www.androidauthority.com/tensor-g6-benchmarks-tests-3699714/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-20T17:00:22+08:00"
+            },
+            {
+              "title": "谷歌确认Android 17的“暂停点”功能为Pixel 11独占",
+              "brief": "摘要：Android 17的“暂停点”功能旨在减少用户在分散注意力的应用上花费的时间，但仅限于Pixel 11。最近更新的支持页面确认了该功能的有限可用性。虽然谷歌没有明确否认将其带到旧设备，但目前尚无确切消息。当你准备打开TikTok或Instagram等应用时，“暂停点”会强制暂停10秒，让你思考是否真的要打开。该功能于5月宣布，但尚未推广到已升级Android 17的旧Pixel设备。支持页面显示仅适用于Pixel 11系列，但未明确“仅限”。有趣的是，官方Android YouTube频道上的视频使用略有不同的表述。",
+              "source_url": "https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-20T16:17:23+08:00"
+            },
+            {
               "title": "Gboard 推出表情符号大小调节滑杆",
               "brief": "谷歌正在向部分用户推出 Gboard 测试版中的表情符号滑杆功能，允许用户调整表情符号的显示大小。该功能于今年六月首次被发现，现在已在最新测试版（v18.0.3.9）中向部分用户推送。用户可以通过滑杆调整表情符号的大小，同时每行显示的表情符号数量也会随之变化：最大尺寸时每行显示 5 个，最小尺寸时显示 9 个。这一功能对于视力不佳的用户尤为实用，便于他们更清晰地辨认表情符号。此外，Gboard 近期还推出了剪贴板时长滑杆、快速插入选项等新功能。",
               "source_url": "https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/",
@@ -181,33 +202,19 @@
               "source_url": "https://www.androidauthority.com/waymo-gemini-integration-3700836/",
               "source_name": "Android Authority",
               "published_at": "2026-08-20T14:41:38+08:00"
-            },
-            {
-              "title": "谷歌加强 Android 应用内存限制，防止卡顿",
-              "brief": "谷歌在 Android 17 中扩展了单个应用的内存使用限制，该功能最初在 Pixel 手机上推出，未来一年将扩展到更多设备。当应用超过内存限制时，系统会先将部分数据压缩存储，若仍超限则可能终止应用。此举旨在防止单个应用占用过多内存导致手机整体变慢，尤其对低内存设备有益。但开发者需优化应用以适应新限制，否则可能影响应用性能。谷歌还提供了新工具帮助开发者识别和修复内存问题。",
-              "source_url": "https://www.androidauthority.com/google-android-apps-memory-usage-enforcement-3700841/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-20T14:31:11+08:00"
-            },
-            {
-              "title": "高通预告两款骁龙 8 Elite 芯片，9 月发布",
-              "brief": "高通在社交媒体上预告，将于 9 月 22 日发布两款骁龙 8 Elite 系列芯片，并称它们具备最新的连接技术、卓越的 GPU 性能和沉浸式游戏体验。根据传闻，这两款芯片可能是骁龙 8 Elite Gen 6 和 Gen 6 Pro。Pro 版预计采用 2nm 工艺、Oryon CPU 和 Adreno 850 GPU，支持 LPDDR6 内存；标准版则采用 3nm 工艺、Adreno 845 GPU，支持 LPDDR5X 内存。Pro 版可能大幅涨价，可能影响旗舰手机价格。",
-              "source_url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-20T14:15:50+08:00"
-            },
-            {
-              "title": "Pixel 11系列悄然独占一项实用的新触觉功能",
-              "brief": "Pixel 11系列推出了自定义振动功能，用户可为铃声和通知选择多种振动模式，如心跳、齿轮、响尾蛇、脉冲等。还能为单个联系人设置专属振动，无需看屏幕即可辨别来电。该功能此前在APK拆解中被发现，现已正式上线。用户可在设置>声音与振动>铃声>振动中调整，系统会根据所选铃声推荐振动模式，也可手动更换。通知振动同样可自定义，提供经典长振动、心跳等多种选项。",
-              "source_url": "https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-20T12:17:34+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "LG新型OLED技术可延长显示屏寿命",
+              "brief": "LG Display在IMID 2026上发布了名为FLiPP的新型OLED制造工艺，该技术无需使用精细金属掩模（FMM），有望解决传统RGB OLED在制造大尺寸面板时遇到的掩模下垂和校准问题。FLiPP技术能生产更亮、更节能、寿命更长且几乎任意尺寸的OLED面板，被视为下一代OLED的突破。这一创新有望降低成本并推动大尺寸OLED显示器的普及。",
+              "source_url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+              "source_name": "The Verge",
+              "published_at": "2026-08-20T05:11:26-04:00"
+            },
             {
               "title": "给相机装上翅膀能否规避FCC无人机禁令？",
               "brief": "HoverAir Versa无人机试图通过将产品定义为“相机”来规避美国联邦通信委员会（FCC）的无人机禁令。该设备售价750美元，外形类似DJI Pocket迷你稳定相机，但具备飞行能力。HoverAir声称这不是无人机，而是带翅膀的相机，但这一说法可能面临法律挑战。此前，其Aqua无人机因禁令被禁，此次Versa能否成功钻空子尚不确定。FCC禁令旨在阻止外国无人机进入美国市场，而HoverAir的母公司Zero Zero Robotics可能找到了漏洞，但该漏洞可能不会长久。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
               "source_name": "The Verge",
               "published_at": "2026-08-19T14:16:27-04:00"
-            },
-            {
-              "title": "可穿戴设备的未来困于实验与存在主义困境",
-              "brief": "作者与 Google 探讨了下一代可穿戴设备的愿景，认为目前仍处于摸索阶段。手腕上的 AI 等实验性功能展示了可能性，但缺乏明确方向。可穿戴设备在形态、功能和用途上存在矛盾，既想成为日常助手，又面临隐私和实用性的挑战。尽管 Google 在 AI 集成上做出尝试，但整个行业仍在寻找可穿戴设备的核心价值，处于一种奇怪、实验性的存在主义困境中。",
-              "source_url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-              "source_name": "The Verge",
-              "published_at": "2026-08-19T14:00:00-04:00"
             }
           ]
         }
@@ -253,6 +253,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "前《铁拳8》总监池田幸平加入VS Studio，与铁拳老将原田胜弘再聚首",
+              "brief": "前《铁拳8》总监池田幸平宣布加入VS Studio，与《铁拳》系列制作人原田胜弘再次合作。池田在社交媒体上表示，加入VS Studio是其职业生涯的下一步，与两位前上司再次共事既怀旧又充满兴奋。池田于六月离开万代南梦宫，此前在《铁拳7》和《铁拳8》中担任游戏总监。原田胜弘在离开万代南梦宫后迅速创立了VS Studio。池田的离职紧随原田之后，他曾协助实现原田的最后一个请求，即在《铁拳8》中重现十年前澳洲男子为救狗而拳打袋鼠的病毒视频。VS Studio的具体项目尚不明朗，但已聚集了多位格斗游戏资深人士。",
+              "source_url": "https://www.ign.com/articles/former-tekken-8-director-kohei-ikeda-joins-vs-studio-re-teams-with-tekken-veteran-katsuhiro-harada",
+              "source_name": "IGN",
+              "published_at": "2026-08-20T16:08:16+08:00"
+            },
+            {
+              "title": "《黑神话：钟馗》惊艳实机预告，展示新主角、战斗与惊人格挡",
+              "brief": "《黑神话：钟馗》新实机预告展示了主角、战斗和世界，细节丰富。预告片以宁静的海边环境开场，新主角在海滩上发现一位老人，两人建造木筏试图出海，却被巨浪打断。随后展示战斗，主角背着老人与一群妖怪战斗，用剑击败敌人，并成功格挡大型敌人的火焰攻击，以华丽的处决结束。老人似乎死去，但化作飞叶，主角追踪至湖边，发现一具女尸，但被生物驱赶。战斗动作流畅，剑术写实，格挡和闪避动画干净利落，收剑动作也令人印象深刻。",
+              "source_url": "https://www.ign.com/articles/stunning-black-myth-zhong-kui-gameplay-trailer-gives-us-a-closer-look-at-the-new-protagonist-combat-and-a-truly-impressive-parry",
+              "source_name": "IGN",
+              "published_at": "2026-08-20T14:44:26+08:00"
+            },
             {
               "title": "《奥德赛》成R级片票房冠军，瑞安·雷诺兹祝贺诺兰",
               "brief": "克里斯托弗·诺兰的《奥德赛》以13.4亿美元票房超越《死侍与金刚狼》的13.38亿美元，成为全球R级片票房新冠军。该片也是诺兰个人最卖座的作品，仅次于《蜘蛛侠：崭新一天》的20亿票房。雷诺兹在社交媒体发布幽默视频，将《奥德赛》中的森林行军与《死侍与金刚狼》中的车内打斗并置，并配文祝贺。目前《奥德赛》仍在热映，70毫米IMAX版延长至9月16日。",
@@ -273,20 +287,6 @@
               "source_url": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
               "source_name": "IGN",
               "published_at": "2026-08-20T06:18:11+08:00"
-            },
-            {
-              "title": "《漫威金刚狼》导演回应实机演示引发的争议",
-              "brief": "Insomniac开发的PS5独占游戏《漫威金刚狼》本周放出更多实机演示，展示剧情、角色互动、移动、战斗及哨兵机器人Boss战。但视频引发玩家强烈批评，包括金刚狼追踪红色气味痕迹（被与“黄色油漆”引导比较）、与剑齿虎的争吵（配音受质疑）以及Boss战设计。有网友将Boss战与2007年PS2游戏《Ben 10：地球守护者》和2009年《X战警前传：金刚狼》对比，批评其平庸。导演在回应中表示注意到了这些批评，并可能解释设计决策。",
-              "source_url": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
-              "source_name": "IGN",
-              "published_at": "2026-08-20T05:55:02+08:00"
-            },
-            {
-              "title": "《现代战争4》测试版揭示多人匹配计划，将继续使用有争议的新匹配系统",
-              "brief": "《使命召唤》社区中，匹配系统是热门话题，它决定了玩家在线体验的好坏。随着《现代战争4》即将到来，动视公布了本周末测试版的匹配计划。测试版将包含《黑色行动7》第五赛季引入的新匹配系统，以及去年推出的开放匹配系统。开放匹配更随机，变化更多，是动视回应玩家对激进技能匹配抱怨的举措。新系统灵感来自初代《黑色行动》，动视称其基于“更智能的队伍平衡、广泛的比赛多样性、保持比赛满员”等改进。尽管玩家反馈不一，但数据显示新系统下玩家退出率降低。测试版将同时使用两种系统，以便Infinity Ward收集数据做出最终决定。",
-              "source_url": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
-              "source_name": "IGN",
-              "published_at": "2026-08-20T05:47:51+08:00"
             }
           ]
         },
@@ -319,6 +319,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "芒果磁盘清理 / MangoDisk：开源深度磁盘清理工具，轻量高颜值[macOS/Windows]",
+              "brief": "芒果磁盘清理（MangoDisk）是一款免费开源的磁盘清理工具，支持 macOS 和 Windows。它能够深度清理系统、应用、浏览器和开发环境中的缓存、临时文件与卸载残留，并针对开发者提供构建产物和本地 AI 模型清理。此外，它还能扫描大文件和重复文件，按内容识别真正相同的副本。磁盘空间分析功能通过矩形图直观展示占用情况。所有操作均在本地完成，无需登录，扫描后由用户确认清理。采用 GPLv3 许可证，可放心使用。",
+              "source_url": "https://www.appinn.com/mangodisk/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-20T16:18:32+08:00"
+            },
             {
               "title": "Win11右键菜单更新：更快更简洁，但仍需改进",
               "brief": "微软近日向预览体验成员推送了改进后的Windows 11右键菜单，宣称其速度更快、更简洁、更可定制。官方表示已分析并修复了文件资源管理器中导致卡顿、延迟和闪烁的多种因素，提升了整体性能。有测试显示新菜单甚至比Windows 10还快，但实际体验中提升并不明显。该版本需加入预览计划，普通用户暂不建议尝试。",
@@ -386,39 +393,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "OPPO和一加支持交通优行卡免费开卡，全国330+城市公交地铁先乘后付",
-              "brief": "OPPO和一加用户现可免费开通交通优行卡，支持全国330多个城市的公交地铁先乘后付。用户需将钱包应用升级至5.50.0及以上版本。此外，ColorOS 16新增双指外扩手势一键清除应用角标，锁屏歌词支持酷狗概念版，并推出汇率、纪念日等桌面卡片。OPPO AI新增团购券到期提醒，优化小布记忆；设备互联支持跨屏解锁和剪贴板流转；天气应用上线台风路径卡片；便签支持图片涂鸦；安全隐私新增风险应用管控和隐私替身功能。",
-              "source_url": "https://www.ithome.com/0/992/137.htm",
+              "title": "华为Pura X View开启预约：96.1%屏占比+1.05mm极窄边框，厚6.68mm重201g配7000mAh大电池",
+              "brief": "华为Pura X View现已开启预约，提供2GB、12+256GB、12GB+1TB三种存储版本。该机采用16:9.5全新比例，屏占比达96.1%，为业界最高；四等边黑边宽度均为1.05mm。屏幕分辨率为2232×1320，支持2160Hz高频PWM调光，峰值亮度6500nits。机身厚度约6.68mm，重量约201g，内置7000mAh电池。该机将首发搭载HarmonyOS 7系统，围绕阔屏形态开发了阔感观剧、阅读、游戏和办公等场景化体验。据官方数据，阔屏追剧显示面积提升16%，竖屏浏览显示面积提升21%。",
+              "source_url": "https://www.ithome.com/0/992/230.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-20T15:26:22+08:00"
+              "published_at": "2026-08-20T17:27:41+08:00"
             },
             {
-              "title": "Win11用户反馈：安装8月累积更新后ARM64设备无法启动Teams或新版Outlook",
-              "brief": "部分ARM64设备如Laptop 7、Surface Pro 11和HP OmniBook 3在安装微软8月累积更新后，无法启动Microsoft Teams和新版Outlook等MSIX/AppX应用。传统Win32应用如Word、Excel和经典Outlook运行正常。用户Brian Stringfellow指出，问题源于AppModel Runtime包状态损坏，Token生成过程报告依赖项问题，触发0x80073CFC错误。",
-              "source_url": "https://www.ithome.com/0/992/128.htm",
+              "title": "联想推出2026款ThinkPad E13笔记本：Ultra 5 226V + 16G + 512G售6999元",
+              "brief": "联想推出2026款ThinkPad E13笔记本，重量约1.21kg，厚度17.18mm，配备13英寸1920x1200分辨率60Hz面板，亮度400尼特，覆盖100% sRGB色域。搭载英特尔酷睿Ultra 5 226V处理器（8核8线程），匹配16GB LPDDR5x 8533MT/s内存和512GB SSD，内置54Whr电池。接口包括2个USB-A 3.2 Gen 1、2个雷电4、1个HDMI 2.1和1个3.5mm音频接口。售价6999元。",
+              "source_url": "https://www.ithome.com/0/992/228.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-20T15:18:50+08:00"
+              "published_at": "2026-08-20T17:25:37+08:00"
             },
             {
-              "title": "交通运输部：AI识别疲劳驾驶准确率达95%以上，推动交通安全智能化",
-              "brief": "交通运输部表示，AI可有效识别驾驶员疲劳驾驶、分心驾驶等行为，准确率达95%以上。通过数据融通、模式变革、系统重构和降本增效，推动交通一体化融合、安全化提升、数智化升级和绿色化转型。例如，广西北部湾港利用AI优化调度，集装箱铁水联运中转时间压缩20%以上；云南、福建大件运输智能审批时限从7个工作日压缩至24小时内；青岛港自动化码头单箱能耗降低15%以上。",
-              "source_url": "https://www.ithome.com/0/992/127.htm",
+              "title": "宝马副总裁吴燕彦：行业应共同抵制压缩验证周期、测试中偷工减料的浮躁行为",
+              "brief": "宝马副总裁吴燕彦在公开场合表示，行业应共同抵制压缩验证周期、测试中偷工减料的浮躁行为。他强调，作为业务遍布全球140多个市场的车企，宝马认为靠封闭与割裂没有赢家，自由贸易和开放合作才是产业创新和经济繁荣的根基。吴燕彦指出，当前跨国车企在华发展面临三重挑战：快速适应中国市场电动化、数字化、智能化、低碳化转型的节奏；充分利用中国创新成果，加速与全球技术体系融合；全球化供应链体系如何在复杂地缘政治环境中找到平衡。宝马将继续践行“在中国，为中国，与中国共进”的战略。",
+              "source_url": "https://www.ithome.com/0/992/226.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-20T15:18:35+08:00"
+              "published_at": "2026-08-20T17:20:17+08:00"
             },
             {
-              "title": "英伟达黄仁勋之女黄敏珊来华，现身2026世界机器人大会",
-              "brief": "英伟达创始人黄仁勋之女黄敏珊近日到访中国，出席2026世界机器人大会。她参观了越疆机器人展位，重点了解“一脑多体”具身智能平台和乒乓球高速人机对抗演示，展示了英伟达与越疆在物理AI领域的合作成果。此前，黄敏珊刚访问LG电子韩国机器人工厂，讨论协同效应。",
-              "source_url": "https://www.ithome.com/0/992/126.htm",
+              "title": "拜雅发布MMX 100 wireless、MMX 130 wireless头戴游戏耳机",
+              "brief": "拜雅发布两款头戴游戏耳机：MMX 100 wireless和MMX 130 wireless。两者均配备META VOICE麦克风，支持三模连接（蓝牙6.0支持A2DP、HFP协议），电池续航超80小时。MMX 100 wireless采用柔软天鹅绒耳垫和坚固金属铰链，重量275g，含税定价99欧元（约合777.3元人民币）。MMX 130 wireless则结合40mm镀钛单元和透气天鹅绒耳垫，重量265g，含税定价129欧元（约合1013元人民币）。",
+              "source_url": "https://www.ithome.com/0/992/223.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-20T15:18:27+08:00"
+              "published_at": "2026-08-20T17:13:17+08:00"
             },
             {
-              "title": "“AI教母”李飞飞：管理初创公司让我展现“虎妈”一面",
-              "brief": "李飞飞在采访中表示，作为World Labs创始人，她常觉得自己像“妈妈”甚至“虎妈”，对团队要求严格。World Labs致力于开发“世界模型”，近期获10亿美元融资。她强调，面对年轻同事时自然进入导师角色，建议年轻人关注真正重要的事情，并认为创始人不应有“上帝情结”，而应赋能他人。",
-              "source_url": "https://www.ithome.com/0/992/121.htm",
+              "title": "鸿蒙智行家庭智慧旗舰MPV享界V8登场，将亮相2026成都车展",
+              "brief": "鸿蒙智行家庭智慧旗舰MPV享界V8正式登场，将亮相2026成都车展。目前鸿蒙智行高端MPV市场格局包括：超豪华尊界V800/V680、宜商宜家智界V9、高端家用享界V8。享界汽车还发布了享界V8的官图。该车型定位家庭智慧旗舰，具体配置和售价尚未公布，更多信息将在车展上揭晓。",
+              "source_url": "https://www.ithome.com/0/992/222.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-20T15:10:34+08:00"
+              "published_at": "2026-08-20T17:08:52+08:00"
             }
           ]
         },
