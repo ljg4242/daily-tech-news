@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T17:37:42.516047+08:00",
+  "generated_at": "2026-08-21T19:39:10.719509+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果据报道裁减60名Vision产品部门员工",
+              "brief": "据报道，苹果已解雇了至少60名来自其Apple Vision Group的员工，该团队专门负责VR开发。此前，彭博社的马克·古尔曼曾报道称，在2025年10月Vision Pro更新及市场反响不佳后，Vision Pro团队已被解散，成员被重新分配到其他项目。即将上任的苹果CEO约翰·特努斯也批准取消了第二代Vision Pro和更便宜、更薄的“Vision Air”项目，苹果的焦点现已转向智能眼镜。古尔曼预计，苹果最早要到2028年底才会推出另一款头显。",
+              "source_url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-21T19:28:57+08:00"
+            },
             {
               "title": "相机版AirPods代码揭示图像分辨率、状态灯、人物检测等细节",
               "brief": "MacRumors论坛成员mactracker在macOS Tahoe 26.7候选版本的隐藏框架“AccessorySensorManager”中发现了更多关于相机版AirPods的细节。代码显示，左右耳塞各配备一个摄像头传感器，可同步拍摄高达1百万像素的RGB静态图像，为视觉智能提供双角度画面。AirPods支持周期性图像捕捉，但不支持视频录制。主动模式（可能由用户通过Siri触发）下，捕捉640x640图像并输出1024x1024；被动模式下捕捉320x320，输出320x320或512x512。被动模式可能用于后台环境感知。此外，代码还提及状态灯和人物检测功能。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
               "source_name": "MacRumors",
               "published_at": "2026-08-21T07:12:55+08:00"
-            },
-            {
-              "title": "苹果发布新版AirPods测试版固件，支持iOS 27新功能",
-              "brief": "苹果今天发布了第五版AirPods测试版固件，适用于AirPods Pro 2、AirPods Pro 3、AirPods 4和AirPods Max 2，供开发者和公开测试者使用。固件版本号为9A5347a。该固件为iOS 27、iPadOS 27和macOS Golden Gate中的新AirPods界面、自适应模式滑块和自定义EQ提供支持，并兼容新的Siri AI。用户可在AirPods设置中开启测试版更新，连接设备并充电后即可下载安装，但可能需要数小时完成。",
-              "source_url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-21T03:10:34+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "9to5Mac 每日播报：2026年8月21日 – 带摄像头的 AirPods 等",
+              "brief": "本期节目讨论了 HomePad 代码暗示其将像巨型 Apple Watch 一样工作；据泄密者称，Apple Watch Series 12 将带回备受喜爱的设计材质；尽管有演示视频泄露，但配备摄像头的 AirPods 据称不会在 2026 年推出。节目还提到了苹果即将在 9 月发布 10 多款新产品。",
+              "source_url": "https://9to5mac.com/2026/08/21/daily-august-21-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-21T19:00:00+08:00"
+            },
             {
               "title": "《王朝：康涅狄格大学哈士奇队》现已在 Apple TV 上线",
               "brief": "Apple TV 订阅者现可观看纪录片《王朝：康涅狄格大学哈士奇队》全部三集。该纪录片由马修·哈马切克和埃里卡·萨辛执导，采访了历代康涅狄格大学篮球队的教练、运动员、校友、对手和记者。影片记录了大学篮球史上最杰出球队的崛起，包含 2025 年全国冠军队伍的独家采访，以及跨越几代人的传奇声音。通过前所未有的档案影像和近距离接触，深入探讨了追求卓越、持续成功的期望，以及支撑这一标准的人们。该片加入了 Apple TV 不断扩充的体育内容库，包括《足球教练》《The Dink》《Stick》等。Apple TV 每月 12.99 美元，或包含在 Apple One 套餐中。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-21T04:55:53+08:00"
-            },
-            {
-              "title": "Apple Music 即将为 AI 生成内容添加可见标签",
-              "brief": "苹果公司宣布，将在今年晚些时候为 Apple Music 中的 AI 生成内容添加可见的“Made With AI”标签。内容提供商在 AI 被用于创作内容的重要部分时必须添加透明度标签，包括由生成式 AI 服务主要生成的内容。苹果表示，此举旨在为听众提供尽可能多的透明度。这一举措是流媒体平台应对 AI 音乐涌入的最新例子，此前 Spotify 和 Deezer 已采取类似措施。苹果音乐负责人 Oliver Schusser 透露，每月上传的 AI 生成音乐占比超过三分之一，但收听量占比不足 0.5%。",
-              "source_url": "https://9to5mac.com/2026/08/20/apple-music-will-soon-get-visible-labels-for-ai-generated-content/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-21T04:08:57+08:00"
             }
           ]
         },
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "体验 Android 17 QPR2 Beta 3：这三个功能彻底改变我的 Pixel",
+              "brief": "Android 17 QPR2 Beta 3 已推出，除了修复和优化，还带来不少新功能。最令人惊喜的是快速设置面板布局可自定义，用户可自由调整亮度滑块、快捷开关和媒体播放器的位置。此外，动态色彩主题和应用锁功能也得到改进。这些功能让 Pixel 手机体验大幅提升。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-3-hands-on-3700096/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-21T18:30:37+08:00"
+            },
+            {
+              "title": "三星意外为 Galaxy S8 和 Note 8 推送更新，现已扩展至全球用户",
+              "brief": "三星为 Galaxy S8 和 Note 8 推送了意外更新，此前仅限美国机型，现在已扩展至全球。更新固件版本分别为 G950FXXUCDZE7 和 N950FXXUGDZEA，但安全补丁级别和安卓版本保持不变。三星仅提及提升稳定性和可靠性，具体修复内容不明。更新包大小约 420MB，引发猜测。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s8-note-8-update-global-rollout-3701394/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-21T18:26:45+08:00"
+            },
+            {
+              "title": "三星手机图库应用有隐藏菜单？教你如何找到",
+              "brief": "三星图库应用功能丰富，但有些功能隐藏在名为“Gallery Labs”的秘密菜单中。要启用它，需进入图库设置，点击“关于图库”，连续点击版本号十次。启用后，可在设置中看到Gallery Labs选项，其中包含相册锁定、PDF创建、时间线视图等实验性功能。这些功能可提升用户体验。",
+              "source_url": "https://www.androidauthority.com/samsung-gallery-labs-menu-how-find-3698693/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-21T18:00:57+08:00"
+            },
+            {
               "title": "5款安卓手机，比Pixel 11 Pro XL更值得购买",
               "brief": "Pixel 11 Pro XL发布后引发诸多疑问。谷歌新旗舰喜忧参半，虽有必要改进，但也有不幸降级。今年价格上涨，让买家觉得多花钱少配置。即便是铁杆Pixel粉丝也难抉择。如果你犹豫是否购买，这里有五款安卓替代品：三星Galaxy S26 Ultra、摩托罗拉Razr Ultra (2026)、谷歌Pixel 10a、Nothing Phone 3、谷歌Pixel 10 Pro XL。其中Galaxy S26 Ultra起售价与Pixel 11 Pro XL相当，但配备骁龙8 Elite Gen 5芯片，性能强劲，游戏体验出色，摄像头系统优秀，配备200MP主传感器。而Pixel 11 Pro XL起售价1300美元，仅12GB RAM，比去年还少。",
               "source_url": "https://www.androidauthority.com/pixel-11-pro-xl-alternatives-3697184/",
@@ -181,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/liene-pixcut-s1-3701046/",
               "source_name": "Android Authority",
               "published_at": "2026-08-21T17:10:04+08:00"
-            },
-            {
-              "title": "谷歌Pixel 11新功能Tap to Share：使用方法详解",
-              "brief": "谷歌在Pixel 11系列中推出了更直观的快速共享功能Tap to Share，通过将两部兼容安卓手机的顶部靠近即可发起连接，类似苹果的AirDrop。Pixel 11系列为此做了硬件调整。测试中，将Pixel 11 Pro XL和Pixel 11 Pro Fold顶部相碰或悬停，设备边缘亮起并发出提示音，连接建立后即可分享内容。若未选择具体内容，可分享联系人信息、图片、邮箱或电话号码（支持双卡）。该功能简化了快速共享流程，无需繁琐菜单。",
-              "source_url": "https://www.androidauthority.com/pixel-11-tap-to-share-how-use-3700155/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-21T17:00:24+08:00"
-            },
-            {
-              "title": "YouTube Premium或再涨价，距上次调价仅数月",
-              "brief": "据欧洲用户报告，YouTube Premium可能在数月后再次涨价，个人和家庭计划均受影响。部分用户已收到邮件，显示个人计划从每月17.99欧元涨至20.99欧元，家庭计划从25.99欧元涨至29.99欧元。芬兰用户则报告从14.99欧元涨至16.99欧元。这些报告尚未官方确认，美国市场是否受影响未知。此前美国已在2026年4月将价格从13.99美元上调至15.99美元，而欧洲价格自2024年以来未变。若涨价落地，将影响多个平台。",
-              "source_url": "https://www.androidauthority.com/youtube-premium-may-get-another-price-hike-3701352/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-21T16:32:38+08:00"
-            },
-            {
-              "title": "华硕Googlebook新泄露：更多配置和定价细节",
-              "brief": "华硕Googlebook再次泄露，显示将提供16GB RAM和英特尔酷睿Ultra 5处理器版本，价格约1390美元。此外，可能还有32GB或64GB RAM及酷睿Ultra 7处理器的高配版。泄露的零售列表显示型号CX9406CAA-DSU51T-CB，配备14英寸触摸屏、512GB SSD。此前的泄露暗示华硕Googlebook可能配备64GB RAM，但新泄露表明华硕将推出多档配置，以覆盖不同价位。考虑到配件价格，华硕可能不会只推出顶级配置，而是提供低于1500美元的选项，以与其他品牌竞争。",
-              "source_url": "https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-21T15:49:33+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Patreon 调整算法，帮助小创作者被发现",
+              "brief": "Patreon 宣布了一系列新功能和改进，旨在“构建更好的网络和互联网”。CEO Jack Conte 表示，平台将推出超过30项新工具，包括发现算法更新、平台和安全改进，以及为创作者和粉丝提供的新功能。Conte 在博客文章中批评了上一代科技公司“使互联网恶化”的做法，并希望将 Patreon 定位为更好的在线创作和社区平台。这些更新旨在解决创作者无法触达粉丝的问题，但部分功能可能不会完全向用户推出。",
+              "source_url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
+              "source_name": "The Verge",
+              "published_at": "2026-08-21T07:08:09-04:00"
+            },
+            {
+              "title": "我家那只胖胖的、害怕科技的猫",
+              "brief": "作者讲述了她为帮助猫咪 Pablo 减肥所做的种种努力，但均以失败告终。Pablo 重达20磅，兽医警告其肥胖可能导致糖尿病、肾脏问题以及泌尿系统疾病。尽管作者尝试了各种宠物科技产品和玩具，但 Pablo 依然我行我素。作者感叹宠物科技无法与 Pablo 的意志抗衡，并反思了宠物减肥的困难。",
+              "source_url": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+              "source_name": "The Verge",
+              "published_at": "2026-08-21T07:00:00-04:00"
+            },
             {
               "title": "Genki 新款可定制手柄配备大屏幕和可调节按键",
               "brief": "Genki 今日在 Kickstarter 上发布了其首款自主设计的手柄 Manta。这款手柄采用非传统设计，将摇杆和按键置于一块 2.9 英寸 LCD 屏幕上方，外观比竞品更厚重。其最大特色在于深度定制功能，用户可通过屏幕调整多项设置，并可更换摇杆和按键以适应个人偏好。早期支持者可以 189 美元的折扣价预购，零售价将更高。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
               "source_name": "The Verge",
               "published_at": "2026-08-20T15:59:09-04:00"
-            },
-            {
-              "title": "Genesis GV90 突破电动汽车设计极限",
-              "brief": "Genesis 发布了首款面向美国市场的全尺寸三排电动 SUV GV90，其设计大胆创新。该车采用马车式车门，前门和后门对开时隐藏 B 柱，形成超大开口，称为“Neolun Arch Gate”，号称全球首创独立开合隐藏式 B 柱马车门。此外，前排座椅可旋转 180 度，这些独特功能使其在当今汽车市场中脱颖而出。",
-              "source_url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
-              "source_name": "The Verge",
-              "published_at": "2026-08-20T15:52:57-04:00"
-            },
-            {
-              "title": "马克·扎克伯格买下爱尔兰城堡",
-              "brief": "据《爱尔兰时报》报道，Meta CEO马克·扎克伯格和妻子普里西拉·陈几周前买下了爱尔兰的斯特兰卡利城堡及其440英亩庄园。这座占地16000平方英尺的城堡建于1830年左右，由前主人修复，交易金额可能在2000万至3000万欧元之间。发言人表示，扎克伯格家族期待继续照料这座历史建筑，并希望有时间在爱尔兰度过，但预计仍将居住在美国。",
-              "source_url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-              "source_name": "The Verge",
-              "published_at": "2026-08-20T14:50:14-04:00"
             }
           ]
         }
@@ -253,6 +253,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《惊奇女士》主演回归MCU，推出《复仇者联盟：末日》倒计时官方播客",
+              "brief": "《惊奇女士》主演伊曼·韦拉尼将主持一档官方播客，为《复仇者联盟：末日》预热。该播客共五集，首集将于8月27日播出，可在Disney+、Marvel YouTube频道及各大音频平台收听。节目将回顾MCU关键剧情，最后一集聚焦《复仇者联盟4：终局之战》，并与该片的加长版上映同步。",
+              "source_url": "https://www.ign.com/articles/ms-marvel-star-returns-to-mcu-with-countdown-to-avengers-doomsday-official-podcast",
+              "source_name": "IGN",
+              "published_at": "2026-08-21T17:47:21+08:00"
+            },
+            {
+              "title": "《绿灯侠》剧集成DC工作室HBO Max首播最高，超越《企鹅人》和《和平使者》",
+              "brief": "据《好莱坞报道》称，《绿灯侠》剧集在HBO和HBO Max上线前三天全球观看人次达930万，其中71%来自美国，成为DC工作室在HBO Max首播成绩最好的剧集，超越《企鹅人》《和平使者》和《生物突击队》，并跻身HBO Max整体首播前五。该剧由凯尔·钱德勒饰演哈尔·乔丹，亚伦·皮埃尔饰演约翰·斯图尔特，预计2026年8月开播。",
+              "source_url": "https://www.ign.com/articles/lanterns-saw-the-biggest-premiere-for-a-dc-studios-show-on-hbo-max-ahead-of-the-penguin-and-peacemaker",
+              "source_name": "IGN",
+              "published_at": "2026-08-21T17:47:19+08:00"
+            },
             {
               "title": "Netflix公布《赛博朋克：边缘行者2》新预告和图片",
               "brief": "Netflix在Anime NYC上公布了《赛博朋克：边缘行者2》的英文预告和全新图片。预告中，老牌边缘行者Weak Kingsley（由Clancy Brown配音）陷入赛博精神病，与敌人交火。他接受了一位母亲的委托，寻找她的女儿。同时，D和Roman Carax在沙漠中面对燃烧的尸体。旁白暗示着复仇与救赎的主题。该剧将于2026年10月20日上线，共10集。",
@@ -273,26 +287,19 @@
               "source_url": "https://www.ign.com/articles/netflix-reveals-packed-anime-slate-full-announcement-rundown-trailers-and-images",
               "source_name": "IGN",
               "published_at": "2026-08-21T08:00:09+08:00"
-            },
-            {
-              "title": "《Zoey 101》主演Jamie Lynn Spears否认剧集因少女怀孕被取消",
-              "brief": "Jamie Lynn Spears在播客中澄清，《Zoey 101》并非因为她怀孕而被取消。她表示最后一季在怀孕前就已拍摄完毕，并计划作为最终季。她指出，剧集在拍摄后一年才播出，导致观众误解。她的女儿在TikTok上经常被指责是剧集结束的原因，但Spears表示这不是事实。该剧共四季，2023年推出了续集电影《Zoey 102》。",
-              "source_url": "https://www.ign.com/articles/zoey-101-star-jamie-lynn-spears-denies-show-was-canceled-because-of-teen-pregnancy",
-              "source_name": "IGN",
-              "published_at": "2026-08-21T07:37:41+08:00"
-            },
-            {
-              "title": "戴夫·巴蒂斯塔正式出演《战神》剧版奎托斯，因瑞安·赫斯特受伤退出",
-              "brief": "在瑞安·赫斯特因伤退出后，戴夫·巴蒂斯塔正式加盟《战神》剧版，饰演奎托斯。赫斯特在拍摄特技时撕裂二头肌，恢复期漫长，导致剧组重新选角。巴蒂斯塔此前曾为饰演奎托斯进行增肌，但近期减重75磅，可能需要恢复德拉克斯的体型。粉丝对选角表示认可，但认为他需要增肌。该剧预计2026年10月中旬恢复制作。",
-              "source_url": "https://www.ign.com/articles/dave-bautista-officially-cast-as-kratos-in-god-of-war-show-after-ryan-hurst-drops-out-due-to-injury",
-              "source_name": "IGN",
-              "published_at": "2026-08-21T06:14:34+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "微软隐藏 OneDrive Photos，但应用并未删除",
+              "brief": "微软最近向 Windows 11 用户悄悄推送了新的照片应用 OneDrive Photos，它与 OneDrive 位于同一文件夹内，无法单独卸载。事情曝光后，微软表示这是一次意外，并减少了该应用的曝光度，在开始菜单和搜索中移除了它，但并未删除，只是隐藏起来。",
+              "source_url": "https://www.solidot.org/story?sid=85159",
+              "source_name": "Solidot",
+              "published_at": "2026-08-21T18:08:10+08:00"
+            },
             {
               "title": "微软调查Windows 11八月更新致游戏崩溃问题",
               "brief": "微软正在调查部分用户在安装Windows 11八月例行安全更新后遭遇游戏崩溃的报告。受影响的游戏可能失去响应、意外关闭、引发“EXCEPTION_ACCESS_VIOLATION”错误或触发设备意外重启。受影响的游戏包括《ARC Raiders》、《MARVEL Tōkon: Fighting Souls》和《The Finals》。微软表示正在调查问题是否由更新引起，并请求受影响用户提供反馈。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=85155",
               "source_name": "Solidot",
               "published_at": "2026-08-21T15:16:32+08:00"
-            },
-            {
-              "title": "天文学家发现银河系已知最快的恒星",
-              "brief": "天文学家发现了银河系中运行速度最快的恒星，名为S301。它围绕银河系中心的超大质量黑洞人马座A*运行，最快速度达到每秒2.5万公里，超过光速的8%。其轨道非常接近黑洞，有望帮助科学家首次直接测量大质量黑洞的自转，并为检验爱因斯坦广义相对论提供新机会。S301的公转周期为8.7年，在最近时距离黑洞类似太阳到土星的距离。研究人员认为，S301很可能原本属于一个双星系统，当靠近黑洞时，潮汐力将其撕裂，一颗被捕获成为S301，另一颗则被高速抛出，可能逃离银河系。",
-              "source_url": "https://www.solidot.org/story?sid=85154",
-              "source_name": "Solidot",
-              "published_at": "2026-08-21T14:12:14+08:00"
             }
           ]
         },
@@ -433,39 +433,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "DeepSeek V4-Flash-Vision-Exp 上线，多模态 Agent 能力接近 Opus-4.8",
-              "brief": "深度求索推出 DeepSeek-V4-Flash-Vision-Exp 实验性多模态模型，已在 API 平台上线。该模型在纯文本能力上与 V4-Flash 正式版持平，但在视觉理解的 Agent 基准测试中大幅跃升，多模态 Agent 能力接近 Opus-4.8。API 支持 Chat Completions、Messages、Responses 三种格式，图片按 token 计费，一张最多 384 tokens，价格与 V4-Flash 一致。同时，Files API 开放，可先上传图片再通过 file_id 引用，节省带宽。用户可通过设置 model='deepseek-v4-flash-vision-exp' 访问。",
-              "source_url": "https://www.ithome.com/0/992/755.htm",
+              "title": "优派 VX27G60Z-2K-3 显示器开售：26.5 英寸 2K 360Hz QD-OLED，内置电源，3499 元",
+              "brief": "优派新款 26.5 英寸显示器 VX27G60Z-2K-3 已开售，采用 QD-OLED 面板，具备 2K 分辨率、360Hz 刷新率、1000 尼特峰值亮度、0.03ms 响应时间，支持原生 10-Bit 色彩，覆盖 99% DCI-P3 色域。支架支持倾斜，本体支持 VESA 壁挂，内置电源，提供双 HDMI 2.1、双 DP 1.4 及 3.5mm 音频接口。售价 3499 元。",
+              "source_url": "https://www.ithome.com/0/992/834.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-21T17:21:20+08:00"
+              "published_at": "2026-08-21T19:33:46+08:00"
             },
             {
-              "title": "比亚迪海狮 08 亮相成都车展，定位中大型 SUV",
-              "brief": "比亚迪海狮 08 在成都车展亮相，定位中大型 SUV，长宽高 5115*1999*1800mm，轴距 3030mm，现场展出六座版，配备半隐藏式门把手和隐私玻璃。动力方面，提供纯电和插混两种选择：纯电版单电机 320kW/370kW，双电机前 215kW/后 370kW；插混版 1.5T 发动机最大功率 115kW，前后电机各 200kW。新车将搭载第二代刀片电池和闪充技术。",
-              "source_url": "https://www.ithome.com/0/992/754.htm",
+              "title": "AGM 发布 PAD P3 Compact 三防小平板：8.68 英寸屏，Helio G99，IP68/IP69K",
+              "brief": "AGM 推出 PAD P3 Compact 三防平板，配备 8.68 英寸屏幕，亮度达 600 尼特。搭载联发科 Helio G99 芯片，6GB+128GB 存储，支持 microSD 扩展，内置 7200mAh 电池，支持 18W 充电。后置 5000 万像素主摄，自带露营灯和可调节腕带，可选金属旋转支架。通过 IP68/IP69K 认证，运行 Android 16，支持 NFC、GPS、Wi-Fi，全球版支持 4G 和 eSIM，美国版仅 Wi-Fi。",
+              "source_url": "https://www.ithome.com/0/992/833.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-21T17:21:08+08:00"
+              "published_at": "2026-08-21T19:22:22+08:00"
             },
             {
-              "title": "七彩虹 Colorfly“Lunar Roam 月球漫步”Hi-Fi 耳机发售，2599 元",
-              "brief": "七彩虹 Colorfly 推出 Lunar Roam 月球漫步一圈六铁入耳式 Hi-Fi 耳机，售价 2599 元。耳机配置 1 颗 10mm 钻石金球顶动圈、4 颗定制中频动铁和 2 颗定制高频动铁，并配备超长环形气流导管以增强低频。线缆为合金铜镀银丝绸升级线，采用 Litz 结构，由 24 支单晶铜镀银和 49 支合金铜混编，标配 3.5mm 和 4.4mm 可换插头。",
-              "source_url": "https://www.ithome.com/0/992/745.htm",
+              "title": "青少年用 Claude Code 开发出惠普冷门打印机 macOS 原生驱动",
+              "brief": "青少年开发者 Amber Mehta 利用 AI 编程工具 Claude Code，花费 4 小时为惠普 HP Laser 1008a 打印机开发了 macOS 原生驱动。该项目最初依赖惠普 Linux 驱动中的专有编解码器，后改用修改版开源 SpliX 打印引擎和原生 macOS USB 组件，不再需要专有组件或 Linux 容器。目前项目已开源，支持 HP Laser 1003、1006 和 1008 系列打印机。",
+              "source_url": "https://www.ithome.com/0/992/832.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-21T17:15:48+08:00"
+              "published_at": "2026-08-21T19:14:14+08:00"
             },
             {
-              "title": "软银向建筑机器人公司 Gravis 投资 2 亿美元，创 A 轮纪录",
-              "brief": "软银向瑞士建筑机器人公司 Gravis 投资 2 亿美元，创建筑机器人领域 A 轮融资纪录。Gravis 孵化于苏黎世联邦理工学院，旨在通过物理 AI 软件堆栈改变建筑行业自动化程度低的现状。其专有模型能感知动态施工环境，将工厂精度带入土木工程现场。软银后续可能收购 Gravis，此次融资可视为掌握股权的一步。",
-              "source_url": "https://www.ithome.com/0/992/733.htm",
+              "title": "科沃斯 2026 上半年净利润 12.48 亿元，同比增长 27.4%",
+              "brief": "科沃斯公布 2026 年半年度业绩：营业收入 103.41 亿元，同比增长 19.18%；归母净利润 12.48 亿元，同比增长 27.4%；扣非净利润 8.05 亿元，同比下滑 6.37%。基本每股收益 2.19 元，加权平均净资产收益率 12.91%。经营活动现金流净额 2.06 亿元，同比下降 85.82%。截至期末股东总户数 52876 户，控股股东结构稳定。",
+              "source_url": "https://www.ithome.com/0/992/831.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-21T17:10:20+08:00"
+              "published_at": "2026-08-21T19:09:42+08:00"
             },
             {
-              "title": "联想异能者 E14H 笔记本发布：i7-13620H + 16G + 1T 售 5999 元",
-              "brief": "联想推出异能者 E14H 笔记本，售价 5999 元。配置为英特尔酷睿 i7-13620H（10 核 16 线程）、16GB RAM 和 1TB SSD。屏幕未提及具体尺寸，但亮度 280 尼特。接口方面，左侧有 USB-C、HDMI、USB-A、3.5mm 音频；右侧有两个 USB-A 3.0 和 RJ45。该笔记本已在京东上架。",
-              "source_url": "https://www.ithome.com/0/992/728.htm",
+              "title": "长飞光纤 2026 上半年净利润 29.25 亿元，同比增长 888.88%",
+              "brief": "长飞光纤发布 2026 年半年报：营业收入 98.09 亿元，同比增长 53.64%；归母净利润 29.25 亿元，同比大增 888.88%；扣非净利润 24.49 亿元，同比增长 1680.48%。经营活动现金流净额 18.26 亿元，同比增长 116.82%。基本每股收益 3.56 元，资产负债率 47.95%。公司拟每 10 股派现 10.60 元，合计派发约 8.78 亿元。",
+              "source_url": "https://www.ithome.com/0/992/829.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-21T17:08:44+08:00"
+              "published_at": "2026-08-21T19:02:46+08:00"
             }
           ]
         }
