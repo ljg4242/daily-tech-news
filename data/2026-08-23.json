@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T17:37:09.871484+08:00",
+  "generated_at": "2026-08-23T19:37:27.000815+08:00",
   "sections": [
     {
       "category": "主要",
@@ -60,6 +60,20 @@
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Pixel 11规格可能令人失望，但谷歌在一个关键细节上做对了",
+              "brief": "尽管Pixel 11系列在摄像头或电池容量上可能缺乏升级，但谷歌延续了对磁性Pixelsnap配件的支持。Pixelsnap首次出现在Pixel 10上，使谷歌成为继苹果之后首个充分利用Qi2无线充电的主要手机品牌。作者担心这只是一年之举，但谷歌证明并非如此。新配件包括适配四款新机的保护壳和环形支架，充电速度提升至25W（Pro型号）。虽然充电支架不再颜色匹配有点奇怪，但总体而言，Pixelsnap的保留是明智之举。",
+              "source_url": "https://www.androidauthority.com/pixel-11-pixelsnap-great-why-3699383/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-23T18:30:06+08:00"
+            },
+            {
+              "title": "使用安卓超过十年，我长期使用的6款应用",
+              "brief": "作者从安卓早期就开始使用，有些应用已陪伴超过十年。虽然许多是主流应用，但这里列出六款不那么主流但长期使用的应用。其中一款是Just Watch，用于查找流媒体内容，可显示播放平台和费用，推荐准确，免费版也实用。另一款是Notion，作为“第二大脑”帮助作者管理思绪和笔记，尤其适合注意力缺陷多动症患者。其他应用包括……（此处省略，因原文未列全）",
+              "source_url": "https://www.androidauthority.com/android-apps-ive-used-longest-3696721/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-23T18:00:44+08:00"
+            },
             {
               "title": "谷歌折叠屏策略失效，Pixel 11 Pro Fold 证明其失败",
               "brief": "谷歌上周发布了 Pixel 11 系列，其中 Pixel 11 Pro Fold 引起关注。作者对比了三星 Galaxy Z Fold 8 和 Z Fold 8 Ultra 后，认为谷歌的折叠屏手机改进有限，缺乏竞争力。尽管 Pixel 11 Pro Fold 更轻薄，但整体创新不足，难以与三星抗衡。作者甚至质疑谷歌是否应该继续推出折叠屏手机。",
@@ -143,6 +157,13 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "ntfsmac：苹果M芯片上无需内核扩展或SIP修改的开源NTFS读写工具",
+              "brief": "新购Mac用户常遇NTFS移动硬盘只能读不能写的问题，传统解决需改系统。ntfsmac通过在Apple Silicon上启动Linux微虚拟机，利用ntfs-3g读写NTFS，再经NFS挂载给macOS，无需关闭SIP或安装内核扩展，也支持ext2/3/4分区。提供命令行和图形界面，支持多并发挂载，实时显示状态，具备诊断功能。安装用brew，使用diskutil list和ntfsmac mount命令即可读写。每次插入硬盘需后台运行。",
+              "source_url": "https://www.appinn.com/ntfsmac/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-23T15:43:14+08:00"
+            },
             {
               "title": "26/27英超赛程日历上线，支持订阅和比分更新",
               "brief": "小众软件推出2026-2027赛季英超赛程日历，可订阅到手机或电脑日历应用，自动更新比分。免费版提供全部赛程，付费版（35元/赛季）支持单队订阅，包含欧冠、足总杯等赛事，赛前提醒，赛后备注进球、红黄牌等信息。首批付费用户将免费获得其他五大联赛日历。订阅链接为webcal://cal.appinn.com/ics/premier-league.ics，付费用户通过兑换码获取高级日历。",
