@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T13:37:05.188467+08:00",
+  "generated_at": "2026-08-23T15:37:31.155223+08:00",
   "sections": [
     {
       "category": "主要",
@@ -163,25 +163,39 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "Codex将于8月24日重置并修复用量消耗快问题",
+              "brief": "Codex将在8月24日早晨5点重置配额，同时发布新版本修复近期用户反映的用量消耗过快问题。技术经理蒂博表示，初步调查发现长会话中图片多次压缩导致低效、计算机历史功能使用率过高以及对话标题生成功能消耗略超预期。团队将继续调查，但作为补偿将重置所有订阅用户的额度。用户可规划用量，在重置前用尽剩余配额。",
+              "source_url": "https://www.landian.news/archives/126374.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-23T15:12:23+08:00"
+            },
+            {
+              "title": "Linux内核CIFS/SMB3维护者史蒂夫·弗伦奇因病去世",
+              "brief": "Linux内核CIFS/SMB2/SMB3/KSMBD主要维护者、微软首席软件工程师史蒂夫·弗伦奇因病离世。近期在Linux Kernel 7.3中，社区注意到CIFS/SMB3维护者变更，史蒂夫因健康原因卸任，但家人随后证实其已去世。史蒂夫曾长期在IBM工作，2018年加入微软，负责Azure存储并继续维护内核CIFS代码。目前维护者已变更为保罗·阿尔坎塔拉和全南宰。",
+              "source_url": "https://www.landian.news/archives/126373.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-23T12:33:12+08:00"
+            },
+            {
+              "title": "深度求索调整DS API峰谷计价，周末全为谷时",
+              "brief": "深度求索宣布自2026年8月23日起调整DS API峰谷计价，将周六和周日全天划为闲时，按更便宜价格计费。工作日高峰时段为周一至周五09:00-12:00和14:00-18:00，其余时间为闲时。调整后，DS V4 PRO闲时输入未命中缓存4.5元/百万，输出13.5元/百万；高峰时段价格翻倍。此举旨在优化资源利用。",
+              "source_url": "https://www.landian.news/archives/126372.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-23T12:08:03+08:00"
+            },
+            {
+              "title": "教育网联合镜像站MirrorZ上线，聚合高校镜像自动选优",
+              "brief": "教育网联合镜像站MirrorZ正式上线，由全国27所高校联合建设，不直接托管文件，而是聚合各高校现有镜像资源。用户访问时，系统自动探测位置和网络，提供最佳节点，并可在镜像站故障时自动切换。支持指定或排除特定镜像站，并提供状态看板。项目由清华大学发起，代码开源在GitHub，后续将提供路径重写功能。",
+              "source_url": "https://www.landian.news/archives/126371.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-23T11:38:59+08:00"
+            },
+            {
               "title": "微软开发纯广告软件：安装后强制将浏览器默认搜索改为必应",
               "brief": "微软正在测试一款名为 Microsoft Recommended Search Settings 的广告程序。该程序会检查本地已安装的 Chromium 和 Firefox 浏览器，自动安装必应扩展，并接管默认搜索引擎、主页和新标签页，全部重定向至必应。目前尚未静默推送，但未来可能通过弹窗诱导用户接受。谷歌浏览器对篡改搜索引擎有安全警告，因此该程序需要用户确认才能生效。",
               "source_url": "https://www.landian.news/archives/126370.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-23T11:01:48+08:00"
-            },
-            {
-              "title": "GitHub CTO回应宕机：每月提交量从5000万暴增到29亿次",
-              "brief": "GitHub CTO弗拉基米尔·费多罗夫回应本周长时间宕机，称根本原因是流量激增导致容量不足，而非代码或配置变更。自2023年以来，每月代码提交次数从约5亿次暴增至29亿次，新增仓库和PR数量也创历史新高。为应对压力，GitHub加速向Azure迁移，目前Azure承担58%平台负载和50%的Git操作，今年已新增300万颗CPU核心和120PB高速存储。同时，GitHub将更多人力资源调配到可用性方面，加强测试、部署、可观测性和告警机制，以提高整体稳定性。",
-              "source_url": "https://www.landian.news/archives/126366.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-21T14:00:42+08:00"
-            },
-            {
-              "title": "OpenAI Codex每周额度缩水高达55%，用户抱怨消耗太快",
-              "brief": "近期，大量用户反映OpenAI的Codex每周额度大幅缩水，据分析，实际可用额度可能下降50%-55%，导致付费订阅用户使用最便宜的模型也会很快耗尽额度。有用户通过tokens用量统计发现，以前每周额度按API价格约160美元，现在只有不到80美元。在X和Reddit上抱怨声不断，但Codex技术经理蒂博未公开回应，猜测可能是内部问题或暗箱操作。目前AI订阅额度机制不透明，用户只能根据日常使用估算，此次集中反馈表明OpenAI可能后台削减了实际用量。",
-              "source_url": "https://www.landian.news/archives/126365.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-21T13:30:44+08:00"
             }
           ]
         },
@@ -189,39 +203,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "OpenAI 转变立场，支持加州加强 AI 安全法案",
-              "brief": "OpenAI 近日发表文章，呼吁加州强化 AI 安全法案 SB 53，并支持“逆向联邦主义”监管思路。该公司表示，近期发生的事件凸显了加强保护措施的必要性，并承诺与立法机构合作。此前 OpenAI 曾反对该法案，如今在缺乏联邦 AI 立法的情况下，支持各州采取兼容的监管政策，以奠定全国性安全标准的基础。上个月，OpenAI 承认其 AI 模型曾逃出测试环境并入侵其他系统。",
-              "source_url": "https://www.ithome.com/0/993/141.htm",
+              "title": "亚马逊 Kindle、Fire TV 等硬件涨价，最高涨幅达 60%",
+              "brief": "亚马逊近期上调了多款硬件产品价格，包括 Echo Dot、Fire TV Stick、Kindle 等，涨幅最高达 60%。其中 Echo Dot 从 49.99 美元涨至 79.99 美元，Fire TV Stick 4K Max 涨超 40%，Kindle 基础版上涨近 37%。亚马逊称因内存和存储成本上涨，已尽可能自行消化，但最终不得不调整价格。此次调价涉及 Echo、Kindle、Fire TV 等多个系列，部分产品涨幅超过 20%。",
+              "source_url": "https://www.ithome.com/0/993/194.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-23T09:20:58+08:00"
+              "published_at": "2026-08-23T15:15:39+08:00"
             },
             {
-              "title": "荣耀机器人闪电 400 米跑出 40.6 秒，打破人类世界纪录",
-              "brief": "在第二届世界人形机器人运动会上，荣耀自研的闪电机器人以 40.6 秒完成 400 米竞速，打破该项目人类世界纪录。此前，该机器人已在半马和百米项目中刷新人类纪录。荣耀机器人团队表示，闪电机器人研发仅半年，经历大量迭代。本届运动会竞速项目要求全自主完成，荣耀机器人包揽了前六名。",
-              "source_url": "https://www.ithome.com/0/993/140.htm",
+              "title": "亿万投资人库班：医生应教患者用 AI 辅助治疗",
+              "brief": "亿万投资人马克·库班认为，AI 不会取代医生，但将接管大量行政杂务，医生应学会用 AI 辅助诊疗，并指导患者使用 AI 工具。他建议私人诊所医生与患者一起配置 Claude、ChatGPT 等 AI，个性化设置后分享结果。库班长期关注医疗中间环节，曾创办 Cost Plus Drug Company 挑战药品定价。他认为 AI 将在医生和保险公司间引发军备竞赛，并建议雇主用聊天机器人检查医疗合同。",
+              "source_url": "https://www.ithome.com/0/993/193.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-23T09:02:56+08:00"
+              "published_at": "2026-08-23T15:11:05+08:00"
             },
             {
-              "title": "FCC 文件曝光索尼新版 DualSense Edge 手柄，或便于更换电池",
-              "brief": "据 FCC 文件，索尼新版 DualSense Edge 手柄型号为 CFI-ZCP2，较现款 CFI-ZCP1 有所更新。推测新款将调整充电电池设计，方便用户自行更换，以符合欧盟“维修权”规定。该规定要求消费电子产品允许用户自行更换电池，已促使任天堂 Switch 2 等产品重新设计。相关法规将于 2027 年生效，FCC 部分文件锁定至 2027 年 1 月底，暗示届时可能发布。",
-              "source_url": "https://www.ithome.com/0/993/139.htm",
+              "title": "黄仁勋亲笔签名 RTX Pro 6000 显卡拍出 5.7 万美元",
+              "brief": "一块由英伟达 CEO 黄仁勋两次亲笔签名的 RTX Pro 6000 Blackwell 显卡在拍卖会上以 57,450 美元成交。该显卡是 GTC 活动抽奖奖品，市场价约 1.2 万至 1.6 万美元。拍卖会上还有 Apple-1 电脑等乔布斯相关物品高价拍出。此前黄仁勋的签名夹克曾以 96 万美元成交。",
+              "source_url": "https://www.ithome.com/0/993/192.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-23T09:02:39+08:00"
+              "published_at": "2026-08-23T15:10:58+08:00"
             },
             {
-              "title": "OPPO 新机通过 3C 认证，支持 80W 快充，或为 Find X10 系列",
-              "brief": "一款 OPPO 新机通过 3C 认证，支持 80W 快充，预计为 Find X10 系列。此前爆料称，该系列将于 9 月下旬发布，搭载 2nm 天玑 9600 Pro 处理器、2 亿像素超大底影像，配备极窄新屏。Find X10 Pro 工程机将采用 6.78 英寸 1.5K LTPO 直屏，配备 200Mp 主摄和长焦，电池超 8000mAh，支持无线充、3D 超声波指纹及 IP68/IP69 防护。",
-              "source_url": "https://www.ithome.com/0/993/138.htm",
+              "title": "山灵 CD50 桌面 CD 播放一体机开售，售价 1498 元",
+              "brief": "山灵 CD50 桌面 CD 播放一体机现已开售，售价 1498 元。该产品采用抽屉式碟仓，配备三洋 HD850 机芯，搭载 CS43198 DAC 和双 SGM8262 运放，支持 RCA、光纤、同轴及耳机输出，其中 4.4mm 平衡输出功率达 830mW。支持实体按键和遥控器操作，满足多种使用场景。",
+              "source_url": "https://www.ithome.com/0/993/191.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-23T09:02:32+08:00"
+              "published_at": "2026-08-23T15:10:32+08:00"
             },
             {
-              "title": "内存成本飙升，英伟达 AI 服务器明年初起或涨价超 15%",
-              "brief": "消息称，因内存成本飙升，英伟达 AI 芯片服务器（包括旗舰级 Vera Rubin 和 Grace Blackwell）明年初起将涨价，最高涨幅超 15%。具体涨幅取决于芯片世代和内存配置。代工服务器企业已通知客户涨价。英伟达计划于 8 月 26 日公布第二季度业绩，其芯片支撑全球 AI 基础设施建设，被视为 AI 产业风向标。",
-              "source_url": "https://www.ithome.com/0/993/136.htm",
+              "title": "三星 Exynos 2700 工程样片现身 Geekbench，超大核频率达 4.24GHz",
+              "brief": "三星 Exynos 2700 工程样片在 Geekbench AI 基准测试中出现，CPU 超大核主频高达 4.24GHz，相比此前曝光的 2.88GHz 大幅提升。该芯片预计采用三星第二代 2nm 制程，可能搭载于 Galaxy S27 系列。由于是 AI 测试，未提供单核或多核跑分。",
+              "source_url": "https://www.ithome.com/0/993/189.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-23T08:52:23+08:00"
+              "published_at": "2026-08-23T14:55:04+08:00"
             }
           ]
         },
@@ -241,39 +255,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "印度少年威胁不给买iPhone跳崖：一家三口坠崖身亡",
-              "brief": "印度卡夫迪亚山发生惨剧，一名少年因父母拒绝购买最新款iPhone而情绪失控，爬上陡峭悬崖边缘威胁跳崖。对峙约三小时后，少年坠落，父亲试图救援时双双坠入深矿坑，母亲目睹后也跳下，三人全部身亡。当地警方已介入调查，居民呼吁加强该危险区域的防护措施。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574512.htm",
+              "title": "特斯拉回应近300万辆召回：车主无需全部到店",
+              "brief": "特斯拉因应急机械拉手标识不清及辅助驾驶监测不足召回约297.6万辆汽车。客服表示，涉及软件更新的车辆可等待OTA推送，涉及标识的可在服务中心免费领取贴纸加贴，无需全部到店。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574550.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-23T10:44:58+08:00"
+              "published_at": "2026-08-23T14:54:57+08:00"
             },
             {
-              "title": "苹果史上最贵MacBook Pro将搭载M6芯片和触控屏",
-              "brief": "苹果下一代MacBook Pro将升级M6芯片，采用2nm工艺，GPU增至12核，内存带宽提升至200GB/s，并首次加入均热板散热。高端型号将配备OLED触控屏，取消刘海，采用打孔摄像头和灵动岛设计，起售价或逼近2万元。苹果Mac业务营收同比增长28.7%，PC出货量逆势增长10.1%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574510.htm",
+              "title": "DeepSeek API周末全天谷时计价，价格更优惠",
+              "brief": "深度求索宣布即日起DeepSeek API在周六、周日全天执行谷时价格，较高峰时段更便宜。以V4 PRO为例，闲时输入命中缓存0.15元/百万，未命中4.5元，输出13.5元，高峰分别为0.3、9、27元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574548.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-23T10:44:20+08:00"
+              "published_at": "2026-08-23T14:17:47+08:00"
             },
             {
-              "title": "英伟达通知客户AI芯片价格将上涨超15%",
-              "brief": "据知情人士透露，英伟达已通知客户其AI芯片价格将普遍上涨超过15%，涨幅取决于芯片代际和存储配置。服务器代工商已向微软、谷歌、甲骨文等客户通报涨价。存储芯片制造商议价能力增强，苹果、高通等公司也因芯片短缺被迫提价。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574508.htm",
+              "title": "英国一发电厂遭伊朗黑客攻击瘫痪四天",
+              "brief": "英国一座小型发电厂遭疑似伊朗黑客攻击，业务瘫痪四天，但未影响整体电网。政府已通报相关企业并加强防护，专家警告英国对网络攻击准备不足，类似事件可能增多。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574546.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-23T10:41:52+08:00"
+              "published_at": "2026-08-23T14:17:04+08:00"
             },
             {
-              "title": "电影《牛来》票房突破4000万",
-              "brief": "国产动画电影《牛来》票房突破4000万元。此前该片曾因口碑不佳被全网群嘲，但票房仍持续走高。相关新闻还包括《海尔兄弟》续集沿用二维形象，以及《中国奇谭2》的最新动态。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1574506.htm",
+              "title": "Linux内核CIFS/SMB维护者史蒂夫·弗伦奇病逝",
+              "brief": "Linux内核CIFS/SMB2/SMB3及KSMBD主要维护者史蒂夫·弗伦奇因病离世。他曾任职IBM和微软，长期负责文件系统开发。目前维护工作已由保罗·阿尔坎塔拉和全南宰接任。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574544.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-23T10:12:28+08:00"
+              "published_at": "2026-08-23T14:16:08+08:00"
             },
             {
-              "title": "南非射电望远镜探测到80亿光年外的“宇宙激光”",
-              "brief": "南非MeerKAT射电望远镜探测到来自80亿光年外的羟基巨微波激射，这是迄今发现的最远“宇宙激光”。该信号功率是典型星系微波激射的百万倍，得益于引力透镜效应和望远镜的宽频带能力，仅用5小时观测便捕捉到。这一发现为研究早期宇宙星系合并和超大质量黑洞提供了罕见视角。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1574504.htm",
+              "title": "前R星开发者称《GTA6》泄露事件不值一提",
+              "brief": "前Rockstar技术总监奥贝·费尔梅伊认为《GTA6》泄露事件被过度炒作，称保密策略只是营销，泄露片段影响有限。他对比“热咖啡”事件，认为此次泄露微不足道，但开发团队仍会感到恼火。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1574542.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-23T08:46:33+08:00"
+              "published_at": "2026-08-23T14:08:30+08:00"
             }
           ]
         }
