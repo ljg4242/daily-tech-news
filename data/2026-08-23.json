@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T09:37:10.731895+08:00",
+  "generated_at": "2026-08-23T11:37:21.622421+08:00",
   "sections": [
     {
       "category": "主要",
@@ -163,6 +163,13 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "微软开发纯广告软件：安装后强制将浏览器默认搜索改为必应",
+              "brief": "微软正在测试一款名为 Microsoft Recommended Search Settings 的广告程序。该程序会检查本地已安装的 Chromium 和 Firefox 浏览器，自动安装必应扩展，并接管默认搜索引擎、主页和新标签页，全部重定向至必应。目前尚未静默推送，但未来可能通过弹窗诱导用户接受。谷歌浏览器对篡改搜索引擎有安全警告，因此该程序需要用户确认才能生效。",
+              "source_url": "https://www.landian.news/archives/126370.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-23T11:01:48+08:00"
+            },
+            {
               "title": "GitHub CTO回应宕机：每月提交量从5000万暴增到29亿次",
               "brief": "GitHub CTO弗拉基米尔·费多罗夫回应本周长时间宕机，称根本原因是流量激增导致容量不足，而非代码或配置变更。自2023年以来，每月代码提交次数从约5亿次暴增至29亿次，新增仓库和PR数量也创历史新高。为应对压力，GitHub加速向Azure迁移，目前Azure承担58%平台负载和50%的Git操作，今年已新增300万颗CPU核心和120PB高速存储。同时，GitHub将更多人力资源调配到可用性方面，加强测试、部署、可观测性和告警机制，以提高整体稳定性。",
               "source_url": "https://www.landian.news/archives/126366.html",
@@ -232,7 +239,43 @@
         },
         {
           "name": "cnBeta",
-          "articles": []
+          "articles": [
+            {
+              "title": "印度少年威胁不给买iPhone跳崖：一家三口坠崖身亡",
+              "brief": "印度卡夫迪亚山发生惨剧，一名少年因父母拒绝购买最新款iPhone而情绪失控，爬上陡峭悬崖边缘威胁跳崖。对峙约三小时后，少年坠落，父亲试图救援时双双坠入深矿坑，母亲目睹后也跳下，三人全部身亡。当地警方已介入调查，居民呼吁加强该危险区域的防护措施。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574512.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-23T10:44:58+08:00"
+            },
+            {
+              "title": "苹果史上最贵MacBook Pro将搭载M6芯片和触控屏",
+              "brief": "苹果下一代MacBook Pro将升级M6芯片，采用2nm工艺，GPU增至12核，内存带宽提升至200GB/s，并首次加入均热板散热。高端型号将配备OLED触控屏，取消刘海，采用打孔摄像头和灵动岛设计，起售价或逼近2万元。苹果Mac业务营收同比增长28.7%，PC出货量逆势增长10.1%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574510.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-23T10:44:20+08:00"
+            },
+            {
+              "title": "英伟达通知客户AI芯片价格将上涨超15%",
+              "brief": "据知情人士透露，英伟达已通知客户其AI芯片价格将普遍上涨超过15%，涨幅取决于芯片代际和存储配置。服务器代工商已向微软、谷歌、甲骨文等客户通报涨价。存储芯片制造商议价能力增强，苹果、高通等公司也因芯片短缺被迫提价。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1574508.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-23T10:41:52+08:00"
+            },
+            {
+              "title": "电影《牛来》票房突破4000万",
+              "brief": "国产动画电影《牛来》票房突破4000万元。此前该片曾因口碑不佳被全网群嘲，但票房仍持续走高。相关新闻还包括《海尔兄弟》续集沿用二维形象，以及《中国奇谭2》的最新动态。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1574506.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-23T10:12:28+08:00"
+            },
+            {
+              "title": "南非射电望远镜探测到80亿光年外的“宇宙激光”",
+              "brief": "南非MeerKAT射电望远镜探测到来自80亿光年外的羟基巨微波激射，这是迄今发现的最远“宇宙激光”。该信号功率是典型星系微波激射的百万倍，得益于引力透镜效应和望远镜的宽频带能力，仅用5小时观测便捕捉到。这一发现为研究早期宇宙星系合并和超大质量黑洞提供了罕见视角。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1574504.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-08-23T08:46:33+08:00"
+            }
+          ]
         }
       ]
     }
