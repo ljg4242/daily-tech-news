@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T17:38:31.460269+08:00",
+  "generated_at": "2026-08-24T19:38:16.988397+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果准备提高iPhone价格",
+              "brief": "据彭博社马克·古尔曼报道，苹果准备跟随三星和谷歌提高iPhone价格。两个月前，苹果已上调几乎所有主要产品线价格，Mac和iPad平均涨幅约23%。古尔曼表示，iPhone面临同样的内存和芯片供应链问题，涨价不可避免。苹果正观察竞争对手反应，三星和谷歌新手机均涨价约100美元。若跟进，iPhone 18 Pro起售价将达1199美元，较现款涨9%。古尔曼认为涨幅温和，苹果在消化部分成本。公司已警告毛利率承压，但不会过度涨价以保持竞争力。苹果还有空间提价，因Mac和iPad涨幅更大，且iPhone用户忠诚。新的升级订阅计划可分摊成本。",
+              "source_url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-24T19:17:31+08:00"
+            },
+            {
+              "title": "苹果如何自我泄露",
+              "brief": "上周苹果推送macOS Tahoe 26.7候选版本，其中包含大量未发布产品的引用，从家居设备到iPhone、iPad、AirPods和Mac。通常早期测试版会出现此类引用，但候选版本应是最终版本，不应包含未批准内容。彭博社马克·古尔曼认为，苹果在合并开发分支时，误将内部构建合并到发布分支，导致内部信息泄露。可能是人为合并错误，也可能是AI失误。苹果将在公开版本中移除这些引用，但AirPods带摄像头的引用可能保留。",
+              "source_url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-24T18:00:55+08:00"
+            },
             {
               "title": "苹果零售店为新品做准备",
               "brief": "据彭博社记者马克·古尔曼报道，苹果正调整部分零售店布局，为今年秋季的新产品做准备。调整涉及店面周边展示墙（Avenues）的重新布置，并增加配件区，以容纳即将推出的新设备。苹果预计将推出升级版Apple TV和新的HomePod mini，两者均配备更快的芯片以支持Siri AI，但设计变化不大。此外，古尔曼表示，零售店的调整规模暗示苹果可能为其传闻已久的带显示屏的家庭中枢（HomePad）做准备。该设备预计配备7英寸方形显示屏，运行基于tvOS的新系统，并支持Siri AI。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
               "source_name": "MacRumors",
               "published_at": "2026-08-24T02:19:25+08:00"
-            },
-            {
-              "title": "苹果夏季最大折扣：AirPods Max 2 降至 429 美元，M4 iPad Air 优惠 100 美元",
-              "brief": "本周百思买开启 60 周年庆大促，涵盖 AirPods、电视、电脑等众多产品。同时，Anker 和 Jackery 的便携式电源站也有大幅降价，最高优惠 1500 美元。M4 iPad Air 迎来夏季最低价。MacRumors 作为联盟合作伙伴，通过链接购买可能获得小额佣金。百思买全场促销无需会员即可享受大部分优惠，活动持续至本周结束。",
-              "source_url": "https://www.macrumors.com/2026/08/22/best-apple-deals-of-the-week-8-21-26/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-22T21:05:00+08:00"
-            },
-            {
-              "title": "头条：苹果泄密——配备摄像头的 AirPods、Beats 360 等",
-              "brief": "本周苹果世界泄密不断，苹果在 macOS Tahoe 26.7 候选版本中泄露了多款未发布产品，包括配备摄像头的 AirPods，视频显示其可通过视觉智能识别物体。此外，零售商泄露了 Beats 360 耳机即将发布。iOS 27 将带来 30 项新功能，下月即可体验。彭博社 Gurman 称 AirPods 要到明年才发布。macOS Tahoe 26.7 还包含 20 多款未发布设备的信息，包括新款 Apple TV 遥控器等。",
-              "source_url": "https://www.macrumors.com/2026/08/22/top-stories-apple-leaks-camera-airpods/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-22T21:00:12+08:00"
             }
           ]
         },
@@ -167,39 +167,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Claude 服务中断，Anthropic 正在修复",
-              "brief": "Anthropic 的 Claude AI 服务目前出现中断，大量用户报告无法访问平台，Downdetector 和 X 上的故障报告激增。Anthropic 在状态页上确认了问题，称已确定导致多个 Claude 模型（包括 Claude Mythos 5、Claude Fable 5 和 Claude Opus 5）请求出现“错误率升高”的原因，并正在修复。公司尚未提供完全解决的时间表，但表示将继续努力解决并尽快更新。",
-              "source_url": "https://www.androidauthority.com/claude-outage-august-24-3702012/",
+              "title": "4K/240fps慢动作，vivo X500 Pro或成影像旗舰新标杆",
+              "brief": "vivo已开始预告X500系列，该系列将主打影像。X500 Pro将搭载与蔡司和索尼联合研发的定制传感器，支持17档动态范围，即使在强光背景下也能保留暗部细节。此外，该机有望成为首款支持4K 240fps慢动作视频的手机。vivo产品经理透露，X500系列旨在将手机视频拍摄提升至新高度。此前X300 Pro在视频拍摄上已超越iPhone 17 Pro，新款预计将带来更大飞跃。",
+              "source_url": "https://www.androidauthority.com/vivo-x500-pro-camera-teaser-3702070/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-24T15:33:12+08:00"
+              "published_at": "2026-08-24T18:35:07+08:00"
             },
             {
-              "title": "Pixel 11 无法玩原神，但修复即将到来",
-              "brief": "Pixel 11 系列用户报告在运行《原神》时出现严重图形问题，导致游戏无法进行。据报道，开发商表示 PowerVR GPU 不满足最低要求。谷歌已确认该问题，并称将在即将到来的游戏更新中修复。Pixel 11 搭载的 Tensor G6 处理器使用 PowerVR GPU，此前 Pixel 10 系列也遇到过类似问题。谷歌表示正在与开发商 HoYoverse 合作，修复将在《原神》的更新中实施。",
-              "source_url": "https://www.androidauthority.com/google-pixel-11-genshin-impact-3701959/",
+              "title": "Chrome新规致广告拦截器失效，这4种方法仍有效",
+              "brief": "Chrome引入Manifest V3并逐步淘汰Manifest V2，导致uBlock Origin等扩展无法使用。目前Chrome几乎无法安装MV2扩展，但仍有解决方案：使用Firefox、Brave等浏览器；改用uBlock Lite等基于V3的拦截器；使用AdGuard等独立应用，可拦截广告、追踪器、恶意软件等；或通过DNS过滤。AdGuard支持iOS、Android、Windows、macOS，免费版限单设备，付费版支持多设备。",
+              "source_url": "https://www.androidauthority.com/chrome-ad-blockers-ruined-what-still-works-3700493/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-24T15:12:44+08:00"
+              "published_at": "2026-08-24T18:30:24+08:00"
             },
             {
-              "title": "Exynos 2700 性能或超骁龙 8 Elite Gen 6 Pro",
-              "brief": "据报道，三星内部测试显示，Exynos 2700 芯片在 Geekbench 6.5 多核测试中比骁龙 8 Elite Gen 6 高 19%，比骁龙 8 Elite Gen 6 Pro 高 9.5%。在峰值性能上，Exynos 2700 比骁龙 8 Elite Gen 6 Pro 高 5%，低功耗测试中高 24%，功耗低 12.7%。此外，AI 计算中响应生成速度快 18%，用户提示处理快 5%。这些数据表明 Exynos 2700 可能成为三星的强力芯片。",
-              "source_url": "https://www.androidauthority.com/exynos-2700-outperforms-snapdragon-8-elite-gen-6-pro-report-3701953/",
+              "title": "Galaxy S26 Ultra的肖像照明功能或将下放至S25 Ultra",
+              "brief": "泄露的One UI 9内部版本显示，Galaxy S25 Ultra正在测试“虚拟反光板”功能，该功能首次出现在Galaxy S26 Ultra上，可在不牺牲背景的情况下为逆光主体补光。该工具通过Expert RAW应用提供，用户可选择银色或金色反光板，调节反射率和光线方向。目前三星尚未确认S25系列是否会推出One UI 9测试版，该功能可能仍有变数。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s25-ultra-one-ui-9-portrait-lighting-leak-3702045/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-24T14:46:57+08:00"
+              "published_at": "2026-08-24T18:20:19+08:00"
             },
             {
-              "title": "Galaxy S27 Ultra 渲染图曝光，设计类似 iPhone",
-              "brief": "爆料者 Sonny Dickson 发布了 Galaxy S27 Ultra 的渲染图，显示其后置摄像头采用类似 iPhone 的凸起平台设计，并暗示内置磁铁支持 Qi2 充电。渲染图显示手机背面有横跨的相机平台，与 S26 Ultra 设计大相径庭。此外，图片还显示有药丸形切口和圆形切口，可能分别用于副摄和闪光灯、磁铁。爆料还称 S27 Ultra 将有两种尺寸，可能包括传闻中的紧凑型 Pro 型号。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/",
+              "title": "小米新芯片XRing 03性能强劲，对标谷歌Tensor G6",
+              "brief": "小米发布XRing 03手机芯片，采用3nm工艺，配备未公布的Arm G2-Ultra NX GPU（16核）和10核CPU（无小核），主频高达4.35GHz。GPU性能较上代提升85%，能效提升64%，光线追踪性能提升182%。NPU性能提升45%，算力达200 TOPS。该芯片将首发于下月发布的小米18 Fold。相比之下，谷歌Tensor G6的GPU性能明显落后。",
+              "source_url": "https://www.androidauthority.com/xiaomi-xring-03-3702037/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-24T14:14:02+08:00"
+              "published_at": "2026-08-24T18:14:55+08:00"
             },
             {
-              "title": "索尼 Xperia 10 VIII 泄露，设计变化不大",
-              "brief": "在 8 月 25 日发布前，一张泄露图片展示了索尼 Xperia 10 VIII 的外观。图片显示手机与 Xperia 10 VII 非常相似，采用平直背面、水平双摄条和侧边指纹识别器。泄露信息还暗示将搭载相同的骁龙 6 Gen 3 处理器和 8GB 内存。这使得人们怀疑索尼的主要升级点在哪里。图片中手机背面为白色带淡绿色调，相机区域有索尼标识。",
-              "source_url": "https://www.androidauthority.com/new-sony-xperia-10-leaked-image-3701831/",
+              "title": "想爱Pixel 11 Pro Fold，但这一处不对称设计让我犹豫",
+              "brief": "Pixel 11 Pro Fold比上一代更薄更轻，边框更窄，支持25W Qi2无线充电，但为了减薄约1毫米，机身厚度变得不对称：一侧比另一侧稍厚。虽然差异很小，但折叠后能明显感知，相机凸起除外。这是Pixel Fold系列首次采用非对称厚度设计，作者认为这种设计影响握持感和美观，尽管投票显示多数用户并不在意。",
+              "source_url": "https://www.androidauthority.com/pixel-11-pro-fold-uneven-thickness-3700383/",
               "source_name": "Android Authority",
-              "published_at": "2026-08-24T13:57:23+08:00"
+              "published_at": "2026-08-24T18:00:20+08:00"
             }
           ]
         }
@@ -351,39 +351,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "问界M6新配色“冰晶粉”亮相，采用3C2B五涂层工艺",
-              "brief": "鸿蒙智行问界M6推出新配色“冰晶粉”，采用3C2B五涂层工艺，清漆层使用粒径小于8μm的高山铝粉，能在不同光线下折射出丰富层次。该粉色饱和度较低，偏向香芋色，光线流转时浮现细腻银辉，整体观感低调优雅。",
-              "source_url": "https://www.ithome.com/0/993/661.htm",
+              "title": "三星将为Galaxy S25 Ultra下放S26 Ultra部分相机功能",
+              "brief": "据消息，三星将为Galaxy S25 Ultra下放部分S26 Ultra的相机功能，包括虚拟反光板（Virtual Reflector），该功能可模拟实体反光板为人物补光，用户可调节颜色、强度和方向。此外，三星还在测试水平锁定和My FanCam AI影片编辑等功能。目前三星尚未公布Galaxy S25系列的One UI 9 Beta计划。",
+              "source_url": "https://www.ithome.com/0/993/710.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T17:31:58+08:00"
+              "published_at": "2026-08-24T19:24:47+08:00"
             },
             {
-              "title": "一加16将首发新一代东方屏，支持全局165Hz超高刷",
-              "brief": "据博主消息，一加16将首发新一代东方屏，成为行业首个支持全局165Hz超高刷的屏幕。新机出厂预装ColorOS 17，支持全新系统级动效。一加中国区总裁李杰确认，一加三大独家游戏技术（165Hz极速高刷、风驰游戏内核、电竞三芯）将全面升级并在年度旗舰一加16上首发。",
-              "source_url": "https://www.ithome.com/0/993/655.htm",
+              "title": "字节PICO Space Pro头显发布时间调整至第四季度",
+              "brief": "字节跳动旗下PICO宣布，原定于9月2日发布的Space Pro头显将推迟至今年第四季度，以便对软件体验进行重大升级。该头显据称为Project Swan，采用micro-OLED面板（4000 PPI），双芯片架构，性能可达骁龙XR2 Gen 2的两倍。PICO将扩大先锋体验计划，邀请更多用户体验。",
+              "source_url": "https://www.ithome.com/0/993/709.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T17:21:07+08:00"
+              "published_at": "2026-08-24T19:23:16+08:00"
             },
             {
-              "title": "奇瑞捷途环游者SUV开启盲订，定位“全球都市纯电新方盒”",
-              "brief": "奇瑞捷途环游者SUV开启盲订，定位“全球都市纯电新方盒”。新车提供后驱和四驱版本，长度4475/4605mm，轴距2735mm，最高车速180km/h。四驱版双电机综合峰值功率275kW，后驱版单电机200kW。搭载磷酸铁锂电池，计划今年四季度上市。",
-              "source_url": "https://www.ithome.com/0/993/652.htm",
+              "title": "北斗系统重点行业终端保有量近4000万台/套，渗透率约90%",
+              "brief": "据中国信通院介绍，当前重点行业北斗终端设备保有量接近4000万台/套，综合应用渗透率约90%。2026年上半年，国内手机出货量超98%支持北斗定位，累计北斗短报文用户超5500万。截至2025年底，国产北斗芯片累计出货近26亿片，各类终端产品社会保有量超22亿台/套。",
+              "source_url": "https://www.ithome.com/0/993/706.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T17:19:34+08:00"
+              "published_at": "2026-08-24T19:09:45+08:00"
             },
             {
-              "title": "石头科技2026上半年净利润9.86亿元，同比增长45.6%",
-              "brief": "石头科技发布2026年上半年财报，实现营收100.84亿元，同比增长27.6%；归母净利润9.86亿元，同比增长45.6%；扣非归母净利润8.03亿元，同比增长60.74%。基本每股收益3.83元，加权平均净资产收益率6.86%。总资产较上年末增长12.61%，股东总数为32857户。",
-              "source_url": "https://www.ithome.com/0/993/651.htm",
+              "title": "成都高新减灾所删除否认冒用声明，所长称降低热度",
+              "brief": "成都高新减灾研究所删除了否认冒用“中国地震预警网”的声明，所长王暾表示是为了降低热度。此前，该所因宜宾长宁4.7级地震预警震级偏差（首报7.7级）致歉。四川省地震局指其冒用名义，已于7月22日终止授权。减灾所则称“中国地震预警网”为2020年与中国地震局共建，并非冒用。",
+              "source_url": "https://www.ithome.com/0/993/702.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T17:15:45+08:00"
+              "published_at": "2026-08-24T19:02:07+08:00"
             },
             {
-              "title": "小鹏机器人完成超9亿美元融资，IRON计划年底量产",
-              "brief": "小鹏机器人业务完成首轮超9亿美元融资，刷新中国机器人私募融资纪录。本轮由IDG资本领投，高榕创投参投，腾讯和阿里巴巴战略投资，小鹏集团继续控股。资金将用于软硬件研发、AI模型训练、量产基地建设及全球商业化。IRON计划2026年底量产，2027年上市交付。",
-              "source_url": "https://www.ithome.com/0/993/649.htm",
+              "title": "Counterpoint：内存短缺致全球平板显示器市场今年预计下降4.7%",
+              "brief": "Counterpoint报告称，因内存芯片价格高企，全球平板显示器市场今年出货量预计同比下降4.7%。其中显示器面板下降1.7%，笔记本面板下降2.7%，均好于此前预期。OLED面板逆势增长，显示器OLED增长60%，笔记本OLED增长50%。汽车显示屏是唯一增长细分市场。内存短缺影响持续至2027年。",
+              "source_url": "https://www.ithome.com/0/993/694.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T17:14:51+08:00"
+              "published_at": "2026-08-24T18:43:31+08:00"
             }
           ]
         },
