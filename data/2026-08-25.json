@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T05:38:56.658730+08:00",
+  "generated_at": "2026-08-25T07:38:09.976729+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果发布iOS 27、iPadOS 27、macOS 27和tvOS 27新公测版",
+              "brief": "苹果今天发布了iOS 27、iPadOS 27、tvOS 27和macOS Golden Gate的第五个公测版，允许拥有兼容设备的用户下载并测试新软件。此次发布距离第四个公测版一周，并在第七个开发者测试版之后数小时。用户可通过苹果测试版网站注册，然后在设备上打开“设置”应用，选择“通用”，再选择“软件更新”来参与公测。目前测试已接近尾声，今天的开发者测试版中未发现显著的新功能。",
+              "source_url": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
+              "source_name": "MacRumors",
+              "published_at": "2026-08-25T06:51:00+08:00"
+            },
             {
               "title": "Home Hub代码暗示基于人脸识别的配置文件切换",
               "brief": "根据macOS Tahoe 26.7更新中的代码，苹果即将推出的Home Hub将支持多用户配置文件，并具备“环境感知”功能用于身份验证。该设备将显示不同用户的个人内容，用户可通过控制中心或设置应用选择配置文件。Home Hub预计采用类似tvOS的操作系统，控制中心和配置文件选择界面可能与Apple TV相似。代码暗示Home Hub可通过摄像头和传感器组合自动切换配置文件，基于环境感知功能判断谁在附近。此外，代码还提到壁挂式版本，确认将有两种型号。传闻Home Hub配备7英寸方形显示屏，支持应用和主屏幕小部件，最早可能在9月发布。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
               "source_name": "MacRumors",
               "published_at": "2026-08-25T01:35:05+08:00"
-            },
-            {
-              "title": "苹果向开发者推送iOS 27和iPadOS 27第7个测试版",
-              "brief": "苹果今天向开发者推送了iOS 27和iPadOS 27的第7个测试版，距离第六个测试版发布已有一周。注册开发者可通过iPhone或iPad的设置>通用>软件更新下载。iOS 27引入了更智能的Siri AI聊天机器人，类似ChatGPT，融合世界知识、个人数据和屏幕感知，可回答问题并查找信息。照片、Safari、快捷指令、钱包和密码等应用新增Apple Intelligence功能，并新增独立的Siri应用管理对话。系统级“用Siri写作”支持生成文本或反馈，视觉智能移至相机应用并新增Siri模式。Liquid Glass外观改进，新增透明度调节滑块。性能优化使应用启动、AirDrop传输、键盘弹出更快，Wi-Fi与蜂窝网络切换更流畅。",
-              "source_url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
-              "source_name": "MacRumors",
-              "published_at": "2026-08-25T01:34:02+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iOS 27、iPadOS 27、macOS 27 Golden Gate 等新公测版现已发布",
+              "brief": "苹果今日向公测用户推送了 iOS 27、iPadOS 27、macOS 27 Golden Gate 等新系统的公测版更新。这些版本主要包含性能改进和错误修复，并引入了一些新功能。开发者测试版已先行推出，公测版让更广泛的用户提前体验新系统。苹果计划在今年秋季正式发布这些版本，届时将带来更多创新特性。",
+              "source_url": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-25T06:45:50+08:00"
+            },
+            {
+              "title": "ChatGPT 现允许用户创建自定义 iMessage 和 WhatsApp 贴纸",
+              "brief": "ChatGPT 推出一项新功能，允许用户创建自定义贴纸，并直接用于 iMessage 和 WhatsApp 等即时通讯应用。用户可以通过描述想法或上传图片，利用 AI 生成个性化贴纸，丰富了聊天表达方式。该功能目前正在逐步推广，未来可能支持更多应用。这一更新增强了 ChatGPT 的实用性和趣味性。",
+              "source_url": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-08-25T06:15:15+08:00"
+            },
             {
               "title": "苹果在用户反对后撤销隐藏邮件域名更改计划",
               "brief": "据报道，苹果原计划更改隐藏我的邮件功能使用的域名，但遭到用户强烈反对。用户担心新域名可能影响邮件过滤和隐私保护。苹果最终决定撤销这一更改，继续使用原有域名。此举体现了苹果对用户反馈的重视，并确保该功能继续为用户提供可靠的隐私保护。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/",
               "source_name": "9to5Mac",
               "published_at": "2026-08-25T04:04:21+08:00"
-            },
-            {
-              "title": "Epic对抗苹果密封关键数据的请求，涉及外部购买拟议费用",
-              "brief": "Epic Games正与苹果就应用商店政策展开法律斗争。苹果提议对应用内链接的外部购买收取费用，并试图密封相关关键数据。Epic认为这些数据对案件至关重要，反对密封。该争议关乎开发者是否能够引导用户绕过苹果的支付系统，以及苹果的佣金政策是否合理。",
-              "source_url": "https://9to5mac.com/2026/08/24/epic-fights-apples-bid-to-seal-key-data-behind-proposed-fees-on-linked-out-purchases/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-25T03:49:35+08:00"
-            },
-            {
-              "title": "iOS 27 新增三项我非常喜欢的 iPhone 功能",
-              "brief": "苹果即将在 iOS 27 中推出三项新功能，作者表示非常喜欢。这些功能旨在提升用户体验，但具体细节未在摘要中透露。文章可能详细介绍了这些功能如何改善日常使用，以及它们对 iPhone 用户的意义。",
-              "source_url": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-08-25T03:23:04+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "无需iPhone：这个技巧让Kindle支持Quick Share接收文件",
+              "brief": "一个非官方项目让越狱Kindle设备支持Quick Share接收功能。Kindshare允许用户从安卓手机无线发送文件到Kindle，但Kindle无法反向发送文件。整个过程技术性较强，兼容性取决于Kindle型号和固件版本。开发者仅在Kindle Voyage（固件5.13.6）上验证了完整设置，其他型号可能不兼容。目前Kindshare仅支持接收，且自动接受传入传输，存在安全风险。但Kindle可创建Wi-Fi热点，便于无网络环境下的传输。注意，Kindle休眠时Wi-Fi关闭，需保持唤醒状态。",
+              "source_url": "https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-25T05:42:36+08:00"
+            },
+            {
               "title": "Gemini 正在开发大量实用 UI 更改：过滤器、通知等",
               "brief": "据 Android Authority 报道，谷歌正在为 Gemini 应用开发多项 UI 改进，包括新的通知区域、独立的置顶和最近聊天部分，以及筛选功能，使聊天更易查找。此外，谷歌还在为 Gemini Spark 开发专门的定制区域，用户可管理技能和应用。新设置可能允许用户隐藏 Gemini 的状态栏图标，从而更好地控制 AI 在手机上的显示。这些变化尚未上线，但已通过应用版本 17.52.12.sa.arm64 的拆解中窥见。",
               "source_url": "https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/",
               "source_name": "Android Authority",
               "published_at": "2026-08-25T03:39:41+08:00"
-            },
-            {
-              "title": "Galaxy S27 Ultra 或将搭载自愈玻璃",
-              "brief": "有传闻称，三星 Galaxy S27 Ultra 可能采用一种带有自愈层的玻璃，能自动填补细微划痕。据称，该玻璃由康宁和三星联合开发。业内人士透露，康宁和三星正合作研发下一代大猩猩装甲玻璃的自愈表面涂层。这种涂层虽然不如传统钢化玻璃耐刮，但若能自行修复发丝划痕，或许值得。目前尚不清楚该技术是否已投产，以及将用于手机正面还是背面。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-25T03:18:37+08:00"
             }
           ]
         },
@@ -325,7 +325,29 @@
         },
         {
           "name": "小众软件",
-          "articles": []
+          "articles": [
+            {
+              "title": "Menuist：让 Mac 右键菜单更好用",
+              "brief": "Menuist 是一款 Mac Finder 右键菜单增强工具，将新建文件、剪切/移动、常用目录、快速预览、复制路径、查看文件大小、二维码分享、图片转换等常用操作集成到右键菜单中。它支持直接新建文件并可使用自定义模板，一键创建替身或快捷方式，简化文件移动操作，提供常用目录和访问历史，代码预览支持语法高亮，还能识别 Git 远程链接。此外，它支持局域网二维码分享、更改图标颜色、图片格式转换等功能。适用于 macOS 14 及以上系统，提供免费版和付费版，付费版有年付和买断两种方式。",
+              "source_url": "https://www.appinn.com/menuist/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-23T20:27:06+08:00"
+            },
+            {
+              "title": "ntfsmac – 适用于苹果 M 芯片，开源 NTFS 读写工具（无需内核扩展或SIP修改)",
+              "brief": "ntfsmac 是一款适用于 Apple Silicon Mac 的开源 NTFS 读写工具，通过启动 Linux 微虚拟机运行 ntfs-3g，再通过 NFS 将硬盘挂载给 macOS，全程无需关闭 SIP 或安装内核扩展。它支持 NTFS 和 ext2/3/4 分区读写，提供命令行和图形界面，支持多并发挂载，实时显示驱动状态和传输速度，并具备诊断功能。安装可通过 Homebrew 完成，使用简单，插入硬盘后执行相应命令即可挂载或卸载。",
+              "source_url": "https://www.appinn.com/ntfsmac/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-23T15:43:14+08:00"
+            },
+            {
+              "title": "26/27 英超赛程日历，临时上线！",
+              "brief": "青小蛙维护的 2026-2027 赛季英超赛程日历已上线，可订阅到手机或电脑日历应用中，自动更新比分。免费版提供每周赛程和赛后比分更新，付费版（35元/赛季）支持单独订阅球队，包含欧冠、欧联、足总杯、联赛杯等所有比赛，赛前提醒，赛后备注进球、红黄牌等信息。购买后获得兑换码，在官网兑换。首批付费用户可免费获得其他五大联赛的日历。",
+              "source_url": "https://www.appinn.com/26-27-premier-league-calendar/",
+              "source_name": "小众软件",
+              "published_at": "2026-08-21T20:06:03+08:00"
+            }
+          ]
         },
         {
           "name": "cnBeta",
@@ -371,39 +393,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
-              "brief": "苹果今日向开发者推送了 watchOS 27.0 开发者预览版 Beta 7 更新。本次更新主要修复了已知问题，并提升了系统稳定性。用户可通过注册苹果开发者计划，在【设置】-【通用】-【软件更新】中升级。此前 Beta 6 于 8 月 18 日发布，Beta 5 于 8 月 11 日发布。IT之家将持续关注并带来更多更新内容。",
-              "source_url": "https://www.ithome.com/0/993/763.htm",
+              "title": "《GTA 6》新泄露视频展示NPC模拟系统升级",
+              "brief": "CyberLeek再次泄露《GTA 6》实机片段，展示升级版NPC模拟系统。视频时长约两分半钟，场景位于Leonida地区一处疑似裸体度假村，主角Jason周围发生大量NPC行为。NPC们独立活动，并对Jason作出反应，冲突引发骚动。视频确认游戏将获M级评级，包含高模精度细节。泄露还显示武器轮盘和特定时段服务提示。目前泄露均以Jason为主角，未来或转向Lucia。另有传闻称存在可运行PC版，但玩家需警惕病毒风险。",
+              "source_url": "https://www.ithome.com/0/993/785.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T01:53:16+08:00"
+              "published_at": "2026-08-25T07:25:17+08:00"
             },
             {
-              "title": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布",
-              "brief": "苹果今日向开发者推送了 visionOS 27.0 开发者预览版 Beta 7 更新。本次更新重点修复了系统错误，提升了性能与稳定性。开发者可通过注册苹果开发者计划，在【设置】-【通用】-【软件更新】中升级。此前 Beta 6 于 8 月 18 日发布，Beta 5 于 8 月 11 日发布。IT之家将陆续带来详细报道。",
-              "source_url": "https://www.ithome.com/0/993/762.htm",
+              "title": "Steam免费领《Dokimon Quest》 原价49元",
+              "brief": "Steam平台现可免费领取原价49元的RPG游戏《Dokimon Quest》。该游戏致敬《宝可梦》，采用复古像素画风，设定在Xelos地区，玩家需寻找失踪玩伴并揭开谜团。游戏包含超过140种原创怪兽、15座城镇及多样生态环境，主线流程约15-20小时，通关后仍有丰富终局内容。领取时间有限，感兴趣玩家请尽快领取。",
+              "source_url": "https://www.ithome.com/0/993/784.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T01:53:15+08:00"
+              "published_at": "2026-08-25T07:21:48+08:00"
             },
             {
-              "title": "苹果 macOS 27.0 开发者预览版 Beta 7 发布",
-              "brief": "苹果今日向开发者推送了 macOS 27.0 开发者预览版 Beta 7 更新。本次更新主要修复了已知问题，并优化了系统性能。开发者可通过注册苹果开发者计划，在【设置】-【通用】-【软件更新】中升级。此前 Beta 6 于 8 月 18 日发布，Beta 5 于 8 月 11 日发布。IT之家将带来更多更新详情。",
-              "source_url": "https://www.ithome.com/0/993/761.htm",
+              "title": "macOS 27弃用hdiutil 苹果推荐diskutil",
+              "brief": "苹果在macOS Golden Gate中标记磁盘镜像工具hdiutil为弃用，推荐改用diskutil image。hdiutil自OS X时代用于处理磁盘镜像，现苹果建议使用diskutil image，该命令支持挂载、创建、调整大小等操作，并支持ASIF格式。苹果未说明移除时间，diskutil image尚未覆盖全部功能，且行为有差异。推测弃用与安全问题有关，苹果曾在安全更新中修复相关漏洞。",
+              "source_url": "https://www.ithome.com/0/993/783.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T01:53:15+08:00"
+              "published_at": "2026-08-25T07:19:49+08:00"
             },
             {
-              "title": "苹果 iOS/iPadOS 27.0 开发者预览版 Beta 7 发布",
-              "brief": "苹果今日向开发者推送了 iOS/iPadOS 27.0 开发者预览版 Beta 7 更新。本次更新修复了系统错误，提升了稳定性与流畅度。开发者可通过注册苹果开发者计划，在【设置】-【通用】-【软件更新】中升级。此前 Beta 6 于 8 月 18 日发布，Beta 5 于 8 月 11 日发布。IT之家将持续跟进并带来详细内容。",
-              "source_url": "https://www.ithome.com/0/993/760.htm",
+              "title": "三星康宁研发自修复玻璃 或用于S27 Ultra",
+              "brief": "消息称三星与康宁联合研发自修复玻璃，计划用于下一代Gorilla Armor。该涂层耐刮擦性不如传统玻璃，但能自行填补细小划痕。目前细节未知，可能用于屏幕或背板。自修复概念并非全新，LG G Flex 2曾采用类似技术。预计三星将在2027年初发布Galaxy S27 Ultra，届时或搭载此技术。",
+              "source_url": "https://www.ithome.com/0/993/782.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T01:53:14+08:00"
+              "published_at": "2026-08-25T07:17:42+08:00"
             },
             {
-              "title": "CDPR：《巫师4》预计2028年推出",
-              "brief": "项目已有499名开发人员参与。分析师预测开发与营销投入或超50亿元。CDPR联席CEO表示希望《巫师4》能让因《赛博朋克2077》脱粉的玩家回心转意。",
-              "source_url": "https://www.ithome.com/0/993/759.htm",
+              "title": "超七成英语生物医学论文使用AI辅助写作",
+              "brief": "研究团队调查发现，2025年约77%的英语生物医学论文出现AI辅助写作或编辑特征，相比2023年19%和2024年52%大幅提升。讨论部分使用比例最高，达78%。非英语母语地区使用率超80%，高于英语国家。AI可能生成虚假事实和参考文献，影响科研准确性。研究人员呼吁建立完善监管机制，而非彻底禁止AI，应明确使用规范和披露要求。",
+              "source_url": "https://www.ithome.com/0/993/781.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-24T23:46:56+08:00"
+              "published_at": "2026-08-25T07:14:40+08:00"
             }
           ]
         }
