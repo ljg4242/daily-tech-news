@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T11:39:07.776466+08:00",
+  "generated_at": "2026-08-25T13:38:11.738255+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌Android 17防晕车功能Motion Assist正式推出",
+              "brief": "谷歌正逐步在Android 17设备上推出Motion Assist功能，首先面向Pixel手机。该功能旨在通过显示运动提示来减轻在移动车辆中使用手机时的晕车感。用户可通过Google Play设置启用，并可在检测到车辆移动时自动激活，或通过快速设置磁贴手动控制。目前，部分Pixel用户已看到该功能，但尚未广泛推送。Android Authority团队在Pixel 11 Pro XL上已获得该功能，但Pixel 10 Pro XL上尚未出现，表明谷歌正在分阶段推出。Motion Assist可在Google Play设置中的“个人与设备安全”部分找到，支持自动启动和快速设置磁贴。",
+              "source_url": "https://www.androidauthority.com/google-android-17-motion-assist-rolling-out-3702494/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-25T13:33:02+08:00"
+            },
+            {
               "title": "无需iPhone：这个技巧让Kindle支持Quick Share接收文件",
               "brief": "一个非官方项目让越狱Kindle设备支持Quick Share接收功能。Kindshare允许用户从安卓手机无线发送文件到Kindle，但Kindle无法反向发送文件。整个过程技术性较强，兼容性取决于Kindle型号和固件版本。开发者仅在Kindle Voyage（固件5.13.6）上验证了完整设置，其他型号可能不兼容。目前Kindshare仅支持接收，且自动接受传入传输，存在安全风险。但Kindle可创建Wi-Fi热点，便于无网络环境下的传输。注意，Kindle休眠时Wi-Fi关闭，需保持唤醒状态。",
               "source_url": "https://www.androidauthority.com/quick-share-to-kindles-hack-3702476/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/",
               "source_name": "Android Authority",
               "published_at": "2026-08-25T04:12:44+08:00"
-            },
-            {
-              "title": "据报道 Netflix 正在洽谈引入 Peacock 等竞争对手流媒体",
-              "brief": "据 Android Authority 报道，Netflix 可能很快允许用户通过其平台访问其他流媒体服务。据报道，公司正在与 Peacock 和 Fox One 洽谈。目前尚不清楚 Netflix 是销售这些服务的订阅，还是直接在应用中包含其内容。如果属实，这将是 Netflix 运营方式的转变，类似于 YouTube 与 Peacock 的合作。",
-              "source_url": "https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-25T03:39:41+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "Protocol Labs 停止资助星际文件系统的核心维护团队",
+              "brief": "在 Cloudflare 和 Brave 之后，Protocol Labs 停止资助星际文件系统（IPFS）的核心维护团队 Shipyard，IPFS 的未来打上了巨大的问号。IPFS 是 Protocol Labs 从 2014 年起开发的开源项目，目的是实现文件分布式存储、共享和持久化的网络传输协议，它是一种内容可寻址的对等超媒体分发协议，在 IPFS 网络中的节点构成一个集群文件系统。Cloudflare 和 Brave 都曾支持过 IPFS，但都已经退出，目前使用 IPFS 最知名服务可能是 Bluesky，它的 ATProto 协议是基于 IPFS 内容寻址构建的。Shipyard 团队称，与 IPFS 相关的工作将于 2026 年 9 月 30 日结束。",
+              "source_url": "https://www.solidot.org/story?sid=85184",
+              "source_name": "Solidot",
+              "published_at": "2026-08-25T12:53:49+08:00"
+            },
+            {
               "title": "微软删除超17万非营利组织数据",
               "brief": "微软曾自2013年起向全球小型非营利组织免费提供Microsoft 365 Business Premium，但2025年初宣布将停止免费授权，转为折扣付费订阅。未在6月11日前转为付费的账号数据将被删除。据Slate报道，许多非营利组织未注意到邮件通知，导致17.1万个组织存储在OneDrive中的数据被删除且无法恢复。有组织表示未收到任何授权终止通知，在Reddit和微软社区论坛上，许多用户称仅在数据删除后才看到警告邮件。微软未解释数据无法恢复的原因。",
               "source_url": "https://www.solidot.org/story?sid=85183",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=85180",
               "source_name": "Solidot",
               "published_at": "2026-08-24T18:52:37+08:00"
-            },
-            {
-              "title": "国际计量大会将讨论用闰时取代闰秒",
-              "brief": "今年10月国际计量大会将讨论用闰时取代闰秒。闰秒需频繁调整，导致混乱，而闰时可在数百年内无需修改。协调世界时（UTC）基于原子钟，但地球自转时间不规则，产生偏差。当偏差接近0.9秒时增加闰秒，自1972年已调整27次。但闰秒对金融、交通、电力等系统可能造成故障，如2012年增加闰秒时大型网络服务出问题。Google和微软等公司采用各自调整方法，导致闰秒作为标准时间基准的地位动摇。",
-              "source_url": "https://www.solidot.org/story?sid=85179",
-              "source_name": "Solidot",
-              "published_at": "2026-08-24T17:50:52+08:00"
             }
           ]
         },
@@ -400,45 +400,81 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "科学家将废弃塑料瓶制成可食用饼干，含香草味",
-              "brief": "美国NASA资助的项目中，科学家利用微生物将废弃塑料瓶转化为可食用的蛋白质饼干。该技术名为μBites，通过改造酵母，将PET塑料和农业废弃物分解重组为蛋白质、维生素等营养成分。研究人员使用氧化热液溶解工艺处理塑料和生物质，再由特殊酵母转化为食品成分，最后经3D打印制成饼干。目前μBites香气评价高，但尚未通过味觉测试。团队计划未来生产更多添加剂，并有望在几年内面向公众，适用于地球及太空等极端环境。",
-              "source_url": "https://www.ithome.com/0/993/923.htm",
+              "title": "新版《车用压缩天然气》强制性国标发布：明确甲烷值不小于65，与欧洲标准一致",
+              "brief": "新版《车用压缩天然气》强制性国家标准发布，新增甲烷值和互换性要求，明确甲烷值应不小于65，与欧洲标准一致。当甲烷值小于70时，加气站须公示具体数值。试验方法全面升级，新增或调整多项检测方法，其中甲烷值计算方法新增丙烷爆震指数法作为仲裁试验方法。取样与判定规则不断完善，取样点设在交接点。该标准将有效规范产品质量管控，促进行业高质量发展，保障天然气汽车正常运行，提升出行安全水平。",
+              "source_url": "https://www.ithome.com/0/993/966.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T11:35:52+08:00"
+              "published_at": "2026-08-25T13:26:30+08:00"
             },
             {
-              "title": "Arm首颗自研芯片AGI CPU细节：1000亿晶体管，支持6TB内存",
-              "brief": "Arm成立36年来首颗自研芯片AGI CPU细节披露。该芯片基于Armv9.2架构，采用台积电3nm工艺，双芯粒设计，每个芯粒超500亿晶体管，总计1000亿晶体管。最高配置136个Neoverse V3核心，每核2MB L2缓存，频率3.7GHz，TDP 300W。支持96条PCIe Gen6通道、CXL 3.0，内存集成于芯片上，延迟低于100ns，支持DDR5-8800，容量最高6TB。核心配备高级SIMD流水线，L2延迟10周期。",
-              "source_url": "https://www.ithome.com/0/993/911.htm",
+              "title": "新型碳化硅SiC晶体管问世，可在600℃高温下工作",
+              "brief": "美国研究团队利用离子注入工艺打造出可在600℃高温下工作的碳化硅结型场效应晶体管，成果发表于《APL Electronic Devices》。团队采用底栅结构，将栅极置于沟道下方，有效补偿离子注入造成的沟道效应，使阈值电压偏差在400℃下缩小至0.1V以内。同时加入双阱隔离结构，通过pn结隔离器件，减少高温漏电。该晶体管有望用于极端环境下的电子设备。",
+              "source_url": "https://www.ithome.com/0/993/965.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T11:31:46+08:00"
+              "published_at": "2026-08-25T13:24:24+08:00"
             },
             {
-              "title": "古尔曼：苹果AirPods 5下月发布，有普通版和降噪版",
-              "brief": "据古尔曼报道，苹果新款AirPods 5最早下月发布，早于9月9日的新品发布会。该耳机提供普通版和主动降噪版两种型号，是2024年以来入门级无线耳机的更新。此外，苹果还在开发带摄像头的AirPods，预计明年推出，将利用视觉智能和Siri实现AI功能。此前有消息称AirPods 5要到2027年才发布，但最新爆料显示发布时间提前。",
-              "source_url": "https://www.ithome.com/0/993/905.htm",
+              "title": "长春轨道交通7号线一期明日开通，年内4线齐开创历史之最",
+              "brief": "长春轨道交通7号线一期工程将于8月26日开通初期运营，线路全长23.2公里，设19座地下车站，其中8座换乘站，串联五个城区。今年年底前，长春还将开通5号线一期、3号线南延、1号线南延等线路，共计4条线路、50.5公里，创历史之最。届时长春轨道交通运营线网将由6条增至8条，总里程达201.9公里。",
+              "source_url": "https://www.ithome.com/0/993/964.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T11:27:25+08:00"
+              "published_at": "2026-08-25T13:16:55+08:00"
             },
             {
-              "title": "古尔曼：苹果可能在数日内发布新款Mac mini",
-              "brief": "古尔曼透露，苹果可能在“未来几天内”发布新款Mac mini，或成为库克卸任CEO前最后一款新品。苹果已测试M5和M6芯片版本，但未确定最终选择。当前Mac mini可选M4或M4 Pro，内存16-48GB，存储最高8TB。由于存储芯片短缺，Mac mini交付周期长达4-10周。此外，富士康得州工厂已开始组装部分Mac mini，苹果或强调美国组装。",
-              "source_url": "https://www.ithome.com/0/993/887.htm",
+              "title": "七工匠AF 18mm F2 APS-C镜头新增索尼E卡口，首发价749元",
+              "brief": "七工匠AF 18mm F2 APS-C画幅镜头推出索尼E卡口版本，首发价749元。该镜头重量仅109克，采用STM马达对焦，提供有级光圈环。最近对焦距离20厘米，滤镜尺寸52mm，光学结构为7组9片。镜头主打轻量设计，适合日常挂机使用。",
+              "source_url": "https://www.ithome.com/0/993/963.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T11:16:46+08:00"
+              "published_at": "2026-08-25T13:14:58+08:00"
             },
             {
-              "title": "传音TECNO概念手机真机上手：号称“真0mm无边框”",
-              "brief": "传音TECNO概念手机真机视频曝光，号称全球首款“真0mm无边框”设计。该机计划在IFA 2026展示，实际效果图中银色边缘仍可见，但黑色区域消失。显示面板采用居中挖孔摄像头。此次曝光来自Marques Brownlee的视频，此前TECNO已预告该概念机。",
-              "source_url": "https://www.ithome.com/0/993/883.htm",
+              "title": "美军测试Sandhills 2.0：福特F-250搭载Edda炮塔，可拦截10~100米内无人机",
+              "brief": "美军测试Sandhills 2.0反无人机系统，基于福特F-250皮卡，搭载9 Mothers公司制造的Edda炮塔。Edda炮塔重约23千克，可在15毫秒内转动5°，角度精度1.5角分，能拦截直径17.8厘米以上、距离10至100米的无人机。系统通过声学探测和视觉跟踪锁定目标，结合自动驾驶减少士兵暴露风险。",
+              "source_url": "https://www.ithome.com/0/993/962.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T11:13:40+08:00"
+              "published_at": "2026-08-25T13:10:11+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
-          "articles": []
+          "articles": [
+            {
+              "title": ".NET Framework 8月更新导致Windows 11打印异常 微软已分享临时解决方案",
+              "brief": ".NET Framework 8月更新导致Windows 11打印异常，主要影响WPF应用生成的PDF或XPS文档，问题与Calibri、Cambria等字体有关。微软已提供临时解决方案，用户可更换字体或通过配置文件禁用安全措施，但后者不安全。微软正在调查并计划发布永久修复。",
+              "source_url": "https://www.landian.news/archives/126446.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T13:05:50+08:00"
+            },
+            {
+              "title": "Windows 11会在某些情况下自动删除驱动程序 有用户安装的N卡驱动被悄悄卸载",
+              "brief": "Windows 11的自动清理机制可能在某些情况下删除驱动程序，有华硕ROG游戏本用户发现N卡驱动被自动卸载。原因是奥创软件ECO模式会彻底关闭独立显卡，系统在15天后会将其视为已移除并删除驱动。用户需重新安装驱动，此问题主要影响长期使用节能模式的用户。",
+              "source_url": "https://www.landian.news/archives/126445.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T11:49:46+08:00"
+            },
+            {
+              "title": "听劝：经过用户反馈后苹果不再调整iCloud+隐藏邮箱使用的域名 避免其他平台屏蔽",
+              "brief": "苹果原计划将iCloud+隐藏邮箱和Apple登录的随机邮箱域名改为@private.icloud.com，但遭到用户反对，因为该域名易被平台屏蔽。苹果听取反馈后决定，iCloud+隐藏邮箱继续使用@iCloud.com，而Apple登录的邮箱则改用新域名。平台需将新域名加入白名单以避免用户注册问题。",
+              "source_url": "https://www.landian.news/archives/126443.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T11:05:02+08:00"
+            },
+            {
+              "title": "美好时光即将过去：Codex将从明天开始恢复5小时限额(仅Plus订阅用户)",
+              "brief": "OpenAI的Codex将从明天起对ChatGPT Plus订阅用户恢复5小时限额机制，而Pro用户暂时不受影响。此举旨在平衡计算负载，但可能促使Plus用户升级到更贵的Pro套餐。此前Codex曾暂停限额，但为保障高付费用户的使用体验，现恢复针对低付费用户的限制。",
+              "source_url": "https://www.landian.news/archives/126444.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T10:43:06+08:00"
+            },
+            {
+              "title": "OpenCode已取消首月5美元优惠价 原因也是号商批量注册薅羊毛再通过API转售",
+              "brief": "开源AI编码工具OpenCode取消了首月5美元的优惠订阅，现统一为10美元。原因是号商利用优惠价批量注册账号，再通过API转售获利，类似GitHub Copilot取消免费试用。此举旨在提高号商成本，但无法完全杜绝转售行为。",
+              "source_url": "https://www.landian.news/archives/126442.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T10:19:18+08:00"
+            }
+          ]
         }
       ]
     }
