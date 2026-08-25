@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T13:38:11.738255+08:00",
+  "generated_at": "2026-08-25T15:38:12.938937+08:00",
   "sections": [
     {
       "category": "主要",
@@ -294,6 +294,27 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "Firefox 和 Chrome 准备启用对 JPEG XL 的支持",
+              "brief": "Firefox 和 Chrome 均宣布准备默认启用对 JPEG XL 图像格式的支持。JPEG XL 是一种免版税的位图格式，支持有损和无损压缩，旨在替代现有格式。Chrome 曾在 2023 年移除实验性支持，但如今改变态度，将采用 Rust 编写的解码器 jxl-rs。Mozilla 计划在 Firefox 157 中默认启用。苹果 Safari 早在 2023 年已支持，但使用 C++ 实现。此举有望推动 JPEG XL 的普及。",
+              "source_url": "https://www.solidot.org/story?sid=85187",
+              "source_name": "Solidot",
+              "published_at": "2026-08-25T14:45:01+08:00"
+            },
+            {
+              "title": "安娜的档案在长时间宕机之后恢复服务",
+              "brief": "安娜的档案（Anna's Archive）在经历长时间宕机后恢复运行。该组织称遭遇协同攻击，但攻击者身份不明。该网站成立于2022年，今年面临多起诉讼：因Spotify等起诉失去.org域名，被判赔偿3.22亿美元；因出版商侵权诉讼被判赔1950万美元，并遭域名限制。目前其多个域名如annas-archive.pk等均可正常访问。",
+              "source_url": "https://www.solidot.org/story?sid=85186",
+              "source_name": "Solidot",
+              "published_at": "2026-08-25T14:14:46+08:00"
+            },
+            {
+              "title": "15 年前库克接替乔布斯担任苹果 CEO",
+              "brief": "15年前的2011年8月24日，蒂姆·库克接替史蒂夫·乔布斯成为苹果CEO。下周的9月1日，库克将卸任CEO，由John Ternus接任。Ternus于2001年加入苹果，2013年任硬件工程副总裁，2021年升任高级副总裁，负责AirPods、Mac、iPad和iPhone开发。库克将继续留任执行董事长，负责政策沟通和应对监管压力。",
+              "source_url": "https://www.solidot.org/story?sid=85185",
+              "source_name": "Solidot",
+              "published_at": "2026-08-25T13:38:19+08:00"
+            },
+            {
               "title": "Protocol Labs 停止资助星际文件系统的核心维护团队",
               "brief": "在 Cloudflare 和 Brave 之后，Protocol Labs 停止资助星际文件系统（IPFS）的核心维护团队 Shipyard，IPFS 的未来打上了巨大的问号。IPFS 是 Protocol Labs 从 2014 年起开发的开源项目，目的是实现文件分布式存储、共享和持久化的网络传输协议，它是一种内容可寻址的对等超媒体分发协议，在 IPFS 网络中的节点构成一个集群文件系统。Cloudflare 和 Brave 都曾支持过 IPFS，但都已经退出，目前使用 IPFS 最知名服务可能是 Bluesky，它的 ATProto 协议是基于 IPFS 内容寻址构建的。Shipyard 团队称，与 IPFS 相关的工作将于 2026 年 9 月 30 日结束。",
               "source_url": "https://www.solidot.org/story?sid=85184",
@@ -306,27 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=85183",
               "source_name": "Solidot",
               "published_at": "2026-08-24T22:48:16+08:00"
-            },
-            {
-              "title": "Wi-Fi 8专注于提升可靠性",
-              "brief": "自2009年Wi-Fi 4起，每代Wi-Fi都以数据速率提升为卖点。Wi-Fi 5速率是Wi-Fi 4的十倍，Wi-Fi 7每频段理论最大吞吐量达23Gbps，对多数用户已绰绰有余。正在开发的Wi-Fi 8将与Wi-Fi 7保持基本相同的最大数据速率、空间流数量、4096-QAM调制、频段和320MHz信道带宽。Wi-Fi 8将专注于提升可靠性，目标是在不同信噪比下吞吐量提升25%，95%的请求延迟降低25%，MAC协议数据单元丢失率降低25%。该标准预计于2028年定稿。",
-              "source_url": "https://www.solidot.org/story?sid=85182",
-              "source_name": "Solidot",
-              "published_at": "2026-08-24T21:37:30+08:00"
-            },
-            {
-              "title": "Anthropic最强模型难吸引用户",
-              "brief": "据支付服务集团Ramp收集的7万家公司支出数据，Anthropic最贵、最强的模型Fable 5发布两个多月后，其支出占比仅约11%，且趋于稳定。这打破了企业用户默认选择最强大模型的惯例。分析师和投资者表示，这主要由于Fable 5价格高昂，且旧款模型能满足大部分企业需求。若此趋势持续，可能改变前沿AI实验室的商业模式。Fable的低需求加剧了Anthropic在IPO前的不确定性，其IPO估值预计达2万亿美元或更高，最早可能下月上市。",
-              "source_url": "https://www.solidot.org/story?sid=85181",
-              "source_name": "Solidot",
-              "published_at": "2026-08-24T20:27:02+08:00"
-            },
-            {
-              "title": "Valve成立30周年",
-              "brief": "Valve由前微软员工Gabe Newell和Mike Harrington于1996年8月24日创办，首款游戏《半条命》广受好评，对FPS游戏产生深远影响。Harrington于2000年离开。Valve在2003年开发Steam，后随《半条命2》强制捆绑，虽遭批评但最终成为主要收入来源，甚至导致游戏开发放缓。Valve在2013年前发布多款著名游戏，如《反恐精英》《传送门》《求生之路》《Dota 2》。2020年代后推出VR游戏《半条命：爱莉克斯》和仍在测试的《Deadlock》。此外还开发了Steam Machine、Steam Deck和Valve Index等硬件。",
-              "source_url": "https://www.solidot.org/story?sid=85180",
-              "source_name": "Solidot",
-              "published_at": "2026-08-24T18:52:37+08:00"
             }
           ]
         },
@@ -400,45 +400,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "新版《车用压缩天然气》强制性国标发布：明确甲烷值不小于65，与欧洲标准一致",
-              "brief": "新版《车用压缩天然气》强制性国家标准发布，新增甲烷值和互换性要求，明确甲烷值应不小于65，与欧洲标准一致。当甲烷值小于70时，加气站须公示具体数值。试验方法全面升级，新增或调整多项检测方法，其中甲烷值计算方法新增丙烷爆震指数法作为仲裁试验方法。取样与判定规则不断完善，取样点设在交接点。该标准将有效规范产品质量管控，促进行业高质量发展，保障天然气汽车正常运行，提升出行安全水平。",
-              "source_url": "https://www.ithome.com/0/993/966.htm",
+              "title": "vivo X500 Pro Max 主摄采用3度大角度云台级防抖，达到CIPA 7.0专业级",
+              "brief": "vivo X500 Pro Max 的「蓝图光御 900」主摄由蓝图与索尼联合定制，支持17EV电影级动态范围。该机搭载3度大角度云台级防抖，防抖行程较上代翻倍，拍照防抖达到CIPA 7.0专业级。此外，该机还配备2亿像素潜望长焦镜头。博主爆料称主摄为50MP 1/1.28英寸传感器。",
+              "source_url": "https://www.ithome.com/0/994/016.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T13:26:30+08:00"
+              "published_at": "2026-08-25T15:24:35+08:00"
             },
             {
-              "title": "新型碳化硅SiC晶体管问世，可在600℃高温下工作",
-              "brief": "美国研究团队利用离子注入工艺打造出可在600℃高温下工作的碳化硅结型场效应晶体管，成果发表于《APL Electronic Devices》。团队采用底栅结构，将栅极置于沟道下方，有效补偿离子注入造成的沟道效应，使阈值电压偏差在400℃下缩小至0.1V以内。同时加入双阱隔离结构，通过pn结隔离器件，减少高温漏电。该晶体管有望用于极端环境下的电子设备。",
-              "source_url": "https://www.ithome.com/0/993/965.htm",
+              "title": "SiFive 推出 BigSky 开发平台：全球首款企业级2U RISC-V服务器",
+              "brief": "SiFive 发布 BigSky 开发平台，这是全球首款企业级、机架安装的2U RISC-V服务器。该平台配备32个2.0GHz P870-D CPU内核，256GB DDR5-5600内存，64条PCIe Gen5和4条PCIe Gen3通道，2块7.68TB U.2 NVMe SSD，以及10/25Gb OCP 3.0网卡。SiFive 还与NVIDIA合作，将CUDA移植到RISC-V硬件，并已在BigSky上成功运行CUDA。",
+              "source_url": "https://www.ithome.com/0/994/015.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T13:24:24+08:00"
+              "published_at": "2026-08-25T15:24:23+08:00"
             },
             {
-              "title": "长春轨道交通7号线一期明日开通，年内4线齐开创历史之最",
-              "brief": "长春轨道交通7号线一期工程将于8月26日开通初期运营，线路全长23.2公里，设19座地下车站，其中8座换乘站，串联五个城区。今年年底前，长春还将开通5号线一期、3号线南延、1号线南延等线路，共计4条线路、50.5公里，创历史之最。届时长春轨道交通运营线网将由6条增至8条，总里程达201.9公里。",
-              "source_url": "https://www.ithome.com/0/993/964.htm",
+              "title": "古尔曼：新一代 iPad mini 最晚10月下旬发布，配备OLED屏和防水功能",
+              "brief": "据古尔曼消息，新一代iPad mini最晚将于10月下旬发布，将采用OLED屏幕，色彩更鲜艳、对比度更高。由于OLED成本较高，起售价可能上涨。该平板还将配备全新扬声器系统，并支持防水。芯片预计升级为A19 Pro或A20，性能较现款A17 Pro显著提升。",
+              "source_url": "https://www.ithome.com/0/994/014.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T13:16:55+08:00"
+              "published_at": "2026-08-25T15:21:28+08:00"
             },
             {
-              "title": "七工匠AF 18mm F2 APS-C镜头新增索尼E卡口，首发价749元",
-              "brief": "七工匠AF 18mm F2 APS-C画幅镜头推出索尼E卡口版本，首发价749元。该镜头重量仅109克，采用STM马达对焦，提供有级光圈环。最近对焦距离20厘米，滤镜尺寸52mm，光学结构为7组9片。镜头主打轻量设计，适合日常挂机使用。",
-              "source_url": "https://www.ithome.com/0/993/963.htm",
+              "title": "高通第六代骁龙8超级至尊版跑分曝光：主频峰值5.0GHz",
+              "brief": "高通第六代骁龙8超级至尊版芯片跑分曝光，测试机型为vivo V2606A（推测为vivo X500系列或iQOO 16）。GeekBench 6.7.1单核3434分，多核9334分。CPU采用2+3+3架构，超大核主频达5.01GHz，但无法持续维持，实际运行频率为4.59-4.60GHz。GPU为Adreno 850。",
+              "source_url": "https://www.ithome.com/0/994/013.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T13:14:58+08:00"
+              "published_at": "2026-08-25T15:20:17+08:00"
             },
             {
-              "title": "美军测试Sandhills 2.0：福特F-250搭载Edda炮塔，可拦截10~100米内无人机",
-              "brief": "美军测试Sandhills 2.0反无人机系统，基于福特F-250皮卡，搭载9 Mothers公司制造的Edda炮塔。Edda炮塔重约23千克，可在15毫秒内转动5°，角度精度1.5角分，能拦截直径17.8厘米以上、距离10至100米的无人机。系统通过声学探测和视觉跟踪锁定目标，结合自动驾驶减少士兵暴露风险。",
-              "source_url": "https://www.ithome.com/0/993/962.htm",
+              "title": "华为三折叠手机全球累计发货量突破100万台，单价超2万元",
+              "brief": "消息称华为三折叠手机（Mate XT / XTs非凡大师两代）全球累计发货量已突破100万台，单价超2万元。博主透露华为9月将召开两场发布会，上旬发布新款三折叠，下旬发布Mate 90系列。Mate XT 2和Mate X8将搭载最新旗舰处理器，定位万元档超高端。",
+              "source_url": "https://www.ithome.com/0/994/012.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-25T13:10:11+08:00"
+              "published_at": "2026-08-25T15:17:35+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "苹果即将推出新款Mac mini，可能搭载M5或M6芯片",
+              "brief": "据彭博社马克·古尔曼消息，苹果计划在本周或下周推出2026款Mac mini，时间早于iPhone 18 Pro系列发布。新款Mac mini可能搭载M5或M6芯片，苹果内部已对两款芯片进行测试。由于CEO蒂姆·库克即将退休，这可能是他任期内最后一款Mac mini。苹果预计通过新闻稿发布，不举办发布会。价格方面，受内存价格上涨影响，新款售价可能不低于M4版Mac mini。",
+              "source_url": "https://www.landian.news/archives/126447.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-08-25T14:42:57+08:00"
+            },
             {
               "title": ".NET Framework 8月更新导致Windows 11打印异常 微软已分享临时解决方案",
               "brief": ".NET Framework 8月更新导致Windows 11打印异常，主要影响WPF应用生成的PDF或XPS文档，问题与Calibri、Cambria等字体有关。微软已提供临时解决方案，用户可更换字体或通过配置文件禁用安全措施，但后者不安全。微软正在调查并计划发布永久修复。",
@@ -466,13 +473,6 @@
               "source_url": "https://www.landian.news/archives/126444.html",
               "source_name": "蓝点网",
               "published_at": "2026-08-25T10:43:06+08:00"
-            },
-            {
-              "title": "OpenCode已取消首月5美元优惠价 原因也是号商批量注册薅羊毛再通过API转售",
-              "brief": "开源AI编码工具OpenCode取消了首月5美元的优惠订阅，现统一为10美元。原因是号商利用优惠价批量注册账号，再通过API转售获利，类似GitHub Copilot取消免费试用。此举旨在提高号商成本，但无法完全杜绝转售行为。",
-              "source_url": "https://www.landian.news/archives/126442.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-08-25T10:19:18+08:00"
             }
           ]
         }
