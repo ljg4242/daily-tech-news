@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T13:38:50.011429+08:00",
+  "generated_at": "2026-08-26T15:38:17.745957+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "联想首款安卓掌机C700发布，支持离线串流PC游戏",
+              "brief": "联想在中国推出了Legion Cloud Gaming Handheld C700安卓掌机，主打云游戏，可通过专用接收器在无网络环境下串流PC游戏。设备配备7.82英寸FHD 120Hz LCD屏幕，重556克，搭载天玑7400处理器，6/8GB内存，128/256GB存储，8000mAh电池，支持双TMR摇杆、霍尔效应扳机、后置按键，运行Android 16，支持蓝牙5.3和Wi-Fi 6E。8GB+256GB版本售价2199元（约327美元），6GB+128GB版本价格未公布。",
+              "source_url": "https://www.androidauthority.com/lenovo-c700-android-handheld-3703077/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-26T15:31:00+08:00"
+            },
+            {
+              "title": "Perplexity推出本地AI代理，零Token成本",
+              "brief": "Perplexity与NVIDIA合作发布了名为“Portable Computer”的本地优先AI代理，完全在用户设备上运行，无需将数据发送至云端，提升隐私保护。该代理使用Qwen 3.8和NVIDIA Nemotron 3.5 Lightning等小型高效模型，可执行复杂任务。本地处理的任务不消耗Token，但如需联网搜索或高级推理，会先征得用户许可。目前支持NVIDIA DGX Spark平台，可运行Qwen 3.8或PPLX 27B模型，未来将支持Nemotron 3.5 Lightning和RTX GPU。",
+              "source_url": "https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-26T14:40:55+08:00"
+            },
+            {
               "title": "Fitbit联合创始人推出250美元无屏健康安全手环Luffu Link",
               "brief": "Fitbit联合创始人James Park和Eric Friedman推出了新可穿戴设备Luffu Link，售价249.99美元，预购价，零售价299.99美元，预计2027年初在美国发货。这款无屏健康安全手环专为家庭护理设计，集成LTE连接，可追踪活动、睡眠和心率，支持语音记录症状、药物、饮食、情绪和提醒。具备GPS和LTE功能，即使手机不在身边也能分享位置并联系信任的人。双击可向家人发送签到，佩戴者也可请求帮助。LTE服务无需单独运营商套餐，电池续航长达五天，有金色、黑色和蓝色可选。",
               "source_url": "https://www.androidauthority.com/fitbit-founders-luffu-link-band-3703070/",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/instagram-take-a-break-3702952/",
               "source_name": "Android Authority",
               "published_at": "2026-08-26T05:19:34+08:00"
-            },
-            {
-              "title": "Anbernic公布其任天堂Switch Lite类似产品的规格",
-              "brief": "Anbernic发布了RG 55G1的开箱视频，揭示了该掌机的规格，包括4GB/64GB和8GB/128GB配置、骁龙G1 Gen 2芯片和Android 14系统。颜色有靛蓝、复古灰和黑色。视频中展示了设备外观、包装内容以及无线投屏功能。完整规格包括5.5英寸1080p IPS屏幕、6000mAh电池（8小时续航）、18W充电、Wi-Fi 5和蓝牙5.0，重量约339克。该设备可运行Android游戏及多种掌机平台游戏（PS Vita、3DS、PSP、GBA等），以及部分主机游戏（PS1、PS2、Wii U、Wii等）。目前尚不清楚发售日期和价格，但已知有两个配置，预计会有更便宜的版本。",
-              "source_url": "https://www.androidauthority.com/anbernic-rg-55g1-unboxing-3702983/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-26T04:58:29+08:00"
-            },
-            {
-              "title": "粉丝调查向谷歌传达关于Pixel 12的直白信息",
-              "brief": "谷歌已将AI作为Pixel体验的重要组成部分，Pixel 11系列更是如此。但一项读者调查显示，64%的投票者希望Pixel 12优先改进硬件，而非AI。19%认为应同等重视硬件和AI，略少比例支持更优惠的价格，只有不到2%认为AI应成为唯一重点。这表明许多用户认为硬件需要更多关注。Pixel 11在电池容量、充电速度、相机硬件和原始性能等方面落后于竞争对手，因此谷歌在Pixel 12上需要平衡硬件和AI，以满足用户期望。",
-              "source_url": "https://www.androidauthority.com/google-pixel-12-priorities-poll-results-3702883/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-26T04:21:57+08:00"
             }
           ]
         },
@@ -419,39 +419,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "小米18 Fold阔折叠真机曝光：首发玄戒O3 K100PM同款红色",
-              "brief": "小米18 Fold阔折叠真机曝光，首发玄戒O3芯片，采用K100PM同款红色。玄戒O3安兔兔跑分达522万，为首款破500万的旗舰SoC。CPU为十核全大核，多核跑分首破15000，性能提升60%。GPU为G2-Ultra NX，性能提升85%，功耗降低64%。全球首款支持LPDDR6，内存带宽最高113.8GB/s，提升48%。采用统一融合总线架构，静态时延82ns，系统响应更快。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575020.htm",
+              "title": "乐高布局软件赋能积木，驱动新一轮增长",
+              "brief": "乐高集团CEO尼尔斯·克里斯蒂安森表示，公司正加大投资力度，以软件赋能积木产品，推动新一轮增长。近年来，乐高在星球大战、F1等主题套装上实现广泛增长，但吸取2017年销售下滑的教训，公司正大幅增加投资，包括扩充软件工程师团队至三倍，并推出智能积木系统，该系统已应用于星球大战和宝可梦套装，提供数字化、交互式体验。此外，乐高还投资46亿丹麦克朗提升生产设施，并收购乐高探索中心。克里斯蒂安森强调，乐高并未触及增长天花板，但需审慎管理，避免过度投资。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575040.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-26T12:41:48+08:00"
+              "published_at": "2026-08-26T15:34:38+08:00"
             },
             {
-              "title": "《战争机器》之父称骂游戏DEI是生意 《地平线》女主很漂亮",
-              "brief": "《战争机器》之父布莱辛斯基表示，骂游戏DEI是生意，许多博主借此变现愤怒。他称赞《地平线》女主埃洛伊设计自然吸引人，比作好莱坞偶像。他认为玩家对硬汉角色关注能力，对女性角色过度去浪漫化有反抗。日式动漫角色塑造迷人，游戏不必走向极端，如春丽因可爱和曲线受欢迎。他呼吁平衡，引发讨论。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1575018.htm",
+              "title": "小天才电话手表BMI判定引争议，官方回应",
+              "brief": "近日，一名1米67、体重101斤的女生被小天才电话手表判定为“体重超99%同龄女生”，引发网友热议。多数网友认为该判定不科学，担忧会误导青少年产生身材焦虑。小天才官方客服回应称，手表BMI数据由用户手动录入，系统基于BMI数值自动生成，判定标准参考国家卫健委卫生行业标准。据国家卫健委标准，该女生BMI约为18.1，属于正常范围。官方表示将转交相关部门核实，后续给出正式回复。事件凸显了智能设备健康监测的准确性及对青少年心理的影响。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575038.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-26T12:40:44+08:00"
+              "published_at": "2026-08-26T15:34:26+08:00"
             },
             {
-              "title": "因报道\"实体光盘消亡\" 多家媒体遭索尼PS印度分部封杀",
-              "brief": "多家媒体因报道索尼PS印度分部推进淘汰实体光盘计划，被列入黑名单，失去新作评测权限。PS印度营销人员点名批评媒体博眼球，并在WhatsApp上屏蔽。媒体称索尼在印度市场缺乏安全感，尽管近乎垄断。此前PS曾威胁拉黑报道PS6泄露的创作者。媒体坚持报道诚实，批评打压行为。索尼尚未回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1575016.htm",
+              "title": "英特尔披露256核Xeon 7细节：Diamond Rapids延期至2027年，专注HPC",
+              "brief": "英特尔在Hot Chips大会上披露了新一代Xeon 7 Diamond Rapids处理器细节，该平台延期至2027年，专为高性能计算（HPC）市场设计。Diamond Rapids取消超线程，仅提供高端AP版本，采用最多22个芯粒，包括16个18A-P工艺计算芯粒、4个Intel 3-T基础芯粒和2个Fabric Hub，支持最多16条DDR5内存通道，最高128条PCIe 6.0通道。其L3缓存最高可达1.28GB，并支持AVX 10.2和FP8。英特尔旨在通过该架构提供统一内存访问，争夺顶级HPC市场。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575036.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-26T12:39:14+08:00"
+              "published_at": "2026-08-26T15:32:47+08:00"
             },
             {
-              "title": "传《GTA6》泄密案嫌疑人被Take-Two锁定",
-              "brief": "据报道，Take-Two已锁定《GTA6》泄密案嫌疑人，可能是Discord用户“stayonthegrindd”，与暗网泄密者Cyberleek关联。时间线显示，8月16日泄露地图，18日上传篮球视频，随后stayonthegrindd在Discord发布并删除，疑似同人。调查认为其可能为Cyberleek本人或同伙，属重大操作失误。Take-Two及执法机构可能已展开调查，但能否找到真正源头未知。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1575014.htm",
+              "title": "逆向工程师拆解Windows 11性能服务：能力强大但非间谍软件",
+              "brief": "逆向工程师Xusheng Li拆解了Windows 11的性能服务whesvc，发现其底层引擎功能强大，可调用79项原生函数，包括注册表修改、进程控制、WMI查询等，但现有脚本主要用于性能诊断，未发现自动上传数据或屏幕监控行为。该服务内嵌Lua脚本引擎，包含84个脚本，用于诊断内存泄漏、电源问题等。此前流传的“每15分钟上传数据”说法被澄清，数据默认保存在本地。研究者认为，该服务权限虽广，但当前行为仅限于诊断，不支持“间谍软件”指控。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575034.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-26T12:38:53+08:00"
+              "published_at": "2026-08-26T15:30:53+08:00"
             },
             {
-              "title": "微软在画图/照片里为AI图片添加像素级盲水印 截图/裁剪也不能去除水印",
-              "brief": "微软在画图/照片应用中为AI生成图片添加像素级盲水印，即使截图或裁剪也无法去除。画图应用生成图片时，提示词发送至服务器审核，返回水印ID，本地生成后写入16字节盲水印，修改像素。若写入失败，生成任务失败。同时添加C2PA元数据，记录水印信息，双重来源证明。照片应用同样使用盲水印，但失败时仍返回结果。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575012.htm",
+              "title": "ChatGPT Work新增网站登录能力，可代办预约报销等任务",
+              "brief": "OpenAI为ChatGPT Work新增网站登录功能，用户可授权ChatGPT登录网站，代为完成预约、报销、账单处理等任务。用户可手动输入凭据或使用密码管理器，OpenAI强调不会看到或保存用户凭据。登录后，ChatGPT可浏览网站并执行操作，重要步骤需用户确认。该功能正在向Plus、Pro和Business用户推出。同时，ChatGPT的计划任务功能升级，支持外部事件触发（如新邮件、Slack消息），并已向免费用户开放，但限制活动任务数最多3个，每日频率一次。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1575032.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-08-26T12:37:42+08:00"
+              "published_at": "2026-08-26T15:30:29+08:00"
             }
           ]
         }
