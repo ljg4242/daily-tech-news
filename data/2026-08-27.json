@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T13:38:16.966695+08:00",
+  "generated_at": "2026-08-27T15:38:20.208163+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌即将推出的应用内存限制有助于廉价手机流畅运行，但代价是什么？",
+              "brief": "谷歌宣布从2027年2月起，将在Play商店强制执行新的每应用内存限制和其他不良行为阈值。此举旨在确保不同价格区间的安卓设备都能流畅运行，减少卡顿和崩溃。限制根据设备总RAM设定，游戏因需求更高而限制较宽松。不符合限制的应用可能在Play商店中可见度降低甚至无法发布。此外，谷歌还引入了“最低优化要求”，并鼓励开发者实现跨设备自动登录。对于本地运行AI模型等重型应用，影响尚不明确。",
+              "source_url": "https://www.androidauthority.com/google-android-app-memory-limits-3703702/",
+              "source_name": "Android Authority",
+              "published_at": "2026-08-27T14:19:07+08:00"
+            },
+            {
               "title": "谷歌称已修复令Home用户抓狂的播放列表错误",
               "brief": "谷歌表示已修复导致Google Home设备播放错误播放列表的问题。此前用户抱怨请求特定播放列表时，设备却播放无关歌曲、专辑或播放列表。谷歌未说明问题原因，但已回应Reddit上的投诉，并要求用户反馈是否仍遇到问题。目前修复效果尚待用户确认。",
               "source_url": "https://www.androidauthority.com/google-home-playlist-problem-fixed-3703662/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/gemini-live-ai-productivity-features-3703566/",
               "source_name": "Android Authority",
               "published_at": "2026-08-27T04:01:32+08:00"
-            },
-            {
-              "title": "安卓手机或将能远程关闭、重启或休眠电脑",
-              "brief": "微软正在开发“连接至 Windows”的新功能，允许用户通过安卓手机远程关闭、重启或休眠电脑。关闭和重启命令会附带警告，提示用户可能丢失未保存的工作；休眠则提醒手机将断开连接，需手动唤醒电脑。该功能基于现有的锁定功能，代码在 APK 拆解中发现。",
-              "source_url": "https://www.androidauthority.com/phone-link-remote-shutdown-restart-sleep-3703529/",
-              "source_name": "Android Authority",
-              "published_at": "2026-08-27T03:29:03+08:00"
             }
           ]
         },
@@ -294,6 +294,27 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "亚马逊收购开源数据库 DuckDB 开发团队",
+              "brief": "亚马逊同意收购开源数据库 DuckDB 开发团队 DuckLabs。DuckLabs 员工将加入亚马逊 AWS，包括联合创始人 Hannes Muhleisen 和 Mark Raasveldt，他们将继续领导团队并制定技术方向，员工将继续在阿姆斯特丹办公。DuckDB 项目将继续保持开源，使用 MIT 许可证，由独立基金会管理。此次收购被认为有助于将亚马逊云存储服务 S3 转型为分析数据的平台。",
+              "source_url": "https://www.solidot.org/story?sid=85208",
+              "source_name": "Solidot",
+              "published_at": "2026-08-27T14:47:56+08:00"
+            },
+            {
+              "title": "新 Twitter.now 上线",
+              "brief": "总部位于美国弗吉尼亚州的初创公司 Operation Bluebird 上线了新社交网络 Twitter.now，旨在复兴被马斯克抛弃的 Twitter。马斯克在 2022 年收购 Twitter 后将其改名为 X，弃用相关标识。Operation Bluebird 认为此举放弃了 Twitter 的知识产权，因此申请商标并推出新版。X 起诉要求阻止，但法官认为 X 可能放弃了相关权利。新版 Twitter.now 与旧版相似，但内置事实核查功能，并强调与 X 无关。",
+              "source_url": "https://www.solidot.org/story?sid=85207",
+              "source_name": "Solidot",
+              "published_at": "2026-08-27T14:22:12+08:00"
+            },
+            {
+              "title": "英伟达同意以 129 亿美元收购 Hugging Face",
+              "brief": "据 The Information 报道，英伟达同意以 129 亿美元收购 Hugging Face，但交易仍可能告吹。英伟达是 Hugging Face 的投资者，曾参与其 D 轮融资，并曾提议以 70 亿美元估值投资 5 亿美元但遭拒绝。Hugging Face 是开源 AI 生态系统的核心，托管数百万个 AI 模型和数据集。收购该平台有助于英伟达在 AI 开发者中占据更大市场份额。",
+              "source_url": "https://www.solidot.org/story?sid=85206",
+              "source_name": "Solidot",
+              "published_at": "2026-08-27T13:21:19+08:00"
+            },
+            {
               "title": "育碧在Steam上架《英雄无敌3》时忘记包含游戏文件",
               "brief": "育碧于8月26日在Steam上架原版《魔法门之英雄无敌3》，但玩家下载时发现文件仅23.49 KB，实际游戏文件未被包含。数小时后育碧修复，完整版约1GB。此事引发大量差评。",
               "source_url": "https://www.solidot.org/story?sid=85205",
@@ -343,39 +364,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "阿里千问办公上线Qwen3.8-Flash及标准模式：单任务生成速度提升约100%，Token消耗平均减少75%",
-              "brief": "阿里千问办公近日上线Qwen3.8-Flash模型及标准模式，官方称95%的日常任务可通过标准模式完成，仅5%复杂任务需高级模式。全新架构的Qwen3.8-Flash以千亿级总参数实现超越Claude Opus 4.6的性能，针对多步规划、工具选择、上下文压缩等场景专项优化。在真实办公场景测试中，单任务生成速度提升约100%，Token消耗平均减少75%。官方宣称，Agent与模型的深度协同优化，正打破性能、成本和速度的“不可能三角”，告别Token焦虑。",
-              "source_url": "https://www.ithome.com/0/994/967.htm",
+              "title": "法拉利公路版296 Challenge超跑11月发布，V6输出720马力",
+              "brief": "法拉利计划于11月发布一款基于296 Challenge打造的高性能公路跑车，内部代号296 Speciale。新车采用激进空气动力学套件，配备大尺寸后扰流板。动力方面，搭载3.0升V6双涡轮增压发动机，最大功率从690马力提升至720马力，并可能取消混动系统以减轻重量。该车将限量生产，面向赛道爱好者提供更纯粹的驾驶体验。",
+              "source_url": "https://www.ithome.com/0/995/026.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-27T13:23:34+08:00"
+              "published_at": "2026-08-27T15:28:40+08:00"
             },
             {
-              "title": "小米澎程汽车与徐工集团合作：挑战拉55吨电动矿卡，明天见",
-              "brief": "小米澎程汽车联合徐工集团发起特别挑战，将用澎程N90 Max拉动55吨电动矿卡。据此前报道，小米澎程N90 Max采用双电机四驱增程系统，前电机峰值功率210kW，后电机峰值功率100kW，0-100km/h加速5.9秒，最高时速190km/h。此次挑战细节尚未公布，官方预告“明天见”，引发期待。",
-              "source_url": "https://www.ithome.com/0/994/966.htm",
+              "title": "中兴推出星云·晴天全屋套装BE3600 PoE版，1母2子售价949元",
+              "brief": "中兴发布星云·晴天全屋套装BE3600 PoE版，包含1个主路由和2个子路由，售价949元。主路由可放入弱电箱，子路由支持一贴上墙，采用PoE供电，网线电源合一。支持Wi-Fi 7，总速率3600Mbps，子路由内置5根天线，单台覆盖80-120平米，最多可搭配8台子路由。主路由配备5个2.5GE网口和1个USB接口，子路由提供1个2.5GE和3个GE网口，支持IPTV单线复用。",
+              "source_url": "https://www.ithome.com/0/995/025.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-27T13:21:48+08:00"
+              "published_at": "2026-08-27T15:28:27+08:00"
             },
             {
-              "title": "微软Microsoft 365路线图更名为AI at Work Roadmap",
-              "brief": "微软将Microsoft 365路线图更名为AI at Work Roadmap，作为Microsoft 365、Copilot、AI智能体及其他AI驱动体验的统一入口，帮助用户查看即将推出的功能。目前英文官网已全面更新，但中文官网仍显示“Microsoft 365路线图”。此次更名反映了微软对AI工作场景的重视，未来路线图将更聚焦于AI相关更新。",
-              "source_url": "https://www.ithome.com/0/994/965.htm",
+              "title": "克莱斯勒在美召回约84.4万辆汽车，倒车影像可能无法显示",
+              "brief": "克莱斯勒将在美国召回约84.4万辆汽车，涉及2021-2023款道奇Durango等车型，原因是制造缺陷可能导致后扰流板松动脱落，进而遮挡倒车摄像头，使倒车影像无法显示。召回通知已于8月13日提交，经销商将免费检查并维修相关部件。此次召回涉及约7.5万辆SUV，具体车型和数量已明确。",
+              "source_url": "https://www.ithome.com/0/995/019.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-27T13:21:05+08:00"
+              "published_at": "2026-08-27T15:25:46+08:00"
             },
             {
-              "title": "比亚迪第1万座汽车闪充站明日落成，用时不到半年",
-              "brief": "比亚迪宣布第1万座闪充站将于明日落成，遍布325个城市，目标2026年底建成2万座。今年3月发布的比亚迪闪充桩单枪功率可达1500KW，配合第二代刀片电池，可实现5分钟电量从10%充至70%，9分钟充至97%。在零下30℃环境下，充电时间仅比常温多3分钟。比亚迪还推出闪充中国战略，预计年底建成2万座闪充站，其中1.8万座中站、2000座高速站。",
-              "source_url": "https://www.ithome.com/0/994/964.htm",
+              "title": "小鹏刘先明：第二代VLA升级核心是让模型理解时间维度",
+              "brief": "小鹏汽车自动驾驶负责人刘先明表示，第二代VLA升级的核心是让模型首次建立对时间维度的理解。通过引入Infini-VLA长时序架构，模型可记忆前30秒的世界，从3D空间跃迁至4D时空。同时，采用流式自回归推理，端到端响应提速300%，实现边看边想边行动。该技术将首发搭载于G9L车型，提升驾驶判断的上下文和决策速度。",
+              "source_url": "https://www.ithome.com/0/995/014.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-27T13:09:22+08:00"
+              "published_at": "2026-08-27T15:24:30+08:00"
             },
             {
-              "title": "米哈游《未定事件簿》宣布停止与德芙联名合作",
-              "brief": "米哈游旗下恋爱手游《未定事件簿》宣布停止与德芙的联名合作。起因是德芙官方旗舰店发布不当文案，引发争议。项目组表示虽第一时间联系合作方，但双方未能达成一致，为坚持正向价值观，决定终止合作。此前德芙已致歉并下架内容，但公众认可度不足。此次事件反映了品牌合作中价值观一致的重要性。",
-              "source_url": "https://www.ithome.com/0/994/963.htm",
+              "title": "国家统计局：2025年移动互联网接入流量3958亿GB，同比增长17.3%",
+              "brief": "国家统计局数据显示，2025年移动互联网接入流量达3958亿GB，同比增长17.3%。5G基站总数达484万个，占移动电话基站总数的37.6%。全国电子商务交易额46.7万亿元，增长2.5%；网上零售额15.97万亿元，增长8.6%。高技术制造业增加值增长9.4%，电动汽车出口393万辆，增长73.1%，新三样产品出口规模接近1.3万亿元。",
+              "source_url": "https://www.ithome.com/0/995/012.htm",
               "source_name": "IT之家",
-              "published_at": "2026-08-27T13:00:30+08:00"
+              "published_at": "2026-08-27T15:22:35+08:00"
             }
           ]
         },
