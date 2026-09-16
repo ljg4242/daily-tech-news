@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T06:52:30.944266+08:00",
+  "generated_at": "2026-09-16T08:52:45.810124+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,39 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果详解参考图像如何证明照片真实性",
+              "brief": "苹果在安全研究博客中详细介绍了iPhone 18 Pro系列支持的“参考图像”功能。该功能在拍摄时让相机传感器进入特殊模式，立即对像素数据进行加密签名，防止软件篡改，生成“安全数字底片”。底片包含像素数据、传感器元数据和加密时间戳，存储在设备上。用户验证时，底片被发送至私有云计算进行安全渲染。苹果称该功能可抵抗数据注入、系统入侵和量子攻击，为可验证数字摄影设定了新标准。",
+              "source_url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-16T07:46:29+08:00"
+            },
+            {
+              "title": "iPhone Duo相机功能解析：能做什么与不能做什么",
+              "brief": "为利用iPhone Duo的双屏设计，苹果推出了独特的相机功能。智能拍摄利用AI判断何时所有人（包括机主）准备好拍合影，无需计时器。儿童提示显示花生漫画动画吸引孩子看镜头。Duo预览在内外屏同时显示实时预览，方便被拍者调整。Duo FaceTime允许朋友通过外屏加入通话。折叠机制可充当三脚架，支持半折使用。相机硬件采用双融合双摄，包括48MP主摄，默认输出24MP图像，支持2倍无损变焦。",
+              "source_url": "https://www.macrumors.com/guide/iphone-duo-camera/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-16T06:11:01+08:00"
+            },
+            {
+              "title": "苹果最后一款Intel 21.5英寸iMac列入复古产品",
+              "brief": "苹果将2019款4K iMac加入复古产品列表，意味着维修只能在有零件时进行。产品停售五年后列入复古，七年後列入过时。复古产品可在苹果商店和授权服务商处维修，但零件不保证。该机型配备21.5英寸4K视网膜屏，基础款为Intel Core i3、8GB内存和1TB硬盘，起售价1299美元。同期的27英寸型号已于2025年7月列入复古，而21.5英寸因销售时间更长，现在才符合条件。",
+              "source_url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-16T03:53:26+08:00"
+            },
+            {
+              "title": "iPhone 16 Pro vs iPhone 18 Pro购买指南：值得升级吗？",
+              "brief": "苹果发布iPhone 18 Pro和Pro Max，与两年前的iPhone 16 Pro相比有超过50处差异。iPhone 17 Pro已带来铝金属一体机身、陶瓷盾2、均热板冷却等变化。iPhone 18 Pro聚焦内部：A20 Pro芯片、可变光圈主摄、更小灵动岛和电池续航大幅提升。起售价1199美元（256GB），比iPhone 16 Pro发布价高200美元，但起步存储翻倍。苹果已停售iPhone 16 Pro。设计上，18 Pro采用铝金属一体机身，厚度8.75mm，峰值亮度3000尼特。",
+              "source_url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-16T03:17:47+08:00"
+            },
+            {
               "title": "AirPods 5 上手体验：降噪更佳，价格更低",
               "brief": "苹果上周发布 AirPods 5 后，MacRumors 进行了为期一周的测试。其设计与 AirPods 4 相同，佩戴舒适。通过新的内部声学架构，主动降噪显著提升，虽无硅胶耳塞，但效果优于 AirPods 4 降噪版。音质比 AirPods Pro 3 稍显浑浊，尤其低中频，但 iOS 27 的自定义均衡器可调整。支持自适应音频和通透模式。降噪功能现为全系标配，基础款售价 129 美元，无线充电盒版 149 美元，续航分别为 4 小时和 5 小时。实时翻译、对话感知等功能也已下放。防尘防水性能改进。",
               "source_url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
               "source_name": "MacRumors",
               "published_at": "2026-09-16T02:19:59+08:00"
-            },
-            {
-              "title": "M5 Ultra 芯片首个基准测试结果曝光，性能大幅提升",
-              "brief": "苹果新款 M5 Ultra 芯片的首个未经验证的 Geekbench 7 跑分今日现身，显示性能显著提升。新款 Mac Studio 将首发搭载该芯片。最高端 36 核 M5 Ultra 的单核得分 3,774，多核得分 52,516。相比 M3 Ultra（单核 2,920，多核 39,059），单核提升约 30%，多核提升约 35%。苹果官方称单线程提升 1.25 倍，多线程提升 1.3 倍，跑分大致相符甚至略超。M5 Ultra 是苹果迄今最快芯片，比初代 M1 Ultra 快 2.25 倍，比 M1 快 6 倍。搭载该芯片的 Mac Studio 起售价 6,799 美元。",
-              "source_url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-16T02:00:47+08:00"
-            },
-            {
-              "title": "OWC 最佳 Mac 配件专为 MacRumors 读者特惠",
-              "brief": "MacRumors 与 OWC 合作，为读者提供 Thunderbolt 扩展坞、USB-C 线缆和外置存储盒等配件的独家优惠，活动持续至 9 月 21 日凌晨 12 点（中部时间）。所有折扣已自动应用，共七款产品参与：OWC 11 端口 Thunderbolt 扩展坞 179.99 美元（省 50），11 端口 Thunderbolt 5 扩展坞 229.99 美元（省 90），Express 1M2 80G 硬盘盒 114.99 美元（省 35），Express 4M2 Ultra 硬盘盒 244.99 美元（省 205），ThunderBay 4 硬盘盒 309.99 美元（省 90），以及两款 USB-C 线缆。MacRumors 是 OWC 的联盟合作伙伴。",
-              "source_url": "https://www.macrumors.com/2026/09/15/owcs-mac-sale-macrumors/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-16T01:38:16+08:00"
-            },
-            {
-              "title": "M6 芯片基准测试现身，新 Mac mini 下周发布",
-              "brief": "苹果新款 M6 芯片的首个未经验证的 Geekbench 7 跑分今日曝光。新款 Mac mini 将首发搭载该 2nm 芯片。M6 单核得分 4,071，多核得分 22,783，相比 M5（单核 3,641，多核 17,948），单核提升约 12%，多核提升约 27%。苹果称 M6 拥有全球最快单线程性能，其单核得分超过 M5 Max（3,731）和高通骁龙 X2 Elite Extreme（3,396）。多核性能提升与官方宣称的 1.2 倍一致。M6 比初代 M1 快 2.5 倍以上。搭载 M6 和 M5 Pro 的新 Mac mini 及 M5 Max/M5 Ultra 的新 Mac Studio 将于 9 月 22 日发布。",
-              "source_url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-16T00:38:39+08:00"
-            },
-            {
-              "title": "提醒：iOS 27 全新 Siri AI 需排队，报名方法在此",
-              "brief": "苹果本周发布 iOS 27，但全新 Siri AI 和专用 Siri 应用需加入等待名单才能使用。Siri AI 仅限 iPhone 15 Pro 及更新机型，因其需支持 Apple Intelligence。加入方法：打开设置，点击 Siri 菜单，选择“试用 Siri AI（测试版）”，按提示操作。等待时间从几分钟到数天不等，获得权限后会收到通知，Siri 应用将自动出现。可通过下拉灵动岛、长按侧边按钮或打开 Siri 应用来使用。Siri AI 更智能、个性化，能访问个人数据并具备屏幕感知能力。初期仅支持英语，10 月将增加法语、日语、韩语、葡萄牙语和西班牙语。",
-              "source_url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-15T23:54:20+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "罗曼太空望远镜燃料足够运行22年，是NASA预期的两倍",
+              "brief": "NASA确认，南希·格雷斯·罗曼太空望远镜正沿精确轨道飞向观测点，其燃料寿命远超预期。该耗资43亿美元的望远镜原本设计携带足够五年主任务加五年延期的推进剂，但得益于轨道动力学团队的精准规划、操作团队的出色执行以及SpaceX的精确发射，罗曼至少可支持22年科学运行。它是NASA首个为在轨加注而设计的天文台，配备了供未来加注任务使用的抓取装置。此前詹姆斯·韦伯望远镜也曾在完美发射后获得类似寿命提升。",
+              "source_url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T06:26:32+08:00"
+            },
+            {
+              "title": "起诉PassThePopcorn的“电影人”可能是被封用户报复",
+              "brief": "多家知名私有种子追踪器怀疑，一名被封禁用户可能冒充电影人维权，以失败诉讼实施报复。TorrentFreak持续追踪此案，去年9月报道称，自称独立电影人的马修·施奈德起诉PassThePopcorn、BroadcasTheNet和HDBits等六个私有追踪器侵犯其电影版权，并试图借版权纠纷让Cloudflare披露运营者身份。上月追踪器告知法院施奈德疑似冒名者。真正电影人提交宣誓声明称与原告毫无关联，原告则坚称自己是“另一个马修·施奈德”，并称碰巧拍了三部同名电影。法官警告原告可能面临制裁。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T04:19:17+08:00"
+            },
+            {
               "title": "宾州18岁未接种者死于麻疹并发症",
               "brief": "宾夕法尼亚州卫生部确认，该州一名未接种疫苗的18岁居民因麻疹死亡，死因为急性播散性脑脊髓炎，一种罕见但已知的麻疹严重神经系统并发症。同日还确认杰斐逊县一名未接种的40岁女性死亡。此前兰开斯特县已有两名婴儿死亡。州疫情接近700例，死亡数据将纳入周三更新。",
               "source_url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
@@ -148,26 +162,26 @@
               "source_url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-16T02:33:02+08:00"
-            },
-            {
-              "title": "波士顿弃用Flock，指其违反合同共享数据",
-              "brief": "波士顿市政府因Flock Safety公司违反合同条款，在全国范围共享车牌数据，已弃用其车牌识别摄像头。市长吴弭在GBH新闻中表示“我们实际上已经放弃了Flock”。该市年度监控技术报告称，2025年波士顿警方与Flock进行试点，部署约45台自动车牌识别摄像头。合同明确规定数据共享应被禁用，但试点启动后三天内，警方发现其他执法机构可通过供应商错误启用的全国查询功能访问数据。报告称此为“供应商错误”，导致全国数据共享。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-16T02:14:11+08:00"
-            },
-            {
-              "title": "ChargePoint报告：电动汽车充电桩需求超过供应",
-              "brief": "ChargePoint最新报告指出，尽管电动汽车普及速度可能不如几年前乐观，但转型仍在继续。今年初至8月底，全球电动汽车销量已超180万辆。美国因油价上涨，考虑购买电动汽车的司机大幅增加。然而，充电基础设施持续滞后。ChargePoint CEO里克·威尔默表示，北美市场比许多媒体报道的更好，公司收到的充电解决方案招标数量未放缓，上季度环比增长。二手电动汽车价格上涨和96%的保留率表明需求旺盛。Slate和福特推出的廉价电动卡车预示未来充电需求将进一步增长。",
-              "source_url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-16T01:58:09+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Android 17 QPR1 推送，带来多项实用升级",
+              "brief": "Android 17 的 QPR1 更新已开始推送，此次更新在系统各处引入了多项实用改进，涵盖界面交互、性能优化与功能增强。用户升级后可获得更流畅的操作体验和更完善的功能支持。该季度更新旨在修复已知问题并提升设备稳定性，适用于符合升级条件的 Pixel 设备。建议用户留意系统更新通知，及时下载安装以体验最新改进。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr1-rollout-3711654/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-16T05:19:37+08:00"
+            },
+            {
+              "title": "Googlebook 庆祝活动将于下月举行",
+              "brief": "据报道，一场与 Googlebook 相关的庆祝活动已确定于下个月举办，具体日期和活动细节尚未完全公布。外界推测该活动可能涉及 Googlebook 产品的发布、更新或生态合作进展。Googlebook 作为谷歌在笔记本领域的品牌，其动向受到关注。活动预计将吸引开发者与用户参与，更多信息有待官方进一步披露。",
+              "source_url": "https://www.androidauthority.com/googlebook-celebration-event-3711667/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-16T05:04:13+08:00"
+            },
             {
               "title": "Gemini 3.8 家族扩充，新增两款模型",
               "brief": "据 Android Authority 报道，Gemini 3.8 家族将迎来两款新成员，进一步扩大该系列模型阵容。原文标题显示这一更新涉及 Gemini 3.8 的扩展版本与实时思考功能，但文章正文因 Cloudflare 安全验证未能正常加载，具体模型名称、参数规模、能力差异及上线时间等细节暂无法确认。该消息发布于 2026 年 9 月 16 日。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/google-pixel-update-september-2026-3711639/",
               "source_name": "Android Authority",
               "published_at": "2026-09-16T03:32:01+08:00"
-            },
-            {
-              "title": "海信 C3 Ultra 投影仪全球上市，Pro 版缺席",
-              "brief": "据 Android Authority 报道，海信新款 C3 Ultra 系列投影仪已在全球市场推出，但 Pro 型号并未参与此次发售。原文标题显示该系列面向全球用户，而更高端的 Pro 版本暂时缺席。文章正文因 Cloudflare 安全验证未能正常加载，具体规格、售价、上市地区及 Pro 版缺席原因等细节暂无法确认。该消息发布于 2026 年 9 月 16 日。",
-              "source_url": "https://www.androidauthority.com/hisense-c3-projector-global-launch-3711591/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-16T02:30:35+08:00"
-            },
-            {
-              "title": "Android 17 QPR1 更新推送，支持机型一览",
-              "brief": "据 Android Authority 报道，谷歌已开始推送 Android 17 QPR1 更新，并列出所有支持该版本的 Pixel 手机。原文标题以“你的 Pixel 是否在列”为切入点，提示用户查询兼容机型。文章正文因 Cloudflare 安全验证未能正常加载，具体支持机型名单、更新内容及推送时间等细节暂无法确认。该消息发布于 2026 年 9 月 16 日。",
-              "source_url": "https://www.androidauthority.com/android-17-qpr1-update-september-pixel-drop-supported-phones-3711582/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-16T02:30:23+08:00"
             }
           ]
         },
@@ -254,6 +254,27 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "漫威金刚狼制服再生有官方解释",
+              "brief": "在《漫威金刚狼》中，沃尔特·朗科夫斯基为罗根打造了漫画中标志性的制服，并解释其采用纳米技术，可在战斗中自动修复，避免制服被撕碎。这种纳米技术实为“Phalanx”，在漫威设定中是一种机械生物种族，曾对抗X战警等英雄，能感染其他物种并形成蜂巢思维。这一设定是否影响剧情尚不清楚，但更像是用既有漫威素材向粉丝解释。漫威电影宇宙中纳米技术已广泛用于钢铁侠、蜘蛛侠等角色。该游戏受《X战警前传：金刚狼》启发，后者也有脱战后伤口和衣物再生的设定，但当时没有官方解释。",
+              "source_url": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
+              "source_name": "IGN",
+              "published_at": "2026-09-16T06:38:54+08:00"
+            },
+            {
+              "title": "HBO高层几乎确认《最后生还者》止步第三季",
+              "brief": "HBO与Max内容主席兼首席执行官凯西·布洛伊在艾美奖派对后接受采访时表示，《最后生还者》第三季将于2027年播出，但未给出具体日期。他并未直接确认这是否为最终季，但表示“认为”主创克雷格·麦辛已将其规划为剧终季。此前布洛伊曾多次暗示第三季可能是最后一季，但2025年5月麦辛曾表示需要第四季才能完整收尾。该剧第一季广受好评，IGN评分9分；第二季表现下滑，IGN评分7分，部分观众对贝拉·拉姆齐饰演成年艾莉有异议。尽管剧集可能明年完结，顽皮狗仍表示不会放弃这一旗舰僵尸系列。",
+              "source_url": "https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3",
+              "source_name": "IGN",
+              "published_at": "2026-09-16T06:21:19+08:00"
+            },
+            {
+              "title": "华纳据称后悔摧毁扎克·施奈德DC宇宙并与其争执",
+              "brief": "扎克·施奈德谈及自己的DC宇宙崩溃，称其为“低谷”。他透露一位已离职的华纳兄弟前高管曾对他说：“你知道，扎克，我得告诉你一件事：你当时在所有事情上都是对的。我们当时在对抗你，最终证明你是对的。”施奈德表示，华纳试图控制这个价值巨大的IP，因为所有职位都依赖其成功，而他们以为把IP交到了“疯子”手中。华纳曾多年与施奈德争执，因为他想讲述更黑暗、更接地气的故事，打破既定规则，如《超人：钢铁之躯》结尾超人扭断佐德将军脖子，《蝙蝠侠大战超人》中蝙蝠侠杀人并烙印。粉丝负面反应后，华纳开始妥协。施奈德还表示从未看过院线版《正义联盟》。",
+              "source_url": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
+              "source_name": "IGN",
+              "published_at": "2026-09-16T06:09:17+08:00"
+            },
+            {
               "title": "樱井政博无法找到继任者，16年后被迫放弃游戏设计师奖",
               "brief": "日本游戏大奖年度游戏部门于9月14日颁奖，但由樱井政博于2010年创立的游戏设计师奖今后将不再颁发。该奖旨在表彰具有创意和原创性的游戏，要求作品包含“明显脱离现有作品的新想法”。今年获奖作品为独立工作室Team9的《文字游戏》，这是一款以繁体中文创作、后本地化为日文的文字解谜游戏，在第二轮评审中以压倒性多数票胜出。评审委员会由神谷英树、横尾太郎、Toby Fox等十一位业内人士组成。由于樱井无法找到继任者，该奖项就此落幕。",
               "source_url": "https://www.ign.com/articles/masahiro-sakurai-forced-to-abandon-game-designers-award-after-16-years-as-he-cant-find-a-successor",
@@ -266,27 +287,6 @@
               "source_url": "https://www.ign.com/articles/marvels-wolverine-lets-you-have-full-control-over-slow-motion-options-for-cinematic-gameplay",
               "source_name": "IGN",
               "published_at": "2026-09-16T05:15:20+08:00"
-            },
-            {
-              "title": "《植物大战僵尸》桌游将于Kickstarter启动众筹",
-              "brief": "《植物大战僵尸》桌游将于10月14日在Kickstarter启动众筹。曾改编《百战天虫》《光环》《地狱男爵》《行尸走肉》《无敌少侠》等IP的Mantic公司将其描述为“一款快节奏合作桌游，捕捉了系列的喜剧与混乱”。游戏支持1至4名玩家，玩家需合作通过一系列难度递增的关卡，每关有独特布局、目标和僵尸群。这是一款卡牌游戏，植物卡可发射豌豆射手或引爆樱桃炸弹，工具卡如铲子可重整防线、割草机可清空一路僵尸；打出僵尸卡则使其逼近房屋并显示移动路径，所有僵尸卡须同时打出以增加紧张感。玩家可解锁新植物、僵尸和挑战，僵尸抵达房屋即失败。Mantic还准备豪华版，含预组装模型，以及夜版独立扩展。",
-              "source_url": "https://www.ign.com/articles/plants-vs-zombies-the-board-game-prepares-to-launch-on-kickstarter",
-              "source_name": "IGN",
-              "published_at": "2026-09-16T04:04:37+08:00"
-            },
-            {
-              "title": "原《铁拳》总监原田胜弘：新作将带来惊喜但不会超出粉丝预期",
-              "brief": "原《铁拳》系列总监原田胜弘今年离开万代南梦宫，成立SNK子公司VS Studio，并招募了多位原《铁拳》核心开发成员。在2026年9月接受VideoGamesChronicle采访时，原田透露新作尚未公布，但强调不会背叛粉丝期待，会带来某种惊喜，且不会超出预期范围。他此前曾表示想开发新的格斗游戏。SNK首席发行官Ozan Kocoglu称，VS Studio不排除同时开发原创IP和拓展旧作。新作是全新IP还是现有系列续作尚待揭晓。",
-              "source_url": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations",
-              "source_name": "IGN",
-              "published_at": "2026-09-16T03:27:05+08:00"
-            },
-            {
-              "title": "扎克·施奈德称《300勇士》是“最同性恋的电影”，并回应《最后的照片》争议",
-              "brief": "扎克·施奈德新片《最后的照片》在多伦多国际电影节首映后遭遇大量差评，IGN给出4分，称其为“拖沓的复仇传奇”。施奈德在9月15日接受《Variety》采访时表示，社交媒体上有人给他贴上“法西斯”“恐同者”等标签，并称围绕他电影的讨论充满敌意。他还称自己此前的作品《300勇士》是“最同性恋的电影”。影片讲述前缉毒局探员伊桑·布莱克在南美荒野寻找被绑架的侄女和侄子，其父母被暴力杀害。",
-              "source_url": "https://www.ign.com/articles/zack-snyder-says-300-is-the-gayest-movie-ever-made-defends-the-last-photograph-amid-online-backlash",
-              "source_name": "IGN",
-              "published_at": "2026-09-16T02:25:23+08:00"
             }
           ]
         },
@@ -360,39 +360,51 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Meta One 订阅服务上线，最高档每月 499 美元",
-              "brief": "Meta 推出 Meta One 订阅服务，面向 AI 重度用户、创作者和商业用户。个人用户可选 Core 和 Premium 两档，月费分别为 7.99 美元和 19.99 美元，均包含 Instagram Plus、WhatsApp Plus 和 Facebook Plus，并提供更多 Meta AI 媒体内容生成额度。创作者和企业套餐月费从 14.99 美元到 499 美元不等，覆盖 Meta 旗下各应用订阅，并根据档位增加加粗关注按钮、认证徽章、搜索结果排名提升、仿冒账号监测等功能。",
-              "source_url": "https://www.ithome.com/1/002/818.htm",
+              "title": "OpenAI GPT-5.5 将于 10 月 14 日下线，覆盖 ChatGPT 与 Codex",
+              "brief": "OpenAI 宣布 GPT-5.5 将于 10 月 14 日停用，范围包含所有计划。仍依赖该模型的 Codex 用户可选择迁移至 GPT-5.6 Sol 或 GPT-6 Astra。GPT-5.5 于今年 4 月 24 日推出，相较 GPT-5.4 在完成相同任务时减少词元消耗。官方建议用户尽快迁移至新模型，以免影响正常使用。",
+              "source_url": "https://www.ithome.com/1/002/858.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-15T23:57:09+08:00"
+              "published_at": "2026-09-16T08:47:08+08:00"
             },
             {
-              "title": "华为 Mate 90 系列“大杯”均配双层 OLED 屏，支持万级高亮度",
-              "brief": "消息称华为 Mate 90 系列手机“大杯”机型将配备双层 OLED 屏幕，支持万级高亮度。博主透露该系列处理器配置：中杯搭载麒麟 9030 系列，大杯搭载麒麟 9030 系列小升级版，大大杯系列搭载麒麟 9050 系列。新机电池容量为 6600mAh 或 6800mAh，全系采用三摄单长焦方案，Pro Max 搭载 2 亿像素潜望长焦镜头。系列将延续星环设计，预计本月下旬发布。",
-              "source_url": "https://www.ithome.com/1/002/817.htm",
+              "title": "前 TikTok 高管推出 AI 拍照姿势应用 Superpose",
+              "brief": "前 TikTok 高管 Chu 与 Liu 联合推出 AI 拍照姿势应用 Superpose，通过计算机视觉与生成式 AI 在拍照时给出四种姿势建议，帮助用户改善姿态、角度与构图。创意源自 Chu 丈夫常拍不出理想照片的个人需求。公司已获 220 万美元种子轮投资。应用提供每日 5 次免费生成，包月价格 2.99 美元 5 次、9.99 美元 20 次，目前已超 22000 次下载。",
+              "source_url": "https://www.ithome.com/1/002/857.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-15T23:54:12+08:00"
+              "published_at": "2026-09-16T08:45:03+08:00"
             },
             {
-              "title": "戴尔科技股价涨超 6% 再创新高，年内累计大涨约 355%",
-              "brief": "戴尔科技股价涨超 6%，再创历史新高，年内累计大涨约 355%。戴尔认为半导体“结构性短缺”短期内难以缓解，2027 年情况可能比 2026 年更严重。在零部件短缺和内存涨价背景下，戴尔认为自身掌握的需求信号是业内最可靠的。迈克尔·戴尔坦言，供应越紧张，公司相较竞争对手反而可能越占优势，因为与半导体供应商保持牢固合作关系，并拥有广泛产品组合可灵活调配供应。",
-              "source_url": "https://www.ithome.com/1/002/816.htm",
+              "title": "东芝推出 Canvio Ready 移动硬盘，顶盖采用 65% 回收材料",
+              "brief": "东芝推出全新 Canvio Ready 移动机械硬盘，顶盖采用 65% 回收材料制造，支持 USB 5Gbps 并通过 USB 供电，随附 USB Type-A 转 Micro-B 连接线。其斜坡加载设计可在移动携带中保护机械结构，内置冲击传感器提供额外保护。东芝电子元件副总裁藤森表示，新产品延续性能、可靠性与便利性，并提升环保意识。该硬盘将于 2026 年第 4 季度起上市。",
+              "source_url": "https://www.ithome.com/1/002/856.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-15T23:49:54+08:00"
+              "published_at": "2026-09-16T08:44:17+08:00"
             },
             {
-              "title": "雷蛇发布北海巨妖 V4 X SENSA HD 耳机，售价 799 元",
-              "brief": "雷蛇发布北海巨妖 V4 X SENSA HD 耳机，售价 799 元，已在京东开售。该耳机搭载 40mm 驱动单元，采用三频分离设计，可带来更出色高音。规格方面，搭载灵晰技术心形指向麦克风，可精准聚焦人声，支持 7.1 环绕声技术，帮助玩家听声辨位，采用人造皮革记忆绵耳垫，减轻长时间佩戴负担。此外，支持雷蛇 CHROMA RGB 幻彩光效，用户可通过雷云软件自定义 Logo 灯效，并与其他雷蛇设备进行灯光同步。",
-              "source_url": "https://www.ithome.com/1/002/815.htm",
+              "title": "索尼发布 PS Pulse 与 Pulse Edge 无线耳机，采用平面磁驱动",
+              "brief": "索尼发布 PlayStation Pulse 与 Pulse Edge 无线耳机，均采用平面磁驱动单元并支持 PlayStation Link。Pulse 每个驱动单元配 4 枚磁铁，Edge 配 8 枚，并支持主动降噪、可拆卸悬臂麦克风及隐藏式麦克风。两款耳机配备 AI 增强型降噪麦克风、可旋转耳罩，提供白色和午夜黑配色，可连接 PS5、PlayStation Portal、PC 和 Mac。Pulse 计划 2026 年圣诞上市，Edge 计划 2027 年初推出。",
+              "source_url": "https://www.ithome.com/1/002/855.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-15T23:36:57+08:00"
+              "published_at": "2026-09-16T08:41:13+08:00"
             },
             {
-              "title": "荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发",
-              "brief": "荣耀与引望达成深度合作，支持手机应用一碰上车，启境 GX7 车型首发。引望最初由华为 100% 持股，是华为旗下致力于智能汽车产业发展，提供汽车智能系统及部件解决方案的子公司。博主曝光双框架鸿蒙车机将支持荣耀手机的 Demo 演示，画面显示双框架华为鸿蒙车机的新版“超级桌面”功能支持连接荣耀手机和华为手机，演示中设备已连接荣耀 Magic8 Pro，支持手机应用流转至车机使用。",
-              "source_url": "https://www.ithome.com/1/002/814.htm",
+              "title": "扎克伯格：保障 AI 安全应引入独立外部评估，而非放缓发展",
+              "brief": "Meta CEO 扎克伯格表示，保障 AI 安全应依靠引入独立外部评估机构与顾问，而不是放缓 AI 发展。他认为信任与对齐正成为拉开智能体和模型差距的核心竞争力，忽视对齐技术的实验室将被淘汰。Meta 曾将 Muse 发布推迟数月以确保安全与系统防护，其超级智能实验室已在多个业务领域践行外部评估。扎克伯格称建立更大、更多元化的评估生态系统对全行业有益。",
+              "source_url": "https://www.ithome.com/1/002/854.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-15T23:35:08+08:00"
+              "published_at": "2026-09-16T08:41:02+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "欧盟网络安全局警告：前沿AI模型将漏洞武器化窗口期压缩至15分钟",
+              "brief": "欧盟网络安全局发布网络安全评估报告警告，前沿人工智能模型已将漏洞武器化窗口期压缩至仅15分钟，即修复程序发布后15分钟内黑客就能借助AI分析漏洞并开发自动化攻击程序，而IT管理员安装补丁往往需要更长时间，导致人类在安全生命周期中反而成为瓶颈。报告指出自动化系统正加速攻击各阶段，攻击周期中位时间已缩至72分钟，传统人工补丁管理可能过时。该机构建议企业转向优先级评估系统，并严格执行资产清点，将检测和响应目标设定为个位数分钟级。",
+              "source_url": "https://www.landian.news/archives/126896.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-16T08:30:18+08:00"
             }
           ]
         }
