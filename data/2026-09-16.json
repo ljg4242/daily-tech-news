@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T08:52:45.810124+08:00",
+  "generated_at": "2026-09-16T10:52:28.885176+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果详解 iPhone 18 Pro 全新参考图像相机模式",
+              "brief": "苹果发布博客文章详细解释其全新“参考图像”摄影验证系统的工作原理。该系统旨在应对合成图像门槛不断降低的问题，通过安全数字底片、签名元数据和时间戳，在私有云计算环境中实现可验证的摄影来源。系统从相机传感器制造时初始化，生成签名密钥对，并采用置信度评分和撤销列表机制。苹果称这是唯一提供量子安全防御的图像来源系统，满足高保障摄影来源的三大核心要求：语义真实性、抗篡改性和隐私保护。",
+              "source_url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T10:25:19+08:00"
+            },
+            {
+              "title": "《慢马》第六季在 Apple TV 首播",
+              "brief": "Apple TV 已上线《慢马》第六季第一集，此后每周三更新至 10 月 21 日。该剧回归前一天，导演索尔·梅茨斯坦刚凭上一季结局获得剧情类最佳导演奖，Apple TV 也确认续订两季。该剧 2022 年初首播获好评，此后保持每年超过一季的播出节奏。新一季中，慢马们因戴安娜·塔弗纳卷入一场致命的高风险报复与复仇游戏而被迫逃亡。Apple TV 订阅费为每月 14.99 美元，也可通过 Apple One 套餐获取。",
+              "source_url": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T09:05:09+08:00"
+            },
+            {
+              "title": "印度升级对苹果调查，涉 iOS 18 问题致维修费用",
+              "brief": "印度中央消费者保护局（CCPA）升级对苹果的调查，指控 iOS 18 更新导致部分 iPhone 出现屏幕显示和麦克风故障，迫使用户自费维修。苹果否认指控，称软件不提供保修是行业标准做法，并指案件仅基于 75 起投诉，未发现系统性问题。CCPA 认为问题超越投诉数量，指控苹果侵犯消费者集体权利，并称对苹果自身软件导致的问题收费可能构成不公平贸易行为。若罪名成立，苹果可能面临罚款、退款或业务调整。",
+              "source_url": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T07:52:22+08:00"
+            },
+            {
+              "title": "OmniFocus 新增 Siri AI 支持，Omni Group 全面更新应用",
+              "brief": "Omni Group 为旗下应用适配苹果 2027 年系统更新，包括 OmniGraffle、OmniOutliner、OmniPlan 和 OmniFocus。重点更新为 OmniFocus 4.9，完全兼容 macOS 27、iOS 27、iPadOS 27、watchOS 27 和 visionOS 27，新增 Siri AI 支持、Apple Intelligence 驱动的日期解析和全新 App Intents。用户可通过 Siri 分配和编辑截止日期、标记、备注和重复计划，并利用屏幕感知和视觉智能快速添加任务。Siri AI 还能基于用户 OmniFocus 数据库回答问题、总结操作、建议待办事项等。",
+              "source_url": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T07:22:20+08:00"
+            },
+            {
               "title": "苹果车钥匙功能或将扩展至三家新汽车制造商",
               "brief": "据 Aaron Perris 在 X 上发现，苹果后端代码中新增了林肯、Freelander 和 Lucid 三家汽车制造商对 Apple Car Key 的支持。后端变更通常预示即将集成，但代码未显示具体上线时间，苹果也未确认哪些车型会支持。此前类似变更曾预示长城坦克、哈弗等品牌将支持该功能。苹果还曾宣布 Lucid 将采用 Car Key，与讴歌、凯迪拉克、雪佛兰、GMC、保时捷、Rivian 等品牌一同加入。Apple Car Key 于 WWDC 2020 发布，允许用 iPhone 或 Apple Watch 锁定、解锁和启动兼容车辆，目前支持宝马、奔驰、现代、起亚、捷尼赛思、丰田、Rivian 等品牌超 50 款车型。",
               "source_url": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-16T06:43:38+08:00"
-            },
-            {
-              "title": "Ulysses 获 Siri AI 支持、可自定义工具栏及项目模板",
-              "brief": "Ulysses 更新以支持 iOS 27 和 macOS 27，新增 Siri AI 支持（欧盟用户除外），包括屏幕感知和 macOS 专用工具栏按钮，可调用 Siri AI 界面进行写作、改写、校对等文本处理。应用工具栏现可完全自定义，支持导航按钮、区块、空间、建议等。更新还引入新分组图标和更完善的无障碍支持，并添加项目模板，创建新项目时可选择模板，使项目以预设分组和文稿开始。此外，视觉调整更匹配 iOS 27 和 macOS 27 外观。Ulysses 是一款专注写作、支持 Markdown 且无干扰的应用，也可通过 Setapp 获取。",
-              "source_url": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-16T06:01:17+08:00"
-            },
-            {
-              "title": "dbrand 为 iPhone Duo 和 iPhone 18 Pro 提供丰富保护壳选择",
-              "brief": "dbrand 为 iPhone Duo 和 iPhone 18 Pro 推出多款保护壳和配件。产品包括：MNML 极简壳，砂岩纹理，厚度薄但可承受 10 英尺跌落，兼容磁吸配件，售价 39 美元；Ghost 透明壳，抗刮擦且终身防黄，采用高强度聚合物，超强磁吸，售价 49.95 美元；Grip 超强防滑壳，支持内置贴膜定制；Tank 终极防护壳，战术设计；Skin 定制乙烯基贴膜，45 种设计可选；Prism 屏幕保护膜，自带安装托盘。dbrand 为 iPhone 用户提供从极简到终极防护的多种选择。",
-              "source_url": "https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-16T06:00:00+08:00"
-            },
-            {
-              "title": "iOS 27 新增联系人生日动画",
-              "brief": "据 X 用户 Tiino-X83 发现，iOS 27 在拨打联系人生日当天电话时，会在横幅中显示与 watchOS 类似的生日动画。watchOS 早已在午夜推送“生日快乐”通知并伴有烟花动画，而 watchOS 27 的智能叠放还会显示亲密联系人的生日提醒。苹果 2027 年系统更新中生日主题多次出现。",
-              "source_url": "https://9to5mac.com/2026/09/15/ios-27-has-a-fun-new-animation-when-you-call-a-contact-on-their-birthday/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-16T04:44:58+08:00"
-            },
-            {
-              "title": "iOS 27 日历应用新增自然语言输入",
-              "brief": "iOS 27 为苹果日历应用终于加入了自然语言支持，类似 Fantastical 的功能。用户可用一句话描述事件，如“下午3点工作会议”，应用会自动设置时间，并在键盘顶部显示建议以添加邀请人或地点。该功能也适用于提醒事项。作者在 iOS 27 测试版中使用整个夏天，效果良好。",
-              "source_url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-16T04:06:34+08:00"
             }
           ]
         },
@@ -169,6 +169,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌公布Pixel Watch 2/3/4九月Wear OS更新详情",
+              "brief": "谷歌公布适用于Pixel Watch 2、Pixel Watch 3和Pixel Watch 4的九月Wear OS更新详情。该更新面向已发布的Pixel Watch系列智能手表，具体更新内容与推送安排由谷歌官方说明。原文页面因Cloudflare安全防护被拦截，暂时无法访问完整内容。",
+              "source_url": "https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-16T10:04:31+08:00"
+            },
+            {
+              "title": "BOOX发布三款新电子墨水平板，含两款带手写笔Note机型",
+              "brief": "BOOX推出三款全新电子墨水平板电脑，其中包括两款配备手写笔的Note系列机型。新品延续该品牌在电子纸设备领域的布局，面向需要书写与阅读功能的用户。原文页面因Cloudflare安全防护被拦截，暂时无法访问完整内容。",
+              "source_url": "https://www.androidauthority.com/boox-note-air6-c-3711609/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-16T10:00:28+08:00"
+            },
+            {
               "title": "Android 17 QPR1 推送，带来多项实用升级",
               "brief": "Android 17 的 QPR1 更新已开始推送，此次更新在系统各处引入了多项实用改进，涵盖界面交互、性能优化与功能增强。用户升级后可获得更流畅的操作体验和更完善的功能支持。该季度更新旨在修复已知问题并提升设备稳定性，适用于符合升级条件的 Pixel 设备。建议用户留意系统更新通知，及时下载安装以体验最新改进。",
               "source_url": "https://www.androidauthority.com/android-17-qpr1-rollout-3711654/",
@@ -188,26 +202,33 @@
               "source_url": "https://www.androidauthority.com/gemini-3-8-live-and-extended-thinking-3711621/",
               "source_name": "Android Authority",
               "published_at": "2026-09-16T04:03:29+08:00"
-            },
-            {
-              "title": "三星新款夹耳式 Galaxy Buds 现身 FCC",
-              "brief": "据 Android Authority 报道，三星即将推出的夹耳式 Galaxy Buds 已通过美国联邦通信委员会（FCC）认证，意味着这款新品距离正式发布更近一步。原文标题提及该产品采用夹持式佩戴设计，但文章正文因 Cloudflare 安全验证未能正常加载，具体型号、外观、续航、售价及发布时间等细节暂无法确认。该消息发布于 2026 年 9 月 16 日。",
-              "source_url": "https://www.androidauthority.com/galaxy-buds-able-fcc-3711613/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-16T04:02:31+08:00"
-            },
-            {
-              "title": "Pixel 九月更新修复大量问题",
-              "brief": "据 Android Authority 报道，谷歌面向 Pixel 设备推送的九月更新修复了大量系统问题。原文标题称此次更新解决了众多漏洞，并列出已修复内容，但文章正文因 Cloudflare 安全验证未能正常加载，具体修复项目、受影响机型及更新版本号等细节暂无法确认。该消息发布于 2026 年 9 月 16 日。",
-              "source_url": "https://www.androidauthority.com/google-pixel-update-september-2026-3711639/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-16T03:32:01+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Boox Palma 3 电子阅读器发布：支持手写笔并全新设计",
+              "brief": "Boox 发布新款手机尺寸电子阅读器 Palma 3，距上代更新近两年。该设备保留 6.13 英寸 300ppi E Ink Carta 屏幕，采用全新阳极氧化铝框架和类纸玻璃纤维背板，外观更精致。新增手写笔支持，搭载 Android 16 系统。售价 339.99 美元，较 2024 年 Palma 2 的 279.99 美元明显上涨，预计很快上市。硬件升级是本次最显著的改进。",
+              "source_url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+              "source_name": "The Verge",
+              "published_at": "2026-09-15T22:00:00-04:00"
+            },
+            {
+              "title": "佳能发布 EOS R8 Mark II：最轻全画幅相机加入防抖",
+              "brief": "佳能推出第二代 EOS R8，采用复古设计并新增机身防抖功能，这是初代 R8 最显著的缺失。新机搭载 24.2 兆像素传感器，重 1.2 磅，因防抖略重于前代，但比去年 EOS R6 Mark III 更轻更便宜。该相机定位为 R6 Mark II 的更小、更实惠替代品，面向需要全画幅的摄影师。预计 10 月底上市，机身售价 1899 美元，套机 2099 美元。",
+              "source_url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+              "source_name": "The Verge",
+              "published_at": "2026-09-15T21:00:00-04:00"
+            },
+            {
+              "title": "民调显示：AI 与数据中心在选民中极不受欢迎",
+              "brief": "《纽约时报》与锡耶纳大学周二发布的民调显示，AI 和数据中心极不受欢迎。在 9 月初调查的 1503 名可能选民中，61% 反对建设为 AI 提供动力的数据中心，仅 14% 表示强烈支持。2024 年特朗普选民中支持与反对比例接近，为 49% 对 45%；而哈里斯选民及其他人反对比例更高。两党在此议题上均无明显优势。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+              "source_name": "The Verge",
+              "published_at": "2026-09-15T19:34:25-04:00"
+            },
             {
               "title": "微软宣布10月7日举办Windows与Surface发布会",
               "brief": "微软将于10月7日在旧金山举办Windows与Surface活动，主题为“本地AI如何塑造PC的下一个篇章”。CEO萨提亚·纳德拉和Windows与Surface负责人帕万·达武鲁里将出席，英伟达CEO黄仁勋也将到场，暗示RTX Spark PC可能是重点。预计微软将介绍Surface Laptop Ultra的定价和上市信息，并聚焦Windows质量改进。微软上次大型Windows活动是在2024年5月，当时发布了基于Arm的Copilot Plus PC。",
@@ -221,27 +242,6 @@
               "source_url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
               "source_name": "The Verge",
               "published_at": "2026-09-15T16:13:30-04:00"
-            },
-            {
-              "title": "起亚发布PV7，电动厢式车阵容更有看头",
-              "brief": "起亚在德国IAA Transportation展会上推出新款电动厢式车PV7。该车比起亚此前的电动厢式车更长，提供客运和货运两个版本。起亚自2021年起在美国销售受欢迎的Carnival小型厢式车，并且是少数生产全电动厢式车的汽车制造商之一。PV7是起亚的第二款电动厢式车。与此同时，小型厢式车在美国正重新流行，2025年销量增长21%，逐渐摆脱“不酷”的标签。",
-              "source_url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-09-15T14:39:44-04:00"
-            },
-            {
-              "title": "Elegoo Centauri Carbon 2 3D打印机降价近百美元",
-              "brief": "Elegoo Centauri Carbon 2 Combo 3D打印机现售价369美元，比原价449美元便宜近100美元，是初学者入门的好选择。该打印机可同时处理四卷耗材，配备全封闭打印区域、自动调平床和大尺寸触摸屏，方便管理项目。对于不想花大量时间调试设置、只偶尔打印小饰品和支架的用户来说，这款打印机功能全面且易用。此外，还有便携式蓝牙音箱、Switch Joy-Con和Anker充电站等产品也在打折。",
-              "source_url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-09-15T14:02:30-04:00"
-            },
-            {
-              "title": "《俄勒冈之旅》如何成为一代人的标志",
-              "brief": "在《版本历史》第五季首播中，主持人David Pierce与游戏记者Chris Grant及设计师Philip Bouchard探讨了《俄勒冈之旅》的学术起源、复杂遗产以及是否真有人死于痢疾。这款游戏陪伴了过去30年许多孩子的成长，无论在学校还是家中。本季还将关注TI-84计算器、OLPC、Chromebook等教育科技产品，并将在周五直播游戏通关过程。",
-              "source_url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-              "source_name": "The Verge",
-              "published_at": "2026-09-15T12:18:10-04:00"
             }
           ]
         }
@@ -253,6 +253,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Wardogs CEO为加班文化辩护 称其为平衡之道",
+              "brief": "Bulkhead工作室CEO Brammer回应加班问题，称团队会在数月内高强度工作，之后可无顾虑地放松。他表示过去三个月Wardogs比许多员工的家庭生活更重要，因为这是收入来源，但公司也需反向平衡。面对提前推出主机版的要求，他们坚持2028年按计划发布。Brammer称公司提供两周陪产假和半日工作制，并坦言不招聘公开反对加班的人，认为他们不适合公司，强调这里是以努力工作著称的地方。",
+              "source_url": "https://www.ign.com/articles/this-is-a-place-you-come-to-work-hard-wardogs-ceo-justifies-crunch-as-a-balancing-act",
+              "source_name": "IGN",
+              "published_at": "2026-09-16T08:14:34+08:00"
+            },
             {
               "title": "漫威金刚狼制服再生有官方解释",
               "brief": "在《漫威金刚狼》中，沃尔特·朗科夫斯基为罗根打造了漫画中标志性的制服，并解释其采用纳米技术，可在战斗中自动修复，避免制服被撕碎。这种纳米技术实为“Phalanx”，在漫威设定中是一种机械生物种族，曾对抗X战警等英雄，能感染其他物种并形成蜂巢思维。这一设定是否影响剧情尚不清楚，但更像是用既有漫威素材向粉丝解释。漫威电影宇宙中纳米技术已广泛用于钢铁侠、蜘蛛侠等角色。该游戏受《X战警前传：金刚狼》启发，后者也有脱战后伤口和衣物再生的设定，但当时没有官方解释。",
@@ -280,13 +287,6 @@
               "source_url": "https://www.ign.com/articles/masahiro-sakurai-forced-to-abandon-game-designers-award-after-16-years-as-he-cant-find-a-successor",
               "source_name": "IGN",
               "published_at": "2026-09-16T05:28:23+08:00"
-            },
-            {
-              "title": "《漫威金刚狼》允许玩家完全控制慢动作选项，打造电影化玩法",
-              "brief": "《漫威金刚狼》提供内容丰富的无障碍菜单，其中包含控制游戏速度的选项。玩家可将该功能映射到任意手柄按键，在正常速度与自定速度之间切换。有玩家将其映射到方向键，把游戏减速至30%，营造慢动作效果，让血液缓缓溅过屏幕，或让金刚狼将爪子刺入敌人后再恢复速度。这种类似扎克·施奈德的慢镜头风格，让玩家能更好地控制动作呈现，创造电影化瞬间。Insomniac此前的《漫威蜘蛛侠2》也包含该选项。本作历经五年等待正式发售，IGN给出6分评价。",
-              "source_url": "https://www.ign.com/articles/marvels-wolverine-lets-you-have-full-control-over-slow-motion-options-for-cinematic-gameplay",
-              "source_name": "IGN",
-              "published_at": "2026-09-16T05:15:20+08:00"
             }
           ]
         },
