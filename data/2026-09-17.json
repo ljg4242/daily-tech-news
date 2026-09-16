@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T00:53:14.211205+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": []
+        },
+        {
+          "name": "9to5Mac",
+          "articles": [
+            {
+              "title": "Anthropic将Claude Cowork与聊天合并",
+              "brief": "Anthropic宣布Claude Cowork与聊天功能合并为统一的Claude，未来几周先向Pro和Max订阅用户推送，之后扩展至其他套餐。用户可随时提问或交付任务，即使关闭电脑Claude也会继续处理。主界面还新增Claude Docs和Claude Slides，Claude Design也可在对话中使用。公司称此举是为避免用户纠结任务该放哪里，以及跨功能内容无法延续的问题。Team和Free计划随后跟进，企业管理员将提前至少30天收到通知。",
+              "source_url": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-17T00:47:54+08:00"
+            },
+            {
+              "title": "苹果天气在iOS 27新增两项便捷功能",
+              "brief": "iOS 27为苹果天气应用带来两项实用改动：降水预报视图和风力预报视图。苹果把此前藏在多层菜单中的数据直接放到首页，默认预报视图现分为状况、降水和风力三个选项。点击新的雨滴和风图标即可切换，逐小时和10天预报会即时更新。降水视图显示未来每小时降雨概率，以及未来10天的降雨概率、测量值和时段估计；风力视图显示每小时阵风速度及未来几天的预期范围。这些改动让关键信息更易获取，同时用户仍停留在熟悉的首页环境中。",
+              "source_url": "https://9to5mac.com/2026/09/16/apple-weather-adds-two-convenient-new-features-in-ios-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-17T00:09:39+08:00"
+            },
+            {
+              "title": "Apple Watch Series 12有苹果未提及的细微设计变化",
+              "brief": "Apple Watch Series 12的显示屏边框略有增大。苹果官网数据显示，Series 12表壳高度与前代相同，但宽度略增：42毫米款为42乘37毫米，46毫米款为46乘40毫米，而Series 11和Series 10分别为42乘36毫米和46乘39毫米。三款机型的显示尺寸相同，42毫米为374乘446像素、显示面积970平方毫米，46毫米为416乘496像素、显示面积1196平方毫米。这意味着Series 12的屏幕相对更大的表壳略小，边框更明显。该机型还搭载新的健康传感系统和S11芯片。",
+              "source_url": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T23:34:14+08:00"
+            },
+            {
+              "title": "优惠：AirPods 5/Pro 3、Apple Watch Ultra 4、MacBook Pro降价450美元等",
+              "brief": "本周多款苹果新品迎来提前预购折扣。新款带主动降噪的AirPods 5降至125美元，AirPods Pro 3优惠50美元至199美元，AirPods Max 2为449美元。Apple Watch Series 12多个配置在亚马逊有早期预购优惠，如42毫米GPS加蜂窝款490美元、46毫米GPS款440美元。黑色和自然色Apple Watch Ultra 4起价780美元。此外，M5 Pro MacBook Pro配置最高降价450美元，M5 MacBook Air降价150美元，还有大量Anker充电配件促销。",
+              "source_url": "https://9to5mac.com/2026/09/16/deals-airpods-5-pro-3-apple-watch-ultra-4/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-16T23:34:08+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Pixel Watch 5 优惠100美元，Pixel 11 创历史新低，11 Pro Fold 最高优惠320美元",
+              "brief": "今日亚马逊上 Pixel Watch 5 首次直接降价，最高优惠100美元，其中41mm LTE版降至400美元，创亚马逊历史新低。Pixel 11 系列也出现最高120美元的折扣，多款机型达到亚马逊历史最低价。此外，11 Pro Fold 开箱版最高优惠320美元，三星 Galaxy Z Fold 8 最高优惠382美元，联想14英寸2K触屏 Chromebook 售价199美元。亚马逊秋季 Prime Day 早期优惠已上线，涵盖苹果、Pixel、Anker 等品牌。",
+              "source_url": "https://9to5google.com/2026/09/16/deals-pixel-watch-5-pixel-11-11-pro-fold-z-fold-8/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-16T23:46:25+08:00"
+            },
+            {
+              "title": "谷歌确认 Pixel 手机遭与调制解调器相关的针对性攻击",
+              "brief": "谷歌在9月安全更新中修复了200多个漏洞，并特别指出其中一个已被实际利用。该漏洞编号为 CVE-2026-58704，与蜂窝调制解调器有关，属于权限绕过逻辑错误，无需用户交互即可被远程利用。CISA 确认该漏洞在 Pixel 手机上遭到针对性利用，属于“零点击”攻击，已被列入已知被利用漏洞目录。谷歌未透露具体受影响机型及攻击者信息。建议 Pixel 用户尽快安装2026年9月安全补丁。",
+              "source_url": "https://9to5google.com/2026/09/16/google-pixel-targeted-zero-day-modem-attack/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-16T23:45:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "超新星内部中微子身份互换会发生什么？",
+              "brief": "物理评论D即将发表的一篇论文提出，中微子振荡可能解释超新星观测与模型之间的差异。中微子在核心坍缩超新星中扮演关键角色，但现有模型未考虑其改变“味”的能力。中微子可能携带部分能量逃逸，导致直接坍缩成黑洞而非爆发。观测到的超新星统计表明模型可能严重不完整，理论上也存在诸多不确定性，比如是否所有核心坍缩都产生超新星。该研究或为这一 discrepancy 提供潜在解释。",
+              "source_url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T23:17:43+08:00"
+            },
+            {
+              "title": "macOS 27 Golden Gate：Ars Technica 评测",
+              "brief": "macOS 27 Golden Gate 是首个不支持任何 Intel Mac 的 macOS 版本，同时带来 Apple Intelligence 的重大升级。生成式 AI 功能无法禁用，会占用数 GB 磁盘空间。但操作系统本身也获得类似“Snow Leopard”的更新：修复 Tahoe 的设计缺陷，增加大量渐进式改进，并优化底层性能，使常见任务更快更可靠。这种组合偶尔令人不适：无法忽视且无法关闭的 AI 变化与低调的系统更新相结合。",
+              "source_url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T22:50:06+08:00"
+            },
+            {
+              "title": "世界最佳赛车手将同时与100辆卡丁车竞速",
+              "brief": "四届 F1 世界冠军马克斯·维斯塔潘将于美国东部时间9月16日中午在银石赛道参加一场特殊比赛：从最后一位发车，驾驶卡丁车与另外100辆相同的卡丁车进行30圈角逐。另外100名车手由内容创作者和红牛运动员组成，均领先于维斯塔潘发车。他每超越一辆卡丁车，该车即被淘汰，他需在30圈内超越所有对手才能获胜。红牛、Disney+ 和 ESPN 将直播这场比赛。",
+              "source_url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T22:19:01+08:00"
+            },
+            {
+              "title": "议员以削减公路资金威胁 Flock 摄像头",
+              "brief": "美国两党议员计划提出法案，若各州不限制 Flock 摄像头等自动车牌识别器的使用，将扣留10%的联邦公路资金。这项《No FLOCK Act》要求此类设备仅可用于五种公共安全用途：收费系统、识别被盗车辆、寻找失踪或濒危人员、通缉重罪车辆及调查重罪涉案车辆。法案未完全禁止 Flock，但旨在防止滥用并保留合法用途。近期，Flock 摄像头因警方不当使用引发全国反弹。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-16T22:03:39+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Android Authority",
+          "articles": []
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "Anthropic为Claude推出文档与幻灯片功能，整合聊天界面",
+              "brief": "Anthropic为Claude新增文档与幻灯片工具，用户可直接通过Claude聊天创建、编辑、导出和分享文档及演示文稿。同时，Anthropic将普通聊天与Cowork合并为“一个Claude”，所有AI生产力工具可在任意对话中使用，Artifacts和Claude Design功能也整合进新界面。Claude能自动判断任务需求，调用现有上下文、技能和连接器。Claude文档与幻灯片以测试版推出，加入Claude Design，成为该AI平台生产力工具的一部分。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+              "source_name": "The Verge",
+              "published_at": "2026-09-16T12:30:00-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "付费让大学生睡足七小时可提高成绩",
+              "brief": "研究人员在匹兹堡大学对1100多名本科生开展为期四周的实验，随机选择468名学生，若某晚睡眠至少七小时即支付5美元，并通过Fitbit等设备核实睡眠时长。参与者平均年龄约19岁，此前平均每晚睡6.6小时，半数凌晨1点后入睡。结果显示，现金激励使学生上课日夜晚平均多睡19分钟，该学期GPA提高约0.08分，相当于成绩高于与低于平均水平学生差距的四分之一，且停止奖励后效果仍持续一个月。",
+              "source_url": "https://www.solidot.org/story?sid=85400",
+              "source_name": "Solidot",
+              "published_at": "2026-09-17T00:09:54+08:00"
+            },
+            {
+              "title": "PS2 Fat安全芯片时隔26年被破解",
+              "brief": "1999年初代PS2 Fat使用的安全芯片CXP102064 MechaCon在时隔26年后被爱好者破解。加拿大复古软硬件爱好者DiscoStarslayer称花了四年时间完成破解，方法包括用化学方法对芯片开盖，借助显微镜和光学数据提取技术分析电路，并发现一个可通过软件提取芯片数据的漏洞利用方法。该芯片也被用于Namco System 246、System 256以及Konami Python 1等当时推出的街机。",
+              "source_url": "https://www.solidot.org/story?sid=85399",
+              "source_name": "Solidot",
+              "published_at": "2026-09-16T23:54:21+08:00"
+            },
+            {
+              "title": "Denuvo起诉黑客违反DMCA反规避条款",
+              "brief": "Denuvo在美国加州北区联邦法院起诉匿名游戏破解黑客voices38，指控其违反DMCA反规避条款，绕过逾二十款游戏使用的Denuvo DRM，涉及《霍格沃茨之遗》和《黑神话：悟空》等。随着诉讼推进，Denuvo可能向Reddit、Discord和Valve发出传票以获取黑客身份。voices38发布了一系列Denuvo DRM游戏破解补丁，曾在一天内发布创纪录的五款，引起Denuvo注意。",
+              "source_url": "https://www.solidot.org/story?sid=85398",
+              "source_name": "Solidot",
+              "published_at": "2026-09-16T23:27:44+08:00"
+            },
+            {
+              "title": "AWS称无法恢复中东部分可用区资源与数据",
+              "brief": "亚马逊云服务AWS表示，因数据中心在战争中受损，无法恢复中东部分可用区资源和数据的访问。AWS通过健康仪表板声明，全面评估后确认无法恢复巴林可用区me-south-1的资源和数据访问，若客户数据仅存放于该区可能永久丢失。此前AWS已建议客户迁移工作负荷，称大部分客户在完全不可用前已完成迁移。阿联酋mec1-az2情况类似，mec1-az1和mec1-az3也受影响，仍在恢复中。",
+              "source_url": "https://www.solidot.org/story?sid=85397",
+              "source_name": "Solidot",
+              "published_at": "2026-09-16T23:11:44+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "CloudCone SSD VPS 补货：最低年付96元，新增BDAY26套餐",
+              "brief": "CloudCone 再次补货 SSD VPS，最低年付 96 元（14.24 美元），支持支付宝。原有 CCTURNS9 套餐仍在售，新增 BDAY26-VPS 套餐，但磁盘容量降低、价格上涨。所有套餐均为洛杉矶机房，1GB 带宽，纯 SSD RAID-10 存储，含 1 个 IPv4 和 3 个 IPv6 地址，不支持升级。推荐 CCTURNS9-STOR-VPS-1（1核1G/55GB/4TB）和 VPS-2（2核2G/110GB/7TB）。购买需先注册充值。",
+              "source_url": "https://www.appinn.com/cloudcone-ssd-vps/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-15T16:22:12+08:00"
+            },
+            {
+              "title": "DearMob iPhone Manager 限免：iOS 数据管理工具",
+              "brief": "DearMob iPhone Manager 是一款适用于 Windows 和 macOS 的 iOS 数据管理工具，可替代 Finder、iTunes 和 iCloud，实现照片、视频、音乐、通讯录等文件的本地传输、备份和恢复。支持按需备份、加密存储、原画质传输，完美适配 iOS 27 及 iPhone 18 全系。目前推出终身版 62% 折扣和注册码限免活动。软件传输速度快，100 张 4K 照片约 8 秒，所有数据保存在本地，安全私密。",
+              "source_url": "https://www.appinn.com/5kplayer-iphone-manager/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-15T15:38:02+08:00"
+            },
+            {
+              "title": "微软紧急修复 Windows 11 九月更新：RDP 和 Claude Cowork 已恢复",
+              "brief": "微软发布带外更新 KB5129195，修复九月安全更新 KB5124008 导致的 RDP 远程连接故障、Claude Cowork 无法访问本地文件、HCS/Plan9 文件共享失效及 USB 音频部分问题。但 AMD 显卡异常、Explorer.exe 崩溃、File History 失效等问题仍未解决。此次更新还修复了 CVE-2026-62721 本地权限提升漏洞。建议用户安装，但可能引入新问题。",
+              "source_url": "https://www.appinn.com/windows-11-kb5129195-emergency-fix-september-2026/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-15T15:33:51+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "微软承诺平衡数据中心扩张成本与社区负担",
+              "brief": "微软提出五项承诺，确保数据中心不推高居民电价、补充更多水资源、创造本地就业、扩大税收并投资AI培训。公司承认AI基础设施扩张可能引发成本与收益争议，承诺与电力公司合作制定覆盖实际成本的电价，避免转嫁给居民，并计划到2030年将单位用水强度改善40%，同时扩大职业培训项目。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578294.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-17T00:07:12+08:00"
+            },
+            {
+              "title": "六旬老太被客服引导开货拉拉 一月内多起事故",
+              "brief": "一名六旬老太太在货拉拉客服引导下注册成为司机，但未购买保险。拿车不到一周便发生两三起交通事故，最后撞到案件当事人，驾照被交警吊销，前后不到一个月。律师在庭审中质疑平台审核和客服诱导行为，并希望法官向货拉拉发出司法建议。截至发稿，货拉拉方面暂无回应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578292.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-16T23:07:02+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争",
+              "brief": "联合国秘书长古特雷斯表示，AI 治理需要真正的国际合作和协调一致的全球行动。他透露将在联合国大会高级别周与各国元首讨论 AI 风险，并在发言中谈到应为 AI 设立的安全边界。今年早些时候，他启动了“国际人工智能独立科学小组”，并指出 AI 影响跨越国界，必须建立更严格的安全措施，提前应对可能带来的危险。今年 7 月，他还在日内瓦首届联合国人工智能治理全球对话会上呼吁对 AI 实施广泛而全面的全球管控。",
+              "source_url": "https://www.ithome.com/1/003/338.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-16T23:47:40+08:00"
+            },
+            {
+              "title": "多名欧美艺人集体发帖，暗示自己将入选《GTA 6》电台音乐或出任 DJ",
+              "brief": "多名欧美艺人近日集体在社交媒体发帖，暗示自己将参与《GTA 6》。滚石乐队成员基思·理查兹发布了一张鬣蜥图片，美国乡村歌手摩根·沃伦发布游泳池图片，波多黎各歌手劳·亚历杭德罗发布充气火烈鸟图片并提及 Rockstar Games。阿根廷嘻哈组合 Ca7riel 与 Paco Amoroso 发布游艇插画，粉红豹女孩和 Fred again.. 也发布了同一张图。说唱歌手 Future 则通过唱片公司账号发布带有雷奥奈达车牌的汽车图片。这些艺人究竟是为游戏提供歌曲，还是担任电台 DJ 或出演游戏，目前尚不得而知。",
+              "source_url": "https://www.ithome.com/1/003/336.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-16T23:32:36+08:00"
+            },
+            {
+              "title": "任天堂推出《朋友收集：梦想生活》同捆版 Switch Lite 游戏机，10 月 29 日发售",
+              "brief": "任天堂推出《朋友收集：梦想生活》同捆版 Switch Lite 游戏机，将于 10 月 29 日发售，外附赠 30 天 Nintendo Switch Online 会员兑换码。据IT之家了解，Switch Lite 最初发售于 2019 年 7 月，主打小巧设计，相比普通版 Switch 更适合带出门游玩，官方建议零售价 1,490 港元。配置方面，该机取消了 TV 模式，此前可拆卸的 Joy-Con 控制器变成机身的一部分，方向按钮改为十字键形式，不支持 HD 震动，屏幕由 6.2 英寸缩小到 5.5 英寸，分辨率保持 720P。",
+              "source_url": "https://www.ithome.com/1/003/330.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-16T23:27:10+08:00"
+            },
+            {
+              "title": "《饥饿游戏》前传电影《饥饿游戏：收获日出》曝全新中字预告，北美 2026 年 11 月 20 日上映",
+              "brief": "《饥饿游戏》前传电影《饥饿游戏：收获日出》曝光全新中字预告，将于北美 2026 年 11 月 20 日上映，哈切森将客串出演。电影设定在第一部前传《饥饿游戏：鸣鸟与蛇之歌》的 40 年后，围绕 16 岁的黑密斯展开。影片改编自苏珊·柯林斯同名小说，是继《鸣鸟与蛇之歌》后的又一前传作品，聚焦第 50 届饥饿游戏即第二届“世纪极限赛”，讲述年轻时期的黑密斯·阿伯纳西成为胜利者的过程。这场赛事因“世纪极限赛”的特殊规则而更加残酷。",
+              "source_url": "https://www.ithome.com/1/003/329.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-16T23:17:09+08:00"
+            },
+            {
+              "title": "形似“脚印”，好奇号在火星上发现奇特新地貌",
+              "brief": "好奇号在火星夏普山最新获取的观测图像中，研究团队识别出一批与以往所见截然不同的地貌。这批神秘地貌是散布在火星基岩之上的大量宽阔浅坑，有的坑像是一个脚印。虽然小型凹坑与凹陷痕迹在火星地表并不少见，但好奇号观测到的这批宽阔浅坑与此前发现的地表特征存在明显区别。坑比以往见过的同类地貌更宽、更浅，坑内也没有留存曾经嵌在里面的明显石块或物体。科研团队动用好奇号搭载的多套设备采集数据，已在坑内物质中发现与主体基岩化学成分不同的有趣岩层。",
+              "source_url": "https://www.ithome.com/1/003/328.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-16T23:16:13+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
