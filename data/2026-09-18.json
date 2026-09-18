@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T12:52:33.832940+08:00",
+  "generated_at": "2026-09-18T14:52:26.457712+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "智能手表市场遇冷：2026年第二季度全球出货量同比下降4%",
+              "brief": "Counterpoint Research数据显示，2026年第二季度全球智能手表出货量同比下降4%，用户更换周期明显拉长。入门级手表因新功能不足难以吸引升级，高端手表用户同样倾向于继续使用旧设备，部分买家则因等待新品而推迟购买。华为领跑全球出货量，苹果在五大品牌中增速最快。Counterpoint预计2026年全年出货量仅增长1%，但AI与先进健康功能可能成为推动用户换新的关键因素。",
+              "source_url": "https://www.androidauthority.com/smartwatch-shipment-falls-in-q2-2026-3712708/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-18T14:25:23+08:00"
+            },
+            {
+              "title": "音频公司BoomCloud 360投诉，三星苹果谷歌面临美国进口禁令调查",
+              "brief": "美国国际贸易委员会已就三星、苹果和谷歌带空间音频功能的产品启动337调查，案件编号337-TA-1521。投诉方为加州音频技术公司BoomCloud 360，其指控三家公司侵犯三项涉及空间音频处理的专利，包括空间与非空间音频增益调整、扬声器不对称补偿及串扰校正技术。该公司请求发布有限排除令和停止令，可能影响相关智能手机、耳机和电视在美国的进口与销售。调查启动不代表侵权成立，案件预计还需较长时间审理。",
+              "source_url": "https://www.androidauthority.com/samsung-google-apple-us-import-bans-investigation-3712680/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-18T13:14:43+08:00"
+            },
+            {
               "title": "开源 Plex 客户端 PlxNative 让老款 LG 电视重获新生",
               "brief": "开发者推出开源 Plex 客户端 PlxNative，专为运行 webOS 的 LG 电视设计，旨在解决老款机型上 Plex 界面卡顿的问题。它采用 Rust 和 OpenGL 原生绘制界面，而非在浏览器中运行，因此启动约一秒，滚动和菜单操作更流畅；视频播放仍依赖电视硬件解码器。用户可通过 Homebrew Channel 安装，或借助 LG 开发者模式和 webOS Dev Manager 侧载。该项目在 Reddit 上获得积极反馈，适合面板画质仍好但界面缓慢的老款 LG 电视。",
               "source_url": "https://www.androidauthority.com/lg-tv-slow-plex-app-plx-native-3712671/",
@@ -148,20 +162,6 @@
               "source_url": "https://www.androidauthority.com/llm-ai-agents-full-access-to-your-computer-poll-results-3712615/",
               "source_name": "Android Authority",
               "published_at": "2026-09-18T05:19:23+08:00"
-            },
-            {
-              "title": "谷歌AI实验CC想成为家庭免费实习生",
-              "brief": "谷歌正在将此前在Google Labs推出的AI代理CC从个人每日简报工具扩展为面向家庭和住户的助手。新版CC将拥有独立的谷歌账号，最多六名家庭成员可向其共享信息，且CC只能访问每位成员主动分享的内容，支持PDF、图片、收据和纯文本等格式。CC会整理这些信息并生成家庭共享的每日简报，还能协助填写表单、制作购物清单、规划 meals 以及追踪重要日期和待办事项。家长可将学校邮件和日历邀请自动转发给CC，让分散的信息集中呈现，方便全家查看和管理。",
-              "source_url": "https://www.androidauthority.com/google-ai-cc-family-household-assistant-3712623/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-18T05:15:59+08:00"
-            },
-            {
-              "title": "摩托罗拉发布神秘预告，暗示9月22日新品发布",
-              "brief": "摩托罗拉在X平台发布新品预告，配文“全新视角即将到来”，并标注日期2026年9月22日。预告视频展示了多种材质的特写镜头。此前摩托罗拉曾预告名为Signature 27的设备，其官网注册页面使用了相同标语，因此该预告很可能指向Signature 27。初代Signature于今年1月发布，采用斜纹和亚麻风格饰面，新机或延续类似设计。预告出现在摩托罗拉美国首页，可能暗示将在美国上市，但目前仅为推测。",
-              "source_url": "https://www.androidauthority.com/motorola-september-event-teaser-3712582/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-18T03:49:00+08:00"
             }
           ]
         },
@@ -287,6 +287,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "PGSTY Silo：源自 MinIO Fork，只改一行即可无缝替代",
+              "brief": "MinIO 彻底停摆后，使用 MinIO 的项目如何在不改动代码的情况下继续运行成为难题。PGSTY Silo 是从 MinIO 老代码 fork 而来的开源 S3 对象存储替代品，由 Pigsty 独立维护，与 MinIO, Inc. 无隶属或赞助关系。用户只需将 docker-compose.yml 中的 minio/minio 改为 pgsty/silo，其他配置不变，重新运行后刷新后台即可切换到 Silo，用户名密码保持不变，管理页面也恢复正常，实现真正意义上的只改一行、无缝替代。",
+              "source_url": "https://www.appinn.com/pgsty-silo-minio-alternative/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-18T12:17:47+08:00"
+            },
+            {
               "title": "HiDNS：一站式聚合管理22+平台域名DNS解析",
               "brief": "HiDNS是一款一站式DNS聚合管理平台，支持阿里云、DNSPod、Cloudflare等22个以上国内外域名商。用户只需添加各注册商的API Key，即可在一个界面管理所有域名的解析记录。还提供WHOIS到期监控、NS监测与故障转移、API Token权限管理、团队协作、WebAuthn无密码登录、TOTP两步验证、OAuth2/OIDC单点登录及审计日志等功能。采用GPL-3.0开源，可通过Docker快速部署。",
               "source_url": "https://www.appinn.com/hidns/",
@@ -306,39 +313,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Waymo宣布进军新加坡，目标2028年商业运营无人出租车",
-              "brief": "Waymo宣布将进入新加坡，成为其东南亚首个无人出租车市场。公司计划2027年由专业测试人员手动驾驶全电动Jaguar I-PACE车队，适应当地道路、交通习惯及热带季风气候，优化Waymo Driver系统；在获得新加坡陆路交通管理局批准并通过安全评估后，预计2028年向公众开放全自动叫车服务。Waymo今年已在新加坡设立法人实体并参与自动驾驶指导委员会工作。目前其在美国约15座城市运营近4000辆自动驾驶车辆，并计划2026年底前进驻伦敦、2027年进入东京和慕尼黑。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578498.htm",
+              "title": "日本电脑娱乐协会调查：85.8%游戏开发者已使用生成式AI",
+              "brief": "日本电脑娱乐协会（CESA）调查显示，85.8%的受访游戏开发者已在工作中使用生成式AI。管理方式上，“由人工进行确认、修正与监督”获得最多回答，多数企业还制定了限制或指定可用工具、不直接采用AI生成内容等规则。CESA常务理事增田努表示，这反映该技术在开发现场得到广泛且稳步应用，但包括著作权在内的权利问题仍受关注。业内并未把工作完全交给AI，而是通过人工确认和监督建立运用体系。《CESA游戏产业报告2026》完整版计划于2026年12月推出。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1578552.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-18T12:50:16+08:00"
+              "published_at": "2026-09-18T14:32:45+08:00"
             },
             {
-              "title": "英特尔或推Raptor Lake Next：8P+8E共16核心接替i5-14600K",
-              "brief": "爆料者Jaykihn称，英特尔Raptor Lake Next中的8P+8E型号将是Core i5-14600K的后继产品。现款i5-14600K为6P+8E共14核心20线程、125W，新品将增至16核心24线程，功耗定位不变，并可能首次把8个P-Core下放至Core 5级别。该系列继续采用Raptor Lake设计，用于延长LGA 1700平台生命周期，预计2027年初上市，或与新款LGA 1700主板同时出现，并可能继续支持DDR4。其多线程性能有望接近Core i7-13700K，但单线程与游戏提升有限。目前信息尚未获英特尔官方确认。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578496.htm",
+              "title": "三星Exynos处理器第二季度市占率升至9%",
+              "brief": "三星Exynos处理器第二季度市占率升至9%，主要负责运行操作系统和应用程序所需的核心计算任务。增长主要得益于高端和中端智能手机对Exynos芯片的出货量增加，Galaxy S26系列搭载的旗舰级Exynos 2600芯片推动高端市场增长，Galaxy A57和A37使用的Exynos芯片支撑中端出货量。数据显示，联发科以31%份额位居首位，高通以23%位居第二，苹果以19%名列第三。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578550.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-18T12:49:28+08:00"
+              "published_at": "2026-09-18T14:32:10+08:00"
             },
             {
-              "title": "《GTA 6 Online》或于2027年上线",
-              "brief": "Twitch高管克兰西谈及《GTA 6》对直播行业影响时表示，游戏发售后将带来巨大流量增长，而多人模式上线后增长幅度还会更大，这一表态被广泛解读为《GTA 6 Online》有望在2027年推出。目前《GTA 6》发售时将先聚焦单人内容几乎成为行业共识，Rockstar也未公开展示多人内容。若爆料属实，其线上模式与本体间隔将明显长于《GTA 5》与《GTA Online》。Take-Two首席执行官泽尔尼克曾表示，现有《GTA Online》仍将长期获得支持，Rockstar可能采取逐步过渡策略。按计划《GTA 6》将于2026年11月发售。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1578494.htm",
+              "title": "微软提醒企业管理员筹备2029年Edge浏览器IE模式停用",
+              "brief": "微软提醒企业管理员尽早筹备2029年Edge浏览器IE模式停用，各机构不应拖延迁移计划。微软重申既定支持时间表，并提醒不可低估全量迁移所需的时间成本。许多跨国企业、金融机构与政府部门的内部系统历史技术沉淀较深，彻底剥离对IE专有特性的依赖往往需要漫长过程。微软建议管理员依托企业站点列表管理器等工具，系统性盘点仍在调用IE模式的站点与应用，建立分批淘汰路线图，优先将高频内部服务迁移至现代Web标准架构。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578548.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-18T12:48:40+08:00"
+              "published_at": "2026-09-18T14:29:36+08:00"
             },
             {
-              "title": "Google DeepMind成立新研究所，拓宽AGI与AI治理讨论维度",
-              "brief": "Google DeepMind成立新研究所，旨在拓宽围绕通用人工智能与人工智能治理的公共讨论维度。该研究所由DeepMind联合创始人兼首席AGI科学家肖恩·莱格等资深领袖与学者牵头，将开展跨学科研究，联合经济学家、社会科学家、法学专家、政策制定者及民间社会组织代表，研判超级智能可能引发的系统性冲击。其重点议程包括AGI安全验证与控制理论、前沿技术普惠与公平治理，以及推动全球化监管对话。分析人士认为，此举展现对前沿AI长期社会责任的重新审视，有望为超级智能技术的合规落地与全球治理提供思想蓝图与智库支持。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578492.htm",
+              "title": "Mojave无人机完成模拟战场短距起降后继续执行任务",
+              "brief": "通用原子与韩国韩华航空航天公司在韩国京畿道抱川市联合测试，Mojave无人机从韩国陆军第513航空营常规机场起飞参与联合空中行动，随后按地面指令降落在模拟战场的一条简易土路上，并再次短距起飞继续执行任务。该机长约9米、翼展约16米，携带模拟载荷。通用原子表示，Mojave设计目标之一就是在极其有限场地条件下完成起降。项目仍处研发阶段，计划2026年底完成关键设计评审，2027年进行首架量产标准机型首飞。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578546.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-18T12:45:40+08:00"
+              "published_at": "2026-09-18T14:29:13+08:00"
             },
             {
-              "title": "科学家发现衰老更慢的蝴蝶，寿命最长可达348天",
-              "brief": "英国布里斯托大学与史密森热带研究所研究发现，以花粉为食的Heliconius蝴蝶寿命接近一年，而普通蝴蝶往往只能存活几周。实验显示，即使去除花粉，H. hecale仍比不摄食花粉的近亲D. iulia存活更久，说明其长寿还涉及自身进化的生理和遗传特征。H. hecale在身体质量和抓握力量等指标上衰老更慢，基础死亡风险也更低。部分袖蝶平均寿命约为近亲3倍，其中Heliconius hewitsoni最长可存活348天，而Dione juno仅14天，最大寿命相差约25倍。成果发表于《自然·通讯》。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1578490.htm",
+              "title": "iPhone 18 Pro首销日：排队依旧 黄牛加价大幅缩水",
+              "brief": "iPhone 18 Pro首销日线下门店排队依旧，但今年黄牛行情比去年冷静不少。去年iPhone 17首销最火的橙色Pro Max黄牛加价1500元，今年最火的勃艮第红只加价500元，缩水三分之二。缺货比预想严重，郑州Apple Store的iPhone 18 Pro和Pro Max已全部暂无现货，线上下单预计送达时间排到10月，勃艮第红最先售罄。今天线下门店取机必须提前完成预约，没有预约订单无法直接到店购买。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1578544.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-18T12:40:40+08:00"
+              "published_at": "2026-09-18T13:26:44+08:00"
             }
           ]
         },
@@ -346,45 +353,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "智谱GLM-5.3-FlashX模型上线，推理更快更流畅",
-              "brief": "智谱宣布GLM-5.3-FlashX模型上线，称其用量持续攀升。面对快速增长的需求，智谱在10万张国产芯片提供的推理算力基础上，进一步加大对Infra侧的投入与推理优化。GLM-5.3-Flash长期保持同尺寸最强智能水平，本次提速进一步形成智能、价格、速度的全面竞争力。GLM-5.3-FlashX API现已上线，Model Key为GLM-5.3-FlashX，官方同时提供了API调用方法与文档链接。",
-              "source_url": "https://www.ithome.com/1/004/061.htm",
+              "title": "三星 Galaxy SmartTag 3 项圈配件曝光，可辅助追踪宠物",
+              "brief": "三星 Galaxy SmartTag 3 的项圈配件曝光，包含皮革保护套、边框保护壳及 ComforTag 宠物项圈等。皮革保护套预计提供黑色和棕色两种配色，外观可能接近 Galaxy 手机 Kindsuit 保护壳；边框保护壳同样提供白色和黑色，面向户外及易跌落场景。ComforTag 宠物项圈为黑色，用于将 SmartTag 3 固定在宠物项圈上，以追踪犬、猫等位置。SmartTag 3 追踪器预计推出白色和黑色两种，白色采用浅色外框包围中央圆形区域，中央部分具金属质感与细微拉丝效果，黑色版本为深色圆角方形设计。",
+              "source_url": "https://www.ithome.com/1/004/089.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T12:45:33+08:00"
+              "published_at": "2026-09-18T14:47:20+08:00"
             },
             {
-              "title": "赛力斯副总裁康波：问界将择机进入轿车、MPV等市场",
-              "brief": "赛力斯副总裁康波表示，问界将把每一款产品长期经营好，做到市场认可、用户喜爱。问界M5、M6、M7、M8、M9已覆盖不同价格带，问界将持续提升大单品经营能力，在对应细分市场致力于获得领先地位。在巩固高端SUV市占率优势基础上，择机进入轿车、MPV及其他有竞争力的产品市场，集中资源打造具有规模效应和长期竞争力的产品。有知情人士称，明年1月1日起华为专营店将分为专卖问界与混卖其他四界两种。",
-              "source_url": "https://www.ithome.com/1/004/060.htm",
+              "title": "消息称理想汽车开始卖技术：马赫芯片、碳化硅、增程器启动外供",
+              "brief": "消息称理想汽车开始对外供应技术，涉及马赫芯片、碳化硅和增程器，半导体业务也准备引入更多外部资金。增程系统已向外释放接纳外部客户的信息，但自研电池尚无外供计划，行业人士称电池定制化程度高、外供难度太大。理想高层已决议批准芯片业务分拆，业务拓展同步进行。消息人士透露，已有具身智能公司与理想高层洽谈，后者明确推销马赫芯片，是否采用可能取决于算法迁移难度。马赫 M100 芯片发布于今年 6 月，采用 5nm 车规级工艺，单芯片算力 1280 TOPS，二季度以来已搭载于多款车型。",
+              "source_url": "https://www.ithome.com/1/004/087.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T12:36:45+08:00"
+              "published_at": "2026-09-18T14:45:14+08:00"
             },
             {
-              "title": "微软解释Win11点击关机并不等同于彻底关机",
-              "brief": "微软解释称，Windows系统的混合关机与启动机制自Windows 8开始提供。设备关机后系统关闭用户应用并注销账户，同时把内核会话及已加载驱动写入休眠文件，再次开机时恢复该快照，从而减少重新初始化内核和加载驱动的时间。启用快速启动后，点击关机操作会把内核会话和驱动快照写入hiberfil.sys文件，开机时从该文件恢复，机械硬盘启动时间可从数分钟缩短至数秒。重启则不采用该方案，会彻底结束内核会话并从头初始化。",
-              "source_url": "https://www.ithome.com/1/004/059.htm",
+              "title": "Keychron 推出 K6 Ultra 1K·ZMK 特别版键盘：65% 小配列，木制饰边",
+              "brief": "Keychron 推出 K6 Ultra 1K·ZMK 特别版键盘，采用 65% 小配列和木制饰边。该键盘提供茶轴和提前段落香蕉轴，搭配 OSA 高度 PBT 材质双色注塑工艺键帽。其采用双层 Gasket 结构，集成北向 RGB 背光；支持三模连接，回报率可达 1kHz；搭载 ZMK 固件，续航可达 600 小时；支持 Keychron Launcher 网页端驱动程序。这款键盘在日本市场当前售价为 17672 日元，约合 761.9 元人民币。",
+              "source_url": "https://www.ithome.com/1/004/086.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T12:35:50+08:00"
+              "published_at": "2026-09-18T14:42:56+08:00"
             },
             {
-              "title": "赛力斯康波回应问界专属专营是否影响含华量",
-              "brief": "赛力斯副总裁康波就问界专属专营等六个问题作出回应。他表示，问界已进入百万用户、高端品牌新阶段，专属专营是以用户为中心，把高端品牌价值做深做透。新合作模式下，产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能，问界仍是鸿蒙智行大家庭核心成员，赛力斯持有引望10%股份，问界将有华为最新、最好、最实用的技术、产品及供应保障。所有问界用户既有权益及后续服务不受影响。",
-              "source_url": "https://www.ithome.com/1/004/058.htm",
+              "title": "M610BB 手机曝光：高通第六代骁龙 8 至尊版芯片，预估为小米 18 Pro",
+              "brief": "型号 M610BB 的手机现身跑分平台，预估为小米 18 Pro，搭载高通第六代骁龙 8 至尊版芯片。页面信息显示该机配备 SM8950（Snapdragon 8 Elite Gen6），采用 2+3+3 集群方案，时钟频率与 SM8975（Snapdragon 8 Elite Extreme Gen6）相同。内存容量、软件调校、温控状态和测试版本都会显著影响跑分成绩，因此相关跑分目前仅供参考。IT之家附上三款机型配置和跑分：M154FF 预估小米 18 Pro，16GB 内存，SM8975 芯片，单核 3619、多核 11842；M1544F 预估小米 18 Pro Max，12GB 内存，SM8975 芯片，单核 3582、多核 12247；M610BB 预估小米 18 Pro，16GB 内存，SM8950 芯片，单核 2831、多核 8843。",
+              "source_url": "https://www.ithome.com/1/004/085.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T12:30:19+08:00"
+              "published_at": "2026-09-18T14:34:55+08:00"
             },
             {
-              "title": "12306客服回应国庆高铁票涨价：节假日浮动正常",
-              "brief": "有网友发现部分高铁票价在国庆前后上涨，如北京到上海G547次9月18日553元起，9月30日调整为626元起；上海南到重庆北D2216车次9月18日669元，9月30日为727元。多地12306客服表示，高铁票价是浮动的，并不固定，特别是在节假日进行浮动属于正常现象。客服称日常票价有打折优惠，影响票价浮动的因素包括区域、淡旺季时段、运行时间等，铁路部门据此合理确定具体车次票价，在参考票价基础上灵活浮动。",
-              "source_url": "https://www.ithome.com/1/004/057.htm",
+              "title": "Waymo 加速亚太布局，计划 2028 年在新加坡提供 Robotaxi 商用服务",
+              "brief": "Waymo 加速亚太布局，计划 2027 年在新加坡启动基于真人驾驶的本地化训练，2028 年通过第一方应用向一般公众提供网约车服务。Waymo 联合首席执行官 Tekedra Mawakana 表示，新加坡打造了世界上最安全、最高效、最具前瞻性的交通生态系统之一，其对可靠性、可持续性和以人为本进步的关注，直接反映了 Waymo 构建技术和服务的方式。Waymo 称致力于倾听社区声音，创造高技能本地运营岗位，并与新加坡国家领导人携手完善世界一流公共交通网络，很荣幸与交通部和陆路运输管理局合作，将经过验证的商业安全记录带到狮城。",
+              "source_url": "https://www.ithome.com/1/004/084.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T12:23:06+08:00"
+              "published_at": "2026-09-18T14:25:29+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "苹果上调iPhone 18 Pro系列换电池价格至1048元",
+              "brief": "苹果公布iPhone 18 Pro和iPhone 18 Pro Max维修价格，电池更换从969元涨至1048元，适用于保外更换。保修期内电池健康度低于80%可免费更换，购买AC+的用户同样适用。其他维修价格：iPhone 18 Pro屏幕损坏2698元起，iPhone 18 Pro Max屏幕损坏3198元，背面玻璃均为1298元，后置相机均为1949元，其他损坏分别为6898元和7298元。",
+              "source_url": "https://www.landian.news/archives/126919.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-18T13:45:45+08:00"
+            },
+            {
+              "title": "微软身份验证器安卓版2027年1月改用谷歌备份",
+              "brief": "微软宣布身份验证器安卓版将于2027年1月停止使用微软账号备份数据，改用Google One备份。iOS版已在2025年9月改为iCloud备份。此前微软账号备份仅支持个人账号作为恢复账号，工作和学校账号无法使用，导致企业环境中个人与公司数据捆绑，存在合规问题。改用Google One备份后，企业托管账号的数据将随托管账号备份，更便于管理。",
+              "source_url": "https://www.landian.news/archives/126918.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-18T13:00:28+08:00"
+            },
             {
               "title": "iOS 27.2测试版通话界面加入纪念日提醒功能",
               "brief": "iOS 27.2 Beta 1为电话应用带来通话情景功能，可在接打电话时跨应用、跨数据寻找相关内容并标记。用户提前在联系人中添加纪念日后，纪念日当天来电或去电时通话界面会显示该提醒，纪念日为循环提醒无需设置年份。该功能还支持生日提醒，生日当天通话会显示对方生日及烟花彩蛋，但周年纪念日没有新动画。通话情景功能还能识别航空公司等来电来源标记。",
@@ -405,20 +426,6 @@
               "source_url": "https://www.landian.news/archives/126915.html",
               "source_name": "蓝点网",
               "published_at": "2026-09-18T10:45:45+08:00"
-            },
-            {
-              "title": "微软前工程师解释Windows XP密钥FCKGW广泛使用原因",
-              "brief": "微软前工程师戴夫普拉默解释Windows XP激活密钥FCKGW被广泛使用的原因。该密钥疑似由戴尔或英特尔等大型OEM员工在正式发布前泄露，盗版组织Devils0wn迅速传播。微软虽知密钥被滥用，但为避免给用户造成不必要麻烦而放任自流，直到SP1发布才封禁该密钥，当时共封禁640个密钥。SP2及正版增值计划进一步阻止盗版系统获取更新。普拉默还否认密钥生成算法简单的说法。",
-              "source_url": "https://www.landian.news/archives/126914.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-18T10:00:36+08:00"
-            },
-            {
-              "title": "苹果计划2029年推出基于M8芯片的AI服务器",
-              "brief": "消息称苹果准备重新推出服务器产品，基于双路或四路M8 Ultra芯片，侧重本地AI算力。该项目一年前启动，负责人为时任硬件工程团队领导的约翰特纳斯，其现任苹果CEO，项目被砍概率低。苹果正考虑采用英伟达NVLink Fusion技术实现服务器横向纵向扩展。苹果与英伟达关系长期不佳，曾因GPU缺陷和专利纠纷交恶，2014年转用AMD GPU，后自研M系列芯片。",
-              "source_url": "https://www.landian.news/archives/126913.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-18T09:15:20+08:00"
             }
           ]
         },
