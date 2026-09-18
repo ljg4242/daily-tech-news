@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T04:52:33.991304+08:00",
+  "generated_at": "2026-09-19T06:52:46.037467+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Gemini 智能家居控制问题蔓延至 Android Auto",
+              "brief": "部分 Android Auto 用户反映，Gemini 突然无法控制智能家居设备，此前可用的开空调等指令如今会得到“驾驶时无法通过 Google Maps 控制智能家居设备”的回复。该问题紧随 Wear OS 上 Gemini 智能家居控制故障之后出现，谷歌当时称已修复。有用户表示相同指令在 Gemini 应用中仍可正常使用，也有人因此回退到 Google Assistant。目前尚不清楚问题原因，可能是服务器端故障或变更所致，媒体已联系谷歌寻求置评。",
+              "source_url": "https://www.androidauthority.com/gemini-cannot-control-smart-home-devices-on-android-auto-3713118/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-19T05:46:30+08:00"
+            },
+            {
+              "title": "华硕 Googlebook 在预订开启前再遭泄露",
+              "brief": "Googlebook 笔记本即将登场，预订将于 9 月 21 日开启，首批产品来自宏碁、华硕、戴尔、惠普和联想。在预订开始前几天，一批新的华硕渲染图曝光，展示了侧面接口、顶盖上的彩虹发光条，以及 X 光视角和预组装机箱框架等细节。此外还有几张极端角度的成品照片，其中可见一枚专用的 Google 键。这些图片提供了目前对华硕 Googlebook 较为详细的一次预览，但整体仍未透露太多关键规格信息。",
+              "source_url": "https://www.androidauthority.com/asus-googlebook-leak-2-3713114/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-19T05:43:45+08:00"
+            },
+            {
+              "title": "Galaxy Tab S12 泄露曝光 Plus 与 Ultra 规格",
+              "brief": "一则泄露可能揭示了 Galaxy Tab S12 Plus 和 Ultra 的完整规格。两款平板均搭载联发科 Dimensity 9500 处理器，Plus 配备 12.6 英寸 2800 x 1752 分辨率 120Hz Dynamic AMOLED 屏幕，Ultra 则为 14.6 英寸 2960 x 1848 分辨率 120Hz 面板。Plus 电池从 10,090mAh 提升至 10,600mAh，Ultra 保持 11,600mAh。Plus 最高 12GB RAM，Ultra 最高 16GB RAM，存储最高 1TB 并支持 microSD 扩展。据称两款平板将于 10 月 7 日以银色和灰色发布，Plus 将附赠 S Pen。",
+              "source_url": "https://www.androidauthority.com/galaxy-tab-s12-specs-revealed-3713106/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-19T05:06:16+08:00"
+            },
+            {
               "title": "Snapseed 测试版新增社区预设分享功能",
               "brief": "Snapseed 测试版现已向用户推送多项新功能，包括自定义查找表（LUT）色彩分级支持和从 iOS 移植的动态模糊效果，同时新增景深/人像模糊选项。应用还引入通用自定义预设，允许用户将配置保存为个人“Look”。此外，新增的“社区 Look”库让用户能够互相分享最佳预设，并定期轮换展示以保持新鲜感。开发者已在 Reddit 子版块确认这些功能正在测试版中推出，普通版应用中也可看到相关框架。",
               "source_url": "https://www.androidauthority.com/snapseed-community-looks-3713076/",
@@ -181,33 +202,19 @@
               "source_url": "https://www.androidauthority.com/android-17-qpr1-issues-3713067/",
               "source_name": "Android Authority",
               "published_at": "2026-09-19T03:35:49+08:00"
-            },
-            {
-              "title": "谷歌通讯录或将支持通过VCF文件分享通话名片",
-              "brief": "谷歌通讯录可能很快允许用户无需先通话即可向新联系人分享通话名片。在4.88.28.981523105版本中，谷歌正在为VCF文件添加通话名片分享支持。VCF是存储和分享联系人信息的标准文本格式，用户可将其直接导入手机。目前通话名片仅限联系人或已保存你为联系人的人查看，而新方案将提供第三种分享选项。接收方需安装谷歌通讯录应用才能导入名片数据。该功能尚在开发中，具体上线时间未定。",
-              "source_url": "https://www.androidauthority.com/google-contacts-calling-cards-vcf-support-3713014/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-19T02:10:18+08:00"
-            },
-            {
-              "title": "Android 17 QPR1修复开发者设置检测问题，爱好者受益",
-              "brief": "Android 17 QPR1正向Pixel 6及更新机型推送。该更新不再允许第三方应用查看开发者选项或USB调试是否开启。此前部分应用，尤其是银行类应用，会因设备启用这些设置而拒绝运行。开发者Sameera Wijerahna发布的视频显示，在开启开发者选项和USB调试的Pixel 6a上，多个此前受限的应用现已可正常打开。这一改动解决了长期困扰Android爱好者和开发者的难题，使调试设备时不再受应用兼容性限制。",
-              "source_url": "https://www.androidauthority.com/android-17-qpr1-developer-settings-3713036/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-19T01:42:40+08:00"
-            },
-            {
-              "title": "罗技G502 X Plus降至108美元历史最低价",
-              "brief": "罗技G502 X Plus无线RGB游戏鼠标在亚马逊迎来历史最低价，通过页面优惠券可享107.99美元，较建议零售价159.99美元便宜52美元，折扣达33%。该鼠标采用LIGHTSPEED无线技术和HERO 25K光学传感器，最高支持25,600 DPI，并配备LIGHTFORCE混合光学机械开关。Plus版增加可自定义LIGHTSYNC RGB灯效，保留G502经典多按键布局和可调DPI切换键。关闭RGB续航约130小时，常亮约37小时，适合需要丰富按键和无线性能的玩家。",
-              "source_url": "https://www.androidauthority.com/logitech-g502-x-plus-gaming-mouse-deal-3713044/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-19T01:01:05+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "OpenAI与微软明知会引发网络“末日循环”仍一意孤行",
+              "brief": "《纽约时报》诉OpenAI和微软案中解封的法庭文件显示，两家公司内部文件早已警告其行为正开启损害网络的“末日循环”，并将抓取数据训练模型称为“人类历史上最大的劳动力盗窃”，认为这“彻底嘲弄了合理使用理念”。引人注目的引述多出自微软应用科学总监布伦特·赫克特，但微软发言人回应称这些言论仅代表一名员工的个人观点，并非法律分析，也不代表公司立场。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+              "source_name": "The Verge",
+              "published_at": "2026-09-18T17:07:24-04:00"
+            },
             {
               "title": "弗吉尼亚州长成立AI工作组并限制数据中心",
               "brief": "弗吉尼亚州长阿比盖尔·斯潘伯格签署第22号行政命令，禁止行政部门官员为数据中心项目签署保密协议，要求加快制定噪音法规，并审查数据中心使用的备用发电运营。该命令还设立人工智能工作组，负责评估州政府如何应对弗吉尼亚人面临的风险。此举可能增强当地社区对数据中心开发的发言权，并放缓这个全球数据中心之都所在州的审批速度。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
               "source_name": "The Verge",
               "published_at": "2026-09-18T13:04:51-04:00"
-            },
-            {
-              "title": "好莱坞如何看待AI生存威胁警告",
-              "brief": "在科技行业就人工智能可能毁灭人类发出警告之际，娱乐业劳工组织呼吁公众关注已经发生的事情。各大制片厂对此保持沉默，但好莱坞最大的工会并不认同人工智能末日论。文章探讨了娱乐业劳工团体对AI生存威胁警告的看法，以及他们为何敦促公众将注意力集中在当前实际影响上。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-              "source_name": "The Verge",
-              "published_at": "2026-09-18T12:35:19-04:00"
             }
           ]
         }
@@ -372,32 +372,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "特斯拉Optimus机器人启动量产审厂，多家供应链企业回应",
-              "brief": "消息称特斯拉针对Optimus机器人业务启动量产审厂。按计划，特斯拉今年将下线约5万台Optimus机器人，部署于全球超级工厂，但普通消费者暂无购买渠道。去年9月特斯拉曾在华启动一轮机器人审厂，涉及拓普集团、三花智控、均胜电子等传统汽车供应链企业。拓普集团回应称暂未接到审厂通知，但双方已在直线和旋转执行器、灵巧手执行器等方面合作，机器人部件基地已就绪；均胜电子因保密要求未正面确认；三花智控称不清楚审厂情况，但公司有配合大客户开发机器人关节执行器。马斯克曾表示Optimus生产初期极其缓慢，高产量生产将在2027年展开。",
-              "source_url": "https://www.ithome.com/1/004/343.htm",
+              "title": "Claude Code 新增支持 AI 通用说明书 AGENTS.md",
+              "brief": "Claude Code 从 2.1.277 版本起，若文件夹中没有 CLAUDE.md，将检查并使用 AGENTS.md，用户可在 /config 中切换该行为。CLAUDE.md 是 Claude Code 特有的工作流、MCP、Sub-agent 或命令配置，而 AGENTS.md 旨在让不同工具共享项目级基础规则，可视为所有 AI 都应遵守的通用规则。对普通用户和开发者而言，这能降低工具切换和配置成本，让项目拥有一份统一的使用说明，更换工具、接手项目或参与开源时无需重新配置。",
+              "source_url": "https://www.ithome.com/1/004/351.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T23:28:54+08:00"
+              "published_at": "2026-09-19T06:45:05+08:00"
             },
             {
-              "title": "SpaceX星舰第14次试飞再延期，最早9月28日实施",
-              "brief": "SpaceX星舰第14次试飞再次推迟。9月16日，SpaceX宣布将于当地时间9月22日实施星舰第14次试飞，此次任务中上面级将首次尝试进入地球轨道，若顺利将成为星舰项目重要进展。此前9月12日，美国联邦航空管理局发布通告称，星舰第14次飞行任务计划于9月18日从得州星际基地发射。SpaceX此前多次试飞星舰，但上面级尚未真正进入环绕地球运行的轨道。此次试飞最早可能于9月28日实施，具体时间仍待确认。",
-              "source_url": "https://www.ithome.com/1/004/342.htm",
+              "title": "中老跨境数字支付互联互通启动，数字人民币可在老挝扫码支付",
+              "brief": "中老跨境数字支付互联互通正式启动，这是双方央行行长 2026 年 6 月签署相关谅解备忘录框架下的阶段性成果。数字人民币国际运营中心运营的跨境结算综合服务平台 CBETS 与老挝国家支付网络 LAPNet 完成跨境系统连接，实现数字人民币与老挝当地条码支付互联互通，2025 年底已完成真实交易验证。中国居民可持数字人民币钱包在老挝本地商业银行收单商户扫码支付。部分老挝银行已接入 CBETS，开通新型贸易结算和投融资服务，支持 7×24 小时闭环跨境支付结算。",
+              "source_url": "https://www.ithome.com/1/004/350.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T23:13:04+08:00"
+              "published_at": "2026-09-19T06:42:53+08:00"
             },
             {
-              "title": "极狐阿尔法T7公布安心交付承诺：延期按天补偿现金，上限3000元",
-              "brief": "极狐阿尔法T7公布安心交付承诺，从第22天开始，每多等待1天补偿用户现金150元，上限3000元，以尾款抵扣形式兑现。极狐阿尔法T7大五座SUV于9月16日正式上市，提供增程、纯电两种动力，部分型号搭载华为乾崑智驾ADS 5 Pro，全系标配宁德时代电池，上市补贴价13.28万元起。上市1小时大定锁单超过30000台。新车搭载全球首款5G 4nm车规级芯片和1.1米超宽全景P-HUD，纯电版搭载84.8kWh电池包，增程版标配43.9kWh磷酸铁锂电池包，配备隐藏式激光雷达等27个感知传感器。",
-              "source_url": "https://www.ithome.com/1/004/340.htm",
+              "title": "苹果介绍首款折叠屏 iPhone Duo 设计理念",
+              "brief": "苹果设计团队介绍首款折叠屏手机 iPhone Duo 的设计理念。其机身比例源自国际 A 系列纸张标准，折叠和展开状态保持相同比例，灵感来自人们熟悉的纸质笔记本，目标是在提供更大显示空间的同时保持紧凑便携。铰链阻尼采用可变扭矩曲线，开启初期较轻松，随展开角度增加阻力，提升开合手感。软件方面，苹果希望展开手机像扩展原有设备，保持控件位置和辨识度，展开动画让内屏仿佛从外屏下方延伸出来，并借鉴 Mac、iPad 和 iPhone 的设计理念。",
+              "source_url": "https://www.ithome.com/1/004/349.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T23:09:55+08:00"
+              "published_at": "2026-09-19T06:39:21+08:00"
             },
             {
-              "title": "Stellantis将成2026巴黎车展最大展台，展出60余款车型",
-              "brief": "Stellantis将携旗下阿尔法·罗密欧、雪铁龙、DS、菲亚特、蓝旗亚、零跑汽车、欧宝和标致等品牌参展2026巴黎车展，展出60余款车型，成为最大展台。全球首发车型包括豪华紧凑型SUV DS N°7、全新菲亚特Grizzly、蓝旗亚全新Gamma、零跑B03紧凑型B级纯电动车、零跑高端旗舰SUV D19以及欧宝Corsa GSE。DS N°7提供混动、纯电两种动力，后者最高续航740公里；菲亚特发布Grizzly和Grizzly Fastback两款SUV；蓝旗亚Gamma重返C-UV跨界车市场；零跑B03和D19在欧洲首发；欧宝展示GSE 27FE Formula E赛车最终设计等。",
-              "source_url": "https://www.ithome.com/1/004/339.htm",
+              "title": "苹果发布 Xcode 27.1 首个测试版，支持 iPhone Duo 模拟器",
+              "brief": "苹果发布 Xcode 27.1 首个测试版，为 iOS 应用开发者带来 iPhone Duo 模拟器支持。该版本要求在运行 macOS 26.6 或更高版本的 Apple 芯片 Mac 上使用，同时加入针对 iPhone Duo 更新的 SDK，相应设备模拟器支持调整开合姿态和屏幕方向，方便开发者测试和适配应用。苹果此前透露，iPhone Duo 将首发搭载专为该机设计的 iOS 27.1，之后才会在后续版本中与其他 iPhone 机型的系统版本同步。",
+              "source_url": "https://www.ithome.com/1/004/348.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T22:51:18+08:00"
+              "published_at": "2026-09-19T06:32:56+08:00"
+            },
+            {
+              "title": "因胎压监测软件问题，Jeep 在美召回超 20 万辆汽车",
+              "brief": "因胎压监测系统存在软件问题，Jeep 宣布在美国市场召回超过 20 万辆汽车，将从 29 日起通知相关车主，经销商免费为受影响车辆更新软件。此次召回共涉及 201,976 辆汽车，包括 2024 至 2025 款 Jeep Wagoneer 16,456 辆、2024 至 2026 款 Jeep Grand Cherokee 113,647 辆、2024 至 2026 款 Jeep Grand Cherokee L 57,456 辆，以及 Grand Cherokee PHEV、Grand Wagoneer、Cherokee 等多款车型。",
+              "source_url": "https://www.ithome.com/1/004/347.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-19T06:25:55+08:00"
             }
           ]
         }
