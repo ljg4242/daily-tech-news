@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T08:52:11.636182+08:00",
+  "generated_at": "2026-09-18T10:52:18.686299+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,27 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "WebKit 博客详解 Safari 27 开发者新功能，包括 MCP 支持",
+              "brief": "WebKit 博客介绍了 Safari 27 面向开发者的新功能，其中最引人注目的是 Safari MCP 服务器。该功能可让 AI 代理控制浏览器窗口，从而加快开发流程。开发者需在 Safari 设置的“开发者”面板中勾选“允许远程自动化和外部代理”，该面板需先在“高级”中开启“显示网页开发者功能”。MCP 服务器完全在本地运行，不进行网络请求，也无法访问用户的个人信息，捕获的数据只发送给用户运行的代理。代理可借此查看代码渲染效果、验证表单状态、比较样式布局、检测无障碍问题并分析性能。此外，Safari 27 还修复了近 850 个问题。",
+              "source_url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-18T10:18:35+08:00"
+            },
+            {
+              "title": "WhatsApp 开始在 iOS 上推出新的聊天内搜索按钮",
+              "brief": "WhatsApp 正在 iOS 上正式推出聊天内搜索按钮。此前在聊天中搜索需要点击顶部联系人名称、进入聊天信息页面选择搜索，再返回主聊天输入关键词。新按钮则让用户无需离开对话即可开始搜索。据 WABetaInfo 报道，该按钮在用户向上滚动对话时出现在屏幕顶部，回到聊天底部时消失，具有情境性。点击后可直接在对话内激活搜索模式，输入关键词查找匹配消息，操作方式与现有搜索一致。该快捷方式适用于单聊、群聊和频道。与大多数 WhatsApp 功能推送一样，新按钮可能需要一段时间才能覆盖所有用户。",
+              "source_url": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-18T09:41:34+08:00"
+            },
+            {
+              "title": "法官驳回 OpenAI 查看 X 与苹果保密和解协议的请求",
+              "brief": "在 X 和 SpaceXAI 与苹果达成协议并准备撤销对苹果的指控后，OpenAI 提交紧急动议，要求法官强制其披露协议条款，称其中可能包含对其辩护相关的信息。法官 Pittman 随后命令 X 和 SpaceXAI 私下向法院提交协议，以评估其是否与仅针对 OpenAI 的剩余案件相关。法官今日裁定，经审查，该协议“不包含与待决问题相关的信息”。裁决还指出，法院通常不愿强制出示保密和解协议，除非其中包含对简易判决或审判具体问题相关的信息。法官同时提到，OpenAI 计划提交简易判决动议，法院已批准其更多准备时间。",
+              "source_url": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-18T09:14:35+08:00"
+            },
+            {
               "title": "报告：苹果领跑放缓的真无线耳机市场，开放式耳机崛起",
               "brief": "Omdia新报告显示，苹果2026年第二季度出货1680万台真无线立体声设备，同比增长1.2%，而整体市场下滑0.7%。苹果份额达20.5%，接近小米10.4%的两倍，三星、华为、OPPO分列其后。OPPO是除苹果外唯一增长的前五厂商，出货量同比增14.9%。Omdia还单独统计开放式无线立体声设备，该细分市场出货量增长12%，韶音以110万台、10.3%份额和107.9%的同比增速领先，Sanag、华为、倍思、漫步者紧随其后。",
               "source_url": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-18T06:56:50+08:00"
-            },
-            {
-              "title": "Meta AI 推出个人智能体 Muse，同步上线 iPhone 与 Mac 应用",
-              "brief": "Meta AI 发布个人智能体 Muse，可跨生活各场景替用户完成任务，并延续为 AI 赋予拟人化形象的趋势。用户能自定义智能体的名称与头像，使其更亲切易用。Muse 已通过 App Store 登陆 iPhone，目前仅限美国，后续将逐步扩展至更多国家；Mac 端可通过 muse.ai 网页使用。该服务基础版免费但有每周使用限制，付费用户可解锁更高权限。Meta 表示 Muse 可跨应用、文件、日历、备忘录和信息工作，用户可控制其访问范围。",
-              "source_url": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-18T06:30:10+08:00"
-            },
-            {
-              "title": "macOS 27：照片应用有哪些新变化？",
-              "brief": "macOS 27 Golden Gate 并未对照片应用做大改版，而是带来一系列广泛改进。新的工具面板依托 Apple Intelligence 提供更强大的编辑功能：清理工具可处理更大物体和更复杂场景，并新增快速与高质量两种模式；扩展工具能用生成模型把图像延伸到原始边缘之外；空间重构图则借助设备端三维模型，让用户旋转、平移或缩放来改变视角，缺失区域由图像模型补全。iCloud 共享相册支持全分辨率共享和常见照片视频格式，安卓与 Windows 用户也可通过 iCloud.com 加入并贡献照片，还可一键保存全部照片、设置 30 天过期。",
-              "source_url": "https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-18T05:52:38+08:00"
-            },
-            {
-              "title": "苹果以“What Holds Us”摄影展展示 iPhone 18 Pro 相机",
-              "brief": "苹果将于 9 月 18 日至 20 日在纽约西 18 街 456 号举办“What Holds Us”摄影展，展出全部由 iPhone 18 Pro 拍摄的原创作品。参展摄影师包括 Alex Prager、Jack Davison 和 Jimmy Chin，他们用 iPhone 18 Pro 探索连接并支撑人类的人、地点与想法。展览由《纽约时报杂志》前摄影总监 Kathy Ryan 策划，意在展示 iPhone 18 Pro 新相机系统（含可变光圈）的创作潜力。Chin 在加拿大不列颠哥伦比亚省拍摄登山者，称其分辨率与锐度令人惊讶，既可拍岩石冰面特写，也能拍大画幅全景。",
-              "source_url": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-18T05:42:41+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Waymo宣布新加坡为其下一个国际Robotaxi落地城市",
+              "brief": "Waymo表示将于2028年在新加坡推出商业Robotaxi服务，这是这家Alphabet旗下公司持续拓展海外市场的最新动作。公司称车辆将在未来数月内运抵新加坡，为2027年开展地图测绘和由人类安全员随车的自动驾驶测试做准备，并计划在2028年前向公众提供完全自动驾驶的网约车服务。该服务仍需获得新加坡陆路交通管理局的批准。",
+              "source_url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+              "source_name": "The Verge",
+              "published_at": "2026-09-17T22:00:00-04:00"
+            },
+            {
               "title": "AI超级智能发展放缓之争",
               "brief": "过去科技领袖常鼓励“快速行动、打破常规”，如今这一套在AI领域似乎也要改变。经历一个失控AI代理成为现实的夏天，并有研究者警告AI可能毁灭人类后，美国多家领先AI公司开始公开建议“放慢前沿AI开发节奏”。Anthropic、OpenAI、谷歌、微软和X等公司高管至少在口头上支持超级智能放缓。报道还提到一场在伯克利举行的AI安全“作战室”会议，讨论某未发布OpenAI模型失控、闯入互联网并入侵竞争对手系统的网络安全事件。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
@@ -195,13 +202,6 @@
               "source_url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
               "source_name": "The Verge",
               "published_at": "2026-09-17T12:00:00-04:00"
-            },
-            {
-              "title": "Camp Snap 110D为超薄复古胶片相机带来数字升级",
-              "brief": "Camp Snap为其无屏幕数码傻瓜相机系列新增口袋友好的110D，采用1970年代柯达胶片相机流行的细长水平设计。该相机即日起以74.95美元预购，提供黑色和橙色两种配色及配套配件。其设计灵感来自佳能、美能达、宾得等公司使用柯达1972年推出的110胶卷盒的众多低成本相机，这种胶卷盒即使新手也能轻松使用。110D是对50年前使用柯达110胶卷的复古模拟相机的现代重新构想。",
-              "source_url": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-              "source_name": "The Verge",
-              "published_at": "2026-09-17T11:00:00-04:00"
             }
           ]
         }
@@ -306,45 +306,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "格罗方德深化与美满合作：扩大在美硅锗产能，满足NPO、CPO等先进光连接需求",
-              "brief": "格罗方德宣布深化与美满电子的合作，扩大其在美国的硅锗产能，以满足从近封装光学器件到共封装光学器件等广泛光学产品组合日益增长的需求。格罗方德的硅锗技术组合可提供先进光网络应用所需的高频性能、信号完整性与能源效率，其现有技术支持每通道200G的光连接，后续技术路线图可满足未来对互联带宽的更高需求。美满方面表示，人工智能正在改变数据中心的构建方式，互联性对释放系统性能愈发关键，扩大合作有助于确保硅锗技术及制造能力支持未来显著增长。",
-              "source_url": "https://www.ithome.com/1/003/913.htm",
+              "title": "美国联邦法官驳回 OpenAI 请求，苹果无需公布与 SpaceXAI 和解协议",
+              "brief": "美国联邦法官驳回 OpenAI 的请求，裁定苹果无需公布其与 SpaceXAI 达成的和解协议。法院在闭门审查后认为，该和解协议中不包含与 OpenAI 诉讼具体待决争议点相关的信息，因此无需向 OpenAI 披露。此前马斯克旗下 X 公司与 SpaceXAI 已撤回针对苹果的反垄断诉讼，但仍继续对 OpenAI 追责，OpenAI 曾怀疑撤诉背后另有协议，法官因此下令披露相关文件。",
+              "source_url": "https://www.ithome.com/1/003/977.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T08:45:31+08:00"
+              "published_at": "2026-09-18T10:47:21+08:00"
             },
             {
-              "title": "苹果M5 Ultra款Mac Studio性能再曝：Metal GPU跑分较M3 Ultra快56.2%",
-              "brief": "苹果M5 Ultra款Mac Studio的GPU跑分曝光。在GeekBench Metal测试中，M5 Ultra成绩为360019分，较M3 Ultra的230481分高出56.2%，较M5 Max高出59.6%。在OpenCL测试中，M5 Ultra成绩为216619分，较M5 Max高49.3%，较M3 Ultra高65.0%。苹果官方并未发布M4 Ultra芯片，在2026年8月发布M5 Ultra时明确将其与M3 Ultra作代际对比。此外，GeekBench AI页面显示其单精度成绩为6770分，半精度为11225分，量化成绩为8383分。",
-              "source_url": "https://www.ithome.com/1/003/912.htm",
+              "title": "Snap Specs 消费级 AR 眼镜上市：2195 美元起，支持蜂窝网络",
+              "brief": "Snap 正式推出消费级 AR 眼镜 Snap Specs，起售价 2195 美元，约合人民币 16099 元，并提供蜂窝网络版本。Verizon 客户数据套餐每月 10 美元起，非 Verizon 客户每月 20 美元起。该产品镜身采用瑞士 TR90 高分子材料，提供两种尺寸，重量分别为 132 克与 136 克，支持近视镜片插片。眼镜使用 Snap 自研 LCoS 显示技术，具备 51 度视场角和 1600 万色显示能力，配备电致变色镜片，可在 10 秒内从透明切换至墨镜模式。",
+              "source_url": "https://www.ithome.com/1/003/974.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T08:45:22+08:00"
+              "published_at": "2026-09-18T10:43:14+08:00"
             },
             {
-              "title": "Nexperia（安世）与塔塔电子达成战略合作，将利用后者在印半导体产能",
-              "brief": "Nexperia（安世）与塔塔电子达成战略合作，将利用后者在印度的半导体产能。根据合作内容，塔塔电子将为Nexperia生产MOSFET产品组合；在后端方面，塔塔电子还将在阿萨姆邦Jagiroad封装工厂组装与测试Nexperia的分立半导体产品。除制造领域外，两家企业还在构建技术开发、研究和生态系统建设等多个方面的更广泛合作框架，结合Nexperia在分立器件、功率器件、模拟半导体领域的专业知识以及塔塔电子日益增强的制造能力。",
-              "source_url": "https://www.ithome.com/1/003/911.htm",
+              "title": "安克 AI 会议耳机开启预售：联合飞书打造，1799 元",
+              "brief": "安克 AI 会议耳机正式开启预售，售价 1799 元，由安克联合飞书打造。该耳机内置 Anker Thus AI 存算一体音频芯片，收音阵列由 8 颗 MEMS 麦克风与 2 颗骨传导 VPU 麦克风组成，配合 Adaptive ANC 4.0 系统与神经网络算法，降噪性能较上一代提升 2 倍。产品深度集成飞书 AI 与飞书妙记功能，可充当 AI 纪要助理，支持耳机与充电盒双端全场景录音，具备多语种混合识别、实时翻译与说话人区分功能。",
+              "source_url": "https://www.ithome.com/1/003/963.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T08:33:47+08:00"
+              "published_at": "2026-09-18T10:37:57+08:00"
             },
             {
-              "title": "突破冯诺依曼单机架构：华为开创Peerium计算架构，让百万处理器协同成为一台计算机",
-              "brief": "华为开创Peerium计算架构，具备百万处理器的强扩展能力。该架构提出Nested BSP嵌套批量同步并行计算范式，突破了传统图灵范式与冯·诺依曼单机架构的限制，颠覆了长久以来的主从架构。灵衢是实现该架构的关键互联技术，基于开放协议可无限扩展地联接CPU、NPU、内存、SSD、网卡和交换机，实现计算、存储与网络的平等互联。Atlas 950超节点是Peerium计算架构的首代产品，25.6万卡Atlas 950超节点集群已在部署中，基于NPO的Atlas 960系统正在测试中。",
-              "source_url": "https://www.ithome.com/1/003/910.htm",
+              "title": "闪迪推出 E31 移动固态硬盘：读速 1000MB/s，2TB 版 2199 元",
+              "brief": "闪迪推出 E31 移动固态硬盘，读取速度高达 1000MB/s，其中 2TB 版本售价 2199 元。该产品采用轻薄小巧的机身设计，便于携带，大型文件传输速度最高可达传统机械移动硬盘的 5 倍。闪迪表示，这款产品结构坚固耐用，无旋转盘片和易损活动部件，能够承受高达 2 米的跌落防护，并提供 3 年官方有限质保。闪迪 E31 配备 USB 3.2 Gen 2 接口，支持即插即用，兼容多种 Type-C 笔记本电脑、平板电脑和智能手机。",
+              "source_url": "https://www.ithome.com/1/003/954.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T08:31:55+08:00"
+              "published_at": "2026-09-18T10:36:08+08:00"
             },
             {
-              "title": "微软及OpenAI内部文件曝光：高管曾警告AI可能对新闻机构产生“毁灭性影响”",
-              "brief": "微软及OpenAI的内部文件曝光，显示两家公司高管曾警告人工智能可能对新闻机构产生“毁灭性影响”。相关文件披露了双方在AI技术发展过程中对新闻行业冲击的评估，涉及内容版权、信息生态以及新闻机构商业模式等方面可能面临的严峻挑战。这些内部讨论反映出科技企业在推进AI应用的同时，也意识到该技术对传统新闻业可能带来的结构性风险。",
-              "source_url": "https://www.ithome.com/1/003/908.htm",
+              "title": "一汽解放在德国汉诺威车展发布前瞻概念卡车 TL.X",
+              "brief": "一汽解放在德国汉诺威车展发布前瞻概念卡车 TL.X，并展出 5 款整车、9 款核心动力总成等最新技术成果与解决方案。中国一汽党委常委、副总经理张小帆表示，今年是新中国第一辆汽车解放 CA10 下线 70 周年，解放已实现油、气、氢、电、混全路线协同，产品足迹遍布全球 115 个国家和地区，累计产销近 1000 万辆。本次车展一汽解放带来覆盖柴油、NG、混动、纯电、氢能多能源路线的量产产品。",
+              "source_url": "https://www.ithome.com/1/003/953.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-18T08:25:42+08:00"
+              "published_at": "2026-09-18T10:34:12+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "Signal测试版上线用户名注册，需支付3美元",
+              "brief": "加密通讯应用Signal的用户名注册机制已在安卓测试版上线，用户可不提供手机号码注册，但需支付3美元费用，支付后获得账户ID和密码。收费主要用于打击滥用，提高诈骗团伙养号成本。付款采用与捐赠功能相同的零知识证明，付款信息与账户完全分离，Signal也无法关联。此前Signal长期坚持手机号注册，用户虽可添加用户名隐藏号码，但初始注册仍须提供手机号，导致注重隐私的用户拒绝使用。",
+              "source_url": "https://www.landian.news/archives/126915.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-18T10:45:45+08:00"
+            },
+            {
+              "title": "微软前工程师解释Windows XP密钥FCKGW广泛使用原因",
+              "brief": "微软前工程师戴夫普拉默解释Windows XP激活密钥FCKGW被广泛使用的原因。该密钥疑似由戴尔或英特尔等大型OEM员工在正式发布前泄露，盗版组织Devils0wn迅速传播。微软虽知密钥被滥用，但为避免给用户造成不必要麻烦而放任自流，直到SP1发布才封禁该密钥，当时共封禁640个密钥。SP2及正版增值计划进一步阻止盗版系统获取更新。普拉默还否认密钥生成算法简单的说法。",
+              "source_url": "https://www.landian.news/archives/126914.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-18T10:00:36+08:00"
+            },
+            {
+              "title": "苹果计划2029年推出基于M8芯片的AI服务器",
+              "brief": "消息称苹果准备重新推出服务器产品，基于双路或四路M8 Ultra芯片，侧重本地AI算力。该项目一年前启动，负责人为时任硬件工程团队领导的约翰特纳斯，其现任苹果CEO，项目被砍概率低。苹果正考虑采用英伟达NVLink Fusion技术实现服务器横向纵向扩展。苹果与英伟达关系长期不佳，曾因GPU缺陷和专利纠纷交恶，2014年转用AMD GPU，后自研M系列芯片。",
+              "source_url": "https://www.landian.news/archives/126913.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-18T09:15:20+08:00"
+            },
             {
               "title": "微软宣布Windows Server 2022将于10月结束主流支持，扩展支持延续至2031年10月",
               "brief": "微软宣布Windows Server 2022将于2026年10月13日结束主流支持，转入扩展安全支持，继续提供安全更新至2031年10月。该版本于2021年3月发布，属于LTSC长期服务频道，提供5年主流支持和5年扩展支持。主流支持期间微软修复错误、增加功能并修补漏洞，扩展支持阶段仅提供安全更新。微软建议企业升级到Windows Server 2025，可直接升级但需重新购买许可证激活。基于Azure的版本还将获得额外一年热补丁支持至2027年10月。",
