@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T00:52:56.964925+08:00",
+  "sections": [
+    {
+      "category": "主要",
+      "sources": [
+        {
+          "name": "MacRumors",
+          "articles": [
+            {
+              "title": "Apple Watch Ultra 4 上市后首次降价，亚马逊售价 779.99 美元",
+              "brief": "新款 Apple Watch Ultra 4 于昨日发布，亚马逊随即对部分型号提供首次现金折扣。其中自然色配沙色越野回环表带（M/L）和自然色配沙漠高山回环表带（大号）两个版本降至 779.99 美元，比原价 799 美元便宜 19 美元，为这款全新手表追踪到的最低价。此外，Apple Watch Series 12 也有小幅降价，42mm GPS 版售 389.99 美元，46mm GPS 版售 439.99 美元，均便宜 9 美元，同样是迄今最佳价格。",
+              "source_url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-19T22:46:21+08:00"
+            },
+            {
+              "title": "本周要闻：iOS 27 与 macOS Golden Gate 正式发布，Siri AI 候补名单等",
+              "brief": "上周发布会推出的苹果产品除 iPhone Duo 外均已上市，iPhone 18 Pro 与 Pro Max、Apple Watch Series 12 和 Ultra 4、AirPods 5 于周五开售。现有设备用户也迎来重大升级，iOS 27、macOS Golden Gate 等系统本周正式发布。iOS 27 为多国用户带来全新 Siri AI 能力及多项改进，macOS Golden Gate 则首次将 Siri AI 和视觉智能引入 Mac。苹果已着手准备下月随 iPhone Duo 推出的 iOS 27.1，以及面向所有用户的 iOS 27.2 首批重要改进。",
+              "source_url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-19T21:00:00+08:00"
+            },
+            {
+              "title": "苹果高管谈 iPhone Duo 折痕：请对我们问责",
+              "brief": "苹果硬件工程副总裁 Tom Marieb 接受 TechRadar 采访时谈及即将推出的 iPhone Duo。该机采用哑光纳米纹理显示屏，旨在减少眩光并降低折痕可见度。当被问及折痕是否会随时间变得更明显时，Marieb 表示纳米纹理有助于缓解，并请人们就此对公司“问责”。他称哑光表面不仅美观防眩光，也更能包容铰链随时间的变化。Marieb 还表示对铰链设计“尤其自豪”，团队花费大量时间打磨扭矩曲线，使其开合手感扎实，像高端汽车车门，而非松垮无力。",
+              "source_url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-19T12:51:11+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro Max 运输前需用“准备发货”功能放电",
+              "brief": "iPhone 18 Pro Max 电池容量超过 20 瓦时，因此有额外运输要求。若需寄送，其最大电池容量必须通过固件限制。苹果表示，该机采用“创新电池固件方案”，在出厂到交付用户期间将容量限制在 20Wh 以下，激活后解除限制以释放全部充电容量。未激活或仍在包装盒中的 iPhone 无需此操作。用户因维修、折抵等需寄送时，可使用新增的“准备发货”功能，路径为设置 > 通用 > 传输或还原 iPhone > 准备发货，该功能会将电池放电至 20Wh 以下并设置充电上限。",
+              "source_url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-19T07:28:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Gmail安卓与iOS版新增两步验证码“复制代码”快捷按钮",
+              "brief": "Gmail在安卓和iOS版收件箱中新增了“复制代码”快捷按钮，方便用户快速获取两步验证码。该按钮呈胶囊状，显示“复制代码 000000”，位于邮件主题行下方，类似图片、文档等附件的预览样式。点击后验证码会直接复制到剪贴板，便于在目标应用中粘贴使用。测试中该功能可用于商店和银行邮件。该按钮出现在安卓版Gmail（版本2026.09.07.x）和iOS版（6.0.260907）中，但网页版暂未提供。",
+              "source_url": "https://9to5google.com/2026/09/19/gmail-copy-code/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-19T21:30:00+08:00"
+            },
+            {
+              "title": "macOS版Gemini应用新增iMessage收发消息集成",
+              "brief": "macOS版Gemini应用通过@messages集成，可读取、搜索并发送苹果“信息”应用中的消息。具体功能包括：向联系人或电话号码发送消息，读取近期对话、未读消息并搜索历史记录，从而帮助用户从对话中查找信息作为上下文。示例提示词有“给John发消息：晚5分钟到”“显示Sarah最近的短信”“在信息中搜索晚餐预订”。但该集成无法管理群组成员或更改群聊照片，无法定时发送或编辑已发消息，不能发送文件、照片或媒体附件，仅支持纯文本，也不支持点按回应和在工作流中生成图片。",
+              "source_url": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-19T07:57:24+08:00"
+            },
+            {
+              "title": "Pixelated 117：Googlebook Eve",
+              "brief": "本期Pixelated播客由Bitwarden和Proton Unlimited赞助。听众可通过链接免费开始使用Bitwarden个人版，并了解开源安全峰会；也可通过链接订阅Proton Unlimited年度套餐，享受30%优惠。节目可在YouTube、Pocket Casts、Spotify、Amazon Music、Apple Podcasts、Overcast等平台订阅收听。主持人为Abner Li、Damien Wilde和Will Sattelberg。听众可通过邮箱gtips@9to5g.com、文章评论或联系制片人提供反馈，也可加入官方9to5Google论坛参与更多安卓讨论。",
+              "source_url": "https://9to5google.com/2026/09/18/pixelated-117-googlebook-eve/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-19T04:43:01+08:00"
+            },
+            {
+              "title": "华硕Googlebook泄露图展示大尺寸触控板和丰富接口",
+              "brief": "上月曝光后，新一批图片提供了华硕Googlebook的更多角度。从侧面看，该机至少有两个USB-C接口、两个USB-A接口和一个耳机插孔。键盘看起来并不特别浅，配有指纹传感器，触控板尺寸相当大。机身外部有灯条，屏幕延伸到接近每个角落。其他图片显示，在Windows电脑开始键或MacBook的CMD键位置附近有一个专用的“G”键，该型号还配有风扇。谷歌已确认Googlebook将于下周开启预售，更多细节即将公布。",
+              "source_url": "https://9to5google.com/2026/09/18/asus-googlebook-shows-off-a-big-trackpad-and-plenty-of-ports-in-leaked-images-gallery/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-19T04:25:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "学习外语可能是保持大脑健康的最佳方式之一",
+              "brief": "学习另一种语言是一种高度复杂的脑力活动，需要记忆词汇、辨别陌生语音、识别模式、归纳语法规则，并在恰当时机提取正确表达，同时还要边听边理解并准备回应。研究日益表明，语言学习和双语能力能带来认知益处，对老年人亦然。语言学家指出，大脑终生具有可塑性，学习新语言可锻炼多项心理过程，并创造交流与社会联结的机会，因此可能有助于维持老化大脑的健康。",
+              "source_url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-19T19:10:43+08:00"
+            },
+            {
+              "title": "小天体周围的环在过去十年中发生了变化",
+              "brief": "长期以来，天文学家认为只有巨行星才有环。2013年，一个运行于土星和天王星之间、直径仅约250公里的小暗天体在恒星前方经过时，星光两次闪烁，揭示出两条窄环，令研究者惊讶。此后，桑托斯-桑斯团队利用詹姆斯·韦布空间望远镜再次观测该天体卡里克洛掩星，发现其中一条环变得更密，另一条几乎消失，原因尚不清楚。观测依赖精确预测小天体掩星时刻，通过星光变暗的形状推断其大小、形状与周边环境。",
+              "source_url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-19T18:00:06+08:00"
+            }
+          ]
+        },
+        {
+          "name": "The Verge",
+          "articles": [
+            {
+              "title": "特朗普称希望组建“人工智能部队”",
+              "brief": "特朗普在Truth Social发文称，希望任命一名“人工智能沙皇”来领导新组建的“人工智能部队”。此举正值政界乃至业界呼吁放缓人工智能发展之际。他声称其政府“绝不会以任何方式阻碍或扼杀这一非凡产业的增长”，反而会“珍视、扶助并守护它成长”。在这篇冗长的帖子中，特朗普称数据中心“富有而显赫”，并在没有证据的情况下宣称它们提高了社区薪资、降低了税收、让街道更安全。他还将人工智能部队与自己创建太空部队相提并论，称后者取得“巨大成功”。他未给出时间表或更多细节。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+              "source_name": "The Verge",
+              "published_at": "2026-09-20T11:39:22-04:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "更多",
+      "sources": [
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "扎克·克雷格称《生化危机》不存在“克雷格剪辑版”，影迷盼删减笑料",
+              "brief": "《生化危机》真人版上映后，观众发现片中笑料比预期更多，引发讨论。导演扎克·克雷格在采访中表示，他“满意”这些被保留的笑点，并回应网上“放出克雷格剪辑版”的呼声，称当前上映版本就是克雷格剪辑版，被删掉的反而是那些笑话。他强调影片首先必须是恐怖片，穿插轻松时刻可以，但不会怀念任何被删的笑料。部分影迷赞赏影片意外轻松的基调，也有人希望删掉更多笑话，甚至称其为恐怖喜剧。",
+              "source_url": "https://www.ign.com/articles/zach-cregger-suggests-theres-no-cregger-cut-of-resident-evil-as-fans-hope-to-see-trimmed-jokes",
+              "source_name": "IGN",
+              "published_at": "2026-09-20T23:10:45+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "微软用AI智能体将Copilot运行时从TypeScript移植到Rust",
+              "brief": "微软借助使用GPT-5.6 Sol和Claude Opus 4.8的AI智能体，历时14.5周、花费12万美元token，将Copilot运行时从TypeScript移植到Rust。项目按模块逐个更新，共发布135次，平均每天约1.3个Pull Request，最终把43万行TypeScript代码转为80万行可用于生产的Rust代码。测试显示，原TypeScript代码每秒完成7.55个单轮会话生命周期，Rust版本达120个，特定工作负载下速度提升15.9倍；含10个客户端的智能体内存占用从1383MB降至126MB，且任务保持进程内执行，无需启动外部后台进程。",
+              "source_url": "https://www.solidot.org/story?sid=85433",
+              "source_name": "Solidot",
+              "published_at": "2026-09-20T23:09:59+08:00"
+            }
+          ]
+        },
+        {
+          "name": "小众软件",
+          "articles": [
+            {
+              "title": "GitHub 上发现的 10 款免费小工具",
+              "brief": "本文介绍了 10 款在 GitHub 上发现的免费小工具，涵盖命令行历史搜索、AI 产品宣传视频制作、3D 打印机改造、内网穿透文件分享、AI 写作去味、间谍卫星模拟、C 盘清理与软件迁移、Moonlight 服务端替换以及手机变电脑麦克风等用途。其中 Atuin 可搜索并同步 shell 命令行历史，video-shotcraft 借助 AI 生成产品演示视频，PolyCut 让 3D 打印机绘图裁切，zrok 提供每日 5GB 流量的文件分享，avoid-ai-writing 可检查并改写 AI 味文本。",
+              "source_url": "https://www.appinn.com/10-useful-github-tools-26919/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-19T17:55:47+08:00"
+            },
+            {
+              "title": "HTTPS Capture：iPhone、iPad、Mac 抓包与 API 调试工具终身限免",
+              "brief": "HTTPS Capture 是一款支持 iPhone、iPad 和 Mac 的抓包与 API 调试工具，目前在 App Store 终身限免，但未上架国区。它支持 HTTPS 解密、局域网抓包、API 调试、URL 重写、JS 脚本、Mock、Hosts、断点调试、WebSocket、Protobuf、HAR 导出、请求对比、上游代理、TLS 指纹识别，以及 21 款开发者工具。同一 Wi-Fi 下的其他设备可将代理指向运行该应用的设备进行抓包分析。Mac 版要求 macOS 14.0+ 且为 Apple M1 或更新芯片。",
+              "source_url": "https://www.appinn.com/https-capture-for-apple/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-19T14:06:40+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IT之家",
+          "articles": [
+            {
+              "title": "IT之家专访苹果iPhone营销副总裁凯安·德兰斯：iPhone Duo追求最终用户体验",
+              "brief": "苹果iPhone营销副总裁凯安·德兰斯在上海接受IT之家专访，谈及iPhone Duo与iPhone 18 Pro的设计理念。她表示iPhone 18 Pro的可变光圈可自动调整进光量，让普通用户也能拍出清晰、有景深效果的照片；A20芯片基于2nm制程，CPU性能提升20%、GPU提升高达40%，神经网络引擎核心数翻倍至32个。对于iPhone Duo，她称其拥有所有iPhone中最大的显示屏，折叠后可单手放进口袋，重新设计的iOS带来流畅直观的多任务体验，苹果追求的是最终用户体验，而不仅仅是为了技术。",
+              "source_url": "https://www.ithome.com/1/005/013.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-20T23:38:01+08:00"
+            },
+            {
+              "title": "智谱MaaS平台上线数据内容不留存机制，用户可申请开通",
+              "brief": "智谱MaaS平台上线数据内容不留存机制，企业和开发者可通过MaaS控制台提交开通申请，具体生效时间及适用范围以平台确认结果为准。公告指出，该功能并不意味着任何情形下都不留存数据。Batch API、File API等需要在平台侧持久化保存任务或文件的功能不在覆盖范围内；法律法规要求留存，或为核查涉嫌违规、滥用行为的情况，平台可能按有关要求留存相关数据30天及以上。此前针对社区有关代码库数据上传的讨论，智谱旗下编程产品ZCode已致歉并称相关问题已修复，将开源代码库、引入第三方审查。",
+              "source_url": "https://www.ithome.com/1/005/012.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-20T23:26:55+08:00"
+            },
+            {
+              "title": "九号电动Fz5 130“猎装神车”9月24日开售，采用高强度围栏式车架",
+              "brief": "九号电动Fz5 130将于9月24日开售，定位“猎装神车”，采用高强度围栏式车架。整车尺寸1787mm×732mm×1099mm，离地间隙220mm，轴距1245mm，配备合金钢双管车架、高抓地轮胎，支持整车IPX5级防水。作为参考，在售Fz5 110搭载400W九号定制12寸无刷电机，采用48V 30Ah锂电池，理论续航100km，实景续航59.5km，最高速度25km/h。智能化方面，Fz5搭载RideyFUN智驾系统，标配ALC全境光幕照明系统、BMS 6.0智能电池管理系统、SOS紧急呼叫、整车OTA升级、GPS+北斗+基站三重定位、丢失模式、AHRS姿态感应防盗、自动锁车、定速巡航、应急骑行模式、双向转把、玩家模式等功能。",
+              "source_url": "https://www.ithome.com/1/005/011.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-20T23:15:38+08:00"
+            },
+            {
+              "title": "贾跃亭的法拉第未来一次发布九款配置EAI机器人，最贵超92万元",
+              "brief": "法拉第未来发布五大型号、九款配置EAI机器人本体新品，以及K-12教育、科研、安防和巡检四套行业生产力解决方案。新品覆盖人形和四足两大形态及Futurist、Master、Aegis三大系列。旗舰All-New Futurist拥有51个主动自由度，Ultra版搭载NVIDIA Jetson Thor，算力700 TOPS，标准版售价89,900美元，Ultra版129,900美元。Master Mini系列起售价9,990美元，面向教育及运动竞技。Aegis系列新增轻量、中型和大型轮足产品，其中Aegis Hyper起售价137,900美元，约合92.6万元人民币。官方称FF EAI机器人世界升级至2.0。",
+              "source_url": "https://www.ithome.com/1/005/010.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-20T23:10:23+08:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
