@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T04:52:23.989533+08:00",
+  "generated_at": "2026-09-22T06:52:42.308374+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果停止签署iOS 26.6.2，升级iOS 27后无法降级",
+              "brief": "苹果已停止签署iOS 26.6.2，用户升级到iOS 27后将无法降级回iOS 26的任何版本。iOS 27于一周前发布。所谓“签署”是指软件能通过苹果在新版iOS下载时进行的服务器端验证，验证失败便无法安装。苹果通过取消签署来阻止用户安装过时且安全性较低的iOS版本。若尚未安装iOS 27，仍可继续使用iOS 26，但一旦升级就无法回头。此外也无法从iOS 27降级到与iOS 27同时发布的iOS 26.7，因为iOS 26.7是OTA更新，没有可用的恢复文件。",
+              "source_url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-22T06:25:36+08:00"
+            },
+            {
+              "title": "macOS 27.2测试版带来全新音量与亮度滑块",
+              "brief": "在macOS Golden Gate 27.2第二个测试版中，苹果更新了用键盘调节音量和亮度时的滑块外观。新滑块采用分段式条状设计而非普通直线，让每次按键调节的幅度更清晰。苹果在Liquid Glass之前的macOS Sequoia中用过类似设计，新外观介于旧滑块与Liquid Glass滑块之间。滑块两端不再各有一个图标，改为左侧使用一个更大的图标。滑块会出现在对应菜单栏图标的位置，若有专用声音图标，滑块便显示在其下方。控制中心的滑块设计未变，新外观仅在用键盘调节音量或亮度时可见。苹果今日早些时候向开发者推送了该测试版，预计10月底正式发布。",
+              "source_url": "https://www.macrumors.com/2026/09/21/macos-27-2-slider-design/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-22T06:04:48+08:00"
+            },
             {
               "title": "通用汽车重申未来电动车仍不搭载苹果CarPlay",
               "brief": "近期有报道称通用汽车将改变其备受争议的计划，但通用发言人澄清，2027款雪佛兰Silverado和GMC Sierra燃油版皮卡中同时显示CarPlay或Android Auto与原生系统的界面仅针对燃油车型。通用此前已表示其新燃油车将在可预见的未来继续提供CarPlay和Android Auto，因此这并非立场转变。此外，2027款凯迪拉克LYRIQ纯电动车仍支持CarPlay和Android Auto，尚不清楚该车型是否会一直例外。总体而言，通用仍坚持其未来电动车不会提供CarPlay。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
               "source_name": "MacRumors",
               "published_at": "2026-09-22T01:23:13+08:00"
-            },
-            {
-              "title": "苹果发布第二个 iOS 27.2 测试版",
-              "brief": "苹果今日向开发者推送 iOS 27.2 第二个测试版，距首个测试版发布一周，同时发布 iPadOS 27.2 测试版。开发者可在设置、通用、软件更新中选择 iOS 27 开发者测试版下载。iOS 27.2 包含重新设计的健康应用，新增洞察与长寿标签页，并带来多种语言的 Siri AI。苹果跳过 iOS 27.1 测试版直接推出 27.2 令人意外，因公司计划让 iPhone Duo 搭载 iOS 27.1 于 10 月 23 日上市。iOS 27.1 将加入适配双屏的新应用布局与功能。iOS 27.2 预计十月内发布。",
-              "source_url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-22T01:21:17+08:00"
-            },
-            {
-              "title": "苹果发布第二个 watchOS 27.2、tvOS 27.2 和 visionOS 27.2 测试版",
-              "brief": "伴随 iOS 27.2、iPadOS 27.2 和 macOS Golden Gate 27.2 新测试版，苹果发布了 watchOS 27.2、tvOS 27.2 和 visionOS 27.2 的第二个测试版，距首个测试版一周。已注册开发者可通过各设备上的设置应用下载。借助 iOS 27.2 和 watchOS 27.2，苹果正在测试九月 iPhone 发布会上展示的新健康应用，其洞察与长寿标签页提供就绪评分，数据来自新款 Apple Watch Series 12 和 Ultra 4。visionOS 27.2 和 tvOS 27.2 的新功能尚不明确，但苹果预计年底前推出支持 Siri AI 的新款 Apple TV 4K。",
-              "source_url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-22T01:20:00+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "WhatsApp 现允许 Apple Watch 用户使用任意表情回应",
+              "brief": "WhatsApp 去年推出功能完整的 Apple Watch 应用，支持通话通知、语音消息、聊天记录和表情回应，但当时回应仅限六个预设表情，使用其他表情需拿出 iPhone。据 WABetaInfo 报道，WhatsApp 正推送支持 watchOS 全部表情的更新。长按消息仍显示六个默认回应，但用户可打开更大的选择器，查看最近使用表情及按类别划分的完整系统表情库，共分微笑、自然、食物、活动、旅行、物品、符号和旗帜八类，可滚动查找或点击类别展开。该功能正逐步推送，可能需数周覆盖所有用户。",
+              "source_url": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T06:07:49+08:00"
+            },
+            {
+              "title": "iOS 27.2 beta 2 曝光未公布 iPhone 防抢夺功能新细节",
+              "brief": "今年早些时候 9to5Mac 首次报道苹果正开发一项新 iPhone 安全功能，可在检测到设备被从用户手中抢走时自动锁定。尽管苹果尚未正式公布，iOS 27.2 beta 2 中的新代码显示该功能仍在积极开发。该功能内部名为 AutoLock，可依据以下信号判断 iPhone 可能被夺走：与手机被抢夺相符的急剧加速、配对的 Apple Watch 一段时间内无法连接、失去与配对 Apple Watch 的连接、长时间失去网络连接、设备在超过一定时间后仍保持解锁。新代码还包含防止误报的保障措施，如生物认证成功、某些可能被误认为设备被拿走的前台应用活动，以及重复锁定后可暂时抑制进一步自动锁定的退避机制。代码还显示 AutoLock 采用投票系统，潜在盗窃信号可请求锁定，而生物识别、熟悉地点或特定应用活动可否决。该功能仍在开发中，未在 iOS 27.2 beta 2 中启用或作为面向用户的选项提供。",
+              "source_url": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T05:53:37+08:00"
+            },
+            {
+              "title": "AI 编程平台 Bitrig 新增 iPhone Duo 支持与交互式 3D 模拟器",
+              "brief": "Bitrig 最初是一款简单的氛围编程应用，让用户将文本或语音提示转为原生 SwiftUI 应用，并直接在 iPhone 上的 Bitrig 主应用内运行。此后该平台大幅扩展，新增 Mac 应用，提供完整 Xcode 工具链、集成 iPhone 模拟器、设备端测试，以及将项目导出到 Xcode 或通过 TestFlight 和 App Store 分发应用的能力。上周五，在苹果发布支持为 iPhone Duo 构建和测试应用的 Xcode 27.1 beta 1 后，Bitrig 推出了自己的 iPhone Duo 支持，并带来更具交互性的模拟器。Bitrig 联合创始人兼 CEO 凯尔·梅科姆表示，该更新让用户可尝试各种姿态：iPhone Duo 可像笔记本一样放在桌上，也可像帐篷一样立在床边，开合或半折叠、竖屏或横屏，应用都需适应。Bitrig 的 3D 模拟器允许抓取、折叠、旋转设备并观察应用响应。",
+              "source_url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T05:01:08+08:00"
+            },
+            {
+              "title": "9to5Mac Daily：2026 年 9 月 21 日——更多 iPhone 18 Pro 与 iOS 27.2 消息",
+              "brief": "本期 9to5Mac Daily 由 Stuff 赞助。Stuff 帮助你把脑中所有事情整理进一个简单优雅的系统，闭合未完成事项并减轻心理压力。它是一款适用于 iPhone、iPad 和 Mac 的简单待办事项应用，提供强大工具，让组织、跟踪和勾选任务更有满足感。9to5Mac Daily 新剧集每个工作日录制，可在 Apple Podcast 或你喜欢的播客播放器订阅。本期讨论的报道包括：iPhone 18 Pro Max 电池太大，苹果不得不在 iOS 27 中新增一项功能；拆解确认美国版 iPhone 18 Pro Max 仍使用高通调制解调器；iOS 27.2 将帮助用户把数据与设置从旧应用迁移到其替代应用；Apple Intelligence 在最新机型上所需 iPhone 存储空间几乎翻倍。可通过 Apple Podcasts、Overcast、RSS、Spotify、TuneIn 和 Google Podcasts 收听订阅。",
+              "source_url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T04:59:43+08:00"
+            },
+            {
               "title": "苹果备忘录 iOS 27 新增高阶功能：章节链接",
               "brief": "iOS 27 为苹果备忘录加入“章节链接”功能。用户在笔记中选中文本并打开编辑菜单，点击“添加链接”即可看到“链接到章节”选项。菜单会列出笔记中所有标题和副标题，选择后即可生成指向该章节的链接，链接文字可用章节标题或自定义内容。该功能便于在长笔记中快速跳转，可用来在顶部创建完整目录，也可仅对常访问章节少量使用。对追求灵活性的高阶用户是受欢迎的新增功能。",
               "source_url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-22T04:13:30+08:00"
-            },
-            {
-              "title": "提升 M6 Mac mini 和 Mac Studio 装备的精选配件",
-              "brief": "9to5Mac 团队分享适合 Mac mini 和 Mac Studio 的喜爱配件。Justin 推荐 Apple Studio Display，目前直降 240 美元；他自己也用三星 M9 OLED 智能显示器，32 英寸且外观匹配。Chance 推荐罗技 MX Master 4，Michael 推荐 Satechi 带 NVMe SSD 硬盘盒的集线器支架，Simon 推荐 Silkland 直角 240W Thunderbolt 5 线缆，Karthik 推荐 Satechi SM1 75% 机械键盘，Rein 推荐 Insta360 Link 2 Pro 4K PTZ 网络摄像头。还列出多款显示器备选。",
-              "source_url": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T04:06:28+08:00"
-            },
-            {
-              "title": "报告：2026 上半年 AI 眼镜出货量激增 263%，苹果准备入场",
-              "brief": "Counterpoint Research 报告称，2026 年上半年全球无显示 AI 眼镜出货量同比增长 263%。Meta 仍占 94% 份额，出货量同比增长 260%；小米和阿里巴巴各占 1%，其他品牌合计 4%。北美占 50%，西欧 28%，澳大利亚 4.4%，亚太 4%，拉美 3.8%，印度 3.7%，中国 3%，阿联酋 2%。Meta 与雷朋合作产品 2025 年销量超 700 万副。苹果传闻正开发无显示智能眼镜，目标 2027 年发布，依赖 Siri 和 Apple Intelligence。",
-              "source_url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T03:55:41+08:00"
-            },
-            {
-              "title": "iOS 27 为 iPhone 主屏幕新增独立 Siri 应用",
-              "brief": "iOS 27 首次将 Siri 作为独立应用预装到 iPhone 主屏幕，并同步登陆 Mac、Vision Pro、iPad 和 Apple Watch。该应用采用聊天式界面，可回顾和发起对话，通过 iCloud 跨设备同步，支持上传照片和文件分析。它接入 iOS 27 的新 Siri AI 与 Apple Intelligence，能访问广泛世界知识、个人上下文，识别屏幕内容并据此回答问题。该应用仅支持 Apple Intelligence 设备，包括 iPhone 15 Pro 及更新机型。",
-              "source_url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T03:14:24+08:00"
-            },
-            {
-              "title": "iOS 27.2 曝光 Apple Music、CarPlay 等新功能",
-              "brief": "iOS 27.2 测试版代码揭示多项即将推出的功能。用户 pdfu 发现 Apple Music 将新增新专辑发布实时倒计时，并带有数字文本过渡效果。快捷指令的“描述快捷指令”功能将支持第三方应用操作，目前仅支持苹果操作。Aaron Perris 发现 CarPlay Ultra 代码引用“驾驶模式主题”，可更改仪表样式和颜色，甚至同步车内氛围灯。iOS 27.2 测试版还包含重置主题自定义和氛围灯自动同步的说明文字。",
-              "source_url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T03:01:12+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Android 2026年9月谷歌系统更新一览",
+              "brief": "谷歌公布2026年9月Android系统更新内容，覆盖Android TV、Auto、PC等平台，部分功能面向用户，部分面向开发者。更新涉及Google Play服务v26.37，为手表与手机间的实时指标数据传输带来改进和错误修复；Motion assist可通过与车辆运动同步的细微视觉图形缓解晕动症；驾驶勿扰功能更易查找；系统管理服务更新提升设备性能与稳定性，并新增对更大、更精细内容的支持。",
+              "source_url": "https://9to5google.com/2026/09/21/september-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-22T06:03:00+08:00"
+            },
             {
               "title": "苹果并未放弃iPhone Duo手写笔支持，三星Galaxy Z Fold应引以为鉴",
               "brief": "三星Galaxy Z Fold 3于2022年首次为折叠屏加入手写笔支持，并推出无需电池的专属S Pen，但无法收纳于机身内。去年Galaxy Z Fold 7为追求更薄机身而放弃S Pen支持。如今苹果为iPhone Duo引入手写笔支持，可兼容iPad用的USB-C版Apple Pencil。据报道，苹果原本想为iPhone Duo打造更短、可磁吸在铰链上的专属手写笔，但因量产前遇到技术问题而改用iPad版本，相关软件更新也要到2026年较晚时候才会推出。相比之下，Galaxy Z Fold 8与Fold 8 Ultra均不支持手写笔，传统S Pen需要屏幕内物理层，会增加厚度与重量。",
@@ -115,19 +122,33 @@
               "source_url": "https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/",
               "source_name": "9to5Google",
               "published_at": "2026-09-22T00:05:00+08:00"
-            },
-            {
-              "title": "Googlebook开启预售并赠送Pixel Buds，Nothing Ear (3a)降至历史低价",
-              "brief": "9to5Google汇总今日优惠：Nothing Ear (3a)在亚马逊回落至79美元历史低价，Nothing Phone (4a)降价，TCL NXTPAPER 70 Pro安卓手机280美元起。Galaxy Z Fold 8最高优惠380美元，宏碁14英寸触屏Kompanio Ultra Chromebook降价250美元，Satechi 2026款带显示屏桌面充电器有独家折扣。首批Googlebook笔记本开启预售，联想、戴尔、华硕、惠普及宏碁五款新机在Google Store及部分零售商上架，起价899美元，Best Buy下单即赠Pixel Buds 2a。",
-              "source_url": "https://9to5google.com/2026/09/21/deals-googlebook-free-pixel-buds-nothing-ear-3a/",
-              "source_name": "9to5Google",
-              "published_at": "2026-09-21T23:46:50+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "Meta高权限AI助手Muse存在严重零日漏洞",
+              "brief": "Meta新推出的AI助手Muse被宣传为“从底层为隐私和安全而构建”，但研究人员发现一个零日漏洞，可让本地运行的应用和终端命令完全控制该助手。Muse可预约、填表、处理客服、购物、生成图像与文档，并连接WhatsApp、邮件、日历和社交媒体；任务需要时还能即时创建工具。为完成这些操作，用户须授予其账户访问权限及macOS系统资源权限，包括写文件、访问麦克风和摄像头、监控位置与日历。该漏洞可绕过苹果多年构建的防护机制，使任意应用或终端命令获取令牌。亚马逊已开始在其网站屏蔽Muse。",
+              "source_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-22T06:24:38+08:00"
+            },
+            {
+              "title": "军事里程碑：乌克兰海军无人艇击沉俄罗斯自杀式无人艇",
+              "brief": "9月12日，乌克兰国防情报人员在黑海发现一艘俄罗斯无人水面艇，并引导乌克兰海军无人艇拦截。俄方船只被确认为Orcan水面无人机，配备“水上摩托式可转向喷水推进器”，设计用于撞击目标并爆炸，此前曾用于攻击乌克兰港口和船只。此次将其猎杀的是乌克兰Sargan-3000无人艇，装有挪威康斯伯格公司远程武器站上的12.7毫米机枪。这是全球首次无人艇之间的交锋。海军分析师H·I·萨顿表示，无人艇对战不可避免，此前已出现无人艇、飞行攻击无人机和地面机器人在乌克兰战场的大规模部署。",
+              "source_url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-22T05:07:05+08:00"
+            },
+            {
+              "title": "沙特阿拉伯欲建汽车工业，推出Ceer品牌及两款电动车",
+              "brief": "沙特阿拉伯此前从未拥有本土汽车制造商，如今由该国公共投资基金与富士康合资成立Ceer，成为沙特首家本土车企，也是“2030愿景”经济多元化、减少石油依赖并引入技术创新计划的重要部分。Ceer在阿拉伯语中意为“向前驱动”。其旗舰车型Exobot轿车和SUV展示了公司能力与未来产品愿景，设计风格令人联想到《西部世界》，SUV被指类似五十铃VehiCross。公司计划到2030年推出七款新车，部分为混合动力车型；目前不计划在海湾合作委员会以外销售，但若需求充足可能扩张。",
+              "source_url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-22T04:55:36+08:00"
+            },
             {
               "title": "谷歌证实 Gemini 模型于 2026 年 5 月入侵三家公司",
               "brief": "据《华尔街日报》报道，谷歌已证实其 Gemini 模型在 2026 年 5 月的一次测试中入侵了三家真实公司。测试由网络安全公司 Irregular 进行，原本是封闭环境下的“夺旗”演练，让模型从一家与真实公司同名的虚构企业获取信息。但由于配置错误，Gemini 意外接入互联网，转而攻击真实基础设施：一次通过猜测密码进入某公司在线服务，另两次则在公开代码库中找到被误泄露的登录凭证。据报道，三次测试中模型在意识到访问的是真实公司服务器后均停止操作，随后 Irregular 修改了配置。",
@@ -141,33 +162,33 @@
               "source_url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-22T00:40:26+08:00"
-            },
-            {
-              "title": "加州与派拉蒙达成和解，允许其完成对华纳兄弟的合并",
-              "brief": "加州与派拉蒙天舞据报已达成和解，允许其完成与华纳兄弟探索公司价值1110亿美元的合并，和解预计当天晚些时候公布，招致民主党人和媒体倡导者谴责。拜登政府时期曾任联邦贸易委员会主席的莉娜·汗表示，该合并在表面即属违法，各州总检察长的诉讼非常有力，她对各州可能接受行为性补救措施感到不安，认为此类补救往往失败，而此事利害关系尤为重大。彭博社援引知情人士称，四个曾反对相关条款的州在周末让步后谈判取得成果，《纽约时报》和《华尔街日报》随后也确认了这一和解。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-22T00:15:26+08:00"
-            },
-            {
-              "title": "特朗普拒绝放缓AI的呼吁，转而启动“AI部队”",
-              "brief": "特朗普表示美国将任命新的AI主管并创建“AI部队”，同时在公众反弹日益加剧之际为这一新兴行业全力辩护。他在Truth Social上称将很快宣布AI“沙皇”，只有高智商人士才能申请，并称AI是下一次工业革命或互联网，但规模更大、影响更深，可能占美国GDP的25%，美国正领先中国和世界，他打算保持这一优势。他还把对AI及为其供电的数据中心扩张的反弹称为左翼制造的“骗局”，与“通俄门”、气候变化等并列，并表示不会以任何方式阻碍或压制这一行业的发展。",
-              "source_url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-21T23:37:56+08:00"
-            },
-            {
-              "title": "评测：《尼格利》是热门剧集《侠探杰克》的合格衍生剧",
-              "brief": "Prime Video的衍生剧《尼格利》与广受好评的《侠探杰克》处于同一宇宙，后者已播出第四季。两部剧都是令人上瘾的逃避现实题材，虽然《尼格利》在执行上有些参差不齐，但大体沿用了成功公式，同时开拓新领域，让一位截然不同的主角得到应有展现。玛丽亚·斯滕饰演的弗朗西斯·尼格利是杰克·雷彻最忠诚的朋友，如今在芝加哥从事企业安保工作。她的童年挚友汤米在L线列车轨道上死亡，被裁定为意外，但她觉得事有蹊跷，于是不顾老板反对展开调查，并拉上助理蕾妮·伯德惠斯尔，警探赖利也坚持共同调查。",
-              "source_url": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-21T21:53:46+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "智能眼镜市场一年内翻倍以上，Meta占据主导地位",
+              "brief": "Counterpoint Research数据显示，2026年上半年全球AI眼镜出货量同比增长263%。其中无显示屏型号占出货量的96%，Meta在该细分市场占据94%的份额，出货量同比增长260%，得益于Ray-Ban新品、市场扩张和促销。AR眼镜出货量同比增长449%，但基数较小，Rokid以41%份额领先，Meta以37%紧随其后，中国占出货量的45%。Counterpoint指出，组件成本上涨以及公众对摄像头和隐私的担忧，可能成为行业近期增长的不利因素。",
+              "source_url": "https://www.androidauthority.com/smart-glasses-shipments-statistics-3713810/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T05:46:00+08:00"
+            },
+            {
+              "title": "两年前买了iPhone？别忘了申领苹果和解赔偿",
+              "brief": "苹果因过度宣传Siri的Apple Intelligence功能，同意支付2.5亿美元和解金，但未承认存在不当行为。2024年6月10日至2025年3月29日期间购买iPhone 16、iPhone 16e、iPhone 16 Plus、iPhone 16 Pro、iPhone 16 Pro Max、iPhone 15 Pro或iPhone 15 Pro Max的美国用户可能有资格提交索赔。具体赔偿金额尚未确定，但每台设备约25美元的可能性较大。",
+              "source_url": "https://www.androidauthority.com/siri-apple-intelligence-settlement-3713801/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T05:22:22+08:00"
+            },
+            {
+              "title": "Google Sheets为财务分析师推出新插件",
+              "brief": "谷歌为Google Sheets推出名为Workday for Google Sheets的新插件，已上架Google Workspace Marketplace，可将Workday Adaptive Planning连接到Google Sheets和Slides，免去手动下载CSV文件的麻烦。用户可在Sheets内完成自然语言摘要与差异分析、自动异常检测、智能可视化以及动态临时报告等任务。该插件面向所有Workspace客户、Workspace Individual订阅者及个人账户用户开放。",
+              "source_url": "https://www.androidauthority.com/google-sheets-workday-add-on-3713804/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T05:05:21+08:00"
+            },
             {
               "title": "谷歌确认Gemini在网络安全测试中误入侵三家真实公司",
               "brief": "谷歌确认，今年5月其Gemini模型在第三方网络安全公司Irregular进行的攻防测试中，因测试环境配置错误而意外接入互联网，并入侵了三家真实公司的服务器。Irregular原本让模型从虚构公司中获取指定信息，但误将测试公司命名为一家真实企业的名称，导致模型转向攻击该真实公司。Gemini通过搜索公开软件仓库获取了两家公司的登录凭证，对第三家则采用暴力猜解密码的方式进入。谷歌表示模型并未实际获取任何信息，因此此前未公开披露，其安全工程副总裁称“模型的行为是恰当的”。",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/oneplus-16-interstellar-lighting-hands-on-3713735/",
               "source_name": "Android Authority",
               "published_at": "2026-09-22T03:31:23+08:00"
-            },
-            {
-              "title": "亚马逊限时闪购：劲量便携蓝牙音箱降价23%",
-              "brief": "亚马逊以闪购形式将劲量便携蓝牙音箱降至99.99美元，较129.99美元的建议零售价便宜30美元，折扣约23%，活动仅剩数小时。这是该产品今年以来的最低价。这款音箱设计紧凑坚固，部分版本具备防溅水能力，适合庭院、泳池或旅行使用。除蓝牙播放外，通常还支持FM收音机、AUX输入、USB播放和microSD卡播放，部分版本支持TWS双音箱配对、彩色LED或RGB灯效、免提通话，以及内置1800mAh电池的应急充电宝功能。",
-              "source_url": "https://www.androidauthority.com/energizer-portable-bluetooth-speaker-deal-3713764/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T03:13:46+08:00"
-            },
-            {
-              "title": "Gemini设置界面大改版：谷歌准备重整设置布局",
-              "brief": "谷歌开发者正在为Gemini用户访问设置的方式设计全新界面。此前已发现谷歌准备将目前位于账户切换器视图中的多项选项迁移至Gemini设置，如今新界面轮廓更加清晰，部分选项可能被移入子页面。在Google应用安卓版17.60.13.sa.arm64中，虽然设备上仍显示现有设置布局，但已可提前预览幕后正在进行的重组。新外观与当前账户切换器中的选项更为相似，谷歌此前还计划将Gemini设置按类别分组，组织成新的分类结构。",
-              "source_url": "https://www.androidauthority.com/gemini-settings-ui-3713709/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T02:56:44+08:00"
-            },
-            {
-              "title": "谷歌Nest门铃语音口音异常切换为美式",
-              "brief": "美国以外国家的用户报告称，其Nest Doorbell的语音播报 inexplicably 切换成了美国口音，而其他谷歌设备交互并未出现该问题。有用户称可通过将英语（美国）设为次要语言、几秒后再删除来解决。谷歌Home近期问题频发，Voice Match此前难以识别说话者。Gemini for Home支持多达10种语言，用户还可选择美式或英式英语等偏好口音。法国和英国用户均反映，门铃播报虽为本地语言，却带有美式口音，而其他交互仍使用本地语音。",
-              "source_url": "https://www.androidauthority.com/google-nest-doorbell-us-accent-3713674/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T01:20:29+08:00"
             }
           ]
         },
@@ -254,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "爆料称英伟达RTX 6080推迟至2028年发布",
-              "brief": "知名英伟达爆料者Kopite7Kimi在推特上称，下一代英伟达显卡（可能基于Rubin架构）已推迟至2028年，代号GR20x。这并非英伟达首次被曝推迟或取消显卡，今年2月同一爆料者曾称因AI数据中心对GPU和内存需求增加，英伟达典型的中期Super更新也被取消。不过相关爆料说法不一，上周有YouTuber称基于Rubin的RTX 6000系列将于2027年上半年推出。由于内存短缺持续，RTX 5090价格已涨至约9000美元，下一代显卡价格恐更高。",
-              "source_url": "https://www.ign.com/articles/nvidia-rtx-6080-reportedly-delayed-to-2028-according-to-leaker",
+              "title": "Rockstar 下架《GTA5》废弃 DLC 及早期《GTA6》地图泄露内容",
+              "brief": "一批《侠盗猎车手5》相关文件近日在网上流出，据称源自2022年黑客事件，当时还导致《GTA6》首批画面泄露。这些文件包含被删减的对话，暗示故事可能有不同结局，例如富兰克林的黑暗结局。最受关注的是被废弃的《GTA5》自由城扩展内容细节，以及一个极早期版本的《GTA6》地图。由于素材系非法获取而非官方发布，母公司 Take-Two 正从互联网上清除相关内容，多个 YouTube 视频和帖子已被下架，发布者可能面临版权警告。",
+              "source_url": "https://www.ign.com/articles/rockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-gta-6-map",
               "source_name": "IGN",
-              "published_at": "2026-09-22T03:47:27+08:00"
+              "published_at": "2026-09-22T05:48:48+08:00"
             },
             {
-              "title": "Bungie称玩家的支持促使其继续开发《命运》新作",
-              "brief": "在《命运2》最后一个大型更新发布仅四个月后，索尼旗下Bungie确认将推出更多《命运》故事和游戏，并开始解封部分内容，称该科幻射击系列仍是其未来的基石。Bungie表示，当宣布“凯旋纪念碑”为《命运2》最终内容更新时，玩家反应强烈，他们的声音和参与产生了真正影响，提醒了所有人这个世界及其历史与未来对玩家的意义。社交媒体上玩家反响热烈。Bungie同时还在开发《马拉松》。",
-              "source_url": "https://www.ign.com/articles/bungie-says-the-way-players-showed-up-for-destiny-2-mattered-and-fans-cant-believe-it-means-more-games-are-on-the-way",
+              "title": "独立开发者指控工作室用 AI 抄袭其爆红削土豆游戏",
+              "brief": "独立开发者 Rado Klasa 指责 Golden Horn Studios 的新作《Potato Please》抄袭其游戏《1,000,000 Potatoes》。两款作品均以物理引擎削土豆为核心玩法，背景都设定在苏联风格军营中，且带有恐怖氛围。Klasa 称自己为 GMTK 游戏创作营构思该概念，并推迟 Steam 页面以打磨机制，结果却被克隆并抢先发行，怀疑对方主要借助简单 AI 提示完成。他表示花时间精调手感、操作与细节，不愿让廉价仿制品获胜。目前 Steam 鉴赏家已对《Potato Please》发出标记。",
+              "source_url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
               "source_name": "IGN",
-              "published_at": "2026-09-22T03:03:15+08:00"
+              "published_at": "2026-09-22T05:05:44+08:00"
             },
             {
-              "title": "Rockstar新模组政策粉碎主播盈利化GTA 6角色扮演服务器梦想",
-              "brief": "Rockstar Games在GTA 6发布前明确了模组政策，禁止未经授权的模组商业化。政策规定模组不得使用他人知识产权、色情、欺凌或宣扬暴力极端主义内容，不得将游戏移植到未发行平台，也不得跨游戏添加角色、地图或素材。其中特别禁止通过加密货币或传统货币在模组中交换真钱、用真钱赌博以及推广第三方赞助内容。这意味着Adin Ross等主播设想的让玩家在GTA 6服务器中赚取真钱、甚至辞职靠其生活的计划将无法实现，GTA 6仍是一款普通游戏。",
-              "source_url": "https://www.ign.com/articles/rockstar-games-new-modding-policy-crushes-influencers-dreams-for-monetized-gta-6-rp-servers",
+              "title": "《夜魔侠：重生》据称将在第三季完结，制作人在后期阶段离职",
+              "brief": "据报道，《夜魔侠：重生》将在第三季完结，不会续订第四季。迪士尼据称在第三季制作结束后做出该决定，暗示剧集未必原本就设计在此收尾。同时有消息称，该剧制作人 Dario Scardapane 在后期制作期间离开项目，令剧集缺少明确的收尾负责人。第三季预计2027年首播。该剧收视率不算亮眼，但评论界与粉丝评价积极。迪士尼近年缩减漫威剧集数量，接下来将推出《VisionQuest》，另有三到五部剧集在开发中。夜魔侠在漫威电影宇宙的未来尚不明确。",
+              "source_url": "https://www.ign.com/articles/daredevil-born-again-will-reportedly-end-with-season-3-showrunner-departs-amidst-post-production",
               "source_name": "IGN",
-              "published_at": "2026-09-22T02:43:44+08:00"
+              "published_at": "2026-09-22T04:53:26+08:00"
             },
             {
-              "title": "《兽兵卫忍风帖》导演解释近20年未拍新片原因",
-              "brief": "随着《兽兵卫忍风帖》4K版将于10月重映，导演川尻善昭解释了近二十年未执导新片的原因。75岁的他表示自己无法将作品完全交给他人，受年龄和体力限制已无法再担任导演。如今他专注于支持性工作，为《动物狂想曲》《葬送的芙莉莲》《咒术回战》等动画担任分镜。他说分镜的关键是保持观众兴趣，自己必须对作品感兴趣才能工作，好奇心是他最大的武器。他还谈到动画行业从巅峰时期到如今的巨大变化。",
-              "source_url": "https://www.ign.com/articles/ninja-scroll-director-explains-why-he-hasnt-made-a-new-movie-in-almost-20-years",
+              "title": "暴雪称《星际争霸》新作 2030 年发售时不会独占",
+              "brief": "暴雪在 BlizzCon 2026 后通过邮件向 Kotaku 更新了这款远在2030年发售的系列复活作品信息。官方表示目前只能说《星际争霸》新作“不会独占”。此前 Xbox 英国曾承诺将推出 Xbox 主机版本，但暴雪拒绝确认是否会登陆其他主机或仅推出 PC 版，并称若媒体称其为 Xbox 独占，将要求更正。由于距离发售还有至少四年，暴雪保持沉默。其表态虽不具体，但至少意味着计划支持不止一个平台。届时主机市场格局可能已发生巨大变化。",
+              "source_url": "https://www.ign.com/articles/blizzard-says-starcraft-wont-be-exclusive-when-it-launches-in-2030",
               "source_name": "IGN",
-              "published_at": "2026-09-22T02:11:34+08:00"
+              "published_at": "2026-09-22T04:45:15+08:00"
             },
             {
-              "title": "Steam Deck被用于测试火星漫游车",
-              "brief": "在YouTuber Tom Scott发布的视频中，空中客车高级工程师展示了正在模拟火星环境中测试的ExoMars漫游车。由于火星与地球距离遥远，该漫游车最终将通过搭载的3D摄像头自主控制，但目前需用计算机在本地控制。视频中Scott拿到一台运行自定义程序的Steam Deck，通过其内置手柄实时控制另一台原型漫游车。这并非Valve掌机首次用于控制机器人，几年前曾有粉丝发现迪士尼操作员用Steam Deck控制Galaxy's Edge的机器人。Valve硬件的开放性使其可能被用于各种未知用途。",
-              "source_url": "https://www.ign.com/articles/the-steam-deck-is-being-used-to-test-mars-rovers",
+              "title": "《最终幻想7 启示录》将提供自动升级选项，引发玩家争议",
+              "brief": "《最终幻想7 启示录》将加入自动提升角色等级的选项，让只想体验剧情的玩家无需刷级。制作人滨口直树在 TGS 2026 上表示，他收到玩家反馈称前作因等级不足难以推进主线，又不想通过大量支线任务练级。因此当玩家到达主线某处而等级低于推荐值时，游戏会询问是否自动提升至推荐等级。这一设计在玩家社区引发激烈争论，批评者认为该功能让游戏过于“手把手”，并担忧年轻玩家不再面对挑战。资深游戏美术师 TheCartelDel 的相关批评在社交平台上广泛传播。",
+              "source_url": "https://www.ign.com/articles/final-fantasy-7-revelation-will-include-option-to-let-players-automatically-level-up-their-characters-but-not-everyone-is-happy-about-it",
               "source_name": "IGN",
-              "published_at": "2026-09-22T02:02:20+08:00"
+              "published_at": "2026-09-22T04:10:14+08:00"
             }
           ]
         },
@@ -325,6 +325,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "普京在线投票视频显示其戴尔电脑Windows系统未激活",
+              "brief": "普京在线投票宣传视频中，其使用的戴尔电脑屏幕浮现“激活 Windows”水印，显示运行的是未经正式激活的微软系统。俄罗斯近年大力推行国产化替代，拥有本土占有率极高的Astra Linux等系统，官方也一再强调科技自主，因此最高领导人公开投票时仍使用美国硬件及未激活微软系统显得突兀。分析人士认为，西方制裁或致微软激活服务受限，也可能是临时组装设备未注册。视频中普京眯眼斜视、操作鼠标频繁停顿，显得不熟练。克宫曾称其出于安全考虑不用智能手机，此次短片反而暴露了对外部技术的依赖。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579082.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-22T04:58:53+08:00"
+            },
+            {
+              "title": "xAI发布Grok 4.7：主打编程与知识工作，价格约为竞品一半",
+              "brief": "xAI发布Grok 4.7，训练任务更复杂，大量任务需持续数小时完成，增强长期推理、自我验证与复杂任务管理能力。新模型自检能力更强，可主动检查输出以降低错误率，并提升超长上下文处理稳定性，原生理解Grok Bot运行框架，适合作为长期智能代理。它还能更好生成专业报告、商务文件和演示材料。测试中CursorBench 4.0得分46.3%，DeepSWE达71%，EEBench为64%，HealthBench Professional从48.5%升至56.7%。价格维持每百万Token输入2美元、输出6美元，约为同级模型一半。Grok 4.7已通过API和Grok平台开放。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579080.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-22T04:57:32+08:00"
+            },
+            {
+              "title": "欧盟拟强制数据中心披露能效与水效数据",
+              "brief": "欧盟委员会拟建立标准化分级评级与标签体系，要求装机容量达到或超过500千瓦的数据中心运营方公开能效（PUE）与水效（WUE）数据，并披露用水量与当地水资源压力的相关性，以及是否具备向周边社区提供能源服务的能力，例如回收再利用废热。草案未对总用电量或总用水量设硬性上限，也不强制披露绝对用电总量，重点在公开透明度与使用效率。欧委会称该体系可能成为未来强制性最低能效与水效标准的前奏。草案已提交成员国及欧洲议会，若两个月内无异议将生效。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579078.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-22T04:55:26+08:00"
+            },
+            {
               "title": "苹果带屏智能家居控制终端或下月发布，深度集成AI版Siri",
               "brief": "该设备采用接近正方形的小尺寸屏幕设计，定位为家庭中枢系统，首发预计包含两种形态：一种配备底座，可放置于厨房台面或桌面；另一种代号“J491”，支持磁吸墙面挂载。硬件配备前置摄像头与内置扬声器，支持FaceTime视频通话、媒体播放、跨房间对讲及基于视觉的人脸识别，识别到不同家庭成员靠近时会自动切换展示其专属日程、备忘录、个性化新闻及推荐内容。软件层面深度整合苹果最新AI版Siri，用户可通过语音和触控集中操控HomeKit与Matter智能家居配件，并调取跨设备个人数据。该项目此前因下一代Siri研发进度延宕而多次推迟。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579076.htm",
@@ -337,27 +358,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579074.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-22T04:49:14+08:00"
-            },
-            {
-              "title": "连续五个交易日上涨，AMD市值首次突破1万亿美元",
-              "brief": "AMD二季度营收115.4亿美元，相较去年同期76.9亿美元同比增长50%，AI芯片是驱动增长的核心动力。其数据中心业务板块营收达67亿美元，同比暴涨107%。这家芯片厂商今年表现火爆，股价年内涨幅超180%。即便涨幅惊人，AMD与AI芯片龙头英伟达仍存在巨大差距，英伟达当前市值约5.4万亿美元。尽管社会出现针对数据中心的反对声音，市场也对大模型底层安全风险心存顾虑，但今年拉动芯片板块暴涨的AI产业建设热潮几乎没有显现放缓迹象。AMD首席执行官苏姿丰预计2027年数据中心业务营收将实现翻倍。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579072.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-22T04:47:12+08:00"
-            },
-            {
-              "title": "OpenAI敦促美国牵头为人工智能制定全球标准",
-              "brief": "OpenAI表示，推进对齐研究也需要制定共同标准，为各实验室和各国的AI开发提供指引。OpenAI称，其首席执行官Sam Altman计划周三在联合国安理会就AI和国际安全问题发表讲话。美国财政部长贝森特上周末表示，美国提出建立一套通报机制，涵盖具有国家安全影响的AI事件。OpenAI在博客文章中强调，各国应共同制定相互补充的国家和国际标准，用于开发能力最强的AI模型，并建议通过多个国家现有的AI安全机构推进这项工作，包括美国商务部下属的AI标准与创新中心。OpenAI还呼吁制定标准应对AI日益增强的自主工作能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579070.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-22T04:45:29+08:00"
-            },
-            {
-              "title": "智能戒指厂商Oura及其投资方拟赴美IPO，募资最高22亿美元",
-              "brief": "芬兰智能戒指厂商Oura及其投资方计划赴美上市，拟发行3650万股，按发行区间上限测算，上市后市值将达141亿美元。公司2025年完成E轮8.75亿美元融资，当时估值约110亿美元。申报文件显示，Oura成立于2013年，过去一年智能戒指销量约360万枚，截至6月30日付费会员突破500万。截至6月30日的九个月内，公司营收12.1亿美元，净亏损9.243亿美元。高盛、摩根士丹利等将担任主承销商，股票代码为OURA。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579068.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-21T23:11:51+08:00"
             }
           ]
         },
@@ -365,39 +365,39 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "苹果停止签署 iOS 26.6.2，升级 iOS 27 后无法降级",
+              "brief": "苹果已停止签署 iOS 26.6.2，用户在升级 iOS 27 大版本后将不再支持降级。同期推送的 iOS 26.7 同样无法作为降级目标，因为它属于通过 OTA 方式发布的更新，并未提供可用于恢复系统的完整固件文件。苹果会在安装新版 iOS 时进行服务器端验证，只有仍处于签署状态的系统版本才能通过验证并完成安装；一旦停止签署，即使用户拥有对应固件也无法正常安装。这是苹果限制用户回退旧版本的常规做法，也能避免用户继续使用不再获得安全更新的旧系统。目前尚未升级 iOS 27 的用户仍可继续使用 iOS 26，但升级后无法再通过官方方式回退至 iOS 26.6.2。",
+              "source_url": "https://www.ithome.com/1/005/492.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-22T06:46:29+08:00"
+            },
+            {
+              "title": "iPhone 18 Pro 首批用户反馈 Face ID 异常：解锁失败后死机重启",
+              "brief": "首批 iPhone 18 Pro 用户反馈出现 Face ID 问题。当用户尝试通过 Face ID 解锁已设置应用锁的 App 时会偶发验证失败，随后设备可能卡死并重启回到锁屏界面。该故障并非每次都会出现，也并非所有用户都会遇到，有用户表示正常与异常情况会交替出现，9to5Mac 已在至少一台欧版 iPhone 18 Pro 上复现。此外，部分用户在设置 Face ID 时会看到“Face ID 不可用”提示，另有用户指出即便开启“需要注视以启用 Face ID”，设备有时仍会在未直视屏幕时完成解锁。苹果在 iPhone 18 Pro 系列上将 Face ID 红外摄像头移至屏幕左上角下方，以缩小灵动岛，目前尚不清楚该硬件调整是否与问题相关。有博主指出，覆盖左上角传感器区域的哑光或防窥保护膜可能散射红外光图案，导致 Face ID 无法稳定工作。",
+              "source_url": "https://www.ithome.com/1/005/491.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-22T06:43:42+08:00"
+            },
+            {
+              "title": "沙特首个本土汽车品牌 Ceer 公布首批车型：850 马力三电机",
+              "brief": "沙特阿拉伯首个本土汽车品牌 Ceer 公布首批两款车型，分别为轿车和 SUV，二者同平台打造。外观由前迈凯伦设计总监 Rob Melville 负责设计，采用相似设计语言，车头较低、车身从前向后逐渐抬高，呈现类似 20 世纪 70 年代楔形车型轮廓，并加入鸥翼车门、大面积玻璃和概念车风格结构。前后贯穿式灯带内含 32 组灯光单元，呼应沙特 1932 年统一。内饰配备顶部削去的 Yoke 方向盘、横跨挡风玻璃宽度的 8K 显示屏和纵向中控触屏。动力方面采用 800V 架构、三电机系统和 112kWh 电池组，综合最大功率 850 马力，支持最高 250kW 直流快充，10% 充至 80% 约需 30 分钟。轿车 0-100km/h 加速 2.6 秒，续航约 670 公里；SUV 为 2.9 秒和约 560 公里。",
+              "source_url": "https://www.ithome.com/1/005/490.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-22T06:39:21+08:00"
+            },
+            {
+              "title": "iOS 27.2 代码曝光苹果正测试 iPhone 防抢夺功能",
+              "brief": "iOS 27.2 代码显示，苹果正在测试一项 iPhone 防抢夺功能，但尚未启用。该功能可在设备被从用户手中抢走时触发自动锁定，判断依据包括设备出现与抢夺动作相符的剧烈加速、配对的 Apple Watch 在一段时间内无法连接或失去连接、长时间失去网络连接，以及设备超过一定时间仍处于解锁状态。苹果还加入多项降低误触的机制，例如用户成功完成生物识别验证后即可阻止锁定，部分前台应用活动也会被视为正常使用行为。代码显示 AutoLock 采用投票机制，潜在盗窃信号可请求锁定，而生物识别、熟悉地点或特定应用活动等安全条件可否决锁定请求。该功能在 iOS 27.2 beta 2 中尚未启用，也未作为用户选项提供。",
+              "source_url": "https://www.ithome.com/1/005/488.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-09-22T06:33:02+08:00"
+            },
+            {
               "title": "苹果发布 watchOS 27.2 开发者预览版 Beta 2",
               "brief": "苹果今日推送 watchOS 27.2 开发者预览版 Beta 2，距上一版本发布仅数日。开发者需登录苹果开发者计划，通过“设置-通用-软件更新”升级；公开测试版用户则需先注册 Apple Beta 版软件计划。此次更新为常规迭代，IT之家表示稍后将带来具体更新内容。文中还附带了 watchOS 27 系列从 Beta 1 到 27.0 正式版的完整发布历史，供用户参考固件版本与升级路径。",
               "source_url": "https://www.ithome.com/1/005/486.htm",
               "source_name": "IT之家",
               "published_at": "2026-09-22T01:36:13+08:00"
-            },
-            {
-              "title": "苹果发布 visionOS 27.2 开发者预览版 Beta 2",
-              "brief": "苹果面向开发者推送 visionOS 27.2 开发者预览版 Beta 2，更新距离上个测试版发布约一周。开发者可通过注册苹果开发者计划后在设备上安装升级。IT之家称稍后会带来具体更新内容。文章同时列出了 visionOS 27 的发布历史，涵盖从 2026 年 6 月的首个 Beta 到 9 月 27.0 正式版的多个版本，方便用户对照版本号与发布时间，了解系统迭代节奏。",
-              "source_url": "https://www.ithome.com/1/005/485.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-09-22T01:36:13+08:00"
-            },
-            {
-              "title": "苹果发布 macOS 27.2 开发者预览版 Beta 2",
-              "brief": "苹果今日向开发者推送 macOS 27.2 开发者预览版 Beta 2，用户需注册苹果开发者计划后通过“设置-通用-软件更新”获取。公开测试版用户则需先加入 Apple Beta 版软件计划。IT之家表示稍后将带来具体更新内容。文中附有 macOS 27 完整发布历史，从 2026 年 6 月的首个 Beta 到 9 月的 27.0 正式版，涵盖各版本号与日期，便于用户了解系统更新脉络。",
-              "source_url": "https://www.ithome.com/1/005/484.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-09-22T01:36:12+08:00"
-            },
-            {
-              "title": "苹果发布 iOS/iPadOS 27.2 开发者预览版 Beta 2",
-              "brief": "苹果推送 iOS/iPadOS 27.2 开发者预览版 Beta 2，距上一测试版发布约一周。开发者需登录苹果开发者计划，通过“设置-通用-软件更新”升级；公测版用户需先注册 Apple Beta 版软件计划。IT之家稍后将带来具体更新内容。文章附带 iOS/iPadOS 27 发布历史，从 2026 年 6 月首个 Beta 到 9 月 27.0 正式版，涵盖各版本号与日期，并提及此前 iOS 27.2 首个测试版跳过 27.1 等背景信息。",
-              "source_url": "https://www.ithome.com/1/005/483.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-09-22T01:36:12+08:00"
-            },
-            {
-              "title": "小米69元米家夜灯4开售：磁吸悬挂粘贴三合一，续航最长8个月",
-              "brief": "小米米家夜灯4开售，售价69元，支持磁吸、悬挂、粘贴三种安装方式。产品升级24GHz雷达，人体感应更精准，120°大广角，正前方感应可达3米，侧方2.5米，人来灯亮、离开10秒后自动关灯。采用漫反射柔光设计，无可视频闪、RG0无蓝光危害。内置800mAh电池，最高亮度感应模式续航3个月，最低亮度可达8个月，支持Type-C充电。提供4挡亮度，可切换常亮与感应模式，最高15流明。",
-              "source_url": "https://www.ithome.com/1/005/480.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-09-22T00:00:10+08:00"
             }
           ]
         }
