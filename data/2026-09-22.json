@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T20:52:29.679025+08:00",
+  "generated_at": "2026-09-22T20:52:54.324298+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,27 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "新款Mac mini取消可更换存储支持",
+              "brief": "据Expand Mac mini博客透露，新款M6与M5 Pro Mac mini的NAND闪存再次焊接在逻辑板上，类似M1和M2版本，SSD模块不再可拆卸。此前M4与M4 Pro版本的存储升级模块曾可更换，但该厂商表示对M6和M5 Pro的支持“现在看起来不太可能”。作为对比，其1TB模块售价300美元，而苹果将M6 Mac mini从256GB升级到1TB收费500美元；2TB模块售价420美元，苹果收费1000美元。Mac Studio的维修指南仍显示可拆卸SSD，但尚未有拆解证实。",
+              "source_url": "https://9to5mac.com/2026/09/22/m6-mac-mini-upgrade-storage-change/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T20:50:03+08:00"
+            },
+            {
+              "title": "前苹果零售主管新书《Shop Different》上市",
+              "brief": "前苹果零售主管罗恩·约翰逊的新书《Shop Different》现已发售，由他与赞德·内瑟卡特合著。书中讲述了2000年史蒂夫·乔布斯聘请约翰逊创建Apple Store的故事，以及他如何赢得乔布斯信任、共同制定以服务而非销售取胜的零售愿景，并说服乔布斯将“爱”这样无形的理念作为服务哲学根基。该书并非传统商业书籍，而是对当代最重要零售成功案例的内幕记述，同时展望了零售业未来依靠连接、服务与体验取胜的方向，并坦诚分享成功之道。约翰逊上周还参加了9to5Mac的Overtime播客。",
+              "source_url": "https://9to5mac.com/2026/09/22/former-apple-retail-chiefs-new-shop-different-book-now-available/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T20:23:35+08:00"
+            },
+            {
+              "title": "iPhone强大天气应用RadarScope登陆CarPlay",
+              "brief": "iPhone天气应用RadarScope更新后加入CarPlay支持。该应用提供来自300多个雷达的高分辨率数据，是面向气象学家、公共安全官员、风暴观察员和爱好者的AMS获奖可视化工具。CarPlay版本并非简单移植，用户可选择MRMS、单站点、卫星等图层，并将路线叠加显示，警告、严重概率和报告等信息也会显示在地图上。使用单站点模式时，雷达会随行驶自动切换到距离最近的站点，对风暴追逐者尤为实用。该更新为5.7版本，已登陆苹果平台（暂不含macOS），可在App Store下载。",
+              "source_url": "https://9to5mac.com/2026/09/22/one-of-the-most-powerful-weather-apps-for-iphone-just-came-to-carplay/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T19:56:11+08:00"
+            },
+            {
               "title": "Apple @ Work 播客：AI 时代的网络钓鱼模拟",
               "brief": "本期 Apple @ Work 播客邀请 Sublime Security 的 Samantha Schwartz 与 Jack Hirsch，讨论面向 AI 时代的定制化网络钓鱼模拟。节目由 Mosyle 赞助，该平台为超过 45,000 家组织提供苹果设备部署、管理与保护方案。播客可在 Apple Podcasts、Overcast、Spotify、Pocket Casts、Castro 及 RSS 收听订阅。9to5Mac 持续报道苹果及其生态系统的新闻、评测与教程。",
               "source_url": "https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/22/apple-music-opens-new-live-music-venue-in-london/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-22T15:51:30+08:00"
-            },
-            {
-              "title": "iCloud 存储通知故障致设置应用出现无法移除的红色角标",
-              "brief": "部分用户反映，设置应用出现“激活 iCloud 存储”的故障通知，并带有无法移除的红色角标。点击该提醒只会跳转到 iCloud 存储购买页面，关闭后通知仍不消失。即使用户已有充足 iCloud 空间，例如订阅 2TB 家庭版 Apple One 套餐，该通知依然出现。苹果有时会通过设置应用推广优惠和提醒 AppleCare 保修，但此次通知更像是错误而非刻意的 iCloud 推销。该问题出现在正式版 iOS 27 和 iOS 27.2 设备上，目前没有明显的移除方法。有用户称退出 Apple 账户再重新登录可使通知消失，希望苹果能尽快通过后端调整修复。",
-              "source_url": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T15:40:50+08:00"
-            },
-            {
-              "title": "watchOS 27.2 beta 2 以新手势恢复应用切换器",
-              "brief": "苹果向开发者推送 watchOS 27.2 beta 2，距 beta 1 发布不到一周。此前 watchOS 27 取消了双击数码表冠调出应用切换器的功能，引发长期用户不满。本次更新虽未恢复双击表冠快捷键，但以新手势重新带回了应用切换器：在应用内长按屏幕底部即可唤出。激活后，用户可转动数码表冠浏览最近使用的应用，或向左滑动某个应用并点击“X”按钮将其从切换器中移除，其余操作方式与以往基本一致。该功能由 Apple Den Discord 服务器发现并在 X 上分享。与所有测试版一样，这一交互能否进入下月发布的正式版尚无保证，但它的出现表明苹果正在听取用户反馈并寻找恢复应用切换的途径。",
-              "source_url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T10:07:14+08:00"
-            },
-            {
-              "title": "苹果质疑 OpenAI 取证分析，要求获取硬件研发资料",
-              "brief": "今年 7 月初，苹果起诉前员工、OpenAI 及 io Products，指控其盗用商业机密。苹果称前员工 Chang Liu 曾指导另一名苹果员工准备 OpenAI 面试材料，Tang Tan 则指示求职者携带硬件组件参加面试。苹果还表示，对 Liu 离职后使用的一台 MacBook 的初步取证检查显示，他在 OpenAI 工作期间曾用苹果机密电路原理图运行模拟，该电脑还指向他使用过一台 Mac mini，苹果已寻求获取该设备。OpenAI 反驳称这是“苹果自己造成的一团乱麻”，其离职与安全流程松懈使员工容易无意保留机密信息。双方争议点还包括苹果请求加速证据开示和初步禁令，苹果称因 OpenAI 仍在开发硬件产品，需要尽快获取证据，OpenAI 则认为苹果请求过于宽泛，法院因此要求双方协商。",
-              "source_url": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T09:37:18+08:00"
             }
           ]
         },
