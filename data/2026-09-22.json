@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T06:52:42.308374+08:00",
+  "generated_at": "2026-09-22T08:52:26.115132+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果CEO约翰·特努斯谈iPhone Duo设计、Siri AI与接任CEO",
+              "brief": "苹果CEO约翰·特努斯在苹果九月发布会后接受Canal+脱口秀《Clique》采访，谈及iPhone Duo的设计、开发中遇到的困难以及他对苹果的规划。特努斯解释iPhone Duo展开后采用类似iPad形状的原因，称不想简单把两个手机形状拼在一起变成奇怪的方形，而是想打造符合苹果理念的大屏体验，因此采用了全新宽高比。他表示开发过程中有大量问题需要解决，折叠形态让员工有机会发挥聪明才智、创造全新事物，硬件难题涉及铰链和显示屏设计及其可靠性。被问及最喜欢的iPhone Duo功能时，他展示了开合动画，称其俏皮有趣、令人会心一笑。特努斯还重申苹果对AI伴侣的立场，称Siri AI并非设计来当你的朋友，苹果不想取代人际关系。他透露时任CEO蒂姆·库克和董事会曾询问他是否愿意接任苹果CEO。",
+              "source_url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-22T07:12:27+08:00"
+            },
             {
               "title": "苹果停止签署iOS 26.6.2，升级iOS 27后无法降级",
               "brief": "苹果已停止签署iOS 26.6.2，用户升级到iOS 27后将无法降级回iOS 26的任何版本。iOS 27于一周前发布。所谓“签署”是指软件能通过苹果在新版iOS下载时进行的服务器端验证，验证失败便无法安装。苹果通过取消签署来阻止用户安装过时且安全性较低的iOS版本。若尚未安装iOS 27，仍可继续使用iOS 26，但一旦升级就无法回头。此外也无法从iOS 27降级到与iOS 27同时发布的iOS 26.7，因为iOS 26.7是OTA更新，没有可用的恢复文件。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
               "source_name": "MacRumors",
               "published_at": "2026-09-22T02:05:23+08:00"
-            },
-            {
-              "title": "苹果向开发者发布第二个 macOS Golden Gate 27.2 测试版",
-              "brief": "苹果正在测试下一个 macOS Golden Gate 更新，开发者现可下载第二个 macOS Golden Gate 27.2 测试版。该版本在第一版发布一周后推出。已注册开发者可打开系统设置，点击通用，选择软件更新，并加入 macOS Golden Gate 测试版计划进行下载。macOS Golden Gate 27.2 新增多种语言的 Siri AI 功能。预计该正式版将在十月底发布。",
-              "source_url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-22T01:23:13+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "通用汽车CarPlay策略真相：并未回心转意",
+              "brief": "通用汽车上周为雪佛兰Silverado和GMC Sierra卡车推出新软件体验，宣传画中画手机投屏系统，让CarPlay和Android Auto与原生信息娱乐系统共存，部分消息误读为通用放弃弃用CarPlay的计划。通用发言人向Joanna Stern确认，该功能仅针对一直支持CarPlay和Android Auto的新款燃油轻型皮卡，并非将手机投屏引入电动车。通用2023年宣布未来电动车不再支持CarPlay，除凯迪拉克Lyriq外已执行，燃油车则继续提供手机投屏，整体策略没有改变。",
+              "source_url": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T07:18:47+08:00"
+            },
+            {
+              "title": "升级iOS 27的iPhone用户已无法降级回iOS 26",
+              "brief": "苹果已停止签署iOS 26.6.2，这意味着运行iOS 27的iPhone用户无法再降级到iOS 26.6.2，官方降级回iOS 26的窗口基本关闭。安装或降级iOS时需向苹果服务器验证版本是否仍被授权，即所谓签署；由于更新常修复安全漏洞，苹果只保留少量签署版本，防止用户安装含漏洞的旧版。值得注意的是，苹果上周发布iOS 26.7，但目前未提供其恢复镜像，仍在使用较早iOS 26版本的iPhone可通过OTA安装，而已升级iOS 27的用户无法借此正式降级。",
+              "source_url": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-22T07:12:03+08:00"
+            },
             {
               "title": "WhatsApp 现允许 Apple Watch 用户使用任意表情回应",
               "brief": "WhatsApp 去年推出功能完整的 Apple Watch 应用，支持通话通知、语音消息、聊天记录和表情回应，但当时回应仅限六个预设表情，使用其他表情需拿出 iPhone。据 WABetaInfo 报道，WhatsApp 正推送支持 watchOS 全部表情的更新。长按消息仍显示六个默认回应，但用户可打开更大的选择器，查看最近使用表情及按类别划分的完整系统表情库，共分微笑、自然、食物、活动、旅行、物品、符号和旗帜八类，可滚动查找或点击类别展开。该功能正逐步推送，可能需数周覆盖所有用户。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-22T05:01:08+08:00"
-            },
-            {
-              "title": "9to5Mac Daily：2026 年 9 月 21 日——更多 iPhone 18 Pro 与 iOS 27.2 消息",
-              "brief": "本期 9to5Mac Daily 由 Stuff 赞助。Stuff 帮助你把脑中所有事情整理进一个简单优雅的系统，闭合未完成事项并减轻心理压力。它是一款适用于 iPhone、iPad 和 Mac 的简单待办事项应用，提供强大工具，让组织、跟踪和勾选任务更有满足感。9to5Mac Daily 新剧集每个工作日录制，可在 Apple Podcast 或你喜欢的播客播放器订阅。本期讨论的报道包括：iPhone 18 Pro Max 电池太大，苹果不得不在 iOS 27 中新增一项功能；拆解确认美国版 iPhone 18 Pro Max 仍使用高通调制解调器；iOS 27.2 将帮助用户把数据与设置从旧应用迁移到其替代应用；Apple Intelligence 在最新机型上所需 iPhone 存储空间几乎翻倍。可通过 Apple Podcasts、Overcast、RSS、Spotify、TuneIn 和 Google Podcasts 收听订阅。",
-              "source_url": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T04:59:43+08:00"
-            },
-            {
-              "title": "苹果备忘录 iOS 27 新增高阶功能：章节链接",
-              "brief": "iOS 27 为苹果备忘录加入“章节链接”功能。用户在笔记中选中文本并打开编辑菜单，点击“添加链接”即可看到“链接到章节”选项。菜单会列出笔记中所有标题和副标题，选择后即可生成指向该章节的链接，链接文字可用章节标题或自定义内容。该功能便于在长笔记中快速跳转，可用来在顶部创建完整目录，也可仅对常访问章节少量使用。对追求灵活性的高阶用户是受欢迎的新增功能。",
-              "source_url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-22T04:13:30+08:00"
             }
           ]
         },
@@ -209,6 +209,20 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "新泽西施工误剪光纤电缆，全美数百航班受影响",
+              "brief": "周一，新泽西施工人员意外切断一条威瑞森光纤电缆，该电缆用于空中交通管制，导致数百架航班取消或延误。美国联邦航空管理局局长布莱恩·贝德福德表示，电路故障后发现了这条被切断的光缆。此次中断重创东北部各机场，纽约市三大机场均实施地面停飞。威瑞森向CNBC声明称对此事件“不负责任”，将责任归咎于在当地施工、挖断电缆的建筑承包商。美国交通部长肖恩·达菲称是美铁施工队误剪线路，但美联社报道称美铁将责任归咎于新泽西交通局施工队。线路已修复，但延误仍在持续。",
+              "source_url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+              "source_name": "The Verge",
+              "published_at": "2026-09-21T19:48:56-04:00"
+            },
+            {
+              "title": "亚马逊欲助科罗拉多河，但公司用水量仍不透明",
+              "brief": "亚马逊计划在科罗拉多河沿岸投入2000万美元用于水资源保护项目，这条河是美国西部4000万人的关键水源，目前正面临“前所未有的”干旱。此举正值亚马逊等科技公司因数据中心用水量受到日益严格的审查之际。亚马逊的目标是在本十年末实现“水正效益”，即回补的水量超过其消耗量。该公司近期披露了部分用水信息，但外界对其整体影响的了解仍不完整。亚马逊当日宣布成立科罗拉多河流域合作组织，使命是打造规模最大的企业节水项目之一。",
+              "source_url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+              "source_name": "The Verge",
+              "published_at": "2026-09-21T19:15:32-04:00"
+            },
+            {
               "title": "加州收紧对AI数据中心能耗与用水的监管",
               "brief": "加州州长加文·纽森签署七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民。法案要求加州公共事业委员会为数据中心设立新的费率类别，并强制其支付当地电网和水系统的升级费用。其他条款规定，拟建数据中心须向地方政府披露预计用水量、能效信息及干旱应对规划，同时必须满足特定的能源、水和燃料消耗要求，才能获得简化审批资格。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
               "source_name": "The Verge",
               "published_at": "2026-09-21T13:42:15-04:00"
-            },
-            {
-              "title": "Bungie 称“尚未放弃《命运》”，将恢复被下架内容",
-              "brief": "在似乎放弃《命运2》数月后，Bungie 表示计划恢复游戏中曾被下架的战役、目的地和突袭等内容，逆转六年前推出的“命运内容宝库”机制。该机制曾移除玩家付费获取的旧内容，引发争议。Bungie 承认移除这些体验对玩家信任和游戏乐趣造成持久影响，虽无法改变当初决定，但会努力修复。所有《命运2》玩家都将能访问这些下架内容，不过由于“凌光之刻”资料片带来的重大改动，恢复工作并非一键完成。",
-              "source_url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-              "source_name": "The Verge",
-              "published_at": "2026-09-21T12:35:59-04:00"
-            },
-            {
-              "title": "Xbox 手柄加 50 美元礼品卡仅售 80 美元",
-              "brief": "Newegg 推出捆绑优惠，黑色微软无线 Xbox 手柄与 50 美元数字 Xbox 礼品卡合计仅售 80 美元。该手柄通常售价约 50 至 60 美元，因此这一组合相当于把手柄价格降至 30 美元，或理解为按原价买手柄却获得大幅折扣的礼品卡。这款手柄适合 Xbox 或 PC 使用，支持蓝牙连接。此外，Aurzen 迷你三折投影仪和一款不错的 Chromebook 也在促销中。",
-              "source_url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-09-21T11:13:32-04:00"
             }
           ]
         }
@@ -254,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "Rockstar 下架《GTA5》废弃 DLC 及早期《GTA6》地图泄露内容",
-              "brief": "一批《侠盗猎车手5》相关文件近日在网上流出，据称源自2022年黑客事件，当时还导致《GTA6》首批画面泄露。这些文件包含被删减的对话，暗示故事可能有不同结局，例如富兰克林的黑暗结局。最受关注的是被废弃的《GTA5》自由城扩展内容细节，以及一个极早期版本的《GTA6》地图。由于素材系非法获取而非官方发布，母公司 Take-Two 正从互联网上清除相关内容，多个 YouTube 视频和帖子已被下架，发布者可能面临版权警告。",
-              "source_url": "https://www.ign.com/articles/rockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-gta-6-map",
+              "title": "《黎明行者之血》更新将新增更简单难度，让不想战斗的玩家也能体验剧情",
+              "brief": "《黎明行者之血》开发商 Rebel Wolves 游戏总监 Konrad Tomaszkiewicz 在接受 Eurogamer 采访时透露，游戏将于十月初推出更新，新增一个更简单的难度选项，替换现有的最简单模式“剧情模式”并沿用其名称，而当前版本则会提升一档并改名。目前游戏共有剧情、公平、挑战和决斗四个难度，更新后将增至五个。新难度旨在服务不想体验战斗、只想了解剧情的玩家，具体实现方式尚不明确。更新还将改善游戏性能，尤其是 PC 端表现，并加入脱离战斗的流畅选项，同时调整锁定与镜头等机制。",
+              "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-to-add-easier-difficulty-setting-for-players-who-dont-want-combat",
               "source_name": "IGN",
-              "published_at": "2026-09-22T05:48:48+08:00"
+              "published_at": "2026-09-22T07:53:45+08:00"
             },
             {
-              "title": "独立开发者指控工作室用 AI 抄袭其爆红削土豆游戏",
-              "brief": "独立开发者 Rado Klasa 指责 Golden Horn Studios 的新作《Potato Please》抄袭其游戏《1,000,000 Potatoes》。两款作品均以物理引擎削土豆为核心玩法，背景都设定在苏联风格军营中，且带有恐怖氛围。Klasa 称自己为 GMTK 游戏创作营构思该概念，并推迟 Steam 页面以打磨机制，结果却被克隆并抢先发行，怀疑对方主要借助简单 AI 提示完成。他表示花时间精调手感、操作与细节，不愿让廉价仿制品获胜。目前 Steam 鉴赏家已对《Potato Please》发出标记。",
-              "source_url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
+              "title": "《奇迹暖暖》玩家因游戏服装设计“不敬”且“邪恶”关闭粉丝网站",
+              "brief": "粉丝网站 Nikki's Info 的管理员在停更一周后发布一篇病毒式传播的博文，宣布因宗教信仰退出《奇迹暖暖》，并关闭了这个汇集服装、饰品、剧情攻略和更新信息的网站。该站 X 账号创建于 2018 年，Patreon 订阅者现可获得退款。管理员称自己曾涉足邪术，经历警方和急救人员介入的濒死状况后向神求助，并批评游戏服装中含有大量十字架道具，认为它们与哥特恶魔主题混杂，对神不敬且带有邪恶意味。尽管其表示自己现已平安，但仍认为这些设计虽看似微小却具有后果与含义。",
+              "source_url": "https://www.ign.com/articles/love-nikki-player-shuts-down-fan-website-over-games-irreverent-and-demonic-clothing-designs",
               "source_name": "IGN",
-              "published_at": "2026-09-22T05:05:44+08:00"
+              "published_at": "2026-09-22T07:24:47+08:00"
             },
             {
-              "title": "《夜魔侠：重生》据称将在第三季完结，制作人在后期阶段离职",
-              "brief": "据报道，《夜魔侠：重生》将在第三季完结，不会续订第四季。迪士尼据称在第三季制作结束后做出该决定，暗示剧集未必原本就设计在此收尾。同时有消息称，该剧制作人 Dario Scardapane 在后期制作期间离开项目，令剧集缺少明确的收尾负责人。第三季预计2027年首播。该剧收视率不算亮眼，但评论界与粉丝评价积极。迪士尼近年缩减漫威剧集数量，接下来将推出《VisionQuest》，另有三到五部剧集在开发中。夜魔侠在漫威电影宇宙的未来尚不明确。",
-              "source_url": "https://www.ign.com/articles/daredevil-born-again-will-reportedly-end-with-season-3-showrunner-departs-amidst-post-production",
+              "title": "《使命召唤》YouTuber 发起请愿，要求移除基于技术的匹配机制",
+              "brief": "在《命运》玩家成功联合促使 Bungie 复活该科幻 MMO 后，《使命召唤》YouTuber Tdawgsmitty 也发起请愿，希望粉丝团结起来推动类似结果。他长期公开反对《使命召唤》的 SBMM，上周还每天在推特上向 Xbox CEO Asha Sharma 喊话。请愿在上线约一小时内就获得超过 500 个签名，目标是彻底从非排名对局中移除 SBMM，理由是玩家对现行系统不满，并质疑动视使用数据分析师开发匹配机制。他主张 SBMM 应只保留在玩家主动选择竞技体验的排名模式中。",
+              "source_url": "https://www.ign.com/articles/call-of-duty-youtuber-launches-petition-to-remove-skill-based-matchmaking-following-successful-destiny-protests",
               "source_name": "IGN",
-              "published_at": "2026-09-22T04:53:26+08:00"
+              "published_at": "2026-09-22T06:54:40+08:00"
             },
             {
-              "title": "暴雪称《星际争霸》新作 2030 年发售时不会独占",
-              "brief": "暴雪在 BlizzCon 2026 后通过邮件向 Kotaku 更新了这款远在2030年发售的系列复活作品信息。官方表示目前只能说《星际争霸》新作“不会独占”。此前 Xbox 英国曾承诺将推出 Xbox 主机版本，但暴雪拒绝确认是否会登陆其他主机或仅推出 PC 版，并称若媒体称其为 Xbox 独占，将要求更正。由于距离发售还有至少四年，暴雪保持沉默。其表态虽不具体，但至少意味着计划支持不止一个平台。届时主机市场格局可能已发生巨大变化。",
-              "source_url": "https://www.ign.com/articles/blizzard-says-starcraft-wont-be-exclusive-when-it-launches-in-2030",
+              "title": "Jacksepticeye 称《血源诅咒》电影公布后约八成反应是批评",
+              "brief": "知名内容创作者 Jacksepticeye（本名 Seán McLoughlin）在接受 Tom Simmons 的《100 Questions》采访时谈到自己担任《血源诅咒》动画电影制片人的感受。他表示《血源诅咒》是自己最爱的游戏，接到邀请时虽几乎愿意做任何事，但不会让项目走向配不上该 IP 的方向。被问及是否有压力时，他直言“当然”。他估计约八成回应对其参与持批评态度，不过他不愿称之为负面，认为若自己钟爱的 IP 被一名 YouTuber 参与，也会让人摸不着头脑。索尼于 2026 年 4 月 CinemaCon 公布这部 R 级动画电影，由 PlayStation Productions 和 Lyrical Animation 参与。",
+              "source_url": "https://www.ign.com/articles/bloodborne-movie-reveal-reactions-were-80-critical-jacksepticeye-says",
               "source_name": "IGN",
-              "published_at": "2026-09-22T04:45:15+08:00"
+              "published_at": "2026-09-22T06:41:11+08:00"
             },
             {
-              "title": "《最终幻想7 启示录》将提供自动升级选项，引发玩家争议",
-              "brief": "《最终幻想7 启示录》将加入自动提升角色等级的选项，让只想体验剧情的玩家无需刷级。制作人滨口直树在 TGS 2026 上表示，他收到玩家反馈称前作因等级不足难以推进主线，又不想通过大量支线任务练级。因此当玩家到达主线某处而等级低于推荐值时，游戏会询问是否自动提升至推荐等级。这一设计在玩家社区引发激烈争论，批评者认为该功能让游戏过于“手把手”，并担忧年轻玩家不再面对挑战。资深游戏美术师 TheCartelDel 的相关批评在社交平台上广泛传播。",
-              "source_url": "https://www.ign.com/articles/final-fantasy-7-revelation-will-include-option-to-let-players-automatically-level-up-their-characters-but-not-everyone-is-happy-about-it",
+              "title": "宝可梦黄牛在 Target 三十周年发售现场拳打他人面部后据称被捕",
+              "brief": "2026 年 8 月 28 日，康涅狄格州里斯本的 Target 门店发生一起在社交媒体上疯传的事件。视频显示两名黄牛推着满载宝可梦商品的车前往自助结账，拍摄者与女友上前质问，双方就购买数量发生争执。黄牛不顾 Target 每人限购两件的规则，还警告对方不要碰购物车。在自助结账处，一名黄牛挥拳击中拍摄者面部，导致其手机掉落，背景中可听到扭打声和儿童哭声。PokéStreetz 称拍摄者被击倒后撞到一名四岁女孩，女孩肘部受伤。据称该黄牛返回取钱包时被捕并被禁止进入门店。",
+              "source_url": "https://www.ign.com/articles/pokemon-scalper-reportedly-arrested-after-punching-man-in-the-face-over-30th-anniversary-target-drop",
               "source_name": "IGN",
-              "published_at": "2026-09-22T04:10:14+08:00"
+              "published_at": "2026-09-22T06:15:31+08:00"
             }
           ]
         },
@@ -365,39 +365,51 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果停止签署 iOS 26.6.2，升级 iOS 27 后无法降级",
-              "brief": "苹果已停止签署 iOS 26.6.2，用户在升级 iOS 27 大版本后将不再支持降级。同期推送的 iOS 26.7 同样无法作为降级目标，因为它属于通过 OTA 方式发布的更新，并未提供可用于恢复系统的完整固件文件。苹果会在安装新版 iOS 时进行服务器端验证，只有仍处于签署状态的系统版本才能通过验证并完成安装；一旦停止签署，即使用户拥有对应固件也无法正常安装。这是苹果限制用户回退旧版本的常规做法，也能避免用户继续使用不再获得安全更新的旧系统。目前尚未升级 iOS 27 的用户仍可继续使用 iOS 26，但升级后无法再通过官方方式回退至 iOS 26.6.2。",
-              "source_url": "https://www.ithome.com/1/005/492.htm",
+              "title": "宁德时代回应储能电芯调价：属常规调整，587Ah电芯首次挂牌0.415元/Wh起",
+              "brief": "宁德时代官方商城显示，280Ah储能电芯起售价0.403元/Wh，587Ah储能电芯起售价0.415元/Wh，起订量324颗。对比9月初报价，280Ah（1P）最低价上调1.1%，314Ah上调2.0%。宁德时代回应称此次调价属于常规调整，公司此前也会根据市场情况进行调整。587Ah电芯为首次在商城公开挂牌，为中小储能市场提供新价格参照。2026年储能电芯价格结束两年下行，314Ah磷酸铁锂均价从2025年末低位回升至9月约0.365元/Wh，累计涨幅超20%，主要受碳酸锂等原材料涨价推动。",
+              "source_url": "https://www.ithome.com/1/005/517.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T06:46:29+08:00"
+              "published_at": "2026-09-22T08:42:10+08:00"
             },
             {
-              "title": "iPhone 18 Pro 首批用户反馈 Face ID 异常：解锁失败后死机重启",
-              "brief": "首批 iPhone 18 Pro 用户反馈出现 Face ID 问题。当用户尝试通过 Face ID 解锁已设置应用锁的 App 时会偶发验证失败，随后设备可能卡死并重启回到锁屏界面。该故障并非每次都会出现，也并非所有用户都会遇到，有用户表示正常与异常情况会交替出现，9to5Mac 已在至少一台欧版 iPhone 18 Pro 上复现。此外，部分用户在设置 Face ID 时会看到“Face ID 不可用”提示，另有用户指出即便开启“需要注视以启用 Face ID”，设备有时仍会在未直视屏幕时完成解锁。苹果在 iPhone 18 Pro 系列上将 Face ID 红外摄像头移至屏幕左上角下方，以缩小灵动岛，目前尚不清楚该硬件调整是否与问题相关。有博主指出，覆盖左上角传感器区域的哑光或防窥保护膜可能散射红外光图案，导致 Face ID 无法稳定工作。",
-              "source_url": "https://www.ithome.com/1/005/491.htm",
+              "title": "华为SPN系列新款笔记本通过星闪测试列名，支持星闪音频",
+              "brief": "华为SPN系列新款笔记本电脑通过星闪测试列名，支持星闪音频功能。相关页面显示，华为MateBook Pro S鸿蒙电脑支持星闪音频，可搭配FreeBuds 7、FreeClip 2典藏版、FreeClip 2、FreeBuds Pro 5等设备使用。目前星闪音频即将在移动端普及，已有多款手机、平板通过相关认证。官方描述称，星闪音频物理层传输速率可达16Mbps，带宽能力超过传统技术，充足通道容量能够承载48kHz/24bit Hi-Fi音频无损传输。",
+              "source_url": "https://www.ithome.com/1/005/515.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T06:43:42+08:00"
+              "published_at": "2026-09-22T08:38:34+08:00"
             },
             {
-              "title": "沙特首个本土汽车品牌 Ceer 公布首批车型：850 马力三电机",
-              "brief": "沙特阿拉伯首个本土汽车品牌 Ceer 公布首批两款车型，分别为轿车和 SUV，二者同平台打造。外观由前迈凯伦设计总监 Rob Melville 负责设计，采用相似设计语言，车头较低、车身从前向后逐渐抬高，呈现类似 20 世纪 70 年代楔形车型轮廓，并加入鸥翼车门、大面积玻璃和概念车风格结构。前后贯穿式灯带内含 32 组灯光单元，呼应沙特 1932 年统一。内饰配备顶部削去的 Yoke 方向盘、横跨挡风玻璃宽度的 8K 显示屏和纵向中控触屏。动力方面采用 800V 架构、三电机系统和 112kWh 电池组，综合最大功率 850 马力，支持最高 250kW 直流快充，10% 充至 80% 约需 30 分钟。轿车 0-100km/h 加速 2.6 秒，续航约 670 公里；SUV 为 2.9 秒和约 560 公里。",
-              "source_url": "https://www.ithome.com/1/005/490.htm",
+              "title": "警方打掉一网暴团伙：人肉开盒、短信轰炸等，98人落网",
+              "brief": "警方打掉一个网络暴力团伙，该团伙实施人肉开盒、短信轰炸、污言刷屏、冥物寄送等不法行为，共98人落网。经查，该团伙面向因网络游戏社交引发矛盾的特定群体，根据委托人需求收费并定制线上报复订单，形成接单、派单、组群、施害、反馈的流水线化作案模式。团伙以网罗门徒、分级收费、按级授能、按劳返利方式运作，冯某负责布置任务，陈某负责运营接单与收益分配，何某、刘某等从事人肉开盒和短信轰炸并提供技术支持。多名被害人出现抑郁、厌学等后果。警方已对19人采取刑事强制措施，行政处罚32人，案件正在进一步侦办中。",
+              "source_url": "https://www.ithome.com/1/005/514.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T06:39:21+08:00"
+              "published_at": "2026-09-22T08:17:19+08:00"
             },
             {
-              "title": "iOS 27.2 代码曝光苹果正测试 iPhone 防抢夺功能",
-              "brief": "iOS 27.2 代码显示，苹果正在测试一项 iPhone 防抢夺功能，但尚未启用。该功能可在设备被从用户手中抢走时触发自动锁定，判断依据包括设备出现与抢夺动作相符的剧烈加速、配对的 Apple Watch 在一段时间内无法连接或失去连接、长时间失去网络连接，以及设备超过一定时间仍处于解锁状态。苹果还加入多项降低误触的机制，例如用户成功完成生物识别验证后即可阻止锁定，部分前台应用活动也会被视为正常使用行为。代码显示 AutoLock 采用投票机制，潜在盗窃信号可请求锁定，而生物识别、熟悉地点或特定应用活动等安全条件可否决锁定请求。该功能在 iOS 27.2 beta 2 中尚未启用，也未作为用户选项提供。",
-              "source_url": "https://www.ithome.com/1/005/488.htm",
+              "title": "AI编程平台Bitrig为苹果iPhone Duo引入支持，提供交互式3D模拟器",
+              "brief": "AI编程平台Bitrig宣布为苹果iPhone Duo引入支持，提供交互式3D模拟器供开发者测试应用。用户可通过文字或语音提示生成原生SwiftUI应用，并直接在iPhone上的Bitrig应用中运行。该平台此前已推出Mac版应用，加入完整Xcode工具链、内置iPhone模拟器和真机测试功能，支持导出至Xcode或通过TestFlight和App Store分发。在苹果发布Xcode 27.1 Beta 1正式支持构建和测试iPhone Duo应用后，Bitrig迅速加入相关支持。开发者可在模拟器中自由折叠、倾斜、旋转和调整设备姿态，测试不同使用场景下的应用表现。",
+              "source_url": "https://www.ithome.com/1/005/513.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T06:33:02+08:00"
+              "published_at": "2026-09-22T08:07:56+08:00"
             },
             {
-              "title": "苹果发布 watchOS 27.2 开发者预览版 Beta 2",
-              "brief": "苹果今日推送 watchOS 27.2 开发者预览版 Beta 2，距上一版本发布仅数日。开发者需登录苹果开发者计划，通过“设置-通用-软件更新”升级；公开测试版用户则需先注册 Apple Beta 版软件计划。此次更新为常规迭代，IT之家表示稍后将带来具体更新内容。文中还附带了 watchOS 27 系列从 Beta 1 到 27.0 正式版的完整发布历史，供用户参考固件版本与升级路径。",
-              "source_url": "https://www.ithome.com/1/005/486.htm",
+              "title": "CNNIC与CNCERT联合推出安全DNS服务：接入即防护，可拦截恶意域名",
+              "brief": "CNNIC与CNCERT联合推出安全DNS服务，并首批集中亮相安全DNS、安全云、恶意样本检测、CNVD符合性测试四项能力。安全DNS是面向互联网用户的公共域名解析服务，依托国家级权威数据库与高置信度威胁情报运行。在用户同意前提下，该服务通过内置安全策略识别恶意域名、钓鱼网站等风险资源，用户无需复杂终端配置，接入即可获得防护，可应对DNS劫持、恶意网址诱导、钓鱼欺诈及隐蔽网络攻击。安全云可实时更新多方威胁情报与防护规则，实现一点发现、所有用户即时布防。恶意样本检测汇聚多厂商分析引擎，CNVD符合性测试则依托国家信息安全漏洞共享平台数据。",
+              "source_url": "https://www.ithome.com/1/005/512.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T01:36:13+08:00"
+              "published_at": "2026-09-22T08:05:52+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "宏碁董事长：内存短缺不会持续到2030年，但2027年上半年仍将涨价",
+              "brief": "宏碁董事长陈俊圣表示，内存不至于短缺到2030年，但2027年上半年仍会继续上涨，下半年有望企稳。他预计2026年第四季度元器件价格将再涨5%至20%，PC价格随之上涨，OEM无法自行消化成本，只能将成本转嫁给消费者。目前DDR4和DDR5内存严重短缺已缓解，CPU供应也在改善，仅部分入门和中端型号仍紧张。PC涨价将抑制销量，行业困难短期内仍将持续。",
+              "source_url": "https://www.landian.news/archives/127016.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-22T08:30:02+08:00"
             }
           ]
         }
