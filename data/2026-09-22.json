@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T18:52:24.511610+08:00",
+  "generated_at": "2026-09-22T20:52:29.679025+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "新款Mac mini与Mac Studio今日开售，苹果店支持当日自提",
+              "brief": "苹果今日在包括美国在内的30个国家和地区正式发售新款Mac mini和Mac Studio，多家Apple Store已支持当日到店自提。用户可在苹果官网将产品加入购物袋，结账时选择“到店自提”，输入邮编并选择门店与日期，在线完成付款，取货时可能需出示政府签发的带照片身份证件和订单号。通过官网定制的升级配置机型不参与当日自提。Mac mini（M6）起售价899美元，教育优惠799美元；Mac mini（M5 Pro）起售价1699美元，教育优惠1599美元。Mac Studio（M5 Max）起售价2499美元，教育优惠2299美元；Mac Studio（M5 Ultra）起售价5499美元，教育优惠5099美元。符合条件的美国用户还可通过Apple Upgrade按月租赁并到期升级。",
+              "source_url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-22T20:00:42+08:00"
+            },
+            {
+              "title": "苹果仍在开发防抢夺功能，被盗iPhone将自动锁定",
+              "brief": "最新iOS 27.2测试版中的新代码显示，苹果仍在开发一项可在iPhone被从手中抢走时自动锁定的功能。该功能内部代号为“AutoLock”，将利用陀螺仪、加速度计等传感器判断手机是否被抢夺，并借助配对的Apple Watch检测手机是否突然远离用户手腕。代码显示其判断依据包括：与抢夺动作相符的急剧加速、配对的Apple Watch长时间无法连接、与Apple Watch失去连接、长时间失去网络连接，以及设备在超过一定时间后仍处于解锁状态。同时代码还包含防止误判的保护机制，例如成功的生物识别认证或前台应用活动可否决锁定请求，整体采用类似投票系统的机制。一旦确认被盗，设备将锁定并启用“被盗设备保护”，要求生物认证才能访问存储的密码或信用卡，更改Apple账户密码等操作还设有一小时延迟。",
+              "source_url": "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-22T19:45:06+08:00"
+            },
             {
               "title": "苹果悄然将旧款 iPhone 排除在新相机功能之外",
               "brief": "苹果为摄影风格新增的纹理与颗粒控制仅限 iPhone 18 Pro 机型及即将推出的 iPhone Duo，旧款 iPhone 无法使用。此前苹果新闻稿曾称该功能将在支持最新一代摄影风格的 iPhone 机型上提供，iOS 27 用户指南也列出 iPhone 16 系列、iPhone 17 系列、iPhone Air 和 iPhone 18 Pro 等设备。苹果随后修改了 iPhone 18 Pro 新闻稿脚注，明确该控制仅适用于 iPhone 18 Pro 拍摄的照片以及 iPhone Duo 的超广角、主摄和舞台居中摄像头。目前尚不清楚苹果是否原本打算支持旧设备后改变计划，苹果也未就此作出回应。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
               "source_name": "MacRumors",
               "published_at": "2026-09-22T16:07:39+08:00"
-            },
-            {
-              "title": "苹果CEO约翰·特努斯谈iPhone Duo设计、Siri AI与接任CEO",
-              "brief": "苹果CEO约翰·特努斯在苹果九月发布会后接受Canal+脱口秀《Clique》采访，谈及iPhone Duo的设计、开发中遇到的困难以及他对苹果的规划。特努斯解释iPhone Duo展开后采用类似iPad形状的原因，称不想简单把两个手机形状拼在一起变成奇怪的方形，而是想打造符合苹果理念的大屏体验，因此采用了全新宽高比。他表示开发过程中有大量问题需要解决，折叠形态让员工有机会发挥聪明才智、创造全新事物，硬件难题涉及铰链和显示屏设计及其可靠性。被问及最喜欢的iPhone Duo功能时，他展示了开合动画，称其俏皮有趣、令人会心一笑。特努斯还重申苹果对AI伴侣的立场，称Siri AI并非设计来当你的朋友，苹果不想取代人际关系。他透露时任CEO蒂姆·库克和董事会曾询问他是否愿意接任苹果CEO。",
-              "source_url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-22T07:12:27+08:00"
-            },
-            {
-              "title": "苹果停止签署iOS 26.6.2，升级iOS 27后无法降级",
-              "brief": "苹果已停止签署iOS 26.6.2，用户升级到iOS 27后将无法降级回iOS 26的任何版本。iOS 27于一周前发布。所谓“签署”是指软件能通过苹果在新版iOS下载时进行的服务器端验证，验证失败便无法安装。苹果通过取消签署来阻止用户安装过时且安全性较低的iOS版本。若尚未安装iOS 27，仍可继续使用iOS 26，但一旦升级就无法回头。此外也无法从iOS 27降级到与iOS 27同时发布的iOS 26.7，因为iOS 26.7是OTA更新，没有可用的恢复文件。",
-              "source_url": "https://www.macrumors.com/2026/09/21/ios-27-downgrading-impossible/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-22T06:25:36+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "NASA局长：我只对国际伙伴的“好交易”感兴趣",
+              "brief": "NASA局长贾里德·艾萨克曼表示，随着登月竞赛从美中之间的国家声望之争转变为对地外土地和资源的高风险争夺，NASA必须更有选择性地建立国际伙伴关系。他指出，月球南极附近一小片区域是建立月球基地的最佳位置，那里的永久阴影陨石坑内蕴藏大量水冰，可用于供应水、空气和火箭燃料，支持永久定居并作为未来火星探索的跳板。他称月球面积相当于非洲，而南极更像华盛顿特区，道路和好车位有限。",
+              "source_url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-22T19:00:37+08:00"
+            },
+            {
               "title": "Meta高权限AI助手Muse存在严重零日漏洞",
               "brief": "Meta新推出的AI助手Muse被宣传为“从底层为隐私和安全而构建”，但研究人员发现一个零日漏洞，可让本地运行的应用和终端命令完全控制该助手。Muse可预约、填表、处理客服、购物、生成图像与文档，并连接WhatsApp、邮件、日历和社交媒体；任务需要时还能即时创建工具。为完成这些操作，用户须授予其账户访问权限及macOS系统资源权限，包括写文件、访问麦克风和摄像头、监控位置与日历。该漏洞可绕过苹果多年构建的防护机制，使任意应用或终端命令获取令牌。亚马逊已开始在其网站屏蔽Muse。",
               "source_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
@@ -155,19 +162,33 @@
               "source_url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-22T00:57:26+08:00"
-            },
-            {
-              "title": "报道称拉塞尔·沃特将对所有 NIH 拨款拥有否决权",
-              "brief": "据《华盛顿邮报》报道，在一场有争议的白宫会议上，美国国立卫生研究院（NIH）院长杰伊·巴塔查里亚试图阻止将资助决策置于政治控制之下的新举措，但似乎未能成功。该举措来自白宫管理和预算办公室主任拉塞尔·沃特。此后《纽约时报》和 Politico 等媒体证实并扩展了这一消息。目前看来，政府正在起草一项行政命令，赋予沃特对 NIH 每一笔拨款的否决权。NIH 是全球最大的生物医学研究资助机构，年度预算约 470 亿美元。沃特认为其资助了太多“觉醒”研究，此前已终止大量拨款并提议大幅削减预算，但均遭国会或法院否决。",
-              "source_url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-22T00:40:26+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "三星或效仿苹果推出验证电池，DIY维修恐受影响",
+              "brief": "据The Elec报道，三星将在部分手机电池中加入安全芯片，首批可能用于Galaxy A系列等中端机型，用于验证电池是否经过充分测试并符合三星性能与安全标准，同时有助于回收环节获取制造商和使用信息。三星官方回应称无法确认下一代产品的技术方向。此举与苹果多年前推出的iPhone电池验证和部件配对做法类似，后者曾迫使消费者只能从苹果或授权维修商处更换电池等部件，因此引发对第三方维修受限的担忧。",
+              "source_url": "https://www.androidauthority.com/samsung-security-chip-verified-batteries-3713956/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T20:10:46+08:00"
+            },
+            {
+              "title": "小米18 Pro双200MP旗舰发布在即，为三星S27 Ultra提供参考",
+              "brief": "小米18 Pro与18 Pro Max将于明天发布，配备后置副屏和双200MP摄像头。小米已公布两颗200MP传感器的细节：主摄为1/1.28英寸，可能采用OmniVision传感器，尺寸略大于三星Galaxy S26 Ultra所用的ISOCELL HP2；另一颗为潜望式长焦，第三颗超广角位于屏幕下方。该机还支持徕卡联合的“双200MP超清”系统及AI增强功能，使照片更接近真实相机效果，设计上则借鉴了iPhone 17 Pro风格。",
+              "source_url": "https://www.androidauthority.com/xiaomi-18-pro-dual-200mp-camera-specs-3713969/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T19:27:24+08:00"
+            },
+            {
+              "title": "Google Messages 正筹备迄今最大规模搜索改版",
+              "brief": "在Google Messages测试版20260917中发现，谷歌正在测试全新的搜索主页，可直接预览对话中共享的照片、视频、链接和地点，无需先选择分类。新设计还可能列出所有匹配的文本消息，并允许从主搜索页直接进入某个特定对话内搜索，同时测试可滑动的媒体结果以及重新设计的聊天内搜索、链接和地点页面。由于属于APK拆解，这些功能不保证最终推出，谷歌可能更改或放弃。",
+              "source_url": "https://www.androidauthority.com/google-messages-search-redesign-apk-teardown-3713882/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-22T19:07:46+08:00"
+            },
             {
               "title": "体验沃尔玛Onn平板后，我不再考虑其他安卓品牌",
               "brief": "作者去年曾撰文称，使用安卓平板十余年的家人终于尝试了iPad，当时表示未来可能仍会购买新款安卓平板作为备用。今年夏天，他们为小儿子购入Onn Core 7英寸平板，印象深刻，一个月后又添置了Onn 11 Pro。作者认为Onn平板在同等价位中难有对手，屏幕尺寸从7到13英寸，Core 7起价97美元，Onn 13 Pro最高388美元。多数廉价平板来自质量与售后未知的品牌，且严重缩水处理器与内存，而Onn全系采用铝合金外壳，手感耐用，轻微跌落不易造成严重损坏。",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/best-samsung-good-lock-modules-2026-3712342/",
               "source_name": "Android Authority",
               "published_at": "2026-09-22T18:00:58+08:00"
-            },
-            {
-              "title": "小米开源AI模型可即时生成3D游戏，叫板Claude与ChatGPT",
-              "brief": "小米已开源其全能AI模型，能够根据文本或视觉提示生成交互式3D世界，例如游戏。小米称MiMO-V2.6 Pro是Artificial Analysis智能指数基准上排名最高的开源权重模型，领先Qwen3.8 Max，仅略逊于Claude Opus 5、GPT-5.6 Sol和Meta Muse Spark。除开源权重外，小米还开放了7000多个强化学习环境和端到端RL框架。该模型具备3D空间推理能力，可通过“Vibe World”功能，仅用图像、视频或文本提示构建交互式3D环境、生成Blender模型，或用多摄像头画面控制Franka Panda机器人。小米同时发布Windows和Mac桌面应用。",
-              "source_url": "https://www.androidauthority.com/xiaomi-open-source-ai-model-3d-game-blender-model-3713895/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T17:56:05+08:00"
-            },
-            {
-              "title": "我收到了Google Messages的垃圾短信，教你如何关闭",
-              "brief": "本月早些时候，谷歌在Google Messages中利用商业聊天功能，开始向用户发送关于Messages新功能的短信。如果你不常关注Messages动态，这或许是了解新功能的方式；但作者认为这纯属烦人的垃圾信息。好消息是可以永久关闭。这些短信很容易识别：收件箱中会出现来自“Google Messages”的对话，旁边有勾选标记，头像为Messages应用图标。打开后可见谷歌关于各项功能的说明，例如9月18日提醒通过RCS发送的照片视频比标准SMS质量更高。该对话无法输入回复，只能使用“了解更多”等预设回复。关闭方法也很简单。",
-              "source_url": "https://www.androidauthority.com/google-messages-business-chat-spam-how-turn-off-3713576/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T17:30:36+08:00"
-            },
-            {
-              "title": "新Galaxy S27泄露：性能好消息，钱包坏消息",
-              "brief": "距离预计明年发布的Galaxy S27系列还有数月，但泄露不断。爆料者Lanzuk在韩国博客Naver上分享了据称从微博和韩国行业消息源获得的存储与内存配置。Galaxy S27 Ultra提供12GB+256GB、12GB+512GB、16GB+1TB；Galaxy S27 Pro提供12GB+256GB、12GB+512GB、12GB+1TB；Galaxy S27和S27 Plus提供12GB+256GB、12GB+512GB。爆料还称S27 Ultra和S27 Pro可能采用UFS 5.1存储和LPDDR6内存，较S26 Ultra的UFS 4.0和LPDDR5X有明显提升。此前泄露称S27 Ultra部分市场或用Exynos 2700，美国等地用骁龙8 Elite Extreme Gen 6。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-memory-storage-configurations-leak-3713926/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-22T17:30:15+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Oppo新机成首款配备三颗2亿像素摄像头的手机",
+              "brief": "Oppo在中国发布旗舰手机Find X10 Pro Max，成为全球首款后置三颗摄像头均采用2亿像素传感器的机型。其主摄借助Oppo所称的DeepPix传感器技术实现17档动态范围，表明像素数量并非唯一亮点。三摄模组置于方形凸起相机岛内，旁边另设一条状区域容纳闪光灯和额外传感器，橙色装饰线呼应Oppo与哈苏的持续合作。标准版Find X10设计相似，但取消额外镜头元件，超广角摄像头降为5000万像素。",
+              "source_url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+              "source_name": "The Verge",
+              "published_at": "2026-09-22T08:18:35-04:00"
+            },
+            {
+              "title": "Peloton推出更便宜的可折叠跑步机",
+              "brief": "Peloton发布一款价格更低的折叠式跑步机，并同步更新另外两款跑步机产品线，同时引入多项AI跑步功能。Peloton表示，可折叠的不只是手机。该消息由资深可穿戴技术评测员Victoria Song报道，配图由Amelia Holowaty Krales拍摄。此次发布标志着Peloton在经历业务调整后重新发力硬件产品，试图以更亲民的价格和智能化功能吸引家庭健身用户。",
+              "source_url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+              "source_name": "The Verge",
+              "published_at": "2026-09-22T08:10:08-04:00"
+            },
+            {
+              "title": "是时候推出Mac Neo了",
+              "brief": "Mac Mini M6起售价已涨至899美元，其12核CPU和12核GPU对只需运行macOS、主要上网的用户可能性能过剩。文章认为应推出一款搭载A系列芯片的更便宜Mac桌面电脑，命名为Mac Neo。MacBook Neo已证明苹果能以699美元用iPhone芯片实现够用的笔记本性能，并配以优秀屏幕、键盘、触控板和电池。若将智能手机芯片、电源、基础扬声器等组合成小型台式机，可填补低价Mac桌面市场空白。",
+              "source_url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+              "source_name": "The Verge",
+              "published_at": "2026-09-22T08:00:00-04:00"
+            },
+            {
+              "title": "Meta修复Muse漏洞，该漏洞可让攻击者控制AI代理",
+              "brief": "Meta为其Muse macOS应用发布补丁，修复一个可让攻击者接管AI代理的零日漏洞。安全研究员Patrick Wardle发现，该漏洞利用Muse一项未公开设置，使运行本地代码的潜在攻击者能将转录处理从Meta服务器重定向至自己的端点，从而访问Muse账户。据Ars Technica报道，多个设计决策导致该缺陷，包括Muse听写在云端而非设备端进行，以及允许任何应用控制Muse所有未公开设置。Wardle已开发出概念验证攻击。",
+              "source_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+              "source_name": "The Verge",
+              "published_at": "2026-09-22T07:53:58-04:00"
+            },
+            {
               "title": "你能忘记对Meta的感受吗？",
               "brief": "2021年，一名举报人指控Facebook伤害儿童，扎克伯格公开反驳称公司关心安全与心理健康。然而在私下WhatsApp对话中，面对一位读者希望他将青少年安全作为个人核心议题的呼吁，扎克伯格坦言自己更专注于元宇宙等其它领域，并询问对方这如何与推动元宇宙这一重大机遇相契合。文章以此为切入点，梳理Meta面临的数千起诉讼与“色狼眼镜”等争议，探讨扎克伯格能否借新一轮AI布局让人们淡忘过往负面印象。",
               "source_url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
               "source_name": "The Verge",
               "published_at": "2026-09-22T06:00:01-04:00"
-            },
-            {
-              "title": "苹果首场现场音乐演出场所将于英国总部楼下开业",
-              "brief": "苹果正准备在英国开设一处全新的“最先进”现场音乐场所，可容纳600人，用于举办演出、录音和视频转播。该场所名为Apple Music Hall，位于伦敦标志性建筑巴特西发电站内的苹果欧洲总部楼下，计划于9月28日开业，首场演出细节尚未公布。苹果高管奥利弗·舒瑟表示，苹果对音乐的热爱可追溯至早期，从iPod发布到长期举办的iTunes音乐节，再到Apple Music的推出。巴特西发电站也因曾登上平克·弗洛伊德《Animals》专辑封面而广为人知。",
-              "source_url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-              "source_name": "The Verge",
-              "published_at": "2026-09-22T04:35:54-04:00"
-            },
-            {
-              "title": "新泽西施工误剪光纤电缆，全美数百航班受影响",
-              "brief": "周一，新泽西施工人员意外切断一条威瑞森光纤电缆，该电缆用于空中交通管制，导致数百架航班取消或延误。美国联邦航空管理局局长布莱恩·贝德福德表示，电路故障后发现了这条被切断的光缆。此次中断重创东北部各机场，纽约市三大机场均实施地面停飞。威瑞森向CNBC声明称对此事件“不负责任”，将责任归咎于在当地施工、挖断电缆的建筑承包商。美国交通部长肖恩·达菲称是美铁施工队误剪线路，但美联社报道称美铁将责任归咎于新泽西交通局施工队。线路已修复，但延误仍在持续。",
-              "source_url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-              "source_name": "The Verge",
-              "published_at": "2026-09-21T19:48:56-04:00"
-            },
-            {
-              "title": "亚马逊欲助科罗拉多河，但公司用水量仍不透明",
-              "brief": "亚马逊计划在科罗拉多河沿岸投入2000万美元用于水资源保护项目，这条河是美国西部4000万人的关键水源，目前正面临“前所未有的”干旱。此举正值亚马逊等科技公司因数据中心用水量受到日益严格的审查之际。亚马逊的目标是在本十年末实现“水正效益”，即回补的水量超过其消耗量。该公司近期披露了部分用水信息，但外界对其整体影响的了解仍不完整。亚马逊当日宣布成立科罗拉多河流域合作组织，使命是打造规模最大的企业节水项目之一。",
-              "source_url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-              "source_name": "The Verge",
-              "published_at": "2026-09-21T19:15:32-04:00"
-            },
-            {
-              "title": "加州收紧对AI数据中心能耗与用水的监管",
-              "brief": "加州州长加文·纽森签署七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民。法案要求加州公共事业委员会为数据中心设立新的费率类别，并强制其支付当地电网和水系统的升级费用。其他条款规定，拟建数据中心须向地方政府披露预计用水量、能效信息及干旱应对规划，同时必须满足特定的能源、水和燃料消耗要求，才能获得简化审批资格。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-              "source_name": "The Verge",
-              "published_at": "2026-09-21T16:29:45-04:00"
             }
           ]
         }
@@ -253,6 +253,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《塞尔达传说》真人电影女演员发布神秘预告，或暗示首支预告片即将到来",
+              "brief": "《塞尔达传说》真人电影上映在即，任天堂与索尼却仍未公开任何动态影像，仅有布蕾格森饰演塞尔达、本杰明·埃文·安斯沃思饰演林克的剧照。布蕾格森在Instagram发文称“为明天兴奋”，引发粉丝对预告片即将发布的猜测。此前任天堂直面会仅确认片名与原创故事设定。影片由韦斯·波尔执导，宫本茂与阿维·阿拉德担任制片，去年冬天在新西兰拍摄。据非官方报道，迪切·拉赫曼或饰英帕，乌利·拉图克夫或饰加侬多夫。",
+              "source_url": "https://www.ign.com/articles/the-legend-of-zelda-movie-actress-posts-cryptic-tease-raising-hopes-for-an-imminent-trailer",
+              "source_name": "IGN",
+              "published_at": "2026-09-22T18:28:25+08:00"
+            },
             {
               "title": "宝可梦集换式卡牌Mega进化—Delta Reign三张新卡首曝，11月发售",
               "brief": "宝可梦集换式卡牌游戏Mega进化主题新扩展包Delta Reign将于今年11月推出，共收录超过135种卡牌设计，其中包括Mega Malamar、Mega Golurk和Mega Rayquaza等宝可梦。官方首次公开草猫宝可梦新叶喵及其进化形蒂蕾喵、魔幻假面喵的卡牌。新叶喵拥有70点HP，招式嬉闹威力一般；进化后蒂蕾喵90点HP，招式居合斩可造成60点伤害；最终进化魔幻假面喵ex拥有320点HP，招式魔法子弹可对对手造成120点伤害，并对后备区已受伤宝可梦再造成120点伤害，但被击倒时对手可拿两张奖赏卡。",
@@ -280,13 +287,6 @@
               "source_url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-to-add-easier-difficulty-setting-for-players-who-dont-want-combat",
               "source_name": "IGN",
               "published_at": "2026-09-22T07:53:45+08:00"
-            },
-            {
-              "title": "《奇迹暖暖》玩家因游戏服装设计“不敬”且“邪恶”关闭粉丝网站",
-              "brief": "粉丝网站 Nikki's Info 的管理员在停更一周后发布一篇病毒式传播的博文，宣布因宗教信仰退出《奇迹暖暖》，并关闭了这个汇集服装、饰品、剧情攻略和更新信息的网站。该站 X 账号创建于 2018 年，Patreon 订阅者现可获得退款。管理员称自己曾涉足邪术，经历警方和急救人员介入的濒死状况后向神求助，并批评游戏服装中含有大量十字架道具，认为它们与哥特恶魔主题混杂，对神不敬且带有邪恶意味。尽管其表示自己现已平安，但仍认为这些设计虽看似微小却具有后果与含义。",
-              "source_url": "https://www.ign.com/articles/love-nikki-player-shuts-down-fan-website-over-games-irreverent-and-demonic-clothing-designs",
-              "source_name": "IGN",
-              "published_at": "2026-09-22T07:24:47+08:00"
             }
           ]
         },
@@ -346,39 +346,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "被大V“理记”指控为巨贪白手套 罗永浩回应将投诉起诉",
-              "brief": "网络大V“理记”指控罗永浩是巨贪的白手套，称其长期在网上制造热点，将流量导入直播间获取巨额利益输送给保护伞。理记还称西贝已起诉罗永浩，即将开庭，并挂出交个朋友董事会主席李钧的百科资料。罗永浩回应称造谣诽谤已取证，将投诉、起诉，并否认相关指控。贾国龙则呼吁监管部门厘清高流量网络账号的言论边界，区分正常舆论监督与恶意贬损、商业诋毁等行为。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579182.htm",
+              "title": "空客用Steam Deck游戏掌机操控ExoMars原型车",
+              "brief": "空客在火星车测试中使用Steam Deck作为便携控制终端，操控ExoMars Rosalind Franklin原型车。由于地球与火星通信延迟巨大，未来火星车必须依靠自身传感器和计算系统自主导航，但地面研发阶段工程师仍需直接控制车辆。Steam Deck运行Linux系统，拥有摇杆、按键和触控屏，可安装第三方软件，适合作为机器人控制器。此前迪士尼乐园也曾用其控制BDX机器人。空客强调该掌机仅用于研发测试，不会成为火星车实际驾驶设备。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1579208.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-22T17:50:08+08:00"
+              "published_at": "2026-09-22T20:35:11+08:00"
             },
             {
-              "title": "苹果将在伦敦巴特西电站开设首个现场音乐场馆Apple Music Hall",
-              "brief": "苹果宣布将在伦敦巴特西电站开设首个现场音乐场馆Apple Music Hall，可容纳600人并支持录音与直播。场馆配备约11.6米宽可重配置舞台、由48只扬声器组成的空间音频系统，并预留至少16个摄像机机位和两间专用录音混音工作室。该场馆将与苹果在巴特西的新Apple Music广播工作室同步启用。巴特西电站曾出现在Pink Floyd专辑《Animals》封面上，苹果此前曾在此举办长达十年的iTunes音乐节。",
-              "source_url": "https://www.cnbeta.com.tw/articles/music/1579180.htm",
+              "title": "苹果仍在研发防抢锁机功能 iPhone被抢瞬间或自动锁定",
+              "brief": "苹果正在开发AutoLock防抢锁机功能，利用陀螺仪、加速度计等传感器检测抢夺行为特征。系统还会结合Apple Watch连接状态、移动网络中断等因素综合判断，并采用类似投票机制避免误判，生物识别验证等可信状态可否决锁机请求。一旦判定遭遇抢夺，设备将立即锁定并启用失窃设备保护，访问密码和敏感信息需额外验证。谷歌Android已有类似盗窃检测锁定功能，苹果何时发布尚不清楚。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579206.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-22T17:37:49+08:00"
+              "published_at": "2026-09-22T20:32:15+08:00"
             },
             {
-              "title": "AI芯片热潮推动产能扩张 台积电1.4纳米工艺预计2027年首季试产",
-              "brief": "台积电A14即1.4纳米工艺预计2027年第一季度展开试产，台中主要生产基地预计2027年第二季度完成主体建设，大规模试产或在第三季度。苹果未来A22 Pro处理器有望成为首批采用该工艺的产品之一，预计2028年上市。同时，AI需求推动3纳米产能持续攀升，南部科学园区月产能预计2026年第四季度达17万至18万片晶圆，2027年底突破20万片。2纳米月产能今年底有望达9万至10万片。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579178.htm",
+              "title": "雷军回应武汉街头吃热干面争议：帮助宣传家乡美食",
+              "brief": "雷军回应此前在武汉街头吃热干面引发的作秀争议，称原本只是简单记录，打算在个人账号发短视频宣传武汉美食，但现场被大量市民自发围拍，导致网友误以为团队带了几十名摄影师摆拍。雷军表示有人骂他装，解释后仍难说清，后来两次吃面都只能偷偷去。今年6月雷军现身武汉大成路早餐店吃热干面、面窝，视频中小朋友一句吃早饭还要这么多人拍照引爆舆论。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1579204.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-22T17:33:41+08:00"
+              "published_at": "2026-09-22T20:11:40+08:00"
             },
             {
-              "title": "消息称库什纳与沙特王储常玩游戏 后牵线其接触EA首席执行官",
-              "brief": "有消息称，库什纳与沙特王储穆罕默德·本·萨勒曼经常一起玩游戏，并在新未来城见面打高尔夫球。一名与中东国家领导人有联系的美国人士表示，是库什纳把这笔交易带给了王储。随后王储组建包括库什纳旗下Affinity在内的财团，以550亿美元收购EA，被称为史上规模最大的杠杆收购。该交易引发监管疑虑，包括EA掌握大量用户私人数据的问题，已于2026年8月获得批准。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579176.htm",
+              "title": "闲鱼涉黄背后：商品暗号越来越难管",
+              "brief": "闲鱼回应涉黄报道，称处宝可约截图实际为企业微信个人信息，并未出现在平台页面或私聊中。平台指出色情引流治理难点在于流量平台被用作入口、交易转移站外，以及黑灰产使用不断演化的暗号。自行车、硬币、矿泉水瓶等正常商品曾被赋予特殊含义，平台需结合账号历史、商品发布和私信行为综合判断，但也可能误伤普通用户。2026年1月至今闲鱼已处置98358个风险账号，并配合警方打击15个色情团伙。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579202.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-22T17:32:00+08:00"
+              "published_at": "2026-09-22T20:09:42+08:00"
             },
             {
-              "title": "《塞尔达传说：时之笛》衍生书《海拉鲁回声》以配角视角展开",
-              "brief": "《塞尔达传说：时之笛》衍生书《海拉鲁回声》由Anna-Victòria Teixidó以“Kurusonna”之名撰写，围绕游戏中的非玩家角色展开，故事按时间顺序编排，起点早于游戏事件，并延伸至海拉鲁之外。该书有豪华版和限量“时之英雄版”，豪华版售价25.95欧元，含332页精装书等；“时之英雄版”售价35.95欧元，仅在Game Press网站提供，另附陶笛手册、角色关系图等。Game Press表示两种版本均与任天堂无关，属粉丝创作。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579174.htm",
+              "title": "消息称DeepSeek等公司将就AI风险向联合国安理会作简报",
+              "brief": "据报道，DeepSeek以及月之暗面等中国AI企业已受邀就AI风险向联合国安理会作简报。联合国安理会由15个成员国组成，DeepSeek创始人梁文锋没有计划出席，相关安排仍可能有变。路透社此前报道称OpenAI CEO萨姆·奥特曼计划向会议作简报，外交官还预计Anthropic高级代表也将参会。截至发稿，DeepSeek和月之暗面尚未回应置评请求。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579200.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-22T17:31:39+08:00"
+              "published_at": "2026-09-22T20:08:34+08:00"
             }
           ]
         },
@@ -386,39 +386,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果修改宣传口径：iOS 27 质感与颗粒相机功能仅限 iPhone 18 Pro 与 iPhone Duo",
-              "brief": "苹果已修改 iPhone 18 Pro 新闻稿脚注，明确全新的质感与颗粒感控制仅适用于 iPhone 18 Pro 系列及 iPhone Duo 的超广角、主摄和 Center Stage 前置摄像头拍摄的照片，iOS 27 用户指南也同步限定该功能仅限 iPhone 18 Pro 机型。此前首发新闻稿曾称该功能将面向支持新一代摄影风格的 iPhone 机型开放，设备名单还包含 iPhone 16 系列、iPhone 17 系列与 iPhone Air。苹果尚未就文档修订作出回应。",
-              "source_url": "https://www.ithome.com/1/005/908.htm",
+              "title": "OPPO 33W 口袋充移动电源 10000 开售：新国标、A+C 双口，149 元",
+              "brief": "OPPO 33W 口袋充超级闪充移动电源 10000 正式开售，售价 149 元，符合新国标。该移动电源配备 A+C 双口输出，兼容 SUPERVOOC、PD、PPS、QC、UFCS 等协议，USB-C 单口和 USB-A 单口最大功率均为 33W，双口同时输出时最高为 5V 4A。支持自动识别小电流设备，可为智能手表、耳机、手环等小设备稳定充电。产品附赠一条长度 0.2m 的 3A 手提充电线，采用高密度编织材质，支持快速拆卸装配，双 Type-C 口设计，出门无需额外带线。",
+              "source_url": "https://www.ithome.com/1/005/948.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T18:32:26+08:00"
+              "published_at": "2026-09-22T20:44:40+08:00"
             },
             {
-              "title": "一加推出 N6 Lite 4G 手机：紫光展锐 T7250 芯片、6.75 寸 LCD 屏",
-              "brief": "一加 N6 Lite 4G 手机发布，配备 6.75 英寸 LCD 屏幕，最高亮度约 700nits。该机搭载紫光展锐 T7250 芯片，采用 12nm 制程，八核 CPU 与 ARM Mali-G57 MP1 GPU，内置 7000mAh 电池，支持 15W 有线充电和 5W 反向充电。后置 1300 万像素 OV13B10 摄像头，前置 500 万像素，支持 IP64 防尘防泼溅，保留 3.5mm 耳机接口，电源键集成指纹识别，支持 Wi-Fi 5 和蓝牙 5.2，重约 215g，售价 16999 卢比。",
-              "source_url": "https://www.ithome.com/1/005/907.htm",
+              "title": "1599 元起：OPPO Watch S2/X3 手表发布，8.9mm 轻薄设计、首次搭载超燃脂模式",
+              "brief": "OPPO 正式发布 Watch S2 和 Watch X3 手表，定价 1599 元起，9 月 24 日开售。OPPO Watch S2 建议零售价 1599 元，首销 1499 元，国补到手价 1274.15 元；OPPO Watch X3 建议零售价 2799 元，首销优惠价 2599 元，国补到手价 2209.15 元。手表采用 8.9mm 轻薄设计，可选跃动橙、薄雾粉、山影灰三种配色，拥有竹节运动表带，贴合度提升 15%，厚度减少 19%。首次搭载 OPPO FatMax 超燃脂模式，运用独家首创 FatMax 燃脂算法，结合个人运动能力、静息心率等身体数据建立专属燃脂模型。升级旗舰健康传感器，拥有 ECG 心电电极、8 通道心率传感器、16 通道血氧传感器以及超灵敏温度传感器。首发搭载 ColorOS 17 操作系统，支持拍照助手、流体云、智感任务窗，还支持一个手表连接两台手机。",
+              "source_url": "https://www.ithome.com/1/005/947.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T18:31:01+08:00"
+              "published_at": "2026-09-22T20:43:42+08:00"
             },
             {
-              "title": "美银等多家银行警告：AI 代购或增加诈骗、欺诈与数据隐私泄露风险",
-              "brief": "美国银行、ING、新西兰 ASB 银行和美国第一资本金融等多家银行发布报告，警告 AI 智能体代购可能带来诈骗、欺诈和数据隐私泄露风险。报告指出，消费者对 AI 智能体购物兴趣浓厚，但技术发展速度超过行业标准和消费者保护机制的完善速度。风险包括 AI 智能体可能要求提供银行卡信息并直接输入购物网站，或引导用户使用消费者保护较弱的支付方式。银行计划与政策制定者讨论明确披露 AI 参与交易、提高决策透明度及建立客户数据保护机制等提议。",
-              "source_url": "https://www.ithome.com/1/005/904.htm",
+              "title": "OPPO Enco X4 耳机发布：无损丹拿音质，首销价 1099 元",
+              "brief": "OPPO 发布 Enco X4 真无线降噪蓝牙耳机，首销价 1099 元。该耳机与丹拿大师联合调音，带来首款“无损丹拿音质”，支持至高 2.3Mbps 高保真无损传输，支持 48kHz/24bit 无损音源规格。采用第四代同轴双单元结构，双 DAC 分频驱动，音乐层次更分明，超瞬态高分子振膜，鼓点有力不拖沓，同心圆对称磁路，弦乐清透又细腻，全频段低失真，全链路真无损。芯片制程由上代 12nm 提升至 6nm，全频段降噪及人声降噪能力相较上代全面提升，并采用全新发泡硅胶耳帽，支持自适应智能降噪算法。带来全新 AI 实时翻译，覆盖 24 种常用语言，无需手机中转，一人查看屏幕、一人佩戴耳机即可完成无障碍流畅交流。还搭载全场景空间音频，支持快捷语音指令、头部操控、立体声录音等全新交互功能，可实现 53 小时超长续航。",
+              "source_url": "https://www.ithome.com/1/005/946.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T18:25:15+08:00"
+              "published_at": "2026-09-22T20:42:37+08:00"
             },
             {
-              "title": "第七届小米黑客马拉松收官：规模创新高，首设高校赛区及最佳 MiMo 应用奖",
-              "brief": "第七届小米黑客马拉松收官，共有 284 支队伍报名、近千名选手参与，最终 149 支队伍、505 名选手进入 48 小时极限开发，参赛规模创新高。本届首次将赛场延伸至高校，覆盖北京大学、武汉大学、香港中文大学等 94 所高校，吸引 145 支队伍参赛，并新增最佳 MiMo 应用奖，评选出 3 个获奖项目。获奖项目涵盖小米智能家居助手、面向独居老人的 Reme、AI 陪伴硬件灵伴 NexPet 等，官方还公布了小米赛区与高校赛区的多个奖项。",
-              "source_url": "https://www.ithome.com/1/005/902.htm",
+              "title": "5499 元起：OPPO Find X10 标准版手机发布，天玑 9600M 芯片、双 2 亿镜头群",
+              "brief": "OPPO Find X10 标准版手机正式发布，定价 5499 元起，9 月 24 日起开售。具体售价：12+256GB 5499 元，12+512GB 5999 元，16+512GB 6499 元，16+1TB 7499 元。可选冰蓝、清橙、浅钛三种配色，正面拥有 0.99mm 极窄四等边屏幕，侧面采用微光金属中框，背面配备绒光玻璃材质，支持 IP66/IP68/IP69 防尘防水。采用新一代 1nit 明眸护眼屏，支持 144Hz 高刷，分辨率 2768*1272，拥有 3840Hz 高频 PWM 调光。支持 BT.2020 广色域，色域容积相比 DCI-P3 提升约 40%，dE＜0.6，色度均一性提升 50%。搭载联发科天玑 9600M 旗舰芯片，主频可达 4.21GHz，拥有新一代潮汐引擎。带有 8000mAh 极光电池，配备自研硅碳负极材料，支持 80W 超级闪充、50W 无线闪充。首发搭载全新 ColorOS 17 操作系统，支持 AI 笔记应用，集成 9 个效率神器，到站提醒现已集成至流体云。影像方面，带来「哈苏超清原相机」，配备双 2 亿像素镜头群、丹霞色彩还原镜头，号称真实还原影像。",
+              "source_url": "https://www.ithome.com/1/005/944.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T18:11:29+08:00"
+              "published_at": "2026-09-22T20:38:04+08:00"
             },
             {
-              "title": "饭冢隆：世嘉曾计划砍掉索尼克 IP，第一部真人电影挽救了它",
-              "brief": "索尼克团队负责人饭冢隆在采访中透露，索尼克系列曾经历低谷，世嘉高层一度打算直接砍掉整个系列，他不得不在公司内部据理力争保住这个 IP。他认为真正扭转世嘉决策的是 2020 年上映的首部《刺猬索尼克》真人电影，影片口碑与票房双丰收，彻底改写了该 IP 的发展轨迹。饭冢隆还透露，世嘉原本计划让夏特退场，但因其人气极高而改变主意，夏特也是他本人最喜欢的角色。",
-              "source_url": "https://www.ithome.com/1/005/901.htm",
+              "title": "OPPO Find X10 Pro Max 发布：首发三 2 亿像素镜头群，售价 6799 元起",
+              "brief": "OPPO Find X10 Pro Max 正式发布，售价 6799 元起。具体售价：12+256GB 6799 元，12+512GB 7499 元，16+512GB 7999 元，16GB+1TB 8999 元。外观方面，背板拥有哈苏影像印迹，呈现金属平纹与立体编织两种质感，贯穿镜头模组的橙光印记灵感源自经典哈苏相机。提供月白、暖橙、浅钛三款配色，支持 IP69、68、66 防尘防水与瑞士 SGS 五星整机抗跌耐摔认证。行业首发三 2 亿像素镜头群，覆盖超广角、主摄、长焦镜头。哈苏 2 亿超清超广镜头配备 1/1.56 大底传感器与 F2.2 大光圈，进光量提升至 202%，配合 124° 超广视野。哈苏 2 亿超动态主摄拥有 17EV 超高单帧动态范围，F1.5 超大光圈。哈苏 2 亿超清长焦镜头支持 CIPA7.5 专业防抖。搭载 2nm 旗舰芯天玑 9600 Pro 芯片，配合 ColorOS 17，搭载 8000mAh 电池。",
+              "source_url": "https://www.ithome.com/1/005/943.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-22T18:10:50+08:00"
+              "published_at": "2026-09-22T20:37:18+08:00"
             }
           ]
         },
