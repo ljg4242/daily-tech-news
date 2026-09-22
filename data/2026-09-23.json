@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T04:52:48.340729+08:00",
+  "generated_at": "2026-09-23T06:52:32.565905+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "OpenAI发布GPT-6 Sol与Luna，将Astra改进下放至更低价位",
+              "brief": "OpenAI推出GPT-6 Sol与GPT-6 Luna两款新模型，接续GPT-6 Astra，采用类似方法在专业工作、事实准确性、编程、计算机使用与对齐方面改进。Sol面向日常工作，价格低于Astra；Luna更便宜，优化快速响应与高吞吐，Sol推理能力更强。新模型在基准测试中超越前代，Sol错误约为GPT-5.6 Sol的一半，部分测试追平或超过Claude Fable 5.1。两者采用Astra的沟通风格，回答更简洁。Sol每百万输入2美元、输出10美元，Luna为0.10与0.50美元，缓存读取享九折优惠。",
+              "source_url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-23T04:58:32+08:00"
+            },
             {
               "title": "苹果园区游客中心翻新后取消3D园区模型",
               "brief": "位于加州库比蒂诺的苹果园区游客中心经过翻新后，不再展示自2017年开放以来一直存在的苹果园区3D增强现实模型。原展示该模型的“展览空间”现改为墙面置物架“Avenues”和用于产品展示的圆形新桌。翻新工程于7月启动，近期完成。新的产品展示桌已在纽约市部分门店采用。展览空间虽永久关闭，游客仍可在Caffè Macs喝咖啡、购买苹果周边、登屋顶观景或参观“Mirage”公共艺术装置。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
               "source_name": "MacRumors",
               "published_at": "2026-09-23T02:05:40+08:00"
-            },
-            {
-              "title": "Beats 360在亚马逊开启预售，耳罩套装促销",
-              "brief": "新款Beats 360耳机于今日发布，并在周四正式上市前在亚马逊开启预售，提供黑色、云白色以及可自由搭配耳罩和头梁的套装。Beats同时宣布，兼容Beats 360的耳罩套装在未来一个月内由49.99美元降至9.99美元，亚马逊提供Performance Knit和UltraPlush两种材质及全部配色。此外，亚马逊本周对Beats配件大幅促销，包括Powerbeats Pro 2、Beats Pill、Beats Solo 4等，其中Beats Solo Buds售价69.95美元、Beats Studio Buds+售价99.95美元、Beats Pill售价99.95美元、Beats Solo 4售价129.95美元、Powerbeats Fit售价169.95美元、Beats Studio Pro售价169.95美元、Powerbeats Pro 2售价199.95美元。",
-              "source_url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-23T01:40:24+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "macOS 27 让你对液态玻璃效果拥有更多控制权",
+              "brief": "据 9to5Mac 报道，macOS 27 为用户提供了更多调节液态玻璃视觉效果的选项，允许根据个人偏好调整界面透明度与风格。该功能回应了此前用户对系统外观自定义程度不足的反馈，使桌面体验更灵活。文章指出，这一改动是苹果在新系统中持续优化界面设计的一部分，相关设置可在系统偏好中调整，具体选项和效果因设备与版本而异。",
+              "source_url": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-23T06:47:12+08:00"
+            },
+            {
+              "title": "苹果将 iPhone 点击支付扩展至八个拉美市场",
+              "brief": "据 9to5Mac 报道，苹果宣布在八个拉丁美洲市场扩大 iPhone 上的“点击支付”功能，使更多商户可直接用 iPhone 受理非接触式支付，无需额外刷卡终端。该功能依托近场通信技术，支持信用卡和借记卡等支付方式。此次扩展覆盖多个国家，是苹果在拉美地区推进移动支付布局的重要一步，具体上线时间和支持银行因市场而异。",
+              "source_url": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-23T05:50:44+08:00"
+            },
+            {
+              "title": "苹果为 iPhone、iPad、Mac 和 Vision Pro 新增 11 款相机 RAW 支持",
+              "brief": "据 9to5Mac 报道，苹果在 iPhone、iPad、Mac 和 Vision Pro 上新增对 11 款数码相机的 RAW 格式支持，使这些设备可直接查看和编辑相应相机拍摄的原始图像文件。此次更新覆盖多个品牌机型，方便专业用户在苹果生态内处理高画质照片。RAW 支持通常随系统更新推送，具体可用机型与系统版本有关，用户可在兼容应用中导入并编辑这些文件。",
+              "source_url": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-23T05:19:53+08:00"
+            },
             {
               "title": "蒂姆·库克会见欧盟主席冯德莱恩，欧盟力推新儿童安全规则",
               "brief": "苹果首席执行官蒂姆·库克与欧盟委员会主席乌尔苏拉·冯德莱恩举行会面，正值欧盟推动新的儿童安全规则之际。此次会谈发生在欧盟持续加强对大型科技公司监管的背景下，涉及未成年人网络保护等议题。双方讨论的具体内容尚未完全公开，但会面时机凸显欧盟在数字政策领域对苹果等科技巨头的关注。",
@@ -61,33 +82,26 @@
               "source_url": "https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-23T04:27:07+08:00"
-            },
-            {
-              "title": "Apple TV剧集《格林姐妹》第二季预告发布，十月首播",
-              "brief": "Apple TV发布了剧集《格林姐妹》（The Sisters Grimm）第二季的预告片，该剧将于十月正式首播。预告片展示了新一季的剧情走向和角色发展，延续了第一季的奇幻冒险风格。该剧改编自同名小说系列，讲述两姐妹在神秘世界中的冒险故事。第二季的回归备受观众期待，具体上线日期将在首播前公布。",
-              "source_url": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-23T03:55:56+08:00"
-            },
-            {
-              "title": "iOS 27的苹果照片应用新增期待已久的相机胶卷功能",
-              "brief": "iOS 27中的苹果照片应用将新增一项用户期待已久的相机胶卷功能。该功能旨在改善照片管理和浏览体验，让用户能够更便捷地按时间顺序查看所有拍摄的照片。此前用户一直呼吁苹果在照片应用中恢复或强化类似传统相机胶卷的视图。这一改动预计将随iOS 27的正式发布向用户推送。",
-              "source_url": "https://9to5mac.com/2026/09/22/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-23T03:39:42+08:00"
-            },
-            {
-              "title": "我在2026年柏林IFA展上发现的最佳苹果配件",
-              "brief": "在2026年柏林IFA消费电子展上，作者盘点了他发现的最佳苹果相关配件。这些配件涵盖充电、音频、保护壳等多个品类，展示了第三方厂商围绕苹果生态系统的创新产品。文章介绍了各款配件的功能特点和适用场景，为苹果用户提供了选购参考。IFA柏林是全球重要的科技展会之一，众多厂商在此发布新品。",
-              "source_url": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-23T03:08:45+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Nest门铃触发Gemini美式口音，与用户语言设置无关，谷歌称将修复",
+              "brief": "多名用户反映，Gemini在提及Nest门铃时会改用美式英语回应，即便用户使用法语、荷兰语或身处英国。一位法国用户称，只有涉及Nest门铃时Gemini才切换为美式口音；荷兰用户则遇到博世洗衣机提醒默认使用美式英语。其他交互仍按偏好语言进行。谷歌官方账号回应称正在处理，尚未推出修复。问题可能源于9月Google Home更新中对Gemini for Home的改动，但更新说明仅提及改进追问行为，具体原因不明。",
+              "source_url": "https://9to5google.com/2026/09/22/gemini-switches-to-american-accent-but-just-for-nest-doorbells/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-23T06:40:32+08:00"
+            },
+            {
+              "title": "The Sideload第45期：若事事重要，则无一重要",
+              "brief": "本期播客邀请Clicks的Jeff Gadway，讨论即将推出的Clicks Communicator。话题包括在内存危机期间发布第一代智能手机、重返实体键盘的体验，以及如何打造一款避免样样通样样松的产品。节目由NordVPN赞助，听众通过指定链接订阅两年可节省最高76%并获得四个月免费时长。主持人为Will Sattelberg、Daniel Bader、Kevin Michaluk和Jeff Gadway，可通过YouTube、Spotify、Apple Podcasts等平台订阅。",
+              "source_url": "https://9to5google.com/2026/09/22/the-sideload-045-if-everythings-important-nothings-important/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-23T05:36:32+08:00"
+            },
             {
               "title": "摩托罗拉Signature 27确认将在未来数月登陆北美市场",
               "brief": "摩托罗拉已向包括9to5Google在内的媒体确认，Signature 27将成为其北美智能手机产品线的最新成员，并将在未来数月内正式发布。这是摩托罗拉多年来首次在美国推出真正的旗舰级手机。该机搭载高通新一代骁龙8 Elite Extreme Gen 6处理器，提供7年系统与安全更新。此外，摩托罗拉还宣布与Bang & Olufsen达成多年合作，未来部分旗舰机型将采用由B&O声学工程师调校的音频，并深化音频技术、音效模式与生态整合。",
@@ -108,26 +122,26 @@
               "source_url": "https://9to5google.com/2026/09/22/motorola-signature-27-snapdragon-reveal-flagship/",
               "source_name": "9to5Google",
               "published_at": "2026-09-23T04:01:00+08:00"
-            },
-            {
-              "title": "高通发布骁龙8 Elite Gen 6与8 Elite Extreme Gen 6",
-              "brief": "高通发布两款旗舰芯片：骁龙8 Elite Gen 6与8 Elite Extreme Gen 6，称两者均为旗舰级产品，为OEM提供更多选择。二者基于2nm工艺，采用Oryon CPU，含两个5GHz Prime核心与六个4GHz性能核心。Gen 6的CPU性能较上代提升10%，能效提升37%；Extreme版CPU性能提升13%。全新Adreno GPU性能提升35%，能效提升40%，Extreme版提升44%并加入AI矩阵核心。Hexagon NPU方面，Extreme版共享内存增大50%，可支持300亿参数以上MoE模型。两款芯片均搭配高通X105 5G调制解调器。",
-              "source_url": "https://9to5google.com/2026/09/22/snapdragon-8-elite-gen-6/",
-              "source_name": "9to5Google",
-              "published_at": "2026-09-23T04:00:00+08:00"
-            },
-            {
-              "title": "今日安卓应用优惠与免费领取：星之海、会唱歌的怪物等",
-              "brief": "9to5Toys 汇总了今日 Google Play 应用与游戏的优惠及限免信息。付费游戏方面，《星之海》降至 7 美元，《我的会唱歌的怪物》作曲家和 Thumpies 各 3 美元。多款游戏限时免费，包括《Epic King Heroes: Premium TD》《Grow Spaceship VIP》《King of Defense》及其续作 Premium 版、《Avalar: Shadow War Premium》和《Space Shooter: Galaxy Attack》。此外还有多款图标包折扣或免费，如 Pastel Cozy、Dock 3D、Hexanet 等。硬件方面，Nothing Ear (3a) 降至 79 美元历史低价，Nothing 2026 头戴耳机七折，Googlebook 预购也在进行中。",
-              "source_url": "https://9to5toys.com/2026/09/22/todays-highlight-google-play-deals-12/",
-              "source_name": "9to5Google",
-              "published_at": "2026-09-23T01:54:07+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "美国多城市反对特朗普FCC抢占地方宽带规则的计划",
+              "brief": "美国多个城市和县对特朗普政府的一项提案表示不满，该提案旨在推翻管理有线宽带网络部署的地方规则。美国联邦通信委员会（FCC）一直在就一项拟议规则制定通知征求公众意见，该通知提议抢先于州和地方许可规则。FCC认为，太多地方政府“过度拖延审批，并试图从提供商那里榨取过高费用，导致一些部署不可行”。该计划得到宽带提供商支持，但地方政府告诉FCC，这将推翻保护公共安全的规则。地方政府称该计划非法，FCC应转而关注互联网提供商如何通过囤积许可等手段阻碍竞争。FCC案卷已收到许多市镇领导人和全国地方政府团体的评论，他们反对FCC计划实施的120天许可处理期限以及对费用和补偿的限制。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-23T04:38:30+08:00"
+            },
+            {
+              "title": "微软捣毁AI辅助平台，该平台入侵了1.2万个账户",
+              "brief": "微软周二表示，它领导了一项行业范围的行动，捣毁了一个基于订阅的诈骗平台，该平台使用AI聊天机器人在几个月内入侵了1.2万个微软账户。该平台名为EvilTokens，于2月在Telegram频道上推出，初始费用为1500美元，此后每月经常性收费500美元。EvilTokens提供单一服务，简化大规模入侵电子邮件账户所需的大部分步骤。该平台帮助客户分析收件箱，选择可能带来最大收益的目标，并起草后续电子邮件，提供逼真的诡计，诱骗公司员工将资金转移到攻击者控制的账户。微软表示，EvilTokens用户入侵了全球1万个组织的1.2万个客户账户，其中美国最为集中。",
+              "source_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-23T03:45:47+08:00"
+            },
             {
               "title": "加拿大不列颠哥伦比亚省起诉OpenAI，要求其为枪击案后重建学校买单",
               "brief": "加拿大不列颠哥伦比亚省对OpenAI提起诉讼，要求其为Tumbler Ridge社区重建学校及恢复工作承担费用。诉状指出，18岁枪手Jesse Van Rootselaar在作案前曾用ChatGPT策划暴力行为，OpenAI未及时向执法部门预警。枪手在Tumbler Ridge中学杀害五名学生和一名教育助理后自杀，此前还枪杀了自己的母亲和同母异父的弟弟，共造成八人死亡。该中学位于城镇中心，兼具地理与文化意义，案发后被迫拆除。此前受害者家属已就OpenAI未预警提起诉讼。",
@@ -148,26 +162,33 @@
               "source_url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-23T01:30:07+08:00"
-            },
-            {
-              "title": "丰田要求工人训练人形机器人，但称不会取代人类",
-              "brief": "丰田工人已开始协助训练人形机器人，作为其最终部署40万台工厂机器人计划的一部分，但丰田高管表示这一机器人化推进并非要直接取代人类。据《日经亚洲》报道，自2028年起，丰田汽车集团计划每年投资64.2亿美元用于以新机器人劳动力升级工厂，目标是在自有汽车工厂部署15万台机器人，并在生产零部件和材料的集团公司设施再部署25万台。丰田已开始在装配线上部署ELEY人形机器人向人类工人学习。工人通过佩戴基于机器人手指设计的夹具，教这些轮式机器人完成需要精确手部动作的任务。",
-              "source_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-23T01:06:16+08:00"
-            },
-            {
-              "title": "IT失误抹去医院产科记录长达11年的查看历史",
-              "brief": "英国诺丁汉大学医院NHS信托基金因IT部门“人为失误”丢失了跨越11年的产科记录数据。该数据丢失发生于8月18日，医院在博客中称，问题源于为报告目的复制放疗数据库时的常规技术工作中出现人为错误。该流程使用了一套此前用于另一医院系统的预写计算机指令，但运行前未更改某项设置，结果流程在产科数据库而非放疗数据库上执行，导致产科记录数据库被覆盖。被覆盖的数据库保存了2011年9月至2022年11月期间在该院接受护理的妇女和婴儿的产科记录，部分数据已无法恢复。",
-              "source_url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-23T00:55:40+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "苹果或推无屏健康追踪器，对标WHOOP与Fitbit Air",
+              "brief": "据报道，苹果正开发一款无屏幕的健康与健身追踪器，目标对手包括WHOOP和Google的Fitbit Air。该设备仍处早期原型阶段，可能不会在2028年前推出，甚至可能最终不发布。原型据称采用薄织物表带与带传感器的计算模块，没有显示屏，与主打应用和通知的Apple Watch路线明显不同。Google今年推出99美元的Fitbit Air，Luna Band也已以149美元全球发货，无屏追踪器正成为新趋势。彭博称该项目引起库克和Eddy Cue兴趣，Vision硬件团队也参与早期工程。",
+              "source_url": "https://www.androidauthority.com/apple-developing-screenless-fitness-tracker-3714327/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T05:39:40+08:00"
+            },
+            {
+              "title": "Anthropic发布Claude Opus 5.5：更强性能、更低成本",
+              "brief": "Anthropic推出新模型Claude Opus 5.5，宣称在性能、准确性、沟通表达和安全保障方面均有提升。该模型生成响应速度比Opus 5快30%以上，运行成本降低约40%，同时提高了Pro、Max、Team和Enterprise订阅用户的使用限额。公司称这是其迄今测试过表现最强的模型。早期测试者反馈，Opus 5.5写作更自然、更清晰易读，在长时间工作会话中尤其有帮助。基准测试方面，它在代理编码、知识工作、多学科推理等任务上领先Fable 5.1、Opus 5、GPT-6 Astra和GPT-5.6 Sol等模型。",
+              "source_url": "https://www.androidauthority.com/claude-opus-5-5-faster-coding-lower-costs-3714261/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T04:52:58+08:00"
+            },
+            {
+              "title": "Google Home音箱LED灯持续脉动，用户困惑",
+              "brief": "多名Google Home用户报告智能音箱LED灯出现异常：灯光持续亮起并脉动，提问后短暂熄灭，但很快又恢复原状。Reddit上一名Home Mini用户分享视频显示四盏白灯反复明暗变化。按Google支持文档，这可能表示Gemini for Home或Google Assistant正在响应，或语音助手误听到“Hey Google”并等待指令，但无法解释提问后问题为何再次出现。有用户猜测这是通知，称设备曾提示西班牙裔传统月。目前报告数量不少，但影响范围和确切原因仍不明确，Google尚未回应。",
+              "source_url": "https://www.androidauthority.com/google-home-speaker-light-bug-3714273/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T04:51:44+08:00"
+            },
             {
               "title": "One UI 9 更新后 Good Lock 锁屏时钟位置出错",
               "brief": "三星确认 Good Lock 的 ClockFace 模块存在漏洞，会导致锁屏时钟偏离用户设定的位置。一位 Galaxy S26 Ultra 用户在升级 One UI 9 后反馈，LockStar 中时间与日期排列紧凑，但实际锁屏和息屏显示中二者间距变大，时钟几乎移到屏幕最顶部。三星 Good Lock 支持团队已复现该问题，开发团队正在调查，但尚无修复方案，建议用户暂时改用系统默认时钟样式；若默认样式也出现同样问题，可提交错误报告并附日志。此事发生在三星开始在韩国为 Galaxy S26 系列推送稳定版 One UI 9 之后不久。",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/nest-doorbell-accent-fix-3714251/",
               "source_name": "Android Authority",
               "published_at": "2026-09-23T04:20:27+08:00"
-            },
-            {
-              "title": "摩托罗拉首款骁龙 8 Elite Extreme Gen 6 手机亮相",
-              "brief": "摩托罗拉发布 Signature 27，这是首款搭载高通新款骁龙 8 Elite Extreme Gen 6 芯片的手机。该机配备 5000 万像素主摄、2 亿像素潜望式长焦、升级散热、B&O 音频，以及醒目的多摄像头后置设计。后盖顶部有多个独立圆形开孔，摄像头分散排列而非集中在一个模组内。影像方面采用索尼 LYTIA 910 主传感器，另有至少两颗摄像头，可能为长焦和超广角，闪光灯也采用圆形开孔。摩托罗拉承诺提供七年系统和安全更新，Signature 27 预计 2026 年在全球上市。",
-              "source_url": "https://www.androidauthority.com/motorola-signature-27-snapdragon-8-elite-extreme-gen-6-3713829/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T04:00:51+08:00"
-            },
-            {
-              "title": "骁龙 8 Elite Extreme Gen 6 大幅提升手机视频能力",
-              "brief": "高通发布骁龙 8 Elite Gen 6 和 8 Elite Extreme Gen 6，这是首批采用 5GHz CPU 的移动芯片。Extreme 版本带来 8K/60fps 录制和 4K/240fps 慢动作等视频升级，并配备支持 Adreno Neural Fusion 的更强 GPU 和更强大的 AI 硬件。两款芯片采用 2+6 Oryon CPU 布局，两个 Prime 核心频率 5GHz，六个性能核心 4GHz，搭配 16MB Oryon FlexCache，基于台积电 2nm 工艺。高通称其为全新定制 CPU，是骁龙 8 Elite Gen 5 的继任者，仅支持 SME 而非 SME2。",
-              "source_url": "https://www.androidauthority.com/snapdragon-8-elite-extreme-gen-6-3712924/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T04:00:06+08:00"
-            },
-            {
-              "title": "谷歌向所有年龄段开放 Gemini 学习笔记本",
-              "brief": "谷歌正将学习笔记本扩展到所有年龄段、登录学校或工作谷歌账号的用户。用户需由管理员先启用 Gemini 应用和 Gemini Notebook。该工具可根据上传的笔记、教学大纲和课程材料生成个性化学习计划，支持创建新笔记本、进度检查测验和自定义课程，并提供动态仪表盘把目标分为“优势”和“重点领域”等类别。谷歌已开始逐步推送，但可能需要最多 15 天才能显示。该功能面向 Workspace 客户、Workspace Individual 订阅者和个人谷歌账号，目前尚未覆盖欧洲经济区，谷歌称未来几周将扩展支持。",
-              "source_url": "https://www.androidauthority.com/gemini-study-notebooks-expansion-3714202/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T03:31:25+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "百思买预订Googlebook可免费获赠Pixel Buds 2A",
-              "brief": "谷歌搭载Android系统的笔记本电脑即将上市，百思买推出预订优惠：在购物车中添加一台Googlebook，即可免费获赠一副榛色的Pixel Buds 2A耳机，活动持续至2026年10月25日。部分机型最早于2026年10月5日发货，目前预订已经开放。这些Googlebook由熟悉品牌推出，规格可与搭载Windows Copilot的电脑相媲美。The Verge的同事Antonio G. Di Benedetto已提前体验了这些笔记本并分享了他的看法。",
-              "source_url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+              "title": "派拉蒙与华纳兄弟合并后需大幅增加电影产量",
+              "brief": "派拉蒙已与起诉阻止其以1100亿美元收购华纳兄弟探索的12个州达成和解，距离成为全球最大制片厂之一更近一步。除承诺在美国制作的影视项目上至少多花3亿美元外，派拉蒙表示在吸收华纳兄弟探索后每年至少发行30部电影。这些目标表面上像是为了确保娱乐产业不因收购受损，但分析人士指出，要兑现如此高的年度产量承诺可能相当困难，实际执行面临挑战。",
+              "source_url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
               "source_name": "The Verge",
-              "published_at": "2026-09-22T15:28:55-04:00"
+              "published_at": "2026-09-22T18:26:07-04:00"
             },
             {
-              "title": "苹果带触控ID和数字键盘的妙控键盘降价30美元",
-              "brief": "百思买和亚马逊将黑色苹果妙控键盘降至169.99美元，较原价优惠30美元。这款全尺寸无线键盘配备触控ID按钮、数字键盘、方向键及额外功能键，触控ID功能需搭配运行macOS 15.1或更新版本、采用苹果自研芯片的电脑使用。键盘附赠一条可充电的编织USB-C线缆。此外，翻新Anker充电器、512GB microSD Express存储卡以及4K蓝光版《星际穿越》也在促销中。",
-              "source_url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+              "title": "Rabbit推出无需R1硬件即可运行的新AI代理",
+              "brief": "曾推出表现平平的R1设备的Rabbit公司，正在发布一款无需其硬件即可使用的独立AI代理。该公司称其新的OS3“代理式操作系统”运行在云端，但可在Windows、Mac和Linux设备上本地操作。用户最多可将五台设备添加到一个账户，并选择偏好的AI模型。OS3会自动确定完成任务所需的设备、文件、应用和AI模型。用户还可通过专用桌面网站、Telegram或iMessage等配对消息应用以及R1设备访问OS3。创始人表示已停止生产R1，但未放弃AI硬件，正专注于新的“cyberdeck”。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
               "source_name": "The Verge",
-              "published_at": "2026-09-22T14:10:57-04:00"
+              "published_at": "2026-09-22T16:52:40-04:00"
             },
             {
-              "title": "旧金山起诉特朗普媒体出售特朗普帖子的提前访问权",
-              "brief": "旧金山在加州州法院起诉特朗普媒体与科技集团，即Truth Social的母公司，指控其出售总统特朗普帖子的提前访问权。诉讼称Truth API推送是“腐败的商业计划”，违反加州不公平竞争法以及禁止内幕交易的联邦道德与反腐败法律。白宫发言人戴维斯·英格尔称Truth Social是“世界上最强大、最受欢迎的社交媒体平台”，但基于可信估计，该说法并不属实，过去一年Truth Social流量有所下降。特朗普常在该平台发布重大政策公告，其帖子对全球市场有明显影响。",
-              "source_url": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+              "title": "沙特新创公司Ceer发布造型前卫的Exobot电动车",
+              "brief": "沙特阿拉伯以石油生产和储量闻名，而非汽车制造，更不用说电动车生产。因此，沙特初创公司Ceer周一发布两款棱角分明、形似飞船的电动车令人意外，并计划到2030年再推出五款车型。Exobot轿车和SUV预计2027年起在沙特上市。其超未来主义设计让人联想到《创：战纪》《银翼杀手》等科幻电影，鸥翼门则明显借鉴特斯拉Model X。Ceer是沙特主权财富基金与富士康的合资企业。",
+              "source_url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
               "source_name": "The Verge",
-              "published_at": "2026-09-22T13:43:50-04:00"
+              "published_at": "2026-09-22T16:14:54-04:00"
             },
             {
-              "title": "苹果据报正在开发类似Whoop的健身追踪器",
-              "brief": "据彭博社报道，苹果正在开发一款无屏幕设计的健身追踪器，类似Whoop的产品。该设备原型据称是“带有传感器计算模块的细织物腕带”。报道称，该设备仍处于早期开发阶段，若苹果决定发布，可能不会早于2028年。Whoop除5.0系列腕带外，还销售内置心电图功能的MG（医疗级）版本，其腕带设计为可连续佩戴，电池续航超过14天。彭博社指出，苹果已在Apple Watch Series 12中加入多项Whoop已有的功能，包括连续心率追踪。",
-              "source_url": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
+              "title": "高通发布骁龙8 Elite Gen 6及Extreme版本",
+              "brief": "高通宣布推出骁龙8 Elite Gen 6，今年还新增了8 Elite Extreme Gen 6。公司称两款新手机芯片均为旗舰，规格差异相对较小，主要限于Extreme型号在AI处理、视频拍摄和游戏性能上的提升。两款Gen 6芯片均采用2纳米工艺，在调制解调器、显示规格、安全功能、GPS以及内存和存储支持方面有许多共同点。高通不再公布核心的详细分解，但给出的CPU参数相同，均为两个最高5GHz的大核和六个最高4GHz的性能核。尽管如此，Extreme被描述为性能略高。",
+              "source_url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
               "source_name": "The Verge",
-              "published_at": "2026-09-22T13:04:52-04:00"
+              "published_at": "2026-09-22T16:00:00-04:00"
             },
             {
-              "title": "安德森·霍洛维茨创办无作业“学院”，携手Palantir、谷歌和Meta",
-              "brief": "风险投资公司安德森·霍洛维茨（a16z）正在创办一所名为“霍洛维茨·安德森学院”的“学院”，定位为年轻人创办或加入硅谷初创公司的输送渠道。该学院将启动时拥有10个合作伙伴，包括Anduril、Anthropic、Coinbase、谷歌、Meta、英伟达、OpenAI、Palantir、Replit和Stripe，并获得由a16z领投的4200万美元资金。虽然被宣传为“高度选择性的学校”，但它不授予任何学位或认证。相反，学生将参加由OpenAI首席执行官萨姆·奥尔特曼等科技界人物主讲的短期课程，以及让学生进入科技公司实习的“合作项目”。根据学院常见问题页面，参加这个为期一年的项目，学生必须搬到旧金山并自行安排住房。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+              "title": "摩托罗拉Signature 27搭载高通新款Extreme芯片",
+              "brief": "摩托罗拉成为首家宣布推出搭载高通顶级骁龙8 Elite Extreme Gen 6芯片手机的公司。Signature 27有望成为摩托罗拉多年来最先进的旗舰机，但完整规格、价格和发布日期尚未公布。潜在买家首先得接受其设计，该设计注定评价两极。这款铝制手机机身纤薄，有黑色和绿色可选，一种采用编织战术纹理，另一种为“羽毛灵感”饰面。机身向上倾斜形成摩托罗拉所称的“相机平面”，四个镜头和闪光灯呈奇特拱形排列，确实独一无二。目前仅公布了少量规格。",
+              "source_url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
               "source_name": "The Verge",
-              "published_at": "2026-09-22T12:34:08-04:00"
+              "published_at": "2026-09-22T16:00:00-04:00"
             }
           ]
         }
@@ -254,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "马赫沙拉·阿里认同费奇是“巨大失败者”，《刀锋战士》重启搁浅",
+              "brief": "马赫沙拉·阿里在9月22日接受GQ记者扎克·巴伦采访时，谈及漫威影业取消其主演的《刀锋战士》重启项目。此前凯文·费奇曾在播客中称自己为“巨大失败者与废物”，并提到让韦斯利·斯奈普斯在《死侍与金刚狼》中回归饰演刀锋战士的兴奋之情，这与阿里版重启的失败形成鲜明对比。阿里表示费奇应回答为何项目未能推进，并指出漫威曾签下两届奥斯卡得主且坐拥数十亿美元，却始终未能成事，至今他仍不知原因。",
+              "source_url": "https://www.ign.com/articles/mahershala-ali-agrees-that-kevin-feige-is-a-gigantic-loser-and-failure-over-failed-blade-reboot",
+              "source_name": "IGN",
+              "published_at": "2026-09-23T05:20:30+08:00"
+            },
+            {
+              "title": "光环工作室电影总监同一周内先升职后被裁",
+              "brief": "Xbox本周继续大规模重组，首席内容官马特·布蒂宣布在光环工作室、其他第一方工作室及XGS管理层裁员268人。受影响者包括光环工作室电影总监乔什·丹尼尔斯，他在领英上透露自己同一周刚获晋升就被裁，称这“相当疯狂”。丹尼尔斯在Xbox工作逾十年，曾参与《极限竞速》系列，2024年出任电影总监并负责《光环：战役进化》。电影总监负责游戏创意愿景、叙事方向和过场动画等，该职位的取消暗示下一款光环游戏将采取截然不同的方向，而Activision现已接手该系列。",
+              "source_url": "https://www.ign.com/articles/halo-studios-cinematic-director-promoted-and-laid-off-within-the-same-week-as-xboxs-brutal-restructuring-continues",
+              "source_name": "IGN",
+              "published_at": "2026-09-23T04:41:47+08:00"
+            },
+            {
+              "title": "《GTA6》迈阿密营销启动，Rockstar斥资近百万美元设“欢迎来到罪恶都市”标牌",
+              "brief": "粉丝近日持续关注标牌施工，22日下午直升机将“欢迎来到罪恶都市”标牌吊上卡塞亚中心屋顶并安装完毕。《迈阿密先驱报》记者道格·汉克斯称，Rockstar Games为安装该标牌支付近100万美元，迈阿密-戴德县将根据营销协议收取97.5万美元。目前尚不清楚Rockstar在迈阿密的其它营销计划，但8月曾与市政府就各类活动、接管机场等进行广泛讨论。该市还曾就是否参与推广这款犯罪题材游戏有过争议，最终仍批准了营销活动。卡塞亚中心是迈阿密热火队主场，热火首场常规赛主场将于10月21日举行。",
+              "source_url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+              "source_name": "IGN",
+              "published_at": "2026-09-23T04:26:52+08:00"
+            },
+            {
+              "title": "《生化危机》粉丝热议扎克·克雷格电影的争议结局",
+              "brief": "克雷格选择不直接改编既有游戏，而是讲述医疗快递员布莱恩·霍杜卡维奇奉命将敏感包裹送往浣熊市综合医院的故事。他一路对抗变异怪物，最终得知包裹内是制造疫苗所需的化学剂，却不幸被感染女孩咬伤，变成“追踪者”并杀死医院顶楼所有科学家。结尾处，布莱恩意识尚存却无法控制变异，最终将唯一能救命的注射器丢下28层高楼。部分粉丝认为结局突兀、毫无回报，也有人批评安布雷拉科学家的无能毁了最后挣扎，称前半段是极有效的恐怖体验，但结局处理得荒谬草率。",
+              "source_url": "https://www.ign.com/articles/resident-evil-fans-debate-the-divisive-ending-of-zach-creggers-movie",
+              "source_name": "IGN",
+              "published_at": "2026-09-23T03:17:54+08:00"
+            },
+            {
               "title": "《新暗翼鸭》剧集登陆Disney+，马克·哈米尔与塞斯·罗根主演",
               "brief": "Disney+宣布推出全新《暗翼鸭》剧集，由马克·哈米尔为德雷克·马拉德即暗翼鸭配音，塞斯·罗根为拉奇帕德·麦夸克配音。官方剧情简介显示，暗翼鸭过去35年被困在一个从未听说过他英雄事迹的平行世界，如今了解他英雄过往的叛逆少年达基出现，将他拉回战斗，二人将联手对抗负鸭和兆伏等老对手，并与拉奇帕德、戈萨林和摩根娜等盟友重聚拯救宇宙。配音阵容还包括莉兹·卡普兰、莉莉玛、丹·史蒂文斯等，原版创作者塔德·斯通斯担任顾问。",
               "source_url": "https://www.ign.com/articles/darkwing-duck-disney-plus-mark-hamill-seth-rogen-plot-cast-teaser",
               "source_name": "IGN",
               "published_at": "2026-09-23T02:32:24+08:00"
-            },
-            {
-              "title": "《战犬》第二季发售日公布，将加入降雨等天气系统",
-              "brief": "《战犬》第二季发售日期已公布，官方确认将加入天气系统，首支预告展示了战场上的强降雨，玩家未来可能需应对天气变化，这是否影响驾驶或能见度尚待观察。第二季还将进行进度重置，所有人的解锁内容和等级将回到起点，目的是在每个赛季开始时重新平衡，防止玩家无限刷取后长期占据优势。不过部分粉丝对游戏抢先体验上线仅一个月就要重新解锁一切感到不满。《战犬》已成为今年最热门游戏之一，首周末销量超过两百万份，目前仍是Steam上最多人游玩的游戏之一。",
-              "source_url": "https://www.ign.com/articles/wardogs-season-2-release-date-announced-will-add-weather-including-rain",
-              "source_name": "IGN",
-              "published_at": "2026-09-23T02:21:19+08:00"
-            },
-            {
-              "title": "《光环》粉丝对动视接手看法不一",
-              "brief": "《光环》系列近期发生重大变动，包括Halo Studios大规模裁员以及下一部《光环》作品移交给动视。这一出人意料的举动在社交媒体上引发激烈讨论，粉丝们纷纷探讨该系列的未来及新作可能的样子。许多评论幽默地设想动视版《光环》会有大量微交易，以及类似妮琪·米娜的名人皮肤联动。有玩家怀念2009年《光环》与《使命召唤》社区截然不同的时光，也有人调侃Halo Studios存在时间比《光环：无限》加入Slayer模式还短。部分人担心动视会搞砸新作，另一些人则欢迎这次交接。",
-              "source_url": "https://www.ign.com/articles/halo-fans-cant-decide-if-activision-takeover-is-a-good-thing-or-not",
-              "source_name": "IGN",
-              "published_at": "2026-09-23T02:19:40+08:00"
-            },
-            {
-              "title": "《盗贼之海》粉丝担忧Rare未来，工作室被划归动视旗下",
-              "brief": "微软宣布对Xbox第一方工作室进行重大调整，包括裁员和整合，动视将接手Xbox未来许多职责，包括主导下一部《光环》游戏。《盗贼之海》开发商Rare也被置于动视旗下，引发许多人对该团队未来的担忧。过去动视曾吞并Neversoft等受爱戴的团队，让其负责《使命召唤》地图和支持开发。有粉丝表示，若以往动视的做法可作参考，Rare未来可能沦为《使命召唤》的支持团队。与此同时，Xbox本身的理念似乎也在走向终结，微软已将重心转向多平台发行和掌机设备。",
-              "source_url": "https://www.ign.com/articles/sea-of-thieves-fans-fear-for-rares-future-as-studio-gets-put-under-activision-following-xbox-reset",
-              "source_name": "IGN",
-              "published_at": "2026-09-23T01:25:07+08:00"
-            },
-            {
-              "title": "《我的世界》模拟近二十亿年后自行通关",
-              "brief": "YouTuber RedLogic 构建了自定义模拟，测试在没有玩家加入的情况下游戏能否自行通关。他用蒙特卡洛模拟将数十亿游戏刻压缩为采样等待时间，并追踪推进或摧毁进程的稀有事件与资源。他先筛选出资源合适且自然生成末地传送门的世界种子。模拟中，末影人直到第35510年才找到传送门，之后历经数百万年才摧毁末地水晶；300万年后雪傀儡射中末影人毁掉一颗水晶，如此重复九次，再靠苦力怕爆炸击杀末影龙。整个模拟耗时19.7亿年才完成。",
-              "source_url": "https://www.ign.com/articles/minecraft-beat-itself-after-nearly-two-billion-simulated-years",
-              "source_name": "IGN",
-              "published_at": "2026-09-23T00:58:13+08:00"
             }
           ]
         },
@@ -327,6 +327,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "任天堂美国总裁称Switch2征程才刚开始",
+              "brief": "任天堂美国总裁Pritchard表示，Switch2的征程才刚刚开始，已体验到自家及第三方多款优秀作品，期待开发团队未来带来更多创意内容。他提到与索尼及索尼影业等合作，将游戏体验带给现有玩家与新群体，是未来数年最令人兴奋的方向之一。访谈还提及塞尔达IP四十周年布局，包括今年11月登陆NS2的《塞尔达传说：时之笛 重制版》，以及与索尼影业合作的《塞尔达》真人电影，后者定于2027年4月末上映。任天堂希望依靠第一方大作、第三方新作与IP影视化联动，持续拉长Switch2生命周期，扩充软件与IP矩阵。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579256.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T06:41:39+08:00"
+            },
+            {
+              "title": "《街霸》电影春丽演员回应粗大腿造假质疑",
+              "brief": "针对《街霸》真人电影中春丽一角粗大腿被质疑“造假”的讨论，饰演该角色的演员作出回应，表示自己没空P图。相关话题引发关注，网友围绕角色造型与演员形象展开讨论。此前该片选角与造型已多次成为话题，此次回应进一步推高讨论热度。目前片方尚未就相关争议发布更多官方说明，影片后续宣传与上映安排仍待公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1579254.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T06:41:28+08:00"
+            },
+            {
+              "title": "高通发布骁龙8至尊版第6代两款旗舰芯片",
+              "brief": "高通发布骁龙8至尊版第6代两款旗舰芯片，重点强化端侧AI与智能体能力。新芯片配备感知中枢，可在本地运行最高20亿参数轻量模型，支持完整语音输入输出智能体，并建立长期记忆以提供自动化建议。更高端版本可在手机本地运行300亿参数混合专家模型，按任务激活部分专家以降低推理算力。影像方面支持8K 60帧与4K 240帧录制，加入APV专业视频编码格式，并利用AI改善人声与降噪。摩托罗拉同步宣布搭载该芯片的Motorola Signature 27手机，预计今年晚些时候上市。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579252.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T06:39:33+08:00"
+            },
+            {
               "title": "充电宝起火致荷航航班中途返航 涉事设备据称属于前CEO",
               "brief": "一块移动电源在荷航航班上突然故障起火，机舱内先传出巨响，随后出现明火，烧灼座椅区域及旁边窗帘。机组人员迅速扑灭火源，但因飞机远离陆地，最终决定放弃飞往目的地，调头返回荷兰，安全降落阿姆斯特丹史基浦机场。航空公司为机上322名乘客安排酒店，并于次日安排替代航班继续前往库拉索。多家荷兰媒体报道称，涉事充电宝据称属于荷航前首席执行官卡米尔·欧林斯，其身份引发舆论关注。乘客称该充电宝当时正在充电，违反荷航禁止飞行途中使用或充电的规定。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579250.htm",
@@ -339,27 +360,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579248.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-23T03:07:07+08:00"
-            },
-            {
-              "title": "OpenAI发布GPT-6 Sol与Luna：能力更强、价格更低",
-              "brief": "OpenAI推出GPT-6系列两款新模型Sol和Luna。Sol在编码能力上明显进步，能处理复杂软件工程任务、分析代码并执行多步骤工作流，侧重性能与成本平衡，适合大规模API调用和实时应用；Luna强调高难度推理与复杂任务处理，面向复杂编程、研究分析和多步骤自动化。两款模型均支持更先进的工具调用，可作为AI代理核心模型规划任务、调用工具并检查结果。OpenAI此次未按能力越强价格越高的惯例定价，而是在提升性能的同时降低部分API价格，以扩大高性能模型使用范围。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579246.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T02:41:32+08:00"
-            },
-            {
-              "title": "苹果研发无屏健康追踪器，对标Whoop等竞品",
-              "brief": "苹果正在开发一款无屏版健康追踪设备，瞄准Whoop、Garmin和谷歌等竞争对手。该设备原型采用纤薄织物表带，内置传感器计算模块，与以显示屏为核心、集成健身追踪、应用程序和通知等功能的Apple Watch不同，这款产品没有屏幕。相关报道还提及Tim Cook出席联合国大会讨论儿童网络安全、苹果仍在研发防抢锁机功能、将在伦敦巴特西电站开设首个现场音乐场馆，以及带屏智能家居控制终端最早或于下月发布等消息。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579244.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T02:33:39+08:00"
-            },
-            {
-              "title": "长鑫存储与长江存储加速互攻核心业务领域",
-              "brief": "据产业链消息，长江存储正准备进入DRAM市场，其三期项目新产线预计2026年底启动试生产，初期重点布局LPDDR5低功耗内存产品，初期DRAM产能预计约为每月2.5万片晶圆。与此同时，长鑫存储正寻找向NAND领域扩张的机会，消息称其在北京规划新的NAND研发与试生产项目，并成立相关研究机构推进技术开发，部分潜在客户已开始接触。业内预计长鑫NAND产线最早可能2028至2029年投运。随着双方进入彼此传统优势领域，专利、技术授权与工程人才争夺可能成为新摩擦点。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579242.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T00:51:50+08:00"
             }
           ]
         },
@@ -367,39 +367,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "高通与阶跃等合作，为第六代骁龙8超级至尊版端侧适配300亿参数AI模型",
-              "brief": "高通携手阶跃等合作方，为第六代骁龙8超级至尊版端侧适配300亿参数AI模型，依托混合专家架构，仅按任务需要激活部分专家模块，以降低计算量和内存带宽需求。合作方通过推理引擎、异构调度及存储方案优化，使模型运行内存需求较行业常规方案降低超过50%，并支持在智能手机上稳定运行。高通表示，该方案无需调用云端服务，可在本地完成邮件理解、行程规划、日历同步、航班及酒店推荐、行程分享和邮件草拟等任务。测试数据显示，模型预填充吞吐性能超过每秒330个Token，解码吞吐性能超过每秒28个Token。",
-              "source_url": "https://www.ithome.com/1/006/008.htm",
+              "title": "华为仓颉编程语言1.2.0发布，增强跨平台与工具链能力",
+              "brief": "华为仓颉编程语言1.2.0版本发布，属于STS通道。新版本新增Android 23 aarch64支持、iOS LTO支持，并增强ObjC与Java跨语言互操作能力。编译器方面修复了broken声明重载排除、const函数ICE、字符串插值位置信息等一批语义ICE问题，优化稳定性与性能。工具链LSP新增跨平台跳转定义、接口提取与重命名、数组索引提取等能力。仓颉是华为自研的面向全场景智能应用的现代编程语言，2025年7月正式开源，与ArkTS、C/C++共同支撑鸿蒙应用生态。",
+              "source_url": "https://www.ithome.com/1/006/020.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T04:40:27+08:00"
+              "published_at": "2026-09-23T06:46:57+08:00"
             },
             {
-              "title": "vivo宣布iQOO 16、iQOO Pad Ultra首批搭载第六代骁龙8超级至尊版",
-              "brief": "vivo宣布即将发布的iQOO 16、iQOO Pad Ultra将首批搭载高通第六代骁龙8超级至尊版处理器，为酷客带来更出色的超能电竞与AI体验，未来vivo还将有更多产品搭载该平台。综合此前报道，iQOO 16新机将于9月29日19:00发布，外观已经公布，官方还放出新机三色官图，主打科幻感。其中逐光配色采用独家激光全息技术，红蓝光影交错悬浮；传奇配色采用磁控溅射电镀工艺，670纳米电镀膜厚，冷调白色中透出细腻银灰；赛道配色以F1赛车刷紫灵感，把象征最快的紫融入低调内敛的黑。",
-              "source_url": "https://www.ithome.com/1/006/007.htm",
+              "title": "华为WATCH 6系列鸿蒙AI手表开售，2799元起",
+              "brief": "华为WATCH 6系列鸿蒙AI手表今日开售，2799元起，国补价2379.15元起。WATCH 6 Pro 43mm版3499元起，46mm版3599元起。WATCH 6 46mm版提供天青蓝、苍穹黑配色，采用球面蓝宝石玻璃与316L不锈钢；42mm版提供凝霜白、晨曦金、幻月黑配色，采用航空级铝合金。新品搭载HarmonyOS 7，带来腕上鸿蒙AI助手，小艺建议适配鸿蒙手机，支持重要短信识别排序。健康方面联合瑞金医院带来24小时高血压风险评估与AI健康解读。",
+              "source_url": "https://www.ithome.com/1/006/019.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T04:39:14+08:00"
+              "published_at": "2026-09-23T06:41:29+08:00"
             },
             {
-              "title": "小米曾学忠在2026高通骁龙峰会首秀小米18 Pro真机",
-              "brief": "小米曾学忠在2026高通骁龙峰会现场首次展示小米18 Pro真机。小米18 Pro系列已定档北京时间9月23日19:00在国内发布，此外，小米18 Pro系列将于年内登陆全球市场。此次首秀发生在2026骁龙峰会期间，该峰会也是高通发布新一代旗舰移动平台的重要场合，小米18 Pro系列预计将搭载高通第六代骁龙8系列处理器，相关消息引发关注。",
-              "source_url": "https://www.ithome.com/1/006/006.htm",
+              "title": "消息称苹果正酝酿无屏健康追踪手环，拓展Apple Watch版图",
+              "brief": "据古尔曼消息，苹果正在酝酿一款无屏健康追踪手环，将与Whoop产品竞争。若推出，意味着苹果将进入以轻量化腕戴设备为主的健康追踪品类。苹果现有穿戴产品以Apple Watch为核心，覆盖心率监测、运动记录、睡眠追踪等健康功能。此前报道称苹果正在重新思考Apple Watch的未来，甚至可能从头改造延续多年的产品形态，已研究多种可能性，包括采用圆形屏幕的Apple Watch以及彻底取消屏幕的健身配件等。一旦构想成真，将是该产品线迄今最重大的方向转变。",
+              "source_url": "https://www.ithome.com/1/006/018.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T04:32:59+08:00"
+              "published_at": "2026-09-23T06:30:38+08:00"
             },
             {
-              "title": "小米18 Pro系列官宣全球首发第六代骁龙8超级至尊版和第六代骁龙8至尊版",
-              "brief": "小米宣布小米18 Pro系列将全球首发高通第六代骁龙8超级至尊版和第六代骁龙8至尊版处理器。小米方面表示，高通全新多旗舰策略让厂商能够更灵活地实现目标，通过在即将推出的终端中采用这两款平台，小米能为更广泛的用户带来量身定制的差异化旗舰体验，并携手高通共同推动下一代AI赋能智能手机的发展，带来前所未有的个性化和快速响应体验。小米18 Pro系列已定档北京时间9月23日19:00在国内发布，并将于年内登陆全球市场。",
-              "source_url": "https://www.ithome.com/1/006/005.htm",
+              "title": "消息称苹果已搁置AI吊坠项目，曾设想以摄像头拓展Siri能力",
+              "brief": "据古尔曼爆料，苹果公司目前已搁置AI吊坠项目，尚不清楚推迟的具体原因，也不确定未来是否会恢复开发。在苹果最初计划中，该设备被设想为一种始终在线的视觉感知终端，让AI更贴近用户日常环境，在免手操作情况下提供识别、记录和辅助服务。设备能通过摄像头收集周围视觉信息，交由新一代Siri处理，早期消息称其可能配备麦克风接收语音指令。若未来重启，持续采集视觉和语音数据可能带来旁人被无意拍摄、敏感场景被记录等隐私与安全挑战。",
+              "source_url": "https://www.ithome.com/1/006/017.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T04:26:40+08:00"
+              "published_at": "2026-09-23T06:19:25+08:00"
             },
             {
-              "title": "高通发布第六代骁龙8超级至尊版：CPU行业首超5GHz，GPU性能提升44%",
-              "brief": "高通发布第六代骁龙8超级至尊版芯片，用于下一代旗舰智能手机，定位为其性能最强的移动平台之一，重点提升终端侧人工智能、移动游戏和影像处理能力。平台搭载Adreno Neural Fusion技术，可利用人工智能辅助图形渲染，并结合高级专业视频编解码器和智能像素控制技术支持更复杂场景理解及影像处理。CPU最高主频超过5.0GHz，性能提升13%、能效提升37%、响应速度提升15%；Adreno GPU性能提升44%，能效提升40%。小米、vivo、红魔、REDMI、OPPO、一加、Motorola、iQOO和荣耀等品牌将率先采用。",
-              "source_url": "https://www.ithome.com/1/006/004.htm",
+              "title": "高通第六代骁龙8超级至尊版与至尊版芯片规格对比",
+              "brief": "高通第六代骁龙8超级至尊版与至尊版芯片规格对比显示，两者在日常使用性能方面差别不大，CPU最高频率、X105 5G基带、蜂窝制式、Wi-Fi 8/7/6支持、FastConnect 8800、无线峰值速率和图形API均相近或相同。超级至尊版主要增强AI性能，在Adreno GPU方面增加Matrix Cores和Neural Fusion，增强AI超分辨率、帧生成、图像重建等，并能在本地运行300亿参数AI模型。影像方面支持8K 60fps视频录制和4K 240p超高清慢动作拍摄，支持全新高级专业视频编解码器。",
+              "source_url": "https://www.ithome.com/1/006/016.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T04:14:43+08:00"
+              "published_at": "2026-09-23T06:07:09+08:00"
             }
           ]
         },
