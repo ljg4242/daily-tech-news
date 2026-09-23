@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T12:52:11.397174+08:00",
+  "generated_at": "2026-09-23T14:52:28.695207+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Sheets 改进对 Excel 透视表的兼容性",
+              "brief": "Google 宣布，Google Sheets 现在能保留从 Excel 导入的透视表中的自定义排序，此前会恢复为默认字母数字排序；将 Sheets 文件导出为 Excel 时也会保持透视表排序。用户可直接在 Sheets 中拖放行或列来重新排列数据，支持多选快速调整位置；对于含可展开折叠区域的复杂透视表，移动行列时会自动带动嵌套子项以维持数据层级。自定义行列布局在浏览器会话、布局调整和数据刷新后均可保留。新功能即日起开始推送，完整推送可能需约 15 天。",
+              "source_url": "https://www.androidauthority.com/google-sheets-reorder-sort-pivot-tables-3714348/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T14:27:40+08:00"
+            },
+            {
+              "title": "三星 Galaxy S26 系列在美国推送稳定版 One UI 9",
+              "brief": "据报道，三星已在美国开始推送基于 Android 17 的稳定版 One UI 9 更新。美国 Galaxy S26 Ultra 用户在 Reddit 的 r/S26Ultra 版块反馈已收到该更新，主要出现在 T-Mobile 设备上，AT&T 版本是否可用说法不一。截图显示版本号为 S948USQU4BZID/S948UOYN4BZID/S948USQU4BZID，更新包约 4.1GB，并包含 2026 年 9 月安全补丁。此前韩国已开始推送稳定版 One UI 9，其他 Galaxy S26 系列机型是否获得更新尚不清楚。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-series-stable-one-ui-9-us-3714362/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T14:11:23+08:00"
+            },
+            {
+              "title": "OpenAI 发布更便宜更快的 GPT-6 Sol 与 Luna 模型",
+              "brief": "OpenAI 推出两款更具性价比的新模型 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 Sol 与 Luna 降低约 50%，能力在多数场景下更强。据 OpenAI 测试，GPT-6 Sol 在成本远低于 Claude Opus 5 的情况下表现更优，在编码等复杂任务中也能以更低成本匹敌 Claude Fable 5.1。OpenAI 称两款模型错误率明显下降，GPT-6 Sol 的错误量仅为前代 GPT-5.6 Sol 的一半。两款模型即日起面向 ChatGPT Pro、Plus、Business、Enterprise 和 Edu 用户上线，免费与 Go 用户可在桌面端使用 GPT-6 Luna。",
+              "source_url": "https://www.androidauthority.com/openai-gpt-6-sol-luna-models-3714344/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-23T13:05:51+08:00"
+            },
+            {
               "title": "苹果或推无屏健康追踪器，对标WHOOP与Fitbit Air",
               "brief": "据报道，苹果正开发一款无屏幕的健康与健身追踪器，目标对手包括WHOOP和Google的Fitbit Air。该设备仍处早期原型阶段，可能不会在2028年前推出，甚至可能最终不发布。原型据称采用薄织物表带与带传感器的计算模块，没有显示屏，与主打应用和通知的Apple Watch路线明显不同。Google今年推出99美元的Fitbit Air，Luna Band也已以149美元全球发货，无屏追踪器正成为新趋势。彭博称该项目引起库克和Eddy Cue兴趣，Vision硬件团队也参与早期工程。",
               "source_url": "https://www.androidauthority.com/apple-developing-screenless-fitness-tracker-3714327/",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/claude-opus-5-5-faster-coding-lower-costs-3714261/",
               "source_name": "Android Authority",
               "published_at": "2026-09-23T04:52:58+08:00"
-            },
-            {
-              "title": "Google Home音箱LED灯持续脉动，用户困惑",
-              "brief": "多名Google Home用户报告智能音箱LED灯出现异常：灯光持续亮起并脉动，提问后短暂熄灭，但很快又恢复原状。Reddit上一名Home Mini用户分享视频显示四盏白灯反复明暗变化。按Google支持文档，这可能表示Gemini for Home或Google Assistant正在响应，或语音助手误听到“Hey Google”并等待指令，但无法解释提问后问题为何再次出现。有用户猜测这是通知，称设备曾提示西班牙裔传统月。目前报告数量不少，但影响范围和确切原因仍不明确，Google尚未回应。",
-              "source_url": "https://www.androidauthority.com/google-home-speaker-light-bug-3714273/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T04:51:44+08:00"
-            },
-            {
-              "title": "One UI 9 更新后 Good Lock 锁屏时钟位置出错",
-              "brief": "三星确认 Good Lock 的 ClockFace 模块存在漏洞，会导致锁屏时钟偏离用户设定的位置。一位 Galaxy S26 Ultra 用户在升级 One UI 9 后反馈，LockStar 中时间与日期排列紧凑，但实际锁屏和息屏显示中二者间距变大，时钟几乎移到屏幕最顶部。三星 Good Lock 支持团队已复现该问题，开发团队正在调查，但尚无修复方案，建议用户暂时改用系统默认时钟样式；若默认样式也出现同样问题，可提交错误报告并附日志。此事发生在三星开始在韩国为 Galaxy S26 系列推送稳定版 One UI 9 之后不久。",
-              "source_url": "https://www.androidauthority.com/samsung-good-lock-bug-lock-screen-clocks-3714266/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T04:21:00+08:00"
-            },
-            {
-              "title": "谷歌正修复 Nest 门铃口音错乱问题",
-              "brief": "Nest 门铃出现奇怪漏洞，无论用户如何设置，都会改用美式口音说话。在海外使用并按当地口音配置门铃的用户发现，设备突然切回美国腔调。用户此前提出临时把美式英语设为第二语言的解决办法，但谷歌一直没有回应。近日谷歌代表在最初的 Reddit 帖子中确认已知悉该问题，团队正在积极修复，修复推出后会再作说明。目前修复尚未就绪，门铃其他功能似乎运行正常。谷歌表示会继续关注进展，并在最终修复可部署时更新消息。",
-              "source_url": "https://www.androidauthority.com/nest-doorbell-accent-fix-3714251/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-23T04:20:27+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "任天堂美国总裁称Switch2征程才刚开始",
-              "brief": "任天堂美国总裁Pritchard表示，Switch2的征程才刚刚开始，已体验到自家及第三方多款优秀作品，期待开发团队未来带来更多创意内容。他提到与索尼及索尼影业等合作，将游戏体验带给现有玩家与新群体，是未来数年最令人兴奋的方向之一。访谈还提及塞尔达IP四十周年布局，包括今年11月登陆NS2的《塞尔达传说：时之笛 重制版》，以及与索尼影业合作的《塞尔达》真人电影，后者定于2027年4月末上映。任天堂希望依靠第一方大作、第三方新作与IP影视化联动，持续拉长Switch2生命周期，扩充软件与IP矩阵。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579256.htm",
+              "title": "谷歌前安全负责人警告：AI对儿童伤害或超社交媒体",
+              "brief": "谷歌前信任与安全副总裁西格尔警告，AI对儿童造成的伤害可能比社交媒体更严重，而监管措施未能跟上AI发展步伐。他加入儿童网络安全倡导组织Common Sense Media，担任新成立的青少年AI安全研究所首任执行主任，计划制定标准对AI公司问责。他指出，AI公司正向儿童推出功能却缺乏足够安全防护，面临从自杀、精神错乱到认知卸载等风险，建议实施更严格年龄验证。谷歌和OpenAI回应称已提供家长控制与识别未成年用户的措施。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579306.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T06:41:39+08:00"
+              "published_at": "2026-09-23T14:16:54+08:00"
             },
             {
-              "title": "《街霸》电影春丽演员回应粗大腿造假质疑",
-              "brief": "针对《街霸》真人电影中春丽一角粗大腿被质疑“造假”的讨论，饰演该角色的演员作出回应，表示自己没空P图。相关话题引发关注，网友围绕角色造型与演员形象展开讨论。此前该片选角与造型已多次成为话题，此次回应进一步推高讨论热度。目前片方尚未就相关争议发布更多官方说明，影片后续宣传与上映安排仍待公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1579254.htm",
+              "title": "iOS 27.2 Beta 2限制开屏摇一摇广告，疑似国区专属",
+              "brief": "在iOS 27.2 Beta 2中，用户可手动限制指定App获取运动数据，减少因手机轻微晃动而误触摇一摇广告。设置路径为：打开设置进入隐私与安全，点击运动与健身，找到Restrict Motion Data选项，编辑后选择需限制权限的应用。该功能疑似仅面向国区用户开放，只有Apple ID登录中国区App Store时才会显示，切换至其他地区账号后入口消失。摇一摇广告此前多次引发用户吐槽。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579304.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T06:41:28+08:00"
+              "published_at": "2026-09-23T14:16:22+08:00"
             },
             {
-              "title": "高通发布骁龙8至尊版第6代两款旗舰芯片",
-              "brief": "高通发布骁龙8至尊版第6代两款旗舰芯片，重点强化端侧AI与智能体能力。新芯片配备感知中枢，可在本地运行最高20亿参数轻量模型，支持完整语音输入输出智能体，并建立长期记忆以提供自动化建议。更高端版本可在手机本地运行300亿参数混合专家模型，按任务激活部分专家以降低推理算力。影像方面支持8K 60帧与4K 240帧录制，加入APV专业视频编码格式，并利用AI改善人声与降噪。摩托罗拉同步宣布搭载该芯片的Motorola Signature 27手机，预计今年晚些时候上市。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579252.htm",
+              "title": "李飞飞谈AI安全：不能只让开发者评估自己的系统",
+              "brief": "李飞飞在接受彭博电视采访时表示，AI安全不能只由开发者评估自己的系统，独立机构和学术界等公共部门制定基准非常重要，行业和政府应共同承担责任。她认为AI的生存性风险最终取决于人类如何开发、治理和使用技术，人类必须掌握控制权。李飞飞创办的World Labs正开发能生成和重建三维环境的世界模型，可用于训练评估机器人。她的言论为政策制定者与AI行业领袖之间关于如何对待极端风险警告的辩论增添了新声音。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579302.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T06:39:33+08:00"
+              "published_at": "2026-09-23T14:15:59+08:00"
             },
             {
-              "title": "充电宝起火致荷航航班中途返航 涉事设备据称属于前CEO",
-              "brief": "一块移动电源在荷航航班上突然故障起火，机舱内先传出巨响，随后出现明火，烧灼座椅区域及旁边窗帘。机组人员迅速扑灭火源，但因飞机远离陆地，最终决定放弃飞往目的地，调头返回荷兰，安全降落阿姆斯特丹史基浦机场。航空公司为机上322名乘客安排酒店，并于次日安排替代航班继续前往库拉索。多家荷兰媒体报道称，涉事充电宝据称属于荷航前首席执行官卡米尔·欧林斯，其身份引发舆论关注。乘客称该充电宝当时正在充电，违反荷航禁止飞行途中使用或充电的规定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579250.htm",
+              "title": "夏普计划推出可切换网络的卫星终端，不绑定星链",
+              "brief": "夏普正利用智能手机技术开发小型卫星终端，计划做到可安装在船只或无人机上，并支持切换不同卫星网络，不局限于市场主导的Starlink。日本总务省征集小型轻量通用天线方案，将挑选两到三个项目在最长五年内提供最高70亿日元资助，夏普已提交方案。根据与SES的合作协议，夏普计划从2027年起把SES通信服务引入日本，目标2035年卫星相关服务销售额达1000亿日元，并看好海外通用天线需求。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579300.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T03:58:45+08:00"
+              "published_at": "2026-09-23T14:15:41+08:00"
             },
             {
-              "title": "OpenAI将让第三方机构更早介入AI模型安全评估",
-              "brief": "OpenAI表示将让第三方机构更早介入AI模型安全评估，负责外部安全审查合作的Lama Ahmad称，此前公司主要在模型发布前引入这类机构评估模型能力，如今随着潜在风险和影响上升，也希望确保对训练和评估等关键环节进行审视。对于部分最敏感工作，OpenAI可能让外部评估人员进入公司办公场所开展评估。公司正与可能参与评估的机构洽谈，包括AI研究机构METR和Redwood Research。Anthropic上周表示将引入埃森哲评估人员测试其前沿AI模型安全性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579248.htm",
+              "title": "格力电商迎新掌门，72岁董明珠再为退休铺路？",
+              "brief": "格力电商发生工商变更，董明珠卸任法定代表人、执行董事，由总裁助理张幸磊接任。同日董明珠斥资38万元增持格力电器1万股，系九年来再次公开增持。张幸磊是格力资深老将，正接手销售渠道体系，多地格力数字科技公司法定代表人已陆续变更为他。近年来董明珠多次释放培养接班人信号，称已找到三四个预备人选，并强调要培养年轻人队伍。此举被视为格力加速推进业务权力交接、为退休作铺垫。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579298.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T03:07:07+08:00"
+              "published_at": "2026-09-23T14:14:47+08:00"
             }
           ]
         },
@@ -374,45 +374,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "高通展示第六代骁龙8超级至尊版ANF游戏渲染能力",
-              "brief": "高通在骁龙峰会上展示第六代骁龙8超级至尊版的ANF游戏渲染能力，覆盖《异环》《崩坏：星穹铁道》《白银之城》《洛克王国：世界》等作品。基于UE5的《异环》展示移动端Lumen全局光照与反射，并借助ANF提升流畅度；《白银之城》支持Lumen与AI智能补帧；《崩坏：星穹铁道》通过AI超分提升解析力与细节；《洛克王国：世界》利用AI智能补帧改善探索与战斗体验。所有演示均在实验室研发环境录制，仅作技术演示。",
-              "source_url": "https://www.ithome.com/1/006/205.htm",
+              "title": "2026款理想i6上市时间调整为10月底，11月初交付不变",
+              "brief": "2026款理想i6的上市发布时间调整为10月底，开启交付时间仍为11月初不变。该车已完成申报，搭载理想自研5C电池和自研马赫芯片，外形尺寸为长4950毫米、宽1935毫米、高1655毫米，轴距3000毫米，提供单电机和双电机四驱两个版本，单电机版最大功率250千瓦，双电机版前后电机功率分别为150千瓦和250千瓦。外观延续理想i6设计语言，换装半隐藏式门把手，可选装侧激光雷达或后激光雷达。",
+              "source_url": "https://www.ithome.com/1/006/246.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T12:38:34+08:00"
+              "published_at": "2026-09-23T14:43:44+08:00"
             },
             {
-              "title": "博主借“车主工程师”身份造谣带货，零跑汽车起诉索赔1元",
-              "brief": "零跑汽车法务部宣布，针对博主王某某借“零跑车主工程师”身份传播不实言论并销售仿冒车品及配件一事提起诉讼，索赔1元并要求公开道歉。案件经法院主持调解，双方达成一致并结案。王某某在道歉信中承诺下架全部侵权商品、删除不当言论。知情人士称，象征性索赔意在表明企业对不实信息零容忍的态度，同时为对方纠正行为保留空间。",
-              "source_url": "https://www.ithome.com/1/006/203.htm",
+              "title": "“中国天眼”FAST落成启用十年，将继续推进二期工程",
+              "brief": "“中国天眼”FAST落成启用已十年，在测量与控制技术、国产化钢丝绳和高性能接收机研制等方面实现技术创新，保障望远镜稳定高效运行，并在脉冲星、中性氢星系、快速射电暴和引力波研究中取得一系列国际影响力成果。截至目前，基于FAST观测数据，科学家已在《科学》和《自然》主刊累计发表论文13篇，相关成果两次入选《科学》十大科学突破、一次入选《自然》十大科学发现。未来FAST团队将继续推进二期工程，巩固我国射电天文领域国际领先地位。",
+              "source_url": "https://www.ithome.com/1/006/244.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T12:37:57+08:00"
+              "published_at": "2026-09-23T14:42:58+08:00"
             },
             {
-              "title": "长城魏牌高山8/9智慧版MPV上市，售价30.98万/38.58万元",
-              "brief": "长城魏牌高山8智慧版与高山9智慧版MPV正式上市，售价分别为30.98万元和38.58万元。高山8智慧版轴距3145mm，搭载Coffee OS 3.5与高通8295P芯片，配双15.6英寸联屏；高山9智慧版轴距3275mm，搭载Coffee OS 4与高通8797芯片，配29.6英寸一体屏。两车均搭载英伟达Thor-U芯片与28个传感器，含前后双激光雷达。高山8采用1.5T混动，零百5.7秒；高山9采用2.0T混动，零百5.6秒。",
-              "source_url": "https://www.ithome.com/1/006/202.htm",
+              "title": "小米18 Pro系列官宣“one more thing”，透明探索版有望回归",
+              "brief": "小米官方微博发布预热，宣布小米18 Pro系列手机“one more thing”，配图展示小米18 Pro的透明机身，结合预热来看该系列有望带回透明后盖设计。小米此前最后一款采用透明机身设计的手机是2020年8月发布的小米10 Ultra至尊纪念版透明版，此前还推出过小米8透明探索版、小米9透明尊享版。在2026骁龙峰会上，小米宣布将全球首发第六代骁龙8超级至尊版和第六代骁龙8至尊版处理器，首发机型为小米18 Pro系列。",
+              "source_url": "https://www.ithome.com/1/006/243.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T12:36:45+08:00"
+              "published_at": "2026-09-23T14:36:08+08:00"
             },
             {
-              "title": "高通：手机仍占个人交互C位，应用正从APP时代迈向AI智能体时代",
-              "brief": "高通在骁龙峰会上表示，尽管智能眼镜、智能戒指等新形态涌现，智能手机仍将充当个人计算与设备连接的核心中枢，占据个人交互C位。高通高管以导航为例说明手机可呈现系统选定门店便于核对。高通认为应用与AI智能体将长期共存，彻底取消应用难度较高。高通CEO安蒙称，行业正从APP时代迈向智能体时代，一切从理解意图开始，骁龙正是为这一时代打造。",
-              "source_url": "https://www.ithome.com/1/006/201.htm",
+              "title": "SiPearl向超算客户Bull交付首批Rhea1 CPU处理器样品",
+              "brief": "SiPearl已向超算客户Bull交付首批Rhea1 CPU处理器样品，用于在XH3000平台上集成Rhea1。如果一切顺利，SiPearl将确认其首笔重要收入。Rhea1处理器基于台积电6纳米制程节点，拥有80个Arm Neoverse V1内核，每个内核包含2个256-bit SVE单元；集成4个16GB HBM内存堆栈，提供4条支持2DPC的DDR5内存通道，可扩展出104条PCIe Gen5通道。",
+              "source_url": "https://www.ithome.com/1/006/242.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T12:36:01+08:00"
+              "published_at": "2026-09-23T14:33:42+08:00"
             },
             {
-              "title": "索尼头戴式耳机WH-CH730N/WH-CH530国行上架，999/449元",
-              "brief": "索尼头戴式耳机WH-CH730N与WH-CH530国行上架，定价分别为999元和449元。WH-CH730N采用源自1000X系列的声学调校，支持DSEE数字声音增强引擎、10段可调均衡器与游戏EQ模式，搭载双反馈麦克风并支持20级环境声调节，开启降噪续航50小时、关闭降噪75小时。WH-CH530机身约150g，提供六种配色，续航最长约55小时，同样支持DSEE与10段均衡器调节。",
-              "source_url": "https://www.ithome.com/1/006/200.htm",
+              "title": "索尼押注《蜘蛛侠》导演，其下部电影预估为《火影忍者》真人版",
+              "brief": "《蜘蛛侠：崭新之日》票房打破《星球大战：原力觉醒》尘封11年的纪录，登顶北美影史票房冠军，也是全球票房第三高的电影。最新消息称索尼影业正积极拉拢导演克雷顿，与其签署了3年全面合作协议，虽然协议本身不包含导演工作，但索尼希望克雷顿回归执导《蜘蛛侠》续篇。此外消息称克雷顿的下一部执导作品将是狮门影业的《火影忍者》真人电影，计划于明年初开拍。",
+              "source_url": "https://www.ithome.com/1/006/241.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T12:30:32+08:00"
+              "published_at": "2026-09-23T14:32:24+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "黑客组织ShinyHunters声称入侵FBI并窃取超2TB雇员数据",
+              "brief": "勒索组织ShinyHunters声称入侵美国联邦调查局，窃取逾2TB雇员数据，涉及现任及前任雇员和求职者。该组织称行动并非出于经济动机，而是要求FBI更正或撤回此前对其的不实指控。其声称利用FBI招聘网页中Oracle PeopleSoft的零日漏洞实现远程代码执行，随后篡改页面并替换为已被控制的横幅与图片，并从FBI管理的AWS GovCloud服务器下载约2TB至3TB数据。FBI今年五月曾就该组织发出安全警告，指其采用骚扰策略，包括向受害者及家属发送威胁短信、拨打骚扰电话，甚至恶意报假警。ShinyHunters否认这些指控。",
+              "source_url": "https://www.solidot.org/story?sid=85457",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T11:45:09+08:00"
+            },
             {
               "title": "微软Xbox重组：动视将开发新一代《光环》",
               "brief": "微软Xbox游戏业务宣布重组，旗下第一方工作室Halo Studios等裁员268人。动视将负责下一代《光环》游戏开发，原开发方Halo Studios转为辅助角色。Obsidian工作室并入Bethesda，继续开发《Grounded》及新《辐射》游戏。King工作室将合并微软休闲游戏部门Microsoft Casual Games。开发《极限竞速》的Playground与开发新《神鬼寓言》的Turn 10将合并为一家工作室。Ninja Theory预计关闭，Arkane工作室仍在磋商中。",
@@ -433,39 +440,39 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "iOS 27.2测试版新增运动传感器权限 中国区独占可打击摇一摇广告",
+              "brief": "苹果在iOS 27.2测试版中新增运动传感器权限设置，用户可在设置、隐私与安全、运动与健身下，禁止与运动健身无关的应用读取运动数据。此举主要意义是打击摇一摇开屏广告，禁用后应用无法通过检测传感器在轻微晃动时自动跳转广告。该功能目前为中国大陆市场独占，不区分国行或外版，只取决于应用商店账号所在区域，切换为国区账号才会显示。苹果尚未设置中文名称，显示为限制动作数据。",
+              "source_url": "https://www.landian.news/archives/127078.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-23T14:47:07+08:00"
+            },
+            {
+              "title": "特朗普称美国政府文件将把人工智能改称超级智能 呼吁他国跟随",
+              "brief": "特朗普在联大演讲中表示，美国政府文件今后将把人工智能改称超级智能，并希望其他国家也采用这一新名称。他再次强调人工一词听起来让人觉得技术是虚假的。不过公开资料未说明哪个部门负责修订、哪些文件需要修改、何时生效，也未交代法律法规、技术标准和现有表格中的术语如何处理。超级智能并非特朗普发明，在人工智能研究中通常指认知能力显著超过人类、能在广泛领域胜过人类的理论系统。",
+              "source_url": "https://www.landian.news/archives/127077.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-23T14:15:06+08:00"
+            },
+            {
+              "title": "阿里云向Omarchy捐赠300万美元 并提供服务器和CDN赞助",
+              "brief": "在2026年云栖大会上，阿里云宣布以创始企业赞助商身份加入Omacom基金会，每年捐赠100万美元、持续三年合计300万美元，用于支持Omarchy系统的开发、维护和推广。阿里云还将赞助服务器、中国本地CDN、举办线下聚会等，帮助打造中国社区。阿里巴巴Qwen Book系统将支持Omarchy，需对千问模型进行开箱即用优化，并与用户依赖的中国服务全面集成，让模型、操作系统和服务从启动时就能协同工作。",
+              "source_url": "https://www.landian.news/archives/127076.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-23T13:45:12+08:00"
+            },
+            {
+              "title": "苹果iOS 27.2开发防抢自动锁定功能 检测到被抢后自动锁定",
+              "brief": "苹果正在为iPhone开发防抢自动锁定功能，相关代码出现在iOS 27.2 Beta 2中。当系统判断手机可能刚被人抢走时会自动锁定，降低手机被抢后仍处于解锁状态带来的数据泄露风险。该功能综合多个信号判断，例如疑似被夺走的加速度变化、与配对的Apple Watch失去连接、长时间无法访问网络以及设备长时间持续解锁等。系统还可能具备冷却期机制，避免频繁触发影响正常使用。",
+              "source_url": "https://www.landian.news/archives/127031.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-23T13:23:12+08:00"
+            },
+            {
               "title": "Android 17或支持谷歌账号解锁，忘记PIN码无需恢复出厂",
               "brief": "Android 17 QPR2 Beta 5中出现相关代码，显示未来用户忘记PIN码或解锁密码时，可能通过已关联的谷歌账号重新获得设备访问权限，而不必先恢复出厂设置导致联系人、照片和应用数据丢失。该功能目前默认关闭，谷歌担心攻击者同时获得手机和账号凭据后绕过屏幕锁访问本地数据。最终安全性还取决于谷歌是否要求二次验证、设备信任状态或账号恢复信息等额外验证。",
               "source_url": "https://www.landian.news/archives/127030.html",
               "source_name": "蓝点网",
               "published_at": "2026-09-23T12:40:17+08:00"
-            },
-            {
-              "title": "iPhone 18 Pro系列面容识别失败后或出现卡死重启",
-              "brief": "部分用户反映iPhone 18 Pro和iPhone 18 Pro Max在面容识别失败后可能出现触控失灵、系统卡死和自动重启。问题并非发生在解锁阶段，而是在使用面容识别解锁受保护内容时，例如打开密码应用、Safari隐私标签页或已配置面容解锁的应用。复现方法是故意遮挡面部导致识别失败，再点击重试时部分设备停止响应并回到锁屏。苹果尚未回应，预计需通过iOS更新修复。",
-              "source_url": "https://www.landian.news/archives/127029.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-23T12:00:11+08:00"
-            },
-            {
-              "title": "Chrome for macOS扩展加载异常，谷歌确认并优先调查",
-              "brief": "部分macOS用户发现Chrome浏览器扩展程序加载缓慢，点击工具栏图标后可能卡住，弹窗需等待数分钟才能显示，1Password等需要即时弹出界面的扩展受影响明显。用户尝试卸载重装或安装测试版扩展均无效。有分析猜测Chrome可能错误地将扩展相关进程设为较低优先级，但尚未证实。谷歌Chrome开发团队已确认问题并设为高优先级调查，暂未公布原因和临时解决方案。",
-              "source_url": "https://www.landian.news/archives/127028.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-23T11:20:39+08:00"
-            },
-            {
-              "title": "NPM联合创始人建议向大型企业收取开源软件使用费并分配给维护者",
-              "brief": "NPM联合创始人劳里・沃斯发表长文讨论开源软件行业长期存在的商业困境，指出企业为镜像、仓库、依赖扫描和供应链管理等服务商付费，但真正编写和维护代码的人很少获得持续收益。哈佛商学院估计开源软件为企业带来的需求侧价值约8.8万亿美元，96%的价值由约5%的开发者创造。沃斯建议由NPM、PYPI、Docker Hub等软件仓库对大型企业计量收费，个人、小团队、学生和开源项目保持免费，收入按企业实际依赖的软件包自动分配给维护者，无需修改开源许可证。",
-              "source_url": "https://www.landian.news/archives/127027.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-23T10:39:06+08:00"
-            },
-            {
-              "title": "WordPress曝Click2Shell漏洞，恶意链接可诱导管理员触发PHP代码执行",
-              "brief": "被数亿网站使用的WordPress被曝出新漏洞Click2Shell，攻击者可制作钓鱼网站或通过邮件诱导管理员点击恶意链接，触发PHP代码执行。漏洞出在后台主题预览流程，主题标识符被服务器端与浏览器端JavaScript引擎分别处理，导致主题被强制安装并可能激活执行其中PHP代码，再结合插件下载执行缺陷实现远程代码执行。WordPress已在7.1.1版修复，旧分支也获得补丁移植，受影响版本包括7.0.x、7.1.x、6.x、5.x等，建议立即升级或启用DISALLOW_FILE_MODS策略。",
-              "source_url": "https://www.landian.news/archives/127026.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-09-23T10:11:05+08:00"
             }
           ]
         }
