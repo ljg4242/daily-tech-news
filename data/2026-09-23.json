@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T16:52:21.196844+08:00",
+  "generated_at": "2026-09-23T18:52:16.687451+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "部分运行 macOS 27 的 Mac 上 Apple Intelligence 占用超 30GB 存储",
+              "brief": "安装 macOS 27 Golden Gate 后，Apple 会在 Mac 下次联网时自动下载多 GB 的 AI 模型，且无法阻止，Siri AI 与 Apple Intelligence 已成为系统强制组成部分。苹果称最新功能在 M3 及以上芯片、至少 12GB 统一内存的 Mac 上最多需 14GB 存储，其他机型最多 8GB。但实测占用普遍更高：M4 Pro Mac mini 为 20.67GB，M3 MacBook Air 达 22.42GB，M1 MacBook Air 约 14GB，更有用户报告 30.16GB 和 24.35GB。",
+              "source_url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-23T18:30:15+08:00"
+            },
             {
               "title": "新款 Mac mini 存储存在两大缺陷，包括不可拆卸 SSD",
               "brief": "据“Expand Mac mini”网站确认，搭载 M6 和 M5 Pro 芯片的新款 Mac mini 的 NAND 存储直接焊接在逻辑板上，而此前 M4 和 M4 Pro 机型配备可拆卸存储，支持升级。这意味着新机型不再支持第三方存储升级，用户无法再通过购买最低 256GB 版本再自行安装高容量模块来节省开支。该网站表示仍在寻找突破口，但支持 M6 和 M5 Pro 的可能性似乎不大。此外，新款 256GB 配置仅配备单颗 NAND 芯片，而非两颗 128GB 芯片，导致其 SSD 速度约为 512GB 及以上机型的一半。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
               "source_name": "MacRumors",
               "published_at": "2026-09-23T04:58:32+08:00"
-            },
-            {
-              "title": "苹果园区游客中心翻新后取消3D园区模型",
-              "brief": "位于加州库比蒂诺的苹果园区游客中心经过翻新后，不再展示自2017年开放以来一直存在的苹果园区3D增强现实模型。原展示该模型的“展览空间”现改为墙面置物架“Avenues”和用于产品展示的圆形新桌。翻新工程于7月启动，近期完成。新的产品展示桌已在纽约市部分门店采用。展览空间虽永久关闭，游客仍可在Caffè Macs喝咖啡、购买苹果周边、登屋顶观景或参观“Mirage”公共艺术装置。",
-              "source_url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-23T03:42:26+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "高通或将通过官方GPU驱动改善安卓PC游戏模拟体验",
-              "brief": "据科技YouTuber极客湾透露，高通计划通过其官方GPU驱动改善安卓设备上的PC游戏模拟支持，并考虑在安卓端GPU驱动中引入DirectX12支持。极客湾在一台搭载骁龙8 Elite Gen 6系列芯片的手机上测试了《赛博朋克2077》和《黑神话：悟空》，两款游戏均通过翻译层在DirectX12模式下正常运行。目前尚不清楚这些改进是否需要骁龙8 Elite Gen 6系列设备，还是可通过GPU驱动更新惠及现有设备。若实现，将显著提升安卓PC游戏模拟的性能与兼容性，减少对非官方Turnip驱动的依赖。",
-              "source_url": "https://www.androidauthority.com/qualcomm-pc-game-emulation-support-android-3714423/",
+              "title": "Pixel 11 Pro 的调制解调器仍不敌对手？实测揭晓",
+              "brief": "Pixel 11 系列外观变化不大，但内部升级明显，采用更高效的 Tensor G6 芯片，并放弃三星 Exynos 调制解调器，改用联发科新品。此前与 Pixel 10 Pro 对比已显示下载速度、信号接收和电池效率均有提升。为检验其与顶级安卓旗舰的差距，作者在同一 SIM 卡、最新软件、接近满电且关闭 Wi-Fi 的条件下，将 Pixel 11 Pro 与三星 Galaxy S26 Ultra 进行对比，测试涵盖信号强度、蜂窝网速以及流媒体视频时的耗电表现。",
+              "source_url": "https://www.androidauthority.com/pixel-11-pro-modem-vs-galaxy-s26-ultra-3712761/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T16:33:51+08:00"
+              "published_at": "2026-09-23T18:30:07+08:00"
             },
             {
-              "title": "谷歌官方Googlebook演示界面酷似macOS",
-              "brief": "谷歌代表发布视频展示了Googlebook OS的触控板与窗口手势，与macOS高度相似，例如三指上滑呼出打开任务概览。Googlebook OS还支持类似macOS的多桌面，全屏模式下会隐藏任务栏。Googlebook于本周早些时候亮相，界面视觉灵感来自ChromeOS，但以安卓为基础。谷歌此前已介绍Magic Pointer、Rambler高效输入以及Gemini优先等亮点。曾为记者的谷歌员工Dieter Bohn在X和LinkedIn发布视频，详细演示了Googlebook OS的窗口管理方式，其多种手势借鉴了macOS和Windows。",
-              "source_url": "https://www.androidauthority.com/googlebook-multitasking-mac-os-3714365/",
+              "title": "谷歌或将 Pixel 11 的 My Pixel 配色图标下放旧机型",
+              "brief": "Pixel 11 系列引入了可随手机颜色变化的 My Pixel 应用图标，如今有迹象显示该功能可能扩展到 Pixel 9 系列。在 My Pixel 应用 8.9.1 版本中发现相关证据，可为 Pixel 9 机型提供与机身颜色匹配的图标，包括 Hazel、Rose Quartz 和 Obsidian 等 2024 年旗舰配色。不过当前版本未覆盖 Pixel 9a 和 Pixel 9 Pro Fold，也尚未支持 Pixel 10 系列，可能仍处于开发中。此外，谷歌或将该图标改为更浅的蓝色。",
+              "source_url": "https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T15:43:22+08:00"
+              "published_at": "2026-09-23T18:25:26+08:00"
             },
             {
-              "title": "三星Home Up模块备份故障将获修复",
-              "brief": "部分Home Up用户可能无法备份设置，尤其是在自定义了文件夹标签颜色后。三星社区论坛帖子显示，若用户为文件夹标签选择了自定义颜色，Home Up模块的备份功能便无法正常工作。有用户报告Home Up反复删除其备份文件并提示“已损坏”。三星社区版主表示开发团队正在调查，但修复需要修改底层代码，因此计划在未来的软件更新中解决。目前用户可将文件夹标签颜色恢复为默认设置，以便正常备份。该帖子未提供修复时间表。若恢复默认后问题仍存在，可通过Samsung Members应用报告错误。",
-              "source_url": "https://www.androidauthority.com/good-lock-home-up-backup-issues-3714410/",
+              "title": "Google Meet 自动记笔记新增一页式摘要",
+              "brief": "Google Meet 的“为我记笔记”功能现新增一页式会议摘要，称为 Quick notes。该摘要基于讨论内容和应用记录的笔记，提炼会议要点，无论会议多长都整理成单页，并以项目符号和清单形式呈现待办事项，目标是尽快提供简明信息。Quick notes 会显示在自动生成的 Google Doc 主标签页，详细笔记则保留在另一标签页，同时摘要也会通过邮件发送给参与者。该功能无需单独开关，面向所有 Workspace 用户及订阅 Google AI Pro 或 Ultra 的 Gmail 用户。",
+              "source_url": "https://www.androidauthority.com/google-meet-quick-notes-3714439/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T15:31:29+08:00"
+              "published_at": "2026-09-23T18:02:16+08:00"
             },
             {
-              "title": "摩托罗拉骁龙真旗舰Signature 27将登陆美国",
-              "brief": "摩托罗拉已确认新机Signature 27将在美国正式发布，预计今年11月上市，但尚未公布价格。美国官网已开放早期预购登记，用户可注册获取更新、优惠及抢先预购机会。与初代Signature采用次旗舰骁龙8 Gen 5不同，Signature 27直接搭载全新的骁龙8 Elite Extreme Gen 6，并配备升级版ArcticMesh散热系统以维持性能。摩托罗拉承诺提供七次操作系统升级及最长七年安全更新，并称其为“迄今最佳相机系统”，已确认包括5000万像素索尼LYTIA 910主摄和2亿像素潜望长焦，升级防抖，并新增视频增强引擎。",
-              "source_url": "https://www.androidauthority.com/motorola-signature-27-us-launch-3714359/",
+              "title": "用 Razr 二十年：摩托罗拉的秘密武器始终未变",
+              "brief": "作者使用摩托罗拉手机的时间比愿意承认的还长，从高中时代的诺基亚 5160，到父母购买 StarTAC 时的羡慕，再到 2004 年原版 Razr 发布带来的震撼。当时手机普遍笨重，而 Razr 以纤薄精致的设计和开合时令人满意的清脆声，让外观成为购买理由。文章认为摩托罗拉近年的成功并不意外，因为过去二十年间公司始终保持一致的设计主题，而这一主题正可追溯到初代 Razr，并延续到如今的 Razr 系列。",
+              "source_url": "https://www.androidauthority.com/ive-used-razr-20-years-motorola-secret-weapon-3711624/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T15:06:47+08:00"
+              "published_at": "2026-09-23T18:00:36+08:00"
             },
             {
-              "title": "Google Sheets 改进对 Excel 透视表的兼容性",
-              "brief": "Google 宣布，Google Sheets 现在能保留从 Excel 导入的透视表中的自定义排序，此前会恢复为默认字母数字排序；将 Sheets 文件导出为 Excel 时也会保持透视表排序。用户可直接在 Sheets 中拖放行或列来重新排列数据，支持多选快速调整位置；对于含可展开折叠区域的复杂透视表，移动行列时会自动带动嵌套子项以维持数据层级。自定义行列布局在浏览器会话、布局调整和数据刷新后均可保留。新功能即日起开始推送，完整推送可能需约 15 天。",
-              "source_url": "https://www.androidauthority.com/google-sheets-reorder-sort-pivot-tables-3714348/",
+              "title": "iPhone Duo 的屏下摄像头是个坏主意？五张照片说明问题",
+              "brief": "iPhone Duo 作为苹果首款折叠屏手机，首次配备位于内屏下方的屏下自拍摄像头。三星曾在多代 Fold 上使用该方案，但 Z Fold 7 和 Z Fold 8 已放弃。屏下摄像头历来成像质量偏低，甚至不如廉价安卓手机。作者将搭载 16MP 屏下传感器的 REDMAGIC 11 Pro 与 1900 美元的 Galaxy Z Fold 8 及约 667 美元的 Redmi Note 17 Pro Max 对比。由于光线需穿过屏幕像素，屏下摄像头进光量大幅减少，即便在白天理想光线下，REDMAGIC 的照片仍细节被抹除且过度锐化，三星则细节更好、处理更自然。",
+              "source_url": "https://www.androidauthority.com/iphone-duo-under-display-camera-bad-idea-photo-test-3710889/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T14:27:40+08:00"
+              "published_at": "2026-09-23T17:30:57+08:00"
             }
           ]
         },
@@ -254,6 +254,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "格兰特·莫里森评价《超级少女》与杰森·莫玛版暴狼",
+              "brief": "曾创作《全明星超人》的格兰特·莫里森在其Substack专栏中评价《超级少女》，称影片“不算糟糕，但也谈不上特别出色”，并认可米莉·阿尔科克对卡拉·佐-艾尔的演绎。随后他点名批评杰森·莫玛饰演的暴狼，称其为“我看过的电影中最糟糕的表演之一，令人十分费解”。莫玛此前曾表示自己非常适合这一角色。此外，有报道称泥脸将现身《新蝙蝠侠2》，但古恩表示相关电影与《新蝙蝠侠》系列无关，而属于DC宇宙。",
+              "source_url": "https://www.ign.com/articles/all-star-superman-writer-grant-morrison-delivers-his-verdict-on-supergirl-and-jason-momoas-lobo",
+              "source_name": "IGN",
+              "published_at": "2026-09-23T16:57:29+08:00"
+            },
+            {
               "title": "《战争机器：E-Day》剧情总监在抢先体验上线前一周被裁",
               "brief": "Xbox品牌重置导致多间工作室共268名员工失业，其中不少是资深人才。《战争机器》开发商The Coalition的剧情总监Juan Vaca确认在任职四年后被裁。他上周刚公开庆祝游戏开发完成，游戏将于下周全球发售前五天进入抢先体验。微软尚未说明The Coalition在《E-Day》发售后的计划，但裁掉关键人才令人不安。此外，《光环》工作室电影总监Josh Daniels也在升职一天后被裁，Activision将接手《光环》未来，工作室仅留小团队维护现有游戏。",
               "source_url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
@@ -280,13 +287,6 @@
               "source_url": "https://www.ign.com/articles/nba-star-steven-adams-says-gta-6s-launch-will-lead-to-a-league-wide-drop-in-performance-for-athletes-and-coaches",
               "source_name": "IGN",
               "published_at": "2026-09-23T06:36:03+08:00"
-            },
-            {
-              "title": "微软想在Boss战间隙向玩家展示广告",
-              "brief": "微软提交了一项名为“交互式软件应用访问的情境感知管理”的专利，描述了在操作系统层面暂停游戏并展示“视听推广内容”（即广告）的流程，看完广告后可获得15分钟至1小时的游戏时间积分。目前无法确定该技术是否会真正实施，但考虑到Xbox Game Pass近期的困境，广告支持层级并非不可想象。微软最近还将Xbox云游戏的每月游戏时间限制为15小时。该专利出现之际，微软正积极寻求让Xbox更盈利，公司刚经历新一轮裁员。",
-              "source_url": "https://www.ign.com/articles/microsoft-wants-to-show-you-ads-in-between-boss-fights",
-              "source_name": "IGN",
-              "published_at": "2026-09-23T06:14:57+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "63℃仍能分裂繁殖 火变形虫改写真核生物耐热上限",
+              "brief": "研究团队在喀斯喀特山脉拉森火山国家公园约47℃至64℃的地热溪流中采集样本，先在57℃培养地热变形虫，该温度已高于此前已知变形虫生长最高值，随后逐步升温至63℃并直接观察到有丝分裂，证明其不仅存活还能繁殖。超过63℃后虫体改变形态并形成保护外层，暴露于70℃后再放回较低温度仍能复原。该新种命名为“来自喀斯喀特山脉的火变形虫”，属温泉嗜热真核原虫，创下真核生物存活绝对温度最高纪录，并保持复杂细胞结构未被高温瓦解。基因组测序显示其蛋白质维持和DNA修复相关基因更多，蛋白质表面带正电氨基酸比例更高。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1579330.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T18:05:14+08:00"
+            },
+            {
+              "title": "仅14MB！树莓派5纯CPU也能跑AI 离线指令毫秒级响应",
+              "brief": "该模型为指令执行专用模型，用户输入点亮LED灯时，系统仅需78毫秒即可完成从识别到执行的全过程。在树莓派5（8GB内存版）实测中，模型运行内存占用约28MB，运行完整Python演示程序总内存消耗仅46.4MB，可完全脱离云端API和网络环境，在边缘侧实现纯本地智能化控制。Needle 2通过Python标注系统与底层硬件深度绑定，开发者添加特定标记后模型即可自动抓取函数名称、描述及参数类型并构建调用规范，查询处理器温度响应时间为149毫秒。对无法匹配预设函数的无关提问，模型会在92毫秒内返回空值。模型权重已在Hugging Face发布，代码遵循Apache 2.0协议在GitHub开源。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579328.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T17:00:56+08:00"
+            },
+            {
+              "title": "“白宫股神”特朗普7月逾1100笔证券交易 微软、亚马逊单笔出售最高2500万美元",
+              "brief": "披露文件显示，特朗普名下账户7月进行了1156笔证券交易，规模最大的两笔为7月20日分别出售价值500万至2500万美元的微软和亚马逊股票，三天后账户又买入少量微软和亚马逊股票。同日还出售甲骨文股票并买入英伟达、Intuit、迈威尔科技、Salesforce等。账户7月还买入SpaceX股票并反复交易特斯拉，同时对ETF进行大规模轮动，并增加市政债和其他债券配置。6月披露显示当月交易1051笔，2025年度八个投资账户持有资产至少8.58亿美元，全年记录超过2.1万笔证券交易。白宫称投资组合由第三方金融机构独立管理。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579326.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T16:57:02+08:00"
+            },
+            {
+              "title": "旧金山提起诉讼 要求叫停Truth Social帖文付费抢先访问服务",
+              "brief": "旧金山市检察官David Chiu表示，该服务刻意打造了一个内幕交易市场，将公众信任转化为私人利润，属于最高层级的权力腐败。他指出，对冲基金与加密货币机构可付费享受抢先访问服务获利，而持有401(k)退休金账户、529教育储蓄账户、公共养老金及其他股票资产的加州普通民众将蒙受损失。诉状在旧金山高等法院提交，重点举出2025年4月9日特朗普发帖称“现在是买入的绝佳时机”后数小时宣布暂停征收贸易税90天、股市走高，以及6月11日发帖称将强力打击伊朗后原油期货大涨。David Chiu自2025年1月以来已发起19起针对特朗普政府的诉讼。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579324.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-23T16:52:37+08:00"
+            },
+            {
               "title": "“中国天眼”FAST落成启用十年 将继续推进二期工程",
               "brief": "“中国天眼”FAST落成启用已满十年，期间保障了望远镜稳定高效运行，在脉冲星、中性氢星系、快速射电暴和引力波研究中取得一系列具有国际影响力的成果，已成为全球最重要天文观测设备之一。其在地月空间目标探测、脉冲星时间基准及小行星防御等应用领域也取得重要进展，服务于国家空天安全和重大战略需求。截至目前，基于FAST数据，科学家已在《科学》《自然》主刊发表论文13篇，成果两次入选《科学》十大科学突破，一次入选《自然》十大科学发现。未来团队将继续推进FAST二期工程。",
               "source_url": "https://www.cnbeta.com.tw/articles/science/1579322.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-23T16:06:01+08:00"
-            },
-            {
-              "title": "Xbox再裁员268人 光环交动视开发 黑曜石划归B社",
-              "brief": "Xbox本轮裁员268人，是7月1600人裁员及本财年末再削减1600个岗位计划的重组延续。架构调整包括：下一代《光环》交由动视内部新团队开发，原光环工作室仅保留小团队维护已上线游戏；Rare和World’s Edge划归动视管辖；黑曜石娱乐归入B社体系，继续推进现有项目及与B社联合开发的新《辐射》；Playground Games与Turn10合并负责《极限竞速》和《神鬼寓言》；King接管Microsoft Casual Games。Compulsion Games、Double Fine完成剥离，Undead Labs完成所有权转移，Ninja Theory转让谈判未达成协议。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579320.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T16:02:26+08:00"
-            },
-            {
-              "title": "苹果支持文档不再将M5/M6 Mac Mini SSD列为可更换零件",
-              "brief": "苹果支持文档不再将M5/M6 Mac Mini的SSD列为可更换零件，主要原因是新款Mac Mini设计变更，直接将NAND芯片焊接在逻辑板上，与旧款采用独立固态盘模块、可直接拔换不同。新款更换或扩容需用热风枪吹掉芯片并重新焊接新芯片。不过这不影响维修和扩容，华强北工程师已完成测试，256GB版同样使用两个焊盘，扩容时手动补线路后仍可重新植球焊接NAND芯片。对消费者而言自行更换麻烦，需多种工具和维修经验，寻求专业维修店处理可行，但价格可能较高。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579318.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T15:31:06+08:00"
-            },
-            {
-              "title": "金色三角力量图案亮相 《塞尔达传说》40周年收纳包开售",
-              "brief": "《塞尔达传说》40周年纪念收纳包开售，金色三角力量图案对收藏者颇具吸引力，但若以保护设备和收纳配件为主要需求，39.99美元的价格并不容易令人满意。同价位Orzly款式体积更大，可为Switch 2提供保护，同时收纳21张实体游戏卡和小型配件，这些储物功能未出现在周年纪念版中。Orzly还提供同价配件套装，包括钢化膜、保护壳、耳机、充电线、卡盒和触控笔，撰文者尚未测试。偏好薄型收纳包的玩家可选PowerA Slim Case，本周降至16.99美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579316.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T15:18:29+08:00"
-            },
-            {
-              "title": "警长反对也没用 《GTA6》广告牌亮相迈阿密",
-              "brief": "尽管当地警长反对，认为《GTA6》宣传了一个以犯罪和暴力为核心的虚构版社区，与执法部门维护公共安全的努力相悖，相关协议仍获推进。县长达妮埃拉·莱文·卡瓦已于9月10日签署文件，迈阿密海滩的谈判亦以4比3投票结果获批。《GTA6》定于11月19日登陆Xbox Series X|S与PS5平台。卡塞亚中心的标志将至少保留至2027年热火队最后一个主场比赛日，期间全国电视转播将带来额外曝光。迈阿密海滩与迈阿密市也与Rockstar合作承接线下营销展示。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579314.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-23T15:07:29+08:00"
             }
           ]
         },
@@ -374,45 +374,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "爱奇艺科幻剧《球状闪电》首支预告公布，刘慈欣小说改编、陈思诚监制",
-              "brief": "爱奇艺科幻剧《球状闪电》公布首支预告，该剧改编自刘慈欣小说，由陈思诚监制、戴墨执导，王安宇、杨立新、周一围、童瑶领衔主演，按姓氏笔画排序。发行许可显示剧集共30集。此前爱奇艺在科幻与AI内容上动作频繁，包括推出AI长剧及刘慈欣监制的《流浪地球：望日》游戏等。",
-              "source_url": "https://www.ithome.com/1/006/347.htm",
+              "title": "任正非重申华为不造车，愿以智能化特长助车企造好车",
+              "brief": "任正非再次明确华为不造车的立场，同时表示乐意发挥在智能化方面的特长帮助车企造好车。此前2024年9月，华为副董事长、轮值董事长徐直军接受采访时提到，华为只有确定长远不造车，才能走到引望这一步。他解释称，华为造车充其量像手机一样占百分之一二十份额，但做了以后引望只能为自己服务，还可能重复建设汽车制造厂。此番表态与东风汽车总经理冯长军与任正非等高层会谈、围绕深化战略合作交流的消息相呼应。",
+              "source_url": "https://www.ithome.com/1/006/411.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T16:45:22+08:00"
+              "published_at": "2026-09-23T18:46:57+08:00"
             },
             {
-              "title": "米哈游新作《源初之结》确认角色不通过抽卡获得，持续游玩可解锁全部",
-              "brief": "米哈游就新作《源初之结》答疑，确认这是一款主打多人合作的神话动作游戏，不强制组队，单人可体验绝大部分核心内容，首发一定支持PC平台。官方明确角色不会通过抽卡获得，玩家持续游玩即可解锁全部角色，更多商业化信息仍在慎重规划中。游戏设有神格技系统，难度兼顾新手与挑战玩家。",
-              "source_url": "https://www.ithome.com/1/006/346.htm",
+              "title": "空客用Steam Deck掌机操控ExoMars火星车原型进行地面测试",
+              "brief": "ExoMars火星车仍处于地面测试阶段，其与Steam Deck搭档的画面出现在YouTube博主汤姆·斯科特参观空中客车设施后发布的视频中。在火星车登陆火星自主行驶前，工程师需要控制设备在类似火星环境的测试场地操控火星车，空客最终选择了Steam Deck。视频显示一台Steam Deck运行未公开定制软件，斯科特通过摇杆、扳机键和面部按键控制火星车。Steam Deck本质是完整掌上PC，采用Linux系统，配备实体按键和触摸屏，支持Wi-Fi和蓝牙，适合运行专业定制软件。",
+              "source_url": "https://www.ithome.com/1/006/410.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T16:36:36+08:00"
+              "published_at": "2026-09-23T18:39:35+08:00"
             },
             {
-              "title": "科大讯飞发布语音识别大模型Spark-ASR-2.0，明日上线讯飞输入法",
-              "brief": "科大讯飞发布全新语音识别大模型Spark-ASR-2.0，在高噪、小音量、快语速、儿童等复杂声学场景以及上下文识别、文本流畅规范性等方面改善明显，整体推理成本较1.0仅增加10%。官方称其让识别结果流畅成文，在中英文混合、方言、高噪声等维度WER明显降低，明日起逐步上线讯飞输入法并通过开放平台提供API。",
-              "source_url": "https://www.ithome.com/1/006/345.htm",
+              "title": "网易云音乐鸿蒙版正式上线，完成多终端适配",
+              "brief": "网易云音乐鸿蒙版正式上线，用户可下载体验。该版本由网易云音乐与鸿蒙深度合作联合开发，8月底上线尝鲜内测版，过去3周双方根据用户反馈快速迭代8个版本，上新具体功能1000余项。其中用户呼声最高的本地音乐导入、播放器样式选择、音质音效、深色模式等功能均已上线，乐评、歌单、笔记等社区互动功能也已全面适配，保持原汁原味的音乐社区氛围。同时特别定制鸿蒙专属沉浸光感播放器，融合鸿蒙星环与网易云音乐经典黑胶播放器元素。",
+              "source_url": "https://www.ithome.com/1/006/409.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T16:35:48+08:00"
+              "published_at": "2026-09-23T18:13:45+08:00"
             },
             {
-              "title": "荣耀YOYO Claw、小米miclaw、阶跃终端AI三款端侧生成式AI服务通过备案",
-              "brief": "网信部门公布通过备案的生成式人工智能服务名单，包括荣耀旗下YOYO Claw、小米旗下Xiaomi miclaw以及阶跃终端AI三款手机端侧生成式AI服务。备案信息显示，三者备案单位分别为深圳荣耀软件技术有限公司、小米科技有限责任公司和智源星辰（上海）智能科技有限公司，备案时间均为2026年9月22日，适用场景分别为荣耀手机、小米手机和阶跃手机。",
-              "source_url": "https://www.ithome.com/1/006/344.htm",
+              "title": "OpenAI CEO奥尔特曼将在联合国演讲，倡议建立全球AI标准",
+              "brief": "OpenAI CEO奥尔特曼将在联合国发表演讲，倡议建立全球AI标准，其竞争对手Anthropic负责人达里奥·阿莫代伊将通过视频出席。OpenAI代表在演讲前简报会上披露，奥尔特曼将以务实的中间派身份推动制定共同的AI安全标准，同时不妨碍创新，也不让少数几家公司掌握过多权力。会议在纽约联合国大会年度辩论间隙举行，AI失控风险是今年大会一大关切。联合国秘书长古特雷斯22日发表演讲，警示AI危险并呼吁全球合作。",
+              "source_url": "https://www.ithome.com/1/006/408.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T16:33:24+08:00"
+              "published_at": "2026-09-23T18:12:51+08:00"
             },
             {
-              "title": "爱奇艺CEO龚宇：互联网电视营销价值过去10多年一直被低估",
-              "brief": "爱奇艺CEO龚宇表示，互联网电视在营销方面的价值一直没有充分体现，过去10多年一直被低估，未来占比会更高。据国家广播电视总局数据，截至6月末全国有线电视实际用户2.05亿户，广电5G用户近4400万户。中国广电已部署下半年重点工作，包括推进电视业务升级、构建超高清融合视听服务体系以及上线微短剧专区等。",
-              "source_url": "https://www.ithome.com/1/006/343.htm",
+              "title": "鸿蒙智行享界V8官宣MPV首发五防隐藏式地轨",
+              "brief": "鸿蒙智行享界V8官宣MPV首发五防隐藏式地轨，具备防踩踏、防潮、防尘、防夹、防噪音功能，方便老人小孩车内走动和上下车踩踏。据此前报道，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东已宣布，智界RX及鸿蒙智行新品发布会定档9月28日14:30举行，享界V8也将同步开启预订。相关文章涉及智界R7焕新款搭载颂钵零重力座椅、享界G9首批交付、智界EHL纯电SUV新车首曝等内容。",
+              "source_url": "https://www.ithome.com/1/006/404.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T16:30:46+08:00"
+              "published_at": "2026-09-23T18:03:18+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "丰田让员工训练人形机器人，称不会取代人类",
+              "brief": "丰田员工正参与训练人形机器人，公司计划未来几年部署40万台工厂机器人，人形机器人是其中一部分，但高管否认会替代人类员工。丰田在装配线上部署了ELEY人形机器人，员工佩戴基于机器人手指的装置，训练这些靠轮子移动的机器人完成需要精细手部动作的任务。丰田是全球最大汽车公司之一，在全球有60座工厂，雇佣1.8万员工。执行副总裁Hiroki Nakajima表示，目标是创造“机器人与人类共存，而非取代人类”的世界。据国际机器人联合会数据，仅2024年中国就部署200万台工业机器人，日本以45.05万台居第二，美国和韩国分别以3.42万台和3.06万台排名第三和第四。",
+              "source_url": "https://www.solidot.org/story?sid=85461",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T16:32:12+08:00"
+            },
+            {
+              "title": "地热变形虫可在63摄氏度下生存繁殖",
+              "brief": "研究人员从加州拉森火山国家公园温泉中分离出“喀斯喀特火变形虫”，可在63℃完成有丝分裂，并在70℃形成保护外层、降温后恢复，打破此前真核生物约60℃的生长上限。团队于2023至2025年在喀斯喀特山脉拉森火山国家公园采集地热溪流样本，水温约47℃至64℃。回实验室后先以57℃培养，该温度已高于既往已知变形虫生长最高值；随后逐步升温，至63℃直接观察到有丝分裂，证明它不仅能存活，还能在超出旧有真核生物耐受极限的条件下繁殖。基因组测序显示，火变形虫与蛋白质维持、DNA修复相关的基因数量多于温带变形虫近缘种。",
+              "source_url": "https://www.solidot.org/story?sid=85460",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T15:23:00+08:00"
+            },
+            {
+              "title": "Adobe推出Android版免费视频编辑工具Premiere",
+              "brief": "Adobe终于推出功能完整的Android版视频编辑工具Premiere，除AI视频生成功能外其余功能均免费，用户无需订阅或注册Creative Cloud账户。Android版Premiere支持导入任意数量的视频轨道，进行剪辑、分割、添加特效，导出最高4K分辨率视频。它支持从视频片段中提取音频、降低背景噪音以及添加旁白。该工具默认输出竖屏16:9比例视频，允许用户切换到更传统的比例。对于AI功能，该工具每月免费提供250 AI credits，足以以每个消耗80 credits生成几段短视频。AI功能收费为每月8美元或每年70美元。",
+              "source_url": "https://www.solidot.org/story?sid=85459",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T14:26:21+08:00"
+            },
             {
               "title": "黑客组织ShinyHunters声称入侵FBI并窃取超2TB雇员数据",
               "brief": "勒索组织ShinyHunters声称入侵美国联邦调查局，窃取逾2TB雇员数据，涉及现任及前任雇员和求职者。该组织称行动并非出于经济动机，而是要求FBI更正或撤回此前对其的不实指控。其声称利用FBI招聘网页中Oracle PeopleSoft的零日漏洞实现远程代码执行，随后篡改页面并替换为已被控制的横幅与图片，并从FBI管理的AWS GovCloud服务器下载约2TB至3TB数据。FBI今年五月曾就该组织发出安全警告，指其采用骚扰策略，包括向受害者及家属发送威胁短信、拨打骚扰电话，甚至恶意报假警。ShinyHunters否认这些指控。",
@@ -426,13 +447,6 @@
               "source_url": "https://www.solidot.org/story?sid=85456",
               "source_name": "Solidot",
               "published_at": "2026-09-23T00:52:31+08:00"
-            },
-            {
-              "title": "美国酒精消费自疫情以来首次下降",
-              "brief": "盖洛普8月民调显示，仅54%的美国人饮酒，低于2010年的67%。千禧一代和Z世代推动了减少饮酒趋势，而50至64岁中老年人的酒精消费却在上升。《Annals of Internal Medicine》研究分析逾11.4万名美国成年人2018至2024年数据，发现2022至2024年总体饮酒率下降2%，重度饮酒率下降8%。Z世代总体饮酒率降幅近6%，千禧一代约2%。同期50至64岁人群总体饮酒率上升4%，重度饮酒率激增36%。",
-              "source_url": "https://www.solidot.org/story?sid=85455",
-              "source_name": "Solidot",
-              "published_at": "2026-09-23T00:36:41+08:00"
             }
           ]
         },
