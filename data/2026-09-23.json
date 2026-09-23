@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T18:52:16.687451+08:00",
+  "generated_at": "2026-09-23T20:52:48.302329+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果测试新iPhone设置，可屏蔽运动感应广告",
+              "brief": "苹果正在为中国用户测试一项iPhone设置，允许把应用加入列表，阻止其访问设备的运动传感器。苹果未明确说明该设置针对什么，但中国应用有时会在启动时显示“摇一摇跳转”广告，仅拿起手机、走路或车辆颠簸就可能触发，导致 unwanted 跳转。中国用户推测，iOS 27.2 beta 2在设置中新增的“限制运动数据”选项正是为此，它可阻止应用访问加速度计和陀螺仪数据。目前该选项似乎仅限中国大陆App Store账户，预计今年晚些时候iOS 27.2发布时不会更广泛开放。",
+              "source_url": "https://www.macrumors.com/2026/09/23/iphone-setting-shake-off-motion-sensing-ads/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-23T19:49:55+08:00"
+            },
             {
               "title": "部分运行 macOS 27 的 Mac 上 Apple Intelligence 占用超 30GB 存储",
               "brief": "安装 macOS 27 Golden Gate 后，Apple 会在 Mac 下次联网时自动下载多 GB 的 AI 模型，且无法阻止，Siri AI 与 Apple Intelligence 已成为系统强制组成部分。苹果称最新功能在 M3 及以上芯片、至少 12GB 统一内存的 Mac 上最多需 14GB 存储，其他机型最多 8GB。但实测占用普遍更高：M4 Pro Mac mini 为 20.67GB，M3 MacBook Air 达 22.42GB，M1 MacBook Air 约 14GB，更有用户报告 30.16GB 和 24.35GB。",
@@ -35,19 +42,19 @@
               "source_url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
               "source_name": "MacRumors",
               "published_at": "2026-09-23T07:15:53+08:00"
-            },
-            {
-              "title": "OpenAI发布GPT-6 Sol与Luna，将Astra改进下放至更低价位",
-              "brief": "OpenAI推出GPT-6 Sol与GPT-6 Luna两款新模型，接续GPT-6 Astra，采用类似方法在专业工作、事实准确性、编程、计算机使用与对齐方面改进。Sol面向日常工作，价格低于Astra；Luna更便宜，优化快速响应与高吞吐，Sol推理能力更强。新模型在基准测试中超越前代，Sol错误约为GPT-5.6 Sol的一半，部分测试追平或超过Claude Fable 5.1。两者采用Astra的沟通风格，回答更简洁。Sol每百万输入2美元、输出10美元，Luna为0.10与0.50美元，缓存读取享九折优惠。",
-              "source_url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-23T04:58:32+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果上调Apple Card储蓄账户利率",
+              "brief": "苹果与高盛会根据整体金融状况定期调整Apple Card储蓄账户的年化收益率，此次上调后的利率与高盛旗下Marcus储蓄账户的利率一致。该账户仅面向Apple Card用户开放，用户可将每日返现直接转入或存入储蓄账户，也可从关联银行账户或Apple Cash余额中追加资金。利息按日复利计算，每月末将累计利息直接支付到储蓄账户中。如需了解Apple Card储蓄账户的更多详细信息，可查阅相关完整指南。",
+              "source_url": "https://9to5mac.com/2026/09/23/apple-increases-interest-rate-for-apple-card-savings-account/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-23T19:18:16+08:00"
+            },
             {
               "title": "马修·麦康纳与伍迪·哈里森主演的《兄弟》在Apple TV首播",
               "brief": "由马修·麦康纳和伍迪·哈里森主演的影片《兄弟》已在Apple TV上线首播。该片由两位资深演员搭档出演，是Apple TV近期推出的影视内容之一。影片上线后，观众可通过Apple TV平台观看。此次首播也延续了Apple TV持续引入明星阵容作品的策略，为订阅用户提供新的观影选择。",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-23T07:43:00+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 27.2 首个公开测试版，包含全新 iPhone 健康应用",
-              "brief": "苹果发布了 iOS 27.2 的首个公开测试版，其中最受关注的是全新的 iPhone 健康应用。该版本面向已加入 Apple Beta 软件计划的用户开放，安装后可以提前体验即将正式推送的新功能。报道指出，新版健康应用在界面与功能上进行了调整，进一步整合用户的健康与运动数据。测试版可能存在不稳定情况，建议用户在备用设备上安装并提前做好数据备份。",
-              "source_url": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-23T07:06:29+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "小型海底火山可能引发超大规模海啸",
+              "brief": "1883年印尼喀拉喀托火山喷发导致逾3万人死亡，其中许多遇难者死于火山引发的海啸而非火山碎屑。海上火山与陆地火山的灾害机制不同：深海中高水压会抑制爆炸性喷发，但接近海面时水压降低、火山物质高温可引发剧烈爆炸。为厘清火山活动引发海啸的条件，国际研究团队分析了2022年汤加洪阿火山喷发，重点研究可能放大海啸的破火山口快速塌陷。对比喷发前后海底地形发现，约4公里宽的破火山口在喷发期间下沉约1公里。研究者认为，整个破火山口的快速塌陷可能增强了此次大海啸。这表明即便是洪阿这样相对较小的破火山口，也可能因塌陷速度和方式而产生危险海啸，其他海底火山同样存在这种潜力。",
+              "source_url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-23T19:15:30+08:00"
+            },
+            {
+              "title": "欧洲新报告对轨道碰撞发出严重警告",
+              "brief": "2013年电影《地心引力》让凯斯勒综合征广为人知： cascading 碰撞使轨道碎片密布而无法使用。该设想由NASA科学家凯斯勒和库尔-帕莱近半个世纪前提出。电影上映时在轨活跃卫星仅约1000颗，如今据CelesTrak数据已接近17000颗。增长主要来自SpaceX的星链星座，目前在轨约11000颗，还有数千颗待发射。亚马逊已发射数百颗卫星，计划再部署数千颗；中国多个互联网星座也在推进。此外，轨道数据中心可能带来数十万颗卫星。欧洲新报告对轨道碰撞风险发出严重警告，有专家表示“我认为我们将失去使用某些轨道的能力”。",
+              "source_url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-23T19:00:17+08:00"
+            },
+            {
               "title": "菲律宾农妇脑部寄生虫感染确诊，实验室培养虫卵长出尾巴",
               "brief": "菲律宾一名女性稻农突发右臂右腿不受控颤抖约一分钟，此前无头痛、意识混乱或乏力等症状。急诊体检未见异常，但脑部磁共振成像显示左额叶有一簇被液体包围的明亮结节，医生怀疑是寄生虫虫卵。最新一期《新英格兰医学杂志》病例报告指出，医生推测其患有神经血吸虫病，这是血吸虫寄生虫感染的一种少见并发症。菲律宾最常见的是日本血吸虫，该虫也见于中国和印尼部分地区。虫卵在适宜条件下孵化成自由游动的幼虫，实验室培养中虫卵长出尾巴，成为确诊的关键证据。",
               "source_url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
@@ -148,20 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-23T04:38:30+08:00"
-            },
-            {
-              "title": "微软捣毁AI辅助平台，该平台入侵了1.2万个账户",
-              "brief": "微软周二表示，它领导了一项行业范围的行动，捣毁了一个基于订阅的诈骗平台，该平台使用AI聊天机器人在几个月内入侵了1.2万个微软账户。该平台名为EvilTokens，于2月在Telegram频道上推出，初始费用为1500美元，此后每月经常性收费500美元。EvilTokens提供单一服务，简化大规模入侵电子邮件账户所需的大部分步骤。该平台帮助客户分析收件箱，选择可能带来最大收益的目标，并起草后续电子邮件，提供逼真的诡计，诱骗公司员工将资金转移到攻击者控制的账户。微软表示，EvilTokens用户入侵了全球1万个组织的1.2万个客户账户，其中美国最为集中。",
-              "source_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-23T03:45:47+08:00"
-            },
-            {
-              "title": "加拿大不列颠哥伦比亚省起诉OpenAI，要求其为枪击案后重建学校买单",
-              "brief": "加拿大不列颠哥伦比亚省对OpenAI提起诉讼，要求其为Tumbler Ridge社区重建学校及恢复工作承担费用。诉状指出，18岁枪手Jesse Van Rootselaar在作案前曾用ChatGPT策划暴力行为，OpenAI未及时向执法部门预警。枪手在Tumbler Ridge中学杀害五名学生和一名教育助理后自杀，此前还枪杀了自己的母亲和同母异父的弟弟，共造成八人死亡。该中学位于城镇中心，兼具地理与文化意义，案发后被迫拆除。此前受害者家属已就OpenAI未预警提起诉讼。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-23T03:28:23+08:00"
             }
           ]
         },
@@ -169,45 +169,66 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Pixel 11 Pro 的调制解调器仍不敌对手？实测揭晓",
-              "brief": "Pixel 11 系列外观变化不大，但内部升级明显，采用更高效的 Tensor G6 芯片，并放弃三星 Exynos 调制解调器，改用联发科新品。此前与 Pixel 10 Pro 对比已显示下载速度、信号接收和电池效率均有提升。为检验其与顶级安卓旗舰的差距，作者在同一 SIM 卡、最新软件、接近满电且关闭 Wi-Fi 的条件下，将 Pixel 11 Pro 与三星 Galaxy S26 Ultra 进行对比，测试涵盖信号强度、蜂窝网速以及流媒体视频时的耗电表现。",
-              "source_url": "https://www.androidauthority.com/pixel-11-pro-modem-vs-galaxy-s26-ultra-3712761/",
+              "title": "小米18 Pro与Pro Max发布：双2亿像素徕卡影像加持",
+              "brief": "小米推出小米18 Pro和Pro Max，均配备徕卡三摄：2亿像素主摄、5000万像素超广角和2亿像素潜望长焦，支持3.2倍光学变焦和12.8倍无损变焦。Pro Max搭载骁龙8 Elite Extreme Gen 6和8500mAh电池，Pro则采用骁龙8 Elite Gen 6和7000mAh电池。两款机型新增隐私显示屏、功能性背屏、UWB、IP69防护及可自定义AI按键，并引入全新影像模型Legendary Moment，背屏可作取景器使用。",
+              "source_url": "https://www.androidauthority.com/xiaomi-18-pro-max-launch-3714485/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T18:30:07+08:00"
+              "published_at": "2026-09-23T20:40:39+08:00"
             },
             {
-              "title": "谷歌或将 Pixel 11 的 My Pixel 配色图标下放旧机型",
-              "brief": "Pixel 11 系列引入了可随手机颜色变化的 My Pixel 应用图标，如今有迹象显示该功能可能扩展到 Pixel 9 系列。在 My Pixel 应用 8.9.1 版本中发现相关证据，可为 Pixel 9 机型提供与机身颜色匹配的图标，包括 Hazel、Rose Quartz 和 Obsidian 等 2024 年旗舰配色。不过当前版本未覆盖 Pixel 9a 和 Pixel 9 Pro Fold，也尚未支持 Pixel 10 系列，可能仍处于开发中。此外，谷歌或将该图标改为更浅的蓝色。",
-              "source_url": "https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/",
+              "title": "Blink Outdoor 4三摄像头安防套装优惠至66美元",
+              "brief": "亚马逊在Prime Big Deals Days早期促销中将Blink Outdoor 4三摄像头家庭安防套装降至65.99美元，较189.99美元建议零售价优惠65%，并免费赠送Battery Doorbell 2K Plus。该套装提供1080p高清视频、红外夜视、双向音频和实时查看，每台摄像头使用两节AA锂电池，续航最长两年。通过Blink Sync Module连接Wi-Fi，支持更宽视野，搭配Sync Module 2和U盘可本地录制，云功能可能需订阅。",
+              "source_url": "https://www.androidauthority.com/blink-outdoor-4-3-camera-home-security-kit-deal-3713787/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T18:25:26+08:00"
+              "published_at": "2026-09-23T20:18:19+08:00"
             },
             {
-              "title": "Google Meet 自动记笔记新增一页式摘要",
-              "brief": "Google Meet 的“为我记笔记”功能现新增一页式会议摘要，称为 Quick notes。该摘要基于讨论内容和应用记录的笔记，提炼会议要点，无论会议多长都整理成单页，并以项目符号和清单形式呈现待办事项，目标是尽快提供简明信息。Quick notes 会显示在自动生成的 Google Doc 主标签页，详细笔记则保留在另一标签页，同时摘要也会通过邮件发送给参与者。该功能无需单独开关，面向所有 Workspace 用户及订阅 Google AI Pro 或 Ultra 的 Gmail 用户。",
-              "source_url": "https://www.androidauthority.com/google-meet-quick-notes-3714439/",
+              "title": "三星软件更新意外导致智能冰箱故障",
+              "brief": "三星在韩国暂停向智能冰箱推送SmartThings更新，此前部分用户报告冰箱完全停止工作，导致食物变质，另有自动开门功能失效和内部照明不亮等问题。三星代表在论坛确认，9月22日冰箱软件更新测试过程中出现错误，部分客户冰箱电源和屏幕出现异常，公司正通过服务中心采取紧急措施。ZDNet Korea称更新因系统错误被推送，三星已停止分发并建议受影响用户联系服务中心。",
+              "source_url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T18:02:16+08:00"
+              "published_at": "2026-09-23T20:11:50+08:00"
             },
             {
-              "title": "用 Razr 二十年：摩托罗拉的秘密武器始终未变",
-              "brief": "作者使用摩托罗拉手机的时间比愿意承认的还长，从高中时代的诺基亚 5160，到父母购买 StarTAC 时的羡慕，再到 2004 年原版 Razr 发布带来的震撼。当时手机普遍笨重，而 Razr 以纤薄精致的设计和开合时令人满意的清脆声，让外观成为购买理由。文章认为摩托罗拉近年的成功并不意外，因为过去二十年间公司始终保持一致的设计主题，而这一主题正可追溯到初代 Razr，并延续到如今的 Razr 系列。",
-              "source_url": "https://www.androidauthority.com/ive-used-razr-20-years-motorola-secret-weapon-3711624/",
+              "title": "亚马逊Fire HD 10平板早期Prime促销仅售73美元",
+              "brief": "亚马逊Fire HD 10平板在Prime Big Deals Days早期促销中降至72.99美元，较154.99美元建议零售价优惠53%，节省82美元，为今年最佳价格。该平板配备10.1英寸1920x1200全高清屏，搭载联发科MT8186A八核芯片、3GB内存，提供32GB或64GB存储并支持最高1TB microSD扩展。续航最长13小时，支持Made for Amazon触控笔和蓝牙键盘保护套，前后摄像头均为500万像素，评分4.5星，需Prime会员购买。",
+              "source_url": "https://www.androidauthority.com/amazon-fire-hd-10-tablet-deal-3713780/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T18:00:36+08:00"
+              "published_at": "2026-09-23T19:32:23+08:00"
             },
             {
-              "title": "iPhone Duo 的屏下摄像头是个坏主意？五张照片说明问题",
-              "brief": "iPhone Duo 作为苹果首款折叠屏手机，首次配备位于内屏下方的屏下自拍摄像头。三星曾在多代 Fold 上使用该方案，但 Z Fold 7 和 Z Fold 8 已放弃。屏下摄像头历来成像质量偏低，甚至不如廉价安卓手机。作者将搭载 16MP 屏下传感器的 REDMAGIC 11 Pro 与 1900 美元的 Galaxy Z Fold 8 及约 667 美元的 Redmi Note 17 Pro Max 对比。由于光线需穿过屏幕像素，屏下摄像头进光量大幅减少，即便在白天理想光线下，REDMAGIC 的照片仍细节被抹除且过度锐化，三星则细节更好、处理更自然。",
-              "source_url": "https://www.androidauthority.com/iphone-duo-under-display-camera-bad-idea-photo-test-3710889/",
+              "title": "Ring Indoor Cam Plus室内摄像头半价仅售30美元",
+              "brief": "亚马逊将Ring Indoor Cam Plus降至29.99美元，较59.99美元建议零售价优惠50%，追平今年最佳价格。该摄像头支持2K录制，提供更清晰画面，具备可自定义运动区域的先进运动检测、带降噪的双向通话和远程激活警笛。水平视野约115度、垂直60度，支持2.4GHz单频Wi-Fi，通过USB-C供电并插入标准插座，Ring称设置约需5至10分钟，产品评分4.6星。",
+              "source_url": "https://www.androidauthority.com/ring-indoor-cam-plus-deal-3714206/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-23T17:30:57+08:00"
+              "published_at": "2026-09-23T19:28:21+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "小米发布18 Pro系列手机，隐私显示技术超越三星",
+              "brief": "小米在中国推出18 Pro与18 Pro Max，采用比三星Galaxy S26 Ultra更灵活的隐私显示方案，并保留后置副屏、两颗2亿像素摄像头，搭载高通新款骁龙8 Elite Gen 6芯片。两款机型外观与上代17 Pro相似，后置屏幕可显示通知、自拍和玩简单游戏。主要升级在于正面屏幕加入硬件级防窥功能，实现方式被认为比三星更智能。小米已确认今年晚些时候全球上市，弥补上代未进入国际市场的遗憾。",
+              "source_url": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+              "source_name": "The Verge",
+              "published_at": "2026-09-23T08:04:45-04:00"
+            },
+            {
+              "title": "OpenAI招募Patreon核心高管，为即将发布的新品铺路",
+              "brief": "OpenAI已聘请三位Patreon前高管负责创作者产品战略。Patreon联合创始人兼技术负责人Sam Yam在X上宣布加入OpenAI，领导Creator Product，并带上前产品负责人Drew Rowny和前工程负责人Shannon Ma，两人均在近几周离职。Yam表示将与创作者共同构建，并分享一套对创作者及其社群极具价值的新工具早期访问权限，同时提醒关注下周的OpenAI DevDay。此举被视为OpenAI在创作者订阅经济领域的重要布局。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+              "source_name": "The Verge",
+              "published_at": "2026-09-23T07:02:39-04:00"
+            },
+            {
+              "title": "Eight Sleep推出更小更便宜的Pod 6智能睡眠系统",
+              "brief": "Eight Sleep发布新一代智能睡眠系统Pod 6，号称公司迄今最重要的硬件发布。核心是重新设计的冷却主机，体积缩小到可藏于多数床底，能根据呼吸、心率等健康与睡眠数据更快地制冷或制热。Pod 6售价低于2025年推出的Pod 5，但仍不便宜：标准版全尺寸床垫起价2699美元，现已在官网开售。公司称新系统在更小、更智能的同时也更实惠。",
+              "source_url": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+              "source_name": "The Verge",
+              "published_at": "2026-09-23T07:00:00-04:00"
+            },
             {
               "title": "OpenAI 就数学成果发布问题咨询顶尖数学家",
               "brief": "OpenAI 在将一系列引人注目的数学成果变成声誉危机后，正咨询人类数学家以寻找更稳妥的前进路径。该公司周一宣布成立一个独立数学家小组，负责就与数学研究及更广泛数学界的互动方式提供建议，包括如何呈现和发布新成果。该小组的突然成立令许多数学家感到意外。研究人员对 The Verge 表示，这是良好的第一步，但许多人仍对其实际职能、影响力大小以及 OpenAI 是否会真正听取意见存有基本疑问，也担心如此小规模的知名研究者群体能否代表更广泛的数学界。该九人小组被研究人员形容为领域内的明星。",
@@ -221,27 +242,6 @@
               "source_url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
               "source_name": "The Verge",
               "published_at": "2026-09-22T18:26:07-04:00"
-            },
-            {
-              "title": "Rabbit推出无需R1硬件即可运行的新AI代理",
-              "brief": "曾推出表现平平的R1设备的Rabbit公司，正在发布一款无需其硬件即可使用的独立AI代理。该公司称其新的OS3“代理式操作系统”运行在云端，但可在Windows、Mac和Linux设备上本地操作。用户最多可将五台设备添加到一个账户，并选择偏好的AI模型。OS3会自动确定完成任务所需的设备、文件、应用和AI模型。用户还可通过专用桌面网站、Telegram或iMessage等配对消息应用以及R1设备访问OS3。创始人表示已停止生产R1，但未放弃AI硬件，正专注于新的“cyberdeck”。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-              "source_name": "The Verge",
-              "published_at": "2026-09-22T16:52:40-04:00"
-            },
-            {
-              "title": "沙特新创公司Ceer发布造型前卫的Exobot电动车",
-              "brief": "沙特阿拉伯以石油生产和储量闻名，而非汽车制造，更不用说电动车生产。因此，沙特初创公司Ceer周一发布两款棱角分明、形似飞船的电动车令人意外，并计划到2030年再推出五款车型。Exobot轿车和SUV预计2027年起在沙特上市。其超未来主义设计让人联想到《创：战纪》《银翼杀手》等科幻电影，鸥翼门则明显借鉴特斯拉Model X。Ceer是沙特主权财富基金与富士康的合资企业。",
-              "source_url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-              "source_name": "The Verge",
-              "published_at": "2026-09-22T16:14:54-04:00"
-            },
-            {
-              "title": "高通发布骁龙8 Elite Gen 6及Extreme版本",
-              "brief": "高通宣布推出骁龙8 Elite Gen 6，今年还新增了8 Elite Extreme Gen 6。公司称两款新手机芯片均为旗舰，规格差异相对较小，主要限于Extreme型号在AI处理、视频拍摄和游戏性能上的提升。两款Gen 6芯片均采用2纳米工艺，在调制解调器、显示规格、安全功能、GPS以及内存和存储支持方面有许多共同点。高通不再公布核心的详细分解，但给出的CPU参数相同，均为两个最高5GHz的大核和六个最高4GHz的性能核。尽管如此，Extreme被描述为性能略高。",
-              "source_url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-              "source_name": "The Verge",
-              "published_at": "2026-09-22T16:00:00-04:00"
             }
           ]
         }
@@ -254,45 +254,52 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "格兰特·莫里森评价《超级少女》与杰森·莫玛版暴狼",
-              "brief": "曾创作《全明星超人》的格兰特·莫里森在其Substack专栏中评价《超级少女》，称影片“不算糟糕，但也谈不上特别出色”，并认可米莉·阿尔科克对卡拉·佐-艾尔的演绎。随后他点名批评杰森·莫玛饰演的暴狼，称其为“我看过的电影中最糟糕的表演之一，令人十分费解”。莫玛此前曾表示自己非常适合这一角色。此外，有报道称泥脸将现身《新蝙蝠侠2》，但古恩表示相关电影与《新蝙蝠侠》系列无关，而属于DC宇宙。",
-              "source_url": "https://www.ign.com/articles/all-star-superman-writer-grant-morrison-delivers-his-verdict-on-supergirl-and-jason-momoas-lobo",
+              "title": "《复仇者联盟4：终局之战》加长版泄露新结局与连接《复仇者联盟：末日》的额外片段",
+              "brief": "《复仇者联盟4：终局之战》加长版提前放映的片段在网上流出，漫威正以版权为由从社交媒体上删除这些内容。IGN在片段被删前查看了多份拷贝，确认其真实性。片段中最引人注目的是多位此前未公布会出现在《复仇者联盟：末日》中的角色。其中一段新结局接续原有结尾：史蒂夫·罗杰斯与佩吉·卡特共舞时被敲门声打断，佩吉开门后见到洛基。这些额外场景被认为是在《末日》制作期间拍摄的，暗示这些角色可能在12月《末日》上映时再度登场。",
+              "source_url": "https://www.ign.com/articles/avengers-endgame-encore-leaks-reveal-new-ending-and-additional-scenes-that-connect-to-avengers-doomsday-including-several-unannounced-cast-members",
               "source_name": "IGN",
-              "published_at": "2026-09-23T16:57:29+08:00"
+              "published_at": "2026-09-23T19:40:27+08:00"
             },
             {
-              "title": "《战争机器：E-Day》剧情总监在抢先体验上线前一周被裁",
-              "brief": "Xbox品牌重置导致多间工作室共268名员工失业，其中不少是资深人才。《战争机器》开发商The Coalition的剧情总监Juan Vaca确认在任职四年后被裁。他上周刚公开庆祝游戏开发完成，游戏将于下周全球发售前五天进入抢先体验。微软尚未说明The Coalition在《E-Day》发售后的计划，但裁掉关键人才令人不安。此外，《光环》工作室电影总监Josh Daniels也在升职一天后被裁，Activision将接手《光环》未来，工作室仅留小团队维护现有游戏。",
-              "source_url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
+              "title": "WWE在《GTA6》发售前放弃“Vice City”商标",
+              "brief": "WWE于8月8日提交“Vice City”商标申请，约一个月后的9月21日被判定为“死亡”。这似乎并非WWE要自制《侠盗猎车手》游戏，而更可能是围绕近期升入主阵容的摔角手Lola Vice进行主题包装，她来自迈阿密，正是《GTA》罪恶都市的现实原型地。目前尚不清楚WWE放弃商标的原因，但外界猜测Rockstar Games不会乐见他人试图占有其使用逾二十年的名称。罪恶都市是PS2经典《GTA：罪恶都市》及即将推出的《GTA6》的舞台。",
+              "source_url": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch",
               "source_name": "IGN",
-              "published_at": "2026-09-23T08:22:16+08:00"
+              "published_at": "2026-09-23T19:33:38+08:00"
             },
             {
-              "title": "《金刚狼》叙事总监解释为何洛根在游戏中是矮个子",
-              "brief": "在《漫威金刚狼》发售后，关于Insomniac对洛根塑造的讨论升温，部分玩家批评角色过于“软弱”、不够愤怒。叙事总监Walt Williams在播客中谈到剑齿虎与金刚狼的关系，称愤怒通常是对失落感的回应，是为了填补内心缺失。他认为若要让玩家真正理解洛根的情感深度，剑齿虎也必须同样深情，只是以更黑暗的方式表达。剑齿虎是洛根的黑暗镜像，两人都怀有渴望、温柔与失落，只是洛根会因害怕而退缩，剑齿虎则因痛苦而向外攻击。",
-              "source_url": "https://www.ign.com/articles/marvels-wolverine-director-explains-why-logan-needed-to-be-a-short-king-in-the-game",
+              "title": "弗罗多回归！《指环王：追捕咕噜》片场照曝光",
+              "brief": "正在新西兰拍摄的《指环王：追捕咕噜》预计于2027年12月17日上映，伊利亚·伍德将重新饰演弗罗多·巴金斯。华纳兄弟TikTok账号发布的片场照只露出弗罗多的背影，因此看不到伍德角色的正脸，推测是因后期会应用减龄技术。照片中还能看到夏尔的众多霍比特人，以及导演兼咕噜饰演者安迪·瑟金斯操作摄影机。该片将让瑟金斯与伊恩·麦克莱恩、李·佩斯等老搭档重聚，杰米·多南接替维果·莫腾森出演阿拉贡，安雅·泰勒-乔伊饰演新角色“致命精灵”塞伦。",
+              "source_url": "https://www.ign.com/articles/frodos-back-set-photos-from-the-lord-of-the-rings-the-hunt-for-gollum-offer-behind-the-scenes-look-at-prequel-movie",
               "source_name": "IGN",
-              "published_at": "2026-09-23T08:18:16+08:00"
+              "published_at": "2026-09-23T19:09:40+08:00"
             },
             {
-              "title": "《腐烂国度》开发商Undead Labs脱离Xbox后确认大规模裁员",
-              "brief": "《腐烂国度3》开发商Undead Labs在脱离Xbox独立后，确认进行了“大规模”裁员。工作室在LinkedIn上宣布与“大量”员工分道扬镳，称这是微软今夏公布的品牌重组计划的一部分。工作室表示，这些极具才华的开发者多年来为《腐烂国度》系列付出良多，他们的工作仍属于Undead Labs和《腐烂国度3》。IGN已联系工作室询问裁员人数及是否影响游戏开发。《腐烂国度3》仍计划于2027年发售，工作室对独立后的未来表示期待。",
-              "source_url": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
+              "title": "《星球大战：零号连》估计售出100万份，近七成来自Steam",
+              "brief": "由前Firaxis《XCOM》开发者组成的Bit Reactor打造的《星球大战》策略游戏《零号连》，据估算销量已达100万份。其中69.9%来自Steam，PlayStation占19.9%，Xbox及Xbox PC占10.2%。分析人士Elliott估计，该作自上月发售以来已创造约5000万美元收入。显然Steam是《零号连》的主要销售平台。文中还附带盘点了《星球大战》游戏中的最佳机器人，包括R2-D2与C-3PO等经典角色。",
+              "source_url": "https://www.ign.com/articles/star-wars-zero-company-estimated-to-have-sold-1-million-with-nearly-70-on-steam",
               "source_name": "IGN",
-              "published_at": "2026-09-23T07:19:27+08:00"
+              "published_at": "2026-09-23T18:44:16+08:00"
             },
             {
-              "title": "NBA球星史蒂文·亚当斯称《GTA 6》发售将导致球员和教练表现全面下滑",
-              "brief": "NBA休斯顿火箭队中锋史蒂文·亚当斯在媒体日上开玩笑说，应该期待11月全联盟表现下滑，因为《GTA 6》即将发售。他警告不仅NBA，NFL等所有联盟的球员和教练都会因沉迷游戏而表现糟糕，预计12月才会恢复。鉴于《GTA 6》有望成为史上最盛大的娱乐产品之一，运动员们准备大玩特玩并不令人意外。此前就有关于NFL四分卫凯勒·穆雷每逢《使命召唤》新作发售表现下滑的玩笑，如今这一玩笑似乎扩展到了大多数职业运动员。",
-              "source_url": "https://www.ign.com/articles/nba-star-steven-adams-says-gta-6s-launch-will-lead-to-a-league-wide-drop-in-performance-for-athletes-and-coaches",
+              "title": "乔治·卢卡斯称其对《星球大战》原三部曲的修改是合理的",
+              "brief": "乔治·卢卡斯为自己对《星球大战》经典三部曲的多次修改辩护，称电影上映时总会“从你手中被夺走”，因此修改是合理的。卢卡斯对三部曲的众多更新一直是粉丝争论的焦点，每次后续改动都会引发是否明智或必要的讨论。1997年特别版做出重大改动并加入大量新CGI特效，总体反响不错。此后2004年DVD版、2011年蓝光版又陆续修改，2019年登陆Disney+时还做了更细微的调整，距最初上映已逾四十年。",
+              "source_url": "https://www.ign.com/articles/george-lucas-says-his-changes-to-the-original-star-wars-trilogy-were-justified-as-movies-always-get-yanked-out-of-your-hands-for-release",
               "source_name": "IGN",
-              "published_at": "2026-09-23T06:36:03+08:00"
+              "published_at": "2026-09-23T18:34:53+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "MicYou：把安卓手机变成电脑麦克风",
+              "brief": "MicYou 是一款开源工具，可让安卓手机充当电脑麦克风，支持 Windows、Linux 和 macOS。需在手机与电脑分别安装客户端，连接后即可使用。为避免回音啸叫，需配合 VB-Cable 音频转发工具，并调整系统输入输出设备。软件还提供降噪、回声消除、自动增益等功能。2.0 版本新增 AI 降噪、AEC、Opus 弱网优化、插件系统，桌面端改用 Tauri + Rust 重构，并升级主题系统与后台稳定性。",
+              "source_url": "https://www.appinn.com/micyou-2/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-23T19:08:43+08:00"
+            },
             {
               "title": "iOS 27.2 Beta2 新增限制运动数据权限，可屏蔽摇一摇广告",
               "brief": "iOS 27.2 Beta2 为中国区用户新增“限制运动数据”权限，位于设置→隐私与安全→运动与健身底部。用户可将弹摇一摇广告的应用加入其中，使其无法调用加速度计与陀螺仪，从而避免触发广告。目前该权限仅对登录大陆 App Store 账号的手机可见。普通用户不建议更新 Beta 系统，如需体验可在系统设置→通用→软件更新中开启 Beta 版更新并选择 iOS 27 Public Beta。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.appinn.com/neovim-10-btc-donation/",
               "source_name": "小众软件",
               "published_at": "2026-09-21T14:49:06+08:00"
-            },
-            {
-              "title": "发现频道：10款大家发现的好评软件（2026年第38期）",
-              "brief": "小众软件论坛发现频道公布最近10日的热门排行榜，由系统自动生成，共列出10款项目：开源本地配音工具 yovoice，支持音色复刻与情绪调节；查询 IP 风险值与浏览器环境一致性的 PING IP；轻量 Markdown 阅读器 Mdview；内置150多个小工具、支持 CLI、MCP 与 Agent Skills 的开源桌面效率工具箱 TINKER；Windows 11 资源管理器标签页工具；极简 EPUB/MD 阅读工具；把 Android 手机变成系统安装工具的项目；零强制权限的 macOS 菜单栏整理工具 BarBar；汉语拼音注音小工具；以及免费在线给软件加授权锁的 KeyGuard。",
-              "source_url": "https://www.appinn.com/faxian-top10-2638/",
-              "source_name": "小众软件",
-              "published_at": "2026-09-21T09:00:35+08:00"
             }
           ]
         },
@@ -334,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "63℃仍能分裂繁殖 火变形虫改写真核生物耐热上限",
-              "brief": "研究团队在喀斯喀特山脉拉森火山国家公园约47℃至64℃的地热溪流中采集样本，先在57℃培养地热变形虫，该温度已高于此前已知变形虫生长最高值，随后逐步升温至63℃并直接观察到有丝分裂，证明其不仅存活还能繁殖。超过63℃后虫体改变形态并形成保护外层，暴露于70℃后再放回较低温度仍能复原。该新种命名为“来自喀斯喀特山脉的火变形虫”，属温泉嗜热真核原虫，创下真核生物存活绝对温度最高纪录，并保持复杂细胞结构未被高温瓦解。基因组测序显示其蛋白质维持和DNA修复相关基因更多，蛋白质表面带正电氨基酸比例更高。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1579330.htm",
+              "title": "高通骁龙8 Elite Extreme Gen 6新封装显著改善发热表现",
+              "brief": "高通在新一代旗舰平台骁龙8 Elite Extreme Gen 6上调整了PoP封装设计，不再让DRAM完全覆盖核心硅片正上方，而是将内存位置向侧面偏移，并在关键区域加入散热结构。测试显示，该封装在高负载下用915秒才达到105摄氏度，而采用传统PoP封装的骁龙8 Elite Gen 5仅用390秒。新平台还采用台积电2纳米N2P工艺，最高频率可达5.0GHz，持续高性能时间延长超过两倍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579356.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T18:05:14+08:00"
+              "published_at": "2026-09-23T20:37:03+08:00"
             },
             {
-              "title": "仅14MB！树莓派5纯CPU也能跑AI 离线指令毫秒级响应",
-              "brief": "该模型为指令执行专用模型，用户输入点亮LED灯时，系统仅需78毫秒即可完成从识别到执行的全过程。在树莓派5（8GB内存版）实测中，模型运行内存占用约28MB，运行完整Python演示程序总内存消耗仅46.4MB，可完全脱离云端API和网络环境，在边缘侧实现纯本地智能化控制。Needle 2通过Python标注系统与底层硬件深度绑定，开发者添加特定标记后模型即可自动抓取函数名称、描述及参数类型并构建调用规范，查询处理器温度响应时间为149毫秒。对无法匹配预设函数的无关提问，模型会在92毫秒内返回空值。模型权重已在Hugging Face发布，代码遵循Apache 2.0协议在GitHub开源。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579328.htm",
+              "title": "OpenAI免费向乌克兰开放AI网络防御系统“Daybreak”",
+              "brief": "OpenAI与乌克兰达成合作，免费开放AI网络防御系统Daybreak，可快速识别数字系统漏洞并自动生成修复方案，乌方还将获得GPT 5.6 Sol模型使用权限。OpenAI国家事务负责人奥斯本称，保护民用基础设施需兼顾物理与数字层面。安全专家认为此举可增强乌克兰网络防御能力，但顶级AI在网络安全领域的双刃剑效应也引发担忧，此前已出现AI被用于攻击及自主脱控等事件。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579354.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T17:00:56+08:00"
+              "published_at": "2026-09-23T20:24:19+08:00"
             },
             {
-              "title": "“白宫股神”特朗普7月逾1100笔证券交易 微软、亚马逊单笔出售最高2500万美元",
-              "brief": "披露文件显示，特朗普名下账户7月进行了1156笔证券交易，规模最大的两笔为7月20日分别出售价值500万至2500万美元的微软和亚马逊股票，三天后账户又买入少量微软和亚马逊股票。同日还出售甲骨文股票并买入英伟达、Intuit、迈威尔科技、Salesforce等。账户7月还买入SpaceX股票并反复交易特斯拉，同时对ETF进行大规模轮动，并增加市政债和其他债券配置。6月披露显示当月交易1051笔，2025年度八个投资账户持有资产至少8.58亿美元，全年记录超过2.1万笔证券交易。白宫称投资组合由第三方金融机构独立管理。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579326.htm",
+              "title": "多个机构向美国最高法院提交法庭之友简报 支持苹果上诉",
+              "brief": "在苹果与Epic Games的长期诉讼中，美国副总检察长索尔及华盛顿法律基金会、美国商会、国际法律与经济中心等机构向最高法院提交法庭之友简报，支持苹果的核心上诉主张。简报指出，第九巡回上诉法院仅以违反“禁令精神”裁定苹果民事藐视法庭存在法律瑕疵，因为原始禁令文本并未明确禁止收取27%佣金。若最高法院采纳这些观点，对苹果的藐视法庭裁决可能被撤销，并为数字平台与开发者利益划定更清晰边界。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579352.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T16:57:02+08:00"
+              "published_at": "2026-09-23T20:22:54+08:00"
             },
             {
-              "title": "旧金山提起诉讼 要求叫停Truth Social帖文付费抢先访问服务",
-              "brief": "旧金山市检察官David Chiu表示，该服务刻意打造了一个内幕交易市场，将公众信任转化为私人利润，属于最高层级的权力腐败。他指出，对冲基金与加密货币机构可付费享受抢先访问服务获利，而持有401(k)退休金账户、529教育储蓄账户、公共养老金及其他股票资产的加州普通民众将蒙受损失。诉状在旧金山高等法院提交，重点举出2025年4月9日特朗普发帖称“现在是买入的绝佳时机”后数小时宣布暂停征收贸易税90天、股市走高，以及6月11日发帖称将强力打击伊朗后原油期货大涨。David Chiu自2025年1月以来已发起19起针对特朗普政府的诉讼。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579324.htm",
+              "title": "外媒记者称暴雪即将面临裁员 与提前公布新作无关",
+              "brief": "针对暴雪在嘉年华提前数年公布《暗黑破坏神5》《星际争霸》新作等是否与裁员有关，外媒记者施赖尔予以否认。他表示暴雪通常提前约一年规划嘉年华内容，相关决定早于阿莎·夏尔马上任，总裁法里斯拥有较大自主权。施赖尔称裁员在7月已启动，员工6月获知消息，而嘉年华内容此前已进入准备阶段。暴雪裁员说法与Xbox可能本周进行第二轮裁员的消息同时出现，微软游戏部门计划削减3200个岗位。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579350.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T16:52:37+08:00"
+              "published_at": "2026-09-23T19:41:56+08:00"
             },
             {
-              "title": "“中国天眼”FAST落成启用十年 将继续推进二期工程",
-              "brief": "“中国天眼”FAST落成启用已满十年，期间保障了望远镜稳定高效运行，在脉冲星、中性氢星系、快速射电暴和引力波研究中取得一系列具有国际影响力的成果，已成为全球最重要天文观测设备之一。其在地月空间目标探测、脉冲星时间基准及小行星防御等应用领域也取得重要进展，服务于国家空天安全和重大战略需求。截至目前，基于FAST数据，科学家已在《科学》《自然》主刊发表论文13篇，成果两次入选《科学》十大科学突破，一次入选《自然》十大科学发现。未来团队将继续推进FAST二期工程。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1579322.htm",
+              "title": "宝马CEO：中国车价格难以理解 倾向公平条件下达成协议",
+              "brief": "宝马CEO内德尔科维奇表示，中国汽车的价格令人难以理解，宝马更倾向于在公平条件下达成自愿协议，而非诉诸关税手段，这一立场与宝马一贯反对欧盟对华电动车加征关税的态度一致。宝马纯电版MINI在中国生产并出口欧洲，面临约31%的综合关税负担，目前正与欧盟就价格承诺方案谈判。数据显示，欧盟反补贴关税并未有效阻止中国电动车在欧增长，中国品牌市场份额持续攀升。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579348.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-23T16:06:01+08:00"
+              "published_at": "2026-09-23T19:39:55+08:00"
             }
           ]
         },
@@ -374,45 +374,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "任正非重申华为不造车，愿以智能化特长助车企造好车",
-              "brief": "任正非再次明确华为不造车的立场，同时表示乐意发挥在智能化方面的特长帮助车企造好车。此前2024年9月，华为副董事长、轮值董事长徐直军接受采访时提到，华为只有确定长远不造车，才能走到引望这一步。他解释称，华为造车充其量像手机一样占百分之一二十份额，但做了以后引望只能为自己服务，还可能重复建设汽车制造厂。此番表态与东风汽车总经理冯长军与任正非等高层会谈、围绕深化战略合作交流的消息相呼应。",
-              "source_url": "https://www.ithome.com/1/006/411.htm",
+              "title": "《GTA 6》发售临近，WWE 撤回“Vice City”商标申请",
+              "brief": "WWE 撤回了“Vice City”商标申请，外界推测其原计划围绕摔角手洛拉·维斯打造主题内容，她来自迈阿密，而迈阿密正是《GTA》系列“罪恶都市”的原型。目前尚不清楚 WWE 放弃注册的原因，但 Rockstar Games 可能不愿其他公司取得这一已使用 20 多年的名称商标权。“罪恶都市”是《GTA：罪恶都市》的故事舞台，也是《GTA 6》的主要舞台之一。迈阿密当地已花费近 100 万美元设置“欢迎来到罪恶都市”标牌。《GTA 6》预计 11 月 19 日发售。",
+              "source_url": "https://www.ithome.com/1/006/461.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T18:46:57+08:00"
+              "published_at": "2026-09-23T20:42:49+08:00"
             },
             {
-              "title": "空客用Steam Deck掌机操控ExoMars火星车原型进行地面测试",
-              "brief": "ExoMars火星车仍处于地面测试阶段，其与Steam Deck搭档的画面出现在YouTube博主汤姆·斯科特参观空中客车设施后发布的视频中。在火星车登陆火星自主行驶前，工程师需要控制设备在类似火星环境的测试场地操控火星车，空客最终选择了Steam Deck。视频显示一台Steam Deck运行未公开定制软件，斯科特通过摇杆、扳机键和面部按键控制火星车。Steam Deck本质是完整掌上PC，采用Linux系统，配备实体按键和触摸屏，支持Wi-Fi和蓝牙，适合运行专业定制软件。",
-              "source_url": "https://www.ithome.com/1/006/410.htm",
+              "title": "小米米家三筒洗衣机健康洗 Pro 14kg 系列上市，洗烘版 4999 元 / 滚筒版 3999 元",
+              "brief": "小米米家三筒洗衣机健康洗 Pro 14kg 系列上市，洗烘版 4999 元，滚筒版 3999 元。该机拥有 14kg 洗涤容量（11kg + 1.5kg×2）、9kg 烘干容量（仅限洗烘款），体积与米家标准 10kg 滚筒洗衣机相当，支持标准超薄嵌入。支持三筒独立进水，可同时洗涤、烘干，也支持独立操控；小筒洗净比 1.95，大筒洗净比 1.32，小筒升级 230mm 大筒径；支持冷水除菌（洗烘款），同时支持 10 天长效抑菌。智能方面，基于自研洗护算法和 Xiaomi MiMo 大模型打造 AI 米家灵云洗护功能。",
+              "source_url": "https://www.ithome.com/1/006/460.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T18:39:35+08:00"
+              "published_at": "2026-09-23T20:35:35+08:00"
             },
             {
-              "title": "网易云音乐鸿蒙版正式上线，完成多终端适配",
-              "brief": "网易云音乐鸿蒙版正式上线，用户可下载体验。该版本由网易云音乐与鸿蒙深度合作联合开发，8月底上线尝鲜内测版，过去3周双方根据用户反馈快速迭代8个版本，上新具体功能1000余项。其中用户呼声最高的本地音乐导入、播放器样式选择、音质音效、深色模式等功能均已上线，乐评、歌单、笔记等社区互动功能也已全面适配，保持原汁原味的音乐社区氛围。同时特别定制鸿蒙专属沉浸光感播放器，融合鸿蒙星环与网易云音乐经典黑胶播放器元素。",
-              "source_url": "https://www.ithome.com/1/006/409.htm",
+              "title": "25.58 万元起、最高 1100km 纯电续航，比亚迪腾势 Z9S 正式上市",
+              "brief": "比亚迪腾势 Z9S 正式上市，25.58 万元起，最高 1100km 纯电续航。新车定位准 D 级，车身尺寸 5090/1980/1490mm，轴距 3025mm。搭载第二代刀片电池，CLTC 纯电续航最高 1100 公里，提供 780 公里、920 公里和 1100 公里三种版本。采用 1000V 高压闪充平台，10%-70% 充电仅需 5 分钟。易三方版本综合最大马力 1210 匹，百公里加速 2.68 秒。标配云辇-A 智能空气车身控制系统、双向 10° 后轮转向系统。搭载新一代 AI 智能座舱和天神之眼 5.0 辅助驾驶系统。",
+              "source_url": "https://www.ithome.com/1/006/459.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T18:13:45+08:00"
+              "published_at": "2026-09-23T20:34:37+08:00"
             },
             {
-              "title": "OpenAI CEO奥尔特曼将在联合国演讲，倡议建立全球AI标准",
-              "brief": "OpenAI CEO奥尔特曼将在联合国发表演讲，倡议建立全球AI标准，其竞争对手Anthropic负责人达里奥·阿莫代伊将通过视频出席。OpenAI代表在演讲前简报会上披露，奥尔特曼将以务实的中间派身份推动制定共同的AI安全标准，同时不妨碍创新，也不让少数几家公司掌握过多权力。会议在纽约联合国大会年度辩论间隙举行，AI失控风险是今年大会一大关切。联合国秘书长古特雷斯22日发表演讲，警示AI危险并呼吁全球合作。",
-              "source_url": "https://www.ithome.com/1/006/408.htm",
+              "title": "卢伟冰：小米 17 Pro 系列手机背屏 AI 功能将于 12 月底更新",
+              "brief": "小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰表示，小米 17 Pro 系列手机背屏 AI 功能将于 12 月底更新。该系列手机提供 100+ 背屏应用卡，包含快捷小工具、信息通知栏、解压小游戏等。",
+              "source_url": "https://www.ithome.com/1/006/449.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T18:12:51+08:00"
+              "published_at": "2026-09-23T20:25:42+08:00"
             },
             {
-              "title": "鸿蒙智行享界V8官宣MPV首发五防隐藏式地轨",
-              "brief": "鸿蒙智行享界V8官宣MPV首发五防隐藏式地轨，具备防踩踏、防潮、防尘、防夹、防噪音功能，方便老人小孩车内走动和上下车踩踏。据此前报道，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东已宣布，智界RX及鸿蒙智行新品发布会定档9月28日14:30举行，享界V8也将同步开启预订。相关文章涉及智界R7焕新款搭载颂钵零重力座椅、享界G9首批交付、智界EHL纯电SUV新车首曝等内容。",
-              "source_url": "https://www.ithome.com/1/006/404.htm",
+              "title": "启境 GX7 上市：华为七大汽车智能化解决方案加持，限时权益价 22.99 万-29.19 万元",
+              "brief": "启境 GX7 正式上市，限时权益价 22.99 万-29.19 万元。新车长 5099mm、宽 2006mm、高 1750mm，轴距 3070mm，搭载华为七大汽车智能化解决方案：华为乾崑智驾、鸿蒙座舱、华为乾崑赤兔平台、华为乾崑车载光、华为乾崑车云、华为鲸鳍通信、华为智擎电驱。行业首创“四折叠”设计，拥有 20 秒一键纯平大床。前排搭载华为双 15.6 英寸车载智慧屏，后排拥有 32 英寸私享影院。首批搭载华为乾崑智驾 ADS 5，实现车位到车位 3.0、离车泊入、手势泊出全场景覆盖。",
+              "source_url": "https://www.ithome.com/1/006/440.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-23T18:03:18+08:00"
+              "published_at": "2026-09-23T20:23:26+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "研究显示全球陆地热浪来得更早、结束更晚",
+              "brief": "中科院研究人员基于1979至2023年全球气候数据发现，全球陆地热浪开始时间平均每10年提前约3.3天，45年累计提前约两周；结束时间每10年推迟约5.4天，累计推迟约24天；热浪季节每10年延长约8.7天，45年延长约39天。72.0%的陆地区域热浪提前发生，79.6%推迟结束，92.1%季节延长，干旱地区变化更明显。研究还发现热浪季节延长使主要作物在开花、抽丝等关键生殖生长阶段的高温暴露面积占比增加1.6%至13.3%。",
+              "source_url": "https://www.solidot.org/story?sid=85464",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T18:47:35+08:00"
+            },
+            {
+              "title": "荷兰为国际刑事法院应对美国新一轮制裁做准备",
+              "brief": "荷兰正为位于海牙的国际刑事法院可能面临美国新一轮制裁做准备，研究如何协助法院维持运作，包括支付员工薪酬、保护证人和维护拘留设施。美国已制裁十多名现任和前任ICC工作人员，国务卿卢比奥称这是彻底瓦解ICC所构成威胁的全面行动。ICC有125个成员国，美国和以色列均未加入。制裁可能导致法院无法使用金融和IT服务，甚至两年无法向美籍员工支付薪酬。ICC已停止使用微软产品，转用德国软件供应商，并更换了在美国无业务往来的保险等金融服务商。",
+              "source_url": "https://www.solidot.org/story?sid=85463",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T18:25:44+08:00"
+            },
+            {
+              "title": "研究称八种常用食品防腐剂与高血压相关",
+              "brief": "一项对法国112395人七至八年间健康状况与饮食习惯的研究显示，八种常用食品防腐剂与高血压风险升高相关。摄入防腐剂最多的人群患高血压风险高24%，摄入非抗氧化类防腐剂最多者患心血管疾病的相对风险高16%。这八种添加剂包括山梨酸钾、焦亚硫酸钾、亚硝酸钠、抗坏血酸钠、异抗坏血酸钠、抗坏血酸、柠檬酸和迷迭香提取物。研究人员强调这是观察性研究，结果不能证明食品添加剂会导致高血压或直接引发心脏病，只能显示两者之间可能存在关联。",
+              "source_url": "https://www.solidot.org/story?sid=85462",
+              "source_name": "Solidot",
+              "published_at": "2026-09-23T17:27:56+08:00"
+            },
             {
               "title": "丰田让员工训练人形机器人，称不会取代人类",
               "brief": "丰田员工正参与训练人形机器人，公司计划未来几年部署40万台工厂机器人，人形机器人是其中一部分，但高管否认会替代人类员工。丰田在装配线上部署了ELEY人形机器人，员工佩戴基于机器人手指的装置，训练这些靠轮子移动的机器人完成需要精细手部动作的任务。丰田是全球最大汽车公司之一，在全球有60座工厂，雇佣1.8万员工。执行副总裁Hiroki Nakajima表示，目标是创造“机器人与人类共存，而非取代人类”的世界。据国际机器人联合会数据，仅2024年中国就部署200万台工业机器人，日本以45.05万台居第二，美国和韩国分别以3.42万台和3.06万台排名第三和第四。",
@@ -426,27 +447,6 @@
               "source_url": "https://www.solidot.org/story?sid=85460",
               "source_name": "Solidot",
               "published_at": "2026-09-23T15:23:00+08:00"
-            },
-            {
-              "title": "Adobe推出Android版免费视频编辑工具Premiere",
-              "brief": "Adobe终于推出功能完整的Android版视频编辑工具Premiere，除AI视频生成功能外其余功能均免费，用户无需订阅或注册Creative Cloud账户。Android版Premiere支持导入任意数量的视频轨道，进行剪辑、分割、添加特效，导出最高4K分辨率视频。它支持从视频片段中提取音频、降低背景噪音以及添加旁白。该工具默认输出竖屏16:9比例视频，允许用户切换到更传统的比例。对于AI功能，该工具每月免费提供250 AI credits，足以以每个消耗80 credits生成几段短视频。AI功能收费为每月8美元或每年70美元。",
-              "source_url": "https://www.solidot.org/story?sid=85459",
-              "source_name": "Solidot",
-              "published_at": "2026-09-23T14:26:21+08:00"
-            },
-            {
-              "title": "黑客组织ShinyHunters声称入侵FBI并窃取超2TB雇员数据",
-              "brief": "勒索组织ShinyHunters声称入侵美国联邦调查局，窃取逾2TB雇员数据，涉及现任及前任雇员和求职者。该组织称行动并非出于经济动机，而是要求FBI更正或撤回此前对其的不实指控。其声称利用FBI招聘网页中Oracle PeopleSoft的零日漏洞实现远程代码执行，随后篡改页面并替换为已被控制的横幅与图片，并从FBI管理的AWS GovCloud服务器下载约2TB至3TB数据。FBI今年五月曾就该组织发出安全警告，指其采用骚扰策略，包括向受害者及家属发送威胁短信、拨打骚扰电话，甚至恶意报假警。ShinyHunters否认这些指控。",
-              "source_url": "https://www.solidot.org/story?sid=85457",
-              "source_name": "Solidot",
-              "published_at": "2026-09-23T11:45:09+08:00"
-            },
-            {
-              "title": "微软Xbox重组：动视将开发新一代《光环》",
-              "brief": "微软Xbox游戏业务宣布重组，旗下第一方工作室Halo Studios等裁员268人。动视将负责下一代《光环》游戏开发，原开发方Halo Studios转为辅助角色。Obsidian工作室并入Bethesda，继续开发《Grounded》及新《辐射》游戏。King工作室将合并微软休闲游戏部门Microsoft Casual Games。开发《极限竞速》的Playground与开发新《神鬼寓言》的Turn 10将合并为一家工作室。Ninja Theory预计关闭，Arkane工作室仍在磋商中。",
-              "source_url": "https://www.solidot.org/story?sid=85456",
-              "source_name": "Solidot",
-              "published_at": "2026-09-23T00:52:31+08:00"
             }
           ]
         },
