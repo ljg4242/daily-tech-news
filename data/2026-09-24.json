@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T16:52:26.829848+08:00",
+  "generated_at": "2026-09-24T18:52:26.978806+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Meta发布AI电子宠物Muse Charm，可实时语音对话",
+              "brief": "Meta在Connect大会上发布Muse Charm，一款约Apple Watch大小的掌上AI伴侣，配有类似电子宠物的互动虚拟形象，可与Muse AI对话。设备内置实时语音模型和虚拟形象系统，按角落指纹传感器即可直接交谈，无需解锁手机或打开应用，Meta称这是不戴眼镜时与Muse交流最快的方式，目标在假期季上市。此外，Connect主要聚焦新款Meta VR眼镜，配挂载式存储与电池模块，重量仅100克，为Quest 3的五分之一，支持全彩透视与5K显示，并支持杜比视界、杜比全景声及Xbox云游戏。",
+              "source_url": "https://www.macrumors.com/2026/09/24/meta-did-a-one-more-thing-and-its-an-ai-tamagotchi/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-24T16:54:11+08:00"
+            },
             {
               "title": "iOS 27 的 iPhone Handoff：工作原理、价格与运营商支持",
               "brief": "苹果在 iOS 27 中推出 iPhone Handoff，一种新的 eSIM 功能，允许同一号码在两部 iPhone 上使用并随时切换，但号码同一时间只在一部手机上激活。切换时，通话、语音信箱、信息（含 iMessage、RCS、SMS 和 MMS）以及“查找”位置会转移到当前使用的 iPhone，屏幕会显示“已切换到此 iPhone”确认。两部手机需运行 iOS 27 或更高版本、连接 Wi-Fi、使用同一 Apple 账户，并在 iCloud 信息、FaceTime 和 iMessage 中使用同一账户。该功能支持双 SIM，但两张 eSIM 须分别设置，且来自支持该功能的运营商。目前美国 T-Mobile 和德国 Telekom 已支持，Verizon 和英国 EE 将在今年晚些时候支持，AT&T 尚未承诺支持。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/23/ios-27-0-1-is-coming-soon/",
               "source_name": "MacRumors",
               "published_at": "2026-09-24T04:06:31+08:00"
-            },
-            {
-              "title": "苹果发布 watchOS 27.0.1 修复重启漏洞",
-              "brief": "苹果今日发布 watchOS 27.0.1，这是上周推出的 watchOS 27 操作系统的小幅更新，仅适用于 Apple Watch Series 12 和 Apple Watch Ultra 4。用户可通过手表上的“设置”应用或连接的 iPhone 上的 Apple Watch 应用下载该更新。软件只能在 Apple Watch 放在充电器上且电量超过 50% 时安装。苹果的发布说明称，此次更新修复了多个漏洞，其中包括可能导致 Apple Watch 意外重启的问题。",
-              "source_url": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-24T03:44:49+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Google 打通 Gemini Notebooks 与 Docs，写作可直接引用研究资料",
-              "brief": "Google 宣布，Gemini Notebooks 现可作为 Google Docs 中的上下文来源。用户在 Docs 的 Gemini 侧边栏或底栏输入“@”即可选择某个 Notebook，Gemini 在撰写内容时会从中提取信息，并自动添加行内引用，方便核对事实而无需切换标签页。该功能面向 Google Business、Education 和 Enterprise 计划用户，以及订阅 Google AI Pro 或 Ultra 的消费者开放。此前 Gemini 在 Docs 中已支持生成音频摘要、插入图片图表以及模仿用户语气写作。",
-              "source_url": "https://www.androidauthority.com/gemini-notebooks-sources-google-docs-3714936/",
+              "title": "数据隐私不只是技术宅的事，你也该关心",
+              "brief": "文章指出，许多人认为在线隐私无关紧要，甚至把重视数据隐私视为技术宅或阴谋论者的爱好。作者过去也持放任态度，但在经历后果后改变了看法。文章强调，广泛的数据收集会让个人信息面临风险，数据经纪商、零售商或金融机构一旦发生泄露，身份证号、社保号、住址、电话等敏感信息可能流入暗网，被犯罪分子利用。即便用户谨慎选择网站和应用，仍可能因被迫提供信息而受害。作者以自身经历说明，零售商泄露已多次暴露其信息，因此呼吁所有人都应重视数据隐私。",
+              "source_url": "https://www.androidauthority.com/why-data-privacy-matters-for-everyone-3709285/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-24T16:09:02+08:00"
+              "published_at": "2026-09-24T18:30:56+08:00"
             },
             {
-              "title": "Gemini 新语音模型可克隆声音并像演员一样演绎脚本",
-              "brief": "Google 推出 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 两款文本转语音模型，支持超过 100 种语言和方言、2000 多种现成音色，并可在获得授权后用 30 秒样本复刻一致声音。模型能按行遵循语气、节奏、方言、耳语、笑声和叹息等指令，还能用一份脚本演绎双人对话，并在数小时音频中保持音色稳定。新模型将进入 Gemini Notebook 和 Google Vids，同时通过 Google AI Studio 与 Gemini API 向开发者开放。",
-              "source_url": "https://www.androidauthority.com/gemini-3-8-flash-text-to-speech-rolling-out-3714915/",
+              "title": "Spotify 向 Meta Muse 开放音乐控制权",
+              "brief": "Spotify 宣布与 Meta 的 AI 智能体 Muse 整合，用户可通过对话控制播放、查找内容、保存曲目和创建或编辑播放列表，还能根据笔记和简报生成 Spotify 的个人播客。Muse 可结合日历和日程等上下文，在合适时间自动播放音乐或播客，例如为公路旅行按目的地生成播放列表并在出发时启动，或在早上七点播放健身歌单、工作时段播放专注音乐。Spotify 是首个加入 Muse 的主要音乐流媒体服务，Muse 此前已连接邮件、日历、支付、健康、购物等应用，并正进入 Meta 智能眼镜。",
+              "source_url": "https://www.androidauthority.com/spotify-meta-muse-integration-3714958/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-24T16:02:31+08:00"
+              "published_at": "2026-09-24T18:17:56+08:00"
             },
             {
-              "title": "Google 地图更新：红绿灯和停车标志更醒目，或减少违章",
-              "brief": "据 9to5Google 报道，Android Auto 上的 Google 地图现在会以浮动提示框显示前方路线的红绿灯和停车标志，与即将转入的街道名称并列出现，而非像过去那样仅作为地图上的静态图标。这一变化有助于驾驶者提前减速、准备停车。该提示也开始在手机端导航中出现，因此可能同样适用于 iPhone 和 CarPlay。目前尚不清楚推送范围，按惯例可能为服务器端逐步推送，耗时数天到数月不等。",
-              "source_url": "https://www.androidauthority.com/google-maps-traffic-lights-stop-signs-android-auto-3714871/",
+              "title": "谷歌 Digital Wellbeing 将移除“抬头”步行提醒功能",
+              "brief": "在最新的 Digital Wellbeing v1.48.975819457.beta 中，代码字符串显示谷歌正准备弃用“Heads Up”行人安全功能，并将在应用内提示用户步行检测即将移除，提醒用户走路时小心。Heads Up 于 2021 年推出，是可选择开启的功能，利用运动传感器和位置数据，在屏幕解锁且用户行走时发出温和提醒，让用户抬头注意周围环境，避免撞上灯柱或走入车流。该功能主要依靠手机运动传感器判断移动，用户可选授予位置权限。此外，谷歌近期还在为 Digital Wellbeing 开发每周总结功能，可能用 Gemini Nano 将屏幕使用时间数据转化为个性化洞察。",
+              "source_url": "https://www.androidauthority.com/google-digital-wellbeing-heads-up-deprecation-apk-teardown-3714971/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-24T15:08:31+08:00"
+              "published_at": "2026-09-24T18:11:38+08:00"
             },
             {
-              "title": "GrapheneOS 确认首款非 Pixel 支持机型为摩托罗拉 Signature 27",
-              "brief": "在摩托罗拉发布 Signature 27 后，GrapheneOS 确认该旗舰将成为双方合作下首款获得官方支持的手机。GrapheneOS 表示这是“最初支持的机型”，但尚未公布支持时间以及摩托罗拉是否会预装该系统。该机搭载高通骁龙 8 Elite Extreme Gen 6，承诺七次系统升级和最长七年安全更新，符合 GrapheneOS 对高端芯片、硬件内存标记、安全元件集成和长期更新等要求，为用户提供 Pixel 之外的新选择。",
-              "source_url": "https://www.androidauthority.com/grapheneos-motorola-signature-27-support-3714885/",
+              "title": "我想用摩托罗拉 Signature 27 换掉 Pixel 11 Pro 的五个理由",
+              "brief": "作者使用 Pixel 11 Pro 超过一个月，对相机、设计、软件和性能都很满意，但摩托罗拉新发布的 Signature 27 让他开始动摇。文章列出五个理由，首先是他很喜欢 Signature 27 独特的设计，尤其后置摄像头模组造型前所未见，虽然有点怪异却富有创意，机身向摄像头模组逐渐隆起，两种配色还有独特纹理，与常见的 iPhone 或三星 Galaxy 仿制品截然不同。其次，该机的相机系统听起来非常有前景。文章还通过投票询问读者会在摩托罗拉 Signature 27 和谷歌 Pixel 11 Pro 之间选择哪一款，结果显示多数人倾向摩托罗拉。",
+              "source_url": "https://www.androidauthority.com/motorola-signature-27-better-than-pixel-11-pro-3714602/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-24T15:01:30+08:00"
+              "published_at": "2026-09-24T18:00:59+08:00"
             },
             {
-              "title": "Meta 发布第三代 Ray-Ban 智能眼镜，起售价 449 美元",
-              "brief": "Meta 推出 Ray-Ban Meta Gen 3 智能眼镜，保留 1200 万像素摄像头和 3K 视频录制，设计更轻薄，提供 Aviator、Wayfarer 和新款猫眼框 Zena 三种款式，并有限量复古配色纪念 Aviator 90 周年。新品续航提升至九小时，配备六麦克风阵列和可调镜腿，起售价 449 美元。Meta 还宣布与 LISA 合作推出定制款 Meta Glasses，并发布售价 249 美元的新版 Meta Adventurer 眼镜。",
-              "source_url": "https://www.androidauthority.com/meta-glasses-ray-ban-meta-gen-3-launched-3714910/",
+              "title": "Pixel 11 升级超出预期，但仍让人想要更多",
+              "brief": "Pixel 11 搭载 Android 17，基础存储翻倍，起售价 899 美元。评测认为它仍是全系最具性价比的机型，但价格创新高且存在熟悉的缺点，正在失去魔力。优点包括更纤细的全玻璃摄像头条、25W Pixelsnap 磁吸充电、更大的 4800 万像素主摄、出色的软件与长期支持，以及令人印象深刻的 Rambler 和 Magic Capture 功能。缺点则是容易过热、游戏性能不佳、机身仍相对厚重、屏幕没有升级，以及价格上涨。作者最初很喜欢它的设计，也认可 Android 17 的独占功能，但实际使用后发现 Tensor G6 芯片未达预期，难以真正爱上这款手机。",
+              "source_url": "https://www.androidauthority.com/google-pixel-11-review-3709371/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-24T14:52:57+08:00"
+              "published_at": "2026-09-24T18:00:03+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "谷歌DeepMind新负责人称Gemini 4已接近就绪",
+              "brief": "谷歌DeepMind新任负责人科雷·卡武克丘奥卢首次以该部门领导身份接受媒体采访，向The Information表示Gemini 4目前处于完善阶段，公司计划远早于2026年底发布，并将尽快推出早期后训练版本。他称团队已看到令人兴奋的结果，未来会继续保持快速迭代节奏。此举有望让谷歌在旗舰AI模型发布上恢复更稳定的时间表，此前该公司在发布进度上落后于竞争对手。",
+              "source_url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+              "source_name": "The Verge",
+              "published_at": "2026-09-24T05:04:18-04:00"
+            },
             {
               "title": "Meta 正在打造独立的 Muse AI 设备",
               "brief": "Meta 正在为其全新 Muse AI 智能体开发一款专用硬件设备，名为 Muse Charm。该产品在 Meta Connect 发布会尾声由 CEO 马克·扎克伯格短暂展示。外观类似没有表带的厚重智能手表，配有一块大屏幕和用于携带的小挂绳。设备右上角设有指纹传感器，按压即可激活并与智能体对话。正面似乎还配有小摄像头以及至少三个麦克风开孔。扎克伯格表示，使用 Charm 无需解锁手机或打开应用，但未透露它如何连接 Meta 服务器。Meta 计划在十二月假日季前发货。",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
               "source_name": "The Verge",
               "published_at": "2026-09-23T19:40:56-04:00"
-            },
-            {
-              "title": "Meta 最新智能眼镜放弃摄像头",
-              "brief": "在 Meta Connect 2026 现场，人们佩戴着各种形状、颜色和尺寸的智能眼镜，这里如同一个科技气泡，不担心所谓“偷拍眼镜”的争议。但在会场之外，公众对可穿戴监控技术的反弹正在升温，这类技术不仅包括智能眼镜，也涵盖智能手表和 AI 吊坠。因此，Meta 今年推出 Ray-Ban Meta 音频眼镜的时机颇为耐人寻味：这款智能眼镜内置 Meta AI，却没有用于拍摄他人的摄像头。按照 Meta 的说法，这只是巧合。该音频版产品与更多配备摄像头的眼镜一同上市，但缺少针对隐私争议的控制措施。",
-              "source_url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-              "source_name": "The Verge",
-              "published_at": "2026-09-23T19:37:17-04:00"
             }
           ]
         }
@@ -253,6 +253,27 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "微软总裁史密斯支持为AI设置紧急关停开关",
+              "brief": "微软总裁布拉德・史密斯在访谈中表示，企业若判断产品存在安全隐患就不应继续推向市场，并明确支持为AI系统配备紧急关停开关。他认为模型开发者、云基础设施提供商以及管控AI智能体的机构都应具备关停权限，即使通过立法强制要求也并非坏事。史密斯强调不应停止使用AI，但技术治理的重要性不亚于技术本身，宁可过度担忧也好过做得太少。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579482.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-24T18:51:10+08:00"
+            },
+            {
+              "title": "adidas日本推出宝可梦皮卡丘联名鞋 鞋面立体闪电图案",
+              "brief": "adidas日本推出《宝可梦》皮卡丘主题联名鞋款，鞋面采用立体闪电图案设计，配备透明TPU后跟板、印有宝可梦标志的鞋带以及两种可替换鞋垫，鞋盒采用大师球主题设计。该鞋款接续adidas于9月15日推出的宝可梦联名系列，9月24日起通过CONFIRMED应用及日本部分门店发售，销售门店包括东京MIYASHITA PARK、原宿和银座店，以及心斋桥、福冈等地指定门店。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579480.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-24T17:53:10+08:00"
+            },
+            {
+              "title": "Opera桌面版将支持公共Wi-Fi下自动连接免费VPN",
+              "brief": "Opera浏览器桌面版将提供公共Wi-Fi状态下自动连接免费VPN的功能，无需注册账号。该自动化选项属于可选配置，启用后Opera会识别不受信任或公开未加密的Wi-Fi节点，自动建立256位加密隧道，隐藏用户实际IP并屏蔽数据嗅探，且遵循无日志政策。目前该自动激活开关仅作为渐进式更新向部分地区桌面版用户率先开放，未收到推送的用户仍需手动开启现有免费VPN服务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579478.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-24T17:40:29+08:00"
+            },
             {
               "title": "《GTA6》实体盒照片流传 英国门店陈列无盘展示盒",
               "brief": "网络上流传出《GTA6》实体盒照片，英国门店陈列的实为无盘展示盒。包装背面印有杰森和露西亚在落日背景下的插画、简短剧情介绍，以及预购可获得“罪恶城怀旧内容包”的提示。《GTA6》计划于2026年11月19日发售，此次曝光的展示盒进一步引发玩家对游戏正式发售与预购内容的关注。",
@@ -266,27 +287,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579474.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-24T16:27:25+08:00"
-            },
-            {
-              "title": "欧盟筹备强化未成年人网络保护 《GTA6》或需核验年龄",
-              "brief": "欧盟正筹备强化未成年人网络保护规则，文件提及“可能对未成年人构成风险的网络游戏”，《GTA6》可能进入适用范围，但现阶段不能认定所有未满18岁玩家都会被禁止进入。英国已有类似实践，Xbox为遵守《网络安全法》加强年龄检查，部分未验证玩家无法使用社区功能。欧盟委员会已开发年龄证明方案，鼓励成员国在2026年底前建立可靠核验机制。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579472.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-24T15:22:33+08:00"
-            },
-            {
-              "title": "美法官下令解除特朗普对三家新闻机构的白宫访问禁令",
-              "brief": "美国一名法官下令解除特朗普对三家新闻机构的白宫访问禁令。该诉讼由上述新闻机构提起，旨在挑战总统于9月18日宣布的禁令。特朗普当时在社交媒体上声称，这三家新闻机构“不应被允许不断撰写或报道虚构内容与谎言”；美国司法部律师则试图以国家安全为由为禁令辩护。法官最终裁定解除限制，恢复相关媒体的白宫采访资格。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579470.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-24T15:02:41+08:00"
-            },
-            {
-              "title": "下一代旗舰模型Gemini 4发布时间或“远早于”今年底",
-              "brief": "Google高管Kavukcuoglu表示，下一代旗舰模型Gemini 4的发布时间可能“远早于”今年底。公司计划尽快推出后训练阶段早期版本，并持续快速迭代。Gemini 4将是自去年底Gemini 3系列以来首款下一代旗舰模型。面对Anthropic和OpenAI的竞争，他表示对团队充满信心。Google还在为Gemini 4制定防护机制并进行安全测试，同时其进展将助力TPU芯片业务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579468.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-24T15:02:14+08:00"
             }
           ]
         },
@@ -294,45 +294,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "布加迪美国首个住宅项目落户迈阿密，提供高端管家服务",
-              "brief": "Prosper Group 与比利时 Versluys Group 联合开发，建筑设计由 Brandon Haw Architecture 负责，室内设计交由 Yabu Pushelberg 操刀。项目总价值约 6.5 亿美元，开发商斥资 5000 万美元购入约 1 英亩土地。这座迈阿密摩天大楼共 60 层，包含 183 套公寓，将体现布加迪“艺术、形式、技术”理念。住户可获得 Rhodium 提供的高端管家服务。目前布加迪尚未公布最终设计、住宅面积、售价、配套设施及完工时间，仅计划于 2027 年上半年启动销售。",
-              "source_url": "https://www.ithome.com/1/006/857.htm",
+              "title": "比亚迪第二代海鸥座舱草图公布，采用最新设计语言",
+              "brief": "比亚迪海洋网销售事业部总经理张卓放出第二代海鸥设计图，称新车线条重塑、型面焕新。该车此前已完成工信部申报，采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组；侧面腰线上扬营造俯冲姿态，并采用悬浮车顶设计。申报信息显示，新车尺寸为4205×1810×1570mm、轴距2650mm，相较上一代长度增加425mm、轴距加长150mm。动力方面采用纯电驱动，搭载郑州比亚迪生产的TZ164XYB型号永磁同步驱动电机，最大功率95kW，并搭载弗迪磷酸铁锂电池。",
+              "source_url": "https://www.ithome.com/1/006/980.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T16:46:25+08:00"
+              "published_at": "2026-09-24T18:41:26+08:00"
             },
             {
-              "title": "WinRAR 与潮牌 tern 合作推出“压缩包”实体挎包，售价 150 美元",
-              "brief": "这款挎包尺寸为 21.4 x 14 x 7 厘米，带有磁性搭扣，内部配备硬质隔层，肩带可拆卸，使用卡扣固定，表面材质为仿皮，中国制造。WinRAR 官方在宣传时表示：“还没有购买 WinRAR 的各位（基本就是你们所有人！），不如干脆买个包吧！”此外根据商品信息，该挎包的部分收入将捐赠给 WinRAR。整体来看，这是一款将知名软件元素实体化的周边产品，售价为 150 美元。",
-              "source_url": "https://www.ithome.com/1/006/853.htm",
+              "title": "《生化危机：爆发夜》中国内地定档，10月5日上映",
+              "brief": "该片是《生化危机》系列时隔九年重返内地大银幕。影片根据热门恐怖游戏《生化危机》改编，由《凶器》《野蛮人》导演扎克·克雷格打造，奥斯汀·艾布拉姆斯、保罗·沃尔特·豪泽、扎克·切利、卡莉·瑞斯参与主演，讲述奉命奔赴浣熊市的医疗速递员布莱恩意外深陷全城失控病毒浩劫的故事。导演此前回应为何弃用里昂，表示不想重讲里昂的故事，也不打算复刻原版游戏剧情，影片是发生在《生化危机》世界观的全新故事，时间线大致与《生化危机2》相同。官方提醒未成年人谨慎观看。",
+              "source_url": "https://www.ithome.com/1/006/970.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T16:40:37+08:00"
+              "published_at": "2026-09-24T18:31:35+08:00"
             },
             {
-              "title": "荣耀 CEO 李健公布 Magic9 手机价格：16+512GB 国补到手 5499 元",
-              "brief": "李健公布了 16+512GB 版本价格：行业最低价 6499 元，Magic 十年钜献价 5999 元，国补到手价 5499 元。博主爆料该机配置包括 6.37 英寸 1.5K+120Hz LTPS 小直屏、骁龙 8E5 处理器、8000mAh 电池 +80W+50W 充电、55Mp 方形前摄、后置 200Mp 主摄 +50Mp 超广角 +200Mp 潜望长焦、3D 超声波指纹及 IP68/IP69/IP69K 防水。荣耀 Magic9 系列将于 9 月 28 日正式发布，在外观、影像、AI 三大维度全面进阶。",
-              "source_url": "https://www.ithome.com/1/006/846.htm",
+              "title": "传派拉蒙影业向马斯克寻求投资，全球首富或入局好莱坞",
+              "brief": "消息称派拉蒙影业向马斯克寻求投资，他是受邀出资的多名富豪之一。马斯克与大卫·埃里森之父、甲骨文创始人拉里·埃里森长期关系密切。派拉蒙之所以能够收购华纳兄弟，拉里·埃里森的资金和人脉发挥了部分作用，他本人为派拉蒙收购华纳兄弟的股权融资提供了超过400亿美元的担保。2022年马斯克推动当时仍名为Twitter的X私有化，拉里·埃里森在该交易中投资10亿美元，他还曾于2018年投资特斯拉并多年担任特斯拉董事。目前尚无法确定马斯克可能投入多少资金，派拉蒙发言人拒绝置评，马斯克也未回应置评请求。",
+              "source_url": "https://www.ithome.com/1/006/969.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T16:38:04+08:00"
+              "published_at": "2026-09-24T18:28:30+08:00"
             },
             {
-              "title": "全球首发“会感知、能判断”的中国智能地铁列车亮相柏林",
-              "brief": "据央视新闻报道，展会期间一款来自中国的新一代数智融合地铁列车全球首发，并首次将“具身智能”技术应用于轨道交通场景，成为现场关注焦点。该列车部署 600 多个传感器，结合摄像头、雷达和车载算力平台，能够实时获取线路环境和车辆状态，并利用人工智能辅助识别异常、预警故障。同时，轻量化材料与多系统集成有助于降低能耗。此外，一台来自中国的氢燃料电池混合动力机车也亮相展会，氢气利用率超过 98%，加氢时间约 15 至 20 分钟。",
-              "source_url": "https://www.ithome.com/1/006/845.htm",
+              "title": "OPPO Watch X3图赏：TC4钛合金配金属竹节表带",
+              "brief": "OPPO Watch X3表壳采用TC4钛合金材质打造，搭配蓝宝石水晶表镜，寰月钛配色整体呈现沉稳精致的视觉效果。实拍版本搭配金属竹节表带，金属结构与氟橡胶材质结合，兼顾硬朗气质与佩戴舒适性。机身进一步轻量化，厚度相比上一代减薄6.5%，表体重量减轻13.5%，通过IP69和5ATM防水测试。屏幕为1.5英寸LTPO OLED柔性屏，运动峰值亮度最高3000nit。健康监测搭载8通道心率传感器和16通道血氧传感器，配备ECG传感器支持30秒心电检测，并加入AI健康模型提供个性化改善建议。",
+              "source_url": "https://www.ithome.com/1/006/967.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T16:37:22+08:00"
+              "published_at": "2026-09-24T18:23:42+08:00"
             },
             {
-              "title": "奥迪 A6 Sportback e-tron 单次充电行驶 1338 公里，创吉尼斯世界纪录",
-              "brief": "拉力赛车手马尔奇克驾驶奥迪 A6 Sportback e-tron，单次充电行驶 1338 公里，创下量产车单次充电续航吉尼斯世界纪录。挑战于 9 月 11 日凌晨在波兰开始，沿维斯瓦河途经多座城市后抵达波罗的海沿岸并折返，全程超过 45 小时，均在公共道路上进行，平均气温约 15 摄氏度。其平均能耗仅为每百公里 7.09 千瓦时，不到官方综合能耗数据的一半。该车风阻系数 0.21，电池净容量 94.9 千瓦时，制动能量回收功率最高 220 千瓦。",
-              "source_url": "https://www.ithome.com/1/006/841.htm",
+              "title": "美图公司2026财年上半年归母净利润6.19亿元，同比增长40%",
+              "brief": "美图公司发布2026财年上半年财报，整体营业收入达22.13亿元，同比增长22.1%；核心业务影像与设计产品收入17.69亿元，同比增长30.9%；归属于母公司权益持有人净利润6.19亿元，同比增长40%，经调整后为6.52亿元，同比增长39.5%；经营现金流6.06亿元，基本每股收益0.14元，资产负债率1.03%。付费订阅用户总数超1844万，内地以外市场增长约为中国内地的两倍；生产力应用MAU达3300万创历史新高，AI生产力应用年经常性收入增长至约62亿元。公司未来将持续深化AI agent复用并推进国际化战略。",
+              "source_url": "https://www.ithome.com/1/006/964.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T16:35:26+08:00"
+              "published_at": "2026-09-24T18:05:11+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《不义联盟3》传闻引发NetherRealm的Ed Boon回应",
+              "brief": "多年来一直有《不义联盟3》的传闻，本周MP1st发现证据，暗示这款未公布格斗游戏的可玩角色阵容将包括女超人和蝙蝠女侠。女超人的加入并不意外，她曾在九年前的《不义联盟2》中担任主角；而蝙蝠女侠若属实，将是该角色首次登场主线《不义联盟》游戏。Boon先回应了一条讽刺帖，称其“100%是假的”，随后又否认正在测试《不义联盟3》《真人快打13》和《真人快打9》的说法。但他后来表示，游戏未在外部测试并不代表未在开发中。",
+              "source_url": "https://www.ign.com/articles/injustice-3-rumors-sparks-response-from-netherrealms-ed-boon",
+              "source_name": "IGN",
+              "published_at": "2026-09-24T18:04:29+08:00"
+            },
+            {
+              "title": "《指环王》主演安迪·瑟金斯为Audible打造科幻版《奥德赛》",
+              "brief": "该项目已筹备多年，最终将于2027年2月25日通过Audible首播。瑟金斯将演播全文，把《奥德赛》的故事搬到深空。Deadline披露了细节，荷马的古希腊史诗将再次被改编，加入宇宙飞船、太空神明和废墟世界，而几个月前克里斯托弗·诺兰刚推出由汤姆·赫兰德和马特·达蒙主演的IMAX大片。达蒙在诺兰版中饰演奥德修斯，赫兰德饰演其子忒勒马科斯，罗伯特·帕丁森饰演主要求婚者安提诺俄斯。",
+              "source_url": "https://www.ign.com/articles/the-lord-of-the-rings-star-andy-serkis-is-working-on-a-sci-fi-adaptation-of-the-odyssey-for-audible",
+              "source_name": "IGN",
+              "published_at": "2026-09-24T17:32:30+08:00"
+            },
+            {
+              "title": "“这一定是个恶心的玩笑”——下一款《逆转裁判》游戏为VR独占，粉丝难以置信",
+              "brief": "在Connect 2026上，卡普空意外公布《逆转裁判：双重命运VR》，2027年独占Meta VR眼镜、Meta Quest 3/3s、Quest Pro和Quest 2，即仅登陆Meta Horizon Store。粉丝对此反应不佳，他们仍在等待《逆转裁判7》的消息。该VR版改编自2013年登陆3DS的旧作，已13年历史。上一款新作《逆转裁判6：正义之魂》于2016年6月发售，粉丝等待续作已超十年。官方预告片在YouTube关闭了评论，但Reddit上充满粉丝的难以置信与失望。",
+              "source_url": "https://www.ign.com/articles/this-has-to-be-a-sick-joke-the-next-ace-attorney-game-is-a-vr-exclusive-and-fans-cant-quite-believe-it",
+              "source_name": "IGN",
+              "published_at": "2026-09-24T16:42:35+08:00"
+            },
             {
               "title": "华纳调整档期：《小精灵3》推迟一年，《动态双雄》延至2028年9月",
               "brief": "华纳兄弟调整多部影片档期。暂定名为《小精灵3》的未命名新作原定2027年11月上映，现推迟整整一年至2027年10月6日，并发布新预告，展示一只小精灵从背包中钻出并调皮地喊“哎呀！”。该片由原版《小精灵》编剧、曾执导《小鬼当家》的克里斯·哥伦布执导，是他追寻十余年的项目。DC实验性罗宾电影《动态双雄》讲述迪克·格雷森与杰森·托德的早期冒险，原定2028年6月，现改为2028年9月22日。该片预计融合传统CG动画、定格动画与木偶戏，由马特·里夫斯和詹姆斯·古恩共同制片。",
@@ -346,33 +367,19 @@
               "source_url": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
               "source_name": "IGN",
               "published_at": "2026-09-24T07:27:34+08:00"
-            },
-            {
-              "title": "宝可梦30周年基拉祈SIR卡画师泪目回应已故小网红最后开包视频",
-              "brief": "年仅12岁的宝可梦小网红Avery the Poké Kid于2026年9月19日因胰腺癌去世。为纪念他，其父母发布视频，展示他打开宝可梦30周年系列最后两包卡牌的过程。在第二包也是最后一包的最后一张中，Avery抽到基拉祈SIR，兴奋大喊。这一感人时刻在宝可梦社区内外疯传，令观众泪目。远在地球另一端的该卡画师江川あきら看到视频后深受触动，在X上表示自己看后一直哭，并称“我希望我的画能给人带来幸福”，很高兴把这份心愿注入这张卡。粉丝也深受感动，并指出基拉祈在宝可梦设定中的诗意传说：它大部分时间沉睡，每千年只醒来七天。",
-              "source_url": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
-              "source_name": "IGN",
-              "published_at": "2026-09-24T07:24:15+08:00"
-            },
-            {
-              "title": "金并演员文森特·多诺费奥告别《夜魔侠：重生》",
-              "brief": "饰演反派威尔逊·“金并”·菲斯克的多诺费奥在社交平台发文告别《夜魔侠：重生》，感谢观众一路支持，并确认第三季即最终季将于明年推出。他称自己一直喜爱菲斯克这个角色，第三季将带来精彩内容。该剧在播出三季后被漫威和Disney+叫停，原因尚不明确，但据称幕后存在波折，剧集主管达里奥·斯卡达帕内据报在后期制作期间离职，令该剧缺少明确的收尾负责人。第三季预计2027年在Disney+上线。",
-              "source_url": "https://www.ign.com/articles/kingpin-actor-vincent-donofrio-says-goodbye-to-daredevil-born-again",
-              "source_name": "IGN",
-              "published_at": "2026-09-24T06:50:09+08:00"
-            },
-            {
-              "title": "Double Fine创始人蒂姆·谢弗质疑游戏行业经济模式",
-              "brief": "在游戏行业大规模裁员和工作室关闭的背景下，Double Fine创始人蒂姆·谢弗接受BBC采访时表示，自己其实并不理解制作游戏的经济逻辑。他说过去以为行业存在起伏周期，但如今已低迷约四年，令人费解，因为玩家仍在玩游戏、行业仍在赚钱。他推测某处存在贪婪，但希望这只是周期并能反弹。谢弗还指出，无论3A大厂还是独立工作室，整个行业都充满不确定性。Double Fine此前因Xbox重组而脱离微软独立运营。",
-              "source_url": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures",
-              "source_name": "IGN",
-              "published_at": "2026-09-24T06:25:09+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "阿根廷生育率十年内下降五成",
+              "brief": "2025年阿根廷总和生育率为1.05，2024年为1.23，而2014年则为2.3，意味着十年内下降五成。如此显著的下降难以用单一原因解释，也并非阿根廷特有现象；全球除以色列外生育率普遍明显下降，地球人口峰值预计将提前至2050年到来。相关数据来自Reddit的Natalism板块及Our World in Data的人口模拟工具。",
+              "source_url": "https://www.solidot.org/story?sid=85470",
+              "source_name": "Solidot",
+              "published_at": "2026-09-24T18:09:11+08:00"
+            },
             {
               "title": "arXiv 获三家慈善机构 1720 万美元捐赠承诺",
               "brief": "预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学，成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 于 2001 年加入康奈尔大学，网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新篇章。本周该项目表示，Simons Foundation International、XTX Markets 和 Siegel Family Endowment 三家慈善机构承诺在 3 至 5 年内捐赠 1720 万美元。这笔捐款将用于 arXiv 的日常运营、持续改进、技术开发、AI 生成内容的管理以及非营利组织建设等。",
@@ -400,13 +407,6 @@
               "source_url": "https://www.solidot.org/story?sid=85466",
               "source_name": "Solidot",
               "published_at": "2026-09-23T23:29:02+08:00"
-            },
-            {
-              "title": "英国拟施压Google展示AI助手选择屏",
-              "brief": "英国竞争监管机构CMA希望让Android和Chrome用户对AI助手和搜索引擎拥有更大选择权与控制权。CMA公布提案，要求Google在用户首次设置Android手机或打开Chrome浏览器时展示多种搜索引擎供选择，并每年提示用户选择默认搜索引擎；符合技术与安全标准的AI助手也必须获准出现在选择屏上。该提案已进入公众咨询阶段，截止日期为10月9日，CMA预计今年底前做出最终决定。",
-              "source_url": "https://www.solidot.org/story?sid=85465",
-              "source_name": "Solidot",
-              "published_at": "2026-09-23T22:56:12+08:00"
             }
           ]
         },
