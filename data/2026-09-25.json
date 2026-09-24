@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T04:52:33.737479+08:00",
+  "generated_at": "2026-09-25T06:52:03.019846+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "TestFlight 应用新增 iOS 27 功能",
+              "brief": "苹果今日将 TestFlight 应用更新至 4.4.0 版本，适用于 iOS、iPadOS、macOS 和 visionOS，新增对最新软件更新和产品功能的支持。为迎接 iPhone Duo 十月发布，iPhone 版 TestFlight 已支持横屏模式，该选项对所有 iPhone 开放。在运行 macOS 27 的 Mac 上通过 iPhone 镜像使用 iOS 27 的 iPhone 时，TestFlight 窗口现可调整大小。苹果表示此次更新还包含未具体说明的稳定性改进和错误修复。",
+              "source_url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-25T06:28:23+08:00"
+            },
             {
               "title": "谷歌相册衣橱功能登陆iOS",
               "brief": "谷歌宣布，其数字衣橱功能现已在美国、印度和巴西的谷歌相册iOS应用中上线。该功能于今年4月首次公布，此前仅限安卓用户使用。衣橱功能利用人工智能从谷歌相册图库中提取衣物图片，将其整理成数字衣橱。用户可搭配单品创建整套穿搭，并进行虚拟试穿。应用在“收藏”标签页新增“衣橱”板块展示衣物，也可按上衣、下装等特定类别查看。衣物可自由混搭，搭配结果可分享给好友或保存至灵感板。此外，谷歌相册还为AI图像变换功能Remix新增了15个模板。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
               "source_name": "MacRumors",
               "published_at": "2026-09-25T01:14:22+08:00"
-            },
-            {
-              "title": "苹果发布新视频宣传 iOS 27 家长控制功能",
-              "brief": "苹果今日分享了一段视频，宣传 iOS 27 新增的家长控制功能。苹果表示，iOS 27 中儿童账户的设置更简单、使用更直观。改进后的控制允许家长选择孩子可访问的应用类型，Ask to Buy 可让孩子请求新应用和游戏，Ask to Browse 则让家长阻止或允许孩子在 Safari 中访问的网站，并可决定孩子能联系谁。信息与 FaceTime 中的通信安全可检测并阻止图像和视频中的暴力和裸露内容。时间额度与日程可按天、小时和活动自定义访问权限，并可在上课时间限制应用。",
-              "source_url": "https://www.macrumors.com/2026/09/24/ios-27-parental-controls-video/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-25T00:58:26+08:00"
             }
           ]
         },
@@ -89,6 +89,20 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "谷歌信息全面推送新版长按菜单，支持精准复制",
+              "brief": "谷歌信息应用开始广泛推送全新的长按菜单，取代以往仅显示三个操作、其余藏在溢出菜单中的旧设计。用户长按聊天消息或图片时，会弹出浮动菜单，包含照片的Remix、回复、转发、复制文本、加星、删除、多选、信息以及保存照片等操作，每项前均配有图标便于快速识别。复制功能现支持按住气泡并拖动以选中消息中的特定部分，而此前只能复制整条消息。若选中的是会话中最新消息，谷歌会通过弹性动画和触觉反馈将其大致居中，菜单激活时背景层明显虚化。表情行与Create Photomoji快捷方式保持不变。该功能随稳定版20260910_03_RC02推送，含服务器端组件，若未生效可在应用信息中强制停止。",
+              "source_url": "https://9to5google.com/2026/09/24/google-messages-long-press-menu-wide/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-25T05:03:00+08:00"
+            },
+            {
+              "title": "谷歌面向Pixel推送Android 17 QPR2 Beta 6",
+              "brief": "谷歌开始为Pixel设备推送Android 17 QPR2 Beta 6，版本号为CP41.260831.007，适用于Pixel 6a、Pixel 7系列、Pixel 7a、Pixel平板、Pixel Fold、Pixel 8系列、Pixel 8a、Pixel 9系列、Pixel 9a、Pixel 10系列、Pixel 10a以及Android模拟器，暂不支持Pixel 11系列。本次更新修复了多项问题，包括活动过渡时信箱式内容透过状态栏泄露、充电时屏保显示空白屏幕、Pixel 9 Pro Fold在第三方应用初始化相机取景器时意外重启、最近任务中无法用滑动手势关闭锁定应用、生物识别验证时第三方应用同时请求摄像头和麦克风导致内核崩溃重启，以及滚动时设备崩溃、重启或卡死等问题。用户可通过Android Beta计划获取OTA，并在Pixel上使用Android Beta反馈应用报告问题。",
+              "source_url": "https://9to5google.com/2026/09/24/google-rolling-out-android-17-qpr2-beta-6-for-pixel/",
+              "source_name": "9to5Google",
+              "published_at": "2026-09-25T04:45:00+08:00"
+            },
+            {
               "title": "Pixel VIPs 小部件重新设计开始推送",
               "brief": "Pixel VIPs 小部件重新设计已开始通过服务器端更新推送，尚未广泛可用。此前小部件可扩展至全屏，此次重新设计将其限制为两种布局：5×1 布局一次仅显示一行优先联系人（最多四个），可滚动查看更多，采用圆形头像加名字，不再显示姓氏；5×2 为最大尺寸，根据联系人数显示带药丸按钮的矩形卡片，可快速通话或发消息。未读消息会在圆形头像或消息图标右上角显示圆形徽章。版本 2.0 本周早些时候已推送，采用全屏设计取代底部弹窗方式。",
               "source_url": "https://9to5google.com/2026/09/24/pixel-vips-widget-redesign/",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/09/24/google-create-my-widget-app/",
               "source_name": "9to5Google",
               "published_at": "2026-09-25T01:45:24+08:00"
-            },
-            {
-              "title": "摩托罗拉Signature 27确认支持GrapheneOS",
-              "brief": "以隐私为核心的安卓系统GrapheneOS此前仅限Pixel设备，原因涉及谷歌的软件管理方式以及Pixel与Tensor硬件的安全组件。如今GrapheneOS正式走出Pixel，进入一款预装其系统的设备。官方已宣布合作方为摩托罗拉，但未透露具体机型，因为现有摩托罗拉设备均不兼容。不出所料，首款搭载GrapheneOS的摩托罗拉设备是Signature 27，GrapheneOS已在Twitter/X确认，其他细节仍很少。据称仍计划销售预装GrapheneOS的设备。Signature 27本周发布，其采用骁龙8 Elite Extreme Gen 6芯片组，很可能是能正常运行GrapheneOS的重要原因。该机确切发布日期尚未确认，GrapheneOS是否首发即可用也不清楚。已知未来Razr折叠与Razr Fold版本也将支持这一注重隐私的系统。",
-              "source_url": "https://9to5google.com/2026/09/24/motorola-signature-27-confirmed-to-support-grapheneos/",
-              "source_name": "9to5Google",
-              "published_at": "2026-09-25T01:30:00+08:00"
-            },
-            {
-              "title": "Google Photos推送打码工具、情绪滤镜等新功能",
-              "brief": "Google Photos正在推出打码笔，可对截图和图片中的敏感信息进行模糊或像素化处理。画笔还提供精确粗细滑块，文本工具新增字体。该功能面向安卓版Google Photos全球推送。情绪滤镜可轻松为照片应用“怀旧、复古风格外观”，包括Crisp 35mm胶片、2000年代夜景数码相机、复古对比度、夜光、蓝色薄雾、极简与丰富纹理等，并提供滑块控制，每种情绪会“智能适应你的图像”，在安卓全球推送。此外还有15个新混音模板，包括红毯时刻、奇趣生日卡和照相亭照片，在部分国家的安卓与iOS推送。Google Photos还强调衣橱功能现已在巴西、印度和美国的安卓与iOS上线，需要AI Pro或AI Ultra订阅。本月早些时候还宣布了Gemini Spark中的Photos集成。",
-              "source_url": "https://9to5google.com/2026/09/24/google-photos-redact-moods/",
-              "source_name": "9to5Google",
-              "published_at": "2026-09-25T01:00:00+08:00"
             }
           ]
         },
@@ -209,6 +209,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "微软将公关传播部门划归布拉德·史密斯管辖",
+              "brief": "微软将其传播团队从市场营销部门转移到企业、对外及法律事务组织（CELA），由副董事长兼总裁布拉德·史密斯负责监管传播工作。公司正在寻找首席传播官弗兰克·肖的继任者，肖将于今年晚些时候离职。微软CEO萨蒂亚·纳德拉在内部备忘录中感谢肖为微软所做的一切。肖本月初宣布，在支持公司传播工作近三十年后离开微软。全球公共事务副总裁布伦特·科尔本被任命为临时传播负责人，以帮助应对纳德拉所称的日益复杂的媒体环境。",
+              "source_url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+              "source_name": "The Verge",
+              "published_at": "2026-09-24T18:08:22-04:00"
+            },
+            {
               "title": "谷歌Gemini 3.8 Live推出实时虚拟形象，为AI赋予面孔",
               "brief": "谷歌发布Gemini 3.8 Live更新，用户可在与该模型对话时观看动画AI形象实时回应。这一名为“Live Avatar”的虚拟形象能对口型并展现不同面部表情，目前仅面向Gemini Enterprise客户开放。据谷歌介绍，Live Avatar可在其支持的97种语言间切换，且不会降低视频保真度或产生视觉漂移。谷歌分享的一段视频显示，该虚拟形象分别用英语和日语说话，嘴部动画与两种语言的发音均能对齐，还能在说话时在屏幕上调出信息。该功能上线约一周前，谷歌刚发布新的Gemini 3.8 Live模型，称其可近乎实时地处理视觉输入。",
               "source_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
@@ -235,13 +242,6 @@
               "source_url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
               "source_name": "The Verge",
               "published_at": "2026-09-24T13:52:29-04:00"
-            },
-            {
-              "title": "Muse似乎允许下载其整个文件系统",
-              "brief": "两名开发者称，只需极少提示，Meta的Muse就会与你分享其整个文件系统。Peter James和Jonny L. Saunders表示，他们各自独立地诱导Muse打包并分享了其根文件系统的全部内容、Ubuntu系统文件、应用模板和内部文档。Saunders在Mastodon上发帖称，复现James的结果“极其容易”，Muse“几乎没有任何提示注入抵抗力”。Meta否认该事件构成安全漏洞。Meta发言人Daniel Roberts表示，就像你面前的笔记本电脑一样，你当然可以看到文件，导出虚拟机数据并不会让人获得对Meta基础设施或他人数据的特权访问。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-              "source_name": "The Verge",
-              "published_at": "2026-09-24T13:14:12-04:00"
             }
           ]
         }
@@ -299,6 +299,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "三星确认错误软件更新致智能冰箱无法制冷，承诺紧急维修并赔偿食材损失",
+              "brief": "三星确认9月22日因内部测试失误推送错误软件更新，导致韩国部分Bespoke AI智能冰箱黑屏、断电或更新卡死，SmartThings将其标记为离线，部分设备连冷藏冷冻功能也失效，用户被迫丢弃大量食材。三星已停止测试并启动紧急响应，承诺安排维修，争取9月24日前恢复部分设备，并正研究食品损失赔偿方案。问题目前仅限韩国市场，已收到数百起投诉。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579536.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-25T06:21:23+08:00"
+            },
+            {
               "title": "特朗普政府称被禁媒体获准重返白宫",
               "brief": "美国总统特朗普9月18日宣布，禁止CNN、MS NOW两家有线新闻电视网以及Politico进入白宫，理由是这些媒体作出了不利报道。三家媒体表示，四天后收到正式信函时，政府给出的理由是国家安全。周四早些时候，法官Kelly作出裁决，在这些媒体提起的诉讼审理期间，暂时禁止白宫执行此前宣布的禁令。特朗普政府随后下达命令称被禁媒体获准重返白宫，但相关媒体周四一早仍未获准进入，Kelly要求白宫在华盛顿时间下午12：30前作出回应。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1579534.htm",
@@ -325,13 +332,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1579528.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-25T02:23:51+08:00"
-            },
-            {
-              "title": "1b DRAM单位面积价值超台积电2纳米晶圆54%",
-              "brief": "行业数据显示，1b DRAM位密度达每平方毫米0.436Gb，按每Gb约1.50美元计算，单位面积价值约0.654美元，比台积电2纳米晶圆的约0.424美元高出54%。即便是较旧的1z DRAM，其单位面积价值约0.410美元，也接近2纳米水平。分析认为这并非制造难度所致，而是AI服务器与高性能计算对内存需求激增，导致DDR5和HBM等产品持续缺货、价格攀升。三星、SK海力士和美光虽扩产，但供给增速仍慢于需求。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579526.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-25T02:22:38+08:00"
             }
           ]
         },
@@ -379,6 +379,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "罗伯特·帕丁森对蝙蝠侠与古恩版超人联动表示怀疑",
+              "brief": "帕丁森在接受LADbible采访时表示，将他所饰演的黑暗写实版蝙蝠侠放入詹姆斯·古恩更轻松、更奇幻的DC宇宙会很困难。他认为这个版本的布鲁斯很难脱离原有世界，因为拍摄周期长、风格特定，那种黑暗氛围会深入影响演员，让人在数月内情绪和视觉上都处于黑暗之中。粉丝们对帕丁森是否应同时在古恩主DC宇宙中饰演蝙蝠侠一直存在分歧，而帕丁森似乎认为保持独立更为合理。古恩曾透露正在开发一部以年长布鲁斯·韦恩为主角、达米安·韦恩为搭档的蝙蝠侠电影，但相关进展甚少。",
+              "source_url": "https://www.ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman",
+              "source_name": "IGN",
+              "published_at": "2026-09-25T03:36:38+08:00"
+            },
+            {
+              "title": "蜘蛛侠演员雅各布·巴塔隆谈克雷顿最爱火影何处，第七班或成电影核心",
+              "brief": "在《蜘蛛侠》系列中饰演内德的雅各布·巴塔隆于9月19日做客Crunchyroll的《动漫效应》播客，谈及德斯汀·丹尼尔·克雷顿执导的真人版《火影忍者》电影。巴塔隆认为，克雷顿最欣赏的是第七班的起源故事，即鸣人、佐助、小樱和卡卡西组成的核心团队。他指出，将特定IP改编为面向大众的电影时，从观众能理解的起源故事入手非常重要，因此第七班的成长历程可能成为影片主线。巴塔隆也笑称自己并不确定克雷顿最终会如何呈现，对方甚至可能把大蛇丸变成主角。目前已有报道称查尔斯·梅尔顿正洽谈饰演卡卡西。",
+              "source_url": "https://www.ign.com/articles/spider-mans-jacob-batalon-explains-what-destin-daniel-cretton-likes-most-about-naruto-and-why-team-7-could-be-the-movies-focus",
+              "source_name": "IGN",
+              "published_at": "2026-09-25T03:19:16+08:00"
+            },
+            {
               "title": "Bungie公布《Marathon》重大改动详情",
               "brief": "Bungie在推特上详细介绍了《Marathon》的新玩法。原有的撤离模式将继续保留，同时新增团队死斗模式以及类似《命运》的PvE模式。教程关卡Perimeter也将扩展，规模接近其他完整区域，以降低新玩家的门槛，让他们逐步过渡到颇具争议的传统撤离模式。这些内容将分批推出：十月先更新Nightfall，十二月推出Symbiosis更新，带来首个永久PvE模式和团队死斗；三月一周年时还将推出更大规模更新，把各模式串联起来，并加入全新新手引导体验。",
               "source_url": "https://www.ign.com/articles/bungie-finally-details-radical-changes-for-marathon",
@@ -398,20 +412,6 @@
               "source_url": "https://www.ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
               "source_name": "IGN",
               "published_at": "2026-09-25T01:21:14+08:00"
-            },
-            {
-              "title": "前《龙腾世纪》高管称若重来会修改或删除系列多个关键情节",
-              "brief": "曾担任《龙腾世纪》系列总监或执行制作人的Mark Darrah在TikTok问答中回顾了该系列四部正传，并谈到若重做会做出哪些改动。对于《龙腾世纪：起源》，他表示会删减或大幅缩减法师塔梦境段落，认为这部分内容像填充物，质量不高且制作仓促，同时希望增加新的人类出身和Avvar族选项。对于《龙腾世纪2》，他会修改结局，让玩家选择法师阵营时不必与Orsino战斗，因为原设计无论怎么选都显得Meredith才是对的。对于《审判》，他希望主线流程更快，减少在腹地的停留时间，并可能砍掉嘶嘶荒野等过大的区域。",
-              "source_url": "https://www.ign.com/articles/its-not-great-content-ex-dragon-age-exec-says-hed-now-change-or-ditch-several-key-moments-from-the-series",
-              "source_name": "IGN",
-              "published_at": "2026-09-25T01:19:39+08:00"
-            },
-            {
-              "title": "《使命召唤：战区》将加入新开关，可关闭所有搞怪皮肤",
-              "brief": "动视宣布，《使命召唤：战区》将推出新操作员皮肤开关，开启后玩家在游戏中只会看到《现代战争4》的操作员，其他《使命召唤》作品的操作员或皮肤将被替换。该设定适用于敌人、队伍成员和队友，在大厅和对局中均生效。与此同时，IGN盘点了《使命召唤》系列史上最佳战役，从任务多样性、宏大场面、新颖机制以及关卡设计和叙事等角度评选出前十名，今年表现混乱的《黑色行动7》未能入选。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-warzone-is-getting-a-new-toggle-that-lets-you-turn-off-all-those-goofy-skins",
-              "source_name": "IGN",
-              "published_at": "2026-09-25T01:12:08+08:00"
             }
           ]
         }
