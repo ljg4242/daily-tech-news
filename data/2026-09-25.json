@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T16:52:08.910049+08:00",
+  "generated_at": "2026-09-25T18:52:06.534441+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 钱包应用可创建自定义凭证",
+              "brief": "在 iOS 27 中，苹果钱包应用支持用户为活动门票、礼品卡、会员卡等创建自定义凭证。若活动没有数字门票，用户可用实体卡通过视觉智能扫描，系统会匹配模板并生成可编辑字段；也可手动选择“会员”“活动”或“自定义”模板，调整颜色与细节后扫描条形码或二维码。模板包含姓名、地点、入场类型等信息，提供 12 种背景色及七种分类背景，支持添加或移除标签、日期、会员、联系人、优惠码、车架号、保险等字段。创建后可在钱包中随时编辑。",
+              "source_url": "https://www.macrumors.com/how-to/create-a-custom-pass-in-the-wallet-app-on-iphone/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-25T18:44:22+08:00"
+            },
             {
               "title": "如何在 macOS 27 中查看 Mac 的生产日期",
               "brief": "若已安装 macOS 27 Golden Gate，可查看 Mac 的生产日期。苹果恢复了因几年前序列号随机化而基本消失的信息访问。在 Mac 上进入系统设置 ➝ 通用 ➝ 关于，然后点击系统报告按钮下方的“监管认证”。证书底部会显示新增的“生产日期”字段。过去可通过解码苹果设备序列号得知生产时间和地点，但 2021 年苹果改用不含生产信息的随机序列号，使较新 Mac 用户无从直接判断生产日期，直到 macOS 27 才改变。该发现由 MacRumors 论坛成员 pdfu 提出。另有论坛成员表示，证书显示的日期对应 Mac 逻辑板而非整机组装日期；该逻辑板曾被更换，表明生产日期存储于此。监管认证最早出现在 macOS 27 测试周期，据我们所知苹果并未强调。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/09/24/google-photos-wardrobe-ios/",
               "source_name": "MacRumors",
               "published_at": "2026-09-25T04:33:15+08:00"
-            },
-            {
-              "title": "Apple Music将免费直播Head Trip音乐节",
-              "brief": "Apple Music与Goldenvoice合作，将于10月10日至11日免费直播在加利福尼亚州印第奥举办的Head Trip音乐节。演出阵容包括Calvin Harris、Fisher与Chris Lake、Peggy Gou与Four Tet、Swedish House Mafia、Skrillex、Dom Dolla与Kettama等。现场门票起价499美元已售罄，目前仅剩589美元起的通行证。不想花费高价或前往加州沙漠的音乐迷可通过Apple Music免费观看直播。Apple Music舞蹈与电子音乐及DJ混音全球主管Stephen Campbell表示，该音乐节汇聚了当下塑造舞曲和电子音乐文化的杰出艺术家，合作旨在将这一独特音乐节的能量传递到印第奥之外，让全球粉丝都能在Apple Music上体验这些演出。主舞台演出将在两天内全程直播。",
-              "source_url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-25T03:48:43+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "ARMSX3 PS3模拟器新更新实现可玩帧率",
-              "brief": "ARMSX3 PS3模拟器发布重大更新，修复了游戏崩溃问题并新增多项功能，现已能以可玩帧率运行游戏。在AYN Odin 3等安卓掌机上，《地狱潜者》和《Race the Sun》可稳定60fps，《饥荒：巨人版》为30fps。更新还修复了《NBA 08》《火爆狂飙：天堂》《杀戮地带3》等游戏的启动崩溃或加载死循环问题。新版本支持PS3主题作为库背景，可设置图片、幻灯片、动画主题及实时3D场景，测试的92个动态主题均正常播放。此外新增SIXAXIS体感控制、多游戏光盘支持，并引入ARMSX2 2.7的触控滑行模式等功能。",
-              "source_url": "https://www.androidauthority.com/armsx3-1-0-update-3715385/",
+              "title": "Googlebook 藏有隐藏应用，可将 Glowbar 变成迪斯科灯效",
+              "brief": "Google 笔记本上的 Glowbar 灯带原本用于显示电量、提示 Gemini 活动并统一产品外观，但谷歌确认设备内隐藏着一款名为 Glowbar Disco 的应用，可将灯带变成随音乐同步的灯光秀。谷歌笔记本和平板产品高级总监 Alexander Kuscher 在接受采访时透露了这一彩蛋，但未说明具体位置，用户需自行寻找。此前在实机体验中已见到迪斯科效果，但谷歌当时未告知如何开启。该应用被视为 Glowbar 设计理念的延伸，谷歌还计划让开发者接入 Glowbar 打造自家应用体验。",
+              "source_url": "https://www.androidauthority.com/googlebook-glowbar-disco-app-3715417/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-25T16:14:18+08:00"
+              "published_at": "2026-09-25T18:39:12+08:00"
             },
             {
-              "title": "谷歌相册多项功能面向更多用户推出",
-              "brief": "谷歌宣布谷歌相册的多个功能现已面向更多用户开放。标记工具中的“涂黑”笔在全球安卓手机上推出，用户可用马赛克、轻马赛克和模糊三种样式遮盖照片敏感信息，并调整笔触粗细。AI驱动的“情绪”功能也在全球安卓设备上线，提供2000年代影院、数码相机、35毫米胶片等多种复古滤镜预设。此外，AI衣橱功能已向美国、印度和巴西的符合条件的用户开放，可自动整理衣物；视频混剪功能也在部分国家扩大可用范围。这些功能此前仅限美国等少数地区测试，如今正式大范围推送。",
-              "source_url": "https://www.androidauthority.com/google-photos-redact-moods-remix-wide-rollout-3715348/",
+              "title": "ATV Launcher 新版更新，为 Android TV 主屏带来大幅升级",
+              "brief": "ATV Launcher v0.1.41 新增“Arrangements”功能，提供 Spotlight、Bookends、Centre Stage、Marquee、Hero Trio 等十种固定行布局，并允许通过磁贴上下文菜单将小组件直接放入应用行，支持天气、数字时钟、系统信息、常用应用、Watch Next、推荐及系统小组件。更新还改进了 Configure Tile 对话框，加入实时预览、新文件夹预览样式和边到边的 Watch Next 卡片。此外开发者推出独立的免费配套应用，包含 15 种时钟样式；状态栏也可完全自定义，支持浮动或固定位置、图标开关、胶囊样式以及直接切换电视输入源。",
+              "source_url": "https://www.androidauthority.com/atv-launcher-v0-1-41-update-3715420/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-25T15:19:03+08:00"
+              "published_at": "2026-09-25T18:30:47+08:00"
             },
             {
-              "title": "谷歌“创建我的小组件”应用界面曝光",
-              "brief": "谷歌已在Play商店上架“创建我的小组件”应用，截图展示了其在安卓手机和Googlebook笔记本上的界面。用户可用自然语言描述需求，由Gemini自动生成自定义小组件，也可从组合小组件、重要日期、天气提醒、每日简报等分类中选择模板作为起点，创建后还能编辑完善再添加到主屏幕。在Googlebook笔记本上，应用可能提供事件与旅行、日常习惯、工具与提示等更多分类。该应用版本号为1.27.983746769.0-desktop_release，疑似为即将发货的Googlebook笔记本做准备。该应用最早在I/O 2026前公布。",
-              "source_url": "https://www.androidauthority.com/google-create-my-widget-play-store-listing-3715354/",
+              "title": "Pixel 11 信号有问题？退货前先试这 7 个修复方法",
+              "brief": "Pixel 11 系列改用联发科新调制解调器后，连接性较 Pixel 10 系列有明显提升，但仍有部分用户反馈移动数据和 Wi-Fi 连接问题。虽然报告数量少于前几代，但连接故障依然令人困扰。文章建议在退货前尝试若干排查步骤，例如快速开关飞行模式，让手机重新连接蜂窝网络和 Wi-Fi，以修复临时性信号问题；还可手动取出实体 SIM 卡，检查是否有损坏或磨损。这些基础操作有时能解决暂时性的网络异常，帮助用户判断问题是否属于硬件缺陷。",
+              "source_url": "https://www.androidauthority.com/pixel-11-signal-problems-troubleshooting-tips-3714401/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-25T15:12:06+08:00"
+              "published_at": "2026-09-25T18:30:01+08:00"
             },
             {
-              "title": "谷歌或将撤销电话应用最恼人的近期改动",
-              "brief": "据Android Authority报道，谷歌正着手撤销去年对电话应用做出的界面改动。在最新测试版电话应用（v240.0.986973448）中发现，谷歌计划将联系人标签重新放回底部导航栏，位置可能介于主页和键盘之间，方便用户快速访问已保存的联系人。目前该应用导航栏仅有主页和键盘两个标签，联系人被藏在侧边栏中，在支持语音信箱的地区还会显示第三个标签。改动推出后，侧边栏将不再保留联系人选项。测试显示新布局运行正常，但尚不清楚谷歌何时正式推送。",
-              "source_url": "https://www.androidauthority.com/google-phone-app-contacts-navigation-bar-apk-teardown-3715337/",
+              "title": "Galaxy Watch 9 评测：出色手表，但有一个每天都会遇到的问题",
+              "brief": "Galaxy Watch 9 佩戴极为舒适，屏幕明亮出色，健康与健身追踪功能全面，能提供比以往更有用的数据洞察，软件支持也较强。然而电池续航仍是其最大短板，没有明显提升，也不支持快速充电，部分健康功能还锁定在三星手机上。这意味着手表的诸多优点只有在用户坚持每晚充电的前提下才能体现。作者在佩戴 Galaxy Watch 7 两年后体验了 44mm 蓝牙版 Galaxy Watch 9，三周使用后认为它是一款很好的智能手表，但续航问题让推荐时必须加上一个熟悉的星号。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-watch-9-review-3705955/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-25T14:42:50+08:00"
+              "published_at": "2026-09-25T18:00:13+08:00"
             },
             {
-              "title": "F-Droid十年来最大更新即将到来，无视谷歌侧载限制",
-              "brief": "开源安卓应用商店F-Droid即将推出十年来最大更新。据其博客介绍，2.0版本采用Kotlin重写，便于未来更频繁更新，并带来更现代的视觉效果和Material Design支持。主导航重构为发现、搜索和我的应用三个核心选项，发现页提供更简洁的界面，按专业类别分组展示应用，原有的分类标签被移除。改进后的搜索支持按名称、描述和标签查找应用，且不追踪用户或试图延长使用时间。F-Droid一直是谷歌安卓侧载限制的主要批评者之一。",
-              "source_url": "https://www.androidauthority.com/f-droid-app-store-massive-update-3715335/",
+              "title": "部分 Pixel 用户仍因多年旧时钟应用漏洞错过闹钟",
+              "brief": "部分 Pixel 用户仍受时钟应用长期漏洞困扰，闹钟无法按时响起，只收到“闹钟因未知原因未触发”的通知。该问题至少自 2021 年就存在，谷歌曾承诺修复，但新报告仍不断出现。有用户因闹钟未响被解雇，原因据称是手机过热；也有用户遇到闹钟准时触发却没有任何声音，计时器和秒表同样无声，而其他音频正常。Android Authority 已联系谷歌询问其团队是否知晓该漏洞仍在影响用户，并将在获得回应后分享。",
+              "source_url": "https://www.androidauthority.com/google-pixel-clock-alarm-bug-not-fixed-yet-3715371/",
               "source_name": "Android Authority",
-              "published_at": "2026-09-25T14:16:05+08:00"
+              "published_at": "2026-09-25T17:47:49+08:00"
             }
           ]
         },
@@ -273,6 +273,20 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "XPhoneUse：让 AI 直接操作真实手机",
+              "brief": "有人开发了 XPhoneUse，一款类似 Scrcpy 的手机镜像工具，并附带 Skill，可让 Codex、Claude 等 AI Agent 通过 adb 与无障碍树操作真实手机。使用方法是在电脑连接安卓或 iPhone 后，让 AI 安装指定 Skill，再用自然语言下达任务。作者用 DeepSeek V4.1 Flash 配合 omp 测试，成功让 AI 数应用、查多邻国连胜、发微信消息并完成日语学习任务。文中还记录了 AI 在微信界面失明、自建 OCR、盲点误触等经历。",
+              "source_url": "https://www.appinn.com/xphoneuse/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-25T17:27:30+08:00"
+            },
+            {
+              "title": "本周 Epic 免费游戏：阿斯特赖亚、钢铁指挥官、卡牌末日",
+              "brief": "9 月 25 日至 10 月 1 日，Epic 免费送出两款电脑游戏和一款手机游戏。电脑端为《阿斯特赖亚》和《钢铁指挥官》，手机端为《卡牌末日》，Android 与 iOS 均可领取。其中《阿斯特赖亚》是骰子构筑 Roguelike，Steam 特别好评；《钢铁指挥官》是机甲题材自动战斗策略游戏，支持 1v1、2v2 和多人混战；《卡牌末日》是以 1990 年代校园为背景的单人卡牌 RPG，三款均支持中文。",
+              "source_url": "https://www.appinn.com/eggs-26925/",
+              "source_name": "小众软件",
+              "published_at": "2026-09-25T17:26:22+08:00"
+            },
+            {
               "title": "MicYou：把安卓手机变成电脑麦克风",
               "brief": "青小蛙的台式机没有麦克风，孩子只能用语音输入法，于是找到开源项目 MicYou，把安卓手机变成电脑麦克风。手机与电脑需各装客户端，支持 Windows、Linux 与 macOS，已有近 4k 星标。连接后可能出现回音啸叫，需安装 VB-Cable 音频转发工具，并在系统声音设置里把输出设为 CABLE Input、输入设为 CABLE Output。软件还提供降噪、回声消除、自动增益等功能。MicYou 2.0 新增 PureVox AI 降噪、AEC7 回声消除、Opus 弱网优化、插件系统，桌面端改用 Tauri + Rust 重构，并支持 CLI 与 TUI。",
               "source_url": "https://www.appinn.com/micyou-2/",
@@ -292,13 +306,6 @@
               "source_url": "https://www.appinn.com/wordpress-cve-2026-87902-critical-vulnerability/",
               "source_name": "小众软件",
               "published_at": "2026-09-23T11:38:31+08:00"
-            },
-            {
-              "title": "纯离线汉语拼音注音小工具：单网页开源，含 33.7 万词典",
-              "brief": "来自发现频道的开发者自荐，这是一款纯离线的汉语拼音注音小工具，只有一个网页，可把文章一键转成汉字上方带拼音的注音读物，适合幼儿园到小学低年级孩子做朗读材料。使用时在左上角输入文字，右侧预览区自动显示拼音，下方可设置汉字字号字体、拼音字体、字间距与行间距。完整词典版包含 33.7 万词汇，体积仅约 6MB。核心功能包括教材式排版、一/不变调开关、儿化音双模式、A4 所见即所印、易错点高亮，以及纯本地运行、断网可用。",
-              "source_url": "https://www.appinn.com/chinese-pinyin-annotation-tool/",
-              "source_name": "小众软件",
-              "published_at": "2026-09-22T22:28:46+08:00"
             }
           ]
         },
@@ -346,39 +353,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "“医生版 ChatGPT”OpenEvidence 估值升至 150 亿美元",
-              "brief": "有消息称，被称为“医生版 ChatGPT”的 AI 医疗公司 OpenEvidence 完成新一轮融资，估值升至 150 亿美元，今年 1 月其估值还是 120 亿美元。知情人士称，该公司或愿意考虑出售，其中还包括算力资源的使用权。OpenEvidence 总部位于迈阿密，过去一年融资总额超过 10 亿美元，投资者包括 Thrive Capital、DST、GV、凯鹏华盈和红杉资本，英伟达也是投资者之一。其产品已被美国超过三分之二的医生用于获取诊断和治疗建议，公司称其为“史上增长最快的医生应用”。",
-              "source_url": "https://www.ithome.com/1/007/161.htm",
+              "title": "Shift Up CEO 金亨泰：《剑星》曾濒临绝境，一度只发得起三个月工资",
+              "brief": "Shift Up CEO 金亨泰透露，《剑星》开发期间公司曾濒临绝境，一度只发得起三个月工资。为筹集开发资金，公司接触多名投资者，却屡次被告知项目风险太高，有人质疑既然明摆着无法收回成本为何还要开发，还有人表示若改做其他项目公司估值反而更高。金亨泰当时也动摇过，怀疑在韩国开发这样的游戏是否正确，但最终坚持到开发完成。主机版确切销量未公布，PS5 版预估售出数百万份，登陆 PC 后三天突破 100 万份。目前续作《剑星：血雨》正在开发中，尚未公布发售日期。",
+              "source_url": "https://www.ithome.com/1/007/202.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T16:34:38+08:00"
+              "published_at": "2026-09-25T18:43:13+08:00"
             },
             {
-              "title": "AOC 推出 34 英寸 G4 宙斯盾带鱼屏显示器，国补价 1613.7 元",
-              "brief": "AOC 推出 34 英寸 G4 宙斯盾带鱼屏显示器，采用 Fast VA 快速液晶面板，具备 WQHD 分辨率、200Hz 刷新率、21:9 比例、1500R 曲率和 0.3ms MPRT 响应时间，兼容 G-Sync 与 FreeSync。该显示器拥有 4000:1 静态对比度，覆盖 100% sRGB 和 95% DCI-P3 色域，出厂逐台校色，支持 HDR 10。功能上内置 AI 智慧质控引擎、PIP/PBP 智能分屏及多项 FPS 游戏辅助功能，配备人体工学支架和双 HDMI 2.1、DP 1.4 接口，国补价 1613.7 元。",
-              "source_url": "https://www.ithome.com/1/007/160.htm",
+              "title": "奕境 X9 上市 24 小时大定 9157 台，满配华为乾崑全栈智能",
+              "brief": "奕境 X9 上市 24 小时大定 9157 台。新车长 5301mm、宽 2015mm、高 1820mm，轴距 3120mm，首发搭载鸿蒙座舱 HarmonySpace 6，配备双 17.2 英寸 3.4K 蝶羽双联屏。该车搭载 896 线双光路图像级激光雷达，最高采用华为乾崑四激光方案，拥有 140 亿公里累计智能辅助驾驶里程。基于 800V 高压平台打造，搭载宁德时代 74.29kWh 电池，CLTC 纯电续航 465km，综合续航超 1500km，配有双腔空悬和双向 14° 后轮转向。全系可享价值 1 万元超级置换礼，限时优惠价区间为 27.98 万至 35.98 万元。",
+              "source_url": "https://www.ithome.com/1/007/185.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T16:26:46+08:00"
+              "published_at": "2026-09-25T18:05:01+08:00"
             },
             {
-              "title": "中秋假期首日全国铁路预计发送旅客 2234 万人次",
-              "brief": "中秋假期首日，全国铁路预计发送旅客 2234 万人次。铁路部门已售出 9 月 23 日至 10 月 8 日期间火车票 1.32 亿张。从预售情况看，北京、广州、上海、深圳、杭州等为热门出发城市，北京、广州、成都、上海等为热门到达城市，广州至南宁、北京至郑州等区间客流集中。铁路部门提示，未买到车票的旅客可使用 12306 候补购票功能，最多选择 60 个“日期+车次”组合，新增票额将优先配售给已提交候补订单的旅客。",
-              "source_url": "https://www.ithome.com/1/007/159.htm",
+              "title": "比亚迪大汉上市定档 10 月 13 日：纯电车型续航破千，预售价 24.99 万-29.99 万元",
+              "brief": "比亚迪大汉上市定档 10 月 13 日，目前预售的是纯电版 EV 车型，CLTC 续航最高可达 1008km。预售价方面，1008km 后驱激光雷达尊享型 24.99 万元，1008km 后驱激光雷达旗舰型 26.99 万元，880km 四驱激光雷达旗舰型 29.99 万元。该车拥有 90.8% 超高得房率，纵向 2005mm、横向 1580mm 同级第一，支持中央大床模式，前备箱容积 130L、全车 46 处储物。还配备前排双零重力座椅、帝瓦雷音响 31 扬声器、四门静音夹层玻璃以及全球首款黑色 PDLC 可调玻璃。",
+              "source_url": "https://www.ithome.com/1/007/183.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T16:23:17+08:00"
+              "published_at": "2026-09-25T18:03:24+08:00"
             },
             {
-              "title": "甲骨文为数据中心延期风险发“不可抗力”通知，引发华尔街质疑",
-              "brief": "甲骨文向负责开发新墨西哥州 Project Jupiter AI 数据中心项目的合作方发出“不可抗力”通知，该通知可在企业无法控制的事件影响项目推进时暂停部分合同义务。甲骨文称项目仍按原定时间表推进，发言人表示此类通知在大型开发项目中经常使用，仅凭通知不能认定项目会延期。但投资者对甲骨文能否兑现庞大的 AI 基础设施扩张计划产生疑问，其股价当地时间周四下午下跌约 4%。甲骨文第一季度资本支出达 285 亿美元，并维持 2027 财年 900 亿至 950 亿美元的资本支出预测。",
-              "source_url": "https://www.ithome.com/1/007/158.htm",
+              "title": "纽约市议员提议立法奖励危险 AI 举报人，奖金来自收取的罚款",
+              "brief": "纽约市议会议长朱莉·梅宁在 10 月 5 日 AI 风险及潜在保障措施听证会前公布一批法案，届时全部 51 名成员都将参加。提案要求 AI 系统在纽约市营销、销售或部署前通过第三方验证，必须配备由人控制的紧急关闭开关，聊天机器人提供商须遵守数据隐私、安全和透明度规定。在特定情况下，因 AI 系统受到伤害的人可以起诉系统开发者。梅宁要求 Anthropic、OpenAI、谷歌、SpaceX 的 AI 部门和 Meta 的 CEO 参加听证会，并称必要时可行使传票权。另有提案拟奖励危险 AI 举报人，奖金来自收取的罚款。",
+              "source_url": "https://www.ithome.com/1/007/170.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T16:21:09+08:00"
+              "published_at": "2026-09-25T17:53:14+08:00"
             },
             {
-              "title": "realme 真我 Neo8 三星堆限定版样机曝光，确认不会上市",
-              "brief": "realme 真我 Neo8 三星堆限定版样机曝光，该产品原定于真我 Neo8 新品发布会一同推出，配套三星堆限定礼盒。然而在官宣当日下午，官方宣布产品延迟发布，原因是工艺要求严格，备货未能达到预期进度。从海报可以看到，礼盒采用特殊包装设计，以三星堆青铜器的绿色纹理为底，其上标有金色的“奇遇古蜀”字样。伴随真我品牌退出市场，Neo8 三星堆限定版也同步确认不会再正式上市。",
-              "source_url": "https://www.ithome.com/1/007/157.htm",
+              "title": "LG 电子被印度追缴约 15.4 亿卢比关税",
+              "brief": "印度海关专员办公室（NS-V）向 LG 电子发出通知，拟追缴金额为 15,357,67,711 卢比，约合 15.4 亿卢比。LG 电子印度公司表示正在审查此事，计划在规定期限内提交回复，并主张公司已完全遵守海关法规。根据印度《1962 年海关法》第 14 条及《2007 年海关估价规则》，买方直接或间接作为货物销售条件而支付的特许权使用费和许可费应计入进口商品交易价值，争议通常集中于特许权使用费是否构成销售条件及其与进口货物是否明确关联。公司称财务影响将在通知裁定后确定，目前并非最终确认的负债。",
+              "source_url": "https://www.ithome.com/1/007/169.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T15:59:51+08:00"
+              "published_at": "2026-09-25T17:45:31+08:00"
             }
           ]
         },
