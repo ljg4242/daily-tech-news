@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T12:51:57.535360+08:00",
+  "generated_at": "2026-09-25T14:52:13.770153+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌或将撤销电话应用最恼人的近期改动",
+              "brief": "据Android Authority报道，谷歌正着手撤销去年对电话应用做出的界面改动。在最新测试版电话应用（v240.0.986973448）中发现，谷歌计划将联系人标签重新放回底部导航栏，位置可能介于主页和键盘之间，方便用户快速访问已保存的联系人。目前该应用导航栏仅有主页和键盘两个标签，联系人被藏在侧边栏中，在支持语音信箱的地区还会显示第三个标签。改动推出后，侧边栏将不再保留联系人选项。测试显示新布局运行正常，但尚不清楚谷歌何时正式推送。",
+              "source_url": "https://www.androidauthority.com/google-phone-app-contacts-navigation-bar-apk-teardown-3715337/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T14:42:50+08:00"
+            },
+            {
+              "title": "F-Droid十年来最大更新即将到来，无视谷歌侧载限制",
+              "brief": "开源安卓应用商店F-Droid即将推出十年来最大更新。据其博客介绍，2.0版本采用Kotlin重写，便于未来更频繁更新，并带来更现代的视觉效果和Material Design支持。主导航重构为发现、搜索和我的应用三个核心选项，发现页提供更简洁的界面，按专业类别分组展示应用，原有的分类标签被移除。改进后的搜索支持按名称、描述和标签查找应用，且不追踪用户或试图延长使用时间。F-Droid一直是谷歌安卓侧载限制的主要批评者之一。",
+              "source_url": "https://www.androidauthority.com/f-droid-app-store-massive-update-3715335/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T14:16:05+08:00"
+            },
+            {
+              "title": "被跳过的联想Googlebook二合一平板再曝高清泄露图",
+              "brief": "谷歌本周发布了五款Googlebook笔记本，但联想此前被曝计划推出的多款设备中仅一款亮相。知名爆料者Evan Blass在X上发布了未发布的联想Googlebook二合一设备的高清图片，显示其采用平板式设计，背部带支架，键盘比同系列更轻薄。设备左侧有Googlebook标识，右侧按钮可关闭键盘以防误触，旁边还有蓝牙标志，暗示键盘可拆卸使用。另一张高清图展示了背部摄像头和贯穿全系的发光灯条。目前尚不清楚该设备是被取消还是尚未发布。",
+              "source_url": "https://www.androidauthority.com/lenovo-googlebook-2-in-1-duet-leak-again-3715328/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T10:06:36+08:00"
+            },
+            {
               "title": "Gemini 正在开发独立深色模式选项",
               "brief": "Android Authority 在 Google 应用 17.61.19.sa.arm64 版本中发现，Gemini 正在开发新的深色模式控制功能，允许用户覆盖系统设置，强制 Gemini 保持浅色或深色模式。这些选项仅针对 Gemini 生效，不会影响 Google 应用其他部分的深色模式表现。此外，Gemini 还在开发新的通知历史记录界面，以改进通知支持。这些改动目前仍处于开发阶段，尚未正式上线。",
               "source_url": "https://www.androidauthority.com/gemini-dark-mode-3715309/",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/gamesnacks-android-auto-immersive-apk-teardown-3715285/",
               "source_name": "Android Authority",
               "published_at": "2026-09-25T05:14:49+08:00"
-            },
-            {
-              "title": "Google 推出 Gemini Live Avatar 虚拟形象",
-              "brief": "Google 宣布推出 Gemini 3.8 Live with Live Avatar，将实时视频生成与语音模型结合，为企业客服机器人提供更具人格化的虚拟形象。该功能支持精确唇形同步、自然表情和流畅对话轮换，并可在 97 种语言间切换而不会降低视频质量。Live Avatar 由 Gemini 的高级推理和异步工具调用驱动，可在对话过程中后台触发工具调用并获取数据，例如在聊天时完成酒店入住办理。该功能面向企业场景推出。",
-              "source_url": "https://www.androidauthority.com/gemini-live-avatar-3715280/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T05:03:59+08:00"
-            },
-            {
-              "title": "Gemini桌面版或新增Tasks模式，可跨应用代你处理任务",
-              "brief": "据报道，Google正在Gemini桌面应用中测试新的Tasks模式，界面加入Chat与Tasks切换，把普通对话与更具代理性的工作分开。新的Computer Use设置可让用户指定Gemini能操作和不能操作的桌面应用，从本地文件夹启动Gemini项目的选项也被提前。Tasks内还出现Gemini Live按钮，或允许用户在Gemini跨电脑工作时与其语音对话。该模式与ChatGPT的Chat与Work分工类似，显示Google希望桌面版Gemini不只是聊天，而是能直接替用户完成多步骤任务。",
-              "source_url": "https://www.androidauthority.com/gemini-tasks-mode-desktop-leak-3715259/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T04:43:51+08:00"
-            },
-            {
-              "title": "Android 17 QPR2 Beta 6面向Pixel测试者推送，暂缺Pixel 11",
-              "brief": "Android 17 QPR2 Beta 6已发布，距离Beta 5仅一周多。此次更新修复了多项问题，包括活动切换时信箱式内容透过状态栏的视觉回归、充电时屏保显示空白、Pixel 9 Pro Fold在第三方应用初始化相机取景器时意外重启、最近任务中锁定应用无法滑动关闭，以及第三方应用在生物识别验证时同时请求摄像头和麦克风导致的系统内核崩溃等。值得注意的是，Beta 5曾率先支持Pixel 11系列，而Beta 6目前最高仅支持Pixel 10。Google的Mishaal Rahman表示Pixel 11版本很快会到来。",
-              "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-6-3715276/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T04:32:39+08:00"
             }
           ]
         },
@@ -299,39 +299,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "三星确认错误软件更新致智能冰箱无法制冷，承诺紧急维修并赔偿食材损失",
-              "brief": "三星确认9月22日因内部测试失误推送错误软件更新，导致韩国部分Bespoke AI智能冰箱黑屏、断电或更新卡死，SmartThings将其标记为离线，部分设备连冷藏冷冻功能也失效，用户被迫丢弃大量食材。三星已停止测试并启动紧急响应，承诺安排维修，争取9月24日前恢复部分设备，并正研究食品损失赔偿方案。问题目前仅限韩国市场，已收到数百起投诉。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579536.htm",
+              "title": "黄仁勋称孩子因AI忘基础数学无妨：我记不住地址",
+              "brief": "英伟达CEO黄仁勋表示，AI工具能帮孩子更快完成作业，但研究显示作业本应培养的技能并未真正被掌握，测验与考试成绩正快速下滑。他认同使用AI的孩子可能存在知识留存不足的问题，但并不担心，认为基础数学并不重要，人类会发掘出新的核心能力。他还坦言因长期使用AI和科技产品，自己记不住家庭住址和电话号码，也忘了自家邮编，但完全能接受这种状态。他称AI可能让人失去一些精细思维灵活性，但人们会成长为更出色的系统思考者。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579594.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-25T06:21:23+08:00"
+              "published_at": "2026-09-25T14:42:46+08:00"
             },
             {
-              "title": "特朗普政府称被禁媒体获准重返白宫",
-              "brief": "美国总统特朗普9月18日宣布，禁止CNN、MS NOW两家有线新闻电视网以及Politico进入白宫，理由是这些媒体作出了不利报道。三家媒体表示，四天后收到正式信函时，政府给出的理由是国家安全。周四早些时候，法官Kelly作出裁决，在这些媒体提起的诉讼审理期间，暂时禁止白宫执行此前宣布的禁令。特朗普政府随后下达命令称被禁媒体获准重返白宫，但相关媒体周四一早仍未获准进入，Kelly要求白宫在华盛顿时间下午12：30前作出回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579534.htm",
+              "title": "荷兰消费者组织SMC指控《堡垒之夜》商城诱导未成年人消费 并追索1亿欧元",
+              "brief": "荷兰消费者组织SMC指控Epic的《堡垒之夜》商城诱导未成年人消费并作出赔偿，同时指控其未经家长同意收集儿童个人数据。SMC援引针对1000名16至19岁荷兰青少年的研究，称购买过V-Bucks等游戏货币的受访者中六成人觉得不像在花真钱，半数人后悔在时间压力下完成购买。Epic此前曾因儿童隐私和游戏内购买问题受监管，2022年同意支付5.2亿美元和解美国联邦贸易委员会两项投诉，2024年被荷兰监管机构罚款120万美元。SMC主席表示并不要求禁用游戏，而是希望Epic向玩家退款。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579592.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-25T04:30:22+08:00"
+              "published_at": "2026-09-25T14:42:38+08:00"
             },
             {
-              "title": "微软被曝正悄然放弃曾被寄予厚望的Copilot+ PC品牌",
-              "brief": "Copilot+ PC并非普通高性能电脑，而是微软定义的AI PC标准，要求设备配备算力超过40 TOPS的NPU并支持一系列依赖本地AI计算的Windows功能。微软近期推出的一些高性能Windows设备不再强调这一标识，包括面向高端AI工作负载的Surface Laptop Ultra。微软如今更倾向于直接强调设备本身的能力，如本地AI计算、NPU性能、GPU算力及运行大型AI模型的能力，而非用一个统一品牌定义AI PC。这并不意味着Windows 12项目被取消，而是反映其产品叙事正在发生变化。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579532.htm",
+              "title": "爆料称PS6芯片设计已完成 性能或达PS5两倍并规划掌机版",
+              "brief": "有爆料称PS6芯片设计已完成，性能或达PS5两倍，并规划掌机版本。爆料提到其浮点运算能力低于所称新款Xbox的56万亿次，光线追踪性能约为PS5的12倍，将采用效率更高的RDNA 5架构。浮点运算能力不能单独决定游戏表现，实际效果还受硬件架构等因素影响。报道推测PS6可能使用升级版PSSR画面放大技术，但尚未确认。规划中的掌机型号能提供哪些游戏体验、如何与主机配合尚不清楚，价格也无定论，报道估算物料成本约960美元，推测售价可能为900美元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579590.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-25T04:10:53+08:00"
+              "published_at": "2026-09-25T14:41:54+08:00"
             },
             {
-              "title": "Google发布Gemini 3.8 Live Avatar数字人交互功能",
-              "brief": "Google发布Gemini 3.8 Live与Live Avatar数字人交互功能，旨在为企业客户打造更直观、具沉浸感的虚拟服务助手。系统将音频流与底层视频生成模型精准同步，实现高精度唇形匹配、自然面部表情变化及流畅跨语种对话转换，原生支持97种语言，跨语言切换时不会出现视频失真或面部漂移。平台还具备异步工具调用能力，可在对谈同时后台调用外部API与企业数据接口处理多步骤业务。安全方面，系统默认仅开放经审查的预置形象库，定制权限受白名单审核，生成内容嵌入SynthID数字水印。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579530.htm",
+              "title": "《GTA6》四百美元收藏盒不含游戏 粉丝盼主角却等来鳄鱼",
+              "brief": "Rockstar开启《GTA6》400美元收藏礼盒预售，礼盒11月19日与游戏同步发售，内含围绕游戏内虚构电视节目展开的多款周边，包括粉色鳄鱼雕像、卡通角色珐琅徽章和双面海报。该设计引发社区差评，玩家至今未见过这档虚构节目，加上定价虚高、角色全是卡通形象、不含游戏本体，多重因素叠加令粉丝不满。有模组制作者称至少应加入游戏本体，多位用户表示不会购买，还有人抱怨想要杰森和露西娅的雕像却只等来鳄鱼。粉丝希望Rockstar下调价格或推出更多特别周边。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1579588.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-25T04:10:05+08:00"
+              "published_at": "2026-09-25T14:41:19+08:00"
             },
             {
-              "title": "任天堂获450万美元赔偿 盗版社区版主Archbox败诉",
-              "brief": "任天堂针对Switch盗版社区版主威廉姆斯（网名Archbox）的诉讼以缺席判决告终，法院判其赔偿450万美元并发布永久禁令。威廉姆斯被指创建、运营并推广多个提供Switch游戏非法下载的平台，还鼓励他人上传游戏文件。任天堂称2024年曾发出停止侵权通知但未达成和解，被告全程未答辩或出庭。赔偿按30款游戏每款15万美元法定最高额度计算。禁令要求立即关闭相关盗版商店与传播渠道，禁止继续分发盗版游戏或破解软件。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1579528.htm",
+              "title": "DeepSeek被曝年化收入达10亿美元 涨价后客户没少",
+              "brief": "有报道称DeepSeek年化收入已达10亿美元，涨价后客户并未减少。其收入几乎全部来自API服务，免费聊天应用没有广告，也不产生收入。报道还称，DeepSeek正推进第二轮融资，目标在10月底前完成，计划以5000亿元人民币估值融资500亿元，同时筹备在上海证券交易所上市。梁文锋向投资者表示，增加收入仍不是公司的首要任务，目前超过70%的算力用于训练新模型，不足30%用于运行现有模型、处理用户请求。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1579586.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-09-25T02:23:51+08:00"
+              "published_at": "2026-09-25T14:23:19+08:00"
             }
           ]
         },
@@ -339,39 +339,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "鸿蒙智行国庆 OTA 推送：智界、享界、尊界、尚界同步升级",
-              "brief": "鸿蒙智行在国庆期间推送 OTA 升级，智界、享界、尊界、尚界同步更新。辅助驾驶新增充电站分时电价显示、按沿途周边目的地分类搜索途经点及联想搜索，途经点编辑支持二次修改。智界与享界可将园区楼栋、餐饮店设为途经点。充电体验方面，智界新增园区内导航至充电车位并优化闲忙信息，高速服务区卡片展示充电站品牌与桩数。组队出行升级至 2.0 版本，支持全员实时语音对讲。享界新增手势泊出，尚界新增防误打方向盘功能。座舱方面新增会客、观景、迎宾及露营睡眠空间等模式，并上线多种智能体与车外语音控制功能。",
-              "source_url": "https://www.ithome.com/1/007/118.htm",
+              "title": "海贝 RS2 二代音乐播放器发售：达尔文三代架构，2798 元起",
+              "brief": "海贝 RS2 二代纯音无损音乐播放器正式发售，采用 R2R 技术达尔文三代架构，配备全新 FPGA 数字引擎，逻辑单元突破 35K，内置 40 个高性能 DSP，支持可调纯 FIR 滤波与多样 DARWIN 滤波器。搭载两颗飞秒级低相噪晶振，相位噪声低至 -140dBc/Hz。整机 THD+N 实测低于 0.0008%，配备四级 OPA1612 信号链路与 4 颗 OPA1622 耳放芯片。4.4mm 平衡口输出 630mW，3.5mm 单端口 165mW。升级 X1600E 双核主控，屏幕扩大 45%，支持双 TF 卡 4TB 拓展，标准版售价 2798 元起。",
+              "source_url": "https://www.ithome.com/1/007/137.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T12:45:43+08:00"
+              "published_at": "2026-09-25T14:43:38+08:00"
             },
             {
-              "title": "Dreunen 教授称微软游戏业务重组形成“反向收购”：XBOX 自有 IP 转向动视等",
-              "brief": "纽约大学教授 Joost Dreunen 指出，微软斥资约 765 亿美元收购动视暴雪与 ZeniMax 后，出现“反向收购”格局：被收购发行商未并入 Xbox 架构，Xbox 自有工作室反而被并入其体系。重组后动视接管 World's Edge、Rare 及下一款旗舰《光环》的开发发行，Halo Studios 转为支持现有作品；贝塞斯达吸纳黑曜石，后者正开发新《辐射》；King 接管微软休闲游戏；Playground 与 Turn 10 合并。仅 Mojang 与暴雪未受影响。数据显示，Xbox 第一方内容收入占游戏软件收入的 61%，为索尼的两倍以上，2025 年第一方软件收入达 137 亿美元，超过第三方收入。",
-              "source_url": "https://www.ithome.com/1/007/117.htm",
+              "title": "中秋国庆假期民航旅客量预计日均 240 万人次，有望创新高",
+              "brief": "据预测，中秋、国庆假期民航预计运输旅客量 3119 万人次，日均 240 万人次，同比增长 3.6%，单日峰值有望突破 260 万人次，超过去年同期水平。大城市航空客流保持高位，特色旅游城市客流快速增长。十大国际航空枢纽日均机票预订量已超 49 万张，同比增长 3.9%。假期已安排加班 3768 班，运力投放重点聚焦西南、中南、华东等人员流动热点区域，预计日高峰航班量逼近 2 万班。",
+              "source_url": "https://www.ithome.com/1/007/135.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T12:45:31+08:00"
+              "published_at": "2026-09-25T14:31:47+08:00"
             },
             {
-              "title": "Claude Opus 5.5 约 1 小时从零开发 RTX 加速路径追踪器，支持多种材质与光照",
-              "brief": "有网友使用 Claude Opus 5.5，仅凭一条初始提示词，约 1 小时便从零构建出由 NVIDIA CUDA RTX 与 Blackwell 内核加速的路径追踪器。该演示使用两块 RTX 5090 显卡，展示漫反射、金属反射、光泽度、粗糙度、透明度、半透明与自发光等效果。渲染器采用双 GPU 分帧多适配器管线，横向切分每帧并依据实时负载调整任务分配，达到 34 FPS，每秒处理 2.67 亿次光线采样。渲染算法采用 Shader Execution Reordering 重组光线路径，并结合 Next-Event Estimation 与 Multiple Importance Sampling 处理光照分布与柔和阴影。媒体认为，即使不具备图形 API、着色器编译与并行执行专业知识，用户也能借助 AI 开发路径追踪器。",
-              "source_url": "https://www.ithome.com/1/007/115.htm",
+              "title": "全球首台全天候浮空器云哨 M1000-CNS 在川首发，可连续驻空五年",
+              "brief": "全球首台全天候浮空器云哨 M1000-CNS 在四川首发，采用光伏与储能一体化供电系统，可抵御风雨、冰雪、雷电等复杂天气，具备全天候作业能力。该产品将柔性升力体蒙皮与刚性载荷舱、能源及系留系统一体化承载，运行于千米级空域，最大承载 300 余公斤任务载荷，设计连续驻空时长五年，整体使用寿命 20 年。整合通信中继、导航增强、全域监视、气象探测与反制感知五大功能，单台有效覆盖约 2000 平方公里，导航差分增强精度达 20 厘米级。",
+              "source_url": "https://www.ithome.com/1/007/134.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T12:28:59+08:00"
+              "published_at": "2026-09-25T14:31:09+08:00"
             },
             {
-              "title": "育碧曾提议为任天堂开发《塞尔达传说》衍生作：以加侬多夫为主角，最终被否决",
-              "brief": "据报道，育碧曾向任天堂提议开发一款《塞尔达传说》世界观的全新衍生作品，而非续作或前传。项目由 Davide Soliani 领导，内部代号“歌利亚”，构想始于 2022 年底《马力欧 + 疯狂兔子 星耀之愿》发售后。任天堂在概念阶段要求将原创新主角替换为加侬多夫，这将是其首次成为核心可操控角色。团队于 2023 年初完成提案，约定年底交付原型，但任天堂在 2023 年 11 月底否决原型，项目终止。此后双方沟通逐步破裂，育碧米兰团队被拆分，部分高级开发者转入《超越善恶 2》。2024 年 7 月，Soliani 等人离开育碧，共同创立 Day 4 Night 工作室。",
-              "source_url": "https://www.ithome.com/1/007/114.htm",
+              "title": "蔚来 Cedar S 雪松系统 1.6.0 全量推送，智能座舱与辅助驾驶升级",
+              "brief": "蔚来 Cedar S 雪松智能系统 1.6.0 版本开启全量推送，带来多项功能新增与升级。中控屏新增桌面随挡位自动切换、五指抓握切换主题；HUD 新增极简模式与红绿灯倒计时显示；地图导航支持车道级收费站信息。声音体验新增听音模式与个性听感定制。娱乐生态新增沉浸播放器样式与艺人列表直达，NIO Radio 支持断点续播与跨端同步。EC6 新增赛道模式与电动尾翼进阶控制。辅助驾驶优化通行效率，雨天行车更稳，新增 NWM 高光时刻一键截取分享功能。",
+              "source_url": "https://www.ithome.com/1/007/133.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T12:28:37+08:00"
+              "published_at": "2026-09-25T14:24:29+08:00"
             },
             {
-              "title": "影石正布局 AI 眼镜，或采用“分体电池”设计",
-              "brief": "影石（Insta360）正在布局 AI 眼镜产品，相关方案或采用“分体电池”设计，以减轻用户头部负重、降低长时间佩戴压力。这一设计思路与当前主流 AI 眼镜将电池塞入镜腿的方案明显不同，更接近长时间佩戴拍摄的工程取向。目前关于该产品的具体形态、发布时间与功能细节尚未公布。近年来 AI 眼镜市场增长迅速，多家厂商相继入局，影石此举被视为其在智能影像硬件领域的进一步延伸。",
-              "source_url": "https://www.ithome.com/1/007/113.htm",
+              "title": "哈伊高铁 9 月 28 日开通运营，哈尔滨至伊春最快 1 小时 46 分钟",
+              "brief": "哈伊高铁将于 9 月 28 日开通运营，线路起自哈尔滨站，终至伊春市，全长 318 公里，设计时速 250 公里，全线设 9 座车站。开通初期每日安排动车组最高 38 列，哈尔滨至绥化南、铁力、伊春西最快分别 42 分钟、1 小时 14 分钟、1 小时 46 分钟可达。伊春西站为我国目前建成纬度最高的高铁车站。铁路部门将实施灵活折扣、差异化的市场化票价机制，具体票价可通过 12306 查询。线路开通后绥化、伊春等地迈入高铁时代。",
+              "source_url": "https://www.ithome.com/1/007/132.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T12:26:17+08:00"
+              "published_at": "2026-09-25T14:16:38+08:00"
             }
           ]
         },
@@ -412,6 +412,18 @@
               "source_url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
               "source_name": "IGN",
               "published_at": "2026-09-25T04:55:34+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "ChatGPT Pro Max订阅曝光：每月500美元、50倍额度",
+              "brief": "OpenAI正在准备ChatGPT Pro Max订阅，预计每月500美元并提供50倍使用额度。该订阅尚未正式推出，但前端源代码中已出现订阅层级名称，相关升级资源也在筹备中。目前ChatGPT套餐包括免费版、Go版8美元、Plus版20美元、Pro Lite版100美元5倍额度、Pro版200美元20倍额度。Pro Max的50倍额度有望满足高频开发者需求，避免注册多个账号管理切换的麻烦，现有套餐届时也可升级。",
+              "source_url": "https://www.landian.news/archives/127092.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-25T13:34:23+08:00"
             }
           ]
         }
