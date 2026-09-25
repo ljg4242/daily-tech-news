@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T06:52:03.019846+08:00",
+  "generated_at": "2026-09-25T08:52:41.239819+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "macOS Golden Gate 移除的功能及 macOS 28 的变化",
+              "brief": "macOS Golden Gate 停止支持 Intel Mac，成为首个仅运行于 Apple 芯片的 macOS 版本，Intel 机型只能停留在 macOS Tahoe，安全更新持续至 2028 年秋季。因不再支持 Intel，Boot Camp 助理被移除，运行 Windows 需借助 Parallels 或 VMware Fusion 等虚拟化软件。升级会移除 Rosetta，但可重新安装，该版本是最后一个完整支持 Rosetta 的 macOS。Apple Filing Protocol 客户端彻底消失，导致 Time Capsule 备份无法使用。AirPort 实用工具也不再预装。预计 2027 年秋季的 macOS 28 将基本放弃 Rosetta 2 支持。",
+              "source_url": "https://www.macrumors.com/2026/09/24/macos-golden-gate-features-removed/",
+              "source_name": "MacRumors",
+              "published_at": "2026-09-25T07:06:55+08:00"
+            },
             {
               "title": "TestFlight 应用新增 iOS 27 功能",
               "brief": "苹果今日将 TestFlight 应用更新至 4.4.0 版本，适用于 iOS、iPadOS、macOS 和 visionOS，新增对最新软件更新和产品功能的支持。为迎接 iPhone Duo 十月发布，iPhone 版 TestFlight 已支持横屏模式，该选项对所有 iPhone 开放。在运行 macOS 27 的 Mac 上通过 iPhone 镜像使用 iOS 27 的 iPhone 时，TestFlight 窗口现可调整大小。苹果表示此次更新还包含未具体说明的稳定性改进和错误修复。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/09/24/watchos-27-2-screenshot-previews/",
               "source_name": "MacRumors",
               "published_at": "2026-09-25T01:36:33+08:00"
-            },
-            {
-              "title": "Beats 360 耳机已在 Apple Store 上架销售",
-              "brief": "Beats 360 头戴式耳机今日起在全球多家 Apple Store 及百思买、塔吉特等零售商处开售。该产品本周早些时候正式发布，采用类似 AirPods Max 的包耳式设计，耳垫可更换以变换颜色。相比 Beats Studio Pro，其降噪能力提升最高 1.75 倍，音质也有所改进，并支持个性化空间音频、通透模式、自适应均衡、快速配对和自动设备切换。具备 IPX4 防汗防水，适合健身使用。售价 349.99 美元，10 月 31 日前加购耳垫优惠价 9.99 美元。",
-              "source_url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-09-25T01:14:22+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "罕见“天线门”发布会问答视频现身网络",
+              "brief": "2010年iPhone 4上市后，用户发现握持方式会影响信号，苹果为此召开紧急发布会。乔布斯解释信号下降并非iPhone 4独有，用户可免费领取保护壳或全额退款。会后乔布斯与时任COO库克及Mac硬件工程高级副总裁曼斯菲尔德接受媒体问答。本周，YouTube频道Sir Mix-A-Lot Rare Music发布了完整47分钟问答视频，此前该视频从未公开。目前不清楚频道如何获得视频，也不确定苹果是否会要求下架。若想观看这段苹果历史，建议尽早。",
+              "source_url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-25T08:31:14+08:00"
+            },
+            {
+              "title": "苹果与高通续签全球专利许可协议",
+              "brief": "苹果与高通关系曾一度紧张，2017年因专利许可与专利费问题对簿公堂，2019年和解并达成六年全球专利许可协议及多年芯片供应协议。该许可协议于2019年4月1日生效，苹果行使选择权延长至2027年3月。今日高通宣布双方再次续签，新协议将于2027年4月1日生效。高通表示很高兴延长与苹果的许可协议。",
+              "source_url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-25T07:51:06+08:00"
+            },
+            {
+              "title": "Apple Sports新增实时大满贯签表并扩展足球覆盖",
+              "brief": "Apple Sports应用自推出以来不断扩展，已覆盖170多个国家和地区并增加多项运动支持。本周更新至4.4版，足球方面新增澳大利亚A联赛男子、埃及超级联赛、以色列超级联赛和南非超级联赛。网球方面，用户可实时关注大满贯和1000级别赛事签表，查看每轮对阵与结果。苹果公布了完整更新说明，并询问用户是否使用Apple Sports。",
+              "source_url": "https://9to5mac.com/2026/09/24/apple-sports-adds-real-time-grand-slam-draws-expands-soccer-coverage/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-25T07:03:46+08:00"
+            },
             {
               "title": "M6 Mac mini 评测、苹果健身手环传闻与 AI 服务器",
               "brief": "本期节目讨论了 M6 Mac mini 评测、苹果无屏幕健身手环的传闻，以及苹果计划销售搭载 M8 Ultra 芯片的 AI 服务器。此外还提到苹果在伦敦开设新的 Apple Music 现场音乐场地、AirPods 5 发布、watchOS 27.0.1 修复 Apple Watch 漏洞，以及 iPhone 18 Pro 的 Face ID 问题导致系统崩溃重启，苹果表示下周将通过软件更新修复。节目还回顾了 Siri AI 在现实世界中的表现。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-25T03:55:15+08:00"
-            },
-            {
-              "title": "macOS 27 主要功能：远不止 Siri AI",
-              "brief": "macOS 27 带来多项与 Siri AI 无关的重要更新。几乎所有内置应用图标都经过调整，Siri、预览和棋类等图标完全重新设计，Finder、照片和提醒事项等也有明显改动，整体强调 Liquid Glass 设计语言。系统广泛支持 HDR，图标、工具栏等元素获得额外动态范围，HDR 显示器用户可明显感受到变化，并可用数字色度计查看。视频还通过滑块对比展示了各应用图标在 macOS Tahoe 与 macOS Golden Gate 中的差异。",
-              "source_url": "https://9to5mac.com/2026/09/24/macos-27-top-features-much-more-than-just-siri-ai-video/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-25T03:13:04+08:00"
-            },
-            {
-              "title": "苹果即将推出三款久候已久的新品",
-              "brief": "苹果预计将在十月发布三款备受期待的新产品。首先是全新MacBook Pro或MacBook Ultra，采用五年来首次全新工业设计，支持触控、配备OLED屏幕、灵动岛，并可能提供C2蜂窝网络选项。其次是新一代Apple TV 4K，搭载A19或A19 Pro芯片并支持Siri AI，现款已上市四年且涨价至199美元。第三是传闻已久的带屏HomePad，内置扬声器，运行融合iOS、tvOS和watchOS元素的新系统，支持Siri AI、摄像头和可定制小组件。",
-              "source_url": "https://9to5mac.com/2026/09/24/apple-has-three-products-launching-soon-that-weve-waited-a-long-time-for/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-25T02:09:32+08:00"
-            },
-            {
-              "title": "9to5Mac每日播报：2026年9月24日——iPhone Handoff与iOS 27更新",
-              "brief": "本期9to5Mac每日播客由Stuff赞助，讨论了多条苹果新闻：AT&T似乎无意支持苹果新的iPhone Handoff功能；Disney+和Hulu已涨价；苹果称修复iPhone 18 Pro重启漏洞的软件更新将于下周发布；部分用户的iPhone 18 Pro Face ID缺陷导致系统崩溃重启；iOS 27.0.1更新可能即将面向iPhone推送。节目可通过Apple Podcasts、Overcast等平台订阅收听。",
-              "source_url": "https://9to5mac.com/2026/09/24/9to5mac-daily-september-24-2026-iphone-handoff-ios-27-updates/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-25T01:36:23+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "CDC在不明原因延迟后开放各州订购新冠疫苗",
+              "brief": "在延迟近一个月后，美国卫生部门表示各州现可通过“儿童疫苗计划”订购本季新冠疫苗，该计划为低收入儿童免费提供免疫接种。特朗普政府仍未就延迟给出明确解释，引发外界对反疫苗的卫生部长小罗伯特·F·肯尼迪干预的担忧。Ars Technica此前报道，尽管食品药品监督管理局已于8月底批准这些疫苗，疾控中心仍未开放2026至2027年度新冠疫苗的订购。卫生与公众服务部当时称“疾控中心尚未最终确定采购决定”，并暗示官员正在质疑儿童是否应接种。",
+              "source_url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-25T06:29:48+08:00"
+            },
+            {
+              "title": "唐老鸭的叔叔部分原型是火箭科学家冯·布劳恩",
+              "brief": "65年前的1961年9月24日，迪士尼推出了“著名科学家、讲师、心理学家兼环球旅行家”路德维希·冯·德雷克。他是唐老鸭“才华横溢又古怪”的叔叔，被迪士尼本人称为“本世纪杰出天才”，在NBC每周日播出的《迪士尼奇妙彩色世界》中向数百万观众讲解科学原理与技术概念。几年后，冯·德雷克在1963年2月10日播出的《深入外太空》一集中，专门讲解了外太空知识，而他这个角色的灵感部分来自早期太空时代的火箭科学家。",
+              "source_url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-09-25T05:40:07+08:00"
+            },
+            {
               "title": "F-Droid 发布十年来最大更新：全新界面与更顺畅的应用安装",
               "brief": "F-Droid 宣布推出 2.0 版本，这是其官方应用商店十年来最大的一次更新。新客户端使用 Kotlin Compose 从零重写，响应速度更快，并可选支持 Android Material 主题，界面也大幅精简，重要功能更易访问。此次更新重点在于改善应用查找与安装体验，商店现收录数千款开源应用，搜索页提供防火墙、密码管理器、VPN 等细分分类，且不会追踪用户点击和安装来推送广告与推荐。",
               "source_url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
@@ -148,26 +162,33 @@
               "source_url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
               "source_name": "Ars Technica",
               "published_at": "2026-09-25T02:52:23+08:00"
-            },
-            {
-              "title": "乌克兰以机器人空投与排雷击败俄军钳形攻势",
-              "brief": "乌克兰军方机器人正从重型无人机上空投至俄军防线后方执行突击，同时其他机器人负责为推进的乌军步兵清除地雷。这些轮式地面机器人支援了乌克兰的“维瓦尔第行动”反攻，该行动已粉碎俄军钳形攻势并解放数十平方英里被占领土。乌克兰第三军团披露，2026 年 9 月 21 日在俄控区实施了“世界首次”机器人加无人机的空中突击，重型轰炸无人机将爆炸性地面机器人空投至俄军前线后方六英里以上。",
-              "source_url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-25T02:39:47+08:00"
-            },
-            {
-              "title": "新泽西州因无人机照片曝光 62 台燃气发电机对数据中心罚款 110 万美元",
-              "brief": "新泽西州责令东海岸最大规划数据中心之一的运营商 DataOne 支付 110 万美元罚款，原因是其违反该州《空气污染控制法》秘密安装并运行燃气发电机。《卫报》和 Floodlight News 的调查分享的热成像无人机画面显示，62 台燃气发电机中有 45 台正在运行，且均未取得所需许可，尽管其运行功率远超州限值。环保部门指出这些发电机排放的污染物可加重哮喘、诱发心脏病并导致过早死亡。DataOne 有 45 天时间申请许可，否则须停止运营。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-09-25T02:20:58+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Gemini 正在开发独立深色模式选项",
+              "brief": "Android Authority 在 Google 应用 17.61.19.sa.arm64 版本中发现，Gemini 正在开发新的深色模式控制功能，允许用户覆盖系统设置，强制 Gemini 保持浅色或深色模式。这些选项仅针对 Gemini 生效，不会影响 Google 应用其他部分的深色模式表现。此外，Gemini 还在开发新的通知历史记录界面，以改进通知支持。这些改动目前仍处于开发阶段，尚未正式上线。",
+              "source_url": "https://www.androidauthority.com/gemini-dark-mode-3715309/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T05:45:49+08:00"
+            },
+            {
+              "title": "Android Auto 或为 GameSnacks 提供全屏体验",
+              "brief": "Google 本周正式将 Android Auto 游戏移出测试阶段，但 GameSnacks 仍存在一个不一致之处：其他游戏可以全屏运行，而 GameSnacks 菜单和游戏画面旁边始终显示导航栏。在最新的 Android Auto 测试版中，Android Authority 成功激活了一项改动，使 GameSnacks 获得与其他游戏相同的沉浸式全屏效果，导航栏从主界面和游戏中消失。用户仍可下拉显示返回和退出按钮，退出后回到应用列表。",
+              "source_url": "https://www.androidauthority.com/gamesnacks-android-auto-immersive-apk-teardown-3715285/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T05:14:49+08:00"
+            },
+            {
+              "title": "Google 推出 Gemini Live Avatar 虚拟形象",
+              "brief": "Google 宣布推出 Gemini 3.8 Live with Live Avatar，将实时视频生成与语音模型结合，为企业客服机器人提供更具人格化的虚拟形象。该功能支持精确唇形同步、自然表情和流畅对话轮换，并可在 97 种语言间切换而不会降低视频质量。Live Avatar 由 Gemini 的高级推理和异步工具调用驱动，可在对话过程中后台触发工具调用并获取数据，例如在聊天时完成酒店入住办理。该功能面向企业场景推出。",
+              "source_url": "https://www.androidauthority.com/gemini-live-avatar-3715280/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-25T05:03:59+08:00"
+            },
             {
               "title": "Gemini桌面版或新增Tasks模式，可跨应用代你处理任务",
               "brief": "据报道，Google正在Gemini桌面应用中测试新的Tasks模式，界面加入Chat与Tasks切换，把普通对话与更具代理性的工作分开。新的Computer Use设置可让用户指定Gemini能操作和不能操作的桌面应用，从本地文件夹启动Gemini项目的选项也被提前。Tasks内还出现Gemini Live按钮，或允许用户在Gemini跨电脑工作时与其语音对话。该模式与ChatGPT的Chat与Work分工类似，显示Google希望桌面版Gemini不只是聊天，而是能直接替用户完成多步骤任务。",
@@ -181,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/android-17-qpr2-beta-6-3715276/",
               "source_name": "Android Authority",
               "published_at": "2026-09-25T04:32:39+08:00"
-            },
-            {
-              "title": "Nothing Headphone 1 Pro渲染图泄露，首度曝光高端头戴设计",
-              "brief": "Nothing下一款音频产品的渲染图已经泄露。WinFuture放出的图片显示，Headphone 1 Pro的整体设计与Headphone 1相近，最明显的视觉差异是透明元素，并至少提供黑色和白色两种配色。此次泄露距离此前规格曝光仅两周。早前消息称，这款耳机可能采用三单元驱动、支持LDAC、带头部追踪的空间音频、10个麦克风以及60小时播放时间。Nothing尚未正式公布Headphone 1 Pro，也没有确定的发布日期，但有传闻称可能在9月29日推出。",
-              "source_url": "https://www.androidauthority.com/nothing-headphone-1-pro-renders-3715240/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T03:46:58+08:00"
-            },
-            {
-              "title": "Googlebook笔记本预订开启数日后，Google商店已售罄",
-              "brief": "Google美国在线商店在Googlebook预订开启仅数日后，就已售罄可预订库存。Acer、Dell和Lenovo的Googlebook在该商店均显示无法预订，暗示需求超出预期或初期备货有限。百思买目前仍可预订，产品将于10月4日发售。预订于9月21日才开放，但几天后Google自家商店的库存就耗尽。有Reddit用户多次查看后发现所有在售型号均已售罄，其他人也表示转投百思买成功下单。Google商店仅直接销售这三款Googlebook，首批还包括惠普和华硕机型。",
-              "source_url": "https://www.androidauthority.com/googlebooks-sold-out-on-google-store-3715225/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T03:45:59+08:00"
-            },
-            {
-              "title": "Digital Wellbeing或新增国旗问答小游戏，与数字健康初衷相悖",
-              "brief": "Android的Digital Wellbeing工具即将迎来十周年，近期迹象显示Google正对该应用进行大改版，可能移除步行检测等旧功能，同时加入新内容，其中包括一个令人费解的迷你游戏。在Digital Wellbeing 1.48.975819457.beta版本中，开发者正在构建某种国旗问答游戏：每轮展示一面国旗和四个国家选项，左上角三颗心代表生命值，答错扣一颗，右上角奖杯显示最高分。Digital Wellbeing此前从未提供类似内容，也不清楚这一体验如何与其正念目标相契合。",
-              "source_url": "https://www.androidauthority.com/digital-wellbeing-flag-game-3715179/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-25T03:40:52+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Meta员工在儿童安全信息披露诉讼中订购“律师-客户保密特权”帽子",
+              "brief": "在有关Meta涉嫌损害青少年安全与心理健康的持续诉讼中，Meta律师主张部分证据应基于律师-客户保密特权而不予公开。起诉Meta的律师本周指出，该特权标签被过度宽泛使用，并援引一份近期解封的文件显示，2024年负责推出Instagram青少年账户的团队曾订购印有“a/c priv”字样的棒球帽。原告律师认为，这款属于“Project Nido”团队周边的帽子，体现了Meta“滥用特权的文化”。",
+              "source_url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+              "source_name": "The Verge",
+              "published_at": "2026-09-24T19:50:55-04:00"
+            },
+            {
+              "title": "高通新款“Elite”音频芯片或终将实现Wi-Fi耳机梦想",
+              "brief": "高通发布Snapdragon Sound Elite Gen 2，首次将“微功耗Wi-Fi 6E”集成到主芯片中，使无线耳机或音频眼镜可直接连接家庭Wi-Fi网络并接入云端，从而流式传输高品质无损音频，不再因手机留在充电器上或埋在沙发里而中断。高通此前在2023年曾以“S7 Pro音频平台”和XPAN技术作出类似承诺，但旧款7系平台需要独立Wi-Fi芯片，效果并不理想。新芯片还支持面向“智能可穿戴听觉设备”的AI功能。",
+              "source_url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+              "source_name": "The Verge",
+              "published_at": "2026-09-24T19:42:39-04:00"
+            },
             {
               "title": "微软将公关传播部门划归布拉德·史密斯管辖",
               "brief": "微软将其传播团队从市场营销部门转移到企业、对外及法律事务组织（CELA），由副董事长兼总裁布拉德·史密斯负责监管传播工作。公司正在寻找首席传播官弗兰克·肖的继任者，肖将于今年晚些时候离职。微软CEO萨蒂亚·纳德拉在内部备忘录中感谢肖为微软所做的一切。肖本月初宣布，在支持公司传播工作近三十年后离开微软。全球公共事务副总裁布伦特·科尔本被任命为临时传播负责人，以帮助应对纳德拉所称的日益复杂的媒体环境。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-09-24T14:19:23-04:00"
-            },
-            {
-              "title": "黄仁勋谈AI与气候变化像反派",
-              "brief": "英伟达CEO黄仁勋在《Ezra Klein秀》最新一期节目中谈论了能源的未来以及AI对地球的影响。他表示，AI可以帮助应对气候变化，但前提是必须先造成“巨大的痛苦和苦难”。文章认为，他的言论与多位科技领袖及总统特朗普所宣扬的加速主义论调如出一辙，即承诺AI将给人类带来巨大福祉，因此值得承受数据中心目前使用高污染能源所造成的损害。文章指出，黄仁勋在采访中表现出的极度特权感尤为刺眼，人们已经在遭受火灾和洪水之苦。",
-              "source_url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-              "source_name": "The Verge",
-              "published_at": "2026-09-24T14:04:44-04:00"
-            },
-            {
-              "title": "Meta将让你在手机上用AI做游戏",
-              "brief": "Meta为吸引人们为其Horizon社交平台制作游戏推出了新计划。公司宣布了两款开发工具，让用户通过AI提示词创建游戏：手机应用Horizon Create和提供更精细控制的浏览器应用Horizon Studio。这两款应用将以抢先体验形式推出，感兴趣的用户可以加入等待名单。Horizon作为平台一直举步维艰，但Meta计划让这些新游戏获得更大的曝光：用Horizon Create和Studio发布的游戏将在Facebook和Instagram上获得推荐，并可直接游玩。用户刷到游戏片段后无需下载应用即可在数秒内进入多人游戏。",
-              "source_url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-              "source_name": "The Verge",
-              "published_at": "2026-09-24T13:52:29-04:00"
             }
           ]
         }
@@ -339,39 +339,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为乾崑智驾ADS 5公布9月版本更新亮点，升级AR人找车与实时对讲",
-              "brief": "华为公布乾崑智驾ADS 5系统9月版本更新内容。领航体验方面，升级组队出行，支持创建或加入出行队伍并实时显示全员位置，可一键跟随队长同步导航；新增队内实时语音对讲，支持多人同时发言；导航搜索拓展至自车周边与目的地两大场景，并优化导航气泡实时提醒、充电站信息展示，中控转向灯激活影像尺寸支持三档调节并记忆。泊车体验新增AR人找车功能，可通过乾崑App实现AR一键定位与实时导航，跨层及室外均可精准锁定车辆位置，ADS界面渲染同步焕新，园区支持电梯厅标识与停车场分区颜色显示。",
-              "source_url": "https://www.ithome.com/1/007/047.htm",
+              "title": "谷歌Gemini 3.8 Live虚拟人上线：实时唇形同步，无缝切换97种语言",
+              "brief": "谷歌为Gemini 3.8 Live推出Live Avatar虚拟人功能，实现精准唇形同步、自然表情与流畅对话轮次切换。该功能依托Gemini高级推理能力，可通过异步工具调用在后台获取数据而不中断对话。它支持原生多语言语音同步，能在97种语言间无缝切换，不降低视频保真度。除预设形象库外，企业还可通过高质量参考图像自定义虚拟形象，保留品牌风格与角色特征，目前仅对企业白名单用户开放。所有AI生成内容均通过SynthID嵌入隐形水印。该功能已在Gemini Enterprise上线。",
+              "source_url": "https://www.ithome.com/1/007/043.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T01:51:11+08:00"
+              "published_at": "2026-09-25T08:39:17+08:00"
             },
             {
-              "title": "华为音悦家App获6.0.0.340尝鲜升级，新适配MatePad 11.5 S 2025等机型",
-              "brief": "华为自研音乐创作App音悦家迎来6.0.0.340尝鲜升级，新适配MatePad 11.5 S 2025等机型。音悦家覆盖作曲、录音、编曲、混音四大数字音乐创作核心场景，主打200余种中西方经典乐器，于今年6月1日开启公测。由于对设备硬件性能要求较高，该App仅部分HarmonyOS 6.1及以上设备支持下载，官网同步公布了各产品系列的支持计划。华为终端平板与PC产品线总裁朱懂东曾表示，专业音乐编创软件基本没有商业闭环，华为投入两三年后才意识到这类应用属于纯投入，但仍坚持将古典乐器搬进软件。",
-              "source_url": "https://www.ithome.com/1/007/046.htm",
+              "title": "Meta推出2款AI工具，让用户在手机端直接构建游戏",
+              "brief": "Meta发布两款AI工具，允许用户在手机端直接构建游戏。此举旨在降低游戏开发门槛，让普通用户无需专业编程技能即可借助AI生成游戏内容，进一步扩展移动端创作生态。",
+              "source_url": "https://www.ithome.com/1/007/068.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T01:27:54+08:00"
+              "published_at": "2026-09-25T08:34:51+08:00"
             },
             {
-              "title": "微信鸿蒙版App获8.0.22.33邀测升级，新增服务号收纳功能",
-              "brief": "微信鸿蒙版App在华为应用市场开启8.0.22.33版本邀测升级，测试时间为2026年9月22日至10月22日，更新说明仍为修复已知问题。据用户反馈，该版本新增个人资料发票抬头、聊天界面点击时间切换日期星期显示、好友更多信息备注、视频号最近看过记录开关、直播分享推荐给朋友、游戏缓存清理等功能，并支持长按选择文字复制翻译搜一搜。此外还灰度联系人界面公众号服务号折叠、钱包客服中心订单选择工具，并全量上线服务号收纳功能，支持服务号消息整合进服务号模块。微信鸿蒙版安装量已突破7000万。",
-              "source_url": "https://www.ithome.com/1/007/045.htm",
+              "title": "传音Infinix推出GT NX移动游戏外设：触控板手柄与散热扩展坞",
+              "brief": "传音旗下Infinix推出GT NX移动游戏外设，包含触控板手柄与GT NX Station扩展坞。手柄采用三芯片低延迟架构，实现毫秒级直连，续航超22小时；玻璃触控板支持滑动和鼠标两种模式，可映射为MOBA技能按键，具备三级触觉反馈。GT NX Station集成上行线材，提供USB-C、两个USB-A、HDMI、RJ-45、3.5mm音频插孔、microSD读卡器及USB PD-in供电输出口，兼具扩展与散热功能。",
+              "source_url": "https://www.ithome.com/1/007/067.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T01:19:31+08:00"
+              "published_at": "2026-09-25T08:31:36+08:00"
             },
             {
-              "title": "R星公布《GTA6》400美元收藏礼盒：含手办、太阳镜等周边，不含游戏本体",
-              "brief": "R星官宣《GTA6》收藏礼盒，售价400美元，不含游戏本体。礼盒内含鳄鱼麦加手办、Oakley Frogskins太阳镜、雷奥奈达礁岛群斜挎包、New Era 9FORTY卡扣棒球帽、鳄鱼麦加磁吸镜、海牛胖墩小酒杯、罪恶城收藏版搅拌勺、罪恶城剃刀钥匙链、金属盒装九个珐琅徽章、九张揭开即贴乙烯基贴纸，以及正面绘有《鳄鱼麦加》角色、背面为雷奥奈达完整地图的双面纪念品海报。",
-              "source_url": "https://www.ithome.com/1/007/042.htm",
+              "title": "英特尔Arc显卡驱动32.0.101.9033 Beta版发布：支持《控制：共振》",
+              "brief": "英特尔发布Arc显卡驱动32.0.101.9033 Beta版，新增对《控制：共振》的游戏支持，该作为《控制》系列最新续作，于当日正式发售。驱动包包含Intel显卡驱动、Media SDK Runtime 21.0.1.35、oneVPL GPU Runtime 21.0.2.17等组件，支持DX12、Vulkan 1.4、OpenGL 4.6等API，兼容Windows 10 22H2至Windows 11 25H2，覆盖Arc全系列独显及酷睿Ultra全系列集成Arc核显处理器。官方同时列出多款游戏在Ultra 1/2/3代及Arc A/B系列上的已知崩溃问题。",
+              "source_url": "https://www.ithome.com/1/007/048.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T23:34:22+08:00"
+              "published_at": "2026-09-25T08:19:11+08:00"
             },
             {
-              "title": "育碧编剧透露《超越善恶2》仍在积极开发中",
-              "brief": "育碧编剧透露，《超越善恶2》游戏仍在积极开发中。据官方介绍，该作是一款动作冒险RPG，玩家可单人游玩，也可与好友合作游玩。外媒Insider Gaming此前透露，游戏开发团队目前仍保持完整。尽管这款游戏开发周期漫长、记录惊人，育碧仍认为《超越善恶2》具备继续推进价值。",
-              "source_url": "https://www.ithome.com/1/007/041.htm",
+              "title": "苹果Apple Watch Ultra 4部分表盘支持身体状态准备指数评分",
+              "brief": "苹果为Apple Watch Series 12和Apple Watch Ultra 4新增“身体状态准备指数”（Readiness）应用，利用健身活动、生命体征和睡眠评分等数据为用户提供评分。在Apple Watch Ultra 4上，Modular Ultra和新款Siri Modular两款支持表圈配置的表盘已可显示该评分，用户可选择设置为无、秒、深度、海拔、训练或准备状态等选项。",
+              "source_url": "https://www.ithome.com/1/007/065.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-24T23:18:47+08:00"
+              "published_at": "2026-09-25T08:16:33+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "罗伯特·帕丁森对蝙蝠侠与古恩版超人联动表示怀疑",
-              "brief": "帕丁森在接受LADbible采访时表示，将他所饰演的黑暗写实版蝙蝠侠放入詹姆斯·古恩更轻松、更奇幻的DC宇宙会很困难。他认为这个版本的布鲁斯很难脱离原有世界，因为拍摄周期长、风格特定，那种黑暗氛围会深入影响演员，让人在数月内情绪和视觉上都处于黑暗之中。粉丝们对帕丁森是否应同时在古恩主DC宇宙中饰演蝙蝠侠一直存在分歧，而帕丁森似乎认为保持独立更为合理。古恩曾透露正在开发一部以年长布鲁斯·韦恩为主角、达米安·韦恩为搭档的蝙蝠侠电影，但相关进展甚少。",
-              "source_url": "https://www.ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman",
+              "title": "《ARC Raiders》即将测试PvE模式",
+              "brief": "Embark Studios宣布，《ARC Raiders》很快将测试PvE模式，玩家可在能互相攻击与无法造成伤害的大厅之间自由切换，目的是让玩家完全脱离PvP玩法。PvE中战利品价值更低，因为风险较小。ARC仍会攻击倒地玩家以制造紧张感，但玩家保持不动就会被AI忽略。团队将监测玩家经济与匹配时间，并强调这并非无风险测试，因初版《ARC Raiders》本就是PvE游戏，他们担心加入切换会削弱紧张感，但也需尊重玩家按自己方式享受游戏。",
+              "source_url": "https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon",
               "source_name": "IGN",
-              "published_at": "2026-09-25T03:36:38+08:00"
+              "published_at": "2026-09-25T06:24:51+08:00"
             },
             {
-              "title": "蜘蛛侠演员雅各布·巴塔隆谈克雷顿最爱火影何处，第七班或成电影核心",
-              "brief": "在《蜘蛛侠》系列中饰演内德的雅各布·巴塔隆于9月19日做客Crunchyroll的《动漫效应》播客，谈及德斯汀·丹尼尔·克雷顿执导的真人版《火影忍者》电影。巴塔隆认为，克雷顿最欣赏的是第七班的起源故事，即鸣人、佐助、小樱和卡卡西组成的核心团队。他指出，将特定IP改编为面向大众的电影时，从观众能理解的起源故事入手非常重要，因此第七班的成长历程可能成为影片主线。巴塔隆也笑称自己并不确定克雷顿最终会如何呈现，对方甚至可能把大蛇丸变成主角。目前已有报道称查尔斯·梅尔顿正洽谈饰演卡卡西。",
-              "source_url": "https://www.ign.com/articles/spider-mans-jacob-batalon-explains-what-destin-daniel-cretton-likes-most-about-naruto-and-why-team-7-could-be-the-movies-focus",
+              "title": "育碧曾差点做一款以加农多夫为主角的塞尔达游戏",
+              "brief": "据Insider Gaming的Tom Henderson报道，育碧米兰曾有一个内部代号为“Goliath”的项目，计划在《塞尔达传说》宇宙中推出一款衍生游戏，采用全新角色。但在早期概念阶段，任天堂据称要求将主角改为系列终极反派加农多夫，这原本会是加农多夫首次成为塞尔达游戏的中心可玩角色。育碧米兰被要求在2023年底前拿出原型，但任天堂最终拒绝了提案，原因不明。该工作室此前曾开发广受好评的《马力欧+疯狂兔子 星耀之愿》。",
+              "source_url": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
               "source_name": "IGN",
-              "published_at": "2026-09-25T03:19:16+08:00"
+              "published_at": "2026-09-25T06:00:12+08:00"
             },
             {
-              "title": "Bungie公布《Marathon》重大改动详情",
-              "brief": "Bungie在推特上详细介绍了《Marathon》的新玩法。原有的撤离模式将继续保留，同时新增团队死斗模式以及类似《命运》的PvE模式。教程关卡Perimeter也将扩展，规模接近其他完整区域，以降低新玩家的门槛，让他们逐步过渡到颇具争议的传统撤离模式。这些内容将分批推出：十月先更新Nightfall，十二月推出Symbiosis更新，带来首个永久PvE模式和团队死斗；三月一周年时还将推出更大规模更新，把各模式串联起来，并加入全新新手引导体验。",
-              "source_url": "https://www.ign.com/articles/bungie-finally-details-radical-changes-for-marathon",
+              "title": "这款温馨裁缝游戏正占领Steam畅销榜",
+              "brief": "《Dressmaker》发售后迅速走红，截至9月24日已升至Steam畅销榜第十位，并获“好评如潮”评价，2177条用户评测中96%为正面。它一度超过《暗黑破坏神4》，甚至短暂压过《漫威争锋》。其成功引发社交媒体讨论：面向特定受众的小众游戏也能大卖，而不少AAA作品却显得千篇一律。该作由Cozy Lives开发、Free Lives发行，玩家经营裁缝店，为顾客设计和缝制礼服，还能“破坏”客户关系以提高风险。",
+              "source_url": "https://www.ign.com/articles/this-cozy-dressmaking-game-is-taking-over-steams-top-sellers-list",
               "source_name": "IGN",
-              "published_at": "2026-09-25T02:17:42+08:00"
+              "published_at": "2026-09-25T05:06:20+08:00"
             },
             {
-              "title": "《反恐精英》联合创始人爆料：Gabe Newell痴迷蒙古呼麦，员工关门避噪",
-              "brief": "《反恐精英》联合创始人Minh Le在采访中爆料，Gabe Newell曾在Valve总部痴迷于蒙古呼麦。他看了相关纪录片后开始练习这种图瓦人称为Khöömei的喉音唱法，每天在走廊里边走边唱。由于声音很大，不少员工感到烦躁，纷纷关上办公室的门，办公区一度变得相当封闭。Le表示这种状况大约持续了五个月。呼麦是一种运用循环呼吸同时发出两个以上音高的技巧，曾出现在《沙丘》等影视作品中。Le并非唯一提到这件事的Valve老员工。",
-              "source_url": "https://www.ign.com/articles/counter-strike-co-creator-says-gabe-newell-got-so-obsessed-with-mongolian-throat-singing-at-valve-hq-that-staff-started-closing-their-office-doors-to-escape-the-noise",
+              "title": "Xbox称《GTA 6》预购份额与主机市场份额相符",
+              "brief": "在Xbox本周裁员与重组后，The Verge的Tom Warren称PS5在《GTA 6》预购中占据主导，为Xbox平台“敲响更多警钟”。但Xbox首席战略官Matthew Ball表示微软对预购“非常满意”，内部数据显示预购份额与主机市场份额相符。索尼已公布PS5销量超9500万台，而微软多年未公布Xbox Series X|S销量，分析师认为PS5至少以2:1领先。索尼与Rockstar的合作也推动预购向PS5倾斜，包括PS5版实机、营销素材和定制UI等。",
+              "source_url": "https://www.ign.com/articles/xbox-says-its-share-of-gta-6-preorders-matches-its-share-of-the-console-market-following-ps5-dominance-claim",
               "source_name": "IGN",
-              "published_at": "2026-09-25T02:03:28+08:00"
+              "published_at": "2026-09-25T04:55:34+08:00"
             },
             {
-              "title": "《GTA 6》400美元典藏套装引玩家不满，被拿来与《荒野大镖客2》对比",
-              "brief": "Rockstar公布了售价400美元的《GTA 6》典藏套装，内含多件高端周边，却不包含游戏本体，引发玩家不满。套装中包含一副Oakley太阳镜，而该品牌太阳镜通常售价150至200美元，定制款可能更贵，被认为是推高价格的原因之一。这是Rockstar迄今最贵的典藏版，连铁杆粉丝也不愿买单。有玩家表示宁愿单独购买喜欢的周边，也不想为高价太阳镜付费。还有人拿《荒野大镖客2》售价100美元、同样不含游戏的典藏盒作对比，认为后者内容更丰富、性价比更高。",
-              "source_url": "https://www.ign.com/articles/gta-6-fans-are-outraged-by-400-collectors-set-and-are-comparing-it-to-red-dead-redemption-2s-version",
+              "title": "新《电锯惊魂》电影选定迈克·P·尼尔森执导",
+              "brief": "曾执导《致命弯道》重启版和《平安夜，杀人夜》的迈克·P·尼尔森将执导下一部《电锯惊魂》电影。剧本由Gregory Weidman与Geoff Tock撰写，温子仁、杰森·布伦和雷·沃纳尔担任制片。温子仁称赞尼尔森拥有原始而独特的电影声音，能为系列带来特别的东西。尼尔森表示能参与这个扭曲的沙盒是梦想成真。目前剧情尚不明确，《电锯惊魂10》曾为更多前传留门，但据称创作分歧导致续集停滞，原班创意人员已离开。",
+              "source_url": "https://www.ign.com/articles/new-saw-movie-taps-mike-p-nelson-to-direct",
               "source_name": "IGN",
-              "published_at": "2026-09-25T01:21:14+08:00"
+              "published_at": "2026-09-25T04:29:59+08:00"
             }
           ]
         }
