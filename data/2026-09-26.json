@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T06:52:06.092317+08:00",
+  "generated_at": "2026-09-26T08:51:52.749038+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "macOS 27 为常用应用带来全新 Apple Intelligence 功能",
+              "brief": "苹果在数月测试后正式向公众发布 macOS 27 Golden Gate，本次更新以 Siri AI 为核心，同时为多款 Mac 自带应用加入 Apple Intelligence 增强功能。照片应用新增空间重构、扩展图像以及更强版清理工具；Safari 支持按主题自动分组标签页、网站变更推送通知，并可通过自然语言描述创建扩展；快捷指令可用自然语言生成并迭代自动化流程；Finder 在命名文件或文件夹时也能获得智能建议。",
+              "source_url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-26T07:24:55+08:00"
+            },
+            {
+              "title": "苹果尺寸图纸展现其产品设计的迷人细节",
+              "brief": "Jason Kottke 近日发文推荐苹果开发者网站配件专区中的尺寸图纸板块。该资料库收录了目前约 96 款设备的极详细技术图纸，包括新款 iPhone 18 Pro、Apple Watch Ultra 4 与 Series 12、AirPods 5，以及 MacBook Neo、Siri Remote、AirTag、AirPods 充电盒乃至 Vision Pro 的蔡司光学插片。每份文件均标注设备整体尺寸、曲线、按键、摄像头、传感器、扬声器和接口的精确数据，并附有禁布区与材料放置说明，主要面向配件厂商，也适合对硬件与工业设计感兴趣的读者。",
+              "source_url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-09-26T07:07:09+08:00"
+            },
+            {
               "title": "TestFlight 新增横屏支持，苹果为 iPhone Duo 铺路",
               "brief": "苹果本周更新 TestFlight 至 4.4.0 版本，新增 iPhone 横屏支持，并可在运行 macOS 27 Golden Gate 及更高版本的 Mac 上通过 iPhone 镜像调整窗口尺寸。横屏模式下，TestFlight 由单列应用列表改为双列布局，应用详情页也利用额外横向空间，将应用与开发者信息面板并排显示在“待测试”“预览”和“应用描述”下方。此前 macOS 27 已支持 iPhone 镜像窗口多种宽高比，被视为苹果为折叠屏 iPhone 做准备。iPhone Duo 将于 10 月 16 日开启预售，10 月 23 日发售，起售价 1999 美元，配备 5.4 英寸外屏和 7.6 英寸可折叠内屏。",
               "source_url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
               "source_name": "9to5Mac",
               "published_at": "2026-09-26T04:08:16+08:00"
-            },
-            {
-              "title": "9to5Mac Overtime 083：iPod Shuffle 风格",
-              "brief": "本期9to5Mac Overtime视频播客由Fernando Silva和Jeff Benjamin主持，围绕苹果生态中的有趣观察展开。节目讨论了iPhone 18 Pro、新款Apple Watch Series 12和Apple Watch Ultra 4，还谈及M6 Mac mini第三方SSD升级方面令人失望的消息。Overtime是一档每周更新的视频优先播客，可通过Apple Podcasts和YouTube频道订阅。节目还推荐了AirPods Pro 3等常用设备，并提供主持人链接、订阅方式和YouTube会员福利等信息。",
-              "source_url": "https://9to5mac.com/2026/09/25/9to5mac-overtime-083-ipod-shuffle-vibes/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-26T04:00:00+08:00"
-            },
-            {
-              "title": "Apple Card在iOS 27中新增每张卡都该有的功能",
-              "brief": "iOS 27为Apple Card用户带来一项新功能，可将定期交易集中显示。在钱包App中查看Apple Card时，右上角三点菜单内新增“定期”选项，点击后能看到即将发生的定期交易列表，还支持月历视图，方便一眼看清每笔扣款预计何时发生。该功能根据Apple Card交易历史列出定期交易，因此未必能捕捉全部项目。钱包App提示称，显示的日期和金额基于交易历史预测，可能并不完全准确，日常消费也可能被误标为定期交易；若出现错误可轻松更正。作者希望这一功能能促使更多信用卡和银行效仿。",
-              "source_url": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-09-26T03:19:06+08:00"
             }
           ]
         },
@@ -358,39 +358,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果补发 tvOS 27 更新日志：Apple Music 新增 AutoMix，播客支持视频",
-              "brief": "苹果补发 tvOS 27 更新日志，此次更新增强了 Apple Music、播客和 AirPlay 体验，并为更多内容添加字幕，新增屏蔽单个应用功能，修复 Apple TV 4K 错误并提供安全更新。Apple Music 支持高解析度无损音频，AutoMix 可通过时间拉伸和节拍匹配像 DJ 一样平滑过渡歌曲。重新设计的播客应用可呈现视频内容，AirPlay 连接更快更灵敏，方便从 iPhone、iPad 或 Mac 向 Apple TV 分享照片、视频和音乐。无标准字幕时可通过转录音频帮助用户跟上内容，辅助功能支持动态文本大小，设置中可阻止启动特定应用。",
-              "source_url": "https://www.ithome.com/1/007/258.htm",
+              "title": "苹果 Apple TV 4K 第四代曝光：A17 Pro 芯片与 8GB 内存",
+              "brief": "苹果 Apple TV 4K 第四代曝光，距现款发布已达 1439 天，超过苹果最长迭代空窗期纪录 1337 天。新品将采用 A17 Pro 芯片和 8GB 内存，支持 Apple Intelligence 与 Siri AI，并集成自研 N1 芯片，支持 Wi-Fi 7。Siri AI 被视为核心功能，tvOS 27 预计新增设备端 Siri 应用，具备更强理解与个性化能力，可回答更复杂问题。媒体预估苹果可能在 10 月发布这款新产品。",
+              "source_url": "https://www.ithome.com/1/007/285.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-26T06:45:39+08:00"
+              "published_at": "2026-09-26T08:22:13+08:00"
             },
             {
-              "title": "联想推出小新 14 / 16 SE 2026 笔电：酷睿 5 320 搭配 WUXGA 低色域屏幕",
-              "brief": "联想推出小新 14 / 16 SE 2026 笔记本电脑，采用 WUXGA（1920×1200）分辨率、60Hz 刷新率、45% NTSC 低色域、400nits 亮度屏幕，配备铝合金上盖和 50Whr 电池。14 英寸型号重约 1.39kg，16 英寸型号重约 1.68kg。新品搭载高性能导热材料、大直径热管和轻音风扇，配备 1.3mm 长键程键盘、HD 摄像头和矩阵式麦克风，支持 Wi-Fi 6，外部提供 2 个 USB-A 5Gbps、1 个全功能 USB-C、HDMI、SD 读卡器和 3.5mm 音频插孔。",
-              "source_url": "https://www.ithome.com/1/007/257.htm",
+              "title": "Steam 客户端 Beta 版更新：优化多模块功能并修复多项问题",
+              "brief": "Valve 推送 Steam 客户端 Beta 版更新，优化通知文本排版，大屏幕模式 Overlay 中鼠标默认隐藏，检测到移动后才显示；修复屏幕键盘打开时触控板输入异常。Steam Input 提高 Steam Deck 与 Steam Controller 触控板灵敏度一致性，修复虚拟菜单激活类型显示错误，新增重新排序控制器对话框，但会临时断开控制器。远程畅玩提升 Windows 串流色彩准确性，修复 Linux 下鼠标光标和 PipeWire 捕获锁定问题，降低延迟，新增编码性能日志选项。更新仅面向 Beta 通道。",
+              "source_url": "https://www.ithome.com/1/007/284.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-26T06:42:52+08:00"
+              "published_at": "2026-09-26T08:20:27+08:00"
             },
             {
-              "title": "Anthropic 为 Claude 上线“限时免费额度重置”功能，每位用户仅可使用一次",
-              "brief": "Anthropic 为 Claude 上线限时免费额度重置功能，付费即可刷新每周额度；如果用户同时触及 5 小时使用上限，该限制也会一并重置。点击按钮不会改变原本的额度刷新周期，重置后获得的新额度仍按原有时间表在下一周到期。该福利有两项限制：每名用户只能免费重置一次，且功能仅开放至 10 月 22 日，之后是否继续提供尚未明确。此举可能与推广 Opus 5.5 有关，希望用户通过额外额度体验新模型并考虑订阅。",
-              "source_url": "https://www.ithome.com/1/007/256.htm",
+              "title": "R 星《GTA6》收藏礼盒引不满，玩家 3D 打印鳄鱼麦加手办",
+              "brief": "Rockstar 公布《GTA6》官方收藏礼盒后，不少用户吐槽价格昂贵、内容缺乏诚意。有玩家开始自行 3D 打印其中的主要收藏品鳄鱼麦加手办，该手办呈享用烟卷和火烈鸟血红马天尼姿态，附可拧开底座用于储物。外媒指出，仅个人收藏暂无大碍，但若将 3D 模型或打印成品用于商业销售，可能面临 Take-Two 版权或知识产权维权。目前已有用户将设计放上公开平台，其他收藏品是否会被复刻尚待观察。",
+              "source_url": "https://www.ithome.com/1/007/283.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-26T06:37:01+08:00"
+              "published_at": "2026-09-26T08:18:08+08:00"
             },
             {
-              "title": "微软发布 Win11 Beta / Experimental 频道多个预览版：开始菜单优化手机助手，新增能源推荐",
-              "brief": "微软面向 Windows 11 预览体验计划发布多个预览版，涉及 26H2 Build 26340.9577 Beta、26H1 Build 28020.3112 Experimental 和 26H1 Build 28120.3122，本次更新仅针对 Experimental 频道推出新功能。开始菜单中的手机伴侣现在可展示更多最新活动内容，新增可滚动侧窗格，用户无需离开开始菜单即可查看更多信息。快速设置新增能源推荐，预览体验成员可直接查看并采取措施减少能源消耗，提升设备可持续性。",
-              "source_url": "https://www.ithome.com/1/007/255.htm",
+              "title": "飞利浦 27M2N3500FW 显示器发售：2K 260Hz 双模 949 元",
+              "brief": "飞利浦 27M2N3500FW 27 英寸显示器发售，售价 949 元。该机支持双模显示，可在 2K 260Hz 与 720P 400Hz 之间切换，对比度 4000:1，HDR 峰值亮度 450 尼特，GtG 响应速度 1ms，覆盖 99% sRGB、95% DCI-P3、93% AdobeRGB 色域。支架支持倾斜，显示器本体支持 VESA 100x100mm，提供 HDMI 2.0、DP 1.4 和 3.5mm 音频接口。",
+              "source_url": "https://www.ithome.com/1/007/282.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-26T01:03:34+08:00"
+              "published_at": "2026-09-26T08:05:26+08:00"
             },
             {
-              "title": "比尔·盖茨呼吁美国立法监管AI开发：仅靠行业自律远远不够",
-              "brief": "比尔·盖茨在采访中呼吁美国通过立法监管AI开发，认为执法部门和政界人士必须参与，讨论安全措施与监督方式，且要求必须具有强制性。他承认这会增加行业负担，但不会显著拖慢工作。盖茨未否认AI可能在几年内毁灭人类的风险，并提醒恶意群体现在就有能力借助AI造成大规模伤亡，称将怀有恶意的人与最新AI工具结合的危险超过以往任何武器。此前他曾警示各国政府尚未准备好应对AI带来的社会变革。",
-              "source_url": "https://www.ithome.com/1/007/253.htm",
+              "title": "苹果公开 iPhone 18 Pro 等尺寸图纸，已收录 96 款设备",
+              "brief": "苹果在开发者网站配件专区设立立体图纸资源库，当前收录 96 款设备技术图纸，包括 iPhone 18 Pro、iPhone 18 Pro Max 和 AirPods 5 等。每份图纸提供设备整体尺寸、曲面半径、按键行程等精确数值，并标注摄像头、传感器、扬声器、接口等关键部件位置与尺寸。图纸还包含禁放区说明，指示不得覆盖特定材料的区域，以避免配件遮挡天线、传感器或影响散热与无线充电。该资源库主要面向配件制造商。",
+              "source_url": "https://www.ithome.com/1/007/281.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-25T23:48:28+08:00"
+              "published_at": "2026-09-26T08:03:47+08:00"
             }
           ]
         },
