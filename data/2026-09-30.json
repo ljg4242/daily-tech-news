@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T10:52:04.323583+08:00",
+  "generated_at": "2026-09-30T12:52:07.604760+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "谷歌为 Pixel 11 Pro 的 HiLight LED 增加消息通知支持",
+              "brief": "Android 17 QPR2 Beta 6.1 为 Pixel 11 Pro 的 HiLight LED 加入消息支持。启用后，收到收藏联系人的消息时，HiLight LED 会闪烁两次。该选项位于设置 > 系统 > HiLight 的“Manage Experiences”中，也可在单个联系人页面手动开关通话和消息的 HiLight。此前 HiLight 仅在来电或 Gemini 后台工作时发光，但会削弱 Pixel 的闪光灯，谷歌暂无法解决该问题。QPR2 Beta 6.1 未新增 HiLight 颜色，可能后续更新加入。该测试版已面向 Pixel 11 Pro、Pro XL 和 Pro Fold 推送，稳定版预计 12 月发布。",
+              "source_url": "https://www.androidauthority.com/pixel-hilight-messages-support-3717161/",
+              "source_name": "Android Authority",
+              "published_at": "2026-09-30T12:18:50+08:00"
+            },
+            {
               "title": "谷歌称 Google Photos 冻结问题已修复",
               "brief": "上周有用户反映，Google Photos 在使用编辑工具后会出现冻结，无法继续操作。谷歌当时提供了临时解决办法，并确认正在开发正式修复。9 月 29 日，谷歌向 Android Authority 表示修复已推出，包含在 Google Photos 应用最新版本 7.94.0.988717361 中。若仍遇到冻结，用户可前往 Play 商店安装最新更新。谷歌称，更新后该问题应不再出现。",
               "source_url": "https://www.androidauthority.com/google-photos-fix-3717114/",
@@ -155,13 +162,6 @@
               "source_url": "https://www.androidauthority.com/openai-dots-chatgpt-always-on-ai-agents-3717020/",
               "source_name": "Android Authority",
               "published_at": "2026-09-30T04:22:38+08:00"
-            },
-            {
-              "title": "OpenAI发布GPT-6.1 Sol，以低成本实现接近Astra的性能",
-              "brief": "OpenAI在DevDay上推出GPT-6.1 Sol，宣称能以约五分之一的成本提供接近GPT-6 Astra的性能。在多项基准测试中，GPT-6.1 Sol接近Astra的能力，并超过GPT-6 Sol。在编程方面，它与Astra不相上下，在回答专业问题和处理文档上也具竞争力，而成本仅为Astra的约五分之一。在计算机使用和科学研究等评估中，它要么直接超越前代模型，要么以更快速度或更低费用提供相当表现。准确性方面，相比GPT-6 Sol，6.1将含事实错误的低投入回答比例从11.4%降至7.7%。",
-              "source_url": "https://www.androidauthority.com/gpt-6-1-sol-3716997/",
-              "source_name": "Android Authority",
-              "published_at": "2026-09-30T03:58:53+08:00"
             }
           ]
         },
@@ -254,6 +254,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "Windows 自用软件记录分享",
+              "brief": "作者分享了自己在 Windows 上使用的各类软件，涵盖多个类别。数学公式编辑方面，Mathtype 仍不能完全省掉，网上有很多激活工具。PDF 编辑推荐 Adobe Acrobat DC，需断网安装；PDF 阅读用 SumatraPDF，速度快、占用小。笔记软件 eDiary 自 1999 年维护至今，支持日历、备忘、日记、文档、附件、富文本、markdown 等功能。文本编辑用 Neovim 当作轻量记事本，常用插件 lazy.nvim、lualine.nvim 等。图片查看用 FastStone Image Viewer，内置截图和编辑功能；颜色提取用 Just Color Picker。音视频播放用 VLC Media Player，免费无广告、格式全；音频信息编辑用 Mp3tag；视频录制用 OBS Studio；剪辑用 Shotcut。学术方面，Mathematica 12.3 擅长符号计算，MATLAB 2024a 是工科主力，文献管理用 Zotero，论文写作用 TeXstudio 配合 TeX Live。AI 客户端用 Cherry Studio 聚合多个模型。浏览器用 Vivaldi，插件推荐 Markdown Reader、Allow Copy +。网站推荐识典古籍、OpenAlternative、Look Scanned、Excalidraw Whiteboard、Nerd Fonts、FreeMdict Forum。",
+              "source_url": "https://meta.appinn.net/t/topic/92572",
+              "source_name": "小众软件",
+              "published_at": "2026-09-30T11:31:17+08:00"
+            },
+            {
               "title": "IvyCraft：将 PDF、论文和网页转为 PPT、信息图、播客与视频",
               "brief": "IvyCraft 是一款围绕已有资料进行创作的 AI 内容生成平台，可导入 PDF、论文、Word、网页、视频等内容，让 AI 先理解资料，再生成 PPT、信息图、播客、视频等不同形式的内容。它支持从 PDF、论文直接生成 PPT，适合组会汇报、开题、答辩及项目汇报等场景，生成后还能继续编辑。长文档可提炼为信息图，也能转为 AI 播客用于碎片时间收听，还可基于现有资料生成视频、漫画和绘本。",
               "source_url": "https://www.appinn.com/ivycraft/",
@@ -272,6 +279,20 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "麦当劳被曝用AI按门店调整菜单价格 两英里内巨无霸价差达21%",
+              "brief": "据报道，麦当劳的AI定价系统会分析超过1.3万家门店数百万笔订单的交易数据，并参考温迪、汉堡王和Chick-fil-A等竞争对手的价格，为每家门店计算公司所称的“最优价格”。有门店巨无霸售价相差约11%，两英里内价差达21%。麦当劳加盟商依法可自行决定售价，但部分加盟商称公司持续施压要求遵循定价软件建议，系统会记录每次偏离决定，不采纳建议有时会接到公司电话。自今年1月起，麦当劳还要求门店经营者配合定价顾问，否则续签门店合同时可能受影响。类似动态定价并非新现象，Target、沃尔玛等也曾被曝相关做法。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580124.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-30T12:51:20+08:00"
+            },
+            {
+              "title": "英国法院重启苹果与亚马逊反垄断诉讼 涉及限制第三方销售协议",
+              "brief": "英国竞争上诉法庭重新批准了针对苹果与亚马逊的反垄断集体诉讼，案件将进入审理阶段。此前该案因原集体诉讼代表人未能充分证明其独立维护集体成员利益的能力，以及诉讼资金提供方Asertis的收益安排可能损害参与者利益而被拒绝。更换代表人并重新提交申请后，法庭允许案件推进，但仅批准部分诉求，未来诉讼将聚焦通过亚马逊平台销售的苹果产品，不再涵盖消费者直接从苹果官方渠道购买产品的索赔。苹果和亚马逊均反对相关指控，苹果称与亚马逊合作旨在打击假冒伪劣产品。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580122.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-09-30T12:48:56+08:00"
+            },
             {
               "title": "特朗普与科技领袖签署AI原则文件 称协议具道德约束力",
               "brief": "特朗普在白宫与英伟达、特斯拉、Meta、Google、微软、OpenAI、Anthropic等科技企业负责人共进午餐，并签署一份列出行业自愿承诺的AI原则文件，称协议具有道德约束力。他表示政府不会叫停人工智能开发，强调行业自我监管，并称数十亿美元数据中心是积极的事情。AMD首席执行官苏姿丰称会议令人鼓舞。会议之际，OpenAI因安全顾虑推迟发布GPT-6.1 Astra模型，并宣布对模型行为展开全面审查。",
@@ -292,20 +313,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1580116.htm",
               "source_name": "cnBeta",
               "published_at": "2026-09-30T06:02:30+08:00"
-            },
-            {
-              "title": "iPhone 18 Pro用户反映扬声器出现噼啪声 原因不明",
-              "brief": "部分iPhone 18 Pro用户反映扬声器出现噼啪声，具体原因尚不明确。有用户称异响主要在通过蜂窝网络通话时才会听到，在部分设备上快速开关飞行模式或迅速调整屏幕亮度也可能触发。苹果近日发布iOS 27.0.1，修复Face ID认证失败时可能导致iPhone 18 Pro重启的问题，但更新说明未提及扬声器故障，用户反馈安装后杂音仍未消失，也有人更换手机后新机仍出现同样情况。目前尚不清楚故障来自硬件还是软件。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580114.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-30T06:00:35+08:00"
-            },
-            {
-              "title": "ASML：人工智能对芯片制造的影响将持续10至15年",
-              "brief": "ASML首席执行官福凯表示，人工智能对芯片制造的影响将持续10至15年，不仅带来短期加速器需求增长，更形成对半导体制造体系的长期需求。公司预计未来极紫外光刻设备将采用更大反射镜孔径，以支持更精细的图形刻蚀，同时芯片中的更多电路将从平面布局转向垂直堆叠，以在晶体管尺寸缩小变难时继续提升集成密度和性能。极紫外光刻设备每台售价最高约4亿美元，包含超过10万个零部件，涉及约2000家供应链公司，难以迅速扩大产能。目前ASML无法向中国出售极紫外光刻设备。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580112.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-09-30T03:49:50+08:00"
             }
           ]
         },
@@ -313,39 +320,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "首款鸿蒙7+麒麟9系旗舰芯片电视 华为智慧屏Mate TV 2系列今日开售",
-              "brief": "华为智慧屏Mate TV 2系列今日开售，为首款搭载鸿蒙7与麒麟9系旗舰芯片的电视。悦享版65至85英寸预售价7999元至13999元；Mate TV 2提供65至98英寸，9999元至26999元，Pro版75至98英寸，16999元至34999元。悦享版搭载麒麟T92芯片、8GB+128GB存储，首发HarmonyOS 7，CPU单核提升490%，采用黑钻屏Super MiniLED，峰值亮度4000尼特，支持灵犀触控与手写笔。Mate TV 2峰值亮度5000尼特，支持2D转3D。华为智慧屏S7 RGB同步开售，55至75英寸3999元至6999元。",
-              "source_url": "https://www.ithome.com/1/008/612.htm",
+              "title": "Meta Muse 走红，美银警示 AI 智能体或冲击苹果服务收入",
+              "brief": "美银分析师莫汉发布研报称，AI 智能体可能逐步接管原本由苹果生态完成的商品发现、服务导流与交易发起，苹果股价当日跌超 2.5%。他指出，即便苹果保住每台手机销量，仍可能失去这部分业务。Meta 的 Muse 已连续两周位居美国应用商店免费榜首位，累计下载量超 340 万次，可浏览网页、填表、预订行程、发邮件并代用户购物，已接入 Shopify、Shop Pay、Expedia 和 PayPal。莫汉维持苹果“买入”评级与 370 美元目标价，认为苹果仍是端侧 AI 赢家，但需服务、芯片、支付、隐私与 Siri 团队协同提速。",
+              "source_url": "https://www.ithome.com/1/008/692.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-30T10:41:50+08:00"
+              "published_at": "2026-09-30T12:35:54+08:00"
             },
             {
-              "title": "WPS、微信、QQ登陆深开鸿KaihongOS桌面版 采用非容器自研方案",
-              "brief": "深开鸿KaihongOS桌面版（x86）迎来更新，WPS、微信、QQ等应用登陆该平台，采用非容器自研技术方案，运行性能无限接近原生。用户可一键在线升级系统，无需重新下载镜像或手动安装；新增10款三方原生应用，累计达16款；缩减ESP分区占用，简化安装设置。KaihongOS 6.1版本已开启小范围公测。此前6月底发布的V5.0.2.30版本升级了相机与文档编辑能力，6月初版本适配QEMU虚拟机，5月底版本适配AMD芯片平台。",
-              "source_url": "https://www.ithome.com/1/008/611.htm",
+              "title": "Robinhood 推出 AI 智能体工具，可自动盯盘并执行交易",
+              "brief": "Robinhood 上线可在用户入睡、工作或远离屏幕时自动盯盘并执行交易的 AI 智能体工具。CEO Vlad Tenev 称，这类工具将把以往对冲基金和华尔街机构专属的高阶操盘能力普及给普通散户。公司还将推出加密货币永续期货合约、财报挂钩期权，并计划提供周末股票交易。今年五月其平台已允许接入外部 AI 智能体，约 15 万用户开设过代理交易账户；新版本将体验整合进自家应用，默认逐笔确认，用户可关闭确认让智能体自主交易，资金限于独立代理账户，初期提供 Anthropic 与 OpenAI 模型，OpenAI 的 Luna 模型 2026 年内免费。",
+              "source_url": "https://www.ithome.com/1/008/690.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-30T10:39:24+08:00"
+              "published_at": "2026-09-30T12:05:03+08:00"
             },
             {
-              "title": "英伟达前顾问称公司欠其价值10亿美元股票 和解提议遭拒",
-              "brief": "英伟达前顾问古利克森称公司欠其价值约10亿美元的股票。他表示，2024年重看1993年期权授予文件后发现，25000份期权本应一年内分四次归属，但首席财务官1996年信函仅登记15625份已归属期权，另有9375份应归属。经480倍拆股后对应450万股，按9月25日收盘价225.07美元计算市值约10.1亿美元。他称已聘风险代理律师并主动提出远低于10亿美元的和解金额，但英伟达拒绝。他认为诉讼时效不利，英伟达暂未回应。",
-              "source_url": "https://www.ithome.com/1/008/609.htm",
+              "title": "比亚迪：仰望品牌后续将在海外举办发布会",
+              "brief": "比亚迪透露，仰望品牌后续也会在海外举办发布会。谈及全球化，比亚迪表示巴西工厂今年产出约 25 万辆，匈牙利工厂即将正式生产，未来还将投资建设更多工厂，目标是从“中国的比亚迪”做到“世界的比亚迪”，最终成为“当地的比亚迪”，把技术融入当地文化、历史与艺术。比亚迪称在欧洲和南美，产品是许多消费者的梦想之车，用户可先买海鸥再逐步升级到宋、方程豹，最终目标是仰望 U8L、U9。此外，仰望超豪华行政轿车预告图已公布，内部代号“HU”，定位超豪华行政级轿车。",
+              "source_url": "https://www.ithome.com/1/008/688.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-30T10:35:30+08:00"
+              "published_at": "2026-09-30T12:04:53+08:00"
             },
             {
-              "title": "国家发改委：2500亿元消费品以旧换新资金全部下达",
-              "brief": "国家发改委表示，2500亿元消费品以旧换新资金已全部下达。今年1至8月，相关商品销售额达1.55万亿元，其中汽车以旧换新535.3万辆，6类家电以旧换新9145.8万台，数码和智能产品购新1.08亿件。在政策带动下，通讯器材、高能效家电、可穿戴智能设备等零售额高速增长，新能源乘用车在乘用车新车零售量中占比连续5个月超60%。下一步将指导地方优化资金使用计划，规范补贴审核兑付，打击骗补套补行为。上半年已累计带动销售额1.1万亿元，惠及1.5亿人次。",
-              "source_url": "https://www.ithome.com/1/008/608.htm",
+              "title": "雷蛇扩展三丽鸥联名产品线，推出布丁狗与酷洛米主题耳机",
+              "brief": "雷蛇进一步扩展三丽鸥联名产品线，带来布丁狗、酷洛米主题耳机，同时布丁狗款外设销售将扩展至全球市场。布丁狗款北海巨妖萌猫版 V2 BT 耳机整体为浅黄色调，耳罩和头梁为褐色，融入布丁狗标志性垂耳和贝雷帽元素，彰显该形象轻松愉悦的魅力。酷洛米款战锤狂鲨 V3 X 极速版入耳式耳机以该 IP 标志性的俏皮精神为设计灵感，耳机盒采用酷洛米经典造型，以淡紫和黑色为主色调，每只耳机耳柄上都饰有骷髅头图案。",
+              "source_url": "https://www.ithome.com/1/008/687.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-30T10:35:16+08:00"
+              "published_at": "2026-09-30T12:04:49+08:00"
             },
             {
-              "title": "八位堂天刃星Pro街机控制器国行上市 首发699元赠收纳包",
-              "brief": "八位堂天刃星Pro街机控制器国行上市，采用小间距布局，首发价699元并赠送收纳包。新品支持RGB背光，搭载凯华破空竞技矮轴与POM轴芯，触发行程0.8mm、触发力度40gf；USB延迟2.08ms、2.4GHz延迟3.7ms、蓝牙延迟5ms；内置3000mAh电池，续航超40小时。主框体厚度由前代22mm降至16mm，更符合人体工学，随附磁吸式掌托，集成配件收纳区。上侧USB-C接口带线材锁定结构，左侧另提供一个USB-C，钢化玻璃面板支持快拆。",
-              "source_url": "https://www.ithome.com/1/008/607.htm",
+              "title": "Keychron 推出 K8 HE 磁轴键盘全木特别版，售价 199.99 美元",
+              "brief": "Keychron 带来 K8 HE 磁轴键盘全木特别版，呈现温馨棕色调，售价 199.99 美元。该键盘采用 80%（TKL）配列，拥有铝合金定位板和 3 层阻尼填充；搭载佳达隆双轨磁轴，先行手感，压力 40~60gf，配套螺丝式 PCB 卫星轴；原装 OSA 高度 PBT 材质双色注塑工艺键帽。键盘支持轴体热插拔，集成北向 ARGB LED 背光；内置 4000mAh 电池，续航 110 小时；支持 1kHz 回报率。",
+              "source_url": "https://www.ithome.com/1/008/686.htm",
               "source_name": "IT之家",
-              "published_at": "2026-09-30T10:33:40+08:00"
+              "published_at": "2026-09-30T11:51:07+08:00"
             }
           ]
         },
