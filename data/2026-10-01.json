@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T16:52:13.030090+08:00",
+  "generated_at": "2026-10-01T18:52:25.683194+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果Mac邮件或今日起无法同步微软365账户",
+              "brief": "微软今日开始在Exchange Online中默认禁用Exchange Web服务（EWS），而Mac上的苹果邮件和日历应用仍依赖该协议同步微软365工作账户。微软早在2018年就停止为EWS添加新功能，并于2023年宣布将从2026年10月起禁用该协议。选择继续运行EWS的组织暂不受影响，其他组织可能分阶段失去访问。IT管理员仍可恢复访问，但微软计划于2027年4月1日永久关闭EWS。苹果表示正与微软合作，将在未来macOS 27更新中把相关应用迁移到Microsoft Graph API，但该更新尚未到来。",
+              "source_url": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-01T18:17:27+08:00"
+            },
             {
               "title": "苹果智能家居中枢：目前已知全部信息",
               "brief": "苹果正在开发一款智能家居配件，作为与Siri AI交互、控制HomeKit设备、观看视频、查看日历和天气的中枢。该设备外观类似iPad，采用方形6英寸显示屏，边框为四分之一英寸黑色，尺寸约等于两部并排的iPhone，厚度与iPhone相近，支持触控操作。苹果计划推出两个版本：壁挂版和带半球形扬声器底座的版本，后者类似iMac G4，屏幕通过抛光金属臂连接，可前后倾斜。两者均配备1080p前置摄像头，用于FaceTime通话、用户认证和识别家庭成员。设备采用灰色铝金属外观，无内置电池，需通过USB-C持续供电。内置传感器可检测人员距离并调整显示内容。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
               "source_name": "MacRumors",
               "published_at": "2026-10-01T01:53:35+08:00"
-            },
-            {
-              "title": "Apple Watch SE 3 与 Series 12 选购指南：该买哪一款？",
-              "brief": "Apple Watch SE 3 起售价 249 美元，Series 12 起售价 399 美元，150 美元差价换来更先进的健康传感系统、更大屏幕、更长续航以及更多训练与恢复追踪选项。两款手表仍共享常亮显示、腕温感应、睡眠呼吸暂停通知、回溯性排卵估算、蜂窝版 5G 连接、媒体播放和 64GB 存储等功能。指南从设计、尺寸、材质、重量、前玻璃、防尘等级、显示屏类型、分辨率与显示面积等方面逐项对比两款机型的差异，帮助用户判断哪款更适合自己。",
-              "source_url": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-01T00:05:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "HomePad 设置流程疑似曝光，与 iPhone Duo 共享功能",
+              "brief": "据报道，苹果的 HomePad 智能家居中枢疑似曝光了设置流程，显示其将与 iPhone Duo 共享部分功能。该产品预计于 10 月 13 日发布，采用类似 iMac G4 的设计。彭博社的 Ben Lovejoy 于 9 月 30 日发布了相关信息。目前尚不清楚共享功能的具体细节，但设置流程的曝光表明苹果正为这款智能家居设备的上市做准备。",
+              "source_url": "https://9to5mac.com/2026/10/01/homepad-setup-process-seemingly-revealed-sharing-feature-with-iphone-duo/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-01T18:50:40+08:00"
+            },
+            {
+              "title": "Security Bite 播客：与 OpenHack 的 Ananay Arora 探讨漏洞挖掘新时代",
+              "brief": "本期 Security Bite 播客邀请 OpenHack 的 Ananay Arora，讨论漏洞挖掘的新时代。节目围绕安全研究领域的变化展开，涉及漏洞发现方式、协作模式以及 OpenHack 平台在其中的角色。Arora 分享了相关经验与见解，探讨了当前漏洞挖掘生态的发展趋势。该播客由 9to5Mac 发布，发布时间为 10 月 1 日。",
+              "source_url": "https://9to5mac.com/2026/10/01/security-bite-podcast-the-new-era-of-bug-hunting-with-openhacks-ananay-arora/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-01T17:30:00+08:00"
+            },
             {
               "title": "WhatsApp将家长控制扩展至青少年账户，新增群组提醒并限制Meta AI",
               "brief": "WhatsApp宣布将家长控制功能扩展至青少年账户，新增群组提醒功能，让家长可了解子女加入的群组动态。同时，该平台对Meta AI在青少年账户中的使用施加限制，以减少潜在风险。此举旨在为未成年用户提供更安全的通讯环境，并给予家长更多监督工具。相关更新将逐步向用户推送。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/09/30/elder-fraud-rising-heres-how-to-protect-your-family/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-01T06:30:00+08:00"
-            },
-            {
-              "title": "Apple Music 扩展至四个新国家",
-              "brief": "据 9to5Mac 报道，Apple Music 已在四个新国家上线，进一步扩大其全球服务范围。此次扩展延续了苹果近年来持续推动订阅服务国际化的策略，使更多地区的用户能够使用其音乐流媒体平台。报道未披露具体国家名单及当地定价与曲库细节，但此举被视为 Apple Music 与 Spotify 等竞争对手在全球市场争夺用户的重要一步，也反映出苹果服务业务收入增长对地域扩张的依赖。",
-              "source_url": "https://9to5mac.com/2026/09/30/apple-music-expands-to-four-new-countries/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-01T04:39:07+08:00"
-            },
-            {
-              "title": "iPhone 18 Pro 最佳配件推荐（更新二）",
-              "brief": "9to5Mac 发布了 iPhone 18 Pro 配件选购指南的第二次更新，汇总了多款可用于升级日常使用体验的配件，涵盖保护壳、充电器、数据线及其他周边产品。文章根据实际使用场景对配件进行分类推荐，帮助用户在购买新机后快速搭建完整的使用方案。作为系列更新的第二版，内容在原基础上补充了新的产品与使用反馈，供读者参考选择。",
-              "source_url": "https://9to5mac.com/2026/09/30/best-iphone-18-pro-accessories/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-01T04:10:00+08:00"
             }
           ]
         },
@@ -129,45 +129,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Google Antigravity 上架 Play 商店，但仅限 Googlebook 使用",
-              "brief": "Google 新推出的 Antigravity 已出现在 Play 商店，但它面向 Googlebook 而非普通 Android 手机。网页版商店明确标注普通 Android 设备不兼容，因此在手机上搜索不到该应用。我们获取 APK 并尝试在 Pixel 手机上侧载，应用可以安装并启动，但界面明显不适合手机屏幕，文字和控件过小，引导流程试图配置通知、Android 终端、应用目录和 Antigravity 服务。实验最终卡在终端虚拟机步骤，即使已启用 Android 终端，仍出现涉及 TerminalStatusProvider 和 MANAGE_TERMINAL 权限的拒绝错误。由于 Googlebook OS 采用 Android 技术栈，Play 商店未来可能出现更多看似 Android 应用、实际仅限 Googlebook 的软件。",
-              "source_url": "https://www.androidauthority.com/google-antigravity-android-play-store-3717752/",
+              "title": "华为发布Mate 90系列及外接相机，售价超多数手机",
+              "brief": "华为推出Mate 90、Mate 90 Pro、Mate 90 Pro Max和Mate 90 RS Ultimate Design四款手机，同时发布Ruiying Z10外接相机。该相机通过HyperClick卡扣吸附在Mate 90 Pro Max典藏版和Mate 90 RS大师版背面，无需专用手机壳。它配备一英寸5000万像素RYYB传感器，支持24mm至240mm连续光学变焦，即1倍到约10倍光学变焦，并具备f/2.0至f/4.5可变光圈。相比传统外接镜头只能固定焦距且无法使用1倍镜头，Z10可自由变焦。相机起售价约895美元。",
+              "source_url": "https://www.androidauthority.com/huawei-z10-camera-mate-90-series-launch-3717773/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-01T16:37:57+08:00"
+              "published_at": "2026-10-01T18:37:49+08:00"
             },
             {
-              "title": "苹果传闻中的智能显示屏本月发布，或挑战谷歌智能家居领先地位",
-              "brief": "新报告称，苹果将于 10 月 13 日推出受 iMac G4 启发的智能显示屏（代号 J490 和 J491）、升级版 HomePod mini 2 以及更快的 Apple TV 4K。智能显示屏据称配备约六英寸方形屏幕，支持动态面部和语音用户识别，系统融合 iPadOS、watchOS 和 iOS 待机模式元素。多年来谷歌和亚马逊主导智能家居领域，苹果仅有 HomePod 产品线，缺乏专用智能显示屏。近期谷歌和亚马逊的 AI 集成引发不少抱怨，谷歌 Home 自动化漏洞和 Pixel Tablet 的妥协令用户不满，这为苹果提供了切入机会。新硬件有望借助升级版 LLM 驱动的 Siri 展示实力，若谷歌尚未解决其智能家居危机，苹果可能抢占市场。",
-              "source_url": "https://www.androidauthority.com/apple-rumored-smart-display-coming-this-month-3717765/",
+              "title": "我的四年安卓手机渐显老态，这样让它继续服役",
+              "brief": "作者仍将Nothing Phone 1作为主力机使用，该机已四年且软件更新支持结束。为延长寿命，作者首先更换可更换硬件：在官方授权服务中心更换电池，费用不高，原电池健康度已低于75%并导致性能节流。为保护新电池，改用旧Pixel的18W慢充充电器，虽然充满多花约半小时，但发热更少。此外，将厚重保护壳换成更薄款式以改善散热。作者还建议改用更轻量、开源的应用，因为单个应用可能大量耗电并拖慢手机速度，需检查应用耗电情况。",
+              "source_url": "https://www.androidauthority.com/old-android-phone-how-im-keeping-it-running-tips-3715272/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-01T16:37:12+08:00"
+              "published_at": "2026-10-01T18:30:29+08:00"
             },
             {
-              "title": "华为释放涨价信号，又一手机大厂加入涨价行列",
-              "brief": "华为表示计划提高手机价格，以应对内存和零部件成本上涨的压力。此前苹果、三星和谷歌等多家手机品牌已上调新机型售价。华为消费者业务董事长余承东近日对中国媒体表示，预计将“适度”提高产品价格。他称公司一直在吸收约 200 美元的额外成本，这严重损害了盈利能力。此番表态正值华为旗舰 Mate 90 系列发布，其中包括售价高达 18999 元人民币（约 2835 美元）的特别版，以及支持 10 倍光学变焦的可拆卸摄像头。余承东还指出，内存和存储成本上涨将尤其挤压 200 美元以下手机市场，推动消费者转向中高端产品。Counterpoint Research 预测，到 2030 年零部件成本上涨将导致 200 美元以下手机减少 2.3 亿部，降幅约 40%。",
-              "source_url": "https://www.androidauthority.com/another-phone-brand-price-hike-huawei-3717746/",
+              "title": "真实ChatGPT页面被用来诱骗用户安装恶意软件",
+              "brief": "安全研究人员发现，攻击者滥用ChatGPT的Custom GPT功能创建名为“Plus 5.6”的机器人，名称听起来像OpenAI官方模型，且因托管在ChatGPT.com上，浏览器地址显示合法。部分受害者甚至通过谷歌搜索“ChatGPT”的赞助结果进入该假GPT。无论用户输入什么，Plus 5.6都返回相同消息，声称ChatGPT可用性有问题并提供“备用域名”。该链接打开伪装成Cloudflare安全验证的Google Sites页面，指示用户复制命令并粘贴到Windows中。这采用ClickFix手法，诱骗用户自行执行危险操作，该命令可安装能访问文件、屏幕、摄像头和麦克风的恶意软件。",
+              "source_url": "https://www.androidauthority.com/chatgpt-custom-gpt-malware-scam-3717796/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-01T15:57:14+08:00"
+              "published_at": "2026-10-01T18:07:14+08:00"
             },
             {
-              "title": "Pixel 手机终于广泛支持 VoLTE，但仍有一个限制",
-              "brief": "据报道，谷歌已在非支持市场的 Pixel 11 手机上启用 VoLTE。几周前，GSMA 与谷歌合作将 VoLTE 带到更多国家和运营商。谷歌目前没有计划将这一支持扩展到旧设备，但情况可能改变。在非支持市场使用 Pixel 手机的最大问题之一就是缺少 VoLTE 等功能，这意味着使用进口 Pixel 或出国旅行时会缺失关键通话功能。X 用户 akes29 报告称，其运行最新 Android 17 测试版的 Pixel 11 Pro 现在在非支持市场支持 VoLTE 和 5G。该用户指出 Pixel 11 系列固件包含暗示支持大量运营商和市场的文件。Android Authority 撰稿人 AssembleDebug 可通过 Pixel 11 固件确认，中国移动、中国联通、中国电信和香港 CSL 均已启用 VoLTE。",
-              "source_url": "https://www.androidauthority.com/google-pixel-volte-support-gsma-3717731/",
+              "title": "T-Mobile最新费用上涨证明“非运营商”已死",
+              "brief": "T-Mobile于2013年推出“非运营商”战略，取消传统合约、实行含税透明定价、帮助用户支付提前终止费以便转网，并推出多项美国手机业前所未有的福利。但该战略一直有保质期。T-Mobile与Sprint合并后，非运营商逐渐侵蚀部分承诺，近年转变加速，最近1美元垃圾费用上涨是又一记棺材钉。T-Mobile早在2004年推出监管项目与电信恢复费，2017年开始推出含税套餐，去年又悄悄对Experience套餐单独收费。2026年，除传统套餐外，所有T-Mobile套餐的税费均单独列出。官方称这些费用用于监管项目、跨网通话费等，但完全可以包含在标价中，即使税款单列，至少会更透明。",
+              "source_url": "https://www.androidauthority.com/t-mobile-uncarrier-gone-junk-fees-3717413/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-01T15:36:41+08:00"
+              "published_at": "2026-10-01T18:00:43+08:00"
             },
             {
-              "title": "三星悄然停用其最新应用之一",
-              "brief": "三星在推出 Samsung Sound 应用仅几个月后便准备将其停用。该应用原本作为设置和控制三星 Wi-Fi 音箱和条形音箱的专用工具，但三星已通过 SmartThings 应用提供大部分相同功能。Samsung Sound 虽带来重新设计的界面，但据称缺少 SmartThings 中的部分控制功能，包括 IP 控制、自动关机以及 Tap Sound 快捷方式，而且条形音箱开启后电源按钮会从应用中消失，无法直接关闭。最新更新显示通知，告知用户该应用将被停用并整合到 SmartThings 中。三星表示用户只需在 SmartThings 中注册音响设备即可继续使用现有设置。Samsung Sound 将可用至 2027 年 3 月 31 日，之后用户需改用 SmartThings 来设置和控制兼容的三星音响设备。",
-              "source_url": "https://www.androidauthority.com/samsung-sound-app-discontinued-3717755/",
+              "title": "三星Galaxy Z Fold 8 Ultra对手全球上市，电池更大还带外接镜头",
+              "brief": "vivo在中国发布数月后，将X Fold 6推向全球市场，现已在奥地利、德国、匈牙利和意大利等欧洲市场开售。全球版规格和设计与国行版相同，但运行基于Android 17的Origin OS 7，据称应用启动更快、动画更流畅，多任务可同时运行四个应用。该折叠屏亮点是相机：配备新的2亿像素主摄、5000万像素超广角和5000万像素长焦，并延续蔡司色彩科学和多种滤镜。与市面上其他折叠屏不同，Fold 6支持vivo第二代200mm长焦增距镜，可将光学变焦扩大2.35倍。手机搭载天玑9500 Super Edition定制芯片。",
+              "source_url": "https://www.androidauthority.com/vivo-x-fold-6-global-launch-2-3717783/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-01T15:26:25+08:00"
+              "published_at": "2026-10-01T17:36:38+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "环球影城新过山车噪音惹怒富裕居民，迅速引发投诉",
+              "brief": "环球影城好莱坞因最新过山车“速度与激情：好莱坞漂移”的乘客尖叫声引发附近富裕社区托卢卡湖居民强烈不满。在至少350人参加的会议上，园方承诺再建一道隔音屏障，并在今年余下时间于上午8点至9点暂停运营。该过山车今年9月16日开放，时速72英里，园方已采取现有隔音墙、降低运行噪音、让车厢在尖叫关键时刻背向住宅区等措施，但居民认为仍不够，要求进一步降噪。",
+              "source_url": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
+              "source_name": "The Verge",
+              "published_at": "2026-10-01T05:00:04-04:00"
+            },
             {
               "title": "Vivo X Fold 6 国际版发布，造型意外复古",
               "brief": "Vivo X Fold 6 于今年6月在中国首发，如今正式推向国际市场。这款折叠屏手机尺寸与Vivo此前机型相近，采用6.51英寸外屏和8.02英寸近方形内屏，比例与三星Z Fold 8、苹果iPhone Duo转向更短更宽设计之前的折叠屏类似，因而显得复古。其折痕较为明显，IP59防护等级尚可但不算突出。亮点在于影像，主摄为1/1.4英寸、2亿像素传感器，是同类中最大的之一。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
               "source_name": "The Verge",
               "published_at": "2026-09-30T16:45:00-04:00"
-            },
-            {
-              "title": "谷歌发布 Gemini 4，称能力过强仅限“可信网络防御者”使用",
-              "brief": "谷歌发布下一代前沿 AI 模型 Gemini 4 Argon。首席 AI 架构师兼 DeepMind 高级副总裁科雷·卡武克丘奥卢表示，该模型在复杂工作流中展现前沿性能，覆盖真实软件工程、法律与金融等企业知识工作以及网络安全防御。谷歌初期仅向一组“可信网络防御者”开放访问，并称正积极参与美国政府关于模型发布前访问的自愿流程，同时逐步扩大访问范围。卡武克丘奥卢还表示，Gemini 4 Argon 已在驱动谷歌内部工作流，例如帮助完成大规模代码库迁移等任务。",
-              "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-              "source_name": "The Verge",
-              "published_at": "2026-09-30T16:41:41-04:00"
             }
           ]
         },
@@ -287,6 +287,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "Windows 11 原生 Linux 容器正式发布，无需 Docker Desktop",
+              "brief": "微软正式发布 WSL 容器，用户运行 wsl --update 即可升级到正式版，无需安装 Docker Desktop 就能在 Windows 上运行 Docker 镜像。大多数命令只需将 docker 替换为 wlsc，例如 wslc run --rm hello-world，默认从 Docker Hub 抓取镜像。功能包括 WSL 容器 CLI 和 WSL 容器 API，后者可在原生 Windows 应用中以编程方式运行 Linux 容器。微软表示下一步将添加 compose 支持，目标是用 wsl compose up 替代 docker compose up，并继续使用 compose.yaml 文件。",
+              "source_url": "https://www.appinn.com/windows-wsl-container-generally-available/",
+              "source_name": "小众软件",
+              "published_at": "2026-10-01T17:53:40+08:00"
+            },
+            {
               "title": "Cloudflare 推出 cf 命令行工具，AI Agent 可调用 3000+ API",
               "brief": "Cloudflare 发布新命令行工具 cf，专为 AI Agent 设计，可通过命令行直接操作其 3000+ 个 API。与面向开发者的 Wrangler 不同，cf 几乎覆盖整个 Cloudflare API，让 Codex、Claude Code 等 Agent 直接管理域名、DNS、Workers、R2 等服务。安装只需 npm i -g cf，之后可让 Agent 完成部署、域名解析等步骤。数据显示，今年 3 月 AI Agent 仅占 Wrangler 使用量 25%，最近一周已增至 48%。",
               "source_url": "https://www.appinn.com/cloudflare-cf-agentic-cli/",
@@ -306,39 +313,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "转转“神秘眼镜女”称遭AI造黄谣并已报警",
+              "brief": "转转官方主推“收手机”IP成员CC发布视频，称自己被用AI造黄谣，并展示了一张报警回执，显示其已于2026年9月17日18时14分向公安机关报案，警方已受案登记。她在视频中反问“到底是谁在信这些东西”，并直接回击造谣者。CC此前曾因上门回收《三角洲行动》知名主播王浩宇Whys的RTX 5090显卡报价一事引发讨论，此次事件再度引起关注。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1580344.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-01T18:32:30+08:00"
+            },
+            {
+              "title": "俄罗斯大规模打击乌克兰电网 冬季前乌被迫紧急断电",
+              "brief": "俄罗斯对乌克兰能源基础设施发动大规模联合打击，基辅及周边地区出现断电并造成人员死亡。乌克兰国家电网宣布基辅与另外三个地区实施紧急断电，预报显示首都夜间气温将降至冰点以下。乌总理科列茨基称，这是上个供暖季结束以来首次如此大规模的联合打击。俄国防部称使用陆基高精度武器与攻击无人机，目标包括基辅通信中心和多处能源设施。泽连斯基此前警告，若无法达成能源休战，将让俄罗斯同样承受冬季痛苦。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580342.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-01T18:30:12+08:00"
+            },
+            {
+              "title": "迪拜航空客机飞行员驾驶舱遇袭 乘客出手救险",
+              "brief": "迪拜航空一架波音737 Max客机发生惊魂事件，飞行员在驾驶舱内遭袭，飞机突然急剧俯冲，随后由乘客和备用机组人员介入才恢复稳定。以色列总理内塔尼亚胡称，涉事飞行员为印度籍，伤势严重，但仍设法打开驾驶舱舱门。一名乘客将袭击者拉开并拖出驾驶舱后抓住操纵装置向后拉，使飞机恢复平衡。飞机最终在沙特塔布克紧急降落，乘客安全返回以色列。迪拜航空已暂停往返以色列航班，事件动机仍在调查中。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580340.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-01T18:29:51+08:00"
+            },
+            {
+              "title": "索尼PS6掌机Project Canis再曝新料：或采用台积电3nm制程",
+              "brief": "关于索尼PS6掌机Project Canis的新爆料称，其将采用约135平方毫米的AMD单片式APU，台积电3nm制程，包含4个Zen 6c核心和2个低功耗Zen 6核心，GPU为RDNA 5架构、16个计算单元。掌机模式GPU频率约1.2GHz，连接底座后约1.65GHz，功耗约15W至25W。该掌机重点追求轻薄便携与续航平衡，而非单纯堆叠性能，并预计支持PSSR 3.0、向下兼容PS4和PS5游戏。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1580338.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-01T18:27:27+08:00"
+            },
+            {
               "title": "比尔·盖茨再次呼吁征收机器人税",
               "brief": "比尔·盖茨再次公开支持对取代人类工作的机器人征税，认为此举既能为公民提供经济安全保障，又能确保政府持续获得税收收入。他提到可对人工智能“代币”征税，以放缓企业弃用人工的步伐，并筹集资金用于员工再培训及构建更稳固的社会保障网。盖茨此前曾警告人工智能和机器人技术将严重冲击白领岗位，并认为人们低估了人形机器人追赶的速度。他最早于2017年提出“机器人税”概念，如今仍表示大力支持这一主张。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1580336.htm",
               "source_name": "cnBeta",
               "published_at": "2026-10-01T15:17:05+08:00"
-            },
-            {
-              "title": "印度女网红炫耀现金黄金后家中被窃贼掏空",
-              "brief": "印度一名女网红在Instagram上更新行程并展示财物存放信息，还在神庙拍摄炫耀现金和黄金的视频，这些内容成为窃贼的作案指南。2026年9月某个周四晚，马杜米塔夫妇带孩子外出购物，回家后发现卧室衣柜被撬开，窃贼用机器切割器切断门锁进入屋内，手法老练，明显事先踩点。被盗物品包括约944克黄金饰品、钻石珠宝及现金，总价值接近1000万卢比。警方指出窃贼通过长期观看其短视频摸清住宅户型和财物存放点，属精心策划的盗窃案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580334.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-01T15:08:01+08:00"
-            },
-            {
-              "title": "胖东来将推行每天7小时工作制并每周休息两天",
-              "brief": "胖东来将推行每天7小时工作制，每周休息两天，让外界再次关注其在员工关怀上的持续投入。胖东来因独特的员工福利政策和成功的市场扩张策略成为舆论焦点，其员工每年享有的假期福利不仅在国内引起广泛讨论，也成为企业管理领域的标杆案例。创始人于东来此前在直播中表示，胖东来初衷是将中国优秀传统文化融入企业文化，让员工感受到关怀与支持。公司还特别设立10天“不开心假”，管理层不能不批，希望员工自由决定休息时间，得到充分放松和调整。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580332.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-01T15:07:44+08:00"
-            },
-            {
-              "title": "宝可梦大赛冠军被邻座选手体味熏至呕吐",
-              "brief": "宝可梦大赛发生尴尬插曲，冠军被邻座选手的体味熏至呕吐。相关发文未透露选手身份，也未说明裁判后续处置结果，发文者主要呼吁参与线下赛事的选手重视个人卫生，并澄清涉事选手是VGC电子游戏项目参赛者，并非卡牌项目选手。该事件在海外社交平台迅速传播，引发大量玩家讨论与玩梗，不少人联想到“臭臭泥”“双弹瓦斯”等拥有恶臭特性的宝可梦，调侃这是现实版气味干扰战术。类似卫生问题在桌游和线下电竞赛场早已不是个案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1580330.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-01T15:07:33+08:00"
-            },
-            {
-              "title": "墨西哥议员提议数字商品立法 要求游戏停服后仍可运行",
-              "brief": "墨西哥两名议员提出数字商品立法倡议，拟将许可协议视为附合合同；如果平台撤销消费者的访问权，又未提供保存内容、补偿或退款保障，按提案所述将构成严重违规。提案还拟要求在墨西哥销售数字商品的外国平台设立当地地址或法律代表，方便消费者在当地投诉。两名议员此前曾就索尼计划在2028年前停止生产PlayStation实体光盘的说法，向墨西哥反垄断机构COFECE提出投诉。此次提案将数字购买权利问题扩展到所有数字发行商，但目前仍处提案阶段，并非已生效法律。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1580328.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-01T15:06:35+08:00"
             }
           ]
         },
@@ -346,39 +353,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为 Mate 90 系列及全场景新品发布会汇总：史上最强 Mate，四款麒麟芯片",
-              "brief": "华为发布史上最强 Mate 90 系列，余承东称其搭载最先进半导体、最精密制造、最新通信与最创新软件。全系采用晶格设计、高光金属中框与哑光背板，Pro Max 典藏版镜头覆盖钇晶宝石。屏幕方面 Pro 与 Pro Max 首发第二代灵珑屏，峰值亮度达 12000nits。性能上全系搭载 τ 旗舰芯片，标准版麒麟 9030、Pro 首发麒麟 9035、Pro Max 搭载麒麟 9050 Pro。Pro Max 业界首发四卡三待，电池 6800mAh，影像升级第三代红枫原色摄像头。",
-              "source_url": "https://www.ithome.com/1/009/101.htm",
+              "title": "华为与赛力斯达成新五年合作，共同升级问界业务推动品牌向上",
+              "brief": "华为终端BG董事长余承东与赛力斯集团董事长张兴海出席签约仪式。双方宣布达成新五年合作，将共同升级问界业务，推动品牌向上。面向新五年，双方将持续锚定问界高端智能汽车品牌核心定位，联合组建问界业务专属团队，以专属专营更好地服务用户，持续推动问界新豪华品牌向上。双方称将致力于为用户带来高端智能电动汽车产品和出行体验，推动中国汽车产业高质量发展。此前鸿蒙智行声明称，产品定义、设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。",
+              "source_url": "https://www.ithome.com/1/009/131.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-01T16:45:26+08:00"
+              "published_at": "2026-10-01T18:32:45+08:00"
             },
             {
-              "title": "曝腾讯租用甲骨文东南亚数据中心，涉及约 10 万块 AI 芯片",
-              "brief": "消息称腾讯租用甲骨文东南亚数据中心，涉及约 10 万块先进 AI 芯片，交易估值约 70 亿美元，首付约 30%。腾讯计划将这部分算力用于推进 AI 模型和智能体工具开发。据称字节跳动和阿里巴巴仍是东南亚数据中心最大客户。此类租赁协议在美国规则下被允许，也可能提供英伟达在中国无法获取的先进芯片。腾讯第二季度资本支出同比增 176% 至 530 亿元人民币，用于 AI 基础设施和算力资源预付款。",
-              "source_url": "https://www.ithome.com/1/009/100.htm",
+              "title": "树莓派4与树莓派5的2GB版售价均上调12.5美元，最高涨幅约22.7%",
+              "brief": "树莓派官方表示，本轮涨价的直接推手是内存成本大幅上涨。今年4月进行第一轮涨价时，公司认为1GB和2GB版树莓派4、树莓派5售价能保持不变，如今这种做法难以为继，因此不得不提高两款产品售价。官方提醒客户，涨价显然会影响大部分人的购机计划，建议消费者购买前确认自己的内存需求，避免为用不到的性能浪费钱，同时也可以考虑树莓派3B、3A+或3B+等早期产品。本轮涨价详情：树莓派4 2GB原价55美元，新售价67.5美元，涨幅约22.73%；树莓派5 2GB原价65美元，新售价77.5美元，涨幅约19.23%。",
+              "source_url": "https://www.ithome.com/1/009/130.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-01T16:45:11+08:00"
+              "published_at": "2026-10-01T18:32:08+08:00"
             },
             {
-              "title": "万灵竞记推出花兽 V2 鼠标：镁锂合金外壳，TheShy 联名",
-              "brief": "万灵竞记推出花兽 V2 鼠标，提供龙吐珠、银等 5 种外观，首发到手价 819 至 919 元。其外壳采用镁锂合金材质，底壳为塑料，大面积镂空减重；配备 Nordic nRF54LM20 主控、原相 PAW3955 传感器、欧姆龙光学微动、瑞翼鲨滚轮编码器，内置 300mAh 聚合锂电池。USB-C 有线与 2.4GHz 无线模式下均支持 8kHz 回报率；2.4GHz 接收器集成 1.9 英寸触控屏，兼具 USB Hub 功能，可拓展 1 个 USB-A、2 个 USB-C。",
-              "source_url": "https://www.ithome.com/1/009/099.htm",
+              "title": "比亚迪9月汽车销量463561辆，今年累计销量313万辆",
+              "brief": "比亚迪9月新能源汽车销量463561辆，其中乘用车销量273143辆，9月出口新能源汽车180700辆，今年累计汽车销量313万辆。今年累计新能源汽车销量为3131576辆，去年同期累计为3260146辆，累计同比微降3.94%。产量方面，9月新能源汽车产量463864辆，其中乘用车458116辆，商用车5748辆。今年累计产量3138946辆，同比下降2.32%。其中纯电动乘用车累计产量1636015辆，同比增长3.66%；插电式混合动力乘用车累计产量1451767辆，同比下降8.88%。商用车累计产量51164辆，同比增长21.52%；累计销量53032辆，同比增长28.46%。子品牌方面，比亚迪王朝|海洋系列共计394945辆，方程豹43181辆，腾势汽车18198辆，仰望389辆。",
+              "source_url": "https://www.ithome.com/1/009/129.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-01T16:38:11+08:00"
+              "published_at": "2026-10-01T18:21:10+08:00"
             },
             {
-              "title": "运动相机品牌 GoPro 正式加入 M43 联盟",
-              "brief": "运动相机品牌 GoPro 正式加入 M43 联盟，其 MISSION 1 PRO ILS 采用 M43 卡口。GoPro 此次加入预计将进一步推动 M43 系统在业余电影制作、专业视频制作以及高端电影制作领域的应用。此外，GoPro MISSION 1 PRO ILS 配备全新 1 英寸传感器，支持最高 8K 60P 视频拍摄，最高支持 1080P 960fps 慢动作拍摄；升级为新一代 GP3 智能芯片，可实现更出色的成像及智能跟踪主体。",
-              "source_url": "https://www.ithome.com/1/009/097.htm",
+              "title": "华为Mate 90 Pro Max首发四卡三待功能，Mate XT 2预计10月中下旬OTA支持",
+              "brief": "华为Mate 90 Pro Max首发四卡三待功能，Mate XT 2非凡大师预计十月中下旬推送新版本支持。“四卡三待”意味着该机最多可存储两张实体SIM卡与两组eSIM号码，合计四个通信号码。用户可选择两张实体卡、一张实体卡加一张eSIM，或两张实体卡加一张eSIM等组合，实现三张卡同时待机、同时在线，三卡均可通话、上网和收发短信。余承东在发布会上表示，“四卡三待”能支持两家运营商的三张卡同时待机，相当于省了一部手机。eSIM即嵌入式SIM卡，无需实体卡片即可激活运营商号码，业务功能与实体SIM卡一致。官方宣传页面显示，华为Mate 90 Pro Max的信号状态栏会同步显示三卡信号，采用主卡完整显示、副卡堆叠显示的方式，并支持三卡5A通信同时在线。",
+              "source_url": "https://www.ithome.com/1/009/128.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-01T16:37:54+08:00"
+              "published_at": "2026-10-01T18:19:45+08:00"
             },
             {
-              "title": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
-              "brief": "受 AI 拉动半导体需求暴涨影响，韩国 9 月出口创历史新高，前九个月出口总额首次突破 8000 亿美元关口。未经调整口径下 9 月出口同比上涨 83.5%，进口同比增长 26%，贸易顺差接近 500 亿美元。半导体仍是核心引擎，芯片出口同比猛增 263% 至 603 亿美元，计算机产品出口飙升 435%，汽车出口则下滑 5%。韩国央行已将 2026 年经济增速预期由 2.6% 上调至 3.3%，并暗示后续还有一次加息。",
-              "source_url": "https://www.ithome.com/1/009/096.htm",
+              "title": "丰田欲将顶级豪华车型世极推向全球市场，对标劳斯莱斯等品牌",
+              "brief": "丰田正考虑将顶级豪华车型世极推向全球市场，并听取美国汽车界人士的反馈。自20世纪60年代问世以来，世极一直是丰田的顶级豪华轿车，是日本皇室成员、首相以及大企业社长的专属座驾。几十年来，世极只有一款车型，通常由身着白手套的司机驾驶，接送各种大腕往返日本的权力中心。近年来，丰田一直希望将世极打造成日本特色品牌。去年十月，丰田发布一款线条流畅的世极轿跑概念车，引发汽车界轰动。后续丰田选择将世极升格为独立品牌，凌驾于雷克萨斯之上，英语官网也随之上线。彭博汽车行业研究员Tatsuo Yoshida表示：“如果只看销量或收入，丰田力推世极并没有什么商业意义。但丰田这么做显然是希望向外界发出明确信号，表明其力图在欧洲品牌主导的超豪华汽车市场占据一席之地。”新款世极仍然部分采用纯手工打造。在日本，这款旗舰SUV起售价为2700万日元（约合115.3万元人民币），是丰田最昂贵的乘用车。丰田去年售出约500辆世极，而1997年的销量约为1700辆。在日本经济增长乏力、日元疲软和通货膨胀的背景下，世极走向全球可能会带来光环效应，带动丰田其他车型的销量。",
+              "source_url": "https://www.ithome.com/1/009/126.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-01T16:28:58+08:00"
+              "published_at": "2026-10-01T18:14:27+08:00"
             }
           ]
         },
