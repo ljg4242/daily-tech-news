@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T02:52:41.690354+08:00",
+  "generated_at": "2026-10-03T04:52:20.460219+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果因AI代理宣布macOS“完全磁盘访问”权限调整",
+              "brief": "苹果在开发者新闻网站发布公告，称将针对macOS的“完全磁盘访问”设置引入“额外控制”，原因是AI代理带来新风险。公告指出，部分开发者对该权限的使用方式可能危及用户，暴露系统上的文件、邮件、信息和浏览历史等内容，而用户并不完全知情。苹果表示，对通信类应用而言，这还可能泄露与用户通信者的隐私。今后用户若确实想授予应用这一极高权限，只能通过非常明确的用户操作完成。苹果强调，随着AI代理能力与自主性增强，此类访问带来的风险将大幅上升，因此必须确保用户在授权前清楚了解风险。",
+              "source_url": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-03T03:59:36+08:00"
+            },
+            {
+              "title": "AT&T与苹果采取措施修复iPhone 18 Pro Max连接问题",
+              "brief": "AT&T和苹果正着手解决iPhone 18 Pro Max的蜂窝网络问题，数千名用户无法连接AT&T网络进行通话、短信和数据通信，具体原因尚未公布。苹果当天为iPhone发布了AT&T运营商设置更新，版本从72.0.2升至72.1，推测包含针对该机型连接性的优化，但是否彻底解决尚不清楚。同时，苹果开始要求iPhone 18 Pro Max用户在设置设备前安装iOS 27.0.1，尽管多数受影响用户称该更新并未解决问题。一份泄露的AT&T邮件称iOS 27.0.1旨在减轻未来影响。AT&T向MacRumors表示正“与苹果合作”，苹果未回应置评请求。",
+              "source_url": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-03T03:29:52+08:00"
+            },
             {
               "title": "AT&T回应iPhone 18 Pro Max网络问题：正与苹果合作解决",
               "brief": "AT&T就iPhone 18 Pro Max蜂窝网络问题发表声明，称正与苹果合作解决。AT&T表示，苹果已发布软件更新，以解决可能影响少量iPhone 18 Pro Max手机的通话、数据、短信和911呼叫的问题，并建议用户立即更新至最新系统。受影响的用户可能持续或间歇性无法连接AT&T网络，设备通常进入SOS模式。自9月18日该机型上市以来，数千名用户报告了此问题。值得注意的是，美版iPhone 18 Pro Max是上月发布的新机中唯一配备高通基带的机型，其他机型均使用苹果C2基带，但尚不确定这是否为诱因。",
@@ -35,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果确认iPhone 18 Pro Max存在AT&T网络问题，受影响设备需更换硬件",
+              "brief": "苹果确认部分在AT&T网络下的iPhone 18 Pro Max用户遇到设备失去服务、无法拨打电话的问题。公司本周发布了iOS 27.0.1并推送运营商设置更新，以帮助预防该问题发生。运营商设置更新将在未来14天内自动下载，用户也可在设置-通用-关于中手动触发。苹果强调，这些更新只能预防未来问题，无法恢复已失去服务的设备，此类用户需要更换硬件，应联系苹果支持、AT&T或前往零售店。",
+              "source_url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-03T04:47:02+08:00"
+            },
+            {
+              "title": "HomePad即将到来：苹果会举办十月特别活动吗？",
+              "brief": "苹果九月活动历来规律，但十月活动的时间和预告节奏并不固定。自2010年以来，苹果仅举办过10次十月活动，最近一次是2023年10月30日的“Scary Fast”。彭博社报道称，苹果计划在10月13日发布传闻已久的智能家居中枢、新一代HomePod mini和搭载Siri AI的Apple TV 4K，但未说明是否举办活动。若属实，苹果最早可能在下周一发出邀请。此外，OLED iPad mini、新iMac和多款MacBook Pro也预计在2026年推出。",
+              "source_url": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-03T04:31:33+08:00"
+            },
+            {
+              "title": "9to5Mac Overtime 084：iPhone 18 Pro——出色的专业相机体验",
+              "brief": "本期9to5Mac Overtime播客聚焦iPhone 18 Pro的摄影与摄像体验，主持人Fernando Silva和Jeff Benjamin分享使用感受，并讨论现在购买iPhone 18 Pro还是等待iPhone Duo。Overtime是一档以视频为主的周更播客，探索苹果生态中有趣的观察与话题，可通过Apple Podcasts和YouTube频道订阅。节目中还提及AirPods Pro 3等主持人常用配件，并附有联盟营销声明。",
+              "source_url": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-03T04:00:00+08:00"
+            },
+            {
+              "title": "iOS 27的Siri做对了一件事，其他AI助手却做错了",
+              "brief": "作者使用iOS 27测试版中的Siri AI近四个月，认为新Siri比前代强大得多，兑现了成为苹果设备上真正有能力助手的承诺。虽然ChatGPT、Claude和Gemini在能力上更强，但Siri有一个关键优势：它不假装自己是人类。Siri不会过度冗长或模仿人格来诱导用户建立情感关系，而是明确自己是工具，会提醒用户它是AI、可能出错。作者更喜欢这种不越界的定位，认为AI聊天机器人是工具而非人，苹果对此的理解值得肯定。",
+              "source_url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-03T03:26:34+08:00"
+            },
+            {
               "title": "iPhone Duo 视频揭示与 iPhone 18 Pro Max 的尺寸对比",
               "brief": "一段 Instagram 视频将 iPhone Duo 与 iPhone 18 Pro Max 并排对比。苹果技术规格显示，iPhone Duo 折叠时高 4.64 英寸、宽 3.31 英寸，展开后宽 6.48 英寸；iPhone 18 Pro Max 高 6.43 英寸、宽 3.07 英寸。展开状态下，Duo 的宽度与 18 Pro Max 的高度几乎相同，两者在特定方向上的长度接近。Duo 展开后 4.64 英寸的高度比 18 Pro Max 的 3.07 英寸宽度更宽敞，且可折叠，携带和单手使用更紧凑。",
               "source_url": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-03T02:51:20+08:00"
-            },
-            {
-              "title": "苹果称因 AI 智能体兴起将收紧 macOS 隐私控制",
-              "brief": "苹果在开发者网站博客中表示，macOS 的完全磁盘访问权限本意是让备份应用正常运行，但部分开发者正以可能危及用户的方式使用该权限，暴露系统上的文件、邮件、信息和浏览历史，甚至可能泄露通信对象的隐私。苹果称将引入额外控制措施，确保只有通过非常明确的用户操作才能授予这一特殊访问权限。公司未透露具体细节，但强调随着 AI 智能体能力增强和自主性提高，此类访问带来的风险将大幅增长，用户应在充分了解风险后做出知情决定。",
-              "source_url": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-03T02:34:06+08:00"
-            },
-            {
-              "title": "HomeKit 周报：Home Widget 1.10 可一次性查看所有 HomeKit 摄像头",
-              "brief": "Home Widget 让用户自建 HomeKit 控制面板，放置在主屏幕、锁屏等位置，磁贴可自定义图标、名称、颜色和大小，并实时反映配件状态，面板通过 iCloud 同步。1.10 版最大亮点是摄像头马赛克功能：点击主屏幕或锁屏小组件即可在单一可滚动视图中查看所有 HomeKit 摄像头，点击磁贴可全屏显示，还能添加控制中心控件直接打开。此外新增恒温器控制和整房间灯光操作，可直接从小组件调节温度或统一开关、调光和变色，并支持 iOS 26/27 原生小组件外观。",
-              "source_url": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-03T02:31:00+08:00"
-            },
-            {
-              "title": "Twelve South 推出小巧新款 Airfly Drive 无线 CarPlay 适配器",
-              "brief": "Twelve South 发布 Airfly Drive，可将有线 CarPlay 转为无线 CarPlay，售价 39.99 美元，即日起接受订购。它兼容 2014 年以来超过 75 个品牌和年份的车型，机身采用紧凑铝制设计，配 USB-A 接口并附 USB-C 转接头，无需应用或账户，插入车载 USB 口并配对手机即可使用，之后每次启动自动重连。它还支持两部手机配对，通过单个按钮切换，并兼容 Android Auto，可使用车辆原有屏幕、按钮和方向盘控制。",
-              "source_url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-03T02:15:26+08:00"
-            },
-            {
-              "title": "苹果新系统 homeOS 将于本月发布，功能前瞻",
-              "brief": "苹果备受期待的 HomePad 智能家居中枢据称将于 10 月 13 日亮相，并运行全新操作系统 homeOS。彭博社报道称，该系统融合多种苹果系统设计，包括 iPhone 式小组件、iPad 式应用设计和 Apple Watch 式图标，默认界面以照片幻灯片和时钟为主，上滑可打开应用启动器。Siri AI 是核心输入方式，但触摸操作同样受支持，内置应用包括音乐、播客、照片、天气、FaceTime、备忘录、日历、信息和提醒等。",
-              "source_url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-03T01:22:19+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixelated 第119期：50天后，它依然是一部手机",
+              "brief": "本期Pixelated播客中，主持人回顾了发布50天后的Pixel手机体验，并分享了对亚马逊新款售价80美元、带按键的Kindle保护套的看法，以及Abner对遥控器的喜爱。节目由Proton Unlimited赞助，听众通过专属链接订阅其隐私服务年费可享七折优惠。节目可通过YouTube、Pocket Casts、Spotify、Apple Podcasts等平台收听，主持人为Abner Li、Ben Schoon和Will Sattelberg。听众可通过邮件或评论反馈，也可加入官方论坛参与更多安卓讨论。",
+              "source_url": "https://9to5google.com/2026/10/02/pixelated-119-50-days-later-its-still-a-phone/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-03T04:30:00+08:00"
+            },
+            {
+              "title": "Android Auto上的Gemini对部分司机的问题直接放弃回答",
+              "brief": "Android Auto上的Gemini近期出现新问题：它能听到并处理驾驶者的指令，但随后完全放弃给出答案。有Reddit用户发布视频展示该问题，多位用户表示遇到同样情况，记者本人本周也亲身经历。问题似乎与信号强度或问题内容无关，Gemini会思考片刻后放弃。该问题在Pixel、三星和摩托罗拉设备上均有报告。谷歌目前尚未承认此问题。此前Gemini在Android Auto上已存在多种问题，如任务完成后仍继续说话或等待响应等。",
+              "source_url": "https://9to5google.com/2026/10/02/gemini-for-android-auto-is-just-giving-up-on-answers-for-some-drivers/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-03T03:45:00+08:00"
+            },
+            {
+              "title": "Pixel 4仍是我最爱的谷歌手机硬件，至今依然能打",
+              "brief": "尽管Pixel 4系列被公认为谷歌发布过的最差手机，但作者认为它仍是自己最喜欢的谷歌硬件。Pixel 4在外观上简洁而经典，背面空白配单个方形摄像头模组，作者尤其钟爱“Oh So Orange”配色。屏幕上方的大额头用于放置Soli传感器和面部解锁硬件，虽然这一尝试未成功，但面部解锁至今仍能识别蓄须后的作者。真正让作者念念不忘的是它的手感，软触感材质和整体物理设计非常出色，即便手机本身存在诸多失败之处。",
+              "source_url": "https://9to5google.com/2026/10/02/google-pixel-4-favorite-hardware-revisit/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-03T03:30:00+08:00"
+            },
             {
               "title": "周五安卓应用优惠与免费领取：ISLANDERS、Newtro Boxing、Planescape 等",
               "brief": "9to5Toys 汇总了周五的安卓应用优惠与免费领取活动，重点推荐 ISLANDERS、Newtro Boxing、Planescape 等多款游戏与应用，并提醒读者关注亚马逊对早秋 Prime Day 促销的更新，其中新增了 Apple、Google、Anker、Ring 等品牌的优惠。文章由 Justin Kahn 于 2026 年 9 月 25 日发布，旨在帮助用户以更低价格获取常用应用和游戏。",
@@ -87,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/02/google-android-auto-media-app-updates/",
               "source_name": "9to5Google",
               "published_at": "2026-10-03T02:20:00+08:00"
-            },
-            {
-              "title": "Gemini 应用新增“地图”工具，用“@”取代“/”调用技能",
-              "brief": "Gemini 移动应用新增“地图”工具，位于 Photos、Camera、Avatar、Files、Drive 和 Notebooks 等选项之后。点击后可打开显示当前位置的实时地图，支持平移缩放和搜索地点，选择区域后可将“Map Area”加入提示框并追加文字。该工具已广泛推送。此外，在 Google 应用 17.63 测试版中，Gemini 将用“@”符号取代正斜杠“/”来调用技能，与已用于连接应用的符号统一，连接应用即将更名为“Connectors”。",
-              "source_url": "https://9to5google.com/2026/10/02/gemini-app-map-tool/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-03T01:55:05+08:00"
-            },
-            {
-              "title": "YouTube 称 Shorts 推荐将不再展示非原创内容",
-              "brief": "YouTube 宣布调整 Shorts 推荐系统，以进一步优先展示原创内容，并降低从其他创作者处重新上传且未添加任何原创内容的视频的曝光度。此举旨在减少直接搬运长视频片段或抄袭他人作品的现象，让原创 Shorts 创作者获得更多回报。不过 YouTube 未明确划定“非原创”的具体界限，也未公布该调整的生效日期，但可能已经上线。此前 YouTube 还曾测试让用户用 AI 重新演绎其他频道视频的功能，这些视频是否仍会出现在推荐中尚不明确。",
-              "source_url": "https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-03T01:52:25+08:00"
-            },
-            {
-              "title": "优惠：Pixel Watch 5 最高减 138 美元，Belkin 25W 三合一磁吸充电器，OmniBook 3 减 150 美元等",
-              "brief": "本次优惠以 45mm Pixel Watch 5 领衔，最高优惠 138 美元，创下历史低价之一；全新 Fire TV Stick 4K 半价；Belkin 25W 三合一磁吸充电座降至 50 美元，适合 Pixel 和 Galaxy 用户。此外，Sharge 金属 300W 智能显示屏充电宝回归 50 美元优惠的历史低价，惠普 OmniBook 3 骁龙 X 笔记本优惠 150 美元。Twelve South 也推出新款 Airfly Drive 无线 Android Auto 适配器，售价 39.99 美元。",
-              "source_url": "https://9to5google.com/2026/10/02/deals-pixel-watch-5-belkin-25w-3-in-1-android-charger/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-02T23:49:09+08:00"
             }
           ]
         },
@@ -115,45 +129,52 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "研究综述：六则差点错过的精彩科学故事",
-              "brief": "每月科学新闻综述盘点当月差点被忽略的有趣研究。九月内容包括：LUX-ZEPLIN探测器给出暗物质存在的诱人线索，但信号远低于确认发现所需阈值，可能只是统计涨落；大型强子对撞机观测到纠缠的Z玻色子；晚更新世人类可能使用精神活性物质；以及一份据称属于伽利略的望远镜技术描述。这些故事涵盖粒子物理、考古与天文史等多个领域。",
-              "source_url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+              "title": "亚马逊10亿美元应对数据中心反弹计划招致更多批评",
+              "brief": "亚马逊承诺未来五年向数据中心周边社区捐赠逾10亿美元，由社区决定资金用于教育、职业培训、能源可负担性、水资源与能源保护等优先事项，并承诺确保数据中心不推高电费、不耗尽当地水源，到2030年实现“水资源正效益”，称75%项目已达标。AWS首席执行官加曼还称，要求暂停数据中心的呼声必须停止，否则美国前沿AI可能落后于中国，并称对手试图诱使美国放慢脚步。但倡导组织Stand.Earth向Ars表示，亚马逊才是在淡化数据中心污染问题的一方。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
               "source_name": "Ars Technica",
-              "published_at": "2026-10-03T02:17:27+08:00"
+              "published_at": "2026-10-03T04:30:27+08:00"
             },
             {
-              "title": "美军结束长期运行的核导弹发射探测计划",
-              "brief": "1970年11月，一枚泰坦IIIC火箭从卡纳维拉尔角发射，搭载美国军方绝密载荷，后披露为“国防支援计划”卫星。首批卫星重约一吨，各携带约两千个红外探测器，实为极灵敏的望远镜，部署于地球同步轨道，用于探测针对美国的核弹头发射，长期是美国军事航天的重要组成。该计划运行数十年后于上月结束，新计划自2011年运行，下一代或将在12个月内发射。",
-              "source_url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+              "title": "“零号病人”演练考验医疗机构，四成未通过",
+              "brief": "新冠疫情暴露了国家和全球层面防疫准备的弱点，而一项新研究显示，即使在疫情暴发最初的地方应对环节，美国也准备不足。纽约卫生官员对医疗机构开展区域性测试，模拟识别和应对可能构成大流行威胁的神秘感染患者。结果整体反应迟缓，个人防护装备使用不规范，仅60%的机构通过基础测试，总体不合格。官员在《发病率和死亡率周报》上写道，演练表明需要加强医护人员培训，以便更早识别、戴口罩和隔离可能具传染性的发热患者。演练使用专业病人演员，化装成H5禽流感症状患者进入73家医疗机构。",
+              "source_url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
               "source_name": "Ars Technica",
-              "published_at": "2026-10-03T01:32:14+08:00"
+              "published_at": "2026-10-03T04:07:59+08:00"
             },
             {
-              "title": "我如何借助纽约免费电池计划让窗式空调保持凉爽",
-              "brief": "作者一家连续四个夏天参与电力公司的需求响应计划，以往需在最热时段预冷公寓再关空调忍耐高温。今年热穹顶期间白天温度破百、夜晚闷热，他们却让窗式空调全程运行，靠客厅和卧室角落里的两块家用电池供电。他们参与了本地初创公司Every Electric提供的免费计划，约一千户纽约家庭加入：电池送到家，插普通插座，空调再插电池，既维持舒适又能通过联合爱迪生公司的需求响应计划赚钱。",
-              "source_url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+              "title": "Lyft以2.725亿美元和解司机分类标志性诉讼",
+              "brief": "加州总检察长和三名市检察官宣布与Lyft达成2.725亿美元和解，此前该公司被指在2016年至2020年间将司机错误归类为独立承包商而非雇员，构成工资盗窃。案件可追溯至2020年5月，时任总检察长、现民主党州长候选人贝塞拉起诉Uber和Lyft，称两家公司宣称司机不是雇员以规避州法。周四的和解仅涉及Lyft，对Uber的诉讼仍在继续。总检察长邦塔称这是加州历史上最大的错误分类和解，是工人的标志性胜利。洛杉矶市检察官表示，和解传递明确信息：企业必须守法、公平缴税并遵守规则。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
               "source_name": "Ars Technica",
-              "published_at": "2026-10-03T01:20:21+08:00"
+              "published_at": "2026-10-03T03:09:49+08:00"
             },
             {
-              "title": "Cybertruck销量暴跌，特斯拉第三季度业绩平平",
-              "brief": "特斯拉2026年第三季度售出486532辆电动车，同比下降2.1%，但仍超过分析师预期的456600辆。总产量同比增长3.7%至464391辆，其中Model 3和Y为457387辆，增长4.9%；其余7004辆为其他车型，主要是Cybertruck，该类别同比大降39.8%。当季Model 3和Y售出478237辆，下降0.6%；其他车型销量下降48%至8295辆。能源存储业务表现较好，部署13.7吉瓦时，同比增长9.6%。财报将于10月21日公布。",
-              "source_url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+              "title": "2008年经济危机改变了美国与能源的关系",
+              "brief": "关于气候变化的一种常见论点认为，化石燃料推动了经济增长，使多数人生活更好，但这种视角极其有限：增长带来了极端天气造成的损害和 disruption 等高昂成本，而海平面上升即使实现净零也将持续数百年，最终代价难以估算。如今已有更好的增长供能方式，环境破坏更小，也不会给后代留下难以处理的碳债务。2013年有人提出“打开剪刀”的比喻：数十年来GDP增长与碳排放像闭合剪刀的两片刀刃锁在一起，需要让GDP继续增长但与碳排放脱钩。瑞典自1996年碳排放逐步下降，总量较1996年峰值减少三分之一，较1970年最高水平减少一半以上，而GDP持续增长。",
+              "source_url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
               "source_name": "Ars Technica",
-              "published_at": "2026-10-03T00:05:26+08:00"
+              "published_at": "2026-10-03T02:56:21+08:00"
             },
             {
-              "title": "受AI影响，发布七年的Nvidia Shield TV涨价100美元",
-              "brief": "英伟达宣布，2019年推出的Shield TV Pro即刻起涨价100美元，新售价为299.99美元。该设备搭载老旧的Tegra X1+处理器，支持AI画质提升和几乎所有媒体格式的硬件解码，最初售价199.99美元，非Pro版本已停产。英伟达发言人向Ars表示，涨价源于全行业内存等组件成本大幅上涨，并确认可归因于AI。此前英伟达的Andrew Bell曾称Shield是热情项目，但仍需盈利，由于没有AI时代前的硬件库存，新生产的Shield TV同样受到当前供应链限制影响。",
-              "source_url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+              "title": "美国逮捕被控向中国走私3亿美元英伟达芯片的科技公司CEO",
+              "brief": "美国又逮捕一名涉嫌将含出口管制英伟达芯片的高端计算机服务器走私到中国的嫌疑人。司法部周四在新闻稿中指控38岁的Greg Lui使用虚假文件掩盖价值逾3亿美元服务器的运输，据称他明知这些服务器最终目的地是中国。作为Earthmade Computer的CEO，Lui涉嫌与马来西亚、新加坡等南亚国家货运代理公司合谋，非法将英伟达A100和H100 GPU等芯片转运至中国。这些并非英伟达最先进芯片，但能处理大量数据并训练大语言模型，美国担心中国获得足够芯片会大幅推进AI或增强军力。司法部称，电子邮件和银行记录暴露了从2023年10月持续至2026年8月的走私计划。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
               "source_name": "Ars Technica",
-              "published_at": "2026-10-02T22:52:16+08:00"
+              "published_at": "2026-10-03T02:39:36+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌为 Gemini 应用新增地图工具，仅限手机端使用",
+              "brief": "谷歌本周为 Gemini 应用推出“地图”工具，目前仅在 Android 和 iOS 手机端上线。用户可在功能轮播栏末尾找到它，与照片、相机、头像、文件、云端硬盘和笔记本并列。点击地图后会显示当前位置及圆形聚焦区域，可缩放并搜索具体地点，底部“探索此区域”按钮会将“地图区域”加入提示词。同时，谷歌在 Google 应用 17.63 测试版中把正斜杠改为 @ 符号，用于调用技能和连接器，技能将于 10 月 13 日推出。",
+              "source_url": "https://www.androidauthority.com/gemini-app-map-tool-3718688/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-03T04:20:59+08:00"
+            },
             {
               "title": "谷歌确认Messages的RCS消息发送故障并开始推送修复",
               "brief": "近期部分谷歌Messages用户反映通过RCS发送媒体附件失败。谷歌向Android Authority确认，已知晓影响部分用户的RCS消息投递故障，并已开始推送修复，预计未来几周内覆盖所有用户，同时建议用户保持应用为最新版本。RCS取代短信和彩信是Messages的重要升级，此次故障影响部分用户分享GIF等内容，修复到位前可能还需等待一段时间。",
@@ -181,19 +202,33 @@
               "source_url": "https://www.androidauthority.com/arlo-ultra-wireless-security-camera-4k-hdr-deal-3718581/",
               "source_name": "Android Authority",
               "published_at": "2026-10-03T01:49:59+08:00"
-            },
-            {
-              "title": "谷歌日历或将允许为每个日历单独设置默认事件时长",
-              "brief": "谷歌日历目前允许用户更改新事件的默认时长，但该设置影响账户下所有日历。在安卓版日历2026.38.0-989268529-release版本的代码中，谷歌似乎准备将这一选项移至各个日历的单独设置中，使不同日历可拥有各自的默认事件时长。这一改动更符合实际使用场景，例如工作与个人日历可采用不同的默认时长。",
-              "source_url": "https://www.androidauthority.com/calendar-default-length-3718621/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-03T01:25:32+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Netflix正放弃精品路线",
+              "brief": "Netflix许多广受好评的热门作品，源自其与大卫·芬奇、肖恩·利维等知名导演签订的多年度制作协议。但过去几周，这家流媒体平台接连终止了其中部分合作，似乎预示着更大的战略转向。在派拉蒙与华纳兄弟探索即将合并、重塑娱乐业格局之际，Netflix显然在思考如何在持续的流媒体大战中保持竞争力。文章分析了这一系列导演退出事件背后，Netflix对成功策略的重新考量。",
+              "source_url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+              "source_name": "The Verge",
+              "published_at": "2026-10-02T16:30:26-04:00"
+            },
+            {
+              "title": "苹果将限制Mac磁盘访问，因AI代理大幅增加风险",
+              "brief": "苹果将在Mac上对“完全磁盘访问”权限施加新限制，以应对AI代理带来的风险。苹果在周五的更新中表示，将推出新控制措施，确保真正希望授予应用这一特殊权限的用户，必须通过非常明确的用户操作才能完成。此前数周，《Inc》的Jason Aten发现Meta的Muse AI似乎知道其消息内容，尽管他并未明确授权该聊天机器人在iPhone或Mac上访问这些信息。Meta发言人回应称，访问消息完全基于用户选择加入，需同时启用完全磁盘访问和消息连接器。",
+              "source_url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+              "source_name": "The Verge",
+              "published_at": "2026-10-02T16:08:40-04:00"
+            },
+            {
+              "title": "Sling TV取消单日有线电视通行证",
+              "brief": "Dish旗下的Sling TV将不再提供Sling Pass功能，该功能允许用户按天购买有线电视节目。据The Desk报道，这项去年推出的功能提供一日、周末和一周通行证选项，让用户无需整月订阅有线电视即可观看ESPN和CNN等频道。但推出后不久，迪士尼和华纳兄弟探索便起诉Sling TV，不过联邦法官驳回了迪士尼要求初步禁令阻止该功能的请求。Sling TV在官网声明中称，Sling Passes曾为数百万用户兑现了掌控娱乐的承诺，如今虽已下架，但公司期待未来继续创新。",
+              "source_url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+              "source_name": "The Verge",
+              "published_at": "2026-10-02T16:00:20-04:00"
+            },
             {
               "title": "OpenAI推出Dot智能体：企业级软件也能帮你订晚餐",
               "brief": "OpenAI发布全新智能体平台Dots，内含多个可爱的小助手，可执行用户指令。该平台被形容为面向普通用户的Codex，既能处理企业级任务，也能完成订晚餐等日常事务。文章由资深评测人Allison Johnson撰写，她拥有十余年消费科技报道经验，尤其关注移动摄影与电信领域，此前曾任职于DPReview。Dots的推出延续了OpenAI在智能体领域的布局，旨在降低AI使用门槛，让非技术用户也能轻松驾驭自动化助手完成各类操作。",
@@ -207,27 +242,6 @@
               "source_url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
               "source_name": "The Verge",
               "published_at": "2026-10-02T13:37:36-04:00"
-            },
-            {
-              "title": "Rivian销量攀升，R2豪赌初见成效",
-              "brief": "Rivian对其更实惠的R2车型寄予厚望，目前这些期望似乎正在兑现。公司公布第三季度产销数据，共生产19,751辆、交付19,248辆，产量同比增长85%，交付量增长45%。对于Rivian这样的直销车企，交付量可视为销量指标。公司还重申2026年全年指引，预计交付6.5万至7万辆。Rivian曾对R2寄予厚望，如今数据表明这一战略押注开始产生回报，为公司在竞争激烈的电动车市场中注入信心。",
-              "source_url": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-              "source_name": "The Verge",
-              "published_at": "2026-10-02T13:15:03-04:00"
-            },
-            {
-              "title": "Beehiiv 创作者对涨价感到不满",
-              "brief": "作为 Substack 替代品而走红的创作者平台 Beehiiv 宣布涨价，引发许多用户不满。联合创始人兼 CEO 泰勒·登克称，涨价是为了“继续投资核心平台体验”。中档 Scale 计划更名为 Lite，按订阅人数不同每月至少上涨 10 美元：订阅者不超过 1 万时，月费从 109 美元升至 139 美元；Pro 计划（原 Max）同样订阅规模下从 219 美元涨至 239 美元。订阅者少于 2500 的创作者仍可免费使用。",
-              "source_url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-              "source_name": "The Verge",
-              "published_at": "2026-10-02T12:51:49-04:00"
-            },
-            {
-              "title": "Nacon 新款 PS5 手柄可混合手机与主机音频",
-              "brief": "Nacon 发布号称全球首款官方授权的带屏幕 PlayStation 5 手柄 Revolution 5 Unlimited，可直接在手柄上调节摇杆灵敏度或重映射按键。其屏幕还能混合多个音源，插入有线耳机后可同时收听手机音乐和游戏声音。该手柄采用非对称 TMR 摇杆和内置设置屏，即日起在 Nacon 在线商店以 229.99 美元开启预售，预计今年晚些时候发货。它主要面向 PS5 设计，同时也具备其他功能。",
-              "source_url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-              "source_name": "The Verge",
-              "published_at": "2026-10-02T12:35:13-04:00"
             }
           ]
         }
@@ -239,6 +253,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "前Rockstar负责人丹·豪瑟不玩开放世界游戏，也不打算玩《GTA 6》",
+              "brief": "前Rockstar负责人丹·豪瑟表示自己不常玩开放世界游戏，也不打算玩《GTA 6》，原因是不想在新项目创作中受到其他作品影响。他在新公司Absurd Ventures开发两款新游戏，称制作《荒野大镖客》时便不再看西部片，直到离开Rockstar后才补看《黑道家族》。他还说玩其他开放世界游戏时会不自觉拆解对方团队的优缺点，这让他分心，因此更倾向从旧有媒介中寻找灵感，而非比较他人做法。",
+              "source_url": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+              "source_name": "IGN",
+              "published_at": "2026-10-03T02:10:29+08:00"
+            },
+            {
+              "title": "《GTA 6》年龄分级确认性、毒品、斩首等新细节",
+              "brief": "《GTA 6》获得PEGI 18分级，披露了斩首、玩家可随时吸食可卡因、性癖场景等内容。该分级信息曾出现在泛欧洲游戏信息组织网站，随后页面被撤下，但已被网友截图传播。此前一天游戏刚获ESRB的M级评级。分级描述玩家将操控杰森·杜瓦尔与露西亚·卡米诺斯，两人在抢劫失败后卷入犯罪阴谋，在罪恶都市逐渐深陷犯罪活动。PEGI称游戏暴力血腥且高度写实，部分武器可造成详细斩首与肢解等更大伤害。",
+              "source_url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+              "source_name": "IGN",
+              "published_at": "2026-10-03T01:37:32+08:00"
+            },
             {
               "title": "迪士尼与Netflix达成授权协议：《冰川时代》《波西·杰克逊》等将登陆Netflix",
               "brief": "迪士尼与Netflix达成非独家授权协议，多部迪士尼影视内容将登陆Netflix。协议包括《波西·杰克逊与奥林匹斯众神》前两季于10月4日上线，早于11月20日Disney+第三季首播；五部《冰川时代》电影同步登陆；《威尔·特伦特》《换挡》《追踪者》等剧集将在2026年11月至2027年2月间上线。2027年还将有《心灵奇旅》《埃利奥》《寻龙传说》等皮克斯与迪士尼动画电影，以及《费丽西蒂》《我们这一天》等完整剧集。漫威与星战等核心IP仍为Disney+独占。",
@@ -259,20 +287,6 @@
               "source_url": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
               "source_name": "IGN",
               "published_at": "2026-10-02T23:50:46+08:00"
-            },
-            {
-              "title": "宝可梦卡牌据称将于2027年推出首个情人节系列",
-              "brief": "据Pokébeach报道，宝可梦公司或于2027年推出首个情人节主题卡牌系列。泄露信息显示“宝可梦TCG情人节盒”将类似万圣节“Trick or Trade”系列，而非完整扩展包。季节系列通常为含三张卡的铝箔包加贴纸，万圣节版有南瓜印章皮卡丘，情人节版可能推出粉色皮卡印章。盒子据称可折叠成纸板邮箱，方便在教室分发卡片。此前季节产品以复刻卡为主，但密封产品二手市场价值不低，如2025年Trick or Trade套装目前约值75.99美元。",
-              "source_url": "https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
-              "source_name": "IGN",
-              "published_at": "2026-10-02T23:08:39+08:00"
-            },
-            {
-              "title": "暴雪将“凯尔失踪了”任务加入《魔兽世界：永恒》",
-              "brief": "暴雪应玩家请求，将“凯尔失踪了！”任务加入《魔兽世界：永恒》。该任务源自2007年燃烧的远征时期，通过“愿望成真”基金会为患脑癌的12岁男孩埃兹拉·查特顿实现愿望。他以游戏名Ephoenix为任务发布者阿哈布·麦蹄配音，其爱犬凯尔也被加入游戏供玩家寻找。任务于2007年6月19日随2.1.2补丁上线，查特顿于2008年10月去世。因该任务属TBC内容，原不在“永恒”版中，玩家在论坛请求后，社区经理Kaivax回应“正在处理”，随后正式加入。",
-              "source_url": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever",
-              "source_name": "IGN",
-              "published_at": "2026-10-02T23:07:56+08:00"
             }
           ]
         },
