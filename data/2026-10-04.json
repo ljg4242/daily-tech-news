@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T04:51:54.154715+08:00",
+  "generated_at": "2026-10-04T06:51:59.511572+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Gemini应用调整免费及AI Plus用户的模型权限，AI Pro新增Deep Think",
+              "brief": "据本周更新的支持文档，未订阅Google AI的Gemini应用用户将仅能使用(3.5) Flash-Lite模型。自10月9日起，免费用户将无法访问(3.6) Flash或(3.1) Pro。AI Plus订阅用户则限于Flash-Lite和Flash，不再提供Pro。这些每月4.99美元的用户将收到邮件说明变更生效时间。AI Pro和AI Ultra无降级，反而每月19.99美元的AI Pro用户将获得Deep Think选项，用于最大并行推理，该功能此前仅限每月99.99和199.99美元的套餐。此外，Gemini应用10月似将新增低、中、高努力级别，可提升任务完成能力，但会消耗更多额度。",
+              "source_url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-04T05:26:32+08:00"
+            },
             {
               "title": "今晚在 Apple TV 免费观看 F1，美国用户无需订阅",
               "brief": "本周末 F1 赛事在 Apple TV 上向美国所有用户免费开放，无需订阅。正赛于美国东部时间凌晨 3 点开始，直播报道从 1 点 50 分开始，用户也可稍后点播观看。只需在兼容设备上安装 Apple TV 应用并身处美国即可。维斯塔潘拿下本赛季首个杆位，汉密尔顿第二，积分榜领先者安东内利第三。巴林大奖赛因伊朗战争取消，改由巴林主办方赞助在马来西亚雪邦举行。",
@@ -35,13 +42,6 @@
               "source_url": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-04T00:36:23+08:00"
-            },
-            {
-              "title": "MacPaw推出Leebry平台，试图解决IT团队AI信任危机",
-              "brief": "MacPaw发布的2026年AI职场报告显示，90%的公司在部署AI时未彻底审核内部知识库，导致AI工具基于过时文档和无关论坛内容回答员工问题。六成IT负责人认为高层对AI的期望与团队能安全准确交付的成果之间存在明显脱节。为此，MacPaw推出面向IT团队的工作AI平台Leebry，该项目最初源于2025年内部黑客松，旨在解决员工反复询问相同问题等实际痛点。",
-              "source_url": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-03T21:45:00+08:00"
             }
           ]
         },
@@ -68,6 +68,37 @@
               "source_url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
               "source_name": "The Verge",
               "published_at": "2026-10-03T11:00:00-04:00"
+            }
+          ]
+        },
+        {
+          "name": "9to5Google",
+          "articles": [
+            {
+              "title": "Gemini应用调整免费及AI Plus用户可用模型，AI Pro新增Deep Think",
+              "brief": "据本周更新的支持文档，未订阅Google AI的Gemini应用用户将只能使用(3.5) Flash-Lite模型；自10月9日起，免费用户无法再访问(3.6) Flash或(3.1) Pro。AI Plus订阅者仅限Flash-Lite与Flash，Pro不再可用，月费4.99美元用户将收到邮件说明生效时间。AI Pro和AI Ultra无降级，月费19.99美元的AI Pro用户将获得Deep Think选项，用于最大并行推理，此前仅限99.99和199.99美元套餐。10月应用还将为各模型新增低、中、高effort级别，以增强任务处理能力，但会消耗更多额度。",
+              "source_url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-04T04:57:47+08:00"
+            },
+            {
+              "title": "谷歌初代Pixel Fold理念超前，领先时代数年",
+              "brief": "2023年谷歌推出首款折叠屏Pixel Fold时，可折叠设备仍处成长阵痛期。作者当时评价其“好于预期，但远非完美”，如今仍坚持这一看法。即便后续有三款谷歌折叠屏及行业快速进步，初代Pixel Fold在硬件坚固、相机可用和妥协较少方面仍做得不错。但它并未很好经受时间考验：金属边框亮面极易沾指纹，机身沉重，折痕明显且厚重，Tensor G2散热问题也令人担忧。然而它做对了一件事：形态。在苹果入局折叠屏后，品牌纷纷转向更宽形态，Galaxy Z Fold 8大获成功。Pixel Fold三年前就采用了这一核心思路，即更宽画布利于多任务和平板应用。",
+              "source_url": "https://9to5google.com/2026/10/03/googles-original-pixel-fold-was-the-right-idea-years-ahead-of-its-time/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-04T03:30:00+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "曾参与拯救阿波罗13号的NASA飞行主管米尔特·温德勒去世，享年94岁",
+              "brief": "米尔特·温德勒于周四在家人的陪伴下去世，享年94岁。他于1968年被任命为NASA飞行主管，此前曾参与水星和双子星计划的回收工作。他领导了阿波罗8号首次绕月飞行、阿波罗10号登月演练以及阿波罗12、14、15号登月任务的飞行控制团队，并担任天空实验室三次载人任务的飞行主管。1970年，他作为任务控制中心四位负责人之一，指挥了让阿波罗13号宇航员安全返回地球的昼夜救援行动。",
+              "source_url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-04T03:45:17+08:00"
             }
           ]
         }
@@ -125,6 +156,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "OpenAI前安全员工批评公司文化崩坏，称AI迭代部署过于激进",
+              "brief": "OpenAI前安全部门员工鲁宾森发文称已辞职，批评公司文化崩坏，认为包括OpenAI在内的AI企业做得远远不够谨慎，在研发更强系统前应更重视安全人才与研究。他表示试错时代已结束，先进AI所需防护机制应接近核电与航空业的安全保障体系。他称OpenAI依赖迭代部署模式，先发布系统再等暴露问题后加固安全，并自称任职三年半、参与起草风险应对框架、监督12次前沿模型发布安全报告。OpenAI回应称一直把控模型能力范围，需要时会暂停训练或暂缓发布。",
+              "source_url": "https://www.ithome.com/1/009/581.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-10-04T06:43:56+08:00"
+            },
+            {
               "title": "华为 Mate 90 Pro Max 性能解禁：麒麟 9050 Pro 游戏能效优于部分第五代骁龙 8 至尊版机型",
               "brief": "华为 Mate 90 Pro Max 与 RS 非凡大师搭载首款逻辑折叠 τ 芯片麒麟 9050 Pro，通过软硬芯云垂直整合，整机性能提升 31%，CPU 支持 9 核 16 线程超线程，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%。极客湾发布性能分析报告，公开其实际性能续航表现。游戏实测中，《原神》890P 满帧功耗仅 4.2W，《鸣潮》648P 进步明显，《异环》平均帧率提升超 10 帧，能效优于部分骁龙 8 Elite Gen5 机型。新机内置 6800mAh 电池，续航达 9 小时 56 分钟。上述表现需运行鸿蒙原生游戏。",
               "source_url": "https://www.ithome.com/1/009/580.htm",
@@ -151,19 +189,33 @@
               "source_url": "https://www.ithome.com/1/009/577.htm",
               "source_name": "IT之家",
               "published_at": "2026-10-03T22:51:51+08:00"
-            },
-            {
-              "title": "传台积电探索与 Terafab 合作事宜，马斯克确认谈判",
-              "brief": "有消息传出，台积电正探索与 Terafab 的合作事宜。此前台积电已与 Intel 达成合作；近来有风声传出，台积电考虑在美国设立第二园区，Terafab 所在的得克萨斯州是最可能的落脚点。更新消息显示，埃隆·马斯克已确认相关谈判。IT之家还附有台积电在美建厂、欧洲扩产及先进制程规划等相关文章链接。",
-              "source_url": "https://www.ithome.com/1/009/413.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-10-03T10:55:08+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "印第·纳瓦雷特谈《X战警》罗刹女角色：尽全力演好",
+              "brief": "漫威电影宇宙《X战警》重启版选角备受关注，饰演能吸收他人能力的变种人罗刹女的印第·纳瓦雷特接受《洛杉矶时报》采访，表示自己绝不会轻视这个角色。她说自己热爱这个角色，已深入研究，要为自己、为导演杰克·施赖尔，也为作为粉丝所期待的形象做到最好。她曾出演《十三个原因》《超人与露易丝》，并因低成本恐怖片《Obsession》走红。罗刹女此前由安娜·帕奎因在2000年《X战警》等片中饰演，纳瓦雷特还谈到为还原其南方口音所做的准备。",
+              "source_url": "https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
+              "source_name": "IGN",
+              "published_at": "2026-10-04T05:03:46+08:00"
+            },
+            {
+              "title": "2026年RuneFest汇总：《RuneScape 4》与《RuneScape Reignited》等公布",
+              "brief": "今年RuneFest公布多项重要消息，最大亮点是确认第四款《RuneScape》MMO正在开发，暂定名RS4，采用虚幻引擎，面向新一代玩家。Jagex还宣布与YouTuber MoistCr1TiKaL及Lyrical Media合作推出《RuneScape》动画改编。12月2日上线的《RuneScape Reignited》被称为这款25年游戏的“决定性时刻”，带来重制旅程、全新经济和排行榜，12月2日至12日无需会员即可体验。插件API本月推出，官方还公布游戏史上最大路线图，2027年内容分三条故事线，包括《龙之宝藏》《侏儒之城》和《卡拉姆贾的秘密》。",
+              "source_url": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex",
+              "source_name": "IGN",
+              "published_at": "2026-10-04T04:00:41+08:00"
+            },
+            {
+              "title": "Jagex公布虚幻引擎打造第四款《RuneScape》MMO及MoistCr1TiKaL动画",
+              "brief": "在RuneFest上，Jagex首次展示正在开发的第四款《RuneScape》MMO，称其为“新一代玩家”打造。该作仍处早期开发阶段，预计至少数年后才会发售，暂无正式名称，暂以RS4为工作标题，将用虚幻引擎把吉里诺世界呈现出来，结合25年来的深度、自由与社区精神以及当今技术与设计可能。Jagex目前运营《RuneScape》《Old School RuneScape》和衍生作《RuneScape: Dragonwilds》。官方博客称，提前公布是因为希望延续《Dragonwilds》的技术积累，并依靠社区共同开发。",
+              "source_url": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
+              "source_name": "IGN",
+              "published_at": "2026-10-04T04:00:22+08:00"
+            },
             {
               "title": "《战争机器：E-Day》开发者称“自豪成为Xbox主力作品之一”",
               "brief": "《战争机器：E-Day》开发者接受采访时表示，团队对这款游戏作为Xbox独占作品感到自豪，并称《战争机器》系列是Xbox基因的一部分。该作已确定为Xbox Series X/S和PC独占。此前该系列曾通过《战争机器：重装上阵》登陆PS5，引发外界对独占策略松动的猜测。Xbox在2026年游戏展上正式确认本作不会登陆竞品平台，并宣布更广泛的独占游戏推进计划，承诺不再将Xbox独占作品带到对手平台。",
@@ -177,13 +229,6 @@
               "source_url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
               "source_name": "IGN",
               "published_at": "2026-10-04T01:54:26+08:00"
-            },
-            {
-              "title": "“我已尽力”——《最终幻想7 启示录》总监回应粉丝要求完整光盘版",
-              "brief": "《最终幻想7 启示录》总监滨口直树接受Radio Times采访时回应粉丝对完整光盘版的诉求。他表示自己从小购买大量实体游戏，对特别钟爱的作品仍偏好实体版，也理解社交媒体上“无光盘不购买”的声音。该作已确认2027年发售时提供光盘选项，但PS5和Xbox Series X实体版插入光盘后仍需额外下载大量内容，光盘仅含“开场部分”，属于“钥匙盘”。滨口称团队对此决定并非轻率，他理解相关争议，并回应称“我已尽力”。",
-              "source_url": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
-              "source_name": "IGN",
-              "published_at": "2026-10-04T00:21:11+08:00"
             }
           ]
         },
