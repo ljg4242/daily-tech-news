@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T08:51:48.184463+08:00",
+  "generated_at": "2026-10-03T10:51:55.437386+08:00",
   "sections": [
     {
       "category": "主要",
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "苹果调整全盘访问权限，遏制AI代理滥用",
+              "brief": "苹果宣布修改macOS隐私设置，阻止第三方应用开发者滥用权限访问信息记录。此前专栏作家Jason Aten称Meta的通用AI代理Muse未经许可发送引用他与同事在苹果信息中对话的通知。Meta首席技术官David Singleton回应称，Muse访问信息需用户手动授予全盘访问权限并启用信息连接器，属选择加入。macOS安全专家Patrick Wardle对Singleton的否认提出质疑，认为权限机制可能被绕过，苹果此次调整正是为遏制此类滥用。",
+              "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-03T07:03:16+08:00"
+            },
+            {
               "title": "有人用SQL数据库跑起了《毁灭战士》",
               "brief": "开发者卢卡斯·沃格尔撰文介绍，他用SQL数据库渲染《毁灭战士》。该项目由小型Python客户端处理输入输出、控制游戏节奏并逐帧显示画面，后台用CedarDB数据表记录游戏几何与状态，约1300行SQL查询分布在89个公共表表达式中，实现游戏逻辑并每秒生成35帧位图画面。这比其此前只能输出灰度ASCII图形的DoomQL项目大幅进步，新版本可生成640×480全彩画面，效果接近原版《毁灭战士》。",
               "source_url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-03T03:09:49+08:00"
-            },
-            {
-              "title": "2008年经济危机改变了美国与能源的关系",
-              "brief": "关于气候变化的一种常见论点认为，化石燃料推动了经济增长，使多数人生活更好，但这种视角极其有限：增长带来了极端天气造成的损害和 disruption 等高昂成本，而海平面上升即使实现净零也将持续数百年，最终代价难以估算。如今已有更好的增长供能方式，环境破坏更小，也不会给后代留下难以处理的碳债务。2013年有人提出“打开剪刀”的比喻：数十年来GDP增长与碳排放像闭合剪刀的两片刀刃锁在一起，需要让GDP继续增长但与碳排放脱钩。瑞典自1996年碳排放逐步下降，总量较1996年峰值减少三分之一，较1970年最高水平减少一半以上，而GDP持续增长。",
-              "source_url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-03T02:56:21+08:00"
             }
           ]
         },
@@ -254,6 +254,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "卡普空宣布将RE引擎打造为AI生成游戏引擎",
+              "brief": "卡普空在10月2日举行的“Capcom Open Conference RE: 2026”技术大会上宣布，计划将RE引擎逐步转型为“AI生成游戏引擎”。程序员石田聪在演讲中介绍了名为“REX”的多阶段改进项目，旨在解决游戏规模庞大导致流程耗时、员工增多需要易用引擎，以及AI技术融入开发流程等三大问题。REX将统一整个RE引擎系统，采用全球最通用的编程语言，兼顾人类使用与AI理解，部分改进已开源用于训练AI。卡普空希望通过渐进式升级而非从零重建，推动RE引擎迈向下一代。",
+              "source_url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+              "source_name": "IGN",
+              "published_at": "2026-10-03T09:33:39+08:00"
+            },
+            {
               "title": "前NFL教练迈克·汤姆林是硬核《我的世界》玩家，展示耗时12年建造的城市",
               "brief": "前NFL教练迈克·汤姆林本周开设YouTube频道，首期视频中他透露自己是一名硬核《我的世界》玩家。他解释说，12或13年前孩子们上初中时痴迷这款游戏，他因好奇而开始接触，并因对建筑的兴趣在创造模式中建造了一座城市，以此陪伴孩子。他的孩子们都在城中建有建筑，但随着他们升学，兴趣减退，汤姆林却坚持了下来。经过12年建造，这座沙盒城市如今对他具有疗愈作用，其成果令网友惊叹。视频中他展示了城市起点、带完整内饰的酒店等细节。",
               "source_url": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
@@ -280,13 +287,6 @@
               "source_url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
               "source_name": "IGN",
               "published_at": "2026-10-03T01:37:32+08:00"
-            },
-            {
-              "title": "迪士尼与Netflix达成授权协议：《冰川时代》《波西·杰克逊》等将登陆Netflix",
-              "brief": "迪士尼与Netflix达成非独家授权协议，多部迪士尼影视内容将登陆Netflix。协议包括《波西·杰克逊与奥林匹斯众神》前两季于10月4日上线，早于11月20日Disney+第三季首播；五部《冰川时代》电影同步登陆；《威尔·特伦特》《换挡》《追踪者》等剧集将在2026年11月至2027年2月间上线。2027年还将有《心灵奇旅》《埃利奥》《寻龙传说》等皮克斯与迪士尼动画电影，以及《费丽西蒂》《我们这一天》等完整剧集。漫威与星战等核心IP仍为Disney+独占。",
-              "source_url": "https://www.ign.com/articles/disney-licenses-netflix",
-              "source_name": "IGN",
-              "published_at": "2026-10-03T00:10:59+08:00"
             }
           ]
         },
@@ -358,39 +358,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "特朗普提议将人工智能改称超级智能，斯洛文尼亚.si域名注册量暴增2100%",
-              "brief": "特朗普在联合国大会演讲中提出将人工智能改称“超级智能”，随后又签署行政令要求美国政府部门改用SI和超级智能。斯洛文尼亚域名注册机构Register.si发言人赫尔曼称，9月共有44000个.si域名完成注册，8月还不到2000个，增幅超过2100%，其中9月30日一天新增11000个。赫尔曼谨慎看待将全部增长归因于特朗普言论。报道指出大量注册或与域名投资有关，一些人提前注册特定域名押注升值后转手获利。",
-              "source_url": "https://www.ithome.com/1/009/389.htm",
+              "title": "安森美因股价下跌将收购Synaptics对价调整为57亿美元现金",
+              "brief": "安森美宣布将收购Synaptics的对价调整为57亿美元现金，较此前方案出现约6%折让。安森美称此次修订源于收到第三方主动提出的竞争性收购方案，预计交易将立即提升其Non-GAAP每股收益，并为Synaptics股东带来价值确定性。该交易预计仍于2027年中期完成，尚需Synaptics股东批准、必要监管批准及其他惯例成交条件。交易已获美国联邦贸易委员会批准，其他司法管辖区监管机构仍在审查中。",
+              "source_url": "https://www.ithome.com/1/009/410.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-03T08:32:30+08:00"
+              "published_at": "2026-10-03T10:43:18+08:00"
             },
             {
-              "title": "微软Win11测试用“~”简化AppData等目录路径访问",
-              "brief": "微软正在Windows 11中测试用“~”符号简化用户主目录路径访问，用户无需再输入“C:\\Users\\用户名”等完整路径。该语法源自Linux、WSL、Git及类Unix shell的长期约定，其中“~”代表当前用户的主目录。现有Windows体系中用户可通过环境变量“%USERPROFILE%”实现类似效果，新方案以“~\\AppData”替代，字符更少并在多账户切换场景下保持通用。目前该功能仅限Windows 11 Insider Experimental Preview Build 26340.9596使用，尚未进入稳定版或公众预览通道。",
-              "source_url": "https://www.ithome.com/1/009/388.htm",
+              "title": "青海华电格尔木一期煤电项目1号机组首次并网一次成功",
+              "brief": "青海华电格尔木一期2×660MW煤电项目1号机组首次并网一次成功。该项目位于青海省海西州格尔木市，平均海拔约2800米，是目前国内海拔最高、装机容量最大的超超临界燃煤发电项目。项目总投资约62亿元，设计年发电量约60亿千瓦时，规划建设两台660MW超超临界间接空冷抽凝式燃煤机组，同步建设烟气脱硫、SCR脱硝装置，排放满足超低排放标准。其高海拔高碱煤高效超超临界深度调峰机组被国家能源局列入第五批能源领域首台（套）重大技术装备名单。",
+              "source_url": "https://www.ithome.com/1/009/409.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-03T08:30:31+08:00"
+              "published_at": "2026-10-03T10:42:29+08:00"
             },
             {
-              "title": "微软官方X账号被劫持约30分钟，攻击者借Clippy炒作加密代币",
-              "brief": "微软官方X账号遭未授权访问约30分钟，攻击者发布并非来自微软的帖子。其首先关注名为@clippymsftcto的Clippy主题账号，该账号发布Clippy站在Windows XP经典壁纸前的图片并询问多少点赞能让Clippy回归，背后实为推广$Clippy加密货币。被盗微软账号随后引用该帖文，发布“点赞达到50万，我们就让Clippy回归”的内容，制造微软官方承诺的假象，并将头像临时更换为Clippy形象。微软表示不支持、不认可、未授权任何相关加密代币，将采取法律行动。",
-              "source_url": "https://www.ithome.com/1/009/387.htm",
+              "title": "三星首款Googlebook跑分曝光：骁龙X Elite配16GB内存",
+              "brief": "三星首款Googlebook跑分信息曝光，显示该设备搭载高通骁龙X Elite处理器，配备16GB内存。处理器为12核设计，其中4个核心主频3.42GHz，8个核心主频4.01GHz，GPU部分采用Adreno X1-85。Googlebook是谷歌对Chromebook的后续产品定位，运行基于安卓的Googlebook OS。今年9月，谷歌携手华硕、宏碁、惠普、戴尔与联想等厂商公布了5款Googlebook。",
+              "source_url": "https://www.ithome.com/1/009/408.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-03T08:22:48+08:00"
+              "published_at": "2026-10-03T10:31:21+08:00"
             },
             {
-              "title": "微软CEO纳德拉重申Copilot定位为面向工作的新操作系统",
-              "brief": "微软CEO纳德拉在10月1日官方博文中再次将Copilot描述为“面向工作的新操作系统”，强调其适用于所有模型、所有工作场景和所有任务。此前9月26日微软发布Copilot“超级应用”后，纳德拉已表示正在将Copilot打造成全新工作操作系统。技术拆解显示，Copilot桌面应用主程序copilotapp.exe仅4.99MB，实为重新命名的Microsoft Edge启动器，安装目录包含完整的Edge 154构建，体积约520MB。另含基于.NET 10与NativeAOT编译的WinUI 3宿主程序，处理语音唤醒、屏幕共享等功能。",
-              "source_url": "https://www.ithome.com/1/009/386.htm",
+              "title": "消息称亚马逊考虑剥离并回租80亿美元英伟达AI芯片",
+              "brief": "有消息称，亚马逊正考虑将价值80亿美元的英伟达Grace Blackwell AI芯片剥离至一家特殊目的实体（SPV），并从该SPV回租这些芯片。消息人士透露，这笔拟议交易涉及的芯片分布在美国五个州的十余个数据中心。新设立的SPV预计将获得投资级信用评级，后续将通过出售股份与发行债券吸引外部投资者资金。剥离回租的形式有利于亚马逊化解庞大人工智能基础设施投资带来的债务压力，实现相对轻资产的运营。",
+              "source_url": "https://www.ithome.com/1/009/407.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-03T08:10:19+08:00"
+              "published_at": "2026-10-03T10:27:10+08:00"
             },
             {
-              "title": "OpenAI安全负责人戴维·罗宾逊离职，内部动荡加剧",
-              "brief": "OpenAI又一名安全负责人戴维·罗宾逊离职，此时公司安全措施和安全团队人员配置正受到外界密切关注。当地时间1日，OpenAI披露已与三名研究人员终止合作，理由是违反有关敏感信息共享的公司政策。罗宾逊9月初曾在X上表示，自己感觉到OpenAI内部人士开始意识到能力强大的AI模型会带来何种影响，同时流露出疑虑，称公司情况每天都在发生重大变化，但不知改变是否足够快。OpenAI安全负责人约翰内斯·海德克也已于今年早些时候离职。",
-              "source_url": "https://www.ithome.com/1/009/385.htm",
+              "title": "华为乾崑智驾累计辅助驾驶里程突破160亿公里",
+              "brief": "华为乾崑智驾累计辅助驾驶里程突破160亿公里。相关数据显示，其车位到车位辅助驾驶里程达998.7万，是中国平均值（推算）180万的5.55倍；ADS（人驾）则为585.6万，是中国平均值（推算）的3.25倍。据IT之家此前报道，今年8月，华为乾崑智能汽车解决方案官方曾宣布，华为乾崑智驾车位到车位累计使用次数突破1亿次，辅助泊车累计使用突破10亿次。",
+              "source_url": "https://www.ithome.com/1/009/406.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-03T08:08:55+08:00"
+              "published_at": "2026-10-03T10:24:50+08:00"
             }
           ]
         }
