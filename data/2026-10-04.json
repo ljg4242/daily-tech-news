@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T00:52:09.480351+08:00",
+  "generated_at": "2026-10-04T02:52:13.338837+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "为何我从Apple Watch Series 10升级到Series 12",
+              "brief": "尽管Series 12与Series 10设计语言大致相同，甚至边框略厚，但新功能仍促使作者升级。最吸引他的是大幅改进的心率监测和全新的“准备度”应用。Series 12整体运行明显更快，尤其是Siri。此前Apple Watch在健康追踪方面未能满足需求，如今新健康应用以极其实用的方式呈现所有关键信息。作者仍佩戴WHOOP以作长期对比，但认为Apple健康应用已足够出色，且WHOOP每年239美元订阅费已难提供更多价值。总体而言，Apple Watch在健康穿戴设备上迈出重要一步，不再是附属品。",
+              "source_url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-04T02:48:22+08:00"
+            },
             {
               "title": "苹果下一代入门级iPad曝光：搭载A19芯片，支持Wi-Fi 7",
               "brief": "关于苹果下一代入门级iPad，最新爆料显示其将不再使用A18芯片，而是直接配备A19芯片，并加入N1网络芯片和蜂窝版C1X调制解调器，从而支持Wi-Fi 7。该机还将配备8GB内存，可运行Siri AI，但受限于内存无法使用更高级的本地模型和听写功能。外观和屏幕预计不会重新设计，可能仅新增配色。此前苹果因内存危机将基础款iPad价格从349美元上调至449美元，新品可能沿用这一定价。",
@@ -137,6 +144,84 @@
               "source_url": "https://www.ithome.com/1/009/413.htm",
               "source_name": "IT之家",
               "published_at": "2026-10-03T10:55:08+08:00"
+            }
+          ]
+        },
+        {
+          "name": "IGN",
+          "articles": [
+            {
+              "title": "“我已尽力”——《最终幻想7 启示录》总监回应粉丝要求完整光盘版",
+              "brief": "《最终幻想7 启示录》总监滨口直树接受Radio Times采访时回应粉丝对完整光盘版的诉求。他表示自己从小购买大量实体游戏，对特别钟爱的作品仍偏好实体版，也理解社交媒体上“无光盘不购买”的声音。该作已确认2027年发售时提供光盘选项，但PS5和Xbox Series X实体版插入光盘后仍需额外下载大量内容，光盘仅含“开场部分”，属于“钥匙盘”。滨口称团队对此决定并非轻率，他理解相关争议，并回应称“我已尽力”。",
+              "source_url": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
+              "source_name": "IGN",
+              "published_at": "2026-10-04T00:21:11+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "ChatGPT Pro 20x版明日恢复订阅，API额度缩减50%但更耐用",
+              "brief": "Codex技术经理蒂博预告，ChatGPT Pro 20x订阅将于明天重新面向新用户开放，已开通用户可正常续订。新版按API消费金额计算，额度相当于旧版的50%，但用户实际可完成的工作更多，且不会实施5小时限额机制。蒂博称不希望人为抬高API定价让用户误以为订阅额度更高，再变相缩减用量。OpenAI希望快速降低API价格并提升模型能力，长远看订阅与API按1美元计算的价值将无明细差距。",
+              "source_url": "https://www.landian.news/archives/127158.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-29T15:38:38+08:00"
+            },
+            {
+              "title": "123云盘为空间规则调整道歉，坚持专业空间但老用户可退款",
+              "brief": "123云盘就9月24日空间规则调整致歉，承认上线仓促、测试不充分，导致程序故障和页面提示不清等问题。但平台不会撤回新规则，仍推进标准空间与专业空间的划分，标准空间只能存储可去重的共享文件，独属文件需占用配额较少的专业空间。老用户如不满可联系客服核对订单和剩余权益后申请部分退款，新付费用户则须接受最新协议。",
+              "source_url": "https://www.landian.news/archives/127101.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-29T11:26:38+08:00"
+            },
+            {
+              "title": "苹果发布iOS 26.7.1修复图形组件高危漏洞，已被用于攻击",
+              "brief": "苹果推出iOS 26.7.1和iPadOS 26.7.1，未新增功能而是修复重要安全漏洞。CVE-2026-86950属于CoreGraphics组件中的越界写入漏洞，攻击者可能借此让系统执行恶意代码，苹果已通过改进边界检查封堵。苹果称该漏洞可能被用于针对特定个人的复杂攻击，但未公开投递渠道。近期币圈攻击主要与DarkSword利用链相关，用户保持系统最新版可提高安全性。",
+              "source_url": "https://www.landian.news/archives/127100.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-29T11:00:43+08:00"
+            },
+            {
+              "title": "AMD以82亿美元收购World Labs，李飞飞加盟任首席科学家",
+              "brief": "AMD宣布与空间智能初创公司World Labs签署最终收购协议，以全股票方式进行，估值82亿美元，预计2026年底前完成并需监管审批。World Labs专注理解、生成和模拟三维环境的世界模型，已推出Marble等产品。交易完成后团队继续模型研究，李飞飞将任AMD执行副总裁兼首席科学家。AMD希望借此深入参与AI模型研究，判断未来模型对芯片、软件和系统架构的新需求。",
+              "source_url": "https://www.landian.news/archives/127099.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-09-29T10:38:59+08:00"
+            }
+          ]
+        },
+        {
+          "name": "cnBeta",
+          "articles": [
+            {
+              "title": "ChatGPT转型软件入口：应用发现与运行方式或被重构",
+              "brief": "OpenAI正推动ChatGPT从聊天窗口变为软件操作层。按照规划，用户在对话中提出任务后，系统可推荐并连接第三方应用，直接在ChatGPT内完成原本需独立App处理的工作，如设计、项目管理与会议记录。插件体系扩展后，应用可在侧边栏拥有入口并提供交互面板。OpenAI还推出“Sign in with ChatGPT”身份体系，首批有Devin、Notion、Vercel等16家公司参与，并建立应用审核机制与企业应用市场。自主智能体Dots可调用4000多个应用，把应用选择权部分交给AI。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580608.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-04T02:14:07+08:00"
+            },
+            {
+              "title": "抗癌药物结构或成抗疟新方向：化合物可同时攻击疟原虫多阶段",
+              "brief": "圣保罗大学药学院团队以抗肿瘤药物为基础合成14种化合物，在体外培养的恶性疟原虫中测试。部分化合物能杀死无性繁殖阶段疟原虫，并同时对负责向蚊子传播的配子体起作用。研究思路源于癌细胞与疟原虫都高度依赖蛋白激酶，此前已有mTOR抑制剂等抗癌药显示抗疟活性。目前实验仅限体外，尚未证明可安全有效治疗人类，但化合物对人体细胞毒性有所降低。若后续动物与临床试验验证，该路线有望同时实现治疗和阻断传播，并降低耐药风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1580606.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-04T02:12:25+08:00"
+            },
+            {
+              "title": "美股12月起迈入23小时交易时代",
+              "brief": "美股将于12月扩容夜盘，纳斯达克和纽交所在常规时段、盘前及盘后基础上，新增晚9点至次日凌晨4点交易，全天仅晚8点至9点休市一小时。DTCC已于今年6月切换至24x5模式，SIPs也获批延长运行。机构投资者对延长时段的市场质量存疑，担忧流动性枯竭和买卖价差扩大，目前夜盘主要由海外资金与散户主导。今年二季度海外投资者贡献夜盘成交量的37%，8月仅15只股票就占夜盘一半成交量，其中频现低价股。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580604.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-04T02:08:47+08:00"
+            },
+            {
+              "title": "OpenAI安全部门员工辞职 呼吁采取核电级别防护措施",
+              "brief": "OpenAI安全系统负责人David Robinson辞职并撰文警告，随着公司不断推出新产品，谨慎程度未达所需标准，还以AI在测试中失控未被阻止为例。他呼吁人工智能公司应像核电站一样运营，设置多层冗余机制并进行谨慎耗时的规划，避免人为错误打开灾难之门。近期多家顶尖AI公司员工警告技术可能带来灾难性风险，Anthropic首席执行官Dario Amodei呼吁放慢最前沿模型开发并引入第三方评估。OpenAI回应称正加强研究测试环境安全、扩大第三方合作并改进实时监控。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580602.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-04T02:07:54+08:00"
             }
           ]
         }
