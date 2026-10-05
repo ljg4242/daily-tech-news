@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T20:52:30.955175+08:00",
+  "generated_at": "2026-10-05T22:52:43.815966+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果新款Mac在亚马逊迎来迄今最大降价",
+              "brief": "亚马逊Prime大促日提前开启，苹果全新Mac mini与Mac Studio迎来迄今最大幅度降价，最高可省199美元。其中M5 Max Mac Studio（36GB内存、512GB固态硬盘）降至2299.99美元，原价2499美元；Mac mini方面，16GB内存/256GB固态硬盘版降至779.99美元，24GB内存/512GB固态硬盘版降至1549.99美元。此外苹果手表、AirPods等产品也有早期优惠。MacRumors与部分商家存在联盟合作关系。",
+              "source_url": "https://www.macrumors.com/2026/10/05/apples-new-mac-mini-prime-day/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-05T21:23:26+08:00"
+            },
+            {
+              "title": "Apple Watch Prime Day促销：Series 12与Ultra 4创历史新低",
+              "brief": "Prime大促日前，Apple Watch Series 12与Apple Watch Ultra 4迎来新低价。Series 12的42毫米GPS版降至349.99美元，46毫米GPS版降至399.99美元，均优惠49美元并创历史新低，部分蜂窝版本也在促销。Ultra 4自然色配半透明灰海洋表带款降至699.99美元，原价799美元，同样创历史新低；另有几款米兰尼斯表带款优惠99美元。上周已开始追踪的Apple Watch SE 3折扣也仍在进行。MacRumors与亚马逊存在联盟合作关系。",
+              "source_url": "https://www.macrumors.com/2026/10/05/apple-watch-prime-day-deals-2/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-05T21:01:00+08:00"
+            },
+            {
+              "title": "苹果发布MagSafe 3充电线固件更新",
+              "brief": "苹果为MacBook Pro和MacBook Air的MagSafe 3充电线发布了固件更新，这是自2023年2月以来首次。上周苹果发布了USB-C转MagSafe 3充电线的固件版本3.2.0，此前版本为3.1.12。由于苹果不提供发布说明，目前尚不清楚新固件包含哪些内容。该更新会在充电线连接Mac与电源适配器后随时间自动安装，无法手动应用，且macOS系统信息工具中不会显示MagSafe充电线的固件版本。",
+              "source_url": "https://www.macrumors.com/2026/10/05/magsafe-3-cable-firmware-update/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-05T20:59:42+08:00"
+            },
             {
               "title": "AirPods Max 2 全配色降至 429 美元，迎接 Prime Day",
               "brief": "亚马逊今日将 AirPods Max 2 全系配色降价至 429 美元，原价 549 美元，直降 120 美元，是 Prime Day 前最优惠的早期促销之一。参与配色包括蓝色、午夜色、橙色、紫色和星光色。该价格接近 AirPods Max 2 的历史最低价。Prime Big Deal Days 明日正式开启，AirPods 折扣已提前到来，AirPods Pro 3 也降至 179 美元的历史最低价，原价 249 美元。MacRumors 与亚马逊为联盟合作关系，通过链接购买可能获得少量分成。更多苹果相关优惠可查看 Apple Deals 汇总。",
@@ -21,27 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/10/05/apple-triples-icloud-mail-alias-limit/",
               "source_name": "MacRumors",
               "published_at": "2026-10-05T20:15:59+08:00"
-            },
-            {
-              "title": "新开源工具可移除 Apple Intelligence 模型，为 Mac 用户释放存储空间",
-              "brief": "一款名为 RemoveMacAI 的新开源工具在 Mac 社区引发关注，可帮助用户释放苹果 AI 模型占用的存储空间。该工具在 macOS 27 上禁用 Apple Intelligence、删除已下载模型并阻止其再次下载。macOS 27 中苹果取消了整体禁用 Apple Intelligence 的开关，单独关闭各项功能也不会删除模型。该工具通过配置描述文件关闭苹果的资源管理服务，并将模型下载请求重定向至本地关闭端口。它无需关闭系统完整性保护或手动删除受保护系统文件，可释放约 10GB 至 12GB 空间，且配置在系统更新后仍会保留。移除后，用户将失去 Siri 相关 AI 功能、写作工具、Genmoji、图像游乐场、ChatGPT 集成、摘要、智能回复、内联预测、照片清理、空间照片和 Xcode 预测补全等功能。尽管如此，许多用户仍愿意为释放空间做出牺牲，尤其是在存储不可升级的 256GB Mac 上。听写功能仍可正常使用。该工具上周发布后在 GitHub 上获得数百颗星，Reddit 和 Hacker News 上也有大量讨论。MacRumors 并不为 RemoveMacAI 背书。",
-              "source_url": "https://www.macrumors.com/2026/10/05/apple-intelligence-removal-tool-frees-mac-storage/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-05T19:12:56+08:00"
-            },
-            {
-              "title": "iPhone Duo 让锁屏切换专注模式更便捷",
-              "brief": "爆料者 pdfu 透露，即将推出的 iPhone Duo 将在锁屏上引入新的专注模式控制。当专注模式处于激活状态时，底部控制区上方会出现一个新按钮，让用户无需离开锁屏即可关闭或重新开启专注模式；解锁后，当前专注模式也会显示在时钟上方的状态栏中。苹果为适配其首款折叠屏 iPhone 而重构了 iOS 27，使界面能随设备折叠、展开及在两块屏幕间切换而实时调整。iPhone Duo 将于太平洋时间 10 月 16 日上午 5 点开启预售，10 月 23 日正式发售。",
-              "source_url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-05T18:18:54+08:00"
-            },
-            {
-              "title": "欧盟 iPhone 和 iPad 用户或仍需等待数月才能用上 Siri AI",
-              "brief": "据彭博社记者马克·古尔曼报道，苹果升级版 Siri AI 可能还要在欧盟缺席数月。他在最新一期 Power On 简报中表示，约五个月的延迟已是“绝对最理想的情况”，欧洲用户可能面临更漫长的等待，因为苹果仍在就遵守欧盟数字规则进行谈判。古尔曼认为，苹果正以暂缓升级向欧盟委员会施压，希望不满的用户推动其改变做法，并将此与 Apple Intelligence 在欧盟推迟上线的情况相提并论。目前 Siri AI 在欧盟的 iPhone 和 iPad 上不可用，但欧盟用户可在 Mac 上使用。",
-              "source_url": "https://www.macrumors.com/2026/10/05/extended-eu-wait-predicted-for-siri-ai/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-05T17:51:57+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "Apple TV 纪录片《我们所有人》展示 iPad 如何在一所独特学校实现包容性学习",
-              "brief": "9to5Mac 报道，Apple TV 上线纪录片《我们所有人》，讲述一所独特学校如何借助 iPad 推动包容性学习。影片聚焦不同学习需求的学生，展示 iPad 的内置辅助功能、触控与语音交互等特性如何帮助他们参与课堂、表达想法并独立完成任务。报道称，该片呈现了技术在特殊教育场景中的实际应用，也体现苹果长期强调的教育与无障碍理念。",
-              "source_url": "https://9to5mac.com/2026/10/05/apple-tv-doc-all-of-us-shows-how-ipads-enable-inclusive-learning-in-a-unique-school/",
+              "title": "macOS 27 修复第三方 HDR 显示器最恼人问题",
+              "brief": "据 9to5Mac 报道，macOS 27 修复了长期困扰第三方 HDR 显示器用户的痛点。此前 Mac 连接非苹果品牌的 HDR 屏幕时，常出现色彩发灰、亮度异常、HDR 模式无法正确触发等问题，用户需手动调整或依赖第三方工具。新系统改进了色彩管理与 HDR 元数据处理，使第三方显示器能更准确地呈现 HDR 内容。这一变化对使用外接 HDR 显示器的 Mac 用户意义重大，也表明苹果正逐步改善对非自家硬件的兼容支持。",
+              "source_url": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/",
               "source_name": "9to5Mac",
-              "published_at": "2026-10-05T20:40:04+08:00"
+              "published_at": "2026-10-05T22:47:38+08:00"
             },
             {
-              "title": "Prime Day Mac 促销提前开启：新款 Mac mini 降价 150 美元，MacBook Air 降价 200 美元",
-              "brief": "9to5Mac 汇总称，Prime Day 的 Mac 相关优惠已提前启动。其中新款 Mac mini 直降 150 美元，MacBook Air 直降 200 美元，另有更多 Mac 配件与机型参与促销。报道提醒消费者关注各平台库存与价格波动，部分优惠可能限时或售完即止，适合近期有换机或添置 Mac 设备计划的用户参考。",
-              "source_url": "https://9to5mac.com/2026/10/05/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
+              "title": "古尔曼称苹果下周将举办发布会",
+              "brief": "据 9to5Mac 报道，马克·古尔曼透露苹果可能于下周举办一场活动。古尔曼长期准确爆料苹果动态，此次消息引发外界对新产品发布的猜测。报道未明确具体内容，但结合此前传闻，可能涉及 Mac 产品线更新，包括搭载 OLED 屏幕、设计更轻的新款 MacBook Pro。若消息属实，这将是苹果在秋季的重要发布节点，值得关注其是否带来硬件或系统层面的新变化。",
+              "source_url": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
               "source_name": "9to5Mac",
-              "published_at": "2026-10-05T20:23:32+08:00"
+              "published_at": "2026-10-05T21:51:30+08:00"
             },
             {
-              "title": "约翰·特努斯与蒂姆·库克的设计思路截然相反，但两人都是对的",
-              "brief": "9to5Mac 文章讨论苹果两位高管约翰·特努斯与蒂姆·库克在设计上的不同取向。报道称，库克更注重产品体验、商业可行性与供应链效率，特努斯则更强调工程细节与硬件创新。文章认为，两种看似相反的方法各自适应了苹果不同阶段的需求，并非孰优孰劣，而是共同推动产品演进，因此两人都被视为正确。",
-              "source_url": "https://9to5mac.com/2026/10/05/john-ternus-and-tim-cook-took-opposite-approaches-to-design-and-both-were-right/",
+              "title": "Mac 完全磁盘访问权限：苹果该做与不该做的事",
+              "brief": "据 9to5Mac 报道，文章讨论 Mac 上“完全磁盘访问权限”这一隐私与安全机制。该权限允许应用读取用户几乎所有文件，对备份、安全类工具必不可少，但也带来滥用风险。文章认为苹果应在保障用户知情与控制的前提下，简化授权流程、提供更细粒度选项，并避免过度限制合法工具。同时，苹果不应削弱该机制的安全边界，也不应以保护用户为名阻碍必要的系统维护与数据管理功能。",
+              "source_url": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
               "source_name": "9to5Mac",
-              "published_at": "2026-10-05T19:53:02+08:00"
+              "published_at": "2026-10-05T21:48:12+08:00"
             },
             {
-              "title": "专注模式是苹果为 iPhone Duo 适配 iOS 27 的又一方式",
-              "brief": "9to5Mac 报道，苹果在 iOS 27 中继续为 iPhone Duo 进行适配，专注模式成为其中一项体现。文章称，该系统针对双屏或折叠形态调整了通知与专注场景的逻辑，让用户在不同使用状态下更易管理提醒与干扰。报道认为，这显示苹果正从软件层面为新型 iPhone 形态铺路，专注模式只是众多适配措施之一。",
-              "source_url": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
+              "title": "约翰·特努斯发文纪念乔布斯逝世周年",
+              "brief": "据 9to5Mac 报道，苹果硬件工程高级副总裁约翰·特努斯在史蒂夫·乔布斯逝世周年之际发表文章，回顾并致敬这位联合创始人的贡献与精神。文章强调乔布斯对产品设计和用户体验的执着，以及这些理念如何持续影响苹果今日的工程与创新文化。特努斯的发文属于苹果高管在纪念日的例行致敬，也体现公司内部对乔布斯遗产的延续与传承。",
+              "source_url": "https://9to5mac.com/2026/10/05/john-ternus-writes-post-celebrating-steve-jobs-on-anniversary-of-passing/",
               "source_name": "9to5Mac",
-              "published_at": "2026-10-05T18:54:53+08:00"
+              "published_at": "2026-10-05T21:13:45+08:00"
             },
             {
-              "title": "iPhone Duo 展示智能手机未来形态",
-              "brief": "文章讨论了 iPhone Duo 的外屏如何重新定义智能手机导航，认为当前手机将操作元素置于顶部并不合理。人们怀念小屏手机是因为更易触及，但小屏又限制内容显示。iPhone Duo 在右侧保留停靠栏和导航区，左侧提供足够大的矩形观看区域，兼顾大屏与拇指可及性。自苹果展示该设计后，不少爱好者提出“iPhone Solo”概念，即采用 Duo 尺寸的不可折叠屏幕。作者认为该想法有趣，若 Duo 外屏反响良好，Solo 或有望成真。",
-              "source_url": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
+              "title": "乔布斯逝世 15 年后，无人成为“下一个乔布斯”",
+              "brief": "据 9to5Mac 报道，在史蒂夫·乔布斯逝世 15 年后，业界始终未出现被广泛认可的“下一个乔布斯”。文章指出，乔布斯兼具产品直觉、审美、营销天赋与领导力，这种组合极难复制。如今科技行业更强调团队协作与数据驱动，个人英雄式的领袖形象逐渐淡化。尽管多位高管常被拿来比较，但无人能完全承接其光环。文章认为，与其寻找接班人，不如理解乔布斯留下的产品哲学如何被不同公司以各自方式延续。",
+              "source_url": "https://9to5mac.com/2026/10/05/15-years-after-his-passing-nobody-is-the-next-steve-jobs/",
               "source_name": "9to5Mac",
-              "published_at": "2026-10-05T05:32:00+08:00"
+              "published_at": "2026-10-05T21:00:42+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌地图新增迈凯伦F1赛车图标",
+              "brief": "谷歌地图推出限时新功能，用户可将默认的蓝色箭头或其他3D车辆图标更换为谷歌赞助的迈凯伦F1赛车头像。该头像将持续至11月下旬，旨在庆祝10月22日至25日在拉斯维加斯举行的美国大奖赛。谷歌表示，这一官方车队头像可使用至2026年11月23日，在手机以及通过Android Auto或Apple CarPlay连接的车载屏幕上均可见。用户可通过谷歌地图的设置、您的车辆、驾驶头像进行调整。该更新为服务器端推送，目前仍在逐步推出中。",
+              "source_url": "https://9to5google.com/2026/10/05/google-maps-now-lets-you-turn-your-car-into-a-mclaren-f1/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-05T22:15:00+08:00"
+            },
+            {
+              "title": "Fantastical登陆谷歌新笔记本平台Googlebook",
+              "brief": "备受期待的Fantastical日历应用终于首次登陆安卓生态，但首发平台并非手机，而是谷歌新推出的笔记本电脑计划Googlebook。现有iOS或Windows用户可免费使用，新用户也可在其他支持设备上使用。Flexibits联合创始人兼CEO迈克尔·西蒙斯强调，手机、平板和折叠屏版本尚未就绪，预计要到2027年某个时候才会推出，这与他2024年宣称该应用永远不会登陆Play Store的说法有所转变。此外，公司暂无将联系人管理应用Cardhop引入安卓的计划。Fantastical始于2011年的Mac平台。",
+              "source_url": "https://9to5google.com/2026/10/05/fantastical-long-awaited-android-debut-begins-today-on-googlebook/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-05T22:00:00+08:00"
+            },
+            {
+              "title": "Pixel 12系列泄露：型号与屏幕规格曝光",
+              "brief": "据GSMA数据库信息，谷歌Pixel 12系列将包含四款设备，预计命名为Pixel 12、Pixel 12 Pro、Pixel 12 Pro XL和Pixel 12 Pro Fold，型号分别为GC0QU、GWU59、G7U1Y和G4D5D。屏幕分辨率方面，基础款为1080×2400，Pro为1280×2824，Pro XL为1344×2952，均略低于前代；Pro Fold内屏为2296×2404，较Pixel 11 Pro Fold有明显提升，但仍沿用近方形设计，未采用宽屏比例。四款设备均预装Android 18。早期泄露可能变动，仅供参考。",
+              "source_url": "https://9to5google.com/2026/10/05/google-pixel-12-model-number-display-spec-leak/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-05T21:45:00+08:00"
+            },
             {
               "title": "谷歌新款健身追踪器Fitbit Edge曝光，支持应用与通知",
               "brief": "据Android Headlines报道，谷歌正在开发一款名为Fitbit Edge的新穿戴设备。其屏幕呈圆润造型，边框比以往任何Fitbit追踪器都更窄，界面类似为这种屏幕形状调整过的Pixel Watch表盘，显示时间日期以及心率、步数和开始锻炼等复杂功能。背面可见上下两端的表带拆卸机制，传感器堆叠与Fitbit Air相似，可能沿用相同磁吸充电器。左右两侧有金属条，推测用于心电图读取，整体延续Fitbit Charge 6的设计思路。表带和外壳提供峡谷、黑曜石和橄榄三种配色，类似Pixel 11 Pro。规格来自与Fitbit Air和Pixel Watch 5的对比表，连接性注明蓝牙但无Wi-Fi，相比Fitbit Air增加了通知功能，应用包括谷歌地图、媒体和音乐控制及查找手机，续航最长7天，支持安卓和iOS。",
@@ -148,39 +169,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "TCL类纸OLED手机让我更期待iPhone Duo",
-              "brief": "TCL P80 Ultra是首款将Nxtpaper类纸技术与OLED面板结合的手机，带来更深黑色、更高对比度和更丰富色彩，成为目前观感最佳的Nxtpaper屏幕。Nxtpaper不仅提供磨砂质感，还具备类纸触感和低功耗单色模式，可模拟电子墨水屏效果。作者使用两周后认为，这块磨砂OLED屏是这款中端安卓手机最出色的部分，也让他更加期待传闻中采用磨砂内屏的iPhone Duo，并认为更多手机应当配备磨砂显示屏。",
-              "source_url": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+              "title": "派拉蒙与华纳兄弟探索合并为Skydance，CNN总裁留任",
+              "brief": "派拉蒙以1100亿美元收购华纳兄弟探索的交易本周完成，合并后公司名为Skydance。CNN首席执行官马克·汤普森在给员工的备忘录中表示，他相信合并后的公司将全力支持CNN一贯秉持的独立新闻原则与实践。派拉蒙CEO大卫·埃里森将与前美泰负责人约农·克赖兹共同领导新公司。此前外界曾猜测CNN在合并后的命运，如今其与派拉蒙旗下CBS新闻同属一家公司的局面正式成形。",
+              "source_url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
               "source_name": "The Verge",
-              "published_at": "2026-10-05T08:02:41-04:00"
+              "published_at": "2026-10-05T10:42:34-04:00"
             },
             {
-              "title": "谷歌承认部分安卓应用在英特尔Googlebook上运行不佳",
-              "brief": "谷歌在新款Googlebook笔记本上市当天承认，搭载英特尔芯片的机型在运行部分安卓应用时可能存在问题。此前谷歌一直强调Googlebook可访问整个Play商店应用库，并与安卓手机和平板有巧妙联动。谷歌向Android Authority表示，虽然所有应用都可获取，但少数复杂应用或游戏因最初为Arm芯片设计，需要开发者调优才能在英特尔设备上达到最佳表现；绝大多数安卓应用在英特尔和高通版Googlebook上开箱即可流畅运行。",
-              "source_url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+              "title": "参议员亚当·希夫谈AI监管、言论自由与再次弹劾特朗普",
+              "brief": "加州民主党参议员亚当·希夫在播客节目中接受采访，他任职于多个监督科技与AI的委员会，涉及知识产权、反垄断、隐私与技术等议题。希夫谈到当前政治中的自我交易与腐败问题，背景是特朗普总统召集AI企业CEO到白宫签署一份不具约束力的协议，承诺做好AI安全工作。他被问及这是否足够、更正式的监管框架应如何设计，以及若民主党重新夺回国会可能发生什么。",
+              "source_url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
               "source_name": "The Verge",
-              "published_at": "2026-10-05T06:58:22-04:00"
+              "published_at": "2026-10-05T10:30:00-04:00"
             },
             {
-              "title": "我们的大脑并不适合应对人工智能",
-              "brief": "文章指出，将大脑比作计算机的观点可追溯至图灵，谷歌的哈萨比斯称大脑是“图灵机的生物近似”，马斯克更直言人脑就是生物计算机；但人类远比计算机复杂。作者认为，人工智能如同认知层面的热狗：当下诱人，却损害人类历经数千年进化形成的认知系统的健康与可持续性，并主张结合神经科学与人类进化史来理解这一问题。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+              "title": "十月Prime Day提前开启的最佳优惠汇总",
+              "brief": "亚马逊等零售商为10月6日凌晨3点（美东时间）开始、持续至8日凌晨3点的Prime Big Deal Days提前降价。本次十月Prime Day的优惠可预示黑马星期五和网络星期一可能再次出现的折扣，假日购物季由此正式启动。文章最新更新于10月5日，新增了索尼耳机优惠，以及苹果、Beats和Kindle相关产品的周末降价。消费者可趁此提前完成部分购物，避开假日临近时的繁忙。",
+              "source_url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
               "source_name": "The Verge",
-              "published_at": "2026-10-05T06:00:00-04:00"
+              "published_at": "2026-10-05T10:10:19-04:00"
             },
             {
-              "title": "新款 Fitbit Edge 泄露：多角度多配色曝光",
-              "brief": "谷歌中端健身追踪器 Fitbit Edge 的泄露图片显示其多角度外观和多种配色。据 Android Headlines 发布的图片，该设备定位介于 Pixel Watch 与 Fitbit Air 之间，配备可显示部分小组件的小屏幕，但不如智能手表宽大。传闻其续航达七天，内置 GPS 和高度计，能力远超极简的 Air，并支持 Google Maps 和 YouTube Music 等有限应用。Fitbit Charge 系列上次更新为 2023 年，新款中端追踪器已迟到多时，但价格和发布日期尚不清楚。",
-              "source_url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+              "title": "开源工具可在macOS上删除12GB苹果智能数据",
+              "brief": "一款名为RemoveMacAI的开源命令行工具可关闭苹果的AI功能、删除其AI模型并阻止其再次下载。macOS 27移除了原先用于禁用苹果智能的单一设置开关，如今模型仍留在磁盘上，相关功能分散在多个设置面板中，其中一些位于屏幕使用时间下。开发者称该工具实质上完成了旧开关的工作，即便所有功能关闭，基础模型仍占用约12GB磁盘空间，该工具可将其清除。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
               "source_name": "The Verge",
-              "published_at": "2026-10-04T17:02:09-04:00"
+              "published_at": "2026-10-05T09:47:14-04:00"
             },
             {
-              "title": "Prick 的戏剧化工业朋克正适合万圣节季",
-              "brief": "The Verge 周末编辑 Terrence O'Brien 撰文介绍 Prick 的音乐，指出其戏剧化的工业朋克风格非常适合万圣节季。文章形容，如果 Trent Reznor 当年学的是音乐剧而非计算机工程，Nine Inch Nails 或许就会听起来像 Prick。该文属于“我们当下正在听、看和读的内容”系列，作者在科技行业有超过 18 年报道经验。",
-              "source_url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+              "title": "OpenAI在ChatGPT中投放更多广告",
+              "brief": "OpenAI推出新的视觉广告形式，将在用户使用ChatGPT生成图像时“初步”显示赞助产品与服务的图片。该广告本月晚些时候将在美国开始测试，仍与生成的图像分开，且不会影响ChatGPT提供的回答。订阅Plus、Pro或Enterprise计划的用户不会看到广告。OpenAI表示已设置防护措施判断对话是否适合投放广告，以避免出现在情绪脆弱、敏感或不适宜的语境中。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
               "source_name": "The Verge",
-              "published_at": "2026-10-04T16:00:00-04:00"
+              "published_at": "2026-10-05T09:09:48-04:00"
             }
           ]
         },
@@ -188,39 +209,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Galaxy S27 Pro 或搭载 Exynos 芯片，骁龙粉丝要失望了",
-              "brief": "据 The Elec 报道，三星 Galaxy S27、S27 Plus 和 S27 Pro 将在部分市场提供 Exynos 2700 处理器版本，欧洲和韩国为 Exynos 机型，中国和美国则为骁龙版本。三星已将 Exynos 2700 的产量较前代提高近 10%，部分原因正是 S27 Pro 在部分市场采用该芯片。目前三星尚未决定 Galaxy S27 Ultra 是否使用 Exynos 2700，若采用将是自 2022 年 Galaxy S22 Ultra 以来首款搭载 Exynos 的 Ultra 机型。报道称，三星 LSI 部门支持这一方案，而移动体验部门意见分歧。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-3719108/",
+              "title": "新应用将 Pixel 的“正在播放”识别结果带到 Wear OS 手表",
+              "brief": "一款名为 Now On Wrist 的新应用可将 Pixel 手机的“正在播放”识别结果直接推送到 Wear OS 智能手表上。它本身不进行音乐识别，而是依赖手机端的环境音乐识别功能，把识别出的歌曲和歌手发送到手表。用户可通过通知与振动提醒、表盘复杂功能或专用 Wear OS 磁贴查看当前歌曲和最近识别记录，点击歌曲还能在手机上打开 YouTube Music、Spotify 等应用播放。该应用已在 Google Play 上架，支持 Wear OS 3.0 及以上版本，早期用户反馈良好。",
+              "source_url": "https://www.androidauthority.com/pixel-now-playing-wear-os-now-on-wrist-3719130/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-05T20:38:20+08:00"
+              "published_at": "2026-10-05T22:35:06+08:00"
             },
             {
-              "title": "Pixel Search 应用或登陆旧款 Pixel 手机",
-              "brief": "在最新版 Pixel Search 应用（v1.0.983036833）中发现的代码显示，该应用可能正式支持 2021 年以来发布的 Pixel 设备，即 Pixel 6 及更新机型。不过应用仍需运行 Android 17 QPR2（Beta 5 或更新版本），该版本预计于 2026 年 12 月发布稳定版，届时 Pixel Search 有望扩展到旧款 Pixel。但 Pixel 6 和 6 Pro 可能无缘，因为它们不会获得 Android 17 QPR2 更新。此前用户已可通过侧载方式在旧款 Pixel 上使用该应用，体验 Pixel 11 系列首发的扩展搜索功能。",
-              "source_url": "https://www.androidauthority.com/pixel-search-app-older-pixels-apk-teardown-3719097/",
+              "title": "没有 Android 17 手机将错过大量 Googlebook 跨设备功能",
+              "brief": "谷歌已确认，要使用 Googlebook 的关键跨设备功能，用户需要一台运行 Android 17 的手机。这些功能包括任务接续、共享文件访问、在笔记本上串流手机应用以及通知同步。谷歌在 Googlebook 评测指南中说明了这一要求。目前搭载 Android 17 的手机仍然较少，Pixel 通常最先获得最新版本，三星最新折叠屏已预装基于 Android 17 的 One UI 9，但中端和较老旗舰仍在等待，小米、摩托罗拉、一加等品牌的推送也有限。此外，带有 DRM 视频或敏感内容的应用不支持应用串流。",
+              "source_url": "https://www.androidauthority.com/googlebooks-android-limitation-cross-device-3719146/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-05T20:16:41+08:00"
+              "published_at": "2026-10-05T22:27:58+08:00"
             },
             {
-              "title": "Pixel Search 或将迎来 Gemini 驱动的升级与隐私改进",
-              "brief": "最新版 Pixel Search 应用（1.0.983036833）在设置中新增“隐私与权限”板块，包含“帮助改进 Pixel Search”“通话记录”和“短信”三个开关。用户可关闭数据汇总用于使用洞察，也可禁止 Google 使用通话和短信记录来改进联系人建议。需要注意的是，关闭后两个开关并不会阻止 Pixel Search 显示通话记录或消息中的结果，用户需在“应用权限”页面撤销相关权限才能彻底阻止。此外，代码中还发现即将推出的“Gemini 驱动的建议”功能的证据。",
-              "source_url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+              "title": "索尼 WH-1000XM6 降至 378 美元，迎接 Prime Day 促销",
+              "brief": "索尼旗舰头戴式无线耳机 WH-1000XM6 在亚马逊降至 378 美元，低于 459.99 美元的建议零售价，节省 81.99 美元，折扣约 18%，与今年最佳价格持平。该耳机主打顶级主动降噪，采用新的 QN3 处理器和 12 麦克风系统，可更有效隔绝外界噪音。音质方面以细节丰富、能量感强著称，支持 LDAC 等高级蓝牙特性，并采用可折叠设计。开启降噪后续航约 30 小时，通话质量也广受好评。对于看重降噪的用户来说，当前价格更具吸引力。",
+              "source_url": "https://www.androidauthority.com/sony-wh-1000xm6-headphones-amazon-deal-3717623/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-05T20:11:36+08:00"
+              "published_at": "2026-10-05T22:24:37+08:00"
             },
             {
-              "title": "想买便宜机票？谷歌称这是最佳预订时机",
-              "brief": "谷歌分析五年 Google Flights 汇总数据后发现，国内航班通常在出发前约 39 天最便宜，国际航班则在出发前约 89 天触底，但国际票价在出发前 50 至 133 天内普遍处于较低区间。所谓“周二订票最便宜”基本是传言，最便宜与最贵订票日仅相差约 1.4%。改变出行时间和方式影响更大：工作日出行国内最多可省 20%，直飞航班则比中转贵约 20%。节假日方面，感恩节航班约提前 34 天最便宜，圣诞节约 56 天，春假建议提前 50 天以上，夏季航班则更接近出发日才最便宜。",
-              "source_url": "https://www.androidauthority.com/google-flights-data-for-cheapest-flights-3719064/",
+              "title": "索尼 LinkBuds Clip 开放式耳机降价 70 美元",
+              "brief": "亚马逊将索尼 LinkBuds Clip 开放式真无线耳机降至 158 美元，低于 228 美元的建议零售价，节省 70 美元，折扣达 31%，也是今年以来的最佳价格。该耳机采用开放式夹耳设计，不封闭耳道，适合通勤、步行、健身等场景长时间佩戴。单次续航约 8 小时，配合充电盒总续航约 22 小时，并具备 IPX4 级防水溅能力。它还支持索尼 Sound Connect 应用，提供均衡器、Find Your Own Equalizer、DSEE 升频和 360 Reality Audio 等功能。对于想保持环境感知的用户，当前价格更值得考虑。",
+              "source_url": "https://www.androidauthority.com/sony-linkbuds-clip-deal-3717619/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-05T20:00:39+08:00"
+              "published_at": "2026-10-05T22:17:57+08:00"
             },
             {
-              "title": "Galaxy S27 Ultra 配色曝光，三星或告别紫色",
-              "brief": "爆料者 Ice Universe 称，三星 Galaxy S27 Ultra 将提供黑色、蓝色、浅粉色和白色四种配色。浅粉色是新加入的颜色，可能取代 Galaxy S26 Ultra 的深紫色；粉色对 Ultra 系列并不陌生，S26 Ultra 就有粉金配色。爆料未透露具体色调，也不清楚这款蓝色是否与 S26 Ultra 的天蓝色不同。爆料者用“基础”一词描述这些颜色，暗示后续可能还有更多细节。更新显示，还将有一款“特别”配色：紫罗兰色。此外，三星可能借鉴 iPhone 18 Pro 的凸起摄像头模组设计。",
-              "source_url": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
+              "title": "iOS 日历应用 Fantastical 跳过 Android 直接登陆 Googlebook",
+              "brief": "知名日历应用 Fantastical 在诞生 15 年后，首次进入谷歌生态，但并非推出 Android 手机和平板版本，而是由开发商 Flexibits 宣布推出原生 Googlebook 版本。此举时机合理：为多种 Android 设备适配往往令开发者头疼，而专注 Googlebook 可大幅降低复杂性；同时 Googlebook 被定位为生产力设备，适合管理繁忙日程的软件。Fantastical 在 Googlebook 上的定价与现有方案一致，提供基础功能免费版，付费个人、家庭或团队方案起价每月 4.75 美元。",
+              "source_url": "https://www.androidauthority.com/fantastical-googlebook-3718834/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-05T19:53:45+08:00"
+              "published_at": "2026-10-05T22:00:09+08:00"
             }
           ]
         }
@@ -232,6 +253,20 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "开源截图软件 Snow Shot：截图永久免费，AI 与翻译按量收费",
+              "brief": "Snow Shot 是一款开源截图软件，截图部分永久免费，代码已上传 GitHub。翻译和 AI 功能因存在调用成本，采用按量收费，作者承诺不推会员制。软件支持本地部署 SnowShotApi，可调用 Claude 等模型，兼顾费用与隐私。作者回应了许可证冲突问题，计划改为非商用 Apache 2.0、商用 GPL 的双协议。软件定位为瑞士军刀类工具，截图用于引流，未来将集成更多功能，并优化 GPU 渲染带来的性能问题。",
+              "source_url": "https://meta.appinn.net/t/topic/71367",
+              "source_name": "小众软件",
+              "published_at": "2026-10-05T21:56:32+08:00"
+            },
+            {
+              "title": "scrcpy 5.0 发布：默认启用硬件解码，CPU 占用最高降 10 倍",
+              "brief": "安卓投屏神器 scrcpy 5.0 正式发布，最大亮点是新增硬件解码并默认开启，手机画面交由显卡处理，CPU 占用最高降低约 10 倍，功耗更低。Windows 调用 D3D11VA，macOS 使用 VideoToolbox，Linux 使用 VA-API，不支持时自动回退软件解码。新版还改善视频缓冲、扩大音频捕获范围，首次提供 Windows ARM64 版本，修复键盘布局按键丢失和 AltGr 转发问题，并升级 FFmpeg、SDL、adb 等底层组件。",
+              "source_url": "https://www.appinn.com/scrcpy-5-0/",
+              "source_name": "小众软件",
+              "published_at": "2026-10-05T21:07:46+08:00"
+            },
             {
               "title": "FileSyncTool：专注U盘寿命保护的跨平台文件同步工具",
               "brief": "开发者自荐的跨平台文件同步工具FileSyncTool，项目从构思至今已迭代两年多，经历十多个版本，从命令行版发展到GUI版，目前版本为7.6。开发者是学生，更新节奏可能不稳定，但关键bug会尽快修复。该工具的特色是U盘写入寿命保护：检测到连续写入超过阈值时自动暂停，让U盘歇一歇，对老旧U盘尤其有用。开发者也表示该工具不只适用于U盘，还能做普通文件夹的备份和同步，U盘保护只是特色之一。",
@@ -252,20 +287,6 @@
               "source_url": "https://www.appinn.com/faxian-top10-2640/",
               "source_name": "小众软件",
               "published_at": "2026-10-05T09:00:34+08:00"
-            },
-            {
-              "title": "本周赛博领鸡蛋：《深埋之星》《网络奇兵2：25周年重制版》《桥梁建造师工作室》",
-              "brief": "Epic 本周送出三款游戏：《深埋之星》和《网络奇兵2：25周年重制版》，以及手机端《桥梁建造师工作室》，提供 Android 和 iOS 版本。《深埋之星》是发生在直播选秀坍塌现场的悬疑冒险游戏，玩家通过对话、社交媒体和时间线收集线索，调查谋杀真相，剧情设有多条分支和不同结局。《网络奇兵2：25周年重制版》结合第一人称射击与角色扮演，玩家在失控飞船中求生，重制版更新了模型和动画，并加入跨平台合作与模组支持。《桥梁建造师工作室》是物理模拟造桥解谜游戏，含 70 个关卡、五种环境和七种车辆，可挑战指定预算内通车。",
-              "source_url": "https://www.appinn.com/eggs-26102/",
-              "source_name": "小众软件",
-              "published_at": "2026-10-03T21:26:48+08:00"
-            },
-            {
-              "title": "Search：仅 6MB 的开源极简 Mac 浏览器，支持 Chrome 扩展",
-              "brief": "Search 是一款新发布的 Mac 浏览器，应用体积仅约 6MB，调用 macOS 自带 WebKit 内核，同时支持 Chrome 扩展。它提供标签页组、广告拦截、阅读模式、垂直标签页、固定标签页、隐私标签页、后台标签页自动休眠等功能，密码保存到 macOS 钥匙串，并可导入其他浏览器的书签、历史和密码。官方测试显示其磁盘占用 6.1MB，冷启动约 320ms，空白启动内存约 51MB，打开 5 个标签页时运行 11 个进程。该浏览器开源、极简，需要 Apple silicon 芯片和 macOS 14 以上系统，目前没有中文界面。",
-              "source_url": "https://www.appinn.com/officecommun-serach-browser/",
-              "source_name": "小众软件",
-              "published_at": "2026-10-03T17:23:25+08:00"
             }
           ]
         },
@@ -285,39 +306,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "微软工程师回应“Windows不适合开发者”说法：使用比例仍高于Linux和macOS",
+              "brief": "针对“Windows太短，不值得支持Windows用户”等言论，微软杰出工程师大卫·福勒回应称，这类内容主要为了吸引点击，从整体数据看使用Windows的开发者仍多于其他操作系统。Stack Overflow 2025调查显示，职业开发者中Windows占比约49.5%，macOS约32.9%，Ubuntu约27.7%，WSL使用率16.8%。但面向创业公司和大型科技企业从业者的投票中，macOS占比超过六成，Windows仅约12%。分析认为，两组数据反映不同开发者圈层的偏好差异。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580814.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-05T22:23:24+08:00"
+            },
+            {
+              "title": "Windows 11发布五周年 全球用户突破10亿",
+              "brief": "Windows 11迎来发布五周年，全球用户突破10亿。与Windows 10相比，Windows 11重新设计了开始菜单、任务栏和文件资源管理器，并提高TPM 2.0、安全启动和处理器要求，导致部分旧电脑无法官方升级。随着新PC默认搭载和Windows 10用户迁移，其规模持续扩大。微软还不断整合Copilot等AI功能，推动Copilot+ PC和NPU本地AI推理。Windows 11达到10亿用户之际，Windows 10生命周期也进入尾声。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580812.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-05T22:22:20+08:00"
+            },
+            {
+              "title": "报告称中国已储备343台浸没式DUV光刻机 或可持续推进7纳米芯片生产",
+              "brief": "有报告估算，截至2026年初，中国企业控制的晶圆厂累计拥有约343台浸没式DUV光刻机，其中约270台为ASML的Twinscan NXT:1980i，另有22台NXT:2050i和6台NXT:2000i。报告认为，这些设备虽不及EUV，但通过多重曝光和复杂工艺仍可生产7纳米级芯片。中国企业2024年和2025年分别新增约90台和89台NXT:1980i，累计采购金额超过130亿美元。报告建议进一步限制所有浸没式DUV及其备件和维护服务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580810.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-05T21:45:16+08:00"
+            },
+            {
+              "title": "SpaceX据称考虑自制光纤设备 延续火箭业务垂直整合策略",
+              "brief": "有报道称，SpaceX正考虑自行制造光纤设备，并寻找光收发器的其他采购渠道，以加强供货保障和控制成本，类似其自研火箭发动机和部分星舰部件的垂直整合做法。美国联邦通信委员会正草拟限制进口中国新型号数据中心设备的措施，其中包括光收发器，但方案仍可能修改或搁置。报道还提及SpaceX规划的AI算力、轨道数据中心和月球数据中心等设想，但这些容量分配和时间表均来自匿名专家访谈，SpaceX并未公开确认。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580808.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-05T20:56:35+08:00"
+            },
+            {
               "title": "古尔曼称苹果触屏OLED MacBook Pro或于下月亮相，新机据称将明显减重",
               "brief": "古尔曼称苹果触屏OLED MacBook Pro或于下月亮相，新机据称将明显减重。现款14英寸重量约1.60至1.62千克，16英寸约2.14至2.15千克，不能据此推算减重幅度。此前报道提到新机可能采用更薄机身、以灵动岛取代刘海，并正在测试macOS 27.2，但均未获苹果确认。芯片配置说法不一，有称M6和M5 Ultra，也有称M5 Pro与M5 Max。古尔曼此前称可能在10月或11月发布，最新报道指向11月。发布时间、价格、触屏交互和完整规格仍未公布。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1580806.htm",
               "source_name": "cnBeta",
               "published_at": "2026-10-05T20:24:28+08:00"
-            },
-            {
-              "title": "加州叫停真人大战人形机器人赛事，网红遭机器人拳脚击倒引发监管介入",
-              "brief": "加州叫停真人大战人形机器人赛事，网红遭机器人拳脚击倒引发监管介入。公开视频显示，机器人能出拳、快速踢击和连续攻击，一台机器人踢中拉彭纳面部将其撞向笼网，另一记踢击将其掀翻，还有机器人用连续拳击将其击倒。赛事传播后，加州州立体育委员会介入调查，9月30日向REK发出停止并终止通知，要求停止举办、宣传或赞助未经批准的人机格斗赛事。REK首席执行官公开通知并调侃回应。法律规定涉及真人的格斗表演须事先获批，违规属轻罪。外界认为公司可能转移至其他州或国家继续举办。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580804.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-05T20:23:59+08:00"
-            },
-            {
-              "title": "开源工具可移除Apple Intelligence模型，Mac用户最高可收回数十GB存储空间",
-              "brief": "开源工具可移除Apple Intelligence模型，Mac用户最高可收回数十GB存储空间。苹果已移除一键关闭Apple Intelligence的总开关，关闭AI功能后本地模型文件仍占用硬盘。RemoveMacAI通过安装配置文件关闭苹果模型资源管理服务、删除已下载模型，并将后续下载请求重定向到本地关闭端口。苹果官方称Apple Intelligence通常需最多约14GB，但部分用户实测占用超过20GB甚至27GB。移除后新版Siri、写作工具、Genmoji、图像生成、ChatGPT集成、智能摘要等功能将消失，语音输入仍可用。该工具在GitHub获数百支持，苹果尚未提供官方彻底删除工具。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580802.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-05T19:15:55+08:00"
-            },
-            {
-              "title": "OpenAI将在ChatGPT生成图片时测试视觉广告",
-              "brief": "OpenAI宣布将在ChatGPT生成图片时测试视觉广告，称不会影响生成结果。这是ChatGPT现有广告业务的新格式，并非广告首次进入ChatGPT。OpenAI表示ChatGPT每周触达12亿人，广告业务有助于覆盖仅靠订阅难以触及的更大用户群体。公司还将扩展广告效果衡量工具及合作伙伴网络，让广告商通过Hightouch、Tealium、LiveRamp等接入转化数据，并利用AppsFlyer、Adjust、Branch等开展归因，同时与DoubleVerify和Integral Ad Science合作评估品牌安全。系统会评估对话是否适合展示广告，广告政策限制政治、儿童安全、健康及自伤等敏感话题周边广告。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1580800.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-05T18:48:51+08:00"
-            },
-            {
-              "title": "德国供电企业推出玩家专属电价套餐",
-              "brief": "德国供电企业SWK Energie推出名为meinGAMING的玩家专属电价套餐，按游戏时长和用电量分为三档：Casual Gamer面向每周游戏10小时以上用户，默认年用电量2500千瓦时；Pro Gamer面向每周约30小时以上的资深玩家，默认3500千瓦时；Gaming Households面向两名以上活跃玩家家庭，默认5000千瓦时。该套餐并非提供特殊电力或提升性能，而是以较高固定费用搭配较低单位电价，适合高耗电家庭。套餐提供最长24个月电价保障，电力全部来自可再生能源。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1580798.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-05T18:45:01+08:00"
             }
           ]
         },
@@ -325,39 +346,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《GTA 6》设专门团队编写NPC路人对话",
-              "brief": "Rockstar为《GTA 6》设立专门团队撰写路人对话，并安排广告和喜剧内容编剧，让玩家在快速穿过街道时也能听到零散对话，停下来细听则能获得更多信息。这种环境叙事还延伸到竞选标语、电话、广播广告和电视脱口秀等元素，玩家无需与特定角色交流即可了解虚构世界的社会文化与矛盾。开发团队成员Rupert Humphries强调，游戏采用现代背景，但不打算简单复制现实，而是以更夸张的讽刺手法呈现社会现象、文化冲突和热点元素。",
-              "source_url": "https://www.ithome.com/1/009/870.htm",
+              "title": "香蕉派推出BPI-CM7核心板：全志H618搭配LPDDR4与eMMC",
+              "brief": "香蕉派发布BPI-CM7核心板，搭载全志H618处理器，配备LPDDR4内存与eMMC存储，另有基于英飞凌CYW43455芯片的科尔通K019双频Wi-Fi 5 1T1R及蓝牙5.1模组，并集成256B EEPROM。该核心板长55毫米、宽40毫米，可通过底部两个100-Pin连接器扩展出HDMI、100MbE、一个USB 2.0 OTG、三个USB 2.0 Host、microSD等一系列输入输出接口。",
+              "source_url": "https://www.ithome.com/1/009/900.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-05T20:46:07+08:00"
+              "published_at": "2026-10-05T22:30:52+08:00"
             },
             {
-              "title": "苹果iCloud邮箱别名创建上限悄然增至9个",
-              "brief": "苹果悄然将iCloud邮箱别名的创建上限从3个提升至9个，为用户注册各类服务提供更多隐私保护选择。苹果目前未对外说明此次调整，官网iCloud用户指南仍显示最多只能创建3个@iCloud.com邮箱别名，但实际调整已生效。对于需要多个邮箱地址来区分用途或避免泄露主邮箱的用户来说，这是一项实用的功能改进。",
-              "source_url": "https://www.ithome.com/1/009/869.htm",
+              "title": "国庆返程将至，10月6日79个高速服务区预计充电特别繁忙",
+              "brief": "国庆假期返程高峰临近，10月6日全国预计有79个高速公路服务区充电特别繁忙。相关名单覆盖湖南、河北、广东、辽宁、安徽、黑龙江、江西、河南、四川、山西、青海、广西、陕西、甘肃等多个省份，涉及横市、茶陵、攸县、炎陵、常宁西、岳阳、君山、马迹塘、桂东、欧阳海、桂阳、汝城南、通道、安江、桥头河等服务区，提示新能源车主提前规划补能路线。",
+              "source_url": "https://www.ithome.com/1/009/899.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-05T20:31:26+08:00"
+              "published_at": "2026-10-05T22:29:12+08:00"
             },
             {
-              "title": "拱北海关查获旅客身绑旧手机79台",
-              "brief": "珠海拱北海关查获一起旅客人身绑藏旧手机进境案。关员在监管中发现两名旅客神情异常，其中一人声称同行孩童为自己的孩子，随后从两人腰部、大腿及小腿等多个位置查获用塑料薄膜绑藏的旧手机共79台。海关表示，以人身捆绑、贴身藏匿方式走私电子产品属于典型违规夹带行为，目前该案已按规定作进一步处置。",
-              "source_url": "https://www.ithome.com/1/009/868.htm",
+              "title": "海外消费者两次网购AMD锐龙7 9850X3D均被调包成十年前的酷睿i3",
+              "brief": "一名海外消费者通过亚马逊两次下单购买AMD锐龙7 9850X3D处理器，收货后均发现被调包。商品外包装看似正常、封条完好，但盒内处理器被替换为约十年前的英特尔酷睿i3-3000系列产品，且两次手法完全相同。第二次收货时其全程录像仍未能避免。两次购买共花费约1600美元，亚马逊正处理退款。有观点怀疑问题出在仓储、物流或退货商品重新入库环节，因包装盒贴有LPN退货标签。",
+              "source_url": "https://www.ithome.com/1/009/898.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-05T20:25:50+08:00"
+              "published_at": "2026-10-05T22:17:09+08:00"
             },
             {
-              "title": "三星Galaxy S27 Ultra基础配色曝光",
-              "brief": "三星Galaxy S27 Ultra的基础颜色选项曝光，包括黑色、蓝色、浅粉色和白色。Galaxy S27系列预计包含Galaxy S27、S27+、S27 Pro和S27 Ultra四款机型，将在2027年初正式发布，其中Pro和Ultra将配备Privacy Display隐私显示功能，通过限制屏幕侧面可视范围降低旁人窥视风险。Ultra可能搭载5700mAh电池，成为三星传统直板旗舰中电池容量最大的产品，并进一步改进影像系统。全系机型已通过中国CCC认证，Pro和Ultra支持60W有线快充。",
-              "source_url": "https://www.ithome.com/1/009/867.htm",
+              "title": "SANWA推出62克轻量化立式人体工学鼠标，较竞品减重约四成",
+              "brief": "SANWA推出轻量化立式人体工学鼠标，重量仅62克，较竞品减重约四成。产品尺寸为73毫米，支持4800 cpi分辨率，配备五颗静音按键，内置可充电电池，日常使用续航可达175天。其中MA-EBBS536BL为仅支持蓝牙连接的型号，税后定价6270日元，约合266.8元人民币；MA-EWBS536BL额外支持2.4GHz无线连接，税后定价7480日元，约合318.3元人民币。",
+              "source_url": "https://www.ithome.com/1/009/897.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-05T20:23:38+08:00"
+              "published_at": "2026-10-05T22:16:32+08:00"
             },
             {
-              "title": "《恋与深空》国际服鸡尾酒配方引安全争议",
-              "brief": "手游《恋与深空》国际服官方账号分享鸡尾酒配方，因使用有毒植物作为装饰引发争议。其中一款名为Artsyblobbu的鸡尾酒推荐用火焰百合装饰，该植物含较高浓度秋水仙碱，误食可能严重中毒；另一款Fiendyblobbu建议使用曼陀罗装饰，这种植物有强烈致幻作用，误食可能导致幻觉及其他严重中毒症状。帖子发布后很快有玩家指出风险并提醒不要照做。目前官方已发布安全提醒，明确表示相应饮品仅为虚构，服务于游戏设定，玩家绝不应在现实中尝试制作或饮用。",
-              "source_url": "https://www.ithome.com/1/009/866.htm",
+              "title": "卡普空开源RE:Dox结构化数据引擎，JSON反序列化最高提速2.84倍",
+              "brief": "卡普空开源RE:Dox结构化数据引擎，该引擎面向.NET平台，基于Token机制，主要用于将不同数据转换为统一格式和规则，提升数据处理、编辑与读取效率。官方基准测试显示，在并行处理JSON反序列化时，RE:Dox相较.NET标准的System.Text.Json理论最高可实现约2.84倍处理速度，实际表现受数据结构、运行环境及CPU等因素影响。项目已按Apache-2.0许可证开源，开发者可自由使用和修改，甚至用于商业项目。",
+              "source_url": "https://www.ithome.com/1/009/886.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-05T20:21:34+08:00"
+              "published_at": "2026-10-05T22:08:53+08:00"
             }
           ]
         },
