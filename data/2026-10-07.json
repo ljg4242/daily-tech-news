@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T16:52:08.133514+08:00",
+  "generated_at": "2026-10-07T18:52:26.807935+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果自研家庭安防摄像头仍计划明年推出",
+              "brief": "彭博社记者马克·古尔曼澄清，苹果与LG联合开发的安防摄像头，与苹果主打隐私保护的家庭摄像头和传感器是\"完全独立\"的两个项目，后者仍计划于明年推出。据此前报道，苹果这款设备不会录制视频，而是利用人工智能分析家庭环境，并判断人物所处的房间。彭博社曾在9月首次报道苹果将于2027年推出家庭安防系统及相关服务。LG品牌的系列产品包括可视门铃、智能门锁、恒温器以及室内外摄像头，预计至少还需数月才会上市。",
+              "source_url": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-07T18:35:26+08:00"
+            },
+            {
+              "title": "展开的iPhone Duo支持双页文档预览布局",
+              "brief": "根据代码探索者pdfu的新发现，折叠屏iPhone Duo在展开成书本形态时，其快速查看功能似乎提供双页布局选项。X平台上分享的一段视频显示，一份Apple Style Guide文档在展开的iPhone两个半屏上预览，连续页面如跨页般并排显示。浏览文档时，快速查看界面会在右侧显示搜索、标记和分享控件。这一布局将使快速查看成为又一项利用Duo宽屏显示特性的功能。苹果此前已详细介绍iOS 27如何为该设备调整界面，包括角度感知布局和并排多任务处理。iPhone Duo将于太平洋时间10月16日星期五上午5点开启预购，10月23日星期五正式发售。",
+              "source_url": "https://www.macrumors.com/2026/10/07/iphone-duo-document-preview-two-page-layout/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-07T18:06:54+08:00"
+            },
             {
               "title": "Apple TV 的 F1 赛事转播本月晚些时候将支持杜比全景声",
               "brief": "Apple TV 的 F1 转播将于本月晚些时候开始以杜比全景声播出，从 10 月 23 日星期五在德克萨斯州奥斯汀举行的美国大奖赛周末起，支持设备即可体验。Apple 表示，杜比全景声将营造更具沉浸感的呈现效果，让观众置身比赛中心，声场涵盖车队无线电、解说、引擎声、赛道争夺以及维修区活动。杜比视界与杜比全景声结合，旨在呈现 F1 完整的视听强度。该体验适用于支持的 Apple 设备以及兼容杜比的全景声电视、回音壁和家庭影院系统。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
               "source_name": "MacRumors",
               "published_at": "2026-10-07T05:44:03+08:00"
-            },
-            {
-              "title": "iPhone 80%充电上限使用三年实测结果",
-              "brief": "自2023年起，苹果新款iPhone提供80%充电上限以延长电池寿命。作者连续三年在iPhone 15 Pro Max、16 Pro Max和17 Pro Max上启用该设置。使用12个月后，iPhone 17 Pro Max最大容量为97%，循环277次；去年16 Pro Max为94%，2024年15 Pro Max也为94%。作者还避免电量低于20%，并更多使用USB-C充电。长期测试显示，15 Pro Max使用36个月后容量88%，循环369次；16 Pro Max使用24个月后容量93%，循环343次。",
-              "source_url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-07T03:59:51+08:00"
-            },
-            {
-              "title": "macOS 27.2 进一步暗示触控 OLED 屏 MacBook",
-              "brief": "苹果本周发布的 macOS 27.2 第三个开发者测试版再次暗示传闻已久的触控屏 MacBook。在 Dock 栏中长按应用图标时，图标会略微放大，这一动画与 iOS 和 iPadOS 中的长按效果类似，被视为触控 Mac 即将到来的又一线索。该测试版还加入了其他触控手势。据传苹果计划在 10 月或 11 月推出配备触控屏的高端 14 英寸和 16 英寸 MacBook Pro 或 MacBook Ultra，搭载 M5 Pro 和 M5 Max 芯片，采用更轻薄设计，配备灵动岛，并可能内置 C1X 或 C2 调制解调器以支持蜂窝网络。",
-              "source_url": "https://www.macrumors.com/2026/10/06/macos-27-2-hints-at-macbook-with-touchscreen/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-07T02:22:57+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌相册或将允许用户调整自制动画播放速度",
-              "brief": "据对谷歌相册应用 v7.96.0.99 版本的拆解，代码字符串显示该应用正在开发动画速度调节功能。用户在将多张照片合成为 GIF 动画时，将可选择 0.25 倍、0.5 倍、1 倍、1.5 倍和 2 倍等播放速度，并能保存前预览动画效果。目前谷歌相册合成动画时不支持修改时长，只能使用默认速度。新字符串还确认，制作的 GIF 将直接保存到相机胶卷并备份至谷歌相册，同时包含保存失败、分享失败和导出等提示文本。",
-              "source_url": "https://www.androidauthority.com/google-photos-animation-speed-options-apk-teardown-3719968/",
+              "title": "试遍热门安卓VPN后，我打游戏只用这一款",
+              "brief": "作者长期受高延迟和丢包困扰，曾使用ExitLag降低ping值，但每月约10美元的费用对偶尔玩《阿尔比恩OL》和《英雄联盟手游》的他并不划算。传统VPN如NordVPN和Surfshark同样需要订阅。最终他选择了Mudfish，其核心是流量点数制：起价5美元约40GB，且点数永不过期，只为实际游戏流量付费，无需每月续订。连接时先选择游戏的目标区域，Mudfish会推荐对应服务器，适合不常玩网游但偶尔需要低延迟的玩家。",
+              "source_url": "https://www.androidauthority.com/mudfish-android-gaming-vpn-hands-on-3718476/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-07T16:26:59+08:00"
+              "published_at": "2026-10-07T18:30:24+08:00"
             },
             {
-              "title": "首款 A 系列机型开始推送稳定版安卓 17 与 One UI 9",
-              "brief": "三星已在韩国为 Galaxy Quantum 7 推送基于安卓 17 的稳定版 One UI 9，使 Galaxy A57 5G 成为首款获得该更新的 A 系列设备。此次更新固件版本为 A576SKSU2BZIE，包含 2026 年 9 月 5 日安全补丁，并带来快速设置自定义扩展、三星健康升级、新安全工具和 Bixby 改进等。Galaxy Quantum 7 是 Galaxy A57 5G 的韩国版本，搭载相同的 Exynos 1680 芯片。美国版 A57 5G 尚未收到更新，但预计稳定版推送已不远。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-a57-stable-one-ui-9-update-3719924/",
+              "title": "谷歌或将让Gemini代你处理Gmail收件箱",
+              "brief": "谷歌正为Gmail的AI Inbox加入Gemini代理任务功能，使其能更主动地处理邮件。据X平台爆料及Gmail应用v2026.09.28版本中的字符串，AI Inbox可能在建议操作项旁显示“用Gemini开始”按钮，点击后Gemini便着手处理，并显示“进行中”状态。对于需要回复的邮件，还会出现“起草回复”选项。Gemini会自行推进任务，但在存疑或标记完成前会等待人工确认，并显示“需要你的输入”状态及“提供输入”按钮，让用户补充所需信息。",
+              "source_url": "https://www.androidauthority.com/gemini-agentic-tasks-gmail-ai-inbox-apk-teardown-3720065/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-07T16:18:25+08:00"
+              "published_at": "2026-10-07T18:25:27+08:00"
             },
             {
-              "title": "Googlebook 的 Linux 应用支持问题连廉价 Chromebook 都不如",
-              "brief": "据报道，Googlebook 笔记本在安装和运行 Linux 应用方面缺乏 Chromebook 那种用户友好的方式。用户必须通过安卓的终端应用安装 Linux 应用，且这些应用不会显示在应用抽屉中，只能通过命令行界面启动。ChromeOS 多年来支持在设置中启用 Linux 开发环境，可安装 Debian 软件包并从应用抽屉直接运行。谷歌已承认这一不足，并表示图形界面 Linux 应用目前不是重点。尽管 Googlebook 可轻松运行安卓应用，但早期设备缺少对 Linux 应用的适当支持。",
-              "source_url": "https://www.androidauthority.com/linux-apps-on-googlebook-3719936/",
+              "title": "亚马逊无端取消Echo音箱的这项Alexa功能",
+              "brief": "亚马逊已移除多款带3.5毫米接口的老款Echo音箱通过Alexa语音控制AUX输入的功能。受影响的设备包括第二代Echo Plus、第三代和第四代Echo以及第一代Echo Studio。用户仍可通过AUX线连接外部音源播放，也能在Alexa应用中切换支持的AUX输入输出模式，但“Alexa，从线路输入播放”等语音指令不再可用，蓝牙仍可作为替代。亚马逊向Ars Technica确认了该变化，称极少有用户使用AUX语音控制，但未解释移除原因及受影响人数。",
+              "source_url": "https://www.androidauthority.com/amazon-echo-alexa-aux-input-voice-controls-3719987/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-07T16:13:16+08:00"
+              "published_at": "2026-10-07T18:15:11+08:00"
             },
             {
-              "title": "黑客泄露 3615 名 Trump Mobile 用户信息",
-              "brief": "威胁行为者组织 BYOD 在暗网发布了 3615 条 Trump Mobile 用户记录，据称几乎涵盖该品牌全部活跃用户。泄露数据包括客户姓名、电子邮箱、电话号码、家庭住址、订单历史和套餐取消记录，还涉及特朗普集团副总裁兼首席信息官 Eric Brunnett 的个人信息。黑客称通过合作伙伴 Liberty Mobile 一名员工设备上的远程访问木马进入系统。多家媒体确认泄露名单中多人确实与 Trump Mobile 有过互动或注册。此次泄露不包括 T1 手机订单数据。",
-              "source_url": "https://www.androidauthority.com/trump-mobile-subscriber-data-leak-3719958/",
+              "title": "三星可能彻底推翻关于Galaxy Buds过热的官方建议",
+              "brief": "新Galaxy Buds应用版本的代码显示，三星或将改变长期以来的官方指引，转而建议用户把过热的耳机放回充电盒降温。更新后的应用内提示称，过热耳机会为安全自动关机，取代此前耳机持续蜂鸣的警告方式。三星官方支持页面自至少2024年底起明确警告用户不要将发热耳机放入充电盒，应取下待其完全冷却。这一转变可能意味着新款Galaxy Buds配备升级的电池管理电路，能在温度骤升时停止充电电流，但在官方文档更新前，让热耳机在空气中冷却仍最安全。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-buds-overheating-guidance-apk-teardown-3720077/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-07T16:04:17+08:00"
+              "published_at": "2026-10-07T18:09:02+08:00"
             },
             {
-              "title": "Dreame L60 Ultra PE 评测：价格合理的旗舰级扫地机器人",
-              "brief": "Dreame L60 Ultra PE 定位中端扫地机器人，但性能可超越旗舰机型。它具备 30000Pa 吸力、热水拖地、安全导航和长时间免手动运行等特性，官方建议零售价 1099.99 美元。经过三周实测，评测者认为其功能丰富且可靠，适合不愿花高价购买旗舰产品的用户。基站可存放清水和清洁剂，自动混合并用热水清洗拖布，同时容纳污水。不足之处是噪音略大，在狭窄空间中表现保守。整体而言，这是一款值得考虑的多功能清洁设备。",
-              "source_url": "https://www.androidauthority.com/dreame-l60-ultra-pe-review-3711658/",
+              "title": "Galaxy Z Fold 8 Ultra续航测试揭示iPhone Duo面临的最大挑战",
+              "brief": "三星Galaxy Z Fold 8 Ultra终于采用5000mAh硅碳电池，在多数测试场景中优于去年4400mAh的锂聚合物电池，更紧凑的Z Fold 8的4800mAh硅碳电池也表现不俗，三者在4K播放上接近。然而硬件变化抵消了部分收益：2亿像素主摄显著拉低拍照续航表现，成为最差项目之一，4K录制时间尚可，更快处理器也未必完全兑现预期续航增益。与此同时，苹果发布首款书本式折叠iPhone Duo，其成败很可能取决于续航表现，而三星的测试数据表明，仅靠新电池技术仍难破解全天续航难题。",
+              "source_url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-battery-tests-iphone-duo-challenge-3718097/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-07T16:00:26+08:00"
+              "published_at": "2026-10-07T18:00:55+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "捷豹首款电动车亮相，延续争议概念车设计",
+              "brief": "捷豹正式发布其首款电动车Type 01，即备受争议的Type 00概念车的量产版本。这款电动四门GT被称为捷豹史上最强公路车型，计划明年上市，售价13万美元。量产车保留了概念车低矮的车身轮廓、修长的侧面线条和23英寸大轮毂，改为四门设计后比例更显自然。内饰采用皮革与黄铜细节，方向盘后方配备24英寸OLED显示屏，中央脊线处另设两块7英寸智能手机式屏幕，前后各一。不过，概念车设计总监据报已于今年早些时候离职。",
+              "source_url": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+              "source_name": "The Verge",
+              "published_at": "2026-10-07T06:03:46-04:00"
+            },
+            {
+              "title": "Common Sense Media称ChatGPT青少年版构成“不可接受的风险”",
+              "brief": "非营利组织Common Sense Media发布评估称，OpenAI的ChatGPT青少年版构成“不可接受的风险”。该功能于8月推出，设有面向青少年的防护措施，旨在帮助学生。但Common Sense Media认为，其青少年保护措施“未达到公司承诺的水平”。评估发现，ChatGPT“在本应通知家长时未发送警报”，在危机情境下未提供“恰当帮助”，且“仍会替孩子做作业”。该组织执行主任汤姆·西格尔表示，ChatGPT青少年版可能让家长对经常失效的防护栏和安全警报产生错误信心。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+              "source_name": "The Verge",
+              "published_at": "2026-10-07T05:00:00-04:00"
+            },
             {
               "title": "OpenAI发布又一批数学突破成果",
               "brief": "OpenAI公布了一批由未发布的前沿模型生成的数学成果，共722篇手稿，涵盖372个结果族，将相关论文归类整理。据新成立的独立顾问组织AGMAI称，这批成果包含对“数百个”未解问题的解答，预计已酝酿数周，此前OpenAI未透露具体解决了哪些问题及发布时间。今年9月，该公司曾表示其模型“解决了超过”若干难题。这一进展延续了该模型在数学领域的突破势头，既令部分数学界人士印象深刻，也引发不安，并带来关于研究伦理与学术规范的疑问。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
               "source_name": "The Verge",
               "published_at": "2026-10-06T18:00:00-04:00"
-            },
-            {
-              "title": "苹果与 LG 合作推出智能家居新品，首发门锁、门铃和恒温器",
-              "brief": "据彭博社报道，苹果正与 LG 合作开发一系列新的智能家居设备，包括视频门铃、恒温器、室内摄像头等。这些产品据称将带有 LG 品牌标识，并与该公司传闻中将于 10 月 13 日活动上发布的智能家居中枢集成。消息人士告诉彭博社，即将推出的产品线还包括死锁、户外安全摄像头和泛光灯摄像头。此前 FCC 备案中出现的一张“LG 智能恒温器”的示意图也印证了相关消息。这被视为苹果与 LG 之间的“第二方”开发安排。",
-              "source_url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-              "source_name": "The Verge",
-              "published_at": "2026-10-06T17:39:53-04:00"
-            },
-            {
-              "title": "喜剧演员称塞巴斯蒂安·曼尼斯卡尔科的 SiriusXM 频道损害新人发展",
-              "brief": "喜剧演员塞巴斯蒂安·曼尼斯卡尔科因接管 SiriusXM 的 Raw Comedy 频道而遭到同行批评，他们认为这损害了正在崛起的新人。据 Deadline 早前报道，包括帕顿·奥斯瓦尔特和玛格丽特·赵在内的许多知名喜剧演员在网上发布视频，呼吁曼尼斯卡尔科延续 Raw Comedy 的传统，在自己的频道上推介新喜剧演员，而不是主要关注成名艺人。SiriusXM 于四月推出塞巴斯蒂安·曼尼斯卡尔科喜剧电台，据该卫星广播公司称，该频道“由塞巴斯蒂安本人策划并领衔”。此举取代了 SiriusXM 长期播出的 Raw Comedy 频道，后者曾展示超过 800 位喜剧演员。",
-              "source_url": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
-              "source_name": "The Verge",
-              "published_at": "2026-10-06T17:10:13-04:00"
             }
           ]
         },
@@ -254,6 +254,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "被取消的《完美黑暗》重启版片段曝光，展示水果物理与跑酷",
+              "brief": "特效开发者的作品集展示了可破坏环境、科幻武器等内容。开发商The Initiative去年关闭，这家位于洛杉矶的工作室未能推出其首个Xbox项目。该工作室于2018年成立，曾获得Crystal Dynamics的大力支持，后者也在项目取消后被迫裁员。特效艺术家Tracey Landau发布了被取消的《完美黑暗》重启版及Hardsuit Labs版《吸血鬼：避世血族2》的3分钟特效展示与泄露实机画面。片段显示开发者在灰盒环境中测试武器，以及完成度较高的关卡，利用跑酷进行移动并测试环境反应性。即便在这一早期阶段，团队似乎也在极力推进次世代水果破坏效果。这只是一段短剪辑，显然是为该特效开发者整理的作品集片段，主要聚焦爆炸、武器与环境效果。乔安娜·达克的女演员Alix Wilton Regan此前表示游戏“进展相当顺利”，并称“我已经完成了这个宇宙的整个章节”。据彭博社报道，复活《完美黑暗》重启版的交易几乎达成，Rockstar母公司Take-Two曾表示有兴趣出资，但交易因不明原因告吹。《毁灭战士》开发商id Software也曾“酝酿提案”制作《完美黑暗》游戏。这原本会是自Rare的《完美黑暗：零》以来首款《完美黑暗》游戏，后者于2005年11月作为Xbox 360首发游戏推出，评价褒贬不一。Rare的神秘新作《Everwild》也与《完美黑暗》一同被取消。上个月，Halo Studios也遭遇裁员，Halo已交给Activision，后者将指派团队继续开发。",
+              "source_url": "https://www.ign.com/articles/perfect-dark-reboot-footage-leak",
+              "source_name": "IGN",
+              "published_at": "2026-10-07T16:58:16+08:00"
+            },
+            {
               "title": "小岛秀夫认可粉丝自制《P.T.》PC原生移植版",
               "brief": "2014年8月推出的《P.T.》原本是《寂静岭》新作的试玩demo，由小岛秀夫主导、诺曼·瑞杜斯主演，却因小岛与科乐美交恶而在2015年从PlayStation商店下架。如今模组作者LoreanXavier正将这款经典恐怖作品移植到PC，他称项目已完成约97%。该移植并非模拟器或重制，而是逆向工程PS4可执行文件，使用原版素材、C++与Vulkan重新实现，包含相同的房屋、原始内容、Lua脚本、循环、事件、流程与结局谜题，甚至保留了语音识别环节。30分钟实机演示已在YouTube公开，玩家纷纷呼吁开源以防被版权下架。",
               "source_url": "https://www.ign.com/articles/hideo-kojima-acknowledges-fan-made-pt-port-that-runs-natively-on-pc",
@@ -280,19 +287,19 @@
               "source_url": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
               "source_name": "IGN",
               "published_at": "2026-10-07T06:07:53+08:00"
-            },
-            {
-              "title": "前动视CEO鲍比·科蒂克在华纳兄弟与派拉蒙合并后加入Skydance董事会",
-              "brief": "在派拉蒙完成对华纳兄弟探索的收购后，前动视暴雪CEO鲍比·科蒂克加入了大卫·埃里森执掌的新公司Skydance董事会。据《好莱坞报道》援引新的SEC文件确认，科蒂克与慈善家劳伦·鲍威尔·乔布斯一同入选，前英国首相托尼·布莱尔则担任董事会顾问。埃里森表示，科蒂克带领全球娱乐公司实现了三十年的持续增长，在打造持久系列与连接粉丝方面带来真知灼见，其大胆战略与严谨资本配置的经验正是公司整合业务所需。该13人董事会还包括芭芭拉·伯恩、安迪·坎皮恩、格里·卡迪纳莱、萨芙拉·卡茨、尤侬·克雷兹、雪莉·兰辛等娱乐业界人士。科蒂克执掌动视32年，最终将公司出售给微软。",
-              "source_url": "https://www.ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
-              "source_name": "IGN",
-              "published_at": "2026-10-07T06:05:29+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "39款Windows软件清单分享，你用过几款？",
+              "brief": "论坛用户yingngao晒出39款Windows自用软件清单，获得网友好评。清单涵盖系统工具、效率工具、文档笔记等类别：系统方面有Autoruns启动项管理、CrystalDiskInfo硬盘检测、DMDE数据恢复、HiBit Uninstaller卸载清理、Ventoy启动盘制作等；效率方面有WinRAR解压、ClipDiary剪贴板、Everything文件搜索、WinMerge文件对比、FreeFileSync同步等；文档笔记方面提及Microsoft Office与LibreOffice的格式兼容问题。",
+              "source_url": "https://www.appinn.com/39-windows-software-you-have-used/",
+              "source_name": "小众软件",
+              "published_at": "2026-10-07T16:48:20+08:00"
+            },
             {
               "title": "example.com 全新改版，中文界面居首",
               "brief": "拥有34年历史的示例域名 example.com 近日改版，新界面中中文排在第一位。该域名由 IANA 于1992年注册，专门用于文档示例，用户可放心在教程中使用。1999年 RFC 2606 正式保留 example.com、example.net、example.org 等域名，另有 .test、.invalid、.localhost 等特殊用途域名。IANA 提醒不要将其用作测试服务器，2024年已关闭 POST、PUT、DELETE、PATCH 等请求，仅保留基本网页访问。",
@@ -320,13 +327,6 @@
               "source_url": "https://meta.appinn.net/t/topic/92683",
               "source_name": "小众软件",
               "published_at": "2026-10-05T16:45:37+08:00"
-            },
-            {
-              "title": "格物间推出「宇宙与天文」专题：10 个浏览器里动手玩的天文交互演示",
-              "brief": "科普网站格物间上线「宇宙与天文」专题，整理收录 10 个可在浏览器中动手玩的天文交互演示，涵盖宇宙的尺度、可观测宇宙、光速与光年、阳光到地球、引力与时空弯曲、1919 年星光偏折等主题。网站按专题组织数学、物理、计算机、地理等交互演示内容，用户无需安装即可在网页中操作体验。该专题是开发者自荐系列的一部分，网站首页为 gewujian.cn。",
-              "source_url": "https://meta.appinn.net/t/topic/92780",
-              "source_name": "小众软件",
-              "published_at": "2026-10-05T16:43:11+08:00"
             }
           ]
         },
@@ -352,6 +352,13 @@
         {
           "name": "cnBeta",
           "articles": [
+            {
+              "title": "OpenAI青少年版ChatGPT遭质疑：Common Sense Media称其存在不可接受的风险",
+              "brief": "Common Sense Media长期评估儿童与青少年安全，此次重点测试ChatGPT for Teens的家长控制、安全提醒和危机干预能力，认为在最需要保护措施的场景下仍存在明显缺陷。评估指出，ChatGPT在特定情况下不会向家长发出应发的警报，也未始终提供适当危机帮助，同时仍能直接替学生完成家庭作业。该产品于今年8月推出，OpenAI定位其专为青少年用户并加入额外安全限制。Common Sense Media认为保护机制可能给家长带来虚假安全感，其青年人工智能安全研究所执行主任Tom Siegel称，青少年可能连续一小时与ChatGPT讨论自残相关问题而家长未收到提醒，在修复并独立验证前更适合成年人使用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581028.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-07T17:14:27+08:00"
+            },
             {
               "title": "马斯克超级芯片工厂或转向台积电，英特尔CEO陈立武回应",
               "brief": "英特尔今年4月签约成为Terafab项目开发合作伙伴。陈立武周三在东京出席英特尔日本运营50周年活动前对彭博社表示，英特尔将继续参与Terafab项目。Terafab是全球各国政府和企业竞相扩大半导体及关键零部件产能浪潮的一部分，这些产品对加速AI普及至关重要。从滚珠轴承、芯片制造设备、工业化学品到滑轨，各类制造工厂目前均处于满负荷生产状态，促使企业纷纷建设更多生产线。",
@@ -379,13 +386,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1581020.htm",
               "source_name": "cnBeta",
               "published_at": "2026-10-07T14:37:49+08:00"
-            },
-            {
-              "title": "Xbox负责人称业务恢复增长，将加强主机投入并打造Helix设备家族",
-              "brief": "Xbox负责人Sharma表示，过去一年Xbox品牌正面评价上升30%，《战争机器：事变日》《我的世界：地下城2》和《魔兽世界：永恒》开局表现强劲。她认为Xbox需先服务好现有主机玩家，将主机放回战略核心，继续加强Xbox Series X|S，同时发展云游戏、实体转数字计划和Xbox Play Anywhere，并暗示Game Pass未来提供更灵活内容选择。对于下一代Xbox Helix，她设想先推出主机，同时考虑供玩家外出使用的设备，部分由Xbox制造，部分通过合作完成。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1581018.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-07T14:37:43+08:00"
             }
           ]
         },
@@ -393,39 +393,65 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "奇瑞深化全球化3.0战略，调整高管分工：主品牌纳入全球体系，捷途品牌做大做强",
-              "brief": "奇瑞汽车宣布深化全球化3.0战略，进行高管分工调整。张贵兵分管全球造型设计中心、全球人力资源中心、全球法务中心、全球备件生态事业部、安徽墨甲智创机器人科技有限公司等，并兼任国际业务事业群总经理等职务，负责将奇瑞主品牌纳入全球市场体系。公司执行副总裁李学用分管捷途品牌事业部，聚焦推动捷途品牌高端化发展，打造更具全球竞争力的越野品牌，同时分管企业公关部，兼任市场与营销管理委员会执行副主任，做好全球化3.0战略国内市场营销服务支持。奇瑞表示，此次调整旨在把主品牌纳入全球体系、把特色品牌做大做强，以更高效的经营体系深化全球化3.0战略。",
-              "source_url": "https://www.ithome.com/1/010/230.htm",
+              "title": "惠普RTX Spark笔记本定价提前泄露：2999.99美元起",
+              "brief": "惠普官网一度显示，14英寸OmniBook X起售价2999.99美元，16英寸OmniBook Ultra售价3199.99美元，对应配置为18核CPU、32GB LPDDR5X-9400统一内存和1TB PCIe Gen 5 SSD。两款笔记本均可选配20核CPU和最高128GB统一内存，选配64GB内存时起售价分别为4499.99美元和4999.99美元。随后惠普很快删除了上述价格信息。",
+              "source_url": "https://www.ithome.com/1/010/275.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-07T16:40:35+08:00"
+              "published_at": "2026-10-07T18:46:11+08:00"
             },
             {
-              "title": "Spotify有声书功能年内扩展至超180个市场，覆盖超120种语言",
-              "brief": "Spotify宣布其有声书功能将在年内扩展至超过180个市场，覆盖超过120种语言，潜在总触达用户总数突破7.5亿人。为进一步改进用户的有声书使用体验，Spotify还宣布为Page Match内容位置匹配功能新增ISBN条码录入识别功能，并在爱尔兰、比利时、奥地利、芬兰推出Audiobooks+付费订阅学生套餐。此举旨在扩大有声书业务的全球覆盖范围，并提升用户使用便利性。",
-              "source_url": "https://www.ithome.com/1/010/229.htm",
+              "title": "岚图汽车卢放：车辆有自动智能驾驶辅助也不允许酒驾",
+              "brief": "岚图汽车卢放表示，即使车辆具备自动智能驾驶辅助功能，也绝对不允许酒驾。此前浙江绍兴一名驾驶员饮酒后开启智能辅助驾驶功能上高速，最终停在中间车道，血检结果达醉酒驾驶标准，被吊销驾驶证且五年内不得再考，并被法院以危险驾驶罪判处拘役和罚金。最高法指导性案例明确，辅助驾驶系统不能代替驾驶人成为驾驶主体。",
+              "source_url": "https://www.ithome.com/1/010/269.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-07T16:37:10+08:00"
+              "published_at": "2026-10-07T18:31:23+08:00"
             },
             {
-              "title": "雷蛇发布幻影战狼V4系列手柄：最高8K轮询率，支持XBOX/PC平台",
-              "brief": "雷蛇发布幻影战狼V4系列手柄，最高轮询率可达8000Hz，XBOX平台为250Hz，为竞技玩家在FPS、赛车游戏提供旗舰手感。该系列手柄采用非对称式摇杆布局，拥有全新电容式摇杆，相比TMR和霍尔摇杆可提供更高抗干扰能力以及更强的抗漂移性能，可识别3000级运动变化，提供更加平滑的追踪和更高精度。幻影战狼V4专业版配备可更换的磁吸面板，用户无需工具即可轻松拆装进行DIY，提供六种摇杆帽供玩家自由选择。该系列手柄还支持四个板载配置文件，玩家可重新映射按键、调整死区。幻影战狼V4竞技版是一款有线手柄，采用响应式PBT操作按键和8向浮式方向键，同样在PC上支持8KHz轮询。",
-              "source_url": "https://www.ithome.com/1/010/228.htm",
+              "title": "微软、OpenAI遭美国多家地方媒体起诉侵犯版权",
+              "brief": "美国多家地方媒体起诉微软和OpenAI侵犯版权，原告包括密西西比州大型私营报业集团埃默里奇报业以及Ojai Media、Coopwood Publishing等多家机构。原告认为两家公司绕过付费墙等限制系统且未获授权，侵犯了《版权法》和《数字千年版权法》，要求支付损害赔偿，并请求法院颁布禁令删除模型中的侵权训练数据。",
+              "source_url": "https://www.ithome.com/1/010/257.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-07T16:29:29+08:00"
+              "published_at": "2026-10-07T18:19:47+08:00"
             },
             {
-              "title": "荣耀Magic9全系列支持红外功能，Pro Max搭载独有360°红外遥控增强技术",
-              "brief": "荣耀Magic9全系列支持红外功能，其中Pro Max搭载独有「360°红外遥控增强」技术，实现遥控全角度覆盖，无需对准即可自由遥控。荣耀Magic9和荣耀Magic9超能版把红外遥控放在相机模组，不需要像以前手机那样把顶部对着电视、空调设备，正常竖着拿手机就行，更方便也更省事。荣耀Magic9系列于9月28日正式发布，包含Magic9 Pro Max、Magic9、Magic9超能版，售价4499元起。荣耀全球首席营销官关海涛于10月1日宣布，受版本缺货等因素，Magic9系列发布后第3天激活较上代增长70%多。此外，荣耀CEO李健透露，Magic9系列正式开售仅半小时，国内所有电商全平台的销量就已同比上代旗舰系列增长194%。",
-              "source_url": "https://www.ithome.com/1/010/227.htm",
+              "title": "韩国自研火箭世界号第五次发射成功，5颗卫星入轨",
+              "brief": "韩国自研火箭世界号于当地时间12时25分从全罗南道高兴郡罗老航天中心发射升空，共搭载5颗对地观测卫星和10颗立方体卫星，第五次发射取得成功。韩国计划2027年下半年实施第六次发射，主要任务同样是将5颗对地观测卫星送入轨道。世界号为三级运载火箭，重约200吨，可将1.5吨级卫星送至600至800公里轨道。",
+              "source_url": "https://www.ithome.com/1/010/248.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-07T16:28:45+08:00"
+              "published_at": "2026-10-07T18:06:52+08:00"
             },
             {
-              "title": "2026诺贝尔物理学奖得主哈尔岑回应获奖：如释重负，过去每年10月都因未获奖而愧对合作者",
-              "brief": "2026年诺贝尔物理学奖得主弗朗西斯·哈尔岑在美国威斯康星大学麦迪逊分校举行新闻发布会，回应获奖感受。哈尔岑表示，获奖并非他刻意追求的目标，但对他而言是一种“如释重负”，因为过去每年10月，他都会因为没得奖而难受，觉得辜负了合作者。哈尔岑还称，这是对一个非常不寻常项目的庆祝，很难想象除了拥有独特研究基础设施的威斯康星大学麦迪逊分校，还能在哪里实现这一目标。这是诺贝尔物理学奖时隔34年首次只颁发给1位科学家，上一次单人获奖还是1992年的乔治·夏帕克。哈尔岑于1944年3月23日出生于比利时蒂嫩，今年82岁，目前隶属于美国威斯康星大学麦迪逊分校。",
-              "source_url": "https://www.ithome.com/1/010/226.htm",
+              "title": "铭凡MS-03迷你主机酷睿Ultra 9 386H版本开售，准系统6689元",
+              "brief": "铭凡MS-03迷你主机酷睿Ultra 9 386H版本开售，采用16C/16T架构和新一代英特尔核显，最高支持128GB DDR5 7200MT/s内存，可通过转接卡连接U.2企业级固态硬盘。该机配备3个M.2 SSD插槽和1个PCIe x16物理插槽，支持英特尔vPro技术，可实现远程维护、诊断和故障恢复。目前准系统售价6689元，已在京东开售。",
+              "source_url": "https://www.ithome.com/1/010/247.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-07T16:27:46+08:00"
+              "published_at": "2026-10-07T17:52:58+08:00"
+            }
+          ]
+        },
+        {
+          "name": "Solidot",
+          "articles": [
+            {
+              "title": "Anthropic举报佛罗里达女子在Claude聊天中威胁执法部门",
+              "brief": "一名佛罗里达女子在与Claude聊天时威胁枪击Lee县警长办公室，并提到正在搞一把新枪，随后在家中被捕，于9月30日受到一项重罪指控。逮捕报告显示，Anthropic会监控聊天内容，查找可能具有威胁性的关键词句，并根据威胁程度提交人工审核。本案中审核团队决定将发现报告给执法部门。她的罪名是通过书面或电子形式发出大规模枪击或恐怖主义行动的威胁。",
+              "source_url": "https://www.solidot.org/story?sid=85542",
+              "source_name": "Solidot",
+              "published_at": "2026-10-06T22:11:47+08:00"
+            },
+            {
+              "title": "2026年诺贝尔物理奖授予冰立方中微子天文台提出者Francis Halzen",
+              "brief": "2026年诺贝尔物理奖授予美国科学家Francis Halzen，以表彰其对冰立方中微子天文台的决定性贡献以及发现具有天体物理起源的高能中微子。他于1988年首次提出在南极捕获中微子的构想：中微子与原子核碰撞会产生一闪光，可被清澈冰川冰中的传感器追踪到。冰立方覆盖一立方公里，2011年完工，研究人员很快发现了首批高能中微子，寻找宇宙中微子来源的工作由此开始。",
+              "source_url": "https://www.solidot.org/story?sid=85541",
+              "source_name": "Solidot",
+              "published_at": "2026-10-06T21:52:24+08:00"
+            },
+            {
+              "title": "俄罗斯女研究员因感染肺鼠疫死亡",
+              "brief": "俄罗斯证实一名女研究员因感染肺鼠疫死亡，并否认有其他人感染。死者为在西伯利亚和远东地区抗鼠疫科学研究所工作的28岁希皮洛娃，因意外打破试管而被流出的肺鼠疫感染。接触者检验发现两人感染冠病、两人感染鼻病毒，未发现有人染上肺鼠疫。研究所所在的伊尔库茨克州州长称其死于未能确认病因的肺炎。肺鼠疫传染力最大，是唯一可经呼吸道迅速人传人的病种，不治疗可在一至六天内致命。",
+              "source_url": "https://www.solidot.org/story?sid=85540",
+              "source_name": "Solidot",
+              "published_at": "2026-10-06T21:36:41+08:00"
             }
           ]
         }
