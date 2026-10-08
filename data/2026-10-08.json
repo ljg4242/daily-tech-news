@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T06:52:27.685124+08:00",
+  "generated_at": "2026-10-08T08:52:08.756898+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,6 +9,20 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "微软推出2599美元Surface Laptop Ultra，对标MacBook Pro",
+              "brief": "微软公布今年早些时候发布的Surface Laptop Ultra的上市时间与售价。15英寸机型起售价2599美元，低于苹果16英寸MacBook Pro的2999美元，面向创作者与开发者市场。该机搭载英伟达RTX Spark芯片，内含Blackwell RTX GPU（最高6144核）与Grace CPU（最高20核），支持最高128GB统一内存，采用全新散热架构。由于是Arm架构芯片，设备运行Windows on Arm，并通过Prism模拟运行x86应用。微软称其屏幕为Surface史上最亮最清晰，峰值HDR亮度比M5 MacBook Pro高25%，mini-LED触屏支持手势但不支持手写笔。机身比16英寸MacBook Pro更轻，配有大型触觉触控板与可升级存储，并首次内置磁吸USB-C充电Magnetic Connect。接口包括三个USB-C、一个USB-A、HDMI、SD读卡器和3.5毫米耳机孔。微软同时发布5999美元的Surface RTX Spark Dev Box，提供最高1 petaflop的AI性能，支持最高1200亿参数模型。",
+              "source_url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-08T08:45:43+08:00"
+            },
+            {
+              "title": "谷歌SynthID AI检测工具向所有人开放",
+              "brief": "谷歌宣布其SynthID Detector面向所有人开放，用于识别AI生成内容。该工具去年先向媒体成员推出，现已在全球以英语提供。用户可通过网站上传照片、视频或音频文件，检测其中是否含有SynthID水印以判断是否为AI生成。该工具无法区分AI创建与AI编辑的媒体，且需要登录才能使用。SynthID会在AI生成内容中嵌入人眼不可见的数字水印，可通过谷歌网站检测。SynthID Detector可识别来自谷歌、OpenAI、英伟达和Kakao的AI生成媒体。苹果也计划在今年晚些时候支持SynthID。谷歌表示该网站并非通用AI检测器，只能检测使用SynthID技术的内容。SynthID检查已集成到搜索、Gemini和Chrome中，供用户作为替代方案使用。",
+              "source_url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-08T07:42:44+08:00"
+            },
+            {
               "title": "ChatGPT 推出 GPT-6 与全新智能界面，支持可视化回答",
               "brief": "OpenAI 今日推出智能界面功能，让 ChatGPT 能以完全交互式用户界面回答问题，日常答复更视觉化，帮助用户理解复杂话题。回答可包含图形、可点击按钮、表单、图表、示意图等交互体验。OpenAI 网站上的 GPT-5.6 与 GPT-6 对比示例展示了更多可视化内容、可根据客人数自动调整用量的交互式食谱组件、清单、集成地图以及用于缩小结果范围的多选题追问。ChatGPT 还能快速创建账单分摊器、小游戏和计算器等工具。GPT-6 还可在思考时即开始作答，以加快响应速度。",
               "source_url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
@@ -16,38 +30,38 @@
               "published_at": "2026-10-08T06:27:06+08:00"
             },
             {
+              "title": "Prime Day今日结束：AirPods Pro 3售179美元、Apple Watch售199美元",
+              "brief": "亚马逊Prime Big Deal Days将于今日晚些时候结束，本文汇总了亚马逊上仍在进行的最佳苹果及相关产品优惠。由于许多产品已促销数天，发货可能延迟，但价格均处于历史低位。Prime Day需拥有亚马逊Prime会员才能享受折扣，会员费为每月14.99美元或每年139美元，新用户可享30天免费试用。AirPods方面，AirPods Pro 3降至历史最低价179美元，原价249美元，优惠70美元；AirPods Max 2优惠120美元，售价429美元。Apple Watch方面，Apple Watch SE 3的40毫米GPS版降至199美元，44毫米GPS版降至229美元，均优惠50美元并追平历史最低价。Apple Watch Series 12的42毫米GPS版售价349.99美元，46毫米GPS版售价399.99美元，均优惠49美元并创历史新低，两种尺寸各有两种颜色参与，部分蜂窝版本也在促销。Mac mini和Mac Studio也有优惠。",
+              "source_url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-08T06:10:00+08:00"
+            },
+            {
               "title": "Apple Watch Series 12 与 Ultra 4 可维修性评分 4/10",
               "brief": "维修网站 iFixit 本周拆解了 Apple Watch Series 12 和 Apple Watch Ultra 4。Ultra 4 的可维修性没有变化，表壳与显示屏之间使用大量胶水以防水，需通过屏幕接触电池，撬开时容易割断显示排线。Series 12 同样难以拆开，但电池胶粘剂带有拉带，iFixit 称这是适度的改进；该机型还取消了增加维修难度的 ZIF 连接器。Ultra 4 电池为 2.444Wh，高于 Ultra 3 的 2.313Wh；46 毫米 Series 12 电池为 1.461Wh，高于 Series 11 的 1.403Wh。两款手表均获 4/10 分。",
               "source_url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
               "source_name": "MacRumors",
               "published_at": "2026-10-08T05:44:17+08:00"
-            },
-            {
-              "title": "苹果与国王信托基金推出创意实验室项目",
-              "brief": "苹果今日宣布与英国慈善机构国王信托基金合作推出新的教育项目，帮助年轻人在创意行业建立职业生涯。Apple x King's Trust 创意实验室将为 18 至 30 岁人群提供与苹果专家合作、探索不同职业道路的机会。首批最多 20 人参加专门工作坊，学习使用苹果技术的有价值且符合行业需求的技能。该教育体验本周启动，音乐产业与创意工作坊配合伦敦巴特西发电站 Apple Music Hall 开幕举行。苹果董事长蒂姆·库克与国王查尔斯三世到访 Apple Music Hall 会见参与者。未来一年还将推出更多批次和课程。",
-              "source_url": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-08T05:29:46+08:00"
-            },
-            {
-              "title": "Apple Watch Series 12 与 Ultra 4 用户报告皮肤刺激问题",
-              "brief": "据 MacRumors 论坛和 Reddit 上的报告，部分 Apple Watch Series 12 和 Ultra 4 用户在使用新款手表后出现意外皮肤刺激，受影响用户反映传感器区域下方有灼烧感和发红。这两款手表每五秒测量一次心率，有人怀疑这是刺激原因。此外，它们还拥有更大的 ECG 电极表面、环形排列的光电二极管和更大的绿色 LED。苹果表示，刺激可能由表带过紧或过松、肥皂和汗水等刺激物引起，建议确保表带贴合并保持手表、表带和皮肤清洁干燥，若出现发红、肿胀、瘙痒等症状应先咨询医生。",
-              "source_url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-08T03:02:52+08:00"
-            },
-            {
-              "title": "波士顿MBTA测试支持Apple Wallet的新Charlie Card",
-              "brief": "马萨诸塞湾交通局（MBTA）今年一直在测试支持iPhone和Apple Watch上Apple Wallet的新版Charlie Card。新版Charlie Card目前仅限2024年报名的测试者使用，公开版本将在“稍后日期”发布。此前MBTA已在部分线路推进非接触式支付，此次测试意味着乘客未来可直接用Apple设备刷闸乘车，减少实体卡依赖。",
-              "source_url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-08T01:54:14+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "秋季Prime Day苹果产品最佳优惠汇总",
+              "brief": "本文汇总了秋季Prime Day期间苹果相关产品的最佳优惠，涵盖AirPods、Mac mini、MacBook以及充电器和保护壳等配件。文章持续更新，为消费者提供实时折扣信息，帮助在促销期间以更优惠价格购买苹果设备及周边产品。内容基于9to5Mac的报道，聚焦于价格和购买建议，不涉及产品评测或评论。",
+              "source_url": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-08T08:00:00+08:00"
+            },
+            {
+              "title": "WhatsApp将液态玻璃设计扩展至视频播放器",
+              "brief": "WhatsApp正在将其液态玻璃设计语言扩展到视频播放器界面，这是该应用在视觉风格上的进一步统一。此次更新意味着用户在观看视频时将体验到与聊天界面一致的新设计元素，可能包括半透明效果和更流畅的动画。此举是WhatsApp持续优化用户体验的一部分，具体细节和推送时间尚未完全公布。内容基于9to5Mac的报道，仅陈述事实，不包含评论。",
+              "source_url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-08T07:19:01+08:00"
+            },
             {
               "title": "评测：Rhinoshield 的 iPhone 18 Pro 边框壳极简却意外地有保护力",
               "brief": "9to5Mac 发布对 Rhinoshield iPhone 18 Pro 边框保护壳的评测。该产品延续极简设计路线，仅包裹机身四周，但实际防护效果超出预期，能在日常跌落与碰撞中提供可靠缓冲。评测同时提到其手感、按键贴合度与安装便利性，并对比了常见全包壳的差异，认为适合追求轻薄外观又不愿牺牲基本保护的用户。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/10/07/first-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-now-available-to-developers/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-08T05:01:54+08:00"
-            },
-            {
-              "title": "OpenAI 将 GPT-6 引入 ChatGPT 并推出智能界面",
-              "brief": "OpenAI 宣布为 ChatGPT 上线 GPT-6 模型，同时推出名为 Intelligent UI 的新界面。报道称新模型在推理、多轮对话和任务执行方面有所提升，界面则更强调根据上下文动态调整布局与交互，让用户更自然地完成复杂请求。文章还提到该更新将逐步向不同订阅层级开放，并可能影响第三方应用与开发者生态。",
-              "source_url": "https://9to5mac.com/2026/10/07/openai-brings-gpt-6-to-chatgpt-and-debuts-intelligent-ui/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-08T04:57:28+08:00"
-            },
-            {
-              "title": "泄露显示苹果家居“第二方”配件阵容比预想更大",
-              "brief": "据泄露信息，苹果为 Home 生态准备的“第二方”配件数量与品类比此前预期更多。报道称这些产品由苹果与合作伙伴共同打造，可能涵盖门铃、门锁、恒温器等智能家居设备，并深度整合 HomeKit 与家庭应用。若消息属实，苹果正加快布局智能家居硬件，以扩大自身在家庭自动化市场的影响力。",
-              "source_url": "https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-08T04:53:32+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "“软件时代终结”：开发者用AI开源克隆挑战Adobe",
+              "brief": "开发者Brandon Thomas利用Anthropic的Claude Opus 5.5，以Rust语言创建了七款开源应用，复刻Adobe Photoshop、Illustrator、Premiere、Lightroom、After Effects、InDesign和Acrobat Pro的界面与工具，并提供WebAssembly浏览器版本。这些应用目前处于“超早期alpha”阶段，存在诸多不足，但Thomas承诺一个月内实现100%功能对等。此前其项目Artcraft以“面向艺术家的可控AI”起步，支持对AI生成图像和视频进行精确后期编辑。",
+              "source_url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-08T05:56:42+08:00"
+            },
+            {
               "title": "宾州麻疹疫情突破千例，创消除以来最大规模",
               "brief": "宾夕法尼亚州麻疹疫情持续扩大，截至周三下午，该州2026年累计报告1078例麻疹病例，其中1066例与4月开始的当前疫情相关，已超过南卡罗来纳州997例的此前纪录，成为美国自2000年宣布消除麻疹以来最大规模疫情。过去七天新增145例，较周一更新增加74例。疫情已导致207人住院、5人死亡，死者均未接种疫苗，包括一名新生儿、一名6周大婴儿以及18岁、20岁和40岁各一人。随着全国疫苗接种率下滑，麻疹病例近年大幅反弹，目前疫情仍未见结束迹象。",
               "source_url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-08T02:24:39+08:00"
-            },
-            {
-              "title": "利用万机器人及AI歌曲刷流量欺诈者获刑",
-              "brief": "美国北卡罗来纳州54岁的Michael Smith认罪后被判18个月监禁，他利用人工智能生成歌曲，从音乐流媒体平台窃取数百万美元版税，成为美国首位因AI辅助流媒体欺诈被刑事起诉的人。司法部称，Smith自2017年起用虚假邮箱和欺诈获得的借记卡在亚马逊音乐、苹果音乐、Spotify和YouTube音乐等平台创建数千个账户，并用软件驱动机器人持续播放其声称拥有的AI生成歌曲。到2024年被捕时，他已生成数十万首AI歌曲，并分散数十亿次自动播放以规避审查。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-08T01:57:39+08:00"
             }
           ]
         },
@@ -358,39 +358,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "三星电子2026财年第三财季营收195万亿韩元，同比增126.59%",
-              "brief": "三星电子公布2026财年第三财季业绩，实现营业收入195万亿韩元（约合9668.1亿元人民币），同比增长126.59%，环比增长13.7%；营业利润107.4万亿韩元（约合5324.89亿元人民币），同比增长782.5%，环比增长20.01%。前三季度累计营业收入500.37万亿韩元，累计营业利润254.13万亿韩元，同比大幅增长。业绩增长主要受益于AI产业爆发带动高端存储芯片HBM需求激增及存储芯片价格持续上涨，半导体事业部利润贡献显著提升。机构认为业绩落地后股价存在修复空间。",
-              "source_url": "https://www.ithome.com/1/010/338.htm",
+              "title": "DMA Design 开发者回忆初代《GTA》：开放世界源于懒得做菜单",
+              "brief": "DMA Design 创意总监加里·佩恩与首席程序员基思·汉密尔顿在“侠盗猎车手起源”座谈会上回顾初代《GTA》开发过程。佩恩称游戏最初构想远比成品线性，玩家需从菜单选择任务，开放世界并不在最初设计中。汉密尔顿解释称，开放世界其实是因为团队懒得做主菜单，直接开始关卡一路玩下去即可。团队后来放弃线性任务列表，改为让玩家按任意顺序接听电话领取任务，灵感来自《虎胆龙威3》。座谈会还披露电台、警方播报、红绿灯模拟等细节。",
+              "source_url": "https://www.ithome.com/1/010/372.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T06:46:50+08:00"
+              "published_at": "2026-10-08T08:42:54+08:00"
             },
             {
-              "title": "我国科研团队研制出“核光钟”，量子精密测量获新突破",
-              "brief": "我国科研团队联合国内多个研究团队，历时近5年研发出148纳米连续波真空紫外激光技术，并利用该光源精确驱动放射性同位素钍-229的原子核跃迁，将激光频率稳定在这一核跃迁上，研制出“核光钟”。该钟以原子核跃迁作为计时基准，每秒约可计数2000万亿次。由于原子核尺寸约为核外电子云的几万分之一，核跃迁受外界扰动影响较小，能提供更稳定的计时节拍，并具备进一步小型化潜力。未来有望应用于导航和深空探测，为卫星、航天器提供更精准的定位和距离测量。",
-              "source_url": "https://www.ithome.com/1/010/337.htm",
+              "title": "Playground Games 承认与玩家沟通不足，称后续考虑调整",
+              "brief": "《极限竞速：地平线 6》开发商 Playground Games 承认与玩家沟通不足，后续考虑调整。本周早些时候推出的最新更新加入了与 7-Eleven 的限时联动，玩家可通过活动为游戏角色解锁服装，但一些玩家认为 Playground Games 虽一直增加内容，却缺少与社区的真正交流，玩家提出的问题和诉求也未得到充分回应。Playground Games 随后在 10 月 6 日晚发布声明称，工作室一直留意玩家反馈，但在与玩家沟通方面做得不够，对于今后的游戏内容以及与大家沟通的方式，都会考虑作出调整。",
+              "source_url": "https://www.ithome.com/1/010/370.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T06:38:37+08:00"
+              "published_at": "2026-10-08T08:31:13+08:00"
             },
             {
-              "title": "微软重构Copilot图标：升级动态交互语言，可表达思考、规划与检索",
-              "brief": "微软设计团队对Copilot图标进行重构，新版图标以矩形为基础形态，保留两种既能独立识别、又能组合成整体的形式。颜色继续沿用原有渐变关系，可沿曲线变化并在两个形态之间移动形成层次。动态交互方面，微软建立统一动态语言，三种动作均由两个形态相互移动完成并重新组合为整体：第一种表示“思考”，对应处理用户请求；第二种表示“规划”，对应整理后续步骤；第三种表示“检索”，对应从文件和工作内容中提取相关信息。微软表示，因Copilot使用方式持续变化，原有静态图标难以传递处理状态，故让图标参与产品交互。",
-              "source_url": "https://www.ithome.com/1/010/336.htm",
+              "title": "英特尔网卡驱动被曝破坏 IPv6 连接，OneNote 等应用遭殃",
+              "brief": "有用户反映三星 Galaxy Book 笔记本上的 OneNote 持续显示笔记为空，同时提示已是最新状态。该用户借助 Claude 完成数据包级别取证分析，最终定位到 Intel Connectivity Performance Suite。问题源于其流量控制驱动在处理 IPv6 数据包时，将握手后每个 TCP 数据包的 IPv6 Flow Label 字段重置为 0，导致微软云边缘负载均衡系统将后续数据包路由到另一台从未参与连接的服务器并返回重置信号。受影响设备涉及三星、联想、VAIO、华硕、惠普等厂商。用户测试 Intel 官方通用版驱动后 IPv6 连接全部成功。",
+              "source_url": "https://www.ithome.com/1/010/369.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T06:37:09+08:00"
+              "published_at": "2026-10-08T08:24:07+08:00"
             },
             {
-              "title": "微软Win11搜索迎里程碑式升级：内联操作支持改深色模式、控制手机发短信",
-              "brief": "微软为Win11搜索带来“从搜索到执行”的里程碑式升级。新搜索界面摒弃传统双窗格设计，将所有结果整合至单一可滚动列表，提升信息扫描效率。核心亮点为内联操作功能，允许用户直接在搜索框内完成系统级任务，支持“切换到深色模式”“打开蓝牙”“调暗屏幕”“静音”“最小化所有窗口”“排列窗口”等高频操作。微软还优化拼写错误与同义词识别能力，计划今年晚些时候推出内联预览功能。用户无需跳转浏览器即可查看天气、股价等查询答案，并可通过Phone Link快速发送短信。新功能自10月7日起面向实验频道Windows Insider用户逐步推送，初始仅支持英语。",
-              "source_url": "https://www.ithome.com/1/010/335.htm",
+              "title": "应对汽车大灯刺眼问题，美国将修订车辆照明标准",
+              "brief": "美国国家公路交通安全管理局将修订车辆照明标准，以应对汽车大灯过于刺眼的问题并为新技术扫清障碍。NHTSA 局长乔纳森·莫里森表示，现行标准限制了车企采用有助于提升安全性的最新照明技术，因此将召集主要专家和各方代表共同更新标准，并解决可能造成眩光的问题。美国公路安全保险协会去年公布的研究显示，眩光在夜间交通事故中所占比例仍然很低，2015 年至 2023 年 11 个州每 1000 起夜间交通事故中只有 1 至 2 起将大灯眩光列为事故因素。NHTSA 将采用协商式规则制定程序更新标准。",
+              "source_url": "https://www.ithome.com/1/010/368.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T06:35:09+08:00"
+              "published_at": "2026-10-08T08:21:47+08:00"
             },
             {
-              "title": "华硕推出ProArt P14/P16笔记本及GR1X主机，搭载英伟达RTX Spark超级芯片",
-              "brief": "华硕推出ProArt P14、P16笔记本及ProArt GR1X迷你主机，三款设备均基于NVIDIA RTX Spark平台，最高提供1 PFLOP（FP4）AI算力与最高128GB统一内存，可在本机直接运行大型语言模型、复杂3D渲染、内容生成与AI Agents工作流。ProArt P16厚12.9mm、重约1.77kg，配16英寸屏幕和99.9Wh电池，24GB内存+512GB存储售价2799.99美元。ProArt P14厚13.9mm、重约1.48kg，为华硕最轻ProArt笔记本，32GB内存+512GB存储售价3099.99美元。ProArt GR1X体积约1.1升，支持双M.2 SSD、10GbE、Wi-Fi 7，芯片TDP可达140W，定位7×24小时运行AI Agent的“始终在线”设备。",
-              "source_url": "https://www.ithome.com/1/010/334.htm",
+              "title": "Steam 客户端 Beta 更新：新增游戏运行时禁用屏保选项",
+              "brief": "Steam 客户端 Beta 通道推送更新，通用更新新增一项设置，允许用户选择在游戏运行时禁用屏保。注册为非 Steam 游戏的 Windows 二进制文件现在默认通过 Proton 运行，并修复了通过浏览按钮更改目标二进制文件后非 Steam 游戏无法启动、外部工具启动游戏后停止按钮无法正常关闭游戏、游戏库中游戏时长偶尔临时显示错误数值等问题。Steam 输入修复了 Linux 系统下控制器重新排序界面有时无法正常交换控制器顺序的问题。大屏模式新增运行游戏时禁用屏保设置项。Linux 平台注册为非 Steam 游戏的 Windows 二进制文件默认通过 Proton 运行。",
+              "source_url": "https://www.ithome.com/1/010/367.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T06:27:55+08:00"
+              "published_at": "2026-10-08T08:20:35+08:00"
             }
           ]
         },
@@ -398,11 +398,25 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "Bit Reactor CEO欢迎部分停职员工回归，继续支持《星球大战：零连》",
+              "brief": "Bit Reactor CEO格雷格·福尔奇10月7日公开表示，部分此前被无薪停职的员工已回归，以继续支持《星球大战：零连》。他称停职是无奈之举，目的是最终让尽可能多的人回来，并称让这些员工回归是工作室持续支持该作的重要一步，团队期待很快分享更多更新。消息人士称，目前带薪员工数量已超过停职前的一半，但仍有相当一部分停职员工未获薪酬。该作于2026年8月发售并获好评，IGN给出9分，但发售前约80%员工被停职。",
+              "source_url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
+              "source_name": "IGN",
+              "published_at": "2026-10-08T06:52:00+08:00"
+            },
+            {
               "title": "塞缪尔·杰克逊确认尼克·弗瑞将回归《复仇者联盟：秘密战争》",
               "brief": "塞缪尔·杰克逊在新片《野兽》首映红毯采访中向The Direct透露，他将在《复仇者联盟：末日》之后的下一部漫威电影中登场，按目前档期即《复仇者联盟：秘密战争》。他表示漫威只告知他会参演下一部，未透露任何细节。目前漫威对《秘密战争》的演员阵容严格保密，诺亚·尤佩九月加盟，安东尼·麦凯已确认出演但需等2027年7月百老汇《麦克白》演出结束后才能开拍。该片拍摄据称已推迟至2027年初，将是多元宇宙传奇的最终章。",
               "source_url": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
               "source_name": "IGN",
               "published_at": "2026-10-08T06:02:54+08:00"
+            },
+            {
+              "title": "PS5将于明年春季新增Crunchyroll专属专区",
+              "brief": "索尼互动娱乐总裁兼CEO西野秀明在Crunchyroll动漫未来论坛上宣布，PS5将于2027年春季在主屏幕推出Crunchyroll专属专区。该专区将把动漫、动漫改编游戏以及Crunchyroll的便捷访问整合到一处。截至今年早些时候，PS5全球装机量已超过9200万台。Crunchyroll总裁拉胡尔·普里尼表示，从PlayStation上的Crunchyroll会员服务到即将推出的《对马岛之魂：传奇》动画剧集，双方合作再进一步，玩家将拥有发现动漫及动漫改编游戏并轻松访问完整Crunchyroll应用的专属空间。",
+              "source_url": "https://www.ign.com/articles/ps5-adding-dedicated-crunchyroll-hub-next-spring",
+              "source_name": "IGN",
+              "published_at": "2026-10-08T05:49:19+08:00"
             },
             {
               "title": "IGN Fan Fest 2026秋季版：观看方式与内容前瞻",
@@ -417,20 +431,6 @@
               "source_url": "https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon",
               "source_name": "IGN",
               "published_at": "2026-10-08T05:14:11+08:00"
-            },
-            {
-              "title": "吉尔莫·德尔·托罗谈《刀锋战士2》、与小岛秀夫合作及大量红牛",
-              "brief": "在《潘神的迷宫》上映20周年重映之际，吉尔莫·德尔·托罗接受IGN采访，回顾了自己的电影创作历程。他谈到自己从小就是“怪兽小孩”，认为怪物设计对童话和寓言叙事至关重要，并直言“别藏着怪物，请展示出来”。他分享了与韦斯利·斯奈普斯合作《刀锋战士2》的经历，以及差点执导《生化奇兵》电影的往事。采访还涉及他与小岛秀夫的合作、对环球经典怪兽的热爱，以及创作过程中靠大量红牛支撑的趣事。",
-              "source_url": "https://www.ign.com/articles/guillermo-del-toro-on-blade-2-working-with-kojima-and-lots-of-red-bull",
-              "source_name": "IGN",
-              "published_at": "2026-10-08T03:55:22+08:00"
-            },
-            {
-              "title": "《使命召唤》电竞解说因与搭档前妻交往而辞职",
-              "brief": "《使命召唤》联赛解说克林特·“Maven”·埃文斯宣布将“在可预见的未来”离开CDL。他承认自己与搭档解说约瑟夫·“MerK”·德卢卡的前妻毛里萨开始交往，称这一情况“非常规且禁忌”，并表示从未预料到会发展成这样。埃文斯说毛里萨曾是他最好的朋友之一，两人在德卢卡离婚后保持友谊，后来发展为恋爱关系。他希望有朝一日能重返CDL，但也承认可能不会实现。CDL社区反应强烈，许多人认为他背叛了相识十多年的朋友，德卢卡尚未对此发表评论。",
-              "source_url": "https://www.ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife",
-              "source_name": "IGN",
-              "published_at": "2026-10-08T03:18:20+08:00"
             }
           ]
         }
