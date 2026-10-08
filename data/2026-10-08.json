@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T18:52:29.286455+08:00",
+  "generated_at": "2026-10-08T20:52:34.308333+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone Air 2 或与展开后的 iPhone Duo 一样薄",
+              "brief": "据韩国 Naver 博客账号“yeux1122”称，iPhone Air 2 将比现款薄约 0.4 毫米，同时配备更高容量电池。现款 iPhone Air 厚度为 5.6 毫米，若减少 0.4 毫米，其继任者约为 5.2 毫米，薄约 7%，这一厚度恰好与新 iPhone Duo 展开时相当。此前有传闻称 iPhone Air 2 将采用 3500mAh 电池，高于现款的 3149mAh，容量提升约 11%。该设备预计明年年初与 iPhone 18e 及常规版 iPhone 18 一同发布。",
+              "source_url": "https://www.macrumors.com/2026/10/08/iphone-air-2-could-be-as-thin-unfolded-iphone-duo/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-08T19:21:52+08:00"
+            },
             {
               "title": "新款iPad mini发布前传闻将配60Hz OLED屏",
               "brief": "在预期即将发布的新款iPad mini 8亮相前，亚洲方面消息称该设备将采用60Hz OLED显示屏，而非ProMotion 120Hz屏。该消息来自韩国Naver博客账号“yeux1122”的一位爆料者，其称海外报道虽提及120Hz，但国内生产数量已确认为60Hz的LTPS。这并非首次听闻OLED iPad mini不会与iPad Pro共享ProMotion屏。今年7月同一爆料者曾称，苹果供应链消息人士透露未发布的iPad mini配备60Hz低温多晶硅背板混合OLED面板。iPad Pro采用双层LTPO OLED面板，刷新率可在10Hz至120Hz间动态调整；LTPS面板通常固定刷新率且亮度较低。若属实，可能令iPad mini粉丝失望。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
               "source_name": "MacRumors",
               "published_at": "2026-10-08T07:42:44+08:00"
-            },
-            {
-              "title": "ChatGPT 推出 GPT-6 与全新智能界面，支持可视化回答",
-              "brief": "OpenAI 今日推出智能界面功能，让 ChatGPT 能以完全交互式用户界面回答问题，日常答复更视觉化，帮助用户理解复杂话题。回答可包含图形、可点击按钮、表单、图表、示意图等交互体验。OpenAI 网站上的 GPT-5.6 与 GPT-6 对比示例展示了更多可视化内容、可根据客人数自动调整用量的交互式食谱组件、清单、集成地图以及用于缩小结果范围的多选题追问。ChatGPT 还能快速创建账单分摊器、小游戏和计算器等工具。GPT-6 还可在思考时即开始作答，以加快响应速度。",
-              "source_url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-08T06:27:06+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iOS 27 中值得尝试的最佳 CarPlay 升级",
+              "brief": "9to5Mac 汇总了 iOS 27 为 CarPlay 带来的多项值得尝试的升级。文章介绍了新版系统在车载界面、应用体验和连接方式上的改进，帮助用户在升级后快速上手。内容涵盖界面布局调整、小组件与多任务处理优化，以及与 iPhone 更深度的联动。作者还给出具体设置建议，说明哪些新功能最实用、如何开启，并提醒部分功能可能依赖车型和地区支持。整体面向希望充分利用 CarPlay 新特性的用户。",
+              "source_url": "https://9to5mac.com/2026/10/08/the-best-carplay-upgrades-to-try-ios-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-08T20:24:41+08:00"
+            },
+            {
+              "title": "传闻再起：OLED iPad mini 将缺少一项关键功能",
+              "brief": "有不可靠传闻再次称，采用 OLED 屏幕的新款 iPad mini 仍不会配备 ProMotion 自适应刷新率技术。文章指出该消息来源可信度较低，并回顾了此前类似爆料。若属实，iPad mini 在滚动流畅度和动态刷新方面将继续落后于 iPad Pro。报道同时提到 OLED 面板可能带来的对比度与色彩提升，以及苹果产品线中 ProMotion 的普及节奏。作者提醒读者谨慎看待，等待更可靠消息。",
+              "source_url": "https://9to5mac.com/2026/10/08/sketchy-rumor-again-says-ipad-mini-will-lack-promotion/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-08T20:08:51+08:00"
+            },
+            {
+              "title": "Security Bite 播客：我们需要谈谈完全磁盘访问权限的变化",
+              "brief": "Security Bite 播客本期聚焦 macOS 中完全磁盘访问权限（Full Disk Access）的改动。主持人讨论了这些变化对用户隐私、第三方安全工具和自动化脚本的影响，解释为何开发者与高级用户需要重新审视授权设置。节目还分析苹果调整权限机制的可能原因，包括防止恶意软件滥用和加强系统完整性保护。同时给出实用建议，说明普通用户应如何检查并管理哪些应用拥有该权限，以降低数据被过度访问的风险。",
+              "source_url": "https://9to5mac.com/2026/10/08/security-bite-podcast-we-need-to-talk-about-the-changes-to-full-disk-access/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-08T17:30:00+08:00"
+            },
             {
               "title": "秋季Prime Day苹果产品最佳优惠汇总",
               "brief": "本文汇总了秋季Prime Day期间苹果相关产品的最佳优惠，涵盖AirPods、Mac mini、MacBook以及充电器和保护壳等配件。文章持续更新，为消费者提供实时折扣信息，帮助在促销期间以更优惠价格购买苹果设备及周边产品。内容基于9to5Mac的报道，聚焦于价格和购买建议，不涉及产品评测或评论。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-08T07:19:01+08:00"
-            },
-            {
-              "title": "评测：Rhinoshield 的 iPhone 18 Pro 边框壳极简却意外地有保护力",
-              "brief": "9to5Mac 发布对 Rhinoshield iPhone 18 Pro 边框保护壳的评测。该产品延续极简设计路线，仅包裹机身四周，但实际防护效果超出预期，能在日常跌落与碰撞中提供可靠缓冲。评测同时提到其手感、按键贴合度与安装便利性，并对比了常见全包壳的差异，认为适合追求轻薄外观又不愿牺牲基本保护的用户。",
-              "source_url": "https://9to5mac.com/2026/10/07/review-rhinoshields-iphone-18-pro-bumper-case-is-minimalist-but-surprisingly-protective/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-08T05:57:58+08:00"
-            },
-            {
-              "title": "苹果与英国国王信托合作推出创意实验室计划",
-              "brief": "苹果宣布与英国国王信托合作，在英国推出新的 Creative Labs 计划。该项目面向年轻人，提供使用苹果设备与课程的创意学习机会，涵盖音乐、摄影、设计等方向，旨在帮助参与者发展技能与就业能力。报道指出，这是苹果在当地社区教育领域的进一步投入，也延续了其与公益组织合作、扩大创意工具可及性的做法。",
-              "source_url": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-08T05:34:54+08:00"
-            },
-            {
-              "title": "macOS Sequoia 15.8.2 与 macOS Tahoe 26.7.2 首个 RC 面向开发者发布",
-              "brief": "苹果向开发者推送 macOS Sequoia 15.8.2 和 macOS Tahoe 26.7.2 的首个候选版本（RC）。RC 通常意味着正式版临近，若未发现重大问题，相同版本将随后向公众发布。报道提示开发者可前往系统设置或开发者网站获取更新，并建议在安装前备份数据。文章后续若有变化会以更新形式补充说明。",
-              "source_url": "https://9to5mac.com/2026/10/07/first-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-now-available-to-developers/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-08T05:01:54+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌云发布Gemini代理，定位“通用工作代理”",
+              "brief": "谷歌云宣布推出Gemini代理，作为面向工作的通用代理，可在Gemini企业应用、Workspace及第三方服务中运行。用户可只给目标而非具体指令，它能回答问题、处理知识工作、生成媒体并编写运行代码。例如经理邮件索要项目更新幻灯片时，Workspace Intelligence会将其识别为可委派任务，一键交给Gemini；用户也能让它安排与区域活动负责团队的会议，无需提供姓名或邮箱，Gemini会从聊天空间成员和上次活动线程中确定人员、检查日历并发起邮件协调时间。它还能充当团队成员，代表团队或特定职能角色工作，底层按任务选择最合适的模型，包括Gemini和Claude系列，未来支持更多私有和开源模型，并通过子代理处理多步骤任务、连接第三方工具。",
+              "source_url": "https://9to5google.com/2026/10/08/gemini-agent-google-cloud/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-08T20:00:00+08:00"
+            },
             {
               "title": "Prime Day安卓应用优惠与免费福利：Ash of Gods、Foretales、Dungreed、ScourgeBringer等",
               "brief": "本文汇总了Prime Day期间Google Play的多款安卓应用优惠与限免。重点包括《Ash of Gods: Redemption》降至4美元，《Backflip Madness》及其续作各0.5美元，《Dungreed》2.5美元，《Foretales》3.5美元，《ScourgeBringer》5美元。此外，《Mini Restaurant Premium》《Merge City Premium》《Merge Cafe Premium》《Neo Monsters》《Stickman Master Premium》等可免费获取。还有多款高级RPG如《Alvastia Chronicles》《Knights of Grayfang》《RPG Alphadia III》《RPG Ghost Sync》及图标包打折。文章同时提及三星Galaxy Tab S12+/Ultra、Tab S11、Z Fold 8等设备促销。",
@@ -115,19 +122,26 @@
               "source_url": "https://9to5google.com/2026/10/07/google-home-fixes-color-smart-light-bug/",
               "source_name": "9to5Google",
               "published_at": "2026-10-08T00:16:47+08:00"
-            },
-            {
-              "title": "Prime Day 2 优惠：Galaxy Tab S12 最高省 650 美元",
-              "brief": "亚马逊 2026 秋季 Prime Day 进入最后 24 小时，三星 Galaxy Tab S12 Ultra 和 S12+ 已开售，使用优惠码 PYPL100 可减 100 美元，叠加以旧换新最高省 550 美元，合计最高省 650 美元。Galaxy Tab S11 系列最高降价 355 美元，起售价低至 230 美元。同期 Galaxy Z Fold 8 和 Ultra 降至亚马逊历史最低，最高省 400 美元；Pixel 11 系列手机最高省 300 美元，Pixel Watch 5 全系创新低，Pixel Buds Pro 2 也有折扣。此外还有 Nothing 手机、Anker 充电器等大量优惠。",
-              "source_url": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-07T23:47:03+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "英伟达押注物理AI，瞄准更安全的自动驾驶出租车与人形机器人",
+              "brief": "英伟达正大力投资机器人、自动驾驶等物理AI技术。其Halos系统于2025年推出，提供硬件与软件工具，帮助开发者在自动驾驶汽车等自主车辆中设置安全护栏。2026年6月，公司又推出面向机器人技术的Nvidia Halos，旨在支持仓库自主移动机器人、工厂内人形机器人乃至手术机器人的安全部署。英伟达机器人生态与边缘计算负责人阿米特·戈埃尔表示，随着AI模型和机器人硬件能力提升，安全将成为下一个瓶颈。英伟达CEO黄仁勋称，物理AI业务年营收已接近100亿美元。",
+              "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-08T19:15:33+08:00"
+            },
+            {
+              "title": "曾试图禁止预测市场赌博的参议员，如今成了Kalshi的说客",
+              "brief": "2010年7月，美国参议员布兰奇·林肯在推动《多德-弗兰克法案》时警告，预测市场可能通过“事件合约”让人对体育赛事下注，从而规避赌博法。她认为这类合约没有真正商业用途，仅用于赌博。如今，林肯却成为预测市场平台Kalshi的说客，敦促美国商品期货交易委员会允许在市场上进行体育赌博。她创立的公司自2024年以来已从Kalshi获得48万美元，用于游说国会和CFTC放宽对事件合约的监管。而2010年正是林肯参与制定了允许美国禁止预测市场体育赌博的法律。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-08T19:00:14+08:00"
+            },
             {
               "title": "微软发布会推出AI友好新硬件与Windows更新",
               "brief": "微软时隔两年举办线下发布会，推出新款Surface Laptop Ultra，起售价2599美元，为首款搭载英伟达RTX Spark系统级芯片的设备，配备5120核或6144核Blackwell GPU及最高128GB LPDDR5x统一内存，10月16日发货。同时发布售价5999美元的Surface RTX Spark Dev Box，面向前沿开发者。微软还介绍了Windows 11的多项改动，并描绘本地AI与智能体工作流如何重塑个人计算体验。",
@@ -148,26 +162,19 @@
               "source_url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-08T04:01:14+08:00"
-            },
-            {
-              "title": "TP-Link在美麻烦升级：FCC路由器禁令与四州诉讼",
-              "brief": "佛罗里达等四个州对TP-Link提起诉讼，指控其就与中国的关系以及路由器被中国国家黑客利用的风险误导消费者，违反各州消费者保护法。佛州总检察长表示正寻求禁令、消费者赔偿和罚款。诉讼提起约六个月前，美国联邦通信委员会宣布全面禁止在美国境外全部或部分生产的消费级路由器，Netgear、华硕、亚马逊Eero、星链等多家厂商已获豁免，但特朗普政府尚未批准TP-Link的豁免申请。目前TP-Link无法在美销售最新Wi-Fi 8路由器，禁令前获批的型号仍可销售。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-08T03:53:42+08:00"
-            },
-            {
-              "title": "化学诺奖授予让生命获得“手性”的反应研究",
-              "brief": "2026年诺贝尔化学奖授予Henri Kagan与Kenso Soai，表彰他们发现化学反应可被偏置，从而大量生成分子两种镜像形式中的一种。分子“手性”指化学组成相同但互为镜像的结构，普通反应通常产生左右手各半的混合物，而生命只利用其中一种，且多数关键酶遇到错误手性便无法工作。这给生命起源研究带来难题：若早期世界左右手性各半，单一手性生命如何出现。获奖者的反应为解释这种偏向提供了化学基础。",
-              "source_url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-08T02:48:18+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌地图推出自有版米其林指南，你才是主角",
+              "brief": "谷歌地图正在推出类似米其林指南的餐饮推荐功能，但核心亮点在于以用户为中心。该功能可能基于用户的位置、评价和偏好，生成个性化的餐厅榜单或美食推荐，让每位用户都能成为榜单的主角。目前相关页面因安全服务限制无法访问，具体功能细节尚未完全披露。此举被视为谷歌地图在本地生活服务领域的一次新尝试，旨在增强用户互动与内容生态。",
+              "source_url": "https://www.androidauthority.com/google-maps-dining-list-2026-3720627/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-08T20:00:42+08:00"
+            },
             {
               "title": "最便宜的 Googlebook 出现启动循环问题",
               "brief": "有用户反馈，最便宜的 Googlebook 设备出现启动循环故障，无法正常进入系统。该问题表现为设备在开机过程中反复重启，影响日常使用。目前尚不清楚受影响的具体机型和范围，也不确定是硬件还是软件原因导致。报道页面因安全防护限制未能显示完整内容，仅能从标题得知这一情况。建议已购用户关注官方后续说明与修复方案。",
@@ -195,19 +202,26 @@
               "source_url": "https://www.androidauthority.com/kindle-scribe-3rd-gen-colorsoft-voice-typing-3720636/",
               "source_name": "Android Authority",
               "published_at": "2026-10-08T17:58:01+08:00"
-            },
-            {
-              "title": "Android 照片选择器新功能对开发者是好事，对图库应用可能不利",
-              "brief": "文章基于 APK 拆解发现，Android 照片选择器可能加入新的媒体编辑相关功能。报道认为，这些变化对应用开发者而言可能是好消息，但对第三方图库应用则可能构成冲击。原因在于照片选择器若能直接完成编辑等操作，用户对独立图库应用的依赖可能降低。报道页面因安全防护限制未能显示完整内容，因此无法确认功能的具体形态。整体来看，文章讨论的是 Android 系统组件扩展对应用生态可能带来的影响。",
-              "source_url": "https://www.androidauthority.com/android-photo-picker-media-editor-features-apk-teardown-3720638/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-08T17:55:11+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Xbox 成立全新影视部门 XP",
+              "brief": "Xbox 宣布成立名为“XP”的新部门，专门负责电子游戏之外的 Xbox 体验，涵盖影视改编、消费产品、线下活动以及与创作者和品牌的合作。这些业务原本分散在 Xbox 不同团队中，如今将统一归入 XP 部门集中管理。据 Xbox 首席战略官马修·鲍尔发布的博客文章，XP 正式确立四大“投资领域”：Xbox 影业负责通过电影、电视及其他线性叙事形式把游戏世界和角色带给新受众；Xbox 产品负责打造忠于粉丝群体的产品，让粉丝能够庆祝和表达自己热爱的系列；Xbox 场所则致力于把社区聚集起来。",
+              "source_url": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+              "source_name": "The Verge",
+              "published_at": "2026-10-08T08:01:12-04:00"
+            },
+            {
+              "title": "《库比蒂诺》：一部关于科技的好剧",
+              "brief": "CBS 新剧《库比蒂诺》把科技界的反弹情绪带入传统电视程序剧，起初这种组合略显尴尬，但最终收获了不错的效果。该剧开篇稍显不确定，却很快找到处理当下怪象的方式，虚构化地影射了 Zizians、Polymarket、杰夫·贝索斯的容貌焦虑、OpenAI 盗用斯嘉丽·约翰逊声音以及围绕 AI 护栏的争论等熟悉事件，借此表达人们在快速变化面前的无力感，这种情绪远不止局限于旧金山湾区。事实证明，看似过时的广播电视工具，恰恰是探讨不确定未来的绝佳方式。",
+              "source_url": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+              "source_name": "The Verge",
+              "published_at": "2026-10-08T07:30:00-04:00"
+            },
             {
               "title": "宝马iX4 SUV续航428英里，抵御中国电动车攻势",
               "brief": "宝马推出全新iX4，一款轿跑造型SUV，是iX3的运动化版本，搭载第六代电池，续航达428英里，为同级领先。该车基于宝马新一代Neue Klasse平台，是继iX3和i3之后的第三款车型。iX4 50 xDrive将于2027年3月率先上市，高性能M60 xDrive版本年内晚些时候推出。在中国电动车大举抢占市场之际，宝马将该系列定位为抵御中国进口车浪潮的防线。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
               "source_name": "The Verge",
               "published_at": "2026-10-07T16:44:34-04:00"
-            },
-            {
-              "title": "十月Prime Day值得入手的50美元以下好物",
-              "brief": "亚马逊十月大促期间有不少50美元以下的实用小工具，从咖啡机到门铃摄像头都有折扣。这些优惠将持续到2026年10月8日凌晨3点（美国东部时间），留给消费者的时间不多。文章提到，参与Prime Day不必花光钱包，此前已发现一些25美元以下的好物，而50美元以下的优惠同样丰富，许多产品具有很高的实用价值。Anker的45瓦充电器在促销期间不到50美元，甚至可以买两个。作者建议读者前往主汇总页面查看全部优惠。",
-              "source_url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
-              "source_name": "The Verge",
-              "published_at": "2026-10-07T16:30:00-04:00"
-            },
-            {
-              "title": "Roku OLED电视Prime Day降价最高400美元",
-              "brief": "Roku首款OLED电视在十月Prime Day最后一天回归促销。55英寸Pro系列OLED在亚马逊售价699.99美元，相当于原价七折；65英寸型号售价799.99美元，比原价便宜400美元。两款均支持原生120Hz刷新率，适合游戏，配备四个HDMI 2.1接口，可在全刷新率下进行4K游戏，并支持杜比视界和HDR10 Plus。此外还附赠带背光的Roku遥控器。此前类似折扣曾短暂结束，如今在促销最后一天重新上线。",
-              "source_url": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-10-07T15:27:39-04:00"
             }
           ]
         }
@@ -253,6 +253,13 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "谷歌多个国家顶级域名遭劫持",
+              "brief": "谷歌安全博客警告称，黑客劫持了其多个国家顶级域名，修改权威DNS记录并获取未经授权的HTTPS证书，受影响域名包括.gh（加纳）、.sl（塞拉利昂）和.as（美属萨摩亚）。谷歌表示攻击未危及其自身系统，Chrome浏览器已迅速屏蔽相关证书。鉴于攻击性质，谷歌不认为签发证书的CA机构存在违规行为，并建议使用这些域名的机构检查Certificate Transparency日志条目，确认是否存在意料之外的证书。",
+              "source_url": "https://www.solidot.org/story?sid=85549",
+              "source_name": "Solidot",
+              "published_at": "2026-10-08T18:31:14+08:00"
+            },
             {
               "title": "美国拟大幅提高留学生工作许可费用以限制其就业",
               "brief": "美国国土安全部发布拟议规则，以保护美国公民就业岗位为由限制留学生毕业后在美就业。留学生学生签证可申请的实习工作许可F1-OPT，原本费用仅几百美元、一般可工作一年，STEM专业可延长两年，现在许可费被提高到7万美元，延期则收取3万美元，这意味着留学生毕业后几乎不再可能获得工作许可。该规则的公众意见截止日期为11月9日。",
@@ -280,13 +287,6 @@
               "source_url": "https://www.solidot.org/story?sid=85545",
               "source_name": "Solidot",
               "published_at": "2026-10-08T15:35:13+08:00"
-            },
-            {
-              "title": "OpenAI针对欧洲用户在ChatGPT和Codex嵌入水印",
-              "brief": "OpenAI正在ChatGPT和Codex中嵌入机器可读的水印技术textGrain，该水印最初将主要针对欧盟地区用户。OpenAI称其水印技术不逊色甚至优于Google DeepMind的SynthID等其它方案，竞争对手Anthropic已在8月宣布基于SynthID的水印技术，此举是为了遵守欧盟新法律AI Act。OpenAI还表示，嵌入水印的文本生成性能与未嵌入水印时相当。",
-              "source_url": "https://www.solidot.org/story?sid=85544",
-              "source_name": "Solidot",
-              "published_at": "2026-10-08T14:54:49+08:00"
             }
           ]
         },
@@ -367,39 +367,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "破解版PS5联网遭永久封禁 PSN账号一并受累",
-              "brief": "有破解小组版主发帖称，一名成员的破解版PS5连接PSN后，主机出现错误代码WS-116332-6，提示服务访问被永久或暂时中止，PSN账号也受到影响。该用户表示三个月前才购买这台主机，并询问是否有解决办法。此事对固件版本13.60或更低的PS5用户构成警告：将改装主机接入PSN存在重大风险，可能失去在线功能访问权限，甚至导致主机被永久停用。近期针对PS5固件13.60的破解已可用，采用relapse漏洞，加载仅需几秒，且同时适用于基础版和PS5 Pro。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1581228.htm",
+              "title": "触控版MacBook Pro或减重升级 机身厚度变化可能有限",
+              "brief": "有消息称，即将发布的触控版MacBook Pro可能不会比现款明显更薄，与此前市场预期存在落差。不过减重计划仍在推进，苹果已重新设计部分内部组件、缩小零部件体积并调整布局，以降低整机重量。现款16英寸机型约重2.13公斤，15英寸MacBook Air约1.5公斤。新机最大变化预计来自显示技术，将首次采用OLED屏幕并支持触控。业内普遍预计苹果将在10月底至11月发布，以纪念MacBook Pro问世二十周年。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581244.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-08T18:50:26+08:00"
+              "published_at": "2026-10-08T20:30:39+08:00"
             },
             {
-              "title": "成龙新片在哈萨克斯坦拍摄 副总统当面致谢",
-              "brief": "据报道，成龙参与的《飞鹰计划：终极》传奇系列正在哈萨克斯坦拍摄，成龙再次饰演亚洲飞鹰，在新一部中主角将去寻找一件古代文物。会谈结束时，哈萨克斯坦副总统卡林感谢成龙一直以来对哈国展现出的友好情谊，并祝愿项目全体参与者在今后创作中取得更多成果。哈方认为该项目有助于推动该国电影产业发展和专业化水平提升，同时有利于将哈萨克斯坦打造成为具有吸引力的国际影视制作目的地。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1581226.htm",
+              "title": "微软Xbox成立XP部门 统筹影视周边与线下体验",
+              "brief": "微软Xbox宣布成立新部门XP，统筹影视、授权周边、线下体验与品牌合作，围绕Xbox Pictures、Xbox Products、Xbox Places和Xbox Partnerships四个方向开展业务。该部门由前Mojang负责人Kayleen Walters出任总裁，Mojang CEO将由Maria Angelidou-Smith接任。Xbox目前已有《我的世界》电影续集、《辐射》真人剧第三季、《使命召唤》电影和《暗黑破坏神》动画等项目。微软曾于2012年设立Xbox Entertainment Studios，但两年后关闭。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1581242.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-08T18:50:13+08:00"
+              "published_at": "2026-10-08T20:30:16+08:00"
             },
             {
-              "title": "天问三号将于2028年前后实施火星取样返回",
-              "brief": "来自不同国家和地区的5个合作项目入选天问三号任务，包括火星PEX光谱仪、火星分子离子成分分析仪、激光外差光谱仪、火星地物高光谱成像仪和激光角反射器阵列。中国正在建设行星保护实验室，承担样品灭菌、解封、处理和生物风险评估等任务，为火星样品研究提供支撑。专家孙泽洲介绍，火星是太阳系中与地球最为相似的天体，约35亿年前地球、火星和金星环境条件存在相似之处，此后三颗行星走上不同演化道路，研究火星为何演化成如今寒冷干燥状态，可为理解地球长期环境变化提供参考。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1581224.htm",
+              "title": "诺丁汉大学研发固态旋转音箱 不用电机实现声音空间移动",
+              "brief": "诺丁汉大学研究人员开发出一种固态旋转扬声器，由固定安装的扬声器阵列组成，通过控制各扬声器的输出时序与相位，让声波在空间中产生类似声源旋转的效果，无需任何机械运动部件。该技术灵感来自20世纪30年代的Leslie旋转扬声器，但不同于传统数字效果器，它直接利用声波传播与干涉来改变听感。研究团队认为，这一方案可作为介于机械声学与数字信号处理之间的新路线，未来或应用于音乐制作、现场演出和沉浸式音频等场景。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1581240.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-08T18:48:41+08:00"
+              "published_at": "2026-10-08T20:29:49+08:00"
             },
             {
-              "title": "Manus融资5亿美元 北京大举招人 一天收上千份简历",
-              "brief": "Manus宣布恢复独立运营后完成超5亿美元融资，为其成立以来规模最大的外部融资，博裕投资、IDG资本等新股东加入，腾讯、红杉中国、真格基金等老股东继续加持。截至2026年6月底，Manus年化经常性收入已达4亿至5亿美元区间，较2025年12月约1亿美元增长4到5倍。同日公司公布17个在招岗位，涵盖产品、研发、运营和增长，工作地点均在北京，创始人肖弘称一天内收到上千封简历。公司正筹备面向国内市场的产品，并探讨重组架构为赴港上市铺路。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581222.htm",
+              "title": "三星第四季度智能手机产量或大幅下调 最高削减30%",
+              "brief": "有消息称，三星计划大幅下调第四季度智能手机产量，最高削减幅度可能达30%，涉及多个产品类别，目的是避免库存积压进一步扩大。面对全球主要市场需求放缓和消费电子行业不确定性，三星希望借此维持健康的库存水平与盈利能力。分析人士指出，作为全球最大智能手机制造商之一，三星的生产计划变化常被视为行业景气度的重要风向标，若减产落实，可能对显示面板、存储芯片、摄像头模组等供应商产生连锁影响。三星尚未正式回应。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581238.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-08T18:48:18+08:00"
+              "published_at": "2026-10-08T20:29:24+08:00"
             },
             {
-              "title": "Xeal拟融资20亿美元 把闲置充电站电力供给AI算力",
-              "brief": "Xeal首席执行官尼希尔·巴拉德瓦吉表示，尽管与电力公司签订的合同允许充电桩全天候给电动车充电，但旗下充电站平均使用率不足10%，闲置电力足够持续为约13万户家庭或11万片英伟达AI芯片供电。公司计划今年12月在芝加哥、休斯顿、达拉斯停车场的充电桩旁投放英伟达AI服务器机架，每个集装箱搭载约48块AI芯片，已拿到100个算力集装箱订单。未来18个月公司目标融资约20亿美元，用于生产投放1000个集装箱，合计可提供约5万张GPU、总供电容量60兆瓦。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581220.htm",
+              "title": "英国破获疑似伊朗无人机袭击图谋 西方基地安保问题凸显",
+              "brief": "英国破获一起疑似伊朗策划的无人机袭击图谋，5名嫌疑人在费尔福德空军基地附近树林被捕，现场查获三辆厢式货车和燃料桶，迫使美军将B-1轰炸机后撤。事件凸显西方军事基地面对无人机威胁的防御漏洞。英国法律仅允许警察和狱警在公共空域干扰或击落无人机，军方难以在基地外拦截。2025年英国军事设施周边发生超过250起无人机事件，为2024年的两倍。美国空军表示将投资新型反无人机系统并培训操作人员。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581236.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-08T18:47:40+08:00"
+              "published_at": "2026-10-08T20:25:29+08:00"
             }
           ]
         },
@@ -407,45 +407,59 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "微软公布 XGP 十月入库阵容，《战地 6》领衔",
-              "brief": "微软公布 Xbox Game Pass 十月入库阵容。10 月 8 日《Forever Ago》与《霓虹深渊 2》率先上线；10 月 13 日《战地风云 6》《深馅地牢》《不朽遗志》加入；10 月 15 日《布鲁伊的欢乐快照》《链兽角斗》上线；10 月 16 日《繁星之海》入库。上述游戏覆盖云游戏、主机、掌机与 PC 平台，分别面向 Game Pass Ultimate、Premium 及 PC Game Pass 等订阅档位，其中《光与影：33 号远征队》将于 10 月 15 日离库。",
-              "source_url": "https://www.ithome.com/1/010/661.htm",
+              "title": "Counterpoint：2026年第二季度晶圆代工2.0营收达966亿美元，同比增长25%",
+              "brief": "Counterpoint数据显示，2026年第二季度晶圆代工2.0营收达966亿美元，同比增长25%。其中纯晶圆代工营收同比增长29%至549亿美元，非存储IDM增长19%，OSAT增长22%至126亿美元，光罩及其他增长6%。台积电贡献402亿美元，占整体42%，同比增长34%，预计全年增幅约43%。中芯国际增长36%，英特尔晶圆代工增长31%。机构预计未来五年超1.3亿颗GPU和AI ASIC将搭载先进封装计算侧内存出货，台积电CoWoS供需缺口今年约20%，2027年收窄至10%。",
+              "source_url": "https://www.ithome.com/1/010/697.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T18:38:54+08:00"
+              "published_at": "2026-10-08T20:46:05+08:00"
             },
             {
-              "title": "华为鸿蒙 HarmonyOS 7 更多机型 Beta 转公测",
-              "brief": "华为鸿蒙 HarmonyOS 7 系统迎来更多机型由 Beta 版转为公测版，覆盖 Mate 60 系列、Mate X5 系列、Mate XT 非凡大师、Pura 70 系列、Pocket 2 系列、nova 14 系列以及 MatePad Pro、MatePad Air、WATCH GT 6 系列等多款设备。华为此前宣布鸿蒙 HarmonyOS 6 与 HarmonyOS 7 终端数突破 9000 万，并预计今年第四季度突破 1 亿。9 月 7 日起，HarmonyOS 7 已面向首批多款机型陆续开放升级。",
-              "source_url": "https://www.ithome.com/1/010/660.htm",
+              "title": "华为鸿蒙PC版DevEco Studio、Code、CLI三件套开启公测",
+              "brief": "华为鸿蒙PC版开发工具DevEco Studio、DevEco Code与DevEco CLI同步开启首次公测。支持MateBook Pro、MateBook Fold非凡大师、MateBook 14鸿蒙版等机型，需HarmonyOS 7.0.0.107及以上、16GB内存、100GB硬盘。DevEco Studio基于BitFun底座，集成代码编辑、智能补全与全链路调试，无需模拟器即可在鸿蒙PC上调试应用，支持多设备并行调试。DevEco Code内置GLM5.3、GLM5.1模型，提供Plan、Build、Goal三种模式。DevEco CLI可通过init命令部署Skill，提供开发工具集、官方知识库及70多个专业Skill。",
+              "source_url": "https://www.ithome.com/1/010/696.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T18:25:07+08:00"
+              "published_at": "2026-10-08T20:44:53+08:00"
             },
             {
-              "title": "日本零售商公布 9 月上旬显卡销量榜，RTX 3050 登顶",
-              "brief": "日本零售商 Sofmap 公布 9 月上旬显卡销量榜。技嘉 RTX 3050 WINDFORCE OC V2 6G 位列第一，该卡采用双风扇设计，长度仅 191mm，适合紧凑型机箱。第二名是微星 GeForce GT 1030 2GD4 LP OC，这款 2018 年 4 月推出的半高显卡配备 2GB DDR4 显存，主要用于小型 PC。第三名为技嘉 RX 9070 XT GAMING OC，具备 16GB GDDR6 显存。第四、五名分别是技嘉 RTX 5070 Ti AERO OC 16G 与华硕 Prime GeForce RTX 5060 Ti OC。",
-              "source_url": "https://www.ithome.com/1/010/659.htm",
+              "title": "宝马全新MINI COUNTRYMAN特别版全球首秀，计划2027年引入中国",
+              "brief": "宝马全新MINI COUNTRYMAN特别版完成全球首秀，计划于2027年引入中国市场。新车采用纵向黑色饰条配碳钢灰色边框的前格栅，发动机舱盖隆起部位覆盖哑光黑色纹理防护膜，轮眉加入短线状压纹，配备19英寸UNTAMED EDITION SPOKE轻合金轮毂，C柱带有蓝色山峦图形与UNTAMED字样的专属标识。座舱以蓝色为主色调，龙葵蓝运动座椅采用打孔Vescin材质，肩部及头枕区域使用针织面料。ABS、DSC及转向系统均进行针对性标定，智能ALL4全轮驱动系统可在多种路面条件下提供更强牵引力。",
+              "source_url": "https://www.ithome.com/1/010/695.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T18:20:53+08:00"
+              "published_at": "2026-10-08T20:44:08+08:00"
             },
             {
-              "title": "赛力斯发布 9 月产销快报，新能源汽车销量 29271 辆",
-              "brief": "赛力斯发布 9 月产销快报，新能源汽车销量为 29271 辆。其中赛力斯汽车当月销量 25370 辆，同比下降 38.50%，本年累计销量 227272 辆，累计同比下降 17.72%。2026 年上半年，赛力斯营业收入 574.93 亿元，同比变动 -7.87%。报告期内利润总额 -23.53 亿元，归属于上市公司股东的净利润 -17.17 亿元，扣非后归母净利润 -23.79 亿元。公司称业绩下滑主要受产品销售结构变化、电池芯片等核心零部件价格阶段性上涨及资产减值计提综合影响。",
-              "source_url": "https://www.ithome.com/1/010/658.htm",
+              "title": "尊界V800刹车踏板支架断裂引关注，鸿蒙智行门店称华为将联合江淮重新测评",
+              "brief": "尊界V800被曝在懂车帝测试中刹车踏板支架断裂，引发关注。鸿蒙智行门店回应称已向相关部门反馈，公司生产经营正常，车辆出厂前均有品控流程。鸿蒙智行表示尚未接到涉刹车踏板的相关反馈，车辆交付周期正常。江淮汽车回应称已关注此事，目前正在调查和多方测试，有结果后将发布官方说明，当日股价触及跌停。尊界V800是鸿蒙智行与江淮汽车联合打造的百万级超豪华MPV，2026年8月5日上市，推出尊享版、行政版和领航版，售价76.6万元、86.6万元和101.6万元起。",
+              "source_url": "https://www.ithome.com/1/010/694.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T18:13:34+08:00"
+              "published_at": "2026-10-08T20:31:47+08:00"
             },
             {
-              "title": "上汽集团公布 9 月产销快报，上汽大众销量同比下降 35.8%",
-              "brief": "上汽集团公布 9 月产销快报。上汽集团乘用车 9 月产量 105170 辆，同比增长 16.52%，销量 107303 辆，同比增长 14.51%。上汽大众 9 月产量 67469 辆，同比下降 29.54%，销量 60402 辆，同比下降 35.80%。上汽通用 9 月销量 40009 辆，同比下降 19.14%。上汽通用五菱 9 月销量 143386 辆，同比下降 9.43%。上汽大通 9 月销量 31699 辆，同比增长 52.28%。智己汽车 9 月销量 8000 辆，同比下降 27.85%。",
-              "source_url": "https://www.ithome.com/1/010/657.htm",
+              "title": "微软XBOX设立全新XP部门，聚焦游戏本体之外的娱乐体验",
+              "brief": "微软XBOX宣布设立全新XP部门，聚焦电子游戏本体之外的娱乐体验。该部门下设四大板块：XBOX FILMS & SERIES通过电影、电视及其它线性叙事形式，将XBOX游戏世界和角色带给新观众；XBOX PRODUCTS打造符合粉丝口味的产品；XBOX PLACES通过现场活动、沉浸式体验、景点、直播和目的地聚集社区；XBOX PARTNERSHIPS与创作者、品牌和社区合作开发新体验、赞助和品牌合作。XBOX XP首任总裁为前Mojang领导人Kayleen Walters，Maria Angelidou-Smith将加入Xbox担任Mojang和Minecraft首席执行官。",
+              "source_url": "https://www.ithome.com/1/010/693.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-08T18:05:38+08:00"
+              "published_at": "2026-10-08T20:31:29+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "CBS新闻惊叹《GTA6》还原度，报道指出与迈阿密高度相似",
+              "brief": "CBS迈阿密报道称，《GTA6》对迈阿密的还原令人惊叹，玩家已在罪恶都市中发现100多处与真实迈阿密对应的地点，从南滩、迈阿密港到温伍德和大沼泽地。报道还邀请专家分析Rockstar开放世界的准确性，例如卡塞亚中心对应迈阿密热火队主场，热火队将在11月比赛穿罪恶都市主题球衣庆祝游戏发售。海洋大道上的真实酒店在游戏中以化名出现，其中迪克森酒店是对建筑师L·默里·迪克森1937年所建维克多酒店的致敬。报道称赞游戏将老迈阿密的装饰艺术建筑与现代建筑巧妙融合。",
+              "source_url": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
+              "source_name": "IGN",
+              "published_at": "2026-10-08T19:00:15+08:00"
+            },
+            {
+              "title": "《Wardogs》主播因利用建造机制漏洞牟利被封禁",
+              "brief": "《Wardogs》主播KatieRouu因利用游戏建造机制漏洞被封禁。游戏围绕战争经济展开，玩家通过侦察、运输、建造前沿作战基地等赚取雇佣兵资金，赛季末可兑换成金币购买外观。KatieRouu与队友在基地周围放置数十座狙击瞭望塔，故意让敌方占领，再在另一座补给弹药的前沿基地用迫击炮轰击被占基地，借此获得摧毁敌方建筑和助攻的双重收益，却不真正为团队战争出力。开发商Bulkhead首席执行官乔·布拉默回应称，她一直是个普通且支持游戏的玩家，但确实在利用明显非游戏设计意图的漏洞。",
+              "source_url": "https://www.ign.com/articles/wardogs-streamer-banned-for-exploits",
+              "source_name": "IGN",
+              "published_at": "2026-10-08T17:29:19+08:00"
+            },
             {
               "title": "汤姆·克鲁斯新片《Digger》据报或将亏损2.5亿美元",
               "brief": "据报，由两届奥斯卡最佳导演亚历杭德罗·冈萨雷斯·伊纳里图执导、汤姆·克鲁斯主演的《Digger》在令人担忧的首周末票房后，天空之舞预计其全球总票房不会超过4000万美元，其中北美仅800万美元，海外1200万美元。华纳兄弟尚未对此说法置评。该片口碑分化，评论认为其虽有顶级制作水准，但远非必看之作。华纳兄弟正被派拉蒙以1100亿美元收购，此后将与后者同属天空之舞旗下。",
@@ -466,20 +480,6 @@
               "source_url": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update",
               "source_name": "IGN",
               "published_at": "2026-10-08T12:17:47+08:00"
-            },
-            {
-              "title": "《Mixtape》荣获2026年澳大利亚游戏开发者大奖年度游戏",
-              "brief": "在2026年澳大利亚游戏开发者大奖（AGDA）上，《Mixtape》斩获年度游戏，同时获得视觉艺术和音效设计卓越奖。开发商Beethoven & Dinosaur总监Johnny Galvatron表示，团队从想围绕Devo做游戏到创作出引发广泛共鸣的作品，令人难以置信。评委称赞该作是虚拟叙事的胜利，将独特视觉与真挚音乐结合，带来近年最难忘的体验之一。IGN评测称其为“从头到尾的音乐享受”，并认为它树立了游戏成长故事的新标准。原声带收录Devo、碎南瓜、Silverchair、Iggy Pop等艺人作品。其他奖项包括Tempo Lab Games的《Bits & Bops》获玩法与无障碍卓越奖，Abandoned Sheep的《Schrodinger's Cat Burglar》获叙事卓越奖，年度工作室为堪培拉的Uppercut Games。",
-              "source_url": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
-              "source_name": "IGN",
-              "published_at": "2026-10-08T10:36:46+08:00"
-            },
-            {
-              "title": "Bit Reactor CEO欢迎部分停职员工回归，继续支持《星球大战：零连》",
-              "brief": "Bit Reactor CEO格雷格·福尔奇10月7日公开表示，部分此前被无薪停职的员工已回归，以继续支持《星球大战：零连》。他称停职是无奈之举，目的是最终让尽可能多的人回来，并称让这些员工回归是工作室持续支持该作的重要一步，团队期待很快分享更多更新。消息人士称，目前带薪员工数量已超过停职前的一半，但仍有相当一部分停职员工未获薪酬。该作于2026年8月发售并获好评，IGN给出9分，但发售前约80%员工被停职。",
-              "source_url": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
-              "source_name": "IGN",
-              "published_at": "2026-10-08T06:52:00+08:00"
             }
           ]
         }
