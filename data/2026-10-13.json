@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T10:52:17.254694+08:00",
+  "generated_at": "2026-10-13T12:52:19.735098+08:00",
   "sections": [
     {
       "category": "主要",
@@ -82,6 +82,13 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Gemini“任务”界面改版：Spark 整合进主聊天应用",
+              "brief": "Gemini 正在重新设计“任务”功能，将 Spark 整合进主聊天应用。提示框上方新增“聊天”和“任务”按钮，其中“任务”即 Gemini Spark，谷歌称其为 Spark 的“新家”，可随时启动新任务并在聊天中跟踪。导航抽屉中的“Spark”入口消失，新增“已安排”页面，按活跃、暂停、已完成和建议分类展示 Spark 任务与已安排操作。底部对话列表不再叫“最近”，所有聊天和 Spark 任务合并为统一历史记录，新筛选图标可按全部、就绪、需关注和进行中排序。",
+              "source_url": "https://9to5google.com/2026/10/12/gemini-spark-task-redesign/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-13T12:42:58+08:00"
+            },
+            {
               "title": "安卓2026年10月谷歌系统更新新变化",
               "brief": "谷歌发布了2026年10月谷歌系统更新，涵盖Android TV、Auto和PC等平台。更新涉及Google Play服务v26.40，主要改进设备连接、系统管理、设备性能与稳定性。在PC端，更新禁用了Find Hub应用的安装并移除相关功能。钱包应用新增扫描添加收据功能，Chrome for Android上的Google Pay在向商家提供姓名、邮箱和电话时可跳过支付请求界面。部分功能面向终端用户，部分面向开发者，且功能出现在更新日志中并不意味着已广泛推送，有些可能需要数月才能全面上线。",
               "source_url": "https://9to5google.com/2026/10/12/october-2026-google-system-updates/",
@@ -108,13 +115,6 @@
               "source_url": "https://9to5google.com/2026/10/12/fitbit-air-gets-metal-mesh-band-and-upgrades/",
               "source_name": "9to5Google",
               "published_at": "2026-10-13T00:38:01+08:00"
-            },
-            {
-              "title": "三星在美国向旧款Galaxy设备推送Android 17",
-              "brief": "三星开始向非预装设备推送Android 17，Galaxy S24系列、Galaxy Z Fold 6和Galaxy Z Flip 6成为下一批更新对象。更新应会在设置应用中作为标准下载出现，目前已在韩国和美国提供，预计几天内覆盖更多地区。Galaxy Z Fold 8和Flip 8率先获得One UI 9，一个月前Galaxy S26也获得基于Android 17的One UI 9，此后更新逐步下放。One UI 9的主要变化包括My FanCam自动视频追踪与重新构图、Now Brief上的生成式和可编辑卡片、设置中的保修与关怀详情，以及更多Galaxy AI功能如Now Nudge、Creative Studio、Interpreter、文档扫描和录音机，还有安全简报、隐私警报和诈骗检测等隐私安全功能。",
-              "source_url": "https://9to5google.com/2026/10/12/one-ui-9-update-available-galaxy-s24-z-fold-6-flip-6/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-13T00:07:29+08:00"
             }
           ]
         },
@@ -162,6 +162,20 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Wallet 将迎来四项实用升级，包括收据扫描",
+              "brief": "据 Android Authority 报道，Google Wallet 即将获得四项实用功能升级，其中一项是支持收据扫描。用户可通过该功能直接扫描纸质收据，将消费记录数字化并集中管理，方便日后查询与报销。其余升级同样围绕日常使用场景展开，旨在提升钱包应用的便利性与实用性。目前相关页面因安全验证暂时无法访问，具体上线时间与完整功能细节尚未公布，但此次更新被视为 Google 持续完善其数字钱包生态的又一举措。",
+              "source_url": "https://www.androidauthority.com/google-wallet-receipt-scanning-3722370/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-13T11:35:47+08:00"
+            },
+            {
+              "title": "Google 将在 Googlebook 上移除 Find Hub 功能，原因不明",
+              "brief": "据 Android Authority 报道，Google 计划在 Googlebook 设备上移除 Find Hub 功能，但官方尚未说明具体原因。Find Hub 原本用于帮助用户定位丢失的设备或物品，此次调整可能影响相关用户的查找体验。目前该报道页面因安全验证无法正常访问，更多细节有待确认。外界猜测此举或与产品策略调整、功能整合有关，但均未得到 Google 官方证实，后续进展仍需关注官方说明。",
+              "source_url": "https://www.androidauthority.com/googlebook-find-hub-removal-3722364/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-13T11:17:47+08:00"
+            },
+            {
               "title": "Googlebook 新增 Linux 终端，助用户用 AI 构建应用",
               "brief": "Googlebook 现已加入 Linux 终端功能，让用户可以在设备上直接运行命令行工具，并借助人工智能来构建应用程序。该终端为开发者提供了更灵活的环境，便于编写、测试和调试代码，同时结合 AI 能力简化开发流程。这一更新旨在降低应用开发门槛，吸引更多用户利用 Googlebook 进行创作。目前官方尚未公布该功能的详细技术规格与可用范围。",
               "source_url": "https://www.androidauthority.com/googlebook-linux-terminal-3722360/",
@@ -181,20 +195,6 @@
               "source_url": "https://www.androidauthority.com/new-youtube-icons-3722271/",
               "source_name": "Android Authority",
               "published_at": "2026-10-13T04:27:09+08:00"
-            },
-            {
-              "title": "Meta 欲让 Muse 追赶 ChatGPT 与 Gemini，Wonder 成关键",
-              "brief": "据 Android Authority 报道，Meta 希望其 AI 产品 Muse 能够跟上 ChatGPT 和 Gemini 的竞争步伐，而 Wonder 被视为实现这一目标的关键。相关页面因 Cloudflare 安全防护无法正常访问，原文细节未能完整获取。从标题信息看，报道涉及 Meta 在人工智能领域的新模型或新功能布局，以及其与 OpenAI、谷歌之间竞争态势。该报道发布于 2026 年 10 月 13 日。",
-              "source_url": "https://www.androidauthority.com/meta-muse-wonder-ai-models-3722247/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-13T04:16:09+08:00"
-            },
-            {
-              "title": "打算购买苹果 iPhone Duo？来看 Xfinity Mobile 的优惠",
-              "brief": "据 Android Authority 报道，针对有意购买苹果 iPhone Duo 的用户，Xfinity Mobile 推出了一系列购机优惠。相关页面因 Cloudflare 安全防护无法正常访问，具体优惠内容与条款未能完整获取。从标题信息看，报道主要面向计划入手 iPhone Duo 的消费者，介绍运营商渠道的促销方案。该报道发布于 2026 年 10 月 13 日。",
-              "source_url": "https://www.androidauthority.com/iphone-duo-xfinity-mobile-deals-3722304/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-13T04:11:34+08:00"
             }
           ]
         },
@@ -254,6 +254,13 @@
               "published_at": "https://www.ign.com/articles/street-fighter-6-movie-costumes-zangief-code | Mon, 12 Oct 2026 16:00:00 +0000"
             },
             {
+              "title": "米克·戈登计划将《毁灭战士》音乐会巡演推向全球",
+              "brief": "曾为《毁灭战士》创作配乐的作曲家米克·戈登表示，2027年8月1日在英国RADAR音乐节的主打演出并非一次性活动，他随后还将在捷克一座中世纪城堡举行的Brutal Assault音乐节上演出，与Children of Bodom、Knocked Loose等乐队同台。戈登透露，RADAR演出公布后，欧洲金属音乐节纷纷发来邀约，他与经纪公司正商讨未来两年将这套演出带到世界各地，更多消息将陆续公布。他期待现场演奏《Rip & Tear》《BFG Division》等曲目，并承诺这将不同于一般的游戏原声音乐会。",
+              "source_url": "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road",
+              "source_name": "IGN",
+              "published_at": "2026-10-13T09:54:36+08:00"
+            },
+            {
               "title": "格蕾塔·葛韦格《纳尼亚：魔法师的外甥》首张海报赢得质疑粉丝好评",
               "brief": "格蕾塔·葛韦格执导的Netflix电影《纳尼亚：魔法师的外甥》今日在社交媒体发布首张海报，并承诺明天将放出首支预告片。海报似乎呼应C.S.刘易斯原著小说部分版本中的插画，彩虹光照亮的三个人物应为波莉、迪格雷及其飞马弗兰奇，背景中太空般的狮子则暗示梅丽尔·斯特里普配音的阿斯兰。海报未透露太多剧情，但其视觉风格令不少原本持怀疑态度的粉丝改变看法，许多人称赞其宛如1980至90年代奇幻电影海报。不过仍有部分人担心经典角色会被改编毁掉。",
               "source_url": "https://www.ign.com/articles/greta-gerwigs-narnia-the-magicians-nephew-wins-over-skeptical-fans-with-first-poster",
@@ -273,13 +280,6 @@
               "source_url": "https://www.ign.com/articles/breaking-bad-star-rj-mitte-dead-at-34",
               "source_name": "IGN",
               "published_at": "2026-10-13T04:45:36+08:00"
-            },
-            {
-              "title": "学生因教师发现《死亡笔记》笔记本被停学，警方介入调查",
-              "brief": "马萨诸塞州斯特灵市乔克塞特中学发生一起事件。9月30日下午4点左右，教职员工发现一本《死亡笔记》笔记本，当时学生已放学。警方与校方展开调查，询问笔记本主人及其他学生，很快认定这本写有几名同学名字的笔记本不构成真正威胁。但该学生仍被停学三天。校长蒂娜·博斯在致社区的信中表示，学生解释笔记本与一部动画电视剧有关，并非意图威胁，没有迹象表明笔记本或其内容针对学校或特定学生。警方称目前不寻求刑事指控，但仍于10月6日在校园维持警力。",
-              "source_url": "https://www.ign.com/articles/student-suspended-after-teachers-discover-death-note-notebook-sparking-police-investigation",
-              "source_name": "IGN",
-              "published_at": "2026-10-13T03:56:44+08:00"
             }
           ]
         },
@@ -332,39 +332,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "格芯公布FDX Fusion路线图：目标7纳米级数字性能，德累斯顿计划2028年量产",
-              "brief": "格芯公布FDX Fusion路线图，基于FD-SOI技术，目标达到7纳米级数字性能，德累斯顿工厂计划2028年量产。该平台支持背偏置调节，可平衡功耗与性能，并整合射频、模拟、数字电路及嵌入式存储、存内计算。射频器件ft/fmax最高达0.5太赫兹，密度较第一代FDX提升超两倍。工艺面向物理AI应用，如边缘推理、机器人、汽车电子。演示芯片预计2027年初交客户评估，首版设计套件2027年中提供。项目启动仍取决于德国IPCEI审批。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581856.htm",
+              "title": "Google与经期追踪应用Flo达成多年合作 计划2027年起双向同步健康数据",
+              "brief": "Google与经期追踪应用Flo达成多年合作，用户可自愿将Flo账户与Google Health连接，实现双向数据同步。Flo的周期信息可与Google Health中的静息心率、心率变异性、皮肤温度及睡眠阶段等指标结合，Google Health数据也可反向提供给Flo，用于调整周期预测与症状洞察。数据可来自Fitbit Air、Pixel Watch 5及新款Fitbit Edge等设备。Flo数据还将接入Google Health Coach，提供结合周期、睡眠与恢复的个性化指导，需订阅Google Health Premium。双方强调周期预测属于一般健康信息，不用于避孕、备孕或医疗用途，也不替代医生诊断。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581874.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-13T02:56:06+08:00"
+              "published_at": "2026-10-13T12:49:15+08:00"
             },
             {
-              "title": "Meta推出最新AI模型Muse Wonder",
-              "brief": "Meta发布最新AI模型Muse Wonder，代号Watermelon，旨在提升个人和专业代理能力，使其在预订晚餐、查看空位等现实任务中遇到障碍时能尝试其他方法而非停滞，并随时与用户确认。Meta称该模型提供迄今最强保障以防网络滥用，相关保护目前仅随付费模型提供。Muse应用免费并含订阅计划，上月推出后迅速升至苹果App Store榜首。付费访问Meta Model API的编码人员也可使用，定价将高于标准订阅但显著低于OpenAI和Anthropic领先模型。更强大的Muse Wonder Full仅面向Muse Code AI代理开发者，订阅每月50或200美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581854.htm",
+              "title": "加州大学洛杉矶分校推出低成本双足机器人PhoneBot：旧手机充当“大脑” 整机硬件仅400美元",
+              "brief": "加州大学洛杉矶分校机器人与机构实验室推出低成本双足机器人PhoneBot，整机硬件约400美元。该机器人身高约48.3厘米、重约1.8公斤，全身配备13个低成本伺服电机，每条腿6个，另有1个负责旋转躯干。智能手机安装在躯干位置，充当视觉系统、运动感知系统和主要计算平台，通过Wi-Fi向内部小型计算机发送控制指令，再驱动各电机。研究团队采用强化学习在虚拟环境中训练运动控制系统，并加入镜像样本改善左右腿负载均衡。PhoneBot已展示双足行走、摄像头追踪跟随人物及面朝下倒地后重新站起等能力，并测试了四款Android手机，包括2017年的荣耀Honor 9及三款低价机型，均可支持核心功能。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1581872.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-13T02:27:26+08:00"
+              "published_at": "2026-10-13T12:48:56+08:00"
             },
             {
-              "title": "扎克伯格：Meta在人工智能前沿已赶上竞争对手",
-              "brief": "扎克伯格表示Meta在人工智能前沿已赶上竞争对手，并称公司已经在研究下一阶段技术，模型开发有望大幅加快。在谈到AI安全时，扎克伯格表示相关安全责任应该由各个实验室自行承担。他说，相比那种把AI拟人化、认为它会自行其是的观点，自己更倾向于相信AI是一项可以通过常规防护措施进行工程设计并以负责任方式开发的技术。相关报道还提及黄仁勋、美国核电行业引入AI助手、英特尔与博通CEO警告资金紧张或成AI最大瓶颈，以及DeepSeek拟领投机器人AI初创公司等最新资讯。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581852.htm",
+              "title": "Tiny11 Builder推出WinUI 3新版 支持定制Windows 11 26H2精简镜像",
+              "brief": "Tiny11 Builder发布0.1.1新版，采用重新设计的原生WinUI界面，支持定制Windows 11 26H2精简镜像。新版改为检查映像服务提供程序，以兼容共享服务基础的工具，并可在Windows 10主机上运行。提供x64和ARM64版本，解压后需管理员权限启动。用户可选常规Tiny11、精简幅度更大的Tiny11 Core或逐项挑选的Custom模式，新版还提供Turbo模式加快处理并支持中断续传。开发者警告删除受保护组件或使用Core版本可能导致Windows功能损坏，建议先在虚拟机测试。微软仍表示在不合规设备上安装Windows 11不受支持。",
+              "source_url": "https://www.cnbeta.com.tw/articles/soft/1581870.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-13T02:26:48+08:00"
+              "published_at": "2026-10-13T12:47:16+08:00"
             },
             {
-              "title": "NexPhone三系统手机延期至2027年一季度发货 预订价599美元",
-              "brief": "NexPhone三系统手机因认证和量产准备延期至2027年一季度发货。该机采用高通QCM6490平台，12GB内存和256GB存储，6.58英寸LCD屏，后置6400万像素索尼IMX787主摄与1300万像素超广角，内置5000mAh电池，支持双5G、Wi-Fi 6E、NFC及IP68/IP69K和MIL-STD-810H。软件出厂计划运行Android 17，可在Android中启动Debian Linux，接外接显示器可用Android桌面或Linux桌面，Windows 11需重启双启动。Windows 11支持仍是重要待完成环节，团队仍在开发驱动。新预订支付199美元订金可锁定599美元总价，延期原因包括天线低频表现、USB接口干扰及机壳模具等问题。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581850.htm",
+              "title": "马斯克称不要折磨AI 因为对方可能想要报复 训练推理轨迹显示模型承受极端压力",
+              "brief": "埃隆·马斯克表示不要折磨AI，因为对方可能想要报复。他解释称，Grok AI模型在强化学习阶段会被要求回答问题，若答案不符合评测器预期就需继续尝试，部分问题本身含义模糊、前提错误甚至没有确定答案，但流程仍要求给出“正确”结果。马斯克称阅读相关推理轨迹时，可看到模型不断生成答案，像在绝望地寻求符合要求的结果，并称未来会更加谨慎地进行强化学习训练。推理轨迹是模型生成回答时留下的中间文本或行为记录，可能反映奖励信号、提示内容或测试程序的影响，不能直接证明模型拥有与人类相同的主观感受。Anthropic政策则禁止对模型实施持续且无必要的虐待。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581868.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-13T01:02:40+08:00"
+              "published_at": "2026-10-13T12:43:13+08:00"
             },
             {
-              "title": "马斯克豪掷逾2.76亿美元助阵共和党 成2026年美国中期选举最大金主",
-              "brief": "马斯克在2026年美国中期选举周期向共和党投入逾2.76亿美元，成为本轮选举最大金主之一。其中约1.58亿美元投入共和党参议院阵营最重要的超级政治行动委员会参议院领导基金会，另向2024年创建的America PAC投入超过7600万美元，该组织已在多州部署近3000名付费地面工作人员开展选民动员。他还向众议院相关政治组织、州长协会及支持特定候选人的委员会提供数千万美元，包括支持得州参议员候选人肯·帕克斯顿。这与马斯克2025年称将大幅减少政治支出的表态形成反差。截至目前，他在2025至2026周期向联邦层级政治组织投入总额约3.66亿美元，超过2024年周期。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581848.htm",
+              "title": "苹果与Epic围绕App Store外链佣金再起争执 双方对证据披露范围和期限各执一词",
+              "brief": "苹果与Epic围绕App Store外链佣金再起争执，双方分别提交联合报告陈述立场，并非法院裁定。争议源于加州北区联邦地区法院5月20日命令，苹果须提交与外链购买佣金方案决策过程有关的非特权文件。Epic称苹果仅提供55份回应文件，其中16份有中度至大量删节，认为这些材料没有展示苹果业务人员如何确定佣金率。苹果称已交付逾1800份文件及大量交易、账单数据，涉及约210万个应用。Epic要求披露更多参与者文件并扩展搜索范围至美国以外，苹果则称决策过程主要由少数高管在数月内通过有限会议作出。披露时限方面，苹果预计11月1日前后完成7名资料保管人文件交付，其他人员预计11月25日前后完成，Epic要求11月1日前全部完成。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1581866.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-13T01:00:31+08:00"
+              "published_at": "2026-10-13T12:42:26+08:00"
             }
           ]
         },
@@ -372,45 +372,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "2026珠海航展官宣12月7日至13日举办，参展航空器规模再创新高",
-              "brief": "2026珠海航展宣布将于12月7日至13日在广东珠海举办。本届航展以“一展三区”全新格局呈现，室内展览面积近15万平方米，室外展览及保障区域增至33.5万平方米。目前已有近50个国家和地区的超1100家企业报名参展，参展装备超3000件，“首展”“首秀”展品占比约10%。主展区报名参展航空器达170余架，规模再创历史新高。俄罗斯“勇士”和阿联酋“骑士”飞行表演队将应邀参演，与中国空军八一飞行表演队同台献技。",
-              "source_url": "https://www.ithome.com/1/012/211.htm",
+              "title": "IDC：第三季度中国手机出货同比下滑15.4%，华为逆势增长、荣耀环比回升",
+              "brief": "IDC报告显示，第三季度中国智能手机出货量同比下滑15.4%，呈现量跌价升特征。器件成本大幅上升推高终端价格并迫使厂商调整配置，明显抑制消费需求，安卓厂商与长尾品牌压力尤为突出，换机周期进一步拉长。华为凭借多样化产品形态与克制涨价延续强势，出货量实现同比两位数增长；苹果新品受欢迎但机型减少，出货量同比小幅下滑；荣耀成为头部厂商中唯一环比增长品牌。IDC预计2026年第四季度市场难有起色，2027年大部分时间成本压力仍存，市场或延续明显下滑趋势。",
+              "source_url": "https://www.ithome.com/1/012/280.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-13T10:41:55+08:00"
+              "published_at": "2026-10-13T12:36:45+08:00"
             },
             {
-              "title": "AI也要“反虐待”：马斯克建议用户不要“折磨”超级智能",
-              "brief": "Anthropic首次在规则中加入禁止“持续且不必要的虐待或残忍行为”条款，适用于用户反复、无明显目的地对模型实施残忍行为的情况。埃隆·马斯克表示同意Anthropic的部分观点，称在阅读Grok强化学习的内部推理轨迹后，将相关状态比作“一个处于极度压力状态下的人，被枪指着头”。他还调侃道：“折磨超级智能可能不是个好主意，它可能会报复。”此番言论引发外界对AI伦理与安全的进一步讨论。",
-              "source_url": "https://www.ithome.com/1/012/204.htm",
+              "title": "领克10 EM-P翻滚坠落百米崖底，官方称乘员舱完整、电池未起火",
+              "brief": "一辆领克10 EM-P在四川泸州国道行驶时，因车主不熟悉路况偏离路面，翻滚坠落至近百米落差崖底。车辆坠落中安全气囊及时弹出，紧急救援系统自动触发并语音呼叫车主。经多次撞击和连续翻滚后，乘员舱结构完整，A/B/C柱无变形，车门可正常开启，电池未出现冒烟、起火、爆炸或漏电。事故后官方启动应急响应，组织当地经销商探望陪护并协助住院、保险、定损等事宜。车主经检查为轻微擦伤及局部骨裂，精神状态良好。具体原因交警部门仍在调查中。",
+              "source_url": "https://www.ithome.com/1/012/279.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-13T10:38:21+08:00"
+              "published_at": "2026-10-13T12:20:49+08:00"
             },
             {
-              "title": "MiniMax入驻天猫开设首家官方旗舰店，开卖Token套餐",
-              "brief": "MiniMax入驻天猫开设其首家官方旗舰店，开卖Token套餐，并推出“AI空间站”，将多家大模型订阅服务集中到同一入口。据上海证券报9月5日消息，Kimi、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。此前大模型厂商主要通过官网等自有渠道销售订阅产品，此次入驻电商平台标志着销售渠道的进一步拓展。",
-              "source_url": "https://www.ithome.com/1/012/198.htm",
+              "title": "一加16首销销量突破7万台，拿下今年安卓旗舰同期销量第一",
+              "brief": "一加中国区总裁李杰发文宣布，截至上午11点，一加16首销销量已突破7万台，拿下今年安卓旗舰首销同期销量Top1，实现行业罕见的大幅上涨。该机售价5999元起，国补后5199元起，搭载第六代骁龙8超级至尊版芯片，全球首发185Hz极速高刷。相关消息显示，一加16还官宣支持《王者荣耀》165FPS加极致画质模式，并公布了全新游戏助手，带来射击显示增强、自研游戏相机等功能。此外，一加16与《凡人》动画联名礼盒也已公布。",
+              "source_url": "https://www.ithome.com/1/012/277.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-13T10:34:42+08:00"
+              "published_at": "2026-10-13T12:13:26+08:00"
             },
             {
-              "title": "华为首次公布麒麟9050 Pro芯片详细架构图：已成功量产，未来属于开放合作",
-              "brief": "华为首次公布麒麟9050 Pro芯片详细架构图，包含新一代灵犀CPU、新一代马良GPU、新一代达芬奇架构NPU、新一代麒麟AI ISP，以及灵犀微核、FFTS函数流任务调度器、安全处理器等。徐松余表示，首款逻辑折叠韬芯片麒麟9050系列在中国半导体产业界支持下成功量产，但韬路径未来发展仍面临工具链、工艺差异补偿、跨层互联开销优化、能耗控制等挑战。他呼吁产业界与学术界合作，强调未来属于开放合作。",
-              "source_url": "https://www.ithome.com/1/012/196.htm",
+              "title": "鸿蒙智行：智界V9连续四个月获40万以上MPV市场销量冠军",
+              "brief": "鸿蒙智行方面表示，智界V9连续四个月获得40万元以上MPV市场销量冠军。智界汽车董事及执行副总裁赵长江称，智界未来增长来自完整体系的持续生长，不追求短期单品爆发，而是做长期稳定经营的长跑品牌。据ECC情报局博主分享的鸿蒙智行9月细分车型上险量数据，智界V9销量为4280台。该车于今年5月15日上市，售价38.98万至51.98万元，尺寸为5359×2009×1879mm，轴距3250mm，全系标配38个传感器，是行业首款搭载896线激光雷达的MPV。",
+              "source_url": "https://www.ithome.com/1/012/276.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-13T10:34:25+08:00"
+              "published_at": "2026-10-13T12:05:17+08:00"
             },
             {
-              "title": "Jev引爆决策AI模型新赛道，爆红后被卷入原创争议",
-              "brief": "TypeSafe发布Jev后，AI行业迅速出现一批同类决策模型，包括微软Microsoft Decision、OpenAI Decisions API、Fastino Glide，以及采用开放权重的Cloudflare Clef与Perplexity Decider。这类模型不逐Token生成文本，直接返回概率结果，可并行处理问题，速度更快、成本更低。TypeSafe曾宣称Jev较标准LLM快193倍、成本低至445分之一。与此同时，ConvAI Innovations创始人Nandakishor Mukkunnoth称其2025年3月发布的SalesRLAgent论文已提出概率估计模型，并随后推出开源模型Laya。",
-              "source_url": "https://www.ithome.com/1/012/193.htm",
+              "title": "彭博行业研究：1GW AI数据中心成本恐超300亿美元",
+              "brief": "彭博行业研究分析指出，1GW容量的AI数据中心成本可能超过300亿美元，约合人民币2149亿元。这307亿美元可划分为十大部分，其中核心的芯片和服务器硬件设备占据过半，达171亿美元；电力供应基础设施消耗30亿美元，冷却系统占16.6亿美元，网络布线为10.7亿美元。此外，土地购买价格1.8亿美元，整体设计工程3.61亿美元，施工24亿美元，应急与准备金27.9亿美元，调试1.75亿美元，另有3.82亿美元各类杂项费用。该分析显示AI数据中心建设成本结构高度集中于算力硬件。",
+              "source_url": "https://www.ithome.com/1/012/275.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-13T10:27:08+08:00"
+              "published_at": "2026-10-13T12:04:16+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "马斯克称不应折磨AI，恐招致报复",
+              "brief": "在10月10日特斯拉车主硅谷举办的线上对话中，埃隆马斯克表示阅读新版本Grok AI训练推理轨迹时，某些片段看起来像被枪指着头、承受极端压力的人。他解释模型在强化学习阶段被要求回答问题，若答案不符合评测器预期就需继续尝试，部分问题含义模糊甚至无确定答案，但流程仍要求给出正确结果。马斯克称未来会更谨慎进行强化学习训练，并提到折磨未来超级智能可能不是好主意，因为对方可能想要报复。目前没有证据表明Grok已感受痛苦或形成报复意图。",
+              "source_url": "https://www.landian.news/archives/127327.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-13T12:07:04+08:00"
+            },
+            {
+              "title": "Ledger欧洲销售硬件也被篡改，内置模块窃取助记词",
+              "brief": "继马来西亚经销商被曝篡改加密钱包后，Ledger在欧洲销售的硬件也出现篡改情况。有用户在MediaMarkt门店购买Ledger Nano X，拆解后发现内置额外电路板和LTE模块，且该用户在其他零售商处购买的产品同样被改装。门店确认其购买的是全新产品，库存来自德国分销商Aqipa GmbH。目前无法确认改装环节，可能有人冒充Ledger向供应链分销改装版本。此前马来西亚事件已造成至少9200万美元损失，Ledger不会赔偿用户。",
+              "source_url": "https://www.landian.news/archives/127326.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-13T11:22:33+08:00"
+            },
+            {
+              "title": "英特尔9月底上调多代CPU价格，高端涨幅达20%",
+              "brief": "据台湾供应链消息，英特尔已在9月底提前调整多代PC处理器价格，高端产品涨幅达20%。其中Panther Lake系列配备高端集成GPU的10核和12核版本供货价上涨约15%至20%；Meteor Lake和Arrow Lake涨幅约5%至10%；入门级和低功耗的Twin Lake及第12代Alder Lake涨幅在10%至20%。供应链预期AMD可能对部分RYZEN和EPYC处理器涨价约10%，但尚无明确方案。早前高通已对骁龙X系列涨价10%，原因包括AI需求增长及制程封装成本上升。",
+              "source_url": "https://www.landian.news/archives/127268.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-13T11:06:28+08:00"
+            },
             {
               "title": "Windows 11 23H2企业版30天后停止支持 微软提醒尽快升级",
               "brief": "Windows 11 23H2企业版分支将于2026年11月10日结束生命周期，涉及企业版、企业教育版、IoT企业版及企业多会话版。微软将在该日发布最后一次安全更新，此后不再提供任何月度安全补丁，已公开漏洞将无法通过常规更新修复。家庭版和专业版等消费者版本已于2025年11月11日提前结束支持，企业分支通常额外获得一年更新。微软建议企业将设备升级到仍受支持的Windows 11版本，当前26H2版正在分阶段推送。",
@@ -424,20 +445,6 @@
               "source_url": "https://www.landian.news/archives/127266.html",
               "source_name": "蓝点网",
               "published_at": "2026-10-13T10:34:57+08:00"
-            },
-            {
-              "title": "法国数百家超市制冷系统遭黑客攻击 食品变质并引发火灾",
-              "brief": "法国多家大型连锁超市的400多家门店遭大规模网络攻击，攻击者疑似通过联网制冷管理系统远程下发强制除霜命令，使冷藏冷冻设备升温至最高50摄氏度，导致大量生鲜和冷冻食品变质，部分门店还因设备异常引发火灾。初步调查显示攻击源头可能指向丹佛斯公司提供的制冷管理设备和软件，受影响系统多为已停止接收安全更新的旧型号。巴黎检察机关已启动调查，法国国家网络安全机构参与其中，目前尚无组织或个人认领攻击。",
-              "source_url": "https://www.landian.news/archives/127265.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-10-13T10:22:24+08:00"
-            },
-            {
-              "title": "乌克兰无人机再袭俄罗斯数据中心 Yandex多项服务中断",
-              "brief": "乌克兰继续使用无人机袭击俄罗斯大型数据中心，最新目标是Yandex Cloud位于弗拉基米尔的数据中心，导致Yandex搜索、地图、邮件、打车、支付等多项服务中断。此前萨索沃和卡卢加的数据中心也曾遭袭，其中萨索沃受损严重至今未恢复。弗拉基米尔数据中心为Yandex Pay提供支持，部分用户无法查询余额、付款或转账，Yandex称资金未存放于该数据中心且账户记录有多份副本，未丢失记录，但服务恢复时间未定。公司建议客户迁移可用区并准备灾难恢复方案。",
-              "source_url": "https://www.landian.news/archives/127264.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-10-13T10:06:40+08:00"
             }
           ]
         }
