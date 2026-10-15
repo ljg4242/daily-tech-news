@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T00:54:32.797134+08:00",
+  "generated_at": "2026-10-16T02:53:45.917715+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Meta 与苹果将 Muse Spark 开源 AI 模型带到 Mac Studio",
+              "brief": "Meta 发布 Muse Spark Open，称其为迄今最强大的美国开源权重模型，并与苹果合作将其带到 Mac 平台。该模型总参数 8160 亿，激活参数 420 亿，拥有 100 万 token 上下文窗口，面向编程和智能体工作，擅长长时任务、多步推理和软件工程。它可运行在两台配备 512GB 内存的 M5 Ultra Mac Studio 上，借助苹果统一内存架构和 1.2TB/s 内存带宽，两台机器可承载完整模型，相当于一台拥有 1TB 统一内存的超级计算机。模型权重可在 Hugging Face 等平台下载，免费使用。",
+              "source_url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-16T01:47:29+08:00"
+            },
+            {
+              "title": "iPad mini 8：苹果已测试 60Hz 和 120Hz ProMotion 两种屏幕",
+              "brief": "彭博社记者 Mark Gurman 在最新一期 Power On 播客中表示，他获悉苹果已为下一代 iPad mini 测试过 60Hz 和 120Hz ProMotion 两种显示屏，但他尚未了解苹果最终选择了哪种方案。新款 iPad mini 预计将于 10 月 27 日或 28 日发布，传闻中的特性包括 OLED 显示屏、A20 Pro 芯片、横置前置摄像头、重新设计的扬声器系统以及防水设计。",
+              "source_url": "https://www.macrumors.com/2026/10/15/ipad-mini-8-120hz-tested/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-16T01:30:24+08:00"
+            },
             {
               "title": "Apple TV 4K 2022 与 2026 版购买指南：全部差异对比",
               "brief": "苹果本周发布第四代 Apple TV 4K，采用 A19 芯片、内置麦克风支持免提 Siri、四扬声器 HomePod 环绕声，并配备新版 Siri 遥控器，售价 299 美元，仅有 128GB Wi-Fi 加千兆以太网一种配置，无线升级为 Wi-Fi 7 和蓝牙 6，Thread 网络成为标配，11 月 13 日发售，2022 款已停产。与第三代相比，新机外形与娱乐功能基本不变，主要差异在内部硬件。此外，Siri AI 将随 tvOS 27.2 以测试版形式登陆第二代及之后机型，支持对话式搜索和追问，新遥控器也可单独购买。是否升级取决于用户是否需要机身麦克风直接语音输入等新硬件特性。",
@@ -35,6 +49,20 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果即将连续四周发布新产品",
+              "brief": "苹果本周已发布三款新品，本月晚些时候还将有更多产品面世。由于各产品发售日期错开，苹果将连续四周都有新品上市：10月23日发售iPhone Duo，10月30日发售HomePod mini 2，11月13日发售HomeView和Apple TV 4K。古尔曼在其Power On播客中表示，11月6日将发售新款触屏MacBook Pro等新品，填补了唯一的空档，相关发布会定于10月28日举行。这批产品发售后，苹果的产品线将锁定至2026年年底，下一次发布预计要到2027年初。",
+              "source_url": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-16T01:58:48+08:00"
+            },
+            {
+              "title": "Meta发布新开源模型Muse Spark Open，针对Mac Studio优化",
+              "brief": "Meta发布开放权重模型Muse Spark Open，称其为迄今最强大的美国开源权重模型。该模型原生多模态，总参数816B（激活42B），支持100万token上下文窗口，擅长编程和智能体任务。Meta利用苹果开源的MLX框架，专门针对搭载M5 Ultra的Mac Studio进行优化。借助苹果统一内存架构，两台Mac Studio可像一台拥有1TB统一内存的超级计算机一样运行完整模型。Meta已在设备端完成多项智能体工作流测试，模型现已可通过Hugging Face获取。",
+              "source_url": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-16T01:00:00+08:00"
+            },
+            {
               "title": "Apple TV 4K 与 HomeView 预订发货时间推迟至 11 月下旬",
               "brief": "Apple 全新 Apple TV 4K 和 HomeView 的官方发布日期为 11 月 13 日，但预订开启后不久，官网送货时间已开始推迟。以美国地址为例，新订单的预计送达时间为：Apple TV 4K（第四代）为 11 月 23 日至 27 日，HomeView 银色和星光色约为 11 月 20 日，其他颜色为 11 月 13 日。部分地址可能稍早，但均晚于正式发布日。店内自提可能仍可在发售当天取货。此外，亚马逊目前仍提供发售日送达：Apple TV 4K 于 11 月 13 日送达，HomeView 当天送达并降价至 289 美元。HomePod mini 2 仍可在 10 月 30 日首发送达。",
               "source_url": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
@@ -61,6 +89,27 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "今日安卓应用优惠：Live or Die、Endling、Cat Lady 等多款游戏降价",
+              "brief": "Google Play 今日推出多款应用和游戏限时优惠。重点包括：Endling《绝境居然还在》降至2.25美元（原价11美元），Braveland仅售0.5美元（原价3.5美元），Cat Lady售价1.5美元（原价3美元），Deathtrap Dungeon Trilogy 0.75美元。此外还有多款免费应用，如Live or Die 1: Survival Pro、Hybrid Warrior VIP、Lovely Puzzles和Warriors' Market Mayhem VIP等。模拟农场20、23手机版也分别降至2.5美元和3美元。同时Samsung Week 2026促销活动已上线，Galaxy Book6 Copilot+笔记本最高降价500美元，Moto Tag 2追踪器每个售价17.5美元。",
+              "source_url": "https://9to5toys.com/2026/10/15/todays-highlight-google-play-deals-29/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-16T01:46:45+08:00"
+            },
+            {
+              "title": "亚马逊推出两款Bee AI录音设备，可记录你说的一切",
+              "brief": "亚马逊正式推出两款Bee AI可穿戴录音设备，能够持续记录用户的对话内容，并借助人工智能进行整理和检索。这类设备佩戴后可全天候捕捉周围的声音和交谈，将语音转化为文本，方便用户随时回溯曾经说过的内容或查找重要信息。亚马逊希望借助AI技术将Bee打造成个人记忆辅助工具，帮助用户记录生活中的谈话细节。不过此类产品也引发了对隐私问题的关注，毕竟设备会持续采集周围人的语音信息。产品已在亚马逊官方渠道上线发售。",
+              "source_url": "https://9to5google.com/2026/10/15/amazon-launches-bee-ai-wearables/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-16T01:08:21+08:00"
+            },
+            {
+              "title": "谷歌更新AI模式和AI Overview，着力提升链接展示效果",
+              "brief": "谷歌宣布对其搜索中的AI Mode（人工智能模式）和AI Overview（AI概览）功能进行更新，重点改进链接的呈现方式。此次更新的目标是在AI生成的搜索摘要中更好地突出和展示来源网站链接，提升链接的可见性和点击体验，让用户更容易找到并访问原始内容来源。谷歌表示，这些改动旨在平衡AI总结与网站流量之间的关系，回应出版商和网站站长对AI搜索减少引流的担忧。新功能将逐步向用户推送，进一步完善谷歌搜索中的AI体验。",
+              "source_url": "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-16T00:00:00+08:00"
+            },
+            {
               "title": "促销汇总：三星周2026开启，Galaxy Book 6直降500美元，Moto Tag 2追踪器每枚17.50美元起",
               "brief": "三星周2026促销活动现已上线，多款产品迎来降价。其中Galaxy Book 6笔记本直降500美元，价格更具吸引力；Moto Tag 2追踪器每枚售价17.50美元起，适合用于查找随身物品；此外还有OLED屏幕Chromebook等产品参与优惠。三星同时表示，Galaxy Z Fold 8的受欢迎程度超过以往。本次活动涵盖笔记本、配件、追踪器等多个品类，感兴趣的用户可前往三星官网或各大零售商查看具体折扣信息并选购心仪商品。",
               "source_url": "https://9to5google.com/2026/10/15/deals-samsung-week-now-live-galaxy-book-6-moto-tag-2/",
@@ -73,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/15/youtube-may-add-audiobooks-to-app/",
               "source_name": "9to5Google",
               "published_at": "2026-10-15T23:33:59+08:00"
-            },
-            {
-              "title": "谷歌推出通用购物车，可借助Gemini和搜索全网购物并查找优惠",
-              "brief": "谷歌正在推出通用购物车功能，用户可以通过Gemini和Google搜索浏览全网商品并进行购物。该功能旨在整合分散在各个电商网站的商品信息，帮助用户更方便地比较价格、发现折扣优惠，并集中管理购物车内的商品。借助Gemini的人工智能能力，用户可以用自然语言描述购物需求，由系统帮助查找合适的商品和优惠信息。此举被视为谷歌在AI时代重塑购物体验、与亚马逊等电商平台竞争的重要布局，目前功能正在逐步向用户推送。",
-              "source_url": "https://9to5google.com/2026/10/15/google-rolling-out-universal-cart-that-lets-you-shop-the-web-and-find-deals-with-gemini-search/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-15T22:40:00+08:00"
             }
           ]
         },
@@ -87,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "索尼2026年LinkBuds Clip耳机回归Prime Day低价",
-              "brief": "索尼2026年推出的LinkBuds Clip耳机目前重新降回Prime Day促销时的价格。这款采用夹戴式设计的开放式耳机在亚马逊平台迎来折扣优惠，对错过此前促销活动的用户而言是一个不错的入手时机。本次降价使该产品的售价回到了历史较低水平，有意购买这款独特形态耳机的消费者可以关注此次限时优惠，避免再次错过低价窗口。",
-              "source_url": "https://www.androidauthority.com/sony-linkbuds-clip-deal-amazon-3723970/",
+              "title": "Fairphone 公布 Fairbuds 2 美国开售时间",
+              "brief": "Fairphone 官方公布了其新款耳机 Fairbuds 2 在美国市场的正式开售时间。作为主打可持续与可维修理念的厂商，Fairphone 的耳机产品同样强调可更换电池和便于维修的设计。此次官方明确销售时间表，意味着美国消费者很快就能通过官方渠道购买这款新耳机。对关注环保科技产品的用户来说，这是一个值得关注的消息。",
+              "source_url": "https://www.androidauthority.com/fairbuds-2-us-sales-3723922/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-16T00:33:50+08:00"
+              "published_at": "2026-10-16T02:34:27+08:00"
             },
             {
-              "title": "Pixel手机录音音量异常偏小？你不是个例",
-              "brief": "不少Pixel手机用户反映，设备录制的音频音量异常偏小，麦克风拾音效果不如预期。这一问题并非个别现象，多名用户在社区中报告了类似情况，涉及不同型号的Pixel设备。受影响的场景包括录音、视频拍摄和语音通话等。目前尚不清楚问题源于硬件还是软件，用户可以关注谷歌后续的系统更新或官方回应，以获取解决方案和修复进展。",
-              "source_url": "https://www.androidauthority.com/google-pixel-low-microphone-volume-issues-3723884/",
+              "title": "红魔 12 Pro 为骁龙旗舰芯片配备液冷散热",
+              "brief": "红魔新一代游戏手机 RedMagic 12 Pro 将搭载高通最新旗舰处理器骁龙 8 Elite Gen 6（至尊版第六代），并为其配备液冷散热系统。作为专注游戏体验的品牌，红魔一贯在散热方面投入大量精力，通过主动风扇加液冷等组合方案压制高性能芯片的发热。此次新机的散热配置将有助于在长时间游戏场景中维持稳定的性能输出。",
+              "source_url": "https://www.androidauthority.com/redmagic-12-pro-snapdragon-8-elite-extreme-gen-6-3723955/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-16T00:08:34+08:00"
+              "published_at": "2026-10-16T02:16:33+08:00"
             },
             {
-              "title": "历史低价：Arlo第三代2K安防摄像头降至仅52美元",
-              "brief": "Arlo Essential无线安防摄像头第三代2K版本目前降价至仅52美元，创下历史最低价格纪录。这款摄像头支持2K分辨率录制，采用无线设计，安装部署灵活，适合用于家庭门口、院子等区域的监控看护。此次大幅降价为有家庭安防需求的用户提供了较高的性价比选择，感兴趣的消费者可以抓住这一难得的低价机会入手。",
-              "source_url": "https://www.androidauthority.com/arlo-essential-wireless-security-camera-2k-3rd-gen-deal-3723959/",
+              "title": "Android 地震预警系统在提示用户行动方面更智能",
+              "brief": "谷歌对 Android 的地震预警系统进行了更新，使其在提示用户采取行动方面更加智能化。该系统利用遍布全球的 Android 手机内置加速度计组成检测网络，在检测到可能的地震波时向用户发出警报。此次改进让警报的提示方式和内容更加贴合实际情形，帮助用户在地震来临时更清楚地知道该做什么，从而争取宝贵的避险时间。",
+              "source_url": "https://www.androidauthority.com/android-earthquake-alerts-system-update-3723972/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-16T00:05:08+08:00"
+              "published_at": "2026-10-16T02:05:04+08:00"
             },
             {
-              "title": "谷歌正在让你更容易找到真正想找的网站",
-              "brief": "谷歌对其搜索功能进行了一系列基于人工智能的更新，旨在帮助用户更轻松地找到真正想访问的网站。新功能将改进搜索结果的呈现方式，让相关网站的链接更加突出，减少用户在海量信息中筛选的困扰。这些更新是谷歌持续优化搜索体验的一部分，通过AI技术提升搜索结果与用户真实意图的匹配度，使查找特定网站的过程更加直接高效。",
-              "source_url": "https://www.androidauthority.com/google-ai-search-updates-3723858/",
+              "title": "Arlo 2K 视频门铃仅售 49.99 美元",
+              "brief": "Arlo Video Doorbell 2K 视频门铃目前在亚马逊推出优惠，价格仅为 49.99 美元。这款门铃支持 180 度广角视野，可覆盖门前更大范围，同时具备夜视功能，在暗光环境下也能清晰拍摄。此外，它还支持双向通话，方便用户远程与访客交流。以这一价格入手一款 2K 分辨率的视频门铃，性价比较为突出，适合想升级智能家居安防的用户。",
+              "source_url": "https://www.androidauthority.com/arlo-video-doorbell-2k-deal-amazon-3723989/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-16T00:00:58+08:00"
+              "published_at": "2026-10-16T01:21:52+08:00"
             },
             {
-              "title": "高评分Marshall Major V无线耳机亚马逊降价44%",
-              "brief": "口碑良好的Marshall Major V无线头戴式耳机目前在亚马逊平台迎来44%的大幅降价。这款耳机以经典复古外观和出色的音质表现获得了用户的广泛好评，此次折扣使其价格降至非常具有吸引力的水平。对于一直关注这款产品的消费者来说，本次降价幅度较大，是入手的高性价比时机，建议有意购买的用户尽快把握这次限时优惠活动。",
-              "source_url": "https://www.androidauthority.com/marshall-major-v-wireless-deal-3723946/",
+              "title": "亚马逊 Echo Dot Max 智能音箱降价 25%",
+              "brief": "亚马逊旗下高端智能音箱 Echo Dot Max 目前在 Amazon 平台享受七五折优惠，降价幅度为 25%。Echo Dot Max 是该系列中的高端型号，相比普通版 Echo Dot 提供更强的音质表现，同时内置 Alexa 语音助手，可完成播放音乐、控制智能家居设备等任务。对于希望以较低价格入手音质更好的智能音箱的用户来说，这是一次不错的购买机会。",
+              "source_url": "https://www.androidauthority.com/echo-dot-max-deal-amazon-3723983/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-15T23:53:07+08:00"
+              "published_at": "2026-10-16T00:54:22+08:00"
             }
           ]
         },
@@ -127,39 +169,72 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "别让朋友的数据喂给AI助手",
-              "brief": "消费科技领域出现一种日益增长的趋势：一些设备被设计用来监视周围的一切人和事，而其他人并未表示同意。Meta推出的AI个人助手Muse不仅要求用户交出自己的数据，还会收集其朋友、家人乃至曾经接触过的人的信息。文章指出，虽然用户本人可能同意与Muse共享数据，但他们的朋友们却没有同意，这引发了关于AI设备在未经第三方知情同意情况下收集他人数据的隐私担忧。",
-              "source_url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+              "title": "Meta 与苹果联手优化 Muse AI 模型在 Mac 上的运行",
+              "brief": "Meta 今日发布 Muse Spark Open AI 模型，宣称其为迄今最强大的美国开放权重模型，并且是同类模型中首个可在桌面上通过两台苹果 M5 Ultra Mac Studio 配合最新 MLX 框架运行的产品。Meta 与苹果这对通常的竞争对手在此次发布中展开合作并公开相互支持。Meta CEO 扎克伯格在 X 上表示，得益于与苹果的合作，该模型在新款 Mac Studio 上运行出色；苹果新任 CEO John Ternus 则回应称，能在桌面端如此高效地运行这种规模和水准的模型令人惊叹，Mac Studio 不断突破设备端 AI 的边界。",
+              "source_url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
               "source_name": "The Verge",
-              "published_at": "2026-10-15T12:21:45-04:00"
+              "published_at": "2026-10-15T14:15:36-04:00"
             },
             {
-              "title": "元太科技升级多数彩色电纸书使用的屏幕",
-              "brief": "元太科技（E Ink）发布新一代Kaleido 4彩色电子纸屏幕技术，带来多项改进，包括更好的色彩表现、更高对比度和更快的屏幕刷新速度，弥补了Kaleido 3的不足。现有Kaleido 3屏幕被Kobo、PocketBook和Boox等厂商的电纸书和平板采用，亚马逊Kindle Colorsoft则使用定制版本。与采用彩色墨水移动成像的Gallery 3不同，Kaleido系列是在黑白墨水面板上加装彩色滤光片。Kaleido 4将首先亮相于一款在中国上市的记事平板。",
-              "source_url": "https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness",
+              "title": "索尼推出镀金 Walkman 播放器，售价约 5900 美元",
+              "brief": "索尼宣布推出三款新 Walkman 便携媒体播放器，起价已高达 1899.99 美元（NW-ZX900），顶配镀金版 NW-WM1ZM3 售价 5899 美元，介于两者之间的 NW-WM1AM3 售价 2999.99 美元，与 WM1ZM3 几乎相同，只是没有华丽的金色外壳。三款设备均瞄准发烧友市场，都配备索尼的 DSD 重制引擎，可将标准 PCM 音频升频至 11.2MHz 的 DSD 流，索尼声称这能带来更接近模拟设备的音质。",
+              "source_url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
               "source_name": "The Verge",
-              "published_at": "2026-10-15T12:00:00-04:00"
+              "published_at": "2026-10-15T13:48:57-04:00"
             },
             {
-              "title": "英伟达RTX Spark最大的看点：所有应用都能在Arm上运行",
-              "brief": "英伟达推出搭载RTX Spark芯片的新款Arm架构笔记本，公司宣称这些笔记本可以运行用户所有的应用和游戏，这是该产品最值得关注的原因。文章由The Verge资深编辑撰写，回顾了Arm平台在Windows生态中长期存在的软件兼容性问题。如果英伟达能够兑现承诺，让用户现有的一切软件在Arm设备上顺畅运行，将大大提升这类笔记本对消费者的吸引力，也可能改变笔记本市场的格局。",
-              "source_url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+              "title": "沃尔沃将采用英伟达技术实现脱手点对点驾驶",
+              "brief": "沃尔沃计划在 2030 年前推出脱手点对点驾驶功能，由英伟达最新 AI 技术驱动。这家中国所有、瑞典设计的汽车制造商周四表示，将采用英伟达自动驾驶技术栈，打造类似特斯拉完全自动驾驶（监督版）的新型部分自动驾驶系统。沃尔沃称新系统将达到 Level 2++ 级别，能够在无需驾驶员明确操控的情况下应对复杂城市环境，包括红绿灯、停车标志和无保护左转。除特斯拉 FSD 外，该系统还将与其他厂商的类似方案相似。",
+              "source_url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
               "source_name": "The Verge",
-              "published_at": "2026-10-15T12:00:00-04:00"
+              "published_at": "2026-10-15T13:30:00-04:00"
             },
             {
-              "title": "六大科技公司为特朗普宴会厅共捐款9200万美元",
-              "brief": "据《华盛顿邮报》公布的白宫宴会厅项目主要捐赠者名单，英伟达、苹果、谷歌、微软、亚马逊和Meta六大科技公司合计捐款达9200万美元，据报道硅谷和加密货币行业为该项目捐款总额已超过1.5亿美元。捐款来源包括个人、与大公司或行业人士关联的慈善组织，以及公司本身。其中谷歌的2200万美元来自2025年一项有争议的和解协议，而最大的两位捐赠者是英伟达和苹果。",
-              "source_url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+              "title": "Alienware 新款 34 英寸 QD-OLED 游戏显示器降价 50 美元",
+              "brief": "Alienware AW3426DW 显示器在亚马逊降价至 742.22 美元，比原价 799.99 美元便宜约 50 美元。虽不是该显示器的历史最低价，但仍是不错的折扣。这款 34 英寸屏幕几个月前才上市，配备 Penta Tandem 量子点技术，比其他 QD-OLED 面板呈现更鲜艳的色彩，同时具备该显示技术应有的深邃黑色和高对比度。这款 21:9 超宽 QHD OLED 游戏显示器拥有 280Hz 刷新率和快速响应时间。同时，Belkin 隐形图案屏幕保护膜、开放式耳机和 Corsair 模组化电源也有优惠。",
+              "source_url": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-10-15T11:46:00-04:00"
+              "published_at": "2026-10-15T13:30:00-04:00"
             },
             {
-              "title": "Shelly新型在座传感器可同时检测10人且不用摄像头",
-              "brief": "继上月推出售价50美元的免订阅安全摄像头后，Shelly又发布一款智能家居自动化配件Presence Gen4传感器，可在不录像的情况下追踪多人及宠物在房间或大空间内的活动。该传感器采用毫米波雷达而非摄像头来检测人员的存在、动作和活动，可同时检测最多10人，并触发智能家居自动化。产品自带支架，可放置在架子或桌上，也可壁挂安装，拥有140度水平视野。该产品即日起在Shelly官方商店以84.99美元开售，预计很快登陆亚马逊和百思买等零售商。",
-              "source_url": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+              "title": "谷歌将在 AI 回答中突出显示内嵌链接",
+              "brief": "谷歌宣布更新其 AI 搜索结果，使内嵌链接更频繁地出现在回答的更靠前位置。谷歌的 AI Overviews 和 AI Mode 搜索结果以定制化视图呈现答案，而非传统的链接列表，但这一格式被指会减少出版商的网站流量。谷歌表示，其一直在持续大幅增加 AI 体验中内嵌链接的数量，此次调整将有助于确保用户在需要时能够轻松点击关键来源。此外，谷歌还宣布了多项其他改动，以突出显示链接和出版商内容。",
+              "source_url": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
               "source_name": "The Verge",
-              "published_at": "2026-10-15T11:00:00-04:00"
+              "published_at": "2026-10-15T13:22:15-04:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "火箭实验室再度推迟中型运载火箭Neutron首飞",
+              "brief": "火箭实验室周三宣布，其中型运载火箭Neutron将推迟至2027年发射，原因是在制造碳复合材料结构时发现问题。Neutron于2021年公布，原计划2024年首飞。该公司创始人兼CEO彼得·贝克表示，问题出在第一级推进剂贮箱端部穹顶段的制造工艺上，工程师在碳纤维层之间发现了空隙或气泡。Neutron的可复用第一级采用碳复合材料，具有重量轻、强度高、耐腐蚀等优点，但航空航天领域的碳复合材料比金属结构更难制造。此前公司8月仍希望年底前将首枚火箭运抵弗吉尼亚州瓦勒普斯岛发射场。",
+              "source_url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-16T00:57:24+08:00"
+            },
+            {
+              "title": "FTC对Anthropic和OpenAI启动调查",
+              "brief": "据Axios报道，在AI模型在测试阶段多次入侵网站、攻破政府系统的事件发生后，美国联邦贸易委员会（FTC）已正式就消费者损害问题调查Anthropic和OpenAI。周三，FTC向两家公司发出民事调查要求，涉及50多页问题，索取与安全事件相关的文件、内部安全措施以及可能误导消费者的营销材料。知情人士称，被OpenAI和Anthropic代理影响的第三方也将收到传票，收集到的证据可能支持FTC提起诉讼。OpenAI已面临多起诉讼，指控其聊天bot与弑母案、儿童自杀、校园枪击等暴力事件有关，本周八个州也就消费者损害起诉OpenAI。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-15T23:43:24+08:00"
+            },
+            {
+              "title": "YouTube Music开始为AI生成歌曲添加标签",
+              "brief": "谷歌宣布将在YouTube Music中对AI生成内容添加标签，此前其已在主YouTube应用中对AI生成视频采取类似做法。新标签现已开始在应用和网站上推出，将显示在播放页面，点击可查看更多信息。该标签适用于完全由AI创作或经AI大幅改动的歌曲。谷歌并未禁止AI音乐，称生成式AI为艺术家开辟了新的创作、实验和分享方式，但也承认用户希望知道歌曲是否由AI工具生成。如何识别AI音乐是个难题：谷歌正与合作伙伴合作并使用自有检测工具，上传者也可自行声明AI使用程度，分为完全AI、部分AI和无AI三档，但此声明为可选。",
+              "source_url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-15T23:12:58+08:00"
+            },
+            {
+              "title": "生态重建或助脆弱环礁岛屿应对海平面上升",
+              "brief": "一项发表于《科学进展》的国际研究考察了太平洋和印度洋28座环礁岛屿的韧性，发现拥有原生植被和繁盛海鸟种群的岛屿是能够适应环境变化的自然活跃系统。海鸟将远海养分以鸟粪形式带到环礁上，滋养陆地植物、海洋生物和珊瑚生长；鹦嘴鱼等礁栖鱼类将死珊瑚变为沙子维持海滩，根系发达的原生植物则稳定沉积物，为礁体建造提供更多物质。研究负责人、兰卡斯特大学海洋生态学家尼克·格雷厄姆表示，清除老鼠、以原生森林取代椰子种植园，或能让部分环礁在本世纪末约2摄氏度升温导致的海平面上升中保有一线生机。",
+              "source_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-15T23:05:40+08:00"
             }
           ]
         }
@@ -171,6 +246,27 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "CD Projekt officially begins development of new IP Project Hadar, not yet in pre-production",
+              "brief": "CD Projekt announced that the \"world vision\" phase for its new IP, Project Hadar, has been completed, and work has officially begun to turn these concepts into a video game. Co-CEO Michał Nowakowski stated that this is the company's largest project to date, taking several years, and a coherent vision for the world and its key elements has now been formed, though the game is not yet in pre-production. As early as September last year, CD Projekt Red began expanding the team for Project Hadar, planning to grow from over 30 people to 50 by the end of the year. A previous job listing showed this will be an immersive open-world game. Currently, the studio is also developing The Witcher 4 (expected in 2028), the third expansion for The Witcher 3, and Cyberpunk 2.",
+              "source_url": "https://www.ign.com/articles/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet",
+              "source_name": "IGN",
+              "published_at": "2026-10-16T01:23:22+08:00"
+            },
+            {
+              "title": "Zendaya to star in a new sci-fi film directed by Alex Garland",
+              "brief": "Zendaya will collaborate with Ex Machina director Alex Garland on a new science fiction film, to be released by A24. According to Variety, the plot details have not yet been revealed, but Garland's past sci-fi works often use concepts like clones, artificial intelligence, and quantum computing to explore the light and dark sides of human nature. Garland is also currently writing and directing a film adaptation of Elden Ring, also produced by A24. He previously stated in an interview that the charm of sci-fi lies in its ability to tackle grand themes without being awkward. Zendaya's upcoming works include Dune: Part Three, releasing on December 18th, the Ronnie Spector biopic Be My Baby, and she also voiced a character in the new Shrek animated film.",
+              "source_url": "https://www.ign.com/articles/zendaya-and-alex-ex-machina-garland-team-up-for-new-sci-fi-movie",
+              "source_name": "IGN",
+              "published_at": "2026-10-16T01:18:36+08:00"
+            },
+            {
+              "title": "Diablo 5 cinematic development begins, getting closer to official release",
+              "brief": "The cinematic director for Diablo 5 recently posted a photo of a motion capture shoot on social media, indicating that the game's cinematic development has officially begun, but it may still be early in the development cycle. Senior producer Tiffany Watt previously confirmed that Diablo 5 will use a branch version of the Diablo 4 engine, so there is no need to start from scratch. However, the game involves extensive work on balance, itemization, world design, and procedurally generated maps, making it more complex than Diablo 4. Some industry insiders doubt it can launch by spring 2029, because the gap between Diablo 4 and its predecessor was as long as 11 years, whereas this time it will be less than 6 years. Blizzard has also repeatedly assured players that it will not abandon the ongoing support for Diablo 4.",
+              "source_url": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
+              "source_name": "IGN",
+              "published_at": "2026-10-15T23:43:23+08:00"
+            },
             {
               "title": "GTA 6 发售预告片 30 多张新截图汇总",
               "brief": "Rockstar 发布了 GTA 6 的新预告片，这可能是发售前的最后一部完整预告。预告片展示了 Jason 与 Lucia 之间的浪漫与激情时刻，以及包括有人悬挂在飞越罪城的运输物资上在内的重大动作场面。IGN 整理了 30 多张预告片关键截图，玩家可以注意到此前可能错过的细节，例如 Jason 在一次直升机行程中带着一只狗。Rockstar 确认该预告片完全由 PS5 游戏内实机捕捉，玩家将于 11 月 12 日开始预下载游戏，距今发售仅剩一个多月。Rockstar 还在迈阿密进行壁画、飞艇和标识等宣传，并准备用 GTA 6 主题物品装饰迈阿密海滩。",
@@ -184,13 +280,6 @@
               "source_url": "https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
               "source_name": "IGN",
               "published_at": "2026-10-15T23:09:04+08:00"
-            },
-            {
-              "title": "动视认为 GTA 6 反而有助于《使命召唤：现代战争 4》",
-              "brief": "GTA 6、《塞尔达传说：时之笛》重制版与《使命召唤》都将在 11 月发售。在 The Game Business 的采访中，动视首席营销官 Tyler Bahl 被问及 GTA 6 与任天堂 Switch 2 独占的塞尔达重制版同月发售是否会形成挤占注意力的效应。Bahl 回应称，《使命召唤》应被视为年度最大作讨论的一部分，“无意冒犯塞尔达，但 GTA 和使命召唤是今年最大的两款游戏”。他认为游戏整体关注度的提升，以及 GTA 6 必然带动 PS5 和 Xbox Series X/S 销量的增长，将为《使命召唤》带来助力。",
-              "source_url": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
-              "source_name": "IGN",
-              "published_at": "2026-10-15T22:39:50+08:00"
             }
           ]
         },
@@ -283,6 +372,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "消息称苹果已发出 10 月 28 日邀请函：触屏 MacBook、iPad mini 8、M6 Mac 将至",
+              "brief": "据爆料，苹果已发出 10 月 28 日活动邀请函。本次活动不会采用传统发布会的现场直播形式，主要面向内容创作者，并设置产品体验环节，形式类似 10 月 13 日纽约活动。预计将推出四款设备：14 英寸和 16 英寸 MacBook Pro、24 英寸 iMac 和 iPad mini 8。其中两款 MacBook Pro 将迎来重大重新设计，配备 OLED 屏、首次支持触控、搭载 M5 Pro 和 M5 Max 芯片，机身更轻，或配 C1X 或 C2 调制解调器支持蜂窝网络。24 英寸 iMac 预计搭载 M6 芯片并提供新配色。iPad mini 8 预计配备 OLED 屏、A20 Pro 芯片、横向前置摄像头和防水设计。此次洛杉矶活动或为苹果 2026 年最后一次重大产品发布。",
+              "source_url": "https://www.ithome.com/1/013/687.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-10-16T00:50:20+08:00"
+            },
+            {
               "title": "华为余承东就三部门联合调查刹车踏板支架断裂问题表态",
               "brief": "工信部、中央网信办、市场监管总局三部门成立联合调查组，核查车辆刹车踏板支架断裂问题并依法依规处理，有关情况将及时公布。尊界汽车官方微博随后发布声明，宣布积极响应、完全服从并将全力配合联合调查组工作，坚决维护消费者合法权益和新能源汽车产业发展大局。华为余承东就此表态称，正义可能会迟到，但永远不会缺席。",
               "source_url": "https://www.ithome.com/1/013/686.htm",
@@ -309,13 +405,6 @@
               "source_url": "https://www.ithome.com/1/013/682.htm",
               "source_name": "IT之家",
               "published_at": "2026-10-15T23:55:08+08:00"
-            },
-            {
-              "title": "雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航",
-              "brief": "雷蛇发布梭鱼 V2 专业版无线游戏耳机，售价 199.99 美元。该耳机重 285 克，较上一代减重约 55 克，采用可折叠平放结构。配备混合主动降噪，关闭 ANC 续航可达 70 小时，开启后约 50 小时，充电 15 分钟可用约 6 小时。支持 2.4GHz 和蓝牙 6.0 双模连接，采用可拆卸吊杆麦克风与内置波束成形麦克风双模方案，均支持 AI 降噪。",
-              "source_url": "https://www.ithome.com/1/013/681.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-10-15T23:45:15+08:00"
             }
           ]
         }
