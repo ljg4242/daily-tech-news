@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T20:53:20.316787+08:00",
+  "generated_at": "2026-10-17T22:53:17.278513+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "本周要闻：苹果HomeView智能家居中枢、新款Apple TV与HomePod mini发布，iPhone Duo预售售罄",
+              "brief": "本周苹果动作频繁，周二以“欢迎回家”为主题发布多款家居产品。其中最受关注的是售价299美元的HomeView智能家居中枢，配备7英寸Liquid Retina显示屏，支持Siri AI，可识别多位用户并根据用户与屏幕的距离调整信息显示方式，支持照片人脸、Apple Music播放列表和FaceTime通话等，现已开启预订，11月13日正式发售。苹果还时隔四年更新Apple TV，推出第四代Apple TV 4K，搭载A19芯片并支持Siri AI，新版Siri Remote支持精确查找功能并内置扬声器便于寻找，机身自带麦克风可免遥控使用Siri，售价涨至299美元。周五iPhone Duo开启预售，因需求旺盛和供货短缺，发货时间迅速推迟数月。",
+              "source_url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-17T21:00:11+08:00"
+            },
             {
               "title": "Verizon 将对 iPhone 接力功能收取每月 10 美元费用",
               "brief": "Verizon 宣布将对苹果在 iOS 27 中加入的 iPhone 接力功能收取每月 10 美元费用。该功能允许用户在两部 iPhone 之间共享同一个电话号码，可在主打机与 companion 机之间随时切换使用，但同一时间号码只能在一部设备上激活。Verizon 表示该功能将与 iPhone Duo 和 iPhone 18 Pro 机型兼容，具体上线时间待定。相比之下，T-Mobile 已支持该功能但仅收费 5 美元，AT&T 则暂无支持计划。英国运营商 EE 将于近期支持该功能，Full Works Plus 套餐用户免费使用，其他用户每月收费 5 英镑。德国电信也已支持该功能，每月收费 6.95 欧元，部分套餐可免费使用。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
               "source_name": "MacRumors",
               "published_at": "2026-10-17T04:05:20+08:00"
-            },
-            {
-              "title": "苹果79美元 iPhone Duo 保护壳采用粘合剂固定",
-              "brief": "据上手用户介绍，苹果售价79美元的 iPhone Duo 保护壳采用粘合剂固定。该壳由两部分组成，内侧边缘沿胶条可牢固贴合在 iPhone Duo 上。附带说明指导用户撕开胶粘保护膜，将两半分别装上并按压固定。保护壳采用聚碳酸酯材质，有沙色和海军蓝两种配色，保护摄像头凸起所在的背面及外屏四周，但展开后不保护屏幕内侧和设备内面。苹果另售129美元的 iPhone Duo 支架皮套，采用磁吸固定，无需粘合剂。iPhone Duo 今日开启预购，首批库存已售罄，所有颜色和容量的发货时间预计为1月25日。",
-              "source_url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-17T03:51:58+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "提示：苹果 iPhone Duo 官方硅胶保护壳需要使用背胶才能贴合",
+              "brief": "苹果为 iPhone Duo 推出了两款官方保护壳：79 美元的硅胶壳和129 美元的带支架翻盖壳。需要注意的是，硅胶壳并非采用磁吸设计，而是需要撕开并露出背胶才能贴合到手机上，否则可能会脱落。这意味着用户日后难以频繁更换保护壳或裸机使用，且背胶一旦撕下后粘性会明显下降。相比之下，带支架的翻盖壳体验不错但价格较高。若不想购买官方产品，Spigen Ultra Hybrid Pro 和 ESR Classic Hybrid 等第三方保护壳也是不错的替代选择。",
+              "source_url": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-17T21:45:00+08:00"
+            },
+            {
+              "title": "Apple @ Work：如何为 macOS 27 移除 Rosetta 做好设备准备",
+              "brief": "在安装 macOS 27（Golden Gate）时，系统会自动移除 Rosetta 转译层。如果企业管理的设备群中仍有依赖 Intel 专用软件的情况，需在用户遇到问题前制定方案。传统应用在 macOS 27 中会弹出图形界面提示用户重新安装 Rosetta，属于可控情况。真正令人担忧的是部分菜单栏小工具，其厂商尚未推出 Apple Silicon 原生版本，测试中这些工具会静默失败且无任何错误提示。因此，在 macOS 27 推出前对设备群进行审计尤为重要，作者正通过设备管理系统自动推送 Rosetta 相关组件作为短期应对措施。",
+              "source_url": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-17T21:00:00+08:00"
+            },
             {
               "title": "苹果周末优惠汇总：HomeView、新款Apple TV 4K、AirPods及Mac等多款产品降价",
               "brief": "苹果周末优惠上线，涵盖多款热门产品。其中新款第四代Apple TV 4K迎来首发优惠，售价289美元，也可选择购买新款Siri遥控器升级现有设备。AirTag 2继续保持历史最低价。Mac方面优惠力度显著，2026款M6 Mac mini最高降价150美元，16GB/256GB版本售价780美元；多款M5 Pro MacBook Pro机型大幅降价，最高优惠600美元，14英寸M5 Pro版24GB/1TB售价2069美元。此外还有AirPods Pro 3、AirPods Max 2、HomeView、Magic Keyboard、Apple Pencil USB-C及iPhone 18 Pro系列保护壳等配件折扣。",
@@ -68,26 +82,26 @@
               "source_url": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-17T06:53:24+08:00"
-            },
-            {
-              "title": "苹果更新App Store审核规则，打击AI换脸裸图和“挂羊头卖狗肉”应用",
-              "brief": "过去一年，多份报告曝光了绕过苹果App Store审核、向用户甚至未成年人展示有害内容的应用。今年1月，科技透明项目发现数十款AI“脱衣”应用；4月指出App Store搜索建议和广告也在引导用户至此类应用；7月，旧金山官员要求苹果下架八款可生成非自愿亲密图像的应用，9to5Mac的调查还揭露数十款伪装成游戏和工具的赌博应用。为此，苹果更新了审核指南第1.2条，针对用户生成内容中涉及的知识产权侵权、非自愿亲密图像和匿名霸凌问题，新增规定：开发者若未实施适当防护措施，或在收到通知后未整改违规行为，将被视为违反开发者协议。",
-              "source_url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-17T06:17:07+08:00"
-            },
-            {
-              "title": "9to5Mac每日播报：iPhone Duo开启预售等",
-              "brief": "本期9to5Mac每日播报讨论的主要新闻包括：苹果将于10月28日的发布会上推出触屏MacBook Pro等多款新品，并开启连续四周的新品发布；iPhone Duo现已开启预售，起售价1999美元；Meta发布新的Muse Spark开放模型，专为在Mac Studio上运行而优化。节目由Backblaze赞助，用户可通过Apple Podcasts、Overcast、Spotify等平台收听和订阅。订阅9to5Mac Daily Plus可解锁无广告版本和额外内容。听众可通过happyhour@9to5mac.com联系节目组，也可在播客平台评分推荐，帮助更多人发现该节目。",
-              "source_url": "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-17T05:56:25+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "沃尔玛60美元Google TV播放器或成流媒体领域仅存的超值之选",
+              "brief": "沃尔玛旗下onn推出的4K Pro Google TV播放器售价仅60美元，在流媒体设备价格普遍上涨的背景下显得尤为突出。该设备搭载Google TV系统，支持4K画质播放，性能与功能表现不错，被认为可能是目前市场上剩余的少数真正划算的流媒体播放器选择。对于希望以低成本获得Google TV体验的用户而言，这款产品提供了难得的高性价比选项。",
+              "source_url": "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-17T22:05:00+08:00"
+            },
+            {
+              "title": "高通否认骁龙8 Elite Extreme Gen 6过热传闻",
+              "brief": "针对外界流传的骁龙8 Elite Extreme Gen 6处理器存在过热问题的说法，高通正式作出回应，称相关传闻并不准确。高通表示该芯片不存在过热问题，试图澄清此前在网络上引发的讨论与担忧。此次回应旨在消除消费者和厂商对新一代旗舰移动平台散热表现的疑虑，维护骁龙品牌在旗舰智能手机芯片市场的声誉，相关信息受到即将搭载该芯片的各品牌手机用户广泛关注。",
+              "source_url": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-17T19:05:00+08:00"
+            },
             {
               "title": "惠普 Chromebook 14 评测：出色的笔记本，可惜败在系统上",
               "brief": "9to5Google 对惠普新款 Chromebook 14 进行了评测。评测认为这款笔记本在硬件方面表现出色，包括扎实的做工、舒适的键盘、良好的屏幕素质以及令人满意的续航表现，性价比颇具竞争力。然而评测同时指出，搭载的 ChromeOS 系统成为其明显短板，在软件生态和应用兼容性上存在限制，与 Windows 或 macOS 笔记本相比仍有差距，这让整体体验打了折扣。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
               "source_name": "9to5Google",
               "published_at": "2026-10-17T04:25:06+08:00"
-            },
-            {
-              "title": "谷歌推出通用购物车功能，覆盖搜索首页与 Chrome 等多处入口",
-              "brief": "谷歌正在推广其通用购物车功能，让购物车图标出现在更多位置，包括搜索首页和 Chrome 浏览器等界面。用户在不同场景下浏览商品时，都可以通过统一的购物车入口保存和管理待购商品，无需在不同服务之间切换。该功能旨在整合谷歌旗下购物相关体验，方便用户跨平台继续之前的购物流程，提高浏览和下单的连贯性，目前已逐步向更多用户开放。",
-              "source_url": "https://9to5google.com/2026/10/16/google-universal-cart-shopping-icon/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-17T03:47:01+08:00"
-            },
-            {
-              "title": "周五 Android 应用优惠汇总：Majesty、Boxville 2、Dungeon Defense、Mythic Trials 2 等",
-              "brief": "本周五 Google Play 商店推出多款应用和游戏的限时优惠活动，包括策略游戏 Majesty、解谜游戏 Boxville 2、塔防游戏 Dungeon Defense 以及 Mythic Trials 2 等作品，部分应用可免费领取，部分则以折扣价销售。这些优惠通常为限时提供，价格和折扣幅度可能随时变动，感兴趣的用户可前往 Google Play 商店查看具体详情并尽快领取或购买。",
-              "source_url": "https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-17T02:57:23+08:00"
             }
           ]
         },
@@ -209,6 +209,27 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "SpaceX豪赌取代AT&T、T-Mobile和Verizon",
+              "brief": "SpaceX上周同意购买大量低频段频谱，以扩展星链网络，该频谱已在电信行业流转数十年。公司计划借此打造“全球最先进的移动网络”，成为主要无线运营商。此前美国联邦通信委员会已批准部署15000颗下一代星链卫星，加上既有协议，SpaceX有望在蜂窝通信领域挑战AT&T、T-Mobile和Verizon三大传统运营商。本期播客邀请LightShed Partners分析师Walter Piecyk解读这一雄心勃勃且耗资巨大的计划。",
+              "source_url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+              "source_name": "The Verge",
+              "published_at": "2026-10-17T10:00:00-04:00"
+            },
+            {
+              "title": "越来越多的网站对AI智能体关起大门",
+              "brief": "OpenAI、Meta、谷歌等公司力推自主智能体，宣称可代用户订餐、清理邮箱、网购等。但近期用户发现，Meta的Muse、xAI的Grok、OpenAI的Dots和Instinct等服务的智能体在多家热门网站被拦截。Yelp表示仅允许付费接入其数据许可计划的AI智能体，达美航空阻止智能体代用户订票，摩根大通和嘉信理财也确认屏蔽AI智能体。主流网络服务与AI公司之间的冲突正在加剧。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+              "source_name": "The Verge",
+              "published_at": "2026-10-17T09:00:00-04:00"
+            },
+            {
+              "title": "Bose新款有线耳机以简单取胜",
+              "brief": "有线耳机正悄然回潮，Bose借势推出新款有线耳机，并首次加入主动降噪功能。自2016年苹果取消iPhone耳机插孔后，多数人转向蓝牙耳机，但有线耳机并未消失，其销量在连续五年下滑后今年不降反升。年轻一代视其为复古潮流，名人也常被拍到佩戴。有线耳机无需电池、寿命更长、不易丢失，Bose这次的新品正是看中这些优势，主打简洁实用。",
+              "source_url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+              "source_name": "The Verge",
+              "published_at": "2026-10-17T09:00:00-04:00"
+            },
+            {
               "title": "苹果 HomeView 成为在线食谱创作者的又一威胁",
               "brief": "苹果发布智能显示屏 HomeView 时，罕见地采用了一支展现五口之家忙碌清晨的广告：设备放在厨房餐桌上，帮助家人查看日历、发送消息，并迅速调出法式吐司食谱，以简明的分步说明指导烹饪。HomeView 延续了长期以来众多网站、浏览器扩展和智能家居设备的承诺——将在线食谱精简为最核心的内容，省去冗长的网页浏览。然而，这种简化、免提的呈现方式剥离了在线食谱中许多至关重要的信息，对依赖广告和长文内容的食谱创作者构成了新的威胁。",
               "source_url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
@@ -221,27 +242,6 @@
               "source_url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
               "source_name": "The Verge",
               "published_at": "2026-10-17T08:00:00-04:00"
-            },
-            {
-              "title": "苹果首款折叠屏手机 iPhone Duo 全面解析",
-              "brief": "苹果正式发布传闻已久的折叠屏手机 iPhone Duo。该机外屏为5.4英寸，内屏为7.6英寸，内屏采用纳米纹理处理，折痕几乎不可见。不同于面容识别，它采用电源键上的触控ID进行解锁。手机配备主摄和超广角两颗摄像头，iOS 27针对折叠形态重构了控制中心和应用，Dock栏被移至机身侧面，展开时还有炫酷的开屏动画。与三星、谷歌相比苹果入局较晚，但起售价高达1999美元（256GB版本），价格随配置递增。苹果称预订需求\"非常惊人\"，或将成为热门产品。本页面汇总了关于iPhone Duo的全部新闻。",
-              "source_url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-              "source_name": "The Verge",
-              "published_at": "2026-10-16T19:36:26-04:00"
-            },
-            {
-              "title": "苹果更新App Store规则，打击\"脱衣\"AI应用",
-              "brief": "苹果更新App Store规则，更明确地禁止所谓\"nudify\"应用，即利用AI工具在未经本人同意的情况下生成他人私密图像的应用，要求开发者必须主动防止和阻止相关内容。此次规则调整源于此前遭遇的广泛批评：今年早些时候，X平台用户利用Grok制作未经同意的性化深度伪造图像，其中包括未成年人。苹果并未将X或Grok从App Store下架，但曾告知参议员其威胁过要下架Grok。今年6月WWDC大会上有抗议者要求苹果移除相关技术，7月旧金山市检察官下令苹果下架13款此类应用，苹果称已执行。",
-              "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-              "source_name": "The Verge",
-              "published_at": "2026-10-16T18:51:22-04:00"
-            },
-            {
-              "title": "武当帮《Once Upon A Time in Shaolin》专辑片段终于可以听到了",
-              "brief": "武当帮的独家专辑《Once Upon A Time in Shaolin》长期以来极难听到，如今播客《Pablo Torre Finds Out》发布了一期专门介绍这张唱片的节目，并公开了专辑的两个片段。这张全球仅此一份的专辑历史曲折：2015年，饱受争议的制药高管马丁·施克雷利在拍卖会上购得该专辑，按规定它在2103年之前不能进行商业发行。施克雷利后来被迫将专辑上缴美国政府，政府于2021年将其出售给加密艺术团体PleasrDAO，后者曾允许专辑在特别展览中播放。《Pablo Torre Finds Out》与PleasrDAO合作举办了一场试听活动，使公众首次得以部分聆听这张神秘专辑。",
-              "source_url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-              "source_name": "The Verge",
-              "published_at": "2026-10-16T16:50:27-04:00"
             }
           ]
         }
@@ -346,39 +346,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "消息称三星正开发全新 Galaxy OS 系统，预计 2028 年随 Galaxy S28 系列亮相",
-              "brief": "据外媒消息，三星正开发一套全新 Galaxy OS 系统，预计于 2028 年随 Galaxy S28 系列手机亮相。另有消息透露，Galaxy OS 是一套与 One UI 并行开发的新版系统，三星后续并不会让 Galaxy OS 退休。新系统将迎来重大改版，并引入付费第三方服务集成，预计指的是 AI 功能。公开信息显示，One UI 是三星电子于 2018 年三星开发者大会上推出的基于安卓深度定制的移动操作系统，可同时运行在折叠屏和非折叠屏产品上，通过交互改进让两种形态产品拥有相近的操作体验，推出后取代 Samsung Experience，成为三星设备的新一代系统界面。",
-              "source_url": "https://www.ithome.com/1/014/397.htm",
+              "title": "网易《逆水寒：新世界》首个大型资料片“苗疆蛊事”官宣，首次采用双线更新框架",
+              "brief": "网易《逆水寒：新世界》官宣首个大型资料片【苗疆蛊事】，首次采用双线更新框架。新资料片将带来全新地图【月见岭】、大理正传终章剧情、月见岭正传楔章、全新团本【祈梦月见岭】以及全新月相机制，官方还公布了望月峡、黄果树瀑布、吊脚楼等实机画面。此外，资料片包含莫奈主题内容、星彩宠物、逆水侠棋第四赛季、全新种植活动【捣蛋鬼入侵】等，并附带个人主页重构、流派体验焕新、武蕴系统优化、全新AI门客站等多项优化。",
+              "source_url": "https://www.ithome.com/1/014/409.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-17T20:47:29+08:00"
+              "published_at": "2026-10-17T22:43:51+08:00"
             },
             {
-              "title": "JBL WAVE FLEX 3 半入耳式降噪耳机首销：12mm 动圈、40 小时续航，668 元",
-              "brief": "JBL WAVE FLEX 3 半入耳式降噪耳机开启首销，售价 668 元，国补后 499 元。该耳机支持主动降噪，采用 12mm 动圈驱动单元，搭载蓝牙 6.0，可同时连接两台设备；升级为 6 麦克风通话方案，每只耳机配备双波束成形麦克风，第三个麦克风协同抑制环境噪音。续航方面，降噪关闭时单次续航更长，降噪开启时单次续航约 7 小时，搭配充电盒可实现降噪关闭约 40 小时综合续航。耳机达到 IP54 抗水等级，充电盒具备 IPX2 抗水等级，单耳重量仅 4.39 克。",
-              "source_url": "https://www.ithome.com/1/014/395.htm",
+              "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
+              "brief": "针对 RTX 5090 停产传闻，英伟达予以否认，但承认供应链产能受限。此前有消息称英伟达将不再向 RTX 50 系列游戏显卡分配 GB202 芯片，而是转向 RTX PRO 专业卡，还传出可能推出 24GB 显存版 RTX 5080 填补高端市场空缺，但均未获官方证实。近期美国零售商 Micro Center 将该卡标记为“不再销售”，部分渠道缺货也加剧了外界猜测。英伟达方面强调游戏业务的重要性，称 GeForce 推动 CUDA 发展，为当前 AI 市场奠定基础。",
+              "source_url": "https://www.ithome.com/1/014/407.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-17T20:36:50+08:00"
+              "published_at": "2026-10-17T22:33:46+08:00"
             },
             {
-              "title": "吉利星瑞 L PLUS 正式上市：10.97 万元起，国内首款搭载激光雷达的燃油轿车",
-              "brief": "吉利星瑞 L PLUS 正式上市，限时价 10.97 万-14.37 万元，此前预售价 11.57 万元起。新车定位宽体旗舰智混家轿，提供 1.5TD+DHT 混动和 2.0TD+8AT 燃油共八个版本。车身长宽高为 4956/1915/1505mm，轴距 2845mm，提供 6 款车漆和 3 款内饰。混动版搭载 i-HEV 智擎混动技术，1.5TD 发动机最大功率 120 千瓦，驱动电机最大功率 175 千瓦，零百加速 7.7 秒，WLTC 百公里油耗 3.98 升。智能化方面采用千里浩瀚 H5 辅助驾驶方案，配备 1 颗激光雷达、11 颗高清摄像头和 3 颗毫米波雷达，支持城市与高速 NOA 领航及全场景自动泊车。",
-              "source_url": "https://www.ithome.com/1/014/394.htm",
+              "title": "上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908mm",
+              "brief": "上汽荣威家越 07 纯电版完成申报，采用大五座布局，轴距 2908mm，最高车速 200km/h。新车整备质量有 2050kg、2075kg、2120kg 三个版本，提供 245/55R19 和 245/50R20 两种轮胎规格。动力方面搭载联合汽车电子生产的 TZ210XS1141 驱动电机，峰值功率 245kW，额定功率 95kW，配备磷酸铁锂电池，电池总成由上汽时代生产。配置上标配防抱死制动系统和 EDR，可选装 ETC、扰流板、激光雷达等多种配置。此前荣威家越 07 已官宣 10 月 23 日上市。",
+              "source_url": "https://www.ithome.com/1/014/406.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-17T20:35:26+08:00"
+              "published_at": "2026-10-17T22:29:23+08:00"
             },
             {
-              "title": "比亚迪第三代秦 PLUS 官图公布，已完成申报",
-              "brief": "比亚迪第三代秦 PLUS 官图公布，新车已完成申报，为纯电动轿车，由比亚迪汽车工业有限公司申报。车身外形尺寸为长 4840mm、宽 1900mm、高 1498mm，轴距 2800mm。动力方面，该车搭载永磁同步驱动电机，型号为 TZ164XYD，由抚州比亚迪实业有限公司生产，峰值功率 100kW，额定功率 40kW。储能装置为磷酸铁锂蓄电池，电池单体由贵阳弗迪电池有限公司生产，电池总成由襄阳弗迪电池有限公司生产。防抱死制动系统由弗迪动力有限公司提供，型号为 IPB（FD）。此前申报图显示，新车预计 10 月下旬上市。",
-              "source_url": "https://www.ithome.com/1/014/392.htm",
+              "title": "倍思推出新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 售 171 元",
+              "brief": "倍思推出符合 2026 新国标的 45W 自带双线移动电源，采用 20000mAh 电芯，售价 171 元。产品重 357g，尺寸为 68.2x111x32mm，采用磨砂阻燃塑料外壳，提供蓝、粉双色可选，正面顶部设有粉色半透高光饰板，左侧为数显屏幕视窗，右侧为 45W 功率标识。接口方面，顶部自带 1 根 USB-C 45W 线缆和 1 根 Lightning 27W 线缆，机身另配 1 个 USB-C 45W 接口和 1 个 USB-A 33W 接口。",
+              "source_url": "https://www.ithome.com/1/014/405.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-17T20:31:42+08:00"
+              "published_at": "2026-10-17T22:20:45+08:00"
             },
             {
-              "title": "阿维塔 T09 实车曝光，定位 50 万级科技新旗舰",
-              "brief": "阿维塔 T09 实车曝光，定位 50 万级科技新旗舰，新车申报信息显示其轴距 3150mm，额定载客 6 人，可选装前格栅、轮辋、车顶玻璃、电动踏板、行李架、双色车身等配置，并配备汽车事件数据记录系统（EDR）。申报的两款车型动力系统有所区别：第一款搭载重庆长安生产的 JL469ZQ1 发动机，排量 1497ml，功率 110kW，前后电机峰值功率分别为 180kW 和 310kW，整备质量 2880kg 或 2968kg；第二款搭载 JL478ZQ1 发动机，排量 1998ml，功率 155kW，前电机峰值功率 180kW，后双电机各 225kW，整备质量 3035kg。两款车型最高车速均为 220km/h。",
-              "source_url": "https://www.ithome.com/1/014/391.htm",
+              "title": "奔驰全新纯电 C300L 申报图公布，最大功率 230kW、轴距 3051mm",
+              "brief": "奔驰全新纯电 C300L 申报图公布。新车额定载客 5 人，最高车速 200km/h，轴距 3051mm，前轮距 1617mm，后轮距 1611mm，接近角/离去角为 16/19 度，轮胎规格为前 235/50R19、后 255/45R19。动力方面，新车搭载由北京奔驰汽车有限公司生产的 EM0037 驱动电机，额定功率 90kW，峰值功率 230kW；储能装置为磷酸铁锂蓄电池，电芯由宁德时代（福鼎）生产，电池总成由北京奔驰生产。新车还可选装侧前视摄像头、不同样式门把手、不同规格轮辋及 ETC 装置等。",
+              "source_url": "https://www.ithome.com/1/014/404.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-17T20:08:50+08:00"
+              "published_at": "2026-10-17T21:56:46+08:00"
             }
           ]
         },
