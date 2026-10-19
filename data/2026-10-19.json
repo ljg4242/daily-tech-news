@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T18:53:44.787798+08:00",
+  "generated_at": "2026-10-19T20:53:43.986592+08:00",
   "sections": [
     {
       "category": "主要",
@@ -89,6 +89,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "平流层飞艇从美国飞抵日本 测试空中手机基站概念",
+              "brief": "在齐柏林飞艇完成首次跨太平洋不停复古艇飞行近百年后，美国航空航天公司Sceye的一艘飞艇于2026年8月至9月间完成了从新墨西哥州到日本的往返飞行。这次飞行历时一个多月，其意义不在于航程本身，而在于验证轻于空气的平台能否充当空中手机基站。Sceye研发的无人平台以氦气提供浮力，配备电动螺旋桨主动推进，可抵御强风并长期悬停于同一位置上空。平台顶部装有太阳能板并搭载机载电池，可在约6万英尺的平流层全天候运行，该高度是民航飞行高度的两倍、位于急流之上，且比低轨卫星近30倍，旨在灾害时提供通信连接。",
+              "source_url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-19T19:05:49+08:00"
+            },
+            {
               "title": "Anthropic 向外部 AI 监督机构开放“类员工”权限",
               "brief": "Anthropic 允许外部评估机构以“类员工权限”评估其模型风险，以兑现加强安全承诺、防范技术失控的表态。非营利组织 METR 曾与 OpenAI、谷歌、Meta 等领先实验室合作，现已派团队进驻这家 Claude 开发商的办公室，可访问其硬件和内部系统，并可未经 Anthropic 批准发布评估结果。扩大第三方评估机构作用是各实验室应对更强 AI 系统对经济、网络安全及人类潜在威胁的主要举措之一。今年 9 月，Dario Amodei 提出在领先实验室嵌入外部审计员的提议，获得 Sam Altman 和马斯克支持，此次宣布是落实承诺的第一步，OpenAI 尚未公布类似计划。有批评者认为此类安排可能产生利益冲突，需要政府加强监管。",
               "source_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
@@ -115,19 +122,33 @@
               "source_url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-17T04:59:01+08:00"
-            },
-            {
-              "title": "警方称制作AI儿童色情材料的账号系新泽西州副检察长",
-              "brief": "新泽西州副检察长布莱恩·理查德·菲茨杰拉德周四在家中被捕，面临与AI生成的儿童性虐待材料相关的重罪指控。警方称，这名51岁的官员被指利用AI将社交媒体上真实未成年人的照片制作成性化图像，并在社交媒体上传播。今年7月，美国失踪与受虐儿童中心接到举报，称一名Discord用户分享了非法图像。警方随后借助与该Discord账号相关的数字取证、用户注册记录及关联IP地址，追踪到菲茨杰拉德的住址。周四搜查中，警方起获了用于AI程序生成儿童性虐待材料的提示词和脚本。自2024年司法部早期逮捕行动以来，美国执法部门一直誓言打击AI儿童性虐待材料，并明确强调AI生成的此类材料仍属违法。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-17T04:20:07+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "氛围编程正在颠覆音乐设备领域",
+              "brief": "在r/synthesizers论坛和YouTube合成器视频上，硬件合成器、采样机和鼓机 groovebox 的自定义固件正呈爆炸式增长，而其背后几乎都离不开日益成熟的大语言模型氛围编程工具。在大语言模型出现之前，这类自定义固件极为罕见，既需要深厚专业知识，又需投入大量时间，仅给 Korg Volca 添加力度感应这类简单功能就可能耗时数周甚至数月。如今，业余爱好者只需几天就能把廉价合成器改造成功能完整的 groovebox，Elektron 的平价设备也迎来了丰富的固件改造生态。",
+              "source_url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+              "source_name": "The Verge",
+              "published_at": "2026-10-19T08:30:00-04:00"
+            },
+            {
+              "title": "民主党认为严管人工智能或成竞选优势",
+              "brief": "民调预测民主党可能在11月中期选举中夺回国会至少一院控制权。一旦掌权，民主党将掌控委员会领导职务，可能对人工智能公司展开新一轮审查。关键委员会的民主党高层已表示将就与数据中心相关的税收抵免及近期黑客攻击事件向行业施压，并可制定议程、传唤CEO到国会作证、要求企业提交解释内部运作的文件。在选民对人工智能感到担忧之际，人工智能议题已在竞选广告中占据重要位置，民主党正借此找到自身定位。",
+              "source_url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+              "source_name": "The Verge",
+              "published_at": "2026-10-19T08:00:00-04:00"
+            },
+            {
+              "title": "Maeving RM2评测：风格出众的电动骑行但存在妥协",
+              "brief": "两轮电动车市场正涌现一个快速增长的新类别，介于高端踏板车和入门级摩托车之间：造型前卫但性能亲民的新车型，如 Infinite Machine P1 和宝马 CE 02，概念相似却风格迥异。在这类车型中，Maeving RM2 格外突出，拥有鲜明的复古未来风格。评测认为，这款电动摩托车骑行极其平顺、外观出色，但仍有一些粗糙之处，使其与卓越之作尚有距离，属于风格与性能之间作出若干妥协的产品。",
+              "source_url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+              "source_name": "The Verge",
+              "published_at": "2026-10-19T07:00:00-04:00"
+            },
             {
               "title": "萨凡纳警员将Flock登录凭证分享给其ICE特工丈夫后被解雇",
               "brief": "前萨凡纳警员Amber Harpe于8月被解雇。部门调查发现，她将Flock车牌识别系统的登录信息分享给了身为ICE特工的丈夫Tyler Harpe。萨凡纳警察局并不与ICE共享Flock数据，并表示分享系统访问权限违反了部门安全协议。据当地ABC附属台WJCL报道，Tyler Harpe在未经授权访问系统期间，进行了与97个车牌相关的983次查询，这些车牌绝大多数登记在西班牙裔司机名下。Harpe夫妇为其行为辩护，称他们并非出于个人原因使用该权限，相关查询严格属于“执法目的”。代理警监Max Nowinsky起初仅建议对Harpe处以八小时的轻微停职处分。",
@@ -141,33 +162,26 @@
               "source_url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
               "source_name": "The Verge",
               "published_at": "2026-10-18T15:30:00-04:00"
-            },
-            {
-              "title": "费城一名女子因阻挡配送机器人被捕",
-              "brief": "费城女子卡罗琳·马文因阻挡优步配送机器人并拒绝让路，被警方以“扰乱秩序”罪名逮捕。马文向当地媒体表示，她认为这些机器人正在抢走人类配送员的工作，因此每次看到机器人都站在其前方阻止其前进，以示抗议。警方赶到现场要求她让开，遭拒后将其戴上手铐逮捕。整个过程被拍成视频，引发媒体广泛关注。配送机器人在费城市中心街头已十分常见，并招致不少反对声音。这不是马文第一次与机器人发生冲突，今年早些时候市中心还发生过一台机器人被踢倒的事件。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-              "source_name": "The Verge",
-              "published_at": "2026-10-18T14:28:10-04:00"
-            },
-            {
-              "title": "美国国会提出游戏所有权法案",
-              "brief": "纽约州第十五国会选区众议员里奇·托雷斯本周提出《玩家权力法案》。如获通过，该法案将指示联邦贸易委员会制定规则，保障消费者在购买游戏时获得的是所有权而非许可协议。如今越来越多游戏在销售后仍需连接服务器，一旦公司关闭服务器，游戏往往无法继续游玩。托雷斯点名 NBA 2K25 作为最新例子：2K 将于本月底将该游戏从商店下架，并在 12 月 31 日关闭服务器，限制其可玩性。围绕游戏所有权以及游玩、转售或转让游戏的权利的担忧，近期在索尼相关事件后受到广泛关注。",
-              "source_url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-              "source_name": "The Verge",
-              "published_at": "2026-10-18T12:27:51-04:00"
-            },
-            {
-              "title": "联想 Legion Go S SteamOS 掌机大幅降价",
-              "brief": "搭载 SteamOS 的联想 Legion Go S 是售价 789 美元的 Steam Deck OLED 的不错替代品。两者运行相同软件，但 Legion Go S 采用两段式扳机键设计，配备更大的八英寸 IPS 屏幕（1080p、最高 120Hz，对比 Deck OLED 的 800p、90Hz），内存和存储翻倍至 32GB 和 1TB，还搭载稍快的 Ryzen Z1 Extreme 处理器。目前百思买折扣价为 999.99 美元，对于考虑购买掌机的用户值得入手。其性能不及刚发售、售价 1299.99 美元、搭载 Z2 Extreme 的华硕 ROG Xbox Ally X20。",
-              "source_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-10-18T11:00:00-04:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "299美元的Apple TV 4K不值得买，但本可能更糟",
+              "brief": "第四代Apple TV 4K以299美元的高价发布，虽新增内置麦克风、升级遥控器以及支持HomePod mini 2环绕声等功能，但科技界普遍认为几乎没人应该购买这款产品，因为第二代或第三代机型同样能获得Siri AI支持，甚至可以买到更便宜的大屏电视。记者 Glenn Fleishman 制作的图表显示，从第二代99美元到第三代4K版129美元，新款涨价幅度远超通货膨胀。不过图表也表明情况本可能更糟：2007年初代Apple TV售价即达299美元，按通胀调整相当于今天的491美元。",
+              "source_url": "https://9to5mac.com/2026/10/19/nobody-should-buy-the-299-apple-tv-4k-but-it-could-have-been-worse/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-19T20:11:27+08:00"
+            },
+            {
+              "title": "iPhone Duo供货紧张令人恼火，但对苹果却是喜忧参半",
+              "brief": "首款折叠屏iPhone Duo开售后几分钟内，预计发货日期便排到了明年1月。有观点认为备货如此有限是重大失误，但作者认为这对消费者固然恼火，对苹果却喜忧参半。苹果在新品类上难以预测需求：若供不应求，会激怒最忠实的第一批用户；若供过于求、随时可买，又会被视为产品失败。供货紧张可能是需求远超预期，也可能是需求一般但制造复杂导致供给更有限，作者认为两者兼有。苹果显然着力解决了安卓折叠屏的折痕和耐用性问题，并打造了充分利用形态的软件功能，令不少原本嫌贵的用户改变了主意。",
+              "source_url": "https://9to5mac.com/2026/10/19/constrained-iphone-duo-availability-is-annoying-but-a-mixed-blessing-for-apple/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-19T19:25:57+08:00"
+            },
             {
               "title": "不升级iPhone 18 Pro或Duo？2027年新机阵容抢先看",
               "brief": "2027年将是苹果iPhone的重要一年。苹果上月宣布采用分批发布节奏后，明年春季将首次在春季推出基础版iPhone 18，传闻配备更大内存、散热升级以及新的Apple C2基带芯片，搭载A20芯片，起售价可能维持899美元。同期的iPhone 18e预计主要将芯片从A19升级到A20，并与iPhone 18共享大量零部件。最受期待的是iPhone Air 2，由于初代反响平平，苹果重新设计机身以加入超广角摄像头，因此未能如期发布。此外，秋季苹果还将推出纪念iPhone问世20周年的新一代旗舰机型。",
@@ -188,19 +202,33 @@
               "source_url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-19T05:19:49+08:00"
-            },
-            {
-              "title": "Apple Watch Series 12 表现出色，但作者仍怀念一项软件功能",
-              "brief": "作者在体验 Apple Watch Series 12 一个月后认为，它可以很好地替代 WHOOP，但仍怀念 WHOOP 的一项功能。新款手表配备了全天候心率监测，配合全新的健康应用带来新颖体验。重新设计的健康应用界面易读易用，新增的“准备度”和“健康年龄”等功能让应用更有意义，生命体征和睡眠等既有功能也已整合其中。该应用目前尚未正式发布，曾短暂出现在 iOS 27.2 中后被移除，苹果表示将在今年晚些时候发布的 iOS 版本（很可能是 12 月底前推送的 iOS 27.3）中回归。作者希望苹果借鉴 WHOOP 按睡眠时间而非固定 24 小时时钟划分日期的做法，这样午夜后的锻炼仍计入当天，更符合健身追踪习惯。",
-              "source_url": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-19T01:56:43+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Spotify 加严家庭套餐共享管控，但仍有绕过方法",
+              "brief": "Spotify 正在加强对家庭套餐（Family plan）共享使用的审查，通过二维码和位置检查等方式验证用户是否与主账户同住。平台会要求成员定期进行位置验证，以确认其符合同一家庭住址的使用条件，防止不同住址的用户违规共享订阅。不过据报道，这些检查机制并非无懈可击，用户仍然可以找到方法绕过相关验证。Spotify 此举意在减少订阅套餐的滥用，保障订阅收入的合规使用。",
+              "source_url": "https://www.androidauthority.com/spotify-family-plan-qr-code-location-check-crackdown-3724983/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-19T20:19:53+08:00"
+            },
+            {
+              "title": "AYN Odin 3 Portal 规格曝光：旗舰性能配超大电池",
+              "brief": "复古游戏掌机厂商 AYN 的 Odin 3 Portal 规格信息得到曝光。这款掌机将搭载旗舰级的高性能芯片，具备强大的硬件运算能力，足以流畅运行从复古平台到较新主机平台的各类游戏模拟。除强劲性能外，该设备还配备了容量巨大的电池，有望带来出色的续航表现，适合长时间外出游玩使用。Odin 系列此前已在安卓掌机领域积累了良好口碑，新款 Portal 的旗舰配置进一步巩固其高端定位。",
+              "source_url": "https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-19T19:41:16+08:00"
+            },
+            {
+              "title": "安卓全新 3D 表情符号正在更大范围推送",
+              "brief": "谷歌正在面向更多用户推送 Android 全新设计的 3D 表情符号。这套基于 Noto 表情符号打造的三维立体样式，此前已在部分设备和 Gboard 输入法中亮相，目前推广范围进一步扩大。新 3D 表情以更立体的视觉效果呈现经典表情图案，为聊天和输入带来更生动现代的观感。随着推送范围扩大，更多 Android 用户可在系统表情和 Gboard 键盘中逐步看到并使用这些全新的 3D 表情符号样式。",
+              "source_url": "https://www.androidauthority.com/google-gboard-noto-3d-emoji-broad-rollout-3724906/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-19T19:12:37+08:00"
+            },
             {
               "title": "折叠屏手机依然难卖，但这款iPhone Duo替代品获得读者支持",
               "brief": "折叠屏手机销量一直不尽如人意，市场接受度仍然有限。Android Authority近日针对三星Galaxy Z Fold 8与传闻中的iPhone Duo（苹果设想的双屏折叠方案）展开读者投票，结果显示，读者更青睐可作为iPhone Duo替代品的三星折叠方案。投票表明，尽管折叠屏手机在售价、耐用性和软件适配上仍面临挑战，但三星在折叠屏领域的成熟产品形态获得了读者认可。这一结果也反映出苹果迟迟未推出折叠iPhone的背景下，三星折叠机型仍是目前折叠屏用户的主要选择，不过整体来看折叠屏依旧属于小众市场。",
@@ -214,27 +242,6 @@
               "source_url": "https://www.androidauthority.com/amazon-best-selling-phones-worth-buying-3721258/",
               "source_name": "Android Authority",
               "published_at": "2026-10-19T18:30:15+08:00"
-            },
-            {
-              "title": "Android上最佳PS3模拟器迎来重大本地多人游戏升级",
-              "brief": "Android平台上最受欢迎的PS3模拟器ARMSX3迎来一次重大更新，重点强化了本地多人游戏功能。此次升级允许用户在安卓设备上连接多个手柄，与好友一起同屏畅玩PS3经典游戏，大幅提升了聚会游戏的可玩性。此前模拟器的主要用途多为单人体验，本地多人功能一直是短板。新版本在多手柄输入映射和兼容性方面进行了改进，让多人对战和合作类游戏的运行更加稳定。对于喜爱复古主机的玩家来说，这一更新让Android设备的游戏体验更进一步，无需主机即可重温PS3时代的热闹多人游戏时光。",
-              "source_url": "https://www.androidauthority.com/armsx3-ps3-emulator-android-local-multiplayer-3724893/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-19T18:30:09+08:00"
-            },
-            {
-              "title": "我用着Pixel Watch，但Fitbit Edge的5大功能让我更心动",
-              "brief": "作者虽然是Pixel Watch的用户，但在了解Fitbit Edge后表示被其5项功能吸引，甚至想换机。文章指出，Fitbit Edge在续航方面表现更为出色，摆脱了智能手表普遍的每日充电负担；其健康与健身追踪功能继承Fitbit的专业积累，数据更全面细致；机身更加轻薄，佩戴舒适度更高，适合全天候佩戴和睡眠监测；价格也预计更亲民，性价比突出；此外它还支持与多款安卓手机良好兼容。相比之下，Pixel Watch虽在智能功能和Wear OS生态上占优，但续航短和佩戴感仍是短板。作者认为Fitbit Edge更适合以健康追踪为核心需求的用户。",
-              "source_url": "https://www.androidauthority.com/fitbit-edge-vs-pixel-watch-why-im-excited-3722535/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-19T18:00:25+08:00"
-            },
-            {
-              "title": "Android Auto或将把通勤纳入工作时段，支持工作资料",
-              "brief": "代码分析显示，Android Auto可能正在开发对工作资料（Work Profile）的支持，未来或将允许用户在开车通勤时也能处理工作相关通知和应用。目前的Android Auto主要连接用户的个人应用，工作资料中的邮件、日程和消息无法在车机屏幕上呈现。一旦该功能上线，用户在驾驶过程中即可查看工作类应用的通知，并利用语音助手进行回复或安排日程，将通勤时间更有效地纳入工作安排。不过这一变化也引发了对工作与生活边界模糊的担忧。该功能目前仍在开发阶段，具体上线时间和最终形态尚待谷歌官方公布。",
-              "source_url": "https://www.androidauthority.com/android-auto-work-profile-3724874/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-19T17:42:30+08:00"
             }
           ]
         }
@@ -246,6 +253,20 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "LinkedIn 清理平台上的 AI 垃圾内容",
+              "brief": "微软旗下的职业社交网络 LinkedIn 正在清理其平台上的 AI slop。检测机构 Pangram 7 月曾发布报告称，LinkedIn 四成的长文由 AI 生成，高于 X 和 Medium 的 30%，Reddit 和 Substack 比例更低。对 LinkedIn 而言，低质量 AI 内容正演变成商业问题。平台主编 Dan Roth 指出，AI slop 读起来千篇一律，如果用户看到太多同质化的 AI 生成帖子，无法获取真正有价值的知识，LinkedIn 将面临用户流失风险。LinkedIn 于 8 月上线了允许用户标记疑似 AI slop 帖子的功能，并利用自己的 AI 系统限制此类内容传播。LinkedIn 上个月表示，AI slop 的浏览量已下降四成。",
+              "source_url": "https://www.solidot.org/story?sid=85650",
+              "source_name": "Solidot",
+              "published_at": "2026-10-19T19:56:04+08:00"
+            },
+            {
+              "title": "网站对 AI 智能体关上大门",
+              "brief": "OpenAI、Meta、Google、Instinct 等公司承诺 AI 智能体能代用户浏览互联网，完成预订餐厅、清理邮箱、购买商品等任务。但最近几周，使用 Meta 的 Muse、xAI 的 Grok、OpenAI 的 Dots 及 Instinct 等智能体的用户发现，其智能体访问部分主流网站时遭到屏蔽。Yelp 仅允许付费参与其数据许可计划的智能体访问；达美航空阻止智能体代用户订票；摩根大通和嘉信理财出于安全考虑阻止智能体访问用户账户；亚马逊屏蔽了多家公司的智能体。曾支持智能体访问的 Cars.com 和 Amtrak 也已关闭大门。Meta 转而与沃尔玛、Gap、Sephora、百思买等零售商合作，允许 Muse 在这些平台购物。",
+              "source_url": "https://www.solidot.org/story?sid=85649",
+              "source_name": "Solidot",
+              "published_at": "2026-10-19T18:41:15+08:00"
+            },
             {
               "title": "陶哲轩谈数学的生存危机",
               "brief": "在UCLA举办的一场数学研讨会上，陶哲轩表示自己正处于战时状态，研讨会讨论了AI对数学带来的生存危机。10月6日OpenAI发布350多项研究成果，涵盖代数、数论、理论计算机科学、数理逻辑和拓扑学等几乎所有数学分支，部分数学家发现自己钻研多年的难题瞬间被AI击败。51岁的陶哲轩指出现在不再存在规则，他认为刚入行的年轻数学家面临的威胁更大。他从2023年起使用OpenAI模型，曾希望双方互补，如今认为被利用，OpenAI急于发布成果暴露了真实意图，双方已无建设性合作可能。危机核心在于：如果解决难题是数学的使命，当机器能更快完成任务时会发生什么？",
@@ -266,20 +287,6 @@
               "source_url": "https://www.solidot.org/story?sid=85646",
               "source_name": "Solidot",
               "published_at": "2026-10-19T15:45:43+08:00"
-            },
-            {
-              "title": "SonicBoom发布：AI框架告别手工调优",
-              "brief": "SonicBoom是由HardenedLinux社区主导开发的全新AI运行时框架，采用GPLv3许可证，提供语言无关的C API接口，任意编程语言都可绑定使用。运行时包含LLVM MLIR，会对计算图再次优化，去掉无效计算，并利用LLVM根据硬件自动生成kernel，无需手工调优。在kernel优化不变的情况下，依靠图编译器优化将原始性能提升20%（RTX 3050测试），且仍在持续增加。它兼顾PyTorch的动态图灵活性和静态图性能，研发与生产部署使用相同的运行时优化栈，部署文件仅三百多MB。目前社区版仅支持单点推理，支持CPU和CUDA，之后计划支持Vulkan，分布式推理计划于企业版提供，未来还将拓展至image、video、tts计算。",
-              "source_url": "https://www.solidot.org/story?sid=85645",
-              "source_name": "Solidot",
-              "published_at": "2026-10-19T14:37:25+08:00"
-            },
-            {
-              "title": "Linux 7.3释出",
-              "brief": "Linus Torvalds在内核邮件列表上宣布释出Linux 7.3。新版本包含来自3021名开发者的18765个non-merge commits，其中807人是首次参与内核开发。主要更新包括：扩展binfmt_misc格式注册；旨在提升大型系统性能的组调度优化；使所有操作均返回失败的failfs文件系统；新增fchroot()系统调用；sched_ext子调度器功能的完善；虚拟机工作集追踪；ntfs3文件系统备用数据流支持等。更多详细信息可浏览KernelNewbies 7.3页面。",
-              "source_url": "https://www.solidot.org/story?sid=85644",
-              "source_name": "Solidot",
-              "published_at": "2026-10-19T14:28:02+08:00"
             }
           ]
         },
@@ -327,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "星巴克将实施“消费才可入座”规则 店员称10月20日起全国门店执行",
-              "brief": "星巴克线下门店工作人员证实，全国门店将从10月20日起实施“消费入座”新规。店员表示规则并非一刀切，外卖员、避雨路人、周边保安、孕妇等有临时休息需求者可免消费进店，门店还免费提供热水，执行时以提醒为主，不硬性要求消费，各门店会摆放提示标识。官方客服称品牌致力于打造舒适的“第三空间”。此前星巴克也曾因劝离未消费顾客、“消费入座”提示牌引发关注和讨论。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582922.htm",
+              "title": "长鑫存储计划一年内新增超10万片DRAM月产能 聚焦缓解消费电子存储短缺",
+              "brief": "长鑫存储计划将DRAM月产能从目前约32万片提升至42万片以上，一年内新增超10万片，到2028年底有望达到60万片，较当前增长87.5%。由于三星、SK海力士和美光等主要厂商将大量资源投入HBM产品，普通DRAM市场供给紧张。长鑫存储重点放在标准DRAM领域，瞄准受短缺影响最明显的消费电子市场，扩产的重要力量来自北京新生产设施。苹果据称正寻求采购其内存产品，业内认为长鑫未来将在缓解消费电子存储供应压力方面发挥关键作用。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582932.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-19T18:49:34+08:00"
+              "published_at": "2026-10-19T20:45:09+08:00"
             },
             {
-              "title": "韦伯望远镜发现系外行星WASP-17b晨昏温差高达660摄氏度",
-              "brief": "康奈尔大学与布里斯托大学研究人员利用詹姆斯·韦伯太空望远镜数据，通过“透射弦”新技术分别测量热木星WASP-17b大气层边缘不同方向的信号。研究发现这颗距地球约1300光年、直径近木星两倍的气态巨行星受潮汐锁定影响，清晨一侧大气温度约590摄氏度，傍晚一侧约1250摄氏度，相差约660摄氏度，傍晚大气膨胀程度约为清晨的1.8倍。行星赤道附近强劲喷流将热量从白昼侧输往黑夜侧，结果与理论预测吻合，成果发表于《自然·天文学》。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1582920.htm",
+              "title": "三星Galaxy S27系列或明年初回归常规发布节奏 高端机内存升级仍存变数",
+              "brief": "传闻称三星Galaxy S27系列可能放弃S26的延期发布节奏，回归1月至2月发布、3月开售的常规安排。内存配置方面，此前爆料称标准版S27和S27+将沿用LPDDR5X内存及UFS 4.x闪存，S27 Pro和S27 Ultra原计划升级至LPDDR6和UFS 5.0，但最新消息称因内存成本高涨，三星考虑取消高端机型升级以控制成本。LPDDR6标准已于2025年发布，数据速率为每引脚约10.6至14.4Gbps。处理器平台也未定案，有传闻称S27 Ultra测试高通新旗舰芯片时遇发热问题，三星可能考虑采用Exynos 2700。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582930.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-19T18:37:06+08:00"
+              "published_at": "2026-10-19T19:32:34+08:00"
             },
             {
-              "title": "四个Gemini 4 Argon智能体首次全自主通关《我的世界》击败末影龙",
-              "brief": "四个Gemini 4 Argon智能体在没有专门游戏工具和脚本的情况下，全自主通关《我的世界》并击败末影龙。它们自主形成协作机制、分配任务，主动交流信息、提醒威胁、回收队友遗失物品，并将经验记录到共享记忆系统。整个过程耗时27小时14分钟，累计编写2783个JavaScript程序，发送229条聊天消息，经历605次死亡后完成任务。按2027年定价标准估算，实验运行成本约1620美元，显示出通用AI智能体在复杂开放世界中的规划与长期任务执行能力。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1582918.htm",
+              "title": "F-22成功控制自主作战无人机 美空军演示“一个飞行员指挥两架飞机”",
+              "brief": "美国空军演示一名F-22飞行员在飞行中控制一架安杜里尔公司的YFQ-44A“Fury”无人作战飞机。飞行员通过战术数据链发送更新后的任务计划，无人机机载自主系统自动解析并独立完成机动和模拟作战任务，飞行员仅下达高层级战术命令。此次测试属于“协同作战飞机”项目，该项目旨在部署低成本半自主无人机与有人战斗机协同作战。美国空军计划2032年前部署500架半自主飞机，最终形成至少1000架规模的无人协同作战机队。YFQ-44A将于今年12月参加“Emerald Flag”演习。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582928.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-19T18:36:09+08:00"
+              "published_at": "2026-10-19T19:32:07+08:00"
             },
             {
-              "title": "马斯克宣布明年向美国每名儿童赠送一股SpaceX股票 总价值约105亿美元",
-              "brief": "马斯克在社交媒体X上宣布，明年将向美国每个孩子赠送一股SpaceX股票，并称这是“众多行动中的第一项”。美国18岁以下人口约7200万，按10月16日约146.03美元的收盘价计算，涉及股份总价值约105亿美元。马斯克持有约48亿股SpaceX股票，具备操作可能性，但股票登记方式、覆盖范围等细节尚未明确。SpaceX于2026年6月完成IPO。此举与Anthropic将5%股权投入公益基金相关，马斯克此前建议将股票直接分配给公众。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1582916.htm",
+              "title": "波尔多、里尔两家苹果直营店在法国大规模骚乱中遭洗劫",
+              "brief": "10月17日法国多地抗议活动期间，位于波尔多和里尔的两家苹果直营店先后遭到洗劫，店内商品被抢夺，波尔多当地迪卡侬、老佛爷百货等商铺也受到破坏。社交媒体上出现相关视频，但被盗设备数量和损失总额尚无法确定。此次骚乱源于抗议生活成本上涨等问题，全国多地出现商店被抢、车辆起火等情况，警方逮捕约2400人，近1000名警察受伤，约1500家企业受影响。苹果设备虽有激活锁等防盗机制，但无法阻止商品被抢。苹果公司尚未公布事件详细说明。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582926.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-19T18:23:02+08:00"
+              "published_at": "2026-10-19T19:31:33+08:00"
             },
             {
-              "title": "英特尔CEO陈立武称中国芯片制造“目前并未落后太多”",
-              "brief": "英特尔CEO陈立武在采访中表示，中国芯片制造“目前并未落后太多”，认为各制造方各有优势与短板，最终胜负取决于产品是否最适合企业和消费者。他还谈到公司转型，称重组已完成约八成，重建有竞争力的晶圆代工业务尚需多年，并以台积电用10至20年成为领先代工企业为例。报道将此言论置于中国推进EUV光源研发背景下，指出上海朗道科技展示的EUV光源原型参数尚未经独立验证，且EUV光源只是光刻机核心部件之一，距量产仍有明显技术环节需突破。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1582914.htm",
+              "title": "欧洲XFEL创下硬X射线脉冲强度新纪录 仅300阿秒闪光揭示电子世界",
+              "brief": "欧洲XFEL研究团队创下硬X射线阿秒脉冲强度新纪录。实验于2026年4月在该设施MID实验站完成，研究人员借助来自日本的先进Kirkpatrick-Baez光学系统，将每个约300阿秒的硬X射线脉冲聚焦到仅180×330纳米的区域，约为人类头发横截面的十万分之一，估算峰值强度超过每平方厘米10²⁰瓦，刷新硬X射线阿秒脉冲强度和能量通量世界纪录。研究人员将脉冲照射铜箔样品，观察到“放大自发辐射”现象，验证了计算结果。该系统计划2027年初安装，将为超快物理学等领域开辟新可能。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1582924.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-19T18:22:34+08:00"
+              "published_at": "2026-10-19T19:07:56+08:00"
             }
           ]
         },
@@ -367,45 +374,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "SK 海力士与多家银行联手出资 2 万亿韩元，扶持韩国半导体产业",
-              "brief": "SK 海力士与多家银行共同出资 2 万亿韩元，用于扶持韩国半导体产业。参与计划的银行与 SK 海力士将共同提供资金，韩国贸易保险公社（K-SURE）负责提供担保。项目投资额为 8700 亿韩元，目标是增强韩国本土材料、零部件及设备供应商的技术自主能力，加快相关技术和产品的国产化进程。部分资金还将用于建设 Trinity Fab，支持与半导体大规模量产相关的技术研发。",
-              "source_url": "https://www.ithome.com/1/014/993.htm",
+              "title": "VGN 联合腾讯天美推出 V98Pro V4 TiMi 限定款机械键盘，首发价 419 元",
+              "brief": "VGN 与腾讯天美工作室推出 V98Pro V4 TiMi 限定款机械键盘，配备联名小云仔发声键帽按钮，按下会发出“TiMi”声音，并带有 V-Display 情绪屏，支持输入交互模式和自定义图案。键盘采用 98 配列 100 键设计，Gasket 结构加消音填充，搭配 PC 横向开槽定位板和 FR-4 单键开槽 PCB，全键热插拔且无冲。支持有线、2.4G 和蓝牙三模连接，采用自研“破阵”方案，支持原生双 8KHz 回报率和全链路频段智能调控，内置 10000mAh 电池，最长续航 347 天，首发价 419 元。",
+              "source_url": "https://www.ithome.com/1/015/015.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-19T18:43:18+08:00"
+              "published_at": "2026-10-19T20:46:58+08:00"
             },
             {
-              "title": "海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%",
-              "brief": "海光信息发布 2026 年第三季度财报：营业收入 58.56 亿元，同比增长 45.46%；归母净利润 10.48 亿元，同比增长 37.9%；扣非净利润 9.53 亿元，同比增长 31.12%；基本每股收益 0.45 元。第三季度研发投入达 18.2 亿元，同比增长 48.68%，占营业收入 31.08%。受人工智能产业快速发展和国产替代进程加速带动，国内高端芯片需求持续攀升。年初至报告期末经营活动现金流净额为负，主要因加大备货规模、原材料采购支出显著增多。",
-              "source_url": "https://www.ithome.com/1/014/992.htm",
+              "title": "华为引望与宁德时代、时代电服达成战略合作，共建智能换电生态",
+              "brief": "华为引望与宁德时代、时代电服签署《智能化补能生态战略合作协议》，将加强换电电池及换电网络合作，联合生态伙伴构建智能换电生态。通过华为乾崑智驾与宁德时代巧克力换电网络的深度协同与底层生态互联，打通车端、站端与云端的数据与服务生态，车辆可实现自主确定补能需求、自主寻站、自主入库、自动对位、99 秒全自动换电、自主驶离的全流程智能闭环，打造面向自动驾驶时代的“无感补能”体验。签约仪式于 10 月 19 日在福建宁德举行。",
+              "source_url": "https://www.ithome.com/1/015/014.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-19T18:36:45+08:00"
+              "published_at": "2026-10-19T20:35:57+08:00"
             },
             {
-              "title": "梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发",
-              "brief": "梅赛德斯-奔驰与英伟达深化战略合作，共同开发下一代辅助驾驶系统。双方将基于 NVIDIA Alpamayo Stack 进行软件定义辅助驾驶（SDA）更新，并与 NVIDIA Hyperion 计算和传感器架构协同运行。Alpamayo Stack 提供具有 AI 推理能力的全栈驾驶软件，支持城市点到点辅助驾驶、主动安全及自动泊车；NVIDIA Halos 则强化安全体系。这些技术还将支持未来 SAE-L4 级自动驾驶应用的开发。此外，奔驰还在汽车工程仿真及数字化生产生态系统 MO360 中采用英伟达技术。",
-              "source_url": "https://www.ithome.com/1/014/990.htm",
+              "title": "MiniMax M3.1 Flash 上线：推理速度提升 3 倍，成本降低 70%",
+              "brief": "MiniMax 推出新一代 Flash 模型 M3.1 Flash，在 Agentic 任务、编程、Computer Use 及网络安全能力等方面实现代际提升，线上推理速度提升近 3 倍，使用成本降低 70%。该模型在 AutomationBench-AA、BankerToolBench、DeepSWE v1.1（73.7%）、OSWorld V2（61.7 分）等多项基准测试中达到领先水平，其中 OSWorld V2 和 ALE 得分位列国产模型第一；在 CyberGym 测试中取得 82% 高分。输入价格为每百万 Token 1 元，输出 4 元，缓存读取 0.1 元。模型已上线 MiniMax API、MPlan 及 MiniMax Code，稍后开放权重。",
+              "source_url": "https://www.ithome.com/1/015/013.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-19T18:27:15+08:00"
+              "published_at": "2026-10-19T20:20:45+08:00"
             },
             {
-              "title": "经典 Roguelike 游戏《邪恶冥刻》将登陆移动平台，暂无新 DLC 计划",
-              "brief": "开发商 Daniel Mullins Games 宣布，经典 Roguelike 卡牌游戏《邪恶冥刻》将登陆移动平台。对于玩家关注的新 DLC，工作室明确表示目前没有相应计划，称游戏无论在叙事还是玩法层面都已经是一部完整的作品，不希望仅仅为了增加内容或利用商业成功而继续扩充。公开信息显示，《邪恶冥刻》于 2021 年 10 月发售，Steam 好评率达 95%，国区定价为 88 元。",
-              "source_url": "https://www.ithome.com/1/014/988.htm",
+              "title": "荣耀 WIN2 系列众测招募开启，30 个名额",
+              "brief": "荣耀 WIN2 系列众测招募开启，名额共 30 台。系列包含荣耀 WIN2、WIN RT2、WIN Turbo2 等机型，预计分别搭载第六代骁龙 8 超级至尊版、第五代骁龙 8 至尊版、骁龙 8s Gen4（待最终确认），配备 6.89 英寸 2K 185Hz LTPS OLED 直屏和超 10000mAh 电池。荣耀 WIN2 系列手机与 WIN 平板将于 10 月 21 日在荣耀 WIN 电竞宇宙嘉年华发布，聚焦超重载场景，挑战性能释放新高度，采用升级的东风涡轮散热，行业首发 2K 185Hz 极窄边电竞屏。",
+              "source_url": "https://www.ithome.com/1/015/012.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-19T18:25:32+08:00"
+              "published_at": "2026-10-19T20:13:27+08:00"
             },
             {
-              "title": "Epic CEO 斯威尼呼吁玩家不要放弃《糖豆人》，称本作正进行大规模改造",
-              "brief": "《糖豆人》近期人气下滑，尽管 Epic Games 与任天堂合作推出《超级马力欧》主题联动活动，也未能推动人气回升。Epic CEO 蒂姆·斯威尼呼吁玩家不要放弃这款游戏，并表示：我们正在进行大规模改造，让新的可能成为现实。不过斯威尼没有透露改造涉及哪些具体内容。鉴于 Epic Games 近来越来越积极地推动人工智能技术的应用，部分玩家猜测此次改造可能会涉及 AI 技术。",
-              "source_url": "https://www.ithome.com/1/014/987.htm",
+              "title": "《海岛大亨 7》试玩 Demo 免费登陆 Steam，支持简体中文",
+              "brief": "经典模拟经营 IP 新作《海岛大亨 7》试玩 Demo 现已免费登陆 Steam，支持简体中文。游戏中玩家将扮演总统打造群岛王国。新作包含 5 张战役地图和新增劲敌维多利亚·格拉，提供系列最大规模群岛、20 多张沙盒地图和随机地图生成；引入全新地形改造系统，可抹平山脉、造沙滩甚至造岛；升级议会政治系统，重制军事系统，并支持定制宫殿与总统外观。游戏完整支持简体中文等 12 种语言，最低需 Core i5-10400F 处理器和 RTX 2060 显卡。",
+              "source_url": "https://www.ithome.com/1/015/011.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-19T18:25:09+08:00"
+              "published_at": "2026-10-19T20:13:12+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "四个谷歌AI智能体历时超27小时在《我的世界》中击败末影龙，全程无人类协助",
+              "brief": "谷歌将四个AI智能体放入随机生成的《我的世界》世界，目标为击败末影龙，最终耗时约27小时完成，据称属世界首次。智能体通过开源库Mineflayer操控游戏角色，并利用游戏内聊天和共享内存进行协作，无人分配角色或编写游戏逻辑，所有计划、编写和调试均由智能体自主完成。它们自发分工，有的建造庇护所刷材料，有的收集食物，有的负责探索，并互相分享战斗技巧、帮助找回死亡后遗失的装备。整个过程中四个智能体交换了229条消息，运行了2783个程序，死亡605次，另有第五个智能体监督以防作弊。它们花了约13.5小时抵达末地，其余时间用于攻打末影龙。",
+              "source_url": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
+              "source_name": "IGN",
+              "published_at": "2026-10-19T18:56:01+08:00"
+            },
             {
               "title": "Modder用AI将《荒野大镖客2》植入《中土世界：战争之影》复仇系统",
               "brief": "一名Modder推出名为enRage的新Mod，为《荒野大镖客2》引入类似《战争之影》复仇系统的AI机制。该Mod会为游戏中每名NPC命名，并按帮派分组追踪，如奥德里斯科尔帮、莱莫恩袭击者、美军等，全部记录在新菜单中。当玩家击杀某帮派成员后，其地位会由新成员继承。X光页面可查看NPC骨骼与伤势，甚至出现跛行和瘫痪。玩家还能用新互动菜单用枪胁迫敌人供出同伙。世界页面则追踪NPC之间的互动，如收养流浪狗、戒酒、互相结仇等。每名NPC还拥有冷静、精明、内向、酗酒等特质，并记录其信仰与职业。不同意识形态会引发帮派战争，玩家可介入支援一方或同时对付两方。若惹恼某帮派，他们会派出狩猎队追杀亚瑟。该Mod现已开启抢先体验。",
@@ -433,13 +447,6 @@
               "source_url": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
               "source_name": "IGN",
               "published_at": "2026-10-19T17:34:28+08:00"
-            },
-            {
-              "title": "《辛普森一家》阿普近十年来首次在剧中开口说话",
-              "brief": "《辛普森一家》角色阿普·纳哈萨皮马佩蒂隆近十年来首次在剧中发声。在福克斯播出的第38季第三集《复仇记》中，该角色由配音演员苏尼尔·马霍特拉（曾参演《实习医生格蕾》《科拉传奇》）担纲新声。据《综艺》报道，自2017年10月剧集《农奴之子》后，阿普一直未在剧中说过一句话。此次角色回归和新配音的选角被严格保密，所有参与剧本围读和制作的人员均签署了保密协议。执行制片人马特·塞尔曼表示，剧组热爱这个角色，希望以聪明的、符合《辛普森一家》风格的方式让他回归并获得成长，并对马霍特拉的表现感到满意，期待阿普未来有更多戏份。",
-              "source_url": "https://www.ign.com/articles/the-simpsons-apu-has-finally-spoken-on-the-show-for-the-first-time-in-almost-a-decade",
-              "source_name": "IGN",
-              "published_at": "2026-10-19T10:37:59+08:00"
             }
           ]
         },
