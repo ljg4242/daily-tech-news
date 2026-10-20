@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T04:54:06.055171+08:00",
+  "generated_at": "2026-10-21T06:53:34.178071+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Perplexity Computer 现已可在 Mac 上完全本地运行",
+              "brief": "Perplexity 宣布对 Perplexity Computer 进行更新，使其能够在 Mac 上完全本地运行。本地版本基于 Qwen 3.6 或 PPLX Pro（经后训练的 Qwen 版本），可在受支持的 Apple 芯片 Mac 上的 Perplexity 应用中运行。Perplexity 特别推荐新款 Mac mini，建议配备 36GB 或以上内存。在本地模式下，AI 模型推理、任务规划、推理和文件处理均在设备端完成，代码和工具执行则在隔离沙盒环境中进行。Computer 可以调用 Mac 上的原生应用，无需将个人数据发送到云端即可完成任务，可跨 Notes、信息、邮件、Keynote 和 Numbers 等应用操作。此外，Perplexity 还提供混合计算功能，将云端前沿模型与本地模型结合以私密处理信息，最低支持 24GB 内存的 Mac。本地运行时，如任务需要最新信息或云连接应用，用户可授权云端访问，并可按需调用 15 种以上前沿模型。该功能现已面向 Pro、Max 和企业订阅用户开放。",
+              "source_url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-21T06:20:12+08:00"
+            },
             {
               "title": "苹果触控屏OLED MacBook Pro已知信息汇总",
               "brief": "苹果正在开发一款高端MacBook Pro，即将发布，将为Mac带来多项首创，包括OLED显示屏和触控屏。新机型预计有轻微设计调整，机身更轻、可能更薄，并将取消刘海，改为iPhone风格的灵动岛。产品将提供14英寸和16英寸两种尺寸，尚不清楚是取代现有机型还是作为更高端选项并存。OLED屏幕将取代现款mini-LED，带来更丰富的色彩、更高对比度和真正的纯黑，单个像素可独立关闭，减少光晕现象，HDR表现更好，但亮度有时不及mini-LED。消息称苹果采用刚性OLED面板、氧化物TFT背板和先进串联OLED结构。",
@@ -82,6 +89,20 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Android 17 QPR3 Beta 2 新增内容全览",
+              "brief": "Android 17 QPR3 Beta 2 现已面向多款 Pixel 设备推送，涵盖 Pixel 6a 至 Pixel 11 系列及平板和折叠屏机型。本次更新引入了锁屏快速设置的连接开关保护功能，要求解锁后才能更改 Wi-Fi、蓝牙、飞行模式或移动数据磁贴；壁纸与样式轮播新增主题包、自定义图标、形状效果、动画和天气效果等功能。同时修复了大量问题，包括设备在使用中随机崩溃重启、移动数据状态下互联网磁贴显示持久文字、外接音频设备时媒体输出对话框忽略单色主题、分享面板中固定图标位置异常、WhatsApp 视频通话中设备意外关机、锁屏进行中通知与其他界面元素重叠并导致面板动画卡顿等。",
+              "source_url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-21T05:05:40+08:00"
+            },
+            {
+              "title": "The Sideload 播客第 048 期：是 AI 狂热而非 AI 精神失常",
+              "brief": "9to5Google 播客 The Sideload 第 048 期上线，本期主题围绕当下人工智能行业的狂热现象展开，主持人 Will Sattelberg 和 Daniel Bader 探讨了为何当前的局面更应被形容为“AI 狂热”而非“AI 精神失常”，并讨论了如何在一个本质上难以令人信任的行业中寻找真正有用的工具。节目由 NordVPN 赞助，听众通过指定链接订阅两年套餐可节省最多 76%，并额外获赠四个月服务。本期节目已登陆 YouTube、Pocket Casts、Spotify、Apple Podcasts 和 Amazon Music 等平台，9to5Google Pro 订阅用户还可收听独家加更内容。",
+              "source_url": "https://9to5google.com/2026/10/20/the-sideload-048-its-ai-mania-not-ai-psychosis/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-21T04:52:13+08:00"
+            },
+            {
               "title": "Android 17 QPR3 Beta 2 推送至 Pixel，包含 21 项修复",
               "brief": "谷歌已向 Pixel 设备推送 Android 17 QPR3 Beta 2 更新，本次更新包含 21 项问题修复。修复内容涵盖：设备在正常使用中间歇性崩溃重启、WhatsApp 视频通话中意外关机、通话结束后屏幕变黑且无响应、锁屏进行中通知与其他界面元素重叠导致动画卡顿、移动数据和热点在 Dish 网络上无法连接、屏幕旋转后录屏冻结、系统界面与字体显示异常缩小、终端应用无法启动 Linux 开发环境虚拟机、配对手表在手机接听来电后仍持续响铃，以及应用抽屉在切换键盘语言时意外关闭等多个问题。",
               "source_url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
@@ -101,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
               "source_name": "9to5Google",
               "published_at": "2026-10-21T04:00:00+08:00"
-            },
-            {
-              "title": "YouTube 开始在普通视频中隐藏“踩”按钮",
-              "brief": "继几个月前对 Shorts 做出类似改动后，YouTube 似乎正在测试在普通视频中进一步隐藏“踩”按钮。近期有用户在桌面网站上发现，“踩”按钮被移入溢出菜单，不再直接显示在界面上，而“赞”按钮仍保持原位，另有用户看到略有不同的界面但结果相同，按钮与“举报”按钮一起被收入菜单。Reddit 上过去几周也出现了类似报告。虽然 YouTube 经常进行此类测试，且目前部分编辑无法复现该现象，但鉴于 Shorts 已先行做出同样改动，普通视频“踩”按钮被隐藏几乎已成定局。",
-              "source_url": "https://9to5google.com/2026/10/20/youtube-hidden-dislike-button-test/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-21T02:10:00+08:00"
-            },
-            {
-              "title": "今日 Android 应用优惠：Chrono Trigger、Next Level、Not A Bot 等",
-              "brief": "本期 Google Play 应用优惠汇总带来多款限时免费与折扣应用和游戏，包括经典角色扮演游戏 Chrono Trigger、Next Level、Not A Bot 等。此外还有相关硬件与配件优惠信息，例如 Amazon 仍按发布日送达新版 HomeView，而 Apple 则将其发货时间推迟至 12 月。感兴趣的用户可在优惠结束前前往 Google Play 商店领取或以折扣价购买这些应用与游戏，以免错过限时活动。",
-              "source_url": "https://9to5toys.com/2026/10/20/todays-highlight-google-play-deals-32/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-21T02:06:17+08:00"
             }
           ]
         },
@@ -122,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "谷歌健康功能更新未能支持Fitbit睡眠监测",
-              "brief": "谷歌推出最新的健康功能升级，但Fitbit设备暂未获得支持。相关报道指出，新功能上线后Fitbit用户暂时无法使用，引发关注。由于页面访问受限，原文详细内容暂无法获取，具体支持时间与适配计划尚待官方进一步说明。",
-              "source_url": "https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/",
+              "title": "Android Authority 2026 年度最佳大奖：目前已公布的所有获奖者",
+              "brief": "Android Authority 2026 年度最佳评选奖项正在陆续揭晓，本篇文章汇总了截至目前已经产生的全部获奖产品。该奖项覆盖智能手机、可穿戴设备、音频、应用等多个科技品类，旨在评选出过去一年中表现最出色的产品与服务。文章列出了各品类获奖名单，方便读者快速了解哪些设备凭借优秀的性能、设计和用户体验脱颖而出，成为 2026 年度最具代表性的科技产品。",
+              "source_url": "https://www.androidauthority.com/android-authority-best-of-2026-awards-3725439/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-21T04:35:35+08:00"
+              "published_at": "2026-10-21T06:42:01+08:00"
             },
             {
-              "title": "ChatGPT推出锁定聊天功能保护对话隐私",
-              "brief": "ChatGPT上线最新隐私功能，允许用户锁定对话记录，防止他人窥视聊天内容。该功能旨在提升用户隐私保护水平，让敏感对话更加安全。由于原文页面访问受限，具体设置方法和适用范围暂无法获取详细信息。",
-              "source_url": "https://www.androidauthority.com/chatgpt-rolls-out-locked-chats-3725766/",
+              "title": "拜雅 DT 1770 Pro MKII 录音室耳机降价 250 美元",
+              "brief": "德国音频品牌拜雅旗下高端录音室监听耳机 DT 1770 Pro MKII 目前迎来大幅促销，价格直降 250 美元。这款耳机是经典 DT 1770 Pro 的升级版本，采用特斯拉技术驱动单元，提供出色的声音解析力和专业级监听表现，适合音乐制作、混音录音等专业场景，同时也受到发烧友的青睐。此次折扣使其入手门槛显著降低，对于正在寻找高品质封闭式监听耳机的用户来说是一个不错的购买时机。",
+              "source_url": "https://www.androidauthority.com/beyerdynamic-dt-1770-pro-mkii-deal-3725823/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-21T04:29:27+08:00"
+              "published_at": "2026-10-21T06:04:59+08:00"
             },
             {
-              "title": "Gemini将为Android Auto带来个性化体验",
-              "brief": "谷歌将Gemini个性化智能功能引入Android Auto，为用户的车载体验增添个人化元素。该功能有望根据用户习惯提供更智能的辅助服务。由于原文页面访问受限，功能上线时间和具体特性暂无法获取更多细节。",
-              "source_url": "https://www.androidauthority.com/gemini-personal-intelligence-on-android-auto-3725650/",
+              "title": "海信 L9Q 投影仪降至历史最低价，立省 2000 美元",
+              "brief": "海信 L9Q 激光电视投影仪目前正在进行的促销活动使其价格创下历史新低，优惠金额高达 2000 美元。这款投影仪定位高端家庭影院市场，采用激光光源和三色激光技术，能够投射大尺寸画面并呈现鲜艳的色彩和较高的亮度表现，适合追求影院级观影体验的用户。如此力度的折扣在同类高端投影产品中并不多见，感兴趣的消费者可以考虑抓住这次机会入手。",
+              "source_url": "https://www.androidauthority.com/hisense-l9q-projector-deal-3725819/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-21T04:00:24+08:00"
+              "published_at": "2026-10-21T05:54:36+08:00"
             },
             {
-              "title": "T-Mobile保住5G王座 AT&T独立组网大幅落后Verizon",
-              "brief": "最新5G网络对比显示，T-Mobile继续保持5G覆盖领先地位，稳居行业第一。AT&T在5G独立组网（SA）覆盖方面大幅落后于Verizon，两家运营商差距明显。由于原文页面访问受限，具体数据和统计口径暂无法获取。",
-              "source_url": "https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/",
+              "title": "调查显示谷歌悄悄更改 Android 设置后信任度大受打击",
+              "brief": "谷歌此前悄然进行了一项涉及 Android 手机号码验证的改动，引发了广泛争议。最新一项针对用户的调查显示，这一静默更改对谷歌的公信力造成了明显打击，许多用户表示对其信任度有所下降。用户不满的主要原因在于谷歌在没有充分告知的情况下调整了与账号安全和验证相关的设置。文章公布了此次调查的详细结果，展示了用户对该改动的态度分布以及对谷歌透明度的担忧。",
+              "source_url": "https://www.androidauthority.com/android-phone-number-verification-google-trust-poll-results-3725788/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-21T03:47:04+08:00"
+              "published_at": "2026-10-21T05:18:41+08:00"
             },
             {
-              "title": "三星Fold 5和Flip 5稳定版One UI 9全球推送",
-              "brief": "三星面向全球启动Galaxy Z Fold 5和Galaxy Z Flip 5的One UI 9稳定版系统推送。两款折叠屏机型用户将陆续收到更新通知，获得新系统带来的功能改进与体验优化。由于原文页面访问受限，推送日程细节暂无法获取。",
-              "source_url": "https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/",
+              "title": "Android 17 QPR3 Beta 2 带来大量修复更新",
+              "brief": "谷歌发布了 Android 17 QPR3 的第二个测试版本，这次更新集中推出了大量问题修复。新版本针对此前测试版中存在的多项漏洞进行了处理，涵盖系统稳定性、界面显示、性能表现等多个方面，同时可能包含一些功能上的细节调整。作为季度平台发布周期的一部分，QPR3 系列更新预计将随下次维护版本正式推送给Pixel等设备。参与测试计划的用户现在可以下载 Beta 2 体验这些改进。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr3-beta-2-3725811/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-21T03:12:21+08:00"
+              "published_at": "2026-10-21T05:08:10+08:00"
             }
           ]
         },
@@ -162,45 +169,66 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "Snap请小罗伯特·唐尼代言Specs AR眼镜",
-              "brief": "Snap为旗下Specs AR眼镜请来新品牌大使——《钢铁侠》主演小罗伯特·唐尼，并任命其为Specs“首席客户体验官”。公司发布了多支视频，由唐尼展示新眼镜的功能，包括协助推杆练球、练习绘画，以及躺在床上观看MMA比赛的私人视频。在一段视频中，唐尼还将一盒标有“AI眼镜”的物品扔进垃圾桶，被解读为对Meta热门智能眼镜的嘲讽。据Snap博客介绍，此次合作中唐尼将与Specs团队合作，探索增强现实如何改善人们的生活与工作，涵盖娱乐、教育等日常体验，以及医疗、工程和制造等领域的专业应用。",
-              "source_url": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+              "title": "特朗普向尼克·雪莉奖励一万美元，并启动2500万美元欺诈举报悬赏计划",
+              "brief": "特朗普与副总统万斯周二宣布，美国政府将向右翼 YouTuber 尼克·雪莉奖励一万美元，并启动一项2500万美元的公众欺诈举报悬赏计划。2025年12月，雪莉发布了一段走红网络的视频，指控明尼苏达州由当地索马里社区运营的托儿中心存在欺诈行为。他徘徊在停车场并要求进入托儿中心，将遭拒视为未实际照看儿童的证据。视频迅速传播，引发大规模政府反应：联邦移民执法人员进驻明尼阿波利斯地区，特朗普政府还冻结了明尼苏达州的联邦儿童保育资金。此后雪莉又前往其他州继续调查。",
+              "source_url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T16:32:09-04:00"
+              "published_at": "2026-10-20T18:20:11-04:00"
             },
             {
-              "title": "SpaceX称AI业务大增推动营收跳涨",
-              "brief": "SpaceX周二公布第三季度财报，总营收146亿美元，同比增长161%，公司称增长主要由“超级智能（SI）”业务板块和互联业务加速增长推动。其中SI业务营收达76亿美元，同比大涨830%，主要受新云服务协议生效、收购Cursor以及Grok在企业客户和消费者中采用率提升的驱动。互联业务营收52亿美元，运营利润24亿美元，Starlink消费者用户达1360万。SI板块运营利润为4.31亿美元，而太空部门营收为18亿美元，但运营亏损700万美元。",
-              "source_url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+              "title": "谷歌更个性化的Gemini AI将登陆汽车",
+              "brief": "谷歌正在为车载 Gemini AI 引入个性化智能功能。借助此次更新，Android Auto 以及内置谷歌系统的汽车中的 Gemini 可以调用用户在 Gmail、日历、地图、照片、YouTube 和搜索等谷歌应用中的信息。谷歌举例称，开车去机场时可以询问航班状态，Gemini 能从 Gmail 中的确认邮件提取航班信息并查询动态。用户还可以直接说带我去医生诊所，而无需手动查找路线，或要求它找到上周照片中的洗车点并导航前往。谷歌去年将 Gemini 引入 Android Auto，今年4月推广至内置谷歌系统的汽车，福特、通用、本田、日产等多家车企均已支持。",
+              "source_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T16:26:58-04:00"
+              "published_at": "2026-10-20T18:11:34-04:00"
             },
             {
-              "title": "Oura为智能戒指新增两项心血管健康追踪功能",
-              "brief": "Oura为其智能戒指推出两项聚焦心血管健康的新功能，帮助用户更好理解日常锻炼强度对长期健康的影响，从而判断是该加强还是减少运动量。新功能包括Cardio Effort（心血管负荷）和自动VO2 Max（最大摄氧量，前身为Cardio Capacity），适用于Oura Ring Gen 3及之后机型，但仅向拥有有效Oura会员订阅的用户开放。与测量跑步或骑行速度、距离或卡路里等指标不同，Cardio Effort衡量的是用户心血管系统在运动中承受的压力强度，以此反映锻炼对心血管健康的长远效果。",
-              "source_url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+              "title": "马斯克称特斯拉与SpaceX正讨论可能的合并",
+              "brief": "马斯克周二在 SpaceX 第三季度财报电话会议上表示，特斯拉和 SpaceX 已成立特别委员会，讨论两家公司合并的可能性。他称合并是个好主意，但强调并非板上钉钉。马斯克同时担任两家公司 CEO，他表示特别委员会是应股东要求成立的，由独立董事组成，但他并未透露成员姓名。马斯克指出，他既不是任何委员会成员，也未参与相关讨论。他说：由于我属于利益冲突方，不能参与特别委员会的讨论，这就像一场奇怪的政治表演，两拨人在商谈而我却无法在场。目前双方尚未就任何交易条款达成一致。",
+              "source_url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T16:26:04-04:00"
+              "published_at": "2026-10-20T17:30:24-04:00"
             },
             {
-              "title": "TikTok开始审查热门肽类相关搜索",
-              "brief": "在TikTok上搜索司美格鲁肽、BPC-157、替尔泊肽等热门肽类关键词时，现在会显示“未找到结果”页面。肽是由氨基酸组成的物质，包括胰岛素和GLP-1等，其中也含有一些未经监管和批准的物质。以小罗伯特·肯尼迪为代表的支持者声称这些物质有助于减肥、伤口愈合等多种用途，但缺乏临床数据支持。TikTok上大量网红支持者乐于推荐关联的配制药房和其他来源不明的渠道。目前的搜索屏蔽很容易绕过，因此并未完全消除肽类内容在平台上的可见度。",
-              "source_url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
+              "title": "马斯克：SpaceX将首次尝试捕获星舰及其助推器",
+              "brief": "SpaceX CEO 马斯克表示，公司将于下月尝试捕获星舰及其助推器，目标是首次完整回收整套轨道发射系统。他称，如果成功，这将是历史上首次完整回收轨道运载工具。马斯克周二在公司第三季度财报会议上说：这是文明意识历史中意义深远的科技里程碑。但他也承认存在失败的可能：首次飞行不保证成功，不过我认为下次飞行成功的机会大于失败。即使失败，公司还有源源不断的星舰飞行尝试计划。此次尝试若能实现，将标志着可重复使用航天技术的重大突破。",
+              "source_url": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T16:16:04-04:00"
+              "published_at": "2026-10-20T17:02:53-04:00"
             },
             {
-              "title": "罗技翻新版G Pro X2 Superstrike降价35%",
-              "brief": "罗技上一代右手无线游戏鼠标G Pro X2 Superstrike正在其官方eBay店铺以翻新版形式促销，原价179.99美元，现价131.74美元，使用优惠码PROXPRODUCTS15后可再降，最终价格不到117美元，相当于约35%的折扣，几乎只有更新的X3 Superstrike价格的一半。这款鼠标于今年年初发布，仅通过触觉反馈就能模拟机械开关的手感，配备触觉技术，是PC游戏的出色搭档。对想以非全价体验这款触觉游戏鼠标的玩家来说，这是个不错的入手机会。",
-              "source_url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+              "title": "Netflix安抚投资者：尽管用户观看时长持续下滑",
+              "brief": "Netflix 周二发布第三季度财报，在用户观看时长下滑的报道背景下，公司将提升变现能力列为未来重点之一，与提升娱乐价值、运用新技术并列。这家流媒体巨头没有具体说明如何改善变现，但表示这些目标将帮助 Netflix 创造会员价值，使我们能够适时提价，并增加广告主需求。面对激烈竞争和争夺用户注意力的内容爆炸式增长，Netflix 还计划进一步发力原创内容、直播活动和第三方节目。金融机构杰富瑞的分析估计，Netflix 的月度观看时长正在下降。",
+              "source_url": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T16:00:00-04:00"
+              "published_at": "2026-10-20T16:52:07-04:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "马斯克称合并SpaceX与特斯拉是“好主意”",
+              "brief": "马斯克周二在SpaceX第三季度财报电话会议上表示，他支持将旗下两家最大的公司SpaceX和特斯拉正式合并，称这一想法“有很多可取之处”，但最终需要获得双方股东的支持。目前两家公司已应股东要求，分别成立了由独立董事组成的特别委员会讨论合并事宜，马斯克因存在利益冲突不参与讨论，委员会尚未就交易条款达成一致。此前SpaceX已于今年2月收购马斯克的人工智能公司xAI，并于6月完成史上最大规模IPO上市。马斯克认为，双方在超级智能软件、芯片设计、机器人及太空连接等领域合作将带来巨大收益。",
+              "source_url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-21T06:04:54+08:00"
+            },
+            {
+              "title": "警方突击搜查计划对新生儿开展“不道德”疫苗试验的研究人员办公室",
+              "brief": "几内亚比绍警方周一突击搜查了丹麦研究人员的办公室，扣押了用于新生儿乙肝疫苗试验的疫苗剂量。国际健康专家称该试验“不道德”，但反疫苗的卫生部长小罗伯特·肯尼迪曾试图用美国纳税人资金资助它。在肯尼迪主导下，美国疾控中心曾向由彼得·艾比和克里斯汀·斯塔贝尔·贝恩夫妇领导的班迪姆健康项目提供160万美元无申请拨款。二人主张疫苗存在被忽视的危害，正因涉嫌学术不端接受丹麦当局调查。该试验因可能使数千名新生儿暴露于乙肝感染风险而遭广泛谴责，今年1月被叫停。尽管本月有报道称疾控中心计划追加资金推进试验，但目前几内亚比绍官方尚未批准，试验仍未进行。",
+              "source_url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-21T05:44:34+08:00"
+            },
+            {
+              "title": "据报道微软预计2028年Project Helix主机定价1200至1800美元",
+              "brief": "据《财富》报道，微软下一代游戏硬件“Project Helix”预计于2028年假日季推出，内部预测定价在1200至1800美元之间。若微软决定补贴成本，实际售价可能降低。这一高价反映了摩尔定律放缓和AI驱动的元器件短缺带来的新常态：今年Steam Machine起价已突破1000美元，PS5 Pro售价900美元，Xbox Series X起价750美元。此外，微软内部还在就是否让计划明年推出的Helix掌机运行精简版Windows Home，还是采用Xbox部门自研的专属操作系统存在分歧。微软今年3月宣布Project Helix为可同时游玩Xbox和PC游戏的设备。",
+              "source_url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-21T05:14:33+08:00"
+            },
             {
               "title": "主打流媒体聚合的JustWatch推出自家流媒体服务",
               "brief": "JustWatch自2015年成立以来，一直通过流媒体指南帮助用户在众多流媒体平台中查找想看的电影。如今该公司推出了自家的流媒体服务JustWatch TV。该服务提供部分免费带广告电影，如《绿色房间》《洛克》《 Sing Sing》等，无需注册账户即可观看；也提供付费租赁影片。针对不想看广告的用户，服务推出每月4美元的订阅，并限时提供50美元的终身订阅。据高管介绍，其片库约有数百部影片，虽然规模有限且略显陈旧，但与类似定位的Howdy等低价无广告服务一样，仍可能吸引可观用户。",
@@ -214,27 +242,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-21T04:07:58+08:00"
-            },
-            {
-              "title": "Gemini个性化智能功能即将登陆汽车",
-              "brief": "Google在2026年初为Gemini推出个性化智能（Personal Intelligence）功能，允许AI调用用户更多数据来生成答案，起初为付费功能，后来向所有Gemini用户开放。现在该功能正推向Android Auto和内置Google系统的车辆，且仍是可选功能。Google认为，生成式AI掌握了更多背景信息后输出质量更好，而Google已通过Gmail、日历等应用掌握大量用户数据，这使其成为区别于其他AI系统的优势。在车内，用户只需说“带我去预约医生”，Gemini即可从关联日历获取信息，让驾驶者专注于路况而无需详细说明。",
-              "source_url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-21T04:00:33+08:00"
-            },
-            {
-              "title": "OpenBSD 8.0发布，安全纪录依然保持完好",
-              "brief": "OpenBSD 8.0正式发布，这是该项目第61个版本，延续了自1996年以来每半年发布一次的传统。该项目始于30多年前NetBSD的一个分支，如今已成为在开发的操作系统中安全意识最强的系统之一。创始人Theo de Raadt强调，OpenBSD在三十多年里默认安装仅有两个远程漏洞。新版本带来多项改进：新增Intel Arc A系列显卡支持；AMD64内核虚拟地址空间从4GB扩大至512GB，可映射超过4GB显存；ARM64系统新增休眠支持；新增RPKI-to-router守护进程；RISC-V改进；无线驱动增强；每个客户虚拟机最多支持64个虚拟CPU；以及LibreSSL和OpenSSH的安全更新。",
-              "source_url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-21T03:57:18+08:00"
-            },
-            {
-              "title": "8张TLS证书泄露引发全球互联网高度戒备",
-              "brief": "安全人员于周二进入高度戒备状态，原因是发现8张TLS证书的私钥过于薄弱，任何人都能利用其为互联网上任意网站签发受浏览器和应用信任的凭证。截至周二上午，浏览器厂商及部分主要应用和编程语言已封锁全部8张中级证书。证书透明度日志尚未发现这些泄露密钥被恶意使用的记录，但威胁远未结束，因为更新Linux发行版、嵌入式和物联网设备等其他互联网关键部分将非常困难且耗时。这8张中级证书属于印度证书颁发机构eMudhra。密码学工程师Filippo Valsorda表示，这将是一项比Heartbleed更庞大的清理工作，遗留的物联网设备、Docker容器和被遗忘的Linux机器将构成很长的尾巴。",
-              "source_url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-21T03:47:35+08:00"
             }
           ]
         }
@@ -247,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "签证问题致《赛马娘》洛杉矶演唱会取消，粉丝心碎",
-              "brief": "10月18日，《赛马娘》官方推特宣布，定于10月22日至23日举行的洛杉矶演唱会因工作人员难以获得赴美签证而面临困难。次日电玩公司Cygames正式宣布演出取消，并为现场门票和线上直播门票的购票者提供退款。官方表示，尽管与各方反复协调并尝试了所有可能方案，仍无法获得进入美国所需的签证，不得不做出取消演出的痛苦决定。公司向满怀期待的训练师们、赛马娘声优以及合作方工作人员致以诚挚歉意，针对已安排行程的粉丝的应对措施也在进行中，但可能需要一些时间。",
-              "source_url": "https://www.ign.com/articles/umamusume-fans-distraught-after-los-angeles-concerts-canceled-due-to-visa-issues",
+              "title": "《GTA6》中的啤酒品牌即将成为现实产品",
+              "brief": "美国烟酒税贸易局已批准多款啤酒商标，其中包括《GTA》系列中曾出现过的品牌，如Patriot Beer和Pißwasser，以及全新品牌No Mames Vice City，其标签上印有戴墨镜、挂罪恶之城项链的小狗图案。这些酒由佛罗里达州酿酒厂Tripping Animals Brewing生产。其中No Mames Vice City拉格酒精度为6%，另两款为4.2%，与百威淡啤相同。目前尚不清楚这些饮品的销售时间与地点，可能仅限迈阿密及周边酒吧。Rockstar近日还在迈阿密、巴黎、纽约等地大规模投放《GTA6》广告。游戏将于11月19日登陆Xbox Series X|S和PS5。",
+              "source_url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
               "source_name": "IGN",
-              "published_at": "2026-10-21T03:38:27+08:00"
+              "published_at": "2026-10-21T05:07:11+08:00"
             },
             {
-              "title": "AMD FSR 4.1 即将登陆 Xbox Series X，可与 PS5 的 QSSR 抗衡",
-              "brief": "AMD 宣布将扩大 FSR 4.1 超分辨率技术的设备支持范围，首次登陆 Xbox Series X。FSR 4.1 与 DLSS 类似，利用 AI 将低分辨率图像上采样至原生分辨率，但因计算成本高于 FSR 3，此前对低端硬件支持较慢。借助与索尼合作的 Amethyst 项目，AMD 得以将模型精简，使其可在 RDNA 2 显卡和搭载 Z2 芯片的掌机如 Xbox Ally X 上高效运行。此举与此前索尼将 PSSR 2 精简为 QSSR 用于基础 PS5 的做法类似。AMD 表示该功能将很快登陆 Xbox，但具体时间未定。",
-              "source_url": "https://www.ign.com/articles/amd-fsr-41-is-finally-coming-to-xbox-series-x-rivaling-ps5s-qssr",
+              "title": "报道称格蕾塔·葛韦格曾与Netflix电影负责人因《纳尼亚》项目发生冲突",
+              "brief": "据Variety报道，Netflix本周解雇电影业务负责人丹·林，其任内曾与导演格蕾塔·葛韦格及本·阿弗莱克产生矛盾。四位知情人士透露，今年早些时候，林与葛韦格在一次有多位Netflix高管参加的Zoom会议上讨论《纳尼亚传奇：魔法师的外甥》进展时闹翻，林对导演态度轻蔑。会后时任首席内容官巴贾里亚致电葛韦格的制片人帕斯卡缓和关系，葛韦格的经纪人劳德也直接向CEO萨兰多斯反映了此事。此后林不再参与该片，由贝尔格拉德接手监管。消息人士称该事件并非林被解雇的原因。Netflix近期已发布该片首支预告片和新海报。",
+              "source_url": "https://www.ign.com/articles/greta-gerwig-netflix-narnia-clash",
               "source_name": "IGN",
-              "published_at": "2026-10-21T03:12:13+08:00"
+              "published_at": "2026-10-21T04:51:21+08:00"
             },
             {
-              "title": "传下一代 Xbox 主机或高达 1800 美元，新掌机或明年率先推出",
-              "brief": "据《财富》报道，微软内部预测代号 Project Helix 的下一代 Xbox 主机成本为 1200 至 1800 美元。微软虽可能通过补贴降低售价，但除非愿意承担超出常规标准的巨额亏损，否则主机价格很可能仍超过 1000 美元。平台方以硬件亏本换取游戏和订阅收入的模式并不罕见，但如今 Xbox 的市场份额已大不如前，难以承担重大冒险。报道称一款新掌机可能在明年 Helix 主机之前率先推出。微软近年转向多平台发行策略，未来的 Xbox 主机甚至可能直接是游戏 PC。",
-              "source_url": "https://www.ign.com/articles/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-handheld-rumored-to-launch-next-year-before-helix",
+              "title": "警方确认PSA联邦快递卡车遭劫：涉事卡牌价值近百万美元",
+              "brief": "10月13日，一辆联邦快递卡车停在加州圣安娜PSA评级公司总部附近约60至90分钟，窃贼撬开车锁盗走车内包裹。10月中旬，多名卡牌收藏者收到PSA邮件，得知运送自己藏品的卡车遭盗窃，此事在网络上迅速传播，其中一位网名SKY-B的藏家称其超过10万美元的卡牌下落不明。PSA发表声明，表示将按客户所选最高投保价值以市场公允价赔偿，并配合联邦快递和执法部门调查。当地警方随后通报，被盗包裹共约150件，分装三个托盘，其中两个托盘估值约96.3万美元，第三个托盘的价值尚未统计，总损失预计接近百万美元。",
+              "source_url": "https://www.ign.com/articles/police-confirm-nearly-1-million-worth-of-trading-cards-stolen-in-psa-fedex-truck-heist",
               "source_name": "IGN",
-              "published_at": "2026-10-21T03:08:58+08:00"
+              "published_at": "2026-10-21T04:20:02+08:00"
             },
             {
-              "title": "《堡垒之夜》推出电影角色 Nikki 皮肤引发恐怖片粉丝争议",
-              "brief": "10月20日，Epic Games 宣布电影《Obsession》中的角色 Nikki Freeman 将以可购买皮肤形式登陆《堡垒之夜》。该角色在片中是受害者：她的身体被恶意实体占据，真正的 Nikki 被困于自己的意识中，只能眼睁睁看着恶行发生，还遭到 Bear 在未经同意情况下的侵犯。部分玩家认为将该角色作为游戏中的娱乐元素是对其受害者经历的不尊重，她的专属表情动作还原了片中的名场面，进一步引发不满。一些粉丝在社交媒体上批评此举，甚至呼吁抵制。",
-              "source_url": "https://www.ign.com/articles/fortnites-nikki-skin-sparks-debate-among-horror-fans-with-some-calling-for-a-boycott",
+              "title": "EA旗下经典拳击游戏系列《搏击之夜》即将回归",
+              "brief": "EA官方宣布《搏击之夜》系列即将回归，发布的宣传图中展示了一副悬挂在拳台上方的拳击手套，并配文“战斗永不结束”。目前官方未公布更多细节，包括开发团队、是全新作品还是重制版，以及发售窗口和支持平台等。此前该系列初代和最近两部作品由温哥华EA Canada开发，《搏击之夜3》和《Round 3》则出自现已关闭的EA芝加哥工作室。该系列沉寂期间，EA将资源转向UFC游戏系列，其最新作《UFC 6》于今年早些时候发售并获得好评。此次回归对众多拳击游戏爱好者来说无疑是好消息。",
+              "source_url": "https://www.ign.com/articles/fight-night-eas-beloved-but-long-dormant-boxing-sim-franchise-is-coming-back",
               "source_name": "IGN",
-              "published_at": "2026-10-21T02:36:32+08:00"
+              "published_at": "2026-10-21T04:17:37+08:00"
             },
             {
-              "title": "诺兰《致命魔术》二十周年重映，将首次登陆 70mm 和 IMAX",
-              "brief": "克里斯托弗·诺兰执导的《致命魔术》将迎来二十周年重映，首次以 70mm 胶片和 IMAX 格式呈现，同时提供 35mm 和数字 2D 版本。诺兰在声明中表示，非常高兴能将影片带回大银幕，尤其兴奋让观众首次在 70mm 和 IMAX 上欣赏该片。重映消息于影片上映二十周年当天（2006年10月20日）公布。影片由休·杰克曼、克里斯蒂安·贝尔、迈克尔·凯恩和斯嘉丽·约翰逊主演，讲述两位魔术师为成为最伟大魔术师不惜一切代价展开较量的故事，曾获奥斯卡最佳摄影和最佳艺术指导两项提名。",
-              "source_url": "https://www.ign.com/articles/the-prestige-rerelease-70mm-imax-christopher-nolan",
+              "title": "据报道Xbox Game Pass将迎来重大改革：提供单项点选式选项",
+              "brief": "《财富》杂志在一篇关于Xbox CEO阿莎·夏尔马的专访中透露，Xbox正计划对Game Pass进行重大改革，玩家将可单项点选所需功能，包括仅限主机游戏的附加包、云游戏和多人游戏等，系统将采用分层结构。报道指出，这项Netflix式的月度游戏订阅服务帮助Xbox建立了订阅业务，但也蚕食了公司高价第一方游戏的销量，尤其在关键的发售期，而不同团队之间订阅收入与商店收入的竞争性考核指标进一步加剧了问题。此外文章还提及下一代Xbox掌机和Helix主机，称其价格可能不便宜。上任约半年的夏尔马已采取多项举措，包括下调Game Pass Ultimate价格、签约小岛秀夫的Physint项目等。",
+              "source_url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
               "source_name": "IGN",
-              "published_at": "2026-10-21T02:28:24+08:00"
+              "published_at": "2026-10-21T03:40:15+08:00"
             }
           ]
         },
@@ -346,6 +353,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "Perplexity Computer新增Mac本地运行模式 AI任务可留在设备端处理",
+              "brief": "Perplexity为Computer功能新增Mac完全本地运行模式，支持Llama 3.6或基于Qwen进一步训练的PPLX Pro模型，面向配备Apple芯片且建议至少36GB内存的Mac开放，目前提供给Pro、Max和Enterprise订阅用户。用户可下载本地模型并选择完全本地模式，处理敏感文件时保留更多控制权。若需要最新信息或云端应用，可授权调用云服务或从15种以上前沿模型中选择；混合模式则由云端负责联网研究、本地处理私人文件，需至少24GB统一内存并运行macOS 15或更新版本。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583130.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-21T06:31:43+08:00"
+            },
+            {
+              "title": "Google向内置其系统的汽车推送Gemini AI助手 现有车辆也可升级",
+              "brief": "Google宣布将通过软件更新向搭载Google Built-in系统的汽车推送Gemini AI助手，不仅覆盖未来新车型，也将升级已上路的现有车辆。通用汽车此前已宣布Gemini将登陆约400万辆2022款及之后的凯迪拉克、雪佛兰、别克和GMC车型。Gemini支持自然语言连续对话，无需固定指令，可推荐餐厅和音乐，总结短信并生成回复，提供导航和路况信息，还能查询车辆设置与电池电量等状态。首批更新将以英语面向美国市场推出，未来计划接入Gmail、Google Calendar和Google Home等服务。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583128.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-21T06:31:08+08:00"
+            },
+            {
+              "title": "马斯克：SpaceX与特斯拉已开始研究潜在合并交易",
+              "brief": "马斯克表示，SpaceX与特斯拉已开始研究潜在的合并交易，希望将两家公司的火箭发射、星链业务整合，人工智能领域的共同布局是重要逻辑。消息公布后SpaceX盘后股价上涨4.5%，特斯拉上涨1%。两家公司市值分别约2万亿美元和近1.5万亿美元，已有多项业务联系，如SpaceX购买超1亿美元Cybertruck，xAI是特斯拉储能业务重要客户。马斯克强调合并尚未确定，需获得特斯拉全体股东50%批准，而不仅是多数投票股东同意，并认为合并已成定局的说法言过其实。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583126.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-21T06:28:40+08:00"
+            },
+            {
               "title": "传微软2027年推出Xbox掌机 下一代Xbox主机或于2028年登场",
               "brief": "据媒体报道，微软内部代号Project Helix的计划显示，一款Xbox掌机可能于2027年推出，下一代Xbox主机或于2028年登场。Xbox首席执行官阿莎·夏尔马曾表示，Project Helix并非单一设备，而是一个涵盖主机、掌机等不同形态的设备家族。目前尚不清楚掌机由微软自研还是延续与华硕合作模式，此前双方已推出基于Windows 11的ROG Xbox Ally系列。微软与AMD达成的多年战略合作被视为该硬件体系的基础。价格方面，若微软不予补贴，下一代主机售价可能达1200至1800美元。此外，微软还在研究Game Pass分层订阅方案，包括带广告与无广告版本及独立附加选项。官方尚未公布具体规格与上市计划。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1583124.htm",
@@ -358,33 +386,19 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1583122.htm",
               "source_name": "cnBeta",
               "published_at": "2026-10-21T02:40:03+08:00"
-            },
-            {
-              "title": "ChatGPT新增“锁定聊天”功能 可用PIN或生物识别隐藏敏感对话",
-              "brief": "OpenAI为ChatGPT推出“锁定聊天”功能，用户可通过四位PIN码或生物识别隐藏敏感对话。锁定对话仍保存在账户中，相关文件也一并受保护，且拥有与普通对话分开的记忆空间。该功能仅改变对话的显示位置和打开方式，并非端到端加密，不改变聊天保留期限或数据处理方式。忘记PIN重设将永久删除所有锁定聊天及其记忆和文件。临时聊天、归档聊天、群组对话等暂不能锁定。该功能正逐步向Plus、Pro、Team、Enterprise和Edu方案推出。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583120.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-21T02:39:40+08:00"
-            },
-            {
-              "title": "三星改进Exynos基带能效 Galaxy S27有望缩小与骁龙版续航差距",
-              "brief": "据报道，三星新一代Exynos基带M2700已实现更高能效，预计将与Exynos 2700处理器一同应用于部分Galaxy S27机型。该基带仍采用4纳米工艺，但通过电压优化等设计改进提升能效，芯片面积较上代缩小约4%，同时支持从3GPP Release 17升级至Release 18，并增强非地面网络能力。下一代M2800基带将转向2纳米工艺。三星正将大量4纳米产能投入HBM生产，释放产能具有商业意义，Exynos方案重返Galaxy旗舰的可能性正在提高。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583118.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-21T02:30:34+08:00"
-            },
-            {
-              "title": "Google为Chrome推出“可疑网站”新警告机制 加强诈骗防护",
-              "brief": "Google为Chrome浏览器推出新的“可疑网站”警告机制，针对与诈骗、恶意软件或钓鱼网站特征相似但无法完全确认危险性的网站，向用户展示风险提示，同时允许用户在知情后继续访问或标记为可信。与之相比，现有的危险网站警告更为严格，会用红色全屏页面拦截。新警告以弹出窗口形式出现，原网页暗化但仍可见。该功能采用与下载安全保护相似的双级风险策略，目前尚不清楚其将面向所有用户还是仅限“增强型安全浏览”用户开放。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583116.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-21T01:24:59+08:00"
             }
           ]
         },
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "SpaceX 第三财季净利润 44.04 亿美元，同比扭亏为盈",
+              "brief": "SpaceX 2026 财年第三季度营收 145.75 亿美元，同比增长 161%，归母净利润 44.04 亿美元，上年同期净亏损 10.54 亿美元，成功扭亏为盈。分业务看，Space 板块营收 17.67 亿美元，同比增长 6%，完成首次星舰轨道试飞并发射 26 颗星链 V3 卫星；Connectivity 板块营收 52.48 亿美元，同比增长 69%，星链订阅用户达 1360 万；SI 板块营收 75.6 亿美元，同比增长 830%，算力扩容至 1.7GW。公司还完成对 Cursor 的收购，并计划在路易斯安那州建设下一代 Starbase 太空港，目标每年支持数千次星舰发射。",
+              "source_url": "https://www.ithome.com/1/015/617.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-10-21T06:37:22+08:00"
+            },
             {
               "title": "超微电脑 2027 财年第一财季预计营收 185 亿至 195 亿美元",
               "brief": "超微电脑发布 2027 财年第一财季业绩预告，预计营收区间为 185 亿美元到 195 亿美元，显著高于此前指引的 145 亿美元到 155 亿美元，增长主要来自 AI 平台需求提升。预计毛利率区间为 12.0% 到 12.5%，高于此前指引的 10.4% 到 10.8%，毛利率提升主要得益于客户结构和产品组合优化。该公司是全球领先的应用优化整体 IT 解决方案提供商，专注于企业、云、人工智能、5G/边缘 IT 基础设施领域，其数据中心模块化方案在 AI 服务器领域具备较强竞争力。公司将于 2026 年 11 月 3 日举办财报电话会议披露正式财报，本次预告为初步未经审计结果，最终数据可能存在调整。",
@@ -412,13 +426,6 @@
               "source_url": "https://www.ithome.com/1/015/613.htm",
               "source_name": "IT之家",
               "published_at": "2026-10-20T23:52:46+08:00"
-            },
-            {
-              "title": "消息称华为引望与宁德时代首批换电车型暂定五款，计划 2027 年上市",
-              "brief": "据媒体报道，华为引望与宁德时代围绕“巧克力”换电生态的合作，首批车型将围绕东风旗下相关车型的开发展开，涉及五款新车，计划 2027 年上市。报道还提到，在向引望方面求证时，对方转述了三方战略合作协议的核心内容，即合作的动机和目标，但并未对上述信息置评。另据财联社报道，华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出，将由奕境品牌首发，奕境为东风与华为合作推出的品牌。",
-              "source_url": "https://www.ithome.com/1/015/610.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-10-20T23:34:31+08:00"
             }
           ]
         }
