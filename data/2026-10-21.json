@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T18:53:10.982696+08:00",
+  "generated_at": "2026-10-21T20:54:15.709890+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果称 iPhone Duo 将于今年晚些时候支持单手模式功能",
+              "brief": "据 WIRED 的朱利安·乔克卡图报道，苹果计划在年内晚些时候通过软件更新为 iPhone Duo 增加单手模式（Reachability）支持。该功能预计将同时适用于内屏和外屏，但报道未予说明。单手模式是一项辅助功能设置，目前已在其他 iPhone 机型上提供，用户在屏幕底边向下轻扫，即可将界面上半部分下拉，使控件更易于单手触及，方便单手操作设备。",
+              "source_url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-21T20:43:42+08:00"
+            },
             {
               "title": "法国抗议活动中波尔多和里尔的苹果零售店遭洗劫",
               "brief": "据Boursorama报道，本周早些时候，法国因抗议生活成本过高而引发骚乱，位于波尔多和里尔的苹果零售店在动乱中遭到洗劫。这两家门店是全国范围内众多被袭击的企业之一。其中波尔多的Apple Sainte-Catherine门店并非首次遭殃，早在2018年12月法国“黄背心”示威引发的骚乱期间，该店就曾被洗劫过一次。目前相关讨论已被置于MacRumors的政治新闻版块，该版块设有特别规则。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
               "source_name": "MacRumors",
               "published_at": "2026-10-21T15:03:00+08:00"
-            },
-            {
-              "title": "英国监管机构提议新措施助苹果支付竞争对手",
-              "brief": "英国竞争监管机构竞争与市场管理局（CMA）提议新规，让企业更容易、更低成本地在 iPhone 上提供 Apple Pay 的替代方案。CMA 认为苹果的收费和限制使竞争对手难以推出非接触式支付应用。提案要求苹果开放更多 NFC 访问途径，并支持主机卡模拟（HCE）技术，使支付应用无需使用存储敏感信息的安全元件芯片即可运行。同时提案拟大幅降低苹果的接入费用。苹果已于 2024 年在英国开放 NFC 访问，但开发者须与苹果签署协议并付费。CMA 指出，欧盟自 2024 年苹果免费开放 HCE 后已有竞争对手的支付应用上线，而英国目前尚无同类产品。提案公开征求意见至 2026 年 11 月 17 日，CMA 将在审阅反馈后作出最终决定。苹果表示将继续建设性地参与磋商。",
-              "source_url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-21T12:57:09+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果封禁可被骗子利用的网络证书，但 Mac 漏洞依然存在",
+              "brief": "由于生成中间证书的脚本存在错误，多个私钥只需测试 256 个可能的数字即可轻易破解。八张受影响的证书现已被吊销，并已采取措施防止未来签发的证书再受影响。据报道，苹果、谷歌和 Mozilla 已在各自的浏览器中封锁这些证书。但 Mozilla 加密工程师警告，macOS 不会检查证书吊销信息，已信任这些证书的 Mac 及其内置 curl 工具可能继续信任它们。目前尚无这些证书在野外被利用的证据，苹果预计将在即将发布的安全更新中修复此问题。",
+              "source_url": "https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-21T20:16:19+08:00"
+            },
+            {
+              "title": "iPhone Duo 评测：可折叠的未来",
+              "brief": "9to5Mac 编辑使用苹果首款折叠屏 iPhone 一周后发布评测。iPhone Duo 重 254 克，比 iPhone 18 Pro Max 重 5 克，但重量分布更均匀，机身更短更方正，握持感明显更舒适，不过长时间单手使用手腕仍会感到负担。折叠状态下厚度为 11.3 毫米，比 iPhone 18 Pro 系列厚约 29%；展开后仅 5.2 毫米，甚至比 5.64 毫米的 iPhone Air 更薄。评测还覆盖外屏、内屏、折痕控制、iOS 27 软件、摄像头、电池、扬声器、MagSafe 和性能等方面。",
+              "source_url": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-21T20:00:06+08:00"
+            },
+            {
+              "title": "TikTok 被指从非法儿童性剥削视频中牟利",
+              "brief": "据 NPR 报道，TikTok 员工曾警告平台上未成年人出现在性内容中，观看者付费访问，公司从中获利，涉嫌金融犯罪。员工还指出，18 岁以下用户利用漏洞绕过年龄限制内容，并阻止家长和监护人查看其活动。文件显示，TikTok 因担心调查结果须提交给联邦贸易委员会而拒绝开展用户年龄调查。员工称高管知情但应对不力。内部还对年轻用户看到自杀和自残相关内容表示担忧。TikTok 回应称这些说法是律师授意下断章取义，旨在误导公众。",
+              "source_url": "https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-21T19:19:45+08:00"
+            },
+            {
+              "title": "视频显示法国苹果零售店遭洗劫一空",
+              "brief": "据 Complex 报道，在因学校人满为患、师资不足而引发的抗议演变成骚乱之际，法国三个城市的多家奢侈品店遭洗劫，包括波尔多的路易威登和苹果零售店、里尔的苹果门店以及马赛的爱马仕精品店。骚乱还损毁市政建筑和政府机构、焚烧车辆，约 1200 人被捕，参与人数估计在 55 万至 80 万之间。视频显示苹果店内几乎被搬空，有抢劫者搬走 Studio Display。不过这些展示品设有 Kill Switch，离开门店 Wi-Fi 覆盖范围后将变砖。法国总统马克龙谴责暴力行为。",
+              "source_url": "https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-21T18:53:36+08:00"
+            },
+            {
               "title": "苹果招聘蜂窝基带工程师 助力向6G过渡",
               "brief": "苹果近日发布了一个新的6G蜂窝调制解调器系统工程师职位，基础年薪为17.5万至30.85万美元，另有股票奖励等福利。职位描述称，这是在公司向6G过渡之际，塑造无线通信未来的难得机会。应聘者需对无线系统有端到端的了解，涵盖3GPP标准、功能定义与规划、设计以及软硬件架构，以实现领先的性能和功耗优化。职责包括定义下一代蜂窝调制解调器的功能与需求、设计提升性能与能效的算法，并与软硬件团队合作将技术推向市场。候选人需拥有电气工程或相关学科学位，具备至少10年蜂窝技术行业经验，熟悉蜂窝通信标准，精通MATLAB、C/C++或Python，并需具备使用生成式AI和基于大语言模型的工具加速工程流程的经验。",
               "source_url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-21T09:18:32+08:00"
-            },
-            {
-              "title": "黑色喜剧《旺达在哪里》第二季登陆Apple TV",
-              "brief": "Apple TV黑色喜剧《旺达在哪里》第二季首集现已上线，距第一季于2024年11月13日完结近两年。该剧讲述克拉特一家寻找失踪女儿的故事：因不满当地警方的调查，他们决定自行展开搜寻，沿途揭开了邻居们的黑暗秘密。在第二季中，克拉特一家本以为生活终于恢复正常，女儿旺达却被发现站在一具尸体旁，看似行凶被抓现行。一家人必须竭尽全力证明她的清白，寻找真凶的调查将他们带入宁静郊区小镇的犯罪地下世界。首集播出后，其余七集将每周更新，直至12月9日播完。Apple TV订阅费为每月14.99美元，也可通过Apple One套餐获得。",
-              "source_url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-21T09:01:09+08:00"
-            },
-            {
-              "title": "Sensor Tower：Meta Muse 应用40天内美国下载量突破1000万",
-              "brief": "据Sensor Tower数据，Meta的Muse应用在美国上线仅40天下载量就突破1000万，成为2015年10月以来第12个达成此成就的应用。此前该应用曾连续12天位居美国App Store榜首。作为对比，ChatGPT、Grok和Claude在上线后前40天的美国下载量分别仅为370万、50万和20万。ChatGPT同期全球下载量约1500万，美国、日本、巴西和德国分别占25%、9%、6%和5%，且近30天美国下载量环比下降25%。尽管安全研究人员发现Muse的对话分享功能可能泄露敏感信息，Meta已暂停该功能进行调查，但数据显示Muse的用户留存率仍优于其他AI竞争对手。",
-              "source_url": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-21T04:45:05+08:00"
-            },
-            {
-              "title": "苹果“明日设计师”展览展示新锐设计师创意作品",
-              "brief": "苹果与Design Miami合作举办的第二届“明日设计师”展览今日在巴黎Hôtel de Maisons开幕。本次活动聚焦“在场”主题，展示五位新锐设计师将苹果产品融入创作过程的原创作品，探讨现代社会快节奏中仍能吸引公众注意力的事物。参展设计师包括Salem S. Charabi、Isabel Rower、Yoonjeong Lee以及设计工作室Parafernalia，由苹果工业设计副总裁Molly Anderson等人组成的评审团选出。Charabi使用MacBook Pro进行素描和3D建模，Lee用iPad Pro和Apple Pencil绘制草图，Rower用iPhone记录创作过程并用Keynote进行图文实验，Parafernalia则借助iPhone、iPad Pro和Procreate进行远程协作。",
-              "source_url": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-21T04:07:26+08:00"
-            },
-            {
-              "title": "约翰·特努斯谈其在苹果设计团队中的参与",
-              "brief": "约翰·特努斯上月正式出任苹果CEO后，多方报道称他投入大量时间亲身参与苹果设计团队的工作。他近日接受《时代》杂志采访时谈到新角色、交接过程及当前工作重点，并回应了设计参与度的问题。特努斯表示，自己出身机械工程师，自加入苹果以来一直与工业设计师密切合作。他强调设计是苹果的核心，“设计对我们意味着一切”，无论软件还是硬件设计师都深刻理解工程，工程师也高度重视设计，双方从一开始就紧密协作，而非设计师画好图纸后交给工程师执行。他没有直接证实自己格外深入参与设计团队，但重申了设计在公司中的中心地位。",
-              "source_url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-21T03:51:56+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "三星开始为多款热门 Galaxy 手机推送 Android 17 更新",
+              "brief": "三星正在持续扩大 One UI 9（基于 Android 17）的推送范围，目前已覆盖数十款 Galaxy 设备。上代旗舰 Galaxy S23 系列已在韩国获得稳定版更新，并已登陆欧洲，预计很快将进入美国等其他市场。Galaxy Z Fold 5 和 Z Flip 5 也正在韩国和欧洲接收更新，更多地区将陆续跟进。同时，多款热门 Galaxy A 系列手机也开始获得 One UI 9 更新，包括 Galaxy A57、A37、A27、A56 和 A36 等机型。此外，Galaxy A16 的 One UI 9 测试计划接近尾声，其稳定版 Android 17 更新可能仅数周之遥。",
+              "source_url": "https://9to5google.com/2026/10/21/samsung-android-17-update-galaxy-a-s23-more/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-21T19:00:00+08:00"
+            },
             {
               "title": "谷歌向 Nest Hub 推送小幅更新",
               "brief": "谷歌于10月20日开始向 Nest Hub、第二代 Nest Hub 和 Nest Hub Max 三款智能显示屏推送更新，该更新基于谷歌的 Fuchsia OS 构建。官方发布说明没有提供太多具体细节，仅提到此次更新包含错误修复和安全性更新，包括关键安全改进。谷歌在9月曾为智能显示屏推送两次更新，今年以来累计已接近十次。不过这些更新均未带来任何面向用户的新功能，很可能只是对平台进行常规维护。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
               "source_name": "9to5Google",
               "published_at": "2026-10-21T04:31:34+08:00"
-            },
-            {
-              "title": "《Payday: Aces High》测试开启，本周参与可获免费面具",
-              "brief": "VR 游戏《Payday: Aces High》第二轮公开测试已于 10 月 19 日至 26 日在 Steam 和 Meta Quest 平台开启，玩家可通过商店页面参与，并可获得测试专属的限量版 Kitty 面具。游戏将于 11 月 5 日正式发售，登陆 Meta Quest、SteamVR 和 Steam Frame 平台，售价 24.99 美元。游戏中玩家与另外三人组队执行抢劫任务，潜行和巧妙玩法可获得更多收益。本作带来全新故事和新主角，支持自然肢体语言互动，玩家可用游戏内货币解锁新武器、陷阱、面具和能力。正式版首发约含七个任务，后续将追加更多内容。",
-              "source_url": "https://9to5google.com/2026/10/20/payday-aces-high-playtest-meta-quest-free-mask/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-21T04:30:00+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "倍思 PrimeSentinel U2 Pro 家用安防摄像头具备 clever 威慑入侵者的独特功能",
+              "brief": "Android Authority 报道了倍思 PrimeSentinel U2 Pro 家用安防摄像头，这款产品在设计上采用了一种巧妙的方式来威慑入侵者。原文正文页面因 Cloudflare 安全拦截无法正常访问，具体功能细节未能获取。从标题可知，该摄像头可能具备主动跟踪或警示类功能，能够对闯入者形成有效震慑，从而提升家庭安全防护能力。关于其具体配置、工作原理及售价等信息，需待原文页面恢复访问后进一步确认。",
+              "source_url": "https://www.androidauthority.com/baseus-primesentinel-u2-pro-security-camera-spotlight-follow-3725939/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-21T20:10:31+08:00"
+            },
+            {
+              "title": "Odin 3 Portal 掌机本周发售，搭载 Elite 芯片，价格低于预期",
+              "brief": "Android Authority 报道，AYN Odin 3 Portal 掌机将于本周正式发售。该机搭载 Elite 级别处理器，性能表现备受期待。此次公布的价格低于外界此前预期，性价比表现较为出色。原文正文因 Cloudflare 安全拦截暂时无法访问，具体售价数字、各版本配置差异以及首发地区的销售安排等信息暂未获取。从标题信息来看，这款搭载 Elite 芯片的安卓掌机有望成为近期掌机市场关注的产品之一，详细参数需等待官方或原文进一步披露确认。",
+              "source_url": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-21T19:34:58+08:00"
+            },
+            {
+              "title": "热销机型三星 Galaxy A55 开始推送稳定版 One UI 9（基于 Android 17）",
+              "brief": "Android Authority 报道，三星畅销机型 Galaxy A55 终于开始接收稳定版 One UI 9 更新，该系统基于 Android 17 打造。作为三星旗下销量靠前的中端手机，Galaxy A55 的此次系统升级受到较多用户关注。原文正文因 Cloudflare 安全拦截无法正常访问，具体推送时间表、覆盖地区、更新内容清单以及分批推送的节奏等细节暂未获取。用户可在系统设置中手动检查更新，以确认自己的设备是否已纳入本次稳定版升级范围之内。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-a55-stable-one-ui-9-rollout-3725983/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-21T19:31:04+08:00"
+            },
+            {
+              "title": "多名三星 Galaxy Watch 用户反映手腕出现类似灼伤的痕迹",
+              "brief": "Android Authority 报道，近期有多名三星 Galaxy Watch 智能手表用户反映，佩戴手表的手腕部位出现了类似灼伤的痕迹，情况令人担忧。此类问题可能与设备过热有关，引发用户对手表安全性的关注。原文正文因 Cloudflare 安全拦截暂时无法访问，涉及的具体手表型号、受影响用户数量、问题出现的具体场景以及三星官方的回应和处理方案等信息均未获取。建议遇到类似情况的用户暂时停止佩戴，并及时联系三星客服寻求解决办法。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-watch-overheating-wrist-burn-reports-3725942/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-21T19:28:22+08:00"
+            },
+            {
               "title": "新机搭载骁龙8 Elite Gen 6 配散热风扇与超大电池",
               "brief": "Android Authority 报道，一款新手机将搭载骁龙8 Elite Gen 6 处理器，并配备主动散热风扇以保障高性能持续输出。该机还内置容量高达10000mAh的超大电池，续航表现突出，此外在快充、屏幕等方面也有相应升级。这款定位游戏或高性能场景的新机，凭借旗舰芯片、风扇散热和大电池的组合，在同类产品中颇具竞争力，吸引了众多关注。",
               "source_url": "https://www.androidauthority.com/honor-win-2-series-12000mah-battery-3725933/",
               "source_name": "Android Authority",
               "published_at": "2026-10-21T18:37:15+08:00"
-            },
-            {
-              "title": "Google Photos 热门功能或将更名 并伴随多项修复更新",
-              "brief": "Android Authority 报道，Google Photos 中一项备受关注的亮点功能可能即将进行品牌更名。从最新版本代码的线索来看，该功能的名称或将在后续更新中发生变化。与此同时，此次更新还带来了一系列问题修复和其他改进，以提升应用的整体稳定性与使用体验。更名后的功能预计将随新版本一同推出，具体上线时间尚待谷歌官方确认。",
-              "source_url": "https://www.androidauthority.com/google-photos-highlight-video-rebrand-other-improvements-3725929/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-21T18:22:13+08:00"
-            },
-            {
-              "title": "Pixel VIPs 实际体验超出预期 让人爱不释手",
-              "brief": "Android Authority 编辑分享了对 Pixel VIPs 功能的上手体验。作者坦言最初并未对该功能抱有太高期待，但在实际使用后却发现它远超预期，如今已经离不开这项功能。Pixel VIPs 允许用户将特定联系人设为优先，即便手机处于勿扰模式，来自这些重要联系人的来电和通知依然能够送达。作者认为这项功能在实用性和便利性上表现出色。",
-              "source_url": "https://www.androidauthority.com/pixel-vips-hands-on-3722683/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-21T18:00:36+08:00"
-            },
-            {
-              "title": "将 Claude、Gemini 与 ChatGPT 分场景使用 体验喜忧参半",
-              "brief": "Android Authority 编辑分享了自己将 Claude、Gemini 和 ChatGPT 三款 AI 助手按工作、家庭和日常休闲三类场景分开使用的 setup 方案。作者根据各模型在不同任务中的表现进行分工，例如写作、编程、日常问答等。不过实际体验下来，这种按场景分配的做法效果喜忧参半，既有出色表现，也存在不尽如人意之处。作者详细分析了各模型的优劣与适用场景。",
-              "source_url": "https://www.androidauthority.com/my-claude-gemini-and-chatgpt-setup-3721781/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-21T17:30:24+08:00"
-            },
-            {
-              "title": "三星将关闭 Daily+ 智能电视中心 其刚获 Google Photos 大更新",
-              "brief": "Android Authority 报道，三星即将关停其智能电视上的 Daily+ 服务中心。值得注意的是，该平台不久前才刚刚获得 Google Photos 相关的重大功能升级，用户可以通过电视大屏浏览和展示相册内容。此次关停决定来得颇为突然，令不少用户感到意外。三星尚未详细说明关停的具体原因，相关功能后续如何过渡或替代仍有待官方进一步公布。",
-              "source_url": "https://www.androidauthority.com/samsung-daily-plus-shutdown-3725890/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-21T17:14:40+08:00"
             }
           ]
         },
@@ -169,39 +169,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "YouTube 或正在测试隐藏“踩”按钮",
-              "brief": "据9to5Google报道，YouTube似乎正在测试隐藏视频页面上的“踩”按钮。近日至少两名X平台用户分享截图显示，“踩”按钮已被移至三点式更多菜单中，另有一名Reddit用户发图称其页面上“踩”按钮已消失。目前对多数用户而言，“踩”按钮位于视频下方点赞按钮旁边，若被移入子菜单，使用门槛将明显提高，使用人数可能随之减少。尚不清楚该测试的覆盖范围有多广，谷歌也未立即回应置评请求。YouTube此前曾对“踩”功能做出调整，2021年隐藏了视频的公开“踩”计数，以帮助保护创作者免受骚扰。",
-              "source_url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+              "title": "The Verge 高级评测人在线答疑：iPhone Duo 使用体验",
+              "brief": "The Verge 高级智能手机评测人 Allison Johnson 已连续一周使用苹果首款折叠屏 iPhone Duo，并与主编 Nilay Patel 合作撰写评测。期间她反复展开、翻转、折叠这款设备，对它的各种特性已有深入了解。iPhone Duo 是 iPhone 首次经历重大形态变革，苹果对如何使用它也有自己独特的设定。评测已覆盖 Duo 的多数功能，但仍有大量话题可以讨论。Verge 订阅者即日起可在评论区提问，作者于太平洋时间上午 8 点半开始集中解答。",
+              "source_url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T20:00:56-04:00"
+              "published_at": "2026-10-21T08:15:00-04:00"
             },
             {
-              "title": "法官驳回萨姆·奥尔特曼妹妹的性虐待诉讼",
-              "brief": "周二，美国地方法官扎卡里·布鲁斯通驳回了安·奥尔特曼去年提起的诉讼。该诉讼指控其兄长、OpenAI首席执行官萨姆·奥尔特曼在她童年时期对她实施性虐待。据《卫报》此前报道，法官写道，在过去一年里，安未能出席独立医学检查，也未能满足其他期限要求，尽管此前已被警告这样做将导致案件被驳回。该诉讼被驳回时附带了不予再诉的裁决，意味着此案不能重新提起。案件提起时，萨姆·奥尔特曼与其母亲及兄弟曾发表声明称，安的指控极具伤害性且完全不属实，给全家带来巨大痛苦。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+              "title": "Spotify 推出首款原生车载应用，率先登陆奥迪车型",
+              "brief": "Spotify 周三宣布推出基于谷歌 Android Automotive 操作系统构建的下一代完全原生车载应用。该独立应用即日起在部分奥迪车型上推出，直接运行在车机信息娱乐硬件上，无需手机连接、蓝牙配对或辅助音频线。此举表明 Spotify 准备突破目前主导车内媒体消费方式的 Apple CarPlay 和 Android Auto 手机投屏系统。数据显示，34% 的 Spotify 月活用户和 77% 的付费订阅用户在车内流媒体播放音乐，车载场景对其至关重要。",
+              "source_url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T19:04:19-04:00"
+              "published_at": "2026-10-21T08:00:00-04:00"
             },
             {
-              "title": "特朗普向尼克·雪莉奖励一万美元，并启动2500万美元欺诈举报悬赏计划",
-              "brief": "特朗普与副总统万斯周二宣布，美国政府将向右翼 YouTuber 尼克·雪莉奖励一万美元，并启动一项2500万美元的公众欺诈举报悬赏计划。2025年12月，雪莉发布了一段走红网络的视频，指控明尼苏达州由当地索马里社区运营的托儿中心存在欺诈行为。他徘徊在停车场并要求进入托儿中心，将遭拒视为未实际照看儿童的证据。视频迅速传播，引发大规模政府反应：联邦移民执法人员进驻明尼阿波利斯地区，特朗普政府还冻结了明尼苏达州的联邦儿童保育资金。此后雪莉又前往其他州继续调查。",
-              "source_url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+              "title": "iPhone Duo 哑光内屏广受好评，评测人称其为最大亮点",
+              "brief": "iPhone Duo 虽然带有第一代产品常见的种种不成熟之处，但 The Verge 评测人 Allison Johnson 认为苹果在一个设计决策上做对了：内屏的哑光处理。过去一周她用这块屏幕在飞机上看电影、浏览照片和阅读，深感受益，认为哑光内屏是 Duo 最出色的部分，并希望其他折叠屏厂商效仿。该机 7.6 英寸内屏采用纳米纹理工艺，发布前出人意料。过去五年她体验过约十款书页式折叠屏手机，内屏无一例外都是亮面，且在阳光下常难以看清。",
+              "source_url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T18:20:11-04:00"
+              "published_at": "2026-10-21T08:00:00-04:00"
             },
             {
-              "title": "谷歌更个性化的Gemini AI将登陆汽车",
-              "brief": "谷歌正在为车载 Gemini AI 引入个性化智能功能。借助此次更新，Android Auto 以及内置谷歌系统的汽车中的 Gemini 可以调用用户在 Gmail、日历、地图、照片、YouTube 和搜索等谷歌应用中的信息。谷歌举例称，开车去机场时可以询问航班状态，Gemini 能从 Gmail 中的确认邮件提取航班信息并查询动态。用户还可以直接说带我去医生诊所，而无需手动查找路线，或要求它找到上周照片中的洗车点并导航前往。谷歌去年将 Gemini 引入 Android Auto，今年4月推广至内置谷歌系统的汽车，福特、通用、本田、日产等多家车企均已支持。",
-              "source_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+              "title": "The Verge 评测：iPhone Duo 是混乱而昂贵的尝试",
+              "brief": "The Verge 主编 Nilay Patel 与评测人 Allison Johnson 联合发布 iPhone Duo 评测，称其为苹果多年来最具风险的产品。Duo 是对 iPhone 定位的彻底重构，蕴含许多未来可能大放异彩的精彩想法，但那样的未来尚未到来。它也是苹果长期以来最混乱的第一代产品之一，如今能让科技爱好者和尝鲜者兴奋，却可能让普通用户感到困扰。上一次 iPhone 的重大变化还是近十年前取消 Home 键的 iPhone X，而渐进式改良一直是苹果整个业务的基石，大刀阔斧的改动风险极高。",
+              "source_url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T18:11:34-04:00"
+              "published_at": "2026-10-21T08:00:00-04:00"
             },
             {
-              "title": "马斯克称特斯拉与SpaceX正讨论可能的合并",
-              "brief": "马斯克周二在 SpaceX 第三季度财报电话会议上表示，特斯拉和 SpaceX 已成立特别委员会，讨论两家公司合并的可能性。他称合并是个好主意，但强调并非板上钉钉。马斯克同时担任两家公司 CEO，他表示特别委员会是应股东要求成立的，由独立董事组成，但他并未透露成员姓名。马斯克指出，他既不是任何委员会成员，也未参与相关讨论。他说：由于我属于利益冲突方，不能参与特别委员会的讨论，这就像一场奇怪的政治表演，两拨人在商谈而我却无法在场。目前双方尚未就任何交易条款达成一致。",
-              "source_url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+              "title": "PHP 严重漏洞今日紧急修复，波及全球四成以上网站",
+              "brief": "广泛用于网站和网络应用开发的 PHP 编程语言预计今日发布安全补丁，修复两个严重漏洞。PHP 开发团队周二发布公告称，漏洞严重程度评分为 10 分制中的 9.2 分，若不及时修复可能对互联网造成大范围破坏。部分网络安全机构建议，无法立即安装修复程序的网站可暂时将系统下线以防风险。补丁预计于美东时间上午 10 点发布，但开发方表示，若漏洞细节提前公开或出现漏洞被主动利用的证据，可能会提前发布补丁。",
+              "source_url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
               "source_name": "The Verge",
-              "published_at": "2026-10-20T17:30:24-04:00"
+              "published_at": "2026-10-21T07:49:17-04:00"
             }
           ]
         },
@@ -254,6 +254,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《怪物史莱克2》重制版PC配置要求惊人 玩家热议",
+              "brief": "《怪物史莱克2》重制版拥有更优质的材质、强化的界面和4K分辨率支持，但其PC配置要求令玩家大为惊讶。根据Steam页面信息，仅运行该作就需要GeForce RTX 4060或RTX 3060 Ti显卡，若要获得最佳体验则推荐RTX 4070或RTX 5070，显存需求高达12-16GB。不少玩家吐槽，自己能以最高画质运行《荒野大镖客2》，却可能带不动这款22年前游戏的画面升级，认为对一款GameCube游戏重制版而言要求过高。也有玩家担心这是“氛围编码”产物，但Steam上目前没有任何AI使用披露。该重制版由Aspyr开发，其宣传预告片恶搞了《GTA6》，定于11月10日发售。",
+              "source_url": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+              "source_name": "IGN",
+              "published_at": "2026-10-21T17:53:34+08:00"
+            },
+            {
+              "title": "索尼推送PS5新固件更新 破解竞赛升温",
+              "brief": "索尼现已推出PS5固件更新26.07-14.20.00，体积为1.2GB。官方更新说明称此次更新仅改进了部分界面的消息显示和可用性，但有观点认为其可能在底层执行了其他功能。此次更新发布的时机正值《GTA6》发售前夕，PS5破解竞赛不断升温，外界猜测索尼或许通过固件更新修复潜在安全漏洞，以阻止破解进展。此外，文章还提到2025年已过半，IGN借此机会回顾并更新了PS5最佳游戏榜单，由编辑团队共同投票选出前25名，聚焦拥有PS5专属版本的游戏，旨在推荐值得一试的优秀作品，供玩家参考。",
+              "source_url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+              "source_name": "IGN",
+              "published_at": "2026-10-21T17:36:28+08:00"
+            },
+            {
               "title": "《KPop Demon Hunters 2》将院线上映，前作流媒体大获成功",
               "brief": "据《好莱坞报道》10月20日文章披露，Netflix前电影主管Dan Lin协助为《KPop Demon Hunters 2》争取到院线上映，但该消息尚未正式公布。2025年11月Variety曾报道Netflix与索尼签约制作第二部动画电影，计划2029年上映。The Wrap同期透露该系列还将推出真人电影、舞台剧及两部续集组成三部曲，另有衍生剧和短片。联合导演Maggie Kang表示已为Huntrix守护Honmoon的故事埋下大量伏笔。首部电影成为Netflix史上观看量最高作品，并衍生出万圣节服装、跟唱版及奥斯卡现场演出等。",
               "source_url": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
@@ -273,26 +287,19 @@
               "source_url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
               "source_name": "IGN",
               "published_at": "2026-10-21T06:45:55+08:00"
-            },
-            {
-              "title": "梅尔·布鲁克斯坚持先拍完自己在《太空炮弹2》中的戏份",
-              "brief": "演员Daphne Zuniga在周末90年代漫展上透露，梅尔·布鲁克斯参与了《太空炮弹2》的编剧工作并影响很大，他坚持先拍摄自己的戏份，理由是“你们最好现在就拍我，因为我已经100岁了”。Zuniga回归饰演Vespa（现为女王），Bill Pullman饰演Lone Starr，其子Lewis Pullman饰演两人的孩子Prince Starburst。Rick Moranis也回归饰演Dark Helmet。续集阵容还包括Josh Gad、Keke Palmer和Anthony Carrigan。影片由Josh Greenbaum执导，亚马逊米高梅计划2027年上映。",
-              "source_url": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
-              "source_name": "IGN",
-              "published_at": "2026-10-21T05:46:43+08:00"
-            },
-            {
-              "title": "《GTA6》中的啤酒品牌即将成为现实产品",
-              "brief": "美国烟酒税贸易局已批准多款啤酒商标，其中包括《GTA》系列中曾出现过的品牌，如Patriot Beer和Pißwasser，以及全新品牌No Mames Vice City，其标签上印有戴墨镜、挂罪恶之城项链的小狗图案。这些酒由佛罗里达州酿酒厂Tripping Animals Brewing生产。其中No Mames Vice City拉格酒精度为6%，另两款为4.2%，与百威淡啤相同。目前尚不清楚这些饮品的销售时间与地点，可能仅限迈阿密及周边酒吧。Rockstar近日还在迈阿密、巴黎、纽约等地大规模投放《GTA6》广告。游戏将于11月19日登陆Xbox Series X|S和PS5。",
-              "source_url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
-              "source_name": "IGN",
-              "published_at": "2026-10-21T05:07:11+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "openEuler 在欧洲推广国产发行版",
+              "brief": "在开源欧盟峰会上，推广 Linux 发行版的展位非常少，最显著的是两个中国发行版项目，其中展位最大的是 openEuler。openEuler 是华为 EulerOS 的社区版本，它不再是华为的项目，而是由开放原子开源基金会托管。开放原子开源基金会成立于 2020 年，创始成员包括华为、阿里巴巴、百度、腾讯和浪潮等。EulerOS 以及浪潮的 K/UX 最早都基于 CentOS 项目，而 CentOS 于 2020 年宣布切换到滚动发行版 CentOS Stream。openEuler 提供了将 CentOS 系统迁移到 openEuler 的工具。它采用类似 Ubuntu 的发布模式，有长期支持版本 LTS 和短期版本，最新版本为 v26.09，最近的 LTS 版本是 v24.03，支持 RISC-V 和龙芯 LoongArch 架构。",
+              "source_url": "https://www.solidot.org/story?sid=85674",
+              "source_name": "Solidot",
+              "published_at": "2026-10-21T19:13:23+08:00"
+            },
             {
               "title": "联合国报告警告到 2050 年全球升温可能突破 2°C",
               "brief": "联合国环境规划署发表《Emissions Gap Report 2026》报告，警告除非加快减排步伐，到本世纪中叶全球升温幅度极有可能突破 2°C。要将升温峰值控制在 1.7 至 1.8°C 之间，需在本十年末将排放量较 2025 年水平削减 18%，到 2035 年削减 45%，五年后再削减 69%。报告称，如果当前政策持续下去，本世纪内全球变暖可能达到 2.8°C，此后还将继续上升。由于美国退出气候协议以及对历史排放量的修订估计，这些结果比去年的预测更为严峻。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.solidot.org/story?sid=85669",
               "source_name": "Solidot",
               "published_at": "2026-10-21T15:03:59+08:00"
-            },
-            {
-              "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
-              "brief": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，无法保证满足所有订单，合作伙伴实际能拿到的产品数量可能仅为所提出数量的 5% 到 10%。英伟达 2027 年全球 RTX PRO 5500 显卡的产量上限为 300 万张，而中国客户的订单总量已超过 600 万张。",
-              "source_url": "https://www.solidot.org/story?sid=85668",
-              "source_name": "Solidot",
-              "published_at": "2026-10-20T23:55:15+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Synaptics推出Astra SR200边缘AI处理器 最高400 GOPS并集成Google Coral NPU",
-              "brief": "Synaptics发布Astra SR200系列边缘AI处理器，包含三款引脚兼容型号，采用Arm Cortex-M85与Cortex-M52双核组合，AI算力分别为200、300和400 GOPS。SR210面向常开语音和感知应用，SR230增加视觉、显示及可选音频处理，SR250面向双视觉、双显示等复杂多模态应用，三款芯片可共用板级设计。芯片搭载Torq AI引擎，并集成Google第二代Coral NPU架构，该架构采用开放RISC-V设计，配套MLIR/IREE开源编译工具链，可处理CNN、Transformer等模型。内存方面，SR200将最多8MB SRAM与可扩展至数百MB的定制高带宽DRAM整合于封装内，官方称其功耗约为典型系统DRAM的三分之一。芯片还配备2.5D图形处理器、图像处理管线和显示接口，工业版提供千兆以太网、TSN及双CAN-FD接口，安全上目标符合PSA Level 3与CC EAL4+认证要求。双方还推出基于SR250的Coralboard SR开发板，SR200系列已正式发布，但售价与终端上市时间尚未公布。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583224.htm",
+              "title": "PHP曝出严重安全漏洞 全球网站运营商紧急进入修补状态",
+              "brief": "PHP开发团队公告披露两项严重程度评分均为9.2分的漏洞，涉及远程代码执行风险，官方定于2026年10月21日发布修复版本。PHP广泛应用于WordPress、Drupal等主流系统，研究人员估计受影响联网主机可能超过130万台。由于漏洞存在于PHP本身而非应用层面，管理员需单独升级服务器环境。CERT-EU与英国国家网络安全中心建议无法及时修复的组织暂时隔离或下线相关网站。Cloudflare已观察到早期攻击迹象并临时调整防火墙规则，Sansec预计补丁公开后15分钟内可能出现大规模攻击。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583238.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-21T17:12:44+08:00"
+              "published_at": "2026-10-21T19:52:37+08:00"
             },
             {
-              "title": "苹果CEO特努斯谈好设计：用户体验优先，设计与工程密不可分",
-              "brief": "苹果CEO特努斯近日谈及其对好设计的理解，他表示华而不实、分散注意力的想法通常会被剔除，但产品也不必完全严肃，例如新款iPhone Duo展开内屏的动画并不承担功能，却能带来乐趣。他还介绍了Kids Cue功能，在外屏显示史努比等角色吸引儿童看向镜头。特努斯拥有机械工程背景，认为苹果最特别之处在于设计处于公司核心位置，设计师理解工程，工程师尊重设计，双方从项目伊始便共同参与开发。在AI领域，他认为用户不应必须理解技术才能感受价值，苹果更关注结合设备个人信息提供个性化体验。他强调，无论技术如何变化，设计与工程深度融合的工作方式将继续成为苹果发展的基础。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583222.htm",
+              "title": "富士康加码美国AI布局 斥资逾5400万美元扩展硅谷生产基地",
+              "brief": "富士康通过美国子公司Q Edge Corporation在加州圣克拉拉购入两处物业，面积分别约4.58万和6.43万平方英尺，交易金额约5460万美元，文件中均归类为工厂空间。圣克拉拉位于硅谷核心区，邻近英伟达、AMD等企业。Q Edge此前已获约1.88亿美元资本注入，市场认为将用于扩大AI硬件及AI服务器机架产能。富士康近年还在德州、威斯康星州、俄亥俄州等地强化研发布局，并扩展台湾、墨西哥和越南产能。此次扩张被视为其深化美国本土AI制造战略、争取更多订单的重要一步。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583236.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-21T16:41:32+08:00"
+              "published_at": "2026-10-21T19:35:26+08:00"
             },
             {
-              "title": "特斯拉Roadster电池曝光：10分钟补能70%",
-              "brief": "特斯拉Roadster电池细节曝光，其采用4680圆柱电芯和镍基锂离子化学体系，专为高强度功率输出定制，官方称整车续航可突破483公里。顶配版搭载双后置电机，峰值功率达1341马力，峰值扭矩1399牛·米，极端工况下电池发热压力巨大。为此特斯拉做了多重升级：每颗电芯两侧配备冷却管路，外壳由钢材改为铝材以减重并提升导热，电池包上盖使用钛板兼顾轻量与隔热，底部保留铝制护板保障抗冲击能力。快充是一大亮点，电量可在十分钟内从15%提升至85%，即十分钟补充七成电量。相比之下，AMG GT需11分钟完成相近区间充电，多数高端纯电跑车10%-80%充电需16至20分钟，Roadster快充实力已跻身第一梯队。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583220.htm",
+              "title": "美光与台湾台中工会达成劳资协议 桃园厂工会罢工计划仍存变数",
+              "brief": "美光与代表台湾最大运营基地员工的台中工会达成劳资协议，具体条款未公开，原定10月22日的调解不再需要。美光在台湾约有1.5万名员工，台中约1.23万人，桃园约3000人，主要生产DRAM和高带宽内存。桃园工会诉求仍未解决，此前宣布将于10月22日举行一天警告性罢工，要求将营业利润的15%用于员工奖金、按季度分配，并批评现有激励薪酬缺乏透明度。随着AI推动HBM需求激增，若发生持续停工可能影响全球存储芯片供应。桃园工会是否如期罢工仍待确认。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583234.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-21T16:00:27+08:00"
+              "published_at": "2026-10-21T19:35:04+08:00"
             },
             {
-              "title": "马斯克称X等社交平台负面信息过多：显得有些阴暗",
-              "brief": "马斯克近日表示，像X这样的社交媒体平台有时会显得有些阴暗，平台上充斥着太多旨在煽动政治愤怒的内容。他建议用户偶尔应离开电脑，走到户外去接触草地。马斯克承认社交媒体有时会产生误导，因为它呈现出各种令人沮丧、悲观的情景，而这些情景未必与个人所处的现实环境相符。他举例说，尽管网上声称现在出门已不再安全，但人们依然可以在环境良好的社区里散步。他表示，在看待新闻或现实事件时，人既可能身处现实世界的积极认知圈，也可能陷入社交媒体营造的负面信息茧房，两种情况都有可能出现。除社交媒体外，他还通过交谈和研究了解热点话题。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583218.htm",
+              "title": "亚特兰大拟禁止“机器警察”上岗 市议会一致支持限制武装机器人",
+              "brief": "美国亚特兰大市议会以15比0全票通过法案，禁止市政府员工、承包商及警察部门采购、接收或部署配备武器的自主系统、无人机和远程操控机器人，涵盖武装无人机、机器狗等设备，但拆弹专用机器人除外。提案人巴赫蒂亚里表示，立法目的在于确保致命武力使用必须保持人为控制，人工智能不应取代警员作出关键决策。推动因素之一是美国防部近期成立“自主作战司令部”，她担心军事自主技术未来流入地方执法领域。2023年旧金山曾批准警方用机器人实施致命武力，因公众反对一周内撤销。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583232.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-21T16:00:03+08:00"
+              "published_at": "2026-10-21T19:31:20+08:00"
             },
             {
-              "title": "英伟达旗下Groq下一代LPU将转向3D堆叠DRAM，瞄准大模型容量需求",
-              "brief": "英伟达旗下Groq此前推出LPX机架产品并纳入Vera Rubin生态，该机架今年8月全面量产，与NVL72协同可实现每秒3400个Token的推理速度。现有一代Groq LPU采用500MB SRAM，带宽150TB/s，单颗提供约1.20 PFLOPs的FP8算力。但据报道，下一代产品将放弃单纯依赖SRAM的方案，转而采用DRAM并结合3D堆叠封装技术，通过TSV硅通孔实现层间连接，理念与HBM相似。DRAM容量远高于SRAM，但带宽和访问速度较低，此举被解读为大幅提升存储容量，以应对生成式AI模型规模扩大带来的大容量高速内存需求。未来Groq或将DRAM与SRAM产品线并行，按场景提供差异化方案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583216.htm",
+              "title": "SK海力士加速部署iHBM技术 新一代HBM散热能力提升30%",
+              "brief": "SK海力士开发出iHBM技术，在HBM封装内部引入名为ICE的集成散热元件。该元件采用高导热但不导电的硅基材料，直接置于热量最集中区域，提供额外散热通道，可将热阻降低约30%，帮助芯片在高温高负载下稳定运行。该技术建立在公司现有MR-MUF封装工艺和晶圆级封装基础上，具备量产可行性，并与系统级封装架构高度兼容，客户无需大幅重新设计。SK海力士计划将iHBM应用于HBM5等下一代产品。随着AI训练推动HBM堆叠层数增加，散热能力正成为行业竞争的核心指标。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583230.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-21T15:55:14+08:00"
+              "published_at": "2026-10-21T19:27:41+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "中俄团队完成“全球首例”脊髓移植手术，患者术后状况良好",
-              "brief": "中俄团队为一名原本面临完全瘫痪的患者实施脊髓移植手术，手术历时12小时。手术使用聚乙二醇（PEG）作为“生物胶水”，配合显微外科技术将供体脊髓两端与受体自身脊髓融合。主刀医生称已向患者告知全部潜在风险，患者目前状况良好，俄方团队稍后将发布描述手术的文件。莫斯科市长于10月16日披露了这例手术，并将其定位为“俄罗斯首例脊髓移植”，提到手术有中国同事参与和技术转移。不过“世界首例”的说法目前仅来自主刀医生本人及合作的意大利医生，尚无独立第三方或学术文献确认。",
-              "source_url": "https://www.ithome.com/1/016/064.htm",
+              "title": "小米雷军：智能网联汽车“下半场”比的不只是车有多聪明，而是生态有多强大",
+              "brief": "雷军表示，智能网联汽车“下半场”竞争的核心不仅是车辆本身的智能程度，更是生态的强大与否。小米此前宣布“人车家全生态”正式闭环，全面打通“人”“车”“家”场景，实现硬件设备无缝连接与实时协同，带动产业链合作伙伴共创以人为中心的超级智能生态。小米互联网业务部总经理刘婵在合作伙伴大会上披露，小米生态全球累计开发者数量达120万，海外月活用户数达5.5亿，应用全球月分发11亿，游戏付费用户数1800万，内容与服务订阅用户1300万。雷军还强调，汽车产业如果没有安全，其他都是零。",
+              "source_url": "https://www.ithome.com/1/016/110.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-21T18:43:29+08:00"
+              "published_at": "2026-10-21T20:49:58+08:00"
             },
             {
-              "title": "8GB 显存即可运行：5.8B 图像生成模型 FLUX 3 Image Klein 发布",
-              "brief": "Black Forest Labs 发布了5.8B参数的图像生成模型 FLUX 3 Image Klein，其 INT8 版本可通过 ComfyUI 或 Diffusers 在仅配备 8GB 显存的 NVIDIA GeForce RTX GPU 上运行。据测试，INT8 版本在 GeForce RTX 5090 上生成 1MP 图像约需4秒，在 RTX 4070 上不到9秒。该模型支持文本转图像、图像编辑、多参考生成，原生支持 4K 分辨率，可实现像素级精确编辑和稳定的图案限位表现。官方称其在多个场景下优于尺寸更大的开源模型，在速度与质量的平衡上表现更好。",
-              "source_url": "https://www.ithome.com/1/016/062.htm",
+              "title": "豆包手机助手更新拒绝操作应用清单，主动限制金融类应用操作能力",
+              "brief": "豆包手机助手此前推出屏幕自动化操作声明协议（SAEP），针对图形界面智能体的跨应用操作搭建透明机制，让开发者能够清晰声明其应用与Agent的高效互动策略。10月14日，豆包手机助手宣布该协议30天公示期已结束，将逐步放开第三方应用的屏幕自动化操作权限，同时公布拒绝操作应用名单，包括中国工商银行、招商银行、重庆农商行等多家金融机构。豆包手机助手表示，已明确声明拒绝的应用，智能体将不会对其进行操作；公示期结束后，开发者仍可随时声明拒绝，官方将在3个工作日内反馈。",
+              "source_url": "https://www.ithome.com/1/016/108.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-21T18:39:12+08:00"
+              "published_at": "2026-10-21T20:46:16+08:00"
             },
             {
-              "title": "李书福谈吉利与蔚来合作换电：是为了不重复建设",
-              "brief": "9月28日，蔚来与吉利控股集团达成充换电领域全面战略合作，双方将在技术、运营、资本方面全面合作，联合投资充换电业务主体公司，共享充换电技术与标准，共建充换电服务网络。吉利控股集团以其持有的易易互联100%股权及现金6.4亿元入股蔚来能源，交易完成后将持有蔚来能源30%股权，易易互联营运车辆换电业务并入蔚来能源。双方还将共建统一的C端换电技术和标准，吉利将开发面向C端的换电车型，蔚来能源为其提供服务。李书福表示，合作是为了不重复建设。",
-              "source_url": "https://www.ithome.com/1/016/061.htm",
+              "title": "英伟达 621.01 Game Ready 驱动发布：优化《影之刃零》等新游戏，修复《鸣潮》DLSS Bug",
+              "brief": "英伟达发布621.01 Game Ready正式版驱动，针对《影之刃零》《使命召唤：现代战争4》等最新游戏及更新提供最佳体验，上述作品均支持DLSS和RTX技术。本次驱动还修复多项问题：包括《鸣潮》启用DLSS帧生成并开启NVIDIA Freestyle滤镜时可能崩溃、《星际公民》使用Vulkan API时可能崩溃、《火星生存》更新R595驱动后重启游戏可能崩溃等。通用方面修复了360Hz QHD显示器游戏时偶发黑闪、360Hz G-SYNC Pulsar显示器FPS下降至320FPS、Meta Horizon Link通过USB连接时流媒体可能冻结、部分华硕笔记本更新R620驱动后间歇性调光异常等问题。该驱动适用于GeForce系列显卡。",
+              "source_url": "https://www.ithome.com/1/016/107.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-21T18:37:05+08:00"
+              "published_at": "2026-10-21T20:45:43+08:00"
             },
             {
-              "title": "英伟达黄仁勋：未来电信运营商都将提供 AI 算力",
-              "brief": "英伟达CEO黄仁勋表示，未来电信运营商都将提供AI算力，电信基站有望发展成分布式AI网络。他认为AI不再只是软件，而是像电力和互联网一样的底层工业基础设施，各层之间紧密相连、向上拉动。他还指出，AI产业的大蛋糕包含西门子能源、施耐德电气等能源企业，以及AI工厂建设商Nscale和Firebird，还包括欧洲AI模型公司Mistral、法律AI公司Legora和翻译工具DeepL等相关企业。",
-              "source_url": "https://www.ithome.com/1/016/058.htm",
+              "title": "大航跃迁首飞箭“跃迁一号”增压输送二级出流试验圆满成功",
+              "brief": "国内首家研制“筷子夹”塔架回收式可重复使用液体火箭的企业大航跃迁宣布，首飞箭“跃迁一号”增压输送二级出流试验圆满成功，为2027年首飞奠定基础。本次试验采用全尺寸贮箱工况开展氧、燃出流试验，最大程度复现飞行时真实状态，使用真实贮箱尺寸和输送管路条件，试验持续一周，覆盖飞行中出流的各关键工况。大航跃迁此前已完成国内首个“筷子夹”回收塔架地面试验，研制出首款回收塔架控制器“小火石”并多次迭代，后续规划在海上搭建回收塔架平台完成火箭回收。公司成立于2024年2月，专注中大型可重复使用运载火箭研发。",
+              "source_url": "https://www.ithome.com/1/016/106.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-21T18:25:55+08:00"
+              "published_at": "2026-10-21T20:43:40+08:00"
             },
             {
-              "title": "蔚来李斌：用户不愿意付钱，自动驾驶再好也没创造用户价值",
-              "brief": "蔚来董事长李斌表示，如果用户不愿意付钱，自动驾驶讲得再好，也没有真正创造用户价值。他此前多次解释蔚来坚持辅助驾驶订阅模式的逻辑：辅助驾驶背后存在履约、训练、通讯和升级成本，没有收入来源服务便不可持续。他还给出蔚来辅助驾驶数据：累计里程超过91.4亿公里，使用时长超1.12亿小时，避免和减轻事故超过907万次；据四家保险公司联合评估，2026年上半年蔚来主动安全系统使用户事故安全损失降低38.4%。他认为明年7月强制性国标的实施是自动驾驶进入下半场的重要标志。",
-              "source_url": "https://www.ithome.com/1/016/054.htm",
+              "title": "OpenAI 宣布入驻谷歌云平台，Gemini Agent 和 Antigravity 用户可用最新前沿模型",
+              "brief": "OpenAI宣布入驻谷歌云平台，进一步拓展其在微软以外的业务。除Anthropic最新的Claude闭源模型外，OpenAI旗下最新GPT闭源模型也将通过Google Antigravity和Gemini Agent提供，且没有被封号的风险。Gemini Agent是跨Workspace、Microsoft 365和Slack的通用工作智能体，可在不同任务之间动态路由到最合适的模型。随着OpenAI与微软独家协议于2026年4月到期，亚马逊次日宣布通过AWS Bedrock托管OpenAI模型，如今Google Cloud成为第三家。Gemini Agent于10月8日发布，当时可在Gemini和Claude模型之间路由。Google Cloud首席执行官Thomas Kurian曾表示，Google Cloud是开放平台，欢迎任何受开发者欢迎的模型。",
+              "source_url": "https://www.ithome.com/1/016/105.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-21T18:20:49+08:00"
+              "published_at": "2026-10-21T20:42:51+08:00"
             }
           ]
         },
