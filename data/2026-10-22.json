@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T20:54:58.916506+08:00",
+  "generated_at": "2026-10-22T22:54:44.646954+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,39 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果将在 App Store 为应用标注“Made for iPhone Duo”标签",
+              "brief": "苹果在新闻稿中宣布，App Store 将为适配 iPhone Duo 的应用添加“Made for iPhone Duo”标签。开发者需使用 iOS 27.1 SDK 或更新版本构建应用才能获得该优化认证。此类应用可填满 iPhone Duo 的整个内屏，工具栏会垂直显示在状态栏下方。使用 iOS 27 SDK 构建的应用可填满大部分内屏，但仍会避开右侧边缘的状态栏；而使用 iOS 26 SDK 或更早版本构建的应用虽然也能运行，但会在内屏中央显示，两侧留有大量空白。目前每天都有更多应用针对 iPhone Duo 进行优化。iPhone Duo 将于本周五正式发售。",
+              "source_url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T22:40:36+08:00"
+            },
+            {
+              "title": "亚马逊 iPad 降价 49 美元，起售价 399.99 美元",
+              "brief": "亚马逊本周对苹果第 11 代 iPad 的 Wi-Fi 版本降价 49 美元，其中 128GB Wi-Fi 版售价 399.99 美元，原价为 449 美元，这是苹果今夏涨价以来该产品出现的最低价。此外，256GB Wi-Fi 版售价 499.99 美元，同样优惠 49 美元。两款机型的免费配送预计在 10 月下旬左右送达，Prime 会员在许多地区可享受当日送达服务。128GB 版本提供全部四种颜色可选，256GB 版本则有三种颜色可选。这是自苹果夏季提价以来该款 iPad 的最佳价格水平，有需求的消费者可以关注。",
+              "source_url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T22:05:33+08:00"
+            },
+            {
+              "title": "Apple TV 上的 F1 赛事现支持杜比全景声",
+              "brief": "苹果宣布，Apple TV 流媒体服务上的 F1 赛事将开始以杜比全景声空间音频进行转播，首场赛事为 10 月 23 日至 25 日在得克萨斯州奥斯汀举行的 2026 年美国大奖赛。苹果的新闻稿详细介绍了美国大奖赛的相关信息以及观看方式。自今年 3 月起，Apple TV 已成为 F1 在美国的独家转播平台，这是双方五年合作协议的一部分。用户订阅 Apple TV 服务后，无需额外付费即可观看所有 F1 比赛，包括即将开始的美国大奖赛。",
+              "source_url": "https://www.macrumors.com/2026/10/22/f1-apple-tv-dolby-atmos/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T21:35:21+08:00"
+            },
+            {
+              "title": "苹果公布超过 50 款将为 iPhone Duo 更新的应用",
+              "brief": "苹果重点介绍了超过 50 款已适配或即将完全适配 iPhone Duo 各类布局和姿态的第三方 App Store 应用。例如 Netflix 应用允许用户在外屏上浏览竖屏影视短片，打开设备后可继续在内屏观看；MLB 官方应用已更新支持，可在内屏全宽显示实时比赛、比分和数据；Zoom 用户可同时查看共享内容和参会者；Slack 和 Lyft 也充分利用了更大的内屏。未来几周，微软 Word 和 Outlook 将推出“桌面级体验”，Word 的格式工具将与文档并排显示，Outlook 的收件箱可在完整邮件旁查看。其他适配应用还包括 Flighty、Fantastical、Things、Instagram、微博等。",
+              "source_url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T21:04:26+08:00"
+            },
+            {
               "title": "苹果封禁或可被攻击者用于伪造网站的证书",
               "brief": "苹果已在其设备上封禁一批存在安全问题的证书，以防攻击者借其冒充网站。这些证书由证书颁发机构 eMudhra 签发。据 Mozilla 调查，其私钥均为 256 以下的数字，几乎可被瞬间破解。攻击者可利用受影响的网站证书密钥伪造证书，使存在漏洞的软件予以信任。据 Mozilla 密码学工程师 Dennis Jackson 发布的公告，苹果于 10 月 19 日引入封禁措施，阻止使用苹果系统检查的软件信任这些证书。Jackson 表示，Safari 及其他主流浏览器拥有额外证书检查，本可阻止此类攻击，但攻击者是否利用了其他软件尚不清楚。相关封禁已分发，使用受影响命令行工具的 Mac 用户可在其网站查看测试与缓解方法。",
               "source_url": "https://www.macrumors.com/2026/10/22/apple-blocks-certificates-that-could-help-attackers/",
               "source_name": "MacRumors",
               "published_at": "2026-10-22T19:43:09+08:00"
-            },
-            {
-              "title": "苹果第五大道店外现巨型 iPhone Duo 装置",
-              "brief": "在 iPhone Duo 于 10 月 23 日周五开售前，苹果纽约第五大道店外广场玻璃立方体旁出现了疑似巨型 iPhone Duo 展示装置。X 上用户拍摄的照片显示，装置目前被包裹物和黑色遮罩覆盖，具体呈现方式尚不明朗。据彭博社 Mark Gurman 报道，苹果计划为第五大道店分配超过 150 台 iPhone Duo 用于演示和展示，而普通非旗舰店预计每家约 20 台。店内还将采用新的折叠屏演示方式，包括展示设备开合的固定装置，以及将展开的 iPhone Duo 与两台传统 iPhone 并排对比的 MagSafe 支架。苹果已确认美国及多个市场门店现货有限，提醒首发库存或迅速售罄，中国大陆、法国、日本等市场需在线预约取货。",
-              "source_url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T19:02:36+08:00"
-            },
-            {
-              "title": "第二代iPhone Duo原型机配备屏下Face ID",
-              "brief": "据彭博社马克·古尔曼报道，苹果第二代iPhone Duo的原型机已在外屏下方集成Face ID面部识别技术。古尔曼在其播客节目Power On中透露，苹果正在为其折叠屏iPhone添加面部认证功能，并测试预计明年秋季发布的后继机型硬件，但该功能是否会最终出货尚未确定。目前第一代iPhone Duo与iPad类似，采用侧边按键内置的指纹传感器，因其机身纤薄，难以容纳Face ID所需的深度感应组件。此前的9月，古尔曼曾预测更小的组件和人工智能进步可帮助苹果在第三代机型上加入Face ID和专用长焦相机。他还表示苹果考虑为未来机型添加操作按钮。第一代iPhone Duo将于明日发售，起售价1999美元。",
-              "source_url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T18:46:15+08:00"
-            },
-            {
-              "title": "Tesla 应用新增 iPad 和 iPhone Duo 支持",
-              "brief": "特斯拉本周更新了应用，新增对 iPad 和 iPhone Duo 的原生支持，将车辆和家用能源控制界面适配到更大的显示屏。此前 iPad 用户虽可安装 iPhone 版应用，但缺乏针对大屏幕的原生布局。新界面基本采用双栏设计，左侧为导航和控件，右侧显示车辆或家庭能源的更大可视化画面。特斯拉设计师亚历克斯·吉切特于10月21日宣布该更新，并确认同时支持安卓平板和折叠屏设备。车辆视图提供空调、充电、安全等功能入口，家用能源视图则展示太阳能板、Powerwall、家庭与电网之间的电力流动。设计团队还针对更大空间重构了多个视图，未来版本将继续改进。此次更新紧随苹果本月初开放 iPhone Duo 应用提交，应用需采用 iOS 27.1 SDK 或更高版本构建才能动态适配内屏，未优化的应用会出现黑边。Tesla 应用 4.62.0 版现已上架 App Store。",
-              "source_url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T14:48:11+08:00"
-            },
-            {
-              "title": "据报道苹果将 iPhone Duo 订单上调 44%",
-              "brief": "据 DigiTimes 报道，强劲的预订表现促使苹果向供应商追加数百万台 iPhone Duo 订单。供应链消息人士称，富士康和零部件制造商已收到指令，生产目标从 970 万台上调约 44% 至 1400 万台。据报道，调整后的目标涵盖完整 12 个月周期，而非仅 2026 年剩余时间。苹果上周形容需求“非同寻常”，10月16日预订开启后 30 分钟内，美国所有配置的发货时间均已推迟至 1 月 25 日。不过实现更高出货目标仍有挑战，此前的报道称组装、显示屏和铰链均存在制造困难，产量将取决于组装进度。DigiTimes 预计全球折叠屏手机出货量 2026 年将增长 25.7%，2027 年增长 59.1%，远高于 2025 年的 7.4%，苹果的加入将推动这一扩张。iPhone Duo 将于 10月23日上市，美国起售价 1999 美元。",
-              "source_url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T14:23:10+08:00"
             }
           ]
         },
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "iOS 27.2 为音乐和图书应用带来全新设计",
+              "brief": "iOS 27.2 将全新的视觉设计延伸至多款苹果应用。音乐应用更换了新图标，去除了原有的红色，改为黑白配色；标签栏中当前标签的强调色由红变蓝，资料库中的播放列表、艺人、专辑等版块也全部采用单色设计，主屏幕小组件的背景同样由红色改为黑色。图书应用则围绕阅读体验进行更新：新增进度条以显示阅读位置，右下角菜单更换图标并采用统一的液态玻璃样式，书签从菜单中移出，成为阅读视图右上角的独立按钮，关闭按钮移至左上角，返回按钮移至左下角且尺寸更大。这些改动可能与iPhone Duo的推出有关，其作为电子书阅读器需要标准化的界面元素以适配不同机型。",
+              "source_url": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T22:49:17+08:00"
+            },
+            {
+              "title": "爆料人称iPhone Duo后续机型屏幕将更大，或配长焦镜头",
+              "brief": "彭博社记者古尔曼在其Power On播客中透露了苹果折叠屏手机iPhone Duo后续机型的计划。他表示，苹果正在测试iPhone Duo 2的原型机，采用外屏下方屏下Face ID，并探索增加操作按钮。对于2028年的第三代机型，古尔曼称屏幕将略微软化增大，内屏约增加半英寸，尺寸接近高七英寸到低八英寸区间，而现款Duo内屏为7.6英寸。他将其比作苹果近年Pro系列机型的逐步增大策略。至于长焦镜头，古尔曼表示这确实在苹果的计划清单上，但时间未定，难点在于机身厚度所限，属于物理层面的问题，并非成本原因。",
+              "source_url": "https://9to5mac.com/2026/10/22/leaker-reveals-larger-iphone-duo-details-possible-telephoto-camera/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T22:20:22+08:00"
+            },
+            {
+              "title": "首批iPhone Duo预购订单状态已更新为已发货",
+              "brief": "iPhone Duo将于10月23日正式发售，部分预购用户发现订单状态已更新为已发货。用户可在Apple Store应用的你标签页顶部查看订单最新状态。苹果订单流程包括处理中、准备发货、已发货和已送达几个阶段。如果预估送达日期为10月23日但状态尚未更新为已发货，也不必担心，因为iPhone预购商品通常在实际运输过程中，应用状态会稍有滞后。此前预购开启后配送时间迅速延迟，部分用户排期至一月底。苹果还限制每人最多订购两台，以打击黄牛倒卖行为。",
+              "source_url": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T21:52:51+08:00"
+            },
+            {
+              "title": "报道称需求强劲，苹果将iPhone Duo订单上调超40%",
+              "brief": "iPhone Duo预购开启后，配送时间在几分钟内即开始延迟，部分用户排期至一月下旬。苹果称这是由于其首款折叠屏手机需求异乎寻常地强劲，并限制每人最多购买两台以应对黄牛。据DigiTimes援引供应链消息的报道，苹果已提升产量，预计强劲需求将持续，将首年出货目标从970万台上调至1400万台，增幅超过40%。部分早期下单用户已收到更早的预计发货日期。此外，早期用户需面对部分第三方应用尚未针对该设备优化的问题，但苹果表示随着开发者跟进，情况正在快速改善。另有报道称苹果已在测试支持Face ID的iPhone Duo 2原型机。",
+              "source_url": "https://9to5mac.com/2026/10/22/apple-reportedly-boosts-iphone-duo-orders-by-more-than-40-given-strong-demand/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T21:29:29+08:00"
+            },
+            {
               "title": "苹果称开发者对 iPhone Duo 的支持“令人惊叹”",
               "brief": "苹果表示，开发者正积极利用 iPhone Duo 的灵活性打造全新体验。其内屏比 iPhone 18 Pro Max 大 50%，支持多种使用姿态，开发者正在优化应用，涵盖拍摄分享、流媒体、游戏和多任务等场景。苹果全球开发者关系副总裁苏珊·普雷斯科特称，开发者社区的反应令人惊叹，从在内屏观看热门节目到多窗口操作和主机级游戏，开发者正在重新构想应用的可能性。首批体验将于本周五开启，Netflix、Prime Video、Paramount+ 等流媒体已适配外屏浏览与内屏大屏播放，苹果还将在 App Store 重点推荐优秀应用和游戏。",
               "source_url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-22T20:28:16+08:00"
-            },
-            {
-              "title": "PHP 重大安全漏洞曝光，大量网站被迫下线",
-              "brief": "PHP 是一种开源通用脚本语言，被全球约 70% 的网站使用。今年 8 月中旬，AI 模型和一名网络安全研究人员同时发现了 PHP 的重大安全漏洞，两个漏洞组合可让攻击者直接访问网站背后的文件系统或数据库，可能泄露大量个人数据。为给 PHP 留出修复时间，漏洞披露被延迟至本周，但已提前两天泄露。目前并非所有网站都完成修补，亚马逊云服务称漏洞正在互联网上被广泛利用。美国国家安全局建议未修补的网站在下线修复前暂停服务，因此大量商业和政府网站已暂时关闭。9to5Mac 确认其网站已受到保护。",
-              "source_url": "https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T20:10:22+08:00"
-            },
-            {
-              "title": "iPhone Duo 评测：最佳折叠屏手机，但有所妥协",
-              "brief": "各家媒体对初代 iPhone Duo 的评测呈现出罕见的共识。评测普遍认为它是目前市面上最好的折叠屏手机，苹果的长期等待是正确的。但这款手机并不适合所有人：如果主要使用外屏、每天只展开几次，单手握持的重量和特殊的屏幕形状会是明显缺点，只有经常使用展开后大屏的用户才值得购买。苹果并未消除屏幕折痕，但评测者一致认为这是折叠屏上最不明显的折痕，实际使用中几乎不是问题。此外，许多第三方应用尚未适配，最坏情况下界面会陷在黑色内屏中央；从 Face ID 回归 Touch ID 也是一项妥协。",
-              "source_url": "https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T19:44:27+08:00"
-            },
-            {
-              "title": "古尔曼：苹果正在测试带面容 ID 的 iPhone Duo 2 原型机",
-              "brief": "据古尔曼在 Power On 节目中透露，苹果内部正在测试 iPhone Duo 2 原型机，其中包含面容 ID 功能，面部识别传感器将集成在外屏的显示屏下方。初代 iPhone Duo 从面容 ID 改为触控 ID 是早期用户最大的抱怨之一，原因可能是超薄机身难以容纳相关组件。苹果一直在缩小面容 ID 体积，如 iPhone 18 Pro 已采用屏下红外摄像头。此外，员工还在探索为下一代 iPhone Duo 带来操作按钮。目前尚不确定苹果若加入面容 ID 后是否会移除电源键上的触控 ID，还是保留两种生物识别方式。该功能最早可能在明年推出，也可能推迟到 iPhone Duo 3。",
-              "source_url": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T17:56:28+08:00"
-            },
-            {
-              "title": "Security Bite 播客：你的 AI 智能体究竟在为谁工作？",
-              "brief": "本期 Security Bite 播客邀请到 Ironwall by Incogni 首席执行官 Ron Zayas。该公司帮助公职人员清除并防止个人信息被数据经纪商和人员搜索网站收录，他今年早些时候曾登上《60 分钟》节目谈论此事。本期节目围绕 AI 智能体的隐私问题展开，讨论你的 AI 智能体究竟在为谁工作。Security Bite 是 9to5Mac 每周深入探讨苹果安全世界的栏目，主持人 Arin Waichulis 解析新威胁、隐私问题和漏洞，覆盖超过 20 亿台设备的生态系统。节目可在 Apple Podcasts、Spotify 等平台收听，并定期邀请领域专家解析热点话题。",
-              "source_url": "https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T17:00:00+08:00"
             }
           ]
         },
@@ -89,39 +89,39 @@
           "name": "9to5Google",
           "articles": [
             {
-              "title": "Android 一直以最好的方式保持着混乱",
-              "brief": "作者在专栏中指出，iPhone Duo 折叠屏评测的共同结论是硬件出色但偏重、软件体验混乱。当苹果折叠屏周五上市时，早期用户将重温 Android 新形态刚出现时的感受：兴奋、粗糙又略带恼人。作者认为 Android 本质上是属于爱折腾者的系统，用户愿意在主力机上刷测试版，独立开发者也不断填补生态空白。Android 的开放、灵活与低成本使其适配各种用例和设计，也让模拟器等灰色玩法更容易实现。新形态应用尚未优化的问题，正是 Android 折叠屏曾经历过的早期阵痛。",
-              "source_url": "https://9to5google.com/2026/10/22/android-has-always-been-chaotic-in-the-best-ways-possible/",
+              "title": "三星新款Fitbit竞争产品泄露：Galaxy Fit 4曝光",
+              "brief": "三星似乎即将推出新款手环Galaxy Fit 4，作为比Galaxy Watch更实惠的替代选择。Telegram上的Cipher Project泄露图片展示了三种配色的Galaxy Fit 4。硬件与Galaxy Fit 3差别不大，但新增两种配色并调整了表带曲线，进一步向Apple Watch靠拢。Android Authority还曝光了手环视频，展示了表带机构和背部传感器。Galaxy Fit 4上市后将与Google的Fitbit Edge竞争，其价格或成优势——Galaxy Fit 3美国首发价仅60美元，现在售价更低。",
+              "source_url": "https://9to5google.com/2026/10/22/samsungs-new-fitbit-competitor-just-leaked-video/",
               "source_name": "9to5Google",
-              "published_at": "2026-10-22T19:00:00+08:00"
+              "published_at": "2026-10-22T22:20:00+08:00"
             },
             {
-              "title": "INMO GO3智能眼镜：配备显示屏、集成Gemini并巧妙保护摄像头隐私",
-              "brief": "INMO GO3是一款主打AI体验的智能眼镜，旨在帮助用户保持连接、完成事务，同时减少对手机的依赖。它为每只眼睛配备MicroLED显示屏，亮度高达1500尼特，视场角30度，可在不打断对话或不看手机的情况下查看信息。核心功能包括实时翻译，支持98种语言，其中13种可完全离线使用，译文直接显示在视线中；还可在会议中记笔记、充当提词器、提供步行导航等。其AI助手由谷歌Gemini和OpenAI ChatGPT驱动，可回答问题、识别拍摄图像。尽管功能丰富，眼镜仅重58克，镜腿厚8毫米，外观与普通眼镜无异。电池采用可更换设计，以解决续航问题。",
-              "source_url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+              "title": "部分Galaxy S26 Ultra因设置漏洞沦为“砖头”",
+              "brief": "部分三星Galaxy S26 Ultra设备出现严重漏洞，导致初始化设置过程卡住，设备无法继续使用，屏幕显示三星网站账户页面“网页不可用”的错误。该问题通常在重置设备后的设置阶段出现。三星论坛上有人报告此问题，三星代表确认原因与设备UI 9.0更新有关：在某些网络下使用不稳定的系统WebView时会触发该问题。将Wi-Fi切换为移动数据可作为临时解决办法，但效果因人而异，官方仍在处理。",
+              "source_url": "https://9to5google.com/2026/10/22/samsung-galaxy-s26-setup-bug/",
               "source_name": "9to5Google",
-              "published_at": "2026-10-22T06:45:00+08:00"
+              "published_at": "2026-10-22T22:05:00+08:00"
             },
             {
-              "title": "开发者为Galaxy Z Fold 8打造Walkman风格音乐播放器，支持YouTube Music",
-              "brief": "一位开发者推出名为Foldman的应用，可将本地存储或其他应用中的音乐以虚拟磁带播放机的形式播放，为Galaxy Z Fold 8带来复古Walkman体验。应用外屏界面酷似卡带播放机，展开手机后显示更宽的立体声视觉效果。细节十分用心：有音量滑块和走带计数器，磁带会在两个带盘之间真实转动，而非无进度的循环动画。由于Z Fold 8的外屏宽而矮，与索尼原版卡带机形态相似，该应用非常契合。目前应用支持YouTube Music、Apple Music及本地文件，开发者计划几天内集成Spotify，并考虑支持自托管流媒体服务。应用免费开源，无广告和追踪。",
-              "source_url": "https://9to5google.com/2026/10/21/walkman-player-for-the-galaxy-z-fold-8/",
+              "title": "Fitbit Edge取消Google Wallet：因不到1%用户使用",
+              "brief": "新款Fitbit Edge移除了NFC支持，因此无法使用Google Wallet支付功能。Google向Android Authority解释称，这一决定是因为上一代Fitbit Charge 6上该功能使用率极低——据报道不到1%的用户使用过NFC支付。Google表示因此优先开发了其他功能，如Edge新增的高度计等用户要求的功能。Fitbit Edge将于10月27日上市，预购已开启，售价179美元，配备显示屏和GPS。",
+              "source_url": "https://9to5google.com/2026/10/22/fitbit-edge-google-wallet-nfc-explanation/",
               "source_name": "9to5Google",
-              "published_at": "2026-10-22T05:01:25+08:00"
+              "published_at": "2026-10-22T21:55:00+08:00"
             },
             {
-              "title": "Claude Duet发布：Anthropic推出主动式AI智能体，对标Muse与OpenAI Dots",
-              "brief": "Anthropic发布主动式AI智能体Claude Duet，可利用用户与Claude的历史交互及与其他资源的连接上下文，目标是为事务繁忙的专业人士和小企业主提供帮助。Duet将以研究预览形式面向Pro和Max订阅用户开放，目前需加入候补名单。具体功能包括：每天早晨发送跨连接应用的简报，汇总最重要事项；白天持续关注各应用，仅在需要用户关注时才发送消息；用户还可交办各类任务，从安排会议等简单事务，到使用数十种工具构建仪表盘、创建财务或销售预测、制作原型和搭建网络应用等复杂工作。此举是在OpenAI推出Dots、Meta的Muse走红之后作出的回应。",
-              "source_url": "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
+              "title": "YouTube澄清：不是隐藏点踩按钮，而是创作者界面改版",
+              "brief": "有用户发现YouTube的点踩按钮突然消失，被移到三点溢出菜单中，引发困惑。YouTube向9to5Google声明，这并非测试或面向所有用户的改动。新的界面只出现在创作者查看自己上传视频的页面上，普通观众观看视频时点踩按钮位置不变。YouTube发言人表示，创作者在自己的视频页面会看到点踩按钮移至三点菜单，完整的点踩数据仍可在Studio分析工具中查看。9to5Google测试证实了这一行为。",
+              "source_url": "https://9to5google.com/2026/10/22/youtube-dislike-button-ui-change-explanation/",
               "source_name": "9to5Google",
-              "published_at": "2026-10-22T04:45:00+08:00"
+              "published_at": "2026-10-22T21:25:00+08:00"
             },
             {
-              "title": "三星在亚马逊上架官翻 Galaxy 手机，售价不到 500 美元",
-              "brief": "三星通过“Re-Newed”翻新计划销售翻新 Galaxy 手机，这些手机经过官方翻新流程，配备新电池、原装零件，并附带全新一年保修，价格低于全新机。虽然比购买二手设备略贵，但相比原价有可观折扣，用户还可为其添加 Samsung Care+ 服务。此前这类产品仅在三星官网出售，现已登陆亚马逊。目前可购买 Galaxy S24 和 Galaxy S25 系列机型，虽然颜色选择有限，但提供多种存储容量，起售价 489 美元。具体包括：Galaxy S24 FE 起价 489 美元，Galaxy S24 起价 519 美元，Galaxy S24+ 起价 649 美元，Galaxy S24 Ultra 起价 849 美元，Galaxy S25 起价 599 美元，Galaxy S25+ 起价 749 美元，Galaxy S25 Ultra 起价 979 美元。",
-              "source_url": "https://9to5google.com/2026/10/21/samsung-re-newed-refurbished-galaxy-phones-amazon/",
+              "title": "Wyze新款灯泡摄像头：360度旋转与彩色灯光升级",
+              "brief": "Wyze推出升级款灯泡摄像头Bulb Cam Pan Color，售价99美元，拧入E26灯座即可使用，无需额外供电或布线。新功能包括电机底座带来的360度运动追踪和180度俯仰调节，可自动跟踪目标或在预设点位间切换。摄像头升级为2.5K传感器并支持彩色夜视。灯光亮度从800流明提升至1100流明，支持1600万色RGB和1800K至6500K白光范围，可配对多个灯泡。本地microSD存储和云订阅Cam Plus照旧提供，旧款Bulb Cam仍以约50美元在售。",
+              "source_url": "https://9to5google.com/2026/10/22/wyze-bulb-cam-pan-color-upgrades/",
               "source_name": "9to5Google",
-              "published_at": "2026-10-22T03:25:00+08:00"
+              "published_at": "2026-10-22T21:00:00+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "安克Nano 13合1 USB-C扩展坞在亚马逊降价20%",
+              "brief": "安克Nano 13合1 USB-C扩展坞目前在亚马逊迎来降价，折扣幅度达20%。这款扩展坞配备多种接口，可通过单个USB-C连接为笔记本电脑扩展出丰富的端口，满足外接显示器、存储设备和外设等需求，适合需要多设备同时连接的用户。此次促销为有意入手多功能扩展坞的消费者提供了较为实惠的入手时机，感兴趣的用户可前往亚马逊查看当前售价和库存情况，优惠价格可能随时变动。",
+              "source_url": "https://www.androidauthority.com/anker-nano-13-in-1-usb-c-dock-deal-3726766/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T22:37:01+08:00"
+            },
+            {
+              "title": "Google搜索失去一项实用研究功能，但Gemini仍保留",
+              "brief": "Google搜索近日移除了一项实用的人工智能研究功能，用户此前可以在AI模式下将研究内容导出到Google文档，方便保存和进一步整理资料。目前该导出选项已从搜索中消失，不过Gemini应用中仍然保留这一功能，用户可以在Gemini里继续将内容导出至Google文档。这一变化意味着依赖搜索AI模式进行资料整理的用户需要转向Gemini来完成导出操作，Google方面尚未说明移除该功能的具体原因。",
+              "source_url": "https://www.androidauthority.com/google-search-ai-mode-export-to-docs-removed-3726681/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T22:20:31+08:00"
+            },
+            {
+              "title": "受苹果启发：可变光圈和曲面屏或将重返Android阵营",
+              "brief": "苹果在最新iPhone中引入可变光圈技术，可能促使Android厂商重新重视这一曾在三星等机型上出现后又被放弃的相机设计。可变光圈能够根据拍摄场景调节进光量，在暗光和强光环境下都有更好的成像表现。此外，苹果新机的曲面显示元素也引发关注，可能带动Android手机重新采用曲面屏幕设计。文章认为，苹果的这些变化或许会在Android阵营引发新一轮硬件设计回潮，包括更高像素的2亿像素相机等配置。",
+              "source_url": "https://www.androidauthority.com/android-apple-variable-aperture-200mp-camera-3726620/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T22:00:55+08:00"
+            },
+            {
+              "title": "耐久性测试揭示iPhone Duo折叠屏经受数千次连续折叠的表现",
+              "brief": "针对苹果可折叠设备iPhone Duo的耐久性测试近日展开，测试者对其屏幕进行了数千次连续折叠实验，以检验折叠屏在长期使用后的状态。测试重点观察屏幕折痕的深浅变化，以及铰链机构在反复开合后的可靠程度。结果显示设备在经历大量折叠循环后仍能保持基本功能，但折痕问题依然存在，与市场上其他折叠屏手机的表现类似。这类测试为了解苹果首款可折叠设备的屏幕耐用性提供了参考依据。",
+              "source_url": "https://www.androidauthority.com/apple-iphone-duo-foldable-display-crease-durability-tests-3726691/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T21:59:27+08:00"
+            },
+            {
               "title": "Google Wallet 两项实用功能更新开始推送",
               "brief": "Google Wallet 正在推出两项实用升级。第一项是通知信息流功能，用户可在通知中查看与钱包相关的更新，例如优惠活动和卡片动态，方便及时获取信息。第二项是对护照等身份证件的支持，用户可以将相关证件添加到 Google Wallet 中，在部分场景下出示使用。这两项功能目前正在逐步向用户推送，具体可用性可能因地区和设备而有所不同。",
               "source_url": "https://www.androidauthority.com/google-wallet-notification-feed-passport-support-3726594/",
               "source_name": "Android Authority",
               "published_at": "2026-10-22T20:10:03+08:00"
-            },
-            {
-              "title": "一加新机配备风扇，可为手机和双手降温",
-              "brief": "一加即将推出的新机型将配备主动散热风扇。该风扇不仅能降低手机内部硬件的温度，帮助处理器在高负载时保持性能，其吹出的气流还能吹向用户的手部，在游戏等场景下为玩家双手降温，缓解长时间握持产生的闷热感。这一设计面向追求极致游戏体验的用户，具体机型预计为一加 Ace 7 系列产品。",
-              "source_url": "https://www.androidauthority.com/oneplus-ace-7-active-cooling-fan-3726605/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T19:53:54+08:00"
-            },
-            {
-              "title": "这款应用可在任何安卓折叠屏上重现 iPhone 待机显示模式",
-              "brief": "一款新应用可以让安卓折叠屏手机获得类似 iPhone 双屏组合的待机显示（StandBy）模式体验。当手机折叠并横向放置时，屏幕会显示时钟、日程、天气、照片等小组件，变成一款桌面信息展示设备。该应用适配多种折叠屏机型，用户无需等待系统原生支持，安装后即可自定义显示内容，让折叠屏手机在充电或闲置时发挥更多用途。",
-              "source_url": "https://www.androidauthority.com/iphone-duo-standby-android-foldable-3726581/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T19:39:38+08:00"
-            },
-            {
-              "title": "谷歌新健康功能在 Pixel Watch 与 Fitbit 之间混乱不一",
-              "brief": "谷歌近期推出多项新健康功能，但这些功能在 Pixel Watch 和 Fitbit 设备之间的支持情况十分混乱。部分功能仅在特定设备或地区可用，不同品牌的表带和手表所获得的健康数据与功能权限并不一致，用户难以判断自己的设备能使用哪些功能。此外，Fitbit 应用与 Pixel Watch 的生态整合也存在割裂，导致体验碎片化，给用户带来困扰。",
-              "source_url": "https://www.androidauthority.com/google-health-features-confusing-mess-pixel-watch-fitbit-3726085/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T19:30:29+08:00"
-            },
-            {
-              "title": "索尼悄然取消了 Xperia 手机的关键 5G 变通方案",
-              "brief": "索尼对 Xperia 手机此前的一项重要 5G 变通做法进行了调整。过去，对于处于 5G 尚未获得官方支持市场的用户，Xperia 设备可以通过修改设置来启用 5G 网络连接。然而根据最新报道，索尼已在新的固件更新中封堵了这一途径，用户将无法再通过该方法在非官方支持的市场激活 5G 功能。这意味着相关地区用户的 Xperia 手机将只能继续使用 4G 及以下网络，除非索尼日后正式在这些市场开放 5G 支持。此举引发部分用户的关注和讨论。",
-              "source_url": "https://www.androidauthority.com/sony-xperia-no-5g-unsupported-markets-3726548/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T18:43:44+08:00"
             }
           ]
         },
@@ -169,45 +169,52 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "AI 购物代理已就绪，但一些零售商心存戒备",
-              "brief": "Meta、谷歌、OpenAI 等公司相继推出代理式购物工具，宣称能让购物更加便捷，演示中 AI 代理可以流畅地预订机票和酒店、浏览商品。但记者实测发现，用 AI 代理购物体验并不理想：它需要大量细致的指令和规格说明，经常遇到技术问题，交回的结果也往往与要求不符。与此同时，许多零售商网站正频频拦截 AI 代理的访问。即便代理购物能够运作，也可能预示着一个更令人烦恼的人类消费未来。",
-              "source_url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+              "title": "Coolfly 太阳能 Aura 智能喂鸟器降价近五成",
+              "brief": "观鸟近年日益流行，Coolfly 和 Birdfy 均限时折扣旗下配备摄像头的智能喂鸟器。Coolfly Aura 智能喂鸟器现售价 149.90 美元，降价 140 美元；Birdfy 喂鸟器在亚马逊或 Birdfy 官网售价 109.99 美元，降价 90 美元。用户还可加 20 美元为 Birdfy 添购太阳能板，或以 149.99 美元购入含太阳能板和终身 AI 鸟类识别功能的套装，优惠 110 美元。此外，本次折扣活动中 Birdfy 竞品智能喂鸟器、JBL Charge 6 音箱以及 Govee 窗帘式智能灯也有相应优惠。",
+              "source_url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-10-22T08:30:00-04:00"
+              "published_at": "2026-10-22T10:41:02-04:00"
             },
             {
-              "title": "克劳德并没有发明蝎子抗毒血清",
-              "brief": "一家投资研究公司希望证明 AI 能够彻底改变药物研发，于是与 Anthropic 合作，测试一个未发布的 Claude 版本能否研制出蝎子抗毒血清。结果它做不到。虽然 Claude 提出了一些有前景的起点方案，但距离真正可行的药物还有很大差距。这次尝试被称为“氛围编程”式的药物开发实验，表明 AI 在药物研发领域虽有潜力，但远未达到颠覆性的程度，业界的部分宣传与实际能力之间仍存在明显落差。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+              "title": "酷派推出 150 美元宽屏 Android 手机 Cool X Wide",
+              "brief": "酷派推出新款 Android 手机 Cool X Wide，屏幕采用 16:10 宽屏比例，设计理念类似三星 Galaxy Z Fold 8、华为 Pura X View 以及新推出的 iPhone Duo 等宽屏折叠手机，但并非折叠形态，因此没有折叠屏的高昂价格、昂贵的维修成本和不可避免的屏幕折痕问题。其屏幕显示面积接近小平板，与 iPhone Duo 和 Galaxy Z Fold 8 合上时的屏幕体验相当。这款手机与华为 8 月在中国发布的 Pura X View 类似，现已上市，售价约 150 美元。",
+              "source_url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
               "source_name": "The Verge",
-              "published_at": "2026-10-22T08:21:07-04:00"
+              "published_at": "2026-10-22T10:24:49-04:00"
             },
             {
-              "title": "全球首款三颗 2 亿像素摄像头手机表现出色",
-              "brief": "OPPO Find X10 Pro Max 是首款配备三颗 2 亿像素摄像头的手机，此前摩托罗拉 2022 年的 X30 Pro 首次引入 2 亿像素主摄，今年的 vivo X300 Ultra 则首次搭载两颗 2 亿像素摄像头。评测认为，这款手机的优势更多来自传感器尺寸、动态范围和出色的软件调校，而非单纯的像素数量。其设计仍以相机为中心，但相比多数 Ultra 机型不那么夸张，整体表现优秀。",
-              "source_url": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+              "title": "比尔·盖茨：为 AI 带来 20 年动荡变革做好准备",
+              "brief": "微软联合创始人比尔·盖茨在 The Verge 的播客访谈中表示，即使在其最佳情况下，向 AI 新时代的过渡也将是人类历史上最动荡的时期之一，人们需要为大约 20 年的 AI 动荡做好准备。他近几个月就 AI 安全议题频频发声，8 月底发表文章称动荡的 AI 时代已经来临，当下的选择至关重要，此后更称 AI 是人类有史以来接触过的最危险的东西，并认为其危险性超过核武器。他表示白宫当前的 AI 政策回应和 AI 行业自身缺乏协调的努力都不足以应对这一威胁，但他并非 AI 悲观主义者。",
+              "source_url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
               "source_name": "The Verge",
-              "published_at": "2026-10-22T08:00:00-04:00"
+              "published_at": "2026-10-22T10:00:00-04:00"
             },
             {
-              "title": "Eiliko 厂商称将聘请独立安全公司应对机器人安全漏洞",
-              "brief": "Eiliko 是一款可挂在包上的可爱机器人挂件，内置 AI 对话功能，却被曝出严重安全问题：黑客能轻易读取用户与玩具对话的完整记录。《The Verge》与安全研究员 Sammy Azdoufal 花了一个多月联系 Energize Lab 公司，包括致信 CEO，均无人回应。如今公司终于打破沉默，在一份匿名声明中承认已确认报道所指的核心问题并逐一解决，还表示将聘请独立安全公司，并称“我们知道仅凭言语无法赢回信任”，但其回应仍显不足。",
-              "source_url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+              "title": "苹果将为 App Store 中适配 iPhone Duo 的应用添加标识",
+              "brief": "苹果正在 App Store 推出新的 Made for iPhone Duo（为 iPhone Duo 打造）徽章，用于标示已针对其新折叠屏手机内外屏优化的应用和游戏。虽然苹果未公布徽章样式，但展示了部分应用利用 Duo 内外屏的方式：Netflix 将在整块内屏上显示节目和电影，同时可在外屏观看短视频流；亚马逊 Prime Video 支持将手机半折叠观看，内容显示在上方，演职人员信息显示在下方。包括 Netflix、Microsoft Word 和 Zoom 在内的众多应用均已利用 Duo 额外的屏幕空间进行适配。",
+              "source_url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
               "source_name": "The Verge",
-              "published_at": "2026-10-22T07:00:00-04:00"
+              "published_at": "2026-10-22T09:20:37-04:00"
             },
             {
-              "title": "YouTube否认正在测试隐藏“踩”按钮",
-              "brief": "此前有用户在X上分享截图，显示YouTube视频的“踩”按钮被移入三点菜单，引发外界猜测YouTube正在测试隐藏该按钮。但YouTube发言人金伯利·泰勒周三向The Verge证实，公司并未在测试对用户隐藏“踩”按钮。实际上，YouTube是在为创作者推出新的界面：在创作者查看自己上传的视频时，“踩”按钮才会被移到三点菜单之后，普通用户观看视频时的界面并无变化。这一改动仅影响创作者本人视角，并非面向所有用户的隐藏测试。",
-              "source_url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+              "title": "Atari VCS 软件商店将于明年关闭，平台就此终结",
+              "brief": "Atari VCS 平台将于 2027 年 2 月 1 日关闭其软件商店，这一消息由 Atari 在 Atari Club Discord 发布、Tom's Hardware 转发。VCS 从公布至今已有十年，经历了多次跳票和改名，Atari 还曾多次向众筹支持者保证这款复古主机不会失败。VCS 设计 loosely 借鉴初代 Atari 2600 但取消卡带插槽，是一台基于 Linux、搭载 AMD 芯片的迷你 PC，可模拟大量预装的经典 Atari 游戏，用户此前还可通过在线软件商店扩展功能，包括访问流媒体平台以及近年加入的云游戏服务。",
+              "source_url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
               "source_name": "The Verge",
-              "published_at": "2026-10-21T19:46:45-04:00"
+              "published_at": "2026-10-22T09:17:59-04:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "通用汽车表示仍全力投入电动车与自动驾驶，不惧“萧条2.0”质疑",
+              "brief": "在美国当前政策环境及电动车税收抵免到期之际，外界质疑美国车企对电动车的态度趋于保守，甚至担心进入“萧条2.0”时代。在今年的GM Forward活动上，通用汽车高管明确表示公司仍专注于电气化、自动驾驶、提升车辆质量并缩短开发周期等目标。公司宣布其“手离方向盘、眼离路面”的Super Cruise技术将扩展至几乎所有车型，包括皮卡和跨界车，而不仅是此前公布的Escalade IQ。产品负责人斯特林·安德森表示，公司每月在虚拟和现实世界中测试该技术达160万公里，目标是让车辆不仅能载人出行，还能替用户完成各项任务。此外，新发布的OnStar AI助手也将为用户带来更多便利功能。",
+              "source_url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-22T21:04:32+08:00"
+            },
             {
               "title": "333个Tor出口节点遭劫持，用于拦截SSH流量并获取明文邮件",
               "brief": "研究人员周二报告称，未知黑客劫持了300多个Tor出口节点，并将其重新配置，以偏好未加密的邮件流量，同时把SSH连接重定向到他们控制的服务器。劫持始于8月底，攻击者利用一个重复使用的有效密码入侵了Tor的一台管理服务器，并安装了12年前被发现、针对Linux的后门程序Ebury。攻击者随后通过SSH连接到名为Switzerland2的第二台Tor服务器并植入Ebury，接着重新配置了该服务器托管的两个出口节点。最终共有333个出口节点参与了针对SSH和邮件的拦截行动，但调查人员尚未确定攻击者是如何控制所有底层服务器的。其中一组更改将流经Tor的SSH流量重定向到12台攻击者控制的拦截服务器之一，忽略主机密钥变更警告的用户会输入SSH密码；另一组更改则封锁了用于加密邮件通信的多个端口。",
@@ -235,13 +242,6 @@
               "source_url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-22T06:06:07+08:00"
-            },
-            {
-              "title": "调查：企业持续购买 IT 部门认为有害的软件升级",
-              "brief": "一项针对 2018 名大型企业首席信息官及高级 IT 决策者的调查显示，万人以上规模的企业平均将 28% 的软件预算花在不受欢迎的升级、迁移和许可变更上，而 IT 负责人往往认为这些变更弊大于利。95% 的受访者表示，过去三年中其组织曾为供应商驱动的升级、迁移或许可变更付费，且当时就认为这会降低性能、可靠性或业务价值，其中 53% 的人不止一次这样做。76% 的受访者称组织在谈判中几乎没有真正的筹码，80% 认为脱离主要供应商会造成严重业务中断。该调查由第三方机构执行，委托方 Origina 提供独立软件维护服务。",
-              "source_url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-22T05:48:52+08:00"
             }
           ]
         }
@@ -287,39 +287,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "美国农机巨头AGCO将于2027年引入人形机器人 强调协助而非取代工人",
-              "brief": "美国农业机械制造商AGCO宣布与Agility Robotics合作，计划于2027年在堪萨斯州工厂试点部署人形机器人Digit，该工厂生产打捆机、割草压扁机等设备。Digit初期不会承担复杂装配工作，而是执行零件分类、堆放整理和搬运周转箱等重复性任务。AGCO强调引入机器人的核心目标是提升安全性和生产效率，而非减少员工数量，让员工能投入技术要求更高的任务。Digit此前已在亚马逊仓库和GXO仓储设施中应用，累计运行超过6.5万小时。不过劳工组织对人形机器人普及带来的就业冲击仍保持警惕。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583394.htm",
+              "title": "报道称五角大楼设立技术支持办公室TSO 为秘密破坏行动研发工具",
+              "brief": "据《Politico》报道，五角大楼于4月14日批准成立技术支持办公室TSO，由主管情报与安全的副部长领导，是通过重组两个2023年起开展秘密技术破坏活动的机密项目建立。人员包括工程师、特种作战人员和情报官员，可能开发定制黑客工具、设计欺骗行动，网络攻击、供应链干扰和虚假信息被列为潜在方向。报道称TSO拥有独立预算和采购权限，前特种作战军官亨德利被选为主任，预算或超15亿美元。五角大楼否认报道内容，但表示将配合国会监督。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583410.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T20:43:27+08:00"
+              "published_at": "2026-10-22T22:24:21+08:00"
             },
             {
-              "title": "三星将HBM基底芯片与2纳米工艺结合 或为高通提供新选择",
-              "brief": "据报道，三星正计划将部分4纳米产能转向HBM基底芯片制造，同时推进2纳米工艺应用。其下一代M2800调制解调器将由系统LSI部门采用2纳米工艺开发，预计2027年完成研发，配合2028年Galaxy S28系列手机使用。三星还在验证利用自家2纳米工艺制造英伟达定制化HBM产品NVHBM基底芯片的可行性，以便在台积电产能紧张时提供替代方案。分析认为，如果三星2纳米工艺良率和产能改善，高通未来可能考虑采用台积电与三星并行的双代工厂策略，但目前尚无证据表明相关决定已经作出。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583392.htm",
+              "title": "Anthropic推出Claude Duet代理应用 主打主动处理专业工作",
+              "brief": "Anthropic以研究预览形式推出代理应用Claude Duet，提供iOS、Android独立应用及网页版，首阶段向美国地区Claude Pro和Max订阅用户开放，须加入候补名单。Duet可安排会议、整理邮件、核对发票、准备工资单和合同，还能制作仪表盘和财务预测，并可使用Claude Marketplace中超过6000种连接器。代表用户执行操作前会先等待批准，不能交易证券或转移资金，安全分类器会拦截信用卡号码等敏感信息外传。预览期间与订阅共用额度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583408.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T20:42:49+08:00"
+              "published_at": "2026-10-22T22:21:02+08:00"
             },
             {
-              "title": "任天堂Switch 2首次被成功破解 自制软件与游戏模组大门打开",
-              "brief": "开发者近日公布了任天堂Switch 2的首个越狱方案，利用一款具备向下兼容特性的初代Switch游戏中的32位整数溢出漏洞，实现在最新固件上运行任意原生代码。获得权限后，用户可运行自制应用、安装游戏模组、备份存档并访问大部分硬件功能。开发者还演示了在《马力欧赛车世界》中加入彼得·格里芬、初音未来等角色。由于破解需借助特定游戏触发漏洞，重启后需重新操作。开发者透露研究中使用了OpenAI Codex等AI工具辅助分析，但出于安全与法律考虑未公开技术细节。任天堂预计将很快下架相关游戏并修复漏洞。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1583390.htm",
+              "title": "1Password推出AI智能体密码授权功能：让AI登录账户却不必知道用户密码",
+              "brief": "1Password推出面向AI智能体的凭据授权功能，智能体请求使用账户登录凭据时，通过唯一数字密钥向1Password证明身份，用户收到通知后可批准或拒绝请求。批准后1Password将登录信息直接填入网站登录界面，密码不会以文本形式发送给智能体，用户无需向AI交出密码。该功能将支持ChatGPT、Claude Duet、Grok Bot等多种智能体，多家平台正推进集成。1Password称此举意在将自身发展为AI智能体的身份验证和访问控制层，同时提醒用户警惕提示注入等风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583406.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T20:40:53+08:00"
+              "published_at": "2026-10-22T22:20:07+08:00"
             },
             {
-              "title": "比尔·盖茨曾称Ctrl+Alt+Del是个错误 Windows为何至今保留这一组合键",
-              "brief": "Ctrl+Alt+Delete组合键由IBM工程师戴维·布拉德利于1981年发明，最初用于让程序员在不关机的情况下快速重启IBM个人电脑。盖茨曾在2013年和2017年公开表示这一设计是个错误，称微软本希望使用单键操作。1993年Windows NT 3.1推出时，微软将该组合键赋予全新用途：触发安全注意序列，帮助用户确认正在与真正的操作系统登录界面交互，防止普通程序伪造登录窗口窃取密码。在Windows 11中，该组合键仍用于打开系统安全界面，可锁定电脑、切换用户、注销账户或启动任务管理器，企业环境还可强制要求登录前执行此操作。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583388.htm",
+              "title": "苹果为折叠屏iPhone Duo推出专属应用认证标识",
+              "brief": "苹果为旗下首款折叠屏手机iPhone Duo推出专属应用认证标识，已有多款应用完成适配。流媒体应用可在展开的大尺寸内屏播放影视内容，在外屏浏览短视频；Prime Video在半折叠状态下于上屏显示视频、下屏显示演员资料；Word和Outlook提供接近桌面级的分屏办公体验；Zoom支持同时查看会议画面和共享内容。已完成适配的应用还包括Paramount Plus、NYT Cooking、Yelp等，但Instagram等应用仍有兼容性问题。iPhone Duo起售价1999美元，本周五正式发售。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583404.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T20:38:07+08:00"
+              "published_at": "2026-10-22T22:18:41+08:00"
             },
             {
-              "title": "AMD复活锐龙7 5800X3D源于苏姿丰提议 AM4平台支持将延至2029年",
-              "brief": "AMD高管近日透露，重新推出锐龙7 5800X3D十周年纪念版的想法由CEO苏姿丰在数年前提出，旨在回馈长期支持AM4平台的用户，让他们无需更换主板和DDR5内存即可升级，并非为应对近期内存涨价而临时推出。由于原版处理器使用的第一代3D V-Cache堆叠工艺已停产，AMD需要重新验证设计与新工艺的兼容性，投入了大量工程资源。此外，AMD已将AM5平台的支持期限延长至2029年。AMD高管还表示，当前DRAM供应紧张不仅影响DDR5，部分市场DDR4现货价格甚至高于DDR5，但为DDR4用户提供升级选择仍是重要考量。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583386.htm",
+              "title": "云南发现巨型真菌“D-rex” 子实体高达50厘米 重达2.2公斤",
+              "brief": "科学家在云南发现一种被昵称为“D-rex”的巨型真菌新物种，其子实体高达50厘米、重达2.2公斤。研究团队结合形态观察、多基因系统发育分析和基因组数据，确认它属于炭角菌目中的新物种、新属，并据此建立新科“滇菌科”。通过分子钟比较数百种真菌的基因组，研究者推算滇菌科起源于约6500万年前，接近白垩纪—古近纪大灭绝之后，推测大灭绝后枯死植物材料增加可能为其提供了生态机会。其巨大子实体或有助于借风传播孢子，具体原因尚无定论。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1583402.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T20:36:24+08:00"
+              "published_at": "2026-10-22T22:17:33+08:00"
             }
           ]
         },
@@ -327,45 +327,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《战狗》限制高延迟玩家跨区匹配，部分玩家威胁退款",
-              "brief": "《战狗》开发工作室 Bulkhead 为打击作弊实施基于网络延迟的地区限制方案，将玩家最高允许延迟限制在 175 毫秒，超过阈值的玩家将受到跨地区游戏限制。该功能正在服务器后台逐步实施，仍需进一步调整。工作室称原本希望通过宽松的跨地区匹配改善社交体验，但未达预期，因此收紧限制，优先保护人数更多的玩家群体。此举引发部分玩家反对，有人因无法与海外朋友联机而考虑退款，亚洲玩家则批评开发商未优先加强反作弊系统。CEO Joe Brammer 承认新措施会损害部分玩家体验，延迟限制只是临时措施，团队正研究面向全球玩家的解决方案，但准确判断玩家实际所在地并不简单。",
-              "source_url": "https://www.ithome.com/1/016/677.htm",
+              "title": "北汽星钽 5X 预售 24 小时订单破 17876 台：13.99 万元起，搭载华为乾崑 ADS 5 Pro",
+              "brief": "北汽星钽 5X 定位方盒子车型，提供插混、纯电及已申报的 2.0T 燃油三种动力。车身尺寸 4865×2000×1910mm，轴距 2875mm，得房率 88.6%，座椅放倒后装载容积达 2231L。纯电版搭载后置 227kW 电机、81.9kWh 电池，CLTC 续航 625km，基于 800V 高压平台，30% 至 80% 快充 14.5 分钟；插混版由 1.5T 发动机加电机构成，四驱版综合功率 400kW。智驾版搭载华为乾崑 ADS 5 Pro，采用舱内固态激光雷达方案，感知硬件共 27 颗。",
+              "source_url": "https://www.ithome.com/1/016/740.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T20:41:43+08:00"
+              "published_at": "2026-10-22T22:51:03+08:00"
             },
             {
-              "title": "腾势 N8 大五座纯电 SUV 定档 10 月 26 日开启小订，11 月上市",
-              "brief": "比亚迪腾势 N8 将于 10 月 26 日开启小订，11 月正式上市，新车推出日光橙配色。腾势 N8 是一款大五座纯电 SUV，车身长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm，搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。工信部申报信息显示，新车有单电机版 320kW、高性能单电机版 370kW 和三电机版 270/310/310kW 三个版本。智能座舱方面，新车全球首发天际屏加巨幕屏组合，包括 1.1 米超长 PHUD 天际屏和 30 英寸超大巨幕屏，天际屏承载导航、车速等驾驶信息，巨幕屏支持多窗口协同、全屏观影、无麦 K 歌等场景。",
-              "source_url": "https://www.ithome.com/1/016/676.htm",
+              "title": "我国前 8 个月手术机器人出口 6.72 亿元，同比增长 272.92%",
+              "brief": "据公布数据，今年前 8 个月我国手术机器人出口额达 6.72 亿元，同比增长 272.92%，从不足 2 亿元跃升至接近 7 亿元。广东是机器人出口第一大省，前 8 个月机器人出口额 147.18 亿元居全国首位；上海在手术机器人品类上出口额全国第一。弗若斯特沙利文报告预计，中国手术机器人市场规模将从 2026 年的 224.5 亿元增至 2030 年的 708.5 亿元，复合增长率 33.3%，高于全球同期 17.8%。腔镜、骨科等赛道国产中标数据已反超进口，出海是将国内验证过的硬件与服务体系向海外复制。",
+              "source_url": "https://www.ithome.com/1/016/738.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T20:40:42+08:00"
+              "published_at": "2026-10-22T22:43:59+08:00"
             },
             {
-              "title": "小米米家热敷坐姿垫开启众筹：久坐提醒、三挡恒温，179 元",
-              "brief": "小米米家热敷坐姿垫在众筹平台开启众筹，价格为 179 元。产品将坐垫与热敷功能一体化，适配腰背曲线，配备红外感应组件，可智能感知久坐状态并适时提醒。新品搭载 NTC 智能温控技术，实时精准控温，提供三挡温感可随心调节。产品支持无线与有线两种模式自由切换，无线模式不受电源线和插座位置限制，使用更灵活。材质方面，产品采用高韧性尼龙材质一体成型，具备强支撑、高回弹、耐弯折特性；坐垫选用高品质回弹记忆棉，通过 50000 次受压回弹测试；底座设有两处透气孔，可减少热量积聚。",
-              "source_url": "https://www.ithome.com/1/016/674.htm",
+              "title": "海信 7kg 滚筒洗衣机官方直降至 797 元，支持超薄嵌入",
+              "brief": "海信一款 7kg 滚筒洗衣机目前在官方渠道直降，价格来到 797 元，主打租房使用场景。该机支持超薄嵌入设计，可较好适应阳台柜、卫生间等空间有限的安装环境。7kg 的洗涤容量可满足 2 至 3 口之家的日常洗衣需求，滚筒式结构对衣物磨损相对较小。IT之家提示：文内含有的对外跳转链接用于传递更多信息，节省甄选时间，结果仅供参考。",
+              "source_url": "https://www.ithome.com/1/016/737.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T20:37:33+08:00"
+              "published_at": "2026-10-22T22:42:35+08:00"
             },
             {
-              "title": "比亚迪第三代唐预扣提车价曝光：后驱激光尊荣型 22.5 万元",
-              "brief": "比亚迪第三代唐预扣提车价曝光，后驱激光尊荣型为 22.5 万元，新车将于四季度上市。第三代唐定位纯电中大型 SUV，长宽高约 5045/1980/1760mm，轴距 2950mm，外观延续王朝系列最新设计语言，采用封闭式前脸、贯穿镀铬饰条与贯穿式尾灯组。内饰提供沙丘米与丹霞橙两种配色，前排头枕拆卸后可与后排坐垫拼接形成大床模式，车内采用一体式联屏并配有辅助屏。动力方面，单电机后驱版最大功率 300kW，提供 88.682kWh 与 105.792kWh 两种电池，CLTC 续航有 730km、830km 和 850km 三个版本，全系标配天神之眼 B 智驾系统与云辇-A 智能空气悬架。",
-              "source_url": "https://www.ithome.com/1/016/673.htm",
+              "title": "铭凡推出 M2 Slim 迷你主机：酷睿 3 处理器 304，板载 LPDDR5X 内存",
+              "brief": "铭凡推出 M2 Slim 迷你主机，基于酷睿 3 处理器 304，板载 LPDDR5X-7467 内存，并新增板载 UFS 3.1 闪存支持；PCIe Gen4 M.2 SSD 盘位从 4 通道降至 2 通道，取消 1 个全功能 USB-C 10Gbps 接口。机身三维 112×112×37.15mm，质量仅 0.44kg，内置英特尔 AX211 无线网卡，支持 Wi-Fi 6E 和蓝牙 5.4。接口方面提供 2 个 2.5GbE RJ-45 网口、1 个 USB-C 40Gbps 接口、2 个 HDMI 2.0 接口，还配备 microSD 读卡器，适合轻办公与软路由等场景。",
+              "source_url": "https://www.ithome.com/1/016/736.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T20:31:32+08:00"
+              "published_at": "2026-10-22T22:41:24+08:00"
             },
             {
-              "title": "机械革命无界系列轻薄本上市：国补后 4419.15 元起",
-              "brief": "机械革命无界系列多款轻薄本于 10 月 23 日零点开售。无界 14 SE 至尊版采用金属机身，搭载英特尔酷睿 Ultra 7 处理器 256V，配 16GB LPDDR5X-8533 内存与 512GB SSD，14 英寸 1920×1200 60Hz 屏幕，内置 55Whr 电池，国补后到手价 4419.15 元。无界 Max 采用全镁合金机身，薄至 14.9mm，14 英寸版重约 1.0kg，16 英寸版重约 1.25kg，配备 4 扬声器阵列与雷电 4，14 Max Ultra 5 版到手价 4929.15 元，16 Max 提供 Ultra 5 与 Ultra 7 两档配置。无界 14 Max Carbon 换用碳纤维 A 面，升级 2.8K OLED 屏幕，机身起始重量仅 946g，国补到手价 5354.15 元起。",
-              "source_url": "https://www.ithome.com/1/016/672.htm",
+              "title": "日本警方破获酒店 Wi-Fi 钓鱼邮件案：客房冰箱后发现隐藏电脑，发送约 48 万条钓鱼邮件",
+              "brief": "据日媒报道，日本警方逮捕一对涉案夫妇。涉案男子于 2025 年 5 月伪装成酒店住客，将一台电脑藏在神户市一家酒店客房的冰箱后方并连接酒店 Wi-Fi，冒充信用卡公司发送钓鱼邮件，骗取收件人信用卡信息。警方认为邮件可能由其他人员远程操控发送，因使用酒店网络，邮件网络信息指向酒店，直到有收件人向酒店反映才发现该设备。此外，二人还涉嫌盗用他人信用卡购物，警方从其住所查获 74 部智能手机，涉案金额累计约 1000 万日元，约合 42.3 万元人民币，警方仍在调查是否存在更大规模诈骗团伙。",
+              "source_url": "https://www.ithome.com/1/016/735.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T20:29:11+08:00"
+              "published_at": "2026-10-22T22:37:44+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Playasia 商店遭持续攻击后暂时下线",
+              "brief": "Playasia CEO Jan Neuhäußer 在 X 上宣布，经过数周日益复杂且持续不断的攻击，公司决定暂时下线，以完成全面安全审计并加固系统。他表示此举并非轻率决定，Playasia 近24年来一直是玩家社区的家。公司称此次攻击并非随机，而是针对数千家数字企业的协同性、系统性行动，Playasia 是目标之一。团队已向全球相关当局和网络犯罪部门报告全部情况，并持续分享可协助追责的细节。Playasia 成立于2002年，以销售亚洲限定版游戏、玩具和收藏品著称。事件发生在被称为黑色十月的时期，期间 PHP 被发现一个影响全球70%网站的关键漏洞。",
+              "source_url": "https://www.ign.com/articles/playasia-store-taken-offline-relentless-attacks",
+              "source_name": "IGN",
+              "published_at": "2026-10-22T19:09:09+08:00"
+            },
             {
               "title": "《Wardogs》开发者谈区域锁定：旨在“保护最多数玩家”",
               "brief": "《Wardogs》开发商Bulkhead宣布实施区域锁定，通过将玩家与服务器连接的最大延迟限制在175来阻止远程玩家加入对局，称此举是为了保护最多数玩家免受来自作弊高发地区玩家的冲击。开发者表示，虽然社交体验是游戏核心，但必须优先照顾大多数玩家，并将加强后端区域锁定措施。然而，亚洲的合规玩家对此表示不满，认为应加强反作弊而非直接限制亚洲玩家；跨区玩家也批评无法与海外好友联机，部分玩家已要求退款，认为延迟限制并不能真正阻止作弊者。",
@@ -393,19 +400,19 @@
               "source_url": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
               "source_name": "IGN",
               "published_at": "2026-10-22T13:56:58+08:00"
-            },
-            {
-              "title": "《龙珠：超宇宙3》根据玩家反馈收窄发售窗口至2027年下半年",
-              "brief": "万代南梦宫宣布《龙珠：超宇宙3》的发售时间从原先的2027年全年收窄为2027年下半年。制作人平野雅之在介绍战斗自定义与PvE任务等信息时表示，过去几个月官方持续公布新情报，也收到了玩家宝贵的反馈和调查结果，开发团队已据此讨论并宣布了多项改进计划。他强调《龙珠：超宇宙》系列是与玩家共同打造的作品，无论是首发体验还是后续运营内容，团队都希望充分实现目标，因此将发售窗口定为2027年下半年。他还表示下次更新前可能需要玩家稍作等待，但团队将全力让2027年成为龙珠游戏粉丝的美好一年。IGN此前已发布该作的试玩体验报道。",
-              "source_url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
-              "source_name": "IGN",
-              "published_at": "2026-10-22T08:41:48+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "CloudCone 再次开启50%赠送：充值 5.1 美元，送 2.55 美元",
+              "brief": "VPS 提供商 CloudCone 再次开启50%赠送活动：24小时内向账户充值 5.10 美元，可额外获得 2.55 美元赠送，共 7.65 美元云积分，未使用信用额度时可随时申请退款。优惠余额可用于购买在售套餐：CCTURNS9 旧套餐位于洛杉矶机房，如 1核1GB内存55GB SSD月付14.24美元；BDAY26 新套餐年付，如 1核1GB内存25GB SSD年付18.28美元，均含 1GB 带宽、纯 SSD RAID-10 存储及 IPv4/IPv6 地址，但套餐无法升级。",
+              "source_url": "https://www.appinn.com/cloudcone-50p-26/",
+              "source_name": "小众软件",
+              "published_at": "2026-10-22T21:44:30+08:00"
+            },
             {
               "title": "Chrome 曝沙箱逃逸漏洞，建议尽快更新浏览器",
               "brief": "Google 于 10 月 20 日发布的 Chrome 156 桌面稳定版共修复了 353 个安全问题，其中包括多个被官方列为 Critical 的漏洞，涉及 Skia、无障碍功能、CSS、WebRTC 等组件。其中编号为 CVE-2026-113328 的漏洞出在 Privacy 组件，属于输入验证不当，攻击者可能通过特制的 HTML 页面突破浏览器沙箱限制，在沙箱外执行任意代码，受影响的是 156.0.8078.47 之前的版本。沙箱是给网页划出的活动范围，此漏洞涉及突破这层限制的可能性。普通用户可在地址栏输入 chrome://settings/help 检查更新，桌面版修复版本为 Windows/macOS 的 156.0.8078.47 或 156.0.8078.48，以及 Linux 的 156.0.8078.47，更新后需重启浏览器。使用其他 Chromium 内核浏览器的用户，也应关注各厂商的更新公告。",
@@ -433,19 +440,26 @@
               "source_url": "https://www.appinn.com/vmpal/",
               "source_name": "小众软件",
               "published_at": "2026-10-22T11:02:00+08:00"
-            },
-            {
-              "title": "Strata 0.2.2 发布：新增多显卡自由分工，Gyro 推理提速最高 30%",
-              "brief": "Strata 是一款免费开源的本地大模型运行工具，支持 Windows、macOS 和 Linux，最低仅需 8GB 显存即可运行大型 AI 模型。0.2.2 版本最大亮点是新增多显卡角色管理功能，用户可手动指定每张显卡的角色，包括负责模型层与验证的 Main 主卡、分担计算和专家缓存的 Helper 辅助卡，以及不参与推理的 Off 禁用状态。此外，Gyro 量化模型在 NVIDIA 显卡上的推理性能得到优化，RTX 3060 上 Gyro-S 提速约 17%，Tesla P100 上解码速度提升约 30%。硬件支持范围也扩大至 Apple Silicon Mac、Intel Arc 和 AMD RX 6000 系列显卡，Linux CUDA 12 安装包恢复了对部分 Pascal、Volta 老显卡的支持。",
-              "source_url": "https://www.appinn.com/strata-0-2-2/",
-              "source_name": "小众软件",
-              "published_at": "2026-10-22T09:56:13+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "印度证书颁发机构eMudhra宣布退出SSL/TLS证书业务，此前8张中级证书遭行业封锁",
+              "brief": "印度数字信任服务商eMudhra于10月22日宣布，董事会决定自愿退出全球SSL/TLS证书业务。此前该公司8张中间CA证书因私钥生成机制存在严重弱随机性问题，被浏览器和证书信任项目封锁吊销，导致大量网站证书失效。eMudhra称证书业务仅占营收1%，且运营成本上升、舆论关注与其业务占比不相称。此外谷歌宣布将于10月27日撤销其emSign ECC Root CA - G3根证书的信任，成为促使该公司退出的重要原因。过渡期间公司将为现有客户提供免费证书更换，但将继续运营数字签名等其他业务。",
+              "source_url": "https://www.landian.news/archives/127579.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-22T22:11:00+08:00"
+            },
+            {
+              "title": "Cloudflare已监测到数百万次针对PHP漏洞的攻击，建议开发者尽快升级",
+              "brief": "PHP基金会发布新版本修复PHP2Shell漏洞后，Cloudflare观测到的攻击尝试已超过百万次。Cloudflare在漏洞公开前约9小时完成WAF防护规则部署，从10月21日起为所有启用WAF的网站提供默认防护。该防护采用完整事务检测，结合HTTP请求与服务器响应分析利用特征并拦截恶意请求，可减少误报。CEO普林斯称漏洞披露前10小时已有数千次攻击，披露45分钟后达数万次，之后迅速增至数百万次，全网数据可能更高。Cloudflare强调WAF仅能缓解部分攻击，使用PHP的网站仍需尽快升级到不受影响的版本。",
+              "source_url": "https://www.landian.news/archives/127578.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-22T21:06:38+08:00"
+            },
             {
               "title": "开发者部署平台Zeabur因频繁数据泄露宣布年底关停",
               "brief": "开发者部署平台Zeabur宣布将在2026年12月底前停止共享集群和专用服务器服务，原因是连续出现数据泄露事故，团队自认为已无力继续提供良好服务。初步调查显示，10月14日至15日，攻击者利用以明文保存在配置仓库中的内部AWS密钥、集群管理令牌和GCP密钥进入共享集群、部分专用服务器及内部系统，相关令牌长期有效且未轮换，集群管理接口对公网开放。攻击者读取了数据库中321万条环境变量记录和32.18万条账户记录，涉及电子邮箱、用户名、电话号码等信息，另有566个zSend API密钥和11536个平台访问令牌受影响。攻击者还以root权限登录101台GCP专用服务器，在其中50台添加SSH公钥，并挂载16份客户服务器磁盘副本。Zeabur建议用户立即更换存放在平台上的API密钥、云凭证和数据库密码，GCP专用服务器用户应视主机已被入侵，备份数据后重建服务器。",
