@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:53:38.216825+08:00",
+  "generated_at": "2026-10-22T20:54:58.916506+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果封禁或可被攻击者用于伪造网站的证书",
+              "brief": "苹果已在其设备上封禁一批存在安全问题的证书，以防攻击者借其冒充网站。这些证书由证书颁发机构 eMudhra 签发。据 Mozilla 调查，其私钥均为 256 以下的数字，几乎可被瞬间破解。攻击者可利用受影响的网站证书密钥伪造证书，使存在漏洞的软件予以信任。据 Mozilla 密码学工程师 Dennis Jackson 发布的公告，苹果于 10 月 19 日引入封禁措施，阻止使用苹果系统检查的软件信任这些证书。Jackson 表示，Safari 及其他主流浏览器拥有额外证书检查，本可阻止此类攻击，但攻击者是否利用了其他软件尚不清楚。相关封禁已分发，使用受影响命令行工具的 Mac 用户可在其网站查看测试与缓解方法。",
+              "source_url": "https://www.macrumors.com/2026/10/22/apple-blocks-certificates-that-could-help-attackers/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T19:43:09+08:00"
+            },
+            {
+              "title": "苹果第五大道店外现巨型 iPhone Duo 装置",
+              "brief": "在 iPhone Duo 于 10 月 23 日周五开售前，苹果纽约第五大道店外广场玻璃立方体旁出现了疑似巨型 iPhone Duo 展示装置。X 上用户拍摄的照片显示，装置目前被包裹物和黑色遮罩覆盖，具体呈现方式尚不明朗。据彭博社 Mark Gurman 报道，苹果计划为第五大道店分配超过 150 台 iPhone Duo 用于演示和展示，而普通非旗舰店预计每家约 20 台。店内还将采用新的折叠屏演示方式，包括展示设备开合的固定装置，以及将展开的 iPhone Duo 与两台传统 iPhone 并排对比的 MagSafe 支架。苹果已确认美国及多个市场门店现货有限，提醒首发库存或迅速售罄，中国大陆、法国、日本等市场需在线预约取货。",
+              "source_url": "https://www.macrumors.com/2026/10/22/giant-iphone-duo-apple-fifth-avenue/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-22T19:02:36+08:00"
+            },
             {
               "title": "第二代iPhone Duo原型机配备屏下Face ID",
               "brief": "据彭博社马克·古尔曼报道，苹果第二代iPhone Duo的原型机已在外屏下方集成Face ID面部识别技术。古尔曼在其播客节目Power On中透露，苹果正在为其折叠屏iPhone添加面部认证功能，并测试预计明年秋季发布的后继机型硬件，但该功能是否会最终出货尚未确定。目前第一代iPhone Duo与iPad类似，采用侧边按键内置的指纹传感器，因其机身纤薄，难以容纳Face ID所需的深度感应组件。此前的9月，古尔曼曾预测更小的组件和人工智能进步可帮助苹果在第三代机型上加入Face ID和专用长焦相机。他还表示苹果考虑为未来机型添加操作按钮。第一代iPhone Duo将于明日发售，起售价1999美元。",
@@ -28,26 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
               "source_name": "MacRumors",
               "published_at": "2026-10-22T14:23:10+08:00"
-            },
-            {
-              "title": "法院裁决后《堡垒之夜》将重返澳大利亚 App Store",
-              "brief": "Epic Games 向路透社表示，在澳大利亚联邦法院下令苹果允许符合条件的 Epic 应用重新上架后，《堡垒之夜》将于今日重返澳大利亚 App Store。今年 5 月《堡垒之夜》在全球范围重返 App Store 时，澳大利亚是唯一被排除在外的国家。Epic 当时选择暂缓，以便继续寻求法院命令，解决苹果支付条款方面的问题。法院要求苹果处理 Epic 符合规范的提交的命令即刻生效，无需等待定于 2027 年 3 月生效的更广泛的 App Store 变更。这意味着澳大利亚玩家将能再次通过 App Store 下载《堡垒之夜》，这一进展是 Epic 与苹果之间长期法律纠纷在澳大利亚市场的最新结果。",
-              "source_url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T13:55:06+08:00"
-            },
-            {
-              "title": "澳大利亚法院下令苹果向第三方应用商店开放 iPhone",
-              "brief": "澳大利亚联邦法院今日下令，苹果须自 2027 年 3 月 1 日起向澳大利亚用户开放第三方应用商店、直接应用下载和替代支付服务。此命令基于法院 2025 年 8 月认定苹果通过限制应用分发和支付方式滥用市场支配地位的裁决，适用于 Apple 账户地区为澳大利亚的用户，全球 Apple 开发者计划成员均可参与。苹果须允许用户通过竞争性应用市场和网站查找、下载、安装和更新应用，不得收费或阻挠，并须按与 App Store 分发基本相同的条款向开发者提供工具。开发者可提供替代支付并链接其他支付方式，苹果不得要求其同时提供自有购买系统、上报交易或接受审计，开发者还可通过竞争性支付服务提供更低价格。命令同时限制苹果对相关购买的抽成：对 App Store 外分发的应用，不得对替代支付收费；对 App Store 内应用，费用上限为实体商品支付的同等费用加合理的额外成本。App Store 外下载的应用仍须通过自动化安全或隐私扫描并由苹果或合格第三方公证。",
-              "source_url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-22T13:41:09+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果称开发者对 iPhone Duo 的支持“令人惊叹”",
+              "brief": "苹果表示，开发者正积极利用 iPhone Duo 的灵活性打造全新体验。其内屏比 iPhone 18 Pro Max 大 50%，支持多种使用姿态，开发者正在优化应用，涵盖拍摄分享、流媒体、游戏和多任务等场景。苹果全球开发者关系副总裁苏珊·普雷斯科特称，开发者社区的反应令人惊叹，从在内屏观看热门节目到多窗口操作和主机级游戏，开发者正在重新构想应用的可能性。首批体验将于本周五开启，Netflix、Prime Video、Paramount+ 等流媒体已适配外屏浏览与内屏大屏播放，苹果还将在 App Store 重点推荐优秀应用和游戏。",
+              "source_url": "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T20:28:16+08:00"
+            },
+            {
+              "title": "PHP 重大安全漏洞曝光，大量网站被迫下线",
+              "brief": "PHP 是一种开源通用脚本语言，被全球约 70% 的网站使用。今年 8 月中旬，AI 模型和一名网络安全研究人员同时发现了 PHP 的重大安全漏洞，两个漏洞组合可让攻击者直接访问网站背后的文件系统或数据库，可能泄露大量个人数据。为给 PHP 留出修复时间，漏洞披露被延迟至本周，但已提前两天泄露。目前并非所有网站都完成修补，亚马逊云服务称漏洞正在互联网上被广泛利用。美国国家安全局建议未修补的网站在下线修复前暂停服务，因此大量商业和政府网站已暂时关闭。9to5Mac 确认其网站已受到保护。",
+              "source_url": "https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T20:10:22+08:00"
+            },
+            {
+              "title": "iPhone Duo 评测：最佳折叠屏手机，但有所妥协",
+              "brief": "各家媒体对初代 iPhone Duo 的评测呈现出罕见的共识。评测普遍认为它是目前市面上最好的折叠屏手机，苹果的长期等待是正确的。但这款手机并不适合所有人：如果主要使用外屏、每天只展开几次，单手握持的重量和特殊的屏幕形状会是明显缺点，只有经常使用展开后大屏的用户才值得购买。苹果并未消除屏幕折痕，但评测者一致认为这是折叠屏上最不明显的折痕，实际使用中几乎不是问题。此外，许多第三方应用尚未适配，最坏情况下界面会陷在黑色内屏中央；从 Face ID 回归 Touch ID 也是一项妥协。",
+              "source_url": "https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-22T19:44:27+08:00"
+            },
             {
               "title": "古尔曼：苹果正在测试带面容 ID 的 iPhone Duo 2 原型机",
               "brief": "据古尔曼在 Power On 节目中透露，苹果内部正在测试 iPhone Duo 2 原型机，其中包含面容 ID 功能，面部识别传感器将集成在外屏的显示屏下方。初代 iPhone Duo 从面容 ID 改为触控 ID 是早期用户最大的抱怨之一，原因可能是超薄机身难以容纳相关组件。苹果一直在缩小面容 ID 体积，如 iPhone 18 Pro 已采用屏下红外摄像头。此外，员工还在探索为下一代 iPhone Duo 带来操作按钮。目前尚不确定苹果若加入面容 ID 后是否会移除电源键上的触控 ID，还是保留两种生物识别方式。该功能最早可能在明年推出，也可能推迟到 iPhone Duo 3。",
@@ -61,33 +82,19 @@
               "source_url": "https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-22T17:00:00+08:00"
-            },
-            {
-              "title": "Epic Games诉讼后法院裁定苹果须在澳大利亚开放第三方应用商店",
-              "brief": "澳大利亚联邦法院法官Jonathan Beach在一份235页的裁决中下令，自2027年3月1日起，苹果必须允许拥有澳大利亚Apple账户的iPhone用户从第三方应用商店和网站安装应用。苹果可在2月15日前申请延长至5月3日，需法院批准。此前法院已裁定苹果通过限制替代应用分发和支付方式违反澳大利亚竞争法，法官指出苹果在iOS应用分发和应用内支付市场拥有实质性市场支配力，并通过开发者协议和App Store准则限制竞争，包括阻止App Store之外的下载安装、要求使用苹果支付系统、禁止链接替代支付方式等。裁决还提及2020年苹果下架《堡垒之夜》并终止Epic开发者账户的行为，认定其违反2010年《竞争与消费者法》第46条。苹果已表示计划上诉。",
-              "source_url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T11:57:58+08:00"
-            },
-            {
-              "title": "苹果第五大道旗舰店惊现巨型 iPhone Duo 装置，为周五首发造势",
-              "brief": "据网友在 X 平台爆料，苹果第五大道旗舰店已开始在其标志性玻璃立方体入口周围搭建多个大型矩形装置。这些装置目前仍被黑布和白色保护膜覆盖，但外形显示很可能是巨型 iPhone Duo 模型。近年来，苹果一直通过旗舰门店的特色展示庆祝新 iPhone 发布：2024 年曾以 Apple Intelligence 配色点亮玻璃立方体，去年在多处安装了巨型 Pro 和 Air 展示装置，上个月还以酒红、银色和蓝色装饰庆祝 iPhone 18 Pro 发布。目前第五大道店外尚未出现排队人流，但其他门店据报道已有顾客开始排队。苹果已确认美国零售店周五将有少量 iPhone Duo 现货供到店顾客购买，而中国大陆、日本、法国等市场的门店则仅提供线上下单后的到店自提服务。",
-              "source_url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T07:16:18+08:00"
-            },
-            {
-              "title": "9to5Mac 每日播报（2026年10月21日）：iPhone Duo 新功能等",
-              "brief": "本期 9to5Mac Daily 播客讨论了多条苹果新闻：报告称苹果在与竞争对手的较量中取得进展，但 iPhone 18 Pro 和 iPhone Duo 仍面临挑战；苹果表示美国供应商为 iPhone 18 Pro 和 iPhone Duo 生产近 100 个零部件；苹果现已开售 iPhone 18 Pro 及新款 Mac Studio 和 Mac mini 的维修零件；iPhone Duo 将于下周随 iOS 27.2 获得 Apple Pencil 支持，并在年内晚些时候加入单手模式功能；此外还介绍了 iPhone Duo 现场购买可及性的相关信息。",
-              "source_url": "https://9to5mac.com/2026/10/21/daily-october-21-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-22T06:44:33+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Android 一直以最好的方式保持着混乱",
+              "brief": "作者在专栏中指出，iPhone Duo 折叠屏评测的共同结论是硬件出色但偏重、软件体验混乱。当苹果折叠屏周五上市时，早期用户将重温 Android 新形态刚出现时的感受：兴奋、粗糙又略带恼人。作者认为 Android 本质上是属于爱折腾者的系统，用户愿意在主力机上刷测试版，独立开发者也不断填补生态空白。Android 的开放、灵活与低成本使其适配各种用例和设计，也让模拟器等灰色玩法更容易实现。新形态应用尚未优化的问题，正是 Android 折叠屏曾经历过的早期阵痛。",
+              "source_url": "https://9to5google.com/2026/10/22/android-has-always-been-chaotic-in-the-best-ways-possible/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-22T19:00:00+08:00"
+            },
             {
               "title": "INMO GO3智能眼镜：配备显示屏、集成Gemini并巧妙保护摄像头隐私",
               "brief": "INMO GO3是一款主打AI体验的智能眼镜，旨在帮助用户保持连接、完成事务，同时减少对手机的依赖。它为每只眼睛配备MicroLED显示屏，亮度高达1500尼特，视场角30度，可在不打断对话或不看手机的情况下查看信息。核心功能包括实时翻译，支持98种语言，其中13种可完全离线使用，译文直接显示在视线中；还可在会议中记笔记、充当提词器、提供步行导航等。其AI助手由谷歌Gemini和OpenAI ChatGPT驱动，可回答问题、识别拍摄图像。尽管功能丰富，眼镜仅重58克，镜腿厚8毫米，外观与普通眼镜无异。电池采用可更换设计，以解决续航问题。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/21/samsung-re-newed-refurbished-galaxy-phones-amazon/",
               "source_name": "9to5Google",
               "published_at": "2026-10-22T03:25:00+08:00"
-            },
-            {
-              "title": "Xbox云游戏额外游戏时长收费起步约每小时40美分",
-              "brief": "微软证实，将开始对通过Game Pass使用Xbox云游戏的玩家实施每月时长限制，最低档每月仅5小时，超出后需付费。微软目前正面向Insider测试新定价，并将于下月更大范围推出。确认的尝鲜价为：10小时3.99美元、25小时7.99美元、50小时11.99美元，最低档约合每小时40美分，50小时档约合每小时24美分。该价格对应无广告串流；微软同时指出，玩家也可选择免费带广告串流，但需忍受更长的等待时间和更低的串流画质。",
-              "source_url": "https://9to5google.com/2026/10/21/xbox-cloud-gaming-added-playtime-pricing/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-22T02:40:00+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Wallet 两项实用功能更新开始推送",
+              "brief": "Google Wallet 正在推出两项实用升级。第一项是通知信息流功能，用户可在通知中查看与钱包相关的更新，例如优惠活动和卡片动态，方便及时获取信息。第二项是对护照等身份证件的支持，用户可以将相关证件添加到 Google Wallet 中，在部分场景下出示使用。这两项功能目前正在逐步向用户推送，具体可用性可能因地区和设备而有所不同。",
+              "source_url": "https://www.androidauthority.com/google-wallet-notification-feed-passport-support-3726594/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T20:10:03+08:00"
+            },
+            {
+              "title": "一加新机配备风扇，可为手机和双手降温",
+              "brief": "一加即将推出的新机型将配备主动散热风扇。该风扇不仅能降低手机内部硬件的温度，帮助处理器在高负载时保持性能，其吹出的气流还能吹向用户的手部，在游戏等场景下为玩家双手降温，缓解长时间握持产生的闷热感。这一设计面向追求极致游戏体验的用户，具体机型预计为一加 Ace 7 系列产品。",
+              "source_url": "https://www.androidauthority.com/oneplus-ace-7-active-cooling-fan-3726605/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T19:53:54+08:00"
+            },
+            {
+              "title": "这款应用可在任何安卓折叠屏上重现 iPhone 待机显示模式",
+              "brief": "一款新应用可以让安卓折叠屏手机获得类似 iPhone 双屏组合的待机显示（StandBy）模式体验。当手机折叠并横向放置时，屏幕会显示时钟、日程、天气、照片等小组件，变成一款桌面信息展示设备。该应用适配多种折叠屏机型，用户无需等待系统原生支持，安装后即可自定义显示内容，让折叠屏手机在充电或闲置时发挥更多用途。",
+              "source_url": "https://www.androidauthority.com/iphone-duo-standby-android-foldable-3726581/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T19:39:38+08:00"
+            },
+            {
+              "title": "谷歌新健康功能在 Pixel Watch 与 Fitbit 之间混乱不一",
+              "brief": "谷歌近期推出多项新健康功能，但这些功能在 Pixel Watch 和 Fitbit 设备之间的支持情况十分混乱。部分功能仅在特定设备或地区可用，不同品牌的表带和手表所获得的健康数据与功能权限并不一致，用户难以判断自己的设备能使用哪些功能。此外，Fitbit 应用与 Pixel Watch 的生态整合也存在割裂，导致体验碎片化，给用户带来困扰。",
+              "source_url": "https://www.androidauthority.com/google-health-features-confusing-mess-pixel-watch-fitbit-3726085/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-22T19:30:29+08:00"
+            },
+            {
               "title": "索尼悄然取消了 Xperia 手机的关键 5G 变通方案",
               "brief": "索尼对 Xperia 手机此前的一项重要 5G 变通做法进行了调整。过去，对于处于 5G 尚未获得官方支持市场的用户，Xperia 设备可以通过修改设置来启用 5G 网络连接。然而根据最新报道，索尼已在新的固件更新中封堵了这一途径，用户将无法再通过该方法在非官方支持的市场激活 5G 功能。这意味着相关地区用户的 Xperia 手机将只能继续使用 4G 及以下网络，除非索尼日后正式在这些市场开放 5G 支持。此举引发部分用户的关注和讨论。",
               "source_url": "https://www.androidauthority.com/sony-xperia-no-5g-unsupported-markets-3726548/",
               "source_name": "Android Authority",
               "published_at": "2026-10-22T18:43:44+08:00"
-            },
-            {
-              "title": "独家：三星 Galaxy Fit 4 三种配色曝光",
-              "brief": "Android Authority 独家放出了三星新款手环 Galaxy Fit 4 的实机图片，展示了三种不同的配色版本。从曝光的渲染图和实物照来看，Galaxy Fit 4 延续了前代 Galaxy Fit 3 的整体设计语言，采用方形屏幕搭配可更换表带的结构，外观变化不大。报道展示了不同颜色表带的搭配效果，显示用户可根据喜好进行选择。目前三星尚未官方公布这款新品的具体规格和发布时间，但此次曝光表明 Galaxy Fit 4 可能已接近发布阶段，更多细节有待官方后续披露。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-fit-4-first-look-3726577/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T18:37:44+08:00"
-            },
-            {
-              "title": "谷歌最新健康功能不支持 Fitbit 设备引不满（更新：官方回应）",
-              "brief": "谷歌在健康应用中推出了新的睡眠呼吸质量相关功能，但该功能并不支持 Fitbit 品牌的设备，引发了用户的不满。作为谷歌旗下专注健康追踪的品牌，Fitbit 的设备反而无法使用谷歌最新的睡眠健康升级，被指像是在睡眠支持方面落后。对此，谷歌后续发布了新的官方声明，就功能兼容问题作出回应，解释了相关支持的安排。此次事件凸显了谷歌在整合 Fitbit 与自家健康服务过程中的衔接问题，也引发外界对 Fitbit 未来在谷歌生态中地位的讨论。",
-              "source_url": "https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T18:30:35+08:00"
-            },
-            {
-              "title": "三星安卓 XR 眼镜或让初次用户心动",
-              "brief": "作者表示自己从未拥有过智能眼镜，但三星基于安卓 XR 平台的智能眼镜可能会改变这一点。文章介绍了三星这款 XR 眼镜的亮点：与谷歌合作搭载 Android XR 系统，采用轻便的无显示屏或简化设计，主打 AI 助手、导航、信息提示、拍摄等日常辅助功能。相比笨重的头显设备，眼镜形态更贴近日常佩戴习惯，上手门槛更低。作者认为，对于像自己这样尚未接触过智能眼镜的普通用户而言，三星 XR 眼镜凭借轻量设计和生态潜力，或许能成为吸引新用户入场的契机。",
-              "source_url": "https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T18:30:34+08:00"
-            },
-            {
-              "title": "作者用 AI 氛围编程为 Pebble Time 2 开发应用的经历与教训",
-              "brief": "作者尝试借助 AI 进行氛围编程（vibe coding），为经典智能手表 Pebble Time 2 开发了一款应用，并总结了过程中的经验教训。文章记录了从构思、与 AI 协作生成代码，到调试和适配 Pebble 系统的完整流程。作者发现，AI 能够快速生成可用的代码框架，大幅降低开发门槛，但在细节处理、平台特性适配和错误排查方面仍存在明显不足，需要人工介入和反复验证。作者表示，这次尝试让他体会到 AI 辅助编程的便利与局限，也收获了关于如何与 AI 高效协作开发的实用心得。",
-              "source_url": "https://www.androidauthority.com/i-vibe-coded-pebble-time-2-app-learned-lessons-3724028/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-22T18:00:33+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "AI 购物代理已就绪，但一些零售商心存戒备",
+              "brief": "Meta、谷歌、OpenAI 等公司相继推出代理式购物工具，宣称能让购物更加便捷，演示中 AI 代理可以流畅地预订机票和酒店、浏览商品。但记者实测发现，用 AI 代理购物体验并不理想：它需要大量细致的指令和规格说明，经常遇到技术问题，交回的结果也往往与要求不符。与此同时，许多零售商网站正频频拦截 AI 代理的访问。即便代理购物能够运作，也可能预示着一个更令人烦恼的人类消费未来。",
+              "source_url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+              "source_name": "The Verge",
+              "published_at": "2026-10-22T08:30:00-04:00"
+            },
+            {
+              "title": "克劳德并没有发明蝎子抗毒血清",
+              "brief": "一家投资研究公司希望证明 AI 能够彻底改变药物研发，于是与 Anthropic 合作，测试一个未发布的 Claude 版本能否研制出蝎子抗毒血清。结果它做不到。虽然 Claude 提出了一些有前景的起点方案，但距离真正可行的药物还有很大差距。这次尝试被称为“氛围编程”式的药物开发实验，表明 AI 在药物研发领域虽有潜力，但远未达到颠覆性的程度，业界的部分宣传与实际能力之间仍存在明显落差。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+              "source_name": "The Verge",
+              "published_at": "2026-10-22T08:21:07-04:00"
+            },
+            {
+              "title": "全球首款三颗 2 亿像素摄像头手机表现出色",
+              "brief": "OPPO Find X10 Pro Max 是首款配备三颗 2 亿像素摄像头的手机，此前摩托罗拉 2022 年的 X30 Pro 首次引入 2 亿像素主摄，今年的 vivo X300 Ultra 则首次搭载两颗 2 亿像素摄像头。评测认为，这款手机的优势更多来自传感器尺寸、动态范围和出色的软件调校，而非单纯的像素数量。其设计仍以相机为中心，但相比多数 Ultra 机型不那么夸张，整体表现优秀。",
+              "source_url": "https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels",
+              "source_name": "The Verge",
+              "published_at": "2026-10-22T08:00:00-04:00"
+            },
+            {
+              "title": "Eiliko 厂商称将聘请独立安全公司应对机器人安全漏洞",
+              "brief": "Eiliko 是一款可挂在包上的可爱机器人挂件，内置 AI 对话功能，却被曝出严重安全问题：黑客能轻易读取用户与玩具对话的完整记录。《The Verge》与安全研究员 Sammy Azdoufal 花了一个多月联系 Energize Lab 公司，包括致信 CEO，均无人回应。如今公司终于打破沉默，在一份匿名声明中承认已确认报道所指的核心问题并逐一解决，还表示将聘请独立安全公司，并称“我们知道仅凭言语无法赢回信任”，但其回应仍显不足。",
+              "source_url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+              "source_name": "The Verge",
+              "published_at": "2026-10-22T07:00:00-04:00"
+            },
+            {
               "title": "YouTube否认正在测试隐藏“踩”按钮",
               "brief": "此前有用户在X上分享截图，显示YouTube视频的“踩”按钮被移入三点菜单，引发外界猜测YouTube正在测试隐藏该按钮。但YouTube发言人金伯利·泰勒周三向The Verge证实，公司并未在测试对用户隐藏“踩”按钮。实际上，YouTube是在为创作者推出新的界面：在创作者查看自己上传的视频时，“踩”按钮才会被移到三点菜单之后，普通用户观看视频时的界面并无变化。这一改动仅影响创作者本人视角，并非面向所有用户的隐藏测试。",
               "source_url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
               "source_name": "The Verge",
               "published_at": "2026-10-21T19:46:45-04:00"
-            },
-            {
-              "title": "特斯拉称车主明年可将自己的车辆加入Robotaxi车队",
-              "brief": "多年来，埃隆·马斯克一直向特斯拉车主承诺实现无监督自动驾驶，并允许车主将自己的车辆加入公司Robotaxi车队。在周三的第三季度财报电话会议上，特斯拉终于给出了时间表。据特斯拉自动驾驶副总裁阿肖克·埃卢斯瓦米透露，公司计划在2027年第二季度让车主能够选择将自己的车辆加入Robotaxi网络。不过，这一承诺面临诸多质疑：特斯拉此前在自动驾驶方面曾多次错过自行设定的期限，且无人驾驶出租车服务还需跨越严峻的监管障碍，能否按期兑现仍是未知数。",
-              "source_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-              "source_name": "The Verge",
-              "published_at": "2026-10-21T19:36:31-04:00"
-            },
-            {
-              "title": "研究显示数据中心可能抵消数十年空气质量改善成果",
-              "brief": "得克萨斯州已成为生成式AI基础设施建设的核心地区，但最新研究显示，大量新建数据中心可能使当地空气污染重回2000年代的水平。新建及规划中的数据中心对电力需求巨大，开发商和公用事业公司如何满足这一需求——是采用燃气轮机还是可再生能源——将直接决定污染程度。为获得充足电力，科技公司和数据中心开发商正在探索新的方式，包括自建供电设施。然而就目前情况来看，如果所有规划中的数据中心项目都接入电网，空气污染形势不容乐观，可能抵消多年来空气质量治理的成果。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-              "source_name": "The Verge",
-              "published_at": "2026-10-21T18:33:44-04:00"
-            },
-            {
-              "title": "Meta 将发行新类别股票以资助 AI 战略",
-              "brief": "Meta 在第三季度财报中宣布，将发行一类无投票权的新股票，用于资助其人工智能计划、潜在收购以及员工薪酬，新股票预计于2027年开始交易。Meta 在新闻稿中表示，在行业 AI 转型的背景下，为保持竞争力、维持增长、扩建基础设施并推进新战略举措，所需的投资规模巨大。首席财务官 Susan Li 在财报电话会议上称，新类别股票将扩充公司融资工具，提供灵活性，以投资于 AI 驱动的各业务领域的强劲增长势头。此前 Meta 已在 AI 竞赛中投入数十亿美元。",
-              "source_url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-              "source_name": "The Verge",
-              "published_at": "2026-10-21T17:30:02-04:00"
-            },
-            {
-              "title": "纽约首个微短剧电影节寻找它的观众",
-              "brief": "纽约举办了美国首个微短剧电影节，聚焦专为手机竖屏观看制作的垂直短剧。这类微短剧通常每集时长仅数分钟，剧情节奏快、冲突密集，近年来在流媒体平台迅速走红并形成规模可观的产业。本届电影节由比尔·布洛克与萨尔瓦多·帕斯科维茨等人发起，旨在为这一新兴内容形式争取主流艺术界的认可，同时探索其商业模式与创作标准。然而活动也面临挑战：如何在吸引行业内部人士的同时找到更广泛的观众群体，并让微短剧摆脱“快餐内容”的标签，成为主办方需要解决的问题。",
-              "source_url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-              "source_name": "The Verge",
-              "published_at": "2026-10-21T16:49:07-04:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "333个Tor出口节点遭劫持，用于拦截SSH流量并获取明文邮件",
+              "brief": "研究人员周二报告称，未知黑客劫持了300多个Tor出口节点，并将其重新配置，以偏好未加密的邮件流量，同时把SSH连接重定向到他们控制的服务器。劫持始于8月底，攻击者利用一个重复使用的有效密码入侵了Tor的一台管理服务器，并安装了12年前被发现、针对Linux的后门程序Ebury。攻击者随后通过SSH连接到名为Switzerland2的第二台Tor服务器并植入Ebury，接着重新配置了该服务器托管的两个出口节点。最终共有333个出口节点参与了针对SSH和邮件的拦截行动，但调查人员尚未确定攻击者是如何控制所有底层服务器的。其中一组更改将流经Tor的SSH流量重定向到12台攻击者控制的拦截服务器之一，忽略主机密钥变更警告的用户会输入SSH密码；另一组更改则封锁了用于加密邮件通信的多个端口。",
+              "source_url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-22T19:30:33+08:00"
+            },
+            {
+              "title": "联合国承认1.5℃温控目标无法实现，提出应对新方案",
+              "brief": "2015年，除两个国家外的所有国家都同意努力将全球气温升幅控制在比工业化前水平高1.5℃以内。此后，多数国家将该承诺视为愿景，美国等主要排放国更是反复进出协定，而地球碳排放持续上升，气温已接近或达到1.5℃的界限。周三，联合国环境规划署（UNEP）首次正视这一现实，承认将升温控制在1.5℃以内的目标已不可行，转而将新目标定为尽量缩短超出该界限的时间并控制超出幅度。为实现这一目标，需要在当前大幅削减排放，并在本世纪结束前从大气中移除数百吉吨的二氧化碳。由于联合国采用数十年的平均气温来判断当前状态，严格来说升温尚未越过界限，但考虑到近期异常强烈的厄尔尼诺现象，实际气温恐怕已难以回落。",
+              "source_url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-22T19:15:36+08:00"
+            },
             {
               "title": "FCC主席警告媒体勿发布特朗普抱怨的“虚假民调”",
               "brief": "美国联邦通信委员会（FCC）主席布伦丹·卡尔警告广播机构不要播出“虚假民调”，呼应了特朗普总统对新闻媒体的诸多抱怨之一。卡尔在X上发帖称，许多记者和广播机构在播出这些民调时忽视基本新闻伦理，且未告知公众这些民调缺乏科学、准确甚至真实的依据，建议广播机构避免参与新闻扭曲或播报广播骗局。他还敦促广播机构为观众提供所报道民调的更多背景信息。事实上，一家小型民调机构本周被揭穿是骗局，8月也发生过类似事件，新闻媒体已对此进行了报道。卡尔的帖子没有提及任何具体的虚假民调或播出这些民调的广播机构，其模糊性可能有助于他和特朗普对新闻媒体的持续施压。前FCC主席认为卡尔意在恐吓广播机构进行自我审查。",
@@ -228,20 +242,6 @@
               "source_url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-22T05:48:52+08:00"
-            },
-            {
-              "title": "特斯拉第三季度利润下滑 43%",
-              "brief": "特斯拉公布 2026 年第三季度财报：营收 280 亿美元，与去年同期基本持平，其中汽车业务收入 206 亿美元，同比下降 3%。曾持续增长的太阳能与储能业务收入下滑 16% 至 29 亿美元；包含零部件和超充在内的服务及其他收入增长三分之一至 46 亿美元。运营费用上升 39% 至 48 亿美元，运营利润率从去年同期的 5.8% 降至 2.6%。净利润 7.87 亿美元，同比下降 43%。资本支出翻倍至 47 亿美元，自由现金流下降 62% 至 15 亿美元。监管积分收入也从 4.17 亿美元骤降至 1.13 亿美元，因其他车企已普遍拥有电动车产品线。",
-              "source_url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-22T05:35:07+08:00"
-            },
-            {
-              "title": "苹果音乐全新人工打造品牌在AI时代意义重大",
-              "brief": "苹果 recently 为Apple Music推出了全新品牌标识，采用其新一代Liquid Glass设计语言。苹果还发布了一部幕后制作视频，展示这一品牌的诞生过程：苹果聘请设计机构TBWA/Media Arts Lab与知名音乐制作人Fred again..合作，搭建完整摄制团队，并使用装有换能器的矿物油槽，将音频信号转化为物理涟漪，拍摄大量高粘度矿物油与印有品牌图案的透明面板互动的画面。作者认为，在AI生成内容泛滥的当下，苹果展示真人亲手创作的过程具有特殊意义，尽管这种做法难免显得有些自命不凡，但彰显人文制作价值仍值得关注。",
-              "source_url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-22T03:44:40+08:00"
             }
           ]
         }
@@ -287,39 +287,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "iDaily：率先支持iPhone Duo折叠屏的新闻杂志应用",
-              "brief": "新闻杂志应用iDaily宣布率先支持iPhone Duo折叠屏设备，针对新机型提供两项专属阅读体验：在大屏展开模式下可呈现更广阔的视野，外屏则提供轻盈阅读模式，让浏览更加轻松。此外，该应用还支持iOS 27新一代Liquid Glass液态界面。目前应用正限时免费中，用户可直接通过App Store下载使用。据介绍，iDaily Media是全球领先的移动互联网科技公司，为超过4.8亿iOS与Android用户提供服务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583368.htm",
+              "title": "美国农机巨头AGCO将于2027年引入人形机器人 强调协助而非取代工人",
+              "brief": "美国农业机械制造商AGCO宣布与Agility Robotics合作，计划于2027年在堪萨斯州工厂试点部署人形机器人Digit，该工厂生产打捆机、割草压扁机等设备。Digit初期不会承担复杂装配工作，而是执行零件分类、堆放整理和搬运周转箱等重复性任务。AGCO强调引入机器人的核心目标是提升安全性和生产效率，而非减少员工数量，让员工能投入技术要求更高的任务。Digit此前已在亚马逊仓库和GXO仓储设施中应用，累计运行超过6.5万小时。不过劳工组织对人形机器人普及带来的就业冲击仍保持警惕。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583394.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T18:36:52+08:00"
+              "published_at": "2026-10-22T20:43:27+08:00"
             },
             {
-              "title": "报道称苹果将iPhone Duo全年出货目标上调44%至1400万台",
-              "brief": "据报道，苹果已将折叠屏手机iPhone Duo的全年出货目标上调44%，至1400万台。iPhone Duo开售后约半小时内，上市日期便从发售日推迟至2027年1月25日，涵盖所有颜色和存储配置，苹果随后形容需求“非常惊人”。不过提高目标不代表产能已同步到位，最终出货量仍取决于组装进度，此前供应链曾提及组装、屏幕和铰链制造遇到困难，首批供应可能受限。iPhone Duo将于10月23日上市，美国起售价1999美元。此前另有报道称生产订单提高约30%，因统计周期不同，不能与此次44%的数据直接比较。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583366.htm",
+              "title": "三星将HBM基底芯片与2纳米工艺结合 或为高通提供新选择",
+              "brief": "据报道，三星正计划将部分4纳米产能转向HBM基底芯片制造，同时推进2纳米工艺应用。其下一代M2800调制解调器将由系统LSI部门采用2纳米工艺开发，预计2027年完成研发，配合2028年Galaxy S28系列手机使用。三星还在验证利用自家2纳米工艺制造英伟达定制化HBM产品NVHBM基底芯片的可行性，以便在台积电产能紧张时提供替代方案。分析认为，如果三星2纳米工艺良率和产能改善，高通未来可能考虑采用台积电与三星并行的双代工厂策略，但目前尚无证据表明相关决定已经作出。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583392.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T16:28:42+08:00"
+              "published_at": "2026-10-22T20:42:49+08:00"
             },
             {
-              "title": "高端电路板需求增长推高能耗 苹果供应链减排遭遇新挑战",
-              "brief": "人工智能和高性能计算市场快速发展，带动更复杂电路板产品需求增长，而这些产品制造过程需消耗更多电力和水资源，给苹果供应链环保规划带来额外难题。苹果此前要求直接制造供应商在2030年前实现其产品生产环节100%使用可再生电力，但行业数据显示，外购电力仍占印刷电路板产业碳排放总量近60%。材料替代同样面临挑战，现有低碳替代材料尚无法完全满足高端电路板对性能和可靠性的要求，新材料也需长期测试验证才能大规模应用。分析认为，在追求更强算力与实现环保目标之间取得平衡，正成为苹果及供应链伙伴未来数年的重要课题。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583364.htm",
+              "title": "任天堂Switch 2首次被成功破解 自制软件与游戏模组大门打开",
+              "brief": "开发者近日公布了任天堂Switch 2的首个越狱方案，利用一款具备向下兼容特性的初代Switch游戏中的32位整数溢出漏洞，实现在最新固件上运行任意原生代码。获得权限后，用户可运行自制应用、安装游戏模组、备份存档并访问大部分硬件功能。开发者还演示了在《马力欧赛车世界》中加入彼得·格里芬、初音未来等角色。由于破解需借助特定游戏触发漏洞，重启后需重新操作。开发者透露研究中使用了OpenAI Codex等AI工具辅助分析，但出于安全与法律考虑未公开技术细节。任天堂预计将很快下架相关游戏并修复漏洞。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1583390.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T16:28:18+08:00"
+              "published_at": "2026-10-22T20:40:53+08:00"
             },
             {
-              "title": "亚马逊警告：AI发现的新型网络安全漏洞正遭到大规模利用",
-              "brief": "研究人员借助OpenAI和谷歌的人工智能模型发现了PHP编程语言中潜伏十多年的两个安全漏洞，亚马逊警告这些漏洞正遭到大规模利用，且在公开披露前四天就有攻击尝试。美国国家安全局和英国国家网络安全中心警告，漏洞可让黑客无需密码即可控制网站服务器、访问文件系统或数据库，建议无法立即更新系统的机构暂时下线。PHP支撑全球约70%的网站运行，WordPress也主要依赖该语言。OpenAI表示这是近年来影响最重大的网络安全问题之一，并与PHP、Calif和Wiz合作验证漏洞、开发修复补丁。美国白宫称联邦机构正在评估对政府系统和关键基础设施的影响。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583362.htm",
+              "title": "比尔·盖茨曾称Ctrl+Alt+Del是个错误 Windows为何至今保留这一组合键",
+              "brief": "Ctrl+Alt+Delete组合键由IBM工程师戴维·布拉德利于1981年发明，最初用于让程序员在不关机的情况下快速重启IBM个人电脑。盖茨曾在2013年和2017年公开表示这一设计是个错误，称微软本希望使用单键操作。1993年Windows NT 3.1推出时，微软将该组合键赋予全新用途：触发安全注意序列，帮助用户确认正在与真正的操作系统登录界面交互，防止普通程序伪造登录窗口窃取密码。在Windows 11中，该组合键仍用于打开系统安全界面，可锁定电脑、切换用户、注销账户或启动任务管理器，企业环境还可强制要求登录前执行此操作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583388.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T16:20:33+08:00"
+              "published_at": "2026-10-22T20:38:07+08:00"
             },
             {
-              "title": "《GTA6》疑似在迈阿密打造Burger Shot主题餐厅",
-              "brief": "有消息称《侠盗猎车手6》中的虚构快餐品牌Burger Shot疑似将在迈阿密打造现实主题餐厅，但具体营业形式和开放范围仍待核实。Burger Shot是《侠盗猎车手》系列中的虚构快餐品牌，主要戏仿麦当劳、汉堡王等连锁品牌及高热量食品，其代表性餐品“The Heartstopper”由七层肉饼和多种配料组成，目前尚无信息确认现实餐厅会提供这款食品。此外，迈阿密热火计划在11月18日的一场常规赛中以“Vice City Heat”名义亮相，使用新球衣及《GTA6》主题球场，主题餐厅是否会配合这场比赛开放也未得到确认。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1583360.htm",
+              "title": "AMD复活锐龙7 5800X3D源于苏姿丰提议 AM4平台支持将延至2029年",
+              "brief": "AMD高管近日透露，重新推出锐龙7 5800X3D十周年纪念版的想法由CEO苏姿丰在数年前提出，旨在回馈长期支持AM4平台的用户，让他们无需更换主板和DDR5内存即可升级，并非为应对近期内存涨价而临时推出。由于原版处理器使用的第一代3D V-Cache堆叠工艺已停产，AMD需要重新验证设计与新工艺的兼容性，投入了大量工程资源。此外，AMD已将AM5平台的支持期限延长至2029年。AMD高管还表示，当前DRAM供应紧张不仅影响DDR5，部分市场DDR4现货价格甚至高于DDR5，但为DDR4用户提供升级选择仍是重要考量。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583386.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-22T15:35:39+08:00"
+              "published_at": "2026-10-22T20:36:24+08:00"
             }
           ]
         },
@@ -327,45 +327,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "影石 Ace Pro 3 运动相机现身 FCC 认证数据库，有望近期发布",
-              "brief": "影石 Ace Pro 3 运动相机已现身 FCC 认证数据库，有望近期发布。认证信息显示，该机预计搭载 1 英寸 5000 万像素 CMOS 传感器，支持拍摄 8K 30FPS 视频以及 4K 120FPS 10bit 视频，并具备 14-bit RAW 照片拍摄、徕卡色彩配置文件、HDR 和 10bit Log 等模式。此外，该机将配备 2250mAh 电池，最长支持 200 分钟 4K 视频录制，裸机防水深度可达 16 米。此前曝光信息显示其预计今年底上市。",
-              "source_url": "https://www.ithome.com/1/016/644.htm",
+              "title": "《战狗》限制高延迟玩家跨区匹配，部分玩家威胁退款",
+              "brief": "《战狗》开发工作室 Bulkhead 为打击作弊实施基于网络延迟的地区限制方案，将玩家最高允许延迟限制在 175 毫秒，超过阈值的玩家将受到跨地区游戏限制。该功能正在服务器后台逐步实施，仍需进一步调整。工作室称原本希望通过宽松的跨地区匹配改善社交体验，但未达预期，因此收紧限制，优先保护人数更多的玩家群体。此举引发部分玩家反对，有人因无法与海外朋友联机而考虑退款，亚洲玩家则批评开发商未优先加强反作弊系统。CEO Joe Brammer 承认新措施会损害部分玩家体验，延迟限制只是临时措施，团队正研究面向全球玩家的解决方案，但准确判断玩家实际所在地并不简单。",
+              "source_url": "https://www.ithome.com/1/016/677.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T18:42:05+08:00"
+              "published_at": "2026-10-22T20:41:43+08:00"
             },
             {
-              "title": "AMD 谈锐龙 9 9950X3D2：游戏应用尚不足以支撑双 3D V-Cache 需求，但 AI 使其变为可行",
-              "brief": "AMD 高管 Kirsch 在采访中回应锐龙 9 9950X3D2 双 3D V-Cache 设计：此前因游戏基本只能利用单个 CCD，双 CCD 均配备 3D V-Cache 难以带来与成本匹配的游戏性能增益，但随着 AI 应用发展，这种设计如今有了更合理的应用空间，加上大量用户需求，促成产品推出，该处理器国行售价 6999 元。他还谈及 R7 7700X3D 采用 Raphael 架构是为利用现有芯片库存，R7 5800X3D 十周年纪念版由苏姿丰提出，旨在为 AM4 用户提供升级机会，并强调 AM5 平台将尽可能延长生命周期。",
-              "source_url": "https://www.ithome.com/1/016/643.htm",
+              "title": "腾势 N8 大五座纯电 SUV 定档 10 月 26 日开启小订，11 月上市",
+              "brief": "比亚迪腾势 N8 将于 10 月 26 日开启小订，11 月正式上市，新车推出日光橙配色。腾势 N8 是一款大五座纯电 SUV，车身长 5150mm、宽 1999mm、高 1820mm，轴距 3075mm，搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。工信部申报信息显示，新车有单电机版 320kW、高性能单电机版 370kW 和三电机版 270/310/310kW 三个版本。智能座舱方面，新车全球首发天际屏加巨幕屏组合，包括 1.1 米超长 PHUD 天际屏和 30 英寸超大巨幕屏，天际屏承载导航、车速等驾驶信息，巨幕屏支持多窗口协同、全屏观影、无麦 K 歌等场景。",
+              "source_url": "https://www.ithome.com/1/016/676.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T18:41:13+08:00"
+              "published_at": "2026-10-22T20:40:42+08:00"
             },
             {
-              "title": "7.98 万元起：一汽-大众捷达 M6 上市，搭载地平线征程 6M 辅助驾驶",
-              "brief": "一汽-大众捷达 M6 正式上市，起售价 7.98 万元。新车采用一体化封闭式前杠与全新品牌 Logo，轿跑姿态侧面设计，配贯穿式 LED 尾灯，车身长宽高为 4806/1895/1500mm，轴距 2820mm。智能方面搭载地平线征程 6M 芯片，支持城区/高速 NOA、跨层记忆泊车等，OTA 后支持车位到车位全链路领航；车机接入千问、DeepSeek、豆包三大模型。内饰配全液晶仪表和 15.6 英寸 2.5K 中控屏。动力提供 113kW 与 145kW 电机，续航 465km 和 555km，支持 3.5kW 外放电。",
-              "source_url": "https://www.ithome.com/1/016/639.htm",
+              "title": "小米米家热敷坐姿垫开启众筹：久坐提醒、三挡恒温，179 元",
+              "brief": "小米米家热敷坐姿垫在众筹平台开启众筹，价格为 179 元。产品将坐垫与热敷功能一体化，适配腰背曲线，配备红外感应组件，可智能感知久坐状态并适时提醒。新品搭载 NTC 智能温控技术，实时精准控温，提供三挡温感可随心调节。产品支持无线与有线两种模式自由切换，无线模式不受电源线和插座位置限制，使用更灵活。材质方面，产品采用高韧性尼龙材质一体成型，具备强支撑、高回弹、耐弯折特性；坐垫选用高品质回弹记忆棉，通过 50000 次受压回弹测试；底座设有两处透气孔，可减少热量积聚。",
+              "source_url": "https://www.ithome.com/1/016/674.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T18:32:33+08:00"
+              "published_at": "2026-10-22T20:37:33+08:00"
             },
             {
-              "title": "壹号本 OneXPlayer 3 三合一游戏掌机体验：首发英特尔 Arc G3 Extreme",
-              "brief": "壹号本推出 OneXPlayer 3 三合一游戏掌机，首发预售价 8999 元起，最大卖点为掌机、平板、迷你笔记本三形态切换，并首发搭载英特尔 Arc G3 Extreme 平台。该芯片基于 Panther Lake 架构与 Intel 18A 制程打造，采用 14 核 14 线程混合架构，最高睿频 4.7GHz，功耗可在 8W 至 35W 范围调节，内置 Xe3 架构锐炫 B390 核显，支持硬件光追与 XeSS 3.0，平台总 AI 算力最高 180 TOPS。整机配备 8.8 英寸 1920×1200 OLED 屏幕、85Wh 电池，官方称 35W 下可流畅运行 3A 大作。",
-              "source_url": "https://www.ithome.com/1/016/637.htm",
+              "title": "比亚迪第三代唐预扣提车价曝光：后驱激光尊荣型 22.5 万元",
+              "brief": "比亚迪第三代唐预扣提车价曝光，后驱激光尊荣型为 22.5 万元，新车将于四季度上市。第三代唐定位纯电中大型 SUV，长宽高约 5045/1980/1760mm，轴距 2950mm，外观延续王朝系列最新设计语言，采用封闭式前脸、贯穿镀铬饰条与贯穿式尾灯组。内饰提供沙丘米与丹霞橙两种配色，前排头枕拆卸后可与后排坐垫拼接形成大床模式，车内采用一体式联屏并配有辅助屏。动力方面，单电机后驱版最大功率 300kW，提供 88.682kWh 与 105.792kWh 两种电池，CLTC 续航有 730km、830km 和 850km 三个版本，全系标配天神之眼 B 智驾系统与云辇-A 智能空气悬架。",
+              "source_url": "https://www.ithome.com/1/016/673.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T18:24:04+08:00"
+              "published_at": "2026-10-22T20:31:32+08:00"
             },
             {
-              "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
-              "brief": "石头 P20 Ultra 活水版扫拖机器人目前在天猫平台迎来官方新低价：水箱版领券后 2399 元，上下水版 2690 元。消费者需先点击卡片领券，再通过宝贝页面的淘金币入口下单。如果价格不符，通常是淘金币不足，目前可向官方借 300 元淘金币，后续未还清也不会扣现金；11.11 期间淘宝还新增 300 元借币额度，此前已借币但未还清的用户额度共可达 600 元，可继续借币下单。",
-              "source_url": "https://www.ithome.com/1/016/636.htm",
+              "title": "机械革命无界系列轻薄本上市：国补后 4419.15 元起",
+              "brief": "机械革命无界系列多款轻薄本于 10 月 23 日零点开售。无界 14 SE 至尊版采用金属机身，搭载英特尔酷睿 Ultra 7 处理器 256V，配 16GB LPDDR5X-8533 内存与 512GB SSD，14 英寸 1920×1200 60Hz 屏幕，内置 55Whr 电池，国补后到手价 4419.15 元。无界 Max 采用全镁合金机身，薄至 14.9mm，14 英寸版重约 1.0kg，16 英寸版重约 1.25kg，配备 4 扬声器阵列与雷电 4，14 Max Ultra 5 版到手价 4929.15 元，16 Max 提供 Ultra 5 与 Ultra 7 两档配置。无界 14 Max Carbon 换用碳纤维 A 面，升级 2.8K OLED 屏幕，机身起始重量仅 946g，国补到手价 5354.15 元起。",
+              "source_url": "https://www.ithome.com/1/016/672.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-22T18:22:09+08:00"
+              "published_at": "2026-10-22T20:29:11+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《Wardogs》开发者谈区域锁定：旨在“保护最多数玩家”",
+              "brief": "《Wardogs》开发商Bulkhead宣布实施区域锁定，通过将玩家与服务器连接的最大延迟限制在175来阻止远程玩家加入对局，称此举是为了保护最多数玩家免受来自作弊高发地区玩家的冲击。开发者表示，虽然社交体验是游戏核心，但必须优先照顾大多数玩家，并将加强后端区域锁定措施。然而，亚洲的合规玩家对此表示不满，认为应加强反作弊而非直接限制亚洲玩家；跨区玩家也批评无法与海外好友联机，部分玩家已要求退款，认为延迟限制并不能真正阻止作弊者。",
+              "source_url": "https://www.ign.com/articles/wardogs-fans-upset-region-lock",
+              "source_name": "IGN",
+              "published_at": "2026-10-22T18:38:21+08:00"
+            },
+            {
+              "title": "卡普空遭遇数据泄露，超1100万用户账户受影响，发布钓鱼警告",
+              "brief": "《生化危机》《怪物猎人》《街头霸王》开发商卡普空发出潜在钓鱼攻击警告。10月19日，第三方访问了与Capcom ID关联的客户信息，全球共1170万条邮箱地址记录泄露，涉及账户创建时间、最后登录时间、登录次数及最后登录时的客户端IP地址等信息。其中43条出生日期、性别、国家/地区和昵称记录受到影响，196个账户的Capcom ID登录密码遭未授权更改。卡普空表示已重置相关账户密码，并仍在调查此事件的影响范围。",
+              "source_url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
+              "source_name": "IGN",
+              "published_at": "2026-10-22T18:17:24+08:00"
+            },
+            {
+              "title": "《街头霸王》电影导演：影片从不会是黑暗严肃风格，片方要的就是荒诞搞笑",
+              "brief": "部分玩家原以为《街头霸王》电影会更黑暗、更写实，但导演Kitao Sakurai在接受《好莱坞报道者》采访时表示这从未是选项。他透露，出品方传奇影业正是看中了他以《埃里克·安德烈秀》《Bad Trip》为代表的荒诞风格。他表示，如果他当初提出拍“街头霸王版的《蝙蝠侠：侠影之谜》”，根本不可能得到编剧兼导演的工作，因为《街头霸王》本身就有滑稽和荒诞的气质，角色互动充满夸张能量。该片目前口碑两极分化：烂番茄媒体新鲜度仅41%，观众爆米花指数却达78%，IGN评分6分。",
+              "source_url": "https://www.ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
+              "source_name": "IGN",
+              "published_at": "2026-10-22T17:33:48+08:00"
+            },
             {
               "title": "EA关闭BioWare后，《质量效应5》前编剧发声：我们曾开发一款优秀游戏",
               "brief": "EA于2026年10月21日在一份公开信中宣布，决定不再推进BioWare团队的《质量效应》新作早期开发，并关闭该工作室及其埃德蒙顿办公场所。EA表示BioWare是帮助定义角色扮演游戏类型的传奇工作室，做出该决定并非轻率之举。消息公布后，玩家和受影响的员工都深感痛心，多位曾参与《质量效应5》开发的编剧陆续在网上发声，表示他们原本正在开发一款优秀的游戏。BioWare曾推出《博德之门》《质量效应》《龙腾世纪》等经典系列，此次关闭标志着这家老牌RPG工作室的落幕。",
@@ -379,27 +400,6 @@
               "source_url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
               "source_name": "IGN",
               "published_at": "2026-10-22T08:41:48+08:00"
-            },
-            {
-              "title": "布兰登·桑德森好奇“野兽先生”新书真正的作者到底是谁",
-              "brief": "奇幻作家布兰登·桑德森在播客节目《Intentionally Blank》中谈到了野兽先生（Mr. Beast）的新书《The Most Dangerous Games》，表示非常好奇这本书的代笔作者究竟是谁，并希望对方能获得署名。他解释了自己参与合著图书的方式，称如果一本书封面上出现别人的名字，通常意味着他负责构思大纲并担任编辑。桑德森指出，詹姆斯·帕特森 usual 的合作模式是由对方执笔、帕特森阅读并提供反馈，但这本书的风格不太像帕特森的作品，而帕特森使用未署名的代笔作者也十分奇怪。他认为帕特森可能参与了写作，但肯定有一位未署名的代笔作者参与。该书自9月出版以来，市场表现传闻不一。",
-              "source_url": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
-              "source_name": "IGN",
-              "published_at": "2026-10-22T08:14:50+08:00"
-            },
-            {
-              "title": "《GTA6》快餐品牌Burger Shot将现身迈阿密热火队主场",
-              "brief": "R星正为《GTA6》的发售在迈阿密展开大规模营销，系列著名快餐店Burger Shot的现实版本即将入驻NBA迈阿密热火队的主场Kaseya中心。有粉丝在社交媒体上分享了这家汉堡店的首批图片和信息，场馆内的汉堡餐厅已更名为Burger Shot，场内还出现了《罪恶都市》风格的海报。游戏中的Burger Shot以极端不健康的餐品恶搞麦当劳等快餐品牌，例如七层肉饼的“心脏骤停”汉堡，但现实门店是否会推出主题菜单尚不清楚。此外，有消息称R星还计划在迈阿密的酒吧出售《GTA6》中出现的啤酒品牌。11月18日热火队还将变身“罪恶之城热火”进行一场《GTA6》主题比赛。",
-              "source_url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-              "source_name": "IGN",
-              "published_at": "2026-10-22T07:15:44+08:00"
-            },
-            {
-              "title": "克里斯·帕拉特确认星爵将回归漫威电影宇宙，相关计划已在推进",
-              "brief": "克里斯·帕拉特在接受The Playlist采访时确认，漫威一直在讨论让星爵回归，并且已经采取实际行动兑现片尾“星爵将会回来”的承诺。他表示自己与凯文·费奇和路易斯·德·埃斯波西托关系良好，双方就此有过持续沟通，但暂时无法透露回归的具体时间，可以确定的是星爵不会消失。即将上映的《复仇者联盟：毁灭日》拥有豪华演员阵容，但帕拉特并未在确认名单中，也不在主要传闻之列，他或许会出现在续作《秘密战争》中。由于詹姆斯·古恩已执掌DC影业且无意再拍《银河护卫队》，星爵未来可能通过独立电影、剧集或由新导演执导的《银河护卫队4》回归。",
-              "source_url": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
-              "source_name": "IGN",
-              "published_at": "2026-10-22T06:43:17+08:00"
             }
           ]
         },
