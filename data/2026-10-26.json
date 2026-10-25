@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T04:52:12.267584+08:00",
+  "generated_at": "2026-10-26T06:52:51.977290+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone Duo 开合时可触发自动化操作",
+              "brief": "iPhone Duo 在快捷指令中新增了一项自动化触发条件，可在设备打开或关闭时执行相应操作。该触发器名为“打开或关闭”，位于显示类自动化分类下。YouTuber Stephen Robles 对其进行了演示，而代码挖掘者 pdfu 早在九月份就在 iPhone Duo 模拟器中发现了这一功能。一个可行的用例是让 Duo 在打开时切换为另一张壁纸，合上时恢复原壁纸。MacStories 的 Federico Viticci 表示，他计划开始“构思铰链自动化”的各种玩法。这一新触发条件为这款折叠屏 iPhone 带来了更多个性化使用场景。",
+              "source_url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-26T06:26:58+08:00"
+            },
+            {
+              "title": "iPhone Duo 设置可适配保护壳避免遮挡外屏",
+              "brief": "iPhone Duo 提供了一项针对保护壳的显示设置，适用于部分遮挡外屏左边缘的壳体或边框。该功能名为“左边缘内移”，开启后会将显示边缘内缩，使屏幕内容不会被保护壳遮挡。苹果官方文档显示，安装苹果官方 iPhone Duo 保护壳时，屏幕会自动弹出提示引导用户开启该设置；第三方保护壳也可随时手动开启。操作方法是打开设置应用，进入“显示与亮度”，开启“左边缘内移”并确认。设备需短暂重启才能生效，随后外屏左侧会出现一条窄黑边，为保护壳前部留出空间。苹果还提供一款带支架的翻盖壳，不会遮挡屏幕。",
+              "source_url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-26T06:00:02+08:00"
+            },
+            {
+              "title": "iFixit 拆解 iPhone Duo 或揭示屏幕开裂原因",
+              "brief": "拆解网站 iFixit 对 iPhone Duo 进行了拆解，评估其内部构造、防尘表现和可维修性。拆解前，iFixit 用荧光粉尘浸泡设备。iPhone Duo 具有 IP68 防尘防水等级，iFixit 发现 USB-C 接口、扬声器网罩和边框处有粉尘，但进入内部的颗粒很少。不过部分颗粒渗入铰链并导致异响，可能造成屏幕损坏，这或许是屏幕开裂的诱因之一。相比 Galaxy Z Fold8 和 Pixel 11 Pro Fold，其铰链积尘较少。纳米纹理覆盖层易于剥离且可低价更换，使用 AppleCare+ 为 19 美元，否则 49 美元。电池采用电致脱粘胶，iFixit 称其为折叠屏中最佳的电池拆卸体验，整体结构坚固。",
+              "source_url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-26T05:44:03+08:00"
+            },
             {
               "title": "据报道 Apple Store 正在部署全新 iPhone 防盗系统",
               "brief": "据彭博社记者马克·古尔曼报道，苹果正面临日益严重的问题：一些顾客购买 iPhone 等产品后，会从包装盒中取出配件、拆开设备取走组件，甚至拿走整台设备，再试图退回包装盒，希望店员不会察觉。以往苹果零售员工在处理 iPhone 退货时需开箱核对内容物，但这一流程造成库存浪费。古尔曼在其 Power On 新闻通讯中表示，苹果已开始向零售员工提供一种新设备，可在不拆封的情况下扫描盒内 iPhone 并运行诊断，确认手机完好无损，使包装盒保持密封状态并能重新入库。该设备已于本月早些时候开始在门店部署。",
@@ -27,6 +48,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iFixit 拆解 iPhone Duo，发现屏幕早期失效的可能原因",
+              "brief": "iFixit 对苹果新款 iPhone Duo 进行了完整拆解，针对部分用户反馈的屏幕早期失效问题展开分析。拆解过程显示，屏幕排线布局、粘合工艺以及显示模组与机身的连接方式可能存在薄弱环节，或为屏幕异常的诱因。iFixit 还评估了设备的可维修性，指出部分组件的拆卸难度较高。目前苹果尚未就屏幕问题正式作出回应，相关用户可联系售后寻求检测与维修。",
+              "source_url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-26T05:36:58+08:00"
+            },
             {
               "title": "OLED 版 iPad mini 8 本周发布：亮点与售价一览",
               "brief": "据 9to5Mac 报道，苹果计划于本周推出全新 iPad mini 8，这款产品将迎来重大重新设计，首次采用 OLED 显示屏，取代此前机型使用的 LCD 面板。新屏幕有望带来更高的对比度、更深的黑色表现以及更佳的能效。文章介绍了新款 iPad mini 的主要升级亮点，包括屏幕技术的改进和整体外观设计的更新，并披露了产品的定价信息，帮助消费者在发布前了解新机配置与价格，判断是否值得入手这款小尺寸平板设备。",
@@ -113,6 +141,20 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "iFixit 拆解 iPhone Duo，揭示屏幕折痕隐藏原理与铰链设计",
+              "brief": "iFixit 按惯例对苹果最新折叠屏手机 iPhone Duo 进行了拆解，给出 5/10 的可维修性评分，虽不算高，却是该网站迄今给予折叠屏手机的最好成绩。拆解发现，内屏的哑光纳米纹理覆盖层不仅能在强光下提升可读性，还通过散射反射帮助掩盖折痕。在显微镜下观察，屏幕子像素呈椭圆形并以不同角度排列，iFixit 认为这种设计旨在减少伪影，进一步隐藏屏幕中央的折痕。",
+              "source_url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+              "source_name": "The Verge",
+              "published_at": "2026-10-25T17:40:27-04:00"
+            },
+            {
+              "title": "斯科特·沃克专辑《The Drift》：不安而怪诞的听觉体验",
+              "brief": "The Verge 周末编辑 Terrence O'Brien 推荐斯科特·沃克 2006 年发行的专辑《The Drift》，称其令人不安、风格怪诞，堪称万圣节期间的另类之选，甚至是“搞垮一场派对的完美方式”。作者认为，万圣节音乐分为两类，而这张专辑正属于其中最具惊悚氛围的一类，其独特的声音设计能给听众带来深入骨髓的诡异感受，是应景的季节性聆听选择。",
+              "source_url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+              "source_name": "The Verge",
+              "published_at": "2026-10-25T17:08:09-04:00"
+            },
+            {
               "title": "YouTuber拆解iPhone Duo，认为找到屏幕碎裂原因",
               "brief": "社交媒体和iPhone Duo子版块充斥着苹果折叠屏手机快速损坏的报告。有用户称手机仅使用数小时，铰链似乎卡住某物后发出咔嚓声，屏幕随之碎裂，且裂缝都出现在同一位置。YouTuber CuriousHagi在耐久性测试中复现了屏幕碎裂，随后拆机寻找原因。他发现Duo的铰链结构相当复杂，由齿轮状中央铰链和两种不同的连接铰链组成。断裂的部件是手机中部的一个连接件，它比上下相邻的连接件更薄，最终断裂导致屏幕破裂。",
               "source_url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
@@ -132,13 +174,6 @@
               "source_url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
               "source_name": "The Verge",
               "published_at": "2026-10-25T13:00:00-04:00"
-            },
-            {
-              "title": "Instagram Reels 现已登陆 Apple TV",
-              "brief": "Instagram 正式推出 Apple TV 版应用，继续向客厅场景扩张。该公司去年12月开始测试一个以 Reels、直播和其他视频内容为主、适配大屏幕的版本，今年6月又为该应用添加了一系列新功能，此前已登陆亚马逊 Fire TV、三星智能电视和 Google TV。据 MacRumors 发现，10月23日 App Store 中的 Instagram 应用更新后，兼容平台列表中新增了 Apple TV，而10月18日的页面还只列出 iPad 和 iOS。此次上线几乎没有宣传。该应用预计将成为 Instagram 推进长视频、剧集类内容并借微短剧热潮变现战略的重要一环。",
-              "source_url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-              "source_name": "The Verge",
-              "published_at": "2026-10-25T12:20:17-04:00"
             }
           ]
         }
@@ -150,6 +185,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "X战警演员克里斯托弗·阿伯特坚称自己不会出演《毁灭日》或《秘密战争》",
+              "brief": "将在2028年《X战警》重启版中饰演X教授的克里斯托弗·阿伯特向《滚石》杂志明确表示，自己不会在明年的复仇者联盟系列电影中登场。当被问及是否会以客串形式出现在《复仇者联盟：毁灭日》中对抗小罗伯特·唐尼饰演的毁灭博士时，他回应称“我认为不会”，并强调必须先完成《X战警》的拍摄。此前漫威影业已在D23大会上确认了由他出演X教授，并定档2028年5月。由于帕特里克·斯图尔特版X教授已现身《毁灭日》预告片，不少影迷期待新X战警成员提前亮相MCU，但随着阿伯特的否认，这一可能性似乎有所降低。",
+              "source_url": "https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars",
+              "source_name": "IGN",
+              "published_at": "2026-10-26T05:26:42+08:00"
+            },
+            {
+              "title": "《泥面人》首周末票房4300万美元 DCU迎来开门红",
+              "brief": "DCU电影《泥面人》首周末全球票房入账4300万美元，其中北美2400万、海外1900万，处于早期预测的较高区间。这部由詹姆斯·瓦特金斯执导、迈克·弗拉纳根参与编剧的电影改编自冷门蝙蝠侠反派，讲述马特·哈根在遭遇袭击毁容后走向异变的故事，带有强烈身体恐怖元素，评级为R级。影片制作成本约4400万美元，目前票房几乎追平成本，表现明显好于年初票房惨败的《女超人》。影片口碑也不错，烂番茄媒体新鲜度75%，观众评分94%，加上临近万圣节的档期，后续走势被看好，有望成为DCU的一部成功之作。",
+              "source_url": "https://www.ign.com/articles/clayface-looks-like-a-win-for-the-dcu-after-earning-43-million-in-box-office-opening-weekend",
+              "source_name": "IGN",
+              "published_at": "2026-10-26T03:19:00+08:00"
+            },
             {
               "title": "泄露信息显示被取消的质量效应新作将继承前作所有选择",
               "brief": "据前技术总监罗曼·图坦在直播中透露，BioWare被EA关闭前正在开发代号为《质量效应：宇宙》的续作，其剧情本会将玩家在初代三部曲中做出的所有选择纳入考量。他表示，之所以取名“宇宙”，是因为玩家拥有大量选择，可以把不同存档串联起来，形成平行宇宙般的不同时间线。这一科幻RPG系列的备受期待续作目前已被取消，随着更多细节陆续泄露，玩家得以窥见这套继承系统可能的完整程度，但具体设计仍不得而知。",
@@ -262,39 +311,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Xbox索要8亿美元授权费导致Netflix退出游戏改编独家合作谈判",
-              "brief": "据报道，Netflix曾希望在七年期限内独家获得Xbox游戏作品的影视改编授权，最初报价5亿美元，而Xbox首席执行官阿莎·夏尔马团队提出8亿美元反报价，双方差距达3亿美元。在高管巴贾里亚离职后，Netflix不再推进交易，内部高层认为成本过高。Xbox据报转向与多个伙伴开展较小规模授权项目的模式，并表示Netflix仍是重要合作伙伴，双方正推进《我的世界》和《暗黑破坏神》动画剧集。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1583822.htm",
+              "title": "武契奇承认败选 预计“学生名单-学生获胜”将赢得塞议会选举",
+              "brief": "塞尔维亚总统武契奇承认败选，并预计“学生名单-学生获胜”将获得国民议会250个议席中的135至140席，其领导的参选名单预计获得约105席。塞尔维亚共和国选举委员会公布的首批初步计票结果显示，根据已完成统计的203个投票站数据，“亚历山大·武契奇-团结的塞尔维亚”参选名单获得54.69%的选票，“学生名单-学生获胜”得票率为36.04%。此次提前议会选举于当地时间25日举行，全国共有645万余名登记选民，18份参选名单、2418名候选人角逐250个议席，最终结果仍有待选举委员会公布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583832.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-26T03:39:33+08:00"
+              "published_at": "2026-10-26T06:32:11+08:00"
             },
             {
-              "title": "科学家首次在金属中发现被困电子波 微小原子缺陷揭开量子谜团",
-              "brief": "研究人员在特殊金属Pd₅AlI₂中首次于电子系统内观测到连续谱中的束缚态。该材料可剥离成二维薄层并保持金属特性，其独特原子结构为电子提供多条路径，量子波相互干涉并部分抵消，抑制电子扩散，这种现象被称为挫折跃迁。科学家利用原子级分辨率设备观测，在微小原子缺陷附近发现被困在局部区域的电子波。此前类似效应仅在光学领域被观测到。研究成果已发表于《Science》期刊，有望为量子材料和器件研发提供新思路。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1583820.htm",
+              "title": "研究发现热量限制可减少小鼠DNA突变积累",
+              "brief": "美国得克萨斯大学西南医学中心及美国国立卫生研究院等机构的研究人员发表于《细胞》期刊的研究显示，长期热量限制与小鼠多种DNA突变减少有关。团队比较自由进食组与摄入量减少约30%的小鼠，发现热量限制组碱基替换及DNA片段插入缺失均有所减少，其中肝脏细胞反应最为突出，且基因活动较少区域的突变减少更明显。研究人员推测或与DNA修复活动差异有关，但具体机制尚待验证。团队强调，该成果基于小鼠实验，不能直接转化为人类饮食建议，长期大幅节食还可能带来营养不足等健康风险。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1583830.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-26T03:39:01+08:00"
+              "published_at": "2026-10-26T06:31:10+08:00"
             },
             {
-              "title": "新型防护服涂层可分解神经毒剂 真菌色素与锆材料联手降低化学威胁",
-              "brief": "美国西北大学团队开发出一种可涂覆在织物表面的功能性涂层，结合类黑色素物质allomelanin与含锆材料。类黑色素的多孔结构像微型海绵一样捕获有毒分子，锆则推动化学反应分解毒物，水在过程中起催化作用。针对分解产生的毒性副产物甲基硝基苯酚，涂层利用类黑色素的吸附能力将其结合，实验显示10分钟内浓度下降50%，增加用量并接受阳光照射可进一步降低毒性。相关论文已发表于《ACS Nano》期刊，潜在应用包括军事防护、农药处理和化工生产。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1583818.htm",
+              "title": "Grok发布AI版《奥德赛》首集七分钟样片",
+              "brief": "Grok与Wonder Studios及导演Dev Walker合作发布AI版《奥德赛》首集片段，全片约七分钟，人物、场景及海上航行画面均由人工智能生成，项目定位也从单部长片转向系列首集。此举被视为对今年7月上映并大获成功的诺兰版《奥德赛》的回应，两者分别代表AI制作路线与传统电影工业体系。从公开画面看，AI生成的海洋场景和人物形象拟真度较高，但外界认为影片缺乏人物魅力、情感张力，旁白冗长、对白生硬。业内人士认为其意义在于展示生成式AI向长篇叙事影视迈进的尝试。",
+              "source_url": "https://www.cnbeta.com.tw/articles/movie/1583828.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-26T03:38:16+08:00"
+              "published_at": "2026-10-26T06:30:35+08:00"
             },
             {
-              "title": "苹果首款折叠屏iPhone陷质量疑云 多名用户反映内屏疑似因铰链缺陷损坏",
-              "brief": "多名苹果首款折叠屏iPhone Duo用户反映设备出现相似故障：展开时铰链阻力增大并传出异响，随后内屏中央折痕处出现垂直亮线，右半部分延伸出水平亮线或像素损坏。故障出现时间从数小时到数天不等，用户均称未跌落或撞击设备。苹果目前对确认问题的设备提供更换服务，但高容量版本供货紧张。业内认为铰链结构可能是故障核心，或存在装配偏差。由于许多评测人员和用户未报告类似问题，故障可能仅限于个别生产批次，苹果尚未公开说明原因。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583816.htm",
+              "title": "AI面部照片分析有望辅助预测癌症患者生存风险",
+              "brief": "发表在《柳叶刀·数字健康》的研究显示，基于超过4000万张面部照片训练的AI工具FAHR-FaceAge和FAHR-FaceSurvival，可分别估算生物学年龄和预测癌症患者生存风险。其中FAHR-FaceSurvival使用34363张癌症患者照片训练，预测风险最高10%的患者中约一半在90天内死亡，最低10%中该比例仅约2%。研究还发现面部显老至少5岁的放疗患者死亡风险高21%，显年轻者低17%。研究人员指出，该技术未来可辅助医生评估患者身体储备和虚弱程度，但不能取代医生判断，还需更多独立验证。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1583826.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-26T03:37:38+08:00"
+              "published_at": "2026-10-26T06:30:01+08:00"
             },
             {
-              "title": "领先一个时代的百度知道 为何逐渐无人问津",
-              "brief": "百度知道于2005年前后诞生，通过把问题变成网页、以积分和荣誉激励用户互相解答，一度成为国民级知识问答平台，2016年每天产生约350万个问题。其内容反映了各个时代的热点，从电脑知识到股票入门。然而2012年前后，机器批量复制答案、用户为积分输出劣质内容，社区风气恶化。同时知乎以高质量回答崛起，视频教程和垂直应用分流了各类需求，连K12问答市场也被其孵化的作业帮占据。面对时代变化未能转型，百度知道逐渐走向边缘。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583814.htm",
+              "title": "iFixit拆解iPhone Duo 疑似找到折叠屏故障潜在原因",
+              "brief": "iFixit拆解苹果折叠屏手机iPhone Duo，发现其采用复杂的水滴式铰链结构和十层屏幕系统，外层纳米纹理保护层可减弱反光与折痕。测试显示虽有少量灰尘进入接口和铰链区域导致开合异响，但进入量明显少于竞品。该机还回归单层主板设计，电池采用电流释放式胶固定，可维修性获高评价。针对部分用户报告的内屏出现亮线、黑线等故障，iFixit认为原因可能包括压力集中、灰尘进入铰链、弯折应力累积及生产公差偏差等，多数故障集中在靠近铰链支撑和线缆通道的同一区域，但是否为普遍缺陷尚无定论。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583824.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-26T03:35:47+08:00"
+              "published_at": "2026-10-26T06:28:06+08:00"
             }
           ]
         },
