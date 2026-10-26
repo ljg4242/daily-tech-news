@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T04:53:29.174373+08:00",
+  "generated_at": "2026-10-27T06:53:28.877464+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,27 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "为什么 iPhone Duo 用户在 FaceTime 中无法实现对视效果？",
+              "brief": "MacRumors确认，iPhone Duo上缺少FaceTime的眼神接触设置。该功能最早于iOS 14推出，利用机器学习在视频通话中微调眼部画面，让用户看起来像在看摄像头。iPhone Duo缺少该功能的原因可能并非缺少Face ID和原深感摄像头，因为采用Touch ID的iPhone SE也支持此选项。更可能的原因是屏下摄像头位于屏幕偏右侧，偏离通话对象脸部通常所在的中心位置，且设备旋转或折叠时角度会变化。苹果已限制眼神追踪功能仅在Duo完全展开时使用。MacRumors已联系苹果寻求技术解释。",
+              "source_url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T06:49:08+08:00"
+            },
+            {
+              "title": "iOS 27.2 修复超过 160 个安全漏洞",
+              "brief": "苹果的iOS 27.2和iPadOS 27.2更新修复了160多个安全漏洞，建议尽快安装。本次修复包括一个可让远程攻击者访问敏感数据的Apple Intelligence漏洞，以及可能泄露用户真实邮箱地址的隐藏邮件功能缺陷，还有超过30个WebKit修复和约15个内核漏洞。六个CVE致谢来自在iPhone Duo发售当天完成越狱并演示iOS 27.0.1非完美越狱的Calif团队，其研究员称越狱所用的大部分漏洞已在iOS 27.2中修复。苹果未表示漏洞已被主动利用，但细节已公开，未更新的设备可能面临攻击。Anthropic和OpenAI也分别因三个和四个修复获得致谢。",
+              "source_url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T05:55:32+08:00"
+            },
+            {
+              "title": "iPhone AI 图像和编辑现已加入隐藏水印",
+              "brief": "使用Image Playground生成的图像以及部分经Apple Intelligence编辑的照片，现在会包含SynthID水印。苹果于今年6月宣布加入SynthID支持，该功能已在iOS 27.2上线。SynthID是谷歌开发的AI生成内容识别工具，在像素层面为图像和视频添加水印而非元数据，不会影响画质，并能抵御裁剪、滤镜和压缩。谷歌、苹果、OpenAI等均在使用。iPhone上没有检测SynthID水印的选项，需通过SynthID Detector网站查验。测试显示，Extend和Reframe编辑的图片均带水印，Clean Up则视编辑幅度而定，小幅编辑不加水印，大幅编辑会添加。",
+              "source_url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T05:15:14+08:00"
+            },
             {
               "title": "iOS 27.2 让 iPhone 支持同时观看四路体育直播",
               "brief": "iOS 27.2 将多画面（Multiview）功能扩展至 iPhone，用户可同时观看最多四路体育直播。该功能适用于 Apple TV 订阅包含的体育赛事，包括美国职业足球大联盟（MLS）、美国的 F1 赛事，以及棒球赛季期间的周五夜棒球双赛。针对 F1，用户可选择预设的车队多画面方案观看直播，也可利用车载镜头、赛道地图等多个信号源自行组合。多画面功能此前仅在 Apple TV 4K 和 Vision Pro 上可用，其中 Apple TV 支持同时观看四路体育直播，Vision Pro 支持五路。",
@@ -21,33 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/10/26/ios-27-2-dual-capture-facetime/",
               "source_name": "MacRumors",
               "published_at": "2026-10-27T03:46:23+08:00"
-            },
-            {
-              "title": "苹果为何定于周三上午 10:10 开启新品预购",
-              "brief": "苹果宣布新发布的 iPad mini 将于周三太平洋时间上午 10:10 开启预购。苹果已邀请部分科技记者和内容创作者参加周三太平洋时间上午 10 点在洛杉矶举行的活动。彭博社记者 Mark Gurman 认为，苹果将以播放一段短视频开场，发布传闻中的触屏版 MacBook Pro，随后立即开启预购。这意味着视频时长约 10 分钟，也解释了 iPad mini 及触屏版 MacBook Pro 的预购时间为何定在 10:10。搭载 M6 芯片的新款 iMac 和 14 英寸 MacBook Pro 也可能同期开启预购。",
-              "source_url": "https://www.macrumors.com/2026/10/26/heres-why-apple-preorders-at-10-10-am/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T03:36:44+08:00"
-            },
-            {
-              "title": "苹果宣布 Siri AI 年内将支持更多语言",
-              "brief": "苹果今日宣布，Siri AI 将于今年晚些时候新增对繁体中文、挪威语、土耳其语和越南语的支持。该功能于今年 9 月上线时仅支持英语，随后在 iOS 27.2 及相应更新中加入了法语、日语、韩语、葡萄牙语和西班牙语支持。此次新增四种语言将进一步扩大 Siri AI 的覆盖范围，方便更多地区用户使用苹果的智能助手功能。",
-              "source_url": "https://www.macrumors.com/2026/10/26/siri-ai-even-more-languages-later-this-year/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T03:30:27+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 27.2，Siri AI 新增多种语言",
-              "brief": "苹果今天发布了 iOS 27.2 和 iPadOS 27.2，这是九月发布的 iOS 27 和 iPadOS 27 操作系统的首次重大更新。iOS 27.2 面向所有可运行 iOS 27 的 iPhone，iPadOS 27.2 面向所有可运行 iPadOS 27 的 iPad，包括新发布的 OLED iPad mini。此次更新将 Siri AI 扩展至法语、日语、韩语、葡萄牙语和西班牙语等新语言，但欧盟和中国大陆暂不可用。更新还为 Apple TV 应用添加多用户资料，为 Apple Music 带来新图标和品牌标识，并支持信息应用中的 AI 建议，可在日历、提醒事项等应用中快速执行操作。此外，欧盟地区引入了应用追踪透明度的替代扩展提示。Siri AI 还可回忆过往对话，从信息中的照片、日历参与者、语音邮件等更多来源获取答案。",
-              "source_url": "https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T02:32:32+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Mac 版 Ollama 新增本地文本转语音模型支持",
+              "brief": "Ollama 是一个让用户在 Mac 上本地运行开源 AI 模型、或通过云端访问更强模型的开源平台，在 GitHub 上拥有近 18.5 万颗星。在 macOS 上，它使用苹果的 MLX 开源机器学习框架，借助 Apple Silicon 统一内存架构让模型运行更快更高效，用户可从 Hugging Face 等仓库下载模型，离线运行 AI 而无需将数据发送到外部服务器。近日 Ollama 宣布支持 Gradium 开发的 Phonon 文本转语音模型家族，这是该平台首次支持语音生成，可实时生成语音，让用户边生成边收听。借助 MLX 框架，在搭载 M5 Max 的 MacBook Pro 测试中，语音生成速度比 Gradium 官方实现快 35%。Phonon 支持英语、法语、德语、西班牙语和葡萄牙语五种语言，目前语音模型已在 macOS 可用，Windows 和 Linux 支持即将推出。",
+              "source_url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T06:49:25+08:00"
+            },
+            {
+              "title": "Instagram 推出最长 90 分钟横屏视频格式 Features 对抗 YouTube",
+              "brief": "Instagram 再次尝试挑战 YouTube，推出名为 Features 的新格式，支持最长 90 分钟的横屏视频。该功能面向播客主、喜剧演员等长视频创作者，此前已在巴西测试，现正扩展至美国部分创作者。创作者可以将较短的 Reels 关联到完整长视频，引导观众观看完整内容。Instagram 产品副总裁 Tessa Lyons 表示，用户在 Reels 中点击播客片段即可继续观看或直接跳转到完整剧集，无需离开 Instagram。完整长视频也会通过探索页等应用内其他位置推荐给用户。此举意在抓住社交媒体信息流中喜剧表演和视频播客片段日益增多的趋势，将这些片段转化为完整剧集的入口。Instagram 此前曾推出 IGTV 进军长视频领域，但未能成功，随后转向 Reels。",
+              "source_url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T06:06:38+08:00"
+            },
+            {
+              "title": "苹果今日系统更新修复至少 329 个独立安全漏洞",
+              "brief": "苹果发布系统更新的同时更新了安全发布页面，公布以下更新的安全内容：iOS 27.2 与 iPadOS 27.2、iOS 26.7.2 与 iPadOS 26.7.2、iOS 18.7.11 与 iPadOS 18.7.11、macOS Golden Gate 27.2、macOS Tahoe 26.7.2、macOS Sequoia 15.8.2、tvOS 27.2、watchOS 27.2、visionOS 27.2 以及 Safari 27.2 等。此次软件发布共修复 329 个独立安全漏洞，由于许多漏洞影响多个操作系统，合计产生 1265 项 CVE 列表记录，且该数字可能随苹果后续补充而增加。其中值得注意的修复包括：一个 CoreMedia 问题可能让恶意应用在未经许可的情况下访问 iPhone、iPad、Mac 或 Apple Vision Pro 的摄像头（CVE-2026-86990），以及一个 Apple Intelligence 漏洞可能让远程攻击者访问受支持设备上的敏感用户数据。",
+              "source_url": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T04:56:15+08:00"
+            },
             {
               "title": "从 iPhone Duo 到 Mac：Craft 展示原生生产力应用的实力",
               "brief": "苹果近期发布了大量新软硬件产品，其中采用全新形态的 iPhone Duo 备受关注。新硬件只是故事的一部分，应用如何发挥其特性同样重要。Craft 是一款将笔记、任务和文档整合于一处的生产力应用，从第一天起就为 iPhone Duo 做好了适配，界面可随设备折叠与展开自动调整。折叠状态下可快速记录想法、勾选任务；展开后更大的屏幕空间则有利于书写、整理信息和浏览长文档，纳米纹理哑光内屏也十分适合阅读排版精美的文档。过去几个月，Craft 在 iPhone、iPad 和 Mac 上持续改进。通过 9to5Mac 专属优惠码 9to5Mac40 可享终身四折优惠。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-27T03:32:18+08:00"
-            },
-            {
-              "title": "苹果宣布 Siri AI 即将扩展支持更多新语言",
-              "brief": "苹果宣布 Siri AI 将在今年年底前新增支持中文（繁体）、挪威语、土耳其语和越南语。此前 Siri AI 仅支持英语，随后通过 iOS 27.2 更新增加了法语、日语、韩语、葡萄牙语和西班牙语。新增四种语言预计将随 12 月发布的 iOS 27.3 一起推出，首个 iOS 27.3 测试版可能于近期发布。值得注意的是，尽管 Siri AI 将支持繁体中文，但目前在中国大陆仍不可用。据彭博社报道，苹果计划在 iOS 27.3 中为中国带来部分 Apple Intelligence 初步功能，但 Siri AI 预计不在其中。",
-              "source_url": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T03:30:57+08:00"
-            },
-            {
-              "title": "iOS 27.2 为 iPhone Duo 带来两项新功能",
-              "brief": "iOS 27.2 为新发布的 iPhone Duo 带来两项专属功能。第一是 Apple Pencil 支持，该功能在设备开售仅数天后即上线，用户需使用 Apple Pencil（USB-C）——这是 iPhone Duo 唯一支持的型号。用户可在外屏和内屏上使用触控笔批注 PDF 和图片、绘画涂鸦以及保存手写笔记。第二是 Edge Light（边缘补光）功能，原本是 macOS 独有功能，现首次登陆 iOS 且仅限 iPhone Duo 使用。该功能可在屏幕边缘形成一圈光线，在视频通话时照亮用户面部，支持 FaceTime 及 Zoom 等主流第三方视频通话应用，与 Duo 可折叠成笔记本模式的特性相得益彰。",
-              "source_url": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T03:18:19+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 26.7.2，有哪些新变化",
-              "brief": "苹果今天发布了多款软件更新，其中大部分属于 27.2 系列，但对于尚未升级 iOS 27 的用户，苹果也同步推出了 iOS 26.7.2。根据官方发布说明，该更新仅为 iPhone 提供安全修复，不包含任何新功能，因为苹果已将功能更新的重心全部转移到 iOS 27。苹果安全内容页面尚未列出此次更新的具体安全改进细节，稍后会陆续公布。目前仍在使用 iOS 26 的用户建议尽快安装更新以获得最新安全修复。该版本适合因设备兼容性或个人原因暂不升级 iOS 27 的用户，继续保持系统安全性。",
-              "source_url": "https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T02:36:56+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "韩国男子眼中取出11条活线虫 多条雌虫已怀孕",
+              "brief": "韩国一名71岁的农作物种植者因双眼有异物感、发红、视物模糊达两个月，前往眼科就诊。医生检查后发现其结膜血管扩张、角膜上皮受损，并有数条活动的白色线虫。据《新英格兰医学杂志》病例报告，医生在眼部麻醉后用精细镊子逐条取出11条成虫，长度为11至22毫米，经显微镜鉴定为结膜吸吮线虫。该寄生虫广泛分布于亚洲，也已在欧洲部分地区出现，主要感染猫、狗等动物的眼部。取虫时多条雌虫已怀有幼虫，若再晚些取出，幼虫可能直接排入患者眼内。",
+              "source_url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-27T04:27:00+08:00"
+            },
+            {
+              "title": "福尔摩斯原型：苏格兰外科医生约瑟夫·贝尔",
+              "brief": "医学史作家林赛·菲茨哈里斯出版新传记《猎犬：真正的夏洛克·福尔摩斯》，讲述启发柯南·道尔创作福尔摩斯的真实人物——苏格兰爱丁堡大学著名外科医生约瑟夫·贝尔。道尔年轻时在爱丁堡学医，曾师从贝尔，后来以这位善于观察和推理的医生为原型塑造了大侦探。菲茨哈里斯此前著有介绍外科先驱李斯特的《屠夫的艺术》和讲述一战面部重建外科医生吉利斯的《造脸者》，2020年还曾为史密森尼频道主持纪录片，通过虚拟尸检、实验演示等方式探究著名死亡事件。",
+              "source_url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-27T04:15:07+08:00"
+            },
+            {
+              "title": "苹果发布iOS和macOS 27.2：新增Siri AI功能与音乐新标志",
+              "brief": "苹果今日发布iOS、macOS、watchOS、tvOS、visionOS等系统的27.2更新，重点围绕Siri AI。iOS 27.2为Siri增加记忆功能，可回忆过往对话并在交流中引用，还能访问语音留言、信息附件等更多数据源。新增的“排除应用”选项可限制Siri、搜索和建议功能访问哪些应用。Siri AI新增法语、日语、韩语、葡萄牙语和西班牙语支持，但仍未在欧洲和中国大陆推出。其他更新包括信息应用中的情境感知建议、照片应用的SynthID水印支持、Apple TV应用多用户资料，以及新Apple Music品牌标志和iPhone Duo折叠屏的Apple Pencil支持。macOS等平台也获相应Siri更新。",
+              "source_url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-27T04:04:16+08:00"
+            },
+            {
+              "title": "苹果发布第八代iPad mini：OLED屏起售价700美元",
+              "brief": "苹果推出第八代iPad mini，起售价699美元，价格有所上调。苹果称这是该产品线有史以来最重大的一次更新，配备OLED屏幕和首发于iPhone 18 Pro的A20 Pro芯片。新机整体尺寸与2024款相近，但由于边框减薄24%，屏幕从8.3英寸增至8.5英寸Super Retina XDR；机身厚度减至5.4毫米，并首次达到IP67防尘防水等级。OLED屏幕带来更深的黑色和更高的峰值亮度，从500尼特提升至1200尼特，最低亮度可至1尼特，还提供纳米纹理哑光屏选项。该机较上一代采用IPS屏幕的机型在显示体验上大幅升级，更接近苹果Pro级设备水准。",
+              "source_url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-27T03:04:40+08:00"
+            },
+            {
               "title": "波士顿动力员工请愿阻止向美国移民与海关执法局出售机器狗",
               "brief": "美国机器人公司波士顿动力数百名员工签署请愿书，要求管理层叫停向美国移民与海关执法局出售机器狗，但公司高管坚持这笔交易，并表示这些机器人不会被武器化。9月25日，美国国土安全部授予康涅狄格州公司Radeco一份130万美元的合同，为该执法局提供波士顿动力四足机器人的改装版本，配备军用级设备，用于探测危险物质。请愿信有超过300人签名，其中一半为匿名，员工在信中表示这一交易给公司带来的风险太大，难以继续。请愿书副本已分享给《波士顿环球报》和WBUR公共电台。",
               "source_url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
               "source_name": "Ars Technica",
               "published_at": "2026-10-27T02:50:41+08:00"
-            },
-            {
-              "title": "马斯克指乌克兰违反星链服务条款用于致命无人机袭击",
-              "brief": "马斯克指控乌克兰使用星链民用商业服务实施致命无人机袭击，违反服务条款。此言发表于SpaceX实施限制措施、禁止乌克兰在超过特定速度的无人机上使用该卫星技术之后。乌克兰一名现任官员和一名前官员否认这一指控，称SpaceX此前施加的限制已阻止乌军以马斯克描述的方式使用星链。乌克兰官员还指责马斯克限制其通过美国政府协议使用的星链军用版本“星盾”。乌克兰总统泽连斯基周末表示，新的卫星限制已被解除，可能为这场持续近两周的争议画上句号。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-27T02:09:08+08:00"
-            },
-            {
-              "title": "公路窃盗集团伪造GPS盗取价值上亿美元的数据中心货物",
-              "brief": "据NBC News报道，自6月以来，公路窃贼已盗走超过1亿美元的数据中心货运设备。他们的手法是：先入侵货运经纪人在货运信息网站上的账户，发布假货运信息引诱真实报价，再向应标的运输公司发送恶意链接；受害者点击后，窃贼安装软件控制其账户，对真实货运进行竞标。窃贼有时雇用不知情的真实司机提货，有时用伪造驾照安排同伙入职，货物最终被转给同伙司机转售。在最大宗盗窃案中，窃贼还伪造追踪坐标以逃避监控。被盯上的设备包括服务器、光纤电缆、内存芯片、铜线和比特币矿机。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-27T01:26:36+08:00"
-            },
-            {
-              "title": "部分iPhone Duo折叠屏手机已出现屏幕故障",
-              "brief": "苹果首款折叠屏手机iPhone Duo上周发布，售价2000美元，但部分早期买家的设备在使用的数小时甚至数分钟内出现硬件缺陷，损毁了内部OLED显示屏。网上已充斥大量损坏图片，损坏形态几乎一致：屏幕中点下方出现数条亮线，延伸至底部和右侧边缘，部分机型还沿折痕出现死像素线。这类缺陷因显示屏各层受损、像素电压异常所致。唯一解决办法是更换屏幕，但据报道iPhone Duo换屏费用约为整机价格的一半。多数故障机在一两天内损坏，有买家仅开合几次、甚至未完成初始设置就遇到问题。部分用户换机成功，但备机可能短缺。",
-              "source_url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-27T00:51:49+08:00"
-            },
-            {
-              "title": "F1重返德克萨斯：美国车迷最爱的分站赛",
-              "brief": "一级方程式赛车本周末回到美国，在德克萨斯州奥斯汀的美洲赛道举行年度美国大奖赛。这条赛道曾因关注度不足而一度面临被踢出赛历的风险，如今已成为赛历上最受欢迎的赛道之一，并且在美国的三场F1比赛中，是真正车迷最愿意亲临现场的一场。与在临时街道赛道上比赛的迈阿密和拉斯维加斯不同，美洲赛道是一条永久性赛道，拥有大量缓冲区而非混凝土护栏。该赛道由摩托车赛车手凯文·施万茨设计，结合了不同速度的弯角、具有挑战性的弯道组合、多个重刹车区域以及大量起伏变化。文章作者随奥迪Revolut F1车队度过了整个比赛周末。",
-              "source_url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-10-26T22:48:24+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "GPT-6.1 Terra：OpenAI 高性价比的新选择",
+              "brief": "OpenAI 发布最新模型 GPT-6.1 Terra，主打成本与性能的平衡。目前 GPT-6 Astra 仍是 OpenAI 性能最强的模型，但 Terra 的输出质量与其差距不大，价格却仅为很小一部分。与 GPT-6.1 Sol 相比，Terra 性能接近，而 API 成本约为其一半，同时仅为 GPT-5.6 Terra 的一半。Terra 定位于 Sol 和 Luna 之间，Sol 是低成本版的 Astra，Luna 更注重压缩成本而非性能。在某些情况下，Terra 的低价性能甚至略超 Astra，成为性价比突出的一款模型。",
+              "source_url": "https://www.androidauthority.com/gpt-6-1-terra-3728234/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-27T05:25:03+08:00"
+            },
+            {
+              "title": "3DS 模拟器 Azahar 宣布停止支持 Anbernic 新机",
+              "brief": "Anbernic 即将推出的掌机 RG DDS 因宣传问题陷入风波。该公司在最新宣传视频中展示了自家的 3DS 模拟器 Azahar 分支版本 Azahar Plus。Azahar 团队随后在社交平台上公开指责 Anbernic 使用了以盗版为导向的非官方分支版本，并宣布将不再支持 RG DDS 以及 Anbernic 的任何设备。团队警告称，今后不会调查或修复与该厂商设备相关的任何问题或漏洞，并建议希望获得有保障支持的用户寻找其他替代设备。虽然对开源项目进行分支并不违法，但未经许可的做法仍引发争议。",
+              "source_url": "https://www.androidauthority.com/azahar-cuts-off-support-to-anbernic-3728246/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-27T05:15:14+08:00"
+            },
             {
               "title": "亚马逊ELEPHAS Roku电视智能投影仪降价35%",
               "brief": "ELEPHAS Roku电视智能投影仪目前在亚马逊降价至119.99美元，原价为184.99美元，优惠65美元，相当于建议零售价的35%折扣，也是有史以来的最低价。这款便携式智能投影仪内置Roku电视系统，可通过Wi-Fi直接运行流媒体应用，无需另接电视棒。它支持原生1080p分辨率、蓝牙、杜比音频和Apple AirPlay。机身小巧轻便并配有内置扬声器，方便在房间之间移动或带到户外进行后院观影。该产品定位休闲观看而非高端家庭影院，目前在亚马逊持有4.4星评分。对于想要一台内置Roku流媒体功能的一体式投影仪的用户来说，这个破纪录的低价颇具吸引力。",
@@ -188,26 +202,26 @@
               "source_url": "https://www.androidauthority.com/gamesir-pocket-taco-deal-3728232/",
               "source_name": "Android Authority",
               "published_at": "2026-10-27T03:36:25+08:00"
-            },
-            {
-              "title": "任天堂Switch 2越狱后成功运行YouTube",
-              "brief": "安全研究员Sammy Hajhamid（网名pepsipu）上周发布了首个任天堂Switch 2越狱工具后，破解进展迅速。有用户已利用该漏洞在Switch 2上运行YouTube应用。任天堂官方并未在Switch 2上提供YouTube支持，用户@byizmysh基于开源项目VacuumTube实现了该功能，采用轻量级的YouTube电视版界面。此外，用户还在提取两款Switch 2游戏文件和RomFS存档，分别是《The Duskbloods》测试版和《马力欧卡丁车：世界》的素材。若黑客能解密Switch 2游戏，可能会催生可玩的ROM镜像。另有据报道，家庭brew开发者Gezine已开发出非 tethered（免连线）的Switch 2漏洞，而此前的越狱属于tethered类型，需要设备连接电脑才能执行。",
-              "source_url": "https://www.androidauthority.com/nintendo-switch-2-jailbreak-brings-youtube-3728187/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-27T03:35:09+08:00"
-            },
-            {
-              "title": "苹果终于就iPhone Duo屏幕开裂问题打破沉默",
-              "brief": "售价1999美元的iPhone Duo开售仅数天后，苹果正式承认有少量机型的内屏在铰链附近出现开裂问题。苹果在一份声明中表示，早期用户对iPhone Duo的反响非常积极，开发者也在迅速更新应用以利用其独特形态，但公司已知悉这一问题影响少数机型的内屏，建议遇到显示问题的用户联系AppleCare进行更换。有早期买家反映开箱数小时内屏幕就出现裂痕，一名用户称折叠不到20次就听到开裂声，苹果随即为其更换了设备。苹果尚未解释故障原因，也未说明是否计划调整生产工艺，这一局面令这家迟迟才进入折叠屏市场的公司颇为尴尬。",
-              "source_url": "https://www.androidauthority.com/apple-iphone-duo-cracked-screen-statement-3728177/",
-              "source_name": "Android Authority",
-              "published_at": "2026-10-27T02:45:51+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "三星适用于Switch 2的MicroSD Express存储卡促销，价格不足50美元",
+              "brief": "任天堂Switch 2用户若为存储空间不足而烦恼，现在有了便宜的选择。三星P9 MicroSD Express存储卡目前在多家零售商降价促销，256GB版本售价47.99美元，512GB版本售价99美元。256GB版本通常售价约80美元，512GB版本一般在150至200美元之间。此次降价后的价格仍高于产品首发价格，原因很可能是持续的存储芯片短缺。P9存储卡支持Switch 2所需的MicroSD Express格式，可根据游戏容量大小存储数十款游戏，适合需要扩展主机的玩家购买。",
+              "source_url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-10-26T17:56:36-04:00"
+            },
+            {
+              "title": "Anthropic上市文件揭示AI数据中心对天然气的高度依赖",
+              "brief": "Anthropic在准备上市之际，其提交给美国证券交易委员会的S-1文件清晰暴露了生成式AI对甲烷的依赖。文件指出，获取电力供应和具备充足电力的数据中心选址的竞争异常激烈。Anthropic承认，数据中心正日益依赖所谓天然气，其主要成分为甲烷，这使得公司的AI数据中心建设容易受到燃料价格上涨和现有供应链限制的影响。文件还指出，全球气温上升可能推高能源成本，形成恶性循环，公司自身的扩张也在加剧气候风险。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+              "source_name": "The Verge",
+              "published_at": "2026-10-26T17:45:31-04:00"
+            },
             {
               "title": "iOS 27.2 更新为 iPhone Duo 带来 Apple Pencil 支持",
               "brief": "苹果发布 iOS 27.2 更新，为旗下首款折叠屏手机 iPhone Duo 增加了 Apple Pencil 支持，兑现了此前“今年晚些时候”加入该功能的承诺。此次更新还为 iPhone Duo 带来“Edge Light”边缘补光功能，旨在视频通话时照亮用户面部。iPhone Duo 配备 7.6 英寸内屏和 5.4 英寸外屏，搭载专为双屏设计的 iOS 27 控制界面。目前 Netflix、Prime Video、Microsoft Outlook 等主流应用已适配大屏，但部分应用仍需优化。此外，更新后的 Siri AI 可在信息应用中执行建议操作，并新增法语、日语、韩语、葡萄牙语和西班牙语等语言支持。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
               "source_name": "The Verge",
               "published_at": "2026-10-26T13:30:55-04:00"
-            },
-            {
-              "title": "苹果承认 iPhone Duo 内屏存在问题，此前曝出屏幕开裂报告",
-              "brief": "在多名用户报告 iPhone Duo 内屏出现破裂后，苹果向彭博社和 9to5Mac 发表声明，承认已知悉“影响内屏的问题”，涉及“少量 iPhone Duo 设备”。受影响的屏幕通常出现一条从屏幕中央延伸至右侧的亮线。苹果表示，如果用户的 iPhone Duo 受此问题影响，可联系 AppleCare 更换设备。苹果同时在声明中称，早期用户对 iPhone Duo 的反响非常积极，开发者也在迅速更新应用，以充分利用其独特形态。",
-              "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-              "source_name": "The Verge",
-              "published_at": "2026-10-26T13:28:07-04:00"
-            },
-            {
-              "title": "Nothing Ear 3A 耳机降价至 79 美元，追平历史最低价",
-              "brief": "Nothing 的 Ear 3A 无线耳机目前在亚马逊、沃尔玛和百思买降价至 79 美元（原价 99 美元，优惠 20 美元），追平历史最低价，四款配色均参与促销。这款入门级降噪耳机性价比较高，具备出色的主动降噪功能，并提供丰富的均衡器调节选项，用户可精细调整音质，同时有多种亮眼配色可选。对于预算有限但想要一副不错降噪耳机的消费者来说，Ear 3A 值得考虑。",
-              "source_url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-10-26T13:25:34-04:00"
             }
           ]
         }
@@ -254,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "微软向6万名员工提供买断方案，加码AI投资",
-              "brief": "微软向最多6万名员工提供自愿离职买断方案，涉及公司约四分之一的员工。人力执行副总裁艾米·科尔曼在致员工的信中表示，美国、加拿大、英国和印度部分副总裁级别及以下员工有资格参加自愿离职计划。截至6月底微软共有22.3万名员工。据彭博社报道，此次裁员正值公司聚焦AI之际，微软正在建设昂贵的数据中心，为Anthropic和OpenAI等公司提供云服务，此举曾引发电费、环境和就业影响的争议。数据中心部分员工不在买断范围内。",
-              "source_url": "https://www.ign.com/articles/microsoft-voluntary-exits-60000-workers",
+              "title": "Toastie 或许是迄今最古怪的 iPhone Duo 游戏",
+              "brief": "新游戏 Toastie 把售价昂贵的折叠屏手机 iPhone Duo 变成了一台烤芝士三明治机，被称为迄今最古怪的 Duo 游戏。玩家需快速搭建三明治，然后合上手机来“烤制”作品，注意别烤糊。游戏售价3美元，包含10个订单、3种面包和14种夹馅食材，成品会根据配方、摆盘、烤制程度和制作时间获得星级评分。这款游戏由 Tom Szykulski 和 Cyprian Brytan 开发，两人表示开发耗时远超预期。玩家也可以在 iPhone 和 iPad 上不使用合盖机制进行游戏。iPhone Duo 是苹果9月发布的首款折叠屏手机。",
+              "source_url": "https://www.ign.com/articles/toastie-might-be-the-weirdest-iphone-duo-game-so-far",
               "source_name": "IGN",
-              "published_at": "2026-10-27T01:50:17+08:00"
+              "published_at": "2026-10-27T05:55:55+08:00"
             },
             {
-              "title": "《羊蹄山战鬼》开发商Sucker Punch遭遇裁员",
-              "brief": "《羊蹄山战鬼》开发商Sucker Punch在DLC和完全版登陆PS5数周后裁员26人，目前工作室约有200名员工。工作室领导层发给团队的邮件称，市场挑战以及下一个项目团队规模的变化是裁员的决定因素。邮件表示这次决定并非轻率作出，并承诺下周将详细说明工作室的未来计划。目前尚不清楚下一款游戏是什么。《羊蹄山战鬼》是2025年秋季最大作之一，首月销量达330万份，也是评价最高的PS5独占游戏之一，但PC版计划已被索尼取消。",
-              "source_url": "https://www.ign.com/articles/ghost-of-yotei-developer-sucker-punch-hit-with-layoffs",
+              "title": "《饥饿游戏》导演盼玩家别因 GTA 6 错过《收割日出》",
+              "brief": "弗朗西斯·劳伦斯曾执导几乎所有《饥饿游戏》系列电影，其新作、系列前传《收割日出》将于今年11月上映，他目前还在 Netflix 执导筹备近20年的真人版《生化奇兵》电影。劳伦斯表示自己最爱的游戏包括《合金装备》《生化奇兵》《使命召唤》和初代《GTA》。谈及即将发售的 GTA 6，他 lament 发行时间与电影档期过于接近，开玩笑说希望人们能两者兼顾：“玩 GTA，来看我们的电影，再玩 GTA。”他还透露《生化奇兵》电影最早由戈尔·维宾斯基在2009年推荐给他，后因档期冲突未能接手；德尔·托罗也曾洽谈执导，但与游戏创作者意见不合。",
+              "source_url": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
               "source_name": "IGN",
-              "published_at": "2026-10-27T01:23:57+08:00"
+              "published_at": "2026-10-27T05:53:31+08:00"
             },
             {
-              "title": "《影之刃零》全球解锁时间与预载详情公布",
-              "brief": "由动作影星甄子丹参与宣传的《影之刃零》定于2026年10月29日登陆PC和PS5。IGN给出9/10评价，称其为一款无比流畅、Boss战令人难忘、战斗精彩且风格十足的动作游戏。游戏全球解锁时间依次为：洛杉矶10月28日19时、纽约22时、伦敦10月29日2时、北京10月29日上午10时、东京11时等。预载自10月26日开始，北京时间为10月27日上午10时，PS5和PC玩家可提前下载游戏，届时准时开玩。",
-              "source_url": "https://www.ign.com/articles/phantom-blade-zero-global-release-times-pre-load-details",
+              "title": "《红崛起》电影被派拉蒙列为重点 弗朗西斯·劳伦斯执导",
+              "brief": "以执导《饥饿游戏》系列闻名的导演弗朗西斯·劳伦斯透露，改编自皮尔斯·布朗科幻小说的《红崛起》电影已成为派拉蒙的重点项目。他自述已与该项目结缘约八年，并与原作者成为好友。项目最初计划在 Netflix 以剧集形式开发，两版试水剧本均获好评，但由于管理层多次更迭、项目方向反复摇摆，加上制作成本高昂，Netflix 始终未能下定决心开拍，版权最终回归作者之手，随后转至派拉蒙。劳伦斯表示他更倾向于院线发行而非流媒体，认为这个系列值得在大银幕和 IMAX 上呈现，目前已有心仪的编剧开始创作剧本。",
+              "source_url": "https://www.ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show",
               "source_name": "IGN",
-              "published_at": "2026-10-27T01:15:42+08:00"
+              "published_at": "2026-10-27T05:45:31+08:00"
             },
             {
-              "title": "《星际迷航》契诃夫扮演者沃尔特·凯尼格去世，享年90岁",
-              "brief": "据TMZ报道，《星际迷航》初代剧集演员沃尔特·凯尼格周日在北好莱坞家中因年老去世，享年90岁，侄女陪伴在侧。凯尼格在第二季加入NBC剧集《星际迷航》，饰演企业号俄籍船员契诃夫少尉，其后出演后两季及全部六部电影。随着他离世，初代主演中仅剩威廉·夏特纳和竹井乔治健在。竹井在社交媒体上致敬这位老搭档。凯尼格1936年生于芝加哥，后来还在《巴比伦5号》中饰演阿尔弗雷德·贝斯特一角。",
-              "source_url": "https://www.ign.com/articles/walter-koenig-star-treks-chekov-dies-at-age-90",
+              "title": "GTA 6 发售日致请假申请激增17%",
+              "brief": "人力资源公司 BambooHR 数据显示，11月19日 GTA 6 发售当天的请假申请比往年11月第三个周四的正常水平高出9%至17%。经济学家估计，GTA 6 的发售将给美国带来约10亿美元的生产力损失。R star 为宣传投入巨资：斥资97.5万美元在迈阿密热火队球馆顶部安装巨型霓虹粉招牌，在城中投放游戏内虚构品牌的广告，迈阿密还开设了现实中版的汉堡店 Burger Shot。11月18日热火对阵雄鹿的 NBA 比赛将以“罪城热火”为主题，使用 GTA 6 主题球衣和特色球场。游戏将于11月19日登陆 PS5 和 Xbox Series X|S，PC 版传闻于2027年初推出。",
+              "source_url": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
               "source_name": "IGN",
-              "published_at": "2026-10-27T00:49:11+08:00"
+              "published_at": "2026-10-27T05:42:48+08:00"
             },
             {
-              "title": "报道称PlayStation掌机或独占AMD下一代RDNA 5图形技术",
-              "brief": "Digital Foundry的理查德·利德贝特在节目中称，有幕后讨论显示索尼与AMD就掌机用RDNA 5达成了某种独占协议，而AMD目前在产的唯一其他芯片Z3不太可能采用RDNA 5图形架构。AMD与索尼近年合作紧密，曾通过'Project Amethyst'项目产出PS5 Pro的PSSR 2和PC与Xbox平台的FSR 4.1。索尼互娱CEO西野秀明此前表示，未来可能推出更多类似Switch的混合型主机。微软的Project Helix也计划推出掌机，预计2027年假期发售。",
-              "source_url": "https://www.ign.com/articles/playstation-handheld-may-have-exclusive-next-gen-amd-graphics-report-suggests",
+              "title": "作曲家 Austin Wintory 公开为被取消的《质量效应5》创作的22分钟音乐",
+              "brief": "曾为《风之旅人》《Sword of the Sea》等作品配乐的获奖作曲家 Austin Wintory 在社交媒体透露，他曾与 BioWare 和 EA 洽谈为已取消的《质量效应》新作创作音乐，并公开了22分钟的音频草稿。他称《质量效应》是“毕生梦想项目”，在 YouTube 说明中写道，过去几年他与 BioWare 和 EA 进行了认真洽谈，建议以初代游戏 Jack Wall 和 Sam Hulick 的经典配乐为起点，加入更多实体模拟合成器，并让管弦乐交织得更紧密。出于兴奋，他事先制作了20分钟音乐送给两家公司。该项目当时开发代号为 Mass Effect: Universe，剧情细节尚不明朗，续约希望现已破灭。",
+              "source_url": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
               "source_name": "IGN",
-              "published_at": "2026-10-27T00:40:47+08:00"
+              "published_at": "2026-10-27T05:36:07+08:00"
             }
           ]
         },
@@ -346,6 +346,13 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "苹果回应 iPhone Duo 内屏开裂：仅少量设备受影响，可申请换机",
+              "brief": "苹果回应称，仅有少量 iPhone Duo 设备存在内屏开裂故障，用户如遇到屏幕相关问题，可联系苹果官方客服或通过 AppleCare 申请更换新机。苹果未说明裂痕产生的原因，也未透露是否会推出修复方案。由于线下门店备货有限，部分用户需要等待。苹果表示该问题波及范围很小，绝大多数用户不会受影响。出问题设备的裂痕大多在购机后不久显现，且多集中在内屏下半区、沿铰链分布。用户反映屏幕损坏前会有卡顿手感，有时伴随咔哒声响。iFixit 拆解后指出，铰链内部一根本应收回的中部支撑杆可能无法正常回缩，进而造成屏幕损伤。此外，部分网传裂痕图片系 AI 生成，加大了判断真实影响范围的难度。",
+              "source_url": "https://www.ithome.com/1/018/196.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-10-27T06:48:11+08:00"
+            },
+            {
               "title": "Cadence 2026 财年第三财季归母净利润 2.9 亿美元，同比增长 0.91%",
               "brief": "Cadence 2026 财年第三财季营收 16.33 亿美元（现汇率约合 109.04 亿元人民币），同比增长 20.84%，创历史新高；归母净利润 2.9 亿美元（现汇率约合 19.35 亿元人民币），同比增长 0.91%；基本每股收益 1.06 美元，同比持平。Non-GAAP 摊薄每股收益 2.11 美元，超出市场预期。季度末积压订单达 82 亿美元（现汇率约合 547.55 亿元人民币）。核心 EDA 收入同比增长 20%，IP 收入增长 24%，系统设计与分析收入增长 30%。公司上调全年收入指引至 63.87 亿至 64.17 亿美元，增速指引上调至 21%，并额外授权 25 亿美元回购额度。",
               "source_url": "https://www.ithome.com/1/018/193.htm",
@@ -370,13 +377,6 @@
               "title": "苹果 watchOS 27.2 正式版发布",
               "brief": "苹果向 Apple Watch 用户推送 watchOS 27.2 正式版更新，具体更新内容暂未公布，IT之家稍后将为大家带来详细介绍。回顾 watchOS 27 发布历史，该系列于 2026 年 6 月开启测试，9 月 15 日发布 watchOS 27.0 正式版，9 月 29 日推出 27.0.1 修复版本。watchOS 27.2 此前经历了四个 Beta 测试版本，并于 2026 年 10 月 20 日发布 RC 候选版，修复了 3 项应用订阅与购买流程问题。如今正式版到来，符合条件的 Apple Watch 用户可收到推送。",
               "source_url": "https://www.ithome.com/1/018/190.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-10-27T02:44:03+08:00"
-            },
-            {
-              "title": "苹果 visionOS 27.2 正式版发布",
-              "brief": "苹果向 Apple Vision Pro 用户推送 visionOS 27.2 正式版更新，具体更新内容暂未公布，IT之家稍后将为大家带来详细介绍。回顾 visionOS 27 发布历史，该系列于 2026 年 6 月开启测试，9 月 15 日发布 visionOS 27.0 正式版，9 月 29 日推出 27.0.1 修复版本。visionOS 27.2 此前陆续经历了四个 Beta 测试版本，并于 2026 年 10 月 20 日发布 RC 候选版。如今正式版正式到来，Apple Vision Pro 用户可通过系统设置检查并下载该更新。",
-              "source_url": "https://www.ithome.com/1/018/189.htm",
               "source_name": "IT之家",
               "published_at": "2026-10-27T02:44:03+08:00"
             }
