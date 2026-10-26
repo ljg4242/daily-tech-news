@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-26T10:53:15.993392+08:00",
+  "generated_at": "2026-10-26T12:53:12.843392+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果显示技术元老退居二线 新一代领导者接棒",
+              "brief": "据彭博社马克·古尔曼报道，苹果正在进行一系列工程领导层调整，两位在苹果各工作约三十年的高管将交出显示技术相关职责。在魏晨和钟志伟手下多年历练后，Victor Yin 现在负责苹果大部分显示技术开发，两人则转为承担更有限的顾问职责，其最终离职被视为已进行数年的交接流程的一部分。十月晋升还包括 Rajesh Ambati、Louie Sanguinetti 和 Derek Shaeffer 三位副总裁，负责连接硬件与软件。此前苹果将 Johny Srouji 的职责扩展为首席硬件官，并重组产品开发以改善芯片与设备团队协作。古尔曼还透露，近期部分硬件项目经理被裁撤，管理层级正在精简。",
+              "source_url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-26T12:14:12+08:00"
+            },
+            {
+              "title": "OLED 版 MacBook Air 和 iMac 仍在测试中",
+              "brief": "彭博社马克·古尔曼在其最新一期 Power On 时事通讯中表示，苹果正在为未来的 MacBook Air 和 iMac 机型测试 OLED 显示屏，但这两项升级仍需一段时间才能实现。两款设备的下一代更新预计仍将采用 LCD 显示屏。古尔曼预计新款 iMac 将于本周发布，MacBook Air 则将在 2027 年初更新，但他没有给出这两款产品向 OLED 过渡的具体时间表。",
+              "source_url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-26T11:41:01+08:00"
+            },
             {
               "title": "苹果应对网页安全威胁，正开发包含额外修复的 macOS 更新",
               "brief": "近日有安全研究人员发现，印度公司 eMudhra 的八个中级证书颁发机构（CA）证书所关联的私钥强度不足。这些被泄露的密钥可能让攻击者冒充合法网站，威胁用户的敏感信息，但目前没有证据表明密钥遭到恶意利用。eMudhra 的证书曾被 Safari、Chrome、Edge 和 Firefox 等主流浏览器广泛信任，苹果及其他浏览器厂商已采取行动保护用户。苹果在支持文档中表示，自 10 月 19 日起已在 Safari、邮件及使用苹果网络与安全框架的应用中封锁 eMudhra 的受损 TLS 证书，该封锁自动生效，无需软件更新，多数用户无需操作。但例外是，使用 macOS 命令行工具的系统管理员等用户，在苹果发布包含修复的 macOS 更新之前，相关工具仍可能接受受损证书。苹果建议此类用户暂时从 /etc/ssl/cert.pem 文件中移除根 CA 证书，具体细节见支持文档。苹果尚未公布该 macOS 更新的发布日期。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
               "source_name": "MacRumors",
               "published_at": "2026-10-26T06:00:02+08:00"
-            },
-            {
-              "title": "iFixit 拆解 iPhone Duo 或揭示屏幕开裂原因",
-              "brief": "拆解网站 iFixit 对 iPhone Duo 进行了拆解，评估其内部构造、防尘表现和可维修性。拆解前，iFixit 用荧光粉尘浸泡设备。iPhone Duo 具有 IP68 防尘防水等级，iFixit 发现 USB-C 接口、扬声器网罩和边框处有粉尘，但进入内部的颗粒很少。不过部分颗粒渗入铰链并导致异响，可能造成屏幕损坏，这或许是屏幕开裂的诱因之一。相比 Galaxy Z Fold8 和 Pixel 11 Pro Fold，其铰链积尘较少。纳米纹理覆盖层易于剥离且可低价更换，使用 AppleCare+ 为 19 美元，否则 49 美元。电池采用电致脱粘胶，iFixit 称其为折叠屏中最佳的电池拆卸体验，整体结构坚固。",
-              "source_url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-26T05:44:03+08:00"
-            },
-            {
-              "title": "据报道 Apple Store 正在部署全新 iPhone 防盗系统",
-              "brief": "据彭博社记者马克·古尔曼报道，苹果正面临日益严重的问题：一些顾客购买 iPhone 等产品后，会从包装盒中取出配件、拆开设备取走组件，甚至拿走整台设备，再试图退回包装盒，希望店员不会察觉。以往苹果零售员工在处理 iPhone 退货时需开箱核对内容物，但这一流程造成库存浪费。古尔曼在其 Power On 新闻通讯中表示，苹果已开始向零售员工提供一种新设备，可在不拆封的情况下扫描盒内 iPhone 并运行诊断，确认手机完好无损，使包装盒保持密封状态并能重新入库。该设备已于本月早些时候开始在门店部署。",
-              "source_url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-25T23:18:08+08:00"
             }
           ]
         },
@@ -181,6 +181,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "资深Pixel用户揭秘为何长期忠于谷歌手机",
+              "brief": "谷歌Pixel手机在市场竞争激烈的情况下，仍有一批用户多年坚持使用。Reddit社区r/GooglePixel近日展开讨论，老用户分享不换品牌的原因与不满。最常见的原因是系统干净、接近原生Android，且更新及时，不少用户对比三星One UI后抱怨其预装软件重复、臃肿。Pixel专属功能如来电筛查、垃圾短信过滤、语音输入以及相机体验，也让换用iPhone或三星的吸引力下降。此外，谷歌生态与应用整合也是留住用户的重要因素。不过用户也有抱怨，包括Gemini取代熟悉的Assistant功能、相机处理不佳、续航一般以及硬件性价比问题，部分用户甚至表示因谷歌近期决策而考虑转投其他品牌。",
+              "source_url": "https://www.androidauthority.com/google-pixel-loyalty-reasons-3727734/",
+              "source_name": "Android Authority",
+              "published_at": "2026-10-26T11:36:40+08:00"
+            },
+            {
               "title": "首日屏幕故障之后，iPhone Duo 面临更多耐用性质疑",
               "brief": "苹果首款折叠屏 iPhone Duo 刚上市就因早期屏幕故障报告面临耐用性质疑。JerryRigEverything 的耐用性测试显示，其柔性内屏在莫氏硬度二级即出现划痕，三级出现深沟；苹果的哑光纳米纹理镀膜可隐藏划痕但损伤是永久性的。更严重的是弯折测试中，机身虽未损坏，内屏却出现从中心延伸至钛边框的永久性绿线，继续弯折后绿线增多，屏幕最终失去响应。iFixit 的拆解则表明屏幕故障可能与铰链中央支撑附近的应力有关。两项测试还指出灰尘和碎屑带来的风险。尽管 iPhone Duo 在折叠屏中相对易维修，但更换内屏约需 1000 美元。",
               "source_url": "https://www.androidauthority.com/iphone-duo-durability-3727717/",
@@ -205,6 +212,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "《龙珠：超宇宙2》迎来十周年惊喜更新 本周上线",
+              "brief": "万代南梦宫迎来《龙珠：超宇宙2》发售十周年，官方公布两项免费更新：10月27日的更新包含登录奖励、特殊服装及未来 saga 第四章DLC时间画廊的更新；10月30日推出名为\"宇宙最终祭\"的周年庆典活动，玩家可与特兰克斯、时之界王神或福进行互动提升友情等级，解锁特殊插图，稀有道具将回归，星之币获取量提升至平日的25倍。所有内容面向PC、PS4、PS5、Xbox One及Xbox Series X/S平台玩家。此外，《龙珠：超宇宙3》已于今年4月再次公开，预计2027年发售，故事设定在1000年的西都。",
+              "source_url": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
+              "source_name": "IGN",
+              "published_at": "2026-10-26T11:28:52+08:00"
+            },
+            {
+              "title": "《质量效应》薛帕德配音演员声援 请愿活动签名突破20万",
+              "brief": "EA宣布关闭BioWare并取消《质量效应5》的开发后，玩家发起#SaveMassEffect运动及配套请愿活动，首个周末即获得超过20万经认证用户的签名。为前三部作品女性薛帕德配音的演员珍妮弗·哈尔发表视频声援，畅想粉丝通过众筹联合投资人及游戏公司成立集体，让《质量效应》复活的场景。她此前曾表示对BioWare关闭感到\"莫名的希望\"，并在社交媒体发布带有该话题标签的帖子。男性薛帕德配音演员马克·米尔也在Instagram直播中与她一同发声，称这一决定对BioWare所在地而言是非常悲伤的消息。",
+              "source_url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
+              "source_name": "IGN",
+              "published_at": "2026-10-26T10:03:53+08:00"
+            },
+            {
               "title": "X战警演员克里斯托弗·阿伯特坚称自己不会出演《毁灭日》或《秘密战争》",
               "brief": "将在2028年《X战警》重启版中饰演X教授的克里斯托弗·阿伯特向《滚石》杂志明确表示，自己不会在明年的复仇者联盟系列电影中登场。当被问及是否会以客串形式出现在《复仇者联盟：毁灭日》中对抗小罗伯特·唐尼饰演的毁灭博士时，他回应称“我认为不会”，并强调必须先完成《X战警》的拍摄。此前漫威影业已在D23大会上确认了由他出演X教授，并定档2028年5月。由于帕特里克·斯图尔特版X教授已现身《毁灭日》预告片，不少影迷期待新X战警成员提前亮相MCU，但随着阿伯特的否认，这一可能性似乎有所降低。",
               "source_url": "https://www.ign.com/articles/x-men-actor-christopher-abbott-insists-his-professor-x-is-not-in-doomsday-or-secret-wars",
@@ -224,13 +245,6 @@
               "source_url": "https://www.ign.com/articles/mass-effect-leaks-reveal-canceled-bioware-games-story-would-have-accounted-for-all-choices-from-previous-games",
               "source_name": "IGN",
               "published_at": "2026-10-26T01:30:24+08:00"
-            },
-            {
-              "title": "传闻中的露西亚演员直播巧妙回避《GTA6》提问引热议",
-              "brief": "被传将出演《GTA6》女主角露西亚的演员曼尼·佩雷斯近日在Instagram开直播，全程巧妙回避观众刷屏的GTA 6相关提问。这场约12分钟的直播在其仅发布过九条帖子、开设六个月的账号上进行，峰值观众超过2100人。她只聊自己的成长经历：出身乡村小镇，现与爱犬同住小公寓，喜欢做饭，从小开卡车长大。面对粉丝追问是否将出演Rockstar新作或是否为下月做好准备，她一律只回应无关话题，还表示自己并不富有，只是个普通人。Rockstar至今未正式确认游戏大部分演员阵容。",
-              "source_url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
-              "source_name": "IGN",
-              "published_at": "2026-10-25T23:14:17+08:00"
             }
           ]
         },
@@ -271,6 +285,13 @@
           "name": "小众软件",
           "articles": [
             {
+              "title": "Tailscale SSH 被曝安全漏洞：一台设备失守可获得其他服务器 root 权限",
+              "brief": "安全研究员 Erica Windisch 发布名为 Tailworm 的安全报告，在 Tailscale 及相关组件中发现 11 项安全问题，分为 5 组。其中最严重的 Tailscale SSH 漏洞允许已获授权用户通过 Unix 套接字转发获取目标主机 root 权限。实验室测试中每攻陷一台设备耗时不到 1 秒并自动传播。Tailscale 回应称正在审查，不建议所有人禁用 Tailscale SSH。目前漏洞尚未修复，用户可执行 sudo tailscale set --ssh=false 关闭该功能。",
+              "source_url": "https://www.appinn.com/tailscale-ssh-security-vulnerabilities-tailworm/",
+              "source_name": "小众软件",
+              "published_at": "2026-10-26T10:42:04+08:00"
+            },
+            {
               "title": "发现频道：10款大家发现的好评软件[2026年第43期]",
               "brief": "小众软件论坛发现频道公布最近10日热门排行榜，由系统自动生成，共10款开发者自荐软件上榜，包括支持 Windows、macOS 和 Linux 的开源 Markdown 编辑器 Open Typora，AI Markdown 编辑器 Textus，开源剪贴板管理器 vPaste，Windows 桌面悬浮监控工具 Pulse，整合 Emby、Jellyfin、Plex、网盘与 IPTV 的 Apple TV 播放器 MovoHub，开源 PDF 工作台 PdfCraft，浏览器里的中国历史交互舆图江山时序，跨平台保留格式实时翻译软件 PDFMathReader，Codex 额度重置倒计时工具 Codex Reset Watch，以及在线测试工具 PickTests。",
               "source_url": "https://www.appinn.com/faxian-top10-2643/",
@@ -304,6 +325,27 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "开源项目GPU Unlock让RTX 30系显卡AI吞吐提升近60%",
+              "brief": "开发者Zagitta发布开源项目GPU Unlock，可释放部分英伟达安培架构显卡的算力。项目通过Linux内核模块在英伟达驱动接管显卡前调整硬件速度选择器，让特定FP16/BF16运算的指令发射速率翻倍，面向GA102/103/104/106芯片，覆盖RTX 3090及部分3080/3070/3060。在功耗450W的RTX 3090 Ti上以8192³稠密矩阵乘法测试，FP16从87.46提升到118.39 TFLOPS，BF16从87.50提升到157.41 TFLOPS，TF32从42.58提升到82.61 TFLOPS。有用户在ComfyUI中测试图像与视频生成，多款模型的BF16吞吐提升约56%至58%，但INT8任务和受显存带宽限制的LLM解码提升有限。项目不修改驱动，也不永久刷新显卡VBIOS。",
+              "source_url": "https://www.landian.news/archives/127672.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-26T12:00:00+08:00"
+            },
+            {
+              "title": "微软测试在Windows 11中添加原生网络测速功能",
+              "brief": "此前微软在Windows 11快速设置中添加的网络测速选项，点击后会打开必应搜索网页版进行测速，引起众多用户吐槽。现在在Windows 11 Build 26340.9767测试版中，微软将其改为系统内置的原生测速功能，点击测速按钮会弹出原生对话框，不再自动打开浏览器跳转必应搜索。新功能仍由Ookla SpeedTest提供，结果页面显示上传带宽、下载带宽和PING值。入口保持不变，用户可右键点击任务栏网络图标选择执行速度测试，或在快速操作面板的网络二级菜单中选择测速。该变更目前仅在实验版提供，正式版暂时无法使用，待测试完成后预计会通过累积更新推送给正式版用户。",
+              "source_url": "https://www.landian.news/archives/127604.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-26T11:30:00+08:00"
+            },
+            {
+              "title": "日本GMO云桌面服务遭攻击，2.6万余台服务器数据被窃",
+              "brief": "日本上市公司GMO互联网集团旗下云桌面服务お名前.com Desktop Cloud遭黑客攻击，26739台服务器全部在影响范围内，客户信息已被窃取，部分FX外汇交易账号收到异常操作报告。黑客称该服务存在多种低级配置失误：VPS网络通过微软AD管理可横向连接其他服务器，GMO还使用具备广泛权限的通用超管账户访问客户服务器，凭证可能留存客户机，远程桌面本地磁盘重定向默认开启也带来风险。黑客要求10月27日前支付100万美元赎金，否则公开数据，GMO已拒绝勒索并将通信记录交给警方。GMO已停止旧产品全部套餐，重建安全架构，将为受影响用户提供5000日元补偿，并按实际交易损失赔付。",
+              "source_url": "https://www.landian.news/archives/127603.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-26T11:00:00+08:00"
+            },
+            {
               "title": "知名硬件钱包Keystone数据泄露 用户姓名电话住址等被黑客获取",
               "brief": "加密货币硬件钱包Keystone公告称其官网于10月20日遭未经授权访问，黑客通过Shopify API获取客户姓名、联系方式、收货地址、订单详情及购买商品和价格等信息。已有用户接到伪装成美国警方的诈骗电话，来电者能准确说出订单信息。Keystone确认支付信息和钱包密钥安全，用户无需转移资产，但需提防扳手攻击，即犯罪团伙通过现实暴力手段强迫受害者交出加密货币。此外，按其隐私政策订单信息应在180天内删除，而泄露涉及2024年订单，说明信息被长期保留。",
               "source_url": "https://www.landian.news/archives/127602.html",
@@ -316,27 +358,6 @@
               "source_url": "https://www.landian.news/archives/127601.html",
               "source_name": "蓝点网",
               "published_at": "2026-10-26T10:00:00+08:00"
-            },
-            {
-              "title": "爱好者利用eMudhra泄露证书为谷歌签发10.6万张证书",
-              "brief": "印度证书颁发机构eMudhra签发的8张中间CA证书均使用弱密钥，其中一张私钥仅为数字4，任何人都能用它为任意域名签发证书。目前证书透明度日志已记录约10.7万条用泄露证书签发的记录，其中99%即10.6万张针对谷歌主域名。这些证书能通过CA公钥认证，但由于中间CA证书已被浏览器和操作系统吊销，正常访问会报错；在不检查吊销列表的环境中仍可使用。根据RFC 9162，任何人都可以向CT日志提交证书，因此这些签发行为被公开记录。",
-              "source_url": "https://www.landian.news/archives/127600.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-10-26T09:30:00+08:00"
-            },
-            {
-              "title": "谷歌指责eMudhra延迟发布事故报告 员工称舆论关注妨碍调查",
-              "brief": "谷歌和谋智基金会指责印度证书颁发机构eMudhra多次推迟发布证书私钥泄露事故的调查报告，eMudhra给出的理由竟是社交媒体、投资者和客户的关注让团队无法开展有意义的调查。谷歌根证书项目成员表示公众关注是事故的可预见后果，不能成为延迟回应的理由，并要求说明密钥生成流程出错原因、为何发现CRL签名不匹配时未继续追查等问题。eMudhra此前已宣布退出TLS/SSL证书业务，理由是业务营收不足1%且事故影响公司声誉，引发行业不满。",
-              "source_url": "https://www.landian.news/archives/127599.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-10-26T09:00:00+08:00"
-            },
-            {
-              "title": "苹果推出仅面向iPhone Duo的iOS 27.1版更新 用于折叠屏形态适配",
-              "brief": "苹果推出iOS 27.1版更新，但仅面向折叠屏设备iPhone Duo提供，其他兼容iPhone的最新正式版仍为iOS 27.0.1。iPhone Duo出厂已预装iOS 27.1，新机设置过程中苹果还提供较新的系统构建。开发者资料提到，iOS 27.1为该机屏幕形态提供适配支持，应用可根据展开或折叠状态调整布局并利用更大的内屏空间，开发者还可借助SDK适配工具栏和标签栏等界面元素。苹果已向开发者提供iOS 27.2 RC候选版本，未来新版本预计将让常规机型与iPhone Duo使用相同的版本基线。",
-              "source_url": "https://www.landian.news/archives/127596.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-10-24T15:30:42+08:00"
             }
           ]
         },
@@ -384,39 +405,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《艾尔登法环》近 1000 万玩家游玩时长超 100 小时，约 350 万人解锁全部成就",
-              "brief": "Alinea Analytics 的数据显示，《艾尔登法环》全球销量已突破 3600 万份，其中 980 万名玩家游玩时长超过 100 小时，全平台共有 350 万人拿到全部奖杯与成就。分平台来看，PlayStation 平台购买游戏的玩家里有 10.9% 获得白金奖杯，Steam 平台解锁全部成就的玩家占比为 10.5%，Xbox 平台相对偏低，仅有 3.9% 的玩家解锁全部成就。距首发已过去四年，该作在 2026 年仍卖出 200 万份，带来 1.1 亿美元收入。改编电影定于 2028 年上映。",
-              "source_url": "https://www.ithome.com/1/017/797.htm",
+              "title": "我国团队创下单纤双向实时光传输容量世界纪录，达 3.2Pb/s",
+              "brief": "中国信科集团光通信技术和网络全国重点实验室团队提出 24 芯多芯光纤双向传输架构，采用 10.3 公里 24 芯多芯光纤，融合 S+C+L 三波段复用与空分复用技术，构建数千路并行传输通道，总传输容量达 3.2Pb/s，比传统 C+L 波段商用单芯 G.652 光纤约 100Tb/s 的容量上限提升 32 倍。系统搭载商用相干光模块，采用高阶概率整形调制，通过芯层排布优化抑制芯间串扰，实现稳定实时双向传输，可为大型算力枢纽互联、骨干传输及 6G 承载提供核心技术支撑，成果已投稿国际期刊《Journal of Lightwave Technology》。",
+              "source_url": "https://www.ithome.com/1/017/841.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-26T10:50:37+08:00"
+              "published_at": "2026-10-26T12:48:46+08:00"
             },
             {
-              "title": "鸿蒙智行尊界汽车微博复更，发布 S800 典藏大观车型组图",
-              "brief": "尊界汽车官方微博在停更一段时间后恢复更新，发布了尊界 S800 典藏大观车型组图。此前，懂车帝测试中尊界 V800 出现紧急制动时刹车踏板支架被踩断的情况，尊界汽车官方当日发布说明，称其制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证。随后尊界汽车微博于 10 月 15 日停更。在工信部等三部门发布联合调查通报后，尊界汽车当日晚发布声明，宣布积极响应、完全服从并将全力配合联合调查组工作，坚决维护消费者合法权益。",
-              "source_url": "https://www.ithome.com/1/017/796.htm",
+              "title": "国内首款 4MW 级 DR40 燃气轮机完成 72 小时长期试车",
+              "brief": "国内首款 4MW 级 DR40 燃气轮机成功完成 72 小时长期试车试验。该燃气轮机依托中国航发南方自主研发的 DR30 燃气轮机成熟核心机开展系列化研制，瞄准应急发电和分布式能源市场，主要面向应急电源车、数据中心备用电源、热电联供等应用场景。研制项目聚焦低成本设计与谱系化发展设计理念，沿用 DR30 燃机在低排放改进、性能优化方面的成果，重点对齿轮箱、燃烧室和涡轮部件开展优化设计，在确保性能达标的前提下，提升了机组在复杂工况下的适应性与可靠性，为后续型号推广应用奠定基础。",
+              "source_url": "https://www.ithome.com/1/017/840.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-26T10:50:22+08:00"
+              "published_at": "2026-10-26T12:40:17+08:00"
             },
             {
-              "title": "具身智能公司无境动力被曝停工欠薪近 800 万元",
-              "brief": "具身智能公司无境动力被曝停工欠薪，涉及金额近 800 万元，员工难以联系上公司实际控制人崔小飞。曾公开担任 CEO、总经理的袁海辉表示，目前联系不上实际控制人，不方便回应相关情况。据官网介绍，无境动力成立于 2026 年 2 月，位于南京市江宁区，天使轮已融资 1.1 亿元，团队汇聚 60 多位来自人工智能、机器人、芯片领域的专家，是南京市重点扶持的具身智能领军企业。公司专注物理 AI、具身智能大模型及足式机器人研发，成立仅 4 个月便与多家央企签订近 5 亿元框架订单。",
-              "source_url": "https://www.ithome.com/1/017/795.htm",
+              "title": "新福特锐界 L 将于 10 月 29 日发布，采用 2+2+3 七座布局",
+              "brief": "新福特锐界 L 将于 10 月 29 日发布。作为改款车型，新车针对外观造型和内饰进行小幅调整，车门把手延续全隐藏式设计，主要升级了智能座舱，搭载 8155 车机芯片并接入双 AI 语音大模型。车身尺寸长宽高分别为 5011/1961/1773mm，轴距 2950mm，因新包围车身长度小幅增加 11mm。新车采用 2+2+3 七座布局，主要针对第二排进行升级，座椅应用 32 处人体工程学设计，配备 14 点气动按摩、气动腿托等配置，并在 B 柱增加把手，方便老人和孩子上下车。",
+              "source_url": "https://www.ithome.com/1/017/839.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-26T10:42:42+08:00"
+              "published_at": "2026-10-26T12:32:19+08:00"
             },
             {
-              "title": "HTC 公布口袋 AI 互动伴侣 VIVEE：预售价 99.99 美元",
-              "brief": "HTC 公布了口袋 AI 互动伴侣 VIVEE，预售价 99.99 美元，支持个性化性格养成。HTC 还提供 VIVEE Suits 造型配件，在为 VIVEE 提供新造型的同时也能解锁不同的屏幕 UI 表情。硬件方面，VIVEE 尺寸为 60×60×50 毫米，重 114 克，配备 OLED 屏幕，具备全天候续航，支持 Wi-Fi、蓝牙和 NFC 连接，具备震动反馈，提供 IPX4 防水。该设备配备麦克风与扬声器硬件开关，HTC 承诺用户个人信息不会被用于 AI 模型训练。",
-              "source_url": "https://www.ithome.com/1/017/794.htm",
+              "title": "阿波罗首席经济学家：AI 尚未给科技七巨头以外的美企带来财务回报",
+              "brief": "阿波罗首席经济学家托斯滕·斯洛克观察了标普 493 指数成分股，即标普 500 剔除 Alphabet、亚马逊、苹果、Meta、微软、英伟达、特斯拉七家科技巨头后的公司。数据显示，这批企业利润率、人均营收基本持平，没有证据表明 AI 提升了其生产效率。他表示，尽管 AI 投入巨大、宣传铺天盖地，但科技行业以外，这项技术尚未给美国企业带来财务回报。斯洛克认为，普通企业难以将廉价的智能算力转化为更高营收增速和利润率，商业中需要的智能大多是判断力，AI 理解不了责任、信任、企业文化、伦理取舍等因素，而这些决定声誉风险并左右营收与利润率。",
+              "source_url": "https://www.ithome.com/1/017/838.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-26T10:40:32+08:00"
+              "published_at": "2026-10-26T12:30:20+08:00"
             },
             {
-              "title": "巨量引擎、百度、腾讯等 8 家企业签署《互联网营销宣传自律公约》",
-              "brief": "在开幕式现场，经北京市市场监督管理局组织指导、中国广告协会协调推动，来自巨量引擎（抖音集团旗下）、百度、腾讯、快手、京东集团、美团、360 集团、凤凰网的首批 8 家互联网企业代表，共同签署了《互联网营销宣传自律公约》，承诺自觉规范营销宣传行为，坚守真实合规底线，携手营造清朗有序的互联网营销环境。数据显示，今年上半年头部企事业单位广告业务收入突破 1.04 万亿元，同比增长 11.3%，中国广告市场规模稳居全球第二。",
-              "source_url": "https://www.ithome.com/1/017/793.htm",
+              "title": "第二届华为乾崑智驾公开赛开启报名，多品牌车型可参与",
+              "brief": "第二届华为乾崑智驾公开赛于 10 月 26 日开启报名，10 月 31 日正式开赛。鸿蒙智行全系、阿维塔、方程豹、华境等品牌旗下搭载华为乾崑智驾的车型均可报名参赛，包括奕境、东风奕派、北京越野、极狐（阿尔法 T7）、FREELANDER 神行者等品牌相关车型。最终获奖名单将在 11 月 13 日活动结束后的 14 个工作日内公布。活动设置了多个赛道及相应奖项，面向搭载华为乾崑智驾系统的各品牌车主开放。",
+              "source_url": "https://www.ithome.com/1/017/837.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-26T10:36:52+08:00"
+              "published_at": "2026-10-26T12:26:39+08:00"
             }
           ]
         }
