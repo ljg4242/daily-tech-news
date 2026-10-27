@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T18:54:31.206745+08:00",
+  "generated_at": "2026-10-27T20:54:18.851459+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果修复旧款 iPhone 上或已被利用的 CoreGraphics 漏洞",
+              "brief": "在周一发布 iOS 27.2 系列更新的同时，苹果还为旧系统推送了一系列软件更新，其中包括修复一个 CoreGraphics 漏洞，苹果称该漏洞可能在针对性攻击中已被利用。此次更新涵盖 iOS 26.7.2、iPadOS 26.7.2、iOS 18.7.11、iPadOS 18.7.11、macOS Tahoe 26.7.2、macOS Sequoia 15.8.2 和 tvOS 26.6.1。其中 iOS 18.7.11 和 iPadOS 18.7.11 为无法运行 iOS 26 的 iPhone XS、XS Max、XR 及第七代 iPad 带来该漏洞修复。苹果表示，处理恶意制作的文件可能导致任意代码执行，并已获悉该问题可能在 iOS 27 之前版本上被用于针对特定个人的极其复杂的攻击。iOS 26.7.2 修复了 134 个漏洞，均未标注被在野利用。tvOS 26.6.1 则为 Apple TV HD 和初代 Apple TV 4K 增加了对第四代 Siri 遥控器的支持。所有更新现已可用。",
+              "source_url": "https://www.macrumors.com/2026/10/27/apple-fixes-coregraphics-flaw-older-iphones/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T20:16:22+08:00"
+            },
             {
               "title": "苹果MacBook Pro触控栏发布十周年",
               "brief": "十年前的今天，即2016年10月27日的“Hello again”发布会上，苹果推出了触控栏，将其宣传为“革命性”的Retina多点触控条。触控栏取代了MacBook Pro的功能键，从一开始就引发争议，与蝶式键盘以及移除HDMI、SD卡和MagSafe接口出现在同一次备受批评的重新设计中。触控栏随后缓慢消亡：2019年16英寸MacBook Pro恢复了实体Esc键，2021年高端机型放弃触控栏，最后一款配备触控栏的13英寸MacBook Pro于2023年10月停售。此后没有任何Mac reintroduce它，而苹果预计明天将发布首款触屏MacBook Pro。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
               "source_name": "MacRumors",
               "published_at": "2026-10-27T09:58:05+08:00"
-            },
-            {
-              "title": "iOS 27.2让旧款Siri遥控器支持“查找”应用",
-              "brief": "随着iOS 27.2和tvOS 27.2的发布，第二代和第三代Siri遥控器现在可以通过“查找”应用进行定位。自iOS 17起，用户已可使用iPhone寻找丢失的Siri遥控器，但遥控器此前并不会出现在“查找”应用中，只能通过控制中心的Apple TV遥控器小组件来定位，不易被发现。现在，受支持的Siri遥控器将与其他设备一起列在“查找”应用中，使用更直观。旧款遥控器无法播放声音，也不支持精确查找。即将推出的第四代Apple TV 4K的遥控器将加入扬声器和精确查找功能。用户需安装iOS 27.2和tvOS 27.2，且可能需等待遥控器新固件推送后才能显示在“查找”应用中。",
-              "source_url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T08:13:30+08:00"
             }
           ]
         },
@@ -49,45 +49,52 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "参议员称美国政府对本国公民电子监控行为违法",
+              "brief": "据《连线》报道，美国外国情报监视法院曾在七个月前批评情报机构的搜索过滤器，使分析人员能够在缺乏法律所要求的审批、书面理由和记录的情况下，从拦截数据中提取美国公民的通讯信息，但法院仍批准延长一年无证监控行动。按法律规定，该裁决应在180天内公开，但已过9月13日的公开期限仍未公布。俄勒冈州参议员怀登和加州参议员希夫致信国家情报总监和司法部长，指出政府未遵守法定公开义务，质疑公众如何信任其遵守702条款的其他法律限制。报道还称，FBI内部审计等额外监督已被放弃。",
+              "source_url": "https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T20:29:01+08:00"
+            },
+            {
+              "title": "这款可爱应用把 iPhone Duo 变成迷你复古 Mac",
+              "brief": "Tiny Computers 应用可将 iPhone Duo 变成一系列复古 Mac 和同时代其他电脑。用户可在四款复古 Mac 中选择，包括1984年初代 Macintosh 改装的笔记本造型、iMac G3、iBook G3 和 PowerBook G4，此外还有 Commodore 64、IBM PC、Amiga 500、ThinkPad，以及运行 Windows 95 和 Windows XP 的两款笔记本电脑。每台设备都具备有限功能，如可点击的键盘、命令行、绘画程序、软盘和经典桌面游戏，还有隐藏文件、秘密命令和游戏奖牌等待发现，Windows 机器偶尔还会模拟死机。该应用现已在 App Store 上架。",
+              "source_url": "https://9to5mac.com/2026/10/27/this-super-cute-app-turns-your-iphone-duo-into-tiny-vintage-macs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T19:37:56+08:00"
+            },
+            {
+              "title": "苹果 iPad mini 升级引热议，60Hz 屏幕遭网友吐槽",
+              "brief": "苹果发布新款 iPad mini，配备更大的8.5英寸 OLED 屏幕，支持纳米纹理选项，峰值亮度较上代提升两倍以上，并带来 A20 Pro 芯片、抗水防尘、横向前置1200万像素人物居中摄像头、声学显示屏、更快的无线和蜂窝连接以及快充支持。然而网友很快发现官方未提及屏幕刷新率，判断其仍是60Hz，而非 ProMotion 可变刷新率。不少用户对700美元的售价却无120Hz 屏幕表示不满，称无法接受高价低配。媒体指出，最接近的安卓竞品 Redmagic Astra 2 已配备185Hz 刷新率屏幕，苹果在2026年仍坚持60Hz 显得格外突兀。",
+              "source_url": "https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T19:15:55+08:00"
+            },
+            {
+              "title": "Apple @ Work 播客：回顾 JNUC、Golden Gate 与 Rosetta 等话题",
+              "brief": "本期 Apple @ Work 播客中，Adam West 做客节目，分享了参加 Jamf 全国用户大会（JNUC）的经历，并谈论了 macOS Golden Gate 和 Rosetta 等话题。节目由 Mosyle 赞助，该公司为苹果设备在工作场景中的部署、管理和防护提供一体化解决方案，目前有超过45000家机构信赖其服务，可低成本轻松管理数百万台苹果设备。听众可通过 Apple Podcasts、Overcast、Spotify、Pocket Casts、Castro 和 RSS 等平台收听并订阅本节目。",
+              "source_url": "https://9to5mac.com/2026/10/27/jnuc-recap-golden-gate-rosetta-and-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-27T18:00:00+08:00"
+            },
+            {
               "title": "Jay-Z 确认担任 Apple Music 2027 年超级碗中场秀头条嘉宾",
               "brief": "Apple Music 与 NFL 在达拉斯牛仔对阵费城老鹰的周一夜间橄榄球赛期间宣布，25 次格莱美奖得主 Jay-Z 将于 2027 年 2 月 14 日在加州英格尔伍德的 SoFi 体育场登台第 61 届超级碗中场秀。新闻稿暗示其妻子碧昂丝可能作为特别嘉宾现身，这将是她自 2016 年与 Coldplay、Bruno Mars 同台后首次重返超级碗中场舞台，她曾在 2013 年担任中场秀头条。官方公告还提到 Jay-Z 近期巡演中的多位嘉宾，包括 Blue Ivy Carter、John Legend、DJ Khaled、Dr. Dre 和 Snoop Dogg 等，均有望客串。Jay-Z 创立的 Roc Nation 自 2019 年起与 NFL 合作制作中场秀，并将担任明年演出的执行制作。",
               "source_url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show/",
               "source_name": "9to5Mac",
               "published_at": "2026-10-27T11:30:59+08:00"
-            },
-            {
-              "title": "9to5Mac 每日播报：苹果发布全新 iPad mini",
-              "brief": "本期 9to5Mac Daily 播客讨论了多条新闻：苹果预告即将迎来“激动人心的一周”新品发布，并正式推出全新 iPad mini，采用 OLED 屏幕、更轻薄的设计等升级。此外，据报道，MacBook Neo 帮助苹果缓解了全球 PC 市场下滑的冲击；苹果还在探索修复 Safari 在 iPhone Duo 外屏上布局拥挤的问题。节目每个工作日录制，可在 Apple Podcasts、Overcast、Spotify 等平台收听订阅，也可通过 9to5Mac Daily Plus 获取无广告版本和附加内容。",
-              "source_url": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T08:16:31+08:00"
-            },
-            {
-              "title": "T-Mobile 新套餐允许用户在 Apple TV 等订阅之间切换",
-              "brief": "T-Mobile 宣布推出名为“T-Mix”的新系列套餐，用户可从多种订阅服务中选择，并在每年四个选择窗口期内进行切换，无需改变月账单。T-Mix 提供三种套餐，包含不同流量和无线权益，每档套餐附带一定数量的“Picks”，可用于订阅服务、设备促销等，涵盖 Apple TV、Netflix、Hulu、Apple Music、ESPN、Xbox Game Pass、YouTube Premium 等。其中 Apple TV 仅需一个 Pick，且该优惠将持续到 2027 年 6 月，而 Apple Music 个人版则需要两个 Pick，可用数量取决于套餐和线路数。",
-              "source_url": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T07:51:19+08:00"
-            },
-            {
-              "title": "Mac 版 Ollama 新增本地文本转语音模型支持",
-              "brief": "Ollama 是一个让用户在 Mac 上本地运行开源 AI 模型、或通过云端访问更强模型的开源平台，在 GitHub 上拥有近 18.5 万颗星。在 macOS 上，它使用苹果的 MLX 开源机器学习框架，借助 Apple Silicon 统一内存架构让模型运行更快更高效，用户可从 Hugging Face 等仓库下载模型，离线运行 AI 而无需将数据发送到外部服务器。近日 Ollama 宣布支持 Gradium 开发的 Phonon 文本转语音模型家族，这是该平台首次支持语音生成，可实时生成语音，让用户边生成边收听。借助 MLX 框架，在搭载 M5 Max 的 MacBook Pro 测试中，语音生成速度比 Gradium 官方实现快 35%。Phonon 支持英语、法语、德语、西班牙语和葡萄牙语五种语言，目前语音模型已在 macOS 可用，Windows 和 Linux 支持即将推出。",
-              "source_url": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T06:49:25+08:00"
-            },
-            {
-              "title": "Instagram 推出最长 90 分钟横屏视频格式 Features 对抗 YouTube",
-              "brief": "Instagram 再次尝试挑战 YouTube，推出名为 Features 的新格式，支持最长 90 分钟的横屏视频。该功能面向播客主、喜剧演员等长视频创作者，此前已在巴西测试，现正扩展至美国部分创作者。创作者可以将较短的 Reels 关联到完整长视频，引导观众观看完整内容。Instagram 产品副总裁 Tessa Lyons 表示，用户在 Reels 中点击播客片段即可继续观看或直接跳转到完整剧集，无需离开 Instagram。完整长视频也会通过探索页等应用内其他位置推荐给用户。此举意在抓住社交媒体信息流中喜剧表演和视频播客片段日益增多的趋势，将这些片段转化为完整剧集的入口。Instagram 此前曾推出 IGTV 进军长视频领域，但未能成功，随后转向 Reels。",
-              "source_url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-10-27T06:06:38+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Anthropic 财报亮眼，但 AI 在科技行业外回报有限",
+              "brief": "Anthropic 即将上市，其 S-1 文件披露了惊人的财务数据。今年上半年公司营收达 163 亿美元，远超 2025 年同期的 12 亿美元。增长动力来自 Claude Code 在 2026 年初引发的 AI 编程热潮，促使各大公司转向企业市场。传闻估值接近 1.5 万亿美元的 Anthropic，上市后或将成为史上最大规模 IPO。目前公司已融资 1410 亿美元，手中仍有超 1120 亿美元现金。但它已承诺向 Google、亚马逊、微软和 SpaceX 支付数千亿美元用于云基础设施，预计未来一年算力将持续受限。各大超大规模云厂商优先保障自身 AI 负载，Anthropic 或不得不寻找更新、可靠性较低的供应商，其数据中心将主要依靠天然气供电以降低成本。",
+              "source_url": "https://9to5google.com/2026/10/27/anthropic-is-printing-money-but-ai-isnt-paying-off-outside-tech/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-27T19:00:00+08:00"
+            },
             {
               "title": "Google Photos 推出可自定义的“收藏”标签页改版",
               "brief": "Google Photos 正式推出“收藏”标签页的改版设计，重点是支持自定义。页面顶部新增“已固定”区域，用户可以自行选择显示哪些卡片，默认显示收藏夹、屏幕截图和回收站，也可以完全移除该区域。随后是“此设备上的内容”“相册”“人物和宠物”“着装”“地点”和“文档”等轮播板块，点击右上角的“查看全部”可直接进入完整的网格或列表视图。用户还可以隐藏各个板块并调整排列顺序。页面底部是“其他收藏”网格，包含收藏夹、屏幕截图、时刻、视频、最近添加、贴纸、创作、归档、已锁定和回收站，最下方提供“重新排序”按钮。此次改版随 Google Photos 7.97 版本大范围推送，用户重启设备并打开应用即可获得该更新。",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
               "source_name": "9to5Google",
               "published_at": "2026-10-27T03:58:11+08:00"
-            },
-            {
-              "title": "Even Realities推出G2智能眼镜全新棕色配色",
-              "brief": "Even Realities为其G2智能眼镜推出名为“Brown 2”的全新配色，并发布两款自发布以来用户一直期待的新配件。Brown 2采用新材料，将G2眼镜的结构性与平衡感同玳瑁色镜框的典雅外观相结合，同时保留了G2无摄像头的全部功能。新配色提供Frame A（圆形）和Frame B（方形）两种镜框款式，售价649美元。此前推出的灰色、棕色和绿色配色也将继续销售。",
-              "source_url": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-27T03:56:26+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Android 日益 iOS 化，正在毁掉我最爱的手机",
-              "brief": "作者认为现在或许是安卓粉丝最好的时代：品牌众多、各有特色，长期软件更新已成常态，高端硬件甚至超越 iPhone。他近期使用 OPPO Find X9 Pro Max 数周，称赞其多天续航、流畅性能、出色相机和优秀的原生软件体验，外观也独具一格，不会与 Galaxy 或 iPhone 混淆。然而，各安卓品牌，尤其是中国品牌如 OPPO、vivo、荣耀等——纷纷模仿苹果 iOS 的外观，特别是当下的液态玻璃设计潮流，这种无耻模仿严重削弱了品牌辛苦建立的独特性。作者批评液态玻璃首次亮相时就华而不实，透明化设计与简洁性背道而驰，影响了功能的清晰度和导航的易用性，正在破坏他的安卓使用体验。",
-              "source_url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
+              "title": "Galaxy Watch Ultra 2 轨道跑步 VO2 Max 数据异常，三星正筹备修复",
+              "brief": "有用户在三星社区论坛反映，Galaxy Watch Ultra 2 在记录“轨道跑步”时无法计算或显示 VO2 Max 数据。三星健康应用提示用户未在 GPS 信号良好区域以 4 公里/小时以上速度跑满 10 分钟，但截图数据显示用户实际跑步时间远超 10 分钟，速度也明显高于该门槛，且 GPS 信号并无问题。奇怪的是，该手表在户外跑步等其他活动中仍能正常测算 VO2 Max。三星版主已回应确认该问题存在，开发者正在处理，修复将随未来软件更新推出。",
+              "source_url": "https://www.androidauthority.com/galaxy-watch-ultra-2-vo2-max-error-3728454/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-27T18:30:35+08:00"
+              "published_at": "2026-10-27T20:29:51+08:00"
             },
             {
-              "title": "Googlebook 的 Chrome 浏览器迎来又一轮急需修复",
-              "brief": "Google 正为 Googlebook 推送 Chrome M156 更新，修复多个影响日常使用的烦人问题。此前浏览器存在不少困扰：密码管理器扩展导致崩溃、全屏应用抢占键盘快捷键、复制表格困难等。此次更新修复了使用 1Password 等第三方自动填充扩展时的崩溃问题，解决了 Teleparty 等扩展打开告别页面的故障，以及在窗口间拖动标签页引发的崩溃。全屏应用不再拦截 Alt+Tab，用户可正常切换窗口，按住 Esc 仍可退出全屏。其他修复包括 Reddit 和 Canva 等网站上无法关闭的第三方登录提示、Google Docs 中复制大表格或图片时的剪贴板错误、Facebook 直播卡在缓冲以及网站图标缺失或错误等问题。多 Chrome 配置文件、标签组同步和自动发现 Google Cast 设备的功能仍在开发中。",
-              "source_url": "https://www.androidauthority.com/googlebooks-chrome-m156-update-3728427/",
+              "title": "Soulog Sense 体验：可磁吸在手机上的 AI 笔记设备",
+              "brief": "Soulog Sense 是一款 AI 笔记设备，售价 139.99 美元，采用磁吸方式固定在手机背面，还可兼作卡包，融入日常随身装备，不占额外空间。它重约 46 克，续航超过 50 小时，并提供免费套餐，对多数用户已足够。功能方面配有 Rewind 等实用工具，设计贴合日常使用。缺点是相比竞品体积略大略重，且不具备防水能力。与 Plaud Note、Anker Soundcore Work 等需要单独携带的 AI 录音笔记设备相比，其磁吸手机的设计让存在感更低，适合追求便携的用户。",
+              "source_url": "https://www.androidauthority.com/soulog-sense-ai-note-taking-device-review-3719400/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-27T18:19:01+08:00"
+              "published_at": "2026-10-27T20:00:34+08:00"
             },
             {
-              "title": "MOVA V70 Ultra Complete 评测：虽不完美，但解决了扫地机器人的一大难题",
-              "brief": "MOVA V70 Ultra Complete 售价 1299 美元，是一款能力出色的机器人清洁方案，主打边缘到边缘的覆盖清洁和便捷维护。优点包括吸力强劲、拖地压力大、尘盒易倾倒、内置双皂液分配器，并能跨越较大障碍物；缺点是软件体验仍需打磨、基站面板贴合不牢、烘干时有热塑料气味。作者表示自己今年才开始认真接触扫地机器人，原以为会失望，没想到这类产品经过多年打磨，清洁体验令人印象深刻。许多产品仍存在明显改进空间，而边缘清洁正是难题之一。V70 Ultra Complete 的贴边清洁能力突出，好比用胸口刷墙与手持刷子伸到边缘作画的区别，能够清洁到普通扫地机难以触及的边缘区域。",
-              "source_url": "https://www.androidauthority.com/mova-v70-ultra-complete-review-3713204/",
+              "title": "Cocoon 3.1 beta 上线：Android 掌机迎来快速切换游戏功能",
+              "brief": "面向 Android 掌机的模拟器前端 Cocoon 发布 3.1 beta 版本，核心新功能为“增强设备访问”模式，用户可从启动器网格直接挂起、恢复并切换游戏。按 Home 键时游戏会被挂起并保留快照，按 A 键立即回到原进度，按 X 键则关闭游戏及后台伴随应用，双屏设备还能即时切换显示输出。该功能目前主要支持 AYN、Retroid 及部分 AYANEO 机型。此外，本次更新针对 Anbernic RG DS 等低配设备进行性能优化，包括游戏时暂停后台动画、预编译优化配置文件，并新增网格编辑器、精确电量百分比显示和自动更新器。",
+              "source_url": "https://www.androidauthority.com/cocoon-3-1-beta-update-3728453/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-27T18:00:17+08:00"
+              "published_at": "2026-10-27T19:38:47+08:00"
             },
             {
-              "title": "我在安卓手机上玩《超级马力欧银河》，教你如何安装",
-              "brief": "作者体验了一个名为 Galaxy Android 的项目，该移植将被誉为史上最伟大 3D 平台游戏之一的《超级马力欧银河》以原生方式带到安卓平台。该项目隶属 OpenPort Labs，大量借助 AI 实现运行，但其背后是 Petari 反编译项目七年半的手工代码编写成果。作者在 OPPO Find X9 Ultra 上进行了实测：虽然在大屏幕上让马力欧穿越银河的体验无疑很酷，但目前仍存在不少怪异问题和性能缺陷，暂时可能更适合通过模拟器运行该游戏。文章介绍了安装方法，虽然需要一些手动操作，但过程相当简单直接。作者还发起投票询问用户对反编译主机游戏登陆安卓的看法。",
-              "source_url": "https://www.androidauthority.com/super-mario-galaxy-android-port-hands-on-how-to-3727756/",
+              "title": "Galaxy S26 Ultra 与 OPPO Find X10 Pro Max 相机对比",
+              "brief": "Samsung Galaxy S26 Ultra 后置一颗 2 亿像素主摄，而 OPPO Find X10 Pro Max 则配备三颗 2 亿像素摄像头，覆盖主摄、超广角和长焦，其中主摄与三星联合研发，并由哈苏调校。对比测试显示，Find X10 Pro Max 主摄采用 ISOCELL HPC 传感器，具备 17 档动态范围，在逆光场景下色彩准确、不过曝，室内样张色彩温暖、还原度高。Galaxy S26 Ultra 主摄为 ISOCELL HP2，与 S25 Ultra 同款但调整了光圈，拍摄时在对比度和曝光处理上有些怪癖，画面缺乏氛围，细看噪点更多、清晰度略差。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-27T18:00:10+08:00"
+              "published_at": "2026-10-27T19:30:05+08:00"
             },
             {
-              "title": "Android Sidekick 游戏浮层新增视频回录功能",
-              "brief": "Google 更新了 Play 服务和 Play 商店，推出多项面向游戏的新功能。Play 商店升级至 v53.8 版本：Ask Play 的回答中将出现带有引用和时间戳的相关视频，帮助用户直达解答问题的视频片段。对玩家更重要的是，安卓 Sidekick 游戏浮层新增名为 Playbacks 的功能，可追溯录制最近 30 秒的游戏画面，视频保存在本地供日后查看。这一想法并不新颖，但原生集成到安卓系统中会很实用，方便玩家向朋友、社区或 YouTube 分享精彩游戏时刻。用户还可通过链接分享 Play Shorts 视频，接收方可在安卓、iOS 设备及网页上观看。此外，更新还支持将安卓 XR 眼镜连接到手机。",
-              "source_url": "https://www.androidauthority.com/google-play-store-sidekick-playbacks-play-services-update-3728394/",
+              "title": "Oukitel WP63 上手：一部自带点火器的三防手机",
+              "brief": "Oukitel WP63 是一款三防手机，配备超大电池，最独特之处在于内置点火加热线圈。用户滑动盖板即可露出加热线圈，通过内置应用控制点火，可选择 4 至 10 秒加热时间，结束后需进入冷却期。开机箱除手机和充电线外，还附带充满警告的厚说明书和备用零件。点火器并非电动开启，使用时需手动操作。作者表示，高热线圈与锂电池组合初看令人担忧，但实际使用几周后效果比预期更好。这款手机虽属小众，却展现了安卓手机玩出花样的独特魅力。",
+              "source_url": "https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-27T17:13:44+08:00"
+              "published_at": "2026-10-27T19:00:35+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "富士Instax Mini Evo 2加入触摸屏和视频录制功能",
+              "brief": "富士胶片发布新款混合式拍立得相机Instax Mini Evo 2，继续在趣味性与摄影体验之间寻求平衡。与前代产品相比，新机将传感器从1/5英寸升级至更大的1/2.77英寸，后部屏幕升级为4.5英寸并支持触摸操作，还新增了基础的视频录制功能，可拍摄照片前几秒的画面。不过视频功能限制较多：MP4片段只能保存到microSD卡，无法录制音频，分辨率仅为560×992像素，帧率为24FPS。整体而言，这款相机更像一台内置打印机的入门级数码相机，而非单纯的复古玩具。",
+              "source_url": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+              "source_name": "The Verge",
+              "published_at": "2026-10-27T08:31:33-04:00"
+            },
+            {
+              "title": "通用汽车高管斯特林·安德森：人形机器人不应用来造车",
+              "brief": "通用汽车首席产品官斯特林·安德森在纽约举行的年度技术活动后接受采访，阐述了他对机器人应用的看法，认为人形机器人并不适合用于汽车制造。他还在访谈中剖析了通用汽车在软件领域的演进历程，讲解了多传感器车辆安全背后的物理原理，并解释为何个人拥有的自动驾驶汽车优于Robotaxi模式。作为曾在Aurora参与自动驾驶技术研发的高管，安德森的观点展现了通用汽车在自动驾驶、人工智能和用户数据隐私等方向上的战略思路。",
+              "source_url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+              "source_name": "The Verge",
+              "published_at": "2026-10-27T07:00:00-04:00"
+            },
             {
               "title": "数据中心引发的反感情绪正在团结美国",
               "brief": "The Verge高级政策记者Lauren Feiner报道，美国多地针对数据中心的反对情绪正在成为中期选举的焦点议题。随着人工智能的发展，数据中心在全国各地迅速扩张，其带来的噪音、用电压力、水资源消耗以及对社区的冲击引发居民不满，使数据中心议题跨越党派界限，将不同政治立场的选民团结起来。文章指出，一些中期选举的竞争实际上变成了“讨厌数据中心的人”与“更讨厌数据中心的人”之间的较量，候选人纷纷借反对数据中心项目建设来争取选民支持。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
               "source_name": "The Verge",
               "published_at": "2026-10-26T19:34:58-04:00"
-            },
-            {
-              "title": "三星适用于Switch 2的MicroSD Express存储卡促销，价格不足50美元",
-              "brief": "任天堂Switch 2用户若为存储空间不足而烦恼，现在有了便宜的选择。三星P9 MicroSD Express存储卡目前在多家零售商降价促销，256GB版本售价47.99美元，512GB版本售价99美元。256GB版本通常售价约80美元，512GB版本一般在150至200美元之间。此次降价后的价格仍高于产品首发价格，原因很可能是持续的存储芯片短缺。P9存储卡支持Switch 2所需的MicroSD Express格式，可根据游戏容量大小存储数十款游戏，适合需要扩展主机的玩家购买。",
-              "source_url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-10-26T17:56:36-04:00"
-            },
-            {
-              "title": "Anthropic上市文件揭示AI数据中心对天然气的高度依赖",
-              "brief": "Anthropic在准备上市之际，其提交给美国证券交易委员会的S-1文件清晰暴露了生成式AI对甲烷的依赖。文件指出，获取电力供应和具备充足电力的数据中心选址的竞争异常激烈。Anthropic承认，数据中心正日益依赖所谓天然气，其主要成分为甲烷，这使得公司的AI数据中心建设容易受到燃料价格上涨和现有供应链限制的影响。文件还指出，全球气温上升可能推高能源成本，形成恶性循环，公司自身的扩张也在加剧气候风险。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-              "source_name": "The Verge",
-              "published_at": "2026-10-26T17:45:31-04:00"
             }
           ]
         }
@@ -334,39 +334,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "特斯拉Optimus上岗 为CyberCab无人车充电",
-              "brief": "特斯拉工程师Moravy介绍，Optimus机器人的第一份工作是为CyberCab无人车充电，未来还可能承担车辆维护或配送任务。他描绘了Cybercab、Optimus和Robovan的铁三角组合，并可加上长途运输的Tesla Semi。Cybercab总装线仅约25个全自动工位，为Model Y生产线的五分之一到十分之一，自动化程度接近80%，开箱工艺使每辆车生产占地减少约50%，整车设计寿命50万英里。由于不设涂装车间，特斯拉省下几亿美元。目前产线速度已超过Robotaxi车队推广速度，4680电芯封装在独立灌封模块中，可单独更换，电池包首次采用钢制外壳，并为换装更便宜的磷酸铁锂电芯预留空间。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584022.htm",
+              "title": "英特尔宣布收购Classiq 打造全栈量子计算平台",
+              "brief": "英特尔宣布收购量子计算软件公司Classiq，后者团队将加入英特尔。英特尔十多年来持续投入可扩展的硅自旋量子比特技术研发，在量子计算领域取得显著进展。Classiq提供的统一量子软件平台不受底层量子比特类型和硬件限制，类似EDA软件在经典芯片设计中的作用。此次收购将整合英特尔的量子软件平台、硅自旋量子比特技术和先进制造能力，以及Classiq的自动化量子算法综合平台，使英特尔成为全栈量子解决方案提供商，并将量子处理器纳入其计算平台产品组合。交易预计于2027年上半年完成。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584044.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T18:03:22+08:00"
+              "published_at": "2026-10-27T20:47:26+08:00"
             },
             {
-              "title": "蒂姆·斯威尼再批Steam生成式AI披露规则 或给开发者贴标签",
-              "brief": "Epic创始人蒂姆·斯威尼批评Steam要求开发者披露生成式AI用途的做法，称这种贴标签方式令人反感，此前他还将其比作红字，认为随着AI进入更多开发环节，单独标记会逐渐失去意义。Steam目前要求开发者说明生成式AI的具体用途，例如《使命召唤：现代战争4》商店页面注明使用此类工具制作部分资源。Valve表示政策旨在保持透明，并未禁止新技术，规则也可能继续调整。争议还涉及训练材料权利、AI对创作流程的影响及环境成本。Epic近期更新启动器时也主动提到使用AI辅助编程，双方分歧集中在消费者知情权与开发者声誉风险的平衡上，斯威尼尚未提出替代方案。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1584020.htm",
+              "title": "苹果再“砍手”：韩国官网iPad mini海报移除手部",
+              "brief": "苹果韩国官网的iPad mini宣传海报被发现移除了手部元素，仅展示设备本身，而其他地区官网的对应图片则保留手部对比以直观呈现产品纤薄设计。这一差异引发了外界对苹果是否考虑当地文化敏感性的讨论。在韩国，拇指与食指捏合的手势曾多次引发争议，2023年游戏公司Nexon旗下《冒险岛》宣传视频就曾因被质疑出现类似手势而引发风波，相关动画制作方随后致歉。截至目前，苹果尚未公开说明韩国官网宣传图调整的原因。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584042.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T17:53:42+08:00"
+              "published_at": "2026-10-27T20:46:55+08:00"
             },
             {
-              "title": "nxnative尝试原生转译Switch游戏 《怪物猎人：崛起》M1设备达60帧",
-              "brief": "nxnative项目尝试将Switch游戏原生转译到苹果设备上运行，无需模拟器。由于Switch与苹果芯片均采用Arm64指令集，项目通过重写游戏代码使其直接在苹果芯片上执行，使用小型宿主替代Switch的Horizon OS，并在Metal之上重建NVN图形接口，着色器转换借用Ryujinx的成果。YouTube创作者Andrew Tsai用8GB内存无风扇版M1 MacBook Air测试，《怪物猎人：崛起》达到60帧，《圣兽之王》《勇者斗恶龙XI S》《黑暗之魂：重制版》均能运行，但《毁灭战士：永恒》无法启动。项目README列出约70款测试游戏，目标设备多为iPhone 15 Pro及更新机型和M1及以上iPad，暂不支持在线功能和amiibo。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1584018.htm",
+              "title": "Temu被罚2亿欧元后迎新进展 欧盟接受其整改计划",
+              "brief": "在被欧盟处以2亿欧元罚款后，Temu迎来新进展，欧盟委员会接受了其提出的整改计划。Temu发言人表示，公司欢迎欧盟委员会批准该计划。Temu隶属于拼多多控股。此外，自今年7月初起，Temu、Shein等电商平台还受到欧盟针对低价值电商包裹征收3欧元费用的影响。此前，价值低于150欧元的包裹进入欧盟可享受关税豁免，新政策改变了这一局面，对相关平台的低价直邮模式构成额外成本压力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584040.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T17:52:50+08:00"
+              "published_at": "2026-10-27T20:46:10+08:00"
             },
             {
-              "title": "80岁老人开特斯拉狂奔5000公里 4500公里靠FSD辅助驾驶",
-              "brief": "80岁老人Sniffin驾驶特斯拉从得州达拉斯出发，途经爱荷华州返回怀俄明州，全程近3000英里（约4800公里），其中约2800英里由FSD辅助驾驶完成，占比超过93%。旅途中约每100英里需充电一次，充至80%约25分钟。最惊险一次在爱荷华州Elkader附近，电量归零距充电桩仅剩4英里，最终勉强抵达。Sniffin坦言FSD并非万能，在施工路段等复杂路况下表现不够稳定，需要随时接管。他提到Model X新增的SLOTH驾驶模式偏向温和平顺，适合长途巡航。数据显示，开启Autopilot的车辆每636万英里发生一次事故，约为美国平均水平66万英里一次的十分之一，但FSD并非零风险。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1584016.htm",
+              "title": "iPhone 18e传闻曝光：升级2nm A20芯片 外观与屏幕或基本不变",
+              "brief": "据爆料，iPhone 18e将采用约6.12英寸60Hz LTPS OLED屏幕，后置单颗4800万像素摄像头，前置或升级至2400万像素，高于现款1200万像素。核心升级为台积电2纳米制程A20处理器，相比iPhone 17e的3纳米A19芯片有望提升性能和能效，且可能与标准版iPhone 18采用同款芯片，缩小两者性能差距。外观预计基本延续上代设计，继续保留屏幕刘海。新机有望于2027年春季与iPhone 18同期发布，相关规格尚未获苹果确认。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584038.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T17:44:03+08:00"
+              "published_at": "2026-10-27T20:44:23+08:00"
             },
             {
-              "title": "国家广电总局发布新规：IPTV不得播放开机广告",
-              "brief": "国家广电总局发布新规，规范IPTV集成播控服务运营。新规明确，IPTV集成播控服务提供者应坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，并且不得播放开机广告。智能电视机应支持优先呈现直播频道功能并提供便捷设置入口，用户可自行选择开机进入直播频道或电视交互主页。在内容和收费管理方面，应在首页设立免费专区，重点推荐优质免费内容，精简收费栏目数量，明示节目收费信息，并规范应用专区运营和订购支付管理。新规还要求简化遥控操作，实现遥控器一键切换直播信源，整体推动电视开机直达直播、减少开机广告干扰并优化用户体验。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584014.htm",
+              "title": "Intel 28核Nova Lake-S泄露跑分单核超越现款旗舰 多核成绩仍落后",
+              "brief": "VideoCardz在PassMark数据库中发现疑似英特尔Nova Lake-S 28核处理器的跑分记录，标示为Intel 0000。两条记录单线程成绩分别为5210分和5191分，领先Core Ultra 9 285K约3%、Ryzen 9 9950X3D约8.4%。但多线程CPU Mark最高61509分，低于285K的67274分和9950X3D的72066分。数据库中另有8核记录，成绩差异较大。此前泄露显示高端型号或采用8性能核、16能效核及4低功耗能效核，传闻采用LGA 1954插槽，预计2027年初亮相。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584036.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T17:39:42+08:00"
+              "published_at": "2026-10-27T20:42:15+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "荷兰计划用 AI 取代 2.5 万个政府工作岗位，目标节省 35 亿欧元",
-              "brief": "荷兰政府计划借助 AI 技术取代 2.5 万个政府工作岗位，目标节省 35 亿欧元，并通过 AI 提升效率，将生产力提高 20%。政府还计划精简规章制度以减少工作量，已计划每年废除或简化 500 项规章制度。此外，荷兰政府未来将要求两名员工共用一张办公桌，出售闲置办公楼，并对 IT 系统进行标准化改造。此次裁员不会影响警察和国防部门岗位，但常设咨询委员会和咨询机构不在豁免范围之内。截至 2025 年底，荷兰中央政府工作人员数量达 16 万人，与 2018 年相比增长 41%。",
-              "source_url": "https://www.ithome.com/1/018/599.htm",
+              "title": "联想拯救者 ×《影之刃零》联名款 10 月 29 日预售，含 Y9000P 至尊版、Y7000X",
+              "brief": "联想拯救者与国产暗黑武侠动作 RPG《影之刃零》推出联名款产品，包括 Y9000P 至尊版、Y7000X 等，将标志性元素融入机身与键帽细节。《影之刃零》由灵游坊自主研发发行，采用虚幻引擎 5 打造，融合中国武术与蒸汽朋克的功夫朋克风格，主打快节奏高速战斗。游戏于 10 月 27 日开启全平台预下载，10 月 29 日正式发售，登陆 PC / PS5 平台，国区数字标准版售价 268 元，数字豪华版 328 元，PS5 实体光碟将于 2027 年推出。游戏中玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里粉碎笼罩武林的惊天阴谋。",
+              "source_url": "https://www.ithome.com/1/018/655.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T18:42:45+08:00"
+              "published_at": "2026-10-27T20:47:50+08:00"
             },
             {
-              "title": "思特威前三季度营收 75.61 亿元同比增长 19.70%，归母净利润 8.4 亿元",
-              "brief": "思特威发布 2026 年前三季度财报：营业收入 75.61 亿元，同比增长 19.70%；归母净利润 8.40 亿元，同比增长 20.05%；扣非归母净利润 8.71 亿元，同比增长 26.27%。第三季度单季归母净利润 3.11 亿元，同比增长 2.87%；扣非净利润 3.69 亿元，同比增长 25.64%。前三季度研发投入 5.22 亿元，同比增长 23.34%；经营活动现金流净额 5280.79 万元，由上年同期的净流出 10.42 亿元转正。报告期末总资产 196.18 亿元，较上年度末增长 81.29%。思特威主营 CMOS 图像传感器，产品覆盖安防监控、机器视觉、车载电子和智能手机等领域。",
-              "source_url": "https://www.ithome.com/1/018/597.htm",
+              "title": "REDMI K100 黑色版开箱图赏：时尚挺阔，比前代更简洁",
+              "brief": "REDMI K100 黑色版延续了 K 系列简洁凝练的设计语言，采用直边机身与横向纯平相机 Deco。相机模块为圆角矩形，内含两颗竖向排列的摄像头和闪光灯，右侧为拉丝同心圆纹理装饰模块，带有 Sound by Bose 标识，配备该技术加持的对称式双扬声器。机身正面为 6.83 英寸 1.5K 旗舰直屏，支持 165Hz 高刷新率、480Hz 触控报点率。中框为 1.3mm 反包金属材质，喷砂质感。机身尺寸 162.91×77.93mm，厚 8.65mm，重 234.5g。随机附赠 100W 充电器、数据线、取卡针和清水保护壳。整体做工精湛扎实，颜值较上代稳中有进。",
+              "source_url": "https://www.ithome.com/1/018/654.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T18:33:50+08:00"
+              "published_at": "2026-10-27T20:41:41+08:00"
             },
             {
-              "title": "广西柳州一男子开启汽车智驾后拍摄玩手机、吃东西视频炫耀，被警方依法处置",
-              "brief": "广西柳州一男子开启汽车智能辅助驾驶后，拍摄自己玩手机、吃东西的视频并在网上炫耀，被交警部门依法处置。交管部门此前已多次强调，L2 级辅助驾驶开启后，双手长时间脱离方向盘，行车中进食、手持手机拍摄视频、刷短视频、睡觉等行为，都属于驾车时有其他妨碍安全驾驶的行为。依据《道路交通安全法实施条例》第六十二条第三项，此类行为与拨打接听手持电话等危险程度相当，依法可予以处罚。",
-              "source_url": "https://www.ithome.com/1/018/596.htm",
+              "title": "微软确认 Surface Laptop Ultra 支持 Mini LED 分区调光，仍有改进空间",
+              "brief": "Surface Laptop Ultra 的 Mini LED 屏幕显示效果引发争议，多家媒体评测指出其存在拖影、光晕明显以及色彩对比度不足等问题，与宣传相比存在差距，有媒体因此认为该屏幕完全不支持局部调光。对此，外媒 Windows Central 联系微软求证，微软最终确认相应屏幕确实具备分区调光能力，但屏幕表现仍有改进空间，未来可能通过固件更新加以改善。作为参考，微软此前已为 Surface Laptop Ultra 发布首个重大固件更新，修复了部分用户遇到的屏幕闪烁、重启时间过长以及蓝屏等问题。",
+              "source_url": "https://www.ithome.com/1/018/652.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T18:28:48+08:00"
+              "published_at": "2026-10-27T20:22:37+08:00"
             },
             {
-              "title": "景嘉微前三季度归母净亏损 1.85 亿元，同比由盈转亏",
-              "brief": "景嘉微发布 2026 年前三季度财报：营业收入 5.53 亿元，同比增长 11.71%；归母净亏损 1.85 亿元，同比由盈转亏；扣非净亏损 1.99 亿元。第三季度单季营收 2.18 亿元，同比下降 27.55%，归母净亏损 7664.97 万元。前三季度研发费用 4.41 亿元，同比增长 90.72%，主要投向 JM11 系列 GPU 迭代与端侧 AI SoC 研发，是短期利润承压的核心因素。综合毛利率约 51.76%，同比提升约 6.03 个百分点。经营现金流净额为 -5.42 亿元。JM11 系列已完成与中望 CAD、中望 3D 的全功能适配。",
-              "source_url": "https://www.ithome.com/1/018/591.htm",
+              "title": "文远知行启动全球保险合作计划，为 L4 级自动驾驶护航",
+              "brief": "文远知行启动全球保险合作计划，携手安联保险、平安产险等合作伙伴，为即将在欧洲等更多市场推出的服务提供支持。各方将根据当地监管要求和运营需求，共同开发覆盖 L4 级自动驾驶车辆运营全生命周期的定制化保险方案，涵盖机动车责任险、商业综合责任险、产品责任险以及隐私和网络安全风险保障。安联保险是新加坡第三大车险公司，将支持文远知行携手 Grab 在榜鹅推出的 Ai.R 自动驾驶接驳服务。平安产险则参与开发符合中国及中东市场监管要求的 Robotaxi 保险方案，保障北京、广州、阿布扎比和迪拜四城的纯无人商业化运营。",
+              "source_url": "https://www.ithome.com/1/018/651.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T18:24:44+08:00"
+              "published_at": "2026-10-27T20:22:06+08:00"
             },
             {
-              "title": "影石创新前三季度营收 94.36 亿元同比增长 42.73%，归母净利润同比大降 93.96%",
-              "brief": "影石创新发布 2026 年前三季度财报：营业收入 94.36 亿元，同比增长 42.73%；但归母净利润仅 4783.56 万元，同比下降 93.96%；扣非净利润 513.44 万元，同比下降 99.31%。利润大幅下滑主要受研发投入加大、存储元器件涨价、行业竞争加剧致毛利率下降影响，前三季度综合毛利率 38.21%，同比下降 11.42 个百分点。前三季度研发投入 16.75 亿元，同比增长 54.29%；经营现金流净额 42.64 亿元；期末存货 71.54 亿元，较上年度末的 29.19 亿元大幅增长。",
-              "source_url": "https://www.ithome.com/1/018/593.htm",
+              "title": "深蓝 S09 车型 OTA V5.4 版本上线：首批搭载华为乾崑 ADS Max V5.0.2",
+              "brief": "深蓝 S09 车型推送 OTA V5.4 版本，为首批搭载华为乾崑 ADS Max V5.0.2 的车型。本次更新新增园区智驾漫游巡航辅助、园区无导航漫游、领航辅助激活场景拓展、同园区导航到充电车位、充电车位忙闲可视化、自动防追尾（ARCP）、自动打转向灯、自动开启哨兵模式、千悟大模型、AI 语音大模型、双地图切换、领航者勋章版块等多项功能。深蓝 S09 是深蓝旗舰大型六座 SUV，官方指导价 23.99 万至 30.99 万元，全系搭载华为乾崑智驾系统，ADS Max 版配备 192 线激光雷达、毫米波雷达、超声波雷达等丰富感知硬件。",
+              "source_url": "https://www.ithome.com/1/018/650.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T18:18:02+08:00"
+              "published_at": "2026-10-27T20:15:28+08:00"
             }
           ]
         },
@@ -454,6 +454,27 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "宇航员心脏可承受飞往火星的数月之旅",
+              "brief": "一项研究表明，火星之旅对人类心脏的挑战可能没有科学家此前担忧的那么大，宇航员能够较好地适应数月的失重状态。科学家监测了13名在国际空间站停留约6个月的宇航员，结果显示太空飞行最初会影响心脏功能，但宇航员会逐渐适应，每日高强度锻炼在维持心血管健康方面发挥了重要作用。在太空中，心脏和肌肉的负荷大幅降低，久之会出现萎缩，重返重力环境后宇航员着陆时常出现直立性低血压。作为NASA“运动对抗措施”项目的一部分，宇航员每天最多锻炼两小时，包括30至45分钟耐力训练和60至75分钟抗阻训练。",
+              "source_url": "https://www.solidot.org/story?sid=85724",
+              "source_name": "Solidot",
+              "published_at": "2026-10-27T18:57:21+08:00"
+            },
+            {
+              "title": "广电总局新规禁止电视开机广告",
+              "brief": "广电总局周二公布《交互式网络电视运营服务管理暂行规定》，将从2026年11月27日起施行。新规明确：交互式网络电视集成播控服务提供者应坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告；智能电视机应支持优先呈现直播频道功能，并提供便捷设置入口；酒店等集团用户也应坚持直播优先原则。此外，新规要求向用户提供便捷入口，方便自行选择开机进直播或电视交互主页；还应在首页设立免费专区，重点推荐优质免费内容，精简收费栏目数量，明示节目收费信息，规范应用专区运营和订购支付管理。",
+              "source_url": "https://www.solidot.org/story?sid=85723",
+              "source_name": "Solidot",
+              "published_at": "2026-10-27T18:22:23+08:00"
+            },
+            {
+              "title": "Reddit开源社区争议是否禁止AI",
+              "brief": "Reddit专注于讨论开源项目的社群r/opensource公布禁止AI的政策《Your tokens aren't valuable: No more AI》，理由是AI与该社群不兼容，要求递交的开源项目至少存在一年、有多名贡献者，发帖者必须会说英语而非用AI翻译。这一政策引发激烈讨论，随后有人创建了允许AI的新社群如r/OpenSourceAIAllowed。该社群版主表示政策未来会调整，主要禁止的是用AI工具生成的个人项目，而非Linux内核之类的知名项目。Linux作者Linus Torvalds最近公开表达支持AI，内核也不再强制要求AI生成代码打上标签。",
+              "source_url": "https://www.solidot.org/story?sid=85722",
+              "source_name": "Solidot",
+              "published_at": "2026-10-27T18:09:57+08:00"
+            },
+            {
               "title": "接受更多教育降低了几十年后的痴呆风险",
               "brief": "1972年英格兰、苏格兰和威尔士将义务教育最低离校年龄从15岁提高到16岁，1957年9月1日或之后出生的学生必须接受更长时间教育。研究人员利用英国生物银行数据，通过医院记录、死亡登记和参与者自述病史追踪至65岁，发现出生在改革截止日期之后的人患痴呆症的概率更低，高遗传易感人群的发病率也出现下降。研究结果表明，教育可能对痴呆症遗传风险最高的人群具有特别的保护作用，这是首次记录教育与痴呆症诊断之间的因果关系。",
               "source_url": "https://www.solidot.org/story?sid=85721",
@@ -466,27 +487,6 @@
               "source_url": "https://www.solidot.org/story?sid=85720",
               "source_name": "Solidot",
               "published_at": "2026-10-27T15:44:22+08:00"
-            },
-            {
-              "title": "Mozilla 推出新广告，呼吁重返互联网的美好旧时光",
-              "brief": "Mozilla 在 YouTube 上推出广告《It's time to come back to Firefox. The Internet you loved is still here.》，试图通过唤起对互联网早期黄金时代的怀旧之情吸引新用户安装 Firefox 浏览器。Mozilla CEO Anthony Enzor-DeMeo 发文称，如今的互联网会追踪用户、干扰用户，索要早已获取的权限，但这只是少数公司为牟利而强行设定的运作方式，互联网并非一直如此。广告邀请多位昔日网红出演，强调 Firefox 依然选择了不同的道路。",
-              "source_url": "https://www.solidot.org/story?sid=85719",
-              "source_name": "Solidot",
-              "published_at": "2026-10-27T15:21:54+08:00"
-            },
-            {
-              "title": "微软向 6 万员工提供自愿离职方案",
-              "brief": "微软向美国、印度、加拿大和英国约6万名符合条件的员工提供自愿离职方案（VEO），涉及员工占公司总数约四分之一，职级在70级及以下的员工均有资格参与。这是微软2026年内第二次实施自愿性员工缩减计划：今年4月微软向8750名美国员工提供自愿退休方案，7月Xbox部门裁减3200名员工，约占游戏部门员工总数的20%。符合条件的员工将于周一收到电子邮件通知。",
-              "source_url": "https://www.solidot.org/story?sid=85718",
-              "source_name": "Solidot",
-              "published_at": "2026-10-27T14:42:28+08:00"
-            },
-            {
-              "title": "Anthropic 公布了 S1 文件",
-              "brief": "Anthropic 已向 SEC 递交 S1 文件，最早下个月上市。这家制造 Claude 聊天机器人的公司在私募市场估值近1万亿美元，获得超过1300亿美元融资支持，可能在发行中筹集1000亿美元，迅速成为全球最大的上市公司之一。Anthropic 及其主要竞争对手 OpenAI 位于由基础设施提供商、芯片制造商、能源公司和AI初创企业组成的金字塔顶端。其挂牌上市将让外界首次深度审视支撑此轮AI繁荣的关键企业的健康状况，并检验AI需求增长的持续性。",
-              "source_url": "https://www.solidot.org/story?sid=85717",
-              "source_name": "Solidot",
-              "published_at": "2026-10-27T14:33:38+08:00"
             }
           ]
         }
