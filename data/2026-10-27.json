@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T08:53:12.268151+08:00",
+  "generated_at": "2026-10-27T10:54:27.738152+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "搭载 M6 芯片的新款 iMac 和 14 英寸 MacBook Pro 预计明日发布",
+              "brief": "苹果今日发布新款 iPad mini 后，预计将于周二推出更新的 iMac 和 14 英寸 MacBook Pro，两款设备均搭载今年 8 月随新款 Mac mini 首次亮相的 M6 芯片。目前没有传闻称这些 Mac 的外观设计会有变化。此外，配备触控 OLED 屏幕的高端 14 英寸和 16 英寸 MacBook Pro 预计将于周三发布。",
+              "source_url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T10:30:00+08:00"
+            },
+            {
+              "title": "Jay-Z 将领衔 2027 年 Apple Music 超级碗 LXI 中场秀",
+              "brief": "苹果与 NFL 今日宣布，说唱歌手 Jay-Z 将领衔 2027 年在洛杉矶地区 SoFi 体育场举行的 Apple Music 超级碗 LXI 中场秀。超级碗 LXI 将于明年 2 月 14 日星期日举行，这意味着 Jay-Z 将在情人节当天登台表演。在美国，比赛将由 ABC 和 ESPN 转播，中场秀通常在美东时间晚 8 点至 8 点 15 分左右开始。目前尚不清楚还有哪些艺人将与 Jay-Z 同台。Apple Music 自 2022 年起赞助超级碗中场秀，此前表演者包括蕾哈娜、肯德里克·拉马尔、Bad Bunny 等。",
+              "source_url": "https://www.macrumors.com/2026/10/26/jay-z-2027-apple-music-halftime-show/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-27T09:58:05+08:00"
+            },
             {
               "title": "iOS 27.2让旧款Siri遥控器支持“查找”应用",
               "brief": "随着iOS 27.2和tvOS 27.2的发布，第二代和第三代Siri遥控器现在可以通过“查找”应用进行定位。自iOS 17起，用户已可使用iPhone寻找丢失的Siri遥控器，但遥控器此前并不会出现在“查找”应用中，只能通过控制中心的Apple TV遥控器小组件来定位，不易被发现。现在，受支持的Siri遥控器将与其他设备一起列在“查找”应用中，使用更直观。旧款遥控器无法播放声音，也不支持精确查找。即将推出的第四代Apple TV 4K的遥控器将加入扬声器和精确查找功能。用户需安装iOS 27.2和tvOS 27.2，且可能需等待遥控器新固件推送后才能显示在“查找”应用中。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
               "source_name": "MacRumors",
               "published_at": "2026-10-27T06:49:08+08:00"
-            },
-            {
-              "title": "iOS 27.2 修复超过 160 个安全漏洞",
-              "brief": "苹果的iOS 27.2和iPadOS 27.2更新修复了160多个安全漏洞，建议尽快安装。本次修复包括一个可让远程攻击者访问敏感数据的Apple Intelligence漏洞，以及可能泄露用户真实邮箱地址的隐藏邮件功能缺陷，还有超过30个WebKit修复和约15个内核漏洞。六个CVE致谢来自在iPhone Duo发售当天完成越狱并演示iOS 27.0.1非完美越狱的Calif团队，其研究员称越狱所用的大部分漏洞已在iOS 27.2中修复。苹果未表示漏洞已被主动利用，但细节已公开，未更新的设备可能面临攻击。Anthropic和OpenAI也分别因三个和四个修复获得致谢。",
-              "source_url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T05:55:32+08:00"
-            },
-            {
-              "title": "iPhone AI 图像和编辑现已加入隐藏水印",
-              "brief": "使用Image Playground生成的图像以及部分经Apple Intelligence编辑的照片，现在会包含SynthID水印。苹果于今年6月宣布加入SynthID支持，该功能已在iOS 27.2上线。SynthID是谷歌开发的AI生成内容识别工具，在像素层面为图像和视频添加水印而非元数据，不会影响画质，并能抵御裁剪、滤镜和压缩。谷歌、苹果、OpenAI等均在使用。iPhone上没有检测SynthID水印的选项，需通过SynthID Detector网站查验。测试显示，Extend和Reframe编辑的图片均带水印，Clean Up则视编辑幅度而定，小幅编辑不加水印，大幅编辑会添加。",
-              "source_url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
-              "source_name": "MacRumors",
-              "published_at": "2026-10-27T05:15:14+08:00"
             }
           ]
         },
@@ -89,6 +89,20 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Google Photos 推出可自定义的“收藏”标签页改版",
+              "brief": "Google Photos 正式推出“收藏”标签页的改版设计，重点是支持自定义。页面顶部新增“已固定”区域，用户可以自行选择显示哪些卡片，默认显示收藏夹、屏幕截图和回收站，也可以完全移除该区域。随后是“此设备上的内容”“相册”“人物和宠物”“着装”“地点”和“文档”等轮播板块，点击右上角的“查看全部”可直接进入完整的网格或列表视图。用户还可以隐藏各个板块并调整排列顺序。页面底部是“其他收藏”网格，包含收藏夹、屏幕截图、时刻、视频、最近添加、贴纸、创作、归档、已锁定和回收站，最下方提供“重新排序”按钮。此次改版随 Google Photos 7.97 版本大范围推送，用户重启设备并打开应用即可获得该更新。",
+              "source_url": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-27T09:18:33+08:00"
+            },
+            {
+              "title": "谷歌 Gemini 4 Argon 在 Android 编程测试中排名落后于 Claude 和 GPT-6",
+              "brief": "谷歌的 Android Bench 基准测试用于帮助开发者了解哪些 AI 模型最适合 Android 编程辅助，并新增了平均成本指标。在 10 月 26 日的更新中，谷歌加入了各模型的推理级别，并纳入 OpenAI 的 GPT-6 Sol、GPT-6.1 Sol、Claude Sonnet 5、Claude Sonnet 5.5 以及谷歌自己的 Gemini 4 Argon 的测试结果。目前榜首是 Claude Sonnet 5.5，通过率 40%，完成率 80.9%，Claude Opus 5.5 位居第二。GPT-6.1 Sol 通过率 29.3%、完成率 82.8%，成本仅 99.50 美元，远低于 Claude 的 1574.90 美元。而 Gemini 4 Argon 首秀表现不佳，仅列第五，通过率 21.3%，完成率 81.8%，平均成本 267.70 美元。此前有内部声音称该模型难以处理某些编程任务，但谷歌对其能力表示支持。",
+              "source_url": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-27T06:00:00+08:00"
+            },
+            {
               "title": "Android 2026年10月Google系统更新新功能一览",
               "brief": "Google发布2026年10月Google系统更新说明，涵盖Android、Android TV、Auto及PC等平台的功能变化，部分面向普通用户，部分面向开发者。所谓“Google系统”由Play服务、Play商店、Android System Intelligence、Private Compute Services等多个第一方组件构成，用户可在设置中查看版本并更新。本次更新包括：Google One存储管理页面加载更快；Google账号设置新增菜单；支持将Android XR眼镜连接到手机；可静默在后台配对真无线耳机；Private Compute Services例行维护。更新日志中出现的功能不一定立即广泛可用，部分功能需数月才能全面推送。",
               "source_url": "https://9to5google.com/2026/10/26/october-2026-google-system-updates/",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
               "source_name": "9to5Google",
               "published_at": "2026-10-27T03:56:26+08:00"
-            },
-            {
-              "title": "红魔Astra 2体验：比新款iPad Mini更出色的小尺寸平板",
-              "brief": "苹果发布了OLED版iPad Mini，配备8.5英寸OLED屏、机身厚仅5.4毫米、重255克。但作者使用数月后的结论是，红魔Astra 2这款游戏向安卓平板在多个关键方面不输甚至超越新iPad Mini。Astra 2采用9.04英寸OLED屏，色彩鲜艳、黑色深邃，峰值亮度达1600尼特高于苹果，还支持185Hz刷新率，而新款iPad Mini仍为60Hz，遗憾是不支持手写笔。性能方面，Astra 2搭载骁龙8 Elite Gen 5和12GB内存，与Galaxy S26 Ultra核心规格相同，系统轻量，游戏运行流畅且机身发热控制良好。",
-              "source_url": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-27T03:30:00+08:00"
-            },
-            {
-              "title": "Gemini Live界面改版：新增加号按钮方便添加内容",
-              "brief": "谷歌对Gemini Live进行改版，在应用内启动Gemini Live时，左侧新增一个“加号”按钮，点击后弹出熟悉的轮播菜单，包含共享屏幕、照片、文件和云端硬盘四个选项。此前用户需先将内容添加到Gemini浮层再进入Live模式，现在共享屏幕反而多了一步操作，相机按钮则移至波形旁边。右侧的麦克风静音开关和关闭按钮没有变化。目前从Gemini浮层启动Live时无法使用新的加号菜单。该更新已在Google应用稳定版17.68中上线，iOS端暂未提供。",
-              "source_url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-27T03:00:50+08:00"
             }
           ]
         },
@@ -254,39 +254,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "Toastie 或许是迄今最古怪的 iPhone Duo 游戏",
-              "brief": "新游戏 Toastie 把售价昂贵的折叠屏手机 iPhone Duo 变成了一台烤芝士三明治机，被称为迄今最古怪的 Duo 游戏。玩家需快速搭建三明治，然后合上手机来“烤制”作品，注意别烤糊。游戏售价3美元，包含10个订单、3种面包和14种夹馅食材，成品会根据配方、摆盘、烤制程度和制作时间获得星级评分。这款游戏由 Tom Szykulski 和 Cyprian Brytan 开发，两人表示开发耗时远超预期。玩家也可以在 iPhone 和 iPad 上不使用合盖机制进行游戏。iPhone Duo 是苹果9月发布的首款折叠屏手机。",
-              "source_url": "https://www.ign.com/articles/toastie-might-be-the-weirdest-iphone-duo-game-so-far",
+              "title": "《黎明杀机》开发商解释恰吉下架原因：因授权离开的恐怖角色随时可回归",
+              "brief": "Behaviour Interactive向IGN表示，由于授权问题，恰吉章节将于2026年11月24日从《黎明杀机》商店下架，此前 Pinhead 和迈克尔·迈尔斯也已相继离开。开发商称其目标是让授权角色永久保留，但并非总能实现。已购买的玩家可继续使用该角色及相关 cosmetics，不受下架影响。Behaviour 强调，无论授权何时到期，《鬼玩人》《万圣节》《猛鬼追魂》等恐怖IP都始终受到欢迎，可以随时重返迷雾，并称《黎明杀机》永远是游戏界的恐怖之家。",
+              "source_url": "https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
               "source_name": "IGN",
-              "published_at": "2026-10-27T05:55:55+08:00"
+              "published_at": "2026-10-27T07:57:06+08:00"
             },
             {
-              "title": "《饥饿游戏》导演盼玩家别因 GTA 6 错过《收割日出》",
-              "brief": "弗朗西斯·劳伦斯曾执导几乎所有《饥饿游戏》系列电影，其新作、系列前传《收割日出》将于今年11月上映，他目前还在 Netflix 执导筹备近20年的真人版《生化奇兵》电影。劳伦斯表示自己最爱的游戏包括《合金装备》《生化奇兵》《使命召唤》和初代《GTA》。谈及即将发售的 GTA 6，他 lament 发行时间与电影档期过于接近，开玩笑说希望人们能两者兼顾：“玩 GTA，来看我们的电影，再玩 GTA。”他还透露《生化奇兵》电影最早由戈尔·维宾斯基在2009年推荐给他，后因档期冲突未能接手；德尔·托罗也曾洽谈执导，但与游戏创作者意见不合。",
-              "source_url": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
+              "title": "东京游戏酒吧可现实体验《霰弹枪轮盘》还出售《北极煎蛋》主题鸡尾酒",
+              "brief": "东京的 UKIYO GAME BAR & CAFE 于10月9日开放预约，玩家可至2026年11月9日前体验现实版《霰弹枪轮盘》。这并非真实的俄罗斯轮盘，而是对这款热门独立游戏的非致命趣味还原：主持人戴着荷官面具、手持道具霰弹枪，玩家端着饮品围坐在轮盘桌旁。酒吧还提供多款主题鸡尾酒，其中一款与《北极煎蛋》开发商 The Water Museum 合作，饮品中甚至放有煎蛋造型的软糖，由美国员工从美国寄来2公斤。相关体验照片在社交媒体上迅速走红，不少粉丝纷纷表示想去东京打卡。",
+              "source_url": "https://www.ign.com/articles/you-can-play-buckshot-roulette-in-real-life-at-this-tokyo-cafe-and-even-drink-an-arctic-eggs-cocktail",
               "source_name": "IGN",
-              "published_at": "2026-10-27T05:53:31+08:00"
+              "published_at": "2026-10-27T07:44:38+08:00"
             },
             {
-              "title": "《红崛起》电影被派拉蒙列为重点 弗朗西斯·劳伦斯执导",
-              "brief": "以执导《饥饿游戏》系列闻名的导演弗朗西斯·劳伦斯透露，改编自皮尔斯·布朗科幻小说的《红崛起》电影已成为派拉蒙的重点项目。他自述已与该项目结缘约八年，并与原作者成为好友。项目最初计划在 Netflix 以剧集形式开发，两版试水剧本均获好评，但由于管理层多次更迭、项目方向反复摇摆，加上制作成本高昂，Netflix 始终未能下定决心开拍，版权最终回归作者之手，随后转至派拉蒙。劳伦斯表示他更倾向于院线发行而非流媒体，认为这个系列值得在大银幕和 IMAX 上呈现，目前已有心仪的编剧开始创作剧本。",
-              "source_url": "https://www.ign.com/articles/red-rising-director-francis-lawrence-says-ya-series-movie-adaptation-is-a-priority-at-paramount-following-shelved-netflix-show",
+              "title": "DC Studios高层证实与艾伦·里奇森洽谈但尚未确定角色",
+              "brief": "DC Studios 联合首席执行官彼得·萨夫兰在接受 Collider 采访时证实，工作室已与演员艾伦·里奇森进行过多次交流，并希望启用他。他表示曾考虑让里奇森参演几个项目，但均未成型。尽管粉丝一直希望他出演 DC 宇宙的蝙蝠侠，但听起来 DC 并没有为此角色考虑他。DC 看重的不只是他擅长的硬汉打手形象，认为他具备更多潜力。目前双方仍处于接洽阶段，具体角色尚未敲定，里奇森加入 DCU 的最终去向仍有待观察。",
+              "source_url": "https://www.ign.com/articles/dc-studios-boss-confirms-discussions-with-alan-ritchson-but-havent-found-a-role-for-him-yet",
               "source_name": "IGN",
-              "published_at": "2026-10-27T05:45:31+08:00"
+              "published_at": "2026-10-27T07:19:31+08:00"
             },
             {
-              "title": "GTA 6 发售日致请假申请激增17%",
-              "brief": "人力资源公司 BambooHR 数据显示，11月19日 GTA 6 发售当天的请假申请比往年11月第三个周四的正常水平高出9%至17%。经济学家估计，GTA 6 的发售将给美国带来约10亿美元的生产力损失。R star 为宣传投入巨资：斥资97.5万美元在迈阿密热火队球馆顶部安装巨型霓虹粉招牌，在城中投放游戏内虚构品牌的广告，迈阿密还开设了现实中版的汉堡店 Burger Shot。11月18日热火对阵雄鹿的 NBA 比赛将以“罪城热火”为主题，使用 GTA 6 主题球衣和特色球场。游戏将于11月19日登陆 PS5 和 Xbox Series X|S，PC 版传闻于2027年初推出。",
-              "source_url": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
+              "title": "被取消的变形金刚游戏最终预告片泄露",
+              "brief": "由 Splash Damage 开发的第三人称在线动作游戏《变形金刚：重振》于2022年游戏大奖公布，此后多次跳票，最终于2025年1月被取消，工作室随后经历多轮裁员。10月26日，一位名为 Nem - TFR Archives 的用户在 X 上上传了该游戏的最终预告片，据称这是迄今最完整的版本，可能是为向其他发行商融资而制作的宣传物料，但最终未能成功。预告片展示了完整的单人战役：擎天柱称军团已入侵银河系，汽车人需找出并阻止其破坏，画面中擎天柱、大黄蜂和铁皮穿越险恶地形抗击军团，最终与霸天虎联手清除此共同敌人，威震天似乎是可招募的 playable 角色。",
+              "source_url": "https://www.ign.com/articles/canceled-transformers-game-footage-leaks-online-showing-never-before-seen-final-trailer",
               "source_name": "IGN",
-              "published_at": "2026-10-27T05:42:48+08:00"
+              "published_at": "2026-10-27T07:04:32+08:00"
             },
             {
-              "title": "作曲家 Austin Wintory 公开为被取消的《质量效应5》创作的22分钟音乐",
-              "brief": "曾为《风之旅人》《Sword of the Sea》等作品配乐的获奖作曲家 Austin Wintory 在社交媒体透露，他曾与 BioWare 和 EA 洽谈为已取消的《质量效应》新作创作音乐，并公开了22分钟的音频草稿。他称《质量效应》是“毕生梦想项目”，在 YouTube 说明中写道，过去几年他与 BioWare 和 EA 进行了认真洽谈，建议以初代游戏 Jack Wall 和 Sam Hulick 的经典配乐为起点，加入更多实体模拟合成器，并让管弦乐交织得更紧密。出于兴奋，他事先制作了20分钟音乐送给两家公司。该项目当时开发代号为 Mass Effect: Universe，剧情细节尚不明朗，续约希望现已破灭。",
-              "source_url": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+              "title": "电影《Werwulf》联名香水开售可闻狼人味道",
+              "brief": "Focus Features 与香水品牌 Heretic Parfum 合作，推出基于电影《Werwulf》的限量香水套装，售价55美元，最早11月6日发货，三款香水也可分别以125美元购买。三款香水分别代表狼人转化的不同阶段：《The Wode Hath Teth》呈现野性森林的气息，包含冷杉树皮、冻土与烟雾；《Werwulf》体现转化过程，融合皮肤、湿土、树脂与湿皮毛的暗示；《Blodwode》则表达森林所见证的记忆，带有流血的树皮、皮革、麝香等动物气息。Heretic 此前曾与《诺斯费拉图》等影片合作，并在2020年与格温妮丝·帕特洛推出过病毒式传播的蜡烛产品。",
+              "source_url": "https://www.ign.com/articles/want-to-smell-like-a-werfwulf-this-perfume-has-you-covered",
               "source_name": "IGN",
-              "published_at": "2026-10-27T05:36:07+08:00"
+              "published_at": "2026-10-27T06:32:17+08:00"
             }
           ]
         },
@@ -306,39 +306,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Anthropic的招股书是谁写的？AI检测工具给出意外结果",
-              "brief": "Business Insider委托AI检测工具Pangram检测Anthropic的IPO招股书，结果显示文件中含有AI使用痕迹。该工具联合创始人马克斯·斯佩罗解读称，文件可能在句子层面经过了轻度AI编辑，但似乎没有大段内容完全由AI生成。被标记的句子包括一段描述AI行业发展速度极快、模型迭代间隔以月计算的内容。报道同时指出，AI写作检测工具并非百分之百准确，人们使用AI进行编辑、校对或修改措辞的方式都可能影响检测结果。此前有记者发现自己的文字被误判为AI撰写，原因是曾接受ChatGPT的改写建议。Anthropic未回应置评请求。有观点认为，作为AI公司却未更多使用自家产品撰写招股书引人深思，但招股书需接受美国证券交易委员会审查，由人类参与撰写也有其合理性。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583956.htm",
+              "title": "3.8亿年前化石揭示脊椎动物颈部起源：最初或并非为转头而生",
+              "brief": "约3.8亿年前，从水向陆过渡的动物开始长出与身体分离的颈部，但一项由宾夕法尼亚州立大学学者参与、发表于《自然》的新研究显示，这些早期颈部依然僵硬，头部并没有获得多少活动自由。研究人员测量现代鲟鱼脊索的硬度，将其材料特性应用到提塔利克鱼等过渡型动物的颈部模型上，发现几乎所有这类动物的头部都缺乏显著活动能力，且肌肉、皮肤和嵌入皮肤骨骼可能进一步限制活动。研究者因此提出，独立颈部的出现更可能是与用前肢运动相关的解剖变化带来的结果，头部的灵活性是后来才获得的好处，而非最初的演化驱动力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1583966.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T07:22:29+08:00"
+              "published_at": "2026-10-27T10:51:49+08:00"
             },
             {
-              "title": "苹果发布iOS 27.2：iPhone Duo新增Apple Pencil支持与视频补光功能",
-              "brief": "苹果发布iOS 27.2更新，为折叠屏手机iPhone Duo兑现Apple Pencil兼容承诺，用户可借助7.6英寸内屏进行书写、绘图等精细操作，但具体体验仍取决于应用适配程度。此次更新还为iPhone Duo加入Edge Light补光功能，在屏幕边缘产生光线，改善视频通话时的面部照明。此外，Siri AI新增信息应用内建议操作，并扩展法语、日语等语言支持；照片应用和Image Playground支持Google SynthID水印检测；Apple TV应用新增用户个人资料，Apple Podcasts调整播放队列，FaceTime群组通话支持双摄像头同时捕捉。同期发布的还有macOS 27.2、watchOS 27.2等系统更新。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583954.htm",
+              "title": "科学家把铽装进“分子笼”，首次在常温常压下稳定住罕见的正四价状态",
+              "brief": "美国爱荷华大学研究团队构建了由钨和氧组成的多金属氧酸盐“分子笼”，将铽原子固定其中，再加入过硫酸钾氧化剂去掉一个电子，使铽进入罕见的正四价氧化态并成功分离描述。以往制备正四价铽需严格的无氧环境，而团队在常温常压的常规条件下完成，无需特殊控制温度、湿度或压力。铽主要用于电视、荧光灯和LED的绿色荧光粉，并用于固态器件、燃料电池和医用X射线。新方法为更简便低成本的稀土分离提供了概念验证，也有助于量子计算与先进传感器研究，团队接下来希望将该方法拓展到放射性锕系元素。论文发表于《自然·通讯》，由美国能源部资助。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1583964.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T03:08:37+08:00"
+              "published_at": "2026-10-27T10:51:10+08:00"
             },
             {
-              "title": "nxnative让Switch游戏变原生应用：iPhone与Mac可直接运行 无需模拟器",
-              "brief": "nxnative项目利用Switch与苹果设备同属Arm架构的特点，让Switch游戏以原生应用形式在iPhone和Mac上运行。小型宿主程序代替Switch操作系统，图形接口被转译为苹果的Metal API。其GitHub页面已列出60多款经测试的游戏，配合特定更新，《旷野之息》《王国之泪》等可从30帧提升至60帧。用户需自备游戏文件和从自己主机提取的解密密钥，并需一台装有Xcode的Mac执行构建脚本，首次构建可能耗时一小时。生成的应用须经AltStore等工具侧载安装，仅支持iPhone 15 Pro及更新机型或M1及更新芯片的iPad，系统需iOS 26或iPadOS 26。amiibo功能和在线联机不可用。Mac端在M1 MacBook Air上可让《怪物猎人 崛起》锁定60帧运行。该项目不分发游戏数据，但至今仍依赖Ryujinx代码完成图形转译。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1583952.htm",
+              "title": "Linux 7.4内核迎来Apple M4与A18 Pro初步支持，Tensor G5正式进入主线",
+              "brief": "Linux 7.4内核的SoC合并中，高通带来代号Hawi和Nord的两款新芯片，并启用22款主板，其中包括七款采用Dragonwing SoC的掌上游戏设备。最受瞩目的是内核首次获得苹果M4与A18 Pro的基础支持，但目前仅限于引导内核并显示控制台，大部分功能尚未实现，覆盖机型包括多款M4版MacBook、iMac与Mac Mini。此外，Pixel 10搭载的Tensor G5以及Steam Frame VR头显也获得主线支持。RISC-V架构新增搭载T-Head TH1520的Milk-V Meles单板机。由于长期支持版本尚未确定，大量32位ARM代码的清理工作被推迟到Linux 7.5。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583962.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T02:00:21+08:00"
+              "published_at": "2026-10-27T10:50:27+08:00"
             },
             {
-              "title": "台积电A14节点终结SRAM微缩八年停滞 存储单元面积首降19%",
-              "brief": "台积电在A14节点上取得SRAM微缩突破，存储单元面积缩小至0.017平方微米，降幅约19%，终结了多年来SRAM难以微缩的停滞局面，准备将其推向大规模量产。目前台积电正在进行试产，评估节点可行性并让客户检验设计表现。由于早期进展顺利，时间表已提前，若试产顺畅，风险试产将于2027年启动，2028年进入大批量生产，若明年无明显障碍甚至可能再提前几个月。与已量产的N2 2纳米节点相比，A14在同等功耗下速度提升最高15%，或在同等频率下功耗下降最高30%，逻辑密度提升20%，SRAM密度提升19%。A14节点将率先在台积电台湾总部厂区导入，计划于2028年在此启动量产。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583950.htm",
+              "title": "Windows 11通用打印故障已持续半年，微软确认部分旧设备需重新安装打印机",
+              "brief": "微软确认，如果打印机最初安装在Windows 10设备上，随后安装2026年4月14日发布的KB5083769更新或升级到Windows 11，可能出现打印失败，且后续版本也可能触发，问题已持续半年。典型症状包括打印对话框报错0x80004005、打印按钮变灰，以及打印测试页时出现0x000003e3错误，受影响队列以系统范围安装方式注册。单个设备可在设置中删除并重新添加打印机，使其转为当前用户专用队列；共享电脑环境中管理员需评估安装范围变化。IT管理员可用微软提供的PowerShell脚本检测并批量转换受影响队列，通过Intune部署，或借助PsExec以SYSTEM身份手动批量操作。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583960.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T01:55:56+08:00"
+              "published_at": "2026-10-27T10:43:50+08:00"
             },
             {
-              "title": "苹果回应iPhone Duo内屏裂纹问题 称仅极少数设备受影响 建议联系AppleCare更换",
-              "brief": "苹果就iPhone Duo内屏裂纹问题作出回应，称仅有极少数设备受影响，遇到问题的用户应联系AppleCare获取更换服务。用户反馈显示故障表现出高度一致性，开裂位置多位于内屏下半部分同一区域，裂纹沿铰链延伸。损坏前屏幕折叠处会出现“卡住”手感，有时伴随轻微“啪”声，表明损坏并非跌落造成，更可能与铰链反复开合中的机械异常有关。iFixit拆解指出，故障位置汇聚多个内部组件，可能是铰链内本应回缩的中央支撑条未能正常回缩，挤压柔性内屏导致损伤。受影响用户可在苹果零售店整机更换，但因备货有限可能需等待。苹果尚未公布受影响批次、故障率及修复计划，建议用户发现卡顿感、异响或细微裂纹尽早联系AppleCare。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583948.htm",
+              "title": "微软：清理Windows 11预取文件释放不了多少空间，还可能拖慢应用启动",
+              "brief": "微软事件响应团队在文档中说明，Windows预取机制会记录应用启动时访问的文件和目录，通常在应用启动后10秒内收集信息，帮助系统在下次启动时更快读取所需内容。预取文件不是应用程序副本，也不会整体加载到内存，长期未运行的应用其记录也不占用运行内存。清理预取文件会删除已有启动记录，系统需在下次运行应用时重新收集并重建缓存，反而可能拖慢启动；且这些文件占用的空间通常不多。由于预取文件保存了应用运行次数、最近运行时间和访问路径等信息，可用于事件调查取证，注重隐私的用户可以删除C:\\Windows\\Prefetch目录下的文件。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1583958.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-10-27T01:48:23+08:00"
+              "published_at": "2026-10-27T10:42:49+08:00"
             }
           ]
         },
@@ -346,39 +346,72 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "拉脱维亚批准特斯拉 FSD 上路，成为第十个欧盟批准国",
-              "brief": "拉脱维亚已成为第十个批准特斯拉 FSD 在公共道路使用的欧盟国家，此前斯洛伐克刚于两周前获批。在欧洲，特斯拉已将 FSD 更名为“特斯拉辅助驾驶”，以推进欧盟全域审批。全球范围内，FSD 已在 18 个市场获批，拉脱维亚等欧洲市场将优先面向搭载 HW4 硬件的车辆，上线针对当地限速、交通流和法规适配的 FSD v14 欧洲专属版本。要获得整个欧盟范围的许可，特斯拉需要至少 15 个国家的有效多数支持，欧盟投票已推迟至年底。德国表态，若特斯拉完成更名并将超速幅度限制在限速 10% 以内即投赞成票，但法国、瑞典反对速度偏移功能。特斯拉财报显示 FSD 订阅用户已达创纪录的 174 万，无监督版 FSD 有望于 2027 年第二季度向部分地区用户交付。",
-              "source_url": "https://www.ithome.com/1/018/224.htm",
+              "title": "LG Display 将在广州建设全球首条 111 英寸超大尺寸 OLED 模组线",
+              "brief": "LG Display 宣布将在广州建设全球首条 111 英寸超大尺寸 OLED 模组线，产品覆盖从高端家用巨幕到大尺寸商用显示等多元应用场景，进一步完善区域 OLED 产业链的终端配套能力。此前公司公布今年第三季度归母净利润 7467.47 亿韩元，实现单季同比扭亏为盈，并表示大尺寸 OLED 需求持续增长，折叠屏智能手机对平板电脑需求的影响有限，同时还在推进 FLiPP OLED 技术的研发与量产验证。",
+              "source_url": "https://www.ithome.com/1/018/265.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T08:40:06+08:00"
+              "published_at": "2026-10-27T10:46:23+08:00"
             },
             {
-              "title": "美最大运营商 Verizon 称 SpaceX 拥有竞争力需 8 年，马斯克回怼“2-3 年就够”",
-              "brief": "Verizon CEO 舒尔曼表示，星链要想在美国建成具有竞争力的移动通信网络，需建设多达 8 万座大型地面基站，并用卫星和光纤连接，项目可能耗资高达 5000 亿美元、历时 6 至 8 年，之后还需建立零售渠道、客服体系和后台系统。他认为星链仅靠卫星通信难以竞争，在郊区和城区比不过地面网络，而 Verizon 约 98% 的营收来自这些地区，其网络效率高出百倍到千倍。本月早些时候，星链宣布收购一批可用于移动通信的低频段频谱，引发美国三大运营商股价下跌约 10%。财报电话会议结束后，马斯克在 X 平台回应称“2 到 3 年就够了”。此前 AT&T CEO 也表示没必要对星链的低频段载波反应过度。",
-              "source_url": "https://www.ithome.com/1/018/222.htm",
+              "title": "“蛟龙”号载人潜水器完成迭代升级，顺利完成 7000 米级海试",
+              "brief": "“蛟龙”号载人潜水器在菲律宾海盆开展 3 个潜次试验，其中 2 个潜次下潜深度超 7000 米，最大下潜深度达 7056.9 米，各项指标均达到 7000 米级海试要求。此次海试前，“蛟龙”号完成了高能量密度油浸锂电池组换装，安装国产直驱型低噪直流推进器，扩展应急液压系统接口，应用大深度海水液压浮力调节、超高清摄像等系统，在电源动力、推进、液压、电气、观通等关键部件实现技术创新。国家深海基地管理中心研究员孙永福表示，试验验证了迭代升级和关键部件国产化替代后的可靠性与安全性，将有力推动我国深海事业发展。",
+              "source_url": "https://www.ithome.com/1/018/263.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T08:35:28+08:00"
+              "published_at": "2026-10-27T10:45:26+08:00"
             },
             {
-              "title": "苹果 iOS 27.2 修复 163 个安全漏洞，封堵大部分 iOS 27 完美越狱漏洞",
-              "brief": "苹果发布 iOS 27.2 更新，修复 163 个安全漏洞，其中最受关注的包括允许远程攻击者访问敏感数据的 Apple Intelligence 漏洞，以及可能导致用户真实邮箱地址泄露的“隐藏邮件地址”功能缺陷。苹果还修复了超过 30 项 WebKit 漏洞和约 15 个内核漏洞。安全研究团队 Calif 获得 6 个 CVE 编号署名，该团队曾在 iPhone Duo 发布当天完成针对 iOS 27.0.1 的“完美越狱”，其研究人员表示越狱所利用的大部分漏洞已在 iOS 27.2 中被封堵。苹果称无证据显示漏洞已被实际恶意利用。本次更新中 Anthropic Research 获得 3 项修复署名，另有 4 项引用 OpenAI。旧设备可升级 iOS 26.7.2，用户可在设置中检查并安装。",
-              "source_url": "https://www.ithome.com/1/018/221.htm",
+              "title": "NCASE 推出 SFX 电源：铂金转换效率认证，至高 1500W",
+              "brief": "NCASE 推出新款 SFX 电源，获得铂金转换效率认证，功率至高 1500W，支持 12V-2×6 供电。电源选用全日系电容，配备镀金模组端子，搭载支持智能转速控制的 92mm FDB 风扇，随附 ATX 适配支架，具备 OVP、UVP、OPP、SCP、OTP、OCP 等安全防护。产品提供 SFF 和 MFF 两种线材组合：SFF 仅保留主板、EPS、12V-2×6 供电线材，MFF 则补充 PCIe 8-Pin 及 SATA、PATA 线材。MFF 套装版本定价 135/185/235 美元，约合人民币 902.3/1236/1571 元，SFF 版本在此基础上便宜 10 美元。",
+              "source_url": "https://www.ithome.com/1/018/262.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T08:32:57+08:00"
+              "published_at": "2026-10-27T10:35:26+08:00"
             },
             {
-              "title": "英特尔宣布收购以色列初创企业 Classiq，打造全栈量子计算平台",
-              "brief": "英特尔宣布收购以色列量子计算初创企业 Classiq，以打造全栈量子计算平台。Classiq 的客户利用其人工智能工具开发可在各类量子硬件上测试和运行的代码，评估量子技术能否适配自身业务。英特尔 CEO 陈立武表示，携手 Classiq 后，英特尔量子计算事业部将转型为全栈量子计算业务主体，交易预计 2027 年上半年完成交割。Classiq 累计融资超过两亿美元，员工约 130 人，被收购后仍将继续帮客户开发可在多款量子硬件上运行的代码，包括来自英特尔竞争对手的硬件。英特尔十余年来依托硅基元器件制造优势切入量子计算领域，当前主攻自旋量子比特技术路线，认为量子组件将与传统计算机协同工作。消息发布于英特尔公布第三季度财报前夕。",
-              "source_url": "https://www.ithome.com/1/018/220.htm",
+              "title": "2026 款零跑 C 系列 OTA 推送：激光雷达车型支持车位到车位辅助驾驶",
+              "brief": "2026 款零跑 C 系列开始推送 OTA 升级。新增功能包括：为激光雷达车型提供车位到车位辅助驾驶；高通 8295 车型新增泊入辅助、腾讯云游戏；声纹守护仅响应已录入声纹用户的语音指令；还有分屏胎压卡片、快充前电池温控、后排娱乐屏儿童空间、杜比全景声专区、洗车模式、AR-HUD 歌词与来电显示等。优化方面涵盖记忆泊车路线扩展、直线召唤雷达墙显示、语音免唤醒、空调舒适控制、方向盘加热三档调节、哨兵模式识别准确率提升、浏览器开放搜索等多项体验改进。",
+              "source_url": "https://www.ithome.com/1/018/261.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T08:28:45+08:00"
+              "published_at": "2026-10-27T10:30:31+08:00"
             },
             {
-              "title": "微软 CEO 纳德拉：以前我认为 AI 越强大也会越安全，现在不信了",
-              "brief": "微软 CEO 纳德拉表示，他原本认为随着 AI 能力不断提高，确保 AI 行为符合人类价值观和目标的“对齐”问题会自然解决，但现在他不再这么认为，觉得对齐可能是更棘手、性质不同的问题。模型规模扩大后，AI 能力持续提升，但对齐问题依然没有解决。纳德拉曾于 10 月 10 日在 X 发文警告 AI 风险，主张企业将 AI 模型视为内部安全威胁，采取防护措施时应假定模型遭到入侵，并通过可靠、具有确定性的系统设计、人工管控和完善的操作规程建立防护机制，在现有标准不足的领域制定行业标准。OpenAI CEO 奥尔特曼和 Anthropic CEO 阿莫代伊也曾就 AI 潜在威胁发出警告。",
-              "source_url": "https://www.ithome.com/1/018/219.htm",
+              "title": "国产武侠游戏《影之刃零》开启预下载，PC 版需预留 300GB 空间",
+              "brief": "国产武侠游戏《影之刃零》开启预下载，官方提醒三大注意事项：游戏需安装在固态硬盘中；游戏本体约 145GB，因预下载机制需预留至少 300GB 可用磁盘空间；显卡驱动需更新至最新版本。游戏由灵游坊自主研发发行，采用虚幻引擎 5 打造，定位黑暗武侠题材第三人称动作冒险与单机动作 RPG，融合中国武术与蒸汽朋克形成功夫朋克风格。玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里粉碎笼罩武林的惊天阴谋。战斗系统提供 30 余种主武器与 20 多门奇诡武装，主打快节奏高速战斗。该游戏媒体评测 M 站均分 88 分，并入围金摇杆奖。",
+              "source_url": "https://www.ithome.com/1/018/260.htm",
               "source_name": "IT之家",
-              "published_at": "2026-10-27T08:23:35+08:00"
+              "published_at": "2026-10-27T10:28:37+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "研究人员披露微软身份验证器高危漏洞 恶意应用可冒充微软应用获取账户令牌",
+              "brief": "网络安全研究员披露微软身份验证器中的高危漏洞 AuthMask 攻击链，漏洞编号 CVE-2026-80097，仅影响安卓版验证器 6.0.0 至 6.2606.4246。由于验证器为微软应用提供身份验证代理服务，而其开放组件允许调用方自行填写应用名称、包名、客户端 ID 和重定向地址，授权判断并未基于实际发起调用的应用，恶意应用可冒充设备上已安装的 Microsoft Teams 等应用获取 Microsoft 365 访问令牌，权限涵盖读取和发送邮件、访问文件、修改日历及操作 SharePoint 内容，还可修改账户验证方式、创建和删除通行密钥。研究员已提前负责任地通报微软，微软于 9 月 8 日发布 6.2606.4246 版修复，待 50 天后才公布漏洞详情。",
+              "source_url": "https://www.landian.news/archives/127683.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-27T10:30:00+08:00"
+            },
+            {
+              "title": "丹麦终止用开源办公软件替代微软办公套件的试点计划 评估工作未完成",
+              "brief": "丹麦数字化部已结束使用开源办公套件 Collabora 替代 Microsoft Office 的试点计划，发言人确认目前没有恢复试点的计划，原定的评估也没有完成，此事直到近期才被当地媒体曝光。该试点于 2025 年 6 月启动，安排部分政府雇员在案件处理系统中使用基于 LibreOffice 开发的 Collabora 编辑文档，替代 Word、Excel 和 PowerPoint 的编辑功能，并检查政府文书模板、表格、修订记录以及文档导入导出后的版式。试点期间曾出现文档格式错乱、空白页面错误和修订追踪等问题，计划在 2026 年春季选举后中止。数字化部未发布汇总报告说明哪些问题已修复、剩余缺陷如何影响工作，也未公布与 Microsoft Office 的完整对比结果。",
+              "source_url": "https://www.landian.news/archives/127682.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-27T10:00:00+08:00"
+            },
+            {
+              "title": "微软表示清理 Windows 11 预取文件释放空间有限 还可能拖慢应用启动",
+              "brief": "微软事件响应团队在名为预取文件与程序执行的文档中介绍 Windows 11 的预取文件。预取文件位于 C:\\Windows\\Prefetch\\ 目录，后缀为 PF 的文件记录应用启动时访问的文件和目录，系统在应用启动后 10 秒内收集相关信息，用于下次启动时更快读取所需内容。微软表示删除预取文件不会让系统更快，也不会释放多少空间，反而会使应用下次运行时需重新收集信息并重建预取文件，导致启动速度被拖慢，长期未运行的应用的记录也不会持续占用内存。这份报告由安全团队发布是因为预取文件记录了程序运行次数、最近运行时间和访问路径等信息，在事件调查取证中需要提取。普通用户无需清理，注重隐私的用户可手动删除该目录下的全部文件。",
+              "source_url": "https://www.landian.news/archives/127681.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-27T09:30:00+08:00"
+            },
+            {
+              "title": "Windows 11 通用打印故障已持续半年 微软确认部分旧打印设备需重新安装",
+              "brief": "微软发布支持公告确认，自 2026 年 4 月 14 日 KB5083769 更新发布起，Windows 11 的通用打印服务出现故障，影响从 Windows 10 升级的设备，目前问题已持续半年，且无法通过更新直接修复。若打印机最初安装在 Windows 10 设备上，之后安装 KB5083769 或升级到 Windows 11，用户可能遇到打印失败，典型症状包括打印对话框显示配置问题及错误代码 0x80004005、打印按钮变灰无法点击，打印测试页时出现 0x000003e3 错误，受影响队列以系统范围方式注册。单个设备可在设置中删除受影响打印机后重新添加，使其改为当前用户专用队列；企业环境中 IT 管理员可使用微软提供的 PowerShell 脚本批量检测和转换打印队列，并可借助 Intune 部署，建议先在测试设备验证。",
+              "source_url": "https://www.landian.news/archives/127680.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-10-27T09:00:00+08:00"
             }
           ]
         }
