@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T00:54:42.026140+08:00",
+  "generated_at": "2026-10-30T02:54:15.057089+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "旧版 Popcorn Time 应用曾使数十万台 Mac 面临风险",
+              "brief": "安全公司 Eye Research 披露，多年前安装过非官方版流媒体应用 Time4Popcorn 的 Mac 可能仍存在隐患。该应用会在系统启动时自动运行一个小型更新检查器，即使用户多年未打开应用也不例外。该检查器盲目信任下载的内容，并拥有修改系统的完全权限。由于开发者早已放弃项目，其使用的网站域名陆续过期，接管这些域名的人理论上可向受影响机器推送恶意软件。研究人员接管其中一个废弃域名后估计，受影响的 Mac 约 25 万至 35 万台。由于没有开发者发布修复，研究人员利用该检查器本身在一百多万台 Mac 和 Windows 电脑上将其禁用，并将相关域名移交给非营利网络安全组织 Shadowserver Foundation。但此修复无法解决其他漏洞，部分更新地址仍不受控制，研究人员建议用户直接卸载该应用。",
+              "source_url": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-30T01:12:59+08:00"
+            },
+            {
+              "title": "新款 MacBook Pro 触摸屏功能可以关闭",
+              "brief": "据 MacStories 主编费德里科·维蒂奇（Federico Viticci）透露，配备 OLED 显示屏的新款 MacBook Pro 提供了一项辅助功能设置，允许用户完全关闭触摸输入。此外，他还表示系统中有一个选项，可以在 macOS Golden Gate 界面中全局启用双指捏合缩放功能。这意味着不习惯或不希望使用触摸屏交互的用户可以选择禁用相关功能，而喜欢该功能的用户则能获得更灵活的操作体验。此前苹果在新款 MacBook Pro 上为 OLED 屏幕加入触摸支持，此设置让用户在使用方式上拥有更多自主权。",
+              "source_url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+              "source_name": "MacRumors",
+              "published_at": "2026-10-30T00:58:40+08:00"
+            },
             {
               "title": "MacBook Pro 选购指南：Mini-LED 与 OLED 版本差异全对比",
               "brief": "苹果新款 MacBook Pro 采用 PROLED XDR 显示屏，搭载串联 OLED 技术，支持触控输入，配备灵动岛，机身更薄更轻。它于2026年3月推出的 Liquid Retina XDR 机型同台销售，两者均搭载相同的 M5 Pro 和 M5 Max 芯片。PROLED 版本在同尺寸和同芯片配置下起售价高出400美元：14英寸 M5 Pro 机型 Liquid Retina XDR 版起售价2499美元，PROLED XDR 版为2899美元；对应的16英寸机型起售价分别为2999美元和3399美元。由于芯片、内存和电池续航完全相同，选购关键在于对显示屏素质、触控交互和便携性的重视程度。具体差异包括：OLED 采用双层自发光像素，可独立点亮每个像素，对比度达1000万比1，HDR 峰值亮度2000尼特，支持 P3 和 Adobe RGB 色域，边框更窄，摄像头开孔更小，四角均为圆角设计；而 Mini-LED 版本为分区背光 LCD，对比度100万比1，峰值亮度1600尼特，仅支持 P3 色域。",
@@ -20,6 +34,20 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iOS 27.2 新增视频功能，完美适配 iPhone Duo",
+              "brief": "苹果宣布推出全新 MacBook Pro，配备 PROLED XDR 显示屏，这是苹果首款配备触摸屏的 Mac。与此同时，iOS 27.2 增加了新的视频功能，被认为非常适合与 iPhone Duo 搭配使用。此次更新为用户带来了更强大的视频拍摄体验，进一步提升了 iPhone Duo 的实用性。",
+              "source_url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-30T02:00:43+08:00"
+            },
+            {
+              "title": "苹果表示针对触摸屏更新 macOS 才刚刚开始",
+              "brief": "苹果宣布推出全新 MacBook Pro，采用 PROLED XDR 显示屏，成为苹果首款支持触摸屏的 Mac。苹果表示，针对触摸屏对 macOS 进行更新才刚刚起步，未来还会持续为系统带来更多触摸相关的改进。这一表态显示苹果将在触摸屏体验上继续投入，macOS 的触控支持未来将进一步深化。",
+              "source_url": "https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-10-30T01:01:44+08:00"
+            },
             {
               "title": "优惠信息：M6 和 PROLED MacBook Touch 预购特惠、OLED iPad mini、M6 Mac mini 等",
               "brief": "苹果推出搭载 PROLED XDR 显示屏的全新 MacBook Pro，这是其首款配备触控屏的 Mac。目前多家零售商已开始提供预购优惠活动，涵盖 M6 和 PROLED MacBook Touch 机型。此外，OLED 版 iPad mini 以及搭载 M6 芯片的 Mac mini 也同步出现在促销列表中，部分商品可享受直降优惠或赠送礼品卡。有购机计划的用户可关注各平台的预购页面，比较不同渠道的价格和赠品方案，选择合适的时机下单。",
@@ -47,39 +75,39 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "Google Home 和 Nest 音箱迎来七项更新，涵盖蓝牙与音质提升",
+              "brief": "谷歌宣布为 Google Home 和 Nest 音箱推出七项更新。此次更新涵盖蓝牙连接、音频质量等多方面的改进，旨在提升设备的整体使用体验。用户可以通过 Google Home 应用来检查并安装最新固件。这些更新将在未来一段时间内逐步推送到支持的音箱和显示屏设备上，包括对蓝牙稳定性的优化以及扬声器音质表现的改善。拥有 Nest 音箱系列设备的用户可留意更新通知，及时升级以获得更佳的性能和功能。",
+              "source_url": "https://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-30T02:34:23+08:00"
+            },
+            {
+              "title": "Google Home 更新推送：Nest 摄像头、Matter、节能改进与修复",
+              "brief": "谷歌正在向用户推送 Google Home 应用更新，本次更新带来了多项改进和新功能。更新内容包括对 Nest 摄像头功能的增强、对 Matter 智能家居标准的更好支持，以及新增的节能相关改进。此外，此次更新还修复了此前版本中存在的若干问题，提升了应用的稳定性和可靠性。使用 Google Home 管理智能家居设备的用户可通过应用商店更新至最新版本，以享受更完善的功能体验和更流畅的设备控制。",
+              "source_url": "https://9to5google.com/2026/10/29/google-home-update-nest-cam-matter-updates-fixes/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-30T02:30:00+08:00"
+            },
+            {
+              "title": "谷歌公布 Chromecast with Google TV 和 Nest Wifi Pro 新固件",
+              "brief": "谷歌公布了适用于 Chromecast with Google TV 和 Nest Wifi Pro 的全新固件更新。此次固件更新为两款设备带来了改进和修复，旨在提升设备的性能表现和使用稳定性。Chromecast with Google TV 用户将通过更新获得更好的媒体播放体验，而 Nest Wifi Pro 用户则可获得网络性能方面的优化。谷歌通常会将固件更新逐步推送至用户设备，用户也可以在设备设置中手动检查更新，以尽快获得最新的功能改进和问题修复。",
+              "source_url": "https://9to5google.com/2026/10/29/nest-wifi-pro-chromecast-update/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-30T02:18:43+08:00"
+            },
+            {
+              "title": "今日安卓应用优惠：《Bendy: Lone Wolf》《The Room: Old Sins》等多款游戏降价",
+              "brief": "今日 Google Play 推出多款应用和游戏优惠，包括《Bendy: Lone Wolf》降价至 1 美元、《The Room: Old Sins》降至 1.25 美元等。此外还有多款限时免费游戏，如 Sky Wings VIP、Last Hero: Zombie Shooter Pro 等。硬件方面，三星 512GB Galaxy S26 Ultra 直降 473 美元，Nothing 2026 款 Ear (3a) 耳机降至 79 美元的史上低价，亚马逊 Echo Show 16 优惠 100 美元，联想新款 4K Yoga Tab Gen 2 安卓平板最高降价 316 美元并附赠 Pen Pro 手写笔和键盘套装。",
+              "source_url": "https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/",
+              "source_name": "9to5Google",
+              "published_at": "2026-10-30T02:00:06+08:00"
+            },
+            {
               "title": "三星发布新折叠屏手机 W27，普通消费者恐怕难以买到",
               "brief": "三星近日发布了一款新的折叠屏手机 Galaxy W27。这款设备延续了此前的 W 系列定位，主要面向特定的企业和运营商渠道市场，而非普通零售消费者。即便用户有兴趣购买，也很难通过常规渠道买到这款产品。该机在外观和配置上与此前的折叠屏机型相似，主要变化集中在细节设计与内部组件的更新上。对于关注折叠屏形态的用户来说，这款机型的发布更多体现了三星在该产品线上的持续投入，而非面向大众市场的新品。",
               "source_url": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
               "source_name": "9to5Google",
               "published_at": "2026-10-30T00:50:00+08:00"
-            },
-            {
-              "title": "Google 相册更新修复编辑后照片无法显示的漏洞",
-              "brief": "Google 相册近日推送更新，修复了一个影响较多用户的漏洞。此前，部分用户在应用中对照片进行编辑后，这些编辑过的图片会从相册库中消失，无法正常查看，引发不少抱怨。Google 已确认该问题并在最新版本中加以修复，受影响的用户在更新应用后应能重新看到自己编辑过的照片。如果更新后仍存在问题，建议用户检查应用是否为最新版本，或等待服务器端修复逐步推送完成。",
-              "source_url": "https://9to5google.com/2026/10/29/google-photos-edited-pictures-bug-fix/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-30T00:25:00+08:00"
-            },
-            {
-              "title": "三星 Wallet 推出虚拟返现卡，与 Galaxy Card 无关",
-              "brief": "三星为 Samsung Wallet 推出了一项新的虚拟返现卡功能，用户可以在使用 Wallet 支付时获得返现优惠，并统一管理这些奖励。需要注意的是，这一新功能与三星此前推出的 Galaxy Card 信用卡业务并无关联，是一种独立的虚拟卡形式，旨在提升用户在日常支付中的使用体验和优惠获取效率。该功能首先在特定市场上线，未来可能逐步扩展到更多地区。",
-              "source_url": "https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-30T00:23:28+08:00"
-            },
-            {
-              "title": "促销汇总：Galaxy S26 Ultra 新机直降 473 美元等优惠",
-              "brief": "本周有多款安卓设备促销。全新未激活的三星 Galaxy S26 Ultra 直降 473 美元，降幅可观。Nothing Ear (3a) 无线耳机降至 79 美元，性价比较高。联想新推出的安卓平板电脑也有大幅折扣，优惠幅度达 316 美元，适合有平板需求的用户。此外还有其他配件和智能设备的降价信息。部分优惠为限时活动，有购买意向的消费者需留意活动截止时间，尽快下单以免错过。",
-              "source_url": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-29T23:57:55+08:00"
-            },
-            {
-              "title": "三星升级版睡眠呼吸暂停检测功能将登陆这些 Galaxy 穿戴设备",
-              "brief": "三星宣布其升级版睡眠呼吸暂停检测功能将扩展到更多 Galaxy 穿戴设备。该功能此前已在部分 Galaxy Watch 机型上提供，可利用血氧和睡眠监测数据分析用户睡眠期间可能出现的呼吸暂停迹象，帮助用户及早发现潜在健康问题并寻求专业医疗建议。三星此次扩大支持范围，让更多 Galaxy Watch 用户能够使用这一健康监测功能。用户可通过 Galaxy Wearable 应用和相关健康应用更新后启用该功能。",
-              "source_url": "https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/",
-              "source_name": "9to5Google",
-              "published_at": "2026-10-29T23:46:23+08:00"
             }
           ]
         },
@@ -87,39 +115,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "一加发布Ace 7与Ace 7 Pro，或为OnePlus 16R提前预览",
-              "brief": "一加在中国发布Ace 7和Ace 7 Pro两款游戏手机，均配备9000mAh大电池、165Hz LTPO OLED屏幕（部分游戏中可达185Hz）、主动散热风扇和200万像素主摄？不对，是200MP主摄，支持OIS光学防抖，充电功率均为100W。两款机型屏幕、电池、充电和散热硬件相同，主要区别在处理器与副摄：Ace 7 Pro搭载骁龙8 Elite Gen 5，配备50MP潜望长焦（3.5倍变焦），Ace 7则配有8MP超广角。由于一加已停止在美国的官方发布，想升级到16R的美国用户可能需要通过海淘购买。",
-              "source_url": "https://www.androidauthority.com/oneplus-ace-7-pro-launch-16r-preview-3729618/",
+              "title": "谷歌为移动端和网页版 Gemini 带来更丰富的文档编辑功能",
+              "brief": "谷歌宣布 Gemini 新增应用内文档编辑与预览功能，覆盖移动端和网页版。用户在生成文件后可直接在预览中继续提出修改要求，结合文字和视觉输入完善输出。目前移动端应用仅支持 PDF，而网页版 Gemini 可处理的文件类型更广，包括 Workspace 云端文件和 Markdown 等。新功能面向所有 Gemini 用户开放，并支持所有受支持的语言，进一步缩短了从初稿生成到精细调整之间的流程。",
+              "source_url": "https://www.androidauthority.com/gemini-document-editing-3729712/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-30T00:33:50+08:00"
+              "published_at": "2026-10-30T01:59:47+08:00"
             },
             {
-              "title": "Nothing Headphone (a)耳机亚马逊降价70美元",
-              "brief": "Nothing Headphone (a)头戴式主动降噪耳机目前在亚马逊降至129美元，比199美元的建议零售价便宜70美元，折扣幅度约35%。这款耳机采用Nothing标志性的透明设计风格，配备40毫米钛镀膜驱动单元，支持LDAC和Hi-Res Audio、蓝牙5.4及IP52防尘防水，并采用实体按键而非触控操作。续航是其一大亮点，关闭降噪可达135小时，开启降噪约75小时，另支持快充。它还配备三麦克风AI语音处理系统，通话更清晰，并具备空间音频、Nothing X应用支持，与Nothing手机配对时可免提使用ChatGPT。亚马逊用户评分4.5星，是目前看到的较优价格之一。",
-              "source_url": "https://www.androidauthority.com/nothing-headphone-a-deal-amazon-3729699/",
+              "title": "亚马逊 Ember 50 英寸 4K 电视降至数月来最低价",
+              "brief": "亚马逊 Ember 50 英寸 4 系 Fire TV 智能电视目前售价 309.99 美元，较 399.99 美元建议零售价便宜 90 美元，折扣约 23%，为近几个月来的最低价。这款电视内置 Fire TV 系统，支持 HDR10、HLG 和 HDR10+，采用直下式 LED 面板，刷新率为 60Hz。接口方面拥有 4 个 HDMI 口，其中一个为带 eARC 的 HDMI 2.1，另有以太网和 USB。配备 Alexa 语音遥控器，待机时可通过环境体验模式变身智能显示屏，还主打免费和直播电视内容。",
+              "source_url": "https://www.androidauthority.com/amazon-ember-tv-deal-3729729/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-30T00:32:43+08:00"
+              "published_at": "2026-10-30T01:56:37+08:00"
             },
             {
-              "title": "Rokid发布两款智能眼镜，对标Meta雷朋显示眼镜",
-              "brief": "Rokid宣布推出Rokid Color和Rokid Glasses 2两款智能眼镜，并计划在CES 2027上全球首发。其中Rokid Color对标Meta Ray-Ban Display，搭载0.16cc微型LED全彩显示，覆盖167% sRGB色域和100% sRGB色彩，整机重量仅55克，比标准版和大版Meta Ray-Ban Display分别轻14克和15克。用户可通过镜腿触控板、智能手表/手环或语音控制眼镜，还支持眼动追踪。配套的Rokid智能戒指需单独购买，售价1699元人民币（约合255美元），除手势操控眼镜外，还提供心率、体温、血氧、卡路里和睡眠等健康监测功能，甚至可作为控制器在眼镜上玩小游戏。",
-              "source_url": "https://www.androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627/",
+              "title": "EarFun Air Pro 4 亚马逊降价 33% 至 53 美元",
+              "brief": "EarFun Air Pro 4 无线耳机目前在亚马逊售价 53.16 美元，较 79.90 美元建议零售价便宜约 26 美元，降幅 33%。该耳机支持自适应主动降噪、蓝牙 5.4、多点连接和无线充电，编解码器支持 LDAC、aptX Lossless/Adaptive、AAC、SBC，并兼容 LE Audio 和 Auracast。单次充电续航约 9 至 11 小时，配合充电盒总续航约 52 至 54 小时。此外还支持谷歌快速配对、游戏模式、应用内 EQ 调节，具备 IPX5 防水，亚马逊评分 4.4 星。",
+              "source_url": "https://www.androidauthority.com/deal-earfun-air-pro-4-3729704/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-30T00:19:14+08:00"
+              "published_at": "2026-10-30T01:50:14+08:00"
             },
             {
-              "title": "绿联160W四口GaN充电器降至历史最低价94.99美元",
-              "brief": "绿联Nexode Pro 160W GaN充电器目前在亚马逊售价94.99美元，比149.99美元的建议零售价低37%，回到历史最低价。这款充电器共提供四个输出接口：一根内置可伸缩USB-C线、两个USB-C口和一个USB-A口，可同时为笔记本、手机、平板或掌机等多台设备供电。可伸缩线缆能有效减少线材杂乱，方便收纳携带。充电器还配有智能显示屏和触控操作，可实时查看充电状态和功率分配，并支持大功率USB-C快充标准，可为兼容的笔记本、平板、手机和掌机快速充电。对于希望用一个强大充电枢纽替代多个适配器的用户来说是不错的选择。",
-              "source_url": "https://www.androidauthority.com/ugreen-nexode-pro-160w-gan-charger-deal-3729679/",
+              "title": "亚马逊新款 Ring Battery Doorbell 2K 降价 55 美元",
+              "brief": "Ring 最新入门级视频门铃 Battery Doorbell 2K 目前在亚马逊售价 44.99 美元，较 99.99 美元建议零售价便宜 55 美元，折扣达 55%，是上市以来第二低价。这款 2026 年发布的产品支持 2K Retina 录制和最高 6 倍变焦，拥有 140 度 x 140 度上下全景视野，并提供实时查看、双向通话、动作侦测和手机提醒功能。门铃内置可充电电池，支持 USB-C 充电，也可硬接线至 8-24 VAC 门铃系统，官方称安装约需 10 分钟，使用 2.4GHz 单频 Wi-Fi。",
+              "source_url": "https://www.androidauthority.com/ring-battery-doorbell-2k-deal-amazon-3729722/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-30T00:07:01+08:00"
+              "published_at": "2026-10-30T01:41:20+08:00"
             },
             {
-              "title": "Soundcore Boom 2 Plus音箱亚马逊降至169.99美元",
-              "brief": "Soundcore Boom 2 Plus便携蓝牙音箱目前在亚马逊售价169.99美元，比249.99美元的零售价便宜80美元，折扣约32%。此前该产品仅有一次价格更低，且只低了约9美元，因此这是难得的入手好价。这款音箱采用大型手提音箱造型，面向户外场景，输出功率高达140瓦，采用双低音单元加双高音单元配置，并支持BassUp低音增强，适合开放空间和派对使用。它具备IPX7防水并能漂浮在水面上，适合泳池、海滩和雨天使用。续航可达20小时，支持蓝牙5.3和长距离无线连接，另有可自定义灯效、App控制及内置充电宝功能，亚马逊评分4.5星。",
-              "source_url": "https://www.androidauthority.com/soundcore-boom-2-plus-deal-amazon-3729645/",
+              "title": "三星 Odyssey G7 显示器降至 499.99 美元，省 400 美元",
+              "brief": "三星 37 英寸 Odyssey G7 曲面 4K 游戏显示器目前在亚马逊售价 499.99 美元，较 899.99 美元建议零售价下调 44%，可节省 400 美元。这款 G75F 采用 37 英寸 4K UHD 面板，配备 1000R 大曲率，刷新率最高 165Hz，响应时间达 1ms 级别，支持 AMD FreeSync Premium Pro 和 VESA DisplayHDR 600。面板为 VA 类型，以高对比度和深邃黑色见长，16:9 比例为玩家提供比超宽屏更多的纵向空间。亚马逊买家平均评分 4.4 分。",
+              "source_url": "https://www.androidauthority.com/samsung-odyssey-g7-deal-3729708/",
               "source_name": "Android Authority",
-              "published_at": "2026-10-30T00:03:26+08:00"
+              "published_at": "2026-10-30T00:59:13+08:00"
             }
           ]
         },
@@ -127,18 +155,39 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "Netflix 将制作真人版《绝地求生》剧集，由唐纳德·格洛弗编剧并执导",
+              "brief": "Netflix 宣布将根据大逃杀游戏《绝地求生》（PUBG）制作真人剧集，由《亚特兰大》主创唐纳德·格洛弗主导。据 Netflix 称，格洛弗将主演、编剧、执导并担任执行制片人，其弟兼长期合作者斯蒂芬·格洛弗协助开发。原作游戏剧情不多，但暗示这是一场供精英娱乐的搏命锦标赛，剧集或将呈现类似《鱿鱼游戏》的氛围。目前除格洛弗外暂无其他选角信息和上线时间。这也是 Netflix 最新批准的游戏改编项目，此外还在制作《刺客信条》真人剧和《战争机器》电影。",
+              "source_url": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/",
+              "source_name": "Engadget",
+              "published_at": "2026-10-30T02:45:00+08:00"
+            },
+            {
+              "title": "育碧表示短期内不会再推出更多《刺客信条》重制版",
+              "brief": "育碧周四向《刺客信条》玩家公布了一系列系列更新消息，其中一条可能令人失望。育碧表示，尽管《刺客信条：黑旗 重制版》成绩不错，但目前没有其他重制版正在开发中。公司称团队已专注于该系列的下一批作品，包括尚未公布的新背景和新故事项目，未来不排除重访旧作。本周早些时候，育碧为《黑旗 重制版》推出最终大型更新，加入新游戏+和更高难度，并宣布《英灵殿》将于11月5日提供新游戏+。多人项目 Codename Invictus 正朝新方向演进，主线新作 Codename Hexe 也在稳步推进。",
+              "source_url": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
+              "source_name": "Engadget",
+              "published_at": "2026-10-30T02:40:00+08:00"
+            },
+            {
+              "title": "英伟达 CEO 黄仁勋据报或为中国政府间谍的目标",
+              "brief": "《纽约时报》报道称，美国官员认为英伟达 CEO 黄仁勋是中国政府间谍的目标，而据报道特朗普总统一年前已听取相关简报，却未采取任何行动。据报道，美国情报机构监视了新加坡数据中心公司 Megaspeed 的高管 Alice 黄，发现她与一名美国公民有联系，后被确认是黄仁勋。情报机构认定她是中国情报人员。在间谍指控之前，她已被怀疑协助将先进英伟达芯片转入中国。Megaspeed 的马来西亚姐妹公司不到两年内购买了至少48亿美元的英伟达设备，对一家小型无名公司而言异常庞大。",
+              "source_url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+              "source_name": "Engadget",
+              "published_at": "2026-10-30T02:34:43+08:00"
+            },
+            {
+              "title": "Meta 将在青少年反复搜索自残内容时通知 Facebook 家长",
+              "brief": "Meta 正扩大针对青少年自杀和自残相关内容的家长通知功能。继今年早些时候在 Instagram 推出后，该公司现在向监管 Facebook 青少年账户的家长提供类似功能，并涵盖与 Meta AI 的对话。当青少年在短时间内反复搜索自残内容，或与 Meta AI 的聊天显示可能有自杀或自残风险时，家长将通过短信、电子邮件、WhatsApp 或应用推送收到警报。通知不会显示具体搜索词或聊天内容，但会建议家长与青少年沟通，并提供求助热线资源。该功能是 Meta 推广青少年账户的一部分，旨在让家长更好地控制隐私设置并限制敏感内容。",
+              "source_url": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+              "source_name": "Engadget",
+              "published_at": "2026-10-30T02:20:21+08:00"
+            },
+            {
               "title": "ThermoWorks 推出更短的 RFX Meat Mini 无线测温探针，适合小块食材",
               "brief": "ThermoWorks 推出了原版 RFX Meat 无线烧烤测温探针的缩短版 RFX Meat Mini。原版探针长 4.7 英寸，最小浸入线为 3.15 英寸，不适合菲力牛排或单份三文鱼等小块肉类、禽肉和鱼类。Mini 版最大浸入线为 2.6 英寸，最小仅 2.36 英寸，更契合小块食材。它保留了原版的主要功能，包括四个内部温度传感器、IP69K 防水等级（可用洗碗机清洗）以及耐高达 1000 华氏度的高温能力。充电座由 AAA 电池供电，可支持超过 175 次充电。主要差别在于续航：Mini 单次充电可用 48 小时，而原版超过 65 小时，但 48 小时已足够家庭长时间低温慢烤使用。",
               "source_url": "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/",
               "source_name": "Engadget",
               "published_at": "2026-10-30T00:04:13+08:00"
-            },
-            {
-              "title": "FromSoftware 宣布《The Duskbloods》延期至 2027 年",
-              "brief": "FromSoftware 宣布，原定于 2026 年发售的 Nintendo Switch 2 独占多人游戏《The Duskbloods》将延期至 2027 年。该作目前处于开发的最终阶段。工作室在 X 上表示，8 月的网络测试显示玩家对战斗、策略深度和玩家表达等核心概念有浓厚兴趣，为进一步提升这些方面，决定推迟发售，留出时间对游戏规则和平衡性做最后调整。这款哥特蒸汽朋克风格的游戏于 2025 年 4 月在 Switch 2 发布会上首次公开。这并非 FromSoftware 首次推迟 Switch 2 游戏，《艾尔登法环》移植版原定 2025 年推出，因性能问题需要更多优化时间，直到今年 8 月才登陆该平台。",
-              "source_url": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/",
-              "source_name": "Engadget",
-              "published_at": "2026-10-29T23:02:41+08:00"
             }
           ]
         },
@@ -146,25 +195,72 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "开源项目免费同步 Withings 数据，无需订阅",
-              "brief": "Withings 此前宣布新用户需订阅 Withings Plus 才能将设备健康数据同步至第三方应用。对此，早已不满 Withings 手机应用的汤姆·安东尼开发了开源项目 YourOwnWeigh，可将数据从 Withings 服务器重新路由，从而免费无线同步到其他应用和平台。该项目已在 GitHub 上开源，用户可查看更多详情。此举为智能体重秤用户提供摆脱订阅费用的新选择。",
-              "source_url": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
+              "title": "谷歌Gemini聊天中可直接生成和编辑Google文档文件",
+              "brief": "谷歌Gemini现已支持在聊天中直接生成、预览和编辑多种文件，包括PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。新文件编辑功能即日起向所有Gemini用户开放，其中PDF的预览和编辑功能同时支持网页版和移动端，其他文件格式目前仅限网页版。谷歌今年早些时候已支持在Gemini中生成和下载文件，如今用户无需离开应用即可修改这些文件。用户可全屏展开文档进行编辑，也可高亮文件中的文本向Gemini提问或要求其修改文件，例如高亮一个表格并要求Gemini将其转换为图表。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
               "source_name": "The Verge",
-              "published_at": "2026-10-29T12:14:06-04:00"
+              "published_at": "2026-10-29T14:45:31-04:00"
             },
             {
-              "title": "约书亚·库什纳旗下 Thrive Holdings 以 76 亿美元收购 ADT",
-              "brief": "由约书亚·库什纳领导的 Thrive Holdings 将以 76 亿美元全现金交易收购家庭安防公司 ADT，交易预计于 2027 年第一季度完成，ADT 将由此私有化。Thrive Holdings 成立于去年，是库什纳旗下风投公司 Thrive Capital 的分支，被科技媒体比作\"面向 AI 的私募股权公司\"，专门收购会计、IT 服务等传统企业并引入 AI 流程。ADT 虽为独立家庭安防服务商，但已与谷歌、苹果等大型科技公司合作，销售并安装 Nest 及苹果智能家居设备。",
-              "source_url": "https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition",
+              "title": "宜家甜甜圈造型智能台灯降价20美元",
+              "brief": "宜家Varmblixt智能台灯目前售价79.99美元，降价20美元，优惠持续至11月11日。这款甜甜圈造型的台灯凭借俏皮的设计、多功能性和相对亲民的价格，在测试中成为The Verge作者最喜爱的智能照明产品之一。该灯支持Matter协议，可显示数百种颜色，既可以放在桌面上，也可以安装在墙上，只需用一颗打孔螺丝即可悬挂。其亮度仅为180流明，并不特别明亮，因此更适合用作床头灯等辅助照明，而非房间主照明。",
+              "source_url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-10-29T12:03:28-04:00"
+              "published_at": "2026-10-29T14:18:36-04:00"
             },
             {
-              "title": "微软的 AI 未来意味着更少的员工",
-              "brief": "微软正向美国、英国、加拿大和印度约 6 万名员工提供自愿买断方案，这是该公司首次向如此大规模的员工提供此类选择，远超今年早些时候仅针对约 9000 名员工的退休方案。此举旨在降低运营成本和员工总数，避免减少对 AI 基础设施的投资。CEO 纳德拉近两年前曾在播客中表示，公司总人力成本将下降，人均成本和每位研究员的 GPU 数量将上升。这一周被视为 AI 将从根本上改变微软员工规模的最新明确信号。",
-              "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+              "title": "苹果新MacBook Pro支持面向色彩专业人士的新色彩模式",
+              "brief": "新款MacBook Pro为苹果笔记本带来多项首创，包括OLED显示屏和触控功能。但让显示校准专家最兴奋的是其PROLED XDR显示屏所采用的技术：它是首款支持Apple CMF 2026色彩模式的笔记本电脑，也是整体上第二款支持该模式的产品。CMF即色彩匹配函数，通过数学方式表示人类对颜色的感知。多年来业界标准一直是CIE 1931规范，该规范由国际照明委员会制定，已使用了近百年。苹果的这一新色彩模式可能代表着显示技术的未来发展方向，对图像精度要求高的色彩专业人士尤为重要。",
+              "source_url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
               "source_name": "The Verge",
-              "published_at": "2026-10-29T12:00:00-04:00"
+              "published_at": "2026-10-29T13:48:09-04:00"
+            },
+            {
+              "title": "犹他州起诉Kalshi及其CEO非法推广在线赌博",
+              "brief": "据《盐湖论坛报》和美联社报道，美国犹他州对预测市场平台Kalshi及其高管提起刑事指控，指其违反反赌博法律。该州共对Kalshi提起14项指控，同时涉及CEO塔雷克·曼苏尔和首席运营官卢安娜·洛佩斯·拉拉，其中包括12项非法推广在线赌博罪。此举标志着针对Kalshi和Polymarket等预测市场平台的全国性打击行动进一步升级。犹他州此前已起诉Kalshi非法在该州运营，并与纽约州、内华达州、新墨西哥州、华盛顿州、康涅狄格州等多个州一道对该公司采取了法律行动。",
+              "source_url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+              "source_name": "The Verge",
+              "published_at": "2026-10-29T13:40:23-04:00"
+            },
+            {
+              "title": "数据中心或使美国气候污染大幅飙升",
+              "brief": "塞拉俱乐部的最新分析显示，为满足数据中心的电力需求，美国电力部门正在建设更多化石燃料基础设施，到2030年其排放的致热二氧化碳污染可能比2025年增加42%，这将几乎抹去15年的温室气体减排成果。如果规划中的人工智能项目全部建成，到本十年末，发电产生的二氧化碳排放将增加6.18亿吨，大致相当于1.28亿多户家庭一年用电产生的碳污染。这一估计高于其他一些机构的预测，凸显了数据中心扩张对美国气候目标的重大威胁。",
+              "source_url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+              "source_name": "The Verge",
+              "published_at": "2026-10-29T13:10:46-04:00"
+            }
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "articles": [
+            {
+              "title": "报道称特朗普未处理中国安插间谍接近英伟达CEO的情报",
+              "brief": "《纽约时报》援引匿名消息人士报道称，约一年前特朗普获知情报，称北京正从一名能直接接触英伟达CEO黄仁勋的人那里获取报告。此人名为黄乐，中国公民，曾任新加坡云公司Megaspeed高管。美国此前已怀疑她通过Megaspeed帮助中国规避出口管制以获取英伟达高端芯片，调查人员更担心她利用职务接触黄仁勋，向中国传递这家美国AI龙头企业的情报，甚至影响特朗普对AI的看法。据报道，特朗普部分出于保护英伟达股价的考虑，对此情报未采取任何行动。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-30T02:29:12+08:00"
+            },
+            {
+              "title": "将太阳能发电系统改造成自身的备用电源",
+              "brief": "聚光太阳能利用定日镜将阳光聚焦到塔上加热工质流体，再驱动传统汽轮机发电，而非直接将光子转换为电力。约十年前，随着储热技术改进，聚光太阳能曾被视为可全天候发电的方案。但其成本虽降至可与核电竞争，光伏板价格却大幅下跌，使太阳能板成为多数地区最便宜的电力来源。如今光伏仍需搭配电池和天然气设施应对夜间或天气导致的供电缺口。小型公司247Solar提出新设计，让化石燃料备用系统与太阳能侧共享大部分发电硬件，并采用模块化设计，可通过增加模块扩大容量，从而免去另建备用设施。",
+              "source_url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-30T02:02:26+08:00"
+            },
+            {
+              "title": "Kalshi及其联合创始人因违反犹他州赌博法面临重罪指控",
+              "brief": "犹他州总检察长德里克·布朗在州法院对预测市场平台Kalshi及其创始人提起刑事指控。公司KalshiEX、联合创始人兼CEO塔雷克·曼苏尔和联合创始人兼COO卢安娜·洛佩斯·拉拉各面临13项重罪和一项轻罪指控，理由是9月13日至24日间提供的体育博彩。二人未被逮捕，而是收到盐湖县第三地区法院的传票。Kalshi声明称这是政治操弄的过度干预，将像5月在亚利桑那州那样在法庭上应对。与此同时，特朗普政府旗下监管预测市场的机构起诉犹他州，试图阻止其执行对Kalshi的赌博禁令，犹他州成为第十个被该机构起诉的州。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-30T01:21:33+08:00"
+            },
+            {
+              "title": "谷歌承认AI搜索赚钱较少，计划投放更多广告补救",
+              "brief": "Alphabet周三公布第三季度财报，7至9月营收近1280亿美元，同比增长25%，净利润超过260亿美元，云业务收入突破300亿美元超出预期。但财报发布后股价一度下跌约13%，创历史最大盘后跌幅之一。原因包括净利润比去年减少近90亿美元，每股收益2.12美元远低于预期的3.02美元。公司还承认AI搜索的收入不如传统自然搜索，但仍计划明年增加AI投入，并投放更多广告提升AI搜索收益。",
+              "source_url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-10-30T00:24:55+08:00"
             }
           ]
         }
@@ -177,39 +273,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《沙丘3》推出三款爆米花桶周边，含双沙虫嘴设计",
-              "brief": "AMC影院官方公布了《沙丘3》的三款爆米花桶收藏品。其中一款带有两个沙虫嘴，可与他人分享爆米花；另一款有一个嘴洞，配有进食时会上下移动的 thumper 装置；第三款则是以宇航公会领航员埃德里克的移动容器罐为造型。《沙丘3》改编自弗兰克·赫伯特的《沙丘救世主》，故事发生在前两部电影的17年后，提莫西·查拉梅回归出演保罗·厄崔迪，赞达亚戏份扩大。影片定于2026年12月18日上映，IMAX提前场于12月14日开始。《沙丘2》全球票房近5亿美元。",
-              "source_url": "https://www.ign.com/articles/dune-part-3-concession-collectibles-popcorn-bucket",
+              "title": "育碧公布《刺客信条》代号Hexe神秘更新信息",
+              "brief": "育碧在博客文章中分享了《刺客信条》代号Hexe项目的最新动态。官方表示这款更黑暗的《刺客信条》体验正在稳步推进，但仍需更多开发工作，并感谢玩家长久以来的耐心等待。育碧透露，下一个重大更新将于2027年公布。此外，博客中还附带了一段神秘密文，供擅长解码的玩家破解。代号Hexe预计将是2025年《刺客信条：影》之后的首部主线作品，虽然具体时代背景尚未公布，但女巫主题预计将是核心元素。此前有爆料称某位人气角色将回归，游戏内部的魔法元素也经历了调整，今年早些时候还发生过游戏总监离职等人事变动。",
+              "source_url": "https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
               "source_name": "IGN",
-              "published_at": "2026-10-29T22:59:32+08:00"
+              "published_at": "2026-10-30T01:32:16+08:00"
             },
             {
-              "title": "部分付费《魔兽世界：永恒》玩家因Bug无法预留角色名",
-              "brief": "部分购买了《魔兽世界：永恒》Skyborne礼包的玩家在预留角色名时收到了错误的“受限”提示。暴雪社区经理Kaivax在论坛解释，问题源于名称过滤器存在Bug：受限名单本应屏蔽魔兽正史角色名等技术原因的名称，但系统过滤过于严格，例如错误屏蔽了包含“c-o-n”的名字，甚至包含“nurse”“officer”等普通NPC名称也被禁止。暴雪已在服务器重启时修复该问题，但仍有部分玩家反映无法预留名称。也有玩家指出《永恒》对角色名的限制整体偏严格。",
-              "source_url": "https://www.ign.com/articles/some-people-who-paid-for-wow-forever-name-reservation-couldnt-reserve-their-name-due-to-a-weird-bug",
+              "title": "《极限竞速》总监Dan Greenawalt在微软工作27年后宣布退休",
+              "brief": "据The Verge报道，《极限竞速》系列总监兼Turn 10工作室负责人Dan Greenawalt将从微软退休。Playground Games工作室负责人Trevor Williams在内部备忘录中确认了这一消息，并高度评价Greenawalt过去27年的贡献，从2001年在初代Xbox上推出《计划 Gotham 赛车》，到创立Turn 10工作室并打造《极限竞速》系列。Turn 10上月已与Playground Games合并。2023年重启的《极限竞速》在去年Turn 10裁员后，剩余团队据报已转为支持更赚钱的《极限竞速：地平线》，该作将不再获得新内容，正统续作前景渺茫。Greenawalt主导的八部《极限竞速》作品在IGN评分均不低于8分。",
+              "source_url": "https://www.ign.com/articles/forza-motorsport-director-and-turn-10-boss-dan-greenawalt-retiring-from-microsoft-after-27-years",
               "source_name": "IGN",
-              "published_at": "2026-10-29T22:29:51+08:00"
+              "published_at": "2026-10-30T01:22:00+08:00"
             },
             {
-              "title": "FromSoftware《黄昏血族》正式延期至2027年",
-              "brief": "FromSoftware宣布，Switch 2独占游戏《黄昏血族》正式延期至2027年发售，暂未公布具体时间。开发商表示，此决定基于近期网络测试的反馈，希望进一步打磨战斗、策略深度与玩家表现力，并利用额外时间进行游戏规则和平衡性的最终调整。此前玩家已预感会延期：该作缺席2026年9月的任天堂直面会，且8月网络测试首日因服务器问题导致玩家无法登录而提前结束。FromSoftware曾打造《艾尔登法环》等杰作，玩家对本作期望极高，官方同时向等待的玩家致歉。",
-              "source_url": "https://www.ign.com/articles/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-officially-delayed-into-2027",
+              "title": "曝《上古卷轴6》副标题为Sentinel，新剧情细节流出",
+              "brief": "据The Verge报道，Bethesda备受期待的《上古卷轴6》副标题将为Sentinel，官方最早可能于下月正式公布，或与《天际》15周年或Xbox 25周年纪念同步。报道称游戏将设定在落锤省，深入探索同名圣物的历史，让玩家首次亲自发掘其秘密。游戏可能在2028年发售，明年或公布更多细节。Bethesda习惯在游戏接近完成时才展示实际玩法，因此实机画面可能还需等待。该作于2018年公布，当时仍处于极早期预制作阶段，工作室全力开发《星空》。《星空》发售后，《上古卷轴6》已成为Bethesda的重点项目，是开发的核心方向。",
+              "source_url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
               "source_name": "IGN",
-              "published_at": "2026-10-29T22:10:46+08:00"
+              "published_at": "2026-10-30T00:56:40+08:00"
             },
             {
-              "title": "制作人Jacksepticeye透露《血源》电影进展顺利",
-              "brief": "《血源》动画电影自公布以来已超过半年，当时尚未确定编剧和导演。制作人Jacksepticeye（Seán McLoughlin）向IGN证实，影片如今已确定编剧和导演，进展良好。他表示故事走向已规划了大量内容，相关团队也已就位，希望能尽快公布主创阵容和故事细节。他坦言制作这款重量级IP压力巨大，追求“针尖般精准”的还原，但也承认要满足所有人的期望几乎不可能。目前片方对编剧和导演身份保密，未来或许会在TGA或明年其他游戏活动上公布更多信息。",
-              "source_url": "https://www.ign.com/articles/bloodborne-movie-gets-promising-update-from-producer-jacksepticeye",
+              "title": "三星称内存涨价危机2027年将进一步加剧",
+              "brief": "三星在2026年第三季度财报电话会议上表示，内存市场紧张状况明年将持续恶化。该季度三星半导体部门（含内存业务）营收达147.1万亿韩元，其中利润106.5万亿韩元，占三星当季总收入的72%。三星称这一业绩得益于优先生产AI数据中心所需的HBM4内存。展望未来，三星预计AI需求激增将使2027年的供应短缺比2026年更加严重。由于AI需求过于强劲，三星甚至不再提及消费级DDR5内存，而是完全专注于通过长期合同建立稳定的销售基础，并确保及时提供符合AI应用需求的新产品。",
+              "source_url": "https://www.ign.com/articles/ramageddon-will-only-get-worse-in-2027-according-to-samsung",
               "source_name": "IGN",
-              "published_at": "2026-10-29T22:00:00+08:00"
+              "published_at": "2026-10-30T00:45:44+08:00"
             },
             {
-              "title": "Jacksepticeye谈成为《杀手》新闪避目标及《血源》电影等话题",
-              "brief": "知名创作者Jacksepticeye现已作为免费闪避目标加入《杀手》，玩家从今日起至11月25日可在游戏中想办法解决他。他并非饰演自己，而是一个对内容创作者尤其是所谓“男性圈”网红进行刻板化演绎的角色，似乎借鉴了Jake Paul、Andrew Tate等争议网红的形象，为特工47提供了有趣的行动舞台。他透露因常年游玩《杀手》系列而进入IO Interactive的视野，双方多次洽谈后才促成此次合作。IO态度非常合作，询问他想扮演谁，他选择了“别人”而非自己。",
-              "source_url": "https://www.ign.com/articles/jacksepticeye-talks-being-hitmans-new-elusive-target-bloodborne-movie-dispatch-and-more",
+              "title": "初代GTA美术师欣然看到其风格延续至GTA6封面",
+              "brief": "曾在Rockstar工作15年的美术师Stephen Bliss在卢卡漫画与游戏展上接受IGN采访时表示，他对自己的设计影响延续到《GTA6》封面感到荣幸。Bliss于2001至2016年在Rockstar任职，确立了《侠盗猎车手》宣传漫画风格的视觉体系，包括标志性的方格布局和封面左上角的直升机元素。他表示虽然与《GTA6》封面无关，但看到这些元素被保留很受触动，同时强调自己的影响只是点缀，并肯定了Anthony Macbain和Steven Olds等其他艺术家的贡献。采访还谈及9·11事件对《GTA3》封面艺术的影响，以及《罪恶都市》和《圣安地列斯》独特视觉风格背后的创作挑战。",
+              "source_url": "https://www.ign.com/articles/original-gta-artist-says-hes-flattered-to-see-his-influence-continue-in-gta-6-cover-art",
               "source_name": "IGN",
-              "published_at": "2026-10-29T22:00:00+08:00"
+              "published_at": "2026-10-30T00:41:56+08:00"
             }
           ]
         },
@@ -262,6 +358,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "美国情报机构调查疑似针对黄仁勋的间谍活动 英伟达否认涉及敏感信息泄露",
+              "brief": "据媒体报道，美国情报机构正在调查一名与中国有关的女性高管黄乐与英伟达CEO黄仁勋的密切接触情况。调查人员发现，两人曾在新加坡地区的多次商务活动和晚宴中保持接触。美方担忧这种关系可能被用于获取英伟达未来战略规划，以及黄仁勋游说特朗普政府放宽对华先进技术出口限制等信息。约一年前，特朗普已收到有关调查结果的简报，但并未采取进一步行动。公开信息显示，黄乐所在的Megaspeed是总部位于新加坡的AI基础设施与云计算企业，也是英伟达在亚太地区的合作伙伴。2025年，美国商务部曾调查该公司是否帮助中国企业绕过出口管制获取英伟达AI芯片。对此，英伟达明确否认涉及敏感信息泄露，称黄仁勋与黄乐的接触只是正常商业往来，其每年与数千名客户管理层沟通，区域云服务客户获得的仅是普通商业信息，不涉及核心机密或国家安全内容。公司还表示，有关Megaspeed参与芯片转运的说法已在早前调查中被排除。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584346.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-10-30T00:58:16+08:00"
+            },
+            {
               "title": "字母表市值或将蒸发5000亿美元 创历史最大单日市值缩水",
               "brief": "由于财报公布后投资者恐慌，字母表股价大跌，单日市值可能蒸发约5000亿美元，有望超越英伟达此前约5930亿美元纪录附近的水平，并已超过SpaceX在6月22日创下的4000亿美元单日亏损纪录。财报显示，谷歌云营收约310亿美元实现翻倍，Gemini用户突破10亿，但搜索业务营收约630亿美元、增长12%，低于华尔街预期的650亿美元；受AI投入激增影响，自由现金流转为负值约90亿美元。看空者认为这是AI开始侵蚀搜索主业的第一个季度，乐观者则认为回调或许是买入良机。市场关注亚马逊财报将验证AI投资逻辑。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1584344.htm",
@@ -288,13 +391,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/game/1584338.htm",
               "source_name": "cnBeta",
               "published_at": "2026-10-29T23:40:31+08:00"
-            },
-            {
-              "title": "谷歌市值创纪录蒸发5000亿美元 AI侵蚀营收",
-              "brief": "Alphabet财报令市场失望，股价下跌13%至281.37美元，市值蒸发5110亿美元，创纪录。搜索业务占总营收一半，是AI投资的关键资金来源。首席商务官Philipp Schindler承认搜索中新推出的AI Mode查询变现能力较低，拖累业绩。第三季度谷歌服务业务总营收963亿美元，低于预期的984亿美元；YouTube广告营收112亿美元也不及预期；自由现金流连续第二个季度为负，为上市以来首次；股权投资录得87亿美元亏损，主要源于所持SpaceX股份。每股净利润2.12美元远低于预期。亮点是谷歌云，营收307亿美元、利润111亿美元，均高于预期。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1584336.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-10-29T23:37:16+08:00"
             }
           ]
         },
