@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T02:53:52.478738+08:00",
+  "generated_at": "2026-11-03T04:53:14.670233+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "苹果为新款 Apple TV 4K 发布全新 tvOS 27.2 版本",
+              "brief": "苹果上周发布了 tvOS 27.2 更新，为屏幕保护程序新增随机播放选项、更细致的照片控制，并在部分影视内容中支持美国和英国手语。近日，苹果又针对第四代 Apple TV 4K 推出全新构建版本 24K154，而上周现有机型的版本号为 24K122。目前苹果尚未说明新构建的具体变化，发行说明也未改动，旧款 Apple TV 仍停留在 24K122。新款 Apple TV 4K 将于 11 月 13 日上市，起售价 299 美元，主要升级包括支持 Siri AI、内置远场麦克风实现免提语音控制，以及可搭配四台 HomePod 组成前后环绕音响的新功能，同时附带支持精确查找和发声定位的新款 Siri 遥控器。",
+              "source_url": "https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-03T04:45:00+08:00"
+            },
+            {
+              "title": "OpenAI 将退役 ChatGPT Classic 应用，并合并聊天与工作标签",
+              "brief": "OpenAI 几个月前推出新桌面应用，将 ChatGPT、Work 和 Codex 整合在同一界面，原应用更名为 ChatGPT Classic。由于新应用改用 Electron 构建、界面混乱，该调整引发争议，OpenAI 随后通过顶部聊天与工作切换按钮和侧边栏菜单改进了体验。如今 ChatGPT Classic 功能逐渐落后，与新应用独有的功能如推理力度调节兼容性变差。OpenAI 已向用户显示退役提示：该应用将于 2027 年 1 月 30 日正式停用，聊天记录可完整迁移至新应用。此外，OpenAI 还将在未来几周开始测试合并聊天与工作标签的一体化体验，并整合两者的使用额度。",
+              "source_url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-03T04:07:21+08:00"
+            },
+            {
+              "title": "iOS 27.2 信息应用新功能：建议操作可自由定制",
+              "brief": "在 iOS 27.2 中，信息应用新增了建议操作功能。当消息中包含可操作信息时，比如日程事件或待办事项，相关消息下方会出现建议操作提示，用户轻点即可将其转化为日历或提醒事项等操作。这些提示在界面中十分小巧，不会造成干扰。用户可在设置、应用、信息、建议操作路径中自定义该功能，共有五类建议可分别启用或禁用：添加到日历、添加到提醒事项、添加到备忘录、在地图中显示、航班与包裹。默认情况下五项全部开启。该功能由 Apple Intelligence 驱动，因此需要支持 AI 功能的 iPhone 才能使用。",
+              "source_url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-03T03:56:12+08:00"
+            },
+            {
+              "title": "Pelican 推出坚固耐用的 MagSafe 磁吸移动电源",
+              "brief": "Pelican 长期生产可承受严苛环境的相机和设备防护箱，其新款 MagSafe 移动电源延续了这一理念：5000mAh 容量的磁吸电池包裹在坚固硬壳中，专为户外使用设计，可抵御磕碰和刮擦，适合徒步、露营、公园游玩等场景。该电源通过 MagSafe 磁吸充电，最高功率 15 瓦，磁力强劲，即使手机放在外套口袋或挂在背包肩带上也能保持稳固。它还兼容任意 Qi 设备，AirPods 或带磁吸壳的三星手机均可充电，并配有 USB-C 接口和短线，侧面四颗 LED 指示灯显示剩余电量。需要注意的是，它并非支持 25 瓦的 Qi2.2 型号，充电速度不及新款 MagSafe 电池。",
+              "source_url": "https://9to5mac.com/2026/11/02/magsafe-monday-pelicans-magsafe-battery-pack-is-the-battery-built-to-go-anywhere/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-03T03:49:00+08:00"
+            },
+            {
               "title": "搭配PROLED XDR新MacBook Pro的五款热门配件推荐",
               "brief": "新款配备PROLED XDR显示屏的MacBook Pro在机身明显更轻的同时，续航表现与以往机型相当，但快充仍是重要功能。该机支持30分钟充至50%电量，14英寸机型需搭配Apple 96W电源适配器，16英寸需140W适配器，另有延长线及Anker 100W充电器可选。若偏好外接鼠标，罗技MX Master 4售价119美元，是市面上最佳选择之一；需要外接触控板可选Apple妙控板，现价115美元。抬高屏幕推荐Twelve South Curve铝合金支架，简约设计可将MacBook抬高六英寸并防滑防刮。此外还可考虑带以太网和USB-A接口的USB-C扩展坞等配件。",
               "source_url": "https://9to5mac.com/2026/11/02/new-macbook-pro-with-proled-xdr-accessories-here-are-five-top-picks/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-03T02:34:47+08:00"
-            },
-            {
-              "title": "X为iPhone和iPad版新增十余款应用图标",
-              "brief": "X应用为iPhone和iPad推出了包含十余款新选项的备用图标集，这是X更名以来首次真正引入新图标。该备用图标集最初属于Twitter Blue（现称X Premium），仅限订阅用户使用。此前Twitter Blue曾短暂提供季节性图标，随后Twitter标志被X符号取代，并加入了几个太空主题选项，默认图标变为黑色。本次应用更新以全新选项替换现有图标，包括更多地面视角的太空主题图标等。用户可在iPhone和iPad的X应用中，通过设置>订阅>应用图标路径找到这些新选项。此次更新是X近年来在个性化方面的重要动作。",
-              "source_url": "https://9to5mac.com/2026/11/02/x-for-iphone-and-ipad-just-dropped-a-dozen-new-app-icon-options/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-03T02:34:37+08:00"
-            },
-            {
-              "title": "苹果2026财年第四季度财报电话会议收听指南",
-              "brief": "苹果将于今日收盘半小时后发布2026财年第四季度财报，随后CEO约翰·特努斯与CFO凯文·帕雷克将出席电话会议讨论业绩。这是特努斯9月接替蒂姆·库克后的首次财报电话会议，话题预计围绕内存短缺和元器件成本上涨等挑战，及其对假日季表现的影响。上季度苹果预测营收同比增长9%至11%，即约1116.9亿至1137.4亿美元，尽管iPhone、Mac和iPad供应受限。本季度业绩仅包含9月18日发售的iPhone 18 Pro系列几天销量，分析师更关注包含iPhone Duo、触屏新MacBook Pro和HomeView智能家居中枢的本季度展望。会议定于太平洋时间下午2点开始，可通过苹果投资者关系网站收听直播。",
-              "source_url": "https://9to5mac.com/2026/11/02/heres-how-to-listen-live-to-apples-q4-2026-earnings-call/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-03T01:13:36+08:00"
-            },
-            {
-              "title": "iOS 27.2.1 或将很快作为iPhone下一次更新推出",
-              "brief": "上周iOS 27.2已向所有用户推送，带来信息应用新功能、照片升级、Siri AI改进和CarPlay变化等多项更新。根据9to5Mac的访客日志，近期已有运行iOS 27.2.1的苹果设备访问该网站，此类小版本更新通常在正式版发布一两周内出现在日志中，因此iOS 27.2.1可能在本周或下周发布。该更新预计不包含新功能，主要是修复bug和安全漏洞。下一个重大更新iOS 27.3将带来新功能，苹果已确认其测试版将于本周推出。",
-              "source_url": "https://9to5mac.com/2026/11/02/ios-27-2-1-could-launch-soon-as-next-iphone-update/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-03T00:37:47+08:00"
-            },
-            {
-              "title": "Apple TV新增大量免费经典电影，全名单一览",
-              "brief": "Apple TV在11月新增20部经典电影供订阅用户免费观看，包括《星际穿越》《低俗小说》《少数派报告》《阿甘正传》《死亡诗社》《降临》《独领风骚》《王牌播音员》《伴我同行梦》《她》《12猴子》等。这些影片大多是限时上架，预计仅在11月内提供，之后将更换新一批电影。需要注意的是，这些影片目前在美国区可看，其他地区的可选内容可能有所不同。Apple TV订阅价格为每月14.99美元，也可通过Apple One捆绑套餐获得折扣。",
-              "source_url": "https://9to5mac.com/2026/11/02/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new-2/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-03T00:18:33+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "AAWireless 推出带主动散热的 Qi2 25W 车载无线充电器",
+              "brief": "AAWireless 不再局限于 Android Auto 无线适配器，推出了名为 AAWireless Charge 的车载充电器，售价 50 美元。这款 Qi2 25W 无线车充兼容 MagSafe、Pixelsnap 及通用 Qi2 标准，在支持的手机上可实现最高 25W 充电速度。产品内置风扇进行主动散热，官方称运行时相当安静。包装内附有出风口支架和粘胶底座，并配有两个磁吸环贴片，供没有内置磁铁的 Qi2 Ready 手机使用。官方建议通过随附适配器连接车内 12V 电源接口以获得最佳性能，也可使用供电足够的 USB-C 接口。该充电器不内置无线适配器，但可与 AAWireless 适配器同时使用，目前仅在公司官网销售。",
+              "source_url": "https://9to5google.com/2026/11/02/aawireless-charge-qi2/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-03T04:05:00+08:00"
+            },
+            {
+              "title": "谷歌封堵数百万 Android TV 与 Google TV 盒子中的恶意软件后门",
+              "brief": "谷歌确认已与认证 Android TV 盒子制造商 Videostrong 切断合作，原因是该公司在设备中内置后门并出售访问权限，还分发恶意软件。谷歌已采取法律行动封锁其用于控制 XCPE 僵尸网络和恶意模块的域名与服务器，并禁止该公司及其子公司继续销售认证 Android 设备或向其他认证厂商提供软件。谷歌表示，这款恶意软件被植入多个品牌和型号中多年，配备了专门基础设施并不断变更配置以躲避检测，并非孤立事件。受影响设备集中在 Mecool 品牌上。谷歌承认这些行为利用了其测试的漏洞，将更新审核流程，并强调制造商蓄意向用户植入恶意软件是不可容忍的信任破坏。",
+              "source_url": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-03T03:40:00+08:00"
+            },
+            {
+              "title": "周一安卓应用优惠：《巫师之王权》《王国保卫战 5》《Apple Knight 3》等",
+              "brief": "本周一谷歌 Play 商店推出新一轮安卓应用与游戏促销，包括《巫师之王权》、策略游戏《王国保卫战 5》以及动作游戏《Apple Knight 3》等多款作品的折扣和限免活动。此外，早黑五促销活动也在进行中，谷歌 Home 音箱创下 20% 折扣的历史新低价，同时多款 Nest 智能家居产品也参与打折，涵盖摄像头、温控器等品类。此次优惠涉及应用、游戏和智能家居硬件多个方面，为用户提供了在应用购买和智能设备入手上的多种省钱选择，感兴趣的用户可趁活动期间前往商店查看并购买。",
+              "source_url": "https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-03T02:50:10+08:00"
+            },
             {
               "title": "谷歌明年将允许Android与iOS应用直接集成快速分享功能",
               "brief": "谷歌宣布Quick Share SDK将于2027年上半年推出，开发者可将文件分享功能直接集成到应用中，无需用户先打开系统分享面板再进入全屏的快速分享界面。该SDK主打多项能力：端到端加密传输保障隐私，数据在两台设备间的本地网络中传输；自动处理热点创建并利用Wi-Fi Direct实现低延迟和最快传输速度；照片和视频无需压缩；即使没有蜂窝网络也可离线分享，无需维护昂贵的基础设施。谷歌还将提供面向iPhone应用的Quick Share iOS SDK。在用户界面方面，在第三方应用中激活快速分享会弹出底部面板，用户可在其中预览正在发送的文件。",
@@ -101,33 +122,26 @@
               "source_url": "https://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/",
               "source_name": "9to5Google",
               "published_at": "2026-11-03T01:07:06+08:00"
-            },
-            {
-              "title": "部分三星Galaxy手机在One UI 9下出现Android Auto问题",
-              "brief": "自三星开始推送Android 17稳定版更新以来，各地陆续出现Android Auto问题的报告，相关反馈出现在Reddit、三星论坛和谷歌论坛上。虽然问题范围并不算大规模蔓延，但存在明显规律且报告数量足以表明一种趋势。受影响的用户反映出现性能卡顿或连接完全失败的情况。Android Authority发现的一项用户测试显示，运行One UI 8.5的Galaxy S25 Edge没有任何问题，而运行One UI 9的Galaxy S24 Ultra则立即复现了其他用户报告的问题。这虽非科学严谨的测试，但表明One UI 9可能是导致部分异常行为的原因。目前官方尚未公布修复方案。",
-              "source_url": "https://9to5google.com/2026/11/02/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-03T01:05:00+08:00"
-            },
-            {
-              "title": "最新爆料：Galaxy S27 Pro与S27 Ultra隐私显示屏前景更明朗",
-              "brief": "最新泄露显示，三星Galaxy S27系列中将有至少两款机型配备隐私显示屏功能。爆料称Galaxy S27 Pro和Galaxy S27 Ultra的隐私显示屏将具备增强的显示亮度，这是继九月泄露后的新细节。两则爆料均指出，只有高端的两款机型才能拥有可阻挡特定角度视线的屏幕，Galaxy S27和S27 Plus则无缘该功能。考虑到S27 Pro可能实际上取代了现款Ultra的位置，这一安排合乎逻辑。三星预计明年初发布Galaxy S27系列，具体日期尚未确定。",
-              "source_url": "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-03T00:44:14+08:00"
-            },
-            {
-              "title": "优惠汇总：Google Home Speaker降至历史新低，Galaxy Z Fold 8最高减624美元",
-              "brief": "百思买黑色星期五月度促销开启，多款产品迎来优惠。新款Google Home Speaker首次降价20%，售价79.99美元，为其历史最低价。同时Pixel 11系列最高优惠350美元，Pixel Watch 5全系减100美元，亚马逊新款Alexa安卓平板首次降价至199.99美元，2026款Fire TV Stick 4K降至25美元新低。亚马逊还以300美元折扣 undercut 三星官网，全新Galaxy Z Fold 8立减300美元，开箱机型最高优惠624美元。",
-              "source_url": "https://9to5google.com/2026/11/02/deals-google-home-speaker-galaxy-z-fold-8/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-03T00:30:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "谷歌“塞尔达”彩蛋带你重回1998年的搜索体验",
+              "brief": "为庆祝《塞尔达传说：时之笛》重制版即将发售，谷歌推出限时搜索彩蛋。用户在谷歌搜索“Zelda”或“Ocarina of Time”，页面右下角会出现动画版大师之剑，手机和电脑端均可触发。点击宝剑并经过一段时光穿越动画后，搜索页面会变成1998年的复古风格，即简单的蓝色链接列表和旧版谷歌标志，呼应游戏中时光穿梭的机制。该彩蛋展示的是策划好的链接列表，包括任天堂官方塞尔达页面、维基百科条目和亚马逊游戏页面等共七条，而非真实搜索结果。用户可再次点击宝剑返回现代搜索页面。这一体验时效有限，展示了九十年代搜索引擎的简洁面貌。",
+              "source_url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-03T03:52:23+08:00"
+            },
+            {
+              "title": "研究发现衡量认知重评能力的常用方法结果不一致",
+              "brief": "《自然》杂志罕见地发表了一项阴性结果研究。认知行为疗法（CBT）的核心方法之一是“认知重评”，即让人们重新审视引发负面情绪的情境并加以重新解读，从而减轻其影响。这种能力与情绪韧性相关，因此大量研究探索了人们进行认知重评时的大脑活动，也有多种问卷用于测量个人的重评能力。一个大型国际研究团队仔细考察了三种被广泛使用、通常被认为反映重评能力相关侧面的指标，包括特质问卷、任务后的情感评分等。结果显示，这些方法测量的似乎并不是同一事物，意味着目前缺乏可靠手段来衡量这一治疗关键概念的影响。",
+              "source_url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-03T03:13:26+08:00"
+            },
             {
               "title": "苹果千元家用机器人预计2027年问世：支持FaceTime和开关灯",
               "brief": "苹果新任CEO约翰·特努斯正推动家用机器人研发。据知情人士向The Information透露，这款代号J595的AI驱动家用机器人可能命名为HomeView Ultra，能在室内自主移动，支持FaceTime通话并在有人进入房间时自动开灯。苹果计划以1000美元或更高价格在2027年推出，但开发延误可能推迟至2028年。最早原型机于2018年问世，曾获前CEO蒂姆·库克批准继续研发。工程师们试图赋予机器人超出“高级FaceTime工具”的能力以支撑高价，但其功能相比现有智能家居设备仍显有限。",
@@ -148,26 +162,19 @@
               "source_url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-03T01:09:13+08:00"
-            },
-            {
-              "title": "F1墨西哥城站：安东内利成最年轻世界冠军，法拉利再失好局",
-              "brief": "F1墨西哥城大奖赛本周末产生新科车手世界冠军：刚满20岁数月的基米·安东内利夺冠，成为F1历史上最年轻的世界冠军。比赛在海拔2240米的罗德里格斯兄弟赛道举行，稀薄空气导致下压力和引擎功率下降、散热困难，为车队决策带来独特挑战。法拉利原本有望取胜，却再度将胜利拱手让给红牛，延续本赛季的失误。此外，哈斯车队在最后时刻更换车手，两辆阿斯顿·马丁赛车双双退赛，凯迪拉克车队也出现车轮脱落等状况，场内外戏剧性事件不断。",
-              "source_url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-02T23:57:24+08:00"
-            },
-            {
-              "title": "全球出台拯救自然新计划，但资金仍未到位",
-              "brief": "近200个国家的代表在亚美尼亚埃里温举行为期两周的联合国生物多样性COP17会议，评估2022年通过的《昆明-蒙特利尔全球生物多样性框架》进展。该框架目标是到2030年保护全球约三分之一的陆地和海洋。会议最终承认，由于资金不足和行动迟缓，目前保护速度过慢，2030年目标恐难实现。与会各方通过了一项名为“埃里温路径”的加速行动计划，内容包括减少对自然有害的补贴和激励措施、增加对发展中国家的资金、科学和技术支持，并强化监测与报告机制，为两年后在厄瓜多尔举行的下一届峰会做准备。前加拿大环境与气候变化部长吉尔博指出，资金仍是实现全球生物多样性目标的最大障碍之一。",
-              "source_url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-02T22:56:52+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌或对 Gemini 新界面改版产生动摇，考虑新增默认应答类型设置",
+              "brief": "上个月 Google 为 Gemini 推出了新界面，在主屏幕加入了“聊天”和“任务”按钮，用户每次使用时需自行选择偏好。然而 Google 可能已经在考虑改变这一设计。在 Google Android 应用 17.72.13.sa.arm64 版本中，发现了一项新的“应答类型”设置选项，允许用户将“任务”或“聊天”设为默认，无需每次进入应用时再作选择。此前 Google 曾长期权衡界面方案，先后考虑过“分配”按钮和“分配任务”菜单等选项，最终才推出聊天/任务双按钮设计。目前尚不清楚 Google 是否会推进这项改动，但一旦落实，将意味着界面设计上的一次突然转向。",
+              "source_url": "https://www.androidauthority.com/gemini-chat-tasks-default-3730786/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-03T03:00:39+08:00"
+            },
             {
               "title": "谷歌三款应用迎来全新图标设计",
               "brief": "谷歌正式宣布对 Google 联系人、Google 信息和 Phone by Google 三款应用进行图标更新，此次改版从此前曝光的 Messages 新图标开始推广。新图标采用渐变配色，设计更加简约，并调整了弧度，整体比之前更加圆润。谷歌表示，此次改版的目的是让图标在主屏幕上显得更清晰锐利。需要注意的是，此次更新仅涉及图标外观，三款应用的功能没有任何变化，用户体验保持不变。该更新现已开始推送，用户预计很快就能在手机上看到新图标。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/windows-11-search-android-app-actions-3730729/",
               "source_name": "Android Authority",
               "published_at": "2026-11-03T01:34:11+08:00"
-            },
-            {
-              "title": "亚马逊三星 77 英寸 S90H 4K OLED 电视直降 800 美元",
-              "brief": "三星 77 英寸 S90H 是一款 2026 年款大屏 4K OLED 电视，目前亚马逊售价降至 1997.99 美元，相比 2797.99 美元的建议零售价优惠 800 美元，折扣达 29%，创下历史最低价。该电视采用防眩光屏幕，搭载 Samsung Vision AI 和 Tizen/One UI 智能电视平台，内置流媒体应用和语音功能。游戏方面支持最高 4K 165Hz，具备 VRR、ALLM 和四个 HDMI 2.1 接口，HDR 支持 HDR10+ 和 HLG。音频为 2.1 声道 40W，支持杜比全景声，并兼容 Q-Symphony 与三星条形音箱配对。该产品在亚马逊获得 4.4 分的好评。",
-              "source_url": "https://www.androidauthority.com/samsung-77-inch-s90h-4k-oled-tv-deal-3730773/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-03T01:01:48+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "卡西欧新键盘凭Feel Sync技术让任何人弹奏都不出错音",
+              "brief": "卡西欧发布CT-FS1键盘，搭载全新Feel Sync技术。用户通过专属应用上传任意歌曲后，算法会分析歌曲内容并确保键盘始终处于正确调性，即使面对频繁变调的复杂歌曲也能奏效。该功能可拆分为两个区域，初学者在一端随意弹奏，熟练演奏者在另一端弹奏实际音符。它同时是标准键盘，配备61个触感响应琴键、带环绕效果的立体声扬声器和多种音色，支持耳机输出与蓝牙，可用AA电池或电源适配器供电，重量不到十磅，有纯黑与纯白两种配色，售价400美元。",
+              "source_url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-03T03:41:36+08:00"
+            },
+            {
+              "title": "AirPods发出啁啾声不只代表电量低",
+              "brief": "AirPods随机发出啁啾声，最常见的原因是电池电量低，可通过打开充电盒并在配对手机上查看电量来确认。其他原因还包括充电时电力波动或供电中断等电池问题，以及与配对设备的连接问题，例如iPhone蓝牙关闭时会发出提示音。此外，AirPods Pro 2和Pro 3支持临床级助听器功能，放在充电盒内时会周期性发出轻微提示音，以确保麦克风和扬声器保持最佳状态。当查找功能被触发时会发出更响亮持续的声音；若进水或被污垢堵塞，则可能产生刺耳的反馈噪音。",
+              "source_url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-03T03:30:00+08:00"
+            },
+            {
+              "title": "Snap就社交媒体成瘾诉讼达成和解，避免开庭审理",
+              "brief": "Snap与两名青少年就社交媒体成瘾诉讼达成和解，和解条款未公开。这两名青少年称使用Snapchat导致自残等心理健康问题，此前已与Meta、YouTube和TikTok达成和解。该案陪审团遴选已于上周开始，庭审原定本月举行，Snap CEO埃文·斯皮格尔原定出庭作证，这将是他在社交媒体成瘾诉讼中首次出庭。此案是针对社交平台的系列高知名度诉讼之一。今年早些时候类似案件中，陪审团裁定Meta和YouTube败诉并赔偿600万美元，而Snap和TikTok则在庭审前和解。",
+              "source_url": "https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-03T03:09:53+08:00"
+            },
+            {
+              "title": "为什么一些网站阻止AI代理访问网络",
+              "brief": "Meta的Muse等个人AI代理可以代替用户浏览网站、填写购物车和预订行程，但沃尔玛的验证检查阻挡了它，沃尔玛表示这些检查并非针对该助手。亚马逊则直接封锁该工具，禁止其在网站上购物。部分限制是网站刻意为之，也有来自无法可靠区分合法代理与恶意自动流量的安全系统。摩根大通CFO在财报电话会上表示，一些代理使用共享登录凭证和屏幕抓取方式转账，并不安全，银行会尽可能阻止这些方法，交出凭证的客户若代理执行意外操作，可能需自行承担责任。亚马逊还在与Perplexity就其Comet浏览器争执。",
+              "source_url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-03T03:00:00+08:00"
+            },
+            {
               "title": "把游戏主机放进柜子里前请三思",
               "brief": "将PS5或Xbox Series X等现代游戏主机塞进电视柜内看似整洁美观，实则可能损害主机性能甚至缩短使用寿命。文中指出，现代主机功耗远高于蓝光播放器等影音设备，标准PS5游戏时功耗可达220瓦，Xbox Series X也大致相当，而高端蓝光播放器仅约32瓦。主机依靠风扇排出热量、通风口吸入冷空气，密闭柜体会阻碍空气流通，导致过热。鉴于内存价格上涨已推高主机售价数百美元，因过热损坏主机的代价不菲，作者提醒玩家不要将主机放入封闭柜中。",
               "source_url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
               "source_name": "Engadget",
               "published_at": "2026-11-03T02:15:00+08:00"
-            },
-            {
-              "title": "据报道SpaceX考虑收购Boost Mobile或使用其移动网络",
-              "brief": "据《华盛顿邮报》报道，SpaceX近月来与Boost Mobile母公司EchoStar进行谈判，可能通过收购Boost Mobile或获得其蜂窝网络使用权的方式，推出自有无线服务，从而快速进军移动运营商行业。不过该交易存在重大障碍：Boost Mobile的网络租自AT&T和T-Mobile，SpaceX的服务需获得这些运营商的许可，而此前AT&T、T-Mobile和Verizon均已拒绝了马斯克的网络接入请求。去年SpaceX曾以26亿美元从EchoStar购入频谱牌照以增强Starlink的5G连接，并计划成为美国主要移动运营商。",
-              "source_url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-03T02:05:52+08:00"
-            },
-            {
-              "title": "三星Galaxy预装软件问题2026年依然存在，但可以轻松解决",
-              "brief": "作者从Google Pixel换购Galaxy S26 Ultra后发现，三星手机仍预装大量用户可能永远用不到的应用，即所谓“膨胀软件”，它们占用存储空间，有时还会推送通知打扰用户。这一问题由来已久，早在2013年Galaxy S4就因16GB版本仅剩约9.5GB可用空间受到批评。预装应用因机型、地区和运营商而异，可能包括三星自家应用以及Facebook、Instagram、LinkedIn、OneDrive和Spotify等第三方软件。所幸大多数不需要的应用只需几步操作即可删除或禁用，从而让应用列表更加清爽。",
-              "source_url": "https://www.engadget.com/2300355/samsung-galaxy-phones-bloatware-problem-easy-fix/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-03T01:45:00+08:00"
-            },
-            {
-              "title": "Gemini可能在查看你的邮件，教您如何关闭",
-              "brief": "谷歌今年在Gmail中推出了大量Gemini功能，包括语音指令、实时AI搜索、邮件摘要、待办清单和回复草稿等，付费用户还可使用AI校对等高级功能。其中许多免费功能默认开启，引发用户对隐私的担忧：邮件内容是否被用于训练谷歌的AI模型。文章指出，Gemini执行这些任务确实需要访问邮件内容，关键在于数据是否被用于其他用途。谷歌于2026年4月发布声明，说明其不会使用用户数据训练基础AI模型。文章同时介绍了用户如何检查和关闭相关设置，以保护自己的邮件隐私。",
-              "source_url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-03T01:15:00+08:00"
-            },
-            {
-              "title": "iPhone信息应用的一个烦人问题其实很容易解决",
-              "brief": "苹果的iMessage多年来不断演进，从可在偏远地区联系紧急联系人的卫星通信，到可自定义背景等美化功能。自iOS 18起，信息应用中默认内置了多款应用，到最新的iOS 27已有14款，涵盖发送位置、语音、贴纸、GIF、音乐、照片和投票等功能，ESPN和Venmo等应用进一步扩展了实用性。但许多用户不满应用排列：从未用过的应用出现在下拉菜单顶部，最常用的却排在底部。其实解决方法很简单，只需手动自定义菜单布局即可。具体操作是：先将iOS更新至最新版本，打开信息应用并进入任一对话或点击右下角的新建按钮，然后点击消息旁的加号按钮即可开始调整。",
-              "source_url": "https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-03T00:45:00+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "Xbox前首席运营官对突然离职表示“严重关切”",
-              "brief": "Xbox前首席运营官Helen Chiang在7月升任该职后不到两周突然离开微软，她在微软工作了21年。Xbox首席执行官Asha Sharma只发布了一份异常简短的备忘录。Chiang随后在领英发表长文，称自己受到的对待方式令她“严重关切”。她并未否认自己被解雇，但没有说明原因。此前Eurogamer报道称她因“违反政策被终止职务”，Chiang表示这“不准确”，并否认了有关她泄露机密信息或跳槽竞争对手的无据传言，显然离开Xbox的决定并非出自她本人。",
-              "source_url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+              "title": "谷歌安卓合作伙伴将130万台机顶盒变成僵尸网络",
+              "brief": "谷歌表示，其一家安卓制造合作伙伴深圳市视壮科技有限公司在130万台设备中秘密植入后门，将其变成僵尸网络。感染设备在用户不知情的情况下被用于广告欺诈、数据窃取和路由未授权网络流量等恶意活动。谷歌称该后门和僵尸网络是“为牟取经济利益而故意开发、部署和运营的”，视壮通过向犯罪附属机构出售访问权限并在受感染设备上加载其恶意软件模块来变现。谷歌目前已拆除后门并与该厂商“切断关系”，禁止其制造或销售经认证的安卓设备或为其提供软件。",
+              "source_url": "https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down",
               "source_name": "The Verge",
-              "published_at": "2026-11-02T13:43:24-05:00"
+              "published_at": "2026-11-02T15:37:49-05:00"
             },
             {
-              "title": "OpenAI推出数据中心电网保护计划以改善公众形象",
-              "brief": "随着美国公众对数据中心的反对情绪蔓延，OpenAI于周一宣布将在佐治亚州Effingham县建设中的数据中心试点“电网保护者计划”，承诺在极端天气或紧急情况下释放最多1000兆瓦电力，足以供应约70万户家庭的空调用电。该公司试图将“AI园区”包装为社区的保护者而非噪音污染源。此前犹他州居民曾抗议当地批准的数据中心项目，该项目预计耗电量将超过该州2025年峰值电力需求的两倍以上，且项目建设往往很少征求当地居民意见。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+              "title": "宝马2027年起推出城市驾驶辅助功能，对标特斯拉FSD",
+              "brief": "宝马宣布将于2027年起将其导航引导的部分自动驾驶能力扩展到城市环境，首先在德国推出，随后进入其他市场。该系统利用内置GPS导航，可在高速公路和城市街道上辅助转向、加速和减速。在城市驾驶时，它可协助变道、转弯、礼让其他车辆以及通过环岛。不过作为L2级驾驶辅助系统，驾驶员仍需保持注意力并随时接管车辆。宝马将通过软件更新为部分车型带来导航引导的城市驾驶功能，以此对标特斯拉FSD，同时L2级驾驶安全也面临日益严格的审查。",
+              "source_url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
               "source_name": "The Verge",
-              "published_at": "2026-11-02T13:01:30-05:00"
+              "published_at": "2026-11-02T15:03:52-05:00"
             },
             {
-              "title": "《纽约时报》等起诉Brave浏览器AI抓取内容并绕过付费墙",
-              "brief": "《纽约时报》及多家出版商对Brave浏览器开发商Brave Software提起诉讼，指控其非法抓取内容训练AI并让用户绕过付费墙。由运营《纽约每日新闻》《芝加哥论坛报》和《奥兰多哨兵报》的公司提交的诉状称，Brave通过向AI公司提供付费访问“Brave索引实时在线内容”的方式将其抓取网站索引商业化。AI公司随后利用该索引训练模型或回应特定用户查询。Brave据称向Anthropic、Perplexity、Mistral、xAI和Cohere等“许多”AI公司提供了“被盗的版权内容”。",
-              "source_url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+              "title": "苹果Watch Ultra 4降价100美元，追平历史最低价",
+              "brief": "苹果功能最强大的智能手表Apple Watch Ultra 4目前正在亚马逊多色版本促销，售价699.99美元，优惠100美元，追平历史最低价。该手表搭载与Series 12相同的全新S11芯片，性能较上一代更快，并加入多项新的Apple Intelligence功能，其中包括声音识别，可在检测到警报声、门铃声等声音时提醒用户，以及实时翻译等功能。它拥有所有Apple Watch中最长的电池续航和丰富的运动追踪功能。此外，绿联还推出足球造型的蓝牙追踪器FineTrack 2，电池寿命长达七年，也有不错的优惠价格。",
+              "source_url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
               "source_name": "The Verge",
-              "published_at": "2026-11-02T12:51:19-05:00"
+              "published_at": "2026-11-02T14:24:09-05:00"
             },
             {
-              "title": "苹果“Ultra”智能家居机器人或推迟至2028年发布",
-              "brief": "据The Information报道，苹果传闻中的智能家居机器人最早要到明年甚至2028年才能发布。报道称该机器人的硬件“大约两年前就已完成”，但软件尚未就绪。软件团队据称推动推迟发布，并“试图削减部分拟议功能，将产品聚焦于FaceTime相关能力和家庭自动化任务，例如开灯”等少数功能。该设备内部代号J595，前苹果员工预计它将沿用上月发布的新款HomeView智能显示屏命名为“HomeView Ultra”，但价格可能明显更高，约为1000美元。",
-              "source_url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+              "title": "福特承诺不向数据经纪商出售用户驾驶习惯数据",
+              "brief": "福特承诺绝不向第三方数据经纪商出售客户驾驶数据，作为一项新隐私承诺的一部分，旨在与那些因未经授权与数据经纪商共享车辆远程信息而面临法律和监管反击的竞争对手划清界限。此前通用汽车因类似行为达成了2.2亿美元的和解。作为新承诺的一部分，福特表示将通过聚合和匿名化技术保护客户数据，并将“提供清晰易懂的信息”，说明公司如何收集、使用和共享客户数据。此举试图在普遍存在数据追踪行为的汽车行业中树立差异化形象。",
+              "source_url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
               "source_name": "The Verge",
-              "published_at": "2026-11-02T12:06:10-05:00"
+              "published_at": "2026-11-02T14:05:46-05:00"
             },
             {
-              "title": "Squarespace 裁员 19%",
-              "brief": "建站平台 Squarespace 宣布裁员 19%，约涉及 300 名员工，公司目前员工总数约 1800 人。发言人杰夫·西德曼在给 The Verge 的声明中表示，此举旨在简化运营、明确优先事项，让公司在下一阶段增长中行动更快。他表示公司将感谢离职同事的贡献，并为其提供全面支持。受影响员工将获得 16 周基本工资补偿，医疗保险延续至 2027 年 5 月。此次裁员距离 Squarespace 2024 年大力推进 AI 战略仅两年多。",
-              "source_url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+              "title": "Anthropic限制Claude复刻现有电子游戏",
+              "brief": "据Tom's Hardware报道，Anthropic已更新Claude Code的系统提示词，防止这一AI工具被用于复刻现有电子游戏。当前复古游戏领域充斥着AI制作的反编译、重编译和移植版本。新增的提示词写道：“要构建原创游戏、同类型游戏以及用户自己设计和素材制作的游戏；不要复刻特定的现有游戏，即使资产是自制的。”Anthropic仍允许用户使用Claude Code制作游戏，但不希望被用于直接克隆现有作品，此举旨在引导Claude远离复刻特定游戏，同时保留用户创作原创游戏的能力。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
               "source_name": "The Verge",
-              "published_at": "2026-11-02T11:50:47-05:00"
+              "published_at": "2026-11-02T13:56:02-05:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "Gearbox邀请玩家参与塑造《无主之地》未来，称系列将迎来令人兴奋的整体方向",
+              "brief": "《无主之地4》刚刚结束第一年DLC内容，Gearbox在致玩家的一封信中宣布，明年还将推出更多内容，但具体内容尚未公布，每周活动刷新和社区挑战将继续进行。Gearbox表示，团队正持续倾听社区反馈，探索更多角色故事线以及系列未来的整体方向，并邀请玩家通过社交媒体和Gearbox Devcast节目表达想法，告诉官方希望与哪些角色共度更多时间、哪些故事值得延续。不过Gearbox也提醒玩家不要对《无主之地5》的新作消息抱太大期望，强调宏大计划需要时间，会在时机合适时公布更多信息。此次公告正值《无主之地》系列销量突破一亿套之际。此前曾有玩家质疑《无主之地4》的销量和玩家留存情况是否影响了Gearbox的计划。",
+              "source_url": "https://www.ign.com/articles/gearbox-calls-on-fans-to-help-shape-the-next-borderlands-teases-exciting-overall-direction-for-the-future-of-the-franchise",
+              "source_name": "IGN",
+              "published_at": "2026-11-03T02:31:12+08:00"
+            },
+            {
+              "title": "任天堂解释为何再次重制《塞尔达传说：时之笛》",
+              "brief": "在开发者问答系列首篇中，制作人青沼英二解释了团队为何决定为Switch 2重制游戏史上最受珍视的作品之一《塞尔达传说：时之笛》。此次重制是任天堂第二次重制该作，第一次是2011年为任天堂3DS推出的版本。青沼表示，今年恰逢初代《塞尔达传说》发售40周年，这促使他思考作为系列制作人应创作什么。他指出，如今许多团队成员只参与过较新作品的开发，可能并不真正理解《时之笛》对整个系列的重大意义。他认为，让这些成员重温原作故事并融入自己的诠释，学习原作的游戏结构和开发方式，将有助于未来《塞尔达传说》新作的开发。",
+              "source_url": "https://www.ign.com/articles/nintendo-explains-why-it-chose-to-do-another-the-legend-of-zelda-ocarina-of-time-remake",
+              "source_name": "IGN",
+              "published_at": "2026-11-03T02:26:43+08:00"
+            },
+            {
+              "title": "Steam硬件调查最新数据：AI热潮冲击下PC玩家转向低配主机",
+              "brief": "10月Steam硬件调查显示，PC玩家正因硬件涨价而趋于节俭。16GB内存配置以41.42%的占比上升3.6%登顶首位，32GB配置则下降5.16%至37.06%。显卡方面，RTX 3060以3.62%的占比重回榜首；CPU方面，8核心处理器份额下滑，4核心处理器上升1.57%至12.36%。过去一年几乎所有PC配件价格都在上涨，高端GPU已从零售商货架消失。三星财报显示，随着更多内存转向AI数据中心，内存危机明年只会更严重。内存危机也波及主机市场，PS5 Pro二手价格被炒至1399美元以上，还有传闻称下一代Xbox售价将达1800美元。",
+              "source_url": "https://www.ign.com/articles/latest-steam-hardware-survey-shows-just-how-hard-pc-gamers-have-been-hit-by-ai",
+              "source_name": "IGN",
+              "published_at": "2026-11-03T02:16:32+08:00"
+            },
+            {
+              "title": "2011年爆红恐怖片《失踪的梅根》推出续作剧集，可在Instagram免费观看",
+              "brief": "《失踪的梅根：恶魔不死》由原片导演迈克尔·戈伊自编自导，此前经戈伊、演员和网红分集低调发布，如今完整作品已在Instagram免费上线。戈伊表示，多年来一直有人请求他延续这个故事，此次续作让他得以利用竖屏格式拉近观众与恐怖内容的距离，让观众仿佛置身角色遭遇的骇人事件之中。原片2011年上映，讲述高中生梅根因网上结识陌生人而陷入噩梦的故事，以纪实录像、视频聊天和网络摄像头画面呈现，因题材黑暗和结局绝望而声名狼藉，2020年在TikTok走红，戈伊还曾就片中残酷画面发布公开警告。续集中，原主演蕾切尔·奎因和安珀·帕金斯以真实身份出演，受邀参加播客节目，却发现主持人另有险恶用心。全剧共36集，现可前往Instagram一口气观看。",
+              "source_url": "https://www.ign.com/articles/viral-2011-horror-hit-megan-is-missing-just-got-a-sequel-series-on-instagram",
+              "source_name": "IGN",
+              "published_at": "2026-11-03T02:15:25+08:00"
+            },
+            {
               "title": "任天堂公布《塞尔达传说：时之笛》重制版开发团队",
               "brief": "任天堂在“问开发者”问答系列中公布了Switch 2版《塞尔达传说：时之笛》重制版的幕后团队。此前有玩家猜测由《异度神剑》开发商Monolith Soft主导，但访谈确认该作实际由任天堂企划制作本部第三制作组负责。访谈第一章登场的是系列制作人青沼英二与资深导演藤林秀麿，后续还将介绍该组成员。这支团队几乎制作了过去30年间大多数塞尔达作品，老玩家不必担心经典被毁。重制版将于11月5日登陆Switch 2。",
               "source_url": "https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake",
               "source_name": "IGN",
               "published_at": "2026-11-03T01:11:37+08:00"
-            },
-            {
-              "title": "《魔兽世界：永恒》预载开启，全球同步上线时间公布",
-              "brief": "《魔兽世界：永恒》将采用全球同步发售，所有地区的玩家将于同一时间开始游戏，避免某一地区进度领先。官方上线时间为太平洋时间11月4日下午3点：洛杉矶15点、纽约18点、伦敦23点，北京、首尔、东京均为11月5日早上8点，墨尔本为上午10点。游戏现已开启预载，玩家打开Battle.net客户端，在游戏版本中选择WoW Forever并点击安装即可。按官方配置要求，游戏至少需要128GB存储空间，考虑到首日即有大量插件，建议预留150GB。",
-              "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-preload-and-global-release-times-confirmed",
-              "source_name": "IGN",
-              "published_at": "2026-11-03T00:36:47+08:00"
-            },
-            {
-              "title": "《时之笛》重制版箔面封面版亚马逊售罄，仍可在其他零售商预订",
-              "brief": "《塞尔达传说：时之笛》Switch 2重制版的纹理箔面封面实体版数量有限、售完即止，亚马逊已于周末售罄库存，补货将是普通封面版。目前Walmart、Best Buy、Target、GameStop和任天堂商店仍可预订箔面版，其中Walmart是唯一提供10美元预订折扣的零售商，售价59.88美元。箔面封面在转动时会产生闪光反射效果。任天堂还同步推出多款塞尔达主题主机和配件，大部分早已售罄，部分将于11月5日游戏发售日重新上架。游戏定于11月19日《GTA6》发售前推出。",
-              "source_url": "https://www.ign.com/articles/zelda-ocarina-of-time-remake-foil-cover-preorders-sold-out-amazon",
-              "source_name": "IGN",
-              "published_at": "2026-11-03T00:23:20+08:00"
-            },
-            {
-              "title": "白手起家百万富翁称买《GTA6》能省5000美元",
-              "brief": "以节俭生活视频闻名的百万富翁Mark Tilbury发布视频，以幽默方式算账称购买《GTA6》可省5000美元。他按99.99美元的终极版计算：80小时通关折合每小时1.25美元，加上支线和探索可降到50美分；若每晚玩4小时，可提供50晚娱乐，而外出一夜轻松花掉100美元，因此相当于省下5000美元。视频显然是玩笑而非理财建议，但也点出该作体量带来的性价比，据传发行商希望《GTA6》为游戏定价树立新标准。游戏将于11月19日发售。",
-              "source_url": "https://www.ign.com/articles/self-made-millionaire-says-buying-gta-6-saves-you-5000",
-              "source_name": "IGN",
-              "published_at": "2026-11-03T00:12:23+08:00"
-            },
-            {
-              "title": "《赛博朋克：边缘行者》第二季主创谈V是否登场与官方正史结局",
-              "brief": "《赛博朋克：边缘行者》第二季故事设定在《赛博朋克2077》主线一年后的2078年。在卢卡动漫节上，编剧兼制作人Bartosz Sztybor回应了玩家疑问：剧中数据档案墙上疑似女性V的图像属于开放解读，但该场景对话十分重要。他表示团队并不刻意加入游戏彩蛋，而是致力于打造可独立成立的赛博朋克系列故事，各部作品无需依赖其他内容即可获得完整体验。此外，续作《赛博朋克2》正在开发中，真人电影也在筹备，且不会重复游戏剧情。",
-              "source_url": "https://www.ign.com/articles/is-v-in-edgerunners-2-is-there-a-cyberpunk-2077-canon-ending-and-what-about-season-3-we-asked-the-showrunner-in-a-new-interview",
-              "source_name": "IGN",
-              "published_at": "2026-11-02T22:58:01+08:00"
             }
           ]
         },
