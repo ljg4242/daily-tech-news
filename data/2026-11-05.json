@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T20:54:49.753567+08:00",
+  "generated_at": "2026-11-05T22:55:07.404084+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果：Siri AI 等候名单仅在“高需求”时期使用",
+              "brief": "苹果已基本停止让用户加入等候名单来使用 Siri AI 助手。根据更新的苹果支持文档，用户选择启用后，Siri AI 将“自动开始下载”，等候名单仅在“高需求时期”启用，等待时间可能有所不同。此前的文档表示，启用该助手会“将你加入等候名单”。该文档于 11 月 2 日更新，可能是在苹果经过约两个月的服务器负载测试之后。Siri AI 于今年 9 月发布，目前仍处于测试阶段，覆盖 iPhone、iPad、Mac、Apple Watch 和 Vision Pro 等设备。",
+              "source_url": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-05T20:54:10+08:00"
+            },
             {
               "title": "苹果触屏 MacBook Pro 实机演示视频上线",
               "brief": "苹果邀请英国音乐人 Labrinth 于11月4日在洛杉矶 Apple Tower Theatre 门店进行通宵直播，从零创作一首新歌，展示新款触屏 MacBook Pro 和 Logic Pro。直播回放长达近四小时，画面中他直接触摸屏幕操作 Logic Pro 的混音控制和多轨编曲，观众可实时提问，成品歌曲下周将登陆 Apple Music。新款 MacBook Pro 配备 tandem OLED 触摸屏和 M5 Pro 或 M5 Max 芯片，有14英寸和16英寸两种尺寸，将于11月6日上市，美国起售价分别为2899美元和3399美元。",
@@ -35,19 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
               "source_name": "MacRumors",
               "published_at": "2026-11-05T18:32:51+08:00"
-            },
-            {
-              "title": "苹果明日起发售五款新产品",
-              "brief": "苹果将于 11 月 6 日星期五正式发售五款新产品，上周已开启预购，其中包括首批触屏 MacBook Pro 机型。这五款产品为：配备 OLED 屏幕和 A20 Pro 芯片的 iPad mini、搭载 M6 芯片的 iMac、M6 芯片 14 英寸 MacBook Pro、14 英寸 OLED 触屏 MacBook Pro 以及 16 英寸 OLED 触屏 MacBook Pro。售价方面，iPad mini 起售价 699 美元，iMac 起售价 1499 美元，M6 MacBook Pro 起售价 1999 美元，OLED 触屏版 MacBook Pro 的 14 英寸机型起售价 2899 美元，16 英寸机型起售价 3399 美元。五款产品目前仍可预购，多数可在发售日送达，唯一例外是基础款 14 英寸触屏 MacBook Pro：深空黑色需 3 至 4 周发货，银色需 7 至 10 个工作日发货。",
-              "source_url": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-05T16:59:09+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "搭载 PROLED XDR 显示屏的 MacBook Pro 评测：远不止触控",
+              "brief": "苹果发布了采用 PROLED XDR 显示屏的新款 MacBook Pro，评测称其最大亮点是显著减重并加入触控功能，苹果标志重新发光。2016 年苹果推出轻薄化设计，却因蝶式键盘、散热不佳和重外观轻功能而饱受诟病。2021 年的重新设计恢复了接口、以实体功能键取代 Touch Bar，并借助 Apple Silicon 大幅提升性能，但机身更大更重。如今新款在保留 2021 设计优点的同时大幅减重：14 英寸机型从 3.5 磅降至 3.0 磅，16 英寸机型从 4.7 磅降至 4.0 磅，与 2016 款重量相当，且机身更薄，没有当年一代的种种妥协。",
+              "source_url": "https://9to5mac.com/2026/11/05/macbook-pro-with-proled-xdr-display-touch-review/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-05T22:00:09+08:00"
+            },
+            {
+              "title": "借助 Claude Code 移植，任天堂 Switch 游戏可在 Apple TV 上原生运行",
+              "brief": "一位 Redditor 利用 Claude Code 开发了开源项目 TVport，可将 Switch 和 Switch 2 的游戏转储重新编译到 Apple TV 上原生运行。目前已测试三款游戏：《超级马里奥：奥德赛》可跑 60FPS，偶有轻微卡顿和水边音效问题；《动物森友会》稳定 30FPS，无问题；《塞尔达传说：王国之泪》仍在开发中，30FPS 但存在热节流，作者通过 75% 渲染缩放缓解，并计划加入 MetalFX 升采样。移植需逐游戏适配，部分游戏需配备 8GB 内存的第四代 Apple TV。另有用户正通过 Nativecade 将 N64 游戏移植到 Apple TV。",
+              "source_url": "https://9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-05T21:07:49+08:00"
+            },
             {
               "title": "代码显示 HomeView 将支持第三方 AI 聊天机器人",
               "brief": "泄露者 pdfu 本月初发现 HomeView 中存在一个未使用的 ConversationalApps 标志，指出 ChatGPT、Claude 等应用可能会登陆该平台，如今其表示 iOS 26.3 测试版证实了这一猜测。HomeView 的 CarPlay 桥接应用 PebblePlay 在 iOS 27.3 中新增了对话应用类别，同时更新还加入了双向音频路由、会话管理及打断机制的基础支持，但功能尚未完全接通。苹果使用这些标志来决定允许哪些类别的第三方应用在设备上运行，方式与 CarPlay 相同。同一位泄露者近期还发现证据显示 HomeView 将可作为 HomeKit 安防摄像头使用。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-05T10:00:00+08:00"
-            },
-            {
-              "title": "苹果新功能：用户取消订阅时开发者可提供折扣挽留",
-              "brief": "苹果在今年的WWDC上发布了留存消息功能，允许开发者在用户尝试取消订阅时展示个性化信息和特别优惠。目前该功能已在开发者博客确认上线，消息可包含文字、图片或特别优惠，并在取消流程中出现。与2024年推出的“回归优惠”不同，新功能可在用户完成取消之前触达订阅者，而非在其取消或订阅过期之后。开发者可在App Store Connect中配置自动续订订阅的留存消息，包括订阅者资格条件和消息间隔时间，并通过留存消息API根据订阅详情选择展示内容。每个应用最多可创建10条留存消息，API访问需申请。",
-              "source_url": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-05T08:17:49+08:00"
-            },
-            {
-              "title": "报告：智能手机芯片出货量下滑21%，苹果三星逆势增长",
-              "brief": "Counterpoint Research最新报告显示，受内存成本上升和智能手机需求放缓影响，全球智能手机芯片市场出货量同比下滑21%。第三季度，苹果仍居芯片厂商第三位，市场份额从去年同期的17%升至21%；联发科以28%的份额继续领先，同比下滑6个百分点；高通以22%位列第二；紫光展锐第四，份额为13%；三星第五，份额从6%升至8%。分析师指出，2026年9月有三款基于台积电2纳米工艺的旗舰芯片发布，包括苹果A20系列、联发科天玑9600 Pro和高通骁龙8 Elite Gen 6系列，预计将提振第四季度高端芯片出货。",
-              "source_url": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-05T07:59:10+08:00"
             }
           ]
         },
@@ -89,45 +89,66 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "摩托罗拉 Signature 27 获得 Pixel 的 Gemini 智能功能",
+              "brief": "摩托罗拉 Signature 27 将全面支持谷歌的 Gemini 智能功能，成为 Pixel 之外首家完整引入这些特性的品牌。支持的功能包括 Create My Widget、Gboard Rambler、Gboard 手语转文字以及 Gemini 任务自动化。其中 Create My Widget 允许用户向 Gemini 描述想要的组件功能，由 AI 生成可用的桌面组件，该功能此前仅限 Pixel 且尚未上线。Gboard Rambler 可整理冗长的语音输入，去除填充词并添加格式；手语转文字则通过视频将美式手语翻译成英文文本。Gemini 任务自动化可通过 Uber、DoorDash 等应用在后台执行任务。该机 11 月 19 日发售，美国售价 1599 美元，现已开启预购。",
+              "source_url": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-05T21:15:00+08:00"
+            },
+            {
+              "title": "Moto Buds Ultra 27 与 Watch Fit 27 完善摩托罗拉高端生态",
+              "brief": "摩托罗拉发布了 Moto Buds Ultra 27 耳机和 Moto Watch Fit 27 手表，完善其高端生态系统。Buds Ultra 27 被称为功能最丰富的耳机，配备 Bose 品牌降噪和 SoundDesign 调音，内置六个高信噪比麦克风，其中两个专用于语音拾取，兼顾音质与内容创作。单次充电可连续播放约 8 小时，充电盒额外提供 37 小时续航。耳机支持 AI 实时翻译、头部手势、双设备连接、音频共享、佩戴检测自动暂停、IP57 防护及 Find Hub 查找，采用 11mm 动圈单元，将推出深蓝和灰色两种配色。Watch Fit 27 主打日常健康监测，搭载 Polar 健康引擎，续航接近两周，具备 IP68 和 5ATM 防护。",
+              "source_url": "https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-05T21:05:00+08:00"
+            },
+            {
+              "title": "摩托罗拉 Signature 27 正式发布：真旗舰配置，售价 1599 美元",
+              "brief": "摩托罗拉 Signature 27 正式发布，配置在美国市场几乎无出其右。该机搭载骁龙 8 Elite Extreme Gen 6 处理器，配备 6.8 英寸 Tandem OLED 屏幕，分辨率为 2772×1272，支持 120Hz 刷新率和 12000 尼特峰值亮度，机身厚度 7.99 毫米，重 227 克。拥有 12GB 内存和 512GB UFS 4.1 存储，内置 7000mAh 硅碳电池，支持 90W 有线和 50W 无线充电。后置 50MP 主摄、50MP 超广角和 200MP 三倍长焦，前置 50MP 镜头，具备 IP68/IP69 防护。出厂预装 Android 17，承诺提供 7 年系统与安全更新，还兼容 GrapheneOS，扬声器由 Bang & Olufsen 调音。",
+              "source_url": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-05T21:00:00+08:00"
+            },
+            {
+              "title": "谷歌 AI 搜索调整令学校陷入困境",
+              "brief": "美国学区对谷歌技术高度依赖，几乎所有学区都为学生采购 Chromebook，因其价格低廉、支持零接触注册，且 Google Classroom 易用、ChromeOS 兼容多数网络教育平台。但这种依赖也意味着学区须遵守谷歌多变的服务条款，尤其是 AI 功能在产品中的不断扩张。据《纽约时报》报道，谷歌调整学校版搜索体验，要求用户选择启用 Gemini、Gemini Notebook、课堂版 Gemini 以及 AI Overviews。谷歌的理由是搜索与 AI 已深度整合，禁用一个即等于禁用另一个。替代 AI Overviews 的“引导学习”功能以分步讲解取代直接给出答案。前 FTC 主席莉娜·汗对此提出批评，指责谷歌利用搜索垄断牟利。",
+              "source_url": "https://9to5google.com/2026/11/05/googles-ai-search-fumbles-leave-schools-in-the-lurch/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-05T20:00:00+08:00"
+            },
+            {
               "title": "安卓应用周中特惠与免费领取：Potion Permit、Despotism 3k 等",
               "brief": "本期 Google Play 特惠汇集多款降价与限时免费应用，包括免费的 EcoJar: Fish Tank Simulator、Slime Legends、APHELION SPACE SHOOTER RPG 和 Zachtronics Solitaire 等。付费折扣方面，《波西亚时光》类游戏 Potion Permit 降至 2 美元（原价 6.5 美元），Despotism 3k 降至 0.75 美元，Hero of the Kingdom: Tales 2 降至 1.25 美元，此外还有三国策略、逃生合集、扑克游戏等优惠。同期硬件促销包括 Google Home Speaker 史上最低价、Pixel 11 系列最高立减 350 美元、Pixel Watch 5 全系减 100 美元，以及 Galaxy Z Fold 8 减 300 美元并赠送 200 美元商店积分。",
               "source_url": "https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/",
               "source_name": "9to5Google",
               "published_at": "2026-11-05T03:46:32+08:00"
-            },
-            {
-              "title": "RevenueCat Shipaton 2026 大赛 20 个一等奖应用揭晓",
-              "brief": "RevenueCat 一年一度的应用开发大赛 Shipaton 2026 共收到 3985 个项目提交，涵盖 20 个一等奖类别。开发者们着手解决日常烦恼、制作创意游戏并探索人与人连接的新方式。大奖得主 Mio 将自我关怀和习惯追踪与像素伙伴结合，伙伴会随用户进步而成长，用户可完成任务赚取金币并解锁新角色和收藏品，好友和群组功能增添了社交动力，评审特别强调其在拥挤的习惯追踪市场中的收入与增长表现。Boop 通过识别猫狗并将照片制成贴纸收集进数字图鉴，凭借线下推广获得 #BuildInPublic 组第一名。霓虹风格竞速游戏 Nitelore 以悬浮载具、霓虹赛道和出色美术效果获最佳游戏大奖。",
-              "source_url": "https://9to5google.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-05T02:53:22+08:00"
-            },
-            {
-              "title": "亨利·卡维尔打造16比特游戏《胡子协议》助力公益",
-              "brief": "亨利·卡维尔在HP Googlebook 14上利用Google Antigravity等AI工具，将自然语言提示转化为可运行的16比特游戏机制，打造出一款名为《胡子协议》的游戏。游戏讲述阻止 rogue CGI 艺术家抹去全球所有胡子的故事。卡维尔使用Rambler整理思路，借助Magic Pointer调整视觉设计，并通过Continue On功能在Android手机与Googlebook之间无缝切换。游戏尚未上线，正式推出后，Google将在11月为每次游玩捐赠11美元，与Movember合作，最多捐赠50万美元，用于支持男性心理健康、自杀预防、前列腺癌和睾丸癌等公益项目。",
-              "source_url": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-05T02:45:02+08:00"
-            },
-            {
-              "title": "谷歌智能家居产品成节日送礼佳选 百思买促销中",
-              "brief": "谷歌推荐其智能家居产品作为节日礼物，认为多设备协同才能让Google Home生态系统真正发挥价值。例如，可从第四代Nest学习恒温器入手，轻松控制冷暖并节省开支；再搭配内置Gemini的Google Home Speaker，获得更强的家居环境控制能力；还可添加Nest室内外摄像头或门铃，带 floodlight 的摄像头版实用性更高。随着Gemini for Home功能推出，用户可在Google Home应用中获得更智能的提醒和通知。目前Google Home Speaker在百思买降至79.99美元，优惠20美元，为历史最低价，提供Berry、Jade、Porcelain和Hazel等多种配色，是理想的智能家居入门礼物。",
-              "source_url": "https://9to5google.com/2026/11/04/google-smart-home-products-make-great-gifts/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-05T02:30:00+08:00"
-            },
-            {
-              "title": "微型安卓手机Enough Phone计划2027年5月上市",
-              "brief": "SLEKE公司宣布推出名为Enough Phone的小型安卓手机，尺寸与iPhone 13 Mini相近，计划2027年5月上市，售价599美元。该机配备5.3英寸1520×720 LCD屏幕，搭载联发科天玑7500芯片、8GB内存和128GB存储，可选原生Android或极简风格的OdysseyOS系统，出厂运行Android 17，更新支持至2032年。机身尺寸为132.8×63.8×12毫米，电池容量3500至4000毫安时且可由用户自行更换，配备电源键指纹传感器、5000万像素索尼IMX766主摄和3200万像素前摄。目前该项目在Kickstarter众筹，早鸟价399、449和499美元。",
-              "source_url": "https://9to5google.com/2026/11/04/enough-phone-small-android-phone-2027/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-05T02:00:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "摩托罗拉新旗舰 Signature 27 配置全面但售价高达1600美元",
+              "brief": "摩托罗拉推出非折叠旗舰手机 Signature 27，以填补其美国产品线的空白，但定价已接近该公司昂贵的平板式折叠手机。这款手机配备高通目前最强的骁龙8 Elite Extreme Gen 6芯片、12GB内存、512GB UFS 4.1存储，以及超高亮度OLED屏幕和大量摄像头。机身采用金属、陶瓷和玻璃，背面为纹理聚碳酸酯材质，提供煤烟黑和卡普莱特橄榄绿两种配色，前者采用受汽车设计启发的战术编织纹理，后者为织物风格。该机将于本月晚些时候上市，售价1600美元。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-05T21:00:56+08:00"
+            },
+            {
+              "title": "Agility Robotics登陆纳斯达克，人形机器人市场受到审视",
+              "brief": "总部位于俄勒冈州塞勒姆的Agility Robotics于11月5日在纳斯达克上市，成为美国首家公开上市的专业人形机器人开发商。该公司曾在2024年率先实现人形机器人在客户仓库的全天候商业部署。其在证券备案文件中坦承，人形机器人在规模化应用上尚未得到验证，也未实现广泛商业化。Agility联合创始人兼首席机器人官乔纳森·赫斯特表示，公司计划通过出租或出售人形机器人开展业务，机器人即服务模式可让客户第一天就获得投资回报，因为收费与人力成本相当。该公司已在GXO物流公司等多个客户仓库部署Digit人形机器人。",
+              "source_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-05T20:00:41+08:00"
+            },
+            {
+              "title": "2026款iPad mini评测：小尺寸平板的极致发挥",
+              "brief": "2026款iPad mini比以往更具竞争力，但价格也更贵。其最大变化是屏幕：从此前8.3英寸IPS屏升级为8.5英寸OLED屏，尺寸增加0.2英寸，虽看似不多，但对这么小的平板影响显著。更大的屏幕不仅改善照片、视频和长文档的观看体验，也让多窗口操作更从容，有更多空间查看和调整窗口大小与位置。新款还采用当前一代芯片，扬声器也有所改进。边框相比上一代收窄，使屏幕更大。不过，其价格仅比更大、性能更强的11英寸iPad Air低50美元，性价比仍有争议。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-05T20:00:01+08:00"
+            },
             {
               "title": "梅赛德斯-AMG GT四门轿跑车首试：科技与驾驶乐趣的交汇",
               "brief": "梅赛德斯-AMG GT四门轿跑车在发布时曾引发众多争议，但实际驾驶体验证明了它的实力。作为首款完全由电池驱动的AMG车型，它在技术上取得成功，无论赛道还是街道都表现出色。电动车面临的核心难题是电池重量影响灵活操控，而梅赛德斯凭借AMG.EA跑车专用架构和三台轴向磁通电机，通过持续调整动力分配，基本化解了电池重量带来的性能负担。经过两天试驾，这款车在公路和赛道上均表现稳健，展现了AMG的性能精神。",
@@ -141,33 +162,26 @@
               "source_url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-05T06:47:51+08:00"
-            },
-            {
-              "title": "黑客利用已修补的iOS和Android漏洞感染手机",
-              "brief": "研究人员周三表示，疑似与克里姆林宫有关联的黑客利用早已修补的iOS和Android漏洞，试图入侵多个网站的访客设备，其中包括庆祝美国独立250周年的组织网站。安全公司Sekoia以“中到高置信度”评估攻击者隶属于俄罗斯对外情报局，目标网站多与俄乌战争有关。攻击始于iPhone或Android用户访问这些网站，注入的JavaScript会对设备进行画像，随后投放定制载荷，窃取浏览器Cookie，部分情况下还窃取Wi-Fi密码和完整的移动设备数据。攻击者注册了america250[.]holiday等仿冒域名作为反向代理，并在真实网页内容中插入恶意代码，可能借国家庆典为幌子发动钓鱼攻击。",
-              "source_url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-05T06:26:49+08:00"
-            },
-            {
-              "title": "铀立方体揭示德国核计划失败的原因",
-              "brief": "二战期间，曼哈顿计划的物理学家曾担心纳粹德国率先造出原子弹。历史学家一直争论德国最后一次建造反应堆——B8装置——距离达到临界状态有多近。该项目领导者海森堡声称他们只差一点铀就能成功。但发表在《美国国家科学院院刊Nexus》上的一项新研究指出，事实并非如此：以他们采用的设计，该项目根本不具备足够的铀和重水来建造可用的核装置。研究始于2013年，马里兰大学物理学家蒂莫西·科斯收到一块神秘金属立方体，认出它是德国科学家建造反应堆失败时使用的664个铀立方体之一，如今已知仅存14个。研究者的计算表明，海森堡显著低估了所需材料的数量。",
-              "source_url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-05T05:56:29+08:00"
-            },
-            {
-              "title": "VMware 推出面向低端虚拟化的 vSphere Express，支持最多 128 核",
-              "brief": "在流失众多中小型企业客户后，博通的 VMware 试图重新吸引小客户，发布了低端虚拟化产品 vSphere Express。此前许多客户抱怨 VMware 强推功能冗余且昂贵的 VMware Cloud Foundation，甚至称已买不到入门级 vSphere Standard。据 IT 分销商 TD Synnex 列价，vSphere Express 按核心订阅计费，支持最多 128 核，年费 9600 美元，价格不会因核心减少而降低。该产品包含 vMotion 实时迁移和高可用性等基础功能，但只支持独立实例，无法集中管理。",
-              "source_url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-05T05:38:49+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "亚马逊将华硕ROG Tessen游戏手柄降价至64.99美元，创历史最低价",
+              "brief": "华硕ROG Tessen手机游戏手柄目前在亚马逊降价至64.99美元，相比129.99美元的建议零售价直降65美元，折扣达50%，是该产品有史以来的最低价格。这款手柄专为安卓手机设计，采用有线USB-C连接，旨在比无线方案提供更低延迟，适合射击游戏、云游戏等对操作响应要求较高的场景。其最大亮点之一是可折叠设计，不用时便于收纳携带。手柄还配备可编程背部按键、类机械手感按钮和方向键、RGB灯光，并支持边玩边快充的直通充电，另有加长人体工学握把，适合长时间游戏。原价属于高端配件定位，此次半价促销对想提升安卓手机操控体验的用户颇具吸引力。",
+              "source_url": "https://www.androidauthority.com/asus-rog-tessen-deal-3732054/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-05T22:36:15+08:00"
+            },
+            {
+              "title": "摩托罗拉Signature 27发布：7000mAh大电池配七年系统更新，售价1600美元",
+              "brief": "摩托罗拉正式发布旗舰手机Signature 27，搭载骁龙8 Elite Extreme Gen 6处理器，配备2亿像素潜望式长焦相机和专用EVS动作传感器。手机内置7000mAh大电池，支持90W有线充电，采用6.8英寸AMOLED屏幕，并提供七年安卓系统更新。机身提供Coal Smoke和Capulet Olive两种Pantone配色，采用纤薄铝制边框和弧形边缘设计，配备金刚石陶瓷玻璃3防护，达到IP68和IP69防尘防水等级。散热方面升级了ArcticMesh冷却系统，热腔体积增大40%，并使用钻石导热凝胶。该机售价1600美元，上市初期仅在美国独家销售，11月19日开始预购，11月26日正式开售。",
+              "source_url": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-05T21:00:41+08:00"
+            },
             {
               "title": "GrapheneOS 为 Pixel 10 系列带来 Linux 6.18 内核，Pixel 11 支持在望",
               "brief": "GrapheneOS 已为 Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL 和 Pixel 10 Pro Fold 四款机型推送 Linux 6.18 内核升级，随 2026110200 版本在稳定通道发布。团队表示目前更新进展顺利，尚无用户报告问题。此次升级领先于谷歌原生系统，后者在这些设备上仍使用较旧的 Linux 6.6 内核。此外，GrapheneOS 尚未支持 Pixel 11 系列的原因是缺少内存标记扩展（MTE）支持，但团队预计 Android 17 QPR2 将提供所需的固件支持，届时即可为 Pixel 11 带来官方支持。",
@@ -188,20 +202,6 @@
               "source_url": "https://www.androidauthority.com/malisx2-vulkan-driver-mediatek-dolphin-hakux-emulators-3731982/",
               "source_name": "Android Authority",
               "published_at": "2026-11-05T20:14:38+08:00"
-            },
-            {
-              "title": "硅碳电池带来大容量，但充电速度变慢成代价",
-              "brief": "硅碳电池技术是近年智能手机硬件的重大变革，通过在传统锂离子电池中加入硅碳材料，厂商可在不显著增加体积的情况下大幅提升容量。过去十年电池容量上限长期停留在 5000mAh，如今已快速跃升至 7000mAh、8000mAh 甚至 10000mAh，续航轻松达到两天，轻度使用可接近第三天。然而大容量电池也带来充电问题：硅碳电池的普及伴随着单位毫安时充电速度的整体下降。以 OPPO Find X 系列为例，其最新 Find X10 Pro Max 部分地区版本配备 8000mAh 电池，但 SuperVOOC 充电器每分钟充入的毫安时明显减少。",
-              "source_url": "https://www.androidauthority.com/si-c-battery-trade-offs-3730668/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-05T19:30:46+08:00"
-            },
-            {
-              "title": "Google Play 迎来首个官方授权第三方应用商店 Aptoide Games",
-              "brief": "第三方应用商店一直是 Android 生态的一部分，但过去用户需要侧载等额外操作。如今 Google Play 首次正式上架第三方商店 Aptoide Games。这一转变源于 Epic Games 多年来对苹果和谷歌应用商店垄断的法律诉讼，以及欧盟《数字市场法》等反垄断法规的要求。作者体验后发现安装过程非常简单，与安装普通游戏无异，通过搜索即可找到，点击安装不到一分钟即可使用。商店界面布局与 Google Play 相似，底部设有不同分区的快捷入口，作者对其未来发展持乐观态度。",
-              "source_url": "https://www.androidauthority.com/google-play-third-party-store-hands-on-3728227/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-05T19:00:11+08:00"
             }
           ]
         },
@@ -209,39 +209,39 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "OpenAI 承诺保护本地资源并公布数据中心影响",
-              "brief": "OpenAI 在美国中期选举中民众大规模投票反对数据中心建设之后，发布了《全国社区契约》和《算力园区政策蓝图》，详细说明未来数据中心将给社区带来什么，并提议赋予社区发言权、避免新成本转嫁。OpenAI 再次承诺不让数据中心运营影响周边社区电价，将全额承担用电成本及电力供应商为服务其设施所需的基础设施建设与升级费用。公司还承诺保护本地资源，为建设地社区制定用水计划，优先采用闭环或低水耗冷却系统，使水在密封回路中循环散热而无需消耗。此外，OpenAI 将公布每个站点的水电使用情况，不与公职人员签署保密协议，并为当地工人和企业创造就业机会。",
-              "source_url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
+              "title": "2027款雪佛兰Silverado 1500首试：大屏幕遇上大V8",
+              "brief": "雪佛兰推出2027款Silverado 1500皮卡，在燃油价格上涨、小排量引擎盛行的背景下反其道而行，配备两款排量更大的V8引擎：新的5.7升V8输出402马力和428磅-英尺扭矩，取代原有5.3升；新的6.6升V8则提供481马力和501磅-英尺扭矩，动力和拖挂能力更强，但油耗也更高。座舱方面变化更大，基于安卓的全新信息娱乐系统横贯整个仪表台，最多支持三块屏幕加抬头显示，同时兼容Android Auto和Apple CarPlay，还配备可折叠工作台、5G联网、脱手驾驶辅助及拖挂摄像套件。作者在亚利桑那州图森试驾多辆车后认为，这款车尚需打磨才能成熟。",
+              "source_url": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
               "source_name": "Engadget",
-              "published_at": "2026-11-05T20:37:38+08:00"
+              "published_at": "2026-11-05T22:00:00+08:00"
             },
             {
-              "title": "亚马逊与 Uber Eats 合作推出新的 Prime 权益",
-              "brief": "亚马逊为 Prime 会员新增一项权益：美国用户现在可以直接在 Amazon.com 网站和 Amazon Shopping 应用中下单 Uber Eats 外卖。此次与 Uber 的合作还允许 Prime 会员通过亚马逊平台下单金额满 25 美元的 Uber Eats 订单时免配送费，并获得仅在亚马逊提供的 Prime 专属优惠。下单无需单独的 Uber 账户，该整合服务将覆盖美国近 1 万个城市和城镇。根据亚马逊发布的消息，这一 Uber Eats 整合每年最多可为 Prime 用户节省 175 美元，具体金额取决于用户点外卖的频率。此前亚马逊自 2022 年起向 Prime 会员赠送一年 GrubHub+ 会员，该包含免配送费等权益的订阅计划于 2024 年成为 Prime 的永久福利。",
-              "source_url": "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/",
+              "title": "苹果iMac M6评测：更快、更贵，急需一次重新设计",
+              "brief": "苹果推出搭载M6芯片的新款iMac一体机，性能较前代提升，起步价1499美元，比之前贵200美元。评测机型采用淡蓝色外观，配备12核CPU、12核GPU和16GB内存。M6芯片在基础和高端型号上均增加两个核心，高端版提供12核CPU和12核GPU，此前两者均为10核；内存带宽最高提升至170GB/s，高于之前的120GB/s，并搭载苹果最新的N1无线芯片。不过其设计自2021年M1版iMac以来未曾改变，已显陈旧，24英寸屏幕在27和32英寸显示器成为主流的当下显得偏小。评测给出8.5分，认为多数买家选择Mac mini配外接大屏更划算。",
+              "source_url": "https://www.engadget.com/2307246/apple-imac-m6-review/",
               "source_name": "Engadget",
-              "published_at": "2026-11-05T19:00:00+08:00"
+              "published_at": "2026-11-05T22:00:00+08:00"
             },
             {
-              "title": "任天堂上调价格后 Switch 2 销量下滑近 40%",
-              "brief": "任天堂公布的财报显示，截至 9 月 30 日的财年上半年，Switch 2 销量同比下降 37.4%。公司六个月内共售出 649 万台，其中第一季度 382 万台、第二季度 267 万台，而上一财年同期售出 1036 万台。财报涵盖的六个月周期始于今年 4 月，任天堂于 5 月初宣布因内存成本上升和美国关税，将美国市场 Switch 2 价格上调 50 美元至 500 美元。尽管主机销量下滑，得益于强劲的软件销售和最新超级马里奥电影的成功，任天堂净利润同比增长 11%。公司维持本财年 1650 万台 Switch 2 的销售预期，该目标比去年的 1986 万台低近 17%，表明任天堂已预料到销量下降并将主机首发热度因素计入其中。",
-              "source_url": "https://www.engadget.com/2307555/switch-2-sales-fell-by-almost-40-percent-nintendo-increased-prices/",
+              "title": "搭载PROLED XDR屏幕的MacBook Pro评测：更轻更亮，但触屏意义不大",
+              "brief": "苹果新款触屏MacBook Pro官方名称为MacBook Pro with PROLED XDR Display，实际上是一次全面重新设计。两款机型更薄更轻：14英寸机型重量从3.7磅降至3磅，16英寸机型从4.7磅降至4磅，并首次采用OLED屏幕，色彩表现出色。但价格也显著上涨：14英寸起价2899美元，比标准版贵900美元；16英寸PROLED版3399美元，贵400美元。在内存和存储因AI需求而推高电脑价格之际，苹果推出其史上最贵的笔记本显得反常。评测给出8.8分，优点包括出色的OLED触屏、更薄的机身、更好的扬声器和丰富接口，缺点是价格昂贵且触屏实用价值有限。",
+              "source_url": "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/",
               "source_name": "Engadget",
-              "published_at": "2026-11-05T18:44:43+08:00"
+              "published_at": "2026-11-05T22:00:00+08:00"
             },
             {
-              "title": "索尼PS5游戏销量增长，但主机仍供不应求",
-              "brief": "尽管内存涨价危机和关税使PS5主机价格昂贵且难以购买，索尼游戏业务本季度表现稳健。2026财年第二季度PS5主机销量为260万台，低于去年同期的400万台，但游戏销量和PlayStation网络服务收入上升，推动营收同比增长9%，利润大增83%。本季度游戏总销量同比增加980万份，数字下载占完整版游戏销售的78%。软件销售额达7085亿日元，网络服务收入增长19.5%至2183亿日元。《漫威金刚狼》发售约50天销量达240万份。PS5总销量已达9790万台，即将突破1亿，但《GTA6》临近发售，供应问题或更严峻。",
-              "source_url": "https://www.engadget.com/2307531/sony-earnings-report-2026-selling-more-ps5-games-console-demand/",
+              "title": "MacBook Pro M6评测：小幅升级，但依然是最亲民的MacBook Pro",
+              "brief": "新款M6版MacBook Pro在外观设计上延续多年来的经典形态，主要升级在于芯片。M6为12核CPU、12核GPU的片上系统，略强于去年的10核CPU、10核GPU的M5。CPU由两个超级核心、四个性能核心和六个效率核心组成，分别应对单线程、重度多线程和后台任务。M6还首次配备双16核神经引擎，苹果称其AI任务速度较M5提升一倍。评测给出9分，赞扬其机身、M6芯片、出色的Liquid Retina屏幕和丰富接口，缺点是价格比以前更贵且设计无重大变化。1999美元的起步价使其成为不愿为OLED触屏多付900美元用户的务实之选。",
+              "source_url": "https://www.engadget.com/2307614/apple-macbook-pro-m6-review/",
               "source_name": "Engadget",
-              "published_at": "2026-11-05T17:25:11+08:00"
+              "published_at": "2026-11-05T22:00:00+08:00"
             },
             {
-              "title": "Snap 订阅用户超 3000 万，覆盖 Snapchat+ 等多项付费计划",
-              "brief": "Snap 宣布其付费订阅用户总数已超过 3000 万，涵盖 Snapchat+、无广告的 Platinum 计划等多项订阅服务。公司披露，2026 年第三季度非广告的“其他”收入同比增长 84%。Snap 于 2022 年推出 Snapchat+，提供查看谁重看了你的 Story 等附加功能，此后陆续推出 AI 增强现实特效订阅 Lens+、去广告的 Platinum 以及 Memories 功能的付费存储。虽然未公布各计划的具体用户分布，但公司指出 Lens+ 自 2026 年 1 月以来增长近 600%。CEO Evan Spiegel 表示，AI 功能推动 Lens+ 超出预期。相比之下，X 此前公布其付费订阅用户约为 630 万。Snap 广告收入增速低于预期，日活跃用户仅新增 200 万，公司将从 2027 年起改为按月活跃用户 reporting，目前 Snapchat 月活跃用户为 9.77 亿。",
-              "source_url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+              "title": "Spotify即将登陆美联航座椅靠背屏幕",
+              "brief": "Spotify与美联航达成合作，配备星链卫星互联网的联合航空客机，其座椅靠背屏幕将可完整访问Spotify的曲库、个性化主页和播放列表，涵盖音乐、播客和有声书。使用时需将手机连接美联航机上Wi-Fi并扫描座椅屏幕上的二维码登录；若手机Spotify应用已登录，屏幕会自动加载账户。用于Spotify的Wi-Fi连接免费，无需购买机上互联网套餐。旅客可在座椅大屏上观看视频播客或音乐视频，也不必再提前下载内容。美联航自2025年初开始测试星链，目前近一半日常航班提供星链网络，旅客可通过其Wi-Fi追踪工具查询航班是否支持。",
+              "source_url": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
               "source_name": "Engadget",
-              "published_at": "2026-11-05T06:55:57+08:00"
+              "published_at": "2026-11-05T21:00:00+08:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "The Verge",
           "articles": [
             {
-              "title": "Discord 弃用 Electron，新客户端占用内存大幅降低",
-              "brief": "Discord 终于放弃 Electron 跨平台框架，将桌面客户端全面迁移至 Rust 编程语言。Electron 应用向来占用大量系统资源，而 Rust 以速度和内存安全著称。Discord 首席技术官 Stanislav Vishnevskiy 在 X 上表示，公司自 2018 年起就是 Rust 的早期采用者，大量基础设施、语音技术甚至部分客户端已用 Rust 编写，如今终于实现整个客户端的迁移。这意味着 Electron 和 React Native 都将被移除，移动端保留原生界面，但通过与桌面端共享 Rust 应用代码来运作。他还分享了 Discord Windows 客户端仅占用 290MB 内存的截图，相比之前有明显改善，过去仅参与语音通话就需要更多资源。",
-              "source_url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+              "title": "民主党掌控国会，科技公司即将面临严厉审查",
+              "brief": "民主党在周二的中期选举中赢得参众两院多数席位，明年1月将重新掌控各委员会主席权杖，科技行业将迎来一系列挑战。计划包括传唤科技CEO出席听证会、加强人工智能和数据中心的监管、调查马斯克领导的DOGE削减行动等。众议院监督委员会民主党首席议员在社交媒体上向特朗普政府和“企业腐败”发出“找好律师”的警告，参议院财政委员会民主党成员怀登则直接预告将发出传票，显示国会将加大对硅谷企业影响力与不当行为的调查力度。",
+              "source_url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
               "source_name": "The Verge",
-              "published_at": "2026-11-05T06:39:42-05:00"
+              "published_at": "2026-11-05T09:11:27-05:00"
             },
             {
-              "title": "PlayStation 与《蜘蛛侠》助力索尼利润大增",
-              "brief": "索尼公布最新季度财报，截至 9 月的三个月内净利润达 4496 亿日元，约合 28.4 亿美元，同比增长 44%，上一财年同期为 3114 亿日元，约 19.6 亿美元。利润大涨主要得益于 PlayStation 业务和电影《蜘蛛侠：崭新之日》的票房成功。该片于 7 月上映，全球票房达 25.2 亿美元，成为影史票房第三高的电影，为索尼影业带来了显著收益。PlayStation 业务同样表现强劲，推动公司整体业绩上扬。财报发布后，索尼利润的明显增长显示出其在游戏和娱乐两大板块的协同效应。",
-              "source_url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
+              "title": "NASA公布下一代X系列试验机X-70",
+              "brief": "NASA宣布将“分形”（Fractal）X-70加入其X系列试验飞机家族，此前该系列包括近80年前首次突破音障的贝尔X-1以及近年的X-59静音超音速验证机。X-70定位于“高性能、高度自适应的研究平台”，将作为开发和测试下一代航空技术的试验机。NASA目前仅公布了由AI生成的概念图，但确认了部分性能参数：这是一款有人驾驶飞机，巡航速度为0.75马赫，最大飞行高度可达4.5万英尺，航程约超过1726英里，并可搭载最多2000磅的实验设备。该机预计将在未来两年内首飞。",
+              "source_url": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
               "source_name": "The Verge",
-              "published_at": "2026-11-05T06:00:15-05:00"
+              "published_at": "2026-11-05T09:10:12-05:00"
             },
             {
-              "title": "亚马逊携手 Uber Eats 重返外卖配送市场",
-              "brief": "亚马逊与 Uber 达成合作，Uber Eats 成为美国 Prime 订阅用户的官方餐厅外卖合作伙伴。根据新协议，Prime 会员可直接在亚马逊应用或网站上下单订餐，订单金额满 25 美元即可免配送费，无需使用 Uber Eats 应用，也不必创建 Uber 账户。这意味着从未注册过 Uber 的 Prime 会员也能直接订购外卖。此举正值 Uber 面临竞争格局剧变之际，其竞争对手 DoorDash 与 Instacart 已经合并。亚马逊借此重新进入餐厅外卖领域，为 Prime 会员增加了新的权益，同时扩大了其在本地配送服务市场的影响力。",
-              "source_url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
+              "title": "触屏MacBook Pro评测：一次成功的尝试",
+              "brief": "配备PROLED XDR显示屏的新款MacBook Pro被评为苹果历来最出色的笔记本之一。机身更轻薄，显示屏有所改进，灵动岛的引入也比刘海更吸引眼球。最引人注目的变化是加入了触摸屏，用户在日常使用中可以直接触碰和操作屏幕。评论者在使用近一周后坦言，自己常常忘记这台机器支持触控，反而更容易注意到其他改进，并推测这或许正是苹果有意为之的设计。回顾历史，乔布斯当年坚决反对在Mac上使用触摸屏，如今苹果终于迈出了这一步。",
+              "source_url": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
               "source_name": "The Verge",
-              "published_at": "2026-11-05T06:00:00-05:00"
+              "published_at": "2026-11-05T09:00:00-05:00"
             },
             {
-              "title": "科技巨头 AI 基础设施扩建热潮仍将持续",
-              "brief": "在四大科技巨头近期举行的季度财报电话会议后，可以得出两个结论：大型科技公司仍在 AI 数据中心建设上创纪录地投入巨资，而这些投入距离兑现承诺的回报依然遥远。亚马逊、微软、Alphabet 和 Meta 告诉投资者，仅今年计划资本支出就至少达 7200 亿美元，其中大部分用于 AI 基础设施。此外，未来几年已安排至少 1 万亿美元的支出承诺。分析指出，除非有外部力量介入，科技巨头不会主动放慢扩张步伐。如此庞大的支出计划令华尔街感到不安，此前曾引发科技股的剧烈抛售。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+              "title": "新款iMac评测：优秀但亟待重新设计",
+              "brief": "2026款iMac搭载新的M6芯片并进行了多项升级，是一款优秀的一体机。评论者平时多用MacBook Neo随处办公，过去一周却频繁回到书桌前使用iMac，原因是它提供了更大的屏幕和远超笔记本的内置扬声器音质。虽然此前The Verge评测时曾提出“这台机器到底为谁而设计”的疑问，自组桌面往往更便宜也更灵活，但评论者认为，新款iMac适合像他一样追求“一切尽在一处、无需操心”的用户。不过文中也指出这款产品价格明显上涨，且设计亟需更新。",
+              "source_url": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
               "source_name": "The Verge",
-              "published_at": "2026-11-05T05:45:00-05:00"
+              "published_at": "2026-11-05T09:00:00-05:00"
             },
             {
-              "title": "任天堂设计师在重制《时之笛》时追求“优雅”",
-              "brief": "任天堂制作人青沼英二与藤林秀麿在接受采访时表示，团队在重制《塞尔达传说：时之笛》的过程中始终追求“优雅”的设计理念。《时之笛》是塞尔达系列首款3D作品，此次重制旨在让这款经典游戏触达全新的玩家群体。两位制作人分享了重制过程中的设计思路与挑战，包括如何在保留原作精髓的同时，让画面、操作和游戏体验符合当代玩家的期待，使经典作品在新平台上焕发新的生命力。",
-              "source_url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+              "title": "M6 MacBook Pro评测：或成绝唱的经典设计",
+              "brief": "苹果将于11月6日发布全新设计的MacBook Pro，采用更轻薄的机身和OLED触摸屏，很可能代表未来几年MacBook Pro的形态。同日发售的M6 MacBook Pro则延续自2021年以来的入门级模具，仅升级芯片。评论认为，尽管与更轻更亮的PROLED新机型相比，这一设计已显老态，但去年M5和前年M4机型的所有优点依然保留。M6 MacBook Pro仍是一台出色的笔记本电脑，只是它很可能是这一经典设计的最后一款产品。",
+              "source_url": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
               "source_name": "The Verge",
-              "published_at": "2026-11-05T00:00:00-05:00"
+              "published_at": "2026-11-05T09:00:00-05:00"
             }
           ]
         }
@@ -374,39 +374,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "OpenAI收购Pierre团队 奥特曼要在Codex里再造一个GitHub",
-              "brief": "OpenAI收购代码工具团队Pierre，其成员包括Bootstrap联合创始人Jacob Thornton、前Discord工程师等，将并入Codex补齐看代码、审代码、存代码的能力。Trees已内置Codex桌面版，可毫秒级展开超大项目目录；Diffs支持在对比视图中行内编辑代码；Code Storage是面向AI Agent高并发读写的分布式Git仓库，Lovable每周靠它新建超800万个仓库。此前OpenAI因内部Agent并行开发导致Git系统可靠性跌破90%，自研新后端Pando使推送速度提升近5倍。同一晚，前GitHub CEO Nat Friedman在Meta收购Agent工具Conductor，该产品已被10万程序员使用，支持多Agent隔离并发。AI大厂正从编辑器、代码审查到Git仓库底座全面布局。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585144.htm",
+              "title": "《塞尔达：时之笛 重制版》上市 青沼英二赴纽约庆祝",
+              "brief": "Switch 2版《塞尔达传说：时之笛》重制版现已上市，正值系列40周年，制作人青沼英二与本作制作人藤林秀麿赴纽约参加庆祝活动。重制项目源于40周年纪念企划的讨论，团队以年轻成员为核心进行开发，青沼主要提供建议。团队利用新硬件改善画面、操作、镜头控制和整体手感，同时保留原作体验。水之神殿经重制后，玩家可通过快捷操作切换铁靴，自由镜头也有助于判断空间关系，青沼称这是他心目中最好的版本。团队未刻意加入时间线彩蛋，而是优先完善游戏本身，部分演出包括结局也借助新技术重新制作，希望兼顾老玩家与新玩家。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585162.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T19:33:04+08:00"
+              "published_at": "2026-11-05T22:51:12+08:00"
             },
             {
-              "title": "韩国金融业遭黑客入侵 一个月内至少20家机构中招",
-              "brief": "韩国金融业近期遭遇大规模黑客攻击，一个月内至少20家机构被入侵，涉及银行、储蓄银行、消费金融、网络借贷、电子金融及虚拟货币等领域，包括新韩银行、KB国民银行、韩亚银行和BNK釜山银行。泄露信息主要为姓名、联系方式、身份证号码和电子邮箱，监管部门称截至10月14日尚未发现账户密码、银行卡号等可直接引发非法交易的信息泄露。10月下旬事件波及资本市场，大信证券披露38490名客户的姓名、邮箱、地址及部分账户信息泄露，Bithumb、未来资产环球投资和未来资产人寿也发现系统遭异常访问。调查人员在部分事件中发现攻击者可能使用AI辅助渗透工具，是否同一人所为仍在调查。韩国金融委员会对555家机构开展安全检查，发现130家存在安全不足并要求整改。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585142.htm",
+              "title": "索尼称PlayStation 6开发按计划推进 PS5累计销量达9790万台",
+              "brief": "索尼公布财报，截至9月30日的三个月内共售出260万台PS5，主机累计销量达9790万台。同期游戏业务销售额同比增长9%，营业利润同比增长89%，9月月活跃用户达到1.27亿。索尼上调了游戏业务销售额和营业利润预期，理由包括第一方、第三方游戏销售增长及成本改善。面对内存等部件涨价压力，索尼已与供应商协调下一财年所需内存数量，并计划通过促销、调整定价和降低成本应对。索尼表示PlayStation 6开发按计划推进，但尚未公布发售时间，外界提到的2028年窗口仅为分析师预期，并非官方安排。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585160.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T19:30:34+08:00"
+              "published_at": "2026-11-05T22:39:45+08:00"
             },
             {
-              "title": "特斯拉得州工厂被曝年内增设夜班 白夜两班各12小时",
-              "brief": "特斯拉得州超级工厂被曝将在年内增设夜班，实行白夜两班各12小时的排班制度，生产和建设部门在工作日以外及周末继续作业。特斯拉官方招聘页面显示，公司正在得州奥斯汀招聘Cybercab夜班制造流程工程师、总装夜班工程技术人员等岗位，并在电池制造部门招聘轮班工程负责人，以支持阳极、阴极和箔材涂布等环节的全天候生产，相关岗位覆盖四个轮班。得州超级工厂目前是Model Y和Cybertruck的生产基地，Cybercab也已在该工厂进入生产阶段。随着车辆、电池及自动驾驶相关产品产能逐步提升，特斯拉正在扩大夜间生产岗位。据称此次白夜双班安排预计至少持续至2026年年底。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585140.htm",
+              "title": "英国拟在未满16岁社交媒体禁令后限制游戏内陌生人聊天",
+              "brief": "英国政府正考虑在针对未满16岁用户的社交媒体禁令之后，进一步限制游戏内与陌生人的聊天功能。此举源于担心易受影响的用户从受监管的游戏环境转移至其他平台后遭到诱导和剥削。政府准备在新年前通过该社交媒体禁令，计划于次年春季实施，游戏内陌生人通信将由后续功能性法规处理。年龄验证方式引发隐私和成本方面的担忧，可能要求用户通过身份证件、人脸扫描或信用卡证明年龄，小型开发者或因验证成本关闭英国地区的聊天功能。不过政府尚未公布最终技术要求、适用范围、验证标准及执行日期。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585158.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T19:30:19+08:00"
+              "published_at": "2026-11-05T22:39:27+08:00"
             },
             {
-              "title": "ASML 2028年产能被抢空 EUV光刻机出货量有望达120台",
-              "brief": "ASML产能持续紧张，2028年产能已被客户抢空，目前客户正在洽谈2029年甚至2030年的远期订单。尽管ASML此前已计划在2027年将低数值孔径EUV和浸润式DUV产能各提升约30%，面对激增需求，公司正研究在2028年实现超过30%的进一步扩产。业绩方面，ASML 2026年第三季度净销售额达116.62亿欧元，同比增长55.2%，创历史新高，年内已连续三次上调全年指引，预计全年净销售额达440亿至450亿欧元。在卖方市场格局下涨价已成定局，首席财务官表示已与主要客户完成基于价值定价的沟通。美银研报预计ASML 2028年EUV出货量将达120台，产品平均售价提升约5%。AI算力基础设施扩张正大幅拉长光刻机供不应求局面。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585138.htm",
+              "title": "华硕发布ROG XG Station 3 开放式显卡坞 雷电5接口",
+              "brief": "华硕发布ROG XG Station 3开放式外置显卡坞，采用雷电5接口。产品采用抛光金属表面与流线型设计，支持AURA SYNC神光同步灯效。开放式结构让显卡成为视觉中心并便于散热，标准显卡可使用PCIe供电线，支持BTF背插系统的显卡则可使用GC-HPWR供电接口。整体尺寸为324.6×173.0×104.7毫米，建议搭配SFX或SFX-L规格、750W及以上、80 PLUS金牌及以上的电源。雷电5接口可提供80Gbps带宽及140W反向供电，即插即用，可将笔记本电脑变为高性能游戏和渲染工具，前方还配备双USB 10Gbps Type-C端口。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585156.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T19:29:51+08:00"
+              "published_at": "2026-11-05T22:38:50+08:00"
             },
             {
-              "title": "22年太空使命画上句号 NASA“雨燕”天文台即将重返地球大气层",
-              "brief": "NASA的雨燕天文台因轨道持续衰减，即将坠入地球大气层结束任务。NASA评估其大部分结构将在再入过程中烧毁，部分组件可能落向地表，由于轨道倾角较低，潜在落区限于南纬20.6度至北纬20.6度之间，碎片伤人风险极低，概率约为2100分之一。雨燕天文台于2004年11月发射，设计寿命仅两年，主要用于探测和研究伽马射线暴，服役近22年远超设计寿命十倍以上。它还观测了活跃星系核、X射线耀发、超新星及彗星小行星等目标。NASA今年曾尝试借助商业航天服务为其抬升轨道延寿，但因姿态控制故障未能成功，最终决定结束任务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1585136.htm",
+              "title": "AMD承诺不会放弃锐龙CPU 但却不断疏远游戏玩家和PC",
+              "brief": "AMD最新财报显示，公司重心持续转向数据中心业务，包括服务器处理器和Instinct AI加速器，而游戏业务因Radeon显卡和主机半定制芯片销量下滑，收入同比下降40%至7.73亿美元。客户端业务营收同比增长7%至29亿美元，但环比下降4%，内存和组件价格上涨使买家趋于谨慎。过去五个季度，客户端业务占公司营收的比重从约30%降至22%，AMD预计第四季度数据中心收入环比增长约50%，客户端和游戏业务合并收入将下降超过20%，并预计2027年全球PC出货量将出现两位数百分比下滑。CEO苏姿丰表示PC市场仍至关重要，公司计划专注于商用系统、高端消费电脑和零售台式机。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585154.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T18:16:09+08:00"
+              "published_at": "2026-11-05T22:34:26+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "2027 款领克 08 EM-P 上市：标配 192 线激光雷达，限时 15.98 万元起",
-              "brief": "2027 款领克 08 EM-P 上市，官方限时价 15.98 万元起。新车尺寸 4813×1915×1660mm，轴距 2842mm，新增跃动橙车色，新增副驾零重力座椅，配备哈曼卡顿 23 扬音响、7L 双开门冷暖冰箱、1.8m² 全景天幕。座舱全系标配高通骁龙 8295 芯片，升级 Flyme Auto 2.5 系统，标配 UWB/NFC 数字车钥匙。智驾全系标配 192 线激光雷达，至高支持千里浩瀚 H7 方案，可实现高速与城市 NOA、D2D 车位到车位领航。动力全系标配 EM-P 智能电混，CLTC 综合续航至高 1400km，零百加速最快 4.6 秒，并全系标配 6 个安全气囊。",
-              "source_url": "https://www.ithome.com/1/022/980.htm",
+              "title": "DeepSeek Harness 日活用户达 154 万，日消耗 Token 约 92 万亿，将建设官方插件市场",
+              "brief": "DeepSeek Harness 桌面端正式发布。截至 11 月 4 日，以使用官方 API 的用户为统计范围，其日活跃用户已达 154 万，日消耗 Token 约 92 万亿。发布至今，第三方插件数量已增至约 3.5 万个，约 60% 的活跃用户制作或安装了至少一款第三方插件。官方表示将提升插件 API 的稳定性与兼容性，完善插件安全机制，并建设官方插件市场，方便插件作者上传、用户查找插件。同时正筹备面向插件作者的支持计划，通过 Token 激励、技术交流与作品推荐支持创作，具体方式将结合社区反馈逐步完善。官方也欢迎创业团队和企业通过插件接入产品、服务与专业能力。",
+              "source_url": "https://www.ithome.com/1/023/011.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T20:49:43+08:00"
+              "published_at": "2026-11-05T22:48:49+08:00"
             },
             {
-              "title": "Agility Robotics 本周登陆纳斯达克，获富士康、英伟达等投资",
-              "brief": "人形机器人公司 Agility Robotics 已与特殊目的收购公司 Churchill Capital Corp. XI 完成合并，本周登陆纳斯达克，成为首家在美国上市的人形机器人企业。交易完成后公司手头资金约 4.65 亿美元，其中包括富士康领投的约 2.01 亿美元私募股权投资，英伟达、亚马逊和软银愿景基金二期也参与其中。该公司总部位于美国俄勒冈州，拥有约 400 名员工，其最新款人形机器人 Digit 5 于今年 9 月发布，可执行装载物料、分拣零部件等更复杂任务，并能在人员附近安全作业，目前已获得超过 3 亿美元的多年期订单承诺，计划到 2027 年底将潜在客户储备扩大至 100 家。",
-              "source_url": "https://www.ithome.com/1/022/978.htm",
+              "title": "今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%",
+              "brief": "今年前三季度我国氢能产业总投资达 287 亿元，同比增长 108%，实现翻番。我国氢能建成产能已超过 35 万吨，占全球产能比重超过 50%，在建项目年产能超过 120 万吨，处于全球领先水平。分区域看，华北地区建成产能最高，占全国 45%；其次为东北地区，占全国的 36%；第三是西北地区，占全国的 15%。目前我国可再生能源制氢中，单体项目规模水平快速提高，万吨以上项目占比接近五成。",
+              "source_url": "https://www.ithome.com/1/023/010.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T20:38:57+08:00"
+              "published_at": "2026-11-05T22:46:42+08:00"
             },
             {
-              "title": "大疆发布 Matrice 5T 行业无人机：标配激光雷达，售价 57488 元",
-              "brief": "大疆发布 Matrice 5T 行业无人机，售价 57488 元。该机配备原生 1K 热成像相机、多焦段可见光相机，支持 IP55 防护等级，最长飞行时间 59 分钟，覆盖应急救援、电力巡检、测绘等场景。它是大疆首次在轻型行业无人机上标配激光雷达、毫米波雷达与全彩全向视觉感知系统的机型：激光雷达夜间无光仍可捕捉细小障碍物，导线探测距离达 32 米；毫米波雷达可在团雾、雨雪中持续感知。开机到起飞约 10 秒，可边飞边建模，200 张照片从采集到出图仅需 8 分钟。内置 AI 模型可辨别超 20 种目标类型，开放算力支持导入第三方模型，图传最远 40 公里。",
-              "source_url": "https://www.ithome.com/1/022/976.htm",
+              "title": "摩托罗拉推出 Moto Watch 2 Fit 手表和 Moto Buds 2 Ultra 耳机，售价 119 欧元起",
+              "brief": "摩托罗拉推出 Moto Watch 2 Fit 手表，配备 1.85 英寸 OLED 屏幕，支持 60Hz 刷新率，分辨率 390×450，峰值亮度 1500 尼特，运行 RTOS 系统，内置 400mAh 电池，开启 AOD 续航可达 7 天。手表提供跑步指数、睡眠阶段分析、呼吸训练、卡路里分析等功能，支持心率、血氧、月经周期追踪和压力监测，并配备双频 L1/L5 GPS。同期推出的 Moto Buds 2 Ultra 耳机搭载 Bose SoundDesign 调音和 QuietControl 主动降噪技术，拥有 11mm 动圈加楼氏动铁单元，支持 Hi-Res Audio、杜比全景声及头部追踪，采用蓝牙 6.0，单次续航 8 小时，配合充电盒总续航 37 小时，支持 AI 实时翻译。",
+              "source_url": "https://www.ithome.com/1/023/009.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T20:23:11+08:00"
+              "published_at": "2026-11-05T22:46:07+08:00"
             },
             {
-              "title": "消息称华为云 MaaS 平台 11 月 15 日上线 openPangu-2.1-Pro 模型",
-              "brief": "消息称华为云 MaaS 平台将于 11 月 15 日更新上线 openPangu-2.1-Pro 旗舰模型。此前华为云曾公告，MaaS 平台于 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并将于 11 月 30 日正式下线，当时官方曾表示 openPangu 系列新版本模型已在规划中，将逐步推出上线，外界关于华为云完全停售盘古大模型的报道系误读。本次更新还涉及华为云智能体平台 AgentArts、码道 CodeArts、果办 OfficeAce 等多款核心产品，它们也将同步接入该旗舰模型。目前小艺 Work 已率先上线 openPangu-2.1-Pro 模型，主打鸿蒙任务增强。",
-              "source_url": "https://www.ithome.com/1/022/974.htm",
+              "title": "永诺推出 18mm F2.8 S DF VCM 全画幅自动对焦镜头，售价 1699 元",
+              "brief": "永诺推出 18mm F2.8 S DF VCM 全画幅自动对焦镜头，采用金属卡口与镀金触点。光学层面，镜头采用 8 组 10 片结构设计，包含 2 枚非球面镜片、1 枚超低色散镜片与 3 枚低色散镜片，最近对焦距离为 0.2 米，最大放大倍率 0.15 倍。镜头配备双 Fn 自定义按键，并设有 SW 拨杆，可一键切换 AF 自动对焦与 MF 手动对焦模式。该镜头为索尼 FE 卡口，京东售价 1699 元。",
+              "source_url": "https://www.ithome.com/1/023/008.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T20:10:01+08:00"
+              "published_at": "2026-11-05T22:39:42+08:00"
             },
             {
-              "title": "比亚迪第二代海豹 07 上市：搭载云辇-M 系统，超级置换价 13.59 万元起",
-              "brief": "比亚迪第二代海豹 07 上市，超级置换价 13.59 万元起。新车沿用海洋美学 2.0 设计，提供六款车色，长宽高 5080/1960/1495mm，轴距 2960mm。辅助驾驶方面，天神之眼 C 在部分车型标配，支持高快领航、遥控泊车等功能，还可选装含激光雷达的天神之眼 B 方案，获得城市领航辅助能力。内饰提供三款配色，配备帝瓦雷 20 扬声器音响、零重力座椅，后备箱 618L、前备箱 160L。DM-i 版搭 1.5T 发动机，CLTC 纯电续航最高 330km，综合续航 1700km；纯电版最大功率 245kW，续航 775km，支持闪充。纯电旗舰型采用云辇-M 磁流变车身控制系统。",
-              "source_url": "https://www.ithome.com/1/022/972.htm",
+              "title": "欧洲多架客机遭炸弹威胁，部分已安全降落",
+              "brief": "欧洲多架客机接连遭遇炸弹威胁。一架从米兰飞往罗马的爱尔兰航空空客 A320 收到威胁警报后改道飞往法国，安全降落在埃夫勒空军基地，机上 151 名乘客和 6 名机组人员均已转移至安全区域。保加利亚交通部证实，3 架飞往索非亚的瑞安航空航班遭威胁，其中 2 架已抵达，另一架改道普罗夫迪夫。波兰航空一架华沙飞巴黎的客机因警报被叫停检查，未发现危险物品。米兰飞华沙的威兹航空客机改道维也纳，赫尔辛基飞罗马的航班在意大利空军护送下安全降落。此前一天，波兰、西班牙、保加利亚和意大利已有 7 架客机遭遇类似威胁。",
+              "source_url": "https://www.ithome.com/1/023/007.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T20:04:55+08:00"
+              "published_at": "2026-11-05T22:33:09+08:00"
             }
           ]
         },
