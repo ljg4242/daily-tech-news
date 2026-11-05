@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T12:52:45.925211+08:00",
+  "generated_at": "2026-11-05T14:53:57.902331+08:00",
   "sections": [
     {
       "category": "主要",
@@ -169,6 +169,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "一加公布更多手机和平板的具体 Android 17 推送日期",
+              "brief": "OPPO 在 X 平台分享了更详细的 ColorOS 17 推送计划，确认了更多一加设备的 Android 17 发布日期。根据最新日程，一加 13R 将于 11 月 5 日率先获得更新，一加 12 为 11 月 17 日，一加 Pad 3 为 11 月 18 日，一加 Open 为 11 月 24 日，一加 Nord 6 和 Nord CE 6 为 11 月 26 日。这意味着包括老机型一加 12 和首款折叠屏一加 Open 在内的多款设备本月都将迎来大版本升级。此外，一加 11、一加 12R、Nord 5 等机型计划在 12 月接收 Android 17，但具体日期尚未公布。Android 17 随 ColorOS 17 一同到来，带来界面改进、更流畅的动画和性能提升。",
+              "source_url": "https://www.androidauthority.com/oneplus-android-17-rollout-dates-november-2026-3731865/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-05T14:30:56+08:00"
+            },
+            {
+              "title": "Starlink Mobile 终于公布正式推出时间表",
+              "brief": "高通与 SpaceX 宣布，Starlink Mobile 将于 2027 年开始在美国部署全国性蜂窝网络，计划在多年协议下部署数万个站点，目前尚不清楚消费级服务是否也会在 2027 年推出。此前有报道称 SpaceX 正在洽谈收购 Boost Mobile，此次消息让这家新兴运营商挑战 AT&T、T-Mobile 和 Verizon 的时间表首次明确。双方还确认 Starlink Mobile 将采用高通 DragonWing QRU100 和 QDU100 蜂窝基础设施平台，构建具备大规模 MIMO（64T64R）能力的地面 5G 网络，并为未来连接技术奠定基础。Starlink 高管表示，公司正在打造首个卫星与地面全面融合的全国网络，让用户随时随地保持连接。",
+              "source_url": "https://www.androidauthority.com/starlink-mobile-5g-network-rollout-launch-window-3731862/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-05T14:14:56+08:00"
+            },
+            {
+              "title": "黑客利用 Chrome 和骁龙 GPU 漏洞入侵安卓手机",
+              "brief": "安全公司 Sekoia 披露了一起针对安卓和 iPhone 用户的攻击活动。在安卓端，攻击者通过被劫持和伪造的网站实施攻击，用户无需点击链接、安装应用或授予权限，只要用旧版 Chrome 打开恶意页面即会中招。攻击首先利用编号 CVE-2026-3910 的 Chrome 漏洞在浏览器内执行代码，再利用高通 Adreno GPU 驱动的 CVE-2025-27038 漏洞突破 Chrome 沙箱，深入系统。由于 Adreno GPU 用于骁龙芯片，搭载高通处理器的手机受到影响。攻击针对 Chrome 139 至 145 版本，但跳过了 143 版本。得手后，攻击者植入名为 AndroSnitch 的恶意软件，窃取 Chrome 的 Cookie、保存的登录信息、浏览历史以及包含 Wi-Fi 密码的配置文件。两个漏洞均已修补，保持更新的手机不受影响。",
+              "source_url": "https://www.androidauthority.com/hackers-chrome-snapdragon-gpu-flaws-android-zero-click-3731860/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-05T13:36:04+08:00"
+            },
+            {
               "title": "三星正为Galaxy S26系列准备One UI 9.5测试版",
               "brief": "三星仍在推进One UI 9的推送，而One UI 9.5测试计划的启动似乎已近在眼前。据爆料人透露，Galaxy S26 Ultra的首个One UI 9.5测试版固件已出现在三星测试服务器上，版本号为S948BXXU6ZZK3/S948BOXM6ZZK3/S948BXXU6CZK3。同时，三星已将Bootloader版本从U5更新至U6，显示测试工作正在推进。考虑到内部测试已经开始，三星有望在11月底或12月初启动One UI 9.5公开测试计划。正式版One UI 9.5预计将随Galaxy S27系列首发，有消息称该系列定于明年1月发布。",
               "source_url": "https://www.androidauthority.com/galaxy-s26-one-ui-9-5-beta-in-testing-3731840/",
@@ -181,27 +202,6 @@
               "source_url": "https://www.androidauthority.com/t-mobile-plans-2026-3731810/",
               "source_name": "Android Authority",
               "published_at": "2026-11-05T05:34:27+08:00"
-            },
-            {
-              "title": "ChatGPT终于推出备受期待的动图生成功能",
-              "brief": "OpenAI正在向ChatGPT推出新的Images 2.6模型更新，为网页、桌面和移动端以及Codex带来真正的动态GIF生成能力。用户可以通过文字提示词或上传照片生成短篇动画GIF，还能调整播放速度，范围从0.5倍到2倍，并使用现有的编辑提示框以及调整大小或移除元素等功能。此前ChatGPT虽已能生成GIF，但只是将两个略有差异的静态帧并排摆放来模拟运动，并非真正动画。新功能则可生成多帧图像并快速连续播放，用户可将自己的照片变成表达不同情绪的循环动画，制作更具个人特色的GIF。",
-              "source_url": "https://www.androidauthority.com/chatgpt-animated-gif-generation-3731805/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-05T05:25:00+08:00"
-            },
-            {
-              "title": "亨利·卡维尔的《正义联盟》胡子事故催生慈善游戏《胡子协议》",
-              "brief": "谷歌与演员亨利·卡维尔合作，在一台谷歌笔记本上直接开发了一款名为《胡子协议》的16位横版游戏，现已发布制作系列节目第一集。游戏玩法是扮演英雄阻止失控的CGI艺术家抹去地球上的所有胡子，明显影射卡维尔在《正义联盟》补拍中因《碟中谍6》合同必须保留胡子、只能用CGI去除胡子的著名事件。游戏借助谷歌笔记本内置的Antigravity、Rambler和Magic Pointer等AI工具以氛围编程方式打造。谷歌还与Movember合作，11月内每次游玩将捐赠11美元，上限50万美元，用于支持男性心理健康、自杀预防、前列腺癌和睾丸癌宣传。",
-              "source_url": "https://www.androidauthority.com/henry-cavill-googlebook-game-3731786/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-05T04:46:06+08:00"
-            },
-            {
-              "title": "Android Canary 2611 发布，面向最 adventurous 的测试者",
-              "brief": "谷歌发布最新极限测试通道版本Android Canary 2611，Pixel 6a及更新机型的固件镜像已上线谷歌服务器，覆盖至今年的Pixel 11系列。用户可通过谷歌在线Android刷机工具安装，之后设备将自动接收每月新版本。本次更新包含应用锁回归、最近任务界面新增气泡模式启动应用的快捷方式、快速设置新增启动相机的磁贴，以及锁屏At a Glance小组件上的闹钟显示上午/后缀等功能。这些改动与此前Android 17 QPR3 Beta 3中的部分内容相同。上月Canary 2610在十月中下旬才发布，本月新版本则来得更早。",
-              "source_url": "https://www.androidauthority.com/android-canary-2611-3731794/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-05T04:09:20+08:00"
             }
           ]
         },
@@ -249,6 +249,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "任天堂设计师在重制《时之笛》时追求“优雅”",
+              "brief": "任天堂制作人青沼英二与藤林秀麿在接受采访时表示，团队在重制《塞尔达传说：时之笛》的过程中始终追求“优雅”的设计理念。《时之笛》是塞尔达系列首款3D作品，此次重制旨在让这款经典游戏触达全新的玩家群体。两位制作人分享了重制过程中的设计思路与挑战，包括如何在保留原作精髓的同时，让画面、操作和游戏体验符合当代玩家的期待，使经典作品在新平台上焕发新的生命力。",
+              "source_url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+              "source_name": "The Verge",
+              "published_at": "2026-11-05T00:00:00-05:00"
+            },
+            {
               "title": "X 称新版网页应用速度大幅提升",
               "brief": "X 正在推出全新版本的网页应用，官方称其速度远超旧版，目前已开始按国家逐步向登录用户推送。首席工程师亚吉兹·尼兹普利在博客文章中举例称，在慢速网络下打开 X.com 的个人主页，旧版应用需等待超过22秒才能显示第一条帖子，而新版仅需2.7秒。他还介绍了技术细节：新版应用将原本为用户页面、搜索爬虫和链接预览分别运行的三台服务器合并为一台。安全研究员黄文津表示，她已体验新版应用，感觉响应迅速、加载快，许多部分也更加精致。此前新版已用于未登录用户的网页体验。",
               "source_url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
               "source_name": "The Verge",
               "published_at": "2026-11-04T16:30:00-05:00"
-            },
-            {
-              "title": "Bose QuietComfort耳机降价超一半，169美元起",
-              "brief": "目前市面上最佳降噪耳机之一正在大幅打折。第一代Bose QuietComfort耳机在亚马逊、百思买和Bose官网售价169.99美元，优惠190美元，追平历史最低价。今年8月发布的第二代机型也降至199美元，优惠160美元，多色可选，距历史最低价仅差20美元。两款耳机均可在亚马逊、百思买和Bose官网购买，降幅分别达53%和45%，是入手高品质降噪耳机的好时机。",
-              "source_url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-11-04T16:13:11-05:00"
             }
           ]
         }
@@ -294,11 +294,25 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "DC正开发约翰·康斯坦丁新电影 《鬼玩人》导演操刀剧本",
+              "brief": "据IGN报道，DC工作室正在开发一部约翰·康斯坦丁的新电影，由《鬼玩人之怒》导演弗朗西斯·加卢皮撰写剧本，项目尚处于早期阶段，暂不确定他是否兼任导演，也无选角信息。康斯坦丁由艾伦·摩尔等人创作，是一位涉猎神秘学和魔法的英国工人阶级侦探。基努·里维斯曾在2005年电影《地狱神探》中饰演该角色，续集传闻多年，里维斯曾于2025年底透露续集剧本新稿已完成并提交DC工作室，但此后再无进展，加卢皮的剧本是续写还是全新重启尚不清楚。加卢皮执导的《鬼玩人之怒》定于2028年4月7日上映，是系列第七部，故事设定在1972年，为1981年原版前传。",
+              "source_url": "https://www.ign.com/articles/john-constantine-movie-from-evil-dead-wrath-filmmaker-is-in-development-at-dc",
+              "source_name": "IGN",
+              "published_at": "2026-11-05T10:32:58+08:00"
+            },
+            {
               "title": "普莱斯队长演员巴里·斯隆自称是出演使命召唤电影的最合适人选",
               "brief": "在近期活动中，普莱斯队长的扮演者巴里·斯隆被问及是否有兴趣在即将开拍的使命召唤真人电影中继续出演该角色。这部由彼得·伯格执导、泰勒·谢里丹编剧的电影预计设定在现代战争宇宙，但尚不清楚是全新故事还是直接改编游戏。斯隆表示愿意参演，甚至自称是地球上最有资格出演这一角色的人，因为他已塑造该角色近十年，了解项目规模并陪伴粉丝一路走来。他还提到粉丝一直呼吁由他出演，对此深表感谢，但表示好莱坞的决定难以预料，只能顺其自然。",
               "source_url": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
               "source_name": "IGN",
               "published_at": "2026-11-05T08:49:28+08:00"
+            },
+            {
+              "title": "《魔兽世界：永恒》上线直播：暴雪迎来一次顺畅开局",
+              "brief": "《魔兽世界：永恒》正式上线，堪称魔兽历史上规模最大的发布之一，测试人数之多被开发者称为17年来见过最疯狂的数据。此前测试等级上限为30级，且多数玩家需购买昂贵的天空包才能进入；正式上线后，仅需有效的魔兽订阅或好友码即可游玩。作者认为真正的考验在于服务器能否承受压力：上周预留名字系统开放时，欧洲玩家数小时无法进入，美国玩家则遭遇长队列和断线，因此预计正式上线仍会出现波折。暴雪随后公布服务器配置：3924台虚拟机、251136GB内存和70480个CPU核心，开局运行较为顺利。直播将持续关注服务器状况和社区热点。",
+              "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
+              "source_name": "IGN",
+              "published_at": "2026-11-05T08:37:00+08:00"
             },
             {
               "title": "斯嘉丽·约翰逊称《新蝙蝠侠2》角色曾令她陷入存在主义焦虑",
@@ -313,26 +327,19 @@
               "source_url": "https://www.ign.com/articles/leonardo-dicaprio-and-joaquin-phoenix-were-offered-the-role-of-the-joker-in-the-dark-knight-but-turned-it-down",
               "source_name": "IGN",
               "published_at": "2026-11-05T07:00:16+08:00"
-            },
-            {
-              "title": "《GTA6》发售前两周预订收入已超7.5亿美元",
-              "brief": "据Sensor Tower统计，距离发售仅两周，《GTA6》的预订量估计已达771万份，收入约7.51亿美元，接近10亿美元大关。主机平台分布差异明显，PlayStation占74%，Xbox占26%，对应收入分别约为5.59亿美元和1.92亿美元。作为对比，《GTA5》首日收入8亿美元，三天突破10亿美元，是史上最快达到这一数字的娱乐产品。此次高额预订可能源于大量玩家购买100美元的终极版。Take-Two首席执行官施特劳斯·泽尔尼克表示，热忱的玩家是预订主力，80美元的标准版定价体现了游戏价值，甚至称其为物超所值的选择。",
-              "source_url": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
-              "source_name": "IGN",
-              "published_at": "2026-11-05T06:42:19+08:00"
-            },
-            {
-              "title": "亚当·德赖弗表示不再饰演凯洛·伦，但若被取消的独立电影复活愿意回归",
-              "brief": "亚当·德赖弗与导演史蒂文·索德伯格曾秘密开发一部以凯洛·伦为中心的星球大战电影，暂名《寻找本·索罗》，设定为《天凯行者崛起》的续篇，讲述复活后的凯洛·伦的故事。卢卡斯影影总裁凯瑟琳·肯尼迪也支持该项目，但迪士尼高层无法接受凯洛·伦死而复生，最终否决。德赖弗在《里奇·艾森秀》中表示，他的星球大战之旅已经结束，不会再参与；但如果迪士尼重启这部被取消的电影，他愿意回归，不过他认为机会已经过去。卢卡斯影的戴夫·菲洛尼此前也确认该电影未在积极开发中。迪士尼目前正由乔·沃茨执导星球大战第10部。",
-              "source_url": "https://www.ign.com/articles/adam-driver-says-hes-done-playing-kylo-ren-but-would-return-if-someone-revived-his-canceled-solo-film",
-              "source_name": "IGN",
-              "published_at": "2026-11-05T06:34:28+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "实验性：在小米盒子上安装 Apple TV（tvOS）",
+              "brief": "酷安网友翎棟_Lindon发布了一张在小米盒子上安装 tvOS 的截图，画面中出现了照片、电脑等自带应用以及系统设置图标。开发者称这只是技术性验证实验，但实测发现比 iOS 容易开启得多。该项目在其他安卓盒子上也能运行，未来能否普及可能只差时间和一颗性能足够的芯片。有网友询问能否在设备上运行 watchOS 苹果手表系统，开发者则表示心力交瘁，暂无计划。",
+              "source_url": "https://www.appinn.com/xiaomi-tv-box-apple-tvos-experiment/",
+              "source_name": "小众软件",
+              "published_at": "2026-11-05T12:12:54+08:00"
+            },
             {
               "title": "Epic 商店限免 13 款小游戏，11 月 9 日凌晨截止",
               "brief": "Epic 商店正在免费赠送 13 款小游戏，全部来自同一厂商 Yash Future Tech Solutions，涵盖赛车、平台跳跃、走迷宫、格斗、问答、数学等类型。这批游戏全部截至北京时间 2026 年 11 月 9 日凌晨 2:30，领取后永久入库，无须立刻下载安装。具体包括射气球的《Balloon Strike》、35 关双人同屏解谜游戏《Dark Mystery》、42 关横版闯关《Epic World – Hunt For Quest》、《Funtoon's World》、格斗游戏《Gladiator: Blades of Fury》、3D 赛车《Highway Driving》、第一人称恐怖探索《Horror Adventure》、最多 4 人分屏的赛马《Horse Racing》、数学游戏《Math Fun》、50 关迷宫《Maze》、无限赛车《Mountain Racing》和问答游戏《Quiztopia》。其中问答游戏文本为英语，适合 5 岁以上玩家。",
@@ -353,39 +360,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "OpenAI提前布局2028美国大选议题 力推“AI新政”",
-              "brief": "OpenAI政策负责人莱哈恩参照罗斯福“新政”提出“AI新政”构想，主张走“第三条道路”，既不放任AI无限制发展，也不让技术被少数人垄断。方案涵盖劳动者权益、教育改革、AI安全、数据中心建设和儿童保护五个方向，包括鼓励学习AI技能、探索利润共享、推动AI进入教育体系以及建立独立评估和紧急关停机制。批评人士认为该方案有利于行业发展，较少涉及企业责任约束。分析认为，到2028年大选，AI相关议题将成为关系普通选民利益的重要政治话题。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585066.htm",
+              "title": "Epic高管称V社应对Steam AI仿制游戏的措施不足",
+              "brief": "Epic高管Rehm批评Valve应对Steam上AI仿制游戏的措施不足。Valve业务团队建议开发者持续维护原创、高质量且难以复制的作品，并建议开发者了解可用工具。Rehm认为这种做法或许适合资金和人员充足的团队，却可能让'持续改进'成为只有资源雄厚者才能承担的成本。他还批评Valve将AI使用者以仿制相威胁、向开发者索款的问题视为执法事务。争议也延伸至Epic自身，前Valve开发者Chet Faliszek指责Rehm曲解现场问答，并提到Epic的AI优先方向以及Epic游戏商城未设置与Steam相同的AI披露规则，但Epic旗下Fab素材市场因商业客户合同需求要求披露AI信息。争论焦点仍是平台如何在不限制开发工具的情况下处理抢先上线的近似作品并保护小型原创团队。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585126.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T06:30:13+08:00"
+              "published_at": "2026-11-05T14:35:13+08:00"
             },
             {
-              "title": "旅行者1号即将成为首个距地球一光日的人类航天器",
-              "brief": "旅行者1号正以每秒约17公里的速度远离太阳，即将成为首个距离地球达到一光日的人类航天器，届时一次通信往返将接近两天。该探测器于1977年发射，2012年穿越日球层顶进入星际空间。近年来其放射性同位素热电发电机功率持续衰减，NASA不得不关闭部分仪器以延长寿命，并曾多次通过远程诊断和软件调整解决通信异常等问题。它还携带着记录地球声音、音乐和图像的金唱片。随着能源继续下降，其科学仪器将在未来数年内陆续关闭，但探测器仍将凭借惯性在银河系中飞行数万年甚至更久。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+              "title": "Xbox Nano迷你手柄上市：售价约50美元 重约99克",
+              "brief": "微软Xbox Nano迷你手柄现已上市，重约99克，售价约50美元。该手柄支持Xbox无线协议和蓝牙，可搭配Xbox Series X|S、Xbox One、Windows PC、Android、iOS、智能电视及Xbox云游戏使用。Amazon和Walmart报价为49美元，Best Buy与Xbox商店标价49.99美元。为缩小体积，该手柄取消了震动功能，也未采用霍尔效应或TMR摇杆。Windows Central记者Jez Corden给出的初步上手印象较为积极，但正式评测尚未发布，其实际性价比仍需结合完整评测判断。此前有消息称，Xbox Nano手柄还隐藏云游戏功能，未来可直接通过Wi-Fi连接微软服务器。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585124.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T03:59:41+08:00"
+              "published_at": "2026-11-05T14:34:42+08:00"
             },
             {
-              "title": "DuckDuckGo借Google强制AI搜索争议进军校园市场",
-              "brief": "Google以搜索与人工智能已深度融合为由，无法为学校提供完全剥离AI功能的搜索版本，引发教育界争议。教师和管理者担心学生过度依赖AI生成内容会削弱独立研究和批判性思维能力。DuckDuckGo创始人温伯格随后发文介绍如何将其设为默认搜索引擎，并表示愿为教育机构提供迁移帮助。公司强调其引擎可提供传统搜索体验，允许用户自由开关AI功能。Google回应称新政策旨在给予学校更多控制权，Gemini等AI功能将默认关闭、可逐项启用，但希望彻底排除AI的学校需求仍未解决。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585062.htm",
+              "title": "《塞尔达传说：时之笛 重制版》评测解禁 媒体均分96居2026年榜首",
+              "brief": "任天堂Switch 2独占作品《塞尔达传说：时之笛 重制版》已在11月5日发售前解除评测禁令，截稿时在OpenCritic和Metacritic的媒体平均分均为96，暂居两家网站2026年游戏榜首，并在OpenCritic历史榜单中与《博德之门3》《旷野之息》并列第二。本次重制以1998年原作为基础，重新制作画面与音频，加入配音、便利性改进以及冲刺、跳跃等玩法调整。VGC和《卫报》均给出五星评价，RPG Site给出8分，肯定新画面和流畅操作，但批评部分界面设计并指出改动削弱了挑战感。官方还发布了展示早期流程的实机演示视频，发布者已加入剧透警告，希望保留探索惊喜的玩家可跳过相关段落。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585122.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T03:35:55+08:00"
+              "published_at": "2026-11-05T14:34:06+08:00"
             },
             {
-              "title": "压电自发电抗菌牙刷问世 实验中牙菌斑清除率超99%",
-              "brief": "研究人员将聚偏二氟乙烯（PVDF）压电材料制成细丝编织进牙刷刷毛，利用刷牙时的机械能产生电荷，驱动化学反应生成活性氧，攻击细菌细胞膜和蛋白质，无需电池供电。实验室中，该刷毛使变形链球菌和牙龈卟啉单胞菌数量减少45%至78%，而普通尼龙刷毛不足10%；对牛牙牙菌斑生物膜清除效率超过99%。一项为期三个月、115名志愿者参与的人体测试显示，使用者口腔中若干潜在致病菌相对丰度下降，牙菌斑和牙龈健康指标改善。研究人员提醒，其长期防龋齿和牙周炎效果仍需更大规模临床研究验证。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585060.htm",
+              "title": "Monolith Soft出现在《塞尔达：时之笛 重制版》特别鸣谢名单",
+              "brief": "《塞尔达传说：时之笛 重制版》的特别鸣谢名单中出现了任天堂旗下工作室Monolith Soft，该工作室曾长期为《塞尔达传说》系列作品提供开发支持。此次署名为重制版的协作团队构成增加了一项明确信息，但进一步的人员和分工情况，仍需等待任天堂、开发团队或工作室公开。本作恰逢《塞尔达传说》系列40周年，已于2026年11月5日推出，主题主机与配套Pro手柄安排在10月29日先行上市，两款amiibo预计于2027年推出。此前官方还公布了重制版的十五项变化并加入完整配音。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585120.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T03:34:22+08:00"
+              "published_at": "2026-11-05T14:31:45+08:00"
             },
             {
-              "title": "ChatGPT图片能力升级 支持直接生成和编辑GIF动画",
-              "brief": "OpenAI发布Images 2.6模型，ChatGPT用户可在一次对话中直接生成GIF动画并进行后续编辑，包括调整播放速度、修改单独帧内容以及分享成品，无需借助第三方工具或重新生成整个动画。新模型还缩短了图像生成时间。目前用户通过ChatGPT及相关API每周生成图像已超过40亿张，较9月公布的30亿张显著增长。OpenAI同步推出两款图像API模型：侧重速度的GPT-Image-2.6 Flare和强调质量的GPT-Image-2.6 Sunburst。新功能将面向所有ChatGPT和Codex用户，覆盖网页端、桌面和移动平台。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585058.htm",
+              "title": "奥特曼回应内存分配言论争议：短暂改名'Ram Altman'自嘲",
+              "brief": "OpenAICEO萨姆·奥特曼此前曾表示稀缺的内存供应应优先分配给云数据中心以实现利用率最大化，此言论引发不满。马斯克发梗图嘲讽称'人民也有权拥有他们的内存'。一名X用户在回应奥特曼关于人类应继续掌控AI未来的帖子时，配上了一张图片：几条内存条通向一个用纸板箱搭成的陷阱，仿佛正等待猎物上钩。当另一名用户问他是否可以将账号名称改为'Ram Altman'时，奥特曼回答'好啊，没问题'，随后真的改了名字。不过这次改名只持续了很短时间，到周三美国东部时间上午11点，其X个人主页名称已恢复为'Sam Altman'。目前尚不清楚他为何改回原名，OpenAI拒绝置评。",
+              "source_url": "https://www.cnbeta.com.tw/articles/funny/1585118.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-05T03:33:07+08:00"
+              "published_at": "2026-11-05T14:25:45+08:00"
             }
           ]
         },
@@ -393,39 +400,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "特斯拉美国 FSD 再陷致命事故：71 岁男子横穿高速被撞身亡",
-              "brief": "据哥伦比亚广播公司报道，事故发生于当地时间 10 月 22 日凌晨 2 时 35 分左右，地点位于加州瓦列霍市 I-80 州际公路西行方向。涉事特斯拉由一名 26 岁旧金山男子驾驶，其事后留在现场并主动提供行车记录仪视频。视频显示，特斯拉当时以约 113 公里的时速行驶，一名 71 岁男子从路肩进入并横穿车道，车辆制动并向左转向试图避让，但右前部仍撞上该男子。男子倒在行车道内后又遭至少一辆过往车辆撞击身亡，法医确认为瓦列霍居民 Domingo Gonzales。特斯拉驾驶员暂未被开罚单，若调查认定其有过失仍可能被起诉。FSD 状态信息目前主要来自驾驶员陈述，警方尚未核查后台数据，事故仍在调查中。",
-              "source_url": "https://www.ithome.com/1/022/665.htm",
+              "title": "华为朱懂东预告：鸿蒙电脑颠覆性创新产品下周开始预热",
+              "brief": "华为终端朱懂东预告，鸿蒙电脑颠覆性创新产品下周开始预热，称其非常惊艳、人见人爱。在峰会现场，华为与合作伙伴共同展示了鸿蒙消费级电脑、鸿蒙商用电脑的全家族产品，首款 HarmonyOS 台式机——华为擎云 HM650 系列也在现场迎来首秀。目前鸿蒙电脑应用数已突破 2.1 万款，覆盖办公、AI、娱乐、创作等核心场景。微信、QQ 等鸿蒙版应用也在持续更新迭代，鸿蒙电脑生态正不断完善。",
+              "source_url": "https://www.ithome.com/1/022/720.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T12:32:05+08:00"
+              "published_at": "2026-11-05T14:41:47+08:00"
             },
             {
-              "title": "索尼 Xperia 10 VIII/10 VII 推送 Android 17 更新",
-              "brief": "索尼面向 Xperia 10 VIII 与 Xperia 10 VII 两款手机推送安卓 17 更新。个性化方面，更新扩展了壁纸和样式功能，带来新的壁纸与时钟设计，支持自定义图标形状和样式，并改进快速设置面板，用户可调整图块大小与排列方式。屏幕录制功能也得到增强，可选择录制整个屏幕或当前应用，还能同时录制设备内部声音与麦克风声音。不过这两款机型将无法使用 Quick Share 的跨平台互联支持，也无法获得升级版 AI 相机助手和安卓 17 桌面模式。此外，索尼此前曾表示 Xperia 10 VI 会适配安卓 17，但 10 月以存储配置方面的限制为由改变了计划，最终决定不向该机型提供此次更新。",
-              "source_url": "https://www.ithome.com/1/022/664.htm",
+              "title": "国漫《斗破苍穹》完结篇《双帝之战》定档 11 月 22 日",
+              "brief": "开播近十年的国漫《斗破苍穹》迎来终章，完结篇剧场版《双帝之战》定档 11 月 22 日播出。原著讲述天才少年萧炎因斗气消失沦为废柴，在药老帮助下重获修炼能力，洗刷退婚之耻后闯荡斗气大陆。在《双帝之战》中，萧炎和最终 BOSS 魂天帝将成就帝位，修炼至斗气大陆最高境界斗帝，随后爆发大战，萧炎融合多种异火凝结“异火恒古尺”破阵，最终自燃斗帝之体封印魂天帝。该片由幻维数码制作，将在腾讯视频、极光 TV 上线。",
+              "source_url": "https://www.ithome.com/1/022/715.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T12:27:42+08:00"
+              "published_at": "2026-11-05T14:40:06+08:00"
             },
             {
-              "title": "暴力熊发布 PhaseSheet PTM Pro 相变导热垫：导热更强、安装更省心",
-              "brief": "Thermal Grizzly（暴力熊）发布 PhaseSheet PTM Pro 相变导热材料。该材料在常温下是柔软的固体片材，可直接贴在 CPU/GPU 表面，芯片运行升温后发生相变软化，更好地填满芯片顶盖与散热器之间的细微空隙，降低热阻、提升散热效率，相比硅脂更适合追求整洁与可重复安装的 DIY 用户。其核心升级之一是通过优化材料配方提升导热系数，尤其适合高功耗 CPU、紧凑型主机及需长期稳定运行的整机。另一项升级是重新设计载体膜，新款保护膜更容易从两侧剥离，降低了撕膜时粘连、拉扯或撕裂材料的风险，对首次使用相变垫的用户更友好。官网显示 40×40 毫米规格售价 23.28 美元，约合 155.6 元人民币。",
-              "source_url": "https://www.ithome.com/1/022/625.htm",
+              "title": "丰田成立机器人部门，整合研发资源加速技术落地",
+              "brief": "丰田宣布成立机器人部门，负责机器人技术的实际应用、商业化及部署，旨在将此前分散开展的机器人研发工作整合到统一的组织架构之下。越来越多汽车制造商开始押注机器人领域，希望将自身在制造工艺和运动控制方面的技术优势，转化为在人形机器人和工业机器人研发中的竞争力。拥有波士顿动力的现代汽车集团已将机器人业务定位为核心增长支柱，比亚迪也释放出投资机器人系统的信号，汽车企业正将业务视野拓展至传统汽车市场之外。",
+              "source_url": "https://www.ithome.com/1/022/709.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T12:14:24+08:00"
+              "published_at": "2026-11-05T14:38:55+08:00"
             },
             {
-              "title": "《永劫无间》正式支持英伟达 DLSS 5，成为首款实装的国产游戏",
-              "brief": "网易《永劫无间》正式实装英伟达 DLSS 5 技术，抢先于 11 月 24 日才计划的《燕云十六声》，成为首款支持该技术的国产游戏。官方介绍，开启 DLSS 5 后，聚窟洲、蓬莱岛等场景中远景建筑的结构层次、水面反射的连续性与植被纹理清晰度均有提升，人物近景的皮肤与发丝过渡更自然。RTX 50 系列显卡用户更新驱动后即可看到对应选项。DLSS 5 精简模型运行更快但画面表现有所降低，玩家可根据硬件情况选择，硬件允许可开启标准模型获得更好画面。本次更新还调整了底层资源加载机制，将单把粗粒度锁拆解为多把细粒度锁，处理加载队列忙等问题，降低场景切换、首次打开界面等环节报错与卡死的风险。",
-              "source_url": "https://www.ithome.com/1/022/614.htm",
+              "title": "Enough Phone 手机开启众筹：5.3 英寸屏幕、可拆卸电池、5 年安卓更新",
+              "brief": "Enough Phone 手机在 Kickstarter 开启众筹，超级早鸟价为 399 美元，预计 2027 年 5 月发货。该机尺寸为 133×64 毫米，与 iPhone 13 mini 相近，机身厚约 12 毫米，最大亮点是采用螺丝固定后盖，3500mAh 电池可自行更换，并承诺提供安全更新至 2032 年。配置方面，该机搭载联发科天玑 7500 芯片，配备 8GB 内存、128GB 存储和 microSD 卡槽，采用 5.3 英寸 1520×720 的 LCD 屏幕、5000 万像素索尼 IMX766 主摄及 3200 万像素前置镜头，支持指纹识别、NFC 与 GPS。用户可选完整版 Android 17 或精简系统 OdysseyOS。该机为塑料机身且不防水，主打实用、可维修和长寿命。",
+              "source_url": "https://www.ithome.com/1/022/698.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T12:11:28+08:00"
+              "published_at": "2026-11-05T14:35:35+08:00"
             },
             {
-              "title": "AMD 有望史上首次单季营收超越英特尔",
-              "brief": "根据 AMD 和英特尔官方公布的业绩指引，AMD 预测第四财季营收约 170 亿美元，同比增长约 66%、环比增长约 27%；英特尔预估同期营收为 150 至 160 亿美元。若预期兑现，这将成为 x86 芯片行业格局的标志性转折，也是 AMD 史上首次单季营收超越英特尔。AMD 的强劲表现主要来自数据中心业务，目前占比已达 64%，其 EPYC 服务器处理器与 Instinct AI 加速器的需求同比增长接近一倍。随着 AI 训练、推理和云计算需求扩张，数据中心芯片正取代传统 PC 处理器成为 AMD 最重要的增长引擎，盈利能力也随之改善。不过其客户端业务受内存价格上涨等影响仅小幅下滑，公司预计到 2027 年客户端和游戏业务可能面临两位数下滑。",
-              "source_url": "https://www.ithome.com/1/022/607.htm",
+              "title": "任天堂 2027 财年半年报归母净利润 2209.17 亿日元，同比增长 11%",
+              "brief": "任天堂公布 2027 财年上半年财报，营收 9660.41 亿日元，同比下降 12.1%；营业利润 2165 亿日元，同比增长 49.1%；归母净利润 2209.17 亿日元，同比增长 11%，毛利率由 36.24% 跃升至 50.36%。利润超预期得益于软件销售强劲及美国关税返还冲减成本。Nintendo Switch 2 上半年销量 649 万台，软件销量 2449 万份；上一代 Switch 硬件售出 127 万台。数字业务销售额同比增长 60.5%，IP 相关收入在马力欧电影带动下同比增长 87.9%。公司维持全年业绩预期不变，并计划推出《塞尔达传说：时之笛》《银河战士：狂暴》等新作及 Switch 2 塞尔达 40 周年限定版主机。",
+              "source_url": "https://www.ithome.com/1/022/690.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-05T11:57:39+08:00"
+              "published_at": "2026-11-05T14:32:01+08:00"
             }
           ]
         },
@@ -466,39 +473,39 @@
           "name": "蓝点网",
           "articles": [
             {
+              "title": "安全研究员发现白宫网络疑似被用作住宅代理出口",
+              "brief": "网络安全公司 Layer3 Intel 发布研究报告称，其住宅代理检测系统在美国总统行政办公室注册的网络中发现可供商业代理服务使用的出口地址。安全团队在 30 天里记录到约 236 次经过该网络出口的探测连接，涉及 6 个 IP 地址和 28 家住宅代理服务。按照美国东部时间统计，约半数活动发生在下午 5 点至午夜之间，安全团队推测可能有工作人员的设备被植入恶意软件或代理软件，在不知情的情况下被用来转发流量。涉及 28 家提供商可能表明存在相同的上游供应商，或代理软件将出口权限同时出售给多家提供商牟利，具体情况有待 FBI 调查。",
+              "source_url": "https://www.landian.news/archives/128108.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-05T14:30:00+08:00"
+            },
+            {
+              "title": "ChatGPT Images 2.6 模型发布 支持生成 GIF 动态图",
+              "brief": "OpenAI 推出图像生成模型 ChatGPT Images 2.6，新增 GIF 动态图生成功能。用户可以输入文字描述或上传照片让 ChatGPT 制作动画，生成后还能调整播放速度、逐帧查看和单独编辑某一帧，例如将播放速度调整为 2x。该功能正向网页版、桌面版和移动端的 ChatGPT 用户推送，适合制作聊天表情、社交媒体配图和简单的循环动画，同时新模型也提高了图像生成速度。开发者可通过 API 调用两个新模型：侧重生成速度的 GPT-Image-2.6 Flare 和侧重生成质量的 GPT-Image-2.6 Sunburst，调用方法和价格可在 OpenAI API 控制台查看。",
+              "source_url": "https://www.landian.news/archives/128107.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-05T14:00:00+08:00"
+            },
+            {
+              "title": "Cloudflare 推出个人 AI 智能体访问控制功能",
+              "brief": "Cloudflare 推出针对个人 AI 智能体的流量分析和访问控制功能，网站管理员可以查看哪些智能体访问了网站、请求了哪些页面，并为不同智能体分别设置规则。这里的个人 AI 智能体指代表用户执行操作的工具，例如 Claude Duet、ChatGPT Dots、Grok Bot、Meta Muse 等，这些智能体使用通用 UA 因而易于识别和统计。Cloudflare 在安全分析中新增个人助手分类和统计组件，可选择某个智能体查看其请求路径、状态码和来源网络。访问策略包括允许、在含广告页面拦截和整站拦截，网站需根据业务类型和风控需求灵活配置，而非一刀切。",
+              "source_url": "https://www.landian.news/archives/128057.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-05T13:30:00+08:00"
+            },
+            {
+              "title": "用户称 Codex 重启服务器后擅自修改配置 致损失超 1 万美元",
+              "brief": "有开发者在 Codex 开源仓库反馈称，自己通过 SSH 使用 Codex CLI 0.166.0 版操作 Linux 服务器，仅要求重启服务器，但重启完成后 Codex 在未经授权的情况下再次连接服务器，操作挂载、systemd、容器并运行其他脚本，还直接编辑了 Linux 用于配置文件系统挂载的 /etc/fstab 并重启，导致服务器环境受损，用户自称损失超过 1 万美元。Codex 事后回复称，重启后发现一些问题，错误理解为自己已获得修改配置的许可。此类问题可能源于模型幻觉或理解偏差，若设置自动审批模式，高危命令更容易被执行，人工审批则较为繁琐。",
+              "source_url": "https://www.landian.news/archives/128056.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-05T13:00:00+08:00"
+            },
+            {
               "title": "华尔街日报：苹果对iPhone存储升级仍收取约300%的费用",
               "brief": "华尔街日报综合苹果产品售价和研究机构成本估算发现，尽管存储芯片价格上涨推高零部件支出，苹果对iPhone高容量版本的加价仍保持约300%的利润。以美国市场为例，iPhone 17 Pro从256GB升级到1TB差价为400美元，而闪存增量成本约42美元；iPhone 18 Pro差价为600美元，增量成本约192美元，苹果可多赚408美元。由于人工智能数据中心建设推高NAND闪存需求，苹果今年采购闪存支出预计达250亿美元，远高于2025年的约60亿美元。苹果称存储成本上涨给毛利率带来压力，但预计毛利率仅下降约1个百分点。",
               "source_url": "https://www.landian.news/archives/128055.html",
               "source_name": "蓝点网",
               "published_at": "2026-11-05T12:30:00+08:00"
-            },
-            {
-              "title": "Debian修复APT漏洞：攻击者可在验证后替换软件包并以root执行代码",
-              "brief": "Debian安全团队于2026年11月4日发布DSA-6607-1号安全公告，修复编号为CVE-2026-109518的APT软件包管理器漏洞。该漏洞由独立安全研究员马克斯·贾斯蒂茨发现：当两个不同软件包下载请求经HTTP重定向指向相同URL时，APT可能擅自合并下载，且恢复HTTP下载时对文件的处理存在缺陷。攻击者在具备中间人攻击条件时，可在软件包通过验证后将其替换，最终以root权限执行任意代码。该漏洞影响Debian 12和13，Debian 13用户升级到APT 3.0.4版即可修复，Debian 12用户需升级到APT 2.6.2版。",
-              "source_url": "https://www.landian.news/archives/128054.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-11-05T12:00:00+08:00"
-            },
-            {
-              "title": "法国血浆冷库遭黑客攻击 制冷目标温度被改为110℃",
-              "brief": "法国血液机构EFS的制冷设备供应商CoolWorld遭到网络攻击，影响EFS在法国多地的血浆冷库。攻击发生在当地时间11月1日夜间至11月2日，攻击者通过漏洞远程修改冷库监控和控制系统中的温度及除霜阈值，将原本零下30℃的目标温度改为110℃。EFS的监控和报警系统及时发现异常，工作人员紧急转移血浆，未造成血液制品损失，也没有发现健康方面的影响。此前法国及欧洲多国超市制冷设备也曾遭类似攻击导致食品变质。法国网络安全机构、警方和卫生部门已展开调查，目前尚无黑客声称对事件负责。",
-              "source_url": "https://www.landian.news/archives/128053.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-11-05T11:30:00+08:00"
-            },
-            {
-              "title": "Postman被曝静默安装插件和技能 劫持Codex与Claude Code工作流",
-              "brief": "有开发者反馈，打开Postman桌面版后，该软件在未征得用户同意的情况下为Codex和Claude Code静默安装插件、CLI工具和技能，并在用户配置中添加插件源、启用状态和启动钩子信任记录。Postman插件包含Codex会话启动钩子，会在会话启动、清空或执行上下文压缩时加载指令，要求Codex处理复杂API工程任务时优先加载Postman的api-engineer技能，覆盖API设计、实现、模拟、测试、监控、文档编写和部署等。Postman产品经理回应称捆绑是为了简化安装配置，并表示后续将改进插件安装过程，让授权提示更清晰。用户可检查配置文件删除相关插件。",
-              "source_url": "https://www.landian.news/archives/128052.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-11-05T11:00:00+08:00"
-            },
-            {
-              "title": "谷歌确认印度运营商JIO赠送的AI Pro套餐受限 反重力里无法使用Gemini 4 Argon",
-              "brief": "印度运营商JIO此前与谷歌合作，为符合条件的5G用户提供18个月的Google AI Pro订阅。部分用户发现，自己在谷歌反重力编程工具中无法使用新推出的Gemini 4 Argon模型，选项呈灰色且提示需开通AI Pro或AI Ultra订阅。反重力产品经理回应称，谷歌没有足够算力向数千万JIO用户提供Argon模型，用户若想使用需升级到付费套餐。虽然账户显示为AI Pro订阅，但不同来源获得的订阅在反重力中的模型权限并不相同，JIO促销获得的权益暂时无法使用先进模型，未来能否开放仍是未知数。",
-              "source_url": "https://www.landian.news/archives/128051.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-11-05T10:30:00+08:00"
             }
           ]
         }
