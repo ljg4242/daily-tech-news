@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T08:53:40.541100+08:00",
+  "generated_at": "2026-11-06T10:53:23.944949+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,39 +49,39 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "《奥卡菲娜：非寻常厨娘》在 Apple TV 首播",
+              "brief": "Apple TV 最新美食冒险节目《奥卡菲娜：非寻常厨娘》现已上线。节目由艾美奖得主、喜剧演员奥卡菲娜（本名林家珍）主演并担任执行制作人，共八集，将播出至12月18日，嘉宾包括知名厨师、餐厅经营者及其个性鲜明的家人。剧情中，奥卡菲娜展开一场横跨美国的个人之旅，探索当代亚裔美国料理。她的家族曾经营纽约法拉盛唐人街首家标志性粤菜餐厅Lum's，但尽管在餐饮世家长大，她却完全不会做饭。在众多名厨帮助下，她走遍美国探索掌握亚洲料理烹饪的秘诀，并尝试重新诠释家族餐厅的传承。该节目加入了 Apple TV 不断扩充的美食节目阵容。",
+              "source_url": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-06T10:10:07+08:00"
+            },
+            {
+              "title": "苹果官方说明如何关闭新款 MacBook Pro 的发光 Logo",
+              "brief": "新款 MacBook Pro 的 ProLED XDR 显示屏机型时隔十年重新在顶盖回归发光苹果 Logo。与旧款利用屏幕背光照亮 Logo 不同，新机型采用 OLED 屏，没有背光可借用，需以不同方式实现发光。Logo 亮度与屏幕亮度联动，并考虑环境光线：在昏暗房间会更暗，明亮房间则更亮，合上笔记本时 Logo 呈抛光金属外观。开发者 Rambo 此前发现该 Logo 由软件控制，具有 25kHz PWM 调光和逐台校准。现在苹果发布了官方支持文档，说明发光 Logo 的工作原理，并提供关闭方法：拥有管理员密码的用户可在终端运行 sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0 命令将其彻底关闭，之后也可恢复。",
+              "source_url": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-06T09:48:42+08:00"
+            },
+            {
+              "title": "WhatsApp AI 照片扩展功能开始在 iOS 推出",
+              "brief": "据 WABetaInfo 报道，WhatsApp 正在推出由 Meta AI 驱动的照片扩展工具，类似 Apple Intelligence 的 Extend 功能及 ChatGPT、Photoshop 中的图片扩展。该功能目前仅向部分用户开放，主要限于通过 TestFlight 参与测试版的用户。用户在聊天中选择照片后，WhatsApp 会打开绘图编辑器，可选择 AI 效果进行优化，其中包括扩展照片的新选项。选定后，Meta AI 需要几秒钟分析照片并生成扩展版本，完成后用户可选择发送，该功能也适用于状态更新。如果对结果不满意，用户可点击撤销按钮恢复原图，再次尝试生成不同效果。鉴于该功能已在 Android 测试版推出，部分公开版 iOS 用户也已可用，正式全面推送可能为时不远。",
+              "source_url": "https://9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-06T09:24:45+08:00"
+            },
+            {
+              "title": "报告：第三季度全球平板市场大跌，iPad 出货量下滑 27.5%",
+              "brief": "据 Omdia 发布的最新报告，2026年第三季度苹果出货1150万部 iPad，占全球总出货量的36%，但同比下滑27.5%，市场份额下降2.2个百分点。同期全球平板市场整体同比下滑23%，总出货量从4180万部降至3220万部，为近三年最低水平。竞争对手方面，三星以16.9%的份额保持第二，联想以12.7%位居第三，小米为7.3%，华为为5.7%。出货量增长方面，联想是前五名中唯一实现正增长的企业，同比增长11.9%；华为跌幅最大达43%，苹果为27.5%，三星为21.7%，小米为10.6%。Omdia 研究经理指出，供应限制影响厂商推出有意义的规格升级，新款与前代产品差异不大，消费者倾向于推迟购买以等待更实质性的改进。",
+              "source_url": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-06T08:56:11+08:00"
+            },
+            {
               "title": "F1 CEO：苹果有望竞购更多国家的F1转播权",
               "brief": "F1美国区转播由Apple TV提供，双方对收视表现和订阅增长均满意。在F1母公司Liberty Media最新财报电话会上，F1 CEO斯特凡诺·多梅尼卡利表示，一旦其他市场出现机会，苹果将会竞购更多国家的F1转播权。F1此前表示不寻求单一全球媒体合作伙伴，而是采取组合式协议，为每个地区挑选最佳伙伴。英国天空电视台已将F1转播权续约至2034年，苹果难以进入该市场。Liberty Media CEO德里克·张称，苹果作为其他市场的潜在竞购方对业务有益。目前美国观众可通过Apple TV订阅观看所有F1比赛直播和点播，苹果还为F1直播新增杜比全景声音轨，并扩展了多画面观看功能的支持平台。",
               "source_url": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-06T08:36:46+08:00"
-            },
-            {
-              "title": "报告：苹果第三季度占据全球智能手机收入的一半",
-              "brief": "Counterpoint Research 最新报告显示，2026 年第三季度苹果夺得史上最高的全球智能手机收入份额，占比达一半。三星以 19% 位列第二，小米、OPPO、vivo 分别占 6%、5% 和 4%。iPhone 平均售价创下 1031 美元的历史新高，同比增长 19%。研究总监指出，iPhone 18 Pro 系列较高的发售价格、基础版缺席及旧款机型提价共同推动了 ASP 增长，苹果凭借定价能力将内存成本上涨转嫁给消费者，对需求影响甚微。此外，三星出货量份额虽仍居首，但对苹果的领先已缩小至 22% 对 21%。",
-              "source_url": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-06T06:22:49+08:00"
-            },
-            {
-              "title": "CleanMyMac 新增 Gmail 清理与 Chrome 标签页管理功能",
-              "brief": "MacPaw 今日为 CleanMyMac 推出两项新功能：邮件清理和浏览器护理。邮件清理面向 Gmail，用户可批量删除无用邮件、退订邮件列表，并按发件人、类别、年份或附件大小查看邮件，还能找出占用 Gmail、Google 云端硬盘和 Google 相册共享存储空间的邮件，永久删除后即可释放空间。浏览器护理通过 Chrome 扩展连接 CleanMyMac，提供近乎实时的内存用量显示，可暂停高资源占用的标签页、查找重复页面并识别长时间开启的页面。两项功能均需用户确认后才会执行操作，页面内容与浏览历史仅保存在本地。功能即日起向订阅用户推出。",
-              "source_url": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-06T05:48:20+08:00"
-            },
-            {
-              "title": "9to5Mac 每日播报：MacBook Neo 2 传闻与 watchOS 27.3",
-              "brief": "本期 9to5Mac Daily 播客讨论了三条新闻：其一，据报道苹果下调了员工的 AI token 使用配额，Ternus 为削减成本采取这一举措；其二，watchOS 27.3 测试版为 Apple Watch 带来新的 Siri Recap 和实时回看功能；其三，MacBook Neo 2 即将推出，据报道苹果预期其将取得巨大成功。节目每个工作日录制，可在 Apple Podcasts、Overcast、Spotify 等平台收听和订阅，订阅 9to5Mac Daily Plus 还可解锁无广告版本和附加内容。听众可通过 happyhour@9to5mac.com 与节目组联系。",
-              "source_url": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-06T05:31:08+08:00"
-            },
-            {
-              "title": "Apple Arcade 新增四款游戏，包括 Crossy Road Rush 和支持 WNBA 球队的 NBA 2K27",
-              "brief": "Apple Arcade 新增四款游戏，包括 NBA 2K27 街机版、Crossy Road Rush、Food Stylist 和 KAMI 2+。其中 NBA 2K27 街机版首次让用户可以操作 WNBA 球队。Crossy Road Rush 在经典玩法基础上加入冒险模式、障碍挑战、可收集角色和最多四人联机。此外，《足球经理 27 Touch》将于 11 月 10 日作为更新推出，带来最新阵容、重新设计的 iPhone 界面等改进。多款现有游戏也获得更新，另有几款游戏即将下架。该服务售价每月 6.99 美元，包含超过 200 款无广告、无内购的游戏。",
-              "source_url": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-06T04:47:44+08:00"
             }
           ]
         },
@@ -249,6 +249,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "蓝色起源宣布研制性能更高、成本仅为四分之一的新火箭发动机",
+              "brief": "蓝色起源在佛罗里达州肯尼迪航天中心举行的一次会议上宣布对“新格伦”火箭进行两项重大升级，以降低制造成本并提升向地球静止轨道和月球运送载荷的能力。公司首席执行官戴夫·林普表示，新研制的“北极星”发动机是BE-4发动机的简化且更强版本，零部件数量减半，质量减轻30%，约65%的部件可3D打印，制造成本仅为BE-4的25%，最终目标是实现不到一天组装一台发动机，目前公司约每10天制造一台并已开始点火测试。此外，公司还在开发名为GS3的氢氧第三级，为火箭提供额外推力。林普称，发射需求空前高涨，公司希望“新格伦”最终能实现每年发射1000次以上，并表示这些改进将带来颠覆性变化。",
+              "source_url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-06T08:17:06+08:00"
+            },
+            {
               "title": "Alpine Linux曝出十年老漏洞：攻击者可无密码SSH登录设备",
               "brief": "某些配置下的Alpine Linux设备受一个存在十年的漏洞影响，攻击者可通过SSH在不知道任何密码的情况下直接登录。该漏洞源于OpenSSH与轻量级libc替代库musl之间的交互，且要求OpenSSH使用musl时不启用PAM认证框架。成功利用还需满足另外两个条件：系统中至少有一个用户账户使用SHA256或SHA512哈希的密码，且该账户在/etc/shadow的密码字段中配置为“*”，即无密码账户，此类账户常用于基于证书的认证。满足所有条件后后果严重，攻击者只需一次连接即可登录，无需重试。其他使用相同配置的平台也可能受影响。Alpine维护者已于周四发布相关说明。",
               "source_url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
@@ -275,13 +282,6 @@
               "source_url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-06T05:40:36+08:00"
-            },
-            {
-              "title": "诉讼称女子借ChatGPT策划毒杀丈夫",
-              "brief": "北卡罗来纳州女子谢丽尔·盖茨被指在ChatGPT的协助下策划毒害丈夫詹姆斯。大陪审团已于10月以谋杀未遂和食品污染罪起诉她。此前一周，詹姆斯在旧金山高等法院提起诉讼并公开指控OpenAI及其CEO奥特曼未能设置技术防护措施终止对话。诉讼称，谢丽尔最初以自我保护为由，向ChatGPT询问防毒知识，随后展开至少25次涉及投毒计划的对话。ChatGPT不仅没有中断交流，还提供了关于夹竹桃毒素的制备、剂量、给药方式、能否被尸检检出等具体指导。诉讼称她的提问日益可疑，而丈夫才是最终目标。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-06T05:39:40+08:00"
             }
           ]
         }
@@ -319,6 +319,20 @@
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "TotK Recomp：在 Windows 上原生运行《塞尔达传说：王国之泪》，无需模拟器",
+              "brief": "TotK Recomp 是一个开源项目，通过静态重编译技术，把《塞尔达传说：王国之泪》的游戏文件直接转换成 Windows 可执行程序，无需 ryujinx、yuzu 等 Switch 模拟器即可在 PC 上原生运行，也支持 Linux 和 Steam Deck。安装时从项目 GitHub 的 Releases 页面下载 Windows 安装包，解压运行 TotK-Setup.exe，选择游戏文件、prod.keys、语言和安装目录，等待自动生成游戏程序后运行 totk.exe 即可游玩。项目默认支持 60 帧，最高可尝试 144 帧，支持 2K 分辨率、超宽屏、键盘鼠标和手柄。最新 v0.3.4 版本修复了声音消失、DLSS 画面模糊、Intel 核显黑屏、超宽屏显示错位、Amiibo 崩溃、旧 CPU 启动崩溃以及 Mod 与存档兼容性等多项问题，主要提升稳定性和兼容性。升级时在原目录运行新版安装程序可保留游戏文件、存档和配置，但需要重新编译游戏。",
+              "source_url": "https://www.appinn.com/totk-recomp/",
+              "source_name": "小众软件",
+              "published_at": "2026-11-06T09:18:21+08:00"
+            },
+            {
+              "title": "OpenSSH 爆出十年老漏洞：超长密码可绕过 SSH 登录验证",
+              "brief": "OpenSSH 于 11 月 5 日紧急发布 10.6p2，修复了被研究人员命名为 *sshole 的严重漏洞（CVE-2026-123158），评分 8.1 分。该漏洞隐藏约十年，源于 musl libc 的密码处理函数 crypt() 在密码超过 256 字节时返回 *，与 Linux 中表示无有效密码哈希的 * 字符巧合相同，导致 OpenSSH 在特定情况下将验证失败误判为成功。攻击者无需知道真实密码或私钥，只需输入 257 至 1024 字节的任意密码，即可登录未设置密码的账户，甚至可能获得 root 权限。受影响系统需同时满足：使用 musl libc（如 Alpine Linux、OpenWrt）、未使用 PAM、开启密码登录、存在密码字段为 * 的账户等条件。常规 Ubuntu、Debian、Fedora 等 glibc 系统不受影响。Alpine 已发布修复补丁，暂无法更新的用户可关闭 SSH 密码验证。目前尚未发现确认的公开利用案例。",
+              "source_url": "https://www.appinn.com/openssh-sshole-cve-2026-123158/",
+              "source_name": "小众软件",
+              "published_at": "2026-11-06T08:50:52+08:00"
+            },
             {
               "title": "《胜利女神：妮姬》PC 客户端遭供应链投毒，可能窃取密码、密钥和加密货币钱包",
               "brief": "《胜利女神：妮姬》国际服 PC 客户端遭遇供应链投毒攻击，黑客篡改了游戏启动器从官方 CDN 加载的 JavaScript 文件，玩家正常启动游戏时可能在不知情的情况下运行远程控制木马。该木马具备 19 条操作命令，可窃取 Chrome、Edge、Firefox 等浏览器的密码与 Cookie，SSH 私钥、GitHub、AWS 等服务的密钥和 Token，以及加密货币钱包数据，还能读取文件、截图、执行系统命令，并通过植入恶意 DLL 实现持久化驻留。恶意程序包含约 1790 条敏感文件目标路径，涉及 Claude Code、Cursor 等 AI 开发工具。玩家可在游戏安装目录日志中搜索 k2f_chan 自查是否中招。官方已修复被污染的脚本，但不会自动清除已安装的木马，确认感染者建议重装系统并立即更换密码与密钥。",
@@ -379,39 +393,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "Anthropic 推出 Claude 个人理财功能，支持消费分析和账单追踪",
-              "brief": "Anthropic 推出 Claude 个人财务功能，用户可安全绑定银行卡账户，用自然语言直接提问。该功能仅拥有只读权限，无法划转、管理资金或替用户投资。Claude 可支持查看余额、交易记录，并用通俗语言解答，遇到陌生术语还会给出解释。该板块没有广告和赞助推荐，Claude 本身不发行信用卡、不提供贷款，也没有自营储蓄账户。用户可询问支出去向、异常账单如重复扣费或悄悄涨价的账单，也可提出宏观问题，Claude 会先解释术语再统计利息总额，还能生成每周支出图表、待缴账单日历和自定义数据看板。Anthropic 强调结果可能出错，重要金额务必与银行核对。",
-              "source_url": "https://www.ithome.com/1/023/051.htm",
+              "title": "京东方：已拥有完备玻璃基封装载板制造工艺能力",
+              "brief": "京东方表示，公司自动化设备已实现通线，已有超过100×100mm尺寸的24层玻璃基封装载板产出并送样，客样已通过相关信赖性测试。其玻璃基封装载板试验线于2026年上半年实现全自动化设备通线，设计产能为每月1000片。今年9月，京东方董事长陈炎顺曾表示，量产决策条件包括客户订单量及良率保证，希望在2027年上半年之前，特别是争取2027年一季度，使相关产品达到量产投资决策条件。",
+              "source_url": "https://www.ithome.com/1/023/128.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-06T08:37:10+08:00"
+              "published_at": "2026-11-06T10:43:50+08:00"
             },
             {
-              "title": "BLG 零封 DK 挺进《英雄联盟》S16 四强，下轮对战 T1/KC 胜者",
-              "brief": "在《英雄联盟》S16 全球总决赛八强赛 BLG 对阵 DK 的比赛中，BLG 以 3:0 零封对手晋级四强。第二局比赛中，BLG 上单选手 Bin 正式达成国际赛事 200 次出场里程碑，成为首位达成这一成就的上单选手，其赛前以 198 次出场、63.6% 的胜率位居国际赛事上单出场次数榜首。DK 作为 LCK 赛区四号种子，瑞士轮先后击败 G2、T1 和 MKOI，以 3 胜 0 负晋级八强。第一局 MVP 为 BLG 打野 Xun，其纳亚菲利两次三杀帮助 BLG 获胜；第二局 MVP 为下路 Viper，其伊泽瑞尔在对拼和团战中表现出色，最终 BLG 推平 DK 基地锁定胜局。",
-              "source_url": "https://www.ithome.com/1/023/050.htm",
+              "title": "2027款东风标致408车型上市，官方指导价9.97万元",
+              "brief": "2027款东风标致408上市，官方指导价9.97万元。新车外观变化集中在车色，新增南法黄与梧桐绿两款配色，选装价值3000元，上市期限时免费。配置方面，新车标配Blue-i 4.0智能网联系统与车规级芯片，支持AI语音控制，智能云车机支持200余款应用下载，新增数字钥匙支持远程预调车内温度、手机寻车鸣笛及临时分享，带透明底盘功能的360°全景影像列为标配。动力继续搭载第四代360THP 1.5T四缸涡轮增压发动机，最大功率127千瓦，峰值扭矩255牛·米，匹配爱信6速手自一体变速箱。",
+              "source_url": "https://www.ithome.com/1/023/118.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-06T08:33:46+08:00"
+              "published_at": "2026-11-06T10:39:00+08:00"
             },
             {
-              "title": "京东物流“狼族”机器人升级：智狼取货提速、保姆狼实现无人分拣",
-              "brief": "京东物流“狼族”机器人家族包含智狼、保姆狼、异狼、飞狼等 9 款产品、11 款机器人，在超脑大模型调度下协同作业。智狼是货到人解决方案，已在全球超 100 个仓库规模化落地，存储效率较传统提升 600%，出库效率提升 300%。此次升级首创旋转式取货平台，实现一次钩取到位，单台设备每小时作业次数可突破 240 次，效率提升 30%，存储能力提升 20%；升级版还采用无线供电，实现供电系统零维护，-20℃ 低温仍可使用。保姆狼升级核心是打通从投递、分播、取换箱到打包的端到端全无人化链路，搭载双臂具身机器人自动翻包投递，自动取换货最高 180 次/小时，分播最高支持每小时 34560 件以上商品。",
-              "source_url": "https://www.ithome.com/1/023/048.htm",
+              "title": "消息称Thinking Machines Lab正以400亿美元投前估值筹集50亿美元",
+              "brief": "据消息，Thinking Machines Lab正以400亿美元投前估值筹集50亿美元资金。该公司此前曾以超100亿美元估值完成20亿美元种子轮融资，但后续以500亿美元估值进行的融资尝试谈判破裂。同日，公司发布了第二代模型Inkling 2 Small，采用MoE架构，参数规模594B-A17B，经历四个阶段预训练和9天联合强化训练。官方称该模型在分析智能上的得分远超此前模型，在智能编码、愿景、知识工作、推理方面表现提升，将于下周以Apache 2.0许可开放权重。",
+              "source_url": "https://www.ithome.com/1/023/115.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-06T08:28:56+08:00"
+              "published_at": "2026-11-06T10:36:57+08:00"
             },
             {
-              "title": "OpenSSH 紧急修复 Alpine Linux 严重漏洞：超 256 字节密码即可突破 SSH 防线",
-              "brief": "Alpine Linux 出现严重 OpenSSH 漏洞，攻击者无需真实密码，只需知道一个未设置密码的账户名，并提交 257 至 1024 字节的长密码即可登录。触发条件为：服务器运行未启用 PAM 的 openssh-server、开启密码登录、存在密码字段为 * 的无密码账户，且系统中至少还有一个使用 $5$ 或 $6$ 哈希的已设密码账户。漏洞根源在于 sshd 与 musl 库的 crypt() 函数交互，musl 对超 256 字节的密码返回 *，与无密码账户存储值匹配，导致登录被错误放行，该问题自 2016 年起即可能存在。OpenWrt、Buildroot 和 Yocto 等基于 musl 的系统也需排查。Alpine 已发布修复包，管理员应执行 apk upgrade -U -a 更新并重启 sshd。",
-              "source_url": "https://www.ithome.com/1/023/047.htm",
+              "title": "无印良品：中国消费者信息确认安全，与日本总部App泄露事件无关",
+              "brief": "无印良品表示，经确认中国消费者信息安全，与日本总部App泄露事件无关，公司将进一步加固整体网络安全防护屏障，继续为中国消费者提供安全、可靠的服务环境。此前10月30日，良品计划称无印良品官方App约2726万条客户信息外泄，涉及电子邮箱地址、出生日期和性别，不包括信用卡信息、姓名和住址等。后续调查显示，受影响群体还包括官方网络商城的用户，部分用户受影响信息进一步涉及姓名、地址和电话号码。",
+              "source_url": "https://www.ithome.com/1/023/114.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-06T08:26:09+08:00"
+              "published_at": "2026-11-06T10:36:25+08:00"
             },
             {
-              "title": "美股科技股大幅抛售：五大富豪单日财富缩水 1529 亿美元，费城半导体指数跌约 12%",
-              "brief": "据路透社 11 月 5 日报道，投资者重新评估美国中期选举结果对 AI 数据中心建设的影响，担忧数据中心扩张放缓，科技股和半导体股票遭遇集中抛售，费城半导体指数当天跌幅约 12%，创历史第二大单日跌幅。美股三大指数大幅收跌：道指跌 3.4%，标普 500 跌 4.4%，纳指跌 5.5%，较近期高点回落 11.9%，进入技术性回调区间。个股方面，英伟达跌 9.3%，AMD 跌 17.3%，戴尔跌约 15%，特斯拉跌约 10.8%。福布斯数据显示，马斯克身价单日减少 912 亿美元，迈克尔·戴尔减少 205 亿美元，黄仁勋减少 151 亿美元，埃里森减少 132 亿美元，扎克伯格减少 129 亿美元，五人合计缩水 1529 亿美元。",
-              "source_url": "https://www.ithome.com/1/023/046.htm",
+              "title": "11月全球面板价格集体按兵不动，预估2026Q4笔记本面板需求环比下降超20%",
+              "brief": "据集邦咨询报告，11月全球各尺寸电视、显示器和笔记本电脑面板价格预计保持稳定。电视面板方面，虽然厂商进行产能调节，但减产幅度有限，难以有效收紧供给，若需求持续疲软需更大规模减产才能支撑价格回升。显示器面板第四季度出货量预计环比下降9%，品牌客户对提价态度谨慎。笔记本电脑面板压力最大，第四季度主要品牌需求预计下降超20%，零部件成本上升进一步挤压利润空间。报告指出，降价难以刺激需求，涨价可能损害客户关系，价格稳定成为供需双方最可接受的折中方案。",
+              "source_url": "https://www.ithome.com/1/023/099.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-06T08:21:15+08:00"
+              "published_at": "2026-11-06T10:29:44+08:00"
             }
           ]
         },
@@ -452,6 +466,39 @@
               "source_url": "https://www.ign.com/articles/the-odyssey-is-returning-to-imax-theaters-in-december-ahead-of-awards-season",
               "source_name": "IGN",
               "published_at": "2026-11-06T05:20:05+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "萨姆·奥尔特曼回应个人电脑内存争议，称自己的发言被断章取义",
+              "brief": "OpenAI 首席执行官萨姆·奥尔特曼此前在播客中表示，在内存供应紧张的情况下，将大量内存分散安装在个人电脑中整体利用效率非常低，称这些内存只有 5% 的时间被利用，云端集中使用可提高资源利用效率。这番言论引起众多用户不满和嘲讽。随后奥尔特曼在社交网站上回应称自己的发言被断章取义，表示他也希望全球拥有大量内存，用户想在电脑上装多少内存就装多少，并称自己长期以来都在支持内存扩产，还将 X 账号名称改为 RAM Altman 以化解争议。",
+              "source_url": "https://www.landian.news/archives/128117.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-06T10:30:00+08:00"
+            },
+            {
+              "title": "币安提议 Polygon POS 网络进行协调硬分叉，以转移被盗的 680 万美元 POL 代币",
+              "brief": "加密货币交易所币安与加密预测市场 Polymarket 日前提议 Polygon POS 区块网络进行协调硬分叉，将两起安全事件中被盗、存放于五个钱包地址的约 7049 万枚 POL 代币转移至指定的恢复钱包，按被盗时价格计算约值 680 万美元。提案计划在确定的区块高度将名单地址余额归零，再把等额代币计入经过验证的恢复地址，代币总供应量保持不变。目前这只是提议，后续需社区投票，并需要验证者、RPC 服务商、交易所和节点运营商在激活前运行支持该变更的客户端版本。",
+              "source_url": "https://www.landian.news/archives/128116.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-06T10:00:00+08:00"
+            },
+            {
+              "title": "Discord 决定放弃 Electron 并使用 Rust 重构客户端，内存占用降至 290MB",
+              "brief": "Discord 联合创始人兼首席技术官斯坦尼斯拉夫·维什涅夫斯基确认，公司正在使用 Rust 语言重构桌面客户端，将彻底放弃 Electron 框架，新客户端界面采用 Zed 编辑器团队开发的 GPUI 框架，利用 GPU 加速绘制，外观和操作方式与旧版相同。移动端则计划逐步移除 React Native，保留原生界面并与桌面端共享 Rust 编写的应用代码。由于 Electron 框架内存占用居高不下，Discord 正常情况下占用通常在 1GB 以内，而基于 Rust 的新客户端截图显示内存占用仅 290.2MB，性能和维护效率都有望提升。",
+              "source_url": "https://www.landian.news/archives/128115.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-06T09:30:00+08:00"
+            },
+            {
+              "title": "OpenSSH 发布紧急安全更新，修复绕过密码认证登录漏洞",
+              "brief": "OpenSSH 项目组日前发布紧急安全更新 10.6P2 版，缓解可绕过密码认证直接连接 SSH 服务的漏洞。该问题影响部分使用 musl libc 且禁用 PAM 支持的 Linux 环境，攻击者在开启密码登录的情况下无需知道正确密码即可连接服务器，Alpine Linux 和 OpenWrt 等系统受影响较严重，Debian 等发行版因配置不同不受影响。该问题根本原因在 sshd 之外，但可通过调整 sshd 避免被利用。管理员应尽快升级到最新版，或在更新前禁用密码认证改用密钥登录，禁用前须确保密钥认证可用。",
+              "source_url": "https://www.landian.news/archives/128114.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-06T09:00:00+08:00"
             }
           ]
         }
