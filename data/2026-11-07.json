@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T04:53:17.454537+08:00",
+  "generated_at": "2026-11-07T06:54:18.764778+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "上手体验：苹果全新OLED触屏MacBook Pro",
+              "brief": "MacRumors上手体验了苹果全新OLED屏幕的MacBook Pro。这是苹果时隔五年对MacBook Pro的重新设计，机身更轻薄：14英寸机型薄约0.5毫米，重量降至3磅出头；16英寸机型薄近1毫米，重4磅。苹果还恢复了发光Logo。OLED屏是最大亮点，起始售价2899美元，黑色纯净，像素独立发光，暗背景下亮物体不再有mini-LED的光晕问题，亮度高，HDR内容表现出色，户外也足够亮。屏幕边框更窄，16英寸机型实际尺寸为16.3英寸，并新增类似iPhone的灵动岛取代刘海，集成Siri AI、实时活动等功能。",
+              "source_url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-07T06:05:59+08:00"
+            },
+            {
+              "title": "南加州全新设计Apple Store即将开业",
+              "brief": "苹果宣布，位于加州卡尔斯巴德The Forum购物中心零售店经过一年多翻新后，将于11月20日上午10点在原址重新开业。升级内容可能包括配备无障碍座位的Genius Bar支持区，以及供在线订单取货的专属Apple Pickup区域。翻新期间临时门店将永久关闭，苹果将回到该购物中心2008年启用的原址。卡尔斯巴德是圣地亚哥郡北部郡区的一座海滨城市。",
+              "source_url": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-07T05:48:46+08:00"
+            },
             {
               "title": "新款 MacBook Pro 发光苹果标志可手动关闭",
               "brief": "配备 ProLED XDR 显示屏的全新 14 英寸和 16 英寸 MacBook Pro 重新带回了深受喜爱的发光苹果标志，标志会随屏幕亮度和环境光线自动调节明暗。苹果官方提供了一种关闭该标志的方法，但并非在系统设置中操作，而是需要在终端应用中输入一条命令。具体步骤：打开终端，输入命令 sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0 并回车，随后输入管理员密码，标志灯光便会立即熄灭，无需重启。该设置对 Mac 上所有 macOS 用户账户生效，即使从 macOS 恢复模式启动也会保留，迁移到新 Mac 时还会随系统一并转移。若想重新点亮标志，只需在终端输入 sudo defaults delete com.apple.CoreBrightness LEBacklightMode 即可，但重装系统后灯光会自动恢复点亮。首款配备发光标志的 Mac 笔记本为 1999 年发布的第三代 PowerBook G3。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
               "source_name": "MacRumors",
               "published_at": "2026-11-07T01:18:40+08:00"
-            },
-            {
-              "title": "黑色星期五提前开跑：Apple Watch Ultra 等苹果产品大幅降价",
-              "brief": "黑色星期五促销活动本周正式启动，多款苹果产品提前降价。Amazon 上 Apple Watch Ultra 4 降至 699.99 美元，较原价 799 美元优惠 99 美元，追平历史最低价，该机型于 9 月刚刚发布。Best Buy 将上一代 Apple Watch Ultra 3 直降 250 美元至 549 美元，创历史新低，Milanese Loop 表带版本同样优惠 250 美元至 649 美元，Amazon 也有相同折扣。此外，Amazon 的 HomeView 预购 9 美元折扣回归，深空灰色版本售价 289.99 美元。B&H Photo 也开启了提前黑五促销，涵盖存储、音频等配件的全场优惠。",
-              "source_url": "https://www.macrumors.com/2026/11/06/best-apple-deals-of-the-week-11-6-26/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-07T00:46:04+08:00"
-            },
-            {
-              "title": "iOS 27.3 测试版内容丰富：Siri AI 动作扩展、健康应用重新设计",
-              "brief": "苹果 iOS 27.3 首个测试版带来多项重要更新，本期节目深入探讨相关功能。Siri AI 在苹果应用中获得更多动作，包括取消邮件列表订阅、整理文件和管理 Safari 标签页；在天气应用中可添加收藏地点并切换恶劣天气或未来一小时降水通知。新的开发者预览还支持更灵活的第三方集成，开发者可提供自定义动作和技能，帮助 Siri 协调多个步骤，相关 App Store 提交将于春季开放。Safari 新增垂直标签页和自适应深色模式，可为无深色外观的网站自动应用深色界面。Apple Fitness+ 推出 Gym Strength 功能，根据可用器材和锻炼偏好生成个性化四周计划。",
-              "source_url": "https://www.macrumors.com/2026/11/06/the-macrumors-show-ios-27-3/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-07T00:38:42+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "苹果与司法部反垄断诉讼引发Epic、三星、Oura、Roblox等多方争议",
-              "brief": "2024年3月，美国司法部及15个州和哥伦比亚特区起诉苹果，指控其限制竞争、降低与竞品互操作性、增加用户转向其他设备的难度，苹果否认这些指控。诉讼进入审前证据交换阶段后，双方反复就证据范围发生争执。苹果为反驳指控，向Epic Games、三星、Meta、Oura、Garmin、PayPal、Match Group、Connectivity Standards Alliance等多家公司和机构发出传票，索取相关文件；司法部和原告各州也向Roblox、Epic、Snap等发出传票。近日提交法院的多封信件显示，各方就传票范围、索取信息以及企业是否必须提供某些文件存在分歧，Epic认为苹果要求其提供三起旧案文件并大范围搜查高管内部文件属于过度。",
-              "source_url": "https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more/",
+              "title": "Raycast 新 AI 功能结合语音听写与屏幕感知",
+              "brief": "Raycast 在去年推出屏幕感知功能，允许用户将当前应用或窗口的内容直接带入 AI 聊天，无需复制文本或截图。本周该功能进一步升级，推出 Dictate to AI 新命令，用户可在说话提出请求的同时，自动为 AI 提供当前应用的上下文。此次更新还包括新的听写 AI 扩展、Mac 菜单栏 AI 用量显示、联系人 AI 扩展等。此外，Raycast Notes 支持图片且免费用户可创建无限笔记，Mac 应用搜索更快、内存占用更低，iOS 版新增 AI 写作工具键盘，Windows 版屏幕感知也获得新命令。",
+              "source_url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-07T04:06:06+08:00"
+              "published_at": "2026-11-07T06:28:13+08:00"
             },
             {
-              "title": "HomeKit每周：Airversa Humelle是今冬家中需要的Thread加湿器",
-              "brief": "Airversa Humelle是一款支持Thread协议、可接入Apple Home的加湿器，可通过HomePod、HomePod mini或Apple TV 4K加入现有Thread网络并本地通信。相比仅支持Wi-Fi的配件，Thread设备响应更快、连接更稳定。配对后，它会在家庭App中显示为加湿器，并内置温湿度传感器。用户可设定目标湿度，自动模式下设备会自行调节喷雾量维持该数值，无需另配独立的湿度传感器。硬件方面，Humelle配备3.2升水箱，官方标称续航可达60小时，喷雾高度约40英寸，足以覆盖卧室或普通客厅。它采用顶部注水设计，避免翻倒加水时洒水。睡眠模式噪音为28分贝，适合婴儿房使用，底座还有多色LED灯可自定义。",
-              "source_url": "https://9to5mac.com/2026/11/06/airversa-humelle/",
+              "title": "iOS 27.3：新功能与发布时间一览",
+              "brief": "苹果预计将于 12 月上半月向所有 iPhone 用户推送 iOS 27.3，由于今年 iOS 27.1 仅面向 iPhone Duo 推出，27.3 实际相当于往年的 x.2 更新。新功能方面，重新设计的健康应用回归，分为洞察、长寿和浏览三个标签页，可根据用户数据动态自适应，长寿标签新增基于 Apple Watch 数据的健康年龄功能。Apple Fitness+ 新增 Gym Strength 功能，可根据力量目标、经验和器材生成四周渐进式训练计划。iPhone Duo 用户还将获得单手模式支持，使外屏操作更方便。",
+              "source_url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-07T03:33:00+08:00"
+              "published_at": "2026-11-07T05:58:30+08:00"
             },
             {
-              "title": "iOS 27.2新增三种iPhone自定义方式",
-              "brief": "iOS 27.2带来三项自定义新功能。其一，设置中的Siri页面新增“排除的应用”部分，用户可将特定应用从Siri、搜索和建议中排除，避免Siri误识别名称相似的应用，也可出于隐私考虑隐藏某些应用。其二，“信息”应用新增“建议”功能，当对话中检测到相关内容时，消息下方会出现建议操作，默认支持五类：添加到日历、添加到提醒事项、添加到备忘录、在地图中显示、航班和包裹，用户可在设置中按需关闭不需要的建议类别。其三，Apple TV应用首次在iPhone上支持用户个人资料，选择资料后可获得个性化推荐，并为每位用户保留独立的“继续观看”列表，为儿童设置资料时还可配置内容限制。",
-              "source_url": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/",
+              "title": "报道：苹果因 ICE 追踪应用及向特朗普捐款面临国会审查",
+              "brief": "据《华盛顿邮报》报道，民主党正为调查美国大型科技公司与特朗普的关系做准备，律师事务所已开始为公司高管提供应对潜在国会调查的咨询服务，部分律所还向马斯克推销个人法律顾问服务。就苹果而言，议员们准备调查其托管美国移民与海关执法局（ICE）使用的追踪应用一事。去年，苹果在司法部施压下从 App Store 下架了 ICEBlock 等多款类似应用，理由是担心联邦人员安全。此后苹果因该决定是否受政府影响及是否侵犯受宪法保护的言论而受到质疑。",
+              "source_url": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-07T02:55:34+08:00"
+              "published_at": "2026-11-07T05:46:36+08:00"
             },
             {
-              "title": "优惠汇总：M5 MacBook Air 降价 250 美元、Apple Watch Ultra 降价、HomePod mini 2 等",
-              "brief": "本日优惠汇总中，M5 MacBook Air 再次降价 250 美元，创下近五个月来的最低价。AirPods Pro 3 优惠 50 美元至 199 美元，AirPods Max 2 全部五种颜色均降价 100 美元至 449 美元。Apple Watch Ultra 4 部分型号降价近 100 美元，Ultra 3 清仓价降价 250 美元。此外还有新款 HomePod mini 2 优惠、知名播客麦克风罕见折扣，以及百思买大规模黑色星期五提前促销活动开启。2026 款苹果抛光布补货，售价 9 美元。",
-              "source_url": "https://9to5mac.com/2026/11/06/deals-macbook-air-apple-watch-ultra-homeview-airpods/",
+              "title": "watchOS 27.3 新增 Siri 回顾功能",
+              "brief": "watchOS 27.3 为 Apple Watch Series 12 和 Ultra 4 带来两项专属的音频智能功能：Siri 回顾和 Live Rewind，本周已进入测试版。Siri 回顾可在一天中 ambient 地为对话做笔记，并生成 Apple Intelligence 摘要，帮助用户回忆谈话内容，摘要可设定最多 7 天后自动删除。该功能引发隐私争议，苹果表示不会存储音频、不记录金融等敏感信息、功能为自愿开启，且可设定禁用的时间和地点。作者试用后对功能的准确性和细节记录印象深刻。",
+              "source_url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-07T00:28:30+08:00"
+              "published_at": "2026-11-07T05:05:28+08:00"
             },
             {
-              "title": "爆料称明年 iPhone Pro 重新设计将取消操作按钮",
-              "brief": "据爆料人 Instant Digital 在微博发文，明年为迎接 iPhone 二十周年，iPhone Pro 将迎来大胆的全新设计，采用四曲面屏幕并增大尺寸，但将取消操作按钮。新机将保留类似 iPhone Duo 的相机控制按钮，长按该按钮可提供操作按钮式的功能，标准按压则启动相机应用。此前 iPhone Duo 取消操作按钮时部分用户表示失望。爆料称苹果计划将两项功能整合，这一模式预计也将应用于下一代 iPhone Duo 及未来机型。",
-              "source_url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
+              "title": "苹果 Apple Card 新广告呈现尴尬心理治疗场景",
+              "brief": "苹果发布新广告展示申请 Apple Card 的便捷性。广告中，一位心理治疗师在治疗过程中被 iPhone 通知打扰，得知有飞往牙买加航班的限时促销，却发现钱包够不着。她随即通过钱包应用快速申请 Apple Card 并预订机票，整个过程几乎未让正在倾诉的患者察觉。广告描述称，Apple Card 内置于 iPhone，申请最快只需一分钟，无需等待实体卡，可赚取无限每日返现并立即使用。该广告发布之际，苹果零售店和线上商店布置节日装饰，并为假日购物延长退货政策。",
+              "source_url": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-07T00:02:43+08:00"
+              "published_at": "2026-11-07T04:55:39+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "Pixelated 第124期：Nest Hub 智能显示屏能否迎来回归？",
+              "brief": "本期播客讨论 Google Nest Hub 是否值得回归。团队谈到一款售价1600美元的非折叠设备的期待，以及元器件成本上涨带来的挑战。随后，针对苹果 HomeView 智能显示屏即将于下周发布的消息，嘉宾们分析了 Google 缺乏现代化竞品的现状，并畅想2027年重启该产品线时希望看到的功能。节目还介绍了9to5Google Pro 会员专属节目，以及 Proton Unlimited 赞助的年度订阅优惠。",
+              "source_url": "https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-07T06:00:00+08:00"
+            },
+            {
+              "title": "雷朋 Meta Audio 眼镜评测：配置出色，可惜价格偏贵",
+              "brief": "今年 Meta 可穿戴设备经历波折，VR 部门大幅缩减，同时发布了 redesigned 新品并将明年上市。雷朋 Meta Audio 眼镜只保留音频功能，由 Meta AI 驱动，完全不配备摄像头，希望借此避免隐私争议。其优点包括比大多数 Meta 智能眼镜更宽的处方镜片范围（-12到+6），以及因取消摄像头而显著提升的电池续航，售价349美元起。评测认为它适合想要无摄像头 AI 眼镜的用户，但价格偏高，缺乏突出的亮点功能。",
+              "source_url": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-07T05:09:14+08:00"
+            },
+            {
+              "title": "周五 Android 应用优惠与免费游戏：《狂飙：碰撞》《王国保卫战5》《征服仪式》等",
+              "brief": "本篇汇总了周五 Google Play 商店的 Android 应用和游戏优惠与免费领取信息，包括赛车游戏《狂飙：碰撞》、塔防游戏《王国保卫战5：联盟》以及策略游戏《征服仪式》等多款作品的限时折扣。此外文章还提到百思买已提前开启黑色星期五促销活动，提供新品 Doorbusters 优惠，涵盖苹果、谷歌产品、电视、家居用品及额外奖励积分等内容，感兴趣的读者可前往查看完整的优惠清单。",
+              "source_url": "https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-07T04:33:56+08:00"
+            },
             {
               "title": "Google Health 5.12 版本推出手动血压记录、孕期追踪等新功能",
               "brief": "Google Health 5.12 版本开始推送，带来多项健康功能更新。用户可在 Today 标签页点击 +Log 手动记录血压读数，或通过 Apple Health、Health Connect 从其他应用同步数据，Premium 订阅用户还可通过与健康教练对话完成记录，并在 Health 标签页 Heart 板块查看血压图表。新版本还引入血糖可视化功能，将运动、睡眠、营养等事件叠加在图表上显示。此外新增孕期记录与追踪功能，开启后周期预测和经期通知会自动暂停，周期追踪页面转为显示当前孕周。其他更新包括：英格兰用户可通过 Patients Know Best 同步 NHS 医疗记录，支持同步 Function Health 实验室数据，并改进了食物条目分组以提供更准确的饮食洞察。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
               "source_name": "9to5Google",
               "published_at": "2026-11-07T02:13:09+08:00"
-            },
-            {
-              "title": "Garmin两款智能手表降价至历史最低价",
-              "brief": "Garmin手表通常价格昂贵，促销时值得入手。Garmin Fenix E原价799美元，现降至399美元，为该型号历史最低价，堪称今秋最佳Garmin优惠。Fenix E本质上是搭载新系统的Epix Gen 2，配备多GNSS导航、三轴罗盘、陀螺仪和气压高度计，支持血氧监测、呼吸追踪、高级睡眠监测、实时体能追踪和训练准备度评分，单次充电续航两周，GPS模式可用42小时，不锈钢表圈搭配47毫米纤维增强聚合物表壳。另一款Garmin Venu 3S现价299美元，比Venu 4便宜250美元。Venu 4虽功能更新，但更厚更重、按键更少、续航更短，Venu 3S的表盘设计和系统界面也更受欢迎。",
-              "source_url": "https://9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-07T00:50:41+08:00"
-            },
-            {
-              "title": "百思买黑五提前开跑：Galaxy S26 Ultra直降450美元，SmartTag 3上市",
-              "brief": "百思买黑五早鸟促销正式上线，涵盖苹果、谷歌、电视和家居等多种商品，包括RTX 5060游戏PC直降500美元等优惠。谷歌方面，Pixel 11系列及Pixel 11 Pro Fold仍有最高350美元折扣。三星方面，全新Galaxy S26 Ultra直降450美元。同日，新款Samsung Galaxy SmartTag 3追踪器正式发售，单只30美元、四只装100美元，同时推出多种保护套配件。三星全新开放式耳机Galaxy Buds On也在美国开售。此外，Google Home系列音箱在早鸟促销中降价20%至80美元，创历史新低，多款Nest智能家居设备也有折扣，还有多款播客和直播麦克风罕见降价。",
-              "source_url": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-07T00:48:13+08:00"
-            },
-            {
-              "title": "Galaxy SmartTag 3在三星官网开售，单只或四只装可选",
-              "brief": "三星新款Galaxy SmartTag 3追踪器现已上线三星官网开售。新追踪器外观焕然一新，相比此前更大的轮廓，造型更加统一紧凑，虽然取消了内置挂环，但便携性有所提升。Galaxy SmartTag 3支持Galaxy Find网络，但不兼容谷歌更大的Find My网络，因此仅限Galaxy设备使用，iPhone用户也可通过三星iOS应用实现基础连接。新追踪器带来多项重要功能，包括日常习惯自动激活、遗留提醒和位置历史记录。电池续航可达550天，并具备IP67防尘防水等级。官网提供黑白两种配色，单只售价29美元，四只装（每种颜色各两只）售价99美元。",
-              "source_url": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-06T23:38:29+08:00"
             }
           ]
         },
@@ -129,39 +129,39 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Messages 新版置顶聊天功能引发用户争议",
+              "brief": "Google Messages 推出了新的置顶聊天界面设计，但这一改动在用户群体中引发了明显分歧。部分用户认为新的置顶样式让重要对话更易识别和管理，提升了使用效率；另一些用户则觉得改动后的视觉风格不如原有设计直观，对布局变化感到不适应。Android Authority 就此发起了读者调查，希望了解用户对这一新版置顶聊天功能的真实看法，欢迎读者参与投票并发表自己的意见。",
+              "source_url": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-user-reactions-3732689/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-07T06:27:43+08:00"
+            },
+            {
+              "title": "Google Health 应用 5.12 版本更新血糖、血压与压力恢复追踪功能",
+              "brief": "Google Health 应用发布了 5.12 版本更新，对多项健康追踪功能进行了改版。新版本重新设计了血糖追踪界面，使数据展示更加清晰；血压记录功能也得到优化，方便用户更直观地查看历史趋势；此外，压力恢复指标的追踪方式同样经过调整，帮助用户更好地了解身体恢复状况。此次更新主要聚焦于界面与数据呈现的改进，目前已逐步向用户推送。",
+              "source_url": "https://www.androidauthority.com/google-health-5-12-update-3732684/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-07T05:50:40+08:00"
+            },
+            {
+              "title": "微软 2026 款 Surface Laptop 在亚马逊降价 450 美元",
+              "brief": "微软 2026 款 Surface Laptop 目前在亚马逊平台上享受大幅折扣优惠，降价金额高达 450 美元。这款笔记本是微软推出的较新款产品，此次优惠幅度相当可观，为有意购买的用户提供了以更低价格入手的机会。对于一直在观望 Surface Laptop、希望以更实惠价格购入的消费者来说，这波限时促销值得关注，建议尽早下单以免优惠结束。",
+              "source_url": "https://www.androidauthority.com/microsoft-2026-surface-laptop-deal-3732694/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-07T05:38:51+08:00"
+            },
+            {
+              "title": "Gentle Monster 携手杰昆·菲尼克斯预热三星 Android XR 智能眼镜",
+              "brief": "知名眼镜品牌 Gentle Monster 发布了一段新的预热内容，借助奥斯卡影帝杰昆·菲尼克斯的参与，为三星基于 Android XR 平台的智能眼镜造势。Gentle Monster 此前已与三星在智能眼镜项目上展开合作，此次请来知名演员助阵，进一步提升了产品的关注度。预热内容暗示这款 Android XR 智能眼镜距离正式发布已经不远，更多细节有望在后续陆续公布。",
+              "source_url": "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-07T05:15:33+08:00"
+            },
+            {
               "title": "三星健康出现漏洞，用户步数历史记录丢失",
               "brief": "据Android Authority报道，三星健康应用近期出现漏洞，导致部分用户的步数历史记录消失。受影响的用户发现，应用中的每日步数统计不再正常显示，过去的行走数据无法查看。该问题可能与近期的应用更新有关，不少用户在社区反馈了相同现象。目前三星尚未公开说明漏洞原因，也未宣布修复时间，建议受影响用户暂时关注官方更新动态。",
               "source_url": "https://www.androidauthority.com/samsung-health-missing-step-history-update-3732669/",
               "source_name": "Android Authority",
               "published_at": "2026-11-07T04:37:20+08:00"
-            },
-            {
-              "title": "部分Nest门铃停止显示实时视频画面",
-              "brief": "据Android Authority报道，部分谷歌Nest门铃用户反映设备已无法显示实时视频画面。用户尝试通过应用查看门前实时画面时，视频无法加载或持续处于缓冲状态，影响正常使用体验。该问题似乎在多名用户身上同时出现，推测可能与近期的固件更新或服务端故障有关。谷歌方面尚未就此问题发布官方声明，用户暂时只能等待官方推送修复。",
-              "source_url": "https://www.androidauthority.com/nest-doorbell-live-view-broken-3732672/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-07T04:04:09+08:00"
-            },
-            {
-              "title": "谷歌称几乎无人需要Fitbit Edge配备NFC，读者强烈反对",
-              "brief": "据Android Authority报道，谷歌表示几乎没有人希望在Fitbit Edge手环上使用NFC功能，因此新款设备未加入该支持。然而这一说法引发了读者的强烈反对，许多用户在评论中表示希望用手环完成移动支付和交通刷卡等操作，认为NFC是实用的功能。谷歌此前在部分Fitbit设备上提供过NFC支付支持，此次的取舍决定引发了不少争议和讨论。",
-              "source_url": "https://www.androidauthority.com/fitbit-edge-missing-nfc-3732642/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-07T02:59:50+08:00"
-            },
-            {
-              "title": "谷歌将为 Android 版 Chrome 带来 iOS 风格的设置图标",
-              "brief": "谷歌正在为 Android 版 Chrome 浏览器测试新的设置界面图标设计。根据报道，新版 Chrome 的设置页面将采用类似 iOS 风格的彩色图标，为各项设置功能配上不同颜色的图标，使界面看起来更加生动直观。这一改动延续了近年来谷歌在界面设计上向苹果风格靠拢的趋势，也符合 Material Design 3 的表达性设计方向。目前该功能尚在开发阶段，预计将在后续版本中逐步推送给 Android 用户，用户届时可在设置页面中看到焕然一新的彩色图标。",
-              "source_url": "https://www.androidauthority.com/chrome-android-colorful-settings-icons-redesign-3732624/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-07T02:07:34+08:00"
-            },
-            {
-              "title": "联想拯救者 Legion E510 耳机降至年内最低价",
-              "brief": "联想拯救者 Legion E510 真无线游戏耳机目前正在亚马逊平台进行促销，价格降至今年以来的最低水平。这款耳机面向游戏玩家设计，主打低延迟连接，以保障游戏中音画同步，同时还具备不错的音质表现和佩戴舒适度。对于想要入手一款游戏向真无线耳机的用户来说，此次折扣是一个不错的入手时机。促销活动的持续时间和库存情况尚不确定，有需求的消费者可以前往销售页面查看当前的具体售价并尽快下单，以免错过这波优惠价格。",
-              "source_url": "https://www.androidauthority.com/lenovo-legion-e510-earbuds-deal-3732651/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-07T01:45:48+08:00"
             }
           ]
         },
@@ -209,6 +209,20 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "Starlink Mobile：SpaceX 进军移动运营商领域的最新动态",
+              "brief": "SpaceX 宣布要将 Starlink Mobile 打造为一家大型移动运营商。该公司已部署数千颗直连手机卫星，下一个挑战是在地面建设 5G 网络。为与 AT&T、Verizon 和 T-Mobile 抗衡，SpaceX 已与高通达成协议，将从 2027 年起在数万个 5G 基站部署其蜂窝技术。另有报道称 SpaceX 正洽谈收购 Boost Mobile，并可能利用全美 8 万个基站建设网络。T-Mobile 母公司德国电信 CEO 表示高度重视 SpaceX 的计划，但认为其实现成本可能超过 2000 亿美元。",
+              "source_url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+              "source_name": "The Verge",
+              "published_at": "2026-11-06T17:45:43-05:00"
+            },
+            {
+              "title": "《KPop 猎魔女团》4K 蓝光碟价格低于一个月 Netflix Premium 订阅费",
+              "brief": "Netflix 热门动画电影《KPop 猎魔女团》的 4K 蓝光 Criterion Collection 版现已在 Barnes & Noble 和亚马逊上架，售价仅 24.99 美元，远低于原价 49.95 美元。对于仅为观看这部 4K 动画而每月支付 26.99 美元 Netflix Premium 订阅费的用户来说，购买实体碟已是更划算的选择。该 Criterion 版本近期发行，附带丰富的花絮内容，包装设计精美。此外，这部电影已确认将推出续集。",
+              "source_url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-11-06T16:50:32-05:00"
+            },
+            {
               "title": "AI 数据中心最新动态汇总",
               "brief": "大型数据中心是科技公司实现 AI 愿景的物理基础，但其快速扩张引发全球范围内对电网、电费、周边社区和环境影响的争议。数据中心已成为2026年中期选举前的两党议题，选民在投票中普遍反对数据中心扩张。OpenAI、亚马逊等科技巨头承诺与当地社区更紧密合作并承担数据中心能源成本，但选举后民主党领导人呼吁进一步限制和放缓数据中心建设。此外，美国国会正推动一项能源项目许可法案，可加快项目上线并可能降低电费，但也可能加速污染项目并放松对数据中心的监管。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -228,20 +242,6 @@
               "source_url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
               "source_name": "The Verge",
               "published_at": "2026-11-06T13:42:30-05:00"
-            },
-            {
-              "title": "Meta Muse AI 可创建定制的“空间”功能",
-              "brief": "Meta 推出一项名为“空间”（spaces）的新功能，允许用户在其 Muse AI 助手内构建定制化、类似应用的使用体验。用户可以通过描述创建购物中心、学校仪表盘、音乐追踪器、问答游戏等，并直接在应用内互动。将空间与相关应用连接后，Muse 会在后台自动更新价格、日期等信息。用户可以勾选事项、添加笔记和进行编辑来操作空间，还可将空间添加到侧边栏、移入主标签页并设置显示时间，例如在工作日期间将每周计划表置顶。",
-              "source_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-              "source_name": "The Verge",
-              "published_at": "2026-11-06T13:10:10-05:00"
-            },
-            {
-              "title": "亚马逊将制作梅拉尼娅·特朗普电视剧集",
-              "brief": "继今年早些时候的梅拉尼娅纪录片首映后，亚马逊计划在 Prime Video 推出一部聚焦这位第一夫人的两集剧集《梅拉尼娅：系列》（Melania: The Series），定于11月20日上线。新闻稿称，该剧将揭示从未公开的故事，深入呈现梅拉尼娅·特朗普的生活，包括第47任总统就职典礼后那段非同寻常的日子。其中第一集题为“家庭与信任”，讲述梅拉尼娅在准备成为美国第一夫人时确定优先事项，但在白宫内部信任受到考验，她必须保护身边最亲近的人。",
-              "source_url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
-              "source_name": "The Verge",
-              "published_at": "2026-11-06T12:56:58-05:00"
             }
           ]
         },
@@ -249,39 +249,39 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "《疾速追杀》幕后团队推出新片《过劳死》预告",
-              "brief": "狮门影业发布新作《过劳死》的首支预告片，该片由打造《疾速追杀》系列的特技演员兼导演查德·斯塔赫斯基及其团队87Eleven操刀，是一部设定在反乌托邦近未来世界的动作惊悚片。“过劳死”本是日本及亚洲等地真实存在的现象，多因压力引发心脏病、中风乃至自杀。编剧兼导演多舍尔·塔卡什将这一概念移植到未来的曼哈顿，故事围绕一家名为Ikigai Technologies的公司展开：一名神秘外来者在一名员工死后潜入这家大公司，揭露其光鲜表面下隐藏的暴力体系。主演包括柳乐优弥阵营的Teo Yoo，平岳大、吉安卡罗·埃斯波西托、辛西娅·艾莉佛等也参演，影片定于2027年初上映。",
-              "source_url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+              "title": "Chainalysis称黑客窃取了全部客户的凭证和令牌",
+              "brief": "区块链分析公司Chainalysis披露，黑客在其网络安全漏洞中获取了全部用户的敏感个人信息，包括姓名、用户名、密码哈希和有效令牌。该公司客户包括FBI、美国移民与海关执法局、美国空军等政府机构，以及微软、Coinbase和巴克莱等企业。Chainalysis称此次事件发生在10月，属于一场多线网络攻击，攻击者利用AI代理辅助的入侵技术获取系统访问权限，并实施中间人攻击，暴露了部分客户密码。公司表示已查明并修复该攻击途径，但尚不清楚数据泄露是否使客户面临额外威胁。",
+              "source_url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-07T02:30:19+08:00"
+              "published_at": "2026-11-07T04:56:41+08:00"
             },
             {
-              "title": "卫星公司AST SpaceMobile因发射难求决定自研火箭",
-              "brief": "AST SpaceMobile是一家总部位于得克萨斯州的上市公司，致力于建造大型卫星提供手机直连通信服务，但一直难以获得足够的发射机会。该公司近日宣布正在研发名为Blacklift的中型运载火箭，可将20公吨载荷送入近地轨道，并计划于2028年底开始商业发射。公司创始人兼CEO阿韦兰表示，这款火箭是显著扩大可服务市场的跳板，将为公司提供不受限制的轨道进入通道。然而业内人士普遍认为，对于一家此前从未造过火箭的公司而言，这一时间表极为乐观甚至不切实际。此举也反映出卫星运营商需提前多年锁定发射能力的行业趋势。",
-              "source_url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+              "title": "研究称地球翻腾的地幔可能造就了大不整合面",
+              "brief": "大峡谷岩石中存在一条时间似乎消失的分界线，古老结晶岩石之上直接覆盖着寒武纪生命大爆发时期沉积的砂岩，这一地质记录的缺失被称为大不整合面，缺口跨度从两亿年到超过十亿年不等。澳大利亚伍伦贡大学地球科学家弗拉门特与同事在《自然》发表的最新研究中提出模型，认为地球地幔中缓慢流动的热岩流在数亿年间将整块大陆抬升，使冰川将其磨蚀夷平，随后大陆下沉，新沉积物掩盖了这一痕迹。该假说挑战了此前以冰川作用为主的主流解释，认为岩石记录中最大的缺口可能是地球内部深层过程的印记。",
+              "source_url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-07T02:20:47+08:00"
+              "published_at": "2026-11-07T04:24:20+08:00"
             },
             {
-              "title": "Meta在强烈反对下无限期搁置商业条款更新",
-              "brief": "在遭遇数周强烈反对后，Meta宣布无限期推迟更新商业条款的计划。原条款要求使用Meta Business账户的用户允许Meta对Facebook上链接的外部网站内容进行大规模AI训练，且无法选择退出，甚至要求出版商提供测试账号以便其机器人绕过付费墙。法律专家警告，条款措辞含糊，可能使Meta无视robots.txt中的抓取限制，大量抓取Facebook站外内容用于AI训练，从而省下数百万美元的内容授权费。由于几乎所有新闻媒体都有Facebook主页，Nieman Lab对此发出警报。面对全球用户、法院和监管机构的压力，Meta将原定10月30日生效的日期推迟后，最终宣布暂停更改，现有条款继续有效。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+              "title": "价值1140万美元的英伟达硬件在奥克兰运往德州途中失踪",
+              "brief": "一批价值1140万美元的英伟达硬件今年夏天在从奥克兰运往德克萨斯州沃斯堡途中失踪，两个多月后警方仍未逮捕任何人，货物也未被追回。据报道，六托盘不明型号的英伟达设备于8月29日由一辆带有食品运输公司标志的卡车按计划提走后失去踪迹，直到9月初买家发现货物未送达才察觉被盗。警方追查发现卡车曾数次停留数小时，最后在加州圣贝纳迪诺县一带失去踪迹。奥克兰警方确认已于9月13日立案，调查仍在进行。自6月以来，类似硬件劫案已造成超过一亿美元损失，窃贼使用了GPS定位欺骗等复杂手段。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-07T01:43:02+08:00"
+              "published_at": "2026-11-07T04:05:30+08:00"
             },
             {
-              "title": "威斯康星州报告一婴儿死于麻疹，为35年多来首例麻疹死亡",
-              "brief": "威斯康星州官员周四报告，该州一名婴儿死于麻疹，这是该州自1990年以来首例麻疹死亡病例。今年该州麻疹疫情已蔓延至13个县，感染人数超过430人。州卫生部长约翰逊表示，任何儿童的死亡都是悲剧，而与可通过疫苗预防的疾病相关的死亡更是如此，呼吁居民评估风险并采取措施保护自己和家人。这已是本周美国第三例麻疹死亡病例，此前纽约州一名儿童和宾夕法尼亚州一名未接种疫苗者相继死亡。宾州疫情今年已导致1467例病例。今年美国已报告九例麻疹死亡，其中八例获州官员确认。下周，专家将决定美国是否失去麻疹消除资格。",
-              "source_url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+              "title": "因福克斯收购Roku，开发者终止 lucrative 屏保合作",
+              "brief": "12月1日起，Roku OS用户将无法再使用备受欢迎的Aquatic Life水族屏保。该屏保已在Roku平台存在10年，Roku一直通过Prolific出版公司向艺术家吉姆·萨克斯授权其创作的Marine Aquarium动画。萨克斯表示，与Roku的授权协议每年10月续签，任何一方均可无理由取消。在得知福克斯计划收购Roku的次日，萨克斯告知Prolific不再续签，称我无法成为福克斯世界的一部分，并提及福克斯新闻颇具争议的新闻娱乐风格。Roku将自动把受影响设备的屏保切换为带隐性广告的Roku City屏保，众多用户对此表示惋惜。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-07T01:06:32+08:00"
+              "published_at": "2026-11-07T03:50:18+08:00"
             },
             {
-              "title": "AI克隆版GTA VI会迫使官方PC移植版加速推出吗？",
-              "brief": "一位前Rockstar技术总监认为，AI辅助反编译移植的威胁可能促使开发商加快推出GTA VI的官方PC版本。Obbe Vermeij自2009年起已不在Rockstar工作，他在接受Rock Paper Shotgun采访时回忆，初代俯视角《侠盗猎车手》的PC版美术人员曾对PS1版将256色纹理压缩至16色感到愤怒。他表示，PC与主机之间一直存在这种别扭的关系。早期虽然PC版先行，但PlayStation版本销量远高，促使Rockstar转向以主机为主的业务模式，其大作的PC移植版常常延迟数月甚至数年才推出。即使许多曾经专注主机的发行商已开始将PC视为同等重要平台，Rockstar仍保持这一趋势。",
-              "source_url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+              "title": "美国联邦航空局将淘汰软盘，称其为历史性技术升级",
+              "brief": "美国联邦航空管理局宣布，将在期待已久的升级中停止使用软盘，使空中交通管制员更快获取安全警报所需的关键数据。新的企业信息显示系统E-IDS将部署到435个设施，取代可追溯到上世纪80年代的多个信息显示系统。该机构称此举是持续对全美空中交通管制系统进行历史性现代化改造，用以存储重要天气和其他关键信息的过时软盘将被21世纪的精简系统取代。E-IDS将在400多个设施的操作控制岗位部署，提供管制飞机所需的运行关键信息。这一变革已筹备超过六年，旧系统存在技术寿命终结问题。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-07T00:19:12+08:00"
+              "published_at": "2026-11-07T03:12:28+08:00"
             }
           ]
         }
@@ -313,6 +313,13 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "苹果宣布超10万款应用已适配iPhone Duo 折叠屏生态加速成熟",
+              "brief": "苹果宣布，已有超过10万款专门针对折叠屏新机iPhone Duo打造的应用在App Store上线，且每天都有大量新应用完成优化更新。近期完成适配的应用包括微软Word、Excel、OneNote、PowerPoint，以及Zoom、Instagram、YouTube、Netflix等知名软件，这些应用在设备上的App Store页面会显示“Made for iPhone Duo”专属标识。苹果全球开发者关系副总裁苏珊·普雷斯科特表示，开发者响应速度远超预期。为推动开发进度，苹果过去一个月在全球19座城市举办了超过50场线下开发者活动，吸引超过2000名开发者参与真机体验和学习界面优化。采用标准SwiftUI和UIKit组件开发的应用可自动适配内外屏，苹果还提供新接口支持针对不同折叠角度创建专属布局。尚未优化的旧版应用仍可运行，但无法充分利用内部大屏空间。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585330.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-07T05:02:47+08:00"
+            },
+            {
               "title": "雷蛇发布Hammerhead V3 Chroma有线耳机：USB-C接口搭配RGB灯效",
               "brief": "雷蛇推出Hammerhead V3 Chroma有线游戏耳机，采用USB-C接口，适配智能手机、掌机和PC。插头采用90度弯折设计，横屏游戏时可沿设备边缘延伸，减少握持干扰。耳机外侧配备Razer Chroma RGB灯效，支持约1680万种颜色。音频采用11毫米动圈加独立高频单元的双单元设计，提升声音层次与细节还原。产品还具备前馈式主动降噪，线控集成音量、播放与降噪切换功能，内置游戏、音乐、电影和通话四种音效预设，连接PC后可通过Razer Synapse 4启用THX 7.1环绕声。耳机内置全指向麦克风，具备IPX4级防泼溅能力。供电与音频均由USB-C线缆完成，无需充电并规避蓝牙延迟与压缩损耗，美国售价79.99美元，已在全球上市。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1585328.htm",
@@ -339,19 +346,26 @@
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1585322.htm",
               "source_name": "cnBeta",
               "published_at": "2026-11-07T00:22:18+08:00"
-            },
-            {
-              "title": "消息称乔什·奥康纳或将出演新任邦德 官方尚未确认",
-              "brief": "有报道称，曾出演《利刃出鞘3》的乔什·奥康纳可能成为新一任詹姆斯·邦德。一位消息人士称，在法国餐厅偶遇奥康纳的合作演员时，对方透露他已获得该角色，奥康纳本人也向剧团同事坦白此事，但官方回应称仅为猜测。奥康纳的赔率为12比1，其他竞争者包括杰克·劳登和卡勒姆·特纳。前邦德扮演者丹尼尔·克雷格曾推荐他出演《利刃出鞘3》。最终试镜于10月下旬在维伦纽瓦指导下进行，新片预计2027年开拍，2028至2029年上映，影迷或将在2027年前得知人选。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1585320.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-07T00:21:12+08:00"
             }
           ]
         },
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "消息称微软不再续签甲骨文 AI 算力租赁协议",
+              "brief": "知情人士透露，微软将不再续签与甲骨文的 AI 算力租赁协议。原因在于微软自身技术规格不断变化，甲骨文提供的较早一代英伟达 GPU 已难以满足需求。双方合作于 2023 年公布，当时微软租用甲骨文服务器为 Bing 提供算力支持，被视为 AI 算力短缺的早期信号。微软此前还与 CoreWeave 等新兴云服务商签署大规模租赁协议，承诺投入超 800 亿美元。目前微软正重新评估相关合作策略，部分管理人员对高成本和交付延迟不满。甲骨文 2026 财年云业务收入 339.89 亿美元，但自由现金流为负 237 亿美元。消息传出后，甲骨文股价一度下跌约 3%。",
+              "source_url": "https://www.ithome.com/1/023/606.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-07T06:44:15+08:00"
+            },
+            {
+              "title": "微软发布 Win11 多个预览版：改进 Windows Hello 登录体验",
+              "brief": "微软面向 Win11 多个渠道发布预览版更新，包括 Beta 26H2 频道 Build 26320.9876、Experimental 频道 Build 26340.9882 等。Experimental 频道带来 Windows Hello 登录改进，用户无需等待面部或指纹识别完成即可直接输入 PIN，系统将采用最先成功的验证方式，登录行为更一致。Beta 版本还带来多项功能更新：Windows 搜索采用基于 WinUI 3 的新界面，支持在搜索结果中直接开启深色模式、调整亮度等操作；实时字幕可分别选择系统音频或麦克风；Xbox 模式导航栏加入快速设置入口；Windows Hello 面部识别在暗光环境下可自动提高屏幕亮度；文件资源管理器地址栏支持用 ~ 快速访问用户个人资料文件夹。",
+              "source_url": "https://www.ithome.com/1/023/605.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-07T02:11:37+08:00"
+            },
             {
               "title": "今日立冬：倏忽秋又尽，今朝恰立冬",
               "brief": "立冬是农历二十四节气中的第十九个节气，一般在每年11月7日或8日，是一年中第一个带“冬”字的节气。天文学上，当太阳到达黄经225°时即为立冬，标志着冬季开始，但北半球因地表储存热量尚未耗尽，气温不会立即大幅下降。立冬在古代是重要节日，汉魏时期天子会率群臣迎冬，民间有祭祖、饮宴、卜岁等习俗。饮食方面，北方人立冬爱吃饺子，寓意秋冬之交；南方人则吃鸡鸭鱼肉，绍兴有立冬开始酿黄酒的传统。养生上应防寒保暖、早睡晚起、适当运动，饮食以增加热能为主，忌食生冷。",
@@ -372,20 +386,6 @@
               "source_url": "https://www.ithome.com/1/023/599.htm",
               "source_name": "IT之家",
               "published_at": "2026-11-06T23:35:29+08:00"
-            },
-            {
-              "title": "R 星谈《GTA6》开放世界设计：弱化地图图标引导，鼓励玩家自然探索",
-              "brief": "Rockstar 开发者 Rob Nelson 在谈及《GTA6》开放世界设计时表示，团队特别参考了《荒野大镖客：救赎2》的做法，将部分探索内容留给玩家自行发现。游戏中大量内容需要玩家在游玩过程中自行发现，开发团队不一定会通过任务目标、地图标记或图标来引导玩家找到它们。此外，《GTA6》游戏内将有完整的公共交通系统，玩家可以选择坐巴士慢悠悠地欣赏雷奥奈达州风景。Nelson 称不希望把各种事情强加给玩家而产生抗拒心理，更希望让玩家按自己喜欢的方式体验游戏。",
-              "source_url": "https://www.ithome.com/1/023/598.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-11-06T23:21:12+08:00"
-            },
-            {
-              "title": "OpenAI CEO 奥尔特曼警示：人类未来可能无法从 AI 手中夺回控制权",
-              "brief": "OpenAI CEO 萨姆·奥尔特曼警示了 AI 发展面临的两种风险。第一种是控制权丧失，人类可能有意或无意地将控制权交给能力远超人类的系统，最终再也无法夺回。第二种是巨头垄断风险，即某个人、公司或国家相对于其他所有人来说过于强大，他认为让多个不同路线的 AI 实验室相互竞争，比所有人依赖一家企业安全得多。这种对过度集权的担忧，也解释了马斯克及 OpenAI 前高管等知名人士选择离开并创办竞争公司的原因。尽管如此，奥尔特曼仍坚信 AI 将让人类迎来更美好的未来，尤其是推动基础科学持续进步。",
-              "source_url": "https://www.ithome.com/1/023/596.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-11-06T23:13:11+08:00"
             }
           ]
         },
@@ -400,32 +400,32 @@
               "published_at": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon | Fri, 6 Nov 2026 18:03:36 +0000"
             },
             {
-              "title": "暴雪揭秘最终启动《魔兽世界》永恒服的原因",
-              "brief": "暴雪高级游戏设计师乔什·格林菲尔德在接受彭博社采访时透露，《魔兽世界：永恒》的想法早在2019年怀旧服上线前就已存在，但团队当时先选择直接移植原始版本。随着怀旧服逐渐成熟，团队开始尝试更多实验性内容。2023年推出的“探索赛季”模式对经典版做出激进改动，例如技能宝石以及将黑深渊等旧五人地下城改造成团队副本，甚至影响了正式服，催生了2024年《熊猫人之谜》混编和2025年《军团再临》混编。格林菲尔德表示，探索赛季的社区反响是永恒服得以立项的关键，让团队开始讨论这款游戏的永久版本应是什么样子。探索赛季的成功也说服了管理层放行开发，新图形引擎就绪后，北郡修道院成为技术演示，赢得了几乎所有人的认可。IGN对永恒服的抢先评测评价极高。",
-              "source_url": "https://www.ign.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever",
+              "title": "尼古拉斯·凯奇表示《暗影蜘蛛侠》被砍反而让他松了一口气",
+              "brief": "动画剧集《暗影蜘蛛侠》今年早些时候在Prime Video上线，凯奇饰演本·莱利，该剧口碑不错，但9月因跌出平台前十而被砍。凯奇在给Deadline的声明中称，一季就够了，他已经用这个危险、创新、波普艺术风格的蜘蛛侠表达了自己想说的话。他在11月初接受IGN采访时再次强调，不想重复扮演同一个角色而耗尽观众的新鲜感，因此得知未获续订时反而感到庆幸，如今他正投入单季剧集《真探》。此外，凯奇因亚马逊在AI问题上的立场，此前已宣布拒绝签署AI使用豁免书，并表示很可能不再与该公司合作。",
+              "source_url": "https://www.ign.com/articles/i-meant-it-when-i-said-what-i-said-nicolas-cage-is-actually-relieved-that-spider-noir-got-canceled",
               "source_name": "IGN",
-              "published_at": "2026-11-07T02:47:50+08:00"
+              "published_at": "2026-11-07T06:04:23+08:00"
             },
             {
-              "title": "丹·库克与罗伯特·鲍灵公布类型混搭文字游戏《Vicious Vocab》",
-              "brief": "喜剧演员丹·库克与开发者罗伯特·鲍灵联手公布文字游戏《Vicious Vocab》，由五人团队funcool games开发，被形容为“在赌场后房里碰上《小丑牌》的拼字游戏”。玩家拼出的单词具有力量与效果，例如拼出torch可能受到火焰伤害，再拼出water或ice即可熄灭火焰。游戏带有动作元素，团队称之为“文字格斗游戏”，单词连击可以触发层层系统联动，带来超出传统文字游戏的全新体验。",
-              "source_url": "https://www.ign.com/articles/dane-cook-and-robert-bowling-announce-vicious-vocab-a-genre-bending-word-game-with-a-big-twist",
+              "title": "Ed Boon发起投票询问玩家希望下一款真人快打如何命名",
+              "brief": "《真人快打1》已于2025年5月停止更新内容，电竞赛事表现也不佳，系列联合创始人Ed Boon在2026年5月确认新作正在开发中，此后一直没有什么消息。11月6日，Boon在X上发布了两个投票。第一个问玩家希望下一款游戏叫什么名字，选项包括《真人快打13》《真人快打12》和《真人快打2》，目前43%的参与者选择《真人快打2》，33%选择13，23%选择12。第二个投票则问玩家更想看到Arc System Works的《Marvel Tokon 2》还是《漫画英雄vs卡普空4》先行推出，绝大多数玩家选择了后者。",
+              "source_url": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
               "source_name": "IGN",
-              "published_at": "2026-11-07T02:00:00+08:00"
+              "published_at": "2026-11-07T05:21:53+08:00"
             },
             {
-              "title": "免费数字游戏展ENDIX现已上线，汇集50余款游戏与全球首映",
-              "brief": "完全免费的数字游戏展会ENDIX现已上线，玩家可在Steam或Epic Games Store免费下载，创建虚拟形象逛展，体验50余款游戏试玩、观看全球首映与独占预告，并可通过语音聊天与开发商交流。展区包括THQ Nordic Island、Bohemia Interactive、505 Games、Playism等专区，展示《泰坦之旅2》《House Flipper 2: Pets》等作品，还有Alienware与Elgato的品牌小游戏、恐怖主题剧场等内容。",
-              "source_url": "https://www.ign.com/articles/endix-the-fully-free-digital-gaming-expo-is-now-live-with-more-than-50-games-world-premieres-exclusive-trailers-and-more",
+              "title": "德国玩家可合法请假在家玩《GTA6》但附有条件",
+              "brief": "《GTA6》11月19日发售预计将成为史上最大的流行文化事件之一，数据显示其发售日的请假请求增加了17%。德国玩家更为幸运，该国法律规定雇主须提供带薪教育假，课程机构Dein Bildungsurlaub推出了一项名为《开放世界游戏：数字世界的启示》的政府资助课程，参与者可在11月18日至20日获得三天假期游玩《GTA6》。该项目面向60名参与者，学员将在导引下分组完成游戏内任务，通过观察学习叙事、动机、社区建设和协作等实践课程，其中一课探讨彩蛋如何提升玩家参与度。",
+              "source_url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
               "source_name": "IGN",
-              "published_at": "2026-11-07T02:00:00+08:00"
+              "published_at": "2026-11-07T04:18:07+08:00"
             },
             {
-              "title": "《质量效应》已死？Bioware官方商店仍在N7日推新周边",
-              "brief": "尽管Bioware工作室关闭、《质量效应5》被取消的消息令N7日蒙上阴影，官方商店仍按计划推出新周边。重点是一款可穿戴的N7 LED头盔，为2020年传奇版同期头盔的升级版，增加了内衬和做旧涂装，通过内置开关可在正义蓝与叛逆红两种LED灯光间切换，售价174.99美元，附带配重底座、铭牌和纪念币。此外还有N7帆布鞋和致敬Garrus的T恤，多款旧周边同步打折。",
-              "source_url": "https://www.ign.com/articles/mass-effect-is-dead-but-the-official-bioware-store-is-still-releasing-new-merch-for-n7-day",
+              "title": "《战神：诸神黄昏》登顶PS5世代PlayStation工作室游戏收入榜",
+              "brief": "游戏数据分析公司Alinea Analytics的市场分析主管Rhys Elliott发布报告，列出PS5世代PlayStation工作室收入最高的10款游戏。《战神：诸神黄昏》以约14亿美元毛收入位居第一，《漫威蜘蛛侠2》以13亿美元排第二，《GT赛车7》以8.419亿美元排第三，《绝地潜兵2》《地平线：西之绝境》《羊蹄山之魂》等分列其后。这10款游戏合计为PlayStation带来超过65亿美元收入，其中PlayStation平台占84.7%，Steam占14.1%，Xbox仅凭《绝地潜兵2》占1.2%。《战神：诸神黄昏》横跨PS4、PS5和PC三平台，总销量约2160万份。",
+              "source_url": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
               "source_name": "IGN",
-              "published_at": "2026-11-07T01:42:34+08:00"
+              "published_at": "2026-11-07T03:33:32+08:00"
             }
           ]
         }
