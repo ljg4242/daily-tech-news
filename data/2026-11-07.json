@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T21:19:16.902178+08:00",
+  "generated_at": "2026-11-07T23:19:19.067301+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果黑色星期五早期优惠：Apple Watch、MacBook Air 等产品降价",
+              "brief": "2026年黑色星期五将于11月27日到来，目前多个苹果产品已出现历史低价或接近最低价的折扣。Apple Watch Ultra 4 在亚马逊降至699.99美元，较原价799美元便宜99美元，与9月发布以来最低价持平；米兰尼斯表带版降价99美元至799.99美元。Apple Watch Ultra 3 优惠250美元，售价549美元，米兰尼斯版649美元。M5 MacBook Air 降价250美元至1349美元。iPhone 18 Pro 和 iPhone Duo 最高可优惠1200美元。文章还涵盖 AirPods、AirTag 2、Mac mini、Mac Studio、iPhone 保护壳等品类的优惠信息，并提供目录链接方便读者直接跳转查看。",
+              "source_url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-07T22:28:23+08:00"
+            },
+            {
+              "title": "本周要闻：苹果新品发布、iOS 27.3 测试版等",
+              "brief": "11月第一周苹果动作频繁，本周已发布五款新品，下周还将推出两款。11月6日起正式发售的新品包括：搭载 OLED 屏和 A20 Pro 芯片的 iPad mini、M6 芯片 iMac、M6 芯片14英寸 MacBook Pro、14英寸和16英寸 OLED 触屏 MacBook Pro。HomeView 智能家居中枢和新款 Apple TV 4K 将于11月13日上市。软件方面，苹果开始测试 iOS 27.3，这是 iOS 27 自9月发布以来最大更新，新增 Safari 垂直标签页布局、自适应深色模式、Siri AI 改进、iPhone Duo 待机功能扩展等，此前被移除的重新设计版健康应用也回归，预计年底前正式推出。",
+              "source_url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-07T22:00:12+08:00"
+            },
             {
               "title": "更多有趣的 iPhone Duo 双人应用：30 款新精选推荐",
               "brief": "iPhone Duo 发布时，MacRumors 曾分享过一批开发者为这一全新形态打造的应用。两周过去，开发者仍在不断推出新创意，因此编辑团队再次整理了 30 款值得一试的精选应用。游戏类包括：弹珠迷宫游戏 Marbles Unhinged，折叠手机时地面变成斜坡，弹珠可借助铰链弹射；记忆游戏 Midnight Fridge，把手机变成小冰箱，通过磁贴记忆寻找物品；迷你高尔夫 Greens，可任意方向游玩，折叠时上半屏充当球童相机；Flappy Bird 风格的 Chirpfold，通过折叠让小鸟拍翅膀；霓虹风格赛车游戏 Valley Run；节奏游戏 PianoFold，像笔记本一样摆放并按琴键跟歌；类俄罗斯方块 roguelite 游戏 Load Bearing，半开状态下操作，还带卡组构建元素。此外还有免费应用 Who's at the Door? 等。",
@@ -28,26 +42,26 @@
               "source_url": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
               "source_name": "MacRumors",
               "published_at": "2026-11-07T05:48:46+08:00"
-            },
-            {
-              "title": "新款 MacBook Pro 发光苹果标志可手动关闭",
-              "brief": "配备 ProLED XDR 显示屏的全新 14 英寸和 16 英寸 MacBook Pro 重新带回了深受喜爱的发光苹果标志，标志会随屏幕亮度和环境光线自动调节明暗。苹果官方提供了一种关闭该标志的方法，但并非在系统设置中操作，而是需要在终端应用中输入一条命令。具体步骤：打开终端，输入命令 sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0 并回车，随后输入管理员密码，标志灯光便会立即熄灭，无需重启。该设置对 Mac 上所有 macOS 用户账户生效，即使从 macOS 恢复模式启动也会保留，迁移到新 Mac 时还会随系统一并转移。若想重新点亮标志，只需在终端输入 sudo defaults delete com.apple.CoreBrightness LEBacklightMode 即可，但重装系统后灯光会自动恢复点亮。首款配备发光标志的 Mac 笔记本为 1999 年发布的第三代 PowerBook G3。",
-              "source_url": "https://www.macrumors.com/how-to/turn-glowing-apple-logo-macbook-pro/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-07T04:03:09+08:00"
-            },
-            {
-              "title": "苹果发布新广告：Apple Card 几分钟内即可申请使用",
-              "brief": "苹果今天发布了一则新的 Apple Card 广告，重点宣传申请、获得批准并完成购买的速度之快。广告中，一位心理治疗师正在倾听患者倾诉，此时患者的 iPhone 上弹出一张廉价机票。由于钱包放在房间另一头无法起身去拿，她便打开 iPhone 的钱包应用，申请 Apple Card，并在几分钟内成功购买机票。Apple Card 内置于 iPhone 中，最快一分钟内即可完成申请，无需等待实体信用卡，只需几次点击即可。用户还可获得不设上限的每日返现并立即使用。Apple Card 目前仅面向美国 iPhone 用户开放，申请需进行软性信用查询，接受要约则会产生硬性信用查询。",
-              "source_url": "https://www.macrumors.com/2026/11/06/apple-card-apple-ad/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-07T01:22:43+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Mac 管理员正部署 AI 生成的代码，修复错误却需数天",
+              "brief": "Fleet 对 250 多名拥有设备管理权限的企业 IT 人员进行调查，受访者平均管理约 2000 台设备，近半数有 6 到 10 年 Apple 管理经验。结果显示，AI 使用已成常态：过去 30 天内，68% 的受访者用 AI 排查故障或分析日志，62% 用其编写脚本，61% 用其撰写设备管理配置。86% 的团队在某种形式的审查后将 AI 生成的代码投入生产环境，仅 14% 完全禁止。报告指出，AI 让快速交付变容易，但错误一旦上线，撤销和修复往往需要数天时间。",
+              "source_url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-07T22:06:00+08:00"
+            },
+            {
+              "title": "黑色星期五苹果优惠提前开跑：MacBook Air 降 250 美元等",
+              "brief": "黑色星期五苹果折扣已提前上线。AirPods Pro 3 降至 199 美元，AirPods Max 2 全配色 449 美元，较原价便宜 100 美元。Apple Watch Ultra 4 优惠近 100 美元，Ultra 3 清仓直降 250 美元。M5 版 13 英寸 MacBook Air 16GB/512GB 售 1099 美元，16GB/1TB 版 1349 美元，最高降 250 美元，是近五个月来最佳 MacBook 优惠之一。M6 Mac mini 降 150 美元，触屏 MacBook Pro 赠 150 美元礼品卡。新款 HomeView 售 289 美元，深空灰版本预购折扣已回归。",
+              "source_url": "https://9to5mac.com/2026/11/07/early-black-friday-apple-deals-now-live/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-07T21:00:00+08:00"
+            },
             {
               "title": "Apple Music Classical 更新采用全新黑白图标",
               "brief": "苹果在最新更新中为 Apple Music Classical 应用换上了全新的黑白图标和界面，以配合 Apple Music 新的视觉识别。新图标保留了熟悉的高音谱号符号，但改为白色背景搭配黑色符号。与 Apple Music 的扁平图标不同，Classical 图标仍保留立体效果，带有细微的光影和透明度，呈现出层次感。应用内的红色按钮配色也换成了更接近苹果其他应用默认色系的蓝色。此次更新紧随 Apple Music 数周前推出的多彩品牌形象之后，表明苹果将继续为其应用坚持黑白风格。该应用需要有效的 Apple Music 订阅，订阅价格为每月 11.99 美元，含一个月免费试用，也可包含在 Apple One 套餐中。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-07T07:15:19+08:00"
-            },
-            {
-              "title": "Raycast 新 AI 功能结合语音听写与屏幕感知",
-              "brief": "Raycast 在去年推出屏幕感知功能，允许用户将当前应用或窗口的内容直接带入 AI 聊天，无需复制文本或截图。本周该功能进一步升级，推出 Dictate to AI 新命令，用户可在说话提出请求的同时，自动为 AI 提供当前应用的上下文。此次更新还包括新的听写 AI 扩展、Mac 菜单栏 AI 用量显示、联系人 AI 扩展等。此外，Raycast Notes 支持图片且免费用户可创建无限笔记，Mac 应用搜索更快、内存占用更低，iOS 版新增 AI 写作工具键盘，Windows 版屏幕感知也获得新命令。",
-              "source_url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-07T06:28:13+08:00"
-            },
-            {
-              "title": "iOS 27.3：新功能与发布时间一览",
-              "brief": "苹果预计将于 12 月上半月向所有 iPhone 用户推送 iOS 27.3，由于今年 iOS 27.1 仅面向 iPhone Duo 推出，27.3 实际相当于往年的 x.2 更新。新功能方面，重新设计的健康应用回归，分为洞察、长寿和浏览三个标签页，可根据用户数据动态自适应，长寿标签新增基于 Apple Watch 数据的健康年龄功能。Apple Fitness+ 新增 Gym Strength 功能，可根据力量目标、经验和器材生成四周渐进式训练计划。iPhone Duo 用户还将获得单手模式支持，使外屏操作更方便。",
-              "source_url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-07T05:58:30+08:00"
             }
           ]
         },
@@ -169,45 +169,66 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "Engadget 评测回顾：苹果设备、Googlebook 与 Kindle",
-              "brief": "Engadget 在过去两周发布了13篇新评测，精选其中最佳内容供读者周末阅读。苹果近期推出三款新Mac和翻新版iPad mini，其中配备触摸屏的首款MacBook Pro表现出色但价格昂贵，触摸屏对整体体验提升有限；M6版MacBook Pro评分最高，但仅升级芯片并涨价；新iMac因价格上涨使性能提升难以令人信服；搭载A20 Pro芯片的iPad mini价格更贵，屏幕仍为60Hz且不支持Face ID。此外，搭载Google系统的笔记本电脑时代到来，但依旧存在熟悉的问题。下周还将有六篇评测上线。",
-              "source_url": "https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/",
+              "title": "iOS 如何在您的密码出现在数据泄露中时发出警告",
+              "brief": "iPhone 上出现保存的密码可能已出现在数据泄露中的警告时，用户往往会担心账户是否被入侵。实际上，这类警告并不一定意味着 iPhone 被黑或账户被攻破。iOS 会将密码应用中存储的登录凭据与已泄露的密码数据进行比对，即使相关网站尚未报告泄露事件，也可能触发警告。密码应用免费提供安全的登录信息和通行密钥存储，可通过 iCloud 钥匙串进行端到端加密同步，并支持在网站和应用中自动填充。被标记的账户会保留在密码应用中供用户查看，用户可以快速找出哪些登录信息需要处理，并采取相应措施。",
+              "source_url": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/",
               "source_name": "Engadget",
-              "published_at": "2026-11-07T21:00:00+08:00"
+              "published_at": "2026-11-07T23:15:00+08:00"
             },
             {
-              "title": "谷歌眼镜合作方意外泄露智能眼镜发布计划",
-              "brief": "Gentle Monster宣布其版谷歌Android XR智能眼镜将于12月正式上市，官网显示11月12日开启预售。此前，另一合作方Warby Parker也在周四似乎无意中透露了同一日期。两家眼镜品牌与三星同为谷歌该项目的合作伙伴，这款产品既被定位为Meta智能眼镜的竞争者，也被视为谷歌眼镜某种程度的复兴。谷歌本身尚未确认上述日期。Gentle Monster同时发布了一部由乔纳森·格雷泽执导、华金·菲尼克斯主演的短片预告，完整影片将于11月中旬推出。Android XR平台可支持从三星Galaxy XR的混合现实到Xreal Aura的增强现实等多种设备，而这两款眼镜将提供无显示屏、以音频为主的系统版本，同样可使用Gemini。",
-              "source_url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+              "title": "为什么你其实不需要昂贵的高端路由器",
+              "brief": "路由器厂商常以速度作为卖点，旗舰型号如网件 Nighthawk RS700S 标称速度可达 19Gbps，配备两个 10Gbps 端口和八根天线，售价超过 500 美元。但对大多数家庭来说，这笔钱花在了永远用不到的性能上限上。路由器无法让宽带比套餐本身更快，FCC 将宽带的基准定义为下行 100Mbps、上行 20Mbps，百元以下的入门路由器足以应付一般家庭的日常需求。选购前应先了解自家宽带套餐的速率，性能远超套餐的路由器并不会带来额外好处，因为瓶颈在运营商而非路由器。选购时重点关注千兆以太网端口、家长控制功能以及 Wi-Fi 6 或更高标准即可。",
+              "source_url": "https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router/",
               "source_name": "Engadget",
-              "published_at": "2026-11-07T03:45:23+08:00"
+              "published_at": "2026-11-07T23:00:00+08:00"
             },
             {
-              "title": "福克斯完成220亿美元收购Roku交易",
-              "brief": "福克斯公司正式完成对Roku的收购，交易金额达220亿美元，于今年6月宣布，仅用五个月便获美国司法部审查通过，对如此规模的并购而言速度异常之快。Roku在全球覆盖超过1亿家庭，是Netflix、YouTube TV和Disney+等流媒体平台的入口，同时销售广告和订阅套餐，旗下还拥有流媒体服务Tubi。颇具讽刺意味的是，福克斯曾在2020年出售Roku股份以资助收购Tubi。交易完成之际，有报道称福克斯新闻10月收视率同比下降27%，而CNN增长3%，MS NOW（原MSNBC）增长16%。Roku创始人安东尼·伍德将加入福克斯董事会，共同领导新成立的福克斯数字平台部门，监管Roku、Tubi、Fox One等数字品牌。福克斯表示Roku将保持对所有内容合作伙伴开放的\"开放平台\"。",
-              "source_url": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
+              "title": "Windows PowerToys 可自动完成部分繁琐的电脑任务",
+              "brief": "许多人的工作日从重复操作开始：打开浏览器、Slack、WhatsApp 和 Spotify，再花几分钟把窗口拖到常用位置，之后还要逐个重命名截图文件。微软的免费工具集 PowerToys 可以处理大部分这类琐事。它包含 30 多个实用工具，以 MIT 许可证在 GitHub 上免费提供，支持 Windows 11 和 Windows 10 2004 及更新版本，兼容 x64 和 ARM64 架构，可通过微软商店、GitHub 或 WinGet 命令行安装，且每个工具可单独开关。其中最值得安装的功能是 FancyZones，它可将屏幕划分为多个区域，窗口按下 Win + Shift + ` 打开布局编辑器后即可自动吸附到指定区域，大幅提升窗口管理效率。",
+              "source_url": "https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks/",
               "source_name": "Engadget",
-              "published_at": "2026-11-07T01:20:32+08:00"
+              "published_at": "2026-11-07T22:45:00+08:00"
             },
             {
-              "title": "欧盟指控TikTok\"兔子洞\"算法违反内容规则",
-              "brief": "欧盟委员会初步认定TikTok违反《数字服务法》，理由是其\"为你推荐\"页面使用的推荐系统可能造成危害。欧盟监管机构表示，该算法的个性化设计意味着用户与某类内容互动越多，看到的类似视频就越多。当这种无休止的重复接触涉及悲伤、孤独或身材形象等内容时，这种\"兔子洞\"设计可能有害，对用户心理健康造成不利影响，尤其是脆弱成年人和未成年人。监管机构指出，TikTok未充分评估算法将用户引入\"兔子洞\"的风险，也未采取足够的缓解措施，用户点击\"不感兴趣\"按钮可能不足以改变内容推送。欧盟要求TikTok改变\"为你推荐\"页面的设计，更多依赖用户的明确偏好，禁用观看时长作为推荐指标，提升用户控制功能的可访问性，并定期测试算法。若欧盟最终确认指控，母公司字节跳动或面临高达全球年收入6%的罚款。TikTok已否认这些指控。",
-              "source_url": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
+              "title": "三星 Galaxy S26 用户应该善用的配件",
+              "brief": "三星 Galaxy S26 系列是其当前旗舰产品，经过多代迭代，软硬件已相当成熟。不过近年来 Galaxy S 系列在相机和电池方面缺乏实质升级，因此 S26 系列在充电方面的改进格外引人注目：顶配的 Galaxy S26 Ultra 充电速度提升，成为首款支持最高 60 瓦充电的三星 Galaxy 手机，无线充电也更快；标准版 S26 虽仍停留在 25 瓦充电，但电池从 S25 的 4000mAh 增大到 4300mAh。更快的充电速度意味着日常续航焦虑更少。值得注意的是，三星近年来效仿苹果不再随附充电头，因此对 Galaxy S26 用户尤其是 Ultra 用户而言，最值得利用的配件正是包装盒中不再附带的充电器。",
+              "source_url": "https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of/",
               "source_name": "Engadget",
-              "published_at": "2026-11-07T01:17:14+08:00"
+              "published_at": "2026-11-07T22:30:00+08:00"
             },
             {
-              "title": "用户 soon 可发短信让Alexa在亚马逊购物",
-              "brief": "亚马逊推出最新的Alexa购物功能，允许用户通过发短信向AI助手提出购物请求，目前已向美国部分客户开放，未来几周将更大范围推广。用户此前已可在Alexa购物应用或网页上输入购物清单，而亚马逊称新的短信方式是最便捷的方案。用户可要求每周订购食品杂货、搜索礼品，或对快用完的商品快速补货。除文字外，Alexa还能响应照片附件，扫描商店寻找匹配商品，并回复建议，经用户确认后将商品加入购物车并完成下单。亚马逊表示，AI会随着学习用户的购物习惯和品味，逐渐提供更有用的推荐。用户还可设置降价提醒、查询商品最长一年的价格历史，以及查询配送状态。所有请求会同步到亚马逊购物应用和网站。有意率先体验的用户可报名，需绑定手机号，获批后\"Alexa Shopping\"将出现在联系人中。",
-              "source_url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
+              "title": "既然可以买平板电脑，为什么还要买触屏笔记本？",
+              "brief": "苹果近日发布了首款触屏 Mac——PROLED MacBook Pro，尽管乔布斯曾批评触屏笔记本人体工学糟糕并以 iPad 作为替代方案。近年来 iPad 越来越接近 Mac，采用了相同的处理器，iPadOS 也引入了类似的多任务界面，部分安卓平板也日益 PC 化。平板确实有优势：价格往往便宜数百美元，且更轻便，适合长途飞行时使用。但触屏笔记本仍有购买理由。所有笔记本都自带键盘和触控板，而这些在平板上通常需要额外购买；物理键盘在输入时比触屏更符合人体工学、反馈更好，还能腾出屏幕空间；触控板在选中文本或操作音视频时间线时精度更高。此外，平板通常在接口方面也有所精简。",
+              "source_url": "https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/",
               "source_name": "Engadget",
-              "published_at": "2026-11-07T01:11:10+08:00"
+              "published_at": "2026-11-07T22:15:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "AI 已颠覆网络安全行业，接下来会怎样",
+              "brief": "The Verge 主编 Nilay Patel 在 Decoder 播客中采访了 Cognition 公司首席安全官、资深网络安全专家 Alex Stamos，探讨当前网络安全的混乱局面。本期节目是“AI 在真实世界中”特别系列的第一部分。Stamos 直言，众所周知的价值数十亿美元的网络安全行业，面对 AI 加持下的黑客攻击、数据泄露与入侵浪潮早已不堪重负，而这只是 AI 改变安全领域的开端。他指出，无论是私人攻击者还是俄罗斯、朝鲜等国家级行为者，都借助 AI 同时探测和利用系统漏洞进行入侵。这种局面颇有“边疆”意味，就像九十年代永远在线的世界刚刚兴起时一样。",
+              "source_url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+              "source_name": "The Verge",
+              "published_at": "2026-11-07T10:00:00-05:00"
+            },
+            {
+              "title": "再见，Cybertruck",
+              "brief": "马斯克周五宣布，特斯拉将于明年逐步减少 Cybertruck 的产量，为 Cybercab 腾出空间。交通版编辑 Andrew J. Hawkins 认为这是这款车的死亡时刻：11 月 6 日凌晨 1 点 30 分，以一条推文宣告。Cybertruck 曾被誉为特斯拉工程的巅峰之作——比保时捷 911 更快、比福特 F-150 更强大，是马斯克受《银翼杀手》启发的未来主义设计的代表作。马斯克曾在 2019 年财报电话会议上称 Cybertruck 是“我们有史以来最好的产品”，如今以这种略显难堪的方式终结其生产令人唏嘘。文章回顾了这款车从发布到退场的曲折历程。",
+              "source_url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+              "source_name": "The Verge",
+              "published_at": "2026-11-07T09:40:06-05:00"
+            },
+            {
+              "title": "塞尔达回归，表现更胜以往",
+              "brief": "The Verge 特约编辑 David Pierce 主持的第 151 期 Installer 栏目上线，这是一份关于全球最酷、最具 Verge 风格事物的每周指南。本周看点包括：《塞尔达传说》强势回归且品质更佳，《哥斯拉》也有新作；此外还推荐了几款新手机配件和“世界上最好的笔”。Pierce 还分享了本周的阅读与使用体验：安德鲁·加菲尔德相关报道、GTA VI、《黑道家族》观后感、Salon 关站的惋惜、大幅改进的 Notion Calendar、全新 Keurig Alta 咖啡机，以及 iPad Mini 和触屏 MacBook Pro 的测评。",
+              "source_url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+              "source_name": "The Verge",
+              "published_at": "2026-11-07T08:49:01-05:00"
+            },
             {
               "title": "Anthropic用AI自动化研发引发研究者担忧",
               "brief": "AI安全研究机构METR周四发布报告，披露对Anthropic为期11周的内部调查结果。报告显示，Anthropic正在用AI研发更强大的AI，且效果显著：公司模型的改进速度约为一年前的两倍，尚无明显放缓迹象。这是AI加速自身发展最清晰的证据之一，引发了人们对该技术多快能迈向AI系统在极少或无人参与下自我改进的未来的疑问。此次调查与此前一项计划分开进行，后者是在今夏多起高调黑客事件后向安全研究人员提供类似员工级别的系统访问权限。Anthropic一方面呼吁放缓AI发展，一方面其研发却在大幅提速，令研究者感到忧虑。",
@@ -221,27 +242,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
               "source_name": "The Verge",
               "published_at": "2026-11-06T18:46:18-05:00"
-            },
-            {
-              "title": "据报道中国招募AI公司高管监视黄仁勋",
-              "brief": "据《纽约时报》报道，中国情报部门招募了Megaspeed高管Alice Huang，以监视英伟达CEO黄仁勋。国家安全部招募她是为了获取美国AI芯片的相关情报，并可能影响该公司推动其最先进芯片向中国开放供应。Megaspeed是英伟达的客户，而Alice Huang据称与AI芯片行业最高层的高管有交往，其中包括技嘉公司的领导人。上周《纽约时报》曾报道称黄仁勋被视为所谓“中国间谍图谋”的目标，并披露了两人之间的关系细节，两人并无亲属关系，但中国国安部招募她的信息是新增内容。",
-              "source_url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-              "source_name": "The Verge",
-              "published_at": "2026-11-06T18:00:44-05:00"
-            },
-            {
-              "title": "Starlink Mobile：SpaceX 进军移动运营商领域的最新动态",
-              "brief": "SpaceX 宣布要将 Starlink Mobile 打造为一家大型移动运营商。该公司已部署数千颗直连手机卫星，下一个挑战是在地面建设 5G 网络。为与 AT&T、Verizon 和 T-Mobile 抗衡，SpaceX 已与高通达成协议，将从 2027 年起在数万个 5G 基站部署其蜂窝技术。另有报道称 SpaceX 正洽谈收购 Boost Mobile，并可能利用全美 8 万个基站建设网络。T-Mobile 母公司德国电信 CEO 表示高度重视 SpaceX 的计划，但认为其实现成本可能超过 2000 亿美元。",
-              "source_url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-              "source_name": "The Verge",
-              "published_at": "2026-11-06T17:45:43-05:00"
-            },
-            {
-              "title": "《KPop 猎魔女团》4K 蓝光碟价格低于一个月 Netflix Premium 订阅费",
-              "brief": "Netflix 热门动画电影《KPop 猎魔女团》的 4K 蓝光 Criterion Collection 版现已在 Barnes & Noble 和亚马逊上架，售价仅 24.99 美元，远低于原价 49.95 美元。对于仅为观看这部 4K 动画而每月支付 26.99 美元 Netflix Premium 订阅费的用户来说，购买实体碟已是更划算的选择。该 Criterion 版本近期发行，附带丰富的花絮内容，包装设计精美。此外，这部电影已确认将推出续集。",
-              "source_url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-11-06T16:50:32-05:00"
             }
           ]
         },
@@ -334,6 +334,27 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "研究发现老年人大脑对睡眠不足的反应与年轻人截然不同",
+              "brief": "一项发表于《GeroScience》期刊的研究显示，20至30岁的年轻人与65至75岁的老年人在急性睡眠不足状态下，大脑功能连接的变化截然相反：年轻人部分神经网络连接增强，可能需投入更多资源维持功能；老年人相关连接减弱，或可提高网络模块化程度与组织效率。研究人员推测老年大脑可能存在补偿机制，通过重组神经网络适应长期睡眠质量下降，这也解释了部分老年人对偶尔睡眠不足主观影响较轻。但研究未直接测试认知表现，无法认定老年人睡眠不足后表现更好。研究人员还指出，长期睡眠不足会损害大脑健康，增加心血管疾病等风险，并可能降低大脑清除β-淀粉样蛋白的效率，与阿尔茨海默病病理发展相关，充足睡眠仍不可少。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1585386.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-07T22:14:36+08:00"
+            },
+            {
+              "title": "B-52将搭载AGM-183A高超音速导弹 美军为传奇轰炸机再添新战力",
+              "brief": "美国空军计划为B-52轰炸机整合AGM-183A ARRW高超音速导弹，该导弹项目已正式进入量产阶段。B-52自1955年服役以来历经多个时代，凭借坚固机体预计服役至2050年代。AGM-183A是一种助推滑翔高超音速武器，飞行速度超过5马赫，发射后先由火箭助推器加速爬升，随后释放滑翔飞行器，在惯性导航和GPS引导下高速俯冲打击目标，对现有防空反导系统构成更大挑战。该项目2023年曾面临取消风险，后因高超音速武器竞争加剧获得恢复。B-52早在2020年就承担其飞行测试任务，整合经验丰富。分析认为，这种老平台与新武器的组合将挖掘现有机队潜力，使B-52在未来数十年保持战略价值。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585384.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-07T22:14:02+08:00"
+            },
+            {
+              "title": "微软申请“实时改写发言”AI专利 可修改直播内容并同步调整口型",
+              "brief": "微软申请的一项专利显示，其开发系统不仅能实时修改直播中的语音内容，还能利用生成式人工智能调整视频画面中人物的口型，使其与修改后的语音一致。系统持续监听直播音频流，由AI代理识别需调整的词汇，对音频进行替换、删除或重写，并同步修改面部动作与口部运动，实现数秒延迟的近实时处理。主要应用包括实时翻译并同步口型、删除口头禅、修正口误、过滤敏感词汇等，可用于讲座、颁奖典礼、体育赛事转播等场景。该技术引发信息真实性担忧，微软提出保留原始音视频作为基础事实记录并保留修改痕迹。目前仅为专利申请，是否商业化尚待观察。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585382.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-07T22:13:22+08:00"
+            },
+            {
               "title": "TCL华星T8印刷OLED工厂进入设备安装阶段，计划2027年底量产",
               "brief": "TCL华星光电T8印刷OLED工厂总投资约295亿元人民币，于2025年9月开工，仅用226天完成主厂房主体结构施工，现已进入设备安装阶段，预计2027年第四季度量产。工厂建成后每月可处理约22500片2290毫米×2620毫米玻璃基板，投产初期产能将面向平板电脑、笔记本电脑及显示器市场，并探索柔性显示和折叠屏应用。与传统真空热蒸镀工艺相比，印刷OLED通过数字化打印设备将有机材料直接喷涂到基板指定区域，有望降低材料浪费和制造成本。公司已投入13年研发该技术，此前武汉T12 5.5代线成为全球首条量产的印刷OLED产线。T8项目能否在产能、良率及成本控制方面与成熟工艺竞争，仍是行业关注重点。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1585380.htm",
@@ -346,27 +367,6 @@
               "source_url": "https://www.cnbeta.com.tw/articles/science/1585378.htm",
               "source_name": "cnBeta",
               "published_at": "2026-11-07T16:25:06+08:00"
-            },
-            {
-              "title": "德国课程允许60名员工为《GTA6》发售离岗三天",
-              "brief": "《GTA6/侠盗猎车6》定于11月19日推出，相关讨论认为该作可能成为规模空前的流行文化事件。据称德国一项认证学习课程安排允许60名员工为此离岗三天，但该安排附带条件且名额有限。有估算显示，游戏发售当天的请假申请预计将增加17%，反映出不少玩家希望第一时间进入游戏。这一安排让游戏发售与职场制度和继续教育体系产生交集，不过三天离岗、60个名额等核心细则仍需通过原始页面进一步核实。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585376.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-07T15:10:25+08:00"
-            },
-            {
-              "title": "Take-Two CEO分享健康理念：戒烟、运动与充足睡眠",
-              "brief": "Take-Two CEO泽尔尼克谈及个人健康习惯，认为应戒烟、适量运动，饮食不必极端但需节制。他特别强调睡眠，建议每晚睡约7小时，并指出长期睡眠少于6小时会影响个人和职业决策。他还认为维持情感或精神生活同样重要，包括拥有相互关爱的人和社区。对于健身圈流行的肽类产品，他持反对态度，主张不服用未经双盲测试的物质。谈到减重，他支持有需要者在医生处方下使用GLP-1类药物。这些内容仅为个人看法，并非诊疗指南。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585374.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-07T15:09:50+08:00"
-            },
-            {
-              "title": "触屏Mac遭数码博主集体吐槽：实用性遭质疑",
-              "brief": "苹果推出触屏Mac后，影视飓风Tim以及何同学、钟文泽等国内头部数码博主不约而同表示触屏功能几乎无实际使用价值。尽管触控操作视觉新鲜感十足，但在桌面办公场景中，用户需反复抬手触碰高高架起的屏幕，操作逻辑不符合人体工学，使用不久胳膊便会酸胀。网友调侃，乔布斯发布初代iPhone时曾明确表示桌面设备不需要触屏，苹果打破延续十几年的产品原则推出的新设计，却收获了几乎全负面的反馈。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585372.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-07T15:09:39+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "AOC 便携屏显示器 16T40D 开售：16 英寸 1200P 60Hz OLED 屏，售价 1549 元",
-              "brief": "AOC 便携屏显示器 16T40D 现已开售，价格 1549 元。这款便携屏采用 16 英寸 1200P 分辨率 60Hz OLED 屏幕，支持蓝光模式，机身采用铝合金材质，整机重量约 510g，厚度 8mm，并标配磁吸皮套。接口方面，其配备 2 个全功能 USB-C 接口、1 个 Micro HDMI 1.4 接口以及 1 个音频输出接口，内置双声道扬声器，方便连接笔记本、手机等多种设备，适合移动办公与娱乐扩展使用场景。",
-              "source_url": "https://www.ithome.com/1/023/808.htm",
+              "title": "比亚迪仰望鼎曜「山河鼎韵」限量版开启预定，定金30万元",
+              "brief": "比亚迪仰望鼎曜「山河鼎韵」限量版已开启预定，定金为30万元，并附带尊享专属顾问服务及优先试驾服务。该限量版拥有专属外观内饰「棕岩白玉」及高定配置，具体包含限量版专属印记、专属云纹图案、出风口宝石·和田玉、金色扬声器面罩以及车门内置芳纶纤维等细节设计。仰望鼎曜是比亚迪超豪华行政旗舰轿车，此前已发布官图，采用对开车门并配备雨伞，车内为四座布局，后排设有香槟杯座。",
+              "source_url": "https://www.ithome.com/1/023/826.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-07T21:13:33+08:00"
+              "published_at": "2026-11-07T23:11:45+08:00"
             },
             {
-              "title": "七彩虹 E14 轻薄本上架：酷睿 i5-13420H 加持，16GB+1TB 到手 3654 元",
-              "brief": "七彩虹 E14 轻薄本已上架，16GB+1TB 版本到手价 3654 元。该机约厚 16.55mm，重 1.11kg，便于携带。其搭载第 13 代英特尔酷睿 i5-13420H 处理器，8 核 12 线程，睿频可达 4.6GHz，配备 Intel UHD 核显。屏幕为 14 英寸 2.2K 分辨率，屏占比 90.62% 以上，覆盖 100% sRGB 色域，亮度约 300nits，16:10 比例。内置 55Wh 电池，支持 65W 快充，采用大尺寸风扇与双散热铜管。配备 1.2mm 键程键盘、720P 摄像头及物理隐私开关，支持指纹开机二合一，内置 FTPM 2.0 加密芯片，预装新版 WPS Office。",
-              "source_url": "https://www.ithome.com/1/023/807.htm",
+              "title": "仰望鼎曜「山河鼎韵」限量版设计细节公布：专属「棕岩白玉」配高定配置",
+              "brief": "比亚迪仰望鼎曜「山河鼎韵」限量版轿车设计细节公布，拥有专属外观内饰「棕岩白玉」及高定配置。目前该限量版全球限量发售已开启，定金为30万元。IT之家已来到比亚迪仰望品牌海外首秀发布会现场，将带来新车最新情报。此前发布的官图显示，仰望鼎曜作为超豪华行政旗舰轿车，采用对开车门并配备雨伞，车内为四座布局，后排设有香槟杯座，融合东方底蕴与前沿科技。",
+              "source_url": "https://www.ithome.com/1/023/825.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-07T21:05:49+08:00"
+              "published_at": "2026-11-07T23:00:08+08:00"
             },
             {
-              "title": "微信鸿蒙版获 8.0.23.36 邀测升级，灰度多项新功能",
-              "brief": "微信鸿蒙版 App 迎来 8.0.23.36 邀测升级，邀测时间为 2026 年 11 月 7 日至 12 月 7 日，官方更新说明仍为修复已知问题。据爆料，8.0.23 版本新增多项特性：部分 Flutter 页面响应系统字体粗细；听一听新增小微浮动入口；公众号文章标题下新增 AI 摘要，长按文字可选问 AI；公众号文章、贴图及聊天消息长按新增问小微；聊天中的网页链接、文档类文件长按新增小微总结；聊天图片查看大图新增 AI 处理；好友昵称、群昵称等信息支持长按复制；群收款支持导入账单；设置中新增登录设备管理和消息提示音选项等，多数功能逐步灰度开放。",
-              "source_url": "https://www.ithome.com/1/023/806.htm",
+              "title": "Claude Max套餐额度被指虚标，Anthropic抗辩未获法官采纳",
+              "brief": "Anthropic的Claude Max套餐月费100美元和200美元，宣传使用额度分别是Pro套餐的5倍和20倍。但今年6月起诉的消费者按整周计算发现实际额度远低于宣传倍数：以一款模型为例，200美元套餐每周额度仅为Pro的6倍，100美元套餐为3.5倍。问题在于Max用户每5小时额度确为5倍或20倍，但每周上限并未同比例增加。Anthropic辩称倍数指单次使用周期额度，但法官谢文辉指出该说明需从主要销售页面点击两次链接才能看到，且消费者按月付费，有理由认为额度按月计算，因此原告可继续追究其过失性虚假陈述和违约责任。",
+              "source_url": "https://www.ithome.com/1/023/824.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-07T20:53:18+08:00"
+              "published_at": "2026-11-07T22:57:42+08:00"
             },
             {
-              "title": "歼-10 拉出三色彩烟飞越黄崖关长城，再次与地标性建筑同框",
-              "brief": "空军八一飞行表演队的歼-10 战机再次飞越世界地标性建筑，在素有蓟北雄关之称、被誉为万里长城之缩影的黄崖关长城上空拉出三色彩烟，与长城惊艳同框。黄崖关长城是世界文化遗产万里长城的重要组成部分。此次飞越也是八一飞行表演队继 2018 年飞越黄崖关长城、2024 年飞越埃及金字塔上空后，又一次飞越世界地标性建筑，展示了中国空军的飞行表演水平。",
-              "source_url": "https://www.ithome.com/1/023/805.htm",
+              "title": "GitHub推出新Git存储架构：单仓库支持5000个智能体协作",
+              "brief": "GitHub经内部压力测试验证，其新Git存储架构能够在保持极低读取延迟的同时，支持单个代码仓库容纳5000个智能体并发协作，并承受每秒高达7200次的代码推送。该架构已开启小范围定向内测，计划明年初逐步扩大开放范围。目前GitHub上最繁忙仓库的单秒写入峰值也仅数十次，且多为短暂脉冲式突发。随着更多研发工作交由AI智能体全天候高并发处理，这种突发将演变为常态化高吞吐负载。每次代码推送会触发CI流水线启动、部署系统拉取提交等读取请求，产生显著的读扇出放大效应，某典型仓库日请求量在两个月内激增约4倍。",
+              "source_url": "https://www.ithome.com/1/023/823.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-07T20:49:30+08:00"
+              "published_at": "2026-11-07T22:57:23+08:00"
             },
             {
-              "title": "漫步者 PW108 蓝牙音响上架：20W 额定功率，到手 699 元",
-              "brief": "漫步者 PW108 广场级音效蓝牙音响现已上架，到手价 699 元。其采用经典木质箱体搭配黑色贴皮工艺，减少谐振与共振失真，配备一体化拉杆和静音滚轮。音响搭载 8 寸大口径低音喇叭与 3 寸高音喇叭，低音 15W、高音 5W，合计 20W 额定功率，可覆盖千平户外场景。标配 2 支 2.4G 无线动圈麦克风，具备智能降噪与防啸叫技术，支持独立混响调节及原唱/伴唱切换、室内外双模式。内置 2200mAh 电池，续航约 5 小时，整机重 7.4kg。支持蓝牙 5.0，兼容 FLAC、APE、MP3 等格式，提供 U 盘直读、AUX、TF 卡接口。",
-              "source_url": "https://www.ithome.com/1/023/804.htm",
+              "title": "马斯克称赞中国汽车公司非常厉害",
+              "brief": "马斯克再次称赞中国，表示中国汽车工业水平很高。他提到特斯拉Model Y是中国最畅销的电动汽车，但强调实现这一成绩并不容易，并特别补充称中国汽车公司非常厉害。据此前报道，今年9月马斯克接受央视财经专访时曾谈及AI话题，表示中国的AI大模型整体而言非常出色，单位算力产出的性能几乎全球顶尖，并认为中国解决算力问题的速度会比大多数人预想更快，粗略估计大概两到三年内，中国就能依靠光刻技术与芯片制造补齐算力缺口。",
+              "source_url": "https://www.ithome.com/1/023/822.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-07T20:46:44+08:00"
+              "published_at": "2026-11-07T22:51:45+08:00"
             }
           ]
         },
