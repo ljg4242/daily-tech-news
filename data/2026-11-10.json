@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T05:19:40.227012+08:00",
+  "generated_at": "2026-11-10T07:20:07.760081+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,39 +9,39 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果在 iOS 27.2.1 和 macOS 27.2.1 中修复了哪些漏洞",
+              "brief": "苹果今日发布的 iOS 27.2.1、iPadOS 27.2.1 和 macOS 27.2.1 更新修复了多个安全漏洞。其中一个 iMessage 漏洞可能让远程攻击者加入群聊并接收消息，另一个漏洞则会让用户看到加入群聊之前发送的消息。大多数漏洞涉及 AirPlay 和蓝牙：恶意蓝牙设备可在用户无操作的情况下完成配对，另一漏洞可能让附近的攻击者破坏进程内存；还有多个漏洞可让攻击者绕过 AirPlay 配对码尝试的频率限制。macOS 更新还解决了 eMudhra 证书漏洞，并为命令行工具增加了防护。苹果未表示这些漏洞已被在野利用，但由于漏洞细节已公开，未升级的设备面临更高的攻击风险，建议尽快更新。",
+              "source_url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T07:07:16+08:00"
+            },
+            {
+              "title": "Webex 支持 iPhone Duo",
+              "brief": "热门视频会议应用 Webex 今日更新，加入了对苹果 iPhone Duo 的支持。无论 iPhone Duo 处于展开或折叠状态、竖屏或横屏模式，甚至笔记本或支架形态，Webex 均可正常使用。展开时，iPhone Duo 可显示更多参会者、保持共享内容可见，并提供白板功能。多任务支持让 Webex 可通过分屏浏览与另一应用同时使用。Webex 移动摄像头共享功能允许用户在 iPhone Duo 以笔记本形态打开时在会议中串流手机摄像头，参会者可查看实时画面并进行标注。此外，思科还在 iPhone 应用中加入了 Webex Notetaker Agent，可对面对面交谈进行转录和摘要并生成行动项。Webex 可在 App Store 免费下载。",
+              "source_url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T06:31:20+08:00"
+            },
+            {
+              "title": "Meta 的 Muse AI 智能体登陆 Apple Watch",
+              "brief": "Meta 今日更新 iOS 版 Muse 应用，加入 Apple Watch 支持，Muse 用户现在可以在手表上使用这款主动式 AI 智能体。应用将 Muse 角色带到手表上，用户可以选择发送文字、语音输入或直接呼叫它，表盘还提供了 Muse 复杂功能以便快速访问。Muse 是 Meta 的个人 AI 智能体，可为用户完成各种任务，既可以作为独立应用使用，也内置在 Instagram、Facebook 等其他 Meta 应用中。Meta 为 Muse 设计的类似雪人的形象已广受欢迎，并在 Apple Watch 上处于核心位置。手表版应用的设计与 Meta 九月发布的配套设备 Muse Charm 类似。",
+              "source_url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T05:55:26+08:00"
+            },
+            {
+              "title": "安克推出配备自动追踪灯的 Eufy 安防摄像头",
+              "brief": "安克今日推出 Eufy TrackLight Cam S1，称其为全球首款配备自动追踪灯以主动威慑入侵者的户外安防摄像头。配合 Anker HomeBase 使用时，该摄像头兼容 Apple Home，可与 HomeKit 智能家居设备协同工作。检测到可疑人员时，摄像头会锁定目标，用灯光从最远 12 米处进行追踪，光线随距离自动调节。摄像头支持 355 度水平旋转，追踪速度最高达每秒 87 度。可选的追踪威慑模式可同时开启灯光和 105 分贝警报，另有红蓝闪烁灯模式。摄像头支持 4K 录制、10 倍数码变焦和夜视功能，配备 120 度泛光灯和双雷达实现 180 度、约 12 米范围的探测。应用中的家庭名单可通过识别已知手机蓝牙，为熟人提供柔和迎宾灯光。摄像头内置 15000mAh 电池和 5.5 瓦太阳能板，达到 IP65 防尘防水等级，无内置存储，需添加 microSD 卡或连接 HomeBase，无需订阅。TrackLight Cam S1 售价 300 美元，安克与亚马逊有售。",
+              "source_url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T05:47:39+08:00"
+            },
+            {
               "title": "macOS 27.2.1 修复命令行工具中的 eMudhra 证书漏洞",
               "brief": "苹果今日发布的 macOS Golden Gate 27.2.1 更新修复了 eMudhra 证书漏洞，建议用户尽快升级。运行 macOS 26 和 macOS 15 的 Mac 可分别更新至 macOS 26.7.3 和 macOS 15.8.3。苹果早在十月已在 Safari、邮件及使用苹果框架的应用中封锁受影响的证书，但 curl、git 等命令行工具此前仍可接受这些证书，此次更新后不再接受。此前苹果曾指导用户手动删除 /etc/ssl/cert.pem 文件中的相关根证书，该说明仍保留给无法升级的用户。Mozilla 的调查发现，eMudhra 签发的证书私钥数值低于 256，极易被恢复，攻击者可借此伪造任何网站的有效证书。",
               "source_url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
               "source_name": "MacRumors",
               "published_at": "2026-11-10T04:26:53+08:00"
-            },
-            {
-              "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2",
-              "brief": "Anthropic 今日推出最新模型 Claude Fable 5.2 和 Claude Mythos 5.2，在编码、推理和视觉方面均有改进。相比 5.1 版本，新模型表达更清晰，输出速度最快提升 30%，Fable 5.2 在中等算力设置下处理复杂任务的 token 消耗也更少。基准测试显示，两者在计算机操作、知识工作、网络安全、代理式科研与编码、多学科推理等方面超越 Opus 5.5。两者基于同一底层模型，但面向公众的 Fable 5.2 带有网络安全和生物安全防护，拦截率比 5.1 降低约 55%；Mythos 无此限制，通过生命科学与网络安全验证计划及企业版 Claude Security 提供。Fable 5.2 已在所有平台上线，符合条件的付费订阅用户本周可获额外使用额度。",
-              "source_url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T03:38:47+08:00"
-            },
-            {
-              "title": "苹果发布 macOS Golden Gate 27.2.1",
-              "brief": "苹果今天发布了 macOS Golden Gate 27.2.1，这是 macOS Golden Gate 操作系统的一次小幅更新。根据苹果的发布说明，本次更新包含错误修复和安全更新。此次更新可能包含一项修复，用于防止命令行工具接受 eMudhra 泄露的网页证书。苹果已于 10 月 19 日封锁了这些泄露的证书，因此大多数用户已经受到保护。用户可以在系统设置的软件更新部分通过无线方式下载 macOS Golden Gate 27.2.1。",
-              "source_url": "https://www.macrumors.com/2026/11/09/apple-releases-macos-golden-gate-27-2-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T02:13:57+08:00"
-            },
-            {
-              "title": "苹果发布 iOS 27.2.1，修复漏洞",
-              "brief": "苹果今天发布了 iOS 27.2.1，这是 iOS 27 操作系统的一次小幅更新，距离 iOS 27.2 发布仅两周。根据苹果的更新发布说明，iOS 27.2.1 修复了多项错误并修补了安全漏洞。用户可以在设置、通用、软件更新中通过无线方式下载 iOS 27.2.1。此外，苹果还为未运行 iOS 27 的设备发布了 iOS 26.7.3 和 iOS 18.7.12 更新。",
-              "source_url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T02:09:57+08:00"
-            },
-            {
-              "title": "苹果发布 watchOS 27.2.1 和 visionOS 27.2.1，含安全修复",
-              "brief": "苹果今天发布了 watchOS 27.2.1 和 visionOS 27.2.1 更新，距离 watchOS 27.2 和 visionOS 27.2 的发布仅两周。根据苹果的发布说明，watchOS 更新包含安全修复，而 visionOS 27.2.1 更新包含安全更新和错误修复。新软件可以通过各设备上的设置应用进行安装。",
-              "source_url": "https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T02:08:00+08:00"
             }
           ]
         },
@@ -49,45 +49,66 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "Apple Intelligence在中国完成iPad和Mac的监管注册",
+              "brief": "苹果的Apple Intelligence已在中国完成针对iPad和Mac的监管注册，这意味着该人工智能功能在中国市场的设备覆盖范围进一步扩大。此前苹果已为iPhone等产品在中国推进相关合规流程，与本地合作伙伴合作部署AI模型。此次注册完成后，iPad和Mac用户有望在中国正式使用Apple Intelligence功能，包括写作工具、图像处理和Siri增强等特性，标志着苹果AI服务在华落地取得新进展。",
+              "source_url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T06:54:52+08:00"
+            },
+            {
+              "title": "今日macOS更新修复涉及eMudhra证书的安全漏洞",
+              "brief": "苹果发布macOS系统更新，修复了一个涉及印度证书颁发机构eMudhra的安全漏洞。该漏洞与系统信任的根证书相关，可能被用于潜在的安全攻击，威胁用户设备安全。苹果在更新中移除或调整了相关证书的信任状态，以防止攻击者利用该问题伪造证书、实施中间人攻击等恶意行为。苹果建议所有Mac用户尽快安装最新系统更新，确保设备免受该安全漏洞的影响，保障系统与数据安全。",
+              "source_url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T06:17:36+08:00"
+            },
+            {
+              "title": "Skydance确认HBO Max与Paramount+将推出超值捆绑套餐",
+              "brief": "Skydance正式确认计划将HBO Max与Paramount+打包推出捆绑订阅套餐，为用户提供更具性价比的流媒体选择。此举旨在整合两大流媒体平台的内容资源，包括HBO的优质剧集和派拉蒙的电影与体育内容，以增强竞争力，应对Netflix、Disney+等对手的市场压力。捆绑套餐预计将为订阅用户带来价格优惠，具体定价和上线时间尚未公布，但公司表示方案正在推进中。",
+              "source_url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T05:46:15+08:00"
+            },
+            {
+              "title": "埃德加·赖特执导苹果全新搞笑Apple Pay动作广告",
+              "brief": "苹果发布了一支由导演埃德加·赖特执导的全新Apple Pay广告，以幽默的动作片风格展示Apple Pay的便捷支付体验。广告延续了赖特标志性的快节奏剪辑和视觉风格，通过夸张的动作场面突出使用Apple Pay结账的流畅与高效。苹果近年来持续邀请知名导演打造创意广告，以趣味方式推广其支付服务，此次与赖特合作的广告在社交媒体上引发关注，被认为风格新颖、充满喜剧效果。",
+              "source_url": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T05:30:57+08:00"
+            },
+            {
               "title": "如何自定义或禁用新款 MacBook Pro 的触控屏及随航功能",
               "brief": "新款 MacBook Pro 引入触控屏后，苹果提供了多种自定义选项，用户可根据个人使用习惯调整触控行为。本文介绍了如何在系统设置中配置触控屏的相关功能，包括调整触控响应方式、配合随航（Sidecar）使用时的显示选项等。对于不习惯触控操作的用户，文章还详细说明了完全禁用触控屏的步骤，帮助用户在保留其他功能的前提下关闭触控输入，从而避免误触，获得更符合传统使用体验的 Mac 使用方式。",
               "source_url": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-10T05:11:30+08:00"
-            },
-            {
-              "title": "报道：苹果2026年通过新加坡和爱尔兰省下逾50亿美元税款",
-              "brief": "据媒体报道，苹果公司在2026年通过其在新加坡和爱尔兰设立的运营架构，节省了超过50亿美元的税款。新加坡和爱尔兰长期以来是苹果国际业务的重要基地，两地提供了优惠的税收政策，苹果在这两个地区负责部分产品的制造、销售及知识产权运营等业务。这一税收安排再次引发外界对跨国科技企业全球税务规划的关注。报道指出，苹果通过合法的税务结构优化，持续降低其在全球范围内的整体税负水平。",
-              "source_url": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T04:47:38+08:00"
-            },
-            {
-              "title": "iOS 27.2.1 修复信息、AirPlay 等多项安全漏洞",
-              "brief": "苹果发布了 iOS 27.2.1 更新，这是一个以安全修复为主的版本，解决了信息（Messages）、AirPlay 以及其他系统组件中存在的多个安全漏洞。苹果在安全更新说明中表示，其中部分漏洞可能已被积极利用，因此建议用户尽快升级。本次更新适用于支持的 iPhone 机型，用户可在设置-通用-软件更新中下载安装。此外，苹果同期也推出了 iPadOS、macOS 等对应的更新版本，为全平台设备提供一致的安全补丁。",
-              "source_url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T04:20:00+08:00"
-            },
-            {
-              "title": "提升新款 MacBook Pro 使用体验的精选配件推荐",
-              "brief": "如果你刚入手新款 MacBook Pro，一些合适的配件可以显著提升使用体验。本文精选了多款编辑推荐的装备，包括扩展坞、显示器、外接键盘与鼠标、笔记本电脑支架、便携电源以及高品质音频设备等。文章针对不同使用场景给出建议，例如居家办公、移动创作和桌面娱乐等，帮助用户根据自己的需求和预算搭配出理想的工作环境。这些配件能够充分发挥新款 MacBook Pro 的性能和接口优势，打造更高效舒适的使用体验。",
-              "source_url": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T04:15:38+08:00"
-            },
-            {
-              "title": "苹果将在伊斯坦布尔开设新开发者中心，扩大在土耳其投资",
-              "brief": "苹果宣布将在土耳其伊斯坦布尔开设一座全新的开发者中心，这是苹果在土耳其更广泛投资计划的一部分。新中心将为当地开发者提供培训、技术支持和交流空间，帮助他们学习 Swift、App 开发等技能，并借助 App Store 将应用推向全球市场。苹果表示，此举旨在支持土耳其蓬勃发展的开发者社区和应用经济，创造更多就业与学习机会。此前苹果已在多个国家和地区设立类似开发者中心，持续推动全球开发者生态的建设与发展。",
-              "source_url": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T04:07:24+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "2026年11月谷歌系统更新带来多项新功能",
+              "brief": "谷歌发布2026年11月系统更新，涉及Play服务v26.44，覆盖手机、汽车、电视、Wear及PC等多平台。开发者方面新增API可查询设备用户年龄段，并简化跨设备体验的参与流程；钱包功能支持旅行二维码，还可添加兼容Matter Aliro的设备；系统管理服务提升稳定性和汽车端性能，同时为谷歌及第三方开发者新增实用工具相关功能。更新可通过系统设置中的Google系统更新入口获取，但部分功能需数月才能全面推送。",
+              "source_url": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-10T06:08:00+08:00"
+            },
+            {
+              "title": "TCL NXTPAPER 70 Pro降至历史最低价279美元",
+              "brief": "TCL提前开启黑五促销，NXTPAPER 70 Pro降价50美元至279美元，为历史最低价，活动持续至11月30日，解锁版价格年内预计不会再降。该机配备相当不错的相机、性能和续航，屏幕采用NXTPAPER技术，通过无频闪调光和特殊磨砂纹理层减少反光、保护视力，并提供阅读模式调节屏幕色彩，观感接近电子书阅读器。同时120Hz刷新率带来比电子墨水屏更流畅的显示体验，是本季值得考虑的中端机型。",
+              "source_url": "https://9to5google.com/2026/11/09/the-tcl-nxtpaper-70-pro-early-black-friday-deal/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-10T05:30:00+08:00"
+            },
+            {
+              "title": "Fitbit Sense与Versa本月底起无法下载第三方表盘和应用",
+              "brief": "谷歌宣布自11月28日起，Fitbit App Gallery将只提供Fitbit和谷歌官方开发的应用与表盘，涉及Versa、Versa 2、Versa 3、Versa 4、Sense和Sense 2六款设备。已安装的第三方应用和表盘可继续使用，但无法再下载新的或更新；若删除或恢复出厂设置，将无法重新安装。开发者届时也无法上传或更新内容，项目将仅对已安装用户保留。此举符合谷歌全面转向Wear OS和Pixel Watch的策略，Sense 2和Versa 4或应尽快下架。",
+              "source_url": "https://9to5google.com/2026/11/09/fitbit-sense-versa-clocks-apps/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-10T05:21:22+08:00"
+            },
             {
               "title": "谷歌员工开发的 Googlebook 应用带来类 macOS 状态栏快捷方式和键盘命令",
               "brief": "在 Reddit 帖子中，三位谷歌员工通过 Antigravity 开发的 Googlebook 应用被展示出来，它们增加了类似 macOS 的功能。其中“BentoBox”是一款实用工具，可让用户自定义状态栏，添加快捷方式、迷你应用和一目了然的信息，如天气状况、电池充电速度等，还提供剪贴板历史记录、设置计时器等实用功能，该应用需要无障碍悬浮窗等权限，可通过 Google Play 免费下载。另一款应用“Booklight”是一个启动器，类似苹果的 Spotlight，采用透明设计，可搜索应用、设置和网络，相比 Googlebook 内置搜索栏，它具有更多自定义和功能，包括用一句话书写简写命令并自动在相应应用中完成操作，以及更清晰的快速数学运算界面，还擅长查找符号，无需记忆从 ChromeOS 延续下来的 U+ 代码。",
@@ -101,33 +122,33 @@
               "source_url": "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/",
               "source_name": "9to5Google",
               "published_at": "2026-11-10T04:05:00+08:00"
-            },
-            {
-              "title": "周一安卓应用优惠与限免：Absolum、死亡蠕虫、Minabo等",
-              "brief": "周一的Google Play应用和游戏优惠已上线，包括Absolum、死亡蠕虫豪华版、像素骑士、Minabo：一段人生之旅、帕尔米拉之剑、绝境：死亡空间高级版、记忆之路等。本期亮点包括：黄金田野农场生活RPG限免、记忆之路降至1美元、暮色冲突降至2.5美元、传说洞穴降至4美元等。此外还有硬件优惠：三星Galaxy Z Fold 8直降300美元并赠送全新Galaxy Buds On耳机（优惠530美元），全新Google Fitbit Edge也迎来首批优惠，起价126美元。全新三星Galaxy SmartTag 3超宽带追踪器已开售，单价25美元起。",
-              "source_url": "https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-10T02:58:46+08:00"
-            },
-            {
-              "title": "Google商店预告2026年黑色星期五优惠，11月19日开始",
-              "brief": "Google商店2026年黑色星期五优惠将于11月19日开启，已公布部分折扣清单：Pixel 11 Pro Fold解锁版立减250美元，从1899美元降至1649美元；Pixel 11 Pro和Pro XL最高立减400美元；Pixel 11立减200美元，降至699美元；Pixel 10a立减50美元；加入Google Fi Wireless可免费获得Pixel 11 Pro；Pixel Watch 5立减100美元；Pixel Buds Pro 2立减60美元，降至169美元；Pixel Buds 2a从129美元降至99美元；Fitbit Sense 2降至199.95美元；Fitbit Versa 4降至159.95美元；Nest学习型恒温器第四代降至219.99美元；Nest恒温器降至89.99美元。更多优惠将于下周四公布。",
-              "source_url": "https://9to5google.com/2026/11/09/google-store-black-friday-2026/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-10T02:29:32+08:00"
-            },
-            {
-              "title": "三星押注用户明年将购买Galaxy S27 Pro或Ultra",
-              "brief": "据ETNews报道，三星正将超过70%的总产能分配给Galaxy S27 Ultra和预计同时发布的全新Galaxy S27 Pro机型，而标准版S27和S27+产能占比大幅缩减。相比之下，今年的Galaxy S26 Ultra约占该系列1800万台总产量的50%。三星此举并非指望S27 Ultra销量破纪录，而是新增S27 Pro作为第四款机型。S27 Pro将配备通常仅限Ultra级别的功能，包括隐私显示屏和相似设计，但不带S Pen且价格更低。三星计划将Ultra维持约1800万台产量，S27 Pro将占用总产量约700至800万台，预计约20%原本属于S27或S27+的销量将转向这一更贵机型。三星近年高端策略屡获成功，Fold 7和Fold 8接连热销，Galaxy S26 Ultra更成为今年第二季度最畅销安卓手机。",
-              "source_url": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-10T01:25:00+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "DC宇宙改组：詹姆斯·古恩与彼得·萨弗兰在合并后离任",
+              "brief": "派拉蒙与华纳兄弟的争议性合并仅过去约两个月，重启后DC宇宙的联席CEO詹姆斯·古恩和彼得·萨弗兰便出人意料地卸任。目前尚不清楚二人是主动辞职还是被迫离开，也不确定除已进入后期制作的2028年《明日之子》外，他们规划的2028年后项目将何去何从。曾与古恩合作《银河护卫队》等漫威电影的制片人杰里米·拉查姆将接任。二人发表联合声明回顾四年成果，并表示为能回归讲故事的本心而兴奋。",
+              "source_url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-10T05:55:35+08:00"
+            },
+            {
+              "title": "在体育博彩中损失30.8万美元的男子起诉Kalshi提供非法赌博",
+              "brief": "华盛顿州贝尔维尤居民斯科特·布莱特在预测市场Kalshi上进行体育博彩损失超过30.8万美元后提起诉讼，称其下注时华盛顿州已禁止网络赌博，且州总检察长此前已就同一问题起诉Kalshi。他要求获得超过58万美元的赔偿。该诉讼于9月24日在金县高等法院提起，Kalshi已申请驳回。案件考验失败的赌客能否通过个人诉讼向公司追回损失，而华盛顿州自2006年起禁止网络赌博，并长期允许赌客向非法赌博经营者索回损失。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-10T05:13:39+08:00"
+            },
+            {
+              "title": "萨姆·奥特曼恶搞项目带来内存管理的有趣一课",
+              "brief": "奥特曼在播客中称，让所有人把全球有限的DRAM放在自己电脑里且仅使用5%从全球分配角度看很糟糕，此番言论引发争议。开发者伊恩·凯据此制作了名为Ram-Altman的恶搞脚本：当系统可用内存超过10%时，用户每天可向奥特曼发一封邮件。凯称该脚本用MemTotal减去MemAvailable计算，包含页缓存和可回收slab，但不含tmpfs和共享内存。若只显示Linux报告的“空闲”内存会不完整，因为Linux常报告极少的空闲内存。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-10T04:49:09+08:00"
+            },
             {
               "title": "允许黑客通过SSH入侵Linux设备的漏洞正遭积极利用",
               "brief": "多名研究人员报告，黑客正在积极利用一个新近发现的高危漏洞，可在数秒内登录大量Linux系统的高权限账户。该漏洞被命名为“*sshole”，源于OpenSSH与musl代码库之间的交互问题，同时使用这两个组件并满足其他条件的系统均受影响。安全公司Greynoise称，其部署在东南亚的蜜罐遭到代号GT10的团伙攻击，该团伙实施了“成熟入侵”，其使用的后门TAC Agent包含中文注释并疑似由AI生成，支持shell命令、系统侦察和持久化等功能。",
@@ -141,33 +162,19 @@
               "source_url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-10T03:08:37+08:00"
-            },
-            {
-              "title": "Claude Code 意外在 GitHub 上泄露大量机密信息",
-              "brief": "AI安全公司Apiiro的研究人员发现，由于设置文件处理存在疏漏，Claude Code正在公共GitHub上泄露敏感信息。研究人员在嵌入GitHub仓库的Claude Code设置文件中发现了数千个机密，包括数据库密码、API令牌和root登录凭据。问题源于Claude Code处理自动化shell命令用户批准的方式：当用户选择“是，不再询问”选项批准运行命令时，该选择会作为规则存储在本地“.claude/settings.local.json”文件中，而命令本身常常原样写入该设置文件，其中包括嵌入其中的敏感信息。Anthropic在文档中称该文件会加入开发者全局.gitignore列表，通常可防止公开分享，但该设置不会反映在仓库层面，因此当仓库被克隆到其他机器或文件夹后来才成为仓库时，敏感文件可能被意外上传。许多情况下，Claude Code自身会在用户不知情的情况下提交设置文件的更改。",
-              "source_url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-10T01:24:26+08:00"
-            },
-            {
-              "title": "SpaceX高管称公司本质上已是基建企业",
-              "brief": "SpaceX发射业务副总裁基科·东切夫在佛罗里达UP.Summit大会上表示，公司虽仍是火箭公司，但根本上已是基础设施公司，正在地面、近地轨道乃至月球和火星建设基础设施。他提到公司在收购xAI后人工智能应用大幅加速，并称猎鹰9号火箭正稳步走向退役。SpaceX计划本周五进行第15次星舰试飞。",
-              "source_url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-09T23:39:21+08:00"
-            },
-            {
-              "title": "英伟达CEO婚外情被指涉及国家安全",
-              "brief": "英伟达首席执行官黄仁勋向员工发内部信息承认婚外情并道歉。此前《金融时报》报道称，美国情报界认为与他有恋爱关系的女子为中国国家安全部从事间谍活动。英伟达表示董事会将就创始人兼CEO成为外国情报活动目标的相关报道展开独立调查，黄仁勋称将全力配合。此事对近年成为人工智能热潮代表人物之一的黄仁勋造成重大打击。",
-              "source_url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-09T23:23:20+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Google Wallet 支持支付宝 Plus 旅行二维码",
+              "brief": "据 Android Authority 报道，Google Wallet 推出了对支付宝 Plus（Alipay Plus）的支持，用户可以通过 Traveler QR（旅行者二维码）功能使用该服务。这意味着持有 Google Wallet 的用户在支持支付宝 Plus 的地区进行消费时，无需更换支付工具，只需出示相应的二维码即可完成支付。该功能的加入进一步扩展了 Google Wallet 在跨境支付场景中的适用范围，方便国际旅行者在更多商户和地区使用移动支付，提升了出境消费的便利性。",
+              "source_url": "https://www.androidauthority.com/google-wallet-alipay-plus-2-3733150/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-10T06:56:21+08:00"
+            },
             {
               "title": "亚马逊促销：Skullcandy Crusher 720 耳机直降 70 美元",
               "brief": "Android Authority 报道，亚马逊 currently 推出 Skullcandy Crusher 720 耳机促销活动，优惠金额为 70 美元。Crusher 720 是 Skullcandy 旗下的头戴式耳机产品线，以低音增强功能为卖点。该页面正文内容因 Cloudflare 安全拦截而无法正常加载，无法获取促销的具体价格、有效期、适用地区及购买链接等更多细节信息。读者如需了解该优惠的完整详情，可前往亚马逊网站或 Android Authority 原文页面自行查看确认。",
@@ -195,19 +202,26 @@
               "source_url": "https://www.androidauthority.com/chrome-incognito-guest-mode-real-time-safe-browsing-3733040/",
               "source_name": "Android Authority",
               "published_at": "2026-11-10T01:54:16+08:00"
-            },
-            {
-              "title": "亚马逊三星 Odyssey G3 200Hz 游戏显示器降至 119.99 美元",
-              "brief": "亚马逊目前对三星 Odyssey G3 游戏显示器进行降价促销，售价降至 119.99 美元。这款显示器支持 200Hz 高刷新率，适合追求流畅画面体验的游戏玩家。对于希望以较低预算升级游戏显示设备的用户来说，此次折扣具有一定吸引力。该优惠活动时间有限，有需要的消费者可前往亚马逊查看详情并及时下单。",
-              "source_url": "https://www.androidauthority.com/samsung-odyssey-g3-monitor-deal-3733067/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-10T01:37:07+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Mesh Wi-Fi 的优缺点解析",
+              "brief": "对于初次选购 Wi-Fi 路由器的用户来说，是否选择 Mesh（网状）系统还是传统独立路由器是重要的购买决策。Mesh 系统的主要优势在于覆盖范围，每个卫星路由器都可作为连接光猫或光纤终端的网关路由器的中继，像 Eero 7 双件套这样相对便宜的套装理论上可覆盖约 4000 平方英尺，需要更大覆盖时只需再添加兼容路由器。与需要单独 SSID 的 Wi-Fi 扩展器不同，Mesh 系统可实现无缝漫游，根据设备位置在各个节点间自动切换，避免手动选择网络的麻烦。不过独立路由器价格更便宜，在某些情况下不仅够用甚至更合适，用户应结合实际需求权衡选择。",
+              "source_url": "https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-10T07:00:00+08:00"
+            },
+            {
+              "title": "YouTube 将于 2027 年重新纳入 Billboard 榜单计算",
+              "brief": "YouTube 曾于 2025 年 12 月停止向 Billboard 提供数据，理由是榜单未能充分体现免费广告支持收听的价值。Billboard 的榜单如 Billboard 200 和 Hot 100 等均纳入流媒体表现，但长期以来付费订阅用户的收听权重高于免费用户。Billboard 宣布自 2027 年 1 月起调整换算规则：1500 次广告支持播放计为一个专辑消费单位，相当于售出一张专辑或付费用户 1000 次播放，而此前需要 2500 次广告支持播放才能折算一个单位。基于新规则，YouTube 宣布将从 2027 年起重返 Billboard 榜单，并表示新方法更好地反映了当今歌迷在订阅和广告支持服务上的音乐消费方式。",
+              "source_url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-10T05:09:51+08:00"
+            },
             {
               "title": "任天堂 Switch 2 五大实用功能，每个玩家都该了解",
               "brief": "Switch 2 是初代 Switch 的直接升级，其设计、系统和手柄大多是改进而非全新设计，因此许多初代的技巧依然适用，但也有一些容易被忽略的新功能。例如，玩家可通过主菜单的控制器页面使用查找手柄功能，高亮已配对的 Joy-Con 2 并按住 L 或 R 键，手柄便会震动并发出声音，方便在沙发缝隙或毯子下找回。此外还有与好友共享游戏、节省开销等实用选项，建议玩家在下次开玩前先尝试这些功能。",
@@ -228,26 +242,33 @@
               "source_url": "https://www.engadget.com/2311340/windows-11-is-finally-adding-an-easier-way-to-disable-sticky-keys-pop-up/",
               "source_name": "Engadget",
               "published_at": "2026-11-10T03:42:47+08:00"
-            },
-            {
-              "title": "如何用 iPhone 拍出最佳月亮照片",
-              "brief": "用 iPhone 拍月亮常出现月亮过曝成光球或画面模糊的问题。原因是月亮本身很亮而夜空极暗，相机曝光系统倾向于平均测光，往往为了提亮天空而使月亮过曝；同时提升曝光会降低快门速度至 1/30 秒或更慢，手部抖动便容易造成模糊。此外，iPhone 不像部分设备那样在拍摄月亮时使用算法修饰，照片质量完全取决于拍摄设置。新款 iPhone 17 Pro 和 18 Pro 支持最高 8 倍光学级变焦与 40 倍数字变焦，旧款机型倍率较低，掌握正确设置才能拍出清晰的月球细节。",
-              "source_url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-10T03:30:00+08:00"
-            },
-            {
-              "title": "Gmail 用户应了解的实用小功能：撤回已发送邮件",
-              "brief": "在 Gmail 中点击发送后，屏幕左下角会弹出一个小提示框，显示\"邮件已发送\"，并提供\"撤销\"和\"查看邮件\"两个选项。如果发现错别字或遗漏信息，用户可以在短时间内点击\"撤销\"阻止邮件发出。需要注意，该功能并非真正撤回已送达的邮件，而是延迟发送，因此收件人不会收到任何通知。不过等待时间很短，必须迅速操作；如果在等待期间点击\"查看邮件\"，也会提前失去撤回机会。用户可在桌面版 Gmail 中点击右上角齿轮图标，进入设置延长可撤销时间，以便在发送前快速通读邮件。但即使选择最长时间，依然较为短暂，且已送达的邮件无法收回。",
-              "source_url": "https://www.engadget.com/2307742/gmail-unsend-feature/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-10T03:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "英伟达CEO黄仁勋间谍丑闻全梳理",
+              "brief": "英伟达CEO黄仁勋承认与Megaspeed高管Alice Huang存在婚外情，引发公司内部调查和全球热议。报道称，美国情报部门去年已认定Alice Huang不仅是为AI算力公司租用英伟达GPU的高管，还是中国国家安全部间谍。近年英伟达成为特朗普政府AI战略的关键一环，也是对华AI硬件谈判的核心角色，其市值已超4万亿美元并资助了Coreweave等“新云”公司。英伟达与黄仁勋称“没有理由相信国家安全或英伟达机密受到损害”，但调查仍在继续。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+              "source_name": "The Verge",
+              "published_at": "2026-11-09T18:07:59-05:00"
+            },
+            {
+              "title": "微星翻新QD-OLED电竞显示器降至300美元以下",
+              "brief": "微星工厂翻新版MAG 272QP X24显示器在Woot促销至11月18日，售价290.99美元，比399.99美元的建议零售价便宜逾100美元，并附180天厂商保修。这款27英寸屏幕配备1440p分辨率、240Hz刷新率，兼容G-Sync和FreeSync，有助于在帧率低于最高刷新率时减少画面撕裂。对PC游戏玩家而言，从旧款IPS面板升级到OLED是提升游戏体验的最佳方式之一，该机型在同等价位上配置较为齐全。",
+              "source_url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+              "source_name": "The Verge",
+              "published_at": "2026-11-09T16:43:41-05:00"
+            },
+            {
+              "title": "用AI造福气候的全球承诺只是残酷笑话",
+              "brief": "本月联合国气候谈判中流传着一份让AI减少环境危害的承诺，但文章认为这不过是空话。作者以喝无酒精啤酒作比，坦言从一开始就对此持怀疑态度。在土耳其安塔利亚举行的COP31气候大会上，土耳其环境部长穆拉特·库鲁姆与澳大利亚气候变化与能源部长克里斯·鲍恩共同举手示意。文章属于“AI数据中心最新动态”系列报道，由资深科学记者贾斯汀·卡尔马撰写，她长期报道能源与环境议题。",
+              "source_url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+              "source_name": "The Verge",
+              "published_at": "2026-11-09T16:13:16-05:00"
+            },
             {
               "title": "苹果推出50美元Intelligence使用包扩展部分AI功能",
               "brief": "苹果在9月初发布支持文档说明部分Apple Intelligence功能的使用限制后，现已更新Logic Pro，新增一次性付费49.99美元的“购买更多使用量”选项，被9to5Mac发现。Logic Pro内置AI助手，可执行“通过单个提示开始新歌、设置人声轨道或完善当前项目”等任务。这种Intelligence使用包可让用户继续使用因依赖OpenAI或Google Gemini云端AI模型而设有使用限制的部分Apple Intelligence功能。使用包仅限购买它的Apple账户使用，不支持家庭共享，未用完的额外使用量可结转。",
@@ -261,27 +282,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
               "source_name": "The Verge",
               "published_at": "2026-11-09T14:00:00-05:00"
-            },
-            {
-              "title": "Xbox Game Pass Ultimate三个月订阅每月不到20美元",
-              "brief": "过去一年Xbox Game Pass Ultimate的价格在每月20至30美元之间波动，但目前可以以约每月19美元的价格获得三个月的顶级订阅。在新蛋（Newegg），结账时使用优惠码BNWF2656可从三个月订阅的原价中减去11美元，总价降至57.99美元。Ultimate计划除了在Xbox主机和Windows PC上完整访问500多款游戏外，还包含EA Play和Ubisoft Plus Classics，两者拥有各自的游戏库和福利，以及Fortnite Crew，可完整解锁堡垒之夜的战斗通行证。在Xbox上，Ultimate还支持在线多人游戏。",
-              "source_url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-11-09T13:35:25-05:00"
-            },
-            {
-              "title": "Instagram的Effect Builder可通过AI提示词制作新滤镜",
-              "brief": "继上周将Edits应用扩展到macOS之后，Instagram推出了Effect Builder，利用AI为Stories帖子生成自定义滤镜。该功能现已向美国年满18岁的用户开放，提供提示框供用户向聊天机器人描述滤镜创意，还可附上风格参考图片。用户随后可上传自己的照片预览AI生成的效果，并通过后续提示要求修改。此外还有一个选项允许Instagram的AI重写提示词，例如将一句“制作一个把照片变成漫画书页面的滤镜”的测试提示扩展成关于配色、灯光等多方面的详细风格描述。",
-              "source_url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-              "source_name": "The Verge",
-              "published_at": "2026-11-09T13:07:23-05:00"
-            },
-            {
-              "title": "詹姆斯·古恩卸任DC影业负责人",
-              "brief": "据Deadline报道，詹姆斯·古恩和彼得·萨夫兰将不再执掌Skydance旗下的DC影业。两人自2022年起担任DC影业联合CEO，将由前漫威制作与发展高级副总裁杰里米·拉塔姆接替。不过，古恩和萨夫兰仍将继续参与多个DC项目的制作，并正在开发超人续作《Man of Tomorrow》。古恩还在Instagram上发帖称，他和萨夫兰“刚刚在参与另一个DC项目，我正在撰写剧本”。他表示在DC影业的时光“至少可以说是充满挑战”，并坦言不喜欢这份工作时常带有的公司化性质。",
-              "source_url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-              "source_name": "The Verge",
-              "published_at": "2026-11-09T12:39:57-05:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "《魔兽世界：永恒》创系列史上最大规模上线纪录",
-              "brief": "暴雪官方在 X 平台宣布，《魔兽世界：永恒》已成为魔兽历史上规模最大的上线版本，无论按峰值同时在线人数还是回归玩家人数计算均创纪录，这一历史记录甚至超过了《巫妖王之怒》等经典资料片。执行制作人兼副总裁霍莉·朗代尔还透露，本次上线带来了15年来最多的新玩家，超过2010年《大地的裂变》以来任何一部资料片的新玩家数量。不少粉丝分享了自己整个周末的游玩体验，《龙与地下城》高级游戏设计师乔伊·海克也发帖称赞。IGN 目前尚未发布完整评测，但早期评测印象积极，评测者表示在beta中不愿剧透太多，而从目前所见来看，暴雪可能真的成功了。",
-              "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-is-the-biggest-wow-launch-in-history",
+              "title": "GTA 6 发售前的观影片单推荐（部分可在影院观看）",
+              "brief": "Regal 影院将在 GTA 6 发售前的这周举办迈阿密主题电影马拉松，从本周五开始每天放映一部影片，包括《春假》、疤面煞星、速度与激情2、绝地战警2、健美先生以及迈克尔·曼执导的新版迈阿密风云导演剪辑版，这些影片都以迈阿密的荒诞犯罪故事为背景，其中疤面煞星和迈阿密风云更是初代罪恶都市的灵感来源。此外 IGN 还为居家观众整理了一份片单，1967年的《雌雄大盗》被认为几乎是 GTA 6 的主要灵感来源，影片讲述臭名昭著的亡命鸳鸯邦妮和克莱德在美国各地进行血腥犯罪的真实故事，上映时因过度暴力、同情主角并带有性意味而引发争议。",
+              "source_url": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
               "source_name": "IGN",
-              "published_at": "2026-11-10T03:27:50+08:00"
+              "published_at": "2026-11-10T05:57:28+08:00"
             },
             {
-              "title": "《魔兽世界：永恒》副本经验获得提升，但仍与经典版差距明显",
-              "brief": "针对beta测试期间玩家对副本经验的抱怨，暴雪社区经理 Kaivax 在论坛宣布周日早晨将副本经验提升50%，这让刷副本升级变得更有吸引力。但玩家指出，即便提升50%，副本经验仍远低于经典旧世版本。暴雪设计师克里斯·齐尔赫特此前曾解释，削减副本怪物经验是为了让玩家专注于开放世界升级，希望玩家在户外世界相遇交流。10月8日暴雪曾将副本经验提高约20%，但由于当时副本经验已比经典版低约80%，效果并不明显。作者周六周日分别体验了怒焰裂谷和洛丹伦废墟副本，确实感受到差异，但考虑到副本耗时，玩家仍认为收益有待进一步提高。",
-              "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-dungeon-experience-buffed-but-theres-a-long-way-to-go",
+              "title": "现实版 GTA 6 跑车以 130 万美元出售",
+              "brief": "英国零售商塞尔福里奇正与 Rockstar 合作销售一批 GTA 6 周边商品，其中最引人注目的是一辆定制版古罗提猎豹跑车。该车由 Rockstar 与 West Coast Customs 联合打造，原型为法拉利 Testarossa，即当年迈阿密风云中索尼·克罗克特驾驶的车型，售价高达100万英镑。该车目前陈列在伦敦门店，此前曾在迈阿密与其他 GTA 6 主题车辆组成车队巡游。目前距离 GTA 6 发售还有一周半，部分地区已开始预载，游戏体积达 212 GB。有玩家借预载数据挖掘游戏，发现了图形选项和未来线上模式的相关线索，另有传闻称 PC 版可能明年初推出，但 Rockstar 尚未确认。",
+              "source_url": "https://www.ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million",
               "source_name": "IGN",
-              "published_at": "2026-11-10T02:59:44+08:00"
+              "published_at": "2026-11-10T05:53:41+08:00"
             },
             {
-              "title": "《塞尔达传说：时之笛》重制版数据挖掘疑现《姆吉拉的假面》DLC线索",
-              "brief": "任天堂Switch 2版《时之笛》重制版发售不到一周，数据挖掘者已在其文件中发现了疑似《姆吉拉的假面》相关内容的线索。YouTube 主播 Austin John Plays 在研究重制版的 amiibo 功能时，发现数据中存在未使用的 NPC 对话。官方 amiibo 共两款，分别为林克和塞尔达，计划2027年发售，解锁的面具需要挖掘游戏文件才能使用。他发现的代码显示，NPC 会称林克佩戴的面具\"稀有\"\"来自异世界\"\"怪异\"，其中守墓人 Dampé 甚至说\"那是什么面具？看着它让我感觉怪怪的\"。目前尚不清楚这个神秘面具的外观，相关文本最终是否会派上用场也未可知，在官方公布前玩家还需保持期待值的克制。",
-              "source_url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints",
+              "title": "斯特劳斯·泽尔尼克：GTA 6 导致部分玩家暂缓购买新游戏，包括自家 NBA 2K27",
+              "brief": "Take-Two 发布最新财报，其旗下 NBA 2K27 销量达 400 万份，低于公司预期。公司在财报中指出，该游戏发售窗口期竞争异常激烈，众多娱乐产品争夺玩家注意力。CEO 泽尔尼克在接受 IGN 采访时进一步表示，虽然低于预期，但 NBA 2K27 仍是 NBA 2K 系列历史上第二成功的作品，他认为是发售时机和 GTA 6 的临近影响了消费者决策。GTA 6 被认为迫使众多开发商和发行商提前或推迟发售以避开11月，影逝二度、鬼武者、漫威金刚狼等作品都选择在9月扎堆发售。GTA 6 将于11月19日推出，预计将创造史上最大规模娱乐发售纪录。",
+              "source_url": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
               "source_name": "IGN",
-              "published_at": "2026-11-10T02:15:12+08:00"
+              "published_at": "2026-11-10T05:41:41+08:00"
             },
             {
-              "title": "詹姆斯·古恩与彼得·萨夫兰将卸任 DC 工作室负责人",
-              "brief": "Skydance 在新闻稿中确认，詹姆斯·古恩和彼得·萨夫兰将于12月1日正式卸任 DC 工作室负责人，前漫威高管杰里米·拉查姆将接替两人。古恩与萨夫兰仍将负责《明日之人》的后期制作，该片由古恩执导，定于2027年7月9日上映，剧情围绕大卫·科伦斯韦饰演的超人与尼古拉斯·霍尔特饰演的莱克斯·卢瑟联手对抗布赖尼亚克展开，蕾切尔·布罗斯纳安、米莉·奥尔洛克等众多演员也将出演或回归。两人还将继续担任《新蝙蝠侠2》等已在推进中的 DC 项目的制片人。Skydance 高层在联合声明中称赞两人为 DC 工作室开启了新时代，重塑了基础并打造了令人自豪的作品阵容。",
-              "source_url": "https://www.ign.com/articles/james-gunn-and-peter-safran-are-stepping-down-from-dc-studios-in-shock-development-that-sparks-all-sorts-of-questions-about-the-dcu",
+              "title": "《街头霸王》电影桑吉尔夫扮演者参加街霸 6 比赛，水平还不错",
+              "brief": "在《街头霸王》电影中饰演桑吉尔夫的荷兰演员奥利维尔·里希特斯，近日在家乡荷兰参加了名为 Chip Damage 的街霸 6 线下比赛，使用其所饰演的角色桑吉尔夫出战，ID为 TheDutchGiant，并采用面向新手的现代操作模式。从比赛对阵表来看，他在胜者组被淘汰，两场因对手弃权获胜，最终败给名为 BlackBeard 的玩家。他在直播视频中展现了对角色的扎实理解，甚至从对手手中拿下一局，引发观众欢呼。此事在格斗游戏社区迅速走红，传奇选手兼解说 Ryan Hart 也与其合影互动。里希特斯此前在电影首映红毯上表示，希望练到足以成为终极桑吉尔夫。",
+              "source_url": "https://www.ign.com/articles/zangief-actor-olivier-richters-competed-in-a-street-fighter-6-tournament-using-zangief-and-hes-actually-pretty-good",
               "source_name": "IGN",
-              "published_at": "2026-11-10T01:32:50+08:00"
+              "published_at": "2026-11-10T05:41:35+08:00"
             },
             {
-              "title": "前BioWare执行制作人Mark Darrah分享《龙腾世纪4》更“沉浸式”的最初构想",
-              "brief": "前BioWare执行制作人Mark Darrah在其YouTube频道发布新视频，分享了《龙腾世纪4》的原始构想。他展示了一份2016年中期制作的项目手册，曾在BioWare内部及EA高层之间传阅，目的是与发行方保持关联，争取早期资金和新员工。Darrah表示，大型发行机构中始终存在项目被取消或被长期资源不足的担忧，因此他制作这份手册，向EA高层强调《龙腾世纪：审判》曾大获成功且销量出色，希望他们支持开发续作，并提出了更具沉浸感的游戏设想。",
-              "source_url": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4",
+              "title": "华纳与派拉蒙合并后 Skydance Games 确认裁员",
+              "brief": "Skydance Games 向 Variety 证实已实施裁员，其新组建的派拉蒙游戏工作室多名员工被解雇。发言人表示，作为让 Skydance Games 保持长期增长的努力的一部分，公司正在业务多个领域进行重组和运营调整，经过审慎评估后决定缩减部分项目，因此涉及部分岗位，强调这并非对受影响员工才能和贡献的否定。派拉蒙游戏部门于今年6月宣布成立，涵盖 Skydance Interactive、Skydance New Media 等工作室，曾宣布进军3A游戏，包括忍者神龟：最后的浪人以及基于黄石、塔尔萨之王等IP的作品。编剧、概念美术、VFX 主管等多名员工已在领英更新求职状态。",
+              "source_url": "https://www.ign.com/articles/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
               "source_name": "IGN",
-              "published_at": "2026-11-10T01:00:15+08:00"
+              "published_at": "2026-11-10T05:36:45+08:00"
             }
           ]
         },
@@ -346,39 +346,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "Anthropic发布Claude Fable 5.2和Mythos 5.2：速度提升30% API价格降20%",
-              "brief": "Anthropic发布新一代旗舰模型Fable 5.2和Mythos 5.2，生成速度提升30%，API价格下调20%，为每百万输入Token 8美元、输出Token 40美元。基准测试显示，Fable 5.2在FrontierCode 2.0编程测试中取得49.1%，明显高于上一代Fable 5.1的32.4%和Opus 5.5的45.5%；在Humanity's Last Exam测试中得分为74.2%，也有提升。Anthropic称其核心代码库超过90%的合并代码修改由Claude完成，AI智能体还将一项关键服务从Python迁移到Rust，启动速度提升约26倍。安全方面，新版本安全拦截次数减少约55%。Mythos 5.2仅面向审核通过的专业机构开放。新模型已向付费用户和API开放，并支持各大云平台。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585668.htm",
+              "title": "《GTA6》发售请假或令英国企业损失1200万英镑",
+              "brief": "据估算，英国企业因玩家为《GTA6》发售请假而可能损失1200万英镑，请假人次达到度蜜月的两倍，部分玩家还积攒一整年假期准备连续休息两周完成游戏。发行商Take-Two表示，《GTA6》预购量已达770万份，预计将成为规模最大的游戏首发之一。上述损失、8.3万名请假员工及预购量均为统计或估算数据，并非最终结算结果。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585680.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T03:54:18+08:00"
+              "published_at": "2026-11-10T07:01:08+08:00"
             },
             {
-              "title": "苹果将在土耳其设立美国以外首个先进制造中心 扩大开发者教育投资",
-              "brief": "苹果宣布在土耳其扩大投资，包括设立开发者学院、开发者中心和先进制造中心。开发者学院将提供为期九个月的免费课程，涵盖编程、设计、市场营销、项目管理和人工智能等领域，并纳入无障碍设计、隐私保护和可持续发展主题，目前苹果全球开发者学院网络已覆盖19所学院。苹果还计划于2027年在伊斯坦布尔设立开发者中心，为开发者和初创企业提供专家支持、开发工具及一对一咨询等服务。位于安卡拉的先进制造中心预计2028年启用，是苹果在美国以外设立的首个此类机构，将为中小企业提供人工智能、机器学习、预测性维护、自动化和机器人技术等领域的免费培训与咨询。苹果首座先进制造中心于2026年8月在休斯敦启用。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585666.htm",
+              "title": "《GTA6》预购远超预期 豪华版销量高于普通版",
+              "brief": "Take-Two财报显示，《GTA6》预购量远超预期，其中豪华版销量高于普通版。《GTA5》近几个季度仍保持每季度约500万份的销量，累计销量接近2.35亿份，GTA系列累计销量接近4.8亿份。当季公司净预订额同比下降18%，净收入也出现下滑，但公司维持全年80亿至82亿美元的净预订额指引，其上一财年净预订额为67.2亿美元。目前《GTA6》是公司待发阵容中唯一拥有明确发售日期的作品，本财年商业表现高度依赖该作上市后的成绩。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585678.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T03:52:35+08:00"
+              "published_at": "2026-11-10T07:01:03+08:00"
             },
             {
-              "title": "法国将导致超市冷藏设备瘫痪的网络攻击归咎于伊朗革命卫队",
-              "brief": "法国外长Barrot表示，法国将此前导致约700家超市冷藏设备瘫痪的大规模网络攻击归咎于伊朗伊斯兰革命卫队，称这是法国本土首次遭受以破坏为目的的大规模网络攻击，损害了国家利益和公民安全。法国将在欧洲层面对责任方实施制裁，并召见伊朗驻法大使。巴黎检方已要求预审法官推进调查，并寻求对与革命卫队关联的网络部门负责人及其两名副手发出逮捕令。调查人员发现攻击手法具有该网络攻击部队特征，包括使用波斯语及与伊朗设备关联的IP地址。黑客通过联网的集中式冷藏控制器侵入系统并篡改设置，触发长时间除霜循环，导致冷藏柜和冷冻柜温度升高。伊朗外交部暂未回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585664.htm",
+              "title": "Meta推出最小AI模型Muse Ember 成本约为Claude三分之一",
+              "brief": "Meta推出最小AI模型Muse Ember，面向AI智能体需反复处理的高频任务，包括调用工具、执行编程子任务、请求路由、提取信息及解析长文档。模型支持文本、图片、音频、视频及PDF等多种输入，拥有约100万Token上下文窗口，最高可输出约51.2万Token，已通过Muse Code及Meta Model API上线。价格方面，每百万输入Token收费0.10美元，输出Token收费0.50美元，测试显示其单次任务成本约0.14美元，Claude Haiku 5.5约0.41美元。不过不同评测结果存在差异，在FrontierCode 2.0测试中其得分低于Claude Haiku 5.5。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585676.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T03:51:27+08:00"
+              "published_at": "2026-11-10T06:59:45+08:00"
             },
             {
-              "title": "迪士尼携手Adobe开发定制生成式AI 将应用于主题公园、影视制作和ESPN内容",
-              "brief": "迪士尼与Adobe达成合作，核心是Adobe Firefly Foundry方案。与通用生成式AI工具不同，双方将针对迪士尼旗下的知识产权、角色形象、故事环境和视觉风格训练专属模型，采用以人为中心、由艺术家主导的开发方式，使生成内容符合商业使用和专业制作要求。迪士尼旗下Imagineering研发部门已在使用Adobe Firefly平台支持主题公园开发，此次协议还将扩大应用范围，包括协助华特迪士尼影业拓展创意工作流程，并研究AI参与ESPN体育内容制作和提升观众互动体验。这是迪士尼近期拥抱生成式AI的又一动作，此前已与OpenAI达成合作。分析认为，这种定制化AI模式可帮助迪士尼在提高创作效率的同时，继续掌握旗下经典角色和视觉资产的使用方式。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1585662.htm",
+              "title": "SpaceX计划在得州投资240亿美元建设数据中心和天然气发电厂",
+              "brief": "SpaceX计划在得州Starbase投资240亿美元建设数据中心及配套天然气发电厂，天然气将成为设施尽快投运的主要发电燃料，公司还计划在部分火箭发射中使用经超低温冷却和净化处理的天然气。今年9月，SpaceX曾提议在佛罗里达州自建管道向Cape Canaveral的星舰火箭输送天然气，并在Starbase和Cape Canaveral招聘天然气交易员以满足燃料和电力需求。Starbase于2025年正式建市，数百名SpaceX员工及家属居住于此，拟议项目占地444英亩。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585674.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T01:29:36+08:00"
+              "published_at": "2026-11-10T06:59:30+08:00"
             },
             {
-              "title": "Uber推出停车预约服务 为自动驾驶出租车布局铺路",
-              "brief": "Uber推出Uber Parking停车预订功能，整合了SpotHero覆盖北美400多个城市、超过13000个停车设施的资源。用户可在应用中查看附近停车位的位置、价格和预计到达时间，按自助停车、代客泊车等条件筛选，并提前显示费用，支持二维码或车牌识别进场、延长停车时间和免费取消。该服务已率先在美国纽约、芝加哥、旧金山等15座城市上线，未来将逐步扩展至SpotHero覆盖的全部城市。Uber表示，停车服务首先瞄准日常通勤用户，同时与其自动驾驶战略密切相关：这些停车场未来可充当自动驾驶出租车的等待区、临时停靠点和调度节点，降低空驶里程和每英里运营成本。符合条件的停车订单还可为Uber One会员返还10%积分奖励。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585660.htm",
+              "title": "英伟达据悉介入Megaspeed芯片走私案调查 引发影响美国执法的质疑",
+              "brief": "据报道，英伟达介入Megaspeed芯片走私案调查引发其影响美国执法的质疑。知情人士透露，相关人士询问工业与安全局（BIS）是否参与新加坡政府近期对Megaspeed高管Alice Huang的扣留，新加坡警方曾将其带走问话并限制离境，而BIS并未参与此次行动。黄仁勋周日承认与Alice存在婚外情，此前他曾就两人关系性质撒谎，英伟达董事会正对此展开调查。英伟达发言人表示，致电询问Alice被拘留一事时，并不知晓这段婚外情。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585672.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T01:29:14+08:00"
+              "published_at": "2026-11-10T06:59:15+08:00"
             }
           ]
         },
@@ -386,11 +386,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《GTA 6》PS5 版正式开启预载，Xbox Series X｜S 需等到早上 8 点",
-              "brief": "《GTA 6》PS5 版已正式开启预载，游戏预载文件体积约 209.758GB，下载速度因网络环境而异，整体下载时间在 3 至 5 小时不等。随着下载开启，玩家可在 PS5 首页听到游戏背景音乐，采用舒缓的合成器曲风，带有 20 世纪 80 年代复古气息，与此前预告片及加长版预览视频的配乐风格一致。游戏文件拆包显示，本作支持 120Hz 高帧率模式和新版 PSSR 2 超分辨率技术，但不支持 VRR 可变刷新率功能。游戏将于 11 月 19 日正式发售，R 星当天将提供官方封面海报和雷奥奈达地图打印文件免费下载，双面实体海报发售后登陆 R 星商城，售价 0.99 美元，购买商店任意商品可免费获赠一份。",
-              "source_url": "https://www.ithome.com/1/024/566.htm",
+              "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 模型",
+              "brief": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 模型。Fable 5.2 每百万词元输入、输出费用分别为 8 美元和 40 美元，低于前代，生成速度最高提升 30%，快速模式下可再提升至 2.5 倍。预发布测试中，该模型协调逾 1000 个子智能体在 8 天内构建出可启动的原型操作系统，并以约 1000 个代理在 30 小时内完成费马大定理的 Lean 形式化证明。Mythos 5.2 提出预测腺相关病毒衣壳结构的新方法，34 个衣壳中成功建模 28 个。官方称新模型对齐表现提升，沙箱逃逸尝试显著下降，并加强反蒸馏保护。Fable 5.2 已在 AWS、Google Cloud 和 Azure 开放。",
+              "source_url": "https://www.ithome.com/1/024/573.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T23:59:13+08:00"
+              "published_at": "2026-11-10T07:14:28+08:00"
+            },
+            {
+              "title": "Meta AI 助手 Muse 推出 Apple Watch 应用",
+              "brief": "Meta 旗下个人 AI 智能体 Muse 推出苹果 Apple Watch 应用。用户可以选择打字、语音输入、拨打语音电话等交互方式，并支持表盘。Muse 是 Meta 推出的个人 AI 智能体，能够帮助用户完成各种任务，提供独立应用，并已集成至 Instagram、Facebook 等 Meta 应用中。Meta 为 Muse 设计的雪怪形象颇受欢迎，此次成为 Apple Watch 应用的核心视觉元素。此外，这款应用的界面设计与 Meta 今年 9 月公布的 Muse Charm 设备类似。",
+              "source_url": "https://www.ithome.com/1/024/571.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-10T06:58:32+08:00"
+            },
+            {
+              "title": "苹果推送 iOS 27.2.1 更新修复 9 个漏洞",
+              "brief": "苹果推送 iOS 27.2.1 更新，内部开发代号 24B156，属于小型维护更新，主要修复错误并整合安全更新，官方说明为提供错误修复和安全更新。用户可前往设置、通用、软件更新下载安装，更新前建议备份数据。据科技媒体 lifehacker 透露，本次更新修复包括两个 Message 漏洞在内的 9 个安全漏洞。其中 Message 群聊权限漏洞可能让远程攻击者加入 iMessage 群聊并读取消息；蓝牙与 AirPlay 配对相关漏洞可能导致攻击者绕过配对码速率限制、无需用户交互即可完成配对。此外还修复了 App Intents、brotli、CoreUtils、Rapportd 等组件的问题。",
+              "source_url": "https://www.ithome.com/1/024/572.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-10T06:58:32+08:00"
+            },
+            {
+              "title": "Take-Two CEO 称《GTA 6》预购量远超预期",
+              "brief": "Take-Two CEO 泽尔尼克表示《GTA 6》预购量远远超出预期，将为公司树立新的业绩基准，公司各方面的未来都非常光明。总裁斯塔托夫认为，《GTA6》发售将成为全球娱乐产业的标志性时刻。Take-Two 预计下一季度营收达 33.5 亿至 35 亿美元，持续性消费者支出将增长 12%。增长主要由《GTA6》终极版推动，大多数玩家预购 100 美元的终极版，而标准版售价 80 美元，20 美元差价被计入持续性消费者支出。泽尔尼克还表示，包括《GTA》在内的标志性系列作品，未来十年推出内容的形式和速度都将发生巨大变化。",
+              "source_url": "https://www.ithome.com/1/024/570.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-10T06:47:55+08:00"
+            },
+            {
+              "title": "Counterpoint 预估 2026 年折叠屏面板出货量增长超 23%",
+              "brief": "据 Counterpoint 报告，2026 年全球智能手机 OLED 面板出货预计同比下滑近 3%，从 8.94 亿片回落至 8.29 亿片，到 2028 年回升至 8.58 亿片。分形态看，传统刚性 OLED 出货预计下滑 24%，柔性 OLED 下跌 3%，而折叠、可卷曲 OLED 面板成为逆周期增长板块，出货同比增长超 23%。2026 年 OLED 手机面板市场营收预计同比下滑超 5%，折叠品类将成为营收增速最快的细分市场。三星显示预计保持领先，LG Display 与京东方深化与苹果等品牌合作，LTPO 在柔性 OLED 出货中占比将超 50%。SID 2026 上，天马、京东方、三星展示多项降耗与隐私保护技术。",
+              "source_url": "https://www.ithome.com/1/024/568.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-10T04:08:48+08:00"
             }
           ]
         }
