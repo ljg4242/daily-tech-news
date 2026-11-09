@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T17:19:41.597169+08:00",
+  "generated_at": "2026-11-09T19:19:16.088953+08:00",
   "sections": [
     {
       "category": "主要",
@@ -48,6 +48,13 @@
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "安全播客：Mac 恶意软件或在创纪录的 63 亿美元币安被盗事件中发挥作用",
+              "brief": "9to5Mac 的 Security Bite 播客本期邀请 macOS 安全研究员兼逆向工程师 Christopher Lopez 回归节目。两人深入探讨造成 63 亿美元创纪录损失的币安黑客事件的新细节，包括攻击者使用恶意 Homebrew 克隆版本，以及通过一场伪造的求职面试进入一名工程师的 Mac 电脑。节目还提供了相关博客文章和关注渠道，并可在 Apple Podcasts、Spotify、Amazon Music、Pocket Casts 和 RSS 等平台订阅收听。Security Bite 是 9to5Mac 每周聚焦苹果安全的深度栏目，解析超过 20 亿台设备生态系统中的新威胁、隐私问题和漏洞等内容。",
+              "source_url": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-09T19:00:00+08:00"
+            },
             {
               "title": "macOS 27.3 或将改变 AI 智能体获取完全磁盘访问权限的方式",
               "brief": "苹果此前在博客中宣布，应用若要获得 Mac 上的完全磁盘访问权限，将需要用户采取非常明确的操作，但当时并未说明具体实现方式。据爆料者 pdfu 在 X 上透露，苹果将封堵开发者利用的一个漏洞。在现行 macOS 版本中，当应用请求需要完全磁盘访问权限的文件时，系统会拒绝请求，并在设置应用中记录该应用作为启用选项，开发者常借此引导用户打开设置并开启开关。从 macOS 27.3 开始，应用请求权限范围外的文件将不再被记录，因此也不会出现在快速开启的选项列表中。目前开发者仍可让用户将应用图标拖入设置面板来授权，该功能仍在开发中。",
@@ -181,6 +188,13 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "地下种子世界：私人BT站点如何守护濒危影像",
+              "brief": "一位三十多岁的加拿大作家简寻找一部1990年代关于美国国会图书馆的稀有纪录片《记忆与想象》，却发现各大流媒体、YouTube乃至盗版网站均无片源。为避免影片失传，她四处搜寻拍卖网站和图书馆目录，并计划找到后将片子分享出去以保存于世。她的工具是私人BT跟踪站——盗版世界中的地下酒吧，靠口碑传播、保密性和严格社区规则运作。这些站点由热心用户维护着庞大且分类精细的资料库，专长领域从电影到赛车、特效工具不等，甚至有专门分享弗兰克·扎帕音乐的站点。",
+              "source_url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+              "source_name": "The Verge",
+              "published_at": "2026-11-09T06:00:05-05:00"
+            },
+            {
               "title": "黄仁勋致英伟达员工备忘录全文公布",
               "brief": "英伟达周日宣布对CEO黄仁勋展开调查，涉及他与一位疑似中国政府代理人、AI高管Alice Huang的关系。董事会宣布启动调查的同时，黄仁勋向全体员工发送了一份备忘录，承认自己对妻子不忠，并向家人和同事致歉，称自己的行为伤害了妻子和孩子。备忘录中写道，他对家人及所有员工感到愧疚。文章附上了这份致英伟达同事的备忘录全文，供读者查阅。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
@@ -207,13 +221,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
               "source_name": "The Verge",
               "published_at": "2026-11-08T15:22:39-05:00"
-            },
-            {
-              "title": "苹果正加速让 Siri 具备更强的智能代理能力",
-              "brief": "据彭博社 Mark Gurman 报道，苹果 CEO John Ternus 正敦促 AI 负责人 Craig Federighi 加快 Siri 路线图，打造能对抗 OpenAI 的 Dots 或 Meta 的 Muse 的强大 AI 代理。尽管 Federighi 在极短时间内交付了可用的 Siri AI 版本，但公司清楚其尚未跟上竞争对手的步伐。未来几个月 Siri 将迎来两项重要改进：其一是对苹果自家应用实现细粒度控制，例如在照片应用中旋转和裁剪图片、整理 Safari 标签页，预计随 iOS 27.3 推出；其二也是更重大的变化是与第三方应用集成，预计在明年春季到来，届时 Siri 可以直接通过 Grubhub 等应用下单。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-              "source_name": "The Verge",
-              "published_at": "2026-11-08T14:18:19-05:00"
             }
           ]
         },
@@ -221,39 +228,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "One UI 9.5 或为三星浏览器提供专用 DeX 桌面模式",
-              "brief": "据泄露信息显示，三星即将推出的 One UI 9.5 可能会为三星互联网浏览器引入专用的桌面模式。该功能主要面向 DeX 用户，让浏览器在大屏或桌面环境下呈现类似 PC 的界面布局与操作体验。目前三星浏览器在 DeX 模式下仍以移动版界面运行，桌面模式落地后有望提供更完整的标签页管理和键盘鼠标交互。此消息尚属泄露阶段，三星官方暂未确认该功能是否会在 One UI 9.5 正式版中推出。",
-              "source_url": "https://www.androidauthority.com/samsung-internet-dex-desktop-mode-one-ui-9-5-leak-3732817/",
+              "title": "Google Wallet 现已支持扫描收据，使用方法与理由全解析",
+              "brief": "Google Wallet 推出了收据扫描新功能，用户可以通过应用直接拍摄并保存购物收据，方便日后查询消费记录、核对账单或申请报销退货。文章介绍了该功能的开启步骤：更新 Google Wallet 应用后，在设置中启用收据扫描权限，随后在交易详情中即可添加收据图片。收据扫描还能帮助用户追踪支出、整理月度账目，并在需要保修或退换货时快速找到凭证，是日常财务管理的一项实用改进。",
+              "source_url": "https://www.androidauthority.com/how-to-set-up-google-wallet-receipt-scanning-3732455/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T17:07:10+08:00"
+              "published_at": "2026-11-09T18:54:00+08:00"
             },
             {
-              "title": "三星开始向 Galaxy Watch 8 系列推送 One UI 9 稳定版",
-              "brief": "三星已开始向 Galaxy Watch 8 系列智能手表推送基于 Wear OS 7 的 One UI 9 稳定版更新。此次更新从此前的测试版转为正式版本，为用户带来更稳定的系统体验以及新版本的界面改进和功能优化。Galaxy Watch 8 和 Galaxy Watch 8 Classic 用户可以通过 Galaxy Wearable 应用检查并下载该更新。安装前建议确保手表电量充足，并保持与手机的网络连接，以顺利完成整个升级过程。",
-              "source_url": "https://www.androidauthority.com/galaxy-watch-8-one-ui-9-wear-os-7-stable-update-3732792/",
+              "title": "重温 Kindle Colorsoft 后，更期待回归 Kindle Paperwhite",
+              "brief": "作者重新体验了亚马逊的彩屏电子书阅读器 Kindle Colorsoft，却发现实际使用感受不如预期。彩色屏幕虽然在阅读漫画、封面和插图时有优势，但分辨率较低、刷新时易出现残影，且价格明显高于普通机型。相比之下，Kindle Paperwhite 的高分辨率黑白屏在长时间阅读文字书籍时更舒适，响应更快，续航也更稳定。经过对比后，作者认为彩屏阅读器仍不够成熟，更愿意回到 Paperwhite 上继续日常阅读。",
+              "source_url": "https://www.androidauthority.com/revisit-kindle-colorsoft-cant-wait-go-back-paperwhite-3732510/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T16:41:07+08:00"
+              "published_at": "2026-11-09T18:30:06+08:00"
             },
             {
-              "title": "Azahar 3DS 安卓模拟器迎来大更新：逐游戏设置与性能大幅提升",
-              "brief": "安卓平台上的任天堂 3DS 模拟器 Azahar 迎来一次重要更新，新增了逐游戏独立设置功能，玩家可以为不同游戏单独配置画面、操控等参数。此次更新还带来了显著的性能提升，部分游戏的运行帧率获得明显改善，整体兼容性和稳定性也有所增强。此外，更新还包含多项界面和功能改进。作为 3DS 模拟器 Citra 停止开发后的社区延续项目，Azahar 正持续为安卓用户提供更好的 3DS 游戏模拟体验。",
-              "source_url": "https://www.androidauthority.com/azahar-3ds-emulator-android-biggest-update-3732766/",
+              "title": "2026 年发布的手机不值得买，你也应该避开",
+              "brief": "作者认为 2026 年推出的新手机缺乏足够的升级理由，不建议消费者购买。文章指出，近年旗舰机的处理器、相机和屏幕改进幅度逐年缩小，许多所谓新功能只是营销噱头，而价格却持续上涨。同时，软件支持周期虽然延长，但旧机型依然够用，二手和上代旗舰的性价比更高。作者建议用户理性看待年度更新节奏，优先考虑实际需求与长期价值，而不是盲目追逐新发布的机型。",
+              "source_url": "https://www.androidauthority.com/2026-smartphones-not-worth-buying-3732363/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T15:57:25+08:00"
+              "published_at": "2026-11-09T18:00:41+08:00"
             },
             {
-              "title": "三星或推出 4.99 美元的 Galaxy AI Premium 订阅服务",
-              "brief": "据报道称，三星可能很快开始对 Galaxy AI 部分功能收费，计划推出每月 4.99 美元的 Galaxy AI Premium 订阅服务。目前三星设备上的多项 AI 功能仍可免费使用，但未来部分高级 AI 能力或将被纳入付费订阅。这一举措意味着三星可能效仿其他厂商，通过 AI 订阅服务开辟新的收入来源。目前三星尚未官方确认该订阅计划的具体内容、上线时间和免费功能的保留范围，相关细节仍需等待官方进一步公布。",
-              "source_url": "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/",
+              "title": "三星 Memory 应用泄露，或为 Galaxy 手机带来 Pixel Screenshots 功能",
+              "brief": "有消息称，三星正在开发一款名为 Memory 的应用，其功能与谷歌 Pixel 手机的 Pixel Screenshots 类似。该应用利用设备端人工智能，对用户保存的截图进行自动分析和索引，用户可以通过自然语言搜索截图中的内容，例如查找某条聊天记录、地址或商品信息。泄露信息显示 Memory 可能会在未来的 One UI 版本中随 Galaxy 手机推出，进一步提升三星设备在 AI 体验方面与谷歌、苹果等竞争对手的竞争力。",
+              "source_url": "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T15:40:43+08:00"
+              "published_at": "2026-11-09T17:51:25+08:00"
             },
             {
-              "title": "DroidDeck PC 游戏模拟器新增支持 Pixel 和 Exynos 版 Galaxy 手机",
-              "brief": "安卓平台上的 PC 游戏模拟器 DroidDeck 发布更新，扩大了设备支持范围，现已兼容谷歌 Pixel 系列手机以及搭载三星 Exynos 芯片的 Galaxy 手机。此前该模拟器仅支持部分搭载骁龙芯片的设备，此次扩展让更多安卓用户可以在手机上运行 PC 游戏。DroidDeck 通过模拟 Windows 环境来运行电脑游戏，对芯片性能要求较高。使用时建议搭配手柄等外设以获得更好的游戏体验，用户可从官方渠道获取最新版本。",
-              "source_url": "https://www.androidauthority.com/droiddeck-pc-game-emulator-pixel-samsung-3732737/",
+              "title": "Snapseed 测试更精细的画质与 Exif 保存及批量编辑控制选项",
+              "brief": "谷歌旗下照片编辑应用 Snapseed 正在测试多项新功能。最新版本中，用户在保存图片时可以选择更精细的画质选项，控制输出分辨率和压缩程度，满足不同用途的需求。此外，应用还新增了 Exif 元数据管理，允许用户在导出时决定是否保留拍摄时间、位置等信息，兼顾隐私与记录需求。批量编辑功能也得到增强，用户可将相同的编辑参数一次性应用到多张图片上，大幅提升处理大量照片时的效率。",
+              "source_url": "https://www.androidauthority.com/snapseed-image-quality-save-settings-3732799/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T15:39:36+08:00"
+              "published_at": "2026-11-09T17:22:16+08:00"
             }
           ]
         }
@@ -265,6 +272,20 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "噪声污染伤害全球野生动物",
+              "brief": "一项大规模分析表明，人为噪声对野生动物的影响远比研究人员预想的更为广泛。研究涵盖陆地与水域共177个物种的数据，结果显示，人为噪声会从根本上改变动物的生理机能与行为模式，还会导致许多动物过早死亡。总体来看，80%的被研究物种至少有一项性状因噪声而改变。噪声会改变鸟类的鸣叫模式，让蜘蛛心跳加速，迫使北极一角鲸放弃觅食下潜。部分物种的基因表达被改变，另一些物种的免疫功能或呼吸机能受到干扰，还有物种出现器官发育异常。噪声也会改变动物的觅食、移动及避险行为，有时对不同物种产生截然相反的效应，例如面对噪声，有些物种会增加对幼崽的抚育投入，另一些则减少抚育行为。",
+              "source_url": "https://www.solidot.org/story?sid=85837",
+              "source_name": "Solidot",
+              "published_at": "2026-11-09T18:23:27+08:00"
+            },
+            {
+              "title": "英国纯电动汽车销量即将超过汽油车",
+              "brief": "根据英国汽车行业组织SMMT的数据，10月纯电动汽车销量占英国新车份额达到32%，汽油车份额降至37.2%。按此趋势，英国纯电动汽车销量将在一年内超过汽油车，最早今年12月即可实现。10月英国新车注册量为152730辆，同比增长5.4%，增长完全由插电式车型驱动：纯电动汽车注册量激增32.7%达到48858辆，插电混动增长30.1%达到22898辆；汽油车下降11.6%，柴油车下降15.9%。英国增长最快的汽车品牌多来自中国：10月比亚迪注册量同比增长73%，Jaecoo翻了一番多，奇瑞近乎翻了三倍，零跑翻了一番，名爵增幅达85%。保守预测电动汽车销量将在2027年8月超过汽油车。",
+              "source_url": "https://www.solidot.org/story?sid=85836",
+              "source_name": "Solidot",
+              "published_at": "2026-11-09T17:57:37+08:00"
+            },
             {
               "title": "Aaron Swartz 诞辰四十周年",
               "brief": "Aaron Swartz 出生于 1986 年 11 月 8 日，上周日原本是他的四十岁生日。2011 年他因从 MIT 网络下载数百万篇 JSTOR 学术论文计划免费公开而遭逮捕，面临计算机欺诈等罪名指控和最高数十年监禁，2013 年 1 月 11 日自杀身亡，年仅 26 岁。虽然他已去世 14 年，但遗产仍在延续。他与 John Gruber 合作开发了 Markdown，这种 2004 年推出的简化纯文本格式系统如今成为最流行的文档和出版格式之一，广泛应用于论坛、维基等社区网站以及 LLM 产品和开发工具。他还开发了 web.py，并协助开发了 RSS 1.0。",
@@ -285,26 +306,19 @@
               "source_url": "https://www.solidot.org/story?sid=85833",
               "source_name": "Solidot",
               "published_at": "2026-11-09T14:40:12+08:00"
-            },
-            {
-              "title": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
-              "brief": "旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源，意图取代原项目并进行牟利。在 AI 出现之前，代码洗白通常涉及逐行手动重写代码、修改变量名，并通过调整函数结构，使代码看起来与原版截然不同。大语言模型的出现让这一过程变得更轻松、成本也更低。Asahi 团队此前已经注意到有人在利用宽松的 MIT 许可证劫持他们的工作成果，因此决定采用更严格的 GPL 许可证来保护项目。",
-              "source_url": "https://www.solidot.org/story?sid=85832",
-              "source_name": "Solidot",
-              "published_at": "2026-11-09T14:29:20+08:00"
-            },
-            {
-              "title": "中国讨论征收糖税",
-              "brief": "随着肥胖与糖尿病风险上升，专家及媒体提议借消费税改革契机，对含糖饮料分级征税，促使民众减少糖分摄入。《健康时报》称中国超重和肥胖者比例已超50%，精制糖摄入过量是重要诱因，建议按含糖量设置阶梯税率，高糖高税、无糖免税，并将税收定向用于校园健康饮食项目。截至2024年7月，全球至少116个国家对含糖饮料征收国家级消费税。世界卫生组织呼吁税率至少达零售价20%，目标到2035年将含糖饮料整体价格提高50%。明年3月新版营养标签规定生效，预包装食品须强制标示糖和饱和脂肪含量。",
-              "source_url": "https://www.solidot.org/story?sid=85831",
-              "source_name": "Solidot",
-              "published_at": "2026-11-09T12:03:16+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "双 11 大促！150+ 款正版软件低至 6 折，AdGuard、Typora、PixPin、思源笔记等",
+              "brief": "一年一度的正版软件双 11 大促来了，今年的「双 11 软件狂欢节」共有超过 150 款商品参与，到手低至 6 折。推荐包括：AdGuard 全平台去广告工具，通过 DNS、网络连接和网页内容多层过滤拦截广告与追踪器，活动价 7 折，个人版 41.3 元起；PixPin 集截图、标注、长截图、贴图、文字识别、录屏于一体的工具，低至 7 折，永久会员 156 元；Typora 是 Markdown 写作标杆，实时呈现最终效果，9 折 80.1 元买断；UPDF 可像 Word 一样编辑 PDF，AI 能一键总结文档并支持对话式提问，8 折起；还有 Mac 清理工具 Mole、截图录屏工具 CleanShot X、隐私优先的思源笔记等。新用户加入会员首单立减 5 元，输入优惠码 APPINN 还可额外享 95 折。",
+              "source_url": "https://www.appinn.com/lizhi-261111/",
+              "source_name": "小众软件",
+              "published_at": "2026-11-09T17:16:11+08:00"
+            },
             {
               "title": "Hookshot：Switch 2 版《塞尔达传说：时之笛》重制版可在 PC 原生运行",
               "brief": "开源项目 Hookshot 通过静态重编译技术，将 2026 年 11 月 5 日发售的 Switch 2 版《塞尔达传说：时之笛》转换为 Windows 和 Linux 可直接运行的程序，无需模拟器。它把游戏中的 ARM64 代码转换成 C 语言再编译为可执行文件，并使用 Vulkan 处理画面。项目支持 2 至 4 倍帧生成、分辨率缩放、画面锐化、自定义键鼠与手柄操作、超宽屏、对话加速及 RomFS 类型 Mod，功能可通过游戏内菜单按 Insert 键调整。使用时下载 HookshotBuilder，选择游戏文件、语言和安装目录后自动编译，约需 40 分钟，无需 prod.keys。配置要求 64 位 Windows 10/11 或 Linux、至少 16GB 内存、支持 Vulkan 1.3 和 Mesh Shader 的显卡，编译时约需 60GB 磁盘空间。实测虽有些卡顿和 bug，但已可游玩，开发者更新频繁。",
@@ -332,13 +346,6 @@
               "source_url": "https://www.appinn.com/windows-paint-cve-2026-83844/",
               "source_name": "小众软件",
               "published_at": "2026-11-07T18:52:05+08:00"
-            },
-            {
-              "title": "Nouride：把旧安卓手机变成 24 小时 AI 助手",
-              "brief": "Nouride 是一款轻量级 AI Agent 工具，可让家里的闲置安卓手机变身 24 小时 AI 助手，无需 Root 或刷机。它能连接 Telegram、Discord、WhatsApp，通过聊天消息让 AI 调用工具、执行命令、完成自动化任务。其运行引擎最低只需 64MB 内存，安装包约 40MB，不需要 GPU，也不依赖外部数据库，支持 OpenAI、Anthropic、Ollama 等模型接口，旧手机只负责运行 Agent、接收消息和调用 AI 模型。它还支持多 Agent、定时任务、工具调用、危险命令审批和网页管理界面，可通过 Termux 安装 Debian 环境后部署，实测熄屏后可持续运行。",
-              "source_url": "https://www.appinn.com/nouride/",
-              "source_name": "小众软件",
-              "published_at": "2026-11-07T11:35:09+08:00"
             }
           ]
         },
@@ -386,39 +393,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "石头 P30 标准版水箱版扫拖机器人上架：25000Pa 吸力、免洗加集尘设计，售价 2999 元",
-              "brief": "石头 P30 标准版水箱版扫拖机器人已上架，售价 2999 元。机身边角圆润，内置水箱及集尘模块，最大吸力 25000Pa，配备零缠清扫系统，号称毛发吸入率 100%、缠绕率 0%。设备支持 30 挡水量调节与 15mm 智能升降，可智能拆装拖布实现纯扫模式干湿分离，沿边拖地覆盖率 100%。基站支持 75°C 热水洗布、45°C 热风烘干及上下水连接，全链路除菌率 99.9%，自动集尘支持 65 天免维护，满电适用面积可达 140 平方米以上。",
-              "source_url": "https://www.ithome.com/1/024/372.htm",
+              "title": "七彩虹 iGame Sigil 100W 氮化镓充电器发售：2C+1A 三口，支持 PD AVS 协议，129 元",
+              "brief": "七彩虹 iGame Sigil 100W 氮化镓充电器现已发售，售价 129 元，提供多种配色，配备 2 个 USB-C 和 1 个 USB-A 接口，C1/C2 单口最高 100W 输出（20V/5A），可智能分配功率，同时为多台设备充电。该充电器适配 iPhone 18 Pro 系列的 PD 3.2 AVS 自适应快充，电压在 9-20V 区间连续可调，峰值功率约 54W，官方称约 15 分钟可将 iPhone 18 Pro 充至 50%。其搭载南芯新一代氮化镓合封主控芯片，配备 PFC 有源功率因数校正，PF 值不低于 0.9，支持 100-240V 宽电压输入。安全方面采用整机一体灌封工艺，具备过温、短路、过流、过压等 8 重防护，并兼容 PD 3.2、PPS、SCP、FCP、QC 等主流快充协议。",
+              "source_url": "https://www.ithome.com/1/024/492.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T17:13:26+08:00"
+              "published_at": "2026-11-09T19:14:13+08:00"
             },
             {
-              "title": "消息称三星 Galaxy AI 拟推出付费订阅：每月 4.99 美元，免费功能也设使用上限",
-              "brief": "据 SammyGuru 报道，三星正为 Galaxy AI Premium 筹备早期体验计划，订阅价格可能为每月 4.99 美元，约合人民币 33.3 元，年费 47.99 美元，约合人民币 320.6 元。订阅用户可获得更多 AI 功能使用额度，AI 视频生成、Bixby Action 跨应用自动执行任务及每日简报等功能将被纳入付费范围。三星仍保留免费标准套餐，包括浏览助手、Now Brief、创意工作室等，但免费功能也受使用次数或额度限制，额度耗尽需购买积分或订阅额度提升至 4 倍的 Max 套餐。正式推出时间尚未公布。",
-              "source_url": "https://www.ithome.com/1/024/371.htm",
+              "title": "伯克希尔哈撒韦 2026 财年前三季度归母净利润 578.85 亿美元，同比增长 21.18%",
+              "brief": "伯克希尔哈撒韦公布 2026 财年前三季度财报，归母净利润为 578.85 亿美元，按现汇率约合 3866.61 亿元人民币，同比增长 21.18%；基本每股收益 26.92 美元，约合 179.82 元人民币，同比增长 21.59%。其中 2026 财年第三财季归母净利润为 221.12 亿美元，约合 1477.04 亿元人民币，同比下降 28.2%；基本每股收益 10.33 美元，约合 69 元人民币，同比下降 27.66%。财报显示公司整体盈利规模较上年同期扩大。此前该公司半年报归母净利润为 357.73 亿美元，同比增长 110.76%。",
+              "source_url": "https://www.ithome.com/1/024/491.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T17:06:16+08:00"
+              "published_at": "2026-11-09T19:12:53+08:00"
             },
             {
-              "title": "铭凡 T5 Max-388 紧凑型台式机亮相：板载 48GB LPDDR5-6400 内存",
-              "brief": "铭凡推出 T5 Max-388 紧凑型台式机，与常见 LPDDR5X 方案不同，该机仅板载 48GB LPDDR5-6400 内存，以压低物料成本。散热采用相变 TIM 加 6 风扇系统，满载噪声 34.8 分贝；提供 2 个 M.2 2280 PCIe Gen4 x4 插槽并预装 1TB 存储，配备联发科 MT7925 无线网卡。接口方面正面有 1 个 USB-C、4 个 USB-A 及音频孔，背面有 USB-C 40Gbps、HDMI 2.1、DisplayPort 2.1、2.5GbE 网口等。到手价为 1559 美元或 11999 港币，约合人民币 10414 元或 10222 元。",
-              "source_url": "https://www.ithome.com/1/024/370.htm",
+              "title": "索尼申请车载气味系统专利：可根据广告释放对应气味",
+              "brief": "美国专利商标局于 11 月 5 日公布了索尼的一项车载气味系统专利。该系统结合摄像头、GPS 定位、广告数据库和气味释放装置，可将视觉和音频广告转化为气味体验。车外摄像头扫描周围环境并识别广告牌等广告，车辆随后查询在线气味管理数据库，确认广告登记信息，包括对应香味、位置、有效期限等，并利用 GPS 判断是否经过广告位置。系统还可通过车内摄像头分析乘客的年龄和性别，将香味定向输送到特定座位，释放时长可限制，气味浓度也可随车辆接近广告牌而增强。此外，系统还能识别电视、广播及联网设备播放的广告并释放对应气味，也可用于启动时释放品牌香味等场景。",
+              "source_url": "https://www.ithome.com/1/024/490.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T17:01:11+08:00"
+              "published_at": "2026-11-09T19:10:41+08:00"
             },
             {
-              "title": "世嘉复刻《塞尔达传说：王国之泪》林克 FIGURIZMα 手办，还原游戏封面造型",
-              "brief": "世嘉宣布回归《塞尔达传说：王国之泪》林克 FIGURIZMα 手办，造型还原游戏封面，为固定姿势雕像而非可动人偶。该手办最初于 2024 年通过世嘉广场抓娃娃机推出，此次复刻仅面向日本市场，尚未公布零售价格，2024 年首发版曾标价约 2980 日元，约合人民币 125.6 元，如今初代产品在拍卖网站售价已达 30 至 50 美元。同系列毛绒玩偶也已于 11 月 6 日在日本重新上架。此次复刻恰逢塞尔达系列诞生 40 周年，系列真人电影定于 2027 年 4 月上映。",
-              "source_url": "https://www.ithome.com/1/024/369.htm",
+              "title": "索尼注册新专利：利用 AI 识别老玩家开新号伪装新手“炸鱼”",
+              "brief": "索尼注册了一项新专利，旨在利用 AI 识别老玩家创建新账号伪装新手进行“炸鱼”的行为。当玩家创建新账号试图匹配低水平对手时，系统可将新账号的操作特征与已有档案比对，识别疑似属于同一玩家的多个账号，并调取其主账号的历史战绩和实力数据，应用到新账号的匹配机制中，使其与实力相近的对手比赛。对于恶意刷分行为，官方可据此将相关账号送入特殊匹配池或直接封禁。该技术也存在争议：系统需持续收集分析键盘、手柄等输入行为，可能涉及隐私问题；家庭成员共用设备时也可能被误判，仅靠 AI 分析操作习惯的识别准确率仍是未知数。",
+              "source_url": "https://www.ithome.com/1/024/489.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T17:00:46+08:00"
+              "published_at": "2026-11-09T19:08:06+08:00"
             },
             {
-              "title": "国内多家期刊明确停止邮箱投稿，转用网站线上系统",
-              "brief": "国内多家期刊陆续宣布停止邮箱投稿，转为线上系统收稿。《北方药学》编辑部 11 月 8 日宣布，为防范学术不端、规范稿件全流程管控，原邮箱投稿渠道已停止受理，所有来稿须通过官方线上投稿系统提交。《声学与电子工程》期刊 10 月表示投稿平台已全面启用，原投稿邮箱停止受理稿件。《辽宁开放大学学报（社会科学版）》9 月宣布自 2026 年第 4 期起启用中国知网腾云期刊协同采编系统，不再通过邮箱接收新投稿及返修稿件。部分期刊设有过渡期，期内邮箱稿件仍正常接收处理。",
-              "source_url": "https://www.ithome.com/1/024/367.htm",
+              "title": "京东 11.11 数码影音巅峰 52 小时：苹果 AirPods 5 续航增强版国补后 793.8 元",
+              "brief": "京东 11.11 数码影音巅峰 52 小时活动即将开启，苹果 AirPods 5 搭配无线充电盒的续航增强版迎来好价。该产品官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元，国补限地区，无线充电盒版 20:00 起支持使用 800-80 元神券。AirPods Pro 3 定价 1899 元，今日京东折后 1308 元，国补后 1121 元。AirPods 5 的降噪能力约相当于 AirPods Pro 第一代，弱于第三代，但无耳塞设计长时间佩戴更舒适，适合办公室、图书馆、公园跑步等场景；若以公共交通通勤为主则建议选择 AirPods Pro 3。京东对 AirPods 提供七天保价服务。",
+              "source_url": "https://www.ithome.com/1/024/488.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T16:50:43+08:00"
+              "published_at": "2026-11-09T19:04:50+08:00"
             }
           ]
         },
