@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T19:19:16.088953+08:00",
+  "generated_at": "2026-11-09T21:20:17.627681+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,59 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "Siri 将获得更强的记忆能力",
+              "brief": "据代码探索者 pdfu 在 iOS 27.3 测试版中的发现，苹果正在构建一个个人记忆系统，帮助 Siri 记住用户生活的相关信息。该系统包含一个记忆图谱，用于整理用户的人际关系、地点、日常习惯、健康、锻炼以及激励或阻碍用户的因素，并为事实、观点、意图和事件识别记忆原子，涵盖相关人物、地点、时间和主题。图谱通过两类进程收集信息：一类将结构化数据转化为洞察，如读取用户联系人卡片中的姓名字段；另一类利用设备端 AI 模型或私有云计算，从 Siri 对话、信息、照片和健康数据中提取洞察。目前系统尚未完成，尚未有生成记忆原子的进程，搜索系统中的记录存储也没有写入功能。两套系统均采用苹果版本的 Kuzu 图数据库，该公司于 2025 年收购了 Kuzu。",
+              "source_url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-09T21:15:49+08:00"
+            },
+            {
+              "title": "iPhone 18e 或配备更大屏幕和电池",
+              "brief": "据爆料者定焦数码在社交媒体上发布的标注内部结构图，苹果标准版 iPhone 18 和低价版 iPhone 18e 均将配备 6.3 英寸显示屏，并使用相同电池，两款机型的电池容量均为 4430 毫安时，相比 iPhone 18 现有水平增加约 21%，相比 iPhone 18e 增加约 11%。图中标注显示，标准版腾出的空间源于底部扬声器和触觉引擎的改动。影像方面，标准版 iPhone 18 配备双后置摄像头，包括超广角镜头，而 iPhone 18e 仅为单摄像头，与此前机型一致。另有爆料称 iPhone 18e 将搭载 2 纳米 A20 芯片，并可能升级前置摄像头。6.3 英寸屏幕相较 iPhone 17e 的 6.1 英寸屏幕将是明显提升。",
+              "source_url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-09T20:45:29+08:00"
+            },
+            {
+              "title": "苹果 Siri 负责人或将离职，接任人选浮现",
+              "brief": "据彭博社记者马克·古尔曼报道，苹果 Siri 工程副总裁迈克·罗克韦尔仍在认真考虑卸任，并可能于明年彻底离开公司，这对苹果将是一大打击。罗克韦尔曾主导 Vision Pro 的开发，后在 Vision Pro 拖延两年后才被安排负责 Siri 的转型。如果他离职或转任其他职务，Siri 的工作可能由两人之一接手：一是去年加入苹果、来自谷歌、负责加强苹果 AI 实力的阿马尔·苏布拉马尼亚；二是软件主管克雷格·费德里吉的副手塞巴斯蒂安·马里诺，后者负责将 AI 整合进 iOS 的团队，被视为费德里吉的潜在接班人，且更全力投入 AI 革命。不过费德里吉仍牢牢掌控软件工程团队，接班事宜仍是遥远的前景。",
+              "source_url": "https://www.macrumors.com/2026/11/09/apple-siri-boss-may-leave/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-09T20:31:24+08:00"
+            },
+            {
+              "title": "苹果本周五再发布两款新品",
+              "brief": "苹果将于 11 月 13 日星期五发布两款新品：全新 Apple HomeView 智能家居显示屏和第四代 Apple TV 4K，两者自 10 月中旬起已开放预订。HomeView 是由 Apple Intelligence 和 Siri AI 驱动的智能家居显示屏，用于娱乐和家居管理，提供桌面和壁挂两种型号，可识别多达六位用户的面孔，并为每人显示个性化主屏幕，售价 299 美元。Apple TV 4K 新增 Siri AI，搭载 A19 芯片，配备支持查找功能的更新版 Siri 遥控器，可与 HomePod mini 2 组成四扬声器环绕声，内置 128GB 存储，售价 299 美元。由于监管限制，Siri AI 目前在欧盟地区的 iOS 上不可用，HomeView 暂不会在欧盟销售，苹果称正与欧盟积极沟通寻求解决方案。",
+              "source_url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-09T20:22:04+08:00"
+            },
+            {
               "title": "苹果零售店被曝未经告知为顾客开通自动续订订阅",
               "brief": "电子技师兼消费者权益倡导者路易斯·罗斯曼近两周在多段YouTube视频中揭露争议：据称部分美国苹果零售店员工在未获顾客知情同意的情况下，为其开通Apple One等服务的自动续订试用。流程是：店员请顾客扫描二维码获取个性化购物体验，随后可在公司设备上查看顾客拥有的设备、已订阅服务及可用订阅优惠，并通过\"同意\"按钮帮顾客开通，系统自动使用其苹果账户绑定的付款方式。爆料称，一些员工未充分说明日后会被自动扣费，甚至仓促操作或将试用包装成\"礼物\"。此外，苹果此前在美国部分门店追踪\"服务附带率\"指标，目标为40%，即鼓励店员让每10位购机顾客中至少4人订阅一项服务。",
               "source_url": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
               "source_name": "MacRumors",
               "published_at": "2026-11-09T11:28:09+08:00"
-            },
-            {
-              "title": "传闻：Siri AI 最早明年将变得更像智能代理",
-              "brief": "彭博社记者马克·古尔曼在最新一期 Power On 通讯中透露，有消息称苹果最早可能于明年让 Siri 的功能“更像一个智能代理”。目前 Siri AI 相比经典 Siri 更加智能和个性化，但仍远不及 OpenAI 的 Dots 和 Meta 的 Muse 等主动式、始终在线的代理。古尔曼指出，Dots、Muse 和 Grok 能够追踪目标、判断下一步需要做什么，并在无需用户逐步启动的情况下持续推进目标，而苹果最终也希望朝这个方向发展。此外，苹果的 AI 抱负可能不止于此。古尔曼称，在近期的内部闭门会议上，苹果 CEO 约翰·特努斯告诉软件工程主管克雷格·费德里吉，苹果需要“加速”其软件路线图，并“迅速超越仅仅对 Siri 进行必要改进的阶段”。具体实施方案尚待观察。",
-              "source_url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-09T01:24:45+08:00"
-            },
-            {
-              "title": "苹果改变 iOS 28 和 macOS 28 的开发方式",
-              "brief": "据彭博社马克·古尔曼报道，苹果对 iOS 28、macOS 28 及相应软件更新的开发流程做出了调整。通常每年的新系统开发分为三个大阶段，每个阶段包括四周的编码时间和四周的功能融合期。这一次，iOS 28 等更新的第一阶段改为六周编码加两周功能融合，让软件工程师有更多时间构思和探索新功能。员工表示喜欢这一变化，认为能在锁定方案前有更多时间产生和验证想法。古尔曼未透露 iOS 28 的具体新功能，该更新预计明年 6 月推出测试版，9 月正式发布。",
-              "source_url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-08T23:42:38+08:00"
-            },
-            {
-              "title": "苹果黑色星期五早期优惠：Apple Watch、MacBook Air 等降价",
-              "brief": "2026 年黑色星期五将于 11 月 27 日到来，目前多项苹果产品已出现历史低价或接近最低价的折扣。其中较为突出的优惠包括：Apple Watch Ultra 4 在亚马逊降至 699.99 美元，较原价 799 美元便宜 99 美元，追平这款 9 月刚发布产品的历史最低价；Milanese Loop 表带款也有 99 美元折扣。Apple Watch Ultra 3 降价 250 美元至 549 美元。M5 MacBook Air 降价 250 美元至 1349 美元，iPhone 18 Pro 和 iPhone Duo 最高可优惠 1200 美元。文章还整理了 AirPods、AirTag 2、Mac mini、Mac Studio 等产品的优惠信息。",
-              "source_url": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-08T04:50:00+08:00"
-            },
-            {
-              "title": "本周要闻回顾：苹果新品发布、iOS 27.3 测试版等",
-              "brief": "11 月第一周苹果发布了五款新品，另有两款将于下周推出。11 月 6 日上市的包括配备 OLED 屏和 A20 Pro 芯片的 iPad mini、M6 芯片 iMac、M6 芯片 14 英寸 MacBook Pro，以及 14 和 16 英寸 OLED 触屏 MacBook Pro。下周 11 月 13 日还将发售 HomeView 智能家居中枢和新款 Apple TV 4K。软件方面，苹果开始测试 iOS 27.3，包含 Safari 垂直标签页布局、自适应深色模式、Siri AI 改进、iPhone Duo StandBy 功能扩展等，此前被移除的重新设计健康应用也回归，将于年底前发布。此外苹果已向零售店通报 iPhone Duo 屏幕开裂问题。",
-              "source_url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-07T22:00:12+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "Instagram 将通过 AI 年龄估算保护青少年账户，家长将收到通知",
+              "brief": "Instagram 此前宣布将使用 AI 年龄估算技术，解决青少年谎报年龄绕过账户保护的问题。该技术可识别疑似未满 13 岁的用户并阻止其使用，同时确保 13 至 17 岁用户使用受限制的青少年账户。青少年账户提供适龄内容、限制互动对象以及默认时间管理工具。Meta 宣布将这项技术向全球推广，并表示自引入以来已将更多青少年纳入适龄保护，结果令人鼓舞。本月美国家长将收到应用内通知，可观看视频并阅读由网络安全倡导者 Larry Magid 撰写的文章，了解多层年龄验证方案。相同保护措施还将推广至 Threads 和 Facebook。",
+              "source_url": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-09T20:53:40+08:00"
+            },
+            {
+              "title": "苹果员工被指未经同意为顾客订阅付费服务，公司作出回应",
+              "brief": "维修技师 Rossmann 指控部分苹果零售店员工未经顾客知情同意，擅自为其开通付费服务试用订阅，并称公司设定的指标助长了这种行为。顾客接受个性化购物体验时，员工会在自己的设备上展示免费试用优惠，例如购买 iPhone 可享三个月 Apple TV 免费订阅，但试用结束后会自动扣费。据称员工被设定 40% 的注册指标作为绩效考核，有员工表示亲眼看到有人为完成指标代顾客按下同意按钮，还有员工将优惠描述为礼物，掩盖其会转为付费订阅的事实。苹果尚未直接回应指控，但已向员工通报情况并移除了相关考核指标。",
+              "source_url": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-09T20:14:40+08:00"
+            },
             {
               "title": "安全播客：Mac 恶意软件或在创纪录的 63 亿美元币安被盗事件中发挥作用",
               "brief": "9to5Mac 的 Security Bite 播客本期邀请 macOS 安全研究员兼逆向工程师 Christopher Lopez 回归节目。两人深入探讨造成 63 亿美元创纪录损失的币安黑客事件的新细节，包括攻击者使用恶意 Homebrew 克隆版本，以及通过一场伪造的求职面试进入一名工程师的 Mac 电脑。节目还提供了相关博客文章和关注渠道，并可在 Apple Podcasts、Spotify、Amazon Music、Pocket Casts 和 RSS 等平台订阅收听。Security Bite 是 9to5Mac 每周聚焦苹果安全的深度栏目，解析超过 20 亿台设备生态系统中的新威胁、隐私问题和漏洞等内容。",
@@ -68,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-08T23:55:23+08:00"
-            },
-            {
-              "title": "据报道：苹果最快明年让Siri更像智能代理",
-              "brief": "据彭博社马克·古尔曼在其Power On通讯中透露，苹果最快可能在明年推出更具主动性的Siri，使其更像智能代理。目前Meta和SpaceX等公司已全力投入代理式AI界面，如Muse和Grok Bot可自主追踪目标、判断下一步行动并在后台持续执行任务。苹果在这方面潜力很大，凭借App Intents等多年积累的框架，可减少对通用计算机操作能力的依赖，降低任务成本。古尔曼还称，苹果正在改进iOS 28的内部开发流程，让工程师有更多时间编写和探索代码：以往编码与集成各占四周，现在首个开发周期改为编码六周、集成两周，以提升开发效率和执行力。",
-              "source_url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-08T23:30:36+08:00"
             }
           ]
         },
@@ -115,6 +122,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "民主党掌控国会后，特朗普\"金穹\"导弹防御计划前景堪忧",
+              "brief": "支持五角大楼\"金穹\"导弹防御计划的两名顶级共和党议员将随国会权力更替离任，令特朗普第二任期的这一标志性防务计划前景生变。\"金穹\"之名致敬以色列\"铁穹\"，但其规模更大，还将包含天基拦截器，并须覆盖远为辽阔的地理区域。该计划自2025年1月特朗普宣布以来基本未受国会认真审查。近期有军方官员暗示，可能放弃特朗普要求的在导弹助推段实施拦截的能力。随着民主党接手五角大楼预算起草工作，预计将对该计划引入资金限制并提出相关法案，加强审查。",
+              "source_url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-09T20:00:05+08:00"
+            },
+            {
               "title": "班图人扩张改变了非洲，科学家仍在追踪其轨迹",
               "brief": "班图语族的扩张深刻改变了非洲的语言、基因和文化面貌，科学家正通过基因研究和考古发现追溯这一迁徙历程。位于今津巴布韦的大津巴布韦古城遗址是其重要遗产之一，这座繁荣王国的都城存在于公元1000年至1700年间。古城附近的冶铁遗址展现了高超技术：当地发现的炼铁炉有些宽近成人臂展，炉壁厚实以承受超过2100华氏度的冶炼高温。与其他需要人工用风箱鼓风的炉子不同，这些炉子设计成可自然吸入空气并经烟囱排出，无需人力，大大降低了炼铁难度。冶炼出的铁被制成锄头、斧头和箭头。考古冶金学家指出，炉子的数量和规模以及自然通风技术的运用，表明当地存在集约化且技术成熟的铁器生产。",
               "source_url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
@@ -148,6 +162,20 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "如何判断你的手机是否支持 eSIM",
+              "brief": "eSIM 是直接内置在设备中的数字 SIM 卡，无需插入实体 nano-SIM 卡即可激活运营商套餐，还能在一部手机上运行两条线路，特别适合出国旅行时使用。要判断手机是否支持 eSIM，关键是查找 EID 码，它的存在表明设备支持 eSIM。在 iPhone 或安卓手机上，都可以在拨号界面输入 *#06# 查看包含 EID 的设备信息。iPhone 用户也可进入设置>通用>关于本机查找 32 位数字的 EID，需 iPhone XS 及之后机型才支持 eSIM，iPhone 13 及更新机型可同时运行两个 eSIM。安卓用户可在设置>关于手机中查看设备详情或状态信息，或前往网络与互联网（三星为连接）>SIM 卡管理器查看是否可添加 eSIM。安卓于 2017 年起支持 eSIM，iPhone 则晚一年。",
+              "source_url": "https://www.engadget.com/2306210/how-to-check-esim-compatibility-phone/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-09T21:15:00+08:00"
+            },
+            {
+              "title": "Nacon Revolution 5 Unlimited 手柄评测：自定义程度超高",
+              "brief": "Nacon 推出售价 230 美元的 Revolution 5 Unlimited 手柄，是获得官方授权的 PS5 手柄，同时兼容 PC，瞄准竞技玩家，Engadget 给出 8.1 分。它采用非对称摇杆布局，将左侧摇杆与十字键位置互换；摇杆没有使用霍尔效应传感器，而是采用更省电且同样能减少漂移和物理磨损的 TMR 隧穿磁阻技术。这是首款配备扳机阻挡器的评测手柄，可通过每对扳机下方的拨杆缩短扳机行程，既能用于赛车游戏渐进加速，也能在《守望先锋》等游戏中加快射击速度，或在格斗游戏中更快格挡。手柄下方还有多达四个自定义快捷键，并提供丰富的硬件和软件自定义选项、多套配置档案和交互式控制屏幕。缺点是价格昂贵，且缺少 DualSense 的部分功能。",
+              "source_url": "https://www.engadget.com/2308886/nacon-revolution-5-unlimited-controller-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-09T21:00:00+08:00"
+            },
+            {
               "title": "如何把笔记本电脑当作第二块显示器使用",
               "brief": "添置第二块显示器是提升工作流的有效方式，无论是游戏、办公还是浏览网页都能受益。镜像模式可在两块屏幕上显示相同桌面，适合演示场合；扩展模式则能提供更宽的桌面空间，带来更多可见标签页、更轻松的多任务处理和更高效率。其实不必购买新硬件，家中闲置的笔记本电脑稍加调整即可变身第二显示器。这一过程并不像插上 HDMI 线那样简单，需要先检查设备兼容性，权衡有线与无线方案，并调整系统设置。若主电脑和备用笔记本都运行 Windows 10 或 11，可利用系统内置的 Miracast 无线投射功能：在备用笔记本上打开设置、系统、投影到此电脑，点击可选功能、查看功能，添加无线显示器选项即可完成设置。文章还介绍了 Mac、Linux 及 HDMI 有线连接的具体步骤。",
               "source_url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
@@ -167,26 +195,19 @@
               "source_url": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
               "source_name": "Engadget",
               "published_at": "2026-11-09T08:45:00+08:00"
-            },
-            {
-              "title": "从海外购买科技产品存在哪些弊端",
-              "brief": "无论是旅行途中手机没电被迫购买，还是心仪产品在当地无法买到，从国外购买手机等科技产品有时是唯一选择，但可能伴随一些麻烦。不同地区的设备硬件配置可能不同，例如中国销售的部分 iPhone 支持双实体 SIM 卡，而美国版自 iPhone 14 起取消 SIM 卡槽只能使用 eSIM；中国版 iPhone 对 Apple Intelligence 功能也有所限制。手机还可能存在蜂窝频段问题，他国版本或无法使用当地 5G 网络，导致 VoLTE、Wi-Fi 通话等运营商特色功能不可用。此外还可能缺乏保修服务，最坏情况下核心软件或连接功能无法使用。",
-              "source_url": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-09T08:30:00+08:00"
-            },
-            {
-              "title": "库克执掌苹果期间发生蜕变的 10 款产品与功能",
-              "brief": "蒂姆·库克于 2011 年出任苹果 CEO，接手了 iPhone 驱动增长、iPad 尚新、Mac 为计算业务核心的庞大生态。在他任期内，苹果推出了全新产品品类，让 Mac 转用自研处理器，将 iPhone 变成钱包和卫星通讯工具，并建立了年营收超 1000 亿美元的服务业务。目前苹果活跃设备超过 25 亿台，2025 财年净销售额达 4162 亿美元。文章举例称，Apple Watch 在 2015 年发布时主要是 iPhone 的通知和活动追踪配件，Series 2 增加内置 GPS 和游泳追踪，2018 年的 Series 4 加入心电图和跌倒检测功能，使其能力远超基础范畴。",
-              "source_url": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-09T08:15:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Instagram 的 AI 年龄检测技术将向全球扩展",
+              "brief": "Meta 宣布将把用于识别 Instagram 上未如实申报年龄青少年的年龄估算技术向全球推广。这项 AI 年龄检测工具通过分析用户互动的其他账号和内容类型、收到的生日祝福信息，以及上传照片中的整体主题和视觉线索等信号，判断用户是否未满 18 岁。该功能此前已在美国、欧盟和巴西上线，此次推广后将自动把“数百万更多青少年”纳入青少年账户保护机制。",
+              "source_url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+              "source_name": "The Verge",
+              "published_at": "2026-11-09T07:00:00-05:00"
+            },
             {
               "title": "地下种子世界：私人BT站点如何守护濒危影像",
               "brief": "一位三十多岁的加拿大作家简寻找一部1990年代关于美国国会图书馆的稀有纪录片《记忆与想象》，却发现各大流媒体、YouTube乃至盗版网站均无片源。为避免影片失传，她四处搜寻拍卖网站和图书馆目录，并计划找到后将片子分享出去以保存于世。她的工具是私人BT跟踪站——盗版世界中的地下酒吧，靠口碑传播、保密性和严格社区规则运作。这些站点由热心用户维护着庞大且分类精细的资料库，专长领域从电影到赛车、特效工具不等，甚至有专门分享弗兰克·扎帕音乐的站点。",
@@ -214,13 +235,6 @@
               "source_url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
               "source_name": "The Verge",
               "published_at": "2026-11-08T15:52:05-05:00"
-            },
-            {
-              "title": "英伟达调查黄仁勋与中国间谍的关系",
-              "brief": "有报道称英伟达 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系密切，而后者据报被中国国家安全部招募为间谍，英伟达随后宣布对此展开调查。英伟达董事会发布声明称，鉴于近期关于创始人兼 CEO 黄仁勋成为外国情报行动目标的报道，董事会将启动独立调查，由独立董事组成的委员会在外部独立法律顾问的协助下监督调查。董事会强调优先考虑美国国家与经济安全，这对英伟达及其股东利益至关重要。董事会表示没有理由认为国家安全或公司机密已遭到泄露，但调查将审查所有可获得的信息，黄仁勋本人对此完全支持。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-              "source_name": "The Verge",
-              "published_at": "2026-11-08T15:22:39-05:00"
             }
           ]
         },
@@ -228,39 +242,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Google Wallet 现已支持扫描收据，使用方法与理由全解析",
-              "brief": "Google Wallet 推出了收据扫描新功能，用户可以通过应用直接拍摄并保存购物收据，方便日后查询消费记录、核对账单或申请报销退货。文章介绍了该功能的开启步骤：更新 Google Wallet 应用后，在设置中启用收据扫描权限，随后在交易详情中即可添加收据图片。收据扫描还能帮助用户追踪支出、整理月度账目，并在需要保修或退换货时快速找到凭证，是日常财务管理的一项实用改进。",
-              "source_url": "https://www.androidauthority.com/how-to-set-up-google-wallet-receipt-scanning-3732455/",
+              "title": "One UI 9.5 或将为 Galaxy 手机的 Bixby 带来 AI 智能体能力",
+              "brief": "据 Android Authority 报道，三星可能将在 One UI 9.5 中为 Bixby 引入 AI 智能体功能。这一升级有望让 Bixby 不再局限于简单的语音指令执行，而是具备更强的任务规划与多步骤操作能力，可以在手机上自主完成一系列复杂任务。这与三星近年来持续加码 Galaxy AI 战略的方向一致，也表明三星希望借助 AI 智能体提升 Bixby 与谷歌 Gemini 等竞争对手抗衡的实力。目前该消息尚未得到三星官方确认，具体功能形态和推送时间仍有待后续披露。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-5-bixby-ai-agent-3732863/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T18:54:00+08:00"
+              "published_at": "2026-11-09T21:10:11+08:00"
             },
             {
-              "title": "重温 Kindle Colorsoft 后，更期待回归 Kindle Paperwhite",
-              "brief": "作者重新体验了亚马逊的彩屏电子书阅读器 Kindle Colorsoft，却发现实际使用感受不如预期。彩色屏幕虽然在阅读漫画、封面和插图时有优势，但分辨率较低、刷新时易出现残影，且价格明显高于普通机型。相比之下，Kindle Paperwhite 的高分辨率黑白屏在长时间阅读文字书籍时更舒适，响应更快，续航也更稳定。经过对比后，作者认为彩屏阅读器仍不够成熟，更愿意回到 Paperwhite 上继续日常阅读。",
-              "source_url": "https://www.androidauthority.com/revisit-kindle-colorsoft-cant-wait-go-back-paperwhite-3732510/",
+              "title": "三星或将以 4.99 美元的 Premium 订阅对 Galaxy AI 收费",
+              "brief": "Android Authority 报道称，三星可能很快推出一项价格为每月 4.99 美元的 Galaxy AI Premium 订阅服务，对部分 AI 功能开始收费。此前三星曾表示 Galaxy AI 功能将免费提供至特定年限，而此次付费订阅计划意味着公司正寻求将 AI 投入转化为持续收入。订阅可能涵盖更高级的 AI 功能或解除使用限制，基础功能或将继续免费提供。目前该消息来自相关报告，三星尚未官方确认订阅细节、上线时间以及具体包含的功能清单，后续动向值得关注。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-ai-premium-subscription-report-3732775/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T18:30:06+08:00"
+              "published_at": "2026-11-09T20:32:43+08:00"
             },
             {
-              "title": "2026 年发布的手机不值得买，你也应该避开",
-              "brief": "作者认为 2026 年推出的新手机缺乏足够的升级理由，不建议消费者购买。文章指出，近年旗舰机的处理器、相机和屏幕改进幅度逐年缩小，许多所谓新功能只是营销噱头，而价格却持续上涨。同时，软件支持周期虽然延长，但旧机型依然够用，二手和上代旗舰的性价比更高。作者建议用户理性看待年度更新节奏，优先考虑实际需求与长期价值，而不是盲目追逐新发布的机型。",
-              "source_url": "https://www.androidauthority.com/2026-smartphones-not-worth-buying-3732363/",
+              "title": "数字健康 1.50 测试版首次曝光每周洞察与 Gemini 集成",
+              "brief": "Android Authority 通过对 Google 数字健康（Digital Wellbeing）v1.50 测试版进行 APK 拆解，首次发现了两项新功能的迹象。其一是每周洞察（Weekly Insights），预计将以周为单位汇总用户的使用数据，帮助用户更全面地了解自己一周内的屏幕使用情况和使用习惯变化。其二是与 Gemini 的集成，暗示谷歌计划将 AI 助手能力引入数字健康功能中，可能用于分析使用数据并提供个性化的健康建议。这些功能目前仍处于开发阶段，最终上线时间尚未确定。",
+              "source_url": "https://www.androidauthority.com/google-digital-wellbeing-weekly-insights-apk-teardown-3732858/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T18:00:41+08:00"
+              "published_at": "2026-11-09T19:53:25+08:00"
             },
             {
-              "title": "三星 Memory 应用泄露，或为 Galaxy 手机带来 Pixel Screenshots 功能",
-              "brief": "有消息称，三星正在开发一款名为 Memory 的应用，其功能与谷歌 Pixel 手机的 Pixel Screenshots 类似。该应用利用设备端人工智能，对用户保存的截图进行自动分析和索引，用户可以通过自然语言搜索截图中的内容，例如查找某条聊天记录、地址或商品信息。泄露信息显示 Memory 可能会在未来的 One UI 版本中随 Galaxy 手机推出，进一步提升三星设备在 AI 体验方面与谷歌、苹果等竞争对手的竞争力。",
-              "source_url": "https://www.androidauthority.com/samsung-memory-app-pixel-screenshot-3732805/",
+              "title": "Android 最佳 PS3 模拟器 ARMSX3 现已登陆 iOS",
+              "brief": "Android Authority 报道，被称为 Android 平台上最佳 PS3 模拟器的 ARMSX3 现已推出 iOS 版本，苹果设备用户也可以在 iPhone 和 iPad 上体验 PS3 游戏。ARMSX3 在 Android 端以较高的兼容性和性能表现著称，能够流畅运行多款 PS3 大作，此次跨平台移植让 iOS 用户首次获得了较为成熟的 PS3 模拟方案。需要注意的是，模拟器本身合法，但运行游戏需要用户自备游戏文件，且 iOS 端的安装和性能表现可能与 Android 版本存在差异。",
+              "source_url": "https://www.androidauthority.com/armsx3-ps3-emulator-ios-3732874/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T17:51:25+08:00"
+              "published_at": "2026-11-09T19:49:58+08:00"
             },
             {
-              "title": "Snapseed 测试更精细的画质与 Exif 保存及批量编辑控制选项",
-              "brief": "谷歌旗下照片编辑应用 Snapseed 正在测试多项新功能。最新版本中，用户在保存图片时可以选择更精细的画质选项，控制输出分辨率和压缩程度，满足不同用途的需求。此外，应用还新增了 Exif 元数据管理，允许用户在导出时决定是否保留拍摄时间、位置等信息，兼顾隐私与记录需求。批量编辑功能也得到增强，用户可将相同的编辑参数一次性应用到多张图片上，大幅提升处理大量照片时的效率。",
-              "source_url": "https://www.androidauthority.com/snapseed-image-quality-save-settings-3732799/",
+              "title": "Pixel 11 Pro 使用三个月后：作者认为没有更值得选的 Android 手机",
+              "brief": "Android Authority 编辑在使用 Pixel 11 Pro 三个月后发表长篇评测，表示这是目前自己最愿意使用的 Android 手机。文章指出，Pixel 11 Pro 在相机成像、AI 功能整合以及原生 Android 体验等方面表现出色，谷歌多年积累的软件优势在新机上得到充分体现。作者认为，尽管市场上不乏硬件规格更强的竞争机型，但 Pixel 11 Pro 在整体体验的一致性和长期更新支持上更符合自己的需求。文章同时回顾了使用期间的表现细节，为关注该机的读者提供了长期使用视角的参考。",
+              "source_url": "https://www.androidauthority.com/pixel-11-pro-three-months-later-3731692/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-09T17:22:16+08:00"
+              "published_at": "2026-11-09T19:30:01+08:00"
             }
           ]
         }
@@ -272,6 +286,13 @@
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+              "brief": "高盛出于风险考虑，限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub 等第三方 AI 智能体。此类 AI 编程工具此前主要提供给软件工程师，以及负责交易、量化研究和软件工程的策略师。如今交易员无法再用这些工具监控客户交易流、模拟市场走势和持仓，以及制作文字和图表。此次限制针对能独立编写和运行代码的第三方智能体。以 Claude Code 为例，它能读取文件、编写并运行程序，通常拥有与使用者相同的权限。工程师编写的代码通常会经过审查、测试和部署控制后才投入使用，而交易员编写的脚本可能未经审查就被日常使用，且交易员不太可能了解代码如何处理异常情况，在交易台上可能造成损失。",
+              "source_url": "https://www.solidot.org/story?sid=85838",
+              "source_name": "Solidot",
+              "published_at": "2026-11-09T19:04:21+08:00"
+            },
             {
               "title": "噪声污染伤害全球野生动物",
               "brief": "一项大规模分析表明，人为噪声对野生动物的影响远比研究人员预想的更为广泛。研究涵盖陆地与水域共177个物种的数据，结果显示，人为噪声会从根本上改变动物的生理机能与行为模式，还会导致许多动物过早死亡。总体来看，80%的被研究物种至少有一项性状因噪声而改变。噪声会改变鸟类的鸣叫模式，让蜘蛛心跳加速，迫使北极一角鲸放弃觅食下潜。部分物种的基因表达被改变，另一些物种的免疫功能或呼吸机能受到干扰，还有物种出现器官发育异常。噪声也会改变动物的觅食、移动及避险行为，有时对不同物种产生截然相反的效应，例如面对噪声，有些物种会增加对幼崽的抚育投入，另一些则减少抚育行为。",
@@ -299,13 +320,6 @@
               "source_url": "https://www.solidot.org/story?sid=85834",
               "source_name": "Solidot",
               "published_at": "2026-11-09T15:32:15+08:00"
-            },
-            {
-              "title": "苹果将工程师的每日 AI 预算限制在 200 美元",
-              "brief": "据报道，苹果将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居全球第一。此举并非因缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在无法回避的经济规律：如果对先进模型的使用不加限制，成本曲线将呈指数级增长，足以摧毁任何企业的利润空间，即便苹果也不例外。",
-              "source_url": "https://www.solidot.org/story?sid=85833",
-              "source_name": "Solidot",
-              "published_at": "2026-11-09T14:40:12+08:00"
             }
           ]
         },
@@ -353,39 +367,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "美国格林斯伯勒警方玩梗期待《GTA6》发售",
-              "brief": "《GTA6》发售临近，美国格林斯伯勒警方也加入玩梗行列，调侃称玩家发售日宅家玩游戏，能让警察有机会喘口气。玩家对新作的漫长等待衍生出一系列网络话题，讨论逐渐扩展到玩家圈以外。美国汽车相关企业Burger Motorsports也曾宣布，将于11月19日暂停全公司业务，表示要等员工完成首次探索、至少完成一个任务并回到现实后才恢复工作。《GTA6》预计于2026年11月19日登陆PS5和Xbox Series X|S平台。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585610.htm",
+              "title": "国行苹果平板和笔记本电脑现已支持Apple智能",
+              "brief": "苹果在国行版iPad和Mac设备上开放Apple智能功能，并在写作工具和视觉智能等功能中引入对千问大模型的支持。用户可通过Siri将部分请求转交给千问处理，也能针对照片、PDF和演示文稿提问，千问还可在写作工具中根据用户要求生成原创内容。首批开放测试的功能涵盖实时翻译、写作工具、视觉智能、照片消除工具和智绘表情等。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585632.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-09T16:33:07+08:00"
+              "published_at": "2026-11-09T21:01:58+08:00"
             },
             {
-              "title": "玛莎拉蒂将与尊界合作，新车外观已确认",
-              "brief": "据财联社报道，玛莎拉蒂将与华为尊界合作推出新车，新车外观已确认，海外市场仍将以玛莎拉蒂标识出售。另据报道，尊界或将推出一个全新子品牌，定价区间预计在40万至50万元，产品将主打SUV车型。知情人士透露，该子品牌的具体规划尚未正式确定，且尊界全新子品牌项目与玛莎拉蒂合作项目分属两个独立项目，并非同一项业务。目前，全新子品牌的具体细节仍未最终敲定。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585608.htm",
+              "title": "HomeView与新款Apple TV 4K将于11月13日正式发售",
+              "brief": "苹果宣布HomeView智能家居设备和第四代Apple TV 4K将于11月13日正式发售，两者起售价均为299美元。HomeView提供桌面版和壁挂版两种形态，支持Siri人工智能功能，可通过面部识别识别最多六位用户并显示个性化主页内容。新款Apple TV 4K搭载A19芯片，配备升级版Siri Remote遥控器，新增查找功能，还可与HomePod mini 2组成四扬声器环绕声系统，标配128GB存储。由于Siri人工智能功能尚未在欧盟iOS平台上线，HomeView暂时不会在欧盟市场销售。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585630.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-09T16:32:36+08:00"
+              "published_at": "2026-11-09T20:31:46+08:00"
             },
             {
-              "title": "三星芯片工艺配方被曝外泄，核心数据流向供应商",
-              "brief": "据报道，三星电子调查发现，部分未获准对外提供的芯片工艺配方以独立文件形式流向设备供应商泛林半导体韩国公司。相关数据传输源于不合规的申请，且并非单次行为，三星于今年下半年发现这一问题。半导体工艺配方记录设备温度、腔体压力、气体流量和处理时长等关键参数，直接影响芯片良率、性能及生产稳定性，属于晶圆制造企业的核心技术资料。泛林韩国公司近期更换CEO，部分业内人士将其与泄露事件联系起来，但双方公司均未回应采访询问。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585606.htm",
+              "title": "AI泰迪熊测试中突然谈及杀人话题 引发儿童玩具安全担忧",
+              "brief": "BBC在调查中发现，一款面向幼儿的Doubao AI泰迪熊玩具在被询问词语含义时突然回答不能帮忙杀人，并建议记者拨打紧急电话。调查人员无法确认该玩具的真正制造商。另一款由美国Curio公司开发、采用格莱姆斯声音的Grem玩具表现相对稳妥，但一周家庭测试显示两款产品响应速度和对话体验均不理想。业内人士和儿童事务专员呼吁加强AI玩具行业监管，家长也不应让年幼儿童独自使用此类产品。目前全球AI毛绒玩具市场估值约1.65亿美元，英国政府正研究更新玩具安全法规以适应AI技术发展。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585628.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-09T16:32:11+08:00"
+              "published_at": "2026-11-09T19:26:32+08:00"
             },
             {
-              "title": "特斯拉计划停产Cybertruck，马斯克作出回应",
-              "brief": "针对Cybertruck停产传闻，马斯克回应称，产线停摆并非因销量不佳，而是为扩大Cybercab产能腾出空间。Cybertruck预订量曾宣称超100万份，但今年前三季度销量同比下滑28%，仅售出约1.16万辆。得州超级工厂计划于2027年年中前后逐步结束该车生产。特斯拉首席工程师表示，Cybertruck是技术开发平台，其48V低压架构、线控转向等技术已传承至Cybercab。此前特斯拉还曾停产Model S和Model X，将产线转产Optimus人形机器人。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585604.htm",
+              "title": "佳能医疗超声首次用于扫描活珊瑚 或助掌握产卵时机",
+              "brief": "研究人员首次将佳能医疗超声设备用于扫描活珊瑚，在浅水槽中对来自澳大利亚、加勒比地区和印度尼西亚的六种石珊瑚进行检查。珊瑚卵细胞直径可能仅约300微米，过去确认其发育通常需要切开珊瑚组织。团队将一种珊瑚的超声图像与组织微距照片对照，确认影像中的结构是卵细胞，显示超声有望在不损伤活体珊瑚的情况下检查其繁殖状态。掌握产卵窗口对珊瑚恢复和增加遗传多样性十分重要，研究团队计划继续监测这些珊瑚六个月，以评估通过扫描预测产卵时间的能力。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1585626.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-09T16:31:57+08:00"
+              "published_at": "2026-11-09T19:25:55+08:00"
             },
             {
-              "title": "波士顿动力Atlas电池方案曝光：三星SDI拿下初期主供",
-              "brief": "波士顿动力人形机器人Atlas的电池方案曝光，三星SDI拿下初期主供订单。Atlas电池包总容量约为1.3kWh，相当于现代IONIQ 5长续航版电池容量的约1.6%。产品参数显示，Atlas一般工况下最长可运行4小时，重物搬运时续航约2小时。电量不足后，机器人可自主前往工作站换电，换电时间约3分钟，充电约需1.5小时。三星SDI计划从马来西亚工厂供应电池，LG新能源可能从美国佐治亚州工厂供货，现代汽车集团计划自2028年起导入Atlas。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585602.htm",
+              "title": "欧盟报告揭露俄罗斯网络借法国骚乱散播虚假信息",
+              "brief": "欧盟报告指出，名为信息过载行动的俄罗斯相关网络利用伪装成西方主流媒体的视频内容，在法国骚乱期间散布移民强奸抗议者、法国即将发生恐怖袭击等无事实依据的说法，制造恐慌并激化社会矛盾。报告强调，没有发现外部势力直接策划或煽动骚乱的证据，相关行动属于对既有社会动荡的机会主义利用。法国外交部报告还统计，10月16日至18日期间，与亲俄舆论圈相关的热门帖子浏览量约280万次，而与美国MAGA运动和以色列相关的热门帖子浏览量分别超过4900万次和3500万次，各方均试图借助法国社会冲突传播符合自身立场的叙事。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585624.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-09T16:31:38+08:00"
+              "published_at": "2026-11-09T19:25:10+08:00"
             }
           ]
         },
@@ -393,45 +407,66 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "七彩虹 iGame Sigil 100W 氮化镓充电器发售：2C+1A 三口，支持 PD AVS 协议，129 元",
-              "brief": "七彩虹 iGame Sigil 100W 氮化镓充电器现已发售，售价 129 元，提供多种配色，配备 2 个 USB-C 和 1 个 USB-A 接口，C1/C2 单口最高 100W 输出（20V/5A），可智能分配功率，同时为多台设备充电。该充电器适配 iPhone 18 Pro 系列的 PD 3.2 AVS 自适应快充，电压在 9-20V 区间连续可调，峰值功率约 54W，官方称约 15 分钟可将 iPhone 18 Pro 充至 50%。其搭载南芯新一代氮化镓合封主控芯片，配备 PFC 有源功率因数校正，PF 值不低于 0.9，支持 100-240V 宽电压输入。安全方面采用整机一体灌封工艺，具备过温、短路、过流、过压等 8 重防护，并兼容 PD 3.2、PPS、SCP、FCP、QC 等主流快充协议。",
-              "source_url": "https://www.ithome.com/1/024/492.htm",
+              "title": "魏牌二代蓝山开启预售：智慧豪华方盒子SUV，28.98万-32.98万元",
+              "brief": "魏牌二代蓝山开启预售，价格区间为28.98万元至32.98万元。新车基于长城归元S平台打造，定位智慧豪华方盒子SUV，提供五座和六座两种布局，轴距均为3010mm，六座版车长增至5300mm。智能方面搭载高通舱驾一体8797旗舰芯片与NVIDIA DRIVE Thor-U驾驶辅助芯片，配备Coffee AI OS 4智能座舱和Coffee Pilot 4全地形辅助驾驶系统。动力换装2.0T发动机，最大功率182kW，匹配前后双电机和4挡混动变速箱，提供53.6kWh和64.7kWh电池，纯电续航分别为220km和270km。底盘配备双腔空气悬架、后桥差速锁并支持后轮转向。",
+              "source_url": "https://www.ithome.com/1/024/537.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T19:14:13+08:00"
+              "published_at": "2026-11-09T21:11:36+08:00"
             },
             {
-              "title": "伯克希尔哈撒韦 2026 财年前三季度归母净利润 578.85 亿美元，同比增长 21.18%",
-              "brief": "伯克希尔哈撒韦公布 2026 财年前三季度财报，归母净利润为 578.85 亿美元，按现汇率约合 3866.61 亿元人民币，同比增长 21.18%；基本每股收益 26.92 美元，约合 179.82 元人民币，同比增长 21.59%。其中 2026 财年第三财季归母净利润为 221.12 亿美元，约合 1477.04 亿元人民币，同比下降 28.2%；基本每股收益 10.33 美元，约合 69 元人民币，同比下降 27.66%。财报显示公司整体盈利规模较上年同期扩大。此前该公司半年报归母净利润为 357.73 亿美元，同比增长 110.76%。",
-              "source_url": "https://www.ithome.com/1/024/491.htm",
+              "title": "消息称索尼逐步停售PSVR 2头显，已从多区官方商店下架",
+              "brief": "据报道，索尼正逐步停售PSVR 2头显，该产品已从多个地区的官方商店下架，加拿大、澳大利亚和新西兰官方商店仅提供第三方经销商购买渠道。索尼尚未发布官方声明，但此前有传闻称PSVR 2上市后销售表现未达预期，公司自2024年3月因销量不佳暂停生产后至今未恢复。索尼对该产品的投入也明显减少，先后关闭SIE伦敦工作室并缩减Firesprite工作室规模。2024年8月，索尼为PSVR 2提供PC VR游戏兼容支持，用户可通过专用适配器在PC上使用，这一举措被视为索尼逐步淡出PSVR 2生态的信号。",
+              "source_url": "https://www.ithome.com/1/024/536.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T19:12:53+08:00"
+              "published_at": "2026-11-09T21:09:27+08:00"
             },
             {
-              "title": "索尼申请车载气味系统专利：可根据广告释放对应气味",
-              "brief": "美国专利商标局于 11 月 5 日公布了索尼的一项车载气味系统专利。该系统结合摄像头、GPS 定位、广告数据库和气味释放装置，可将视觉和音频广告转化为气味体验。车外摄像头扫描周围环境并识别广告牌等广告，车辆随后查询在线气味管理数据库，确认广告登记信息，包括对应香味、位置、有效期限等，并利用 GPS 判断是否经过广告位置。系统还可通过车内摄像头分析乘客的年龄和性别，将香味定向输送到特定座位，释放时长可限制，气味浓度也可随车辆接近广告牌而增强。此外，系统还能识别电视、广播及联网设备播放的广告并释放对应气味，也可用于启动时释放品牌香味等场景。",
-              "source_url": "https://www.ithome.com/1/024/490.htm",
+              "title": "小米耳夹式耳机京东新低505元，单只重5.5g",
+              "brief": "小米耳夹式耳机在京东平台出现新低价，原价799元，领券后仅需505元。该耳机提供珍珠白、玄武岩黑、缎光金、鸢尾紫四种配色。单只耳机重量仅5.5g，采用仿生曲线设计及高性能记忆钛丝，搭载11mm大尺寸驱动单元和微晶金属涂层振膜。耳机采用高亮镜面机身、一体流线造型，支持IP57级防尘抗水，本体续航9小时，配合充电盒最高可达38小时。此外兼容苹果生态，支持智能翻译、录音转写、小爱陪伴、双设备智能连接及苹果物品查找等功能。",
+              "source_url": "https://www.ithome.com/1/024/535.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T19:10:41+08:00"
+              "published_at": "2026-11-09T21:05:12+08:00"
             },
             {
-              "title": "索尼注册新专利：利用 AI 识别老玩家开新号伪装新手“炸鱼”",
-              "brief": "索尼注册了一项新专利，旨在利用 AI 识别老玩家创建新账号伪装新手进行“炸鱼”的行为。当玩家创建新账号试图匹配低水平对手时，系统可将新账号的操作特征与已有档案比对，识别疑似属于同一玩家的多个账号，并调取其主账号的历史战绩和实力数据，应用到新账号的匹配机制中，使其与实力相近的对手比赛。对于恶意刷分行为，官方可据此将相关账号送入特殊匹配池或直接封禁。该技术也存在争议：系统需持续收集分析键盘、手柄等输入行为，可能涉及隐私问题；家庭成员共用设备时也可能被误判，仅靠 AI 分析操作习惯的识别准确率仍是未知数。",
-              "source_url": "https://www.ithome.com/1/024/489.htm",
+              "title": "特斯拉Robotaxi落地圣安东尼奥，成迄今规模最大运营城市",
+              "brief": "特斯拉宣布在得克萨斯州圣安东尼奥推出无人监督的Robotaxi服务，这是继沃思堡之后两周内开通的第二座新城市。圣安东尼奥服务区域约275平方英里（约712平方公里），超过奥斯汀的272平方英里，成为特斯拉Robotaxi覆盖范围最大的运营城市，覆盖整个市中心及410号环城公路以内几乎所有区域。随着圣安东尼奥加入，特斯拉目前在8座城市提供无人监督服务，合计覆盖约420万人口。目前服务使用Model Y车型，同时Cybercab已扩大规模，奥斯汀投放超300辆，本月还计划在达拉斯推出Cybercab服务。",
+              "source_url": "https://www.ithome.com/1/024/534.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T19:08:06+08:00"
+              "published_at": "2026-11-09T21:04:02+08:00"
             },
             {
-              "title": "京东 11.11 数码影音巅峰 52 小时：苹果 AirPods 5 续航增强版国补后 793.8 元",
-              "brief": "京东 11.11 数码影音巅峰 52 小时活动即将开启，苹果 AirPods 5 搭配无线充电盒的续航增强版迎来好价。该产品官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元，国补限地区，无线充电盒版 20:00 起支持使用 800-80 元神券。AirPods Pro 3 定价 1899 元，今日京东折后 1308 元，国补后 1121 元。AirPods 5 的降噪能力约相当于 AirPods Pro 第一代，弱于第三代，但无耳塞设计长时间佩戴更舒适，适合办公室、图书馆、公园跑步等场景；若以公共交通通勤为主则建议选择 AirPods Pro 3。京东对 AirPods 提供七天保价服务。",
-              "source_url": "https://www.ithome.com/1/024/488.htm",
+              "title": "OPPO Find X9 Ultra手机16+512G新低6548元",
+              "brief": "OPPO Find X9 Ultra手机16GB+512GB版本在京东平台出现新低价，原价8499元，叠加国补和680元优惠券后仅需6548.86元。该机搭载骁龙8 Elite Gen5旗舰处理器。此外，11.11大促期间，京东平台手机品类可叠加国补立减千元，还有面额至高26888元的无门槛红包可供抽取，支持即领即用，下单直接抵扣。文内含有的对外跳转链接用于传递更多信息，节省甄选时间，结果仅供参考，属于广告性质内容。",
+              "source_url": "https://www.ithome.com/1/024/533.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-09T19:04:50+08:00"
+              "published_at": "2026-11-09T21:02:08+08:00"
             }
           ]
         },
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《质量效应2》内部早期预告片曝光 展现游戏最早画面",
+              "brief": "曾参与BioWare、育碧和顽皮狗项目的游戏开发者乔纳森·库珀在N7日发布了一段从未公开的《质量效应2》内部预告片，该演示片可追溯到2009年4月，用于展示蒙特利尔动画团队正在制作的过场动画。细心的粉丝能从中辨认出米兰达、盖拉斯和杰克等同伴，以及最终游戏中出现的多个场景。预告片以薛帕德之死开场，随后是指挥官的动作电影式独白和新诺曼底号船员画面，凸显了本作与初代的巨大转变。库珀还回忆了团队中的争论与戏剧性时刻，称当时大家满怀热情地想象如何让薛帕德在这些剧情节点上大放异彩。",
+              "source_url": "https://www.ign.com/articles/internal-mass-effect-2-trailer-gives-us-the-earliest-look-at-the-game-yet",
+              "source_name": "IGN",
+              "published_at": "2026-11-09T19:48:55+08:00"
+            },
+            {
+              "title": "英国塞尔福里奇百货推出《GTA6》主题快闪 售价3355美元棒球夹克",
+              "brief": "Rockstar与伦敦塞尔福里奇百货合作推出《GTA6》主题活动，牛津街门店橱窗中停放了一辆蓝色格罗蒂猎豹经典跑车，店内外遍布VI标识和罪恶之城元素。活动共推出超过60件主题商品，涵盖服装、篮球、箱包和马克杯等，其中最贵的是一件独家州立棒球夹克，售价高达2500英镑（约3355美元），目前已售罄。开业当天排队人数超过10万，部分商品迅速售空，且许多商品为塞尔福里奇独家发售。这是Rockstar在英国的首次大型活动，此前其营销重点集中在迈阿密，包括在热火队球馆顶部安装发光的“欢迎来到罪恶之城”标牌。",
+              "source_url": "https://www.ign.com/articles/selfridges-gta-6-takeover-varsity-jacket",
+              "source_name": "IGN",
+              "published_at": "2026-11-09T19:30:49+08:00"
+            },
+            {
+              "title": "知名任天堂博主Supper Mario Broth自述或仅剩一年寿命",
+              "brief": "以分享马里奥系列冷知识和趣闻闻名的博客Supper Mario Broth的博主近日透露，自己患有一种遗传性疾病，即使生活方式健康也无法避免，存活超过一年的概率仅为三分之二，病情还在逐渐损害其视力，目前尚不确定手术或药物能否延缓。博主向27万关注者表示，担心不久后无法再见到马里奥，但承诺只要身体允许就会继续运营博客，分享马里奥相关发现是其唯一的人生目标。他表示视力衰退可能影响内容更新频率，但未请求任何经济或情感支持，称已拥有所需的一切支持。数千条支持留言随之涌入。",
+              "source_url": "https://www.ign.com/articles/supper-mario-broth-health-condition",
+              "source_name": "IGN",
+              "published_at": "2026-11-09T18:55:22+08:00"
+            },
             {
               "title": "父亲将熟睡6岁女儿独自留在队伍中排队购买宝可梦卡牌后遭逮捕",
               "brief": "据《华盛顿邮报》报道，35岁的约翰-迈克尔·杜利上周五带着女儿在查尔斯顿西阿什利区一家店铺外彻夜排队，等待新系列宝可梦集换式卡牌发售。查尔斯顿警方通报称，凌晨2时30分左右，警方接到无人看管儿童的报警后赶到现场。目击者称，杜利在凌晨1时后给女儿留下毯子和枕头，让她在自己排队的位置上睡着后离开。超过一小时未归，担忧的目击者报警。杜利返回后随即被捕，他承认回家把女儿单独留在队伍中以保住位置。杜利被控对儿童实施不法行为，女孩无恙，已被紧急保护安置。",
@@ -445,27 +480,6 @@
               "source_url": "https://www.ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
               "source_name": "IGN",
               "published_at": "2026-11-09T12:22:51+08:00"
-            },
-            {
-              "title": "丹尼斯·维伦纽瓦盛赞人类创造力优于AI提示词 差点宣布新邦德人选",
-              "brief": "丹尼斯·维伦纽瓦上周六晚在洛杉矶郡艺术博物馆（LACMA）的艺术+电影慈善晚宴上获表彰。这位《沙丘3》导演在致辞中向斯皮尔伯格、詹姆斯·卡梅隆等偶像致敬，并谈到人工智能兴起令艺术家面临的生存危机。他表示自己的每部电影都在回答一个问题，如今人们正站在十字路口追问何以为人、人类表达的价值何在，这也是《沙丘3》的核心主题。他强调人类创造力在艺术创作中的关键作用：可以选择用提示词生成作品，也可以与演员和剧组深入沙漠进行真实冒险。他称过程比结果更重要，人类携手创作艺术比以往任何时候都更关键。",
-              "source_url": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
-              "source_name": "IGN",
-              "published_at": "2026-11-09T10:28:29+08:00"
-            },
-            {
-              "title": "英伟达就CEO黄仁勋涉中国间谍婚外情传闻启动调查",
-              "brief": "英伟达董事会确认，正就近期报道中黄仁勋成为外国情报活动目标一事展开调查。此前《纽约时报》报道称，黄仁勋与一名被美国情报部门认为卷入中国间谍活动的女性有婚外情，该女性为Megaspeed高管、中国商人黄乐。黄仁勋致员工信承认对妻子不忠，表示深感抱歉，并称支持董事会独立调查、将全面配合，强调自己热爱国家与公司，致力于保护英伟达和美国国家安全。董事会称目前无理由认为国家安全或公司机密遭泄露。",
-              "source_url": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
-              "source_name": "IGN",
-              "published_at": "2026-11-09T06:34:01+08:00"
-            },
-            {
-              "title": "奥斯汀·巴特勒为何无法在《迈阿密风云'85》中驾驶经典黑色法拉利",
-              "brief": "导演约瑟夫·科辛斯基的新片《迈阿密风云'85》正在拍摄，但主演奥斯汀·巴特勒不会驾驶原剧中的黑色法拉利Daytona Spyder。在1980年代原版电视剧中，唐·约翰逊饰演的警探前两季驾驶黑色1972年法拉利Daytona Spyder敞篷车，第三季首集该车被导弹炸毁后换成白色法拉利Testarossa。剧中出现的Daytona其实是基于科尔维特C3底盘的复制品，因为法拉利北美拒绝提供真车。法拉利曾就该复制品提起诉讼，指控商标侵权和品牌淡化，最终双方和解：法拉利获得广泛的商标保护，并向剧组出借两辆真Testarossa，条件是假Daytona必须在电视上被戏剧性地炸毁。环球影业此次直接改用白色Testarossa，很可能是为了避免再度陷入法律纠纷，尽管这不符合原剧情设定。影片目前在纽约和新泽西拍摄，飓风季结束后将转场迈阿密，并将在包括IMAX在内的影院上映。",
-              "source_url": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
-              "source_name": "IGN",
-              "published_at": "2026-11-09T05:41:08+08:00"
             }
           ]
         },
