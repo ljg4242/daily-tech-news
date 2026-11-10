@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T19:19:10.184941+08:00",
+  "generated_at": "2026-11-10T21:20:28.283899+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,66 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "初代 iPod 上市已 25 周年",
+              "brief": "2001 年 11 月 10 日，苹果初代 iPod 正式开售，至今已 25 年。这款售价 399 美元的音乐播放器最初仅兼容 Mac，后来成为苹果最重要产品之一，帮助公司走出电脑业务。乔布斯于同年 10 月 23 日在苹果总部小镇礼堂的小型发布会上首次展示它，宣传语为“把 1000 首歌装进口袋”。设备配备 5GB 硬盘、单色 LCD 屏幕、机械转盘滚轮，续航最长 10 小时，需搭配 iTunes 使用，通过 FireWire 传输音乐并充电，整个 CD 可在 10 秒内传输完毕。当年发布会反响不一，不少读者质疑其价格和 Mac 专属兼容性。",
+              "source_url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T20:54:45+08:00"
+            },
+            {
+              "title": "苹果地图或将把停车时间纳入预计到达时间",
+              "brief": "据代码探索者 pdfu 的发现，苹果可能正为地图应用开发将停车及步行时间计入到达预估的功能。iOS 27.3 测试版中出现名为“TimeToPark”的新开关，可让系统测量在目的地附近寻找停车位所花费的时间，以及之后步行到目的地的时间。该测量使用后台定位和运动数据，结果按行程保存，并按星期几和小时分组。不过 pdfu 指出，该功能目前只能在内部安装版本上启用，且尚无地图功能使用这些数据。也就是说，考虑停车因素的预计到达时间未来有可能正式推出，值得持续关注。",
+              "source_url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T20:15:18+08:00"
+            },
+            {
+              "title": "Waze 接入 Garmin LiveTrack，提醒司机注意附近骑行者",
+              "brief": "Waze 与 Garmin 宣布推出面向司机的实时骑行者提醒功能，旨在营造更安全的道路环境。今后，骑行者在 Garmin Edge 码表或 Garmin 智能手表上开启 LiveTrack 后，可选择以实时移动图标的形式出现在 Waze 中。当骑行者在附近时，司机也会收到通知，从而减速、保持警觉并共享道路。该功能完全由用户自愿开启，并注重隐私设计：司机只会看到骑行者在附近的临时提醒，骑行者的姓名、身份或具体路线都不会在应用中分享。骑行者在 Garmin 设备上结束骑行后，提醒会自动关闭。该功能现已在 iOS 和 Android 平台的 Waze 上全球推出。",
+              "source_url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T20:00:10+08:00"
+            },
+            {
+              "title": "iPhone 20 Pro：有望重新定义苹果旗舰的十大变化",
+              "brief": "2017 年苹果以 iPhone X 庆祝 iPhone 十周年，带来史上最大 redesign；如今多方传闻显示，苹果正为 20 周年筹备又一次里程碑式重设计。纪念机型“iPhone 20”预计要到 2027 年 9 月才发布，但爆料已持续数月。据彭博社马克·古尔曼称，苹果已深入开发中，多家报道勾勒出一款看起来像一整块无缝玻璃的 iPhone。预期变化包括：四曲面全玻璃设计，屏幕玻璃四边弯曲，正常使用时遮住金属边框，据传苹果正与三星合作开发等深四曲面屏；先进 OLED 技术，原计划采用 COE 封装技术，但有报道称该技术可能推迟至 2029 年；屏下 Face ID 和摄像头；固态按键，以触觉反馈取代实体按键；以及在美国搭载苹果自研基带等。",
+              "source_url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-10T19:39:01+08:00"
+            },
+            {
               "title": "苹果在 iOS 27.2.1 和 macOS 27.2.1 中修复了哪些漏洞",
               "brief": "苹果今日发布的 iOS 27.2.1、iPadOS 27.2.1 和 macOS 27.2.1 更新修复了多个安全漏洞。其中一个 iMessage 漏洞可能让远程攻击者加入群聊并接收消息，另一个漏洞则会让用户看到加入群聊之前发送的消息。大多数漏洞涉及 AirPlay 和蓝牙：恶意蓝牙设备可在用户无操作的情况下完成配对，另一漏洞可能让附近的攻击者破坏进程内存；还有多个漏洞可让攻击者绕过 AirPlay 配对码尝试的频率限制。macOS 更新还解决了 eMudhra 证书漏洞，并为命令行工具增加了防护。苹果未表示这些漏洞已被在野利用，但由于漏洞细节已公开，未升级的设备面临更高的攻击风险，建议尽快更新。",
               "source_url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
               "source_name": "MacRumors",
               "published_at": "2026-11-10T07:07:16+08:00"
-            },
-            {
-              "title": "Webex 支持 iPhone Duo",
-              "brief": "热门视频会议应用 Webex 今日更新，加入了对苹果 iPhone Duo 的支持。无论 iPhone Duo 处于展开或折叠状态、竖屏或横屏模式，甚至笔记本或支架形态，Webex 均可正常使用。展开时，iPhone Duo 可显示更多参会者、保持共享内容可见，并提供白板功能。多任务支持让 Webex 可通过分屏浏览与另一应用同时使用。Webex 移动摄像头共享功能允许用户在 iPhone Duo 以笔记本形态打开时在会议中串流手机摄像头，参会者可查看实时画面并进行标注。此外，思科还在 iPhone 应用中加入了 Webex Notetaker Agent，可对面对面交谈进行转录和摘要并生成行动项。Webex 可在 App Store 免费下载。",
-              "source_url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T06:31:20+08:00"
-            },
-            {
-              "title": "Meta 的 Muse AI 智能体登陆 Apple Watch",
-              "brief": "Meta 今日更新 iOS 版 Muse 应用，加入 Apple Watch 支持，Muse 用户现在可以在手表上使用这款主动式 AI 智能体。应用将 Muse 角色带到手表上，用户可以选择发送文字、语音输入或直接呼叫它，表盘还提供了 Muse 复杂功能以便快速访问。Muse 是 Meta 的个人 AI 智能体，可为用户完成各种任务，既可以作为独立应用使用，也内置在 Instagram、Facebook 等其他 Meta 应用中。Meta 为 Muse 设计的类似雪人的形象已广受欢迎，并在 Apple Watch 上处于核心位置。手表版应用的设计与 Meta 九月发布的配套设备 Muse Charm 类似。",
-              "source_url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T05:55:26+08:00"
-            },
-            {
-              "title": "安克推出配备自动追踪灯的 Eufy 安防摄像头",
-              "brief": "安克今日推出 Eufy TrackLight Cam S1，称其为全球首款配备自动追踪灯以主动威慑入侵者的户外安防摄像头。配合 Anker HomeBase 使用时，该摄像头兼容 Apple Home，可与 HomeKit 智能家居设备协同工作。检测到可疑人员时，摄像头会锁定目标，用灯光从最远 12 米处进行追踪，光线随距离自动调节。摄像头支持 355 度水平旋转，追踪速度最高达每秒 87 度。可选的追踪威慑模式可同时开启灯光和 105 分贝警报，另有红蓝闪烁灯模式。摄像头支持 4K 录制、10 倍数码变焦和夜视功能，配备 120 度泛光灯和双雷达实现 180 度、约 12 米范围的探测。应用中的家庭名单可通过识别已知手机蓝牙，为熟人提供柔和迎宾灯光。摄像头内置 15000mAh 电池和 5.5 瓦太阳能板，达到 IP65 防尘防水等级，无内置存储，需添加 microSD 卡或连接 HomeBase，无需订阅。TrackLight Cam S1 售价 300 美元，安克与亚马逊有售。",
-              "source_url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T05:47:39+08:00"
-            },
-            {
-              "title": "macOS 27.2.1 修复命令行工具中的 eMudhra 证书漏洞",
-              "brief": "苹果今日发布的 macOS Golden Gate 27.2.1 更新修复了 eMudhra 证书漏洞，建议用户尽快升级。运行 macOS 26 和 macOS 15 的 Mac 可分别更新至 macOS 26.7.3 和 macOS 15.8.3。苹果早在十月已在 Safari、邮件及使用苹果框架的应用中封锁受影响的证书，但 curl、git 等命令行工具此前仍可接受这些证书，此次更新后不再接受。此前苹果曾指导用户手动删除 /etc/ssl/cert.pem 文件中的相关根证书，该说明仍保留给无法升级的用户。Mozilla 的调查发现，eMudhra 签发的证书私钥数值低于 256，极易被恢复，攻击者可借此伪造任何网站的有效证书。",
-              "source_url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-10T04:26:53+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "谷歌 DeepMind 分析证明 Signal 与 WhatsApp 加密安全",
+              "brief": "Google DeepMind 对 Signal 协议进行了“形式化验证”，即用数学方法证明密码学协议在所有条件下都满足其安全声明，保证不存在协议失效的情形。这一标准远高于仅寻找漏洞却无法承诺不存在其他漏洞的传统测试方法。该协议不仅用于 Signal 应用，也被 WhatsApp 和 Google Messages 采用，这项工作被称为“里程碑式的进展”。用智能体 AI 完成形式化验证对密码学和 AI 都是重大突破，但计算需求极高，谷歌表示尚不清楚能否更广泛实用。验证针对协议本身而非 Signal 应用整体，测试含已知漏洞的旧版 Signal 时能正确标记其未通过验证。DeepMind 研究人员表示这只是更大进程中的里程碑，此次分析耗时四周。",
+              "source_url": "https://9to5mac.com/2026/11/10/google-deepmind-analysis-proves-signal-and-whatsapp-encryption-is-secure/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T20:39:23+08:00"
+            },
+            {
+              "title": "Instagram Effect Builder 通过 AI 提示词生成图像",
+              "brief": "Meta 推出 Instagram Effect Builder，用户只需描述想要看到的画面，即可为 Instagram Stories 创建 AI 图像。该工具是免费视频编辑应用 Instagram Edits 的扩展，Edits 支持 iPhone 和 Mac，后者提供更大工作区、更精确的编辑控制和自定义键盘快捷键，支持多种宽高比并可导出和上传视频。Effect Builder 是独立的网页工具，无需设计或编程技能，用户描述想要的视觉效果、在自己的照片上预览后即可发布。所创建的效果会向所有 Instagram 用户开放使用，每次有人使用时都会链接回创作者主页，方便他人发现其作品。该网页应用目前仅限美国成年 Instagram 用户使用。",
+              "source_url": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T19:56:53+08:00"
+            },
+            {
+              "title": "Apple @ Work 播客：Osaurus 希望企业 AI 在 Mac 本地运行",
+              "brief": "在本期 Apple @ Work 播客中，Osaurus 联合创始人兼 CEO Terence Pae 参与节目，讨论在 Mac 上本地运行 AI，而不是把所有数据发送到云端。Osaurus 是一款免费的第一方 Mac AI 框架，旨在让企业在本地设备上运行人工智能。节目同时介绍了 Mosyle 的 Apple Unified Platform，它集成了在工作环境中无缝、自动部署、管理和保护苹果设备所需的各类方案，已有超过 4.5 万家组织信任 Mosyle，以低成本轻松让数百万台 Apple 设备就绪。本期节目还提到了 Assurant 的设备生命周期解决方案及最新的以旧换新与升级趋势报告等赞助内容。",
+              "source_url": "https://9to5mac.com/2026/11/10/apple-work-podcast-osaurus-wants-your-companys-ai-to-run-on-the-mac-not-in-the-cloud/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-10T19:32:28+08:00"
+            },
             {
               "title": "加拿大法院批准针对苹果与谷歌搜索协议的集体诉讼",
               "brief": "加拿大一家法院已批准针对苹果公司集体诉讼的认证程序，该诉讼涉及苹果与谷歌之间的搜索协议。此案的核心争议在于苹果将谷歌设为设备默认搜索引擎并从中获取巨额分成。诉讼方认为，这一交易损害了消费者利益，苹果因此获得不当收益。集体诉讼获得认证意味着该案件将以集体形式继续推进，符合条件的用户可纳入诉讼范围，无需单独起诉。这一进展可能促使苹果与谷歌的合作协议面临更严格的法律审视，也对苹果在相关司法管辖区的商业安排带来潜在影响。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-10T08:49:31+08:00"
-            },
-            {
-              "title": "Apple Intelligence在中国完成iPad和Mac的监管注册",
-              "brief": "苹果的Apple Intelligence已在中国完成针对iPad和Mac的监管注册，这意味着该人工智能功能在中国市场的设备覆盖范围进一步扩大。此前苹果已为iPhone等产品在中国推进相关合规流程，与本地合作伙伴合作部署AI模型。此次注册完成后，iPad和Mac用户有望在中国正式使用Apple Intelligence功能，包括写作工具、图像处理和Siri增强等特性，标志着苹果AI服务在华落地取得新进展。",
-              "source_url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T06:54:52+08:00"
-            },
-            {
-              "title": "今日macOS更新修复涉及eMudhra证书的安全漏洞",
-              "brief": "苹果发布macOS系统更新，修复了一个涉及印度证书颁发机构eMudhra的安全漏洞。该漏洞与系统信任的根证书相关，可能被用于潜在的安全攻击，威胁用户设备安全。苹果在更新中移除或调整了相关证书的信任状态，以防止攻击者利用该问题伪造证书、实施中间人攻击等恶意行为。苹果建议所有Mac用户尽快安装最新系统更新，确保设备免受该安全漏洞的影响，保障系统与数据安全。",
-              "source_url": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T06:17:36+08:00"
-            },
-            {
-              "title": "Skydance确认HBO Max与Paramount+将推出超值捆绑套餐",
-              "brief": "Skydance正式确认计划将HBO Max与Paramount+打包推出捆绑订阅套餐，为用户提供更具性价比的流媒体选择。此举旨在整合两大流媒体平台的内容资源，包括HBO的优质剧集和派拉蒙的电影与体育内容，以增强竞争力，应对Netflix、Disney+等对手的市场压力。捆绑套餐预计将为订阅用户带来价格优惠，具体定价和上线时间尚未公布，但公司表示方案正在推进中。",
-              "source_url": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-10T05:46:15+08:00"
             }
           ]
         },
@@ -129,6 +129,20 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "乌克兰光纤无人机受AI数据中心需求挤压",
+              "brief": "光纤无人机通过数公里长的光纤与操作员物理连接，不受战场电子干扰影响，已成为俄乌战场上的常见武器。这类无人机最初由俄军在2024年用于击退乌军对库尔斯克州的跨境进攻，乌克兰随后也研发了自己的光纤无人机。但两国所需的光纤主要依赖中国供应商，随着全球AI数据中心对光纤的需求激增，供应日趋紧张，采购成本上升，乌克兰无人机制造商被迫调整策略，以应对光纤短缺带来的挑战。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-10T20:15:32+08:00"
+            },
+            {
+              "title": "评测：苹果M6 MacBook Pro不错，但缺少亮点",
+              "brief": "苹果入门级14英寸MacBook Pro一直处于尴尬定位，介于MacBook Air和高端MacBook Pro之间。今年的入门款搭载M6芯片，性能出色，但沿用自2021年以来的旧设计：没有触摸屏、没有OLED面板、没有灵动岛、重量未减轻、外壳也没有发光的苹果标志。传闻M6不会推出Pro、Max或Ultra版本，因此该机型在某些配置上有独特优势，但整体上缺乏高端ProLED XDR机型的核心亮点，定位略显不上不下。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-10T20:00:21+08:00"
+            },
+            {
               "title": "DC宇宙改组：詹姆斯·古恩与彼得·萨弗兰在合并后离任",
               "brief": "派拉蒙与华纳兄弟的争议性合并仅过去约两个月，重启后DC宇宙的联席CEO詹姆斯·古恩和彼得·萨弗兰便出人意料地卸任。目前尚不清楚二人是主动辞职还是被迫离开，也不确定除已进入后期制作的2028年《明日之子》外，他们规划的2028年后项目将何去何从。曾与古恩合作《银河护卫队》等漫威电影的制片人杰里米·拉查姆将接任。二人发表联合声明回顾四年成果，并表示为能回归讲故事的本心而兴奋。",
               "source_url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
@@ -148,26 +162,33 @@
               "source_url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-10T04:49:09+08:00"
-            },
-            {
-              "title": "允许黑客通过SSH入侵Linux设备的漏洞正遭积极利用",
-              "brief": "多名研究人员报告，黑客正在积极利用一个新近发现的高危漏洞，可在数秒内登录大量Linux系统的高权限账户。该漏洞被命名为“*sshole”，源于OpenSSH与musl代码库之间的交互问题，同时使用这两个组件并满足其他条件的系统均受影响。安全公司Greynoise称，其部署在东南亚的蜜罐遭到代号GT10的团伙攻击，该团伙实施了“成熟入侵”，其使用的后门TAC Agent包含中文注释并疑似由AI生成，支持shell命令、系统侦察和持久化等功能。",
-              "source_url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-10T03:41:34+08:00"
-            },
-            {
-              "title": "五角大楼考虑在月球周围部署军用卫星群",
-              "brief": "美国军方在联邦采购网站上发布信息征询书，表示有意部署由数量不明的卫星组成的“扩散式地月空间星座”，在月球附近执行未公开任务。太空军先进项目采办负责人珀迪少将近月多次表示军方正认真考虑将力量延伸至月球。目前太空军最远的卫星位于地球静止轨道，收集监视和导弹预警数据。珀迪提到，特朗普去年12月签署的行政令设定了太空政策，其中涉及美国探测和应对从近地轨道到地月空间威胁的能力，他称这是“作战域”。",
-              "source_url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-10T03:08:37+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Waze 推出由 Garmin 驱动的新功能，有望让骑行更安全",
+              "brief": "Waze 正在与 Garmin 合作，推出一项面向骑行者的新功能。该功能依托 Garmin 的相关技术数据，旨在提升道路骑行安全。通过这一整合，骑行者可以获得更适合自行车出行的路线和路况信息，帮助规避危险路段。此次合作被认为是导航应用在骑行安全领域的一次重要尝试，未来有望让道路环境对骑行者更加友好，降低骑行过程中发生事故的风险。",
+              "source_url": "https://www.androidauthority.com/waze-garmin-integration-for-cyclists-3733025/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-10T20:00:01+08:00"
+            },
+            {
+              "title": "Galaxy 手机或将支持录制 WhatsApp、Telegram 和 Google Meet 通话",
+              "brief": "根据最新泄露信息，三星正计划在 One UI 9.5 中引入一项新能力，让 Galaxy 手机用户能够录制来自第三方应用的通话，包括 WhatsApp、Telegram 以及 Google Meet 等常用通信工具。目前这类互联网通话的录音功能通常受限，若该功能属实，将大大方便需要保存通话记录的用户。该功能预计将随三星下一代 One UI 更新正式推出，具体上线时间尚待官方确认。",
+              "source_url": "https://www.androidauthority.com/one-ui-9-5-call-record-third-party-apps-leak-3733329/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-10T19:36:37+08:00"
+            },
+            {
+              "title": "One UI 9.5 或为 Bixby 小组件引入多种新输入方式",
+              "brief": "有消息称，三星计划在 One UI 9.5 中为 Bixby 小组件增加多种新的输入选项，其中包括笔记等新功能。目前 Bixby 小组件的交互方式较为有限，新版本有望让用户以更灵活的方式与 Bixby 进行交互，例如通过文字记录等方式快速完成任务。这一改动将提升 Bixby 在日常使用中的实用性，具体功能细节预计将在正式版本发布时得到确认。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-5-bixby-widgets-notes-3733294/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-10T19:21:39+08:00"
+            },
             {
               "title": "我弃用 Chrome 改用 Firefox 一周，终于体会到它的魅力",
               "brief": "Android Authority 作者尝试放弃谷歌 Chrome 浏览器，改用 Firefox 整整一周，以体验这款替代浏览器的实际表现。文章从日常浏览、扩展支持、隐私保护和同步功能等方面分享了使用感受，作者表示经过一周体验后，终于理解了 Firefox 长期以来吸引忠实用户的原因。对于正在考虑更换浏览器的安卓用户来说，这篇文章提供了一份来自真实使用场景的参考。",
@@ -181,33 +202,33 @@
               "source_url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-google-pixel-11-pro-xl-one-week-usage-3732233/",
               "source_name": "Android Authority",
               "published_at": "2026-11-10T18:30:02+08:00"
-            },
-            {
-              "title": "Hunter 停止支持 Google Home 和 Alexa 语音控制，转向 Matter",
-              "brief": "智能吊扇品牌 Hunter 宣布将停止支持 Google Home 和 Alexa 的语音命令与自动化功能，转而全面拥抱 Matter 智能家居标准。这一变化意味着现有用户通过谷歌或亚马逊生态控制 Hunter 智能风扇的原有方式将失效，需要迁移到基于 Matter 的新方案。文章介绍了此次调整的具体安排、受影响的设备范围，以及用户在此过渡期间可以采取的应对措施，提醒相关用户及时关注官方公告。",
-              "source_url": "https://www.androidauthority.com/hunter-smart-fans-google-home-alexa-matter-cutoff-3733288/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-10T18:27:06+08:00"
-            },
-            {
-              "title": "七个设置调整让我的 Google TV 变得更流畅",
-              "brief": "Android Authority 分享了七个实用调整技巧，帮助用户提升 Google TV 设备的运行速度。文章涵盖关闭不必要的预装应用、清理缓存、禁用动画效果、限制后台进程等设置方法，作者亲自尝试后表示设备明显变得更流畅，开机和启动应用的速度都有改善。这些操作简单易行，无需额外付费或刷机，适合所有使用 Chromecast、带 Google TV 的设备或智能电视的用户参考实践。",
-              "source_url": "https://www.androidauthority.com/google-tv-faster-settings-3732478/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-10T18:00:32+08:00"
-            },
-            {
-              "title": "谷歌2027年折叠屏应用推广计划获读者期待但存疑",
-              "brief": "谷歌计划在2027年通过Play商店激励措施推动开发者适配折叠屏手机应用，Android Authority就此向读者发起投票调查。投票结果显示，读者对这一计划普遍抱有希望，认为此举有助于改善折叠屏设备的应用生态，但多数人并不完全信服，怀疑谷歌能否真正落实相关激励政策，也担心开发者的适配积极性不足。此次调查反映出用户对折叠屏手机软件体验的关注，以及对大屏应用适配现状的不满。",
-              "source_url": "https://www.androidauthority.com/google-play-store-incentives-foldable-phone-apps-poll-results-3733255/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-10T16:56:19+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "SpaceX将于11月13日首次尝试回收星舰两级",
+              "brief": "SpaceX计划于11月13日执行星舰第15次试飞任务，发射窗口为美国东部时间下午5点45分开始，时长75分钟，目前仍待监管部门批准。此次任务与以往不同，SpaceX将首次尝试回收完整轨道发射系统，包括超重型助推器和上级飞船。此前公司曾三次捕获助推器，但飞船飞行高度更高、速度更快，捕获难度更大。第14次试飞中星舰首次入轨，但飞行被缩短，飞船仅在轨约两小时。本次飞船预计绕地球约14圈，飞行超过22小时，并将部署26颗Starlink V3卫星。SpaceX计划先用发射塔的筷子臂捕获助推器，一天后再尝试捕获飞船，且仅在其能于预定区域脱轨并条件理想时进行。",
+              "source_url": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-10T21:03:18+08:00"
+            },
+            {
+              "title": "赛睿Rival Pro评测：连接稳定、响应迅速，电池系统别出心裁",
+              "brief": "赛睿Rival Pro是一款高端无线游戏鼠标，获得9/10评分。它采用UWB超宽带连接技术，响应速度超过几乎所有有线竞品，配备42K传感器和8000Hz轮询率，重量仅53克。其特色是可快速更换电池系统，配合充电底座几乎实现无限续航。优点还包括超轻机身和便捷的电池切换设计；缺点是价格偏高，售价180美元，滚轮顺滑度欠佳，且外壳容易沾染指纹。鼠标采用四键布局，左右键外加两个可编程侧键，弧形设计适合右手用户。对于想要无线自由又不牺牲性能的玩家而言，Rival Pro是顶级之选。",
+              "source_url": "https://www.engadget.com/2311251/steelseries-rival-pro-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-10T21:00:00+08:00"
+            },
+            {
+              "title": "Garmin用户现可通过Waze分享骑行位置提升安全",
+              "brief": "Waze与Garmin合作，将后者的LiveTrack功能以创新方式整合进导航应用。骑行者在Garmin智能手表或Edge码表上启用LiveTrack后，会临时出现在Waze地图上，附近驾驶员将收到应用内通知，提醒前方道路有一名或多名骑行者，并在接近时看到移动图标。LiveTrack完全可选，骑行结束后自动关闭。Waze表示用户姓名、身份和路线不会被分享。许多Garmin用户早已使用LiveTrack向亲友通报位置，此次整合预计主要用于郊区长途骑行等远离城市和自行车道的场景，为骑行者安全再添一层保障。",
+              "source_url": "https://www.engadget.com/2311124/garmin-users-can-now-share-their-cycling-location-through-waze-for-extra-safety/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-10T20:00:00+08:00"
+            },
             {
               "title": "《GTA 6》现已开放预载，玩家需预留212GB存储空间",
               "brief": "《GTA 6》将于11月19日正式发售，Rockstar Games已在绝大多数地区的Xbox Series X|S和PlayStation 5平台开放预载。玩家预购后即可提前将游戏完整安装至主机硬盘，避免发售当日的下载高峰。游戏文件体积高达212GB，据称预售销量已接近800万份。Xbox平台预载于11月9日晚开启，PS5则于11月10日零时按当地时区陆续开放。实体版将于11月12日发货并抵达零售店，附带的兑换码可用于预载。对于存储空间有限的标准版Xbox Series S用户，这款游戏将占用超过一半的可用容量，提前整理存储显得尤为重要。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.engadget.com/2311839/doj-lawsuit-lyft-routinely-refused-service-passengers-with-disabilities/",
               "source_name": "Engadget",
               "published_at": "2026-11-10T17:58:52+08:00"
-            },
-            {
-              "title": "HoverAir Versa 评测：便利与创意并存但也有妥协",
-              "brief": "HoverAir Versa 售价 539 美元，是一台兼具云台相机与迷你无人机功能的二合一设备。它搭载 1/1.3 英寸传感器，最高支持 4K/60fps 拍摄，加上磁吸配件即可从手持云台相机变身为无人机。评测给出 8/10 分，称赞其云台相机表现不错、可变身为无人机且配件丰富，但也指出缺点：缺少高级相机模式，且没有避障功能。受美国 FCC 相关规定影响，Versa 在美国的上市情况尚不明朗，加拿大等多数其他市场可获得完整套装。总体而言，这一组合设计颇具巧思，但难以兼得两种设备的最佳体验。",
-              "source_url": "https://www.engadget.com/2311413/hoverair-versa-review/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-10T16:00:00+08:00"
-            },
-            {
-              "title": "每位戴 Apple Watch 的老年人应设置这 5 项健康提醒",
-              "brief": "Apple Watch 的用户遍布各年龄段，佩戴它并不像医疗吊坠那样给人贴上脆弱的标签，这让许多不认同自己是老年人的用户更易接受。站立与活动提醒、健身追踪和步数统计等功能，可帮助老年人保持活跃、更长久地维持健康。随着苹果在医疗健康研究上持续投入，智能手表对短期疾病的检测能力也在提升，助力自我照护。在获得许可的情况下，家人还可通过查找 App 了解老人位置，给予更好照护。文章重点介绍了老年人应设置的健康提醒，其中紧急 SOS 功能尤为重要：长按侧边按钮即可呼叫紧急服务，需蜂窝版手表有有效套餐、开启 Wi-Fi 通话或配对 iPhone 在附近；医疗急救卡与紧急联系人可在 iPhone 健康应用中设置，以备不时之需。",
-              "source_url": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-10T09:30:00+08:00"
-            },
-            {
-              "title": "如何在 Google Home 上开启个人结果功能",
-              "brief": "谷歌在 2025 年 8 月宣布，Google Home 音箱等兼容设备将迎来 Gemini 驱动的升级，包括更自然的对话体验、对自然语言的理解，以及 Voice Match 和个人结果功能的改进。开启个人结果后，用户询问日程安排等问题时，设备能识别提问者的身份并给出定制化答案。设置方法为：打开 Google Home 应用，设置 Voice Match，然后依次进入设置中的 Google Assistant > Personal results，选择要启用的设备。此后音箱可访问个人日历、待办清单、Google Keep、照片等信息。家庭中每位成员可同步各自的独立资料，访客或未设置资料的成员仍可提问或设置闹钟，但只会得到通用回答。",
-              "source_url": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-10T08:30:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "希捷推出FireCuda Forge：在硬盘与SSD间智能调度数据提升性能",
+              "brief": "希捷宣布推出全新外置存储方案FireCuda Forge，将SSD的速度优势与大容量硬盘的低价优势相结合。这是首款采用该公司全新Alkemi智能存储平台驱动的产品，该平台会学习用户数据的使用方式，将当前正在使用或最常使用的文件迁移到更快的SSD上。FireCuda Forge现已通过希捷在线商店发售，配备8TB硬盘的版本售价699美元，20TB版本售价899美元，硬盘均可由用户自行更换。不过产品不包含NVMe SSD，用户需自备，而在当前存储芯片短缺的背景下，这将显著增加整体成本。",
+              "source_url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+              "source_name": "The Verge",
+              "published_at": "2026-11-10T06:01:00-05:00"
+            },
+            {
+              "title": "Real MotorsProject Ares电动摩托：赛博朋克幻想成真",
+              "brief": "Real Motors的首款作品Project Ares将《夜之城》般的赛博朋克氛围带到了街头，但它并不是人们预想中的运动型摩托车。作者试驾后指出，电动化给摩托车设计带来了极大自由：去掉发动机和油箱后，设计师可以尽情发挥，成果时有惊艳之作，例如Maeving RM2的复古未来风格和宝马CE 02的极简趣味设计。而Project Ares作为一款电动摩托车，以其独特前卫的造型进一步拓展了电动两轮车的设计边界，带来与众不同的视觉与骑行体验。",
+              "source_url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+              "source_name": "The Verge",
+              "published_at": "2026-11-10T06:00:00-05:00"
+            },
             {
               "title": "大卫·埃利森称AI可能是“现代历史上最大的创意解锁”",
               "brief": "在派拉蒙天舞最新财报电话会议上，CEO大卫·埃利森表示，很难想象AI对电影业的影响不会比CGI更大。他在回答公司对AI的展望时说：“放眼制作领域，AI真的有潜力成为现代历史上最大的创意解锁。上一次接近这种情况的是90年代初CGI和数字合成的出现，那项技术催生了《侏罗纪公园》和《终结者2》等精彩故事，很难想象AI不会产生比之更重大的影响。”但他同时表示，AI永远不会取代艺术家。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
               "source_name": "The Verge",
               "published_at": "2026-11-09T18:47:46-05:00"
-            },
-            {
-              "title": "英伟达CEO黄仁勋间谍丑闻全梳理",
-              "brief": "英伟达CEO黄仁勋承认与Megaspeed高管Alice Huang存在婚外情，引发公司内部调查和全球热议。报道称，美国情报部门去年已认定Alice Huang不仅是为AI算力公司租用英伟达GPU的高管，还是中国国家安全部间谍。近年英伟达成为特朗普政府AI战略的关键一环，也是对华AI硬件谈判的核心角色，其市值已超4万亿美元并资助了Coreweave等“新云”公司。英伟达与黄仁勋称“没有理由相信国家安全或英伟达机密受到损害”，但调查仍在继续。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-              "source_name": "The Verge",
-              "published_at": "2026-11-09T18:07:59-05:00"
-            },
-            {
-              "title": "微星翻新QD-OLED电竞显示器降至300美元以下",
-              "brief": "微星工厂翻新版MAG 272QP X24显示器在Woot促销至11月18日，售价290.99美元，比399.99美元的建议零售价便宜逾100美元，并附180天厂商保修。这款27英寸屏幕配备1440p分辨率、240Hz刷新率，兼容G-Sync和FreeSync，有助于在帧率低于最高刷新率时减少画面撕裂。对PC游戏玩家而言，从旧款IPS面板升级到OLED是提升游戏体验的最佳方式之一，该机型在同等价位上配置较为齐全。",
-              "source_url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-              "source_name": "The Verge",
-              "published_at": "2026-11-09T16:43:41-05:00"
             }
           ]
         }
@@ -360,39 +360,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "特朗普公开为黄仁勋辩护：相信其并不知晓涉事人员间谍身份",
-              "brief": "黄仁勋被指与中国情报活动存在关联后，媒体在白宫记者会上追问特朗普是否知晓相关情况。特朗普表示自己直到最近才了解指控，并专门联系黄仁勋询问，后者明确回答完全不知道涉事人员具有间谍背景。特朗普称相信黄仁勋的说法，成为美国政界对其较为明确的支持声音。但争议并未平息，美国国会计划于11月18日举行闭门简报会。此外，英伟达与美国针对Megaspeed公司的调查存在交集，该调查涉AI芯片走私，而涉事人员Alice Huang曾在此期间与黄仁勋保持关系。分析认为相关质疑短期内难以消失。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585794.htm",
+              "title": "第一代iPod问世25周年：从口袋里的1000首歌到改变音乐产业",
+              "brief": "2001年10月，乔布斯在苹果总部小型发布会上公布第一代iPod，宣传语为“将1000首歌曲装进口袋”。该设备采用5GB机械硬盘、单色LCD屏幕和机械滚轮，续航约10小时，并与iTunes深度整合，通过FireWire传输音乐和充电。发布初期它仅兼容Mac且售价399美元，曾遭质疑。随后苹果不断改进：引入触摸滚轮、30针Dock连接器、彩色屏幕与视频播放，并陆续推出mini、shuffle、nano等产品线。2007年iPod销量破1亿台，2011年超3.04亿台。同年推出的iPod touch配备触摸屏和Wi-Fi。随着iPhone普及，专用播放器市场萎缩，苹果先后停售classic、nano和shuffle，并于2022年停产iPod touch，结束21年产品线。iPod改变了人们购买和管理数字音乐的方式，也为苹果硬件、软件与内容服务结合的商业模式奠定基础。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585806.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T18:06:16+08:00"
+              "published_at": "2026-11-10T21:07:50+08:00"
             },
             {
-              "title": "任天堂账号2027年1月26日起停用Google与Apple快捷登录",
-              "brief": "任天堂宣布，自2027年1月26日起停用通过Google账号或Apple账号快捷登录和注册任天堂账号的服务，届时用户需改用邮箱或登录ID配合密码登录，或使用通行密钥、指纹识别、面部识别等方式。已在设备上保持登录状态的用户，服务结束后可能不必立即重新验证，但一旦系统再次显示登录页面，就必须改用上述方式登录。任天堂表示，系统变更作业进度可能导致实际停止时间晚于原定安排。用户可在调整前确认账号绑定邮箱仍能正常访问，并妥善保存登录ID与密码；希望减少密码输入时也可预先启用通行密钥。此次调整只涉及登录和注册入口，现有账号及购买记录不会被删除。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585792.htm",
+              "title": "微软游说特朗普政府撤销中国数据中心关键设备进口禁令",
+              "brief": "据报道，美国政府正考虑禁止进口中国光模块，理由是相关设备可能被远程干扰美国数据中心运行。光模块是连接服务器、交换机和路由器的关键设备，随着AI发展需求激增。微软及多家科技企业和行业组织认为禁令将冲击美国数据中心扩张，削弱对中国的AI竞争优势。微软在美国有35座数据中心在建，还计划新增134座。今年9月微软曾与白宫科技政策办公室和国家安全委员会官员会谈讨论供应链风险。美国信息技术产业委员会指出，一座大型AI数据中心需要数百万个光模块，缺少光模块将使已采购的AI芯片无法投入使用。目前相关限制由联邦通信委员会推进，最终决定尚未公布。中国企业占全球约三分之二光模块市场份额，业界担心美国本土短期内难以填补供应缺口。微软、白宫及fcc均未置评。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585804.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T17:14:43+08:00"
+              "published_at": "2026-11-10T21:07:20+08:00"
             },
             {
-              "title": "独立开发者八个月打造自研引擎 RTX 3080运行森林演示平均约130 FPS",
-              "brief": "一名独立开发者耗时八个月打造自研游戏引擎，此前曾尝试现有方案，随后为实现特定目标转向自建架构。该引擎功能范围仍有限，重点是以较高细节渲染大量对象：使用集群层级细节构成虚拟几何，以体素表现远处对象，全局光照结合屏幕空间与体素方案，未使用光线追踪，最远处物体采用不保留单独实例数据的简化代理模型，还修改了meshoptimizer使其在生成层级细节的同时生成体素。测试中，演示在RTX 3080上俯视角度可达约200 FPS，进入最密集的森林场景降至约80 FPS，平均约130 FPS；移动版RTX 3070笔记本多数场景可保持60 FPS。开发者将RTX 2060与RX 6400视为理论最低门槛。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585790.htm",
+              "title": "英格兰将全面收紧校园手机管理 学生不得再将手机放在口袋或书包中",
+              "brief": "英格兰此前采取“看不见、听不见”模式，允许学生将关机的手机放在口袋或书包中带入校园。但英国教育部门调查显示，仅16%的中学生认为同学始终遵守现行规定，促使政府决定收紧政策。新的指导意见要求学校确保学生上课期间完全无法接触手机，可采取专用锁袋、集中存放储物柜或禁止携带入校等措施。教育大臣露西·鲍威尔表示学校应是学习和建立友谊的场所，儿童在校园期间不应使用智能手机。新规引发成本担忧，部分学校已采购金属探测器和锁袋，曼彻斯特一所学校投入约2万英镑，教育工会呼吁政府提供额外资金。法国、芬兰、荷兰等国已实施类似限制，美国46个州出台相关政策。新规将于2027年9月生效，英格兰学校将全面转向无手机校园制度。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585802.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T17:14:36+08:00"
+              "published_at": "2026-11-10T19:48:37+08:00"
             },
             {
-              "title": "《使命召唤》老外玩家飞机上打电话聊游戏 被当炸弹威胁",
-              "brief": "一名乘客在飞机上通过FaceTime与朋友通话并游玩《使命召唤》，通话中提及炸弹和爆炸等内容，被机组人员误认为炸弹威胁，随后机上乘客被要求离开飞机，疏散范围扩大至2号航站楼东侧区域，警方介入调查并拘留该乘客。该乘客向警方解释，自己当时正与朋友边通话边玩游戏，两人提及的炸弹和爆炸均在讨论游戏内容，并非现实威胁。安检人员随后搜索飞机及客舱，未发现炸弹或武器，警方确认事件源自误会，未涉及犯罪，释放该乘客且未提出刑事指控。确认安全后，所有乘客重新登机，包括此前被拘留的当事人也一同搭乘原定航班，班机最终顺利起飞。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585788.htm",
+              "title": "Rapidus遭遇关键技术障碍 日本2纳米芯片量产计划面临延期风险",
+              "brief": "据报道，日本芯片企业Rapidus原计划2026年夏季前完成可运行SRAM单元开发，但目标尚未实现，项目进度已落后数月。大容量SRAM缓存对数据处理效率至关重要，能否制造出可正常工作的SRAM单元被视为先进制程量产前的关键门槛。若进展无法追上时间表，公司2027财年下半年启动2纳米量产的目标可能延期。此外，其洁净室还面临灰尘与微粒控制问题，先进制程对生产环境要求严苛，污染会影响良率。Rapidus表示项目仍在推进，争取按期量产，但未披露技术细节。该公司成立于2022年，由日本政府主导，已获超2万亿日元资金支持，被视为日本重建先进半导体能力的重要项目。其北海道千岁工厂进展迅速，2025年完成2纳米GAA测试芯片流片并安装200多台设备。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585800.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T17:13:50+08:00"
+              "published_at": "2026-11-10T19:45:07+08:00"
             },
             {
-              "title": "微软请企业为Windows Server新功能“排雷”",
-              "brief": "微软宣布面向企业客户开放Windows Server技术采用计划（TAP），这是一项围绕产品验证建立的定向合作机制，并非完全开放的预览计划。参与企业需在与生产系统隔离的测试或实验室环境中部署预览版本，验证特定功能、系统升级和工作负载兼容性，并协助微软评估产品的发布准备情况。申请企业需能投入技术人员完成实际操作测试并持续提交反馈，微软将根据企业的业务需求、基础设施环境及现有验证项目进行筛选，提交意向表不代表自动获得资格，初步匹配后微软团队将通过Teams进一步沟通。微软还计划在11月17日至19日的Ignite大会设置展台提供咨询。TAP并非首次出现，此前Windows Server 2012开发阶段已引入企业参与验证。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585786.htm",
+              "title": "希捷推出FireCuda Forge智能混合存储系统 机械硬盘与SSD自动协作",
+              "brief": "希捷推出FireCuda Forge智能混合存储系统，提供8TB和20TB两个版本，售价分别为699美元和899美元，用户可自行更换机械硬盘，但产品不含SSD，需另行购买并安装NVMe固态硬盘。该产品搭载Alkemi智能存储平台，通过机器学习分析工作负载和文件访问频率，动态决定数据存放于SSD还是机械硬盘。例如编辑大型视频时，系统会将频繁访问的素材迁移到SSD以减少等待时间。对操作系统而言，它表现为一个普通驱动器，用户无需手动管理。希捷称其最高读取速度2500MB/s、写入2000MB/s，需Windows 11或macOS 26以上系统，实际速度取决于SSD性能与数据位置。该设计试图结合机械硬盘的低成本大容量与SSD的高速性能，主要面向视频剪辑、大型素材库等专业用户。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585798.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-10T17:12:52+08:00"
+              "published_at": "2026-11-10T19:44:44+08:00"
             }
           ]
         },
@@ -400,39 +400,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "《荒野大镖客：救赎2》迎来硬件加速光追MOD，支持三次光线反弹",
-              "brief": "MOD作者BadassBaboon发布了名为Reality Redemption 2的画质增强MOD，为游戏加入硬件加速光线追踪技术，包括光线追踪全局光照（RTGI）、环境光遮蔽和光线追踪阴影。其中RTGI最多支持三次光线反弹，让间接光照更自然地与周围环境互动，在室内场景中效果尤为明显。该MOD还改进了平面反射和屏幕空间水面反射效果，并提供丰富的自定义选项。与此前基于ReShade的屏幕空间方案不同，它明确引入了硬件光线追踪。目前该MOD处于测试阶段，仅支持DirectX 12，性能影响和最低显卡要求尚未公布。",
-              "source_url": "https://www.ithome.com/1/025/095.htm",
+              "title": "小米智能门锁 4 Pro 双摄版国补后 1085 元新低：AI 掌静脉识别 + 天地双摄",
+              "brief": "小米智能门锁 4 Pro 双摄版在京东叠加国补及 PLUS 专享券后价格降至 1084.5 元，官方提供 3 年质保、免费送装拆旧。该门锁配备 3MP 160 度广角主摄和 2MP 128 度广角辅摄，搭配 3.97 英寸室内屏，支持手机、电视等多设备跨屏联动查看门前情况。解锁方式包括 AI 掌静脉、AI 3D 人脸、AI 指纹、长期密码、NFC、门卡、手机远程、手机蓝牙和机械钥匙。供电方面采用双模智能供电系统，内置 6870 毫安时电池及 4 节 5 号碱性干电池，室内外均配有 USB-C 应急供电口。",
+              "source_url": "https://www.ithome.com/1/025/152.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T19:06:40+08:00"
+              "published_at": "2026-11-10T21:14:43+08:00"
             },
             {
-              "title": "超频三推出C3 T310海景房机箱：兼容360mm水冷，179元起",
-              "brief": "超频三推出C3 T310海景房机箱，可选黑白双色，售价179元起。机箱兼容M-ATX与ITX规格主板，提供4个PCIe扩展槽，显卡限长410mm，CPU散热器限高165mm，支持160mm以内ATX电源，可安装两块2.5英寸固态硬盘和一块3.5英寸机械硬盘。背板理线仓深度达90mm，内部提供9个120mm风扇位，顶部、底部各3个、侧面2个、后部1个，可构建多向风道。顶部支持360mm或240mm水冷排，后部支持120mm水冷排，前面板配USB-A 3.0、USB-A 2.0和音频接口。",
-              "source_url": "https://www.ithome.com/1/025/093.htm",
+              "title": "华为 WATCH GT7 系列推 HarmonyOS 7.0.0.123 更新：支持微信来电接听挂断",
+              "brief": "华为 WATCH GT7 系列手表推送 HarmonyOS 7.0.0.123 更新。新增功能包括：腕上家庭空间，可实时关注家人健康和运动数据并发送问候；配对 7.0.0.115 及以上版本手机后，手表支持微信来电接听和挂断；支持同步 HarmonyOS 7 及以上版本手机的地震预警消息；增强录音机同步能力，录音文件可同步至安卓、iOS 手机的华为运动健康应用。优化方面包括睡眠测量算法提升监测准确性，实况窗支持更多应用，并优化部分界面显示效果和系统稳定性。",
+              "source_url": "https://www.ithome.com/1/025/151.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T19:06:19+08:00"
+              "published_at": "2026-11-10T21:06:15+08:00"
             },
             {
-              "title": "达尔优Ultra68双形态键盘上市：模块化Fn键区，799元起",
-              "brief": "达尔优Ultra68双形态键盘正式上市，采用模块化Fn键区设计，支持0.001mm Rapid Trigger精度。该键盘提供两个版本：有线版搭载达尔优鲁班磁轴，采用碰珠结构，金属黑售价799元，酒红色售价849元；双模版搭载凯华雷电电感轴，采用磁吸结构，内置8000mAh电池，仅提供金属银配色，售价999元。用户可根据使用场景在有线磁轴和双模电感轴两种形态之间选择，满足不同性能与便携需求。",
-              "source_url": "https://www.ithome.com/1/025/080.htm",
+              "title": "米家智能晾衣机 1S 国补后 435 元：35kg 承重、自带 20W LED 照明",
+              "brief": "小米米家智能晾衣机 1S 叠加国补和优惠券后到手价 434.72 元。该晾衣机采用超薄机身设计，可嵌入吊顶内部，晾衣杆收起状态厚度仅 9.9 厘米，比前代薄近 30%。晾杆由铝合金和钢丝绳制成，承重 35 公斤，配有 32 个母婴夹、4 根横杆和 38 个防风挂孔，长度可调节，并带 20W LED 无极调光灯，可替代阳台灯。产品支持自定义升降高度和记忆功能，可与小爱音箱、米家 App、智能家庭屏等设备联动，采用轻音直流电机，比交流电机省电 50%，具备多种防护机制。",
+              "source_url": "https://www.ithome.com/1/025/150.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T18:59:08+08:00"
+              "published_at": "2026-11-10T21:03:18+08:00"
             },
             {
-              "title": "东风本田CR-V全能荣耀款上市：华为云技术赋能云车机应用，13.79万元起",
-              "brief": "东风本田CR-V全能荣耀款上市，现时售价13.79万元起，新增风尚四驱版。新车尺寸4703×1866×1680mm，轴距2701mm，支持MVCS 540°全景影像，座舱新增灰米色内饰，配备50W无线快充和脚部感应电动尾门。底盘采用麦弗逊前悬和SFRD频率响应减震系统，可自适应调节阻尼，全系标配10个安全气囊。混动版搭载第四代i-MMD双电机混动系统，WLTC综合油耗5.49L/100km。车辆支持华为云技术赋能的云车机应用，Honda CONNECT 4.0系统提供在线导航、语音交互、远程控车，并支持HUAWEI HiCar、CarPlay和CarLife+。",
-              "source_url": "https://www.ithome.com/1/025/076.htm",
+              "title": "vivo X300 Ultra 国补后 5623 元新低：配 3+2 蔡司大师镜头群",
+              "brief": "vivo X300 Ultra 12GB+512GB 版本在京东平台叠加国补及店铺券、直播间券后，价格降至 5623.42 元，为该机型国补后的新低价。用户可领取 4000-1000 元店铺券和 1200 元直播间券进行叠加优惠。该机配备 3+2 蔡司大师镜头群。京东 11.11 期间另有至高 26888 元无门槛红包可领，支持即领即用，下单可直接抵扣，手机品类还可叠加国补立减千元。",
+              "source_url": "https://www.ithome.com/1/025/149.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T18:54:13+08:00"
+              "published_at": "2026-11-10T20:58:49+08:00"
             },
             {
-              "title": "马自达2确认将停产，新一代CX-3接替其成为品牌入门车型",
-              "brief": "马自达首席技术官梅下隆一在《2026年综合报告》中表示，计划于2027年推出新一代CX-3，该车型将在泰国工厂生产，面向日本及东盟市场销售，取代马自达2成为品牌新时代的入门级车型。新款CX-3将搭载轻度混合动力系统，具体参数尚未公布，设计灵感来自Vision X-Compact概念车，借鉴CX-5的部分设计元素，并配备最新车载信息娱乐系统和驾驶辅助技术。马自达已为泰国工厂投入50亿泰铢。马自达2与现款CX-3自2014年推出以来基本未彻底换代，欧洲市场可能引入新车，北美市场预计仍以CX-30作为入门SUV。",
-              "source_url": "https://www.ithome.com/1/025/070.htm",
+              "title": "阿里巴巴宣布拟分拆平头哥在香港联交所主板独立上市",
+              "brief": "阿里巴巴公告，已向香港联交所提交建议分拆全资子公司平头哥（上海）技术股份有限公司独立上市的建议，拟通过全球发售平头哥 H 股的方式进行。平头哥目前为阿里巴巴全资子公司，是中国领先的全栈数据中心芯片供应商，其芯片可实现系统级算力解决方案。阿里巴巴认为，分拆将更好地反映平头哥自身价值，吸引专门投资者，提升其在客户、供应商及潜在战略合作伙伴中的独立形象，并使其能以独立身份进入股本及债务资本市场。分拆完成后，预期平头哥仍为阿里巴巴的子公司。",
+              "source_url": "https://www.ithome.com/1/025/147.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T18:50:08+08:00"
+              "published_at": "2026-11-10T20:52:56+08:00"
             }
           ]
         },
@@ -480,6 +480,20 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "中国 Android 厂商开始要求开发者身份验证",
+              "brief": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装侧载。Google 官方博客声称此举出于安全理由，其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（ADV），支持各方验证结果互认。ADV 旨在建立开发者与其应用之间的可信关联，为用户识别应用来源、判断应用是否安全提供依据。",
+              "source_url": "https://www.solidot.org/story?sid=85848",
+              "source_name": "Solidot",
+              "published_at": "2026-11-10T19:18:31+08:00"
+            },
+            {
+              "title": "生成式 AI 过度美化现实",
+              "brief": "发表在《Technology in Society》上的一项研究以集约化畜牧业为例，首次提供证据表明，OpenAI 的文本生成图像模型 DALL-E 3 会通过提示词修订机制抹去争议性议题的真实面貌。该机制会重写用户提示词、添加细节以促进多样性，但也会在用户不知情下改变其意图。DALL-E 3 生成的图像通常描绘奶牛在牧场上吃草、猪在泥地里拱土，即使研究人员明确要求真实场景，这种将畜牧业浪漫化的偏见依然存在。关闭提示词修订功能后，图像更接近现代畜牧业的实际室内饲养方式，不同地区差异也开始显现。研究人员警告应警惕 AI 生成图像过度美化现实的倾向。",
+              "source_url": "https://www.solidot.org/story?sid=85847",
+              "source_name": "Solidot",
+              "published_at": "2026-11-10T19:04:32+08:00"
+            },
+            {
               "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
               "brief": "Epic Games 通讯主管 Jake Jones 表示，新的 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linux 发行版，包括 Fedora、SteamOS、CachyOS、Omarchy 等。目前团队正在测试和评估各种打包格式，并将于本月恢复对 AppImage 的支持。如果 Epic Games 支持 Flatpak 打包格式并将其发布到 Flathub 上，那么 SteamOS 用户使用 Epic Games 将会非常方便，只需切换到桌面模式，然后在 Discover 应用商店中直接安装即可。这一举措被视为 Epic Games 加强对 Linux 平台支持的重要进展。",
               "source_url": "https://www.solidot.org/story?sid=85846",
@@ -499,20 +513,6 @@
               "source_url": "https://www.solidot.org/story?sid=85844",
               "source_name": "Solidot",
               "published_at": "2026-11-10T15:30:38+08:00"
-            },
-            {
-              "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
-              "brief": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加可能导致突然失明的警示。这种被称为非动脉炎性前部缺血性视神经病变（NAION）的眼部疾病会影响负责将信号从眼睛传输至大脑的视神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表的研究发现，使用司美格鲁肽的糖尿病患者患 NAION 的可能性是未使用者的四倍。FDA 随后展开调查，审查副作用报告和多项临床试验数据后，发现所有 GLP-1 药物均出现 NAION 病例报告。FDA 科学家尚未能明确药物导致风险增加的具体机制，NAION 的某些危险因素与 GLP-1 使用者中常见的 2 型糖尿病、肥胖症、睡眠呼吸暂停和高血压等健康状况存在重叠。",
-              "source_url": "https://www.solidot.org/story?sid=85843",
-              "source_name": "Solidot",
-              "published_at": "2026-11-10T14:35:14+08:00"
-            },
-            {
-              "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
-              "brief": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka CyberAv3ngers。报告称，受影响的零售集团包括 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示，就规模和攻击强度而言，这是一场前所未有的行动，也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。",
-              "source_url": "https://www.solidot.org/story?sid=85842",
-              "source_name": "Solidot",
-              "published_at": "2026-11-10T13:31:35+08:00"
             }
           ]
         }
