@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T05:19:40.632547+08:00",
+  "generated_at": "2026-11-11T07:19:57.565998+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iFixit 拆解 PROLED MacBook Pro：揭晓发光 Logo 亮度奥秘",
+              "brief": "iFixit 对苹果触屏 PROLED MacBook Pro 进行拆解。由于没有背光，苹果在 Logo 后方使用四颗 LED、反光层和扩散片实现均匀发光，关闭时镜面镀膜让 Logo 呈亮面效果。Logo 维修困难，需拆除屏幕，iFixit 拆解时还损坏了 OLED 面板。转轴与 M6 机型基本相同，只是更硬，便于触控时保持角度。Thunderbolt/USB-C 接口和风扇可更换，但 HDMI、SDXC 卡槽、SSD 和内存均焊在主板上。两台机型互换主板后，Repair Assistant 可让触屏和 Touch ID 等全部正常工作。机身减重来自底盘铝材削减，下盖从 456 克降至 364 克，屏幕总成也轻了 101 克，最终可修复性得分为 5 分（满分 10 分）。",
+              "source_url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T06:02:34+08:00"
+            },
             {
               "title": "10款免费iPhone Duo应用推荐",
               "brief": "MacRumors日前发布了第三批iPhone Duo免费应用推荐，由视频制作人Dan Barbera进行演示介绍。本次推荐列表包括Delta游戏模拟器、Bear、Fantastical、MD Vinyl等多款应用，这些应用均可免费使用或提供免费版本，部分应用带有付费升级选项。此前MacRumors已发布过两批iPhone Duo应用推荐名单，本期汇总了更多值得下载的优秀应用，并邀请读者在评论区分享自己认为值得体验的iPhone Duo应用。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
               "source_name": "MacRumors",
               "published_at": "2026-11-11T01:26:26+08:00"
-            },
-            {
-              "title": "iPad mini 2021 对比 2026 版购买指南：是否值得升级？",
-              "brief": "苹果第八代 iPad mini 本月早些时候上市，采用更大的 OLED 显示屏、更轻薄的设计、A20 Pro 芯片以及防尘防水能力。对于仍在使用 2021 年第六代 iPad mini 的用户，新款还带来了 2024 款引入的改进，包括 Apple Intelligence、Apple Pencil Pro 支持以及两倍的 USB-C 传输速度。新款 iPad mini 美国起售价为 699 美元（128GB Wi-Fi 版），蜂窝版 849 美元；已停产的 2021 款起售价分别为 499 美元和 649 美元（64GB）。两者均支持 iPadOS 27.2，顶部按钮集成触控 ID，标称 Wi-Fi 浏览网页或观看视频续航可达 10 小时，屏幕均为 60Hz。新款屏幕边框窄 24%，亮度更高，并支持 IP67 防水防尘和纳米纹理玻璃选项。",
-              "source_url": "https://www.macrumors.com/guide/ipad-mini-2021-vs-2026/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T01:11:48+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "iFixit 拆解触屏 MacBook Pro，揭示发光 Apple 标志细节",
+              "brief": "iFixit 发布了搭载 PROLED XDR 显示屏的新款 MacBook Pro 拆解视频，探讨了发光 Apple 标志的工作原理、串联 OLED 技术，以及苹果如何将标准 14 英寸机型重量从 1.55 公斤减至 1.38 公斤。拆解显示，串联 OLED 堆叠两个发光层以实现更高亮度，蓝色子像素比红绿更大，有助于延长屏幕寿命。更换 USB-C 接口、风扇或耳机孔仍需拆下整个逻辑板，HDMI、SDXC 接口及内存、存储仍焊接在板上。逻辑板互换测试中，新机成功识别电池、屏幕和 Touch ID，触控和原彩显示正常。发光标志由四颗 LED 配合反射层和扩散层实现，但拆解过程中 OLED 面板被损坏。",
+              "source_url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-11T07:14:49+08:00"
+            },
+            {
+              "title": "CleanupBuddy 2.0 推出屏幕清洁新功能，不再局限于键盘",
+              "brief": "CleanupBuddy 是一款在清洁时锁定键盘、防止误触输入的小工具，用户清洁完毕后长按两个 Cmd 键即可解锁。此次更新至 2.0 版本后，新增调暗显示屏和忽略触控输入的选项，既适用于新款触屏 MacBook Pro，也适用于传统显示屏的 Mac。没有触屏的 Mac 可使用调暗显示功能，方便清洁。更新还改进了应用内的动画角色，其可借助设备端 Apple Intelligence，根据清洁时长、按键和点击次数等数据生成个性化评论。这些数据仅在清洁期间收集并存储在本地，用户可在设置中关闭统计和 AI 功能。此外还修复了粘滞键干扰及 Liquid Glass 下按钮可读性问题。应用售价 2.99 美元，需 macOS 14 及以上。",
+              "source_url": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-11T06:56:55+08:00"
+            },
+            {
+              "title": "苹果将调查印度 iPhone 零部件工厂致三名工人死亡的事故",
+              "brief": "路透社报道，印度泰米尔纳德邦 Hosur 的塔塔工厂发生事故，三名合同工在污水处理厂维护作业中吸入气体身亡，事发时他们正在检查一个外部纳滤罐。该工厂为苹果生产 iPhone 零部件，是苹果在印度供应链的重要一环。苹果表示团队正前往工厂协助调查，但未回应置评请求，塔塔和当地政府也在展开调查。自苹果将制造业务从中国分散以来，印度已成为主要生产中心，全球约四分之一的 iPhone 在该国制造。今年早些时候，该工厂还曾因废水疑似污染附近农田水源而受到泰米尔纳德邦污染控制委员会调查，塔塔称在解决问题后监管机构已撤销进一步行动，但当地农民的投诉调查当时仍在进行。",
+              "source_url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-11T05:34:43+08:00"
+            },
             {
               "title": "Spotify AI DJ 新增九种声音并支持减少插话",
               "brief": "Spotify 对 AI DJ 功能进行扩展，推出更多自定义选项。该功能会结合用户的收听历史，提供音乐与评论混合的个性化体验。Spotify 宣布，在支持 DJ 的市场，Premium 订阅用户可以选择更多英语和西班牙语 DJ 声音，包括七种新英语声音，涵盖英国、美国、爱尔兰、澳大利亚和印度口音，以及两种新西班牙语声音，每种声音都有不同的个性风格。此外，Spotify 新增一个开关，用户可以减少歌曲之间的评论内容，使 DJ 仅在开始播放或切换音乐时进行简短确认，从而减少打扰。",
@@ -61,33 +82,26 @@
               "source_url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-11T04:06:19+08:00"
-            },
-            {
-              "title": "Apple TV 发布史努比与布偶 rock 假日特别节目预告",
-              "brief": "Apple TV 发布两档假日特别节目预告。《史努比呈现：史努比的12天》将于11月13日首播，剧中史努比被列入圣诞老人的调皮名单，距圣诞节还有12天，它努力证明自己并非坏狗，并发现节日意义不止于礼物。该节目延续了苹果与 Peanuts 的合作，双方合作 recently 延长至2030年，史努比还出现在 Apple Watch 表盘、Apple TV 屏保和 iPhone Duo 的 Kid Cue 功能中。《布偶 rock：假日礼物》将于12月4日上线，是 Apple TV 与吉姆·汉森公司的最新合作，讲述 Wembley 被任命为精神队长后，因布偶们误拿雪球摆件而必须鼓起勇气归还的故事。",
-              "source_url": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-11T03:57:28+08:00"
-            },
-            {
-              "title": "iOS 27.2 为六个 iPhone 应用带来新功能",
-              "brief": "iOS 27.2 在多个应用中引入新功能。信息应用新增“建议操作”，当对话内容相关时，会在消息下方显示建议，如创建日历事件、添加提醒或加入备忘录等，该功能曾出现在今夏 iOS 27 测试版中，现已改进回归，用户还可微调建议类型。Apple TV 应用在 iPhone 和 iPad 上新增多用户资料功能，启动时会显示资料选择界面，方便与家人共享设备时分开观看历史和推荐。FaceTime 的双摄同录功能扩展至群聊通话，在 iPhone 17 及更新机型上，用户点击翻转摄像头按钮即可同时传输前后摄像头画面。",
-              "source_url": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-11T03:50:14+08:00"
-            },
-            {
-              "title": "苹果将推出全新 Mac 应用 Harbor，让本地运行 AI 模型更简单",
-              "brief": "据爆料人 Aaron Perris 发现，苹果正在开发一款名为 Harbor 的新 Mac 应用，可将 Mac 变成私人 AI 推理服务器。该应用支持在 Apple 芯片上本地运行开放权重模型，数据不会离开硬件，也不会上传云端。Harbor 还支持通过 Thunderbolt 5 连接多台 Mac，汇集统一内存形成集群，从而运行超出单机容量的大模型并提升并发能力。官方称该应用可在几分钟内完成设置，自动检测设备组网，无需手动配置或命令行操作，并支持在应用内直接浏览、下载和加载模型。目前 Harbor 处于私密预览阶段。",
-              "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-11T03:15:32+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "任天堂即将停止支持谷歌与苹果账号登录",
+              "brief": "任天堂宣布将很快终止对谷歌和苹果账号登录方式的支持，玩家今后将无法继续使用Google或Apple账户直接登录任天堂相关服务。此举意味着依赖第三方快捷登录的用户需要提前迁移至任天堂自有账号体系，以免影响正常访问和游戏进度同步。任天堂尚未公布具体的停用时间表和过渡安排，建议相关用户尽早绑定或注册任天堂账号，并关注官方后续公告，以确保账号数据顺利转移、避免因登录方式失效而造成不便。",
+              "source_url": "https://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-11T07:06:46+08:00"
+            },
+            {
+              "title": "Sideload 播客第 051 期：你会让 Ring 在家中飞行吗？",
+              "brief": "本期 Sideload 播客第 051 期聚焦智能家居设备的新形态，讨论了 Ring 推出的可在家中飞行的监控设备。节目中探讨了这类飞行摄像头在室内巡逻、移动监控方面的应用潜力，以及由此带来的隐私问题：让一台会飞的摄像头环绕家中各处，是否会让住户感到不安。主播们还就该设备的设计、使用场景与安全隐患展开交流，并邀请听众思考是否愿意接受这样的家居安防产品，欢迎订阅并参与互动讨论。",
+              "source_url": "https://9to5google.com/2026/11/10/the-sideload-051-would-you-let-ring-fly-around-your-house/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-11T05:30:00+08:00"
+            },
             {
               "title": "文石Boox Picco迷你电纸书开箱：小巧可爱，值得等待",
               "brief": "文石Boox Picco是一款体积小巧的电子阅读器，作者表示自己期待已久，实际体验后并未感到失望。这款设备凭借便携的尺寸和可爱的外形设计，适合随身携带随时阅读，为喜欢小尺寸电纸书的用户提供了新选择。",
@@ -108,20 +122,6 @@
               "source_url": "https://9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today/",
               "source_name": "9to5Google",
               "published_at": "2026-11-11T04:00:00+08:00"
-            },
-            {
-              "title": "今日安卓应用优惠：《不朽者》《死亡之门》等多款游戏免费或打折",
-              "brief": "本期安卓应用优惠汇总了多款Google Play应用和游戏的免费与折扣信息，包括动作游戏《Undead Slayer》、休闲游戏《Level Come Again》以及独立游戏《Children of Morta》等作品。活动价格限时供应，感兴趣的玩家可尽快前往应用商店领取或购买。",
-              "source_url": "https://9to5toys.com/2026/11/10/todays-highlight-google-play-deals-46/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-11T03:24:24+08:00"
-            },
-            {
-              "title": "11月 Pixel Watch 更新：Create My Widget、手机解锁手表与 Wear OS 7.1",
-              "brief": "谷歌发布 2026 年 11 月 Pixel Watch 更新，带来多项新功能。其中 Create My Widget 允许用户通过自然语言生成自定义表盘小组件；新增手机靠近即可解锁手表的功能，提升使用便利性；系统同时升级至 Wear OS 7.1，带来性能优化与体验改进。此次更新延续了 Pixel 设备定期功能推送的传统，让 Pixel Watch 用户在不更换硬件的情况下持续获得新能力和更流畅的系统体验，进一步强化谷歌可穿戴设备的软件生态。",
-              "source_url": "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-11T03:01:00+08:00"
             }
           ]
         },
@@ -129,45 +129,59 @@
           "name": "Ars Technica",
           "articles": [
             {
-              "title": "Google Fi新增第二个5G网络支持，但拒绝透露是哪家",
-              "brief": "谷歌宣布对其Fi手机服务进行“超级网络”升级。过去几年，Google Fi在美国一直仅使用T-Mobile网络，现在将新增对第二个5G网络的支持，但谷歌拒绝透露具体是哪家运营商。Google Fi于2015年以Project Fi名义推出，最初支持T-Mobile和Sprint两家网络，可根据信号强度自动切换。T-Mobile收购Sprint后，Fi在美国变为单一网络服务，仅在国际漫游时切换网络。此次升级后，Fi手机将能在T-Mobile 5G与另一家5G网络之间切换以获得最佳连接。谷歌官方博客仅称支持“美国两家最好的5G网络”，未点名另一家。作者根据Fi覆盖地图推测可能是Verizon，但不排除AT&T的可能。",
-              "source_url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+              "title": "美军对发射运力紧张局面日益担忧",
+              "brief": "随着SpaceX计划逐步退役猎鹰火箭，美国军方开始担心商业发射供应紧张会威胁国家安全。五角大楼战略资本办公室近两周内两度向SpaceX竞争对手提供资金：10月26日宣布向Stoke Space提供1.5亿美元有条件贷款承诺，周二又宣布向Rocket Lab提供1.5亿美元贷款。这是该办公室自2022年成立以来首次向发射公司提供重大支持。此外，该办公室近期还向卫星跟踪公司LeoLabs提供1.5亿美元贷款用于雷达部署，并向电池、无人机和半导体企业投入数亿美元。",
+              "source_url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-11T03:35:59+08:00"
+              "published_at": "2026-11-11T07:02:39+08:00"
             },
             {
-              "title": "Pixel手机11月更新：新图标样式、Create My Widget等AI功能",
-              "brief": "谷歌Pixel手机迎来季度性Pixel Drop更新，除常规安全补丁外，还带来多项AI新功能。此前仅限最新Pixel手机（部分为三星手机）独享的Gemini智能功能将扩展到Pixel 10系列，但不包括定位入门级的Pixel 10a。Pixel 10系列将获得Pixel 11首发的改进版个性化建议功能（原称Magic Cue），支持从其他应用将购物清单发送到Google Keep、在右键菜单生成摘要等。谷歌AI语音输入系统Rambler也将登陆2025年的手机。Gemini应用自动化功能同样会推向Pixel 10，目前仅限于网约车、外卖、旅行等少数应用类别。此外，3月上线的AI图标主题功能获得更新，新增更多图标样式和AI生成的自创小部件等。",
-              "source_url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+              "title": "亚马逊推出AI安防无人机和机器人，Ring摄像头走向移动化",
+              "brief": "亚马逊11月10日宣布推出Ring Rover Cam巡逻机器人和Ring Drone Cam安防无人机，预计分别于2026年底和2027年初上市。两款设备搭载AI Pilot系统，利用摄像头、设备端传感器和云端处理规划巡逻路线，并自主绕开家具等障碍物。用户需携带无人机走遍室内空间，或让机器人自主探索，以建立家庭或商铺的数字平面图，系统据此识别具体房间并建议在侧门、窗户或收银台等敏感位置附近设置巡逻点。不过，配备AI功能的移动摄像头也可能给家庭和企业带来新的隐私风险。",
+              "source_url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-11T03:00:26+08:00"
+              "published_at": "2026-11-11T06:35:01+08:00"
             },
             {
-              "title": "免费流媒体Tubi推出Mixtapes功能，可分享自建片单",
-              "brief": "Fox旗下免费广告支持的流媒体平台Tubi宣布推出“Mixtapes”功能，用户可以从平台近40万部电影和剧集节目中创建片单，为每个片单添加标题和描述，并自由排列内容顺序。用户可以完全自行创建，也可以描述想要的内容，让Tubi提供初始版本供其编辑、重排或重建。片单完成后可发布分享给他人，也可自己保留。观看Mixtapes无需Tubi账户，但创建需要账户。Mixtapes网站上已有多个片单，如收录《危险游戏》《第五元素》《人人都恨克里斯》等的“千禧回忆之路”。此举旨在应对流媒体内容碎片化以及用户难以找到可看内容的痛点，用户生成推荐有望改善内容发现体验。",
-              "source_url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+              "title": "民主党反对共和党扩充FCC席位，计划调查主席卡尔",
+              "brief": "美国参议院民主党人周二反对特朗普提名的联邦通信委员会（FCC）空缺席位人选，并批评共和党在2027年1月民主党接管国会之前推进确认程序。民主党参议员马基表示，选民刚刚否决了MAGA议程，没有理由在跛脚鸭时期推进党派提名人。被提名人Thumann Severs是FCC主席卡尔的高级法律顾问，她在听证会上回避了关于卡尔批评电视广播公司的提问，称自己未就媒体事务向卡尔提供过建议。民主党还计划利用明年的多数席位对卡尔主席启动调查。",
+              "source_url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-11T02:39:16+08:00"
+              "published_at": "2026-11-11T05:55:26+08:00"
             },
             {
-              "title": "Valve 公布 Steam Deck 帧率数据，性能表现迎来“照妖镜”",
-              "brief": "自 2021 年 Valve 推出 Steam Deck 认证计划以来，玩家发现游戏的“已认证”状态并不总能反映其在掌机上的实际运行效果。Valve 自今年 2 月起收集选择加入的 Steam 玩家的匿名帧率数据，并于近日宣布开始在 Steam 商店页面公布这些数据，以平均值和直方图形式分别展示 Steam Deck 和 Steam Deck OLED 的表现。Valve 承认开启垂直同步或帧率限制可能使数据产生偏差，且未计入玩家自行调整的游戏内设置，但表示帧率数据仍集中在相对狭窄的区间内。这类数据有助于区分“已认证”游戏之间的巨大性能差距，例如《赛博朋克 2077》和《天际：特别版》同为认证游戏，但前者在 Deck 上平均帧率仅 30–40 FPS，后者则可达 50–60 FPS。Valve 表示通用游戏 PC 的类似基准工具也即将推出。",
-              "source_url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+              "title": "Grok Build编程代理泄露大量机密信息，涉及SpaceXSI",
+              "brief": "安全公司Claroc的研究显示，SpaceXSI的Grok Build编程代理正通过应用分享链接泄露用户数据。平台虽对URL进行了随机化处理，但一项设计缺陷使任何人都能枚举数万个活跃的Grok Build项目并访问其数据。暴露的信息包括内部商业计划、广告提案、体检结果、名人邮轮公司的检查清单以及员工姓名和工号。讽刺的是，SpaceXSI自己构建的24个应用也遭泄露，涉及标有机密的入职计划、覆盖594个账户的销售区域地图、内部系统地址等内容。研究人员表示对此感到震惊。",
+              "source_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-11T01:26:44+08:00"
+              "published_at": "2026-11-11T05:12:59+08:00"
             },
             {
-              "title": "高油价导致全球碳排放出现下降",
-              "brief": "东英吉利大学Corinne Le Quéré领导的新分析估计，2026年全球化石燃料排放较去年下降约0.4%，其中石油排放下降1.9%。去年排放增长1.2%，高于2019至2025年均值0.8%。研究人员认为这并非标志气候进展的峰值，而是伊朗战争推高油价带来的短期回落，预计排放趋势仍将延续。全球碳项目团队通过汇编各国化石燃料使用和毁林等数据来追踪排放，并提炼未来数年的关键趋势。",
-              "source_url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+              "title": "当AI成为预言机，数学会走向何方？",
+              "brief": "应用数学家斯蒂芬·斯特罗加茨与亚历克斯·汤森合著的新书《大数学：运行我们世界的隐藏代码》探讨了现代数学面临的变革。从社交媒体算法、物流配送到天气预报、医学影像和机器学习，现代世界依赖数学运转。计算机的兴起让人类得以处理远超大脑能力的巨大数字，而随着大语言模型、AI聊天机器人和量子计算的出现，所谓“大数学”正开始完全超越其创造者。斯特罗加茨曾因小世界网络的奠基性研究闻名，并著有《无穷的力量》等多部畅销科普作品。",
+              "source_url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
               "source_name": "Ars Technica",
-              "published_at": "2026-11-11T00:29:27+08:00"
+              "published_at": "2026-11-11T04:30:01+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "谷歌详解 Android 17 QPR2 稳定版全部新变化",
+              "brief": "谷歌今日向 Pixel 设备推送更新，Android 17 QPR2 正式进入稳定版。此次更新包含大量改动：系统引入自定义色彩调色板，可调节效果强度并预览；新增自适应壁纸，支持明暗模式；开发者可在应用中使用与媒体配合良好的新模糊效果，实现美观的叠加界面。此外，锁屏小组件获得新编辑界面，系统电源菜单模糊效果改进，长按主屏幕时菜单更智能。更新还带来快捷设置、通知和状态栏的刷新，以及多项安全改进和无障碍服务增强。下一个大版本 QPR3 已进入测试阶段，预计明年春季推出。",
+              "source_url": "https://www.androidauthority.com/android-17-qpr2-stable-3733645/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-11T06:19:40+08:00"
+            },
+            {
+              "title": "任天堂将终止谷歌和苹果账号关联登录",
+              "brief": "任天堂发布支持页面宣布，将停止支持使用谷歌和苹果账号关联登录任天堂账号，目标结束日期为 2027 年 1 月 26 日，但官方提醒实际终止时间可能因系统变更工作进度而推迟。届时用户将无法再用谷歌或苹果账号登录任天堂账号，也无法通过这两种方式创建新账号。同时，奖励用户关联账号的 My Nintendo 白金点数任务也将取消。任天堂未说明此举原因。对于已关联账号的用户，官方建议改用与任天堂账号绑定的电子邮箱或登录 ID 和密码登录，也可使用通行密钥，忘记密码可通过登录页面的找回功能重置。",
+              "source_url": "https://www.androidauthority.com/nintendo-ending-google-apple-account-linking-3733635/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-11T05:49:50+08:00"
+            },
             {
               "title": "三星为智能眼镜上市做准备，Galaxy Wearable 应用已支持配对",
               "brief": "三星即将推出基于 Android XR 的智能眼镜，预购定于11月12日开始，据传闻12月中旬发货。据 SamMobile 发现，最新版 Galaxy Wearable 应用已内置对这款即将上市智能眼镜的配对支持，并加入了多张受支持的 Gentle Monster 镜框素材图片。此前三星已连续数月预告部分镜框设计，近期泄露信息也展示了多款型号的外观。如果用户想抢先体验，Warby Parker 和 Gentle Monster 目前均已开始接受店内演示预约。Gentle Monster 将于11月13日至23日在纽约华尔街23号举办预览活动，Warby Parker 则从当日起至12月12日在纽约多个地点提供演示。",
@@ -188,26 +202,33 @@
               "source_url": "https://www.androidauthority.com/pixel-11-hilight-messages-3733139/",
               "source_name": "Android Authority",
               "published_at": "2026-11-11T03:00:51+08:00"
-            },
-            {
-              "title": "Gboard 的 Rambler 语音输入功能扩展至 Pixel 10 系列",
-              "brief": "谷歌随 11 月 Pixel Drop 更新，将 Gboard 的 Rambler 语音输入功能扩展至 Pixel 10、10 Pro、10 Pro XL 和 10 Pro Fold，覆盖所有地区和语言。该功能此前为 Pixel 11 系列独占，能够过滤口语中的填充词，将用户的随口讲述转化为流畅规范的文本，减少传统语音转文字需要反复重录的问题。Pixel 10a 不在支持范围内。用户此前可通过第三方应用 PixelBoard 在旧设备甚至非 Pixel 手机上体验 Rambler，如今 Pixel 10 用户有了官方途径。此外有证据显示该功能未来还可能记住用户纠正过的词语并支持导入自定义词汇。",
-              "source_url": "https://www.androidauthority.com/google-gboard-rambler-pixel-10-series-feature-drop-3733419/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-11T03:00:49+08:00"
-            },
-            {
-              "title": "Pixel 11 的全新 Pixel Search 将扩展至 2021 年以来的所有 Pixel 机型",
-              "brief": "随 2026 年 11 月 Pixel Drop 更新发布，随 Pixel 11 系列推出的全新 Pixel Search 应用正扩展至 Pixel 6 及更新机型，A 系列同样在支持范围内。Pixel 手机主屏幕的常驻搜索栏体验一直与其他安卓设备不同，可同时呈现网页结果与本地文件和应用内容。新版 Pixel Search 进一步强化了这一能力，可搜索 Photos 中的媒体、邮件、日历、设置、Drive、文件、文件夹和对话等内容，还能检索当前运行中的应用界面，并支持自然语言查询，无需输入精确关键词。此前代码中已发现相关扩展线索，此次更新证实了这一推测。",
-              "source_url": "https://www.androidauthority.com/pixel-11-search-natural-language-pixel-6-3733219/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-11T03:00:48+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "小米多款手机将无缘 HyperOS 4 更新",
+              "brief": "小米 HyperOS 4 更新已在中国开始推送，为系统带来类似苹果 Liquid Glass 的透明化界面设计。首批更新于 2026 年 10 月 15 日推送，覆盖小米 17 系列、Redmi K100 和 K90 系列以及小米平板 8，随后将分批扩展至更多机型，直至 2027 年 1 月，官方计划共覆盖 57 款手机和 15 款平板。然而，包括小米 12 和 12T 在内、今年已达或即将达到软件支持期限的机型并不在推送名单中，Redmi Note 12 也无缘此次更新。此外，部分仍在支持期内但未经 HyperOS 4 测试的低端机型能否获得更新尚不确定。目前推送仅限中国市场。",
+              "source_url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-11T07:00:00+08:00"
+            },
+            {
+              "title": "Meta 警告部分 AI 眼镜遇水可能发热，将提供免费更换",
+              "brief": "Meta 正在为其 AI 眼镜推送软件更新，修复少量设备在进水后变得过热的问题。受影响机型包括 Adventurer、Fury、Starfire、Nova 和 Capri 等 Meta 品牌镜框，Oakley 和 Ray-Ban 眼镜不受影响。Meta 表示这是一个影响极少数设备的罕见问题，虽未使用过热一词，但将其比作手机过热时自动关机的机制。据 9to5Google 报道，Meta 在致用户的邮件中指出，过多水分或汗水进入眼镜可能引发发热问题，这与官方宣称的 IPX4 防水等级似乎存在出入。 experiencing 湿气相关关机的用户可联系 Meta 客服获得免费更换。",
+              "source_url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-11T06:05:37+08:00"
+            },
+            {
+              "title": "Meta Quest 版 Disney+ 应用新增 3D 电影",
+              "brief": "Meta 与迪士尼已在 Meta Horizon 商店上线更新版 Disney+ 应用，Quest 头显用户现可观看超过 60 部 3D 电影，包括《玩具总动员 5》《阿凡达：火与烬》《复仇者联盟》和《黑豹》等，并支持杜比全景声和杜比视界。3D 电影包含在 Disney+ 订阅中，但具体可用性因地区和套餐而异。新版应用还提供迪士尼主题沉浸式虚拟环境，如《星球大战》的塔图因、《怪兽电力公司》的惊吓 floor 以及复仇者大厦，用户可在其中观看节目和电影。Meta 还开始在 TV 应用中出售或出租 3D 电影，数据挖掘者还发现 Horizon+ 订阅可能包含 3D 电影。",
+              "source_url": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-11T06:00:00+08:00"
+            },
             {
               "title": "什么是“死亡互联网理论”？人类需要担心吗？",
               "brief": "“死亡互联网理论”认为，如今的互联网越来越多地由机器人和AI生成内容等非人类活动主导。该理论于2010年代后期在论坛上作为阴谋论出现，2021年一篇帖子使其获得更具体的框架。近年来证据不断累积：泰雷兹2026年报告显示机器人流量占比达53%，超过人类活动；OpenAI宣称解决了纳维-斯托克斯问题；Meta还收购了AI聊天机器人互相交流的社交网络Moltbook。文章探讨了该理论的来源及其值得关注的原因。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old/",
               "source_name": "Engadget",
               "published_at": "2026-11-11T03:30:00+08:00"
-            },
-            {
-              "title": "纽约州将独立测试AI模型",
-              "brief": "纽约州州长凯西·霍楚尔周二启动了全美首个州级AI测试项目，不再依赖AI公司自我监管，而是由宾汉姆顿大学的纽约AI责任与研究中心的80多位科学家，利用州政府5亿美元的公私合作项目Empire AI的算力，独立检验AI公司的工作。该中心将测试先进AI系统、研究其风险，为官员决策提供依据，并探索AI在医疗和科学发现等领域的负责任应用。纽约去年签署的RAISE法案要求大型AI开发商在2027年1月1日前注册，公布安全框架和透明度报告，并在72小时内报告重大安全事件。",
-              "source_url": "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-11T03:19:20+08:00"
-            },
-            {
-              "title": "华硕 ROG Zephyrus G14：2020 年与 2026 年价格对比",
-              "brief": "2020 年春季，华硕 ROG Zephyrus G14 的首发价仅为 1050 美元，配备 Ryzen 7 4800HS、8GB 内存和 GTX 1650。而如今直接从华硕购买最低配置需 3600 美元，Best Buy 售价也达 3200 美元，涨幅超过三倍，其中通胀仅占约 320 美元。2020 至 2025 年间，屏幕、机身和显卡的升级使价格增加约 750 美元，而仅最近一代就因内存价格飙升及低价配置从美国市场下架而再涨 1400 美元。也就是说，近三分之二的涨幅来自今年。",
-              "source_url": "https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-11T03:00:00+08:00"
-            },
-            {
-              "title": "Google Rambler 语音听写功能现登陆 Pixel 10 系列",
-              "brief": "Google 在 11 月的 Pixel Drop 更新中，将 Gemini 驱动的听写功能 Rambler 下放至 Pixel 10 系列，让尚未升级 Pixel 11 的用户也能使用这项特色功能。Rambler 可将用户的自然语言口述转化为连贯、语法正确的文本，剔除口头语和冗余词汇，并在用户口述中自我纠正时自动润色。此次更新还为 Pixel 10 带来个性化建议和多步骤自动化工具。此外，可自定义小组件的 Create My Widget 工具登陆手机平台，HiLight 相机模组通知系统新增支持 Google Messages，Pixel Watch 3 及更新机型也支持分步健身训练功能。",
-              "source_url": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-11T03:00:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Meta Quest 上的 VR 版迪士尼 Plus 应用现已支持 3D 电影",
+              "brief": "迪士尼将超过 60 部 3D 电影带到 Meta Quest 上的迪士尼 Plus 应用中。随更新版应用今日推出，迪士尼 Plus 订阅用户可以观看这些 3D 影片，其中包括《复仇者联盟》和《黑豹》等。除 3D 电影外，更新后的 Quest 应用还支持在主题化的沉浸式虚拟环境中观影，例如观看《星球大战：新希望》时进入塔图因环境，或观看《怪物公司》时进入惊吓间环境。此前有记者在试用 Meta 即将推出的 VR 眼镜时体验过复仇者联盟主题沉浸环境，认为短时间内颇有新鲜感，但整部电影期间效果尚不确定。",
+              "source_url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+              "source_name": "The Verge",
+              "published_at": "2026-11-10T17:00:00-05:00"
+            },
+            {
+              "title": "Oura 收购医疗 AI 聊天机器人初创公司 Counsel Health",
+              "brief": "Oura 在公布季度财报时宣布，已同意以 6.25 亿美元收购 Counsel Health。该公司自称“AI 原生初级保健公司”，其 AI 聊天机器人已于今年早些时候接入 Oura 应用，可基于用户智能戒指上报的健康数据生成回复和健康洞察，并能转接至其内部医生进行对话。Oura 表示预计交易将在年底前完成。Oura 首席执行官汤姆·黑尔在接受彭博社采访时表示，此次收购是公司计划的一部分，旨在连接可穿戴设备、临床 AI 与医生服务，基于生物特征数据的洞察回答健康问题或监测持续存在的健康状况，Counsel Health 的聊天机器人可让 Oura 用户直接联系真实医生。",
+              "source_url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+              "source_name": "The Verge",
+              "published_at": "2026-11-10T16:40:31-05:00"
+            },
             {
               "title": "索尼取消服务型射击游戏《Fairgames》",
               "brief": "据彭博社报道，索尼已取消2023年公布的劫案题材游戏《Fairgames》。该游戏曾是索尼PlayStation服务型游戏大规模计划的一部分，但索尼近年来已取消多款服务型游戏，包括《战神》和《最后生还者》系列的相关作品，并在《绝晓》发售后不久将其关停。高管备忘录显示，最近一次测试中玩家反馈和留存数据好坏参半，未达既定目标，公司还提及PVP射击品类市场环境充满挑战。此次取消不会导致裁员，开发商Haven工作室将转而支持其他PlayStation工作室。",
@@ -268,20 +282,6 @@
               "source_url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
               "source_name": "The Verge",
               "published_at": "2026-11-10T14:19:12-05:00"
-            },
-            {
-              "title": "英伟达CEO黄仁勋涉嫌与中国间谍有染，风波威胁美国AI产业",
-              "brief": "英伟达CEO黄仁勋执掌全球市值最高的公司之一，其芯片是支撑美国AI热潮的关键技术，他本人与美国总统及众多要人关系密切。然而他承认曾与一名被怀疑是中国间谍的女性有婚外情，据报道美国情报部门甚至特朗普总统当时已知晓此事。专家向The Verge表示，此事件的影响远超其婚姻、声誉或英伟达本身，可能扰乱整个美国AI产业，并威胁到美国在AI竞赛中领先的地位。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-              "source_name": "The Verge",
-              "published_at": "2026-11-10T14:04:05-05:00"
-            },
-            {
-              "title": "谷歌Pixel Tag追踪器正式发售",
-              "brief": "继三星、摩托罗拉和Pebblebee等厂商推出第三方安卓追踪器之后，谷歌的Pixel Tag追踪器现已开售。该产品于8月首次发布，依托谷歌去年更名为Find Hub的追踪网络和应用工作。Pixel Tag定价与苹果AirTag 2相近，单个售价29.99美元，四件套优惠价99.99美元。其重量为0.4盎司，略轻于AirTag 2，椭圆形设计虽比苹果追踪器长但更薄。它本身没有用于挂扣钥匙、行李等物品的孔洞，但可搭配配件使用。",
-              "source_url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-              "source_name": "The Verge",
-              "published_at": "2026-11-10T14:00:00-05:00"
             }
           ]
         }
@@ -294,39 +294,39 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "意大利汉堡王推出万智牌联名套餐，附汉堡主题牌盒",
-              "brief": "意大利汉堡王与威世智合作推出万智牌主题套餐，暂无扩展至其他国家的计划，但这是威世智早期快餐联名之一，若反响良好未来或推广到更多地区。套餐名为The Great Gathering Bundle，可选香脆鸡肉堡、双层芝士堡或植物基素皇堡，配薯条和饮料，售价19.90欧元（约22美元），供应至11月30日。每份套餐附赠一个汉堡王主题牌盒和100张牌套，设计成皇堡样式，橙色芝麻面包图案配肉饼和配料层。质量不错的牌盒单独售价通常不低于20美元，性价比很高，但唯一的获取方式是前往意大利的汉堡王门店。与宝可梦开心乐园餐不同，此次联名不含促销卡牌，可避免区域限定卡加剧倒卖问题，不过这些牌盒仍可能在eBay上成为抢手货。已有顾客晒图分享，有玩家称赞牌盒质量，但认为牌套略感廉价。",
-              "source_url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
+              "title": "任天堂设立新岗位以保存和整理旗下老游戏",
+              "brief": "任天堂在美国华盛顿州雷德蒙德设立数字档案管理员岗位，负责保存、整理并提升历史软硬件信息的可用性。该职位将为旧系统、平台相关的技术记录、工程文档、源资料和机构知识建立结构化整理框架，并与工程、产品开发、法务和商务团队的专家协作，制定标准与流程，确保历史信息可被检索、使用并为后代保存。岗位为12个月合同制，时薪35至55美元，要求拥有图书情报学、档案学、博物馆学、信息管理或历史等相关学科学位，或同等专业经验。这被视为游戏保护事业的一大进步。",
+              "source_url": "https://www.ign.com/articles/nintendo-opens-new-job-role-to-preserve-and-organize-its-old-games",
               "source_name": "IGN",
-              "published_at": "2026-11-11T03:16:40+08:00"
+              "published_at": "2026-11-11T06:10:22+08:00"
             },
             {
-              "title": "IGN将直播2027年纽约游戏大奖，特洛伊·贝克获传奇奖",
-              "brief": "2027年纽约游戏大奖将于2026年11月19日举行，知名配音演员特洛伊·贝克（曾参演《最后生还者》《夺宝奇兵：古老之圈》）将获得安德鲁·尹传奇奖。该奖以已故纽约游戏评论人圈成员兼记者安德鲁·尹命名，旨在表彰推动游戏行业进步的变革者。纽约游戏评论人圈联合创始人兼总裁哈罗德·戈德堡表示，贝克对游戏文化影响深远，是传奇奖得主的完美人选，并预告颁奖后他将带来现场音乐表演。前任天堂美国总裁雷吉也称赞贝克的表演深深融入了近二十年最受欢迎的多款游戏。贝克还在颁奖典礼前与学生交流，对学生们影响深远。这是第16届纽约游戏大奖，颁奖后贝克将为现场观众举办音乐会，门票售价85美元，可通过Humanitix购买。",
-              "source_url": "https://www.ign.com/articles/ign-to-stream-the-2027-new-york-game-awards",
+              "title": "据报道DC新掌门将优先打造蝙蝠侠、神奇女侠等知名角色，是否重启尚未决定",
+              "brief": "DC影业联合主管詹姆斯·古恩与彼得·萨夫兰已卸任，据报道两人实际是被解职。据The Wrap报道，DC影业新任CEO杰里米·拉查姆未来将专注于热门项目，他受Skydance CEO大卫·埃里森委托，需尽快在银幕上组建正义联盟，优先推进闪电侠、神奇女侠、蝙蝠侠等普通观众都认识的角色项目。目前是否重启整个系列尚未决定。此前DC在古恩领导下推出的宇宙规划面临调整，新领导层被视为采取以知名英雄为核心的保守路线。",
+              "source_url": "https://www.ign.com/articles/dcs-new-leader-will-reportedly-prioritize-more-well-known-characters-like-batman-and-wonder-woman-reboot-has-yet-to-be-decided",
               "source_name": "IGN",
-              "published_at": "2026-11-11T02:20:47+08:00"
+              "published_at": "2026-11-11T05:15:35+08:00"
             },
             {
-              "title": "索尼宣布PlayStation Plus PC应用12月10日停服",
-              "brief": "索尼今日在官方博客宣布，PlayStation Plus PC应用将于12月10日停止服务，今后将专注于主机端用户。索尼解释称，只有极少数（不到0.4%）符合条件的PS Plus高级会员使用PC端应用，此举是为了把资源集中在更多会员想要的高质量体验上，PC端云串流应用将不再可用。这一决定距离索尼退出PlayStation独占游戏的PC移植计划仅数月，索尼互动娱乐CEO赫尔曼·胡尔斯特曾向员工表示，PC移植版品质参差不齐且盈利不足。索尼近来持续从PC平台收缩，包括保留单机游戏主机独占等举措。此次停服意味着PC玩家将无法继续通过云串流方式游玩PS Plus游戏库中的作品，是索尼PC战略进一步收缩的又一标志。",
-              "source_url": "https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc",
+              "title": "魔兽世界怀旧永久服热修将缓解区域过度拥挤并改善阵营平衡",
+              "brief": "魔兽世界永久服因其所有内容在同一服务器上开放，各区域人满为患，玩家难以顺利做任务。暴雪通过热修降低了过度拥挤区域的玩家数量，并称在PvP规则组上调整幅度更大。与以往多服务器架构不同，永久服采用分层技术将玩家分配到世界副本中。拥挤问题在PvE规则组表现为抢怪做任务困难，在PvP规则组则因部落人数远超联盟造成阵营失衡：联盟玩家在野外处于劣势，部落玩家则因暴雪限制角色创建以维持平衡而无法建立新角色。暴雪表示将继续监控并调整。",
+              "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
               "source_name": "IGN",
-              "published_at": "2026-11-11T02:11:51+08:00"
+              "published_at": "2026-11-11T05:08:36+08:00"
             },
             {
-              "title": "罗技推出游戏日福利，员工可请假玩《GTA 6》",
-              "brief": "罗技宣布将推出名为Logi Game Day的员工福利，允许员工在大作发售时休假游玩。此举源于内部研究：81%的玩家认为游戏能增强现实信心、缓解焦虑并提升日常工作表现；另一项研究显示98.8%的企业IT决策者认为游戏能转化为职场技能，如解决问题和在压力下行动。CEO哈内克·法贝尔表示，是时候打破游戏是浪费时间这一刻板印象了。11月19日，罗技游戏部门Logitech G将在圣何塞总部举办直播活动，恰与《GTA 6》发售日重合，由总经理罗宾·皮斯帕宁主持。《GTA 6》目前距发售不到一周，玩家已可预载游戏，预计数百万人将在发售日请假，一些国家甚至提供了相关请假途径，这有望成为本世纪最重大的文化事件之一。",
-              "source_url": "https://www.ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
+              "title": "索尼取消服务型劫案射击游戏Fairgames",
+              "brief": "索尼互动娱乐宣布取消Haven工作室开发的服务型劫案射击游戏Fairgames，距其公布已三年半。工作室不会被关闭，也不会裁员，而是转为支持其他第一方项目的支援工作室。高管在内部信中表示，近期测试虽展现出良好的运营水平和社区参与度，但玩家反馈与留存数据未达预期，加上PvP射击品类市场环境严峻，遂决定终止开发。Fairgames于2023年公布，此后经历了核心开发者离职等波折。此次取消是索尼服务型战略的又一次重大挫折，此前《星鸣特攻》失败、《最后生还者》多人游戏取消，而《绝地潜兵2》则是难得的成功。",
+              "source_url": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
               "source_name": "IGN",
-              "published_at": "2026-11-11T01:42:00+08:00"
+              "published_at": "2026-11-11T05:00:21+08:00"
             },
             {
-              "title": "《马拉松》迎来Symbiosis更新，推出PvE模式并开放免费试玩",
-              "brief": "Bungie将为《马拉松》推出Symbiosis更新，定于12月8日上线。此次更新对早期地图区域Perimeter进行大幅调整，扩展了可游玩区域，外星树木从地表生长，新增通往名为Reservoir的洞穴兴趣点，内设大厅和栈道便于埋伏，还加入了巨型螃蟹Boss。针对因伏击而流失的玩家，游戏推出独立的PvE远征模式，定位为合作PvE roguelite，包含元进程和对局内升级，每局体验各不相同。新升级系统称为Flash Boosts，每次跑图都能以全新方式变得强力，挑战会随层级和玩家力量递增。更新还带来名为Limbo的社交空间，可与好友聚会并测试装备，以及擅长跳跃和挥剑的新Runner Shell角色Bishop。此外还有新武器、新道具，以及帮助玩家提升PvP技巧的死斗模式。",
-              "source_url": "https://www.ign.com/articles/marathon-free-symbiosis-pve",
+              "title": "有人让《光环1》在世嘉Dreamcast上运行",
+              "brief": "游戏开发者、X用户Jilted Valkyrie发布了《光环：梦工厂进化》的实机演示视频，展示了初代《光环》在世嘉Dreamcast上运行的情形，涵盖战役和多人模式，并附有主题音乐和Sidewinder等地图的多人画面，帧率偶有跌破30帧，但不影响移植的技术价值。他透露战役移植已完成77%，并感谢开发者Falco Girgis在KOS和SH4ZAM上的工作。他表示这不是1:1移植，加入了许多新内容，甚至有一个全新模式，预计今年发布。另一方面，微软已将下一代《光环》主线的开发权从Halo工作室移交给动视组建的新团队。",
+              "source_url": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
               "source_name": "IGN",
-              "published_at": "2026-11-11T01:39:58+08:00"
+              "published_at": "2026-11-11T03:47:58+08:00"
             }
           ]
         },
@@ -379,39 +379,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "索尼确认《GTA6》创PlayStation商店数字预购纪录",
+              "brief": "索尼确认《GTA6》刷新了PlayStation商店的数字预购纪录，此时距离游戏正式发售仍有一周以上。实体版采用盒内附带兑换码的形式，部分购买需求可能因此转向数字渠道。Rockstar尚未公布实际预购套数，仅表示成绩超出其外部预期。Sensor Tower估算总预购量约为969万份，其中约75%来自PS5版本，但这些数字均为分析机构推算，未获索尼或Rockstar确认。最终销量以及能否成为行业最大数字首发，仍需等待正式数据。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585858.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-11T06:30:24+08:00"
+            },
+            {
+              "title": "《GTA6》创微软商店预购纪录 Xbox确认十年合作",
+              "brief": "微软Xbox确认《GTA6》创下微软商店预购纪录，但未公布具体数字，其统计口径与PlayStation方面有所不同。Xbox负责人Sharma再次提到，Xbox已与《GTA6》发行商Take-Two建立为期十年的合作关系，但没有公布更多执行细节。现有信息称，该交易允许Take-Two在全部Xbox设备上开发和销售兼容产品，并涉及云串流合作。Take-Two旗下拥有Rockstar的《侠盗猎车》《荒野大镖客》以及2K和Zynga的作品，双方合作的具体范围仍有待官方进一步说明。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585856.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-11T06:29:52+08:00"
+            },
+            {
+              "title": "索尼12月10日起停止提供PC版PlayStation Plus应用",
+              "brief": "索尼宣布自12月10日起停止提供PC版PlayStation Plus应用，引发外界对索尼PC业务策略的讨论。彭博社此前披露，PlayStation工作室业务集团负责人Hermen Hulst曾表示，索尼的大型叙事驱动游戏今后不会再登陆PC，而将转为PlayStation主机独占；前索尼互动娱乐高管吉田修平也曾认为公司可能重新强调平台业务。不过索尼尚未公开确认整体PC战略出现系统性转向，相关说法目前仍是媒体基于多项迹象作出的解读，不能据此断定索尼将全面退出PC市场。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1585854.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-11T06:27:26+08:00"
+            },
+            {
+              "title": "传英伟达或削减台积电芯片订单 内外部压力持续加大",
+              "brief": "据外媒报道，英伟达可能削减台积电芯片订单，其面临的内外部压力持续加大。内部方面，黄仁勋已就一段婚外情道歉，董事会也启动独立调查，以核实其曾遭外国情报行动针对的报道，并表示目前没有理由认为国家安全或机密信息遭泄露。外部方面，更严格的出口审查以及据称在香港出现的H200芯片库存，都可能提高英伟达缩减订单的风险。若订单减少，台积电、日月光投控等上游供应商将首当其冲，AMD及联发科、世芯电子等定制芯片企业可能填补空缺。目前此事仍缺乏官方确认。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585852.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-11T05:41:37+08:00"
+            },
+            {
               "title": "《塞尔达：时之笛 重制版》开局良好 NS2涨价影响有限",
               "brief": "任天堂进入新财年，Switch 2今年早些时候价格涨至500美元，但任天堂认为调价的实际影响目前并不算大，原因包括消费者得到较充分的提前通知，市场上也有多种软硬件套装可供选择。近期的塞尔达传说系列产品为销售提供支撑，任天堂称，为系列40周年设计的特别版Switch 2获得非常积极的市场反响，推动多个地区强劲销售。Circana称该主机在美国帮助任天堂创下销售纪录，分析机构则称《塞尔达：时之笛 重制版》取得英国今年迄今规模最大的实体版首发。",
               "source_url": "https://www.cnbeta.com.tw/articles/game/1585850.htm",
               "source_name": "cnBeta",
               "published_at": "2026-11-11T05:14:53+08:00"
-            },
-            {
-              "title": "《GTA6》新实机宣传片 R星确认主机版只有30帧",
-              "brief": "Rockstar表示，《GTA6》从开发之初便面向当代主机，在PS5、PS5 Pro和Xbox Series X|S上均以30帧为运行目标，同时保留Leonida世界的环境密度与视觉细节。PS5 Pro版将使用PSSR改善画面清晰度，并提供该机型独有的光线追踪阴影。PS5版支持可在辅助功能设置中调整的DualSense触觉反馈、Tempest 3D空间音频以及更快的载入速度。游戏还支持PlayStation和Xbox远程游玩，并将通过Xbox云游戏登陆XSX|S及Xbox One，串流版本采用XSS画面设置。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585848.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-11T05:14:11+08:00"
-            },
-            {
-              "title": "Anthropic七名联合创始人拟在重磅IPO中套现17.5亿美元",
-              "brief": "Anthropic七名联合创始人计划在此次重磅IPO中出售合计17.5亿美元的股票。此次IPO拟募集至多904亿美元，对应估值约1.4万亿美元。根据交易条款，IPO计划于11月18日定价，并于次日开始交易。联合创始人在公司公开发行期间出售如此大规模的股票，可能向市场释放看空信号。不过有学者表示，考虑到Anthropic此次IPO的相对规模，以及市场对内部人士出售股份的态度已经发生变化，这些出售不太可能吓退潜在买家。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585846.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-11T05:13:54+08:00"
-            },
-            {
-              "title": "Anthropic进军人工智能办公软件 IPO前与微软谷歌竞争升温",
-              "brief": "Anthropic在上市临近之际宣布进军人工智能办公软件领域，推出包括Claude Sheets在内的多款新工具，许多工具将以测试版形式向付费用户开放。产品负责人表示，目前Claude Sheets功能相当基础，并非面向财务建模等高级工作，微软和谷歌产品在更高级的企业应用场景仍有其用武之地。Anthropic还宣布允许Adobe、Atlassian和HubSpot等公司把现有应用的版本嵌入Claude。截至10月31日，其年化营收达到810亿美元，正寻求约1.4万亿美元的IPO估值。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585844.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-11T05:12:19+08:00"
-            },
-            {
-              "title": "英伟达独立董事聘请外部律所 对黄仁勋事件展开调查",
-              "brief": "英伟达独立董事聘请外部律所，就媒体有关黄仁勋事件的报道展开调查。与此同时，黄仁勋承认与一名高管发生过婚外情。黄仁勋曾经表示，他与这名女子的关系没有任何不当之处，该女子曾供职的位于新加坡的公司是英伟达的客户。此前美媒分析称，英伟达内部有60人直接向黄仁勋汇报，公司没有二把手，也没有明确的接班人安排。此事件引发外界对英伟达公司治理以及黄仁勋个人情况的广泛关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585842.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-11T05:11:06+08:00"
             }
           ]
         },
@@ -419,39 +419,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "AMD 霄龙嵌入式 9006 系列 SP7 处理器发布：多核吞吐量提升最高 1.8 倍",
-              "brief": "AMD 发布面向嵌入式市场的霄龙 9006 系列 SP7 处理器，主要应用于半导体 ATE 测试设备、企业存储和高端网络防火墙等场景。该系列采用新一代 SP7 规格，LGA 7536 插槽，支持单路或双路服务器，与前代 SP5 插槽物理不兼容。规格上升级支持 PCIe Gen6（96 通道）与 CXL 3.1，16 通道内存支持 MRDIMM 12800MT/s，单插槽理论峰值带宽 1638GB/s，为上一代的 2.7 倍。多核吞吐量较上代提升最高 1.8 倍，防火墙吞吐量提升 1.3 倍，存储加速 ISA-L 性能提升 1.5 倍。该系列还集成 ART 信任根与 Caliptra 开源信任模块，支持后量子固件加密，满足工业长周期供货需求。产品 SKU 覆盖 64 至 256 核，128 核型号 11 月 15 日出货，其余年底陆续交付，三星、立华等厂商已基于该平台开发产品。",
-              "source_url": "https://www.ithome.com/1/025/195.htm",
+              "title": "苹果为 AirPods 5 / AirPods Pro 3 等耳机推送 9B47 固件更新",
+              "brief": "苹果为 AirPods 5、AirPods Pro 3 等耳机推送了 9B47 固件更新，目前为 Beta 版本，官方尚未公布具体更新内容，后续将通过 AirPods 支持文档公布相关信息。用户如需更新，可将 AirPods 连接到运行最新系统的 iPhone、iPad 或 Mac，把耳机放入充电盒合上盖子并接上充电线，静置 30 分钟以上。由于苹果未提供手动更新固件选项，固件更新可能需要数小时才能安装完成。",
+              "source_url": "https://www.ithome.com/1/025/210.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T01:05:05+08:00"
+              "published_at": "2026-11-11T07:11:25+08:00"
             },
             {
-              "title": "《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass",
-              "brief": "《足球经理 27》今日正式发售，国区标准版定价 268 元，预购期间的 10% 首发折扣已于发售日截止。游戏首发同步登陆 PC Game Pass 及 Xbox Game Pass Ultimate 订阅库，提供简体中文界面与字幕但不含中文配音，共支持 20 种语言。本作采用 Denuvo 反篡改保护，每日机器激活最多 5 次。核心玩法围绕俱乐部经营展开，玩家需选择球队、塑造阵容、制定战术。相较前作，本作新增战术效能系统，将引援、训练与战术打法串联；新增战术微调系统，支持场边实时下达调整指令；比赛引擎基于与 Hawk-Eye Innovations 合作及动捕数据全面改进动画，引入多种新技能动作；还与 FIFAe 合作推出全新多人模式 Shuffle Draft，并升级比赛日氛围渲染。",
-              "source_url": "https://www.ithome.com/1/025/194.htm",
+              "title": "Anthropic 发布 IPO 路演视频，启动最高约 643.5 亿美元募资计划",
+              "brief": "Anthropic 发布 IPO 路演视频，正式启动募资计划。此次发行 8.25 亿股，定价区间 70 至 78 美元，按上限计算基础发行规模最高约 643.5 亿美元，其中 8.0135 亿股由公司发行，其余由部分现有股东出售。公司还授予承销商 30 天最多 1.2375 亿股的超额配售选择权。A 类普通股将以代码 ANT 在纳斯达克全球精选市场挂牌。另有报道称 Anthropic 计划向谷歌、英伟达、微软等投资方私募配售 260 亿美元股份，合并融资规模最高可达 904 亿美元。按发行价上限计算，完全稀释估值约 1.4 万亿美元。",
+              "source_url": "https://www.ithome.com/1/025/209.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T00:14:15+08:00"
+              "published_at": "2026-11-11T07:08:45+08:00"
             },
             {
-              "title": "奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车",
-              "brief": "奥迪与上汽战略合作 CEO 舒睿泽表示，未来三年将推出三款新车，聚焦中国市场是未来几年的核心任务。今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，强化奥迪四环品牌与 AUDI 字母标品牌的差异化定位，明确双品牌、双合作伙伴渠道架构。中国一汽将全面强化奥迪四环品牌在智能豪华新能源车型和燃油车型双领域的市场优势；上汽奥迪则聚焦 AUDI 品牌与新能源市场。本月早些时候，专为 AUDI 品牌打造、具备整车开发与端到端能力的奥迪创新技术中心在上海开业。根据规划，双方将基于奥迪 ADP 2.0 智能数字平台联合开发四款全新 AUDI 车型，首款车型计划于 2028 年问世。",
-              "source_url": "https://www.ithome.com/1/025/192.htm",
+              "title": "谷歌免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 自动切换和 Wi-Fi 热点",
+              "brief": "谷歌宣布面向符合条件的用户免费升级 Google Fi 超级网络，功能陆续向 Pixel 9 及更新机型开放。借助 MEP 多启用配置文件技术，单个 eSIM 可同时运行多个 SIM 配置文件，使手机能使用两张美国 5G 网络，在主网络信号减弱或中断时实时切换至备用网络。同时推出扩展版 Wi-Fi Auto Connect+，可在美国数百万个地点自动连接高质量 Wi-Fi，连接可靠性提升至 2 倍、延迟改善 30%，支持 Pixel 5a 及更新机型。两项功能均支持国际漫游，Unlimited Premium 套餐每月含最高 50 GB 国际高速流量，Flexible 为 15 GB。此外 Google Fi 应用将新增 AI 客服 Ask Fi。",
+              "source_url": "https://www.ithome.com/1/025/208.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T23:34:55+08:00"
+              "published_at": "2026-11-11T07:01:30+08:00"
             },
             {
-              "title": "MiniMax 开源 H3-Image 生图模型：10 秒生成一张 4K 图像",
-              "brief": "MiniMax 开源 H3-Image 生图模型，可在 10 秒内生成一张 4096×4096 像素、约 16MP（4K）的高分辨率图像，并具备优秀的指令遵循和多参考图理解能力。该模型在 H3 预训练赋予的图像能力基础上，强化了后训练链路，在数据、强化学习、步数压缩、PE 和部署优化等方面做了大量工作。相比主流的 100 万或 400 万像素，16MP 图片在细节上优势显著，生成速度可达市面主流水平的 5 倍。画面细节和真实感也有明显提升，有别于常见的 AI 感。模型提供开源模型中最强的指令遵循能力，最多支持 16 张参考图片。发布首周，16MP 及以上规格的生成请求还可享受官方价格五折优惠。模型已在 Hugging Face 开源。",
-              "source_url": "https://www.ithome.com/1/025/191.htm",
+              "title": "微软 Xbox One 主机将支持《GTA6》云游戏，但 PC 玩家无缘",
+              "brief": "微软将通过云串流方式让 Xbox One 用户无需购买次世代主机也能游玩《GTA6》，无论使用何种主机进行云游戏，画面设置均为 Xbox Series S 水平。但 PC 玩家无法通过 Xbox 云游戏游玩该作，这种限制属于人为因素，因为 Xbox 云游戏本身早已支持 Windows、智能手机、智能电视和网页浏览器。此外《GTA6》未加入 XGP 游戏库，需单独购买。XGP 订阅设有云游戏时长限制，Essential 每月 5 小时、Premium 10 小时、Ultimate 15 小时，用尽后需额外购买，微软还提供独立时长套餐，如 3.99 美元 10 小时、11.99 美元 50 小时。",
+              "source_url": "https://www.ithome.com/1/025/207.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T23:25:52+08:00"
+              "published_at": "2026-11-11T06:58:28+08:00"
             },
             {
-              "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，跻身全球营收最高企业之列",
-              "brief": "高盛向投资者披露的预测显示，Anthropic 今年营收预计约 520 亿美元，2027 年增至 1360 亿美元，2029 年达到 4420 亿美元，2030 年突破 6000 亿美元，而其 2025 年营收仅为 46 亿美元。若预测成真，这家成立仅约 6 年的公司将跻身全球营收最高企业之列。不过高盛预计，Anthropic 直到 2030 年才能实现自由现金流转正，届时达 336 亿美元；今年第四季度预计净流出 128 亿美元，2027 年净流出规模将达 657 亿美元。按拟定发行价区间上限计算，Anthropic 估值将达 1.4 万亿美元，预计在美国感恩节前完成上市。高盛预计其营业亏损 2027 年达到 404 亿美元峰值，2029 年转正，2030 年营业利润达 652 亿美元。",
-              "source_url": "https://www.ithome.com/1/025/190.htm",
+              "title": "CoreWeave 2026 财年前三季度归母亏损 20.75 亿美元，同比扩大 178.9%",
+              "brief": "CoreWeave 公布 2026 财年前三季度财报：营业总收入约 83.19 亿美元，同比增长 133.6%；毛利润 55.36 亿美元，同比增长 111.7%；毛利率 66.6%，同比下降 6.9 个百分点；归母净利润为亏损 20.75 亿美元，同比亏损扩大 178.9%；经营现金流 56.38 亿美元，同比增长 276.12%。第三财季方面：营业总收入 36.61 亿美元，同比增长 168.21%；毛利润 24.78 亿美元，同比增长 148.8%；归母净亏损 7.09 亿美元，同比扩大 544.55%；经营现金流 19.75 亿美元，同比增长 16.93%。资产负债率为 95.6%，环比增长 2.36 个百分点。",
+              "source_url": "https://www.ithome.com/1/025/200.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-10T23:17:21+08:00"
+              "published_at": "2026-11-11T05:11:03+08:00"
             }
           ]
         }
