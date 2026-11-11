@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T07:19:57.565998+08:00",
+  "generated_at": "2026-11-11T09:20:20.697578+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,59 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "苹果节日礼物指南重点推荐双机版 iPhone 等产品",
+              "brief": "随着购物季临近，苹果本周更新了美国及其他国家官网首页，开始推广节日礼物建议。页面采用缤纷节日风格图像，展示苹果设备并为亲友送礼提供建议。首页重点推荐最新设备，包括 iPhone 18 Pro（1199 美元）、Apple Watch Series 12（399 美元）、MacBook Pro（1999 美元）、Apple HomeView（299 美元）、iPad mini（699 美元）、iPhone Duo（1999 美元）、Apple Watch Ultra 4（799 美元）和 PROLED MacBook Pro（2899 美元）。苹果还推荐可刻字的个性化礼物，如 AirPods Pro 3、AirTag 和 iPad，建议挑选表带搭配 Apple Watch，或自定义 Mac 的芯片、内存、存储与颜色。新节日配件有粉色、藏青、灰色、紫色、浅蓝和黄色等多种配色，来自 Tech21、Herschel、Mophie 和 Belkin 等合作伙伴。苹果预计将举行年度黑色星期五活动，过去曾随设备购买赠送最高 250 美元礼品卡，零售商也在打折。延长退货政策已启动，现在购买的礼物一月份仍可退货。",
+              "source_url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T08:57:36+08:00"
+            },
+            {
+              "title": "印度塔塔 iPhone 零部件工厂三名工人死亡",
+              "brief": "据路透社报道，周一，三名合同工在苹果印度供应商塔塔电子位于泰米尔纳德邦 Hosur 的工厂死亡。该工厂为 iPhone 生产零部件。事发时，工人们正在厂内一座污水处理设施进行维护，在检查一个纳滤罐时吸入气体。该设施由 Nalco Water 运营，涉事工人受雇于一家分包商。苹果、塔塔电子和邦政府官员将调查此事，苹果已派出团队协助调查。由于事发时工厂因排灯节关闭，此次事故未影响 iPhone 生产。该工厂 2024 年曾发生化学品储存区火灾，导致生产中断数天；塔塔电子今年早些时候还遭遇网络攻击，黑客窃取了苹果的机密文件。",
+              "source_url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T08:46:21+08:00"
+            },
+            {
+              "title": "iCloud 邮件、日历、通讯录等多项服务出现故障",
+              "brief": "据苹果系统状态页面显示，部分 iCloud 服务出现故障，受影响的包括 iCloud 日历、iCloud 通讯录、iCloud 邮件、iWork for iCloud 和 Game Center。苹果表示部分用户在使用这些服务时遇到问题。故障始于美国东部时间下午 5 点 49 分。「查找」功能也出现问题，苹果称其可能运行缓慢或无法使用。苹果会在服务恢复后更新状态页面。更新：截至东部时间晚上 7 点 22 分，iCloud 邮件、iCloud 日历和 iCloud 通讯录的故障已被标记为解决，但照片和 iCloud 登录功能目前又出现了问题。",
+              "source_url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T07:53:31+08:00"
+            },
+            {
+              "title": "苹果旗下 Claris 正在测试可在 Mac 上本地运行 AI 的 Harbor 应用",
+              "brief": "苹果子公司 Claris 正在测试一款名为 Harbor 的应用，可将 Apple silicon Mac 变成私有 AI 服务器。Harbor 可在单台 Apple silicon Mac 上运行，也支持通过 Thunderbolt 5 连接多台 Mac，汇集统一内存以运行更大的模型。苹果在 macOS Tahoe 26.2 中增加了基于 Thunderbolt 5 的 RDMA 支持，使集群运行更快。Harbor 可自动检测通过 Thunderbolt 5 连接的设备，用户可在应用内浏览、下载和加载开放权重模型，无需手动配置、命令行或基础设施专业知识，几分钟即可完成设置。数据全程保留在本地硬件上，不会上传云端。通过集群可运行超出单机容量的模型，或处理更多并发请求。Harbor 目前处于早期访问阶段，未公开发布，其 App Store 页面已被移除。Claris 以面向企业的数据库平台 FileMaker 闻名，尚不清楚苹果将如何推广 Harbor 以及是否免费。",
+              "source_url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T07:34:51+08:00"
+            },
+            {
               "title": "iFixit 拆解 PROLED MacBook Pro：揭晓发光 Logo 亮度奥秘",
               "brief": "iFixit 对苹果触屏 PROLED MacBook Pro 进行拆解。由于没有背光，苹果在 Logo 后方使用四颗 LED、反光层和扩散片实现均匀发光，关闭时镜面镀膜让 Logo 呈亮面效果。Logo 维修困难，需拆除屏幕，iFixit 拆解时还损坏了 OLED 面板。转轴与 M6 机型基本相同，只是更硬，便于触控时保持角度。Thunderbolt/USB-C 接口和风扇可更换，但 HDMI、SDXC 卡槽、SSD 和内存均焊在主板上。两台机型互换主板后，Repair Assistant 可让触屏和 Touch ID 等全部正常工作。机身减重来自底盘铝材削减，下盖从 456 克降至 364 克，屏幕总成也轻了 101 克，最终可修复性得分为 5 分（满分 10 分）。",
               "source_url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
               "source_name": "MacRumors",
               "published_at": "2026-11-11T06:02:34+08:00"
-            },
-            {
-              "title": "10款免费iPhone Duo应用推荐",
-              "brief": "MacRumors日前发布了第三批iPhone Duo免费应用推荐，由视频制作人Dan Barbera进行演示介绍。本次推荐列表包括Delta游戏模拟器、Bear、Fantastical、MD Vinyl等多款应用，这些应用均可免费使用或提供免费版本，部分应用带有付费升级选项。此前MacRumors已发布过两批iPhone Duo应用推荐名单，本期汇总了更多值得下载的优秀应用，并邀请读者在评论区分享自己认为值得体验的iPhone Duo应用。",
-              "source_url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T04:27:07+08:00"
-            },
-            {
-              "title": "苹果发布AirPods新固件更新",
-              "brief": "苹果今日为AirPods Pro 2、AirPods Pro 3、AirPods 4、AirPods 5和AirPods Max 2发布了新固件，版本号为9B47，较此前的9A348/9A350有所提升。新固件此前已进行数周测试，但苹果尚未公布具体更新内容，预计将在支持文档中补充相关信息。固件更新需将AirPods连接至苹果设备并接通电源才能自动下载安装，由于没有像其他苹果设备那样的手动更新选项，安装过程可能需要数小时才能完成。",
-              "source_url": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T04:11:26+08:00"
-            },
-            {
-              "title": "苹果在 WWDC 2027 前宣布 Swift 学生挑战赛",
-              "brief": "苹果宣布2027年Swift学生挑战赛，提交作品的时间为2027年2月8日至2月28日。该挑战赛是一项年度竞赛，让全球年轻开发者通过创建应用展示创造力和应用开发技能。学生需提交用Xcode或Swift Playground构建、可在三分钟内体验的应用。今年新增变化是可提交任意平台的应用，而往年仅限iOS设备。赛前苹果提供教程和线上活动，帮助学生了解新的编码智能功能，还有涵盖SwiftUI、人工智能与机器学习以及空间计算的Swift开发教程。苹果将评选在创新、创意、社会影响或包容性方面表现卓越的获奖者，其中杰出获奖者将受邀前往加州库比蒂诺的Apple Park参加WWDC 2027。WWDC 2027具体日期尚未公布，通常于6月举行。",
-              "source_url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T01:28:19+08:00"
-            },
-            {
-              "title": "下一代iPad Air预计将具备的十大新特性",
-              "brief": "据报道，下一代iPad Air将配备OLED显示屏，但刷新率可能仍为60Hz。参考上月发布的新款iPad mini，预计2027年上半年推出的新iPad Air还将带来多项升级，共十大新特性：色彩更鲜艳、对比度更高的OLED屏；更窄的屏幕边框；可选纳米纹理显示屏以减少眩光；M5芯片，性能较现款M4提升约20%；机身更薄约15%、更轻约15%；声学显示屏，利用屏幕振动发声，取消扬声器开孔；IP67级防尘防水；蜂窝版搭载苹果C2基带，上传速度较C1X显著提升；自适应原彩闪光灯，改善拍照和文档扫描；支持快充，使用35W或更高功率充电器30分钟可充至50%。发布时间尚未有确切传闻，明年3月或4月发布的可能性较大。",
-              "source_url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T01:26:26+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "9to5Mac 每日播客：iOS 27.2.1 与 HomeView 传闻",
+              "brief": "本期 9to5Mac Daily 播客讨论了多条苹果相关新闻：据泄露消息，明年的 iPhone Pro 重新设计将取消一个重要按钮；iOS 27.2.1 修复了信息、AirPlay 等方面的安全问题；苹果针对部分 AI 功能推出 50 美元的“智能使用包”；另有爆料称苹果新的 HomeView 将加入两项尚未公布的重要功能。节目每个工作日录制，用户可通过 Apple Podcasts、Overcast、Spotify 等平台收听订阅，也可购买 Daily Plus 获得无广告版本和额外内容。",
+              "source_url": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-11T08:00:34+08:00"
+            },
+            {
+              "title": "苹果确认 iCloud 等多项服务正在发生故障",
+              "brief": "苹果确认 iCloud 等多项服务出现故障。据苹果系统状态页面显示，故障于美东时间下午 5 时 49 分左右开始，受影响的服务包括 iCloud 日历、通讯录、邮件、照片、账户与登录、Game Center 以及 iWork for iCloud；查找功能也可能出现缓慢或不可用的情况，但未被归类为完全中断。社交媒体上有大量用户抱怨无法收发 iCloud 邮件、无法登录 Apple 账户，甚至有用户被强制登出账户。文章邀请读者在评论区反馈是否遇到相关问题。",
+              "source_url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-11T07:48:49+08:00"
+            },
             {
               "title": "iFixit 拆解触屏 MacBook Pro，揭示发光 Apple 标志细节",
               "brief": "iFixit 发布了搭载 PROLED XDR 显示屏的新款 MacBook Pro 拆解视频，探讨了发光 Apple 标志的工作原理、串联 OLED 技术，以及苹果如何将标准 14 英寸机型重量从 1.55 公斤减至 1.38 公斤。拆解显示，串联 OLED 堆叠两个发光层以实现更高亮度，蓝色子像素比红绿更大，有助于延长屏幕寿命。更换 USB-C 接口、风扇或耳机孔仍需拆下整个逻辑板，HDMI、SDXC 接口及内存、存储仍焊接在板上。逻辑板互换测试中，新机成功识别电池、屏幕和 Touch ID，触控和原彩显示正常。发光标志由四颗 LED 配合反射层和扩散层实现，但拆解过程中 OLED 面板被损坏。",
@@ -68,20 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-11T05:34:43+08:00"
-            },
-            {
-              "title": "Spotify AI DJ 新增九种声音并支持减少插话",
-              "brief": "Spotify 对 AI DJ 功能进行扩展，推出更多自定义选项。该功能会结合用户的收听历史，提供音乐与评论混合的个性化体验。Spotify 宣布，在支持 DJ 的市场，Premium 订阅用户可以选择更多英语和西班牙语 DJ 声音，包括七种新英语声音，涵盖英国、美国、爱尔兰、澳大利亚和印度口音，以及两种新西班牙语声音，每种声音都有不同的个性风格。此外，Spotify 新增一个开关，用户可以减少歌曲之间的评论内容，使 DJ 仅在开始播放或切换音乐时进行简短确认，从而减少打扰。",
-              "source_url": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-11T04:48:41+08:00"
-            },
-            {
-              "title": "苹果发布 AirPods Pro 3 等新固件更新",
-              "brief": "苹果发布新款 AirPods 固件，版本号为 9B47，上一次固件更新是九月份随 iOS 27 推出的 9A348，间隔近两个月。目前该固件面向部分搭载 H2 芯片的 AirPods 机型推送，预计最终将覆盖 AirPods Pro 3、AirPods Pro 2、AirPods 5、AirPods 4 和 AirPods Max 2。苹果尚未发布更新说明，预计仅包含错误修复和改进。AirPods 固件无法手动触发安装，而是在后台自动完成。用户可通过保持设备系统最新、AirPods 处于充电盒内并连接电源、靠近已联网的设备等方式加快更新速度，至少等待 30 分钟即可完成。",
-              "source_url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-11T04:06:19+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "希捷新款混合硬盘引发旧问题",
+              "brief": "希捷认为混合硬盘并未过时，宣布推出FireCuda Forge系列存储硬盘。该产品将传统机械盘的大容量与用户自备SSD的高速性能结合，是希捷首个由全新Alkemi智能存储平台驱动和管理的产品。FireCuda Forge现已上架希捷官网，提供8TB（699美元）和20TB（899美元）两种HDD配置，但不包含所需的SSD。用户需自备M.2 2280 NVMe固态硬盘，要求PCIe Gen3或更高，最大支持1TB，读取速度至少2400MB/s、写入至少2000MB/s，建议选用带DRAM缓存的型号。希捷称整套系统读写速度可达2500MB/s和2000MB/s，支持USB4、Windows 11及macOS 26+。在AI热潮推动下，每TB存储价格自本十年初的历史低点大幅上涨，部分SSD价格已达历史低点的两到三倍，机械硬盘同样涨价。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-11T07:30:56+08:00"
+            },
+            {
               "title": "美军对发射运力紧张局面日益担忧",
               "brief": "随着SpaceX计划逐步退役猎鹰火箭，美国军方开始担心商业发射供应紧张会威胁国家安全。五角大楼战略资本办公室近两周内两度向SpaceX竞争对手提供资金：10月26日宣布向Stoke Space提供1.5亿美元有条件贷款承诺，周二又宣布向Rocket Lab提供1.5亿美元贷款。这是该办公室自2022年成立以来首次向发射公司提供重大支持。此外，该办公室近期还向卫星跟踪公司LeoLabs提供1.5亿美元贷款用于雷达部署，并向电池、无人机和半导体企业投入数亿美元。",
               "source_url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
@@ -155,13 +162,6 @@
               "source_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-11T05:12:59+08:00"
-            },
-            {
-              "title": "当AI成为预言机，数学会走向何方？",
-              "brief": "应用数学家斯蒂芬·斯特罗加茨与亚历克斯·汤森合著的新书《大数学：运行我们世界的隐藏代码》探讨了现代数学面临的变革。从社交媒体算法、物流配送到天气预报、医学影像和机器学习，现代世界依赖数学运转。计算机的兴起让人类得以处理远超大脑能力的巨大数字，而随着大语言模型、AI聊天机器人和量子计算的出现，所谓“大数学”正开始完全超越其创造者。斯特罗加茨曾因小世界网络的奠基性研究闻名，并著有《无穷的力量》等多部畅销科普作品。",
-              "source_url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-11T04:30:01+08:00"
             }
           ]
         },
@@ -209,45 +209,52 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "小米多款手机将无缘 HyperOS 4 更新",
-              "brief": "小米 HyperOS 4 更新已在中国开始推送，为系统带来类似苹果 Liquid Glass 的透明化界面设计。首批更新于 2026 年 10 月 15 日推送，覆盖小米 17 系列、Redmi K100 和 K90 系列以及小米平板 8，随后将分批扩展至更多机型，直至 2027 年 1 月，官方计划共覆盖 57 款手机和 15 款平板。然而，包括小米 12 和 12T 在内、今年已达或即将达到软件支持期限的机型并不在推送名单中，Redmi Note 12 也无缘此次更新。此外，部分仍在支持期内但未经 HyperOS 4 测试的低端机型能否获得更新尚不确定。目前推送仅限中国市场。",
-              "source_url": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
+              "title": "可录蓝光光盘的平均寿命有多长？",
+              "brief": "蓝光如今虽已被下载、流媒体和闪存边缘化，但仍是影音发烧友的首选格式，且在闪存涨价背景下更适合长期存档。可录蓝光光盘（BD-R）的主要威胁是“光盘腐烂”，包括反射层氧化、受潮发霉或分层、紫外线照射等，通常可先观察到变色或斑点。据加拿大保护研究所数据，最便宜的BD-R平均仅能维持五到十年，不适合任何存档项目，因为外置固态硬盘的寿命至少更长。",
+              "source_url": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
               "source_name": "Engadget",
-              "published_at": "2026-11-11T07:00:00+08:00"
+              "published_at": "2026-11-11T09:00:00+08:00"
             },
             {
-              "title": "Meta 警告部分 AI 眼镜遇水可能发热，将提供免费更换",
-              "brief": "Meta 正在为其 AI 眼镜推送软件更新，修复少量设备在进水后变得过热的问题。受影响机型包括 Adventurer、Fury、Starfire、Nova 和 Capri 等 Meta 品牌镜框，Oakley 和 Ray-Ban 眼镜不受影响。Meta 表示这是一个影响极少数设备的罕见问题，虽未使用过热一词，但将其比作手机过热时自动关机的机制。据 9to5Google 报道，Meta 在致用户的邮件中指出，过多水分或汗水进入眼镜可能引发发热问题，这与官方宣称的 IPX4 防水等级似乎存在出入。 experiencing 湿气相关关机的用户可联系 Meta 客服获得免费更换。",
-              "source_url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
+              "title": "你的Roku可能插错了HDMI接口",
+              "brief": "外接流媒体设备仍有价值，比如电视处理器跟不上新应用，或用户偏好特定生态。Roku设备大多不依赖HDMI 2.1及更高版本的独有功能，现代电视至少支持HDMI 2.0，4K、HDR10+、杜比全景声和杜比视界都能在2.0上运行，未必是最佳形态。120Hz以上刷新率主要利于游戏，而Roku最高端的Ultra也锁定60Hz。电视电影多为24fps，新闻为30fps，YouTube、Twitch和直播电视常见60fps，现代Roku均可支持。",
+              "source_url": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
               "source_name": "Engadget",
-              "published_at": "2026-11-11T06:05:37+08:00"
+              "published_at": "2026-11-11T08:30:00+08:00"
             },
             {
-              "title": "Meta Quest 版 Disney+ 应用新增 3D 电影",
-              "brief": "Meta 与迪士尼已在 Meta Horizon 商店上线更新版 Disney+ 应用，Quest 头显用户现可观看超过 60 部 3D 电影，包括《玩具总动员 5》《阿凡达：火与烬》《复仇者联盟》和《黑豹》等，并支持杜比全景声和杜比视界。3D 电影包含在 Disney+ 订阅中，但具体可用性因地区和套餐而异。新版应用还提供迪士尼主题沉浸式虚拟环境，如《星球大战》的塔图因、《怪兽电力公司》的惊吓 floor 以及复仇者大厦，用户可在其中观看节目和电影。Meta 还开始在 TV 应用中出售或出租 3D 电影，数据挖掘者还发现 Horizon+ 订阅可能包含 3D 电影。",
-              "source_url": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+              "title": "iFixit拆解揭示苹果发光PROLED MacBook标志原理",
+              "brief": "iFixit拆解了苹果首款触屏MacBook Pro，并展示发光标志的物理结构。旧款LCD MacBook靠屏幕背光透过开孔照亮标志，而OLED屏无需背光，苹果改用显示屏后方四颗LED组成的灯带，光线经扩散器反射照亮标志，标志表面还做了类似双向镜的镀膜，关闭时呈金属反光、开启时透光。苹果2016年取消发光标志，如今在弃用背光屏后重新带回。新机还通过减少铝材、缩小触控板和改良铰链实现更轻，但维修难度并未降低。",
+              "source_url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
               "source_name": "Engadget",
-              "published_at": "2026-11-11T06:00:00+08:00"
+              "published_at": "2026-11-11T08:03:54+08:00"
             },
             {
-              "title": "什么是“死亡互联网理论”？人类需要担心吗？",
-              "brief": "“死亡互联网理论”认为，如今的互联网越来越多地由机器人和AI生成内容等非人类活动主导。该理论于2010年代后期在论坛上作为阴谋论出现，2021年一篇帖子使其获得更具体的框架。近年来证据不断累积：泰雷兹2026年报告显示机器人流量占比达53%，超过人类活动；OpenAI宣称解决了纳维-斯托克斯问题；Meta还收购了AI聊天机器人互相交流的社交网络Moltbook。文章探讨了该理论的来源及其值得关注的原因。",
-              "source_url": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
+              "title": "如何在公开发布前为iPad获取Siri相机升级",
+              "brief": "愿意安装测试版系统的苹果用户可提前体验新功能，但需承担软件出错的风险。支持iPhone相机应用中的Siri模式将随iPadOS 27.3登陆兼容iPad，可对着镜头指向的物体向Siri AI提问。该功能即视觉智能，iPad版独有Apple Pencil支持，类似谷歌圈选搜索，可拍照后圈出物品让Siri AI提供信息。视觉智能已支持M1及更新芯片的iPad Pro、iPad Air和A17 Pro或A20 Pro芯片的iPad mini，目前可通过长按相机控制键或操作按钮进入，新系统还可在取景器中滑动切换。",
+              "source_url": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
               "source_name": "Engadget",
-              "published_at": "2026-11-11T05:00:00+08:00"
+              "published_at": "2026-11-11T08:00:00+08:00"
             },
             {
-              "title": "史上最畅销游戏主机已有超过25年历史",
-              "brief": "索尼PlayStation 2仍是史上最畅销的游戏主机，13年间出货超过1.6亿台。其成功因素包括：发售时内置DVD播放器，恰逢实体媒体盛行；当时市场上几乎没有竞争对手，世嘉Dreamcast已被预先炒作的PS2压制，GameCube和初代Xbox则到2001年底才上市；此外索尼长期销售该主机，直到2013年PS4发布后才停产，并通过降价扩大销量。不过任天堂初代Switch目前仅落后数百万台，且仍在销售，PS2的领先优势正在缩小。",
-              "source_url": "https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old/",
+              "title": "英伟达股东起诉公司及CEO黄仁勋",
+              "brief": "英伟达CEO黄仁勋与现被指为中国政府间谍的女性艾丽斯·黄的关系风波或进入法庭阶段。股东马克·基斯滕马赫提起诉讼，指控英伟达和黄仁勋就CEO与该名前Megaspeed高管关系的性质误导投资者，并寻求代表10月9日至11月8日期间买入英伟达股票的投资者发起集体诉讼。10月9日《纽约时报》报道两家公司存在关联，英伟达称属正常业务关系；10月29日该报称黄仁勋成为疑似中国情报行动目标；随后黄仁勋承认婚外情，公司宣布调查。英伟达股价大跌，两天内市值或损失超4700亿美元。",
+              "source_url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
               "source_name": "Engadget",
-              "published_at": "2026-11-11T03:30:00+08:00"
+              "published_at": "2026-11-11T07:42:04+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "微软DLSS竞品Auto SR正式登陆Xbox Ally X并支持掌机模式",
+              "brief": "微软宣布正式推出自动超分辨率技术Auto SR，这一可与英伟达DLSS竞争的升级技术现已面向Xbox Ally X、Xbox Ally X20以及部分Windows Copilot Plus PC推出。今年4月微软开始在Xbox Ally X上测试Auto SR，但当时仅能在连接底座时使用。此次正式版新增了掌机模式和电池供电下使用的支持，同时支持以1080p分辨率运行的游戏。不过微软指出，掌机模式及1080p下游玩的性能表现可能不及其他配置下的最佳水平。",
+              "source_url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+              "source_name": "The Verge",
+              "published_at": "2026-11-10T19:34:24-05:00"
+            },
             {
               "title": "Meta Quest 上的 VR 版迪士尼 Plus 应用现已支持 3D 电影",
               "brief": "迪士尼将超过 60 部 3D 电影带到 Meta Quest 上的迪士尼 Plus 应用中。随更新版应用今日推出，迪士尼 Plus 订阅用户可以观看这些 3D 影片，其中包括《复仇者联盟》和《黑豹》等。除 3D 电影外，更新后的 Quest 应用还支持在主题化的沉浸式虚拟环境中观影，例如观看《星球大战：新希望》时进入塔图因环境，或观看《怪物公司》时进入惊吓间环境。此前有记者在试用 Meta 即将推出的 VR 眼镜时体验过复仇者联盟主题沉浸环境，认为短时间内颇有新鲜感，但整部电影期间效果尚不确定。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
               "source_name": "The Verge",
               "published_at": "2026-11-10T14:40:52-05:00"
-            },
-            {
-              "title": "Starlink Mini 2新增可更换电池",
-              "brief": "SpaceX发布了新一代一体化卫星上网终端Starlink Mini 2，将天线、Wi-Fi路由器和电池集成在一个笔记本电脑大小的设备中。据部分用户在X上分享的订购邀请截图，该终端定价999美元，包含SpaceX估值2100美元的一年Roam Unlimited服务。SpaceX宣称满电续航最长可达4.5小时，用户可通过热插拔单独出售的备用电池延长使用时间，也可通过USB-C连接60W电源供电。尽管新增了内置电池，Starlink Mini 2的机身反而更薄，厚度缩减至23.1毫米。",
-              "source_url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-              "source_name": "The Verge",
-              "published_at": "2026-11-10T14:19:12-05:00"
             }
           ]
         }
@@ -293,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "知情人士称《灯笼》将不会续订第二季",
+              "brief": "据Variety报道，一位DC Studios内部人士透露，HBO真人剧《灯笼》将不会续订第二季。此前詹姆斯·古恩与彼得·萨夫兰已于11月9日宣布离开DC Studios，古恩称不喜欢职位的“企业化”一面。DCU前三部电影口碑不一：《超人》反响较好，《女超人》和《泥面人》则评价参差。而《灯笼》播出后大获成功，收视可与《匹兹堡医护前线》比肩，观众喜爱凯尔·钱德勒饰演的哈尔·乔丹与亚伦·皮埃尔饰演的约翰·斯图尔特。十月时该剧联合主创达蒙·林德洛夫曾透露编剧已在构思第二季，萨夫兰也确认续订取决于能否拿出值得延续的故事。如今传出不再续订的消息，令粉丝颇为震惊。",
+              "source_url": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
+              "source_name": "IGN",
+              "published_at": "2026-11-11T08:18:08+08:00"
+            },
+            {
+              "title": "奥尼尔主演新游戏节目：参赛者需在众目睽睽下藏起他",
+              "brief": "ABC将推出全新游戏节目《你能藏住……沙克吗？》，由NBA传奇球星沙奎尔·奥尼尔主演。节目定于12月3日周四晚9点在ABC和ESPN应用开播，前两集连播，12月4日起可在Hulu流媒体观看。节目规则为两支参赛队伍在德克萨斯州达拉斯的公共场所比拼，挑战在众目睽睽之下藏起身高7英尺1英寸、全球辨识度极高的奥尼尔。每队需在限定时间内完成任务，被发现次数最少的一队可获得下轮免罚资格并产生队长，各队还需合作赢取奖金注入“沙克奖池”，最终由一名胜者独得。节目由喜剧演员妮可·拜尔主持，由Jersey Legends Productions与Fulwell娱乐联手ESPN制作。",
+              "source_url": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
+              "source_name": "IGN",
+              "published_at": "2026-11-11T07:26:41+08:00"
+            },
             {
               "title": "任天堂设立新岗位以保存和整理旗下老游戏",
               "brief": "任天堂在美国华盛顿州雷德蒙德设立数字档案管理员岗位，负责保存、整理并提升历史软硬件信息的可用性。该职位将为旧系统、平台相关的技术记录、工程文档、源资料和机构知识建立结构化整理框架，并与工程、产品开发、法务和商务团队的专家协作，制定标准与流程，确保历史信息可被检索、使用并为后代保存。岗位为12个月合同制，时薪35至55美元，要求拥有图书情报学、档案学、博物馆学、信息管理或历史等相关学科学位，或同等专业经验。这被视为游戏保护事业的一大进步。",
@@ -313,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/world-of-warcraft-forever-hotfix-will-thin-out-overcrowded-zones-and-help-faction-balance",
               "source_name": "IGN",
               "published_at": "2026-11-11T05:08:36+08:00"
-            },
-            {
-              "title": "索尼取消服务型劫案射击游戏Fairgames",
-              "brief": "索尼互动娱乐宣布取消Haven工作室开发的服务型劫案射击游戏Fairgames，距其公布已三年半。工作室不会被关闭，也不会裁员，而是转为支持其他第一方项目的支援工作室。高管在内部信中表示，近期测试虽展现出良好的运营水平和社区参与度，但玩家反馈与留存数据未达预期，加上PvP射击品类市场环境严峻，遂决定终止开发。Fairgames于2023年公布，此后经历了核心开发者离职等波折。此次取消是索尼服务型战略的又一次重大挫折，此前《星鸣特攻》失败、《最后生还者》多人游戏取消，而《绝地潜兵2》则是难得的成功。",
-              "source_url": "https://www.ign.com/articles/playstation-cancels-live-service-heist-shooter-fairgames",
-              "source_name": "IGN",
-              "published_at": "2026-11-11T05:00:21+08:00"
-            },
-            {
-              "title": "有人让《光环1》在世嘉Dreamcast上运行",
-              "brief": "游戏开发者、X用户Jilted Valkyrie发布了《光环：梦工厂进化》的实机演示视频，展示了初代《光环》在世嘉Dreamcast上运行的情形，涵盖战役和多人模式，并附有主题音乐和Sidewinder等地图的多人画面，帧率偶有跌破30帧，但不影响移植的技术价值。他透露战役移植已完成77%，并感谢开发者Falco Girgis在KOS和SH4ZAM上的工作。他表示这不是1:1移植，加入了许多新内容，甚至有一个全新模式，预计今年发布。另一方面，微软已将下一代《光环》主线的开发权从Halo工作室移交给动视组建的新团队。",
-              "source_url": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
-              "source_name": "IGN",
-              "published_at": "2026-11-11T03:47:58+08:00"
             }
           ]
         },
@@ -419,39 +419,58 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "苹果为 AirPods 5 / AirPods Pro 3 等耳机推送 9B47 固件更新",
-              "brief": "苹果为 AirPods 5、AirPods Pro 3 等耳机推送了 9B47 固件更新，目前为 Beta 版本，官方尚未公布具体更新内容，后续将通过 AirPods 支持文档公布相关信息。用户如需更新，可将 AirPods 连接到运行最新系统的 iPhone、iPad 或 Mac，把耳机放入充电盒合上盖子并接上充电线，静置 30 分钟以上。由于苹果未提供手动更新固件选项，固件更新可能需要数小时才能安装完成。",
-              "source_url": "https://www.ithome.com/1/025/210.htm",
+              "title": "谷歌拟为 Chrome 无痕/访客模式加入实时安全检查，防范钓鱼网站",
+              "brief": "据IT之家报道，谷歌正为Chrome浏览器的无痕模式和访客模式加入实时安全检查功能，以防范钓鱼网站、恶意软件页面等网络威胁。根据Chromium代码变更日志，这项调整将覆盖标准保护和增强型保护两种设置。目前Chrome在无痕模式下可能仅依赖设备本地保存的不安全网站列表进行比对，而这类列表通常每30至60分钟才更新一次，但不少恶意网站存活时间不足10分钟，可能在本地列表更新前就完成攻击后消失。正在开发的改动让浏览器不再只依赖本地列表，而是可以实时检查较新的威胁信息，缩短防护空窗，更及时地识别新发现的钓鱼页面和恶意网站。",
+              "source_url": "https://www.ithome.com/1/025/241.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T07:11:25+08:00"
+              "published_at": "2026-11-11T09:10:01+08:00"
             },
             {
-              "title": "Anthropic 发布 IPO 路演视频，启动最高约 643.5 亿美元募资计划",
-              "brief": "Anthropic 发布 IPO 路演视频，正式启动募资计划。此次发行 8.25 亿股，定价区间 70 至 78 美元，按上限计算基础发行规模最高约 643.5 亿美元，其中 8.0135 亿股由公司发行，其余由部分现有股东出售。公司还授予承销商 30 天最多 1.2375 亿股的超额配售选择权。A 类普通股将以代码 ANT 在纳斯达克全球精选市场挂牌。另有报道称 Anthropic 计划向谷歌、英伟达、微软等投资方私募配售 260 亿美元股份，合并融资规模最高可达 904 亿美元。按发行价上限计算，完全稀释估值约 1.4 万亿美元。",
-              "source_url": "https://www.ithome.com/1/025/209.htm",
+              "title": "iPhone 17 双重补贴后低至 4990 元",
+              "brief": "据IT之家消息，京东平台iPhone 17手机256GB白色版本在叠加优惠券和补贴后价格降至4990.01元，近期好价跌破5000元关口。该价格需领取200元优惠券，仅白色款可享此价格，由京东发货并提供售后服务。此外，京东11.11红包活动至高可获得26888元无门槛红包，每天可抽取一次；淘宝11.11也有面额至高26888元的无门槛红包，每天可抽一次。文内含有的对外跳转链接用于传递更多信息、节省甄选时间，结果仅供参考。此前苹果iPhone 17系列全系降价后销量回升，消息称其中国区累积激活已超3000万台。",
+              "source_url": "https://www.ithome.com/1/025/240.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T07:08:45+08:00"
+              "published_at": "2026-11-11T09:08:47+08:00"
             },
             {
-              "title": "谷歌免费升级 Google Fi 超级网络：Pixel 9 系列支持双 5G 自动切换和 Wi-Fi 热点",
-              "brief": "谷歌宣布面向符合条件的用户免费升级 Google Fi 超级网络，功能陆续向 Pixel 9 及更新机型开放。借助 MEP 多启用配置文件技术，单个 eSIM 可同时运行多个 SIM 配置文件，使手机能使用两张美国 5G 网络，在主网络信号减弱或中断时实时切换至备用网络。同时推出扩展版 Wi-Fi Auto Connect+，可在美国数百万个地点自动连接高质量 Wi-Fi，连接可靠性提升至 2 倍、延迟改善 30%，支持 Pixel 5a 及更新机型。两项功能均支持国际漫游，Unlimited Premium 套餐每月含最高 50 GB 国际高速流量，Flexible 为 15 GB。此外 Google Fi 应用将新增 AI 客服 Ask Fi。",
-              "source_url": "https://www.ithome.com/1/025/208.htm",
+              "title": "微软确认 Win11 23H2 企业版、教育版正式结束支持",
+              "brief": "据IT之家报道，微软确认Windows 11 23H2企业版和教育版已达到更新支持期限，2026年11月安全更新KB5131087是这两个版本的最后一次更新。家庭版和专业版此前已于2025年11月11日结束支持。该更新对应系统版本号OS Build 22631.7711，修复了通过设置添加Active Directory发布打印机时可能出错的问题，改善NTLM安全机制以降低中继攻击风险，并收紧PowerShell脚本签名验证机制。微软建议仍运行23H2的用户升级至受支持版本，其中24H2企业版和教育版支持至2027年10月，25H2至2028年10月，26H2至2029年10月。",
+              "source_url": "https://www.ithome.com/1/025/239.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T07:01:30+08:00"
+              "published_at": "2026-11-11T09:07:44+08:00"
             },
             {
-              "title": "微软 Xbox One 主机将支持《GTA6》云游戏，但 PC 玩家无缘",
-              "brief": "微软将通过云串流方式让 Xbox One 用户无需购买次世代主机也能游玩《GTA6》，无论使用何种主机进行云游戏，画面设置均为 Xbox Series S 水平。但 PC 玩家无法通过 Xbox 云游戏游玩该作，这种限制属于人为因素，因为 Xbox 云游戏本身早已支持 Windows、智能手机、智能电视和网页浏览器。此外《GTA6》未加入 XGP 游戏库，需单独购买。XGP 订阅设有云游戏时长限制，Essential 每月 5 小时、Premium 10 小时、Ultimate 15 小时，用尽后需额外购买，微软还提供独立时长套餐，如 3.99 美元 10 小时、11.99 美元 50 小时。",
-              "source_url": "https://www.ithome.com/1/025/207.htm",
+              "title": "索尼将于 12 月 10 日下线 PC 版 PlayStation Plus 云游戏应用",
+              "brief": "据IT之家报道，索尼宣布将于12月10日下线PC版PlayStation Plus云游戏应用程序。PlayStation表示会定期评估服务内容，确保专注于会员最重视的游戏体验。数据显示，在符合条件的PlayStation Plus Premium会员中，仅有不足0.4%的用户在PC上使用该应用程序游玩云游戏，使用率过低是应用被放弃的原因。与此同时，PlayStation还公布了新一批11月游戏目录，包括适用于Extra和Premium等级的《死亡搁浅2：冥滩之上》《人中之龙8外传：夏威夷海盗》《勇者斗恶龙III高清2D重制版》等，以及Premium等级的《灵魂掠夺者2》等游戏。",
+              "source_url": "https://www.ithome.com/1/025/237.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T06:58:28+08:00"
+              "published_at": "2026-11-11T09:06:53+08:00"
             },
             {
-              "title": "CoreWeave 2026 财年前三季度归母亏损 20.75 亿美元，同比扩大 178.9%",
-              "brief": "CoreWeave 公布 2026 财年前三季度财报：营业总收入约 83.19 亿美元，同比增长 133.6%；毛利润 55.36 亿美元，同比增长 111.7%；毛利率 66.6%，同比下降 6.9 个百分点；归母净利润为亏损 20.75 亿美元，同比亏损扩大 178.9%；经营现金流 56.38 亿美元，同比增长 276.12%。第三财季方面：营业总收入 36.61 亿美元，同比增长 168.21%；毛利润 24.78 亿美元，同比增长 148.8%；归母净亏损 7.09 亿美元，同比扩大 544.55%；经营现金流 19.75 亿美元，同比增长 16.93%。资产负债率为 95.6%，环比增长 2.36 个百分点。",
-              "source_url": "https://www.ithome.com/1/025/200.htm",
+              "title": "飞利浦推出 Evnia 27M2D5901A 显示器：5K 180Hz / 2K 350Hz 双模",
+              "brief": "据IT之家报道，飞利浦推出Evnia 27M2D5901A显示器，采用27英寸Fast IPS面板，支持双模显示。在5K（5120×2880）分辨率下原生刷新率为165Hz，支持超频至180Hz；用户可切换至2K（2560×1440）模式，默认刷新率330Hz，可超频到350Hz。显示器背部配备Ambiglow RGB炫彩灯光，可通过飞利浦Evnia Precision Center与兼容Matter协议的智能照明设备同步灯光效果。该显示器通过VESA DisplayHDR 400认证，支持HDR10，可显示10.7亿种颜色，配备USB-C等接口，最高可为笔记本提供96W供电，还内置KVM切换器，可用同一套键鼠控制两台设备。",
+              "source_url": "https://www.ithome.com/1/025/235.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T05:11:03+08:00"
+              "published_at": "2026-11-11T09:00:30+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "任天堂通过23.5.0固件修复Switch 2关键越狱漏洞",
+              "brief": "任天堂日前为Switch 2推出23.5.0版系统固件，越狱社区分析显示，新版固件已修复NS2JB软件破解链依赖的关键系统漏洞，升级后无法再通过该开源项目越狱。NS2JB项目于10月下旬发布，利用SmileBASIC 4等软件作为入口，结合系统漏洞突破游戏权限限制，用户无需安装硬件芯片即可运行自制程序、修改游戏数据和提取数据。新固件中SmileBASIC等软件本身的漏洞未被修复，但任天堂封堵了利用该漏洞获取系统权限的能力。NS2JB属于软破解，主机重启后需重新执行流程。停留在旧版固件的玩家仍可继续越狱，但后续部分游戏或系统服务可能强制要求更新固件。",
+              "source_url": "https://www.landian.news/archives/128230.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-11T09:00:00+08:00"
+            },
+            {
+              "title": "Steam商店新增游戏平均帧率显示功能",
+              "brief": "V社日前宣布Steam商店新增游戏平均帧率功能，基于不同硬件统计游戏运行时的平均帧率，帮助玩家在购买游戏前了解性能表现。该功能通过Steam客户端收集匿名数据并进行加权统计，Steam测试版客户端已开始收集。玩家目前可在Steam Deck兼容性的了解详情选项中查看游戏平均帧率，同时Steam还提供帧率分布直方图，帮助玩家了解数据集中在某帧率水平还是在高低帧率间波动。现阶段该功能仅支持Steam Deck设备，V社计划未来支持普通PC。由于桌面电脑处理器、显卡和内存配置差异较大，届时Steam需结合不同硬件加权计算参考值，让玩家了解与自己配置相近的电脑可获得的帧率。",
+              "source_url": "https://www.landian.news/archives/128229.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-11T08:30:00+08:00"
             }
           ]
         }
