@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T17:20:03.429771+08:00",
+  "generated_at": "2026-11-11T19:20:10.800928+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "让 Apple Watch 监听门铃等环境声音",
+              "brief": "苹果在 iPhone 上提供的辅助功能“声音识别”可监听门铃、警报器等重要环境声音，并在听到时发送通知。该功能现已扩展至 Apple Watch Series 12 和 Apple Watch Ultra 4，即使 iPhone 不在身边，提醒也会到达手腕。此功能对听障人士尤为实用，日常场景也有帮助，例如佩戴降噪耳机工作时仍可不错过快递上门的门铃。声音识别可检测火灾警报、警笛、烟雾警报、猫狗叫声、汽车喇叭、敲门声、玻璃破碎、婴儿哭声等 15 种声音。使用时需将 Series 12 或 Ultra 4 与运行 iOS 27 的 iPhone 11 或更新机型配对，在设置应用的辅助功能中开启声音识别并启用“使用 Apple Watch 检测”。苹果表示声音处理在设备端完成，不会录音存储，但不应将其视为安全系统。",
+              "source_url": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-11T18:03:54+08:00"
+            },
             {
               "title": "苹果支持社区论坛将于11月20日永久关闭",
               "brief": "苹果今日宣布，运营已久的Apple Support Community讨论论坛将于11月20日星期五永久关闭。即日起论坛已进入只读状态，不再接受新帖子，最后一条消息似乎于太平洋时间下午5点49分发布。苹果在公告中感谢社区成员多年来贡献时间和专业知识，帮助其他用户解决苹果产品问题，并建议用户前往官方Apple支持网站获取指导。苹果自1998年推出Apple Tech Exchange以来一直提供用户间技术支持论坛，历经多次更名，2022年起改为现名。苹果表示，此决定是经过对战略和客户需求的审慎评估后做出的。用户仍可通过MacRumors论坛、Reddit等替代渠道交流，或直接联系苹果支持部门。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
               "source_name": "MacRumors",
               "published_at": "2026-11-11T07:53:31+08:00"
-            },
-            {
-              "title": "苹果旗下 Claris 正在测试可在 Mac 上本地运行 AI 的 Harbor 应用",
-              "brief": "苹果子公司 Claris 正在测试一款名为 Harbor 的应用，可将 Apple silicon Mac 变成私有 AI 服务器。Harbor 可在单台 Apple silicon Mac 上运行，也支持通过 Thunderbolt 5 连接多台 Mac，汇集统一内存以运行更大的模型。苹果在 macOS Tahoe 26.2 中增加了基于 Thunderbolt 5 的 RDMA 支持，使集群运行更快。Harbor 可自动检测通过 Thunderbolt 5 连接的设备，用户可在应用内浏览、下载和加载开放权重模型，无需手动配置、命令行或基础设施专业知识，几分钟即可完成设置。数据全程保留在本地硬件上，不会上传云端。通过集群可运行超出单机容量的模型，或处理更多并发请求。Harbor 目前处于早期访问阶段，未公开发布，其 App Store 页面已被移除。Claris 以面向企业的数据库平台 FileMaker 闻名，尚不清楚苹果将如何推广 Harbor 以及是否免费。",
-              "source_url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-11T07:34:51+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "三星可滑动屏幕手机传闻：屏幕比例或可在16:9与21:9之间切换",
-              "brief": "可卷曲屏幕手机的概念由来已久，三星和LG等厂商多年来一直传出相关消息，此前有报道称三星可能在2028年推出商用版本。近日，知名爆料者Ice Universe在X上发文称，三星正在开发一款可滑动屏幕的手机，屏幕比例可从16:9扩展至21:9，即从接近Galaxy Z Fold 8的宽屏形态，拉伸至类似Flip 8展开后的比例。这种垂直扩展的设计与以往横向扩展的方案不同，可根据内容类型灵活调整，并能起到类似Flip折叠后的节省空间效果。三星曾在MWC 2026展示过类似概念，但当时的原型机滑动机构尚未实现机械化。",
-              "source_url": "https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/",
+              "title": "如何查看并删除 Gemini 对你的了解",
+              "brief": "谷歌推出了 Gemini 记忆摘要功能，用户可以在一个页面中查看聊天机器人存储的所有个人信息，包括居住地、兴趣、健康状况和偏好等。Gemini 不仅从聊天记录中获取数据，还会从关联应用中收集信息，用于个性化对话和提供定制建议。例如，如果它记住你是素食者，推荐食谱时就不会包含肉类。不过它记住的内容并不总是准确一致，因此记忆摘要功能尤为实用。用户可以通过该功能生成记忆概览，并更方便地要求聊天机器人删除或遗忘某些细节，更好地掌控自己的数据。",
+              "source_url": "https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-11T16:42:16+08:00"
+              "published_at": "2026-11-11T19:11:45+08:00"
             },
             {
-              "title": "Google Health血压手动记录功能开始推送给Fitbit Air用户",
-              "brief": "Google Health应用近日开始向Fitbit Air用户推送手动血压记录功能，覆盖Android和iOS两大平台。该功能随Health应用5.12版本更新宣布，此前部分用户尚未收到。目前已有多名用户确认在iOS和Android设备上可以使用该功能。用户可在Today标签页点击+Log并选择血压选项手动输入读数，也可通过Android的Health Connect或iOS的Apple Health从兼容应用同步数据。测量结果会以图表形式显示在Health标签页的Heart栏目下，方便追踪变化。该功能逐步推送中，且手动记录无需订阅Google Health Premium。需要注意的是，Fitbit Air本身并不能测量血压，仍需单独设备。",
-              "source_url": "https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/",
+              "title": "Wear OS 手表现在可以运行 Meta 的 Muse AI 智能体",
+              "brief": "Meta 宣布其 Muse AI 智能体现在已登陆 Wear OS 和 Apple Watch。Muse 凭借可爱的视觉形象和面向免费用户的丰富功能逐渐走红，此前 Meta 已为其添加了类似 Gemini Live 的语音模式。最新消息确认，用户可以通过手表全天候使用 Muse。手表端应用提供文本、听写和语音聊天三种输入方式，Apple Watch 用户还可通过自定义表盘复杂功能快速访问。需要注意的是，智能体并不在手表上原生运行，手表仅作为控制中心，用户可以在手表上批准任务或查看正在运行任务的进度，实际执行仍在手机端完成。",
+              "source_url": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-11T15:36:53+08:00"
+              "published_at": "2026-11-11T18:34:58+08:00"
             },
             {
-              "title": "Anthropic推出办公工具套件，正面挑战微软Office和谷歌Workspace",
-              "brief": "Anthropic通过其Claude账号宣布，正式推出三款办公生产力工具，进军办公软件市场。Claude Whiteboards是协作数字白板，用户口述计划后，Claude可在白板上呈现方案，供团队编辑；Claude Sheets对标Excel和谷歌表格，用户只需提出需求，例如跟踪表或预算表，即可获得可协作的电子表格；Claude Data则由原Dashboards功能更名而来，可针对公司数据生成仪表盘、解说视频和数据故事。此外，公司还将提供Claude Meetings，可将Claude加入通话，帮助记录笔记和更新文档。由于Claude在各环节保持相同上下文，创意可从白板延续到表格再到仪表盘，无需重复说明细节。",
-              "source_url": "https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/",
+              "title": "最佳 Nova Launcher 替代品不在 Play 商店——手把手教你安装",
+              "brief": "Nova Launcher 曾是安卓桌面定制的标杆，但经历了多次易主和开发停滞，让许多老用户对其未来感到疑虑。联合创始人曾表示如果离开团队，开源版本将会发布，但一年多过去，官方开源仍无进展。社区因此出现了替代项目 Supernova，这个名称颇具戏谑意味的桌面应用几乎提供了 Nova 的所有功能，甚至更多。需要说明的是，Supernova 并未上架 Google Play 商店，因此安装和更新相对麻烦一些。文章详细介绍了在安卓设备上安装这款应用的具体步骤。",
+              "source_url": "https://www.androidauthority.com/how-to-install-supernova-nova-launcher-alternative-3732801/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-11T15:02:30+08:00"
+              "published_at": "2026-11-11T18:22:13+08:00"
             },
             {
-              "title": "Google Photos保存机制升级，避免生成重复照片副本",
-              "brief": "谷歌宣布Google Photos将改进编辑照片的保存方式，使用特定高级编辑工具时不再自动创建单独副本，避免图库中出现同一照片的多个版本。此前，使用魔棒擦除、去模糊等工具，或编辑Ultra HDR和C2PA格式照片时，用户必须将结果另存为新图片。升级后，编辑可直接保存而无需额外副本。更重要的是，保存后编辑仍然可以继续调整：重新打开照片进入编辑器，即可在之前的滤镜、亮度等设置基础上继续微调并再次保存，不会产生更多重复版本。该功能适用于运行Android 11及更新系统的设备，谷歌尚未公布具体的推送时间表。",
-              "source_url": "https://www.androidauthority.com/google-photos-save-upgrade-3733730/",
+              "title": "谷歌向更多 Gmail 用户开放 Gemini 邮件摘要和写作工具",
+              "brief": "谷歌正在将两项基于 Gemini 的 Gmail 功能扩展至更多 Google Workspace 用户。第一项是 AI Overview 会话摘要，可以在冗长邮件串顶部生成快速摘要，用户无需逐条阅读所有回复，就能了解截止日期是否变更或是否有人需要自己处理事务。第二项是帮我撰写功能，用户只需给出简单指令，Gemini 就能起草邮件，也可用于改进已写好的内容，不过发送前仍建议仔细检查生成结果。这些功能此前已向个人 Gmail 账户和部分 Workspace 版本开放，此次扩展将覆盖通过工作单位或学校使用 Gmail 的用户。功能面向 18 岁及以上、启用 Gmail 智能功能的用户，预计 15 天内陆续推出。",
+              "source_url": "https://www.androidauthority.com/gmail-gemini-features-expansion-3733807/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-11T14:53:55+08:00"
+              "published_at": "2026-11-11T18:18:41+08:00"
             },
             {
-              "title": "读者调查：绝大多数用户讨厌YouTube安卓应用新版设计",
-              "brief": "YouTube近期对安卓应用进行了改版，包括主推自定义信息流、从底部栏移除订阅标签页、加重Shorts短视频权重，且新的订阅页面取消了帮助用户筛选内容的过滤器功能。Android Authority就此发起读者投票，结果显示多达92.3%的参与者表示讨厌这次改版，希望YouTube恢复原来的订阅标签页，仅有2.1%的读者表示喜欢新布局和自定义信息流，另有2.8%的读者尚未收到改版。读者还在评论区指出其他问题，例如帖子按钮被移除后，无法在一处集中查看订阅频道的所有帖子，必须逐个访问频道主页才能确认是否有新内容。",
-              "source_url": "https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/",
+              "title": "Fitbit 日常体征数据消失？不只是你遇到，但修复可能还需等待",
+              "brief": "部分 Fitbit 用户在更新到 Google Health 5.12 版本后发现日常体征数据消失，包括心率变异性、静息心率、血氧、呼吸频率和皮肤温度等指标。部分设备仍在正常记录数据，但应用无法显示。目前报告主要集中在 iOS 用户，因为 5.12 版本在 iOS 上先于安卓发布，安卓用户多数仍停留在 5.11 版本。受影响用户发现了临时解决办法：退出并重新登录 Google Health 可以恢复缺失数据，切换周视图和月视图也能刷新图表。谷歌健康论坛的产品专家称这是 iOS 5.12 的已知问题，团队正在修复，但谷歌尚未公开确认。有用户收到谷歌支持邮件，承认问题存在但警告修复可能不会很快到来。",
+              "source_url": "https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-11T14:44:06+08:00"
+              "published_at": "2026-11-11T18:09:50+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "苹果将于11月20日关闭官方在线支持社区",
+              "brief": "苹果公司宣布将于11月20日正式关闭官方Apple支持社区（Support Community）。目前该社区页面仍然在线，但已进入只读状态，用户无法再发布新帖子。该社区自1998年推出以来历经多次变革，曾名为Apple Discussions，后来才改为现名。多年来，社区中的用户回答常常是用户搜索技术问题或功能使用说明时最先出现的结果，其中有些回答颇有帮助，但也有些质量不佳。苹果在公告中表示，用户可继续通过官方Apple支持网站获取可信赖的指导与帮助，并称此次关闭是经过对战略和客户需求的审慎评估后做出的决定。",
+              "source_url": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-11T18:52:59+08:00"
+            },
+            {
+              "title": "Lucid CEO承认公司曾不清楚自家车辆的位置",
+              "brief": "加州电动车制造商Lucid在第三季度财报电话会议上给出一个特别解释：由于库存和物流管理混乱，公司有时甚至不知道自家车辆在哪里。CEO西尔维奥·纳波利承认，交付时间最长延误两周，导致部分买家因不耐烦而取消订单。上季度Lucid仅生产2954辆汽车，交付3806辆，同比下降7%。截至9月底公司库存账面价值仍达12.2亿美元。纳波利表示，最新的物流修复措施将让销售团队能当天交付客户所需车辆，加上美国电动车市场因高油价而增长，以及与机器人出租车公司Bolt达成的新协议，公司对2026年下半年持乐观预期。不过，公司上季度营收仅3.5亿美元却亏损8.31亿美元。",
+              "source_url": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-11T17:56:03+08:00"
+            },
             {
               "title": "三星相册应用现支持同步至Google账户备份照片",
               "brief": "三星曾于9月移除了相册应用与微软OneDrive的同步功能，如今宣布相册应用可同步用户的Google账户进行备份。过去在三星手机上想将照片和视频备份到Google存储，必须使用Google Photos应用；此次更新后，用户可直接留在三星相册应用内完成备份。该功能目前仅在运行One UI 9的部分Galaxy设备上可用，后续将分阶段扩展到更多设备。用户可点击相册中的云图标，或在相册设置中开启\"同步照片和视频\"来启用此功能。由于媒体文件同步到Google账户，用户可在另一台Galaxy设备的相册应用中登录同一账户并开启同步，即可查看已同步照片和视频的预览，需要时可下载原始文件。此外，三星还提供\"释放空间\"选项，可在文件同步至Google存储后删除设备上的原始文件，同时保留缩略图显示。",
@@ -228,20 +242,6 @@
               "source_url": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
               "source_name": "Engadget",
               "published_at": "2026-11-11T08:30:00+08:00"
-            },
-            {
-              "title": "iFixit拆解揭示苹果发光PROLED MacBook标志原理",
-              "brief": "iFixit拆解了苹果首款触屏MacBook Pro，并展示发光标志的物理结构。旧款LCD MacBook靠屏幕背光透过开孔照亮标志，而OLED屏无需背光，苹果改用显示屏后方四颗LED组成的灯带，光线经扩散器反射照亮标志，标志表面还做了类似双向镜的镀膜，关闭时呈金属反光、开启时透光。苹果2016年取消发光标志，如今在弃用背光屏后重新带回。新机还通过减少铝材、缩小触控板和改良铰链实现更轻，但维修难度并未降低。",
-              "source_url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-11T08:03:54+08:00"
-            },
-            {
-              "title": "如何在公开发布前为iPad获取Siri相机升级",
-              "brief": "愿意安装测试版系统的苹果用户可提前体验新功能，但需承担软件出错的风险。支持iPhone相机应用中的Siri模式将随iPadOS 27.3登陆兼容iPad，可对着镜头指向的物体向Siri AI提问。该功能即视觉智能，iPad版独有Apple Pencil支持，类似谷歌圈选搜索，可拍照后圈出物品让Siri AI提供信息。视觉智能已支持M1及更新芯片的iPad Pro、iPad Air和A17 Pro或A20 Pro芯片的iPad mini，目前可通过长按相机控制键或操作按钮进入，新系统还可在取景器中滑动切换。",
-              "source_url": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-11T08:00:00+08:00"
             }
           ]
         },
@@ -294,6 +294,20 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "PS5发售六年后销量突破1亿台 与历代PlayStation主机对比",
+              "brief": "索尼宣布PS5全球累计出货量已突破1亿台，距离2020年11月12日发售仅六年。自9月底上次公布数据以来，40天内又出货210万台。PS5销量已超越PS3的8740万台和PSP的7640万台，正逼近PS4的1.17亿台，即将超越初代PS的1.024亿台，但预计难以超过PS2的1.6亿台。PS2仍是史上最畅销主机，略高于Nintendo Switch的1.572亿台。与同期发售对比，PS5仍落后PS4约500万台。",
+              "source_url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "source_name": "IGN",
+              "published_at": "2026-11-11T17:45:42+08:00"
+            },
+            {
+              "title": "《塞尔达传说：时之笛》重制版销量突破520万 创Switch 2销售纪录",
+              "brief": "任天堂宣布，新发售的《塞尔达传说：时之笛》重制版销量已达520万份，销售速度超过《大金刚：蕉力全开》、《宝可梦》新作以及随主机同发的《马里奥赛车：世界》，创下Switch 2游戏销售纪录。该作是任天堂假日档期的主打大作，于11月发售，直面《GTA6》的巨大竞争压力。原作1998年登陆N64，至今仍是评分最高、最受喜爱的游戏之一。",
+              "source_url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-is-a-huge-success-for-nintendo-and-just-broke-a-switch-2-sales-record",
+              "source_name": "IGN",
+              "published_at": "2026-11-11T17:45:16+08:00"
+            },
+            {
               "title": "《幻视探索》片尾彩蛋确认绯红女巫将回归《复仇者联盟》系列电影",
               "brief": "《幻视探索》剧集片尾的彩蛋在给媒体的预览版中被删去，保密工作十分严密，结果却确认了一位深受喜爱的漫威角色即将回归即将上映的复仇者联盟电影，且似乎将处于毁灭博士的控制之下。彩蛋回溯到《奇异博士2》结尾，旺达·马克西莫夫（绯红女巫）摧毁黑暗神书并牺牲自己，其命运四年来一直未知。如今毁灭博士出现在画面中，搬开压在她身上的碎石，说道：“绯红女巫，苏醒吧，你的力量将归我所有。”此前《复联4》重映片尾展示毁灭博士绑架了绿巨人，《神奇四侠》片尾他也曾试图接触富兰克林·理查兹，暗示他正在组建黑暗军团。",
               "source_url": "https://www.ign.com/articles/visionquest-post-credits-scene-just-confirmed-a-major-marvel-character-is-coming-back-in-upcoming-avengers-films",
@@ -313,26 +327,19 @@
               "source_url": "https://www.ign.com/articles/lanterns-not-renewed-for-season-2-says-dc-studios-insider",
               "source_name": "IGN",
               "published_at": "2026-11-11T08:18:08+08:00"
-            },
-            {
-              "title": "消息人士称《灯笼》第二季前景存疑",
-              "brief": "据DC工作室内部人士透露，尽管口碑与观众反响俱佳，HBO剧集《灯笼》的第二季续订前景仍不明朗。Variety的报道恰逢詹姆斯·古恩与彼得·萨夫兰于11月9日宣布离开DC工作室之后。古恩表示厌倦了职位中更具“企业化”的部分。古恩任职四年，仅推出三部电影：《超人》反响良好，《女超人》口碑欠佳，《泥面人》评价两极。而今年在HBO播出的真人剧集《灯笼》则大获成功，收视人数可与《匹兹堡医护前线》比肩。观众非常喜爱凯尔·钱德勒的哈尔·乔丹和亚伦·皮埃尔的约翰·斯图尔特，曾期待第二季几乎成定局。剧集联合主创林德洛夫10月透露编剧已在构思第二季，但尚未获批。",
-              "source_url": "https://www.ign.com/articles/lanterns-season-2-in-doubt-says-dc-studios-insider",
-              "source_name": "IGN",
-              "published_at": "2026-11-11T08:18:08+08:00"
-            },
-            {
-              "title": "奥尼尔主演新游戏节目：参赛者需在众目睽睽下藏起他",
-              "brief": "ABC将推出全新游戏节目《你能藏住……沙克吗？》，由NBA传奇球星沙奎尔·奥尼尔主演。节目定于12月3日周四晚9点在ABC和ESPN应用开播，前两集连播，12月4日起可在Hulu流媒体观看。节目规则为两支参赛队伍在德克萨斯州达拉斯的公共场所比拼，挑战在众目睽睽之下藏起身高7英尺1英寸、全球辨识度极高的奥尼尔。每队需在限定时间内完成任务，被发现次数最少的一队可获得下轮免罚资格并产生队长，各队还需合作赢取奖金注入“沙克奖池”，最终由一名胜者独得。节目由喜剧演员妮可·拜尔主持，由Jersey Legends Productions与Fulwell娱乐联手ESPN制作。",
-              "source_url": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
-              "source_name": "IGN",
-              "published_at": "2026-11-11T07:26:41+08:00"
             }
           ]
         },
         {
           "name": "Solidot",
           "articles": [
+            {
+              "title": "CERN 如何为 LHC 研发下一代磁体",
+              "brief": "CERN 的大强子对撞机（LHC）利用强大磁体使粒子接近光速碰撞，每秒可产生高达 4000 万次的碰撞频率，促成了本世纪粒子物理学领域的诸多重要发现。科学家正对 LHC 进行升级，为 2030 年之后开始的实验做准备。新一代对撞机被称为高亮度大型强子对撞机（HL-LHC），目标是每次实验将碰撞涉及的粒子数量提高到 140-200 个，增加观测到罕见粒子或特殊物理现象的机会。现有偶极磁体采用铌钛合金线圈，磁场强度达 8.3 特斯拉，约为地球磁场的 16.6 万倍，已是该材料上限。为制造 HL-LHC 使用的四极磁体，科学家正研发铌锡化合物线圈，磁场强度将接近 12 特斯拉。",
+              "source_url": "https://www.solidot.org/story?sid=85856",
+              "source_name": "Solidot",
+              "published_at": "2026-11-11T16:20:35+08:00"
+            },
             {
               "title": "猫围着你叫是叫你去解决问题",
               "brief": "巴西研究人员针对38只宠物猫开展研究，发现猫的喵喵叫主要是为了引起人类注意，希望人类帮其解决问题。研究人员设计了一个猫能闻到食物气味但无法接触到食物的盒子，观察结果显示，人类在场时猫共发出86次叫声，独自待着时仅有20次，叫声次数增至四倍。研究表明人类在猫的生活中扮演问题解决者的角色，喵喵叫在人猫互动中起到了沟通交流的作用，是猫表达对所处困境不满的方式。",
@@ -360,13 +367,6 @@
               "source_url": "https://www.solidot.org/story?sid=85852",
               "source_name": "Solidot",
               "published_at": "2026-11-11T14:25:09+08:00"
-            },
-            {
-              "title": "微软宣布 .NET 11",
-              "brief": "微软宣布推出 .NET 11。该版本是标准支持版本 STS，提供两年支持，而上个版本 .NET 10 则是长期支持版本 LTS，支持时间更长。.NET 11 对 C# 15、ASP.NET Core、.NET MAUI 以及 Windows 进行了改进，并缩短了应用构建时间。主要变化包括：C# 15 引入了联合类型和封闭类层次结构；新增 Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2；Blazor 和 SignalR 应用也获得了新功能。",
-              "source_url": "https://www.solidot.org/story?sid=85851",
-              "source_name": "Solidot",
-              "published_at": "2026-11-11T00:50:48+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "OpenAI调整ChatGPT语音体系 逐步淘汰现有标准语音模式",
-              "brief": "OpenAI宣布将简化ChatGPT的语音产品体系，逐步淘汰现有的标准语音模式和高级语音模式，由统一语音系统接管。公司表示此举旨在减少用户选择复杂性，让语音交互体验更一致，认为随着语音模型升级，维持多个独立语音模式已无必要。消息公布后不少用户在社区表达不满，认为标准模式响应快、资源占用少，高级模式则有其独特对话风格。批评者担心功能统一意味着失去自由选择的权利。目前OpenAI尚未公布旧语音模式停止服务的最终时间表，但确认调整正在推进之中。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585932.htm",
+              "title": "NASA警告：2026年厄尔尼诺可能超过1997年历史最强纪录",
+              "brief": "NASA利用卫星高度计对比1997年与2026年的太平洋观测数据，发现2026年赤道太平洋中部和东部海平面明显升高，暖水已延伸至南美洲沿岸，海洋结构与1997年秋季高度相似。科学家Josh Willis认为本次厄尔尼诺的发展规模可能超过当年。1997至1998年的超强厄尔尼诺曾造成全球超2万人死亡和约360亿美元损失。不过暖水分布与大气响应不同，最终天气影响未必重演。NOAA预计2026年冬季出现强至极强厄尔尼诺的概率达83%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1585946.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-11T16:08:57+08:00"
+              "published_at": "2026-11-11T18:58:27+08:00"
             },
             {
-              "title": "汽油和食品价格上涨令《GTA6》售价80美元显得物超所值",
-              "brief": "在前RMS高管泽尔尼克看来，面对汽油和食品价格上涨，互动娱乐实际上是一种划算的交易。《GTA6》基础版售价80美元，终极版100美元，而《给他爱5》2013年发售时售价60美元，考虑通胀因素如今约相当于85美元，因此《GTA6》实际售价反而更低。他表示游戏时长可观，即使短篇游戏也能玩上10小时以上，认为消费者若将娱乐价值视为质量与时长的结合，游戏绝对物超所值。游戏将于11月19日发售，登陆PS5和Xbox Series X|S平台，数字版已可预载。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585930.htm",
+              "title": "Anthropic CEO预言：癌症等重大疾病或在10年内被治愈",
+              "brief": "Anthropic首席执行官达里奥·阿莫代伊提出“压缩的21世纪”概念，认为AI若能与顶尖科学家协作，医学进步速度有望提升至原来的10倍，把原本需要整个21世纪取得的医学进展压缩到5至10年内完成。他表示AI未来有望帮助找到治疗大多数癌症的方法、预防阿尔茨海默病，甚至将人类寿命延长一倍。今年9月他重申相信AI可在未来5至10年内治愈大多数重大疾病。Arm首席执行官雷内·哈斯也认为AI或能在这一代人的有生之年攻克癌症。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585944.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-11T16:06:56+08:00"
+              "published_at": "2026-11-11T18:20:33+08:00"
             },
             {
-              "title": "PS5全球累计出货量突破1亿台",
-              "brief": "索尼公布PS5全球累计出货量已突破1亿台，成为继初代PlayStation、PS2和PS4之后第四款累计出货超过1亿台的PlayStation硬件。官网数据显示，PS2出货超过1.6亿台，PS4超过1.17亿台，初代PlayStation超过1.024亿台，PS3超过8740万台，PSP超过7640万台。PS5于2020年11月上市，达到这一规模约用了六年，而PS4在发售约五年半后跨过1亿台门槛。此外，PS5数字版新配色午夜黑将于11月19日推出。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1585928.htm",
+              "title": "世界气象组织：未来几个月全球气温将异常炎热",
+              "brief": "世界气象组织发布报告称，受史上最强厄尔尼诺影响，未来几个月全球气温将异常炎热。秘书长绍洛表示厄尔尼诺正在放大各类气候风险。哥白尼机构数据显示2026年全球气温预计较工业化前升高超过1.5摄氏度。报告还指出2017至2026年间全球海平面年均上升3.9毫米，高于此前水平；2026年3月北极海冰最大覆盖面积创历史最低或次低值。此外，建成气候早期预警系统的国家已从十年前的56个增至2025年的136个。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585942.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-11T16:03:28+08:00"
+              "published_at": "2026-11-11T18:16:37+08:00"
             },
             {
-              "title": "腾讯元宝搜索正式上线 接入157个权威信源",
-              "brief": "腾讯元宝搜索正式上线，接入了157个权威信源，主打AI原生搜索体验。产品在结果呈现上将AI生成答案与普通答案明确区分，广告单独标注且支持一键收起广告。交互层面支持文字、语音、拍照等多种搜索方式，可直接输出图表和卡片式回答，提升信息获取效率。元宝搜索是腾讯在AI搜索赛道的重要布局，此前该产品已经以API形式面向B端客户开放，此次正式上线标志着其面向更广泛的用户提供服务。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585926.htm",
+              "title": "谷歌如何应对AI对其广告巨头业务的冲击",
+              "brief": "谷歌第三季度搜索广告增速从17%回落至12%，财报发布次日字母表股价大跌近13%。管理层承认增长放缓部分原因是AI模式变现能力偏弱。用户在AI模式下的搜索行为与网页搜索不同，提示词更长，下单意愿更低，广告点击转化率和广告支出回报连续两个季度下滑，广告主开始将预算转向Meta和ChatGPT等平台。谷歌正在调整AI摘要和AI模式中的广告形式，同时通过自动化工具和潜在收购提升AI场景广告价值，但如何平衡用户体验与变现仍是核心难题。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585940.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-11T15:53:03+08:00"
+              "published_at": "2026-11-11T18:14:55+08:00"
             },
             {
-              "title": "曝京东入局短剧 不卖剧、不卖广告",
-              "brief": "据知情人士透露，京东将入局短剧领域。数据显示，截至2026年5月，短剧去重用户规模达8.51亿，覆盖67%的移动互联网活跃用户，2026年国内微短剧、AI剧及漫剧市场规模预计将突破1210亿元。京东的路径与红果短剧不同：红果以免费剧集聚拢流量靠广告变现，京东则依托自营供应链和履约体系，把短剧作为导购的前置环节，用户在剧中领券下单、由京东发货，交易不跳出平台，指向商品转化而非内容付费或广告收入。目前剧中同款直接买功能尚未落地，京东官方暂无回应。",
-              "source_url": "https://www.cnbeta.com.tw/articles/movie/1585924.htm",
+              "title": "李彦宏现身预热百度世界大会 体验AI麻将与健身助手",
+              "brief": "百度创始人李彦宏现身预热活动，现场与AI搓麻将，并体验了AI健身助手。他将出席明日召开的百度世界大会，对外分享百度最新技术迭代、大模型产品与业务进展，介绍百度AI落地的新方向。此次亮相被视为大会前夕的造势预热，展示了百度AI技术在日常娱乐和健身场景中的应用能力，也向外界传递百度持续投入人工智能产品化、推动大模型技术走向实际生活的信号。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1585938.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-11T15:52:16+08:00"
+              "published_at": "2026-11-11T18:14:01+08:00"
             }
           ]
         },
@@ -454,45 +454,52 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "华为鸿蒙 HarmonyOS 7 (API 26.0.1) 开发者 Beta 开启定向招募，Mate 80 Pro 等机型可报名",
-              "brief": "华为鸿蒙 HarmonyOS 7（API 26.0.1）Developer Beta 开启定向招募，开发者可通过活动提前获取版本体验新能力，开展应用开发、适配与调测，并反馈问题。本次活动仅面向开发者开放，优先面向已上架鸿蒙应用的开发者招募，仅支持在中国大陆使用的指定机型，包括 HUAWEI Mate 80 Pro、Mate X7、Mate XTs 非凡大师、Pura 90 系列、nova 15 Pro 等。相比 26.0.0，26.0.1 Beta1 开发能力进一步增强，新增子进程信息查询、USB 管理、卷管理、打印机白名单、精确定时器、车辆感知与用户识别等能力。",
-              "source_url": "https://www.ithome.com/1/025/611.htm",
+              "title": "奇瑞瑞虎 9 猎鹰 700 版上市，限时焕新价 17.29 万元起",
+              "brief": "奇瑞瑞虎9猎鹰700版正式上市，限时焕新价17.29万元起。新车搭载猎鹰700智驾系统，配备激光雷达，拥有560TOPS车端算力，支持高速NOA、城市NOA、无导航AI漫游及全场景泊车。动力方面搭载新一代超混DHT变速箱和CDC磁悬浮底盘，电机最大功率260kW、最大扭矩330N·m；配备32.66kWh犀牛H增混电池，WLTC纯电续航160km，综合续航超1400km。内饰配备30英寸一体屏加10.25英寸液晶仪表、高通骁龙8255芯片、23扬声器音响系统，以及带375mm四向腿托和一键舒躺模式的女王副驾2.0。",
+              "source_url": "https://www.ithome.com/1/025/733.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T17:10:12+08:00"
+              "published_at": "2026-11-11T19:14:14+08:00"
             },
             {
-              "title": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付",
-              "brief": "IDC 报告显示，中国液冷服务器采购正从按“台”转向按“柜”交付，将计算节点、互联、供电和柜内液冷配套作为一整套系统配置和交付。上半年中国液冷服务器收入同比增长 153.1%，增长与人工智能计算需求密切相关，互联网企业是最主要采购来源，占市场的 65.6%，电信运营商和 IT 服务也是主要应用领域。未来五年中国服务器市场出货量年均复合增长率约 6.8%，收入年均复合增长率达 24.6%。冷板式液冷仍是主流，占比约 90.2%。2026 年上半年北美整柜交付比例已达 47.4%，中国为 5.0%，高端加速卡可获得性趋紧推动采购方倾向整柜方案。",
-              "source_url": "https://www.ithome.com/1/025/599.htm",
+              "title": "联想小新 Pad Pro 12.7 高刷平板再降价，天玑 8300 处理器",
+              "brief": "联想小新Pad Pro 12.7英寸平板再度降价，原价1899元，天猫国补后919元。广东等部分地区可凑单使用1500-150元的88VIP消费券，折合最低仅需818元。该平板搭载联发科天玑8300处理器，配备高刷新率屏幕，是一款性价比较高的中大尺寸安卓平板产品。此次降价后价格进一步下探，适合有影音娱乐、学习办公需求的用户选购。消费者可在天猫联想官方店铺购买，购买前建议确认所在地区消费券使用规则，以获得最优到手价格。",
+              "source_url": "https://www.ithome.com/1/025/731.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T17:09:19+08:00"
+              "published_at": "2026-11-11T18:58:16+08:00"
             },
             {
-              "title": "本田逐步减少电动汽车投入，转而投 30 亿美元发展混动车型",
-              "brief": "本田计划投入 30 亿美元发展混动车型，将在全球推出至少 15 款全新混动车型，从此前受挫的纯电战略转向。此前本田为纯电车型开发的全新平台及规划的三款车型均被取消，原计划在俄亥俄州生产的讴歌 RSX、本田 0 系列 Saloon 和 SUV 项目被放弃，公司出现近 70 年来首次亏损，付出 90 亿美元代价。首批混动新车预计 2028 年亮相，本田计划 2029 年启用俄亥俄州新工厂，创造超过 2000 个就业岗位，年产能 24 万辆，在美总年产能提升至 130 万辆，混动系统产能提高 250%，新效率混动系统效率预计提高 10%。",
-              "source_url": "https://www.ithome.com/1/025/609.htm",
+              "title": "长城汽车提醒：警惕假冒召回短信，不点、不信、不转账",
+              "brief": "长城汽车发布声明，提醒车主警惕假冒官方名义的虚假召回短信，声明此类所谓召回事项纯属捏造。官方服务通知不会索要银行卡、验证码等敏感信息，更不会要求车主向陌生账号转账付款。车主如需确认车辆是否涉及召回，可通过国家市场监督管理总局缺陷产品召回技术中心官方渠道查询，或联系长城汽车客服中心及授权经销商核实。长城汽车已就冒名诈骗线索向公安机关报案。此前捷豹路虎中国、日产、沃尔沃、上汽通用、比亚迪、问界、宝马中国、大众中国、理想汽车等多家车企均曾发布类似提醒。",
+              "source_url": "https://www.ithome.com/1/025/730.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T17:08:39+08:00"
+              "published_at": "2026-11-11T18:57:56+08:00"
             },
             {
-              "title": "Diraq 全球首台硅自旋量子计算机落地商业数据中心",
-              "brief": "Diraq 将全球首台硅自旋量子计算机部署于商业数据中心，落地 Equinix 悉尼数据中心，其规模有望在一年内从 8 量子比特扩展至 64 量子比特。该企业当前量子计算系统功耗低于 20 千瓦，占地面积 172 平方英尺（约 16 平方米）。Diraq 预计未来的公用事业级系统功耗将在 300 千瓦左右，占地面积有望降至 54 平方英尺（约 5 平方米），可实现较其它量子计算技术更高的部署密度。",
-              "source_url": "https://www.ithome.com/1/025/608.htm",
+              "title": "彭博测算：AI 贡献英国今年约四分之一经济增长",
+              "brief": "彭博经济研究周三发布的报告显示，今年英国经济整体增幅约为1.8%，其中AI相关产业贡献了约0.45个百分点，即约占四分之一。经济学家安娜·安德拉德表示，这项技术正在为英国经济注入增长动力。报告指出，英国受近期AI相关股票抛售潮影响的程度，取决于市场调整最终是演变成类似金融危机的无序下跌，还是相对平稳有序的估值重调。目前AI对英国经济增长的贡献仍主要来自AI技术本身的生产和研发，而非在整个经济体系中的广泛应用。该衡量涵盖计算硬件制造、数据中心建设、AI模型和应用开发及云计算相关服务。",
+              "source_url": "https://www.ithome.com/1/025/729.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T17:06:50+08:00"
+              "published_at": "2026-11-11T18:51:55+08:00"
             },
             {
-              "title": "马斯克力挺特斯拉 Cybercab：其发展前景明眼人都能看懂",
-              "brief": "马斯克就逐步停产 Cybertruck、转为 Cybercab 生产线的决定表态，称其注意力完全集中在打造面向全球的自动驾驶出行平台上，认为任何“有眼睛、有脑子”的人都能看清这一发展方向。特斯拉押注的未来是人们不再需要拥有私家车，而是通过网约车满足出行需求，在理想世界中这些服务将由 Cybercab 提供。目前 Cybercab 仅在美国奥斯汀投入运营，但原型车已在美国多个地区被发现。Cybertruck 的去留已成为特斯拉社区争论的焦点，商业考量正推动马斯克和特斯拉转向另一条道路。",
-              "source_url": "https://www.ithome.com/1/025/607.htm",
+              "title": "vivo 联合比亚迪腾势：蓝心小 V 与迪迪虾跨端融合，NFC 碰一碰会议无缝流转上车",
+              "brief": "vivo联合比亚迪腾势汽车宣布，蓝心小V与腾势智能助手迪迪虾实现跨端融合。全新腾势N8将支持手车互联、一碰流转功能，通过灵动按键NFC一碰即可实现一机双开、巨幕投屏开会，手机可自由操作。腾势N8车身长5150mm、宽1999mm、高1820mm，轴距3075mm，搭载第二代刀片电池及闪充技术，纯电续航可达1003km。新车配备1.1米超长PHUD天际屏加30英寸巨幕屏智能座舱，提供后置单电机两驱和三电机四驱两种动力形式，三电机版本系统综合最大功率890千瓦，可实现圆规掉头和智能蠕行等模式。",
+              "source_url": "https://www.ithome.com/1/025/728.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-11T17:05:38+08:00"
+              "published_at": "2026-11-11T18:49:19+08:00"
             }
           ]
         },
         {
           "name": "蓝点网",
           "articles": [
+            {
+              "title": "Anthropic推出Claude办公功能：电子表格、白板与视频会议助手",
+              "brief": "Anthropic发布多项Claude办公功能，包括电子表格Claude Sheets、协作白板Claude Whiteboards、数据分析工具Claude Data和视频会议助手Claude Meetings，进入Microsoft Office和Google Workspace覆盖的办公场景。用户可用自然语言描述需求，让Claude生成包含工作表、公式、格式和下拉菜单的表格，支持导出XLSX或CSV格式，修改过的单元格会被标记。白板功能面向头脑风暴和项目规划，可整理流程、时间线、负责人和截止日期，并将讨论结果转换为文档或演示文稿。Claude Data已正式开放，连接数据仓库或CRM后可生成数据看板、文字分析或带旁白的视频。Claude Meetings目前面向团队和企业订阅用户测试，初期支持Google Meet，Claude以参会者身份加入会议并整理记录、计划和待办事项。",
+              "source_url": "https://www.landian.news/archives/128302.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-11T17:30:21+08:00"
+            },
             {
               "title": "微软Windows 11安全更新翻车 大量用户遇到0x800f0993错误代码",
               "brief": "微软面向Windows 11 24H2/25H2/26H2发布KB5132061月度累积更新，包含新功能改进及大量安全漏洞修复。但更新发布后，大量用户在社交媒体反馈安装时遇到0x800f0993错误代码，或在重启阶段安装失败导致系统自动回滚。截至发布时微软尚未在健康仪表盘添加说明，不清楚是普遍问题还是特定硬件问题。有用户重启后重试更新，结果不一。建议遇到错误的用户先暂停更新3天，因为更新失败后系统会持续定时检查并下载更新，占用网络带宽并在预安装阶段消耗CPU资源，等微软解决问题后系统即可恢复正常更新。",
@@ -520,13 +527,6 @@
               "source_url": "https://www.landian.news/download/128344.html",
               "source_name": "蓝点网",
               "published_at": "2026-11-11T15:30:08+08:00"
-            },
-            {
-              "title": "开源扩展Rewind for X帮你自动保存X/Twitter首页刷新后丢失的帖子",
-              "brief": "X/Twitter网页版重载后会丢失之前首页加载的帖子，尤其在使用算法推荐模式时，之前看到的内容可能消失。开发者开源发布了Rewind for X推文回看扩展程序，该程序会自动记录用户在首页推荐和关注时间线上看过的帖子，当帖子在屏幕上露出50%以上即被标记为看过。保存的信息包括作者、正文、图片链接、引用内容、转帖人和原始链接，记录按浏览时间排序并支持按时段分组。扩展采用MIT许可证开源，已上架Chrome Web Store，所有数据仅保存在本地，最多保留3000条已读帖子。用户还可按图片、视频、引用、转帖筛选，并支持图片文字识别搜索功能。",
-              "source_url": "https://www.landian.news/download/128343.html",
-              "source_name": "蓝点网",
-              "published_at": "2026-11-11T15:00:17+08:00"
             }
           ]
         }
