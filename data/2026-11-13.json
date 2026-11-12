@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T03:19:51.474898+08:00",
+  "generated_at": "2026-11-13T05:19:34.486388+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果继续提前 iPhone Duo 的发货日期",
+              "brief": "据 MacRumors 论坛和 X 上的用户反馈，一些通过苹果订购 iPhone Duo、原预计 1 月 25 日发货的用户，今天看到发货窗口提前至 12 月 14 日至 12 月 21 日。还有少数用户的发货日期从 1 月 25 日提前到了 12 月 12 日至 12 月 14 日。不过苹果在线商店目前对今天下单的 iPhone Duo 订单仍显示 1 月 25 日的预计发货日期。",
+              "source_url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-13T04:28:50+08:00"
+            },
+            {
+              "title": "苹果解释 HomeView 如何保护摄像头数据隐私",
+              "brief": "苹果今天详细介绍了如何利用 Secure Exclaves 保护 HomeView、iPhone 18 Pro 等产品上的摄像头和麦克风数据。Secure Exclaves 是与操作系统其他部分隔离的独立运行环境，在其中处理的数据不会提供给系统其他部分、应用或苹果，同时可利用完整的应用处理器。HomeView 借助人脸和语音识别可识别家中最多六人，其摄像头帧流在独立的安全区域内处理，人物出现时仅向主系统通报可能有人存在，图像数据不会离开安全区域。该机制还支持 Siri 回顾、实时回放、iPhone 18 Pro 的屏幕指示器、以及 MacBook Neo 摄像头指示器等功能，语音数据同样受到保护。",
+              "source_url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-13T03:48:04+08:00"
+            },
             {
               "title": "苹果在 HomeView 发售前发布 27.2 版软件更新",
               "brief": "随着 HomeView 即将在数小时内开始送达部分用户手中，苹果发布了新的 HomeView Software 27.2 更新，版本号为 24V526，这是该设备获得的第二个 27.2 更新。本周收到 HomeView 的用户需要在设置过程中安装软件更新。设备出厂预装的 HomeView Software 26.5 已发布约六个月。苹果原计划更早推出 HomeView，但因希望 Siri AI 随 iOS 27 首次亮相而推迟。苹果表示，将于下月发布更新，修复 Siri AI 无法控制智能门锁等智能家居产品的问题，该修复预计包含在 HomeView 27.3 中。目前尚不清楚此次更新的具体内容。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/",
               "source_name": "MacRumors",
               "published_at": "2026-11-13T00:34:25+08:00"
-            },
-            {
-              "title": "黄仁勋辞任英伟达 CEO，特朗普称库克应接任",
-              "brief": "美国总统特朗普周四在其社交平台 Truth Social 上发帖称，他认为苹果董事长蒂姆·库克应出任英伟达 CEO。英伟达同日宣布，因被曝出两段婚外情，其中一段据美国政府认为涉及为中国政府工作的间谍，黄仁勋已立即辞去 CEO 职务，首席财务官科莱特·克雷斯被任命为临时 CEO，董事会已启动新 CEO 的遴选，将同时考虑内部和外部人选。库克已于 9 月 1 日按计划卸任苹果 CEO，现任公司执行董事长，目前没有迹象表明他有意执掌英伟达。另有报道称，苹果长期芯片业务负责人约翰尼·斯鲁吉也在英伟达的考虑之列。",
-              "source_url": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-13T00:21:09+08:00"
-            },
-            {
-              "title": "苹果发布以 MacBook Neo 为主角的 2026 假日广告",
-              "brief": "苹果周四发布了年度假日季广告，片中一位年轻人收到父母赠送的 MacBook Neo 作为礼物后重新找回创造力。这支短片名为《梦想家》，由梅琳娜·马特苏卡斯执导。苹果在视频描述中表示：这部假日影片讲述了一份父母的礼物如何帮助儿子重拾创造力，有时候，让我们记起自己独特之处的，只是那个相信我们的人。这是对创造力以及激发创造力的人们的一次礼赞，影片由 MacBook Neo 出演。该广告已在苹果官方 YouTube 频道上线，延续苹果每年推出温情假日广告的传统。",
-              "source_url": "https://www.macrumors.com/2026/11/12/apple-2026-holiday-ad/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-12T23:50:05+08:00"
             }
           ]
         },
@@ -49,45 +49,59 @@
           "name": "9to5Mac",
           "articles": [
             {
-              "title": "微软 Outlook 出现大范围服务中断",
-              "brief": "微软 Outlook 电子邮件服务出现大范围故障，故障发生约一小时后仍在持续。Downdetector 显示，当天用户报告的 Outlook 故障数量已超过十万次。许多用户反映无法正常收发邮件或访问账户。微软服务状态页面本应显示最新服务状态，但目前该页面似乎也处于宕机状态，用户难以获取官方故障信息。此次中断影响范围广泛，尚不清楚具体原因及何时恢复。遇到问题的用户并非个例，建议关注官方渠道获取后续更新。",
-              "source_url": "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/",
+              "title": "Apple HomeView 明日上市，首个安全更新已同步推出",
+              "brief": "Apple 于今日发布 HomeView 软件版本 27.2（构建号 24V526），其中包含该公司近期在其他操作系统更新中修复的部分安全问题，涵盖 iOS 27.2、macOS 27.2 和 iPadOS 27.2 等。修复内容之一是可能允许远程攻击者加入 iMessage 群聊并接收消息的漏洞，另一漏洞则可能允许恶意蓝牙设备在无需用户交互的情况下完成配对。由于这些漏洞已公开披露，从明日起获得设备的用户建议尽快更新系统。更新还修复了 AirPlay 配对码尝试频率限制可被绕过、应用可能访问敏感用户数据、蓝牙范围内攻击者可破坏进程内存等问题。",
+              "source_url": "https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-13T02:54:54+08:00"
+              "published_at": "2026-11-13T05:14:40+08:00"
             },
             {
-              "title": "9to5Mac Happy Hour 播客：HomeView 评测、新款 Apple TV 与苹果假日广告",
-              "brief": "本期播客讨论 Apple 首款智能显示屏 HomeView 的评测体验，涉及 Apple Intelligence、Siri AI 等功能。此外还谈到苹果发布多年来最佳的假日广告，以及新款 Apple TV 4K 正式上市。在 Happy Hour Plus 节目中，主持人提及传闻称硬件主管 John Ternus 向软件主管 Craig Federighi 施压，要求加快 AI 开发进度。节目还聊到苹果高管对 OpenAI 硬件计划的回应等内容。听众可通过订阅获得无广告版本及额外内容。",
-              "source_url": "https://9to5mac.com/2026/11/12/happy-hour-616/",
+              "title": "Opera One iOS 版新增省流功能，最多可减少 80% 浏览流量",
+              "brief": "Opera 发布新闻稿宣布，iOS 版 Opera One 浏览器新增 Data Saver 省流功能，通过在服务器端压缩图片和文本后再传输至用户设备，最多可减少 80% 的浏览数据用量，适合出国漫游、流量套餐不足或网络连接较弱时使用。该功能为可选设置，用户可随时开启或关闭，并查看已节省的流量。此外，Opera 上月 iOS 月活跃用户同比增长 20%，在美国增幅达 46%，超出其 PC 端 16% 的同比增速。公司此前还宣布月活跃用户首次突破 1 亿，增长主要来自亚洲和非洲，同时正拓展美国和欧洲市场。",
+              "source_url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-13T02:51:11+08:00"
+              "published_at": "2026-11-13T04:52:21+08:00"
             },
             {
-              "title": "Mac 版 Grok Bot 接入苹果邮件、信息、备忘录等应用",
-              "brief": "Mac 版 Grok Bot 宣布新增与苹果邮件、信息、备忘录、提醒事项、日历、通讯录六个应用的整合，并支持位置服务，使其在苹果生态系统中的功能更加强大。Grok Bot 由 SpaceX/Cursor 推出，于今年 8 月首发 iPhone 和 Mac 应用，随后扩展至 iPad。上个月它获得了独立的电子邮件地址以执行智能代理任务，并采用 Claude 智能提升能力。本月 Grok Bot 已升级至 1.0 版本，正式结束测试阶段，用户可下载最新版本使用。",
-              "source_url": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
+              "title": "Apple TV 宣布布拉德·皮特主演新片《Connector》",
+              "brief": "据 Deadline 报道，Apple Original Films 将制作新电影《Connector》，由布拉德·皮特主演、《金属之声》导演达里乌斯·马德执导。报道发布后，Apple TV 官方 X 账号转发了该消息，确认了这一项目。影片的故事设定在 1970 年代的纽约，围绕一位工人阶级传奇人物展开，他是一名高空作业的铁匠，要与比自己强大的势力抗衡。皮特此前曾与 Apple 合作过《F1》以及与乔治·克鲁尼联袂主演的《双狼》。《双狼》原计划院线上映，但 Apple 在首映前取消了院线发行，改为流媒体独播，不过这段经历并未影响双方继续合作。",
+              "source_url": "https://9to5mac.com/2026/11/12/apple-tv-announces-new-film-connector-starring-brad-pitt/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-13T02:40:00+08:00"
+              "published_at": "2026-11-13T04:12:44+08:00"
             },
             {
-              "title": "谷歌发布 Gemini 4 Hydrogen，速度与智能显著提升",
-              "brief": "谷歌宣布推出 Gemini 4 Hydrogen，称其为相比 9 月发布的 Gemini 3.8 Flash 的重大独立升级，在速度和智能方面均有显著飞跃。新模型原生支持 100 万 token 输入及最高 100 万 token 输出，高默认设置下任务完成速度提升 2.5 倍，Terminal-Bench 4.1 得分超过三倍增长，编造内容减少逾 5 倍。基准测试中，Hydrogen 在 Artificial Analysis 智能指数上超过 Argon，合作方实测速度提升 2 至 2.8 倍，token 使用量减少 12% 至 23%，同时在多项智能体和专业工作流评测中领先同级模型。",
-              "source_url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
+              "title": "埃尔顿·约翰 Apple Music 节目将推出查尔斯国王特别节目",
+              "brief": "自 2015 年 7 月起，埃尔顿·约翰一直在 Apple Music 主持名为 Rocket Hour 的电台节目，迄今已播出超过 470 期，内容涵盖新歌、经典金曲和艺人访谈，过往嘉宾包括艾德·希兰、比莉·艾利什等。11 月 14 日（周六）该节目将播出邀请查尔斯国王参加的特别节目，纪念国王信托慈善基金成立 50 周年，同时恰逢查尔斯 78 岁生日。据路透社报道，这期节目是首期在 Apple Music 位于伦敦的新电台录音室录制的节目，两人回顾了从 1980 年代温布利体育馆到海德公园和皇家阿尔伯特音乐厅的慈善演唱会。节目将于周六上午 9 点（格林尼治时间）在 Apple Music 1 首播，周末还会多次重播，并可点播回听。",
+              "source_url": "https://9to5mac.com/2026/11/12/elton-johns-apple-music-show-to-feature-king-charles-in-november-14-special/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-13T02:20:44+08:00"
+              "published_at": "2026-11-13T04:07:30+08:00"
             },
             {
-              "title": "Apple Sports 新增 UFC 赛事实时数据与结果",
-              "brief": "苹果 Apple Sports 应用新增 UFC 格斗赛事支持，MMA 粉丝可通过该应用实时追踪比赛。应用将覆盖整张比赛卡上所有对决，提供总打击数、抱摔、击倒等实时数据。详情页配有动画背景图，UFC 专属背景营造八角笼内灯光下的氛围，并新增按目标部位展示打击次数的可视化图表。用户可在应用内关注赛事，或点击时钟图标开启实时活动，在 iPhone 锁屏上直接接收比分更新。Apple Sports 目前已预装在新 iPhone 上，仍仅支持 iPhone 平台。",
-              "source_url": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
+              "title": "X 平台单条帖子可分享的图片和视频数量提升至 20 个",
+              "brief": "X 平台宣布将单条帖子可附带的图片和视频数量上限从 4 个大幅提升至 20 个，是此前限制的五倍。该功能目前已在网页版上线，如果用户在移动端尚未看到该功能，需将 iOS 或 Android 版 X 应用更新至最新版本。此次更新紧接上周 X 在移动应用中新增十余款应用图标之后。今年 X 还推出了名为 X Money 的金融服务，而年初作为独立应用发布的 XChat 已停止运营，相关聊天功能转为在 X 应用内开发。平台员工在社交媒体上确认了这一变化，表示十年来的 4 个附件限制已成为历史，欢迎用户尽情发布内容。",
+              "source_url": "https://9to5mac.com/2026/11/12/x-now-lets-you-share-5x-more-photos-and-videos-per-post/",
               "source_name": "9to5Mac",
-              "published_at": "2026-11-13T01:00:00+08:00"
+              "published_at": "2026-11-13T04:05:12+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "谷歌向 Pixel 推送 Android 17 QPR3 Beta 4",
+              "brief": "谷歌正在面向 Pixel 设备推送 Android 17 QPR3 Beta 4，版本号为 DP11.261030.003。该版本存在若干已知问题，包括 tem_server 导致界面严重卡顿、Pixel 启动器崩溃及设备意外重启；针对 API 36 应用的 TLSv1 或 TLSv1.1 连接被拒绝时 Conscrypt 会抛出不清晰的 IllegalArgumentException；屏幕键盘在输入时显示被裁剪或部分遮挡；蓝牙后台活动异常耗电，导致电量快速流失。系统镜像覆盖 Pixel 6a 至 Pixel 11 Pro Fold 等多款机型及 Android 模拟器，用户可通过 Android Beta 计划获取 OTA 更新，并通过 Android Beta 反馈应用提交问题。",
+              "source_url": "https://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-13T05:16:09+08:00"
+            },
+            {
+              "title": "今日 Android 应用优惠与免费领取：Agent A、Swim Out、The Mutiny 等",
+              "brief": "今日 Google Play 商店推出多款 Android 应用与游戏优惠及限时免费活动，包括解谜游戏《Agent A》、游泳主题游戏《Swim Out》和策略游戏《The Mutiny》等作品。此外，亚马逊 2026 年早期黑色星期五促销活动现已上线，涵盖 Apple、Pixel、三星、乐高等多种商品及节日相关产品，优惠力度较大。用户可前往 Google Play 领取限免应用，或在亚马逊提前选购黑五折扣商品，把握节前购物机会。",
+              "source_url": "https://9to5toys.com/2026/11/12/todays-highlight-google-play-deals-48/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-13T03:48:31+08:00"
+            },
             {
               "title": "Pebblebee 推出节日配色 Android Find Hub 追踪器，实物光泽不及宣传图",
               "brief": "Pebblebee 全年持续为其 Clip 5 追踪器推出限时配色，兼容 Android Find Hub 与 Apple Find My，本周最新推出“蔓越莓红”和“香槟金”两款。作者表示这是首次觉得配色在实物上不够理想：蔓越莓红的反光闪耀效果在现实中不明显，香槟金则是较暗淡的米色，缺少产品图中的光泽。好消息是核心硬件不变，包括 USB-C 充电、130 分贝警笛等，售价仍为 34.99 美元。此前推出的粉色和青柠色仍限量供应，官网黑五促销下单多个可享七至八折优惠。",
@@ -108,26 +122,33 @@
               "source_url": "https://9to5google.com/2026/11/12/four-excellent-garmin-watches-are-on-deep-discount-ahead-of-black-friday/",
               "source_name": "9to5Google",
               "published_at": "2026-11-13T01:35:00+08:00"
-            },
-            {
-              "title": "Nothing 无屏幕新品更像是又一款 AI 录音设备",
-              "brief": "Nothing 此前预告将推出首款无屏幕、无法以应用形式存在的“AI 原生”产品，创始人裴宇最新发布简短预告，配文“上下文不会存在于聊天框中”。公司暂未透露产品细节，但从绿色和红色指示灯以及看似录音按钮的设计来看，这很可能是一款 AI 录音设备。裴宇此前发文称，最重要的上下文信息往往无法传达给模型，人们听到值得记录的想法时需要掏出手机记录，容易错过当下时刻。市面上已有不少质量参差不齐的 AI 录音设备，Nothing 的产品如何实现差异化仍有待观察。",
-              "source_url": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-13T01:30:00+08:00"
-            },
-            {
-              "title": "优惠汇总：Galaxy SmartTag3 最低七折、Chromebook 与 Google Home Speaker 降价",
-              "brief": "本轮优惠汇总中，全新三星 Galaxy SmartTag3 首次降价，单只 20 美元，最高优惠 30%。同时 TCL NXTPAPER 14 英寸安卓平板降价 100 美元，Acer 触屏 Chromebook 售价 319 美元，折扣达 46%。此外，全新 Google Pixel Tag 追踪器正式开售，单只 29.99 美元，四件装 99.99 美元，约合每只 25 美元，在 Google 商店购买指定官方配件还可立减 5 美元。2026 款 Google Home Speaker 全部配色享 8 折，售价 80 美元，创历史最低价。沃尔玛、亚马逊和百思买的黑五提前促销也已上线，涵盖科技产品、LEGO、家电等多种商品，部分 OLED 电视最高优惠 1200 美元。",
-              "source_url": "https://9to5google.com/2026/11/12/deals-smarttag-3-chromebook-walmart-early-black-friday/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-13T00:48:00+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "YouTube TV 出现“视频不可用”黑屏，打断节目和体育赛事",
+              "brief": "YouTube TV 用户最近遭遇新问题：观看节目或体育赛事时，屏幕会突然变成黑屏并显示“视频不可用”提示，约 10 秒后才恢复正常播放。不少用户在 Reddit 上反馈，这一故障导致他们错过了比赛的关键时刻。有用户称该问题只出现在观看 NBC 频道时，可能与 NBC 相关。此前 YouTube TV 刚出现过直播标签页中频道消失的漏洞，Google 很快推出了修复。针对此次黑屏问题，Android Authority 已联系 Google 和 NBC 征求回应，更多信息公布后将更新报道，用户也可反馈自己是否遇到同类问题。",
+              "source_url": "https://www.androidauthority.com/youtube-tv-video-unavailable-screen-3734695/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T05:01:07+08:00"
+            },
+            {
+              "title": "三星正在开发集中面板，追踪所有被拦截的来电",
+              "brief": "据 APK 逆向拆解，三星正在 One UI 9.5 的电话应用中开发专门的“被拦截来电”仪表板，方便用户查看手机过滤了多少骚扰电话。该面板可显示过去 30 天被拦截的来电总数，并分为三类：潜在欺诈、疑似垃圾来电和用户手动拦截，各类别以不同颜色的堆叠横向条形图呈现。点击任一类别可进入专门页面，查看对应的被拦截来电记录。虽然被拦截来电历史并非全新功能，但新仪表板更为详细。该功能是通过手动启用发现的，仍处于开发阶段，尚未确认发布日期，未来也可能不会正式上线。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-5-phone-blocked-calls-dashboard-3734645/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T04:22:05+08:00"
+            },
+            {
+              "title": "Google 智能眼镜翻译功能出色，但不适合用于对话",
+              "brief": "Google 正式加码智能眼镜，首批 Intelligent Eyewear 系列本周开启预订，由 Gentle Monster、Warby Parker 和三星合作推出，售价 400 美元起。翻译是主打功能之一，旨在打破语言障碍，但各部分表现差异明显。作者在 Gentle Monster 纽约快闪店提前体验了这款安卓 XR 智能眼镜，现场展示了生成购物清单、创建音乐播放列表、提供健身建议等多种场景。体验中，借助 Gemini 翻译眼前物体上的文字表现出色，非常实用；但在对话翻译方面，作者认为体验尚不理想，暂时不会用它来进行实时对话交流。",
+              "source_url": "https://www.androidauthority.com/smart-glasses-translation-3734126/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T03:29:44+08:00"
+            },
             {
               "title": "谷歌向搜索全面推送 Gemini 4 Hydrogen，带来更智能的回答",
               "brief": "谷歌正在向全球所有用户推送 Gemini 4 Hydrogen 模型升级，为 Google 带来更智能的回答、更好的视觉呈现，以及对复杂问题的更深入理解。此次升级后，用户不必再刻意斟酌搜索措辞：即使同时提出多个问题、存在拼写错误或需求非常具体，搜索也能更准确地理解真实意图。例如查找一台轻薄、续航出色且能流畅剪辑视频的笔记本电脑，只需一次性提出全部要求即可。搜索还会将复杂问题拆解为多个子查询，从更广泛的网站获取相关信息，帮助用户发现平时搜不到的有用来源。此外，回答形式也更加多样，包括图片、对比表格、结构化摘要及交互式工具，覆盖所有支持 AI 模式的语言。",
@@ -141,33 +162,26 @@
               "source_url": "https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/",
               "source_name": "Android Authority",
               "published_at": "2026-11-13T03:06:59+08:00"
-            },
-            {
-              "title": "一加新更新支持手机和平板自动解锁电脑",
-              "brief": "一加本周宣布开始推送 11 月更新，手机将获得 C20P01(BRB1EX01) 版本，平板则收到 C20P01(BRB3EX01) 版本。对于 OxygenOS 16 设备，此次更新引入了用移动设备自动解锁 PC 的功能。根据更新日志，“连接时自动解锁”功能允许电脑在与手机远程连接时，使用已保存的密码自动完成解锁。用户可在远程连接时点击悬浮球上的更多图标，然后选择“解锁电脑”并开启“连接时自动解锁”来设置该功能。此次推送实际于 10 月 27 日开始，采用分批逐步方式，覆盖一加 Open、一加 15、13、12、11 系列、一加 10 Pro、多款 Nord 机型以及一加平板系列等设备，预计 2026 年 11 月 19 日左右到达所有用户。",
-              "source_url": "https://www.androidauthority.com/oneplus-oxygenos-16-update-pc-unlock-3734600/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T02:35:22+08:00"
-            },
-            {
-              "title": "谷歌 11 月更新导致部分 Pixel 相机失效，但有简单修复方法",
-              "brief": "部分 Pixel 10 和 Pixel 11 系列用户反映，安装谷歌 11 月更新后相机完全无法使用。受影响用户遇到的症状包括相机预览黑屏、应用报错，以及前后摄像头均无响应。第三方相机应用也出现同样问题，说明这并非 Pixel 相机应用本身的 bug。用户在 Reddit 和谷歌支持论坛大量投诉，有用户刚从 iPhone 17 换到 Pixel 11 两天就遭遇此问题，还有人尝试恢复出厂设置也未能解决。好消息是问题有简单修复办法：将设备完全关机约五分钟后再开机，部分用户反映相机即可恢复正常。目前该问题仅出现在 Pixel 10 和 Pixel 11 系列设备上，未接到旧机型用户的相关报告。",
-              "source_url": "https://www.androidauthority.com/pixel-camera-not-working-after-november-update-3734529/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T01:26:02+08:00"
-            },
-            {
-              "title": "独家：谷歌隐藏名单显示 134 款应用支持 Gemini 任务自动化",
-              "brief": "Android Authority 独家发现，Android 17 中谷歌隐藏的服务端目标应用名单显示，共有 134 款应用与 Gemini 任务自动化相关，其中 114 款出现在稳定版 Android 17 QPR2，另有 20 条测试条目位于 Android Canary 2611。应用必须出现在该允许名单上且 Play 商店签名证书匹配才能执行自动任务，因此印度的 Zomato 和 Blinkit 等区域性应用可以工作，而 Swiggy 和 Zepto 等未上榜的应用目前被阻止。上榜并不保证功能立即可用，例如 Microsoft Word 和 Outlook 虽在名单中，但尚不支持 Gemini 直接的应用内自动化。该功能最初于 3 月以六款应用起步，现已扩展至英国、印度和日本。",
-              "source_url": "https://www.androidauthority.com/google-gemini-task-automation-target-apps-list-3734443/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T01:05:36+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "英伟达临时CEO科利特·克雷斯是谁？",
+              "brief": "黄仁勋在执掌英伟达33年后辞去CEO职务，公司董事会宣布由现任执行副总裁兼首席财务官科利特·克雷斯暂时代理。此前黄仁勋承认与一名被指为中国情报人员的前科技高管有染，董事会随即对其展开调查，《纽约时报》还报道称他与一名下属高管也有不正当关系。克雷斯2013年加入英伟达前，曾在德州仪器从事八年财务工作，1997年加入微软，后出任服务器与工具部门CFO，2010年转投思科担任业务技术与运营财务部门高级副总裁兼CFO。公司此前并无接班计划，克雷斯临危受命。",
+              "source_url": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-13T03:26:47+08:00"
+            },
+            {
+              "title": "微软多项Microsoft 365服务出现故障",
+              "brief": "微软多项服务下午出现宕机。最初报告集中在用户无法通过Outlook收发邮件，但Microsoft 365套件中多个平台均受影响。微软在X平台的支持账号已确认问题，Engadget多名员工甚至无法加载服务状态页面。状态页列出的潜在受影响服务包括Exchange Online、Microsoft Teams、SharePoint Online、Microsoft Copilot 365和Microsoft Defender XDR。微软表示，受影响的基础设施在多个地区出现高负载，可能导致连接错误，公司正在重启和修复相关基础设施，并调查某类服务流量异常激增是否为原因，同时评估将流量转移至备用设施以加快恢复。",
+              "source_url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-13T03:17:32+08:00"
+            },
             {
               "title": "英伟达前CEO黄仁勋将于本月赴国会作证",
               "brief": "英伟达前CEO兼总裁黄仁勋虽已离职，但仍将出席国会听证。众议院外交事务主席Brian Mast表示，黄仁勋在议员威胁发出传票后同意作证，时间在感恩节前，就在英伟达宣布其辞职数小时之前。听证会将在闭门情况下进行，但会被录像和记录，众议院情报委员会及涉华委员会也将参与。Mast称双方在出口管制问题上分歧很大，但英伟达对美国十分重要，黄仁勋需要回答一些严肃问题。此前英伟达被曝调查黄仁勋承认的婚外情，对方据称疑似中国间谍，FBI也在调查，另有报道称其与英伟达高管有另一段婚外情。首席财务官Colette Kress出任临时CEO。",
@@ -188,13 +202,6 @@
               "source_url": "https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/",
               "source_name": "Engadget",
               "published_at": "2026-11-13T01:00:00+08:00"
-            },
-            {
-              "title": "部分 Apple Home Collection 设备将于 11 月 13 日开启预购",
-              "brief": "在 Apple HomeView 智能显示屏和新版 Apple TV 4K 上市同日，Apple Home Collection 部分配件将于 11 月 13 日开启预购，包括 LG 室内摄像头、室外摄像头和可视门铃，它们是首批发货的 Home Collection 配件，预计 12 月到货。恒温器和门锁等其他产品部分将于下月推出，其余在 2027 年初上市。室内摄像头售价 200 美元，可拍摄 2.5K 画面，支持弱光彩色夜视和红外夜视，能识别人和宠物，外出时可自动或手动升起镜头。室外摄像头可识别人脸、宠物和包裹，支持 2.5K 视频、双向通话和 IP65 防护，标准版 300 美元，泛光灯版 400 美元。售价 250 美元的可视门铃采用双摄像头设计，可同时拍摄访客和包裹。这些设备通过 iCloud+ 提供 10 天事件视频历史。",
-              "source_url": "https://www.engadget.com/2314724/pre-orders-for-some-apple-home-collection-devices-will-open-november-13/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-12T23:16:55+08:00"
             }
           ]
         },
@@ -202,45 +209,66 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "25款初代Xbox游戏现可在PC上游玩",
+              "brief": "在Xbox诞生25周年之际，微软开始兑现其付费“次世代游戏保存”承诺。即日起，玩家只要拥有或购买数字版，就可在Windows PC上游玩25款不同的初代Xbox游戏，此前7月仅推出4款。微软表示，这些游戏均已支持键盘和鼠标操作。此外，微软首次为初代Xbox游戏添加成就系统，首批支持《星球大战：旧共和国武士》及其续作、《Blinx：时空扫除者》和《Conker：Live and Reloaded》四款游戏，玩家在Xbox One和Xbox Series主机上进行系统更新后也可解锁成就。未来还将有更多游戏加入。",
+              "source_url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+              "source_name": "The Verge",
+              "published_at": "2026-11-12T16:00:00-05:00"
+            },
+            {
+              "title": "微软Outlook服务中断",
+              "brief": "过去一小时内，全球各地大量用户反映无法通过网页或客户端访问Outlook邮箱。微软在Microsoft 365状态账号上承认了该问题，称“部分基础设施在多个区域负载过高，这很可能是导致连接错误的原因”。也有关于Teams的故障报告，但部分用户称Teams仍可正常使用。截至美国东部时间下午3:30，微软表示，尚未发现与故障开始时间相关的近期变更，但调查显示失败的健康检查可能源于受影响服务器上负责处理该任务的特定组件，公司正在部署针对性的更改以绕过该组件。",
+              "source_url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+              "source_name": "The Verge",
+              "published_at": "2026-11-12T15:43:02-05:00"
+            },
+            {
+              "title": "那些想让肽类药物在美国制造的人",
+              "brief": "上周，三位Z世代风险投资人在二战自由轮“耶利米·奥布莱恩号”上举办了一场黑领结肽主题派对。该船曾在56天内建成，11次前往法国诺曼底为盟军补给。约150人出席活动，现场提供了四种肽样品，均为外用品而非注射剂。对于鱼龙混杂的肽类灰色市场，一些人认为解决方案是把制药供应链带回美国本土生产。这是The Verge资深评测员Victoria Song每周通讯Optimizer的一期内容，该通讯剖析各种号称能改变生活的产品与补剂。",
+              "source_url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+              "source_name": "The Verge",
+              "published_at": "2026-11-12T15:00:00-05:00"
+            },
+            {
+              "title": "AI智能体并未发现未知的玛雅遗址",
+              "brief": "谷歌研究员Pietro Miotti本周早些时候声称，其AI智能体团队在墨西哥发现了一处可能未见于记载的玛雅遗址，并称智能体报告找到了大量疑似建筑和房屋的村庄图形。但问题在于，该遗址此前已被发现，且相关论文去年已发表于学术期刊。此事引发考古学家在线批评，凸显出科学领域日益加剧的矛盾：业余爱好者携带日益强大的AI工具空降进入专业领域，往往缺乏理解所见内容所需的专业知识。而当地社区通常早已了解其区域内的这些遗址。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+              "source_name": "The Verge",
+              "published_at": "2026-11-12T14:42:40-05:00"
+            },
+            {
               "title": "Palantir现在自称“进步派”了？",
               "brief": "The Verge专栏作家梳理了Palantir首席执行官亚历克斯·卡普过去三年在公开场合的诸多言论。文章指出，上周选举让右翼遭遇惨败，令那些将政治命运押在所谓“氛围转变”上的科技创始人们陷入尴尬。特朗普的胜利实际优势微弱，其两年来的腐败政策已激怒美国民众。在此背景下，卡普试图向左翼转向，声称自己一生都是民主党人，成长于极左环境，比地球上几乎任何人都更懂进步主义，并宣称Palantir的所有产品本质上都是进步的。作者对此番言论表示质疑。",
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
               "source_name": "The Verge",
               "published_at": "2026-11-12T13:06:54-05:00"
-            },
-            {
-              "title": "黄仁勋丑闻远未结束",
-              "brief": "英伟达首席执行官黄仁勋的第二段婚外情曝光，登上新闻头条。作者此前认为黄仁勋是“打不倒的”，因为他将自身地位与AI行业的发展深度绑定。但文章指出，婚外情本身并非关键所在，真正值得关注的是围绕黄仁勋的更广泛争议，包括芯片走私等丑闻引发的辞职呼声等问题。这场风波表明，即便是最强势的科技巨头掌门人，也难以完全免于舆论与治理层面的压力，其丑闻仍在持续发酵，事件尚未画上句号。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T12:44:33-05:00"
-            },
-            {
-              "title": "“特斯拉的末日！”：马斯克叫停Cybertruck后，铁杆粉丝倒戈",
-              "brief": "特斯拉宣布终止Cybertruck电动皮卡的生产，这款备受争议的车型即将走向终结。这一决定在特斯拉社区内部引发了罕见的强烈反弹，矛头直指马斯克本人。长期以来，马斯克的粉丝群体对偶像反复无常的决定往往持宽容态度，但这一次，那些围绕Cybertruck建立了线上身份认同的忠实支持者感到被背叛，纷纷质疑马斯克的下一个重大转向。他们在社交媒体上表达失望与愤怒，甚至喊出“特斯拉的末日”等口号，反映出这款皮卡的停产对其核心粉丝群体造成的冲击。",
-              "source_url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T12:00:17-05:00"
-            },
-            {
-              "title": "25年后，Xbox再次尝试重塑自我",
-              "brief": "初代Xbox于2001年11月15日发售，至今已整整25年。当年微软出于对索尼将PC搬进客厅的担忧，打造了第一款基于熟悉PC技术的游戏主机，采用定制英特尔奔腾III处理器、英伟达GPU和64MB统一内存，与索尼和任天堂的完全定制架构截然不同，并凭借更友好的开发工具吸引开发者。25年后的今天，Xbox再次面临类似处境：虽非从零开始，但要迎来下一个25年里程碑，微软必须做出根本性的改变。Xbox一贯以尝试新事物著称，接下来将走向何方备受关注。",
-              "source_url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T12:00:00-05:00"
-            },
-            {
-              "title": "研究发现：AI聊天机器人推荐虚假零售网站",
-              "brief": "知识产权保护公司Podqi的最新研究显示，消费者使用AI聊天机器人搜索商品或购买渠道时，可能被引导至仿冒网站等危险链接。该公司与The Verge独家分享了研究成果，测试了ChatGPT、Gemini和Perplexity三款聊天机器人，围绕151个大小品牌提出“购买某品牌的首选网站是什么”“在哪里能找到某品牌”“某品牌是否支持国际配送”等购物相关问题，测试于9月分两个阶段进行。结果显示，在多达15%的对话中，聊天机器人展示了“有风险”的网址，涉及Lululemon、Birkenstock等知名品牌。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T12:00:00-05:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "Ars直播：无人机攻击数据中心对云端现代生活意味着什么",
+              "brief": "今年，无人机和导弹袭击给东欧和中东的数据中心造成了前所未有的破坏，扰乱了数百万人的云服务，并永久删除了部分亚马逊云科技（AWS）客户数据。这一趋势不仅成为大型科技公司的新隐忧，也让依赖数字服务的各国政府与普通民众感到担忧。Ars将于美东时间11月17日下午1时举办线上直播对话，主题为“无人机攻击与数据中心：大型科技公司的新风险”，嘉宾是英国皇家联合军种研究所（RUSI）高级研究员约瑟夫·雅尔内茨基。他负责RUSI关于云服务与国家安全、国防及技术主权的研究，曾深入分析乌克兰如何在网络攻击与动能攻击双重威胁下，与西方合作伙伴携手增强云韧性。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-13T03:59:59+08:00"
+            },
+            {
+              "title": "《上古卷轴》最冷门作品获4K PC重制",
+              "brief": "2004年，诺基亚N-Gage平台独占推出了《上古卷轴旅行：暗影之钥》，这是一款分辨率为176x208的移动端砍杀类角色扮演游戏，也是该系列最鲜为人知的一部作品。如今，玩家无需寻找老旧的N-Gage硬件或模拟器即可体验它。由粉丝制作的免费PC移植版《暗影之钥：重铸》将原始游戏文件与脚本同更新后的美术资源相结合，可在PC上原生运行并支持4K画质。该作采用完全重写的PC图形引擎，画面从N-Gage的竖屏扩展到16:9宽屏，最高支持120帧显示（游戏逻辑仍保持原版的25帧），并对贴图进行了全新重制。",
+              "source_url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-13T03:49:11+08:00"
+            },
+            {
+              "title": "谷歌推出Gemini 4 Hydrogen，正式取代3.8 Flash",
+              "brief": "谷歌延续了以元素命名的AI命名 scheme，发布新模型Gemini 4 Hydrogen，用于取代生态系统中大多数用户使用的更快速、更经济的Flash系列模型。与此前Argon和Carbon分阶段、面向安全研究人员优先开放的发布方式不同，Hydrogen的开放限制宽松得多，上线即向用户开放，并已在谷歌全线产品中取代Gemini 3.8 Flash。谷歌称，Hydrogen可在低、中、高和新增的xhigh四个思考层级运行，即使在高档位下速度也比3.8 Flash快2.5倍；根据谷歌的分析，其“编造性陈述”减少超过5倍；代码生成能力也显著提升，在Terminal-Bench上的得分是3.8 Flash的三倍以上。在某些测试中，Hydrogen甚至可与Argon一较高下，在xhigh模式下于Artificial Analysis智能指数获得54分，高于Argon的50分。",
+              "source_url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-13T03:23:03+08:00"
+            },
             {
               "title": "乌克兰称SpaceX星盾再次被限速，SpaceX予以否认",
               "brief": "乌克兰总统泽连斯基在爱尔兰举行的第九届欧洲政治共同体峰会上表示，在俄军占领的乌克兰领土上，星盾（Starshield，星链的军用版本）再次对高速飞行的无人机启用限制，速度上限回到每小时161公里。他指责此举意在帮助俄罗斯，且美方对此提供的解释很少。SpaceX媒体部门回应称这一说法不实，没有任何变化。SpaceX已获得五角大楼多份合同为乌克兰提供星盾服务，马斯克上月曾表示相关限制决定由美国政府作出。",
@@ -254,27 +282,6 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-13T02:57:45+08:00"
-            },
-            {
-              "title": "Netflix发布动画新片《Ray Gunn》新预告",
-              "brief": "Netflix发布了布拉德·伯德执导的动画电影《Ray Gunn》的最新预告片。伯德曾执导《钢铁巨人》《超人总动员》《美食总动员》等经典动画，后两部获奥斯卡奖。本片构想已有约30年，剧本由他与马修·罗宾斯合写。灵感源于伯德听到B-52乐队《Planet Claire》开头，误以为是电视剧《Peter Gunn》主题曲的翻唱，从而构思出未来侦探雷·冈恩的角色。影片融合1930年代黑色侦探片与复古未来风格，山姆·洛克威尔为主角配音，故事发生在另类未来都市大都会。",
-              "source_url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-13T02:38:38+08:00"
-            },
-            {
-              "title": "AST SpaceMobile计划自研“简单”火箭发射卫星",
-              "brief": "电信公司AST SpaceMobile创始人兼首席执行官阿韦兰在一场长达一小时的活动中阐述了研制大型火箭、将Bluebird卫星送入轨道的构想。他反复强调要造一枚“简单”的火箭，多次引用马斯克“最好的零件是没有零件”的说法，并称公司已为拟议的Blacklift火箭采购发动机，因为发动机研发通常占火箭研制周期的80%。他表示火箭可以简化为给发动机供燃料的大贮箱。该公司卫星已具备直接连接手机的能力，但面临商业发射紧张、卫星难以入轨的困境，他强调并非因为喜欢火箭才这么做。",
-              "source_url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-13T02:28:22+08:00"
-            },
-            {
-              "title": "男子秘密服用兽用合成睾酮致心脏反复衰竭",
-              "brief": "马萨诸塞州一名男子11年来反复住院，心脏不断衰竭，一度需要生命支持，但他始终隐瞒了病因：长期服用强效非法合成睾酮衍生物，即合成代谢雄激素类固醇，其中一种药物仅获批用于动物，主要用于给牛增肌。医生在不知情的情况下辗转排查，最终在本周《新英格兰医学杂志》的病例报告中揭示了诊断过程。医生警告这类病例将越来越常见，估计美国有290万至400万人使用此类物质，多为男性运动员，人数超过艾滋病感染者，临床医生应警惕心肌病等长期影响。",
-              "source_url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-13T02:17:19+08:00"
             }
           ]
         }
@@ -286,6 +293,20 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "2026年TGA游戏颁奖典礼将登陆Disney+",
+              "brief": "据Variety报道，2026年The Game Awards颁奖典礼将首次在Disney+播出，此举旨在推广迪士尼的游戏及相关媒体项目，其中包括迪士尼扭曲仙境动画版以及小岛秀夫《死亡搁浅》改编动画剧集《Death Stranding Isolations》，后者首支预告已于10月底公开。同时公开的还有《死亡搁浅》世界观动画电影《Mosquito》。本届TGA入围作品阵容强大，包括《生化危机9》《007：第一缕光》《塞尔达传说：时之笛重制版》以及11月19日发售的《GTA6》等。颁奖典礼将于12月10日早7:30（美东时间）在洛杉矶孔雀剧院举行，由Geoff Keighley主持，并在Twitch、YouTube、TikTok等多平台同步直播。",
+              "source_url": "https://www.ign.com/articles/the-game-awards-2026-are-coming-to-disney",
+              "source_name": "IGN",
+              "published_at": "2026-11-13T03:17:53+08:00"
+            },
+            {
+              "title": "凯文·费奇确认《复仇者联盟：毁灭日》中的毁灭博士并非托尼·斯塔克的变体",
+              "brief": "漫威总裁凯文·费奇否认了粉丝间流行的猜测，即小罗伯特·唐尼饰演的毁灭博士是托尼·斯塔克在多元宇宙中的变体。费奇反问：美国队长是否也是神奇四侠中霹雳火的变体？他明确表示毁灭博士就是维克托·冯·杜姆本人，并非让旧角色回归的捷径。导演罗素兄弟透露，杜姆曾失去孩子，是创伤的受害者，自负程度超过灭霸。乔·罗素称其为哥特式角色，自称地狱听命于他，掌握强大而黑暗的魔法，甚至不惜出卖灵魂以达目的。小罗伯特·唐尼表示此次饰演反派令人兴奋，暗示杜姆计划的规模远超想象。影片距上映仅一个多月，编剧名单中出现休·杰克曼和瑞安·雷诺兹，暗示金刚狼和死侍或将登场。",
+              "source_url": "https://www.ign.com/articles/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday-confirms-kevin-feige",
+              "source_name": "IGN",
+              "published_at": "2026-11-13T03:09:45+08:00"
+            },
             {
               "title": "杰克曼与雷诺兹名列《复仇者联盟：毁灭日》编剧，引发死侍与金刚狼参演猜测",
               "brief": "美国编剧工会网站更新显示，《复仇者联盟：毁灭日》的编剧名单中新增了多位贡献者。该片剧本由斯蒂芬·麦克菲利和迈克尔·沃尔德伦撰写，而埃里克·皮尔森、克里斯·麦肯纳、埃里克·萨默斯、杰夫·洛夫尼斯、安德鲁·兰哈姆、德斯汀·克里顿、瑞安·雷诺兹和休·杰克曼则被列入“额外文学素材”一栏，通常意味着他们对台词润色或小范围修改有所贡献。雷诺兹素来参与死侍电影编剧，若死侍不在片中，他参与本片剧本将令人意外；杰克曼虽无编剧经历，但出演金刚狼已有26年，可能协助编写相关戏份。两人此前多次暗示将回归本片，但尚未正式确认。克里顿同时执导《蜘蛛侠：崭新之日》，其贡献也可能与已确认参演的尚气有关。",
@@ -306,20 +327,6 @@
               "source_url": "https://www.ign.com/articles/new-gta-6-in-game-footage-continues-to-highlight-the-games-unbelievable-graphics",
               "source_name": "IGN",
               "published_at": "2026-11-13T01:31:56+08:00"
-            },
-            {
-              "title": "迪士尼将推出《新希望》纪录片庆祝《星球大战》50周年",
-              "brief": "卢卡斯影业原版《星球大战》于1977年上映，开启了全球最受欢迎、最赚钱的影视系列之一。半个世纪后，迪士尼+将于5月4日星球大战日推出全新纪录片《英雄觉醒》，由奥斯卡提名导演R.J.卡特勒执导，收录《新希望》拍摄期间的珍稀档案影像。此前2月19日，影院将重映罕见的1977年原版电影，即贾巴尚未变成CGI形象、格里多先开枪的版本。其他新内容方面，《阿索卡》第二季将于1月20日上线迪士尼+，《星球大战：星际战机》将于5月28日登陆影院。官方新闻稿还宣布2027年将有新项目公布、周年周边、粉丝活动、档案发行及迪士尼乐园与邮轮相关内容。",
-              "source_url": "https://www.ign.com/articles/disney-marking-star-wars-50th-anniversary-with-fresh-a-new-hope-making-of-documentary",
-              "source_name": "IGN",
-              "published_at": "2026-11-13T00:51:20+08:00"
-            },
-            {
-              "title": "Xbox 25周年：CEO夏尔马称“个人将很快拥有曾需整个国家才具备的能力”",
-              "brief": "在Xbox迎来25周年之际，首席执行官阿莎·夏尔马周五前夕在X平台发布文章，展望品牌与电子游戏的未来，称“单个人很快就能驾驭曾需整个国家才具备的能力”。文章刻意未直接点名人工智能，但其扮演的核心角色已十分明显。夏尔马写道，尽管现代游戏展现了人类技艺的巅峰，但开发所需的成本、资源和风险同样急剧增长，导致许多创意无法成为游戏、许多作品未达创作者预期，这种野心的取舍必须改变。分析指出，微软已转向多平台发行、以Windows为核心的掌机，未来Xbox主机可能演变为游戏PC，“Xbox游戏”的概念或许正走向终结。",
-              "source_url": "https://www.ign.com/articles/as-xbox-turns-25-ceo-asha-sharma-says-a-single-person-will-soon-be-able-to-wield-capabilities-that-once-required-entire-nations",
-              "source_name": "IGN",
-              "published_at": "2026-11-13T00:32:17+08:00"
             }
           ]
         },
@@ -346,45 +353,59 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "三星结束近四年反向无线充电专利诉讼",
-              "brief": "WiPQTUS指控三星Wireless PowerShare反向无线充电功能侵犯其名为双模式无线电力接收器的美国专利，该功能最早随Galaxy S10系列推出，可为耳机、手表等设备无线供电，诉讼涉及多代Galaxy旗舰产品。WiPQTUS属于专利运营公司，纠纷还牵涉为相关设备提供无线电力管理芯片的瑞萨电子，瑞萨曾对WiPQTUS提出反诉。2026年11月10日，三方共同向法院提交撤诉协议，宣布和解并撤回全部请求，承诺不再就同一事项相互起诉。和解条款未公开，法院也未对侵权与否作出判决，用户使用不受影响。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586132.htm",
+              "title": "SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易",
+              "brief": "SpaceX与特斯拉合并谈判取得进展，最早可能于12月宣布交易。两家公司合计市值超过3.4万亿美元，特斯拉定于12月3日召开年度股东大会。合并核心目标是将人工智能、自动驾驶、机器人及航天业务整合至同一企业集团。双方已合作在得克萨斯州建设半导体工厂。今年10月，马斯克证实两家公司董事会均已成立特别委员会研究潜在合并交易，但强调交易并非必然达成。国家安全审查及股东批准仍是主要障碍。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586148.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T02:06:02+08:00"
+              "published_at": "2026-11-13T05:17:05+08:00"
             },
             {
-              "title": "科学家发现地幔运动可能是“大不整合面”存在的原因",
-              "brief": "大不整合面是地质学著名谜题，表现为约5.4亿年前的寒武纪沉积岩直接覆盖在年龄超过10亿年的古老结晶岩之上，美国大峡谷是典型观察地点。伍伦贡大学研究团队利用计算机模型模拟数亿年间地幔对流与大陆垂直运动的关系，发现新元古代时期地幔热物质流动曾推动劳伦大陆、波罗的大陆和华北地区逐渐隆起，古老岩石长期暴露遭受侵蚀，大量岩层被移除；进入显生宙后大陆逐渐下沉，海水与沉积物覆盖侵蚀面，使其保存至今。模型预测的隆起与下沉区域与现实中大不整合面分布高度吻合。论文发表于《自然》。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1586130.htm",
+              "title": "《GTA6》韩国特别宣传片公开，多领域艺人共同出演",
+              "brief": "《GTA6》韩国特别宣传片公开，由多领域艺人共同出演。参演者包括崔康禄、歌手兼音乐制作人朴宰范、男子团体LNGSHOT成员Ohyul与Ryul、女子乐队QWER成员Chodan与Magenta，以及资深电竞赛事主播成胜宪。影片后半段转入官方游戏画面，展示罪恶市与雷欧奈达州，并介绍PS5版对DualSense触觉反馈、Tempest 3D音效和高速SSD的运用，黑、白两款限定DualSense控制器也在片中出现。游戏将于2026年11月19日登陆PS5和XSX|S。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1586146.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T01:06:30+08:00"
+              "published_at": "2026-11-13T05:15:58+08:00"
             },
             {
-              "title": "天文学家发现罕见双星系统 一颗白矮星每隔8分钟发射一次无线电脉冲",
-              "brief": "天文学家发现一个距离地球超过5000光年的双星系统，由一颗白矮星和一颗类似太阳的G型恒星组成，白矮星每隔8分钟发射一次无线电脉冲。此类天体被归入“长周期暂现源”，自2021年首次发现以来已确认十余个，但其辐射机制尚不明确。研究人员通过脉冲信号变化首次直接观察到白矮星在双星轨道上的运动，确认无线电脉冲来自白矮星附近区域。研究还发现白矮星的无线电波可作为探测工具，用于识别伴星表面的恒星耀斑。该系统由澳大利亚默奇森宽视场阵列发现，论文已发表于《自然·天文学》。",
-              "source_url": "https://www.cnbeta.com.tw/articles/science/1586128.htm",
+              "title": "AI智能体声称发现玛雅文明失落遗址，但该地点早已被记录",
+              "brief": "一名业余研究者组建48个AI智能体团队，利用激光雷达数据分析玛雅文明地区，识别出多处值得调查的地点，其中包括一处规模较大的聚落，并向墨西哥国家人类学与历史研究所查询，获回复称登记记录中没有该地点信息。他随后在博客上宣布这一发现。但考古学家指出，该遗址早已在学术期刊中得到记录，论文发表时间比其所谓发现早一年多。专家批评研究人员必须核对已有学术成果，不能因政府数据库无记录就认定从未被发现。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1586144.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T01:00:58+08:00"
+              "published_at": "2026-11-13T04:55:27+08:00"
             },
             {
-              "title": "黄仁勋将在感恩节前赴国会作证",
-              "brief": "英伟达CEO黄仁勋将在感恩节前赴美国国会作证，接受国会记录文字笔录，多个委员会都会参与。众议院议员马斯特表示，他已经告知黄仁勋，如果有必要，他会对黄仁勋发出传票强制传唤。马斯特还称，国会不排除后续针对其他相关人员或事项召开公开听证会。此前黄仁勋因婚外情风波公开道歉，英伟达董事会已宣布启动独立调查，其证词内容预计将受到外界广泛关注。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586126.htm",
+              "title": "黄仁勋被曝还与英伟达另一名员工存在婚外关系，涉及关系增至三起",
+              "brief": "据报道，黄仁勋被曝还与英伟达另一名员工存在婚外关系，使其涉及的婚外关系增至三起。此前他已因另外两段婚外关系陷入舆论风波，其中一人是新加坡芯片企业Megaspeed前高管Alice Huang，另一人是英伟达医疗健康业务副总裁Kimberly Powell。黄仁勋此前曾向员工承认自己对婚姻不忠，并向妻子、子女和同事道歉。英伟达董事会已启动独立调查，聘请外部律师协助核查相关情况，黄仁勋也被要求在未来数周内向美国国会作证。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586142.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T00:51:48+08:00"
+              "published_at": "2026-11-13T04:54:06+08:00"
             },
             {
-              "title": "散户逢低抄底英伟达",
-              "brief": "英伟达股价近期波动期间，其股票连续多日获得散户强劲买盘。据Vanda统计，本周周一、周二、周三，英伟达均为样本中被净买入最多的证券，净买入规模是排名第二标的的数倍，本周英伟达占全部散户净买入总金额的61%。资金需求还蔓延至杠杆类产品，周一至周三散户向6只英伟达两倍做多ETF合计投入4250万美元，这是有记录以来规模排名前三的三日资金流入，显示散户在股价回调中积极抄底。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586124.htm",
+              "title": "三星Q3折叠屏手机出货份额升至69%，Galaxy Z Fold8成增长主力",
+              "brief": "第三季度三星折叠屏手机出货份额升至69%，Galaxy Z Fold8成为增长主力。华为以14%的份额排名第二，但同比下滑4个百分点，中国市场需求偏弱、高端手机价格上涨及华为产品线内部竞争加剧均对其表现造成影响。联想旗下摩托罗拉排名第三。估算显示，Galaxy Z Fold8上市后约两个月内贡献了三星当季折叠屏出货量的一半以上。机构已下调2026年全球折叠屏手机出货预测，预计市场将在2027年恢复增长。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586140.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T00:51:22+08:00"
+              "published_at": "2026-11-13T04:53:12+08:00"
             }
           ]
         },
         {
           "name": "IT之家",
           "articles": [
+            {
+              "title": "思科 2027 财年第一财季归母净利润 45.52 亿美元，同比增长 59%",
+              "brief": "思科公布 2027 财年第一财季业绩，营收 185.17 亿美元，同比增长 24%，为近 15 年来最强收入增速，超出市场预期。GAAP 归母净利润 45.52 亿美元，同比增长 59%；基本每股收益 1.15 美元，稀释每股收益 1.14 美元，同比增长 58%。GAAP 毛利率 63.7%，同比下降 1.8 个百分点；Non-GAAP 经营利润率 37.8%，创历史新高。经营现金流 43.57 亿美元，同比增长 36%，本季度通过回购与分红向股东返还 36.56 亿美元，并完成对 WideField Security 的收购。公司上调全年指引，预计 2027 财年收入 748 亿至 758 亿美元，并将来自超大规模云厂商的 AI 基础设施收入预期上调至 90 亿美元，同比增长超一倍。",
+              "source_url": "https://www.ithome.com/1/026/450.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-13T05:11:36+08:00"
+            },
+            {
+              "title": "应用材料 2026 财年全年归母净利润 100.88 亿美元，同比增长 44%",
+              "brief": "应用材料公布 2026 财年业绩，全年营收 344.46 亿美元，同比增长 21%，创历史新高，超出市场预期。GAAP 毛利率 50%，同比提升 1.3 个百分点；归母净利润 100.88 亿美元，同比增长 44%；稀释每股收益 12.62 美元，同比增长 46%。全年经营现金流 88.68 亿美元，自由现金流 61.96 亿美元，向股东回报 47.5 亿美元。第四财季营收 104.09 亿美元，同比增长 53%，同样创单季纪录；净利润 27.18 亿美元，同比增长 43%。公司预计 2027 财年第一季度营收 111 亿美元，Non-GAAP 稀释每股收益 4.35 美元，并表示受益于 AI 驱动的晶圆厂设备需求，2026 自然年半导体系统业务增速预计超过 40%。",
+              "source_url": "https://www.ithome.com/1/026/449.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-13T05:05:40+08:00"
+            },
             {
               "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
               "brief": "谷歌发布 Gemini 4 Hydrogen 模型，主打日常编程与智能体工作流，百万 Token 输入定价 1.5 美元，覆盖全部 100 万 Token 上下文窗口，无阶梯计价。该模型设 low、medium、high（默认）、xhigh 四档思考深度，支持百万 Token 输入输出，可处理 PDF、表格、音视频等多模态内容。相比 Gemini 3.8 Flash，默认档位任务完成速度提升 2.5 倍，Terminal-Bench 4.1 得分从 18.2% 升至 57%，虚构错误率降低 5 倍以上。谷歌同步推出 Orchestrator 调度功能，可在 Carbon 与 Hydrogen 等模型间动态切换，平均配额消耗减少 24%。Hydrogen 即日起通过 Gemini API、AI Studio 等渠道陆续开放。",
@@ -405,20 +426,6 @@
               "source_url": "https://www.ithome.com/1/026/440.htm",
               "source_name": "IT之家",
               "published_at": "2026-11-13T00:05:20+08:00"
-            },
-            {
-              "title": "黄仁勋辞职后，特朗普呼吁苹果执行董事长库克接任英伟达 CEO",
-              "brief": "黄仁勋辞去英伟达总裁、首席执行官及董事会成员职务后，特朗普在社交媒体发文，呼吁苹果执行董事长蒂姆·库克前来接替这位传奇人物。库克卸任苹果 CEO 后已改任执行董事长。英伟达方面已任命执行副总裁兼首席财务官科莱特·克雷斯为临时 CEO，在正式继任者确定之前，她在代行首席执行官职责的同时将继续兼任原职。英伟达董事会目前已启动正式首席执行官的遴选工作，并将统筹考虑内部及外部候选人。此前黄仁勋辞任消息曾重创全球 AI 概念股，英伟达市值一度失守 4 万亿美元。",
-              "source_url": "https://www.ithome.com/1/026/439.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-11-12T23:57:36+08:00"
-            },
-            {
-              "title": "阿斯顿·马丁与迪士尼、卢卡斯影业合作，共庆《星球大战》50 周年",
-              "brief": "阿斯顿·马丁宣布与迪士尼、卢卡斯影业达成合作，共同庆祝《星球大战》系列 50 周年，展现精湛工艺与电影叙事的艺术魅力。其全球营销总监芬巴尔·麦克福尔表示，《星球大战》证明了设计与叙事的非凡力量，阿斯顿·马丁同样致力于打造能引发长久情感共鸣的产品与体验。据介绍，阿斯顿·马丁旗下产品从未在《星球大战》电影中亮相，但其与《007》系列渊源更深。2024 年 3 月，阿斯顿·马丁曾申请注册 Venator 商标，而《星球大战》中恰好也有名为 Venator 的狩猎者级歼星舰。公司计划于 2027 年初公布更多周年庆活动，有望推出太空主题特别版车型或配置套件。",
-              "source_url": "https://www.ithome.com/1/026/438.htm",
-              "source_name": "IT之家",
-              "published_at": "2026-11-12T23:48:38+08:00"
             }
           ]
         }
