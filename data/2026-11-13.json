@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T17:19:54.916731+08:00",
+  "generated_at": "2026-11-13T19:19:09.111212+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "苹果今日正式发售两款新品：HomeView 智能家居显示屏与第四代 Apple TV 4K",
+              "brief": "苹果于11月13日正式发售两款新品：全新智能家居显示屏 HomeView 和第四代 Apple TV 4K，两者自10月中旬起开放预购。HomeView 由 Apple Intelligence 与 Siri AI 驱动，用于娱乐和家居管理，分桌面版和壁挂版，可通过面部识别最多六位用户并提供个性化主屏幕，售价299美元。Apple TV 4K 加入 Siri AI、A19 芯片、支持查找功能的全新 Siri 遥控器，并可通过 HomePod mini 2 实现四扬声器环绕声，配备128GB存储，售价299美元。两款产品于10月13日与 HomePod mini 2 一同发布，后者已于10月30日上市。由于监管限制，Siri AI 目前在欧盟 iOS 上不可用，HomeView 暂未在欧盟销售，苹果称正与欧盟积极沟通，但未提供欧盟上市时间表。",
+              "source_url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-13T18:37:25+08:00"
+            },
             {
               "title": "新款 Apple TV 4K 与 Siri AI 上手体验",
               "brief": "MacRumors 在第四代 Apple TV 4K 于 11 月 13 日发售前进行了上手体验。新款设备搭载 A19 芯片，主打 Siri AI 功能。实测显示，Siri AI 虽仍在测试阶段、不够完善，但表现优于旧版，能够给出多条影视推荐并回答内容相关问题，不过在回答追问时表现不稳定。机顶盒内置远场麦克风，无需遥控器即可说\"Hey Siri\"唤醒语音助手。设备最多可识别六位用户，提供个性化推荐和上下文信息，但设置者及各用户需持有支持 Siri AI 的 iPhone 或 iPad。 Siri 遥控器新增内置扬声器，丢失时可发声，配备 iPhone 17 及之后机型还可使用精确查找。A19 芯片让界面更流畅，新款还支持配对四个 HomePod 实现环绕声。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
               "source_name": "MacRumors",
               "published_at": "2026-11-13T04:28:50+08:00"
-            },
-            {
-              "title": "苹果解释 HomeView 如何保护摄像头数据隐私",
-              "brief": "苹果今天详细介绍了如何利用 Secure Exclaves 保护 HomeView、iPhone 18 Pro 等产品上的摄像头和麦克风数据。Secure Exclaves 是与操作系统其他部分隔离的独立运行环境，在其中处理的数据不会提供给系统其他部分、应用或苹果，同时可利用完整的应用处理器。HomeView 借助人脸和语音识别可识别家中最多六人，其摄像头帧流在独立的安全区域内处理，人物出现时仅向主系统通报可能有人存在，图像数据不会离开安全区域。该机制还支持 Siri 回顾、实时回放、iPhone 18 Pro 的屏幕指示器、以及 MacBook Neo 摄像头指示器等功能，语音数据同样受到保护。",
-              "source_url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-13T03:48:04+08:00"
             }
           ]
         },
@@ -129,45 +129,52 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "联想 Googlebook 15 百思买开卖：Gemini、OLED 与安卓应用集于一身",
-              "brief": "联想 Googlebook 15 搭载英特尔酷睿 Ultra 5 325 处理器，具备八核与最高 47 TOPS 的神经处理单元，配 16GB LPDDR5X 内存和 512GB PCIe Gen 4 固态硬盘，可从容应对日常浏览与多任务处理。它内置 Gemini 智能功能，可读取邮件细节、整理日历、根据屏幕内容建议下一步操作，还能在合上笔记本后台继续执行任务；用户也可用文字描述让 Gemini 自动生成自定义小组件。对于搭载 Android 17 及以上版本的安卓手机，它可通过 Continue On 在手机与大屏间接力任务，用 Cast My Apps 免安装直接投送手机应用并浏览手机文件。屏幕方面，15.3 英寸 OLED 触摸屏分辨率 2880x1800，16:10 比例，刷新率最高 120Hz，覆盖 100% DCI-P3 色域，亮度 500 尼特，支持 HDR 1000 True Black。四扬声器支持杜比全景声，另有 5MP 摄像头、双麦克风、物理镜头遮挡片、大尺寸触觉触控板、背光键盘以及指纹与人脸登录。",
-              "source_url": "https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/",
+              "title": "2026年可在安卓上实际使用的5款AI智能体",
+              "brief": "文章盘点2026年可在安卓上真正使用的AI智能体。以Claude Duet为例，其独立应用操作简便，设有专门的任务标签页便于跟进事项，可持续监控Gmail、Slack、Salesforce、HubSpot等云服务，提供重要提醒、每日简报、任务建议，还可追踪付款、航班信息、起草邮件、撰写社交媒体活动方案和管理发票等。不过部分网站和服务尚未支持，如亚马逊明确不参与，而沃尔玛已通过Agent Gateway接入。Duet缺乏深度的安卓系统级集成，虽能与WhatsApp等应用交互，但无法控制系统设置。Duet对Pro订阅用户（约每月20美元）免费，目前需排队等待邀请，更适合创业者、小企业主和管理层人士。",
+              "source_url": "https://www.androidauthority.com/best-ai-agents-android-2026-3731766/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-13T17:06:56+08:00"
+              "published_at": "2026-11-13T19:00:33+08:00"
             },
             {
-              "title": "Pixel Journal 应用现可录制音频并通过录音机添加",
-              "brief": "谷歌 Pixel Journal 日记应用近日加入录音机集成功能，用户可在日记中插入音频录音。用户可通过现有录音选择插入日记，相关录音的文字转录会自动作为文本添加到日记条目中，且支持一次添加多段录音。若想录制新音频，点击“录制新音频”选项后会跳转到录音机应用的录制界面，界面上有熟悉的暂停和停止按钮，点击停止即可将录音及转录文本加入日记。同一条日记中的多段录音会以轮播形式展示，用户可左右滑动切换，长按某段录音还可将其删除。该录音机集成功能目前正陆续推出，部分用户可能需等待几天才能在设备上看到。这一功能为 Journal 应用增添了又一项实用工具，方便用户以语音方式记录日记内容。",
-              "source_url": "https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/",
+              "title": "Pixel天气应用现允许用户报告不准确的天气状况",
+              "brief": "谷歌Pixel天气应用新增用户反馈功能，允许用户报告不准确的天气状况。报告界面提供多种选项，包括多云、晴、阵雨、雨夹雪或冰雹、阵雪、强雷暴和低能见度等，同时显示当前天气状况和温度，方便用户明确指出不准确之处。谷歌表示将收集反馈、设备位置及部分诊断信息用于改进未来预报，并强调这些数据不会与用户的谷歌账户关联。此前用户长期抱怨Pixel天气预报不准，谷歌此次功能升级正是回应这些反馈。目前该功能已在多款Pixel设备上出现，用户可通过APKMirror侧载最新Pixel Weather安装包体验。谷歌将如何处理这些反馈尚不明确，但这已是正确方向的一步。",
+              "source_url": "https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-13T17:06:06+08:00"
+              "published_at": "2026-11-13T18:56:40+08:00"
             },
             {
-              "title": "最新投票：ColorOS 赢得超预期的一加粉丝支持",
-              "brief": "Android Authority 最新投票结果显示，读者对一加手机转向 ColorOS 的态度比预期更为接近。若将 18.1% 表示“喜欢新设计但不需要 AI 功能”的受访者和 11.1% 表示“喜欢功能但不想要液态玻璃外观”的受访者计入，多数受访者总体上支持一加改用 ColorOS，尽管存在少许保留意见。约五分之二的受访者仍更偏爱 OxygenOS。值得注意的是，此前编辑对 ColorOS 17 的上手体验总体积极，这可能影响了受访者的看法，但结果仍表明更多读者正在接受、甚至欢迎这一转变。也有例外声音，有读者指出 ColorOS 17 在通知和后台机制方面的底层改动十分剧烈。ColorOS 17 的稳定版已于本月初在印度开始推送，预计未来几周将陆续抵达各设备。",
-              "source_url": "https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/",
+              "title": "摩托罗拉Razr Plus 2024开始接收Android 17，美国用户仍需等待",
+              "brief": "摩托罗拉Razr Plus 2024已开始推送Android 17更新，但美国用户仍需等待。文章提到新系统中部分功能尚未完备，如扩展通知气泡功能缺失，目前仅有原有的会话气泡功能可用。如果更新未出现在手机上，用户可在设置的系统更新中检查，或在Windows电脑上使用摩托罗拉的Software Fix工具通过IMEI查询可用固件。需要注意的是，该工具的Rescue安装功能会清除个人数据，使用时需谨慎。与此同时，标准版Razr 2024（国际版名为Razr 50）的Android 17推送尚未确认，该机型明显未出现在摩托罗拉公布的升级资格名单中，再次凸显该公司软件更新记录不佳的问题。",
+              "source_url": "https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-13T16:10:07+08:00"
+              "published_at": "2026-11-13T18:53:26+08:00"
             },
             {
-              "title": "Meta 为每月 20 美元的 Muse 带来类 Pixel 的代打电话功能",
-              "brief": "Meta 向其付费订阅用户扩展了 Muse 助手的电话拨打功能，每月费用 20 美元，使 Muse 成为又一进入商业通话领域的 AI 助手。目前市场上类似功能竞争渐起：谷歌的代打电话功能面向美国符合条件的 Pixel 用户开放；Grok Bot 也可拨打美国企业电话，以及已同意接听的个人电话；Anthropic 的 Claude 则通过 AgentPhone 等第三方连接器支持外拨电话，而非内置消费级功能；初创公司 Instinct 也通过其 Concierge 服务提供通话能力。据悉，谷歌正在探索让 Gemini 代表用户拨打亲友电话的方式，可能用于传达消息或获取信息。Meta 尚未宣布 Muse 类似的个人联系人拨打计划，但在竞争对手已提供相关能力的情况下，其后续扩展值得观望。",
-              "source_url": "https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/",
+              "title": "谷歌计算器新单位转换功能演示及Pixel Solver预览",
+              "brief": "谷歌计算器v10.0更新引入专用单位转换功能，在数字键盘和科学计算按钮旁新增双箭头切换按钮，点击后可打开可搜索的单位选择器，分类包括货币（支持130多种货币的实时汇率，附国旗和标准货币代码）、日常测量（长度、重量、温度、体积、速度、时间和面积）以及技术科学单位（数据存储、油耗、功率、能量、压力、角度和力等）。该功能将面向Pixel 6a及更新机型在全区域和语言中推出。此外，应用主界面右上角新增Ask Math按钮，采用Gemini图标，支持输入自然语言数学问题、保存自定义公式和查看分步计算，可处理作业方程、调整食谱份量、计算贷款还款，并创建可保存的交互式计算工具。",
+              "source_url": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-13T15:58:33+08:00"
+              "published_at": "2026-11-13T18:53:00+08:00"
             },
             {
-              "title": "Google Sheets 现在支持通过链接分享 Canvas，无需访问原表格",
-              "brief": "Google Sheets 的 Canvas 功能可借助 Gemini 将表格数据转化为交互式仪表板、日历和任务板。现在谷歌为其推出了独立的分享链接，接收者无需访问或编辑原始电子表格即可查看和互动这些内容。例如，组织活动时可把规划表格变成互动日程表分享给参与者，他们能查看时间安排等所需信息，但只有组织者能编辑表格。用户还可单独控制谁能看到已发布的 Canvas，并选择其是否随表格数据变化自动更新，或保持发布时的静态状态。使用该功能需拥有表格的编辑权限，打开 Canvas 分享菜单，选择发布 Canvas 并设置访问者即可，之后还能复制链接、更改受众或随时停止分享。该功能正在逐步推出。",
-              "source_url": "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/",
+              "title": "谷歌信息新版置顶聊天界面体验及获取方法",
+              "brief": "谷歌信息应用迎来界面改版，置顶聊天以网格形式显示联系人或群聊头像及最新消息预览，更加醒目易找。最大缺点是置顶聊天数量上限从20个降至6个。另一大变化是搜索和发起聊天按钮位置调整，原来分别位于应用顶部和右下角，现改为底部并排显示。发起聊天按钮默认为较大的胶囊形，滚动时会缩小为小圆形，同时搜索按钮变得更突出，动画效果流畅。整体界面符合谷歌Material 3 Expressive设计风格，更现代也更实用。该改版目前仅面向测试版推出，用户可访问谷歌信息测试计划网站，点击成为测试者加入计划，即可在手机上体验新界面。",
+              "source_url": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-13T14:26:40+08:00"
+              "published_at": "2026-11-13T18:30:12+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Whoop 推出面向健身爱好者的社交网络 Whoop Humans",
+              "brief": "知名无屏可穿戴设备厂商 Whoop 推出了名为 Whoop Humans 的社交网络，供用户分享锻炼细节和健身成果。公司首席执行官威尔·艾哈迈德称其为\"有史以来最能验证真人身份的社交网络\"。会员可在网络上分享来自 Whoop 可穿戴设备的睡眠、恢复、压力和活动等数据，这些真实世界的信息无法像普通文字帖子那样被生成，有别于日益充斥人工内容的传统社交网络。除了现有的 Teams 群组和排行榜功能外，用户还可直接关注亲友，对帖子进行评论和回应，在他人达成目标时表示祝贺，或在看到对方恢复数据偏低时提醒其注意休息。会员还可通过\"Moments\"功能分享锻炼照片，并可自行设置隐私和选择展示的内容类型。",
+              "source_url": "https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-13T18:39:44+08:00"
+            },
             {
               "title": "比亚迪承认旗舰电动SUV存在车轮装配错误",
               "brief": "比亚迪就新上市的旗舰电动SUV“大唐”的装配失误公开致歉。据彭博社报道，多名车主投诉发现，本应安装在车辆后轮的较宽轮辋被装到了前轮，而较窄的前轮轮辋却被装到了后轮。比亚迪在微博上说明，收到投诉后立即展开调查，发现问题源自其位于湖北的轮毂装配供应商，目前已解决该问题，供应商也在产线上增加了目视检查机制以避免再次发生。比亚迪未透露受影响车辆数量，但表示错误装配不存在安全风险，仍将免费更换受影响车辆的轮辋，并在维修期间为车主提供替代车辆或交通补偿，同时重新计算车辆质保期。该SUV于今年3月发布，起价约4万美元，在中国收到15万订单。",
@@ -195,13 +202,6 @@
               "source_url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
               "source_name": "Engadget",
               "published_at": "2026-11-13T03:17:32+08:00"
-            },
-            {
-              "title": "英伟达前CEO黄仁勋将于本月赴国会作证",
-              "brief": "英伟达前CEO兼总裁黄仁勋虽已离职，但仍将出席国会听证。众议院外交事务主席Brian Mast表示，黄仁勋在议员威胁发出传票后同意作证，时间在感恩节前，就在英伟达宣布其辞职数小时之前。听证会将在闭门情况下进行，但会被录像和记录，众议院情报委员会及涉华委员会也将参与。Mast称双方在出口管制问题上分歧很大，但英伟达对美国十分重要，黄仁勋需要回答一些严肃问题。此前英伟达被曝调查黄仁勋承认的婚外情，对方据称疑似中国间谍，FBI也在调查，另有报道称其与英伟达高管有另一段婚外情。首席财务官Colette Kress出任临时CEO。",
-              "source_url": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-13T01:53:08+08:00"
             }
           ]
         },
@@ -294,6 +294,13 @@
           "name": "IGN",
           "articles": [
             {
+              "title": "微软全球系统故障修复受挫，承认初步修复未达预期",
+              "brief": "微软正在努力应对一场影响全球的系统中断事故，邮件系统等多项服务受到波及，Copilot 也未能幸免。超过12小时以来，全球用户持续反映无法访问电子邮件账户、即时通讯系统以及 OneDrive 和 Office365 上的文档，不过 Xbox 服务据信并未离线。微软迅速承认问题源于服务器能力故障，称多个区域出现了负载升高的情况。然而最初的修复尝试并未奏效，公司表示修复措施没有像预期那样生效。目前微软仍在继续处理这一持续影响全球用户的大规模故障。",
+              "source_url": "https://www.ign.com/articles/microsoft-struggling-to-fix-global-system-outage-impacting-email-systems-and-more-admits-initial-repairs-not-taking-as-expected",
+              "source_name": "IGN",
+              "published_at": "2026-11-13T18:13:46+08:00"
+            },
+            {
               "title": "GTA 6 中的汉堡餐厅 Burger Shot 将在佛罗里达州开设现实主题门店",
               "brief": "此前，游戏内餐厅 Burger Shot 通过与快餐店 Skinny Louie 合作，已在迈阿密 Kaseya 中心登陆，球迷可在热火队比赛期间品尝现实版餐品。目前该合作将扩展至 Skinny Louie 位于佛罗里达州的各家门店。11 月 13 日至 12 月 31 日期间，门店将换上 Burger Shot 标识和员工制服，并提供以游戏为主题的菜单，包括三层安格斯牛肉堡、双层牛肉堡、单层牛肉堡以及焦糖奶昔等。GTA 6 已成为 Xbox 和 PlayStation 数字商店史上预订量最高的游戏，预计预售收入已达 10 亿美元，游戏将于 11 月 19 日正式发售，现已开放预载。",
               "source_url": "https://www.ign.com/articles/gta-6s-burger-shot-restaurant-is-expanding-across-florida-with-real-meals-inspired-by-the-game",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
               "source_name": "IGN",
               "published_at": "2026-11-13T04:20:41+08:00"
-            },
-            {
-              "title": "《神鬼寓言》公布四分钟新实机演示",
-              "brief": "为庆祝Xbox成立25周年，微软发布了《神鬼寓言》新作的四分钟实机演示。画面展示了大量战斗内容，包括普通剑术、远程攻击以及魔法独特招式，视频以PC最高画质录制，结尾主角发现了一座外形极为诡异阴森的坟墓或棺材。本作原定今秋发售，但Xbox明智地将其推迟至明年2月，虽官方称并非刻意避开《GTA6》，但客观上获得了更充足的发售空间。本作由《极限竞速：地平线》开发商Playground Games主导开发，历时近十年，是Xbox最受期待的RPG之一，还将登陆PS5，定于2月23日在Xbox Series X|S、PS5和PC平台发售。",
-              "source_url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
-              "source_name": "IGN",
-              "published_at": "2026-11-13T04:16:03+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "cnBeta",
           "articles": [
             {
+              "title": "英伟达市值缩水约1.6万亿美元 分析师称黄仁勋离任或长期压制股价",
+              "brief": "黄仁勋因婚外情风波于周四清晨正式卸任英伟达CEO，CFO科莱特·克雷斯出任临时CEO，董事会启动正式遴选。公司股价当日收跌4.3%，本周累计下跌11%，市值缩水约1.6万亿美元。D.A. Davidson分析师将目标价从300美元下调至200美元但维持买入评级，奥本海默分析师则认为离任可能持续压制股价。下周二英伟达将发布季报，分析师预期营收同比增长91%至1089亿美元。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586266.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-13T18:07:57+08:00"
+            },
+            {
+              "title": "德国军方因网络攻击停飞Quantum Systems无人机",
+              "brief": "欧洲国防科技初创企业Quantum Systems遭网络攻击，一个恶意更新文件通过负责推送QBase地面控制系统更新的服务器分发出去。该公司与德国、西班牙和荷兰军方签有合同，德国军方已停飞其无人机。公司10月底发现安全事件后展开内部调查，称已控制威胁，最终用户使用无人系统不存在风险，并已向主管部门报告。Quantum Systems估值达70亿欧元，在乌克兰拥有200多名员工，此次攻击对其乌克兰业务的影响尚不清楚。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586264.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-13T18:06:11+08:00"
+            },
+            {
+              "title": "英伟达员工内网集体挽留黄仁勋 总部Logo前出现鲜花致敬",
+              "brief": "黄仁勋卸任英伟达CEO后，员工在内部网络集体表达挽留诉求，呼吁其回归。在加州圣克拉拉英伟达总部标识前，有人摆放鲜花与蜡烛致敬，这一幕在社交平台引发热议。黄仁勋执掌英伟达33年，带领公司从显卡厂商成长为全球AI算力核心企业。目前CFO克雷斯担任临时CEO，董事会正推进正式CEO遴选。多名员工担忧其离开会给公司长期发展带来不确定性，董事会尚未回应挽留诉求。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586262.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-13T18:02:52+08:00"
+            },
+            {
+              "title": "微软系统故障扰乱全球市场 交易员被迫改用电话沟通",
+              "brief": "微软发生史上最严重故障之一，Outlook、Teams和Copilot等服务数小时无法正常使用，Downdetector上故障上报量接近20万条。全球金融市场受到扰乱：新加坡部分银行无法完成融资交易，印度券商发布风险提示，日本财政部邮件系统瘫痪，美国Workhorse集团推迟财报发布。交易员被迫改用电话、传真和WhatsApp沟通，交易确认单大量积压影响后台结算。微软表示重启受影响基础设施的工作已取得积极进展，盘后股价下跌0.4%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586260.htm",
+              "source_name": "cnBeta",
+              "published_at": "2026-11-13T18:02:42+08:00"
+            },
+            {
               "title": "Ostorlab发布2026移动银行App安全报告：鸿蒙严重缺陷比例达31.6%居首",
               "brief": "安全公司Ostorlab发布2026年移动银行App安全报告，比较iOS、Android与鸿蒙三大平台。数据显示，31.6%的鸿蒙银行App至少包含一项严重级别安全缺陷，比例最高，远高于全体App 18.4%的平均水平。第三方组件方面，56.7%的鸿蒙银行App集成了含已公开漏洞的组件，高于Android的37.7%和iOS的37.4%，主因是许多鸿蒙App属早期移植版本，使用了较旧的第三方库。整体来看，51.5%的受测App存在高危或严重问题，仅4.9%支持通行密钥。报告仅公布汇总统计，未点名具体银行，研究中也未对任何App发起实际攻击。",
               "source_url": "https://www.cnbeta.com.tw/articles/tech/1586258.htm",
               "source_name": "cnBeta",
               "published_at": "2026-11-13T16:40:56+08:00"
-            },
-            {
-              "title": "微软高管回应Outlook全球宕机：排除网络攻击",
-              "brief": "微软Outlook服务发生全球性宕机，美洲、欧洲、亚非多地用户集中上报访问异常，仅美国峰值就收到约13万条故障反馈。微软高管查尔斯·拉曼纳在社交平台公开致歉，明确表示没有证据显示事故由恶意网络攻击引发。官方研判故障根源为多区域部分基础设施负载异常走高，由此产生大规模连接错误。微软紧急出台多项处置方案，包括暂停全部版本部署变更、将流量迁移出故障硬件、重启受影响服务器等。不过修复过程并不顺利，部分处置手段未能快速实现全面恢复。微软解释，随着服务器容量逐步修复，用户设备会重新建立连接，服务呈现分批恢复状态。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586256.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-13T16:35:26+08:00"
-            },
-            {
-              "title": "黄仁勋所持英伟达股份出售需获得妻子同意",
-              "brief": "黄仁勋关联资产包括生前信托、两份不可撤销信托及六家有限责任公司，截至3月23日实际关联持股合计8.706亿股英伟达股票，其中6.69亿股归入三份家族信托，夫妻二人为共同受托人，出售权与投票权均由二人共同持有，登记在其个人名下的直接持股仅7010万股。洛丽·黄担任家族基金会主席，该基金会资产约92亿美元，她还单独管理一份持有约50亿美元英纳达股份的信托。这套与配偶平分所有权和投票权的架构十分少见，使黄仁勋的资产处置变得棘手。由于没有婚前协议，若离婚洛丽·黄可分得的资产最高可达750亿至775亿美元，但股份也不太会立刻涌入市场。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586254.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-13T16:32:32+08:00"
-            },
-            {
-              "title": "“让老板回来”：英伟达员工联名呼吁黄仁勋回归",
-              "brief": "黄仁勋因涉嫌婚外情被英伟达董事会宣布辞职后，公司内部出现呼吁其回归的声音。意见箱帖子收到超过1600条评论，多条要求董事会设法让黄仁勋回归，有员工称“都会犯错，他应该得到第二次机会”，还有员工发邮件要求公司对离职一事保持透明。现年63岁的黄仁勋自1993年创立以来一直领导英伟达，他在邮件中承认“对妻子不忠”。董事会任命CFO科莱特·克雷斯为临时CEO，前新思科技CEO哈维·琼斯任董事会主席。危机已导致英伟达市值蒸发1万亿美元，并引发国会议员和FBI调查。辞职消息公布后，约20多名员工在领英发帖表达支持。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586252.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-13T16:13:28+08:00"
-            },
-            {
-              "title": "NVIDIA计算卡限制遭破解：8GB显存秒变80GB",
-              "brief": "研究者Kate破解了英伟达CMP 170HX矿用计算卡的显存限制。8GB版本实际封装约80GB HBM显存，10GB版本封装约40GB。此前软件工具只能将部分可用显存提升至64GB，无法解除其他限制。Kate此次瞄准GPU内部负责配置硬件功能的电子熔丝控制器，通过电压故障注入绕过写入限制，修改配置让被屏蔽的显存和流处理器重新工作。测试的10张8GB矿卡中9张成功启用完整80GB显存，部分还恢复了PCIe 4.0和NVLink功能。解锁后的矿卡OpenCL FP16测试达约85.9 TFLOPS，高于A100的约72.5 TFLOPS。目前8GB矿卡约3000美元，而A100 80GB报价可达20000美元以上。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586250.htm",
-              "source_name": "cnBeta",
-              "published_at": "2026-11-13T15:58:52+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "日月光高雄路竹厂一期启用、二期动土，投1000亿新台币扩产先进封装",
-              "brief": "日月光投控位于高雄的路竹厂一期正式启用，二期同步动土，总投资达1000亿新台币（约合162.4亿元人民币），用于扩大先进封装产能，预计可创造约5000个工作机会。此前日月光已相继推出3D垂直整合PowerSiP方案、310mm PLP先进封装自动化产线，并计划2026年实现先进封测营收翻倍增长，持续加码先进封装布局，与楠梓电合作建设新厂，群创光电也向其出售南科Fab5厂房，进一步扩充产能规模。",
-              "source_url": "https://www.ithome.com/1/026/867.htm",
+              "title": "微软 25 周年纪念版 Xbox Series X 上市，售价 899 美元，X25 特别版手柄可单独购买",
+              "brief": "微软 25 周年纪念版 Xbox Series X 主机现已上市，定价 899 美元，采用半透明绿色（-green）设计，每台主机附带一份《光环：战役进化》完整游戏下载码。此外，Xbox 无线控制器 X25 特别版也可单独购买，京东显示售价 558 元。微软在 6 月的 Xbox Games Showcase 上首次公布这款纪念主机，并在 Xbox FanFest 活动中，由 Xbox 首席执行官阿莎·夏尔马向现场佩戴粉丝徽章的与会者宣布免费赠送每人一台该主机。此前微软还推出了限定款键盘、鼠标、耳机等产品，以庆祝 Xbox 品牌成立 25 周年。",
+              "source_url": "https://www.ithome.com/1/026/932.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T17:16:31+08:00"
+              "published_at": "2026-11-13T19:09:34+08:00"
             },
             {
-              "title": "消息称松下 LUMIX S9 II 相机将于 2027 年初发布",
-              "brief": "据消息，松下LUMIX S9二代相机预计于2027年初发布，同期可能推出的还有富士X-T6，索尼A7S IV也或将推迟至2027年初亮相。松下LUMIX S9于2024年5月发布，搭载约2420万像素全画幅CMOS传感器，国行单机身首发价9599元。该机机身设有LUT专用按钮，可快速调用包括自定义风格在内的多种色彩配置文件，但取消了机械快门，也不支持热靴。",
-              "source_url": "https://www.ithome.com/1/026/864.htm",
+              "title": "Gentle Monster 与 Warby Parker 下月推出 Android XR 智能眼镜，接入谷歌 Gemini",
+              "brief": "Gentle Monster 和 Warby Parker 将于下月推出 Android XR 智能眼镜，两款新品均搭载高通 Snapdragon AR1 Gen 1 芯片，配备一颗 1200 万像素摄像头，可拍摄照片和视频，并借助 AI 实现实时翻译、逐向导航、接打电话和播放音乐等功能。产品接入谷歌 Gemini 而非 Meta AI，用户可通过眼镜与 Gemini 交互并使用多项谷歌服务。Gentle Monster 智能眼镜起售价 449 美元，约合 3002 元人民币，共 6 款设计，支持选配处方镜片。Warby Parker 起售价 395 美元，约合 2641 元人民币，提供 Alden、Reid 和 Wren 三种款式及三种配色。",
+              "source_url": "https://www.ithome.com/1/026/931.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T17:10:20+08:00"
+              "published_at": "2026-11-13T19:07:01+08:00"
             },
             {
-              "title": "《汽车改装管理办法》公开征求意见，重点突出安全与环保",
-              "brief": "工信部就《汽车改装管理办法》公开征求意见，主要面向量大面广的非营运乘用车改装，实施一类、二类分类管理。一类改装指车身颜色、内外饰等不涉及安全环保性能的改动，共29项；二类改装指制动系统、悬架等涉及车辆安全环保性能的改动，共14项，第一批清单合计43项。管理上要求汽车企业建立一车一档改装档案，制定改装技术方案并符合技术标准，对安全环保影响较大的项目须经国家级检测机构技术把关，改装企业还需向车主出具竣工合格证明，在放开市场的同时强化安全管控。",
-              "source_url": "https://www.ithome.com/1/026/863.htm",
+              "title": "Blackmagic 发布专业空间音频麦克风：内置 108 个 MEMS 单元，售价 1695 美元",
+              "brief": "Blackmagic Design 发布 Blackmagic Ambisonic Microphone 专业麦克风，定价 1695 美元，约合 11331 元人民币，将于 12 月上市。该产品采用 Ambisonics 全景声麦克风阵列设计，内置 108 个数字 MEMS 麦克风，可采集完整声场信息。设备内置处理单元，运行苹果授权的阵列几何配置和编码滤波器，能实时将 108 路麦克风信号转换为 64 声道、32 位音频数据，无需额外信号分离设备或编码软件。它通过一根 USB-C 线缆完成数据传输和供电，符合 USB 音频设备类标准，免驱使用，可安装于 URSA Cine Immersive 摄像机顶部采集苹果沉浸式视频所需的空间音频。",
+              "source_url": "https://www.ithome.com/1/026/929.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T17:08:39+08:00"
+              "published_at": "2026-11-13T18:52:36+08:00"
             },
             {
-              "title": "华硕推出VG27AQL5F吹雪27英寸显示器：2K 220Hz，售价1249元",
-              "brief": "华硕推出VG27AQL5F吹雪27英寸显示器，售价1249元。该显示器采用2K分辨率220Hz高频Fast IPS面板，亮度400尼特，对比度1300:1，GtG响应速度0.03ms，覆盖95% DCI-P3色域。外观采用白色边框与白色支架，支架支持升降、倾斜和旋转调节，内置双2W扬声器。接口方面提供2个HDMI 2.1、1个DP 1.4、1个3.5mm音频接口和1个USB-C接口，满足多种设备连接需求。",
-              "source_url": "https://www.ithome.com/1/026/862.htm",
+              "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+              "brief": "韩国有关部门表示，黄仁勋离任英伟达 CEO 一事不影响此前达成的 26 万块 GPU 供应协议的执行。在亚太经合组织（APEC）会议期间，英伟达与韩国达成了 26 万块 GPU 的供应协议。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。此前韩国政府曾牵头成立 GPU 工作组，联合四大韩企采购 26 万块英伟达显卡。",
+              "source_url": "https://www.ithome.com/1/026/927.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T17:03:17+08:00"
+              "published_at": "2026-11-13T18:51:53+08:00"
             },
             {
-              "title": "我国科学家提出肺结节AI辅助诊断新方法，模拟医生读片流程",
-              "brief": "中国科学院合肥物质院等团队提出模拟医生读片流程的肺结节AI辅助诊断新方法M³Net，即宏观-介观-微观层级3D神经网络模型。该算法构建三种影像输入尺度，分别对应肺部全局宏观结构、结节周边组织特征和结节微观细节，通过专属编码器提取特征，利用跨尺度特征对齐和层级交叉注意力机制，模拟医生先全局、再局部、后细节的诊断流程，实现精细化立体化分析。实验显示，相比十二种主流AI算法，该模型在LIDC-IDRI和USTC-FHLN数据集上良恶性分类准确率更高，尤其对疑难结节鉴别优势明显，参数量与运算成本更低，可解释性也更好。",
-              "source_url": "https://www.ithome.com/1/026/860.htm",
+              "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+              "brief": "openEuler 发布升级为面向 Agentic Infra（智能体基础设施）的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent 应用等场景，已在互联网、金融等行业头部用户商用落地。开放原子开源基金会理事长谢少锋披露，openEuler 系操作系统国内累计装机量预计突破 2200 万套，相比 2024 年 11 月公布的五年累计超 1000 万套实现翻倍以上增长。会上还发布了 openEuler 24.03 LTS SP5 版本。社区计划到年底实现 80% CVE 由 AI 辅助处理，巴基斯坦发布的 HECOS 1.0 成为海外首个基于 openEuler 的本土操作系统。目前社区拥有超 2200 家成员单位、超 3 万名贡献者。",
+              "source_url": "https://www.ithome.com/1/026/911.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T17:02:20+08:00"
+              "published_at": "2026-11-13T18:47:18+08:00"
             }
           ]
         },
@@ -494,6 +494,27 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "地球冰冻圈不再处于安全运行空间内",
+              "brief": "地球上的冰盖、冰川、海冰、积雪和永久冻土等冰冻部分在调节气候、水资源供应和碳循环中发挥着关键作用。中外研究人员的最新分析显示，冰冻圈的基本功能已不再处于安全运行空间之内，其被推越界限的程度将给地球人口带来长期挑战。研究人员对陆地冰体积、海冰面积、积雪面积和永久冻土温度等关键控制变量分析后得出结论：冰冻圈完整性正经历加速且部分不可逆的丧失，状况已恶化或注定恶化至超过全新世水平。研究人员呼吁全球紧急行动，停止并逆转温室气体和黑碳排放，减少局部人类干扰。",
+              "source_url": "https://www.solidot.org/story?sid=85880",
+              "source_name": "Solidot",
+              "published_at": "2026-11-13T17:52:54+08:00"
+            },
+            {
+              "title": "《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6",
+              "brief": "《幻兽帕鲁》开发商 Pocketpair 宣布五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新纪录，预计首周销量将高达数千万份。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期，同时强调《幻兽帕鲁》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA 6，显示业界对这款备受期待的作品高度关注。",
+              "source_url": "https://www.solidot.org/story?sid=85879",
+              "source_name": "Solidot",
+              "published_at": "2026-11-13T16:49:01+08:00"
+            },
+            {
+              "title": "英伟达员工请愿让黄仁勋复职",
+              "brief": "英伟达创始人黄仁勋辞职后，公司内部员工发起请愿让他复职。一名员工在内部意见系统上写道，我们都是人、都会犯错，黄仁勋办了那么多好事，理应得到第二次机会。黄仁勋担任英伟达 CEO 长达 33 年，领导公司成为世界市值最高的公司之一，许多员工认为他对公司的贡献巨大，不应因此遭到抹杀。英伟达员工还通过 LinkedIn 公开表达对他的支持，目前无人公开支持罢免他，显示出内部对他的普遍拥护。",
+              "source_url": "https://www.solidot.org/story?sid=85878",
+              "source_name": "Solidot",
+              "published_at": "2026-11-13T16:33:58+08:00"
+            },
+            {
               "title": "无印良品客户信用卡数据泄露",
               "brief": "运营无印良品的良品计划公司社长清水智在东京召开记者会，就遭遇非法访问问题致歉。包括已解约卡在内，信用卡完整号码等约109万条信息可能已泄露。清水承认信息管理存在疏漏，称部分系统存在漏洞，未能阻止非法访问，并透露本应废弃的信用卡信息仍被保存，表示将推进建立不持有非必要信息的机制。对可能泄露信息的信用卡，公司将承担换发新卡手续费。此前公司公布官方APP遭非法访问，最多约2726万条客户信息可能泄露，后续调查又发现约44万条信息可能外泄。除网上商城和APP部分功能外，公司已暂停相关服务，正加强安全对策。",
               "source_url": "https://www.solidot.org/story?sid=85877",
@@ -506,13 +527,6 @@
               "source_url": "https://www.solidot.org/story?sid=85876",
               "source_name": "Solidot",
               "published_at": "2026-11-13T14:36:46+08:00"
-            },
-            {
-              "title": "微软云服务全球宕机",
-              "brief": "微软云服务发生全球宕机，受影响服务包括Outlook、Teams、OneDrive等办公工具以及AI工具Copilot。微软通过社交媒体表示正全力解决问题。根据Downdetector的报告，截至周四18:00 GMT，全球报告的Outlook故障数量接近14万。目前无迹象表明此次大范围宕机由网络攻击引起。微软表示，受影响用户可能无法查看部分文件，或无法在日历应用中查看详细信息，Copilot也可能无法正常运行，但即时通讯和在线会议功能基本保持正常。微软称此次事故由部分服务器意外不可用导致，给其余系统造成沉重负担。与微软有合作的Anthropic和OpenAI也报告了故障。",
-              "source_url": "https://www.solidot.org/story?sid=85875",
-              "source_name": "Solidot",
-              "published_at": "2026-11-13T13:30:36+08:00"
             }
           ]
         }
