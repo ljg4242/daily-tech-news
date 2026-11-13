@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T19:19:09.111212+08:00",
+  "generated_at": "2026-11-13T21:19:25.259577+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "微软 365 全球大范围故障持续，邮件与多项服务受影响",
+              "brief": "微软 365 全球故障仍在持续，用户无法访问邮件，Teams、Copilot 等服务功能受阻，微软称恢复工作正取得进展。故障于 11 月 12 日出现，Downdetector 上 Outlook 故障报告在美东时间下午 1 点后接近 13 万条，日本政府 IT 系统也受到显著影响。事件核心是 Exchange Online，用户可能无法通过网页、桌面和移动版 Outlook 打开邮箱，邮件可能延迟，通过 Apple Mail 等客户端访问的账户同样出问题。Copilot 对话可能失败，无法检索工作邮件、日历或文件。Planner、To Do、管理工具及部分 SharePoint 功能也受影响。Teams 大部分通话、会议和消息功能仍可用，但安排会议或编辑日历条目时可能出错。微软称亚太地区修复工作正在改善邮箱访问并缓解邮件延迟，公司正向其他地区推广修复并增加容量。",
+              "source_url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-13T19:55:16+08:00"
+            },
             {
               "title": "苹果今日正式发售两款新品：HomeView 智能家居显示屏与第四代 Apple TV 4K",
               "brief": "苹果于11月13日正式发售两款新品：全新智能家居显示屏 HomeView 和第四代 Apple TV 4K，两者自10月中旬起开放预购。HomeView 由 Apple Intelligence 与 Siri AI 驱动，用于娱乐和家居管理，分桌面版和壁挂版，可通过面部识别最多六位用户并提供个性化主屏幕，售价299美元。Apple TV 4K 加入 Siri AI、A19 芯片、支持查找功能的全新 Siri 遥控器，并可通过 HomePod mini 2 实现四扬声器环绕声，配备128GB存储，售价299美元。两款产品于10月13日与 HomePod mini 2 一同发布，后者已于10月30日上市。由于监管限制，Siri AI 目前在欧盟 iOS 上不可用，HomeView 暂未在欧盟销售，苹果称正与欧盟积极沟通，但未提供欧盟上市时间表。",
@@ -35,13 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
               "source_name": "MacRumors",
               "published_at": "2026-11-13T06:50:59+08:00"
-            },
-            {
-              "title": "苹果继续提前 iPhone Duo 的发货日期",
-              "brief": "据 MacRumors 论坛和 X 上的用户反馈，一些通过苹果订购 iPhone Duo、原预计 1 月 25 日发货的用户，今天看到发货窗口提前至 12 月 14 日至 12 月 21 日。还有少数用户的发货日期从 1 月 25 日提前到了 12 月 12 日至 12 月 14 日。不过苹果在线商店目前对今天下单的 iPhone Duo 订单仍显示 1 月 25 日的预计发货日期。",
-              "source_url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-13T04:28:50+08:00"
             }
           ]
         },
@@ -129,6 +129,27 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Peanuts Native 让 12 款 Switch 游戏免模拟层直接运行于 Android",
+              "brief": "Peanuts Native 是一款新应用，用户需提供自行合法转储的游戏文件（NSP、XCI 或转储文件夹）以及主机的 prod.keys 密钥。该应用直接在设备上处理游戏文件，将游戏的 ARM64 代码重写为可在手机 CPU 上直接执行的代码，通过 Vulkan 重放图形并预转换着色器。在 AYN Thor 上构建过程需 5 到 40 分钟。其亮点是针对 AYN Thor 等掌机的双屏功能：主游戏运行在上方屏幕，下方屏幕渲染支持触控和触觉反馈的伴侣覆盖层。它还沿用 Eden Duo 的伴侣包格式，现有伴侣（显示地图、物品栏、任务和队伍状态）可直接使用。首发支持《塞尔达传说：织梦岛》《超级马力欧：奥德赛》《密特罗德：生存恐惧》《马力欧卡丁车8豪华版》等12款游戏，部分支持 60fps，《集合啦！动物森友会》和《女神异闻录5 皇家版》为 30fps。要求 Android 13 及以上、至少 12GB 内存和支持 Vulkan 1.3 的骁龙 GPU，推荐使用 Turnip 自定义驱动。开发者提醒早期版本会有 bug 和缺失功能，并将与 Eden Duo 共存。",
+              "source_url": "https://www.androidauthority.com/peanuts-native-switch-games-android-3734983/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T21:03:14+08:00"
+            },
+            {
+              "title": "Gmail 开始向 Android 用户推送 Material 3 Expressive 设置界面改版",
+              "brief": "Gmail 正在向 Android 用户推送采用 Material 3 Expressive 设计语言的新版设置界面。此次改版将相关选项整合为更清晰的分组，例如邮件偏好、写作辅助等各自归类，单个设置页面也获得同样处理。智能撰写、智能回复和校对功能现统一归入“写作辅助”分类下，Chat 和 Meet 则拥有各自的专属分区。新界面还全面采用更大的触控目标和更宽松的间距。这并非孤立变化，此前谷歌应用、Gemini 和 Google Messages 也被发现有类似的设置改版，表明谷歌正努力让旗下应用与 Android 现代设计语言保持一致，同时简化导航。在可用性方面，新版 Gmail 设置通过服务端逐步推送，仅安装最新应用版本不一定能解锁新界面。目前尚不清楚覆盖范围有多广，如果用户设置界面外观未变也不必意外。",
+              "source_url": "https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T20:56:09+08:00"
+            },
+            {
+              "title": "继血压监测手表之后，华为公布首款连续血糖监测仪",
+              "brief": "继血压监测智能手表之后，华为公布了其首款连续血糖监测仪（CGM）。据博主爆料及中国媒体 IT Home 引述的消息，该 CGM 佩戴于上臂，延迟时间为 5 至 15 分钟，MARD（平均绝对相对差异）低于 10%。华为高管李小龙在另外的发文中表示，该产品已研发多年，是华为攻克时间最长的产品之一，团队最早于 2023 年 12 月首次试用，研发团队成员佩戴测试的时间则更长。产品发布周期较长的原因可能是需要通过医疗认证。据 VCBeat 此前报道，中国国家药品监督管理局已于 10 月 30 日批准该 CGM，这是华为首款第三类（Class III）医疗器械。由于该 CGM 与华为其他产品存在相互依赖关系，可能不会在全球市场推出。若情况有变，届时会及时跟进报道。",
+              "source_url": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-13T19:22:39+08:00"
+            },
+            {
               "title": "2026年可在安卓上实际使用的5款AI智能体",
               "brief": "文章盘点2026年可在安卓上真正使用的AI智能体。以Claude Duet为例，其独立应用操作简便，设有专门的任务标签页便于跟进事项，可持续监控Gmail、Slack、Salesforce、HubSpot等云服务，提供重要提醒、每日简报、任务建议，还可追踪付款、航班信息、起草邮件、撰写社交媒体活动方案和管理发票等。不过部分网站和服务尚未支持，如亚马逊明确不参与，而沃尔玛已通过Agent Gateway接入。Duet缺乏深度的安卓系统级集成，虽能与WhatsApp等应用交互，但无法控制系统设置。Duet对Pro订阅用户（约每月20美元）免费，目前需排队等待邀请，更适合创业者、小企业主和管理层人士。",
               "source_url": "https://www.androidauthority.com/best-ai-agents-android-2026-3731766/",
@@ -141,33 +162,26 @@
               "source_url": "https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/",
               "source_name": "Android Authority",
               "published_at": "2026-11-13T18:56:40+08:00"
-            },
-            {
-              "title": "摩托罗拉Razr Plus 2024开始接收Android 17，美国用户仍需等待",
-              "brief": "摩托罗拉Razr Plus 2024已开始推送Android 17更新，但美国用户仍需等待。文章提到新系统中部分功能尚未完备，如扩展通知气泡功能缺失，目前仅有原有的会话气泡功能可用。如果更新未出现在手机上，用户可在设置的系统更新中检查，或在Windows电脑上使用摩托罗拉的Software Fix工具通过IMEI查询可用固件。需要注意的是，该工具的Rescue安装功能会清除个人数据，使用时需谨慎。与此同时，标准版Razr 2024（国际版名为Razr 50）的Android 17推送尚未确认，该机型明显未出现在摩托罗拉公布的升级资格名单中，再次凸显该公司软件更新记录不佳的问题。",
-              "source_url": "https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T18:53:26+08:00"
-            },
-            {
-              "title": "谷歌计算器新单位转换功能演示及Pixel Solver预览",
-              "brief": "谷歌计算器v10.0更新引入专用单位转换功能，在数字键盘和科学计算按钮旁新增双箭头切换按钮，点击后可打开可搜索的单位选择器，分类包括货币（支持130多种货币的实时汇率，附国旗和标准货币代码）、日常测量（长度、重量、温度、体积、速度、时间和面积）以及技术科学单位（数据存储、油耗、功率、能量、压力、角度和力等）。该功能将面向Pixel 6a及更新机型在全区域和语言中推出。此外，应用主界面右上角新增Ask Math按钮，采用Gemini图标，支持输入自然语言数学问题、保存自定义公式和查看分步计算，可处理作业方程、调整食谱份量、计算贷款还款，并创建可保存的交互式计算工具。",
-              "source_url": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T18:53:00+08:00"
-            },
-            {
-              "title": "谷歌信息新版置顶聊天界面体验及获取方法",
-              "brief": "谷歌信息应用迎来界面改版，置顶聊天以网格形式显示联系人或群聊头像及最新消息预览，更加醒目易找。最大缺点是置顶聊天数量上限从20个降至6个。另一大变化是搜索和发起聊天按钮位置调整，原来分别位于应用顶部和右下角，现改为底部并排显示。发起聊天按钮默认为较大的胶囊形，滚动时会缩小为小圆形，同时搜索按钮变得更突出，动画效果流畅。整体界面符合谷歌Material 3 Expressive设计风格，更现代也更实用。该改版目前仅面向测试版推出，用户可访问谷歌信息测试计划网站，点击成为测试者加入计划，即可在手机上体验新界面。",
-              "source_url": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-13T18:30:12+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "Surface Laptop Ultra 评测：史上最强 Surface，但仍落后于苹果",
+              "brief": "微软最新笔记本 Surface Laptop Ultra 是 NVIDIA 全新 RTX Spark 平台的旗舰机型之一，也是迄今性能最强的 Surface 设备。它最高可配备 128GB 统一内存，适合运行本地 AI 模型，15 英寸 Mini-LED 屏幕十分明亮，机身设计简约，键盘和触控板表现出色。不过其 2599 美元的起售价颇高，若要升级超出标配 24GB 内存则价格还会进一步上涨。评测给出 8.9 分，认为苹果 M5 Pro 芯片的性能远超它，多数游戏玩家和内容创作者不妨省下 1000 美元选购游戏笔记本更为划算。",
+              "source_url": "https://www.engadget.com/2314873/surface-laptop-ultra-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-13T21:00:00+08:00"
+            },
+            {
+              "title": "彭博社揭露与 Alice Huang 相关的中国 AI 公司走私英伟达芯片网络",
+              "brief": "据彭博社报道，一家与 Alice Huang 有关联的中国公司采购了在中国被禁售的英伟达 AI 芯片，这些芯片随后被安装在与 Huang 有关联的上海 AI 设施中。其查阅的文件显示，存在一个由多家中国公司组成的网络，成功获取了本不应在中国销售的英伟达芯片，而 Huang 处于该网络的核心。美国官员认为 Alice Huang 是中国主要情报机构招募的间谍，目标是英伟达 CEO 黄仁勋，意图了解美国 AI 计划并促使黄仁勋游说美国政府允许向中国出口更先进芯片。文件显示芯片被售给新加坡的 Aperia Cloud Services，该公司从戴尔购买了 22 台搭载被禁 H800 芯片的服务器。",
+              "source_url": "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-13T20:58:10+08:00"
+            },
             {
               "title": "Whoop 推出面向健身爱好者的社交网络 Whoop Humans",
               "brief": "知名无屏可穿戴设备厂商 Whoop 推出了名为 Whoop Humans 的社交网络，供用户分享锻炼细节和健身成果。公司首席执行官威尔·艾哈迈德称其为\"有史以来最能验证真人身份的社交网络\"。会员可在网络上分享来自 Whoop 可穿戴设备的睡眠、恢复、压力和活动等数据，这些真实世界的信息无法像普通文字帖子那样被生成，有别于日益充斥人工内容的传统社交网络。除了现有的 Teams 群组和排行榜功能外，用户还可直接关注亲友，对帖子进行评论和回应，在他人达成目标时表示祝贺，或在看到对方恢复数据偏低时提醒其注意休息。会员还可通过\"Moments\"功能分享锻炼照片，并可自行设置隐私和选择展示的内容类型。",
@@ -188,26 +202,33 @@
               "source_url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
               "source_name": "Engadget",
               "published_at": "2026-11-13T07:32:00+08:00"
-            },
-            {
-              "title": "英伟达临时CEO科利特·克雷斯是谁？",
-              "brief": "黄仁勋在执掌英伟达33年后辞去CEO职务，公司董事会宣布由现任执行副总裁兼首席财务官科利特·克雷斯暂时代理。此前黄仁勋承认与一名被指为中国情报人员的前科技高管有染，董事会随即对其展开调查，《纽约时报》还报道称他与一名下属高管也有不正当关系。克雷斯2013年加入英伟达前，曾在德州仪器从事八年财务工作，1997年加入微软，后出任服务器与工具部门CFO，2010年转投思科担任业务技术与运营财务部门高级副总裁兼CFO。公司此前并无接班计划，克雷斯临危受命。",
-              "source_url": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-13T03:26:47+08:00"
-            },
-            {
-              "title": "微软多项Microsoft 365服务出现故障",
-              "brief": "微软多项服务下午出现宕机。最初报告集中在用户无法通过Outlook收发邮件，但Microsoft 365套件中多个平台均受影响。微软在X平台的支持账号已确认问题，Engadget多名员工甚至无法加载服务状态页面。状态页列出的潜在受影响服务包括Exchange Online、Microsoft Teams、SharePoint Online、Microsoft Copilot 365和Microsoft Defender XDR。微软表示，受影响的基础设施在多个地区出现高负载，可能导致连接错误，公司正在重启和修复相关基础设施，并调查某类服务流量异常激增是否为原因，同时评估将流量转移至备用设施以加快恢复。",
-              "source_url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-13T03:17:32+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "苹果本该把 MacBook 标志做成 RGB 灯效",
+              "brief": "The Verge 作者 Antonio G. Di Benedetto 发文吐槽新款 PROLED MacBook Pro 的发光标志。这款笔记本的 Apple 标志虽然恢复了发光设计，但使用的只是单调的白色 LED，而非 RGB 彩色灯光。作者认为这是一个错失的机会，呼吁苹果让这个标志回归彩虹根源，以契合新一代用户的审美。文章还附上了让标志重现彩虹色彩的设想图，表达了对苹果在灯效设计上过于保守的遗憾。",
+              "source_url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+              "source_name": "The Verge",
+              "published_at": "2026-11-13T08:00:00-05:00"
+            },
+            {
+              "title": "微软 Outlook 大规模故障持续，服务开始恢复",
+              "brief": "微软 Outlook 和 Microsoft 365 在经历近两天、影响全球数百万用户的大规模故障后，服务正逐步恢复。部分用户已报告可以重新访问邮箱，但邮件收发可能仍有延迟，部分应用和功能仍处于降级状态。微软在美东时间周五早上 7 点的最新状态页更新中表示恢复进展令人鼓舞：欧洲的服务可用性和邮件投递性能在越来越多的受影响基础设施上持续改善，日本相对更稳定，北美也在好转，但部分用户仍可能遇到问题。微软仍在继续努力彻底修复此次故障。",
+              "source_url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+              "source_name": "The Verge",
+              "published_at": "2026-11-13T07:48:03-05:00"
+            },
+            {
+              "title": "聊聊英伟达 CEO 黄仁勋的诸多婚外情风波",
+              "brief": "The Verge 高级记者 Elizabeth Lopatto 发文评述英伟达近期风波。英伟达 CEO 黄仁勋已辞职，而其新情人的消息接连不断爆出，作者调侃称'婚外情奇点'临近，甚至可能构成'存在性风险'。文章同时提醒关注真正的重点：芯片与中国。据报道，特朗普去年就曾被警告黄仁勋相关人士爱丽丝·黄可能与中国间谍机构存在关联，今年 5 月其访华前再次收到相关警告。作者认为，与其纠缠八卦，不如聚焦英伟达在芯片和中国问题上的实质影响。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+              "source_name": "The Verge",
+              "published_at": "2026-11-13T07:00:00-05:00"
+            },
             {
               "title": "特朗普力挺蒂姆·库克出任英伟达CEO",
               "brief": "英伟达CEO黄仁勋因绯闻传闻，包括与疑似中国间谍的恋情，宣布辞职，公司目前由首席财务官临时掌管。随后美国总统特朗普在Truth Social发文，称苹果前CEO蒂姆·库克是接任英伟达CEO的最佳人选，称赞库克是传奇人物，并表示传奇将由传奇接替。库克已于9月1日卸任苹果CEO，转任执行董事长。",
@@ -221,33 +242,26 @@
               "source_url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
               "source_name": "The Verge",
               "published_at": "2026-11-12T19:11:44-05:00"
-            },
-            {
-              "title": "Whoop推出社交网络，每位用户都拥有“验证心跳”",
-              "brief": "智能穿戴设备公司Whoop推出全新社交平台Whoop Humans，会员可以在应用中与佩戴者分享可穿戴设备数据，展示运动指标、活动和成就，发布类似Instagram快拍的图文内容，并对他人的帖子评论和互动。Whoop声称该平台完全由真人构成，没有AI、机器人和虚假内容。CEO威尔·艾哈迈德称这是有史以来最可验证的人类网络，每个账号都对应拥有验证心跳的真实用户。",
-              "source_url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T18:43:22-05:00"
-            },
-            {
-              "title": "Humble Bundle改版后设置中移除双重验证功能",
-              "brief": "游戏和软件促销平台Humble Bundle近期改版，但据Kotaku报道，新版设置页面不再提供添加或更新双重验证方式的选项。PC Gamer指出，网站仍保留讨论双重验证的支持页面，该站编辑此前曾在旧版网站设置过双重验证。The Verge编辑实测发现，登录时仍需通过邮件获取访问码，登录后也可修改密码，说明目前仍有某种形式的双重验证存在。",
-              "source_url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T18:30:52-05:00"
-            },
-            {
-              "title": "微软Outlook服务持续宕机",
-              "brief": "自周四下午近1点（美国东部时间）起，全球多地用户陆续报告无法访问Outlook邮箱，无论是通过网页版还是客户端均受影响，故障至今仍未修复。微软很快通过Microsoft 365状态账号确认了该问题，表示部分基础设施在多个区域出现负载升高，可能是导致连接错误的原因。此外也有关于Teams出现问题的报告，但程度较轻。微软官方更新称，客户在其365系列商业服务中可能都会遇到问题。微软传播总监本·霍普表示公司已知悉并正在调查用户遭遇的故障。",
-              "source_url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-              "source_name": "The Verge",
-              "published_at": "2026-11-12T18:24:13-05:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "火箭报告：星舰将迎历史性试飞，电子号迎来第100次发射",
+              "brief": "本期火箭报告关注两大焦点事件。其一，SpaceX计划于周五进行星舰发射，并在约22.5小时后的周六下午尝试回收上面级。此前从未有轨道火箭实现包括上面级在内的全部组件回收复用，若成功将成为历史性突破，Ars团队将在得克萨斯州星港基地进行现场报道。其二，火箭实验室的电子号火箭将于11月14日5:30（世界协调时）在新西兰玛希亚半岛执行第100次发射任务，该火箭于2017年首飞。本次任务名为山神升起，将为iQPS的合成孔径雷达星座再送一颗卫星进入低地球轨道，纪念版火箭采用特别的金黑配色涂装。",
+              "source_url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-13T20:00:40+08:00"
+            },
+            {
+              "title": "Specialized Tarmac SL9 S-Level公路车评测：快到让你失控",
+              "brief": "Specialized的Tarmac SL9是旗下气动公路车，S-Level在碳纤维气动公路车顶级产品线中仅次于S-Works，取代了此前的Tarmac SL8 Pro。作者在车型更新后骑行数周，累计里程近1000英里，发现其速度表现极具诱惑力，原本计划的Zone 2轻松骑行常常不知不觉变成了节奏骑甚至冲刺。作者形容骑这款车就像有小恶魔在耳边怂恿加速。Tarmac SL9提供四个型号，均可选配SRAM或Shimano套件，测试的是SRAM版本。值得一提的是，入门型号也可配备顶级套件，不一定需要购买最高端车型。作者认为这款第二快的车型或许是最值得购买的选择。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-13T19:50:38+08:00"
+            },
             {
               "title": "美国癌症协会改弦更张，呼吁所有男性定期接受前列腺癌筛查",
               "brief": "美国癌症协会发布新版前列腺癌筛查指南，显著转变此前的立场，建议所有男性定期接受PSA检测。平均风险男性应从50岁起至69岁每两年检测一次。高风险人群应提前至45岁开始筛查：所有黑人男性因发病率较高，建议45岁起每年检测；非黑人男性若有一级亲属在65岁前确诊前列腺癌，或有多名亲属患病，也应45岁起每年检测；若仅有一名亲属在65岁或之后确诊，则从45岁起每两年检测。70至74岁男性应与医生商议是否继续筛查，75岁以上不再建议筛查。此指南取代了2010年未作普遍筛查建议的旧版，此前仅建议50岁男性与医生共同决策。",
@@ -268,20 +282,6 @@
               "source_url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-13T03:59:59+08:00"
-            },
-            {
-              "title": "《上古卷轴》最冷门作品获4K PC重制",
-              "brief": "2004年，诺基亚N-Gage平台独占推出了《上古卷轴旅行：暗影之钥》，这是一款分辨率为176x208的移动端砍杀类角色扮演游戏，也是该系列最鲜为人知的一部作品。如今，玩家无需寻找老旧的N-Gage硬件或模拟器即可体验它。由粉丝制作的免费PC移植版《暗影之钥：重铸》将原始游戏文件与脚本同更新后的美术资源相结合，可在PC上原生运行并支持4K画质。该作采用完全重写的PC图形引擎，画面从N-Gage的竖屏扩展到16:9宽屏，最高支持120帧显示（游戏逻辑仍保持原版的25帧），并对贴图进行了全新重制。",
-              "source_url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-13T03:49:11+08:00"
-            },
-            {
-              "title": "谷歌推出Gemini 4 Hydrogen，正式取代3.8 Flash",
-              "brief": "谷歌延续了以元素命名的AI命名 scheme，发布新模型Gemini 4 Hydrogen，用于取代生态系统中大多数用户使用的更快速、更经济的Flash系列模型。与此前Argon和Carbon分阶段、面向安全研究人员优先开放的发布方式不同，Hydrogen的开放限制宽松得多，上线即向用户开放，并已在谷歌全线产品中取代Gemini 3.8 Flash。谷歌称，Hydrogen可在低、中、高和新增的xhigh四个思考层级运行，即使在高档位下速度也比3.8 Flash快2.5倍；根据谷歌的分析，其“编造性陈述”减少超过5倍；代码生成能力也显著提升，在Terminal-Bench上的得分是3.8 Flash的三倍以上。在某些测试中，Hydrogen甚至可与Argon一较高下，在xhigh模式下于Artificial Analysis智能指数获得54分，高于Argon的50分。",
-              "source_url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-13T03:23:03+08:00"
             }
           ]
         }
@@ -293,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "《堡垒之夜》神秘蒙面寻宝人X队长将于12月5日揭晓真身，粉丝猜测从MrBeast到奥巴马",
+              "brief": "《堡垒之夜》曾邀请道恩·强森、布丽·拉森等明星饰演游戏内角色，如今似乎即将揭晓又一重要选角。神秘蒙面角色X队长在本赛季寻宝迷你季开局登场，动机不明。当前游戏英雄们正追猎新道具，X队长看似放任其稳步推进，剧情也暗示他可能只是让玩家代为跑腿，再伺机夺走宝藏。游戏同时推出寻宝机制，玩家可赢得为期两周的免费道具商城访问权，推动同时在线人数飙升至数百万。在2026年主播颁奖礼上，X队长戴面具亲临现场，递上手写便条，确认将于12月5日——即章节结局直播活动的日期——完全揭晓身份，粉丝猜测人选从MrBeast到奥巴马不一而足。",
+              "source_url": "https://www.ign.com/articles/after-giving-away-thousands-of-dollars-in-cosmetics-fortnite-is-teasing-a-big-reveal-for-captain-x-its-mysterious-masked-treasure-man-with-fan-guesses-ranging-from-mr-beast-to-obama",
+              "source_name": "IGN",
+              "published_at": "2026-11-13T19:06:11+08:00"
+            },
             {
               "title": "微软全球系统故障修复受挫，承认初步修复未达预期",
               "brief": "微软正在努力应对一场影响全球的系统中断事故，邮件系统等多项服务受到波及，Copilot 也未能幸免。超过12小时以来，全球用户持续反映无法访问电子邮件账户、即时通讯系统以及 OneDrive 和 Office365 上的文档，不过 Xbox 服务据信并未离线。微软迅速承认问题源于服务器能力故障，称多个区域出现了负载升高的情况。然而最初的修复尝试并未奏效，公司表示修复措施没有像预期那样生效。目前微软仍在继续处理这一持续影响全球用户的大规模故障。",
@@ -320,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/former-nvidia-ceo-jensen-huang-reportedly-had-third-affair-with-another-employee",
               "source_name": "IGN",
               "published_at": "2026-11-13T06:21:24+08:00"
-            },
-            {
-              "title": "《英灵神殿》将推出漫画系列，阵容豪华",
-              "brief": "开发商Iron Gate Studio宣布与GUNGNIR Books和MOOD Publishing合作，将这款维京生存游戏改编为漫画，首部作品计划于2027年第一季度推出。该多期系列将讲述设定在游戏世界中的原创故事，而非简单复述游戏剧情，围绕神秘的第十个北欧神域展开，介绍其众神、怪物与危险环境的全新冒险。编剧团队包括史蒂夫·奥兰多（《神奇女侠》《复仇者联盟》）、德里克·休斯、本·拉布、J·霍瑟姆、布蕾亚·格兰特、蒂姆·谢里丹和奥兰·罗杰斯等，画师有斯科特·奥克利、瓦妮莎·德尔雷伊等。GUNGNIR创始人梅德尼表示这个世界观丰富，可讲的故事近乎无穷。",
-              "source_url": "https://www.ign.com/articles/valheim-is-getting-a-comic-book-series-and-it-looks-badass",
-              "source_name": "IGN",
-              "published_at": "2026-11-13T04:20:41+08:00"
             }
           ]
         },
@@ -374,39 +374,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "英伟达市值缩水约1.6万亿美元 分析师称黄仁勋离任或长期压制股价",
-              "brief": "黄仁勋因婚外情风波于周四清晨正式卸任英伟达CEO，CFO科莱特·克雷斯出任临时CEO，董事会启动正式遴选。公司股价当日收跌4.3%，本周累计下跌11%，市值缩水约1.6万亿美元。D.A. Davidson分析师将目标价从300美元下调至200美元但维持买入评级，奥本海默分析师则认为离任可能持续压制股价。下周二英伟达将发布季报，分析师预期营收同比增长91%至1089亿美元。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586266.htm",
+              "title": "《塞尔达传说：时之笛》重制版四天销量突破520万份",
+              "brief": "任天堂11月13日公布，11月5日登陆Switch 2的《塞尔达传说：时之笛》重制版上市四天全球销量超520万份，日本市场约81万份，含实体与数字版。该作是1998年N64经典游戏的完整重制，重制画面场景角色，加入管弦乐、角色语音、扩展过场动画及重新设计的摄像机与操作。其四天销量已达原版约760万份的68%，超过《咚奇刚：蕉力全开》505万份，暂列平台第二；英国首周实体销量比《旷野之息》双平台合计高约35%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1586290.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T18:07:57+08:00"
+              "published_at": "2026-11-13T21:13:02+08:00"
             },
             {
-              "title": "德国军方因网络攻击停飞Quantum Systems无人机",
-              "brief": "欧洲国防科技初创企业Quantum Systems遭网络攻击，一个恶意更新文件通过负责推送QBase地面控制系统更新的服务器分发出去。该公司与德国、西班牙和荷兰军方签有合同，德国军方已停飞其无人机。公司10月底发现安全事件后展开内部调查，称已控制威胁，最终用户使用无人系统不存在风险，并已向主管部门报告。Quantum Systems估值达70亿欧元，在乌克兰拥有200多名员工，此次攻击对其乌克兰业务的影响尚不清楚。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586264.htm",
+              "title": "约650字节固件补丁让45美元USB-C扩展坞变身Switch 2底座",
+              "brief": "改装者通过约650字节固件补丁，让45美元的Cable Matters 201031-BLK USB-C扩展坞兼容Switch 2底座模式。补丁在VIA Labs VL103电源管理芯片中加入约540字节代码，回应任天堂厂商专属消息并复制官方底座完整设备身份，使Switch 2进入电视模式；又为Realtek RTD2142显示转换芯片编写约108字节补丁修正色彩空间标记，解决HDR画面发灰。改装后可供电并输出HDR画面，但仍无法正确处理VRR，DisplayPort输出HDR有颜色问题，且仅适用于特定型号与固件。",
+              "source_url": "https://www.cnbeta.com.tw/articles/game/1586288.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T18:06:11+08:00"
+              "published_at": "2026-11-13T21:06:10+08:00"
             },
             {
-              "title": "英伟达员工内网集体挽留黄仁勋 总部Logo前出现鲜花致敬",
-              "brief": "黄仁勋卸任英伟达CEO后，员工在内部网络集体表达挽留诉求，呼吁其回归。在加州圣克拉拉英伟达总部标识前，有人摆放鲜花与蜡烛致敬，这一幕在社交平台引发热议。黄仁勋执掌英伟达33年，带领公司从显卡厂商成长为全球AI算力核心企业。目前CFO克雷斯担任临时CEO，董事会正推进正式CEO遴选。多名员工担忧其离开会给公司长期发展带来不确定性，董事会尚未回应挽留诉求。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586262.htm",
+              "title": "黄仁勋离职与美国出口管制审查冲击中国AI项目",
+              "brief": "路透社调查显示，中国多地政府支持的算力中心、高校和企业数据中心项目涉及英伟达H100、H200、H800等处理器，相关项目与设备协议总价值超230亿元人民币，但该数字包含建筑、电力等基础设施投资，并不意味着中国购买了等额芯片。随着美国收紧出口管制，项目可能面临供应中断与延期。黄仁勋宣布辞去英伟达CEO职务，其与Megaspeed前高管的关系引发审查，可能削弱英伟达在华盛顿的游说影响力。IDC数据显示，英伟达2026年上半年仍占中国AI加速器出货量34%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586286.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T18:02:52+08:00"
+              "published_at": "2026-11-13T21:05:36+08:00"
             },
             {
-              "title": "微软系统故障扰乱全球市场 交易员被迫改用电话沟通",
-              "brief": "微软发生史上最严重故障之一，Outlook、Teams和Copilot等服务数小时无法正常使用，Downdetector上故障上报量接近20万条。全球金融市场受到扰乱：新加坡部分银行无法完成融资交易，印度券商发布风险提示，日本财政部邮件系统瘫痪，美国Workhorse集团推迟财报发布。交易员被迫改用电话、传真和WhatsApp沟通，交易确认单大量积压影响后台结算。微软表示重启受影响基础设施的工作已取得积极进展，盘后股价下跌0.4%。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586260.htm",
+              "title": "Anthropic将Claude服务异常归因于微软365故障",
+              "brief": "Anthropic表示，Claude服务异常源于上游微软365服务事件。Microsoft 365连接器出现错误率升高和响应缓慢，通过该连接器访问邮件、SharePoint、Teams聊天及日历的请求可能失败，新建连接也可能无法完成；Claude for Outlook同样受影响，部分用户无法打开插件。在连接器问题尚未完全解决时，Claude自身平台又出现新中断，claude.ai、Claude Code和platform.claude.com错误率上升，直接影响用户身份验证系统，导致部分用户无法登录。故障监测网站DownDetector相关报告数量激增，Anthropic仍在调查。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586284.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T18:02:42+08:00"
+              "published_at": "2026-11-13T21:03:28+08:00"
             },
             {
-              "title": "Ostorlab发布2026移动银行App安全报告：鸿蒙严重缺陷比例达31.6%居首",
-              "brief": "安全公司Ostorlab发布2026年移动银行App安全报告，比较iOS、Android与鸿蒙三大平台。数据显示，31.6%的鸿蒙银行App至少包含一项严重级别安全缺陷，比例最高，远高于全体App 18.4%的平均水平。第三方组件方面，56.7%的鸿蒙银行App集成了含已公开漏洞的组件，高于Android的37.7%和iOS的37.4%，主因是许多鸿蒙App属早期移植版本，使用了较旧的第三方库。整体来看，51.5%的受测App存在高危或严重问题，仅4.9%支持通行密钥。报告仅公布汇总统计，未点名具体银行，研究中也未对任何App发起实际攻击。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586258.htm",
+              "title": "Windows 1.0制作名单出现Gabe Newell姓名",
+              "brief": "Windows 1.0制作名单中出现Gabe Newell的姓名，佐证他参与了微软早期Windows版本的开发，直至1996年离职并与Mike Harrington共同创立阀门。这份名单也让一则流行玩笑失去时间线依据：此前有人称Newell在Windows 3.0推出前已离开微软，并衍生出他“害怕数字3”、因此不会有《半衰期3》的说法，但Windows 3.0早在1990年推出，Newell六年后才离职。在微软期间，他还参与了《毁灭战士》的Windows移植工作，以证明该系统并非只适合办公软件。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586282.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-13T16:40:56+08:00"
+              "published_at": "2026-11-13T20:58:15+08:00"
             }
           ]
         },
@@ -414,39 +414,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "微软 25 周年纪念版 Xbox Series X 上市，售价 899 美元，X25 特别版手柄可单独购买",
-              "brief": "微软 25 周年纪念版 Xbox Series X 主机现已上市，定价 899 美元，采用半透明绿色（-green）设计，每台主机附带一份《光环：战役进化》完整游戏下载码。此外，Xbox 无线控制器 X25 特别版也可单独购买，京东显示售价 558 元。微软在 6 月的 Xbox Games Showcase 上首次公布这款纪念主机，并在 Xbox FanFest 活动中，由 Xbox 首席执行官阿莎·夏尔马向现场佩戴粉丝徽章的与会者宣布免费赠送每人一台该主机。此前微软还推出了限定款键盘、鼠标、耳机等产品，以庆祝 Xbox 品牌成立 25 周年。",
-              "source_url": "https://www.ithome.com/1/026/932.htm",
+              "title": "大连理工大学研制国内首款20公斤级氢能动力无人直升机",
+              "brief": "大连理工大学成功研制国内首款20公斤级氢能动力无人直升机，其中L-35MPa氢燃料电池机型续航可达3小时，远超传统锂电无人机约30分钟的续航水平。团队自主研制空冷燃料电池动力系统，对核心电堆进行温度、湿度、盐雾等多工况严苛测试，自研膜电极峰值功率密度达732mW/cm²，电堆质量比功率高达1.4kW/kg。系统控制模块实现检测-诊断-控制闭环联动，使燃料电池与飞行平台高效耦合。试飞中该系列无人机顺利完成海上6级大风巡航任务，可应用于城市巡检、海上作业、山地勘察等场景。",
+              "source_url": "https://www.ithome.com/1/026/949.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T19:09:34+08:00"
+              "published_at": "2026-11-13T21:11:56+08:00"
             },
             {
-              "title": "Gentle Monster 与 Warby Parker 下月推出 Android XR 智能眼镜，接入谷歌 Gemini",
-              "brief": "Gentle Monster 和 Warby Parker 将于下月推出 Android XR 智能眼镜，两款新品均搭载高通 Snapdragon AR1 Gen 1 芯片，配备一颗 1200 万像素摄像头，可拍摄照片和视频，并借助 AI 实现实时翻译、逐向导航、接打电话和播放音乐等功能。产品接入谷歌 Gemini 而非 Meta AI，用户可通过眼镜与 Gemini 交互并使用多项谷歌服务。Gentle Monster 智能眼镜起售价 449 美元，约合 3002 元人民币，共 6 款设计，支持选配处方镜片。Warby Parker 起售价 395 美元，约合 2641 元人民币，提供 Alden、Reid 和 Wren 三种款式及三种配色。",
-              "source_url": "https://www.ithome.com/1/026/931.htm",
+              "title": "Anthropic连发故障通报：微软服务中断波及Claude",
+              "brief": "Anthropic将自身部分服务故障归咎于Microsoft 365连接问题，并在Claude Status页面陆续发布多条通报。通报显示，Microsoft 365连接器错误率升高、响应缓慢，用户访问邮件、SharePoint、Teams聊天和日历可能请求失败，新用户无法完成连接。经查明，问题出在上游服务提供商，邮件、日历和搜索功能大部分请求无法处理，Claude for Outlook也受波及，部分用户无法打开加载项。此外，Claude自身出现新故障，claude.ai、Claude Code和platform.claude.com错误率异常升高，用户无法完成身份验证，Anthropic表示正在调查。",
+              "source_url": "https://www.ithome.com/1/026/948.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T19:07:01+08:00"
+              "published_at": "2026-11-13T21:10:18+08:00"
             },
             {
-              "title": "Blackmagic 发布专业空间音频麦克风：内置 108 个 MEMS 单元，售价 1695 美元",
-              "brief": "Blackmagic Design 发布 Blackmagic Ambisonic Microphone 专业麦克风，定价 1695 美元，约合 11331 元人民币，将于 12 月上市。该产品采用 Ambisonics 全景声麦克风阵列设计，内置 108 个数字 MEMS 麦克风，可采集完整声场信息。设备内置处理单元，运行苹果授权的阵列几何配置和编码滤波器，能实时将 108 路麦克风信号转换为 64 声道、32 位音频数据，无需额外信号分离设备或编码软件。它通过一根 USB-C 线缆完成数据传输和供电，符合 USB 音频设备类标准，免驱使用，可安装于 URSA Cine Immersive 摄像机顶部采集苹果沉浸式视频所需的空间音频。",
-              "source_url": "https://www.ithome.com/1/026/929.htm",
+              "title": "2027款全新领克03上市：限时专享价10.38万元起",
+              "brief": "2027款全新领克03于11月13日上市，提供1.5T Halo、1.5T Halo+和2.0T Ultra+三款配置，限时专享价分别为11.38万元、11.98万元和13.38万元；领克03+同步上市，限时专享价23.98万元。新车新增赛道红、钛影灰车色，车长4700mm、宽1901mm、高1456mm，轴距2730mm，配备25.6英寸AR-HUD、15.4英寸娱乐屏和12.3英寸仪表。1.5T发动机最大功率由133kW上调至148kW，匹配7速湿式双离合；2.0T维持200kW，配爱信8AT。部分版本搭载MRC磁流变悬架，高配升级四活塞刹车卡钳。",
+              "source_url": "https://www.ithome.com/1/026/947.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T18:52:36+08:00"
+              "published_at": "2026-11-13T21:00:34+08:00"
             },
             {
-              "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
-              "brief": "韩国有关部门表示，黄仁勋离任英伟达 CEO 一事不影响此前达成的 26 万块 GPU 供应协议的执行。在亚太经合组织（APEC）会议期间，英伟达与韩国达成了 26 万块 GPU 的供应协议。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。此前韩国政府曾牵头成立 GPU 工作组，联合四大韩企采购 26 万块英伟达显卡。",
-              "source_url": "https://www.ithome.com/1/026/927.htm",
+              "title": "亚马逊内部构想曝光：欲打造“世界商品图谱”",
+              "brief": "据曝光的亚马逊内部PR/FAQ文件，该公司构想打造“世界商品图谱”，将全网商品数据收入囊中，无论是否备有库存，借此切入在线搜索领域并抵御沃尔玛电商扩张，同时应对AI购物智能体的崛起。文件称亚马逊自家的AI搜索智能体目前常提供不准确信息，亚马逊则回应称文件数据严重过时，Alexa for Shopping全球准确率约97%。该计划需品牌方和零售商提供商品数据，也意味着自行爬取零售商网站。亚马逊已与可口可乐、拜耳签约合作，并与宝洁探讨试点。文件将目标发布日期定为2027年10月1日，但此类文件并非都会转化为实际产品。",
+              "source_url": "https://www.ithome.com/1/026/945.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T18:51:53+08:00"
+              "published_at": "2026-11-13T20:37:16+08:00"
             },
             {
-              "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
-              "brief": "openEuler 发布升级为面向 Agentic Infra（智能体基础设施）的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent 应用等场景，已在互联网、金融等行业头部用户商用落地。开放原子开源基金会理事长谢少锋披露，openEuler 系操作系统国内累计装机量预计突破 2200 万套，相比 2024 年 11 月公布的五年累计超 1000 万套实现翻倍以上增长。会上还发布了 openEuler 24.03 LTS SP5 版本。社区计划到年底实现 80% CVE 由 AI 辅助处理，巴基斯坦发布的 HECOS 1.0 成为海外首个基于 openEuler 的本土操作系统。目前社区拥有超 2200 家成员单位、超 3 万名贡献者。",
-              "source_url": "https://www.ithome.com/1/026/911.htm",
+              "title": "马斯克转发电影片段致敬黄仁勋：有些事物是永恒的",
+              "brief": "马斯克转发电影《气垫传奇》片段致敬刚辞去英伟达CEO职务的黄仁勋。片段中耐克高管桑尼·瓦卡罗试图说服年轻的乔丹签下球鞋代言合同，并有“当他们把你捧到最高处，接下来就会把你拉下来”等独白。该视频最早由风投公司Andreessen Horowitz于周四晚间发布，摘录台词“人们会永远记住你，因为有些东西是永恒的”。马斯克转发时只写了“Jensen”。此前英伟达董事会考虑罢免黄仁勋的消息传出时，马斯克曾表示招揽他将是他“的荣幸”，并认同投资人纳瓦尔“创始人很难被取代”的观点。",
+              "source_url": "https://www.ithome.com/1/026/944.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-13T18:47:18+08:00"
+              "published_at": "2026-11-13T20:31:13+08:00"
             }
           ]
         },
@@ -494,6 +494,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "台积电内部员工数据泄露",
+              "brief": "台积电在递交到SEC的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上，相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关，公司正通知受影响员工，并与云服务商、调查机构及外部网络安全公司合作查明真相。据报道，黑客在DarkForums、BreachForums等地下论坛上拍卖6.9GB容量的台积电员工数据，起标价为3BTC。样本显示数据涵盖员工姓名、生日、职称、住址、身份证号、手机号码、银行账户等，黑客称一周内没有买家将公开所有数据。",
+              "source_url": "https://www.solidot.org/story?sid=85881",
+              "source_name": "Solidot",
+              "published_at": "2026-11-13T18:37:17+08:00"
+            },
+            {
               "title": "地球冰冻圈不再处于安全运行空间内",
               "brief": "地球上的冰盖、冰川、海冰、积雪和永久冻土等冰冻部分在调节气候、水资源供应和碳循环中发挥着关键作用。中外研究人员的最新分析显示，冰冻圈的基本功能已不再处于安全运行空间之内，其被推越界限的程度将给地球人口带来长期挑战。研究人员对陆地冰体积、海冰面积、积雪面积和永久冻土温度等关键控制变量分析后得出结论：冰冻圈完整性正经历加速且部分不可逆的丧失，状况已恶化或注定恶化至超过全新世水平。研究人员呼吁全球紧急行动，停止并逆转温室气体和黑碳排放，减少局部人类干扰。",
               "source_url": "https://www.solidot.org/story?sid=85880",
@@ -520,13 +527,6 @@
               "source_url": "https://www.solidot.org/story?sid=85877",
               "source_name": "Solidot",
               "published_at": "2026-11-13T14:47:28+08:00"
-            },
-            {
-              "title": "美国扣押从币安盗走的逾12亿美元加密货币",
-              "brief": "FBI宣布扣押了价值逾12亿美元的加密货币，这些加密货币是黑客组织TraderTraitor此前从全球最大加密货币交易所币安盗走的。币安在此次事件中被盗走价值63亿美元的加密货币，其中约半数全部是稳定币，稳定币发行方能通过智能合约冻结交易，因此被成功冻结；另外一半是难以冻结的比特币、以太币和XRP。美国政府表示已通过法庭授权扣押或冻结了逾12亿美元的加密货币，但没有透露更多细节。",
-              "source_url": "https://www.solidot.org/story?sid=85876",
-              "source_name": "Solidot",
-              "published_at": "2026-11-13T14:36:46+08:00"
             }
           ]
         }
