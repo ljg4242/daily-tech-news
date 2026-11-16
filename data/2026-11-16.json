@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T19:19:20.993239+08:00",
+  "generated_at": "2026-11-16T21:19:36.963078+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iPhone 20 Pro 曝光：或将采用全新 17nm 相机传感器",
+              "brief": "据微博爆料者冰宇宙消息，明年的 iPhone 20 Pro 主摄像头传感器可能采用全新 17 纳米工艺制造逻辑电路。现代堆栈式传感器将感光像素与负责读取和处理图像数据的逻辑电路分离，更先进的逻辑层制程有望带来更快的读取速度、更高的能效和更复杂的图像处理。该传感器据称将于 2027 年苹果二十周年 iPhone 上首秀。苹果预计将跳过 iPhone 19 命名，如同 2017 年十周年时跳过 iPhone 9。三星已开发面向 CMOS 图像传感器信号处理电路的 17LPV 工艺，且正与苹果在得州奥斯汀合作生产先进图像传感器，但与该说法尚无明确关联。",
+              "source_url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-new-17nm-camera-sensor/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-16T20:22:39+08:00"
+            },
+            {
+              "title": "新款 Apple TV 4K 的 A19 芯片被屏蔽一个核心",
+              "brief": "据代码探索者 pdfu 分享的系统诊断数据，苹果新款 Apple TV 4K 搭载的 A19 芯片屏蔽了一个能效核心，即采用五核 CPU，包括两个性能核心和三个能效核心，少于 iPhone 17 的六核 CPU。报告的最高频率为性能核心 4.26GHz、能效核心 2.592GHz，五核 GPU 频率达 1.47GHz，这些是最高频率而非持续性能测试结果。苹果很可能使用筛选芯片，被屏蔽的核心存在缺陷。2022 年款 Apple TV 4K 曾采用类似配置，其 A15 芯片同样屏蔽了一个 CPU 核心。",
+              "source_url": "https://www.macrumors.com/2026/11/16/apple-tv-4k-a19-chip-one-core-disabled/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-16T19:43:43+08:00"
+            },
             {
               "title": "苹果寻找20万人参与AI健康研究",
               "brief": "苹果周日宣布启动Apple Health AI Usage Study，招募参与者使用一款专用iPhone应用，该应用基于医学研究并可结合用户的健康应用数据，回答日常健康问题。这项仅在美国开展的研究与临床AI公司OpenEvidence合作进行，旨在了解人们如何理解和评估AI生成的健康信息、什么因素让他们产生信任，以及AI能否帮助他们为就诊做准备。应用结合OpenEvidence技术与苹果设计的研究体验，回答内容附有《新英格兰医学杂志》、JAMA和《自然》等同行评审来源链接。参与者可自行选择通过HealthKit分享静息心率、活动、睡眠和化验结果等数据，帮助研究人员探索个人健康信息是否能让回答更相关、更易懂。苹果健康副总裁苏姆布尔·德赛表示，负责任的创新始于科学严谨性和临床基础，专门的研究是了解人们如何在日常生活中使用健康AI的最审慎方式。",
@@ -28,26 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
               "source_name": "MacRumors",
               "published_at": "2026-11-16T01:59:53+08:00"
-            },
-            {
-              "title": "彭博社：苹果智能眼镜战略依赖Siri与iPhone应用",
-              "brief": "据彭博社Mark Gurman报道，苹果计划在2027年6月的WWDC上发布首款智能眼镜，并在年底前开始出货。原型内部代号N50，机身略薄于Meta第二代雷朋眼镜，部分测试机型将椭圆形摄像头开口集成于镜框且无突出外壳，配有指示使用或充电状态的前置灯。苹果正开发多种款式和颜色，注重材质、传感器和音质，员工称其音质行业领先，支持音乐播放、通话和FaceTime音频。眼镜可通过左镜腿末端约薄荷糖大小的三针磁吸扁平接头边佩戴边充电，但尚不确定量产是否保留。首款产品不显示增强现实画面，用户通过Siri交互，可识别建筑、根据冰箱食材推荐餐食、导航及翻译标识和对话，并支持通话、短信、通知、日历、提醒、音乐和智能家居控制。开发者需让Siri控制其iPhone应用中的特定功能，以支持订餐厅、叫车、点咖啡、购物等任务。",
-              "source_url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-16T01:55:32+08:00"
-            },
-            {
-              "title": "AirPods Pro 3黑色星期五早鸟促销降至179.99美元",
-              "brief": "黑色星期五早鸟优惠之一已经到来，亚马逊将AirPods Pro 3的价格从249美元降至179.99美元，优惠69美元。该价格仅比亚马逊此前创下的历史最低价高0.99美元。亚马逊提供约11月20日前送达的免费配送，Prime会员可选择隔夜送达。AirPods Pro 3是众多参与早鸟促销的苹果产品之一，其他还包括MacBook Air、AirTag、Apple Watch等。想要寻找更多折扣的用户可以访问MacRumors的苹果优惠汇总页面，了解过去一周最值得入手的苹果相关优惠。此外，网站还提供优惠通讯订阅服务，帮助用户及时获取假日季最大的折扣信息，以免错过最佳购物时机。",
-              "source_url": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-16T01:27:30+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "爆料称 iPhone 20 Pro 主摄将采用全新相机传感器",
+              "brief": "据爆料消息，苹果计划在 iPhone 20 Pro 的主摄像头中采用一款全新的相机传感器。该消息来自爆料人士，预计新传感器将提升主摄的成像质量。目前苹果尚未官方确认这一消息，iPhone 20 Pro 的具体相机配置仍需等待后续更多信息爆料或官方发布时才能确定。",
+              "source_url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-16T21:02:52+08:00"
+            },
+            {
+              "title": "视频播客即将登陆 Apple TV 及其他设备",
+              "brief": "苹果宣布视频播客功能即将登陆 Apple TV 及其他设备。此前视频播客主要在 iPhone、iPad 等设备上观看，此次扩展将让用户可以在大屏幕设备上观看视频播客内容。该功能的推出进一步丰富了 Apple TV 上的内容类型，方便用户在客厅环境中享受播客节目，具体上线时间以苹果官方公布为准。",
+              "source_url": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-16T20:30:32+08:00"
+            },
+            {
+              "title": "苹果提供向 AI 提问健康问题的安全方式",
+              "brief": "苹果提供了一种安全的方式，让用户可以向 AI 提问与自身健康相关的问题。该功能注重用户隐私保护，旨在帮助用户获取健康相关信息的同时确保数据安全。苹果一直强调在健康领域的设计以隐私为核心，此功能的推出延续了这一理念，为用户在设备上咨询 AI 健康问题提供了可靠的途径。",
+              "source_url": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-16T20:09:32+08:00"
+            },
             {
               "title": "苹果信息应用持续改进：作者最喜爱的几项新功能",
               "brief": "9to5Mac 发文回顾了苹果信息应用近年来的多项更新，并分享了作者最喜欢的功能。信息应用不断获得改进，包括更丰富的表情反应、贴纸使用体验的优化，以及消息整理和查找方面的便利功能。作者认为这些细节更新让日常沟通更加高效有趣，也体现了苹果在系统自带应用上的持续投入。文章逐一介绍了各项功能的实际使用场景和体验感受，帮助用户更好地发掘信息应用中容易被忽略的实用特性，提升使用效率。",
@@ -61,27 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-16T05:44:51+08:00"
-            },
-            {
-              "title": "报道称苹果工程师正积极为iPhone Duo 2外屏开发面容ID",
-              "brief": "据最新报道，苹果工程师正在积极开发适用于iPhone Duo 2外显示屏的面容ID功能。这意味着用户未来无需翻开设备即可通过外屏完成面部解锁，提升折叠屏手机的使用便利性。此前苹果在折叠屏设备上一直面临将Face ID传感器塞入更薄外屏的技术挑战。该报道表明相关技术已取得进展，工程师团队正致力于让面容ID在外屏上正常工作，为苹果首款折叠iPhone的正式发布铺平道路。",
-              "source_url": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-16T00:36:12+08:00"
-            },
-            {
-              "title": "新款Apple TV内存翻倍，但应用和游戏无法使用",
-              "brief": "新款Apple TV的运行内存相比上一代机型翻倍，但系统对应用和游戏设置了内存使用限制，导致它们无法实际利用这些额外的内存。这意味着尽管硬件规格提升，第三方开发者仍被限制在原有的内存配额内，性能改善主要体现在系统层面操作。文章探讨了苹果这一限制策略的原因，包括对旧机型兼容性的考量，以及对应用生态一致性的维护，同时分析了这对未来Apple TV游戏和应用发展可能带来的影响。",
-              "source_url": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-15T23:57:57+08:00"
-            },
-            {
-              "title": "据报道苹果Siri AI智能眼镜将于明年推出",
-              "brief": "据多方报道，苹果搭载Siri AI功能的智能眼镜预计将于明年正式发布。文章梳理了这款产品的预期特性，包括内置摄像头、麦克风和扬声器，能够通过Siri实现语音交互、环境感知和实时信息获取。与Vision Pro不同，这款智能眼镜主打轻便的日常佩戴体验，将深度整合Apple Intelligence人工智能功能。文章还分析了可能的发布时间线、预期定价区间，以及苹果在智能眼镜市场与Meta等竞争对手竞争的策略。",
-              "source_url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-15T23:48:52+08:00"
             }
           ]
         },
@@ -129,6 +129,13 @@
           "name": "Ars Technica",
           "articles": [
             {
+              "title": "无人机配送时代来临， PTSD 患者恐受困扰",
+              "brief": "亚马逊宣布计划到2026年底将 Prime Air 无人机配送扩展至近500个城镇，DoorDash 和 Zipline 与 Uber、沃尔玛合作的类似项目也在推进，超视距配送正通过 FAA 审批。然而，乌克兰战争、以色列对黎巴嫩和加沙的袭击中大量使用武装无人机，导致一些心理健康专家所称的“无人机恐惧症”蔓延。部分曾身处冲突地区的人患上创伤后应激障碍或其他焦虑症，无人机飞过的声音会引发痛苦。即使未直接遭到攻击，新闻和社交媒体上流传的攻击视频也可能令人产生焦虑。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-16T20:00:57+08:00"
+            },
+            {
               "title": "Vulcan火箭发射失败，重创SpaceX竞争对手",
               "brief": "联合发射联盟公司的Vulcan火箭周日从佛罗里达州卡纳维拉尔角太空军基地升空，搭载40颗亚马逊Leo宽带卫星，但升空数分钟后坠回地面，任务完全失败。这是ULA成立20年来首次整体任务失败，预计火箭将被无限期停飞。Vulcan火箭未来几年承担约半数美军卫星发射任务，此次任务还是亚马逊38次Vulcan发射订单中的首次，该订单旨在建设与SpaceX星链竞争的宽带卫星网络。此前Vulcan四飞行中曾两次出现固体助推器故障但成功入轨，此次则遭遇不同类型的失败。前两分钟六枚固体助推器表现正常。",
               "source_url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
@@ -162,6 +169,13 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "索尼27英寸DualSense充电钩游戏显示器评测：一段PC历史",
+              "brief": "索尼推出27英寸DualSense充电钩游戏显示器，售价349美元，评分8.5/10。它采用27英寸IPS面板，QHD（2560x1440）分辨率，240Hz刷新率并支持VRR，240Hz上限明显是为PC游戏而设计，因为PS5和PS5 Pro最高仅支持120Hz。显示器支持HDR，但峰值亮度仅350尼特且无高级局部调光，实际效果主要是更广的色域。内置立体声扬声器音质尚可。这款显示器设计时尚坚固，支持PC、PS5及一系列PlayStation配件，磨砂屏幕抗眩光表现出色。在索尼宣布不再将第一方游戏移植PC之后发布这款面向桌面的产品，时机显得颇为奇怪，更像是索尼进军PC计划的遗留产物。",
+              "source_url": "https://www.engadget.com/2313601/sony-27-inch-gaming-monitor-with-dualsense-charging-hook-review/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-16T21:00:00+08:00"
+            },
+            {
               "title": "苹果推出新研究应用，旨在让AI健康工具更易用",
               "brief": "苹果联合医疗AI平台OpenEvidence启动一项健康AI使用研究，希望了解用户如何使用AI健康工具，从而提升其有效性和易用性。研究配套的新应用现已开放下载，苹果计划招募最多20万名参与者。参与者须年满21岁、居住在美国，并使用运行iOS 26及以上系统的iPhone 15 Pro或更新机型。用户可选择性分享Apple HealthKit数据，如活动量、睡眠质量和化验结果，为健康背景提供补充信息。参与者可通过文字提问获得通俗、附有同行评议临床来源链接的回答。苹果强调该应用未与Siri或Apple Intelligence集成，参与者数据将保密，不会用于训练AI模型。",
               "source_url": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
@@ -188,19 +202,26 @@
               "source_url": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
               "source_name": "Engadget",
               "published_at": "2026-11-16T09:00:00+08:00"
-            },
-            {
-              "title": "用手机开移动热点的优缺点分析",
-              "brief": "当携带笔记本电脑外出却没有可用Wi-Fi时，手机热点可以派上用场。手机可将蜂窝数据分享给笔记本、平板或朋友的手机，iPhone上该功能名为个人热点，安卓设备通常在“热点与网络共享”设置中开启。随着远程办公和旅行让更多人离开传统办公室，对便携上网的需求日益增长。虽然也可购买专门的移动热点设备，但大多数情况下在手机设置中简单一键开启更为方便。使用手机热点的好处显而易见：设置便捷，在咖啡店等地随时可用，且无需额外携带、充电和维护第二个设备。不过这种方案也存在一些需要权衡的代价，例如电量消耗加快，以及可能产生额外的流量套餐费用。总体而言，手机热点利弊并存，适合临时应急使用。",
-              "source_url": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-16T08:45:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "英伟达风波未平：黄仁勋辞职令AI行业陷入不确定",
+              "brief": "英伟达CEO、联合创始人兼总裁黄仁勋辞职一事持续发酵。多年来，黄仁勋凭借在英伟达的三重身份，对AI技术的发展方向拥有几乎无可匹敌的影响力。The Verge资深AI记者海登·菲尔德指出，黄仁勋的离开使AI行业陷入观望状态。此事件是The Verge关于黄仁勋辞职及其后续影响的系列报道的一部分，文章更新于2026年11月16日，将持续追踪事件进展。",
+              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+              "source_name": "The Verge",
+              "published_at": "2026-11-16T08:00:00-05:00"
+            },
+            {
+              "title": "亚马逊Zoox无人驾驶出租车接入Uber平台",
+              "brief": "从即日起，拉斯维加斯的Uber用户可叫到亚马逊旗下Zoox的双向行驶、无方向盘的定制无人驾驶出租车。这是Uber首次将无方向盘的定制自动驾驶车辆接入其平台，也是Zoox首次向第三方应用开放其车队。用户在使用UberX、Uber Comfort、Uber Electric、Uber Comfort Electric及Wait & Save等服务时，均可能匹配到Zoox车辆。双方还与美高梅度假村达成合作，并计划于2027年扩展至洛杉矶。",
+              "source_url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+              "source_name": "The Verge",
+              "published_at": "2026-11-16T07:00:00-05:00"
+            },
             {
               "title": "参议员抨击商务部长对英伟达AI芯片流向中国的不作为",
               "brief": "在英伟达CEO黄仁勋辞职风波之际，参议院商务委员会民主党高层参议员玛丽亚·坎特威尔致函商务部长霍华德·卢特尼克，批评商务部未能执行旨在阻止英伟达AI芯片流入中国的保护措施。坎特威尔在信中表示，商务部“损害了美国的国家安全”，其失职行为“帮助拱手让出美国在人工智能领域的技术优势”。她指出，尽管国会赋予了明确的职权，商务部却放任先进AI芯片通过与中华人民共和国有关联的公司流动，对相关出口管制执法不力，引发其对美国技术领先地位的担忧。",
@@ -221,20 +242,6 @@
               "source_url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
               "source_name": "The Verge",
               "published_at": "2026-11-15T16:49:22-05:00"
-            },
-            {
-              "title": "Vulcan 火箭发射失败，40 颗 Amazon Leo 卫星被毁",
-              "brief": "联合发射联盟公司（ULA）的 Vulcan 火箭于 11 月 15 日从卡纳维拉尔角 41 号发射台升空，携带 40 颗 Amazon Leo 宽带卫星，但飞行约 10 分钟后出现异常，未能将载荷送入轨道。ULA 在 X 上发声明确认了这一事故，这据报道是该公司成立 20 年来首次任务失败。Leo 是亚马逊对标 SpaceX 星链的卫星宽带项目，目前入轨卫星数量仍远不足以与星链竞争。此次发射原定是亚马逊向 ULA 采购的 38 次飞行中的第一次。",
-              "source_url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-              "source_name": "The Verge",
-              "published_at": "2026-11-15T16:05:02-05:00"
-            },
-            {
-              "title": "黄仁勋或谋划重返英伟达 CEO，最新风波持续发酵",
-              "brief": "围绕英伟达联合创始人、前 CEO 黄仁勋的争议正迅速演变。最新传闻称黄仁勋可能正在寻求重回 CEO 之位的途径。Megaspeed 公司发表声明，称 Alice Huang 自 2025 年 8 月起就已不在该公司工作，此说法引出更多疑问。埃隆·马斯克、Epic Games CEO 蒂姆·斯威尼等知名人士公开支持一封要求英伟达“让黄仁勋回归”的公开信，该信已收集超过 15 万个签名，但签名数量难以核实。The Verge 的 Stepback 新闻通讯梳理了事件全貌。",
-              "source_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-              "source_name": "The Verge",
-              "published_at": "2026-11-15T15:43:49-05:00"
             }
           ]
         },
@@ -242,39 +249,39 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "Gemini Live 或将支持在相机画面中添加皮卡丘和感恩节特效",
-              "brief": "通过拆解 Gemini 应用代码发现，应用在三点点菜单中出现了“开启 Genie”选项，位于“开启实时翻译”下方。点击后会显示卡片界面，包含感恩节、皮卡丘和自定义三种特效。代码描述显示，皮卡丘特效将在实时相机画面中插入一只动画 3D 皮卡丘，自然立于可见表面、比例真实并带有柔和接触阴影，耳朵抽动、挥手致意并从脸颊释放淡淡电流，同时保留真实背景；感恩节特效则会将场景风格化为温馨的秋日感恩节氛围，配以金色丰收光线、琥珀与绯红秋叶以及装饰南瓜。自定义特效暂无描述，推测可让用户创建自己的视觉效果。Genie 界面还会显示帧率指示器，暗示谷歌可能正尝试动态处理和呈现这些特效，而非简单的固定动画叠加。",
-              "source_url": "https://www.androidauthority.com/gemini-live-genie-video-effects-apk-teardown-3735308/",
+              "title": "爆料称三星Galaxy S28 Pro和Ultra或于2028年配备可变光圈相机",
+              "brief": "最新爆料显示，三星可能计划在2028年推出的Galaxy S28 Pro和Ultra上重新采用可变光圈相机技术。可变光圈能在大光圈下增强虚化效果，在缩小时避免高光过曝并提升画面锐度。三星曾在Galaxy S9和S10上使用双光圈方案，但从S20系列起放弃该设计，转向计算摄影路线。值得注意的是，苹果今年已在iPhone 18 Pro系列上引入可变光圈主摄，部分中国安卓厂商也在考虑类似硬件。由于S28系列要到2028年才发布，三星的路线图仍有较大调整空间。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-s28-variable-aperture-camera-leak-3735527/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-16T19:10:31+08:00"
+              "published_at": "2026-11-16T21:06:13+08:00"
             },
             {
-              "title": "2026 年发现的 20 款最佳新 Android 应用",
-              "brief": "作者盘点了 2026 年发现的最佳新 Android 应用。PaperKnife Plus 是一款 PDF 管理工具，内置 21 项功能，可压缩、合并、签名、编辑、转换和加密文档，完全在本地运行、无需云端连接，也没有互联网权限，是年度最佳办公应用发现。AI Hub 在单个应用中集成超过 100 个 AI 聊天机器人，以网页封装形式加载所选机器人的网页版，适合同时使用多个 AI 服务的用户，节省空间又便于管理。Vela Maps 是开源地图导航工具，基于 OpenStreetMap 数据，可按需叠加谷歌地图的路况、街景、照片和评论等数据，比谷歌地图更可定制，且无需谷歌移动服务即可运行。Adaptive Theme 则根据环境光线传感器自动在深色与浅色模式间切换，是一款实用的系统增强工具。",
-              "source_url": "https://www.androidauthority.com/best-new-android-apps-2026-3734355/",
+              "title": "三星Phone应用或将验证联系人来电真伪以防冒充",
+              "brief": "三星One UI代码中出现一项名为“Caller device check”（来电设备检查）的新功能，将集成于三星Phone应用中，通过RCS消息检测假冒或伪造来电。当来电号码与用户保存的联系人匹配时，手机会通过RCS向对方设备发送 covert 验证消息，最多使用48字节数据确认来电确实来自联系人的设备。官方说明强调联系人信息和通话内容不会被上传到任何服务器。该功能仅能验证已保存的联系人来电，无法识别陌生号码。预计该功能将随One UI 9.5推出，但尚无确切保证。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-phone-fake-call-scam-3735478/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-16T19:00:54+08:00"
+              "published_at": "2026-11-16T20:21:18+08:00"
             },
             {
-              "title": "倍思 14 合 1 扩展坞支持 4K@120Hz、内置电源，降价 42%",
-              "brief": "倍思 Spacemate RD1 Plus 扩展坞配备两个 HDMI 接口，一个支持 4K 120Hz，另一个支持 4K 60Hz，可使用一台高刷新率 4K 显示器或同时连接两台 4K 屏幕，在 Windows 上可镜像或扩展桌面。其他接口包括两个 10Gbps USB-C、两个 5Gbps USB-A 3.0、两个 USB-A 2.0、SD 和 microSD 卡槽（均为 3.0，最高支持 2TB）、千兆网口以及两个 USB-C PD 充电口。笔记本通过一根 USB-C 线即可实现数据、视频传输和最高 100W 充电，全接口总输出可达 120W。扩展坞还内置 140W GaN 电源，无需额外电源适配器，可直接插墙供电，并自动分配笔记本与各配件之间的电力。",
-              "source_url": "https://www.androidauthority.com/baseus-spacemate-rd1-plus-black-friday-3733402/",
+              "title": "微软Outlook宕机致 chlorine 警告邮件未送达，15名游客送医",
+              "brief": "上周四（11月12日）开始的微软Outlook大面积宕机造成了严重的现实影响。德国主题乐园Phantasialand酒店因 chlorine 警告邮件未能送达，导致15名游客在接触受污染的泳池水后就医，消防部门随后关闭泳池并更换水体。此次宕机导致全球所有区域的Exchange Online邮箱无法访问，还破坏了Teams、Copilot、Defender、Planner等依赖邮件的服务，Downdetector一小时内记录超过10万次报告，全球报告总数超过740万次。此外，英国NHS、菲律宾法院、新西兰签证处理、多国交通与航空系统均受波及。",
+              "source_url": "https://www.androidauthority.com/microsoft-outage-phantasialand-chlorine-hotel-3735460/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-16T18:54:40+08:00"
+              "published_at": "2026-11-16T20:02:32+08:00"
             },
             {
-              "title": "因起火和财产损失报告，Bose 召回逾 67 万块 S1 Pro 音箱电池",
-              "brief": "Bose 宣布召回超过 67 万块 S1 Pro 和 S1 Pro Plus 音箱电池，此前出现起火和财产损失报告。与 Anker 此前召回约 6.9 万台 Soundcore 和 PowerConf 蓝牙音箱时需更换整个音箱不同，Bose 用户只需免费更换电池。用户应立即取出并停用受影响电池，可通过电池底部的 17 位序列号判断是否在召回范围内，受影响序列号以 083723、078352、084105、078591、078592、084106、086409 开头。可通过 Bose 召回网站或致电美国 800-278-1083 申领免费替换电池。召回电池不可丢入生活垃圾或普通电池回收箱，应联系当地危险废物回收机构处理。此次召回覆盖 2017 年 12 月至 2026 年 7 月在美国销售的产品，包括单独购买的电池。取出受影响电池后，音箱仍可在接通电源的情况下安全使用。",
-              "source_url": "https://www.androidauthority.com/bose-s1-pro-bluetooth-speaker-battery-recall-3735448/",
+              "title": "One UI 9.5泄露：Bixby 5.0大改版引入记忆与行动功能",
+              "brief": "三星One UI 9.5内部APK泄露显示，Bixby 5.0将迎来重大改版，新增“记忆”和“行动”功能。记忆功能允许用户通过“记住”“保存”等指令保存信息，还可开启从聊天中自动生成记忆，长期学习用户偏好。保存的记忆依赖云端处理，若启用离线模式，回复个性化程度会降低。界面方面，新主页按姓名问候用户，将提示分为“可尝试的操作”和常规“可询问的问题”，底部新增浮动“Ask Bixby”按钮，支持附加照片、文件或调用相机。侧边菜单的“行动”可管理定时任务和后台例程。该功能预计随明年年初Galaxy S27系列一同推出。",
+              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-5-leak-bixby-5-0-memory-actions-3735488/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-16T18:51:10+08:00"
+              "published_at": "2026-11-16T19:42:58+08:00"
             },
             {
-              "title": "如何在世界各地使用 Android 手机付款",
-              "brief": "在大多数国家和地区，使用 Android 手机付款依靠的是 Google Wallet。谷歌两年前已将 Google Pay 功能整合进 Wallet，交易仍基于 Google Pay 架构进行，但用户实际操作的是 Wallet 应用。Wallet 还支持添加交通卡、公交卡、会员卡、登机牌，在美国部分州可作数字身份证，也可作数字车钥匙，并具备包裹实时追踪功能。数字身份证和数字车钥匙仅限于部分西方市场，但 NFC 线下和线上支付几乎在全球可用。不过 Google Wallet 依赖 NFC，不支持二维码支付，相关场景需使用 Pix（巴西）、微信支付（中国）或 Google Pay（印度）等应用。在印度，Google Pay 基于当地 UPI 架构，可通过二维码在几乎所有零售场所付款、转账、缴费和充值，还支持将印度银行发行的 Visa 或万事达卡添加后实现拍卡支付。",
-              "source_url": "https://www.androidauthority.com/how-to-pay-with-your-android-phone-anywhere-in-the-world-3734363/",
+              "title": "Google Messages即将集成媒体编辑器抢先看",
+              "brief": "Google Messages正在开发一项“发送前编辑”功能，允许用户在发送媒体前直接调用设备上的第三方编辑应用（如Google Photos）进行编辑，修改结果会即时同步回Messages应用。该选项在发送多张照片或视频时同样可用，用户只需滑动切换媒体并点击铅笔图标即可开始编辑。技术上，该功能采用基于intent的系统，而非在应用内构建专属编辑器。数月前Messages在改版中移除了原有的基础图片编辑工具，用户此后必须先在其他应用中编辑再附加发送。该功能测试中运行正常，但具体上线时间尚未确定。",
+              "source_url": "https://www.androidauthority.com/google-messages-edit-before-you-send-demo-apk-teardown-3735456/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-16T18:30:24+08:00"
+              "published_at": "2026-11-16T19:25:43+08:00"
             }
           ]
         }
@@ -287,39 +294,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "拼多多推出“申诉优赔”服务：平台主动介入异常投诉，为商家损失兜底补偿",
-              "brief": "拼多多推出“申诉优赔”服务，采取“商家申诉+平台介入”的双通道模式。平台通过技术手段和人工审核主动介入，对商家申诉订单进行全面识别与核实，一经核实即刻补偿，大幅降低商家的售后处理成本。相关负责人表示，对于经过核实的异常投诉、异常退款行为，平台将对相关账号进行风控标识、信用降级、权限限制等梯度约束与处罚，持续优化平台的消费与经营环境，切实保障用户与商家的正常权益。",
-              "source_url": "https://www.ithome.com/1/027/923.htm",
+              "title": "奇瑞捷途环游者 EV 开启预售：9.99 万元起，配猎鹰 500 辅助驾驶与 67.2kWh 犀牛电池",
+              "brief": "奇瑞捷途环游者 EV 是捷途首款纯电车型，采用方盒子设计，风阻系数 0.32，尺寸 4605×1880×1700mm，轴距 2735mm，拥有 21° 接近角、200mm 离地间隙，支持越野蠕行和坦克掉头。新车搭载猎鹰 500 智能辅助驾驶系统，支持高速与城市 NOA 及全场景智能泊车。座舱内置高通骁龙 8775 芯片与 15.6 英寸 2.5K 中控屏，预装 Tour OS 3.5，支持豆包大模型。动力提供两驱和四驱版本，四驱综合功率 275kW，百公里加速 5 秒级，全系标配 67.2kWh 犀牛电池，CLTC 续航 550km，支持 6.6kW 外放电，预售 9.99 万元起。",
+              "source_url": "https://www.ithome.com/1/027/962.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-16T19:17:08+08:00"
+              "published_at": "2026-11-16T21:17:33+08:00"
             },
             {
-              "title": "《皮克敏 4：Switch 2 版》M 站玩家评分仅 1.8 分，被吐槽不值",
-              "brief": "《皮克敏 4》Switch 2 版在 Metacritic 获得媒体评测 83 分，但玩家评分仅 1.8 分，远低于系列其他作品，成为系列迄今评分最低的一部。此前《皮克敏 4》原版玩家评分高达 8.9 分。批评主要集中在两点：一是 10 美元的付费升级价格与新增内容不匹配；二是核心卖点“丹多里学院”大量重复使用原版内容，地图布局基本相同，缺乏新体验。此外，升级后运行速度明显变慢也遭玩家抱怨，有玩家称加载时间从 6 秒延长到 30 多秒。此前任天堂多款游戏的 Switch 2 付费升级版也曾因内容不足受到质疑。",
-              "source_url": "https://www.ithome.com/1/027/922.htm",
+              "title": "布加迪车主平均年龄降至 42 岁，北美有藏家坐拥 14 台",
+              "brief": "布加迪高管表示，品牌买家平均年龄下降了 10 岁至 42 岁，正吸引越来越多新一代超级富豪，北美一位客户甚至拥有 14 辆布加迪。客户并无放弃燃油发动机的诉求，无人要求推出纯电超跑，这也印证了 Chiron 继任车型 Tourbillon 采用 V16 混动路线的正确性。目前约 35% 的车主拥有两辆以上布加迪，Tourbillon 买家近 70% 为老客户。过去 20 年布加迪在北美交付 353 辆车，2025 年交付 60 辆创最佳纪录，年产量仍维持约 100 辆以保持二手残值。劳斯莱斯、宾利等品牌也出现类似的客户年轻化趋势。",
+              "source_url": "https://www.ithome.com/1/027/960.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-16T19:12:08+08:00"
+              "published_at": "2026-11-16T21:01:52+08:00"
             },
             {
-              "title": "明基上架 AK900ST AI 高尔夫投影机：6000lm 亮度、短焦镜头设计，52999 元",
-              "brief": "明基上架 AK900ST AI 高尔夫投影机，售价 52999 元。该机具备 240Hz 刷新率、3000000:1 对比度与 6000 lm 亮度，通过 AI 画质及智能对比度增强（SDR 升 HDR）、AI 降噪与超分辨率重建技术，画面清晰细腻。设备内置独立高尔夫球模式，能精妙还原纹理与球场暗部细节。该机搭载短焦镜头，支持电动光学变焦，在 5.3 米处即可投影 300 英寸画面，还支持四向镜头位移（垂直 ±60%、水平 ±23%）和 3D 校正，内置 10W 扬声器，可灵活适配多样使用环境。",
-              "source_url": "https://www.ithome.com/1/027/921.htm",
+              "title": "一汽-大众纯电轿车 ID. AURA L5 开启盲订：CLTC 续航 580km，顶配配激光雷达",
+              "brief": "一汽-大众纯电轿车 ID. AURA L5 开启盲订，提供花雾紫、云雀灰等六款配色。入门 580 Plus 配备 17 英寸轮毂、电动尾门、10.25 英寸液晶仪表与 15.6 英寸 2.5K 中控屏，支持 L2 级辅助驾驶与 APA 自动泊车。中配 580 Pro 增加隔热全景天幕、18 英寸轮毂、257 色氛围灯及前排座椅加热通风。顶配 580 Max 搭载 192 线激光雷达与地平线征程 6H 芯片，算力 420TOPS，支持高速与城市领航辅助及记忆泊车。新车长宽高 4883×1881×1506mm，轴距 2820mm，单电机版功率 155kW，双电机版前后电机均为 155kW，全系 CLTC 续航 580km。",
+              "source_url": "https://www.ithome.com/1/027/959.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-16T19:08:45+08:00"
+              "published_at": "2026-11-16T21:01:01+08:00"
             },
             {
-              "title": "英国出台网络安全新规：平台必须主动识别并删除儿童色情内容",
-              "brief": "英国通信管理局 Ofcom 公布网络安全新规，要求相关平台承担新的监管义务，具体实施时间仍需获得英国议会批准。新规要求平台必须封禁制作、上传或传播儿童性虐待内容的用户，扩大相关技术的应用范围，主动检测并删除已知的非法图片；在某些情况下，还必须部署自动化工具，识别此前尚未发现的相关内容。Ofcom 指出，相关非法内容在网络上的传播规模庞大，人工智能技术的发展进一步加剧了问题。此前英国还宣布计划禁止 16 岁以下青少年使用 TikTok、Instagram 等社交媒体平台。",
-              "source_url": "https://www.ithome.com/1/027/919.htm",
+              "title": "华为星芒 OSTA O1 Pro 更多配置曝光：搭载麒麟 9030S，新增无充电器版本",
+              "brief": "据博主爆料，华为星芒 OSTA O1 Pro 将搭载 Pura X View 同款麒麟 9030S 处理器，相比后者取消超广角镜头、无线充电和北斗卫星消息等配置，背板改用纯色设计，但新增 16GB 运存规格，并提供无充电器版本可选。新机配备 6.39 英寸 1.5K LTPS 16:9.5 阔屏，拥有 1.05mm 左右极窄四等边和跑道形 Deco 设计，电源键为紫色。存储规格包括 12GB+256GB、12GB+512GB、16GB+512GB 和 16GB+1TB，采用双摄影像，定位 AI 手机，提供黑、白、紫三款配色。博主确认 Pro 版确定使用 9030S，新品牌将于 11 月 20 日首秀。",
+              "source_url": "https://www.ithome.com/1/027/958.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-16T18:55:45+08:00"
+              "published_at": "2026-11-16T20:51:32+08:00"
             },
             {
-              "title": "KTC 推出 H32U6P 31.5 英寸显示器：4K 60Hz 配 90W USB-C，1399 元",
-              "brief": "KTC 推出 H32U6P 31.5 英寸显示器，售价 1399 元。显示器采用 4K 60Hz 面板，亮度 400 尼特，对比度 3000:1，支持 8-Bit 色彩，覆盖 100% sRGB 色域。支架支持升降、倾斜和旋转调节，显示器本体支持 VESA 壁挂安装。接口方面提供 1 个 HDMI 2.0、1 个 DP 1.4、1 个 USB-C（开机 65W / 待机 90W）、2 个 USB-A 3.0 以及 1 个 3.5mm 音频接口，其中 USB-C 接口最高可提供 90W 供电，方便连接笔记本等设备使用。",
-              "source_url": "https://www.ithome.com/1/027/918.htm",
+              "title": "华为徐直军在《时代》撰文：第一视角讲述华为 33 年创新之路",
+              "brief": "华为轮值董事长徐直军在美国《时代》杂志撰文，以第一人称讲述其 1993 年加入华为以来的经历。他当年因《深圳特区报》华为招聘硕博的整版广告前往面试，并被华为的求才诚意及高于其博士导师五倍的薪资吸引而入职。彼时华为共 600 名员工，研发工程师超 200 人。1993 至 2002 年间，华为员工增长至 2.2 万人，研发工程师超 1 万名，营收接近 40 亿美元。他经历了华为从攻关数字程控交换机到确立移动通信全球领先地位，再到孵化 5G、自动驾驶与昇腾芯片的历程。华为每年将超 10% 营收投入研发，2007 年至 2025 年累计投入超 2700 亿美元，已获授权专利 24.5 万件。",
+              "source_url": "https://www.ithome.com/1/027/957.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-16T18:50:53+08:00"
+              "published_at": "2026-11-16T20:39:37+08:00"
             }
           ]
         },
@@ -480,39 +487,39 @@
           "name": "cnBeta",
           "articles": [
             {
-              "title": "开发者分析：Switch 2采用桌面版DLSS模型并新增两种预设",
-              "brief": "有开发者通过对模型文件的技术分析发现，任天堂Switch 2采用了桌面版DLSS模型，并新增H、I两种预设，能以更快速度运行。他将这套设计类比为轻量版DLSS，认为这是针对便携设备有限硬件资源调整的方案。完整桌面模型与新增预设同时存在，可能意味着英伟达为移动硬件准备了独立优化分支。目前尚不清楚这两种预设是否会进入桌面GPU，上述结论并非任天堂或英伟达的正式说明，也没有实际游戏的画质、帧率、延迟及功耗测试结果。",
-              "source_url": "https://www.cnbeta.com.tw/articles/game/1586628.htm",
+              "title": "传苹果20周年纪念版iPhone将搭载全新17纳米相机传感器",
+              "brief": "据报道，苹果20周年纪念版iPhone可能搭载采用17纳米工艺的全新相机传感器。业内指出，逻辑层采用更先进工艺可提升读取速度、降低功耗并支持更复杂的实时图像处理。三星此前已研发面向图像传感器的17LPV低功耗工艺，苹果也与三星在得州推进先进图像传感器合作，研究三层堆叠架构，但尚无法确认此次曝光是否与该合作相关。此外，苹果据传自研采用LOFIC技术的新一代传感器，可大幅增强动态范围，减少对外部供应商依赖。多方消息称，苹果可能跳过iPhone 19命名直接推出iPhone 20，采用四曲面OLED屏、屏下Face ID和屏下前摄，配合固态按键、自研调制解调器和新一代A21处理器，预计2027年9月前后发布。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586640.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-16T17:55:17+08:00"
+              "published_at": "2026-11-16T20:26:39+08:00"
             },
             {
-              "title": "韩国研发磁吸式铁路隔热织物 可为钢轨降温近11℃",
-              "brief": "韩国铁路研究院研发出一种由多层玻璃纤维和磁性材料构成的隔热织物，可覆盖钢轨暴露面，阻挡超过85%的太阳热辐射，经实际线路测试验证最多可使钢轨温度降低10.9℃，从而减少胀轨风险。织物采用双重磁性固定结构，无需钻孔安装，经受了238公里/小时风速的安全验证，可承受高速列车气流强度150%的风力。一套自动化设备仅需两人操作，每小时可铺设约2公里，夏季结束后可拆除回收重复使用，设计寿命最长10年。该技术已获2025年首尔国际发明展最高奖，未来或可用于建筑外墙等领域。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586626.htm",
+              "title": "3400万年前巨鼠化石现身泰国化石矿坑 科学家发现大型啮齿动物远古新成员",
+              "brief": "科学家在泰国甲米府一处褐煤矿坑发现两枚化石牙齿，分别是一枚下第二臼齿和一枚下门齿，确认属于全新远古啮齿动物物种。研究团队采用七种体重估算方法分析牙齿尺寸，推测其体重约30公斤，约为同时期已知大型鼠类的两倍，是那个时代最庞大的啮齿动物之一。此前大型啮齿动物化石证据主要来自南美洲较晚时期地层，此次发现将其出现时间大幅提前，表明东南亚在大型啮齿动物早期演化中的作用可能被长期低估。相关化石最早于2004年被发现，巨大的门齿一度被误认为骨骼化石。新物种名中的Yak源自泰语意为巨人，种名则纪念诗琳通公主。",
+              "source_url": "https://www.cnbeta.com.tw/articles/science/1586638.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-16T17:25:28+08:00"
+              "published_at": "2026-11-16T19:53:44+08:00"
             },
             {
-              "title": "乌兰察布数据中心运维成高薪体面职业",
-              "brief": "据媒体报道，内蒙古乌兰察布的数据中心运维岗位因薪资较高且体面，成为当地热门职业。培训机构负责人介绍，其统计的约120名入职学员中，10%月薪在7000元以上，30%约6000元，50%在5000至5500元之间，头部厂商还包揽衣食住行。当地已开出至少15家数据中心培训学校，打出19800元包就业的招牌，学员约70%来自本地，最高学历为研究生。由于岗位稀缺，运维人员在当地婚恋市场颇受欢迎，相亲时彩礼可能少十万元。不过当地运维岗位需求不超过500个，多数岗位仍是建筑工人、保安和保洁。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586624.htm",
+              "title": "RTX 4090 Ti工程样卡现身中国二手平台 传搭载18176个CUDA核心",
+              "brief": "一张疑似RTX 4090 Ti工程样卡出现在中国二手平台。据卖家提供的照片和软件截图，该卡搭载18176个CUDA核心，配备32GB显存，速率为24Gbps，带宽约1152GB/s，比RTX 4090的21Gbps速率和约1008GB/s带宽高出约14.3%。卖家称样卡测试时没有明显稳定性问题，但运行需要英伟达内部驱动，普通用户无法直接使用。此前曾有该型号工程样卡照片显示其采用厚重四槽散热设计，但一些旧样品运行的是接近标准RTX 4090的规格，此次参数更接近完整的4090 Ti配置。样卡真伪与实际性能尚未得到独立验证，英伟达也未确认该产品。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586636.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-16T17:22:05+08:00"
+              "published_at": "2026-11-16T19:52:28+08:00"
             },
             {
-              "title": "高盛称乌兰察布为亚太最大AI算力集群 22个数据中心在建",
-              "brief": "高盛称乌兰察布为亚太最大AI算力集群，当地目前有22个数据中心同时在建，多家企业在此建设算力基地，近3万名日薪超300元的蓝领工人突击施工，每三个月建完一栋数据中心。单个园区占地200亩、投资超30亿元，用电量相当于145万户家庭，内含超过5000个机柜，放置大量单价超50万元的GPU，光纤长度超一千公里。乌兰察布凭借风大、寒冷、日晒的自然条件转化为算力优势，DeepSeek今年在当地招聘月薪3万元的运维工程师。不过报道指出，算力产业对当地就业和税收带动有限，2025年仅贡献3.68亿元税收，远不及铁合金产业。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586622.htm",
+              "title": "美参议员炮轰商务部监管失职：英伟达AI芯片流向中国引发国家安全争议",
+              "brief": "美国参议员坎特韦尔致信商务部长卢特尼克，指责商务部允许先进AI芯片经由与中国有关联的企业持续流通，未能及时限制被视为国家安全风险的企业，并削弱原有防护措施。信中特别提及新加坡企业Megaspeed，称商务部无视白宫及情报部门的警告，未及时采取限制措施。她还批评商务部允许阿里巴巴和字节跳动等中国企业通过海外数据中心继续获取英伟达AI芯片，并质疑商务部将商业利益置于国家安全之上，指出Cantor Fitzgerald在卢特尼克被提名期间持有约12亿美元英伟达股票。商务部目前尚未正式回应，此事发生之际特朗普即将访华会晤习近平。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586634.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-16T17:21:23+08:00"
+              "published_at": "2026-11-16T19:49:30+08:00"
             },
             {
-              "title": "英媒：黄仁勋离场打击美国开放模型领域，利好Anthropic和OpenAI",
-              "brief": "黄仁勋一直是开放权重模型最直言不讳的支持者，曾游说华盛顿反对限制中国的开放模型。他的离开使美国开放模型领域失去旗手，英伟达原本参与的四项创业公司交易，包括投资Thinking Machines Lab、Groq及129亿美元收购Hugging Face，可能受影响。业内认为投资者资金或转向Anthropic和OpenAI等闭源实验室。OpenAI与Anthropic也早有动作，前者与博通合作自研芯片，后者强调可在几天内切换至AMD芯片以降低对英伟达依赖。",
-              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586620.htm",
+              "title": "中国加速培养AI原生一代 目标2030年实现中小学生人工智能素养普及",
+              "brief": "据路透社报道，中国正从基础教育阶段普及人工智能教育，目标到2030年实现中小学生AI素养普及。北京新英才学校等机构开设编程、机器人和AI工作坊课程，并开发整合多款主流AI系统的课堂模型。全国近一半省份和直辖市已推出具有约束力的AI教育实施方案，上海要求每年至少30课时AI教学，宁夏和甘肃计划从2027年起将AI素养纳入升学考试。在农村地区，AI被用于弥补师资不足，安徽阜南一所高中利用AI生成课程开展教学，升学率从不足60%提高到90%。过去一年各地政府至少承诺投入3100万美元用于AI教育采购。研究显示，使用AI可使作业成绩提高18%，但六个月内月度考试成绩下降20%。",
+              "source_url": "https://www.cnbeta.com.tw/articles/tech/1586632.htm",
               "source_name": "cnBeta",
-              "published_at": "2026-11-16T17:13:29+08:00"
+              "published_at": "2026-11-16T19:48:26+08:00"
             }
           ]
         }
