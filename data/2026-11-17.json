@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated_at": "2026-11-17T07:22:04.084572+08:00",
+  "generated_at": "2026-11-17T09:20:09.204354+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,13 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "iOS 27.3 Beta 2 新功能一览",
+              "brief": "苹果今日发布 iOS 27.3 第二个测试版，包含多项重要新功能。iPhone Duo 新增面部解锁选项，可在合盖状态下通过前置摄像头快速解锁，但仅限锁屏界面使用，Apple Pay 支付及密码访问仍需 Touch ID 验证，约 45 分钟不活动后需重新验证。此外新增合盖锁定功能，可在设置中的显示与亮度选项里开启，关闭设备时锁定而非将内容转移到外屏。Siri AI 新增“询问本页内容”功能，可读取整个网页内容，还可经授权访问健康数据，智能家居控制也有所改进。iOS 27.3 还引入 Apple Intelligence 使用限制，依赖服务器处理的功能按设备设置每日限额，额外额度与 iCloud+ 订阅挂钩：200GB 计划可获 2 倍用量，2TB 为 5 倍，6TB 为 10 倍，12TB 为 20 倍。",
+              "source_url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-17T08:15:18+08:00"
+            },
             {
               "title": "苹果明年计划发布18款新产品",
               "brief": "在连续发布iPhone Duo、HomeView、配备PROLED XDR显示屏的MacBook Pro等多款产品后，苹果今年剩余的重要发布基本告一段落。据彭博社Mark Gurman等消息，苹果预计明年至少推出18款新品，包括二十周年纪念版iPhone 20 Pro与iPhone 20 Pro Max、全新智能眼镜、更大尺寸HomeView、带摄像头的AirPods Pro等。报道还列出iPhone 18e、iPhone 18、iPhone Air 2、iPhone Duo 2及多款iPad的预期芯片、内存、相机与设计变化。",
@@ -35,19 +42,33 @@
               "source_url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
               "source_name": "MacRumors",
               "published_at": "2026-11-17T05:39:27+08:00"
-            },
-            {
-              "title": "macOS 27.3 将警示用户不要给 AI 应用完整的 Mac 控制权",
-              "brief": "苹果在最新的 macOS 27.3 测试版中加强对 Mac 用户数据和应用权限的管理，尤其是使用 AI 代理的应用。苹果已向开发者通报即将对完全磁盘访问 API 以及设备控制与数据访问 API 的调整。原有的设备控制与数据访问设置将被拆分为系统与应用保护覆盖和辅助功能两个选项，使用户更清楚自己授权的内容。苹果将通过列表选择应用的方式统一权限授予流程，鼓励用户仅授予工作流所需的特定应用或文件夹权限，并更清楚地告知用户授予完整权限后应用可访问的数据。用户还可配置应用在每次需要时询问授权，而非授予不受限制的访问。当应用通过系统与应用保护覆盖控制其他应用时，菜单栏将显示透明度指示器。开发者需调整应用引导流程，并确保应用能妥善处理受限的文件夹或应用访问。磁盘备份和辅助技术类应用可申请特殊授权以保持原有体验，用户此前授予的权限将继续有效。",
-              "source_url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-17T05:08:20+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "苹果前董事长莱文森申报出售约3180万美元公司股票",
+              "brief": "苹果前董事长阿瑟·莱文森向美国证券交易委员会提交144表格，计划出售9万股苹果普通股，总市值约3176.59万美元。这些股票由The Homeplace信托持有，莱文森作为受托人代为处理，交易预计通过嘉信理财进行。今年5月他曾出售25万股套现约7120万美元，三周后又售出5万股，但仍直接持有约370万股。文件显示股份于2001年2月27日以现金购入。需注意144表格仅是拟出售通知，不确认交易已完成。",
+              "source_url": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-17T08:32:01+08:00"
+            },
+            {
+              "title": "9to5Mac每日播报：苹果智能眼镜传闻等消息",
+              "brief": "本期9to5Mac每日播报讨论了三条主要新闻：谷歌Gemini车载功能现已支持CarPlay；新款Apple TV的运行内存是上一代的两倍，但应用和游戏无法使用这部分内存；据报道苹果Siri AI智能眼镜将于明年发布，介绍了可期待的功能特性。节目每个工作日录制，可在Apple Podcasts、Overcast、Spotify等平台收听订阅，订阅9to5Mac Daily Plus还可获得无广告版本和额外内容。",
+              "source_url": "https://9to5mac.com/2026/11/16/daily-november-16-2026/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-17T08:09:13+08:00"
+            },
+            {
+              "title": "西昊人体工学办公椅降至年内最低价",
+              "brief": "西昊Doro C300 Pro V2人体工学办公椅目前处于年内最低价，提供全身人体工学支撑，配备SyncroFlex背部的自适应滑移系统、DynaCore同步支撑和Domino骶腰椎支撑，倾仰采用智能重力感应自动调节阻力。座椅可调节减压，配备8D仿生自适应扶手和超宽3D头枕。产品支持30天无理由退款和36个月延保。原价499.99美元，黑五促销价409.99美元，使用9to5Mac专属折扣码后仅需385.39美元，可在官网或亚马逊购买。",
+              "source_url": "https://9to5mac.com/2026/11/16/sihoos-ergonomic-office-chair-gives-all-year-comfort-at-lowest-price-for-holidays/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-17T08:00:00+08:00"
+            },
             {
               "title": "《Schmigadoon!》与《Widow's Bay》为 Apple TV 再添两项格莱美提名",
               "brief": "《Schmigadoon!》的音乐剧版原声专辑获 2027 年格莱美奖最佳音乐剧专辑提名，将与《CHESS》《The Lost Boys》《Ragtime》等作品竞争。此前该音乐剧今年早些时候曾获包括最佳音乐剧在内的四项托尼奖，使 Apple TV 集齐艾美、格莱美、奥斯卡、托尼奖，成为 EGOT 大满贯。此外，《Widow's Bay》获最佳影视配乐奖提名，作曲家 David Fleming 将与《奥德赛》等作品的原声竞争。2027 年格莱美颁奖典礼定于 2027 年 2 月 7 日举行。",
@@ -61,33 +82,33 @@
               "source_url": "https://9to5mac.com/2026/11/16/apple-expands-apple-intelligence-beta-testing-in-china-to-ipads-and-macs/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-17T05:38:55+08:00"
-            },
-            {
-              "title": "新订单 iPhone Duo 交付时间提前约一个月",
-              "brief": "iPhone Duo 于 10 月 16 日开启预购后，交付时间很快从 11 月推迟至 12 月，约半小时后新订单最早要到次年 1 月底才能发货，这一时间此后一直未变。目前据 Max Weinbach 发现，苹果官网新订单的预计交付时间已提前约一个月，美国及其他地区用户显示为 12 月 16 日至 23 日。这表明苹果产能提升顺利，也可能与 1 月底的交付预期令部分潜在买家却步、订单放缓有关。虽然具体销量尚不清楚，但 iPhone Duo 外观上已颇受欢迎，而即将推出的 iOS 27.3 将新增面容解锁功能，有望缓解评测中的主要批评。",
-              "source_url": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-17T05:28:12+08:00"
-            },
-            {
-              "title": "苹果领导层变动持续：新任 Apple Pay 与钱包负责人出炉",
-              "brief": "苹果任命在公司工作26年的老将科里·富格曼担任 Apple Pay 与钱包业务负责人。此前彭博社报道，自2014年 Apple Pay 发布以来一直执掌该业务的詹妮弗·贝利将于10月底退休。富格曼于2000年9月加入苹果零售部门，历任多个领导职务，2019至2021年负责 Apple Card 和 Apple Cash，2021年11月起担任 Apple Pay 与钱包高级总监。该业务每年处理数百亿美元收入，每年在90多个市场完成数百亿笔交易。富格曼将向服务主管艾迪·库伊汇报，并深度参与 Apple Card 合作从高盛向摩根大通的转移。贝利将在未来几个月继续以顾问身份协助过渡。",
-              "source_url": "https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-17T05:10:12+08:00"
-            },
-            {
-              "title": "黑五提前购：我们正在入手的苹果优惠好物",
-              "brief": "亚马逊黑五早期促销更新，带来大量优惠：AirPods Pro 3 降至179美元（原价249美元），Apple TV 4K 第四代售价289美元。AirTag 2 四件装79.99美元，单个23美元，配 FineWoven 钥匙圈25美元。智能家居方面，Ring 电池门铃39.99美元，降幅过半；有线 4K Pro 门铃149.99美元，立减100美元。大屏电视方面，海信65英寸 U6 Pro 不到半价，配备144Hz、杜比视界 IQ 和全景声；三星85英寸 The Frame Pro 优惠800美元。文中还推荐了 Apple 40W 动态功率适配器等适合作为礼物的小件商品。",
-              "source_url": "https://9to5mac.com/2026/11/16/gear-we-buying-amazon-early-black-friday-sale/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-17T04:38:12+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "2026年11月Google系统更新内容一览：Pixel虚拟游戏板上线",
+              "brief": "Google发布2026年11月系统更新，涵盖Google Play服务v26.45等组件。本次更新中，账号管理方面新增存储管理功能，用户可跟踪清理进度、滑动快速审阅并保留或删除大文件，还能轻松查看当前管理的Google账号。车机端为Google及第三方开发者提供新的地图相关开发支持，并启用汽车与Android设备之间的跨设备体验设置。健康健身方面，手表户外锻炼时可借用手机的GNSS追踪位置，有助于节省手表电量。更新路径为设置中的Google系统服务页面。需注意更新日志中出现某项功能不代表已全面推送，部分功能可能需数月才能完整上线。",
+              "source_url": "https://9to5google.com/2026/11/16/november-2026-google-system-updates/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-17T08:43:00+08:00"
+            },
+            {
+              "title": "Chrome 157发布：带来27项新功能与改进",
+              "brief": "Chrome 157正在推送，包含5项新功能和22项改进。新功能包括：鼠标悬停在折叠的垂直标签栏上时自动以浮层形式展开，方便查看完整标签标题和切换标签，默认启用且可在设置中开关；垂直标签栏支持手动调整宽度，并跨浏览器重启和窗口记住自定义宽度；设置子页面获得独立网址，可直接输入、收藏或链接，并支持浏览器前进后退按钮；视频会议中共享标签页时，窗口顶部显示常驻控制栏，可随时停止共享或切换共享标签；另存为操作默认使用系统文件选择器，可重命名文件并选择保存位置，包括Google Drive和外部存储。改进集中在书签栏、垂直标签和地址栏等方面。",
+              "source_url": "https://9to5google.com/2026/11/16/chrome-157-googlebook/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-17T07:46:42+08:00"
+            },
+            {
+              "title": "Gemini新设置：可保留聊天记录，同时关闭AI训练",
+              "brief": "Google正在拆分Gemini原有的“保留活动记录”设置，将其分为两个独立选项。第一个选项为“历史记录”，控制聊天历史保存时长；若关闭，未来的聊天记录将保存约2个月，用于回应用户、处理反馈，并在人工审核员协助下保护Google、用户和公众，其中聊天上下文当前保留24小时，用于保护用途的保留72小时。第二个选项可单独控制聊天内容（包括文字和附件）是否用于训练生成式AI模型。借助此改动，用户可以在保留历史记录的同时独立管理AI训练授权。若当前“保留活动记录”已关闭，这两项新设置也将默认关闭。相关变更将在未来数周内推送，Google会通过邮件通知用户。",
+              "source_url": "https://9to5google.com/2026/11/16/gemini-history-ai-training/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-17T07:22:08+08:00"
+            },
             {
               "title": "安全云存储是保存文件更便宜、更安全的替代方案",
               "brief": "相比购买物理存储设备，安全云存储是一种更便宜、更安全的选择。总部位于瑞士的 pCloud 在欧美运营数据中心，全球用户超过 2400 万。瑞士法律对数据隐私和消费者权利标准较高，而 pCloud 成立 13 年来始终以安全和隐私为基础。其服务覆盖 Android、iOS、macOS、Windows 和 Linux 等平台，用户可通过 pCloud Drive 应用进行存储和备份，手机端还能自动备份照片以释放空间，并方便地在用户间分享文件。用户可存储文档、照片、视频甚至含密码的文件。如需更高安全性，pCloud Encryption 提供客户端零知识加密，密钥完全由用户掌握。pCloud 还官方支持 WebDAV、Rsync、SFTP 和 SCP 的 NAS 备份功能，为现有备份增加保障。与多数按月或按年收费的云存储不同，pCloud 采用一次性付费模式，类似购买物理存储。",
@@ -101,27 +122,6 @@
               "source_url": "https://9to5google.com/2026/11/16/gemini-skills-files-sharing/",
               "source_name": "9to5Google",
               "published_at": "2026-11-17T06:11:48+08:00"
-            },
-            {
-              "title": "周一安卓应用优惠与免费活动：《最终幻想》系列、《勇者斗恶龙》、《Ash of Gods》等",
-              "brief": "亚马逊更新了早期黑色星期五促销活动，推出大量新品优惠。同时，Google Play 商店本周一上线一批安卓应用折扣与限免活动，包括《最终幻想》系列多部作品、《勇者斗恶龙》系列以及《Ash of Gods》等游戏，部分应用提供限时免费下载。此外，促销商品还涵盖 AirPods、Apple Watch Series 12、Fold 8 和 PlayStation 等产品。有需求的用户可在活动结束前前往商店领取，价格以页面实时显示为准。",
-              "source_url": "https://9to5toys.com/2026/11/16/today-highlight-google-play-deals-final-fantasy/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-17T04:58:04+08:00"
-            },
-            {
-              "title": "Google 电话应用 246 版本向安卓用户推出渐变图标 redesign",
-              "brief": "Google 电话应用（Phone by Google）246 版本开始向稳定版用户推出全新渐变图标。相比旧版，新图标中的听筒略大，整体形状保持不变；通过在听筒和话筒部分使用渐变色，新设计显得更扁平、更轻盈，并彻底移除了较深的蓝色调。Google 表示，新图标更清晰锐利，配色、间距和渐变经过更新，与 Google 生态系统的现代风格保持一致。本次更新除图标外无其他功能变化。此外，Contacts 和 Google Messages 应用的对应新图标仍在测试中，联系人标签页恢复功能也尚未推送给稳定版用户。电话应用 246 版本预计将在未来几周内完成稳定版推送。",
-              "source_url": "https://9to5google.com/2026/11/16/phone-by-google-246-new-icon/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-17T03:54:00+08:00"
-            },
-            {
-              "title": "Google 开放“创建我的小部件”测试版，Pixel 10 和 11 用户可用",
-              "brief": "Google 正在 Play 商店开放“创建我的小部件”测试版，用户可通过商店页面加入测试并更新应用体验。该功能需要 Gemini 智能服务支持，适用于 Pixel 10、Pixel 10 Pro、Pixel 10 Pro XL、Pixel 10 Pro Fold 及 Pixel 11 系列，目前提供英语版本，覆盖澳大利亚、加拿大、印度、英国和美国。在主屏幕长按进入小部件菜单后，右下角面板会出现新的“创建”按钮。设置时可选择利用 Gemini 关联的日历、Gmail 等数据定制个性化小部件，或仅使用网络数据和位置获取天气、新闻、股票等实时信息。Google 会提供多种建议和“为你推荐”选项，例如生日倒计时、节日倒计时、每日概览、食谱灵感、股票观察列表及周末活动等，每一步生成多个方案，用户还可通过描述想要的修改进行微调，或直接输入提示词描述所需小部件。",
-              "source_url": "https://9to5google.com/2026/11/16/pixel-create-my-widget-beta/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-17T01:39:58+08:00"
             }
           ]
         },
@@ -169,6 +169,13 @@
           "name": "Android Authority",
           "articles": [
             {
+              "title": "Google Messages 正在开发个性化智能回复功能",
+              "brief": "Google Messages 正在开发一项新选项，允许用户在基础智能回复和个性化智能回复之间进行选择，后者旨在更好地匹配对话的语气。目前该功能的具体细节尚未公布，但应用代码中的介绍性文字显示，新功能将节省快速回复时的时间和精力，并使智能回复更加个性化、更贴合对话内容。分析认为，个性化可能意味着模仿用户的写作风格或引用对话中之前的玩笑。目前最接近的功能是 Magic Compose，但操作较为繁琐，而智能回复的意义在于轻松快捷。考虑到谷歌 AI 工具近年来已相当成熟，其有望捕捉对话的细微差异并生成合适的回复，用户还需等待实际体验后再作判断。",
+              "source_url": "https://www.androidauthority.com/personalized-smart-replies-3735772/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-17T07:57:30+08:00"
+            },
+            {
               "title": "谷歌 Messages 聊天内小游戏玩法曝光",
               "brief": "根据最新发现的代码字符串，Google Messages 将在聊天界面内置九款经典小游戏，包括台球、国际象棋和篮球等，用户无需离开对话即可游玩。这一细节表明游戏是直接集成在应用内的，而非跳转外部链接。功能上线时会出现介绍提示框，并提供确认和拒绝按钮，同时附带免责声明，说明游戏会使用相关数据来提供结果。代码还显示这些游戏为回合制多人玩法：轮到玩家时会收到通知，游戏结束后会收到胜负或平局的通知，并可能附带最终比分等细节。此外有迹象表明一场游戏最多可有四人获胜，暗示游戏支持群聊多人参与。不过这些代码尚未完全确认相关功能细节。",
               "source_url": "https://www.androidauthority.com/google-messages-in-app-gaming-3735732/",
@@ -195,13 +202,6 @@
               "source_url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/",
               "source_name": "Android Authority",
               "published_at": "2026-11-17T06:13:29+08:00"
-            },
-            {
-              "title": "Android 快速切换功能类似 iPhone 接力",
-              "brief": "谷歌正在开发的 Android Fast Switch 功能可将蜂窝网络访问转移到当前正在使用的设备上。虽然目前已可手动转移 eSIM，但 Fast Switch 的吸引力在于让转移过程在后台静默完成。早期信息显示该功能可能存在限制：用户或许需要先在手机上手动使用某张 SIM 卡一次才能共享，且部分 SIM 卡可能不兼容此共享功能，具体规则尚不清楚。代码中的提示信息表明，Fast Switch 明确面向单一用户管理多部手机，而非为他人手机廉价添加服务，因此主设备和 companion 设备必须登录同一个谷歌账号，并接受共享请求。这项功能有望类似 iPhone 的接力体验，但目前仍有诸多细节待明确，例如通话记录如何在两部手机间同步等问题。",
-              "source_url": "https://www.androidauthority.com/android-fast-switch-handoff-3735737/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-17T05:38:23+08:00"
             }
           ]
         },
@@ -209,45 +209,52 @@
           "name": "Engadget",
           "articles": [
             {
+              "title": "Meta 正在测试 Instagram 独立消息应用 Direct",
+              "brief": "Meta 正在测试一款名为 Direct 的独立消息应用，将 Instagram 的私信收件箱带入独立应用。目前该应用仅在泰国和土耳其上线。Direct 的界面与 Instagram 收件箱几乎相同，使用 Instagram 账号登录后现有聊天记录会同步过来，也支持自定义聊天背景和 Notes 状态功能。值得注意的是，用户无需 Instagram 账号，可直接用邮箱或手机号注册使用，但需通过 Instagram 用户名或二维码手动添加联系人。Meta 还为其引入了安全功能，包括限制陌生人发起聊天、家长可监控青少年聊天对象和使用时长，并利用技术检测针对青少年的不当互动。",
+              "source_url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-17T09:00:00+08:00"
+            },
+            {
+              "title": "你应当启用的 Gmail 重要安全设置",
+              "brief": "Gmail 已不只是邮件服务，大量网站和应用支持用 Google 账号登录，一旦账号被盗，损失远不止邮件泄露。Google 提供了多种安全设置来保护账号。首先是运行安全检查页面，它会给出个性化建议，如添加恢复手机号和备用邮箱，用于提醒异常活动和找回账号。其次最重要的是开启两步验证，开启后即使密码被盗，登录还需要手机等实体设备。路径为进入 Google 账号管理的安全与登录页面，选择开启两步验证并按提示操作。此外还可以使用通行密钥，通过指纹、面部识别或屏幕锁替代密码登录，进一步提升安全性。",
+              "source_url": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-17T08:30:00+08:00"
+            },
+            {
+              "title": "无论黑五还是 CEO 丑闻，NVIDIA 显卡都难有深度折扣",
+              "brief": "NVIDIA CEO 黄仁勋于 11 月 12 日辞职，公司市值一度跌破四万亿美元，股价此前已连续五周下跌约 20%。随着黑色星期五临近，许多消费者期待买到便宜的 RTX 显卡，但市场价格并未松动。由于 AI 数据中心全年大量吞噬显存，NVIDIA 显卡价格早已远超建议零售价：RTX 5080 原价 999 美元，现起售价 1999 美元；RTX 5090 发售价 1999 美元，低者也要近 7000 美元。黑五历来对显卡价格影响有限，今年零售商可降价空间更小，CEO 丑闻也难以撼动硬件价格，只有股票在下跌。",
+              "source_url": "https://www.engadget.com/2318262/nvidia-gou-dont-get-deep-discounts-black-friend-ceo-scandal/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-17T08:00:00+08:00"
+            },
+            {
+              "title": "如何将 iPad 进入恢复模式（含有无 Home 键机型）",
+              "brief": "简单的重启能解决多数 iPad 问题，但当系统出现严重故障时，恢复模式可能是唯一选择。它可将 iPad 连接电脑进行系统更新，最坏情况下可恢复出厂设置。适用场景包括系统更新失败导致无法开机、反复重启、多次输错密码被锁、电脑无法识别设备，或屏幕提示连接电脑。操作方法：先用 USB 线将 iPad 连接电脑，Mac 打开访达，PC 打开 Apple 设备应用。带 Home 键的机型需同时按住 Home 键和电源键，直到屏幕出现恢复模式图标后松开；新款无 Home 键的机型如 iPad Pro，则需使用电源键和音量键组合操作完成。",
+              "source_url": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-17T07:30:00+08:00"
+            },
+            {
               "title": "这些充电错误习惯可能毁掉任天堂 Switch 的电池",
               "brief": "手持游戏主机如 Switch 2 和 Steam Deck OLED 的最大短板是电池续航，而且大多数新款掌机的电池并不便于快速更换。随着时间推移，所有 Switch 的锂电池都不可避免地会老化退化，最终可能只在连接底座时才能使用。不过，正确的充电习惯可以延缓这一过程。文章指出，切勿让 Switch 电量耗尽至零，因为锂电池的充电循环次数有限，深度放电会更快消耗循环次数，Switch 1 的循环次数约为 800 次以上，接近上限后电池容量会明显下降。任天堂还提醒，如果长期不使用主机，应每六个月充电一次，以避免电池永久损坏。掌握这些技巧，可以让电池坚持到下一代主机发布。",
               "source_url": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
               "source_name": "Engadget",
               "published_at": "2026-11-17T07:00:00+08:00"
-            },
-            {
-              "title": "美联航遭遇大范围系统故障，部分航班延误",
-              "brief": "美联航近日发生大范围系统故障，导致航班出发受到影响。公司在 X 平台上回复多名乘客时确认知晓此次故障，并称正在排查影响出发航班的技术问题。美联航发言人表示，已在飞行中的航班以及美联航快运航班未受影响，且没有迹象表明这是一起网络安全事件。社交媒体上乘客反映，机组人员称是负责重量与配平的计算机系统宕机，有飞行员表示该问题与上周美国联邦航空管理局的全国地面停飞令无关。美联航随后确认已解决导致航班延误的技术问题，但未说明具体原因。此次故障与之前 FAA 的全国性地面停飞事件并无关联。",
-              "source_url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-17T06:38:43+08:00"
-            },
-            {
-              "title": "iOS 27 新测试版为 iPhone Duo 带来面部解锁功能",
-              "brief": "缺少 Face ID 是用户对 iPhone Duo 折叠屏手机的主要抱怨之一。苹果在周一向开发者发布的 iOS 27.3 第二个测试版中，新增了使用前置摄像头进行面部识别解锁的选项，名为前置摄像头解锁，可在设置的触控 ID 与密码中开启。由于 iPhone Duo 没有配备 Face ID 所需的 TrueDepth 深度摄像头，只有内外屏的普通摄像头，因此设置界面提示该功能仅提供便利性，安全性不如触控 ID 或面容 ID。实测显示该功能解锁速度比触控 ID 更快，照片无法欺骗识别，在部分弱光环境下可用，但全黑环境无效。出于安全考虑，该功能仅能绕过锁定屏幕，不能用于解锁应用、查看密码或使用 Apple Pay。",
-              "source_url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-17T05:17:24+08:00"
-            },
-            {
-              "title": "按发布日期回顾历代Xbox游戏主机",
-              "brief": "为庆祝Xbox问世25周年，本文回顾了微软自2001年以来推出的四代共九款Xbox主机。2001年11月，售价300美元的初代Xbox上市，与PS2和GameCube同场竞技。虽然PS2成为史上最畅销主机，但微软凭借2002年底推出的Xbox Live树立了在线主机游戏的高标准，玩家只需每年支付50美元即可在线畅玩《光环》等游戏。该服务上线四个月即拥有超过30万订阅用户，到2005年中期已达到200万。此后Xbox还引入成就系统和Game Pass订阅游戏库等创新。下一代Xbox的细节目前仍未明朗。",
-              "source_url": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-17T05:00:00+08:00"
-            },
-            {
-              "title": "多家大型银行客户反映无法在线访问账户",
-              "brief": "多家银行和金融服务机构当天出现服务中断。美国东部时间下午3点，Down Detector上报告问题最多的四个服务为大通银行、美国银行、US Bank和富国银行，Zelle、第一资本、PNC、摩根大通和Truist也出现故障报告激增。部分银行从上午10点左右开始收到大量报告，其他银行则在下午才开始激增。大通银行发言人向美联社表示，客户可能因技术问题遇到交易变慢，并强调这不是网络安全问题。US Bank也确认客户通过Zelle收付款项可能出现延迟。此次金融系统故障之前，微软多项服务于11月12日宕机，次日美国联邦航空管理局又因空管设备问题发布全国停飞令。",
-              "source_url": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-17T04:49:32+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "2022年泄露《GTA VI》的黑客认罪",
+              "brief": "据英国皇家检察署消息，Lapsus$网络犯罪组织成员、现年21岁的Arion Kurtaj已于周一认罪。他曾在2022年泄露90段《GTA VI》游戏视频，并入侵多家大型企业。2021年8月至11月间，他入侵英国电信运营商BT/EE，导致用户手机SIM卡遭大量未授权调换。2022年9月，他被送往酒店保护，却违反保释条件，利用手机、酒店电视Wi-Fi和Firestick设备继续入侵Rockstar Games、Uber和Revolut等公司。他已被判处终身关押于安全机构。",
+              "source_url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+              "source_name": "The Verge",
+              "published_at": "2026-11-16T18:35:58-05:00"
+            },
             {
               "title": "科技界领袖坚信黄仁勋辞职是针对他的阴谋",
               "brief": "黄仁勋在英伟达任职超过33年后突然辞职，震惊整个科技行业。目前多位知名人士呼吁让黄仁勋复职，许多人还支持硅谷流传的一种说法：这场丑闻是针对这位前CEO的阴谋。该理论的核心来自《纽约时报》的报道，该报道称前Megaspeed高管黄爱丽丝是的中国间谍，她是被指控与黄仁勋有染的多名女性之一。美国机构尚未确认这一说法是否属实，特朗普总统则声称他对任何间谍指控并不知情。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
               "source_name": "The Verge",
               "published_at": "2026-11-16T15:46:01-05:00"
-            },
-            {
-              "title": "奥特曼表态：希望每个人都能拥有大容量内存",
-              "brief": "OpenAI CEO山姆·奥特曼在Semafor硅谷峰会上再次回应此前引发争议的内存言论。他明确表示：希望人们拥有大量内存，每个人都应该能为自己的电脑购买大容量内存，并认为家庭动手改装很棒。上个月，奥特曼在Cheeky Pint播客中曾表示，让内存放在个人电脑中而不是数据中心，是非常糟糕的事，此番言论引发广泛争议。本月初他在X平台发帖跟进，称希望用户拥有超多内存，并表示原始言论被曲解。此次最新表态正值全球内存短缺、内存价格上涨之际。",
-              "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-              "source_name": "The Verge",
-              "published_at": "2026-11-16T15:41:28-05:00"
             }
           ]
         }
@@ -386,39 +386,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "美联航遭遇大范围系统故障，航班起飞受影响",
-              "brief": "美国联合航空公司遭遇大范围系统故障，影响部分航班起飞。美联航表示，正在飞行的航班及联航快运航班均未受影响，目前没有迹象表明此次问题与网络安全事件有关。部分乘客在社交媒体透露，航司解释称是用于重量和测量计算的计算机系统出现故障。另有乘客表示，机长告知此次故障与此前美国联邦航空管理局实施的航班停飞措施无关。此前美国曾发生连续多日的大范围航班延误或取消事件。",
-              "source_url": "https://www.ithome.com/1/028/026.htm",
+              "title": "谷歌 Pics 升级 Nano Banana 2.1 模型：生图更细腻，改图更准确",
+              "brief": "谷歌宣布对 Google Pics 进行 Nano Banana 2.1 模型升级，未来 1~3 天内向商务版、企业版、Google AI Plus/Pro/Ultra 订阅及教育等用户完成部署。此次升级重点解决图片生成不够细致、修改容易跑偏的问题，新模型提升图像细节、自然光照和材质纹理表现，局部或整体编辑时更好保留原图内容，减少对人物、背景及品牌元素的不必要改动。图片内文字的字形与排版也将更清晰准确，处理速度与上代相近。除独立应用外，Google Docs 和 Google Slides 中调用 Pics 编辑图片同样获得更新。管理员仍可在网域、组织部门或群组层级禁用该服务。",
+              "source_url": "https://www.ithome.com/1/028/058.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-17T07:17:26+08:00"
+              "published_at": "2026-11-17T09:16:32+08:00"
             },
             {
-              "title": "苹果 iPhone 20 Pro 屏幕盖板曝光：3D 四曲面设计让边框淡出视野",
-              "brief": "据曝光信息，苹果 iPhone 20 Pro 将采用内直外曲的屏幕设计方案：内部 OLED 显示面板保持平面，外层玻璃盖板四边进行轻微弧面处理，配合更窄边框与边缘光学设计，弱化屏幕、黑边与机身之间的视觉分界，使正面更接近一整块完整玻璃。此次弧度变化主要发生在外层玻璃，画面仍保留直屏显示逻辑，外观上获得更柔和的边缘过渡。与大幅侧弯的瀑布屏相比，该方案强调浅弧度、微曲面及四边一致的视觉过渡，被称为里程碑式设计。",
-              "source_url": "https://www.ithome.com/1/028/025.htm",
+              "title": "华为星芒 OSTA O1 Pro 阔直板手机外观公布，主打紫色渐变",
+              "brief": "华为星芒 OSTA O1 Pro 外观公布，新机采用类似 Pura X View 的机身屏幕比例，后置镜头模组为横向跑道形，看起来比此前曝光的版本少了一颗镜头。新机以紫色渐变为主打色，正面为顶部居中挖孔屏，宣传画面中特别提到华为小艺，预计主打 AI 功能。此前真机谍照已曝光，还有黑白等纯色背板版本。据博主 @数码闲聊站透露，新机配备 6.39 英寸 1.5K LTPS 的 16:9.5 阔屏，搭载麒麟 9030S 处理器，顶配为 16GB+1TB 规格，采用双摄影像设计，定位为 AI 手机，新品牌将于 11 月 20 日首秀。",
+              "source_url": "https://www.ithome.com/1/028/057.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-17T07:13:54+08:00"
+              "published_at": "2026-11-17T09:12:09+08:00"
             },
             {
-              "title": "OpenAI 与 Goodfire 达成 AI 安全合作，此前曾探讨超 50 亿美元收购",
-              "brief": "据《The Information》报道，OpenAI 与 AI 可解释性公司 Goodfire 达成安全合作协议。Goodfire 将派遣可解释性研究人员进驻 OpenAI，使用自有平台监测模型训练过程、排查非预期行为，重点开展模型取证工作，帮助发现传统监控手段可能遗漏的问题。研究人员将获得 OpenAI 内部模型深度访问权限。此前今年夏季，OpenAI 曾探讨以超 50 亿美元收购 Goodfire，约为其 2 月融资估值的四倍，但最终未达成协议，Goodfire 认为保持独立经营更具长期价值。",
-              "source_url": "https://www.ithome.com/1/028/024.htm",
+              "title": "郭守敬望远镜证实“丝绸星云”为 6.8 万年前超新星爆炸遗迹",
+              "brief": "丝绸星云于 2023 年初由我国天文爱好者率先发现，在天空铺开跨度大但亮度暗淡。郭守敬望远镜视野广阔，可同时观测数千个目标，适合捕捉这类大范围稀薄星云。科研团队分析两千多条星云光谱，测出气体温度、密度与运动状态，信号证明星云发光来自爆炸冲击波挤压、加热气体。测算显示，丝绸星云距地球约 520 光年，横跨约 91 光年，是已知同类星云中较大的一个。模型推算表明，形成该星云的超新星爆炸发生在大约 6.8 万年前，目前冲击波已减速，气体冷却，处于演化晚期。该样本可帮助天文学家研究恒星爆炸冲击波的演化过程。",
+              "source_url": "https://www.ithome.com/1/028/056.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-17T07:12:19+08:00"
+              "published_at": "2026-11-17T09:08:39+08:00"
             },
             {
-              "title": "美国推动全栈 AI 技术出海：首批 33 个联盟获指定，覆盖芯片、模型及应用",
-              "brief": "美国商务部国际贸易管理局宣布，依据第 14320 号行政令指定首批 33 个预制联盟，推动美国 AI 技术出口。方案涵盖五个层面：优化硬件、数据管道与标注系统、模型与系统、安全措施及行业应用。首批方案将纳入统一出口目录，由商务部向海外采购方推广；按需联盟将于 11 月 30 日开放申请。获批联盟可享出口许可优先处理、联邦融资对接等支持。同时，美商务部收紧先进 AI 芯片出口限制，将印尼、马来西亚等国纳入许可要求，并撤销拜登政府的 AI 扩散规则。",
-              "source_url": "https://www.ithome.com/1/028/022.htm",
+              "title": "TRYX 公布卡普空联名《生化危机》《识质存在》主题液冷外观",
+              "brief": "TRYX 公布与卡普空联名的两款一体式水冷散热器外观，主题分别来自《生化危机》和《识质存在》。两款产品分别采用黑色与白色基调，风扇轴心盖带有联动游戏元素设计，冷头显示模组侧面则分别刻有《生化危机》30 周年标识与《识质存在》字样，将游戏 IP 元素融入散热器的外观细节之中。",
+              "source_url": "https://www.ithome.com/1/028/055.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-17T07:01:32+08:00"
+              "published_at": "2026-11-17T09:07:23+08:00"
             },
             {
-              "title": "苹果 watchOS 27.3 开发者预览版 Beta 2 发布",
-              "brief": "苹果向开发者推送 watchOS 27.3 开发者预览版 Beta 2 更新。开发预览版用户需登录注册苹果开发者计划，之后通过手表的【设置】【通用】【软件更新】升级；公开测试版用户需注册 Apple Beta 版软件计划，通过【设置】【通用】【软件更新】【Beta 版更新】升级。文章同时附上 watchOS 27 系统发布历史，包括 27.0、27.0.1、27.2 各 Beta、RC 及正式版等版本的推送时间与版本号。具体更新内容将由 IT之家稍后补充。",
-              "source_url": "https://www.ithome.com/1/028/016.htm",
+              "title": "超频玩家借 AI 修改主板 BIOS，尝试复活华擎 SkyOC 超频功能",
+              "brief": "有超频玩家借助 AI 对华擎新旧版 BIOS 进行反编译和代码对比，识别出实现 SkyOC 超频机制的相关代码，并据此修改 BIOS，尝试将该功能移植到华硕 ROG Maximus XI Extreme 主板上。SkyOC 是华擎针对英特尔 Skylake 平台推出的超频技术，允许通过调整基准时钟（BCLK）对倍频锁定的非 K 系列处理器超频。英特尔通过微代码更新限制非 K 处理器超频，包括检测到 BCLK 超过 103 MHz 时触发关机保护，而 SkyOC 通过向处理器提供不真实的 BCLK 读数绕过限制。由于不符合规格要求，华擎于 2016 年初通过 BIOS 更新移除了该功能。",
+              "source_url": "https://www.ithome.com/1/028/053.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-17T03:19:22+08:00"
+              "published_at": "2026-11-17T09:04:11+08:00"
             }
           ]
         },
@@ -426,39 +426,58 @@
           "name": "IGN",
           "articles": [
             {
-              "title": "暴雪周末两次修复《魔兽世界》副本机制以打击代练升级服务",
-              "brief": "为了打击高级玩家带小号快速刷副本升级的代练行为，暴雪上周五推出热修：只要队伍中存在无法从怪物获取经验的超等级玩家，全队都将无法获得经验。然而该修复矫枉过正，由于部分副本怪物等级跨度较大，等级偏高的普通玩家也会导致全队经验失效，引发玩家不满。次日暴雪在论坛承认问题，并改为固定等级差限制：仅当高等级玩家超出怪物等级12级以上时才会触发经验无效。新方案既避免了正常任务升级玩家受影响，也能继续阻止代练带人快速升级。",
-              "source_url": "https://www.ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
+              "title": "《蜘蛛侠：崭新之日》加长版重映定档12月，本周开启售票",
+              "brief": "索尼正式确认，《蜘蛛侠：崭新之日》将以《崭新又崭新之日》为名于2026年12月4日重返影院，这版为加长剪辑，包含新场景和更多惊喜。据Deadline此前报道，新增镜头至少部分包括一段被删减的戏份，由罗萨里奥·道森再现其“捍卫者联盟”时期的角色夜班护士。门票将于11月19日（周四）开售。此次重映紧邻12月中旬上映的《复仇者联盟：毁灭日》，仅相隔两周。虽然重映版未必像此前《复仇者联盟：终局之战》重映那样附带新片预告彩蛋，但考虑到“更多惊喜”的宣传，漫威粉丝很可能仍会前往影院一探究竟。漫威此前对《毁灭日》剧情保持低调，此时重映也有望借势进一步推高《蜘蛛侠》的票房表现。",
+              "source_url": "https://www.ign.com/articles/spider-man-brand-new-day-re-release-with-new-footage-sets-december-release-date-tickets-on-sale-this-week",
               "source_name": "IGN",
-              "published_at": "2026-11-17T05:43:39+08:00"
+              "published_at": "2026-11-17T08:18:08+08:00"
             },
             {
-              "title": "奥斯汀·克里德在AEW比赛中使出真实版升龙拳引发热议",
-              "brief": "在11月14日AEW Full Gear赛事中，奥斯汀·克里德与科菲·金斯顿、Swerve Strickland组队，对上布罗迪·金、Hangman Page与班迪多，进行一场德州死亡规则三对三比赛。比赛中克里德戴上一只1989年发售的任天堂Power Glove道具，随即被布罗迪·金连续击打倒地。就在看似落败之际，克里德突然起身一记升龙拳，拳头火花四射，将金打得倒飞出去。这一幕在摔角圈和格斗游戏社区迅速走红，玩家纷纷调侃这是起身无敌升龙、逆转招，职业选手Justin Wong还将其比作梅原大吾的经典升龙。",
-              "source_url": "https://www.ign.com/articles/austin-creed-goes-viral-after-pulling-off-explosive-real-life-shoryuken-in-aew-full-gear-match",
+              "title": "初代007演员乔治·拉扎贝向新任邦德罗伯特·帕丁森送上建议",
+              "brief": "经过长期且保密的选角过程，罗伯特·帕丁森于2026年11月16日正式官宣成为下一任詹姆斯·邦德。这是他近期一系列重磅角色中的最新一个，此前他已出演蝙蝠侠、诺兰《奥德赛》中的安提诺奥斯以及《沙丘3》中的斯加勒等角色。曾在1969年《女王密使》中饰演邦德的乔治·拉扎贝在社交媒体上向其致意，称欢迎来到世界上最独特的俱乐部，并叮嘱他要享受其中，还打趣期待他能有“这事儿可没发生在另一个家伙身上”的经典时刻。消息公布后粉丝反应不一：许多人因他擅长演绎复杂英雄而感到兴奋，也有人质疑他是否适合邦德，还有人开玩笑说他把好莱坞最好的角色都占了，太过“贪心”。",
+              "source_url": "https://www.ign.com/articles/former-james-bond-actor-george-lazenby-gives-robert-pattinson-advice-after-batman-star-scores-iconic-role",
               "source_name": "IGN",
-              "published_at": "2026-11-17T05:16:06+08:00"
+              "published_at": "2026-11-17T07:38:10+08:00"
             },
             {
-              "title": "报道称英伟达无意让黄仁勋回归CEO职位",
-              "brief": "据CNBC报道，黄仁勋于11月12日辞职后，其硅谷好友曾组建战情室推动他复职，甚至寻求白宫支持，美国总统特朗普也表示不介意看到他回归。但消息人士称，英伟达董事会目前并无考虑让黄仁勋重新担任CEO，公司领导层将重心放在对其私关系的调查上。此前黄仁勋承认与一名被美国政府怀疑为中国间谍的女性有婚外情，英伟达已聘请律所Wachtell Lipton调查此事是否危及公司机密或国家安全，同时董事会表示没有理由相信机密或国家安全已受到损害。马斯克等人和部分员工则公开支持黄仁勋。",
-              "source_url": "https://www.ign.com/articles/nvidia-reportedly-uninterested-in-bringing-jensen-huang-back-as-ceo",
+              "title": "赛百味推出GTA6主题三明治，但仅在迈阿密有售",
+              "brief": "为配合《GTA6》发售，赛百味将其迈阿密限定产品古巴烧猪三明治改名为“罪恶之城古巴三明治”，但只在迈阿密市内供应。该三明治有六英寸和一英尺长两种规格，采用烟熏手撕猪肉、黑森林火腿、融化的波萝伏洛奶酪、酸黄瓜和芥末，配以现烤意式面包，可在门店购买或外送。赛百味并非唯一借势的快餐品牌：Popeyes也将从11月19日起推出为期一周的“香料之城”罪恶之城主题鸡肉三明治。此外，多家迈阿密本地餐厅与Rockstar合作推出主题餐食，其中佛州汉堡连锁Skinny Louie被整体改造为游戏中的“汉堡快餐厅”，包括菜单、制服、包装和招牌，主题装修将持续至年底。《GTA6》将于周四登陆Xbox Series X|S和PS5，容量高达210GB。",
+              "source_url": "https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
               "source_name": "IGN",
-              "published_at": "2026-11-17T05:14:30+08:00"
+              "published_at": "2026-11-17T07:30:01+08:00"
             },
             {
-              "title": "法官驳回内存价格操纵诉讼的撤案动议",
-              "brief": "今年6月提起的集体诉讼指控美光、SK海力士与三星合谋操纵内存价格并削减产量。三家被告公司申请撤案，辩称各自行为是出于独立利益的理性选择，且该案只是2022年类似案件的翻版。上周五，法官诺埃尔·怀斯驳回了撤案动议，并在裁决中写道：原告的指控不亚于鹰群列队飞行，超出了竞争者相互观察的范畴。这意味着诉讼将继续推进，但最终裁决可能仍需数年。此前2022年的集体诉讼曾被驳回，而早在2002年美国司法部就曾调查三家的价格垄断行为，三星一名高管被判刑，并被处以3亿美元罚款。",
-              "source_url": "https://www.ign.com/articles/judge-denies-motion-to-dismiss-ram-price-fixing-lawsuit",
+              "title": "英国国民健康服务体系呼吁玩家在GTA6发售前保护双手",
+              "brief": "英国国民健康服务体系（NHS）于11月16日在Instagram发布了一条幽默的公益提示，距《GTA6》发售仅三天。其社交媒体管理员晒出手部打着石膏的照片，解释说自己刚因手部切除肿块接受了手术，赶在游戏发售前显得格外不合时宜。为帮助其他玩家避免受伤，NHS给出了一些护手建议：首先是要定期休息，这不仅能缓解视疲劳，每隔几小时起身活动还有利于血液循环、缓解肌肉僵硬和保持头脑清醒。该帖特别关注重复性劳损（RSI），即因身体部位反复运动引发疼痛，手部和手指尤易受累。玩家因快速重复按键、拨动摇杆和紧握手柄，容易罹患属于RSI范畴的腕管综合征。据报道，已有不少员工计划请假游玩《GTA6》，11月19日前后的请假申请增加了17%。",
+              "source_url": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
               "source_name": "IGN",
-              "published_at": "2026-11-17T04:08:36+08:00"
+              "published_at": "2026-11-17T06:55:25+08:00"
             },
             {
-              "title": "罗伯特·帕丁森出演新任007引发粉丝热议",
-              "brief": "有报道称罗伯特·帕丁森已敲定出演詹姆斯·邦德，交易据称最近才最终敲定。制片方一整年都在考察多位候选人，帕丁森数周前才毛遂自荐，当时《新蝙蝠侠2》拍摄短暂暂停，最终他凭借压哨试镜击败了杰克·劳登、卡勒姆·特纳等热门人选并获得丰厚合约。粉丝反应热烈，最大的话题点是帕丁森将同时饰演邦德和蝙蝠侠，不少人调侃他一人独占两大顶级角色实在太贪心。报道称此前候选名单还包括其他演员，帕丁森的加入彻底改变了选角格局，引发网络广泛讨论。",
-              "source_url": "https://www.ign.com/articles/007-fans-react-to-robert-pattinsons-james-bond-casting",
+              "title": "GTA6新截图展示雷奥尼达州的动态天气系统",
+              "brief": "在《GTA6》发售进入倒计时之际，Weather频道发布了一系列新截图，展示了罪恶之城从暴雨到海雾的多样天气，还配以贴近现实的气象解说，帮助玩家提前为风暴做准备。Rockstar艺术副总裁欧文·谢泼德表示，《GTA6》的故事发生在雷奥尼达州，一个以现代佛罗里达州为灵感的虚构世界，那里拥有全美最不可预测的天气系统之一。为匹配本作作为系列最深入、最具沉浸感作品的各项细节水准，团队完全重做了游戏内天气系统，使其更具地域性、持续性和动态性，天气可从晴空万里到高耸的积雨云不等。Rockstar此前已确认开发了先进天气系统，罪恶之城届时可能遭遇模拟的热带风暴和飓风，带来浓云、强风和厚重的大气效果。",
+              "source_url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
               "source_name": "IGN",
-              "published_at": "2026-11-17T04:04:54+08:00"
+              "published_at": "2026-11-17T06:26:10+08:00"
+            }
+          ]
+        },
+        {
+          "name": "蓝点网",
+          "articles": [
+            {
+              "title": "知名广告拦截插件uBlock Origin现高危漏洞 恶意网站可在其他网站运行脚本",
+              "brief": "知名广告拦截扩展程序uBlock Origin被曝出高危跨站脚本漏洞。在特定过滤规则条件下，恶意网站可操作扩展程序的元素选择器，诱导用户点击后写入任意可信过滤规则，进而在其他网站页面上运行恶意脚本。攻击需要诱导用户访问恶意网站并点击，无法自动触发。受影响版本为1.75.2及更早版本，11月3日发布的1.75.4已修复主要漏洞，后续1.76.0和1.76.4增加了过滤器校验和其他限制。使用该插件的用户应立即检查版本并升级到1.76.4或更高版本，手动安装的用户需自行下载覆盖。",
+              "source_url": "https://www.landian.news/archives/128504.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-17T09:00:00+08:00"
+            },
+            {
+              "title": "微软发布带外更新修复KMS激活错误 部分系统需手动下载安装",
+              "brief": "微软早前发布的11月安全更新导致部分系统出现激活与许可证错误，使用SLMGR命令或自动化流程管理授权的企业环境和云数据中心在执行slmgr.vbs /skms-domain或slmgr.vbs /ipk等命令时可能遇到错误代码0x80041008。已激活的系统不受影响，激活状态不会丢失。微软现已发布带外更新修复该问题，Windows 11 23H2用户可在可选更新中安装KB5136483，Windows Server 2025、2022、2019及Windows 10 LTSC等其他系统需到Microsoft Update Catalog手动下载对应更新，IT管理员可通过批量部署修复。",
+              "source_url": "https://www.landian.news/archives/128503.html",
+              "source_name": "蓝点网",
+              "published_at": "2026-11-17T08:30:00+08:00"
             }
           ]
         }
