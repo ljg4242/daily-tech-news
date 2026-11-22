@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T05:18:59.689930+08:00",
+  "generated_at": "2026-11-23T07:18:41.071963+08:00",
   "sections": [
     {
       "category": "主要",
@@ -49,6 +49,13 @@
           "name": "9to5Mac",
           "articles": [
             {
+              "title": "iOS 27 推出连接辅助功能，巧妙解决 Wi-Fi 不稳定问题",
+              "brief": "iOS 27 新增“连接辅助”（Connectivity Assist）功能，旨在解决蜂窝网络与 Wi-Fi 之间信号不佳的尴尬地带。据苹果支持文档介绍，当 Wi-Fi 连接缓慢或无法使用时，该功能会自动利用蜂窝数据改善连接，适用于庭院、车道、咖啡店、机场、体育场馆等场景。例如用户走出家门时，iPhone 往往仍 clinging 在微弱的家用 Wi-Fi 上，导致 Apple Music 和地图难以使用，开启该功能后手机可智能切换到蜂窝数据。用户可在设置-无线局域网中开关此功能；国际漫游、蜂窝低数据模式及部分第三方流媒体应用下不会启用。开启后可能消耗更多蜂窝流量，可通过运营商应用或设置查看用量。",
+              "source_url": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-23T06:02:43+08:00"
+            },
+            {
               "title": "爆料称苹果曾为 iPhone Duo 锁屏测试“小组件竖列”功能",
               "brief": "据 X 账号 pdfu 爆料，苹果曾为 iPhone Duo 的锁屏测试一项名为“小组件竖列”的功能。该竖列位于锁屏右边缘，可容纳两个圆形小组件，填充手电筒、相机快捷键与 Wi-Fi、蜂窝信号图标之间的空间，组件尺寸与锁屏底部现有小组件相同。该功能最早出现在 iOS 27.1 代码中，此后代码未再改动，尚不清楚苹果仍在开发还是已放弃。作者认为该设计外观出色，尤其适合内屏锁屏，希望其能出现在未来 iOS 27 更新中。",
               "source_url": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
@@ -75,13 +82,6 @@
               "source_url": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-22T18:15:48+08:00"
-            },
-            {
-              "title": "iOS 27 盘点：除 AI 之外的新 iPhone 功能亮点",
-              "brief": "文章盘点了 iOS 27 中除 Siri 和 AI 之外的多项新功能：音乐应用的 AutoMix 获得更好的转场效果；照片应用的 iCloud 共享相册支持原分辨率分享；时钟应用可为闹钟单独设置音量，不再受铃声音量限制；主屏幕新增超大尺寸全屏小组件，适用于音乐、照片、天气和日历等应用；锁屏可移除正在播放小组件，时钟也可移至顶部小组件行；照片应用支持将视频任意帧保存为照片；Apple Pay 结账流程经大幅改进，切换卡片更便捷；更多应用支持横屏模式；“查找”应用采用新设计并提供更灵活的共享选项。",
-              "source_url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-22T06:22:26+08:00"
             }
           ]
         },
@@ -209,45 +209,52 @@
           "name": "Engadget",
           "articles": [
             {
-              "title": "你的密码有多安全？教你如何测试密码强度",
-              "brief": "如今大多数服务都会要求密码包含大小写字母、数字和符号的组合，以防止密码被不法分子甚至 AI 系统轻易破解。一个好密码应至少有 12 个字符，其中的字母不应拼出可辨识的单词，比如你的姓氏，也不要按字母表顺序排列。想确切知道密码的安全性，可以使用 Security.org 等网站提供的免费密码强度检测工具进行测试。不过，创建安全密码只是提升网络安全的第一步，用户还需要配合其他良好习惯来保护账户安全，才能更好地抵御黑客攻击。",
-              "source_url": "https://www.engadget.com/2319522/how-secure-is-password/",
+              "title": "分享位置信息的利与弊",
+              "brief": "智能手机应用常会请求获取位置权限，甚至要求后台持续访问，用户需要在隐私与便利之间做出权衡。分享位置有实际好处：通过查找功能可定位丢失的手机，与 AirTag、Tile 等蓝牙追踪器配合能实时查看财物位置并播放提示音；夜间外出时与亲友共享行程也能提升安全感，例如 Uber 的 Share My Trip 可向最多五位联系人发送行程和实时位置。但位置数据可能被转售给第三方，向不信任的应用分享存在风险。Google 等公司也会审查申请后台定位权限的安卓应用。",
+              "source_url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
               "source_name": "Engadget",
-              "published_at": "2026-11-23T05:00:00+08:00"
+              "published_at": "2026-11-23T07:00:00+08:00"
             },
             {
-              "title": "这些 iOS 设置可帮你控制移动数据用量",
-              "brief": "随着 5G 的普及，蜂窝网络的速度和可靠性已可媲美家庭宽带，但运营商的数据流量额度通常并不宽裕。如果不注意用量，可能面临高额账单或超量后的限速。除了下载文件和看视频，后台应用刷新、应用更新和云同步也会悄悄消耗流量。iPhone 提供了多项内置设置帮助管理数据：在设置的蜂窝网络页面点开显示全部，可按名称或用量排序查看各 App 的流量消耗，关闭开关即可禁止其使用蜂窝数据；若主要使用 Wi-Fi，也可直接关闭蜂窝数据以省电省流量，iOS 还支持进一步限制数据用量。",
-              "source_url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+              "title": "iPhone 可以安全使用 140W 充电器吗？",
+              "brief": "iPhone 可以使用 140W 充电器，但实际充电功率远低于此上限，即使最新的 iPhone 18 Pro 最高也只支持 52W。新的 USB PD 扩展功率范围（EPR）规范支持 100W 至 240W，设备进入 EPR 模式后需每半秒发送保活信号，否则充电器会降回 5V。安全风险主要来自充电器本身，苹果警告不合规的第三方充电器可能造成伤害，建议选择信誉良好的品牌。各机型需求不同：iPhone 17 系列用 40W 以上适配器约 20 分钟可充至 50%，iPhone Air 和 17e 仅需 20W，iPhone 15、16 需 18W 以上。",
+              "source_url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
               "source_name": "Engadget",
-              "published_at": "2026-11-23T04:45:00+08:00"
+              "published_at": "2026-11-23T06:30:00+08:00"
             },
             {
-              "title": "Android 设备状态栏上的小钥匙图标是什么意思",
-              "brief": "Android 状态栏中有一个形似向左的钥匙图标，它表示你的网络连接已加密，是件好事。这个图标是视觉提示，说明你正通过 VPN 连接网络，VPN 会加密你的网络流量，防止第三方窥探。许多用户将 VPN 视为网络安全的重要工具，现代 Android 系统也在操作系统层面支持 VPN，钥匙图标能让用户确认自己处于 VPN 保护之下，图标消失则意味着加密已中断。由于这是安全和隐私功能，大多数设备无法隐藏该图标，只有三星用户可通过 Good Lock 套件的 QuickStar 模块将其关闭。",
-              "source_url": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+              "title": "这款免费应用可让安卓手机与 Windows 电脑无线连接",
+              "brief": "在安卓手机和 Windows 电脑之间传输文件已有多种方案，如借助云服务、USB 连接或 Quick Share，但如果需要更多功能，第三方软件通常要在两台设备上都安装程序，且往往收取订阅费。PlainApp 则不同：这款免费开源应用可在电脑上查看和管理安卓手机的文件，无需在电脑上安装任何软件，也不要求注册账号或登录。它支持 Android 9 及以上版本，安装后授予通知和文件访问权限，记下显示的网址，只要电脑与手机处于同一 Wi-Fi 网络，即可通过浏览器访问手机中的图片、视频、音乐和联系人等内容。",
+              "source_url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
               "source_name": "Engadget",
-              "published_at": "2026-11-23T04:30:00+08:00"
+              "published_at": "2026-11-23T06:15:00+08:00"
             },
             {
-              "title": "Android 上使用分屏不需要折叠屏手机",
-              "brief": "折叠屏手机常被宣传为生产力工具，分屏多任务往往被当作最大卖点之一，但你无需花近两千美元买折叠屏手机也能同时使用两个应用。分屏多任务功能早在 2016 年发布的 Android 7.0 Nougat 中就已推出，其雏形甚至出现在 Android 6.0 中，只是当时需要 root 权限。所有现代 Android 手机都应自带此功能，启用方式因厂商和系统版本而异。包括 Google、三星和摩托罗拉在内的大多数手机，都可在最近任务界面点击应用图标并选择分屏来开启，还可拖动中间分隔线调整两应用的占用空间。",
-              "source_url": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+              "title": "如何安全清洁电脑显卡，避免造成损坏",
+              "brief": "显卡和所有电脑组件一样会随时间积累灰尘，影响散热性能，导致运行频率降低，长期还会缩短寿命。鉴于 2026 年显卡价格高昂，建议每三到六个月清洁一次。清洁时最好将显卡从机箱中取出，以彻底清除灰尘。操作前应正确关机，拔掉所有连接线，将电源开关拨到关闭位置，然后按住电源键约 30 秒释放内部电容中的电荷。部分机箱只需拧开手拧螺丝即可打开，老机箱可能需要十字螺丝刀。此外，花费约 8 美元购买防静电腕带是值得的额外预防措施，但并非必需。",
+              "source_url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
               "source_name": "Engadget",
-              "published_at": "2026-11-23T04:15:00+08:00"
+              "published_at": "2026-11-23T06:00:00+08:00"
             },
             {
-              "title": "使用 USB-C 扩展坞的优势",
-              "brief": "笔记本电脑逐年更薄更轻，性能也足以让许多人将其作为主力电脑，但纤薄机身意味着接口更少，而桌面办公需要连接显示器、鼠标、摄像头和键盘等诸多设备。USB-C 扩展坞通过一根 USB-C 线缆连接笔记本，提供成套接口，是兼顾便携与桌面体验的解决方案。它的优势有三：一是简洁，一根线即可连接所有外设，出门回家插拔都很方便，桌面线缆也更整洁；二是可补充笔记本缺少的接口，如 HDMI 或 DisplayPort、更多 USB 口、SD 读卡器和有线以太网口；三是减少笔记本接口的插拔损耗，延长使用寿命。",
-              "source_url": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+              "title": "显示器开机闪烁的原因及解决方法",
+              "brief": "打开显示器发现屏幕闪烁可能令人担忧，但这类问题通常可以自行排查。最常见的原因是显示线缆松动或故障，无论是 HDMI、DisplayPort 还是较老的 VGA 线，重新插拔或检查线缆是否损坏磨损都可能快速解决问题；若怀疑线缆损坏，可换用新线测试。如果线缆没有问题，可能是显示器或电脑上的接口故障，此时可尝试使用其他接口。通过这些简单步骤判断原因和潜在修复方案，可以避免不必要的花费。多数显示器如今价格并不昂贵，但若无必要没人愿意购买新屏幕。",
+              "source_url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
               "source_name": "Engadget",
-              "published_at": "2026-11-23T04:00:00+08:00"
+              "published_at": "2026-11-23T05:45:00+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "重大科技故障仍未结束，未来还会有更多",
+              "brief": "过去一周左右，美国接连发生多起重大科技故障：联邦航空管理局（FAA）实施全国范围的地面停飞，微软Outlook出现持续多日的宕机导致多家公司业务陷入停顿，摩根大通也发生了银行服务中断。然而各方一致认为，未来还会有更多故障。美国国家情报总监杰伊·克莱顿对CNN表示，美国民众应准备好面对系统升级和网络安全方面的大量投入，并应认识到每当计算能力和应用程序出现跨越式技术变革时，道路上难免出现颠簸。微软总裁布拉德·史密斯也向CBS发出类似警告，称未来数月必须做好准备，因为这类问题并非短期内就能彻底解决。",
+              "source_url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+              "source_name": "The Verge",
+              "published_at": "2026-11-22T17:48:02-05:00"
+            },
             {
               "title": "系统故障导致达美航空亚特兰大进出港航班大面积延误",
               "brief": "由于计算飞机重量与配平数据的系统出现故障，达美航空周日所有进出亚特兰大的航班面临严重延误。哈兹菲尔德-杰克逊亚特兰大国际机场是达美最大的枢纽机场，也是全球最繁忙的机场之一。目前仅达美航空受到影响，但如果延误持续累积，可能波及其他机场和航空公司。此次故障发生在一周前，当时美国联邦航空管理局（FAA）的一次系统故障曾导致全国范围停飞和数千架航班取消。据悉，离线系统负责计算机体、燃油、乘客及行李的总重量，并帮助飞行员确定飞机重心和重量分布是否均匀，这些数据对保障飞行安全至关重要。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
               "source_name": "The Verge",
               "published_at": "2026-11-22T11:33:29-05:00"
-            },
-            {
-              "title": "抗议者闯入Meta印度办公室 要求恢复 Instagram 账号",
-              "brief": "印度反对党国大党青年翼成员周五在德里Meta办公室外抗议，据CNN公布的视频显示，抗议者似乎已进入大楼内部。他们要求Meta恢复该党领导人的Instagram账号，并警告将举行更多抗议活动。国大党一直批评Meta审查总理莫迪及其人民党不认同的言论，并在全市张贴横幅指责扎克伯格偏袒人民党。虽然涉事两个账号周五已被恢复，但青年翼社交媒体负责人马努·贾因告诉路透社，数以千计批评政府的记者、创作者和网红账号仍处于受限状态。今年2月，印度出台了更严格的相关规定。",
-              "source_url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-              "source_name": "The Verge",
-              "published_at": "2026-11-22T10:15:07-05:00"
             }
           ]
         }
@@ -334,6 +334,20 @@
           "name": "IT之家",
           "articles": [
             {
+              "title": "OpenAI 首席科学家警告 AI 或于 2027 年加速自身发展，奥尔特曼赞同为开发设限",
+              "brief": "OpenAI 科学家帕霍茨基提出以困惑度作为衡量模型预训练进展的指标，称 GPT-3.5 对数困惑度约 0.99，GPT-4 约 0.91，低于 0.8 时模型在网络安全和数学领域出现新能力。他预计当指标进入 0.68 至 0.7 区间时模型可能出现变革性能力，并警告 AI 最早可能在 2027 年推动预训练技术快速进展，模型对齐研究恐难同步跟上。他建议各 AI 企业共同建立评测、透明度和安全红队测试标准，以困惑度等指标设定开发门槛。奥尔特曼公开支持这一提议，美国民主党议员也在讨论 AI 监管方案。",
+              "source_url": "https://www.ithome.com/1/030/720.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-23T06:50:46+08:00"
+            },
+            {
+              "title": "古尔曼：苹果拟于明年 2 月至 3 月 iOS 27.4 周期推出入门级 iPad、iPhone 18e 和 MacBook Neo",
+              "brief": "据古尔曼透露，苹果计划在 2027 年 2 月至 3 月的 iOS 27.4 周期内推出新款入门级 iPad、iPhone 18e 和 MacBook Neo，iPhone 18 标准版和新款 MacBook Air 也可能同期亮相。MacBook Neo 内部代号 J701，芯片将从 A18 Pro 升级至 A19 Pro，内存提升至 12GB，并采用年度更新周期。古尔曼指出，苹果传统软硬件开发节奏难以适应 AI 行业快速迭代，Siri 在任务执行方面落后于竞争对手，自有 AI Agent 产品可能要到 2027 年底才能推出。苹果还计划在 2027 年上半年推出 OLED 版 iPad Air 等产品。",
+              "source_url": "https://www.ithome.com/1/030/719.htm",
+              "source_name": "IT之家",
+              "published_at": "2026-11-23T06:42:26+08:00"
+            },
+            {
               "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
               "brief": "美国初创公司 Architect Labs 公布了由 AI 设计的 CPU 架构 Frostbite，提出免费多线程方案，让程序直接暴露可并行的工作，摆脱传统线程、锁机制和乱序执行硬件的限制。在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群每瓦性能达到对照 CPU 核心的 4.59 倍，单位面积性能达 8.77 倍，但数据来自 7 纳米工艺的模拟设计，尚未流片。设计过程中，AI 智能体使用自研硬件描述语言 ASL 编写规格并进行形式化验证，还建立了运行速度约为 RTL 仿真 200 倍的 Arcmodel 软件模型，将功耗估算偏差从接近 250% 缩小至 5% 以内，共尝试 58 项优化并保留 37 项。",
               "source_url": "https://www.ithome.com/1/030/717.htm",
@@ -345,6 +359,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "Rockstar：《GTA 6》删除飞镖游戏是因资源不足",
+              "brief": "Rockstar North联合工作室主管罗布·纳尔逊在接受VGC采访时解释了《GTA 6》删除飞镖小游戏的原因。他表示，尽管外界认为Rockstar拥有无限的资金和时间，但实际情况并非如此，团队无法将飞镖打磨到理想水准。自《荒野大镖客2》以来，工作室开始将小游戏视为活动的延伸，希望台球、飞镖等内容能像现实一样具有真实手感，例如游戏中的健身不只是按键，而是模拟举重过程。纳尔逊强调，与其做出不够好的内容，不如干脆不做。最终团队因资源有限而放弃飞镖，台球则得以完整保留。",
+              "source_url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
+              "source_name": "IGN",
+              "published_at": "2026-11-23T04:37:59+08:00"
+            },
             {
               "title": "Rockstar：GTA6杰森的标志性性格源于史蒂夫·麦奎因与真实退伍军人",
               "brief": "《GTA6》公布后，新主角杰森·杜瓦尔以其冷静沉稳的气质引发玩家热议。Rockstar叙事高级副总裁鲁珀特·汉弗莱斯在接受Destructoid采访时透露，工作室从山姆·佩金帕执导、史蒂夫·麦奎因主演的电影《亡命大煞星》中汲取灵感，希望打造一个能像麦奎因那样仅凭存在感就能传达信息的游戏角色。此外，团队对现实中的退伍军人和陆军游骑兵的研究也帮助完善了角色塑造，这类人通常不会多话，只在必要时才做出反应。此前有粉丝猜测杰森可能是系列首位神经多样性主角，汉弗莱斯近日也在接受《Love》杂志采访时形容杰森“接线方式与众不同”。",
@@ -372,13 +393,6 @@
               "source_url": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
               "source_name": "IGN",
               "published_at": "2026-11-22T05:36:26+08:00"
-            },
-            {
-              "title": "海莉·阿特韦尔透露《复仇者联盟：毁灭日》新预告将于周一发布",
-              "brief": "海莉·阿特韦尔在与汤姆·希德勒斯顿合演的百老汇话剧《无事生非》演出结束后向粉丝透露，《复仇者联盟：毁灭日》预计将于2026年11月23日周一发布新预告。她表示已看过该预告，认为非常惊艳，但暗示其中会有令人伤感的情感时刻。该消息尚未获得漫威官方确认，若属实，这将是自8月以来的首支全长预告，也是影片上映前的最后预告之一。漫威显然希望将大部分重要揭秘保留给进影院观看的观众，因此新预告料将控制关键内容的曝光。",
-              "source_url": "https://www.ign.com/articles/avengers-doomsday-star-hayley-atwell-teases-new-trailer-for-monday",
-              "source_name": "IGN",
-              "published_at": "2026-11-22T04:29:10+08:00"
             }
           ]
         },
