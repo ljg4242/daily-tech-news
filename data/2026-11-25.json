@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T17:22:13.412530+08:00",
+  "generated_at": "2026-11-25T19:22:21.679888+08:00",
   "sections": [
     {
       "category": "主要",
@@ -8,6 +8,20 @@
         {
           "name": "MacRumors",
           "articles": [
+            {
+              "title": "Threads iPad 原生应用正式上线",
+              "brief": "Meta 旗下社交应用 Threads 已在 App Store 发布原生 iPad 应用。此前 Threads 设计主管克里斯托弗·克莱尔曾表示该应用将很快推出。首个版本采用单栏信息流设计，即使在横屏模式下也是如此。克莱尔表示团队优先考虑尽快推出第一版，因此后续会有更多改进。本次更新还新增了股票标签功能，方便用户关注股票相关讨论，但该功能正在逐步推送中。",
+              "source_url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-25T19:10:54+08:00"
+            },
+            {
+              "title": "Claude 支持将 Artifacts 安装为桌面应用",
+              "brief": "Anthropic 为 Claude 推出新功能，允许用户在 macOS 和 Windows 上将 Artifacts 安装为桌面应用。用户可在分享菜单中点击“安装为应用”，之后可在独立窗口启动并显示在 Dock 中。应用无需打包或签名，但需设置权限级别：默认权限仅限浏览器能力，更高权限可创建置顶窗口、监听全局快捷键和发送通知，完全访问权限则可运行程序和读写删除文件。该功能处于测试阶段，面向所有 Claude Desktop 套餐开放，构建应用及调用均计入用量限额。",
+              "source_url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-25T18:27:42+08:00"
+            },
             {
               "title": "Tidal 将全面封禁 AI 生成音乐，Apple Music 则依靠标签标注",
               "brief": "流媒体音乐服务 Tidal 宣布，将于12月9日开始屏蔽 AI 音乐。完全由 AI 生成的曲目将被从平台移除，今后也会被拒绝上传。Tidal 负责人 Robert Andersen 表示，过去90天上传的曲目中有43%被标记为 AI 生成，约2900万首歌曲将被删除，预计每天拒绝8万至8.5万首。AI 音乐将从12月9日起逐渐消失，并在2027年初完全清除。仅使用 AI 辅助创作的音乐仍被允许。Apple 方面并未禁止 AI 歌曲，而是于今年推出 AI 透明度标签，要求唱片公司和发行商披露 AI 使用情况，注明\"Made With AI\"。此前 Apple Music 副总裁曾表示，月度上传中超过三分之一为纯 AI 生成，但实际收听占比不足0.5%。",
@@ -28,20 +42,6 @@
               "source_url": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
               "source_name": "MacRumors",
               "published_at": "2026-11-25T07:04:43+08:00"
-            },
-            {
-              "title": "Meta的Muse AI智能体登陆Instagram私信",
-              "brief": "Meta今日扩展了Muse在Instagram中的功能，使这一个人AI智能体更加实用。Muse可以将用户保存的Instagram内容整理成收藏集或旅行行程，还能为发现的菜谱生成购物清单。Meta表示，用户还可以在私信中与Muse聊天，以深入了解某条帖子或了解错过的内容。美国和加拿大用户在保存帖子时，会看到让Muse整理内容的选项。Muse在私信中会以普通对话形式出现，用户无需在Instagram和Muse应用之间来回切换即可与AI智能体聊天，与Muse的对话也会作为侧边聊天显示在Muse应用中。未经用户许可，Muse不会做出更改或采取行动。该功能即日起在美国、加拿大、墨西哥、日本和新加坡推出。",
-              "source_url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-25T06:12:24+08:00"
-            },
-            {
-              "title": "谷歌称苹果iOS浏览器规则是纸面上的选择",
-              "brief": "谷歌Chrome开发团队公开支持Mozilla对苹果欧盟浏览器规则的投诉，指出苹果的限制使替代浏览器引擎难以落地。Mozilla近日联合多达55000家企业与组织，请求欧盟委员会迫使苹果修改浏览器规则。苹果自2024年初起允许欧盟使用替代浏览器引擎，但联盟称由于苹果设定的条件，至今没有浏览器厂商能将欧盟用户从WebKit迁移到新引擎。Mozilla解释，若使用Gecko引擎需发布第二款Firefox应用，且只能在欧盟分发，用户需迁移到新应用并转移全部内容，许多人不愿切换。Mozilla称苹果的条件不可行，只是纸面上遵守《数字市场法》，谷歌团队也发帖附和，但谷歌并未签署致欧盟委员会的公开信。",
-              "source_url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-25T05:00:43+08:00"
             }
           ]
         },
@@ -89,6 +89,13 @@
           "name": "9to5Google",
           "articles": [
             {
+              "title": "谷歌地图更新 Android Auto 版本，新增摩托车导航路线",
+              "brief": "谷歌地图面向 Android Auto 平台发布更新，为摩托车用户增加了专门的导航路线功能。此前该应用的导航路线主要针对汽车驾驶者设计，摩托车骑行者在使用车载屏幕导航时难以获得适合两轮车辆的路线规划。此次更新后，骑行者可以在 Android Auto 车载界面上查看专为摩托车规划的导航路线，获得更符合摩托出行需求的路径指引。该功能将逐步推送给用户，摩托爱好者可借此在使用车载系统时获得更贴身的导航体验。",
+              "source_url": "https://9to5google.com/2026/11/25/google-maps-android-auto-motorcycle-navigation-routes/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-25T19:00:00+08:00"
+            },
+            {
               "title": "摩托罗拉 Signature 27 发售前交付日期推迟，同时扩展至更多地区",
               "brief": "摩托罗拉高端机型 Signature 27 在正式发售前的交付日期出现推迟，部分预订用户收货时间晚于原定计划。与此同时，摩托罗拉宣布将这款机型扩展至更多地区市场，扩大销售范围。尽管交付延迟可能影响部分用户的体验，公司仍在推进全球布局，力图让更多地区的消费者能够购买到该产品。此次推迟的具体原因尚未公布，受影响用户预计将收到更新后的发货时间通知。",
               "source_url": "https://9to5google.com/2026/11/24/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions/",
@@ -115,13 +122,6 @@
               "source_url": "https://9to5toys.com/2026/11/24/today-google-play-deals-grand-theft-auto/",
               "source_name": "9to5Google",
               "published_at": "2026-11-25T03:41:26+08:00"
-            },
-            {
-              "title": "索尼MDR-3R USB-C耳机补货：复古随身听风格值得一试",
-              "brief": "索尼MDR-3R是索尼对经典随身听时代有线头戴耳机的USB-C复刻版，复古造型在2026年依然好看，此前一度售罄，现已重新上架，预计12月初发货。这款耳机采用开放式设计，不完全包覆耳朵，音质清晰、偏中性，低音表现较弱，但开放式结构让周围空间仿佛充满音乐。耳机重量极轻，佩戴几分钟后几乎感觉不到存在，耳垫可更换，包装内附带橙色和蓝色替换垫。USB-C线缆即插即用，无需App，在包括Pixel在内的多款设备上均测试可用，线缆长度足以将手机放在前口袋使用，但没有降噪功能，音量较大时周围人也能听到。",
-              "source_url": "https://9to5google.com/2026/11/24/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-25T02:41:11+08:00"
             }
           ]
         },
@@ -169,45 +169,59 @@
           "name": "Android Authority",
           "articles": [
             {
-              "title": "苹果、三星等手机厂商预计2027年销量难增长",
-              "brief": "在荣耀700系列发布会上，CEO李健表示2027年手机销量预计与今年持平，中端机面临的成本压力比旗舰机更大，荣耀计划在其他厂商收缩时继续推进。内存短缺加剧导致价格飙升，部分手机在芯片、相机或内存上缩水以维持价格。Counterpoint报告显示，2026年第三季度DRAM收入因AI服务器需求同比增长369%，接近2000亿美元。小米、OPPO、vivo等品牌曾因内存成本上涨出现两位数销量下滑，内存短缺预计将持续到2028年，价格与销量的缓解要到2027年底或2028年初才可能出现。",
-              "source_url": "https://www.androidauthority.com/smartphone-makers-reduce-shipment-targets-2027-3739223/",
+              "title": "黑五促销：三星 Galaxy Tab A11 Plus 平板降至 199.99 美元",
+              "brief": "黑色星期五期间，三星 Galaxy Tab A11 Plus（6GB 内存 + 128GB 存储）在亚马逊降价至 199.99 美元，比 299.99 美元的原价便宜 100 美元，降幅 33%，为三个月来最低价。这款平板配备 11 英寸 1920x1200 分辨率、90Hz 刷新率屏幕，四扬声器支持杜比全景声。内部搭载联发科天玑 7300 芯片，可满足日常应用、流媒体和休闲游戏需求，存储可通过 microSD 卡扩展至 2TB。电池容量 7,040mAh，支持 25W 快充，机身厚度仅 6.9mm，具备 IP52 防泼溅等级，运行基于 Android 16 的 One UI 8，在亚马逊获得超过 3000 条评价、平均 4.5 星。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-black-friday-deal-3739124/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-25T17:11:25+08:00"
+              "published_at": "2026-11-25T19:01:12+08:00"
             },
             {
-              "title": "调查：近五分之三读者已升级Android 17",
-              "brief": "Android Authority的一项读者调查显示，尽管Android 17全球装机量尚低，但近五分之三的受访读者已升级至该版本。Android 16占受访读者设备的15.5%，是唯一另一个获得两位数占比的版本；Android 15、14和13合计占13.4%。有趣的是，Android 10及更旧版本（3.9%）的占比超过了Android 11（3.4%）和Android 12（2.6%）。调查还指出，该站读者多为发烧友，更倾向使用最新系统；且投票在首次公布数据后持续数周，让更多设备有时间完成升级，结果略有偏差。",
-              "source_url": "https://www.androidauthority.com/android-version-distribution-numbers-poll-results-3739228/",
+              "title": "SimpliSafe 六件套安防系统带户外摄像头降价 60%",
+              "brief": "SimpliSafe 六件无线家庭安防系统（含户外摄像头）目前在亚马逊降至 120 美元，比 299.99 美元的原价直降 180 美元，折扣达 60%，创历史新低。套装以基站为核心连接各传感器，入侵时会发出高音警报。户外摄像头可使用附带的充电电池或外接电源线运行。系统为无线设计，支持自行安装，无需预约技术人员。用户可通过 SimpliSafe 应用布防、撤防和查看摄像头画面，并兼容 Alexa 和 Google Assistant。专业监控服务为可选项目，无长期合约。搭配指定监控套餐并接通摄像头电源时，Active Guard 户外防护功能可利用 AI 识别潜在威胁并通知人工坐席介入。",
+              "source_url": "https://www.androidauthority.com/simplisafe-6-piece-outdoor-camera-system-deal-3739062/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-25T17:02:21+08:00"
+              "published_at": "2026-11-25T18:39:43+08:00"
             },
             {
-              "title": "Gemini Notebook闪卡新增三项学习功能",
-              "brief": "谷歌为Gemini Notebook的闪卡功能推出三项新特性，提升学习体验。其中最实用的一项是可通过Gemini移动应用设置闪卡复习提醒，例如每天晚上复习法语词汇，或在早晨通勤时回顾笔记，解决了创建闪卡后难以坚持定期复习的问题。这些改进不仅适用于课堂学习，也适合学习新语言、准备求职面试或备考职业认证，使Gemini Notebook逐渐成为专业闪卡应用的有力替代品。三项功能均不要求付费订阅，现已面向个人Google账号、Google Workspace客户及Workspace个人订阅用户开放。",
-              "source_url": "https://www.androidauthority.com/gemini-notebook-flashcards-3739247/",
+              "title": "报告称 Galaxy Watch 不再汇总多段运动数据，引发用户不满",
+              "brief": "有用户反映，三星 Galaxy Watch 在运行 One UI 6 Watch 或更新版本后，不再将多段运动 session 的数据汇总统计，这一问题影响所有基于 Wear OS 的 Galaxy Watch 机型，包括三星产品线中最老的非 Tizen 设备 Galaxy Watch 4 和 Watch 4 Classic。另有用户报告三星健康应用存在一个小问题：使用 Galaxy 可穿戴设备追踪睡眠时，主屏幕小组件显示的睡眠文本似乎被裁切了一部分。作者尝试在 Galaxy Z Fold 8 上复现该问题但未成功，可能是因为英文睡眠评价仅限单个单词，例如 Fair 或 Good。",
+              "source_url": "https://www.androidauthority.com/samsung-galaxy-watch-activity-stats-misreported-3739252/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-25T16:30:56+08:00"
+              "published_at": "2026-11-25T18:31:16+08:00"
             },
             {
-              "title": "Gemini悬浮窗新增购物比价与保修查询功能",
-              "brief": "谷歌Gemini的悬浮窗功能新增购物场景的上下文建议，可在购物应用中帮助用户比较价格、查询保修条款。屏幕扫描功能已存在两年多，但这是首次观察到针对购物的情境建议，相关对话会保存在Gemini聊天记录中。与PDF、网页或YouTube视频可整体扫描不同，购物场景仅限于屏幕上可见内容。该功能已在Google应用17.78.13版本上线，预计为服务器端推送，已确认支持亚马逊、Flipkart及Blinkit等快电商应用。同版本还新增Gemini Live静音选项，可以字幕形式显示回复。",
-              "source_url": "https://www.androidauthority.com/google-gemini-overlay-shopping-context-suggestions-3739210/",
+              "title": "谷歌 AI 模式现支持一次上传最多 10 张照片",
+              "brief": "谷歌 AI 模式新增功能，允许用户一次附加最多 10 张照片，方便在对比多个产品或在单次查询中识别多个物品时使用，同时也消除了 AI 模式相机体验中的一处使用障碍。该功能已随最新版谷歌应用更新开始推送。不过这似乎是一项服务器端更新，因此仅更新手机上的谷歌应用并不保证就能用上新功能。尽管如此，该功能似乎正在大范围推广，已在多部测试设备上可用。用户可以尝试更新谷歌应用并等待功能推送生效。",
+              "source_url": "https://www.androidauthority.com/ai-mode-camera-multiple-photo-support-rolling-out-3739263/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-25T16:13:40+08:00"
+              "published_at": "2026-11-25T17:52:54+08:00"
             },
             {
-              "title": "三星承诺One UI 9.5将修复电池健康度骤降问题",
-              "brief": "针对Galaxy手机电池健康度快速下降的报告，三星回应称One UI 9.5将修复相关问题，并为用户提供更多电池老化信息。目前尚不清楚是One UI 9.0导致电池老化加快，还是软件bug造成手机低估剩余电池容量。One UI 9.5可能修正不准确的读数或解决导致电池过早损耗的软件问题，但软件更新无法恢复已经物理损失的电池容量。好消息是One UI 9.5已进入测试阶段，正式版预计将在几个月后随Galaxy S27系列一同发布，遇到电池健康度异常下降的用户无需等待太久。",
-              "source_url": "https://www.androidauthority.com/samsung-one-ui-9-5-battery-health-fix-3739202/",
+              "title": "12 月起 ChatGPT 与 Codex 将对付费用户共享用量额度",
+              "brief": "OpenAI 宣布，从 12 月起，ChatGPT 和 Codex 将对付费用户共享同一用量额度池。公司还将改变用量计量方式，不再按消息条数计算，而是以 token（AI 模型读取和生成的信息小块）计量。使用 Thinking 模型提一个简单问题，消耗的额度可能远少于让它分析一份长文档。这意味着长时间使用 Codex 编程会减少用 ChatGPT 执行深度研究等高耗任务的余量，反之亦然。好消息是 Instant 聊天不计入共享额度。OpenAI 预计多数用户触及上限的频率会降低，但未公布合并额度大小。用户可在设置的用量页面查看剩余额度并购买积分。",
+              "source_url": "https://www.androidauthority.com/chatgpt-codex-shared-usage-limits-3739254/",
               "source_name": "Android Authority",
-              "published_at": "2026-11-25T16:09:59+08:00"
+              "published_at": "2026-11-25T17:37:20+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "2026年NFL感恩节赛事直播观看指南",
+              "brief": "2026年NFL感恩节赛程看点十足，包括分区宿敌对决、明星球员和大牌中场表演，并首次在感恩节前夜增设一场比赛。感恩节前夜，包装工对阵公羊的比赛于美国东部时间晚8:15在Netflix独家直播，无订阅用户可开通每月8.99美元含广告套餐，注册后还可观看圣诞大战，中场表演由U2在SoFi体育场献上。感恩节当天，熊队对阵狮队的比赛下午1点在CBS播出，可在Paramount+观看，中场秀由Eminem监制、武当帮登台；随后老鹰对牛仔的比赛下午4:30在Fox播出，可在Tubi免费观看，Miranda Lambert将进行救世军中场表演。",
+              "source_url": "https://www.engadget.com/2323102/how-to-watch-every-2026-nfl-thanksgiving-streaming/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-25T18:00:00+08:00"
+            },
+            {
+              "title": "亚马逊汽车服务进军英国，首次扩张至美国以外",
+              "brief": "亚马逊将于2027年初在英国上线Amazon Autos汽车销售服务，这是该服务首次扩展到美国以外的市场。买家可以浏览新车和二手车、查询贷款利率并预订车辆，但仍需前往经销商处完成交易。现代汽车将成为首个公布的英国合作车企，经销商集团Vertu Motors也参与其中，未来几个月将有更多厂商和经销商加入。用户可按品牌、车型、颜色和价格筛选车辆，比较个人合约购买、租购和现金支付等方案，平台还承诺价格透明、即时旧车置换估价和附近经销商定位。亚马逊国际总监表示，希望让购车像在亚马逊购物一样简单透明。该服务在美国已从上线时的48个城市扩展至150多个城市。",
+              "source_url": "https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-25T17:15:37+08:00"
+            },
             {
               "title": "修改 Roku 电视设置，以电影原始帧率观影",
               "brief": "多数 Roku 电视默认刷新率为 60fps，但大多数电影以 24fps 拍摄和放映，这一标准几十年来定义了电影的观感。若想获得更接近影院的\"电影感\"，可以将电视刷新率调整为 24fps。操作方法：进入 Roku 电视主菜单，选择\"设置\"，进入\"系统\"，打开\"高级系统设置\"中的\"高级显示设置\"，然后开启\"自动调整显示刷新率\"即可。这是一键式操作，无需反复设置，就能让电视自动匹配影片的原始帧率，带来更贴近导演原始意图的观影体验。",
@@ -228,26 +242,19 @@
               "source_url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
               "source_name": "Engadget",
               "published_at": "2026-11-25T08:00:00+08:00"
-            },
-            {
-              "title": "Fitbit Edge 电池可更换，但过程并不简单",
-              "brief": "Google 曾被传放弃 Fitbit 转向 Pixel Watch，但近期发布了两款新品，主打 Fitbit Edge。它是 Charge 系列的继任者，虽然取消了 Google Pay 和 EDA 压力扫描，但支持用户自行更换电池。多数健身手环的隐患在于电池容量会随使用逐渐衰减，理论上只要 Google 持续提供应用支持且电池有库存，Edge 可无限期使用。不过更换电池不像换普通电池那么简单：需要购买专用零件和工具，包括新电池和一次性替换螺丝，并配合 iFixit 提供的免费 PDF 手册操作。拆开外壳后还可能出现 O 型圈脱落等问题，操作不当有损坏设备的风险。",
-              "source_url": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-25T07:30:00+08:00"
-            },
-            {
-              "title": "澳大利亚将通过安全法案，科技平台或面临巨额罚款",
-              "brief": "据美联社报道，澳大利亚议员即将通过《数字注意义务法案》，这是对 2021 年《在线安全法案》的修订，将为在线平台设定最低安全标准，并对不合规的科技公司处以罚款。该法案要求游戏、社交媒体应用和 AI 聊天机器人等平台保护澳大利亚用户免受有害内容和行为侵害，包括防止儿童接触宣扬饮食失调和色情内容，保障用户可选择退出算法推荐，并授权 eSafety 专员下架用 AI 生成非自愿裸露图像的网站和应用。罚款上限为全球营收的 5%，此前为 1.09 亿澳元，本周上调以助法案通过参议院。美国驻澳大使对此表示担忧，认为将迫使平台审查合法言论。",
-              "source_url": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
-              "source_name": "Engadget",
-              "published_at": "2026-11-25T07:21:40+08:00"
             }
           ]
         },
         {
           "name": "The Verge",
           "articles": [
+            {
+              "title": "Outlook大规模宕机后，微软内部宣布“红色警报”",
+              "brief": "据路透社报道，本月Exchange Online和Microsoft Outlook的宕机事件促使微软内部罕见地宣布“红色警报”。此次宕机持续近24小时，导致数百万客户的电子邮件服务中断，起因是一个自7月以来一直存在于Microsoft 365网络网关服务器上但此前未造成影响的漏洞。Microsoft 365 Core总裁Jason Henderson在致Exchange Online团队的备忘录中表示，此次宕机是微软历史上对客户影响最严重的一次。他表示：“遗憾的是，我们多年来所做的所有工作都不足以在周四保护我们。红色警报意味着这是团队最高优先级的工作。”作为红色警报的一部分，微软目前专注于负载削减和地理分布等措施，并与负责Microsoft 365服务的工程团队举行每日会议。",
+              "source_url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+              "source_name": "The Verge",
+              "published_at": "2026-11-25T06:12:42-05:00"
+            },
             {
               "title": "美国金融犯罪执法网络披露一起“网络安全事件”",
               "brief": "美国财政部下属的金融犯罪执法网络（FinCEN）周二披露，正在调查一起“网络安全事件”。该机构称，这起事件导致其一小部分系统遭到未经授权的访问，但尚未公布事件的范围或来源。出于预防考虑，FinCEN已将部分系统下线。此消息发布数小时前，《纽约时报》曾报道，美国中央情报局和国家情报总监办公室发现一个开源情报系统遭到入侵，导致非机密信息泄露。",
@@ -275,13 +282,6 @@
               "source_url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
               "source_name": "The Verge",
               "published_at": "2026-11-24T17:23:27-05:00"
-            },
-            {
-              "title": "Take-Two叫停《GTA VI》PC重编译项目",
-              "brief": "游戏模组社区正竞相让《侠盗猎车手VI》在PC上运行，但其中一项重要努力已被发行商Take-Two叫停。由15岁开发者“NotRexed”制作的粉丝项目Leonida在收到Take-Two的DMCA下架通知后已消失。该项目旨在将泄露的《GTA VI》Xbox版本翻译为可在Windows上原生运行的版本。今夏泄露多段游戏视频的泄露者Cyberleek本周早些时候公布了完整的Xbox版本，推动重编译工作加速，模组作者正竞相对游戏代码进行逆向工程并重编译为原生PC代码。一些人也已让游戏在PC上启动，但完整重编译难度很大，即使借助Claude等AI工具。Take-Two正试图延缓这一进程。",
-              "source_url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-              "source_name": "The Verge",
-              "published_at": "2026-11-24T16:39:14-05:00"
             }
           ]
         }
@@ -334,6 +334,13 @@
           "name": "Solidot",
           "articles": [
             {
+              "title": "日本政府开发智能体打击盗版动漫",
+              "brief": "日本文化厅正在测试一款AI智能体，用于自动识别和标记可能包含非法或盗版内容的动漫网站，测试结果显示其准确率极高。2025财年针对国内的一项调查显示，AI标记的1168条可疑X推文中有84%属于非法内容；AI检测的1564个动画网站中89%含有盗版动画；1935个漫画网站中盗版漫画的比例高达94%。日本政府计划在2026财年将监测范围扩大至海外，并最早于2027年3月汇总并公布最新的调查结果，以进一步打击动漫盗版行为。",
+              "source_url": "https://www.solidot.org/story?sid=85988",
+              "source_name": "Solidot",
+              "published_at": "2026-11-25T17:49:29+08:00"
+            },
+            {
               "title": "男性肥胖者服用 GLP-1 药物后改善了精子质量",
               "brief": "发表在《Biomedicines》期刊上的一项研究显示，男性肥胖者在服用GLP-1药物后精子质量和睾酮水平得到改善。研究针对108名患有肥胖症和/或2型糖尿病的男性，服药一年后精子浓度显著增加。正常形态精子比例从服药前的略超3%上升至4.5%，具有前向运动能力的精子比例从23%提高到38%，平均睾酮水平上升30%，雌二醇水平则有所下降。",
               "source_url": "https://www.solidot.org/story?sid=85987",
@@ -360,19 +367,19 @@
               "source_url": "https://www.solidot.org/story?sid=85984",
               "source_name": "Solidot",
               "published_at": "2026-11-25T14:37:41+08:00"
-            },
-            {
-              "title": "多样性影响鸟类对天敌的反应",
-              "brief": "发表在PLOS Biology期刊上的一项研究探讨了生物多样性如何影响生态信息的传递，即鸟类用于防御的叫声。研究团队在中国东部的十个自然保护区开展了数百次实验。第一轮实验中，研究人员用飞行姿态的鹰模型和停歇姿态的猫头鹰模型挑衅猎物鸟，观察它们是发出警戒叫声提醒同伴逃离，还是发出围攻召集声招呼其他鸟聚集到天敌周围。第二轮实验中，团队用扬声器播放录制的围攻召集声，声音包含的物种数量从一个到八个不等。结果发现，录音中包含的物种越多样，赶来围攻的鸟群规模就越大，回应的叫声也更快、更多。这凸显了本地生物多样性的重要性：在物种减少的栖息地中，猎物对危险的反应可能变得更迟钝，原因可能是群体内部信息流通减弱。",
-              "source_url": "https://www.solidot.org/story?sid=85983",
-              "source_name": "Solidot",
-              "published_at": "2026-11-25T14:01:54+08:00"
             }
           ]
         },
         {
           "name": "小众软件",
           "articles": [
+            {
+              "title": "开源输入法大爆发：5款输入法稳定性对比评测",
+              "brief": "近期多款开源输入法扎堆出现，论坛用户CCR基于小狼毫weasel的万象base方案（小鹤双拼）对比体验了5款输入法。作者认为这些开源输入法成熟度普遍不足，尚不能投入生产环境。其中小狼毫最成熟，功能完整、方案丰富、词库导入导出方便，几乎不崩溃，但配置复杂，评9分；清风输入法评8分，主体功能完工，但设置项过多、辅助码触发等细节问题不少；青简输入法评7.5分，无崩溃但设置混乱，缺部首查字，双拼支持不完全；FreeType与水杉输入法也在评测之列。作者建议各产品精简设置、打磨细节。",
+              "source_url": "https://www.appinn.com/open-source-ime-boom-and-stability/",
+              "source_name": "小众软件",
+              "published_at": "2026-11-25T17:40:23+08:00"
+            },
             {
               "title": "YzwPDFView 大雁PDF：89KB 单文件 PDF 快速查看工具",
               "brief": "YzwPDFView（大雁PDF查看小工具）是一款 Windows 下的纯 PDF 阅读工具，简单直接，支持快捷键，仅 89KB 大小，为单个可执行文件。软件功能简单实用，直接打开 PDF 文件即可阅读，提供实际大小、适应窗口、翻页、旋转、打印、复制等基础功能，还可查看 PDF 文件属性。经测试，打开一个 280MB 的大型 PDF 仅占用约 70MB 系统内存，表现不错。作者来自小众软件发现频道自荐，提供直接下载链接。不过快速翻页时可能出现停滞，平时用浏览器阅读 PDF 且阅读量较大的用户可以尝试。",
@@ -400,13 +407,6 @@
               "source_url": "https://www.appinn.com/superlist-start/",
               "source_name": "小众软件",
               "published_at": "2026-11-23T17:33:41+08:00"
-            },
-            {
-              "title": "微软 WinGet 开始支持 MCP，可通过 AI 助手安装软件",
-              "brief": "WinGet 是微软提供的免费 Windows 软件包管理器，可通过命令行搜索、安装、升级和卸载软件，类似 macOS 的 Homebrew。现在微软为 WinGet 引入了 MCP（模型上下文协议）支持，AI 助手也能调用它来管理软件。用户可以直接告诉支持 MCP 的 AI 助手安装 Firefox、查找免费 PDF 阅读器等，AI 会调用 WinGet 搜索软件、获取信息，并在用户确认后执行安装。目前 WinGet MCP Server 提供 find 和 install 两个工具，分别用于搜索软件包和安装指定软件。启用需要 Windows 10 1809 以上版本及支持 MCP 的 WinGet，微软提供了 Visual Studio Code 和 GitHub Copilot CLI 两种官方配置方式。这使 AI Agent 在执行任务时能更自动化地安装所需软件。",
-              "source_url": "https://www.appinn.com/winget-mcp-server/",
-              "source_name": "小众软件",
-              "published_at": "2026-11-23T15:19:28+08:00"
             }
           ]
         },
@@ -454,39 +454,39 @@
           "name": "IT之家",
           "articles": [
             {
-              "title": "亚马逊 Prime Air 送货无人机在美国密歇根州坠机，返航勾住光纤线路致螺旋桨脱落",
-              "brief": "美国密歇根州一名用户于当地时间11月20日下单购买一瓶洗发水，包裹通过亚马逊 Prime Air 无人机配送。无人机成功将包裹投放到用户家后院，但返航过程中勾住一条光纤线路，导致一片螺旋桨脱落，随后撞上邻居车库屋顶。Prime Air 目前主要使用 MK30 电动配送无人机，单次最多可运送约5磅（约2.27千克）包裹，并配备机载感知与避障系统，但此次未能识别较为纤细的光纤线路。美国联邦航空管理局将在调查中审查相关技术问题及亚马逊无人机配送的操作流程。亚马逊团队承诺协助修复车库屋顶，并向受损邻居提供了100美元（约合667.8元人民币）礼品卡。亚马逊表示，这是其在底特律附近开展无人机配送业务以来首次发生此类坠机事故。",
-              "source_url": "https://www.ithome.com/1/032/355.htm",
+              "title": "小米米家智能水暖毯 Pro 开启众筹：左右双区独立调温，首发价 799 元",
+              "brief": "米家智能水暖毯 Pro 现已开启众筹，首发价 799 元。产品支持左右双区独立调温，内置温度传感器，温度可在 25℃～55℃ 之间调节，腿脚区布管更密集，官方称比其他区域暖 3℃～5℃。加热采用 PTC 陶瓷双面加热，功率 450W，运行噪音约 32dB(A)。产品支持小米澎湃智联，可通过米家 App 定时、远程开关机，并预设睡眠时段加热温度。毯面为微弹纤维精梳面料并添加银离子抗菌剂，抗菌率 ≥90%，还提供一键除螨、12 重安全防护，每晚耗电约 0.7 度。",
+              "source_url": "https://www.ithome.com/1/032/469.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-25T17:19:19+08:00"
+              "published_at": "2026-11-25T19:21:50+08:00"
             },
             {
-              "title": "用户称 Adobe Acrobat 浏览器扩展后台疯狂写入 SSD，三天数百 GB",
-              "brief": "一名用户发现电脑闲置时固态硬盘读写异常偏高，借助 Windows 资源监控工具排查后，发现自上次开机后 Chrome 已写入超过300GB数据，约每天100GB，而这段时间他几乎没有使用电脑。进一步查看发现，浏览器整体磁盘缓存仅约3.5GB，但 ServiceWorker CacheStorage 文件夹持续产生写入又不断删除数据。最终定位到问题出自 Adobe 官方 Acrobat PDF 扩展：该扩展注册的服务工作线程即便 Chrome 窗口未打开也会持续填满自身可用缓存配额，夜间也不停止。用户还提醒，WriteTransferCount 统计会把网络传输计入，容易造成误判，应使用资源监视器区分真实磁盘 IO。卸载扩展并清理相关数据后，闲置状态下每五分钟写入量从约730MB降至135MB并继续下降。",
-              "source_url": "https://www.ithome.com/1/032/353.htm",
+              "title": "C919 首次在济南执飞商业客运航班，南航 C919 首飞广州 — 济南航线",
+              "brief": "南航 C919 国产大飞机首飞广州 — 济南航线，这也是 C919 首次在济南执飞商业客运航班。目前南航计划每日在广州-济南航线执行 4 个往返航班，其中 CZ3707/3708 航班由 C919 机型执飞。去程 CZ3707 航班 17:35 从广州起飞，20:20 抵达济南；回程 CZ3708 航班 21:20 从济南起飞，00:20 抵达广州，可更好地覆盖两地商务出行与休闲旅客的行程需求。",
+              "source_url": "https://www.ithome.com/1/032/468.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-25T17:13:04+08:00"
+              "published_at": "2026-11-25T19:21:41+08:00"
             },
             {
-              "title": "卡普空《怪物猎人：崛起》登陆移动端：iOS / 安卓平台可玩，需 Netflix 会员",
-              "brief": "卡普空《怪物猎人：崛起》现已登陆 iOS 和安卓平台，Netflix 会员下载后即可游玩。移动版保留了原作核心狩猎玩法，玩家可以在炎火村接受任务，狩猎怪物、收集素材并制作武器和防具，支持单人游玩以及最多4人在线联机狩猎，并针对手机和平板进行了优化。移动版重新设计了触控界面，还加入了名为“恢复按钮”的新功能：玩家在战斗中使用后，游戏会根据猎人的生命值和异常状态，从道具栏中自动选择合适的恢复道具，从而简化移动端操作。此外，此前需要付费购买或限时开放的部分挑战任务和活动任务，在移动版中可随游戏进度逐步解锁，无需额外购买。",
-              "source_url": "https://www.ithome.com/1/032/351.htm",
+              "title": "联想预热 thinkplus USB4 全功能伸缩数据线，支持 PD3.2 240W 快充",
+              "brief": "联想预热 thinkplus USB4 全功能伸缩数据线，可根据使用需求自由拉伸，提供 0.3 米、0.6 米、1 米及 1.2 米四种使用长度，USB-C 接头处采用抗弯折网尾设计。该数据线支持 PD3.2 快充，最高可承载 240W 充电功率，还支持至高 20Gbps 数据传输速率及至高 4K@60Hz 视频输出规格。线材内置 E-Marker 芯片，可向连接设备提供线缆能力信息，配合充电器和终端设备完成供电协商。",
+              "source_url": "https://www.ithome.com/1/032/467.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-25T17:12:04+08:00"
+              "published_at": "2026-11-25T19:13:55+08:00"
             },
             {
-              "title": "荣耀一碰传更新：实现与 OPPO、vivo、小米、Apple 跨品牌原图文件互传",
-              "brief": "荣耀一碰传功能更新，已支持与 OPPO、vivo、小米、Apple 设备跨品牌互传原图和视频等文件。腾讯 WorkBuddy、喜马拉雅等应用也正式加入荣耀一碰生态，一碰传已支持70余款应用内容，覆盖社交、办公、出行、影音、游戏等场景。一碰传基于 NFC 近场通信技术触发传输链路，需开启一碰传开关及 NFC 与蓝牙，将两台设备顶部轻触即可传输，无需流量、扫码或配对。跨品牌互传方面，苹果 iPhone 需安装“荣耀互联”应用，OPPO、vivo、小米设备需升级至对应品牌最新 OS 版本，荣耀手机需通过 OTA 升级支持。此次更新是荣耀 MagicOS 11 持续迭代的一部分，跨品牌原图互传的实现与互传联盟推出的“碰一碰互传技术标准”有关。",
-              "source_url": "https://www.ithome.com/1/032/349.htm",
+              "title": "特斯拉 FSD 欧盟审批会议推迟至 12 月 15 日举行",
+              "brief": "特斯拉 FSD 在欧盟的审批会议推迟至 12 月 15 日举行，这次投票是特斯拉把该技术推向整个欧盟市场的关键关卡。目前已有近十多个国家跟进荷兰的审批，其中人口最多的意大利已落地启用。要在欧盟全境获得许可，需 27 个成员国中至少 15 国投赞成票，且这些国家人口合计占欧盟总人口 65% 以上。荷兰监管机构 RDW 透露会议原定 12 月 1 日召开，比利时方面曾称改到 12 月 7 日，欧盟委员会最终确定时间为 12 月 15 日。",
+              "source_url": "https://www.ithome.com/1/032/466.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-25T17:06:01+08:00"
+              "published_at": "2026-11-25T19:13:50+08:00"
             },
             {
-              "title": "2027 科隆游戏展开幕之夜移师朗盛竞技场，观众容纳量翻倍",
-              "brief": "2027年科隆游戏展开幕之夜将移师朗盛竞技场举行，可容纳超1万名现场观众，是此前场馆可容纳约5000人的两倍以上，支持更为丰富且优秀的线下演出体验。此前的开幕之夜在较小场馆举行，门票迅速售空。gamescom 2027 科隆游戏展将于明年8月23日至29日举行，同年的 IEM 科隆则安排在稍早的8月12日至15日。",
-              "source_url": "https://www.ithome.com/1/032/348.htm",
+              "title": "网易云音乐宣布与索尼音乐娱乐达成多年期版权合作，今年已与三大唱片公司完成续签",
+              "brief": "网易云音乐宣布与索尼音乐娱乐达成多年期版权合作，至此今年已与环球、索尼、华纳三大唱片公司完成续签。索尼音乐旗下拥有哥伦比亚唱片、RCA Records、Epic Records 等多个厂牌，双方合作可追溯至 2021 年 5 月，当时达成直接数字分销协议。此前，网易云音乐于 2026 年 1 月 20 日与环球音乐达成中国地区多年期战略版权合作，7 月 16 日与华纳音乐续签多年期战略合作，合作范围从录音及词曲版权库分销扩展到全球艺人推广与多媒体内容合作。",
+              "source_url": "https://www.ithome.com/1/032/465.htm",
               "source_name": "IT之家",
-              "published_at": "2026-11-25T17:02:58+08:00"
+              "published_at": "2026-11-25T19:08:41+08:00"
             }
           ]
         },
