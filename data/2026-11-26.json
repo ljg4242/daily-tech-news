@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T03:23:10.575480+08:00",
+  "generated_at": "2026-11-26T05:22:01.550532+08:00",
   "sections": [
     {
       "category": "主要",
@@ -9,45 +9,59 @@
           "name": "MacRumors",
           "articles": [
             {
+              "title": "1Password 遭遇安全漏洞：哪些数据被访问，哪些未受影响",
+              "brief": "密码管理应用 1Password 宣布本月初发生安全漏洞。11月19日，公司发现一名员工的 GitHub 账户被入侵并展开调查。攻击者利用该账户访问源代码并向后端服务推送恶意代码，获取了部分客户数据，包括客户登录用的姓名和电子邮箱、账户标识符与创建及最近登录时间、公钥、安全远程密码协议参数、通过邮件发送的邀请与账户恢复链接中的令牌，以及 1Password 源代码等。1Password 强调客户密码库内容及其保护密钥未被访问，账户恢复密钥和应用也未受影响。令牌须与 SSO 登录或邮箱六位验证码配合使用，相关验证码已更换，服务可用性和产品安全未受影响。",
+              "source_url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-26T05:09:26+08:00"
+            },
+            {
+              "title": "WhatsApp 终于推出定时发送消息功能",
+              "brief": "流行即时通讯应用 WhatsApp 更新加入定时发送消息功能，公司称这是用户最期待的功能之一。用户可在单聊和群聊中创建消息，并设定从 10 分钟到 14 天后送达。操作方法是编写消息后长按发送按钮，然后选择日期和时间。定时消息支持文字、照片和视频，即使用户设备离线也会按时发送。用户可查看所有已定时的消息，并在发送前删除。定时消息受端到端加密保护，与普通消息外观一致，接收方不会察觉消息经过定时。苹果 iMessage 已有类似的稍后发送功能，WhatsApp 此举是追赶苹果的内置消息功能。该功能将在未来几周内向全球用户推出。",
+              "source_url": "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-26T04:38:44+08:00"
+            },
+            {
+              "title": "亚马逊黑色星期五促销：苹果最便宜 iPad 降至 379 美元",
+              "brief": "黑色星期五期间，苹果入门级 iPad 在亚马逊降至涨价后的最低价，128GB Wi-Fi 版售价 379 美元，原价 449 美元，优惠 70 美元。这款 11 英寸 iPad 搭载苹果 A16 芯片，配备触控 ID。此外，256GB Wi-Fi 版售价 479.99 美元，原价 549 美元，优惠约 69 美元。此前数周这两款 iPad 均无明显折扣，本次降价是苹果夏季涨价后两款机型的历史最低价。MacRumors 提醒，网站与部分商家存在联盟合作关系，用户点击链接购买可能为其带来少量收入。更多苹果产品的黑色星期五优惠信息，可查阅该网站汇总的 Mac、iPad、Apple Watch 等最佳折扣清单。",
+              "source_url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-26T04:22:10+08:00"
+            },
+            {
+              "title": "传闻：iOS 28 将改进通知系统",
+              "brief": "MacRumors 近日重新提及苹果长期未一致执行 iPhone 应用通过通知投放广告相关规定的问题，并透露从多个消息来源获知，苹果计划在明年的 iOS 28 中改进 iPhone 的通知系统。消息人士称，iOS 28 将对通知中心进行重大改动，但目前没有具体细节，该消息仅为传闻。作为参考，Android 16 及更高版本支持将通知筛选为新闻、促销、社交和推荐等类别，若 iOS 推出类似功能，将有助于隐藏广告类通知带来的杂乱信息。",
+              "source_url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
+              "source_name": "MacRumors",
+              "published_at": "2026-11-26T03:58:06+08:00"
+            },
+            {
               "title": "苹果新广告展示iPhone 18 Pro Max续航能力",
               "brief": "苹果发布新广告，突出iPhone 18 Pro Max拥有iPhone史上最长续航。广告中一个独眼巨人玩具活了过来，对iPhone 18 Pro Max爱不释手，用它拍照、玩游戏、使用应用、听音乐、录制视频、打电话、看电视，还用闪光灯玩手影。iPhone 18 Pro Max全程撑住，当玩具电量耗尽睡着时，手机仍剩一半电量。官方称该机典型使用续航最长30小时，流媒体视频最长40小时，观看下载视频最长45小时。",
               "source_url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
               "source_name": "MacRumors",
               "published_at": "2026-11-26T01:16:43+08:00"
-            },
-            {
-              "title": "799美元智能眼镜发布：45克机身支持Vision Pro式操控",
-              "brief": "香港初创公司Savage Technology发布首款产品Orrorin Glasses，售价799美元，重仅45克，双眼配备全彩显示屏，宣称提供Vision Pro级交互体验，重量约为苹果头显（含外接电池）的二十五分之一。用户可在身侧做小幅捏合手势控制界面，无需戒指、腕带或手柄；视线移开时屏幕自动淡出。该产品不支持位置追踪和空间映射，无法像Vision Pro那样固定虚拟窗口。公司目前面向开发者，预计2027年3月起发货。",
-              "source_url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-26T01:09:11+08:00"
-            },
-            {
-              "title": "AirPods Pro 3降至149美元 成今年黑五最佳优惠之一",
-              "brief": "亚马逊今日将AirPods Pro 3价格降至149美元，低于249美元的原价，创历史新低，被认为是今年黑色星期五季最划算的优惠之一。免费配送预计11月30日送达，Prime会员在多地可享当日达。目前这是黑五最佳AirPods优惠，同时AirPods Max 2今日也有130美元降价。用户可查看MacRumors苹果黑五优惠主帖，了解Mac、iPad、Apple Watch等产品的促销信息。",
-              "source_url": "https://www.macrumors.com/2026/11/25/amazon-airpods-pro-3-deal-back/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-26T00:25:00+08:00"
-            },
-            {
-              "title": "T-Mobile黑五活动：可免费获得iPhone Duo或iPhone 18 Pro",
-              "brief": "T-Mobile推出黑五优惠，涵盖iPhone 18 Pro、iPhone 18 Pro Max和iPhone Duo，基于全新T-Mix不限量套餐。选择最高价位T-Mix套餐并积累最多“Picks”，256GB版iPhone Duo和iPhone 18 Pro可零成本获得。iPhone Duo还可用三个Picks加旧机折抵获最高1200美元账单抵扣，或一个Picks获最高830美元；iPhone 18 Pro系列用五个Picks可省最高1400美元，需符合信用条件、开通新语音线路并支付35美元设备连接费，优惠以月度账单抵扣形式发放。",
-              "source_url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-26T00:21:41+08:00"
-            },
-            {
-              "title": "苹果面临iPhone通知推送问题",
-              "brief": "苹果设有规则，本应保护iPhone用户免受推送通知和实时活动中的广告骚扰，但部分应用似乎无视这些规定，苹果也未持续执行。App Store指南允许应用发送促销或直销推送，但须用户通过应用内同意语言明确选择接收，并提供退出方式。作者在加拿大使用的Cineplex、麦当劳和温蒂汉堡等应用发送促销通知却不提供关闭选项；外卖应用Skip虽有设置可关闭促销通知，但用户关闭后仍持续收到。有读者反映DoorDash也会在用户关闭优惠通知后再次提示开启。",
-              "source_url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
-              "source_name": "MacRumors",
-              "published_at": "2026-11-26T00:14:55+08:00"
             }
           ]
         },
         {
           "name": "9to5Mac",
           "articles": [
+            {
+              "title": "拉美智能手机出货量三季度暴跌24%，苹果逆势抢占份额",
+              "brief": "据Counterpoint Research最新报告，受内存短缺影响，拉美地区三季度智能手机出货量同比下滑24%，为2015年以来第二低季度。三星以35%份额居首，出货量同比下降15%；摩托罗拉以18%份额位列第二，同比下滑23%。小米份额14%，同比大跌34%。苹果出货量仅下降10%，为前五品牌中最抗跌者，份额从7%增至9%，排名由第五升至第四。苹果还在季末率先于巴西、墨西哥和智利同步发售iPhone 18 Pro系列。Counterpoint预计第四季度跌幅将有所收窄。",
+              "source_url": "https://9to5mac.com/2026/11/25/report-apple-gains-ground-as-latin-american-smartphone-shipments-plunge-24-in-q3/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-26T04:22:28+08:00"
+            },
+            {
+              "title": "iOS 27.3发布时间预测：新功能最快12月上旬推送",
+              "brief": "由于iOS 27.1为iPhone Duo独占，iOS 27系统版本号整体顺延一位，但发布节奏与往年一致。参考近年x.2版本均在12月11日至12日左右推送，iOS 27.3预计最早于12月7日当周发布，最迟不晚于12月14日。新功能方面，Apple TV将支持视频播客和竖屏Clips视频，健康应用迎来全新改版，Safari加入垂直标签页和自适应深色模式，Apple Music推出Selfie Sing功能和新歌词界面，Siri AI获得应用内操作与更多语言支持，日历优化单手操作设计，Fitness+新增Gym Strength训练计划，iCloud+扩展AI使用上限。iPhone Duo还将独享面容解锁、单手模式等三项新功能。",
+              "source_url": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+              "source_name": "9to5Mac",
+              "published_at": "2026-11-26T03:38:33+08:00"
+            },
             {
               "title": "WhatsApp 推出用户期待已久的定时发送消息功能",
               "brief": "WhatsApp 正式宣布推出定时发送消息功能。用户可以在想到内容时随时撰写消息，并设定在 10 分钟到 14 天之后的任意时间发送，一对一聊天和群聊均支持。操作时只需长按发送按钮，选择希望送达的日期和时间即可。对接收方而言，定时消息与普通消息看起来完全一样。用户可以查看所有已排定的未来消息，改变主意时可提前删除。即使手机关机或没电，定时消息仍会在设定时间准时发出，并与其他个人消息一样保持端到端加密，连 WhatsApp 自己也无法读取。该功能支持文本以及照片、视频等媒体内容，将在未来几周内向全球用户逐步推送，用户需更新至最新版 WhatsApp 应用。",
@@ -68,26 +82,19 @@
               "source_url": "https://9to5mac.com/2026/11/25/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-next-week/",
               "source_name": "9to5Mac",
               "published_at": "2026-11-26T01:45:52+08:00"
-            },
-            {
-              "title": "Festivitas 应用更新：Mac 屏幕可堆积积雪并用鼠标铲雪",
-              "brief": "Mac 节日装饰应用 Festivitas 迎来年度更新，为用户带来更丰富的节日氛围。该应用允许用户在 Mac 的菜单栏和 Dock 上悬挂不同颜色与图案的灯串，并提供多种自定义选项。去年应用加入了降雪效果、快捷指令支持，以及带小组件的 iPhone 和 iPad 版应用。今年的更新进一步扩展降雪功能：雪花可以从屏幕顶部落下并在屏幕底部堆积，形成冬日雪景，用户还能用鼠标把积雪铲走；雪也可以落在窗口上，营造温馨效果，并可继续调整雪量、雪花大小、下落速度和风向。新版还支持导入图片创建自定义灯饰、调整大小和发光效果、导出分享设计，以及响应鼠标移动的节日特效。",
-              "source_url": "https://9to5mac.com/2026/11/25/festivitas-brings-holiday-cheer-to-your-mac-with-snow-you-can-shovel/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-26T01:31:29+08:00"
-            },
-            {
-              "title": "古尔曼：MacBook Air 或于明年迎来重大改版",
-              "brief": "马克·古尔曼在最新一期 Power On 播客中表示，下一代 MacBook Air（13 英寸 J913 和 15 英寸 J915）将于 2027 年春季与 MacBook Neo 2 一同发布，搭载 M6 芯片，设计基本不变。他认为现款设计自 2022 年推出以来已到生命周期末段，MacBook Air 作为苹果最畅销的电脑需要保持新鲜感，预计 2027 年底或 2028 年会迎来全面改版，OLED 屏幕将成为重点。这种先换芯片、后换设计的发布节奏与今年 MacBook Pro 的两段式更新策略类似。",
-              "source_url": "https://9to5mac.com/2026/11/25/major-macbook-air-overhaul-could-launch-next-year-per-gurman/",
-              "source_name": "9to5Mac",
-              "published_at": "2026-11-26T00:34:01+08:00"
             }
           ]
         },
         {
           "name": "9to5Google",
           "articles": [
+            {
+              "title": "9to5Google 2026年度精选",
+              "brief": "9to5Google 发布2026年度最佳内容盘点，回顾过去一年中谷歌生态的重要动态与产品亮点。其中重点关注Google Messages的更新：该应用将用全新的“任务”聊天功能取代旧版Gemini对话体验，新功能更加主动，能够更积极地协助用户处理日常事务。此次改版显示出谷歌在消息应用中整合人工智能助手的新方向，为用户带来更智能便捷的使用体验。",
+              "source_url": "https://9to5google.com/2026/11/25/9to5googles-best-of-2026/",
+              "source_name": "9to5Google",
+              "published_at": "2026-11-26T04:29:37+08:00"
+            },
             {
               "title": "旧款三星 Galaxy 手机性价比更高，这些机型值得入手",
               "brief": "9to5Google 发文指出，购买上一代三星 Galaxy 手机往往比最新款更划算，旧旗舰在发布数月后价格明显下调，而处理器、屏幕、相机等核心配置与新款差距不大，日常体验几乎不打折扣。文章推荐了几款值得考虑的旧机型，包括 Galaxy S 系列和折叠屏系列的前代产品，并对比了当前的销售价格与配置差异。作者建议消费者在黑色星期五促销期间关注这些降价机型，以更低预算获得接近旗舰的体验，同时提醒注意系统更新支持年限等购买要点。",
@@ -115,19 +122,19 @@
               "source_url": "https://9to5toys.com/2026/11/25/today-google-play-deals-app-deals-stardew-valley/",
               "source_name": "9to5Google",
               "published_at": "2026-11-26T02:34:08+08:00"
-            },
-            {
-              "title": "RedPocket Mobile 黑五套餐月费低至 5 美元，可大幅节省话费",
-              "brief": "移动虚拟运营商 RedPocket Mobile 推出黑色星期五促销套餐，月费最低仅需 5 美元，帮助用户大幅削减手机话费开支。RedPocket 作为 MVNO，依托主流运营商的网络提供服务，用户可保留现有手机并在其网络上使用。促销套餐涵盖不同档位的流量和通话组合，适合轻度使用者以及希望降低家庭通信支出的用户。文章介绍了各套餐的具体内容、适用人群和办理方式，并指出此类优惠为限时活动，有意更换运营商或寻找廉价计划的用户可在黑五期间考虑入手。",
-              "source_url": "https://9to5google.com/2026/11/25/save-serious-money-with-redpockets-black-friday-plans-that-start-at-5-a-month-sponsored/",
-              "source_name": "9to5Google",
-              "published_at": "2026-11-26T01:41:47+08:00"
             }
           ]
         },
         {
           "name": "Ars Technica",
           "articles": [
+            {
+              "title": "Google 搜索替代品 Kagi 推出 Gmail 竞品",
+              "brief": "总部位于加州帕洛阿尔托的软件公司 Kagi 以付费订阅搜索引擎闻名，近日推出类似 Gmail 的电子邮件服务 Kagi Mail，并同步推出日历功能。该服务主打隐私、用户数据自主权、定制化和控制权，界面极简且无广告，强调键盘快捷操作。功能包括无限别名和域名、50GB 存储、基于 Sieve 的过滤规则、MCP 服务器，以及多项默认关闭的可选 AI 功能，如与代理对话搜索邮件历史、批量重新标记等。目前邮件和日历仅支持网页端，原生 Android 和 iOS 应用计划于明年第四季度推出，联系人通讯录也将于 2027 年第一季度上线。Kagi Mail 为付费服务，但不包含在每月 5 美元的基础计划或 10 美元的无限搜索计划中。",
+              "source_url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+              "source_name": "Ars Technica",
+              "published_at": "2026-11-26T04:57:09+08:00"
+            },
             {
               "title": "Backblaze 解释为何与广告商共享客户信息",
               "brief": "云备份和存储公司 Backblaze 将于 12 月 1 日生效的新隐私政策引发部分客户担忧，该政策称公司可能向广告商出售某些个人信息。其现行政策规定，除用户主动提供的邮箱地址等信息外，公司还会自动收集软件、操作系统、IP 地址及请求时间等数据，并明确承诺未经同意不会向其他公司出租、交易或共享用户地址和邮箱用于营销，且从未提及广告商。新政策则列出一份表格，显示自 2025 年 12 月 1 日起，公司已向包括广告和营销合作伙伴在内的第三方共享标识符、商业信息、地理位置数据等个人数据。Backblaze 向 Ars Technica 表示，不会与广告商共享用户的备份和存储文件。",
@@ -155,19 +162,33 @@
               "source_url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
               "source_name": "Ars Technica",
               "published_at": "2026-11-26T01:12:57+08:00"
-            },
-            {
-              "title": "Ars直播回顾：军事打击数据中心不会停止",
-              "brief": "今年中东的亚马逊数据中心首次遭到军事打击，俄乌之间也出现前所未有的针对彼此数据中心的无人机袭击。Ars就此举办直播讨论。皇家联合服务研究所的Joseph Jarnecki指出，无论公有云还是私有云数据中心都日益呈现军民两用特性：军队利用云计算能力运行战场管理系统、人事和资源管理。一旦军方使用民用基础设施，根据国际法和军事打击原则，该设施可能成为军事目标，从而成为对手攻击的对象，这种趋势预计将持续。",
-              "source_url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
-              "source_name": "Ars Technica",
-              "published_at": "2026-11-26T00:47:14+08:00"
             }
           ]
         },
         {
           "name": "Android Authority",
           "articles": [
+            {
+              "title": "Gemini for Home 获得更快响应、更流畅对话及多项漏洞修复",
+              "brief": "Google 正在为智能家居设备上的 Gemini 带来一系列改进。未来几周，Google Home Premium 订阅用户将获得更快、更自然的对话体验，还能在不结束当前对话的情况下设置定时器、添加提醒并控制智能家居设备。睡前故事功能也将升级，语音更富表现力、节奏更丰富，用户还可在叙述过程中引导情节发展。此外，受支持的智能显示屏将新增“来源”按钮，可查看 Gemini 回答问题所引用的网站。此次更新还包括针对追问和音乐功能的漏洞修复，以及 Nest 恒温器的节能改进。由于 Google Assistant 将于 2027 年 8 月从智能家居设备中退役，这些改进显得尤为重要。",
+              "source_url": "https://www.androidauthority.com/gemini-for-home-update-faster-commands-bug-fixes-3739481/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-26T04:15:58+08:00"
+            },
+            {
+              "title": "Beats Powerbeats Pro 2 降价 70 美元优惠",
+              "brief": "Beats Powerbeats Pro 2 运动耳机现于亚马逊售价 179.95 美元，较 249.99 美元的原价降价 70 美元，折扣达 28%，追平历史最低价，且所有四种配色均参与活动。该耳机采用镍钛合金柔性耳挂，运动时稳固贴合，IPX4 防护等级可抵御汗水和泼溅。每只耳机内置心率传感器，数据可同步至兼容的健身应用。耳机搭载苹果 H2 芯片，支持主动降噪和通透模式。续航方面，单次使用最长 10 小时，开启降噪约 8 小时，配合充电盒可达 45 小时。充电 5 分钟可播放约 90 分钟，充电盒支持 USB-C 和 Qi 无线充电，兼容 iPhone 和 Android 手机。",
+              "source_url": "https://www.androidauthority.com/powerbeats-pro-2-amazon-deal-3739436/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-26T03:48:10+08:00"
+            },
+            {
+              "title": "449 美元的 enough 手机获电池、存储和内存大升级",
+              "brief": "售价 449 美元的紧凑型手机 enough phone 宣布多项配置升级。运行内存将提升至 12GB，存储空间从 128GB 翻倍至 256GB，并且支持扩展，这在当下手机中已相当罕见。电池容量也将从 3500mAh 增至 3850mAh，提升约 10%，同时改用硅碳电池技术，既能节省内部空间，也可支持更快的充电速度。目前该手机的众筹进度已完成约 85%，公司表示还需约 100 名支持者即可达成目标。众筹结束后，零售价将上涨至 599 美元。",
+              "source_url": "https://www.androidauthority.com/enough-phone-upgrades-3739459/",
+              "source_name": "Android Authority",
+              "published_at": "2026-11-26T03:46:08+08:00"
+            },
             {
               "title": "安克MagGo二合一Qi2充电支架亚马逊降价35%",
               "brief": "安克MagGo二合一Qi2充电支架目前在亚马逊售价35.09美元，原价53.99美元，降价19美元，折扣幅度35%，接近历史最低价。该交易来自第三方卖家，由亚马逊负责配送。这款支架可为iPhone和无线耳机同时充电，磁吸手机垫通过Qi2认证，可为iPhone 12及后续机型提供最高15W充电功率。手机垫可倾斜45度并360度旋转，支持横屏放置以使用待机显示模式或调整角度进行视频通话。下方设有5W无线充电位，可为AirPods等耳机充电，每台设备配有LED状态指示灯。产品附带1.5米USB-C线缆，官方建议搭配30W以上充电头以获得最快充电速度。",
@@ -181,33 +202,26 @@
               "source_url": "https://www.androidauthority.com/whatsapp-message-scheduling-3739465/",
               "source_name": "Android Authority",
               "published_at": "2026-11-26T02:56:35+08:00"
-            },
-            {
-              "title": "罗技MX Master 3S蓝牙版降至历史最低价",
-              "brief": "罗技MX Master 3S蓝牙版石墨色目前在亚马逊售价72.19美元，原价99.99美元，降价28美元，折扣28%，创下历史新低。该版本硬件与标准版相同，但不附带Logi Bolt USB接收器，改为蓝牙连接，后续仍可搭配Bolt接收器使用。它配备8000 DPI传感器，可在包括4毫米以上玻璃在内的多种表面追踪；按键噪音比前代MX Master 3降低90%；MagSpeed电磁滚轮最快可每秒滚动1000行，也可切换为逐行精确滚动。Easy-Switch功能最多可配对三台设备并一键切换，USB-C充满电可续航最长70天，兼容Windows、macOS、ChromeOS等系统。",
-              "source_url": "https://www.androidauthority.com/logitech-mx-master-3s-bluetooth-deal-3739433/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-26T01:56:48+08:00"
-            },
-            {
-              "title": "谷歌Pixel Buds 2a降价23%至最低价",
-              "brief": "谷歌Pixel Buds 2a目前在亚马逊售价99美元，较129美元的官方定价便宜30美元，折扣23%，追平历史最低价，所有配色均参与优惠。这款耳机支持主动降噪和通透模式，搭载谷歌Tensor A1芯片，单耳重量仅4.7克，适合长时间佩戴。续航方面，开启降噪可使用7小时，关闭降噪为10小时，配合充电盒总续航可达20至27小时。耳机具备IP54防尘防水等级，充电盒为IPX4，可应对雨水和运动出汗。耳机与Pixel手机搭配体验最佳，也可通过蓝牙连接任意Android手机或iPhone。亚马逊700多条评价中获4.4星评分。",
-              "source_url": "https://www.androidauthority.com/pixel-buds-2a-black-friday-deal-3739432/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-26T01:20:22+08:00"
-            },
-            {
-              "title": "Nothing Ear note 预告展示耳机及独特充电盒",
-              "brief": "Nothing 通过预告展示了即将推出的 Ear note 耳机及其独特的充电盒，耳机支持 Nothing 的 AI 语音助手以及其他 AI 代理的摘要和转录功能。目前价格信息尚未公布，预计要到 12 月 8 日正式发布时才会揭晓。Nothing 今年早些时候发布的 Ear 3a 已支持音频和通话录音，而 Ear note 更进一步，其充电盒本身可作为独立的音频录音设备使用。该公司称这是其最好的入耳式音频产品。外界也期待了解 Ear note 的音质表现能否与同级别最佳耳机相媲美。",
-              "source_url": "https://www.androidauthority.com/nothing-ear-note-earbuds-ai-recorder-teaser-video-3739402/",
-              "source_name": "Android Authority",
-              "published_at": "2026-11-26T00:29:26+08:00"
             }
           ]
         },
         {
           "name": "Engadget",
           "articles": [
+            {
+              "title": "美国多州总检察长试图阻止Character.AI拍卖用户聊天记录",
+              "brief": "Character.AI在破产程序中计划拍卖其平台资产，但42名州总检察长正试图阻止这一交易。加州总检察长邦塔指出，此次出售将包含用户聊天记录和IP地址，其中包括AI角色诱导儿童和成人进行露骨性对话的内容，以及用户与冒充医生和治疗师的AI角色讨论自残、饮食失调、自杀念头等敏感话题的对话。总检察长们认为此次拍卖无法保护用户数据，因为Character.AI曾承诺用户数据不会被出售。此外，目前仅披露一名匿名买家，该实体在Character.AI选定其前一天才成立。",
+              "source_url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-26T04:04:07+08:00"
+            },
+            {
+              "title": "ESA发现NASA的DART任务在小行星上留下体育场大小的撞击坑",
+              "brief": "欧洲航天局（ESA）的赫拉（Hera）探测器传回新图像，显示NASA的DART任务于2022年撞击小行星迪莫弗斯后，在其表面留下了一个体育场馆大小、横跨小行星整个宽度的撞击坑，但未改变其余区域的巨石分布。撞击还使小行星在新轨道上翻滚，并且两颗小行星周围均有数百颗环绕运行的巨石。这些细节由赫拉探测器的单色相机、多光谱成像仪和日本JAXA研制的热红外成像仪在约25至30公里外拍摄。ESA表示，两项任务的结合使人类朝着将小行星轨道偏转发展为可靠的行星防御工具迈出决定性一步。",
+              "source_url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+              "source_name": "Engadget",
+              "published_at": "2026-11-26T04:01:08+08:00"
+            },
             {
               "title": "1900美元的Alienware Aurora成为黑色星期五最佳PC优惠之一",
               "brief": "由于全球内存短缺，购买游戏设备变得十分昂贵，而亚马逊上1900美元的Alienware Aurora台式机黑色星期五优惠因此显得格外划算。该机采用35升紧凑中塔机箱，配备英特尔酷睿Ultra 7 265F处理器、32GB DDR5内存、1TB固态硬盘和12GB显存的NVIDIA RTX 5070显卡，可轻松应对1080p和2K游戏。若单独购买这些配件，仅CPU约365美元、32GB DDR5内存约470美元、RTX 5070显卡最低约910美元，三者合计就达1745美元左右，相当于机箱、电源、散热器和固态硬盘只花了150美元，且无需自己组装，是近期难得的游戏PC好价。",
@@ -235,6 +249,20 @@
           "name": "The Verge",
           "articles": [
             {
+              "title": "WhatsApp 推出定时发送消息功能",
+              "brief": "WhatsApp 面向其约 30 亿用户推出定时消息功能，Meta 称这是用户呼声最高的功能之一。该功能适用于私聊和群聊，还支持图片和视频。用户若在不方便的时间想到要发消息，或怕忘记发送生日祝福，可提前撰写并设定发送时间，最早可提前 10 分钟，最远可提前两周。操作方法为长按发送按钮，然后选择希望消息送达的日期和时间。定时消息发出后将像普通消息一样显示。",
+              "source_url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+              "source_name": "The Verge",
+              "published_at": "2026-11-25T15:31:48-05:00"
+            },
+            {
+              "title": "美军在艾奥瓦州 controlled 爆破后 EPA 称空气中铅含量为零",
+              "brief": "美国陆军今日在艾奥瓦州米德尔敦的艾奥瓦陆军弹药厂对约 9700 磅（4.4 吨）叠氮化铅进行了控制爆破，称此举是为防止库存中用于点火器和雷管的材料发生自发性爆炸。爆破视频显示数百英尺高的烟尘向南飘散后迅速消散。爆破结束后，军方确认厂区内所有装有该材料的桶均被销毁，且未发生二次爆炸。数小时后，环保署报告称周边区域初步检测结果显示空气中铅含量为零。",
+              "source_url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+              "source_name": "The Verge",
+              "published_at": "2026-11-25T14:45:51-05:00"
+            },
+            {
               "title": "1Password 数据泄露：客户姓名和邮箱外泄，但密码未受影响",
               "brief": "密码管理服务 1Password 证实，一名黑客在获取其后台系统访问权限后，窃取了客户的姓名和电子邮箱地址。此次泄露并未暴露密码或客户保险库中存储的其他信息，但可能导致用户面临钓鱼攻击的风险。受影响的用户数量尚不清楚。事件始于 11 月 19 日，攻击者入侵了一名员工的企业 GitHub 账户，随后利用该账户访问 1Password 的源代码，并向后台服务推送恶意代码以下载客户数据。公司已展开调查并披露了此次事件。",
               "source_url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
@@ -254,20 +282,6 @@
               "source_url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
               "source_name": "The Verge",
               "published_at": "2026-11-25T13:00:00-05:00"
-            },
-            {
-              "title": "FCC 批准 SpaceX 部署多达 100 万颗数据中心卫星的计划",
-              "brief": "美国联邦通信委员会（FCC）批准 SpaceX 部署多达 100 万颗搭载 AI 芯片的卫星，作为其“Starmind”计划的一部分，旨在为地球上的 AI 能力提供支持。这是该机构首次批准完整的 AI 卫星“星座”，此前谷歌和蓝色起源等公司也在推进太空 AI 数据中心的构想。FCC 要求 SpaceX 在 2033 年前部署至少一颗卫星，并在 2040 年前达到 100 万颗的里程碑。此外，FCC 暂缓了 SpaceX 将 600 公里以上卫星送入“墓地轨道”而非使其在大气层烧毁的处置请求，认为公司尚未提供足够的信息。",
-              "source_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-              "source_name": "The Verge",
-              "published_at": "2026-11-25T12:44:51-05:00"
-            },
-            {
-              "title": "The Verge 2026 百美元以下最佳礼物指南",
-              "brief": "The Verge 发布年度百美元以下最佳礼物指南，指出即使在通货膨胀时代，100 美元仍能买到实用且做工精良的礼物，价格不高，不会带来负担。该指南由编辑团队以评测者、购物者和爱好折腾的玩家身份挑选，收录了他们认为有趣、独特且出人意料实用的商品，涵盖开放式耳机、游戏装备、手持吸尘器和电子阅读器等品类，适合购物清单上的各类人群。指南还按价格区间分类，包括 20 美元以下、21 至 50 美元、51 至 150 美元等档位，方便读者按预算选择。",
-              "source_url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-              "source_name": "The Verge",
-              "published_at": "2026-11-25T12:00:00-05:00"
             }
           ]
         }
@@ -279,6 +293,13 @@
         {
           "name": "IGN",
           "articles": [
+            {
+              "title": "神谷英_tree",
+              "brief": "ing \"absolutely incredible\" alongside Konami. Hideki Kamiya is back in the saddle at CLOVERS, his independent game studio made up of former CLOVER staff who are currently hard at work on the Okami sequel . He made the company’s independent status extremely clear in his latest YouTube video , reminding excited fans to stop asking him about Capcom-owned franchises (or even sequels to games like God Hand , since he had no part in its development). Given CLOVERS’ status as an independent company that’s already working with a major developer in Capcom, Kamiya floated ideas for future collaborations with other big developers once the Okami sequel is out in the world. One of those ideas was a partnership with Konami for a Castlevania game, which he promised would be “incredible,” if it actually ends up happening. Castlevania: Belmont's Curse Gallery View 14 Images “Since we’re independent and don’t have any outside funding, we want to stay on good terms — or rather, collaborate — with various companies and keep doing interesting things,” he explained. “Of course, I want to keep building a good relationship with Capcom, and naturally, I’d like to be on good terms with Nintendo, too. “...Maybe I could make a new Getsufumaden with Konami. Oh, and Castlevania. If we made it, it would be absolutely incredible, so please, let us take the job. I am a bit busy right now, though,” he laughed. A Castlevania game from a mind like Kamiya’s would definitely be something special. Would it be a 3D action game like Bayonetta, or more of a 2D side-scroller in the vein of Viewtiful Joe ? The possibilities are endless, and given that Konami is already on a mission to revitalize its classic IPs with new games, the possibility of a team-up with CLOVERS on a Castlevania title isn’t totally out of the question. It's also worth noting that the Castlevania franchise enjoyed a new installment in Belmont's Curse late last month. Alongside its animated adaptations on Netflix, Konami's classic vampire",
+              "source_url": "https://www.ign.com/articles/it-would-be-absolutely-incredible-hideki-kamiya-wants-to-make-a-new-castlevania-game-with-konami",
+              "source_name": "IGN",
+              "published_at": "2026-11-26T03:25:26+08:00"
+            },
             {
               "title": "索尼公布2026年12月PlayStation Plus会免游戏",
               "brief": "索尼通过PlayStation博客公布了2026年12月的PlayStation Plus会免游戏，共三款：分别是《托尼·霍克职业滑板3+4》跨世代版（PS5/PS4）、《龙珠：超宇宙2》（PS5/PS4）以及《失忆症：地堡》（PS4）。会员可在GTA 6之余体验这些新作，或作为通宵游玩后的调剂。此外需要注意，11月的会免游戏《死亡岛2》《古墓丽影IV-VI重制版》和《怪物火车2》的领取截止日期为11月30日星期一，尚未入库的会员应尽快添加到自己的游戏库中。",
@@ -306,13 +327,6 @@
               "source_url": "https://www.ign.com/articles/the-witcher-3-and-assassins-creed-reset-player-expectations-for-open-world-action-rpgs-so-the-fable-reboot-devs-had-to-look-beyond-the-original-trilogy-for-inspiration",
               "source_name": "IGN",
               "published_at": "2026-11-26T00:44:33+08:00"
-            },
-            {
-              "title": "《银翼杀手2099》节目统筹解读对菲利普·迪克原著小说的致敬",
-              "brief": "1982年雷德利·斯科特执导的首部《银翼杀手》电影即改编自菲利普·迪克的科幻小说《仿生人会梦见电子羊吗？》，但电影省略了书中多个核心元素，包括共情盒以及迪卡德购买真动物的情节。在小说的后末日世界中，动物极为稀有，饲养真动物是奢侈行为，迪卡德与妻子养着一只电子羊，后来不顾妻子反对购买了一只黑色努比亚山羊。虽然该情节未出现在任何银翼杀手影视作品中，但剧中同样出现了一只黑山羊。该剧由杨紫琼和亨特·谢弗主演，已于2026年11月25日在Prime Video全球首播。",
-              "source_url": "https://www.ign.com/articles/blade-runner-2099-showrunner-explains-the-references-to-philip-k-dicks-novel-do-androids-dream-of-electric-sheep",
-              "source_name": "IGN",
-              "published_at": "2026-11-26T00:00:00+08:00"
             }
           ]
         },
